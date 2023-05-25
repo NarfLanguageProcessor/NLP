@@ -1,1 +1,1 @@
-{"index": 149215, "D": "to compose and perform or deliver without previous preparation; extemporize", "S": ["ad-lib ", "brainstorm ", "concoct ", "contrive ", "devise ", "dream up ", "invent ", "throw together "], "A": ["design ", "plan ", "premeditate "]}
+{"index": 149215, "D": "to compose and perform or deliver without previous preparation; extemporize", "S": ["ad-lib", "brainstorm", "concoct", "contrive", "devise", "dream up", "invent", "throw together"], "A": ["design", "plan", "premeditate"]}

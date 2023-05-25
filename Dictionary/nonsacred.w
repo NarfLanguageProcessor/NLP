@@ -1,1 +1,1 @@
-{"index": 206960, "D": "devoted or dedicated to a deity or to some religious purpose; consecrated. ", "S": ["earthly ", "materialistic ", "physical ", "sensual "], "A": ["immaterial ", "mental ", "spiritual "]}
+{"index": 206960, "D": "devoted or dedicated to a deity or to some religious purpose; consecrated. ", "S": ["earthly", "materialistic", "physical", "sensual"], "A": ["immaterial", "mental", "spiritual"]}

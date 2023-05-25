@@ -1,1 +1,1 @@
-{"index": 324385, "D": "slightly intoxicated or drunk.", "S": ["alcoholism ", "boozing ", "crapulence ", "dipsomania ", "inebriation ", "inebriety ", "insobriety ", "intemperance ", "intoxication "], "A": []}
+{"index": 324385, "D": "slightly intoxicated or drunk.", "S": ["alcoholism", "boozing", "crapulence", "dipsomania", "inebriation", "inebriety", "insobriety", "intemperance", "intoxication"], "A": []}

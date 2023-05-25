@@ -1,1 +1,1 @@
-{"index": 43941, "D": "a person who makes fine furniture and other woodwork.", "S": ["artisan ", "builder ", "laborer ", "woodworker ", "worker "], "A": []}
+{"index": 43941, "D": "a person who makes fine furniture and other woodwork.", "S": ["artisan", "builder", "laborer", "woodworker", "worker"], "A": []}

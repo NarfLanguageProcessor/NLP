@@ -1,1 +1,1 @@
-{"index": 293398, "D": "to go, run, or glide lightly or rapidly.", "S": ["bound ", "carom ", "flit ", "gambol ", "graze ", "lope ", "prance ", "ricochet ", "scamper ", "scoot ", "skim ", "tiptoe "], "A": ["face ", "stand ", "stay ", "wait ", "walk "]}
+{"index": 293398, "D": "to go, run, or glide lightly or rapidly.", "S": ["bound", "carom", "flit", "gambol", "graze", "lope", "prance", "ricochet", "scamper", "scoot", "skim", "tiptoe"], "A": ["face", "stand", "stay", "wait", "walk"]}

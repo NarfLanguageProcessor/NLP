@@ -1,1 +1,1 @@
-{"index": 56466, "D": "a timepiece or timing device with a special mechanism for ensuring and adjusting its accuracy, for use in determining longitude at sea or for any purpose where very exact measurement of time is required.", "S": ["historical ", "sequential "], "A": []}
+{"index": 56466, "D": "a timepiece or timing device with a special mechanism for ensuring and adjusting its accuracy, for use in determining longitude at sea or for any purpose where very exact measurement of time is required.", "S": ["historical", "sequential"], "A": []}

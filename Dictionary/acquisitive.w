@@ -1,1 +1,1 @@
-{"index": 2754, "D": "tending or seeking to acquire  and own, often greedily; eager to get wealth, possessions, etc.", "S": ["rapacious "], "A": []}
+{"index": 2754, "D": "tending or seeking to acquire  and own, often greedily; eager to get wealth, possessions, etc.", "S": ["rapacious"], "A": []}

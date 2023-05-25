@@ -1,1 +1,1 @@
-{"index": 54171, "D": "a young chicken or other bird.", "S": ["offspring "], "A": ["parent "]}
+{"index": 54171, "D": "a young chicken or other bird.", "S": ["offspring"], "A": ["parent"]}

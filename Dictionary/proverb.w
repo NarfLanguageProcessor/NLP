@@ -1,1 +1,1 @@
-{"index": 254037, "D": "a short popular saying, usually of unknown and ancient origin, that expresses effectively some commonplace truth or useful thought; adage; saw.", "S": ["adage ", "aphorism ", "axiom ", "dictum ", "epigram ", "maxim ", "witticism "], "A": []}
+{"index": 254037, "D": "a short popular saying, usually of unknown and ancient origin, that expresses effectively some commonplace truth or useful thought; adage; saw.", "S": ["adage", "aphorism", "axiom", "dictum", "epigram", "maxim", "witticism"], "A": []}

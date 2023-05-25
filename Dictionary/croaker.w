@@ -1,1 +1,1 @@
-{"index": 73528, "D": "a person or thing that croaks. ", "S": ["toad "], "A": []}
+{"index": 73528, "D": "a person or thing that croaks. ", "S": ["toad"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183537, "D": "to refer briefly to; name, specify, or speak of", "S": ["cited ", "quoted ", "specified ", "voiced "], "A": []}
+{"index": 183537, "D": "to refer briefly to; name, specify, or speak of", "S": ["cited", "quoted", "specified", "voiced"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 50594, "D": "a small room, as in a convent or prison.", "S": ["beef ", "fat ", "meat ", "muscle "], "A": ["skinniness ", "thinness "]}
+{"index": 50594, "D": "a small room, as in a convent or prison.", "S": ["beef", "fat", "meat", "muscle"], "A": ["skinniness", "thinness"]}

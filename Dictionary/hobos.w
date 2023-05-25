@@ -1,1 +1,1 @@
-{"index": 142142, "D": "a tramp or vagrant.", "S": ["drifter ", "tramp ", "wanderer "], "A": []}
+{"index": 142142, "D": "a tramp or vagrant.", "S": ["drifter", "tramp", "wanderer"], "A": []}

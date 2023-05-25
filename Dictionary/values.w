@@ -1,1 +1,0 @@
-{"index": 356839, "D": "relative worth, merit, or importance", "S": ["attitude ", "beliefs ", "character ", "code ", "conduct ", "conscience ", "ethics ", "ideals ", "integrity ", "morals ", "mores ", "scruples ", "standards "], "A": ["immorality "]}

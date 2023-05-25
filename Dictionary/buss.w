@@ -1,1 +1,1 @@
-{"index": 43512, "D": "kiss. ", "S": ["osculate ", "peck ", "smack ", "smooch ", "snog ", "spoon "], "A": []}
+{"index": 43512, "D": "kiss. ", "S": ["osculate", "peck", "smack", "smooch", "snog", "spoon"], "A": []}

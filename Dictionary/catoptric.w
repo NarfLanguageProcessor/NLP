@@ -1,1 +1,1 @@
-{"index": 49810, "D": "Relating to the reflection of light, especially by a mirror. Catoptric lenses are used in Fresnel lenses and many telescopes. Compare  catadioptric dioptric.", "S": ["optical fiber "], "A": []}
+{"index": 49810, "D": "Relating to the reflection of light, especially by a mirror. Catoptric lenses are used in Fresnel lenses and many telescopes. Compare  catadioptric dioptric.", "S": ["optical fiber"], "A": []}

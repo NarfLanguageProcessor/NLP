@@ -1,1 +1,1 @@
-{"index": 154221, "D": "of, relating to, or belonging as a part of the whole; constituent or component", "S": ["elemental ", "essential ", "indispensable ", "intrinsic "], "A": ["nonessential "]}
+{"index": 154221, "D": "of, relating to, or belonging as a part of the whole; constituent or component", "S": ["elemental", "essential", "indispensable", "intrinsic"], "A": ["nonessential"]}

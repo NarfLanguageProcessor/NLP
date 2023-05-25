@@ -1,1 +1,1 @@
-{"index": 84088, "D": "a crown.", "S": ["coronet ", "dignity ", "fillet ", "halo ", "headband ", "tiara "], "A": []}
+{"index": 84088, "D": "a crown.", "S": ["coronet", "dignity", "fillet", "halo", "headband", "tiara"], "A": []}

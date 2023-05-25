@@ -1,1 +1,1 @@
-{"index": 152662, "D": [], "S": ["delighted ", "ecstatic ", "enchanted ", "euphoric ", "excited ", "exultant ", "joyful ", "jubilant ", "overjoyed ", "proud "], "A": ["depressed ", "disappointed ", "miserable ", "sad ", "sorrowful ", "troubled ", "unhappy "]}
+{"index": 152662, "D": [], "S": ["delighted", "ecstatic", "enchanted", "euphoric", "excited", "exultant", "joyful", "jubilant", "overjoyed", "proud"], "A": ["depressed", "disappointed", "miserable", "sad", "sorrowful", "troubled", "unhappy"]}

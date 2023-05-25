@@ -1,1 +1,1 @@
-{"index": 21468, "D": "to produce asphyxia  in.", "S": ["suffocate "], "A": ["breathe ", "loosen "]}
+{"index": 21468, "D": "to produce asphyxia  in.", "S": ["suffocate"], "A": ["breathe", "loosen"]}

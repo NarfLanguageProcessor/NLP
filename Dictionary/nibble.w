@@ -1,1 +1,1 @@
-{"index": 199550, "D": "to bite off small bits.", "S": ["crumb ", "peck ", "snack ", "taste ", "tidbit "], "A": ["lot "]}
+{"index": 199550, "D": "to bite off small bits.", "S": ["crumb", "peck", "snack", "taste", "tidbit"], "A": ["lot"]}

@@ -1,1 +1,1 @@
-{"index": 32571, "D": "of, relating to, or having the form of a beast", "S": ["barbarous ", "beastly ", "boorish ", "brutish ", "cruel ", "depraved ", "feral ", "inhuman ", "savage "], "A": ["generous ", "gentle ", "humane ", "kind ", "nice "]}
+{"index": 32571, "D": "of, relating to, or having the form of a beast", "S": ["barbarous", "beastly", "boorish", "brutish", "cruel", "depraved", "feral", "inhuman", "savage"], "A": ["generous", "gentle", "humane", "kind", "nice"]}

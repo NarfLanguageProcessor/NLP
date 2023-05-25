@@ -1,1 +1,1 @@
-{"index": 354756, "D": "to support or defend, as against opposition or criticism", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}
+{"index": 354756, "D": "to support or defend, as against opposition or criticism", "S": ["encouraging", "reassuring", "refreshing", "soothing"], "A": ["aggravating", "depressing", "dispiriting", "distressing", "disturbing", "irritating", "upsetting", "worrying"]}

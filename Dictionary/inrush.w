@@ -1,1 +1,1 @@
-{"index": 153369, "D": "a rushing  or pouring in.", "S": ["arrival ", "incursion ", "inflow ", "introduction ", "invasion "], "A": ["retreat ", "departure "]}
+{"index": 153369, "D": "a rushing  or pouring in.", "S": ["arrival", "incursion", "inflow", "introduction", "invasion"], "A": ["retreat", "departure"]}

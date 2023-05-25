@@ -1,1 +1,1 @@
-{"index": 266505, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["comeback ", "healing ", "improvement ", "recuperation ", "rehabilitation ", "renewal ", "resurgence ", "revival "], "A": ["destruction "]}
+{"index": 266505, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["comeback", "healing", "improvement", "recuperation", "rehabilitation", "renewal", "resurgence", "revival"], "A": ["destruction"]}

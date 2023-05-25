@@ -1,1 +1,0 @@
-{"index": 241834, "D": "the production of more than one embryo from one egg.", "S": [], "A": []}

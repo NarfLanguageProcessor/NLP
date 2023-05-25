@@ -1,1 +1,0 @@
-{"index": 367835, "D": "a person or thing that wraps. ", "S": ["casing ", "envelope "], "A": []}

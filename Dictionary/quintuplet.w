@@ -1,1 +1,1 @@
-{"index": 258934, "D": "any group or combination of five, especially of the same kind.", "S": ["cinque ", "cinquefoil ", "limerick ", "lustrum ", "pentacle ", "pentad ", "pentagon ", "pentagram ", "pentangle ", "quinquennium ", "quintette ", "quintuple "], "A": []}
+{"index": 258934, "D": "any group or combination of five, especially of the same kind.", "S": ["cinque", "cinquefoil", "limerick", "lustrum", "pentacle", "pentad", "pentagon", "pentagram", "pentangle", "quinquennium", "quintette", "quintuple"], "A": []}

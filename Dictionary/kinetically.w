@@ -1,1 +1,0 @@
-{"index": 164839, "D": "pertaining to motion.", "S": [], "A": []}

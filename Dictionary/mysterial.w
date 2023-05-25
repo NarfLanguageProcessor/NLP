@@ -1,1 +1,1 @@
-{"index": 190223, "D": [], "S": ["enigmatic ", "impenetrable ", "incomprehensible ", "unfathomable ", "unintelligible "], "A": ["clear ", "comprehensible ", "fathomable ", "intelligible ", "understandable "]}
+{"index": 190223, "D": [], "S": ["enigmatic", "impenetrable", "incomprehensible", "unfathomable", "unintelligible"], "A": ["clear", "comprehensible", "fathomable", "intelligible", "understandable"]}

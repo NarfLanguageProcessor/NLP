@@ -1,1 +1,1 @@
-{"index": 85214, "D": "pertaining to diet  or to regulation of the use of food.", "S": ["nourishment "], "A": ["deprivation ", "starvation "]}
+{"index": 85214, "D": "pertaining to diet  or to regulation of the use of food.", "S": ["nourishment"], "A": ["deprivation", "starvation"]}

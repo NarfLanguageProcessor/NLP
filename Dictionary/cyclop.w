@@ -1,1 +1,1 @@
-{"index": 57194, "D": [], "S": ["Gargantua ", "Hercules ", "Samson ", "behemoth ", "giant ", "goliath ", "leviathan ", "mammoth ", "titan "], "A": []}
+{"index": 57194, "D": [], "S": ["Gargantua", "Hercules", "Samson", "behemoth", "giant", "goliath", "leviathan", "mammoth", "titan"], "A": []}

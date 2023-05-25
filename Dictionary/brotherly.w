@@ -1,1 +1,1 @@
-{"index": 41584, "D": "of, like, or befitting a brother;  affectionate and loyal; fraternal", "S": ["affectionate ", "amicable ", "cordial ", "fraternal ", "neighborly ", "selfless "], "A": ["cold ", "cool ", "hostile ", "unfriendly ", "unsociable "]}
+{"index": 41584, "D": "of, like, or befitting a brother;  affectionate and loyal; fraternal", "S": ["affectionate", "amicable", "cordial", "fraternal", "neighborly", "selfless"], "A": ["cold", "cool", "hostile", "unfriendly", "unsociable"]}

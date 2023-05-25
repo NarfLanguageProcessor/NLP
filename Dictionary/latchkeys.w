@@ -1,1 +1,1 @@
-{"index": 168804, "D": "a key  for releasing a latch  or springlock, especially on an outer door.", "S": ["opener ", "passkey ", "screw ", "skeleton "], "A": ["lock ", "question "]}
+{"index": 168804, "D": "a key  for releasing a latch  or springlock, especially on an outer door.", "S": ["opener", "passkey", "screw", "skeleton"], "A": ["lock", "question"]}

@@ -1,1 +1,1 @@
-{"index": 52564, "D": "an endowment for the singing or saying of Mass for the souls of the founders or of persons named by them.", "S": ["shrine "], "A": []}
+{"index": 52564, "D": "an endowment for the singing or saying of Mass for the souls of the founders or of persons named by them.", "S": ["shrine"], "A": []}

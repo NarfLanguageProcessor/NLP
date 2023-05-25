@@ -1,1 +1,1 @@
-{"index": 160155, "D": "a prison, especially one for the detention of persons awaiting trial or convicted of minor offenses.", "S": ["incarcerated "], "A": []}
+{"index": 160155, "D": "a prison, especially one for the detention of persons awaiting trial or convicted of minor offenses.", "S": ["incarcerated"], "A": []}

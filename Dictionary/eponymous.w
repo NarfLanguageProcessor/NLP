@@ -1,1 +1,1 @@
-{"index": 103092, "D": "named after the specified person, place, or thing, usually its founder, creator, inventor, discoverer, or source", "S": ["titular "], "A": ["anonymous "]}
+{"index": 103092, "D": "named after the specified person, place, or thing, usually its founder, creator, inventor, discoverer, or source", "S": ["titular"], "A": ["anonymous"]}

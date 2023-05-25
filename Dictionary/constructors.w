@@ -1,1 +1,1 @@
-{"index": 67118, "D": "a person or thing that builds.", "S": ["assembler "], "A": []}
+{"index": 67118, "D": "a person or thing that builds.", "S": ["assembler"], "A": []}

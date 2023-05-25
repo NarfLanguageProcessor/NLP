@@ -1,1 +1,1 @@
-{"index": 197443, "D": "of or relating to sailors, ships, or navigation", "S": ["maritime ", "navigational ", "seafaring "], "A": []}
+{"index": 197443, "D": "of or relating to sailors, ships, or navigation", "S": ["maritime", "navigational", "seafaring"], "A": []}

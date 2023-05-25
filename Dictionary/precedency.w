@@ -1,1 +1,1 @@
-{"index": 245972, "D": "precedence. ", "S": ["antecedence ", "earliness ", "lead ", "precession ", "preeminence ", "preexistence ", "preference ", "primary ", "priority ", "rank ", "seniority ", "superiority ", "supremacy "], "A": ["subservience "]}
+{"index": 245972, "D": "precedence. ", "S": ["antecedence", "earliness", "lead", "precession", "preeminence", "preexistence", "preference", "primary", "priority", "rank", "seniority", "superiority", "supremacy"], "A": ["subservience"]}

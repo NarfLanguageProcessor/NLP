@@ -1,1 +1,1 @@
-{"index": 295200, "D": "a badly confused or ridiculously muddled situation", "S": ["blunder ", "foul-up ", "miscalculation ", "misunderstanding ", "mix-up ", "slipup "], "A": ["understanding ", "correction ", "order ", "organization ", "success "]}
+{"index": 295200, "D": "a badly confused or ridiculously muddled situation", "S": ["blunder", "foul-up", "miscalculation", "misunderstanding", "mix-up", "slipup"], "A": ["understanding", "correction", "order", "organization", "success"]}

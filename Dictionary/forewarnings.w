@@ -1,1 +1,1 @@
-{"index": 117141, "D": [], "S": ["feeling ", "foreboding ", "foreshadowing ", "omen ", "portent ", "premonition ", "prescience ", "presentiment ", "warning "], "A": []}
+{"index": 117141, "D": [], "S": ["feeling", "foreboding", "foreshadowing", "omen", "portent", "premonition", "prescience", "presentiment", "warning"], "A": []}

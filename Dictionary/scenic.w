@@ -1,1 +1,1 @@
-{"index": 279974, "D": "of or relating to natural scenery.", "S": ["breathtaking ", "dramatic ", "grand ", "panoramic ", "spectacular "], "A": ["normal ", "ordinary ", "usual "]}
+{"index": 279974, "D": "of or relating to natural scenery.", "S": ["breathtaking", "dramatic", "grand", "panoramic", "spectacular"], "A": ["normal", "ordinary", "usual"]}

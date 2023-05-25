@@ -1,1 +1,1 @@
-{"index": 265008, "D": "an act of referring;  the state of being referred. ", "S": ["barometer ", "criterion ", "frame of reference ", "touchstone ", "yardstick "], "A": []}
+{"index": 265008, "D": "an act of referring;  the state of being referred. ", "S": ["barometer", "criterion", "frame of reference", "touchstone", "yardstick"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25765, "D": "a withdrawal from a previously held position, especially in the face of superior power or upon further consideration.", "S": ["recantation ", "renunciation ", "withdrawal "], "A": []}
+{"index": 25765, "D": "a withdrawal from a previously held position, especially in the face of superior power or upon further consideration.", "S": ["recantation", "renunciation", "withdrawal"], "A": []}

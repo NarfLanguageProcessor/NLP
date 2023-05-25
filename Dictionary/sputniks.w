@@ -1,1 +1,1 @@
-{"index": 301563, "D": [], "S": ["asteroid ", "luna ", "moon ", "rocket ", "spacecraft "], "A": []}
+{"index": 301563, "D": [], "S": ["asteroid", "luna", "moon", "rocket", "spacecraft"], "A": []}

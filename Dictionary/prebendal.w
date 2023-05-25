@@ -1,1 +1,0 @@
-{"index": 245833, "D": "a stipend allotted from the revenues of a cathedral or a collegiate church to a canon or member of the chapter.", "S": [], "A": []}

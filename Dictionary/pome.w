@@ -1,1 +1,1 @@
-{"index": 242850, "D": "the characteristic fruit of the apple family, as an apple, pear, or quince, in which the edible flesh arises from the greatly swollen receptacle and not from the carpels.", "S": ["false fruit ", "pseudocarp "], "A": []}
+{"index": 242850, "D": "the characteristic fruit of the apple family, as an apple, pear, or quince, in which the edible flesh arises from the greatly swollen receptacle and not from the carpels.", "S": ["false fruit", "pseudocarp"], "A": []}

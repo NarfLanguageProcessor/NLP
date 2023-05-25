@@ -1,1 +1,1 @@
-{"index": 144929, "D": "lacking variety; boring; dull", "S": ["drab ", "dreary ", "everyday ", "monotonous ", "mundane ", "plodding ", "tedious ", "uninteresting "], "A": ["exciting ", "interesting ", "abnormal ", "different ", "exceptional ", "extraordinary ", "rare ", "uncommon ", "unusual "]}
+{"index": 144929, "D": "lacking variety; boring; dull", "S": ["drab", "dreary", "everyday", "monotonous", "mundane", "plodding", "tedious", "uninteresting"], "A": ["exciting", "interesting", "abnormal", "different", "exceptional", "extraordinary", "rare", "uncommon", "unusual"]}

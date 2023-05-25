@@ -1,1 +1,1 @@
-{"index": 357760, "D": "one of the system of branching vessels or tubes conveying blood from various parts of the body to the heart.", "S": ["hairy "], "A": []}
+{"index": 357760, "D": "one of the system of branching vessels or tubes conveying blood from various parts of the body to the heart.", "S": ["hairy"], "A": []}

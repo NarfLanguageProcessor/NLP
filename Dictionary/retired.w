@@ -1,1 +1,1 @@
-{"index": 270555, "D": "withdrawn from or no longer occupied with one's business or profession", "S": ["elderly ", "resigned "], "A": ["active ", "employed ", "working "]}
+{"index": 270555, "D": "withdrawn from or no longer occupied with one's business or profession", "S": ["elderly", "resigned"], "A": ["active", "employed", "working"]}

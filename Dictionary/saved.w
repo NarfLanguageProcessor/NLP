@@ -1,1 +1,1 @@
-{"index": 279068, "D": "to rescue from danger or possible harm, injury, or loss", "S": ["freed ", "released ", "rescued "], "A": ["insecure ", "unprotected "]}
+{"index": 279068, "D": "to rescue from danger or possible harm, injury, or loss", "S": ["freed", "released", "rescued"], "A": ["insecure", "unprotected"]}

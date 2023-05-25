@@ -1,1 +1,1 @@
-{"index": 270190, "D": "to raise from the dead; bring to life again.", "S": ["adored ", "beatified ", "consecrated ", "divine ", "enthroned ", "exalted ", "glorified ", "hallowed ", "redeemed ", "revered ", "rewarded ", "saved "], "A": ["cursed "]}
+{"index": 270190, "D": "to raise from the dead; bring to life again.", "S": ["adored", "beatified", "consecrated", "divine", "enthroned", "exalted", "glorified", "hallowed", "redeemed", "revered", "rewarded", "saved"], "A": ["cursed"]}

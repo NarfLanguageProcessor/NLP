@@ -1,1 +1,1 @@
-{"index": 154366, "D": "to a high or extreme degree", "S": ["fiercely ", "profoundly ", "strongly ", "vehemently ", "very "], "A": []}
+{"index": 154366, "D": "to a high or extreme degree", "S": ["fiercely", "profoundly", "strongly", "vehemently", "very"], "A": []}

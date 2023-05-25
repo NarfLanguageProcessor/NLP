@@ -1,1 +1,1 @@
-{"index": 229062, "D": "a display of objects or pictures viewed through a small opening that is usually fitted with a magnifying lens.", "S": ["cabaret ", "floor show ", "raree show "], "A": []}
+{"index": 229062, "D": "a display of objects or pictures viewed through a small opening that is usually fitted with a magnifying lens.", "S": ["cabaret", "floor show", "raree show"], "A": []}

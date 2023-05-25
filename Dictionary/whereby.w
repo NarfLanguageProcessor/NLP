@@ -1,1 +1,1 @@
-{"index": 364659, "D": "by what or by which; under the terms of which.", "S": ["by which ", "how ", "through which "], "A": []}
+{"index": 364659, "D": "by what or by which; under the terms of which.", "S": ["by which", "how", "through which"], "A": []}

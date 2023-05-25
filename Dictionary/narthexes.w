@@ -1,1 +1,1 @@
-{"index": 197074, "D": "an enclosed passage between the main entrance and the nave of a church.", "S": ["doorway ", "foyer ", "hallway ", "porch "], "A": ["conclusion ", "exit "]}
+{"index": 197074, "D": "an enclosed passage between the main entrance and the nave of a church.", "S": ["doorway", "foyer", "hallway", "porch"], "A": ["conclusion", "exit"]}

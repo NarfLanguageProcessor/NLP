@@ -1,1 +1,1 @@
-{"index": 165644, "D": "an act or instance of knocking out.", "S": ["technical knockout "], "A": []}
+{"index": 165644, "D": "an act or instance of knocking out.", "S": ["technical knockout"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 23839, "D": "given or endowed with authority", "S": ["accredited ", "certified ", "commissioned ", "lawful ", "legitimate ", "licensed ", "recognized ", "sanctioned "], "A": ["illegal ", "illegitimate ", "unlawful "]}
+{"index": 23839, "D": "given or endowed with authority", "S": ["accredited", "certified", "commissioned", "lawful", "legitimate", "licensed", "recognized", "sanctioned"], "A": ["illegal", "illegitimate", "unlawful"]}

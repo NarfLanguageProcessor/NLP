@@ -1,1 +1,1 @@
-{"index": 145713, "D": "to bark sharply, shrilly, or snappishly; yelp.", "S": ["babble ", "blather ", "chat ", "chatter ", "clack ", "confabulate ", "gab ", "gossip ", "jabber ", "jaw ", "prate ", "prattle ", "run on ", "tattle ", "yammer "], "A": []}
+{"index": 145713, "D": "to bark sharply, shrilly, or snappishly; yelp.", "S": ["babble", "blather", "chat", "chatter", "clack", "confabulate", "gab", "gossip", "jabber", "jaw", "prate", "prattle", "run on", "tattle", "yammer"], "A": []}

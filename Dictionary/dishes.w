@@ -1,1 +1,1 @@
-{"index": 88269, "D": "an open, relatively shallow container of pottery, glass, metal, wood, etc., used for various purposes, especially for holding or serving food.", "S": ["cooking ", "fare ", "meal ", "menu "], "A": []}
+{"index": 88269, "D": "an open, relatively shallow container of pottery, glass, metal, wood, etc., used for various purposes, especially for holding or serving food.", "S": ["cooking", "fare", "meal", "menu"], "A": []}

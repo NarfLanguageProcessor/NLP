@@ -1,1 +1,1 @@
-{"index": 38883, "D": "puffed out; full", "S": ["braid ", "dreadlocks ", "haircut ", "hairdo ", "headdress ", "ponytail "], "A": []}
+{"index": 38883, "D": "puffed out; full", "S": ["braid", "dreadlocks", "haircut", "hairdo", "headdress", "ponytail"], "A": []}

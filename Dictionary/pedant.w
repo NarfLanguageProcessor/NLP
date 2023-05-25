@@ -1,1 +1,1 @@
-{"index": 228766, "D": "a person who makes an excessive or inappropriate display of learning.", "S": ["bluestocking ", "bookworm ", "doctrinaire ", "egghead ", "pedagogue "], "A": []}
+{"index": 228766, "D": "a person who makes an excessive or inappropriate display of learning.", "S": ["bluestocking", "bookworm", "doctrinaire", "egghead", "pedagogue"], "A": []}

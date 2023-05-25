@@ -1,1 +1,1 @@
-{"index": 40344, "D": "thrillingly beautiful, remarkable, astonishing, exciting, or the like", "S": ["amazing ", "astonishing ", "exciting ", "hair-raising ", "heart-stopping ", "impressive ", "magnificent ", "stunning ", "thrilling "], "A": ["boring ", "ugly "]}
+{"index": 40344, "D": "thrillingly beautiful, remarkable, astonishing, exciting, or the like", "S": ["amazing", "astonishing", "exciting", "hair-raising", "heart-stopping", "impressive", "magnificent", "stunning", "thrilling"], "A": ["boring", "ugly"]}

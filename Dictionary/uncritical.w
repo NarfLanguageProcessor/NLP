@@ -1,1 +1,1 @@
-{"index": 338204, "D": "not inclined or able to judge, especially by the application of comparative standards", "S": ["cursory ", "perfunctory "], "A": ["critical ", "discriminating ", "formal ", "fussy ", "important "]}
+{"index": 338204, "D": "not inclined or able to judge, especially by the application of comparative standards", "S": ["cursory", "perfunctory"], "A": ["critical", "discriminating", "formal", "fussy", "important"]}

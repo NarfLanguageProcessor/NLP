@@ -1,1 +1,1 @@
-{"index": 315880, "D": "changed from the wild or savage state; domesticated", "S": ["docile ", "gentle ", "harmless ", "manageable ", "mild ", "subdued "], "A": ["harsh ", "rough ", "violent "]}
+{"index": 315880, "D": "changed from the wild or savage state; domesticated", "S": ["docile", "gentle", "harmless", "manageable", "mild", "subdued"], "A": ["harsh", "rough", "violent"]}

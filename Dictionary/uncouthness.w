@@ -1,1 +1,1 @@
-{"index": 338106, "D": "awkward, clumsy, or unmannerly", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}
+{"index": 338106, "D": "awkward, clumsy, or unmannerly", "S": ["ignorance", "ineptitude"], "A": ["politeness", "sophistication"]}

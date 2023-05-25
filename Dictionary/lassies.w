@@ -1,1 +1,1 @@
-{"index": 168756, "D": "a young girl; lass. ", "S": ["babe ", "bimbo ", "chick ", "dame ", "dish ", "doll ", "female ", "floozy ", "gal ", "girl ", "honey ", "skirt "], "A": ["man "]}
+{"index": 168756, "D": "a young girl; lass. ", "S": ["babe", "bimbo", "chick", "dame", "dish", "doll", "female", "floozy", "gal", "girl", "honey", "skirt"], "A": ["man"]}

@@ -1,1 +1,1 @@
-{"index": 59376, "D": "(of a leaf) partly or wholly surrounding the stem.", "S": ["clamp ", "clutch ", "fasten ", "grasp "], "A": ["let go ", "loosen ", "open ", "release ", "unfasten ", "unlock ", "disbelieve ", "give ", "offer ", "receive ", "reject ", "stop "]}
+{"index": 59376, "D": "(of a leaf) partly or wholly surrounding the stem.", "S": ["clamp", "clutch", "fasten", "grasp"], "A": ["let go", "loosen", "open", "release", "unfasten", "unlock", "disbelieve", "give", "offer", "receive", "reject", "stop"]}

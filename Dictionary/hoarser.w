@@ -1,1 +1,1 @@
-{"index": 142057, "D": "having a vocal tone characterized by weakness of intensity and excessive breathiness; husky", "S": ["discordant ", "gravelly ", "gruff ", "harsh ", "raucous ", "throaty "], "A": ["nice ", "polite ", "soft "]}
+{"index": 142057, "D": "having a vocal tone characterized by weakness of intensity and excessive breathiness; husky", "S": ["discordant", "gravelly", "gruff", "harsh", "raucous", "throaty"], "A": ["nice", "polite", "soft"]}

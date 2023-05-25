@@ -1,1 +1,1 @@
-{"index": 16328, "D": "of the nature of or involving antithesis. ", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}
+{"index": 16328, "D": "of the nature of or involving antithesis. ", "S": ["individually", "negatively", "separately", "variously"], "A": ["together"]}

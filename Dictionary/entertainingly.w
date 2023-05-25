@@ -1,1 +1,1 @@
-{"index": 101365, "D": "affording entertainment;  amusing; diverting", "S": ["civilly ", "companionably ", "convivially ", "cordially ", "courteously ", "genially ", "hospitably ", "politely ", "sociably "], "A": []}
+{"index": 101365, "D": "affording entertainment;  amusing; diverting", "S": ["civilly", "companionably", "convivially", "cordially", "courteously", "genially", "hospitably", "politely", "sociably"], "A": []}

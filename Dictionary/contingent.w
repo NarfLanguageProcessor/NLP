@@ -1,1 +1,1 @@
-{"index": 67458, "D": "dependent for existence, occurrence, character, etc., on something not yet certain; conditional (often followed by on or upon)", "S": ["unforeseen "], "A": ["designed ", "essential ", "planned "]}
+{"index": 67458, "D": "dependent for existence, occurrence, character, etc., on something not yet certain; conditional (often followed by on or upon)", "S": ["unforeseen"], "A": ["designed", "essential", "planned"]}

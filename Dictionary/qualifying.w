@@ -1,1 +1,1 @@
-{"index": 257873, "D": "to provide with proper or necessary skills, knowledge, credentials, etc.; make competent", "S": ["condoning ", "diminishing ", "justifying ", "lessening ", "mitigating ", "moderating ", "reducing ", "softening ", "varnishing ", "whitewashing "], "A": []}
+{"index": 257873, "D": "to provide with proper or necessary skills, knowledge, credentials, etc.; make competent", "S": ["condoning", "diminishing", "justifying", "lessening", "mitigating", "moderating", "reducing", "softening", "varnishing", "whitewashing"], "A": []}

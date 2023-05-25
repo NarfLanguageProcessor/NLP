@@ -1,1 +1,1 @@
-{"index": 294856, "D": "a very small amount", "S": ["iota ", "morsel ", "sliver ", "whiff "], "A": ["lot ", "entirety ", "glob ", "total ", "whole "]}
+{"index": 294856, "D": "a very small amount", "S": ["iota", "morsel", "sliver", "whiff"], "A": ["lot", "entirety", "glob", "total", "whole"]}

@@ -1,1 +1,0 @@
-{"index": 283825, "D": "to make whiter or lighter in color, as by exposure to sunlight or a chemical agent; remove the color from.", "S": [], "A": []}

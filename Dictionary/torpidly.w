@@ -1,1 +1,1 @@
-{"index": 326214, "D": "inactive or sluggish.", "S": ["languidly ", "lazily ", "sluggishly "], "A": ["hectically ", "hurriedly "]}
+{"index": 326214, "D": "inactive or sluggish.", "S": ["languidly", "lazily", "sluggishly"], "A": ["hectically", "hurriedly"]}

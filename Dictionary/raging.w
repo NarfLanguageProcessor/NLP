@@ -1,1 +1,1 @@
-{"index": 259950, "D": "angry fury; violent anger (sometimes used in combination)", "S": ["enraged ", "furious ", "seething ", "stormy ", "turbulent "], "A": ["calm ", "mild ", "moderate "]}
+{"index": 259950, "D": "angry fury; violent anger (sometimes used in combination)", "S": ["enraged", "furious", "seething", "stormy", "turbulent"], "A": ["calm", "mild", "moderate"]}

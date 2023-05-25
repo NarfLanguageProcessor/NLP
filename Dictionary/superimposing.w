@@ -1,1 +1,1 @@
-{"index": 312018, "D": "to impose,  place, or set over, above, or on something else.", "S": ["cover ", "overlap "], "A": []}
+{"index": 312018, "D": "to impose,  place, or set over, above, or on something else.", "S": ["cover", "overlap"], "A": []}

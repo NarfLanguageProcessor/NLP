@@ -1,1 +1,1 @@
-{"index": 169524, "D": "a person or thing that leads.", "S": ["asterisk ", "bullet ", "caret ", "dagger ", "diacritical mark ", "ditto ", "double dagger ", "punctuation ", "punctuation mark ", "reference "], "A": []}
+{"index": 169524, "D": "a person or thing that leads.", "S": ["asterisk", "bullet", "caret", "dagger", "diacritical mark", "ditto", "double dagger", "punctuation", "punctuation mark", "reference"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 276671, "D": "to sink or bend downward by weight or pressure, especially in the middle", "S": ["billowing ", "floppy ", "oversize ", "roomy "], "A": ["firm ", "fitting ", "tight "]}
+{"index": 276671, "D": "to sink or bend downward by weight or pressure, especially in the middle", "S": ["billowing", "floppy", "oversize", "roomy"], "A": ["firm", "fitting", "tight"]}

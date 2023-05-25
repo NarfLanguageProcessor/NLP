@@ -1,0 +1,1 @@
+{"index": 30011, "D": "blankets, sheets, etc., used on a bed; bedclothes.", "S": ["bed linen", "bedspread", "blanket", "comforter", "linen", "pillow", "pillowcase", "quilt", "sheet"], "A": []}

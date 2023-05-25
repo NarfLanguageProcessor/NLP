@@ -1,1 +1,1 @@
-{"index": 68053, "D": "noting a specified type of person who has been converted from the religion, beliefs, or attitudes characteristic of that type", "S": ["transformed "], "A": []}
+{"index": 68053, "D": "noting a specified type of person who has been converted from the religion, beliefs, or attitudes characteristic of that type", "S": ["transformed"], "A": []}

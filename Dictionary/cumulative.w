@@ -1,1 +1,1 @@
-{"index": 74961, "D": "increasing or growing by accumulation or successive additions", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}
+{"index": 74961, "D": "increasing or growing by accumulation or successive additions", "S": ["aggregate", "increasing"], "A": ["decreasing", "subtracting"]}

@@ -1,1 +1,1 @@
-{"index": 100491, "D": "completely occupied or absorbed, as by something that captures the mind or attention; showing or characterized by such absorption", "S": ["absorbed ", "captivated ", "consumed ", "engaged ", "enthralled ", "submerged "], "A": ["existing ", "idle ", "inactive "]}
+{"index": 100491, "D": "completely occupied or absorbed, as by something that captures the mind or attention; showing or characterized by such absorption", "S": ["absorbed", "captivated", "consumed", "engaged", "enthralled", "submerged"], "A": ["existing", "idle", "inactive"]}

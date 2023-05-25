@@ -1,1 +1,1 @@
-{"index": 239310, "D": "a shallow, usually circular dish, often of earthenware or porcelain, from which food is eaten.", "S": ["bowl ", "platter ", "serving "], "A": []}
+{"index": 239310, "D": "a shallow, usually circular dish, often of earthenware or porcelain, from which food is eaten.", "S": ["bowl", "platter", "serving"], "A": []}

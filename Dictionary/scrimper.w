@@ -1,1 +1,0 @@
-{"index": 281832, "D": [], "S": ["insufficient ", "mere ", "minimum ", "miserable ", "paltry ", "puny ", "scant ", "scanty ", "skimpy ", "sparse ", "tenuous "], "A": ["adequate ", "ample ", "enough ", "generous ", "plentiful ", "rich ", "significant ", "substantial ", "sufficient ", "wealthy "]}

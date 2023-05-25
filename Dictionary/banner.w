@@ -1,1 +1,1 @@
-{"index": 27538, "D": "the flag of a country, army, troop, etc.", "S": ["leading "], "A": []}
+{"index": 27538, "D": "the flag of a country, army, troop, etc.", "S": ["leading"], "A": []}

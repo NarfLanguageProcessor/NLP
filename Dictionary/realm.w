@@ -1,1 +1,1 @@
-{"index": 261783, "D": "a royal domain; kingdom", "S": ["dimension ", "domain ", "field ", "sphere ", "territory ", "world "], "A": ["sky "]}
+{"index": 261783, "D": "a royal domain; kingdom", "S": ["dimension", "domain", "field", "sphere", "territory", "world"], "A": ["sky"]}

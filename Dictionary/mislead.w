@@ -1,1 +1,1 @@
-{"index": 189549, "D": "to lead or guide wrongly; lead astray.", "S": ["betray ", "cheat ", "deceive ", "defraud ", "delude ", "dupe ", "entice ", "fool ", "fudge ", "hoodwink ", "lie ", "misguide ", "misinform ", "misrepresent ", "tempt "], "A": ["support "]}
+{"index": 189549, "D": "to lead or guide wrongly; lead astray.", "S": ["betray", "cheat", "deceive", "defraud", "delude", "dupe", "entice", "fool", "fudge", "hoodwink", "lie", "misguide", "misinform", "misrepresent", "tempt"], "A": ["support"]}

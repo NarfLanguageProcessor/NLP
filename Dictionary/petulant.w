@@ -1,1 +1,1 @@
-{"index": 232621, "D": "moved to or showing sudden, impatient irritation, especially over some trifling annoyance", "S": ["cranky ", "fractious ", "impatient ", "irritable ", "perverse ", "sullen ", "testy ", "whiny "], "A": ["agreeable ", "cheerful ", "happy ", "nice ", "patient ", "willing "]}
+{"index": 232621, "D": "moved to or showing sudden, impatient irritation, especially over some trifling annoyance", "S": ["cranky", "fractious", "impatient", "irritable", "perverse", "sullen", "testy", "whiny"], "A": ["agreeable", "cheerful", "happy", "nice", "patient", "willing"]}

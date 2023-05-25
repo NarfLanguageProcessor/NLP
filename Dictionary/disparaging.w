@@ -1,1 +1,1 @@
-{"index": 88863, "D": "that disparages;  tending to belittle or bring reproach upon", "S": ["defamatory ", "derogatory ", "snide ", "unfavorable "], "A": ["complimentary ", "favorable ", "nice ", "praising "]}
+{"index": 88863, "D": "that disparages;  tending to belittle or bring reproach upon", "S": ["defamatory", "derogatory", "snide", "unfavorable"], "A": ["complimentary", "favorable", "nice", "praising"]}

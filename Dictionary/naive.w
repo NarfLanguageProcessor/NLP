@@ -1,1 +1,1 @@
-{"index": 196626, "D": "having or showing a lack of experience, judgment, or information; credulous", "S": ["ignorant ", "innocent ", "simple ", "sincere ", "unsophisticated ", "wide-eyed "], "A": ["aware ", "experienced ", "intelligent ", "knowledgeable ", "sophisticated "]}
+{"index": 196626, "D": "having or showing a lack of experience, judgment, or information; credulous", "S": ["ignorant", "innocent", "simple", "sincere", "unsophisticated", "wide-eyed"], "A": ["aware", "experienced", "intelligent", "knowledgeable", "sophisticated"]}

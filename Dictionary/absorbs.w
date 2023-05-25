@@ -1,1 +1,1 @@
-{"index": 1034, "D": "to suck up or drink in (a liquid); soak up", "S": ["consume ", "ingest ", "swallow ", "take in "], "A": ["abstain "]}
+{"index": 1034, "D": "to suck up or drink in (a liquid); soak up", "S": ["consume", "ingest", "swallow", "take in"], "A": ["abstain"]}

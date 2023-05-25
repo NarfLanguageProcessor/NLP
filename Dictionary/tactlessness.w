@@ -1,1 +1,1 @@
-{"index": 315140, "D": "lacking tact;  showing no tact;  undiplomatic; offendingly blunt", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}
+{"index": 315140, "D": "lacking tact;  showing no tact;  undiplomatic; offendingly blunt", "S": ["ignorance", "ineptitude"], "A": ["politeness", "sophistication"]}

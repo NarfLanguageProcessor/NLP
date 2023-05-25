@@ -1,1 +1,1 @@
-{"index": 153289, "D": "a legal or judicial inquiry, usually before a jury, especially an investigation made by a coroner into the cause of a death.", "S": ["inquisition "], "A": ["conclusion ", "findings "]}
+{"index": 153289, "D": "a legal or judicial inquiry, usually before a jury, especially an investigation made by a coroner into the cause of a death.", "S": [], "A": []}

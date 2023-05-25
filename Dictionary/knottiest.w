@@ -1,1 +1,1 @@
-{"index": 165690, "D": "having knots;  full of knots", "S": ["complicated ", "mystifying ", "perplexing ", "puzzling ", "sticky ", "thorny ", "tricky "], "A": ["easy ", "facile ", "smooth "]}
+{"index": 165690, "D": "having knots;  full of knots", "S": ["complicated", "mystifying", "perplexing", "puzzling", "sticky", "thorny", "tricky"], "A": ["easy", "facile", "smooth"]}

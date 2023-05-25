@@ -1,1 +1,1 @@
-{"index": 18111, "D": "inclined; disposed; given; prone", "S": ["appropriate ", "apropos ", "correct ", "felicitous ", "fitting ", "happy ", "relevant ", "suitable "], "A": ["improper ", "inappropriate ", "incorrect ", "irrelevant ", "unfitting ", "unseemly ", "unsuitable "]}
+{"index": 18111, "D": "inclined; disposed; given; prone", "S": ["appropriate", "apropos", "correct", "felicitous", "fitting", "happy", "relevant", "suitable"], "A": ["improper", "inappropriate", "incorrect", "irrelevant", "unfitting", "unseemly", "unsuitable"]}

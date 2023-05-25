@@ -1,1 +1,1 @@
-{"index": 282144, "D": "to struggle or fight in a rough, confused manner.", "S": ["brawl ", "commotion ", "disturbance ", "fracas ", "ruckus ", "strife ", "tussle ", "wrangle "], "A": ["calm ", "peace ", "quiet ", "tranquility ", "agreement ", "harmony "]}
+{"index": 282144, "D": "to struggle or fight in a rough, confused manner.", "S": ["brawl", "commotion", "disturbance", "fracas", "ruckus", "strife", "tussle", "wrangle"], "A": ["calm", "peace", "quiet", "tranquility", "agreement", "harmony"]}

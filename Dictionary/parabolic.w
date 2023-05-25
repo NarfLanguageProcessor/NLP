@@ -1,1 +1,1 @@
-{"index": 225367, "D": "having the form or outline of a parabola. ", "S": ["figurative ", "metaphorical "], "A": ["untypical "]}
+{"index": 225367, "D": "having the form or outline of a parabola. ", "S": ["figurative", "metaphorical"], "A": ["untypical"]}

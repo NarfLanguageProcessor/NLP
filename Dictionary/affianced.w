@@ -1,1 +1,1 @@
-{"index": 5348, "D": "betrothed; engaged.", "S": ["engaged ", "pledged "], "A": ["single ", "unattached "]}
+{"index": 5348, "D": "betrothed; engaged.", "S": ["engaged", "pledged"], "A": ["single", "unattached"]}

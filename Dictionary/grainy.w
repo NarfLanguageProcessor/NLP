@@ -1,1 +1,1 @@
-{"index": 128661, "D": "resembling grain;  granular.", "S": ["gritty ", "homespun "], "A": []}
+{"index": 128661, "D": "resembling grain;  granular.", "S": ["gritty", "homespun"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 99527, "D": "an act or instance of encroaching. ", "S": ["inroad ", "intrusion ", "invasion "], "A": []}
+{"index": 99527, "D": "an act or instance of encroaching. ", "S": ["inroad", "intrusion", "invasion"], "A": []}

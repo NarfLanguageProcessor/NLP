@@ -1,1 +1,1 @@
-{"index": 211650, "D": "the more distant part of the sea seen from the shore, beyond the anchoring ground.", "S": ["destiny ", "fate ", "millennium ", "outlook ", "prospect "], "A": ["past "]}
+{"index": 211650, "D": "the more distant part of the sea seen from the shore, beyond the anchoring ground.", "S": ["destiny", "fate", "millennium", "outlook", "prospect"], "A": ["past"]}

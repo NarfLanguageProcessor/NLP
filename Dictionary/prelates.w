@@ -1,1 +1,1 @@
-{"index": 248162, "D": "an ecclesiastic of a high order, as an archbishop, bishop, etc.; a church dignitary.", "S": ["bishop "], "A": []}
+{"index": 248162, "D": "an ecclesiastic of a high order, as an archbishop, bishop, etc.; a church dignitary.", "S": ["bishop"], "A": []}

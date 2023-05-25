@@ -1,1 +1,1 @@
-{"index": 318277, "D": "a brand of teletypewriter.", "S": ["summons ", "telegraph "], "A": []}
+{"index": 318277, "D": "a brand of teletypewriter.", "S": ["summons", "telegraph"], "A": []}

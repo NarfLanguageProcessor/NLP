@@ -1,1 +1,0 @@
-{"index": 343332, "D": "of, pertaining to, bearing, or shaped like a nail, claw, or hoof.", "S": [], "A": []}

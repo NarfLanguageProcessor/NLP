@@ -1,1 +1,1 @@
-{"index": 263925, "D": "somewhat red; tending to red; tinged with red.", "S": ["blooming ", "cerise ", "claret ", "crimson "], "A": []}
+{"index": 263925, "D": "somewhat red; tending to red; tinged with red.", "S": ["blooming", "cerise", "claret", "crimson"], "A": []}

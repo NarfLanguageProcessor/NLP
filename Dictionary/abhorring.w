@@ -1,1 +1,1 @@
-{"index": 399, "D": "to regard with extreme repugnance or aversion; detest utterly; loathe; abominate.", "S": ["despise ", "detest ", "hate ", "loathe ", "scorn "], "A": ["admire ", "cherish ", "like ", "love "]}
+{"index": 399, "D": "to regard with extreme repugnance or aversion; detest utterly; loathe; abominate.", "S": ["despise", "detest", "hate", "loathe", "scorn"], "A": ["admire", "cherish", "like", "love"]}

@@ -1,1 +1,1 @@
-{"index": 38300, "D": "Compare cool jazz, hard bop, modern jazz, progressive jazz. ", "S": ["bang ", "belt ", "hit ", "lick ", "punch ", "slug ", "smack ", "sock ", "swat ", "thwack ", "wallop ", "welt ", "whack ", "wham ", "whop "], "A": []}
+{"index": 38300, "D": "Compare cool jazz, hard bop, modern jazz, progressive jazz. ", "S": ["bang", "belt", "hit", "lick", "punch", "slug", "smack", "sock", "swat", "thwack", "wallop", "welt", "whack", "wham", "whop"], "A": []}

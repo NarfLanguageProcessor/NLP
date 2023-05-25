@@ -1,1 +1,1 @@
-{"index": 263985, "D": "capable of being redeemed. ", "S": ["rectifiable "], "A": []}
+{"index": 263985, "D": "capable of being redeemed. ", "S": ["rectifiable"], "A": []}

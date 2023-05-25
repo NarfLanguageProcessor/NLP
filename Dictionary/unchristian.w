@@ -1,1 +1,0 @@
-{"index": 336848, "D": "not conforming to Christian  teaching or principles", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 104100, "D": [], "S": ["acceleration "], "A": ["decrease ", "diminishment "]}
+{"index": 104100, "D": [], "S": ["acceleration"], "A": ["decrease", "diminishment"]}

@@ -1,1 +1,1 @@
-{"index": 268663, "D": "the act of reproving, censuring, or rebuking.", "S": ["blame ", "criticism ", "disapprobation ", "disapproval ", "objection "], "A": ["agreement ", "approval ", "praise "]}
+{"index": 268663, "D": "the act of reproving, censuring, or rebuking.", "S": ["blame", "criticism", "disapprobation", "disapproval", "objection"], "A": ["agreement", "approval", "praise"]}

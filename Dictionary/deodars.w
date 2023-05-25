@@ -1,1 +1,1 @@
-{"index": 81409, "D": "a large Himalayan cedar, Cedrus deodara, yielding a durable wood.", "S": ["evergreen "], "A": []}
+{"index": 81409, "D": "a large Himalayan cedar, Cedrus deodara, yielding a durable wood.", "S": ["evergreen"], "A": []}

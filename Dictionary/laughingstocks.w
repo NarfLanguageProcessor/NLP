@@ -1,1 +1,1 @@
-{"index": 169134, "D": "an object of ridicule; the butt of a joke or the like", "S": ["object of ridicule "], "A": []}
+{"index": 169134, "D": "an object of ridicule; the butt of a joke or the like", "S": ["object of ridicule"], "A": []}

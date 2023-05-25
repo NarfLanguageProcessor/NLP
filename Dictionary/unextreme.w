@@ -1,1 +1,1 @@
-{"index": 341892, "D": "of a character or kind farthest removed from the ordinary or average", "S": ["humble ", "inexpensive ", "moderate ", "reasonable ", "simple ", "small "], "A": ["expensive ", "outrageous ", "unreasonable "]}
+{"index": 341892, "D": "of a character or kind farthest removed from the ordinary or average", "S": ["humble", "inexpensive", "moderate", "reasonable", "simple", "small"], "A": ["expensive", "outrageous", "unreasonable"]}

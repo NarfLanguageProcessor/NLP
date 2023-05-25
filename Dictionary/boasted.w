@@ -1,1 +1,1 @@
-{"index": 36969, "D": "to speak with exaggeration and excessive pride, especially about oneself.", "S": ["advertise "], "A": ["be sad ", "conceal ", "fail ", "hide "]}
+{"index": 36969, "D": "to speak with exaggeration and excessive pride, especially about oneself.", "S": ["advertise"], "A": ["be sad", "conceal", "fail", "hide"]}

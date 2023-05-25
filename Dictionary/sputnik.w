@@ -1,1 +1,1 @@
-{"index": 301562, "D": "any of a series of Soviet earth-orbiting satellites", "S": ["asteroid ", "luna ", "moon ", "rocket ", "spacecraft "], "A": []}
+{"index": 301562, "D": "any of a series of Soviet earth-orbiting satellites", "S": ["asteroid", "luna", "moon", "rocket", "spacecraft"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 83043, "D": "lacking in consistency, constancy, or visible order, disconnected; fitful", "S": ["aimless ", "chaotic ", "erratic ", "haphazard "], "A": ["organized ", "systematic "]}
+{"index": 83043, "D": "lacking in consistency, constancy, or visible order, disconnected; fitful", "S": ["aimless", "chaotic", "erratic", "haphazard"], "A": ["organized", "systematic"]}

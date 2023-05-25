@@ -1,1 +1,1 @@
-{"index": 64182, "D": "people not of noble birth viewed as forming a political order", "S": ["canteen "], "A": []}
+{"index": 64182, "D": "people not of noble birth viewed as forming a political order", "S": ["canteen"], "A": []}

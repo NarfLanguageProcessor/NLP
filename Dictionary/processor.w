@@ -1,1 +1,1 @@
-{"index": 251217, "D": "a person or thing that processes.", "S": ["skinner ", "slaughterer "], "A": []}
+{"index": 251217, "D": "a person or thing that processes.", "S": ["skinner", "slaughterer"], "A": []}

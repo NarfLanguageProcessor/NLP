@@ -1,1 +1,1 @@
-{"index": 17871, "D": "to place side by side, as two things; place next to; juxtapose.", "S": ["connect ", "pair "], "A": []}
+{"index": 17871, "D": "to place side by side, as two things; place next to; juxtapose.", "S": ["connect", "pair"], "A": []}

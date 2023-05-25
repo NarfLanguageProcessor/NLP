@@ -1,1 +1,1 @@
-{"index": 330071, "D": "a person or thing that trims.", "S": ["mower "], "A": []}
+{"index": 330071, "D": "a person or thing that trims.", "S": ["mower"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 272801, "D": "the ropes, chains, etc., employed to support and work the masts, yards, sails, etc., on a ship.", "S": ["apparatus ", "equipment ", "implements "], "A": []}
+{"index": 272801, "D": "the ropes, chains, etc., employed to support and work the masts, yards, sails, etc., on a ship.", "S": ["apparatus", "equipment", "implements"], "A": []}

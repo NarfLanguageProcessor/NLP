@@ -1,1 +1,1 @@
-{"index": 179518, "D": "the unlawful killing of a human being without malice aforethought.", "S": ["crime ", "foul play ", "homicide ", "killing ", "murder "], "A": []}
+{"index": 179518, "D": "the unlawful killing of a human being without malice aforethought.", "S": ["crime", "foul play", "homicide", "killing", "murder"], "A": []}

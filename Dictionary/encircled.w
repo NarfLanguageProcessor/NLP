@@ -1,1 +1,1 @@
-{"index": 99368, "D": "to form a circle  around; surround; encompass", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 99368, "D": "to form a circle  around; surround; encompass", "S": ["belted", "bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

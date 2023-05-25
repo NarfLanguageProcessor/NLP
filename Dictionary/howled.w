@@ -1,1 +1,1 @@
-{"index": 144573, "D": "to utter a loud, prolonged, mournful cry, as that of a dog or wolf.", "S": ["groan ", "growl ", "hoot ", "moan ", "outcry ", "roar ", "shriek ", "wail ", "whimper ", "yelp "], "A": []}
+{"index": 144573, "D": "to utter a loud, prolonged, mournful cry, as that of a dog or wolf.", "S": ["groan", "growl", "hoot", "moan", "outcry", "roar", "shriek", "wail", "whimper", "yelp"], "A": []}

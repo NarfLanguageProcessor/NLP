@@ -1,1 +1,1 @@
-{"index": 297465, "D": "causing or tending to cause sleep.", "S": ["anesthetic ", "calming ", "deadening ", "hypnotic ", "narcotic ", "opiate ", "sedative "], "A": ["upsetting "]}
+{"index": 297465, "D": "causing or tending to cause sleep.", "S": ["anesthetic", "calming", "deadening", "hypnotic", "narcotic", "opiate", "sedative"], "A": ["upsetting"]}

@@ -1,1 +1,1 @@
-{"index": 103968, "D": "a short and quick trip to accomplish a specific purpose, as to buy something, deliver a package, or convey a message, often for someone else.", "S": ["assignment ", "charge ", "commission ", "duty ", "job ", "message ", "mission "], "A": []}
+{"index": 103968, "D": "a short and quick trip to accomplish a specific purpose, as to buy something, deliver a package, or convey a message, often for someone else.", "S": ["assignment", "charge", "commission", "duty", "job", "message", "mission"], "A": []}

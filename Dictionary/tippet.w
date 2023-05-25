@@ -1,1 +1,1 @@
-{"index": 324359, "D": "Compare stole2 (def. 2). ", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "dolman ", "fichu ", "gabardine ", "mantilla ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "wrap ", "wrapper "], "A": []}
+{"index": 324359, "D": "Compare stole2 (def. 2). ", "S": ["Vandyke", "capote", "cardinal", "cloak", "cope", "dolman", "fichu", "gabardine", "mantilla", "mantle", "pelisse", "poncho", "shawl", "tabard", "wrap", "wrapper"], "A": []}

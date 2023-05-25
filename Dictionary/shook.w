@@ -1,1 +1,1 @@
-{"index": 288766, "D": "simple past tense of shake. ", "S": ["befuddled ", "bewildered "], "A": ["clear "]}
+{"index": 288766, "D": "simple past tense of shake. ", "S": ["befuddled", "bewildered"], "A": ["clear"]}

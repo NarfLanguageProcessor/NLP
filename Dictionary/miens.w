@@ -1,1 +1,1 @@
-{"index": 186977, "D": "air, bearing, or demeanor, as showing character, feeling, etc.", "S": ["countenance ", "demeanor "], "A": []}
+{"index": 186977, "D": "air, bearing, or demeanor, as showing character, feeling, etc.", "S": ["countenance", "demeanor"], "A": []}

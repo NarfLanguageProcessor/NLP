@@ -1,1 +1,1 @@
-{"index": 95265, "D": "a repetition of sound produced by the reflection of sound waves from a wall, mountain, or other obstructing surface.", "S": ["imitation ", "parallel ", "reflection ", "repetition ", "reverberation "], "A": ["difference ", "opposite ", "reverse ", "question "]}
+{"index": 95265, "D": "a repetition of sound produced by the reflection of sound waves from a wall, mountain, or other obstructing surface.", "S": ["imitation", "parallel", "reflection", "repetition", "reverberation"], "A": ["difference", "opposite", "reverse", "question"]}

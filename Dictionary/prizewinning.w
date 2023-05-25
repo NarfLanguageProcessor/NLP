@@ -1,1 +1,1 @@
-{"index": 250896, "D": "a person or thing that wins a prize  or is deserving of a prize. ", "S": ["triumphant "], "A": []}
+{"index": 250896, "D": "a person or thing that wins a prize  or is deserving of a prize. ", "S": ["triumphant"], "A": []}

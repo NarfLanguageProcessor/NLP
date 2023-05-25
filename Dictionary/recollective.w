@@ -1,1 +1,1 @@
-{"index": 263108, "D": "to recall to mind; recover knowledge of by memory; remember.", "S": ["evocative ", "redolent ", "similar "], "A": ["forgetful ", "oblivious "]}
+{"index": 263108, "D": "to recall to mind; recover knowledge of by memory; remember.", "S": ["evocative", "redolent", "similar"], "A": ["forgetful", "oblivious"]}

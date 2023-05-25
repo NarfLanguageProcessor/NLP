@@ -1,1 +1,1 @@
-{"index": 241753, "D": "a person responsible for making policy,  especially in government.", "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "organizational ", "regulatory ", "supervisory "], "A": []}
+{"index": 241753, "D": "a person responsible for making policy,  especially in government.", "S": ["bureaucratic", "departmental", "governmental", "legislative", "managerial", "organizational", "regulatory", "supervisory"], "A": []}

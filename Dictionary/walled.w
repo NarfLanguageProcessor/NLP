@@ -1,1 +1,1 @@
-{"index": 362236, "D": "having walls  (sometimes used in combination)", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 362236, "D": "having walls  (sometimes used in combination)", "S": ["belted", "bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

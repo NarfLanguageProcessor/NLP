@@ -1,1 +1,1 @@
-{"index": 211658, "D": "operating independently of, or disconnected from, an associated computer.", "S": ["disconnected ", "down ", "logged off "], "A": ["on-line "]}
+{"index": 211658, "D": "operating independently of, or disconnected from, an associated computer.", "S": ["disconnected", "down", "logged off"], "A": ["on-line"]}

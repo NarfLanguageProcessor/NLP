@@ -1,1 +1,1 @@
-{"index": 283527, "D": "the realm of the self. ", "S": ["character ", "psyche "], "A": []}
+{"index": 283527, "D": "the realm of the self. ", "S": ["character", "psyche"], "A": []}

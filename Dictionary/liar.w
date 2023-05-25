@@ -1,1 +1,1 @@
-{"index": 171399, "D": "a person who tells lies. ", "S": ["cheat ", "con artist ", "perjurer ", "phony ", "storyteller "], "A": []}
+{"index": 171399, "D": "a person who tells lies. ", "S": ["cheat", "con artist", "perjurer", "phony", "storyteller"], "A": []}

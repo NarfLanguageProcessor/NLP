@@ -1,1 +1,1 @@
-{"index": 318086, "D": "the science or practice of operating mechanisms by remote control.", "S": ["automation "], "A": []}
+{"index": 318086, "D": "the science or practice of operating mechanisms by remote control.", "S": ["automation"], "A": []}

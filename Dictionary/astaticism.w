@@ -1,0 +1,1 @@
+{"index": 22000, "D": "unstable; unsteady.", "S": [], "A": []}

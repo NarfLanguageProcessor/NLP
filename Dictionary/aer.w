@@ -1,0 +1,1 @@
+{"index": 4894, "D": "variant of aero-  before a vowel", "S": [], "A": []}

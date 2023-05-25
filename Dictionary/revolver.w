@@ -1,1 +1,1 @@
-{"index": 271526, "D": "a handgun having a revolving  chambered cylinder for holding a number of cartridges, which may be discharged in succession without reloading.", "S": ["handgun ", "musket ", "pistol ", "rifle ", "shotgun ", "weapon "], "A": []}
+{"index": 271526, "D": "a handgun having a revolving  chambered cylinder for holding a number of cartridges, which may be discharged in succession without reloading.", "S": ["handgun", "musket", "pistol", "rifle", "shotgun", "weapon"], "A": []}

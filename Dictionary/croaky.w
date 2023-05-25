@@ -1,1 +1,1 @@
-{"index": 73530, "D": "low-pitched and hoarse; croaking. ", "S": ["croaking ", "gruff ", "guttural ", "husky ", "raspy ", "scratchy ", "throaty "], "A": []}
+{"index": 73530, "D": "low-pitched and hoarse; croaking. ", "S": ["croaking", "gruff", "guttural", "husky", "raspy", "scratchy", "throaty"], "A": []}

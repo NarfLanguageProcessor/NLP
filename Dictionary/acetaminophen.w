@@ -1,0 +1,1 @@
+{"index": 2018, "D": "a crystalline substance, C8H9NO2, used as a headache and pain reliever and to reduce fever.", "S": [], "A": []}

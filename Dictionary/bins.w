@@ -1,1 +1,1 @@
-{"index": 34259, "D": "a pair of glasses", "S": ["basket ", "box ", "canister ", "carton ", "case ", "crate ", "receptacle "], "A": []}
+{"index": 34259, "D": "a pair of glasses", "S": ["basket", "box", "canister", "carton", "case", "crate", "receptacle"], "A": []}

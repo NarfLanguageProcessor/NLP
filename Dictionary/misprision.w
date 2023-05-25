@@ -1,1 +1,0 @@
-{"index": 189842, "D": "a neglect or violation of official duty by one in office.", "S": [], "A": []}

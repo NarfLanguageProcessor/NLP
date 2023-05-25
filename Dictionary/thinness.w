@@ -1,1 +1,1 @@
-{"index": 321913, "D": "having relatively little extent from one surface or side to the opposite; not thick", "S": ["emaciation ", "gauntness ", "lankiness ", "leanness ", "scrawniness ", "skinniness ", "slenderness "], "A": ["avoirdupois ", "fatness ", "solidity ", "thickness "]}
+{"index": 321913, "D": "having relatively little extent from one surface or side to the opposite; not thick", "S": ["emaciation", "gauntness", "lankiness", "leanness", "scrawniness", "skinniness", "slenderness"], "A": ["avoirdupois", "fatness", "solidity", "thickness"]}

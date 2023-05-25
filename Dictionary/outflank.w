@@ -1,1 +1,1 @@
-{"index": 216628, "D": "to go or extend beyond the flank  of (an opposing military unit); turn the flank  of.", "S": ["outdo ", "outfox ", "outshine ", "outwit "], "A": ["aid ", "fail ", "fall behind ", "give up ", "help ", "lose ", "surrender "]}
+{"index": 216628, "D": "to go or extend beyond the flank  of (an opposing military unit); turn the flank  of.", "S": ["outdo", "outfox", "outshine", "outwit"], "A": ["aid", "fail", "fall behind", "give up", "help", "lose", "surrender"]}

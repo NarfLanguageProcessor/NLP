@@ -1,1 +1,1 @@
-{"index": 50308, "D": "to stop; discontinue", "S": ["discontinuation ", "stopping "], "A": ["beginning ", "commencement ", "continuation ", "go ", "introduction ", "persistence ", "start "]}
+{"index": 50308, "D": "to stop; discontinue", "S": ["discontinuation", "stopping"], "A": ["beginning", "commencement", "continuation", "go", "introduction", "persistence", "start"]}

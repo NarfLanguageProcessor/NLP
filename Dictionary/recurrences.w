@@ -1,1 +1,1 @@
-{"index": 263787, "D": "an act or instance of recurring. ", "S": ["frequency ", "repetition "], "A": []}
+{"index": 263787, "D": "an act or instance of recurring. ", "S": ["frequency", "repetition"], "A": []}

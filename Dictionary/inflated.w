@@ -1,1 +1,1 @@
-{"index": 152098, "D": "distended with air or gas; swollen.", "S": ["bloated ", "magnified ", "overblown ", "swollen "], "A": ["shrunken ", "abbreviated ", "abridged ", "compressed ", "contracted ", "reduced "]}
+{"index": 152098, "D": "distended with air or gas; swollen.", "S": ["bloated", "magnified", "overblown", "swollen"], "A": ["shrunken", "abbreviated", "abridged", "compressed", "contracted", "reduced"]}

@@ -1,1 +1,1 @@
-{"index": 265634, "D": "of or relating to a regiment. ", "S": ["attire ", "costume ", "dress ", "garb ", "gown ", "khaki ", "regalia ", "robe ", "suit "], "A": []}
+{"index": 265634, "D": "of or relating to a regiment. ", "S": ["attire", "costume", "dress", "garb", "gown", "khaki", "regalia", "robe", "suit"], "A": []}

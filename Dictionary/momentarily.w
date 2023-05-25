@@ -1,1 +1,1 @@
-{"index": 191641, "D": "for a moment; briefly", "S": ["briefly ", "immediately ", "instantly ", "temporarily "], "A": ["eventually ", "later ", "permanently "]}
+{"index": 191641, "D": "for a moment; briefly", "S": ["briefly", "immediately", "instantly", "temporarily"], "A": ["eventually", "later", "permanently"]}

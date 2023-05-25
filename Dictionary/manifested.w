@@ -1,1 +1,1 @@
-{"index": 179277, "D": "made clear or evident to the eye or understanding; shown plainly", "S": ["embodied ", "materialized ", "personified ", "substantiated ", "typified "], "A": []}
+{"index": 179277, "D": "made clear or evident to the eye or understanding; shown plainly", "S": ["embodied", "materialized", "personified", "substantiated", "typified"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 66917, "D": "a clear soup made by boiling meat or chicken, bones, vegetables, etc., to extract their nutritive properties", "S": ["bouillon ", "chowder ", "porridge ", "puree "], "A": []}
+{"index": 66917, "D": "a clear soup made by boiling meat or chicken, bones, vegetables, etc., to extract their nutritive properties", "S": ["bouillon", "chowder", "porridge", "puree"], "A": []}

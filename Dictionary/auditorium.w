@@ -1,1 +1,1 @@
-{"index": 23333, "D": "the space set apart for the audience in a theater, school, or other public building.", "S": ["amphitheater ", "assembly hall ", "barn ", "concert hall ", "hall ", "movie house ", "music hall ", "opera house ", "theater "], "A": []}
+{"index": 23333, "D": "the space set apart for the audience in a theater, school, or other public building.", "S": ["amphitheater", "assembly hall", "barn", "concert hall", "hall", "movie house", "music hall", "opera house", "theater"], "A": []}

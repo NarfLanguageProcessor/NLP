@@ -1,1 +1,1 @@
-{"index": 298756, "D": "invested with a special character or restricted to a special function or field of activity", "S": ["functional ", "particular ", "specially designed "], "A": []}
+{"index": 298756, "D": "invested with a special character or restricted to a special function or field of activity", "S": ["functional", "particular", "specially designed"], "A": []}

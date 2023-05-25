@@ -1,1 +1,1 @@
-{"index": 90791, "D": "to elude or evade by a sudden shift of position or by strategy", "S": ["cagey ", "crafty ", "shrewd ", "slippery ", "sneaky ", "tricky ", "wily "], "A": ["aboveboard ", "frank ", "honest ", "naive "]}
+{"index": 90791, "D": "to elude or evade by a sudden shift of position or by strategy", "S": ["cagey", "crafty", "shrewd", "slippery", "sneaky", "tricky", "wily"], "A": ["aboveboard", "frank", "honest", "naive"]}

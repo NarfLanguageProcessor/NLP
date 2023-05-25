@@ -1,1 +1,1 @@
-{"index": 56170, "D": "the festival season from Christmas  to after New Year's Day.", "S": ["Noel ", "Xmas ", "Yule ", "Yuletide "], "A": []}
+{"index": 56170, "D": "the festival season from Christmas  to after New Year's Day.", "S": ["Noel", "Xmas", "Yule", "Yuletide"], "A": []}

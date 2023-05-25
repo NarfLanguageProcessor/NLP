@@ -1,1 +1,1 @@
-{"index": 5565, "D": "in time past; in a former time; previously. ", "S": ["ahead ", "back ", "previously ", "since ", "sooner "], "A": ["after ", "afterward ", "behind ", "later "]}
+{"index": 5565, "D": "in time past; in a former time; previously. ", "S": ["ahead", "back", "previously", "since", "sooner"], "A": ["after", "afterward", "behind", "later"]}

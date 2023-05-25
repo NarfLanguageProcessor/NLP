@@ -1,1 +1,1 @@
-{"index": 251256, "D": "to announce or declare in an official or formal manner", "S": ["assigned ", "authorized ", "charged ", "decreed ", "ordered "], "A": []}
+{"index": 251256, "D": "to announce or declare in an official or formal manner", "S": ["assigned", "authorized", "charged", "decreed", "ordered"], "A": []}

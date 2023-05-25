@@ -1,1 +1,1 @@
-{"index": 41579, "D": "a male offspring having both parents in common with another offspring; a male sibling.", "S": ["relative ", "twin "], "A": ["sister ", "stranger "]}
+{"index": 41579, "D": "a male offspring having both parents in common with another offspring; a male sibling.", "S": ["relative", "twin"], "A": ["sister", "stranger"]}

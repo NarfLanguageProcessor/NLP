@@ -1,1 +1,1 @@
-{"index": 314555, "D": "to move with or make a sibilant sound, as a slender rod cutting sharply through the air or as small waves washing on the shore.", "S": ["stirring ", "whispering "], "A": []}
+{"index": 314555, "D": "to move with or make a sibilant sound, as a slender rod cutting sharply through the air or as small waves washing on the shore.", "S": ["stirring", "whispering"], "A": []}

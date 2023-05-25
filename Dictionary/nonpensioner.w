@@ -1,1 +1,0 @@
-{"index": 205830, "D": "a person who receives or lives on a pension. ", "S": [], "A": []}

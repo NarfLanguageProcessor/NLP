@@ -1,1 +1,1 @@
-{"index": 82540, "D": "a variant of dishabille. ", "S": ["dishabille ", "naked ", "nude "], "A": ["dressed "]}
+{"index": 82540, "D": "a variant of dishabille. ", "S": ["dishabille", "naked", "nude"], "A": ["dressed"]}

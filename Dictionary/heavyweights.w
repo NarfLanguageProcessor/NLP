@@ -1,1 +1,1 @@
-{"index": 135034, "D": "heavy  in weight. ", "S": ["fat ", "gross ", "large "], "A": ["skinny ", "slender ", "thin "]}
+{"index": 135034, "D": "heavy  in weight. ", "S": ["fat", "gross", "large"], "A": ["skinny", "slender", "thin"]}

@@ -1,1 +1,1 @@
-{"index": 193272, "D": "emotional or mental condition with respect to cheerfulness, confidence, zeal, etc., especially in the face of opposition, hardship, etc.", "S": ["attitude ", "mood ", "resolve ", "self-confidence ", "spirit "], "A": ["fear ", "weakness "]}
+{"index": 193272, "D": "emotional or mental condition with respect to cheerfulness, confidence, zeal, etc., especially in the face of opposition, hardship, etc.", "S": ["attitude", "mood", "resolve", "self-confidence", "spirit"], "A": ["fear", "weakness"]}

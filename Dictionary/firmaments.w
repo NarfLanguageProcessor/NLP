@@ -1,1 +1,1 @@
-{"index": 113252, "D": "the vault of heaven; sky.", "S": ["empyrean ", "lid ", "sky ", "vault ", "welkin "], "A": ["hell "]}
+{"index": 113252, "D": "the vault of heaven; sky.", "S": ["empyrean", "lid", "sky", "vault", "welkin"], "A": ["hell"]}

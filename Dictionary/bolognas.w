@@ -1,1 +1,1 @@
-{"index": 37592, "D": "a large seasoned sausage made of finely ground meat, usually beef and pork, that has been cooked and smoked.", "S": ["cold cuts ", "cold meat ", "ham ", "luncheon meat ", "lunchmeat ", "salami ", "turkey "], "A": []}
+{"index": 37592, "D": "a large seasoned sausage made of finely ground meat, usually beef and pork, that has been cooked and smoked.", "S": ["cold cuts", "cold meat", "ham", "luncheon meat", "lunchmeat", "salami", "turkey"], "A": []}

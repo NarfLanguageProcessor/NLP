@@ -1,1 +1,1 @@
-{"index": 221934, "D": "having a shape resembling that of an egg; egg-shaped; ovoid.", "S": ["egg-shaped ", "ellipsoidal ", "elliptic ", "elliptical ", "oblong ", "ooid ", "ovaloid ", "ovate ", "ovoid ", "ovoidal "], "A": []}
+{"index": 221934, "D": "having a shape resembling that of an egg; egg-shaped; ovoid.", "S": ["egg-shaped", "ellipsoidal", "elliptic", "elliptical", "oblong", "ooid", "ovaloid", "ovate", "ovoid", "ovoidal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 317135, "D": "tightly drawn; tense; not slack.", "S": ["durability ", "soundness ", "steadiness "], "A": ["flexibility ", "indefiniteness ", "infirmity ", "instability ", "movability ", "softness ", "uncertainty ", "weakness "]}
+{"index": 317135, "D": "tightly drawn; tense; not slack.", "S": ["durability", "soundness", "steadiness"], "A": ["flexibility", "indefiniteness", "infirmity", "instability", "movability", "softness", "uncertainty", "weakness"]}

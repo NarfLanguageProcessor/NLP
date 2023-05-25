@@ -1,1 +1,1 @@
-{"index": 106335, "D": "to develop gradually", "S": ["immature ", "incipient ", "undeveloped "], "A": ["adult ", "developed ", "grown ", "mature "]}
+{"index": 106335, "D": "to develop gradually", "S": ["immature", "incipient", "undeveloped"], "A": ["adult", "developed", "grown", "mature"]}

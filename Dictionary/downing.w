@@ -1,1 +1,1 @@
-{"index": 92260, "D": "U.S. landscape architect.", "S": ["absorb ", "consume ", "devour ", "drink ", "eat ", "inhale "], "A": ["build "]}
+{"index": 92260, "D": "U.S. landscape architect.", "S": ["absorb", "consume", "devour", "drink", "eat", "inhale"], "A": ["build"]}

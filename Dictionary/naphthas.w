@@ -1,1 +1,0 @@
-{"index": 196848, "D": "Compare mineral spirits. ", "S": ["crude oil ", "fossil fuel ", "fuel ", "gas ", "gasoline ", "kerosene ", "natural gas ", "petrol "], "A": []}

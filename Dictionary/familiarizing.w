@@ -1,1 +1,1 @@
-{"index": 109611, "D": "to make (onself or another person) well-acquainted or conversant with something.", "S": ["enlighten ", "naturalize "], "A": ["disarrange ", "disorder ", "forget ", "learn ", "neglect ", "unfit "]}
+{"index": 109611, "D": "to make (onself or another person) well-acquainted or conversant with something.", "S": ["enlighten", "naturalize"], "A": ["disarrange", "disorder", "forget", "learn", "neglect", "unfit"]}

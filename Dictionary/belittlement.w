@@ -1,1 +1,1 @@
-{"index": 31117, "D": "to regard or portray as less  impressive or important than appearances indicate; depreciate; disparage.", "S": ["aspersion ", "denigration ", "deprecation ", "derogation ", "detraction ", "disparagement ", "put down ", "ridicule ", "scorn "], "A": []}
+{"index": 31117, "D": "to regard or portray as less  impressive or important than appearances indicate; depreciate; disparage.", "S": ["aspersion", "denigration", "deprecation", "derogation", "detraction", "disparagement", "put down", "ridicule", "scorn"], "A": []}

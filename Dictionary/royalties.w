@@ -1,1 +1,1 @@
-{"index": 273884, "D": "royal  persons collectively.", "S": ["aristocracy ", "authority ", "distinction ", "eminence ", "greatness ", "kingship ", "nobility ", "power ", "primacy ", "rank ", "supremacy "], "A": ["insignificance ", "subservience ", "unimportance "]}
+{"index": 273884, "D": "royal  persons collectively.", "S": ["aristocracy", "authority", "distinction", "eminence", "greatness", "kingship", "nobility", "power", "primacy", "rank", "supremacy"], "A": ["insignificance", "subservience", "unimportance"]}

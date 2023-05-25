@@ -1,1 +1,1 @@
-{"index": 127110, "D": "a dish of little dumplings made from potatoes, semolina, flour, or a combination of these ingredients.", "S": ["linguine ", "macaroni ", "ravioli ", "spaghetti ", "tortellini "], "A": []}
+{"index": 127110, "D": "a dish of little dumplings made from potatoes, semolina, flour, or a combination of these ingredients.", "S": ["linguine", "macaroni", "ravioli", "spaghetti", "tortellini"], "A": []}

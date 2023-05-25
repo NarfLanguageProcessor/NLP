@@ -1,1 +1,1 @@
-{"index": 75410, "D": "a pungent dish of vegetables, onions, meat or fish, etc., flavored with various spices or curry powder,  and often eaten with rice.", "S": ["sauce ", "seasoning "], "A": []}
+{"index": 75410, "D": "a pungent dish of vegetables, onions, meat or fish, etc., flavored with various spices or curry powder,  and often eaten with rice.", "S": ["sauce", "seasoning"], "A": []}

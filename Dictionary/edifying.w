@@ -1,1 +1,1 @@
-{"index": 95762, "D": "instructive or beneficial, especially morally or spiritually; uplifting", "S": ["illuminating ", "improving ", "inspiring ", "refining ", "uplifting "], "A": []}
+{"index": 95762, "D": "instructive or beneficial, especially morally or spiritually; uplifting", "S": ["illuminating", "improving", "inspiring", "refining", "uplifting"], "A": []}

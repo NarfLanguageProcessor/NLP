@@ -1,1 +1,1 @@
-{"index": 70989, "D": "to offer or place in opposition, response, or contrast.", "S": ["balance ", "cancel out ", "counteract ", "equal ", "negate ", "neutralize ", "outweigh "], "A": ["approve ", "disproportion "]}
+{"index": 70989, "D": "to offer or place in opposition, response, or contrast.", "S": ["balance", "cancel out", "counteract", "equal", "negate", "neutralize", "outweigh"], "A": ["approve", "disproportion"]}

@@ -1,1 +1,1 @@
-{"index": 50284, "D": "columbium.", "S": ["amateur band ", "citizens band ", "citizens band radio ", "ham radio "], "A": []}
+{"index": 50284, "D": "columbium.", "S": ["amateur band", "citizens band", "citizens band radio", "ham radio"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 29468, "D": "any of various relatively long pieces of metal, wood, stone, etc., manufactured or shaped especially for use as rigid members or parts of structures or machines.", "S": ["girder ", "joist ", "piling ", "pillar ", "plank ", "pole ", "shaft ", "sill ", "timber "], "A": []}
+{"index": 29468, "D": "any of various relatively long pieces of metal, wood, stone, etc., manufactured or shaped especially for use as rigid members or parts of structures or machines.", "S": ["girder", "joist", "piling", "pillar", "plank", "pole", "shaft", "sill", "timber"], "A": []}

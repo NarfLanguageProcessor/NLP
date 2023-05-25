@@ -1,1 +1,1 @@
-{"index": 9058, "D": "a passing or casual reference; an incidental mention of something, either directly or by implication", "S": ["quotation "], "A": ["silence "]}
+{"index": 9058, "D": "a passing or casual reference; an incidental mention of something, either directly or by implication", "S": ["quotation"], "A": ["silence"]}

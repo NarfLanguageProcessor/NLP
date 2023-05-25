@@ -1,1 +1,1 @@
-{"index": 346646, "D": "not moving;  still; motionless.", "S": ["immobile ", "inert ", "motionless ", "static ", "stationary ", "still ", "unemotional "], "A": []}
+{"index": 346646, "D": "not moving;  still; motionless.", "S": ["immobile", "inert", "motionless", "static", "stationary", "still", "unemotional"], "A": []}

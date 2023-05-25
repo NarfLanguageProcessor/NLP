@@ -1,1 +1,1 @@
-{"index": 96926, "D": "to charge with or subject to electricity;  apply electricity  to.", "S": ["elation ", "euphoria ", "high spirits ", "hilarity ", "joy "], "A": ["depression ", "sadness ", "sorrow ", "unhappiness ", "woe ", "discouragement ", "misery "]}
+{"index": 96926, "D": "to charge with or subject to electricity;  apply electricity  to.", "S": ["elation", "euphoria", "high spirits", "hilarity", "joy"], "A": ["depression", "sadness", "sorrow", "unhappiness", "woe", "discouragement", "misery"]}

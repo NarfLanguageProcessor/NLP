@@ -1,1 +1,1 @@
-{"index": 302523, "D": "abounding in stalks. ", "S": ["hairy "], "A": []}
+{"index": 302523, "D": "abounding in stalks. ", "S": ["hairy"], "A": []}

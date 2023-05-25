@@ -1,1 +1,1 @@
-{"index": 253092, "D": "a person who talks or writes in prose. ", "S": ["cold water ", "damper ", "downer ", "drag ", "grinch ", "grouch ", "killjoy ", "malcontent ", "marplot ", "party pooper ", "poor sport ", "proser ", "sourpuss ", "spoilsport "], "A": []}
+{"index": 253092, "D": "a person who talks or writes in prose. ", "S": ["cold water", "damper", "downer", "drag", "grinch", "grouch", "killjoy", "malcontent", "marplot", "party pooper", "poor sport", "proser", "sourpuss", "spoilsport"], "A": []}

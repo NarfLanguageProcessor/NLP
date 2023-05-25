@@ -1,1 +1,1 @@
-{"index": 305414, "D": "a book that contains a story  or stories  especially for children.", "S": ["dreamlike ", "false ", "fanciful ", "hallucinatory ", "illusory ", "immaterial ", "unbelievable "], "A": ["actual ", "authentic ", "genuine ", "real "]}
+{"index": 305414, "D": "a book that contains a story  or stories  especially for children.", "S": ["dreamlike", "false", "fanciful", "hallucinatory", "illusory", "immaterial", "unbelievable"], "A": ["actual", "authentic", "genuine", "real"]}

@@ -1,1 +1,1 @@
-{"index": 267725, "D": "to give up or put aside voluntarily", "S": ["deserted ", "desolate ", "destitute ", "empty ", "homeless ", "isolated ", "lonesome ", "reclusive ", "solitary "], "A": ["populated ", "sociable "]}
+{"index": 267725, "D": "to give up or put aside voluntarily", "S": ["deserted", "desolate", "destitute", "empty", "homeless", "isolated", "lonesome", "reclusive", "solitary"], "A": ["populated", "sociable"]}

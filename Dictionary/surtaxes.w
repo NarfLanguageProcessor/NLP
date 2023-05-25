@@ -1,1 +1,1 @@
-{"index": 313636, "D": "an additional or extra tax on something already taxed.", "S": ["assessment ", "charge ", "custom ", "duty ", "fee ", "levy ", "tax ", "toll ", "tribute ", "weight "], "A": []}
+{"index": 313636, "D": "an additional or extra tax on something already taxed.", "S": ["assessment", "charge", "custom", "duty", "fee", "levy", "tax", "toll", "tribute", "weight"], "A": []}

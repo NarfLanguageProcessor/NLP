@@ -1,1 +1,0 @@
-{"index": 234825, "D": "a mineral, lead chlorocarbonate, Pb2Cl2CO3, occurring in crystals.", "S": [], "A": []}

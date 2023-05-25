@@ -1,1 +1,1 @@
-{"index": 26612, "D": "to cook by dry heat in an oven or on heated metal or stones.", "S": ["heat ", "melt ", "simmer ", "stew ", "warm "], "A": ["cool ", "freeze "]}
+{"index": 26612, "D": "to cook by dry heat in an oven or on heated metal or stones.", "S": ["heat", "melt", "simmer", "stew", "warm"], "A": ["cool", "freeze"]}

@@ -1,1 +1,1 @@
-{"index": 244186, "D": [], "S": ["afterwards ", "eventually ", "late ", "later ", "next ", "soon ", "then ", "thereafter "], "A": ["earlier "]}
+{"index": 244186, "D": [], "S": ["afterwards", "eventually", "late", "later", "next", "soon", "then", "thereafter"], "A": ["earlier"]}

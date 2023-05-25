@@ -1,1 +1,1 @@
-{"index": 351425, "D": "free from projections or unevenness of surface; not rough", "S": ["precipitous ", "rocky ", "rugged ", "stony "], "A": ["flat ", "smooth "]}
+{"index": 351425, "D": "free from projections or unevenness of surface; not rough", "S": ["precipitous", "rocky", "rugged", "stony"], "A": ["flat", "smooth"]}

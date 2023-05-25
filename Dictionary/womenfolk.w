@@ -1,1 +1,1 @@
-{"index": 367010, "D": "women  in general; all women.", "S": ["womanhood ", "womankind ", "womenfolks "], "A": []}
+{"index": 367010, "D": "women  in general; all women.", "S": ["womanhood", "womankind", "womenfolks"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 342327, "D": "not declining in strength or vigour; tireless", "S": ["indefatigable ", "inexhaustible ", "staunch ", "tireless ", "unceasing ", "unfailing ", "unrelenting ", "unremitting "], "A": ["tired ", "weary "]}

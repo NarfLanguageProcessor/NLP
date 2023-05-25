@@ -1,1 +1,1 @@
-{"index": 217127, "D": "something that pours out or is poured out; an outflow, overflow, or effusion", "S": ["deluge ", "flood ", "outburst ", "spurt ", "torrent "], "A": []}
+{"index": 217127, "D": "something that pours out or is poured out; an outflow, overflow, or effusion", "S": ["deluge", "flood", "outburst", "spurt", "torrent"], "A": []}

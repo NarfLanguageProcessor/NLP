@@ -1,1 +1,1 @@
-{"index": 83528, "D": "to turn aside, as from a route, way, course, etc.", "S": ["depart ", "differ ", "diverge ", "vary ", "veer "], "A": ["agree ", "stay ", "straighten "]}
+{"index": 83528, "D": "to turn aside, as from a route, way, course, etc.", "S": ["depart", "differ", "diverge", "vary", "veer"], "A": ["agree", "stay", "straighten"]}

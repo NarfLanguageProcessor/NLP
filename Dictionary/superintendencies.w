@@ -1,1 +1,1 @@
-{"index": 312130, "D": "a district or place under a superintendent.", "S": ["conduct "], "A": ["mismanagement ", "neglect "]}
+{"index": 312130, "D": "a district or place under a superintendent.", "S": ["conduct"], "A": ["mismanagement", "neglect"]}

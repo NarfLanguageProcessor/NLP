@@ -1,1 +1,1 @@
-{"index": 129844, "D": "a person who operates a side show at a circus, fair, etc., especially a gambling attraction.", "S": ["fraud ", "scammer "], "A": []}
+{"index": 129844, "D": "a person who operates a side show at a circus, fair, etc., especially a gambling attraction.", "S": ["fraud", "scammer"], "A": []}

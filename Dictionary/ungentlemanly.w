@@ -1,1 +1,1 @@
-{"index": 342989, "D": "like, befitting, or characteristic of a gentleman. ", "S": ["crude ", "impolite ", "inconsiderate ", "indecent ", "insensitive ", "loutish ", "rough ", "unchivalrous ", "uncivil ", "ungentlemanlike ", "unrefined ", "vulgar "], "A": ["gentlemanly ", "polite ", "refined "]}
+{"index": 342989, "D": "like, befitting, or characteristic of a gentleman. ", "S": ["crude", "impolite", "inconsiderate", "indecent", "insensitive", "loutish", "rough", "unchivalrous", "uncivil", "ungentlemanlike", "unrefined", "vulgar"], "A": ["gentlemanly", "polite", "refined"]}

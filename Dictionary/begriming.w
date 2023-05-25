@@ -1,1 +1,1 @@
-{"index": 30714, "D": "to make grimy.", "S": ["dirty ", "grime ", "mire ", "muck ", "slush ", "soil "], "A": ["clean "]}
+{"index": 30714, "D": "to make grimy.", "S": ["dirty", "grime", "mire", "muck", "slush", "soil"], "A": ["clean"]}

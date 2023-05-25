@@ -1,1 +1,1 @@
-{"index": 72998, "D": "to press into small regular folds; make wavy.", "S": ["coiled ", "curled ", "fuzzy ", "kinky ", "wavy "], "A": ["straight "]}
+{"index": 72998, "D": "to press into small regular folds; make wavy.", "S": ["coiled", "curled", "fuzzy", "kinky", "wavy"], "A": ["straight"]}

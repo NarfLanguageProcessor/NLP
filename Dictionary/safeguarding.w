@@ -1,1 +1,1 @@
-{"index": 276559, "D": "something that serves as a protection or defense or that ensures safety.", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}
+{"index": 276559, "D": "something that serves as a protection or defense or that ensures safety.", "S": ["opposing"], "A": ["unwary", "unwatchful"]}

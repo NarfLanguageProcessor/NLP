@@ -1,1 +1,1 @@
-{"index": 329495, "D": "division into three parts, classes, categories, etc.", "S": ["ternary ", "ternion ", "third ", "triad ", "trilogy ", "trinity ", "trio ", "triplet ", "triplets ", "triplicate ", "triplicity ", "triumvirate ", "trivium ", "troika "], "A": []}
+{"index": 329495, "D": "division into three parts, classes, categories, etc.", "S": ["ternary", "ternion", "third", "triad", "trilogy", "trinity", "trio", "triplet", "triplets", "triplicate", "triplicity", "triumvirate", "trivium", "troika"], "A": []}

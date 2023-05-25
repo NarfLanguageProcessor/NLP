@@ -1,1 +1,1 @@
-{"index": 49858, "D": "cater-cornered. ", "S": ["catty-corner ", "crosswise ", "oblique ", "slanted "], "A": []}
+{"index": 49858, "D": "cater-cornered. ", "S": ["catty-corner", "crosswise", "oblique", "slanted"], "A": []}

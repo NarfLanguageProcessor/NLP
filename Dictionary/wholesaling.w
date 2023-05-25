@@ -1,1 +1,1 @@
-{"index": 365297, "D": "the business of selling to retailers, especially in large quantities (distinguished from retailing).", "S": ["economic ", "financial ", "monetary ", "profit-making ", "profitable ", "wholesale "], "A": ["not-for-profit "]}
+{"index": 365297, "D": "the business of selling to retailers, especially in large quantities (distinguished from retailing).", "S": ["economic", "financial", "monetary", "profit-making", "profitable", "wholesale"], "A": ["not-for-profit"]}

@@ -1,1 +1,1 @@
-{"index": 210506, "D": "blocking a passage or view", "S": ["antithetical "], "A": ["agreeing ", "harmonious ", "similar "]}
+{"index": 210506, "D": "blocking a passage or view", "S": ["antithetical"], "A": ["agreeing", "harmonious", "similar"]}

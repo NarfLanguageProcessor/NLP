@@ -1,1 +1,1 @@
-{"index": 198521, "D": [], "S": ["abstainer ", "abstinent ", "prohibitionist ", "total abstainer "], "A": ["alcoholic ", "drinker ", "drunk ", "drunkard ", "lush ", "souse ", "wino "]}
+{"index": 198521, "D": [], "S": ["abstainer", "abstinent", "prohibitionist", "total abstainer"], "A": ["alcoholic", "drinker", "drunk", "drunkard", "lush", "souse", "wino"]}

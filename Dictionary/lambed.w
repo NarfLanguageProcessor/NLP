@@ -1,1 +1,1 @@
-{"index": 167582, "D": "a young sheep.", "S": ["caress ", "cuddle ", "fondle ", "lamb ", "love ", "pamper ", "pet ", "spoil "], "A": ["ignore ", "neglect "]}
+{"index": 167582, "D": "a young sheep.", "S": ["caress", "cuddle", "fondle", "lamb", "love", "pamper", "pet", "spoil"], "A": ["ignore", "neglect"]}

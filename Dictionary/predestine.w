@@ -1,1 +1,1 @@
-{"index": 246853, "D": "to destine in advance; foreordain; predetermine", "S": ["break ", "chance ", "cup ", "destine ", "doom ", "effect ", "end ", "ending ", "foreordain ", "issue ", "lot ", "portion ", "predestinate ", "predetermine ", "preordain ", "stars "], "A": ["join "]}
+{"index": 246853, "D": "to destine in advance; foreordain; predetermine", "S": ["break", "chance", "cup", "destine", "doom", "effect", "end", "ending", "foreordain", "issue", "lot", "portion", "predestinate", "predetermine", "preordain", "stars"], "A": ["join"]}

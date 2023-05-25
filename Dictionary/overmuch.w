@@ -1,1 +1,1 @@
-{"index": 220309, "D": "too much", "S": ["extra ", "extreme ", "more ", "needless ", "over ", "overkill ", "prodigal ", "profligate ", "steep ", "stiff ", "super ", "supernatural "], "A": ["careful ", "fewer ", "less ", "mild ", "moderate ", "necessary ", "poor "]}
+{"index": 220309, "D": "too much", "S": ["extra", "extreme", "more", "needless", "over", "overkill", "prodigal", "profligate", "steep", "stiff", "super", "supernatural"], "A": ["careful", "fewer", "less", "mild", "moderate", "necessary", "poor"]}

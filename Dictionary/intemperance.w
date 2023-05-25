@@ -1,1 +1,1 @@
-{"index": 154314, "D": "excessive or immoderate indulgence in alcoholic beverages.", "S": ["alcoholism ", "drunkenness ", "immoderation "], "A": []}
+{"index": 154314, "D": "excessive or immoderate indulgence in alcoholic beverages.", "S": ["alcoholism", "drunkenness", "immoderation"], "A": []}

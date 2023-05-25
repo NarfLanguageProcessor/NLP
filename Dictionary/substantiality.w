@@ -1,1 +1,1 @@
-{"index": 309292, "D": "of ample or considerable amount, quantity, size, etc.", "S": ["achievement ", "actualization ", "attainment ", "fact ", "materiality ", "materialization ", "reality ", "substance ", "truth "], "A": ["failure ", "forfeit ", "lie "]}
+{"index": 309292, "D": "of ample or considerable amount, quantity, size, etc.", "S": ["achievement", "actualization", "attainment", "fact", "materiality", "materialization", "reality", "substance", "truth"], "A": ["failure", "forfeit", "lie"]}

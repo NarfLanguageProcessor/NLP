@@ -1,1 +1,1 @@
-{"index": 212854, "D": "spectator; observer; witness.", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}
+{"index": 212854, "D": "spectator; observer; witness.", "S": ["congregation", "crowd", "gallery", "gathering", "market", "public"], "A": []}

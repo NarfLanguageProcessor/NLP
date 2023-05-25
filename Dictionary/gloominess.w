@@ -1,1 +1,1 @@
-{"index": 126591, "D": "dark or dim; deeply shaded", "S": ["dejection ", "despondency ", "doldrums ", "dumps ", "gloom ", "glumness ", "melancholy ", "moodiness ", "mournfulness ", "sadness ", "unhappiness "], "A": ["cheer ", "gladness ", "happiness ", "joy "]}
+{"index": 126591, "D": "dark or dim; deeply shaded", "S": ["dejection", "despondency", "doldrums", "dumps", "gloom", "glumness", "melancholy", "moodiness", "mournfulness", "sadness", "unhappiness"], "A": ["cheer", "gladness", "happiness", "joy"]}

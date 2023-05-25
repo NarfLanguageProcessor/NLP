@@ -1,1 +1,1 @@
-{"index": 120724, "D": "future  time", "S": ["hereafter "], "A": []}
+{"index": 120724, "D": "future  time", "S": ["hereafter"], "A": []}

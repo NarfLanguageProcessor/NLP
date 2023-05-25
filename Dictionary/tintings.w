@@ -1,1 +1,1 @@
-{"index": 324114, "D": [], "S": ["complexion ", "shading "], "A": []}
+{"index": 324114, "D": [], "S": ["complexion", "shading"], "A": []}

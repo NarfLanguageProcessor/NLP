@@ -1,0 +1,1 @@
+{"index": 22073, "D": "lack or loss of strength; weakness.", "S": [], "A": []}

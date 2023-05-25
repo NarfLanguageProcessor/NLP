@@ -1,1 +1,1 @@
-{"index": 77172, "D": "without a date;  undated.", "S": ["endless ", "eternal ", "everlasting ", "immortal ", "permanent ", "timeless "], "A": []}
+{"index": 77172, "D": "without a date;  undated.", "S": ["endless", "eternal", "everlasting", "immortal", "permanent", "timeless"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 192008, "D": "serving to admonish or warn; admonitory.", "S": ["admonishing ", "admonitory ", "advisory ", "hinting ", "portending ", "warning ", "wise "], "A": []}
+{"index": 192008, "D": "serving to admonish or warn; admonitory.", "S": ["admonishing", "admonitory", "advisory", "hinting", "portending", "warning", "wise"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 194479, "D": "a title of respect prefixed to the surname or full name of a married woman", "S": ["madame "], "A": ["sir "]}
+{"index": 194479, "D": "a title of respect prefixed to the surname or full name of a married woman", "S": ["madame"], "A": ["sir"]}

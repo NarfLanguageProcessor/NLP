@@ -1,1 +1,1 @@
-{"index": 62303, "D": "persons who have superior knowledge and understanding of a particular field, especially in the fine arts, literature, and world of fashion.", "S": ["connoisseur ", "critic ", "expert ", "insider ", "judge ", "specialist "], "A": ["ignoramus "]}
+{"index": 62303, "D": "persons who have superior knowledge and understanding of a particular field, especially in the fine arts, literature, and world of fashion.", "S": ["connoisseur", "critic", "expert", "insider", "judge", "specialist"], "A": ["ignoramus"]}

@@ -1,1 +1,1 @@
-{"index": 295805, "D": "a mound or bank of snow  driven together by the wind.", "S": ["sleet "], "A": []}
+{"index": 295805, "D": "a mound or bank of snow  driven together by the wind.", "S": ["sleet"], "A": []}

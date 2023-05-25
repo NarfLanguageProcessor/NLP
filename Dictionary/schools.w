@@ -1,1 +1,1 @@
-{"index": 280502, "D": "the medieval Schoolmen collectively", "S": ["academy ", "department ", "faculty ", "hall ", "institute ", "institution ", "seminary ", "university "], "A": []}
+{"index": 280502, "D": "the medieval Schoolmen collectively", "S": ["academy", "department", "faculty", "hall", "institute", "institution", "seminary", "university"], "A": []}

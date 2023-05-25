@@ -1,1 +1,1 @@
-{"index": 228707, "D": "strange; queer; odd", "S": ["bizarrely ", "curiously ", "strangely "], "A": []}
+{"index": 228707, "D": "strange; queer; odd", "S": ["bizarrely", "curiously", "strangely"], "A": []}

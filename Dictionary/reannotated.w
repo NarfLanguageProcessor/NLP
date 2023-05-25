@@ -1,1 +1,0 @@
-{"index": 261849, "D": "to supply with critical or explanatory notes;  comment upon in notes", "S": [], "A": []}

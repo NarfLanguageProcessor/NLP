@@ -1,1 +1,1 @@
-{"index": 94394, "D": "the ability to last over time, resisting wear, breakage, deterioration, etc.", "S": ["endurance ", "grit ", "persistence ", "stamina ", "staying power "], "A": ["weakness ", "cowardice ", "fear "]}
+{"index": 94394, "D": "the ability to last over time, resisting wear, breakage, deterioration, etc.", "S": ["endurance", "grit", "persistence", "stamina", "staying power"], "A": ["weakness", "cowardice", "fear"]}

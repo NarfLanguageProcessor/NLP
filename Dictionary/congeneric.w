@@ -1,1 +1,1 @@
-{"index": 66146, "D": "of the same kind or genus.", "S": ["agnate ", "cognate ", "incident ", "kin ", "parallel "], "A": ["dissimilar "]}
+{"index": 66146, "D": "of the same kind or genus.", "S": ["agnate", "cognate", "incident", "kin", "parallel"], "A": ["dissimilar"]}

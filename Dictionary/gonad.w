@@ -1,1 +1,1 @@
-{"index": 127664, "D": "a sex gland in which gametes are produced; an ovary or testis.", "S": ["family jewels ", "testicles "], "A": []}
+{"index": 127664, "D": "a sex gland in which gametes are produced; an ovary or testis.", "S": ["family jewels", "testicles"], "A": []}

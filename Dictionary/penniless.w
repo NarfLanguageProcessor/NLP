@@ -1,1 +1,1 @@
-{"index": 229750, "D": "without any money whatsoever; totally impoverished; destitute.", "S": ["bankrupt ", "broke ", "destitute ", "impoverished ", "indigent ", "needy "], "A": ["affluent ", "rich ", "solvent ", "wealthy "]}
+{"index": 229750, "D": "without any money whatsoever; totally impoverished; destitute.", "S": ["bankrupt", "broke", "destitute", "impoverished", "indigent", "needy"], "A": ["affluent", "rich", "solvent", "wealthy"]}

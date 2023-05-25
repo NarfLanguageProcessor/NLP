@@ -1,1 +1,1 @@
-{"index": 68498, "D": "an employee who runs errands and carries copy  from desk to desk in a newspaper office.", "S": ["boy Friday ", "errand boy ", "gofer ", "messenger boy ", "page "], "A": []}
+{"index": 68498, "D": "an employee who runs errands and carries copy  from desk to desk in a newspaper office.", "S": ["boy Friday", "errand boy", "gofer", "messenger boy", "page"], "A": []}

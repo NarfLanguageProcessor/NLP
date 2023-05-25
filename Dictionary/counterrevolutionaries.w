@@ -1,1 +1,1 @@
-{"index": 71055, "D": "characteristic of or resulting from a counterrevolution. ", "S": ["archconservative ", "conservative ", "right-winger ", "rightist ", "traditionalist "], "A": ["liberal ", "progressive ", "radical "]}
+{"index": 71055, "D": "characteristic of or resulting from a counterrevolution. ", "S": ["archconservative", "conservative", "right-winger", "rightist", "traditionalist"], "A": ["liberal", "progressive", "radical"]}

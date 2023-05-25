@@ -1,1 +1,1 @@
-{"index": 30793, "D": "to cut off the head of; kill or execute by decapitation.", "S": ["decapitate ", "execute "], "A": []}
+{"index": 30793, "D": "to cut off the head of; kill or execute by decapitation.", "S": ["decapitate", "execute"], "A": []}

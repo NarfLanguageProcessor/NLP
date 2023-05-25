@@ -1,1 +1,1 @@
-{"index": 194035, "D": "a comparatively small and powerful engine, especially an internal-combustion engine in an automobile, motorboat,  or the like.", "S": ["cylinder ", "generator ", "transformer ", "turbine "], "A": []}
+{"index": 194035, "D": "a comparatively small and powerful engine, especially an internal-combustion engine in an automobile, motorboat,  or the like.", "S": ["cylinder", "generator", "transformer", "turbine"], "A": []}

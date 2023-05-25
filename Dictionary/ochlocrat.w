@@ -1,1 +1,0 @@
-{"index": 210837, "D": "government by the mob; mob rule; mobocracy.", "S": [], "A": []}

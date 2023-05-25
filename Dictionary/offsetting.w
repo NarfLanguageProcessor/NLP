@@ -1,1 +1,1 @@
-{"index": 211681, "D": "something that counterbalances, counteracts, or compensates for something else; compensating equivalent.", "S": ["redeeming ", "remunerative "], "A": []}
+{"index": 211681, "D": "something that counterbalances, counteracts, or compensates for something else; compensating equivalent.", "S": ["redeeming", "remunerative"], "A": []}

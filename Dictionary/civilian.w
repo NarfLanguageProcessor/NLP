@@ -1,1 +1,1 @@
-{"index": 58916, "D": "a person who is not on active duty with a military, naval, police, or fire fighting organization.", "S": ["private "], "A": ["military "]}
+{"index": 58916, "D": "a person who is not on active duty with a military, naval, police, or fire fighting organization.", "S": ["private"], "A": ["military"]}

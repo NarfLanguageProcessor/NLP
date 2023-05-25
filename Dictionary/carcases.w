@@ -1,1 +1,1 @@
-{"index": 47634, "D": "one of the seven eunuchs who served in the court of King Ahasuerus. Esther 1", "S": ["body ", "cadaver ", "corpse ", "framework ", "hulk ", "mort ", "remains ", "shell ", "skeleton ", "stiff "], "A": []}
+{"index": 47634, "D": "one of the seven eunuchs who served in the court of King Ahasuerus. Esther 1", "S": ["body", "cadaver", "corpse", "framework", "hulk", "mort", "remains", "shell", "skeleton", "stiff"], "A": []}

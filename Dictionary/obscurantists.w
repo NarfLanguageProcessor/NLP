@@ -1,1 +1,0 @@
-{"index": 210335, "D": "opposition to the increase and spread of knowledge.", "S": ["archconservative ", "conservative ", "right-winger ", "rightist ", "traditionalist "], "A": ["liberal ", "progressive ", "radical "]}

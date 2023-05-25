@@ -1,1 +1,1 @@
-{"index": 115182, "D": "the process or state of flowering. ", "S": ["botany ", "flora ", "green plants ", "greenery ", "herbage ", "plant kingdom ", "plants ", "vegetable life ", "vegetation ", "verdure "], "A": []}
+{"index": 115182, "D": "the process or state of flowering. ", "S": ["botany", "flora", "green plants", "greenery", "herbage", "plant kingdom", "plants", "vegetable life", "vegetation", "verdure"], "A": []}

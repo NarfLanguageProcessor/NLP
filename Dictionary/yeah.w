@@ -1,1 +1,1 @@
-{"index": 146696, "D": "yes. ", "S": ["voice vote "], "A": ["nay "]}
+{"index": 146696, "D": "yes. ", "S": ["voice vote"], "A": ["nay"]}

@@ -1,1 +1,1 @@
-{"index": 167054, "D": "becoming or being milky.", "S": ["frosted ", "opaque ", "pearly "], "A": ["black ", "blackish ", "dark "]}
+{"index": 167054, "D": "becoming or being milky.", "S": ["frosted", "opaque", "pearly"], "A": ["black", "blackish", "dark"]}

@@ -1,1 +1,1 @@
-{"index": 183795, "D": [], "S": ["1200 hours ", "eight bells ", "meridian ", "midday ", "noon ", "noonday ", "nooning ", "noontide ", "noontime ", "peak "], "A": []}
+{"index": 183795, "D": [], "S": ["1200 hours", "eight bells", "meridian", "midday", "noon", "noonday", "nooning", "noontide", "noontime", "peak"], "A": []}

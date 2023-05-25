@@ -1,1 +1,1 @@
-{"index": 309780, "D": "indicating or recording lower than zero  on some scale, especially on the Fahrenheit scale", "S": ["frozen ", "glacial ", "icy "], "A": ["friendly ", "hot ", "warm "]}
+{"index": 309780, "D": "indicating or recording lower than zero  on some scale, especially on the Fahrenheit scale", "S": ["frozen", "glacial", "icy"], "A": ["friendly", "hot", "warm"]}

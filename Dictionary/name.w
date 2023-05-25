@@ -1,1 +1,1 @@
-{"index": 196686, "D": "a word or a combination of words by which a person, place, or thing, a body or class, or any object of thought is designated, called, or known.", "S": ["brand ", "flag ", "label ", "nickname ", "sign ", "signature ", "style ", "term "], "A": ["unknown "]}
+{"index": 196686, "D": "a word or a combination of words by which a person, place, or thing, a body or class, or any object of thought is designated, called, or known.", "S": ["brand", "flag", "label", "nickname", "sign", "signature", "style", "term"], "A": ["unknown"]}

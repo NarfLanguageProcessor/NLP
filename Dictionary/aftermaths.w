@@ -1,1 +1,1 @@
-{"index": 5718, "D": "something that results or follows from an event, especially one of a disastrous or unfortunate nature; consequence", "S": ["chain reaction ", "impact ", "outcome "], "A": ["cause ", "origin ", "source ", "start "]}
+{"index": 5718, "D": "something that results or follows from an event, especially one of a disastrous or unfortunate nature; consequence", "S": ["chain reaction", "impact", "outcome"], "A": ["cause", "origin", "source", "start"]}

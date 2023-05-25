@@ -1,1 +1,1 @@
-{"index": 181671, "D": "an alcoholic liquor made by fermenting honey and water.", "S": ["farmland ", "garden ", "grassland ", "green ", "ground ", "meadow ", "pasture ", "range ", "terrain ", "territory "], "A": ["sky "]}
+{"index": 181671, "D": "an alcoholic liquor made by fermenting honey and water.", "S": ["farmland", "garden", "grassland", "green", "ground", "meadow", "pasture", "range", "terrain", "territory"], "A": ["sky"]}

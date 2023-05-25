@@ -1,1 +1,1 @@
-{"index": 115380, "D": "a male servant in livery.", "S": ["drudge ", "footman ", "gofer ", "lackey ", "servant ", "steward "], "A": []}
+{"index": 115380, "D": "a male servant in livery.", "S": ["drudge", "footman", "gofer", "lackey", "servant", "steward"], "A": []}

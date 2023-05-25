@@ -1,1 +1,1 @@
-{"index": 88271, "D": "hanging loosely or in disorder; unkempt", "S": ["bedraggled ", "messy ", "rumpled "], "A": ["clean ", "neat ", "ordered "]}
+{"index": 88271, "D": "hanging loosely or in disorder; unkempt", "S": ["bedraggled", "messy", "rumpled"], "A": ["clean", "neat", "ordered"]}

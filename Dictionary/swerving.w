@@ -1,1 +1,1 @@
-{"index": 314384, "D": "to turn aside abruptly in movement or direction; deviate suddenly from the straight or direct course.", "S": ["deflect ", "lurch ", "skid ", "stray ", "veer "], "A": ["stay ", "remain ", "straighten "]}
+{"index": 314384, "D": "to turn aside abruptly in movement or direction; deviate suddenly from the straight or direct course.", "S": ["deflect", "lurch", "skid", "stray", "veer"], "A": ["stay", "remain", "straighten"]}

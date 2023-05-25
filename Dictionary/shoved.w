@@ -1,1 +1,1 @@
-{"index": 289015, "D": "to move along by force from behind; push. ", "S": ["cram ", "dig ", "elbow ", "hustle ", "jab ", "nudge ", "poke ", "thrust "], "A": ["discourage ", "dissuade ", "halt ", "hinder ", "leave alone ", "repress "]}
+{"index": 289015, "D": "to move along by force from behind; push. ", "S": ["cram", "dig", "elbow", "hustle", "jab", "nudge", "poke", "thrust"], "A": ["discourage", "dissuade", "halt", "hinder", "leave alone", "repress"]}

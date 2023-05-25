@@ -1,1 +1,1 @@
-{"index": 147900, "D": "incapable of being measured; limitless", "S": ["enormously ", "extremely ", "highly ", "hugely ", "immensely ", "incredibly ", "indeed ", "largely ", "markedly ", "mightily ", "notably ", "remarkably ", "tremendously ", "vastly ", "very much "], "A": ["little "]}
+{"index": 147900, "D": "incapable of being measured; limitless", "S": ["enormously", "extremely", "highly", "hugely", "immensely", "incredibly", "indeed", "largely", "markedly", "mightily", "notably", "remarkably", "tremendously", "vastly", "very much"], "A": ["little"]}

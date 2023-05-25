@@ -1,1 +1,1 @@
-{"index": 40332, "D": "(of the voice) characterized by audible or excessive emission of breath. ", "S": ["discordant ", "gravelly ", "gruff ", "harsh ", "raucous ", "throaty "], "A": ["nice ", "polite ", "soft "]}
+{"index": 40332, "D": "(of the voice) characterized by audible or excessive emission of breath. ", "S": ["discordant", "gravelly", "gruff", "harsh", "raucous", "throaty"], "A": ["nice", "polite", "soft"]}

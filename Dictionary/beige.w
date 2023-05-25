@@ -1,1 +1,1 @@
-{"index": 30865, "D": "very light brown, as of undyed wool; light gray with a brownish tinge.", "S": ["camel ", "cream ", "khaki ", "off-white ", "tan ", "taupe "], "A": []}
+{"index": 30865, "D": "very light brown, as of undyed wool; light gray with a brownish tinge.", "S": ["camel", "cream", "khaki", "off-white", "tan", "taupe"], "A": []}

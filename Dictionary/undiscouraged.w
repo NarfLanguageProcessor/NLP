@@ -1,1 +1,1 @@
-{"index": 340479, "D": "deprived of or lacking in courage, hope, or confidence", "S": ["fearless ", "indomitable ", "steadfast ", "undeterred "], "A": ["cowardly ", "shrinking "]}
+{"index": 340479, "D": "deprived of or lacking in courage, hope, or confidence", "S": ["fearless", "indomitable", "steadfast", "undeterred"], "A": ["cowardly", "shrinking"]}

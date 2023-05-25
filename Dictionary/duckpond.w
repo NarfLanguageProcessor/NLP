@@ -1,1 +1,1 @@
-{"index": 93770, "D": [], "S": ["basin ", "lagoon ", "pool ", "puddle "], "A": []}
+{"index": 93770, "D": [], "S": ["basin", "lagoon", "pool", "puddle"], "A": []}

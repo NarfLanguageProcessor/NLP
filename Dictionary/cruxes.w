@@ -1,1 +1,1 @@
-{"index": 74327, "D": "a vital, basic, decisive, or pivotal point", "S": ["bottom line ", "core ", "essence ", "gist ", "nub "], "A": ["exterior ", "outside ", "exteriority ", "nothing ", "nothingness "]}
+{"index": 74327, "D": "a vital, basic, decisive, or pivotal point", "S": ["bottom line", "core", "essence", "gist", "nub"], "A": ["exterior", "outside", "exteriority", "nothing", "nothingness"]}

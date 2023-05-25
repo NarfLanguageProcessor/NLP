@@ -1,1 +1,1 @@
-{"index": 78728, "D": "to diminish or lessen in extent, quantity, strength, power, etc.", "S": ["contraction ", "cutback ", "decline ", "discount ", "downturn ", "loss ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "rise ", "markup "]}
+{"index": 78728, "D": "to diminish or lessen in extent, quantity, strength, power, etc.", "S": ["contraction", "cutback", "decline", "discount", "downturn", "loss", "reduction", "shrinkage"], "A": ["enlargement", "increase", "rise", "markup"]}

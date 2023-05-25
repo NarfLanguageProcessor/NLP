@@ -1,1 +1,1 @@
-{"index": 250358, "D": "a puncture made by a needle, thorn, or the like.", "S": ["broncobuster ", "buckaroo ", "cavalryman ", "cowboy ", "dragoon ", "equerry ", "equestrian ", "gaucho ", "jockey ", "postilion ", "roughrider "], "A": []}
+{"index": 250358, "D": "a puncture made by a needle, thorn, or the like.", "S": ["broncobuster", "buckaroo", "cavalryman", "cowboy", "dragoon", "equerry", "equestrian", "gaucho", "jockey", "postilion", "roughrider"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 89585, "D": "indulging in or characterized by excessive devotion to pleasure; intemperate; dissolute.", "S": ["blown ", "consumed ", "destroyed ", "exhausted ", "scattered ", "spent ", "squandered ", "wasted "], "A": ["restored ", "saved "]}
+{"index": 89585, "D": "indulging in or characterized by excessive devotion to pleasure; intemperate; dissolute.", "S": ["blown", "consumed", "destroyed", "exhausted", "scattered", "spent", "squandered", "wasted"], "A": ["restored", "saved"]}

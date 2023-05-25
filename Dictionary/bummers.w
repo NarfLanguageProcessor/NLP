@@ -1,1 +1,1 @@
-{"index": 42742, "D": "a person who bums  off others.", "S": ["disappointment ", "disaster ", "downer ", "drag ", "misfortune "], "A": ["miracle ", "success ", "wonder "]}
+{"index": 42742, "D": "a person who bums  off others.", "S": ["disappointment", "disaster", "downer", "drag", "misfortune"], "A": ["miracle", "success", "wonder"]}

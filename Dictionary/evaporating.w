@@ -1,1 +1,1 @@
-{"index": 106038, "D": "to change from a liquid or solid state into vapor;  pass off in vapor.", "S": ["gaseous ", "steaming ", "vaporous "], "A": []}
+{"index": 106038, "D": "to change from a liquid or solid state into vapor;  pass off in vapor.", "S": ["gaseous", "steaming", "vaporous"], "A": []}

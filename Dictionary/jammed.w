@@ -1,1 +1,1 @@
-{"index": 160277, "D": "to press, squeeze, or wedge tightly between bodies or surfaces, so that motion or extrication is made difficult or impossible", "S": ["blocked ", "clogged ", "swollen ", "wedged "], "A": ["impermanent ", "unfixed "]}
+{"index": 160277, "D": "to press, squeeze, or wedge tightly between bodies or surfaces, so that motion or extrication is made difficult or impossible", "S": ["blocked", "clogged", "swollen", "wedged"], "A": ["impermanent", "unfixed"]}

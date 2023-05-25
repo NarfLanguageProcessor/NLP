@@ -1,1 +1,1 @@
-{"index": 18141, "D": "capability; ability; innate or acquired capacity for something; talent", "S": ["predilection ", "propensity "], "A": ["antipathy ", "dislike ", "hate "]}
+{"index": 18141, "D": "capability; ability; innate or acquired capacity for something; talent", "S": ["predilection", "propensity"], "A": ["antipathy", "dislike", "hate"]}

@@ -1,1 +1,1 @@
-{"index": 200510, "D": "a letter or parcel that is undeliverable by the post office because of a faulty or illegible address.", "S": ["gnome ", "gremlin "], "A": ["angel "]}
+{"index": 200510, "D": "a letter or parcel that is undeliverable by the post office because of a faulty or illegible address.", "S": ["gnome", "gremlin"], "A": ["angel"]}

@@ -1,1 +1,1 @@
-{"index": 110778, "D": [], "S": ["breeding ", "implantation ", "pollination ", "procreation ", "propagation "], "A": []}
+{"index": 110778, "D": [], "S": ["breeding", "implantation", "pollination", "procreation", "propagation"], "A": []}

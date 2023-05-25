@@ -1,1 +1,1 @@
-{"index": 208941, "D": "to inform (someone) or give notice  to", "S": ["advised ", "cautioned ", "forewarned ", "prodded ", "prompted "], "A": []}
+{"index": 208941, "D": "to inform (someone) or give notice  to", "S": ["advised", "cautioned", "forewarned", "prodded", "prompted"], "A": []}

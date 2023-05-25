@@ -1,1 +1,1 @@
-{"index": 98993, "D": "to make into an act or statute", "S": ["achieve ", "execute "], "A": ["fail ", "miss ", "direct "]}
+{"index": 98993, "D": "to make into an act or statute", "S": ["achieve", "execute"], "A": ["fail", "miss", "direct"]}

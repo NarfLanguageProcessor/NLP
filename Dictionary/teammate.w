@@ -1,1 +1,1 @@
-{"index": 317491, "D": "a member of the same team. ", "S": ["colleague ", "partner "], "A": ["enemy "]}
+{"index": 317491, "D": "a member of the same team. ", "S": ["colleague", "partner"], "A": ["enemy"]}

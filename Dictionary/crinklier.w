@@ -1,1 +1,1 @@
-{"index": 73061, "D": "having crinkles. ", "S": ["coiled ", "curled ", "fuzzy ", "kinky ", "wavy "], "A": ["straight "]}
+{"index": 73061, "D": "having crinkles. ", "S": ["coiled", "curled", "fuzzy", "kinky", "wavy"], "A": ["straight"]}

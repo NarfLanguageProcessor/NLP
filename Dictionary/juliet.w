@@ -1,1 +1,1 @@
-{"index": 162240, "D": "the heroine of Shakespeare's Romeo and Juliet.", "S": ["lover ", "passion "], "A": []}
+{"index": 162240, "D": "the heroine of Shakespeare's Romeo and Juliet.", "S": ["lover", "passion"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 84021, "D": "heroin. ", "S": ["dope ", "drug ", "narcotic ", "smack "], "A": []}
+{"index": 84021, "D": "heroin. ", "S": ["dope", "drug", "narcotic", "smack"], "A": []}

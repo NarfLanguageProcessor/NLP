@@ -1,1 +1,1 @@
-{"index": 16148, "D": "a person who discriminates against or is prejudiced or hostile toward Jews.", "S": ["bigot ", "chauvinist "], "A": []}
+{"index": 16148, "D": "a person who discriminates against or is prejudiced or hostile toward Jews.", "S": ["bigot", "chauvinist"], "A": []}

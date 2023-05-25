@@ -1,1 +1,1 @@
-{"index": 285854, "D": "to remove or withdraw into solitude or retirement; seclude. ", "S": ["reclusive ", "sheltered "], "A": ["seen "]}
+{"index": 285854, "D": "to remove or withdraw into solitude or retirement; seclude. ", "S": ["reclusive", "sheltered"], "A": ["seen"]}

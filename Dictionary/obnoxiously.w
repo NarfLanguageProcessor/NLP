@@ -1,1 +1,1 @@
-{"index": 210281, "D": "highly objectionable or offensive; odious", "S": ["offensively "], "A": []}
+{"index": 210281, "D": "highly objectionable or offensive; odious", "S": ["offensively"], "A": []}

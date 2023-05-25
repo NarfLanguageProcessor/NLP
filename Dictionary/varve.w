@@ -1,1 +1,0 @@
-{"index": 357339, "D": "(in lake sediments) an annual deposit usually consisting of two layers, one of fine materials and the other of coarse.", "S": [], "A": []}

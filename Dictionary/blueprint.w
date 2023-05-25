@@ -1,1 +1,1 @@
-{"index": 36768, "D": "a process of photographic printing,  used chiefly in copying architectural and mechanical drawings, which produces a white line on a blue  background.", "S": ["draft ", "game plan ", "master plan ", "model ", "prototype ", "scheme ", "sketch "], "A": []}
+{"index": 36768, "D": "a process of photographic printing,  used chiefly in copying architectural and mechanical drawings, which produces a white line on a blue  background.", "S": ["draft", "game plan", "master plan", "model", "prototype", "scheme", "sketch"], "A": []}

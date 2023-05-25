@@ -1,0 +1,1 @@
+{"index": 3446, "D": "a yellow irritant smoke, containing a poisonous form of arsenic and used as a harassing agent.", "S": [], "A": []}

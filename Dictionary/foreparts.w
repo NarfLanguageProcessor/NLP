@@ -1,1 +1,1 @@
-{"index": 116847, "D": "the first, front, or early part.", "S": ["nose "], "A": ["straighten "]}
+{"index": 116847, "D": "the first, front, or early part.", "S": ["nose"], "A": ["straighten"]}

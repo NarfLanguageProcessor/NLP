@@ -1,1 +1,1 @@
-{"index": 296696, "D": "the act of soliciting.", "S": ["application ", "bid ", "call ", "claim ", "demand ", "overture ", "petition ", "plea ", "proposal ", "question ", "suit "], "A": ["answer ", "reply "]}
+{"index": 296696, "D": "the act of soliciting.", "S": ["application", "bid", "call", "claim", "demand", "overture", "petition", "plea", "proposal", "question", "suit"], "A": ["answer", "reply"]}

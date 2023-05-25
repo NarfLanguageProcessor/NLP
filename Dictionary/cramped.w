@@ -1,1 +1,1 @@
-{"index": 71991, "D": "affected with a cramp  in a muscle or muscles.", "S": ["crowded ", "narrow ", "packed ", "small ", "tiny "], "A": ["big ", "broad-minded ", "empty ", "enormous ", "generous ", "huge ", "large "]}
+{"index": 71991, "D": "affected with a cramp  in a muscle or muscles.", "S": ["crowded", "narrow", "packed", "small", "tiny"], "A": ["big", "broad-minded", "empty", "enormous", "generous", "huge", "large"]}

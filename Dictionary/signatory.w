@@ -1,1 +1,1 @@
-{"index": 290120, "D": "having signed, or joined in signing, a document", "S": ["endorser ", "recorder ", "registrar ", "scrivener ", "witness "], "A": []}
+{"index": 290120, "D": "having signed, or joined in signing, a document", "S": ["endorser", "recorder", "registrar", "scrivener", "witness"], "A": []}

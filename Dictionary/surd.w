@@ -1,1 +1,1 @@
-{"index": 313350, "D": "voiceless (opposed to sonant).", "S": ["aphonic ", "dumb ", "inarticulate ", "mum ", "mute ", "silent ", "speechless "], "A": []}
+{"index": 313350, "D": "voiceless (opposed to sonant).", "S": ["aphonic", "dumb", "inarticulate", "mum", "mute", "silent", "speechless"], "A": []}

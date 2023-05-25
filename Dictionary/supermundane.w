@@ -1,1 +1,1 @@
-{"index": 312264, "D": "above and beyond the nature or character of the worldly or terrestrial.", "S": ["abstract ", "abstruse ", "esoteric ", "mystical ", "philosophical ", "spiritual ", "supernatural ", "theoretical "], "A": ["concrete ", "factual ", "obvious ", "physical ", "real "]}
+{"index": 312264, "D": "above and beyond the nature or character of the worldly or terrestrial.", "S": ["abstract", "abstruse", "esoteric", "mystical", "philosophical", "spiritual", "supernatural", "theoretical"], "A": ["concrete", "factual", "obvious", "physical", "real"]}

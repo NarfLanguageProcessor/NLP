@@ -1,1 +1,1 @@
-{"index": 9259, "D": "through, on, beside, over, or parallel to the length or direction of; from one end to the other of", "S": ["forward ", "onward "], "A": ["apart ", "far ", "separate "]}
+{"index": 9259, "D": "through, on, beside, over, or parallel to the length or direction of; from one end to the other of", "S": ["forward", "onward"], "A": ["apart", "far", "separate"]}

@@ -1,1 +1,1 @@
-{"index": 9263, "D": "along,  by, at, or to the side  of something", "S": ["along the side of ", "apace with ", "at the side of ", "beside ", "by ", "by the side of ", "close at hand ", "close-by ", "equal with ", "in company with ", "next to ", "parallel to ", "side by side "], "A": ["away "]}
+{"index": 9263, "D": "along,  by, at, or to the side  of something", "S": ["along the side of", "apace with", "at the side of", "beside", "by", "by the side of", "close at hand", "close-by", "equal with", "in company with", "next to", "parallel to", "side by side"], "A": ["away"]}

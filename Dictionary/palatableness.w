@@ -1,1 +1,1 @@
-{"index": 223538, "D": "the fact or quality of being acceptable or agreeable to the taste; tastiness", "S": ["sugariness ", "sweet "], "A": []}
+{"index": 223538, "D": "the fact or quality of being acceptable or agreeable to the taste; tastiness", "S": ["sugariness", "sweet"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 348335, "D": "(of animals, especially birds) to trim or dress (feathers, fur, etc.) with the beak or tongue", "S": [], "A": []}

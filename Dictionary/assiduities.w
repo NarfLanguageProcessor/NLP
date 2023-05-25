@@ -1,1 +1,1 @@
-{"index": 21760, "D": "constant or close application or effort; diligence; industry.", "S": ["amenity ", "care ", "civility ", "compliment ", "consideration ", "deference ", "gallantry ", "mindfulness ", "politeness ", "regard ", "respect ", "service "], "A": ["disregard "]}
+{"index": 21760, "D": "constant or close application or effort; diligence; industry.", "S": ["amenity", "care", "civility", "compliment", "consideration", "deference", "gallantry", "mindfulness", "politeness", "regard", "respect", "service"], "A": ["disregard"]}

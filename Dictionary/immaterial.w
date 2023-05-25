@@ -1,1 +1,1 @@
-{"index": 147870, "D": "of no essential consequence; unimportant.", "S": ["extraneous ", "inconsequential ", "meaningless ", "trivial ", "unimportant "], "A": ["important ", "relevant ", "significant ", "useful ", "valuable ", "worthwhile "]}
+{"index": 147870, "D": "of no essential consequence; unimportant.", "S": ["extraneous", "inconsequential", "meaningless", "trivial", "unimportant"], "A": ["important", "relevant", "significant", "useful", "valuable", "worthwhile"]}

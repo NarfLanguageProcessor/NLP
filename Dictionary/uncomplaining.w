@@ -1,1 +1,1 @@
-{"index": 337383, "D": "not complaining or resentful; resigned", "S": ["enduring ", "forbearing ", "lenient ", "tolerant "], "A": ["impatient "]}
+{"index": 337383, "D": "not complaining or resentful; resigned", "S": ["enduring", "forbearing", "lenient", "tolerant"], "A": ["impatient"]}

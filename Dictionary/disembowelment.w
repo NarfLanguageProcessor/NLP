@@ -1,1 +1,1 @@
-{"index": 87891, "D": "to remove the bowels or entrails from; eviscerate.", "S": ["seppuku "], "A": []}
+{"index": 87891, "D": "to remove the bowels or entrails from; eviscerate.", "S": ["seppuku"], "A": []}

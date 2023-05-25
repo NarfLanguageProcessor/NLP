@@ -1,1 +1,1 @@
-{"index": 115887, "D": "shaped like a leaf or leaves", "S": ["coat ", "exfoliate ", "face ", "flake ", "foil ", "foliate ", "layer ", "overlayer ", "plate ", "separate ", "split ", "stratify ", "veneer "], "A": ["combine ", "join ", "uncover "]}
+{"index": 115887, "D": "shaped like a leaf or leaves", "S": ["coat", "exfoliate", "face", "flake", "foil", "foliate", "layer", "overlayer", "plate", "separate", "split", "stratify", "veneer"], "A": ["combine", "join", "uncover"]}

@@ -1,1 +1,1 @@
-{"index": 51226, "D": [], "S": ["lustrous "], "A": ["unimpressionable "]}
+{"index": 51226, "D": [], "S": ["lustrous"], "A": ["unimpressionable"]}

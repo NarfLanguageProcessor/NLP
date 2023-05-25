@@ -1,1 +1,1 @@
-{"index": 41035, "D": "a brother.", "S": ["brother ", "brother german ", "close friend "], "A": []}
+{"index": 41035, "D": "a brother.", "S": ["brother", "brother german", "close friend"], "A": []}

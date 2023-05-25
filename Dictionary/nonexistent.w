@@ -1,1 +1,1 @@
-{"index": 203782, "D": "not having being or existence", "S": ["absent ", "negative ", "tenuous ", "vacant "], "A": ["actual ", "existent ", "existing ", "real ", "true "]}
+{"index": 203782, "D": "not having being or existence", "S": ["absent", "negative", "tenuous", "vacant"], "A": ["actual", "existent", "existing", "real", "true"]}

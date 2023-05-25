@@ -1,1 +1,1 @@
-{"index": 231607, "D": "that can be permitted;  allowable", "S": ["constitutionally ", "justly ", "lawfully ", "legitimately "], "A": ["illegally ", "illicitly ", "unlawfully "]}
+{"index": 231607, "D": "that can be permitted;  allowable", "S": ["constitutionally", "justly", "lawfully", "legitimately"], "A": ["illegally", "illicitly", "unlawfully"]}

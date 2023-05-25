@@ -1,1 +1,1 @@
-{"index": 212022, "D": "far advanced in the years of one's or its life", "S": ["senescence ", "seniority "], "A": []}
+{"index": 212022, "D": "far advanced in the years of one's or its life", "S": ["senescence", "seniority"], "A": []}

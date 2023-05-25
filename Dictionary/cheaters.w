@@ -1,1 +1,1 @@
-{"index": 53291, "D": "a person or thing that cheats.", "S": ["specs ", "sunglasses "], "A": []}
+{"index": 53291, "D": "a person or thing that cheats.", "S": ["specs", "sunglasses"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 117421, "D": "preceding in time; prior or earlier", "S": ["ancestor ", "forebear "], "A": ["derivative ", "descendant ", "successor "]}
+{"index": 117421, "D": "preceding in time; prior or earlier", "S": ["ancestor", "forebear"], "A": ["derivative", "descendant", "successor"]}

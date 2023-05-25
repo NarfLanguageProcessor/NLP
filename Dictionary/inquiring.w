@@ -1,1 +1,1 @@
-{"index": 153323, "D": "seeking facts, information, or knowledge", "S": ["examining ", "heuristic ", "interested ", "interrogative ", "probing ", "prying ", "questioning ", "searching "], "A": ["disinterested ", "incurious ", "unskeptical "]}
+{"index": 153323, "D": "seeking facts, information, or knowledge", "S": ["examining", "heuristic", "interested", "interrogative", "probing", "prying", "questioning", "searching"], "A": ["disinterested", "incurious", "unskeptical"]}

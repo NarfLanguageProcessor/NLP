@@ -1,1 +1,1 @@
-{"index": 3861, "D": "coated with glue, paste, mastic, or other sticky substance", "S": ["adherence ", "attachment ", "bond ", "cling ", "grip ", "stickiness "], "A": []}
+{"index": 3861, "D": "coated with glue, paste, mastic, or other sticky substance", "S": ["adherence", "attachment", "bond", "cling", "grip", "stickiness"], "A": []}

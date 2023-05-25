@@ -1,1 +1,1 @@
-{"index": 340175, "D": "not characterized by underhand schemes or selfish motives; without an ulterior design.", "S": ["earnest ", "heartfelt ", "natural ", "positive ", "real ", "sincere ", "true "], "A": ["dishonest ", "false ", "insincere ", "invalid ", "unreal ", "untrustworthy "]}
+{"index": 340175, "D": "not characterized by underhand schemes or selfish motives; without an ulterior design.", "S": ["earnest", "heartfelt", "natural", "positive", "real", "sincere", "true"], "A": ["dishonest", "false", "insincere", "invalid", "unreal", "untrustworthy"]}

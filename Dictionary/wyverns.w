@@ -1,1 +1,1 @@
-{"index": 366761, "D": "a two-legged winged dragon having the hinder part of a serpent with a barbed tail.", "S": ["basilisk ", "hydra ", "tarragon "], "A": []}
+{"index": 366761, "D": "a two-legged winged dragon having the hinder part of a serpent with a barbed tail.", "S": ["basilisk", "hydra", "tarragon"], "A": []}

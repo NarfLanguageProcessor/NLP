@@ -1,1 +1,1 @@
-{"index": 259638, "D": "a radiobroadcast.", "S": ["advertisement ", "announcement ", "newscast ", "performance ", "program ", "publication ", "show ", "simulcast ", "transmission "], "A": []}
+{"index": 259638, "D": "a radiobroadcast.", "S": ["advertisement", "announcement", "newscast", "performance", "program", "publication", "show", "simulcast", "transmission"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 252598, "D": "in a way that is appropriate to the purpose or circumstances; suitably", "S": ["accordingly ", "accurately ", "perfectly ", "well "], "A": []}
+{"index": 252598, "D": "in a way that is appropriate to the purpose or circumstances; suitably", "S": ["accordingly", "accurately", "perfectly", "well"], "A": []}

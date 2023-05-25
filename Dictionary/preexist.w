@@ -1,1 +1,1 @@
-{"index": 247420, "D": "to exist  beforehand.", "S": ["anticipate ", "foreshadow ", "predate ", "presage "], "A": ["end ", "finish ", "follow ", "obey "]}
+{"index": 247420, "D": "to exist  beforehand.", "S": ["anticipate", "foreshadow", "predate", "presage"], "A": ["end", "finish", "follow", "obey"]}

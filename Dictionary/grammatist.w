@@ -1,1 +1,1 @@
-{"index": 128749, "D": [], "S": ["philologist ", "rhetorician "], "A": []}
+{"index": 128749, "D": [], "S": ["philologist", "rhetorician"], "A": []}

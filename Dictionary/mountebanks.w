@@ -1,1 +1,1 @@
-{"index": 194242, "D": "a person who sells quack medicines, as from a platform in public places, attracting and influencing an audience by tricks, storytelling, etc.", "S": ["cheat ", "grifter ", "imposter ", "swindler "], "A": []}
+{"index": 194242, "D": "a person who sells quack medicines, as from a platform in public places, attracting and influencing an audience by tricks, storytelling, etc.", "S": ["cheat", "grifter", "imposter", "swindler"], "A": []}

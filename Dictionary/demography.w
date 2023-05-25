@@ -1,1 +1,1 @@
-{"index": 80754, "D": "the science of vital and social statistics, as of the births, deaths, diseases, marriages, etc., of populations.", "S": ["anthropology "], "A": []}
+{"index": 80754, "D": "the science of vital and social statistics, as of the births, deaths, diseases, marriages, etc., of populations.", "S": ["anthropology"], "A": []}

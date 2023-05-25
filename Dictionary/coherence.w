@@ -1,1 +1,1 @@
-{"index": 62367, "D": "the act or state of cohering; cohesion. ", "S": ["consistency ", "continuity ", "integrity ", "rationality ", "solidarity ", "unity "], "A": ["difference ", "disagreement ", "discord ", "divorce ", "nonconformity "]}
+{"index": 62367, "D": "the act or state of cohering; cohesion. ", "S": ["consistency", "continuity", "integrity", "rationality", "solidarity", "unity"], "A": ["difference", "disagreement", "discord", "divorce", "nonconformity"]}

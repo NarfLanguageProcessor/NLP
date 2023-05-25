@@ -1,1 +1,1 @@
-{"index": 87075, "D": "to deprive of a weapon or weapons.", "S": ["deactivate ", "demilitarize ", "demobilize ", "disband ", "neutralize ", "occupy ", "subdue "], "A": ["aid ", "allow ", "assist ", "capacitate ", "cover ", "enable ", "help ", "incite ", "mobilize ", "permit ", "strengthen "]}
+{"index": 87075, "D": "to deprive of a weapon or weapons.", "S": ["deactivate", "demilitarize", "demobilize", "disband", "neutralize", "occupy", "subdue"], "A": ["aid", "allow", "assist", "capacitate", "cover", "enable", "help", "incite", "mobilize", "permit", "strengthen"]}

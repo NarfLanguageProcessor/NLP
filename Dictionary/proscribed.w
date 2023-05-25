@@ -1,1 +1,1 @@
-{"index": 253006, "D": "to denounce or condemn (a thing) as dangerous or harmful; prohibit.", "S": ["bootleg ", "illicit ", "prohibited ", "smuggled ", "unauthorized "], "A": ["legal ", "permitted "]}
+{"index": 253006, "D": "to denounce or condemn (a thing) as dangerous or harmful; prohibit.", "S": ["bootleg", "illicit", "prohibited", "smuggled", "unauthorized"], "A": ["legal", "permitted"]}

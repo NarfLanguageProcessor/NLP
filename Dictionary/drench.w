@@ -1,1 +1,1 @@
-{"index": 92954, "D": "to wet thoroughly; soak.", "S": ["deluge ", "douse ", "drown ", "immerse ", "impregnate ", "inundate ", "saturate ", "soak ", "steep ", "submerge "], "A": ["dehydrate ", "dry "]}
+{"index": 92954, "D": "to wet thoroughly; soak.", "S": ["deluge", "douse", "drown", "immerse", "impregnate", "inundate", "saturate", "soak", "steep", "submerge"], "A": ["dehydrate", "dry"]}

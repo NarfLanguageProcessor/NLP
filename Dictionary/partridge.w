@@ -1,1 +1,1 @@
-{"index": 227123, "D": "any of several Old World gallinaceous  game birds of the subfamily Perdicinae, especially Perdix perdix.", "S": ["curlew ", "grouse ", "pheasant ", "plover ", "quail ", "sandpiper ", "snipe ", "wild turkey ", "wildfowl ", "woodcock "], "A": []}
+{"index": 227123, "D": "any of several Old World gallinaceous  game birds of the subfamily Perdicinae, especially Perdix perdix.", "S": ["curlew", "grouse", "pheasant", "plover", "quail", "sandpiper", "snipe", "wild turkey", "wildfowl", "woodcock"], "A": []}

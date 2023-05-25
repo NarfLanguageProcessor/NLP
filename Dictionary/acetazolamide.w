@@ -1,0 +1,1 @@
+{"index": 2034, "D": "a crystalline powder, C4H6N4O3S2, used chiefly in the treatment of glaucoma and edema.", "S": [], "A": []}

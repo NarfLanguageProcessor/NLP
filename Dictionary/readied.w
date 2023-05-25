@@ -1,1 +1,1 @@
-{"index": 261588, "D": "completely prepared or in fit condition for immediate action or use", "S": ["armed ", "clothed ", "dressed ", "furnished ", "rigged ", "supplied "], "A": ["bare ", "stripped ", "unfurnished "]}
+{"index": 261588, "D": "completely prepared or in fit condition for immediate action or use", "S": ["armed", "clothed", "dressed", "furnished", "rigged", "supplied"], "A": ["bare", "stripped", "unfurnished"]}

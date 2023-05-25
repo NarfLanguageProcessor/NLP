@@ -1,1 +1,1 @@
-{"index": 171811, "D": "simple past tense and past participle of lie1. ", "S": ["chant ", "ditty ", "oratorio ", "paean ", "psalm "], "A": []}
+{"index": 171811, "D": "simple past tense and past participle of lie1. ", "S": ["chant", "ditty", "oratorio", "paean", "psalm"], "A": []}

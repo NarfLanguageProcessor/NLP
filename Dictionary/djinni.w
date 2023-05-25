@@ -1,1 +1,1 @@
-{"index": 90510, "D": "variant spellings of jinni", "S": ["demon ", "jinnee ", "jinni ", "spirit ", "wizard "], "A": []}
+{"index": 90510, "D": "variant spellings of jinni", "S": ["demon", "jinnee", "jinni", "spirit", "wizard"], "A": []}

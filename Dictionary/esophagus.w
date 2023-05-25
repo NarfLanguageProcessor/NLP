@@ -1,1 +1,1 @@
-{"index": 104357, "D": "a muscular passage connecting the mouth or pharynx with the stomach in invertebrate and vertebrate animals; gullet.", "S": ["craw ", "maw ", "throat "], "A": []}
+{"index": 104357, "D": "a muscular passage connecting the mouth or pharynx with the stomach in invertebrate and vertebrate animals; gullet.", "S": ["craw", "maw", "throat"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 65074, "D": "Compare convex (def. 1). ", "S": ["bend ", "buckle ", "bulge ", "coil ", "crumple ", "curl ", "loop ", "skew ", "spiral ", "swerve ", "twist ", "veer "], "A": ["straighten ", "stay "]}
+{"index": 65074, "D": "Compare convex (def. 1). ", "S": ["bend", "buckle", "bulge", "coil", "crumple", "curl", "loop", "skew", "spiral", "swerve", "twist", "veer"], "A": ["straighten", "stay"]}

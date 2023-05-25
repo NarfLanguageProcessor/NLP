@@ -1,1 +1,1 @@
-{"index": 82431, "D": "to tell or depict in written or spoken words; give an account of", "S": ["apparent ", "definite ", "obvious ", "perceptible "], "A": []}
+{"index": 82431, "D": "to tell or depict in written or spoken words; give an account of", "S": ["apparent", "definite", "obvious", "perceptible"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 129396, "D": "the force of attraction by which terrestrial bodies tend to fall toward the center of the earth.", "S": ["pressure ", "weight "], "A": ["frivolity ", "inconsequentiality ", "levity ", "silliness ", "unimportance "]}
+{"index": 129396, "D": "the force of attraction by which terrestrial bodies tend to fall toward the center of the earth.", "S": ["pressure", "weight"], "A": ["frivolity", "inconsequentiality", "levity", "silliness", "unimportance"]}

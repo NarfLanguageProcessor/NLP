@@ -1,1 +1,1 @@
-{"index": 209522, "D": [], "S": ["calculation ", "computation ", "enumeration ", "numbering ", "outcome ", "poll ", "reckoning ", "result ", "sum ", "tally ", "toll ", "total ", "whole "], "A": ["cause ", "part ", "source "]}
+{"index": 209522, "D": [], "S": ["calculation", "computation", "enumeration", "numbering", "outcome", "poll", "reckoning", "result", "sum", "tally", "toll", "total", "whole"], "A": ["cause", "part", "source"]}

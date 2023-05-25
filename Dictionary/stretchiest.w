@@ -1,1 +1,1 @@
-{"index": 306146, "D": "having a tendency tostretch,  especially excessively or unduly.", "S": ["flexible ", "malleable ", "pliable ", "resilient ", "springy ", "supple "], "A": ["hard ", "inflexible ", "rigid ", "stiff ", "unadaptable ", "unbendable ", "unpliable ", "unyielding "]}
+{"index": 306146, "D": "having a tendency tostretch,  especially excessively or unduly.", "S": ["flexible", "malleable", "pliable", "resilient", "springy", "supple"], "A": ["hard", "inflexible", "rigid", "stiff", "unadaptable", "unbendable", "unpliable", "unyielding"]}

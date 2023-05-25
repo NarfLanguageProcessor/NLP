@@ -1,1 +1,1 @@
-{"index": 244814, "D": "a district in central England famous for the manufacture of pottery and china. The towns comprising this district were combined in 1910 to form Stoke-on-Trent.", "S": ["ceramics ", "crockery ", "earthenware ", "firing ", "porcelain ", "stoneware "], "A": []}
+{"index": 244814, "D": "a district in central England famous for the manufacture of pottery and china. The towns comprising this district were combined in 1910 to form Stoke-on-Trent.", "S": ["ceramics", "crockery", "earthenware", "firing", "porcelain", "stoneware"], "A": []}

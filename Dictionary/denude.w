@@ -1,1 +1,1 @@
-{"index": 81371, "D": "to make naked or bare; strip", "S": ["bare ", "disrobe ", "expose ", "fleece ", "peel ", "uncover ", "undress "], "A": ["clothe ", "conceal ", "cover ", "hide "]}
+{"index": 81371, "D": "to make naked or bare; strip", "S": ["bare", "disrobe", "expose", "fleece", "peel", "uncover", "undress"], "A": ["clothe", "conceal", "cover", "hide"]}

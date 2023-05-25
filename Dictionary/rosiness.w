@@ -1,1 +1,1 @@
-{"index": 274537, "D": "pink or pinkish-red; roseate.", "S": ["bloom ", "blossom ", "burning ", "color ", "flush ", "flushing ", "glow ", "glowing ", "mantling ", "reddening ", "redness ", "ruddiness ", "scarlet "], "A": ["paleness ", "pallidity ", "whiteness "]}
+{"index": 274537, "D": "pink or pinkish-red; roseate.", "S": ["bloom", "blossom", "burning", "color", "flush", "flushing", "glow", "glowing", "mantling", "reddening", "redness", "ruddiness", "scarlet"], "A": ["paleness", "pallidity", "whiteness"]}

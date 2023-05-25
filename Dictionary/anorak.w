@@ -1,1 +1,1 @@
-{"index": 13844, "D": "a hooded pullover jacket originally made of fur and worn in the Arctic, now made of any weather-resistant fabric.", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}
+{"index": 13844, "D": "a hooded pullover jacket originally made of fur and worn in the Arctic, now made of any weather-resistant fabric.", "S": ["cloak", "frock", "jacket", "overcoat", "raincoat", "suit", "tuxedo", "windbreaker", "wrap"], "A": []}

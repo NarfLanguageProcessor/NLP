@@ -1,1 +1,1 @@
-{"index": 146825, "D": "a disease of plants, characterized by stunting and the loss of chlorophyll.", "S": ["chicken ", "craven ", "sneaking "], "A": ["brave ", "bold "]}
+{"index": 146825, "D": "a disease of plants, characterized by stunting and the loss of chlorophyll.", "S": ["chicken", "craven", "sneaking"], "A": ["brave", "bold"]}

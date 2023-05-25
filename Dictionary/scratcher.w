@@ -1,1 +1,1 @@
-{"index": 281620, "D": "a person, animal, or thing that scratches", "S": ["frivolous ", "lesser ", "minor ", "narrow-minded "], "A": ["greater ", "major ", "big ", "enormous ", "first-class ", "first-rate ", "great ", "huge ", "immense ", "important ", "large ", "significant ", "superior "]}
+{"index": 281620, "D": "a person, animal, or thing that scratches", "S": ["frivolous", "lesser", "minor", "narrow-minded"], "A": ["greater", "major", "big", "enormous", "first-class", "first-rate", "great", "huge", "immense", "important", "large", "significant", "superior"]}

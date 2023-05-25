@@ -1,1 +1,1 @@
-{"index": 11405, "D": "mad with murderous frenzy.", "S": ["murderously "], "A": []}
+{"index": 11405, "D": "mad with murderous frenzy.", "S": ["murderously"], "A": []}

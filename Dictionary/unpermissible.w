@@ -1,1 +1,1 @@
-{"index": 347747, "D": "that can be permitted;  allowable", "S": ["impermissible ", "indefensible ", "intolerable ", "outrageous ", "reprehensible ", "unforgivable ", "unjustifiable ", "untenable "], "A": ["acceptable ", "good "]}
+{"index": 347747, "D": "that can be permitted;  allowable", "S": ["impermissible", "indefensible", "intolerable", "outrageous", "reprehensible", "unforgivable", "unjustifiable", "untenable"], "A": ["acceptable", "good"]}

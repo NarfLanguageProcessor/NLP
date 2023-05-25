@@ -1,1 +1,1 @@
-{"index": 149547, "D": "not attentive; negligent", "S": ["haphazardly ", "hastily ", "irresponsibly ", "negligently ", "nonchalantly ", "sloppily "], "A": []}
+{"index": 149547, "D": "not attentive; negligent", "S": ["haphazardly", "hastily", "irresponsibly", "negligently", "nonchalantly", "sloppily"], "A": []}

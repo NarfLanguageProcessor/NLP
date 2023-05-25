@@ -1,1 +1,1 @@
-{"index": 8598, "D": "consisting of or pertaining to allegory;  of the nature of or containing allegory; figurative", "S": ["figurative ", "metaphorical "], "A": ["untypical "]}
+{"index": 8598, "D": "consisting of or pertaining to allegory;  of the nature of or containing allegory; figurative", "S": ["figurative", "metaphorical"], "A": ["untypical"]}

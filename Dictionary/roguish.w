@@ -1,1 +1,1 @@
-{"index": 273853, "D": "playfully mischievous", "S": ["devilish ", "impish ", "playful ", "sly "], "A": []}
+{"index": 273853, "D": "playfully mischievous", "S": ["devilish", "impish", "playful", "sly"], "A": []}

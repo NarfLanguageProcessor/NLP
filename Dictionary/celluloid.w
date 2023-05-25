@@ -1,1 +1,1 @@
-{"index": 50616, "D": "a tough, highly flammable substance consisting essentially of nitrocellulose and camphor", "S": ["cinema ", "feature ", "film ", "flick ", "motion picture ", "picture ", "show ", "videotape "], "A": []}
+{"index": 50616, "D": "a tough, highly flammable substance consisting essentially of nitrocellulose and camphor", "S": ["cinema", "feature", "film", "flick", "motion picture", "picture", "show", "videotape"], "A": []}

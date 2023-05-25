@@ -1,1 +1,1 @@
-{"index": 86098, "D": "an eccentric, silly, or empty-headed person.", "S": ["eccentric ", "flake ", "fool ", "kook ", "lunatic ", "madman ", "madwoman ", "maniac ", "nut ", "oddball ", "screwball ", "wacko ", "weirdo "], "A": []}
+{"index": 86098, "D": "an eccentric, silly, or empty-headed person.", "S": ["eccentric", "flake", "fool", "kook", "lunatic", "madman", "madwoman", "maniac", "nut", "oddball", "screwball", "wacko", "weirdo"], "A": []}

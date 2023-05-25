@@ -1,1 +1,1 @@
-{"index": 150273, "D": "not able to be comforted or consoled;  disconsolate", "S": ["disconsolate ", "unconsolable "], "A": ["happy ", "understanding "]}
+{"index": 150273, "D": "not able to be comforted or consoled;  disconsolate", "S": ["disconsolate", "unconsolable"], "A": ["happy", "understanding"]}

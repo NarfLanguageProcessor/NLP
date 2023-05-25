@@ -1,1 +1,1 @@
-{"index": 213721, "D": [], "S": ["belittle ", "condemn ", "denounce ", "minimize "], "A": ["approve ", "praise ", "commend ", "compliment ", "esteem ", "exaggerate ", "exalt ", "flatter ", "honor ", "increase ", "laud ", "overestimate ", "overrate ", "overvalue ", "raise ", "respect ", "sanction "]}
+{"index": 213721, "D": [], "S": ["belittle", "condemn", "denounce", "minimize"], "A": ["approve", "praise", "commend", "compliment", "esteem", "exaggerate", "exalt", "flatter", "honor", "increase", "laud", "overestimate", "overrate", "overvalue", "raise", "respect", "sanction"]}

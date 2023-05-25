@@ -1,1 +1,1 @@
-{"index": 4218, "D": "the act of mixing; state of being mixed.", "S": ["amalgamation ", "blend ", "combination ", "commixture ", "compound ", "fusion ", "mingling ", "mixture "], "A": ["division ", "separation "]}
+{"index": 4218, "D": "the act of mixing; state of being mixed.", "S": ["amalgamation", "blend", "combination", "commixture", "compound", "fusion", "mingling", "mixture"], "A": ["division", "separation"]}

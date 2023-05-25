@@ -1,1 +1,1 @@
-{"index": 230623, "D": "a rather thick, medium-sized cigar tapering almost down to a point at each end.", "S": ["belvedere ", "bouquet ", "cheroot ", "claro ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "toby ", "weed "], "A": []}
+{"index": 230623, "D": "a rather thick, medium-sized cigar tapering almost down to a point at each end.", "S": ["belvedere", "bouquet", "cheroot", "claro", "corona", "havana", "panatela", "smoke", "stogie", "stogy", "tobacco", "toby", "weed"], "A": []}

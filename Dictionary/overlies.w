@@ -1,1 +1,1 @@
-{"index": 220074, "D": "to lie over or upon, as a covering or stratum.", "S": ["bestride ", "overlook ", "overtop ", "survey "], "A": ["follow ", "go along ", "submit ", "surrender ", "yield "]}
+{"index": 220074, "D": "to lie over or upon, as a covering or stratum.", "S": ["bestride", "overlook", "overtop", "survey"], "A": ["follow", "go along", "submit", "surrender", "yield"]}

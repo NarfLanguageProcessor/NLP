@@ -1,1 +1,1 @@
-{"index": 288530, "D": "a long- or short-sleeved garment for the upper part of the body, usually lightweight and having a collar and a front opening.", "S": ["blouse ", "jersey ", "pullover ", "tunic ", "turtleneck "], "A": []}
+{"index": 288530, "D": "a long- or short-sleeved garment for the upper part of the body, usually lightweight and having a collar and a front opening.", "S": ["blouse", "jersey", "pullover", "tunic", "turtleneck"], "A": []}

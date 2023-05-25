@@ -1,1 +1,1 @@
-{"index": 166808, "D": [], "S": ["rim "], "A": ["center ", "interior ", "middle "]}
+{"index": 166808, "D": [], "S": ["rim"], "A": ["center", "interior", "middle"]}

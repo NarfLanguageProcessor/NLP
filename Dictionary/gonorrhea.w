@@ -1,1 +1,1 @@
-{"index": 127845, "D": "a contagious, purulent inflammation of the urethra or the vagina, caused by the gonococcus.", "S": ["AIDS ", "acquired immune deficiency syndrome ", "herpes ", "syphilis ", "the clap ", "venereal disease "], "A": []}
+{"index": 127845, "D": "a contagious, purulent inflammation of the urethra or the vagina, caused by the gonococcus.", "S": ["AIDS", "acquired immune deficiency syndrome", "herpes", "syphilis", "the clap", "venereal disease"], "A": []}

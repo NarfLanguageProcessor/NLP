@@ -1,1 +1,1 @@
-{"index": 321882, "D": "a material object without life or consciousness; an inanimate object.", "S": ["stuff "], "A": []}
+{"index": 321882, "D": "a material object without life or consciousness; an inanimate object.", "S": ["stuff"], "A": []}

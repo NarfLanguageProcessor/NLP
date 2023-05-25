@@ -1,1 +1,1 @@
-{"index": 114763, "D": "to flutter.", "S": ["dart ", "flicker ", "flit ", "flop ", "fly ", "ripple ", "skim ", "swoop ", "waggle ", "wave ", "waver ", "zip "], "A": []}
+{"index": 114763, "D": "to flutter.", "S": ["dart", "flicker", "flit", "flop", "fly", "ripple", "skim", "swoop", "waggle", "wave", "waver", "zip"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 227305, "D": "a person or thing that passes  or causes something to pass. ", "S": ["corny ", "obsolete ", "odd ", "outdated ", "outmoded ", "unfashionable "], "A": ["current ", "modern ", "new ", "up-to-date "]}
+{"index": 227305, "D": "a person or thing that passes  or causes something to pass. ", "S": ["corny", "obsolete", "odd", "outdated", "outmoded", "unfashionable"], "A": ["current", "modern", "new", "up-to-date"]}

@@ -1,1 +1,1 @@
-{"index": 335889, "D": "not ordered or commanded; spontaneous.", "S": ["casual ", "impromptu ", "instinctive ", "offhand ", "simple ", "unplanned ", "voluntary "], "A": ["deliberate ", "planned "]}
+{"index": 335889, "D": "not ordered or commanded; spontaneous.", "S": ["casual", "impromptu", "instinctive", "offhand", "simple", "unplanned", "voluntary"], "A": ["deliberate", "planned"]}

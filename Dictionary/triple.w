@@ -1,1 +1,1 @@
-{"index": 330381, "D": "threefold; consisting of three parts", "S": ["threefold "], "A": []}
+{"index": 330381, "D": "threefold; consisting of three parts", "S": ["threefold"], "A": []}

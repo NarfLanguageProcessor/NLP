@@ -1,1 +1,1 @@
-{"index": 365053, "D": "to move with a rapid, sweeping stroke", "S": ["dart ", "dash ", "hurry ", "whip ", "wipe "], "A": ["decelerate ", "slow ", "walk "]}
+{"index": 365053, "D": "to move with a rapid, sweeping stroke", "S": ["dart", "dash", "hurry", "whip", "wipe"], "A": ["decelerate", "slow", "walk"]}

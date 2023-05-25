@@ -1,1 +1,1 @@
-{"index": 135266, "D": "careless; thoughtless; unmindful", "S": ["carelessness ", "disregard ", "freedom ", "impulse ", "licentiousness ", "recklessness ", "spontaneity ", "thoughtlessness ", "unrestraint ", "wantonness ", "wildness "], "A": []}
+{"index": 135266, "D": "careless; thoughtless; unmindful", "S": ["carelessness", "disregard", "freedom", "impulse", "licentiousness", "recklessness", "spontaneity", "thoughtlessness", "unrestraint", "wantonness", "wildness"], "A": []}

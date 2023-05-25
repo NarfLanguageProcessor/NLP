@@ -1,1 +1,1 @@
-{"index": 347215, "D": "arranged or disposed in a neat, tidy manner or in a regular sequence", "S": ["bedraggled ", "jumbled ", "messy ", "sloppy ", "tangled "], "A": ["clean ", "neat ", "ordered ", "organized ", "tidy "]}
+{"index": 347215, "D": "arranged or disposed in a neat, tidy manner or in a regular sequence", "S": ["bedraggled", "jumbled", "messy", "sloppy", "tangled"], "A": ["clean", "neat", "ordered", "organized", "tidy"]}

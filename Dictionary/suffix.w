@@ -1,1 +1,1 @@
-{"index": 310124, "D": "an affix that follows the element to which it is added, as -ly in kindly.", "S": ["addition ", "appendix ", "postfix "], "A": []}
+{"index": 310124, "D": "an affix that follows the element to which it is added, as -ly in kindly.", "S": ["addition", "appendix", "postfix"], "A": []}

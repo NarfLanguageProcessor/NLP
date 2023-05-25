@@ -1,1 +1,1 @@
-{"index": 221242, "D": "(especially in transcendentalism) a supreme reality or mind; the spiritual unity of all being.", "S": ["Logos ", "World Reason ", "anima mundi ", "infinite spirit ", "universal ego ", "universal life force ", "world principle ", "world soul ", "world-self "], "A": []}
+{"index": 221242, "D": "(especially in transcendentalism) a supreme reality or mind; the spiritual unity of all being.", "S": ["Logos", "World Reason", "anima mundi", "infinite spirit", "universal ego", "universal life force", "world principle", "world soul", "world-self"], "A": []}

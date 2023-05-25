@@ -1,1 +1,1 @@
-{"index": 36367, "D": "a stupid, doltish person; dunce.", "S": ["boneheaded ", "dense ", "dimwitted ", "doltish ", "dumb ", "empty-headed ", "loggerheaded ", "obtuse ", "simple ", "simpleminded ", "thick-skulled ", "thickheaded ", "unintelligent "], "A": []}
+{"index": 36367, "D": "a stupid, doltish person; dunce.", "S": ["boneheaded", "dense", "dimwitted", "doltish", "dumb", "empty-headed", "loggerheaded", "obtuse", "simple", "simpleminded", "thick-skulled", "thickheaded", "unintelligent"], "A": []}

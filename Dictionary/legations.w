@@ -1,1 +1,1 @@
-{"index": 170046, "D": "a diplomatic minister and staff in a foreign mission.", "S": ["agency ", "authority ", "delegation ", "office "], "A": []}
+{"index": 170046, "D": "a diplomatic minister and staff in a foreign mission.", "S": ["agency", "authority", "delegation", "office"], "A": []}

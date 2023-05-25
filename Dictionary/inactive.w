@@ -1,1 +1,1 @@
-{"index": 149355, "D": "not active", "S": ["dormant ", "dull ", "idle ", "immobile ", "inoperative ", "jobless ", "passive ", "sedentary ", "sluggish ", "static ", "unemployed ", "unused "], "A": ["active ", "employed ", "energetic ", "lively ", "mobile ", "moving ", "used "]}
+{"index": 149355, "D": "not active", "S": ["dormant", "dull", "idle", "immobile", "inoperative", "jobless", "passive", "sedentary", "sluggish", "static", "unemployed", "unused"], "A": ["active", "employed", "energetic", "lively", "mobile", "moving", "used"]}

@@ -1,1 +1,1 @@
-{"index": 262034, "D": "not having any reason or sense", "S": ["flimsy ", "gratuitous ", "groundless ", "unfounded ", "unjustifiable ", "unjustified ", "unsubstantiated ", "unsupported ", "untenable ", "unwarranted "], "A": ["called-for ", "justified ", "proven ", "reasonable ", "warranted "]}
+{"index": 262034, "D": "not having any reason or sense", "S": ["flimsy", "gratuitous", "groundless", "unfounded", "unjustifiable", "unjustified", "unsubstantiated", "unsupported", "untenable", "unwarranted"], "A": ["called-for", "justified", "proven", "reasonable", "warranted"]}

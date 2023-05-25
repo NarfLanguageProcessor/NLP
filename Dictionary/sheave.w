@@ -1,1 +1,1 @@
-{"index": 287729, "D": "to gather, collect, or bind into a sheaf  or sheaves.", "S": ["block ", "ring ", "wheel "], "A": []}
+{"index": 287729, "D": "to gather, collect, or bind into a sheaf  or sheaves.", "S": ["block", "ring", "wheel"], "A": []}

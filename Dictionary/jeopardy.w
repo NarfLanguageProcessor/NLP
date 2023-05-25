@@ -1,1 +1,1 @@
-{"index": 160877, "D": "hazard or risk of or exposure to loss, harm, death, or injury", "S": ["peril "], "A": ["assurance ", "certainty ", "safety ", "surety "]}
+{"index": 160877, "D": "hazard or risk of or exposure to loss, harm, death, or injury", "S": ["peril"], "A": ["assurance", "certainty", "safety", "surety"]}

@@ -1,1 +1,1 @@
-{"index": 175066, "D": "a person who looks. ", "S": ["charmer "], "A": ["actuality ", "eyesore ", "fact ", "reality "]}
+{"index": 175066, "D": "a person who looks. ", "S": ["charmer"], "A": ["actuality", "eyesore", "fact", "reality"]}

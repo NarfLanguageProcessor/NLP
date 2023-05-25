@@ -1,1 +1,1 @@
-{"index": 191544, "D": "having been pacified or appeased, or showing appeasement", "S": ["blended ", "tempered ", "thawed "], "A": []}
+{"index": 191544, "D": "having been pacified or appeased, or showing appeasement", "S": ["blended", "tempered", "thawed"], "A": []}

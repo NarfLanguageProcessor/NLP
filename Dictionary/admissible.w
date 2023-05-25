@@ -1,0 +1,1 @@
+{"index": 4189, "D": "that may be allowed or conceded; allowable", "S": ["allowed", "justifiable", "permissible", "pertinent", "relevant"], "A": ["inappropriate", "irrelevant", "unsuitable"]}

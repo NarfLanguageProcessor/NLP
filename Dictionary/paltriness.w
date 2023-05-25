@@ -1,1 +1,1 @@
-{"index": 224211, "D": "ridiculously or insultingly small", "S": ["insignificance ", "irrelevance ", "triviality "], "A": []}
+{"index": 224211, "D": "ridiculously or insultingly small", "S": ["insignificance", "irrelevance", "triviality"], "A": []}

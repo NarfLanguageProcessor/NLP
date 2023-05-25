@@ -1,1 +1,1 @@
-{"index": 129224, "D": "warmly or deeply appreciative of kindness or benefits received; thankful", "S": ["beholden ", "indebted ", "pleased ", "thankful "], "A": ["abusive ", "heedless ", "mean ", "rude ", "thankless ", "unappreciative ", "ungrateful "]}
+{"index": 129224, "D": "warmly or deeply appreciative of kindness or benefits received; thankful", "S": ["beholden", "indebted", "pleased", "thankful"], "A": ["abusive", "heedless", "mean", "rude", "thankless", "unappreciative", "ungrateful"]}

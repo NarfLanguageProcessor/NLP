@@ -1,1 +1,1 @@
-{"index": 227523, "D": "a sweet baked food made of dough, especially the shortened paste  used for pie crust and the like.", "S": ["bonbons ", "candy ", "comfit ", "confection ", "confectionery ", "dessert ", "pie ", "preserves ", "pudding ", "sweetmeats "], "A": []}
+{"index": 227523, "D": "a sweet baked food made of dough, especially the shortened paste  used for pie crust and the like.", "S": ["bonbons", "candy", "comfit", "confection", "confectionery", "dessert", "pie", "preserves", "pudding", "sweetmeats"], "A": []}

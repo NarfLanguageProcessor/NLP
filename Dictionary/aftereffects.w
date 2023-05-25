@@ -1,1 +1,1 @@
-{"index": 5665, "D": "a delayed effect;  an effect that follows at some interval after  the stimulus that produces it.", "S": ["aftermath ", "aftershock ", "consequence ", "fallout ", "followup ", "hangover ", "offshoot ", "trail ", "wake "], "A": []}
+{"index": 5665, "D": "a delayed effect;  an effect that follows at some interval after  the stimulus that produces it.", "S": ["aftermath", "aftershock", "consequence", "fallout", "followup", "hangover", "offshoot", "trail", "wake"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 287519, "D": "a combining form with the meaning \u201cthe practice of giving specific users access to digital documents or other online content\u201d", "S": ["allocation ", "distribution "], "A": []}
+{"index": 287519, "D": "a combining form with the meaning \u201cthe practice of giving specific users access to digital documents or other online content\u201d", "S": ["allocation", "distribution"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 94511, "D": "somewhat dark; having little light; dim; shadowy.", "S": ["blackness ", "darkness ", "dimness ", "dusk ", "murkiness ", "night ", "sundown ", "sunset ", "twilight "], "A": ["day ", "light ", "lightness ", "sunrise "]}
+{"index": 94511, "D": "somewhat dark; having little light; dim; shadowy.", "S": ["blackness", "darkness", "dimness", "dusk", "murkiness", "night", "sundown", "sunset", "twilight"], "A": ["day", "light", "lightness", "sunrise"]}

@@ -1,1 +1,1 @@
-{"index": 17425, "D": "to commit apostasy. ", "S": ["abandon ", "desert ", "reject ", "renounce ", "stray ", "tergiversate "], "A": ["allow ", "approve ", "stay ", "support "]}
+{"index": 17425, "D": "to commit apostasy. ", "S": ["abandon", "desert", "reject", "renounce", "stray", "tergiversate"], "A": ["allow", "approve", "stay", "support"]}

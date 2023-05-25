@@ -1,1 +1,1 @@
-{"index": 129135, "D": "a device consisting essentially of one or more hooks or clamps, for grasping or holding something; grapple; grappling iron.", "S": ["mainstay "], "A": ["release "]}
+{"index": 129135, "D": "a device consisting essentially of one or more hooks or clamps, for grasping or holding something; grapple; grappling iron.", "S": ["mainstay"], "A": ["release"]}

@@ -1,1 +1,1 @@
-{"index": 57668, "D": "an early movie camera or projector, often a single mechanical device to record and project film.", "S": ["cinema ", "feature film ", "flick ", "talkie "], "A": []}
+{"index": 57668, "D": "an early movie camera or projector, often a single mechanical device to record and project film.", "S": ["cinema", "feature film", "flick", "talkie"], "A": []}

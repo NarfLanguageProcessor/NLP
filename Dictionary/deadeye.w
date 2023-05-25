@@ -1,1 +1,1 @@
-{"index": 77445, "D": "either of a pair of disks of hardwood having holes through which a lanyard is rove", "S": ["sharpshooter ", "sniper "], "A": []}
+{"index": 77445, "D": "either of a pair of disks of hardwood having holes through which a lanyard is rove", "S": ["sharpshooter", "sniper"], "A": []}

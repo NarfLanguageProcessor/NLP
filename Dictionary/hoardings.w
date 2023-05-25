@@ -1,1 +1,1 @@
-{"index": 142032, "D": "the act of a person or animal that hoards", "S": ["accretion ", "aggregation ", "buildup ", "growth ", "inflation ", "pile ", "quantity "], "A": ["decrease ", "shrinkage ", "lessening ", "loss ", "reduction ", "subtraction "]}
+{"index": 142032, "D": "the act of a person or animal that hoards", "S": ["accretion", "aggregation", "buildup", "growth", "inflation", "pile", "quantity"], "A": ["decrease", "shrinkage", "lessening", "loss", "reduction", "subtraction"]}

@@ -1,1 +1,1 @@
-{"index": 231211, "D": "relating to, situated in, or constituting the periphery", "S": ["incidental ", "tangential "], "A": ["central ", "inside ", "interior ", "middle "]}
+{"index": 231211, "D": "relating to, situated in, or constituting the periphery", "S": ["incidental", "tangential"], "A": ["central", "inside", "interior", "middle"]}

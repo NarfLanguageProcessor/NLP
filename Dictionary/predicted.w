@@ -1,1 +1,1 @@
-{"index": 246936, "D": "to declare or tell in advance; prophesy; foretell", "S": ["guessed at ", "likely "], "A": []}
+{"index": 246936, "D": "to declare or tell in advance; prophesy; foretell", "S": ["guessed at", "likely"], "A": []}

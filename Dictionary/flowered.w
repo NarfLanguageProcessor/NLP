@@ -1,1 +1,1 @@
-{"index": 115184, "D": "having flowers. ", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}
+{"index": 115184, "D": "having flowers. ", "S": ["carpeted", "dotted", "overgrown"], "A": ["bare", "empty", "exposed", "open", "passed over", "revealed", "unfurnished", "unheeded", "unnoticed"]}

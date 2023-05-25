@@ -1,1 +1,1 @@
-{"index": 129769, "D": "a grating of crossed bars; gridiron. ", "S": ["framework ", "network "], "A": []}
+{"index": 129769, "D": "a grating of crossed bars; gridiron. ", "S": ["framework", "network"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 80859, "D": "to make evident or establish by arguments or reasoning; prove", "S": ["determine ", "establish ", "exhibit ", "expose ", "indicate ", "manifest ", "prove ", "test ", "testify to ", "try ", "validate "], "A": ["conceal ", "cover ", "disprove ", "hide "]}
+{"index": 80859, "D": "to make evident or establish by arguments or reasoning; prove", "S": ["determine", "establish", "exhibit", "expose", "indicate", "manifest", "prove", "test", "testify to", "try", "validate"], "A": ["conceal", "cover", "disprove", "hide"]}

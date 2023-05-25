@@ -1,1 +1,1 @@
-{"index": 121656, "D": "the hock of an animal, especially of a horse.", "S": ["ceiling ", "house "], "A": ["bottom "]}
+{"index": 121656, "D": "the hock of an animal, especially of a horse.", "S": ["ceiling", "house"], "A": ["bottom"]}

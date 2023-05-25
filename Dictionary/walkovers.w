@@ -1,1 +1,1 @@
-{"index": 362211, "D": "a walking or trotting over the course by a contestant who is the only starter.", "S": ["cinch ", "cruise ", "glide ", "pushover ", "runaway ", "sail ", "sally ", "slide ", "slip ", "snap ", "sweep ", "trip ", "walkaway ", "waltz "], "A": ["correction "]}
+{"index": 362211, "D": "a walking or trotting over the course by a contestant who is the only starter.", "S": ["cinch", "cruise", "glide", "pushover", "runaway", "sail", "sally", "slide", "slip", "snap", "sweep", "trip", "walkaway", "waltz"], "A": ["correction"]}

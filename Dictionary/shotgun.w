@@ -1,1 +1,1 @@
-{"index": 288967, "D": "a smoothbore gun for firing small shot  to kill birds and small quadrupeds, though often used with buckshot  to kill larger animals.", "S": ["handgun ", "musket ", "pistol ", "revolver ", "rifle ", "weapon "], "A": []}
+{"index": 288967, "D": "a smoothbore gun for firing small shot  to kill birds and small quadrupeds, though often used with buckshot  to kill larger animals.", "S": ["handgun", "musket", "pistol", "revolver", "rifle", "weapon"], "A": []}

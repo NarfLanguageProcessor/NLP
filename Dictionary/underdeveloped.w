@@ -1,1 +1,1 @@
-{"index": 339077, "D": "improperly or insufficiently developed. ", "S": ["disadvantaged ", "impoverished ", "lagging ", "poor ", "undeveloped "], "A": ["rich ", "wealthy "]}
+{"index": 339077, "D": "improperly or insufficiently developed. ", "S": ["disadvantaged", "impoverished", "lagging", "poor", "undeveloped"], "A": ["rich", "wealthy"]}

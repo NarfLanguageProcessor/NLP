@@ -1,1 +1,1 @@
-{"index": 128235, "D": "given to or fond of gossip", "S": ["blabbing ", "blabby ", "giving away ", "prattling ", "spilling ", "spilling the beans ", "talebearing ", "taletelling ", "whispering "], "A": []}
+{"index": 128235, "D": "given to or fond of gossip", "S": ["blabbing", "blabby", "giving away", "prattling", "spilling", "spilling the beans", "talebearing", "taletelling", "whispering"], "A": []}

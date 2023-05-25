@@ -1,1 +1,1 @@
-{"index": 25060, "D": "away from military duties without permission, but without the intention of deserting.", "S": ["AWOL ", "absenteeism ", "cut ", "hooky ", "nonappearance ", "nonattendance ", "truancy ", "vacancy "], "A": ["abundance ", "enough ", "existence ", "plenty ", "presence "]}
+{"index": 25060, "D": "away from military duties without permission, but without the intention of deserting.", "S": ["AWOL", "absenteeism", "cut", "hooky", "nonappearance", "nonattendance", "truancy", "vacancy"], "A": ["abundance", "enough", "existence", "plenty", "presence"]}

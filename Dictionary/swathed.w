@@ -1,1 +1,1 @@
-{"index": 314182, "D": "to wrap, bind, or swaddle with bands of some material; wrap up closely or fully.", "S": ["cloaked ", "encased ", "protected "], "A": ["uncovered ", "unwrapped "]}
+{"index": 314182, "D": "to wrap, bind, or swaddle with bands of some material; wrap up closely or fully.", "S": ["cloaked", "encased", "protected"], "A": ["uncovered", "unwrapped"]}

@@ -1,1 +1,1 @@
-{"index": 189628, "D": "to mate unsuitably or wrongly.", "S": ["adapt ", "alter ", "diversify ", "modify ", "transform ", "vary "], "A": ["leave alone ", "preserve ", "remain ", "stagnate "]}
+{"index": 189628, "D": "to mate unsuitably or wrongly.", "S": ["adapt", "alter", "diversify", "modify", "transform", "vary"], "A": ["leave alone", "preserve", "remain", "stagnate"]}

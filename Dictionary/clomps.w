@@ -1,1 +1,1 @@
-{"index": 60390, "D": "clump (def. 6). ", "S": ["clop ", "clunk ", "plod ", "pound ", "stomp ", "thud ", "thump "], "A": []}
+{"index": 60390, "D": "clump (def. 6). ", "S": ["clop", "clunk", "plod", "pound", "stomp", "thud", "thump"], "A": []}

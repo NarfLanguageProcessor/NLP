@@ -1,1 +1,1 @@
-{"index": 134617, "D": "a person who engages in headhunting.", "S": ["anthropophaginian ", "anthropophagite ", "anthropophagus ", "man-eater ", "people-eater "], "A": []}
+{"index": 134617, "D": "a person who engages in headhunting.", "S": ["anthropophaginian", "anthropophagite", "anthropophagus", "man-eater", "people-eater"], "A": []}

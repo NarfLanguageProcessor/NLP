@@ -1,1 +1,1 @@
-{"index": 364655, "D": "while on the contrary", "S": ["although ", "as ", "because ", "considering that ", "forasmuch as ", "insomuch as ", "since ", "though ", "while "], "A": []}
+{"index": 364655, "D": "while on the contrary", "S": ["although", "as", "because", "considering that", "forasmuch as", "insomuch as", "since", "though", "while"], "A": []}

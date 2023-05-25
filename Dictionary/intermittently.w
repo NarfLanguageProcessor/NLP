@@ -1,1 +1,1 @@
-{"index": 155402, "D": "at occasional or uneven intervals", "S": ["occasionally ", "periodically ", "sporadically "], "A": []}
+{"index": 155402, "D": "at occasional or uneven intervals", "S": ["occasionally", "periodically", "sporadically"], "A": []}

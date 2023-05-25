@@ -1,1 +1,1 @@
-{"index": 53043, "D": "(in the French army) one of a body of cavalry or infantry troops equipped and trained for rapid movement.", "S": ["squadron "], "A": []}
+{"index": 53043, "D": "(in the French army) one of a body of cavalry or infantry troops equipped and trained for rapid movement.", "S": ["squadron"], "A": []}

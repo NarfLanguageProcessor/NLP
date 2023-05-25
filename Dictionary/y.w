@@ -1,1 +1,1 @@
-{"index": 145456, "D": "an unknown quantity.", "S": ["corner ", "edge ", "intersection ", "slant ", "twist "], "A": []}
+{"index": 145456, "D": "an unknown quantity.", "S": ["corner", "edge", "intersection", "slant", "twist"], "A": []}

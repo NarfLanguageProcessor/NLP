@@ -1,1 +1,1 @@
-{"index": 222026, "D": "the female reproductive cell or gamete of plants.", "S": ["egg ", "gamete ", "oosphere ", "seed ", "spore "], "A": []}
+{"index": 222026, "D": "the female reproductive cell or gamete of plants.", "S": ["egg", "gamete", "oosphere", "seed", "spore"], "A": []}

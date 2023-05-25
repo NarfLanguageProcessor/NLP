@@ -1,1 +1,1 @@
-{"index": 232258, "D": "pertaining to or characterized by pessimism  or the tendency to expect only bad outcomes; gloomy; joyless; unhopeful", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}
+{"index": 232258, "D": "pertaining to or characterized by pessimism  or the tendency to expect only bad outcomes; gloomy; joyless; unhopeful", "S": ["desperately", "sadly"], "A": ["confidently", "expectantly", "hopefully"]}

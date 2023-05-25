@@ -1,1 +1,1 @@
-{"index": 260792, "D": "a raptorial  bird.", "S": ["beast of prey ", "predator ", "raptorial bird "], "A": []}
+{"index": 260792, "D": "a raptorial  bird.", "S": ["beast of prey", "predator", "raptorial bird"], "A": []}

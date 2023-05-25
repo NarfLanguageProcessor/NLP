@@ -1,1 +1,1 @@
-{"index": 128521, "D": "any process or change taking place through a series of stages, by degrees, or in a gradual manner.", "S": ["calibration ", "nuance "], "A": ["accord ", "agreement ", "sameness ", "similarity ", "unemployment ", "unimportance "]}
+{"index": 128521, "D": "any process or change taking place through a series of stages, by degrees, or in a gradual manner.", "S": ["calibration", "nuance"], "A": ["accord", "agreement", "sameness", "similarity", "unemployment", "unimportance"]}

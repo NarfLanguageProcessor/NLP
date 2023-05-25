@@ -1,1 +1,1 @@
-{"index": 152169, "D": "a person or thing that influences", "S": ["bellwether "], "A": []}
+{"index": 152169, "D": "a person or thing that influences", "S": ["bellwether"], "A": []}

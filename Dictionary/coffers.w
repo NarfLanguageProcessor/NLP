@@ -1,1 +1,1 @@
-{"index": 62167, "D": "a box or chest, especially one for valuables.", "S": ["gift ", "money ", "prize ", "reward ", "wealth "], "A": ["penalty ", "punishment ", "debt "]}
+{"index": 62167, "D": "a box or chest, especially one for valuables.", "S": ["gift", "money", "prize", "reward", "wealth"], "A": ["penalty", "punishment", "debt"]}

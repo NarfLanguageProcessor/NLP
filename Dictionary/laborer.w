@@ -1,1 +1,1 @@
-{"index": 166738, "D": "a person engaged in work that requires bodily strength rather than skill or training", "S": ["drudge ", "farmhand ", "grunt ", "hand ", "hireling ", "peon "], "A": []}
+{"index": 166738, "D": "a person engaged in work that requires bodily strength rather than skill or training", "S": ["drudge", "farmhand", "grunt", "hand", "hireling", "peon"], "A": []}

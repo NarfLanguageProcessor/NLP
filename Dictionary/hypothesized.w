@@ -1,1 +1,1 @@
-{"index": 141293, "D": "to form a hypothesis. ", "S": ["accepted ", "granted ", "presumed "], "A": ["genuine ", "natural ", "real ", "unassumed ", "unexpected "]}
+{"index": 141293, "D": "to form a hypothesis. ", "S": ["accepted", "granted", "presumed"], "A": ["genuine", "natural", "real", "unassumed", "unexpected"]}

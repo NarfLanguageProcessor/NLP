@@ -1,1 +1,1 @@
-{"index": 73713, "D": "to sing or hum in a soft, soothing voice", "S": ["hum ", "murmur ", "wail "], "A": []}
+{"index": 73713, "D": "to sing or hum in a soft, soothing voice", "S": ["hum", "murmur", "wail"], "A": []}

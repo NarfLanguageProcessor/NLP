@@ -1,1 +1,1 @@
-{"index": 280853, "D": "an agricultural implement consisting of a long, curving blade fastened at an angle to a handle, for cutting grass, grain, etc., by hand.", "S": ["shear ", "trim "], "A": []}
+{"index": 280853, "D": "an agricultural implement consisting of a long, curving blade fastened at an angle to a handle, for cutting grass, grain, etc., by hand.", "S": ["shear", "trim"], "A": []}

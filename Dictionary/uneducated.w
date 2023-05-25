@@ -1,1 +1,1 @@
-{"index": 341025, "D": "not educated. ", "S": ["ignorant ", "illiterate ", "unschooled "], "A": ["educated ", "learned ", "literate "]}
+{"index": 341025, "D": "not educated. ", "S": ["ignorant", "illiterate", "unschooled"], "A": ["educated", "learned", "literate"]}

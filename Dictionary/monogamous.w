@@ -1,1 +1,1 @@
-{"index": 192302, "D": "practicing or advocating monogamy. ", "S": ["celibate ", "platonic ", "subdued ", "unblemished ", "virginal "], "A": ["corrupt ", "defiled ", "dirty ", "lewd ", "unchaste ", "wanton "]}
+{"index": 192302, "D": "practicing or advocating monogamy. ", "S": ["celibate", "platonic", "subdued", "unblemished", "virginal"], "A": ["corrupt", "defiled", "dirty", "lewd", "unchaste", "wanton"]}

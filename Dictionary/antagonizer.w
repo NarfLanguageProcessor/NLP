@@ -1,0 +1,1 @@
+{"index": 14002, "D": "Compare antagonist. ", "S": ["oppressor", "rascal"], "A": []}

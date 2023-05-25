@@ -1,1 +1,1 @@
-{"index": 32813, "D": "engaged to be married", "S": ["affianced ", "committed ", "intended "], "A": []}
+{"index": 32813, "D": "engaged to be married", "S": ["affianced", "committed", "intended"], "A": []}

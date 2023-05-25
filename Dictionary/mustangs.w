@@ -1,1 +1,1 @@
-{"index": 196161, "D": "a small, hardy horse of the American plains, descended from Spanish stock.", "S": ["colt ", "filly ", "mare ", "stallion "], "A": []}
+{"index": 196161, "D": "a small, hardy horse of the American plains, descended from Spanish stock.", "S": ["colt", "filly", "mare", "stallion"], "A": []}

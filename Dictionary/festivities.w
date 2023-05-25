@@ -1,1 +1,1 @@
-{"index": 111701, "D": "a festive  celebration or occasion.", "S": ["anniversary ", "commemoration ", "competition ", "fair ", "feast ", "gala ", "holiday "], "A": []}
+{"index": 111701, "D": "a festive  celebration or occasion.", "S": ["anniversary", "commemoration", "competition", "fair", "feast", "gala", "holiday"], "A": []}

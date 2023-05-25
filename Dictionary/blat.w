@@ -1,1 +1,1 @@
-{"index": 35865, "D": "bleat. ", "S": ["baa ", "blather ", "bluster ", "cry ", "fuss ", "gripe ", "whine "], "A": []}
+{"index": 35865, "D": "bleat. ", "S": ["baa", "blather", "bluster", "cry", "fuss", "gripe", "whine"], "A": []}

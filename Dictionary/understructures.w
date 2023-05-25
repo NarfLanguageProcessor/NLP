@@ -1,1 +1,1 @@
-{"index": 339937, "D": "a structure  serving as a support; a base or foundation", "S": ["cellar ", "storage ", "vault "], "A": ["attic "]}
+{"index": 339937, "D": "a structure  serving as a support; a base or foundation", "S": ["cellar", "storage", "vault"], "A": ["attic"]}

@@ -1,1 +1,1 @@
-{"index": 176204, "D": "fits of madness.", "S": ["bow ", "curve ", "half-moon ", "meniscus ", "sickle "], "A": []}
+{"index": 176204, "D": "fits of madness.", "S": ["bow", "curve", "half-moon", "meniscus", "sickle"], "A": []}

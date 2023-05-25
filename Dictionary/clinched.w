@@ -1,1 +1,1 @@
-{"index": 60015, "D": "to settle (a matter) decisively", "S": ["guaranteed ", "settled ", "sure "], "A": ["indefinite ", "uncertain ", "unsure ", "undecided ", "vague "]}
+{"index": 60015, "D": "to settle (a matter) decisively", "S": ["guaranteed", "settled", "sure"], "A": ["indefinite", "uncertain", "unsure", "undecided", "vague"]}

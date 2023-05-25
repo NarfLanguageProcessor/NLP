@@ -1,1 +1,1 @@
-{"index": 42481, "D": "of relatively large and cumbersome bulk  or size.", "S": ["bulk ", "fat ", "fatness ", "heft ", "heftiness ", "ponderosity ", "ponderousness ", "weight ", "weightiness "], "A": []}
+{"index": 42481, "D": "of relatively large and cumbersome bulk  or size.", "S": ["bulk", "fat", "fatness", "heft", "heftiness", "ponderosity", "ponderousness", "weight", "weightiness"], "A": []}

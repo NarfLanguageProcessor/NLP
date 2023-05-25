@@ -1,1 +1,1 @@
-{"index": 153537, "D": "deficient in human sensibility, acuteness of feeling, or consideration; unfeeling; callous", "S": ["indifference ", "lethargy "], "A": ["interest "]}
+{"index": 153537, "D": "deficient in human sensibility, acuteness of feeling, or consideration; unfeeling; callous", "S": ["indifference", "lethargy"], "A": ["interest"]}

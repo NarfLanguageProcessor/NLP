@@ -1,1 +1,1 @@
-{"index": 108278, "D": "to get rid of by destroying; destroy totally; extirpate", "S": ["annihilate ", "decimate ", "eradicate ", "extinguish ", "obliterate ", "slaughter ", "stamp out ", "wipe out "], "A": ["bear ", "build ", "create ", "help ", "ratify "]}
+{"index": 108278, "D": "to get rid of by destroying; destroy totally; extirpate", "S": ["annihilate", "decimate", "eradicate", "extinguish", "obliterate", "slaughter", "stamp out", "wipe out"], "A": ["bear", "build", "create", "help", "ratify"]}

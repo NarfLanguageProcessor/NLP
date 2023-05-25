@@ -1,1 +1,1 @@
-{"index": 148119, "D": "protected from a disease or the like, as by inoculation.", "S": ["exempt ", "resistant ", "unaffected "], "A": ["hindered "]}
+{"index": 148119, "D": "protected from a disease or the like, as by inoculation.", "S": ["exempt", "resistant", "unaffected"], "A": ["hindered"]}

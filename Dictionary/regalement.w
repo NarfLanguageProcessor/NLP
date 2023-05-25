@@ -1,1 +1,1 @@
-{"index": 265506, "D": "to entertain lavishly or agreeably; delight. ", "S": ["delight ", "diversion ", "enjoyment ", "hilarity ", "laughter ", "pleasure "], "A": ["gloom ", "melancholy ", "misery ", "pain ", "sorrow ", "trouble ", "unhappiness ", "depression ", "drudgery ", "sadness ", "work "]}
+{"index": 265506, "D": "to entertain lavishly or agreeably; delight. ", "S": ["delight", "diversion", "enjoyment", "hilarity", "laughter", "pleasure"], "A": ["gloom", "melancholy", "misery", "pain", "sorrow", "trouble", "unhappiness", "depression", "drudgery", "sadness", "work"]}

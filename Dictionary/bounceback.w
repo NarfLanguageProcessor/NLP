@@ -1,1 +1,1 @@
-{"index": 38952, "D": "the act or an instance of bouncing back, recovering, or recuperating", "S": ["overcome ", "rebound ", "recover ", "recuperate "], "A": ["decline ", "deteriorate "]}
+{"index": 38952, "D": "the act or an instance of bouncing back, recovering, or recuperating", "S": ["overcome", "rebound", "recover", "recuperate"], "A": ["decline", "deteriorate"]}

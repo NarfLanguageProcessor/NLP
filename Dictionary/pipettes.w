@@ -1,1 +1,1 @@
-{"index": 237460, "D": "a slender graduated tube used in a laboratory for measuring and transferring quantities of liquids from one container to another.", "S": ["cylinder ", "duct ", "pipe ", "pipeline ", "tunnel "], "A": []}
+{"index": 237460, "D": "a slender graduated tube used in a laboratory for measuring and transferring quantities of liquids from one container to another.", "S": ["cylinder", "duct", "pipe", "pipeline", "tunnel"], "A": []}

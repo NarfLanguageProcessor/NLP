@@ -1,1 +1,1 @@
-{"index": 344594, "D": "not having sustained any injury; unhurt", "S": ["full ", "integrated ", "unified "], "A": ["flawed ", "imperfect ", "incomplete ", "part ", "partial ", "unfinished "]}
+{"index": 344594, "D": "not having sustained any injury; unhurt", "S": ["full", "integrated", "unified"], "A": ["flawed", "imperfect", "incomplete", "part", "partial", "unfinished"]}

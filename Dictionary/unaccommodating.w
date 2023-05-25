@@ -1,1 +1,1 @@
-{"index": 334439, "D": "easy to deal with; eager to help or please; obliging. ", "S": ["demanding ", "grim ", "intractable ", "tough ", "troublesome "], "A": ["easy ", "facile ", "nice "]}
+{"index": 334439, "D": "easy to deal with; eager to help or please; obliging. ", "S": ["demanding", "grim", "intractable", "tough", "troublesome"], "A": ["easy", "facile", "nice"]}

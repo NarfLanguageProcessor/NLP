@@ -1,0 +1,1 @@
+{"index": 4916, "D": "of, in, or produced by the air", "S": ["aerial", "bomb", "flare", "flare pass", "pass", "pass pattern", "screen", "screen pass"], "A": []}

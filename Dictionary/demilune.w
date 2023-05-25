@@ -1,1 +1,1 @@
-{"index": 80563, "D": "a crescent.", "S": ["bow ", "curve ", "half-moon ", "meniscus ", "sickle "], "A": []}
+{"index": 80563, "D": "a crescent.", "S": ["bow", "curve", "half-moon", "meniscus", "sickle"], "A": []}

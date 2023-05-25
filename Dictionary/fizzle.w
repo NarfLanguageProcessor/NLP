@@ -1,1 +1,1 @@
-{"index": 113641, "D": "to make a hissing or sputtering sound, especially one that dies out weakly.", "S": ["abort ", "misfire ", "peter out ", "wane "], "A": ["grow ", "increase ", "achieve ", "begin ", "succeed "]}
+{"index": 113641, "D": "to make a hissing or sputtering sound, especially one that dies out weakly.", "S": ["abort", "misfire", "peter out", "wane"], "A": ["grow", "increase", "achieve", "begin", "succeed"]}

@@ -1,1 +1,1 @@
-{"index": 98721, "D": "the rear part of an airplane or airship, usually comprising the stabilizer, elevator, vertical fin, and rudder.", "S": ["back end ", "rear ", "rudder "], "A": ["beginning ", "front ", "start "]}
+{"index": 98721, "D": "the rear part of an airplane or airship, usually comprising the stabilizer, elevator, vertical fin, and rudder.", "S": ["back end", "rear", "rudder"], "A": ["beginning", "front", "start"]}

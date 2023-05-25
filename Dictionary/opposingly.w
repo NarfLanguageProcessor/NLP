@@ -1,1 +1,1 @@
-{"index": 213682, "D": "fighting or acting against something or someone", "S": ["adversely ", "critically "], "A": ["agreeably ", "approvingly ", "favorably ", "positively "]}
+{"index": 213682, "D": "fighting or acting against something or someone", "S": ["adversely", "critically"], "A": ["agreeably", "approvingly", "favorably", "positively"]}

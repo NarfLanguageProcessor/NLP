@@ -1,1 +1,1 @@
-{"index": 305862, "D": "the act or an instance of stratifying.", "S": ["lamination ", "layer ", "stratum "], "A": []}
+{"index": 305862, "D": "the act or an instance of stratifying.", "S": ["lamination", "layer", "stratum"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 365879, "D": "simple past tense and past participle of wince1. ", "S": ["back off ", "blanch ", "cower ", "cringe ", "flinch ", "grimace ", "recoil "], "A": ["face ", "meet "]}
+{"index": 365879, "D": "simple past tense and past participle of wince1. ", "S": ["back off", "blanch", "cower", "cringe", "flinch", "grimace", "recoil"], "A": ["face", "meet"]}

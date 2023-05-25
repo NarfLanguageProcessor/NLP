@@ -1,1 +1,1 @@
-{"index": 346469, "D": "not mixed;  pure", "S": ["fixed ", "full-bodied ", "potent ", "rich ", "robust "], "A": ["weak ", "incomplete ", "unfinished "]}
+{"index": 346469, "D": "not mixed;  pure", "S": ["fixed", "full-bodied", "potent", "rich", "robust"], "A": ["weak", "incomplete", "unfinished"]}

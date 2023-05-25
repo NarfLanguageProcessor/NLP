@@ -1,1 +1,1 @@
-{"index": 368952, "D": "full of, characterized by, or due to zeal;  ardently active, devoted, or diligent.", "S": ["ardently ", "avidly ", "eagerly ", "enthusiastically ", "fervently ", "passionately ", "vigorously "], "A": []}
+{"index": 368952, "D": "full of, characterized by, or due to zeal;  ardently active, devoted, or diligent.", "S": ["ardently", "avidly", "eagerly", "enthusiastically", "fervently", "passionately", "vigorously"], "A": []}

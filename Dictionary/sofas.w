@@ -1,1 +1,0 @@
-{"index": 296328, "D": "a long, upholstered couch with a back and two arms or raised ends.", "S": ["love seat ", "settee "], "A": []}

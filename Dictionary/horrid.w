@@ -1,1 +1,1 @@
-{"index": 143961, "D": "such as to cause horror; shockingly dreadful; abominable.", "S": ["atrocious ", "disgusting ", "distasteful ", "dreadful ", "embarrassing ", "ghastly ", "grisly ", "hideous ", "horrible "], "A": ["attractive ", "delightful ", "pleasant ", "pleasing ", "wonderful "]}
+{"index": 143961, "D": "such as to cause horror; shockingly dreadful; abominable.", "S": ["atrocious", "disgusting", "distasteful", "dreadful", "embarrassing", "ghastly", "grisly", "hideous", "horrible"], "A": ["attractive", "delightful", "pleasant", "pleasing", "wonderful"]}

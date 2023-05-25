@@ -1,1 +1,1 @@
-{"index": 169762, "D": "a saying farewell; a parting or goodbye; departure", "S": ["farewell ", "goodbye "], "A": ["hello "]}
+{"index": 169762, "D": "a saying farewell; a parting or goodbye; departure", "S": ["farewell", "goodbye"], "A": ["hello"]}

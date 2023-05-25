@@ -1,1 +1,1 @@
-{"index": 21281, "D": "foolish, unintelligent, or silly; stupid", "S": ["absurd ", "cretinous ", "daft ", "foolish ", "half-witted ", "idiotic ", "inane ", "moronic ", "silly ", "sophomoric ", "stupid "], "A": []}
+{"index": 21281, "D": "foolish, unintelligent, or silly; stupid", "S": ["absurd", "cretinous", "daft", "foolish", "half-witted", "idiotic", "inane", "moronic", "silly", "sophomoric", "stupid"], "A": []}

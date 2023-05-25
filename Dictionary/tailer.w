@@ -1,1 +1,0 @@
-{"index": 315346, "D": "the hindmost part of an animal, especially that forming a distinct, flexible appendage to the back end of its body.", "S": ["backward "], "A": ["beginning ", "first ", "front ", "preceding "]}

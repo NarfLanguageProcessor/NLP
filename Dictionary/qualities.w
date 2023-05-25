@@ -1,1 +1,1 @@
-{"index": 257880, "D": "the plural of quality. ", "S": ["aspect ", "character ", "condition ", "element ", "kind ", "nature ", "trait "], "A": []}
+{"index": 257880, "D": "the plural of quality. ", "S": ["aspect", "character", "condition", "element", "kind", "nature", "trait"], "A": []}

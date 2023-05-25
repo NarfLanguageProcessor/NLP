@@ -1,1 +1,0 @@
-{"index": 199332, "D": "a decrease in the number of neutrophils in the blood", "S": [], "A": []}

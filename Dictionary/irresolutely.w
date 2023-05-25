@@ -1,1 +1,1 @@
-{"index": 158378, "D": "not resolute;  doubtful; infirm of purpose; vacillating.", "S": ["dubiously "], "A": []}
+{"index": 158378, "D": "not resolute;  doubtful; infirm of purpose; vacillating.", "S": ["dubiously"], "A": []}

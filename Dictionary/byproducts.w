@@ -1,1 +1,1 @@
-{"index": 34701, "D": [], "S": ["outgrowth "], "A": ["cause ", "origin ", "source "]}
+{"index": 34701, "D": [], "S": ["outgrowth"], "A": ["cause", "origin", "source"]}

@@ -1,1 +1,1 @@
-{"index": 340630, "D": [], "S": ["blear ", "bleary ", "blurred ", "cloudy ", "dim ", "distorted ", "faint ", "foggy ", "fuzzy ", "hazy ", "ill-defined ", "indefinite ", "indistinct ", "misty ", "muffled ", "murky ", "obscure ", "shadowy ", "unfocused ", "vague "], "A": []}
+{"index": 340630, "D": [], "S": ["blear", "bleary", "blurred", "cloudy", "dim", "distorted", "faint", "foggy", "fuzzy", "hazy", "ill-defined", "indefinite", "indistinct", "misty", "muffled", "murky", "obscure", "shadowy", "unfocused", "vague"], "A": []}

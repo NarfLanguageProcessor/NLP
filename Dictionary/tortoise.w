@@ -1,1 +1,0 @@
-{"index": 326330, "D": "a turtle, especially a terrestrial turtle.", "S": ["chelonian ", "cooter ", "leatherback ", "loggerhead ", "slowpoke ", "snapper ", "terrapin "], "A": []}

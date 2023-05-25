@@ -1,1 +1,1 @@
-{"index": 273537, "D": "to bake (meat or other food) uncovered, especially in an oven.", "S": ["lambaste ", "lampoon ", "razz ", "ridicule "], "A": ["praise "]}
+{"index": 273537, "D": "to bake (meat or other food) uncovered, especially in an oven.", "S": ["lambaste", "lampoon", "razz", "ridicule"], "A": ["praise"]}

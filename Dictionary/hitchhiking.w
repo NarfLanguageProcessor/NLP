@@ -1,1 +1,1 @@
-{"index": 141962, "D": "to travel by standing on the side of the road and soliciting rides from passing vehicles.", "S": ["hitch "], "A": []}
+{"index": 141962, "D": "to travel by standing on the side of the road and soliciting rides from passing vehicles.", "S": ["hitch"], "A": []}

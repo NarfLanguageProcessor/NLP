@@ -1,1 +1,1 @@
-{"index": 304464, "D": "a short dagger with a blade that is thick in proportion to its width.", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}
+{"index": 304464, "D": "a short dagger with a blade that is thick in proportion to its width.", "S": ["bayonet", "blade", "cutter", "dagger", "machete", "scalpel", "sickle", "skewer", "sword"], "A": []}

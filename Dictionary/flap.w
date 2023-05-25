@@ -1,1 +1,1 @@
-{"index": 113968, "D": "to swing or sway back and forth loosely, especially with noise", "S": ["accessory ", "adjunct ", "appendage ", "apron ", "cover ", "drop ", "fold ", "lapel ", "lobe ", "pendant ", "queue ", "skirt ", "strip ", "tab ", "tag ", "tail ", "tippet "], "A": []}
+{"index": 113968, "D": "to swing or sway back and forth loosely, especially with noise", "S": ["accessory", "adjunct", "appendage", "apron", "cover", "drop", "fold", "lapel", "lobe", "pendant", "queue", "skirt", "strip", "tab", "tag", "tail", "tippet"], "A": []}

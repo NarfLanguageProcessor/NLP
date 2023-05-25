@@ -1,1 +1,1 @@
-{"index": 314156, "D": "characteristic of or behaving in the manner of a swashbuckler. ", "S": ["dapper ", "debonair ", "fearless ", "plucky ", "stylish "], "A": ["apathetic ", "dull ", "lethargic ", "stupid ", "unfashionable ", "unstylish "]}
+{"index": 314156, "D": "characteristic of or behaving in the manner of a swashbuckler. ", "S": ["dapper", "debonair", "fearless", "plucky", "stylish"], "A": ["apathetic", "dull", "lethargic", "stupid", "unfashionable", "unstylish"]}

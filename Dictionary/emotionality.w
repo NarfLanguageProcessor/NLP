@@ -1,1 +1,1 @@
-{"index": 98654, "D": "emotional  state or quality", "S": ["affectability ", "flexibility ", "impressionability ", "perceptivity ", "plasticity ", "pliancy ", "sensibility ", "sensitiveness ", "sensitivity ", "sentimentality ", "susceptibleness ", "tenderness "], "A": []}
+{"index": 98654, "D": "emotional  state or quality", "S": ["affectability", "flexibility", "impressionability", "perceptivity", "plasticity", "pliancy", "sensibility", "sensitiveness", "sensitivity", "sentimentality", "susceptibleness", "tenderness"], "A": []}

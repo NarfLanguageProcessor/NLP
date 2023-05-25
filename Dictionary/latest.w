@@ -1,1 +1,1 @@
-{"index": 168896, "D": "most recent; current", "S": ["current ", "last "], "A": []}
+{"index": 168896, "D": "most recent; current", "S": ["current", "last"], "A": []}

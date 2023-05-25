@@ -1,1 +1,1 @@
-{"index": 212659, "D": "provided, occurring, etc., on a vehicle", "S": ["boarded ", "consigned ", "embarked ", "en route ", "in transit ", "loaded ", "on ", "traveling "], "A": ["not on ", "off "]}
+{"index": 212659, "D": "provided, occurring, etc., on a vehicle", "S": ["boarded", "consigned", "embarked", "en route", "in transit", "loaded", "on", "traveling"], "A": ["not on", "off"]}

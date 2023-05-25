@@ -1,1 +1,1 @@
-{"index": 96172, "D": "a small rotary beater  for beating eggs,  whipping cream, etc.", "S": ["chopper "], "A": []}
+{"index": 96172, "D": "a small rotary beater  for beating eggs,  whipping cream, etc.", "S": ["chopper"], "A": []}

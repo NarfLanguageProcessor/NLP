@@ -1,1 +1,1 @@
-{"index": 138267, "D": "to cause to produce hybrids;  cross.", "S": ["blended ", "different ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar ", "uniform ", "separate ", "single "]}
+{"index": 138267, "D": "to cause to produce hybrids;  cross.", "S": ["blended", "different", "diverse", "varied"], "A": ["alike", "like", "same", "similar", "uniform", "separate", "single"]}

@@ -1,1 +1,1 @@
-{"index": 84331, "D": "completely; utterly (esp in the phrase diametrically opposed)", "S": ["antipodal ", "opposite "], "A": []}
+{"index": 84331, "D": "completely; utterly (esp in the phrase diametrically opposed)", "S": ["antipodal", "opposite"], "A": []}

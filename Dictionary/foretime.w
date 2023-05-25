@@ -1,1 +1,1 @@
-{"index": 117100, "D": "former or past time;  the past.", "S": ["bygone ", "past "], "A": ["tomorrow "]}
+{"index": 117100, "D": "former or past time;  the past.", "S": ["bygone", "past"], "A": ["tomorrow"]}

@@ -1,1 +1,1 @@
-{"index": 146405, "D": "the body of doctrine, myth, belief, etc., that guides an individual, social movement, institution, class, or large group.", "S": ["creed ", "culture ", "dogma ", "outlook ", "philosophy ", "theory ", "view "], "A": []}
+{"index": 146405, "D": "the body of doctrine, myth, belief, etc., that guides an individual, social movement, institution, class, or large group.", "S": ["creed", "culture", "dogma", "outlook", "philosophy", "theory", "view"], "A": []}

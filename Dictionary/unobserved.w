@@ -1,1 +1,1 @@
-{"index": 347039, "D": "not seen or perceived", "S": ["discarded ", "disobeyed ", "ignored ", "neglected ", "overlooked ", "rejected ", "slighted ", "unconsidered ", "unnoted ", "unnoticed "], "A": ["considered ", "contemplated ", "heeded ", "noticed ", "regarded ", "thought-out "]}
+{"index": 347039, "D": "not seen or perceived", "S": ["discarded", "disobeyed", "ignored", "neglected", "overlooked", "rejected", "slighted", "unconsidered", "unnoted", "unnoticed"], "A": ["considered", "contemplated", "heeded", "noticed", "regarded", "thought-out"]}

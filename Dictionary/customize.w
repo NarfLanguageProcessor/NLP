@@ -1,1 +1,1 @@
-{"index": 75720, "D": "to modify or build according to individual or personal specifications or preference", "S": ["custom-make ", "tailor-make "], "A": []}
+{"index": 75720, "D": "to modify or build according to individual or personal specifications or preference", "S": ["custom-make", "tailor-make"], "A": []}

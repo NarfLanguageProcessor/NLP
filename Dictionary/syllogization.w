@@ -1,1 +1,1 @@
-{"index": 290532, "D": "to argue or reason by syllogism. ", "S": ["acumen ", "analysis ", "argument ", "hypothesis ", "inference ", "interpretation ", "premise ", "proposition ", "rationale ", "thinking "], "A": ["reality ", "truth "]}
+{"index": 290532, "D": "to argue or reason by syllogism. ", "S": ["acumen", "analysis", "argument", "hypothesis", "inference", "interpretation", "premise", "proposition", "rationale", "thinking"], "A": ["reality", "truth"]}

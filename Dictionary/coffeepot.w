@@ -1,1 +1,1 @@
-{"index": 62152, "D": "a container, usually with a handle and a spout or lip, in which coffee  is made or served, or both.", "S": ["drip coffeemaker "], "A": []}
+{"index": 62152, "D": "a container, usually with a handle and a spout or lip, in which coffee  is made or served, or both.", "S": ["drip coffeemaker"], "A": []}

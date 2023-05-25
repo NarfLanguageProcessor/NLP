@@ -1,1 +1,0 @@
-{"index": 286345, "D": "any of numerous percoid fishes of the family Serranidae, living chiefly in warm seas, including the sea basses and groupers.", "S": [], "A": []}

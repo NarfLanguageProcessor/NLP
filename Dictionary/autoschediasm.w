@@ -1,1 +1,1 @@
-{"index": 24364, "D": "something that is improvised or extemporized.", "S": ["spontaneity "], "A": []}
+{"index": 24364, "D": "something that is improvised or extemporized.", "S": ["spontaneity"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 82637, "D": "worth having or wanting; pleasing, excellent, or fine", "S": ["beautiful ", "enticing ", "fascinating "], "A": ["repulsive "]}
+{"index": 82637, "D": "worth having or wanting; pleasing, excellent, or fine", "S": ["beautiful", "enticing", "fascinating"], "A": ["repulsive"]}

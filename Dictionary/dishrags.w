@@ -1,1 +1,1 @@
-{"index": 88323, "D": "a dishcloth.", "S": ["dustcloth ", "patch ", "remnant ", "scrap ", "shred ", "tatter ", "wiper "], "A": []}
+{"index": 88323, "D": "a dishcloth.", "S": ["dustcloth", "patch", "remnant", "scrap", "shred", "tatter", "wiper"], "A": []}

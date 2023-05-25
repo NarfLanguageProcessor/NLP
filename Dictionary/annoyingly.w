@@ -1,1 +1,1 @@
-{"index": 13576, "D": "causing annoyance;  irritatingly bothersome", "S": ["offensively "], "A": []}
+{"index": 13576, "D": "causing annoyance;  irritatingly bothersome", "S": ["offensively"], "A": []}

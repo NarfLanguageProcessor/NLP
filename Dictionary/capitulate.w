@@ -1,1 +1,1 @@
-{"index": 46952, "D": "to surrender unconditionally or on stipulated terms", "S": ["bow ", "cave in ", "cede ", "concede ", "defer ", "relent ", "succumb ", "surrender "], "A": ["conquer ", "defend ", "fight ", "win "]}
+{"index": 46952, "D": "to surrender unconditionally or on stipulated terms", "S": ["bow", "cave in", "cede", "concede", "defer", "relent", "succumb", "surrender"], "A": ["conquer", "defend", "fight", "win"]}

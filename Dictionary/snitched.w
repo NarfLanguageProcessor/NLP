@@ -1,1 +1,1 @@
-{"index": 295600, "D": "to snatch or steal; pilfer.", "S": ["burglarize ", "defraud ", "embezzle ", "heist ", "keep ", "lift ", "loot ", "pickpocket ", "pilfer ", "pillage ", "pinch ", "plunder ", "poach ", "remove ", "shoplift ", "swipe ", "take "], "A": ["give ", "offer ", "receive ", "release "]}
+{"index": 295600, "D": "to snatch or steal; pilfer.", "S": ["burglarize", "defraud", "embezzle", "heist", "keep", "lift", "loot", "pickpocket", "pilfer", "pillage", "pinch", "plunder", "poach", "remove", "shoplift", "swipe", "take"], "A": ["give", "offer", "receive", "release"]}

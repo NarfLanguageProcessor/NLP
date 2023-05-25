@@ -1,1 +1,1 @@
-{"index": 278186, "D": "any gem variety of corundum other than the ruby, especially one of the blue varieties.", "S": ["blue-green "], "A": []}
+{"index": 278186, "D": "any gem variety of corundum other than the ruby, especially one of the blue varieties.", "S": ["blue-green"], "A": []}

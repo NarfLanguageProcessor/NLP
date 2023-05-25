@@ -1,1 +1,1 @@
-{"index": 222075, "D": "a person who owns;  possessor; proprietor.", "S": ["holder ", "landowner ", "partner ", "proprietor "], "A": ["renter "]}
+{"index": 222075, "D": "a person who owns;  possessor; proprietor.", "S": ["holder", "landowner", "partner", "proprietor"], "A": ["renter"]}

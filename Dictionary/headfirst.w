@@ -1,1 +1,1 @@
-{"index": 134604, "D": "with the head  in front or bent forward; headforemost", "S": ["carelessly "], "A": []}
+{"index": 134604, "D": "with the head  in front or bent forward; headforemost", "S": ["carelessly"], "A": []}

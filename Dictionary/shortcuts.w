@@ -1,1 +1,1 @@
-{"index": 288912, "D": "a shorter  or quicker way.", "S": ["alternative "], "A": []}
+{"index": 288912, "D": "a shorter  or quicker way.", "S": ["alternative"], "A": []}

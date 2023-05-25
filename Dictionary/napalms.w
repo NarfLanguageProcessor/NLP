@@ -1,1 +1,1 @@
-{"index": 196816, "D": "a highly incendiary jellylike substance used in fire bombs, flamethrowers, etc.", "S": ["ammo ", "armament ", "bomb ", "bullet ", "cartridge ", "chemical ", "explosive ", "gunpowder ", "materiel ", "missile ", "munition ", "rocket ", "shrapnel ", "torpedo "], "A": []}
+{"index": 196816, "D": "a highly incendiary jellylike substance used in fire bombs, flamethrowers, etc.", "S": ["ammo", "armament", "bomb", "bullet", "cartridge", "chemical", "explosive", "gunpowder", "materiel", "missile", "munition", "rocket", "shrapnel", "torpedo"], "A": []}

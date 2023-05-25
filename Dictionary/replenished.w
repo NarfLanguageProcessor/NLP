@@ -1,1 +1,1 @@
-{"index": 268275, "D": "to make full or complete again, as by supplying what is lacking, used up, etc.", "S": ["interchanged ", "renewed "], "A": []}
+{"index": 268275, "D": "to make full or complete again, as by supplying what is lacking, used up, etc.", "S": ["interchanged", "renewed"], "A": []}

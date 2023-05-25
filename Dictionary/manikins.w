@@ -1,1 +1,1 @@
-{"index": 179305, "D": "a little man; dwarf; pygmy.", "S": ["doll ", "dummy ", "figure ", "mannequin ", "marionette "], "A": []}
+{"index": 179305, "D": "a little man; dwarf; pygmy.", "S": ["doll", "dummy", "figure", "mannequin", "marionette"], "A": []}

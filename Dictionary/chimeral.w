@@ -1,1 +1,1 @@
-{"index": 54483, "D": [], "S": ["chimerical "], "A": []}
+{"index": 54483, "D": [], "S": ["chimerical"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110714, "D": "a prominent or conspicuous part or characteristic", "S": ["appearance ", "countenance ", "face ", "lineaments ", "looks ", "mien ", "mug ", "physiognomy ", "puss ", "visage "], "A": []}
+{"index": 110714, "D": "a prominent or conspicuous part or characteristic", "S": ["appearance", "countenance", "face", "lineaments", "looks", "mien", "mug", "physiognomy", "puss", "visage"], "A": []}

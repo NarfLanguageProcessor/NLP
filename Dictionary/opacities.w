@@ -1,1 +1,1 @@
-{"index": 213169, "D": "the state or quality of being opaque. ", "S": ["darkness ", "murkiness ", "obscurity "], "A": []}
+{"index": 213169, "D": "the state or quality of being opaque. ", "S": ["darkness", "murkiness", "obscurity"], "A": []}

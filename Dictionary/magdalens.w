@@ -1,1 +1,1 @@
-{"index": 177371, "D": "Mary Magdalene. ", "S": ["lost lamb ", "penitent ", "prodigal ", "prodigal returned ", "returnee "], "A": []}
+{"index": 177371, "D": "Mary Magdalene. ", "S": ["lost lamb", "penitent", "prodigal", "prodigal returned", "returnee"], "A": []}

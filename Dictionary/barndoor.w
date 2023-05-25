@@ -1,1 +1,1 @@
-{"index": 28134, "D": [], "S": ["enormous ", "gargantuan ", "gigantic ", "huge ", "immense ", "jumbo ", "mammoth ", "monstrous ", "vast "], "A": ["little ", "miniature ", "miniscule ", "minute ", "small ", "teeny ", "tiny "]}
+{"index": 28134, "D": [], "S": ["enormous", "gargantuan", "gigantic", "huge", "immense", "jumbo", "mammoth", "monstrous", "vast"], "A": ["little", "miniature", "miniscule", "minute", "small", "teeny", "tiny"]}

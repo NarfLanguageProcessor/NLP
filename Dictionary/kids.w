@@ -1,1 +1,1 @@
-{"index": 164496, "D": "the plural of kid1. ", "S": ["blood relative ", "children ", "clay ", "consanguinean ", "family ", "kin ", "kith and kin ", "offspring ", "organism ", "relatives ", "uterine kin "], "A": []}
+{"index": 164496, "D": "the plural of kid1. ", "S": ["blood relative", "children", "clay", "consanguinean", "family", "kin", "kith and kin", "offspring", "organism", "relatives", "uterine kin"], "A": []}

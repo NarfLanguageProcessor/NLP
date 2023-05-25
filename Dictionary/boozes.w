@@ -1,1 +1,1 @@
-{"index": 38292, "D": "any alcoholic beverage; whiskey.", "S": ["alcohol "], "A": []}
+{"index": 38292, "D": "any alcoholic beverage; whiskey.", "S": ["alcohol"], "A": []}

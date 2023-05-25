@@ -1,1 +1,1 @@
-{"index": 101848, "D": "to picture mentally, especially some future event or events", "S": ["creative ", "imaginative ", "innovative ", "inventive ", "seminal ", "unconventional ", "unusual "], "A": ["borrowed ", "hackneyed ", "latest ", "old ", "used ", "worn "]}
+{"index": 101848, "D": "to picture mentally, especially some future event or events", "S": ["creative", "imaginative", "innovative", "inventive", "seminal", "unconventional", "unusual"], "A": ["borrowed", "hackneyed", "latest", "old", "used", "worn"]}

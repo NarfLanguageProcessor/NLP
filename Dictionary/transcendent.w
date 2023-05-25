@@ -1,1 +1,1 @@
-{"index": 327710, "D": "going beyond ordinary limits; surpassing; exceeding.", "S": ["abstract ", "fantastic ", "otherworldly ", "sublime ", "supernatural ", "ultimate "], "A": ["poor ", "real ", "secondary "]}
+{"index": 327710, "D": "going beyond ordinary limits; surpassing; exceeding.", "S": ["abstract", "fantastic", "otherworldly", "sublime", "supernatural", "ultimate"], "A": ["poor", "real", "secondary"]}

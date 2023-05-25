@@ -1,1 +1,1 @@
-{"index": 85209, "D": "of or relating to diet", "S": ["dietary ", "fast ", "regime ", "regimen ", "restriction ", "starvation "], "A": ["indulgence "]}
+{"index": 85209, "D": "of or relating to diet", "S": ["dietary", "fast", "regime", "regimen", "restriction", "starvation"], "A": ["indulgence"]}

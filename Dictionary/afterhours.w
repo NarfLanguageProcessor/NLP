@@ -1,1 +1,1 @@
-{"index": 5698, "D": "occurring, engaged in, or operating after the normal or legal closing time for business", "S": ["midnight "], "A": ["day ", "daybreak ", "daylight ", "daytime ", "light ", "morning "]}
+{"index": 5698, "D": "occurring, engaged in, or operating after the normal or legal closing time for business", "S": ["midnight"], "A": ["day", "daybreak", "daylight", "daytime", "light", "morning"]}

@@ -1,1 +1,1 @@
-{"index": 161516, "D": "riding breeches cut very full over the hips and tapering at the knees to become tightfitting from the knees to the ankles.", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}
+{"index": 161516, "D": "riding breeches cut very full over the hips and tapering at the knees to become tightfitting from the knees to the ankles.", "S": ["knickers", "shorts", "slacks", "trousers", "underpants"], "A": []}

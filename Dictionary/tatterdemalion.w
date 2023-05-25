@@ -1,1 +1,1 @@
-{"index": 316994, "D": "a person in tattered clothing; a shabby person.", "S": ["shoddy "], "A": []}
+{"index": 316994, "D": "a person in tattered clothing; a shabby person.", "S": ["shoddy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 231957, "D": "a person  of distinction or importance.", "S": ["celebrity ", "dignitary "], "A": ["nobody ", "nonentity "]}
+{"index": 231957, "D": "a person  of distinction or importance.", "S": ["celebrity", "dignitary"], "A": ["nobody", "nonentity"]}

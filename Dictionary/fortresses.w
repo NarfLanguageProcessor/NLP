@@ -1,1 +1,1 @@
-{"index": 117709, "D": "a large fortified place; a fort or group of forts, often including a town; citadel.", "S": ["acropolis ", "blockhouse ", "camp ", "castle ", "citadel ", "fastness ", "fortification ", "garrison ", "redoubt ", "station "], "A": []}
+{"index": 117709, "D": "a large fortified place; a fort or group of forts, often including a town; citadel.", "S": ["acropolis", "blockhouse", "camp", "castle", "citadel", "fastness", "fortification", "garrison", "redoubt", "station"], "A": []}

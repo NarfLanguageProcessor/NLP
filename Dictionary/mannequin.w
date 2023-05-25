@@ -1,1 +1,1 @@
-{"index": 179400, "D": "a styled and three-dimensional representation of the human form used in window displays, as of clothing; dummy.", "S": ["dummy "], "A": []}
+{"index": 179400, "D": "a styled and three-dimensional representation of the human form used in window displays, as of clothing; dummy.", "S": ["dummy"], "A": []}

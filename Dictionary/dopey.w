@@ -1,1 +1,1 @@
-{"index": 91610, "D": "stupid; inane", "S": ["dumb ", "idiotic ", "silly "], "A": ["intelligent ", "smart "]}
+{"index": 91610, "D": "stupid; inane", "S": ["dumb", "idiotic", "silly"], "A": ["intelligent", "smart"]}

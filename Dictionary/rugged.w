@@ -1,1 +1,1 @@
-{"index": 275407, "D": "having a roughly broken, rocky, hilly, or jagged surface", "S": ["craggy ", "hilly ", "jagged ", "mountainous ", "rocky ", "rough "], "A": ["even ", "flat ", "smooth "]}
+{"index": 275407, "D": "having a roughly broken, rocky, hilly, or jagged surface", "S": ["craggy", "hilly", "jagged", "mountainous", "rocky", "rough"], "A": ["even", "flat", "smooth"]}

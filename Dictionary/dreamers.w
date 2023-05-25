@@ -1,1 +1,1 @@
-{"index": 92858, "D": "a person who dreams", "S": ["idealist "], "A": []}
+{"index": 92858, "D": "a person who dreams", "S": ["idealist"], "A": []}

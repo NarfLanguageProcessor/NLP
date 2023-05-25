@@ -1,1 +1,1 @@
-{"index": 279622, "D": "a person or group made to bear the blame for others or to suffer in their place.", "S": ["fall guy "], "A": []}
+{"index": 279622, "D": "a person or group made to bear the blame for others or to suffer in their place.", "S": ["fall guy"], "A": []}

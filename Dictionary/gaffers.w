@@ -1,1 +1,1 @@
-{"index": 120936, "D": "the chief electrician on the set of a movie or television show.", "S": ["elder ", "founder ", "grandfather ", "ruler "], "A": ["servant "]}
+{"index": 120936, "D": "the chief electrician on the set of a movie or television show.", "S": ["elder", "founder", "grandfather", "ruler"], "A": ["servant"]}

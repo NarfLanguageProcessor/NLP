@@ -1,1 +1,1 @@
-{"index": 206246, "D": "the action or practice of curbing or controlling an excessive, rapid spread", "S": ["gun control "], "A": []}
+{"index": 206246, "D": "the action or practice of curbing or controlling an excessive, rapid spread", "S": ["gun control"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 285802, "D": "of, relating to, or serving as a tomb.", "S": ["black ", "bleak ", "cheerless ", "dark ", "deathly ", "dismal ", "dreary ", "forlorn ", "funereal ", "grave ", "hollow ", "morbid ", "mournful ", "obscure ", "somber "], "A": []}
+{"index": 285802, "D": "of, relating to, or serving as a tomb.", "S": ["black", "bleak", "cheerless", "dark", "deathly", "dismal", "dreary", "forlorn", "funereal", "grave", "hollow", "morbid", "mournful", "obscure", "somber"], "A": []}

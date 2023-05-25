@@ -1,0 +1,1 @@
+{"index": 38030, "D": "a form of instrumental blues, especially for piano, using melodic variations over a constantly repeated bass figure.", "S": ["Dixieland", "bebop", "blues", "boogie", "boogie-woogie", "bop", "jive", "ragtime", "swing"], "A": []}

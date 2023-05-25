@@ -1,1 +1,1 @@
-{"index": 164764, "D": "having or showing sympathy or kindness", "S": ["considerate ", "gracious ", "warmhearted "], "A": ["mean "]}
+{"index": 164764, "D": "having or showing sympathy or kindness", "S": ["considerate", "gracious", "warmhearted"], "A": ["mean"]}

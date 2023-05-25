@@ -1,1 +1,1 @@
-{"index": 4212, "D": "to mingle with or add to something else.", "S": ["unclean "], "A": ["chaste ", "clean ", "impeccable ", "pure ", "sterile "]}
+{"index": 4212, "D": "to mingle with or add to something else.", "S": ["unclean"], "A": ["chaste", "clean", "impeccable", "pure", "sterile"]}

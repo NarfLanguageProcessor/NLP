@@ -1,1 +1,1 @@
-{"index": 129942, "D": "a rotating solid stone wheel used for sharpening, shaping, etc.", "S": ["activity ", "affair "], "A": ["avocation ", "entertainment ", "fun ", "pastime ", "recreation ", "unemployment "]}
+{"index": 129942, "D": "a rotating solid stone wheel used for sharpening, shaping, etc.", "S": ["activity", "affair"], "A": ["avocation", "entertainment", "fun", "pastime", "recreation", "unemployment"]}

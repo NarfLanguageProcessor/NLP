@@ -1,1 +1,1 @@
-{"index": 261739, "D": "a person who tends to view or represent things as they really are.", "S": ["naturalist ", "rationalist "], "A": []}
+{"index": 261739, "D": "a person who tends to view or represent things as they really are.", "S": ["naturalist", "rationalist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 145373, "D": "a brazen or immoral woman.", "S": ["broad ", "floozy ", "jade ", "jezebel ", "minx ", "slut ", "strumpet ", "tart ", "tramp ", "trollop ", "vamp ", "wench ", "whore "], "A": []}
+{"index": 145373, "D": "a brazen or immoral woman.", "S": ["broad", "floozy", "jade", "jezebel", "minx", "slut", "strumpet", "tart", "tramp", "trollop", "vamp", "wench", "whore"], "A": []}

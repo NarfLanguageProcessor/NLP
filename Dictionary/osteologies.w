@@ -1,1 +1,1 @@
-{"index": 215635, "D": "the branch of anatomy dealing with the skeleton.", "S": ["frame ", "scaffolding "], "A": ["carcass "]}
+{"index": 215635, "D": "the branch of anatomy dealing with the skeleton.", "S": ["frame", "scaffolding"], "A": ["carcass"]}

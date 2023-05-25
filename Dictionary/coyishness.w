@@ -1,1 +1,1 @@
-{"index": 62457, "D": "artfully or affectedly shy or reserved; slyly hesitant; coquettish. ", "S": ["frolicsomeness ", "liveliness ", "peppiness ", "spiritedness ", "sportiveness ", "waggishness "], "A": []}
+{"index": 62457, "D": "artfully or affectedly shy or reserved; slyly hesitant; coquettish. ", "S": ["frolicsomeness", "liveliness", "peppiness", "spiritedness", "sportiveness", "waggishness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 298428, "D": "economical (often followed by in or of).", "S": ["close ", "mean ", "saving "], "A": ["generous "]}
+{"index": 298428, "D": "economical (often followed by in or of).", "S": ["close", "mean", "saving"], "A": ["generous"]}

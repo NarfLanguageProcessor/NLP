@@ -1,1 +1,1 @@
-{"index": 131807, "D": "to accustom (a person, the mind, etc.), as to a particular situation", "S": ["accustom "], "A": ["ignore ", "neglect "]}
+{"index": 131807, "D": "to accustom (a person, the mind, etc.), as to a particular situation", "S": ["accustom"], "A": ["ignore", "neglect"]}

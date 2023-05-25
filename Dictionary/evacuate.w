@@ -1,1 +1,1 @@
-{"index": 105927, "D": "to leave empty; vacate. ", "S": ["abandon ", "depart ", "desert ", "discharge ", "displace ", "expel ", "leave ", "move out ", "pull out ", "remove ", "vacate ", "withdraw "], "A": ["allow ", "come ", "continue ", "hold ", "keep ", "permit ", "remain ", "stay ", "support "]}
+{"index": 105927, "D": "to leave empty; vacate. ", "S": ["abandon", "depart", "desert", "discharge", "displace", "expel", "leave", "move out", "pull out", "remove", "vacate", "withdraw"], "A": ["allow", "come", "continue", "hold", "keep", "permit", "remain", "stay", "support"]}

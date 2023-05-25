@@ -1,1 +1,0 @@
-{"index": 311847, "D": "being at, on, or near the surface", "S": ["cursory ", "frivolous ", "one-dimensional ", "perfunctory ", "silly ", "sketchy ", "slight ", "trivial "], "A": ["complete ", "important ", "mature ", "sensible ", "serious ", "significant ", "thoughtful ", "wise "]}

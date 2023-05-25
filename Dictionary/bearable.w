@@ -1,1 +1,1 @@
-{"index": 29509, "D": "capable of being endured or tolerated; endurable.", "S": ["livable ", "manageable ", "passable ", "satisfactory ", "tolerable "], "A": ["inadequate ", "unacceptable ", "unbearable ", "unsuitable "]}
+{"index": 29509, "D": "capable of being endured or tolerated; endurable.", "S": ["livable", "manageable", "passable", "satisfactory", "tolerable"], "A": ["inadequate", "unacceptable", "unbearable", "unsuitable"]}

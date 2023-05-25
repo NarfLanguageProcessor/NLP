@@ -1,1 +1,1 @@
-{"index": 181767, "D": "in a poor, lowly, or humble manner.", "S": ["miserly ", "poorly ", "selfishly "], "A": []}
+{"index": 181767, "D": "in a poor, lowly, or humble manner.", "S": ["miserly", "poorly", "selfishly"], "A": []}

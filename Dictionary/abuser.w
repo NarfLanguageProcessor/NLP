@@ -1,1 +1,1 @@
-{"index": 1177, "D": "to use wrongly or improperly; misuse", "S": ["offender ", "victimizer ", "wrongdoer "], "A": []}
+{"index": 1177, "D": "to use wrongly or improperly; misuse", "S": ["offender", "victimizer", "wrongdoer"], "A": []}

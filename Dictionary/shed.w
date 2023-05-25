@@ -1,1 +1,1 @@
-{"index": 287749, "D": "a simple or rude structure built for shelter, storage, etc.", "S": ["discard ", "drop ", "jettison ", "scrap ", "slip ", "take off ", "yield "], "A": ["keep ", "catch ", "collect ", "conceal ", "gather ", "hide ", "receive ", "refrain ", "take ", "withhold "]}
+{"index": 287749, "D": "a simple or rude structure built for shelter, storage, etc.", "S": ["discard", "drop", "jettison", "scrap", "slip", "take off", "yield"], "A": ["keep", "catch", "collect", "conceal", "gather", "hide", "receive", "refrain", "take", "withhold"]}

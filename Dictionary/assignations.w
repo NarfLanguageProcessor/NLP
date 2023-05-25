@@ -1,1 +1,1 @@
-{"index": 21775, "D": "an appointment for a meeting, especially a lover's secret rendezvous.", "S": ["rendezvous ", "tryst "], "A": []}
+{"index": 21775, "D": "an appointment for a meeting, especially a lover's secret rendezvous.", "S": ["rendezvous", "tryst"], "A": []}

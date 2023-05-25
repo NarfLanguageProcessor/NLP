@@ -1,1 +1,1 @@
-{"index": 36298, "D": "without much thought, concern, or care", "S": ["brightly ", "gaily ", "genially ", "gladly ", "gleefully ", "happily ", "joyfully ", "merrily ", "optimistically ", "playfully ", "pleasantly ", "readily ", "willingly "], "A": ["sadly ", "unhappily "]}
+{"index": 36298, "D": "without much thought, concern, or care", "S": ["brightly", "gaily", "genially", "gladly", "gleefully", "happily", "joyfully", "merrily", "optimistically", "playfully", "pleasantly", "readily", "willingly"], "A": ["sadly", "unhappily"]}

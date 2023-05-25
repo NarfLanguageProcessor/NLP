@@ -1,1 +1,1 @@
-{"index": 191616, "D": "(of birds, insects, reptiles, etc.) to cast or shed the feathers, skin, or the like, that will be replaced by a new growth.", "S": ["decorticate ", "doff ", "exuviate ", "peel ", "slough "], "A": []}
+{"index": 191616, "D": "(of birds, insects, reptiles, etc.) to cast or shed the feathers, skin, or the like, that will be replaced by a new growth.", "S": ["decorticate", "doff", "exuviate", "peel", "slough"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 75343, "D": "any of several shorebirds of the genus Numenius, having a long, slender, downcurved bill, as the common N. arquata, of Europe.", "S": ["grouse ", "partridge ", "pheasant ", "plover ", "quail ", "sandpiper ", "snipe ", "wild turkey ", "wildfowl ", "woodcock "], "A": []}
+{"index": 75343, "D": "any of several shorebirds of the genus Numenius, having a long, slender, downcurved bill, as the common N. arquata, of Europe.", "S": ["grouse", "partridge", "pheasant", "plover", "quail", "sandpiper", "snipe", "wild turkey", "wildfowl", "woodcock"], "A": []}

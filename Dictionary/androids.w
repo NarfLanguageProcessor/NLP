@@ -1,1 +1,1 @@
-{"index": 12419, "D": "an automaton in the form of a human being.", "S": ["android ", "clone ", "cyborg ", "drone "], "A": []}
+{"index": 12419, "D": "an automaton in the form of a human being.", "S": ["android", "clone", "cyborg", "drone"], "A": []}

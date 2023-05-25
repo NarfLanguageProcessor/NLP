@@ -1,1 +1,1 @@
-{"index": 236246, "D": "punctured or perforated, as to form a decorative design", "S": ["broken ", "cloven ", "cracked ", "crenelated ", "parted ", "perforated ", "rent ", "riven ", "ruptured ", "separated ", "sundered ", "torn "], "A": ["connected ", "fixed ", "whole "]}
+{"index": 236246, "D": "punctured or perforated, as to form a decorative design", "S": ["broken", "cloven", "cracked", "crenelated", "parted", "perforated", "rent", "riven", "ruptured", "separated", "sundered", "torn"], "A": ["connected", "fixed", "whole"]}

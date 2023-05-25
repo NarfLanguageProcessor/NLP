@@ -1,1 +1,1 @@
-{"index": 173630, "D": "a less common word for lissom", "S": ["agile ", "graceful ", "lithe ", "nimble ", "pliable ", "resilient ", "spry ", "supple "], "A": ["awkward ", "clumsy ", "hard ", "inflexible ", "rigid ", "stiff ", "unhandy "]}
+{"index": 173630, "D": "a less common word for lissom", "S": ["agile", "graceful", "lithe", "nimble", "pliable", "resilient", "spry", "supple"], "A": ["awkward", "clumsy", "hard", "inflexible", "rigid", "stiff", "unhandy"]}

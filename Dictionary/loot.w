@@ -1,1 +1,1 @@
-{"index": 175134, "D": "spoils or plunder taken by pillaging, as in war.", "S": ["booty ", "spoils "], "A": []}
+{"index": 175134, "D": "spoils or plunder taken by pillaging, as in war.", "S": ["booty", "spoils"], "A": []}

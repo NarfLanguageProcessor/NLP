@@ -1,1 +1,1 @@
-{"index": 90448, "D": "to divide; distribute (often followed by up)", "S": ["deal ", "divide ", "ration ", "share ", "split "], "A": ["collect ", "combine ", "gather ", "hold ", "join ", "keep "]}
+{"index": 90448, "D": "to divide; distribute (often followed by up)", "S": ["deal", "divide", "ration", "share", "split"], "A": ["collect", "combine", "gather", "hold", "join", "keep"]}

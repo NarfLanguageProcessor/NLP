@@ -1,1 +1,1 @@
-{"index": 153166, "D": "not odorous; odorless.", "S": ["deodorant ", "deodorizing ", "flat ", "odor-free ", "scentless ", "unaromatic ", "unfragrant ", "unperfumed ", "unscented ", "unsmelling "], "A": ["aromatic ", "odorous ", "perfumed ", "scented ", "smelly "]}
+{"index": 153166, "D": "not odorous; odorless.", "S": ["deodorant", "deodorizing", "flat", "odor-free", "scentless", "unaromatic", "unfragrant", "unperfumed", "unscented", "unsmelling"], "A": ["aromatic", "odorous", "perfumed", "scented", "smelly"]}

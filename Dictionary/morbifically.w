@@ -1,1 +1,0 @@
-{"index": 193333, "D": "causing disease.", "S": [], "A": []}

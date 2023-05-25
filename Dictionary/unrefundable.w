@@ -1,1 +1,0 @@
-{"index": 349326, "D": "to give back or restore (especially money); repay.", "S": [], "A": []}

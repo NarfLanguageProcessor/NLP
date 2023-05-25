@@ -1,1 +1,1 @@
-{"index": 9466, "D": "to make different in some particular, as size, style, course, or the like; modify", "S": ["adjective ", "adverb ", "conditioner ", "transformer "], "A": []}
+{"index": 9466, "D": "to make different in some particular, as size, style, course, or the like; modify", "S": ["adjective", "adverb", "conditioner", "transformer"], "A": []}

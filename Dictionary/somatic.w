@@ -1,1 +1,1 @@
-{"index": 296962, "D": "of the body; bodily; physical.", "S": ["actual ", "animal ", "carnal ", "corporal ", "corporeal ", "fleshly ", "gross ", "human ", "material ", "natural ", "normal ", "organic ", "personal ", "physical ", "sensual ", "substantial ", "tangible ", "unspiritual "], "A": []}
+{"index": 296962, "D": "of the body; bodily; physical.", "S": ["actual", "animal", "carnal", "corporal", "corporeal", "fleshly", "gross", "human", "material", "natural", "normal", "organic", "personal", "physical", "sensual", "substantial", "tangible", "unspiritual"], "A": []}

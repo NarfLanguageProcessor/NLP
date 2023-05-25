@@ -1,1 +1,1 @@
-{"index": 327509, "D": "to transport, transmit, or transpose.", "S": ["change ", "flow ", "journey ", "movement ", "passing ", "progress ", "transfer ", "transition ", "trip "], "A": ["stagnation "]}
+{"index": 327509, "D": "to transport, transmit, or transpose.", "S": ["change", "flow", "journey", "movement", "passing", "progress", "transfer", "transition", "trip"], "A": ["stagnation"]}

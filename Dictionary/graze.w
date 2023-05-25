@@ -1,1 +1,1 @@
-{"index": 129404, "D": "to feed on growing grass and pasturage, as do cattle, sheep, etc.", "S": ["ricochet ", "rub ", "scrape ", "scratch ", "skim ", "skip "], "A": ["manhandle "]}
+{"index": 129404, "D": "to feed on growing grass and pasturage, as do cattle, sheep, etc.", "S": ["ricochet", "rub", "scrape", "scratch", "skim", "skip"], "A": ["manhandle"]}

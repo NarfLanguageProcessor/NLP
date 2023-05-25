@@ -1,1 +1,1 @@
-{"index": 161528, "D": "to move or shake with a push or jerk", "S": ["bounce ", "shake ", "shove ", "whack "], "A": ["calm ", "discourage ", "leave alone ", "lull ", "quiet "]}
+{"index": 161528, "D": "to move or shake with a push or jerk", "S": ["bounce", "shake", "shove", "whack"], "A": ["calm", "discourage", "leave alone", "lull", "quiet"]}

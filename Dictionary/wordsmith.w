@@ -1,1 +1,1 @@
-{"index": 367456, "D": "an expert in the use of words.", "S": ["biographer ", "columnist ", "composer ", "creator ", "journalist ", "poet ", "producer ", "reporter ", "writer "], "A": []}
+{"index": 367456, "D": "an expert in the use of words.", "S": ["biographer", "columnist", "composer", "creator", "journalist", "poet", "producer", "reporter", "writer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 43308, "D": "the treasury of a monastery.", "S": ["assistance ", "award ", "charity ", "donation ", "fellowship ", "financial aid ", "reward "], "A": []}
+{"index": 43308, "D": "the treasury of a monastery.", "S": ["assistance", "award", "charity", "donation", "fellowship", "financial aid", "reward"], "A": []}

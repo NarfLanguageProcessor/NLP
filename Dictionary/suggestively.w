@@ -1,1 +1,1 @@
-{"index": 310257, "D": "that suggests;  referring to other thoughts, persons, etc.", "S": ["lewdly "], "A": []}
+{"index": 310257, "D": "that suggests;  referring to other thoughts, persons, etc.", "S": ["lewdly"], "A": []}

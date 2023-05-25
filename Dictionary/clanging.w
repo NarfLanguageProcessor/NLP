@@ -1,1 +1,1 @@
-{"index": 59198, "D": "a pattern of speech observed in some types of mental illness, as manic disorder, in which associations are based on punning or rhyming.", "S": ["ringing "], "A": []}
+{"index": 59198, "D": "a pattern of speech observed in some types of mental illness, as manic disorder, in which associations are based on punning or rhyming.", "S": ["ringing"], "A": []}

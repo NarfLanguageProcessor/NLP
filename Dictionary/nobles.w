@@ -1,1 +1,1 @@
-{"index": 200578, "D": "distinguished by rank or title.", "S": ["imperial ", "patrician "], "A": ["ignoble ", "lowly ", "servile "]}
+{"index": 200578, "D": "distinguished by rank or title.", "S": ["imperial", "patrician"], "A": ["ignoble", "lowly", "servile"]}

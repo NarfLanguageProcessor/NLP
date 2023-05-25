@@ -1,1 +1,0 @@
-{"index": 245347, "D": "to talk excessively and pointlessly; babble", "S": ["blab ", "boast ", "brag ", "chat ", "chatter ", "clash ", "clatter ", "drivel ", "gab ", "gabble ", "jabber ", "prattle ", "talk ", "tongue ", "utter ", "yack "], "A": ["be quiet ", "deprecate "]}

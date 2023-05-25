@@ -1,1 +1,1 @@
-{"index": 358852, "D": "having vertebrae; having a backbone or spinal column.", "S": ["beast ", "creature ", "pet "], "A": ["mineral ", "plant "]}
+{"index": 358852, "D": "having vertebrae; having a backbone or spinal column.", "S": ["beast", "creature", "pet"], "A": ["mineral", "plant"]}

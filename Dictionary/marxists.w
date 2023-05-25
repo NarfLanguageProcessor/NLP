@@ -1,1 +1,1 @@
-{"index": 180596, "D": "an adherent of Karl Marx  or his theories.", "S": ["Bolshevik ", "Bolshevist ", "Commie ", "Maoist ", "Marxist ", "Stalinist ", "Trotskyite ", "apparatchik ", "comrade ", "leftist ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}
+{"index": 180596, "D": "an adherent of Karl Marx  or his theories.", "S": ["Bolshevik", "Bolshevist", "Commie", "Maoist", "Marxist", "Stalinist", "Trotskyite", "apparatchik", "comrade", "leftist", "red", "socialist", "sympathizer"], "A": ["capitalist", "conservative", "fascist"]}

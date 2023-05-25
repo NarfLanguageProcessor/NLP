@@ -1,1 +1,1 @@
-{"index": 364644, "D": "at whatever time; at any time when", "S": ["at any time ", "on any occasion ", "when "], "A": []}
+{"index": 364644, "D": "at whatever time; at any time when", "S": ["at any time", "on any occasion", "when"], "A": []}

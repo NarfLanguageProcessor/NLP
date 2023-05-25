@@ -1,1 +1,1 @@
-{"index": 366534, "D": "Compare warlock. ", "S": ["beguile ", "charm ", "mesmerize "], "A": ["bore ", "depress ", "disenchant ", "disgust ", "displease ", "offend ", "refuse ", "reject ", "repel ", "repulse ", "tire ", "turn off "]}
+{"index": 366534, "D": "Compare warlock. ", "S": ["beguile", "charm", "mesmerize"], "A": ["bore", "depress", "disenchant", "disgust", "displease", "offend", "refuse", "reject", "repel", "repulse", "tire", "turn off"]}

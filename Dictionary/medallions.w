@@ -1,1 +1,1 @@
-{"index": 181971, "D": "a large medal.", "S": ["emblem ", "jewelry ", "necklace "], "A": []}
+{"index": 181971, "D": "a large medal.", "S": ["emblem", "jewelry", "necklace"], "A": []}

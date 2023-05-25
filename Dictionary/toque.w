@@ -1,1 +1,1 @@
-{"index": 326029, "D": "a brimless and close-fitting hat for women, in any of several shapes.", "S": ["hat ", "helmet ", "tiara ", "turban "], "A": []}
+{"index": 326029, "D": "a brimless and close-fitting hat for women, in any of several shapes.", "S": ["hat", "helmet", "tiara", "turban"], "A": []}

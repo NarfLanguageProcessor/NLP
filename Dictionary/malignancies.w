@@ -1,1 +1,1 @@
-{"index": 178463, "D": "the quality or condition of being malignant. ", "S": ["hatred ", "malevolence ", "malice ", "malignity ", "virulence "], "A": ["benevolence "]}
+{"index": 178463, "D": "the quality or condition of being malignant. ", "S": ["hatred", "malevolence", "malice", "malignity", "virulence"], "A": ["benevolence"]}

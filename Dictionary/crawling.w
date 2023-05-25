@@ -1,1 +1,1 @@
-{"index": 72325, "D": "a defect in freshly applied paint or varnish characterized by bare patches and ridging", "S": ["dragging "], "A": []}
+{"index": 72325, "D": "a defect in freshly applied paint or varnish characterized by bare patches and ridging", "S": ["dragging"], "A": []}

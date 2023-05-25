@@ -1,1 +1,1 @@
-{"index": 268223, "D": "a small, slender, often pointed piece of wood, metal, etc., used to fasten, support, or attach things.", "S": [], "A": []}
+{"index": 268223, "D": [], "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 4140, "D": [], "S": ["agency ", "authority ", "control ", "government ", "legislation ", "organization ", "policy ", "rule "], "A": ["disorganization ", "disregard ", "failure ", "ignorance ", "inefficiency ", "lawlessness ", "mismanagement ", "neglect "]}
+{"index": 4140, "D": [], "S": ["agency", "authority", "control", "government", "legislation", "organization", "policy", "rule"], "A": ["disorganization", "disregard", "failure", "ignorance", "inefficiency", "lawlessness", "mismanagement", "neglect"]}

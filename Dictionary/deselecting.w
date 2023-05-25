@@ -1,1 +1,1 @@
-{"index": 82483, "D": "to discharge (a trainee) from a program of training.", "S": ["depose ", "discharge ", "disqualify ", "fire ", "impeach ", "let go ", "oust ", "recall ", "retire ", "sack ", "suspend ", "terminate "], "A": ["begin ", "employ ", "hire ", "hold ", "keep ", "do "]}
+{"index": 82483, "D": "to discharge (a trainee) from a program of training.", "S": ["depose", "discharge", "disqualify", "fire", "impeach", "let go", "oust", "recall", "retire", "sack", "suspend", "terminate"], "A": ["begin", "employ", "hire", "hold", "keep", "do"]}

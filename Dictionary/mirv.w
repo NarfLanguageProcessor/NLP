@@ -1,1 +1,1 @@
-{"index": 188555, "D": "multiple independently targetable reentry vehicle. ", "S": ["atomic bomb ", "hydrogen bomb ", "neutron bomb "], "A": []}
+{"index": 188555, "D": "multiple independently targetable reentry vehicle. ", "S": ["atomic bomb", "hydrogen bomb", "neutron bomb"], "A": []}

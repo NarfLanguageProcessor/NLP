@@ -1,1 +1,1 @@
-{"index": 96048, "D": "to burst into bloom; blossom.", "S": ["blossom ", "burgeon ", "flourish ", "flower "], "A": ["die ", "fade ", "shrink ", "shrivel "]}
+{"index": 96048, "D": "to burst into bloom; blossom.", "S": ["blossom", "burgeon", "flourish", "flower"], "A": ["die", "fade", "shrink", "shrivel"]}

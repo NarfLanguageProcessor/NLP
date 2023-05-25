@@ -1,1 +1,1 @@
-{"index": 54871, "D": "carved or formed with or as if with a chisel", "S": ["carve ", "sculpt "], "A": []}
+{"index": 54871, "D": "carved or formed with or as if with a chisel", "S": ["carve", "sculpt"], "A": []}

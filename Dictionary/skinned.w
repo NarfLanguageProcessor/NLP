@@ -1,1 +1,1 @@
-{"index": 293266, "D": "stripped of the skin", "S": ["peeled "], "A": ["healed ", "healthy "]}
+{"index": 293266, "D": "stripped of the skin", "S": ["peeled"], "A": ["healed", "healthy"]}

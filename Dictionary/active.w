@@ -1,1 +1,1 @@
-{"index": 3254, "D": "engaged in action;  characterized by energetic work, participation, etc.; busy", "S": [], "A": []}
+{"index": 3254, "D": "engaged in action;  characterized by energetic work, participation, etc.; busy", "S": ["alive", "effective", "operating"], "A": ["fixed", "inoperative", "unmovable"]}

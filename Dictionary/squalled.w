@@ -1,1 +1,1 @@
-{"index": 301633, "D": "Compare gust1 (def. 1). ", "S": ["bawl ", "bay ", "caterwaul ", "cry ", "holler ", "howl ", "mewl ", "scream ", "screech ", "squall ", "squeal ", "ululate ", "wail ", "whine ", "yell ", "yelp ", "yip "], "A": []}
+{"index": 301633, "D": "Compare gust1 (def. 1). ", "S": ["bawl", "bay", "caterwaul", "cry", "holler", "howl", "mewl", "scream", "screech", "squall", "squeal", "ululate", "wail", "whine", "yell", "yelp", "yip"], "A": []}

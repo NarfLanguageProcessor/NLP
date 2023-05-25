@@ -1,1 +1,1 @@
-{"index": 301529, "D": "having a spur  or spurs. ", "S": ["arouse ", "drive ", "propel ", "push ", "spark ", "stimulate ", "stir ", "trigger "], "A": ["calm ", "check ", "discourage ", "dissuade ", "halt ", "repress ", "stop ", "deaden "]}
+{"index": 301529, "D": "having a spur  or spurs. ", "S": ["arouse", "drive", "propel", "push", "spark", "stimulate", "stir", "trigger"], "A": ["calm", "check", "discourage", "dissuade", "halt", "repress", "stop", "deaden"]}

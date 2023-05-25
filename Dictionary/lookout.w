@@ -1,1 +1,1 @@
-{"index": 175070, "D": "the act of looking out or keeping watch.", "S": ["sentry "], "A": ["carelessness ", "heedlessness ", "indifference ", "neglect ", "thoughtlessness "]}
+{"index": 175070, "D": "the act of looking out or keeping watch.", "S": ["sentry"], "A": ["carelessness", "heedlessness", "indifference", "neglect", "thoughtlessness"]}

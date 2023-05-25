@@ -1,1 +1,1 @@
-{"index": 144968, "D": "to make humid. ", "S": ["bedew ", "besprinkle ", "dabble ", "moisten ", "rinse ", "spray ", "sprinkle ", "water ", "wet "], "A": ["collect ", "dehydrate ", "dry ", "gather "]}
+{"index": 144968, "D": "to make humid. ", "S": ["bedew", "besprinkle", "dabble", "moisten", "rinse", "spray", "sprinkle", "water", "wet"], "A": ["collect", "dehydrate", "dry", "gather"]}

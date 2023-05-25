@@ -1,1 +1,1 @@
-{"index": 8608, "D": "a person who uses or writes allegory.", "S": ["liar ", "narrator ", "raconteur ", "writer "], "A": []}
+{"index": 8608, "D": "a person who uses or writes allegory.", "S": ["liar", "narrator", "raconteur", "writer"], "A": []}

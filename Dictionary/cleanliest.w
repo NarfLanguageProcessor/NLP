@@ -1,1 +1,1 @@
-{"index": 59628, "D": "personally neat; careful to keep or make clean", "S": ["demure "], "A": ["untidy "]}
+{"index": 59628, "D": "personally neat; careful to keep or make clean", "S": ["demure"], "A": ["untidy"]}

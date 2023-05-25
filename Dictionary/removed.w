@@ -1,1 +1,1 @@
-{"index": 267488, "D": "remote; separate; not connected with; distinct from.", "S": ["detached ", "evacuated "], "A": ["established ", "ignored ", "left "]}
+{"index": 267488, "D": "remote; separate; not connected with; distinct from.", "S": ["detached", "evacuated"], "A": ["established", "ignored", "left"]}

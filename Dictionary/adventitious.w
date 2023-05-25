@@ -1,1 +1,1 @@
-{"index": 4599, "D": "associated with something by chance rather than as an integral part; extrinsic.", "S": ["accidental ", "casual ", "extrinsic ", "foreign ", "fortuitous ", "nonessential "], "A": []}
+{"index": 4599, "D": "associated with something by chance rather than as an integral part; extrinsic.", "S": ["accidental", "casual", "extrinsic", "foreign", "fortuitous", "nonessential"], "A": []}

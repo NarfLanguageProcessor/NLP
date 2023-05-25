@@ -1,1 +1,1 @@
-{"index": 249470, "D": "a garrisoned fort; military post.", "S": ["barricade ", "citadel ", "fortress ", "reinforcement "], "A": ["opening "]}
+{"index": 249470, "D": "a garrisoned fort; military post.", "S": ["barricade", "citadel", "fortress", "reinforcement"], "A": ["opening"]}

@@ -1,1 +1,1 @@
-{"index": 163629, "D": "the sport of bowling.", "S": ["bowls ", "candlepins ", "duckpins ", "ninepins ", "skittles "], "A": []}
+{"index": 163629, "D": "the sport of bowling.", "S": ["bowls", "candlepins", "duckpins", "ninepins", "skittles"], "A": []}

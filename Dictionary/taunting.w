@@ -1,1 +1,1 @@
-{"index": 317062, "D": "reproaching or challenging someone in a sarcastic, insulting, or scornful way", "S": ["cheeky ", "disdainful ", "insulting ", "mocking ", "rude ", "sarcastic ", "scornful "], "A": ["kind ", "nice ", "polite ", "respectful "]}
+{"index": 317062, "D": "reproaching or challenging someone in a sarcastic, insulting, or scornful way", "S": ["cheeky", "disdainful", "insulting", "mocking", "rude", "sarcastic", "scornful"], "A": ["kind", "nice", "polite", "respectful"]}

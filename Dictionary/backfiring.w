@@ -1,1 +1,1 @@
-{"index": 25787, "D": "(of an internal-combustion engine) to have a loud, premature explosion in the intake manifold.", "S": ["fail ", "flop "], "A": ["accomplish ", "achieve ", "succeed "]}
+{"index": 25787, "D": "(of an internal-combustion engine) to have a loud, premature explosion in the intake manifold.", "S": ["fail", "flop"], "A": ["accomplish", "achieve", "succeed"]}

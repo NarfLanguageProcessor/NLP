@@ -1,1 +1,1 @@
-{"index": 191523, "D": "softening or tending to soften.", "S": ["demulcent ", "emollient ", "lenitive ", "mollifying ", "pianissimo "], "A": []}
+{"index": 191523, "D": "softening or tending to soften.", "S": ["demulcent", "emollient", "lenitive", "mollifying", "pianissimo"], "A": []}

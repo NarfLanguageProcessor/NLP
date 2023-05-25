@@ -1,1 +1,1 @@
-{"index": 359759, "D": "a member of a class of partially free persons under the feudal system, who were serfs with respect to their lord but had the rights and privileges of freemen with respect to others.", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}
+{"index": 359759, "D": "a member of a class of partially free persons under the feudal system, who were serfs with respect to their lord but had the rights and privileges of freemen with respect to others.", "S": ["grower", "laborer", "peasant", "producer", "rancher"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 257024, "D": "any color having components of both red and blue, such as lavender, especially one deep in tone.", "S": ["lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}
+{"index": 257024, "D": "any color having components of both red and blue, such as lavender, especially one deep in tone.", "S": ["lavender", "lilac", "mauve", "periwinkle", "plum", "violet"], "A": []}

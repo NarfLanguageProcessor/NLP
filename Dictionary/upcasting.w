@@ -1,1 +1,1 @@
-{"index": 354555, "D": "an act of casting upward.", "S": ["hoist ", "shove "], "A": ["condemn ", "decline ", "decrease ", "demote ", "denounce ", "depress ", "destroy ", "drop ", "fall ", "hurt ", "lower ", "raze ", "ruin "]}
+{"index": 354555, "D": "an act of casting upward.", "S": ["hoist", "shove"], "A": ["condemn", "decline", "decrease", "demote", "denounce", "depress", "destroy", "drop", "fall", "hurt", "lower", "raze", "ruin"]}

@@ -1,1 +1,1 @@
-{"index": 168463, "D": "a room or place where food is kept; pantry.", "S": ["groceries ", "pantry ", "provender ", "stock ", "storage ", "supplies "], "A": []}
+{"index": 168463, "D": "a room or place where food is kept; pantry.", "S": ["groceries", "pantry", "provender", "stock", "storage", "supplies"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 179343, "D": "having many sides.", "S": ["array ", "assortment ", "change ", "collection ", "combo ", "conglomeration ", "departure ", "discrepancy ", "disparateness ", "divergency ", "diverseness ", "diversification ", "diversity ", "fluctuation ", "heterogeneousness ", "incongruity ", "intermixture ", "medley ", "mi "], "A": []}

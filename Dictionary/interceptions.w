@@ -1,1 +1,1 @@
-{"index": 154581, "D": "an act or instance of intercepting.", "S": ["interference ", "stopping "], "A": []}
+{"index": 154581, "D": "an act or instance of intercepting.", "S": ["interference", "stopping"], "A": []}

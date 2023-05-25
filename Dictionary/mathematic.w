@@ -1,1 +1,1 @@
-{"index": 181153, "D": "of, relating to, or of the nature of mathematics", "S": ["algebra ", "calculation ", "calculus ", "geometry ", "math "], "A": ["decrease ", "reduction ", "subtraction "]}
+{"index": 181153, "D": "of, relating to, or of the nature of mathematics", "S": ["algebra", "calculation", "calculus", "geometry", "math"], "A": ["decrease", "reduction", "subtraction"]}

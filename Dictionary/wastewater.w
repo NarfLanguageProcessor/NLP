@@ -1,1 +1,1 @@
-{"index": 363017, "D": "water that has been used in washing, flushing, manufacturing, etc.; sewage.", "S": ["sewerage "], "A": []}
+{"index": 363017, "D": "water that has been used in washing, flushing, manufacturing, etc.; sewage.", "S": ["sewerage"], "A": []}

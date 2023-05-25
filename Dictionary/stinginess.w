@@ -1,1 +1,1 @@
-{"index": 304665, "D": "the state or condition of being reluctant to give or spend; miserliness", "S": ["avidity ", "covetousness ", "cupidity ", "frugality ", "greediness ", "miserliness ", "parsimony ", "penuriousness ", "rapacity ", "thrift "], "A": ["generosity "]}
+{"index": 304665, "D": "the state or condition of being reluctant to give or spend; miserliness", "S": ["avidity", "covetousness", "cupidity", "frugality", "greediness", "miserliness", "parsimony", "penuriousness", "rapacity", "thrift"], "A": ["generosity"]}

@@ -1,1 +1,1 @@
-{"index": 310469, "D": "sulfa drug. ", "S": ["penicillin "], "A": []}
+{"index": 310469, "D": "sulfa drug. ", "S": ["penicillin"], "A": []}

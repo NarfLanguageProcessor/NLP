@@ -1,1 +1,1 @@
-{"index": 365285, "D": "fully or completely sincere, enthusiastic, energetic, etc.; hearty; earnest", "S": ["reciprocity ", "sincerity "], "A": ["disapproval ", "disfavor "]}
+{"index": 365285, "D": "fully or completely sincere, enthusiastic, energetic, etc.; hearty; earnest", "S": ["reciprocity", "sincerity"], "A": ["disapproval", "disfavor"]}

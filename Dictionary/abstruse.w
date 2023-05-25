@@ -1,1 +1,1 @@
-{"index": 1112, "D": "hard to understand; recondite; esoteric", "S": ["esoteric ", "perplexing "], "A": ["clear ", "concrete ", "easy ", "lucid ", "obvious ", "plain ", "simple "]}
+{"index": 1112, "D": "hard to understand; recondite; esoteric", "S": ["esoteric", "perplexing"], "A": ["clear", "concrete", "easy", "lucid", "obvious", "plain", "simple"]}

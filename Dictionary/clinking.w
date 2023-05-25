@@ -1,1 +1,1 @@
-{"index": 60063, "D": "to make or cause to make a light, sharp, ringing sound", "S": ["discordant ", "noisy ", "raucous "], "A": ["quiet "]}
+{"index": 60063, "D": "to make or cause to make a light, sharp, ringing sound", "S": ["discordant", "noisy", "raucous"], "A": ["quiet"]}

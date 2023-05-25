@@ -1,1 +1,0 @@
-{"index": 294827, "D": "to fuse or melt (ore) in order to separate the metal contained.", "S": ["fused ", "glowing ", "liquefied "], "A": []}

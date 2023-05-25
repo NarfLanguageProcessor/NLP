@@ -1,1 +1,1 @@
-{"index": 320711, "D": "a person who goes to the theater,  especially often or habitually.", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}
+{"index": 320711, "D": "a person who goes to the theater,  especially often or habitually.", "S": ["congregation", "crowd", "gallery", "gathering", "market", "public"], "A": []}

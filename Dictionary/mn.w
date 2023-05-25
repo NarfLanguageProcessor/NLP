@@ -1,1 +1,1 @@
-{"index": 190865, "D": "manganese.", "S": ["magnetic pole "], "A": []}
+{"index": 190865, "D": "manganese.", "S": ["magnetic pole"], "A": []}

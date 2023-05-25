@@ -1,1 +1,1 @@
-{"index": 270241, "D": "a decorative structure raised above an altar at the back, often forming a frame for a picture, bas-relief, or the like, and sometimes including a shelf or shelves, as for ornaments.", "S": ["shrine "], "A": []}
+{"index": 270241, "D": "a decorative structure raised above an altar at the back, often forming a frame for a picture, bas-relief, or the like, and sometimes including a shelf or shelves, as for ornaments.", "S": ["shrine"], "A": []}

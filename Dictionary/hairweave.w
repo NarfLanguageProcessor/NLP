@@ -1,1 +1,1 @@
-{"index": 132458, "D": "the process of hairweaving.", "S": ["hair implant "], "A": []}
+{"index": 132458, "D": "the process of hairweaving.", "S": ["hair implant"], "A": []}

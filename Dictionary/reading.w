@@ -1,1 +1,1 @@
-{"index": 261596, "D": "the action or practice of a person who reads.", "S": ["account ", "education ", "examination ", "knowledge ", "learning ", "lesson ", "review ", "study ", "translation ", "version "], "A": ["ignorance ", "destruction ", "misunderstanding "]}
+{"index": 261596, "D": "the action or practice of a person who reads.", "S": ["account", "education", "examination", "knowledge", "learning", "lesson", "review", "study", "translation", "version"], "A": ["ignorance", "destruction", "misunderstanding"]}

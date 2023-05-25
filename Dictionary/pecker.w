@@ -1,1 +1,1 @@
-{"index": 228586, "D": "a person or thing that pecks. ", "S": ["snout "], "A": []}
+{"index": 228586, "D": "a person or thing that pecks. ", "S": ["snout"], "A": []}

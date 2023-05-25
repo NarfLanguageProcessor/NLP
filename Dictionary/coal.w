@@ -1,1 +1,1 @@
-{"index": 60951, "D": "Compare anthracite, bituminous coal, lignite. ", "S": ["anthracite ", "ash ", "carbon ", "char ", "charcoal ", "cinder ", "culm ", "ember ", "fuel ", "scoria ", "slack ", "smut ", "spark ", "stoke "], "A": []}
+{"index": 60951, "D": "Compare anthracite, bituminous coal, lignite. ", "S": ["anthracite", "ash", "carbon", "char", "charcoal", "cinder", "culm", "ember", "fuel", "scoria", "slack", "smut", "spark", "stoke"], "A": []}

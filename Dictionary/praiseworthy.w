@@ -1,1 +1,1 @@
-{"index": 245266, "D": "deserving of praise;  laudable", "S": ["admirable ", "commendable ", "creditable ", "estimable ", "honorable ", "laudable ", "meritorious "], "A": ["bad ", "dishonorable ", "poor ", "unworthy "]}
+{"index": 245266, "D": "deserving of praise;  laudable", "S": ["admirable", "commendable", "creditable", "estimable", "honorable", "laudable", "meritorious"], "A": ["bad", "dishonorable", "poor", "unworthy"]}

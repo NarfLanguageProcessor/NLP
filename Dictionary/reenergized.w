@@ -1,1 +1,1 @@
-{"index": 264717, "D": "to give energy  to; rouse into activity", "S": ["refresh ", "regenerate ", "rejuvenate "], "A": ["destroy ", "kill ", "ruin "]}
+{"index": 264717, "D": "to give energy  to; rouse into activity", "S": ["refresh", "regenerate", "rejuvenate"], "A": ["destroy", "kill", "ruin"]}

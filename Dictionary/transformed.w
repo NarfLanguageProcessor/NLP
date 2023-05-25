@@ -1,1 +1,1 @@
-{"index": 327894, "D": "to change in form, appearance, or structure; metamorphose. ", "S": ["cooked ", "corrected ", "modified ", "updated "], "A": ["unqualified "]}
+{"index": 327894, "D": "to change in form, appearance, or structure; metamorphose. ", "S": ["cooked", "corrected", "modified", "updated"], "A": ["unqualified"]}

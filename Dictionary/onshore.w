@@ -1,1 +1,1 @@
-{"index": 212915, "D": "onto or in the direction of the shore  from a body of water", "S": ["ashore "], "A": []}
+{"index": 212915, "D": "onto or in the direction of the shore  from a body of water", "S": ["ashore"], "A": []}

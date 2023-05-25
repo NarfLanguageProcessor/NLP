@@ -1,1 +1,1 @@
-{"index": 69275, "D": "a stone  uniting two masonry walls at an intersection.", "S": ["essential ", "foundation ", "keystone ", "linchpin ", "mainstay ", "pillar "], "A": []}
+{"index": 69275, "D": "a stone  uniting two masonry walls at an intersection.", "S": ["essential", "foundation", "keystone", "linchpin", "mainstay", "pillar"], "A": []}

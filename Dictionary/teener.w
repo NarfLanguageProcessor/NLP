@@ -1,1 +1,1 @@
-{"index": 317785, "D": "a teenager.", "S": ["adolescent ", "juvenile ", "minor ", "stripling ", "sweet sixteen ", "teen ", "teenybopper ", "youngster ", "youth "], "A": []}
+{"index": 317785, "D": "a teenager.", "S": ["adolescent", "juvenile", "minor", "stripling", "sweet sixteen", "teen", "teenybopper", "youngster", "youth"], "A": []}

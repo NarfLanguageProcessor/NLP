@@ -1,1 +1,1 @@
-{"index": 337887, "D": "not controlled or regulated; uncurbed", "S": ["unchecked ", "undisciplined "], "A": ["calm ", "controlled ", "disciplined ", "restrained "]}
+{"index": 337887, "D": "not controlled or regulated; uncurbed", "S": ["unchecked", "undisciplined"], "A": ["calm", "controlled", "disciplined", "restrained"]}

@@ -1,1 +1,1 @@
-{"index": 350606, "D": "to dislodge from a seat,  especially to throw from a saddle, as a rider; unhorse.", "S": ["dismount "], "A": ["seat "]}
+{"index": 350606, "D": "to dislodge from a seat,  especially to throw from a saddle, as a rider; unhorse.", "S": ["dismount"], "A": ["seat"]}

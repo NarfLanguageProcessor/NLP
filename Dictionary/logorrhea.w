@@ -1,1 +1,1 @@
-{"index": 174698, "D": "pathologically incoherent, repetitious speech.", "S": ["garrulousness ", "glibness ", "grandiloquence ", "long-windedness ", "loquaciousness ", "prolixity ", "talkativeness ", "verboseness ", "verbosity ", "volubility ", "wordiness "], "A": []}
+{"index": 174698, "D": "pathologically incoherent, repetitious speech.", "S": ["garrulousness", "glibness", "grandiloquence", "long-windedness", "loquaciousness", "prolixity", "talkativeness", "verboseness", "verbosity", "volubility", "wordiness"], "A": []}

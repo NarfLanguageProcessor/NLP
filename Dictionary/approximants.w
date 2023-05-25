@@ -1,0 +1,1 @@
+{"index": 18032, "D": "an articulation in which one articulator is close to another, but not sufficiently so to form a stop or a fricative.", "S": [], "A": []}

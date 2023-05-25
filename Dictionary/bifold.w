@@ -1,1 +1,1 @@
-{"index": 33651, "D": "capable of being folded into two parts, as with leaves that are hinged together", "S": ["dual "], "A": ["singular "]}
+{"index": 33651, "D": "capable of being folded into two parts, as with leaves that are hinged together", "S": ["dual"], "A": ["singular"]}

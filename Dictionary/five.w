@@ -1,1 +1,1 @@
-{"index": 113575, "D": "a cardinal number, four plus one.", "S": ["quintuple "], "A": []}
+{"index": 113575, "D": "a cardinal number, four plus one.", "S": ["quintuple"], "A": []}

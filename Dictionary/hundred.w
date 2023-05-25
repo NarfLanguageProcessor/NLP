@@ -1,1 +1,1 @@
-{"index": 145120, "D": "a cardinal number, ten times ten.", "S": ["centenary ", "centennial ", "century ", "hundredth "], "A": []}
+{"index": 145120, "D": "a cardinal number, ten times ten.", "S": ["centenary", "centennial", "century", "hundredth"], "A": []}

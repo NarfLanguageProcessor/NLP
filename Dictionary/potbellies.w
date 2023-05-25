@@ -1,1 +1,1 @@
-{"index": 244635, "D": "a distended or protuberant belly. ", "S": ["belly ", "corporation ", "gut ", "paunch ", "pot ", "tummy "], "A": []}
+{"index": 244635, "D": "a distended or protuberant belly. ", "S": ["belly", "corporation", "gut", "paunch", "pot", "tummy"], "A": []}

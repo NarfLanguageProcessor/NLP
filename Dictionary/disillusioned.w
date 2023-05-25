@@ -1,1 +1,1 @@
-{"index": 88359, "D": "having lost one's ideals, illusions, or false ideas about someone or something; disenchanted", "S": ["disenchanted ", "embittered "], "A": ["enchanted ", "encouraged ", "enthusiastic "]}
+{"index": 88359, "D": "having lost one's ideals, illusions, or false ideas about someone or something; disenchanted", "S": ["disenchanted", "embittered"], "A": ["enchanted", "encouraged", "enthusiastic"]}

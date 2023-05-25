@@ -1,1 +1,1 @@
-{"index": 249240, "D": "farsightedness due to ciliary muscle weakness and loss of elasticity in the crystalline lens.", "S": ["nearsighted ", "shortsighted "], "A": ["far-sighted "]}
+{"index": 249240, "D": "farsightedness due to ciliary muscle weakness and loss of elasticity in the crystalline lens.", "S": ["nearsighted", "shortsighted"], "A": ["far-sighted"]}

@@ -1,1 +1,1 @@
-{"index": 180511, "D": "a strict disciplinarian, especially a military one.", "S": ["authoritarian ", "bully ", "despot ", "enforcer ", "stickler ", "taskmaster ", "tyrant "], "A": []}
+{"index": 180511, "D": "a strict disciplinarian, especially a military one.", "S": ["authoritarian", "bully", "despot", "enforcer", "stickler", "taskmaster", "tyrant"], "A": []}

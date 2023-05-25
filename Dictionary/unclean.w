@@ -1,1 +1,1 @@
-{"index": 337001, "D": "not clean; dirty.", "S": ["impure ", "soiled "], "A": ["clean "]}
+{"index": 337001, "D": "not clean; dirty.", "S": ["impure", "soiled"], "A": ["clean"]}

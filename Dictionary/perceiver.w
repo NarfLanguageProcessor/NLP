@@ -1,1 +1,1 @@
-{"index": 230369, "D": "to become aware of, know, or identify by means of the senses", "S": ["bystander ", "fan ", "moviegoer ", "observer ", "onlooker ", "sports fan ", "theatergoer ", "viewer "], "A": ["participant "]}
+{"index": 230369, "D": "to become aware of, know, or identify by means of the senses", "S": ["bystander", "fan", "moviegoer", "observer", "onlooker", "sports fan", "theatergoer", "viewer"], "A": ["participant"]}

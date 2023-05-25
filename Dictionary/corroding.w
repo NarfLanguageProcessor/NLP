@@ -1,1 +1,1 @@
-{"index": 69736, "D": "to eat or wear away gradually as if by gnawing, especially by chemical action.", "S": ["acerbic ", "acrid ", "biting "], "A": ["kind ", "nice ", "sweet "]}
+{"index": 69736, "D": "to eat or wear away gradually as if by gnawing, especially by chemical action.", "S": ["acerbic", "acrid", "biting"], "A": ["kind", "nice", "sweet"]}

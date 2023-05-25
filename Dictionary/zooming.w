@@ -1,1 +1,1 @@
-{"index": 369858, "D": "to move quickly or suddenly with a loud humming or buzzing sound", "S": ["aerial ", "floating ", "soaring "], "A": []}
+{"index": 369858, "D": "to move quickly or suddenly with a loud humming or buzzing sound", "S": ["aerial", "floating", "soaring"], "A": []}

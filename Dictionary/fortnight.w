@@ -1,1 +1,1 @@
-{"index": 117699, "D": "the space of fourteen nights and days; two weeks.", "S": [], "A": ["eternity "]}
+{"index": 117699, "D": "the space of fourteen nights and days; two weeks.", "S": [], "A": ["eternity"]}

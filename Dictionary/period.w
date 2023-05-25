@@ -1,1 +1,1 @@
-{"index": 231096, "D": "a rather large interval of time that is meaningful in the life of a person, in history, etc., because of its particular characteristics", "S": ["age ", "course ", "cycle ", "date ", "duration ", "era ", "season ", "span ", "stage ", "stretch ", "term ", "time "], "A": []}
+{"index": 231096, "D": "a rather large interval of time that is meaningful in the life of a person, in history, etc., because of its particular characteristics", "S": ["age", "course", "cycle", "date", "duration", "era", "season", "span", "stage", "stretch", "term", "time"], "A": []}

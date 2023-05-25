@@ -1,1 +1,0 @@
-{"index": 164833, "D": "the sensation of movement or strain in muscles, tendons, and joints; muscle sense. ", "S": ["feel ", "impression ", "sensibility ", "sensitivity ", "taste ", "touch "], "A": ["apathy ", "lot "]}

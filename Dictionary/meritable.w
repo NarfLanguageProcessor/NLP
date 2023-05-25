@@ -1,1 +1,0 @@
-{"index": 183831, "D": [], "S": ["attractive ", "commendable ", "excellent ", "exquisite ", "great ", "laudable ", "praiseworthy ", "unreal ", "valuable ", "wonderful "], "A": ["bad ", "imperfect ", "inferior ", "unimportant ", "unworthy "]}

@@ -1,1 +1,1 @@
-{"index": 332625, "D": "turbojet engine. ", "S": ["fanjet ", "pulsejet ", "ramjet ", "reaction engine ", "rocket ", "rocket motor ", "turbofan ", "turboprop "], "A": []}
+{"index": 332625, "D": "turbojet engine. ", "S": ["fanjet", "pulsejet", "ramjet", "reaction engine", "rocket", "rocket motor", "turbofan", "turboprop"], "A": []}

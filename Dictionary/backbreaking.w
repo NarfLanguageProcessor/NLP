@@ -1,1 +1,1 @@
-{"index": 25747, "D": "demanding great effort, endurance, etc.; exhausting", "S": ["arduous ", "exhausting ", "grueling ", "laborious "], "A": ["easy ", "facile "]}
+{"index": 25747, "D": "demanding great effort, endurance, etc.; exhausting", "S": ["arduous", "exhausting", "grueling", "laborious"], "A": ["easy", "facile"]}

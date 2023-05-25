@@ -1,1 +1,1 @@
-{"index": 273106, "D": "an act or instance of rinsing. ", "S": ["bathe ", "clean ", "dip ", "flush ", "soak ", "wash ", "wet "], "A": ["dehydrate ", "dirty ", "dry "]}
+{"index": 273106, "D": "an act or instance of rinsing. ", "S": ["bathe", "clean", "dip", "flush", "soak", "wash", "wet"], "A": ["dehydrate", "dirty", "dry"]}

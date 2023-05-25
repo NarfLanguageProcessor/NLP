@@ -1,1 +1,1 @@
-{"index": 150369, "D": "linguistics another word for polysynthetic", "S": ["assortment ", "collection "], "A": []}
+{"index": 150369, "D": "linguistics another word for polysynthetic", "S": ["assortment", "collection"], "A": []}

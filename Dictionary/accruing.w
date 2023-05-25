@@ -1,1 +1,1 @@
-{"index": 1794, "D": "to happen or result as a natural growth, addition, etc.", "S": ["accretion ", "computing ", "counting ", "reckoning ", "summation "], "A": ["decrease ", "deduction ", "lessening ", "loss ", "reduction ", "shrinkage ", "subtraction ", "withdrawal "]}
+{"index": 1794, "D": "to happen or result as a natural growth, addition, etc.", "S": ["accretion", "computing", "counting", "reckoning", "summation"], "A": ["decrease", "deduction", "lessening", "loss", "reduction", "shrinkage", "subtraction", "withdrawal"]}

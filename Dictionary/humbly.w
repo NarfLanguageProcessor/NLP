@@ -1,1 +1,1 @@
-{"index": 144908, "D": "in a way that is not proud or arrogant; modestly", "S": ["apologetically "], "A": ["boastfully ", "haughtily ", "proudly "]}
+{"index": 144908, "D": "in a way that is not proud or arrogant; modestly", "S": ["apologetically"], "A": ["boastfully", "haughtily", "proudly"]}

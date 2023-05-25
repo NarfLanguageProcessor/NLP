@@ -1,1 +1,1 @@
-{"index": 114070, "D": "a foot  with such an arch.", "S": ["bobby ", "constable ", "cop ", "detective ", "officer ", "patrolman ", "policeman ", "policewoman "], "A": []}
+{"index": 114070, "D": "a foot  with such an arch.", "S": ["bobby", "constable", "cop", "detective", "officer", "patrolman", "policeman", "policewoman"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 325413, "D": "an excavation in earth or rock for the burial of a corpse; grave.", "S": ["burial ", "coffin ", "mausoleum ", "monument ", "pit ", "vault "], "A": []}
+{"index": 325413, "D": "an excavation in earth or rock for the burial of a corpse; grave.", "S": ["burial", "coffin", "mausoleum", "monument", "pit", "vault"], "A": []}

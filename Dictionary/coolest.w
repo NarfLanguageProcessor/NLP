@@ -1,1 +1,1 @@
-{"index": 68267, "D": "moderately cold; neither warm nor cold", "S": ["chilly ", "frigid ", "frosty ", "refreshing "], "A": ["hot ", "responsive ", "warm "]}
+{"index": 68267, "D": "moderately cold; neither warm nor cold", "S": ["chilly", "frigid", "frosty", "refreshing"], "A": ["hot", "responsive", "warm"]}

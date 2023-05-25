@@ -1,1 +1,1 @@
-{"index": 134797, "D": "to perceive by the ear", "S": ["auditor ", "monitor ", "sleuth ", "snoop ", "wiretapper "], "A": []}
+{"index": 134797, "D": "to perceive by the ear", "S": ["auditor", "monitor", "sleuth", "snoop", "wiretapper"], "A": []}

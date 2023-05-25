@@ -1,1 +1,1 @@
-{"index": 113191, "D": "fire hydrant. ", "S": ["hydrant ", "johnny pump "], "A": []}
+{"index": 113191, "D": "fire hydrant. ", "S": ["hydrant", "johnny pump"], "A": []}

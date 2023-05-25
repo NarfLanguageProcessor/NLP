@@ -1,1 +1,1 @@
-{"index": 187524, "D": "the sperm-containing secretion of the testes of fishes.", "S": ["prostatic fluid ", "sperm ", "spermatic fluid "], "A": []}
+{"index": 187524, "D": "the sperm-containing secretion of the testes of fishes.", "S": ["prostatic fluid", "sperm", "spermatic fluid"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 101099, "D": "to enclose in or as if in a sphere. ", "S": ["encircle ", "rotate ", "surround ", "whirl "], "A": []}
+{"index": 101099, "D": "to enclose in or as if in a sphere. ", "S": ["encircle", "rotate", "surround", "whirl"], "A": []}

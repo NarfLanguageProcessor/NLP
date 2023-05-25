@@ -1,1 +1,1 @@
-{"index": 115858, "D": "a person or thing that folds. ", "S": ["binder ", "file ", "pocket "], "A": []}
+{"index": 115858, "D": "a person or thing that folds. ", "S": ["binder", "file", "pocket"], "A": []}

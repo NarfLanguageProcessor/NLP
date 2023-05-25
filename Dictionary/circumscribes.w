@@ -1,1 +1,1 @@
-{"index": 58223, "D": "to draw a line around; encircle", "S": ["delineate ", "hem in "], "A": ["aid ", "allow ", "assist ", "free ", "help ", "let go ", "liberate ", "permit ", "release ", "unloose "]}
+{"index": 58223, "D": "to draw a line around; encircle", "S": ["delineate", "hem in"], "A": ["aid", "allow", "assist", "free", "help", "let go", "liberate", "permit", "release", "unloose"]}

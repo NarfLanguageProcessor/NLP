@@ -1,1 +1,1 @@
-{"index": 34817, "D": "a stiff square cap with three or four upright projecting pieces extending from the center of the top to the edge, worn by ecclesiastics.", "S": ["hat ", "helmet ", "tiara ", "turban "], "A": []}
+{"index": 34817, "D": "a stiff square cap with three or four upright projecting pieces extending from the center of the top to the edge, worn by ecclesiastics.", "S": ["hat", "helmet", "tiara", "turban"], "A": []}

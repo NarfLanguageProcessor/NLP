@@ -1,1 +1,1 @@
-{"index": 114315, "D": "a speck; a small bit", "S": ["speck ", "stripe "], "A": []}
+{"index": 114315, "D": "a speck; a small bit", "S": ["speck", "stripe"], "A": []}

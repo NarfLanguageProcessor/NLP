@@ -1,1 +1,1 @@
-{"index": 107595, "D": "to banish (a person) from their native country.", "S": ["banishment ", "deportation ", "expulsion ", "extradition ", "ostracism ", "proscription "], "A": ["welcoming "]}
+{"index": 107595, "D": "to banish (a person) from their native country.", "S": ["banishment", "deportation", "expulsion", "extradition", "ostracism", "proscription"], "A": ["welcoming"]}

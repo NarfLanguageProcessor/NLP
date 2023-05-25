@@ -1,1 +1,1 @@
-{"index": 92541, "D": "to soil by dragging  over damp ground or in mud.", "S": ["bedraggle ", "drag ", "pull ", "tow "], "A": ["push "]}
+{"index": 92541, "D": "to soil by dragging  over damp ground or in mud.", "S": ["bedraggle", "drag", "pull", "tow"], "A": ["push"]}

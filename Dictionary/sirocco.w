@@ -1,1 +1,1 @@
-{"index": 292410, "D": "a hot, dry, dustladen wind blowing from northern Africa and affecting parts of southern Europe.", "S": ["sandstorm "], "A": []}
+{"index": 292410, "D": "a hot, dry, dustladen wind blowing from northern Africa and affecting parts of southern Europe.", "S": ["sandstorm"], "A": []}

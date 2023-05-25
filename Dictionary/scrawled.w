@@ -1,1 +1,1 @@
-{"index": 281649, "D": "to write or draw in a sprawling, awkward manner", "S": ["cramped ", "inscribed ", "scratched "], "A": []}
+{"index": 281649, "D": "to write or draw in a sprawling, awkward manner", "S": ["cramped", "inscribed", "scratched"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293924, "D": "precipitation in the form of ice pellets created by the freezing of rain as it falls (distinguished from hail2).", "S": ["chilly ", "cold ", "freezing ", "frigid ", "frosty ", "glacial ", "polar ", "raw "], "A": ["heated ", "hot ", "warm "]}
+{"index": 293924, "D": "precipitation in the form of ice pellets created by the freezing of rain as it falls (distinguished from hail2).", "S": ["chilly", "cold", "freezing", "frigid", "frosty", "glacial", "polar", "raw"], "A": ["heated", "hot", "warm"]}

@@ -1,1 +1,1 @@
-{"index": 351074, "D": "to divest of a shroud  or something that shrouds  or hides", "S": ["demystify ", "disparage ", "mock ", "puncture "], "A": ["flatter ", "praise "]}
+{"index": 351074, "D": "to divest of a shroud  or something that shrouds  or hides", "S": ["demystify", "disparage", "mock", "puncture"], "A": ["flatter", "praise"]}

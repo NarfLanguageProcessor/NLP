@@ -1,1 +1,1 @@
-{"index": 350297, "D": "made holy; consecrated", "S": ["accursed ", "bedeviled ", "blasted ", "blighted ", "confounded ", "excommunicate ", "foredoomed ", "voodooed "], "A": ["blessed "]}
+{"index": 350297, "D": "made holy; consecrated", "S": ["accursed", "bedeviled", "blasted", "blighted", "confounded", "excommunicate", "foredoomed", "voodooed"], "A": ["blessed"]}

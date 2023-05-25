@@ -1,1 +1,1 @@
-{"index": 197724, "D": "to make necessary or unavoidable", "S": ["compelling ", "demanding ", "exacting ", "forcing ", "involving ", "pressing "], "A": ["trivial "]}
+{"index": 197724, "D": "to make necessary or unavoidable", "S": ["compelling", "demanding", "exacting", "forcing", "involving", "pressing"], "A": ["trivial"]}

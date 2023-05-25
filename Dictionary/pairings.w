@@ -1,1 +1,1 @@
-{"index": 223218, "D": "a coupling.", "S": ["pairing "], "A": ["disunion ", "division ", "divorce ", "separation "]}
+{"index": 223218, "D": "a coupling.", "S": ["pairing"], "A": ["disunion", "division", "divorce", "separation"]}

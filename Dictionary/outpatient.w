@@ -1,1 +1,1 @@
-{"index": 217055, "D": "a patient  who receives treatment at a hospital, as in an emergency room or clinic, but is not hospitalized.", "S": ["case ", "inmate ", "subject ", "sufferer ", "victim "], "A": ["doctor "]}
+{"index": 217055, "D": "a patient  who receives treatment at a hospital, as in an emergency room or clinic, but is not hospitalized.", "S": ["case", "inmate", "subject", "sufferer", "victim"], "A": ["doctor"]}

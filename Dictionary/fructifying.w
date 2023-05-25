@@ -1,1 +1,1 @@
-{"index": 119547, "D": "to bear fruit;  become fruitful", "S": ["burgeoning ", "developing ", "expanding ", "flourishing ", "spreading ", "thriving ", "viable "], "A": ["failing ", "languishing ", "dead ", "dying ", "shrinking "]}
+{"index": 119547, "D": "to bear fruit;  become fruitful", "S": ["burgeoning", "developing", "expanding", "flourishing", "spreading", "thriving", "viable"], "A": ["failing", "languishing", "dead", "dying", "shrinking"]}

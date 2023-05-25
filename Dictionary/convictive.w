@@ -1,1 +1,1 @@
-{"index": 68098, "D": "able or serving to convince or convict", "S": ["compelling ", "convincing ", "forceful ", "persuasive ", "telling ", "weighty "], "A": ["ineffective ", "unimportant "]}
+{"index": 68098, "D": "able or serving to convince or convict", "S": ["compelling", "convincing", "forceful", "persuasive", "telling", "weighty"], "A": ["ineffective", "unimportant"]}

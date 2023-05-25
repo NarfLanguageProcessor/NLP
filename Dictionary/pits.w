@@ -1,1 +1,1 @@
-{"index": 238411, "D": "the worst possible person, place, or thing", "S": ["bad rap ", "bummer ", "drag ", "ill fortune ", "misfortune ", "rotten hand ", "rotten luck ", "tough luck "], "A": []}
+{"index": 238411, "D": "the worst possible person, place, or thing", "S": ["bad rap", "bummer", "drag", "ill fortune", "misfortune", "rotten hand", "rotten luck", "tough luck"], "A": []}

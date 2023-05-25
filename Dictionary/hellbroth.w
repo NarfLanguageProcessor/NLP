@@ -1,1 +1,1 @@
-{"index": 135661, "D": "a magical broth  prepared for an evil purpose, as in black magic.", "S": ["concoction ", "potion ", "witches' cauldron "], "A": []}
+{"index": 135661, "D": "a magical broth  prepared for an evil purpose, as in black magic.", "S": ["concoction", "potion", "witches' cauldron"], "A": []}

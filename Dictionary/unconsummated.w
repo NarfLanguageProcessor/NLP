@@ -1,1 +1,1 @@
-{"index": 337776, "D": "(of a marriage, relationship, etc) not having been consummated", "S": ["deficient ", "fragmentary ", "inadequate ", "insufficient ", "lacking ", "partial ", "sketchy "], "A": ["adequate ", "ample ", "complete ", "enough ", "sufficient ", "total ", "whole "]}
+{"index": 337776, "D": "(of a marriage, relationship, etc) not having been consummated", "S": ["deficient", "fragmentary", "inadequate", "insufficient", "lacking", "partial", "sketchy"], "A": ["adequate", "ample", "complete", "enough", "sufficient", "total", "whole"]}

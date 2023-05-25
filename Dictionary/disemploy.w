@@ -1,1 +1,1 @@
-{"index": 87904, "D": "to put out of work; cause to become unemployed.", "S": ["depose ", "discharge ", "disqualify ", "fire ", "impeach ", "let go ", "oust ", "recall ", "retire ", "sack ", "suspend ", "terminate "], "A": ["begin ", "employ ", "hire ", "hold ", "keep ", "do "]}
+{"index": 87904, "D": "to put out of work; cause to become unemployed.", "S": ["depose", "discharge", "disqualify", "fire", "impeach", "let go", "oust", "recall", "retire", "sack", "suspend", "terminate"], "A": ["begin", "employ", "hire", "hold", "keep", "do"]}

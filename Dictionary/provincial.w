@@ -1,1 +1,1 @@
-{"index": 254075, "D": "belonging or peculiar to some particular province;  local", "S": ["local ", "rural "], "A": ["broad ", "broad-minded ", "city ", "liberal ", "metropolitan ", "urban "]}
+{"index": 254075, "D": "belonging or peculiar to some particular province;  local", "S": ["local", "rural"], "A": ["broad", "broad-minded", "city", "liberal", "metropolitan", "urban"]}

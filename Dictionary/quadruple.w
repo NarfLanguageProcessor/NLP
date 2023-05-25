@@ -1,1 +1,1 @@
-{"index": 257728, "D": "fourfold; consisting of four parts", "S": ["quadruplicate ", "quaternary ", "tetrad "], "A": []}
+{"index": 257728, "D": "fourfold; consisting of four parts", "S": ["quadruplicate", "quaternary", "tetrad"], "A": []}

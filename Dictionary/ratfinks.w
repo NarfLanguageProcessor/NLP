@@ -1,1 +1,1 @@
-{"index": 261002, "D": "fink (defs. 3, 4). ", "S": ["announcer "], "A": []}
+{"index": 261002, "D": "fink (defs. 3, 4). ", "S": ["announcer"], "A": []}

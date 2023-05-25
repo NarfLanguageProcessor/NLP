@@ -1,1 +1,1 @@
-{"index": 322504, "D": "the state of being a thrall;  bondage; slavery; servitude.", "S": ["captivity ", "confinement ", "custody ", "incarceration ", "isolation "], "A": ["freedom ", "liberation ", "liberty "]}
+{"index": 322504, "D": "the state of being a thrall;  bondage; slavery; servitude.", "S": ["captivity", "confinement", "custody", "incarceration", "isolation"], "A": ["freedom", "liberation", "liberty"]}

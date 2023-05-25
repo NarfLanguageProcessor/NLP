@@ -1,1 +1,1 @@
-{"index": 247502, "D": "of, relating to, or of the nature of a preface", "S": ["beginning ", "initiative ", "introductory ", "preliminary "], "A": []}
+{"index": 247502, "D": "of, relating to, or of the nature of a preface", "S": ["beginning", "initiative", "introductory", "preliminary"], "A": []}

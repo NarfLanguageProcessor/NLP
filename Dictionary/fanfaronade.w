@@ -1,1 +1,1 @@
-{"index": 109702, "D": "bragging; bravado; bluster.", "S": ["bluster ", "boasting ", "bombast ", "brag ", "braggadocio ", "bravado ", "crowing ", "gasconade ", "gloating ", "rodomontade ", "swagger ", "swaggering "], "A": []}
+{"index": 109702, "D": "bragging; bravado; bluster.", "S": ["bluster", "boasting", "bombast", "brag", "braggadocio", "bravado", "crowing", "gasconade", "gloating", "rodomontade", "swagger", "swaggering"], "A": []}

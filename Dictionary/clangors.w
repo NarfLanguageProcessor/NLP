@@ -1,1 +1,1 @@
-{"index": 59206, "D": "a loud, resonant sound; clang. ", "S": ["blare ", "noise ", "peal "], "A": ["quiet "]}
+{"index": 59206, "D": "a loud, resonant sound; clang. ", "S": ["blare", "noise", "peal"], "A": ["quiet"]}

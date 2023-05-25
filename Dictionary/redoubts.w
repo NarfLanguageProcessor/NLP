@@ -1,1 +1,1 @@
-{"index": 264379, "D": "an independent earthwork built within a permanent fortification to reinforce it.", "S": ["bastion ", "fortress ", "mainstay "], "A": ["harm ", "hurt ", "injury "]}
+{"index": 264379, "D": "an independent earthwork built within a permanent fortification to reinforce it.", "S": ["bastion", "fortress", "mainstay"], "A": ["harm", "hurt", "injury"]}

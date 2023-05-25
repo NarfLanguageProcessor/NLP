@@ -1,1 +1,1 @@
-{"index": 104854, "D": "to make eternal;  perpetuate.", "S": ["eternalize ", "memorialize ", "preserve "], "A": []}
+{"index": 104854, "D": "to make eternal;  perpetuate.", "S": ["eternalize", "memorialize", "preserve"], "A": []}

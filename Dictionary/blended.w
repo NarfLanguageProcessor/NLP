@@ -1,0 +1,1 @@
+{"index": 36034, "D": "to mix smoothly and inseparably together", "S": ["attenuated", "contaminated", "corrupt", "defiled", "degraded", "depreciated", "deteriorated", "devalued", "diluted", "dissolved", "impaired", "mixed", "polluted", "tainted", "thinned", "vitiated", "weakened"], "A": ["clean", "honorable", "pure", "purified", "strong"]}

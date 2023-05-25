@@ -1,1 +1,1 @@
-{"index": 245449, "D": "to proclaim or make known by sermon (the gospel, good tidings, etc.).", "S": ["exhort ", "teach "], "A": []}
+{"index": 245449, "D": "to proclaim or make known by sermon (the gospel, good tidings, etc.).", "S": ["exhort", "teach"], "A": []}

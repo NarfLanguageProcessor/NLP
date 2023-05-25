@@ -1,1 +1,1 @@
-{"index": 29987, "D": "forcefully impressed, especially so as to be blind to faults or shortcomings", "S": ["captivated ", "delighted ", "mesmerized "], "A": ["disenchanted ", "disinterested "]}
+{"index": 29987, "D": "forcefully impressed, especially so as to be blind to faults or shortcomings", "S": ["captivated", "delighted", "mesmerized"], "A": ["disenchanted", "disinterested"]}

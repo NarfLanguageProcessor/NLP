@@ -1,1 +1,1 @@
-{"index": 335519, "D": "not aware or conscious; unconscious", "S": ["heedless ", "negligent ", "oblivious ", "unconcerned ", "unfamiliar ", "uninformed "], "A": ["attentive ", "careful ", "caring ", "concerned ", "mindful "]}
+{"index": 335519, "D": "not aware or conscious; unconscious", "S": ["heedless", "negligent", "oblivious", "unconcerned", "unfamiliar", "uninformed"], "A": ["attentive", "careful", "caring", "concerned", "mindful"]}

@@ -1,1 +1,1 @@
-{"index": 296319, "D": "a section cut or torn from the surface of grassland, containing the matted roots of grass.", "S": ["turf "], "A": []}
+{"index": 296319, "D": "a section cut or torn from the surface of grassland, containing the matted roots of grass.", "S": ["turf"], "A": []}

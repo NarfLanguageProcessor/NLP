@@ -1,1 +1,1 @@
-{"index": 215060, "D": "to spell correctly or according to the rules of orthography. ", "S": ["add up to ", "augur ", "indicate ", "intend ", "portend ", "presage ", "signify ", "suggest "], "A": []}
+{"index": 215060, "D": "to spell correctly or according to the rules of orthography. ", "S": ["add up to", "augur", "indicate", "intend", "portend", "presage", "signify", "suggest"], "A": []}

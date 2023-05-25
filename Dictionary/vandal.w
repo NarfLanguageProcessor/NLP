@@ -1,1 +1,1 @@
-{"index": 356934, "D": "a member of a Germanic people who in the 5th century a.d. ravaged Gaul and Spain, settled in Africa, and in a.d. 455 sacked Rome.", "S": ["despoiler ", "destroyer ", "hoodlum ", "looter ", "mischief-maker ", "pillager ", "pirate ", "plunderer ", "thief "], "A": []}
+{"index": 356934, "D": "a member of a Germanic people who in the 5th century a.d. ravaged Gaul and Spain, settled in Africa, and in a.d. 455 sacked Rome.", "S": ["despoiler", "destroyer", "hoodlum", "looter", "mischief-maker", "pillager", "pirate", "plunderer", "thief"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 90317, "D": "capable of being divided; divisible. ", "S": ["breakable ", "detachable ", "dissoluble ", "dissolvable ", "distinct ", "distinguishable ", "divided ", "partible ", "separated ", "severable "], "A": ["indivisible ", "inseparable "]}
+{"index": 90317, "D": "capable of being divided; divisible. ", "S": ["breakable", "detachable", "dissoluble", "dissolvable", "distinct", "distinguishable", "divided", "partible", "separated", "severable"], "A": ["indivisible", "inseparable"]}

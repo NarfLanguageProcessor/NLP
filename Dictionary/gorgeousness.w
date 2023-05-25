@@ -1,1 +1,1 @@
-{"index": 128085, "D": "splendid or sumptuous in appearance, coloring, etc.; magnificent", "S": ["brilliance ", "brilliancy ", "glamour ", "glory ", "magnificence ", "radiance ", "resplendence ", "resplendency ", "sparkle ", "splendor ", "sumptuousness "], "A": []}
+{"index": 128085, "D": "splendid or sumptuous in appearance, coloring, etc.; magnificent", "S": ["brilliance", "brilliancy", "glamour", "glory", "magnificence", "radiance", "resplendence", "resplendency", "sparkle", "splendor", "sumptuousness"], "A": []}

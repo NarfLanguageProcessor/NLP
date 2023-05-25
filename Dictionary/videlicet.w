@@ -1,1 +1,1 @@
-{"index": 359507, "D": "that is to say; namely (used especially to introduce examples, details, etc.)", "S": ["namely ", "that is "], "A": []}
+{"index": 359507, "D": "that is to say; namely (used especially to introduce examples, details, etc.)", "S": ["namely", "that is"], "A": []}

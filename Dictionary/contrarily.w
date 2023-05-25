@@ -1,1 +1,1 @@
-{"index": 67706, "D": "in a perverse or obstinate manner", "S": ["contrariwise ", "in opposition ", "on the other hand ", "to the contrary "], "A": []}
+{"index": 67706, "D": "in a perverse or obstinate manner", "S": ["contrariwise", "in opposition", "on the other hand", "to the contrary"], "A": []}

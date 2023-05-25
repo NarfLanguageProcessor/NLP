@@ -1,1 +1,1 @@
-{"index": 153609, "D": "characterized by or displaying insight;  perceptive.", "S": ["astute ", "intelligent ", "penetrating ", "sharp ", "shrewd ", "smart "], "A": ["blunt ", "dull ", "foolish ", "idiotic ", "ignorant ", "imbecile ", "slow ", "stupid ", "unintelligent ", "unstylish "]}
+{"index": 153609, "D": "characterized by or displaying insight;  perceptive.", "S": ["astute", "intelligent", "penetrating", "sharp", "shrewd", "smart"], "A": ["blunt", "dull", "foolish", "idiotic", "ignorant", "imbecile", "slow", "stupid", "unintelligent", "unstylish"]}

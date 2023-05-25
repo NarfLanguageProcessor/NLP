@@ -1,1 +1,1 @@
-{"index": 78935, "D": "capable of being deducted. ", "S": ["certain ", "conclusive ", "confirmable ", "demonstrable ", "testable ", "undoubtable ", "verifiable "], "A": []}
+{"index": 78935, "D": "capable of being deducted. ", "S": ["certain", "conclusive", "confirmable", "demonstrable", "testable", "undoubtable", "verifiable"], "A": []}

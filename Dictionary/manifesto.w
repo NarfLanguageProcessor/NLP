@@ -1,1 +1,1 @@
-{"index": 179284, "D": "a public declaration of intentions, opinions, objectives, or motives, as one issued by a government, sovereign, or organization.", "S": ["platform ", "proclamation "], "A": []}
+{"index": 179284, "D": "a public declaration of intentions, opinions, objectives, or motives, as one issued by a government, sovereign, or organization.", "S": ["platform", "proclamation"], "A": []}

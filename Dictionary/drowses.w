@@ -1,1 +1,1 @@
-{"index": 93464, "D": "to be sleepy or half-asleep.", "S": ["catnap ", "nap ", "siesta ", "slumber ", "snooze "], "A": ["awakening ", "consciousness ", "wakefulness "]}
+{"index": 93464, "D": "to be sleepy or half-asleep.", "S": ["catnap", "nap", "siesta", "slumber", "snooze"], "A": ["awakening", "consciousness", "wakefulness"]}

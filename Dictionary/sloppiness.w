@@ -1,1 +1,1 @@
-{"index": 294365, "D": "muddy, slushy, or very wet", "S": ["disorganization ", "messiness ", "slovenliness ", "untidiness "], "A": []}
+{"index": 294365, "D": "muddy, slushy, or very wet", "S": ["disorganization", "messiness", "slovenliness", "untidiness"], "A": []}

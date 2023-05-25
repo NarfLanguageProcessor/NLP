@@ -1,1 +1,1 @@
-{"index": 91290, "D": "of or relating to a domicile,  or place of residence.", "S": ["private "], "A": ["alien ", "business ", "foreign ", "industrial ", "office "]}
+{"index": 91290, "D": "of or relating to a domicile,  or place of residence.", "S": ["private"], "A": ["alien", "business", "foreign", "industrial", "office"]}

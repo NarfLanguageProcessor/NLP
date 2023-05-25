@@ -1,1 +1,1 @@
-{"index": 210776, "D": "of, living in, or produced by the ocean", "S": ["aquatic ", "pelagic ", "seafaring "], "A": []}
+{"index": 210776, "D": "of, living in, or produced by the ocean", "S": ["aquatic", "pelagic", "seafaring"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 29742, "D": "bop1. ", "S": ["Dixieland ", "blues ", "boogie ", "boogie-woogie ", "bop ", "jive ", "ragtime ", "swing "], "A": []}
+{"index": 29742, "D": "bop1. ", "S": ["Dixieland", "blues", "boogie", "boogie-woogie", "bop", "jive", "ragtime", "swing"], "A": []}

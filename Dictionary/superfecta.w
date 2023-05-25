@@ -1,1 +1,0 @@
-{"index": 311831, "D": "a type of bet, especially on horse races, in which the bettor must select the first four finishers in exact order.", "S": [], "A": []}

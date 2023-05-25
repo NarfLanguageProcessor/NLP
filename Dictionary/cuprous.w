@@ -1,1 +1,1 @@
-{"index": 75142, "D": "containing copper in the univalent state, as cuprous oxide, Cu2O.", "S": ["cupreous ", "cupriferous "], "A": []}
+{"index": 75142, "D": "containing copper in the univalent state, as cuprous oxide, Cu2O.", "S": ["cupreous", "cupriferous"], "A": []}

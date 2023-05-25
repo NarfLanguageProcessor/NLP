@@ -1,1 +1,1 @@
-{"index": 21729, "D": "a useful and desirable thing or quality", "S": ["aid ", "benefit ", "credit ", "resource ", "service "], "A": ["hindrance ", "hurt ", "injury ", "disadvantage "]}
+{"index": 21729, "D": "a useful and desirable thing or quality", "S": ["aid", "benefit", "credit", "resource", "service"], "A": ["hindrance", "hurt", "injury", "disadvantage"]}

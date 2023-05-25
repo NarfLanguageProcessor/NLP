@@ -1,1 +1,1 @@
-{"index": 281610, "D": "to break, mar, or mark the surface of by rubbing, scraping, or tearing with something sharp or rough", "S": ["blemish ", "laceration ", "scrape "], "A": []}
+{"index": 281610, "D": "to break, mar, or mark the surface of by rubbing, scraping, or tearing with something sharp or rough", "S": ["blemish", "laceration", "scrape"], "A": []}

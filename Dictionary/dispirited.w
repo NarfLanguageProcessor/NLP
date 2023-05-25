@@ -1,1 +1,1 @@
-{"index": 89030, "D": "discouraged; dejected; disheartened; gloomy.", "S": ["crestfallen ", "depressed ", "despondent ", "disheartened ", "glum "], "A": ["cheerful ", "elated ", "encouraged ", "happy ", "heartened "]}
+{"index": 89030, "D": "discouraged; dejected; disheartened; gloomy.", "S": ["crestfallen", "depressed", "despondent", "disheartened", "glum"], "A": ["cheerful", "elated", "encouraged", "happy", "heartened"]}

@@ -1,1 +1,1 @@
-{"index": 138704, "D": "noting or pertaining to that form of hydrozoan that is asexual and grows into branching colonies by budding.", "S": ["tumor "], "A": []}
+{"index": 138704, "D": "noting or pertaining to that form of hydrozoan that is asexual and grows into branching colonies by budding.", "S": ["tumor"], "A": []}

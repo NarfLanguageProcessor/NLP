@@ -1,1 +1,1 @@
-{"index": 128669, "D": "an iron instrument with barbed prongs, for spearing or harpooning fish.", "S": ["rubble "], "A": []}
+{"index": 128669, "D": "an iron instrument with barbed prongs, for spearing or harpooning fish.", "S": ["rubble"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 335955, "D": "to mix smoothly and inseparably together", "S": ["concentrated ", "full-strength ", "neat ", "out-and-out ", "plain ", "pure ", "strong ", "thoroughgoing ", "unadulterated ", "undiluted ", "unmixed ", "unmodified ", "unqualified "], "A": []}
+{"index": 335955, "D": "to mix smoothly and inseparably together", "S": ["concentrated", "full-strength", "neat", "out-and-out", "plain", "pure", "strong", "thoroughgoing", "unadulterated", "undiluted", "unmixed", "unmodified", "unqualified"], "A": []}

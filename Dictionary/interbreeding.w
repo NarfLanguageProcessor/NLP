@@ -1,1 +1,1 @@
-{"index": 154527, "D": "to crossbreed (a plant or animal).", "S": ["Electral love ", "Oedipal love "], "A": []}
+{"index": 154527, "D": "to crossbreed (a plant or animal).", "S": ["Electral love", "Oedipal love"], "A": []}

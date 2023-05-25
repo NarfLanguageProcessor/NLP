@@ -1,1 +1,1 @@
-{"index": 268587, "D": "to find fault with (a person, group, etc.); blame; censure.", "S": ["admonish ", "chide ", "discredit ", "rebuke ", "reprimand ", "scold ", "upbraid "], "A": ["commend ", "compliment ", "flatter ", "laud ", "praise ", "approve ", "exalt ", "exonerate ", "sanction "]}
+{"index": 268587, "D": "to find fault with (a person, group, etc.); blame; censure.", "S": ["admonish", "chide", "discredit", "rebuke", "reprimand", "scold", "upbraid"], "A": ["commend", "compliment", "flatter", "laud", "praise", "approve", "exalt", "exonerate", "sanction"]}

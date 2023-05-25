@@ -1,1 +1,1 @@
-{"index": 144888, "D": "the quality or condition of being human or characteristic of humans", "S": ["humankind ", "mankind ", "society "], "A": []}
+{"index": 144888, "D": "the quality or condition of being human or characteristic of humans", "S": ["humankind", "mankind", "society"], "A": []}

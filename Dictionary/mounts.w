@@ -1,1 +1,1 @@
-{"index": 194254, "D": "to go up; climb; ascend", "S": ["arise ", "escalate ", "go up ", "rise ", "soar "], "A": ["decrease ", "lessen ", "lower ", "descend "]}
+{"index": 194254, "D": "to go up; climb; ascend", "S": ["arise", "escalate", "go up", "rise", "soar"], "A": ["decrease", "lessen", "lower", "descend"]}

@@ -1,1 +1,1 @@
-{"index": 223267, "D": "a friend or close associate; chum; comrade. ", "S": ["amigo ", "associate ", "brother ", "buddy ", "chum ", "companion ", "comrade ", "crony ", "homeboy ", "homegirl ", "mate ", "sidekick ", "sis ", "sister "], "A": ["enemy ", "foe ", "opponent ", "stranger "]}
+{"index": 223267, "D": "a friend or close associate; chum; comrade. ", "S": ["amigo", "associate", "brother", "buddy", "chum", "companion", "comrade", "crony", "homeboy", "homegirl", "mate", "sidekick", "sis", "sister"], "A": ["enemy", "foe", "opponent", "stranger"]}

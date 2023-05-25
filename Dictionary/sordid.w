@@ -1,1 +1,1 @@
-{"index": 297551, "D": "morally ignoble or base; vile", "S": ["disreputable ", "nasty ", "shameful ", "sleazy ", "squalid ", "vile "], "A": ["clean ", "decent ", "good ", "kind ", "nice ", "reputable ", "respectable "]}
+{"index": 297551, "D": "morally ignoble or base; vile", "S": ["disreputable", "nasty", "shameful", "sleazy", "squalid", "vile"], "A": ["clean", "decent", "good", "kind", "nice", "reputable", "respectable"]}

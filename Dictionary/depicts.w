@@ -1,1 +1,1 @@
-{"index": 81625, "D": "to represent by or as if by painting or other visual image; portray; delineate. ", "S": ["characterize ", "detail ", "illustrate ", "interpret ", "paint ", "portray ", "represent ", "reproduce ", "sketch "], "A": ["hide ", "conceal ", "suppress "]}
+{"index": 81625, "D": "to represent by or as if by painting or other visual image; portray; delineate. ", "S": ["characterize", "detail", "illustrate", "interpret", "paint", "portray", "represent", "reproduce", "sketch"], "A": ["hide", "conceal", "suppress"]}

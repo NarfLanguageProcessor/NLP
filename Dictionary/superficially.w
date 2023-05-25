@@ -1,1 +1,1 @@
-{"index": 311853, "D": "being at, on, or near the surface", "S": ["outwardly "], "A": ["carefully ", "deeply ", "thoroughly "]}
+{"index": 311853, "D": "being at, on, or near the surface", "S": ["outwardly"], "A": ["carefully", "deeply", "thoroughly"]}

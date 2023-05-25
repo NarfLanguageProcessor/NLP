@@ -1,1 +1,1 @@
-{"index": 326487, "D": "a natural object or an animate being, as an animal or bird, assumed as the emblem of a clan, family, or group.", "S": ["emblem "], "A": []}
+{"index": 326487, "D": "a natural object or an animate being, as an animal or bird, assumed as the emblem of a clan, family, or group.", "S": ["emblem"], "A": []}

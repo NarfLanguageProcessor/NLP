@@ -1,1 +1,1 @@
-{"index": 275741, "D": "the act of breaking or bursting", "S": ["breach ", "fissure ", "fracture ", "hernia ", "schism "], "A": ["agreement ", "closing ", "closure ", "harmony ", "peace "]}
+{"index": 275741, "D": "the act of breaking or bursting", "S": ["breach", "fissure", "fracture", "hernia", "schism"], "A": ["agreement", "closing", "closure", "harmony", "peace"]}

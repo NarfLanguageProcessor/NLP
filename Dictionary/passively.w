@@ -1,1 +1,1 @@
-{"index": 227363, "D": "without emotion, reaction, or resistance", "S": ["calmly "], "A": []}
+{"index": 227363, "D": "without emotion, reaction, or resistance", "S": ["calmly"], "A": []}

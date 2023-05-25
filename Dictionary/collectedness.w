@@ -1,1 +1,1 @@
-{"index": 62896, "D": "having control of one's faculties; self-possessed", "S": ["aplomb ", "composure ", "cool ", "coolness ", "equanimity ", "imperturbability ", "imperturbableness ", "poise ", "sang-froid ", "self-possession ", "steadiness ", "unflappability "], "A": []}
+{"index": 62896, "D": "having control of one's faculties; self-possessed", "S": ["aplomb", "composure", "cool", "coolness", "equanimity", "imperturbability", "imperturbableness", "poise", "sang-froid", "self-possession", "steadiness", "unflappability"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 43546, "D": "a sculptured, painted, drawn, or engraved representation of the upper part of the human figure, especially a portrait sculpture showing only the head and shoulders of the subject.", "S": ["bosom ", "breast ", "chest ", "front "], "A": ["back "]}
+{"index": 43546, "D": "a sculptured, painted, drawn, or engraved representation of the upper part of the human figure, especially a portrait sculpture showing only the head and shoulders of the subject.", "S": ["bosom", "breast", "chest", "front"], "A": ["back"]}

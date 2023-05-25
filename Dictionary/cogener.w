@@ -1,1 +1,1 @@
-{"index": 62204, "D": [], "S": ["analog ", "analogue ", "congenator ", "correspondent ", "counterpart ", "match ", "relative "], "A": []}
+{"index": 62204, "D": [], "S": ["analog", "analogue", "congenator", "correspondent", "counterpart", "match", "relative"], "A": []}

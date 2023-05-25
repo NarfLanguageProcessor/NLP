@@ -1,1 +1,1 @@
-{"index": 173086, "D": "to treat (a person) as a celebrity", "S": ["eulogize ", "glorify ", "idolize "], "A": ["condemn ", "criticize ", "censure ", "debase ", "denounce ", "disgrace ", "dishonor ", "disrespect ", "reproach "]}
+{"index": 173086, "D": "to treat (a person) as a celebrity", "S": ["eulogize", "glorify", "idolize"], "A": ["condemn", "criticize", "censure", "debase", "denounce", "disgrace", "dishonor", "disrespect", "reproach"]}

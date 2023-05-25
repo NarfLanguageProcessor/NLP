@@ -1,1 +1,1 @@
-{"index": 35755, "D": "flattering or wheedling talk; cajolery. ", "S": ["confuse ", "cover up ", "disguise ", "distort ", "exaggerate ", "falsify ", "misinterpret ", "misstate ", "overstate ", "skew "], "A": ["leave alone ", "represent ", "reveal ", "straighten ", "uncover "]}
+{"index": 35755, "D": "flattering or wheedling talk; cajolery. ", "S": ["confuse", "cover up", "disguise", "distort", "exaggerate", "falsify", "misinterpret", "misstate", "overstate", "skew"], "A": ["leave alone", "represent", "reveal", "straighten", "uncover"]}

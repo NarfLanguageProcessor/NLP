@@ -1,1 +1,1 @@
-{"index": 17275, "D": "to offer an apology  or excuse for some fault, insult, failure, or injury", "S": ["atone ", "confess ", "retract ", "withdraw "], "A": ["defy "]}
+{"index": 17275, "D": "to offer an apology  or excuse for some fault, insult, failure, or injury", "S": ["atone", "confess", "retract", "withdraw"], "A": ["defy"]}

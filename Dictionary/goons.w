@@ -1,1 +1,1 @@
-{"index": 127969, "D": "a hired hoodlum  or thug. ", "S": ["hooligan ", "thug "], "A": []}
+{"index": 127969, "D": "a hired hoodlum  or thug. ", "S": ["hooligan", "thug"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197363, "D": "the material world, especially as surrounding humankind and existing independently of human activities.", "S": ["description ", "essence ", "humor ", "mood ", "personality ", "quality ", "type "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 197363, "D": "the material world, especially as surrounding humankind and existing independently of human activities.", "S": ["description", "essence", "humor", "mood", "personality", "quality", "type"], "A": ["exterior", "exteriority", "outside"]}

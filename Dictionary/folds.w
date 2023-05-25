@@ -1,1 +1,1 @@
-{"index": 115867, "D": "to bend (cloth, paper, etc.) over upon itself.", "S": ["applique ", "backing ", "binding ", "braid ", "embroidery ", "hem ", "lining ", "overlay ", "piping ", "trim ", "tucks "], "A": []}
+{"index": 115867, "D": "to bend (cloth, paper, etc.) over upon itself.", "S": ["applique", "backing", "binding", "braid", "embroidery", "hem", "lining", "overlay", "piping", "trim", "tucks"], "A": []}

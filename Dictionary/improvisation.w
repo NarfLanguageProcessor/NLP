@@ -1,1 +1,1 @@
-{"index": 149198, "D": "the art or act of improvising,  or of composing, uttering, executing, or arranging anything without previous preparation", "S": ["spontaneity "], "A": []}
+{"index": 149198, "D": "the art or act of improvising,  or of composing, uttering, executing, or arranging anything without previous preparation", "S": ["spontaneity"], "A": []}

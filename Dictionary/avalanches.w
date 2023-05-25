@@ -1,1 +1,1 @@
-{"index": 24583, "D": "a large mass of snow, ice, etc., detached from a mountain slope and sliding or falling suddenly downward.", "S": ["barrage ", "deluge ", "flood ", "landslide ", "torrent "], "A": []}
+{"index": 24583, "D": "a large mass of snow, ice, etc., detached from a mountain slope and sliding or falling suddenly downward.", "S": ["barrage", "deluge", "flood", "landslide", "torrent"], "A": []}

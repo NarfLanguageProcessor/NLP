@@ -1,1 +1,1 @@
-{"index": 310078, "D": "the hard fatty tissue about the loins and kidneys of beef, sheep, etc., used in cooking or processed to yield tallow.", "S": ["flesh ", "grease ", "lard "], "A": []}
+{"index": 310078, "D": "the hard fatty tissue about the loins and kidneys of beef, sheep, etc., used in cooking or processed to yield tallow.", "S": ["flesh", "grease", "lard"], "A": []}

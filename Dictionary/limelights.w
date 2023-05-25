@@ -1,1 +1,0 @@
-{"index": 172347, "D": "a lighting  unit, especially a spotlight.", "S": ["glare ", "prominence ", "public eye ", "spotlight "], "A": ["obscurity "]}

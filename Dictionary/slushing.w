@@ -1,1 +1,1 @@
-{"index": 294638, "D": "partly melted snow.", "S": ["begrime ", "dirty ", "grime ", "mire ", "muck ", "slush ", "soil "], "A": ["clean "]}
+{"index": 294638, "D": "partly melted snow.", "S": ["begrime", "dirty", "grime", "mire", "muck", "slush", "soil"], "A": ["clean"]}

@@ -1,1 +1,1 @@
-{"index": 694, "D": "to regard with intense aversion or loathing; abhor.", "S": ["abhor ", "despise ", "dislike ", "hate ", "loathe "], "A": ["admire ", "approve ", "cherish ", "like ", "love "]}
+{"index": 694, "D": "to regard with intense aversion or loathing; abhor.", "S": ["abhor", "despise", "dislike", "hate", "loathe"], "A": ["admire", "approve", "cherish", "like", "love"]}

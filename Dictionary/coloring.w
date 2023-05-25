@@ -1,1 +1,1 @@
-{"index": 63356, "D": "the act or method of applying color. ", "S": ["complexion ", "shading "], "A": []}
+{"index": 63356, "D": "the act or method of applying color. ", "S": ["complexion", "shading"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 87856, "D": [], "S": ["disclose ", "resurrect ", "unearth "], "A": ["bury "]}
+{"index": 87856, "D": [], "S": ["disclose", "resurrect", "unearth"], "A": ["bury"]}

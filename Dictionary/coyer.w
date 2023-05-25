@@ -1,1 +1,1 @@
-{"index": 62429, "D": "artfully or affectedly shy or reserved; slyly hesitant; coquettish. ", "S": ["bashful ", "evasive ", "self-effacing ", "skittish ", "timid "], "A": ["aggressive ", "forward ", "immodest ", "impudent "]}
+{"index": 62429, "D": "artfully or affectedly shy or reserved; slyly hesitant; coquettish. ", "S": ["bashful", "evasive", "self-effacing", "skittish", "timid"], "A": ["aggressive", "forward", "immodest", "impudent"]}

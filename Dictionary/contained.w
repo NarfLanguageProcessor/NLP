@@ -1,1 +1,1 @@
-{"index": 67255, "D": "showing restraint or calmness; controlled; poised", "S": ["composed ", "disciplined ", "guarded ", "restrained "], "A": ["agitated ", "excited "]}
+{"index": 67255, "D": "showing restraint or calmness; controlled; poised", "S": ["composed", "disciplined", "guarded", "restrained"], "A": ["agitated", "excited"]}

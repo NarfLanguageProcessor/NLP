@@ -1,1 +1,1 @@
-{"index": 139682, "D": "the posterior end of a halved carcass of beef, lamb, etc., sectioned usually between the twelfth and thirteenth ribs.", "S": ["backside ", "extremity ", "hind ", "posterior ", "rear ", "reverse ", "stern ", "tail ", "tailpiece "], "A": ["front "]}
+{"index": 139682, "D": "the posterior end of a halved carcass of beef, lamb, etc., sectioned usually between the twelfth and thirteenth ribs.", "S": ["backside", "extremity", "hind", "posterior", "rear", "reverse", "stern", "tail", "tailpiece"], "A": ["front"]}

@@ -1,1 +1,0 @@
-{"index": 170849, "D": "to become less.", "S": ["abating ", "declining ", "diminishing ", "dropping ", "dwindling ", "ebbing ", "lightening ", "lowering ", "moderating ", "narrowing ", "plummeting ", "plunging ", "quieting ", "sagging ", "shrinking ", "sinking ", "slackening ", "slowing ", "slumping ", "softening ", "subsiding ", "waning ", "wasting ", "weakening "], "A": []}

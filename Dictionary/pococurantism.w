@@ -1,1 +1,1 @@
-{"index": 240967, "D": "a careless or indifferent person.", "S": ["apathy ", "disgust ", "ennui ", "fatigue ", "indifference ", "lethargy ", "monotony ", "tedium "], "A": ["concern ", "energy ", "excitement ", "feeling ", "interest ", "liveliness ", "sympathy ", "vigor "]}
+{"index": 240967, "D": "a careless or indifferent person.", "S": ["apathy", "disgust", "ennui", "fatigue", "indifference", "lethargy", "monotony", "tedium"], "A": ["concern", "energy", "excitement", "feeling", "interest", "liveliness", "sympathy", "vigor"]}

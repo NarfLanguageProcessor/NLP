@@ -1,1 +1,1 @@
-{"index": 29673, "D": "to make or become beautiful. ", "S": ["adorn ", "bedeck ", "decorate "], "A": ["decrease ", "harm ", "hurt ", "worsen "]}
+{"index": 29673, "D": "to make or become beautiful. ", "S": ["adorn", "bedeck", "decorate"], "A": ["decrease", "harm", "hurt", "worsen"]}

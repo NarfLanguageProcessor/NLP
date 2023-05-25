@@ -1,1 +1,1 @@
-{"index": 289381, "D": "to shove or turn (someone or something) aside or out of the way.", "S": ["avoid ", "deter ", "fend off ", "foil ", "forestall ", "halt ", "preclude ", "prevent ", "rule out ", "ward off "], "A": ["aid ", "allow ", "assist ", "help ", "support "]}
+{"index": 289381, "D": "to shove or turn (someone or something) aside or out of the way.", "S": ["avoid", "deter", "fend off", "foil", "forestall", "halt", "preclude", "prevent", "rule out", "ward off"], "A": ["aid", "allow", "assist", "help", "support"]}

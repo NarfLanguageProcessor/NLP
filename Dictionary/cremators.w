@@ -1,1 +1,1 @@
-{"index": 72603, "D": "a person who cremates.", "S": ["boiler ", "heater ", "heating system ", "incinerator ", "kiln ", "stove "], "A": ["freezer "]}
+{"index": 72603, "D": "a person who cremates.", "S": ["boiler", "heater", "heating system", "incinerator", "kiln", "stove"], "A": ["freezer"]}

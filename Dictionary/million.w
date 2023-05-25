@@ -1,1 +1,1 @@
-{"index": 187421, "D": "a cardinal number, a thousand times one thousand.", "S": ["bank ", "lot ", "much ", "sum ", "thousand ", "ton ", "total ", "trillion "], "A": ["little ", "part ", "debt ", "ditch ", "individual ", "lack ", "need ", "one ", "valley ", "want "]}
+{"index": 187421, "D": "a cardinal number, a thousand times one thousand.", "S": ["bank", "lot", "much", "sum", "thousand", "ton", "total", "trillion"], "A": ["little", "part", "debt", "ditch", "individual", "lack", "need", "one", "valley", "want"]}

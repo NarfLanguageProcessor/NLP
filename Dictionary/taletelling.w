@@ -1,1 +1,1 @@
-{"index": 315600, "D": "a telltale; talebearer.", "S": ["blabby ", "dishing ", "prattling ", "repeating ", "talebearing ", "tattling "], "A": []}
+{"index": 315600, "D": "a telltale; talebearer.", "S": ["blabby", "dishing", "prattling", "repeating", "talebearing", "tattling"], "A": []}

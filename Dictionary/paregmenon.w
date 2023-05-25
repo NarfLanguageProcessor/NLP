@@ -1,1 +1,0 @@
-{"index": 226332, "D": "the juxtaposition of words that have a common derivation, as in \u201csense and sensibility.\u201d", "S": [], "A": []}

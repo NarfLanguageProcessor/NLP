@@ -1,1 +1,1 @@
-{"index": 294935, "D": "a worker in metal.", "S": ["artisan "], "A": ["apprentice ", "unskilled worker "]}
+{"index": 294935, "D": "a worker in metal.", "S": ["artisan"], "A": ["apprentice", "unskilled worker"]}

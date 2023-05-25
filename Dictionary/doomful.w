@@ -1,1 +1,1 @@
-{"index": 91520, "D": "foreshadowing doom;  portentously direful; ominous.", "S": ["crucial ", "decisive ", "eventful ", "momentous "], "A": ["insignificant ", "trivial ", "unimportant "]}
+{"index": 91520, "D": "foreshadowing doom;  portentously direful; ominous.", "S": ["crucial", "decisive", "eventful", "momentous"], "A": ["insignificant", "trivial", "unimportant"]}

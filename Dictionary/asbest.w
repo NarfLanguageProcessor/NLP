@@ -1,1 +1,1 @@
-{"index": 20869, "D": [], "S": ["also ", "simultaneously ", "too "], "A": ["apart ", "far ", "separate "]}
+{"index": 20869, "D": [], "S": ["also", "simultaneously", "too"], "A": ["apart", "far", "separate"]}

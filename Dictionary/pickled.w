@@ -1,1 +1,1 @@
-{"index": 235904, "D": "preserved or steeped in brine or other liquid.", "S": ["glazed ", "stewed "], "A": ["sober ", "straight "]}
+{"index": 235904, "D": "preserved or steeped in brine or other liquid.", "S": ["glazed", "stewed"], "A": ["sober", "straight"]}

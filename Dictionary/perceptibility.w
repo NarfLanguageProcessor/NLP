@@ -1,1 +1,1 @@
-{"index": 230388, "D": "capable of being perceived;  recognizable; appreciable", "S": ["clarity ", "discernability "], "A": []}
+{"index": 230388, "D": "capable of being perceived;  recognizable; appreciable", "S": ["clarity", "discernability"], "A": []}

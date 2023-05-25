@@ -1,1 +1,1 @@
-{"index": 68039, "D": "to talk informally with another or others; exchange views, opinions, etc., by talking.", "S": ["consulting ", "counseling ", "deliberating ", "discussing ", "meeting ", "talking "], "A": []}
+{"index": 68039, "D": "to talk informally with another or others; exchange views, opinions, etc., by talking.", "S": ["consulting", "counseling", "deliberating", "discussing", "meeting", "talking"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 170824, "D": "female sexual desire or behavior directed toward people of the same sex or gender; gay female sexual orientation. ", "S": ["femininity ", "homosexuality ", "masculinity "], "A": []}
+{"index": 170824, "D": "female sexual desire or behavior directed toward people of the same sex or gender; gay female sexual orientation. ", "S": ["femininity", "homosexuality", "masculinity"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64150, "D": "an article of trade or commerce, especially a product as distinguished from a service.", "S": ["cargo ", "freight ", "stock ", "textile "], "A": []}
+{"index": 64150, "D": "an article of trade or commerce, especially a product as distinguished from a service.", "S": ["cargo", "freight", "stock", "textile"], "A": []}

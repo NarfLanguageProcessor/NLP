@@ -1,1 +1,1 @@
-{"index": 175710, "D": "a small, flavored tablet made from sugar or syrup, often medicated, originally diamond-shaped.", "S": ["capsule ", "pill ", "tablet "], "A": []}
+{"index": 175710, "D": "a small, flavored tablet made from sugar or syrup, often medicated, originally diamond-shaped.", "S": ["capsule", "pill", "tablet"], "A": []}

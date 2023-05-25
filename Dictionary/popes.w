@@ -1,1 +1,1 @@
-{"index": 243217, "D": "the bishop of Rome as head of the Roman Catholic Church.", "S": ["pontiff "], "A": []}
+{"index": 243217, "D": "the bishop of Rome as head of the Roman Catholic Church.", "S": ["pontiff"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 57622, "D": "a belt or girdle.", "S": ["band ", "begird ", "belt ", "cincture ", "circle ", "compass ", "encompass ", "engirdle ", "gird ", "girdle ", "ring ", "surround "], "A": []}
+{"index": 57622, "D": "a belt or girdle.", "S": ["band", "begird", "belt", "cincture", "circle", "compass", "encompass", "engirdle", "gird", "girdle", "ring", "surround"], "A": []}

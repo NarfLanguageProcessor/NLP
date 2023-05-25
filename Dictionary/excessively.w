@@ -1,1 +1,1 @@
-{"index": 106642, "D": "in a way that goes beyond the usual, necessary, or proper limit or degree", "S": ["extremely ", "unreasonably ", "very "], "A": []}
+{"index": 106642, "D": "in a way that goes beyond the usual, necessary, or proper limit or degree", "S": ["extremely", "unreasonably", "very"], "A": []}

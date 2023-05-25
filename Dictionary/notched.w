@@ -1,1 +1,1 @@
-{"index": 208850, "D": "an angular or V-shaped cut, indentation, or slit in an object, surface, or edge.", "S": ["jagged ", "rough ", "serrate ", "serrated "], "A": ["even ", "smooth "]}
+{"index": 208850, "D": "an angular or V-shaped cut, indentation, or slit in an object, surface, or edge.", "S": ["jagged", "rough", "serrate", "serrated"], "A": ["even", "smooth"]}

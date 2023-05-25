@@ -1,1 +1,1 @@
-{"index": 56911, "D": "(used as a word of greeting or parting)", "S": ["adieu ", "bon voyage ", "goodbye "], "A": ["hello "]}
+{"index": 56911, "D": "(used as a word of greeting or parting)", "S": ["adieu", "bon voyage", "goodbye"], "A": ["hello"]}

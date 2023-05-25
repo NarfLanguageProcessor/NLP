@@ -1,1 +1,1 @@
-{"index": 86815, "D": [], "S": ["elegiac ", "gloomy ", "lugubrious ", "mournful ", "solemn ", "somber "], "A": ["cheerful ", "happy ", "joyful ", "light "]}
+{"index": 86815, "D": [], "S": ["elegiac", "gloomy", "lugubrious", "mournful", "solemn", "somber"], "A": ["cheerful", "happy", "joyful", "light"]}

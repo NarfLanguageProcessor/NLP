@@ -1,1 +1,1 @@
-{"index": 327246, "D": "the name used by a manufacturer, merchant, service company, farming business, etc., to identify itself individually as a business.", "S": ["logo ", "logotype ", "registered trademark ", "service mark ", "technical name ", "trademark "], "A": []}
+{"index": 327246, "D": "the name used by a manufacturer, merchant, service company, farming business, etc., to identify itself individually as a business.", "S": ["logo", "logotype", "registered trademark", "service mark", "technical name", "trademark"], "A": []}

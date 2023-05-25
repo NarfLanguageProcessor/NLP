@@ -1,1 +1,1 @@
-{"index": 202193, "D": "a noncommissioned officer. ", "S": ["captain ", "deputy ", "detective ", "police ", "police officer "], "A": []}
+{"index": 202193, "D": "a noncommissioned officer. ", "S": ["captain", "deputy", "detective", "police", "police officer"], "A": []}

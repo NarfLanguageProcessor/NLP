@@ -1,1 +1,1 @@
-{"index": 22786, "D": [], "S": ["apologize ", "redeem "], "A": ["disagree ", "spoil "]}
+{"index": 22786, "D": [], "S": ["apologize", "redeem"], "A": ["disagree", "spoil"]}

@@ -1,1 +1,1 @@
-{"index": 80118, "D": "to fix or mark the limits or boundaries of; demarcate", "S": ["banding ", "bordering ", "bounding ", "circumscribing ", "girdling ", "marking ", "zoning "], "A": []}
+{"index": 80118, "D": "to fix or mark the limits or boundaries of; demarcate", "S": ["banding", "bordering", "bounding", "circumscribing", "girdling", "marking", "zoning"], "A": []}

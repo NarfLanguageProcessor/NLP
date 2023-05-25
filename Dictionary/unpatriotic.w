@@ -1,1 +1,1 @@
-{"index": 347552, "D": "not enthusiastically supporting one's country and its ways of life", "S": ["disaffected ", "untrustworthy "], "A": ["faithful ", "loyal ", "true ", "trustworthy "]}
+{"index": 347552, "D": "not enthusiastically supporting one's country and its ways of life", "S": ["disaffected", "untrustworthy"], "A": ["faithful", "loyal", "true", "trustworthy"]}

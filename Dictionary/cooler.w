@@ -1,1 +1,1 @@
-{"index": 68264, "D": "a container or apparatus, as an insulated chest, in which something may be cooled  or kept cool. ", "S": ["container "], "A": []}
+{"index": 68264, "D": "a container or apparatus, as an insulated chest, in which something may be cooled  or kept cool. ", "S": ["container"], "A": []}

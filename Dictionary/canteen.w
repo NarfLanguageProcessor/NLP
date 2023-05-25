@@ -1,1 +1,1 @@
-{"index": 46586, "D": "a small container used especially by soldiers and hikers for carrying water or other liquids.", "S": ["chuck wagon ", "mobile kitchen ", "snack bar ", "snack shop "], "A": []}
+{"index": 46586, "D": "a small container used especially by soldiers and hikers for carrying water or other liquids.", "S": ["chuck wagon", "mobile kitchen", "snack bar", "snack shop"], "A": []}

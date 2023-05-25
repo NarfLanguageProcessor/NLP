@@ -1,1 +1,1 @@
-{"index": 67942, "D": "to come together or assemble, usually for some public purpose.", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}
+{"index": 67942, "D": "to come together or assemble, usually for some public purpose.", "S": ["accumulated", "collected", "concentrated", "huddled", "massed", "reunited"], "A": ["separated"]}

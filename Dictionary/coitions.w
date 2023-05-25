@@ -1,1 +1,1 @@
-{"index": 62586, "D": "coitus; sexual intercourse. ", "S": ["coitus ", "copulation ", "fornication ", "intercourse ", "intimacy ", "lovemaking ", "procreation ", "relations ", "sex ", "sex act ", "sexual congress ", "sexual relation "], "A": []}
+{"index": 62586, "D": "coitus; sexual intercourse. ", "S": ["coitus", "copulation", "fornication", "intercourse", "intimacy", "lovemaking", "procreation", "relations", "sex", "sex act", "sexual congress", "sexual relation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 90324, "D": "a number that is to be divided by a divisor.", "S": ["allowance ", "bonus ", "coupon ", "gain ", "premium ", "proceeds ", "remittance ", "reward ", "surplus "], "A": ["loss "]}
+{"index": 90324, "D": "a number that is to be divided by a divisor.", "S": ["allowance", "bonus", "coupon", "gain", "premium", "proceeds", "remittance", "reward", "surplus"], "A": ["loss"]}

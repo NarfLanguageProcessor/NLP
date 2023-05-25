@@ -1,1 +1,1 @@
-{"index": 196427, "D": "any very wealthy, influential, or powerful person.", "S": ["deputy ", "dignitary ", "governor ", "magnate ", "nawab ", "notable ", "tycoon ", "viceroy "], "A": []}
+{"index": 196427, "D": "any very wealthy, influential, or powerful person.", "S": ["deputy", "dignitary", "governor", "magnate", "nawab", "notable", "tycoon", "viceroy"], "A": []}

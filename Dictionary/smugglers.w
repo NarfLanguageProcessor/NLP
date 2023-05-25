@@ -1,1 +1,1 @@
-{"index": 295142, "D": "to import or export (goods) secretly, in violation of the law, especially without payment of legal duty.", "S": ["dealer ", "pirate "], "A": []}
+{"index": 295142, "D": "to import or export (goods) secretly, in violation of the law, especially without payment of legal duty.", "S": ["dealer", "pirate"], "A": []}

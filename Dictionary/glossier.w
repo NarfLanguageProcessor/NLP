@@ -1,1 +1,1 @@
-{"index": 126670, "D": "having a shiny or lustrous surface.", "S": ["bright ", "gleaming ", "glistening ", "lustrous ", "polished ", "silky ", "sleek ", "slick "], "A": ["dark ", "dull ", "rough ", "stupid ", "unintelligent ", "unpolished "]}
+{"index": 126670, "D": "having a shiny or lustrous surface.", "S": ["bright", "gleaming", "glistening", "lustrous", "polished", "silky", "sleek", "slick"], "A": ["dark", "dull", "rough", "stupid", "unintelligent", "unpolished"]}

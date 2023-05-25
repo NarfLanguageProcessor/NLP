@@ -1,1 +1,1 @@
-{"index": 261729, "D": [], "S": ["feasible ", "obtainable ", "practicable ", "reachable "], "A": ["impossible ", "unreasonable "]}
+{"index": 261729, "D": [], "S": ["feasible", "obtainable", "practicable", "reachable"], "A": ["impossible", "unreasonable"]}

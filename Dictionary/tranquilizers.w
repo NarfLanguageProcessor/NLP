@@ -1,1 +1,1 @@
-{"index": 327644, "D": "a person or thing that tranquilizes. ", "S": ["opiate ", "sedative "], "A": []}
+{"index": 327644, "D": "a person or thing that tranquilizes. ", "S": ["opiate", "sedative"], "A": []}

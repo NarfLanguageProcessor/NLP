@@ -1,0 +1,1 @@
+{"index": 2041, "D": "to turn into vinegar; make or become acetous.", "S": [], "A": []}

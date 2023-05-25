@@ -1,1 +1,1 @@
-{"index": 308378, "D": "to sublease.", "S": ["chartered ", "contracted ", "hired ", "lent ", "let ", "occupied ", "tenanted "], "A": []}
+{"index": 308378, "D": "to sublease.", "S": ["chartered", "contracted", "hired", "lent", "let", "occupied", "tenanted"], "A": []}

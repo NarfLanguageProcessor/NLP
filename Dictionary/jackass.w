@@ -1,1 +1,1 @@
-{"index": 159878, "D": "a male donkey.", "S": ["ass ", "burro ", "donkey ", "jack "], "A": []}
+{"index": 159878, "D": "a male donkey.", "S": ["ass", "burro", "donkey", "jack"], "A": []}

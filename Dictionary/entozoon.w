@@ -1,1 +1,1 @@
-{"index": 101617, "D": "any animal parasite, as an intestinal worm, that lives within the body of its host (opposed to ectozoon).", "S": ["maggot ", "worm "], "A": []}
+{"index": 101617, "D": "any animal parasite, as an intestinal worm, that lives within the body of its host (opposed to ectozoon).", "S": ["maggot", "worm"], "A": []}

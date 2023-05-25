@@ -1,1 +1,1 @@
-{"index": 160615, "D": "the main island of Indonesia. 51,032 sq. mi. (132,173 sq. km).", "S": ["caffeine ", "cappuccino ", "espresso "], "A": []}
+{"index": 160615, "D": "the main island of Indonesia. 51,032 sq. mi. (132,173 sq. km).", "S": ["caffeine", "cappuccino", "espresso"], "A": []}

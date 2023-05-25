@@ -1,1 +1,1 @@
-{"index": 342657, "D": [], "S": ["deceitful ", "dishonest ", "false ", "unfair "], "A": ["fair ", "frank ", "honest ", "just ", "open ", "trustworthy ", "truthful "]}
+{"index": 342657, "D": [], "S": ["deceitful", "dishonest", "false", "unfair"], "A": ["fair", "frank", "honest", "just", "open", "trustworthy", "truthful"]}

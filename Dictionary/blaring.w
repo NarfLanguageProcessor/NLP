@@ -1,1 +1,1 @@
-{"index": 35751, "D": "to emit a loud, raucous sound", "S": ["blasting ", "deafening ", "earsplitting ", "piercing "], "A": []}
+{"index": 35751, "D": "to emit a loud, raucous sound", "S": ["blasting", "deafening", "earsplitting", "piercing"], "A": []}

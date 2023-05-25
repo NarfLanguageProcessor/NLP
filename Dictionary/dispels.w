@@ -1,1 +1,1 @@
-{"index": 88914, "D": "to drive off in various directions; disperse; dissipate", "S": ["allay ", "chase away ", "dismiss ", "disperse ", "dissipate ", "eliminate ", "resolve "], "A": ["accept ", "collect ", "gather ", "keep ", "welcome ", "allow ", "hold ", "permit ", "take in "]}
+{"index": 88914, "D": "to drive off in various directions; disperse; dissipate", "S": ["allay", "chase away", "dismiss", "disperse", "dissipate", "eliminate", "resolve"], "A": ["accept", "collect", "gather", "keep", "welcome", "allow", "hold", "permit", "take in"]}

@@ -1,1 +1,1 @@
-{"index": 66628, "D": "to acquire by force of arms; win in war", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}
+{"index": 66628, "D": "to acquire by force of arms; win in war", "S": ["humbled", "overpowered", "overwhelmed", "routed"], "A": []}

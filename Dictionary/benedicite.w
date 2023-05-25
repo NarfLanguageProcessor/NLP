@@ -1,1 +1,1 @@
-{"index": 31519, "D": "the canticle beginning in Latin Benedicite, omnia opera Domini, and in English \u201cO all ye works of the Lord.\u201d", "S": ["dedication ", "grace "], "A": ["criticism "]}
+{"index": 31519, "D": "the canticle beginning in Latin Benedicite, omnia opera Domini, and in English \u201cO all ye works of the Lord.\u201d", "S": ["dedication", "grace"], "A": ["criticism"]}

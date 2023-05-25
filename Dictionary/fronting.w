@@ -1,1 +1,1 @@
-{"index": 119356, "D": "the foremost part or surface of anything.", "S": ["adverse ", "antagonistic ", "antithetical ", "contradictory ", "differing ", "paradoxical ", "reversed "], "A": ["agreeing ", "similar "]}
+{"index": 119356, "D": "the foremost part or surface of anything.", "S": ["adverse", "antagonistic", "antithetical", "contradictory", "differing", "paradoxical", "reversed"], "A": ["agreeing", "similar"]}

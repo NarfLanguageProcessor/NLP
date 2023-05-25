@@ -1,1 +1,0 @@
-{"index": 256842, "D": "a young dog, especially one less than a year old.", "S": ["animal ", "dog ", "pup "], "A": []}

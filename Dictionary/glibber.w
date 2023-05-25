@@ -1,1 +1,1 @@
-{"index": 126176, "D": "readily fluent, often thoughtlessly, superficially, or insincerely so", "S": ["artful ", "articulate ", "eloquent ", "facile ", "loquacious ", "talkative "], "A": ["quiet ", "silent "]}
+{"index": 126176, "D": "readily fluent, often thoughtlessly, superficially, or insincerely so", "S": ["artful", "articulate", "eloquent", "facile", "loquacious", "talkative"], "A": ["quiet", "silent"]}

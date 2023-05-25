@@ -1,1 +1,1 @@
-{"index": 124609, "D": "a lightweight, two-piece, usually white garment worn by barefooted martial-arts participants, consisting of loose-fitting pants and a wraparound jacket with cloth belt.", "S": ["doughboy "], "A": []}
+{"index": 124609, "D": "a lightweight, two-piece, usually white garment worn by barefooted martial-arts participants, consisting of loose-fitting pants and a wraparound jacket with cloth belt.", "S": ["doughboy"], "A": []}

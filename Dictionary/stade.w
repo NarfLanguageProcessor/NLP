@@ -1,1 +1,1 @@
-{"index": 302249, "D": "a period of time represented by a glacial deposit.", "S": ["amphitheater ", "bowl ", "hippodrome ", "stadium ", "theater "], "A": []}
+{"index": 302249, "D": "a period of time represented by a glacial deposit.", "S": ["amphitheater", "bowl", "hippodrome", "stadium", "theater"], "A": []}

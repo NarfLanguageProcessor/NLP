@@ -1,1 +1,1 @@
-{"index": 113676, "D": "a fan, especially one used in religious ceremonies.", "S": ["blade ", "draft ", "leaf ", "propeller ", "vane ", "ventilator ", "windmill "], "A": []}
+{"index": 113676, "D": "a fan, especially one used in religious ceremonies.", "S": ["blade", "draft", "leaf", "propeller", "vane", "ventilator", "windmill"], "A": []}

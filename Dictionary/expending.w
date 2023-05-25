@@ -1,1 +1,1 @@
-{"index": 107686, "D": "to use up", "S": ["offering "], "A": ["appropriating ", "getting ", "taking "]}
+{"index": 107686, "D": "to use up", "S": ["offering"], "A": ["appropriating", "getting", "taking"]}

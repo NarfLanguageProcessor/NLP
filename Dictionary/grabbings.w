@@ -1,1 +1,1 @@
-{"index": 128465, "D": [], "S": ["abduction ", "arrest ", "confiscation "], "A": ["letting go ", "liberation ", "release "]}
+{"index": 128465, "D": [], "S": ["abduction", "arrest", "confiscation"], "A": ["letting go", "liberation", "release"]}

@@ -1,1 +1,1 @@
-{"index": 82751, "D": "barren or laid waste; devastated", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}
+{"index": 82751, "D": "barren or laid waste; devastated", "S": ["desperately", "sadly"], "A": ["confidently", "expectantly", "hopefully"]}

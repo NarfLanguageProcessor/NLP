@@ -1,1 +1,1 @@
-{"index": 95102, "D": "an oddity or peculiarity, as of conduct", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}
+{"index": 95102, "D": "an oddity or peculiarity, as of conduct", "S": ["foible", "idiosyncrasy", "peculiarity", "quirk", "weirdness"], "A": ["conformity", "normalcy", "normality", "regularity", "sameness", "standard", "usualness"]}

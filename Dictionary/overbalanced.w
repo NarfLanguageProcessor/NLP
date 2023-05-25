@@ -1,1 +1,1 @@
-{"index": 218290, "D": "to outweigh", "S": ["excessive ", "inordinate ", "superfluous ", "unequal ", "unreasonable "], "A": ["moderate ", "reasonable "]}
+{"index": 218290, "D": "to outweigh", "S": ["excessive", "inordinate", "superfluous", "unequal", "unreasonable"], "A": ["moderate", "reasonable"]}

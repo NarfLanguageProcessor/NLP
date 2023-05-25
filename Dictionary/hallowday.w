@@ -1,1 +1,1 @@
-{"index": 132752, "D": [], "S": ["fast day ", "holiday ", "holytide ", "saint's day "], "A": []}
+{"index": 132752, "D": [], "S": ["fast day", "holiday", "holytide", "saint's day"], "A": []}

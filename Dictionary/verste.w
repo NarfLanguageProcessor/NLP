@@ -1,1 +1,0 @@
-{"index": 358835, "D": "a Russian measure of distance equivalent to 3,500 feet, or 0.6629 mile (1.067 kilometers).", "S": [], "A": []}

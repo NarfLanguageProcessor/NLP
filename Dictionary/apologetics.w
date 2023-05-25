@@ -1,1 +1,1 @@
-{"index": 17261, "D": "the branch of theology concerned with the defense or proof of Christianity using rational argument", "S": ["apology ", "defense ", "excuse ", "explanation ", "pretext "], "A": []}
+{"index": 17261, "D": "the branch of theology concerned with the defense or proof of Christianity using rational argument", "S": ["apology", "defense", "excuse", "explanation", "pretext"], "A": []}

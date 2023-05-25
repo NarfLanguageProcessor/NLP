@@ -1,1 +1,0 @@
-{"index": 204329, "D": "giving a clear and effective picture; vivid", "S": [], "A": []}

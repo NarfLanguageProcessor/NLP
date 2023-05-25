@@ -1,1 +1,1 @@
-{"index": 172009, "D": "something that makes things visible or affords illumination", "S": ["afire ", "aflame "], "A": ["dark ", "dim ", "dull ", "unexcited "]}
+{"index": 172009, "D": "something that makes things visible or affords illumination", "S": ["afire", "aflame"], "A": ["dark", "dim", "dull", "unexcited"]}

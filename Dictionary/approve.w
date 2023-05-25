@@ -1,0 +1,1 @@
+{"index": 18018, "D": "to speak or think favorably of; pronounce or consider agreeable or good; judge favorably", "S": ["accept", "favor"], "A": ["censure", "condemn", "criticize", "denounce", "deny", "despise", "disapprove", "dislike", "disregard", "disrespect", "hate", "neglect", "refuse", "scorn"]}

@@ -1,1 +1,1 @@
-{"index": 187596, "D": "to imitate or copy in action, speech, etc., often playfully or derisively.", "S": ["mime "], "A": ["fan "]}
+{"index": 187596, "D": "to imitate or copy in action, speech, etc., often playfully or derisively.", "S": ["mime"], "A": ["fan"]}

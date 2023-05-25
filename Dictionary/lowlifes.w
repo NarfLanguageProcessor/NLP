@@ -1,1 +1,1 @@
-{"index": 175654, "D": "a despicable person, especially a degenerate or immoral person.", "S": ["culprit ", "felon ", "hoodlum ", "lowlife ", "pickpocket ", "wrongdoer "], "A": ["goody-goody "]}
+{"index": 175654, "D": "a despicable person, especially a degenerate or immoral person.", "S": ["culprit", "felon", "hoodlum", "lowlife", "pickpocket", "wrongdoer"], "A": ["goody-goody"]}

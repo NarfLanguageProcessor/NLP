@@ -1,0 +1,1 @@
+{"index": 4800, "D": "pertaining to the Aegean Sea  or Aegean Islands. ", "S": [], "A": []}

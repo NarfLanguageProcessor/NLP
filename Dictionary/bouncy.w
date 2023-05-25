@@ -1,1 +1,1 @@
-{"index": 38957, "D": "tending characteristically to bounce  or bounce  well", "S": ["energetic ", "playful "], "A": []}
+{"index": 38957, "D": "tending characteristically to bounce  or bounce  well", "S": ["energetic", "playful"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 128470, "D": "to feel or search with the hands; grope.", "S": ["cast about ", "examine ", "explore ", "feel ", "feel blindly ", "finger ", "fish ", "flounder ", "fumble ", "handle ", "manipulate ", "poke ", "pry ", "root ", "scrabble ", "search ", "touch "], "A": []}
+{"index": 128470, "D": "to feel or search with the hands; grope.", "S": ["cast about", "examine", "explore", "feel", "feel blindly", "finger", "fish", "flounder", "fumble", "handle", "manipulate", "poke", "pry", "root", "scrabble", "search", "touch"], "A": []}

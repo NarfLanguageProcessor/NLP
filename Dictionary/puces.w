@@ -1,1 +1,1 @@
-{"index": 255969, "D": "of a dark or brownish purple.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}
+{"index": 255969, "D": "of a dark or brownish purple.", "S": ["cardinal", "coral", "crimson", "flaming", "glowing", "maroon", "rose", "wine"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 301798, "D": "a person or thing that squats. ", "S": ["settler "], "A": []}
+{"index": 301798, "D": "a person or thing that squats. ", "S": ["settler"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 113165, "D": [], "S": ["bursts ", "illuminations ", "pyrotechnics ", "rockets ", "sparklers "], "A": []}
+{"index": 113165, "D": [], "S": ["bursts", "illuminations", "pyrotechnics", "rockets", "sparklers"], "A": []}

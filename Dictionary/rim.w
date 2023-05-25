@@ -1,1 +1,1 @@
-{"index": 272939, "D": "the outer edge, border, margin, or brink of something, especially of a circular object.", "S": ["fringe ", "ledge ", "lip ", "perimeter ", "periphery "], "A": ["center ", "inside ", "interior ", "middle ", "opening "]}
+{"index": 272939, "D": "the outer edge, border, margin, or brink of something, especially of a circular object.", "S": ["fringe", "ledge", "lip", "perimeter", "periphery"], "A": ["center", "inside", "interior", "middle", "opening"]}

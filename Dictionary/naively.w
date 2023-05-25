@@ -1,1 +1,1 @@
-{"index": 196627, "D": "in a way that shows a lack of experience, judgment, or information", "S": ["foolishly ", "stupidly "], "A": []}
+{"index": 196627, "D": "in a way that shows a lack of experience, judgment, or information", "S": ["foolishly", "stupidly"], "A": []}

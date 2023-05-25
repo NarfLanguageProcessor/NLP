@@ -1,1 +1,1 @@
-{"index": 353694, "D": "not hidden by a veil or other covering; bare.", "S": ["detected ", "disclosed ", "exposed ", "identified ", "invented "], "A": ["hidden ", "lost "]}
+{"index": 353694, "D": "not hidden by a veil or other covering; bare.", "S": ["detected", "disclosed", "exposed", "identified", "invented"], "A": ["hidden", "lost"]}

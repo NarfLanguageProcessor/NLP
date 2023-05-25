@@ -1,1 +1,1 @@
-{"index": 270126, "D": "that results;  following as a result  or consequence.", "S": ["appropriately ", "correspondingly ", "properly ", "proportionately ", "respectively ", "subsequently ", "therefore ", "thus "], "A": ["inappropriately ", "unsuitably "]}
+{"index": 270126, "D": "that results;  following as a result  or consequence.", "S": ["appropriately", "correspondingly", "properly", "proportionately", "respectively", "subsequently", "therefore", "thus"], "A": ["inappropriately", "unsuitably"]}

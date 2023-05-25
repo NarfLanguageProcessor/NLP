@@ -1,0 +1,1 @@
+{"index": 12055, "D": "to pronounce an anathema  against; denounce; curse.", "S": ["accursed", "condemned", "cursed", "doomed"], "A": []}

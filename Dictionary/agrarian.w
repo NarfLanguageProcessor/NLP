@@ -1,1 +1,1 @@
-{"index": 6435, "D": "relating to land, land tenure, or the division of landed property", "S": ["agricultural ", "rural "], "A": []}
+{"index": 6435, "D": "relating to land, land tenure, or the division of landed property", "S": ["agricultural", "rural"], "A": []}

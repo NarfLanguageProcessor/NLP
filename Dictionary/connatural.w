@@ -1,1 +1,1 @@
-{"index": 66487, "D": "belonging to a person or thing by nature or from birth or origin; inborn.", "S": ["built-in ", "congenital ", "connate ", "hereditary ", "inborn ", "inbred ", "ingrained ", "inherent ", "inherited ", "native ", "natural "], "A": []}
+{"index": 66487, "D": "belonging to a person or thing by nature or from birth or origin; inborn.", "S": ["built-in", "congenital", "connate", "hereditary", "inborn", "inbred", "ingrained", "inherent", "inherited", "native", "natural"], "A": []}

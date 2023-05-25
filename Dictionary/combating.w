@@ -1,1 +1,1 @@
-{"index": 63627, "D": "to fight or contend against; oppose vigorously", "S": ["assertive ", "bellicose ", "belligerent ", "militaristic ", "vigorous ", "warring "], "A": ["compliant ", "peaceful ", "submissive ", "tolerant "]}
+{"index": 63627, "D": "to fight or contend against; oppose vigorously", "S": ["assertive", "bellicose", "belligerent", "militaristic", "vigorous", "warring"], "A": ["compliant", "peaceful", "submissive", "tolerant"]}

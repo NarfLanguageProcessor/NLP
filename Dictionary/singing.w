@@ -1,1 +1,1 @@
-{"index": 291697, "D": "to utter words or sounds in succession with musical modulations of the voice; vocalize melodically.", "S": ["chanting "], "A": []}
+{"index": 291697, "D": "to utter words or sounds in succession with musical modulations of the voice; vocalize melodically.", "S": ["chanting"], "A": []}

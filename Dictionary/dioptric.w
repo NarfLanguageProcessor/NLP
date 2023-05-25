@@ -1,1 +1,1 @@
-{"index": 86319, "D": "pertaining to dioptrics", "S": ["optical fiber "], "A": []}
+{"index": 86319, "D": "pertaining to dioptrics", "S": ["optical fiber"], "A": []}

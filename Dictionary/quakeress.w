@@ -1,1 +1,0 @@
-{"index": 257834, "D": "a woman or girl who is a Quaker", "S": [], "A": []}

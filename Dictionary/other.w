@@ -1,1 +1,0 @@
-{"index": 215836, "D": "additional or further", "S": ["alternative ", "more ", "new "], "A": ["coinciding ", "included ", "related ", "same ", "similar "]}

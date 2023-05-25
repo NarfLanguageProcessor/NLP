@@ -1,1 +1,1 @@
-{"index": 129936, "D": [], "S": ["crumbling ", "crunching ", "crushing ", "disintegrating ", "eroding ", "grating ", "milling ", "powdering ", "rubbing ", "scraping ", "shivering ", "smashing "], "A": []}
+{"index": 129936, "D": [], "S": ["crumbling", "crunching", "crushing", "disintegrating", "eroding", "grating", "milling", "powdering", "rubbing", "scraping", "shivering", "smashing"], "A": []}

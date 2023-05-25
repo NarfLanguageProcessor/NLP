@@ -1,1 +1,1 @@
-{"index": 326422, "D": "to throw, pitch, or fling, especially to throw lightly or carelessly", "S": ["disturbance ", "turbulence ", "turmoil ", "unrest ", "upheaval "], "A": ["calm ", "harmony ", "order ", "peace ", "tranquility "]}
+{"index": 326422, "D": "to throw, pitch, or fling, especially to throw lightly or carelessly", "S": ["disturbance", "turbulence", "turmoil", "unrest", "upheaval"], "A": ["calm", "harmony", "order", "peace", "tranquility"]}

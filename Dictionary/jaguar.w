@@ -1,1 +1,1 @@
-{"index": 160120, "D": "a large spotted feline, Panthera onca, of tropical America, having a tawny coat with black rosettes", "S": ["bobcat ", "caracal ", "cheetah ", "cougar ", "leopard ", "lion ", "lynx ", "mountain lion ", "ocelot ", "panther ", "puma ", "tiger ", "wildcat "], "A": []}
+{"index": 160120, "D": "a large spotted feline, Panthera onca, of tropical America, having a tawny coat with black rosettes", "S": ["bobcat", "caracal", "cheetah", "cougar", "leopard", "lion", "lynx", "mountain lion", "ocelot", "panther", "puma", "tiger", "wildcat"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 261023, "D": "(in Germany) the cellar of a town hall, often used as a beer hall or restaurant.", "S": ["bistro ", "inn ", "lounge ", "pub ", "saloon ", "tavern "], "A": ["advantage ", "aid ", "help "]}
+{"index": 261023, "D": "(in Germany) the cellar of a town hall, often used as a beer hall or restaurant.", "S": ["bistro", "inn", "lounge", "pub", "saloon", "tavern"], "A": ["advantage", "aid", "help"]}

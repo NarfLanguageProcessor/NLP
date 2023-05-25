@@ -1,1 +1,1 @@
-{"index": 315376, "D": "a person whose occupation is the making, mending, or altering of clothes, especially suits, coats, and other outer garments.", "S": ["clothier ", "costumier ", "couturier ", "dressmaker ", "outfitter "], "A": []}
+{"index": 315376, "D": "a person whose occupation is the making, mending, or altering of clothes, especially suits, coats, and other outer garments.", "S": ["clothier", "costumier", "couturier", "dressmaker", "outfitter"], "A": []}

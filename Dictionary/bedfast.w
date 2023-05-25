@@ -1,0 +1,1 @@
+{"index": 30056, "D": "confined to bed,  as by illness or age; bedridden.", "S": ["circumscribed", "cramped", "imprisoned", "restrained", "restricted"], "A": ["healthy", "well"]}

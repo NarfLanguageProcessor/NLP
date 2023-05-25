@@ -1,1 +1,1 @@
-{"index": 265922, "D": "to restore to a condition of good health, ability to work, or the like.", "S": ["improvement ", "overhaul ", "reclamation ", "reconstruction ", "recovery ", "repair "], "A": ["damage ", "harm ", "hurt ", "injury "]}
+{"index": 265922, "D": "to restore to a condition of good health, ability to work, or the like.", "S": ["improvement", "overhaul", "reclamation", "reconstruction", "recovery", "repair"], "A": ["damage", "harm", "hurt", "injury"]}

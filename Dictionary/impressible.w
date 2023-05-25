@@ -1,1 +1,1 @@
-{"index": 149064, "D": "capable of being impressed;  impressionable.", "S": ["impressionable "], "A": []}
+{"index": 149064, "D": "capable of being impressed;  impressionable.", "S": ["impressionable"], "A": []}

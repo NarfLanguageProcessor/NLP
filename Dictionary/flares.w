@@ -1,1 +1,1 @@
-{"index": 114000, "D": "trousers with legs that widen below the knee", "S": ["blaze ", "boil over ", "break out ", "burn ", "explode ", "flare up ", "flash ", "flicker ", "glow ", "seethe "], "A": []}
+{"index": 114000, "D": "trousers with legs that widen below the knee", "S": ["blaze", "boil over", "break out", "burn", "explode", "flare up", "flash", "flicker", "glow", "seethe"], "A": []}

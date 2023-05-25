@@ -1,1 +1,1 @@
-{"index": 225647, "D": "a distinct portion of written or printed matter dealing with a particular idea, usually beginning with an indentation on a new line.", "S": ["chapter ", "clause ", "detail ", "item ", "passage ", "piece ", "provision "], "A": ["whole "]}
+{"index": 225647, "D": "a distinct portion of written or printed matter dealing with a particular idea, usually beginning with an indentation on a new line.", "S": ["chapter", "clause", "detail", "item", "passage", "piece", "provision"], "A": ["whole"]}

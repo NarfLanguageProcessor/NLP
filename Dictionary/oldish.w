@@ -1,1 +1,1 @@
-{"index": 212020, "D": "somewhat old", "S": ["aged ", "ancient ", "decrepit ", "elderly ", "gray ", "mature ", "tired ", "venerable "], "A": ["new ", "young ", "youthful ", "green ", "inexperienced "]}
+{"index": 212020, "D": "somewhat old", "S": ["aged", "ancient", "decrepit", "elderly", "gray", "mature", "tired", "venerable"], "A": ["new", "young", "youthful", "green", "inexperienced"]}

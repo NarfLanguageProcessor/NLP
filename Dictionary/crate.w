@@ -1,1 +1,1 @@
-{"index": 72244, "D": "a slatted wooden box or framework for packing, shopping, or storing fruit, furniture, glassware, crockery, etc.", "S": ["box ", "cage ", "carton "], "A": []}
+{"index": 72244, "D": "a slatted wooden box or framework for packing, shopping, or storing fruit, furniture, glassware, crockery, etc.", "S": ["box", "cage", "carton"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 249968, "D": "something that is put forward to conceal a true purpose or object; an ostensible reason; excuse", "S": ["alibi ", "come-off ", "excuse ", "guise ", "ploy ", "pretense ", "ruse "], "A": ["reality ", "back ", "rear ", "truth "]}
+{"index": 249968, "D": "something that is put forward to conceal a true purpose or object; an ostensible reason; excuse", "S": ["alibi", "come-off", "excuse", "guise", "ploy", "pretense", "ruse"], "A": ["reality", "back", "rear", "truth"]}

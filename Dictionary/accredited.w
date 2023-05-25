@@ -1,1 +1,1 @@
-{"index": 1759, "D": "officially recognized as meeting the essential requirements, as of academic excellence", "S": ["authorized ", "certified "], "A": []}
+{"index": 1759, "D": "officially recognized as meeting the essential requirements, as of academic excellence", "S": ["authorized", "certified"], "A": []}

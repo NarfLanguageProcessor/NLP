@@ -1,1 +1,1 @@
-{"index": 127991, "D": "goose bumps. ", "S": ["goose flesh ", "goose pimples ", "horripilation "], "A": []}
+{"index": 127991, "D": "goose bumps. ", "S": ["goose flesh", "goose pimples", "horripilation"], "A": []}

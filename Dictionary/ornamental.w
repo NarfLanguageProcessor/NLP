@@ -1,1 +1,1 @@
-{"index": 214689, "D": "used or grown for ornament", "S": ["exquisite ", "ornate ", "showy "], "A": ["plain ", "unembellished "]}
+{"index": 214689, "D": "used or grown for ornament", "S": ["exquisite", "ornate", "showy"], "A": ["plain", "unembellished"]}

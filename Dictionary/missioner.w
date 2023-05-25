@@ -1,1 +1,1 @@
-{"index": 190071, "D": "a less common name for missionary", "S": ["apostle ", "clergy ", "converter ", "evangelist ", "herald ", "messenger ", "minister ", "pastor ", "preacher ", "promoter ", "propagandist ", "revivalist ", "teacher "], "A": []}
+{"index": 190071, "D": "a less common name for missionary", "S": ["apostle", "clergy", "converter", "evangelist", "herald", "messenger", "minister", "pastor", "preacher", "promoter", "propagandist", "revivalist", "teacher"], "A": []}

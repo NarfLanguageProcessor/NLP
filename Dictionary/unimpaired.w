@@ -1,1 +1,1 @@
-{"index": 344292, "D": "not reduced or weakened in strength, quality, etc", "S": ["free ", "intact ", "sound ", "unbroken ", "undamaged ", "unharmed ", "unhurt ", "uninjured ", "unscathed ", "whole "], "A": ["impaired "]}
+{"index": 344292, "D": "not reduced or weakened in strength, quality, etc", "S": ["free", "intact", "sound", "unbroken", "undamaged", "unharmed", "unhurt", "uninjured", "unscathed", "whole"], "A": ["impaired"]}

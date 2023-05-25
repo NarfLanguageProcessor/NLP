@@ -1,1 +1,1 @@
-{"index": 248428, "D": "a prize, bonus, or award given as an inducement, as to purchase products, enter competitions initiated by business interests, etc.", "S": ["choice ", "prime ", "superior "], "A": ["inferior ", "poor "]}
+{"index": 248428, "D": "a prize, bonus, or award given as an inducement, as to purchase products, enter competitions initiated by business interests, etc.", "S": ["choice", "prime", "superior"], "A": ["inferior", "poor"]}

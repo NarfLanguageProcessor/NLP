@@ -1,1 +1,1 @@
-{"index": 166201, "D": "to act in an obsequious manner; show servile deference.", "S": ["cave in ", "genuflect ", "pander "], "A": ["ignore ", "straighten "]}
+{"index": 166201, "D": "to act in an obsequious manner; show servile deference.", "S": ["cave in", "genuflect", "pander"], "A": ["ignore", "straighten"]}

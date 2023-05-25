@@ -1,1 +1,0 @@
-{"index": 273343, "D": "swanky; elegant; posh", "S": ["opulent ", "plush ", "posh ", "stately ", "swank "], "A": ["destitute ", "poor "]}

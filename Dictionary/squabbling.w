@@ -1,1 +1,1 @@
-{"index": 301597, "D": "to engage in a petty quarrel.", "S": ["bickering ", "conflicting ", "differing ", "fighting "], "A": []}
+{"index": 301597, "D": "to engage in a petty quarrel.", "S": ["bickering", "conflicting", "differing", "fighting"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3474, "D": "serving or able to adapt;  showing or contributing to adaptation", "S": ["flexible"], "A": []}

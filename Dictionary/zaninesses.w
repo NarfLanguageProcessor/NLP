@@ -1,1 +1,0 @@
-{"index": 368837, "D": "ludicrously or whimsically comical; clownish.", "S": ["comedy ", "drollery ", "funniness ", "humorousness ", "jocoseness ", "jocosity ", "jocularity ", "nonsense ", "wit ", "wittiness "], "A": ["seriousness "]}

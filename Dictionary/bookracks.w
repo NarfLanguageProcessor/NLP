@@ -1,1 +1,1 @@
-{"index": 38111, "D": "a support for an open book. ", "S": ["cabinet "], "A": []}
+{"index": 38111, "D": "a support for an open book. ", "S": ["cabinet"], "A": []}

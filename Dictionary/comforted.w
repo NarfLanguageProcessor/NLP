@@ -1,1 +1,1 @@
-{"index": 63802, "D": "to soothe, console, or reassure; bring cheer to", "S": ["reassured ", "relaxed ", "satisfied "], "A": ["distraught ", "sad ", "worried "]}
+{"index": 63802, "D": "to soothe, console, or reassure; bring cheer to", "S": ["reassured", "relaxed", "satisfied"], "A": ["distraught", "sad", "worried"]}

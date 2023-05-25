@@ -1,1 +1,1 @@
-{"index": 67100, "D": "to build or form by putting together parts; frame; devise. ", "S": ["assembled ", "completed ", "created ", "fabricated ", "finished ", "made ", "manufactured ", "produced "], "A": ["flat ", "puny ", "skinny ", "weak "]}
+{"index": 67100, "D": "to build or form by putting together parts; frame; devise. ", "S": ["assembled", "completed", "created", "fabricated", "finished", "made", "manufactured", "produced"], "A": ["flat", "puny", "skinny", "weak"]}

@@ -1,1 +1,1 @@
-{"index": 111675, "D": "to form pus; generate purulent matter; suppurate.", "S": ["smolder "], "A": ["build ", "delight ", "flourish ", "grow ", "improve ", "make happy ", "please "]}
+{"index": 111675, "D": "to form pus; generate purulent matter; suppurate.", "S": ["smolder"], "A": ["build", "delight", "flourish", "grow", "improve", "make happy", "please"]}

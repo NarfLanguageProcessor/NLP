@@ -1,0 +1,1 @@
+{"index": 34040, "D": "an alloy used in coinage, consisting of gold or silver with a larger amount of base metal.", "S": [], "A": []}

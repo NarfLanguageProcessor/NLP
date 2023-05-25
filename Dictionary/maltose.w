@@ -1,1 +1,1 @@
-{"index": 178683, "D": "a white, crystalline, water-soluble sugar, C12H22O11\u22c5H2O, formed by the action of diastase, especially from malt,  on starch", "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}
+{"index": 178683, "D": "a white, crystalline, water-soluble sugar, C12H22O11\u22c5H2O, formed by the action of diastase, especially from malt,  on starch", "S": ["cellulose", "glucose", "lactose", "starch", "sugar"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 143347, "D": "containing, consisting of, or resembling honey", "S": ["cajoling ", "candied ", "flattering ", "ingratiating ", "sugarcoated "], "A": []}
+{"index": 143347, "D": "containing, consisting of, or resembling honey", "S": ["cajoling", "candied", "flattering", "ingratiating", "sugarcoated"], "A": []}

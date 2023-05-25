@@ -1,1 +1,1 @@
-{"index": 19294, "D": "requiring great exertion; laborious; difficult", "S": ["burdensomely ", "difficultly ", "exhaustingly ", "heavily ", "laboriously ", "onerously ", "troublesomely "], "A": []}
+{"index": 19294, "D": "requiring great exertion; laborious; difficult", "S": ["burdensomely", "difficultly", "exhaustingly", "heavily", "laboriously", "onerously", "troublesomely"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 36383, "D": "like a block;  dull; stupid.", "S": ["boxlike ", "boxy ", "chunky ", "compact ", "heavyset ", "solid ", "squat ", "stubby ", "stumpy ", "thick ", "thickset "], "A": []}
+{"index": 36383, "D": "like a block;  dull; stupid.", "S": ["boxlike", "boxy", "chunky", "compact", "heavyset", "solid", "squat", "stubby", "stumpy", "thick", "thickset"], "A": []}

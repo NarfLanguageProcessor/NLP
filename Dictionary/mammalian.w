@@ -1,1 +1,1 @@
-{"index": 178762, "D": "an animal of the class Mammalia; mammal.", "S": ["bodily ", "natural "], "A": ["gentle ", "mild "]}
+{"index": 178762, "D": "an animal of the class Mammalia; mammal.", "S": ["bodily", "natural"], "A": ["gentle", "mild"]}

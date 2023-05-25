@@ -1,1 +1,1 @@
-{"index": 115886, "D": "covered with or having leaves.", "S": ["fresh ", "grassy ", "leafy ", "lush ", "raw ", "tender ", "verdant "], "A": ["healthy ", "adult ", "dying ", "mature ", "old ", "shrinking ", "withering "]}
+{"index": 115886, "D": "covered with or having leaves.", "S": ["fresh", "grassy", "leafy", "lush", "raw", "tender", "verdant"], "A": ["healthy", "adult", "dying", "mature", "old", "shrinking", "withering"]}

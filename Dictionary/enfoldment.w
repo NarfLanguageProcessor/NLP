@@ -1,1 +1,1 @@
-{"index": 100243, "D": "to wrap up; envelop", "S": ["embrace ", "hug ", "scissors ", "squeeze ", "tight embrace "], "A": []}
+{"index": 100243, "D": "to wrap up; envelop", "S": ["embrace", "hug", "scissors", "squeeze", "tight embrace"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 65190, "D": "importance or moment", "S": ["concern ", "consequence ", "import ", "magnitude ", "relevance ", "significance ", "significancy ", "weight ", "weightiness "], "A": []}
+{"index": 65190, "D": "importance or moment", "S": ["concern", "consequence", "import", "magnitude", "relevance", "significance", "significancy", "weight", "weightiness"], "A": []}

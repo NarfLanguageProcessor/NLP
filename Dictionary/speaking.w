@@ -1,1 +1,1 @@
-{"index": 298696, "D": "the act, utterance, or discourse of a person who speaks. ", "S": ["oral ", "vocal "], "A": ["written "]}
+{"index": 298696, "D": "the act, utterance, or discourse of a person who speaks. ", "S": ["oral", "vocal"], "A": ["written"]}

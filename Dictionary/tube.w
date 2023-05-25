@@ -1,1 +1,1 @@
-{"index": 331863, "D": "a hollow, usually cylindrical body of metal, glass, rubber, or other material, used especially for conveying or containing liquids or gases.", "S": ["cylinder ", "duct ", "pipe ", "pipeline ", "tunnel "], "A": []}
+{"index": 331863, "D": "a hollow, usually cylindrical body of metal, glass, rubber, or other material, used especially for conveying or containing liquids or gases.", "S": ["cylinder", "duct", "pipe", "pipeline", "tunnel"], "A": []}

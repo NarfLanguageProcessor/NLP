@@ -1,1 +1,1 @@
-{"index": 133108, "D": "a book of instruction or guidance, as for an occupation; manual", "S": ["directory ", "guidebook ", "manual ", "text ", "textbook "], "A": []}
+{"index": 133108, "D": "a book of instruction or guidance, as for an occupation; manual", "S": ["directory", "guidebook", "manual", "text", "textbook"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 281893, "D": "the sacred writings of the Old or New Testaments or both together.", "S": ["authority ", "creed ", "doctrine ", "guide ", "guidebook ", "handbook ", "manual ", "testament ", "text "], "A": []}
+{"index": 281893, "D": "the sacred writings of the Old or New Testaments or both together.", "S": ["authority", "creed", "doctrine", "guide", "guidebook", "handbook", "manual", "testament", "text"], "A": []}

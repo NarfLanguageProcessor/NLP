@@ -1,1 +1,1 @@
-{"index": 107570, "D": "the act or process of expanding.", "S": ["development ", "enlargement ", "extension ", "increase ", "inflation ", "spread "], "A": ["abridgment ", "compression ", "decrease ", "reduction ", "shrinkage "]}
+{"index": 107570, "D": "the act or process of expanding.", "S": ["development", "enlargement", "extension", "increase", "inflation", "spread"], "A": ["abridgment", "compression", "decrease", "reduction", "shrinkage"]}

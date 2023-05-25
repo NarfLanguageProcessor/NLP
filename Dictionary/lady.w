@@ -1,1 +1,1 @@
-{"index": 167178, "D": "a woman who is refined, polite, and well-spoken", "S": ["gentlewoman ", "noblewoman "], "A": ["gentleman "]}
+{"index": 167178, "D": "a woman who is refined, polite, and well-spoken", "S": ["gentlewoman", "noblewoman"], "A": ["gentleman"]}

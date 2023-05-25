@@ -1,1 +1,1 @@
-{"index": 300361, "D": "to wet or soil by dashing masses or particles of water, mud, or the like; spatter", "S": ["dash ", "sensation "], "A": []}
+{"index": 300361, "D": "to wet or soil by dashing masses or particles of water, mud, or the like; spatter", "S": ["dash", "sensation"], "A": []}

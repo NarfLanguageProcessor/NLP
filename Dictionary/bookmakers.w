@@ -1,0 +1,1 @@
+{"index": 38096, "D": "a person who makes a business of accepting the bets of others on the outcome of sports contests, especially of horse races.", "S": ["bettor", "bookie"], "A": []}

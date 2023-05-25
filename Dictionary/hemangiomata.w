@@ -1,1 +1,1 @@
-{"index": 135881, "D": "See under angioma. ", "S": ["angioma ", "mole ", "nevus "], "A": []}
+{"index": 135881, "D": "See under angioma. ", "S": ["angioma", "mole", "nevus"], "A": []}

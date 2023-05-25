@@ -1,1 +1,1 @@
-{"index": 162628, "D": "an act or instance of placing close together or side by side, especially for comparison or contrast.", "S": ["abutment ", "contact ", "nearness ", "proximity ", "touching "], "A": ["distance ", "remoteness "]}
+{"index": 162628, "D": "an act or instance of placing close together or side by side, especially for comparison or contrast.", "S": ["abutment", "contact", "nearness", "proximity", "touching"], "A": ["distance", "remoteness"]}

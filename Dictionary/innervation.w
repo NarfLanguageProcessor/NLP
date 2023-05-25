@@ -1,1 +1,1 @@
-{"index": 153036, "D": "the act of innervating;  state of being innervated. ", "S": ["awareness ", "excitement ", "feel ", "pain ", "perception ", "pleasure ", "reaction ", "sense ", "sensitivity "], "A": ["insensitivity "]}
+{"index": 153036, "D": "the act of innervating;  state of being innervated. ", "S": ["awareness", "excitement", "feel", "pain", "perception", "pleasure", "reaction", "sense", "sensitivity"], "A": ["insensitivity"]}

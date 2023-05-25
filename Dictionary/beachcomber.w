@@ -1,1 +1,1 @@
-{"index": 29352, "D": "a person who lives by gathering salable articles of jetsam, refuse, etc., from beaches. ", "S": ["breaker ", "crest ", "roller ", "surge ", "swell ", "tide ", "wave "], "A": []}
+{"index": 29352, "D": "a person who lives by gathering salable articles of jetsam, refuse, etc., from beaches. ", "S": ["breaker", "crest", "roller", "surge", "swell", "tide", "wave"], "A": []}

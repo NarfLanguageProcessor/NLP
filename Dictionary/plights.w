@@ -1,1 +1,1 @@
-{"index": 240106, "D": "a condition, state, or situation, especially an unfavorable or unfortunate one", "S": ["condition ", "predicament ", "quandary ", "trouble "], "A": ["advantage ", "solution ", "benefit ", "boon ", "good fortune "]}
+{"index": 240106, "D": "a condition, state, or situation, especially an unfavorable or unfortunate one", "S": ["condition", "predicament", "quandary", "trouble"], "A": ["advantage", "solution", "benefit", "boon", "good fortune"]}

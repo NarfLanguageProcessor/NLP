@@ -1,1 +1,1 @@
-{"index": 147948, "D": "to plunge into or place under a liquid; dip; sink.", "S": ["baptize ", "bathe ", "bury ", "drench ", "drown ", "saturate ", "soak ", "steep "], "A": ["dehydrate ", "dry ", "ascend ", "increase ", "rise "]}
+{"index": 147948, "D": "to plunge into or place under a liquid; dip; sink.", "S": ["baptize", "bathe", "bury", "drench", "drown", "saturate", "soak", "steep"], "A": ["dehydrate", "dry", "ascend", "increase", "rise"]}

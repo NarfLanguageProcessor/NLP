@@ -1,1 +1,1 @@
-{"index": 294963, "D": "struck, as with a hard blow.", "S": ["affected ", "afflicted ", "infatuated ", "taken "], "A": ["indifferent "]}
+{"index": 294963, "D": "struck, as with a hard blow.", "S": ["affected", "afflicted", "infatuated", "taken"], "A": ["indifferent"]}

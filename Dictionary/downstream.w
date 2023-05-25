@@ -1,1 +1,1 @@
-{"index": 92326, "D": "with or in the direction of the current of a stream. ", "S": ["next "], "A": ["before ", "earlier "]}
+{"index": 92326, "D": "with or in the direction of the current of a stream. ", "S": ["next"], "A": ["before", "earlier"]}

@@ -1,1 +1,1 @@
-{"index": 37639, "D": "an outsider in a contest or race", "S": ["absentee ", "escapee ", "quitter ", "truant "], "A": []}
+{"index": 37639, "D": "an outsider in a contest or race", "S": ["absentee", "escapee", "quitter", "truant"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 136534, "D": "from now on; from this point forward.", "S": ["so ", "thence ", "thus "], "A": []}
+{"index": 136534, "D": "from now on; from this point forward.", "S": ["so", "thence", "thus"], "A": []}

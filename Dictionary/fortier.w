@@ -1,1 +1,1 @@
-{"index": 117668, "D": "a cardinal number, ten times four.", "S": ["quadragenarian ", "quadragesimal "], "A": []}
+{"index": 117668, "D": "a cardinal number, ten times four.", "S": ["quadragenarian", "quadragesimal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293135, "D": "any of various types of boats small enough for sailing or rowing by one person.", "S": ["canoe ", "dinghy ", "rowboat "], "A": []}
+{"index": 293135, "D": "any of various types of boats small enough for sailing or rowing by one person.", "S": ["canoe", "dinghy", "rowboat"], "A": []}

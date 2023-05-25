@@ -1,1 +1,1 @@
-{"index": 85505, "D": "to confer honor or dignity  upon; honor; ennoble.", "S": ["exalt ", "magnify "], "A": ["condemn ", "decrease ", "degrade ", "demote ", "denounce ", "depress ", "disgrace ", "dishonor ", "drop ", "hurt ", "lessen ", "lower ", "raze ", "shame ", "spurn ", "stop "]}
+{"index": 85505, "D": "to confer honor or dignity  upon; honor; ennoble.", "S": ["exalt", "magnify"], "A": ["condemn", "decrease", "degrade", "demote", "denounce", "depress", "disgrace", "dishonor", "drop", "hurt", "lessen", "lower", "raze", "shame", "spurn", "stop"]}

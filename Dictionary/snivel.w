@@ -1,1 +1,1 @@
-{"index": 295615, "D": "to weep or cry with sniffling.", "S": ["gripe ", "groan ", "whimper ", "whine "], "A": []}
+{"index": 295615, "D": "to weep or cry with sniffling.", "S": ["gripe", "groan", "whimper", "whine"], "A": []}

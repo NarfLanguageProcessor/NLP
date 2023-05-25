@@ -1,1 +1,1 @@
-{"index": 113532, "D": "coming, appearing, acting, etc., in fits  or by spells; recurring irregularly.", "S": ["desultory ", "intermittent ", "periodic ", "spotty "], "A": ["constant ", "continual ", "regular "]}
+{"index": 113532, "D": "coming, appearing, acting, etc., in fits  or by spells; recurring irregularly.", "S": ["desultory", "intermittent", "periodic", "spotty"], "A": ["constant", "continual", "regular"]}

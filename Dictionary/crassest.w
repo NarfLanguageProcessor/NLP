@@ -1,1 +1,1 @@
-{"index": 72226, "D": "without refinement, delicacy, or sensitivity; gross; obtuse; stupid", "S": ["boorish ", "churlish ", "rude ", "stupid ", "vulgar "], "A": ["nice ", "polite ", "refined ", "sophisticated "]}
+{"index": 72226, "D": "without refinement, delicacy, or sensitivity; gross; obtuse; stupid", "S": ["boorish", "churlish", "rude", "stupid", "vulgar"], "A": ["nice", "polite", "refined", "sophisticated"]}

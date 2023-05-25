@@ -1,1 +1,1 @@
-{"index": 236808, "D": "a small pill (contrasted with bolus).", "S": ["dose ", "medicine ", "tablet "], "A": []}
+{"index": 236808, "D": "a small pill (contrasted with bolus).", "S": ["dose", "medicine", "tablet"], "A": []}

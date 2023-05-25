@@ -1,1 +1,1 @@
-{"index": 199481, "D": "a stall or other place at which newspapers and often periodicals are sold, as on a street corner or in a building lobby.", "S": ["booth ", "stall "], "A": []}
+{"index": 199481, "D": "a stall or other place at which newspapers and often periodicals are sold, as on a street corner or in a building lobby.", "S": ["booth", "stall"], "A": []}

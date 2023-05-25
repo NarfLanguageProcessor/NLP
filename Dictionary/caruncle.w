@@ -1,1 +1,1 @@
-{"index": 48695, "D": "a protuberance at or surrounding the hilum of a seed.", "S": ["ridge "], "A": ["bottom ", "nadir "]}
+{"index": 48695, "D": "a protuberance at or surrounding the hilum of a seed.", "S": ["ridge"], "A": ["bottom", "nadir"]}

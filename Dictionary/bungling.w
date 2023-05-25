@@ -1,1 +1,1 @@
-{"index": 42861, "D": "to do clumsily and awkwardly; botch", "S": ["amateurish ", "awkward ", "gauche ", "inapt ", "inept ", "inexpert ", "maladroit ", "unskillful "], "A": ["expert "]}
+{"index": 42861, "D": "to do clumsily and awkwardly; botch", "S": ["amateurish", "awkward", "gauche", "inapt", "inept", "inexpert", "maladroit", "unskillful"], "A": ["expert"]}

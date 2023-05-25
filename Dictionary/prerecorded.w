@@ -1,1 +1,1 @@
-{"index": 249055, "D": "recorded before being broadcast, played in an automated telephone call, made available online, etc.; not live", "S": ["filmed ", "taped "], "A": []}
+{"index": 249055, "D": "recorded before being broadcast, played in an automated telephone call, made available online, etc.; not live", "S": ["filmed", "taped"], "A": []}

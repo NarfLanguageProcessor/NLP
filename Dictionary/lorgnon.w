@@ -1,1 +1,1 @@
-{"index": 175288, "D": "an eyeglass or a pair of eyeglasses.", "S": ["eyeglass ", "pince-nez "], "A": []}
+{"index": 175288, "D": "an eyeglass or a pair of eyeglasses.", "S": ["eyeglass", "pince-nez"], "A": []}

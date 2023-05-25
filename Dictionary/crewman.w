@@ -1,1 +1,1 @@
-{"index": 72848, "D": "a member of a crew. ", "S": ["abettor ", "adjutant ", "aide-de-camp ", "assistant ", "attendant ", "coadjutant ", "coadjutor ", "crew ", "deputy ", "helper ", "lieutenant ", "second ", "supporter "], "A": []}
+{"index": 72848, "D": "a member of a crew. ", "S": ["abettor", "adjutant", "aide-de-camp", "assistant", "attendant", "coadjutant", "coadjutor", "crew", "deputy", "helper", "lieutenant", "second", "supporter"], "A": []}

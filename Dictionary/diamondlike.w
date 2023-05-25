@@ -1,1 +1,1 @@
-{"index": 84360, "D": "a pure or nearly pure, extremely hard form of carbon, naturally crystallized in the isometric system.", "S": ["adamantine ", "diamondiferous "], "A": []}
+{"index": 84360, "D": "a pure or nearly pure, extremely hard form of carbon, naturally crystallized in the isometric system.", "S": ["adamantine", "diamondiferous"], "A": []}

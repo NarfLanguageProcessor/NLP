@@ -1,1 +1,1 @@
-{"index": 167494, "D": "a body of fresh or salt water of considerable size, surrounded by land.", "S": ["basin ", "lagoon ", "pond ", "pool ", "reservoir "], "A": []}
+{"index": 167494, "D": "a body of fresh or salt water of considerable size, surrounded by land.", "S": ["basin", "lagoon", "pond", "pool", "reservoir"], "A": []}

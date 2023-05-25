@@ -1,1 +1,1 @@
-{"index": 145962, "D": "intercontinental ballistic missile. ", "S": ["guided missile ", "intercontinental ballistic missile ", "missile weapon ", "nuclear missile "], "A": []}
+{"index": 145962, "D": "intercontinental ballistic missile. ", "S": ["guided missile", "intercontinental ballistic missile", "missile weapon", "nuclear missile"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 7335, "D": "a sudden fear or distressing suspense caused by an awareness of danger; apprehension; fright.", "S": ["aroused "], "A": []}
+{"index": 7335, "D": "a sudden fear or distressing suspense caused by an awareness of danger; apprehension; fright.", "S": ["aroused"], "A": []}

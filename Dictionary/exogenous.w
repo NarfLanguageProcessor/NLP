@@ -1,1 +1,1 @@
-{"index": 107366, "D": "originating from outside; derived externally.", "S": ["external "], "A": ["endogenous ", "internal ", "intrinsic "]}
+{"index": 107366, "D": "originating from outside; derived externally.", "S": ["external"], "A": ["endogenous", "internal", "intrinsic"]}

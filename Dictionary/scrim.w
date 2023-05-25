@@ -1,1 +1,1 @@
-{"index": 281821, "D": "a cotton or linen fabric of open weave used for bunting, curtains, etc.", "S": ["scenery "], "A": []}
+{"index": 281821, "D": "a cotton or linen fabric of open weave used for bunting, curtains, etc.", "S": ["scenery"], "A": []}

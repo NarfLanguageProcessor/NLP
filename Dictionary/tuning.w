@@ -1,1 +1,1 @@
-{"index": 332447, "D": "the normal tuning on a violin is G, D, A, E", "S": ["adjustment ", "arrangement ", "control ", "governance ", "management ", "settlement ", "supervision "], "A": ["deregulation ", "disorganization ", "lawlessness ", "mismanagement "]}
+{"index": 332447, "D": "the normal tuning on a violin is G, D, A, E", "S": ["adjustment", "arrangement", "control", "governance", "management", "settlement", "supervision"], "A": ["deregulation", "disorganization", "lawlessness", "mismanagement"]}

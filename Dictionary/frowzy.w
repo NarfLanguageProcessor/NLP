@@ -1,1 +1,1 @@
-{"index": 119513, "D": "dirty and untidy; slovenly.", "S": ["dirty ", "slatternly ", "unkempt ", "untidy "], "A": []}
+{"index": 119513, "D": "dirty and untidy; slovenly.", "S": ["dirty", "slatternly", "unkempt", "untidy"], "A": []}

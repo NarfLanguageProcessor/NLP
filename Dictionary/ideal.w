@@ -1,1 +1,1 @@
-{"index": 146303, "D": "a conception of something in its perfection.", "S": ["excellent ", "fitting ", "optimal ", "quintessential "], "A": ["actual ", "common ", "flawed ", "imperfect ", "incorrect ", "problematic ", "wrong "]}
+{"index": 146303, "D": "a conception of something in its perfection.", "S": ["excellent", "fitting", "optimal", "quintessential"], "A": ["actual", "common", "flawed", "imperfect", "incorrect", "problematic", "wrong"]}

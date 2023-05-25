@@ -1,1 +1,1 @@
-{"index": 164590, "D": [], "S": ["broken ", "demolished ", "devastated ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}
+{"index": 164590, "D": [], "S": ["broken", "demolished", "devastated", "lost", "ravaged", "ruined", "shattered", "smashed", "wrecked"], "A": ["fixed", "repaired", "sober", "successful"]}

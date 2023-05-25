@@ -1,1 +1,1 @@
-{"index": 268089, "D": "to say or utter again (something already said)", "S": ["copying ", "duplicating ", "echoing ", "imitating ", "reduplicating ", "reproducing "], "A": []}
+{"index": 268089, "D": "to say or utter again (something already said)", "S": ["copying", "duplicating", "echoing", "imitating", "reduplicating", "reproducing"], "A": []}

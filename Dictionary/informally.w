@@ -1,1 +1,1 @@
-{"index": 152211, "D": "in a casual manner, without formality", "S": ["carelessly ", "coolly ", "indifferently "], "A": []}
+{"index": 152211, "D": "in a casual manner, without formality", "S": ["carelessly", "coolly", "indifferently"], "A": []}

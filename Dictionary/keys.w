@@ -1,1 +1,1 @@
-{"index": 163677, "D": "a children's cry for truce or respite from the rules of a game", "S": ["latchkey ", "opener ", "passkey ", "screw ", "skeleton "], "A": ["lock ", "question "]}
+{"index": 163677, "D": "a children's cry for truce or respite from the rules of a game", "S": ["latchkey", "opener", "passkey", "screw", "skeleton"], "A": ["lock", "question"]}

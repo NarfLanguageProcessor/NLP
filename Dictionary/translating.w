@@ -1,1 +1,1 @@
-{"index": 328023, "D": "to turn from one language into another or from a foreign language into one's own", "S": ["connection ", "contact ", "conversation ", "delivery ", "intelligence ", "link ", "transmission "], "A": ["quiet ", "denial ", "disagreement ", "silence "]}
+{"index": 328023, "D": "to turn from one language into another or from a foreign language into one's own", "S": ["connection", "contact", "conversation", "delivery", "intelligence", "link", "transmission"], "A": ["quiet", "denial", "disagreement", "silence"]}

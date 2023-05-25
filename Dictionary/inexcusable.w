@@ -1,1 +1,1 @@
-{"index": 151660, "D": "incapable of being excused or justified.", "S": ["impermissible ", "indefensible ", "intolerable ", "outrageous ", "reprehensible ", "unforgivable ", "unjustifiable ", "untenable "], "A": ["acceptable ", "good "]}
+{"index": 151660, "D": "incapable of being excused or justified.", "S": ["impermissible", "indefensible", "intolerable", "outrageous", "reprehensible", "unforgivable", "unjustifiable", "untenable"], "A": ["acceptable", "good"]}

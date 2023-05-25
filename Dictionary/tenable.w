@@ -1,1 +1,1 @@
-{"index": 318667, "D": "capable of being held, maintained, or defended, as against attack or dispute", "S": ["arguable ", "defensible ", "justifiable ", "plausible ", "rational "], "A": ["unjustifiable ", "unreasonable "]}
+{"index": 318667, "D": "capable of being held, maintained, or defended, as against attack or dispute", "S": ["arguable", "defensible", "justifiable", "plausible", "rational"], "A": ["unjustifiable", "unreasonable"]}

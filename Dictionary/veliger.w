@@ -1,1 +1,0 @@
-{"index": 357833, "D": "a larval stage of certain mollusks, intermediate between the trochophore and the adult form.", "S": [], "A": []}

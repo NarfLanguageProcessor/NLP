@@ -1,1 +1,1 @@
-{"index": 36275, "D": "full of, abounding in, enjoying, or conferring bliss. ", "S": ["dreamy ", "enchanted ", "euphoric ", "heavenly ", "joyous "], "A": ["grieving ", "miserable ", "sorrowful ", "unhappy ", "upset ", "wretched "]}
+{"index": 36275, "D": "full of, abounding in, enjoying, or conferring bliss. ", "S": ["dreamy", "enchanted", "euphoric", "heavenly", "joyous"], "A": ["grieving", "miserable", "sorrowful", "unhappy", "upset", "wretched"]}

@@ -1,1 +1,1 @@
-{"index": 349903, "D": "not giving personal satisfaction", "S": ["flat "], "A": ["developing ", "fecund ", "fertile ", "filled ", "full ", "growing ", "productive ", "profitable ", "useful "]}
+{"index": 349903, "D": "not giving personal satisfaction", "S": ["flat"], "A": ["developing", "fecund", "fertile", "filled", "full", "growing", "productive", "profitable", "useful"]}

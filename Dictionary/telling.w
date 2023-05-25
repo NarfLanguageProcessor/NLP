@@ -1,1 +1,1 @@
-{"index": 318371, "D": "having force or effect; effective; striking", "S": ["cogent ", "conspicuous ", "convincing ", "decisive ", "devastating ", "forceful ", "powerful ", "satisfying ", "striking ", "trenchant "], "A": ["impotent ", "ineffective ", "weak ", "incomplete "]}
+{"index": 318371, "D": "having force or effect; effective; striking", "S": ["cogent", "conspicuous", "convincing", "decisive", "devastating", "forceful", "powerful", "satisfying", "striking", "trenchant"], "A": ["impotent", "ineffective", "weak", "incomplete"]}

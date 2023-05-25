@@ -1,1 +1,1 @@
-{"index": 286787, "D": "the waste matter that passes through sewers.", "S": ["discharge ", "excess ", "excrement ", "garbage ", "junk ", "leavings ", "rubbish ", "runoff ", "slop ", "trash "], "A": ["possessions ", "sense "]}
+{"index": 286787, "D": "the waste matter that passes through sewers.", "S": ["discharge", "excess", "excrement", "garbage", "junk", "leavings", "rubbish", "runoff", "slop", "trash"], "A": ["possessions", "sense"]}

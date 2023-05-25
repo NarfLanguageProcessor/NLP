@@ -1,1 +1,1 @@
-{"index": 157860, "D": [], "S": ["acumen ", "agility ", "brilliance ", "intellect ", "judgment ", "perception ", "quickness ", "savvy ", "sense ", "skill ", "subtlety ", "understanding ", "wit "], "A": ["ignorance ", "inability ", "stupidity ", "disinclination ", "physicality "]}
+{"index": 157860, "D": [], "S": ["acumen", "agility", "brilliance", "intellect", "judgment", "perception", "quickness", "savvy", "sense", "skill", "subtlety", "understanding", "wit"], "A": ["ignorance", "inability", "stupidity", "disinclination", "physicality"]}

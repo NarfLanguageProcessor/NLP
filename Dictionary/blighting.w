@@ -1,1 +1,1 @@
-{"index": 36194, "D": "a disease so characterized.", "S": ["bitter ", "bleak ", "harsh ", "penetrating "], "A": ["kind ", "mild ", "nice ", "pleasant "]}
+{"index": 36194, "D": "a disease so characterized.", "S": ["bitter", "bleak", "harsh", "penetrating"], "A": ["kind", "mild", "nice", "pleasant"]}

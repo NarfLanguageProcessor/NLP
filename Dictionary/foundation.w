@@ -1,1 +1,1 @@
-{"index": 117917, "D": "the basis or groundwork of anything", "S": ["authority ", "base ", "bedrock ", "groundwork ", "infrastructure ", "support "], "A": ["cowardice ", "exterior ", "exteriority ", "fear ", "outside ", "top "]}
+{"index": 117917, "D": "the basis or groundwork of anything", "S": ["authority", "base", "bedrock", "groundwork", "infrastructure", "support"], "A": ["cowardice", "exterior", "exteriority", "fear", "outside", "top"]}

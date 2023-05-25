@@ -1,1 +1,1 @@
-{"index": 13383, "D": "in, at, or to any place.", "S": ["anyplace "], "A": []}
+{"index": 13383, "D": "in, at, or to any place.", "S": ["anyplace"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 278854, "D": "an ancient Roman god of agriculture, the consort of Ops, believed to have ruled the earth during an age of happiness and virtue, identified with the Greek god Cronus.", "S": ["earth "], "A": []}
+{"index": 278854, "D": "an ancient Roman god of agriculture, the consort of Ops, believed to have ruled the earth during an age of happiness and virtue, identified with the Greek god Cronus.", "S": ["earth"], "A": []}

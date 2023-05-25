@@ -1,1 +1,1 @@
-{"index": 86840, "D": "a dagger, especially of the Scottish Highlands.", "S": ["bayonet ", "blade ", "sword "], "A": []}
+{"index": 86840, "D": "a dagger, especially of the Scottish Highlands.", "S": ["bayonet", "blade", "sword"], "A": []}

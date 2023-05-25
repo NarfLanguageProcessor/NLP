@@ -1,1 +1,1 @@
-{"index": 311207, "D": "one of the relatively dark patches that appear periodically on the surface of the sun  and affect terrestrial magnetism and certain other terrestrial phenomena.", "S": ["corona ", "facula ", "solar prominence ", "tongue ", "tongue of flame "], "A": []}
+{"index": 311207, "D": "one of the relatively dark patches that appear periodically on the surface of the sun  and affect terrestrial magnetism and certain other terrestrial phenomena.", "S": ["corona", "facula", "solar prominence", "tongue", "tongue of flame"], "A": []}

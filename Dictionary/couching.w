@@ -1,1 +1,1 @@
-{"index": 70487, "D": "the act of a person or thing that couches. ", "S": ["bed ", "chair ", "lounge "], "A": []}
+{"index": 70487, "D": "the act of a person or thing that couches. ", "S": ["bed", "chair", "lounge"], "A": []}

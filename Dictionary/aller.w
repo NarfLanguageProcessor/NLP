@@ -1,1 +1,1 @@
-{"index": 8661, "D": "the whole of (used in referring to quantity, extent, or duration)", "S": ["complete ", "entire ", "full ", "greatest ", "gross ", "outright ", "perfect ", "total ", "utter "], "A": ["incompletely ", "none ", "zero "]}
+{"index": 8661, "D": "the whole of (used in referring to quantity, extent, or duration)", "S": ["complete", "entire", "full", "greatest", "gross", "outright", "perfect", "total", "utter"], "A": ["incompletely", "none", "zero"]}

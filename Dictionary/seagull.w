@@ -1,1 +1,1 @@
-{"index": 282445, "D": "a gull, especially any of the marine species.", "S": ["circle ", "climb ", "cross ", "drift ", "float ", "flutter ", "glide ", "operate ", "pilot ", "reach ", "rush ", "sail ", "shoot ", "speed ", "swoop ", "take off ", "travel "], "A": ["remain ", "stay ", "rest "]}
+{"index": 282445, "D": "a gull, especially any of the marine species.", "S": ["circle", "climb", "cross", "drift", "float", "flutter", "glide", "operate", "pilot", "reach", "rush", "sail", "shoot", "speed", "swoop", "take off", "travel"], "A": ["remain", "stay", "rest"]}

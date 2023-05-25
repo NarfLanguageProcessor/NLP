@@ -1,1 +1,1 @@
-{"index": 338113, "D": "having no cover or covering.", "S": ["bare ", "disclosed ", "discovered ", "solved ", "unprotected ", "unveiled "], "A": []}
+{"index": 338113, "D": "having no cover or covering.", "S": ["bare", "disclosed", "discovered", "solved", "unprotected", "unveiled"], "A": []}

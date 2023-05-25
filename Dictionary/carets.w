@@ -1,1 +1,1 @@
-{"index": 47961, "D": "a mark (\u2038) made in written or printed matter to show the place where something is to be inserted.", "S": ["asterisk ", "bullet ", "dagger ", "diacritical mark ", "ditto ", "double dagger ", "leaders ", "punctuation ", "punctuation mark ", "reference "], "A": []}
+{"index": 47961, "D": "a mark (\u2038) made in written or printed matter to show the place where something is to be inserted.", "S": ["asterisk", "bullet", "dagger", "diacritical mark", "ditto", "double dagger", "leaders", "punctuation", "punctuation mark", "reference"], "A": []}

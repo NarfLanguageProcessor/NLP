@@ -1,0 +1,1 @@
+{"index": 4353, "D": "something that adds attractiveness; ornament; accessory", "S": ["additions", "attachments", "decorations", "doodads", "embellishments", "extras", "frills", "ornaments", "trimmings"], "A": []}

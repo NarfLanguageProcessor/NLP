@@ -1,1 +1,0 @@
-{"index": 284838, "D": "interested in, concerned with, or based on what is real or practical", "S": [], "A": []}

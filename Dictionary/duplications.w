@@ -1,1 +1,1 @@
-{"index": 94359, "D": "an act or instance of duplicating. ", "S": ["reproduction ", "simulation "], "A": []}
+{"index": 94359, "D": "an act or instance of duplicating. ", "S": ["reproduction", "simulation"], "A": []}

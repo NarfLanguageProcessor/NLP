@@ -1,1 +1,1 @@
-{"index": 81267, "D": "the state or form of being dentate. ", "S": ["bicuspid ", "canine ", "cuspid ", "denticle ", "eyetooth ", "fang ", "grinder ", "incisor ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}
+{"index": 81267, "D": "the state or form of being dentate. ", "S": ["bicuspid", "canine", "cuspid", "denticle", "eyetooth", "fang", "grinder", "incisor", "ivory", "molar", "premolar", "tusk"], "A": []}

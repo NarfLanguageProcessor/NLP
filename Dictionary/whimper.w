@@ -1,1 +1,0 @@
-{"index": 364829, "D": "to cry with low, plaintive, broken sounds.", "S": ["moan ", "weep "], "A": ["bawl "]}

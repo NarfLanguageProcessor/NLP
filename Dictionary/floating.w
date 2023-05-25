@@ -1,1 +1,1 @@
-{"index": 114811, "D": "being buoyed up on water or other liquid.", "S": ["soaring "], "A": ["submerged ", "sunk "]}
+{"index": 114811, "D": "being buoyed up on water or other liquid.", "S": ["soaring"], "A": ["submerged", "sunk"]}

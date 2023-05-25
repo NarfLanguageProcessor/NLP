@@ -1,1 +1,1 @@
-{"index": 206657, "D": "not of or relating to religious beliefs and practices", "S": ["profane ", "secular "], "A": ["religious "]}
+{"index": 206657, "D": "not of or relating to religious beliefs and practices", "S": ["profane", "secular"], "A": ["religious"]}

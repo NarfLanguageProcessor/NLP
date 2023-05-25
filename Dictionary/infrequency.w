@@ -1,1 +1,1 @@
-{"index": 152355, "D": "state of being infrequent. ", "S": ["irregularity ", "scarcity ", "uncommonness ", "unpredictability "], "A": []}
+{"index": 152355, "D": "state of being infrequent. ", "S": ["irregularity", "scarcity", "uncommonness", "unpredictability"], "A": []}

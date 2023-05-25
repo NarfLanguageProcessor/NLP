@@ -1,1 +1,1 @@
-{"index": 237617, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["raider "], "A": []}
+{"index": 237617, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["raider"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 78370, "D": "the destruction of a great number or proportion of people, animals, or things", "S": ["demolition ", "destruction ", "elimination ", "eradication ", "extermination ", "extinction ", "liquidation "], "A": ["building ", "construction "]}
+{"index": 78370, "D": "the destruction of a great number or proportion of people, animals, or things", "S": ["demolition", "destruction", "elimination", "eradication", "extermination", "extinction", "liquidation"], "A": ["building", "construction"]}

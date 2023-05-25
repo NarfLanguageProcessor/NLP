@@ -1,1 +1,1 @@
-{"index": 18783, "D": "the diocese  of an archbishop.", "S": ["church "], "A": []}
+{"index": 18783, "D": "the diocese  of an archbishop.", "S": ["church"], "A": []}

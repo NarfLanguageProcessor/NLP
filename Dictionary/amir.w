@@ -1,1 +1,1 @@
-{"index": 10657, "D": "a variant spelling of emir", "S": ["chieftain ", "governor ", "leader ", "shah ", "sheik "], "A": []}
+{"index": 10657, "D": "a variant spelling of emir", "S": ["chieftain", "governor", "leader", "shah", "sheik"], "A": []}

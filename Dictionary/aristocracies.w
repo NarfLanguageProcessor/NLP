@@ -1,1 +1,1 @@
-{"index": 19757, "D": "a class of persons holding exceptional rank and privileges, especially the hereditary nobility.", "S": ["elite ", "gentility ", "gentry ", "nobility ", "upper class ", "upper crust "], "A": ["commoners ", "proletariat "]}
+{"index": 19757, "D": "a class of persons holding exceptional rank and privileges, especially the hereditary nobility.", "S": ["elite", "gentility", "gentry", "nobility", "upper class", "upper crust"], "A": ["commoners", "proletariat"]}

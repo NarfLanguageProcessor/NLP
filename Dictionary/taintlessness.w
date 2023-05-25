@@ -1,1 +1,1 @@
-{"index": 315441, "D": "free from or without taint; pure; innocent.", "S": ["clarity ", "cleanliness ", "cleanness ", "immaculacy ", "immaculateness ", "pureness ", "stainlessness ", "unsulliedness ", "untaintedness ", "whiteness "], "A": []}
+{"index": 315441, "D": "free from or without taint; pure; innocent.", "S": ["clarity", "cleanliness", "cleanness", "immaculacy", "immaculateness", "pureness", "stainlessness", "unsulliedness", "untaintedness", "whiteness"], "A": []}

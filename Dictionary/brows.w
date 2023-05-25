@@ -1,1 +1,1 @@
-{"index": 41670, "D": "the ridge over the eye.", "S": ["eyebrow "], "A": ["back ", "rear "]}
+{"index": 41670, "D": "the ridge over the eye.", "S": ["eyebrow"], "A": ["back", "rear"]}

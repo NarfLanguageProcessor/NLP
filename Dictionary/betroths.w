@@ -1,1 +1,1 @@
-{"index": 32816, "D": "to arrange for the marriage of; affiance (usually used in passive constructions)", "S": ["affiance ", "bind ", "commit ", "contract ", "engage ", "espouse ", "promise ", "vow "], "A": ["break off ", "reject ", "release "]}
+{"index": 32816, "D": "to arrange for the marriage of; affiance (usually used in passive constructions)", "S": ["affiance", "bind", "commit", "contract", "engage", "espouse", "promise", "vow"], "A": ["break off", "reject", "release"]}

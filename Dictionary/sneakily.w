@@ -1,1 +1,1 @@
-{"index": 295398, "D": "like or suggestive of a sneak;  furtive; deceitful.", "S": ["covertly ", "secretly ", "sub-rosa ", "surreptitiously "], "A": []}
+{"index": 295398, "D": "like or suggestive of a sneak;  furtive; deceitful.", "S": ["covertly", "secretly", "sub-rosa", "surreptitiously"], "A": []}

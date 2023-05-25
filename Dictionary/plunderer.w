@@ -1,1 +1,1 @@
-{"index": 240507, "D": "to rob of goods or valuables by open force, as in war, hostile raids, brigandage, etc.", "S": ["bandit ", "freebooter ", "looter ", "marauder ", "pillager ", "raider ", "spoiler ", "thief ", "vandal "], "A": []}
+{"index": 240507, "D": "to rob of goods or valuables by open force, as in war, hostile raids, brigandage, etc.", "S": ["bandit", "freebooter", "looter", "marauder", "pillager", "raider", "spoiler", "thief", "vandal"], "A": []}

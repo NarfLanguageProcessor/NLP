@@ -1,1 +1,1 @@
-{"index": 338085, "D": "to release the coupling or link between; disconnect; let go", "S": ["disjoining ", "divorce ", "partition ", "rupture ", "severing "], "A": []}
+{"index": 338085, "D": "to release the coupling or link between; disconnect; let go", "S": ["disjoining", "divorce", "partition", "rupture", "severing"], "A": []}

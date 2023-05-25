@@ -1,1 +1,1 @@
-{"index": 340902, "D": "an act of undulating; a wavelike motion.", "S": ["fluctuation ", "roll ", "sway ", "waviness "], "A": []}
+{"index": 340902, "D": "an act of undulating; a wavelike motion.", "S": ["fluctuation", "roll", "sway", "waviness"], "A": []}

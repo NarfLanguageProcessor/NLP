@@ -1,1 +1,1 @@
-{"index": 298049, "D": "a usually small and relatively inexpensive article given, kept, or purchased as a reminder of a place visited, an occasion, etc.; memento.", "S": ["collectibles "], "A": []}
+{"index": 298049, "D": "a usually small and relatively inexpensive article given, kept, or purchased as a reminder of a place visited, an occasion, etc.; memento.", "S": ["collectibles"], "A": []}

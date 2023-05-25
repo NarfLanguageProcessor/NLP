@@ -1,1 +1,1 @@
-{"index": 144221, "D": "of, relating to, or characteristic of an enemy", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}
+{"index": 144221, "D": "of, relating to, or characteristic of an enemy", "S": ["individually", "negatively", "separately", "variously"], "A": ["together"]}

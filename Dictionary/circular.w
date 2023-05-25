@@ -1,1 +1,1 @@
-{"index": 58008, "D": "having the form of a circle; round", "S": ["oblique ", "round ", "spheroid "], "A": []}
+{"index": 58008, "D": "having the form of a circle; round", "S": ["oblique", "round", "spheroid"], "A": []}

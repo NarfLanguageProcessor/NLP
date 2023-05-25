@@ -1,1 +1,1 @@
-{"index": 60043, "D": "pertaining to a clinic.", "S": ["analytic ", "impersonal ", "scientific "], "A": ["feeling ", "passionate ", "subjective "]}
+{"index": 60043, "D": "pertaining to a clinic.", "S": ["analytic", "impersonal", "scientific"], "A": ["feeling", "passionate", "subjective"]}

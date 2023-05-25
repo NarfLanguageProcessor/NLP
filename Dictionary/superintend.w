@@ -1,1 +1,1 @@
-{"index": 312125, "D": "to oversee and direct (work, processes, etc.).", "S": ["conduct ", "manage ", "oversee ", "watch "], "A": []}
+{"index": 312125, "D": "to oversee and direct (work, processes, etc.).", "S": ["conduct", "manage", "oversee", "watch"], "A": []}

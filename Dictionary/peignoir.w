@@ -1,1 +1,1 @@
-{"index": 229161, "D": "a woman's dressing gown.", "S": ["kimono ", "smock "], "A": []}
+{"index": 229161, "D": "a woman's dressing gown.", "S": ["kimono", "smock"], "A": []}

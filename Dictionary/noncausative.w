@@ -1,1 +1,0 @@
-{"index": 201847, "D": "acting as a cause;  producing (often followed by of)", "S": [], "A": []}

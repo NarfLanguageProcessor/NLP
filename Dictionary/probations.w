@@ -1,1 +1,1 @@
-{"index": 251045, "D": "the act of testing.", "S": ["trial "], "A": []}
+{"index": 251045, "D": "the act of testing.", "S": ["trial"], "A": []}

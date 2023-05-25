@@ -1,1 +1,1 @@
-{"index": 110306, "D": [], "S": ["lethargy ", "weakness ", "weariness "], "A": ["ability ", "energy ", "health ", "liveliness ", "strength ", "vigor "]}
+{"index": 110306, "D": [], "S": ["lethargy", "weakness", "weariness"], "A": ["ability", "energy", "health", "liveliness", "strength", "vigor"]}

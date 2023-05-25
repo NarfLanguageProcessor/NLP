@@ -1,1 +1,1 @@
-{"index": 286750, "D": "separately; singly.", "S": ["aside ", "individually ", "respectively ", "separately "], "A": ["together "]}
+{"index": 286750, "D": "separately; singly.", "S": ["aside", "individually", "respectively", "separately"], "A": ["together"]}

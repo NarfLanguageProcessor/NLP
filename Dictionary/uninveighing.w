@@ -1,1 +1,0 @@
-{"index": 344845, "D": "to protest strongly or attack vehemently with words; rail (usually followed by against)", "S": [], "A": []}

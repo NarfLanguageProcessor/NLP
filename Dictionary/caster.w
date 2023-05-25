@@ -1,1 +1,1 @@
-{"index": 49064, "D": "a person or thing that casts. ", "S": ["beaker ", "canteen ", "carafe ", "chalice ", "decanter ", "jug ", "urn ", "vial "], "A": []}
+{"index": 49064, "D": "a person or thing that casts. ", "S": ["beaker", "canteen", "carafe", "chalice", "decanter", "jug", "urn", "vial"], "A": []}

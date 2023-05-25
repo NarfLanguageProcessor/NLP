@@ -1,1 +1,1 @@
-{"index": 21517, "D": "pertaining to or suited for aspiration.", "S": ["paratrophic ", "suctorial "], "A": []}
+{"index": 21517, "D": "pertaining to or suited for aspiration.", "S": ["paratrophic", "suctorial"], "A": []}

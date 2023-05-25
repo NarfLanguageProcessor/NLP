@@ -1,1 +1,1 @@
-{"index": 139555, "D": "of or relating to marriage.", "S": ["espousal ", "nuptial ", "spousal "], "A": ["divorce "]}
+{"index": 139555, "D": "of or relating to marriage.", "S": ["espousal", "nuptial", "spousal"], "A": ["divorce"]}

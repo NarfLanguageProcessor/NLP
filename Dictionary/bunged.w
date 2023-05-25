@@ -1,1 +1,1 @@
-{"index": 42844, "D": "a stopper for the opening of a cask.", "S": ["bung ", "cast ", "chuck ", "chunk ", "fire ", "fling ", "flip ", "heave ", "hurl ", "launch ", "lob ", "peg ", "pitch ", "sling ", "twirl ", "wing "], "A": []}
+{"index": 42844, "D": "a stopper for the opening of a cask.", "S": ["bung", "cast", "chuck", "chunk", "fire", "fling", "flip", "heave", "hurl", "launch", "lob", "peg", "pitch", "sling", "twirl", "wing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 278953, "D": "to walk with a leisurely gait; stroll", "S": ["hiker "], "A": ["runner "]}
+{"index": 278953, "D": "to walk with a leisurely gait; stroll", "S": ["hiker"], "A": ["runner"]}

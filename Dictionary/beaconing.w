@@ -1,1 +1,1 @@
-{"index": 29378, "D": "a guiding or warning signal, as a light or fire, especially one in an elevated position.", "S": ["drive ", "escort ", "govern ", "herd ", "shepherd "], "A": []}
+{"index": 29378, "D": "a guiding or warning signal, as a light or fire, especially one in an elevated position.", "S": ["drive", "escort", "govern", "herd", "shepherd"], "A": []}

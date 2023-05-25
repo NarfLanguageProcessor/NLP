@@ -1,1 +1,1 @@
-{"index": 275178, "D": "a river in N Italy flowing E into the Adriatic. 15 miles (24 km) long", "S": ["climax ", "crossroads ", "crunch ", "decisive moment ", "defining moment ", "match point ", "moment of truth ", "terminus ", "turning point ", "when push comes to shove "], "A": []}
+{"index": 275178, "D": "a river in N Italy flowing E into the Adriatic. 15 miles (24 km) long", "S": ["climax", "crossroads", "crunch", "decisive moment", "defining moment", "match point", "moment of truth", "terminus", "turning point", "when push comes to shove"], "A": []}

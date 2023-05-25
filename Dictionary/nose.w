@@ -1,1 +1,1 @@
-{"index": 208675, "D": "the part of the face or facial region in humans and certain animals that contains the nostrils and the organs of smell and functions as the usual passageway for air in respiration", "S": ["beak ", "snout "], "A": []}
+{"index": 208675, "D": "the part of the face or facial region in humans and certain animals that contains the nostrils and the organs of smell and functions as the usual passageway for air in respiration", "S": ["beak", "snout"], "A": []}

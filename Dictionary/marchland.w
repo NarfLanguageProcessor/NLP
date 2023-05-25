@@ -1,1 +1,1 @@
-{"index": 179910, "D": "borderland. ", "S": ["edge ", "entrance ", "line ", "outpost "], "A": ["center ", "inside ", "interior ", "mainland ", "middle ", "region ", "territory "]}
+{"index": 179910, "D": "borderland. ", "S": ["edge", "entrance", "line", "outpost"], "A": ["center", "inside", "interior", "mainland", "middle", "region", "territory"]}

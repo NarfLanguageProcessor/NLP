@@ -1,1 +1,1 @@
-{"index": 11627, "D": "US name", "S": ["analgesic ", "anodyne ", "dope ", "gas ", "hypnotic ", "inhalant ", "narcotic ", "opiate ", "pain-killer ", "shot ", "soporific ", "spinal "], "A": []}
+{"index": 11627, "D": "US name", "S": ["analgesic", "anodyne", "dope", "gas", "hypnotic", "inhalant", "narcotic", "opiate", "pain-killer", "shot", "soporific", "spinal"], "A": []}

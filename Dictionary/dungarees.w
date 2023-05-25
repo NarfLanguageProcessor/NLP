@@ -1,1 +1,1 @@
-{"index": 94162, "D": "blue jeans. ", "S": ["denims ", "jeans ", "pants ", "trousers "], "A": []}
+{"index": 94162, "D": "blue jeans. ", "S": ["denims", "jeans", "pants", "trousers"], "A": []}

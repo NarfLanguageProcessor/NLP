@@ -1,1 +1,1 @@
-{"index": 3084, "D": [], "S": ["call up ", "mobilize ", "stimulate ", "switch on ", "trigger ", "turn on "], "A": ["check ", "end ", "halt ", "stop ", "calm ", "discourage ", "dissuade "]}
+{"index": 3084, "D": [], "S": ["call up", "mobilize", "stimulate", "switch on", "trigger", "turn on"], "A": ["check", "end", "halt", "stop", "calm", "discourage", "dissuade"]}

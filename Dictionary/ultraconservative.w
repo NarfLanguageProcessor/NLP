@@ -1,1 +1,1 @@
-{"index": 333881, "D": "extremely conservative,  especially in politics.", "S": ["counterrevolutionary ", "die-hard ", "diehard ", "right-winger ", "rightist ", "traditionalist "], "A": []}
+{"index": 333881, "D": "extremely conservative,  especially in politics.", "S": ["counterrevolutionary", "die-hard", "diehard", "right-winger", "rightist", "traditionalist"], "A": []}

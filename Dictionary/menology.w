@@ -1,1 +1,1 @@
-{"index": 183408, "D": "a calendar of the months.", "S": ["agenda ", "almanac ", "card ", "chronology ", "diary ", "docket ", "journal ", "lineup ", "list ", "program ", "table ", "timetable "], "A": []}
+{"index": 183408, "D": "a calendar of the months.", "S": ["agenda", "almanac", "card", "chronology", "diary", "docket", "journal", "lineup", "list", "program", "table", "timetable"], "A": []}

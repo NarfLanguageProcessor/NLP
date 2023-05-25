@@ -1,1 +1,1 @@
-{"index": 18677, "D": "a specialist in archaeology,  the scientific study of prehistoric peoples and their cultures by analysis of their artifacts, inscriptions, monuments, etc.", "S": ["paleontologist "], "A": []}
+{"index": 18677, "D": "a specialist in archaeology,  the scientific study of prehistoric peoples and their cultures by analysis of their artifacts, inscriptions, monuments, etc.", "S": ["paleontologist"], "A": []}

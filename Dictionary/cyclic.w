@@ -1,1 +1,1 @@
-{"index": 57102, "D": "revolving or recurring in cycles; characterized by recurrence in cycles.", "S": ["cyclical "], "A": []}
+{"index": 57102, "D": "revolving or recurring in cycles; characterized by recurrence in cycles.", "S": ["cyclical"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 67035, "D": "having a condition of the bowels in which the feces are dry and hardened and evacuation is difficult and infrequent", "S": ["obstructed "], "A": ["regular "]}
+{"index": 67035, "D": "having a condition of the bowels in which the feces are dry and hardened and evacuation is difficult and infrequent", "S": ["obstructed"], "A": ["regular"]}

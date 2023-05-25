@@ -1,1 +1,1 @@
-{"index": 149395, "D": "unintentional", "S": ["careless ", "reckless ", "unintended ", "unintentional ", "unwitting "], "A": ["careful ", "cautious ", "intentional "]}
+{"index": 149395, "D": "unintentional", "S": ["careless", "reckless", "unintended", "unintentional", "unwitting"], "A": ["careful", "cautious", "intentional"]}

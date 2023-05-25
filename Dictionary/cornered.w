@@ -1,1 +1,1 @@
-{"index": 69269, "D": "having corners  (usually used in combination)", "S": ["treed "], "A": []}
+{"index": 69269, "D": "having corners  (usually used in combination)", "S": ["treed"], "A": []}

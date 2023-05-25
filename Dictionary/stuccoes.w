@@ -1,1 +1,1 @@
-{"index": 306757, "D": "an exterior finish for masonry or frame walls, usually composed of cement, sand, and hydrated lime mixed with water and laid on wet.", "S": ["adhesive ", "cement ", "glue ", "lime ", "mortar "], "A": []}
+{"index": 306757, "D": "an exterior finish for masonry or frame walls, usually composed of cement, sand, and hydrated lime mixed with water and laid on wet.", "S": ["adhesive", "cement", "glue", "lime", "mortar"], "A": []}

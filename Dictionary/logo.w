@@ -1,1 +1,1 @@
-{"index": 174655, "D": "a graphic representation or symbol of a company name, trademark, abbreviation, etc., often uniquely designed for ready recognition.", "S": ["brand ", "emblem ", "label ", "symbol ", "tag "], "A": []}
+{"index": 174655, "D": "a graphic representation or symbol of a company name, trademark, abbreviation, etc., often uniquely designed for ready recognition.", "S": ["brand", "emblem", "label", "symbol", "tag"], "A": []}

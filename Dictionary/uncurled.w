@@ -1,1 +1,0 @@
-{"index": 338325, "D": "to straighten or become straightened out from a curl  or curled  position.", "S": ["consecutive ", "nonstop ", "short ", "smooth ", "solid ", "straightforward ", "successive ", "true "], "A": ["broken ", "intermittent ", "level ", "uneven ", "varying "]}

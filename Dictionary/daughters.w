@@ -1,1 +1,1 @@
-{"index": 77254, "D": "a female child or person in relation to her parents.", "S": ["girl ", "offspring ", "woman "], "A": []}
+{"index": 77254, "D": "a female child or person in relation to her parents.", "S": ["girl", "offspring", "woman"], "A": []}

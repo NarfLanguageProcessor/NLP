@@ -1,1 +1,1 @@
-{"index": 195272, "D": "the act or process of multiplying  or the state of being multiplied. ", "S": ["amplification "], "A": ["decrease ", "loss ", "subtraction "]}
+{"index": 195272, "D": "the act or process of multiplying  or the state of being multiplied. ", "S": ["amplification"], "A": ["decrease", "loss", "subtraction"]}

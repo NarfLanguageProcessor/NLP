@@ -1,1 +1,1 @@
-{"index": 181054, "D": [], "S": ["clone ", "impersonation ", "impression ", "mimicry ", "parody ", "reflection ", "replica ", "reproduction "], "A": ["original ", "difference ", "opposite ", "reality ", "seriousness ", "solemnity "]}
+{"index": 181054, "D": [], "S": ["clone", "impersonation", "impression", "mimicry", "parody", "reflection", "replica", "reproduction"], "A": ["original", "difference", "opposite", "reality", "seriousness", "solemnity"]}

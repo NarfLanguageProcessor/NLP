@@ -1,1 +1,1 @@
-{"index": 106585, "D": "possessing outstanding quality or superior merit; remarkably good.", "S": ["famously ", "magnificently ", "splendidly "], "A": ["awkwardly ", "badly ", "poorly "]}
+{"index": 106585, "D": "possessing outstanding quality or superior merit; remarkably good.", "S": ["famously", "magnificently", "splendidly"], "A": ["awkwardly", "badly", "poorly"]}

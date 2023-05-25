@@ -1,1 +1,1 @@
-{"index": 57990, "D": "an act or instance of going or moving around.", "S": ["cabled ", "lined "], "A": []}
+{"index": 57990, "D": "an act or instance of going or moving around.", "S": ["cabled", "lined"], "A": []}

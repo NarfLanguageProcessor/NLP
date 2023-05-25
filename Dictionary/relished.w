@@ -1,1 +1,1 @@
-{"index": 266994, "D": "liking or enjoyment of the taste of something.", "S": ["admire ", "cherish ", "delight in ", "enjoy ", "go for ", "prefer ", "revel in ", "savor "], "A": ["detest ", "dislike ", "hate ", "ignore "]}
+{"index": 266994, "D": "liking or enjoyment of the taste of something.", "S": ["admire", "cherish", "delight in", "enjoy", "go for", "prefer", "revel in", "savor"], "A": ["detest", "dislike", "hate", "ignore"]}

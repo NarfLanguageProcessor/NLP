@@ -1,1 +1,1 @@
-{"index": 185668, "D": "noxious exhalations from putrescent organic matter; poisonous effluvia or germs polluting the atmosphere.", "S": ["contagious ", "toxic ", "virulent "], "A": ["harmless ", "nonpoisonous "]}
+{"index": 185668, "D": "noxious exhalations from putrescent organic matter; poisonous effluvia or germs polluting the atmosphere.", "S": ["contagious", "toxic", "virulent"], "A": ["harmless", "nonpoisonous"]}

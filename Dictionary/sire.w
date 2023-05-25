@@ -1,1 +1,1 @@
-{"index": 292316, "D": "the male parent of a quadruped.", "S": ["ancestor ", "begetter ", "creator ", "forefather ", "lord ", "parent ", "pater "], "A": []}
+{"index": 292316, "D": "the male parent of a quadruped.", "S": ["ancestor", "begetter", "creator", "forefather", "lord", "parent", "pater"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 205327, "D": "capable of moving or being moved readily.", "S": [], "A": []}

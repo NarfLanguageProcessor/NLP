@@ -1,1 +1,1 @@
-{"index": 294684, "D": "of limited size; of comparatively restricted dimensions; not big; little", "S": ["littlest "], "A": []}
+{"index": 294684, "D": "of limited size; of comparatively restricted dimensions; not big; little", "S": ["littlest"], "A": []}

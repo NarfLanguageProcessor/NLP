@@ -1,1 +1,1 @@
-{"index": 100425, "D": "to swallow greedily; glut or gorge", "S": ["down ", "englut ", "glut ", "gobble ", "gorge ", "guzzle ", "ingurgitate ", "overeat ", "overindulge ", "stuff ", "wolf "], "A": ["abstain ", "diet ", "fast ", "nibble "]}
+{"index": 100425, "D": "to swallow greedily; glut or gorge", "S": ["down", "englut", "glut", "gobble", "gorge", "guzzle", "ingurgitate", "overeat", "overindulge", "stuff", "wolf"], "A": ["abstain", "diet", "fast", "nibble"]}

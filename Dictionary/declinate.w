@@ -1,1 +1,1 @@
-{"index": 78489, "D": "having a downward curve or slope; bending away, as from the horizontal", "S": ["arched ", "crooked ", "curvaceous ", "elliptical ", "rounded ", "serpentine ", "twisted ", "twisting "], "A": ["straight "]}
+{"index": 78489, "D": "having a downward curve or slope; bending away, as from the horizontal", "S": ["arched", "crooked", "curvaceous", "elliptical", "rounded", "serpentine", "twisted", "twisting"], "A": ["straight"]}

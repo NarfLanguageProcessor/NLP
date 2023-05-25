@@ -1,1 +1,1 @@
-{"index": 8762, "D": "pertaining to or characterized by alliteration", "S": ["boring ", "redundant ", "repetitive "], "A": ["concise ", "simple "]}
+{"index": 8762, "D": "pertaining to or characterized by alliteration", "S": ["boring", "redundant", "repetitive"], "A": ["concise", "simple"]}

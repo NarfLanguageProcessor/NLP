@@ -1,1 +1,1 @@
-{"index": 23249, "D": "a publicly held sale at which property or goods are sold to the highest bidder.", "S": ["advertise ", "auction ", "close ", "handle ", "hawk ", "market ", "move ", "peddle ", "trade "], "A": ["buy ", "conceal ", "discourage ", "dissuade ", "hide ", "hold ", "keep "]}
+{"index": 23249, "D": "a publicly held sale at which property or goods are sold to the highest bidder.", "S": ["advertise", "auction", "close", "handle", "hawk", "market", "move", "peddle", "trade"], "A": ["buy", "conceal", "discourage", "dissuade", "hide", "hold", "keep"]}

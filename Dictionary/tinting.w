@@ -1,1 +1,1 @@
-{"index": 324112, "D": "a color or a variety of a color; hue.", "S": ["coloration ", "complexion ", "glow ", "hue ", "tinge "], "A": ["cleanliness ", "lot "]}
+{"index": 324112, "D": "a color or a variety of a color; hue.", "S": ["coloration", "complexion", "glow", "hue", "tinge"], "A": ["cleanliness", "lot"]}

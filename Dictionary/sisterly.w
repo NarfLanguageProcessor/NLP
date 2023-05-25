@@ -1,1 +1,1 @@
-{"index": 292580, "D": "of, like, or befitting a sister", "S": ["amatory ", "amorous ", "anacreontic ", "ardent ", "brotherly ", "doting ", "enamored ", "erotic ", "fervent ", "fervid ", "impassioned ", "indulgent ", "loving ", "overindulgent ", "tender ", "warm "], "A": ["platonic "]}
+{"index": 292580, "D": "of, like, or befitting a sister", "S": ["amatory", "amorous", "anacreontic", "ardent", "brotherly", "doting", "enamored", "erotic", "fervent", "fervid", "impassioned", "indulgent", "loving", "overindulgent", "tender", "warm"], "A": ["platonic"]}

@@ -1,1 +1,1 @@
-{"index": 71237, "D": "rustic or rural in appearance, conduct, etc.", "S": ["agrarian ", "rural ", "rustic "], "A": []}
+{"index": 71237, "D": "rustic or rural in appearance, conduct, etc.", "S": ["agrarian", "rural", "rustic"], "A": []}

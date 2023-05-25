@@ -1,1 +1,1 @@
-{"index": 1196, "D": "to be adjacent; touch or join at the edge or border (often followed by on, upon, or against)", "S": ["adjoin ", "border on "], "A": []}
+{"index": 1196, "D": "to be adjacent; touch or join at the edge or border (often followed by on, upon, or against)", "S": ["adjoin", "border on"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4016, "D": "to suspend the meeting of (a club, legislature, committee, etc.) to a future time, another place, or indefinitely", "S": ["defer", "delay", "discontinue", "postpone", "put off", "recess", "shelve", "suspend"], "A": ["advance", "carry out", "continue", "do", "expedite", "forward", "hasten", "hurry"]}

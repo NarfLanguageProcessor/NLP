@@ -1,1 +1,1 @@
-{"index": 30991, "D": "after the customary, useful, or expected time", "S": ["slowly "], "A": []}
+{"index": 30991, "D": "after the customary, useful, or expected time", "S": ["slowly"], "A": []}

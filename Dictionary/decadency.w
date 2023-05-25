@@ -1,1 +1,1 @@
-{"index": 77903, "D": "the act or process of falling into an inferior condition or state; deterioration; decay", "S": ["decadence ", "decay ", "declination ", "decline ", "degeneracy ", "degeneration ", "worsening "], "A": ["development ", "improvement ", "morality "]}
+{"index": 77903, "D": "the act or process of falling into an inferior condition or state; deterioration; decay", "S": ["decadence", "decay", "declination", "decline", "degeneracy", "degeneration", "worsening"], "A": ["development", "improvement", "morality"]}

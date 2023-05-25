@@ -1,1 +1,1 @@
-{"index": 27499, "D": "the business carried on by a bank  or a banker. ", "S": ["investment "], "A": []}
+{"index": 27499, "D": "the business carried on by a bank  or a banker. ", "S": ["investment"], "A": []}

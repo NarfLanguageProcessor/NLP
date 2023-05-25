@@ -1,1 +1,0 @@
-{"index": 300825, "D": "the state, quality, or fact of being spontaneous. ", "S": ["improvisation ", "impulse ", "inclination ", "tendency ", "whim ", "will "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 36305, "D": "talking foolishly; jabbering", "S": ["blabbering ", "blathering ", "chitchatting ", "driveling ", "gibbering ", "jabbering ", "prattling "], "A": []}
+{"index": 36305, "D": "talking foolishly; jabbering", "S": ["blabbering", "blathering", "chitchatting", "driveling", "gibbering", "jabbering", "prattling"], "A": []}

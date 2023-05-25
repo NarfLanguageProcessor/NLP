@@ -1,1 +1,1 @@
-{"index": 265490, "D": "regulations. ", "S": ["act ", "case ", "charge ", "charter ", "code ", "constitution ", "decision ", "decree ", "legislation ", "mandate ", "measure ", "order ", "precedent ", "regulation ", "requirement ", "ruling ", "statute "], "A": ["disorganization ", "lawlessness "]}
+{"index": 265490, "D": "regulations. ", "S": ["act", "case", "charge", "charter", "code", "constitution", "decision", "decree", "legislation", "mandate", "measure", "order", "precedent", "regulation", "requirement", "ruling", "statute"], "A": ["disorganization", "lawlessness"]}

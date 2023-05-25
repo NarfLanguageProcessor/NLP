@@ -1,1 +1,1 @@
-{"index": 209910, "D": "(used as a command to the crew of a scull or other similar boat to cease rowing and hold the oars horizontal with blades feathered.)", "S": ["blade ", "pole ", "propel ", "row ", "scull ", "spoon oar ", "sweep "], "A": []}
+{"index": 209910, "D": "(used as a command to the crew of a scull or other similar boat to cease rowing and hold the oars horizontal with blades feathered.)", "S": ["blade", "pole", "propel", "row", "scull", "spoon oar", "sweep"], "A": []}

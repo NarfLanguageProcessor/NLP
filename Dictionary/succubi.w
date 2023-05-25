@@ -1,1 +1,1 @@
-{"index": 309898, "D": "Compare incubus (def. 1). ", "S": ["monster ", "vampire ", "villain "], "A": ["angel ", "god "]}
+{"index": 309898, "D": "Compare incubus (def. 1). ", "S": ["monster", "vampire", "villain"], "A": ["angel", "god"]}

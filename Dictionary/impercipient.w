@@ -1,1 +1,1 @@
-{"index": 148501, "D": "lacking perception; imperceptive.", "S": ["astigmatic ", "blind ", "heedless ", "inattentive ", "incurious ", "unseeing "], "A": ["observant "]}
+{"index": 148501, "D": "lacking perception; imperceptive.", "S": ["astigmatic", "blind", "heedless", "inattentive", "incurious", "unseeing"], "A": ["observant"]}

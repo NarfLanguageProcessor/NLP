@@ -1,1 +1,1 @@
-{"index": 294230, "D": "pottery decorated with slip. ", "S": ["wares "], "A": []}
+{"index": 294230, "D": "pottery decorated with slip. ", "S": ["wares"], "A": []}

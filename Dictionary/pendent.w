@@ -1,1 +1,1 @@
-{"index": 229556, "D": "hanging or suspended", "S": ["dangling ", "hanging ", "overhanging ", "pendant ", "pendulous ", "pensile "], "A": []}
+{"index": 229556, "D": "hanging or suspended", "S": ["dangling", "hanging", "overhanging", "pendant", "pendulous", "pensile"], "A": []}

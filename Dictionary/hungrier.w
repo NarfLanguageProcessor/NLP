@@ -1,1 +1,1 @@
-{"index": 145154, "D": "having a desire, craving, or need for food; feeling hunger. ", "S": ["eager ", "greedy ", "keen ", "ravenous ", "starved "], "A": ["full ", "unenthusiastic "]}
+{"index": 145154, "D": "having a desire, craving, or need for food; feeling hunger. ", "S": ["eager", "greedy", "keen", "ravenous", "starved"], "A": ["full", "unenthusiastic"]}

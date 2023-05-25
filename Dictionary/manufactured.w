@@ -1,1 +1,1 @@
-{"index": 179652, "D": "the making of goods or wares by manual labor or by machinery, especially on a large scale", "S": ["assembled ", "completed ", "constructed ", "fabricated ", "mass-produced ", "produced ", "shaped "], "A": ["incomplete ", "unfinished "]}
+{"index": 179652, "D": "the making of goods or wares by manual labor or by machinery, especially on a large scale", "S": ["assembled", "completed", "constructed", "fabricated", "mass-produced", "produced", "shaped"], "A": ["incomplete", "unfinished"]}

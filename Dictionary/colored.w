@@ -1,1 +1,1 @@
-{"index": 63336, "D": "having color.", "S": ["dyed ", "flushed ", "glowing ", "hued ", "shaded ", "stained ", "tinged ", "tinted ", "washed "], "A": ["genuine ", "honest ", "real ", "truthful ", "white "]}
+{"index": 63336, "D": "having color.", "S": ["dyed", "flushed", "glowing", "hued", "shaded", "stained", "tinged", "tinted", "washed"], "A": ["genuine", "honest", "real", "truthful", "white"]}

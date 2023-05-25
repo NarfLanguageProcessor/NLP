@@ -1,1 +1,1 @@
-{"index": 183183, "D": "the mental capacity or faculty of retaining and reviving facts, events, impressions, etc., or of recalling or recognizing previous experiences.", "S": ["consciousness ", "mind ", "recollection ", "remembrance ", "thought "], "A": ["forgetfulness ", "ignorance "]}
+{"index": 183183, "D": "the mental capacity or faculty of retaining and reviving facts, events, impressions, etc., or of recalling or recognizing previous experiences.", "S": ["consciousness", "mind", "recollection", "remembrance", "thought"], "A": ["forgetfulness", "ignorance"]}

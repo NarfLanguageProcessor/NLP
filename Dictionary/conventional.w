@@ -1,1 +1,1 @@
-{"index": 67970, "D": "conforming or adhering to accepted standards, as of conduct or taste", "S": ["current ", "ordinary ", "regular ", "traditional ", "typical "], "A": ["abnormal ", "different ", "extraordinary ", "irregular ", "rare ", "uncommon ", "unusual "]}
+{"index": 67970, "D": "conforming or adhering to accepted standards, as of conduct or taste", "S": ["current", "ordinary", "regular", "traditional", "typical"], "A": ["abnormal", "different", "extraordinary", "irregular", "rare", "uncommon", "unusual"]}

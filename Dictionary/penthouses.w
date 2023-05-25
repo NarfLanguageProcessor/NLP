@@ -1,1 +1,1 @@
-{"index": 230070, "D": "an apartment or dwelling on the roof of a building, usually set back from the outer walls.", "S": ["brood "], "A": []}
+{"index": 230070, "D": "an apartment or dwelling on the roof of a building, usually set back from the outer walls.", "S": ["brood"], "A": []}

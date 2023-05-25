@@ -1,1 +1,1 @@
-{"index": 268236, "D": "the act of replacing. ", "S": ["reinstatement ", "restoration ", "stand-in "], "A": ["predecessor "]}
+{"index": 268236, "D": "the act of replacing. ", "S": ["reinstatement", "restoration", "stand-in"], "A": ["predecessor"]}

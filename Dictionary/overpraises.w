@@ -1,1 +1,1 @@
-{"index": 220607, "D": "to praise excessively or unduly.", "S": ["adulation ", "baloney ", "blandishment ", "cajolery ", "coaxing ", "compliments ", "exaggeration ", "eyewash ", "fawning ", "honey ", "incense ", "ingratiation ", "oil ", "wheedling "], "A": []}
+{"index": 220607, "D": "to praise excessively or unduly.", "S": ["adulation", "baloney", "blandishment", "cajolery", "coaxing", "compliments", "exaggeration", "eyewash", "fawning", "honey", "incense", "ingratiation", "oil", "wheedling"], "A": []}

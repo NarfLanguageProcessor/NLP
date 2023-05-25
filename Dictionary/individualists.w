@@ -1,1 +1,1 @@
-{"index": 151176, "D": "a person who shows great independence or individuality  in thought or action.", "S": ["independent ", "maverick "], "A": []}
+{"index": 151176, "D": "a person who shows great independence or individuality  in thought or action.", "S": ["independent", "maverick"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 323291, "D": "a delicate bit or morsel of food.", "S": ["goody ", "morsel "], "A": ["lot "]}
+{"index": 323291, "D": "a delicate bit or morsel of food.", "S": ["goody", "morsel"], "A": ["lot"]}

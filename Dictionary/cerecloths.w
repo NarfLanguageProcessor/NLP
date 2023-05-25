@@ -1,1 +1,1 @@
-{"index": 51447, "D": "cloth coated or impregnated with wax so as to be waterproof, formerly used for wrapping the dead, for bandages, etc.", "S": ["cloak ", "pall ", "veil "], "A": ["brightness ", "light "]}
+{"index": 51447, "D": "cloth coated or impregnated with wax so as to be waterproof, formerly used for wrapping the dead, for bandages, etc.", "S": ["cloak", "pall", "veil"], "A": ["brightness", "light"]}

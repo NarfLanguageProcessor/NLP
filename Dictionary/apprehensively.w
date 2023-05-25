@@ -1,1 +1,1 @@
-{"index": 17934, "D": "uneasy or fearful about something that might happen", "S": ["breathlessly ", "eagerly ", "frantically ", "furiously ", "heatedly ", "madly ", "passionately ", "tensely ", "wildly "], "A": []}
+{"index": 17934, "D": "uneasy or fearful about something that might happen", "S": ["breathlessly", "eagerly", "frantically", "furiously", "heatedly", "madly", "passionately", "tensely", "wildly"], "A": []}

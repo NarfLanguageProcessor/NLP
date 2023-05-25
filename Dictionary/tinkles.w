@@ -1,1 +1,1 @@
-{"index": 324037, "D": "to give forth or make a succession of short, light, ringing sounds, as a small bell.", "S": ["chime ", "chink ", "clink ", "ding ", "jangle ", "sound ", "ting ", "tingle ", "tintinnabulate "], "A": []}
+{"index": 324037, "D": "to give forth or make a succession of short, light, ringing sounds, as a small bell.", "S": ["chime", "chink", "clink", "ding", "jangle", "sound", "ting", "tingle", "tintinnabulate"], "A": []}

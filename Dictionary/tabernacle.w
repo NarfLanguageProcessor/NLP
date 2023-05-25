@@ -1,1 +1,1 @@
-{"index": 314790, "D": "any place or house of worship, especially one designed for a large congregation.", "S": ["habitation ", "niche ", "reliquary ", "sanctuary ", "shelter ", "shrine ", "temple ", "tent "], "A": []}
+{"index": 314790, "D": "any place or house of worship, especially one designed for a large congregation.", "S": ["habitation", "niche", "reliquary", "sanctuary", "shelter", "shrine", "temple", "tent"], "A": []}

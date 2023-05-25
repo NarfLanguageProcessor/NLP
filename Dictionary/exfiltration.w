@@ -1,1 +1,1 @@
-{"index": 107087, "D": "to escape furtively from an area under enemy control.", "S": ["exodus "], "A": ["arrival ", "coming "]}
+{"index": 107087, "D": "to escape furtively from an area under enemy control.", "S": ["exodus"], "A": ["arrival", "coming"]}

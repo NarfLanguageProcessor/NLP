@@ -1,0 +1,1 @@
+{"index": 12075, "D": "of or relating to Anatolia,  its inhabitants, or their language.", "S": [], "A": []}

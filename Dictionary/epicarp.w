@@ -1,1 +1,1 @@
-{"index": 102230, "D": "the outermost layer of a pericarp, as the rind or peel of certain fruits.", "S": ["bark ", "cover ", "exocarp ", "husk ", "peeling ", "pellicle ", "rind ", "shell ", "shuck "], "A": ["innards ", "insides "]}
+{"index": 102230, "D": "the outermost layer of a pericarp, as the rind or peel of certain fruits.", "S": ["bark", "cover", "exocarp", "husk", "peeling", "pellicle", "rind", "shell", "shuck"], "A": ["innards", "insides"]}

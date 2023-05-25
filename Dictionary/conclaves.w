@@ -1,1 +1,1 @@
-{"index": 65358, "D": "a private or secret meeting.", "S": ["confab "], "A": []}
+{"index": 65358, "D": "a private or secret meeting.", "S": ["confab"], "A": []}

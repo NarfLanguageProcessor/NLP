@@ -1,1 +1,1 @@
-{"index": 65378, "D": "the end or close; final part.", "S": ["dossier ", "evidence ", "goods ", "info ", "input ", "knowledge ", "picture ", "statistics ", "testimony "], "A": []}
+{"index": 65378, "D": "the end or close; final part.", "S": ["dossier", "evidence", "goods", "info", "input", "knowledge", "picture", "statistics", "testimony"], "A": []}

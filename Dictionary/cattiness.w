@@ -1,1 +1,1 @@
-{"index": 49866, "D": "catlike; feline.", "S": ["abuse ", "gossip ", "lie ", "slander ", "spite "], "A": ["praise "]}
+{"index": 49866, "D": "catlike; feline.", "S": ["abuse", "gossip", "lie", "slander", "spite"], "A": ["praise"]}

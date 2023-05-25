@@ -1,1 +1,1 @@
-{"index": 38592, "D": "(of a woman) having a large or prominent bosom. ", "S": ["rounded ", "shapely "], "A": ["flat "]}
+{"index": 38592, "D": "(of a woman) having a large or prominent bosom. ", "S": ["rounded", "shapely"], "A": ["flat"]}

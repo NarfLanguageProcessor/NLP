@@ -1,1 +1,1 @@
-{"index": 293989, "D": "intoxicated; drunk", "S": ["avert ", "bend ", "cover up ", "divert ", "hook ", "pivot ", "ricochet ", "slip ", "swerve ", "veer ", "whip "], "A": ["stay ", "straighten "]}
+{"index": 293989, "D": "intoxicated; drunk", "S": ["avert", "bend", "cover up", "divert", "hook", "pivot", "ricochet", "slip", "swerve", "veer", "whip"], "A": ["stay", "straighten"]}

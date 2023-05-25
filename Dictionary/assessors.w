@@ -1,1 +1,1 @@
-{"index": 21727, "D": "a person who makes assessments, especially for purposes of taxation.", "S": ["auditor ", "controller ", "detective ", "investigator ", "monitor ", "police officer "], "A": []}
+{"index": 21727, "D": "a person who makes assessments, especially for purposes of taxation.", "S": ["auditor", "controller", "detective", "investigator", "monitor", "police officer"], "A": []}

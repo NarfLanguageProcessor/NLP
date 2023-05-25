@@ -1,1 +1,1 @@
-{"index": 314450, "D": "to cheat (a person, business, etc.) out of money or other assets.", "S": ["deceit ", "deception ", "extortion ", "hoax ", "racket ", "ripoff ", "scam "], "A": ["frankness ", "honesty ", "openness ", "truth ", "truthfulness ", "uprightness ", "forthrightness "]}
+{"index": 314450, "D": "to cheat (a person, business, etc.) out of money or other assets.", "S": ["deceit", "deception", "extortion", "hoax", "racket", "ripoff", "scam"], "A": ["frankness", "honesty", "openness", "truth", "truthfulness", "uprightness", "forthrightness"]}

@@ -1,1 +1,1 @@
-{"index": 123519, "D": "an origin, creation, or beginning.", "S": ["origin ", "provenance "], "A": ["completion ", "conclusion ", "death ", "end ", "ending ", "finish ", "stop "]}
+{"index": 123519, "D": "an origin, creation, or beginning.", "S": ["origin", "provenance"], "A": ["completion", "conclusion", "death", "end", "ending", "finish", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 69757, "D": "the act or state of corrugating  or of being corrugated. ", "S": ["channel ", "crease ", "fold ", "furrow ", "ridge ", "wrinkle "], "A": []}
+{"index": 69757, "D": "the act or state of corrugating  or of being corrugated. ", "S": ["channel", "crease", "fold", "furrow", "ridge", "wrinkle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 193490, "D": [], "S": ["Church of Jesus Christ of the Latter-day Saints ", "Josephites "], "A": []}
+{"index": 193490, "D": [], "S": ["Church of Jesus Christ of the Latter-day Saints", "Josephites"], "A": []}

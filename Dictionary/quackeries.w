@@ -1,1 +1,1 @@
-{"index": 257457, "D": "the practice or methods of a quack. ", "S": ["deceitfulness ", "deception ", "dishonesty ", "imposture ", "misrepresentation ", "pretense ", "trickery "], "A": ["frankness ", "honesty ", "openness ", "reality ", "truth ", "truthfulness "]}
+{"index": 257457, "D": "the practice or methods of a quack. ", "S": ["deceitfulness", "deception", "dishonesty", "imposture", "misrepresentation", "pretense", "trickery"], "A": ["frankness", "honesty", "openness", "reality", "truth", "truthfulness"]}

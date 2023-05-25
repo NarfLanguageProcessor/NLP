@@ -1,1 +1,1 @@
-{"index": 261902, "D": "to name or assign to a position, an office, or the like; designate", "S": ["reelected ", "reestablished ", "reinstalled ", "restored ", "returned "], "A": []}
+{"index": 261902, "D": "to name or assign to a position, an office, or the like; designate", "S": ["reelected", "reestablished", "reinstalled", "restored", "returned"], "A": []}

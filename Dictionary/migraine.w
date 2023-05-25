@@ -1,1 +1,1 @@
-{"index": 187030, "D": "an extremely severe paroxysmal headache, usually confined to one side of the head and often associated with nausea; hemicrania.", "S": ["headache ", "sick headache "], "A": []}
+{"index": 187030, "D": "an extremely severe paroxysmal headache, usually confined to one side of the head and often associated with nausea; hemicrania.", "S": ["headache", "sick headache"], "A": []}

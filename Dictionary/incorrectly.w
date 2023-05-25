@@ -1,1 +1,1 @@
-{"index": 150393, "D": "not correct as to fact; inaccurate; wrong", "S": ["falsely ", "inaccurately ", "wrongly "], "A": []}
+{"index": 150393, "D": "not correct as to fact; inaccurate; wrong", "S": ["falsely", "inaccurately", "wrongly"], "A": []}

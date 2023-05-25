@@ -1,1 +1,1 @@
-{"index": 82469, "D": "the act of treating something sacred or solemn in a sacrilegious or disrespectful way", "S": ["blasphemy "], "A": ["respect ", "reverence "]}
+{"index": 82469, "D": "the act of treating something sacred or solemn in a sacrilegious or disrespectful way", "S": ["blasphemy"], "A": ["respect", "reverence"]}

@@ -1,1 +1,1 @@
-{"index": 315400, "D": "a piece  added at the end; an end piece or appendage.", "S": ["backside ", "extremity ", "hind ", "hindquarters ", "posterior ", "rear ", "reverse ", "stern ", "tail "], "A": ["front "]}
+{"index": 315400, "D": "a piece  added at the end; an end piece or appendage.", "S": ["backside", "extremity", "hind", "hindquarters", "posterior", "rear", "reverse", "stern", "tail"], "A": ["front"]}

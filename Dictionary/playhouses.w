@@ -1,1 +1,1 @@
-{"index": 238761, "D": "a theater.", "S": ["amphitheater ", "assembly hall ", "barn ", "concert hall ", "hall ", "movie house ", "music hall ", "opera house ", "theater "], "A": []}
+{"index": 238761, "D": "a theater.", "S": ["amphitheater", "assembly hall", "barn", "concert hall", "hall", "movie house", "music hall", "opera house", "theater"], "A": []}

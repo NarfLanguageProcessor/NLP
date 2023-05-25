@@ -1,1 +1,1 @@
-{"index": 36635, "D": "a sudden bursting or rupture of an automobile tire.", "S": ["eruption ", "rupture "], "A": []}
+{"index": 36635, "D": "a sudden bursting or rupture of an automobile tire.", "S": ["eruption", "rupture"], "A": []}

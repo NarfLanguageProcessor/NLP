@@ -1,1 +1,1 @@
-{"index": 222312, "D": "to treat, combine, or enrich with oxygen", "S": ["aerate "], "A": []}
+{"index": 222312, "D": "to treat, combine, or enrich with oxygen", "S": ["aerate"], "A": []}

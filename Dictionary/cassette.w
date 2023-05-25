@@ -1,1 +1,1 @@
-{"index": 48961, "D": "See also audiocassette, videocassette. ", "S": ["tape "], "A": []}
+{"index": 48961, "D": "See also audiocassette, videocassette. ", "S": ["tape"], "A": []}

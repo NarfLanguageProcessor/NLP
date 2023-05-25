@@ -1,1 +1,1 @@
-{"index": 225533, "D": "having the nature of a paradox;  self-contradictory.", "S": ["complicated ", "convoluted ", "disturbing ", "intricate ", "obscure ", "perplexing ", "sophisticated "], "A": ["easy ", "simple "]}
+{"index": 225533, "D": "having the nature of a paradox;  self-contradictory.", "S": ["complicated", "convoluted", "disturbing", "intricate", "obscure", "perplexing", "sophisticated"], "A": ["easy", "simple"]}

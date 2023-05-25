@@ -1,1 +1,1 @@
-{"index": 153408, "D": "not satiable; incapable of being satisfied or appeased", "S": ["insistent ", "rapacious ", "ravenous ", "urgent "], "A": ["fulfilled ", "full ", "pleased ", "satisfied "]}
+{"index": 153408, "D": "not satiable; incapable of being satisfied or appeased", "S": ["insistent", "rapacious", "ravenous", "urgent"], "A": ["fulfilled", "full", "pleased", "satisfied"]}

@@ -1,1 +1,1 @@
-{"index": 107993, "D": "a detailed explanation, discursion, or interpretation", "S": ["answer ", "explanation ", "interpretation ", "rationale ", "solution ", "translation "], "A": ["question "]}
+{"index": 107993, "D": "a detailed explanation, discursion, or interpretation", "S": ["answer", "explanation", "interpretation", "rationale", "solution", "translation"], "A": ["question"]}

@@ -1,1 +1,1 @@
-{"index": 280305, "D": "to carry; lug", "S": ["carry ", "drag ", "haul ", "heave ", "lift ", "lurch ", "pull ", "tote ", "tow ", "tug ", "yank "], "A": []}
+{"index": 280305, "D": "to carry; lug", "S": ["carry", "drag", "haul", "heave", "lift", "lurch", "pull", "tote", "tow", "tug", "yank"], "A": []}

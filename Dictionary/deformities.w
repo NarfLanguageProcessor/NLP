@@ -1,1 +1,1 @@
-{"index": 79475, "D": "the quality or state of being deformed,  disfigured, or misshapen.", "S": ["abnormality ", "defect ", "impairment ", "malformation "], "A": ["beauty ", "benefit ", "blessing ", "favor ", "good ", "goodness ", "honor ", "morality ", "purity ", "regularity ", "virtue "]}
+{"index": 79475, "D": "the quality or state of being deformed,  disfigured, or misshapen.", "S": ["abnormality", "defect", "impairment", "malformation"], "A": ["beauty", "benefit", "blessing", "favor", "good", "goodness", "honor", "morality", "purity", "regularity", "virtue"]}

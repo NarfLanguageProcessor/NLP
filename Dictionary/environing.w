@@ -1,1 +1,1 @@
-{"index": 101832, "D": "to form a circle or ring round; surround; envelop", "S": ["circumscribe ", "encircle ", "enclose ", "encompass ", "envelop ", "fence ", "limit ", "surround "], "A": ["free ", "let go ", "open ", "release ", "unloose "]}
+{"index": 101832, "D": "to form a circle or ring round; surround; envelop", "S": ["circumscribe", "encircle", "enclose", "encompass", "envelop", "fence", "limit", "surround"], "A": ["free", "let go", "open", "release", "unloose"]}

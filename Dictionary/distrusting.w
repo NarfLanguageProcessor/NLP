@@ -1,1 +1,1 @@
-{"index": 89961, "D": "to regard with doubt or suspicion; have no trust  in.", "S": ["disbelieve ", "discredit ", "mistrust "], "A": ["believe ", "trust "]}
+{"index": 89961, "D": "to regard with doubt or suspicion; have no trust  in.", "S": ["disbelieve", "discredit", "mistrust"], "A": ["believe", "trust"]}

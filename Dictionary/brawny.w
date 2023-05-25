@@ -1,1 +1,1 @@
-{"index": 40136, "D": "muscular; strong.", "S": ["beefy ", "bulky ", "burly ", "sinewy ", "strapping ", "sturdy "], "A": ["skinny ", "slight ", "slim ", "small ", "thin ", "tiny ", "weak "]}
+{"index": 40136, "D": "muscular; strong.", "S": ["beefy", "bulky", "burly", "sinewy", "strapping", "sturdy"], "A": ["skinny", "slight", "slim", "small", "thin", "tiny", "weak"]}

@@ -1,1 +1,1 @@
-{"index": 87249, "D": "having been disposed of, cast out, or put aside", "S": ["damaged "], "A": ["cherished "]}
+{"index": 87249, "D": "having been disposed of, cast out, or put aside", "S": ["damaged"], "A": ["cherished"]}

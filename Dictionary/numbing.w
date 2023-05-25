@@ -1,1 +1,1 @@
-{"index": 209532, "D": "causing numbness  or insensibility; stupefying", "S": ["bitter ", "bleak ", "brisk ", "chilled ", "cool ", "crisp ", "frigid ", "frosty ", "frozen ", "icy ", "intense ", "raw ", "snowy ", "wintry "], "A": ["hot ", "mild ", "nice ", "pleasant ", "temperate ", "warm "]}
+{"index": 209532, "D": "causing numbness  or insensibility; stupefying", "S": ["bitter", "bleak", "brisk", "chilled", "cool", "crisp", "frigid", "frosty", "frozen", "icy", "intense", "raw", "snowy", "wintry"], "A": ["hot", "mild", "nice", "pleasant", "temperate", "warm"]}

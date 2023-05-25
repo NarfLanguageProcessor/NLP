@@ -1,1 +1,1 @@
-{"index": 20296, "D": "making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud", "S": ["haughtily ", "insolently ", "loftily ", "superciliously ", "with one's nose in the air "], "A": []}
+{"index": 20296, "D": "making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud", "S": ["haughtily", "insolently", "loftily", "superciliously", "with one's nose in the air"], "A": []}

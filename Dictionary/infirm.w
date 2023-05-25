@@ -1,1 +1,1 @@
-{"index": 152046, "D": "feeble or weak in body or health, especially because of age; ailing.", "S": ["ailing ", "anemic ", "decrepit ", "feeble ", "frail ", "ill ", "insecure ", "unstable "], "A": ["healthy ", "sound ", "strong "]}
+{"index": 152046, "D": "feeble or weak in body or health, especially because of age; ailing.", "S": ["ailing", "anemic", "decrepit", "feeble", "frail", "ill", "insecure", "unstable"], "A": ["healthy", "sound", "strong"]}

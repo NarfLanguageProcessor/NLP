@@ -1,1 +1,0 @@
-{"index": 176339, "D": "anything that attracts, entices, or allures.", "S": ["captivated ", "delighted ", "mesmerized "], "A": ["disenchanted ", "disinterested "]}

@@ -1,1 +1,1 @@
-{"index": 331566, "D": "the suit itself.", "S": ["outdo ", "overtake "], "A": ["fail ", "fall behind ", "lose "]}
+{"index": 331566, "D": "the suit itself.", "S": ["outdo", "overtake"], "A": ["fail", "fall behind", "lose"]}

@@ -1,1 +1,1 @@
-{"index": 144810, "D": "retaining the hull during threshing; having a persistent enclosing hull", "S": ["capsule ", "husk ", "skin "], "A": []}
+{"index": 144810, "D": "retaining the hull during threshing; having a persistent enclosing hull", "S": ["capsule", "husk", "skin"], "A": []}

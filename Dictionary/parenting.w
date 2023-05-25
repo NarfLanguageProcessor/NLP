@@ -1,1 +1,1 @@
-{"index": 226398, "D": "the rearing of children", "S": ["cause ", "compose ", "form ", "generate ", "manufacture ", "prepare ", "produce "], "A": ["break ", "destroy ", "neglect ", "ruin ", "demolish ", "derange ", "disarrange ", "dismantle ", "disorder ", "disorganize ", "raze "]}
+{"index": 226398, "D": "the rearing of children", "S": ["cause", "compose", "form", "generate", "manufacture", "prepare", "produce"], "A": ["break", "destroy", "neglect", "ruin", "demolish", "derange", "disarrange", "dismantle", "disorder", "disorganize", "raze"]}

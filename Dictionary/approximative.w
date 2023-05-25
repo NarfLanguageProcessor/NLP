@@ -1,0 +1,1 @@
+{"index": 18040, "D": "a guess or estimate", "S": ["alike", "comparable", "related"], "A": ["different", "dissimilar", "unlike", "away", "changing", "divergent", "far", "inconsistent", "mismatched", "unalike", "unequal", "unfriendly", "variable"]}

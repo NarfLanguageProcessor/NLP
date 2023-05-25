@@ -1,1 +1,1 @@
-{"index": 243587, "D": "a door, gate, or entrance, especially one of imposing appearance, as to a palace.", "S": ["doorway ", "entrance ", "entry ", "entryway ", "gate ", "gateway ", "ingress ", "opening "], "A": ["conclusion ", "exit "]}
+{"index": 243587, "D": "a door, gate, or entrance, especially one of imposing appearance, as to a palace.", "S": ["doorway", "entrance", "entry", "entryway", "gate", "gateway", "ingress", "opening"], "A": ["conclusion", "exit"]}

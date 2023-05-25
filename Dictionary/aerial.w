@@ -1,0 +1,1 @@
+{"index": 4910, "D": "of, in, or produced by the air", "S": ["flying"], "A": ["ground"]}

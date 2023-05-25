@@ -1,1 +1,1 @@
-{"index": 45121, "D": "a plain-woven cotton cloth printed with a figured pattern, usually on one side.", "S": ["cotton ", "goods ", "material ", "stuff "], "A": []}
+{"index": 45121, "D": "a plain-woven cotton cloth printed with a figured pattern, usually on one side.", "S": ["cotton", "goods", "material", "stuff"], "A": []}

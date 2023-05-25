@@ -1,1 +1,1 @@
-{"index": 193889, "D": "in the greatest quantity, amount, measure, degree, or number", "S": ["better ", "biggest ", "greater ", "highest ", "largest ", "lion's share ", "max ", "maximum ", "ultimate ", "utmost ", "uttermost "], "A": ["least "]}
+{"index": 193889, "D": "in the greatest quantity, amount, measure, degree, or number", "S": ["better", "biggest", "greater", "highest", "largest", "lion's share", "max", "maximum", "ultimate", "utmost", "uttermost"], "A": ["least"]}

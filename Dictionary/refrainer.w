@@ -1,1 +1,0 @@
-{"index": 265347, "D": "to abstain from an impulse to say or do something (often followed by from)", "S": [], "A": []}

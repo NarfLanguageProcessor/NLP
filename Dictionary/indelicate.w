@@ -1,1 +1,1 @@
-{"index": 150754, "D": "offensive to a sense of generally accepted propriety, modesty, or decency; improper, unrefined, or coarse", "S": ["indecorous "], "A": ["decent ", "delicate ", "inoffensive ", "nice ", "pure "]}
+{"index": 150754, "D": "offensive to a sense of generally accepted propriety, modesty, or decency; improper, unrefined, or coarse", "S": ["indecorous"], "A": ["decent", "delicate", "inoffensive", "nice", "pure"]}

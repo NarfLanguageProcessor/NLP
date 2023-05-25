@@ -1,1 +1,1 @@
-{"index": 83255, "D": "a roundabout or circuitous way or course, especially one used temporarily when the main route is closed.", "S": ["bypass ", "circumvent ", "dodge ", "elude ", "evade ", "ignore ", "sidestep "], "A": ["confront ", "encounter ", "face ", "meet ", "take on "]}
+{"index": 83255, "D": "a roundabout or circuitous way or course, especially one used temporarily when the main route is closed.", "S": ["bypass", "circumvent", "dodge", "elude", "evade", "ignore", "sidestep"], "A": ["confront", "encounter", "face", "meet", "take on"]}

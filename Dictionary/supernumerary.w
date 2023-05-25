@@ -1,1 +1,1 @@
-{"index": 312312, "D": "being in excess of the usual, proper, or prescribed number; additional; extra.", "S": ["excess ", "extra "], "A": []}
+{"index": 312312, "D": "being in excess of the usual, proper, or prescribed number; additional; extra.", "S": ["excess", "extra"], "A": []}

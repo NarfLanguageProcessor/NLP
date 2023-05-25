@@ -1,1 +1,1 @@
-{"index": 35775, "D": "uttering, containing, or exhibiting blasphemy;  irreverent; profane.", "S": ["disrespectful ", "insulting ", "profane ", "sacrilegious "], "A": ["godly ", "pious ", "religious ", "respectful ", "reverent "]}
+{"index": 35775, "D": "uttering, containing, or exhibiting blasphemy;  irreverent; profane.", "S": ["disrespectful", "insulting", "profane", "sacrilegious"], "A": ["godly", "pious", "religious", "respectful", "reverent"]}

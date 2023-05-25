@@ -1,1 +1,1 @@
-{"index": 23263, "D": "extremely bold or daring; recklessly brave; fearless", "S": ["adventurous ", "bold ", "courageous ", "foolhardy ", "resolute ", "risky "], "A": ["afraid ", "careful ", "cautious ", "cowardly ", "fearful ", "meek ", "timid "]}
+{"index": 23263, "D": "extremely bold or daring; recklessly brave; fearless", "S": ["adventurous", "bold", "courageous", "foolhardy", "resolute", "risky"], "A": ["afraid", "careful", "cautious", "cowardly", "fearful", "meek", "timid"]}

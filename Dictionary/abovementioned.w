@@ -1,1 +1,1 @@
-{"index": 762, "D": "mentioned  or written above", "S": ["introductory ", "previous ", "prior "], "A": ["later ", "back ", "inferior ", "last ", "unimportant "]}
+{"index": 762, "D": "mentioned  or written above", "S": ["introductory", "previous", "prior"], "A": ["later", "back", "inferior", "last", "unimportant"]}

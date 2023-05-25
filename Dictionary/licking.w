@@ -1,1 +1,1 @@
-{"index": 171726, "D": "a reversal or disappointment; defeat or setback.", "S": ["whipping "], "A": []}
+{"index": 171726, "D": "a reversal or disappointment; defeat or setback.", "S": ["whipping"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98566, "D": "a representative sent on a mission or errand", "S": ["envoy ", "go-between ", "intermediary ", "messenger "], "A": []}
+{"index": 98566, "D": "a representative sent on a mission or errand", "S": ["envoy", "go-between", "intermediary", "messenger"], "A": []}

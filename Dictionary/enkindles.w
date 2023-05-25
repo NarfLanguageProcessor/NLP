@@ -1,1 +1,1 @@
-{"index": 100627, "D": "to kindle  into flame, ardor, activity, etc.", "S": ["burn ", "fire ", "ignite ", "kindle "], "A": ["extinguish ", "put out "]}
+{"index": 100627, "D": "to kindle  into flame, ardor, activity, etc.", "S": ["burn", "fire", "ignite", "kindle"], "A": ["extinguish", "put out"]}

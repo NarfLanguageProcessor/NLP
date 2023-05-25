@@ -1,1 +1,1 @@
-{"index": 132683, "D": "a condition of having unpleasant-smelling breath.", "S": ["foul breath ", "foul-smelling breath ", "morning breath "], "A": []}
+{"index": 132683, "D": "a condition of having unpleasant-smelling breath.", "S": ["foul breath", "foul-smelling breath", "morning breath"], "A": []}

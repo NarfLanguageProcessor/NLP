@@ -1,1 +1,1 @@
-{"index": 13091, "D": "any person.", "S": ["anyone ", "everybody ", "everyone ", "public "], "A": []}
+{"index": 13091, "D": "any person.", "S": ["anyone", "everybody", "everyone", "public"], "A": []}

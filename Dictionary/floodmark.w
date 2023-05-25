@@ -1,1 +1,1 @@
-{"index": 114917, "D": [], "S": ["apex ", "apogee ", "upper limit "], "A": []}
+{"index": 114917, "D": [], "S": ["apex", "apogee", "upper limit"], "A": []}

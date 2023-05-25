@@ -1,1 +1,1 @@
-{"index": 259060, "D": "to shake with a slight but rapid motion; vibrate tremulously; tremble. ", "S": ["anger ", "stage fright ", "tension ", "turbulence ", "uneasiness ", "worry "], "A": ["calmness ", "peace ", "calm ", "discouragement ", "ease "]}
+{"index": 259060, "D": "to shake with a slight but rapid motion; vibrate tremulously; tremble. ", "S": ["anger", "stage fright", "tension", "turbulence", "uneasiness", "worry"], "A": ["calmness", "peace", "calm", "discouragement", "ease"]}

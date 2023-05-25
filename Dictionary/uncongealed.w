@@ -1,1 +1,1 @@
-{"index": 337625, "D": "to change from a soft or fluid state to a rigid or solid state, as by cooling or freezing", "S": ["flowing "], "A": ["inflexible ", "solid ", "stable ", "unchangeable "]}
+{"index": 337625, "D": "to change from a soft or fluid state to a rigid or solid state, as by cooling or freezing", "S": ["flowing"], "A": ["inflexible", "solid", "stable", "unchangeable"]}

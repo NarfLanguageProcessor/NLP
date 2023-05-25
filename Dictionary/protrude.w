@@ -1,1 +1,1 @@
-{"index": 253950, "D": "to project.", "S": ["bulge ", "jut out ", "poke out ", "stick out "], "A": ["cave in ", "contract ", "keep ", "shrink "]}
+{"index": 253950, "D": "to project.", "S": ["bulge", "jut out", "poke out", "stick out"], "A": ["cave in", "contract", "keep", "shrink"]}

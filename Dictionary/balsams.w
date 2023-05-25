@@ -1,1 +1,1 @@
-{"index": 27146, "D": "Compare balm (def. 1). ", "S": ["lotion ", "ointment ", "potion ", "salve "], "A": []}
+{"index": 27146, "D": "Compare balm (def. 1). ", "S": ["lotion", "ointment", "potion", "salve"], "A": []}

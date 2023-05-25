@@ -1,1 +1,1 @@
-{"index": 2374, "D": "colorless; without coloring matter.", "S": ["neutral "], "A": []}
+{"index": 2374, "D": "colorless; without coloring matter.", "S": ["neutral"], "A": []}

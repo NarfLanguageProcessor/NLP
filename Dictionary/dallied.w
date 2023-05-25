@@ -1,1 +1,1 @@
-{"index": 76473, "D": "to waste time; loiter; delay.", "S": ["boondoggle ", "drag ", "idle ", "lag ", "linger ", "loiter ", "lollygag ", "procrastinate ", "putter ", "tarry ", "trail "], "A": ["complete ", "finish ", "go ", "hurry ", "leave ", "rush "]}
+{"index": 76473, "D": "to waste time; loiter; delay.", "S": ["boondoggle", "drag", "idle", "lag", "linger", "loiter", "lollygag", "procrastinate", "putter", "tarry", "trail"], "A": ["complete", "finish", "go", "hurry", "leave", "rush"]}

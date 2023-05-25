@@ -1,1 +1,1 @@
-{"index": 259215, "D": "Compare cantor (def. 2). ", "S": ["priest ", "teacher "], "A": []}
+{"index": 259215, "D": "Compare cantor (def. 2). ", "S": ["priest", "teacher"], "A": []}

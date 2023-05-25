@@ -1,1 +1,1 @@
-{"index": 101174, "D": "to make tangled;  ensnarl; intertwine.", "S": ["arrested ", "captured ", "seized "], "A": []}
+{"index": 101174, "D": "to make tangled;  ensnarl; intertwine.", "S": ["arrested", "captured", "seized"], "A": []}

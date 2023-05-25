@@ -1,1 +1,0 @@
-{"index": 332837, "D": "the thick, fleshy, edible root of either of two plants of the mustard family, the white-fleshed Brassica rapa rapifera or the yellow-fleshed rutabaga.", "S": [], "A": []}

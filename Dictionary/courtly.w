@@ -1,1 +1,1 @@
-{"index": 71364, "D": "polite, refined, or elegant", "S": ["affable ", "aristocratic ", "civilized ", "dignified ", "elegant ", "gallant ", "gracious ", "polite ", "stately "], "A": ["impolite ", "rude ", "undignified ", "unmannerly ", "unrefined ", "unsophisticated ", "vulgar "]}
+{"index": 71364, "D": "polite, refined, or elegant", "S": ["affable", "aristocratic", "civilized", "dignified", "elegant", "gallant", "gracious", "polite", "stately"], "A": ["impolite", "rude", "undignified", "unmannerly", "unrefined", "unsophisticated", "vulgar"]}

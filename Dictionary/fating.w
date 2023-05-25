@@ -1,1 +1,1 @@
-{"index": 110323, "D": "something that unavoidably befalls a person; fortune; lot", "S": ["aim ", "anticipate ", "design ", "expect ", "make ", "plan ", "propose ", "want "], "A": ["deny ", "refuse ", "neglect "]}
+{"index": 110323, "D": "something that unavoidably befalls a person; fortune; lot", "S": ["aim", "anticipate", "design", "expect", "make", "plan", "propose", "want"], "A": ["deny", "refuse", "neglect"]}

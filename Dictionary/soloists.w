@@ -1,1 +1,0 @@
-{"index": 296849, "D": "a person who performs a solo. ", "S": ["chanter ", "hazan ", "leader ", "precentor ", "singer ", "vocalist "], "A": []}

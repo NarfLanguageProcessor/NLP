@@ -1,1 +1,1 @@
-{"index": 123407, "D": "a police officer in any of several European countries, especially a French police officer.", "S": ["constable ", "policewoman "], "A": []}
+{"index": 123407, "D": "a police officer in any of several European countries, especially a French police officer.", "S": ["constable", "policewoman"], "A": []}

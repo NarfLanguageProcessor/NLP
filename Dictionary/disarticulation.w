@@ -1,1 +1,1 @@
-{"index": 87094, "D": [], "S": ["confusion ", "disarray ", "disconnection ", "disorder ", "disruption ", "disturbance "], "A": ["arrangement ", "calm ", "method ", "order ", "orderliness ", "organization ", "system ", "juncture "]}
+{"index": 87094, "D": [], "S": ["confusion", "disarray", "disconnection", "disorder", "disruption", "disturbance"], "A": ["arrangement", "calm", "method", "order", "orderliness", "organization", "system", "juncture"]}

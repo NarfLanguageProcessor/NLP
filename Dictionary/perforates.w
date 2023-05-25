@@ -1,1 +1,1 @@
-{"index": 230656, "D": "to make a hole or holes through by boring, punching, piercing, or the like.", "S": ["puncture "], "A": ["close "]}
+{"index": 230656, "D": "to make a hole or holes through by boring, punching, piercing, or the like.", "S": ["puncture"], "A": ["close"]}

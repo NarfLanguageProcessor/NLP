@@ -1,1 +1,1 @@
-{"index": 95949, "D": "something that is produced by an agency or cause; result; consequence", "S": ["entire ", "full ", "perfect ", "sweeping "], "A": ["incomplete ", "part ", "unfinished "]}
+{"index": 95949, "D": "something that is produced by an agency or cause; result; consequence", "S": ["entire", "full", "perfect", "sweeping"], "A": ["incomplete", "part", "unfinished"]}

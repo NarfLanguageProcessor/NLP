@@ -1,1 +1,1 @@
-{"index": 50073, "D": "capable of burning, corroding, or destroying living tissue.", "S": ["acerbically ", "acrimoniously ", "bitingly ", "maliciously ", "sneeringly "], "A": []}
+{"index": 50073, "D": "capable of burning, corroding, or destroying living tissue.", "S": ["acerbically", "acrimoniously", "bitingly", "maliciously", "sneeringly"], "A": []}

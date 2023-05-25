@@ -1,1 +1,1 @@
-{"index": 264767, "D": "an act of reentering.", "S": ["rebound ", "retreat ", "return ", "revolving ", "rotating "], "A": []}
+{"index": 264767, "D": "an act of reentering.", "S": ["rebound", "retreat", "return", "revolving", "rotating"], "A": []}

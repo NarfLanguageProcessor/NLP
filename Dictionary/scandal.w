@@ -1,1 +1,1 @@
-{"index": 279534, "D": "a disgraceful or discreditable action, circumstance, etc.", "S": ["crime ", "rumor ", "wrongdoing "], "A": ["good deed ", "approval ", "commendation ", "compliment ", "esteem ", "exaltation ", "flattery ", "goodness ", "honor ", "morality ", "praise ", "respect "]}
+{"index": 279534, "D": "a disgraceful or discreditable action, circumstance, etc.", "S": ["crime", "rumor", "wrongdoing"], "A": ["good deed", "approval", "commendation", "compliment", "esteem", "exaltation", "flattery", "goodness", "honor", "morality", "praise", "respect"]}

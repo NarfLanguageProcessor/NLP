@@ -1,1 +1,1 @@
-{"index": 119339, "D": "of, in, or at the front", "S": ["face ", "front ", "frontage ", "frontispiece "], "A": ["back ", "rear "]}
+{"index": 119339, "D": "of, in, or at the front", "S": ["face", "front", "frontage", "frontispiece"], "A": ["back", "rear"]}

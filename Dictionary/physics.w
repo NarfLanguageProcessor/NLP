@@ -1,1 +1,1 @@
-{"index": 234111, "D": "the science that deals with matter, energy, motion, and force.", "S": ["biology "], "A": []}
+{"index": 234111, "D": "the science that deals with matter, energy, motion, and force.", "S": ["biology"], "A": []}

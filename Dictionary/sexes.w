@@ -1,1 +1,0 @@
-{"index": 286847, "D": "the male, female, or sometimes intersex division of a species, especially as differentiated with reference to the reproductive functions or physical characteristics such as genitals, XX and XY chromosomes, etc.", "S": ["sexuality "], "A": ["abstention ", "chastity "]}

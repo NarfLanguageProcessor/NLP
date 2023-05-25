@@ -1,1 +1,1 @@
-{"index": 249605, "D": "the exertion of force upon a surface by an object, fluid, etc., in contact with it", "S": ["pushed ", "rushing ", "urged "], "A": []}
+{"index": 249605, "D": "the exertion of force upon a surface by an object, fluid, etc., in contact with it", "S": ["pushed", "rushing", "urged"], "A": []}

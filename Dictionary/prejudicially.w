@@ -1,1 +1,1 @@
-{"index": 248122, "D": "causing prejudice  or disadvantage; detrimental.", "S": ["unfairly ", "unjustifiably ", "unlawfully ", "wrongfully "], "A": ["decently ", "justly ", "rightly "]}
+{"index": 248122, "D": "causing prejudice  or disadvantage; detrimental.", "S": ["unfairly", "unjustifiably", "unlawfully", "wrongfully"], "A": ["decently", "justly", "rightly"]}

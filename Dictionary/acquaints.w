@@ -1,1 +1,1 @@
-{"index": 2718, "D": "to make more or less familiar, aware, or conversant (usually followed by with)", "S": ["accustom ", "advise ", "apprise ", "enlighten ", "familiarize ", "inform "], "A": ["delude ", "conceal ", "hide ", "secrete ", "suppress ", "withhold "]}
+{"index": 2718, "D": "to make more or less familiar, aware, or conversant (usually followed by with)", "S": ["accustom", "advise", "apprise", "enlighten", "familiarize", "inform"], "A": ["delude", "conceal", "hide", "secrete", "suppress", "withhold"]}

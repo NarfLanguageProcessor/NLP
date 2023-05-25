@@ -1,1 +1,1 @@
-{"index": 10132, "D": "a specially equipped motor vehicle, airplane, ship, etc., for carrying sick or injured people, usually to a hospital.", "S": ["EMS ", "rescue ", "transport "], "A": []}
+{"index": 10132, "D": "a specially equipped motor vehicle, airplane, ship, etc., for carrying sick or injured people, usually to a hospital.", "S": ["EMS", "rescue", "transport"], "A": []}

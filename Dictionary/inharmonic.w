@@ -1,1 +1,1 @@
-{"index": 152650, "D": "not harmonic;  dissonant.", "S": ["discordant ", "jarring ", "raucous "], "A": ["coinciding ", "compatible ", "complementary ", "concordant ", "consonant ", "harmonious ", "similar "]}
+{"index": 152650, "D": "not harmonic;  dissonant.", "S": ["discordant", "jarring", "raucous"], "A": ["coinciding", "compatible", "complementary", "concordant", "consonant", "harmonious", "similar"]}

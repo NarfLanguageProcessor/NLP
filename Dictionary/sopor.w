@@ -1,1 +1,1 @@
-{"index": 297460, "D": "a deep, unnatural sleep; lethargy.", "S": ["coma ", "slumber ", "trance "], "A": ["consciousness ", "wakefulness ", "activity ", "interest ", "life ", "liveliness "]}
+{"index": 297460, "D": "a deep, unnatural sleep; lethargy.", "S": ["coma", "slumber", "trance"], "A": ["consciousness", "wakefulness", "activity", "interest", "life", "liveliness"]}

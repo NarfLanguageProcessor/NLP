@@ -1,1 +1,1 @@
-{"index": 366393, "D": "an act of a person who wires. ", "S": ["electrification ", "electrifying "], "A": []}
+{"index": 366393, "D": "an act of a person who wires. ", "S": ["electrification", "electrifying"], "A": []}

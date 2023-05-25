@@ -1,1 +1,1 @@
-{"index": 175401, "D": "a gambling game or method of raising money, as for some public charitable purpose, in which a large number of tickets are sold and a drawing is held for certain prizes.", "S": ["gambling ", "raffle ", "sweepstake "], "A": []}
+{"index": 175401, "D": "a gambling game or method of raising money, as for some public charitable purpose, in which a large number of tickets are sold and a drawing is held for certain prizes.", "S": ["gambling", "raffle", "sweepstake"], "A": []}

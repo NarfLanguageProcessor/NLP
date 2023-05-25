@@ -1,1 +1,1 @@
-{"index": 146840, "D": "to cry out or speak with a strong, loud, clear sound; shout", "S": ["hoot ", "howl ", "screech ", "shriek ", "squawk ", "squeal ", "wail ", "whoop ", "yelp "], "A": ["seriousness "]}
+{"index": 146840, "D": "to cry out or speak with a strong, loud, clear sound; shout", "S": ["hoot", "howl", "screech", "shriek", "squawk", "squeal", "wail", "whoop", "yelp"], "A": ["seriousness"]}

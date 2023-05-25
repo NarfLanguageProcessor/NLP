@@ -1,1 +1,1 @@
-{"index": 112622, "D": "a member of a legislature who makes such a speech.", "S": ["delaying tactic ", "obstruction ", "procrastination "], "A": []}
+{"index": 112622, "D": "a member of a legislature who makes such a speech.", "S": ["delaying tactic", "obstruction", "procrastination"], "A": []}

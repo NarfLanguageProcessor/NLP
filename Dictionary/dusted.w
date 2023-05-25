@@ -1,1 +1,1 @@
-{"index": 94532, "D": "earth or other matter in fine, dry particles.", "S": ["dredge ", "scatter ", "sift ", "spray "], "A": ["collect ", "gather "]}
+{"index": 94532, "D": "earth or other matter in fine, dry particles.", "S": ["dredge", "scatter", "sift", "spray"], "A": ["collect", "gather"]}

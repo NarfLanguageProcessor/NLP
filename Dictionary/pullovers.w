@@ -1,1 +1,1 @@
-{"index": 256282, "D": "a garment, especially a sweater, that must be drawn over the head to be put on.", "S": ["bodice ", "turtleneck "], "A": []}
+{"index": 256282, "D": "a garment, especially a sweater, that must be drawn over the head to be put on.", "S": ["bodice", "turtleneck"], "A": []}

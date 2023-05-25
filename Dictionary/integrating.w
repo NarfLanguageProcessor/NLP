@@ -1,1 +1,1 @@
-{"index": 154233, "D": "coming or bringing together into a whole; uniting or combining", "S": ["assimilation "], "A": []}
+{"index": 154233, "D": "coming or bringing together into a whole; uniting or combining", "S": ["assimilation"], "A": []}

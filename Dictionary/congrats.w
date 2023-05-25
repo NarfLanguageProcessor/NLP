@@ -1,1 +1,1 @@
-{"index": 66222, "D": "congratulations. ", "S": ["blessing ", "compliment ", "congratulations ", "encouragement ", "felicitation ", "flattery ", "praise ", "stroke ", "support "], "A": []}
+{"index": 66222, "D": "congratulations. ", "S": ["blessing", "compliment", "congratulations", "encouragement", "felicitation", "flattery", "praise", "stroke", "support"], "A": []}

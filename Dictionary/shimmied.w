@@ -1,1 +1,1 @@
-{"index": 288324, "D": "an American ragtime dance marked by shaking of the hips and shoulders.", "S": ["wobble "], "A": []}
+{"index": 288324, "D": "an American ragtime dance marked by shaking of the hips and shoulders.", "S": ["wobble"], "A": []}

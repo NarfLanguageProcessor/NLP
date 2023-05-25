@@ -1,1 +1,1 @@
-{"index": 81343, "D": "the makeup of a set of teeth including their kind, number, and arrangement.", "S": ["choppers ", "ivories ", "pearly teeth "], "A": []}
+{"index": 81343, "D": "the makeup of a set of teeth including their kind, number, and arrangement.", "S": ["choppers", "ivories", "pearly teeth"], "A": []}

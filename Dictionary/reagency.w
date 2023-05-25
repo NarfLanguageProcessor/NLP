@@ -1,1 +1,1 @@
-{"index": 261688, "D": [], "S": ["answer ", "attitude ", "backlash ", "feedback ", "feeling ", "opinion ", "reception ", "reply ", "return "], "A": ["question ", "request ", "failure ", "loss "]}
+{"index": 261688, "D": [], "S": ["answer", "attitude", "backlash", "feedback", "feeling", "opinion", "reception", "reply", "return"], "A": ["question", "request", "failure", "loss"]}

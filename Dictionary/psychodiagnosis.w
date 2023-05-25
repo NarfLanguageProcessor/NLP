@@ -1,1 +1,0 @@
-{"index": 255326, "D": "a psychological examination using psychodiagnostic techniques.", "S": [], "A": []}

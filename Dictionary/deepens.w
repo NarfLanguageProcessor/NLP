@@ -1,1 +1,1 @@
-{"index": 78992, "D": "to make or become deep  or deeper", "S": ["expand "], "A": ["fill "]}
+{"index": 78992, "D": "to make or become deep  or deeper", "S": ["expand"], "A": ["fill"]}

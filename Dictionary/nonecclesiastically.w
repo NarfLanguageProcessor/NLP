@@ -1,1 +1,0 @@
-{"index": 203333, "D": "of or relating to the church or the clergy; churchly; clerical; not secular.", "S": [], "A": []}

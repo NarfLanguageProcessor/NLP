@@ -1,1 +1,1 @@
-{"index": 31490, "D": [], "S": ["firmness ", "flexibility ", "texture "], "A": ["incongruity ", "inconsistency ", "inconstancy ", "irregularity ", "variation "]}
+{"index": 31490, "D": [], "S": ["firmness", "flexibility", "texture"], "A": ["incongruity", "inconsistency", "inconstancy", "irregularity", "variation"]}

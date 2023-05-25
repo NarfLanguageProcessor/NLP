@@ -1,1 +1,1 @@
-{"index": 133848, "D": "marked by agreement in feeling, attitude, or action", "S": ["accord ", "agreement ", "amity ", "balance ", "unity "], "A": ["disagreement "]}
+{"index": 133848, "D": "marked by agreement in feeling, attitude, or action", "S": ["accord", "agreement", "amity", "balance", "unity"], "A": ["disagreement"]}

@@ -1,1 +1,1 @@
-{"index": 181890, "D": "the act or process of causing a task to be performed or operated by machinery", "S": ["computerization ", "industrialization "], "A": []}
+{"index": 181890, "D": "the act or process of causing a task to be performed or operated by machinery", "S": ["computerization", "industrialization"], "A": []}

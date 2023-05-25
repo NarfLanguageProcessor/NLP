@@ -1,1 +1,1 @@
-{"index": 63687, "D": "combination (defs. 2-4). ", "S": ["club ", "company ", "cooperative ", "corporation ", "federation ", "guild ", "league ", "organization ", "partnership ", "society ", "tribe ", "union "], "A": ["disunion ", "separation "]}
+{"index": 63687, "D": "combination (defs. 2-4). ", "S": ["club", "company", "cooperative", "corporation", "federation", "guild", "league", "organization", "partnership", "society", "tribe", "union"], "A": ["disunion", "separation"]}

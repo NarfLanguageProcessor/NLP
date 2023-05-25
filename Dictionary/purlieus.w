@@ -1,1 +1,1 @@
-{"index": 256994, "D": "environs or neighborhood.", "S": ["suburb ", "surroundings ", "vicinity "], "A": []}
+{"index": 256994, "D": "environs or neighborhood.", "S": ["suburb", "surroundings", "vicinity"], "A": []}

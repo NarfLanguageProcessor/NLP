@@ -1,1 +1,1 @@
-{"index": 9031, "D": "a variant of all-around. ", "S": ["all-around ", "excellent ", "versatile "], "A": []}
+{"index": 9031, "D": "a variant of all-around. ", "S": ["all-around", "excellent", "versatile"], "A": []}

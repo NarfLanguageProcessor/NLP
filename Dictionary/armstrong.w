@@ -1,0 +1,1 @@
+{"index": 20026, "D": "U.S. jazz trumpeter and bandleader.", "S": [], "A": []}

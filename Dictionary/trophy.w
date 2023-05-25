@@ -1,1 +1,1 @@
-{"index": 331161, "D": "anything taken in war, hunting, competition, etc., especially when preserved as a memento; spoil, prize, or award.", "S": ["citation ", "crown ", "cup ", "decoration ", "gold ", "keepsake ", "medal ", "memento ", "prize ", "souvenir "], "A": []}
+{"index": 331161, "D": "anything taken in war, hunting, competition, etc., especially when preserved as a memento; spoil, prize, or award.", "S": ["citation", "crown", "cup", "decoration", "gold", "keepsake", "medal", "memento", "prize", "souvenir"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 211210, "D": "an odd  article, bit, remnant, or the like.", "S": ["balance ", "debris ", "leftovers ", "legacy ", "remainder ", "remnant ", "remnants ", "residue ", "rest ", "scraps ", "surplus ", "survivor ", "trash "], "A": ["base ", "core "]}
+{"index": 211210, "D": "an odd  article, bit, remnant, or the like.", "S": ["balance", "debris", "leftovers", "legacy", "remainder", "remnant", "remnants", "residue", "rest", "scraps", "surplus", "survivor", "trash"], "A": ["base", "core"]}

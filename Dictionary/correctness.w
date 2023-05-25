@@ -1,1 +1,1 @@
-{"index": 69620, "D": "conformity to fact or truth; freedom from error; accuracy", "S": ["truth "], "A": ["imprecision ", "inaccuracy ", "inexactness "]}
+{"index": 69620, "D": "conformity to fact or truth; freedom from error; accuracy", "S": ["truth"], "A": ["imprecision", "inaccuracy", "inexactness"]}

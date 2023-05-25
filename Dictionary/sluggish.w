@@ -1,1 +1,1 @@
-{"index": 294536, "D": "indisposed to action or exertion; lacking in energy; lazy; indolent", "S": ["heavy ", "inactive ", "lethargic ", "listless ", "slack ", "slow ", "stagnant "], "A": ["active ", "alert ", "busy ", "energetic ", "lively ", "moving "]}
+{"index": 294536, "D": "indisposed to action or exertion; lacking in energy; lazy; indolent", "S": ["heavy", "inactive", "lethargic", "listless", "slack", "slow", "stagnant"], "A": ["active", "alert", "busy", "energetic", "lively", "moving"]}

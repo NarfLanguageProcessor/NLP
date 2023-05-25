@@ -1,1 +1,1 @@
-{"index": 268219, "D": "to be fretfully discontented; fret; complain.", "S": ["grumbling ", "protesting ", "whining "], "A": ["appreciating ", "enjoying ", "praising "]}
+{"index": 268219, "D": "to be fretfully discontented; fret; complain.", "S": ["grumbling", "protesting", "whining"], "A": ["appreciating", "enjoying", "praising"]}

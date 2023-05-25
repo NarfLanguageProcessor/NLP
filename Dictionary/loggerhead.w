@@ -1,1 +1,1 @@
-{"index": 174582, "D": "a thick-headed or stupid person; blockhead.", "S": ["tortoise "], "A": []}
+{"index": 174582, "D": "a thick-headed or stupid person; blockhead.", "S": ["tortoise"], "A": []}

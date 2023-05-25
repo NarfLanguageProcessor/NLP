@@ -1,1 +1,1 @@
-{"index": 298123, "D": "a past participle of sow1. ", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}
+{"index": 298123, "D": "a past participle of sow1. ", "S": ["carpeted", "dotted", "overgrown"], "A": ["bare", "empty", "exposed", "open", "passed over", "revealed", "unfurnished", "unheeded", "unnoticed"]}

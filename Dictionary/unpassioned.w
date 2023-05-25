@@ -1,1 +1,1 @@
-{"index": 347520, "D": [], "S": ["dreary ", "dull ", "lackluster "], "A": ["bright ", "clear ", "light ", "lively "]}
+{"index": 347520, "D": [], "S": ["dreary", "dull", "lackluster"], "A": ["bright", "clear", "light", "lively"]}

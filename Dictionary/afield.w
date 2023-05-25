@@ -1,0 +1,1 @@
+{"index": 5535, "D": "abroad; away from home.", "S": ["astray"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 101075, "D": "to capture in, or involve as in, a snare", "S": ["dangerous ", "subtle "], "A": ["fair ", "honest ", "open ", "sincere "]}
+{"index": 101075, "D": "to capture in, or involve as in, a snare", "S": ["dangerous", "subtle"], "A": ["fair", "honest", "open", "sincere"]}

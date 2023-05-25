@@ -1,1 +1,1 @@
-{"index": 199741, "D": [], "S": ["bat ", "flash ", "flicker ", "flutter ", "nictation ", "squint ", "wink "], "A": []}
+{"index": 199741, "D": [], "S": ["bat", "flash", "flicker", "flutter", "nictation", "squint", "wink"], "A": []}

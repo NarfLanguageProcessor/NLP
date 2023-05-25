@@ -1,1 +1,1 @@
-{"index": 231985, "D": "to act or portray (a character in a play, a part, etc.).", "S": ["achievement ", "acting ", "depiction ", "execution ", "impersonation ", "performance ", "personification ", "playing ", "portrayal ", "representation "], "A": ["failure ", "neglect "]}
+{"index": 231985, "D": "to act or portray (a character in a play, a part, etc.).", "S": ["achievement", "acting", "depiction", "execution", "impersonation", "performance", "personification", "playing", "portrayal", "representation"], "A": ["failure", "neglect"]}

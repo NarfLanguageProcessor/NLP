@@ -1,1 +1,1 @@
-{"index": 158472, "D": "the quality or state of being irritable. ", "S": ["irritation "], "A": ["enjoyment ", "happiness ", "joy "]}
+{"index": 158472, "D": "the quality or state of being irritable. ", "S": ["irritation"], "A": ["enjoyment", "happiness", "joy"]}

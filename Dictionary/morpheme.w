@@ -1,1 +1,1 @@
-{"index": 193557, "D": "Compare allomorph (def. 2), morph (def. 1). ", "S": ["concept ", "expression ", "name ", "phrase ", "sound ", "term "], "A": ["breach ", "break ", "question ", "silence "]}
+{"index": 193557, "D": "Compare allomorph (def. 2), morph (def. 1). ", "S": ["concept", "expression", "name", "phrase", "sound", "term"], "A": ["breach", "break", "question", "silence"]}

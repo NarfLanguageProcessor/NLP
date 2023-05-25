@@ -1,1 +1,1 @@
-{"index": 56194, "D": "the purity of a color, or its freedom from white or gray.", "S": ["glow ", "hue ", "intensity ", "paint "], "A": ["black ", "white "]}
+{"index": 56194, "D": "the purity of a color, or its freedom from white or gray.", "S": ["glow", "hue", "intensity", "paint"], "A": ["black", "white"]}

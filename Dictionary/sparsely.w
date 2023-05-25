@@ -1,1 +1,1 @@
-{"index": 298503, "D": "in a thinly distributed way; not thickly or densely", "S": ["barely ", "comparatively ", "practically ", "rarely ", "seldom ", "simply ", "somewhat "], "A": ["frequently "]}
+{"index": 298503, "D": "in a thinly distributed way; not thickly or densely", "S": ["barely", "comparatively", "practically", "rarely", "seldom", "simply", "somewhat"], "A": ["frequently"]}

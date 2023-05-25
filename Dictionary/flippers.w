@@ -1,1 +1,1 @@
-{"index": 114698, "D": "a broad, flat limb, as of a seal or whale, especially adapted for swimming.", "S": ["branch ", "rod ", "wing "], "A": ["leg "]}
+{"index": 114698, "D": "a broad, flat limb, as of a seal or whale, especially adapted for swimming.", "S": ["branch", "rod", "wing"], "A": ["leg"]}

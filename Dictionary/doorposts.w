@@ -1,1 +1,1 @@
-{"index": 91573, "D": "doorjamb. ", "S": ["panel ", "pole "], "A": []}
+{"index": 91573, "D": "doorjamb. ", "S": ["panel", "pole"], "A": []}

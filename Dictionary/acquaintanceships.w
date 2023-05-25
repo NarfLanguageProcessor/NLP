@@ -1,1 +1,1 @@
-{"index": 2712, "D": "a person known to one, but usually not a close friend.", "S": ["cooperation ", "partnership "], "A": ["aloofness ", "disagreement ", "ignorance ", "incompatibility ", "strangeness ", "unfamiliarity "]}
+{"index": 2712, "D": "a person known to one, but usually not a close friend.", "S": ["cooperation", "partnership"], "A": ["aloofness", "disagreement", "ignorance", "incompatibility", "strangeness", "unfamiliarity"]}

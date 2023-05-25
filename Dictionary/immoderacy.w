@@ -1,1 +1,1 @@
-{"index": 148036, "D": "immoderation. ", "S": ["extravagance ", "extreme "], "A": ["unselfishness "]}
+{"index": 148036, "D": "immoderation. ", "S": ["extravagance", "extreme"], "A": ["unselfishness"]}

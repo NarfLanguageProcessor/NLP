@@ -1,1 +1,0 @@
-{"index": 305338, "D": "a process by which magmas move upward in the earth by breaking off and engulfing blocks of overlying rocks.", "S": [], "A": []}

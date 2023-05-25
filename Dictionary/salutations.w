@@ -1,1 +1,1 @@
-{"index": 277378, "D": "the act of saluting. ", "S": ["commendations ", "compliments ", "deference ", "devoirs ", "greeting ", "love ", "remembrances ", "respects ", "salutation "], "A": []}
+{"index": 277378, "D": "the act of saluting. ", "S": ["commendations", "compliments", "deference", "devoirs", "greeting", "love", "remembrances", "respects", "salutation"], "A": []}

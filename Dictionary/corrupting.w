@@ -1,1 +1,1 @@
-{"index": 69777, "D": "guilty of dishonest practices, as bribery; lacking integrity; crooked", "S": ["noxious ", "pernicious "], "A": ["helpful "]}
+{"index": 69777, "D": "guilty of dishonest practices, as bribery; lacking integrity; crooked", "S": ["noxious", "pernicious"], "A": ["helpful"]}

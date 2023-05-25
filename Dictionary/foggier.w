@@ -1,1 +1,1 @@
-{"index": 115767, "D": "thick with or having much fog; misty", "S": ["cloudy ", "fuzzy ", "misty ", "murky ", "soupy ", "vague "], "A": ["clear "]}
+{"index": 115767, "D": "thick with or having much fog; misty", "S": ["cloudy", "fuzzy", "misty", "murky", "soupy", "vague"], "A": ["clear"]}

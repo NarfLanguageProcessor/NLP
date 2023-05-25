@@ -1,1 +1,1 @@
-{"index": 29593, "D": "to strike violently or forcefully and repeatedly.", "S": ["apt ", "inclined ", "prone ", "sensitive ", "susceptible ", "vulnerable "], "A": ["unsusceptible "]}
+{"index": 29593, "D": "to strike violently or forcefully and repeatedly.", "S": ["apt", "inclined", "prone", "sensitive", "susceptible", "vulnerable"], "A": ["unsusceptible"]}

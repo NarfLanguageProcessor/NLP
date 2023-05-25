@@ -1,1 +1,1 @@
-{"index": 264933, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": ["adjust ", "amend ", "change ", "develop ", "modify ", "reshape ", "revamp ", "revise ", "shift ", "transform ", "vary "], "A": ["leave alone ", "remain ", "stagnate ", "stay "]}
+{"index": 264933, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": ["adjust", "amend", "change", "develop", "modify", "reshape", "revamp", "revise", "shift", "transform", "vary"], "A": ["leave alone", "remain", "stagnate", "stay"]}

@@ -1,1 +1,1 @@
-{"index": 56944, "D": "to control by cybernation. ", "S": ["automated ", "digital "], "A": []}
+{"index": 56944, "D": "to control by cybernation. ", "S": ["automated", "digital"], "A": []}

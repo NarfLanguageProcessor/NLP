@@ -1,1 +1,1 @@
-{"index": 336625, "D": "renowned; well-known", "S": ["unheard-of ", "unnamed "], "A": ["designated ", "distinguished ", "eminent ", "famous ", "known ", "named ", "prominent ", "renowned "]}
+{"index": 336625, "D": "renowned; well-known", "S": ["unheard-of", "unnamed"], "A": ["designated", "distinguished", "eminent", "famous", "known", "named", "prominent", "renowned"]}

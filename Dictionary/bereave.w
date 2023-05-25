@@ -1,0 +1,1 @@
+{"index": 32009, "D": "to deprive and make desolate, especially by death (usually followed by of)", "S": ["dispossess"], "A": ["clothe", "cover", "hold", "keep"]}

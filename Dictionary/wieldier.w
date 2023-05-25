@@ -1,1 +1,1 @@
-{"index": 365572, "D": "readily wielded  or managed, as in use or action.", "S": ["accessible ", "clear ", "effortless ", "obvious ", "painless ", "simple ", "smooth ", "straightforward ", "uncomplicated "], "A": ["complicated ", "difficult ", "hard ", "obscure "]}
+{"index": 365572, "D": "readily wielded  or managed, as in use or action.", "S": ["accessible", "clear", "effortless", "obvious", "painless", "simple", "smooth", "straightforward", "uncomplicated"], "A": ["complicated", "difficult", "hard", "obscure"]}

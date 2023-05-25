@@ -1,1 +1,1 @@
-{"index": 52849, "D": "generous in donations or gifts to relieve the needs of indigent, ill, or helpless people, or of animals", "S": ["abundantly ", "amply ", "freely ", "handsomely ", "lavishly ", "liberally "], "A": ["poorly "]}
+{"index": 52849, "D": "generous in donations or gifts to relieve the needs of indigent, ill, or helpless people, or of animals", "S": ["abundantly", "amply", "freely", "handsomely", "lavishly", "liberally"], "A": ["poorly"]}

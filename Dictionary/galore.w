@@ -1,1 +1,1 @@
-{"index": 121500, "D": "in abundance; in plentiful amounts", "S": ["abounding ", "aplenty ", "in profusion ", "in quantity ", "plentiful "], "A": []}
+{"index": 121500, "D": "in abundance; in plentiful amounts", "S": ["abounding", "aplenty", "in profusion", "in quantity", "plentiful"], "A": []}

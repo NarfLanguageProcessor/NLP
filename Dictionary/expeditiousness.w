@@ -1,1 +1,1 @@
-{"index": 107664, "D": "characterized by promptness; quick", "S": ["briskness ", "celerity ", "dispatch ", "expedition ", "fleetness ", "haste ", "hastiness ", "hustle ", "rapidity ", "rapidness ", "speed ", "speediness ", "swiftness "], "A": ["delay ", "slowing ", "slowness "]}
+{"index": 107664, "D": "characterized by promptness; quick", "S": ["briskness", "celerity", "dispatch", "expedition", "fleetness", "haste", "hastiness", "hustle", "rapidity", "rapidness", "speed", "speediness", "swiftness"], "A": ["delay", "slowing", "slowness"]}

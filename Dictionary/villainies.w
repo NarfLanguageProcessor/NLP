@@ -1,1 +1,1 @@
-{"index": 359730, "D": "the actions or conduct of a villain; outrageous wickedness.", "S": ["turpitude ", "viciousness ", "vileness "], "A": []}
+{"index": 359730, "D": "the actions or conduct of a villain; outrageous wickedness.", "S": ["turpitude", "viciousness", "vileness"], "A": []}

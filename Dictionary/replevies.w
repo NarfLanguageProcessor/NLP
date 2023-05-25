@@ -1,1 +1,1 @@
-{"index": 268293, "D": "to recover possession of by replevin.", "S": ["rescue ", "restoration ", "return "], "A": ["penalty "]}
+{"index": 268293, "D": "to recover possession of by replevin.", "S": ["rescue", "restoration", "return"], "A": ["penalty"]}

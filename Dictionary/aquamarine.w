@@ -1,1 +1,1 @@
-{"index": 18184, "D": "a transparent, light-blue or greenish-blue variety of beryl, used as a gem.", "S": ["blue-green ", "olive "], "A": []}
+{"index": 18184, "D": "a transparent, light-blue or greenish-blue variety of beryl, used as a gem.", "S": ["blue-green", "olive"], "A": []}

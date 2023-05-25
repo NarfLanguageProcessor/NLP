@@ -1,1 +1,1 @@
-{"index": 45715, "D": "a truck used for carrying freight or military supplies, equipment, and troops.", "S": ["car ", "caravan ", "carriage ", "cart ", "chariot ", "lorry ", "van "], "A": []}
+{"index": 45715, "D": "a truck used for carrying freight or military supplies, equipment, and troops.", "S": ["car", "caravan", "carriage", "cart", "chariot", "lorry", "van"], "A": []}

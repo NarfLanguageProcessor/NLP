@@ -1,1 +1,1 @@
-{"index": 249351, "D": "of or relating to presentation. ", "S": ["classic ", "classical ", "ideal ", "model ", "rep "], "A": ["imperfect "]}
+{"index": 249351, "D": "of or relating to presentation. ", "S": ["classic", "classical", "ideal", "model", "rep"], "A": ["imperfect"]}

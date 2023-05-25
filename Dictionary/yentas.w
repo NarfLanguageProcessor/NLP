@@ -1,1 +1,1 @@
-{"index": 146873, "D": "a person, especially a woman, who is a busybody or gossip.", "S": ["buttinsky ", "eavesdropper ", "fink ", "gossip ", "intruder ", "meddler ", "newsmonger ", "rubberneck ", "scandalmonger ", "snoop ", "snooper ", "tattletale ", "troublemaker "], "A": []}
+{"index": 146873, "D": "a person, especially a woman, who is a busybody or gossip.", "S": ["buttinsky", "eavesdropper", "fink", "gossip", "intruder", "meddler", "newsmonger", "rubberneck", "scandalmonger", "snoop", "snooper", "tattletale", "troublemaker"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 210725, "D": "of or relating to magic, astrology, or any system claiming use or knowledge of secret or supernatural powers or agencies.", "S": ["hide ", "plant ", "stash "], "A": ["reveal ", "uncover "]}
+{"index": 210725, "D": "of or relating to magic, astrology, or any system claiming use or knowledge of secret or supernatural powers or agencies.", "S": ["hide", "plant", "stash"], "A": ["reveal", "uncover"]}

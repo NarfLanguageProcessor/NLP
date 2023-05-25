@@ -1,1 +1,1 @@
-{"index": 222990, "D": "one side of a leaf of something printed or written, as a book, manuscript, or letter.", "S": ["folio ", "leaf ", "recto ", "side ", "signature ", "surface ", "verso "], "A": ["inside ", "middle "]}
+{"index": 222990, "D": "one side of a leaf of something printed or written, as a book, manuscript, or letter.", "S": ["folio", "leaf", "recto", "side", "signature", "surface", "verso"], "A": ["inside", "middle"]}

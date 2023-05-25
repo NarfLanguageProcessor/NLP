@@ -1,1 +1,1 @@
-{"index": 176186, "D": "a small restaurant or lunchroom where light meals are served.", "S": ["cafe ", "cafeteria ", "caf\u00e9 ", "diner ", "restaurant ", "snack bar "], "A": []}
+{"index": 176186, "D": "a small restaurant or lunchroom where light meals are served.", "S": ["cafe", "cafeteria", "caf\u00e9", "diner", "restaurant", "snack bar"], "A": []}

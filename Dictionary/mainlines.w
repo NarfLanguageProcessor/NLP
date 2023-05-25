@@ -1,1 +1,1 @@
-{"index": 177898, "D": "to inject a narcotic, especially heroin, directly into a vein.", "S": ["vaccinate "], "A": ["take out "]}
+{"index": 177898, "D": "to inject a narcotic, especially heroin, directly into a vein.", "S": ["vaccinate"], "A": ["take out"]}

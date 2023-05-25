@@ -1,1 +1,1 @@
-{"index": 133913, "D": [], "S": ["hag ", "nag ", "shrew ", "virago ", "vixen "], "A": []}
+{"index": 133913, "D": [], "S": ["hag", "nag", "shrew", "virago", "vixen"], "A": []}

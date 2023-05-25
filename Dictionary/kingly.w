@@ -1,1 +1,1 @@
-{"index": 164901, "D": "stately or splendid, as resembling, suggesting, or befitting a king;  regal", "S": ["aristocratic ", "noble ", "regal ", "royal "], "A": []}
+{"index": 164901, "D": "stately or splendid, as resembling, suggesting, or befitting a king;  regal", "S": ["aristocratic", "noble", "regal", "royal"], "A": []}

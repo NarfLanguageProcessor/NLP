@@ -1,1 +1,1 @@
-{"index": 72902, "D": "a sharp, painful spasm of the muscles, as of the neck or back.", "S": ["bruise ", "crick ", "dislocate ", "hurt ", "sprain ", "strain ", "wrench "], "A": ["calm ", "placate ", "soothe "]}
+{"index": 72902, "D": "a sharp, painful spasm of the muscles, as of the neck or back.", "S": ["bruise", "crick", "dislocate", "hurt", "sprain", "strain", "wrench"], "A": ["calm", "placate", "soothe"]}

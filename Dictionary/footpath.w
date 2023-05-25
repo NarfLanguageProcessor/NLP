@@ -1,1 +1,1 @@
-{"index": 116226, "D": "a path  for people going on foot. ", "S": ["walkway "], "A": []}
+{"index": 116226, "D": "a path  for people going on foot. ", "S": ["walkway"], "A": []}

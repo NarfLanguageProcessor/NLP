@@ -1,1 +1,1 @@
-{"index": 175014, "D": "existing, occurring, or continuing for a long  period of time;  longstanding", "S": ["built-in ", "chronic ", "deep-rooted ", "inbred ", "inherent ", "longstanding "], "A": ["added ", "temporary "]}
+{"index": 175014, "D": "existing, occurring, or continuing for a long  period of time;  longstanding", "S": ["built-in", "chronic", "deep-rooted", "inbred", "inherent", "longstanding"], "A": ["added", "temporary"]}

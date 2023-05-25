@@ -1,1 +1,1 @@
-{"index": 22764, "D": "to reduce to atoms. ", "S": ["destroy ", "grate ", "pulverize ", "reduce ", "spray ", "vaporize "], "A": ["build ", "construct ", "create "]}
+{"index": 22764, "D": "to reduce to atoms. ", "S": ["destroy", "grate", "pulverize", "reduce", "spray", "vaporize"], "A": ["build", "construct", "create"]}

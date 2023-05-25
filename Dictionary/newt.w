@@ -1,1 +1,1 @@
-{"index": 199493, "D": "any of several brilliantly colored salamanders of the family Salamandridae, especially those of the genera Triturus and Notophthalmus, of North America, Europe, and northern Asia.", "S": ["frog ", "salamander ", "toad "], "A": []}
+{"index": 199493, "D": "any of several brilliantly colored salamanders of the family Salamandridae, especially those of the genera Triturus and Notophthalmus, of North America, Europe, and northern Asia.", "S": ["frog", "salamander", "toad"], "A": []}

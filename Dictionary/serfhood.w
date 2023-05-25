@@ -1,1 +1,1 @@
-{"index": 285997, "D": [], "S": ["bondage ", "servitude "], "A": ["entertainment ", "freedom ", "fun ", "pastime "]}
+{"index": 285997, "D": [], "S": ["bondage", "servitude"], "A": ["entertainment", "freedom", "fun", "pastime"]}

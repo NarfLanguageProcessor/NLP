@@ -1,1 +1,1 @@
-{"index": 80044, "D": "having the function of deliberating,  as a legislative assembly", "S": ["calculated ", "contemplative "], "A": []}
+{"index": 80044, "D": "having the function of deliberating,  as a legislative assembly", "S": ["calculated", "contemplative"], "A": []}

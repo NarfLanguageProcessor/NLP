@@ -1,1 +1,1 @@
-{"index": 156877, "D": "a less common variant of entrust. ", "S": ["consignment ", "distribution ", "shipment ", "transmission "], "A": ["capture ", "confinement ", "hold ", "imprisonment ", "keeping ", "quiet ", "restraint ", "retention ", "secrecy "]}
+{"index": 156877, "D": "a less common variant of entrust. ", "S": ["consignment", "distribution", "shipment", "transmission"], "A": ["capture", "confinement", "hold", "imprisonment", "keeping", "quiet", "restraint", "retention", "secrecy"]}

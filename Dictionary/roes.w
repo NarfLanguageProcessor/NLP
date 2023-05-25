@@ -1,1 +1,0 @@
-{"index": 273825, "D": "the mass of eggs, or spawn, within the ovarian membrane of the female fish.", "S": ["delicacy ", "eggs ", "relish "], "A": []}

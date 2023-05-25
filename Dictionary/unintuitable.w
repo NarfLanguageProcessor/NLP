@@ -1,1 +1,0 @@
-{"index": 344828, "D": "to know or receive by intuition. ", "S": [], "A": []}

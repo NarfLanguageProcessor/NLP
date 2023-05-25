@@ -1,1 +1,1 @@
-{"index": 107819, "D": "serving to explain", "S": ["analytical ", "informative ", "interpretive ", "supplementary "], "A": ["confusing ", "mysterious ", "obscure ", "perplexing ", "puzzling ", "vague "]}
+{"index": 107819, "D": "serving to explain", "S": ["analytical", "informative", "interpretive", "supplementary"], "A": ["confusing", "mysterious", "obscure", "perplexing", "puzzling", "vague"]}

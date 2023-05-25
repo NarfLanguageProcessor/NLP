@@ -1,1 +1,0 @@
-{"index": 294845, "D": "a Eurasian duck, Mergus albellus, closely akin to mergansers", "S": [], "A": []}

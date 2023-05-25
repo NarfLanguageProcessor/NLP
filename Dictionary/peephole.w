@@ -1,1 +1,1 @@
-{"index": 229057, "D": "a small hole  or opening through which to peep  or look, as in a door.", "S": ["crevice ", "eyehole ", "eyelet ", "opening ", "slit ", "slot "], "A": ["closure "]}
+{"index": 229057, "D": "a small hole  or opening through which to peep  or look, as in a door.", "S": ["crevice", "eyehole", "eyelet", "opening", "slit", "slot"], "A": ["closure"]}

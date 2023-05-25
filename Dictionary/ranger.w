@@ -1,1 +1,1 @@
-{"index": 260561, "D": "forest ranger. ", "S": ["policeman ", "policewoman ", "rover ", "soldier ", "trooper ", "wanderer ", "warden "], "A": []}
+{"index": 260561, "D": "forest ranger. ", "S": ["policeman", "policewoman", "rover", "soldier", "trooper", "wanderer", "warden"], "A": []}

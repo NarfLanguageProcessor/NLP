@@ -1,1 +1,1 @@
-{"index": 144861, "D": "any system or mode of thought or action in which human  interests, values, and dignity predominate.", "S": ["altruism ", "benevolence ", "humaneness ", "humanitarianism "], "A": []}
+{"index": 144861, "D": "any system or mode of thought or action in which human  interests, values, and dignity predominate.", "S": ["altruism", "benevolence", "humaneness", "humanitarianism"], "A": []}

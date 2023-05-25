@@ -1,1 +1,1 @@
-{"index": 213886, "D": "characterized by or exhibiting opulence", "S": ["deluxe ", "extravagant ", "lavish ", "luscious ", "ostentatious ", "palatial ", "plush ", "sumptuous ", "swank "], "A": ["economical ", "poor ", "small "]}
+{"index": 213886, "D": "characterized by or exhibiting opulence", "S": ["deluxe", "extravagant", "lavish", "luscious", "ostentatious", "palatial", "plush", "sumptuous", "swank"], "A": ["economical", "poor", "small"]}

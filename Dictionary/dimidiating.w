@@ -1,1 +1,1 @@
-{"index": 85895, "D": [], "S": ["cut across "], "A": ["combine ", "join ", "unite "]}
+{"index": 85895, "D": [], "S": ["cut across"], "A": ["combine", "join", "unite"]}

@@ -1,1 +1,1 @@
-{"index": 196324, "D": "a slow-witted, foolish, or stupid person; dolt.", "S": ["fool ", "moron ", "nitwit ", "twit "], "A": ["brain ", "genius "]}
+{"index": 196324, "D": "a slow-witted, foolish, or stupid person; dolt.", "S": ["fool", "moron", "nitwit", "twit"], "A": ["brain", "genius"]}

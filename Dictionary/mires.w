@@ -1,1 +1,1 @@
-{"index": 188351, "D": "a tract or area of wet, swampy ground; bog; marsh. ", "S": ["quagmire "], "A": []}
+{"index": 188351, "D": "a tract or area of wet, swampy ground; bog; marsh. ", "S": ["quagmire"], "A": []}

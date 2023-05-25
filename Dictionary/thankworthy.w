@@ -1,1 +1,1 @@
-{"index": 320620, "D": "deserving gratitude", "S": ["admirable ", "creditable ", "excellent ", "exemplary ", "laudable ", "meritorious "], "A": ["bad ", "unworthy ", "wrong "]}
+{"index": 320620, "D": "deserving gratitude", "S": ["admirable", "creditable", "excellent", "exemplary", "laudable", "meritorious"], "A": ["bad", "unworthy", "wrong"]}

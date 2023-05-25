@@ -1,1 +1,0 @@
-{"index": 203347, "D": "thrifty management; frugality in the expenditure or consumption of money, materials, etc.", "S": [], "A": []}

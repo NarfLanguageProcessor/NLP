@@ -1,1 +1,1 @@
-{"index": 10330, "D": "Indian (def. 1). ", "S": ["American Indian ", "Amerind ", "Amerindian ", "Indian "], "A": []}
+{"index": 10330, "D": "Indian (def. 1). ", "S": ["American Indian", "Amerind", "Amerindian", "Indian"], "A": []}

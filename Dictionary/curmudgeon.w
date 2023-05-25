@@ -1,1 +1,1 @@
-{"index": 75368, "D": "a bad-tempered, difficult, cantankerous person.", "S": ["bellyacher ", "complainer ", "faultfinder ", "growler ", "grumbler ", "grump ", "sourpuss ", "whiner "], "A": []}
+{"index": 75368, "D": "a bad-tempered, difficult, cantankerous person.", "S": ["bellyacher", "complainer", "faultfinder", "growler", "grumbler", "grump", "sourpuss", "whiner"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 306031, "D": "a prostitute who solicits on the streets. ", "S": ["harlot ", "hooker ", "hustler ", "strumpet ", "whore "], "A": []}
+{"index": 306031, "D": "a prostitute who solicits on the streets. ", "S": ["harlot", "hooker", "hustler", "strumpet", "whore"], "A": []}

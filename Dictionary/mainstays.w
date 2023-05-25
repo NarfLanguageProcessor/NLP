@@ -1,1 +1,1 @@
-{"index": 177924, "D": "the stay  that secures the mainmast forward.", "S": ["backbone ", "bulwark ", "linchpin ", "pillar "], "A": []}
+{"index": 177924, "D": "the stay  that secures the mainmast forward.", "S": ["backbone", "bulwark", "linchpin", "pillar"], "A": []}

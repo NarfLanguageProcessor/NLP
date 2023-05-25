@@ -1,1 +1,1 @@
-{"index": 200186, "D": "tenpins played without the head pin.", "S": ["bowls ", "candlepins ", "duckpins ", "skittles "], "A": []}
+{"index": 200186, "D": "tenpins played without the head pin.", "S": ["bowls", "candlepins", "duckpins", "skittles"], "A": []}

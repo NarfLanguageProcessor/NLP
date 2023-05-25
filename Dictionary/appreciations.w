@@ -1,1 +1,1 @@
-{"index": 17911, "D": "gratitude; thankful recognition", "S": ["acknowledgment ", "gratitude ", "recognition ", "thanks "], "A": ["criticism ", "decrease ", "depreciation ", "disparagement ", "disregard ", "loss ", "neglect "]}
+{"index": 17911, "D": "gratitude; thankful recognition", "S": ["acknowledgment", "gratitude", "recognition", "thanks"], "A": ["criticism", "decrease", "depreciation", "disparagement", "disregard", "loss", "neglect"]}

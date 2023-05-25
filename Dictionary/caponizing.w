@@ -1,1 +1,1 @@
-{"index": 47005, "D": "to castrate (a fowl).", "S": ["change ", "fix "], "A": ["breed "]}
+{"index": 47005, "D": "to castrate (a fowl).", "S": ["change", "fix"], "A": ["breed"]}

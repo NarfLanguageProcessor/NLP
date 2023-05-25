@@ -1,1 +1,1 @@
-{"index": 59381, "D": "a book  kept by a teacher recording student attendance, grades, etc.", "S": ["handbook ", "manual ", "textbook "], "A": []}
+{"index": 59381, "D": "a book  kept by a teacher recording student attendance, grades, etc.", "S": ["handbook", "manual", "textbook"], "A": []}

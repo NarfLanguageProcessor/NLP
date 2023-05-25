@@ -1,1 +1,0 @@
-{"index": 166825, "D": "a mass of igneous rock formed from magma that did not find its way to the surface but spread laterally into a lenticular body, forcing overlying strata to bulge upward.", "S": [], "A": []}

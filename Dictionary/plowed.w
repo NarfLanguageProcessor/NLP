@@ -1,1 +1,1 @@
-{"index": 240281, "D": "an agricultural implement used for cutting, lifting, turning over, and partly pulverizing soil.", "S": ["broken ", "furrowed ", "turned "], "A": []}
+{"index": 240281, "D": "an agricultural implement used for cutting, lifting, turning over, and partly pulverizing soil.", "S": ["broken", "furrowed", "turned"], "A": []}

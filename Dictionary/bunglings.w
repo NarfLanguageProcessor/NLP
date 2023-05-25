@@ -1,1 +1,1 @@
-{"index": 42863, "D": [], "S": ["blooper ", "bungling ", "error ", "flub ", "fumble ", "miscalculation ", "miscue ", "miss ", "muddle ", "muff ", "oversight ", "slip ", "stumble "], "A": ["correction ", "success "]}
+{"index": 42863, "D": [], "S": ["blooper", "bungling", "error", "flub", "fumble", "miscalculation", "miscue", "miss", "muddle", "muff", "oversight", "slip", "stumble"], "A": ["correction", "success"]}

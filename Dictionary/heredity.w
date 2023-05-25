@@ -1,1 +1,1 @@
-{"index": 137025, "D": "the transmission of genetic characters from parents to offspring", "S": ["ancestry ", "constitution ", "eugenics ", "genetics ", "inheritance "], "A": ["acquirement "]}
+{"index": 137025, "D": "the transmission of genetic characters from parents to offspring", "S": ["ancestry", "constitution", "eugenics", "genetics", "inheritance"], "A": ["acquirement"]}

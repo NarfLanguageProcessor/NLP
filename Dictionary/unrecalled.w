@@ -1,1 +1,1 @@
-{"index": 349152, "D": "to bring back from memory; recollect; remember", "S": ["abandoned ", "buried ", "erased ", "gone ", "lapsed ", "lost ", "obliterated ", "omitted ", "repressed ", "suppressed "], "A": ["existing "]}
+{"index": 349152, "D": "to bring back from memory; recollect; remember", "S": ["abandoned", "buried", "erased", "gone", "lapsed", "lost", "obliterated", "omitted", "repressed", "suppressed"], "A": ["existing"]}

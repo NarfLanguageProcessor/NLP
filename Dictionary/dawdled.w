@@ -1,1 +1,1 @@
-{"index": 77331, "D": "to waste time; idle; trifle; loiter", "S": ["laze ", "loiter ", "mosey ", "procrastinate ", "saunter "], "A": ["do ", "go ", "run ", "rush "]}
+{"index": 77331, "D": "to waste time; idle; trifle; loiter", "S": ["laze", "loiter", "mosey", "procrastinate", "saunter"], "A": ["do", "go", "run", "rush"]}

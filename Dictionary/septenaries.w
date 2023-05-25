@@ -1,1 +1,1 @@
-{"index": 285677, "D": "of or relating to the number seven or forming a group of seven.", "S": ["hebdomad ", "heptad ", "septenary "], "A": []}
+{"index": 285677, "D": "of or relating to the number seven or forming a group of seven.", "S": ["hebdomad", "heptad", "septenary"], "A": []}

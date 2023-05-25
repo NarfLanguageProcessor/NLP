@@ -1,1 +1,1 @@
-{"index": 140612, "D": "excessively rapid and deep breathing.", "S": ["dyspnea ", "gasp ", "hyperpnea ", "palpitation "], "A": []}
+{"index": 140612, "D": "excessively rapid and deep breathing.", "S": ["dyspnea", "gasp", "hyperpnea", "palpitation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 109544, "D": "to make false  or incorrect, especially so as to deceive", "S": ["pollution "], "A": ["development ", "growth "]}
+{"index": 109544, "D": "to make false  or incorrect, especially so as to deceive", "S": ["pollution"], "A": ["development", "growth"]}

@@ -1,1 +1,1 @@
-{"index": 183259, "D": "telling lies, especially habitually; dishonest; lying; untruthful", "S": ["crookedly ", "deceivingly ", "deceptively ", "falsely ", "slyly ", "underhandedly ", "untruly ", "wrongly "], "A": []}
+{"index": 183259, "D": "telling lies, especially habitually; dishonest; lying; untruthful", "S": ["crookedly", "deceivingly", "deceptively", "falsely", "slyly", "underhandedly", "untruly", "wrongly"], "A": []}

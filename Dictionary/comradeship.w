@@ -1,1 +1,1 @@
-{"index": 65005, "D": "the state of being companions, associates, or friends, especially ones who share activities, an occupation, etc.", "S": ["brotherhood ", "camaraderie ", "chumminess ", "closeness ", "companionship ", "fellowship "], "A": []}
+{"index": 65005, "D": "the state of being companions, associates, or friends, especially ones who share activities, an occupation, etc.", "S": ["brotherhood", "camaraderie", "chumminess", "closeness", "companionship", "fellowship"], "A": []}

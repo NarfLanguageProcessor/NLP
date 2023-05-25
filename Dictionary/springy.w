@@ -1,1 +1,1 @@
-{"index": 301315, "D": "characterized by spring  or elasticity; flexible; resilient", "S": ["bouncy ", "malleable ", "pliable ", "rubbery "], "A": ["rigid ", "stiff "]}
+{"index": 301315, "D": "characterized by spring  or elasticity; flexible; resilient", "S": ["bouncy", "malleable", "pliable", "rubbery"], "A": ["rigid", "stiff"]}

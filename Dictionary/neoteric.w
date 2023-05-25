@@ -1,1 +1,1 @@
-{"index": 198482, "D": "modern; new; recent.", "S": ["crisp ", "different ", "green ", "hot ", "late ", "natural ", "original ", "raw ", "recent ", "unusual "], "A": ["experienced ", "normal ", "old ", "old-fashioned ", "standard "]}
+{"index": 198482, "D": "modern; new; recent.", "S": ["crisp", "different", "green", "hot", "late", "natural", "original", "raw", "recent", "unusual"], "A": ["experienced", "normal", "old", "old-fashioned", "standard"]}

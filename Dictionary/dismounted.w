@@ -1,1 +1,1 @@
-{"index": 88730, "D": "to get off or alight from a horse, bicycle, etc.", "S": ["disembark "], "A": ["get up ", "mount "]}
+{"index": 88730, "D": "to get off or alight from a horse, bicycle, etc.", "S": ["disembark"], "A": ["get up", "mount"]}

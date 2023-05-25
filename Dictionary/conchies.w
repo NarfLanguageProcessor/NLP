@@ -1,1 +1,1 @@
-{"index": 65266, "D": "conscientious objector.", "S": ["C.O. ", "nonviolent person ", "peacenik ", "war-hater "], "A": []}
+{"index": 65266, "D": "conscientious objector.", "S": ["C.O.", "nonviolent person", "peacenik", "war-hater"], "A": []}

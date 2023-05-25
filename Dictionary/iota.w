@@ -1,1 +1,1 @@
-{"index": 157709, "D": "a very small quantity; jot; whit.", "S": ["ounce ", "smidgen ", "speck ", "whit "], "A": ["lot "]}
+{"index": 157709, "D": "a very small quantity; jot; whit.", "S": ["ounce", "smidgen", "speck", "whit"], "A": ["lot"]}

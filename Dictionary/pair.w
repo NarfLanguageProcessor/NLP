@@ -1,1 +1,1 @@
-{"index": 223212, "D": "two identical, similar, or corresponding things that are matched for use together", "S": ["combination ", "couple ", "duo ", "match ", "team ", "two "], "A": ["one ", "single "]}
+{"index": 223212, "D": "two identical, similar, or corresponding things that are matched for use together", "S": ["combination", "couple", "duo", "match", "team", "two"], "A": ["one", "single"]}

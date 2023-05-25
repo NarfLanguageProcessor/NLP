@@ -1,1 +1,1 @@
-{"index": 45421, "D": [], "S": ["bake ", "boil ", "broil ", "grill ", "ignite ", "melt ", "reheat ", "roast ", "sear ", "steam ", "thaw ", "toast ", "warm "], "A": ["freeze ", "put out "]}
+{"index": 45421, "D": [], "S": ["bake", "boil", "broil", "grill", "ignite", "melt", "reheat", "roast", "sear", "steam", "thaw", "toast", "warm"], "A": ["freeze", "put out"]}

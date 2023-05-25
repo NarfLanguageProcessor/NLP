@@ -1,1 +1,1 @@
-{"index": 87661, "D": "lack or breach of courtesy;  incivility; rudeness.", "S": ["brusqueness ", "contumely ", "impoliteness ", "incivility ", "profanation ", "rudeness "], "A": ["courtesy ", "politeness "]}
+{"index": 87661, "D": "lack or breach of courtesy;  incivility; rudeness.", "S": ["brusqueness", "contumely", "impoliteness", "incivility", "profanation", "rudeness"], "A": ["courtesy", "politeness"]}

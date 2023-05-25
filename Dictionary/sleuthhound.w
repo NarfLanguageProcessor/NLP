@@ -1,1 +1,1 @@
-{"index": 293984, "D": "a bloodhound.", "S": ["detective ", "gumshoe ", "private eye ", "private investigator ", "sleuth "], "A": []}
+{"index": 293984, "D": "a bloodhound.", "S": ["detective", "gumshoe", "private eye", "private investigator", "sleuth"], "A": []}

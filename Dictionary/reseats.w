@@ -1,1 +1,1 @@
-{"index": 269113, "D": "to provide with a new seat  or new seats. ", "S": ["give ", "replace ", "restore ", "send "], "A": ["deprive ", "hold ", "keep ", "refuse ", "take "]}
+{"index": 269113, "D": "to provide with a new seat  or new seats. ", "S": ["give", "replace", "restore", "send"], "A": ["deprive", "hold", "keep", "refuse", "take"]}

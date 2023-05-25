@@ -1,1 +1,1 @@
-{"index": 130434, "D": "advanced in growth", "S": ["developed ", "mature "], "A": []}
+{"index": 130434, "D": "advanced in growth", "S": ["developed", "mature"], "A": []}

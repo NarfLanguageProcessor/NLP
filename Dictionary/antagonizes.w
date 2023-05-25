@@ -1,0 +1,1 @@
+{"index": 14003, "D": "to make hostile or unfriendly; make an enemy or antagonist  of", "S": ["alienate", "anger", "annoy", "irritate", "offend"], "A": ["aid", "calm", "make happy", "please", "soothe"]}

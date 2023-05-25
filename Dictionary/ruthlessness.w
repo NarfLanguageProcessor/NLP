@@ -1,1 +1,1 @@
-{"index": 275934, "D": "without pity or compassion; cruel; merciless", "S": ["barbarity ", "brutality ", "crime ", "evil ", "horror ", "inhumanity "], "A": ["kindness ", "delight ", "goodness ", "happiness ", "joy ", "right ", "virtue "]}
+{"index": 275934, "D": "without pity or compassion; cruel; merciless", "S": ["barbarity", "brutality", "crime", "evil", "horror", "inhumanity"], "A": ["kindness", "delight", "goodness", "happiness", "joy", "right", "virtue"]}

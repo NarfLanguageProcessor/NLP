@@ -1,1 +1,1 @@
-{"index": 172776, "D": "a person who installs or repairs telephone, telegraph, or other wires.", "S": ["juicer ", "linesman ", "wireman "], "A": []}
+{"index": 172776, "D": "a person who installs or repairs telephone, telegraph, or other wires.", "S": ["juicer", "linesman", "wireman"], "A": []}

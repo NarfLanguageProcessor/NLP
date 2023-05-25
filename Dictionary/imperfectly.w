@@ -1,1 +1,1 @@
-{"index": 148515, "D": "of, relating to, or characterized by defects or weaknesses", "S": ["awkwardly ", "clumsily ", "poorly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}
+{"index": 148515, "D": "of, relating to, or characterized by defects or weaknesses", "S": ["awkwardly", "clumsily", "poorly"], "A": ["adequately", "calmly", "little", "mildly", "morally"]}

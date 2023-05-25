@@ -1,1 +1,1 @@
-{"index": 295695, "D": "to prowl or pry; go about in a sneaking, prying way.", "S": ["analytical ", "nosy "], "A": ["incurious ", "indifferent ", "unconcerned ", "uninterested "]}
+{"index": 295695, "D": "to prowl or pry; go about in a sneaking, prying way.", "S": ["analytical", "nosy"], "A": ["incurious", "indifferent", "unconcerned", "uninterested"]}

@@ -1,1 +1,1 @@
-{"index": 22421, "D": "an individual embodying such a reversion.", "S": ["backsliding ", "relapse "], "A": []}
+{"index": 22421, "D": "an individual embodying such a reversion.", "S": ["backsliding", "relapse"], "A": []}

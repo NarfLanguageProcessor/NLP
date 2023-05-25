@@ -1,1 +1,1 @@
-{"index": 317720, "D": "of or relating to building or construction; constructive; architectural.", "S": ["anatomical ", "architectural ", "basic ", "constitutional ", "skeletal "], "A": []}
+{"index": 317720, "D": "of or relating to building or construction; constructive; architectural.", "S": ["anatomical", "architectural", "basic", "constitutional", "skeletal"], "A": []}

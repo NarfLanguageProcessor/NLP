@@ -1,1 +1,1 @@
-{"index": 326098, "D": "a member of the Conservative Party in Great Britain or Canada.", "S": ["traditional "], "A": ["incautious ", "changeable ", "inconstant ", "unfixed ", "unstable ", "unsteady ", "untrustworthy ", "wavering "]}
+{"index": 326098, "D": "a member of the Conservative Party in Great Britain or Canada.", "S": ["traditional"], "A": ["incautious", "changeable", "inconstant", "unfixed", "unstable", "unsteady", "untrustworthy", "wavering"]}

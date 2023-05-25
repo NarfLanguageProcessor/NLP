@@ -1,1 +1,1 @@
-{"index": 292928, "D": "the bones of a human or an animal considered as a whole, together forming the framework of the body.", "S": ["frame ", "scaffolding "], "A": ["carcass "]}
+{"index": 292928, "D": "the bones of a human or an animal considered as a whole, together forming the framework of the body.", "S": ["frame", "scaffolding"], "A": ["carcass"]}

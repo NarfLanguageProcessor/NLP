@@ -1,1 +1,1 @@
-{"index": 310980, "D": "an authoritative command, message, or signal by which one is summoned.", "S": ["indictment ", "subpoena ", "warrant ", "writ "], "A": []}
+{"index": 310980, "D": "an authoritative command, message, or signal by which one is summoned.", "S": ["indictment", "subpoena", "warrant", "writ"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25436, "D": "a South African word for a boss", "S": ["blat ", "blather ", "bluster ", "cry ", "fuss ", "gripe ", "whine "], "A": []}
+{"index": 25436, "D": "a South African word for a boss", "S": ["blat", "blather", "bluster", "cry", "fuss", "gripe", "whine"], "A": []}

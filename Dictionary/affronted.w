@@ -1,0 +1,1 @@
+{"index": 5505, "D": "a personally offensive act or word; deliberate act or display of disrespect; intentional slight; insult", "S": ["annoyed", "bitter", "enraged", "exasperated", "furious", "heated", "impassioned", "indignant", "irate", "irritable", "irritated", "offended", "outraged", "resentful", "sullen", "uptight"], "A": ["calm", "happy", "mild", "peaceful", "pleased"]}

@@ -1,1 +1,1 @@
-{"index": 24610, "D": "characterized by avarice;  greedy; covetous.", "S": ["acquisitiveness ", "avarice ", "avidity ", "covetousness ", "cupidity ", "greediness ", "rapaciousness ", "rapacity "], "A": ["generosity "]}
+{"index": 24610, "D": "characterized by avarice;  greedy; covetous.", "S": ["acquisitiveness", "avarice", "avidity", "covetousness", "cupidity", "greediness", "rapaciousness", "rapacity"], "A": ["generosity"]}

@@ -1,1 +1,1 @@
-{"index": 16731, "D": "apish behavior; mimicry.", "S": ["caricature ", "parody "], "A": []}
+{"index": 16731, "D": "apish behavior; mimicry.", "S": ["caricature", "parody"], "A": []}

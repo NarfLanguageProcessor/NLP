@@ -1,0 +1,1 @@
+{"index": 26004, "D": "towards the rear", "S": ["back", "backward"], "A": []}

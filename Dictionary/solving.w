@@ -1,1 +1,1 @@
-{"index": 296939, "D": "to find the answer or explanation for; clear up; explain", "S": ["corrective ", "therapeutic "], "A": ["harmful ", "hurtful ", "injurious "]}
+{"index": 296939, "D": "to find the answer or explanation for; clear up; explain", "S": ["corrective", "therapeutic"], "A": ["harmful", "hurtful", "injurious"]}

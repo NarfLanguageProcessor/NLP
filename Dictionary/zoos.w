@@ -1,1 +1,1 @@
-{"index": 369951, "D": "a parklike area in which live animals are kept in cages or large enclosures for public exhibition.", "S": ["menagerie "], "A": []}
+{"index": 369951, "D": "a parklike area in which live animals are kept in cages or large enclosures for public exhibition.", "S": ["menagerie"], "A": []}

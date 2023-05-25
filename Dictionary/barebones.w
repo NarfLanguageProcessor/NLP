@@ -1,1 +1,1 @@
-{"index": 27897, "D": "the irreducible minimum; the most essential components", "S": ["bleak ", "rustic ", "stark ", "subdued ", "unadorned "], "A": ["bland ", "calm ", "elaborate ", "encouraging ", "extravagant ", "gentle ", "indulgent ", "luxurious ", "meek ", "mild ", "spending "]}
+{"index": 27897, "D": "the irreducible minimum; the most essential components", "S": ["bleak", "rustic", "stark", "subdued", "unadorned"], "A": ["bland", "calm", "elaborate", "encouraging", "extravagant", "gentle", "indulgent", "luxurious", "meek", "mild", "spending"]}

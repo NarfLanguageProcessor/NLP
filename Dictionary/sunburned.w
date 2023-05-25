@@ -1,1 +1,1 @@
-{"index": 311051, "D": "inflammation of the skin caused by overexposure to the sun  or a sunlamp.", "S": ["bronzed ", "brown ", "burned "], "A": ["pale ", "pallid "]}
+{"index": 311051, "D": "inflammation of the skin caused by overexposure to the sun  or a sunlamp.", "S": ["bronzed", "brown", "burned"], "A": ["pale", "pallid"]}

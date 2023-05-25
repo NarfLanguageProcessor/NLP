@@ -1,1 +1,1 @@
-{"index": 18866, "D": "the original pattern or model from which all things of the same kind are copied or on which they are based; a model or first form; prototype.", "S": ["form ", "ideal ", "model ", "original ", "paradigm ", "pattern ", "prototype ", "standard "], "A": ["disorganization "]}
+{"index": 18866, "D": "the original pattern or model from which all things of the same kind are copied or on which they are based; a model or first form; prototype.", "S": ["form", "ideal", "model", "original", "paradigm", "pattern", "prototype", "standard"], "A": ["disorganization"]}

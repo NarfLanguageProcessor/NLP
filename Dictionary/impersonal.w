@@ -1,1 +1,1 @@
-{"index": 148593, "D": "not personal; without reference or connection to a particular person", "S": ["abstract ", "detached ", "indifferent ", "remote "], "A": ["compassionate ", "interested ", "sympathetic "]}
+{"index": 148593, "D": "not personal; without reference or connection to a particular person", "S": ["abstract", "detached", "indifferent", "remote"], "A": ["compassionate", "interested", "sympathetic"]}

@@ -1,1 +1,1 @@
-{"index": 335443, "D": "to establish as genuine.", "S": ["fictitious ", "inaccurate ", "mythical ", "unsubstantiated ", "untrue "], "A": ["true "]}
+{"index": 335443, "D": "to establish as genuine.", "S": ["fictitious", "inaccurate", "mythical", "unsubstantiated", "untrue"], "A": ["true"]}

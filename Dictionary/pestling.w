@@ -1,1 +1,1 @@
-{"index": 232306, "D": "a tool for pounding or grinding substances in a mortar.", "S": ["grate ", "pulverize ", "reduce ", "scrape "], "A": []}
+{"index": 232306, "D": "a tool for pounding or grinding substances in a mortar.", "S": ["grate", "pulverize", "reduce", "scrape"], "A": []}

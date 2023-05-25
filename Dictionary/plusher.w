@@ -1,1 +1,1 @@
-{"index": 240621, "D": "a fabric, as of silk, cotton, or wool, whose pile is more than \u215b inch (0.3 centimeter) high.", "S": ["deluxe ", "elegant ", "lavish ", "lush ", "luxury ", "opulent ", "palatial ", "ritzy ", "sumptuous "], "A": ["poor ", "small "]}
+{"index": 240621, "D": "a fabric, as of silk, cotton, or wool, whose pile is more than \u215b inch (0.3 centimeter) high.", "S": ["deluxe", "elegant", "lavish", "lush", "luxury", "opulent", "palatial", "ritzy", "sumptuous"], "A": ["poor", "small"]}

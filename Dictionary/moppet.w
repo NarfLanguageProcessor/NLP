@@ -1,1 +1,1 @@
-{"index": 193242, "D": "a young child.", "S": ["child ", "kid ", "toddler ", "tyke "], "A": ["adult "]}
+{"index": 193242, "D": "a young child.", "S": ["child", "kid", "toddler", "tyke"], "A": ["adult"]}

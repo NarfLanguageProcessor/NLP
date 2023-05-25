@@ -1,1 +1,1 @@
-{"index": 123466, "D": "an indefinite, unspecific, or undetailed statement", "S": ["generalization "], "A": ["detail ", "specific ", "specificity "]}
+{"index": 123466, "D": "an indefinite, unspecific, or undetailed statement", "S": ["generalization"], "A": ["detail", "specific", "specificity"]}

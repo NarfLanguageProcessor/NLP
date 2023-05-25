@@ -1,1 +1,1 @@
-{"index": 66239, "D": "a person who is part of a congregation", "S": ["adorer ", "churchgoer ", "communicant ", "devotee ", "devout person ", "pious person ", "supplicant ", "votary "], "A": ["agnostic ", "atheist ", "skeptic "]}
+{"index": 66239, "D": "a person who is part of a congregation", "S": ["adorer", "churchgoer", "communicant", "devotee", "devout person", "pious person", "supplicant", "votary"], "A": ["agnostic", "atheist", "skeptic"]}

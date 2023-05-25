@@ -1,1 +1,0 @@
-{"index": 243339, "D": "full of residents or inhabitants, as a region; heavily populated. ", "S": ["crowded ", "numerous ", "populated ", "various "], "A": ["deserted "]}

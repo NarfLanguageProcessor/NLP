@@ -1,1 +1,1 @@
-{"index": 326559, "D": "to put the hand, finger, etc., on or into contact with (something) to feel it", "S": ["palpable ", "perceptible ", "tactile ", "tactual "], "A": ["untouchable "]}
+{"index": 326559, "D": "to put the hand, finger, etc., on or into contact with (something) to feel it", "S": ["palpable", "perceptible", "tactile", "tactual"], "A": ["untouchable"]}

@@ -1,1 +1,1 @@
-{"index": 144442, "D": "the lamps providing illumination of the auditorium or seating area of a theater.", "S": ["arc light ", "carbon-arc lamp ", "floodlight ", "footlights "], "A": []}
+{"index": 144442, "D": "the lamps providing illumination of the auditorium or seating area of a theater.", "S": ["arc light", "carbon-arc lamp", "floodlight", "footlights"], "A": []}

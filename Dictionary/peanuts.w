@@ -1,1 +1,1 @@
-{"index": 228434, "D": "a trifling amount of money", "S": ["dose ", "fragment ", "item ", "part ", "portion ", "sample ", "shard ", "slice ", "sliver ", "snippet ", "taste ", "trace "], "A": ["entirety ", "lot ", "whole ", "agreement ", "glob "]}
+{"index": 228434, "D": "a trifling amount of money", "S": ["dose", "fragment", "item", "part", "portion", "sample", "shard", "slice", "sliver", "snippet", "taste", "trace"], "A": ["entirety", "lot", "whole", "agreement", "glob"]}

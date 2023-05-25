@@ -1,1 +1,1 @@
-{"index": 300359, "D": "the landing of a space vehicle in a body of water, especially the ocean", "S": ["accident ", "collapse ", "impact ", "pileup ", "wreck "], "A": ["blastoff ", "takeoff "]}
+{"index": 300359, "D": "the landing of a space vehicle in a body of water, especially the ocean", "S": ["accident", "collapse", "impact", "pileup", "wreck"], "A": ["blastoff", "takeoff"]}

@@ -1,1 +1,1 @@
-{"index": 119583, "D": "any product of plant growth useful to humans or animals.", "S": ["berry ", "crop ", "grain ", "nut ", "produce ", "product "], "A": []}
+{"index": 119583, "D": "any product of plant growth useful to humans or animals.", "S": ["berry", "crop", "grain", "nut", "produce", "product"], "A": []}

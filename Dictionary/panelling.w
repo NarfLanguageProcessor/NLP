@@ -1,1 +1,1 @@
-{"index": 224565, "D": "panels collectively, as on a wall or ceiling", "S": ["cover ", "fill ", "stuff "], "A": ["strip "]}
+{"index": 224565, "D": "panels collectively, as on a wall or ceiling", "S": ["cover", "fill", "stuff"], "A": ["strip"]}

@@ -1,1 +1,1 @@
-{"index": 356593, "D": "excessively proud of or concerned about one's own appearance, qualities, achievements, etc.; conceited", "S": ["arrogant ", "cocky "], "A": ["humble "]}
+{"index": 356593, "D": "excessively proud of or concerned about one's own appearance, qualities, achievements, etc.; conceited", "S": ["arrogant", "cocky"], "A": ["humble"]}

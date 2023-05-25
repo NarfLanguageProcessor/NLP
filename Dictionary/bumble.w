@@ -1,1 +1,1 @@
-{"index": 42699, "D": "to bungle or blunder awkwardly; muddle", "S": ["bobble ", "bungle ", "stumble "], "A": []}
+{"index": 42699, "D": "to bungle or blunder awkwardly; muddle", "S": ["bobble", "bungle", "stumble"], "A": []}

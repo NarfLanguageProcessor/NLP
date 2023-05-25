@@ -1,1 +1,1 @@
-{"index": 77904, "D": "characterized by decadence,  especially culturally or morally", "S": ["depraved ", "immoral "], "A": ["good ", "moral ", "noble ", "pure ", "uncorrupt ", "virtuous ", "decent ", "upright "]}
+{"index": 77904, "D": "characterized by decadence,  especially culturally or morally", "S": ["depraved", "immoral"], "A": ["good", "moral", "noble", "pure", "uncorrupt", "virtuous", "decent", "upright"]}

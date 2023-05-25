@@ -1,1 +1,1 @@
-{"index": 227578, "D": "a small piece of material used to mend a tear or break, to cover a hole, or to strengthen a weak place", "S": ["bit ", "chunk ", "ground ", "land ", "lot ", "plot ", "stretch ", "strip ", "tract "], "A": ["sky ", "whole ", "peace "]}
+{"index": 227578, "D": "a small piece of material used to mend a tear or break, to cover a hole, or to strengthen a weak place", "S": ["bit", "chunk", "ground", "land", "lot", "plot", "stretch", "strip", "tract"], "A": ["sky", "whole", "peace"]}

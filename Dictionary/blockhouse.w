@@ -1,1 +1,1 @@
-{"index": 36376, "D": "a fortified structure with ports or loopholes through which defenders may direct gunfire.", "S": ["dugout ", "fortification ", "shelter "], "A": []}
+{"index": 36376, "D": "a fortified structure with ports or loopholes through which defenders may direct gunfire.", "S": ["dugout", "fortification", "shelter"], "A": []}

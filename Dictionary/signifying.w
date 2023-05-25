@@ -1,1 +1,1 @@
-{"index": 290176, "D": "sounding1 (def. 4) ", "S": ["denotive "], "A": []}
+{"index": 290176, "D": "sounding1 (def. 4) ", "S": ["denotive"], "A": []}

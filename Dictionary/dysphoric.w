@@ -1,1 +1,1 @@
-{"index": 89021, "D": "relating to, experiencing, generating, or expressing a state or feeling of dissatisfaction, anxiety, or restlessness", "S": ["distressed ", "unhappy "], "A": ["glad ", "happy "]}
+{"index": 89021, "D": "relating to, experiencing, generating, or expressing a state or feeling of dissatisfaction, anxiety, or restlessness", "S": ["distressed", "unhappy"], "A": ["glad", "happy"]}

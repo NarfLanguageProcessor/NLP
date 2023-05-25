@@ -1,1 +1,1 @@
-{"index": 91400, "D": "to present as a gift, grant, or contribution; make a donation  of, as to a fund or cause", "S": ["benefactor ", "contributor ", "giver ", "patron ", "philanthropist ", "supporter "], "A": []}
+{"index": 91400, "D": "to present as a gift, grant, or contribution; make a donation  of, as to a fund or cause", "S": ["benefactor", "contributor", "giver", "patron", "philanthropist", "supporter"], "A": []}

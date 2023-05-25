@@ -1,1 +1,1 @@
-{"index": 140888, "D": "a person who pretends to have virtues, moral or religious beliefs, principles, etc., that they do not actually possess, especially a person whose actions belie stated beliefs.", "S": ["bigot ", "charlatan ", "crook ", "impostor ", "phony ", "trickster "], "A": []}
+{"index": 140888, "D": "a person who pretends to have virtues, moral or religious beliefs, principles, etc., that they do not actually possess, especially a person whose actions belie stated beliefs.", "S": ["bigot", "charlatan", "crook", "impostor", "phony", "trickster"], "A": []}

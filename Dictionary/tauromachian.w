@@ -1,1 +1,1 @@
-{"index": 317106, "D": "the art or technique of bullfighting.", "S": ["banderillero ", "picador ", "toreador ", "torero "], "A": []}
+{"index": 317106, "D": "the art or technique of bullfighting.", "S": ["banderillero", "picador", "toreador", "torero"], "A": []}

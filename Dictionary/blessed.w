@@ -1,1 +1,1 @@
-{"index": 36147, "D": "consecrated; sacred; holy; sanctified", "S": ["adored ", "beatified ", "consecrated ", "divine ", "enthroned ", "exalted ", "glorified ", "hallowed ", "redeemed ", "resurrected ", "revered ", "rewarded ", "saved "], "A": ["cursed "]}
+{"index": 36147, "D": "consecrated; sacred; holy; sanctified", "S": ["adored", "beatified", "consecrated", "divine", "enthroned", "exalted", "glorified", "hallowed", "redeemed", "resurrected", "revered", "rewarded", "saved"], "A": ["cursed"]}

@@ -1,1 +1,1 @@
-{"index": 244615, "D": "potassium carbonate, especially the crude impure form obtained from wood ashes.", "S": ["manure "], "A": []}
+{"index": 244615, "D": "potassium carbonate, especially the crude impure form obtained from wood ashes.", "S": ["manure"], "A": []}

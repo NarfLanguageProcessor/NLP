@@ -1,1 +1,1 @@
-{"index": 333246, "D": "a weak chirping sound, as of a young or small bird.", "S": ["chirp ", "chirrup ", "twitter "], "A": []}
+{"index": 333246, "D": "a weak chirping sound, as of a young or small bird.", "S": ["chirp", "chirrup", "twitter"], "A": []}

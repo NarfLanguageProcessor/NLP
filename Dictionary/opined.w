@@ -1,1 +1,1 @@
-{"index": 213529, "D": "held or expressed as an opinion", "S": ["surmise "], "A": ["calculate ", "disbelieve ", "know ", "measure "]}
+{"index": 213529, "D": "held or expressed as an opinion", "S": ["surmise"], "A": ["calculate", "disbelieve", "know", "measure"]}

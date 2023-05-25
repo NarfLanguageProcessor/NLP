@@ -1,1 +1,1 @@
-{"index": 21118, "D": "the powdery residue of matter that remains after burning.", "S": ["bleached ", "blonde ", "golden "], "A": ["dark "]}
+{"index": 21118, "D": "the powdery residue of matter that remains after burning.", "S": ["bleached", "blonde", "golden"], "A": ["dark"]}

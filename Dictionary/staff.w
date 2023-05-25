@@ -1,1 +1,1 @@
-{"index": 302273, "D": "a group of persons, as employees, charged with carrying out the work of an establishment or executing some undertaking.", "S": ["cadre ", "crew ", "faculty ", "force ", "organization ", "personnel ", "team ", "work force "], "A": ["incompetence "]}
+{"index": 302273, "D": "a group of persons, as employees, charged with carrying out the work of an establishment or executing some undertaking.", "S": ["cadre", "crew", "faculty", "force", "organization", "personnel", "team", "work force"], "A": ["incompetence"]}

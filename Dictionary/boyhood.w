@@ -1,1 +1,1 @@
-{"index": 37416, "D": "the state or period of being a boy", "S": ["adolescence "], "A": ["adulthood "]}
+{"index": 37416, "D": "the state or period of being a boy", "S": ["adolescence"], "A": ["adulthood"]}

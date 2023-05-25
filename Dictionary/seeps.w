@@ -1,1 +1,1 @@
-{"index": 283159, "D": "to pass, flow, or ooze gradually through a porous substance", "S": ["bleed ", "drain ", "flow ", "ooze ", "percolate ", "permeate ", "soak ", "trickle "], "A": ["pour "]}
+{"index": 283159, "D": "to pass, flow, or ooze gradually through a porous substance", "S": ["bleed", "drain", "flow", "ooze", "percolate", "permeate", "soak", "trickle"], "A": ["pour"]}

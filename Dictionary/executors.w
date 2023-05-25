@@ -1,1 +1,1 @@
-{"index": 106978, "D": "a person who executes,  carries out, or performs some duty, job, assignment, artistic work, etc.", "S": ["administrator ", "agent ", "enforcer ", "executrix "], "A": []}
+{"index": 106978, "D": "a person who executes,  carries out, or performs some duty, job, assignment, artistic work, etc.", "S": ["administrator", "agent", "enforcer", "executrix"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 301048, "D": "engaging in, disposed to, or interested in open-air or athletic sports", "S": ["antic ", "fair ", "game ", "rollicking ", "square "], "A": ["unsporting "]}
+{"index": 301048, "D": "engaging in, disposed to, or interested in open-air or athletic sports", "S": ["antic", "fair", "game", "rollicking", "square"], "A": ["unsporting"]}

@@ -1,1 +1,0 @@
-{"index": 188837, "D": "to calculate  or judge incorrectly", "S": ["chaotic ", "disorganized ", "messy "], "A": ["ordered ", "organized ", "systematic "]}

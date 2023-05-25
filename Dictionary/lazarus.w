@@ -1,1 +1,1 @@
-{"index": 169442, "D": "the diseased beggar in the parable of the rich man and the beggar. Luke 16", "S": ["bankrupt ", "beggar ", "bum ", "dependent ", "down-and-out ", "insolvent ", "mendicant ", "supplicant "], "A": []}
+{"index": 169442, "D": "the diseased beggar in the parable of the rich man and the beggar. Luke 16", "S": ["bankrupt", "beggar", "bum", "dependent", "down-and-out", "insolvent", "mendicant", "supplicant"], "A": []}

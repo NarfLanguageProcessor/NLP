@@ -1,1 +1,1 @@
-{"index": 90429, "D": "to disclose or reveal (something private, secret, or previously unknown).", "S": ["admit ", "blab ", "communicate ", "disclose ", "give away ", "leak ", "publish ", "reveal ", "uncover "], "A": ["conceal ", "cover ", "hide ", "keep ", "suppress ", "withhold ", "protect "]}
+{"index": 90429, "D": "to disclose or reveal (something private, secret, or previously unknown).", "S": ["admit", "blab", "communicate", "disclose", "give away", "leak", "publish", "reveal", "uncover"], "A": ["conceal", "cover", "hide", "keep", "suppress", "withhold", "protect"]}

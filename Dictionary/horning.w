@@ -1,1 +1,1 @@
-{"index": 143870, "D": "shivaree (def. 1). ", "S": ["collide ", "run into ", "shove ", "smack "], "A": ["discourage ", "dissuade ", "pull ", "tap "]}
+{"index": 143870, "D": "shivaree (def. 1). ", "S": ["collide", "run into", "shove", "smack"], "A": ["discourage", "dissuade", "pull", "tap"]}

@@ -1,1 +1,1 @@
-{"index": 19189, "D": "a simple past tense and past participle of arc. ", "S": ["arc "], "A": ["compress ", "concentrate ", "condense ", "destroy ", "neglect ", "shorten ", "straighten "]}
+{"index": 19189, "D": "a simple past tense and past participle of arc. ", "S": ["arc"], "A": ["compress", "concentrate", "condense", "destroy", "neglect", "shorten", "straighten"]}

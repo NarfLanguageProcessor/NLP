@@ -1,1 +1,1 @@
-{"index": 79218, "D": "serving to defend; protective", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}
+{"index": 79218, "D": "serving to defend; protective", "S": ["opposing"], "A": ["unwary", "unwatchful"]}

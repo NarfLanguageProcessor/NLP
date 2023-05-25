@@ -1,1 +1,1 @@
-{"index": 169455, "D": "averse or disinclined to work, activity, or exertion; indolent. ", "S": ["laze ", "loiter ", "mosey ", "procrastinate ", "saunter "], "A": ["run ", "rush "]}
+{"index": 169455, "D": "averse or disinclined to work, activity, or exertion; indolent. ", "S": ["laze", "loiter", "mosey", "procrastinate", "saunter"], "A": ["run", "rush"]}

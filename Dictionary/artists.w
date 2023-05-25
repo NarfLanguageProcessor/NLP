@@ -1,1 +1,1 @@
-{"index": 20761, "D": "a person who produces works in any of the arts that are primarily subject to aesthetic criteria.", "S": ["list ", "troupe "], "A": ["catch ", "keeping ", "retention "]}
+{"index": 20761, "D": "a person who produces works in any of the arts that are primarily subject to aesthetic criteria.", "S": ["list", "troupe"], "A": ["catch", "keeping", "retention"]}

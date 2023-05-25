@@ -1,1 +1,1 @@
-{"index": 211763, "D": "a female monster in fairy tales and popular legend, usually represented as a hideous giant who feeds on human flesh.", "S": ["brute ", "cad ", "ogre "], "A": ["angel ", "gentleman "]}
+{"index": 211763, "D": "a female monster in fairy tales and popular legend, usually represented as a hideous giant who feeds on human flesh.", "S": ["brute", "cad", "ogre"], "A": ["angel", "gentleman"]}

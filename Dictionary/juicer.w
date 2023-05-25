@@ -1,1 +1,1 @@
-{"index": 162190, "D": "a kitchen appliance for extracting juice  from fruits and vegetables.", "S": ["lineman ", "linesman ", "wireman "], "A": []}
+{"index": 162190, "D": "a kitchen appliance for extracting juice  from fruits and vegetables.", "S": ["lineman", "linesman", "wireman"], "A": []}

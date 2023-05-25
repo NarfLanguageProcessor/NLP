@@ -1,1 +1,1 @@
-{"index": 33859, "D": "pertaining to, involving, or affecting two or both sides, factions, parties, or the like", "S": ["mutual ", "reciprocal "], "A": ["unilateral "]}
+{"index": 33859, "D": "pertaining to, involving, or affecting two or both sides, factions, parties, or the like", "S": ["mutual", "reciprocal"], "A": ["unilateral"]}

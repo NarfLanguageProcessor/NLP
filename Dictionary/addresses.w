@@ -1,0 +1,1 @@
+{"index": 3599, "D": "a speech or written statement, usually formal, directed to a particular group of persons", "S": ["ZIP code", "home", "location", "number"], "A": []}

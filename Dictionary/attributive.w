@@ -1,1 +1,1 @@
-{"index": 23172, "D": "pertaining to or having the character of attribution  or an attribute. ", "S": ["accessory ", "adjunct ", "adnoun ", "attribute ", "dependent ", "identifier ", "modifier ", "qualifier "], "A": []}
+{"index": 23172, "D": "pertaining to or having the character of attribution  or an attribute. ", "S": ["accessory", "adjunct", "adnoun", "attribute", "dependent", "identifier", "modifier", "qualifier"], "A": []}

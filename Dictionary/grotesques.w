@@ -1,1 +1,1 @@
-{"index": 130268, "D": "odd or unnatural in shape, appearance, or character; fantastically ugly or absurd; bizarre.", "S": ["aberration ", "anomaly ", "geek ", "monster ", "mutant ", "weirdo "], "A": []}
+{"index": 130268, "D": "odd or unnatural in shape, appearance, or character; fantastically ugly or absurd; bizarre.", "S": ["aberration", "anomaly", "geek", "monster", "mutant", "weirdo"], "A": []}

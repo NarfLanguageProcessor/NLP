@@ -1,1 +1,1 @@
-{"index": 313054, "D": "the act of supposing. ", "S": ["alleged ", "apparent ", "asserted ", "conjectural ", "hypothetic ", "hypothetical ", "inferential ", "likely ", "presumed ", "presumptive ", "presupposed ", "purported ", "suppositious ", "supposititious ", "suppositive "], "A": []}
+{"index": 313054, "D": "the act of supposing. ", "S": ["alleged", "apparent", "asserted", "conjectural", "hypothetic", "hypothetical", "inferential", "likely", "presumed", "presumptive", "presupposed", "purported", "suppositious", "supposititious", "suppositive"], "A": []}

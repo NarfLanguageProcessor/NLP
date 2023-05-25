@@ -1,0 +1,1 @@
+{"index": 28032, "D": "a male voice or voice part intermediate between tenor and bass.", "S": [], "A": []}

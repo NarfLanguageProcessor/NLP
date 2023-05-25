@@ -1,1 +1,1 @@
-{"index": 77553, "D": "relations; business", "S": ["business ", "economics ", "exchange ", "industry ", "marketing ", "retailing ", "trade ", "traffic "], "A": ["unemployment "]}
+{"index": 77553, "D": "relations; business", "S": ["business", "economics", "exchange", "industry", "marketing", "retailing", "trade", "traffic"], "A": ["unemployment"]}

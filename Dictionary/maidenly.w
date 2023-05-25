@@ -1,1 +1,1 @@
-{"index": 177779, "D": "pertaining to, characteristic of, or befitting a maiden", "S": ["clean ", "decent ", "fresh ", "good ", "honest ", "true "], "A": ["dishonest ", "evil ", "false ", "fraudulent ", "unreal ", "unsuitable ", "untrustworthy ", "unvirtuous "]}
+{"index": 177779, "D": "pertaining to, characteristic of, or befitting a maiden", "S": ["clean", "decent", "fresh", "good", "honest", "true"], "A": ["dishonest", "evil", "false", "fraudulent", "unreal", "unsuitable", "untrustworthy", "unvirtuous"]}

@@ -1,1 +1,1 @@
-{"index": 316551, "D": "any of various vetches, especially Vicia sativa.", "S": ["allowance ", "concession ", "decrease ", "deduction ", "exemption ", "premium ", "rebate "], "A": ["addition ", "increase "]}
+{"index": 316551, "D": "any of various vetches, especially Vicia sativa.", "S": ["allowance", "concession", "decrease", "deduction", "exemption", "premium", "rebate"], "A": ["addition", "increase"]}

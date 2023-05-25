@@ -1,1 +1,1 @@
-{"index": 288956, "D": "a radio wave  shorter than that used in AM broadcasting, corresponding to frequencies of over 1600 kilohertz", "S": ["transmission ", "wireless "], "A": []}
+{"index": 288956, "D": "a radio wave  shorter than that used in AM broadcasting, corresponding to frequencies of over 1600 kilohertz", "S": ["transmission", "wireless"], "A": []}

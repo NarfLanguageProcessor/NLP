@@ -1,1 +1,1 @@
-{"index": 283113, "D": "in view of the fact that; considering; inasmuch as.", "S": ["appearance ", "eye ", "perception ", "view ", "vision "], "A": ["blindness "]}
+{"index": 283113, "D": "in view of the fact that; considering; inasmuch as.", "S": ["appearance", "eye", "perception", "view", "vision"], "A": ["blindness"]}

@@ -1,1 +1,1 @@
-{"index": 158062, "D": "having or governing with an iron hand;  strict, harsh, or autocratic", "S": ["authoritarian ", "autocratic ", "dictatorial ", "imperious ", "overbearing ", "tyrannical "], "A": ["democratic "]}
+{"index": 158062, "D": "having or governing with an iron hand;  strict, harsh, or autocratic", "S": ["authoritarian", "autocratic", "dictatorial", "imperious", "overbearing", "tyrannical"], "A": ["democratic"]}

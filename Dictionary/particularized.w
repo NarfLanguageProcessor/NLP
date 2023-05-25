@@ -1,1 +1,1 @@
-{"index": 227052, "D": "to make particular. ", "S": ["definitive ", "detailed ", "eloquent ", "expressive ", "identifying ", "illuminating ", "pictorial ", "revealing ", "vivid "], "A": ["dull "]}
+{"index": 227052, "D": "to make particular. ", "S": ["definitive", "detailed", "eloquent", "expressive", "identifying", "illuminating", "pictorial", "revealing", "vivid"], "A": ["dull"]}

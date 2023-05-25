@@ -1,1 +1,1 @@
-{"index": 107633, "D": "the quality of being expedient;  advantageousness; advisability.", "S": ["negotiation ", "politics "], "A": ["ignorance "]}
+{"index": 107633, "D": "the quality of being expedient;  advantageousness; advisability.", "S": ["negotiation", "politics"], "A": ["ignorance"]}

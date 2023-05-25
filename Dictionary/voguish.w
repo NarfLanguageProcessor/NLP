@@ -1,1 +1,1 @@
-{"index": 360964, "D": "being in vogue;  fashionable; chic.", "S": ["elegant ", "exclusive ", "mod ", "modern ", "stylish ", "swank ", "trendy "], "A": ["old-fashioned ", "unfashionable ", "unstylish ", "dull ", "old "]}
+{"index": 360964, "D": "being in vogue;  fashionable; chic.", "S": ["elegant", "exclusive", "mod", "modern", "stylish", "swank", "trendy"], "A": ["old-fashioned", "unfashionable", "unstylish", "dull", "old"]}

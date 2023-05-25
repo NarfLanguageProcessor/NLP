@@ -1,1 +1,1 @@
-{"index": 279609, "D": "a timber of relatively slight width and thickness, as a stud or rafter in a house frame.", "S": ["girder ", "joist ", "piling ", "pillar ", "plank ", "pole ", "shaft ", "sill ", "timber "], "A": []}
+{"index": 279609, "D": "a timber of relatively slight width and thickness, as a stud or rafter in a house frame.", "S": ["girder", "joist", "piling", "pillar", "plank", "pole", "shaft", "sill", "timber"], "A": []}

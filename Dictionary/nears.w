@@ -1,1 +1,1 @@
-{"index": 197617, "D": "close; to a point or place not far away", "S": ["close range ", "earshot ", "eyeshot ", "holler ", "near ", "next door ", "not far ", "shouting distance ", "spitting distance "], "A": []}
+{"index": 197617, "D": "close; to a point or place not far away", "S": ["close range", "earshot", "eyeshot", "holler", "near", "next door", "not far", "shouting distance", "spitting distance"], "A": []}

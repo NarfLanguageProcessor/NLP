@@ -1,1 +1,1 @@
-{"index": 225099, "D": "the large, yellow, melonlike fruit of a tropical American shrub or small tree, Carica papaya, eaten raw or cooked.", "S": ["cantaloupe ", "gourd ", "watermelon "], "A": []}
+{"index": 225099, "D": "the large, yellow, melonlike fruit of a tropical American shrub or small tree, Carica papaya, eaten raw or cooked.", "S": ["cantaloupe", "gourd", "watermelon"], "A": []}

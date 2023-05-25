@@ -1,1 +1,1 @@
-{"index": 45776, "D": "a place where an army or other group of persons or an individual is lodged in a tent or tents or other temporary means of shelter.", "S": ["encampment ", "tent "], "A": []}
+{"index": 45776, "D": "a place where an army or other group of persons or an individual is lodged in a tent or tents or other temporary means of shelter.", "S": ["encampment", "tent"], "A": []}

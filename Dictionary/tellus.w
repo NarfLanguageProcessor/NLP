@@ -1,1 +1,1 @@
-{"index": 318404, "D": "an ancient Roman goddess of the earth, marriage, and fertility, identified with the Greek goddess Gaia.", "S": ["Gaea ", "Gaia ", "Ge ", "Great Mother ", "Magna Mater ", "earth mother ", "mother goddess ", "terra "], "A": []}
+{"index": 318404, "D": "an ancient Roman goddess of the earth, marriage, and fertility, identified with the Greek goddess Gaia.", "S": ["Gaea", "Gaia", "Ge", "Great Mother", "Magna Mater", "earth mother", "mother goddess", "terra"], "A": []}

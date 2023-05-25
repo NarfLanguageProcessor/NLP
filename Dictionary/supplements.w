@@ -1,1 +1,1 @@
-{"index": 312972, "D": "something added to complete a thing, supply a deficiency, or reinforce or extend a whole.", "S": ["fiber ", "food ", "mineral ", "vitamin "], "A": []}
+{"index": 312972, "D": "something added to complete a thing, supply a deficiency, or reinforce or extend a whole.", "S": ["fiber", "food", "mineral", "vitamin"], "A": []}

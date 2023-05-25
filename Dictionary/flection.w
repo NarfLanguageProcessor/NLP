@@ -1,1 +1,1 @@
-{"index": 114333, "D": "the act of bending.", "S": ["corner ", "edge ", "intersection ", "slant ", "twist "], "A": []}
+{"index": 114333, "D": "the act of bending.", "S": ["corner", "edge", "intersection", "slant", "twist"], "A": []}

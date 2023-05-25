@@ -1,1 +1,1 @@
-{"index": 129197, "D": "covered with grass. ", "S": ["carpeted ", "lush ", "verdant "], "A": []}
+{"index": 129197, "D": "covered with grass. ", "S": ["carpeted", "lush", "verdant"], "A": []}

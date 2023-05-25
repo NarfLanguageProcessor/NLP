@@ -1,1 +1,1 @@
-{"index": 139659, "D": "slowed, reduced, or held back", "S": ["deprived ", "handicapped ", "impaired ", "impoverished ", "poor "], "A": ["rich ", "strong "]}
+{"index": 139659, "D": "slowed, reduced, or held back", "S": ["deprived", "handicapped", "impaired", "impoverished", "poor"], "A": ["rich", "strong"]}

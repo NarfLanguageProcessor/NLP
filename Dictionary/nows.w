@@ -1,1 +1,1 @@
-{"index": 209221, "D": "at the present time or moment", "S": ["fashion ", "style "], "A": []}
+{"index": 209221, "D": "at the present time or moment", "S": ["fashion", "style"], "A": []}

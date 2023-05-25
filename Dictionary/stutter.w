@@ -1,1 +1,1 @@
-{"index": 307011, "D": "to speak in such a way that the rhythm is interrupted by repetitions, blocks or spasms, or prolongations of sounds or syllables, sometimes accompanied by contortions of the face and body.", "S": ["sputter ", "stammer "], "A": ["continue "]}
+{"index": 307011, "D": "to speak in such a way that the rhythm is interrupted by repetitions, blocks or spasms, or prolongations of sounds or syllables, sometimes accompanied by contortions of the face and body.", "S": ["sputter", "stammer"], "A": ["continue"]}

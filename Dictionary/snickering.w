@@ -1,1 +1,1 @@
-{"index": 295488, "D": "to laugh in a half-suppressed, indecorous or disrespectful manner.", "S": ["chortle ", "chuckle ", "giggle ", "guffaw ", "hee-haw ", "smirk ", "sneer ", "teehee ", "titter "], "A": []}
+{"index": 295488, "D": "to laugh in a half-suppressed, indecorous or disrespectful manner.", "S": ["chortle", "chuckle", "giggle", "guffaw", "hee-haw", "smirk", "sneer", "teehee", "titter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 297479, "D": "soaked; drenched", "S": ["drenched ", "dripping ", "drowned ", "saturated ", "soaked ", "soaking ", "soused "], "A": []}
+{"index": 297479, "D": "soaked; drenched", "S": ["drenched", "dripping", "drowned", "saturated", "soaked", "soaking", "soused"], "A": []}

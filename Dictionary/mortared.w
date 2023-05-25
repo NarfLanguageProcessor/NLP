@@ -1,1 +1,1 @@
-{"index": 193699, "D": "a receptacle of hard material, having a bowl-shaped cavity in which substances are reduced to powder with a pestle.", "S": ["seal "], "A": ["detach ", "disconnect ", "divide ", "loosen ", "open ", "part ", "release ", "separate ", "unfasten "]}
+{"index": 193699, "D": "a receptacle of hard material, having a bowl-shaped cavity in which substances are reduced to powder with a pestle.", "S": ["seal"], "A": ["detach", "disconnect", "divide", "loosen", "open", "part", "release", "separate", "unfasten"]}

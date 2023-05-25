@@ -1,1 +1,1 @@
-{"index": 95721, "D": "nervously irritable; impatient and anxious.", "S": ["excited ", "restless ", "skittish ", "tense ", "uneasy ", "uptight "], "A": ["calm ", "collected ", "composed ", "easy-going ", "laid-back "]}
+{"index": 95721, "D": "nervously irritable; impatient and anxious.", "S": ["excited", "restless", "skittish", "tense", "uneasy", "uptight"], "A": ["calm", "collected", "composed", "easy-going", "laid-back"]}

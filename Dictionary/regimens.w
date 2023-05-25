@@ -1,1 +1,1 @@
-{"index": 265632, "D": "a regulated course, as of diet, exercise, or manner of living, intended to preserve or restore health or to attain some result.", "S": ["menu ", "procedure ", "regime "], "A": []}
+{"index": 265632, "D": "a regulated course, as of diet, exercise, or manner of living, intended to preserve or restore health or to attain some result.", "S": ["menu", "procedure", "regime"], "A": []}

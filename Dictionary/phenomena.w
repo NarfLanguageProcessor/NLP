@@ -1,1 +1,1 @@
-{"index": 233401, "D": "a plural of phenomenon. ", "S": ["development ", "experience ", "phantasm ", "wonder "], "A": []}
+{"index": 233401, "D": "a plural of phenomenon. ", "S": ["development", "experience", "phantasm", "wonder"], "A": []}

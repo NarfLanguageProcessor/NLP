@@ -1,1 +1,1 @@
-{"index": 349105, "D": "unrealistic expectations", "S": ["impossible ", "impractical ", "improbable ", "quixotic ", "silly ", "unreal ", "unworkable "], "A": ["believable ", "possible ", "practical ", "sensible ", "tenable "]}
+{"index": 349105, "D": "unrealistic expectations", "S": ["impossible", "impractical", "improbable", "quixotic", "silly", "unreal", "unworkable"], "A": ["believable", "possible", "practical", "sensible", "tenable"]}

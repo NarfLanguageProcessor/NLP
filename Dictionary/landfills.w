@@ -1,1 +1,1 @@
-{"index": 167929, "D": "a low area of land  that is built up from deposits of solid refuse in layers covered by soil.", "S": ["depot ", "junkyard "], "A": []}
+{"index": 167929, "D": "a low area of land  that is built up from deposits of solid refuse in layers covered by soil.", "S": ["depot", "junkyard"], "A": []}

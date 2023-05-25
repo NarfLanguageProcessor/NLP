@@ -1,1 +1,0 @@
-{"index": 326838, "D": "the inhabitants or citizenry of a town. ", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "taxpayer ", "townswoman "], "A": ["alien ", "foreigner "]}

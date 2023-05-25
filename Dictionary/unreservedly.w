@@ -1,1 +1,1 @@
-{"index": 349692, "D": "not restricted; without reservation; full; entire; unqualified", "S": ["candidly ", "openly ", "voluntarily ", "willingly "], "A": ["bound ", "limited "]}
+{"index": 349692, "D": "not restricted; without reservation; full; entire; unqualified", "S": ["candidly", "openly", "voluntarily", "willingly"], "A": ["bound", "limited"]}

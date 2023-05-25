@@ -1,1 +1,1 @@
-{"index": 117164, "D": "short for foreign exchange", "S": ["convertibility "], "A": []}
+{"index": 117164, "D": "short for foreign exchange", "S": ["convertibility"], "A": []}

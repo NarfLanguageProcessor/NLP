@@ -1,1 +1,1 @@
-{"index": 274209, "D": "the act of covering with a roof. ", "S": ["beam ", "plaster ", "roof "], "A": ["floor ", "minimum "]}
+{"index": 274209, "D": "the act of covering with a roof. ", "S": ["beam", "plaster", "roof"], "A": ["floor", "minimum"]}

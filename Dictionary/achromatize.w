@@ -1,1 +1,1 @@
-{"index": 2350, "D": "to make achromatic;  deprive or free of color.", "S": ["lighten "], "A": ["blacken ", "darken ", "yellow "]}
+{"index": 2350, "D": "to make achromatic;  deprive or free of color.", "S": ["lighten"], "A": ["blacken", "darken", "yellow"]}

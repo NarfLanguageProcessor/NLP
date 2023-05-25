@@ -1,1 +1,1 @@
-{"index": 253205, "D": "a document describing the major features of a proposed literary work, project, business venture, etc., in enough detail so that prospective investors, participants, or buyers may evaluate it", "S": ["catalogue ", "syllabus "], "A": []}
+{"index": 253205, "D": "a document describing the major features of a proposed literary work, project, business venture, etc., in enough detail so that prospective investors, participants, or buyers may evaluate it", "S": ["catalogue", "syllabus"], "A": []}

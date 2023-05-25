@@ -1,1 +1,1 @@
-{"index": 309769, "D": "an underground electric railroad, usually in a large city.", "S": ["metro ", "underground "], "A": []}
+{"index": 309769, "D": "an underground electric railroad, usually in a large city.", "S": ["metro", "underground"], "A": []}

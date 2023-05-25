@@ -1,1 +1,1 @@
-{"index": 267801, "D": "an act or instance of relinquishing, abandoning, repudiating, or sacrificing something, as a right, title, person, or ambition", "S": ["disavowal ", "repudiation "], "A": ["OK ", "agreement ", "allowance ", "approval ", "claim ", "permission ", "sanction "]}
+{"index": 267801, "D": "an act or instance of relinquishing, abandoning, repudiating, or sacrificing something, as a right, title, person, or ambition", "S": ["disavowal", "repudiation"], "A": ["OK", "agreement", "allowance", "approval", "claim", "permission", "sanction"]}

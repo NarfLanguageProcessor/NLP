@@ -1,1 +1,1 @@
-{"index": 229663, "D": "an area of land almost completely surrounded by water except for an isthmus connecting it with the mainland.", "S": ["cape ", "headland ", "neck ", "point "], "A": []}
+{"index": 229663, "D": "an area of land almost completely surrounded by water except for an isthmus connecting it with the mainland.", "S": ["cape", "headland", "neck", "point"], "A": []}

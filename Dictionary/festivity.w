@@ -1,1 +1,1 @@
-{"index": 111700, "D": "a festive  celebration or occasion.", "S": ["bash ", "festival ", "hoopla "], "A": ["depression ", "gloom ", "misery ", "pain ", "sadness ", "seriousness ", "sorrow ", "unhappiness ", "work "]}
+{"index": 111700, "D": "a festive  celebration or occasion.", "S": ["bash", "festival", "hoopla"], "A": ["depression", "gloom", "misery", "pain", "sadness", "seriousness", "sorrow", "unhappiness", "work"]}

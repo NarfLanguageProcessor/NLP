@@ -1,1 +1,1 @@
-{"index": 310188, "D": "to overspread with or as with a liquid, color, etc.", "S": ["bathe ", "permeate ", "saturate ", "steep ", "tinge "], "A": ["dehydrate ", "dry ", "close "]}
+{"index": 310188, "D": "to overspread with or as with a liquid, color, etc.", "S": ["bathe", "permeate", "saturate", "steep", "tinge"], "A": ["dehydrate", "dry", "close"]}

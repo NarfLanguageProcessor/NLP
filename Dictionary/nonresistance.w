@@ -1,1 +1,1 @@
-{"index": 206779, "D": "the policy or practice of not resisting violence or established authority, even when tyrannical, by force.", "S": ["shyness "], "A": ["boldness ", "confidence "]}
+{"index": 206779, "D": "the policy or practice of not resisting violence or established authority, even when tyrannical, by force.", "S": ["shyness"], "A": ["boldness", "confidence"]}

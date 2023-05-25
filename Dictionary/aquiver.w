@@ -1,1 +1,1 @@
-{"index": 18282, "D": "in a state of trepidation or vibrant agitation; trembling; quivering  (usually used predicatively)", "S": ["excited ", "quaky ", "quivering ", "quivery ", "shaking ", "shaky ", "shivery ", "shuddering ", "trembling ", "tremulant "], "A": []}
+{"index": 18282, "D": "in a state of trepidation or vibrant agitation; trembling; quivering  (usually used predicatively)", "S": ["excited", "quaky", "quivering", "quivery", "shaking", "shaky", "shivery", "shuddering", "trembling", "tremulant"], "A": []}

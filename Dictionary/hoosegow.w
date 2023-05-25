@@ -1,1 +1,1 @@
-{"index": 143636, "D": "a jail.", "S": ["penitentiary "], "A": []}
+{"index": 143636, "D": "a jail.", "S": ["penitentiary"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 278848, "D": "the seventh day of the week, following Friday.", "S": ["day off ", "rest day "], "A": []}

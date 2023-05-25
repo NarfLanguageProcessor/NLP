@@ -1,1 +1,1 @@
-{"index": 98212, "D": [], "S": ["box ", "cavity ", "door ", "entrance ", "gate ", "rim "], "A": []}
+{"index": 98212, "D": [], "S": ["box", "cavity", "door", "entrance", "gate", "rim"], "A": []}

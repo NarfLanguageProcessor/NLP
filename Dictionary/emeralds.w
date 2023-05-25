@@ -1,1 +1,1 @@
-{"index": 98443, "D": "a rare variety of beryl that is colored green by chromium and valued as a gem.", "S": ["beryl ", "forest ", "jade ", "kelly ", "lime ", "moss ", "olive ", "sage "], "A": []}
+{"index": 98443, "D": "a rare variety of beryl that is colored green by chromium and valued as a gem.", "S": ["beryl", "forest", "jade", "kelly", "lime", "moss", "olive", "sage"], "A": []}

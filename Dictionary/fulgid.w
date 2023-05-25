@@ -1,1 +1,1 @@
-{"index": 119894, "D": [], "S": ["blazing ", "brilliant ", "dazzling ", "flashing ", "glistening ", "glittering ", "golden ", "intense ", "luminous ", "radiant ", "shimmering ", "shiny ", "silvery ", "sparkling ", "sunny ", "vivid "], "A": ["cloudy ", "dark ", "dim ", "dull ", "gloomy "]}
+{"index": 119894, "D": [], "S": ["blazing", "brilliant", "dazzling", "flashing", "glistening", "glittering", "golden", "intense", "luminous", "radiant", "shimmering", "shiny", "silvery", "sparkling", "sunny", "vivid"], "A": ["cloudy", "dark", "dim", "dull", "gloomy"]}

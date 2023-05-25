@@ -1,1 +1,1 @@
-{"index": 326416, "D": "a stupid or despicable person", "S": ["slingshot "], "A": []}
+{"index": 326416, "D": "a stupid or despicable person", "S": ["slingshot"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 40698, "D": "any of several different types of dental bridges. ", "S": ["dentition ", "denture ", "fangs ", "ivories "], "A": []}
+{"index": 40698, "D": "any of several different types of dental bridges. ", "S": ["dentition", "denture", "fangs", "ivories"], "A": []}

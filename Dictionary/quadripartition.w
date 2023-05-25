@@ -1,1 +1,1 @@
-{"index": 257652, "D": [], "S": ["quadrivium ", "quadrumvirate ", "quadruple ", "quadruplet ", "quadruplets ", "quartet ", "quartette ", "quaternary ", "quaternion ", "quaternity ", "tetrad ", "tetralogy "], "A": []}
+{"index": 257652, "D": [], "S": ["quadrivium", "quadrumvirate", "quadruple", "quadruplet", "quadruplets", "quartet", "quartette", "quaternary", "quaternion", "quaternity", "tetrad", "tetralogy"], "A": []}

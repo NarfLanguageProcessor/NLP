@@ -1,1 +1,1 @@
-{"index": 6452, "D": "to have the same views, emotions, etc.; harmonize in opinion or feeling (often followed by with)", "S": ["congruent ", "in concert ", "in unison "], "A": []}
+{"index": 6452, "D": "to have the same views, emotions, etc.; harmonize in opinion or feeling (often followed by with)", "S": ["congruent", "in concert", "in unison"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 250546, "D": "being the first or earliest of the kind or in existence, especially in an early age of the world", "S": ["archaic ", "basic ", "primeval ", "primordial ", "pristine ", "undeveloped "], "A": ["modern ", "new ", "auxiliary ", "minor ", "secondary ", "unimportant "]}
+{"index": 250546, "D": "being the first or earliest of the kind or in existence, especially in an early age of the world", "S": ["archaic", "basic", "primeval", "primordial", "pristine", "undeveloped"], "A": ["modern", "new", "auxiliary", "minor", "secondary", "unimportant"]}

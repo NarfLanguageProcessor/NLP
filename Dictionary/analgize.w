@@ -1,1 +1,1 @@
-{"index": 11742, "D": [], "S": ["dope ", "medicate ", "poison ", "sedate "], "A": ["enliven ", "ignore ", "increase ", "neglect "]}
+{"index": 11742, "D": [], "S": ["dope", "medicate", "poison", "sedate"], "A": ["enliven", "ignore", "increase", "neglect"]}

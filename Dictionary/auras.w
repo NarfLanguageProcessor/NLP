@@ -1,1 +1,1 @@
-{"index": 23511, "D": "a distinctive and pervasive quality or character; air; atmosphere", "S": ["ambience ", "aspect ", "atmosphere ", "feeling ", "mood ", "quality ", "scent ", "semblance ", "tone "], "A": []}
+{"index": 23511, "D": "a distinctive and pervasive quality or character; air; atmosphere", "S": ["ambience", "aspect", "atmosphere", "feeling", "mood", "quality", "scent", "semblance", "tone"], "A": []}

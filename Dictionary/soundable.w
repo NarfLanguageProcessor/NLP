@@ -1,1 +1,0 @@
-{"index": 297847, "D": "the sensation produced by stimulation of the organs of hearing by vibrations transmitted through the air or other medium.", "S": [], "A": []}

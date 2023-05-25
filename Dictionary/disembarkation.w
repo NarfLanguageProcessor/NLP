@@ -1,1 +1,1 @@
-{"index": 87861, "D": "to go ashore from a ship.", "S": ["advent ", "appearance ", "influx ", "landing ", "meeting ", "return "], "A": ["departure "]}
+{"index": 87861, "D": "to go ashore from a ship.", "S": ["advent", "appearance", "influx", "landing", "meeting", "return"], "A": ["departure"]}

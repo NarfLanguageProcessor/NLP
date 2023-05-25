@@ -1,1 +1,1 @@
-{"index": 79130, "D": "to overcome in a contest, election, battle, etc.; prevail over; vanquish", "S": ["conquistador "], "A": ["loser "]}
+{"index": 79130, "D": "to overcome in a contest, election, battle, etc.; prevail over; vanquish", "S": ["conquistador"], "A": ["loser"]}

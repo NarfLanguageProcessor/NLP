@@ -1,1 +1,1 @@
-{"index": 210737, "D": "the act, state, or condition of being or becoming a tenant or of living in or taking up quarters or space in or on something", "S": ["ownership "], "A": []}
+{"index": 210737, "D": "the act, state, or condition of being or becoming a tenant or of living in or taking up quarters or space in or on something", "S": ["ownership"], "A": []}

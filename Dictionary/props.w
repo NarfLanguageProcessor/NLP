@@ -1,1 +1,1 @@
-{"index": 252865, "D": "proper or due respect or recognition; credit", "S": ["backdrop ", "decor ", "furnishings ", "furniture ", "landscape ", "setting ", "spectacle ", "terrain "], "A": []}
+{"index": 252865, "D": "proper or due respect or recognition; credit", "S": ["backdrop", "decor", "furnishings", "furniture", "landscape", "setting", "spectacle", "terrain"], "A": []}

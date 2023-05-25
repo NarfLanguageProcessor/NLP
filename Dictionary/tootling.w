@@ -1,1 +1,1 @@
-{"index": 325797, "D": "to toot  gently or repeatedly on a flute or the like.", "S": ["beep ", "blare "], "A": []}
+{"index": 325797, "D": "to toot  gently or repeatedly on a flute or the like.", "S": ["beep", "blare"], "A": []}

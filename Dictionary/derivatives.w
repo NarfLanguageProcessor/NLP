@@ -1,1 +1,1 @@
-{"index": 82109, "D": "derived. ", "S": ["by-product "], "A": ["invention ", "original ", "root ", "source "]}
+{"index": 82109, "D": "derived. ", "S": ["by-product"], "A": ["invention", "original", "root", "source"]}

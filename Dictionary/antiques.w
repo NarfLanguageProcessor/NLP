@@ -1,0 +1,1 @@
+{"index": 16015, "D": "of or belonging to the past; not modern.", "S": ["antiquity", "artifact", "heirloom", "relic"], "A": []}

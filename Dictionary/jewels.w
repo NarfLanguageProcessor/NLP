@@ -1,1 +1,1 @@
-{"index": 161106, "D": "a cut and polished precious stone; gem.", "S": ["bauble ", "bead ", "gem ", "gemstone ", "ornament ", "stone ", "trinket "], "A": []}
+{"index": 161106, "D": "a cut and polished precious stone; gem.", "S": ["bauble", "bead", "gem", "gemstone", "ornament", "stone", "trinket"], "A": []}

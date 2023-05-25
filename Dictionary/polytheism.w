@@ -1,1 +1,1 @@
-{"index": 242524, "D": "the doctrine of or belief in more than one god or in many gods.", "S": ["religion ", "theism ", "theology "], "A": []}
+{"index": 242524, "D": "the doctrine of or belief in more than one god or in many gods.", "S": ["religion", "theism", "theology"], "A": []}

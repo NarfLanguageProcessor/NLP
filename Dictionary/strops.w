@@ -1,1 +1,1 @@
-{"index": 306591, "D": "any of several devices for sharpening razors, especially a strip of leather or other flexible material.", "S": ["skin "], "A": []}
+{"index": 306591, "D": "any of several devices for sharpening razors, especially a strip of leather or other flexible material.", "S": ["skin"], "A": []}

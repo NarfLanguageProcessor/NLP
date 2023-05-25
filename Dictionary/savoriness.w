@@ -1,1 +1,1 @@
-{"index": 279117, "D": "having a salty, spicy, or piquant flavor; not sweet", "S": ["aftertaste ", "aroma "], "A": ["blandness "]}
+{"index": 279117, "D": "having a salty, spicy, or piquant flavor; not sweet", "S": ["aftertaste", "aroma"], "A": ["blandness"]}

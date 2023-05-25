@@ -1,1 +1,1 @@
-{"index": 229617, "D": "the act or power of penetrating. ", "S": ["infiltration ", "seepage "], "A": ["departure ", "egress ", "evacuation "]}
+{"index": 229617, "D": "the act or power of penetrating. ", "S": ["infiltration", "seepage"], "A": ["departure", "egress", "evacuation"]}

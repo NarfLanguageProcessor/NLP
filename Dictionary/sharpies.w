@@ -1,1 +1,1 @@
-{"index": 287559, "D": "sharper. ", "S": ["con man ", "crook ", "hustler ", "swindler "], "A": []}
+{"index": 287559, "D": "sharper. ", "S": ["con man", "crook", "hustler", "swindler"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 367057, "D": "wonderful; marvelous. ", "S": ["amazing ", "astonishing ", "astounding ", "extraordinary ", "fascinating ", "marvelous ", "miraculous ", "striking ", "wonderful "], "A": ["boring ", "expected ", "normal ", "ordinary ", "usual "]}
+{"index": 367057, "D": "wonderful; marvelous. ", "S": ["amazing", "astonishing", "astounding", "extraordinary", "fascinating", "marvelous", "miraculous", "striking", "wonderful"], "A": ["boring", "expected", "normal", "ordinary", "usual"]}

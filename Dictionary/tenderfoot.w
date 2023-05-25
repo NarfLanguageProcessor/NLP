@@ -1,1 +1,1 @@
-{"index": 318740, "D": "a raw, inexperienced person; novice.", "S": ["amateur ", "beginner ", "colt ", "greenhorn ", "neophyte ", "novice ", "novitiate ", "rookie ", "tyro "], "A": ["expert ", "professional "]}
+{"index": 318740, "D": "a raw, inexperienced person; novice.", "S": ["amateur", "beginner", "colt", "greenhorn", "neophyte", "novice", "novitiate", "rookie", "tyro"], "A": ["expert", "professional"]}

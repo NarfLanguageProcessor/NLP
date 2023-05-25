@@ -1,1 +1,1 @@
-{"index": 212101, "D": "margarine. ", "S": ["margarine ", "oil ", "shortening "], "A": []}
+{"index": 212101, "D": "margarine. ", "S": ["margarine", "oil", "shortening"], "A": []}

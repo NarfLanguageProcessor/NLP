@@ -1,1 +1,1 @@
-{"index": 214487, "D": "of or relating to orgasm,  the physical and emotional sensation experienced at the peak of sexual excitation", "S": ["ecstatic ", "euphoric "], "A": []}
+{"index": 214487, "D": "of or relating to orgasm,  the physical and emotional sensation experienced at the peak of sexual excitation", "S": ["ecstatic", "euphoric"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 91276, "D": [], "S": ["break ", "bridle ", "control ", "cultivate ", "master ", "tame "], "A": ["let go "]}
+{"index": 91276, "D": [], "S": ["break", "bridle", "control", "cultivate", "master", "tame"], "A": ["let go"]}

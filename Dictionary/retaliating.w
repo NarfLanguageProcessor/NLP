@@ -1,1 +1,1 @@
-{"index": 270285, "D": "to return like for like, especially evil for evil", "S": ["reciprocate "], "A": ["depart ", "leave ", "lose ", "take "]}
+{"index": 270285, "D": "to return like for like, especially evil for evil", "S": ["reciprocate"], "A": ["depart", "leave", "lose", "take"]}

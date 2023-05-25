@@ -1,1 +1,1 @@
-{"index": 137005, "D": "by this, or the present, declaration, action, document, etc.; by means of this; as a result of this", "S": ["herewith "], "A": []}
+{"index": 137005, "D": "by this, or the present, declaration, action, document, etc.; by means of this; as a result of this", "S": ["herewith"], "A": []}

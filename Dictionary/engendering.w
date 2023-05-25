@@ -1,1 +1,1 @@
-{"index": 100326, "D": "to produce, cause, or give rise to", "S": ["origin ", "provenance "], "A": ["completion ", "conclusion ", "death ", "end ", "ending ", "finish ", "stop "]}
+{"index": 100326, "D": "to produce, cause, or give rise to", "S": ["origin", "provenance"], "A": ["completion", "conclusion", "death", "end", "ending", "finish", "stop"]}

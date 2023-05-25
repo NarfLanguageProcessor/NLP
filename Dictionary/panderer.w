@@ -1,1 +1,1 @@
-{"index": 224479, "D": "a person who caters to or profits from the weaknesses or vices of others.", "S": ["hustler "], "A": []}
+{"index": 224479, "D": "a person who caters to or profits from the weaknesses or vices of others.", "S": ["hustler"], "A": []}

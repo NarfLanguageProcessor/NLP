@@ -1,1 +1,1 @@
-{"index": 84960, "D": [], "S": ["absolute ", "arbitrary ", "arrogant ", "autocratic ", "dogmatic ", "domineering ", "haughty ", "imperious ", "oppressive ", "overbearing ", "totalitarian "], "A": ["democratic ", "humble ", "meek ", "obedient ", "servile ", "submissive ", "yielding "]}
+{"index": 84960, "D": [], "S": ["absolute", "arbitrary", "arrogant", "autocratic", "dogmatic", "domineering", "haughty", "imperious", "oppressive", "overbearing", "totalitarian"], "A": ["democratic", "humble", "meek", "obedient", "servile", "submissive", "yielding"]}

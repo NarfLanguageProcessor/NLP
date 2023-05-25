@@ -1,1 +1,0 @@
-{"index": 230335, "D": "a baby carriage; pram.", "S": ["baby buggy ", "carriage ", "pram ", "pushchair ", "stroller "], "A": []}

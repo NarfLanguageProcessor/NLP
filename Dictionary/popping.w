@@ -1,1 +1,1 @@
-{"index": 243285, "D": "to make a short, quick, explosive sound", "S": ["bustling ", "full ", "hectic ", "lively ", "restless "], "A": ["idle ", "inactive ", "lazy ", "quiet ", "unemployed ", "unengaged "]}
+{"index": 243285, "D": "to make a short, quick, explosive sound", "S": ["bustling", "full", "hectic", "lively", "restless"], "A": ["idle", "inactive", "lazy", "quiet", "unemployed", "unengaged"]}

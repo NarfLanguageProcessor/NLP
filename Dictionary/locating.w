@@ -1,1 +1,1 @@
-{"index": 174309, "D": "to identify or discover the place or location  of", "S": ["discovering ", "establishing ", "finding ", "placement ", "placing ", "spotting ", "unearthing "], "A": []}
+{"index": 174309, "D": "to identify or discover the place or location  of", "S": ["discovering", "establishing", "finding", "placement", "placing", "spotting", "unearthing"], "A": []}

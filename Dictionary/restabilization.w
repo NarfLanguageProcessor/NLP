@@ -1,1 +1,0 @@
-{"index": 269837, "D": "the act or process of stabilizing  or the state of being stabilized. ", "S": [], "A": []}

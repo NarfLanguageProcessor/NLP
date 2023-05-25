@@ -1,1 +1,0 @@
-{"index": 250844, "D": "belonging to some particular person", "S": ["confinement ", "desolation ", "remoteness ", "segregation ", "solitude "], "A": []}

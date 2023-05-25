@@ -1,1 +1,1 @@
-{"index": 367418, "D": "a person's vocabulary.", "S": ["dictionary ", "glossary ", "jargon ", "terminology "], "A": []}
+{"index": 367418, "D": "a person's vocabulary.", "S": ["dictionary", "glossary", "jargon", "terminology"], "A": []}

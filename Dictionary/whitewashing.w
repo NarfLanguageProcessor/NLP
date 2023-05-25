@@ -1,1 +1,1 @@
-{"index": 365196, "D": "the act or process of whitening with whitewash", "S": ["condoning ", "diminishing ", "justifying ", "lessening ", "mitigating ", "moderating ", "qualifying ", "reducing ", "softening ", "varnishing "], "A": []}
+{"index": 365196, "D": "the act or process of whitening with whitewash", "S": ["condoning", "diminishing", "justifying", "lessening", "mitigating", "moderating", "qualifying", "reducing", "softening", "varnishing"], "A": []}

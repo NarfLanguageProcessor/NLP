@@ -1,1 +1,1 @@
-{"index": 122403, "D": "a chandelier  furnished with gaslights.", "S": ["candelabrum ", "corona ", "crown ", "luster "], "A": []}
+{"index": 122403, "D": "a chandelier  furnished with gaslights.", "S": ["candelabrum", "corona", "crown", "luster"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 83712, "D": "devoted to divine worship or service; pious; religious", "S": ["devotion ", "godliness ", "holiness ", "pietism ", "piety ", "piousness ", "religiosity ", "reverence ", "spirituality "], "A": []}
+{"index": 83712, "D": "devoted to divine worship or service; pious; religious", "S": ["devotion", "godliness", "holiness", "pietism", "piety", "piousness", "religiosity", "reverence", "spirituality"], "A": []}

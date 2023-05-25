@@ -1,1 +1,1 @@
-{"index": 215862, "D": "of, relating to, or devoted to another world, as the world of imagination or the world to come.", "S": ["ethereal ", "heavenly ", "magical ", "mystical ", "supernatural ", "uncanny "], "A": ["earthly ", "natural "]}
+{"index": 215862, "D": "of, relating to, or devoted to another world, as the world of imagination or the world to come.", "S": ["ethereal", "heavenly", "magical", "mystical", "supernatural", "uncanny"], "A": ["earthly", "natural"]}

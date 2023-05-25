@@ -1,1 +1,1 @@
-{"index": 200803, "D": "soundproof. ", "S": ["insulated ", "nonresonant ", "silent "], "A": []}
+{"index": 200803, "D": "soundproof. ", "S": ["insulated", "nonresonant", "silent"], "A": []}

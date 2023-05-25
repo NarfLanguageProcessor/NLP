@@ -1,1 +1,1 @@
-{"index": 120981, "D": "of, relating to, or being a person who is sexually or romantically attracted only to people of their own sex or gender", "S": ["alert ", "forward ", "glad ", "jolly ", "keen ", "sparkling ", "wild "], "A": ["dull ", "sad ", "unhappy "]}
+{"index": 120981, "D": "of, relating to, or being a person who is sexually or romantically attracted only to people of their own sex or gender", "S": ["alert", "forward", "glad", "jolly", "keen", "sparkling", "wild"], "A": ["dull", "sad", "unhappy"]}

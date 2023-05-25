@@ -1,1 +1,1 @@
-{"index": 68510, "D": "a person or thing that copies; copyist. ", "S": ["Xerox ", "copying machine ", "duplicator ", "photocopier ", "photocopy machine "], "A": []}
+{"index": 68510, "D": "a person or thing that copies; copyist. ", "S": ["Xerox", "copying machine", "duplicator", "photocopier", "photocopy machine"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 112902, "D": "a fine-tooth comb.", "S": ["examine ", "forage ", "inspect ", "investigate ", "rake ", "ransack ", "rummage ", "scour ", "scrutinize ", "sift "], "A": ["ignore "]}
+{"index": 112902, "D": "a fine-tooth comb.", "S": ["examine", "forage", "inspect", "investigate", "rake", "ransack", "rummage", "scour", "scrutinize", "sift"], "A": ["ignore"]}

@@ -1,1 +1,1 @@
-{"index": 185708, "D": "plural of mouse. ", "S": ["ant ", "flea ", "insect ", "mosquito ", "rodent "], "A": []}
+{"index": 185708, "D": "plural of mouse. ", "S": ["ant", "flea", "insect", "mosquito", "rodent"], "A": []}

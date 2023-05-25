@@ -1,1 +1,1 @@
-{"index": 67380, "D": "tending to argument or strife; quarrelsome", "S": ["antagonistic ", "combative ", "testy "], "A": ["agreeable "]}
+{"index": 67380, "D": "tending to argument or strife; quarrelsome", "S": ["antagonistic", "combative", "testy"], "A": ["agreeable"]}

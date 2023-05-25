@@ -1,1 +1,1 @@
-{"index": 56528, "D": "to laugh softly or amusedly, usually with satisfaction", "S": ["chortle ", "laugh ", "smile ", "snicker "], "A": []}
+{"index": 56528, "D": "to laugh softly or amusedly, usually with satisfaction", "S": ["chortle", "laugh", "smile", "snicker"], "A": []}

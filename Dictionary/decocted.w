@@ -1,1 +1,1 @@
-{"index": 78522, "D": "to extract the flavor or essence of by boiling.", "S": ["smashed "], "A": []}
+{"index": 78522, "D": "to extract the flavor or essence of by boiling.", "S": ["smashed"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 66981, "D": "relating to or being a conspiracy,  a secretive plan that is unlawful, harmful, or evil", "S": ["clandestine ", "covert ", "surreptitious "], "A": ["aboveboard ", "honest ", "open "]}
+{"index": 66981, "D": "relating to or being a conspiracy,  a secretive plan that is unlawful, harmful, or evil", "S": ["clandestine", "covert", "surreptitious"], "A": ["aboveboard", "honest", "open"]}

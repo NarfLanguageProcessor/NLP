@@ -1,1 +1,1 @@
-{"index": 302663, "D": "to bring to or make of an established standard  size, weight, quality, strength, or the like", "S": ["regulated "], "A": []}
+{"index": 302663, "D": "to bring to or make of an established standard  size, weight, quality, strength, or the like", "S": ["regulated"], "A": []}

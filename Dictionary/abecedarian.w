@@ -1,1 +1,1 @@
-{"index": 306, "D": "a person who is learning the letters of the alphabet.", "S": ["amateur ", "dabbler ", "fledgling ", "learner ", "neophyte ", "novice ", "tenderfoot "], "A": ["expert ", "professional "]}
+{"index": 306, "D": "a person who is learning the letters of the alphabet.", "S": ["amateur", "dabbler", "fledgling", "learner", "neophyte", "novice", "tenderfoot"], "A": ["expert", "professional"]}

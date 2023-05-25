@@ -1,0 +1,1 @@
+{"index": 10066, "D": "dimness of sight, without apparent organic defect.", "S": [], "A": []}

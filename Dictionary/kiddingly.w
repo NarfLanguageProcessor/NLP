@@ -1,1 +1,1 @@
-{"index": 164463, "D": "a child or young person.", "S": ["amusing ", "comic ", "flippant ", "humorous ", "ironic ", "irreverent ", "jocular ", "joking ", "playful ", "sarcastic ", "satirical ", "whimsical "], "A": ["respectful ", "reverent ", "serious "]}
+{"index": 164463, "D": "a child or young person.", "S": ["amusing", "comic", "flippant", "humorous", "ironic", "irreverent", "jocular", "joking", "playful", "sarcastic", "satirical", "whimsical"], "A": ["respectful", "reverent", "serious"]}

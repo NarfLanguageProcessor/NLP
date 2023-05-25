@@ -1,1 +1,1 @@
-{"index": 130979, "D": "a loud, unrestrained burst of laughter.", "S": ["cackle ", "chuckle ", "guffaw ", "laugh ", "snicker "], "A": []}
+{"index": 130979, "D": "a loud, unrestrained burst of laughter.", "S": ["cackle", "chuckle", "guffaw", "laugh", "snicker"], "A": []}

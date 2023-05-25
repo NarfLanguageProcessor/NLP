@@ -1,1 +1,1 @@
-{"index": 215260, "D": "to swing or move to and fro, as a pendulum does.", "S": ["shifting ", "staggering ", "swaying ", "tottering ", "vibrating "], "A": ["constant ", "resolute ", "steady ", "unchanging "]}
+{"index": 215260, "D": "to swing or move to and fro, as a pendulum does.", "S": ["shifting", "staggering", "swaying", "tottering", "vibrating"], "A": ["constant", "resolute", "steady", "unchanging"]}

@@ -1,1 +1,1 @@
-{"index": 191741, "D": "a hereditary sovereign, as a king, queen, or emperor.", "S": ["emperor ", "king ", "queen ", "sovereign "], "A": []}
+{"index": 191741, "D": "a hereditary sovereign, as a king, queen, or emperor.", "S": ["emperor", "king", "queen", "sovereign"], "A": []}

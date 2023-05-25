@@ -1,1 +1,1 @@
-{"index": 256889, "D": "the seclusion of women from the sight of men or strangers, practiced by some Muslims and Hindus.", "S": ["concubines ", "seraglio ", "serail "], "A": []}
+{"index": 256889, "D": "the seclusion of women from the sight of men or strangers, practiced by some Muslims and Hindus.", "S": ["concubines", "seraglio", "serail"], "A": []}

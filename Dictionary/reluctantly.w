@@ -1,1 +1,1 @@
-{"index": 267060, "D": "without really wanting to; unwillingly", "S": ["carefully ", "cautiously ", "hesitantly ", "unwillingly ", "warily "], "A": []}
+{"index": 267060, "D": "without really wanting to; unwillingly", "S": ["carefully", "cautiously", "hesitantly", "unwillingly", "warily"], "A": []}

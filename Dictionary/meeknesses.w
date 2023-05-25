@@ -1,1 +1,1 @@
-{"index": 182291, "D": "the quality of being patient or quiet in nature", "S": ["docility ", "humility ", "mildness ", "modesty ", "timidity ", "timidness "], "A": ["arrogance ", "boldness ", "pride "]}
+{"index": 182291, "D": "the quality of being patient or quiet in nature", "S": ["docility", "humility", "mildness", "modesty", "timidity", "timidness"], "A": ["arrogance", "boldness", "pride"]}

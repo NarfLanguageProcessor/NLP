@@ -1,1 +1,1 @@
-{"index": 222978, "D": "pagan  spirit or attitude in religious or moral questions.", "S": ["agnostic ", "atheist "], "A": ["believer "]}
+{"index": 222978, "D": "pagan  spirit or attitude in religious or moral questions.", "S": ["agnostic", "atheist"], "A": ["believer"]}

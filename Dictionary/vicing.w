@@ -1,1 +1,1 @@
-{"index": 359407, "D": "an immoral or evil habit or practice", "S": ["debase ", "pervert "], "A": ["approve ", "cherish ", "clean ", "commend ", "exalt ", "help ", "praise ", "protect ", "purify "]}
+{"index": 359407, "D": "an immoral or evil habit or practice", "S": ["debase", "pervert"], "A": ["approve", "cherish", "clean", "commend", "exalt", "help", "praise", "protect", "purify"]}

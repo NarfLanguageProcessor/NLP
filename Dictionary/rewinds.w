@@ -1,1 +1,1 @@
-{"index": 271638, "D": "to wind  again.", "S": ["back up ", "reverse ", "undo "], "A": ["fast forward "]}
+{"index": 271638, "D": "to wind  again.", "S": ["back up", "reverse", "undo"], "A": ["fast forward"]}

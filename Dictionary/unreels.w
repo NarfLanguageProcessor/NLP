@@ -1,1 +1,1 @@
-{"index": 349283, "D": "to unwind from or as if from a reel", "S": ["loosen ", "unfurl ", "unravel "], "A": ["twist "]}
+{"index": 349283, "D": "to unwind from or as if from a reel", "S": ["loosen", "unfurl", "unravel"], "A": ["twist"]}

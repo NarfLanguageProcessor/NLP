@@ -1,1 +1,1 @@
-{"index": 221702, "D": "to cause (something) to turn  onto its side, face, or back; upset", "S": ["reversed ", "upturned "], "A": ["clear ", "methodical ", "ordered ", "organized ", "systematic "]}
+{"index": 221702, "D": "to cause (something) to turn  onto its side, face, or back; upset", "S": ["reversed", "upturned"], "A": ["clear", "methodical", "ordered", "organized", "systematic"]}

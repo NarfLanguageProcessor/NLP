@@ -1,1 +1,1 @@
-{"index": 168508, "D": "generous bestowal of gifts.", "S": ["aid ", "alms ", "benefaction ", "charity ", "donation ", "endowment ", "gift ", "giving ", "philanthropy "], "A": []}
+{"index": 168508, "D": "generous bestowal of gifts.", "S": ["aid", "alms", "benefaction", "charity", "donation", "endowment", "gift", "giving", "philanthropy"], "A": []}

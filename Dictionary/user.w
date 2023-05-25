@@ -1,1 +1,1 @@
-{"index": 355973, "D": "a person or thing that uses. ", "S": ["buyer ", "customer ", "purchaser ", "shopper "], "A": ["seller "]}
+{"index": 355973, "D": "a person or thing that uses. ", "S": ["buyer", "customer", "purchaser", "shopper"], "A": ["seller"]}

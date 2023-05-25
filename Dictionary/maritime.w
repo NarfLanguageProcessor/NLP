@@ -1,1 +1,1 @@
-{"index": 180135, "D": "associated with the sea or waterways to the sea in relation to navigation, shipping, etc.", "S": ["aquatic ", "deep-sea ", "marine ", "naval ", "oceangoing ", "seafaring ", "seagoing "], "A": []}
+{"index": 180135, "D": "associated with the sea or waterways to the sea in relation to navigation, shipping, etc.", "S": ["aquatic", "deep-sea", "marine", "naval", "oceangoing", "seafaring", "seagoing"], "A": []}

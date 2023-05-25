@@ -1,1 +1,1 @@
-{"index": 90014, "D": "to sever the union of; separate; disjoin.", "S": ["confused ", "incoherent ", "jumbled ", "rambling "], "A": ["coherent ", "connected ", "contiguous ", "jointed ", "ordered ", "united "]}
+{"index": 90014, "D": "to sever the union of; separate; disjoin.", "S": ["confused", "incoherent", "jumbled", "rambling"], "A": ["coherent", "connected", "contiguous", "jointed", "ordered", "united"]}

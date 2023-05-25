@@ -1,1 +1,1 @@
-{"index": 156464, "D": "not easily controlled or directed; not docile or manageable; stubborn; obstinate", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}
+{"index": 156464, "D": "not easily controlled or directed; not docile or manageable; stubborn; obstinate", "S": ["mulishly", "obdurately"], "A": ["graciously", "obediently"]}

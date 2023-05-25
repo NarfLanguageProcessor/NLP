@@ -1,1 +1,1 @@
-{"index": 41055, "D": "the act of transmitting speech, music, visual images, etc., as by radio or television.", "S": ["radio ", "television ", "transmission "], "A": []}
+{"index": 41055, "D": "the act of transmitting speech, music, visual images, etc., as by radio or television.", "S": ["radio", "television", "transmission"], "A": []}

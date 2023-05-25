@@ -1,1 +1,1 @@
-{"index": 305284, "D": "any underling, assistant, or accomplice.", "S": ["fall guy ", "lackey ", "pawn ", "puppet "], "A": []}
+{"index": 305284, "D": "any underling, assistant, or accomplice.", "S": ["fall guy", "lackey", "pawn", "puppet"], "A": []}

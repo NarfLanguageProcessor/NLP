@@ -1,1 +1,1 @@
-{"index": 177987, "D": "U.S. baseball player.", "S": ["can "], "A": []}
+{"index": 177987, "D": "U.S. baseball player.", "S": ["can"], "A": []}

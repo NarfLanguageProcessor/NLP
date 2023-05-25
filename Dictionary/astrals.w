@@ -1,1 +1,1 @@
-{"index": 22188, "D": [], "S": ["astral ", "energy body ", "linga sharira "], "A": []}
+{"index": 22188, "D": [], "S": ["astral", "energy body", "linga sharira"], "A": []}

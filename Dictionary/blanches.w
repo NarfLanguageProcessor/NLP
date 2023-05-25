@@ -1,1 +1,1 @@
-{"index": 35679, "D": "to whiten by removing color; bleach", "S": ["flinch ", "recoil ", "wince "], "A": ["face ", "meet "]}
+{"index": 35679, "D": "to whiten by removing color; bleach", "S": ["flinch", "recoil", "wince"], "A": ["face", "meet"]}

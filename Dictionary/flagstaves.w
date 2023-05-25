@@ -1,1 +1,1 @@
-{"index": 113791, "D": "flagpole. ", "S": ["beam ", "flagpole ", "leg ", "mast ", "rod ", "stick "], "A": []}
+{"index": 113791, "D": "flagpole. ", "S": ["beam", "flagpole", "leg", "mast", "rod", "stick"], "A": []}

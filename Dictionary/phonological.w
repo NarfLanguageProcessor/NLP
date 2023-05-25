@@ -1,1 +1,1 @@
-{"index": 234744, "D": "of or relating to phonology, the study of the distribution and patterning of speech sounds in languages generally", "S": ["linguistic ", "semantic "], "A": ["solecistic ", "ungrammatical "]}
+{"index": 234744, "D": "of or relating to phonology, the study of the distribution and patterning of speech sounds in languages generally", "S": ["linguistic", "semantic"], "A": ["solecistic", "ungrammatical"]}

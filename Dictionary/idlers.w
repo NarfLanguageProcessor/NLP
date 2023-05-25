@@ -1,1 +1,1 @@
-{"index": 146595, "D": "a person who passes time in a lazy or unproductive way.", "S": ["drone ", "loafer ", "slacker "], "A": []}
+{"index": 146595, "D": "a person who passes time in a lazy or unproductive way.", "S": ["drone", "loafer", "slacker"], "A": []}

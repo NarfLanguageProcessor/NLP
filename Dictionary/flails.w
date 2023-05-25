@@ -1,1 +1,1 @@
-{"index": 113806, "D": "an instrument for threshing grain, consisting of a staff or handle with a freely swinging stick or bar attached to one end of it.", "S": ["bash ", "smack ", "smash ", "thrash "], "A": ["compliment ", "praise "]}
+{"index": 113806, "D": "an instrument for threshing grain, consisting of a staff or handle with a freely swinging stick or bar attached to one end of it.", "S": ["bash", "smack", "smash", "thrash"], "A": ["compliment", "praise"]}

@@ -1,1 +1,1 @@
-{"index": 260199, "D": "like a rake;  dissolute", "S": ["dashing ", "jaunty ", "profligate ", "raffish ", "saucy ", "sporty "], "A": ["clean ", "moral ", "upright "]}
+{"index": 260199, "D": "like a rake;  dissolute", "S": ["dashing", "jaunty", "profligate", "raffish", "saucy", "sporty"], "A": ["clean", "moral", "upright"]}

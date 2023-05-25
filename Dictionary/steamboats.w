@@ -1,1 +1,1 @@
-{"index": 303284, "D": "a steam-driven vessel, especially a small one or one used on inland waters.", "S": ["barge ", "canoe ", "catamaran ", "craft ", "dinghy ", "gondola ", "raft ", "sailboat ", "schooner ", "ship ", "yacht "], "A": []}
+{"index": 303284, "D": "a steam-driven vessel, especially a small one or one used on inland waters.", "S": ["barge", "canoe", "catamaran", "craft", "dinghy", "gondola", "raft", "sailboat", "schooner", "ship", "yacht"], "A": []}

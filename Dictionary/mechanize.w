@@ -1,1 +1,1 @@
-{"index": 181891, "D": "to make mechanical. ", "S": ["industrialize ", "motorize "], "A": []}
+{"index": 181891, "D": "to make mechanical. ", "S": ["industrialize", "motorize"], "A": []}

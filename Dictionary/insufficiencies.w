@@ -1,1 +1,1 @@
-{"index": 154040, "D": "deficiency in amount, force, power, competence, or fitness; inadequacy", "S": ["deficiency ", "inadequacy ", "paucity "], "A": ["adequacy ", "enough ", "plenty ", "sufficiency "]}
+{"index": 154040, "D": "deficiency in amount, force, power, competence, or fitness; inadequacy", "S": ["deficiency", "inadequacy", "paucity"], "A": ["adequacy", "enough", "plenty", "sufficiency"]}

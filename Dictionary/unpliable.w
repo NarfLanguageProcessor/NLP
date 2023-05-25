@@ -1,1 +1,1 @@
-{"index": 348052, "D": "easily bent; flexible; supple", "S": ["incurable ", "intransigent ", "stubborn ", "uncompromising ", "unmanageable "], "A": ["willing "]}
+{"index": 348052, "D": "easily bent; flexible; supple", "S": ["incurable", "intransigent", "stubborn", "uncompromising", "unmanageable"], "A": ["willing"]}

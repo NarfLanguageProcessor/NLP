@@ -1,1 +1,1 @@
-{"index": 11755, "D": "a person who analyzes  or who is skilled in analysis.", "S": ["accountant ", "investigator ", "psychiatrist "], "A": []}
+{"index": 11755, "D": "a person who analyzes  or who is skilled in analysis.", "S": ["accountant", "investigator", "psychiatrist"], "A": []}

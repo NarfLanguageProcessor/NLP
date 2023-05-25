@@ -1,1 +1,1 @@
-{"index": 102871, "D": [], "S": ["contributor ", "journalist ", "reporter ", "writer "], "A": []}
+{"index": 102871, "D": [], "S": ["contributor", "journalist", "reporter", "writer"], "A": []}

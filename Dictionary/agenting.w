@@ -1,0 +1,1 @@
+{"index": 6018, "D": "a person or business authorized to act on another's behalf", "S": [], "A": []}

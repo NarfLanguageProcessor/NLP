@@ -1,0 +1,1 @@
+{"index": 30046, "D": "to torment or harass maliciously or diabolically, as with doubts, distractions, or worries.", "S": ["annoy", "beset", "bother", "harass", "irritate", "torment"], "A": ["aid", "assist", "delight", "help", "make happy", "please", "soothe"]}

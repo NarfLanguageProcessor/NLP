@@ -1,1 +1,1 @@
-{"index": 170863, "D": "for fear that; so that (one) should not (used negatively to introduce a clause expressive of an action or occurrence requiring caution)", "S": ["in case ", "in order to avoid ", "so that ", "to prevent "], "A": []}
+{"index": 170863, "D": "for fear that; so that (one) should not (used negatively to introduce a clause expressive of an action or occurrence requiring caution)", "S": ["in case", "in order to avoid", "so that", "to prevent"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 228134, "D": [], "S": ["collapse "], "A": ["achieve ", "succeed "]}
+{"index": 228134, "D": [], "S": ["collapse"], "A": ["achieve", "succeed"]}

@@ -1,1 +1,0 @@
-{"index": 241332, "D": "having a comparatively sharp point", "S": ["acicular ", "aciculate ", "aciculated ", "acuminate ", "acuminous ", "acute ", "barbed ", "cornered ", "cuspate ", "cuspated ", "cuspidate ", "cuspidated ", "edged ", "fine ", "keen ", "mucronate ", "peaked ", "piked ", "pronged ", "sharp ", "sharp-cornered ", "spiked "], "A": []}

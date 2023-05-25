@@ -1,1 +1,1 @@
-{"index": 74531, "D": "the husband of an unfaithful wife.", "S": ["baby ", "chicken ", "coward ", "crybaby ", "jellyfish ", "milksop ", "namby-pamby ", "pansy ", "pantywaist ", "pushover ", "wimp ", "wuss "], "A": []}
+{"index": 74531, "D": "the husband of an unfaithful wife.", "S": ["baby", "chicken", "coward", "crybaby", "jellyfish", "milksop", "namby-pamby", "pansy", "pantywaist", "pushover", "wimp", "wuss"], "A": []}

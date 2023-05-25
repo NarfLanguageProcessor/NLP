@@ -1,1 +1,1 @@
-{"index": 148678, "D": "the quality or condition of being impetuous. ", "S": ["defiance ", "madness "], "A": ["calm ", "cautiousness ", "collectedness ", "confidence ", "contentment ", "peace ", "peacefulness ", "security "]}
+{"index": 148678, "D": "the quality or condition of being impetuous. ", "S": ["defiance", "madness"], "A": ["calm", "cautiousness", "collectedness", "confidence", "contentment", "peace", "peacefulness", "security"]}

@@ -1,1 +1,1 @@
-{"index": 62720, "D": "a salad of finely sliced or chopped raw cabbage, usually moistened with a mayonnaise dressing.", "S": ["sauerkraut "], "A": []}
+{"index": 62720, "D": "a salad of finely sliced or chopped raw cabbage, usually moistened with a mayonnaise dressing.", "S": ["sauerkraut"], "A": []}

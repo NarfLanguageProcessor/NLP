@@ -1,1 +1,1 @@
-{"index": 274544, "D": "the yellowish to amber, translucent, hard, brittle, fragmented resin  left after distilling the oil of turpentine from the crude oleoresin of the pine", "S": ["paste ", "wax "], "A": []}
+{"index": 274544, "D": "the yellowish to amber, translucent, hard, brittle, fragmented resin  left after distilling the oil of turpentine from the crude oleoresin of the pine", "S": ["paste", "wax"], "A": []}

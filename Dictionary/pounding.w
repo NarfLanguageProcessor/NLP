@@ -1,1 +1,1 @@
-{"index": 244919, "D": "to strike repeatedly with great force, as with an instrument, the fist, heavy missiles, etc.", "S": ["anguish ", "misery ", "pang ", "soreness ", "spasm ", "twinge "], "A": ["comfort ", "ease ", "health ", "relief "]}
+{"index": 244919, "D": "to strike repeatedly with great force, as with an instrument, the fist, heavy missiles, etc.", "S": ["anguish", "misery", "pang", "soreness", "spasm", "twinge"], "A": ["comfort", "ease", "health", "relief"]}

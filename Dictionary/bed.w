@@ -1,1 +1,1 @@
-{"index": 29954, "D": "a piece of furniture upon which or within which a person sleeps, rests, or stays when not well.", "S": ["bunk ", "cot ", "couch ", "crib ", "mattress "], "A": []}
+{"index": 29954, "D": "a piece of furniture upon which or within which a person sleeps, rests, or stays when not well.", "S": ["bunk", "cot", "couch", "crib", "mattress"], "A": []}

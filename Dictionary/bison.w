@@ -1,1 +1,1 @@
-{"index": 35079, "D": "a North American, oxlike ruminant, Bison bison, having a large head and high, humped shoulders", "S": ["wisent "], "A": []}
+{"index": 35079, "D": "a North American, oxlike ruminant, Bison bison, having a large head and high, humped shoulders", "S": ["wisent"], "A": []}

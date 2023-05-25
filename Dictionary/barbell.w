@@ -1,1 +1,1 @@
-{"index": 27761, "D": "an apparatus used in weight-lifting, consisting of a bar  with replaceable, disk-shaped weights fastened to the ends.", "S": ["dumbbell "], "A": []}
+{"index": 27761, "D": "an apparatus used in weight-lifting, consisting of a bar  with replaceable, disk-shaped weights fastened to the ends.", "S": ["dumbbell"], "A": []}

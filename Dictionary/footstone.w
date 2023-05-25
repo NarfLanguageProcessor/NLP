@@ -1,1 +1,1 @@
-{"index": 116265, "D": "a stone placed at the foot of a grave.", "S": ["gravestone ", "headstone ", "marker ", "masterpiece ", "mausoleum ", "pillar ", "shrine ", "slab ", "statue ", "stele ", "stone ", "tablet ", "testament ", "tomb ", "tombstone ", "tribute "], "A": []}
+{"index": 116265, "D": "a stone placed at the foot of a grave.", "S": ["gravestone", "headstone", "marker", "masterpiece", "mausoleum", "pillar", "shrine", "slab", "statue", "stele", "stone", "tablet", "testament", "tomb", "tombstone", "tribute"], "A": []}

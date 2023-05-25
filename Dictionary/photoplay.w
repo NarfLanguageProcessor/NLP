@@ -1,1 +1,1 @@
-{"index": 235316, "D": "a motion-picture scenario; screenplay.", "S": ["film ", "movie house ", "movie theater "], "A": []}
+{"index": 235316, "D": "a motion-picture scenario; screenplay.", "S": ["film", "movie house", "movie theater"], "A": []}

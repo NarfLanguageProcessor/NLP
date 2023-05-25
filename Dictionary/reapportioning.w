@@ -1,1 +1,1 @@
-{"index": 261909, "D": "to apportion  or distribute anew.", "S": ["allot ", "distribute ", "divide ", "reallocate "], "A": ["collect ", "gather ", "hold ", "keep ", "maintain ", "retain "]}
+{"index": 261909, "D": "to apportion  or distribute anew.", "S": ["allot", "distribute", "divide", "reallocate"], "A": ["collect", "gather", "hold", "keep", "maintain", "retain"]}

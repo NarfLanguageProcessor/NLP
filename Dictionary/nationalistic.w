@@ -1,1 +1,1 @@
-{"index": 197263, "D": "a person devoted to nationalism. ", "S": ["loyal "], "A": ["antisocial ", "misanthropic ", "traitorous "]}
+{"index": 197263, "D": "a person devoted to nationalism. ", "S": ["loyal"], "A": ["antisocial", "misanthropic", "traitorous"]}

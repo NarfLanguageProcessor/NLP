@@ -1,1 +1,1 @@
-{"index": 326626, "D": "a rare word for whirlwind", "S": ["dust devil ", "tornado ", "whirlwind "], "A": []}
+{"index": 326626, "D": "a rare word for whirlwind", "S": ["dust devil", "tornado", "whirlwind"], "A": []}

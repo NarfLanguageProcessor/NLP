@@ -1,1 +1,1 @@
-{"index": 148718, "D": "mischievous. ", "S": ["devilish ", "jaunty ", "naughty ", "playful "], "A": ["good ", "moral "]}
+{"index": 148718, "D": "mischievous. ", "S": ["devilish", "jaunty", "naughty", "playful"], "A": ["good", "moral"]}

@@ -1,1 +1,1 @@
-{"index": 31151, "D": "a writer of belles-lettres", "S": ["brain ", "educated person ", "intellectual ", "literary craftsman ", "literary scholar ", "litterateur ", "savant ", "scholar ", "walking encyclopedia ", "wordsmith "], "A": []}
+{"index": 31151, "D": "a writer of belles-lettres", "S": ["brain", "educated person", "intellectual", "literary craftsman", "literary scholar", "litterateur", "savant", "scholar", "walking encyclopedia", "wordsmith"], "A": []}

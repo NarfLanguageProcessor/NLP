@@ -1,1 +1,1 @@
-{"index": 289322, "D": "a husk or pod, as the outer covering of corn, hickory nuts, chestnuts, etc.", "S": ["frivolous ", "fruitless ", "petty ", "trivial "], "A": ["consequential ", "important ", "significant ", "useful "]}
+{"index": 289322, "D": "a husk or pod, as the outer covering of corn, hickory nuts, chestnuts, etc.", "S": ["frivolous", "fruitless", "petty", "trivial"], "A": ["consequential", "important", "significant", "useful"]}

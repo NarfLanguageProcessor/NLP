@@ -1,1 +1,1 @@
-{"index": 320636, "D": "(used to indicate a person, thing, idea, state, event, time, remark, etc., as pointed out or present, mentioned before, supposed to be understood, or by way of emphasis)", "S": ["a certain ", "a particular ", "a well known ", "one ", "such ", "this "], "A": []}
+{"index": 320636, "D": "(used to indicate a person, thing, idea, state, event, time, remark, etc., as pointed out or present, mentioned before, supposed to be understood, or by way of emphasis)", "S": ["a certain", "a particular", "a well known", "one", "such", "this"], "A": []}

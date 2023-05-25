@@ -1,1 +1,1 @@
-{"index": 153094, "D": "a person or group that introduces something new or does something for the first time", "S": ["avant-garde ", "creator ", "discoverer ", "groundbreaker ", "pioneer ", "trailblazer ", "vanguard "], "A": []}
+{"index": 153094, "D": "a person or group that introduces something new or does something for the first time", "S": ["avant-garde", "creator", "discoverer", "groundbreaker", "pioneer", "trailblazer", "vanguard"], "A": []}

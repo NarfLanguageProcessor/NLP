@@ -1,1 +1,1 @@
-{"index": 356937, "D": "deliberately mischievous or malicious destruction or damage of property", "S": ["mischief "], "A": []}
+{"index": 356937, "D": "deliberately mischievous or malicious destruction or damage of property", "S": ["mischief"], "A": []}

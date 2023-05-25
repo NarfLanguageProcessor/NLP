@@ -1,1 +1,1 @@
-{"index": 52194, "D": "a call or summons to engage in any contest, as of skill, strength, etc.", "S": ["objection ", "protest ", "test ", "threat "], "A": ["acceptance ", "peace "]}
+{"index": 52194, "D": "a call or summons to engage in any contest, as of skill, strength, etc.", "S": ["objection", "protest", "test", "threat"], "A": ["acceptance", "peace"]}

@@ -1,1 +1,1 @@
-{"index": 363655, "D": "something formed by or as if by weaving or interweaving.", "S": ["net ", "network ", "screen "], "A": ["ease ", "order ", "organization ", "simplicity "]}
+{"index": 363655, "D": "something formed by or as if by weaving or interweaving.", "S": ["net", "network", "screen"], "A": ["ease", "order", "organization", "simplicity"]}

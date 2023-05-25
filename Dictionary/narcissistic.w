@@ -1,1 +1,1 @@
-{"index": 196932, "D": "having an undue fascination with oneself; vain. ", "S": ["self-centered ", "self-involved "], "A": ["outgoing ", "sacrificing ", "unselfish "]}
+{"index": 196932, "D": "having an undue fascination with oneself; vain. ", "S": ["self-centered", "self-involved"], "A": ["outgoing", "sacrificing", "unselfish"]}

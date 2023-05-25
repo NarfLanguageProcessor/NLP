@@ -1,1 +1,1 @@
-{"index": 33783, "D": "stubborn and complete intolerance of any creed, belief, or opinion that differs from one's own.", "S": ["bias ", "discrimination ", "fanaticism ", "injustice ", "racism ", "sexism ", "unfairness "], "A": ["fairness ", "impartiality "]}
+{"index": 33783, "D": "stubborn and complete intolerance of any creed, belief, or opinion that differs from one's own.", "S": ["bias", "discrimination", "fanaticism", "injustice", "racism", "sexism", "unfairness"], "A": ["fairness", "impartiality"]}

@@ -1,1 +1,1 @@
-{"index": 352676, "D": "to bring out of a tangled  state; disentangle; unsnarl.", "S": ["clear up ", "disentangle ", "extricate ", "unravel ", "unscramble "], "A": ["entangle "]}
+{"index": 352676, "D": "to bring out of a tangled  state; disentangle; unsnarl.", "S": ["clear up", "disentangle", "extricate", "unravel", "unscramble"], "A": ["entangle"]}

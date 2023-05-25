@@ -1,1 +1,1 @@
-{"index": 270628, "D": "to draw back or in", "S": ["abjuration ", "abnegation ", "about-face ", "abrogation ", "annulment ", "backpedaling ", "backtracking ", "contradiction ", "contraversion ", "denial ", "disavowal ", "disclaimer ", "disowning ", "forswearing ", "gainsaying ", "nullification ", "palinode ", "recall ", "recantation ", "reneging ", "renouncing ", "repudiation ", "reversal ", "revocation ", "unsaying ", "volte-face ", "withdrawal "], "A": []}
+{"index": 270628, "D": "to draw back or in", "S": [], "A": []}

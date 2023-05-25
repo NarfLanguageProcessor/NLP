@@ -1,1 +1,1 @@
-{"index": 64996, "D": "the use of a computer to process data or perform calculations.", "S": ["aggregating ", "completing ", "concluding ", "constituting ", "producing ", "reckoning ", "summing "], "A": []}
+{"index": 64996, "D": "the use of a computer to process data or perform calculations.", "S": ["aggregating", "completing", "concluding", "constituting", "producing", "reckoning", "summing"], "A": []}

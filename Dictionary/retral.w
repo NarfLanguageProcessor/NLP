@@ -1,1 +1,1 @@
-{"index": 270657, "D": "at or toward the back; posterior.", "S": ["back ", "behind ", "hind ", "last "], "A": ["front "]}
+{"index": 270657, "D": "at or toward the back; posterior.", "S": ["back", "behind", "hind", "last"], "A": ["front"]}

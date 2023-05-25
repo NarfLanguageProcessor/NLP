@@ -1,1 +1,1 @@
-{"index": 295638, "D": [], "S": ["boycott ", "disregard ", "humiliate ", "ignore ", "neglect ", "ostracize ", "pass up ", "rebuff ", "scold ", "scorn ", "shun "], "A": ["note ", "pay attention ", "praise ", "regard ", "welcome ", "approve ", "compliment ", "flatter ", "heat ", "respect ", "warm "]}
+{"index": 295638, "D": [], "S": ["boycott", "disregard", "humiliate", "ignore", "neglect", "ostracize", "pass up", "rebuff", "scold", "scorn", "shun"], "A": ["note", "pay attention", "praise", "regard", "welcome", "approve", "compliment", "flatter", "heat", "respect", "warm"]}

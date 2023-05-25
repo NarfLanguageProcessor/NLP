@@ -1,1 +1,1 @@
-{"index": 78942, "D": "based on deduction  from accepted premises, as in deductive argument; deductive reasoning.", "S": ["a priori ", "consequent ", "derivable ", "dogmatic ", "following ", "inferable ", "inferential ", "provable ", "reasoned ", "traceable "], "A": []}
+{"index": 78942, "D": "based on deduction  from accepted premises, as in deductive argument; deductive reasoning.", "S": ["a priori", "consequent", "derivable", "dogmatic", "following", "inferable", "inferential", "provable", "reasoned", "traceable"], "A": []}

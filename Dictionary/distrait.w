@@ -1,1 +1,1 @@
-{"index": 89893, "D": "inattentive because of distracting worries, fears, etc.; absent-minded.", "S": ["a million miles away ", "abstracted ", "distracted ", "dreamy ", "inattentive ", "lost in thought ", "preoccupied "], "A": []}
+{"index": 89893, "D": "inattentive because of distracting worries, fears, etc.; absent-minded.", "S": ["a million miles away", "abstracted", "distracted", "dreamy", "inattentive", "lost in thought", "preoccupied"], "A": []}

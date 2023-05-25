@@ -1,1 +1,1 @@
-{"index": 220003, "D": "to lap  over (something else or each other); extend over and cover a part of; imbricate.", "S": ["extending ", "overlying ", "projecting ", "protruding "], "A": []}
+{"index": 220003, "D": "to lap  over (something else or each other); extend over and cover a part of; imbricate.", "S": ["extending", "overlying", "projecting", "protruding"], "A": []}

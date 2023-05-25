@@ -1,1 +1,1 @@
-{"index": 302514, "D": "of or relating to Joseph Stalin  or Stalinism. ", "S": ["Bolshevik ", "Bolshevist ", "Commie ", "Maoist ", "Marxist ", "Trotskyite ", "apparatchik ", "comrade ", "leftist ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}
+{"index": 302514, "D": "of or relating to Joseph Stalin  or Stalinism. ", "S": ["Bolshevik", "Bolshevist", "Commie", "Maoist", "Marxist", "Trotskyite", "apparatchik", "comrade", "leftist", "red", "socialist", "sympathizer"], "A": ["capitalist", "conservative", "fascist"]}

@@ -1,1 +1,1 @@
-{"index": 145030, "D": [], "S": ["Finnish bath ", "Jacuzzi ", "Japanese bath ", "Russian bath ", "Scandinavian steam bath ", "Swedish bath ", "Turkish bath ", "hot tub ", "plunge bath ", "sauna ", "sauna bath ", "steam room ", "sweat bath ", "whirlpool bath "], "A": []}
+{"index": 145030, "D": [], "S": ["Finnish bath", "Jacuzzi", "Japanese bath", "Russian bath", "Scandinavian steam bath", "Swedish bath", "Turkish bath", "hot tub", "plunge bath", "sauna", "sauna bath", "steam room", "sweat bath", "whirlpool bath"], "A": []}

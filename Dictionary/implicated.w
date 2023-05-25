@@ -1,1 +1,1 @@
-{"index": 148784, "D": "shown to be also involved, especially in an incriminating manner", "S": ["involved "], "A": []}
+{"index": 148784, "D": "shown to be also involved, especially in an incriminating manner", "S": ["involved"], "A": []}

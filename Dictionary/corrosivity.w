@@ -1,1 +1,1 @@
-{"index": 69750, "D": "having the quality of corroding  or eating away; erosive.", "S": ["acrimony ", "causticity ", "corrosive ", "mordacity ", "mordancy ", "trenchancy "], "A": []}
+{"index": 69750, "D": "having the quality of corroding  or eating away; erosive.", "S": ["acrimony", "causticity", "corrosive", "mordacity", "mordancy", "trenchancy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 75338, "D": "to form into coils or ringlets, as the hair.", "S": ["corkscrew ", "curling ", "curly ", "frizzy ", "permed ", "ringleted "], "A": ["straight ", "uncurled "]}
+{"index": 75338, "D": "to form into coils or ringlets, as the hair.", "S": ["corkscrew", "curling", "curly", "frizzy", "permed", "ringleted"], "A": ["straight", "uncurled"]}

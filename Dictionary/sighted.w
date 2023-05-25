@@ -1,1 +1,1 @@
-{"index": 289998, "D": "having functional vision; not blind.", "S": ["located ", "observed "], "A": []}
+{"index": 289998, "D": "having functional vision; not blind.", "S": ["located", "observed"], "A": []}

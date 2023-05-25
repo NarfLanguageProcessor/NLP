@@ -1,1 +1,1 @@
-{"index": 21146, "D": "ash-colored; pale; wan", "S": ["ash-colored ", "ashen ", "blanched ", "colorless ", "livid ", "lurid ", "pallid ", "pasty ", "wan ", "waxen ", "white "], "A": []}
+{"index": 21146, "D": "ash-colored; pale; wan", "S": ["ash-colored", "ashen", "blanched", "colorless", "livid", "lurid", "pallid", "pasty", "wan", "waxen", "white"], "A": []}

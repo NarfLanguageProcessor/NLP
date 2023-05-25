@@ -1,1 +1,1 @@
-{"index": 35708, "D": "pleasantly gentle or agreeable", "S": ["boringness ", "colorlessness ", "drabness ", "dreariness ", "flatness ", "flavorlessness ", "insipidity ", "insipidness ", "jejuneness ", "lifelessness ", "pallidness ", "uninterestingness ", "vapidity ", "vapidness "], "A": []}
+{"index": 35708, "D": "pleasantly gentle or agreeable", "S": ["boringness", "colorlessness", "drabness", "dreariness", "flatness", "flavorlessness", "insipidity", "insipidness", "jejuneness", "lifelessness", "pallidness", "uninterestingness", "vapidity", "vapidness"], "A": []}

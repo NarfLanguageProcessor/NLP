@@ -1,1 +1,1 @@
-{"index": 325997, "D": "ranked among the highest, as in ability, performance, comprehensiveness, or quality", "S": ["elite "], "A": []}
+{"index": 325997, "D": "ranked among the highest, as in ability, performance, comprehensiveness, or quality", "S": ["elite"], "A": []}

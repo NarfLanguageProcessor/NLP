@@ -1,1 +1,1 @@
-{"index": 27409, "D": "destructive; pernicious", "S": ["abuse ", "damage ", "disservice ", "impairment ", "loss ", "mischief ", "misuse ", "sabotage ", "vandalism ", "violence ", "wrong "], "A": ["favor ", "help ", "kindness ", "benefit ", "goodness ", "happiness ", "profit ", "virtue "]}
+{"index": 27409, "D": "destructive; pernicious", "S": ["abuse", "damage", "disservice", "impairment", "loss", "mischief", "misuse", "sabotage", "vandalism", "violence", "wrong"], "A": ["favor", "help", "kindness", "benefit", "goodness", "happiness", "profit", "virtue"]}

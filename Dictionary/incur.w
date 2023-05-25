@@ -1,1 +1,1 @@
-{"index": 150590, "D": "to come into or acquire (some consequence, usually undesirable or injurious)", "S": ["acquire ", "arouse ", "earn ", "obtain ", "provoke "], "A": ["forfeit ", "lose ", "discourage ", "miss ", "misunderstand ", "pass ", "push "]}
+{"index": 150590, "D": "to come into or acquire (some consequence, usually undesirable or injurious)", "S": ["acquire", "arouse", "earn", "obtain", "provoke"], "A": ["forfeit", "lose", "discourage", "miss", "misunderstand", "pass", "push"]}

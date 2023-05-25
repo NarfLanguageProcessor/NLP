@@ -1,1 +1,1 @@
-{"index": 341428, "D": "not equal;  not of the same quantity, quality, value, rank, ability, etc.", "S": ["unevenly "], "A": ["equally ", "evenly "]}
+{"index": 341428, "D": "not equal;  not of the same quantity, quality, value, rank, ability, etc.", "S": ["unevenly"], "A": ["equally", "evenly"]}

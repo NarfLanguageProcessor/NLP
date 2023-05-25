@@ -1,1 +1,1 @@
-{"index": 194784, "D": "a drinking cup, usually cylindrical in shape, having a handle, and often of a heavy substance, as earthenware.", "S": ["rob "], "A": []}
+{"index": 194784, "D": "a drinking cup, usually cylindrical in shape, having a handle, and often of a heavy substance, as earthenware.", "S": ["rob"], "A": []}

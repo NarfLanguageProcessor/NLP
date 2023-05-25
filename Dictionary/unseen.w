@@ -1,1 +1,1 @@
-{"index": 350696, "D": "not seen; unperceived; unobserved; invisible.", "S": ["imaginary ", "imagined ", "invisible ", "lurking ", "undetected ", "undiscovered ", "unnoticed "], "A": ["seen "]}
+{"index": 350696, "D": "not seen; unperceived; unobserved; invisible.", "S": ["imaginary", "imagined", "invisible", "lurking", "undetected", "undiscovered", "unnoticed"], "A": ["seen"]}

@@ -1,1 +1,1 @@
-{"index": 62561, "D": "a buffy-gray, wolflike canid, Canis latrans, of North America, distinguished from the wolf by its relatively small size and its slender build, large ears, and narrow muzzle.", "S": ["mutt ", "pooch ", "pup "], "A": []}
+{"index": 62561, "D": "a buffy-gray, wolflike canid, Canis latrans, of North America, distinguished from the wolf by its relatively small size and its slender build, large ears, and narrow muzzle.", "S": ["mutt", "pooch", "pup"], "A": []}

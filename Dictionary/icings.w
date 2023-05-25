@@ -1,1 +1,1 @@
-{"index": 146169, "D": "a sweet, creamy spread, as of confectioners' sugar, butter, and flavoring, for covering cakes, cookies, etc.; frosting.", "S": ["cream ", "glaze "], "A": []}
+{"index": 146169, "D": "a sweet, creamy spread, as of confectioners' sugar, butter, and flavoring, for covering cakes, cookies, etc.; frosting.", "S": ["cream", "glaze"], "A": []}

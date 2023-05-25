@@ -1,1 +1,1 @@
-{"index": 333431, "D": "a person or thing that twists. ", "S": ["cyclone ", "tornado ", "whirlwind "], "A": []}
+{"index": 333431, "D": "a person or thing that twists. ", "S": ["cyclone", "tornado", "whirlwind"], "A": []}

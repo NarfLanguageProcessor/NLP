@@ -1,1 +1,1 @@
-{"index": 69462, "D": "a small crown.", "S": ["chaplet ", "circle ", "crown ", "diadem ", "headband ", "headdress ", "tiara ", "wreath "], "A": []}
+{"index": 69462, "D": "a small crown.", "S": ["chaplet", "circle", "crown", "diadem", "headband", "headdress", "tiara", "wreath"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 144349, "D": "one of any of several breeds of dogs trained to pursue game either by sight or by scent, especially one with a long face and large drooping ears.", "S": ["chased ", "dogged ", "followed ", "outlawed ", "stalked ", "tailed ", "tracked ", "trailed ", "wanted "], "A": []}
+{"index": 144349, "D": "one of any of several breeds of dogs trained to pursue game either by sight or by scent, especially one with a long face and large drooping ears.", "S": ["chased", "dogged", "followed", "outlawed", "stalked", "tailed", "tracked", "trailed", "wanted"], "A": []}

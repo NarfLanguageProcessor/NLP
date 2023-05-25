@@ -1,1 +1,1 @@
-{"index": 250359, "D": "a sharp metal point on which to stick a candle.", "S": ["candelabra ", "sconce "], "A": []}
+{"index": 250359, "D": "a sharp metal point on which to stick a candle.", "S": ["candelabra", "sconce"], "A": []}

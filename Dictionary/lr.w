@@ -1,1 +1,1 @@
-{"index": 175716, "D": "lawrencium.", "S": ["drawing room ", "parlor ", "salon ", "sitting room "], "A": []}
+{"index": 175716, "D": "lawrencium.", "S": ["drawing room", "parlor", "salon", "sitting room"], "A": []}

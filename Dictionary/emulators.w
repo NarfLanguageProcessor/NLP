@@ -1,1 +1,1 @@
-{"index": 98940, "D": "a person or thing that imitates", "S": ["adversary ", "challenger ", "competition ", "contestant ", "favorite ", "opponent ", "rival "], "A": ["ally ", "associate ", "helper "]}
+{"index": 98940, "D": "a person or thing that imitates", "S": ["adversary", "challenger", "competition", "contestant", "favorite", "opponent", "rival"], "A": ["ally", "associate", "helper"]}

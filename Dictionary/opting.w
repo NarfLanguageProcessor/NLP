@@ -1,1 +1,0 @@
-{"index": 213844, "D": "to make a choice; choose (usually followed by for).", "S": ["decide ", "elect ", "go for ", "prefer "], "A": ["dislike ", "hate ", "refuse ", "reject "]}

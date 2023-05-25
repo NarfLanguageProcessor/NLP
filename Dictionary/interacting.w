@@ -1,1 +1,1 @@
-{"index": 154422, "D": "to act  one upon another", "S": ["collaborate ", "combine ", "connect ", "cooperate ", "merge ", "mesh ", "reach out ", "relate "], "A": ["disconnect ", "divide ", "part ", "separate "]}
+{"index": 154422, "D": "to act  one upon another", "S": ["collaborate", "combine", "connect", "cooperate", "merge", "mesh", "reach out", "relate"], "A": ["disconnect", "divide", "part", "separate"]}

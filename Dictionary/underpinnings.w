@@ -1,1 +1,1 @@
-{"index": 339579, "D": "any supporting structure or system", "S": ["base ", "ground ", "support "], "A": []}
+{"index": 339579, "D": "any supporting structure or system", "S": ["base", "ground", "support"], "A": []}

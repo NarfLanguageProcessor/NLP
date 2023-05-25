@@ -1,1 +1,1 @@
-{"index": 279694, "D": "a mark left by a healed wound, sore, or burn.", "S": ["blister ", "crater ", "defect ", "discoloration ", "disfigurement ", "flaw ", "scab ", "wound "], "A": ["perfection ", "strength "]}
+{"index": 279694, "D": "a mark left by a healed wound, sore, or burn.", "S": ["blister", "crater", "defect", "discoloration", "disfigurement", "flaw", "scab", "wound"], "A": ["perfection", "strength"]}

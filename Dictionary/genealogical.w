@@ -1,1 +1,1 @@
-{"index": 123421, "D": "a record or account of the ancestry and descent of a person, family, group, etc.", "S": ["familial ", "tribal "], "A": []}
+{"index": 123421, "D": "a record or account of the ancestry and descent of a person, family, group, etc.", "S": ["familial", "tribal"], "A": []}

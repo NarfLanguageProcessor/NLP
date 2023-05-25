@@ -1,1 +1,1 @@
-{"index": 71858, "D": "a person who is eccentric, unrealistic, or fanatical.", "S": ["crank ", "flake ", "kook ", "lunatic ", "maniac ", "nut ", "oddball ", "screwball ", "wacko "], "A": []}
+{"index": 71858, "D": "a person who is eccentric, unrealistic, or fanatical.", "S": ["crank", "flake", "kook", "lunatic", "maniac", "nut", "oddball", "screwball", "wacko"], "A": []}

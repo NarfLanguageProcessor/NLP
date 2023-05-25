@@ -1,1 +1,1 @@
-{"index": 282888, "D": "of or relating to worldly things or to things that are not regarded as religious, spiritual, or sacred; temporal", "S": ["civil ", "materialistic ", "worldly "], "A": ["mental "]}
+{"index": 282888, "D": "of or relating to worldly things or to things that are not regarded as religious, spiritual, or sacred; temporal", "S": ["civil", "materialistic", "worldly"], "A": ["mental"]}

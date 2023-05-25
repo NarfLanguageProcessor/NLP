@@ -1,1 +1,1 @@
-{"index": 161207, "D": "to move up and down or to and fro with short, quick jerks.", "S": ["fidget ", "shimmy ", "twitch ", "wiggle "], "A": ["calm ", "soothe "]}
+{"index": 161207, "D": "to move up and down or to and fro with short, quick jerks.", "S": ["fidget", "shimmy", "twitch", "wiggle"], "A": ["calm", "soothe"]}

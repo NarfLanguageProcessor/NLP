@@ -1,1 +1,1 @@
-{"index": 117512, "D": "to express in precise form; state definitely or systematically", "S": ["coordinated ", "formed ", "standardized "], "A": []}
+{"index": 117512, "D": "to express in precise form; state definitely or systematically", "S": ["coordinated", "formed", "standardized"], "A": []}

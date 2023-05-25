@@ -1,1 +1,1 @@
-{"index": 287427, "D": "a crudely built hut, cabin, or house.", "S": ["cabin ", "cottage ", "hut ", "lean-to "], "A": []}
+{"index": 287427, "D": "a crudely built hut, cabin, or house.", "S": ["cabin", "cottage", "hut", "lean-to"], "A": []}

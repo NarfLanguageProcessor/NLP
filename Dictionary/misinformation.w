@@ -1,1 +1,1 @@
-{"index": 189459, "D": "false information that is spread, regardless of whether there is intent to mislead", "S": ["falsity ", "misreport ", "misstatement "], "A": ["fact ", "truth "]}
+{"index": 189459, "D": "false information that is spread, regardless of whether there is intent to mislead", "S": ["falsity", "misreport", "misstatement"], "A": ["fact", "truth"]}

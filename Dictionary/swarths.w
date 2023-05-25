@@ -1,1 +1,1 @@
-{"index": 314138, "D": "sward; greensward.", "S": ["pasture ", "plain ", "prairie ", "savanna ", "steppe "], "A": []}
+{"index": 314138, "D": "sward; greensward.", "S": ["pasture", "plain", "prairie", "savanna", "steppe"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 321747, "D": "given to thieving.", "S": ["burglary ", "larceny ", "robbery ", "stealing "], "A": []}
+{"index": 321747, "D": "given to thieving.", "S": ["burglary", "larceny", "robbery", "stealing"], "A": []}

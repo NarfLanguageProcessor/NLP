@@ -1,1 +1,1 @@
-{"index": 80016, "D": "an act or instance of deleting. ", "S": ["cancellation ", "cut ", "expunction ", "expunging ", "remotion ", "removal "], "A": []}
+{"index": 80016, "D": "an act or instance of deleting. ", "S": ["cancellation", "cut", "expunction", "expunging", "remotion", "removal"], "A": []}

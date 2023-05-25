@@ -1,1 +1,1 @@
-{"index": 304315, "D": "a person who insists on something unyieldingly (usually followed by for)", "S": ["disciplinarian ", "enforcer ", "fanatic ", "nitpicker ", "taskmaster "], "A": []}
+{"index": 304315, "D": "a person who insists on something unyieldingly (usually followed by for)", "S": ["disciplinarian", "enforcer", "fanatic", "nitpicker", "taskmaster"], "A": []}

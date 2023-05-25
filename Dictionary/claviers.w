@@ -1,1 +1,1 @@
-{"index": 59575, "D": "the keyboard of a musical instrument.", "S": ["console ", "manual ", "piano "], "A": []}
+{"index": 59575, "D": "the keyboard of a musical instrument.", "S": ["console", "manual", "piano"], "A": []}

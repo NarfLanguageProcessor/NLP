@@ -1,1 +1,1 @@
-{"index": 266755, "D": "to enjoy good relations", "S": ["birth ", "consanguinity ", "descendants ", "descent ", "extraction ", "family ", "kindred ", "kinship ", "line ", "lineage ", "origin ", "pedigree ", "stock "], "A": ["conclusion ", "death ", "end "]}
+{"index": 266755, "D": "to enjoy good relations", "S": ["birth", "consanguinity", "descendants", "descent", "extraction", "family", "kindred", "kinship", "line", "lineage", "origin", "pedigree", "stock"], "A": ["conclusion", "death", "end"]}

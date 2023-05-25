@@ -1,1 +1,0 @@
-{"index": 261339, "D": "to stretch oneself, as after sleeping.", "S": [], "A": []}

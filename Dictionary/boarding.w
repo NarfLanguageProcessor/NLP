@@ -1,1 +1,1 @@
-{"index": 36939, "D": "wooden boards  collectively.", "S": ["catch ", "climb on ", "enter ", "get on ", "hop on "], "A": ["disembark ", "get off ", "leave ", "turn out "]}
+{"index": 36939, "D": "wooden boards  collectively.", "S": ["catch", "climb on", "enter", "get on", "hop on"], "A": ["disembark", "get off", "leave", "turn out"]}

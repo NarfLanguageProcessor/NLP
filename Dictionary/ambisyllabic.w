@@ -1,0 +1,1 @@
+{"index": 10012, "D": "(of a single speech sound or cluster) shared phonetically by two contiguous syllables, as the single n-sound of any or the pl-cluster of grappling.", "S": [], "A": []}

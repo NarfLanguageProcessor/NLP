@@ -1,1 +1,1 @@
-{"index": 137941, "D": "of, relating to, or having the form of a hexagon. ", "S": ["hexadic ", "semestral ", "senary ", "sextuple "], "A": []}
+{"index": 137941, "D": "of, relating to, or having the form of a hexagon. ", "S": ["hexadic", "semestral", "senary", "sextuple"], "A": []}

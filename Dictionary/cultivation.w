@@ -1,1 +1,1 @@
-{"index": 74827, "D": "the act or art of cultivating. ", "S": ["farming ", "gardening ", "horticulture ", "planting "], "A": ["destruction ", "harm ", "hurt ", "ignorance ", "neglect ", "unsophistication "]}
+{"index": 74827, "D": "the act or art of cultivating. ", "S": ["farming", "gardening", "horticulture", "planting"], "A": ["destruction", "harm", "hurt", "ignorance", "neglect", "unsophistication"]}

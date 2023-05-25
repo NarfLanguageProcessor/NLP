@@ -1,1 +1,1 @@
-{"index": 300604, "D": "to indulge oneself in some luxury or pleasure, especially a costly one", "S": ["binge ", "celebrate ", "fling ", "rampage ", "spread "], "A": ["hoard ", "save "]}
+{"index": 300604, "D": "to indulge oneself in some luxury or pleasure, especially a costly one", "S": ["binge", "celebrate", "fling", "rampage", "spread"], "A": ["hoard", "save"]}

@@ -1,1 +1,1 @@
-{"index": 63973, "D": "having the same measure or divisor", "S": ["equally ", "equitably ", "fairly ", "identically ", "justly ", "precisely ", "proportionately ", "squarely "], "A": ["unfairly ", "unjustly "]}
+{"index": 63973, "D": "having the same measure or divisor", "S": ["equally", "equitably", "fairly", "identically", "justly", "precisely", "proportionately", "squarely"], "A": ["unfairly", "unjustly"]}

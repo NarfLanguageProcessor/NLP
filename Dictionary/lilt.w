@@ -1,1 +1,1 @@
-{"index": 172255, "D": "rhythmic swing or cadence.", "S": ["air ", "intonation ", "movement ", "refrain ", "tune "], "A": []}
+{"index": 172255, "D": "rhythmic swing or cadence.", "S": ["air", "intonation", "movement", "refrain", "tune"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 40624, "D": "brick  construction, as contrasted with that using other materials.", "S": ["cinder block ", "slab ", "stone "], "A": []}
+{"index": 40624, "D": "brick  construction, as contrasted with that using other materials.", "S": ["cinder block", "slab", "stone"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 128646, "D": "any greatly desired and sought-after objective; ultimate ideal or reward", "S": ["chalice ", "cup "], "A": []}
+{"index": 128646, "D": "any greatly desired and sought-after objective; ultimate ideal or reward", "S": ["chalice", "cup"], "A": []}

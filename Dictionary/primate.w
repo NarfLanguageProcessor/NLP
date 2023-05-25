@@ -1,1 +1,1 @@
-{"index": 250490, "D": "an archbishop or bishop ranking first among the bishops of a province or country.", "S": ["anthropoid ", "ape ", "baboon ", "chimpanzee ", "gibbon ", "gorilla ", "human ", "lemur ", "man ", "monkey ", "orangutan "], "A": []}
+{"index": 250490, "D": "an archbishop or bishop ranking first among the bishops of a province or country.", "S": ["anthropoid", "ape", "baboon", "chimpanzee", "gibbon", "gorilla", "human", "lemur", "man", "monkey", "orangutan"], "A": []}

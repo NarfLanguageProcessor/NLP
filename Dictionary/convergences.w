@@ -1,1 +1,1 @@
-{"index": 68001, "D": "an act or instance of converging. ", "S": ["concurrence ", "confluence ", "meeting ", "merging "], "A": []}
+{"index": 68001, "D": "an act or instance of converging. ", "S": ["concurrence", "confluence", "meeting", "merging"], "A": []}

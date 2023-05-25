@@ -1,1 +1,0 @@
-{"index": 167846, "D": "a son of Hercules and Omphale.", "S": [], "A": []}

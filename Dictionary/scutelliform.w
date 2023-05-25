@@ -1,1 +1,0 @@
-{"index": 282334, "D": "being in the shape of a shield;  shield-shaped.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 213665, "D": "a person who practices opportunism,  or the policy of adapting actions, decisions, etc., to effectiveness regardless of the sacrifice of ethical principles", "S": ["carpetbagger "], "A": []}
+{"index": 213665, "D": "a person who practices opportunism,  or the policy of adapting actions, decisions, etc., to effectiveness regardless of the sacrifice of ethical principles", "S": ["carpetbagger"], "A": []}

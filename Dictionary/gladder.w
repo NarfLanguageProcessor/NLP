@@ -1,1 +1,1 @@
-{"index": 125782, "D": "feeling joy or pleasure; delighted;  pleased", "S": ["cheerful ", "contented ", "joyful ", "overjoyed ", "pleased ", "willing "], "A": ["sad ", "unhappy ", "upset ", "dull "]}
+{"index": 125782, "D": "feeling joy or pleasure; delighted;  pleased", "S": ["cheerful", "contented", "joyful", "overjoyed", "pleased", "willing"], "A": ["sad", "unhappy", "upset", "dull"]}

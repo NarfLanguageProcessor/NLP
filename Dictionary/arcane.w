@@ -1,1 +1,1 @@
-{"index": 18636, "D": "known or understood by very few; mysterious; secret; obscure; esoteric", "S": ["esoteric ", "impenetrable "], "A": ["common ", "commonplace ", "known ", "normal ", "outward "]}
+{"index": 18636, "D": "known or understood by very few; mysterious; secret; obscure; esoteric", "S": ["esoteric", "impenetrable"], "A": ["common", "commonplace", "known", "normal", "outward"]}

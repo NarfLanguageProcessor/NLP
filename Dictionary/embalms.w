@@ -1,1 +1,1 @@
-{"index": 97971, "D": "to treat (a dead body) so as to preserve it, as with chemicals, drugs, or balsams.", "S": ["mummify "], "A": ["neglect ", "squander ", "use ", "waste "]}
+{"index": 97971, "D": "to treat (a dead body) so as to preserve it, as with chemicals, drugs, or balsams.", "S": ["mummify"], "A": ["neglect", "squander", "use", "waste"]}

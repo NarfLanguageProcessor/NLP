@@ -1,1 +1,1 @@
-{"index": 352361, "D": "not suitable;  inappropriate; unfitting; unbecoming.", "S": ["afield ", "afoul ", "badly ", "erringly ", "erroneously ", "faultily ", "improperly ", "inappropriately ", "incorrectly ", "mistakenly ", "out of turn ", "unfavorably "], "A": ["good ", "right ", "well "]}
+{"index": 352361, "D": "not suitable;  inappropriate; unfitting; unbecoming.", "S": ["afield", "afoul", "badly", "erringly", "erroneously", "faultily", "improperly", "inappropriately", "incorrectly", "mistakenly", "out of turn", "unfavorably"], "A": ["good", "right", "well"]}

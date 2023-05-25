@@ -1,1 +1,1 @@
-{"index": 79281, "D": "lacking some element or characteristic; defective", "S": ["partially "], "A": []}
+{"index": 79281, "D": "lacking some element or characteristic; defective", "S": ["partially"], "A": []}

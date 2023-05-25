@@ -1,1 +1,1 @@
-{"index": 128072, "D": "blood that is shed, especially when clotted.", "S": ["gouge ", "impale ", "lance ", "perforate ", "puncture ", "spear ", "stab ", "stick ", "wound "], "A": []}
+{"index": 128072, "D": "blood that is shed, especially when clotted.", "S": ["gouge", "impale", "lance", "perforate", "puncture", "spear", "stab", "stick", "wound"], "A": []}

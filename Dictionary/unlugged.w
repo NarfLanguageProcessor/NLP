@@ -1,1 +1,0 @@
-{"index": 345840, "D": "to pull or carry with force or effort", "S": [], "A": []}

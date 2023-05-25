@@ -1,1 +1,1 @@
-{"index": 161670, "D": "something said or done to provoke laughter or cause amusement, as a witticism, a short and amusing anecdote, or a prankish act", "S": ["banter ", "laugh ", "quip "], "A": ["compliment ", "flatter ", "praise "]}
+{"index": 161670, "D": "something said or done to provoke laughter or cause amusement, as a witticism, a short and amusing anecdote, or a prankish act", "S": ["banter", "laugh", "quip"], "A": ["compliment", "flatter", "praise"]}

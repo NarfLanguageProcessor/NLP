@@ -1,1 +1,1 @@
-{"index": 68779, "D": "a small, round, or very broad boat made of wickerwork or interwoven laths covered with a waterproof layer of animal skin, canvas, tarred or oiled cloth, or the like", "S": ["kayak ", "outrigger "], "A": []}
+{"index": 68779, "D": "a small, round, or very broad boat made of wickerwork or interwoven laths covered with a waterproof layer of animal skin, canvas, tarred or oiled cloth, or the like", "S": ["kayak", "outrigger"], "A": []}

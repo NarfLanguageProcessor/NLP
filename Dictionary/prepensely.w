@@ -1,1 +1,1 @@
-{"index": 248796, "D": [], "S": ["consciously ", "knowingly ", "pointedly ", "purposely ", "studiously ", "voluntarily ", "willfully "], "A": ["unintentionally ", "unwittingly "]}
+{"index": 248796, "D": [], "S": ["consciously", "knowingly", "pointedly", "purposely", "studiously", "voluntarily", "willfully"], "A": ["unintentionally", "unwittingly"]}

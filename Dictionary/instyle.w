@@ -1,1 +1,1 @@
-{"index": 153896, "D": [], "S": ["all the rage ", "chic ", "current ", "faddy ", "fashionable ", "hot ", "in vogue ", "latest ", "now ", "popular ", "stylish ", "trendy "], "A": []}
+{"index": 153896, "D": [], "S": ["all the rage", "chic", "current", "faddy", "fashionable", "hot", "in vogue", "latest", "now", "popular", "stylish", "trendy"], "A": []}

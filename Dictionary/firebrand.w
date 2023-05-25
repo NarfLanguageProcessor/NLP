@@ -1,1 +1,1 @@
-{"index": 113128, "D": "a piece of burning wood or other material.", "S": ["demonstrator ", "guerrilla ", "instigator ", "malcontent ", "protester ", "rabble-rouser ", "rebel ", "revolutionist ", "troublemaker "], "A": []}
+{"index": 113128, "D": "a piece of burning wood or other material.", "S": ["demonstrator", "guerrilla", "instigator", "malcontent", "protester", "rabble-rouser", "rebel", "revolutionist", "troublemaker"], "A": []}

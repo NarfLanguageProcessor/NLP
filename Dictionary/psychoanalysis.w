@@ -1,1 +1,1 @@
-{"index": 255299, "D": "a systematic structure of theories concerning the relation of conscious and unconscious psychological processes.", "S": ["analysis ", "therapy "], "A": []}
+{"index": 255299, "D": "a systematic structure of theories concerning the relation of conscious and unconscious psychological processes.", "S": ["analysis", "therapy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 6599, "D": "a malarial fever characterized by regularly returning paroxysms, marked by successive cold, hot, and sweating fits.", "S": ["fever ", "malaria "], "A": []}
+{"index": 6599, "D": "a malarial fever characterized by regularly returning paroxysms, marked by successive cold, hot, and sweating fits.", "S": ["fever", "malaria"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 281545, "D": "to climb or move quickly using one's hands and feet, as down a rough incline.", "S": ["chaotic ", "disorganized ", "jumbled ", "undisciplined "], "A": ["ordered ", "organized ", "systematic "]}
+{"index": 281545, "D": "to climb or move quickly using one's hands and feet, as down a rough incline.", "S": ["chaotic", "disorganized", "jumbled", "undisciplined"], "A": ["ordered", "organized", "systematic"]}

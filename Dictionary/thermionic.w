@@ -1,1 +1,1 @@
-{"index": 321353, "D": "a thermionic valve", "S": ["computerized "], "A": []}
+{"index": 321353, "D": "a thermionic valve", "S": ["computerized"], "A": []}

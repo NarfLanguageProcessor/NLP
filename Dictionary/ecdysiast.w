@@ -1,1 +1,1 @@
-{"index": 95159, "D": "stripper (def. 3). ", "S": ["bump-and-grinder ", "burlesque queen ", "exotic dancer ", "lap dancer ", "peeler ", "stripper ", "striptease artist ", "striptease dancer ", "stripteaser ", "stripteuse "], "A": []}
+{"index": 95159, "D": "stripper (def. 3). ", "S": ["bump-and-grinder", "burlesque queen", "exotic dancer", "lap dancer", "peeler", "stripper", "striptease artist", "striptease dancer", "stripteaser", "stripteuse"], "A": []}

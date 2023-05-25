@@ -1,1 +1,1 @@
-{"index": 105438, "D": "a genus of green freshwater protozoans having a reddish eyespot and a single flagellum, found especially in stagnant waters.", "S": ["ameba ", "amoeba ", "cell ", "ciliate ", "flagellate ", "organism ", "paramecium ", "plasmodium ", "sporozoan ", "stentor "], "A": []}
+{"index": 105438, "D": "a genus of green freshwater protozoans having a reddish eyespot and a single flagellum, found especially in stagnant waters.", "S": ["ameba", "amoeba", "cell", "ciliate", "flagellate", "organism", "paramecium", "plasmodium", "sporozoan", "stentor"], "A": []}

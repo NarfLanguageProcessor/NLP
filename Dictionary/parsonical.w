@@ -1,1 +1,1 @@
-{"index": 226914, "D": "a member of the clergy, especially a Protestant minister; pastor; rector.", "S": ["ecclesiastical ", "ministerial ", "monastic ", "pastoral ", "rabbinical "], "A": []}
+{"index": 226914, "D": "a member of the clergy, especially a Protestant minister; pastor; rector.", "S": ["ecclesiastical", "ministerial", "monastic", "pastoral", "rabbinical"], "A": []}

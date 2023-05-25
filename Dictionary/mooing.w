@@ -1,1 +1,1 @@
-{"index": 193002, "D": "to utter the characteristic deep sound of a cow; low.", "S": ["bark ", "cheer ", "exclaim ", "growl ", "grunt ", "holler ", "howl ", "scream ", "shout ", "shriek ", "whoop ", "yell "], "A": ["be quiet "]}
+{"index": 193002, "D": "to utter the characteristic deep sound of a cow; low.", "S": ["bark", "cheer", "exclaim", "growl", "grunt", "holler", "howl", "scream", "shout", "shriek", "whoop", "yell"], "A": ["be quiet"]}

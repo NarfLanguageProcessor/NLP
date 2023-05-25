@@ -1,1 +1,1 @@
-{"index": 208481, "D": "(used in negative phrases, especially after neither, to introduce the second member in a series, or any subsequent member)", "S": ["neither ", "nor yet ", "not any ", "not either ", "not one "], "A": []}
+{"index": 208481, "D": "(used in negative phrases, especially after neither, to introduce the second member in a series, or any subsequent member)", "S": ["neither", "nor yet", "not any", "not either", "not one"], "A": []}

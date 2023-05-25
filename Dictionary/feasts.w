@@ -1,1 +1,1 @@
-{"index": 110639, "D": "any rich or abundant meal", "S": ["barbecue ", "dinner ", "festival ", "festivity ", "fiesta ", "gala ", "picnic ", "repast "], "A": []}
+{"index": 110639, "D": "any rich or abundant meal", "S": ["barbecue", "dinner", "festival", "festivity", "fiesta", "gala", "picnic", "repast"], "A": []}

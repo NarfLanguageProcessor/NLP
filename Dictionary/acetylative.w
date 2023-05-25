@@ -1,0 +1,1 @@
+{"index": 2057, "D": "to introduce one or more acetyl  groups into (a compound).", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 288753, "D": "a simple past tense and past participle of shine1. ", "S": ["beam ", "blink ", "burn ", "dazzle ", "flash ", "flicker ", "glare ", "gleam ", "glisten ", "glitter ", "glow ", "illuminate ", "radiate ", "shimmer ", "sparkle ", "twinkle "], "A": ["darken ", "dull "]}
+{"index": 288753, "D": "a simple past tense and past participle of shine1. ", "S": ["beam", "blink", "burn", "dazzle", "flash", "flicker", "glare", "gleam", "glisten", "glitter", "glow", "illuminate", "radiate", "shimmer", "sparkle", "twinkle"], "A": ["darken", "dull"]}

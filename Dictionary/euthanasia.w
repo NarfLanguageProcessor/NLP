@@ -1,1 +1,1 @@
-{"index": 105884, "D": "the act of putting to death painlessly or allowing to die, as by withholding extreme medical measures, a person or animal suffering from an incurable, especially a painful, disease or condition.", "S": ["assisted suicide ", "putting out of misery "], "A": []}
+{"index": 105884, "D": "the act of putting to death painlessly or allowing to die, as by withholding extreme medical measures, a person or animal suffering from an incurable, especially a painful, disease or condition.", "S": ["assisted suicide", "putting out of misery"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 35878, "D": "foolish, voluble talk", "S": ["babble ", "blather ", "chat ", "chatter ", "clack ", "confabulate ", "gab ", "gossip ", "jabber ", "jaw ", "prate ", "prattle ", "run on ", "tattle ", "yammer "], "A": []}
+{"index": 35878, "D": "foolish, voluble talk", "S": ["babble", "blather", "chat", "chatter", "clack", "confabulate", "gab", "gossip", "jabber", "jaw", "prate", "prattle", "run on", "tattle", "yammer"], "A": []}

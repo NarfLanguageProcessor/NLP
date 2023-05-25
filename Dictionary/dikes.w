@@ -1,1 +1,1 @@
-{"index": 85647, "D": "an embankment for controlling or holding back the waters of the sea or a river", "S": ["barrier ", "ditch ", "dyke ", "levee "], "A": []}
+{"index": 85647, "D": "an embankment for controlling or holding back the waters of the sea or a river", "S": ["barrier", "ditch", "dyke", "levee"], "A": []}

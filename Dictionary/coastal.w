@@ -1,1 +1,1 @@
-{"index": 61087, "D": "of, relating to, bordering on, or located near a coast", "S": ["marshy ", "seaside "], "A": []}
+{"index": 61087, "D": "of, relating to, bordering on, or located near a coast", "S": ["marshy", "seaside"], "A": []}

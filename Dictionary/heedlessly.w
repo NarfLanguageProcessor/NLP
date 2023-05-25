@@ -1,1 +1,1 @@
-{"index": 135265, "D": "careless; thoughtless; unmindful", "S": ["foolishly ", "impulsively ", "passionately ", "recklessly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}
+{"index": 135265, "D": "careless; thoughtless; unmindful", "S": ["foolishly", "impulsively", "passionately", "recklessly"], "A": ["carefully", "cautiously", "considerately", "purposely", "reasonably", "sensibly"]}

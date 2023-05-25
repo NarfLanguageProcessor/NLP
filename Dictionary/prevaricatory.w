@@ -1,1 +1,1 @@
-{"index": 250137, "D": "to speak falsely or misleadingly; deliberately misstate or create an incorrect impression; lie.", "S": ["cagey ", "crafty ", "shrewd ", "slippery ", "sneaky ", "tricky ", "wily "], "A": ["aboveboard ", "frank ", "honest ", "naive "]}
+{"index": 250137, "D": "to speak falsely or misleadingly; deliberately misstate or create an incorrect impression; lie.", "S": ["cagey", "crafty", "shrewd", "slippery", "sneaky", "tricky", "wily"], "A": ["aboveboard", "frank", "honest", "naive"]}

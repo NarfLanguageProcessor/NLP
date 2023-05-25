@@ -1,1 +1,0 @@
-{"index": 337343, "D": "possessing the qualities of a good companion;  pleasant to be with; congenial.", "S": ["discouraging ", "frigid ", "icy ", "wintry "], "A": ["hot ", "warm ", "extroverted ", "friendly ", "kind ", "outgoing ", "sociable "]}

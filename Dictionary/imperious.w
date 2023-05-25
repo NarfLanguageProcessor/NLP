@@ -1,1 +1,1 @@
-{"index": 148558, "D": "domineering in a haughty manner; dictatorial; overbearing", "S": ["arrogant ", "autocratic ", "dictatorial ", "domineering ", "exacting ", "haughty ", "high-handed ", "tyrannical "], "A": ["democratic ", "humble ", "meek "]}
+{"index": 148558, "D": "domineering in a haughty manner; dictatorial; overbearing", "S": ["arrogant", "autocratic", "dictatorial", "domineering", "exacting", "haughty", "high-handed", "tyrannical"], "A": ["democratic", "humble", "meek"]}

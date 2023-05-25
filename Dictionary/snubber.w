@@ -1,1 +1,1 @@
-{"index": 295880, "D": "to treat with disdain or contempt, especially by ignoring.", "S": ["insufficient ", "limited ", "meager ", "scant ", "slight "], "A": ["adequate ", "big ", "fat ", "large ", "sufficient ", "giant ", "huge ", "lengthy ", "long ", "older ", "substantial ", "tall "]}
+{"index": 295880, "D": "to treat with disdain or contempt, especially by ignoring.", "S": ["insufficient", "limited", "meager", "scant", "slight"], "A": ["adequate", "big", "fat", "large", "sufficient", "giant", "huge", "lengthy", "long", "older", "substantial", "tall"]}

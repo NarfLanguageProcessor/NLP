@@ -1,1 +1,1 @@
-{"index": 258549, "D": "quietness or stillness; inactivity or dormancy", "S": ["calm ", "dormancy ", "inaction ", "inactivity ", "quiet ", "rest "], "A": ["action "]}
+{"index": 258549, "D": "quietness or stillness; inactivity or dormancy", "S": ["calm", "dormancy", "inaction", "inactivity", "quiet", "rest"], "A": ["action"]}

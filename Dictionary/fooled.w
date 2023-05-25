@@ -1,1 +1,1 @@
-{"index": 116095, "D": "a silly or stupid person; a person who lacks judgment or sense.", "S": ["bamboozled ", "conned ", "deceived ", "deluded ", "duped ", "misled ", "snowed "], "A": ["clear ", "cognizant "]}
+{"index": 116095, "D": "a silly or stupid person; a person who lacks judgment or sense.", "S": ["bamboozled", "conned", "deceived", "deluded", "duped", "misled", "snowed"], "A": ["clear", "cognizant"]}

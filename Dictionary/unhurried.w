@@ -1,1 +1,1 @@
-{"index": 343943, "D": "not hurried;  leisurely; deliberate", "S": ["easygoing ", "laid-back ", "measured ", "nonchalant "], "A": ["nervous "]}
+{"index": 343943, "D": "not hurried;  leisurely; deliberate", "S": ["easygoing", "laid-back", "measured", "nonchalant"], "A": ["nervous"]}

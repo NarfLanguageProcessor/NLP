@@ -1,1 +1,0 @@
-{"index": 178343, "D": "bad or unsatisfactory distribution,  as of wealth, among a population or members of a group.", "S": [], "A": []}

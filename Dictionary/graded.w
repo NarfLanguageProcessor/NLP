@@ -1,1 +1,1 @@
-{"index": 128531, "D": "a degree or step in a scale, as of rank, advancement, quality, value, or intensity", "S": ["classified ", "grouped ", "indexed ", "ordered ", "ranked "], "A": []}
+{"index": 128531, "D": "a degree or step in a scale, as of rank, advancement, quality, value, or intensity", "S": ["classified", "grouped", "indexed", "ordered", "ranked"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 296200, "D": "a person with a psychopathic personality whose behavior is antisocial,  often criminal, and who lacks a sense of moral responsibility or social conscience.", "S": ["lunatic "], "A": []}
+{"index": 296200, "D": "a person with a psychopathic personality whose behavior is antisocial,  often criminal, and who lacks a sense of moral responsibility or social conscience.", "S": ["lunatic"], "A": []}

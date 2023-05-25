@@ -1,1 +1,1 @@
-{"index": 296418, "D": "the portion of the earth's surface consisting of disintegrated rock and humus.", "S": ["sullied "], "A": []}
+{"index": 296418, "D": "the portion of the earth's surface consisting of disintegrated rock and humus.", "S": ["sullied"], "A": []}

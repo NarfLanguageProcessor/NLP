@@ -1,1 +1,0 @@
-{"index": 255334, "D": "a method of group psychotherapy in which participants take roles in improvisational dramatizations of emotionally charged situations.", "S": [], "A": []}

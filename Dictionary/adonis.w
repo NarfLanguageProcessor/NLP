@@ -1,1 +1,1 @@
-{"index": 4290, "D": "a youth slain by a wild boar but permitted by Zeus to pass four months every year in the lower world with Persephone, four with Aphrodite, and four wherever he chose.", "S": ["vision "], "A": ["frump ", "schlump "]}
+{"index": 4290, "D": "a youth slain by a wild boar but permitted by Zeus to pass four months every year in the lower world with Persephone, four with Aphrodite, and four wherever he chose.", "S": ["vision"], "A": ["frump", "schlump"]}

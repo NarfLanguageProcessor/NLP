@@ -1,0 +1,1 @@
+{"index": 38071, "D": "given or devoted to reading or study.", "S": ["brainy", "studious"], "A": ["ignorant", "stupid", "unschooled"]}

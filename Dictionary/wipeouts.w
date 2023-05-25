@@ -1,1 +1,1 @@
-{"index": 366316, "D": "destruction, annihilation, or murder.", "S": ["collapse ", "crash ", "destruction ", "dive ", "downfall ", "drop ", "spill ", "tumble "], "A": ["ascent ", "increase ", "rise ", "success "]}
+{"index": 366316, "D": "destruction, annihilation, or murder.", "S": ["collapse", "crash", "destruction", "dive", "downfall", "drop", "spill", "tumble"], "A": ["ascent", "increase", "rise", "success"]}

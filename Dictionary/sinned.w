@@ -1,1 +1,1 @@
-{"index": 291850, "D": "transgression of divine law", "S": ["backslide ", "cheat ", "deviate ", "err ", "fall ", "lapse ", "misbehave ", "misconduct ", "offend ", "stray ", "transgress ", "trespass ", "wander "], "A": ["behave ", "obey ", "stay "]}
+{"index": 291850, "D": "transgression of divine law", "S": ["backslide", "cheat", "deviate", "err", "fall", "lapse", "misbehave", "misconduct", "offend", "stray", "transgress", "trespass", "wander"], "A": ["behave", "obey", "stay"]}

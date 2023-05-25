@@ -1,1 +1,1 @@
-{"index": 72625, "D": "any of the open spaces between the merlons of a battlement.", "S": ["incision ", "indentation "], "A": ["increase "]}
+{"index": 72625, "D": "any of the open spaces between the merlons of a battlement.", "S": ["incision", "indentation"], "A": ["increase"]}

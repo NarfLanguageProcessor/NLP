@@ -1,1 +1,1 @@
-{"index": 152957, "D": "to decorate (an object) with layers  of fine materials set in its surface", "S": ["decorate "], "A": []}
+{"index": 152957, "D": "to decorate (an object) with layers  of fine materials set in its surface", "S": ["decorate"], "A": []}

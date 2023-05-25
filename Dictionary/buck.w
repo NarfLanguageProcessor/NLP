@@ -1,1 +1,1 @@
-{"index": 42021, "D": "the male of the deer, antelope, rabbit, hare, sheep, or goat.", "S": ["bull "], "A": []}
+{"index": 42021, "D": "the male of the deer, antelope, rabbit, hare, sheep, or goat.", "S": ["bull"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 76288, "D": "a reverie indulged in while awake.", "S": ["reverie ", "woolgathering "], "A": ["concentration "]}
+{"index": 76288, "D": "a reverie indulged in while awake.", "S": ["reverie", "woolgathering"], "A": ["concentration"]}

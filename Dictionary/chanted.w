@@ -1,1 +1,1 @@
-{"index": 52538, "D": "a short, simple melody, especially one characterized by single notes to which an indefinite number of syllables are intoned, used in singing psalms, canticles, etc., in church services.", "S": ["intone ", "recite ", "shout "], "A": []}
+{"index": 52538, "D": "a short, simple melody, especially one characterized by single notes to which an indefinite number of syllables are intoned, used in singing psalms, canticles, etc., in church services.", "S": ["intone", "recite", "shout"], "A": []}

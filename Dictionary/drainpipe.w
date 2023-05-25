@@ -1,1 +1,1 @@
-{"index": 92632, "D": "a large pipe  that carries away the discharge of waste pipes,  soil pipes,  etc.", "S": ["gutter ", "septic tank ", "sewage system "], "A": []}
+{"index": 92632, "D": "a large pipe  that carries away the discharge of waste pipes,  soil pipes,  etc.", "S": ["gutter", "septic tank", "sewage system"], "A": []}

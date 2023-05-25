@@ -1,1 +1,1 @@
-{"index": 304294, "D": "a person or thing that sticks. ", "S": ["company ", "design ", "logo ", "number ", "stamp ", "sticker ", "tag ", "trademark "], "A": []}
+{"index": 304294, "D": "a person or thing that sticks. ", "S": ["company", "design", "logo", "number", "stamp", "sticker", "tag", "trademark"], "A": []}

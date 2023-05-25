@@ -1,1 +1,1 @@
-{"index": 197516, "D": "deep and wide enough to provide passage to ships", "S": ["passable "], "A": []}
+{"index": 197516, "D": "deep and wide enough to provide passage to ships", "S": ["passable"], "A": []}

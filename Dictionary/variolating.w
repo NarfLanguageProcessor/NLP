@@ -1,1 +1,1 @@
-{"index": 357265, "D": [], "S": ["immunize ", "inject ", "inoculate ", "protect ", "treat "], "A": ["harm ", "hurt ", "injure "]}
+{"index": 357265, "D": [], "S": ["immunize", "inject", "inoculate", "protect", "treat"], "A": ["harm", "hurt", "injure"]}

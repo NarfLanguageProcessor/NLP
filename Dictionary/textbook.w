@@ -1,1 +1,1 @@
-{"index": 320377, "D": "a book  used by students as a standard work for a particular branch of study.", "S": ["workbook "], "A": []}
+{"index": 320377, "D": "a book  used by students as a standard work for a particular branch of study.", "S": ["workbook"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 56694, "D": "of or appropriate for the church  or a church;  ecclesiastical", "S": ["churchlike ", "churchy ", "ecclesiastic ", "ecclesiastical ", "holy ", "religious "], "A": []}
+{"index": 56694, "D": "of or appropriate for the church  or a church;  ecclesiastical", "S": ["churchlike", "churchy", "ecclesiastic", "ecclesiastical", "holy", "religious"], "A": []}

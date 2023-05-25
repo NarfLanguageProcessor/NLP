@@ -1,1 +1,1 @@
-{"index": 139234, "D": "Compare tallboy, lowboy. ", "S": ["chiffonier ", "commode ", "desk ", "dresser ", "sideboard "], "A": []}
+{"index": 139234, "D": "Compare tallboy, lowboy. ", "S": ["chiffonier", "commode", "desk", "dresser", "sideboard"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 39301, "D": "a container, case, or receptacle, usually rectangular, of wood, metal, cardboard, etc., and often with a lid or removable cover.", "S": ["blockish ", "boxy ", "chunky ", "compact ", "heavyset ", "solid ", "squat ", "stubby ", "stumpy ", "thick ", "thickset "], "A": []}
+{"index": 39301, "D": "a container, case, or receptacle, usually rectangular, of wood, metal, cardboard, etc., and often with a lid or removable cover.", "S": ["blockish", "boxy", "chunky", "compact", "heavyset", "solid", "squat", "stubby", "stumpy", "thick", "thickset"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98375, "D": "to bring into discord or conflict; involve in contention or strife.", "S": ["altercation ", "argument ", "brawl ", "clash ", "conflict ", "dispute ", "fight ", "fray ", "quarrel ", "spat ", "squabble ", "tiff "], "A": ["agreement ", "concord ", "harmony ", "peace "]}
+{"index": 98375, "D": "to bring into discord or conflict; involve in contention or strife.", "S": ["altercation", "argument", "brawl", "clash", "conflict", "dispute", "fight", "fray", "quarrel", "spat", "squabble", "tiff"], "A": ["agreement", "concord", "harmony", "peace"]}

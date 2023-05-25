@@ -1,1 +1,1 @@
-{"index": 101847, "D": "to picture mentally, especially some future event or events", "S": ["likely ", "predicted ", "proposed ", "scheduled "], "A": []}
+{"index": 101847, "D": "to picture mentally, especially some future event or events", "S": ["likely", "predicted", "proposed", "scheduled"], "A": []}

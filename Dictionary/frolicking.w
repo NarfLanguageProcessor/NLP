@@ -1,1 +1,1 @@
-{"index": 119289, "D": "merry play; merriment; gaiety; fun.", "S": ["fling "], "A": ["hastening ", "hurrying ", "push ", "rush "]}
+{"index": 119289, "D": "merry play; merriment; gaiety; fun.", "S": ["fling"], "A": ["hastening", "hurrying", "push", "rush"]}

@@ -1,1 +1,1 @@
-{"index": 36817, "D": "somewhat blue. ", "S": ["cerulean "], "A": []}
+{"index": 36817, "D": "somewhat blue. ", "S": ["cerulean"], "A": []}

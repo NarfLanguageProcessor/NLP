@@ -1,1 +1,0 @@
-{"index": 219842, "D": "to introduce industry  into (an area) on a large scale.", "S": [], "A": []}

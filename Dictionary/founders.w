@@ -1,1 +1,1 @@
-{"index": 117932, "D": "a person who founds  or establishes something, as a company or institution.", "S": ["architect ", "author ", "benefactor ", "builder ", "creator ", "designer ", "inventor ", "organizer ", "patron ", "planner "], "A": ["opponent "]}
+{"index": 117932, "D": "a person who founds  or establishes something, as a company or institution.", "S": ["architect", "author", "benefactor", "builder", "creator", "designer", "inventor", "organizer", "patron", "planner"], "A": ["opponent"]}

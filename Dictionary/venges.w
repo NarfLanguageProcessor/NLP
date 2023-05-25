@@ -1,1 +1,1 @@
-{"index": 358079, "D": "to avenge. ", "S": ["vindicate "], "A": ["cheer ", "comfort ", "encourage ", "forgive "]}
+{"index": 358079, "D": "to avenge. ", "S": ["vindicate"], "A": ["cheer", "comfort", "encourage", "forgive"]}

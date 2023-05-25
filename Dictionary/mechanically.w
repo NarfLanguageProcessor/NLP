@@ -1,1 +1,1 @@
-{"index": 181873, "D": "having to do with machinery", "S": ["regularly ", "unchangeably ", "unreasoningly "], "A": []}
+{"index": 181873, "D": "having to do with machinery", "S": ["regularly", "unchangeably", "unreasoningly"], "A": []}

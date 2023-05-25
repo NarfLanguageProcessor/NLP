@@ -1,1 +1,1 @@
-{"index": 9389, "D": "a mountain climber, especially in the Alps. ", "S": ["climber ", "mountaineer ", "rock climber "], "A": []}
+{"index": 9389, "D": "a mountain climber, especially in the Alps. ", "S": ["climber", "mountaineer", "rock climber"], "A": []}

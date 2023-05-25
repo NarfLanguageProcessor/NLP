@@ -1,1 +1,1 @@
-{"index": 119318, "D": "a rebel; rioter.", "S": ["demonstrator ", "mutineer ", "radical ", "revolutionary ", "rioter "], "A": []}
+{"index": 119318, "D": "a rebel; rioter.", "S": ["demonstrator", "mutineer", "radical", "revolutionary", "rioter"], "A": []}

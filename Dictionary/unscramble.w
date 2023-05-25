@@ -1,1 +1,1 @@
-{"index": 350531, "D": "to bring out of a scrambled  condition; reduce to order or intelligibility.", "S": ["adjust ", "correct ", "fix ", "remedy ", "repair ", "unravel ", "untangle "], "A": ["break ", "destroy ", "disarrange ", "disorganize ", "hurt ", "injure ", "spoil ", "tangle "]}
+{"index": 350531, "D": "to bring out of a scrambled  condition; reduce to order or intelligibility.", "S": ["adjust", "correct", "fix", "remedy", "repair", "unravel", "untangle"], "A": ["break", "destroy", "disarrange", "disorganize", "hurt", "injure", "spoil", "tangle"]}

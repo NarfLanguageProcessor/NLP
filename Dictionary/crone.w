@@ -1,1 +1,1 @@
-{"index": 73653, "D": "a withered, witchlike old woman.", "S": ["beldam ", "hag ", "woman "], "A": []}
+{"index": 73653, "D": "a withered, witchlike old woman.", "S": ["beldam", "hag", "woman"], "A": []}

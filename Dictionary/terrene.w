@@ -1,1 +1,1 @@
-{"index": 319539, "D": "earthly; worldly. ", "S": ["tellurian ", "telluric ", "terrestrial "], "A": []}
+{"index": 319539, "D": "earthly; worldly. ", "S": ["tellurian", "telluric", "terrestrial"], "A": []}

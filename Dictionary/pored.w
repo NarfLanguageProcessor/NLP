@@ -1,1 +1,1 @@
-{"index": 243385, "D": "to read or study with steady attention or application", "S": ["foramen ", "opening ", "orifice ", "outlet ", "stoma ", "vesicle "], "A": []}
+{"index": 243385, "D": "to read or study with steady attention or application", "S": ["foramen", "opening", "orifice", "outlet", "stoma", "vesicle"], "A": []}

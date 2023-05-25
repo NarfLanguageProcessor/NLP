@@ -1,1 +1,1 @@
-{"index": 64256, "D": "to converse or talk together, usually with profound intensity, intimacy, etc.; interchange thoughts or feelings.", "S": ["intimacy ", "rapport ", "togetherness "], "A": ["unfriendliness ", "antagonism ", "disagreement ", "discord ", "opposition "]}
+{"index": 64256, "D": "to converse or talk together, usually with profound intensity, intimacy, etc.; interchange thoughts or feelings.", "S": ["intimacy", "rapport", "togetherness"], "A": ["unfriendliness", "antagonism", "disagreement", "discord", "opposition"]}

@@ -1,1 +1,1 @@
-{"index": 275368, "D": "a tough, lawless person; roughneck; bully.", "S": ["delinquent ", "goon "], "A": []}
+{"index": 275368, "D": "a tough, lawless person; roughneck; bully.", "S": ["delinquent", "goon"], "A": []}

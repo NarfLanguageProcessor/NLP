@@ -1,1 +1,1 @@
-{"index": 99459, "D": "to form a circle about; encircle; surround", "S": ["beset ", "circle ", "compass ", "encircle ", "enclose ", "envelop ", "environ ", "gird ", "girdle ", "ring "], "A": ["free ", "let go ", "release ", "unloose "]}
+{"index": 99459, "D": "to form a circle about; encircle; surround", "S": ["beset", "circle", "compass", "encircle", "enclose", "envelop", "environ", "gird", "girdle", "ring"], "A": ["free", "let go", "release", "unloose"]}

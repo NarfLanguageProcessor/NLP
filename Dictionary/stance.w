@@ -1,1 +1,1 @@
-{"index": 302632, "D": "the position or bearing of the body while standing", "S": ["attitude ", "posture ", "stand ", "viewpoint "], "A": []}
+{"index": 302632, "D": "the position or bearing of the body while standing", "S": ["attitude", "posture", "stand", "viewpoint"], "A": []}

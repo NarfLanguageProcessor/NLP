@@ -1,1 +1,1 @@
-{"index": 313659, "D": "to take a general or comprehensive view of or appraise, as a situation, area of study, etc.", "S": ["analysis ", "audit ", "check ", "inquiry ", "inspection ", "review ", "sample ", "study "], "A": ["ignorance ", "neglect ", "negligence "]}
+{"index": 313659, "D": "to take a general or comprehensive view of or appraise, as a situation, area of study, etc.", "S": ["analysis", "audit", "check", "inquiry", "inspection", "review", "sample", "study"], "A": ["ignorance", "neglect", "negligence"]}

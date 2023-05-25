@@ -1,1 +1,1 @@
-{"index": 60245, "D": "a loose outer garment, as a cape or coat.", "S": ["veiled "], "A": []}
+{"index": 60245, "D": "a loose outer garment, as a cape or coat.", "S": ["veiled"], "A": []}

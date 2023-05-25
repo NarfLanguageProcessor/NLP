@@ -1,1 +1,1 @@
-{"index": 67627, "D": "to distinguish by contrasting opposite qualities.", "S": ["assess ", "discern ", "distinguish between ", "evaluate ", "narrow down ", "segregate ", "specify "], "A": ["combine ", "join ", "misinterpret ", "misunderstand ", "neglect ", "unite "]}
+{"index": 67627, "D": "to distinguish by contrasting opposite qualities.", "S": ["assess", "discern", "distinguish between", "evaluate", "narrow down", "segregate", "specify"], "A": ["combine", "join", "misinterpret", "misunderstand", "neglect", "unite"]}

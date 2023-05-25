@@ -1,1 +1,1 @@
-{"index": 153823, "D": "the quality or state of being unstable; lack of stability or firmness.", "S": ["anxiety ", "fluctuation ", "insecurity ", "uncertainty ", "volatility ", "vulnerability ", "weakness "], "A": ["calm "]}
+{"index": 153823, "D": "the quality or state of being unstable; lack of stability or firmness.", "S": ["anxiety", "fluctuation", "insecurity", "uncertainty", "volatility", "vulnerability", "weakness"], "A": ["calm"]}

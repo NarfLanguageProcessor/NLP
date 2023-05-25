@@ -1,1 +1,1 @@
-{"index": 30821, "D": "at or toward the rear of", "S": ["trailing "], "A": ["front ", "paid "]}
+{"index": 30821, "D": "at or toward the rear of", "S": ["trailing"], "A": ["front", "paid"]}

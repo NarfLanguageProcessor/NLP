@@ -1,1 +1,1 @@
-{"index": 365195, "D": "a composition, as of lime  and water or of whiting, size,  and water, used for whitening walls, woodwork, etc.", "S": ["cover up ", "gloss over "], "A": ["accuse ", "blame ", "condemn ", "reveal ", "sentence ", "show ", "strip ", "uncover "]}
+{"index": 365195, "D": "a composition, as of lime  and water or of whiting, size,  and water, used for whitening walls, woodwork, etc.", "S": ["cover up", "gloss over"], "A": ["accuse", "blame", "condemn", "reveal", "sentence", "show", "strip", "uncover"]}

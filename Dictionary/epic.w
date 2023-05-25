@@ -1,1 +1,1 @@
-{"index": 102213, "D": "noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style", "S": ["legend ", "narrative ", "tale "], "A": ["short story "]}
+{"index": 102213, "D": "noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style", "S": ["legend", "narrative", "tale"], "A": ["short story"]}

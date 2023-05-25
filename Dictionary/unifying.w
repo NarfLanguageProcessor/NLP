@@ -1,1 +1,1 @@
-{"index": 344116, "D": "to make or become a single unit; unite", "S": ["comprehensive "], "A": []}
+{"index": 344116, "D": "to make or become a single unit; unite", "S": ["comprehensive"], "A": []}

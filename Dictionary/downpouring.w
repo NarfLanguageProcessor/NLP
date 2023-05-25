@@ -1,1 +1,1 @@
-{"index": 92289, "D": [], "S": ["drench ", "pour ", "spray ", "sprinkle "], "A": ["collect ", "gather "]}
+{"index": 92289, "D": [], "S": ["drench", "pour", "spray", "sprinkle"], "A": ["collect", "gather"]}

@@ -1,1 +1,0 @@
-{"index": 313841, "D": "(formerly) a person who followed an army or maintained a store on an army post to sell provisions to the soldiers.", "S": [], "A": []}

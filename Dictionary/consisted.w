@@ -1,1 +1,1 @@
-{"index": 66853, "D": "to be made up or composed (usually followed by of)", "S": ["dwell ", "subsist "], "A": ["energize ", "move ", "stand "]}
+{"index": 66853, "D": "to be made up or composed (usually followed by of)", "S": ["dwell", "subsist"], "A": ["energize", "move", "stand"]}

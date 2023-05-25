@@ -1,1 +1,1 @@
-{"index": 361800, "D": "to carry lightly and smoothly through the air or over water", "S": ["blasted ", "fanned ", "fluttered ", "puffed ", "whirled ", "whisked "], "A": []}
+{"index": 361800, "D": "to carry lightly and smoothly through the air or over water", "S": ["blasted", "fanned", "fluttered", "puffed", "whirled", "whisked"], "A": []}

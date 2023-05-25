@@ -1,1 +1,1 @@
-{"index": 79011, "D": "having, requiring, or operating in deep water", "S": ["box ", "corner ", "difficulty ", "dilemma ", "fix ", "hole ", "hot water ", "jam ", "mess ", "pickle ", "plight ", "problem ", "quagmire ", "quandary ", "scrape ", "trouble "], "A": []}
+{"index": 79011, "D": "having, requiring, or operating in deep water", "S": ["box", "corner", "difficulty", "dilemma", "fix", "hole", "hot water", "jam", "mess", "pickle", "plight", "problem", "quagmire", "quandary", "scrape", "trouble"], "A": []}

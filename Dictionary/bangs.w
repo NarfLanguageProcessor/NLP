@@ -1,1 +1,1 @@
-{"index": 27439, "D": "U.S. humorist.", "S": ["crew cut ", "hairdo ", "hairstyle "], "A": []}
+{"index": 27439, "D": "U.S. humorist.", "S": ["crew cut", "hairdo", "hairstyle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 252355, "D": "the fact of being done, delivered, etc., at once or without delay", "S": ["agility ", "preparation ", "punctuality ", "quickness ", "readiness ", "speed ", "swiftness "], "A": []}
+{"index": 252355, "D": "the fact of being done, delivered, etc., at once or without delay", "S": ["agility", "preparation", "punctuality", "quickness", "readiness", "speed", "swiftness"], "A": []}

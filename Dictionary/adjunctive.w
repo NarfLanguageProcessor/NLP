@@ -1,0 +1,1 @@
+{"index": 4048, "D": "forming an adjunct. ", "S": ["ancillary"], "A": ["chief", "different", "dissimilar", "important", "independent", "major", "necessary", "unrelated"]}

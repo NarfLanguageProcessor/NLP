@@ -1,1 +1,1 @@
-{"index": 112888, "D": "a person or thing that finds.", "S": ["acquirer ", "appropriator ", "claimant ", "discoverer ", "spotter "], "A": ["loser ", "owner ", "stray "]}
+{"index": 112888, "D": "a person or thing that finds.", "S": ["acquirer", "appropriator", "claimant", "discoverer", "spotter"], "A": ["loser", "owner", "stray"]}

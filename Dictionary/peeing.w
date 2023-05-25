@@ -1,1 +1,1 @@
-{"index": 229023, "D": "the letter p.", "S": ["micturate ", "tinkle "], "A": []}
+{"index": 229023, "D": "the letter p.", "S": ["micturate", "tinkle"], "A": []}

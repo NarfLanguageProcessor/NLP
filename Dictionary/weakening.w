@@ -1,1 +1,1 @@
-{"index": 363455, "D": "to make weak  or weaker. ", "S": ["collapsing ", "decreasing ", "descending ", "lowering ", "plunging ", "sliding ", "tumbling "], "A": ["improving ", "increasing ", "rising "]}
+{"index": 363455, "D": "to make weak  or weaker. ", "S": ["collapsing", "decreasing", "descending", "lowering", "plunging", "sliding", "tumbling"], "A": ["improving", "increasing", "rising"]}

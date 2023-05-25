@@ -1,1 +1,1 @@
-{"index": 165520, "D": "simple past tense of know1. ", "S": ["appreciate ", "experience ", "have ", "learn ", "notice ", "perceive ", "realize ", "recognize ", "see "], "A": ["ignore ", "miss ", "misunderstand ", "neglect ", "overlook ", "confuse ", "mix up "]}
+{"index": 165520, "D": "simple past tense of know1. ", "S": ["appreciate", "experience", "have", "learn", "notice", "perceive", "realize", "recognize", "see"], "A": ["ignore", "miss", "misunderstand", "neglect", "overlook", "confuse", "mix up"]}

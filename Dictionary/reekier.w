@@ -1,1 +1,1 @@
-{"index": 264605, "D": "a strong, unpleasant smell.", "S": ["evil-smelling ", "fetid ", "foul ", "foul-smelling ", "funky ", "high ", "malodorous ", "mephitic ", "noisome ", "olid ", "putrid ", "rancid ", "rank ", "reeking ", "stinking ", "strong ", "strong-smelling ", "whiffy "], "A": []}
+{"index": 264605, "D": "a strong, unpleasant smell.", "S": ["evil-smelling", "fetid", "foul", "foul-smelling", "funky", "high", "malodorous", "mephitic", "noisome", "olid", "putrid", "rancid", "rank", "reeking", "stinking", "strong", "strong-smelling", "whiffy"], "A": []}

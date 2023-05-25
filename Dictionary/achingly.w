@@ -1,1 +1,1 @@
-{"index": 2284, "D": "causing physical pain or distress", "S": ["sorely "], "A": []}
+{"index": 2284, "D": "causing physical pain or distress", "S": ["sorely"], "A": []}

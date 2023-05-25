@@ -1,1 +1,1 @@
-{"index": 83155, "D": "capable of being determined. ", "S": ["ascertainable ", "assayable ", "deductive ", "discoverable ", "judicable ", "measurable ", "provable "], "A": []}
+{"index": 83155, "D": "capable of being determined. ", "S": ["ascertainable", "assayable", "deductive", "discoverable", "judicable", "measurable", "provable"], "A": []}

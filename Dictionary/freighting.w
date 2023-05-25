@@ -1,1 +1,1 @@
-{"index": 118707, "D": "goods, cargo, or lading transported for pay, whether by water, land, or air.", "S": ["consignment ", "distribution ", "shipment ", "transmission "], "A": ["capture ", "confinement ", "hold ", "imprisonment ", "keeping ", "quiet ", "restraint ", "retention ", "secrecy "]}
+{"index": 118707, "D": "goods, cargo, or lading transported for pay, whether by water, land, or air.", "S": ["consignment", "distribution", "shipment", "transmission"], "A": ["capture", "confinement", "hold", "imprisonment", "keeping", "quiet", "restraint", "retention", "secrecy"]}

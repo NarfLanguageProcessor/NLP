@@ -1,1 +1,1 @@
-{"index": 92253, "D": "down  the slope of a hill;  downward.", "S": ["falling "], "A": []}
+{"index": 92253, "D": "down  the slope of a hill;  downward.", "S": ["falling"], "A": []}

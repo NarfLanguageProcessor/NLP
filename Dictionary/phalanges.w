@@ -1,1 +1,0 @@
-{"index": 232833, "D": "a plural of phalanx. ", "S": ["appendage ", "fist ", "grip ", "palm "], "A": ["foot "]}

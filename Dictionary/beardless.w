@@ -1,1 +1,1 @@
-{"index": 29533, "D": "having no beard  or one shaved close to the skin.", "S": ["bald ", "clean-shaven "], "A": ["furry ", "hairy ", "hirsute "]}
+{"index": 29533, "D": "having no beard  or one shaved close to the skin.", "S": ["bald", "clean-shaven"], "A": ["furry", "hairy", "hirsute"]}

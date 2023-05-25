@@ -1,1 +1,1 @@
-{"index": 183195, "D": "to commemorate.", "S": ["remembered "], "A": ["dishonored "]}
+{"index": 183195, "D": "to commemorate.", "S": ["remembered"], "A": ["dishonored"]}

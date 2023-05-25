@@ -1,1 +1,1 @@
-{"index": 27785, "D": "the place of business of a barber. ", "S": ["beauty parlor ", "beauty salon "], "A": []}
+{"index": 27785, "D": "the place of business of a barber. ", "S": ["beauty parlor", "beauty salon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197933, "D": "needlework. ", "S": ["tailoring "], "A": []}
+{"index": 197933, "D": "needlework. ", "S": ["tailoring"], "A": []}

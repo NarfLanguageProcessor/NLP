@@ -1,1 +1,1 @@
-{"index": 153484, "D": "a substance or preparation for driving off insects. ", "S": ["insect repellent "], "A": []}
+{"index": 153484, "D": "a substance or preparation for driving off insects. ", "S": ["insect repellent"], "A": []}

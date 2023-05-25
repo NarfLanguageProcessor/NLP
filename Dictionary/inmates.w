@@ -1,1 +1,1 @@
-{"index": 152993, "D": "a person who is confined in a prison, hospital, etc.", "S": ["convict ", "prisoner "], "A": []}
+{"index": 152993, "D": "a person who is confined in a prison, hospital, etc.", "S": ["convict", "prisoner"], "A": []}

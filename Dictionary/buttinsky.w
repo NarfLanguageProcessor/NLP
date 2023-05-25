@@ -1,1 +1,1 @@
-{"index": 43729, "D": "a person who interferes in the affairs of others; meddler.", "S": ["busybody ", "gossip ", "kibitzer "], "A": []}
+{"index": 43729, "D": "a person who interferes in the affairs of others; meddler.", "S": ["busybody", "gossip", "kibitzer"], "A": []}

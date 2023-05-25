@@ -1,1 +1,1 @@
-{"index": 258269, "D": "the state, office, or dignity of a queen. ", "S": ["absolute monarchy ", "kingship ", "limited monarchy ", "monarchical government "], "A": []}
+{"index": 258269, "D": "the state, office, or dignity of a queen. ", "S": ["absolute monarchy", "kingship", "limited monarchy", "monarchical government"], "A": []}

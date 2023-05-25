@@ -1,1 +1,1 @@
-{"index": 18809, "D": "made, covered, or spanned with an arch  or arches. ", "S": ["curved ", "domed ", "rounded "], "A": []}
+{"index": 18809, "D": "made, covered, or spanned with an arch  or arches. ", "S": ["curved", "domed", "rounded"], "A": []}

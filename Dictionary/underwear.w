@@ -1,1 +1,1 @@
-{"index": 340098, "D": "clothing worn  next to the skin under outer clothes.", "S": ["bikini ", "bra ", "corset ", "lingerie ", "shorts ", "undergarment ", "underpants ", "undershirt "], "A": []}
+{"index": 340098, "D": "clothing worn  next to the skin under outer clothes.", "S": ["bikini", "bra", "corset", "lingerie", "shorts", "undergarment", "underpants", "undershirt"], "A": []}

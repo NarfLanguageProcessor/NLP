@@ -1,1 +1,1 @@
-{"index": 151202, "D": "not divisible; not separable into parts; incapable of being divided", "S": ["inseparable ", "unified "], "A": []}
+{"index": 151202, "D": "not divisible; not separable into parts; incapable of being divided", "S": ["inseparable", "unified"], "A": []}

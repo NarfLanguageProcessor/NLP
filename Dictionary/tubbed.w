@@ -1,1 +1,1 @@
-{"index": 331851, "D": "a bathtub. ", "S": ["clean ", "dip ", "douse ", "immerse ", "rinse ", "scour ", "scrub ", "soak ", "steep ", "submerge ", "wet "], "A": ["dehydrate ", "dirty ", "dry ", "ignore "]}
+{"index": 331851, "D": "a bathtub. ", "S": ["clean", "dip", "douse", "immerse", "rinse", "scour", "scrub", "soak", "steep", "submerge", "wet"], "A": ["dehydrate", "dirty", "dry", "ignore"]}

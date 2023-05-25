@@ -1,1 +1,1 @@
-{"index": 24950, "D": "to wake up; rouse from sleep", "S": ["alive ", "attentive ", "aware ", "cognizant ", "vigilant "], "A": ["ignorant ", "inattentive ", "unaware "]}
+{"index": 24950, "D": "to wake up; rouse from sleep", "S": ["alive", "attentive", "aware", "cognizant", "vigilant"], "A": ["ignorant", "inattentive", "unaware"]}

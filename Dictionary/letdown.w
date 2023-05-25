@@ -1,1 +1,1 @@
-{"index": 170879, "D": "a decrease in volume, force, energy, etc.", "S": ["anticlimax ", "comedown ", "setback "], "A": ["boon ", "boost ", "triumph "]}
+{"index": 170879, "D": "a decrease in volume, force, energy, etc.", "S": ["anticlimax", "comedown", "setback"], "A": ["boon", "boost", "triumph"]}

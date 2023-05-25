@@ -1,1 +1,1 @@
-{"index": 96596, "D": "an act or instance of ejecting. ", "S": ["banishment ", "elimination ", "eviction ", "ouster ", "removal "], "A": ["welcoming ", "employment ", "hiring ", "retention "]}
+{"index": 96596, "D": "an act or instance of ejecting. ", "S": ["banishment", "elimination", "eviction", "ouster", "removal"], "A": ["welcoming", "employment", "hiring", "retention"]}

@@ -1,1 +1,1 @@
-{"index": 60291, "D": "in the direction of the rotation of the hands of a clock  as viewed from the front or above; circularly to the right from a point taken as the top.", "S": ["revolving "], "A": []}
+{"index": 60291, "D": "in the direction of the rotation of the hands of a clock  as viewed from the front or above; circularly to the right from a point taken as the top.", "S": ["revolving"], "A": []}

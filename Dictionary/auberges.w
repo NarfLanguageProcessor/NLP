@@ -1,1 +1,1 @@
-{"index": 23222, "D": "an inn; hostel.", "S": ["hostel ", "house ", "inn ", "lodging ", "motel ", "resort ", "tavern "], "A": []}
+{"index": 23222, "D": "an inn; hostel.", "S": ["hostel", "house", "inn", "lodging", "motel", "resort", "tavern"], "A": []}

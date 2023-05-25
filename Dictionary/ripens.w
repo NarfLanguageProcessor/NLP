@@ -1,1 +1,1 @@
-{"index": 273158, "D": "to make or become ripe. ", "S": ["age ", "mellow "], "A": []}
+{"index": 273158, "D": "to make or become ripe. ", "S": ["age", "mellow"], "A": []}

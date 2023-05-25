@@ -1,1 +1,1 @@
-{"index": 365373, "D": "a person who engages in sex acts for money; prostitute. ", "S": ["adultery "], "A": []}
+{"index": 365373, "D": "a person who engages in sex acts for money; prostitute. ", "S": ["adultery"], "A": []}

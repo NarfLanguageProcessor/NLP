@@ -1,1 +1,1 @@
-{"index": 60352, "D": "causing or tending to cause disgust or aversion through excess", "S": ["gooey ", "saccharine ", "sappy ", "sentimental ", "sugary ", "syrupy "], "A": []}
+{"index": 60352, "D": "causing or tending to cause disgust or aversion through excess", "S": ["gooey", "saccharine", "sappy", "sentimental", "sugary", "syrupy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 275892, "D": "a cattle thief.", "S": ["bum ", "panhandler ", "vagabond "], "A": []}
+{"index": 275892, "D": "a cattle thief.", "S": ["bum", "panhandler", "vagabond"], "A": []}

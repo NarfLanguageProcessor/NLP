@@ -1,0 +1,1 @@
+{"index": 5523, "D": "a native or inhabitant of Afghanistan. ", "S": ["blanket", "covering", "throw"], "A": []}

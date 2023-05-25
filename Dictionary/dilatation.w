@@ -1,1 +1,1 @@
-{"index": 85685, "D": "a dilated formation or part.", "S": ["delay ", "development ", "expansion ", "increase ", "postponement "], "A": ["decrease ", "base ", "body ", "lessening ", "shortening ", "subtraction "]}
+{"index": 85685, "D": "a dilated formation or part.", "S": ["delay", "development", "expansion", "increase", "postponement"], "A": ["decrease", "base", "body", "lessening", "shortening", "subtraction"]}

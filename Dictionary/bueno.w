@@ -1,1 +1,1 @@
-{"index": 42211, "D": "good; all right.", "S": ["admirable ", "commendable ", "estimable ", "excellent ", "honorable ", "laudable ", "meritorious ", "sterling ", "typical "], "A": ["bad ", "dishonorable ", "poor ", "unworthy "]}
+{"index": 42211, "D": "good; all right.", "S": ["admirable", "commendable", "estimable", "excellent", "honorable", "laudable", "meritorious", "sterling", "typical"], "A": ["bad", "dishonorable", "poor", "unworthy"]}

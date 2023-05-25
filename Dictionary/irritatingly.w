@@ -1,1 +1,1 @@
-{"index": 158486, "D": "causing irritation; annoying; provoking; irritating questions.", "S": ["agonizingly ", "awkwardly ", "disturbingly ", "excruciatingly ", "restlessly ", "uneasily "], "A": []}
+{"index": 158486, "D": "causing irritation; annoying; provoking; irritating questions.", "S": ["agonizingly", "awkwardly", "disturbingly", "excruciatingly", "restlessly", "uneasily"], "A": []}

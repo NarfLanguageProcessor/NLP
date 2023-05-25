@@ -1,1 +1,1 @@
-{"index": 45839, "D": "a person who camps out for recreation, especially in the wilderness.", "S": ["RV ", "Winnebago "], "A": []}
+{"index": 45839, "D": "a person who camps out for recreation, especially in the wilderness.", "S": ["RV", "Winnebago"], "A": []}

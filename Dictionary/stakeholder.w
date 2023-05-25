@@ -1,1 +1,1 @@
-{"index": 302463, "D": "the holder  of the stakes  of a wager.", "S": ["collaborator ", "colleague ", "partner ", "shareholder "], "A": []}
+{"index": 302463, "D": "the holder  of the stakes  of a wager.", "S": ["collaborator", "colleague", "partner", "shareholder"], "A": []}

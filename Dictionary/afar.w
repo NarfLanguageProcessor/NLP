@@ -1,1 +1,1 @@
-{"index": 5268, "D": "from, at, or to a distance; far away (usually followed by off)", "S": ["far away ", "far off ", "yonder "], "A": ["close ", "near "]}
+{"index": 5268, "D": "from, at, or to a distance; far away (usually followed by off)", "S": ["far away", "far off", "yonder"], "A": ["close", "near"]}

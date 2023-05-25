@@ -1,1 +1,1 @@
-{"index": 274854, "D": "a person or thing that rounds  something.", "S": ["boor ", "bounder ", "clown ", "creep ", "cur ", "dog ", "heel ", "louse ", "lout ", "rake ", "rascal ", "rat ", "rotter ", "scoundrel ", "stinker ", "worm "], "A": ["gentleman ", "helper "]}
+{"index": 274854, "D": "a person or thing that rounds  something.", "S": ["boor", "bounder", "clown", "creep", "cur", "dog", "heel", "louse", "lout", "rake", "rascal", "rat", "rotter", "scoundrel", "stinker", "worm"], "A": ["gentleman", "helper"]}

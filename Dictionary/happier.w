@@ -1,1 +1,1 @@
-{"index": 133514, "D": "delighted, pleased, or glad, as over a particular thing", "S": ["more fortunate "], "A": []}
+{"index": 133514, "D": "delighted, pleased, or glad, as over a particular thing", "S": ["more fortunate"], "A": []}

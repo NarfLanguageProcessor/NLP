@@ -1,1 +1,1 @@
-{"index": 48722, "D": "the act of fashioning or producing by cutting into or shaping solid material, as wood.", "S": ["laceration "], "A": ["closing ", "closure ", "solid "]}
+{"index": 48722, "D": "the act of fashioning or producing by cutting into or shaping solid material, as wood.", "S": ["laceration"], "A": ["closing", "closure", "solid"]}

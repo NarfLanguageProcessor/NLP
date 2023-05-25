@@ -1,1 +1,1 @@
-{"index": 82884, "D": "the rule of a despot;  the exercise of absolute authority.", "S": ["authoritarianism ", "autocracy ", "tyranny "], "A": ["democracy "]}
+{"index": 82884, "D": "the rule of a despot;  the exercise of absolute authority.", "S": ["authoritarianism", "autocracy", "tyranny"], "A": ["democracy"]}

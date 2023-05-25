@@ -1,1 +1,1 @@
-{"index": 260035, "D": "a fencelike barrier composed of one or more horizontal rails supported by widely spaced uprights; balustrade. ", "S": ["barrier ", "fence ", "pole ", "rail ", "rails ", "siding "], "A": []}
+{"index": 260035, "D": "a fencelike barrier composed of one or more horizontal rails supported by widely spaced uprights; balustrade. ", "S": ["barrier", "fence", "pole", "rail", "rails", "siding"], "A": []}

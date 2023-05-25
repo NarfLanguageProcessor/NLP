@@ -1,1 +1,0 @@
-{"index": 341345, "D": "ready to undertake projects of importance or difficulty, or untried schemes; energetic in carrying out any undertaking", "S": [], "A": []}

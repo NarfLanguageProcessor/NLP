@@ -1,1 +1,1 @@
-{"index": 278895, "D": "a small, round, shallow dish to hold a cup.", "S": ["basin ", "dish ", "pot ", "urn "], "A": []}
+{"index": 278895, "D": "a small, round, shallow dish to hold a cup.", "S": ["basin", "dish", "pot", "urn"], "A": []}

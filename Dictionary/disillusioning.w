@@ -1,1 +1,1 @@
-{"index": 88360, "D": "to free from or deprive of illusion,  belief, idealism, etc.; disenchant. ", "S": ["disappoint ", "embitter "], "A": ["make happy "]}
+{"index": 88360, "D": "to free from or deprive of illusion,  belief, idealism, etc.; disenchant. ", "S": ["disappoint", "embitter"], "A": ["make happy"]}

@@ -1,1 +1,1 @@
-{"index": 365638, "D": "to move or go with short, quick, irregular movements from side to side", "S": ["jerk ", "jiggle ", "shimmy ", "squirm ", "twist ", "twitch ", "wag ", "waggle ", "wave ", "wriggle ", "writhe "], "A": []}
+{"index": 365638, "D": "to move or go with short, quick, irregular movements from side to side", "S": ["jerk", "jiggle", "shimmy", "squirm", "twist", "twitch", "wag", "waggle", "wave", "wriggle", "writhe"], "A": []}

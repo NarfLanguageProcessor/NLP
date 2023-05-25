@@ -1,1 +1,1 @@
-{"index": 196465, "D": "of or relating to nacre. ", "S": ["lustrous ", "pearly ", "shimmering "], "A": []}
+{"index": 196465, "D": "of or relating to nacre. ", "S": ["lustrous", "pearly", "shimmering"], "A": []}

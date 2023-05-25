@@ -1,1 +1,1 @@
-{"index": 275933, "D": "without pity or compassion; cruel; merciless", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}
+{"index": 275933, "D": "without pity or compassion; cruel; merciless", "S": ["ferociously", "fiercely", "mercilessly", "relentlessly", "savagely", "viciously"], "A": ["gently", "humanely", "kindly", "nicely"]}

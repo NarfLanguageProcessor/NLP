@@ -1,1 +1,1 @@
-{"index": 289860, "D": "a walk,  especially a paved one, at the side  of a street or road.", "S": ["path ", "track "], "A": []}
+{"index": 289860, "D": "a walk,  especially a paved one, at the side  of a street or road.", "S": ["path", "track"], "A": []}

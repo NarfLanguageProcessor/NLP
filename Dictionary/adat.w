@@ -1,0 +1,1 @@
+{"index": 3487, "D": "the traditional law of Indonesia and Malaysia.", "S": [], "A": []}

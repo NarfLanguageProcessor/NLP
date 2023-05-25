@@ -1,1 +1,1 @@
-{"index": 40141, "D": "strong, well-developed muscles.", "S": ["beef ", "clout ", "energy ", "flesh ", "kick ", "meat ", "might ", "moxie ", "muscle ", "muscularity ", "power ", "punch ", "robustness ", "sinews ", "sock ", "steam ", "vigor "], "A": ["idleness ", "impotence ", "powerlessness "]}
+{"index": 40141, "D": "strong, well-developed muscles.", "S": ["beef", "clout", "energy", "flesh", "kick", "meat", "might", "moxie", "muscle", "muscularity", "power", "punch", "robustness", "sinews", "sock", "steam", "vigor"], "A": ["idleness", "impotence", "powerlessness"]}

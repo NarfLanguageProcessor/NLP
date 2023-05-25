@@ -1,1 +1,0 @@
-{"index": 259329, "D": "noting or pertaining to any of various organic compounds in which racemism occurs.", "S": [], "A": []}

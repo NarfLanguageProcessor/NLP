@@ -1,1 +1,1 @@
-{"index": 162793, "D": "KO. ", "S": ["technical knockout "], "A": []}
+{"index": 162793, "D": "KO. ", "S": ["technical knockout"], "A": []}

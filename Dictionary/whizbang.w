@@ -1,1 +1,1 @@
-{"index": 365260, "D": "a small, high-speed shell whose sound as it flies through the air arrives almost at the same instant as its explosion.", "S": ["capital ", "champion ", "fine ", "fly ", "top "], "A": ["lousy ", "terrible "]}
+{"index": 365260, "D": "a small, high-speed shell whose sound as it flies through the air arrives almost at the same instant as its explosion.", "S": ["capital", "champion", "fine", "fly", "top"], "A": ["lousy", "terrible"]}

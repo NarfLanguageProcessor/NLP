@@ -1,1 +1,1 @@
-{"index": 36725, "D": "a person who wears a coat  or uniform that is blue. ", "S": ["bobby ", "constable ", "cop ", "detective ", "flatfoot ", "officer ", "patrolman ", "policeman ", "policewoman "], "A": []}
+{"index": 36725, "D": "a person who wears a coat  or uniform that is blue. ", "S": ["bobby", "constable", "cop", "detective", "flatfoot", "officer", "patrolman", "policeman", "policewoman"], "A": []}

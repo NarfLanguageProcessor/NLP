@@ -1,1 +1,1 @@
-{"index": 64444, "D": "an instrument for determining directions, as by means of a freely rotating magnetized needle that indicates magnetic north.", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 64444, "D": "an instrument for determining directions, as by means of a freely rotating magnetized needle that indicates magnetic north.", "S": ["belted", "bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

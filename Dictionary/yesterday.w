@@ -1,1 +1,1 @@
-{"index": 146935, "D": "on the day preceding this day.", "S": ["bygone ", "past "], "A": ["tomorrow "]}
+{"index": 146935, "D": "on the day preceding this day.", "S": ["bygone", "past"], "A": ["tomorrow"]}

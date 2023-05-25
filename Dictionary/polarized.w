@@ -1,1 +1,1 @@
-{"index": 241494, "D": "of or relating to a medium that exhibits polarization.", "S": ["contradictory "], "A": []}
+{"index": 241494, "D": "of or relating to a medium that exhibits polarization.", "S": ["contradictory"], "A": []}

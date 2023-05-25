@@ -1,1 +1,1 @@
-{"index": 25916, "D": "to relapse into bad habits, sinful behavior, or undesirable activities.", "S": ["apostatize ", "deviate ", "lapse ", "relapse ", "revert ", "sin ", "slip "], "A": ["progress "]}
+{"index": 25916, "D": "to relapse into bad habits, sinful behavior, or undesirable activities.", "S": ["apostatize", "deviate", "lapse", "relapse", "revert", "sin", "slip"], "A": ["progress"]}

@@ -1,1 +1,0 @@
-{"index": 235349, "D": "photograph. ", "S": ["cartoon ", "decoration ", "depiction ", "engraving ", "etching ", "image ", "painting ", "photograph ", "picture ", "sketch ", "snapshot ", "vignette "], "A": []}

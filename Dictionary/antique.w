@@ -1,0 +1,1 @@
+{"index": 16009, "D": "of or belonging to the past; not modern.", "S": ["ancient"], "A": ["young"]}

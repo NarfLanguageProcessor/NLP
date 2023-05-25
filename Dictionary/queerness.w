@@ -1,1 +1,1 @@
-{"index": 258283, "D": "strange or odd from a conventional viewpoint; unusually different; singular", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}
+{"index": 258283, "D": "strange or odd from a conventional viewpoint; unusually different; singular", "S": ["foible", "idiosyncrasy", "peculiarity", "quirk", "weirdness"], "A": ["conformity", "normalcy", "normality", "regularity", "sameness", "standard", "usualness"]}

@@ -1,1 +1,1 @@
-{"index": 96019, "D": "capable of having the desired result or effect; effective  as a means, measure, remedy, etc.", "S": ["effective ", "effectual ", "productive "], "A": ["impotent ", "incapable ", "unproductive ", "useless ", "weak "]}
+{"index": 96019, "D": "capable of having the desired result or effect; effective  as a means, measure, remedy, etc.", "S": ["effective", "effectual", "productive"], "A": ["impotent", "incapable", "unproductive", "useless", "weak"]}

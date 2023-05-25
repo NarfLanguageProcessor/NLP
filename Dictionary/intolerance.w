@@ -1,1 +1,1 @@
-{"index": 156349, "D": "lack of tolerance;  unwillingness or refusal to tolerate or respect opinions or beliefs contrary to one's own.", "S": ["bigotry ", "prejudice "], "A": ["fairness ", "tolerance "]}
+{"index": 156349, "D": "lack of tolerance;  unwillingness or refusal to tolerate or respect opinions or beliefs contrary to one's own.", "S": ["bigotry", "prejudice"], "A": ["fairness", "tolerance"]}

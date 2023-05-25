@@ -1,1 +1,1 @@
-{"index": 3583, "D": [], "S": ["bewilderment ", "disorientation ", "distraction ", "embarrassment ", "turbulence ", "turmoil "], "A": ["calm ", "peace ", "calmness ", "happiness "]}
+{"index": 3583, "D": [], "S": ["bewilderment", "disorientation", "distraction", "embarrassment", "turbulence", "turmoil"], "A": ["calm", "peace", "calmness", "happiness"]}

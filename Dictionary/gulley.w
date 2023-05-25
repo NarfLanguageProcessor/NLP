@@ -1,1 +1,1 @@
-{"index": 131202, "D": "gully1 (defs. 1, 2). ", "S": ["arroyo ", "channel ", "cut ", "ditch ", "gap ", "gorge ", "trench ", "valley "], "A": []}
+{"index": 131202, "D": "gully1 (defs. 1, 2). ", "S": ["arroyo", "channel", "cut", "ditch", "gap", "gorge", "trench", "valley"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 79211, "D": "resistance against attack; protection", "S": ["avoidance reaction ", "bunker atmosphere ", "bunker mentality ", "defense mechanism ", "ego defenses ", "negative taxis ", "negative tropism ", "psychological defenses "], "A": []}
+{"index": 79211, "D": "resistance against attack; protection", "S": ["avoidance reaction", "bunker atmosphere", "bunker mentality", "defense mechanism", "ego defenses", "negative taxis", "negative tropism", "psychological defenses"], "A": []}

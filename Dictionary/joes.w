@@ -1,1 +1,1 @@
-{"index": 161525, "D": "a fit of depression", "S": ["caffeine ", "cappuccino ", "espresso "], "A": []}
+{"index": 161525, "D": "a fit of depression", "S": ["caffeine", "cappuccino", "espresso"], "A": []}

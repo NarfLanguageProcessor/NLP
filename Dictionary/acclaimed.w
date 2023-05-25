@@ -1,1 +1,1 @@
-{"index": 1581, "D": "to welcome or salute with shouts or sounds of joy and approval; applaud", "S": ["renowned "], "A": []}
+{"index": 1581, "D": "to welcome or salute with shouts or sounds of joy and approval; applaud", "S": ["renowned"], "A": []}

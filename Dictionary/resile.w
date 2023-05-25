@@ -1,1 +1,1 @@
-{"index": 269411, "D": "to spring back; rebound; resume the original form or position, as an elastic body.", "S": ["bound ", "bump ", "carom ", "hop ", "jump ", "leap ", "rebound ", "ricochet "], "A": []}
+{"index": 269411, "D": "to spring back; rebound; resume the original form or position, as an elastic body.", "S": ["bound", "bump", "carom", "hop", "jump", "leap", "rebound", "ricochet"], "A": []}

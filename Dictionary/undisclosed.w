@@ -1,1 +1,1 @@
-{"index": 340462, "D": "an undisclosed sum", "S": ["confidential ", "hidden "], "A": ["disclosed "]}
+{"index": 340462, "D": "an undisclosed sum", "S": ["confidential", "hidden"], "A": ["disclosed"]}

@@ -1,1 +1,1 @@
-{"index": 292313, "D": "(in India, Pakistan, and Afghanistan) a military chief or leader.", "S": ["commandant ", "commander "], "A": []}
+{"index": 292313, "D": "(in India, Pakistan, and Afghanistan) a military chief or leader.", "S": ["commandant", "commander"], "A": []}

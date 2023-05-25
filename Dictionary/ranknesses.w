@@ -1,1 +1,1 @@
-{"index": 260609, "D": "a number of persons forming a separate class in a social hierarchy or in any graded body.", "S": ["atrociousness ", "atrocity ", "boldness ", "brazenness ", "enormity ", "grossness ", "noticeableness ", "outrageousness "], "A": []}
+{"index": 260609, "D": "a number of persons forming a separate class in a social hierarchy or in any graded body.", "S": ["atrociousness", "atrocity", "boldness", "brazenness", "enormity", "grossness", "noticeableness", "outrageousness"], "A": []}

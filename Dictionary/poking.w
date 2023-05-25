@@ -1,1 +1,1 @@
-{"index": 241438, "D": "to prod or push, especially with something narrow or pointed, as a finger, elbow, stick, etc.", "S": ["analytical ", "nosy "], "A": ["incurious ", "indifferent ", "unconcerned ", "uninterested "]}
+{"index": 241438, "D": "to prod or push, especially with something narrow or pointed, as a finger, elbow, stick, etc.", "S": ["analytical", "nosy"], "A": ["incurious", "indifferent", "unconcerned", "uninterested"]}

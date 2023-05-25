@@ -1,1 +1,1 @@
-{"index": 85966, "D": "a reduction or concealment of night lighting in wartime to make the source less visible to an enemy from the air or sea.", "S": ["blackout ", "brownout ", "disruption ", "interruption "], "A": []}
+{"index": 85966, "D": "a reduction or concealment of night lighting in wartime to make the source less visible to an enemy from the air or sea.", "S": ["blackout", "brownout", "disruption", "interruption"], "A": []}

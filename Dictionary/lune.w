@@ -1,1 +1,1 @@
-{"index": 176202, "D": "anything shaped like a crescent or a half moon.", "S": ["bow ", "curve ", "half-moon ", "meniscus ", "sickle "], "A": []}
+{"index": 176202, "D": "anything shaped like a crescent or a half moon.", "S": ["bow", "curve", "half-moon", "meniscus", "sickle"], "A": []}

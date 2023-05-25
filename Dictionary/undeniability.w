@@ -1,1 +1,1 @@
-{"index": 338735, "D": [], "S": ["essential ", "fundamental ", "obligation ", "precondition ", "prerequisite ", "requirement ", "urgency "], "A": ["auxiliary ", "extra ", "trivia "]}
+{"index": 338735, "D": [], "S": ["essential", "fundamental", "obligation", "precondition", "prerequisite", "requirement", "urgency"], "A": ["auxiliary", "extra", "trivia"]}

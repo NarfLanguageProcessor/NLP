@@ -1,1 +1,1 @@
-{"index": 304175, "D": "a brand of felt hat with a broad brim and high crown, especially one worn as part of a cowboy's outfit.", "S": ["ten-gallon hat "], "A": []}
+{"index": 304175, "D": "a brand of felt hat with a broad brim and high crown, especially one worn as part of a cowboy's outfit.", "S": ["ten-gallon hat"], "A": []}

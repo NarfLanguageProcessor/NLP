@@ -1,1 +1,1 @@
-{"index": 328670, "D": "a lever or the like worked by continual action of the foot to impart motion to a machine.", "S": ["crowbar ", "pedal ", "tool "], "A": []}
+{"index": 328670, "D": "a lever or the like worked by continual action of the foot to impart motion to a machine.", "S": ["crowbar", "pedal", "tool"], "A": []}

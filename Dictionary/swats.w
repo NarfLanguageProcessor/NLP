@@ -1,1 +1,1 @@
-{"index": 314191, "D": "sweet, new beer or ale.", "S": ["clobber ", "knock ", "slap ", "slug ", "smack ", "smash ", "whack "], "A": ["lose ", "surrender ", "tap "]}
+{"index": 314191, "D": "sweet, new beer or ale.", "S": ["clobber", "knock", "slap", "slug", "smack", "smash", "whack"], "A": ["lose", "surrender", "tap"]}

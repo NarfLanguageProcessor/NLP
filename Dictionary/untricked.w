@@ -1,1 +1,0 @@
-{"index": 353344, "D": "a crafty or underhanded device, maneuver, stratagem, or the like, intended to deceive or cheat; artifice; ruse; wile.", "S": [], "A": []}

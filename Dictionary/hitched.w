@@ -1,1 +1,1 @@
-{"index": 141952, "D": "to fasten or tie, especially temporarily, by means of a hook, rope, strap, etc.; tether", "S": ["established ", "hooked ", "immovable ", "locked ", "rigid ", "settled ", "tight "], "A": ["insecure ", "loose ", "movable ", "moving ", "unfixed ", "unstable "]}
+{"index": 141952, "D": "to fasten or tie, especially temporarily, by means of a hook, rope, strap, etc.; tether", "S": ["established", "hooked", "immovable", "locked", "rigid", "settled", "tight"], "A": ["insecure", "loose", "movable", "moving", "unfixed", "unstable"]}

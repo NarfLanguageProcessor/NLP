@@ -1,1 +1,1 @@
-{"index": 221627, "D": "overtired and overworked", "S": ["exhausted ", "listless ", "weary "], "A": ["energetic ", "fresh ", "lively ", "untired ", "invigorated ", "unused "]}
+{"index": 221627, "D": "overtired and overworked", "S": ["exhausted", "listless", "weary"], "A": ["energetic", "fresh", "lively", "untired", "invigorated", "unused"]}

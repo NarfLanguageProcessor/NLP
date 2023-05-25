@@ -1,1 +1,1 @@
-{"index": 194899, "D": "to perform the Mules operation on (a sheep)", "S": ["cross ", "crossbreed ", "cur ", "hybrid ", "mixture ", "mule ", "mutt "], "A": []}
+{"index": 194899, "D": "to perform the Mules operation on (a sheep)", "S": ["cross", "crossbreed", "cur", "hybrid", "mixture", "mule", "mutt"], "A": []}

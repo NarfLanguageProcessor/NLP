@@ -1,1 +1,1 @@
-{"index": 78436, "D": "to speak aloud in an oratorical manner; make a formal speech", "S": ["recite "], "A": ["be quiet ", "compliment ", "praise "]}
+{"index": 78436, "D": "to speak aloud in an oratorical manner; make a formal speech", "S": ["recite"], "A": ["be quiet", "compliment", "praise"]}

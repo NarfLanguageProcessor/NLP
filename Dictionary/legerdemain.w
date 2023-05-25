@@ -1,1 +1,1 @@
-{"index": 170075, "D": "sleight of hand.", "S": ["artfulness ", "chicanery ", "conjuring ", "craftiness ", "cunning ", "deceit ", "deception ", "hocus-pocus ", "manipulation ", "trickery "], "A": ["frankness ", "honesty ", "openness ", "truth ", "truthfulness ", "uprightness "]}
+{"index": 170075, "D": "sleight of hand.", "S": ["artfulness", "chicanery", "conjuring", "craftiness", "cunning", "deceit", "deception", "hocus-pocus", "manipulation", "trickery"], "A": ["frankness", "honesty", "openness", "truth", "truthfulness", "uprightness"]}

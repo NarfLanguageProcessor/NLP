@@ -1,1 +1,0 @@
-{"index": 232849, "D": "Phalangist leaders", "S": [], "A": []}

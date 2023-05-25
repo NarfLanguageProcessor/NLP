@@ -1,1 +1,1 @@
-{"index": 245008, "D": "having or exerting great power  or force.", "S": ["effectively ", "energetically ", "forcefully ", "intensely ", "strongly ", "vigorously "], "A": ["softly ", "weakly "]}
+{"index": 245008, "D": "having or exerting great power  or force.", "S": ["effectively", "energetically", "forcefully", "intensely", "strongly", "vigorously"], "A": ["softly", "weakly"]}

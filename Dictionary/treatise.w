@@ -1,1 +1,1 @@
-{"index": 328728, "D": "a formal and systematic exposition in writing of the principles of a subject, generally longer and more detailed than an essay.", "S": ["commentary ", "discourse ", "dissertation ", "essay ", "memoir ", "monograph ", "pamphlet ", "thesis "], "A": []}
+{"index": 328728, "D": "a formal and systematic exposition in writing of the principles of a subject, generally longer and more detailed than an essay.", "S": ["commentary", "discourse", "dissertation", "essay", "memoir", "monograph", "pamphlet", "thesis"], "A": []}

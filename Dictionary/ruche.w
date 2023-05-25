@@ -1,1 +1,1 @@
-{"index": 275242, "D": "a strip of pleated lace, net, muslin, or other material for trimming or finishing a dress, as at the collar or sleeves.", "S": ["pleat "], "A": ["line "]}
+{"index": 275242, "D": "a strip of pleated lace, net, muslin, or other material for trimming or finishing a dress, as at the collar or sleeves.", "S": ["pleat"], "A": ["line"]}

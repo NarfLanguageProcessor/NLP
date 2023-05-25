@@ -1,1 +1,1 @@
-{"index": 41932, "D": "a drinking fountain that spouts water.", "S": ["water fountain "], "A": []}
+{"index": 41932, "D": "a drinking fountain that spouts water.", "S": ["water fountain"], "A": []}

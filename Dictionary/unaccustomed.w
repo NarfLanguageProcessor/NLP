@@ -1,1 +1,1 @@
-{"index": 334486, "D": "not accustomed  or habituated", "S": ["ignorant ", "uninformed "], "A": ["accustomed ", "customary ", "normal ", "prepared ", "ready ", "usual "]}
+{"index": 334486, "D": "not accustomed  or habituated", "S": ["ignorant", "uninformed"], "A": ["accustomed", "customary", "normal", "prepared", "ready", "usual"]}

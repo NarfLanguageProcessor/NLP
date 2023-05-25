@@ -1,1 +1,1 @@
-{"index": 43031, "D": "a chest of drawers, often with a mirror at the top.", "S": ["agency ", "authority ", "board ", "commission ", "committee ", "department ", "division ", "office "], "A": []}
+{"index": 43031, "D": "a chest of drawers, often with a mirror at the top.", "S": ["agency", "authority", "board", "commission", "committee", "department", "division", "office"], "A": []}

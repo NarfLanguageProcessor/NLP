@@ -1,1 +1,1 @@
-{"index": 105559, "D": "to castrate; emasculate.", "S": ["mutilate ", "neuter ", "spay ", "sterilize "], "A": ["aid ", "assist ", "continue ", "help ", "keep ", "remain "]}
+{"index": 105559, "D": "to castrate; emasculate.", "S": ["mutilate", "neuter", "spay", "sterilize"], "A": ["aid", "assist", "continue", "help", "keep", "remain"]}

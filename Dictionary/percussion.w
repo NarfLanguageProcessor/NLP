@@ -1,1 +1,1 @@
-{"index": 230480, "D": "the striking of one body against another with some sharpness; impact; blow.", "S": ["blow ", "collision ", "impact ", "jolt ", "shock ", "sound "], "A": []}
+{"index": 230480, "D": "the striking of one body against another with some sharpness; impact; blow.", "S": ["blow", "collision", "impact", "jolt", "shock", "sound"], "A": []}

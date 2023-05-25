@@ -1,1 +1,1 @@
-{"index": 152634, "D": "an act or instance of inhaling. ", "S": ["consumption ", "digestion ", "intake ", "penetration ", "retention ", "saturation "], "A": ["boredom ", "distraction "]}
+{"index": 152634, "D": "an act or instance of inhaling. ", "S": ["consumption", "digestion", "intake", "penetration", "retention", "saturation"], "A": ["boredom", "distraction"]}

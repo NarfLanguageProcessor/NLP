@@ -1,0 +1,1 @@
+{"index": 26014, "D": "to divert wind  against the lee side of (a sail) from another sail.", "S": [], "A": []}

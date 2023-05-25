@@ -1,1 +1,1 @@
-{"index": 64901, "D": "unable to function optimally, especially with regard to immune response, owing to underlying disease, harmful environmental exposure, or the side effects of a course of treatment.", "S": ["agree ", "negotiate "], "A": ["confuse ", "disarrange ", "upset "]}
+{"index": 64901, "D": "unable to function optimally, especially with regard to immune response, owing to underlying disease, harmful environmental exposure, or the side effects of a course of treatment.", "S": ["agree", "negotiate"], "A": ["confuse", "disarrange", "upset"]}

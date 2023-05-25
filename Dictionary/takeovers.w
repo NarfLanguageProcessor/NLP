@@ -1,1 +1,1 @@
-{"index": 315504, "D": "the act of seizing, appropriating, or arrogating authority, control, management, etc.", "S": ["confiscation ", "embezzlement ", "expropriation ", "misappropriation "], "A": ["bestowal ", "giving ", "return "]}
+{"index": 315504, "D": "the act of seizing, appropriating, or arrogating authority, control, management, etc.", "S": ["confiscation", "embezzlement", "expropriation", "misappropriation"], "A": ["bestowal", "giving", "return"]}

@@ -1,1 +1,1 @@
-{"index": 219238, "D": "to exert  excessively.", "S": ["cripple ", "disable ", "drain ", "fatigue ", "frazzle ", "impoverish ", "overwork ", "sap ", "use up ", "weaken ", "weary "], "A": ["aid ", "assist ", "enable ", "energize ", "help ", "strengthen ", "invigorate "]}
+{"index": 219238, "D": "to exert  excessively.", "S": ["cripple", "disable", "drain", "fatigue", "frazzle", "impoverish", "overwork", "sap", "use up", "weaken", "weary"], "A": ["aid", "assist", "enable", "energize", "help", "strengthen", "invigorate"]}

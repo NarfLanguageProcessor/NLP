@@ -1,1 +1,1 @@
-{"index": 80630, "D": "death or decease.", "S": ["leave behind "], "A": ["hold ", "keep ", "receive ", "retain ", "take ", "withhold "]}
+{"index": 80630, "D": "death or decease.", "S": ["leave behind"], "A": ["hold", "keep", "receive", "retain", "take", "withhold"]}

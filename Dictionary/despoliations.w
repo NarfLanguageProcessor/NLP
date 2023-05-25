@@ -1,1 +1,1 @@
-{"index": 82858, "D": "the act of plundering.", "S": ["depredation ", "destruction ", "pillage ", "piracy ", "theft "], "A": ["construction "]}
+{"index": 82858, "D": "the act of plundering.", "S": ["depredation", "destruction", "pillage", "piracy", "theft"], "A": ["construction"]}

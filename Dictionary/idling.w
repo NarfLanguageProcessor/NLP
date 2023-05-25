@@ -1,1 +1,1 @@
-{"index": 146604, "D": "not working or active; unemployed; doing nothing", "S": ["drifting ", "loafing ", "lolling ", "resting "], "A": ["active "]}
+{"index": 146604, "D": "not working or active; unemployed; doing nothing", "S": ["drifting", "loafing", "lolling", "resting"], "A": ["active"]}

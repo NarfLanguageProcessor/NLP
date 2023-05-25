@@ -1,1 +1,1 @@
-{"index": 359673, "D": "wretchedly bad", "S": ["atrocity ", "barbarity ", "barbarousness ", "depravity ", "evilness ", "heinousness ", "wickedness "], "A": ["kindness "]}
+{"index": 359673, "D": "wretchedly bad", "S": ["atrocity", "barbarity", "barbarousness", "depravity", "evilness", "heinousness", "wickedness"], "A": ["kindness"]}

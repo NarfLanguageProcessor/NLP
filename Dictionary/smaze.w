@@ -1,1 +1,1 @@
-{"index": 294774, "D": "a mixture of haze  and smoke. ", "S": ["cloud ", "gloom ", "smog ", "smoke ", "steam ", "vapor "], "A": []}
+{"index": 294774, "D": "a mixture of haze  and smoke. ", "S": ["cloud", "gloom", "smog", "smoke", "steam", "vapor"], "A": []}

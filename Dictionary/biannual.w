@@ -1,1 +1,1 @@
-{"index": 33161, "D": "occurring twice a year; semiannual. ", "S": ["semiannual "], "A": []}
+{"index": 33161, "D": "occurring twice a year; semiannual. ", "S": ["semiannual"], "A": []}

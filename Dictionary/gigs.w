@@ -1,1 +1,1 @@
-{"index": 124869, "D": "a single professional engagement of one or more performers, especially of jazz or rock musicians", "S": ["appearance ", "concert ", "engagement ", "recital "], "A": ["unemployment "]}
+{"index": 124869, "D": "a single professional engagement of one or more performers, especially of jazz or rock musicians", "S": ["appearance", "concert", "engagement", "recital"], "A": ["unemployment"]}

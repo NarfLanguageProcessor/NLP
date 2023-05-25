@@ -1,1 +1,1 @@
-{"index": 133176, "D": "manual skill.", "S": ["art ", "artifact ", "craft "], "A": ["avocation ", "cause ", "destruction ", "entertainment ", "fun ", "hobby ", "pastime ", "ruin "]}
+{"index": 133176, "D": "manual skill.", "S": ["art", "artifact", "craft"], "A": ["avocation", "cause", "destruction", "entertainment", "fun", "hobby", "pastime", "ruin"]}

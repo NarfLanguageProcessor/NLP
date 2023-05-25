@@ -1,1 +1,1 @@
-{"index": 299213, "D": [], "S": ["impregnate ", "inseminate ", "procreate "], "A": []}
+{"index": 299213, "D": [], "S": ["impregnate", "inseminate", "procreate"], "A": []}

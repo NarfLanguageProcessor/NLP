@@ -1,1 +1,1 @@
-{"index": 290414, "D": "of or like silk;  smooth, lustrous, soft, or delicate", "S": ["glaze ", "luster ", "varnish ", "veneer "], "A": ["dullness "]}
+{"index": 290414, "D": "of or like silk;  smooth, lustrous, soft, or delicate", "S": ["glaze", "luster", "varnish", "veneer"], "A": ["dullness"]}

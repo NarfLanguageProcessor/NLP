@@ -1,1 +1,1 @@
-{"index": 134795, "D": "to perceive by the ear", "S": ["deafening ", "detectable ", "discernible ", "distinct ", "loud ", "perceptible ", "resounding ", "sounding "], "A": ["ambiguous ", "indistinct ", "invisible ", "obscure ", "unnoticeable ", "vague ", "obscured ", "unclear "]}
+{"index": 134795, "D": "to perceive by the ear", "S": ["deafening", "detectable", "discernible", "distinct", "loud", "perceptible", "resounding", "sounding"], "A": ["ambiguous", "indistinct", "invisible", "obscure", "unnoticeable", "vague", "obscured", "unclear"]}

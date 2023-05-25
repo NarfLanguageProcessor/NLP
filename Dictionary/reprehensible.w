@@ -1,1 +1,1 @@
-{"index": 268471, "D": "deserving of reproof, rebuke, or censure; blameworthy.", "S": ["culpable ", "disgraceful ", "objectionable ", "sinful "], "A": ["creditable ", "good ", "kind ", "respectable "]}
+{"index": 268471, "D": "deserving of reproof, rebuke, or censure; blameworthy.", "S": ["culpable", "disgraceful", "objectionable", "sinful"], "A": ["creditable", "good", "kind", "respectable"]}

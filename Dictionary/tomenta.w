@@ -1,1 +1,1 @@
-{"index": 325426, "D": "pubescence consisting of longish, soft, entangled hairs pressed close to the surface.", "S": ["dressing ", "filling "], "A": []}
+{"index": 325426, "D": "pubescence consisting of longish, soft, entangled hairs pressed close to the surface.", "S": ["dressing", "filling"], "A": []}

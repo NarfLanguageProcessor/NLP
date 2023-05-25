@@ -1,1 +1,1 @@
-{"index": 38999, "D": "a bunch of flowers; nosegay.", "S": ["garland ", "pot ", "vase ", "wreath "], "A": []}
+{"index": 38999, "D": "a bunch of flowers; nosegay.", "S": ["garland", "pot", "vase", "wreath"], "A": []}

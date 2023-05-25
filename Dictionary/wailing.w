@@ -1,1 +1,1 @@
-{"index": 362001, "D": "uttering a prolonged, inarticulate, mournful cry, usually high-pitched or clear-sounding, as in grief or suffering", "S": ["sobbing ", "weeping "], "A": []}
+{"index": 362001, "D": "uttering a prolonged, inarticulate, mournful cry, usually high-pitched or clear-sounding, as in grief or suffering", "S": ["sobbing", "weeping"], "A": []}

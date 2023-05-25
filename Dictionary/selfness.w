@@ -1,1 +1,1 @@
-{"index": 283549, "D": "selfhood. ", "S": ["character ", "existence ", "identification ", "integrity ", "name ", "personality ", "status "], "A": ["difference ", "dissimilarity ", "opposition "]}
+{"index": 283549, "D": "selfhood. ", "S": ["character", "existence", "identification", "integrity", "name", "personality", "status"], "A": ["difference", "dissimilarity", "opposition"]}

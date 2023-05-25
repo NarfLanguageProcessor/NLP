@@ -1,1 +1,1 @@
-{"index": 148703, "D": "to make an impression; have an effect or impact (usually followed by on or upon)", "S": ["encroach ", "infringe ", "intrude "], "A": ["leave alone "]}
+{"index": 148703, "D": "to make an impression; have an effect or impact (usually followed by on or upon)", "S": ["encroach", "infringe", "intrude"], "A": ["leave alone"]}

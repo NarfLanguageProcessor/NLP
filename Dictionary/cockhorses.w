@@ -1,1 +1,1 @@
-{"index": 61507, "D": "a child's rocking horse or hobbyhorse.", "S": ["hobby ", "hobby horse ", "hobbyhorse "], "A": []}
+{"index": 61507, "D": "a child's rocking horse or hobbyhorse.", "S": ["hobby", "hobby horse", "hobbyhorse"], "A": []}

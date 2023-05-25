@@ -1,1 +1,1 @@
-{"index": 200691, "D": "the head or brain.", "S": ["cup ", "dome ", "mug ", "pate "], "A": []}
+{"index": 200691, "D": "the head or brain.", "S": ["cup", "dome", "mug", "pate"], "A": []}

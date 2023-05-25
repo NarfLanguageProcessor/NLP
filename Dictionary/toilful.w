@@ -1,1 +1,1 @@
-{"index": 325153, "D": "characterized by or involving toil;  laborious; toilsome.", "S": ["arduous ", "complicated ", "heavy ", "rough ", "serious ", "terrible ", "tough ", "troublesome "], "A": ["easy ", "facile "]}
+{"index": 325153, "D": "characterized by or involving toil;  laborious; toilsome.", "S": ["arduous", "complicated", "heavy", "rough", "serious", "terrible", "tough", "troublesome"], "A": ["easy", "facile"]}

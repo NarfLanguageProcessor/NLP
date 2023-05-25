@@ -1,1 +1,1 @@
-{"index": 25733, "D": "to attack the character or reputation of (a person who is not present).", "S": ["abuse ", "gossip ", "lie ", "slander ", "spite "], "A": ["praise "]}
+{"index": 25733, "D": "to attack the character or reputation of (a person who is not present).", "S": ["abuse", "gossip", "lie", "slander", "spite"], "A": ["praise"]}

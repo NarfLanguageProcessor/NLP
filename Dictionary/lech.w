@@ -1,1 +1,1 @@
-{"index": 169798, "D": "to behave lecherously (towards); lust (after)", "S": ["Casanova ", "Lothario ", "Romeo ", "debaucher ", "gigolo ", "libertine ", "philanderer ", "playboy ", "rake ", "reprobate ", "roue ", "satyr ", "stud ", "swinger ", "womanizer "], "A": []}
+{"index": 169798, "D": "to behave lecherously (towards); lust (after)", "S": ["Casanova", "Lothario", "Romeo", "debaucher", "gigolo", "libertine", "philanderer", "playboy", "rake", "reprobate", "roue", "satyr", "stud", "swinger", "womanizer"], "A": []}

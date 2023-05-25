@@ -1,1 +1,1 @@
-{"index": 294763, "D": [], "S": ["accident ", "collision ", "crack-up ", "crash ", "fender bender ", "impact ", "jolt ", "mess ", "pile up ", "rear-ender ", "sideswipe ", "wreckage "], "A": []}
+{"index": 294763, "D": [], "S": ["accident", "collision", "crack-up", "crash", "fender bender", "impact", "jolt", "mess", "pile up", "rear-ender", "sideswipe", "wreckage"], "A": []}

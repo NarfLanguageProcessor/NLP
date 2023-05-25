@@ -1,1 +1,1 @@
-{"index": 57872, "D": "zero. ", "S": ["arithmetic ", "computation ", "counting ", "estimate ", "estimation ", "forecast ", "judgment ", "prediction "], "A": []}
+{"index": 57872, "D": "zero. ", "S": ["arithmetic", "computation", "counting", "estimate", "estimation", "forecast", "judgment", "prediction"], "A": []}

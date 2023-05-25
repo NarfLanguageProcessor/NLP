@@ -1,1 +1,1 @@
-{"index": 42771, "D": "an awkward, simple, unsophisticated person from a rural area; yokel.", "S": ["country bumpkin ", "rube "], "A": ["sophisticate "]}
+{"index": 42771, "D": "an awkward, simple, unsophisticated person from a rural area; yokel.", "S": ["country bumpkin", "rube"], "A": ["sophisticate"]}

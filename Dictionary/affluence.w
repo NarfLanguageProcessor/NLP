@@ -1,1 +1,1 @@
-{"index": 5442, "D": "abundance of money, property, and other material goods; riches; wealth.", "S": ["abundance ", "prosperity "], "A": []}
+{"index": 5442, "D": "abundance of money, property, and other material goods; riches; wealth.", "S": ["abundance", "prosperity"], "A": []}

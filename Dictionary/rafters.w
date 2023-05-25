@@ -1,1 +1,1 @@
-{"index": 259890, "D": "any of a series of timbers or the like, usually having a pronounced slope, for supporting the sheathing and covering of a roof.", "S": ["beam "], "A": []}
+{"index": 259890, "D": "any of a series of timbers or the like, usually having a pronounced slope, for supporting the sheathing and covering of a roof.", "S": ["beam"], "A": []}

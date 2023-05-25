@@ -1,1 +1,1 @@
-{"index": 125656, "D": "a gadget or device", "S": ["contraption ", "contrivance ", "doohickey ", "object ", "thing ", "thingamabob ", "thingamajig ", "whatchamacallit ", "widget "], "A": []}
+{"index": 125656, "D": "a gadget or device", "S": ["contraption", "contrivance", "doohickey", "object", "thing", "thingamabob", "thingamajig", "whatchamacallit", "widget"], "A": []}

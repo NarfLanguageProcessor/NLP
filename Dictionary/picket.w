@@ -1,1 +1,1 @@
-{"index": 235887, "D": "a post, stake, pale, or peg that is used in a fence or barrier, to fasten down a tent, etc.", "S": ["pale ", "paling ", "palisade ", "panel ", "peg ", "pillar ", "rail ", "stake ", "stanchion ", "upright "], "A": []}
+{"index": 235887, "D": "a post, stake, pale, or peg that is used in a fence or barrier, to fasten down a tent, etc.", "S": ["pale", "paling", "palisade", "panel", "peg", "pillar", "rail", "stake", "stanchion", "upright"], "A": []}

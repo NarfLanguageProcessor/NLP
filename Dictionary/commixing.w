@@ -1,1 +1,1 @@
-{"index": 64132, "D": "to mix together; blend.", "S": ["admix ", "amalgamate ", "blend ", "combine ", "commingle ", "fuse ", "immix ", "intermingle ", "intermix ", "mingle "], "A": ["disconnect ", "divide ", "separate "]}
+{"index": 64132, "D": "to mix together; blend.", "S": ["admix", "amalgamate", "blend", "combine", "commingle", "fuse", "immix", "intermingle", "intermix", "mingle"], "A": ["disconnect", "divide", "separate"]}

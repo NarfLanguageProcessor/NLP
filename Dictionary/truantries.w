@@ -1,1 +1,1 @@
-{"index": 331446, "D": "truancy. ", "S": ["AWOL ", "absenteeism ", "nonappearance ", "nonattendance ", "truancy ", "vacancy "], "A": []}
+{"index": 331446, "D": "truancy. ", "S": ["AWOL", "absenteeism", "nonappearance", "nonattendance", "truancy", "vacancy"], "A": []}

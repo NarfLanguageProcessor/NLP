@@ -1,1 +1,1 @@
-{"index": 279580, "D": "a person or thing that scans. ", "S": ["OCR ", "OCR device ", "optical character reading ", "optical scanning "], "A": []}
+{"index": 279580, "D": "a person or thing that scans. ", "S": ["OCR", "OCR device", "optical character reading", "optical scanning"], "A": []}

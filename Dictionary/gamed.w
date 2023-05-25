@@ -1,1 +1,1 @@
-{"index": 121672, "D": "an amusement or pastime", "S": ["play "], "A": []}
+{"index": 121672, "D": "an amusement or pastime", "S": ["play"], "A": []}

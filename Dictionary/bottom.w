@@ -1,1 +1,1 @@
-{"index": 38821, "D": "the lowest or deepest part of anything, as distinguished from the top", "S": ["base ", "basement ", "basic ", "ground ", "last ", "primary ", "radical ", "underlying "], "A": ["secondary "]}
+{"index": 38821, "D": "the lowest or deepest part of anything, as distinguished from the top", "S": ["base", "basement", "basic", "ground", "last", "primary", "radical", "underlying"], "A": ["secondary"]}

@@ -1,1 +1,1 @@
-{"index": 155447, "D": "situated or existing in the interior of something; interior.", "S": ["constitutional ", "domestic ", "in-house ", "intramural ", "national ", "private ", "subjective "], "A": ["external ", "outer "]}
+{"index": 155447, "D": "situated or existing in the interior of something; interior.", "S": ["constitutional", "domestic", "in-house", "intramural", "national", "private", "subjective"], "A": ["external", "outer"]}

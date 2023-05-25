@@ -1,1 +1,1 @@
-{"index": 60648, "D": "a building or room occupied by a club. ", "S": ["bank ", "club ", "dive ", "hall ", "honky-tonk ", "house ", "joint ", "roadhouse ", "rotunda ", "saloon ", "track "], "A": []}
+{"index": 60648, "D": "a building or room occupied by a club. ", "S": ["bank", "club", "dive", "hall", "honky-tonk", "house", "joint", "roadhouse", "rotunda", "saloon", "track"], "A": []}

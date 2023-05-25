@@ -1,1 +1,1 @@
-{"index": 82537, "D": "Often shortened to", "S": ["change ", "fix "], "A": ["breed "]}
+{"index": 82537, "D": "Often shortened to", "S": ["change", "fix"], "A": ["breed"]}

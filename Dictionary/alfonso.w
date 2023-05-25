@@ -1,0 +1,1 @@
+{"index": 8010, "D": "first king of Portugal 1139\u201385.", "S": [], "A": []}

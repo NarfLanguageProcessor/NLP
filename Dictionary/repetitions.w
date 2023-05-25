@@ -1,1 +1,1 @@
-{"index": 268185, "D": "the act of repeating, or doing, saying, or writing something again; repeated action, performance, production, or presentation.", "S": ["litany ", "recurrence ", "reiteration ", "repeat ", "rhythm "], "A": ["original "]}
+{"index": 268185, "D": "the act of repeating, or doing, saying, or writing something again; repeated action, performance, production, or presentation.", "S": ["litany", "recurrence", "reiteration", "repeat", "rhythm"], "A": ["original"]}

@@ -1,1 +1,1 @@
-{"index": 177170, "D": "driving to madness or frenzy", "S": ["aggravating ", "annoying ", "exasperating ", "frustrating ", "infuriating ", "troubling "], "A": []}
+{"index": 177170, "D": "driving to madness or frenzy", "S": ["aggravating", "annoying", "exasperating", "frustrating", "infuriating", "troubling"], "A": []}

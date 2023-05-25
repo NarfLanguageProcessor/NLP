@@ -1,1 +1,1 @@
-{"index": 282458, "D": "the past participle of seal 1", "S": ["airtight ", "closed ", "fixed "], "A": ["open "]}
+{"index": 282458, "D": "the past participle of seal 1", "S": ["airtight", "closed", "fixed"], "A": ["open"]}

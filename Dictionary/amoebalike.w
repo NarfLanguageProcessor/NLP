@@ -1,0 +1,1 @@
+{"index": 10860, "D": [], "S": ["invertebrate"], "A": ["bold", "brave", "strong"]}

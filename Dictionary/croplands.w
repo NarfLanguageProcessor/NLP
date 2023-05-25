@@ -1,1 +1,1 @@
-{"index": 73718, "D": "land  suitable for or used for the cultivation of crops. ", "S": ["farmland ", "garden ", "grassland ", "green ", "ground ", "meadow ", "pasture ", "range ", "terrain ", "territory "], "A": ["sky "]}
+{"index": 73718, "D": "land  suitable for or used for the cultivation of crops. ", "S": ["farmland", "garden", "grassland", "green", "ground", "meadow", "pasture", "range", "terrain", "territory"], "A": ["sky"]}

@@ -1,1 +1,1 @@
-{"index": 296624, "D": "to perform the ceremony of (marriage).", "S": ["celebrated ", "commemorated ", "continued ", "followed ", "fulfilled ", "honored ", "obeyed ", "regarded ", "unbroken "], "A": ["abandoned ", "broken ", "dishonored ", "forgotten "]}
+{"index": 296624, "D": "to perform the ceremony of (marriage).", "S": ["celebrated", "commemorated", "continued", "followed", "fulfilled", "honored", "obeyed", "regarded", "unbroken"], "A": ["abandoned", "broken", "dishonored", "forgotten"]}

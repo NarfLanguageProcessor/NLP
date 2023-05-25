@@ -1,1 +1,1 @@
-{"index": 279088, "D": "a person who saves,  rescues, or delivers", "S": ["defender ", "guardian angel ", "hero ", "liberator ", "protector ", "salvation "], "A": ["Satan ", "enemy ", "foe "]}
+{"index": 279088, "D": "a person who saves,  rescues, or delivers", "S": ["defender", "guardian angel", "hero", "liberator", "protector", "salvation"], "A": ["Satan", "enemy", "foe"]}

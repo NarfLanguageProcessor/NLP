@@ -1,1 +1,1 @@
-{"index": 345446, "D": "to unfasten (a door, window shutter, etc.) by lifting the latch. ", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}
+{"index": 345446, "D": "to unfasten (a door, window shutter, etc.) by lifting the latch. ", "S": ["baggy", "lax", "relaxed", "sloppy"], "A": ["strict", "tight", "hindered", "rigid", "stiff"]}

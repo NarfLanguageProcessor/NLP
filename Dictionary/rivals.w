@@ -1,1 +1,1 @@
-{"index": 273368, "D": "a person who is competing for the same object or goal as another, or who tries to equal or outdo another; competitor. ", "S": ["adversary ", "challenger ", "competition ", "competitor ", "contender ", "opponent ", "peer "], "A": ["ally ", "helper ", "difference "]}
+{"index": 273368, "D": "a person who is competing for the same object or goal as another, or who tries to equal or outdo another; competitor. ", "S": ["adversary", "challenger", "competition", "competitor", "contender", "opponent", "peer"], "A": ["ally", "helper", "difference"]}

@@ -1,1 +1,1 @@
-{"index": 363978, "D": "(a word of kindly greeting, as to one whose arrival gives pleasure)", "S": ["acceptance ", "handshake ", "hello ", "hospitality ", "ovation ", "reception ", "salute "], "A": ["goodbye "]}
+{"index": 363978, "D": "(a word of kindly greeting, as to one whose arrival gives pleasure)", "S": ["acceptance", "handshake", "hello", "hospitality", "ovation", "reception", "salute"], "A": ["goodbye"]}

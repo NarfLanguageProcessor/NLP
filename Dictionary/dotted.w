@@ -1,1 +1,1 @@
-{"index": 91924, "D": "marked with a dot  or dots. ", "S": ["stippled "], "A": []}
+{"index": 91924, "D": "marked with a dot  or dots. ", "S": ["stippled"], "A": []}

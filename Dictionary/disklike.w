@@ -1,1 +1,1 @@
-{"index": 88545, "D": "any thin, flat, circular plate or object.", "S": ["oblique ", "round ", "spheroid "], "A": []}
+{"index": 88545, "D": "any thin, flat, circular plate or object.", "S": ["oblique", "round", "spheroid"], "A": []}

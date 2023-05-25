@@ -1,1 +1,0 @@
-{"index": 222842, "D": "a ring fixed to the structure of a ship as a hold for small lines, tackles, etc.", "S": [], "A": []}

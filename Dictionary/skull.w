@@ -1,1 +1,1 @@
-{"index": 293492, "D": "the bony framework of the head, enclosing the brain and supporting the face; the skeleton of the head.", "S": ["cranium ", "scalp "], "A": ["bottom "]}
+{"index": 293492, "D": "the bony framework of the head, enclosing the brain and supporting the face; the skeleton of the head.", "S": ["cranium", "scalp"], "A": ["bottom"]}

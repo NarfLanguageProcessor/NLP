@@ -1,0 +1,1 @@
+{"index": 22075, "D": "of, relating to, or characterized by asthenia;  weak.", "S": [], "A": []}

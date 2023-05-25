@@ -1,1 +1,1 @@
-{"index": 53212, "D": [], "S": ["belligerent ", "chauvinist ", "jingo ", "jingoist ", "militarist ", "warmonger "], "A": ["Dove "]}
+{"index": 53212, "D": [], "S": ["belligerent", "chauvinist", "jingo", "jingoist", "militarist", "warmonger"], "A": ["Dove"]}

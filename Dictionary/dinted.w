@@ -1,1 +1,1 @@
-{"index": 86217, "D": "force; power", "S": ["bored ", "dented ", "embossed ", "imprinted ", "needled ", "pierced ", "punctured ", "stamped ", "tapped "], "A": []}
+{"index": 86217, "D": "force; power", "S": ["bored", "dented", "embossed", "imprinted", "needled", "pierced", "punctured", "stamped", "tapped"], "A": []}

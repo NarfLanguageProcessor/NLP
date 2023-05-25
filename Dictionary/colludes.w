@@ -1,1 +1,1 @@
-{"index": 63146, "D": "to act together through a secret understanding, especially with evil or harmful intent.", "S": ["connive "], "A": ["forget ", "neglect "]}
+{"index": 63146, "D": "to act together through a secret understanding, especially with evil or harmful intent.", "S": ["connive"], "A": ["forget", "neglect"]}

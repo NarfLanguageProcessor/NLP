@@ -1,1 +1,1 @@
-{"index": 82199, "D": "skin grafting. ", "S": ["breast implant ", "cosmetic surgery ", "liposuction "], "A": []}
+{"index": 82199, "D": "skin grafting. ", "S": ["breast implant", "cosmetic surgery", "liposuction"], "A": []}

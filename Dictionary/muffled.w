@@ -1,1 +1,1 @@
-{"index": 194764, "D": "to wrap with something to deaden or prevent sound", "S": ["faint ", "muted ", "suppressed "], "A": ["bright ", "clear ", "intelligent ", "light ", "smart "]}
+{"index": 194764, "D": "to wrap with something to deaden or prevent sound", "S": ["faint", "muted", "suppressed"], "A": ["bright", "clear", "intelligent", "light", "smart"]}

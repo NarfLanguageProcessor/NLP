@@ -1,1 +1,1 @@
-{"index": 119934, "D": [], "S": ["voting age "], "A": []}
+{"index": 119934, "D": [], "S": ["voting age"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 45016, "D": "a table or register with the days of each month and week in a year", "S": ["agenda ", "almanac ", "card ", "chronology ", "diary ", "docket ", "journal ", "lineup ", "list ", "program ", "table ", "timetable "], "A": []}
+{"index": 45016, "D": "a table or register with the days of each month and week in a year", "S": ["agenda", "almanac", "card", "chronology", "diary", "docket", "journal", "lineup", "list", "program", "table", "timetable"], "A": []}

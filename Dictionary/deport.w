@@ -1,1 +1,1 @@
-{"index": 81742, "D": "to expel (an alien) from a country; banish.", "S": ["dismiss ", "displace ", "exile ", "expatriate ", "expel ", "extradite ", "oust ", "relegate ", "transport "], "A": ["allow ", "hold ", "keep ", "take in ", "welcome "]}
+{"index": 81742, "D": "to expel (an alien) from a country; banish.", "S": ["dismiss", "displace", "exile", "expatriate", "expel", "extradite", "oust", "relegate", "transport"], "A": ["allow", "hold", "keep", "take in", "welcome"]}

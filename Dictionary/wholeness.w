@@ -1,1 +1,1 @@
-{"index": 365288, "D": "soundness, health, or well-being in body, mind, soul, or spirit", "S": ["entirety ", "integrity "], "A": ["incompleteness "]}
+{"index": 365288, "D": "soundness, health, or well-being in body, mind, soul, or spirit", "S": ["entirety", "integrity"], "A": ["incompleteness"]}

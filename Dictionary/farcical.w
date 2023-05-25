@@ -1,1 +1,1 @@
-{"index": 109892, "D": "pertaining to or of the nature of farce. ", "S": ["amusing ", "campy ", "comical ", "funny ", "laughable ", "ludicrous ", "outrageous ", "preposterous ", "ridiculous ", "slapstick "], "A": ["grave ", "reasonable ", "sad ", "sensible ", "serious ", "tragic "]}
+{"index": 109892, "D": "pertaining to or of the nature of farce. ", "S": ["amusing", "campy", "comical", "funny", "laughable", "ludicrous", "outrageous", "preposterous", "ridiculous", "slapstick"], "A": ["grave", "reasonable", "sad", "sensible", "serious", "tragic"]}

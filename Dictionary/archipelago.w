@@ -1,1 +1,1 @@
-{"index": 18987, "D": "a large group or chain of islands", "S": ["enclave ", "isle ", "islet ", "peninsula ", "reef "], "A": []}
+{"index": 18987, "D": "a large group or chain of islands", "S": ["enclave", "isle", "islet", "peninsula", "reef"], "A": []}

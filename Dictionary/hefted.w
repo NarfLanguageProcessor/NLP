@@ -1,1 +1,1 @@
-{"index": 135309, "D": "weight; heaviness", "S": ["boost ", "climb ", "hoist ", "pick up ", "raise ", "rise ", "soar "], "A": ["decrease ", "descend ", "drop ", "fall ", "lessen ", "lower "]}
+{"index": 135309, "D": "weight; heaviness", "S": ["boost", "climb", "hoist", "pick up", "raise", "rise", "soar"], "A": ["decrease", "descend", "drop", "fall", "lessen", "lower"]}

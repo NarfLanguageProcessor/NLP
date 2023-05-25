@@ -1,1 +1,1 @@
-{"index": 2456, "D": "a condition in which the body\u2019s fluids are more acidic than normal", "S": ["heartburn ", "nausea "], "A": []}
+{"index": 2456, "D": "a condition in which the body\u2019s fluids are more acidic than normal", "S": ["heartburn", "nausea"], "A": []}

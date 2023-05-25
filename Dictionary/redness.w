@@ -1,1 +1,0 @@
-{"index": 264340, "D": "the quality or state of being red. ", "S": ["bloom ", "blossom ", "burning ", "color ", "flush ", "flushing ", "glow ", "glowing ", "mantling ", "reddening ", "rosiness ", "ruddiness ", "scarlet "], "A": ["paleness ", "pallidity ", "whiteness "]}

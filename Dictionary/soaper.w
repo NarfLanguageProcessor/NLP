@@ -1,1 +1,1 @@
-{"index": 295987, "D": "soap opera. ", "S": ["mawkish ", "mushy ", "romantic ", "sentimental ", "syrupy ", "weepy "], "A": ["pragmatic ", "unemotional ", "unromantic "]}
+{"index": 295987, "D": "soap opera. ", "S": ["mawkish", "mushy", "romantic", "sentimental", "syrupy", "weepy"], "A": ["pragmatic", "unemotional", "unromantic"]}

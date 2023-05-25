@@ -1,1 +1,1 @@
-{"index": 56670, "D": "a building for public Christian worship.", "S": ["chapel ", "mosque ", "parish ", "sanctuary ", "shrine ", "synagogue ", "temple "], "A": []}
+{"index": 56670, "D": "a building for public Christian worship.", "S": ["chapel", "mosque", "parish", "sanctuary", "shrine", "synagogue", "temple"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 238064, "D": "the right or privilege of fishing in particular waters.", "S": ["fly-fishing "], "A": []}
+{"index": 238064, "D": "the right or privilege of fishing in particular waters.", "S": ["fly-fishing"], "A": []}

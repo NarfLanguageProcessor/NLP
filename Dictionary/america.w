@@ -1,1 +1,1 @@
-{"index": 10298, "D": "United States. ", "S": ["North America ", "South America "], "A": []}
+{"index": 10298, "D": "United States. ", "S": ["North America", "South America"], "A": []}

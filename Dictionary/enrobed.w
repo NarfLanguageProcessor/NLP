@@ -1,1 +1,1 @@
-{"index": 100915, "D": "to dress; attire", "S": ["dress ", "put on ", "wear "], "A": ["disrobe "]}
+{"index": 100915, "D": "to dress; attire", "S": ["dress", "put on", "wear"], "A": ["disrobe"]}

@@ -1,1 +1,1 @@
-{"index": 187651, "D": "menacing; threatening.", "S": ["alarming ", "dangerous ", "frightening ", "threatening "], "A": ["remote "]}
+{"index": 187651, "D": "menacing; threatening.", "S": ["alarming", "dangerous", "frightening", "threatening"], "A": ["remote"]}

@@ -1,1 +1,1 @@
-{"index": 178415, "D": "the quality, state, or feeling of being malevolent;  ill will; malice; hatred.", "S": ["antagonism ", "grudge ", "hostility ", "ill will ", "maliciousness ", "nastiness ", "spitefulness ", "vindictiveness "], "A": ["kindness ", "liking ", "love ", "loving "]}
+{"index": 178415, "D": "the quality, state, or feeling of being malevolent;  ill will; malice; hatred.", "S": ["antagonism", "grudge", "hostility", "ill will", "maliciousness", "nastiness", "spitefulness", "vindictiveness"], "A": ["kindness", "liking", "love", "loving"]}

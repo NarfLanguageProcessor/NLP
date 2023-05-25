@@ -1,1 +1,1 @@
-{"index": 116309, "D": "the acquisition of food by hunting, fishing, or the gathering of plant matter.", "S": ["biting ", "cropping ", "eating ", "feeding ", "gnawing ", "masticating ", "munching ", "nibbling ", "pasturing ", "ruminating ", "uprooting "], "A": []}
+{"index": 116309, "D": "the acquisition of food by hunting, fishing, or the gathering of plant matter.", "S": ["biting", "cropping", "eating", "feeding", "gnawing", "masticating", "munching", "nibbling", "pasturing", "ruminating", "uprooting"], "A": []}

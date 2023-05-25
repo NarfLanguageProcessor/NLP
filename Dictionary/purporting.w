@@ -1,1 +1,1 @@
-{"index": 257040, "D": "to present, especially deliberately, the appearance of being; profess or claim, often falsely", "S": ["imply ", "pose as ", "pretend ", "profess "], "A": ["conceal ", "deny ", "disclaim ", "hide "]}
+{"index": 257040, "D": "to present, especially deliberately, the appearance of being; profess or claim, often falsely", "S": ["imply", "pose as", "pretend", "profess"], "A": ["conceal", "deny", "disclaim", "hide"]}

@@ -1,1 +1,1 @@
-{"index": 157593, "D": "Compare harness (def. 1). ", "S": ["burden ", "chain ", "coupling ", "enslavement ", "knot ", "ligament ", "ligature ", "link ", "nexus ", "oppression ", "peonage ", "serfdom ", "service ", "servility ", "servitude ", "slavery ", "tie "], "A": ["mastery "]}
+{"index": 157593, "D": "Compare harness (def. 1). ", "S": ["burden", "chain", "coupling", "enslavement", "knot", "ligament", "ligature", "link", "nexus", "oppression", "peonage", "serfdom", "service", "servility", "servitude", "slavery", "tie"], "A": ["mastery"]}

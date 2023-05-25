@@ -1,1 +1,0 @@
-{"index": 282339, "D": "a dermal bony plate, as on an armadillo, or a large horny plate, as on a turtle.", "S": [], "A": []}

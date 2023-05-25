@@ -1,1 +1,1 @@
-{"index": 296031, "D": "the sport of flying a sailplane.", "S": ["ascent "], "A": ["declension ", "decline "]}
+{"index": 296031, "D": "the sport of flying a sailplane.", "S": ["ascent"], "A": ["declension", "decline"]}

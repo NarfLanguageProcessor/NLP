@@ -1,1 +1,1 @@
-{"index": 282793, "D": "any writing desk resembling a secretary.", "S": ["bureau ", "davenport ", "escritoire "], "A": []}
+{"index": 282793, "D": "any writing desk resembling a secretary.", "S": ["bureau", "davenport", "escritoire"], "A": []}

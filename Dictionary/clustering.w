@@ -1,1 +1,1 @@
-{"index": 60740, "D": "a number of things of the same kind, growing or held together; a bunch", "S": ["absorption ", "combination ", "consolidation "], "A": ["division ", "parting ", "separation ", "severance "]}
+{"index": 60740, "D": "a number of things of the same kind, growing or held together; a bunch", "S": ["absorption", "combination", "consolidation"], "A": ["division", "parting", "separation", "severance"]}

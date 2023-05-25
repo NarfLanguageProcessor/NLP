@@ -1,1 +1,1 @@
-{"index": 318306, "D": "to send or receive by television. ", "S": ["air ", "announce ", "beam ", "transmit "], "A": ["be quiet ", "hide ", "suppress ", "conceal "]}
+{"index": 318306, "D": "to send or receive by television. ", "S": ["air", "announce", "beam", "transmit"], "A": ["be quiet", "hide", "suppress", "conceal"]}

@@ -1,1 +1,1 @@
-{"index": 219993, "D": "to lay  or place (one thing) over or upon another.", "S": ["superimpose "], "A": ["strip ", "uncover "]}
+{"index": 219993, "D": "to lay  or place (one thing) over or upon another.", "S": ["superimpose"], "A": ["strip", "uncover"]}

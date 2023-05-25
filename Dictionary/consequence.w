@@ -1,1 +1,1 @@
-{"index": 66746, "D": "the effect, result, or outcome of something occurring earlier", "S": ["aftereffect ", "aftermath ", "effect ", "fallout ", "issue ", "reaction ", "repercussion "], "A": ["cause ", "origin ", "source "]}
+{"index": 66746, "D": "the effect, result, or outcome of something occurring earlier", "S": ["aftereffect", "aftermath", "effect", "fallout", "issue", "reaction", "repercussion"], "A": ["cause", "origin", "source"]}

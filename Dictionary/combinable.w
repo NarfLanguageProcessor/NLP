@@ -1,1 +1,1 @@
-{"index": 63648, "D": "capable of combining  or being combined. ", "S": ["combinative ", "combinatorial ", "combinatory ", "conjunctional ", "connectional ", "connective "], "A": []}
+{"index": 63648, "D": "capable of combining  or being combined. ", "S": ["combinative", "combinatorial", "combinatory", "conjunctional", "connectional", "connective"], "A": []}

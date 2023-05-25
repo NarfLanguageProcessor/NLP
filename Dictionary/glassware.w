@@ -1,1 +1,1 @@
-{"index": 125996, "D": "articles of glass,  especially drinking glasses. ", "S": ["silverware "], "A": []}
+{"index": 125996, "D": "articles of glass,  especially drinking glasses. ", "S": ["silverware"], "A": []}

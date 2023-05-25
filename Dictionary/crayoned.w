@@ -1,1 +1,1 @@
-{"index": 71946, "D": "a pointed stick or pencil of colored clay, chalk, wax, etc., used for drawing or coloring.", "S": ["darken ", "dye ", "embellish ", "enliven ", "illuminate ", "infuse ", "paint ", "stain ", "tint ", "wash "], "A": ["discolor ", "fade ", "lighten ", "pale ", "whiten "]}
+{"index": 71946, "D": "a pointed stick or pencil of colored clay, chalk, wax, etc., used for drawing or coloring.", "S": ["darken", "dye", "embellish", "enliven", "illuminate", "infuse", "paint", "stain", "tint", "wash"], "A": ["discolor", "fade", "lighten", "pale", "whiten"]}

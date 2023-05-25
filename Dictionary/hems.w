@@ -1,1 +1,1 @@
-{"index": 136517, "D": "to fold back and sew down the edge of (cloth, a garment, etc.); form an edge or border on or around.", "S": ["skirt "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 136517, "D": "to fold back and sew down the edge of (cloth, a garment, etc.); form an edge or border on or around.", "S": ["skirt"], "A": ["center", "inside", "interior", "middle"]}

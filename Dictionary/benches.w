@@ -1,1 +1,1 @@
-{"index": 31470, "D": "a long seat for several people", "S": ["boxes ", "grandstand ", "seats ", "stands "], "A": []}
+{"index": 31470, "D": "a long seat for several people", "S": ["boxes", "grandstand", "seats", "stands"], "A": []}

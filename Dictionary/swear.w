@@ -1,1 +1,1 @@
-{"index": 314202, "D": "to make a solemn declaration or affirmation by some sacred being or object, as a deity or the Bible.", "S": ["affirm ", "assert ", "depose ", "testify ", "vow "], "A": ["deny ", "break ", "condemn ", "renounce "]}
+{"index": 314202, "D": "to make a solemn declaration or affirmation by some sacred being or object, as a deity or the Bible.", "S": ["affirm", "assert", "depose", "testify", "vow"], "A": ["deny", "break", "condemn", "renounce"]}

@@ -1,1 +1,1 @@
-{"index": 28312, "D": "provided with one or more bars", "S": ["blocked ", "clogged ", "swollen ", "wedged "], "A": ["impermanent ", "unfixed "]}
+{"index": 28312, "D": "provided with one or more bars", "S": ["blocked", "clogged", "swollen", "wedged"], "A": ["impermanent", "unfixed"]}

@@ -1,1 +1,1 @@
-{"index": 317445, "D": "the act or profession of a person who teaches. ", "S": ["conduct ", "enlightenment "], "A": []}
+{"index": 317445, "D": "the act or profession of a person who teaches. ", "S": ["conduct", "enlightenment"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 296020, "D": "a plant, Saponaria officinalis, of the pink family, whose leaves are used for cleansing.", "S": ["bouncing Bess ", "hedge pink "], "A": []}
+{"index": 296020, "D": "a plant, Saponaria officinalis, of the pink family, whose leaves are used for cleansing.", "S": ["bouncing Bess", "hedge pink"], "A": []}

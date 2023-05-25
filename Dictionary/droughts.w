@@ -1,1 +1,1 @@
-{"index": 93426, "D": "a period of dry weather, especially a long one that is injurious to crops.", "S": ["lack ", "scarcity "], "A": ["abundance ", "excess ", "surplus ", "plenty ", "sufficiency "]}
+{"index": 93426, "D": "a period of dry weather, especially a long one that is injurious to crops.", "S": ["lack", "scarcity"], "A": ["abundance", "excess", "surplus", "plenty", "sufficiency"]}

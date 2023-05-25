@@ -1,1 +1,1 @@
-{"index": 74027, "D": "representing a level of surpassing achievement, attainment, etc.; supreme", "S": ["consummate ", "culminating "], "A": []}
+{"index": 74027, "D": "representing a level of surpassing achievement, attainment, etc.; supreme", "S": ["consummate", "culminating"], "A": []}

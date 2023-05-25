@@ -1,1 +1,1 @@
-{"index": 328227, "D": "(of events) having taken place", "S": ["arise ", "befall ", "ensue "], "A": ["cause ", "stop "]}
+{"index": 328227, "D": "(of events) having taken place", "S": ["arise", "befall", "ensue"], "A": ["cause", "stop"]}

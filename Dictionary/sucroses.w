@@ -1,1 +1,1 @@
-{"index": 309986, "D": "a crystalline disaccharide, C12H22O11, the sugar obtained from the sugarcane, the sugar beet, and sorghum, and forming the greater part of maple sugar; sugar.", "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}
+{"index": 309986, "D": "a crystalline disaccharide, C12H22O11, the sugar obtained from the sugarcane, the sugar beet, and sorghum, and forming the greater part of maple sugar; sugar.", "S": ["cellulose", "glucose", "lactose", "starch", "sugar"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 193705, "D": "a receptacle of hard material, having a bowl-shaped cavity in which substances are reduced to powder with a pestle.", "S": ["howitzer ", "ordnance "], "A": []}
+{"index": 193705, "D": "a receptacle of hard material, having a bowl-shaped cavity in which substances are reduced to powder with a pestle.", "S": ["howitzer", "ordnance"], "A": []}

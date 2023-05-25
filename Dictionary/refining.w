@@ -1,1 +1,1 @@
-{"index": 265076, "D": "to bring to a fine or a pure state; free from impurities", "S": ["civilizing ", "clarifying ", "cleaning ", "cultivating ", "distillation ", "elevating ", "focusing ", "honing ", "improving ", "perfecting ", "polishing ", "purifying ", "sharpening "], "A": []}
+{"index": 265076, "D": "to bring to a fine or a pure state; free from impurities", "S": ["civilizing", "clarifying", "cleaning", "cultivating", "distillation", "elevating", "focusing", "honing", "improving", "perfecting", "polishing", "purifying", "sharpening"], "A": []}

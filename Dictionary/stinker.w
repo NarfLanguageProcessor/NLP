@@ -1,1 +1,1 @@
-{"index": 304690, "D": "a person or thing that stinks. ", "S": ["boor ", "bounder ", "clown ", "creep ", "cur ", "dog ", "heel ", "louse ", "lout ", "rake ", "rascal ", "rat ", "rotter ", "rounder ", "scoundrel ", "worm "], "A": ["gentleman ", "helper "]}
+{"index": 304690, "D": "a person or thing that stinks. ", "S": ["boor", "bounder", "clown", "creep", "cur", "dog", "heel", "louse", "lout", "rake", "rascal", "rat", "rotter", "rounder", "scoundrel", "worm"], "A": ["gentleman", "helper"]}

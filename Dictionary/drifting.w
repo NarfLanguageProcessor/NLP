@@ -1,1 +1,1 @@
-{"index": 93072, "D": "a driving movement or force; impulse; impetus; pressure. ", "S": ["adrift "], "A": ["aground ", "ashore ", "beached ", "docked "]}
+{"index": 93072, "D": "a driving movement or force; impulse; impetus; pressure. ", "S": ["adrift"], "A": ["aground", "ashore", "beached", "docked"]}

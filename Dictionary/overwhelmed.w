@@ -1,1 +1,0 @@
-{"index": 221834, "D": "completely overcome in mind or feeling", "S": ["affected ", "devastated ", "moved ", "overpowered "], "A": []}

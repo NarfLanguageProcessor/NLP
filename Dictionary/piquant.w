@@ -1,1 +1,1 @@
-{"index": 237522, "D": "agreeably pungent or sharp in taste or flavor; pleasantly biting or tart", "S": ["peppery ", "poignant ", "pungent ", "racy ", "savory ", "spicy ", "tangy ", "zesty "], "A": ["blah ", "bland ", "clean ", "dull ", "flavorless ", "moral ", "tasteless "]}
+{"index": 237522, "D": "agreeably pungent or sharp in taste or flavor; pleasantly biting or tart", "S": ["peppery", "poignant", "pungent", "racy", "savory", "spicy", "tangy", "zesty"], "A": ["blah", "bland", "clean", "dull", "flavorless", "moral", "tasteless"]}

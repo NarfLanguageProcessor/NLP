@@ -1,1 +1,1 @@
-{"index": 293556, "D": "not tight, taut, firm, or tense; a slack rope.", "S": ["dwindling ", "fading ", "listless ", "sagging ", "slumping ", "waning ", "weakening "], "A": ["energized ", "refreshed "]}
+{"index": 293556, "D": "not tight, taut, firm, or tense; a slack rope.", "S": ["dwindling", "fading", "listless", "sagging", "slumping", "waning", "weakening"], "A": ["energized", "refreshed"]}

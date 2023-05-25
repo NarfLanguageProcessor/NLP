@@ -1,1 +1,1 @@
-{"index": 235868, "D": "specially chosen or selected, usually for special skill", "S": ["called ", "conscript ", "elect ", "exclusive ", "named ", "pegged ", "pick ", "select ", "selected "], "A": ["ignored ", "inferior "]}
+{"index": 235868, "D": "specially chosen or selected, usually for special skill", "S": ["called", "conscript", "elect", "exclusive", "named", "pegged", "pick", "select", "selected"], "A": ["ignored", "inferior"]}

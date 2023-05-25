@@ -1,0 +1,1 @@
+{"index": 26010, "D": "water held or forced back, as by a dam, flood, or tide.", "S": ["brook", "creek", "outlet", "river", "stream"], "A": []}

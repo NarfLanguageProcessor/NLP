@@ -1,1 +1,1 @@
-{"index": 68355, "D": "to elect into a body by the votes of the existing members.", "S": ["homogenize "], "A": ["deny ", "dispute ", "eject ", "exclude ", "let go ", "refuse ", "reject ", "repudiate "]}
+{"index": 68355, "D": "to elect into a body by the votes of the existing members.", "S": ["homogenize"], "A": ["deny", "dispute", "eject", "exclude", "let go", "refuse", "reject", "repudiate"]}

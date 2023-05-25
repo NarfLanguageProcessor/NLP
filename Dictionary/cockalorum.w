@@ -1,1 +1,1 @@
-{"index": 61451, "D": "a self-important little man.", "S": ["hen ", "poultry "], "A": []}
+{"index": 61451, "D": "a self-important little man.", "S": ["hen", "poultry"], "A": []}

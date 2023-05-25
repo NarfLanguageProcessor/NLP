@@ -1,1 +1,1 @@
-{"index": 49643, "D": "of or relating to catharsis. ", "S": ["cleaning ", "cleansing ", "purgative "], "A": []}
+{"index": 49643, "D": "of or relating to catharsis. ", "S": ["cleaning", "cleansing", "purgative"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 325842, "D": "excision of part of the cerebral cortex for the relief of unmanageable pain or especially as a treatment for certain mental disorders.", "S": [], "A": []}

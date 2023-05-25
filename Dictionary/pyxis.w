@@ -1,1 +1,1 @@
-{"index": 238491, "D": "a box of a usually cylindrical shape having a lid with a knob in the center, used for toilet articles.", "S": ["trunk "], "A": ["back "]}
+{"index": 238491, "D": "a box of a usually cylindrical shape having a lid with a knob in the center, used for toilet articles.", "S": ["trunk"], "A": ["back"]}

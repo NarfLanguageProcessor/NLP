@@ -1,1 +1,1 @@
-{"index": 250660, "D": "a principle.", "S": ["bottom line ", "component ", "cornerstone ", "element ", "factor ", "foundation ", "law ", "principle "], "A": ["cowardice ", "fear "]}
+{"index": 250660, "D": "a principle.", "S": ["bottom line", "component", "cornerstone", "element", "factor", "foundation", "law", "principle"], "A": ["cowardice", "fear"]}

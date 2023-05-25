@@ -1,1 +1,1 @@
-{"index": 74461, "D": "a small space or compartment partitioned off.", "S": ["booth ", "cell ", "chamber ", "desk ", "nook ", "room ", "stall "], "A": []}
+{"index": 74461, "D": "a small space or compartment partitioned off.", "S": ["booth", "cell", "chamber", "desk", "nook", "room", "stall"], "A": []}

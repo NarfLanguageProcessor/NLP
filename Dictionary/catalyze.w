@@ -1,1 +1,1 @@
-{"index": 49272, "D": "to act upon by catalysis. ", "S": ["imbue ", "infuse "], "A": []}
+{"index": 49272, "D": "to act upon by catalysis. ", "S": ["imbue", "infuse"], "A": []}

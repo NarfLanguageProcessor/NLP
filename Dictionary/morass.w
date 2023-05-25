@@ -1,1 +1,1 @@
-{"index": 193303, "D": "a tract of low, soft, wet ground.", "S": ["chaos ", "quagmire ", "tangle "], "A": ["order ", "organization "]}
+{"index": 193303, "D": "a tract of low, soft, wet ground.", "S": ["chaos", "quagmire", "tangle"], "A": ["order", "organization"]}

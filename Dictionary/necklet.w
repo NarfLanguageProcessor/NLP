@@ -1,1 +1,1 @@
-{"index": 197760, "D": "something worn around theneck  for ornamentation, as a fur piece.", "S": ["choker ", "necklace ", "pendant ", "rosary "], "A": []}
+{"index": 197760, "D": "something worn around theneck  for ornamentation, as a fur piece.", "S": ["choker", "necklace", "pendant", "rosary"], "A": []}

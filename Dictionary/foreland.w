@@ -1,1 +1,1 @@
-{"index": 116766, "D": "a cape, headland, or promontory.", "S": ["arm ", "beak ", "bill ", "finger ", "head ", "headland ", "jetty ", "mole ", "naze ", "neck ", "ness ", "peninsula ", "point ", "tongue "], "A": []}
+{"index": 116766, "D": "a cape, headland, or promontory.", "S": ["arm", "beak", "bill", "finger", "head", "headland", "jetty", "mole", "naze", "neck", "ness", "peninsula", "point", "tongue"], "A": []}

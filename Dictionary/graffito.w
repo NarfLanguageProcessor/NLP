@@ -1,1 +1,1 @@
-{"index": 128598, "D": "an ancient drawing or writing scratched on a wall or other surface.", "S": ["cacography ", "graffiti ", "griffonage ", "hieroglyphics "], "A": []}
+{"index": 128598, "D": "an ancient drawing or writing scratched on a wall or other surface.", "S": ["cacography", "graffiti", "griffonage", "hieroglyphics"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 190116, "D": "the act of spelling  incorrectly", "S": ["misprint ", "vitiate "], "A": []}
+{"index": 190116, "D": "the act of spelling  incorrectly", "S": ["misprint", "vitiate"], "A": []}

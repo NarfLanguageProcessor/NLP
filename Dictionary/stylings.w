@@ -1,1 +1,1 @@
-{"index": 304479, "D": [], "S": ["expression ", "idiom ", "motto ", "phrasing ", "remark ", "saying ", "slogan ", "terminology ", "utterance ", "wording "], "A": ["silence "]}
+{"index": 304479, "D": [], "S": ["expression", "idiom", "motto", "phrasing", "remark", "saying", "slogan", "terminology", "utterance", "wording"], "A": ["silence"]}

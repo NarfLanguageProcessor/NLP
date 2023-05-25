@@ -1,1 +1,1 @@
-{"index": 150674, "D": "offending against generally accepted standards of propriety or good taste; improper; vulgar", "S": ["offensively "], "A": []}
+{"index": 150674, "D": "offending against generally accepted standards of propriety or good taste; improper; vulgar", "S": ["offensively"], "A": []}

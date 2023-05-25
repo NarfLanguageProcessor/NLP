@@ -1,1 +1,1 @@
-{"index": 22310, "D": "an expert in astronomy;  a scientific observer of the celestial bodies.", "S": ["astrophysicist ", "cosmologist "], "A": []}
+{"index": 22310, "D": "an expert in astronomy;  a scientific observer of the celestial bodies.", "S": ["astrophysicist", "cosmologist"], "A": []}

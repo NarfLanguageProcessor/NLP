@@ -1,1 +1,1 @@
-{"index": 70589, "D": "a person who counsels; adviser. ", "S": ["barrister ", "counselor ", "legal expert "], "A": []}
+{"index": 70589, "D": "a person who counsels; adviser. ", "S": ["barrister", "counselor", "legal expert"], "A": []}

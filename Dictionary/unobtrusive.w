@@ -1,1 +1,1 @@
-{"index": 347061, "D": "not obtrusive;  inconspicuous, unassertive, or reticent.", "S": ["inconspicuous ", "low-key ", "restrained ", "self-effacing ", "subdued ", "unassuming ", "unpretentious "], "A": ["bold "]}
+{"index": 347061, "D": "not obtrusive;  inconspicuous, unassertive, or reticent.", "S": ["inconspicuous", "low-key", "restrained", "self-effacing", "subdued", "unassuming", "unpretentious"], "A": ["bold"]}

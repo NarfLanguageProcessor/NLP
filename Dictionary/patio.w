@@ -1,1 +1,0 @@
-{"index": 227827, "D": "an area, usually paved, adjoining a house and used as an area for outdoor lounging, dining, etc.", "S": ["balcony ", "courtyard ", "deck ", "veranda "], "A": []}

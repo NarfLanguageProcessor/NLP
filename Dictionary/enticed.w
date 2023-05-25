@@ -1,1 +1,1 @@
-{"index": 101432, "D": "to lead on by exciting hope or desire; allure; inveigle", "S": ["captivated ", "delighted ", "mesmerized "], "A": ["disenchanted ", "disinterested "]}
+{"index": 101432, "D": "to lead on by exciting hope or desire; allure; inveigle", "S": ["captivated", "delighted", "mesmerized"], "A": ["disenchanted", "disinterested"]}

@@ -1,1 +1,1 @@
-{"index": 98936, "D": "to try to equal or excel; imitate with effort to equal or surpass", "S": ["apish ", "copied ", "duplicated ", "mimetic ", "mimic ", "simulated ", "simulative "], "A": []}
+{"index": 98936, "D": "to try to equal or excel; imitate with effort to equal or surpass", "S": ["apish", "copied", "duplicated", "mimetic", "mimic", "simulated", "simulative"], "A": []}

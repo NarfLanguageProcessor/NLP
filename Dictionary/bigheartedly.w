@@ -1,1 +1,1 @@
-{"index": 33746, "D": "generous; kind.", "S": ["enthusiastically ", "graciously ", "liberally ", "warmly ", "wholeheartedly "], "A": ["coldly ", "grudgingly ", "heartlessly ", "selfishly ", "sparingly ", "stingily "]}
+{"index": 33746, "D": "generous; kind.", "S": ["enthusiastically", "graciously", "liberally", "warmly", "wholeheartedly"], "A": ["coldly", "grudgingly", "heartlessly", "selfishly", "sparingly", "stingily"]}

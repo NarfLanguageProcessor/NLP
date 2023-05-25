@@ -1,1 +1,1 @@
-{"index": 251891, "D": "the act of prognosticating. ", "S": ["prophecy "], "A": []}
+{"index": 251891, "D": "the act of prognosticating. ", "S": ["prophecy"], "A": []}

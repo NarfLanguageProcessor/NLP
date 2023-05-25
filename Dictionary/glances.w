@@ -1,1 +1,1 @@
-{"index": 125903, "D": "to look quickly or briefly.", "S": ["glimpse ", "peek "], "A": ["stare "]}
+{"index": 125903, "D": "to look quickly or briefly.", "S": ["glimpse", "peek"], "A": ["stare"]}

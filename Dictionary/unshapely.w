@@ -1,1 +1,1 @@
-{"index": 350925, "D": "having a pleasing shape,  especially with reference to a woman's figure.", "S": ["billowing ", "floppy ", "oversize ", "roomy "], "A": ["firm ", "fitting ", "tight "]}
+{"index": 350925, "D": "having a pleasing shape,  especially with reference to a woman's figure.", "S": ["billowing", "floppy", "oversize", "roomy"], "A": ["firm", "fitting", "tight"]}

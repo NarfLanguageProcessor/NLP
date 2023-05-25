@@ -1,1 +1,1 @@
-{"index": 124022, "D": "of or relating to tillage or agriculture; agricultural.", "S": ["agriculture ", "breeding ", "cultivation ", "culture ", "gardening ", "grazing ", "production ", "ranching "], "A": ["destruction "]}
+{"index": 124022, "D": "of or relating to tillage or agriculture; agricultural.", "S": ["agriculture", "breeding", "cultivation", "culture", "gardening", "grazing", "production", "ranching"], "A": ["destruction"]}

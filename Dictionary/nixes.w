@@ -1,1 +1,1 @@
-{"index": 200508, "D": "nothing. ", "S": ["forbidding ", "no ", "nothing ", "refusal ", "sprite ", "veto "], "A": ["OK ", "approval ", "sanction "]}
+{"index": 200508, "D": "nothing. ", "S": ["forbidding", "no", "nothing", "refusal", "sprite", "veto"], "A": ["OK", "approval", "sanction"]}

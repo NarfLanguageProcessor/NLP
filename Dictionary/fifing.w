@@ -1,1 +1,1 @@
-{"index": 112397, "D": "a high-pitched transverse flute used commonly in military and marching musical groups.", "S": ["blare ", "hiss "], "A": []}
+{"index": 112397, "D": "a high-pitched transverse flute used commonly in military and marching musical groups.", "S": ["blare", "hiss"], "A": []}

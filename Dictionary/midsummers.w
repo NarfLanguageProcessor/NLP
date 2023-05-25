@@ -1,1 +1,0 @@
-{"index": 186835, "D": "the middle of summer.", "S": ["summertime ", "vacation "], "A": ["winter "]}

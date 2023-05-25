@@ -1,1 +1,1 @@
-{"index": 305630, "D": "to stray from the road, course, or line of march.", "S": ["dawdle ", "meander ", "ramble "], "A": ["rush "]}
+{"index": 305630, "D": "to stray from the road, course, or line of march.", "S": ["dawdle", "meander", "ramble"], "A": ["rush"]}

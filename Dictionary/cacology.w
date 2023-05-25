@@ -1,1 +1,1 @@
-{"index": 44185, "D": "defectively produced speech; socially unacceptable diction.", "S": ["abuse ", "barbarism ", "blunder ", "error ", "impropriety ", "mistake "], "A": ["accuracy ", "certainty ", "correction ", "correctness ", "praise ", "truth "]}
+{"index": 44185, "D": "defectively produced speech; socially unacceptable diction.", "S": ["abuse", "barbarism", "blunder", "error", "impropriety", "mistake"], "A": ["accuracy", "certainty", "correction", "correctness", "praise", "truth"]}

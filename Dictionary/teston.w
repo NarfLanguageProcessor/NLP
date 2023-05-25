@@ -1,1 +1,0 @@
-{"index": 319832, "D": "a former silver coin of France, equal at various times to between 10 and 14\u00bd sols, bearing on the obverse a bust of the reigning king.", "S": [], "A": []}

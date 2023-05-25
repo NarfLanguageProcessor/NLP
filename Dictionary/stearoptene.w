@@ -1,1 +1,0 @@
-{"index": 303332, "D": "the oxygenated solid part of an essential oil (opposed to eleoptene).", "S": [], "A": []}

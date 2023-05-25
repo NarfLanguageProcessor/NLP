@@ -1,1 +1,1 @@
-{"index": 137946, "D": "a polygon having six angles and six sides.", "S": ["hexad ", "hexagram ", "semester ", "sextet ", "sextuplet "], "A": []}
+{"index": 137946, "D": "a polygon having six angles and six sides.", "S": ["hexad", "hexagram", "semester", "sextet", "sextuplet"], "A": []}

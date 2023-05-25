@@ -1,1 +1,1 @@
-{"index": 66176, "D": "overcrowding; clogging", "S": ["bottleneck ", "overpopulation ", "traffic jam "], "A": ["flood ", "flow ", "opening "]}
+{"index": 66176, "D": "overcrowding; clogging", "S": ["bottleneck", "overpopulation", "traffic jam"], "A": ["flood", "flow", "opening"]}

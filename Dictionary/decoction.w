@@ -1,1 +1,1 @@
-{"index": 78525, "D": "the act of decocting. ", "S": ["bouillon ", "chowder ", "porridge ", "puree "], "A": []}
+{"index": 78525, "D": "the act of decocting. ", "S": ["bouillon", "chowder", "porridge", "puree"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98986, "D": "to make able;  give power, means, competence, or ability to", "S": ["empower ", "facilitate ", "implement ", "permit ", "set up "], "A": ["delay ", "hinder ", "refuse ", "reject ", "stop ", "disapprove ", "prevent "]}
+{"index": 98986, "D": "to make able;  give power, means, competence, or ability to", "S": ["empower", "facilitate", "implement", "permit", "set up"], "A": ["delay", "hinder", "refuse", "reject", "stop", "disapprove", "prevent"]}

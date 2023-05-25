@@ -1,1 +1,1 @@
-{"index": 210757, "D": "the action, fact, or instance of occurring.", "S": ["accident ", "circumstance ", "episode ", "existence ", "incidence ", "incident ", "instance ", "manifestation ", "situation "], "A": ["denial ", "reality ", "refusal "]}
+{"index": 210757, "D": "the action, fact, or instance of occurring.", "S": ["accident", "circumstance", "episode", "existence", "incidence", "incident", "instance", "manifestation", "situation"], "A": ["denial", "reality", "refusal"]}

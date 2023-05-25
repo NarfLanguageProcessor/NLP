@@ -1,1 +1,1 @@
-{"index": 272453, "D": "a woven strip or band of fine material, as silk or rayon, varying in width and finished off at the edges, used for ornament, tying, etc.", "S": ["bow ", "decoration ", "streamer ", "strip ", "stripe ", "tape "], "A": []}
+{"index": 272453, "D": "a woven strip or band of fine material, as silk or rayon, varying in width and finished off at the edges, used for ornament, tying, etc.", "S": ["bow", "decoration", "streamer", "strip", "stripe", "tape"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 21644, "D": "a group of persons or things gathered or collected; an assembly; collection; aggregate.", "S": ["aggregation ", "assembly ", "association ", "collection ", "company ", "congregation ", "convergence ", "crowd ", "group ", "throng "], "A": ["dispersal ", "scattering "]}
+{"index": 21644, "D": "a group of persons or things gathered or collected; an assembly; collection; aggregate.", "S": ["aggregation", "assembly", "association", "collection", "company", "congregation", "convergence", "crowd", "group", "throng"], "A": ["dispersal", "scattering"]}

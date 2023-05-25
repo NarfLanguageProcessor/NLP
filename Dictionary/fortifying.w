@@ -1,1 +1,1 @@
-{"index": 117680, "D": "to protect or strengthen against attack; surround or provide with defensive military works.", "S": ["invigorating ", "refreshing "], "A": ["friendly ", "hot ", "responsive ", "temperate ", "warm "]}
+{"index": 117680, "D": "to protect or strengthen against attack; surround or provide with defensive military works.", "S": ["invigorating", "refreshing"], "A": ["friendly", "hot", "responsive", "temperate", "warm"]}

@@ -1,1 +1,1 @@
-{"index": 150601, "D": "(of a usually undesirable consequence) experienced or brought upon oneself", "S": ["acquire ", "arouse ", "earn ", "obtain ", "provoke "], "A": ["forfeit ", "lose ", "discourage ", "miss ", "misunderstand ", "pass ", "push "]}
+{"index": 150601, "D": "(of a usually undesirable consequence) experienced or brought upon oneself", "S": ["acquire", "arouse", "earn", "obtain", "provoke"], "A": ["forfeit", "lose", "discourage", "miss", "misunderstand", "pass", "push"]}

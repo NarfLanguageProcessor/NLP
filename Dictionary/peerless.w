@@ -1,1 +1,1 @@
-{"index": 229079, "D": "having no equal; matchless; unrivaled.", "S": ["unequaled ", "unrivaled "], "A": ["imperfect ", "inferior ", "lowly ", "mediocre ", "secondary ", "subordinate "]}
+{"index": 229079, "D": "having no equal; matchless; unrivaled.", "S": ["unequaled", "unrivaled"], "A": ["imperfect", "inferior", "lowly", "mediocre", "secondary", "subordinate"]}

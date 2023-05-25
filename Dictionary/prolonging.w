@@ -1,1 +1,1 @@
-{"index": 252205, "D": "to lengthen out in time; extend the duration of; cause to continue longer", "S": ["continuance ", "continuity ", "extension ", "perpetuation ", "preservation "], "A": ["stoppage "]}
+{"index": 252205, "D": "to lengthen out in time; extend the duration of; cause to continue longer", "S": ["continuance", "continuity", "extension", "perpetuation", "preservation"], "A": ["stoppage"]}

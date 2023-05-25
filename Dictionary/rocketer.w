@@ -1,1 +1,1 @@
-{"index": 273678, "D": "a person who discharges, rides in, or pilots a rocket. ", "S": ["missile engineer ", "missile man ", "rocket engineer ", "rocket man ", "rocket technician ", "rocketeer "], "A": []}
+{"index": 273678, "D": "a person who discharges, rides in, or pilots a rocket. ", "S": ["missile engineer", "missile man", "rocket engineer", "rocket man", "rocket technician", "rocketeer"], "A": []}

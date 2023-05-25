@@ -1,1 +1,1 @@
-{"index": 354984, "D": "located at, moving toward, or of or for the upper end of a social or economic scale", "S": ["moneyed ", "prosperous ", "rich ", "well-off ", "well-to-do "], "A": ["destitute ", "poor "]}
+{"index": 354984, "D": "located at, moving toward, or of or for the upper end of a social or economic scale", "S": ["moneyed", "prosperous", "rich", "well-off", "well-to-do"], "A": ["destitute", "poor"]}

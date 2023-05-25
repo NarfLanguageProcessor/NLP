@@ -1,1 +1,1 @@
-{"index": 293626, "D": "defamation; calumny", "S": ["aggrieved ", "disgraced ", "humiliated ", "outraged ", "shamed "], "A": ["complimented ", "flattered ", "praised "]}
+{"index": 293626, "D": "defamation; calumny", "S": ["aggrieved", "disgraced", "humiliated", "outraged", "shamed"], "A": ["complimented", "flattered", "praised"]}

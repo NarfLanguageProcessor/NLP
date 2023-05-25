@@ -1,1 +1,1 @@
-{"index": 160185, "D": "a player on a junior varsity  team.", "S": ["JV ", "second team "], "A": []}
+{"index": 160185, "D": "a player on a junior varsity  team.", "S": ["JV", "second team"], "A": []}

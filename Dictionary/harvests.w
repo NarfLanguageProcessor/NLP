@@ -1,1 +1,1 @@
-{"index": 134057, "D": "the gathering of crops.", "S": ["intake ", "output ", "result ", "yield "], "A": ["beginning ", "cause ", "commencement ", "origin ", "rise ", "source ", "start "]}
+{"index": 134057, "D": "the gathering of crops.", "S": ["intake", "output", "result", "yield"], "A": ["beginning", "cause", "commencement", "origin", "rise", "source", "start"]}

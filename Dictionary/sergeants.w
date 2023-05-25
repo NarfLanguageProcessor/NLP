@@ -1,1 +1,1 @@
-{"index": 286018, "D": "a noncommissioned army officer of a rank above that of corporal.", "S": ["agent ", "informer ", "police officer ", "private eye ", "private investigator ", "prosecutor ", "reporter ", "sleuth ", "spy "], "A": []}
+{"index": 286018, "D": "a noncommissioned army officer of a rank above that of corporal.", "S": ["agent", "informer", "police officer", "private eye", "private investigator", "prosecutor", "reporter", "sleuth", "spy"], "A": []}

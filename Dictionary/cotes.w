@@ -1,1 +1,1 @@
-{"index": 70305, "D": "a shelter, coop, or small shed for sheep, pigs, pigeons, etc.", "S": ["box ", "corner ", "counter ", "cubicle ", "hut ", "pew ", "stall "], "A": []}
+{"index": 70305, "D": "a shelter, coop, or small shed for sheep, pigs, pigeons, etc.", "S": ["box", "corner", "counter", "cubicle", "hut", "pew", "stall"], "A": []}

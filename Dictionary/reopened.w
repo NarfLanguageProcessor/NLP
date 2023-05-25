@@ -1,1 +1,1 @@
-{"index": 267864, "D": "to open  again.", "S": ["reinstate ", "renew ", "restart ", "restore ", "resume ", "return to ", "take up "], "A": ["finish ", "halt ", "stop "]}
+{"index": 267864, "D": "to open  again.", "S": ["reinstate", "renew", "restart", "restore", "resume", "return to", "take up"], "A": ["finish", "halt", "stop"]}

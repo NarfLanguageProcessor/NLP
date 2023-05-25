@@ -1,1 +1,0 @@
-{"index": 243336, "D": "a supporter or adherent of populism.", "S": ["autonomous ", "constitutional ", "egalitarian ", "free ", "orderly ", "popular "], "A": []}

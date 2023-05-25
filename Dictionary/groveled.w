@@ -1,1 +1,1 @@
-{"index": 130394, "D": "to humble oneself or act in an abject manner, as in great fear or utter servility.", "S": ["beseech ", "fawn "], "A": ["ignore "]}
+{"index": 130394, "D": "to humble oneself or act in an abject manner, as in great fear or utter servility.", "S": ["beseech", "fawn"], "A": ["ignore"]}

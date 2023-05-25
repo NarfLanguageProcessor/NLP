@@ -1,1 +1,1 @@
-{"index": 360479, "D": "to recall or form mental images or pictures.", "S": ["decision ", "judgment ", "resolve "], "A": ["indecision ", "wavering ", "problem ", "question ", "trouble "]}
+{"index": 360479, "D": "to recall or form mental images or pictures.", "S": ["decision", "judgment", "resolve"], "A": ["indecision", "wavering", "problem", "question", "trouble"]}

@@ -1,1 +1,1 @@
-{"index": 77140, "D": "a comprehensive collection of related data  organized for convenient access, generally in a computer.", "S": ["table "], "A": []}
+{"index": 77140, "D": "a comprehensive collection of related data  organized for convenient access, generally in a computer.", "S": ["table"], "A": []}

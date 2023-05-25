@@ -1,0 +1,1 @@
+{"index": 4820, "D": "the shield or breastplate of Zeus or Athena, bearing at its center the head of the Gorgon.", "S": ["auspices", "patronage", "sponsorship"], "A": []}

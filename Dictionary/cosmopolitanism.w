@@ -1,1 +1,1 @@
-{"index": 70089, "D": "the fact or condition of belonging to all the world and not just one part, or of being at home all over the world", "S": ["elegance ", "flair ", "grace ", "mode ", "sophistication ", "taste ", "thing "], "A": ["dislike ", "hate ", "hatred ", "ineptness ", "dullness "]}
+{"index": 70089, "D": "the fact or condition of belonging to all the world and not just one part, or of being at home all over the world", "S": ["elegance", "flair", "grace", "mode", "sophistication", "taste", "thing"], "A": ["dislike", "hate", "hatred", "ineptness", "dullness"]}

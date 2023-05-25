@@ -1,1 +1,1 @@
-{"index": 281524, "D": "irregular; uneven; jagged.", "S": ["bedraggled ", "scruffy ", "unkempt "], "A": ["neat ", "tidy "]}
+{"index": 281524, "D": "irregular; uneven; jagged.", "S": ["bedraggled", "scruffy", "unkempt"], "A": ["neat", "tidy"]}

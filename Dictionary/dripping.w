@@ -1,1 +1,1 @@
-{"index": 93158, "D": "the act of something that drips.", "S": ["disheveled ", "run down ", "seedy ", "threadbare ", "untidy "], "A": ["fresh ", "neat ", "orderly ", "tidy ", "clean "]}
+{"index": 93158, "D": "the act of something that drips.", "S": ["disheveled", "run down", "seedy", "threadbare", "untidy"], "A": ["fresh", "neat", "orderly", "tidy", "clean"]}

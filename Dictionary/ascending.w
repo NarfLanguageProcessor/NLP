@@ -1,1 +1,1 @@
-{"index": 20927, "D": "moving upward; rising.", "S": ["climbing ", "growing ", "increasing ", "soaring ", "spiraling ", "surging "], "A": []}
+{"index": 20927, "D": "moving upward; rising.", "S": ["climbing", "growing", "increasing", "soaring", "spiraling", "surging"], "A": []}

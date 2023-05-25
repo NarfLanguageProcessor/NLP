@@ -1,1 +1,1 @@
-{"index": 356741, "D": "a small piece of luggage that can be carried by hand, used to hold clothing, toilet articles, etc.; suitcase; traveling bag.", "S": ["bag ", "baggage ", "carry-on ", "grip ", "gripsack ", "haversack ", "portmanteau ", "satchel ", "suitcase "], "A": []}
+{"index": 356741, "D": "a small piece of luggage that can be carried by hand, used to hold clothing, toilet articles, etc.; suitcase; traveling bag.", "S": ["bag", "baggage", "carry-on", "grip", "gripsack", "haversack", "portmanteau", "satchel", "suitcase"], "A": []}

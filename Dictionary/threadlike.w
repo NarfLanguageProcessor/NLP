@@ -1,1 +1,1 @@
-{"index": 322572, "D": "a fine cord of flax, cotton, or other fibrous material spun out to considerable length, especially when composed of two or more filaments twisted together.", "S": ["capillaceous ", "capilliform ", "filamentous ", "filar ", "ropy "], "A": []}
+{"index": 322572, "D": "a fine cord of flax, cotton, or other fibrous material spun out to considerable length, especially when composed of two or more filaments twisted together.", "S": ["capillaceous", "capilliform", "filamentous", "filar", "ropy"], "A": []}

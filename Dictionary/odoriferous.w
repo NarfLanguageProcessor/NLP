@@ -1,1 +1,1 @@
-{"index": 211377, "D": "yielding or diffusing an odor. ", "S": ["fragrant ", "perfumed ", "pungent ", "savory ", "scented ", "spicy ", "sweet "], "A": ["bland ", "dull ", "flavorless ", "stinking ", "tasteless "]}
+{"index": 211377, "D": "yielding or diffusing an odor. ", "S": ["fragrant", "perfumed", "pungent", "savory", "scented", "spicy", "sweet"], "A": ["bland", "dull", "flavorless", "stinking", "tasteless"]}

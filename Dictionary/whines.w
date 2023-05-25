@@ -1,1 +1,1 @@
-{"index": 364864, "D": "to utter a low, usually nasal, complaining cry or sound, as from uneasiness, discontent, peevishness, etc.", "S": ["gripe ", "moan ", "wail ", "whimper "], "A": ["happiness ", "pleasure "]}
+{"index": 364864, "D": "to utter a low, usually nasal, complaining cry or sound, as from uneasiness, discontent, peevishness, etc.", "S": ["gripe", "moan", "wail", "whimper"], "A": ["happiness", "pleasure"]}

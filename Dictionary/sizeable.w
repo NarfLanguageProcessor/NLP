@@ -1,1 +1,1 @@
-{"index": 292761, "D": "sizable. ", "S": ["colossal ", "considerable ", "enormous ", "gigantic ", "humongous ", "monumental ", "tremendous ", "vast ", "whopping "], "A": ["insignificant ", "little ", "small ", "teeny ", "tiny ", "unimportant "]}
+{"index": 292761, "D": "sizable. ", "S": ["colossal", "considerable", "enormous", "gigantic", "humongous", "monumental", "tremendous", "vast", "whopping"], "A": ["insignificant", "little", "small", "teeny", "tiny", "unimportant"]}

@@ -1,1 +1,1 @@
-{"index": 11336, "D": "to make larger, greater, or stronger; enlarge; extend.", "S": ["coincidental ", "inconclusive ", "indirect "], "A": ["direct "]}
+{"index": 11336, "D": "to make larger, greater, or stronger; enlarge; extend.", "S": ["coincidental", "inconclusive", "indirect"], "A": ["direct"]}

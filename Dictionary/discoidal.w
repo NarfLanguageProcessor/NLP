@@ -1,1 +1,1 @@
-{"index": 87416, "D": "having the form of a discus or disk; flat and circular.", "S": ["disc ", "plate ", "platter "], "A": []}
+{"index": 87416, "D": "having the form of a discus or disk; flat and circular.", "S": ["disc", "plate", "platter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 93711, "D": "to invest with any name, character, dignity, or title; style; name; call", "S": ["designate ", "nickname "], "A": []}
+{"index": 93711, "D": "to invest with any name, character, dignity, or title; style; name; call", "S": ["designate", "nickname"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 73964, "D": "an attendant in a gambling casino who rakes in money or chips and pays winners at a gaming table.", "S": ["broker ", "dealer ", "financier ", "investor ", "manager ", "officer "], "A": []}
+{"index": 73964, "D": "an attendant in a gambling casino who rakes in money or chips and pays winners at a gaming table.", "S": ["broker", "dealer", "financier", "investor", "manager", "officer"], "A": []}

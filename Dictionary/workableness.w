@@ -1,1 +1,1 @@
-{"index": 367467, "D": "practicable or feasible", "S": ["action ", "circumstance ", "hazard ", "hope ", "incident ", "opportunity ", "probability ", "prospect ", "risk "], "A": ["certainty ", "safety ", "surety ", "plan "]}
+{"index": 367467, "D": "practicable or feasible", "S": ["action", "circumstance", "hazard", "hope", "incident", "opportunity", "probability", "prospect", "risk"], "A": ["certainty", "safety", "surety", "plan"]}

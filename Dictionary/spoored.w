@@ -1,1 +1,1 @@
-{"index": 300910, "D": "a track or trail, especially that of a wild animal pursued as game.", "S": ["ascertain ", "detect ", "determine ", "discern ", "discover ", "find ", "pursue ", "track ", "unearth "], "A": ["lose ", "miss ", "overlook ", "pass by ", "neglect "]}
+{"index": 300910, "D": "a track or trail, especially that of a wild animal pursued as game.", "S": ["ascertain", "detect", "determine", "discern", "discover", "find", "pursue", "track", "unearth"], "A": ["lose", "miss", "overlook", "pass by", "neglect"]}

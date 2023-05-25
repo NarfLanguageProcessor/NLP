@@ -1,1 +1,1 @@
-{"index": 263578, "D": "cowardly or craven.", "S": ["bum ", "liar ", "scoundrel ", "swindler ", "wretch "], "A": ["hard worker "]}
+{"index": 263578, "D": "cowardly or craven.", "S": ["bum", "liar", "scoundrel", "swindler", "wretch"], "A": ["hard worker"]}

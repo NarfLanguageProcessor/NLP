@@ -1,1 +1,1 @@
-{"index": 297063, "D": "at some indefinite or indeterminate point of time", "S": ["late ", "once ", "periodically ", "someday "], "A": ["immediately ", "never "]}
+{"index": 297063, "D": "at some indefinite or indeterminate point of time", "S": ["late", "once", "periodically", "someday"], "A": ["immediately", "never"]}

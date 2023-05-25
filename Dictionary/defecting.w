@@ -1,1 +1,1 @@
-{"index": 79152, "D": "a shortcoming, fault, or imperfection", "S": ["apostate ", "base ", "craven ", "low ", "skulking ", "timid ", "yellow ", "yielding "], "A": ["bold ", "brave ", "honest ", "moral ", "strong "]}
+{"index": 79152, "D": "a shortcoming, fault, or imperfection", "S": ["apostate", "base", "craven", "low", "skulking", "timid", "yellow", "yielding"], "A": ["bold", "brave", "honest", "moral", "strong"]}

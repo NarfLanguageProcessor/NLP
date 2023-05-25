@@ -1,1 +1,1 @@
-{"index": 320383, "D": "any cloth or goods produced by weaving, knitting, or felting.", "S": ["cotton ", "goods ", "material ", "stuff "], "A": []}
+{"index": 320383, "D": "any cloth or goods produced by weaving, knitting, or felting.", "S": ["cotton", "goods", "material", "stuff"], "A": []}

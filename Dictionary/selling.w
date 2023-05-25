@@ -1,1 +1,1 @@
-{"index": 283589, "D": "of or relating to a sale  or sales", "S": ["auction ", "sale ", "trading ", "transfer "], "A": ["acquiring ", "buying ", "purchasing "]}
+{"index": 283589, "D": "of or relating to a sale  or sales", "S": ["auction", "sale", "trading", "transfer"], "A": ["acquiring", "buying", "purchasing"]}

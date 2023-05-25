@@ -1,1 +1,1 @@
-{"index": 134520, "D": "an unavoidable danger or risk, even though often foreseeable", "S": ["peril ", "risk ", "threat "], "A": ["safety "]}
+{"index": 134520, "D": "an unavoidable danger or risk, even though often foreseeable", "S": ["peril", "risk", "threat"], "A": ["safety"]}

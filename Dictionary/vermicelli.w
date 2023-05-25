@@ -1,1 +1,1 @@
-{"index": 358580, "D": "Compare macaroni (def. 1). ", "S": ["gnocchi ", "linguine ", "macaroni ", "ravioli ", "spaghetti ", "tortellini "], "A": []}
+{"index": 358580, "D": "Compare macaroni (def. 1). ", "S": ["gnocchi", "linguine", "macaroni", "ravioli", "spaghetti", "tortellini"], "A": []}

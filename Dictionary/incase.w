@@ -1,1 +1,1 @@
-{"index": 149727, "D": "encase. ", "S": ["in order to avoid ", "so that ", "to prevent "], "A": []}
+{"index": 149727, "D": "encase. ", "S": ["in order to avoid", "so that", "to prevent"], "A": []}

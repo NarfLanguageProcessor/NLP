@@ -1,1 +1,1 @@
-{"index": 261234, "D": "to talk wildly, as in delirium.", "S": ["babble ", "freak out ", "fume ", "go crazy ", "rant "], "A": ["be quiet "]}
+{"index": 261234, "D": "to talk wildly, as in delirium.", "S": ["babble", "freak out", "fume", "go crazy", "rant"], "A": ["be quiet"]}

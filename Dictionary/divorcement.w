@@ -1,1 +1,1 @@
-{"index": 90407, "D": "divorce;  separation.", "S": ["detachment ", "disunion ", "division ", "divorce ", "parting ", "partition ", "severance ", "split "], "A": ["attachment ", "connection ", "juncture ", "marriage ", "union ", "unity "]}
+{"index": 90407, "D": "divorce;  separation.", "S": ["detachment", "disunion", "division", "divorce", "parting", "partition", "severance", "split"], "A": ["attachment", "connection", "juncture", "marriage", "union", "unity"]}

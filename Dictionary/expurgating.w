@@ -1,1 +1,1 @@
-{"index": 108079, "D": "to amend by removing words, passages, etc., deemed offensive or objectionable", "S": ["bleep ", "bowdlerize ", "cleanse ", "decontaminate ", "lustrate ", "purge ", "purify ", "sanitize ", "screen ", "scrub ", "squash ", "sterilize "], "A": ["dirty ", "open "]}
+{"index": 108079, "D": "to amend by removing words, passages, etc., deemed offensive or objectionable", "S": ["bleep", "bowdlerize", "cleanse", "decontaminate", "lustrate", "purge", "purify", "sanitize", "screen", "scrub", "squash", "sterilize"], "A": ["dirty", "open"]}

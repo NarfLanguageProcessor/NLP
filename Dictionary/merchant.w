@@ -1,1 +1,1 @@
-{"index": 183664, "D": "a person who buys and sells commodities for profit; dealer; trader.", "S": ["broker ", "dealer ", "exporter ", "operator ", "retailer ", "seller ", "shipper ", "shopkeeper ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}
+{"index": 183664, "D": "a person who buys and sells commodities for profit; dealer; trader.", "S": ["broker", "dealer", "exporter", "operator", "retailer", "seller", "shipper", "shopkeeper", "trader", "trafficker", "vendor", "wholesaler"], "A": ["customer"]}

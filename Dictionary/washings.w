@@ -1,1 +1,1 @@
-{"index": 362909, "D": "the act of a person or thing that washes;  ablution.", "S": ["ablutionary "], "A": []}
+{"index": 362909, "D": "the act of a person or thing that washes;  ablution.", "S": ["ablutionary"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 353191, "D": "of or relating to tradition. ", "S": ["reactionary "], "A": ["obedient ", "passive ", "submissive "]}
+{"index": 353191, "D": "of or relating to tradition. ", "S": ["reactionary"], "A": ["obedient", "passive", "submissive"]}

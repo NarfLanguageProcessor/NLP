@@ -1,1 +1,1 @@
-{"index": 114434, "D": "the soft substance of a human or other animal body, consisting of muscle and fat.", "S": ["beef ", "fat ", "meat ", "muscle "], "A": ["skinniness ", "thinness "]}
+{"index": 114434, "D": "the soft substance of a human or other animal body, consisting of muscle and fat.", "S": ["beef", "fat", "meat", "muscle"], "A": ["skinniness", "thinness"]}

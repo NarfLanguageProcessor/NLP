@@ -1,1 +1,1 @@
-{"index": 130493, "D": [], "S": ["begrudging ", "bitterness ", "hatred ", "ill will ", "jealousy ", "malice ", "prejudice ", "resentment ", "rivalry "], "A": ["friendliness ", "liking ", "love ", "loving "]}
+{"index": 130493, "D": [], "S": ["begrudging", "bitterness", "hatred", "ill will", "jealousy", "malice", "prejudice", "resentment", "rivalry"], "A": ["friendliness", "liking", "love", "loving"]}

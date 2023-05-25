@@ -1,1 +1,1 @@
-{"index": 315056, "D": "understood without being openly expressed; implied", "S": ["implicit ", "implied ", "indirect ", "unspoken "], "A": ["stated "]}
+{"index": 315056, "D": "understood without being openly expressed; implied", "S": ["implicit", "implied", "indirect", "unspoken"], "A": ["stated"]}

@@ -1,1 +1,1 @@
-{"index": 135619, "D": "any hairy plant belonging to the genus Heliotropium, of the borage family, as H. arborescens, cultivated for its small, fragrant purple flowers.", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}
+{"index": 135619, "D": "any hairy plant belonging to the genus Heliotropium, of the borage family, as H. arborescens, cultivated for its small, fragrant purple flowers.", "S": ["color", "lavender", "lilac", "mauve", "periwinkle", "plum", "violet"], "A": []}

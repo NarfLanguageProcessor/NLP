@@ -1,1 +1,1 @@
-{"index": 198887, "D": "a bag or other contrivance of strong thread or cord worked into an open, meshed fabric, for catching fish, birds, or other animals", "S": ["interwoven ", "mesh ", "spun ", "woven "], "A": []}
+{"index": 198887, "D": "a bag or other contrivance of strong thread or cord worked into an open, meshed fabric, for catching fish, birds, or other animals", "S": ["interwoven", "mesh", "spun", "woven"], "A": []}

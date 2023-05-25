@@ -1,1 +1,1 @@
-{"index": 149226, "D": "not prudent; lacking discretion; incautious; rash. ", "S": ["foolishly ", "inadvisedly ", "indiscreetly ", "rashly "], "A": []}
+{"index": 149226, "D": "not prudent; lacking discretion; incautious; rash. ", "S": ["foolishly", "inadvisedly", "indiscreetly", "rashly"], "A": []}

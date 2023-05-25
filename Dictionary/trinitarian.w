@@ -1,1 +1,1 @@
-{"index": 330132, "D": "believing in or adhering to the doctrine of the Trinity.", "S": ["ternary ", "third ", "treble ", "trilateral ", "triple "], "A": []}
+{"index": 330132, "D": "believing in or adhering to the doctrine of the Trinity.", "S": ["ternary", "third", "treble", "trilateral", "triple"], "A": []}

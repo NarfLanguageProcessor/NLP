@@ -1,1 +1,1 @@
-{"index": 106704, "D": "stirred emotionally; agitated", "S": ["agitated ", "annoyed ", "delighted ", "disturbed ", "eager ", "enthusiastic ", "hysterical ", "nervous ", "passionate ", "thrilled "], "A": ["apathetic ", "calm ", "disinterested ", "indifferent ", "unenthusiastic ", "unexcited "]}
+{"index": 106704, "D": "stirred emotionally; agitated", "S": ["agitated", "annoyed", "delighted", "disturbed", "eager", "enthusiastic", "hysterical", "nervous", "passionate", "thrilled"], "A": ["apathetic", "calm", "disinterested", "indifferent", "unenthusiastic", "unexcited"]}

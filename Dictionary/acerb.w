@@ -1,1 +1,1 @@
-{"index": 1946, "D": "acerbic. ", "S": ["acerbic ", "acetous ", "acid ", "acidulous ", "acrid ", "bitter ", "harsh ", "sharp ", "tangy ", "tart "], "A": []}
+{"index": 1946, "D": "acerbic. ", "S": ["acerbic", "acetous", "acid", "acidulous", "acrid", "bitter", "harsh", "sharp", "tangy", "tart"], "A": []}

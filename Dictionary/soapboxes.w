@@ -1,1 +1,1 @@
-{"index": 295983, "D": "an improvised platform, as one on a street, from which a speaker delivers an informal speech, an appeal, or political harangue.", "S": ["lecture ", "sermon ", "talk "], "A": []}
+{"index": 295983, "D": "an improvised platform, as one on a street, from which a speaker delivers an informal speech, an appeal, or political harangue.", "S": ["lecture", "sermon", "talk"], "A": []}

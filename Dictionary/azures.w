@@ -1,1 +1,1 @@
-{"index": 25410, "D": "of or having a light, purplish shade of blue, like that of a clear and unclouded sky.", "S": ["azure ", "empyrean ", "firmament ", "heavens ", "lid ", "vault ", "welkin "], "A": ["earth ", "ocean "]}
+{"index": 25410, "D": "of or having a light, purplish shade of blue, like that of a clear and unclouded sky.", "S": ["azure", "empyrean", "firmament", "heavens", "lid", "vault", "welkin"], "A": ["earth", "ocean"]}

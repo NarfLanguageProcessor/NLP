@@ -1,1 +1,1 @@
-{"index": 83488, "D": "a person or thing that develops  or innovates", "S": ["builder ", "planner "], "A": []}
+{"index": 83488, "D": "a person or thing that develops  or innovates", "S": ["builder", "planner"], "A": []}

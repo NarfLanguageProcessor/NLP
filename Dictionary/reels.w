@@ -1,1 +1,1 @@
-{"index": 264635, "D": "a cylinder, frame, or other device that turns on an axis and is used to wind up or pay out something.", "S": ["falter ", "lurch ", "shake ", "stagger ", "stumble ", "teeter "], "A": ["stabilize ", "steady "]}
+{"index": 264635, "D": "a cylinder, frame, or other device that turns on an axis and is used to wind up or pay out something.", "S": ["falter", "lurch", "shake", "stagger", "stumble", "teeter"], "A": ["stabilize", "steady"]}

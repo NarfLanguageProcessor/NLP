@@ -1,1 +1,1 @@
-{"index": 297072, "D": "sometime. ", "S": ["eventually ", "someday ", "sometime "], "A": ["never "]}
+{"index": 297072, "D": "sometime. ", "S": ["eventually", "someday", "sometime"], "A": ["never"]}

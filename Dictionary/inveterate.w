@@ -1,1 +1,1 @@
-{"index": 157198, "D": "settled or confirmed in a habit, practice, feeling, or the like", "S": ["addicted ", "habitual ", "hard-core ", "hardened ", "incurable ", "lifelong "], "A": ["short-lived "]}
+{"index": 157198, "D": "settled or confirmed in a habit, practice, feeling, or the like", "S": ["addicted", "habitual", "hard-core", "hardened", "incurable", "lifelong"], "A": ["short-lived"]}

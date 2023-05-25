@@ -1,1 +1,1 @@
-{"index": 62883, "D": [], "S": ["cooperate ", "tend "], "A": ["divide ", "separate ", "withdraw "]}
+{"index": 62883, "D": [], "S": ["cooperate", "tend"], "A": ["divide", "separate", "withdraw"]}

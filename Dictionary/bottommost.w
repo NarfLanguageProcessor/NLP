@@ -1,1 +1,1 @@
-{"index": 38831, "D": "of, relating to, or situated at the bottom. ", "S": ["below ", "depressed ", "flat ", "little ", "small "], "A": ["big ", "enormous ", "huge ", "immense ", "important ", "large ", "raised "]}
+{"index": 38831, "D": "of, relating to, or situated at the bottom. ", "S": ["below", "depressed", "flat", "little", "small"], "A": ["big", "enormous", "huge", "immense", "important", "large", "raised"]}

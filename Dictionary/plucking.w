@@ -1,1 +1,0 @@
-{"index": 240331, "D": "to pull off or out from the place of growth, as fruit, flowers, feathers, etc.", "S": ["bravery ", "grit ", "guts ", "moxie ", "spunk "], "A": ["cowardice ", "timidity ", "fear ", "spinelessness ", "weakness "]}

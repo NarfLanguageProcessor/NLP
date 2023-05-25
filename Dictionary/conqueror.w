@@ -1,1 +1,1 @@
-{"index": 66635, "D": "a person who conquers  or vanquishes; victor.", "S": ["conquistador "], "A": ["loser "]}
+{"index": 66635, "D": "a person who conquers  or vanquishes; victor.", "S": ["conquistador"], "A": ["loser"]}

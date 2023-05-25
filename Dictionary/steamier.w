@@ -1,1 +1,1 @@
-{"index": 303298, "D": "consisting of or resembling steam. ", "S": ["evaporating ", "gaseous ", "steaming ", "vaporous "], "A": []}
+{"index": 303298, "D": "consisting of or resembling steam. ", "S": ["evaporating", "gaseous", "steaming", "vaporous"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 147368, "D": "a disagreeable or surly mood.", "S": ["cranky ", "dour ", "grouchy ", "grumpy ", "irascible ", "prickly ", "quarrelsome ", "testy "], "A": ["cheerful ", "easygoing ", "happy ", "pleasant "]}
+{"index": 147368, "D": "a disagreeable or surly mood.", "S": ["cranky", "dour", "grouchy", "grumpy", "irascible", "prickly", "quarrelsome", "testy"], "A": ["cheerful", "easygoing", "happy", "pleasant"]}

@@ -1,1 +1,1 @@
-{"index": 135395, "D": "a person who inherits or has a right of inheritance in the property of another following the latter's death.", "S": ["beneficiary ", "inheritor ", "scion ", "successor "], "A": ["heiress "]}
+{"index": 135395, "D": "a person who inherits or has a right of inheritance in the property of another following the latter's death.", "S": ["beneficiary", "inheritor", "scion", "successor"], "A": ["heiress"]}

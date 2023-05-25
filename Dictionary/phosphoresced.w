@@ -1,1 +1,1 @@
-{"index": 234905, "D": "to be luminous without sensible heat, as phosphorus. ", "S": ["beam ", "blaze ", "blink ", "flare ", "glance ", "glare ", "gleam ", "glisten ", "glow ", "reflect ", "shine ", "sparkle ", "twinkle "], "A": []}
+{"index": 234905, "D": "to be luminous without sensible heat, as phosphorus. ", "S": ["beam", "blaze", "blink", "flare", "glance", "glare", "gleam", "glisten", "glow", "reflect", "shine", "sparkle", "twinkle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 116279, "D": "the use of the feet,  as in tennis, boxing, or dancing.", "S": ["airing ", "walk "], "A": []}
+{"index": 116279, "D": "the use of the feet,  as in tennis, boxing, or dancing.", "S": ["airing", "walk"], "A": []}

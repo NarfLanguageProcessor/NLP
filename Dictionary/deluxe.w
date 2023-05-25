@@ -1,1 +1,1 @@
-{"index": 80312, "D": "of special elegance, sumptuousness, or fineness; high or highest in quality, luxury, etc.", "S": ["elegant ", "luxurious ", "opulent ", "palatial ", "posh ", "ritzy ", "sumptuous ", "swank ", "swanky "], "A": ["destitute ", "poor "]}
+{"index": 80312, "D": "of special elegance, sumptuousness, or fineness; high or highest in quality, luxury, etc.", "S": ["elegant", "luxurious", "opulent", "palatial", "posh", "ritzy", "sumptuous", "swank", "swanky"], "A": ["destitute", "poor"]}

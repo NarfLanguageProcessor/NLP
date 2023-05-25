@@ -1,1 +1,1 @@
-{"index": 144994, "D": "an act or instance of humiliating  or being humiliated. ", "S": ["confusion ", "degradation ", "disgrace ", "ignominy ", "indignity ", "shame "], "A": ["esteem ", "honor ", "respect ", "resistance "]}
+{"index": 144994, "D": "an act or instance of humiliating  or being humiliated. ", "S": ["confusion", "degradation", "disgrace", "ignominy", "indignity", "shame"], "A": ["esteem", "honor", "respect", "resistance"]}

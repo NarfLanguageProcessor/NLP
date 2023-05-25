@@ -1,1 +1,1 @@
-{"index": 243694, "D": "a case or bag to carry clothing in while traveling, especially a leather trunk or suitcase that opens into two halves.", "S": ["bag ", "gladstone ", "luggage ", "valise "], "A": []}
+{"index": 243694, "D": "a case or bag to carry clothing in while traveling, especially a leather trunk or suitcase that opens into two halves.", "S": ["bag", "gladstone", "luggage", "valise"], "A": []}

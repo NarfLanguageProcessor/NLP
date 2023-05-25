@@ -1,1 +1,1 @@
-{"index": 76592, "D": "causing incrimination", "S": ["incriminating "], "A": []}
+{"index": 76592, "D": "causing incrimination", "S": ["incriminating"], "A": []}

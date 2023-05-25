@@ -1,1 +1,1 @@
-{"index": 171507, "D": "a four-engined heavy bomber widely used over Europe and the Mediterranean by the U.S. Army Air Force in World War II. Symbol", "S": ["savior "], "A": []}
+{"index": 171507, "D": "a four-engined heavy bomber widely used over Europe and the Mediterranean by the U.S. Army Air Force in World War II. Symbol", "S": ["savior"], "A": []}

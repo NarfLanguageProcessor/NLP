@@ -1,1 +1,1 @@
-{"index": 106435, "D": "raised or elevated, as in rank or character; of high station", "S": ["elevated ", "illustrious ", "inflated ", "lofty ", "sublime "], "A": ["lowly ", "subordinate ", "unimportant "]}
+{"index": 106435, "D": "raised or elevated, as in rank or character; of high station", "S": ["elevated", "illustrious", "inflated", "lofty", "sublime"], "A": ["lowly", "subordinate", "unimportant"]}

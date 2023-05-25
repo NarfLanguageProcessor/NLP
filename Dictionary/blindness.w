@@ -1,1 +1,1 @@
-{"index": 36237, "D": "the inability to see; the condition of having severely impaired or absolutely no sense of sight", "S": ["defect ", "myopia "], "A": ["sight "]}
+{"index": 36237, "D": "the inability to see; the condition of having severely impaired or absolutely no sense of sight", "S": ["defect", "myopia"], "A": ["sight"]}

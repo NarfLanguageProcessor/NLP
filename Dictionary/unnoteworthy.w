@@ -1,1 +1,1 @@
-{"index": 346947, "D": "worthy  of notice or attention; notable; remarkable", "S": ["customary ", "mundane ", "normal ", "obvious ", "prevalent ", "typical "], "A": ["abnormal ", "different ", "irregular ", "rare ", "uncommon ", "unconventional ", "unusual ", "exceptional ", "extraordinary "]}
+{"index": 346947, "D": "worthy  of notice or attention; notable; remarkable", "S": ["customary", "mundane", "normal", "obvious", "prevalent", "typical"], "A": ["abnormal", "different", "irregular", "rare", "uncommon", "unconventional", "unusual", "exceptional", "extraordinary"]}

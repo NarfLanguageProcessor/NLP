@@ -1,1 +1,1 @@
-{"index": 260471, "D": "a rancher.", "S": ["breeder ", "herder ", "herdsman "], "A": []}
+{"index": 260471, "D": "a rancher.", "S": ["breeder", "herder", "herdsman"], "A": []}

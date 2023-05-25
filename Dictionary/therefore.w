@@ -1,1 +1,1 @@
-{"index": 321240, "D": "in consequence of that; as a result; consequently", "S": ["accordingly ", "so ", "then ", "thus "], "A": []}
+{"index": 321240, "D": "in consequence of that; as a result; consequently", "S": ["accordingly", "so", "then", "thus"], "A": []}

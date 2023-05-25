@@ -1,1 +1,1 @@
-{"index": 4204, "D": "by acknowledgment; by one's own admission; confessedly", "S": ["absolutely ", "actually ", "authentically ", "certainly ", "fairly ", "honestly ", "indeed "], "A": []}
+{"index": 4204, "D": "by acknowledgment; by one's own admission; confessedly", "S": ["absolutely", "actually", "authentically", "certainly", "fairly", "honestly", "indeed"], "A": []}

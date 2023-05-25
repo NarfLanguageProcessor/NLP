@@ -1,1 +1,1 @@
-{"index": 97493, "D": "to move or raise to a higher place or position; lift up.", "S": ["artistic ", "developmental "], "A": []}
+{"index": 97493, "D": "to move or raise to a higher place or position; lift up.", "S": ["artistic", "developmental"], "A": []}

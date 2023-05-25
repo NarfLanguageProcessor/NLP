@@ -1,1 +1,1 @@
-{"index": 260627, "D": "to search thoroughly or vigorously through (a house, receptacle, etc.)", "S": ["bomber "], "A": ["author ", "creator ", "restorer "]}
+{"index": 260627, "D": "to search thoroughly or vigorously through (a house, receptacle, etc.)", "S": ["bomber"], "A": ["author", "creator", "restorer"]}

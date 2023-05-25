@@ -1,1 +1,1 @@
-{"index": 245067, "D": "praseodymium.", "S": ["acclamation ", "applause ", "commendation ", "kudos ", "praise ", "rave ", "recognition "], "A": ["blame ", "censure ", "criticism ", "disapproval ", "condemnation ", "debasement ", "denunciation ", "humiliation "]}
+{"index": 245067, "D": "praseodymium.", "S": ["acclamation", "applause", "commendation", "kudos", "praise", "rave", "recognition"], "A": ["blame", "censure", "criticism", "disapproval", "condemnation", "debasement", "denunciation", "humiliation"]}

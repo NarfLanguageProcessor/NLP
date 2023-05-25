@@ -1,1 +1,1 @@
-{"index": 75586, "D": "consisting of or bounded by curved lines", "S": ["arced ", "arched ", "arching ", "arciform ", "arcuate ", "arcuated ", "bending ", "bent ", "bowed ", "rounded "], "A": []}
+{"index": 75586, "D": "consisting of or bounded by curved lines", "S": ["arced", "arched", "arching", "arciform", "arcuate", "arcuated", "bending", "bent", "bowed", "rounded"], "A": []}

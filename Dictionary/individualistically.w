@@ -1,1 +1,1 @@
-{"index": 151175, "D": "prioritizing the pursuit of individual interests or rights rather than common or collective ones", "S": ["directly ", "individually ", "privately "], "A": ["generally ", "objectively "]}
+{"index": 151175, "D": "prioritizing the pursuit of individual interests or rights rather than common or collective ones", "S": ["directly", "individually", "privately"], "A": ["generally", "objectively"]}

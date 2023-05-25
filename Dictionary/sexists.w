@@ -1,1 +1,1 @@
-{"index": 286868, "D": "relating to, involving, or fostering sexism,  or attitudes and behavior toward someone based on the person's gender", "S": ["misanthrope ", "sexist "], "A": []}
+{"index": 286868, "D": "relating to, involving, or fostering sexism,  or attitudes and behavior toward someone based on the person's gender", "S": ["misanthrope", "sexist"], "A": []}

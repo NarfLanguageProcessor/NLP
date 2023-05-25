@@ -1,1 +1,1 @@
-{"index": 168856, "D": "from side to side; along a plane", "S": ["sideward ", "to the side "], "A": []}
+{"index": 168856, "D": "from side to side; along a plane", "S": ["sideward", "to the side"], "A": []}

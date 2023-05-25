@@ -1,1 +1,1 @@
-{"index": 282795, "D": "a person, usually an official, who is in charge of the records, correspondence, minutes of meetings, and related affairs of an organization, company, association, etc.", "S": ["assistant ", "clerk ", "executive secretary "], "A": []}
+{"index": 282795, "D": "a person, usually an official, who is in charge of the records, correspondence, minutes of meetings, and related affairs of an organization, company, association, etc.", "S": ["assistant", "clerk", "executive secretary"], "A": []}

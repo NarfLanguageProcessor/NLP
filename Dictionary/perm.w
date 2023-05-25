@@ -1,1 +1,1 @@
-{"index": 231565, "D": "permanent (def. 4). ", "S": ["permanent ", "permanent wave "], "A": []}
+{"index": 231565, "D": "permanent (def. 4). ", "S": ["permanent", "permanent wave"], "A": []}

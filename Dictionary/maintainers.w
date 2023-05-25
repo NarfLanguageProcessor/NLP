@@ -1,1 +1,1 @@
-{"index": 177939, "D": "to keep in existence or continuance; preserve; retain", "S": ["backbone ", "bulwark ", "linchpin ", "pillar "], "A": []}
+{"index": 177939, "D": "to keep in existence or continuance; preserve; retain", "S": ["backbone", "bulwark", "linchpin", "pillar"], "A": []}

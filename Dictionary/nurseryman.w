@@ -1,1 +1,1 @@
-{"index": 209724, "D": "a person who owns or conducts a plant nursery. ", "S": ["grower ", "horticulturist "], "A": []}
+{"index": 209724, "D": "a person who owns or conducts a plant nursery. ", "S": ["grower", "horticulturist"], "A": []}

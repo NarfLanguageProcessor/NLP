@@ -1,1 +1,1 @@
-{"index": 112128, "D": "the outer and thinner of the two bones of the human leg, extending from the knee to the ankle.", "S": ["catch ", "clamp ", "clasp ", "clip ", "fastening ", "harness ", "hasp "], "A": []}
+{"index": 112128, "D": "the outer and thinner of the two bones of the human leg, extending from the knee to the ankle.", "S": ["catch", "clamp", "clasp", "clip", "fastening", "harness", "hasp"], "A": []}

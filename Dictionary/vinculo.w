@@ -1,1 +1,0 @@
-{"index": 359832, "D": "pertaining to or noting a divorce that absolutely dissolves the marriage bond and releases the spouses from all matrimonial obligations", "S": [], "A": []}

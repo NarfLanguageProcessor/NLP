@@ -1,1 +1,1 @@
-{"index": 100610, "D": "a prohibition by injunction.", "S": ["confrontation ", "contempt ", "opposition ", "provocation ", "rebellion ", "spite "], "A": ["calm ", "harmony ", "love ", "peace ", "answer ", "care ", "caution ", "cowardice ", "fear ", "humility ", "modesty ", "timidity "]}
+{"index": 100610, "D": "a prohibition by injunction.", "S": ["confrontation", "contempt", "opposition", "provocation", "rebellion", "spite"], "A": ["calm", "harmony", "love", "peace", "answer", "care", "caution", "cowardice", "fear", "humility", "modesty", "timidity"]}

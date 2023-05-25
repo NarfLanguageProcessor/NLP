@@ -1,1 +1,0 @@
-{"index": 204332, "D": "a very common mineral, soft native carbon, occurring in black to dark-gray foliated masses, with metallic luster and greasy feel", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 348827, "D": "the act of piercing or perforating, as with a pointed instrument or object.", "S": [], "A": []}

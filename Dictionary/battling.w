@@ -1,1 +1,1 @@
-{"index": 29161, "D": "a hostile encounter or engagement between opposing military forces", "S": ["aggressive ", "antagonistic ", "bellicose ", "combative ", "contentious ", "hostile ", "ornery ", "quarrelsome "], "A": ["agreeable ", "calm ", "friendly ", "kind ", "peaceful "]}
+{"index": 29161, "D": "a hostile encounter or engagement between opposing military forces", "S": ["aggressive", "antagonistic", "bellicose", "combative", "contentious", "hostile", "ornery", "quarrelsome"], "A": ["agreeable", "calm", "friendly", "kind", "peaceful"]}

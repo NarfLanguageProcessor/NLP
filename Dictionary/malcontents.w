@@ -1,1 +1,0 @@
-{"index": 178334, "D": "not satisfied or content  with currently prevailing conditions or circumstances.", "S": ["demonstrator ", "mutineer ", "radical ", "revolutionary ", "rioter "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 210368, "D": "funeral rites", "S": ["ceremony ", "funeral ", "service "], "A": []}
+{"index": 210368, "D": "funeral rites", "S": ["ceremony", "funeral", "service"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 123242, "D": "very cold; icy.", "S": ["chilly ", "cold ", "frozen ", "iced ", "icy "], "A": []}
+{"index": 123242, "D": "very cold; icy.", "S": ["chilly", "cold", "frozen", "iced", "icy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 31666, "D": "Benzedrine,  especially in tablet form.", "S": ["Meth ", "Methedrine ", "amphetamine ", "analeptic ", "bennie ", "crank ", "restorative ", "speed ", "stimulant ", "tonic ", "upper ", "uppie "], "A": ["downer ", "sleeping pill "]}
+{"index": 31666, "D": "Benzedrine,  especially in tablet form.", "S": ["Meth", "Methedrine", "amphetamine", "analeptic", "bennie", "crank", "restorative", "speed", "stimulant", "tonic", "upper", "uppie"], "A": ["downer", "sleeping pill"]}

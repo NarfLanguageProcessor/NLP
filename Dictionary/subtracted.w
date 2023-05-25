@@ -1,1 +1,1 @@
-{"index": 309563, "D": "to withdraw or take away, as a part from a whole.", "S": ["less ", "negative "], "A": ["plus "]}
+{"index": 309563, "D": "to withdraw or take away, as a part from a whole.", "S": ["less", "negative"], "A": ["plus"]}

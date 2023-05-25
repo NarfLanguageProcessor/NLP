@@ -1,1 +1,1 @@
-{"index": 72379, "D": "a person or thing that creams. ", "S": ["outstanding ", "topnotch "], "A": ["lower ", "poor ", "worst "]}
+{"index": 72379, "D": "a person or thing that creams. ", "S": ["outstanding", "topnotch"], "A": ["lower", "poor", "worst"]}

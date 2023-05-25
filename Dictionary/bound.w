@@ -1,1 +1,1 @@
-{"index": 38964, "D": "simple past tense and past participle of bind. ", "S": ["constrained ", "enslaved ", "obligated ", "restrained "], "A": ["irresolute "]}
+{"index": 38964, "D": "simple past tense and past participle of bind. ", "S": ["constrained", "enslaved", "obligated", "restrained"], "A": ["irresolute"]}

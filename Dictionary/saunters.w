@@ -1,1 +1,1 @@
-{"index": 278956, "D": "to walk with a leisurely gait; stroll", "S": ["airing ", "amble ", "constitutional ", "promenade ", "ramble ", "turn ", "walk "], "A": ["run "]}
+{"index": 278956, "D": "to walk with a leisurely gait; stroll", "S": ["airing", "amble", "constitutional", "promenade", "ramble", "turn", "walk"], "A": ["run"]}

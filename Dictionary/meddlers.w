@@ -1,1 +1,1 @@
-{"index": 181979, "D": "to involve oneself in a matter without right or invitation; interfere officiously and unwantedly", "S": ["busybody ", "butt-in ", "buttinsky ", "kibitzer ", "snoop ", "tattletale "], "A": []}
+{"index": 181979, "D": "to involve oneself in a matter without right or invitation; interfere officiously and unwantedly", "S": ["busybody", "butt-in", "buttinsky", "kibitzer", "snoop", "tattletale"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 292991, "D": "skeptical  attitude or temper; doubt.", "S": ["apprehension ", "disbelief ", "distrust ", "hesitation ", "reluctance ", "suspicion ", "uncertainty "], "A": ["belief ", "certainty ", "sureness ", "trust "]}
+{"index": 292991, "D": "skeptical  attitude or temper; doubt.", "S": ["apprehension", "disbelief", "distrust", "hesitation", "reluctance", "suspicion", "uncertainty"], "A": ["belief", "certainty", "sureness", "trust"]}

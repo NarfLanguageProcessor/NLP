@@ -1,1 +1,1 @@
-{"index": 351664, "D": "not sparing;  liberal or profuse; excessive.", "S": ["ruthless "], "A": ["gentle ", "merciful "]}
+{"index": 351664, "D": "not sparing;  liberal or profuse; excessive.", "S": ["ruthless"], "A": ["gentle", "merciful"]}

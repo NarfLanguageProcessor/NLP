@@ -1,1 +1,1 @@
-{"index": 193940, "D": "a mean, despicable, or vicious person.", "S": ["ass ", "asshole ", "idiot "], "A": []}
+{"index": 193940, "D": "a mean, despicable, or vicious person.", "S": ["ass", "asshole", "idiot"], "A": []}

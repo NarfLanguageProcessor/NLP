@@ -1,1 +1,1 @@
-{"index": 35948, "D": "a tier of seats in a sports stadium, etc, that are unroofed and inexpensive", "S": ["benches ", "boxes ", "grandstand ", "seats ", "stands "], "A": []}
+{"index": 35948, "D": "a tier of seats in a sports stadium, etc, that are unroofed and inexpensive", "S": ["benches", "boxes", "grandstand", "seats", "stands"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25891, "D": "an eddy or countercurrent.", "S": ["disappointment ", "discouragement ", "downfall ", "lapse ", "meltdown ", "relapse ", "reversal ", "reverse "], "A": []}
+{"index": 25891, "D": "an eddy or countercurrent.", "S": ["disappointment", "discouragement", "downfall", "lapse", "meltdown", "relapse", "reversal", "reverse"], "A": []}

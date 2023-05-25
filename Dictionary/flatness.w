@@ -1,1 +1,1 @@
-{"index": 114099, "D": "horizontally level", "S": ["dejection ", "depression ", "exhaustion ", "fatigue ", "flat ", "languor ", "sluggishness ", "tiredness ", "vapidity ", "vapidness ", "weariness "], "A": ["energy ", "liveliness ", "vigor "]}
+{"index": 114099, "D": "horizontally level", "S": ["dejection", "depression", "exhaustion", "fatigue", "flat", "languor", "sluggishness", "tiredness", "vapidity", "vapidness", "weariness"], "A": ["energy", "liveliness", "vigor"]}

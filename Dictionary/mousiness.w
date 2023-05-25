@@ -1,1 +1,1 @@
-{"index": 194310, "D": "resembling or suggesting a mouse,  as in color or odor.", "S": ["faintheartedness ", "fear ", "fearfulness ", "funk ", "gutlessness ", "pusillanimity "], "A": []}
+{"index": 194310, "D": "resembling or suggesting a mouse,  as in color or odor.", "S": ["faintheartedness", "fear", "fearfulness", "funk", "gutlessness", "pusillanimity"], "A": []}

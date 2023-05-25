@@ -1,1 +1,1 @@
-{"index": 39060, "D": "a stock exchange, especially the stock exchange of certain European cities.", "S": ["exchange "], "A": []}
+{"index": 39060, "D": "a stock exchange, especially the stock exchange of certain European cities.", "S": ["exchange"], "A": []}

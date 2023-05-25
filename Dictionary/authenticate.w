@@ -1,1 +1,1 @@
-{"index": 23793, "D": "to establish as genuine.", "S": ["attest ", "corroborate ", "substantiate ", "validate ", "verify "], "A": ["deny ", "disprove ", "reject ", "contradict ", "disapprove ", "disavow ", "discredit ", "invalidate ", "oppose ", "repudiate "]}
+{"index": 23793, "D": "to establish as genuine.", "S": ["attest", "corroborate", "substantiate", "validate", "verify"], "A": ["deny", "disprove", "reject", "contradict", "disapprove", "disavow", "discredit", "invalidate", "oppose", "repudiate"]}

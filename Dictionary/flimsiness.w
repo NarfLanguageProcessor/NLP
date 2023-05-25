@@ -1,1 +1,1 @@
-{"index": 114628, "D": "without material strength or solidity", "S": ["delicacy ", "feebleness ", "flaw ", "fragility ", "frailness ", "frailty ", "insubstantiality ", "shoddiness ", "shortcoming ", "unsoundness "], "A": ["strength "]}
+{"index": 114628, "D": "without material strength or solidity", "S": ["delicacy", "feebleness", "flaw", "fragility", "frailness", "frailty", "insubstantiality", "shoddiness", "shortcoming", "unsoundness"], "A": ["strength"]}

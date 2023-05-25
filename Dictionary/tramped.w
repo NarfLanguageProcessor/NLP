@@ -1,1 +1,1 @@
-{"index": 327573, "D": "to tread or walk with a firm, heavy, resounding step.", "S": ["formed ", "hammered ", "milled ", "pounded ", "rolled ", "shaped ", "stamped ", "tamped ", "trodden ", "worked "], "A": []}
+{"index": 327573, "D": "to tread or walk with a firm, heavy, resounding step.", "S": ["formed", "hammered", "milled", "pounded", "rolled", "shaped", "stamped", "tamped", "trodden", "worked"], "A": []}

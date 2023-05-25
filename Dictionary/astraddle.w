@@ -1,1 +1,1 @@
-{"index": 22164, "D": "astride with one leg on each side of; astride", "S": ["athwart ", "on the back of ", "piggyback ", "straddling "], "A": []}
+{"index": 22164, "D": "astride with one leg on each side of; astride", "S": ["athwart", "on the back of", "piggyback", "straddling"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 103266, "D": "having all the sides equal", "S": ["rectangular "], "A": []}
+{"index": 103266, "D": "having all the sides equal", "S": ["rectangular"], "A": []}

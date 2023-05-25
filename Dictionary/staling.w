@@ -1,1 +1,1 @@
-{"index": 302511, "D": "not fresh; vapid or flat, as beverages; dry or hardened, as bread.", "S": ["evaporate ", "scorch ", "sear "], "A": ["grow ", "moisten ", "wet "]}
+{"index": 302511, "D": "not fresh; vapid or flat, as beverages; dry or hardened, as bread.", "S": ["evaporate", "scorch", "sear"], "A": ["grow", "moisten", "wet"]}

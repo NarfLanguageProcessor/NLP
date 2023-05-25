@@ -1,1 +1,1 @@
-{"index": 333219, "D": "a coarse wool cloth in a variety of weaves and colors, either hand-spun and handwoven in Scotland or reproduced, often by machine, elsewhere.", "S": ["cashmere ", "fleece ", "fur ", "hair ", "mohair ", "yarn "], "A": []}
+{"index": 333219, "D": "a coarse wool cloth in a variety of weaves and colors, either hand-spun and handwoven in Scotland or reproduced, often by machine, elsewhere.", "S": ["cashmere", "fleece", "fur", "hair", "mohair", "yarn"], "A": []}

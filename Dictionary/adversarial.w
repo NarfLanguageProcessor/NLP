@@ -1,1 +1,1 @@
-{"index": 4641, "D": "pertaining to or characterized by antagonism and conflict", "S": ["antagonistic "], "A": []}
+{"index": 4641, "D": "pertaining to or characterized by antagonism and conflict", "S": ["antagonistic"], "A": []}

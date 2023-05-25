@@ -1,1 +1,1 @@
-{"index": 115989, "D": "to come after in sequence, order of time, etc.", "S": ["pursue "], "A": ["precede "]}
+{"index": 115989, "D": "to come after in sequence, order of time, etc.", "S": ["pursue"], "A": ["precede"]}

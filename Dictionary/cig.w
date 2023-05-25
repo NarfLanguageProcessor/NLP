@@ -1,1 +1,1 @@
-{"index": 57333, "D": "a cigarette.", "S": ["fag ", "smoke ", "tobacco "], "A": []}
+{"index": 57333, "D": "a cigarette.", "S": ["fag", "smoke", "tobacco"], "A": []}

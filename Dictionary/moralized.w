@@ -1,1 +1,1 @@
-{"index": 193290, "D": "to reflect on or express opinions about something in terms of right and wrong, especially in a self-righteous or tiresome way.", "S": ["admonish ", "edify ", "lecture ", "pontificate ", "preachify ", "sermonize ", "teach "], "A": ["praise "]}
+{"index": 193290, "D": "to reflect on or express opinions about something in terms of right and wrong, especially in a self-righteous or tiresome way.", "S": ["admonish", "edify", "lecture", "pontificate", "preachify", "sermonize", "teach"], "A": ["praise"]}

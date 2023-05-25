@@ -1,1 +1,1 @@
-{"index": 314456, "D": "a person who cheats or defrauds others", "S": ["charlatan ", "cheater ", "con artist ", "counterfeiter ", "crook ", "forger ", "rascal ", "thief "], "A": ["philanthropist "]}
+{"index": 314456, "D": "a person who cheats or defrauds others", "S": ["charlatan", "cheater", "con artist", "counterfeiter", "crook", "forger", "rascal", "thief"], "A": ["philanthropist"]}

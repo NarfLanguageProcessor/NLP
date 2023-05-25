@@ -1,1 +1,1 @@
-{"index": 238752, "D": "full of play or fun; sportive; frolicsome.", "S": ["friskiness ", "frolicsomeness ", "gaiety ", "jest ", "merrymaking ", "sportiveness ", "waggishness "], "A": []}
+{"index": 238752, "D": "full of play or fun; sportive; frolicsome.", "S": ["friskiness", "frolicsomeness", "gaiety", "jest", "merrymaking", "sportiveness", "waggishness"], "A": []}

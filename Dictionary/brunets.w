@@ -1,1 +1,1 @@
-{"index": 41773, "D": "(especially of a male) brunette.", "S": ["brown ", "brunet "], "A": ["blond ", "blonde "]}
+{"index": 41773, "D": "(especially of a male) brunette.", "S": ["brown", "brunet"], "A": ["blond", "blonde"]}

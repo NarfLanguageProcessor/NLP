@@ -1,1 +1,1 @@
-{"index": 137261, "D": "the qualities or attributes of a hero or heroine", "S": ["boldness ", "courage ", "daring ", "fearlessness ", "fortitude ", "gallantry ", "nobility ", "prowess ", "spirit ", "valor "], "A": ["cowardice ", "fear ", "weakness "]}
+{"index": 137261, "D": "the qualities or attributes of a hero or heroine", "S": ["boldness", "courage", "daring", "fearlessness", "fortitude", "gallantry", "nobility", "prowess", "spirit", "valor"], "A": ["cowardice", "fear", "weakness"]}

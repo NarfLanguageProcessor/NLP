@@ -1,1 +1,1 @@
-{"index": 17895, "D": "to estimate the monetary value of; determine the worth of; assess", "S": ["auditor ", "inspector ", "investigator "], "A": []}
+{"index": 17895, "D": "to estimate the monetary value of; determine the worth of; assess", "S": ["auditor", "inspector", "investigator"], "A": []}

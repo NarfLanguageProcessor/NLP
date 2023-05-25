@@ -1,1 +1,1 @@
-{"index": 350460, "D": "not scathed; unharmed; uninjured", "S": ["unharmed ", "unhurt ", "uninjured ", "unmarked ", "untouched "], "A": ["harmed ", "hurt ", "injured "]}
+{"index": 350460, "D": "not scathed; unharmed; uninjured", "S": ["unharmed", "unhurt", "uninjured", "unmarked", "untouched"], "A": ["harmed", "hurt", "injured"]}

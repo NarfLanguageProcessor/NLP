@@ -1,1 +1,1 @@
-{"index": 266356, "D": "the kidneys.", "S": ["command ", "control ", "head ", "helm ", "saddle ", "seat of authority ", "throne ", "wheel "], "A": []}
+{"index": 266356, "D": "the kidneys.", "S": ["command", "control", "head", "helm", "saddle", "seat of authority", "throne", "wheel"], "A": []}

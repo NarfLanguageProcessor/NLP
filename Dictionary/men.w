@@ -1,1 +1,1 @@
-{"index": 183224, "D": "plural of man. ", "S": ["armed forces ", "army ", "contingent ", "crew ", "delegation ", "gang ", "military ", "party ", "servicemen ", "squad ", "team ", "unit "], "A": ["individual ", "one "]}
+{"index": 183224, "D": "plural of man. ", "S": ["armed forces", "army", "contingent", "crew", "delegation", "gang", "military", "party", "servicemen", "squad", "team", "unit"], "A": ["individual", "one"]}

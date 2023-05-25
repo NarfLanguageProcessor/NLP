@@ -1,1 +1,1 @@
-{"index": 318763, "D": "in a soft and gentle way", "S": ["carefully ", "delicately ", "gently ", "gingerly ", "lightly "], "A": ["carelessly "]}
+{"index": 318763, "D": "in a soft and gentle way", "S": ["carefully", "delicately", "gently", "gingerly", "lightly"], "A": ["carelessly"]}

@@ -1,1 +1,1 @@
-{"index": 104044, "D": "characterized by great knowledge; learned or scholarly", "S": ["knowledgeable ", "literate ", "scholarly "], "A": ["uneducated "]}
+{"index": 104044, "D": "characterized by great knowledge; learned or scholarly", "S": ["knowledgeable", "literate", "scholarly"], "A": ["uneducated"]}

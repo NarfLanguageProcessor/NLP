@@ -1,1 +1,1 @@
-{"index": 119590, "D": "a rich cake  containing dried or candied fruit,  nuts, etc.", "S": ["dement ", "head case ", "lunatic ", "madman ", "madwoman ", "maniac ", "mental defective ", "neurotic ", "non compos ", "nutter ", "raving lunatic "], "A": []}
+{"index": 119590, "D": "a rich cake  containing dried or candied fruit,  nuts, etc.", "S": ["dement", "head case", "lunatic", "madman", "madwoman", "maniac", "mental defective", "neurotic", "non compos", "nutter", "raving lunatic"], "A": []}

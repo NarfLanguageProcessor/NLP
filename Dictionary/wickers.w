@@ -1,1 +1,1 @@
-{"index": 365456, "D": "a slender, pliant twig; osier; withe.", "S": ["net ", "network ", "screen "], "A": ["ease ", "order ", "organization ", "simplicity "]}
+{"index": 365456, "D": "a slender, pliant twig; osier; withe.", "S": ["net", "network", "screen"], "A": ["ease", "order", "organization", "simplicity"]}

@@ -1,1 +1,1 @@
-{"index": 233017, "D": [], "S": ["emperor ", "king ", "monarch ", "ruler "], "A": ["slave ", "subject ", "underling "]}
+{"index": 233017, "D": [], "S": ["emperor", "king", "monarch", "ruler"], "A": ["slave", "subject", "underling"]}

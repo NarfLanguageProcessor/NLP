@@ -1,0 +1,1 @@
+{"index": 4343, "D": "to regard with the utmost esteem, love, and respect; honor.", "S": ["ardent", "faithful", "fervent", "passionate", "pious", "religious", "sincere", "zealous"], "A": ["apathetic", "cold", "cool", "dishonest", "disloyal", "dispassionate", "frigid", "indifferent", "irreligious", "unenthusiastic", "unexcited"]}

@@ -1,1 +1,1 @@
-{"index": 93187, "D": "saliva flowing from the mouth, or mucus from the nose; slaver.", "S": ["babble ", "blather ", "gibberish ", "nonsense ", "tripe "], "A": ["sense ", "truth "]}
+{"index": 93187, "D": "saliva flowing from the mouth, or mucus from the nose; slaver.", "S": ["babble", "blather", "gibberish", "nonsense", "tripe"], "A": ["sense", "truth"]}

@@ -1,1 +1,1 @@
-{"index": 330121, "D": "threefold; triple.", "S": ["ternion ", "three ", "threesome ", "trey ", "triad ", "triangle ", "trilogy ", "trinity ", "triple ", "triplet ", "triplicate ", "triptych ", "triumvirate ", "troika "], "A": []}
+{"index": 330121, "D": "threefold; triple.", "S": ["ternion", "three", "threesome", "trey", "triad", "triangle", "trilogy", "trinity", "triple", "triplet", "triplicate", "triptych", "triumvirate", "troika"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 4153, "D": "pertaining to administration;  executive", "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "organizational ", "policy-making ", "regulatory ", "supervisory "], "A": []}
+{"index": 4153, "D": "pertaining to administration;  executive", "S": ["bureaucratic", "departmental", "governmental", "legislative", "managerial", "organizational", "policy-making", "regulatory", "supervisory"], "A": []}

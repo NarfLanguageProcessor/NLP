@@ -1,1 +1,1 @@
-{"index": 43069, "D": "(in Scotland) an incorporated town having its own charter and some degree of political independence from the surrounding area.", "S": ["citified ", "civic ", "civil ", "interurban ", "intraurban ", "megalopolitan ", "municipal ", "urban "], "A": ["rural "]}
+{"index": 43069, "D": "(in Scotland) an incorporated town having its own charter and some degree of political independence from the surrounding area.", "S": ["citified", "civic", "civil", "interurban", "intraurban", "megalopolitan", "municipal", "urban"], "A": ["rural"]}

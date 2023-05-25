@@ -1,1 +1,1 @@
-{"index": 64739, "D": "a plot involving several participants; conspiracy.", "S": ["collaboration ", "collusion ", "connivance ", "guilt ", "involvement ", "manipulation "], "A": ["ignorance ", "innocence ", "noninvolvement ", "refusal "]}
+{"index": 64739, "D": "a plot involving several participants; conspiracy.", "S": ["collaboration", "collusion", "connivance", "guilt", "involvement", "manipulation"], "A": ["ignorance", "innocence", "noninvolvement", "refusal"]}

@@ -1,1 +1,1 @@
-{"index": 328505, "D": "belongings; luggage", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}
+{"index": 328505, "D": "belongings; luggage", "S": ["apparatus", "furnishings", "furniture", "machinery", "material"], "A": []}

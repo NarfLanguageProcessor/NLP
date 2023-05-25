@@ -1,1 +1,1 @@
-{"index": 100254, "D": "the act or process of enforcing. ", "S": ["administration ", "application ", "imposition ", "prosecution "], "A": ["abandon ", "disregard ", "forgetfulness ", "neglect ", "renunciation ", "slight "]}
+{"index": 100254, "D": "the act or process of enforcing. ", "S": ["administration", "application", "imposition", "prosecution"], "A": ["abandon", "disregard", "forgetfulness", "neglect", "renunciation", "slight"]}

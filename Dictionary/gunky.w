@@ -1,1 +1,1 @@
-{"index": 131370, "D": "of, pertaining to, characteristic of, or resembling gunk. ", "S": ["creamed ", "fluffy ", "gooey ", "greasy ", "luscious ", "lush ", "milky ", "oily ", "rich ", "soft ", "velvety "], "A": ["dry ", "poor ", "rough "]}
+{"index": 131370, "D": "of, pertaining to, characteristic of, or resembling gunk. ", "S": ["creamed", "fluffy", "gooey", "greasy", "luscious", "lush", "milky", "oily", "rich", "soft", "velvety"], "A": ["dry", "poor", "rough"]}

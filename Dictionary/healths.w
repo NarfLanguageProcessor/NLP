@@ -1,1 +1,1 @@
-{"index": 134782, "D": "the general condition of the body or mind with reference to soundness and vigor", "S": ["energy ", "fitness ", "strength ", "well-being "], "A": ["lethargy ", "weakness "]}
+{"index": 134782, "D": "the general condition of the body or mind with reference to soundness and vigor", "S": ["energy", "fitness", "strength", "well-being"], "A": ["lethargy", "weakness"]}

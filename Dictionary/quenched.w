@@ -1,1 +1,1 @@
-{"index": 258320, "D": "to slake, satisfy, or allay (thirst, desires, passion, etc.).", "S": ["content ", "contented ", "convinced ", "fulfilled ", "happy ", "pleased "], "A": ["dissatisfied ", "unhappy ", "unsatisfied "]}
+{"index": 258320, "D": "to slake, satisfy, or allay (thirst, desires, passion, etc.).", "S": ["content", "contented", "convinced", "fulfilled", "happy", "pleased"], "A": ["dissatisfied", "unhappy", "unsatisfied"]}

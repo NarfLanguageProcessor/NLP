@@ -1,1 +1,1 @@
-{"index": 181120, "D": "the substance or substances of which a thing is made or composed", "S": ["element ", "material ", "thing "], "A": ["abstract ", "concept "]}
+{"index": 181120, "D": "the substance or substances of which a thing is made or composed", "S": ["element", "material", "thing"], "A": ["abstract", "concept"]}

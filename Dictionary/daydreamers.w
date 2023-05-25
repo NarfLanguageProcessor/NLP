@@ -1,1 +1,1 @@
-{"index": 76286, "D": "a reverie indulged in while awake.", "S": ["idealist "], "A": []}
+{"index": 76286, "D": "a reverie indulged in while awake.", "S": ["idealist"], "A": []}

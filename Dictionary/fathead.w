@@ -1,1 +1,1 @@
-{"index": 110258, "D": "a stupid person; fool.", "S": ["nitwit "], "A": ["genius ", "brain "]}
+{"index": 110258, "D": "a stupid person; fool.", "S": ["nitwit"], "A": ["genius", "brain"]}

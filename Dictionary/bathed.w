@@ -1,1 +1,1 @@
-{"index": 28919, "D": "a washing or immersion of something, especially the body, in water, steam, etc., as for cleansing or medical treatment", "S": ["soaked "], "A": []}
+{"index": 28919, "D": "a washing or immersion of something, especially the body, in water, steam, etc., as for cleansing or medical treatment", "S": ["soaked"], "A": []}

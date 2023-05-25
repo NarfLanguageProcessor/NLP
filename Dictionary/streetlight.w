@@ -1,1 +1,1 @@
-{"index": 306024, "D": "a light,  usually supported by a lamppost, for illuminating a street  or road.", "S": ["neon light ", "sodium lamp "], "A": []}
+{"index": 306024, "D": "a light,  usually supported by a lamppost, for illuminating a street  or road.", "S": ["neon light", "sodium lamp"], "A": []}

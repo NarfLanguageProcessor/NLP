@@ -1,1 +1,1 @@
-{"index": 227138, "D": "the process of bringing forth young.", "S": ["birth ", "delivery "], "A": []}
+{"index": 227138, "D": "the process of bringing forth young.", "S": ["birth", "delivery"], "A": []}

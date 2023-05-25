@@ -1,1 +1,1 @@
-{"index": 150997, "D": "uncomfortable inability or difficulty in digesting food; dyspepsia.", "S": ["heartburn ", "nausea "], "A": []}
+{"index": 150997, "D": "uncomfortable inability or difficulty in digesting food; dyspepsia.", "S": ["heartburn", "nausea"], "A": []}

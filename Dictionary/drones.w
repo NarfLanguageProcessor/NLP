@@ -1,1 +1,1 @@
-{"index": 93304, "D": "the male of the honeybee and other bees, stingless and making no honey.", "S": ["idler ", "leech ", "loafer ", "lounger ", "parasite ", "slug ", "sluggard ", "sponger "], "A": ["overachiever ", "quiet ", "silence ", "workaholic "]}
+{"index": 93304, "D": "the male of the honeybee and other bees, stingless and making no honey.", "S": ["idler", "leech", "loafer", "lounger", "parasite", "slug", "sluggard", "sponger"], "A": ["overachiever", "quiet", "silence", "workaholic"]}

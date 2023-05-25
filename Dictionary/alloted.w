@@ -1,1 +1,1 @@
-{"index": 8950, "D": [], "S": ["allocate ", "appoint ", "apportion ", "appropriate ", "assign ", "designate ", "distribute ", "earmark ", "set aside "], "A": ["hold ", "keep ", "refuse ", "reject "]}
+{"index": 8950, "D": [], "S": ["allocate", "appoint", "apportion", "appropriate", "assign", "designate", "distribute", "earmark", "set aside"], "A": ["hold", "keep", "refuse", "reject"]}

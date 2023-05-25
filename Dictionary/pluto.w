@@ -1,1 +1,1 @@
-{"index": 240654, "D": "a name given to Hades, under which he is identified by the Romans with Orcus.", "S": ["earth "], "A": []}
+{"index": 240654, "D": "a name given to Hades, under which he is identified by the Romans with Orcus.", "S": ["earth"], "A": []}

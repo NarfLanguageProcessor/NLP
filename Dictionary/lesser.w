@@ -1,1 +1,1 @@
-{"index": 170851, "D": "smaller, as in size or importance; inferior", "S": ["insignificant ", "minor "], "A": ["significant "]}
+{"index": 170851, "D": "smaller, as in size or importance; inferior", "S": ["insignificant", "minor"], "A": ["significant"]}

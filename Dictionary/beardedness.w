@@ -1,1 +1,1 @@
-{"index": 29526, "D": "having a beard. ", "S": ["break ", "bumpiness ", "coarseness ", "crack ", "hairiness ", "jaggedness ", "nick ", "raggedness ", "scratch ", "shagginess ", "unevenness "], "A": ["courtesy ", "evenness ", "gentility ", "kindness ", "politeness ", "regularity ", "smoothness "]}
+{"index": 29526, "D": "having a beard. ", "S": ["break", "bumpiness", "coarseness", "crack", "hairiness", "jaggedness", "nick", "raggedness", "scratch", "shagginess", "unevenness"], "A": ["courtesy", "evenness", "gentility", "kindness", "politeness", "regularity", "smoothness"]}

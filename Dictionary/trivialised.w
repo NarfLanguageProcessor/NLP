@@ -1,1 +1,0 @@
-{"index": 330838, "D": "to make trivial;  cause to appear unimportant, trifling, etc.", "S": [], "A": []}

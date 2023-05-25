@@ -1,1 +1,1 @@
-{"index": 93618, "D": [], "S": ["affection ", "closeness ", "fondness ", "leaning ", "rapport ", "sympathy ", "weakness "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 93618, "D": [], "S": ["affection", "closeness", "fondness", "leaning", "rapport", "sympathy", "weakness"], "A": ["dislike", "hate", "hatred"]}

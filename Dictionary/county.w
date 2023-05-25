@@ -1,1 +1,1 @@
-{"index": 71216, "D": "the largest administrative division of a U.S. state", "S": ["canton ", "constituency ", "division ", "shire "], "A": []}
+{"index": 71216, "D": "the largest administrative division of a U.S. state", "S": ["canton", "constituency", "division", "shire"], "A": []}

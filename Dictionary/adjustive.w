@@ -1,0 +1,1 @@
+{"index": 4073, "D": "concerned with, making, or controlling adjustments", "S": [], "A": []}

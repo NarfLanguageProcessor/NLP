@@ -1,1 +1,1 @@
-{"index": 162367, "D": "the state or fact of being junior  in age, rank, standing, etc.", "S": ["adolescence "], "A": ["adulthood "]}
+{"index": 162367, "D": "the state or fact of being junior  in age, rank, standing, etc.", "S": ["adolescence"], "A": ["adulthood"]}

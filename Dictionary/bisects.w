@@ -1,1 +1,1 @@
-{"index": 34976, "D": "to cut or divide into two equal or nearly equal parts.", "S": ["cut across "], "A": ["combine ", "join ", "unite "]}
+{"index": 34976, "D": "to cut or divide into two equal or nearly equal parts.", "S": ["cut across"], "A": ["combine", "join", "unite"]}

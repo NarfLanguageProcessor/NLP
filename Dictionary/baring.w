@@ -1,0 +1,1 @@
+{"index": 28005, "D": "British statesman.", "S": ["disclosure", "hazard", "liability", "publicity", "risk", "vulnerability"], "A": ["certainty", "safety", "secret", "surety", "concealment", "cover", "hiding", "protection"]}

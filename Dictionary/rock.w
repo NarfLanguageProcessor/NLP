@@ -1,1 +1,1 @@
-{"index": 273647, "D": "a large mass of stone forming a hill, cliff, promontory, or the like.", "S": ["earth ", "gravel ", "lava ", "metal ", "rubble ", "slab "], "A": []}
+{"index": 273647, "D": "a large mass of stone forming a hill, cliff, promontory, or the like.", "S": ["earth", "gravel", "lava", "metal", "rubble", "slab"], "A": []}

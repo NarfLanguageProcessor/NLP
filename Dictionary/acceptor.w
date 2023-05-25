@@ -1,1 +1,1 @@
-{"index": 1496, "D": "accepter. ", "S": ["adherent ", "devotee ", "disciple ", "follower ", "supporter ", "zealot "], "A": ["adversary "]}
+{"index": 1496, "D": "accepter. ", "S": ["adherent", "devotee", "disciple", "follower", "supporter", "zealot"], "A": ["adversary"]}

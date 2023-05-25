@@ -1,1 +1,1 @@
-{"index": 219675, "D": "to make necessary repairs on; restore to serviceable condition", "S": ["fix ", "improve ", "modernize ", "rebuild ", "reconstruct ", "reexamine ", "renew ", "repair ", "revamp "], "A": ["break ", "damage ", "destroy ", "hurt ", "injure ", "ruin ", "ignore ", "neglect "]}
+{"index": 219675, "D": "to make necessary repairs on; restore to serviceable condition", "S": ["fix", "improve", "modernize", "rebuild", "reconstruct", "reexamine", "renew", "repair", "revamp"], "A": ["break", "damage", "destroy", "hurt", "injure", "ruin", "ignore", "neglect"]}

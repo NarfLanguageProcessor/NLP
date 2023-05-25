@@ -1,1 +1,1 @@
-{"index": 275201, "D": [], "S": ["accentuate ", "affirm ", "assert ", "highlight ", "indicate ", "maintain ", "point out ", "reiterate ", "repeat ", "underline ", "underscore "], "A": ["deny ", "lose ", "mumble "]}
+{"index": 275201, "D": [], "S": ["accentuate", "affirm", "assert", "highlight", "indicate", "maintain", "point out", "reiterate", "repeat", "underline", "underscore"], "A": ["deny", "lose", "mumble"]}

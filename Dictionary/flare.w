@@ -1,1 +1,1 @@
-{"index": 113994, "D": "to burn with an unsteady, swaying flame, as a torch or candle in the wind.", "S": ["blaze ", "boil over ", "break out ", "burn ", "explode ", "flare up ", "flash ", "flicker ", "glow ", "seethe "], "A": []}
+{"index": 113994, "D": "to burn with an unsteady, swaying flame, as a torch or candle in the wind.", "S": ["blaze", "boil over", "break out", "burn", "explode", "flare up", "flash", "flicker", "glow", "seethe"], "A": []}

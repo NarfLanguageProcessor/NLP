@@ -1,1 +1,1 @@
-{"index": 304664, "D": "reluctant to give or spend; not generous; penurious", "S": ["cannily ", "greedily ", "illiberally ", "meanly ", "miserly ", "parsimoniously ", "ungenerously "], "A": []}
+{"index": 304664, "D": "reluctant to give or spend; not generous; penurious", "S": ["cannily", "greedily", "illiberally", "meanly", "miserly", "parsimoniously", "ungenerously"], "A": []}

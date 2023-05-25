@@ -1,1 +1,1 @@
-{"index": 134807, "D": "to perceive by the ear", "S": ["attend ", "get ", "listen ", "overhear ", "pick up ", "read "], "A": ["ignore ", "lose ", "misunderstand "]}
+{"index": 134807, "D": "to perceive by the ear", "S": ["attend", "get", "listen", "overhear", "pick up", "read"], "A": ["ignore", "lose", "misunderstand"]}

@@ -1,1 +1,1 @@
-{"index": 151076, "D": "lack of discretion; imprudence. ", "S": ["error ", "gaffe ", "lapse ", "miscue ", "misjudgment ", "recklessness "], "A": ["correction ", "judgment ", "seriousness ", "thoughtfulness ", "wisdom "]}
+{"index": 151076, "D": "lack of discretion; imprudence. ", "S": ["error", "gaffe", "lapse", "miscue", "misjudgment", "recklessness"], "A": ["correction", "judgment", "seriousness", "thoughtfulness", "wisdom"]}

@@ -1,1 +1,1 @@
-{"index": 353297, "D": "to pass or move over, along, or through.", "S": ["pathless ", "trackless ", "untracked ", "untrod "], "A": []}
+{"index": 353297, "D": "to pass or move over, along, or through.", "S": ["pathless", "trackless", "untracked", "untrod"], "A": []}

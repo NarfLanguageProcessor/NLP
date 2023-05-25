@@ -1,1 +1,1 @@
-{"index": 98876, "D": "to give power  or authority to; authorize, especially by legal or official means", "S": ["allow ", "entitle ", "entrust ", "grant ", "legitimize ", "permit ", "vest "], "A": ["deny ", "disallow ", "disapprove ", "refuse ", "reject ", "veto "]}
+{"index": 98876, "D": "to give power  or authority to; authorize, especially by legal or official means", "S": ["allow", "entitle", "entrust", "grant", "legitimize", "permit", "vest"], "A": ["deny", "disallow", "disapprove", "refuse", "reject", "veto"]}

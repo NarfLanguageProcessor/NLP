@@ -1,1 +1,1 @@
-{"index": 356249, "D": "most remote or outermost; farthest", "S": ["final ", "last ", "utmost "], "A": ["beginning ", "first ", "introductory ", "starting "]}
+{"index": 356249, "D": "most remote or outermost; farthest", "S": ["final", "last", "utmost"], "A": ["beginning", "first", "introductory", "starting"]}

@@ -1,1 +1,1 @@
-{"index": 228458, "D": "like a pearl,  especially in being white or lustrous; nacreous", "S": ["frosted ", "iridescent ", "milky ", "off-white "], "A": []}
+{"index": 228458, "D": "like a pearl,  especially in being white or lustrous; nacreous", "S": ["frosted", "iridescent", "milky", "off-white"], "A": []}

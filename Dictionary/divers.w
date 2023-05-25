@@ -1,1 +1,1 @@
-{"index": 90243, "D": "several; various; sundry", "S": ["manifold ", "myriad "], "A": []}
+{"index": 90243, "D": "several; various; sundry", "S": ["manifold", "myriad"], "A": []}

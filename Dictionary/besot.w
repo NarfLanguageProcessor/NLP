@@ -1,1 +1,1 @@
-{"index": 32453, "D": "to intoxicate or stupefy with drink.", "S": ["astound ", "bemuse ", "bewilder ", "flabbergast ", "nonplus "], "A": ["clear up ", "enlighten ", "explain ", "clarify ", "expect "]}
+{"index": 32453, "D": "to intoxicate or stupefy with drink.", "S": ["astound", "bemuse", "bewilder", "flabbergast", "nonplus"], "A": ["clear up", "enlighten", "explain", "clarify", "expect"]}

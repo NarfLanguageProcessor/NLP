@@ -1,1 +1,1 @@
-{"index": 188784, "D": "to behave  badly or improperly", "S": ["act up ", "fool around ", "trespass "], "A": ["behave ", "obey "]}
+{"index": 188784, "D": "to behave  badly or improperly", "S": ["act up", "fool around", "trespass"], "A": ["behave", "obey"]}

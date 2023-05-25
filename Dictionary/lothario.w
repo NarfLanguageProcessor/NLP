@@ -1,1 +1,1 @@
-{"index": 175377, "D": "a man who obsessively seduces and deceives women.", "S": ["seducer "], "A": []}
+{"index": 175377, "D": "a man who obsessively seduces and deceives women.", "S": ["seducer"], "A": []}

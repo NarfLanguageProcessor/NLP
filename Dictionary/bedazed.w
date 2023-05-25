@@ -1,1 +1,1 @@
-{"index": 29984, "D": [], "S": ["amaze ", "bemuse ", "bewilder ", "confuse ", "shock ", "stagger ", "stun ", "stupefy "], "A": ["clear up ", "enlighten ", "explain "]}
+{"index": 29984, "D": [], "S": ["amaze", "bemuse", "bewilder", "confuse", "shock", "stagger", "stun", "stupefy"], "A": ["clear up", "enlighten", "explain"]}

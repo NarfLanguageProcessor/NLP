@@ -1,1 +1,1 @@
-{"index": 191419, "D": "to turn to dust by natural decay; crumble; disintegrate; waste away", "S": ["decompose "], "A": []}
+{"index": 191419, "D": "to turn to dust by natural decay; crumble; disintegrate; waste away", "S": ["decompose"], "A": []}

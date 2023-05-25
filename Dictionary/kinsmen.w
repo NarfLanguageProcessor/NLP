@@ -1,1 +1,1 @@
-{"index": 164990, "D": "a blood relative, especially a male.", "S": ["acquaintances ", "consanguinity ", "family ", "friends and relatives ", "kin ", "kindred ", "kinfolk ", "kinsfolk ", "relations ", "relatives "], "A": []}
+{"index": 164990, "D": "a blood relative, especially a male.", "S": ["acquaintances", "consanguinity", "family", "friends and relatives", "kin", "kindred", "kinfolk", "kinsfolk", "relations", "relatives"], "A": []}

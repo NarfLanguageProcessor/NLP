@@ -1,1 +1,1 @@
-{"index": 45798, "D": "a bell tower, especially one freestanding from the body of a church.", "S": ["carillon ", "cupola ", "dome ", "head ", "minaret ", "spire ", "steeple ", "turret "], "A": []}
+{"index": 45798, "D": "a bell tower, especially one freestanding from the body of a church.", "S": ["carillon", "cupola", "dome", "head", "minaret", "spire", "steeple", "turret"], "A": []}

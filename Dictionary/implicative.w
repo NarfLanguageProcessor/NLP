@@ -1,1 +1,1 @@
-{"index": 148792, "D": "tending to implicate  or imply;  characterized by or involving implication. ", "S": ["constant ", "contained ", "definite ", "implied ", "latent ", "steadfast ", "tacit ", "unshakable ", "unspoken "], "A": ["disloyal ", "stated ", "untrustworthy "]}
+{"index": 148792, "D": "tending to implicate  or imply;  characterized by or involving implication. ", "S": ["constant", "contained", "definite", "implied", "latent", "steadfast", "tacit", "unshakable", "unspoken"], "A": ["disloyal", "stated", "untrustworthy"]}

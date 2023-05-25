@@ -1,1 +1,1 @@
-{"index": 120537, "D": "boil2. ", "S": ["abscess ", "cyst ", "pimple ", "sore ", "ulcer ", "welt "], "A": []}
+{"index": 120537, "D": "boil2. ", "S": ["abscess", "cyst", "pimple", "sore", "ulcer", "welt"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 173026, "D": "full of or covered with lint", "S": ["creamy ", "feathery ", "gossamer ", "silky "], "A": ["coarse ", "rough ", "smooth "]}
+{"index": 173026, "D": "full of or covered with lint", "S": ["creamy", "feathery", "gossamer", "silky"], "A": ["coarse", "rough", "smooth"]}

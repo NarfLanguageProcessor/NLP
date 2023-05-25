@@ -1,1 +1,1 @@
-{"index": 74215, "D": "to crunch or make a crunching sound, as with the teeth.", "S": ["champ ", "chew ", "chomp ", "grind ", "masticate ", "munch ", "scrunch "], "A": []}
+{"index": 74215, "D": "to crunch or make a crunching sound, as with the teeth.", "S": ["champ", "chew", "chomp", "grind", "masticate", "munch", "scrunch"], "A": []}

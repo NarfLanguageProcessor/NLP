@@ -1,1 +1,1 @@
-{"index": 169158, "D": [], "S": ["commencement ", "inaugural ", "induction ", "initiation ", "launch ", "launching ", "opening "], "A": ["conclusion ", "end ", "ending ", "finish "]}
+{"index": 169158, "D": [], "S": ["commencement", "inaugural", "induction", "initiation", "launch", "launching", "opening"], "A": ["conclusion", "end", "ending", "finish"]}

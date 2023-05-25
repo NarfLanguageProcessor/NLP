@@ -1,1 +1,1 @@
-{"index": 23403, "D": "one of a group of ancient Roman officials charged with observing and interpreting omens for guidance in public affairs.", "S": ["diviner ", "forecaster ", "harbinger ", "herald ", "oracle ", "prognosticator ", "prophet ", "seer ", "soothsayer "], "A": []}
+{"index": 23403, "D": "one of a group of ancient Roman officials charged with observing and interpreting omens for guidance in public affairs.", "S": ["diviner", "forecaster", "harbinger", "herald", "oracle", "prognosticator", "prophet", "seer", "soothsayer"], "A": []}

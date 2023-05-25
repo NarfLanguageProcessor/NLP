@@ -1,1 +1,1 @@
-{"index": 300673, "D": "a woman who speaks for another person or for a group.", "S": ["spokesman ", "spokesperson "], "A": []}
+{"index": 300673, "D": "a woman who speaks for another person or for a group.", "S": ["spokesman", "spokesperson"], "A": []}

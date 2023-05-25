@@ -1,1 +1,1 @@
-{"index": 96442, "D": "the power or faculty of seeing.", "S": ["perception "], "A": []}
+{"index": 96442, "D": "the power or faculty of seeing.", "S": ["perception"], "A": []}

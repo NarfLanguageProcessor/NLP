@@ -1,1 +1,1 @@
-{"index": 310142, "D": "to kill by preventing the access of air to the blood through the lungs or analogous organs, as gills; strangle. ", "S": ["choked "], "A": []}
+{"index": 310142, "D": "to kill by preventing the access of air to the blood through the lungs or analogous organs, as gills; strangle. ", "S": ["choked"], "A": []}

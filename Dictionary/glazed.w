@@ -1,1 +1,1 @@
-{"index": 126056, "D": "having a surface covered with a glaze;  lustrous; smooth; glassy.", "S": ["burnished ", "glassy ", "lustrous ", "shiny ", "translucent "], "A": ["dark ", "dull "]}
+{"index": 126056, "D": "having a surface covered with a glaze;  lustrous; smooth; glassy.", "S": ["burnished", "glassy", "lustrous", "shiny", "translucent"], "A": ["dark", "dull"]}

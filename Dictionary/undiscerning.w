@@ -1,1 +1,1 @@
-{"index": 340449, "D": "showing good or outstanding judgment and understanding", "S": ["dark ", "groping ", "unsighted "], "A": ["aware ", "seeing ", "sighted "]}
+{"index": 340449, "D": "showing good or outstanding judgment and understanding", "S": ["dark", "groping", "unsighted"], "A": ["aware", "seeing", "sighted"]}

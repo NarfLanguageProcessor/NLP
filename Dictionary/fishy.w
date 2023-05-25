@@ -1,1 +1,1 @@
-{"index": 113362, "D": "like a fish  in shape, smell, taste, or the like.", "S": ["dubious ", "odd "], "A": ["aboveboard ", "honest ", "likely ", "probable ", "real ", "truthful ", "unquestionable ", "unsuspicious "]}
+{"index": 113362, "D": "like a fish  in shape, smell, taste, or the like.", "S": ["dubious", "odd"], "A": ["aboveboard", "honest", "likely", "probable", "real", "truthful", "unquestionable", "unsuspicious"]}

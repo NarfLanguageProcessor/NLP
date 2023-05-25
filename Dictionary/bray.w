@@ -1,1 +1,1 @@
-{"index": 39695, "D": "the loud, harsh cry of a donkey.", "S": ["hee-haw ", "neigh ", "yell "], "A": []}
+{"index": 39695, "D": "the loud, harsh cry of a donkey.", "S": ["hee-haw", "neigh", "yell"], "A": []}

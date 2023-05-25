@@ -1,1 +1,0 @@
-{"index": 320845, "D": "a form of the possessive case of plural they  used as a predicate adjective, after a noun or without a noun", "S": ["hers ", "his ", "its ", "mine ", "yours "], "A": []}

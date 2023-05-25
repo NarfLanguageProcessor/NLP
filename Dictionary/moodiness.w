@@ -1,1 +1,1 @@
-{"index": 192994, "D": "given to gloomy, depressed, or sullen moods;  ill-humored.", "S": ["dejection ", "despondency ", "doldrums ", "dumps ", "gloom ", "gloominess ", "glumness ", "melancholy ", "mournfulness ", "sadness ", "unhappiness "], "A": ["cheer ", "gladness ", "happiness ", "joy "]}
+{"index": 192994, "D": "given to gloomy, depressed, or sullen moods;  ill-humored.", "S": ["dejection", "despondency", "doldrums", "dumps", "gloom", "gloominess", "glumness", "melancholy", "mournfulness", "sadness", "unhappiness"], "A": ["cheer", "gladness", "happiness", "joy"]}

@@ -1,1 +1,1 @@
-{"index": 322751, "D": "beating or pulsing rapidly or forcefully, as the heart under the influence of emotion or excitement", "S": ["hurting ", "nagging ", "sore "], "A": ["experienced ", "healthy "]}
+{"index": 322751, "D": "beating or pulsing rapidly or forcefully, as the heart under the influence of emotion or excitement", "S": ["hurting", "nagging", "sore"], "A": ["experienced", "healthy"]}

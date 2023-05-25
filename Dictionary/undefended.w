@@ -1,1 +1,1 @@
-{"index": 338575, "D": "not having people to provide resistance against danger, attack, or harm", "S": ["assailable ", "defenseless ", "endangered ", "exposed ", "undefendable ", "unguarded ", "vulnerable "], "A": ["defended ", "guarded ", "protected ", "safe ", "secure "]}
+{"index": 338575, "D": "not having people to provide resistance against danger, attack, or harm", "S": ["assailable", "defenseless", "endangered", "exposed", "undefendable", "unguarded", "vulnerable"], "A": ["defended", "guarded", "protected", "safe", "secure"]}

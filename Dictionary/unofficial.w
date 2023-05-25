@@ -1,1 +1,1 @@
-{"index": 347113, "D": "an unofficial engagement", "S": ["informal ", "personal "], "A": ["authoritative ", "authorized ", "confirmed ", "official "]}
+{"index": 347113, "D": "an unofficial engagement", "S": ["informal", "personal"], "A": ["authoritative", "authorized", "confirmed", "official"]}

@@ -1,1 +1,0 @@
-{"index": 328346, "D": "to change from one substance into another; transmute.", "S": [], "A": []}

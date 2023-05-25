@@ -1,1 +1,1 @@
-{"index": 120468, "D": "articles or accessories of dress", "S": ["accessory ", "accouterment ", "accoutrement ", "appliance ", "appointment ", "chattel ", "equipment ", "fitting ", "fixture ", "furniture ", "gear ", "provision ", "trappings "], "A": []}
+{"index": 120468, "D": "articles or accessories of dress", "S": ["accessory", "accouterment", "accoutrement", "appliance", "appointment", "chattel", "equipment", "fitting", "fixture", "furniture", "gear", "provision", "trappings"], "A": []}

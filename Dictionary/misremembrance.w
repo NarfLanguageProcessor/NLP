@@ -1,1 +1,1 @@
-{"index": 189952, "D": [], "S": ["FMS ", "false memory ", "paramnesia ", "retrospective falsification "], "A": []}
+{"index": 189952, "D": [], "S": ["FMS", "false memory", "paramnesia", "retrospective falsification"], "A": []}

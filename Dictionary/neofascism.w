@@ -1,1 +1,0 @@
-{"index": 198340, "D": "any of various political movements or beliefs inspired by or reminiscent of fascism  or Nazism.", "S": [], "A": []}

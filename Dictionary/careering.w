@@ -1,1 +1,1 @@
-{"index": 47916, "D": "an occupation or profession, especially one requiring special training, followed as one's lifework", "S": ["assail ", "batter ", "bombard ", "hurl ", "pepper ", "pummel ", "shower "], "A": ["lose ", "slow ", "tap "]}
+{"index": 47916, "D": "an occupation or profession, especially one requiring special training, followed as one's lifework", "S": ["assail", "batter", "bombard", "hurl", "pepper", "pummel", "shower"], "A": ["lose", "slow", "tap"]}

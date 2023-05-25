@@ -1,1 +1,1 @@
-{"index": 62930, "D": "an Irish girl.", "S": ["lady ", "lass ", "lassie ", "miss ", "virgin ", "woman "], "A": ["man "]}
+{"index": 62930, "D": "an Irish girl.", "S": ["lady", "lass", "lassie", "miss", "virgin", "woman"], "A": ["man"]}

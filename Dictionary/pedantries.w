@@ -1,1 +1,1 @@
-{"index": 228785, "D": "the character, qualities, practices, etc., of a pedant,  especially undue display of learning.", "S": ["bookishness ", "dogmatism ", "exactness ", "meticulousness ", "precision ", "pretension "], "A": ["imprecision ", "inaccuracy ", "inexactness "]}
+{"index": 228785, "D": "the character, qualities, practices, etc., of a pedant,  especially undue display of learning.", "S": ["bookishness", "dogmatism", "exactness", "meticulousness", "precision", "pretension"], "A": ["imprecision", "inaccuracy", "inexactness"]}

@@ -1,1 +1,1 @@
-{"index": 40263, "D": "a discontinuation, especially abrupt, as of relations.", "S": ["sever "], "A": ["combine ", "join ", "mend "]}
+{"index": 40263, "D": "a discontinuation, especially abrupt, as of relations.", "S": ["sever"], "A": ["combine", "join", "mend"]}

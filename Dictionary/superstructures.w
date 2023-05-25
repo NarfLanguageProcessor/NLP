@@ -1,1 +1,1 @@
-{"index": 312751, "D": "the part of a building or construction entirely above its foundation or basement.", "S": ["architecture ", "construction ", "home ", "house ", "hut "], "A": []}
+{"index": 312751, "D": "the part of a building or construction entirely above its foundation or basement.", "S": ["architecture", "construction", "home", "house", "hut"], "A": []}

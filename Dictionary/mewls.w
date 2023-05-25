@@ -1,1 +1,1 @@
-{"index": 185556, "D": "to cry, as a baby, young child, or the like; whimper.", "S": ["bawl ", "bay ", "caterwaul ", "cry ", "holler ", "howl ", "scream ", "screech ", "squall ", "squeal ", "ululate ", "wail ", "whine ", "yell ", "yelp ", "yip "], "A": []}
+{"index": 185556, "D": "to cry, as a baby, young child, or the like; whimper.", "S": ["bawl", "bay", "caterwaul", "cry", "holler", "howl", "scream", "screech", "squall", "squeal", "ululate", "wail", "whine", "yell", "yelp", "yip"], "A": []}

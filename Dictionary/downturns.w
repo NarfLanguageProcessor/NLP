@@ -1,1 +1,1 @@
-{"index": 92351, "D": "an act or instance of turning down or the state of being turned down", "S": ["decline ", "deterioration ", "dip ", "plunge ", "slide ", "slump "], "A": ["ascent ", "betterment ", "improvement ", "increase ", "rise "]}
+{"index": 92351, "D": "an act or instance of turning down or the state of being turned down", "S": ["decline", "deterioration", "dip", "plunge", "slide", "slump"], "A": ["ascent", "betterment", "improvement", "increase", "rise"]}

@@ -1,1 +1,1 @@
-{"index": 48255, "D": "Compare carnivoran (def. 1). ", "S": ["carnivorous ", "flesh-eating ", "meat-eating "], "A": ["herbivore "]}
+{"index": 48255, "D": "Compare carnivoran (def. 1). ", "S": ["carnivorous", "flesh-eating", "meat-eating"], "A": ["herbivore"]}

@@ -1,1 +1,1 @@
-{"index": 305881, "D": "government by the military.", "S": ["army rule ", "imperium in imperio ", "iron rule ", "military government ", "rule of the sword ", "suspension of civil rights "], "A": []}
+{"index": 305881, "D": "government by the military.", "S": ["army rule", "imperium in imperio", "iron rule", "military government", "rule of the sword", "suspension of civil rights"], "A": []}

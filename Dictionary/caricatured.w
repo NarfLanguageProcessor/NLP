@@ -1,1 +1,1 @@
-{"index": 48024, "D": "a picture, description, etc., ludicrously exaggerating the peculiarities or defects of persons or things", "S": ["expanded ", "extended ", "inflated ", "intensified ", "magnified ", "swollen "], "A": ["compressed ", "contracted ", "shrunken "]}
+{"index": 48024, "D": "a picture, description, etc., ludicrously exaggerating the peculiarities or defects of persons or things", "S": ["expanded", "extended", "inflated", "intensified", "magnified", "swollen"], "A": ["compressed", "contracted", "shrunken"]}

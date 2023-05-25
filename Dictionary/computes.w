@@ -1,1 +1,1 @@
-{"index": 64995, "D": "to determine by calculation; reckon; calculate", "S": ["figure out ", "gauge "], "A": ["estimate ", "guess ", "subtract "]}
+{"index": 64995, "D": "to determine by calculation; reckon; calculate", "S": ["figure out", "gauge"], "A": ["estimate", "guess", "subtract"]}

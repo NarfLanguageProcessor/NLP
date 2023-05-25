@@ -1,1 +1,0 @@
-{"index": 177334, "D": "a hierarchically structured secret organization allegedly engaged in smuggling, racketeering, trafficking in narcotics, and other criminal activities in the U.S., Italy, and elsewhere.", "S": ["family ", "mafioso ", "underworld "], "A": []}

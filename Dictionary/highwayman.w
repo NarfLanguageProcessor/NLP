@@ -1,1 +1,1 @@
-{"index": 139311, "D": "(formerly) a holdup man, especially one on horseback, who robbed travelers along a public road.", "S": ["bandit ", "brigand ", "criminal ", "crook ", "desperado ", "footpad ", "outlaw ", "rider ", "thief "], "A": ["law ", "police "]}
+{"index": 139311, "D": "(formerly) a holdup man, especially one on horseback, who robbed travelers along a public road.", "S": ["bandit", "brigand", "criminal", "crook", "desperado", "footpad", "outlaw", "rider", "thief"], "A": ["law", "police"]}

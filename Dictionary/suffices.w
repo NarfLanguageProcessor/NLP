@@ -1,1 +1,1 @@
-{"index": 310111, "D": "to be enough or adequate, as for needs, purposes, etc.", "S": ["get by ", "satisfy "], "A": ["displease ", "miss ", "refuse "]}
+{"index": 310111, "D": "to be enough or adequate, as for needs, purposes, etc.", "S": ["get by", "satisfy"], "A": ["displease", "miss", "refuse"]}

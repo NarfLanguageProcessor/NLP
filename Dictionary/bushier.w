@@ -1,1 +1,1 @@
-{"index": 43423, "D": "resembling a bush;  thick and shaggy", "S": ["feathery ", "fluffy ", "fuzzy ", "hairy ", "leafy ", "luxuriant ", "unruly ", "wiry "], "A": ["smooth "]}
+{"index": 43423, "D": "resembling a bush;  thick and shaggy", "S": ["feathery", "fluffy", "fuzzy", "hairy", "leafy", "luxuriant", "unruly", "wiry"], "A": ["smooth"]}

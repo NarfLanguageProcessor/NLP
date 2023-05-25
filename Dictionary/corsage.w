@@ -1,1 +1,1 @@
-{"index": 69793, "D": "a small bouquet worn at the waist, on the shoulder, on the wrist, etc., by a woman.", "S": ["garland ", "pot ", "vase ", "wreath "], "A": []}
+{"index": 69793, "D": "a small bouquet worn at the waist, on the shoulder, on the wrist, etc., by a woman.", "S": ["garland", "pot", "vase", "wreath"], "A": []}

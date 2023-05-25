@@ -1,0 +1,1 @@
+{"index": 18019, "D": "to speak or think favorably of; pronounce or consider agreeable or good; judge favorably", "S": ["accepted", "allowed", "authorized", "backed", "endorsed", "passed", "permitted", "ratified", "recognized", "sanctioned", "supported"], "A": ["disapproved", "refused", "uncertain"]}

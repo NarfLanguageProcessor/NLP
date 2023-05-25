@@ -1,1 +1,1 @@
-{"index": 78457, "D": "another word for declarative", "S": ["demonstrative ", "descriptive ", "enunciatory ", "explanatory "], "A": []}
+{"index": 78457, "D": "another word for declarative", "S": ["demonstrative", "descriptive", "enunciatory", "explanatory"], "A": []}

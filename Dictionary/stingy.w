@@ -1,1 +1,1 @@
-{"index": 304661, "D": "reluctant to give or spend; not generous; penurious", "S": ["frugal ", "greedy ", "miserly ", "selfish ", "thrifty "], "A": ["extravagant ", "generous ", "liberal ", "uneconomical ", "wasteful "]}
+{"index": 304661, "D": "reluctant to give or spend; not generous; penurious", "S": ["frugal", "greedy", "miserly", "selfish", "thrifty"], "A": ["extravagant", "generous", "liberal", "uneconomical", "wasteful"]}

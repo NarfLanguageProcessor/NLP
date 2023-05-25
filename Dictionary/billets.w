@@ -1,1 +1,1 @@
-{"index": 33994, "D": "lodging for a soldier, student, etc., as in a private home or nonmilitary public building.", "S": ["berth ", "camp ", "canton ", "dwelling ", "harbor ", "house ", "hut ", "lodge ", "quarters ", "residence "], "A": []}
+{"index": 33994, "D": "lodging for a soldier, student, etc., as in a private home or nonmilitary public building.", "S": ["berth", "camp", "canton", "dwelling", "harbor", "house", "hut", "lodge", "quarters", "residence"], "A": []}

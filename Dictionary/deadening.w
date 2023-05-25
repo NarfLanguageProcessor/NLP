@@ -1,1 +1,1 @@
-{"index": 77451, "D": "a device or material employed to deaden  or render dull.", "S": ["calming "], "A": ["exciting ", "stimulating "]}
+{"index": 77451, "D": "a device or material employed to deaden  or render dull.", "S": ["calming"], "A": ["exciting", "stimulating"]}

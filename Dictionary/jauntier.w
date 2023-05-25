@@ -1,1 +1,1 @@
-{"index": 160604, "D": "easy and sprightly in manner or bearing", "S": ["breezy ", "buoyant ", "carefree ", "devilish ", "impish ", "jolly ", "jovial ", "perky ", "playful ", "rollicking ", "sprightly "], "A": ["depressed ", "sad ", "serious ", "unhappy "]}
+{"index": 160604, "D": "easy and sprightly in manner or bearing", "S": ["breezy", "buoyant", "carefree", "devilish", "impish", "jolly", "jovial", "perky", "playful", "rollicking", "sprightly"], "A": ["depressed", "sad", "serious", "unhappy"]}

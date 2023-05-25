@@ -1,0 +1,1 @@
+{"index": 10020, "D": "ambivalence, especially when acted out; a tendency  to contradictory behavior arising from conflicting impulses.", "S": [], "A": []}

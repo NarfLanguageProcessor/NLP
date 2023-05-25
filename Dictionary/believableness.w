@@ -1,1 +1,1 @@
-{"index": 31084, "D": "to have confidence in the truth, the existence, or the reliability of something, although without absolute proof that one is right in doing so", "S": ["plausibility "], "A": []}
+{"index": 31084, "D": "to have confidence in the truth, the existence, or the reliability of something, although without absolute proof that one is right in doing so", "S": ["plausibility"], "A": []}

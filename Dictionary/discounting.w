@@ -1,1 +1,1 @@
-{"index": 87630, "D": "to deduct a certain amount from (a bill, charge, etc.)", "S": ["bar ", "excepting ", "excluding "], "A": []}
+{"index": 87630, "D": "to deduct a certain amount from (a bill, charge, etc.)", "S": ["bar", "excepting", "excluding"], "A": []}

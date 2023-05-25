@@ -1,1 +1,1 @@
-{"index": 163618, "D": "a state of drowsy contentment, especially from the use of marijuana, opium, or other narcotic", "S": ["bhang ", "cannabis ", "fiber ", "flax ", "hashish ", "jute ", "marijuana "], "A": []}
+{"index": 163618, "D": "a state of drowsy contentment, especially from the use of marijuana, opium, or other narcotic", "S": ["bhang", "cannabis", "fiber", "flax", "hashish", "jute", "marijuana"], "A": []}

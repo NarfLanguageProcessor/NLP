@@ -1,1 +1,1 @@
-{"index": 35981, "D": "to utter the cry of a sheep, goat, or calf or a sound resembling such a cry.", "S": ["howl ", "peep ", "rasp ", "screech ", "shriek ", "squawk ", "wail ", "yelp "], "A": []}
+{"index": 35981, "D": "to utter the cry of a sheep, goat, or calf or a sound resembling such a cry.", "S": ["howl", "peep", "rasp", "screech", "shriek", "squawk", "wail", "yelp"], "A": []}

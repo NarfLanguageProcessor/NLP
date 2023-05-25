@@ -1,1 +1,1 @@
-{"index": 148804, "D": "to indicate or suggest without being explicitly stated", "S": ["hinting ", "meaning ", "referring ", "suggesting "], "A": []}
+{"index": 148804, "D": "to indicate or suggest without being explicitly stated", "S": ["hinting", "meaning", "referring", "suggesting"], "A": []}

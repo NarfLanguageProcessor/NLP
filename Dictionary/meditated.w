@@ -1,1 +1,1 @@
-{"index": 182193, "D": "to engage in thought or contemplation; reflect.", "S": ["calculated ", "premeditated ", "voluntary ", "willful "], "A": ["involuntary ", "unwilling "]}
+{"index": 182193, "D": "to engage in thought or contemplation; reflect.", "S": ["calculated", "premeditated", "voluntary", "willful"], "A": ["involuntary", "unwilling"]}

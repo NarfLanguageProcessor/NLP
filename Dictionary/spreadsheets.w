@@ -1,1 +1,1 @@
-{"index": 301232, "D": "a worksheet that is arranged in the manner of a mathematical matrix and contains a multicolumn analysis of related entries for easy reference on a single sheet.", "S": ["operating system ", "program "], "A": []}
+{"index": 301232, "D": "a worksheet that is arranged in the manner of a mathematical matrix and contains a multicolumn analysis of related entries for easy reference on a single sheet.", "S": ["operating system", "program"], "A": []}

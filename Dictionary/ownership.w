@@ -1,1 +1,1 @@
-{"index": 222078, "D": "the state or fact of being an owner. ", "S": ["control ", "holding ", "partnership ", "property ", "purchase ", "takeover "], "A": ["lease ", "renting "]}
+{"index": 222078, "D": "the state or fact of being an owner. ", "S": ["control", "holding", "partnership", "property", "purchase", "takeover"], "A": ["lease", "renting"]}

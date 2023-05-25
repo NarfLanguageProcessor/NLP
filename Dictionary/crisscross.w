@@ -1,1 +1,1 @@
-{"index": 73367, "D": "to move back and forth over", "S": ["cross ", "interlaced ", "intersecting ", "interwoven ", "woven "], "A": []}
+{"index": 73367, "D": "to move back and forth over", "S": ["cross", "interlaced", "intersecting", "interwoven", "woven"], "A": []}

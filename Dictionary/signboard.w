@@ -1,1 +1,1 @@
-{"index": 290129, "D": "a board  bearing a sign. ", "S": ["advertisement ", "placard ", "poster "], "A": []}
+{"index": 290129, "D": "a board  bearing a sign. ", "S": ["advertisement", "placard", "poster"], "A": []}

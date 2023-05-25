@@ -1,1 +1,1 @@
-{"index": 250453, "D": "fussy about trivialities or propriety, especially in a self-righteous or irritating manner", "S": ["pretentiousness ", "prudery ", "puritanism ", "snobbery "], "A": []}
+{"index": 250453, "D": "fussy about trivialities or propriety, especially in a self-righteous or irritating manner", "S": ["pretentiousness", "prudery", "puritanism", "snobbery"], "A": []}

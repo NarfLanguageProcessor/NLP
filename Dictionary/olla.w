@@ -1,1 +1,1 @@
-{"index": 212319, "D": "a pot, especially an earthen pot for holding water, cooking, etc.", "S": ["container ", "crock ", "earthenware ", "jar ", "pot "], "A": []}
+{"index": 212319, "D": "a pot, especially an earthen pot for holding water, cooking, etc.", "S": ["container", "crock", "earthenware", "jar", "pot"], "A": []}

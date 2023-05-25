@@ -1,1 +1,1 @@
-{"index": 305754, "D": "to drive or leave (a ship, fish, etc.) aground or ashore", "S": ["fiber ", "filament ", "rope ", "string "], "A": ["hunk "]}
+{"index": 305754, "D": "to drive or leave (a ship, fish, etc.) aground or ashore", "S": ["fiber", "filament", "rope", "string"], "A": ["hunk"]}

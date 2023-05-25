@@ -1,1 +1,0 @@
-{"index": 203330, "D": "deviating from the recognized or customary character, practice, etc.; irregular; erratic; peculiar; odd", "S": [], "A": []}

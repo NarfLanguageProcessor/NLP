@@ -1,1 +1,1 @@
-{"index": 273975, "D": "the action, motion, or sound of anything that rolls. ", "S": ["hilly ", "undulating "], "A": []}
+{"index": 273975, "D": "the action, motion, or sound of anything that rolls. ", "S": ["hilly", "undulating"], "A": []}

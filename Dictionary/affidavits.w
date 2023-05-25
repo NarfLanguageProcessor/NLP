@@ -1,1 +1,1 @@
-{"index": 5363, "D": "a written declaration upon oath made before an authorized official.", "S": ["oath ", "testimony "], "A": []}
+{"index": 5363, "D": "a written declaration upon oath made before an authorized official.", "S": ["oath", "testimony"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 54302, "D": "of, like, or befitting a child", "S": ["childlike ", "foolish ", "naive ", "youthful "], "A": ["experienced ", "wise "]}
+{"index": 54302, "D": "of, like, or befitting a child", "S": ["childlike", "foolish", "naive", "youthful"], "A": ["experienced", "wise"]}

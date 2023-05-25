@@ -1,1 +1,1 @@
-{"index": 272144, "D": "periodic, as motion, or a drumbeat.", "S": ["adroitly ", "beautifully ", "delicately ", "easily ", "elegantly ", "graciously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "gracelessly ", "grotesquely "]}
+{"index": 272144, "D": "periodic, as motion, or a drumbeat.", "S": ["adroitly", "beautifully", "delicately", "easily", "elegantly", "graciously", "neatly", "nimbly", "skillfully", "smoothly"], "A": ["awkwardly", "gracelessly", "grotesquely"]}

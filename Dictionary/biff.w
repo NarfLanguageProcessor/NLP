@@ -1,1 +1,1 @@
-{"index": 33621, "D": "a blow; punch.", "S": ["belt ", "clout ", "crack ", "cuff ", "hit ", "knock ", "lick ", "pound ", "punch ", "roundhouse ", "slap ", "slug ", "smack ", "strike ", "swat ", "thwack ", "wallop ", "whack ", "wham ", "whop "], "A": []}
+{"index": 33621, "D": "a blow; punch.", "S": ["belt", "clout", "crack", "cuff", "hit", "knock", "lick", "pound", "punch", "roundhouse", "slap", "slug", "smack", "strike", "swat", "thwack", "wallop", "whack", "wham", "whop"], "A": []}

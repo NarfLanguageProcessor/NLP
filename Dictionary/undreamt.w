@@ -1,1 +1,0 @@
-{"index": 340830, "D": "a simple past tense and past participle of dream. ", "S": [], "A": []}

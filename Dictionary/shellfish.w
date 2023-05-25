@@ -1,1 +1,1 @@
-{"index": 287965, "D": "an aquatic animal having a shell, as the oyster and other mollusks and the lobster and other crustaceans.", "S": ["clam ", "conch ", "crawfish ", "crustacean ", "lobster ", "mollusk ", "mussel ", "oyster ", "prawn ", "scallop ", "shrimp ", "snail "], "A": []}
+{"index": 287965, "D": "an aquatic animal having a shell, as the oyster and other mollusks and the lobster and other crustaceans.", "S": ["clam", "conch", "crawfish", "crustacean", "lobster", "mollusk", "mussel", "oyster", "prawn", "scallop", "shrimp", "snail"], "A": []}

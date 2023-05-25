@@ -1,1 +1,1 @@
-{"index": 111148, "D": [], "S": ["feminineness ", "girlishness ", "womanliness "], "A": []}
+{"index": 111148, "D": [], "S": ["feminineness", "girlishness", "womanliness"], "A": []}

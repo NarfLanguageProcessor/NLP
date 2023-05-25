@@ -1,1 +1,1 @@
-{"index": 269621, "D": "to resound.", "S": ["echo ", "reverberate ", "vibrate "], "A": []}
+{"index": 269621, "D": "to resound.", "S": ["echo", "reverberate", "vibrate"], "A": []}

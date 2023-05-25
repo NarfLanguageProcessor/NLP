@@ -1,1 +1,1 @@
-{"index": 111064, "D": "a man or boy", "S": ["enrollment ", "participation "], "A": []}
+{"index": 111064, "D": "a man or boy", "S": ["enrollment", "participation"], "A": []}

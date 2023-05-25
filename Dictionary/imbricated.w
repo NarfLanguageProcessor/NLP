@@ -1,1 +1,1 @@
-{"index": 147742, "D": "overlapping in sequence, as tiles or shingles on a roof.", "S": ["jugate ", "lapstrake ", "obvolute ", "obvoluted "], "A": []}
+{"index": 147742, "D": "overlapping in sequence, as tiles or shingles on a roof.", "S": ["jugate", "lapstrake", "obvolute", "obvoluted"], "A": []}

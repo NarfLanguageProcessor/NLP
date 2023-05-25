@@ -1,1 +1,1 @@
-{"index": 129347, "D": "an excavation made in the earth in which to bury a dead body.", "S": ["dignified ", "dull ", "earnest ", "heavy ", "muted ", "quiet ", "sage ", "sedate ", "sober ", "subdued "], "A": ["agitated ", "boisterous ", "excited ", "light ", "lively ", "trivial ", "unimportant "]}
+{"index": 129347, "D": "an excavation made in the earth in which to bury a dead body.", "S": ["dignified", "dull", "earnest", "heavy", "muted", "quiet", "sage", "sedate", "sober", "subdued"], "A": ["agitated", "boisterous", "excited", "light", "lively", "trivial", "unimportant"]}

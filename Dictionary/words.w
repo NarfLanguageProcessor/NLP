@@ -1,1 +1,1 @@
-{"index": 367452, "D": "the text of a part of an actor, etc", "S": ["altercation ", "argument ", "contention ", "disagreement ", "quarrel ", "wrangle "], "A": ["agreement ", "harmony ", "peace "]}
+{"index": 367452, "D": "the text of a part of an actor, etc", "S": ["altercation", "argument", "contention", "disagreement", "quarrel", "wrangle"], "A": ["agreement", "harmony", "peace"]}

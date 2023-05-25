@@ -1,1 +1,1 @@
-{"index": 78824, "D": "lying down; recumbent.", "S": ["accumbent ", "flat ", "horizontal ", "prone ", "prostrate ", "reclining ", "recumbent "], "A": []}
+{"index": 78824, "D": "lying down; recumbent.", "S": ["accumbent", "flat", "horizontal", "prone", "prostrate", "reclining", "recumbent"], "A": []}

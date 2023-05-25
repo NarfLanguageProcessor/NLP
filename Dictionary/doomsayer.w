@@ -1,1 +1,1 @@
-{"index": 91526, "D": "a person who predicts impending misfortune or disaster.", "S": ["Chicken Little ", "doom merchant ", "pessimist ", "scaremonger "], "A": []}
+{"index": 91526, "D": "a person who predicts impending misfortune or disaster.", "S": ["Chicken Little", "doom merchant", "pessimist", "scaremonger"], "A": []}

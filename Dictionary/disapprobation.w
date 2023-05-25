@@ -1,1 +1,1 @@
-{"index": 87048, "D": "disapproval; condemnation.", "S": ["blame ", "boycott ", "censure ", "condemnation ", "disapproval ", "disfavor ", "dislike ", "objection "], "A": ["approval ", "endorsement "]}
+{"index": 87048, "D": "disapproval; condemnation.", "S": ["blame", "boycott", "censure", "condemnation", "disapproval", "disfavor", "dislike", "objection"], "A": ["approval", "endorsement"]}

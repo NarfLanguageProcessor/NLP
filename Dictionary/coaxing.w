@@ -1,1 +1,1 @@
-{"index": 61166, "D": "the act of gently persuading, flattering, cajoling, etc., to influence someone to do something", "S": ["bland ", "slick "], "A": ["dry ", "hateful "]}
+{"index": 61166, "D": "the act of gently persuading, flattering, cajoling, etc., to influence someone to do something", "S": ["bland", "slick"], "A": ["dry", "hateful"]}

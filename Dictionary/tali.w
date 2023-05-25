@@ -1,1 +1,1 @@
-{"index": 315602, "D": "a combining form meaning \u201cankle,\u201d used in the formation of compound words", "S": ["bone "], "A": []}
+{"index": 315602, "D": "a combining form meaning \u201cankle,\u201d used in the formation of compound words", "S": ["bone"], "A": []}

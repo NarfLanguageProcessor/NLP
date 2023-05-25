@@ -1,1 +1,1 @@
-{"index": 480, "D": "of or like an abyss;  immeasurably deep or great.", "S": ["bottomless ", "boundless ", "complete ", "deep ", "endless ", "extreme ", "illimitable ", "incalculable ", "infinite ", "profound ", "thorough ", "unending ", "unfathomable ", "vast "], "A": ["infinite ", "low "]}
+{"index": 480, "D": "of or like an abyss;  immeasurably deep or great.", "S": ["bottomless", "boundless", "complete", "deep", "endless", "extreme", "illimitable", "incalculable", "infinite", "profound", "thorough", "unending", "unfathomable", "vast"], "A": ["infinite", "low"]}

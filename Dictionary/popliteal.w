@@ -1,1 +1,1 @@
-{"index": 243246, "D": "of or relating to the ham, or part of the leg back of the knee.", "S": ["patella "], "A": []}
+{"index": 243246, "D": "of or relating to the ham, or part of the leg back of the knee.", "S": ["patella"], "A": []}

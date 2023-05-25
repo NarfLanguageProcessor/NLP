@@ -1,1 +1,0 @@
-{"index": 195828, "D": "a person with monarchical sympathies during the French Revolution, especially from 1794 to 1796.", "S": [], "A": []}

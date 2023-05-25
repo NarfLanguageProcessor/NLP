@@ -1,1 +1,1 @@
-{"index": 95976, "D": "the state or quality of being effeminate. ", "S": ["femaleness ", "feminineness ", "femininity ", "sissiness ", "unmanliness ", "womanishness "], "A": []}
+{"index": 95976, "D": "the state or quality of being effeminate. ", "S": ["femaleness", "feminineness", "femininity", "sissiness", "unmanliness", "womanishness"], "A": []}

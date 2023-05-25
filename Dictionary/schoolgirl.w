@@ -1,1 +1,1 @@
-{"index": 280453, "D": "a girl  attending school. ", "S": ["adolescent ", "daughter ", "lady ", "teenager ", "young woman "], "A": ["boy "]}
+{"index": 280453, "D": "a girl  attending school. ", "S": ["adolescent", "daughter", "lady", "teenager", "young woman"], "A": ["boy"]}

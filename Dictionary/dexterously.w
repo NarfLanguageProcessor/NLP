@@ -1,1 +1,1 @@
-{"index": 83799, "D": "skillful or adroit in the use of the hands or body.", "S": ["ably ", "adroitly ", "aptly ", "deftly ", "expertly ", "handily ", "ingeniously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}
+{"index": 83799, "D": "skillful or adroit in the use of the hands or body.", "S": ["ably", "adroitly", "aptly", "deftly", "expertly", "handily", "ingeniously", "neatly", "nimbly", "skillfully", "smoothly"], "A": ["awkwardly", "clumsily", "unskillfully"]}

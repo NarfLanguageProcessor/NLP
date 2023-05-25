@@ -1,1 +1,1 @@
-{"index": 285492, "D": "the quality or state of being sentimental  or excessively sentimental.", "S": ["melodrama ", "nostalgia "], "A": []}
+{"index": 285492, "D": "the quality or state of being sentimental  or excessively sentimental.", "S": ["melodrama", "nostalgia"], "A": []}

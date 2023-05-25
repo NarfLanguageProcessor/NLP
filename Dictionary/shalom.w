@@ -1,1 +1,1 @@
-{"index": 287289, "D": "peace (used as a word of greeting or farewell).", "S": ["greetings ", "hi ", "howdy ", "welcome "], "A": ["adios ", "au revoir ", "goodbye "]}
+{"index": 287289, "D": "peace (used as a word of greeting or farewell).", "S": ["greetings", "hi", "howdy", "welcome"], "A": ["adios", "au revoir", "goodbye"]}

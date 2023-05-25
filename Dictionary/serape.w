@@ -1,1 +1,1 @@
-{"index": 285905, "D": "a blanketlike shawl or wrap, often of brightly colored wool, as worn in Latin America.", "S": ["cloth ", "scarf ", "stole "], "A": []}
+{"index": 285905, "D": "a blanketlike shawl or wrap, often of brightly colored wool, as worn in Latin America.", "S": ["cloth", "scarf", "stole"], "A": []}

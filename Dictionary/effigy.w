@@ -1,1 +1,1 @@
-{"index": 96030, "D": "a representation or image, especially sculptured, as on a monument.", "S": ["likeness ", "statue "], "A": ["human being "]}
+{"index": 96030, "D": "a representation or image, especially sculptured, as on a monument.", "S": ["likeness", "statue"], "A": ["human being"]}

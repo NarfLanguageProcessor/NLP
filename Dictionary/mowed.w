@@ -1,1 +1,1 @@
-{"index": 194421, "D": "to cut down (grass, grain, etc.) with a scythe or a machine.", "S": ["shear ", "trim "], "A": []}
+{"index": 194421, "D": "to cut down (grass, grain, etc.) with a scythe or a machine.", "S": ["shear", "trim"], "A": []}

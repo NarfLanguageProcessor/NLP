@@ -1,1 +1,1 @@
-{"index": 364355, "D": [], "S": ["big ", "bulging ", "bulky ", "chunky ", "heavy ", "hefty ", "inflated ", "large ", "meaty ", "obese ", "plump ", "well-fed "], "A": ["skinny ", "slight ", "thin "]}
+{"index": 364355, "D": [], "S": ["big", "bulging", "bulky", "chunky", "heavy", "hefty", "inflated", "large", "meaty", "obese", "plump", "well-fed"], "A": ["skinny", "slight", "thin"]}

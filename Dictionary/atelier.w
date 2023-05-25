@@ -1,1 +1,1 @@
-{"index": 22466, "D": "a workshop or studio, especially of an artist, artisan, or designer.", "S": ["cave ", "hotbed ", "nest ", "sanctuary "], "A": []}
+{"index": 22466, "D": "a workshop or studio, especially of an artist, artisan, or designer.", "S": ["cave", "hotbed", "nest", "sanctuary"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 13808, "D": "an assumed or false name.", "S": ["assumed name ", "moniker ", "pseudonym ", "stage name "], "A": ["name "]}
+{"index": 13808, "D": "an assumed or false name.", "S": ["assumed name", "moniker", "pseudonym", "stage name"], "A": ["name"]}

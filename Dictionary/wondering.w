@@ -1,1 +1,1 @@
-{"index": 367038, "D": "expressing admiration or amazement; marveling.", "S": ["awestruck "], "A": []}
+{"index": 367038, "D": "expressing admiration or amazement; marveling.", "S": ["awestruck"], "A": []}

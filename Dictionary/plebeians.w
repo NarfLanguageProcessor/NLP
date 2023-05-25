@@ -1,1 +1,1 @@
-{"index": 239678, "D": "belonging or pertaining to the common people.", "S": ["proletariat ", "working class "], "A": ["upper class "]}
+{"index": 239678, "D": "belonging or pertaining to the common people.", "S": ["proletariat", "working class"], "A": ["upper class"]}

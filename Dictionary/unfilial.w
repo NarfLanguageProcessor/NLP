@@ -1,1 +1,1 @@
-{"index": 342254, "D": "not befitting a son or daughter; violating the customary obligation of a child to a parent.", "S": ["blasphemous ", "contemptuous ", "flippant ", "impolite ", "profane ", "sacrilegious "], "A": ["courteous ", "polite ", "respectful ", "reverent "]}
+{"index": 342254, "D": "not befitting a son or daughter; violating the customary obligation of a child to a parent.", "S": ["blasphemous", "contemptuous", "flippant", "impolite", "profane", "sacrilegious"], "A": ["courteous", "polite", "respectful", "reverent"]}

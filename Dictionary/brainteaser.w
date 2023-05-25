@@ -1,1 +1,1 @@
-{"index": 39761, "D": "a puzzle or problem whose solution requires great ingenuity.", "S": ["conundrum ", "enigma ", "problem ", "question ", "riddle ", "secrecy ", "subtlety ", "thriller "], "A": ["known ", "understanding "]}
+{"index": 39761, "D": "a puzzle or problem whose solution requires great ingenuity.", "S": ["conundrum", "enigma", "problem", "question", "riddle", "secrecy", "subtlety", "thriller"], "A": ["known", "understanding"]}

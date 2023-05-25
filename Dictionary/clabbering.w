@@ -1,1 +1,1 @@
-{"index": 58974, "D": "milk that has soured and thickened; curdled milk.", "S": ["clot ", "condense ", "congeal ", "curdle ", "swell "], "A": ["thin ", "abridge ", "decrease ", "diminish ", "lessen ", "liquefy ", "lower ", "melt ", "reduce ", "shrink ", "soften ", "subtract ", "weaken "]}
+{"index": 58974, "D": "milk that has soured and thickened; curdled milk.", "S": ["clot", "condense", "congeal", "curdle", "swell"], "A": ["thin", "abridge", "decrease", "diminish", "lessen", "liquefy", "lower", "melt", "reduce", "shrink", "soften", "subtract", "weaken"]}

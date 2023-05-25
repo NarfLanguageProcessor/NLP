@@ -1,1 +1,1 @@
-{"index": 75053, "D": "a small, open container made of china, glass, metal, etc., usually having a handle and used chiefly as a receptable from which to drink tea, soup, etc.", "S": ["bowl ", "drink ", "mug "], "A": []}
+{"index": 75053, "D": "a small, open container made of china, glass, metal, etc., usually having a handle and used chiefly as a receptable from which to drink tea, soup, etc.", "S": ["bowl", "drink", "mug"], "A": []}

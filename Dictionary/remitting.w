@@ -1,1 +1,1 @@
-{"index": 267369, "D": "to transmit or send (money, a check, etc.) to a person or place, usually in payment.", "S": ["offering "], "A": ["appropriating ", "getting ", "taking "]}
+{"index": 267369, "D": "to transmit or send (money, a check, etc.) to a person or place, usually in payment.", "S": ["offering"], "A": ["appropriating", "getting", "taking"]}

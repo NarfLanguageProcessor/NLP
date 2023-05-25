@@ -1,1 +1,1 @@
-{"index": 43654, "D": "the end or extremity of anything, especially the thicker, larger, or blunt end considered as a bottom, base, support, or handle, as of a log, fishing rod, or pistol.", "S": ["tail "], "A": ["top "]}
+{"index": 43654, "D": "the end or extremity of anything, especially the thicker, larger, or blunt end considered as a bottom, base, support, or handle, as of a log, fishing rod, or pistol.", "S": ["tail"], "A": ["top"]}

@@ -1,1 +1,1 @@
-{"index": 125392, "D": "See Usage note at the current entry.", "S": ["bohemian ", "nomad ", "roamer ", "sharper ", "vagrant "], "A": []}
+{"index": 125392, "D": "See Usage note at the current entry.", "S": ["bohemian", "nomad", "roamer", "sharper", "vagrant"], "A": []}

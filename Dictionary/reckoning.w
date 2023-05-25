@@ -1,1 +1,1 @@
-{"index": 262947, "D": "count; computation; calculation.", "S": ["calculation ", "estimation "], "A": []}
+{"index": 262947, "D": "count; computation; calculation.", "S": ["calculation", "estimation"], "A": []}

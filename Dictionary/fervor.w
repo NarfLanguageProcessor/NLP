@@ -1,1 +1,1 @@
-{"index": 111646, "D": "great warmth and earnestness of feeling", "S": ["ardor ", "earnestness ", "intensity ", "passion ", "piety ", "seriousness ", "sincerity ", "warmth ", "zeal "], "A": ["apathy ", "indifference ", "insincerity ", "lethargy ", "disinterest ", "dullness "]}
+{"index": 111646, "D": "great warmth and earnestness of feeling", "S": ["ardor", "earnestness", "intensity", "passion", "piety", "seriousness", "sincerity", "warmth", "zeal"], "A": ["apathy", "indifference", "insincerity", "lethargy", "disinterest", "dullness"]}

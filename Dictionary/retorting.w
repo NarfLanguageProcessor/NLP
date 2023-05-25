@@ -1,1 +1,1 @@
-{"index": 270596, "D": "to reply to, usually in a sharp or retaliatory way; reply in kind to.", "S": ["quip ", "rejoinder ", "repartee "], "A": ["kindness ", "question ", "request ", "sympathy "]}
+{"index": 270596, "D": "to reply to, usually in a sharp or retaliatory way; reply in kind to.", "S": ["quip", "rejoinder", "repartee"], "A": ["kindness", "question", "request", "sympathy"]}

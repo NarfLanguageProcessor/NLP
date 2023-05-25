@@ -1,1 +1,1 @@
-{"index": 94523, "D": "an ashcan; garbage can.", "S": ["garbage pail ", "litter basket ", "trash barrel ", "trash bin ", "trash can ", "wastebasket ", "wastebin ", "wastepaper basket "], "A": []}
+{"index": 94523, "D": "an ashcan; garbage can.", "S": ["garbage pail", "litter basket", "trash barrel", "trash bin", "trash can", "wastebasket", "wastebin", "wastepaper basket"], "A": []}

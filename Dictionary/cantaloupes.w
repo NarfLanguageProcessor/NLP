@@ -1,1 +1,1 @@
-{"index": 46563, "D": "a variety of melon, Cucumis melo cantalupensis, of the gourd family, having a hard scaly or warty rind, grown in Europe, Asia, and the United States.", "S": ["melon "], "A": []}
+{"index": 46563, "D": "a variety of melon, Cucumis melo cantalupensis, of the gourd family, having a hard scaly or warty rind, grown in Europe, Asia, and the United States.", "S": ["melon"], "A": []}

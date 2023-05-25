@@ -1,1 +1,1 @@
-{"index": 331654, "D": "close (def. 54). ", "S": ["constructed "], "A": []}
+{"index": 331654, "D": "close (def. 54). ", "S": ["constructed"], "A": []}

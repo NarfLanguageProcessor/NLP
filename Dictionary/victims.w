@@ -1,1 +1,1 @@
-{"index": 359449, "D": "a person who suffers from a destructive or injurious action or agency", "S": ["casualty ", "fatality ", "martyr ", "sufferer "], "A": ["criminal ", "culprit "]}
+{"index": 359449, "D": "a person who suffers from a destructive or injurious action or agency", "S": ["casualty", "fatality", "martyr", "sufferer"], "A": ["criminal", "culprit"]}

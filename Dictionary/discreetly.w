@@ -1,1 +1,1 @@
-{"index": 87704, "D": "in a way that is careful about something of a personal or delicate nature; circumspectly", "S": ["deliberately ", "intentionally "], "A": ["unintentionally "]}
+{"index": 87704, "D": "in a way that is careful about something of a personal or delicate nature; circumspectly", "S": ["deliberately", "intentionally"], "A": ["unintentionally"]}

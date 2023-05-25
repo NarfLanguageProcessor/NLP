@@ -1,1 +1,1 @@
-{"index": 327163, "D": "a structure consisting of a pair of parallel lines of rails with their crossties, on which a railroad train, trolley, or the like runs.", "S": ["attributable ", "detectable ", "identifiable "], "A": []}
+{"index": 327163, "D": "a structure consisting of a pair of parallel lines of rails with their crossties, on which a railroad train, trolley, or the like runs.", "S": ["attributable", "detectable", "identifiable"], "A": []}

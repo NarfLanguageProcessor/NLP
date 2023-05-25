@@ -1,1 +1,1 @@
-{"index": 194951, "D": "a stew containing meat, vegetables, etc., especially one made of any available ingredients.", "S": ["ammunition ", "bomb ", "booby trap ", "detonator ", "dynamite ", "gunpowder ", "mine ", "missile ", "munition ", "powder "], "A": []}
+{"index": 194951, "D": "a stew containing meat, vegetables, etc., especially one made of any available ingredients.", "S": ["ammunition", "bomb", "booby trap", "detonator", "dynamite", "gunpowder", "mine", "missile", "munition", "powder"], "A": []}

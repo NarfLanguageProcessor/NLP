@@ -1,1 +1,1 @@
-{"index": 321715, "D": "stupid; dull.", "S": ["boneheaded ", "dense ", "dimwitted ", "doltish ", "dumb ", "empty-headed ", "loggerheaded ", "obtuse ", "simple ", "simpleminded ", "thickheaded ", "unintelligent "], "A": []}
+{"index": 321715, "D": "stupid; dull.", "S": ["boneheaded", "dense", "dimwitted", "doltish", "dumb", "empty-headed", "loggerheaded", "obtuse", "simple", "simpleminded", "thickheaded", "unintelligent"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 63714, "D": "to burn. ", "S": ["blaze ", "flame ", "ignite "], "A": []}
+{"index": 63714, "D": "to burn. ", "S": ["blaze", "flame", "ignite"], "A": []}

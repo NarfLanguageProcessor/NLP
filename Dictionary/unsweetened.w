@@ -1,1 +1,1 @@
-{"index": 352581, "D": "not having any added sugar or other sweeteners", "S": ["harsh ", "sour "], "A": ["bland ", "sweet "]}
+{"index": 352581, "D": "not having any added sugar or other sweeteners", "S": ["harsh", "sour"], "A": ["bland", "sweet"]}

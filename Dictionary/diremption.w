@@ -1,1 +1,1 @@
-{"index": 86804, "D": "a sharp division into two parts; disjunction; separation.", "S": ["couple ", "double ", "pair ", "team "], "A": []}
+{"index": 86804, "D": "a sharp division into two parts; disjunction; separation.", "S": ["couple", "double", "pair", "team"], "A": []}

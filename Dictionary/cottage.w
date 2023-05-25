@@ -1,1 +1,1 @@
-{"index": 70406, "D": "a small house, usually of only one story.", "S": ["bungalow ", "cabin ", "chalet ", "home ", "hut ", "lean-to ", "lodge ", "ranch ", "shack ", "shanty "], "A": []}
+{"index": 70406, "D": "a small house, usually of only one story.", "S": ["bungalow", "cabin", "chalet", "home", "hut", "lean-to", "lodge", "ranch", "shack", "shanty"], "A": []}

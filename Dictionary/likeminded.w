@@ -1,1 +1,1 @@
-{"index": 172186, "D": "having a similar or identical opinion, disposition, etc.", "S": ["agreeing ", "compatible ", "harmonious ", "in accord ", "in agreement ", "in harmony ", "of like mind ", "of one mind ", "similar ", "together ", "unanimous ", "united "], "A": []}
+{"index": 172186, "D": "having a similar or identical opinion, disposition, etc.", "S": ["agreeing", "compatible", "harmonious", "in accord", "in agreement", "in harmony", "of like mind", "of one mind", "similar", "together", "unanimous", "united"], "A": []}

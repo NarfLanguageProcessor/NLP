@@ -1,1 +1,1 @@
-{"index": 104957, "D": "in a way that relates to morals, the principles of morality, or right and wrong conduct", "S": ["decently ", "properly "], "A": ["inaccurately ", "inappropriately ", "incorrectly ", "indirectly ", "unfairly ", "unjustly ", "unsuitably ", "wrongly "]}
+{"index": 104957, "D": "in a way that relates to morals, the principles of morality, or right and wrong conduct", "S": ["decently", "properly"], "A": ["inaccurately", "inappropriately", "incorrectly", "indirectly", "unfairly", "unjustly", "unsuitably", "wrongly"]}

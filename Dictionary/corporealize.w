@@ -1,1 +1,1 @@
-{"index": 69543, "D": [], "S": ["appear ", "emerge ", "happen ", "occur ", "realize ", "take place ", "turn up ", "unfold "], "A": ["disappear ", "hide ", "leave ", "lose ", "decrease ", "halt ", "stop "]}
+{"index": 69543, "D": [], "S": ["appear", "emerge", "happen", "occur", "realize", "take place", "turn up", "unfold"], "A": ["disappear", "hide", "leave", "lose", "decrease", "halt", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 222707, "D": "a person or thing that pacifies. ", "S": ["friend ", "sympathizer "], "A": []}
+{"index": 222707, "D": "a person or thing that pacifies. ", "S": ["friend", "sympathizer"], "A": []}

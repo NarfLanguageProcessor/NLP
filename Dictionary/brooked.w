@@ -1,1 +1,1 @@
-{"index": 41508, "D": "a small, natural stream of fresh water.", "S": ["beck ", "branch ", "burn ", "creek ", "rill ", "river ", "rivulet ", "run ", "runnel ", "streamlet ", "watercourse "], "A": []}
+{"index": 41508, "D": "a small, natural stream of fresh water.", "S": ["beck", "branch", "burn", "creek", "rill", "river", "rivulet", "run", "runnel", "streamlet", "watercourse"], "A": []}

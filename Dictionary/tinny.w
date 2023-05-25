@@ -1,1 +1,1 @@
-{"index": 324056, "D": "of or like tin. ", "S": ["golden ", "silvery "], "A": []}
+{"index": 324056, "D": "of or like tin. ", "S": ["golden", "silvery"], "A": []}

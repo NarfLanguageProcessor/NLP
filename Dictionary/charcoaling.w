@@ -1,1 +1,1 @@
-{"index": 52779, "D": "the carbonaceous material obtained by heating wood or other organic substances in the absence of air.", "S": ["broil ", "grill ", "sear "], "A": ["freeze "]}
+{"index": 52779, "D": "the carbonaceous material obtained by heating wood or other organic substances in the absence of air.", "S": ["broil", "grill", "sear"], "A": ["freeze"]}

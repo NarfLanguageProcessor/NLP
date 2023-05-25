@@ -1,1 +1,0 @@
-{"index": 214334, "D": "the affective and conative character of mental activity as contrasted with its cognitive aspect; the appetitive aspect of an act.", "S": [], "A": []}

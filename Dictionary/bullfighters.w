@@ -1,1 +1,1 @@
-{"index": 42556, "D": "a person who participates in a bullfight,  especially a matador.", "S": ["banderillero ", "picador ", "toreador ", "torero "], "A": []}
+{"index": 42556, "D": "a person who participates in a bullfight,  especially a matador.", "S": ["banderillero", "picador", "toreador", "torero"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 111496, "D": "a commercial service with terminals and boats for transporting persons, automobiles, etc., across a river or other comparatively small body of water.", "S": ["barge ", "ferryboat "], "A": []}
+{"index": 111496, "D": "a commercial service with terminals and boats for transporting persons, automobiles, etc., across a river or other comparatively small body of water.", "S": ["barge", "ferryboat"], "A": []}

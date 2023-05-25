@@ -1,1 +1,1 @@
-{"index": 338387, "D": "adventurous courage; boldness. ", "S": ["traditional "], "A": ["incautious ", "changeable ", "inconstant ", "unfixed ", "unstable ", "unsteady ", "untrustworthy ", "wavering "]}
+{"index": 338387, "D": "adventurous courage; boldness. ", "S": ["traditional"], "A": ["incautious", "changeable", "inconstant", "unfixed", "unstable", "unsteady", "untrustworthy", "wavering"]}

@@ -1,1 +1,1 @@
-{"index": 164820, "D": "the study of body movements, gestures, facial expressions, etc., as a means of communication.", "S": ["gesture "], "A": []}
+{"index": 164820, "D": "the study of body movements, gestures, facial expressions, etc., as a means of communication.", "S": ["gesture"], "A": []}

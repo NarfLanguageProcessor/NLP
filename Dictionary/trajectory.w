@@ -1,1 +1,1 @@
-{"index": 327515, "D": "the curve described by a projectile, rocket, or the like in its flight.", "S": ["curve ", "orbit ", "path "], "A": []}
+{"index": 327515, "D": "the curve described by a projectile, rocket, or the like in its flight.", "S": ["curve", "orbit", "path"], "A": []}

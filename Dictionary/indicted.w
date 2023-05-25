@@ -1,1 +1,1 @@
-{"index": 150937, "D": "having been charged with an offense or crime, especially legally or formally", "S": ["arraigned ", "implicated ", "incriminated "], "A": ["acquitted ", "clear ", "discharged "]}
+{"index": 150937, "D": "having been charged with an offense or crime, especially legally or formally", "S": ["arraigned", "implicated", "incriminated"], "A": ["acquitted", "clear", "discharged"]}

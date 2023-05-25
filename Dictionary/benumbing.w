@@ -1,1 +1,1 @@
-{"index": 31716, "D": "to make numb; deprive of sensation", "S": ["blunt ", "chill ", "cumber ", "daze ", "deaden ", "numb ", "stun ", "stupefy "], "A": ["enliven "]}
+{"index": 31716, "D": "to make numb; deprive of sensation", "S": ["blunt", "chill", "cumber", "daze", "deaden", "numb", "stun", "stupefy"], "A": ["enliven"]}

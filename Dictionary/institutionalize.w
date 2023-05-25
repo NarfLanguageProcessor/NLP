@@ -1,1 +1,1 @@
-{"index": 153943, "D": "to make institutional. ", "S": ["regulate "], "A": ["disorder ", "disorganize ", "mix up "]}
+{"index": 153943, "D": "to make institutional. ", "S": ["regulate"], "A": ["disorder", "disorganize", "mix up"]}

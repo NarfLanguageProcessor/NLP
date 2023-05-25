@@ -1,1 +1,0 @@
-{"index": 348326, "D": "not predictable; not to be foreseen or foretold", "S": [], "A": []}

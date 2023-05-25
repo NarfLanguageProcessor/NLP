@@ -1,1 +1,1 @@
-{"index": 334902, "D": "ready or willing to answer, act, agree, or yield; open to influence, persuasion, or advice; agreeable; submissive; tractable tractable", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}
+{"index": 334902, "D": "ready or willing to answer, act, agree, or yield; open to influence, persuasion, or advice; agreeable; submissive; tractable tractable", "S": ["mulishly", "obdurately"], "A": ["graciously", "obediently"]}

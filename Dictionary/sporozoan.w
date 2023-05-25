@@ -1,1 +1,1 @@
-{"index": 301023, "D": "any parasitic spore-forming protozoan of the phylum (or class) Sporozoa,  several species of which, as plasmodia, cause malaria.", "S": ["ameba ", "amoeba ", "cell ", "ciliate ", "euglena ", "flagellate ", "organism ", "paramecium ", "plasmodium ", "stentor "], "A": []}
+{"index": 301023, "D": "any parasitic spore-forming protozoan of the phylum (or class) Sporozoa,  several species of which, as plasmodia, cause malaria.", "S": ["ameba", "amoeba", "cell", "ciliate", "euglena", "flagellate", "organism", "paramecium", "plasmodium", "stentor"], "A": []}

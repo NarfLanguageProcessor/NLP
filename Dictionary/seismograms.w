@@ -1,1 +1,0 @@
-{"index": 283326, "D": "a record made by a seismograph.", "S": [], "A": []}

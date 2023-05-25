@@ -1,1 +1,1 @@
-{"index": 211637, "D": "to perform the office  of a member of the clergy, as at a divine service.", "S": ["preside "], "A": ["cease ", "follow ", "halt ", "idle ", "mismanage ", "neglect ", "obey ", "refrain ", "stop "]}
+{"index": 211637, "D": "to perform the office  of a member of the clergy, as at a divine service.", "S": ["preside"], "A": ["cease", "follow", "halt", "idle", "mismanage", "neglect", "obey", "refrain", "stop"]}

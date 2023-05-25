@@ -1,1 +1,1 @@
-{"index": 273117, "D": "a noisy, violent public disorder caused by a group or crowd of persons, as by a crowd protesting against another group, a government policy, etc., in the streets.", "S": ["marcher ", "radical ", "striker "], "A": []}
+{"index": 273117, "D": "a noisy, violent public disorder caused by a group or crowd of persons, as by a crowd protesting against another group, a government policy, etc., in the streets.", "S": ["marcher", "radical", "striker"], "A": []}

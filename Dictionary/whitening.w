@@ -1,1 +1,1 @@
-{"index": 365161, "D": "a preparation for making something white; whiting.", "S": ["bleach "], "A": ["brighten ", "darken "]}
+{"index": 365161, "D": "a preparation for making something white; whiting.", "S": ["bleach"], "A": ["brighten", "darken"]}

@@ -1,1 +1,1 @@
-{"index": 28389, "D": "an establishment or room  with a bar  for the serving of alcoholic beverages.", "S": ["pub ", "saloon "], "A": []}
+{"index": 28389, "D": "an establishment or room  with a bar  for the serving of alcoholic beverages.", "S": ["pub", "saloon"], "A": []}

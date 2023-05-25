@@ -1,1 +1,1 @@
-{"index": 26172, "D": "comparative of bad1 (def. 36). ", "S": ["atrocious ", "awful ", "cheap ", "crummy ", "dreadful ", "lousy ", "poor ", "rough ", "sad ", "unacceptable "], "A": ["OK ", "fortunate ", "good ", "great ", "happy ", "lucky ", "pleasing ", "sophisticated ", "superior ", "wonderful "]}
+{"index": 26172, "D": "comparative of bad1 (def. 36). ", "S": ["atrocious", "awful", "cheap", "crummy", "dreadful", "lousy", "poor", "rough", "sad", "unacceptable"], "A": ["OK", "fortunate", "good", "great", "happy", "lucky", "pleasing", "sophisticated", "superior", "wonderful"]}

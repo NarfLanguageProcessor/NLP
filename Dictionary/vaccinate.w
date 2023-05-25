@@ -1,1 +1,1 @@
-{"index": 356366, "D": "to inoculate with the vaccine  of cowpox so as to render the subject immune to smallpox.", "S": ["immunize ", "inject ", "inoculate ", "protect ", "treat "], "A": ["harm ", "hurt ", "injure "]}
+{"index": 356366, "D": "to inoculate with the vaccine  of cowpox so as to render the subject immune to smallpox.", "S": ["immunize", "inject", "inoculate", "protect", "treat"], "A": ["harm", "hurt", "injure"]}

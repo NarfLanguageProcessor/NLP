@@ -1,1 +1,1 @@
-{"index": 131016, "D": "to assist (a person) to travel through, or reach a destination in, an unfamiliar area, as by accompanying or giving directions to the person", "S": ["counselor ", "mentor ", "model ", "pilot ", "teacher "], "A": ["follower "]}
+{"index": 131016, "D": "to assist (a person) to travel through, or reach a destination in, an unfamiliar area, as by accompanying or giving directions to the person", "S": ["counselor", "mentor", "model", "pilot", "teacher"], "A": ["follower"]}

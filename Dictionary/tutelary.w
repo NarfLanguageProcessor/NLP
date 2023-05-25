@@ -1,1 +1,1 @@
-{"index": 333061, "D": "having the position of guardian or protector of a person, place, or thing", "S": ["advisory ", "custodial ", "guardian ", "protective ", "tutelar "], "A": []}
+{"index": 333061, "D": "having the position of guardian or protector of a person, place, or thing", "S": ["advisory", "custodial", "guardian", "protective", "tutelar"], "A": []}

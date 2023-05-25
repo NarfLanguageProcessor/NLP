@@ -1,1 +1,1 @@
-{"index": 61103, "D": "the land next to the sea; seashore", "S": ["bank ", "beach ", "coastline ", "seaboard ", "shore ", "shoreline "], "A": []}
+{"index": 61103, "D": "the land next to the sea; seashore", "S": ["bank", "beach", "coastline", "seaboard", "shore", "shoreline"], "A": []}

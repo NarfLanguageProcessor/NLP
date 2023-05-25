@@ -1,1 +1,0 @@
-{"index": 163343, "D": "the more angular, less commonly used of the two Japanese syllabaries.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 117033, "D": "a large tract of land covered with trees and underbrush; woodland.", "S": ["arboraceous ", "jungly ", "lumbering ", "sylvan ", "timbered ", "tree-covered ", "tree-laden ", "treed ", "uncut ", "woody "], "A": []}
+{"index": 117033, "D": "a large tract of land covered with trees and underbrush; woodland.", "S": ["arboraceous", "jungly", "lumbering", "sylvan", "timbered", "tree-covered", "tree-laden", "treed", "uncut", "woody"], "A": []}

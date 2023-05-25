@@ -1,1 +1,1 @@
-{"index": 258051, "D": "occurring, done, paid, issued, etc., at the end of every quarter  of a year", "S": ["periodically "], "A": []}
+{"index": 258051, "D": "occurring, done, paid, issued, etc., at the end of every quarter  of a year", "S": ["periodically"], "A": []}

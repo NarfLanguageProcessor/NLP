@@ -1,1 +1,1 @@
-{"index": 22978, "D": "a perfume or essential oil obtained from flowers or petals.", "S": ["aroma ", "bouquet ", "incense ", "odor ", "oil ", "smell ", "spice "], "A": ["odor ", "stench ", "stink "]}
+{"index": 22978, "D": "a perfume or essential oil obtained from flowers or petals.", "S": ["aroma", "bouquet", "incense", "odor", "oil", "smell", "spice"], "A": ["odor", "stench", "stink"]}

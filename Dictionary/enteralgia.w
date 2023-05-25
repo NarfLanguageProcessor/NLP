@@ -1,1 +1,1 @@
-{"index": 101220, "D": "pain in the intestine; colic.", "S": ["bellyache ", "gripe ", "pain ", "stomachache "], "A": []}
+{"index": 101220, "D": "pain in the intestine; colic.", "S": ["bellyache", "gripe", "pain", "stomachache"], "A": []}

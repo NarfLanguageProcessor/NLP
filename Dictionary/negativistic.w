@@ -1,1 +1,1 @@
-{"index": 198027, "D": "a negative  or pessimistic attitude.", "S": ["unruly "], "A": ["cooperative "]}
+{"index": 198027, "D": "a negative  or pessimistic attitude.", "S": ["unruly"], "A": ["cooperative"]}

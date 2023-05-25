@@ -1,1 +1,1 @@
-{"index": 65756, "D": [], "S": ["adverse ", "gloomy ", "pessimistic ", "unfavorable ", "weak "], "A": ["confident ", "favorable "]}
+{"index": 65756, "D": [], "S": ["adverse", "gloomy", "pessimistic", "unfavorable", "weak"], "A": ["confident", "favorable"]}

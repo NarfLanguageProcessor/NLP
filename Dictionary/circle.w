@@ -1,1 +1,1 @@
-{"index": 57972, "D": "a closed plane curve consisting of all points at a given distance from a point within it called the center. Equation", "S": ["ring ", "sphere "], "A": []}
+{"index": 57972, "D": "a closed plane curve consisting of all points at a given distance from a point within it called the center. Equation", "S": ["ring", "sphere"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 245230, "D": "given to, characterized by, or expressive of prayer;  devout.", "S": ["chaste ", "devotional ", "godlike "], "A": []}
+{"index": 245230, "D": "given to, characterized by, or expressive of prayer;  devout.", "S": ["chaste", "devotional", "godlike"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 78333, "D": "shedding the leaves annually, as certain trees and shrubs.", "S": ["brief ", "ephemeral ", "fleeting ", "momentary ", "short-term ", "temporary ", "transitory "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "long-lived ", "permanent ", "perpetual "]}
+{"index": 78333, "D": "shedding the leaves annually, as certain trees and shrubs.", "S": ["brief", "ephemeral", "fleeting", "momentary", "short-term", "temporary", "transitory"], "A": ["enduring", "lasting", "lengthy", "long", "long-lived", "permanent", "perpetual"]}

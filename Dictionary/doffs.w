@@ -1,1 +1,1 @@
-{"index": 90836, "D": "to remove or take off, as clothing.", "S": ["discard ", "disrobe ", "peel ", "shed ", "shuck ", "strip ", "undress "], "A": ["clothe ", "cover ", "put on "]}
+{"index": 90836, "D": "to remove or take off, as clothing.", "S": ["discard", "disrobe", "peel", "shed", "shuck", "strip", "undress"], "A": ["clothe", "cover", "put on"]}

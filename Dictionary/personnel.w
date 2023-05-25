@@ -1,1 +1,1 @@
-{"index": 232004, "D": "a body of persons employed in an organization or place of work.", "S": ["cadre ", "crew ", "group ", "organization ", "people ", "staff ", "troop ", "work force "], "A": []}
+{"index": 232004, "D": "a body of persons employed in an organization or place of work.", "S": ["cadre", "crew", "group", "organization", "people", "staff", "troop", "work force"], "A": []}

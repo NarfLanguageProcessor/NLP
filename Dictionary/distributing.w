@@ -1,1 +1,1 @@
-{"index": 89919, "D": "to divide and give out in shares; deal out; allot. ", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "coordination ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}
+{"index": 89919, "D": "to divide and give out in shares; deal out; allot. ", "S": ["allocation", "allotment", "analysis", "arrangement", "coordination", "designation", "distribution", "grade", "regulation"], "A": ["disorganization", "keeping", "retention"]}

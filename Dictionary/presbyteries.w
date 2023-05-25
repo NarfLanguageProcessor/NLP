@@ -1,1 +1,1 @@
-{"index": 249257, "D": "a body of presbyters or elders.", "S": ["benefice ", "manse ", "parsonage ", "vicarage "], "A": []}
+{"index": 249257, "D": "a body of presbyters or elders.", "S": ["benefice", "manse", "parsonage", "vicarage"], "A": []}

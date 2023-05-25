@@ -1,1 +1,1 @@
-{"index": 21088, "D": "absence of the microorganisms that produce sepsis  or septic disease.", "S": ["freshness ", "purity ", "sanitation "], "A": ["dirtiness ", "filth ", "griminess "]}
+{"index": 21088, "D": "absence of the microorganisms that produce sepsis  or septic disease.", "S": ["freshness", "purity", "sanitation"], "A": ["dirtiness", "filth", "griminess"]}

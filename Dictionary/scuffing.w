@@ -1,1 +1,1 @@
-{"index": 282143, "D": "to scrape (something) with one's foot or feet.", "S": ["abrading ", "coarse "], "A": ["fine ", "fine-grained "]}
+{"index": 282143, "D": "to scrape (something) with one's foot or feet.", "S": ["abrading", "coarse"], "A": ["fine", "fine-grained"]}

@@ -1,1 +1,1 @@
-{"index": 87475, "D": "to cause inconvenience to; disturb, trouble, or bother.", "S": ["annoying ", "cumbersome ", "dangerous ", "inconvenient ", "perilous ", "risky ", "troublesome ", "uncomfortable ", "unwieldy "], "A": ["convenient ", "easy ", "helpful ", "safe ", "secure "]}
+{"index": 87475, "D": "to cause inconvenience to; disturb, trouble, or bother.", "S": ["annoying", "cumbersome", "dangerous", "inconvenient", "perilous", "risky", "troublesome", "uncomfortable", "unwieldy"], "A": ["convenient", "easy", "helpful", "safe", "secure"]}

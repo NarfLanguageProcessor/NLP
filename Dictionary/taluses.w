@@ -1,1 +1,1 @@
-{"index": 315789, "D": "the uppermost bone of the proximal row of bones of the tarsus; anklebone.", "S": ["bone "], "A": []}
+{"index": 315789, "D": "the uppermost bone of the proximal row of bones of the tarsus; anklebone.", "S": ["bone"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25768, "D": "having a back, backing,  setting, or support (often used in combination)", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}
+{"index": 25768, "D": "having a back, backing,  setting, or support (often used in combination)", "S": ["approved", "assisted", "endorsed", "favored"], "A": ["disapproved"]}

@@ -1,1 +1,1 @@
-{"index": 195754, "D": "a low, continuous sound, as of a brook, the wind, or trees, or of low, indistinct voices.", "S": ["grumbling ", "protesting ", "whining "], "A": ["appreciating ", "enjoying ", "praising "]}
+{"index": 195754, "D": "a low, continuous sound, as of a brook, the wind, or trees, or of low, indistinct voices.", "S": ["grumbling", "protesting", "whining"], "A": ["appreciating", "enjoying", "praising"]}

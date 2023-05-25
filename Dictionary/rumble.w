@@ -1,1 +1,1 @@
-{"index": 275493, "D": "to make a deep, heavy, somewhat muffled, continuous sound, as thunder.", "S": ["resound ", "roar "], "A": []}
+{"index": 275493, "D": "to make a deep, heavy, somewhat muffled, continuous sound, as thunder.", "S": ["resound", "roar"], "A": []}

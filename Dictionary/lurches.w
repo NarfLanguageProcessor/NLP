@@ -1,1 +1,0 @@
-{"index": 176328, "D": "an act or instance of swaying abruptly.", "S": ["bumble ", "careen ", "falter ", "flounder ", "heave ", "jerk ", "lean ", "reel ", "seesaw ", "stagger ", "stumble ", "sway ", "teeter ", "tilt ", "totter ", "wallow ", "wobble "], "A": ["stay ", "steady ", "straighten ", "correct ", "face ", "meet ", "stabilize "]}

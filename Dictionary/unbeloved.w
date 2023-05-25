@@ -1,1 +1,1 @@
-{"index": 335768, "D": "greatly loved; dear to the heart.", "S": ["despised ", "unappreciated "], "A": ["beloved ", "liked ", "loved "]}
+{"index": 335768, "D": "greatly loved; dear to the heart.", "S": ["despised", "unappreciated"], "A": ["beloved", "liked", "loved"]}

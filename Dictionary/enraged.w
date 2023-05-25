@@ -1,1 +1,1 @@
-{"index": 100862, "D": "to make extremely angry; put into a rage; infuriate", "S": ["angry ", "exasperated ", "incensed ", "infuriated ", "irate "], "A": ["calm ", "cheerful ", "happy ", "joyous ", "pleased "]}
+{"index": 100862, "D": "to make extremely angry; put into a rage; infuriate", "S": ["angry", "exasperated", "incensed", "infuriated", "irate"], "A": ["calm", "cheerful", "happy", "joyous", "pleased"]}

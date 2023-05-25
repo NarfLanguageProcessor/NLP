@@ -1,1 +1,1 @@
-{"index": 302904, "D": "sheer, utter, downright, or complete", "S": ["blunt ", "simple "], "A": ["clothed ", "covered ", "indefinite "]}
+{"index": 302904, "D": "sheer, utter, downright, or complete", "S": ["blunt", "simple"], "A": ["clothed", "covered", "indefinite"]}

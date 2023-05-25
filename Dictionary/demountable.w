@@ -1,1 +1,1 @@
-{"index": 80915, "D": "to remove from a mounting,  setting, or place of support, as a gun.", "S": ["portable "], "A": []}
+{"index": 80915, "D": "to remove from a mounting,  setting, or place of support, as a gun.", "S": ["portable"], "A": []}

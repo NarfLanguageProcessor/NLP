@@ -1,1 +1,1 @@
-{"index": 117226, "D": "to cease or fail to remember; be unable to recall", "S": ["blow ", "obliterate "], "A": ["carry ", "learn ", "recall ", "recollect ", "remember ", "take "]}
+{"index": 117226, "D": "to cease or fail to remember; be unable to recall", "S": ["blow", "obliterate"], "A": ["carry", "learn", "recall", "recollect", "remember", "take"]}

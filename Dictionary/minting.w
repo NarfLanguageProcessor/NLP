@@ -1,1 +1,1 @@
-{"index": 188035, "D": "Compare mint family. ", "S": ["original ", "perfect ", "virgin "], "A": ["ancient ", "damaged ", "imperfect ", "old ", "used "]}
+{"index": 188035, "D": "Compare mint family. ", "S": ["original", "perfect", "virgin"], "A": ["ancient", "damaged", "imperfect", "old", "used"]}

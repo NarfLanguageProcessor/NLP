@@ -1,1 +1,1 @@
-{"index": 211565, "D": "to irritate, annoy, or anger; cause resentful displeasure in", "S": ["overdue ", "tardy ", "unpaid "], "A": ["early ", "paid "]}
+{"index": 211565, "D": "to irritate, annoy, or anger; cause resentful displeasure in", "S": ["overdue", "tardy", "unpaid"], "A": ["early", "paid"]}

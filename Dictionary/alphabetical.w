@@ -1,1 +1,1 @@
-{"index": 9321, "D": "in the order of the letters of the alphabet", "S": ["A to Z ", "consecutive ", "graded ", "indexed ", "logical ", "ordered ", "progressive "], "A": []}
+{"index": 9321, "D": "in the order of the letters of the alphabet", "S": ["A to Z", "consecutive", "graded", "indexed", "logical", "ordered", "progressive"], "A": []}

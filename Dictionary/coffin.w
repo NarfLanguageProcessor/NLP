@@ -1,1 +1,1 @@
-{"index": 62169, "D": "the box or case in which the body of a dead person is placed for burial; casket.", "S": ["crate ", "sarcophagus "], "A": []}
+{"index": 62169, "D": "the box or case in which the body of a dead person is placed for burial; casket.", "S": ["crate", "sarcophagus"], "A": []}

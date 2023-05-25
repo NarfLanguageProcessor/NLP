@@ -1,1 +1,1 @@
-{"index": 124892, "D": "covered or highlighted with gold or something of a golden color.", "S": ["luxurious ", "ornate "], "A": []}
+{"index": 124892, "D": "covered or highlighted with gold or something of a golden color.", "S": ["luxurious", "ornate"], "A": []}

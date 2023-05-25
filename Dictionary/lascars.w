@@ -1,1 +1,1 @@
-{"index": 168702, "D": "an East Indian sailor.", "S": ["bluejacket ", "boater ", "cadet ", "diver ", "jack-tar ", "marine ", "mariner ", "mate ", "middy ", "navigator ", "pilot ", "pirate ", "salt ", "seafarer ", "seaman ", "shipmate ", "swab ", "tar ", "tarpaulin ", "windjammer "], "A": []}
+{"index": 168702, "D": "an East Indian sailor.", "S": ["bluejacket", "boater", "cadet", "diver", "jack-tar", "marine", "mariner", "mate", "middy", "navigator", "pilot", "pirate", "salt", "seafarer", "seaman", "shipmate", "swab", "tar", "tarpaulin", "windjammer"], "A": []}

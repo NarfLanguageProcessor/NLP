@@ -1,1 +1,1 @@
-{"index": 28207, "D": "a large, broad-bladed knife or cleaver used by the Moros.", "S": ["ammunition ", "bomb ", "cannon ", "firearm ", "gun ", "knife ", "machete ", "machine gun ", "missile ", "nerve gas ", "pistol ", "revolver ", "rifle ", "shotgun ", "sword ", "tear gas "], "A": []}
+{"index": 28207, "D": "a large, broad-bladed knife or cleaver used by the Moros.", "S": ["ammunition", "bomb", "cannon", "firearm", "gun", "knife", "machete", "machine gun", "missile", "nerve gas", "pistol", "revolver", "rifle", "shotgun", "sword", "tear gas"], "A": []}

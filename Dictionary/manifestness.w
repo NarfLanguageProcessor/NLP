@@ -1,1 +1,1 @@
-{"index": 179283, "D": "readily perceived by the eye or the understanding; evident; obvious; apparent; plain", "S": ["accuracy ", "brightness ", "certainty ", "directness ", "lucidity ", "precision ", "purity ", "simplicity ", "transparency "], "A": ["inaccuracy ", "unintelligibility "]}
+{"index": 179283, "D": "readily perceived by the eye or the understanding; evident; obvious; apparent; plain", "S": ["accuracy", "brightness", "certainty", "directness", "lucidity", "precision", "purity", "simplicity", "transparency"], "A": ["inaccuracy", "unintelligibility"]}

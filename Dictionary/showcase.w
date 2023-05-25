@@ -1,1 +1,1 @@
-{"index": 289052, "D": "a glass case  for the display and protection of articles in shops, museums, etc.", "S": ["effort ", "examination ", "experiment ", "investigation ", "probation ", "struggle ", "testing "], "A": []}
+{"index": 289052, "D": "a glass case  for the display and protection of articles in shops, museums, etc.", "S": ["effort", "examination", "experiment", "investigation", "probation", "struggle", "testing"], "A": []}

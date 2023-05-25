@@ -1,1 +1,1 @@
-{"index": 65434, "D": "an assemblage; gathering", "S": ["foyer ", "lounge "], "A": []}
+{"index": 65434, "D": "an assemblage; gathering", "S": ["foyer", "lounge"], "A": []}

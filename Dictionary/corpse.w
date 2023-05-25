@@ -1,1 +1,1 @@
-{"index": 69555, "D": "a dead body, usually of a human being.", "S": ["body ", "cadaver ", "carcass ", "remains "], "A": []}
+{"index": 69555, "D": "a dead body, usually of a human being.", "S": ["body", "cadaver", "carcass", "remains"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 128450, "D": "gallons per second.", "S": ["GPS ", "Global Positioning System ", "high-frequency direction finder ", "huff-duff ", "radio direction finder "], "A": []}
+{"index": 128450, "D": "gallons per second.", "S": ["GPS", "Global Positioning System", "high-frequency direction finder", "huff-duff", "radio direction finder"], "A": []}

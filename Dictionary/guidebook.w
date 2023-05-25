@@ -1,1 +1,1 @@
-{"index": 131018, "D": "a book  of directions, advice, and information, especially for travelers or tourists.", "S": ["manual ", "map ", "reference book "], "A": []}
+{"index": 131018, "D": "a book  of directions, advice, and information, especially for travelers or tourists.", "S": ["manual", "map", "reference book"], "A": []}

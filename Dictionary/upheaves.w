@@ -1,1 +1,1 @@
-{"index": 354737, "D": "to heave or lift up; raise up or aloft.", "S": ["hoist ", "shove "], "A": ["condemn ", "decline ", "decrease ", "demote ", "denounce ", "depress ", "destroy ", "drop ", "fall ", "hurt ", "lower ", "raze ", "ruin "]}
+{"index": 354737, "D": "to heave or lift up; raise up or aloft.", "S": ["hoist", "shove"], "A": ["condemn", "decline", "decrease", "demote", "denounce", "depress", "destroy", "drop", "fall", "hurt", "lower", "raze", "ruin"]}

@@ -1,1 +1,1 @@
-{"index": 135400, "D": "a woman who inherits or has a right of inheritance, especially a woman who has inherited or will inherit considerable wealth.", "S": ["heir ", "recipient "], "A": ["giver "]}
+{"index": 135400, "D": "a woman who inherits or has a right of inheritance, especially a woman who has inherited or will inherit considerable wealth.", "S": ["heir", "recipient"], "A": ["giver"]}

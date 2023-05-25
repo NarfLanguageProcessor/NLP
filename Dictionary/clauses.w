@@ -1,1 +1,1 @@
-{"index": 59494, "D": "a syntactic construction containing a subject and predicate and forming part of a sentence or constituting a whole simple sentence.", "S": ["article ", "paragraph ", "passage ", "provision ", "requirement ", "section ", "specification ", "stipulation "], "A": ["whole "]}
+{"index": 59494, "D": "a syntactic construction containing a subject and predicate and forming part of a sentence or constituting a whole simple sentence.", "S": ["article", "paragraph", "passage", "provision", "requirement", "section", "specification", "stipulation"], "A": ["whole"]}

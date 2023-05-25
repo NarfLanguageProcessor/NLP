@@ -1,1 +1,1 @@
-{"index": 134429, "D": [], "S": ["control ", "holding ", "partnership ", "property ", "purchase ", "takeover "], "A": ["lease ", "renting "]}
+{"index": 134429, "D": [], "S": ["control", "holding", "partnership", "property", "purchase", "takeover"], "A": ["lease", "renting"]}

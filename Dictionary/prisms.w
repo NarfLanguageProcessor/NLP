@@ -1,1 +1,1 @@
-{"index": 250782, "D": "a transparent solid body, often having triangular bases, used for dispersing light into a spectrum or for reflecting rays of light.", "S": ["cylinder ", "figure ", "gem ", "spectrum ", "stone "], "A": []}
+{"index": 250782, "D": "a transparent solid body, often having triangular bases, used for dispersing light into a spectrum or for reflecting rays of light.", "S": ["cylinder", "figure", "gem", "spectrum", "stone"], "A": []}

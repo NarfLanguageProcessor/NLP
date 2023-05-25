@@ -1,1 +1,1 @@
-{"index": 209983, "D": "unmoved by persuasion, pity, or tender feelings; stubborn; unyielding.", "S": ["adamantly ", "decisively ", "doggedly ", "persistently ", "resolutely ", "staunchly ", "steadfastly ", "strictly ", "stubbornly ", "tenaciously "], "A": ["indefinitely ", "weakly "]}
+{"index": 209983, "D": "unmoved by persuasion, pity, or tender feelings; stubborn; unyielding.", "S": ["adamantly", "decisively", "doggedly", "persistently", "resolutely", "staunchly", "steadfastly", "strictly", "stubbornly", "tenaciously"], "A": ["indefinitely", "weakly"]}

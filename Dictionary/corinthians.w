@@ -1,1 +1,1 @@
-{"index": 69142, "D": "either of two books of the New Testament, 1 Corinthians or 2 Corinthians, written by Paul. Abbreviation", "S": ["Corinthian ", "cosmopolitan ", "playboy ", "sophisticate "], "A": []}
+{"index": 69142, "D": "either of two books of the New Testament, 1 Corinthians or 2 Corinthians, written by Paul. Abbreviation", "S": ["Corinthian", "cosmopolitan", "playboy", "sophisticate"], "A": []}

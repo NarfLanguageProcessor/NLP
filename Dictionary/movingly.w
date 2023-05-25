@@ -1,1 +1,1 @@
-{"index": 194410, "D": "capable of or having movement", "S": ["acutely ", "genuinely ", "intensely ", "passionately ", "profoundly ", "sadly ", "seriously ", "severely ", "surely ", "thoroughly "], "A": ["lightly "]}
+{"index": 194410, "D": "capable of or having movement", "S": ["acutely", "genuinely", "intensely", "passionately", "profoundly", "sadly", "seriously", "severely", "surely", "thoroughly"], "A": ["lightly"]}

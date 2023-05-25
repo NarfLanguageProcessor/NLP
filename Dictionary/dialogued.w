@@ -1,1 +1,1 @@
-{"index": 84299, "D": "conversation between two or more persons.", "S": ["argue ", "confer ", "consult ", "contact ", "exchange ", "huddle ", "interact ", "interview ", "negotiate ", "reach out ", "visit "], "A": ["conceal ", "hide ", "secrete "]}
+{"index": 84299, "D": "conversation between two or more persons.", "S": ["argue", "confer", "consult", "contact", "exchange", "huddle", "interact", "interview", "negotiate", "reach out", "visit"], "A": ["conceal", "hide", "secrete"]}

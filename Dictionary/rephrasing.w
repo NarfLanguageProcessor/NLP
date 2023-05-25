@@ -1,1 +1,1 @@
-{"index": 268205, "D": "to phrase  again or differently", "S": ["digest ", "explanation ", "rehash ", "rendering ", "rendition ", "restatement ", "rewording ", "summary ", "version "], "A": ["quotation "]}
+{"index": 268205, "D": "to phrase  again or differently", "S": ["digest", "explanation", "rehash", "rendering", "rendition", "restatement", "rewording", "summary", "version"], "A": ["quotation"]}

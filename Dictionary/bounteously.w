@@ -1,1 +1,1 @@
-{"index": 38986, "D": "giving or disposed to give freely; generous; liberal. ", "S": ["lavishly "], "A": []}
+{"index": 38986, "D": "giving or disposed to give freely; generous; liberal. ", "S": ["lavishly"], "A": []}

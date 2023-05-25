@@ -1,1 +1,1 @@
-{"index": 80766, "D": "to destroy or ruin (a building or other structure), especially on purpose; tear down; raze.", "S": ["bomber "], "A": ["author ", "creator ", "restorer "]}
+{"index": 80766, "D": "to destroy or ruin (a building or other structure), especially on purpose; tear down; raze.", "S": ["bomber"], "A": ["author", "creator", "restorer"]}

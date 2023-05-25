@@ -1,1 +1,1 @@
-{"index": 31096, "D": "to show to be false; contradict", "S": ["contradict ", "negate ", "repudiate "], "A": ["approve ", "affirm ", "agree ", "aid ", "allow ", "assist ", "concur ", "consent ", "endorse ", "go along ", "harmonize ", "help ", "prove "]}
+{"index": 31096, "D": "to show to be false; contradict", "S": ["contradict", "negate", "repudiate"], "A": ["approve", "affirm", "agree", "aid", "allow", "assist", "concur", "consent", "endorse", "go along", "harmonize", "help", "prove"]}

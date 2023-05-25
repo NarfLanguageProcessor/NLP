@@ -1,1 +1,1 @@
-{"index": 21577, "D": "to attack vigorously or violently; assault. ", "S": ["conquerable ", "defenseless ", "exposed ", "in danger ", "undefendable ", "vulnerable ", "weak "], "A": ["guarded ", "protected ", "safe ", "secure "]}
+{"index": 21577, "D": "to attack vigorously or violently; assault. ", "S": ["conquerable", "defenseless", "exposed", "in danger", "undefendable", "vulnerable", "weak"], "A": ["guarded", "protected", "safe", "secure"]}

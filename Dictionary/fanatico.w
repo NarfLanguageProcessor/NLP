@@ -1,1 +1,1 @@
-{"index": 109662, "D": [], "S": ["aficionados ", "energumen ", "extremists ", "fanatical group ", "fanatics ", "nuts ", "nympholepts ", "zealots "], "A": []}
+{"index": 109662, "D": [], "S": ["aficionados", "energumen", "extremists", "fanatical group", "fanatics", "nuts", "nympholepts", "zealots"], "A": []}

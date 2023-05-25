@@ -1,1 +1,1 @@
-{"index": 172768, "D": "a mark or stroke long in proportion to its breadth, made with a pen, pencil, tool, etc., on a surface", "S": ["coated ", "stuffed "], "A": []}
+{"index": 172768, "D": "a mark or stroke long in proportion to its breadth, made with a pen, pencil, tool, etc., on a surface", "S": ["coated", "stuffed"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 59305, "D": "to make (an idea, statement, etc.) clear or intelligible; to free from ambiguity.", "S": ["aseptic ", "hygienic ", "pure ", "wholesome "], "A": ["contaminated ", "dirty ", "impure "]}
+{"index": 59305, "D": "to make (an idea, statement, etc.) clear or intelligible; to free from ambiguity.", "S": ["aseptic", "hygienic", "pure", "wholesome"], "A": ["contaminated", "dirty", "impure"]}

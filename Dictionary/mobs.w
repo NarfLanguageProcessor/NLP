@@ -1,1 +1,1 @@
-{"index": 190977, "D": "mobs of people", "S": ["clan ", "crowd ", "flock ", "gang ", "horde ", "mass ", "riot ", "swarm ", "throng ", "troop "], "A": ["individual ", "single "]}
+{"index": 190977, "D": "mobs of people", "S": ["clan", "crowd", "flock", "gang", "horde", "mass", "riot", "swarm", "throng", "troop"], "A": ["individual", "single"]}

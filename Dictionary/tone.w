@@ -1,1 +1,1 @@
-{"index": 325504, "D": "any sound considered with reference to its quality, pitch, strength, source, etc.", "S": ["accent ", "emphasis ", "inflection ", "resonance ", "strength ", "timbre "], "A": ["unimportance "]}
+{"index": 325504, "D": "any sound considered with reference to its quality, pitch, strength, source, etc.", "S": ["accent", "emphasis", "inflection", "resonance", "strength", "timbre"], "A": ["unimportance"]}

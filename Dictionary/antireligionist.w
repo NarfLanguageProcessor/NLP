@@ -1,0 +1,1 @@
+{"index": 16072, "D": "excessive or exaggerated religious zeal.", "S": [], "A": []}

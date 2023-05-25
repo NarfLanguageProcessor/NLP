@@ -1,1 +1,1 @@
-{"index": 346457, "D": "not mitigated; not softened or lessened", "S": ["sheer ", "unadulterated ", "unqualified "], "A": ["indefinite "]}
+{"index": 346457, "D": "not mitigated; not softened or lessened", "S": ["sheer", "unadulterated", "unqualified"], "A": ["indefinite"]}

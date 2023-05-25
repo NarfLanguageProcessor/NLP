@@ -1,1 +1,1 @@
-{"index": 127944, "D": "a bowled ball that swerves in one direction and breaks in the other.", "S": ["Captain Hook ", "bender ", "bosey ", "breaking ball ", "curve ", "hook ball ", "slurve ", "wrong'un "], "A": []}
+{"index": 127944, "D": "a bowled ball that swerves in one direction and breaks in the other.", "S": ["Captain Hook", "bender", "bosey", "breaking ball", "curve", "hook ball", "slurve", "wrong'un"], "A": []}

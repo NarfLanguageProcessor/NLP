@@ -1,1 +1,1 @@
-{"index": 252564, "D": "to drive, or cause to move, forward or onward", "S": ["flung ", "launched ", "pitched ", "tossed "], "A": []}
+{"index": 252564, "D": "to drive, or cause to move, forward or onward", "S": ["flung", "launched", "pitched", "tossed"], "A": []}

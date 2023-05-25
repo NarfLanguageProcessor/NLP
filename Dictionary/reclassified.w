@@ -1,1 +1,1 @@
-{"index": 262979, "D": "to classify  anew.", "S": ["amused ", "averted ", "changed ", "entertained ", "preempted ", "redirected ", "sidetracked ", "used "], "A": ["bored ", "depressed "]}
+{"index": 262979, "D": "to classify  anew.", "S": ["amused", "averted", "changed", "entertained", "preempted", "redirected", "sidetracked", "used"], "A": ["bored", "depressed"]}

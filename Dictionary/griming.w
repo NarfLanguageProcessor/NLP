@@ -1,1 +1,1 @@
-{"index": 129905, "D": "dirt, soot, or other filthy matter, especially adhering to or embedded in a surface.", "S": ["blacken ", "daub ", "spatter ", "sully "], "A": ["clean ", "purify "]}
+{"index": 129905, "D": "dirt, soot, or other filthy matter, especially adhering to or embedded in a surface.", "S": ["blacken", "daub", "spatter", "sully"], "A": ["clean", "purify"]}

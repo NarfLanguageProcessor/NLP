@@ -1,1 +1,0 @@
-{"index": 343339, "D": "not guarded;  unprotected; undefended.", "S": [], "A": []}

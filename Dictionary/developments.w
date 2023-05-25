@@ -1,1 +1,1 @@
-{"index": 83500, "D": "the act or process of developing;  growth; progress", "S": ["account ", "details ", "facts ", "info ", "information ", "knowledge ", "tip "], "A": ["ignorance "]}
+{"index": 83500, "D": "the act or process of developing;  growth; progress", "S": ["account", "details", "facts", "info", "information", "knowledge", "tip"], "A": ["ignorance"]}

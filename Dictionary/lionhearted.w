@@ -1,1 +1,1 @@
-{"index": 173068, "D": "exceptionally courageous or brave.", "S": ["bold ", "courageous ", "fearless ", "intrepid ", "valiant "], "A": ["fearful "]}
+{"index": 173068, "D": "exceptionally courageous or brave.", "S": ["bold", "courageous", "fearless", "intrepid", "valiant"], "A": ["fearful"]}

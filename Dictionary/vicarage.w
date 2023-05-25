@@ -1,1 +1,0 @@
-{"index": 359340, "D": "the residence of a vicar. ", "S": ["clergy ", "clergymen ", "clerics ", "ecclesiastics ", "prelacy ", "priesthood "], "A": []}

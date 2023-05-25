@@ -1,1 +1,1 @@
-{"index": 195301, "D": "able to be used for several purposes", "S": ["useful "], "A": []}
+{"index": 195301, "D": "able to be used for several purposes", "S": ["useful"], "A": []}

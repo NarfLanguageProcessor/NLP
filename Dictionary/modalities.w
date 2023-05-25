@@ -1,1 +1,1 @@
-{"index": 191037, "D": "the quality or state of being modal. ", "S": ["method ", "procedure ", "process "], "A": []}
+{"index": 191037, "D": "the quality or state of being modal. ", "S": ["method", "procedure", "process"], "A": []}

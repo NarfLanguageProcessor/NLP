@@ -1,1 +1,1 @@
-{"index": 306943, "D": "causing amazement; astounding; marvelous", "S": ["bigness ", "bulk ", "greatness ", "hugeness ", "immenseness ", "immensity ", "magnitude ", "massiveness ", "prodigiousness ", "size ", "tremendousness ", "vastness "], "A": []}
+{"index": 306943, "D": "causing amazement; astounding; marvelous", "S": ["bigness", "bulk", "greatness", "hugeness", "immenseness", "immensity", "magnitude", "massiveness", "prodigiousness", "size", "tremendousness", "vastness"], "A": []}

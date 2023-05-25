@@ -1,1 +1,1 @@
-{"index": 317058, "D": "to reproach in a sarcastic, insulting, or jeering manner; mock. ", "S": ["barb ", "derision ", "gibe ", "insult ", "jab ", "jeer ", "put down ", "ridicule "], "A": ["commendation ", "compliment ", "flattery ", "praise ", "approval ", "respect "]}
+{"index": 317058, "D": "to reproach in a sarcastic, insulting, or jeering manner; mock. ", "S": ["barb", "derision", "gibe", "insult", "jab", "jeer", "put down", "ridicule"], "A": ["commendation", "compliment", "flattery", "praise", "approval", "respect"]}

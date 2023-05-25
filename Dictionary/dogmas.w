@@ -1,1 +1,1 @@
-{"index": 90946, "D": "an official system of principles or tenets concerning faith, morals, behavior, etc., as of a church.", "S": ["ethic ", "integrity ", "morality "], "A": ["corruption ", "dishonesty "]}
+{"index": 90946, "D": "an official system of principles or tenets concerning faith, morals, behavior, etc., as of a church.", "S": ["ethic", "integrity", "morality"], "A": ["corruption", "dishonesty"]}

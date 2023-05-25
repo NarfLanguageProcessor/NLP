@@ -1,1 +1,1 @@
-{"index": 195377, "D": "(of a single CPU) to execute two or more jobs concurrently.", "S": ["balance ", "juggle "], "A": ["focus "]}
+{"index": 195377, "D": "(of a single CPU) to execute two or more jobs concurrently.", "S": ["balance", "juggle"], "A": ["focus"]}

@@ -1,1 +1,1 @@
-{"index": 258035, "D": "one of the four equal or equivalent parts into which anything is or may be divided", "S": ["fourth ", "one-fourth ", "part ", "portion ", "term "], "A": ["whole "]}
+{"index": 258035, "D": "one of the four equal or equivalent parts into which anything is or may be divided", "S": ["fourth", "one-fourth", "part", "portion", "term"], "A": ["whole"]}

@@ -1,1 +1,1 @@
-{"index": 62343, "D": "to live together as if married, usually without legal or religious sanction.", "S": ["conjugate ", "couple ", "mingle "], "A": ["disjoin "]}
+{"index": 62343, "D": "to live together as if married, usually without legal or religious sanction.", "S": ["conjugate", "couple", "mingle"], "A": ["disjoin"]}

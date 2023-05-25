@@ -1,1 +1,1 @@
-{"index": 339218, "D": "under the foot or feet; on the ground; underneath or below", "S": ["below ", "down ", "under ", "underneath "], "A": ["above ", "over "]}
+{"index": 339218, "D": "under the foot or feet; on the ground; underneath or below", "S": ["below", "down", "under", "underneath"], "A": ["above", "over"]}

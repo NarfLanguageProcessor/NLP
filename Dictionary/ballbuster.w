@@ -1,1 +1,1 @@
-{"index": 26939, "D": "an arduous, often unpleasant task.", "S": ["arduous ", "challenging ", "intimidating ", "onerous ", "powerful ", "tough ", "tremendous "], "A": ["easy ", "facile ", "ineffective ", "insignificant ", "little ", "small ", "unimportant ", "weak "]}
+{"index": 26939, "D": "an arduous, often unpleasant task.", "S": ["arduous", "challenging", "intimidating", "onerous", "powerful", "tough", "tremendous"], "A": ["easy", "facile", "ineffective", "insignificant", "little", "small", "unimportant", "weak"]}

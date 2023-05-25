@@ -1,1 +1,1 @@
-{"index": 352648, "D": "an untalented but gorgeous actress", "S": ["bulky ", "heavy-handed ", "inept ", "ponderous ", "ungainly ", "unwieldy "], "A": ["adroit ", "agile ", "athletic ", "clever ", "coordinated ", "couth ", "dexterous ", "expert ", "graceful "]}
+{"index": 352648, "D": "an untalented but gorgeous actress", "S": ["bulky", "heavy-handed", "inept", "ponderous", "ungainly", "unwieldy"], "A": ["adroit", "agile", "athletic", "clever", "coordinated", "couth", "dexterous", "expert", "graceful"]}

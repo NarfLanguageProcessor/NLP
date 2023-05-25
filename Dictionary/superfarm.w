@@ -1,1 +1,0 @@
-{"index": 311829, "D": "a tract of land, usually with a house, barn, silo, etc., on which crops and often livestock are raised for livelihood.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 356806, "D": "having valor; courageous; valiant; brave. ", "S": ["boldly ", "fearlessly ", "gallantly ", "gamely ", "heroically ", "valiantly "], "A": ["fearfully ", "timidly "]}
+{"index": 356806, "D": "having valor; courageous; valiant; brave. ", "S": ["boldly", "fearlessly", "gallantly", "gamely", "heroically", "valiantly"], "A": ["fearfully", "timidly"]}

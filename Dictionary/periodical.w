@@ -1,1 +1,1 @@
-{"index": 231099, "D": "a magazine or other journal that is issued at regularly recurring intervals.", "S": ["journal ", "mag ", "magazine ", "monthly ", "quarterly ", "weekly "], "A": []}
+{"index": 231099, "D": "a magazine or other journal that is issued at regularly recurring intervals.", "S": ["journal", "mag", "magazine", "monthly", "quarterly", "weekly"], "A": []}

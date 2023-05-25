@@ -1,1 +1,1 @@
-{"index": 87921, "D": "disappointed or disillusioned", "S": ["disillusioned ", "embittered "], "A": ["enchanted ", "encouraged "]}
+{"index": 87921, "D": "disappointed or disillusioned", "S": ["disillusioned", "embittered"], "A": ["enchanted", "encouraged"]}

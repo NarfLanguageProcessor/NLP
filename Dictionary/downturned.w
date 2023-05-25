@@ -1,1 +1,1 @@
-{"index": 92350, "D": [], "S": ["collapse ", "crash ", "decline ", "decrease ", "descend ", "dip ", "dive ", "drop ", "drop down ", "fall ", "nose-dive ", "plunge ", "sink ", "skid ", "tumble "], "A": ["ascend ", "go up ", "grow ", "increase ", "raise ", "rise "]}
+{"index": 92350, "D": [], "S": ["collapse", "crash", "decline", "decrease", "descend", "dip", "dive", "drop", "drop down", "fall", "nose-dive", "plunge", "sink", "skid", "tumble"], "A": ["ascend", "go up", "grow", "increase", "raise", "rise"]}

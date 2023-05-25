@@ -1,1 +1,1 @@
-{"index": 299782, "D": "having a spike  or spikes. ", "S": ["annoying ", "biting ", "caustic ", "harsh ", "irritating "], "A": ["agreeable ", "calm ", "easygoing ", "kind ", "mild ", "nice ", "pleasant ", "pleasing ", "soothing ", "moderate "]}
+{"index": 299782, "D": "having a spike  or spikes. ", "S": ["annoying", "biting", "caustic", "harsh", "irritating"], "A": ["agreeable", "calm", "easygoing", "kind", "mild", "nice", "pleasant", "pleasing", "soothing", "moderate"]}

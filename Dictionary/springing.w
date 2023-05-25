@@ -1,1 +1,1 @@
-{"index": 301320, "D": "the act or process of a person or thing that springs.", "S": ["appearing ", "deriving ", "emanating ", "emerging ", "ensuing ", "flowing ", "following ", "issuing ", "originating ", "proceeding ", "resulting ", "stemming "], "A": []}
+{"index": 301320, "D": "the act or process of a person or thing that springs.", "S": ["appearing", "deriving", "emanating", "emerging", "ensuing", "flowing", "following", "issuing", "originating", "proceeding", "resulting", "stemming"], "A": []}

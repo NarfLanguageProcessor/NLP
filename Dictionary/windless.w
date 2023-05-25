@@ -1,1 +1,1 @@
-{"index": 365981, "D": "without wind;  calm", "S": ["breezeless ", "unstirring "], "A": []}
+{"index": 365981, "D": "without wind;  calm", "S": ["breezeless", "unstirring"], "A": []}

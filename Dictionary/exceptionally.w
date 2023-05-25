@@ -1,1 +1,1 @@
-{"index": 106610, "D": "in a way or to a degree that is unusual or extraordinary; extremely", "S": ["abnormally "], "A": []}
+{"index": 106610, "D": "in a way or to a degree that is unusual or extraordinary; extremely", "S": ["abnormally"], "A": []}

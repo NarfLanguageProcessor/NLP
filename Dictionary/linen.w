@@ -1,1 +1,1 @@
-{"index": 172778, "D": "fabric woven from flax yarns.", "S": ["bedding ", "cloth ", "lingerie "], "A": []}
+{"index": 172778, "D": "fabric woven from flax yarns.", "S": ["bedding", "cloth", "lingerie"], "A": []}

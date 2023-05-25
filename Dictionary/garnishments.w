@@ -1,1 +1,1 @@
-{"index": 122235, "D": "a summons to a third party to appear in litigation pending between a creditor and debtor.", "S": ["beautification ", "decoration ", "embellishment ", "gilding ", "ornament ", "ornamentation ", "trim ", "trimming "], "A": []}
+{"index": 122235, "D": "a summons to a third party to appear in litigation pending between a creditor and debtor.", "S": ["beautification", "decoration", "embellishment", "gilding", "ornament", "ornamentation", "trim", "trimming"], "A": []}

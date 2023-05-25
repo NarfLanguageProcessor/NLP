@@ -1,1 +1,1 @@
-{"index": 38572, "D": "a small wood or thicket, especially of bushes.", "S": ["copse ", "firth ", "forest ", "grove ", "growth ", "thicket ", "underwood ", "wood ", "woodland "], "A": []}
+{"index": 38572, "D": "a small wood or thicket, especially of bushes.", "S": ["copse", "firth", "forest", "grove", "growth", "thicket", "underwood", "wood", "woodland"], "A": []}

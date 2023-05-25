@@ -1,1 +1,1 @@
-{"index": 95100, "D": "deviating from the recognized or customary character, practice, etc.; irregular; erratic; peculiar; odd", "S": ["carelessly "], "A": []}
+{"index": 95100, "D": "deviating from the recognized or customary character, practice, etc.; irregular; erratic; peculiar; odd", "S": ["carelessly"], "A": []}

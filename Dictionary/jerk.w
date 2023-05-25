@@ -1,1 +1,1 @@
-{"index": 160922, "D": "a quick, sharp pull, thrust, twist, throw, or the like; a sudden movement", "S": ["bounce ", "bump ", "flick ", "flop ", "jolt ", "pull ", "quake ", "quiver ", "shiver ", "snag ", "thrust ", "tug ", "tweak ", "twitch ", "wiggle ", "wrench ", "wriggle ", "yank "], "A": []}
+{"index": 160922, "D": "a quick, sharp pull, thrust, twist, throw, or the like; a sudden movement", "S": ["bounce", "bump", "flick", "flop", "jolt", "pull", "quake", "quiver", "shiver", "snag", "thrust", "tug", "tweak", "twitch", "wiggle", "wrench", "wriggle", "yank"], "A": []}

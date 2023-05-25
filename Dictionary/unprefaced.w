@@ -1,1 +1,0 @@
-{"index": 348336, "D": "a preliminary statement in a book by the book's author or editor, setting forth its purpose and scope, expressing acknowledgment of assistance from others, etc.", "S": [], "A": []}

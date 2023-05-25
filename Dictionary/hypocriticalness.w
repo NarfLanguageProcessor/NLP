@@ -1,1 +1,1 @@
-{"index": 140893, "D": [], "S": ["deceit ", "dishonesty ", "humbug ", "hypocrisy ", "insincerity ", "pomposity ", "pretense ", "pretentiousness ", "sanctimoniousness ", "sanctimony ", "show "], "A": ["frankness ", "honesty ", "openness ", "reality ", "sincerity ", "truth ", "truthfulness "]}
+{"index": 140893, "D": [], "S": ["deceit", "dishonesty", "humbug", "hypocrisy", "insincerity", "pomposity", "pretense", "pretentiousness", "sanctimoniousness", "sanctimony", "show"], "A": ["frankness", "honesty", "openness", "reality", "sincerity", "truth", "truthfulness"]}

@@ -1,1 +1,1 @@
-{"index": 89370, "D": "to cause disorder or turmoil in", "S": ["confused "], "A": ["methodical ", "neat ", "ordered ", "organized ", "systematic ", "systematized "]}
+{"index": 89370, "D": "to cause disorder or turmoil in", "S": ["confused"], "A": ["methodical", "neat", "ordered", "organized", "systematic", "systematized"]}

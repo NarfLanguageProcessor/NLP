@@ -1,1 +1,1 @@
-{"index": 227020, "D": "an act or instance of participating. ", "S": ["aid ", "assistance ", "attendance ", "cooperation ", "help ", "presence ", "sharing ", "support "], "A": ["absence ", "blockage ", "hindrance ", "hurt ", "injury ", "obstruction ", "stop ", "stoppage "]}
+{"index": 227020, "D": "an act or instance of participating. ", "S": ["aid", "assistance", "attendance", "cooperation", "help", "presence", "sharing", "support"], "A": ["absence", "blockage", "hindrance", "hurt", "injury", "obstruction", "stop", "stoppage"]}

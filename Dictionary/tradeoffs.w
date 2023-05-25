@@ -1,1 +1,1 @@
-{"index": 327248, "D": [], "S": ["accommodation ", "accord ", "adjustment ", "arrangement ", "bargain ", "concession ", "deal ", "pact ", "settlement ", "understanding "], "A": ["denial ", "disagreement ", "misunderstanding ", "refusal "]}
+{"index": 327248, "D": [], "S": ["accommodation", "accord", "adjustment", "arrangement", "bargain", "concession", "deal", "pact", "settlement", "understanding"], "A": ["denial", "disagreement", "misunderstanding", "refusal"]}

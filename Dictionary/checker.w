@@ -1,1 +1,1 @@
-{"index": 53324, "D": "a small, usually red or black disk of plastic or wood, used in playing checkers.", "S": ["appraiser ", "auditor ", "inspector ", "investigator "], "A": []}
+{"index": 53324, "D": "a small, usually red or black disk of plastic or wood, used in playing checkers.", "S": ["appraiser", "auditor", "inspector", "investigator"], "A": []}

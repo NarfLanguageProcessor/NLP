@@ -1,1 +1,1 @@
-{"index": 175550, "D": "without any love", "S": ["disliked ", "forsaken ", "refused ", "spurned ", "unloved "], "A": []}
+{"index": 175550, "D": "without any love", "S": ["disliked", "forsaken", "refused", "spurned", "unloved"], "A": []}

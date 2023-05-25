@@ -1,0 +1,1 @@
+{"index": 18068, "D": "the downy, yellow, sometimes rosy fruit, somewhat resembling a small peach, of the tree Prunus armeniaca.", "S": ["cantaloupe", "carrot", "coral", "peach", "salmon", "tangerine", "titian"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 132598, "D": "having or showing little enthusiasm", "S": ["lackluster ", "listless ", "lukewarm ", "perfunctory ", "tepid "], "A": ["enthusiastic ", "lively "]}
+{"index": 132598, "D": "having or showing little enthusiasm", "S": ["lackluster", "listless", "lukewarm", "perfunctory", "tepid"], "A": ["enthusiastic", "lively"]}

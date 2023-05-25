@@ -1,1 +1,1 @@
-{"index": 298625, "D": "to scatter or dash in small particles or drops", "S": ["daub ", "mottle ", "smudge ", "speckle "], "A": ["clean ", "collect ", "dry ", "gather "]}
+{"index": 298625, "D": "to scatter or dash in small particles or drops", "S": ["daub", "mottle", "smudge", "speckle"], "A": ["clean", "collect", "dry", "gather"]}

@@ -1,1 +1,1 @@
-{"index": 81959, "D": "to appoint as deputy. ", "S": ["assign ", "authorize ", "commission ", "consign ", "delegate ", "depute ", "entrust ", "mandate "], "A": ["keep "]}
+{"index": 81959, "D": "to appoint as deputy. ", "S": ["assign", "authorize", "commission", "consign", "delegate", "depute", "entrust", "mandate"], "A": ["keep"]}

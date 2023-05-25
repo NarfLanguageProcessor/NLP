@@ -1,1 +1,1 @@
-{"index": 162801, "D": "a German emperor.", "S": ["emperor ", "monarch ", "title "], "A": []}
+{"index": 162801, "D": "a German emperor.", "S": ["emperor", "monarch", "title"], "A": []}

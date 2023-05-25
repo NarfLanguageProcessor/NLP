@@ -1,1 +1,1 @@
-{"index": 352042, "D": "characterized by or conforming to style  or the fashionable standard; fashionably elegant; smart or chic", "S": ["antiquated ", "dingy ", "drab ", "frumpy ", "run down ", "shabby ", "unkempt "], "A": ["bright ", "good ", "neat "]}
+{"index": 352042, "D": "characterized by or conforming to style  or the fashionable standard; fashionably elegant; smart or chic", "S": ["antiquated", "dingy", "drab", "frumpy", "run down", "shabby", "unkempt"], "A": ["bright", "good", "neat"]}

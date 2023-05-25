@@ -1,1 +1,1 @@
-{"index": 226566, "D": "the act of a person or thing that parks, especially a vehicle.", "S": ["canoodling ", "caressing ", "cuddling ", "embracing ", "fondling ", "lovemaking ", "parking ", "petting ", "smooching "], "A": []}
+{"index": 226566, "D": "the act of a person or thing that parks, especially a vehicle.", "S": ["canoodling", "caressing", "cuddling", "embracing", "fondling", "lovemaking", "parking", "petting", "smooching"], "A": []}

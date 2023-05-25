@@ -1,1 +1,1 @@
-{"index": 117804, "D": "any remains, impression, or trace of a living thing of a former geologic age, as a skeleton, footprint, etc.", "S": ["relic ", "skeleton ", "specimen ", "trace "], "A": []}
+{"index": 117804, "D": "any remains, impression, or trace of a living thing of a former geologic age, as a skeleton, footprint, etc.", "S": ["relic", "skeleton", "specimen", "trace"], "A": []}

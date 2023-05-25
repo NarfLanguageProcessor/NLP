@@ -1,1 +1,1 @@
-{"index": 61686, "D": "to treat tenderly; nurse or tend indulgently; pamper", "S": ["baby ", "caress ", "cosset ", "cotton ", "favor ", "humor ", "mollycoddle ", "nurse ", "pet ", "spoil "], "A": ["ignore ", "neglect "]}
+{"index": 61686, "D": "to treat tenderly; nurse or tend indulgently; pamper", "S": ["baby", "caress", "cosset", "cotton", "favor", "humor", "mollycoddle", "nurse", "pet", "spoil"], "A": ["ignore", "neglect"]}

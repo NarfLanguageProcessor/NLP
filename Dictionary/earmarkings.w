@@ -1,1 +1,1 @@
-{"index": 94760, "D": [], "S": ["allotment ", "allowance ", "donation ", "funding ", "grant ", "provision ", "stipend ", "subsidy "], "A": ["bestowal ", "giving ", "keeping ", "refusal ", "rejection ", "return "]}
+{"index": 94760, "D": [], "S": ["allotment", "allowance", "donation", "funding", "grant", "provision", "stipend", "subsidy"], "A": ["bestowal", "giving", "keeping", "refusal", "rejection", "return"]}

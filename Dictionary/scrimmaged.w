@@ -1,1 +1,0 @@
-{"index": 281826, "D": "a rough or vigorous struggle.", "S": ["collide ", "smash "], "A": ["agree ", "harmonize "]}

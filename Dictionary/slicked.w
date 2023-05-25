@@ -1,1 +1,1 @@
-{"index": 294009, "D": "smooth and glossy; sleek. ", "S": ["grease "], "A": ["dry "]}
+{"index": 294009, "D": "smooth and glossy; sleek. ", "S": ["grease"], "A": ["dry"]}

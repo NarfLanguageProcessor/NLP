@@ -1,1 +1,1 @@
-{"index": 151260, "D": "in or into a house or building", "S": ["in a building ", "in a house "], "A": []}
+{"index": 151260, "D": "in or into a house or building", "S": ["in a building", "in a house"], "A": []}

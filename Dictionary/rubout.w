@@ -1,1 +1,1 @@
-{"index": 275212, "D": "a murder or assassination.", "S": ["assassination ", "bumping off ", "foul play ", "hit ", "killing ", "murder ", "offing "], "A": []}
+{"index": 275212, "D": "a murder or assassination.", "S": ["assassination", "bumping off", "foul play", "hit", "killing", "murder", "offing"], "A": []}

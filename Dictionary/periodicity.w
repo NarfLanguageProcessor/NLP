@@ -1,1 +1,1 @@
-{"index": 231106, "D": "the character of being periodic;  the tendency to recur at regular intervals.", "S": ["course ", "period ", "revolution ", "rhythm ", "round ", "series "], "A": []}
+{"index": 231106, "D": "the character of being periodic;  the tendency to recur at regular intervals.", "S": ["course", "period", "revolution", "rhythm", "round", "series"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 86083, "D": "a person who dines. ", "S": ["bistro ", "booth ", "coffee shop ", "saloon "], "A": []}
+{"index": 86083, "D": "a person who dines. ", "S": ["bistro", "booth", "coffee shop", "saloon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 222020, "D": "the plant part that contains the embryo sac and hence the female germ cell, which after fertilization develops into a seed.", "S": ["spore "], "A": ["conclusion ", "consequence ", "effect ", "end ", "ending ", "outcome ", "outgrowth ", "result "]}
+{"index": 222020, "D": "the plant part that contains the embryo sac and hence the female germ cell, which after fertilization develops into a seed.", "S": ["spore"], "A": ["conclusion", "consequence", "effect", "end", "ending", "outcome", "outgrowth", "result"]}

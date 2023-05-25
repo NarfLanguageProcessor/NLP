@@ -1,1 +1,1 @@
-{"index": 32182, "D": "a variant spelling of biretta", "S": ["administrator ", "cleric ", "director ", "patriarch ", "pontiff ", "pope ", "prelate ", "priest "], "A": []}
+{"index": 32182, "D": "a variant spelling of biretta", "S": ["administrator", "cleric", "director", "patriarch", "pontiff", "pope", "prelate", "priest"], "A": []}

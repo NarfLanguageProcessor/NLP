@@ -1,1 +1,1 @@
-{"index": 57664, "D": "the art of making motion pictures; cinematography.", "S": ["cinema ", "feature film ", "flick ", "talkie "], "A": []}
+{"index": 57664, "D": "the art of making motion pictures; cinematography.", "S": ["cinema", "feature film", "flick", "talkie"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 109109, "D": "conferring a faculty, privilege, permission, or the power of doing or not doing something", "S": ["discretional ", "discretionary ", "elective ", "noncompulsory ", "nonobligatory ", "not required ", "volitional ", "voluntary "], "A": []}
+{"index": 109109, "D": "conferring a faculty, privilege, permission, or the power of doing or not doing something", "S": ["discretional", "discretionary", "elective", "noncompulsory", "nonobligatory", "not required", "volitional", "voluntary"], "A": []}

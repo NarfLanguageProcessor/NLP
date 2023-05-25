@@ -1,1 +1,1 @@
-{"index": 349099, "D": "not real  or actual.", "S": ["dreamlike ", "false ", "fanciful ", "hallucinatory ", "illusory ", "immaterial ", "unbelievable "], "A": ["actual ", "authentic ", "genuine ", "real "]}
+{"index": 349099, "D": "not real  or actual.", "S": ["dreamlike", "false", "fanciful", "hallucinatory", "illusory", "immaterial", "unbelievable"], "A": ["actual", "authentic", "genuine", "real"]}

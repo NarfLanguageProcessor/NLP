@@ -1,1 +1,1 @@
-{"index": 152736, "D": "to bury; inter.", "S": ["burying ", "deposition ", "entombment ", "funeral ", "interment ", "sepulture "], "A": []}
+{"index": 152736, "D": "to bury; inter.", "S": ["burying", "deposition", "entombment", "funeral", "interment", "sepulture"], "A": []}

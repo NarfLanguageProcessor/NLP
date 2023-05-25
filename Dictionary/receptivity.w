@@ -1,1 +1,1 @@
-{"index": 262744, "D": "ability, willingness, or quickness to receive or accept ideas, requests, experiences, etc.", "S": ["responsiveness "], "A": ["disagreement ", "disbelief "]}
+{"index": 262744, "D": "ability, willingness, or quickness to receive or accept ideas, requests, experiences, etc.", "S": ["responsiveness"], "A": ["disagreement", "disbelief"]}

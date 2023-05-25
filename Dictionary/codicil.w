@@ -1,1 +1,1 @@
-{"index": 61755, "D": "a supplement to a will, containing an addition, explanation, modification, etc., of something in the will.", "S": ["addendum ", "addition ", "appendix ", "postscript ", "rider ", "supplement "], "A": []}
+{"index": 61755, "D": "a supplement to a will, containing an addition, explanation, modification, etc., of something in the will.", "S": ["addendum", "addition", "appendix", "postscript", "rider", "supplement"], "A": []}

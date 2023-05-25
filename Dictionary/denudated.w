@@ -1,1 +1,1 @@
-{"index": 81363, "D": "to make bare; strip; denude. ", "S": ["break up ", "demolish ", "destroy ", "disassemble ", "raze ", "undo ", "wreck "], "A": ["build ", "construct ", "create ", "repair ", "restore ", "clothe ", "cover "]}
+{"index": 81363, "D": "to make bare; strip; denude. ", "S": ["break up", "demolish", "destroy", "disassemble", "raze", "undo", "wreck"], "A": ["build", "construct", "create", "repair", "restore", "clothe", "cover"]}

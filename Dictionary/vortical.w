@@ -1,1 +1,1 @@
-{"index": 361371, "D": "of or relating to a vortex.", "S": ["whirling "], "A": []}
+{"index": 361371, "D": "of or relating to a vortex.", "S": ["whirling"], "A": []}

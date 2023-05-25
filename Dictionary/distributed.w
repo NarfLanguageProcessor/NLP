@@ -1,1 +1,1 @@
-{"index": 89914, "D": "being or relating to a single database shared across such a network, especially one integrating multiple smaller databases", "S": ["appropriated ", "assigned ", "dispersed ", "scattered ", "shared "], "A": []}
+{"index": 89914, "D": "being or relating to a single database shared across such a network, especially one integrating multiple smaller databases", "S": ["appropriated", "assigned", "dispersed", "scattered", "shared"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 267991, "D": "to restore to a good or sound condition after decay or damage; mend", "S": ["developing "], "A": []}
+{"index": 267991, "D": "to restore to a good or sound condition after decay or damage; mend", "S": ["developing"], "A": []}

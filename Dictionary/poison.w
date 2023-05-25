@@ -1,1 +1,1 @@
-{"index": 241375, "D": "a substance with an inherent property that tends to destroy life or impair health.", "S": ["bacteria ", "contamination ", "germ ", "toxin ", "venom ", "virus "], "A": ["blessing ", "sterility "]}
+{"index": 241375, "D": "a substance with an inherent property that tends to destroy life or impair health.", "S": ["bacteria", "contamination", "germ", "toxin", "venom", "virus"], "A": ["blessing", "sterility"]}

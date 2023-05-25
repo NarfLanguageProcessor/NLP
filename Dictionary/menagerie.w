@@ -1,1 +1,1 @@
-{"index": 183243, "D": "a collection of wild or unusual animals, especially for exhibition.", "S": ["aquarium ", "collection ", "exhibition "], "A": []}
+{"index": 183243, "D": "a collection of wild or unusual animals, especially for exhibition.", "S": ["aquarium", "collection", "exhibition"], "A": []}

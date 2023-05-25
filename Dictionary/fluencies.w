@@ -1,1 +1,1 @@
-{"index": 115260, "D": "spoken or written with ease", "S": ["eloquence "], "A": []}
+{"index": 115260, "D": "spoken or written with ease", "S": ["eloquence"], "A": []}

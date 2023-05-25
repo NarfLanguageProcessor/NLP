@@ -1,1 +1,1 @@
-{"index": 115151, "D": "to be in a vigorous state; thrive", "S": ["bloom ", "blossom ", "boom ", "develop ", "do well ", "expand ", "multiply ", "succeed ", "thrive "], "A": ["decrease ", "fail ", "lessen ", "lose ", "shrink ", "shrivel ", "wither "]}
+{"index": 115151, "D": "to be in a vigorous state; thrive", "S": ["bloom", "blossom", "boom", "develop", "do well", "expand", "multiply", "succeed", "thrive"], "A": ["decrease", "fail", "lessen", "lose", "shrink", "shrivel", "wither"]}

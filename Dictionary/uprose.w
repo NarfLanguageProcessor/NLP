@@ -1,1 +1,1 @@
-{"index": 354970, "D": "simple past tense of uprise. ", "S": ["arise ", "ascend ", "awake ", "awaken ", "climb ", "increase ", "rise ", "scale ", "stand "], "A": ["deaden ", "decline ", "decrease ", "descend ", "go down ", "go to sleep ", "lay ", "lie ", "lower ", "sit "]}
+{"index": 354970, "D": "simple past tense of uprise. ", "S": ["arise", "ascend", "awake", "awaken", "climb", "increase", "rise", "scale", "stand"], "A": ["deaden", "decline", "decrease", "descend", "go down", "go to sleep", "lay", "lie", "lower", "sit"]}

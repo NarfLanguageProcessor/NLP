@@ -1,1 +1,0 @@
-{"index": 280344, "D": "to chat idly; gossip. ", "S": ["blab "], "A": ["be quiet ", "conceal ", "hide "]}

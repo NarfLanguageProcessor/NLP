@@ -1,1 +1,1 @@
-{"index": 260866, "D": "a base, dishonest, or unscrupulous person.", "S": ["bum ", "liar ", "scoundrel ", "swindler ", "wretch "], "A": ["hard worker "]}
+{"index": 260866, "D": "a base, dishonest, or unscrupulous person.", "S": ["bum", "liar", "scoundrel", "swindler", "wretch"], "A": ["hard worker"]}

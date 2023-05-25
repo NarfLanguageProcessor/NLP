@@ -1,1 +1,1 @@
-{"index": 40773, "D": "to become or make bright or brighter.", "S": ["cockcrow ", "crack of dawn ", "dawn ", "dawning ", "daybreak ", "first blush ", "first brightening ", "first flush of morning ", "peep of day ", "prime ", "prime of the morning ", "sunrise ", "sunup "], "A": []}
+{"index": 40773, "D": "to become or make bright or brighter.", "S": ["cockcrow", "crack of dawn", "dawn", "dawning", "daybreak", "first blush", "first brightening", "first flush of morning", "peep of day", "prime", "prime of the morning", "sunrise", "sunup"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3806, "D": "in a way that is sufficient, suitable, effective, or appropriate", "S": ["appropriately", "competently", "decently", "satisfactorily", "sufficiently"], "A": ["inadequately", "insufficiently", "unequally", "unsatisfactorily", "unsuitably"]}

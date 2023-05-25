@@ -1,0 +1,1 @@
+{"index": 5533, "D": "an ardent devotee; fan, enthusiast.", "S": ["connoisseur", "devotee", "enthusiast", "fanatic"], "A": []}

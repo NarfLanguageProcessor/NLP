@@ -1,1 +1,1 @@
-{"index": 2729, "D": "disposed to acquiesce  or consent tacitly.", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}
+{"index": 2729, "D": "disposed to acquiesce  or consent tacitly.", "S": ["cheerfully", "cheerily", "cordially", "enthusiastically", "freely", "gleefully", "gratefully", "heartily", "readily", "warmly", "willingly"], "A": ["unwillingly"]}

@@ -1,1 +1,1 @@
-{"index": 265638, "D": "the uniform and insignia of a regiment", "S": ["attire ", "costume ", "dress ", "garb ", "gown ", "khaki ", "regalia ", "robe ", "suit "], "A": []}
+{"index": 265638, "D": "the uniform and insignia of a regiment", "S": ["attire", "costume", "dress", "garb", "gown", "khaki", "regalia", "robe", "suit"], "A": []}

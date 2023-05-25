@@ -1,1 +1,1 @@
-{"index": 184773, "D": "the technique or science of working or heating metals so as to give them certain desired shapes or properties.", "S": ["golden ", "silvery "], "A": []}
+{"index": 184773, "D": "the technique or science of working or heating metals so as to give them certain desired shapes or properties.", "S": ["golden", "silvery"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 76914, "D": "to have the necessary courage or boldness for something; be bold enough", "S": ["contender "], "A": []}
+{"index": 76914, "D": "to have the necessary courage or boldness for something; be bold enough", "S": ["contender"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 19646, "D": "an air  or melody.", "S": ["descant ", "hymn ", "song "], "A": []}
+{"index": 19646, "D": "an air  or melody.", "S": ["descant", "hymn", "song"], "A": []}

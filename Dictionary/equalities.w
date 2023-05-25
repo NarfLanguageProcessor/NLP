@@ -1,1 +1,1 @@
-{"index": 103167, "D": "Compare equity (def. 3). ", "S": ["civil rights ", "coordination ", "equal opportunity ", "fairness ", "identity ", "impartiality ", "parity ", "tolerance "], "A": ["difference ", "disagreement ", "dissimilarity ", "unlikeness "]}
+{"index": 103167, "D": "Compare equity (def. 3). ", "S": ["civil rights", "coordination", "equal opportunity", "fairness", "identity", "impartiality", "parity", "tolerance"], "A": ["difference", "disagreement", "dissimilarity", "unlikeness"]}

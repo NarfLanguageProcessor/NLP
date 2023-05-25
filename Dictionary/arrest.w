@@ -1,1 +1,1 @@
-{"index": 20205, "D": "to seize (a person) by legal authority or warrant; take into custody", "S": ["capture ", "detention ", "imprisonment ", "incarceration ", "jailing "], "A": ["freedom ", "release ", "liberation ", "refusal ", "rise "]}
+{"index": 20205, "D": "to seize (a person) by legal authority or warrant; take into custody", "S": ["capture", "detention", "imprisonment", "incarceration", "jailing"], "A": ["freedom", "release", "liberation", "refusal", "rise"]}

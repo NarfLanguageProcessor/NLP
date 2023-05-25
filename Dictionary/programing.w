@@ -1,1 +1,1 @@
-{"index": 251908, "D": "the act or process of planning or writing a program. ", "S": ["compute ", "prioritize ", "register ", "set up "], "A": ["cancel ", "disorder ", "disorganize ", "disperse ", "forget ", "let go ", "scatter "]}
+{"index": 251908, "D": "the act or process of planning or writing a program. ", "S": ["compute", "prioritize", "register", "set up"], "A": ["cancel", "disorder", "disorganize", "disperse", "forget", "let go", "scatter"]}

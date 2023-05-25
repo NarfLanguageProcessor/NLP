@@ -1,1 +1,1 @@
-{"index": 133959, "D": "a scolding, vicious woman; hag; shrew.", "S": ["crone ", "hag ", "shrew ", "strumpet ", "virago ", "vixen ", "woman "], "A": []}
+{"index": 133959, "D": "a scolding, vicious woman; hag; shrew.", "S": ["crone", "hag", "shrew", "strumpet", "virago", "vixen", "woman"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 112838, "D": "to trick, swindle, or cheat (a person) (often followed by out of)", "S": ["cheat ", "contrive ", "deceive ", "manipulate ", "plot ", "scheme ", "swindle ", "trick "], "A": []}
+{"index": 112838, "D": "to trick, swindle, or cheat (a person) (often followed by out of)", "S": ["cheat", "contrive", "deceive", "manipulate", "plot", "scheme", "swindle", "trick"], "A": []}

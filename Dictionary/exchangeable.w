@@ -1,1 +1,1 @@
-{"index": 106649, "D": "capable of being exchanged. ", "S": ["convertible "], "A": []}
+{"index": 106649, "D": "capable of being exchanged. ", "S": ["convertible"], "A": []}

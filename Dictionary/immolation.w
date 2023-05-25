@@ -1,1 +1,1 @@
-{"index": 148050, "D": "an act or instance of immolating. ", "S": ["atonement ", "deduction ", "discount ", "hecatomb ", "libation ", "oblation ", "offering ", "penance ", "reduction ", "reparation ", "victim "], "A": ["increase ", "rise "]}
+{"index": 148050, "D": "an act or instance of immolating. ", "S": ["atonement", "deduction", "discount", "hecatomb", "libation", "oblation", "offering", "penance", "reduction", "reparation", "victim"], "A": ["increase", "rise"]}

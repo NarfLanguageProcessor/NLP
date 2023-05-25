@@ -1,1 +1,1 @@
-{"index": 65000, "D": "a person who shares in one's activities, occupation, etc.; companion, associate, or friend.", "S": ["buddy ", "co-worker ", "colleague ", "companion ", "compatriot ", "confidant ", "crony "], "A": ["enemy ", "foe ", "opponent ", "rival "]}
+{"index": 65000, "D": "a person who shares in one's activities, occupation, etc.; companion, associate, or friend.", "S": ["buddy", "co-worker", "colleague", "companion", "compatriot", "confidant", "crony"], "A": ["enemy", "foe", "opponent", "rival"]}

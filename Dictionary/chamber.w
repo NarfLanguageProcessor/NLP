@@ -1,1 +1,1 @@
-{"index": 52255, "D": "a room, usually private, in a house or apartment, especially a bedroom", "S": ["apartment ", "bedroom ", "box ", "cell ", "cubicle ", "hall ", "room "], "A": []}
+{"index": 52255, "D": "a room, usually private, in a house or apartment, especially a bedroom", "S": ["apartment", "bedroom", "box", "cell", "cubicle", "hall", "room"], "A": []}

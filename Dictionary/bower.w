@@ -1,1 +1,1 @@
-{"index": 39161, "D": "a leafy shelter or recess; arbor.", "S": ["alcove ", "arbor ", "gazebo ", "grove ", "thicket "], "A": []}
+{"index": 39161, "D": "a leafy shelter or recess; arbor.", "S": ["alcove", "arbor", "gazebo", "grove", "thicket"], "A": []}

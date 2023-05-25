@@ -1,1 +1,1 @@
-{"index": 250681, "D": "to deck or dress for show.", "S": ["attire ", "clothe ", "deck out ", "embellish ", "spruce up "], "A": ["dress down "]}
+{"index": 250681, "D": "to deck or dress for show.", "S": ["attire", "clothe", "deck out", "embellish", "spruce up"], "A": ["dress down"]}

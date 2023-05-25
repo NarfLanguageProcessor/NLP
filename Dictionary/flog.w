@@ -1,1 +1,1 @@
-{"index": 114878, "D": "to beat with a whip, stick, etc., especially as punishment; whip; scourge. ", "S": ["castigate ", "chastise ", "spank "], "A": ["compliment ", "fail ", "guard ", "lose ", "protect ", "tap "]}
+{"index": 114878, "D": "to beat with a whip, stick, etc., especially as punishment; whip; scourge. ", "S": ["castigate", "chastise", "spank"], "A": ["compliment", "fail", "guard", "lose", "protect", "tap"]}

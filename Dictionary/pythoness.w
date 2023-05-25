@@ -1,1 +1,0 @@
-{"index": 238338, "D": "a woman believed to be possessed by a soothsaying spirit, as the priestess of Apollo at Delphi.", "S": ["hag ", "hex ", "sibyl ", "siren ", "witch "], "A": []}

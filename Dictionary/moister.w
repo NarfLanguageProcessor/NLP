@@ -1,1 +1,0 @@
-{"index": 191344, "D": "moderately or slightly wet; damp. ", "S": ["damp ", "humid ", "muggy ", "rainy ", "soggy ", "watery "], "A": ["arid ", "dehydrated ", "dry "]}

@@ -1,1 +1,1 @@
-{"index": 326206, "D": [], "S": ["ammo ", "armament ", "arsenal ", "bombs ", "bullets ", "explosives ", "grenades ", "gunpowder ", "missiles ", "shells ", "weapons "], "A": []}
+{"index": 326206, "D": [], "S": ["ammo", "armament", "arsenal", "bombs", "bullets", "explosives", "grenades", "gunpowder", "missiles", "shells", "weapons"], "A": []}

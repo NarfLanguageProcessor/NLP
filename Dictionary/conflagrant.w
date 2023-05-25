@@ -1,1 +1,1 @@
-{"index": 65973, "D": "blazing; burning; on fire.", "S": ["ablaze ", "afire ", "aflame ", "blazing ", "fiery ", "flaming ", "in flames ", "inflamed ", "on fire "], "A": []}
+{"index": 65973, "D": "blazing; burning; on fire.", "S": ["ablaze", "afire", "aflame", "blazing", "fiery", "flaming", "in flames", "inflamed", "on fire"], "A": []}

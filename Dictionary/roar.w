@@ -1,1 +1,1 @@
-{"index": 273529, "D": "to utter a loud, deep cry or howl, as in excitement, distress, or anger.", "S": ["barrage ", "blast ", "boom ", "clamor ", "cry ", "drum ", "explosion ", "outcry ", "rumble ", "shout ", "thunder ", "uproar "], "A": ["quiet ", "silence "]}
+{"index": 273529, "D": "to utter a loud, deep cry or howl, as in excitement, distress, or anger.", "S": ["barrage", "blast", "boom", "clamor", "cry", "drum", "explosion", "outcry", "rumble", "shout", "thunder", "uproar"], "A": ["quiet", "silence"]}

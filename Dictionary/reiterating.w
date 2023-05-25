@@ -1,1 +1,1 @@
-{"index": 266565, "D": "to say or do again or repeatedly; repeat, often excessively.", "S": ["superfluous ", "unnecessary "], "A": ["necessary ", "needed "]}
+{"index": 266565, "D": "to say or do again or repeatedly; repeat, often excessively.", "S": ["superfluous", "unnecessary"], "A": ["necessary", "needed"]}

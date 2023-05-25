@@ -1,1 +1,1 @@
-{"index": 293526, "D": "a broad, flat, somewhat thick piece of stone, wood, or other solid material.", "S": ["hunk ", "ingot ", "lump ", "piece ", "plate ", "rod ", "slice ", "stone ", "strip ", "wedge "], "A": ["whole "]}
+{"index": 293526, "D": "a broad, flat, somewhat thick piece of stone, wood, or other solid material.", "S": ["hunk", "ingot", "lump", "piece", "plate", "rod", "slice", "stone", "strip", "wedge"], "A": ["whole"]}

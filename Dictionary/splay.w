@@ -1,1 +1,1 @@
-{"index": 300304, "D": "to spread out, expand, or extend.", "S": ["deep ", "expansive ", "full ", "large ", "vast "], "A": ["narrow ", "thin "]}
+{"index": 300304, "D": "to spread out, expand, or extend.", "S": ["deep", "expansive", "full", "large", "vast"], "A": ["narrow", "thin"]}

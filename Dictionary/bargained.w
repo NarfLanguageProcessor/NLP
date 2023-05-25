@@ -1,1 +1,1 @@
-{"index": 27942, "D": "an advantageous purchase, especially one acquired at less than the usual cost", "S": ["arrangement ", "contract ", "deal ", "negotiation ", "pact ", "transaction ", "understanding "], "A": ["disagreement ", "misunderstanding ", "break "]}
+{"index": 27942, "D": "an advantageous purchase, especially one acquired at less than the usual cost", "S": ["arrangement", "contract", "deal", "negotiation", "pact", "transaction", "understanding"], "A": ["disagreement", "misunderstanding", "break"]}

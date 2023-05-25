@@ -1,1 +1,1 @@
-{"index": 115696, "D": "a central point, as of attraction, attention, or activity", "S": ["attract ", "concentrate ", "direct ", "fixate ", "meet ", "put "], "A": ["disarrange ", "disorganize ", "disperse ", "divide ", "ignore ", "scatter ", "separate "]}
+{"index": 115696, "D": "a central point, as of attraction, attention, or activity", "S": ["attract", "concentrate", "direct", "fixate", "meet", "put"], "A": ["disarrange", "disorganize", "disperse", "divide", "ignore", "scatter", "separate"]}

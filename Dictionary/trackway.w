@@ -1,1 +1,1 @@
-{"index": 327190, "D": "railway (def. 3). ", "S": ["course ", "highway ", "lane ", "line ", "rail ", "road ", "roadway ", "route ", "street ", "trail "], "A": []}
+{"index": 327190, "D": "railway (def. 3). ", "S": ["course", "highway", "lane", "line", "rail", "road", "roadway", "route", "street", "trail"], "A": []}

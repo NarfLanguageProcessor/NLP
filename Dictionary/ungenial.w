@@ -1,1 +1,1 @@
-{"index": 342971, "D": [], "S": ["discouraging ", "frigid ", "icy ", "wintry "], "A": ["hot ", "warm ", "extroverted ", "friendly ", "kind ", "outgoing ", "sociable "]}
+{"index": 342971, "D": [], "S": ["discouraging", "frigid", "icy", "wintry"], "A": ["hot", "warm", "extroverted", "friendly", "kind", "outgoing", "sociable"]}

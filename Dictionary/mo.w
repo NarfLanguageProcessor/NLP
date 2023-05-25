@@ -1,1 +1,1 @@
-{"index": 190898, "D": "moment (def. 1). ", "S": ["moment ", "second ", "short time "], "A": []}
+{"index": 190898, "D": "moment (def. 1). ", "S": ["moment", "second", "short time"], "A": []}

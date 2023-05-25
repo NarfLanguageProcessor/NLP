@@ -1,1 +1,1 @@
-{"index": 144671, "D": "a retailer of small articles, especially a peddler of fruits and vegetables; hawker.", "S": ["hawk ", "solicit "], "A": ["buy ", "pull "]}
+{"index": 144671, "D": "a retailer of small articles, especially a peddler of fruits and vegetables; hawker.", "S": ["hawk", "solicit"], "A": ["buy", "pull"]}

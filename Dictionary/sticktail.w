@@ -1,1 +1,0 @@
-{"index": 304330, "D": "a small, burrowing South African carnivore, Suricata suricatta, of a grayish color with dark bands across the back, related to the mongooses and having social behavior similar to that of prairie dogs.", "S": [], "A": []}

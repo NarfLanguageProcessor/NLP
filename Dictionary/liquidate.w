@@ -1,1 +1,1 @@
-{"index": 173301, "D": "to settle or pay (a debt)", "S": ["convert ", "pay off ", "quit ", "reimburse ", "repay "], "A": ["remain ", "stay ", "take ", "fail ", "hold ", "keep ", "owe ", "upset "]}
+{"index": 173301, "D": "to settle or pay (a debt)", "S": ["convert", "pay off", "quit", "reimburse", "repay"], "A": ["remain", "stay", "take", "fail", "hold", "keep", "owe", "upset"]}

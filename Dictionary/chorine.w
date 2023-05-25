@@ -1,1 +1,1 @@
-{"index": 55798, "D": "a chorus girl. ", "S": ["chorus line ", "coryph\u00e9e ", "showgirl "], "A": []}
+{"index": 55798, "D": "a chorus girl. ", "S": ["chorus line", "coryph\u00e9e", "showgirl"], "A": []}

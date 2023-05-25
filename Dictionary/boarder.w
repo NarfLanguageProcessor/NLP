@@ -1,1 +1,1 @@
-{"index": 36936, "D": "a person, especially a lodger, who is supplied with regular meals.", "S": ["diner ", "guest ", "patron ", "renter ", "roomer ", "visitor "], "A": ["host ", "hostess ", "landlord "]}
+{"index": 36936, "D": "a person, especially a lodger, who is supplied with regular meals.", "S": ["diner", "guest", "patron", "renter", "roomer", "visitor"], "A": ["host", "hostess", "landlord"]}

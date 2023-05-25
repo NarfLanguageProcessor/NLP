@@ -1,1 +1,1 @@
-{"index": 42930, "D": "a coarse, open fabric of worsted or cotton for flags, signals, etc.", "S": ["streamer "], "A": []}
+{"index": 42930, "D": "a coarse, open fabric of worsted or cotton for flags, signals, etc.", "S": ["streamer"], "A": []}

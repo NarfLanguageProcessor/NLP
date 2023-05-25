@@ -1,1 +1,1 @@
-{"index": 128301, "D": "a person or tool that gouges", "S": ["charlatan ", "cheater ", "con artist ", "counterfeiter ", "crook ", "forger ", "rascal ", "thief "], "A": ["philanthropist "]}
+{"index": 128301, "D": "a person or tool that gouges", "S": ["charlatan", "cheater", "con artist", "counterfeiter", "crook", "forger", "rascal", "thief"], "A": ["philanthropist"]}

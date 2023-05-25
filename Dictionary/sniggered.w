@@ -1,1 +1,1 @@
-{"index": 295539, "D": "snicker. ", "S": ["chortle ", "chuckle ", "giggle ", "guffaw ", "hee-haw ", "smirk ", "sneer ", "teehee ", "titter "], "A": []}
+{"index": 295539, "D": "snicker. ", "S": ["chortle", "chuckle", "giggle", "guffaw", "hee-haw", "smirk", "sneer", "teehee", "titter"], "A": []}

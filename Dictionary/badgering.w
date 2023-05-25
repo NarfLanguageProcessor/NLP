@@ -1,1 +1,1 @@
-{"index": 26193, "D": "any of various burrowing, carnivorous mammals of the family Mustelidae, as Taxidea taxus, of North America, and Meles meles, of Europe and Asia.", "S": ["irritating ", "joking ", "mocking "], "A": ["comforting ", "praising ", "regaling "]}
+{"index": 26193, "D": "any of various burrowing, carnivorous mammals of the family Mustelidae, as Taxidea taxus, of North America, and Meles meles, of Europe and Asia.", "S": ["irritating", "joking", "mocking"], "A": ["comforting", "praising", "regaling"]}

@@ -1,1 +1,1 @@
-{"index": 341277, "D": "to put or keep in force; compel obedience to", "S": ["null "], "A": ["worthy "]}
+{"index": 341277, "D": "to put or keep in force; compel obedience to", "S": ["null"], "A": ["worthy"]}

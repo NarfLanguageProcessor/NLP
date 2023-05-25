@@ -1,1 +1,1 @@
-{"index": 110212, "D": "moving or able to move, operate, function, or take effect quickly; quick; swift; rapid", "S": ["chastity ", "frugality ", "moderation ", "self-restraint "], "A": ["drunkenness ", "excess ", "indulgence ", "intemperance ", "intoxication ", "revelry ", "self-indulgence "]}
+{"index": 110212, "D": "moving or able to move, operate, function, or take effect quickly; quick; swift; rapid", "S": ["chastity", "frugality", "moderation", "self-restraint"], "A": ["drunkenness", "excess", "indulgence", "intemperance", "intoxication", "revelry", "self-indulgence"]}

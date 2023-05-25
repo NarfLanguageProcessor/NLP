@@ -1,1 +1,1 @@
-{"index": 24192, "D": "having the capability of starting, operating, moving, etc., independently", "S": ["automated ", "electric ", "electronic ", "mechanical "], "A": ["by hand ", "manual "]}
+{"index": 24192, "D": "having the capability of starting, operating, moving, etc., independently", "S": ["automated", "electric", "electronic", "mechanical"], "A": ["by hand", "manual"]}

@@ -1,0 +1,1 @@
+{"index": 28058, "D": "a sailing vessel having three or more masts, square-rigged on the foremast and fore-and-aft-rigged on the other masts.", "S": [], "A": []}

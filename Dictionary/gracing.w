@@ -1,1 +1,1 @@
-{"index": 128503, "D": "elegance or beauty of form, manner, motion, or action", "S": ["adorn ", "bedeck ", "decorate "], "A": ["condemn ", "decrease ", "degrade ", "demote ", "denounce ", "disgrace ", "dishonor ", "humiliate ", "hurt ", "lower ", "reduce ", "shame "]}
+{"index": 128503, "D": "elegance or beauty of form, manner, motion, or action", "S": ["adorn", "bedeck", "decorate"], "A": ["condemn", "decrease", "degrade", "demote", "denounce", "disgrace", "dishonor", "humiliate", "hurt", "lower", "reduce", "shame"]}

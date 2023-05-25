@@ -1,1 +1,1 @@
-{"index": 172936, "D": "joined together; connected", "S": ["associated ", "related "], "A": []}
+{"index": 172936, "D": "joined together; connected", "S": ["associated", "related"], "A": []}

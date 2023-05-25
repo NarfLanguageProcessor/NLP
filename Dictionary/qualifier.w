@@ -1,1 +1,1 @@
-{"index": 257870, "D": "a person or thing that qualifies.", "S": ["accessory ", "adjunct ", "adnoun ", "attribute ", "dependent ", "identifier ", "modifier "], "A": []}
+{"index": 257870, "D": "a person or thing that qualifies.", "S": ["accessory", "adjunct", "adnoun", "attribute", "dependent", "identifier", "modifier"], "A": []}

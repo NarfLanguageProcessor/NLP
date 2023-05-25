@@ -1,1 +1,1 @@
-{"index": 165763, "D": "knuckle. ", "S": ["brass knucks ", "knuckle-dusters ", "knuckles "], "A": []}
+{"index": 165763, "D": "knuckle. ", "S": ["brass knucks", "knuckle-dusters", "knuckles"], "A": []}

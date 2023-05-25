@@ -1,1 +1,1 @@
-{"index": 341749, "D": "having a wide range or extent; comprehensive; extensive", "S": ["discreet ", "laid-back ", "mild ", "muted ", "reasonable ", "reticent ", "subdued ", "tasteful ", "unobtrusive "], "A": ["communicative ", "extroverted ", "friendly ", "outgoing "]}
+{"index": 341749, "D": "having a wide range or extent; comprehensive; extensive", "S": ["discreet", "laid-back", "mild", "muted", "reasonable", "reticent", "subdued", "tasteful", "unobtrusive"], "A": ["communicative", "extroverted", "friendly", "outgoing"]}

@@ -1,1 +1,1 @@
-{"index": 85922, "D": "the act, fact, or process of diminishing;  lessening; reduction.", "S": ["weakening "], "A": ["addition ", "development ", "enlargement ", "expansion ", "growth ", "improvement ", "increase ", "raise ", "rise "]}
+{"index": 85922, "D": "the act, fact, or process of diminishing;  lessening; reduction.", "S": ["weakening"], "A": ["addition", "development", "enlargement", "expansion", "growth", "improvement", "increase", "raise", "rise"]}

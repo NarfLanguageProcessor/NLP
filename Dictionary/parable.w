@@ -1,1 +1,1 @@
-{"index": 225355, "D": "a short allegorical story designed to illustrate or teach some truth, religious principle, or moral lesson.", "S": ["fable ", "tale "], "A": []}
+{"index": 225355, "D": "a short allegorical story designed to illustrate or teach some truth, religious principle, or moral lesson.", "S": ["fable", "tale"], "A": []}

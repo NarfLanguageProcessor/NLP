@@ -1,1 +1,1 @@
-{"index": 128090, "D": "a person or animal that eats greedily and excessively, or that feeds voraciously on a particular thing", "S": ["gourmand ", "hog ", "pig ", "stuffer "], "A": []}
+{"index": 128090, "D": "a person or animal that eats greedily and excessively, or that feeds voraciously on a particular thing", "S": ["gourmand", "hog", "pig", "stuffer"], "A": []}

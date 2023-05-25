@@ -1,1 +1,1 @@
-{"index": 51237, "D": "the art or technology of making objects of clay and similar materials treated by firing.", "S": ["wares "], "A": []}
+{"index": 51237, "D": "the art or technology of making objects of clay and similar materials treated by firing.", "S": ["wares"], "A": []}

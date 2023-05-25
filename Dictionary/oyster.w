@@ -1,1 +1,1 @@
-{"index": 211908, "D": "any of several edible, marine, bivalve mollusks of the family Ostreidae, having an irregularly shaped shell, occurring on the bottom or adhering to rocks or other objects in shallow water.", "S": ["drab ", "dusty ", "grey ", "silvery "], "A": []}
+{"index": 211908, "D": "any of several edible, marine, bivalve mollusks of the family Ostreidae, having an irregularly shaped shell, occurring on the bottom or adhering to rocks or other objects in shallow water.", "S": ["drab", "dusty", "grey", "silvery"], "A": []}

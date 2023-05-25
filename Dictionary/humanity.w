@@ -1,1 +1,1 @@
-{"index": 144874, "D": "all human beings collectively; the human race; humankind.", "S": ["humankind ", "mankind ", "society "], "A": []}
+{"index": 144874, "D": "all human beings collectively; the human race; humankind.", "S": ["humankind", "mankind", "society"], "A": []}

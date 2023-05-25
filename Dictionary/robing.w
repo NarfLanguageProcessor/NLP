@@ -1,1 +1,1 @@
-{"index": 273577, "D": "a long, loose or flowing gown or outer garment worn by men or women as ceremonial dress, an official vestment, or garb of office.", "S": ["adorning ", "appareling ", "decking "], "A": []}
+{"index": 273577, "D": "a long, loose or flowing gown or outer garment worn by men or women as ceremonial dress, an official vestment, or garb of office.", "S": ["adorning", "appareling", "decking"], "A": []}

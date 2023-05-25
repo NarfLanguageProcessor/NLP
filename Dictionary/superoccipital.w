@@ -1,1 +1,0 @@
-{"index": 312333, "D": "of, relating to, or situated near the occiput  or the occipital bone. ", "S": [], "A": []}

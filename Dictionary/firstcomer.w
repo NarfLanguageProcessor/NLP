@@ -1,1 +1,1 @@
-{"index": 113288, "D": "a person who arrives first  or among the first. ", "S": ["Johnny-on-the-spot ", "early comer ", "early riser ", "first arrival ", "first on the scene "], "A": []}
+{"index": 113288, "D": "a person who arrives first  or among the first. ", "S": ["Johnny-on-the-spot", "early comer", "early riser", "first arrival", "first on the scene"], "A": []}

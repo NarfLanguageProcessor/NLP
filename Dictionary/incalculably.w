@@ -1,1 +1,1 @@
-{"index": 149639, "D": "very numerous or great.", "S": ["enormously ", "extremely ", "highly ", "hugely ", "immeasurably ", "immensely ", "incredibly ", "indeed ", "largely ", "markedly ", "mightily ", "notably ", "remarkably ", "tremendously ", "vastly ", "very much "], "A": ["little "]}
+{"index": 149639, "D": "very numerous or great.", "S": ["enormously", "extremely", "highly", "hugely", "immeasurably", "immensely", "incredibly", "indeed", "largely", "markedly", "mightily", "notably", "remarkably", "tremendously", "vastly", "very much"], "A": ["little"]}

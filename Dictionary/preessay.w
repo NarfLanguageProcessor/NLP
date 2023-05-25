@@ -1,1 +1,0 @@
-{"index": 247345, "D": "a short literary composition on a particular theme or subject, usually in prose and generally analytic, speculative, or interpretative.", "S": [], "A": []}

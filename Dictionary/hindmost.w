@@ -1,1 +1,1 @@
-{"index": 139680, "D": "furthest behind or nearest the rear; last. ", "S": ["concluding ", "final ", "rear "], "A": ["first ", "leading "]}
+{"index": 139680, "D": "furthest behind or nearest the rear; last. ", "S": ["concluding", "final", "rear"], "A": ["first", "leading"]}

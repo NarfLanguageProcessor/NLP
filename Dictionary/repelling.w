@@ -1,1 +1,1 @@
-{"index": 268108, "D": "to drive or force back (an assailant, invader, etc.).", "S": ["dispersing ", "scattering "], "A": []}
+{"index": 268108, "D": "to drive or force back (an assailant, invader, etc.).", "S": ["dispersing", "scattering"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 16174, "D": [], "S": ["cleanse ", "disinfect ", "fumigate ", "sanitize ", "sterilize "], "A": ["dirty "]}
+{"index": 16174, "D": [], "S": ["cleanse", "disinfect", "fumigate", "sanitize", "sterilize"], "A": ["dirty"]}

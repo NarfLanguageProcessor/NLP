@@ -1,1 +1,1 @@
-{"index": 267015, "D": "to experience again, as an emotion.", "S": ["commemorate ", "get ", "learn ", "look back ", "recall ", "recognize ", "remind "], "A": ["forget ", "miss ", "misunderstand ", "repress "]}
+{"index": 267015, "D": "to experience again, as an emotion.", "S": ["commemorate", "get", "learn", "look back", "recall", "recognize", "remind"], "A": ["forget", "miss", "misunderstand", "repress"]}

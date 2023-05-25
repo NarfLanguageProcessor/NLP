@@ -1,1 +1,1 @@
-{"index": 28533, "D": "to strike with a crushing or smashing blow.", "S": ["celebration "], "A": []}
+{"index": 28533, "D": "to strike with a crushing or smashing blow.", "S": ["celebration"], "A": []}

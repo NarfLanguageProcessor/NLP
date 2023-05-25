@@ -1,1 +1,1 @@
-{"index": 338724, "D": "to make evident or establish by arguments or reasoning; prove", "S": ["new ", "unpracticed ", "unproved ", "unproven ", "untested "], "A": []}
+{"index": 338724, "D": "to make evident or establish by arguments or reasoning; prove", "S": ["new", "unpracticed", "unproved", "unproven", "untested"], "A": []}

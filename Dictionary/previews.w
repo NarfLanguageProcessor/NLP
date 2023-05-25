@@ -1,1 +1,1 @@
-{"index": 250203, "D": "an earlier or previous view. ", "S": ["examination ", "viewing "], "A": ["ignorance "]}
+{"index": 250203, "D": "an earlier or previous view. ", "S": ["examination", "viewing"], "A": ["ignorance"]}

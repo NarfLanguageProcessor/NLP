@@ -1,1 +1,0 @@
-{"index": 222835, "D": "a small, usually enclosed field near a stable or barn for pasturing or exercising animals.", "S": [], "A": []}

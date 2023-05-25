@@ -1,1 +1,1 @@
-{"index": 22445, "D": "simple past tense of eat. ", "S": ["attack ", "bite ", "chew ", "devour ", "dine ", "feed ", "ingest ", "inhale ", "nibble ", "pick ", "swallow "], "A": ["abstain ", "misunderstand ", "open "]}
+{"index": 22445, "D": "simple past tense of eat. ", "S": ["attack", "bite", "chew", "devour", "dine", "feed", "ingest", "inhale", "nibble", "pick", "swallow"], "A": ["abstain", "misunderstand", "open"]}

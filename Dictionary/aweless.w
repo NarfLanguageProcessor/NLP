@@ -1,1 +1,1 @@
-{"index": 24997, "D": "displaying no awe;  unawed.", "S": ["adventurous ", "bold ", "courageous ", "foolhardy ", "resolute ", "risky "], "A": ["afraid ", "careful ", "cautious ", "cowardly ", "fearful ", "meek ", "timid "]}
+{"index": 24997, "D": "displaying no awe;  unawed.", "S": ["adventurous", "bold", "courageous", "foolhardy", "resolute", "risky"], "A": ["afraid", "careful", "cautious", "cowardly", "fearful", "meek", "timid"]}

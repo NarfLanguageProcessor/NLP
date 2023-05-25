@@ -1,1 +1,1 @@
-{"index": 303057, "D": [], "S": ["campaigning ", "government "], "A": []}
+{"index": 303057, "D": [], "S": ["campaigning", "government"], "A": []}

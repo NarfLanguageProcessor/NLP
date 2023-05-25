@@ -1,1 +1,1 @@
-{"index": 82090, "D": "subject to or worthy of derision, esp because of being ridiculously small or inadequate", "S": ["condescending ", "derisive ", "disdainful ", "disrespectful ", "haughty ", "insulting ", "scornful "], "A": ["flattering ", "humble ", "praising ", "respectful "]}
+{"index": 82090, "D": "subject to or worthy of derision, esp because of being ridiculously small or inadequate", "S": ["condescending", "derisive", "disdainful", "disrespectful", "haughty", "insulting", "scornful"], "A": ["flattering", "humble", "praising", "respectful"]}

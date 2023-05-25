@@ -1,1 +1,1 @@
-{"index": 116640, "D": "to feel  or perceive beforehand; have a presentiment of.", "S": ["deduce ", "discern ", "foresee ", "foretell ", "infer ", "prophesy ", "surmise ", "visualize "], "A": ["calculate ", "disbelieve ", "know ", "misinterpret ", "misunderstand "]}
+{"index": 116640, "D": "to feel  or perceive beforehand; have a presentiment of.", "S": ["deduce", "discern", "foresee", "foretell", "infer", "prophesy", "surmise", "visualize"], "A": ["calculate", "disbelieve", "know", "misinterpret", "misunderstand"]}

@@ -1,1 +1,0 @@
-{"index": 255330, "D": "of or relating to any clinical approach to personality, as Freud\u2019s, that sees personality and behavior as the result of the ongoing, shifting interplay of conscious and unconscious emotional and motivational forces", "S": [], "A": []}

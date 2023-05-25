@@ -1,1 +1,1 @@
-{"index": 77565, "D": "simple past tense and past participle of deal1. ", "S": ["appropriated ", "assigned ", "dispersed ", "scattered ", "shared "], "A": []}
+{"index": 77565, "D": "simple past tense and past participle of deal1. ", "S": ["appropriated", "assigned", "dispersed", "scattered", "shared"], "A": []}

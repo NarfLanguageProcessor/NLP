@@ -1,1 +1,1 @@
-{"index": 104841, "D": "in a way that is ceaseless, endless, or perpetual", "S": ["perpetually "], "A": ["briefly ", "temporarily ", "transiently "]}
+{"index": 104841, "D": "in a way that is ceaseless, endless, or perpetual", "S": ["perpetually"], "A": ["briefly", "temporarily", "transiently"]}

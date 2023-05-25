@@ -1,1 +1,1 @@
-{"index": 123494, "D": "the entire body of individuals born and living at about the same time", "S": ["clan ", "folk ", "group ", "house ", "household ", "people ", "tribe "], "A": ["parent "]}
+{"index": 123494, "D": "the entire body of individuals born and living at about the same time", "S": ["clan", "folk", "group", "house", "household", "people", "tribe"], "A": ["parent"]}

@@ -1,1 +1,1 @@
-{"index": 6629, "D": "in or to the front; in advance of; before", "S": ["advanced ", "along ", "before ", "earlier ", "forward "], "A": ["behind "]}
+{"index": 6629, "D": "in or to the front; in advance of; before", "S": ["advanced", "along", "before", "earlier", "forward"], "A": ["behind"]}

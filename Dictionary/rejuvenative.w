@@ -1,1 +1,1 @@
-{"index": 266650, "D": "to make young again; restore to youthful vigor, appearance, etc.", "S": ["bracing ", "exhilarating ", "fascinating ", "lively ", "refreshing ", "uplifting "], "A": ["boring "]}
+{"index": 266650, "D": "to make young again; restore to youthful vigor, appearance, etc.", "S": ["bracing", "exhilarating", "fascinating", "lively", "refreshing", "uplifting"], "A": ["boring"]}

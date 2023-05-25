@@ -1,1 +1,1 @@
-{"index": 152447, "D": "to repeat; reiterate. ", "S": ["echo ", "renew ", "repeat ", "restate "], "A": ["take back "]}
+{"index": 152447, "D": "to repeat; reiterate. ", "S": ["echo", "renew", "repeat", "restate"], "A": ["take back"]}

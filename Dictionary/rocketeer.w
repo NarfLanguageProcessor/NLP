@@ -1,1 +1,1 @@
-{"index": 273677, "D": "a person who discharges, rides in, or pilots a rocket. ", "S": ["cosmonaut ", "pilot "], "A": []}
+{"index": 273677, "D": "a person who discharges, rides in, or pilots a rocket. ", "S": ["cosmonaut", "pilot"], "A": []}

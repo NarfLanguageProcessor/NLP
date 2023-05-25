@@ -1,1 +1,1 @@
-{"index": 24797, "D": "aerial navigation. ", "S": ["arrival ", "departure ", "shuttle ", "transport ", "trip "], "A": ["stay "]}
+{"index": 24797, "D": "aerial navigation. ", "S": ["arrival", "departure", "shuttle", "transport", "trip"], "A": ["stay"]}

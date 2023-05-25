@@ -1,1 +1,1 @@
-{"index": 151259, "D": "occurring, used, etc., in a house or building, rather than out of doors", "S": ["private "], "A": ["alien ", "business ", "foreign ", "industrial ", "office "]}
+{"index": 151259, "D": "occurring, used, etc., in a house or building, rather than out of doors", "S": ["private"], "A": ["alien", "business", "foreign", "industrial", "office"]}

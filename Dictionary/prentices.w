@@ -1,1 +1,1 @@
-{"index": 248573, "D": "apprentice. ", "S": ["laborer ", "work force ", "worker "], "A": ["check ", "hindrance ", "obstruction "]}
+{"index": 248573, "D": "apprentice. ", "S": ["laborer", "work force", "worker"], "A": ["check", "hindrance", "obstruction"]}

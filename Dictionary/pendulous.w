@@ -1,1 +1,1 @@
-{"index": 229579, "D": "hanging down loosely", "S": ["dangling ", "hanging ", "pendent "], "A": []}
+{"index": 229579, "D": "hanging down loosely", "S": ["dangling", "hanging", "pendent"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 288488, "D": "one of the counties of Great Britain.", "S": ["canton ", "constituency ", "division "], "A": []}
+{"index": 288488, "D": "one of the counties of Great Britain.", "S": ["canton", "constituency", "division"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 209127, "D": "a person who writes novels. ", "S": ["author ", "storyteller ", "writer "], "A": []}
+{"index": 209127, "D": "a person who writes novels. ", "S": ["author", "storyteller", "writer"], "A": []}

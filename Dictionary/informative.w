@@ -1,1 +1,1 @@
-{"index": 152218, "D": "giving information;  instructive", "S": ["chatty ", "descriptive ", "enlightening ", "explanatory ", "gossipy ", "illuminating ", "informational ", "instructional ", "instructive ", "revealing "], "A": ["confusing "]}
+{"index": 152218, "D": "giving information;  instructive", "S": ["chatty", "descriptive", "enlightening", "explanatory", "gossipy", "illuminating", "informational", "instructional", "instructive", "revealing"], "A": ["confusing"]}

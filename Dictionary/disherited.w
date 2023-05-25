@@ -1,1 +1,1 @@
-{"index": 88264, "D": "to disinherit.", "S": ["bequest ", "confer ", "devise ", "disinherit ", "leave ", "legate ", "probate ", "transfer "], "A": ["hold ", "keep "]}
+{"index": 88264, "D": "to disinherit.", "S": ["bequest", "confer", "devise", "disinherit", "leave", "legate", "probate", "transfer"], "A": ["hold", "keep"]}

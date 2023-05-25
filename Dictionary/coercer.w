@@ -1,1 +1,1 @@
-{"index": 62040, "D": "to compel by force, intimidation, or authority, especially without regard for individual desire or volition", "S": ["oppressor ", "rascal "], "A": []}
+{"index": 62040, "D": "to compel by force, intimidation, or authority, especially without regard for individual desire or volition", "S": ["oppressor", "rascal"], "A": []}

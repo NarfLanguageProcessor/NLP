@@ -1,1 +1,1 @@
-{"index": 268281, "D": "the act or process of resupplying, refilling, or renewing", "S": ["dressing ", "layer ", "mixture ", "stuffing "], "A": ["exteriority ", "outside "]}
+{"index": 268281, "D": "the act or process of resupplying, refilling, or renewing", "S": ["dressing", "layer", "mixture", "stuffing"], "A": ["exteriority", "outside"]}

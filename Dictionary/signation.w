@@ -1,1 +1,1 @@
-{"index": 290118, "D": [], "S": ["crossing oneself ", "gesture ", "signing oneself ", "signum crucis "], "A": []}
+{"index": 290118, "D": [], "S": ["crossing oneself", "gesture", "signing oneself", "signum crucis"], "A": []}

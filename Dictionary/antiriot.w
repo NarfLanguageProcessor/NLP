@@ -1,0 +1,1 @@
+{"index": 16097, "D": "(of police officers, equipment, measures, etc) designed for or engaged in the control of crowds", "S": [], "A": []}

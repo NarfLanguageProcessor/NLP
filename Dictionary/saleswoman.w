@@ -1,1 +1,1 @@
-{"index": 277001, "D": "a woman  who sells goods, services, etc.", "S": ["clerk ", "marketer ", "salesman ", "salesperson ", "shopkeeper "], "A": ["customer "]}
+{"index": 277001, "D": "a woman  who sells goods, services, etc.", "S": ["clerk", "marketer", "salesman", "salesperson", "shopkeeper"], "A": ["customer"]}

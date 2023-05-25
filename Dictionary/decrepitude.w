@@ -1,1 +1,1 @@
-{"index": 78762, "D": "decrepit condition; dilapidated state; feebleness, especially from old age.", "S": ["age ", "decay ", "dilapidation ", "infirmity ", "weakness "], "A": ["strength "]}
+{"index": 78762, "D": "decrepit condition; dilapidated state; feebleness, especially from old age.", "S": ["age", "decay", "dilapidation", "infirmity", "weakness"], "A": ["strength"]}

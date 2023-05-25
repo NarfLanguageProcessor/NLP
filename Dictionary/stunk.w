@@ -1,1 +1,1 @@
-{"index": 306900, "D": "a simple past tense and past participle of stink. ", "S": ["funk ", "offend ", "reek "], "A": ["be good ", "perfume "]}
+{"index": 306900, "D": "a simple past tense and past participle of stink. ", "S": ["funk", "offend", "reek"], "A": ["be good", "perfume"]}

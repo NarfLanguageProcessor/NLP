@@ -1,1 +1,1 @@
-{"index": 161616, "D": "the place at which two things, or separate parts of one thing, are joined or united, either rigidly or in such a way as to permit motion; juncture.", "S": ["collective ", "concerted ", "cooperative "], "A": ["divided ", "separate ", "uncoordinated ", "separated "]}
+{"index": 161616, "D": "the place at which two things, or separate parts of one thing, are joined or united, either rigidly or in such a way as to permit motion; juncture.", "S": ["collective", "concerted", "cooperative"], "A": ["divided", "separate", "uncoordinated", "separated"]}

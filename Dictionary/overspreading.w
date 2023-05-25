@@ -1,1 +1,1 @@
-{"index": 221300, "D": "to spread or diffuse over", "S": ["causal sequence ", "contagion effect ", "dispersion ", "dissemination ", "domino effect ", "knock-on effect ", "slippery slope ", "sprawl "], "A": []}
+{"index": 221300, "D": "to spread or diffuse over", "S": ["causal sequence", "contagion effect", "dispersion", "dissemination", "domino effect", "knock-on effect", "slippery slope", "sprawl"], "A": []}

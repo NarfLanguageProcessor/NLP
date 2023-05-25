@@ -1,1 +1,1 @@
-{"index": 229703, "D": "a contour feather, as distinguished from a down feather, plume, etc.", "S": ["body feather ", "down feather ", "plume feather ", "plumule "], "A": []}
+{"index": 229703, "D": "a contour feather, as distinguished from a down feather, plume, etc.", "S": ["body feather", "down feather", "plume feather", "plumule"], "A": []}

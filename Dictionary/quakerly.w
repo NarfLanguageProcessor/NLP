@@ -1,1 +1,0 @@
-{"index": 257844, "D": "like a Quaker. ", "S": [], "A": []}

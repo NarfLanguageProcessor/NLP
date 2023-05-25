@@ -1,1 +1,1 @@
-{"index": 254183, "D": "the agency, function, or power of a person authorized to act as the deputy or substitute for another.", "S": ["intermediary ", "stand-in ", "surrogate "], "A": []}
+{"index": 254183, "D": "the agency, function, or power of a person authorized to act as the deputy or substitute for another.", "S": ["intermediary", "stand-in", "surrogate"], "A": []}

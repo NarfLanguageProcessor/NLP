@@ -1,1 +1,1 @@
-{"index": 164813, "D": "a cathode-ray tube with a fluorescent screen on which an image is reproduced by a directed beam of electrons.", "S": ["cathode-ray tube ", "projection tube "], "A": []}
+{"index": 164813, "D": "a cathode-ray tube with a fluorescent screen on which an image is reproduced by a directed beam of electrons.", "S": ["cathode-ray tube", "projection tube"], "A": []}

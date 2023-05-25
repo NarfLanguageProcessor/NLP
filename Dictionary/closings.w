@@ -1,1 +1,1 @@
-{"index": 60470, "D": "the end or conclusion, as of a speech.", "S": ["concluding "], "A": []}
+{"index": 60470, "D": "the end or conclusion, as of a speech.", "S": ["concluding"], "A": []}

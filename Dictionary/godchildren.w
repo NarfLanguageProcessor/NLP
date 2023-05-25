@@ -1,1 +1,1 @@
-{"index": 127307, "D": "a child  for whom a godparent serves as sponsor at baptism.", "S": ["care "], "A": ["adult "]}
+{"index": 127307, "D": "a child  for whom a godparent serves as sponsor at baptism.", "S": ["care"], "A": ["adult"]}

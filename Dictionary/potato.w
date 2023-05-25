@@ -1,1 +1,1 @@
-{"index": 244626, "D": "the edible tuber of a cultivated plant, Solanum tuberosum, of the nightshade family. ", "S": ["yam "], "A": []}
+{"index": 244626, "D": "the edible tuber of a cultivated plant, Solanum tuberosum, of the nightshade family. ", "S": ["yam"], "A": []}

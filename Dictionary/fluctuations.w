@@ -1,1 +1,1 @@
-{"index": 115245, "D": "continual change from one point or condition to another.", "S": ["variation "], "A": []}
+{"index": 115245, "D": "continual change from one point or condition to another.", "S": ["variation"], "A": []}

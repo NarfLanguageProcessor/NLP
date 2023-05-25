@@ -1,1 +1,1 @@
-{"index": 107274, "D": "a way or passage out", "S": ["departure ", "doorway ", "emanation ", "emergence ", "escape ", "exit ", "exodus ", "issue ", "opening ", "outlet ", "vent ", "withdrawal "], "A": ["arrival ", "closure ", "coming ", "entrance ", "stay "]}
+{"index": 107274, "D": "a way or passage out", "S": ["departure", "doorway", "emanation", "emergence", "escape", "exit", "exodus", "issue", "opening", "outlet", "vent", "withdrawal"], "A": ["arrival", "closure", "coming", "entrance", "stay"]}

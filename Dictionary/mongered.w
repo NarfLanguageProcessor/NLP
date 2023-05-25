@@ -1,1 +1,1 @@
-{"index": 191909, "D": "a person who is involved with something in a petty or contemptible way (usually used in combination)", "S": ["hawk ", "solicit "], "A": ["buy ", "pull "]}
+{"index": 191909, "D": "a person who is involved with something in a petty or contemptible way (usually used in combination)", "S": ["hawk", "solicit"], "A": ["buy", "pull"]}

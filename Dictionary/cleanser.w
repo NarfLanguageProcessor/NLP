@@ -1,1 +1,1 @@
-{"index": 59637, "D": "a preparation for cleansing,  as a liquid or powder for scouring sinks, bathtubs, etc., or a cream for cleaning the face.", "S": ["deodorant ", "detergent ", "purifier ", "soap "], "A": []}
+{"index": 59637, "D": "a preparation for cleansing,  as a liquid or powder for scouring sinks, bathtubs, etc., or a cream for cleaning the face.", "S": ["deodorant", "detergent", "purifier", "soap"], "A": []}

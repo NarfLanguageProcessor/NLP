@@ -1,1 +1,1 @@
-{"index": 114221, "D": "rich in flavor,  as a tea.", "S": ["appetizing ", "delectable ", "flavorful ", "luscious ", "pungent ", "savory ", "spicy ", "yummy "], "A": ["bland ", "distasteful ", "dull ", "flavorless ", "offensive ", "tasteless ", "unappetizing ", "unsavory "]}
+{"index": 114221, "D": "rich in flavor,  as a tea.", "S": ["appetizing", "delectable", "flavorful", "luscious", "pungent", "savory", "spicy", "yummy"], "A": ["bland", "distasteful", "dull", "flavorless", "offensive", "tasteless", "unappetizing", "unsavory"]}

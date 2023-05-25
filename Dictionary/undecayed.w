@@ -1,1 +1,1 @@
-{"index": 338443, "D": "to become decomposed; rot", "S": ["flawless ", "normal ", "perfect ", "safe ", "solid ", "stable "], "A": ["imperfect ", "unhealthy "]}
+{"index": 338443, "D": "to become decomposed; rot", "S": ["flawless", "normal", "perfect", "safe", "solid", "stable"], "A": ["imperfect", "unhealthy"]}

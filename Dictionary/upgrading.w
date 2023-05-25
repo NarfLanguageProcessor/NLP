@@ -1,1 +1,1 @@
-{"index": 354705, "D": "an incline going up in the direction of movement.", "S": ["advance ", "growth ", "improvement "], "A": ["decrease ", "failure ", "stagnation ", "worsening "]}
+{"index": 354705, "D": "an incline going up in the direction of movement.", "S": ["advance", "growth", "improvement"], "A": ["decrease", "failure", "stagnation", "worsening"]}

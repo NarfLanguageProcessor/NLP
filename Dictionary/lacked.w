@@ -1,1 +1,1 @@
-{"index": 166950, "D": "deficiency or absence of something needed, desirable, or customary", "S": ["need ", "require ", "want "], "A": ["dislike ", "have "]}
+{"index": 166950, "D": "deficiency or absence of something needed, desirable, or customary", "S": ["need", "require", "want"], "A": ["dislike", "have"]}

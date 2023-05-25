@@ -1,1 +1,1 @@
-{"index": 321289, "D": "molasses; treacle.", "S": ["elixir ", "magic bullet "], "A": []}
+{"index": 321289, "D": "molasses; treacle.", "S": ["elixir", "magic bullet"], "A": []}

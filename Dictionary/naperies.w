@@ -1,1 +1,1 @@
-{"index": 196823, "D": "table linen, as tablecloths or napkins.", "S": ["bedding ", "cloth ", "lingerie "], "A": []}
+{"index": 196823, "D": "table linen, as tablecloths or napkins.", "S": ["bedding", "cloth", "lingerie"], "A": []}

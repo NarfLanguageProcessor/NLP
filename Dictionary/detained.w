@@ -1,1 +1,1 @@
-{"index": 83081, "D": "to keep from proceeding; keep waiting; delay. ", "S": ["circumscribed ", "cramped ", "imprisoned ", "restrained ", "restricted "], "A": ["healthy ", "well "]}
+{"index": 83081, "D": "to keep from proceeding; keep waiting; delay. ", "S": ["circumscribed", "cramped", "imprisoned", "restrained", "restricted"], "A": ["healthy", "well"]}

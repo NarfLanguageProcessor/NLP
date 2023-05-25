@@ -1,1 +1,1 @@
-{"index": 96775, "D": "to make very happy or proud", "S": ["exhilarate "], "A": ["depress ", "discourage ", "dissuade "]}
+{"index": 96775, "D": "to make very happy or proud", "S": ["exhilarate"], "A": ["depress", "discourage", "dissuade"]}

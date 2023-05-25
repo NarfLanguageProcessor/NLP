@@ -1,1 +1,1 @@
-{"index": 92594, "D": "to draw with force, effort, or difficulty; pull heavily or slowly along; haul; trail", "S": ["annoyance ", "bore ", "bother ", "nuisance "], "A": ["delight ", "happiness ", "joy ", "pleasure "]}
+{"index": 92594, "D": "to draw with force, effort, or difficulty; pull heavily or slowly along; haul; trail", "S": ["annoyance", "bore", "bother", "nuisance"], "A": ["delight", "happiness", "joy", "pleasure"]}

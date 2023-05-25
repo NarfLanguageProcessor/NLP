@@ -1,1 +1,1 @@
-{"index": 67802, "D": "to exercise restraint or direction over; dominate", "S": ["administrable ", "governable ", "tractable "], "A": []}
+{"index": 67802, "D": "to exercise restraint or direction over; dominate", "S": ["administrable", "governable", "tractable"], "A": []}

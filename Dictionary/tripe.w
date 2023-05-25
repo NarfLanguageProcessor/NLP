@@ -1,1 +1,1 @@
-{"index": 330307, "D": "Compare honeycomb tripe, plain tripe. ", "S": ["drivel ", "gibberish "], "A": ["sense ", "truth "]}
+{"index": 330307, "D": "Compare honeycomb tripe, plain tripe. ", "S": ["drivel", "gibberish"], "A": ["sense", "truth"]}

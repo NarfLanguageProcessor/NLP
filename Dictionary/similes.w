@@ -1,1 +1,0 @@
-{"index": 290837, "D": "Compare metaphor. ", "S": ["analogy ", "metaphor ", "similitude "], "A": ["dissimilarity "]}

@@ -1,1 +1,1 @@
-{"index": 113659, "D": "overcome with astonishment; amazed; astounded", "S": ["astonished ", "awed ", "baffled ", "befuddled ", "dazed ", "mystified ", "perplexed ", "puzzled ", "rattled ", "shocked ", "startled ", "stunned ", "surprised "], "A": ["aware ", "clear "]}
+{"index": 113659, "D": "overcome with astonishment; amazed; astounded", "S": ["astonished", "awed", "baffled", "befuddled", "dazed", "mystified", "perplexed", "puzzled", "rattled", "shocked", "startled", "stunned", "surprised"], "A": ["aware", "clear"]}

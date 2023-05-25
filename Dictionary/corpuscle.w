@@ -1,1 +1,1 @@
-{"index": 69570, "D": "an unattached cell, especially of a kind that floats freely, as a blood or lymph cell.", "S": ["red blood cell ", "white blood cell "], "A": []}
+{"index": 69570, "D": "an unattached cell, especially of a kind that floats freely, as a blood or lymph cell.", "S": ["red blood cell", "white blood cell"], "A": []}

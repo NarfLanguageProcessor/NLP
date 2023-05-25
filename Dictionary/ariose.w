@@ -1,1 +1,1 @@
-{"index": 19723, "D": "characterized by melody; songlike.", "S": ["melodious "], "A": ["discordant "]}
+{"index": 19723, "D": "characterized by melody; songlike.", "S": ["melodious"], "A": ["discordant"]}

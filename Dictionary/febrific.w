@@ -1,1 +1,1 @@
-{"index": 110732, "D": "producing or marked by fever.", "S": ["burning ", "burning up ", "febrile ", "fevered ", "flushed ", "hot ", "inflamed ", "on fire ", "pyretic "], "A": []}
+{"index": 110732, "D": "producing or marked by fever.", "S": ["burning", "burning up", "febrile", "fevered", "flushed", "hot", "inflamed", "on fire", "pyretic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 250871, "D": "the unearned and mostly unacknowledged societal advantage that a restricted group of people has over another group", "S": ["accredit ", "allow ", "certify ", "empower ", "enable ", "permit "], "A": ["deny ", "disallow ", "disapprove ", "refuse ", "reject ", "prevent "]}
+{"index": 250871, "D": "the unearned and mostly unacknowledged societal advantage that a restricted group of people has over another group", "S": ["accredit", "allow", "certify", "empower", "enable", "permit"], "A": ["deny", "disallow", "disapprove", "refuse", "reject", "prevent"]}

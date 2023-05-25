@@ -1,1 +1,1 @@
-{"index": 325761, "D": [], "S": ["bite ", "catch ", "dram ", "drop ", "finger ", "jolt ", "morsel ", "mouthful ", "nibble ", "pinch ", "portion ", "shot ", "sip ", "slug ", "snifter "], "A": ["lot "]}
+{"index": 325761, "D": [], "S": ["bite", "catch", "dram", "drop", "finger", "jolt", "morsel", "mouthful", "nibble", "pinch", "portion", "shot", "sip", "slug", "snifter"], "A": ["lot"]}

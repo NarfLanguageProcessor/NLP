@@ -1,1 +1,0 @@
-{"index": 279837, "D": "to attack with severe criticism.", "S": ["attack ", "blister ", "damn ", "lash ", "pan ", "scorch ", "score ", "scourge ", "slap ", "slash "], "A": ["mend ", "praise ", "protect "]}

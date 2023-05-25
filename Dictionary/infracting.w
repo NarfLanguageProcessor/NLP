@@ -1,1 +1,1 @@
-{"index": 152263, "D": "to break, violate, or infringe (a law, commitment, etc.).", "S": ["breach ", "violate "], "A": ["obey ", "regard "]}
+{"index": 152263, "D": "to break, violate, or infringe (a law, commitment, etc.).", "S": ["breach", "violate"], "A": ["obey", "regard"]}

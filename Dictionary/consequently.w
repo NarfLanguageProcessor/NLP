@@ -1,1 +1,1 @@
-{"index": 66755, "D": "as a result, effect, or outcome; therefore", "S": ["therefore "], "A": []}
+{"index": 66755, "D": "as a result, effect, or outcome; therefore", "S": ["therefore"], "A": []}

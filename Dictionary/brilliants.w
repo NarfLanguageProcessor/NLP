@@ -1,1 +1,1 @@
-{"index": 40806, "D": "shining brightly; sparkling; glittering; lustrous", "S": ["bauble ", "bead ", "gem ", "gemstone ", "ornament ", "stone ", "trinket "], "A": []}
+{"index": 40806, "D": "shining brightly; sparkling; glittering; lustrous", "S": ["bauble", "bead", "gem", "gemstone", "ornament", "stone", "trinket"], "A": []}

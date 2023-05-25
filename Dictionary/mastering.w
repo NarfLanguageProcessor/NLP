@@ -1,1 +1,1 @@
-{"index": 180853, "D": "a person with the ability or power to use, control, or dispose of something", "S": ["administrative ", "dominant ", "guiding ", "ruling "], "A": ["inferior ", "subordinate "]}
+{"index": 180853, "D": "a person with the ability or power to use, control, or dispose of something", "S": ["administrative", "dominant", "guiding", "ruling"], "A": ["inferior", "subordinate"]}

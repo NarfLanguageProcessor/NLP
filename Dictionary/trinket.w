@@ -1,1 +1,1 @@
-{"index": 330162, "D": "a small ornament, piece of jewelry, etc., usually of little value.", "S": ["bauble ", "bead ", "gadget ", "junk ", "ornament ", "toy "], "A": []}
+{"index": 330162, "D": "a small ornament, piece of jewelry, etc., usually of little value.", "S": ["bauble", "bead", "gadget", "junk", "ornament", "toy"], "A": []}

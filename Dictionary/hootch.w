@@ -1,1 +1,1 @@
-{"index": 143648, "D": "a variant spelling of hooch", "S": ["booze ", "drink ", "ethanol ", "liquor ", "methanol ", "smoke "], "A": []}
+{"index": 143648, "D": "a variant spelling of hooch", "S": ["booze", "drink", "ethanol", "liquor", "methanol", "smoke"], "A": []}

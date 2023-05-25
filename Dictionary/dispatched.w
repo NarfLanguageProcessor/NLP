@@ -1,1 +1,1 @@
-{"index": 88892, "D": "to send off or away with speed, as a messenger, telegram, body of troops, etc.", "S": ["conveyed ", "deposited ", "expressed ", "forwarded ", "mailed ", "sent ", "shipped ", "transported ", "trucked "], "A": []}
+{"index": 88892, "D": "to send off or away with speed, as a messenger, telegram, body of troops, etc.", "S": ["conveyed", "deposited", "expressed", "forwarded", "mailed", "sent", "shipped", "transported", "trucked"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 131135, "D": "general external appearance; aspect; semblance", "S": ["disguise "], "A": ["back ", "character ", "personality ", "rear "]}
+{"index": 131135, "D": "general external appearance; aspect; semblance", "S": ["disguise"], "A": ["back", "character", "personality", "rear"]}

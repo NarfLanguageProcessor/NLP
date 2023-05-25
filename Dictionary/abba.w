@@ -1,1 +1,1 @@
-{"index": 179, "D": "a title of reverence for bishops and patriarchs in the Coptic, Ethiopian Christian, and Syriac churches.", "S": ["administrator ", "cleric ", "director ", "patriarch ", "pontiff ", "pope ", "prelate ", "priest "], "A": []}
+{"index": 179, "D": "a title of reverence for bishops and patriarchs in the Coptic, Ethiopian Christian, and Syriac churches.", "S": ["administrator", "cleric", "director", "patriarch", "pontiff", "pope", "prelate", "priest"], "A": []}

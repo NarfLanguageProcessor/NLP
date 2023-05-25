@@ -1,1 +1,1 @@
-{"index": 315363, "D": "the part of a projecting stone or brick tailed or inserted in a wall.", "S": ["at the end ", "farthest ", "furthest ", "hindermost ", "hindmost ", "last ", "lattermost ", "rearmost ", "remotest "], "A": []}
+{"index": 315363, "D": "the part of a projecting stone or brick tailed or inserted in a wall.", "S": ["at the end", "farthest", "furthest", "hindermost", "hindmost", "last", "lattermost", "rearmost", "remotest"], "A": []}

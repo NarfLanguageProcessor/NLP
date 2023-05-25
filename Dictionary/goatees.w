@@ -1,1 +1,1 @@
-{"index": 127205, "D": "a man's beard trimmed to a tuft or point on the chin.", "S": ["Vandyke ", "bristles ", "brush ", "fuzz ", "imperial ", "stubble "], "A": []}
+{"index": 127205, "D": "a man's beard trimmed to a tuft or point on the chin.", "S": ["Vandyke", "bristles", "brush", "fuzz", "imperial", "stubble"], "A": []}

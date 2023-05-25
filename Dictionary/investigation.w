@@ -1,1 +1,1 @@
-{"index": 157177, "D": "the act or process of investigating  or the condition of being investigated. ", "S": ["analysis ", "case ", "examination ", "hearing ", "inquiry ", "inspection ", "probe ", "research ", "review ", "scrutiny ", "search ", "study ", "survey "], "A": []}
+{"index": 157177, "D": "the act or process of investigating  or the condition of being investigated. ", "S": ["analysis", "case", "examination", "hearing", "inquiry", "inspection", "probe", "research", "review", "scrutiny", "search", "study", "survey"], "A": []}

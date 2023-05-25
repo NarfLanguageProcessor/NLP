@@ -1,1 +1,1 @@
-{"index": 235106, "D": "a photographic process of preparing printing plates for letterpress printing.", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}
+{"index": 235106, "D": "a photographic process of preparing printing plates for letterpress printing.", "S": ["etching", "illustration", "inscription", "lithograph", "woodcut"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 41203, "D": "the business of a broker. ", "S": ["fee "], "A": ["increase ", "whole "]}
+{"index": 41203, "D": "the business of a broker. ", "S": ["fee"], "A": ["increase", "whole"]}

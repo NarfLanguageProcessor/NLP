@@ -1,1 +1,1 @@
-{"index": 232080, "D": "related to or associated with something specified; belonging or relevant to the matter at hand", "S": ["connected ", "referring ", "related "], "A": ["disconnected ", "unrelated "]}
+{"index": 232080, "D": "related to or associated with something specified; belonging or relevant to the matter at hand", "S": ["connected", "referring", "related"], "A": ["disconnected", "unrelated"]}

@@ -1,1 +1,1 @@
-{"index": 170023, "D": "to make legal;  authorize.", "S": ["authority ", "due process ", "honesty ", "integrity ", "law ", "right ", "truth "], "A": ["corruption ", "dishonesty ", "falsehood ", "award ", "penalty ", "refusal ", "reward "]}
+{"index": 170023, "D": "to make legal;  authorize.", "S": ["authority", "due process", "honesty", "integrity", "law", "right", "truth"], "A": ["corruption", "dishonesty", "falsehood", "award", "penalty", "refusal", "reward"]}

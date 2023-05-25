@@ -1,1 +1,1 @@
-{"index": 116628, "D": "to doom  beforehand; destine.", "S": ["accursed ", "bedeviled ", "blasted ", "blighted ", "confounded ", "excommunicate ", "voodooed "], "A": ["blessed "]}
+{"index": 116628, "D": "to doom  beforehand; destine.", "S": ["accursed", "bedeviled", "blasted", "blighted", "confounded", "excommunicate", "voodooed"], "A": ["blessed"]}

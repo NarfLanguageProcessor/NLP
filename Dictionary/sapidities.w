@@ -1,1 +1,1 @@
-{"index": 278104, "D": "having taste or flavor.", "S": ["acidity ", "aroma ", "essence ", "extract ", "seasoning ", "sweetness ", "zest "], "A": ["blandness "]}
+{"index": 278104, "D": "having taste or flavor.", "S": ["acidity", "aroma", "essence", "extract", "seasoning", "sweetness", "zest"], "A": ["blandness"]}

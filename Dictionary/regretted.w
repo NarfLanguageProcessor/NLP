@@ -1,1 +1,0 @@
-{"index": 265826, "D": "to feel sorrow or remorse for (an act, fault, disappointment, etc.)", "S": ["apologize ", "bemoan ", "deplore ", "grieve ", "lament ", "repent "], "A": ["be happy ", "delight ", "praise ", "approve ", "endorse "]}

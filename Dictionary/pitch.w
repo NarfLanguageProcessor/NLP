@@ -1,1 +1,1 @@
-{"index": 238225, "D": "to erect or set up (a tent, camp, or the like).", "S": ["angle ", "point "], "A": []}
+{"index": 238225, "D": "to erect or set up (a tent, camp, or the like).", "S": ["angle", "point"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 114606, "D": "making flight  or passing through the air; that flies", "S": ["aerial ", "floating ", "soaring "], "A": []}
+{"index": 114606, "D": "making flight  or passing through the air; that flies", "S": ["aerial", "floating", "soaring"], "A": []}

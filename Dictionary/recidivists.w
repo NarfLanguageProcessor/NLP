@@ -1,1 +1,1 @@
-{"index": 262854, "D": "repeated or habitual relapse, as into crime.", "S": ["ame damnee ", "backslider ", "lost sheep ", "lost soul "], "A": []}
+{"index": 262854, "D": "repeated or habitual relapse, as into crime.", "S": ["ame damnee", "backslider", "lost sheep", "lost soul"], "A": []}

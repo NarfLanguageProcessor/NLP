@@ -1,1 +1,1 @@
-{"index": 145631, "D": "to whine or complain.", "S": ["bellyache ", "carp ", "complain ", "fuss ", "gripe ", "grumble ", "howl ", "moan ", "repine ", "wail ", "whimper ", "yowl "], "A": ["be happy ", "compliment ", "praise "]}
+{"index": 145631, "D": "to whine or complain.", "S": ["bellyache", "carp", "complain", "fuss", "gripe", "grumble", "howl", "moan", "repine", "wail", "whimper", "yowl"], "A": ["be happy", "compliment", "praise"]}

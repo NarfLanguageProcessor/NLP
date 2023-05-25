@@ -1,1 +1,1 @@
-{"index": 161034, "D": "the source of the Christian religion.", "S": ["Christ ", "Good Shepherd ", "King of Kings ", "Lamb of God ", "Lord of Lords ", "Messiah ", "Prince of Peace ", "Son of Man ", "lord ", "redeemer ", "savior "], "A": []}
+{"index": 161034, "D": "the source of the Christian religion.", "S": ["Christ", "Good Shepherd", "King of Kings", "Lamb of God", "Lord of Lords", "Messiah", "Prince of Peace", "Son of Man", "lord", "redeemer", "savior"], "A": []}

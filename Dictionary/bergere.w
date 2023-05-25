@@ -1,0 +1,1 @@
+{"index": 32049, "D": "a chair of the 18th century, having arms with closed spaces between them and the seat.", "S": [], "A": []}

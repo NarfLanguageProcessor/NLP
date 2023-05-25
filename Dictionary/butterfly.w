@@ -1,1 +1,1 @@
-{"index": 43681, "D": "any of numerous diurnal insects of the order Lepidoptera, characterized by clubbed antennae, a slender body, and large, broad, often conspicuously marked wings.", "S": ["canker ", "larva ", "moth ", "tractor "], "A": []}
+{"index": 43681, "D": "any of numerous diurnal insects of the order Lepidoptera, characterized by clubbed antennae, a slender body, and large, broad, often conspicuously marked wings.", "S": ["canker", "larva", "moth", "tractor"], "A": []}

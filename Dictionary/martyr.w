@@ -1,1 +1,1 @@
-{"index": 180529, "D": "a person who willingly suffers death rather than renounce their religion.", "S": ["scapegoat "], "A": []}
+{"index": 180529, "D": "a person who willingly suffers death rather than renounce their religion.", "S": ["scapegoat"], "A": []}

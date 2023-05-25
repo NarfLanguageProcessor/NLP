@@ -1,1 +1,1 @@
-{"index": 209887, "D": "furnished with oars. ", "S": ["drift ", "navigate ", "slop ", "splash ", "wade "], "A": ["discourage "]}
+{"index": 209887, "D": "furnished with oars. ", "S": ["drift", "navigate", "slop", "splash", "wade"], "A": ["discourage"]}

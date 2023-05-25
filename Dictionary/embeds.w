@@ -1,1 +1,1 @@
-{"index": 98040, "D": "to fix into a surrounding mass", "S": ["bury ", "enclose ", "fix ", "ingrain ", "inlay ", "insert ", "install ", "lodge "], "A": ["ascend ", "rise "]}
+{"index": 98040, "D": "to fix into a surrounding mass", "S": ["bury", "enclose", "fix", "ingrain", "inlay", "insert", "install", "lodge"], "A": ["ascend", "rise"]}

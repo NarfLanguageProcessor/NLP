@@ -1,0 +1,1 @@
+{"index": 14019, "D": "a form of speech in which a key word is repeated and used in a different, and sometimes contrary, way for a play on words, as inThe craft of a politician is to appear before the public without craft.", "S": [], "A": []}

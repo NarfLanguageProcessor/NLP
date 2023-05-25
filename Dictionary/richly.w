@@ -1,1 +1,1 @@
-{"index": 272542, "D": "a richly decorated carving", "S": ["abundantly ", "amply ", "handsomely ", "lavishly "], "A": ["poorly "]}
+{"index": 272542, "D": "a richly decorated carving", "S": ["abundantly", "amply", "handsomely", "lavishly"], "A": ["poorly"]}

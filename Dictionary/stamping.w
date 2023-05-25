@@ -1,1 +1,1 @@
-{"index": 302622, "D": "to strike or beat with a forcible, downward thrust of the foot.", "S": ["footprint ", "imprint ", "pattern "], "A": ["bulge "]}
+{"index": 302622, "D": "to strike or beat with a forcible, downward thrust of the foot.", "S": ["footprint", "imprint", "pattern"], "A": ["bulge"]}

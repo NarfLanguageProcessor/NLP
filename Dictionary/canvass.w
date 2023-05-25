@@ -1,1 +1,1 @@
-{"index": 46723, "D": "to solicit votes, subscriptions, opinions, or the like from.", "S": ["agitate ", "consult ", "inspect ", "scrutinize ", "solicit "], "A": ["agree ", "go along ", "ignore ", "neglect "]}
+{"index": 46723, "D": "to solicit votes, subscriptions, opinions, or the like from.", "S": ["agitate", "consult", "inspect", "scrutinize", "solicit"], "A": ["agree", "go along", "ignore", "neglect"]}

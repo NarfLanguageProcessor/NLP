@@ -1,1 +1,1 @@
-{"index": 293288, "D": "to move in a light, springy manner by bounding forward with alternate hops on each foot.", "S": ["bound ", "carom ", "dance ", "fly ", "glance ", "hop ", "leap ", "ricochet ", "scamper ", "scoot ", "skim ", "skitter "], "A": ["stand ", "stay ", "wait "]}
+{"index": 293288, "D": "to move in a light, springy manner by bounding forward with alternate hops on each foot.", "S": ["bound", "carom", "dance", "fly", "glance", "hop", "leap", "ricochet", "scamper", "scoot", "skim", "skitter"], "A": ["stand", "stay", "wait"]}

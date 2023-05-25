@@ -1,1 +1,0 @@
-{"index": 214827, "D": "the branch of physical geography dealing with mountains.", "S": [], "A": []}

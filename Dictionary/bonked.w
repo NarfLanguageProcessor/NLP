@@ -1,1 +1,1 @@
-{"index": 37925, "D": "to hit, strike, collide, etc.", "S": ["beat ", "collide ", "crash ", "drive ", "force ", "knock ", "pummel ", "punch ", "smack ", "touch "], "A": ["surrender "]}
+{"index": 37925, "D": "to hit, strike, collide, etc.", "S": ["beat", "collide", "crash", "drive", "force", "knock", "pummel", "punch", "smack", "touch"], "A": ["surrender"]}

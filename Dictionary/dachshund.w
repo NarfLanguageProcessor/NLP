@@ -1,1 +1,1 @@
-{"index": 75976, "D": "one of a German breed of dogs having short legs, a long body and ears, and a usually tan or black-and-tan coat.", "S": ["beagle "], "A": []}
+{"index": 75976, "D": "one of a German breed of dogs having short legs, a long body and ears, and a usually tan or black-and-tan coat.", "S": ["beagle"], "A": []}

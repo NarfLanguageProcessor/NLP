@@ -1,1 +1,1 @@
-{"index": 304915, "D": "a standard model of automobile changed in various ways for racing purposes.", "S": ["dragster ", "hotrod "], "A": []}
+{"index": 304915, "D": "a standard model of automobile changed in various ways for racing purposes.", "S": ["dragster", "hotrod"], "A": []}

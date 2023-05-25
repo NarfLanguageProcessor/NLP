@@ -1,1 +1,1 @@
-{"index": 46229, "D": "a device having a socket or a spike for holding a candle.", "S": ["candelabra ", "sconce "], "A": []}
+{"index": 46229, "D": "a device having a socket or a spike for holding a candle.", "S": ["candelabra", "sconce"], "A": []}

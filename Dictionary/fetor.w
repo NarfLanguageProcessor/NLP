@@ -1,1 +1,1 @@
-{"index": 111790, "D": "a strong, offensive smell; stench.", "S": ["fumes ", "gas ", "mephitis ", "odor ", "pollution ", "reek ", "smell ", "smog ", "stench ", "stink ", "vapor "], "A": ["perfume ", "sweetness "]}
+{"index": 111790, "D": "a strong, offensive smell; stench.", "S": ["fumes", "gas", "mephitis", "odor", "pollution", "reek", "smell", "smog", "stench", "stink", "vapor"], "A": ["perfume", "sweetness"]}

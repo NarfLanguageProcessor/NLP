@@ -1,1 +1,1 @@
-{"index": 294740, "D": "smart aleck. ", "S": ["know-it-all ", "malapert ", "smart alec ", "smart-ass ", "smarty pants ", "swellhead ", "wise guy ", "wiseass ", "wisenheimer ", "witling "], "A": []}
+{"index": 294740, "D": "smart aleck. ", "S": ["know-it-all", "malapert", "smart alec", "smart-ass", "smarty pants", "swellhead", "wise guy", "wiseass", "wisenheimer", "witling"], "A": []}

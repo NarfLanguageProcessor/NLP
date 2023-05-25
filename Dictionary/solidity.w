@@ -1,1 +1,1 @@
-{"index": 296750, "D": "the state, property, or quality of being solid. ", "S": ["closeness ", "density "], "A": []}
+{"index": 296750, "D": "the state, property, or quality of being solid. ", "S": ["closeness", "density"], "A": []}

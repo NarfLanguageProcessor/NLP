@@ -1,1 +1,1 @@
-{"index": 62208, "D": "convincing or believable by virtue of forcible, clear, or incisive presentation; telling.", "S": ["compelling ", "convincing ", "forceful ", "persuasive ", "telling ", "weighty "], "A": ["ineffective ", "unimportant "]}
+{"index": 62208, "D": "convincing or believable by virtue of forcible, clear, or incisive presentation; telling.", "S": ["compelling", "convincing", "forceful", "persuasive", "telling", "weighty"], "A": ["ineffective", "unimportant"]}

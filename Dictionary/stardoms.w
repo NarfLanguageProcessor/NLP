@@ -1,1 +1,1 @@
-{"index": 302876, "D": "the world or class of professional stars,  as of the stage.", "S": ["acclaim ", "celebrity ", "glory ", "greatness ", "immortality ", "notoriety ", "popularity ", "prominence ", "recognition ", "renown "], "A": ["obscurity ", "unimportance ", "lowliness "]}
+{"index": 302876, "D": "the world or class of professional stars,  as of the stage.", "S": ["acclaim", "celebrity", "glory", "greatness", "immortality", "notoriety", "popularity", "prominence", "recognition", "renown"], "A": ["obscurity", "unimportance", "lowliness"]}

@@ -1,1 +1,1 @@
-{"index": 40851, "D": "water saturated or strongly impregnated with salt.", "S": ["marinade ", "vinegar "], "A": []}
+{"index": 40851, "D": "water saturated or strongly impregnated with salt.", "S": ["marinade", "vinegar"], "A": []}

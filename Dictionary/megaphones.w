@@ -1,1 +1,1 @@
-{"index": 182480, "D": "Compare bullhorn. ", "S": ["bullhorn ", "megaphone ", "public address system "], "A": []}
+{"index": 182480, "D": "Compare bullhorn. ", "S": ["bullhorn", "megaphone", "public address system"], "A": []}

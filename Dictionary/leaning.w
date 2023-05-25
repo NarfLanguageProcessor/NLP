@@ -1,1 +1,1 @@
-{"index": 169631, "D": "inclination; tendency", "S": ["inclination ", "predilection ", "propensity ", "sentiment "], "A": ["antipathy ", "dislike ", "hate ", "disinclination ", "fairness ", "hatred ", "impartiality ", "justice "]}
+{"index": 169631, "D": "inclination; tendency", "S": ["inclination", "predilection", "propensity", "sentiment"], "A": ["antipathy", "dislike", "hate", "disinclination", "fairness", "hatred", "impartiality", "justice"]}

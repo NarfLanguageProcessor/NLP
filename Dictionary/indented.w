@@ -1,1 +1,1 @@
-{"index": 150782, "D": "to form deep recesses in", "S": ["paragraphed ", "sectioned "], "A": []}
+{"index": 150782, "D": "to form deep recesses in", "S": ["paragraphed", "sectioned"], "A": []}

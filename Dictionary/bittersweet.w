@@ -1,1 +1,1 @@
-{"index": 35263, "D": "both bitter  and sweet  to the taste", "S": ["poignant ", "stirring ", "touching "], "A": []}
+{"index": 35263, "D": "both bitter  and sweet  to the taste", "S": ["poignant", "stirring", "touching"], "A": []}

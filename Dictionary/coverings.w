@@ -1,1 +1,1 @@
-{"index": 71490, "D": "something laid over or wrapped around a thing, especially for concealment, protection, or warmth.", "S": ["cover ", "housing ", "integument ", "shelter "], "A": []}
+{"index": 71490, "D": "something laid over or wrapped around a thing, especially for concealment, protection, or warmth.", "S": ["cover", "housing", "integument", "shelter"], "A": []}

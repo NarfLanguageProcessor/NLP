@@ -1,1 +1,1 @@
-{"index": 262461, "D": "to repair, especially to dismantle and reassemble with new parts", "S": ["built ", "fixed ", "mended ", "reconstructed ", "reorganized ", "repaired ", "restored "], "A": ["broken "]}
+{"index": 262461, "D": "to repair, especially to dismantle and reassemble with new parts", "S": ["built", "fixed", "mended", "reconstructed", "reorganized", "repaired", "restored"], "A": ["broken"]}

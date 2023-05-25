@@ -1,1 +1,1 @@
-{"index": 144388, "D": "restricted to the house,  as by bad weather or illness.", "S": ["broken ", "damaged ", "deformed ", "handicapped ", "harmed ", "impaired ", "mangled ", "marred ", "paralyzed "], "A": ["OK ", "fixed ", "perfect ", "unbroken ", "working ", "able ", "capable "]}
+{"index": 144388, "D": "restricted to the house,  as by bad weather or illness.", "S": ["broken", "damaged", "deformed", "handicapped", "harmed", "impaired", "mangled", "marred", "paralyzed"], "A": ["OK", "fixed", "perfect", "unbroken", "working", "able", "capable"]}

@@ -1,1 +1,1 @@
-{"index": 215824, "D": "Officers' Training Corps.", "S": ["retail ", "without a prescription "], "A": []}
+{"index": 215824, "D": "Officers' Training Corps.", "S": ["retail", "without a prescription"], "A": []}

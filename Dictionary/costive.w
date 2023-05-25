@@ -1,1 +1,1 @@
-{"index": 70194, "D": "suffering from constipation; constipated. ", "S": ["cheap ", "close ", "close-fisted ", "frugal ", "miserly ", "parsimonious ", "penny-pinching ", "penurious ", "pinching ", "tight ", "tightfisted "], "A": []}
+{"index": 70194, "D": "suffering from constipation; constipated. ", "S": ["cheap", "close", "close-fisted", "frugal", "miserly", "parsimonious", "penny-pinching", "penurious", "pinching", "tight", "tightfisted"], "A": []}

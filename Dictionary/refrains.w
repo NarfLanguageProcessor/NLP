@@ -1,1 +1,1 @@
-{"index": 265350, "D": "to abstain from an impulse to say or do something (often followed by from)", "S": ["melody ", "theme "], "A": ["silence "]}
+{"index": 265350, "D": "to abstain from an impulse to say or do something (often followed by from)", "S": ["melody", "theme"], "A": ["silence"]}

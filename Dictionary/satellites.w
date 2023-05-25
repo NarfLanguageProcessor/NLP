@@ -1,1 +1,1 @@
-{"index": 278684, "D": "a natural body that revolves around a planet; a moon.", "S": ["asteroid ", "moon ", "planetoid "], "A": []}
+{"index": 278684, "D": "a natural body that revolves around a planet; a moon.", "S": ["asteroid", "moon", "planetoid"], "A": []}

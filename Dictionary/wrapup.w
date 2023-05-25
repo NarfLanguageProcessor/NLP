@@ -1,1 +1,0 @@
-{"index": 367842, "D": "a final report or summary", "S": ["close ", "complete ", "conclude ", "end ", "halt ", "terminate ", "wind up "], "A": ["begin ", "commence ", "continue ", "open ", "start "]}

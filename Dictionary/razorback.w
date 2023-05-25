@@ -1,1 +1,1 @@
-{"index": 261355, "D": "a finback or rorqual.", "S": ["boar ", "pig ", "piglet ", "swine "], "A": []}
+{"index": 261355, "D": "a finback or rorqual.", "S": ["boar", "pig", "piglet", "swine"], "A": []}

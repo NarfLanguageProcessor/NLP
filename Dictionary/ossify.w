@@ -1,1 +1,1 @@
-{"index": 215492, "D": "to convert into or cause to harden like bone.", "S": ["congeal ", "fossilize ", "freeze ", "harden ", "indurate ", "petrify ", "solidify ", "stiffen ", "thicken "], "A": ["liquefy ", "melt ", "soften ", "thin "]}
+{"index": 215492, "D": "to convert into or cause to harden like bone.", "S": ["congeal", "fossilize", "freeze", "harden", "indurate", "petrify", "solidify", "stiffen", "thicken"], "A": ["liquefy", "melt", "soften", "thin"]}

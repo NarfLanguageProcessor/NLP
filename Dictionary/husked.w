@@ -1,1 +1,1 @@
-{"index": 145350, "D": "the dry external covering of certain fruits or seeds, especially of an ear of corn.", "S": ["capsule ", "husk ", "skin "], "A": []}
+{"index": 145350, "D": "the dry external covering of certain fruits or seeds, especially of an ear of corn.", "S": ["capsule", "husk", "skin"], "A": []}

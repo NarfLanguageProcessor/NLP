@@ -1,1 +1,1 @@
-{"index": 325804, "D": "a sweetheart; darling. ", "S": ["dogs ", "hoof ", "hooves "], "A": []}
+{"index": 325804, "D": "a sweetheart; darling. ", "S": ["dogs", "hoof", "hooves"], "A": []}

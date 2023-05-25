@@ -1,1 +1,1 @@
-{"index": 70525, "D": "a sauce made with pur\u00e9ed vegetables or fruit and used as a base or garnish.", "S": ["dressing ", "flavoring ", "gravy ", "relish "], "A": []}
+{"index": 70525, "D": "a sauce made with pur\u00e9ed vegetables or fruit and used as a base or garnish.", "S": ["dressing", "flavoring", "gravy", "relish"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 188890, "D": "a mishap or misfortune.", "S": ["accident ", "calamity ", "catastrophe ", "contretemps ", "misadventure ", "miscalculation ", "misfortune ", "mishap "], "A": ["blessing ", "good fortune ", "good luck ", "happiness ", "success "]}
+{"index": 188890, "D": "a mishap or misfortune.", "S": ["accident", "calamity", "catastrophe", "contretemps", "misadventure", "miscalculation", "misfortune", "mishap"], "A": ["blessing", "good fortune", "good luck", "happiness", "success"]}

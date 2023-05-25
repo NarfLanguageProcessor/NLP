@@ -1,1 +1,0 @@
-{"index": 224843, "D": "universal wisdom or knowledge.", "S": ["accomplished ", "educated ", "scholarly ", "scientific ", "studied ", "well-educated "], "A": ["uneducated ", "green ", "ignorant ", "immature ", "inexperienced ", "unsophisticated "]}

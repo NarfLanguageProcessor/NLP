@@ -1,1 +1,1 @@
-{"index": 106655, "D": "to give up (something) for something else; part with for some equivalent; change for another.", "S": ["swap "], "A": ["continue ", "deny ", "hold ", "keep ", "leave alone ", "refuse ", "remain "]}
+{"index": 106655, "D": "to give up (something) for something else; part with for some equivalent; change for another.", "S": ["swap"], "A": ["continue", "deny", "hold", "keep", "leave alone", "refuse", "remain"]}

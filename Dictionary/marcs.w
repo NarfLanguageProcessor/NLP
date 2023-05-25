@@ -1,1 +1,1 @@
-{"index": 179937, "D": "the grapes contained in the wine press and the residue, as skins and pips, remaining after the juice is expressed.", "S": ["whiskey "], "A": []}
+{"index": 179937, "D": "the grapes contained in the wine press and the residue, as skins and pips, remaining after the juice is expressed.", "S": ["whiskey"], "A": []}

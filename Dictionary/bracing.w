@@ -1,1 +1,1 @@
-{"index": 39503, "D": "strengthening; invigorating", "S": ["invigorating ", "refreshing "], "A": ["friendly ", "hot ", "responsive ", "temperate ", "warm "]}
+{"index": 39503, "D": "strengthening; invigorating", "S": ["invigorating", "refreshing"], "A": ["friendly", "hot", "responsive", "temperate", "warm"]}

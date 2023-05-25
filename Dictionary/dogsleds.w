@@ -1,1 +1,1 @@
-{"index": 90990, "D": "a sled  pulled by dogs,  especially one used by Arctic peoples, as in Alaska and Canada.", "S": ["bobsled ", "luge "], "A": []}
+{"index": 90990, "D": "a sled  pulled by dogs,  especially one used by Arctic peoples, as in Alaska and Canada.", "S": ["bobsled", "luge"], "A": []}

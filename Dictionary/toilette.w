@@ -1,1 +1,1 @@
-{"index": 325149, "D": "toilet (defs. 6, 8). ", "S": ["ablutions ", "attire ", "dressing ", "grooming ", "makeup "], "A": []}
+{"index": 325149, "D": "toilet (defs. 6, 8). ", "S": ["ablutions", "attire", "dressing", "grooming", "makeup"], "A": []}

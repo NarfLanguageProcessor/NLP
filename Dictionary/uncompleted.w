@@ -1,1 +1,1 @@
-{"index": 337396, "D": "having all parts or elements; lacking nothing; whole; entire; full", "S": ["bare ", "barren ", "untouched ", "unused ", "vacant "], "A": ["full ", "dirty ", "filled "]}
+{"index": 337396, "D": "having all parts or elements; lacking nothing; whole; entire; full", "S": ["bare", "barren", "untouched", "unused", "vacant"], "A": ["full", "dirty", "filled"]}

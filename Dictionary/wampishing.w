@@ -1,1 +1,0 @@
-{"index": 362344, "D": "to wave about or flop to and fro.", "S": [], "A": []}

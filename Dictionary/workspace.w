@@ -1,1 +1,1 @@
-{"index": 367545, "D": "space used or required for one's work, as in an office or home.", "S": ["counter "], "A": []}
+{"index": 367545, "D": "space used or required for one's work, as in an office or home.", "S": ["counter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150666, "D": [], "S": ["constrain ", "oblige "], "A": ["free ", "let go ", "release "]}
+{"index": 150666, "D": [], "S": ["constrain", "oblige"], "A": ["free", "let go", "release"]}

@@ -1,1 +1,1 @@
-{"index": 152419, "D": "the act or process of infusing.", "S": ["admixture ", "mixture ", "strain "], "A": []}
+{"index": 152419, "D": "the act or process of infusing.", "S": ["admixture", "mixture", "strain"], "A": []}

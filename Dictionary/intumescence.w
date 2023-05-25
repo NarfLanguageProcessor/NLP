@@ -1,1 +1,1 @@
-{"index": 156915, "D": "a swelling up, as with congestion.", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}
+{"index": 156915, "D": "a swelling up, as with congestion.", "S": ["lump", "nodule", "wart"], "A": ["depression"]}

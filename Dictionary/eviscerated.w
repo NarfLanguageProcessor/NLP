@@ -1,1 +1,1 @@
-{"index": 106271, "D": "having the entrails or guts removed; disemboweled", "S": ["devitalize ", "gut ", "weaken "], "A": []}
+{"index": 106271, "D": "having the entrails or guts removed; disemboweled", "S": ["devitalize", "gut", "weaken"], "A": []}

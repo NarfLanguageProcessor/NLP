@@ -1,1 +1,1 @@
-{"index": 248143, "D": [], "S": ["discern ", "envisage ", "expect ", "forecast ", "foretell ", "perceive ", "presage ", "understand "], "A": ["misinterpret ", "misunderstand ", "neglect ", "overlook "]}
+{"index": 248143, "D": [], "S": ["discern", "envisage", "expect", "forecast", "foretell", "perceive", "presage", "understand"], "A": ["misinterpret", "misunderstand", "neglect", "overlook"]}

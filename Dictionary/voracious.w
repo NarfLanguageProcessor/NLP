@@ -1,1 +1,1 @@
-{"index": 361352, "D": "craving or consuming large quantities of food", "S": ["avid ", "insatiable ", "prodigious ", "rapacious ", "ravenous "], "A": ["full ", "satisfied "]}
+{"index": 361352, "D": "craving or consuming large quantities of food", "S": ["avid", "insatiable", "prodigious", "rapacious", "ravenous"], "A": ["full", "satisfied"]}

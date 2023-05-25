@@ -1,1 +1,1 @@
-{"index": 64349, "D": "joined or packed together; closely and firmly united; dense; solid", "S": ["closeness ", "concentration ", "denseness ", "density ", "solidity ", "solidness ", "tightness "], "A": []}
+{"index": 64349, "D": "joined or packed together; closely and firmly united; dense; solid", "S": ["closeness", "concentration", "denseness", "density", "solidity", "solidness", "tightness"], "A": []}

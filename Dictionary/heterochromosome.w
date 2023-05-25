@@ -1,1 +1,1 @@
-{"index": 137503, "D": "sex chromosome. ", "S": ["X chromosome ", "Y chromosome ", "idiochromosome ", "sex chromatid ", "sex chromatin "], "A": []}
+{"index": 137503, "D": "sex chromosome. ", "S": ["X chromosome", "Y chromosome", "idiochromosome", "sex chromatid", "sex chromatin"], "A": []}

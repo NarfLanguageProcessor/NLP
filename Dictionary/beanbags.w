@@ -1,1 +1,1 @@
-{"index": 29475, "D": "a small cloth bag  filled with dried beans,  as for tossing in various children's games.", "S": ["buffer ", "headrest ", "mat "], "A": []}
+{"index": 29475, "D": "a small cloth bag  filled with dried beans,  as for tossing in various children's games.", "S": ["buffer", "headrest", "mat"], "A": []}

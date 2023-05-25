@@ -1,1 +1,1 @@
-{"index": 43506, "D": "a thick-soled, laced boot or half boot.", "S": ["chaps ", "puttees ", "putts ", "stockings "], "A": []}
+{"index": 43506, "D": "a thick-soled, laced boot or half boot.", "S": ["chaps", "puttees", "putts", "stockings"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 359766, "D": "the plural of villus", "S": ["eyebrow ", "fiber ", "fur ", "grass ", "haircut ", "hairstyle ", "mane ", "sideburn ", "strand ", "wig ", "wool "], "A": []}
+{"index": 359766, "D": "the plural of villus", "S": ["eyebrow", "fiber", "fur", "grass", "haircut", "hairstyle", "mane", "sideburn", "strand", "wig", "wool"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98906, "D": "containing nothing; having none of the usual or appropriate contents", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}
+{"index": 98906, "D": "containing nothing; having none of the usual or appropriate contents", "S": ["desperately", "sadly"], "A": ["confidently", "expectantly", "hopefully"]}

@@ -1,1 +1,1 @@
-{"index": 3848, "D": "a person who follows or upholds a leader, cause, etc.; supporter; follower.", "S": ["audience "], "A": ["opposition "]}
+{"index": 3848, "D": "a person who follows or upholds a leader, cause, etc.; supporter; follower.", "S": ["audience"], "A": ["opposition"]}

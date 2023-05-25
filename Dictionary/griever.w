@@ -1,1 +1,1 @@
-{"index": 129812, "D": "to feel grief  or great sorrow", "S": ["pallbearer "], "A": []}
+{"index": 129812, "D": "to feel grief  or great sorrow", "S": ["pallbearer"], "A": []}

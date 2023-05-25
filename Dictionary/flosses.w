@@ -1,1 +1,1 @@
-{"index": 115098, "D": "the cottony fiber yielded by the silk-cotton tree.", "S": ["embellishment ", "ornament "], "A": []}
+{"index": 115098, "D": "the cottony fiber yielded by the silk-cotton tree.", "S": ["embellishment", "ornament"], "A": []}

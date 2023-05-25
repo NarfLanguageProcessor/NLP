@@ -1,1 +1,1 @@
-{"index": 122143, "D": "an amiable giant and king, noted for his enormous capacity for food and drink, in Rabelais' Gargantua and Pantagruel.", "S": ["Hercules ", "Samson ", "behemoth ", "cyclops ", "giant ", "goliath ", "leviathan ", "mammoth ", "titan "], "A": []}
+{"index": 122143, "D": "an amiable giant and king, noted for his enormous capacity for food and drink, in Rabelais' Gargantua and Pantagruel.", "S": ["Hercules", "Samson", "behemoth", "cyclops", "giant", "goliath", "leviathan", "mammoth", "titan"], "A": []}

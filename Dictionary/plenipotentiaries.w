@@ -1,1 +1,1 @@
-{"index": 239799, "D": "a person, especially a diplomatic agent, invested with full power or authority to transact business on behalf of another.", "S": ["agent ", "ambassador ", "diplomat ", "emissary "], "A": []}
+{"index": 239799, "D": "a person, especially a diplomatic agent, invested with full power or authority to transact business on behalf of another.", "S": ["agent", "ambassador", "diplomat", "emissary"], "A": []}

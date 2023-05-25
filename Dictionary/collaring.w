@@ -1,1 +1,1 @@
-{"index": 62850, "D": "the part of a shirt, coat, dress, blouse, etc., that encompasses the neckline of the garment and is sewn permanently to it, often so as to fold or roll over.", "S": ["choker "], "A": []}
+{"index": 62850, "D": "the part of a shirt, coat, dress, blouse, etc., that encompasses the neckline of the garment and is sewn permanently to it, often so as to fold or roll over.", "S": ["choker"], "A": []}

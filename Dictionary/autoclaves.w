@@ -1,1 +1,1 @@
-{"index": 23953, "D": "a heavy vessel for conducting chemical reactions under high pressure.", "S": ["airtight pot "], "A": []}
+{"index": 23953, "D": "a heavy vessel for conducting chemical reactions under high pressure.", "S": ["airtight pot"], "A": []}

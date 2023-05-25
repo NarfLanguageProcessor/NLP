@@ -1,1 +1,1 @@
-{"index": 104102, "D": "a continuously moving stairway on an endless loop for carrying passengers up or down.", "S": ["moving stairway ", "people mover "], "A": []}
+{"index": 104102, "D": "a continuously moving stairway on an endless loop for carrying passengers up or down.", "S": ["moving stairway", "people mover"], "A": []}

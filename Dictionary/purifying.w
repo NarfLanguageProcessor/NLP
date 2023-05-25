@@ -1,1 +1,1 @@
-{"index": 256951, "D": "to make pure; free from anything that debases, pollutes, adulterates, or contaminates", "S": ["hygienic ", "sterile "], "A": ["dirty "]}
+{"index": 256951, "D": "to make pure; free from anything that debases, pollutes, adulterates, or contaminates", "S": ["hygienic", "sterile"], "A": ["dirty"]}

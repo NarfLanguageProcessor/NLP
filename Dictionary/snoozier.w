@@ -1,1 +1,1 @@
-{"index": 295716, "D": "to sleep; slumber; doze; nap", "S": ["lackadaisical ", "laid-back ", "languorous ", "lazy ", "leisurely ", "lethargic ", "sluggish ", "unhurried "], "A": ["active ", "energetic ", "hard-working ", "hurried ", "lively "]}
+{"index": 295716, "D": "to sleep; slumber; doze; nap", "S": ["lackadaisical", "laid-back", "languorous", "lazy", "leisurely", "lethargic", "sluggish", "unhurried"], "A": ["active", "energetic", "hard-working", "hurried", "lively"]}

@@ -1,1 +1,1 @@
-{"index": 42802, "D": "bunko. ", "S": ["delude ", "pretend "], "A": ["protect ", "support "]}
+{"index": 42802, "D": "bunko. ", "S": ["delude", "pretend"], "A": ["protect", "support"]}

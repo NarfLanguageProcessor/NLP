@@ -1,1 +1,1 @@
-{"index": 87780, "D": "passing aimlessly from one subject to another; digressive; rambling.", "S": ["deviating ", "digressive ", "erratic ", "excursive ", "long-winded ", "meandering ", "prolix ", "roaming ", "roving ", "spreading ", "wandering "], "A": []}
+{"index": 87780, "D": "passing aimlessly from one subject to another; digressive; rambling.", "S": ["deviating", "digressive", "erratic", "excursive", "long-winded", "meandering", "prolix", "roaming", "roving", "spreading", "wandering"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 277305, "D": "an ocean-going sailor.", "S": ["belligerent ", "combativeness ", "contentiousness ", "contrary ", "scrappiness "], "A": []}
+{"index": 277305, "D": "an ocean-going sailor.", "S": ["belligerent", "combativeness", "contentiousness", "contrary", "scrappiness"], "A": []}

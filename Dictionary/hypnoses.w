@@ -1,1 +1,1 @@
-{"index": 140725, "D": "the ancient Greek god of sleep.", "S": ["opiate "], "A": ["analeptic ", "stimulant "]}
+{"index": 140725, "D": "the ancient Greek god of sleep.", "S": ["opiate"], "A": ["analeptic", "stimulant"]}

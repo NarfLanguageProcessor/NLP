@@ -1,1 +1,1 @@
-{"index": 21762, "D": "with careful and consistent effort; diligently or tirelessly", "S": ["completely ", "comprehensively ", "from A to Z ", "from top to bottom ", "fully ", "in and out ", "inside out ", "thoroughly ", "through and through ", "up and down ", "whole hog "], "A": []}
+{"index": 21762, "D": "with careful and consistent effort; diligently or tirelessly", "S": ["completely", "comprehensively", "from A to Z", "from top to bottom", "fully", "in and out", "inside out", "thoroughly", "through and through", "up and down", "whole hog"], "A": []}

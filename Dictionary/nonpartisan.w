@@ -1,1 +1,1 @@
-{"index": 205774, "D": "not partisan; objective. ", "S": ["independent ", "neutral ", "nonaligned ", "unbiased ", "uninvolved "], "A": ["biased ", "prejudiced ", "partial ", "unfair "]}
+{"index": 205774, "D": "not partisan; objective. ", "S": ["independent", "neutral", "nonaligned", "unbiased", "uninvolved"], "A": ["biased", "prejudiced", "partial", "unfair"]}

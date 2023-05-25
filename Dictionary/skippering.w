@@ -1,1 +1,1 @@
-{"index": 293311, "D": "the practice of sleeping rough", "S": ["cross ", "cruise ", "handle ", "maneuver ", "operate ", "sail ", "steer "], "A": ["neglect ", "forget "]}
+{"index": 293311, "D": "the practice of sleeping rough", "S": ["cross", "cruise", "handle", "maneuver", "operate", "sail", "steer"], "A": ["neglect", "forget"]}

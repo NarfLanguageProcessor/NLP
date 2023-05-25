@@ -1,1 +1,1 @@
-{"index": 81638, "D": [], "S": ["peeling ", "shedding "], "A": []}
+{"index": 81638, "D": [], "S": ["peeling", "shedding"], "A": []}

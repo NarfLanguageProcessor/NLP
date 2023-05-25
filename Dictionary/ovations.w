@@ -1,1 +1,1 @@
-{"index": 218056, "D": "an enthusiastic public reception of a person, marked especially by loud and prolonged applause.", "S": ["acclaim ", "acclamation ", "applause ", "testimonial "], "A": ["disapproval ", "blame ", "criticism "]}
+{"index": 218056, "D": "an enthusiastic public reception of a person, marked especially by loud and prolonged applause.", "S": ["acclaim", "acclamation", "applause", "testimonial"], "A": ["disapproval", "blame", "criticism"]}

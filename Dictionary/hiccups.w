@@ -1,1 +1,1 @@
-{"index": 138290, "D": "a quick, involuntary inhalation that follows a spasm of the diaphragm and is suddenly checked by closure of the glottis, producing a short, relatively sharp sound.", "S": ["hiccough ", "singultus "], "A": []}
+{"index": 138290, "D": "a quick, involuntary inhalation that follows a spasm of the diaphragm and is suddenly checked by closure of the glottis, producing a short, relatively sharp sound.", "S": ["hiccough", "singultus"], "A": []}

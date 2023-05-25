@@ -1,1 +1,1 @@
-{"index": 287634, "D": "a person or thing that shaves. ", "S": ["beautician ", "coiffeur ", "coiffeuse ", "cosmetologist ", "hairdresser "], "A": []}
+{"index": 287634, "D": "a person or thing that shaves. ", "S": ["beautician", "coiffeur", "coiffeuse", "cosmetologist", "hairdresser"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 162383, "D": "German aircraft designer and builder.", "S": ["heap ", "junker ", "wreck "], "A": []}
+{"index": 162383, "D": "German aircraft designer and builder.", "S": ["heap", "junker", "wreck"], "A": []}

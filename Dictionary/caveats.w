@@ -1,1 +1,1 @@
-{"index": 50177, "D": "a warning or caution; admonition.", "S": ["admonition "], "A": []}
+{"index": 50177, "D": "a warning or caution; admonition.", "S": ["admonition"], "A": []}

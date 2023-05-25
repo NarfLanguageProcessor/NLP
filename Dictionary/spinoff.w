@@ -1,1 +1,1 @@
-{"index": 299937, "D": "Compare carveout (def. 1), split-off (def. 3), split-up (def. 3). ", "S": ["by-product ", "derivative ", "offshoot ", "outgrowth ", "spin-off "], "A": []}
+{"index": 299937, "D": "Compare carveout (def. 1), split-off (def. 3), split-up (def. 3). ", "S": ["by-product", "derivative", "offshoot", "outgrowth", "spin-off"], "A": []}

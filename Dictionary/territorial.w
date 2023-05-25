@@ -1,1 +1,1 @@
-{"index": 319600, "D": "of or relating to territory  or land.", "S": ["provincial "], "A": []}
+{"index": 319600, "D": "of or relating to territory  or land.", "S": ["provincial"], "A": []}

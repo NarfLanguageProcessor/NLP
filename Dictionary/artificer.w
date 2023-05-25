@@ -1,1 +1,1 @@
-{"index": 20716, "D": "a person who is skillful or clever in devising ways of making things; inventor.", "S": ["builder ", "carpenter ", "craftsman ", "professional "], "A": ["apprentice "]}
+{"index": 20716, "D": "a person who is skillful or clever in devising ways of making things; inventor.", "S": ["builder", "carpenter", "craftsman", "professional"], "A": ["apprentice"]}

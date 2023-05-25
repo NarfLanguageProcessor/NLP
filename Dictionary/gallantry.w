@@ -1,1 +1,1 @@
-{"index": 121305, "D": "dashing courage; heroic bravery; noble-minded behavior.", "S": ["boldness ", "courage ", "valor "], "A": ["cowardice ", "fear ", "dishonor ", "disregard ", "disrespect ", "impoliteness ", "modesty ", "rudeness ", "timidity ", "weakness "]}
+{"index": 121305, "D": "dashing courage; heroic bravery; noble-minded behavior.", "S": ["boldness", "courage", "valor"], "A": ["cowardice", "fear", "dishonor", "disregard", "disrespect", "impoliteness", "modesty", "rudeness", "timidity", "weakness"]}

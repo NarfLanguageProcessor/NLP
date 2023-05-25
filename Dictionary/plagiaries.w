@@ -1,1 +1,1 @@
-{"index": 238639, "D": "plagiarism. ", "S": ["plagiarist ", "plagiarizer ", "stealer "], "A": []}
+{"index": 238639, "D": "plagiarism. ", "S": ["plagiarist", "plagiarizer", "stealer"], "A": []}

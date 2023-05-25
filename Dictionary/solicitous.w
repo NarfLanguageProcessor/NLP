@@ -1,1 +1,1 @@
-{"index": 296704, "D": "anxious or concerned (usually followed by about, for, etc., or a clause)", "S": ["attentive ", "loving ", "mindful ", "worried ", "zealous "], "A": ["heedless ", "inattentive "]}
+{"index": 296704, "D": "anxious or concerned (usually followed by about, for, etc., or a clause)", "S": ["attentive", "loving", "mindful", "worried", "zealous"], "A": ["heedless", "inattentive"]}

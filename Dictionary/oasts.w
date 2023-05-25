@@ -1,1 +1,1 @@
-{"index": 209924, "D": "a kiln for drying hops or malt.", "S": ["furnace ", "stove "], "A": []}
+{"index": 209924, "D": "a kiln for drying hops or malt.", "S": ["furnace", "stove"], "A": []}

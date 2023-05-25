@@ -1,1 +1,1 @@
-{"index": 116954, "D": "to show or indicate beforehand; prefigure", "S": ["augur ", "foretell ", "imply ", "portend ", "predict ", "prefigure ", "presage "], "A": []}
+{"index": 116954, "D": "to show or indicate beforehand; prefigure", "S": ["augur", "foretell", "imply", "portend", "predict", "prefigure", "presage"], "A": []}

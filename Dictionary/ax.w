@@ -1,1 +1,1 @@
-{"index": 25072, "D": "an instrument with a bladed head on a handle or helve, used for hewing, cleaving, chopping, etc.", "S": ["can ", "cleaver ", "discharge ", "fire ", "hatchet ", "poll ", "sack ", "tomahawk "], "A": ["employ ", "hire "]}
+{"index": 25072, "D": "an instrument with a bladed head on a handle or helve, used for hewing, cleaving, chopping, etc.", "S": ["can", "cleaver", "discharge", "fire", "hatchet", "poll", "sack", "tomahawk"], "A": ["employ", "hire"]}

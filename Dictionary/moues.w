@@ -1,1 +1,1 @@
-{"index": 194144, "D": "a pouting grimace.", "S": ["frown ", "grimace ", "kisser ", "mouth ", "mug ", "physiognomy ", "pout ", "smile ", "smirk "], "A": ["grin "]}
+{"index": 194144, "D": "a pouting grimace.", "S": ["frown", "grimace", "kisser", "mouth", "mug", "physiognomy", "pout", "smile", "smirk"], "A": ["grin"]}

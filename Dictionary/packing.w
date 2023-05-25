@@ -1,1 +1,1 @@
-{"index": 222747, "D": "the act or work of a person or thing that packs. ", "S": ["Styrofoam "], "A": []}
+{"index": 222747, "D": "the act or work of a person or thing that packs. ", "S": ["Styrofoam"], "A": []}

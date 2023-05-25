@@ -1,1 +1,1 @@
-{"index": 110186, "D": "to attach firmly or securely in place; fix securely to something else.", "S": ["fixed ", "secured ", "tied "], "A": []}
+{"index": 110186, "D": "to attach firmly or securely in place; fix securely to something else.", "S": ["fixed", "secured", "tied"], "A": []}

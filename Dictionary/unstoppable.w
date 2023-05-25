@@ -1,1 +1,1 @@
-{"index": 352092, "D": "that cannot be stopped or surpassed; unbeatable", "S": ["boisterous ", "buoyant ", "ebullient ", "rebellious "], "A": ["depressed ", "despondent ", "grave ", "hopeless ", "serious "]}
+{"index": 352092, "D": "that cannot be stopped or surpassed; unbeatable", "S": ["boisterous", "buoyant", "ebullient", "rebellious"], "A": ["depressed", "despondent", "grave", "hopeless", "serious"]}

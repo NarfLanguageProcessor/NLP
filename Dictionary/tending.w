@@ -1,1 +1,1 @@
-{"index": 318775, "D": "to be disposed or inclined in action, operation, or effect to do something", "S": ["disposed ", "given ", "leaning "], "A": ["avoiding ", "neglecting "]}
+{"index": 318775, "D": "to be disposed or inclined in action, operation, or effect to do something", "S": ["disposed", "given", "leaning"], "A": ["avoiding", "neglecting"]}

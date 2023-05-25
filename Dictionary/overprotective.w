@@ -1,1 +1,1 @@
-{"index": 220695, "D": "unduly protective. ", "S": ["protecting ", "protective ", "shielding "], "A": ["careless "]}
+{"index": 220695, "D": "unduly protective. ", "S": ["protecting", "protective", "shielding"], "A": ["careless"]}

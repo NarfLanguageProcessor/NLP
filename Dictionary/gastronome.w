@@ -1,1 +1,1 @@
-{"index": 122619, "D": "a connoisseur of good food; gourmet; epicure.", "S": ["gourmand ", "gourmet "], "A": []}
+{"index": 122619, "D": "a connoisseur of good food; gourmet; epicure.", "S": ["gourmand", "gourmet"], "A": []}

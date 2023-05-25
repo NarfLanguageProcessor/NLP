@@ -1,1 +1,1 @@
-{"index": 5477, "D": "to free from a state of dependence, servitude, or obligation.", "S": ["liberate ", "loosen "], "A": ["detain ", "hold ", "imprison ", "keep "]}
+{"index": 5477, "D": "to free from a state of dependence, servitude, or obligation.", "S": ["liberate", "loosen"], "A": ["detain", "hold", "imprison", "keep"]}

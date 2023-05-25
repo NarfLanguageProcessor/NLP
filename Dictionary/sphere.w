@@ -1,1 +1,1 @@
-{"index": 299496, "D": "the surface of such a figure; a spherical  surface.", "S": ["circle ", "orb ", "planet "], "A": []}
+{"index": 299496, "D": "the surface of such a figure; a spherical  surface.", "S": ["circle", "orb", "planet"], "A": []}

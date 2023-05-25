@@ -1,1 +1,1 @@
-{"index": 19580, "D": "to present reasons for or against a thing", "S": ["debated "], "A": []}
+{"index": 19580, "D": "to present reasons for or against a thing", "S": ["debated"], "A": []}

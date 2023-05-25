@@ -1,1 +1,1 @@
-{"index": 157356, "D": "incapable of being wounded, hurt, or damaged.", "S": ["bulletproof ", "impassable ", "impenetrable ", "impregnable ", "indestructible ", "unbeatable ", "untouchable "], "A": []}
+{"index": 157356, "D": "incapable of being wounded, hurt, or damaged.", "S": ["bulletproof", "impassable", "impenetrable", "impregnable", "indestructible", "unbeatable", "untouchable"], "A": []}

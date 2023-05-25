@@ -1,1 +1,1 @@
-{"index": 328940, "D": "the general course or prevailing tendency; drift", "S": ["direction ", "movement ", "tendency "], "A": []}
+{"index": 328940, "D": "the general course or prevailing tendency; drift", "S": ["direction", "movement", "tendency"], "A": []}

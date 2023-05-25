@@ -1,1 +1,1 @@
-{"index": 172356, "D": "a boundary, especially the fortified border or frontier of a country.", "S": ["adhesive ", "cement ", "glue ", "lime ", "mortar ", "stucco "], "A": []}
+{"index": 172356, "D": "a boundary, especially the fortified border or frontier of a country.", "S": ["adhesive", "cement", "glue", "lime", "mortar", "stucco"], "A": []}

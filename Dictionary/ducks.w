@@ -1,1 +1,1 @@
-{"index": 93771, "D": "clothing made of duck, esp white trousers for sports", "S": ["bend ", "bow ", "crouch ", "dive ", "dodge ", "elude ", "escape ", "evade ", "shun ", "sidestep "], "A": ["confront ", "encounter ", "face ", "meet ", "take on ", "ascend ", "increase ", "raise ", "rise "]}
+{"index": 93771, "D": "clothing made of duck, esp white trousers for sports", "S": ["bend", "bow", "crouch", "dive", "dodge", "elude", "escape", "evade", "shun", "sidestep"], "A": ["confront", "encounter", "face", "meet", "take on", "ascend", "increase", "raise", "rise"]}

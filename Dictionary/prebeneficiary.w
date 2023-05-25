@@ -1,1 +1,0 @@
-{"index": 245840, "D": "a person or group that receives benefits, profits, or advantages.", "S": [], "A": []}

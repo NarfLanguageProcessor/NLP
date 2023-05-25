@@ -1,1 +1,1 @@
-{"index": 219307, "D": "excessively friendly, informal, or intimate", "S": ["arrogant ", "foolhardy ", "overconfident ", "pompous ", "pretentious ", "pushy ", "rude ", "smug "], "A": ["cautious ", "humble ", "modest ", "unassuming "]}
+{"index": 219307, "D": "excessively friendly, informal, or intimate", "S": ["arrogant", "foolhardy", "overconfident", "pompous", "pretentious", "pushy", "rude", "smug"], "A": ["cautious", "humble", "modest", "unassuming"]}

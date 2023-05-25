@@ -1,1 +1,1 @@
-{"index": 77000, "D": "the act of a person or thing that darns. ", "S": ["crocheting ", "embroidery ", "knitting ", "lace ", "quilting ", "sewing ", "stitchery ", "stitching ", "tatting "], "A": []}
+{"index": 77000, "D": "the act of a person or thing that darns. ", "S": ["crocheting", "embroidery", "knitting", "lace", "quilting", "sewing", "stitchery", "stitching", "tatting"], "A": []}

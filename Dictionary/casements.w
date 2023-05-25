@@ -1,1 +1,1 @@
-{"index": 48830, "D": "a window sash opening on hinges that are generally attached to the upright side of its frame.", "S": ["belt ", "cincture ", "corset ", "cummerbund ", "frame ", "girdle ", "obi ", "ribbon ", "scarf ", "waistband "], "A": []}
+{"index": 48830, "D": "a window sash opening on hinges that are generally attached to the upright side of its frame.", "S": ["belt", "cincture", "corset", "cummerbund", "frame", "girdle", "obi", "ribbon", "scarf", "waistband"], "A": []}

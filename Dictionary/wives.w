@@ -1,1 +1,1 @@
-{"index": 366763, "D": "the plural of wife. ", "S": ["bride ", "companion ", "partner ", "roommate ", "spouse "], "A": ["enemy ", "foe "]}
+{"index": 366763, "D": "the plural of wife. ", "S": ["bride", "companion", "partner", "roommate", "spouse"], "A": ["enemy", "foe"]}

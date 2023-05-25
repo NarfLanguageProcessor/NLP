@@ -1,1 +1,1 @@
-{"index": 88832, "D": "to cause to lose one's way", "S": ["baffle ", "bewilder ", "daze ", "distract ", "dumbfound ", "fluster ", "intoxicate ", "muddle ", "puzzle ", "stupefy "], "A": ["clarify ", "clear up ", "enlighten ", "explain ", "explicate "]}
+{"index": 88832, "D": "to cause to lose one's way", "S": ["baffle", "bewilder", "daze", "distract", "dumbfound", "fluster", "intoxicate", "muddle", "puzzle", "stupefy"], "A": ["clarify", "clear up", "enlighten", "explain", "explicate"]}

@@ -1,1 +1,1 @@
-{"index": 247127, "D": "for the most part; mostly; mainly", "S": ["especially ", "essentially ", "largely ", "mostly ", "principally "], "A": []}
+{"index": 247127, "D": "for the most part; mostly; mainly", "S": ["especially", "essentially", "largely", "mostly", "principally"], "A": []}

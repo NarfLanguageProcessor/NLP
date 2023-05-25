@@ -1,1 +1,1 @@
-{"index": 255501, "D": "treatment of mental disorders by means of brain surgery. ", "S": ["ECT ", "EST ", "convulsive therapy ", "electroconvulsive therapy ", "electrotherapy ", "shock treatment "], "A": []}
+{"index": 255501, "D": "treatment of mental disorders by means of brain surgery. ", "S": ["ECT", "EST", "convulsive therapy", "electroconvulsive therapy", "electrotherapy", "shock treatment"], "A": []}

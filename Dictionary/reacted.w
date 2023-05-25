@@ -1,1 +1,1 @@
-{"index": 261517, "D": "to act in response to an agent or influence", "S": ["acknowledge ", "act ", "answer ", "behave ", "counter ", "feel ", "perform ", "proceed ", "reply ", "revert "], "A": ["cease ", "halt ", "question ", "stop ", "idle ", "keep ", "refuse "]}
+{"index": 261517, "D": "to act in response to an agent or influence", "S": ["acknowledge", "act", "answer", "behave", "counter", "feel", "perform", "proceed", "reply", "revert"], "A": ["cease", "halt", "question", "stop", "idle", "keep", "refuse"]}

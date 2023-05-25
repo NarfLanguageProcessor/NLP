@@ -1,1 +1,1 @@
-{"index": 245955, "D": "of, relating to, or characterized by precaution", "S": ["alert ", "careful ", "discreet "], "A": []}
+{"index": 245955, "D": "of, relating to, or characterized by precaution", "S": ["alert", "careful", "discreet"], "A": []}

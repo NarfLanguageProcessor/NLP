@@ -1,1 +1,1 @@
-{"index": 273521, "D": "to walk, go, or travel without a fixed purpose or direction; ramble; wander; rove", "S": ["bohemian ", "nomad ", "sharper ", "vagrant "], "A": []}
+{"index": 273521, "D": "to walk, go, or travel without a fixed purpose or direction; ramble; wander; rove", "S": ["bohemian", "nomad", "sharper", "vagrant"], "A": []}

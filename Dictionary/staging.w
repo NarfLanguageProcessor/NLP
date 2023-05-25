@@ -1,1 +1,1 @@
-{"index": 302356, "D": "the act, process, or manner of presenting a play on the stage. ", "S": ["floor ", "podium ", "terrace "], "A": []}
+{"index": 302356, "D": "the act, process, or manner of presenting a play on the stage. ", "S": ["floor", "podium", "terrace"], "A": []}

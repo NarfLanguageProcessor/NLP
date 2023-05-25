@@ -1,1 +1,1 @@
-{"index": 117379, "D": "being in accordance with the usual requirements, customs, etc.; conventional", "S": ["apparel ", "regalia "], "A": ["rags "]}
+{"index": 117379, "D": "being in accordance with the usual requirements, customs, etc.; conventional", "S": ["apparel", "regalia"], "A": ["rags"]}

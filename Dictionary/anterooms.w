@@ -1,1 +1,1 @@
-{"index": 14275, "D": "a room  that admits to a larger room. ", "S": ["compartment ", "cubicle "], "A": []}
+{"index": 14275, "D": "a room  that admits to a larger room. ", "S": ["compartment", "cubicle"], "A": []}

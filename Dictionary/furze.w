@@ -1,1 +1,1 @@
-{"index": 120543, "D": "gorse. ", "S": ["brier ", "burr ", "cleaver ", "gorse ", "hedge ", "nettle ", "prick ", "shrub ", "spray ", "thistle ", "thorn "], "A": []}
+{"index": 120543, "D": "gorse. ", "S": ["brier", "burr", "cleaver", "gorse", "hedge", "nettle", "prick", "shrub", "spray", "thistle", "thorn"], "A": []}

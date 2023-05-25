@@ -1,1 +1,1 @@
-{"index": 363904, "D": "See also weighted average", "S": ["carry ", "cram ", "fill ", "lade ", "pack ", "pile ", "stack ", "store ", "stuff "], "A": ["use ", "abstain ", "diet ", "disarrange ", "disorder ", "fast ", "lose "]}
+{"index": 363904, "D": "See also weighted average", "S": ["carry", "cram", "fill", "lade", "pack", "pile", "stack", "store", "stuff"], "A": ["use", "abstain", "diet", "disarrange", "disorder", "fast", "lose"]}

@@ -1,1 +1,0 @@
-{"index": 211838, "D": "a person or thing that oils. ", "S": ["gusher ", "oil rig ", "oilfield "], "A": []}

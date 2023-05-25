@@ -1,1 +1,1 @@
-{"index": 268382, "D": "a person who reports. ", "S": ["columnist ", "correspondent ", "editor ", "interviewer ", "journalist ", "writer "], "A": []}
+{"index": 268382, "D": "a person who reports. ", "S": ["columnist", "correspondent", "editor", "interviewer", "journalist", "writer"], "A": []}

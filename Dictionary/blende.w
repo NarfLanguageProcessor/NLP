@@ -1,0 +1,1 @@
+{"index": 36033, "D": "sphalerite; zinc sulfide.", "S": ["gold", "iron", "metal", "mineral", "platinum"], "A": []}

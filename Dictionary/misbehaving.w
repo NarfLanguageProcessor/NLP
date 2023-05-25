@@ -1,1 +1,1 @@
-{"index": 188785, "D": "to behave  badly or improperly", "S": ["wrong "], "A": ["good ", "obedient ", "well-behaved "]}
+{"index": 188785, "D": "to behave  badly or improperly", "S": ["wrong"], "A": ["good", "obedient", "well-behaved"]}

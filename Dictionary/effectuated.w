@@ -1,1 +1,1 @@
-{"index": 95970, "D": "to bring about; effect. ", "S": ["closed ", "concluded ", "decided ", "ended ", "full ", "realized ", "resolved ", "satisfied ", "settled ", "stopped "], "A": ["incomplete "]}
+{"index": 95970, "D": "to bring about; effect. ", "S": ["closed", "concluded", "decided", "ended", "full", "realized", "resolved", "satisfied", "settled", "stopped"], "A": ["incomplete"]}

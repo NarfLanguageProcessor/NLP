@@ -1,1 +1,1 @@
-{"index": 155986, "D": "connecting or involving different states", "S": ["expressway ", "freeway ", "interstate ", "roadway ", "state highway ", "superhighway "], "A": []}
+{"index": 155986, "D": "connecting or involving different states", "S": ["expressway", "freeway", "interstate", "roadway", "state highway", "superhighway"], "A": []}

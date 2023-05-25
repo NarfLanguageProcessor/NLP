@@ -1,1 +1,1 @@
-{"index": 23361, "D": "a boring tool, similar to but larger than a gimlet, consisting of a bit rotated by a transverse handle.", "S": ["borer ", "gimlet ", "grill ", "tool "], "A": []}
+{"index": 23361, "D": "a boring tool, similar to but larger than a gimlet, consisting of a bit rotated by a transverse handle.", "S": ["borer", "gimlet", "grill", "tool"], "A": []}

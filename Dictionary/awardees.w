@@ -1,1 +1,1 @@
-{"index": 24964, "D": "the recipient of an award. ", "S": ["beneficiary "], "A": ["donor ", "giver "]}
+{"index": 24964, "D": "the recipient of an award. ", "S": ["beneficiary"], "A": ["donor", "giver"]}

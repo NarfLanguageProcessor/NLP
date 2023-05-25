@@ -1,1 +1,1 @@
-{"index": 363809, "D": "expressing grief, sorrow, or any overwhelming emotion by shedding tears", "S": ["sobbing ", "teary ", "teary-eyed ", "wailing "], "A": []}
+{"index": 363809, "D": "expressing grief, sorrow, or any overwhelming emotion by shedding tears", "S": ["sobbing", "teary", "teary-eyed", "wailing"], "A": []}

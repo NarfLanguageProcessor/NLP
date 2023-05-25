@@ -1,1 +1,1 @@
-{"index": 188021, "D": "a medieval poet and musician who sang or recited while accompanying himself on a stringed instrument, either as a member of a noble household or as an itinerant troubadour.", "S": ["troubadour "], "A": []}
+{"index": 188021, "D": "a medieval poet and musician who sang or recited while accompanying himself on a stringed instrument, either as a member of a noble household or as an itinerant troubadour.", "S": ["troubadour"], "A": []}

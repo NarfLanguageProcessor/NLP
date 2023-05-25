@@ -1,1 +1,1 @@
-{"index": 139484, "D": "the top or summit of a hill.", "S": ["rustic "], "A": []}
+{"index": 139484, "D": "the top or summit of a hill.", "S": ["rustic"], "A": []}

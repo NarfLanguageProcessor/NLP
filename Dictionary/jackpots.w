@@ -1,1 +1,1 @@
-{"index": 159941, "D": "the chief prize or the cumulative stakes in a game or contest, as in bingo, a quiz contest, or a slot machine.", "S": ["prize "], "A": []}
+{"index": 159941, "D": "the chief prize or the cumulative stakes in a game or contest, as in bingo, a quiz contest, or a slot machine.", "S": ["prize"], "A": []}

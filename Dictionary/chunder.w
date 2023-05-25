@@ -1,1 +1,1 @@
-{"index": 56633, "D": "vomit. ", "S": ["barf ", "gag ", "heave ", "hurl ", "regurgitate ", "retch ", "spew ", "upchuck "], "A": []}
+{"index": 56633, "D": "vomit. ", "S": ["barf", "gag", "heave", "hurl", "regurgitate", "retch", "spew", "upchuck"], "A": []}

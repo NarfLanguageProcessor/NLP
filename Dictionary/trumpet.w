@@ -1,1 +1,1 @@
-{"index": 331572, "D": "a trumpeter. ", "S": ["clarion ", "cornet ", "horn ", "instrument ", "shophar "], "A": []}
+{"index": 331572, "D": "a trumpeter. ", "S": ["clarion", "cornet", "horn", "instrument", "shophar"], "A": []}

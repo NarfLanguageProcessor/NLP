@@ -1,1 +1,1 @@
-{"index": 298851, "D": "Often (informal) shortened to", "S": ["bifocals ", "blinkers ", "contacts ", "glasses ", "goggles ", "lorgnette ", "monocle ", "pince-nez ", "shades ", "specs ", "sunglasses "], "A": []}
+{"index": 298851, "D": "Often (informal) shortened to", "S": ["bifocals", "blinkers", "contacts", "glasses", "goggles", "lorgnette", "monocle", "pince-nez", "shades", "specs", "sunglasses"], "A": []}

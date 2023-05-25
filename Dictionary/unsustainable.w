@@ -1,1 +1,1 @@
-{"index": 352544, "D": "not sustainable; not to be supported, maintained, upheld, or corroborated.", "S": ["unsuitable ", "untenable "], "A": ["suitable ", "sustainable ", "tenable ", "feasible "]}
+{"index": 352544, "D": "not sustainable; not to be supported, maintained, upheld, or corroborated.", "S": ["unsuitable", "untenable"], "A": ["suitable", "sustainable", "tenable", "feasible"]}

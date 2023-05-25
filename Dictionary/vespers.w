@@ -1,1 +1,1 @@
-{"index": 359019, "D": "the sixth of the seven canonical hours of the divine office, originally fixed for the early evening and now often made a public service on Sundays and major feast days", "S": ["evensong ", "prayer "], "A": []}
+{"index": 359019, "D": "the sixth of the seven canonical hours of the divine office, originally fixed for the early evening and now often made a public service on Sundays and major feast days", "S": ["evensong", "prayer"], "A": []}

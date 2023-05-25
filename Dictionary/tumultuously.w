@@ -1,1 +1,1 @@
-{"index": 332357, "D": "full of tumult  or riotousness; marked by disturbance and uproar", "S": ["foolishly ", "impulsively ", "passionately ", "recklessly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}
+{"index": 332357, "D": "full of tumult  or riotousness; marked by disturbance and uproar", "S": ["foolishly", "impulsively", "passionately", "recklessly"], "A": ["carefully", "cautiously", "considerately", "purposely", "reasonably", "sensibly"]}

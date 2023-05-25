@@ -1,1 +1,1 @@
-{"index": 259540, "D": "to extend, spread, or move like rays or radii from a center.", "S": ["broadcast ", "sent "], "A": []}
+{"index": 259540, "D": "to extend, spread, or move like rays or radii from a center.", "S": ["broadcast", "sent"], "A": []}

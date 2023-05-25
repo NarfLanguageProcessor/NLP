@@ -1,1 +1,1 @@
-{"index": 40589, "D": "a block of clay hardened by drying in the sun or burning in a kiln, and used for building, paving, etc.", "S": ["brick ", "cobblestone ", "flagstone ", "gravel ", "macadamize ", "surface ", "tar ", "tile "], "A": ["dig up ", "strip "]}
+{"index": 40589, "D": "a block of clay hardened by drying in the sun or burning in a kiln, and used for building, paving, etc.", "S": ["brick", "cobblestone", "flagstone", "gravel", "macadamize", "surface", "tar", "tile"], "A": ["dig up", "strip"]}

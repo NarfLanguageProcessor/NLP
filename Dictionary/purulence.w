@@ -1,1 +1,1 @@
-{"index": 257146, "D": "pus. ", "S": ["discharge ", "infection ", "maturation ", "pus ", "suppuration ", "ulceration "], "A": []}
+{"index": 257146, "D": "pus. ", "S": ["discharge", "infection", "maturation", "pus", "suppuration", "ulceration"], "A": []}

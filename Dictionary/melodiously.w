@@ -1,1 +1,1 @@
-{"index": 182996, "D": "of the nature of or characterized by melody;  tuneful.", "S": ["harmonious ", "like music ", "mellifluously ", "musically ", "tunefully "], "A": []}
+{"index": 182996, "D": "of the nature of or characterized by melody;  tuneful.", "S": ["harmonious", "like music", "mellifluously", "musically", "tunefully"], "A": []}

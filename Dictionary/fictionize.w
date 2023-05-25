@@ -1,1 +1,1 @@
-{"index": 112196, "D": "fictionalize. ", "S": ["fabricate "], "A": []}
+{"index": 112196, "D": "fictionalize. ", "S": ["fabricate"], "A": []}

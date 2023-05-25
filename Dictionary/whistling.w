@@ -1,1 +1,1 @@
-{"index": 365095, "D": "the act of a person or thing that whistles. ", "S": ["calling ", "hissing ", "warbling "], "A": []}
+{"index": 365095, "D": "the act of a person or thing that whistles. ", "S": ["calling", "hissing", "warbling"], "A": []}

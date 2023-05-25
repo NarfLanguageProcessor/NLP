@@ -1,1 +1,1 @@
-{"index": 90019, "D": "lack of unity  or accord.", "S": ["discord ", "dissension ", "divergence "], "A": ["agreement ", "harmony ", "attachment ", "juncture ", "marriage ", "peace ", "union "]}
+{"index": 90019, "D": "lack of unity  or accord.", "S": ["discord", "dissension", "divergence"], "A": ["agreement", "harmony", "attachment", "juncture", "marriage", "peace", "union"]}

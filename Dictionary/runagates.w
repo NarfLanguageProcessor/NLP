@@ -1,1 +1,1 @@
-{"index": 275617, "D": "a fugitive or runaway.", "S": ["absconder ", "apostate ", "deserter ", "rat ", "recreant ", "renegade ", "reneger ", "runaway ", "sellout ", "tergiversator ", "turncoat "], "A": []}
+{"index": 275617, "D": "a fugitive or runaway.", "S": ["absconder", "apostate", "deserter", "rat", "recreant", "renegade", "reneger", "runaway", "sellout", "tergiversator", "turncoat"], "A": []}

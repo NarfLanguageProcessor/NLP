@@ -1,1 +1,1 @@
-{"index": 152205, "D": "without formality or ceremony; casual", "S": ["intimate ", "relaxed ", "spontaneous ", "straightforward ", "unofficial "], "A": ["buttoned-up ", "ceremonious ", "dressed-up ", "formal ", "official ", "rigid ", "stiff "]}
+{"index": 152205, "D": "without formality or ceremony; casual", "S": ["intimate", "relaxed", "spontaneous", "straightforward", "unofficial"], "A": ["buttoned-up", "ceremonious", "dressed-up", "formal", "official", "rigid", "stiff"]}

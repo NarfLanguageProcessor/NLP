@@ -1,1 +1,1 @@
-{"index": 106302, "D": "to call up or produce (memories, feelings, etc.)", "S": ["arouse ", "conjure ", "elicit ", "invoke ", "provoke ", "recall "], "A": ["calm ", "deaden ", "decrease ", "ignore ", "repress ", "stop "]}
+{"index": 106302, "D": "to call up or produce (memories, feelings, etc.)", "S": ["arouse", "conjure", "elicit", "invoke", "provoke", "recall"], "A": ["calm", "deaden", "decrease", "ignore", "repress", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 98410, "D": "master of ceremonies. ", "S": ["anchor ", "entertainer ", "manager ", "moderator ", "owner ", "presenter "], "A": ["guest ", "visitor "]}
+{"index": 98410, "D": "master of ceremonies. ", "S": ["anchor", "entertainer", "manager", "moderator", "owner", "presenter"], "A": ["guest", "visitor"]}

@@ -1,1 +1,1 @@
-{"index": 77729, "D": "a discussion, as of a public question in an assembly, involving opposing viewpoints", "S": ["answer ", "bicker ", "consider ", "contest ", "deliberate ", "oppose ", "question ", "wrangle "], "A": ["agree ", "endorse ", "give in ", "go along ", "harmonize ", "make peace "]}
+{"index": 77729, "D": "a discussion, as of a public question in an assembly, involving opposing viewpoints", "S": ["answer", "bicker", "consider", "contest", "deliberate", "oppose", "question", "wrangle"], "A": ["agree", "endorse", "give in", "go along", "harmonize", "make peace"]}

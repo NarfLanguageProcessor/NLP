@@ -1,1 +1,1 @@
-{"index": 294778, "D": "to spread or daub (an oily, greasy, viscous, or wet substance) on or over something", "S": ["creamy ", "fatty ", "slick "], "A": ["dry "]}
+{"index": 294778, "D": "to spread or daub (an oily, greasy, viscous, or wet substance) on or over something", "S": ["creamy", "fatty", "slick"], "A": ["dry"]}

@@ -1,0 +1,1 @@
+{"index": 12086, "D": "the branch of pathology dealing with the morphologic changes in the tissues, both gross and microscopic; pathological anatomy.", "S": [], "A": []}

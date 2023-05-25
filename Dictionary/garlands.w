@@ -1,1 +1,1 @@
-{"index": 122182, "D": "a wreath or festoon of flowers, leaves, or other material, worn for ornament or as an honor or hung on something as a decoration", "S": ["wreath "], "A": []}
+{"index": 122182, "D": "a wreath or festoon of flowers, leaves, or other material, worn for ornament or as an honor or hung on something as a decoration", "S": ["wreath"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 307788, "D": "to divide (that which has already been divided) into smaller parts; divide again after a first division.", "S": ["part ", "partition ", "separate ", "split "], "A": ["combine ", "join ", "unite "]}
+{"index": 307788, "D": "to divide (that which has already been divided) into smaller parts; divide again after a first division.", "S": ["part", "partition", "separate", "split"], "A": ["combine", "join", "unite"]}

@@ -1,1 +1,1 @@
-{"index": 366451, "D": [], "S": ["guide ", "guru ", "intellect ", "intellectual ", "mahatma ", "master ", "mentor ", "philosopher ", "pundit ", "savant ", "teacher ", "thinker "], "A": ["amateur ", "student "]}
+{"index": 366451, "D": [], "S": ["guide", "guru", "intellect", "intellectual", "mahatma", "master", "mentor", "philosopher", "pundit", "savant", "teacher", "thinker"], "A": ["amateur", "student"]}

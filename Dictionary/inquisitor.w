@@ -1,1 +1,1 @@
-{"index": 153335, "D": "a person who makes an inquisition.", "S": ["interrogator "], "A": []}
+{"index": 153335, "D": "a person who makes an inquisition.", "S": ["interrogator"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 134828, "D": "causing intense anguish or sorrow.", "S": ["affecting ", "agonizing ", "calamitous ", "dire ", "distressing ", "heart-wrenching ", "poignant ", "sad ", "touching ", "tragic ", "unfortunate "], "A": ["blessed ", "comforting ", "fortunate ", "good ", "happy ", "lucky "]}
+{"index": 134828, "D": "causing intense anguish or sorrow.", "S": ["affecting", "agonizing", "calamitous", "dire", "distressing", "heart-wrenching", "poignant", "sad", "touching", "tragic", "unfortunate"], "A": ["blessed", "comforting", "fortunate", "good", "happy", "lucky"]}

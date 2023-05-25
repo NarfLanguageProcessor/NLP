@@ -1,1 +1,1 @@
-{"index": 285988, "D": "dry; withered.", "S": ["arid ", "dried ", "droughty ", "dry ", "parched ", "scorched ", "sear ", "shriveled ", "waterless ", "withered "], "A": []}
+{"index": 285988, "D": "dry; withered.", "S": ["arid", "dried", "droughty", "dry", "parched", "scorched", "sear", "shriveled", "waterless", "withered"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 202075, "D": "not flammable.", "S": ["concrete "], "A": ["waterproof "]}
+{"index": 202075, "D": "not flammable.", "S": ["concrete"], "A": ["waterproof"]}

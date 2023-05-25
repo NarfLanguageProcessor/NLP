@@ -1,1 +1,1 @@
-{"index": 94361, "D": "a machine for making duplicates,  as a mimeograph.", "S": ["Xerox ", "copier ", "copying machine ", "photocopier ", "photocopy machine "], "A": []}
+{"index": 94361, "D": "a machine for making duplicates,  as a mimeograph.", "S": ["Xerox", "copier", "copying machine", "photocopier", "photocopy machine"], "A": []}

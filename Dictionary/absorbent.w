@@ -1,1 +1,1 @@
-{"index": 1027, "D": "capable of absorbing  heat, light, moisture, etc.; tending to absorb. ", "S": ["absorptive ", "dry ", "imbibing "], "A": ["impermeable "]}
+{"index": 1027, "D": "capable of absorbing  heat, light, moisture, etc.; tending to absorb. ", "S": ["absorptive", "dry", "imbibing"], "A": ["impermeable"]}

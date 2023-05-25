@@ -1,1 +1,1 @@
-{"index": 301393, "D": "to begin to grow; shoot forth, as a plant from a seed.", "S": ["budding ", "flourishing "], "A": ["barren ", "declining ", "fading ", "sterile ", "unfruitful "]}
+{"index": 301393, "D": "to begin to grow; shoot forth, as a plant from a seed.", "S": ["budding", "flourishing"], "A": ["barren", "declining", "fading", "sterile", "unfruitful"]}

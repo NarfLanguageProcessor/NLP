@@ -1,1 +1,0 @@
-{"index": 250837, "D": "belonging to some particular person", "S": ["confidential ", "exclusive ", "independent ", "individual ", "secret ", "separate ", "special "], "A": ["common ", "known ", "public "]}

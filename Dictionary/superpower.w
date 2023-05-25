@@ -1,1 +1,1 @@
-{"index": 312445, "D": "an extremely powerful nation, especially one capable of influencing international events and the acts and policies of less powerful nations.", "S": ["dominion ", "global force ", "imperium ", "lordship ", "powerful nation ", "sovereignty "], "A": []}
+{"index": 312445, "D": "an extremely powerful nation, especially one capable of influencing international events and the acts and policies of less powerful nations.", "S": ["dominion", "global force", "imperium", "lordship", "powerful nation", "sovereignty"], "A": []}

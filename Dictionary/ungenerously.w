@@ -1,1 +1,1 @@
-{"index": 342969, "D": "stingy; miserly", "S": ["cannily ", "greedily ", "illiberally ", "meanly ", "miserly ", "parsimoniously ", "stingily "], "A": []}
+{"index": 342969, "D": "stingy; miserly", "S": ["cannily", "greedily", "illiberally", "meanly", "miserly", "parsimoniously", "stingily"], "A": []}

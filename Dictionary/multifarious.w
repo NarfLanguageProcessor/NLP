@@ -1,1 +1,1 @@
-{"index": 195079, "D": "having many different parts, elements, forms, etc.", "S": ["assorted ", "divers ", "diversified ", "manifold ", "many ", "miscellaneous ", "multiple ", "multitudinous ", "myriad ", "numerous ", "varied ", "various "], "A": ["homogenous "]}
+{"index": 195079, "D": "having many different parts, elements, forms, etc.", "S": ["assorted", "divers", "diversified", "manifold", "many", "miscellaneous", "multiple", "multitudinous", "myriad", "numerous", "varied", "various"], "A": ["homogenous"]}

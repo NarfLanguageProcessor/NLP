@@ -1,1 +1,1 @@
-{"index": 270728, "D": [], "S": ["vindicate "], "A": ["cheer ", "comfort ", "encourage ", "forgive "]}
+{"index": 270728, "D": [], "S": ["vindicate"], "A": ["cheer", "comfort", "encourage", "forgive"]}

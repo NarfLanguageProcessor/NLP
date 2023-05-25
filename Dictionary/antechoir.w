@@ -1,0 +1,1 @@
+{"index": 14095, "D": "an enclosed space in front of the choir  of a church.", "S": [], "A": []}

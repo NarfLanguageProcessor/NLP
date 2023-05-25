@@ -1,1 +1,1 @@
-{"index": 54766, "D": "handwriting; penmanship.", "S": ["calligraphy ", "handwriting ", "writing "], "A": []}
+{"index": 54766, "D": "handwriting; penmanship.", "S": ["calligraphy", "handwriting", "writing"], "A": []}

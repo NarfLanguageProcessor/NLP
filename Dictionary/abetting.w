@@ -1,1 +1,1 @@
-{"index": 377, "D": "to encourage, support, or countenance by aid or approval, usually in wrongdoing", "S": ["ancillary "], "A": ["chief ", "important ", "necessary ", "superior "]}
+{"index": 377, "D": "to encourage, support, or countenance by aid or approval, usually in wrongdoing", "S": ["ancillary"], "A": ["chief", "important", "necessary", "superior"]}

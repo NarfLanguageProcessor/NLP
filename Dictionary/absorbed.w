@@ -1,1 +1,1 @@
-{"index": 1021, "D": "deeply interested or involved; preoccupied", "S": ["captivated ", "consumed ", "engaged ", "engrossed ", "fascinated ", "involved ", "preoccupied "], "A": ["bored ", "disenthralled ", "disinterested ", "uninterested ", "unoccupied ", "existing "]}
+{"index": 1021, "D": "deeply interested or involved; preoccupied", "S": ["captivated", "consumed", "engaged", "engrossed", "fascinated", "involved", "preoccupied"], "A": ["bored", "disenthralled", "disinterested", "uninterested", "unoccupied", "existing"]}

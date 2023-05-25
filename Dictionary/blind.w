@@ -1,1 +1,1 @@
-{"index": 36207, "D": "unable to see; having severely impaired or absolutely no sense of sight; sightless", "S": ["dark ", "groping ", "unsighted "], "A": ["aware ", "seeing ", "sighted "]}
+{"index": 36207, "D": "unable to see; having severely impaired or absolutely no sense of sight; sightless", "S": ["dark", "groping", "unsighted"], "A": ["aware", "seeing", "sighted"]}

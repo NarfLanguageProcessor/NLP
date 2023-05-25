@@ -1,1 +1,1 @@
-{"index": 105116, "D": "the study of folk and primitive music and of their relationship to the peoples and cultures to which they belong.", "S": ["country music "], "A": []}
+{"index": 105116, "D": "the study of folk and primitive music and of their relationship to the peoples and cultures to which they belong.", "S": ["country music"], "A": []}

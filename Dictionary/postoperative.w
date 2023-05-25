@@ -1,1 +1,1 @@
-{"index": 244356, "D": "occurring after a surgical operation.", "S": ["autopsy ", "biopsy ", "inquiry ", "observation ", "probe ", "test "], "A": []}
+{"index": 244356, "D": "occurring after a surgical operation.", "S": ["autopsy", "biopsy", "inquiry", "observation", "probe", "test"], "A": []}

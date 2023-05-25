@@ -1,1 +1,1 @@
-{"index": 115993, "D": "a person or thing that follows. ", "S": ["audience ", "community ", "country ", "electorate ", "everyone ", "nation ", "people ", "populace ", "population ", "society "], "A": []}
+{"index": 115993, "D": "a person or thing that follows. ", "S": ["audience", "community", "country", "electorate", "everyone", "nation", "people", "populace", "population", "society"], "A": []}

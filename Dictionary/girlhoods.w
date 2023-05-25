@@ -1,1 +1,1 @@
-{"index": 125528, "D": "the state or time of being a girl. ", "S": ["boyhood ", "teens "], "A": ["adulthood ", "infancy "]}
+{"index": 125528, "D": "the state or time of being a girl. ", "S": ["boyhood", "teens"], "A": ["adulthood", "infancy"]}

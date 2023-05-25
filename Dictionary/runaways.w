@@ -1,1 +1,1 @@
-{"index": 275620, "D": "a person who runs away; fugitive; deserter. ", "S": ["delinquent ", "escaped ", "uncontrolled "], "A": ["controlled ", "stable ", "staying ", "steady "]}
+{"index": 275620, "D": "a person who runs away; fugitive; deserter. ", "S": ["delinquent", "escaped", "uncontrolled"], "A": ["controlled", "stable", "staying", "steady"]}

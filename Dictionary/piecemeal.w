@@ -1,1 +1,1 @@
-{"index": 236166, "D": "piece by piece; one piece at a time; gradually", "S": ["gradual "], "A": []}
+{"index": 236166, "D": "piece by piece; one piece at a time; gradually", "S": ["gradual"], "A": []}

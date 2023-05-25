@@ -1,1 +1,1 @@
-{"index": 106992, "D": "critical explanation or interpretation of a text or portion of a text, especially of the Bible.", "S": ["analysis ", "explanation ", "exposition "], "A": []}
+{"index": 106992, "D": "critical explanation or interpretation of a text or portion of a text, especially of the Bible.", "S": ["analysis", "explanation", "exposition"], "A": []}

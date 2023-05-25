@@ -1,1 +1,1 @@
-{"index": 83099, "D": [], "S": ["barely ", "comparatively ", "practically ", "rarely ", "seldom ", "simply ", "somewhat "], "A": ["frequently "]}
+{"index": 83099, "D": [], "S": ["barely", "comparatively", "practically", "rarely", "seldom", "simply", "somewhat"], "A": ["frequently"]}

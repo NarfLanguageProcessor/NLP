@@ -1,1 +1,1 @@
-{"index": 328439, "D": "a door flush with the surface of a floor, ceiling, or roof.", "S": ["side door "], "A": []}
+{"index": 328439, "D": "a door flush with the surface of a floor, ceiling, or roof.", "S": ["side door"], "A": []}

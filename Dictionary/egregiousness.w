@@ -1,1 +1,1 @@
-{"index": 96287, "D": "extraordinary in some bad way; glaring; flagrant", "S": ["atrociousness ", "atrocity ", "enormity ", "flagrance ", "flagrantness ", "glaringness ", "heinousness ", "monstrousness ", "outrageousness "], "A": []}
+{"index": 96287, "D": "extraordinary in some bad way; glaring; flagrant", "S": ["atrociousness", "atrocity", "enormity", "flagrance", "flagrantness", "glaringness", "heinousness", "monstrousness", "outrageousness"], "A": []}

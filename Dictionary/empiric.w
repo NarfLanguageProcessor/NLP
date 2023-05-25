@@ -1,1 +1,1 @@
-{"index": 98793, "D": "a person who follows an empirical  method.", "S": ["con artist ", "hypocrite "], "A": []}
+{"index": 98793, "D": "a person who follows an empirical  method.", "S": ["con artist", "hypocrite"], "A": []}

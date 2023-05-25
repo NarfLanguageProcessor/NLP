@@ -1,1 +1,1 @@
-{"index": 52960, "D": "a sheet exhibiting information in tabular form.", "S": ["blueprint ", "graph ", "sketch ", "table "], "A": []}
+{"index": 52960, "D": "a sheet exhibiting information in tabular form.", "S": ["blueprint", "graph", "sketch", "table"], "A": []}

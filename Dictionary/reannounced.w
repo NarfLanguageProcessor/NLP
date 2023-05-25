@@ -1,1 +1,1 @@
-{"index": 261853, "D": "to make known publicly or officially; proclaim; give notice of", "S": ["echoed ", "paraphrased ", "quoted ", "recapitulated ", "recited ", "rehashed ", "reiterated ", "restated ", "retold "], "A": []}
+{"index": 261853, "D": "to make known publicly or officially; proclaim; give notice of", "S": ["echoed", "paraphrased", "quoted", "recapitulated", "recited", "rehashed", "reiterated", "restated", "retold"], "A": []}

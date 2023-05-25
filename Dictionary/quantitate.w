@@ -1,1 +1,1 @@
-{"index": 257937, "D": "to determine the quantity  of, especially with precision.", "S": ["appraise ", "ascertain ", "assess ", "calculate ", "calibrate ", "determine ", "evaluate ", "guess ", "quantify ", "take account of ", "weigh "], "A": ["estimate ", "guess ", "subtract "]}
+{"index": 257937, "D": "to determine the quantity  of, especially with precision.", "S": ["appraise", "ascertain", "assess", "calculate", "calibrate", "determine", "evaluate", "guess", "quantify", "take account of", "weigh"], "A": ["estimate", "guess", "subtract"]}

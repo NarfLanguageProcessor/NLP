@@ -1,1 +1,1 @@
-{"index": 94842, "D": "a vehicle, as a bulldozer, for pushing or carrying excavated earth  from place to place.", "S": ["backhoe ", "excavator ", "grader ", "heavy machinery ", "tracked vehicle "], "A": []}
+{"index": 94842, "D": "a vehicle, as a bulldozer, for pushing or carrying excavated earth  from place to place.", "S": ["backhoe", "excavator", "grader", "heavy machinery", "tracked vehicle"], "A": []}

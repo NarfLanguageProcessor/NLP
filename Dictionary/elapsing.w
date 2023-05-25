@@ -1,1 +1,1 @@
-{"index": 96735, "D": "(of time) to slip or pass by", "S": ["progress ", "term ", "time "], "A": []}
+{"index": 96735, "D": "(of time) to slip or pass by", "S": ["progress", "term", "time"], "A": []}

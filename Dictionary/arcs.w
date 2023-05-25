@@ -1,1 +1,1 @@
-{"index": 19202, "D": "Associate of the Royal College of Science.", "S": ["arch "], "A": []}
+{"index": 19202, "D": "Associate of the Royal College of Science.", "S": ["arch"], "A": []}

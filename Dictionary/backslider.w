@@ -1,1 +1,1 @@
-{"index": 25914, "D": "to relapse into bad habits, sinful behavior, or undesirable activities.", "S": ["defector ", "deserter ", "dissenter ", "heretic ", "nonconformist ", "rat ", "recreant ", "renegade ", "turncoat "], "A": ["adherent ", "faithful ", "loyalist "]}
+{"index": 25914, "D": "to relapse into bad habits, sinful behavior, or undesirable activities.", "S": ["defector", "deserter", "dissenter", "heretic", "nonconformist", "rat", "recreant", "renegade", "turncoat"], "A": ["adherent", "faithful", "loyalist"]}

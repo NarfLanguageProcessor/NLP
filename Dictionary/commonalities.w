@@ -1,1 +1,1 @@
-{"index": 64159, "D": "a sharing of features or characteristics in common;  possession or manifestation of common  attributes.", "S": ["communion ", "community ", "commutuality ", "mutual understanding ", "mutuality "], "A": []}
+{"index": 64159, "D": "a sharing of features or characteristics in common;  possession or manifestation of common  attributes.", "S": ["communion", "community", "commutuality", "mutual understanding", "mutuality"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4020, "D": "the act of adjourning  or the state or period of being adjourned. ", "S": ["deferment", "deferral", "interruption", "postponement", "recess"], "A": ["continuation", "persistence"]}

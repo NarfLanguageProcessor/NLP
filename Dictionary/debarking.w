@@ -1,1 +1,1 @@
-{"index": 77698, "D": "to disembark.", "S": ["arrive ", "disembark "], "A": ["leave "]}
+{"index": 77698, "D": "to disembark.", "S": ["arrive", "disembark"], "A": ["leave"]}

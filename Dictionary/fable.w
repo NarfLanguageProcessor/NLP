@@ -1,1 +1,1 @@
-{"index": 108880, "D": "a short tale to teach a moral lesson, often with animals or inanimate objects as characters; apologue", "S": ["fantasy ", "fiction ", "legend ", "myth ", "parable ", "tale ", "yarn "], "A": ["nonfiction ", "truth ", "sense "]}
+{"index": 108880, "D": "a short tale to teach a moral lesson, often with animals or inanimate objects as characters; apologue", "S": ["fantasy", "fiction", "legend", "myth", "parable", "tale", "yarn"], "A": ["nonfiction", "truth", "sense"]}

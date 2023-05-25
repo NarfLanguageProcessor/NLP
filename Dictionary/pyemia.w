@@ -1,1 +1,1 @@
-{"index": 236226, "D": "a diseased state in which pyogenic bacteria are circulating in the blood, characterized by the development of abscesses in various organs.", "S": ["sepsis ", "septic infection ", "septic poisoning ", "septicemia ", "septicopyemia ", "toxaemia ", "toxemia "], "A": []}
+{"index": 236226, "D": "a diseased state in which pyogenic bacteria are circulating in the blood, characterized by the development of abscesses in various organs.", "S": ["sepsis", "septic infection", "septic poisoning", "septicemia", "septicopyemia", "toxaemia", "toxemia"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 154563, "D": "to act or interpose in behalf of someone in difficulty or trouble, as by pleading or petition", "S": ["arbitrate ", "intervene ", "intrude ", "plead "], "A": ["leave alone "]}
+{"index": 154563, "D": "to act or interpose in behalf of someone in difficulty or trouble, as by pleading or petition", "S": ["arbitrate", "intervene", "intrude", "plead"], "A": ["leave alone"]}

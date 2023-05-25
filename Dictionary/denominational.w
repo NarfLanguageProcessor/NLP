@@ -1,1 +1,1 @@
-{"index": 81169, "D": "of or relating to a denomination  or denominations. ", "S": ["biased ", "one-sided ", "sectarian ", "sympathetic ", "unjust "], "A": ["fair ", "unbiased "]}
+{"index": 81169, "D": "of or relating to a denomination  or denominations. ", "S": ["biased", "one-sided", "sectarian", "sympathetic", "unjust"], "A": ["fair", "unbiased"]}

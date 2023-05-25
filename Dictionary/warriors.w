@@ -1,1 +1,1 @@
-{"index": 362797, "D": "a person engaged or experienced in warfare; soldier.", "S": ["champion ", "fighter ", "hero ", "soldier "], "A": []}
+{"index": 362797, "D": "a person engaged or experienced in warfare; soldier.", "S": ["champion", "fighter", "hero", "soldier"], "A": []}

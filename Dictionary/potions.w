@@ -1,1 +1,1 @@
-{"index": 244743, "D": "a drink or draft, especially one having or reputed to have medicinal, poisonous, or magical powers", "S": ["draught ", "elixir "], "A": []}
+{"index": 244743, "D": "a drink or draft, especially one having or reputed to have medicinal, poisonous, or magical powers", "S": ["draught", "elixir"], "A": []}

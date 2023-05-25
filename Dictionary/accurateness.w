@@ -1,1 +1,1 @@
-{"index": 1838, "D": "free from error or defect; consistent with a standard, rule, or model; precise; exact. ", "S": ["correctness ", "exactitude ", "exactness ", "faultlessness ", "nicety ", "preciseness ", "precision ", "verity "], "A": []}
+{"index": 1838, "D": "free from error or defect; consistent with a standard, rule, or model; precise; exact. ", "S": ["correctness", "exactitude", "exactness", "faultlessness", "nicety", "preciseness", "precision", "verity"], "A": []}

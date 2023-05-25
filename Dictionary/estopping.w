@@ -1,1 +1,1 @@
-{"index": 104703, "D": "to hinder or prevent by estoppel.", "S": ["bar ", "obstruct ", "plug ", "preclude ", "prevent ", "prohibit "], "A": []}
+{"index": 104703, "D": "to hinder or prevent by estoppel.", "S": ["bar", "obstruct", "plug", "preclude", "prevent", "prohibit"], "A": []}

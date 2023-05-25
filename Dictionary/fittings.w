@@ -1,1 +1,1 @@
-{"index": 113563, "D": "suitable or appropriate; proper or becoming.", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}
+{"index": 113563, "D": "suitable or appropriate; proper or becoming.", "S": ["apparatus", "furnishings", "furniture", "machinery", "material"], "A": []}

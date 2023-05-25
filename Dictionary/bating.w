@@ -1,1 +1,1 @@
-{"index": 29025, "D": "with the exception of; excluding.", "S": ["abate ", "check ", "curb ", "ease ", "ebb ", "lapse ", "lessen ", "moderate ", "restrain ", "slacken ", "wane "], "A": ["aid ", "assist ", "enlarge ", "extend ", "free ", "help ", "increase ", "liberate ", "raise ", "rise "]}
+{"index": 29025, "D": "with the exception of; excluding.", "S": ["abate", "check", "curb", "ease", "ebb", "lapse", "lessen", "moderate", "restrain", "slacken", "wane"], "A": ["aid", "assist", "enlarge", "extend", "free", "help", "increase", "liberate", "raise", "rise"]}

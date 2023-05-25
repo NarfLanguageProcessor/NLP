@@ -1,1 +1,1 @@
-{"index": 22324, "D": "the branch of astronomy that deals with the physical properties of celestial bodies and with the interaction between matter and radiation in the interior of celestial bodies and in interstellar space.", "S": ["cosmologist "], "A": []}
+{"index": 22324, "D": "the branch of astronomy that deals with the physical properties of celestial bodies and with the interaction between matter and radiation in the interior of celestial bodies and in interstellar space.", "S": ["cosmologist"], "A": []}

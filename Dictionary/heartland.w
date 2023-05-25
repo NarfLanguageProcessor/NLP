@@ -1,1 +1,1 @@
-{"index": 134875, "D": "the part of a region considered essential to the viability and survival of the whole, especially a central land  area relatively invulnerable to attack and capable of economic and political self-sufficiency.", "S": ["backwoods "], "A": []}
+{"index": 134875, "D": "the part of a region considered essential to the viability and survival of the whole, especially a central land  area relatively invulnerable to attack and capable of economic and political self-sufficiency.", "S": ["backwoods"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 320948, "D": "having to do with theocracy,  a form of government based on a specific religion or deity", "S": ["ecclesiastical ", "ministerial ", "monastic ", "pastoral ", "rabbinical "], "A": []}
+{"index": 320948, "D": "having to do with theocracy,  a form of government based on a specific religion or deity", "S": ["ecclesiastical", "ministerial", "monastic", "pastoral", "rabbinical"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 91489, "D": "the larva of an antlion.", "S": ["divining stick ", "dowser ", "dowsing rod ", "wand ", "wiggle stick ", "witching stick "], "A": []}
+{"index": 91489, "D": "the larva of an antlion.", "S": ["divining stick", "dowser", "dowsing rod", "wand", "wiggle stick", "witching stick"], "A": []}

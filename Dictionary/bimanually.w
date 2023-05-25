@@ -1,0 +1,1 @@
+{"index": 34093, "D": "involving or requiring the use of both hands.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 19285, "D": "great warmth of feeling; fervor; passion", "S": ["eagerness ", "earnestness ", "fervor ", "intensity ", "passion ", "warmth ", "zeal "], "A": ["apathy ", "indifference ", "lethargy ", "dullness "]}
+{"index": 19285, "D": "great warmth of feeling; fervor; passion", "S": ["eagerness", "earnestness", "fervor", "intensity", "passion", "warmth", "zeal"], "A": ["apathy", "indifference", "lethargy", "dullness"]}

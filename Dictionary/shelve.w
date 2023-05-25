@@ -1,1 +1,1 @@
-{"index": 288007, "D": "to place (something) on a shelf  or shelves.", "S": ["freeze ", "give up ", "mothball ", "prolong ", "put off ", "suspend ", "waive "], "A": ["continue ", "go ", "advance "]}
+{"index": 288007, "D": "to place (something) on a shelf  or shelves.", "S": ["freeze", "give up", "mothball", "prolong", "put off", "suspend", "waive"], "A": ["continue", "go", "advance"]}

@@ -1,1 +1,1 @@
-{"index": 357666, "D": "to change direction or turn about or aside; shift, turn, or change from one course, position, inclination, etc., to another", "S": ["change ", "detour ", "deviation "], "A": []}
+{"index": 357666, "D": "to change direction or turn about or aside; shift, turn, or change from one course, position, inclination, etc., to another", "S": ["change", "detour", "deviation"], "A": []}

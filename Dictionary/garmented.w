@@ -1,1 +1,1 @@
-{"index": 122194, "D": "any article of clothing", "S": ["apparel ", "array ", "attire ", "clad ", "clothe ", "cover ", "deck ", "drape ", "dress ", "dud ", "garment ", "raiment ", "robe ", "tog "], "A": ["disrobe ", "lay bare ", "reveal ", "unclothe ", "uncover "]}
+{"index": 122194, "D": "any article of clothing", "S": ["apparel", "array", "attire", "clad", "clothe", "cover", "deck", "drape", "dress", "dud", "garment", "raiment", "robe", "tog"], "A": ["disrobe", "lay bare", "reveal", "unclothe", "uncover"]}

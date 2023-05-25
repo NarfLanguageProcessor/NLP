@@ -1,1 +1,1 @@
-{"index": 134932, "D": "a tract of open and uncultivated land; wasteland overgrown with shrubs.", "S": ["grassland ", "pasture ", "plain ", "prairie "], "A": []}
+{"index": 134932, "D": "a tract of open and uncultivated land; wasteland overgrown with shrubs.", "S": ["grassland", "pasture", "plain", "prairie"], "A": []}

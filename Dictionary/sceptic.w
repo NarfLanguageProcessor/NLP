@@ -1,1 +1,1 @@
-{"index": 280005, "D": "skeptic. ", "S": ["critic ", "cynic ", "dissenter ", "dissident ", "heretic ", "nonbeliever ", "questioner ", "radical ", "rebel ", "revolutionist ", "ruiner ", "unbeliever "], "A": ["believer "]}
+{"index": 280005, "D": "skeptic. ", "S": ["critic", "cynic", "dissenter", "dissident", "heretic", "nonbeliever", "questioner", "radical", "rebel", "revolutionist", "ruiner", "unbeliever"], "A": ["believer"]}

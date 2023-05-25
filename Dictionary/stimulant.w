@@ -1,1 +1,1 @@
-{"index": 304631, "D": "Compare depressant (def. 4). ", "S": ["catalyst ", "drug ", "impetus ", "stimulus "], "A": ["block ", "hindrance ", "deterrent ", "discouragement "]}
+{"index": 304631, "D": "Compare depressant (def. 4). ", "S": ["catalyst", "drug", "impetus", "stimulus"], "A": ["block", "hindrance", "deterrent", "discouragement"]}

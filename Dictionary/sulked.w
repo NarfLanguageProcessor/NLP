@@ -1,1 +1,1 @@
-{"index": 310541, "D": "to remain silent or hold oneself aloof in a sullen, ill-humored, or offended mood", "S": ["brood ", "mope "], "A": ["compliment ", "grin ", "praise ", "smile "]}
+{"index": 310541, "D": "to remain silent or hold oneself aloof in a sullen, ill-humored, or offended mood", "S": ["brood", "mope"], "A": ["compliment", "grin", "praise", "smile"]}

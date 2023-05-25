@@ -1,1 +1,1 @@
-{"index": 53829, "D": "dear; beloved", "S": ["pricey ", "valuable "], "A": ["aiding ", "cheap ", "helpful ", "inexpensive ", "poor ", "reasonable "]}
+{"index": 53829, "D": "dear; beloved", "S": ["pricey", "valuable"], "A": ["aiding", "cheap", "helpful", "inexpensive", "poor", "reasonable"]}

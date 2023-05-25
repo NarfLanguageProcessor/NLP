@@ -1,1 +1,1 @@
-{"index": 197736, "D": "the part of the body of an animal or human being that connects the head and the trunk.", "S": ["collar "], "A": []}
+{"index": 197736, "D": "the part of the body of an animal or human being that connects the head and the trunk.", "S": ["collar"], "A": []}

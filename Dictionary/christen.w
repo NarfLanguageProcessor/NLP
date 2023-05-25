@@ -1,1 +1,1 @@
-{"index": 56119, "D": "to receive into the Christian church by baptism; baptize.", "S": ["asperse ", "baptize ", "bless ", "call ", "dedicate ", "denominate ", "designate ", "dub ", "entitle ", "immerse ", "sprinkle ", "style ", "term ", "title "], "A": ["ignore "]}
+{"index": 56119, "D": "to receive into the Christian church by baptism; baptize.", "S": ["asperse", "baptize", "bless", "call", "dedicate", "denominate", "designate", "dub", "entitle", "immerse", "sprinkle", "style", "term", "title"], "A": ["ignore"]}

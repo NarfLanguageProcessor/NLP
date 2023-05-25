@@ -1,1 +1,1 @@
-{"index": 263377, "D": "to consider  again, especially with a view to change of decision or action", "S": ["review "], "A": ["forethought "]}
+{"index": 263377, "D": "to consider  again, especially with a view to change of decision or action", "S": ["review"], "A": ["forethought"]}

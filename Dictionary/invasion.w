@@ -1,1 +1,1 @@
-{"index": 157049, "D": "an act or instance of invading  or entering as an enemy, especially by an army.", "S": ["aggression ", "assault ", "breach ", "incursion ", "infiltration ", "infringement ", "intrusion ", "offensive ", "onslaught ", "raid ", "violation "], "A": ["obedience "]}
+{"index": 157049, "D": "an act or instance of invading  or entering as an enemy, especially by an army.", "S": ["aggression", "assault", "breach", "incursion", "infiltration", "infringement", "intrusion", "offensive", "onslaught", "raid", "violation"], "A": ["obedience"]}

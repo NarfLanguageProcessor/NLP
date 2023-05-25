@@ -1,1 +1,1 @@
-{"index": 297877, "D": "the sensation produced by stimulation of the organs of hearing by vibrations transmitted through the air or other medium.", "S": ["accent ", "harmony ", "melody ", "music ", "noise ", "note ", "tone ", "vibration ", "voice "], "A": ["cacophony ", "silence "]}
+{"index": 297877, "D": "the sensation produced by stimulation of the organs of hearing by vibrations transmitted through the air or other medium.", "S": ["accent", "harmony", "melody", "music", "noise", "note", "tone", "vibration", "voice"], "A": ["cacophony", "silence"]}

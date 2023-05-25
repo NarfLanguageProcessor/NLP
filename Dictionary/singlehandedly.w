@@ -1,1 +1,1 @@
-{"index": 291706, "D": "in a single-handed manner; single-handed.", "S": ["courageously "], "A": ["jointly "]}
+{"index": 291706, "D": "in a single-handed manner; single-handed.", "S": ["courageously"], "A": ["jointly"]}

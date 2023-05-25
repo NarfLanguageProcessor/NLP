@@ -1,1 +1,1 @@
-{"index": 40034, "D": "a woman's undergarment for supporting the breasts.", "S": ["bandeau ", "bra ", "corset ", "foundation ", "girdle ", "shapewear "], "A": []}
+{"index": 40034, "D": "a woman's undergarment for supporting the breasts.", "S": ["bandeau", "bra", "corset", "foundation", "girdle", "shapewear"], "A": []}

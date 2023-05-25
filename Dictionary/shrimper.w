@@ -1,1 +1,1 @@
-{"index": 289207, "D": "a shrimp  fisherman.", "S": ["feeble ", "frail ", "inconsequential ", "measly ", "paltry ", "tiny ", "trivial "], "A": ["important ", "significant ", "strong "]}
+{"index": 289207, "D": "a shrimp  fisherman.", "S": ["feeble", "frail", "inconsequential", "measly", "paltry", "tiny", "trivial"], "A": ["important", "significant", "strong"]}

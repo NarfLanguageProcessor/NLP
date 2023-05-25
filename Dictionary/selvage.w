@@ -1,1 +1,1 @@
-{"index": 283604, "D": "the edge of woven fabric finished so as to prevent raveling, often in a narrow tape effect, different from the body of the fabric.", "S": ["boundary ", "line ", "outskirt "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 283604, "D": "the edge of woven fabric finished so as to prevent raveling, often in a narrow tape effect, different from the body of the fabric.", "S": ["boundary", "line", "outskirt"], "A": ["center", "inside", "interior", "middle"]}

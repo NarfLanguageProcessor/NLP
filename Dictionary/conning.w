@@ -1,1 +1,1 @@
-{"index": 66539, "D": "against a proposition, opinion, etc.", "S": ["bill of goods ", "con ", "flattery ", "flimflam ", "hosing ", "ripoff ", "scam ", "smoke and mirrors ", "soft sell ", "soft soap ", "song and dance ", "the business "], "A": []}
+{"index": 66539, "D": "against a proposition, opinion, etc.", "S": ["bill of goods", "con", "flattery", "flimflam", "hosing", "ripoff", "scam", "smoke and mirrors", "soft sell", "soft soap", "song and dance", "the business"], "A": []}

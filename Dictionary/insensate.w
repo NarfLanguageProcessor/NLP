@@ -1,1 +1,1 @@
-{"index": 153520, "D": "not endowed with sensation; inanimate", "S": ["apathetic ", "callous ", "cold ", "impassive ", "insensible ", "unfeeling ", "unmoved "], "A": []}
+{"index": 153520, "D": "not endowed with sensation; inanimate", "S": ["apathetic", "callous", "cold", "impassive", "insensible", "unfeeling", "unmoved"], "A": []}

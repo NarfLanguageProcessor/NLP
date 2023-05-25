@@ -1,1 +1,1 @@
-{"index": 14913, "D": "to realize beforehand; foretaste or foresee", "S": ["hopeful "], "A": []}
+{"index": 14913, "D": "to realize beforehand; foretaste or foresee", "S": ["hopeful"], "A": []}

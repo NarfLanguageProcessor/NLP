@@ -1,1 +1,1 @@
-{"index": 330107, "D": "consisting of three parts, or proceeding by three; ternary.", "S": ["ternary ", "third ", "treble ", "trilateral ", "trinitarian ", "triple "], "A": []}
+{"index": 330107, "D": "consisting of three parts, or proceeding by three; ternary.", "S": ["ternary", "third", "treble", "trilateral", "trinitarian", "triple"], "A": []}

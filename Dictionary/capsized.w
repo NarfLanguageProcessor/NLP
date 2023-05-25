@@ -1,1 +1,1 @@
-{"index": 47138, "D": "to turn bottom up; overturn", "S": ["flipped ", "inverted ", "overturned ", "upended ", "upset "], "A": []}
+{"index": 47138, "D": "to turn bottom up; overturn", "S": ["flipped", "inverted", "overturned", "upended", "upset"], "A": []}

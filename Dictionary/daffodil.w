@@ -1,1 +1,1 @@
-{"index": 76166, "D": "a bulbous plant, Narcissus pseudonarcissus, of the amaryllis family, having solitary, yellow, nodding flowers that bloom in the spring.", "S": ["adage ", "aphorism ", "axiom ", "dictum ", "epigram ", "maxim ", "witticism "], "A": []}
+{"index": 76166, "D": "a bulbous plant, Narcissus pseudonarcissus, of the amaryllis family, having solitary, yellow, nodding flowers that bloom in the spring.", "S": ["adage", "aphorism", "axiom", "dictum", "epigram", "maxim", "witticism"], "A": []}

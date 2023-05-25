@@ -1,1 +1,1 @@
-{"index": 145810, "D": "the veil worn by Muslim women to cover the face in public.", "S": ["babushka ", "bonnet ", "capuchin ", "coif ", "cowl ", "hat ", "kerchief ", "mantilla ", "mantle ", "protector ", "purdah ", "shawl ", "veil ", "wimple "], "A": []}
+{"index": 145810, "D": "the veil worn by Muslim women to cover the face in public.", "S": ["babushka", "bonnet", "capuchin", "coif", "cowl", "hat", "kerchief", "mantilla", "mantle", "protector", "purdah", "shawl", "veil", "wimple"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 354385, "D": "not worthy;  lacking worth or excellence.", "S": ["dishonorableness ", "disreputableness ", "ignominiousness ", "unscrupulousness "], "A": []}
+{"index": 354385, "D": "not worthy;  lacking worth or excellence.", "S": ["dishonorableness", "disreputableness", "ignominiousness", "unscrupulousness"], "A": []}

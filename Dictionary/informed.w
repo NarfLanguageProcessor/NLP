@@ -1,1 +1,1 @@
-{"index": 152223, "D": "having or prepared with information  or knowledge; apprised", "S": ["abreast ", "knowledgeable ", "learned "], "A": ["ignorant ", "uninformed "]}
+{"index": 152223, "D": "having or prepared with information  or knowledge; apprised", "S": ["abreast", "knowledgeable", "learned"], "A": ["ignorant", "uninformed"]}

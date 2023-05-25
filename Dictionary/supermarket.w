@@ -1,1 +1,1 @@
-{"index": 312222, "D": "a large retail market  that sells food and other household goods and that is usually operated on a self-service basis.", "S": ["bazaar ", "boutique ", "co-op ", "discount store ", "flea market ", "mall ", "mart ", "outlet ", "shop ", "shopping center "], "A": []}
+{"index": 312222, "D": "a large retail market  that sells food and other household goods and that is usually operated on a self-service basis.", "S": ["bazaar", "boutique", "co-op", "discount store", "flea market", "mall", "mart", "outlet", "shop", "shopping center"], "A": []}

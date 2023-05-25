@@ -1,1 +1,1 @@
-{"index": 106258, "D": "to show clearly; make evident or manifest; prove.", "S": ["attest ", "declare ", "demonstrate ", "disclose ", "display ", "furnish ", "indicate ", "prove ", "reveal ", "show "], "A": ["conceal ", "cover ", "deny ", "hide ", "secrete ", "withhold "]}
+{"index": 106258, "D": "to show clearly; make evident or manifest; prove.", "S": ["attest", "declare", "demonstrate", "disclose", "display", "furnish", "indicate", "prove", "reveal", "show"], "A": ["conceal", "cover", "deny", "hide", "secrete", "withhold"]}

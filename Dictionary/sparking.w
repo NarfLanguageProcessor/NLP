@@ -1,1 +1,1 @@
-{"index": 298441, "D": "an ignited or fiery particle such as is thrown off by burning wood or produced by one hard body striking against another.", "S": ["flare ", "flicker ", "gleam ", "glint ", "glitter ", "glow ", "hint ", "sparkle "], "A": ["dullness "]}
+{"index": 298441, "D": "an ignited or fiery particle such as is thrown off by burning wood or produced by one hard body striking against another.", "S": ["flare", "flicker", "gleam", "glint", "glitter", "glow", "hint", "sparkle"], "A": ["dullness"]}

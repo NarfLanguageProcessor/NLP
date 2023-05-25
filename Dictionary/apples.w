@@ -1,1 +1,1 @@
-{"index": 17790, "D": "well or fine; under control.", "S": ["asteroid ", "earth ", "globe ", "sphere ", "world "], "A": []}
+{"index": 17790, "D": "well or fine; under control.", "S": ["asteroid", "earth", "globe", "sphere", "world"], "A": []}

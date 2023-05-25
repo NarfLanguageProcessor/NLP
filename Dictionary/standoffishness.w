@@ -1,1 +1,1 @@
-{"index": 302695, "D": "somewhat aloof or reserved; cold and unfriendly.", "S": ["remoteness "], "A": ["sympathy "]}
+{"index": 302695, "D": "somewhat aloof or reserved; cold and unfriendly.", "S": ["remoteness"], "A": ["sympathy"]}

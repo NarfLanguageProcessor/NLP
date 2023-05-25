@@ -1,1 +1,1 @@
-{"index": 214859, "D": "(of the voice or speech) characterized by strength, fullness, richness, and clearness.", "S": ["bombastic ", "clear ", "loud ", "pompous ", "resonant ", "resounding ", "rich ", "showy ", "sonorous ", "stentorian "], "A": []}
+{"index": 214859, "D": "(of the voice or speech) characterized by strength, fullness, richness, and clearness.", "S": ["bombastic", "clear", "loud", "pompous", "resonant", "resounding", "rich", "showy", "sonorous", "stentorian"], "A": []}

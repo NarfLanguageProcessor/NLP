@@ -1,1 +1,0 @@
-{"index": 201836, "D": "without exception; unconditionally; absolutely", "S": [], "A": []}

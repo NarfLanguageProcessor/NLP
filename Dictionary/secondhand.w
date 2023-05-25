@@ -1,1 +1,1 @@
-{"index": 282764, "D": "not directly known or experienced; obtained from others or from books", "S": ["hand-me-down ", "handed-down ", "not new ", "old ", "pre-owned ", "previously owned ", "unnew "], "A": []}
+{"index": 282764, "D": "not directly known or experienced; obtained from others or from books", "S": ["hand-me-down", "handed-down", "not new", "old", "pre-owned", "previously owned", "unnew"], "A": []}

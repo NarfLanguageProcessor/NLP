@@ -1,1 +1,1 @@
-{"index": 104603, "D": "regarded highly or favorably; respected or admired", "S": ["acclaimed ", "big-league ", "celebrated ", "distinguished ", "eminent ", "famed ", "high-profile ", "illustrious ", "prominent ", "renowned "], "A": []}
+{"index": 104603, "D": "regarded highly or favorably; respected or admired", "S": ["acclaimed", "big-league", "celebrated", "distinguished", "eminent", "famed", "high-profile", "illustrious", "prominent", "renowned"], "A": []}

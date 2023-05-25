@@ -1,1 +1,1 @@
-{"index": 237627, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["copying ", "hijacking ", "infringement ", "plagiarism ", "theft "], "A": []}
+{"index": 237627, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["copying", "hijacking", "infringement", "plagiarism", "theft"], "A": []}

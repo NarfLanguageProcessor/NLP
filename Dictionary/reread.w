@@ -1,1 +1,1 @@
-{"index": 268928, "D": "to read (something) again.", "S": ["go over "], "A": []}
+{"index": 268928, "D": "to read (something) again.", "S": ["go over"], "A": []}

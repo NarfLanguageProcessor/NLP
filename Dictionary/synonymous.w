@@ -1,1 +1,1 @@
-{"index": 291936, "D": "having the character of synonyms  or a synonym;  equivalent in meaning; expressing or implying the same idea.", "S": ["compatible ", "identical ", "identified ", "interchangeable ", "one and the same "], "A": ["different ", "dissimilar "]}
+{"index": 291936, "D": "having the character of synonyms  or a synonym;  equivalent in meaning; expressing or implying the same idea.", "S": ["compatible", "identical", "identified", "interchangeable", "one and the same"], "A": ["different", "dissimilar"]}

@@ -1,1 +1,1 @@
-{"index": 114058, "D": "a large, flat-bottomed boat  for use in shallow water, especially on rivers.", "S": ["raft "], "A": []}
+{"index": 114058, "D": "a large, flat-bottomed boat  for use in shallow water, especially on rivers.", "S": ["raft"], "A": []}

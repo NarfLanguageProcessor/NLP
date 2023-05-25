@@ -1,1 +1,1 @@
-{"index": 318766, "D": "(in beef or pork) the tender meat of the muscle running through the sirloin and terminating before the ribs.", "S": ["Bowery ", "favela ", "ghetto ", "red-light district ", "skid road "], "A": []}
+{"index": 318766, "D": "(in beef or pork) the tender meat of the muscle running through the sirloin and terminating before the ribs.", "S": ["Bowery", "favela", "ghetto", "red-light district", "skid road"], "A": []}

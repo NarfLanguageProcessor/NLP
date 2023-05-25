@@ -1,1 +1,1 @@
-{"index": 107792, "D": "expiration  of breath.", "S": ["closure ", "conclusion ", "finish ", "issue ", "outcome ", "resolution ", "result ", "retirement "], "A": ["beginning ", "commencement ", "introduction ", "origin ", "source ", "start ", "frustration "]}
+{"index": 107792, "D": "expiration  of breath.", "S": ["closure", "conclusion", "finish", "issue", "outcome", "resolution", "result", "retirement"], "A": ["beginning", "commencement", "introduction", "origin", "source", "start", "frustration"]}

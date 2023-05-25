@@ -1,1 +1,1 @@
-{"index": 69680, "D": "a gallery or passage connecting parts of a building; hallway.", "S": ["aisle ", "foyer ", "hall ", "lobby ", "passage ", "passageway "], "A": []}
+{"index": 69680, "D": "a gallery or passage connecting parts of a building; hallway.", "S": ["aisle", "foyer", "hall", "lobby", "passage", "passageway"], "A": []}

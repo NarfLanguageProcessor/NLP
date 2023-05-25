@@ -1,0 +1,1 @@
+{"index": 10876, "D": "any cell having properties similar to an amoeba, such as shape, mobility, and ability to engulf particles", "S": [], "A": []}

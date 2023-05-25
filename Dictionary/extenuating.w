@@ -1,1 +1,1 @@
-{"index": 108254, "D": "serving to make a fault, offense, etc., appear less serious", "S": ["condoning ", "diminishing ", "justifying ", "lessening ", "mitigating ", "moderating ", "qualifying ", "reducing ", "softening ", "varnishing ", "whitewashing "], "A": []}
+{"index": 108254, "D": "serving to make a fault, offense, etc., appear less serious", "S": ["condoning", "diminishing", "justifying", "lessening", "mitigating", "moderating", "qualifying", "reducing", "softening", "varnishing", "whitewashing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 172171, "D": "readily or easily liked;  pleasing", "S": ["charisma ", "charm ", "identity ", "makeup ", "nature ", "psyche ", "self ", "temper ", "temperament "], "A": []}
+{"index": 172171, "D": "readily or easily liked;  pleasing", "S": ["charisma", "charm", "identity", "makeup", "nature", "psyche", "self", "temper", "temperament"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 369333, "D": "the mother of Gad and Asher. Genesis 30", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 232599, "D": "insignificant; petty", "S": ["captious ", "carping ", "fussy ", "hairsplitting ", "hard to please ", "hypercritical ", "nagging ", "niggling ", "nit-picking ", "overcritical ", "quibbling "], "A": []}
+{"index": 232599, "D": "insignificant; petty", "S": ["captious", "carping", "fussy", "hairsplitting", "hard to please", "hypercritical", "nagging", "niggling", "nit-picking", "overcritical", "quibbling"], "A": []}

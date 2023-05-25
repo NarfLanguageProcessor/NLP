@@ -1,1 +1,1 @@
-{"index": 273676, "D": "any of various simple or complex tubelike devices containing combustibles that on being ignited liberate gases whose action propels the tube through the air", "S": ["launched "], "A": []}
+{"index": 273676, "D": "any of various simple or complex tubelike devices containing combustibles that on being ignited liberate gases whose action propels the tube through the air", "S": ["launched"], "A": []}

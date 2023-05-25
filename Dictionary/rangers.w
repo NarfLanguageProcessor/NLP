@@ -1,1 +1,1 @@
-{"index": 260562, "D": "forest ranger. ", "S": ["squadron "], "A": []}
+{"index": 260562, "D": "forest ranger. ", "S": ["squadron"], "A": []}

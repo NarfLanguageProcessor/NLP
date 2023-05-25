@@ -1,1 +1,1 @@
-{"index": 12709, "D": "a devotion in memory of the Annunciation.", "S": ["chimes ", "glockenspiel ", "gong ", "lyra ", "peal ", "tintinnabulation ", "tocsin "], "A": []}
+{"index": 12709, "D": "a devotion in memory of the Annunciation.", "S": ["chimes", "glockenspiel", "gong", "lyra", "peal", "tintinnabulation", "tocsin"], "A": []}

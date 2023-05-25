@@ -1,1 +1,1 @@
-{"index": 121728, "D": "having the tangy flavor or odor of game", "S": ["fetid ", "foul ", "malodorous ", "pungent ", "rancid ", "rank ", "reeking ", "seamy ", "sordid ", "strong-flavored ", "strong-smelling ", "strong-tasting ", "tainted "], "A": []}
+{"index": 121728, "D": "having the tangy flavor or odor of game", "S": ["fetid", "foul", "malodorous", "pungent", "rancid", "rank", "reeking", "seamy", "sordid", "strong-flavored", "strong-smelling", "strong-tasting", "tainted"], "A": []}

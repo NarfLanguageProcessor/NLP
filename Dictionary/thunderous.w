@@ -1,1 +1,1 @@
-{"index": 323030, "D": "producing thunder  or a loud noise like thunder", "S": ["deafening ", "loud ", "roaring ", "thundering "], "A": []}
+{"index": 323030, "D": "producing thunder  or a loud noise like thunder", "S": ["deafening", "loud", "roaring", "thundering"], "A": []}

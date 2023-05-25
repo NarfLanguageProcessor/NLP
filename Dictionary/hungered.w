@@ -1,1 +1,1 @@
-{"index": 145143, "D": "a compelling need or desire for food.", "S": ["eager ", "greedy ", "keen ", "ravenous ", "starved "], "A": ["full ", "unenthusiastic "]}
+{"index": 145143, "D": "a compelling need or desire for food.", "S": ["eager", "greedy", "keen", "ravenous", "starved"], "A": ["full", "unenthusiastic"]}

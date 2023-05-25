@@ -1,1 +1,1 @@
-{"index": 149120, "D": "to confine in or as if in a prison.", "S": ["apprehend ", "commit ", "detain ", "hold ", "incarcerate ", "jail ", "lock up ", "remand "], "A": ["cease ", "free ", "let go ", "liberate ", "release ", "stop ", "aid ", "allow ", "assist ", "help ", "permit "]}
+{"index": 149120, "D": "to confine in or as if in a prison.", "S": ["apprehend", "commit", "detain", "hold", "incarcerate", "jail", "lock up", "remand"], "A": ["cease", "free", "let go", "liberate", "release", "stop", "aid", "allow", "assist", "help", "permit"]}

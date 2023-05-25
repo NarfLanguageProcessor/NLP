@@ -1,1 +1,1 @@
-{"index": 350217, "D": "not safe; perilous", "S": ["hazardous ", "perilous ", "risky ", "treacherous ", "uncertain ", "unreliable ", "unsound ", "unstable ", "untrustworthy "], "A": ["certain ", "honest ", "reliable ", "safe ", "secure ", "stable ", "strong ", "sure ", "true ", "trustworthy "]}
+{"index": 350217, "D": "not safe; perilous", "S": ["hazardous", "perilous", "risky", "treacherous", "uncertain", "unreliable", "unsound", "unstable", "untrustworthy"], "A": ["certain", "honest", "reliable", "safe", "secure", "stable", "strong", "sure", "true", "trustworthy"]}

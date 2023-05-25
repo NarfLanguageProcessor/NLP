@@ -1,1 +1,1 @@
-{"index": 65492, "D": "the act of concurring. ", "S": ["unanimity "], "A": []}
+{"index": 65492, "D": "the act of concurring. ", "S": ["unanimity"], "A": []}

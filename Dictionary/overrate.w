@@ -1,1 +1,1 @@
-{"index": 220764, "D": "to rate  or appraise too highly; overestimate", "S": ["exaggerate ", "magnify ", "overestimate ", "oversell ", "overvalue "], "A": ["play down "]}
+{"index": 220764, "D": "to rate  or appraise too highly; overestimate", "S": ["exaggerate", "magnify", "overestimate", "oversell", "overvalue"], "A": ["play down"]}

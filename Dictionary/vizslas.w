@@ -1,1 +1,0 @@
-{"index": 360841, "D": "one of a Hungarian breed of medium-sized, powerful hunting dogs having a short, smooth, rusty-gold coat, a square muzzle, and a docked tail.", "S": [], "A": []}

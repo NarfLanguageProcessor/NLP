@@ -1,1 +1,0 @@
-{"index": 277348, "D": "oscillation (def. 5b). ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92560, "D": "(in the Middle East) a professional interpreter.", "S": ["linguist "], "A": []}
+{"index": 92560, "D": "(in the Middle East) a professional interpreter.", "S": ["linguist"], "A": []}

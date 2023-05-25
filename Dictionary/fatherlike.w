@@ -1,1 +1,1 @@
-{"index": 110276, "D": "a male parent.", "S": ["affectionate ", "benevolent ", "benign ", "forbearing ", "indulgent ", "kind ", "kindly ", "parental ", "paternal ", "patriarchal ", "protective ", "supportive ", "tender "], "A": []}
+{"index": 110276, "D": "a male parent.", "S": ["affectionate", "benevolent", "benign", "forbearing", "indulgent", "kind", "kindly", "parental", "paternal", "patriarchal", "protective", "supportive", "tender"], "A": []}

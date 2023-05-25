@@ -1,1 +1,1 @@
-{"index": 35705, "D": "something, as an action or speech, that tends to flatter, coax, entice, etc.", "S": ["adulation ", "allurement ", "blarney ", "cajolery ", "coaxing ", "enticement ", "praise ", "sycophancy ", "wheedling "], "A": ["criticism "]}
+{"index": 35705, "D": "something, as an action or speech, that tends to flatter, coax, entice, etc.", "S": ["adulation", "allurement", "blarney", "cajolery", "coaxing", "enticement", "praise", "sycophancy", "wheedling"], "A": ["criticism"]}

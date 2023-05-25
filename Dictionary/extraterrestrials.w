@@ -1,1 +1,1 @@
-{"index": 108655, "D": "outside, or originating outside, the limits of the earth.", "S": ["Martian "], "A": []}
+{"index": 108655, "D": "outside, or originating outside, the limits of the earth.", "S": ["Martian"], "A": []}

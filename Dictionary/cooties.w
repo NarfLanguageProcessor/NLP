@@ -1,1 +1,1 @@
-{"index": 68391, "D": "a louse, especially one affecting humans, as the body louse, head louse, or pubic louse.", "S": ["ant ", "beetle ", "flea ", "pest "], "A": []}
+{"index": 68391, "D": "a louse, especially one affecting humans, as the body louse, head louse, or pubic louse.", "S": ["ant", "beetle", "flea", "pest"], "A": []}

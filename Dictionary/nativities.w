@@ -1,1 +1,1 @@
-{"index": 197293, "D": "birth. ", "S": ["birth ", "genesis "], "A": ["conclusion ", "end ", "finish ", "close ", "completion ", "death ", "ending ", "exit ", "stop "]}
+{"index": 197293, "D": "birth. ", "S": ["birth", "genesis"], "A": ["conclusion", "end", "finish", "close", "completion", "death", "ending", "exit", "stop"]}

@@ -1,0 +1,1 @@
+{"index": 38036, "D": "to weep noisily; blubber.", "S": ["sob"], "A": []}

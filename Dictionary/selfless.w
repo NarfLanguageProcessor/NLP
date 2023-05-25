@@ -1,1 +1,1 @@
-{"index": 283543, "D": "having little or no concern for oneself, especially with regard to fame, position, money, etc.; unselfish. ", "S": ["altruistic ", "charitable ", "generous ", "humanitarian ", "loving ", "magnanimous ", "noble ", "self-effacing "], "A": ["mean ", "selfish ", "stingy "]}
+{"index": 283543, "D": "having little or no concern for oneself, especially with regard to fame, position, money, etc.; unselfish. ", "S": ["altruistic", "charitable", "generous", "humanitarian", "loving", "magnanimous", "noble", "self-effacing"], "A": ["mean", "selfish", "stingy"]}

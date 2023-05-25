@@ -1,1 +1,1 @@
-{"index": 278645, "D": "the chief evil spirit; the great adversary of humanity; the devil.", "S": ["Antichrist ", "Beelzebub ", "Mephistopheles ", "demon ", "lucifer "], "A": ["Archfiend ", "Christ ", "Prince of Darkness ", "demon ", "lucifer ", "the Evil Spirit "]}
+{"index": 278645, "D": "the chief evil spirit; the great adversary of humanity; the devil.", "S": ["Antichrist", "Beelzebub", "Mephistopheles", "demon", "lucifer"], "A": ["Archfiend", "Christ", "Prince of Darkness", "demon", "lucifer", "the Evil Spirit"]}

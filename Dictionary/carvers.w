@@ -1,1 +1,1 @@
-{"index": 48715, "D": "to cut (a solid material) so as to form something", "S": ["artist ", "cutter ", "etcher ", "lapidary ", "lithographer ", "sculptor "], "A": []}
+{"index": 48715, "D": "to cut (a solid material) so as to form something", "S": ["artist", "cutter", "etcher", "lapidary", "lithographer", "sculptor"], "A": []}

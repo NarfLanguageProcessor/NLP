@@ -1,1 +1,1 @@
-{"index": 167401, "D": "a thickness of some material laid on or spread over a surface", "S": ["bed ", "blanket ", "coat ", "floor ", "row ", "sheet ", "slab ", "thickness "], "A": []}
+{"index": 167401, "D": "a thickness of some material laid on or spread over a surface", "S": ["bed", "blanket", "coat", "floor", "row", "sheet", "slab", "thickness"], "A": []}

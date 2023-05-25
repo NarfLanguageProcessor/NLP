@@ -1,1 +1,1 @@
-{"index": 79091, "D": "containing defamation;  injurious to reputation; slanderous or libelous", "S": ["derogatory ", "disparaging ", "injurious ", "insulting "], "A": ["complimentary "]}
+{"index": 79091, "D": "containing defamation;  injurious to reputation; slanderous or libelous", "S": ["derogatory", "disparaging", "injurious", "insulting"], "A": ["complimentary"]}

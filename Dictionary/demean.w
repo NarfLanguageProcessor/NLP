@@ -1,1 +1,1 @@
-{"index": 80407, "D": "to lower in dignity, honor, or standing; debase", "S": ["belittle ", "debase ", "degrade ", "despise ", "disparage "], "A": ["admire ", "approve ", "elevate ", "honor ", "laud ", "praise ", "upgrade ", "value ", "compliment ", "exalt ", "increase ", "rise "]}
+{"index": 80407, "D": "to lower in dignity, honor, or standing; debase", "S": ["belittle", "debase", "degrade", "despise", "disparage"], "A": ["admire", "approve", "elevate", "honor", "laud", "praise", "upgrade", "value", "compliment", "exalt", "increase", "rise"]}

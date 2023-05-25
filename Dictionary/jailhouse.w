@@ -1,1 +1,1 @@
-{"index": 160161, "D": "a jail  or building used as a jail. ", "S": ["cell ", "lockup ", "penitentiary ", "prison "], "A": []}
+{"index": 160161, "D": "a jail  or building used as a jail. ", "S": ["cell", "lockup", "penitentiary", "prison"], "A": []}

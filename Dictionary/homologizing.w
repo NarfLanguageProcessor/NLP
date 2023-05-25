@@ -1,1 +1,1 @@
-{"index": 143149, "D": "to make or show to be homologous. ", "S": ["accommodate ", "adapt ", "blend in ", "homogenize "], "A": ["disarrange ", "differ "]}
+{"index": 143149, "D": "to make or show to be homologous. ", "S": ["accommodate", "adapt", "blend in", "homogenize"], "A": ["disarrange", "differ"]}

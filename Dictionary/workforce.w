@@ -1,1 +1,1 @@
-{"index": 367496, "D": "the total number of workers in a specific undertaking", "S": ["labor pool ", "personnel "], "A": []}
+{"index": 367496, "D": "the total number of workers in a specific undertaking", "S": ["labor pool", "personnel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 364938, "D": "I've got whips of cash at the moment", "S": ["cane "], "A": []}
+{"index": 364938, "D": "I've got whips of cash at the moment", "S": ["cane"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 291742, "D": "verse, or a piece of verse, that is monotonously jingly in rhythm and pattern of pitch.", "S": ["belt out ", "chant ", "croon ", "hum ", "intone ", "serenade ", "shout ", "wait ", "warble ", "whistle "], "A": ["be quiet "]}
+{"index": 291742, "D": "verse, or a piece of verse, that is monotonously jingly in rhythm and pattern of pitch.", "S": ["belt out", "chant", "croon", "hum", "intone", "serenade", "shout", "wait", "warble", "whistle"], "A": ["be quiet"]}

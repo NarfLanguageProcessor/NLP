@@ -1,1 +1,1 @@
-{"index": 66561, "D": "a person who is especially competent to pass critical judgments in an art, particularly one of the fine arts, or in matters of taste", "S": ["aficionado ", "buff ", "devotee ", "dilettante "], "A": ["ignoramus "]}
+{"index": 66561, "D": "a person who is especially competent to pass critical judgments in an art, particularly one of the fine arts, or in matters of taste", "S": ["aficionado", "buff", "devotee", "dilettante"], "A": ["ignoramus"]}

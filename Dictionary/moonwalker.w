@@ -1,1 +1,1 @@
-{"index": 193119, "D": "an exploratory walk by an astronaut on the surface of the moon. ", "S": ["cosmonaut ", "pilot "], "A": []}
+{"index": 193119, "D": "an exploratory walk by an astronaut on the surface of the moon. ", "S": ["cosmonaut", "pilot"], "A": []}

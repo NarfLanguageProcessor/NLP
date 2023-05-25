@@ -1,1 +1,1 @@
-{"index": 38382, "D": "borderless prints", "S": ["undetermined "], "A": ["certain ", "definite ", "determined ", "exact ", "fixed ", "measurable ", "sure "]}
+{"index": 38382, "D": "borderless prints", "S": ["undetermined"], "A": ["certain", "definite", "determined", "exact", "fixed", "measurable", "sure"]}

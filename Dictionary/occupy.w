@@ -1,1 +1,1 @@
-{"index": 210748, "D": "to take or fill up (space, time, etc.)", "S": ["attend ", "employ ", "fill ", "involve ", "take up "], "A": ["ignore ", "bore ", "forget ", "refuse ", "reject "]}
+{"index": 210748, "D": "to take or fill up (space, time, etc.)", "S": ["attend", "employ", "fill", "involve", "take up"], "A": ["ignore", "bore", "forget", "refuse", "reject"]}

@@ -1,0 +1,1 @@
+{"index": 14044, "D": "the continent surrounding the South Pole", "S": [], "A": []}

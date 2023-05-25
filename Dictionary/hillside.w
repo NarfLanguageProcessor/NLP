@@ -1,1 +1,1 @@
-{"index": 139480, "D": "the side or slope of a hill.", "S": ["bluff ", "cliff ", "dune ", "highland ", "hilltop ", "ridge ", "slope "], "A": ["bottom ", "decline ", "depression ", "nadir "]}
+{"index": 139480, "D": "the side or slope of a hill.", "S": ["bluff", "cliff", "dune", "highland", "hilltop", "ridge", "slope"], "A": ["bottom", "decline", "depression", "nadir"]}

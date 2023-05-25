@@ -1,1 +1,1 @@
-{"index": 145594, "D": "the starchy, tuberous root of any of various climbing vines of the genus Dioscorea, cultivated for food in warm regions.", "S": ["murphy ", "plant ", "spud ", "tater ", "tuber "], "A": []}
+{"index": 145594, "D": "the starchy, tuberous root of any of various climbing vines of the genus Dioscorea, cultivated for food in warm regions.", "S": ["murphy", "plant", "spud", "tater", "tuber"], "A": []}

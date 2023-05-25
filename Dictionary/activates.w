@@ -1,1 +1,1 @@
-{"index": 3248, "D": "to make active; cause to function or act.", "S": ["call up ", "mobilize ", "stimulate ", "switch on ", "trigger ", "turn on "], "A": ["check ", "end ", "halt ", "stop ", "calm ", "discourage ", "dissuade "]}
+{"index": 3248, "D": "to make active; cause to function or act.", "S": ["call up", "mobilize", "stimulate", "switch on", "trigger", "turn on"], "A": ["check", "end", "halt", "stop", "calm", "discourage", "dissuade"]}

@@ -1,1 +1,1 @@
-{"index": 130400, "D": [], "S": ["belittling ", "cheating ", "scolding "], "A": ["generosity ", "nobility ", "worthiness "]}
+{"index": 130400, "D": [], "S": ["belittling", "cheating", "scolding"], "A": ["generosity", "nobility", "worthiness"]}

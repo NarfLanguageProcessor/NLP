@@ -1,1 +1,0 @@
-{"index": 309342, "D": "a person or thing acting or serving in place of another.", "S": ["change ", "exchange ", "swap ", "trade "], "A": []}

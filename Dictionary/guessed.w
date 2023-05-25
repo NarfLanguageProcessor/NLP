@@ -1,1 +1,1 @@
-{"index": 130942, "D": "to arrive at or commit oneself to an opinion about (something) without having sufficient evidence to support the opinion fully", "S": ["estimated "], "A": ["definite ", "precise "]}
+{"index": 130942, "D": "to arrive at or commit oneself to an opinion about (something) without having sufficient evidence to support the opinion fully", "S": ["estimated"], "A": ["definite", "precise"]}

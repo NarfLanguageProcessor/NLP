@@ -1,1 +1,1 @@
-{"index": 109098, "D": "of or relating to facts; concerning facts", "S": ["actually ", "approximately ", "necessarily ", "originally ", "permanently ", "quite ", "really ", "substantially ", "truly ", "typically ", "virtually "], "A": ["doubtfully "]}
+{"index": 109098, "D": "of or relating to facts; concerning facts", "S": ["actually", "approximately", "necessarily", "originally", "permanently", "quite", "really", "substantially", "truly", "typically", "virtually"], "A": ["doubtfully"]}

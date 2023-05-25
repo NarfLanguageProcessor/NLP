@@ -1,1 +1,1 @@
-{"index": 36621, "D": "windy", "S": ["blowing ", "blustering ", "blustery ", "breezy ", "gusty ", "squally ", "windy "], "A": []}
+{"index": 36621, "D": "windy", "S": ["blowing", "blustering", "blustery", "breezy", "gusty", "squally", "windy"], "A": []}

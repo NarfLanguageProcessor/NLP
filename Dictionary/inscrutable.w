@@ -1,1 +1,1 @@
-{"index": 153450, "D": "incapable of being investigated, analyzed, or scrutinized; impenetrable.", "S": ["enigmatic ", "impenetrable ", "incomprehensible ", "unfathomable ", "unintelligible "], "A": ["clear ", "comprehensible ", "fathomable ", "intelligible ", "understandable "]}
+{"index": 153450, "D": "incapable of being investigated, analyzed, or scrutinized; impenetrable.", "S": ["enigmatic", "impenetrable", "incomprehensible", "unfathomable", "unintelligible"], "A": ["clear", "comprehensible", "fathomable", "intelligible", "understandable"]}

@@ -1,1 +1,1 @@
-{"index": 11808, "D": "having analogy;  corresponding in some particular", "S": ["likewise "], "A": ["differently ", "dissimilarly ", "unequally ", "unevenly "]}
+{"index": 11808, "D": "having analogy;  corresponding in some particular", "S": ["likewise"], "A": ["differently", "dissimilarly", "unequally", "unevenly"]}

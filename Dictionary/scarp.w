@@ -1,1 +1,1 @@
-{"index": 279791, "D": "a line of cliffs formed by the faulting or fracturing of the earth's crust; an escarpment.", "S": ["bluff ", "crag ", "precipice ", "wall "], "A": []}
+{"index": 279791, "D": "a line of cliffs formed by the faulting or fracturing of the earth's crust; an escarpment.", "S": ["bluff", "crag", "precipice", "wall"], "A": []}

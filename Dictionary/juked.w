@@ -1,1 +1,1 @@
-{"index": 162215, "D": "to make a move intended to deceive (an opponent).", "S": ["ditch ", "duck ", "elude ", "escape ", "evade ", "fend off ", "shuffle ", "sidestep ", "skirt "], "A": ["face ", "meet ", "take on ", "release "]}
+{"index": 162215, "D": "to make a move intended to deceive (an opponent).", "S": ["ditch", "duck", "elude", "escape", "evade", "fend off", "shuffle", "sidestep", "skirt"], "A": ["face", "meet", "take on", "release"]}

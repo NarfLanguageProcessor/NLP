@@ -1,1 +1,1 @@
-{"index": 296702, "D": "a person who solicits. ", "S": ["courtroom "], "A": ["advantage ", "aid ", "help "]}
+{"index": 296702, "D": "a person who solicits. ", "S": ["courtroom"], "A": ["advantage", "aid", "help"]}

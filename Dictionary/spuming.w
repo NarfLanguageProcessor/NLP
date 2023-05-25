@@ -1,1 +1,1 @@
-{"index": 301463, "D": "to eject or discharge as or like foam or froth; spew (often followed by forth).", "S": ["boil ", "burble ", "churn ", "erupt ", "fester ", "gurgle ", "gush ", "percolate ", "seep ", "seethe ", "simmer ", "smolder ", "sparkle ", "stir ", "trickle "], "A": []}
+{"index": 301463, "D": "to eject or discharge as or like foam or froth; spew (often followed by forth).", "S": ["boil", "burble", "churn", "erupt", "fester", "gurgle", "gush", "percolate", "seep", "seethe", "simmer", "smolder", "sparkle", "stir", "trickle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 335671, "D": "incapable of being beaten; impossible to defeat", "S": ["invincible "], "A": ["beatable "]}
+{"index": 335671, "D": "incapable of being beaten; impossible to defeat", "S": ["invincible"], "A": ["beatable"]}

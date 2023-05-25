@@ -1,1 +1,1 @@
-{"index": 157229, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["rejuvenation ", "renewal ", "resurgence ", "revitalization ", "revival "], "A": ["destruction "]}
+{"index": 157229, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["rejuvenation", "renewal", "resurgence", "revitalization", "revival"], "A": ["destruction"]}

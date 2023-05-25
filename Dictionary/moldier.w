@@ -1,1 +1,1 @@
-{"index": 191422, "D": "overgrown or covered with mold. ", "S": ["funky ", "putrid ", "rotten ", "rotting ", "smelly ", "stale "], "A": ["fresh ", "new ", "perfumed "]}
+{"index": 191422, "D": "overgrown or covered with mold. ", "S": ["funky", "putrid", "rotten", "rotting", "smelly", "stale"], "A": ["fresh", "new", "perfumed"]}

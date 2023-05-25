@@ -1,1 +1,1 @@
-{"index": 7000, "D": "a small landing field having only one runway.", "S": ["airfield ", "installation ", "runway "], "A": []}
+{"index": 7000, "D": "a small landing field having only one runway.", "S": ["airfield", "installation", "runway"], "A": []}

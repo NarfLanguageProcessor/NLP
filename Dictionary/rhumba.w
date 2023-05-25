@@ -1,1 +1,1 @@
-{"index": 272382, "D": "rumba. ", "S": ["disco ", "samba ", "tango ", "waltz "], "A": []}
+{"index": 272382, "D": "rumba. ", "S": ["disco", "samba", "tango", "waltz"], "A": []}

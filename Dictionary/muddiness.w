@@ -1,1 +1,1 @@
-{"index": 194672, "D": "abounding in or covered with mud. ", "S": ["ambiguity ", "equivocalness ", "murkiness ", "obscureness ", "obscurity ", "opaqueness ", "uncertainty ", "unclearness "], "A": ["certainty ", "definiteness "]}
+{"index": 194672, "D": "abounding in or covered with mud. ", "S": ["ambiguity", "equivocalness", "murkiness", "obscureness", "obscurity", "opaqueness", "uncertainty", "unclearness"], "A": ["certainty", "definiteness"]}

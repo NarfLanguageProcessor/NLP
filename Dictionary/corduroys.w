@@ -1,1 +1,1 @@
-{"index": 68972, "D": "trousers or breeches of corduroy", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}
+{"index": 68972, "D": "trousers or breeches of corduroy", "S": ["knickers", "shorts", "slacks", "trousers", "underpants"], "A": []}

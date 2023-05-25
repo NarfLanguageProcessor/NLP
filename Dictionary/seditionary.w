@@ -1,1 +1,1 @@
-{"index": 283016, "D": "of or relating to sedition;  seditious.", "S": ["incendiary ", "intemperate ", "provocative "], "A": ["calming ", "mitigating ", "placating ", "pleasing ", "tranquilizing "]}
+{"index": 283016, "D": "of or relating to sedition;  seditious.", "S": ["incendiary", "intemperate", "provocative"], "A": ["calming", "mitigating", "placating", "pleasing", "tranquilizing"]}

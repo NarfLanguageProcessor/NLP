@@ -1,1 +1,1 @@
-{"index": 252127, "D": "producing offspring, young, fruit, etc., abundantly; highly fruitful", "S": ["creative ", "rich "], "A": ["barren ", "fruitless ", "impotent ", "unfruitful ", "unproductive "]}
+{"index": 252127, "D": "producing offspring, young, fruit, etc., abundantly; highly fruitful", "S": ["creative", "rich"], "A": ["barren", "fruitless", "impotent", "unfruitful", "unproductive"]}

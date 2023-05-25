@@ -1,1 +1,1 @@
-{"index": 139219, "D": "a peddler or huckster.", "S": ["contender ", "fanatic ", "haggler ", "zealot "], "A": []}
+{"index": 139219, "D": "a peddler or huckster.", "S": ["contender", "fanatic", "haggler", "zealot"], "A": []}

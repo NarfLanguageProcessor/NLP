@@ -1,1 +1,1 @@
-{"index": 115006, "D": "the act, state, or period of flowering; bloom.", "S": ["flourishing "], "A": []}
+{"index": 115006, "D": "the act, state, or period of flowering; bloom.", "S": ["flourishing"], "A": []}

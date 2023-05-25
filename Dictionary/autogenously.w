@@ -1,0 +1,1 @@
+{"index": 24069, "D": "self-produced; self-generated.", "S": [], "A": []}

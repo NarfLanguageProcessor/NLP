@@ -1,1 +1,1 @@
-{"index": 362083, "D": "to place on a waiting list", "S": ["short list ", "standby "], "A": []}
+{"index": 362083, "D": "to place on a waiting list", "S": ["short list", "standby"], "A": []}

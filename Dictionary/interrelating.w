@@ -1,1 +1,1 @@
-{"index": 155785, "D": "to bring or enter into reciprocal relation.", "S": ["integral ", "interdependent ", "reciprocal "], "A": ["different ", "dissimilar "]}
+{"index": 155785, "D": "to bring or enter into reciprocal relation.", "S": ["integral", "interdependent", "reciprocal"], "A": ["different", "dissimilar"]}

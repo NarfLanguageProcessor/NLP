@@ -1,1 +1,1 @@
-{"index": 61765, "D": "(of rules, laws, etc.) compiled into an orderly, formal code", "S": ["chartered ", "completed ", "founded ", "incorporated ", "initiated ", "organized ", "ratified ", "set up ", "settled "], "A": ["incomplete ", "unfinished "]}
+{"index": 61765, "D": "(of rules, laws, etc.) compiled into an orderly, formal code", "S": ["chartered", "completed", "founded", "incorporated", "initiated", "organized", "ratified", "set up", "settled"], "A": ["incomplete", "unfinished"]}

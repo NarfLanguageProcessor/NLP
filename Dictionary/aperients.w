@@ -1,1 +1,1 @@
-{"index": 16730, "D": "having a mild purgative or laxative effect.", "S": ["aperient ", "emetic ", "laxative ", "physic ", "purge "], "A": []}
+{"index": 16730, "D": "having a mild purgative or laxative effect.", "S": ["aperient", "emetic", "laxative", "physic", "purge"], "A": []}

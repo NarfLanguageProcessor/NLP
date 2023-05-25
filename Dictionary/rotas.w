@@ -1,1 +1,1 @@
-{"index": 274612, "D": "an agenda or circuit of sporting events, as a round of golf tournaments, played in different localities throughout the year.", "S": ["census ", "head count ", "muster ", "roll ", "roster ", "scroll ", "vote "], "A": []}
+{"index": 274612, "D": "an agenda or circuit of sporting events, as a round of golf tournaments, played in different localities throughout the year.", "S": ["census", "head count", "muster", "roll", "roster", "scroll", "vote"], "A": []}

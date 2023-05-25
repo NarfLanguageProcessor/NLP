@@ -1,1 +1,1 @@
-{"index": 192293, "D": "Compare bigamy, polygamy. ", "S": ["abstinence ", "decency ", "virginity "], "A": ["badness ", "corruption ", "disgrace ", "dishonesty ", "dishonor ", "evil ", "immorality ", "wildness "]}
+{"index": 192293, "D": "Compare bigamy, polygamy. ", "S": ["abstinence", "decency", "virginity"], "A": ["badness", "corruption", "disgrace", "dishonesty", "dishonor", "evil", "immorality", "wildness"]}

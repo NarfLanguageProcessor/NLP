@@ -1,1 +1,1 @@
-{"index": 7848, "D": "a tavern where ale or beer is sold; bar; pub.", "S": ["bistro ", "inn ", "lounge ", "pub ", "saloon ", "tavern "], "A": ["advantage ", "aid ", "help "]}
+{"index": 7848, "D": "a tavern where ale or beer is sold; bar; pub.", "S": ["bistro", "inn", "lounge", "pub", "saloon", "tavern"], "A": ["advantage", "aid", "help"]}

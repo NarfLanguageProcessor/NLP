@@ -1,1 +1,1 @@
-{"index": 109113, "D": "an ability, natural or acquired, for a particular kind of action", "S": ["common sense ", "innate common sense ", "intellectual gifts ", "nous ", "senses ", "wits "], "A": []}
+{"index": 109113, "D": "an ability, natural or acquired, for a particular kind of action", "S": ["common sense", "innate common sense", "intellectual gifts", "nous", "senses", "wits"], "A": []}

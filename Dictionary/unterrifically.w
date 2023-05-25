@@ -1,1 +1,0 @@
-{"index": 352848, "D": "extraordinarily great or intense", "S": [], "A": []}

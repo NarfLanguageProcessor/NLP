@@ -1,1 +1,1 @@
-{"index": 167286, "D": "anything sunk in the sea, but attached to a buoy or the like so that it may be recovered.", "S": ["floating debris ", "floating wreckage "], "A": []}
+{"index": 167286, "D": "anything sunk in the sea, but attached to a buoy or the like so that it may be recovered.", "S": ["floating debris", "floating wreckage"], "A": []}

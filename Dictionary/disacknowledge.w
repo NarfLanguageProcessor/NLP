@@ -1,1 +1,1 @@
-{"index": 86899, "D": [], "S": ["abandon ", "disavow ", "disclaim ", "disown ", "refute ", "reject ", "renounce ", "repudiate ", "revoke "], "A": []}
+{"index": 86899, "D": [], "S": ["abandon", "disavow", "disclaim", "disown", "refute", "reject", "renounce", "repudiate", "revoke"], "A": []}

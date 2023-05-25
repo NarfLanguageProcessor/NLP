@@ -1,1 +1,1 @@
-{"index": 92226, "D": "a depressing experience, person, or situation.", "S": ["bummer ", "drag ", "misfortune "], "A": []}
+{"index": 92226, "D": "a depressing experience, person, or situation.", "S": ["bummer", "drag", "misfortune"], "A": []}

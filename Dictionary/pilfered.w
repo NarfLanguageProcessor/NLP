@@ -1,1 +1,1 @@
-{"index": 236609, "D": "to steal, especially in small quantities.", "S": ["filch ", "purloin ", "swipe "], "A": ["free ", "give ", "keep ", "offer ", "receive ", "refuse ", "reject ", "return "]}
+{"index": 236609, "D": "to steal, especially in small quantities.", "S": ["filch", "purloin", "swipe"], "A": ["free", "give", "keep", "offer", "receive", "refuse", "reject", "return"]}

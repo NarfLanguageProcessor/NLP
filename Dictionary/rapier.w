@@ -1,1 +1,1 @@
-{"index": 260736, "D": "a small sword, especially of the 18th century, having a narrow blade and used for thrusting.", "S": ["blade ", "dagger ", "weapon "], "A": []}
+{"index": 260736, "D": "a small sword, especially of the 18th century, having a narrow blade and used for thrusting.", "S": ["blade", "dagger", "weapon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 138649, "D": "a surface form creating a thrust against water in a direction perpendicular to the plane approximated by the surface.", "S": ["cigarette boat ", "hydroplane ", "speedboat "], "A": []}
+{"index": 138649, "D": "a surface form creating a thrust against water in a direction perpendicular to the plane approximated by the surface.", "S": ["cigarette boat", "hydroplane", "speedboat"], "A": []}

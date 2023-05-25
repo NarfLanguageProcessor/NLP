@@ -1,1 +1,1 @@
-{"index": 176406, "D": "full of or motivated by lust,  greed, or the like", "S": ["excitedly ", "intensely ", "lovingly "], "A": []}
+{"index": 176406, "D": "full of or motivated by lust,  greed, or the like", "S": ["excitedly", "intensely", "lovingly"], "A": []}

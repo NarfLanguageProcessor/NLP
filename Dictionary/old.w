@@ -1,1 +1,1 @@
-{"index": 212002, "D": "far advanced in the years of one's or its life", "S": ["aged ", "ancient ", "decrepit ", "elderly ", "gray ", "mature ", "tired ", "venerable "], "A": ["new ", "young ", "youthful ", "green ", "inexperienced "]}
+{"index": 212002, "D": "far advanced in the years of one's or its life", "S": ["aged", "ancient", "decrepit", "elderly", "gray", "mature", "tired", "venerable"], "A": ["new", "young", "youthful", "green", "inexperienced"]}

@@ -1,1 +1,1 @@
-{"index": 344792, "D": "made afraid; frightened, especially by the threats or aggression of another", "S": ["courageous ", "fearless ", "gritty ", "steadfast ", "uncompromising ", "unyielding "], "A": ["afraid ", "cowardly ", "fearful ", "flexible ", "timid "]}
+{"index": 344792, "D": "made afraid; frightened, especially by the threats or aggression of another", "S": ["courageous", "fearless", "gritty", "steadfast", "uncompromising", "unyielding"], "A": ["afraid", "cowardly", "fearful", "flexible", "timid"]}

@@ -1,1 +1,1 @@
-{"index": 257485, "D": "40 years of age.", "S": ["quadragesimal "], "A": []}
+{"index": 257485, "D": "40 years of age.", "S": ["quadragesimal"], "A": []}

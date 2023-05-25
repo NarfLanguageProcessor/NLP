@@ -1,1 +1,1 @@
-{"index": 181164, "D": "American clergyman and author.", "S": ["analytical ", "numerical ", "scientific "], "A": []}
+{"index": 181164, "D": "American clergyman and author.", "S": ["analytical", "numerical", "scientific"], "A": []}

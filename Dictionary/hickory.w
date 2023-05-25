@@ -1,1 +1,1 @@
-{"index": 138302, "D": "Compare pecan, shagbark. ", "S": ["business ", "staff "], "A": []}
+{"index": 138302, "D": "Compare pecan, shagbark. ", "S": ["business", "staff"], "A": []}

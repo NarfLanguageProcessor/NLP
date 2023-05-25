@@ -1,1 +1,1 @@
-{"index": 99257, "D": "a person who enchants  or delights.", "S": ["conjurer ", "magician ", "sorcerer ", "witch "], "A": []}
+{"index": 99257, "D": "a person who enchants  or delights.", "S": ["conjurer", "magician", "sorcerer", "witch"], "A": []}

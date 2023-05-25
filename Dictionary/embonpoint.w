@@ -1,1 +1,1 @@
-{"index": 98183, "D": "excessive plumpness; stoutness.", "S": ["burly ", "fleshy ", "obese ", "portly "], "A": ["skinny ", "thin ", "underweight "]}
+{"index": 98183, "D": "excessive plumpness; stoutness.", "S": ["burly", "fleshy", "obese", "portly"], "A": ["skinny", "thin", "underweight"]}

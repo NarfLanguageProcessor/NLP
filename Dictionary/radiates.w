@@ -1,1 +1,1 @@
-{"index": 259543, "D": "to extend, spread, or move like rays or radii from a center.", "S": ["beam ", "diffuse ", "diverge ", "emanate ", "emit ", "gleam ", "light up ", "shine ", "transmit "], "A": ["dull ", "take ", "collect ", "conceal ", "gather ", "hide ", "hold ", "keep "]}
+{"index": 259543, "D": "to extend, spread, or move like rays or radii from a center.", "S": ["beam", "diffuse", "diverge", "emanate", "emit", "gleam", "light up", "shine", "transmit"], "A": ["dull", "take", "collect", "conceal", "gather", "hide", "hold", "keep"]}

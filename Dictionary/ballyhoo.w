@@ -1,1 +1,1 @@
-{"index": 26972, "D": "a clamorous and vigorous attempt to win customers or advance any cause; blatant advertising or publicity.", "S": ["advertisement ", "buildup ", "hoopla ", "hype ", "plug ", "promotion ", "publicity ", "touting "], "A": []}
+{"index": 26972, "D": "a clamorous and vigorous attempt to win customers or advance any cause; blatant advertising or publicity.", "S": ["advertisement", "buildup", "hoopla", "hype", "plug", "promotion", "publicity", "touting"], "A": []}

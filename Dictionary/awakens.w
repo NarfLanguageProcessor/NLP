@@ -1,1 +1,1 @@
-{"index": 24948, "D": "to awake; waken.", "S": ["arouse ", "awake ", "excite ", "provoke ", "revive ", "rouse ", "wake "], "A": ["bore ", "calm ", "deaden ", "lull ", "quiet ", "sleep ", "discourage ", "stop "]}
+{"index": 24948, "D": "to awake; waken.", "S": ["arouse", "awake", "excite", "provoke", "revive", "rouse", "wake"], "A": ["bore", "calm", "deaden", "lull", "quiet", "sleep", "discourage", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 67249, "D": "capable of being transmitted by bodily contact with an infected person or object", "S": ["deadly ", "endemic ", "infectious ", "poisonous ", "spreading "], "A": ["harmless "]}
+{"index": 67249, "D": "capable of being transmitted by bodily contact with an infected person or object", "S": ["deadly", "endemic", "infectious", "poisonous", "spreading"], "A": ["harmless"]}

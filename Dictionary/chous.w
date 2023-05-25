@@ -1,1 +1,1 @@
-{"index": 55930, "D": [], "S": ["cannoli ", "cream horn ", "croquembouche ", "profiterole ", "puff "], "A": []}
+{"index": 55930, "D": [], "S": ["cannoli", "cream horn", "croquembouche", "profiterole", "puff"], "A": []}

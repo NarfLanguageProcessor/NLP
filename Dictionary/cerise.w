@@ -1,1 +1,1 @@
-{"index": 51508, "D": "moderate to deep red.", "S": ["blooming ", "claret ", "crimson "], "A": []}
+{"index": 51508, "D": "moderate to deep red.", "S": ["blooming", "claret", "crimson"], "A": []}

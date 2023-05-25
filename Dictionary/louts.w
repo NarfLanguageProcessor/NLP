@@ -1,1 +1,1 @@
-{"index": 175516, "D": "an awkward, stupid person; clumsy, ill-mannered boor; oaf.", "S": ["brute ", "buffoon ", "bumpkin ", "slob "], "A": []}
+{"index": 175516, "D": "an awkward, stupid person; clumsy, ill-mannered boor; oaf.", "S": ["brute", "buffoon", "bumpkin", "slob"], "A": []}

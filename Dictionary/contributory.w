@@ -1,1 +1,1 @@
-{"index": 67774, "D": "pertaining to or of the nature of contribution; contributing. ", "S": ["conducive ", "contributing ", "contributive ", "related ", "responsible "], "A": []}
+{"index": 67774, "D": "pertaining to or of the nature of contribution; contributing. ", "S": ["conducive", "contributing", "contributive", "related", "responsible"], "A": []}

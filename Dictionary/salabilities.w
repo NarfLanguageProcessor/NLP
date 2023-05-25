@@ -1,1 +1,1 @@
-{"index": 276905, "D": "subject to or suitable for sale;  readily sold", "S": ["profitableness ", "salableness "], "A": []}
+{"index": 276905, "D": "subject to or suitable for sale;  readily sold", "S": ["profitableness", "salableness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 5724, "D": "the time from noon  until evening.", "S": ["siesta ", "teatime "], "A": []}
+{"index": 5724, "D": "the time from noon  until evening.", "S": ["siesta", "teatime"], "A": []}

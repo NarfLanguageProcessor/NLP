@@ -1,1 +1,1 @@
-{"index": 282209, "D": "having a surface or shape molded, marked, carved, indented, etc., by or as if by sculpture", "S": ["chiseled ", "engraved ", "sculpted "], "A": []}
+{"index": 282209, "D": "having a surface or shape molded, marked, carved, indented, etc., by or as if by sculpture", "S": ["chiseled", "engraved", "sculpted"], "A": []}

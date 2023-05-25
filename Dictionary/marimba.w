@@ -1,1 +1,1 @@
-{"index": 180074, "D": "a musical instrument, originating in Africa but popularized and modified in Central America, consisting of a set of graduated wooden bars, often with resonators beneath to reinforce the sound, struck with mallets.", "S": ["carillon ", "vibraphone "], "A": []}
+{"index": 180074, "D": "a musical instrument, originating in Africa but popularized and modified in Central America, consisting of a set of graduated wooden bars, often with resonators beneath to reinforce the sound, struck with mallets.", "S": ["carillon", "vibraphone"], "A": []}

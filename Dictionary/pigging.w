@@ -1,1 +1,1 @@
-{"index": 236379, "D": "a young swine of either sex, especially a domestic hog, Sus scrofa, typically weighing less than 300 pounds (136 kilograms).", "S": ["binge ", "feast ", "gluttonize ", "gorge ", "gourmandize ", "overindulge ", "pig ", "scarf ", "surfeit "], "A": ["abstain ", "fast "]}
+{"index": 236379, "D": "a young swine of either sex, especially a domestic hog, Sus scrofa, typically weighing less than 300 pounds (136 kilograms).", "S": ["binge", "feast", "gluttonize", "gorge", "gourmandize", "overindulge", "pig", "scarf", "surfeit"], "A": ["abstain", "fast"]}

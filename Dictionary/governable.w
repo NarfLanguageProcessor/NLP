@@ -1,1 +1,1 @@
-{"index": 128375, "D": "to rule over by right of authority", "S": ["controllable ", "docile ", "submissive ", "workable "], "A": []}
+{"index": 128375, "D": "to rule over by right of authority", "S": [], "A": []}

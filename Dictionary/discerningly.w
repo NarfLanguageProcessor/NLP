@@ -1,1 +1,1 @@
-{"index": 87282, "D": "showing good or outstanding judgment and understanding", "S": ["brilliantly ", "judiciously ", "logically ", "prudently ", "rationally ", "reasonably ", "sensibly ", "shrewdly ", "skillfully ", "wisely "], "A": ["badly ", "foolishly ", "stupidly ", "unintelligently "]}
+{"index": 87282, "D": "showing good or outstanding judgment and understanding", "S": ["brilliantly", "judiciously", "logically", "prudently", "rationally", "reasonably", "sensibly", "shrewdly", "skillfully", "wisely"], "A": ["badly", "foolishly", "stupidly", "unintelligently"]}

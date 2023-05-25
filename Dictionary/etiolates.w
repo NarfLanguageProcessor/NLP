@@ -1,1 +1,1 @@
-{"index": 105186, "D": "to cause (a plant) to whiten or grow pale by excluding light", "S": ["blanch ", "bleach ", "diminish ", "enervate ", "exhaust ", "fade ", "faint ", "pale ", "sicken ", "wan ", "whiten "], "A": ["animate ", "blacken ", "brighten ", "darken ", "invigorate ", "strengthen "]}
+{"index": 105186, "D": "to cause (a plant) to whiten or grow pale by excluding light", "S": ["blanch", "bleach", "diminish", "enervate", "exhaust", "fade", "faint", "pale", "sicken", "wan", "whiten"], "A": ["animate", "blacken", "brighten", "darken", "invigorate", "strengthen"]}

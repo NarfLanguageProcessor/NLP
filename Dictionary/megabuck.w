@@ -1,1 +1,0 @@
-{"index": 182326, "D": "one million dollars.", "S": [], "A": []}

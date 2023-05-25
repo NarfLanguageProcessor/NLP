@@ -1,1 +1,1 @@
-{"index": 129624, "D": "the act or words of a person who greets. ", "S": ["hello ", "nod ", "ovation ", "reception ", "salute "], "A": ["heedlessness ", "ignorance ", "neglect "]}
+{"index": 129624, "D": "the act or words of a person who greets. ", "S": ["hello", "nod", "ovation", "reception", "salute"], "A": ["heedlessness", "ignorance", "neglect"]}

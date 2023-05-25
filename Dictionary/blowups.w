@@ -1,1 +1,1 @@
-{"index": 36655, "D": "an explosion.", "S": ["eruption "], "A": []}
+{"index": 36655, "D": "an explosion.", "S": ["eruption"], "A": []}

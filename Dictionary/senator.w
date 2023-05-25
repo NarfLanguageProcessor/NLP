@@ -1,1 +1,1 @@
-{"index": 285213, "D": "a member of a senate. ", "S": ["lawmaker ", "legislator ", "politician "], "A": []}
+{"index": 285213, "D": "a member of a senate. ", "S": ["lawmaker", "legislator", "politician"], "A": []}

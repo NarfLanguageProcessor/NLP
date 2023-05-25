@@ -1,1 +1,1 @@
-{"index": 119429, "D": "characterized by or producing frost;  freezing; very cold", "S": ["chilliness ", "coldness ", "coolness ", "frigidity ", "gelidity ", "iciness "], "A": []}
+{"index": 119429, "D": "characterized by or producing frost;  freezing; very cold", "S": ["chilliness", "coldness", "coolness", "frigidity", "gelidity", "iciness"], "A": []}

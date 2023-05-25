@@ -1,1 +1,1 @@
-{"index": 75952, "D": "to play and splash in or as if in water, especially with the hands.", "S": ["green ", "rookie ", "tenderfoot "], "A": ["professional "]}
+{"index": 75952, "D": "to play and splash in or as if in water, especially with the hands.", "S": ["green", "rookie", "tenderfoot"], "A": ["professional"]}

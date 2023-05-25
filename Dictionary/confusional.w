@@ -1,1 +1,1 @@
-{"index": 66097, "D": "the act of confusing. ", "S": ["addled ", "baffled ", "befuddled ", "bewildered ", "confounded ", "disturbed ", "perplexed ", "puzzled ", "turbid "], "A": []}
+{"index": 66097, "D": "the act of confusing. ", "S": ["addled", "baffled", "befuddled", "bewildered", "confounded", "disturbed", "perplexed", "puzzled", "turbid"], "A": []}

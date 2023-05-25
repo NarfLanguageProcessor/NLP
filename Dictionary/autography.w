@@ -1,0 +1,1 @@
+{"index": 24084, "D": "the act of writing by one's own hand.", "S": ["calligraphy", "longhand", "manuscript", "scrawl", "script", "writing"], "A": []}

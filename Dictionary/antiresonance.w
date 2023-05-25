@@ -1,0 +1,1 @@
+{"index": 16085, "D": "a phenomenon in an electric, acoustic, or other such system in which the impedance is tending to infinity.", "S": [], "A": []}

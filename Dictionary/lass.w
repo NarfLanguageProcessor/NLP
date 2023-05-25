@@ -1,1 +1,1 @@
-{"index": 168750, "D": "a girl or young woman, especially one who is unmarried.", "S": ["colleen ", "maid ", "maiden "], "A": []}
+{"index": 168750, "D": "a girl or young woman, especially one who is unmarried.", "S": ["colleen", "maid", "maiden"], "A": []}

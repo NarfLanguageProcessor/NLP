@@ -1,1 +1,1 @@
-{"index": 102764, "D": "of or relating to a bishop", "S": ["ecclesiastical ", "ministerial ", "monastic ", "pastoral ", "rabbinical "], "A": []}
+{"index": 102764, "D": "of or relating to a bishop", "S": ["ecclesiastical", "ministerial", "monastic", "pastoral", "rabbinical"], "A": []}

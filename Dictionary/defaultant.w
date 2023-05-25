@@ -1,1 +1,1 @@
-{"index": 79112, "D": [], "S": ["offending ", "overdue ", "tardy ", "unpaid "], "A": ["early ", "paid "]}
+{"index": 79112, "D": [], "S": ["offending", "overdue", "tardy", "unpaid"], "A": ["early", "paid"]}

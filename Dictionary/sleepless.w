@@ -1,1 +1,1 @@
-{"index": 293905, "D": "without sleep", "S": ["fidgety "], "A": []}
+{"index": 293905, "D": "without sleep", "S": ["fidgety"], "A": []}

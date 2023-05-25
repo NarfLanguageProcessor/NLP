@@ -1,1 +1,1 @@
-{"index": 39764, "D": "to cause (someone) to undergo brainwashing.", "S": ["educate ", "indoctrinate "], "A": []}
+{"index": 39764, "D": "to cause (someone) to undergo brainwashing.", "S": ["educate", "indoctrinate"], "A": []}

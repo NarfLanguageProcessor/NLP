@@ -1,1 +1,1 @@
-{"index": 161579, "D": "joyous feeling; gladness.", "S": ["contentment ", "glee ", "joy ", "pleasure ", "satisfaction "], "A": ["discontent ", "dissatisfaction ", "sadness ", "sorrow ", "unhappiness ", "dislike ", "hate ", "hatred "]}
+{"index": 161579, "D": "joyous feeling; gladness.", "S": ["contentment", "glee", "joy", "pleasure", "satisfaction"], "A": ["discontent", "dissatisfaction", "sadness", "sorrow", "unhappiness", "dislike", "hate", "hatred"]}

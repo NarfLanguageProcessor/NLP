@@ -1,1 +1,1 @@
-{"index": 328454, "D": "a person who performs, especially professionally, on a trapeze.", "S": ["clown ", "dancer ", "gymnast ", "performer ", "tumbler "], "A": ["clod "]}
+{"index": 328454, "D": "a person who performs, especially professionally, on a trapeze.", "S": ["clown", "dancer", "gymnast", "performer", "tumbler"], "A": ["clod"]}

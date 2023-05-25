@@ -1,1 +1,1 @@
-{"index": 108213, "D": "stretched out", "S": ["continued ", "drawn-out ", "lengthy ", "protracted "], "A": ["abbreviated ", "abridged ", "compressed ", "condensed ", "contracted ", "curtailed ", "cut ", "lessened ", "narrow ", "reduced ", "shortened "]}
+{"index": 108213, "D": "stretched out", "S": ["continued", "drawn-out", "lengthy", "protracted"], "A": ["abbreviated", "abridged", "compressed", "condensed", "contracted", "curtailed", "cut", "lessened", "narrow", "reduced", "shortened"]}

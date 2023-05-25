@@ -1,1 +1,1 @@
-{"index": 281553, "D": "to go away; get out (usually used as a command)", "S": ["decamp ", "depart ", "disappear ", "hightail ", "scoot ", "skedaddle ", "vamoose "], "A": ["arrive ", "stay "]}
+{"index": 281553, "D": "to go away; get out (usually used as a command)", "S": ["decamp", "depart", "disappear", "hightail", "scoot", "skedaddle", "vamoose"], "A": ["arrive", "stay"]}

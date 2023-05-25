@@ -1,1 +1,0 @@
-{"index": 293836, "D": "to divide or separate into filaments, as silk.", "S": [], "A": []}

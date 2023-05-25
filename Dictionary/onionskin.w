@@ -1,1 +1,0 @@
-{"index": 212825, "D": "a thin, lightweight, translucent, glazed paper, used especially for making carbon copies.", "S": ["card ", "note ", "pad ", "poster ", "sheet ", "stationery "], "A": []}

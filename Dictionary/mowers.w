@@ -1,1 +1,1 @@
-{"index": 194423, "D": "lawn mower. ", "S": ["cutter ", "grass cutter ", "push mower ", "riding mower ", "trimmer "], "A": []}
+{"index": 194423, "D": "lawn mower. ", "S": ["cutter", "grass cutter", "push mower", "riding mower", "trimmer"], "A": []}

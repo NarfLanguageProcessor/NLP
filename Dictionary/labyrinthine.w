@@ -1,1 +1,1 @@
-{"index": 166709, "D": "of, relating to, or resembling a labyrinth. ", "S": ["convoluted ", "intricate ", "meandering ", "serpentine ", "tangled ", "tortuous ", "twisting ", "winding "], "A": ["direct ", "simple ", "straight ", "straightforward "]}
+{"index": 166709, "D": "of, relating to, or resembling a labyrinth. ", "S": ["convoluted", "intricate", "meandering", "serpentine", "tangled", "tortuous", "twisting", "winding"], "A": ["direct", "simple", "straight", "straightforward"]}

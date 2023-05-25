@@ -1,1 +1,1 @@
-{"index": 350129, "D": "calm; not emotionally upset or agitated; steady; unflustered", "S": ["composed ", "undisturbed ", "unflappable "], "A": ["upset ", "worried "]}
+{"index": 350129, "D": "calm; not emotionally upset or agitated; steady; unflustered", "S": ["composed", "undisturbed", "unflappable"], "A": ["upset", "worried"]}

@@ -1,1 +1,1 @@
-{"index": 147571, "D": "a physical likeness or representation of a person, animal, or thing, photographed, painted, sculptured, or otherwise made visible.", "S": ["ocular ", "optical "], "A": []}
+{"index": 147571, "D": "a physical likeness or representation of a person, animal, or thing, photographed, painted, sculptured, or otherwise made visible.", "S": ["ocular", "optical"], "A": []}

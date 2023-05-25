@@ -1,1 +1,1 @@
-{"index": 215296, "D": "yawning, as with drowsiness; gaping.", "S": ["apathy ", "laziness ", "paralysis ", "passivity ", "sluggishness "], "A": ["action ", "busyness ", "liveliness "]}
+{"index": 215296, "D": "yawning, as with drowsiness; gaping.", "S": ["apathy", "laziness", "paralysis", "passivity", "sluggishness"], "A": ["action", "busyness", "liveliness"]}

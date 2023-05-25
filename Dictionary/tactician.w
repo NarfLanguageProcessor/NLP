@@ -1,1 +1,1 @@
-{"index": 315124, "D": "a person who is adept in planning tactics. ", "S": ["agent ", "envoy ", "expert ", "mediator ", "minister ", "negotiator ", "representative "], "A": []}
+{"index": 315124, "D": "a person who is adept in planning tactics. ", "S": ["agent", "envoy", "expert", "mediator", "minister", "negotiator", "representative"], "A": []}

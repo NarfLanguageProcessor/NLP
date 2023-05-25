@@ -1,1 +1,1 @@
-{"index": 91074, "D": "sorrowful; mournful; melancholy", "S": ["wistfully "], "A": ["happily "]}
+{"index": 91074, "D": "sorrowful; mournful; melancholy", "S": ["wistfully"], "A": ["happily"]}

@@ -1,1 +1,1 @@
-{"index": 116037, "D": "the act of caressing or touching lovingly or tenderly", "S": ["extravagance ", "kindness ", "leniency ", "permissiveness ", "privilege "], "A": ["disapproval ", "disfavor ", "disregard ", "dissatisfaction ", "frustration ", "intolerance ", "need ", "want "]}
+{"index": 116037, "D": "the act of caressing or touching lovingly or tenderly", "S": ["extravagance", "kindness", "leniency", "permissiveness", "privilege"], "A": ["disapproval", "disfavor", "disregard", "dissatisfaction", "frustration", "intolerance", "need", "want"]}

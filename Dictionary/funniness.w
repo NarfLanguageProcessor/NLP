@@ -1,1 +1,1 @@
-{"index": 120316, "D": "providing fun;  causing amusement or laughter; amusing; comical", "S": ["comedy ", "comicality ", "drollery ", "humorousness ", "jocoseness ", "jocosity ", "jocularity ", "waggery ", "waggishness ", "wittiness "], "A": []}
+{"index": 120316, "D": "providing fun;  causing amusement or laughter; amusing; comical", "S": ["comedy", "comicality", "drollery", "humorousness", "jocoseness", "jocosity", "jocularity", "waggery", "waggishness", "wittiness"], "A": []}

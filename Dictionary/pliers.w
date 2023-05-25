@@ -1,1 +1,1 @@
-{"index": 240097, "D": "a gripping tool consisting of two hinged arms with usually serrated jaws that close on the workpiece", "S": ["forceps ", "tongs "], "A": []}
+{"index": 240097, "D": "a gripping tool consisting of two hinged arms with usually serrated jaws that close on the workpiece", "S": ["forceps", "tongs"], "A": []}

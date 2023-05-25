@@ -1,1 +1,1 @@
-{"index": 364615, "D": [], "S": ["barred ", "grooved ", "marked ", "ridged ", "striate ", "striated ", "striped ", "tore ", "variegated ", "veined ", "whelked "], "A": []}
+{"index": 364615, "D": [], "S": ["barred", "grooved", "marked", "ridged", "striate", "striated", "striped", "tore", "variegated", "veined", "whelked"], "A": []}

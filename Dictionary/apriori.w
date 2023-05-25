@@ -1,0 +1,1 @@
+{"index": 18073, "D": [], "S": ["based on theory", "deduced", "deductive", "derivable", "inferred", "presumptive", "rational", "reasoned", "supposed", "theoretical"], "A": []}

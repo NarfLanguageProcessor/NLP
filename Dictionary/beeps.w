@@ -1,1 +1,1 @@
-{"index": 30363, "D": "a short, relatively high-pitched tone produced by a horn, electronic device, or the like as a signal, summons, or warning.", "S": ["bleep ", "ding ", "signal ", "tone ", "warning "], "A": []}
+{"index": 30363, "D": "a short, relatively high-pitched tone produced by a horn, electronic device, or the like as a signal, summons, or warning.", "S": ["bleep", "ding", "signal", "tone", "warning"], "A": []}

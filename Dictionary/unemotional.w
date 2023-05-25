@@ -1,1 +1,1 @@
-{"index": 341186, "D": "lacking in strong feeling", "S": ["deadpan ", "dispassionate ", "emotionless ", "impassive ", "laid-back ", "reticent "], "A": ["emotional ", "feeling ", "passionate "]}
+{"index": 341186, "D": "lacking in strong feeling", "S": ["deadpan", "dispassionate", "emotionless", "impassive", "laid-back", "reticent"], "A": ["emotional", "feeling", "passionate"]}

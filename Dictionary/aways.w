@@ -1,1 +1,1 @@
-{"index": 24927, "D": [], "S": ["away ", "depart ", "hightail ", "leave ", "off ", "out ", "scat ", "scoot ", "scram ", "shoo ", "skiddoo ", "vamoose "], "A": []}
+{"index": 24927, "D": [], "S": ["away", "depart", "hightail", "leave", "off", "out", "scat", "scoot", "scram", "shoo", "skiddoo", "vamoose"], "A": []}

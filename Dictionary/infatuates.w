@@ -1,1 +1,1 @@
-{"index": 151846, "D": "to inspire or possess with a foolish or unreasoning passion, as of love.", "S": ["lover "], "A": []}
+{"index": 151846, "D": "to inspire or possess with a foolish or unreasoning passion, as of love.", "S": ["lover"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 216068, "D": "a unit of weight equal to 437.5 grains or 1/16 pound (28.35 grams) avoirdupois.", "S": ["troy "], "A": []}
+{"index": 216068, "D": "a unit of weight equal to 437.5 grains or 1/16 pound (28.35 grams) avoirdupois.", "S": ["troy"], "A": []}

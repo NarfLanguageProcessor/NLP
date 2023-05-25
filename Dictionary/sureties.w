@@ -1,1 +1,1 @@
-{"index": 313375, "D": "security against loss or damage or for the fulfillment of an obligation, the payment of a debt, etc.; a pledge, guaranty, or bond.", "S": ["bail ", "guarantee ", "guaranty ", "security "], "A": []}
+{"index": 313375, "D": "security against loss or damage or for the fulfillment of an obligation, the payment of a debt, etc.; a pledge, guaranty, or bond.", "S": ["bail", "guarantee", "guaranty", "security"], "A": []}

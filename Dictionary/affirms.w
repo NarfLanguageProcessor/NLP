@@ -1,1 +1,1 @@
-{"index": 5408, "D": "to state or assert positively; maintain as true", "S": ["assert ", "confirm ", "declare ", "guarantee ", "insist ", "maintain ", "profess ", "ratify ", "repeat "], "A": ["deny ", "forget ", "veto ", "disavow ", "refute ", "reject ", "renounce ", "repudiate "]}
+{"index": 5408, "D": "to state or assert positively; maintain as true", "S": ["assert", "confirm", "declare", "guarantee", "insist", "maintain", "profess", "ratify", "repeat"], "A": ["deny", "forget", "veto", "disavow", "refute", "reject", "renounce", "repudiate"]}

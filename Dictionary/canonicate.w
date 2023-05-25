@@ -1,1 +1,1 @@
-{"index": 46493, "D": "the office or rank of a canon; canonry", "S": ["priesthood "], "A": []}
+{"index": 46493, "D": "the office or rank of a canon; canonry", "S": ["priesthood"], "A": []}

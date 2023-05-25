@@ -1,1 +1,0 @@
-{"index": 292336, "D": "one of several sea nymphs, part woman and part bird, who lure mariners to destruction by their seductive singing.", "S": [], "A": []}

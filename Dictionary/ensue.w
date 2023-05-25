@@ -1,1 +1,1 @@
-{"index": 101122, "D": "to follow in order; come afterward, especially in immediate succession", "S": ["arise ", "befall ", "come up ", "emanate ", "occur ", "turn out "], "A": ["cause ", "cease ", "disregard ", "halt ", "neglect ", "precede ", "repress ", "stop "]}
+{"index": 101122, "D": "to follow in order; come afterward, especially in immediate succession", "S": ["arise", "befall", "come up", "emanate", "occur", "turn out"], "A": ["cause", "cease", "disregard", "halt", "neglect", "precede", "repress", "stop"]}

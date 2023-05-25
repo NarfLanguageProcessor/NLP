@@ -1,1 +1,1 @@
-{"index": 113536, "D": "in a proper or suitable manner.", "S": ["appropriately ", "correspondingly ", "properly ", "proportionately ", "respectively ", "subsequently ", "therefore ", "thus "], "A": ["inappropriately ", "unsuitably "]}
+{"index": 113536, "D": "in a proper or suitable manner.", "S": ["appropriately", "correspondingly", "properly", "proportionately", "respectively", "subsequently", "therefore", "thus"], "A": ["inappropriately", "unsuitably"]}

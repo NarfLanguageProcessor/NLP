@@ -1,1 +1,1 @@
-{"index": 156999, "D": "to enter forcefully as an enemy; go into with hostile intent", "S": ["alien ", "attacker ", "intruder "], "A": []}
+{"index": 156999, "D": "to enter forcefully as an enemy; go into with hostile intent", "S": ["alien", "attacker", "intruder"], "A": []}

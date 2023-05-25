@@ -1,1 +1,1 @@
-{"index": 165606, "D": "a projecting part, usually rounded, forming the handle of a door, drawer, or the like.", "S": ["belabor ", "club ", "cudgel ", "finial ", "handle ", "knob ", "maul ", "pound ", "pummel ", "saddlebow ", "strike ", "thwack "], "A": []}
+{"index": 165606, "D": "a projecting part, usually rounded, forming the handle of a door, drawer, or the like.", "S": ["belabor", "club", "cudgel", "finial", "handle", "knob", "maul", "pound", "pummel", "saddlebow", "strike", "thwack"], "A": []}

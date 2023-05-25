@@ -1,1 +1,1 @@
-{"index": 27258, "D": "a company of persons or, sometimes, animals or things, joined, acting, or functioning together; aggregation; party; troop", "S": ["line ", "ring ", "tape "], "A": ["whole "]}
+{"index": 27258, "D": "a company of persons or, sometimes, animals or things, joined, acting, or functioning together; aggregation; party; troop", "S": ["line", "ring", "tape"], "A": ["whole"]}

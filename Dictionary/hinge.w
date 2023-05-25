@@ -1,1 +1,1 @@
-{"index": 139701, "D": "a jointed device or flexible piece on which a door, gate, shutter, lid, or other attached part turns, swings, or moves.", "S": ["articulation ", "axis ", "butt ", "elbow ", "hook ", "joint ", "juncture ", "knee ", "link ", "pin ", "spring ", "swivel "], "A": []}
+{"index": 139701, "D": "a jointed device or flexible piece on which a door, gate, shutter, lid, or other attached part turns, swings, or moves.", "S": ["articulation", "axis", "butt", "elbow", "hook", "joint", "juncture", "knee", "link", "pin", "spring", "swivel"], "A": []}

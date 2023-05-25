@@ -1,1 +1,1 @@
-{"index": 143408, "D": "the cry of a goose.", "S": ["beep ", "blare "], "A": []}
+{"index": 143408, "D": "the cry of a goose.", "S": ["beep", "blare"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 78793, "D": "to eliminate criminal  penalties for or remove legal restrictions against", "S": ["legitimize "], "A": ["deny ", "disallow ", "disapprove ", "refuse ", "reject "]}
+{"index": 78793, "D": "to eliminate criminal  penalties for or remove legal restrictions against", "S": ["legitimize"], "A": ["deny", "disallow", "disapprove", "refuse", "reject"]}

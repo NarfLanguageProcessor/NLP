@@ -1,1 +1,1 @@
-{"index": 302394, "D": "of settled or sedate character; not flighty or capricious.", "S": ["decorous ", "dignified ", "sedate ", "sober ", "solemn ", "somber ", "stuffy "], "A": ["excited ", "indecorous "]}
+{"index": 302394, "D": "of settled or sedate character; not flighty or capricious.", "S": ["decorous", "dignified", "sedate", "sober", "solemn", "somber", "stuffy"], "A": ["excited", "indecorous"]}

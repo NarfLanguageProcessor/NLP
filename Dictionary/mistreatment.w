@@ -1,1 +1,1 @@
-{"index": 190351, "D": "to treat badly or abusively.", "S": ["corruption ", "exploitation ", "ill-treatment ", "injustice ", "maltreatment ", "misconduct ", "misdeed ", "misuse ", "wrongdoing "], "A": ["goodness ", "kindness "]}
+{"index": 190351, "D": "to treat badly or abusively.", "S": ["corruption", "exploitation", "ill-treatment", "injustice", "maltreatment", "misconduct", "misdeed", "misuse", "wrongdoing"], "A": ["goodness", "kindness"]}

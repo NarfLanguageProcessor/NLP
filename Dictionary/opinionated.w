@@ -1,1 +1,1 @@
-{"index": 213556, "D": "obstinate or conceited with regard to the merit of one's own opinions;  conceitedly dogmatic.", "S": ["assertive ", "cocky ", "stubborn "], "A": ["shy "]}
+{"index": 213556, "D": "obstinate or conceited with regard to the merit of one's own opinions;  conceitedly dogmatic.", "S": ["assertive", "cocky", "stubborn"], "A": ["shy"]}

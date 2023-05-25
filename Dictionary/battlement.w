@@ -1,1 +1,1 @@
-{"index": 29146, "D": "a parapet or cresting, originally defensive but later usually decorative, consisting of a regular alternation of merlons and crenels; crenelation.", "S": ["balustrade ", "bastion ", "escarpment ", "fortification ", "rampart ", "tower "], "A": []}
+{"index": 29146, "D": "a parapet or cresting, originally defensive but later usually decorative, consisting of a regular alternation of merlons and crenels; crenelation.", "S": ["balustrade", "bastion", "escarpment", "fortification", "rampart", "tower"], "A": []}

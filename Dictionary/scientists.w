@@ -1,1 +1,1 @@
-{"index": 280654, "D": "an expert in science,  especially one of the physical or natural sciences. ", "S": ["analyst ", "chemist ", "expert ", "physicist "], "A": []}
+{"index": 280654, "D": "an expert in science,  especially one of the physical or natural sciences. ", "S": ["analyst", "chemist", "expert", "physicist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 200725, "D": "having nodules. ", "S": ["complicated ", "mystifying ", "perplexing ", "puzzling ", "sticky ", "thorny ", "tricky "], "A": ["easy ", "facile ", "smooth "]}
+{"index": 200725, "D": "having nodules. ", "S": ["complicated", "mystifying", "perplexing", "puzzling", "sticky", "thorny", "tricky"], "A": ["easy", "facile", "smooth"]}

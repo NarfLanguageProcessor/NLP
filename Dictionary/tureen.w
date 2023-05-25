@@ -1,1 +1,1 @@
-{"index": 332667, "D": "a large, deep, covered dish for serving soup, stew, or other foods.", "S": ["basin ", "dish ", "pot ", "urn "], "A": []}
+{"index": 332667, "D": "a large, deep, covered dish for serving soup, stew, or other foods.", "S": ["basin", "dish", "pot", "urn"], "A": []}

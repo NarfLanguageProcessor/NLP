@@ -1,1 +1,1 @@
-{"index": 65927, "D": "to enclose within bounds; limit or restrict", "S": ["bounding ", "detaining ", "enclosing ", "imprisoning ", "restraining "], "A": []}
+{"index": 65927, "D": "to enclose within bounds; limit or restrict", "S": ["bounding", "detaining", "enclosing", "imprisoning", "restraining"], "A": []}

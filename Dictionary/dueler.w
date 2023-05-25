@@ -1,1 +1,1 @@
-{"index": 93842, "D": "a person who participates in a duel. ", "S": ["fencer ", "gladiator "], "A": []}
+{"index": 93842, "D": "a person who participates in a duel. ", "S": ["fencer", "gladiator"], "A": []}

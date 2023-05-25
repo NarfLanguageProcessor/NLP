@@ -1,1 +1,1 @@
-{"index": 114901, "D": "a great flowing or overflowing of water, especially over land not usually submerged.", "S": ["afloat ", "inundated "], "A": []}
+{"index": 114901, "D": "a great flowing or overflowing of water, especially over land not usually submerged.", "S": ["afloat", "inundated"], "A": []}

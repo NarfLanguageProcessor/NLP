@@ -1,1 +1,1 @@
-{"index": 42753, "D": "a person or thing that bumps. ", "S": ["ample ", "bountiful ", "fertile ", "generous ", "productive ", "prolific ", "sufficient ", "unlimited "], "A": ["barren ", "fruitless ", "impotent ", "insufficient ", "lacking ", "unfruitful ", "unproductive ", "wanting "]}
+{"index": 42753, "D": "a person or thing that bumps. ", "S": ["ample", "bountiful", "fertile", "generous", "productive", "prolific", "sufficient", "unlimited"], "A": ["barren", "fruitless", "impotent", "insufficient", "lacking", "unfruitful", "unproductive", "wanting"]}

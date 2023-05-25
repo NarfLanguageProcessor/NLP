@@ -1,1 +1,1 @@
-{"index": 249919, "D": "the act of passing by or over; omission; disregard.", "S": ["void "], "A": ["fullness ", "solid "]}
+{"index": 249919, "D": "the act of passing by or over; omission; disregard.", "S": ["void"], "A": ["fullness", "solid"]}

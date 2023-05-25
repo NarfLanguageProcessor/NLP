@@ -1,1 +1,1 @@
-{"index": 343068, "D": "to present voluntarily and without expecting compensation; bestow", "S": ["hard-core ", "militant ", "staunch ", "uncompromising ", "unyielding "], "A": ["flexible ", "irresolute ", "tolerant "]}
+{"index": 343068, "D": "to present voluntarily and without expecting compensation; bestow", "S": ["hard-core", "militant", "staunch", "uncompromising", "unyielding"], "A": ["flexible", "irresolute", "tolerant"]}

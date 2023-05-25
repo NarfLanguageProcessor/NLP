@@ -1,1 +1,1 @@
-{"index": 181431, "D": "to talk in a rambling, foolish, or meaningless way.", "S": ["incoherent "], "A": ["articulate ", "communicative "]}
+{"index": 181431, "D": "to talk in a rambling, foolish, or meaningless way.", "S": ["incoherent"], "A": ["articulate", "communicative"]}

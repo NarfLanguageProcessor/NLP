@@ -1,1 +1,1 @@
-{"index": 148562, "D": "not subject to decay; indestructible; enduring.", "S": ["endurance ", "grit ", "persistence ", "stamina ", "staying power "], "A": ["weakness ", "cowardice ", "fear "]}
+{"index": 148562, "D": "not subject to decay; indestructible; enduring.", "S": ["endurance", "grit", "persistence", "stamina", "staying power"], "A": ["weakness", "cowardice", "fear"]}

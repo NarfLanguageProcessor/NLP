@@ -1,1 +1,1 @@
-{"index": 192911, "D": "pertaining to a month,  or to each month. ", "S": ["bleeding ", "discharge ", "menses "], "A": []}
+{"index": 192911, "D": "pertaining to a month,  or to each month. ", "S": ["bleeding", "discharge", "menses"], "A": []}

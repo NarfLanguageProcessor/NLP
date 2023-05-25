@@ -1,1 +1,1 @@
-{"index": 304491, "D": "a writer or speaker who is skilled in or who cultivates a literary style. ", "S": ["classicist ", "writer "], "A": []}
+{"index": 304491, "D": "a writer or speaker who is skilled in or who cultivates a literary style. ", "S": ["classicist", "writer"], "A": []}

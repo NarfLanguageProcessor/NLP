@@ -1,1 +1,1 @@
-{"index": 268511, "D": "to serve to express, designate, stand for, or denote, as a word, symbol, or the like does; symbolize", "S": ["characterized ", "defined ", "described ", "expressed ", "pictured "], "A": []}
+{"index": 268511, "D": "to serve to express, designate, stand for, or denote, as a word, symbol, or the like does; symbolize", "S": ["characterized", "defined", "described", "expressed", "pictured"], "A": []}

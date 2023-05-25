@@ -1,1 +1,1 @@
-{"index": 48343, "D": "merry-go-round (def. 1). ", "S": ["roundabout ", "whirligig "], "A": []}
+{"index": 48343, "D": "merry-go-round (def. 1). ", "S": ["roundabout", "whirligig"], "A": []}

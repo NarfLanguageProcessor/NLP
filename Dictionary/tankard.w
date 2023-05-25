@@ -1,1 +1,1 @@
-{"index": 316130, "D": "a large drinking cup, usually with a handle and a hinged cover.", "S": ["can ", "cup ", "flagon ", "flask ", "stein ", "stoup "], "A": []}
+{"index": 316130, "D": "a large drinking cup, usually with a handle and a hinged cover.", "S": ["can", "cup", "flagon", "flask", "stein", "stoup"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 210135, "D": "anything that is visible or tangible and is relatively stable in form.", "S": ["equipment ", "gear ", "goods ", "junk ", "substance ", "things "], "A": []}
+{"index": 210135, "D": "anything that is visible or tangible and is relatively stable in form.", "S": ["equipment", "gear", "goods", "junk", "substance", "things"], "A": []}

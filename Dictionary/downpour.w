@@ -1,1 +1,1 @@
-{"index": 92288, "D": "a heavy, drenching rain.", "S": ["deluge ", "flood ", "monsoon ", "rainstorm ", "storm "], "A": ["sprinkle "]}
+{"index": 92288, "D": "a heavy, drenching rain.", "S": ["deluge", "flood", "monsoon", "rainstorm", "storm"], "A": ["sprinkle"]}

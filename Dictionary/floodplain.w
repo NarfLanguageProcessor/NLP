@@ -1,1 +1,1 @@
-{"index": 114919, "D": "a nearly flat plain along the course of a stream or river that is naturally subject to flooding.", "S": ["alluvial plain ", "coastal plain ", "delta ", "delta plain ", "tidal plain "], "A": []}
+{"index": 114919, "D": "a nearly flat plain along the course of a stream or river that is naturally subject to flooding.", "S": ["alluvial plain", "coastal plain", "delta", "delta plain", "tidal plain"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 80251, "D": "the fourth letter of the Greek alphabet (\u0394, \u03b4).", "S": ["alluvium ", "deposition ", "dregs ", "drift ", "grounds ", "lees ", "precipitate ", "precipitation ", "sediment ", "settlings ", "silt "], "A": ["debit ", "withdrawal "]}
+{"index": 80251, "D": "the fourth letter of the Greek alphabet (\u0394, \u03b4).", "S": ["alluvium", "deposition", "dregs", "drift", "grounds", "lees", "precipitate", "precipitation", "sediment", "settlings", "silt"], "A": ["debit", "withdrawal"]}

@@ -1,1 +1,1 @@
-{"index": 292922, "D": "of, relating to, or like a skeleton. ", "S": ["bony ", "emaciated "], "A": ["fat ", "heavy ", "overweight ", "plump "]}
+{"index": 292922, "D": "of, relating to, or like a skeleton. ", "S": ["bony", "emaciated"], "A": ["fat", "heavy", "overweight", "plump"]}

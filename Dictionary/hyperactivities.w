@@ -1,1 +1,1 @@
-{"index": 139837, "D": "the condition of being hyperactive. ", "S": ["ADHD ", "add ", "hyperactiveness ", "short attention span "], "A": []}
+{"index": 139837, "D": "the condition of being hyperactive. ", "S": ["ADHD", "add", "hyperactiveness", "short attention span"], "A": []}

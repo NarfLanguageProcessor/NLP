@@ -1,1 +1,1 @@
-{"index": 106388, "D": "rigid or severe in demands or requirements", "S": ["rigor "], "A": ["informality ", "kindness ", "mildness ", "unimportance "]}
+{"index": 106388, "D": "rigid or severe in demands or requirements", "S": ["rigor"], "A": ["informality", "kindness", "mildness", "unimportance"]}

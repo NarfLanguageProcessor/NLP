@@ -1,1 +1,1 @@
-{"index": 42568, "D": "obstinately opinionated, especially in refusing to consider alternatives; stubborn.", "S": ["headstrong ", "obstinate ", "pigheaded "], "A": ["easygoing "]}
+{"index": 42568, "D": "obstinately opinionated, especially in refusing to consider alternatives; stubborn.", "S": ["headstrong", "obstinate", "pigheaded"], "A": ["easygoing"]}

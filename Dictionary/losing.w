@@ -1,1 +1,0 @@
-{"index": 175348, "D": "causing or suffering loss. ", "S": ["defeated ", "falling ", "unsuccessful "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 271496, "D": [], "S": ["carouse ", "cut loose ", "debauch ", "insurge ", "insurrect ", "live hard ", "mutiny ", "riot ", "run amok "], "A": []}
+{"index": 271496, "D": [], "S": ["carouse", "cut loose", "debauch", "insurge", "insurrect", "live hard", "mutiny", "riot", "run amok"], "A": []}

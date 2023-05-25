@@ -1,1 +1,1 @@
-{"index": 26175, "D": "a villainous or criminal person.", "S": ["antagonist ", "antihero ", "bad person ", "baddie ", "cad ", "knave ", "miscreant ", "scoundrel ", "villain "], "A": []}
+{"index": 26175, "D": "a villainous or criminal person.", "S": ["antagonist", "antihero", "bad person", "baddie", "cad", "knave", "miscreant", "scoundrel", "villain"], "A": []}

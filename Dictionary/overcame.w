@@ -1,1 +1,1 @@
-{"index": 218490, "D": "to get the better of in a struggle or conflict; conquer; defeat", "S": ["conquer ", "crush ", "overpower ", "overwhelm ", "reduce ", "stun ", "surmount ", "survive ", "weather ", "win "], "A": ["fail ", "forfeit ", "lose ", "surrender ", "yield ", "help "]}
+{"index": 218490, "D": "to get the better of in a struggle or conflict; conquer; defeat", "S": ["conquer", "crush", "overpower", "overwhelm", "reduce", "stun", "surmount", "survive", "weather", "win"], "A": ["fail", "forfeit", "lose", "surrender", "yield", "help"]}

@@ -1,1 +1,1 @@
-{"index": 227647, "D": "father. ", "S": ["ancestor ", "begetter ", "creator ", "forefather ", "lord ", "parent "], "A": []}
+{"index": 227647, "D": "father. ", "S": ["ancestor", "begetter", "creator", "forefather", "lord", "parent"], "A": []}

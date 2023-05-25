@@ -1,1 +1,1 @@
-{"index": 120948, "D": "something, as a glove, thrown down by a medieval knight in token of challenge to combat.", "S": ["mitt "], "A": []}
+{"index": 120948, "D": "something, as a glove, thrown down by a medieval knight in token of challenge to combat.", "S": ["mitt"], "A": []}

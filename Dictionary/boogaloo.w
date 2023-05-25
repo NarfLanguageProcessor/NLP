@@ -1,0 +1,1 @@
+{"index": 38022, "D": "a genre of Latin music and dance originating in New York City and popular in the 1960s, combining Latin American musical styles with elements of rhythm and blues and other African American music.", "S": [], "A": []}

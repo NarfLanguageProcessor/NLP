@@ -1,1 +1,1 @@
-{"index": 214693, "D": [], "S": ["adorn ", "beautify ", "bedeck ", "embellish ", "embroider ", "festoon ", "fix up ", "spruce up "], "A": ["deface ", "disfigure ", "mar ", "spoil ", "decrease ", "disrobe ", "dull ", "mess up ", "unclothe "]}
+{"index": 214693, "D": [], "S": ["adorn", "beautify", "bedeck", "embellish", "embroider", "festoon", "fix up", "spruce up"], "A": ["deface", "disfigure", "mar", "spoil", "decrease", "disrobe", "dull", "mess up", "unclothe"]}

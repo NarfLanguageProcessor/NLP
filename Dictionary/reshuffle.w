@@ -1,1 +1,0 @@
-{"index": 269335, "D": "an act of shuffling again", "S": ["readjust ", "reconstruct ", "reorganize ", "reposition ", "revamp ", "rework "], "A": ["remain "]}

@@ -1,1 +1,1 @@
-{"index": 110764, "D": "ineffective; incompetent; futile", "S": ["inactivity ", "inertia ", "passivity ", "stagnation "], "A": ["busyness ", "energy ", "happiness ", "liveliness ", "vigor "]}
+{"index": 110764, "D": "ineffective; incompetent; futile", "S": ["inactivity", "inertia", "passivity", "stagnation"], "A": ["busyness", "energy", "happiness", "liveliness", "vigor"]}

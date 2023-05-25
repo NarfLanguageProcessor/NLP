@@ -1,1 +1,1 @@
-{"index": 252792, "D": "offered or suggested for consideration, acceptance, or action", "S": ["expected ", "planned ", "prospective ", "recommended ", "scheduled ", "suggested "], "A": []}
+{"index": 252792, "D": "offered or suggested for consideration, acceptance, or action", "S": ["expected", "planned", "prospective", "recommended", "scheduled", "suggested"], "A": []}

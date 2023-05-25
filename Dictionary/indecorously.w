@@ -1,1 +1,1 @@
-{"index": 150696, "D": "not decorous; violating generally accepted standards of good taste or propriety; unseemly.", "S": ["over "], "A": []}
+{"index": 150696, "D": "not decorous; violating generally accepted standards of good taste or propriety; unseemly.", "S": ["over"], "A": []}

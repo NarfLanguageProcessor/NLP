@@ -1,1 +1,1 @@
-{"index": 98780, "D": "a group of nations or peoples ruled over by an emperor, empress, or other powerful sovereign or government", "S": ["authority "], "A": ["subservience ", "weakness "]}
+{"index": 98780, "D": "a group of nations or peoples ruled over by an emperor, empress, or other powerful sovereign or government", "S": ["authority"], "A": ["subservience", "weakness"]}

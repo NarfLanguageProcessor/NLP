@@ -1,1 +1,1 @@
-{"index": 365035, "D": "having, wearing, or covered with whiskers. ", "S": ["shaggy ", "unshaven "], "A": []}
+{"index": 365035, "D": "having, wearing, or covered with whiskers. ", "S": ["shaggy", "unshaven"], "A": []}

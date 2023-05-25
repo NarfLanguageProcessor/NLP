@@ -1,1 +1,1 @@
-{"index": 158397, "D": "said, done, or characterized by a lack of a sense of responsibility", "S": ["capricious ", "immature ", "immoral ", "thoughtless "], "A": ["accountable ", "careful ", "liable ", "reliable ", "responsible ", "trustworthy "]}
+{"index": 158397, "D": "said, done, or characterized by a lack of a sense of responsibility", "S": ["capricious", "immature", "immoral", "thoughtless"], "A": ["accountable", "careful", "liable", "reliable", "responsible", "trustworthy"]}

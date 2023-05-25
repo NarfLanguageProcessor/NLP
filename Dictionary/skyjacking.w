@@ -1,1 +1,1 @@
-{"index": 293157, "D": "an act or instance of hijacking an aircraft.", "S": ["aircraft piracy ", "airplane hijacking ", "highjacking ", "hijacking "], "A": []}
+{"index": 293157, "D": "an act or instance of hijacking an aircraft.", "S": ["aircraft piracy", "airplane hijacking", "highjacking", "hijacking"], "A": []}

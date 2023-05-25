@@ -1,1 +1,1 @@
-{"index": 23349, "D": [], "S": ["au courant ", "expert ", "skillful ", "up on ", "up to snuff ", "well instructed ", "wise to "], "A": []}
+{"index": 23349, "D": [], "S": ["au courant", "expert", "skillful", "up on", "up to snuff", "well instructed", "wise to"], "A": []}

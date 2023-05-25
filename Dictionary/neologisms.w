@@ -1,1 +1,1 @@
-{"index": 198383, "D": "a new word, meaning, usage, or phrase.", "S": ["coinage ", "neology ", "slang "], "A": ["time-worn "]}
+{"index": 198383, "D": "a new word, meaning, usage, or phrase.", "S": ["coinage", "neology", "slang"], "A": ["time-worn"]}

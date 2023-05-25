@@ -1,1 +1,1 @@
-{"index": 43207, "D": "to undergo rapid combustion or consume fuel in such a way as to give off heat, gases, and, usually, light; be on fire", "S": ["fiery ", "flammable ", "incendiary ", "volatile "], "A": ["noncombustible "]}
+{"index": 43207, "D": "to undergo rapid combustion or consume fuel in such a way as to give off heat, gases, and, usually, light; be on fire", "S": ["fiery", "flammable", "incendiary", "volatile"], "A": ["noncombustible"]}

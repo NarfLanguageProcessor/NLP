@@ -1,1 +1,1 @@
-{"index": 333497, "D": "having two  elements or parts.", "S": ["polarity "], "A": []}
+{"index": 333497, "D": "having two  elements or parts.", "S": ["polarity"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25134, "D": "pertaining to or of the nature of an axiom; self-evident; obvious. ", "S": ["automatically ", "naturally ", "no doubt ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "questionably "]}
+{"index": 25134, "D": "pertaining to or of the nature of an axiom; self-evident; obvious. ", "S": ["automatically", "naturally", "no doubt", "undoubtedly", "unquestionably"], "A": ["doubtfully", "questionably"]}

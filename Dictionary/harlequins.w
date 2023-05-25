@@ -1,1 +1,1 @@
-{"index": 133797, "D": "a comic character in commedia dell'arte  and the harlequinade,  usually masked, dressed in multicolored, diamond-patterned tights, and carrying a wooden sword or magic wand.", "S": ["buffoon ", "jester "], "A": []}
+{"index": 133797, "D": "a comic character in commedia dell'arte  and the harlequinade,  usually masked, dressed in multicolored, diamond-patterned tights, and carrying a wooden sword or magic wand.", "S": ["buffoon", "jester"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 54855, "D": "to chirp", "S": ["hoot "], "A": []}
+{"index": 54855, "D": "to chirp", "S": ["hoot"], "A": []}

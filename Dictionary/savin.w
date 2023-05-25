@@ -1,1 +1,1 @@
-{"index": 279079, "D": "a juniper, Juniperus sabina, of Europe and Asia.", "S": ["evergreen "], "A": []}
+{"index": 279079, "D": "a juniper, Juniperus sabina, of Europe and Asia.", "S": ["evergreen"], "A": []}

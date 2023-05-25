@@ -1,1 +1,1 @@
-{"index": 351117, "D": "distasteful or unpleasant to look at", "S": ["drab ", "hideous ", "ugly ", "unattractive "], "A": ["attractive ", "beautiful ", "pleasing "]}
+{"index": 351117, "D": "distasteful or unpleasant to look at", "S": ["drab", "hideous", "ugly", "unattractive"], "A": ["attractive", "beautiful", "pleasing"]}

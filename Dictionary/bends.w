@@ -1,1 +1,1 @@
-{"index": 31509, "D": "(functioning as singular or plural) a nontechnical name for decompression sickness", "S": ["aeroembolism ", "caisson disease ", "divers' palsy ", "divers' paralysis "], "A": []}
+{"index": 31509, "D": "(functioning as singular or plural) a nontechnical name for decompression sickness", "S": ["aeroembolism", "caisson disease", "divers' palsy", "divers' paralysis"], "A": []}

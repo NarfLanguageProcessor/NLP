@@ -1,1 +1,1 @@
-{"index": 64634, "D": "something that completes or makes perfect", "S": ["accompaniment "], "A": ["base ", "core ", "decrease ", "fraction ", "part "]}
+{"index": 64634, "D": "something that completes or makes perfect", "S": ["accompaniment"], "A": ["base", "core", "decrease", "fraction", "part"]}

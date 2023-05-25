@@ -1,1 +1,1 @@
-{"index": 278128, "D": "without sap;  withered; dry", "S": ["banal ", "boring ", "dull ", "insipid ", "tame ", "tedious ", "watery ", "white-bread ", "wishy-washy "], "A": ["bright ", "exciting ", "interesting ", "lively "]}
+{"index": 278128, "D": "without sap;  withered; dry", "S": ["banal", "boring", "dull", "insipid", "tame", "tedious", "watery", "white-bread", "wishy-washy"], "A": ["bright", "exciting", "interesting", "lively"]}

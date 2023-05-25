@@ -1,1 +1,1 @@
-{"index": 265476, "D": "able to be proven false", "S": ["debatable ", "imaginary ", "problematic ", "speculative ", "theoretical ", "vague "], "A": ["certain ", "definite ", "factual ", "real ", "sure "]}
+{"index": 265476, "D": "able to be proven false", "S": ["debatable", "imaginary", "problematic", "speculative", "theoretical", "vague"], "A": ["certain", "definite", "factual", "real", "sure"]}

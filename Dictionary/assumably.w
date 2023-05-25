@@ -1,1 +1,1 @@
-{"index": 21933, "D": "capable of being assumed,  as an office or an obligation", "S": ["presumably "], "A": ["improbably ", "unlikely "]}
+{"index": 21933, "D": "capable of being assumed,  as an office or an obligation", "S": ["presumably"], "A": ["improbably", "unlikely"]}

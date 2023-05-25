@@ -1,1 +1,1 @@
-{"index": 331475, "D": "truckle bed. ", "S": ["bootlick ", "cajole ", "flatter ", "grovel ", "kowtow ", "massage ", "oil ", "stroke ", "toady ", "woo "], "A": []}
+{"index": 331475, "D": "truckle bed. ", "S": ["bootlick", "cajole", "flatter", "grovel", "kowtow", "massage", "oil", "stroke", "toady", "woo"], "A": []}

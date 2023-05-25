@@ -1,1 +1,1 @@
-{"index": 149482, "D": "not apposite;  not pertinent.", "S": ["immateriality ", "impertinence ", "inapplicability ", "inappropriateness ", "incongruity ", "inconsistency ", "insignificance ", "remoteness ", "triviality ", "unrelatedness "], "A": []}
+{"index": 149482, "D": "not apposite;  not pertinent.", "S": ["immateriality", "impertinence", "inapplicability", "inappropriateness", "incongruity", "inconsistency", "insignificance", "remoteness", "triviality", "unrelatedness"], "A": []}

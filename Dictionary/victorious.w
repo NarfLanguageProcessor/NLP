@@ -1,1 +1,1 @@
-{"index": 359469, "D": "having achieved a victory;  conquering; triumphant", "S": ["triumphant "], "A": ["failing ", "losing ", "unsuccessful "]}
+{"index": 359469, "D": "having achieved a victory;  conquering; triumphant", "S": ["triumphant"], "A": ["failing", "losing", "unsuccessful"]}

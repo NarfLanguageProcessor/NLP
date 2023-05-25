@@ -1,1 +1,1 @@
-{"index": 129071, "D": "giving a clear and effective picture; vivid", "S": ["concrete ", "stirring ", "striking ", "telling "], "A": ["implicit ", "obscure ", "unclear ", "vague "]}
+{"index": 129071, "D": "giving a clear and effective picture; vivid", "S": ["concrete", "stirring", "striking", "telling"], "A": ["implicit", "obscure", "unclear", "vague"]}

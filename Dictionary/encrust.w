@@ -1,1 +1,1 @@
-{"index": 99531, "D": "to cover or line with a crust or hard coating.", "S": ["blacken ", "smear ", "smudge ", "sully "], "A": ["clean ", "cleanse ", "clear ", "flourish ", "grow ", "improve ", "purify ", "sterilize "]}
+{"index": 99531, "D": "to cover or line with a crust or hard coating.", "S": ["blacken", "smear", "smudge", "sully"], "A": ["clean", "cleanse", "clear", "flourish", "grow", "improve", "purify", "sterilize"]}

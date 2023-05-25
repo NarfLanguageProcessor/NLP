@@ -1,1 +1,1 @@
-{"index": 167216, "D": "a beloved woman; sweetheart or mistress.", "S": ["mistress ", "paramour ", "sweetheart ", "woman "], "A": []}
+{"index": 167216, "D": "a beloved woman; sweetheart or mistress.", "S": ["mistress", "paramour", "sweetheart", "woman"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 80058, "D": "a store selling foods already prepared or requiring little preparation for serving, as cooked meats, cheese, salads, and the like.", "S": ["cafeteria ", "deli "], "A": []}
+{"index": 80058, "D": "a store selling foods already prepared or requiring little preparation for serving, as cooked meats, cheese, salads, and the like.", "S": ["cafeteria", "deli"], "A": []}

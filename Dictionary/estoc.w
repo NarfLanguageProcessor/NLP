@@ -1,1 +1,1 @@
-{"index": 104688, "D": "a thrusting sword of the 13th\u201317th centuries having a long, narrow blade of rectangular section.", "S": ["blade ", "dagger ", "saber "], "A": []}
+{"index": 104688, "D": "a thrusting sword of the 13th\u201317th centuries having a long, narrow blade of rectangular section.", "S": ["blade", "dagger", "saber"], "A": []}

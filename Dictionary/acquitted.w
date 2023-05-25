@@ -1,1 +1,1 @@
-{"index": 2767, "D": "having been declared not guilty of a crime", "S": ["discharged ", "excused ", "exonerated ", "freed ", "released "], "A": ["accused ", "condemned ", "convicted "]}
+{"index": 2767, "D": "having been declared not guilty of a crime", "S": ["discharged", "excused", "exonerated", "freed", "released"], "A": ["accused", "condemned", "convicted"]}

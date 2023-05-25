@@ -1,1 +1,1 @@
-{"index": 49296, "D": "a complete, usually alphabetical list of items, often with notes giving details", "S": ["archive ", "catalog ", "directory ", "inventory ", "prospectus "], "A": []}
+{"index": 49296, "D": "a complete, usually alphabetical list of items, often with notes giving details", "S": ["archive", "catalog", "directory", "inventory", "prospectus"], "A": []}

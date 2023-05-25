@@ -1,1 +1,1 @@
-{"index": 152572, "D": "something that enters as an element into a mixture", "S": ["additive ", "element ", "factor ", "piece "], "A": ["whole "]}
+{"index": 152572, "D": "something that enters as an element into a mixture", "S": ["additive", "element", "factor", "piece"], "A": ["whole"]}

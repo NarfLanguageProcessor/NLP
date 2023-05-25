@@ -1,1 +1,1 @@
-{"index": 295035, "D": "to burn without flame; undergo slow or suppressed combustion.", "S": ["boil ", "erupt ", "explode ", "fester ", "seethe "], "A": ["be happy "]}
+{"index": 295035, "D": "to burn without flame; undergo slow or suppressed combustion.", "S": ["boil", "erupt", "explode", "fester", "seethe"], "A": ["be happy"]}

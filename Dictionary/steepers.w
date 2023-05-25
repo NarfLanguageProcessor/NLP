@@ -1,1 +1,1 @@
-{"index": 303441, "D": "having an almost vertical slope or pitch, or a relatively high gradient, as a hill, an ascent, stairs, etc.", "S": ["infuser ", "infusion ball ", "steeper ", "tea egg ", "tea filter ", "tea infuser ", "tea maker "], "A": []}
+{"index": 303441, "D": "having an almost vertical slope or pitch, or a relatively high gradient, as a hill, an ascent, stairs, etc.", "S": ["infuser", "infusion ball", "steeper", "tea egg", "tea filter", "tea infuser", "tea maker"], "A": []}

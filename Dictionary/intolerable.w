@@ -1,1 +1,1 @@
-{"index": 156346, "D": "not tolerable; unendurable; insufferable", "S": ["extreme ", "impossible ", "painful ", "unbearable "], "A": ["good ", "tolerable "]}
+{"index": 156346, "D": "not tolerable; unendurable; insufferable", "S": ["extreme", "impossible", "painful", "unbearable"], "A": ["good", "tolerable"]}

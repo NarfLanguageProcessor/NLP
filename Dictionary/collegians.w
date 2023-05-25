@@ -1,1 +1,1 @@
-{"index": 62944, "D": "a student in, or a graduate of, a college.", "S": ["alum ", "alumna ", "alumnus ", "doctor ", "grad ", "recipient "], "A": ["undergraduate "]}
+{"index": 62944, "D": "a student in, or a graduate of, a college.", "S": ["alum", "alumna", "alumnus", "doctor", "grad", "recipient"], "A": ["undergraduate"]}

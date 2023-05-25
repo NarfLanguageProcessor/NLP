@@ -1,1 +1,1 @@
-{"index": 328497, "D": "articles of equipment or dress, especially of an ornamental character.", "S": ["accouterment ", "equipment ", "paraphernalia "], "A": []}
+{"index": 328497, "D": "articles of equipment or dress, especially of an ornamental character.", "S": ["accouterment", "equipment", "paraphernalia"], "A": []}

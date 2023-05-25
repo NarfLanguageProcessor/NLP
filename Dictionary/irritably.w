@@ -1,1 +1,1 @@
-{"index": 158475, "D": "easily irritated  or annoyed; readily excited to impatience or anger.", "S": ["bitterly ", "fiercely ", "furiously ", "heatedly ", "hotly ", "indignantly ", "madly ", "savagely ", "sharply ", "violently "], "A": ["gently ", "mildly ", "quietly "]}
+{"index": 158475, "D": "easily irritated  or annoyed; readily excited to impatience or anger.", "S": ["bitterly", "fiercely", "furiously", "heatedly", "hotly", "indignantly", "madly", "savagely", "sharply", "violently"], "A": ["gently", "mildly", "quietly"]}

@@ -1,1 +1,1 @@
-{"index": 274800, "D": "a rough,  coarse person; a tough.", "S": ["bully ", "hood ", "punk ", "rowdy ", "ruffian ", "tough "], "A": []}
+{"index": 274800, "D": "a rough,  coarse person; a tough.", "S": ["bully", "hood", "punk", "rowdy", "ruffian", "tough"], "A": []}

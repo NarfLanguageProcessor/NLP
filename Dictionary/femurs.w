@@ -1,1 +1,1 @@
-{"index": 111194, "D": "a bone in the human leg extending from the pelvis to the knee, that is the longest, largest, and strongest in the body; thighbone.", "S": ["groin "], "A": []}
+{"index": 111194, "D": "a bone in the human leg extending from the pelvis to the knee, that is the longest, largest, and strongest in the body; thighbone.", "S": ["groin"], "A": []}

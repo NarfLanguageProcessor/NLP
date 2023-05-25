@@ -1,1 +1,1 @@
-{"index": 161756, "D": "(in medieval France and Norman England) an itinerant minstrel or entertainer who sang songs, often of his own composition, and told stories.", "S": ["troubadour "], "A": []}
+{"index": 161756, "D": "(in medieval France and Norman England) an itinerant minstrel or entertainer who sang songs, often of his own composition, and told stories.", "S": ["troubadour"], "A": []}

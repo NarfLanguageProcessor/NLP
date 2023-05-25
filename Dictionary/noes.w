@@ -1,1 +1,1 @@
-{"index": 200740, "D": "plural of no1. ", "S": ["nay ", "nix "], "A": []}
+{"index": 200740, "D": "plural of no1. ", "S": ["nay", "nix"], "A": []}

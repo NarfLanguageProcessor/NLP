@@ -1,1 +1,1 @@
-{"index": 285534, "D": "one of the individual leaves or parts of the calyx of a flower.", "S": ["husk ", "leaf ", "petal "], "A": []}
+{"index": 285534, "D": "one of the individual leaves or parts of the calyx of a flower.", "S": ["husk", "leaf", "petal"], "A": []}

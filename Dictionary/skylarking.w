@@ -1,1 +1,1 @@
-{"index": 293169, "D": "a brown-speckled European lark, Alauda arvensis, famed for its melodious song.", "S": ["bluffing ", "farce ", "frolicking ", "jesting ", "joshing ", "kidding ", "roughhouse ", "roughhousing ", "sham ", "spoofing ", "teasing ", "trifling "], "A": ["seriousness "]}
+{"index": 293169, "D": "a brown-speckled European lark, Alauda arvensis, famed for its melodious song.", "S": ["bluffing", "farce", "frolicking", "jesting", "joshing", "kidding", "roughhouse", "roughhousing", "sham", "spoofing", "teasing", "trifling"], "A": ["seriousness"]}

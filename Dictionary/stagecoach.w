@@ -1,1 +1,1 @@
-{"index": 302296, "D": "a horse-drawn coach  that formerly traveled regularly over a fixed route with passengers, parcels, etc.", "S": ["Conestoga wagon ", "prairie schooner ", "prairie wagon "], "A": []}
+{"index": 302296, "D": "a horse-drawn coach  that formerly traveled regularly over a fixed route with passengers, parcels, etc.", "S": ["Conestoga wagon", "prairie schooner", "prairie wagon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 281806, "D": "a person who serves as a professional copyist, especially one who made copies of manuscripts before the invention of printing.", "S": ["carve ", "engrave ", "etch "], "A": ["forget "]}
+{"index": 281806, "D": "a person who serves as a professional copyist, especially one who made copies of manuscripts before the invention of printing.", "S": ["carve", "engrave", "etch"], "A": ["forget"]}

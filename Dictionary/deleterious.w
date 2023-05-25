@@ -1,1 +1,1 @@
-{"index": 80011, "D": "injurious to health", "S": ["bad ", "destroying ", "destructive ", "detrimental ", "hurtful ", "injurious ", "mischievous ", "nocent ", "nocuous ", "pernicious ", "prejudicial ", "prejudicious ", "ruining ", "ruinous "], "A": ["aiding ", "assisting ", "helpful "]}
+{"index": 80011, "D": "injurious to health", "S": ["bad", "destroying", "destructive", "detrimental", "hurtful", "injurious", "mischievous", "nocent", "nocuous", "pernicious", "prejudicial", "prejudicious", "ruining", "ruinous"], "A": ["aiding", "assisting", "helpful"]}

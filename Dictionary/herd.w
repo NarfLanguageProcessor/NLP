@@ -1,1 +1,1 @@
-{"index": 136970, "D": "a number of animals kept, feeding, or traveling together; drove; flock", "S": ["brood ", "flock ", "horde ", "mob ", "swarm ", "throng "], "A": []}
+{"index": 136970, "D": "a number of animals kept, feeding, or traveling together; drove; flock", "S": ["brood", "flock", "horde", "mob", "swarm", "throng"], "A": []}

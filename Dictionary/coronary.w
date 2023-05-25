@@ -1,1 +1,1 @@
-{"index": 69446, "D": "of or relating to the human heart, with respect to health.", "S": ["cardiovascular disease ", "congestive heart failure "], "A": []}
+{"index": 69446, "D": "of or relating to the human heart, with respect to health.", "S": ["cardiovascular disease", "congestive heart failure"], "A": []}

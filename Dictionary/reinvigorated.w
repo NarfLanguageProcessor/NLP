@@ -1,1 +1,1 @@
-{"index": 266502, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["enliven ", "modernize ", "rejuvenate ", "renew ", "renovate ", "restore ", "resuscitate ", "revitalize ", "revive ", "stimulate "], "A": ["destroy ", "kill ", "ruin ", "depress ", "discourage ", "dissuade "]}
+{"index": 266502, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["enliven", "modernize", "rejuvenate", "renew", "renovate", "restore", "resuscitate", "revitalize", "revive", "stimulate"], "A": ["destroy", "kill", "ruin", "depress", "discourage", "dissuade"]}

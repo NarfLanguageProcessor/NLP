@@ -1,1 +1,1 @@
-{"index": 42774, "D": "to come more or less violently in contact with; collide with; strike", "S": ["bang ", "bounce ", "crash ", "jerk ", "knock ", "punch ", "rattle ", "shake ", "slam ", "slap ", "smack ", "thump ", "whack "], "A": ["placate ", "praise ", "soothe "]}
+{"index": 42774, "D": "to come more or less violently in contact with; collide with; strike", "S": ["bang", "bounce", "crash", "jerk", "knock", "punch", "rattle", "shake", "slam", "slap", "smack", "thump", "whack"], "A": ["placate", "praise", "soothe"]}

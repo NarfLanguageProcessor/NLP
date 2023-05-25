@@ -1,1 +1,1 @@
-{"index": 148474, "D": "absolutely necessary or required; unavoidable", "S": ["by force ", "with force "], "A": []}
+{"index": 148474, "D": "absolutely necessary or required; unavoidable", "S": ["by force", "with force"], "A": []}

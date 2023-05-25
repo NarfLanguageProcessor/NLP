@@ -1,1 +1,1 @@
-{"index": 82101, "D": "the act or fact of deriving  or of being derived. ", "S": ["borrowed ", "copied ", "derived ", "imitative ", "unoriginal "], "A": []}
+{"index": 82101, "D": "the act or fact of deriving  or of being derived. ", "S": ["borrowed", "copied", "derived", "imitative", "unoriginal"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 311338, "D": "having an abundance of wealth, property, or other material goods; prosperous; rich", "S": [], "A": []}

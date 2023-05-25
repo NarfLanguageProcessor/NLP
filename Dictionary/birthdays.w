@@ -1,1 +1,1 @@
-{"index": 34906, "D": "the anniversary of a birth. ", "S": ["name day ", "natal day "], "A": []}
+{"index": 34906, "D": "the anniversary of a birth. ", "S": ["name day", "natal day"], "A": []}

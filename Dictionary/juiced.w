@@ -1,1 +1,1 @@
-{"index": 162185, "D": "intoxicated from alcohol; drunk", "S": ["intoxicated "], "A": ["clear ", "clearheaded ", "sober ", "straight "]}
+{"index": 162185, "D": "intoxicated from alcohol; drunk", "S": ["intoxicated"], "A": ["clear", "clearheaded", "sober", "straight"]}

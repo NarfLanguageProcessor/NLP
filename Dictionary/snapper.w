@@ -1,1 +1,1 @@
-{"index": 295302, "D": "any of several large marine food fishes of the family Lutjanidae.", "S": ["tortoise "], "A": []}
+{"index": 295302, "D": "any of several large marine food fishes of the family Lutjanidae.", "S": ["tortoise"], "A": []}

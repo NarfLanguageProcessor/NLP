@@ -1,1 +1,1 @@
-{"index": 310215, "D": "of, containing, or resembling sugar. ", "S": ["sticky ", "sweet "], "A": []}
+{"index": 310215, "D": "of, containing, or resembling sugar. ", "S": ["sticky", "sweet"], "A": []}

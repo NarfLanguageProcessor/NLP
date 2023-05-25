@@ -1,1 +1,1 @@
-{"index": 314032, "D": "filled or covered with water; flooded; inundated", "S": ["active ", "unavailable ", "working "], "A": ["idle ", "inactive ", "unoccupied "]}
+{"index": 314032, "D": "filled or covered with water; flooded; inundated", "S": ["active", "unavailable", "working"], "A": ["idle", "inactive", "unoccupied"]}

@@ -1,1 +1,1 @@
-{"index": 67759, "D": "an inopportune occurrence; an embarrassing mischance", "S": ["disaster ", "embarrassment ", "misadventure ", "misfortune ", "mishap ", "predicament "], "A": ["blessing ", "good fortune ", "good luck ", "success ", "triumph "]}
+{"index": 67759, "D": "an inopportune occurrence; an embarrassing mischance", "S": ["disaster", "embarrassment", "misadventure", "misfortune", "mishap", "predicament"], "A": ["blessing", "good fortune", "good luck", "success", "triumph"]}

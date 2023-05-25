@@ -1,1 +1,1 @@
-{"index": 220515, "D": "to exaggerate or overemphasize (one's role in a play,  an emotion, an effect, etc.)", "S": ["exaggerate ", "maximize ", "overdo ", "overemphasize ", "overstate ", "overuse "], "A": ["play down "]}
+{"index": 220515, "D": "to exaggerate or overemphasize (one's role in a play,  an emotion, an effect, etc.)", "S": ["exaggerate", "maximize", "overdo", "overemphasize", "overstate", "overuse"], "A": ["play down"]}

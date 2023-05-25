@@ -1,1 +1,1 @@
-{"index": 170434, "D": "agreeably tolerant; permissive; indulgent", "S": ["benign ", "compassionate ", "compliant ", "forgiving ", "indulgent ", "sympathetic ", "tolerant "], "A": ["hateful ", "merciless "]}
+{"index": 170434, "D": "agreeably tolerant; permissive; indulgent", "S": ["benign", "compassionate", "compliant", "forgiving", "indulgent", "sympathetic", "tolerant"], "A": ["hateful", "merciless"]}

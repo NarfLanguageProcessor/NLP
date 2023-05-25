@@ -1,1 +1,1 @@
-{"index": 105614, "D": "the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt.", "S": ["circumlocution ", "delicacy ", "floridness ", "grandiloquence ", "inflation ", "pomposity ", "pretense ", "purism "], "A": []}
+{"index": 105614, "D": "the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt.", "S": ["circumlocution", "delicacy", "floridness", "grandiloquence", "inflation", "pomposity", "pretense", "purism"], "A": []}

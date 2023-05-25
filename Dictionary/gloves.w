@@ -1,1 +1,1 @@
-{"index": 126787, "D": "a covering for the hand made with a separate sheath for each finger and for the thumb.", "S": ["mitt "], "A": []}
+{"index": 126787, "D": "a covering for the hand made with a separate sheath for each finger and for the thumb.", "S": ["mitt"], "A": []}

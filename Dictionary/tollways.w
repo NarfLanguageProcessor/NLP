@@ -1,1 +1,1 @@
-{"index": 325321, "D": "toll road. ", "S": ["interstate ", "state highway ", "turnpike "], "A": ["freeway "]}
+{"index": 325321, "D": "toll road. ", "S": ["interstate", "state highway", "turnpike"], "A": ["freeway"]}

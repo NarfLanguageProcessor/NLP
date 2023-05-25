@@ -1,1 +1,1 @@
-{"index": 357902, "D": "a cotton pile fabric with short pile.", "S": ["velvety "], "A": []}
+{"index": 357902, "D": "a cotton pile fabric with short pile.", "S": ["velvety"], "A": []}

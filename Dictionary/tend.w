@@ -1,1 +1,1 @@
-{"index": 318710, "D": "to be disposed or inclined in action, operation, or effect to do something", "S": ["bear ", "contribute ", "favor ", "go ", "gravitate ", "influence ", "lean ", "turn "], "A": ["dislike ", "hurt ", "shun ", "take ", "dissuade ", "follow ", "obey "]}
+{"index": 318710, "D": "to be disposed or inclined in action, operation, or effect to do something", "S": ["bear", "contribute", "favor", "go", "gravitate", "influence", "lean", "turn"], "A": ["dislike", "hurt", "shun", "take", "dissuade", "follow", "obey"]}

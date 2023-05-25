@@ -1,1 +1,0 @@
-{"index": 317843, "D": "alveolar ridge. ", "S": [], "A": []}

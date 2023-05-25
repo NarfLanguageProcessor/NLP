@@ -1,1 +1,1 @@
-{"index": 312269, "D": "being in or belonging to the heaven of divine beings; heavenly, celestial, or divine.", "S": ["angelic ", "astral ", "elevated ", "empyreal ", "empyrean ", "ethereal ", "heavenly ", "lofty ", "otherworldly ", "seraphic ", "uplifted "], "A": []}
+{"index": 312269, "D": "being in or belonging to the heaven of divine beings; heavenly, celestial, or divine.", "S": ["angelic", "astral", "elevated", "empyreal", "empyrean", "ethereal", "heavenly", "lofty", "otherworldly", "seraphic", "uplifted"], "A": []}

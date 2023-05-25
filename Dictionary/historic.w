@@ -1,1 +1,1 @@
-{"index": 141871, "D": "well-known or important in history", "S": ["consequential ", "extraordinary ", "famous ", "important ", "memorable ", "significant "], "A": ["insignificant ", "trivial ", "unimportant ", "unknown "]}
+{"index": 141871, "D": "well-known or important in history", "S": ["consequential", "extraordinary", "famous", "important", "memorable", "significant"], "A": ["insignificant", "trivial", "unimportant", "unknown"]}

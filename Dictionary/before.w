@@ -1,1 +1,1 @@
-{"index": 30511, "D": "previous to; earlier or sooner than", "S": ["ahead ", "back ", "previously ", "since ", "sooner "], "A": ["after ", "afterward ", "behind ", "later "]}
+{"index": 30511, "D": "previous to; earlier or sooner than", "S": ["ahead", "back", "previously", "since", "sooner"], "A": ["after", "afterward", "behind", "later"]}

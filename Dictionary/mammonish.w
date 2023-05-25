@@ -1,1 +1,0 @@
-{"index": 178828, "D": "riches or material wealth. Matthew 6", "S": [], "A": []}

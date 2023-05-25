@@ -1,1 +1,1 @@
-{"index": 229060, "D": "to look through a small opening or from a concealed location.", "S": ["inquisitive ", "interested "], "A": ["incurious ", "unconcerned "]}
+{"index": 229060, "D": "to look through a small opening or from a concealed location.", "S": ["inquisitive", "interested"], "A": ["incurious", "unconcerned"]}

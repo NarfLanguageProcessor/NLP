@@ -1,1 +1,1 @@
-{"index": 267361, "D": "(of money) having been sent or transmitted to a person or place, usually as payment", "S": ["address ", "consign ", "dispatch ", "forward ", "mail ", "pay ", "post ", "route ", "settle ", "ship ", "square ", "transmit "], "A": ["hold ", "keep ", "receive ", "retain "]}
+{"index": 267361, "D": "(of money) having been sent or transmitted to a person or place, usually as payment", "S": ["address", "consign", "dispatch", "forward", "mail", "pay", "post", "route", "settle", "ship", "square", "transmit"], "A": ["hold", "keep", "receive", "retain"]}

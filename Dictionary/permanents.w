@@ -1,1 +1,1 @@
-{"index": 231574, "D": "existing perpetually; everlasting, especially without significant change.", "S": ["perm ", "permanent ", "permanent wave "], "A": []}
+{"index": 231574, "D": "existing perpetually; everlasting, especially without significant change.", "S": ["perm", "permanent", "permanent wave"], "A": []}

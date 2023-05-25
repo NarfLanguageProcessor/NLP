@@ -1,1 +1,1 @@
-{"index": 246919, "D": "to proclaim; declare; affirm; assert. ", "S": ["affirm ", "declare ", "imply ", "mean ", "signify ", "state "], "A": ["deny "]}
+{"index": 246919, "D": "to proclaim; declare; affirm; assert. ", "S": ["affirm", "declare", "imply", "mean", "signify", "state"], "A": ["deny"]}

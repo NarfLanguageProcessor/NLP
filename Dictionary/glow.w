@@ -1,1 +1,1 @@
-{"index": 126789, "D": "a light emitted by or as if by a substance heated to luminosity; incandescence.", "S": ["bloom ", "blossom ", "brilliance ", "glare ", "gleam ", "glimmer ", "glitter ", "intensity ", "light ", "radiance ", "ray ", "warmth "], "A": ["dark ", "dullness "]}
+{"index": 126789, "D": "a light emitted by or as if by a substance heated to luminosity; incandescence.", "S": ["bloom", "blossom", "brilliance", "glare", "gleam", "glimmer", "glitter", "intensity", "light", "radiance", "ray", "warmth"], "A": ["dark", "dullness"]}

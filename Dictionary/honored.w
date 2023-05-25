@@ -1,1 +1,1 @@
-{"index": 143438, "D": "held in honor; highly respected", "S": ["dignified ", "distinguished ", "esteemed ", "privileged ", "recognized ", "revered ", "venerated ", "well-known "], "A": ["unknown "]}
+{"index": 143438, "D": "held in honor; highly respected", "S": ["dignified", "distinguished", "esteemed", "privileged", "recognized", "revered", "venerated", "well-known"], "A": ["unknown"]}

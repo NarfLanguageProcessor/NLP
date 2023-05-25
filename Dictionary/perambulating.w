@@ -1,1 +1,0 @@
-{"index": 230332, "D": "to walk through, about, or over; travel through; traverse. ", "S": ["mosey ", "promenade ", "ramble ", "roam ", "stroll ", "tour ", "walk "], "A": ["run "]}

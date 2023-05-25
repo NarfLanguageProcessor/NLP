@@ -1,1 +1,1 @@
-{"index": 253407, "D": "a person under the patronage, protection, or care of someone interested in their career or welfare.", "S": ["apprentice ", "charge ", "discovery ", "star student ", "student ", "ward "], "A": []}
+{"index": 253407, "D": "a person under the patronage, protection, or care of someone interested in their career or welfare.", "S": ["apprentice", "charge", "discovery", "star student", "student", "ward"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 168143, "D": "characterized by languor;  languid.", "S": ["lackadaisical ", "laid-back ", "leisurely ", "unhurried "], "A": ["hurried "]}
+{"index": 168143, "D": "characterized by languor;  languid.", "S": ["lackadaisical", "laid-back", "leisurely", "unhurried"], "A": ["hurried"]}

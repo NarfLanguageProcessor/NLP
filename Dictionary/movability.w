@@ -1,1 +1,1 @@
-{"index": 194377, "D": "capable of being moved; not fixed in one place, position, or posture.", "S": ["flexibility ", "maneuverability "], "A": []}
+{"index": 194377, "D": "capable of being moved; not fixed in one place, position, or posture.", "S": ["flexibility", "maneuverability"], "A": []}

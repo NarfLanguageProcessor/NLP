@@ -1,1 +1,1 @@
-{"index": 221632, "D": "openly; publicly.", "S": ["honestly "], "A": ["deceitful ", "devious ", "lying ", "shady ", "underhanded "]}
+{"index": 221632, "D": "openly; publicly.", "S": ["honestly"], "A": ["deceitful", "devious", "lying", "shady", "underhanded"]}

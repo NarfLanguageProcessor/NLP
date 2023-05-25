@@ -1,1 +1,1 @@
-{"index": 282013, "D": "given to or characterized by scrounging. ", "S": ["bad ", "poor "], "A": ["excellent ", "noble ", "precious ", "priceless ", "sophisticated ", "superior ", "valuable "]}
+{"index": 282013, "D": "given to or characterized by scrounging. ", "S": ["bad", "poor"], "A": ["excellent", "noble", "precious", "priceless", "sophisticated", "superior", "valuable"]}

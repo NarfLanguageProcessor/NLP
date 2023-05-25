@@ -1,1 +1,1 @@
-{"index": 290053, "D": "a pictorial symbol used in ritualistic magic and supposed to have supernatural power", "S": ["autograph ", "identification ", "ink ", "name ", "seal ", "stamp ", "trademark "], "A": []}
+{"index": 290053, "D": "a pictorial symbol used in ritualistic magic and supposed to have supernatural power", "S": ["autograph", "identification", "ink", "name", "seal", "stamp", "trademark"], "A": []}

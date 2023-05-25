@@ -1,0 +1,1 @@
+{"index": 5553, "D": [], "S": ["glowing", "rose-colored"], "A": ["depressing", "hopeless", "pale", "sad"]}

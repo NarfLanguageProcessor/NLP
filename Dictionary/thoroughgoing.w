@@ -1,1 +1,1 @@
-{"index": 322439, "D": "doing things thoroughly.", "S": ["absolute ", "arrant ", "out-and-out ", "unqualified "], "A": ["incomplete "]}
+{"index": 322439, "D": "doing things thoroughly.", "S": ["absolute", "arrant", "out-and-out", "unqualified"], "A": ["incomplete"]}

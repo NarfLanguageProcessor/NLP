@@ -1,1 +1,1 @@
-{"index": 76997, "D": "a person or thing that darns. ", "S": ["accursed ", "blasted ", "blessed ", "bloody ", "confounded ", "cursed ", "damn ", "darn "], "A": []}
+{"index": 76997, "D": "a person or thing that darns. ", "S": ["accursed", "blasted", "blessed", "bloody", "confounded", "cursed", "damn", "darn"], "A": []}

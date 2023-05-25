@@ -1,1 +1,1 @@
-{"index": 197795, "D": "a person who uses witchcraft or sorcery, especially to reanimate dead people or to foretell the future by communicating with them", "S": ["conjurer ", "enchanter ", "enchantress ", "hag ", "magician ", "occultist ", "sorcerer ", "sorceress "], "A": []}
+{"index": 197795, "D": "a person who uses witchcraft or sorcery, especially to reanimate dead people or to foretell the future by communicating with them", "S": ["conjurer", "enchanter", "enchantress", "hag", "magician", "occultist", "sorcerer", "sorceress"], "A": []}

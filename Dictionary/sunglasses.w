@@ -1,1 +1,1 @@
-{"index": 311128, "D": "eyeglasses with colored or tinted lenses that protect the eyes from the glare of sunlight.", "S": ["specs "], "A": []}
+{"index": 311128, "D": "eyeglasses with colored or tinted lenses that protect the eyes from the glare of sunlight.", "S": ["specs"], "A": []}

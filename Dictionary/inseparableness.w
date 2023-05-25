@@ -1,1 +1,1 @@
-{"index": 153546, "D": "incapable of being separated, parted, or disjoined", "S": ["consistency ", "continuity ", "integrity ", "rationality ", "solidarity ", "unity "], "A": ["difference ", "disagreement ", "discord ", "divorce ", "nonconformity "]}
+{"index": 153546, "D": "incapable of being separated, parted, or disjoined", "S": ["consistency", "continuity", "integrity", "rationality", "solidarity", "unity"], "A": ["difference", "disagreement", "discord", "divorce", "nonconformity"]}

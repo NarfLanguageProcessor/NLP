@@ -1,1 +1,1 @@
-{"index": 276907, "D": [], "S": ["profitableness ", "salability "], "A": []}
+{"index": 276907, "D": [], "S": ["profitableness", "salability"], "A": []}

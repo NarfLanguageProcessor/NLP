@@ -1,1 +1,1 @@
-{"index": 100909, "D": [], "S": ["enclose ", "encompass ", "envelop ", "hem in ", "surround "], "A": ["free ", "let go ", "release "]}
+{"index": 100909, "D": [], "S": ["enclose", "encompass", "envelop", "hem in", "surround"], "A": ["free", "let go", "release"]}

@@ -1,1 +1,1 @@
-{"index": 76774, "D": "to hang loosely, especially with a jerking or swaying motion", "S": ["drooping "], "A": []}
+{"index": 76774, "D": "to hang loosely, especially with a jerking or swaying motion", "S": ["drooping"], "A": []}

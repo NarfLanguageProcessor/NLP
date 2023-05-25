@@ -1,1 +1,1 @@
-{"index": 278881, "D": "a saucy person.", "S": ["know-it-all ", "malapert ", "smart alec ", "smart-ass ", "smarty ", "smarty-pants ", "wise guy ", "wiseass ", "wisenheimer ", "witling "], "A": []}
+{"index": 278881, "D": "a saucy person.", "S": ["know-it-all", "malapert", "smart alec", "smart-ass", "smarty", "smarty-pants", "wise guy", "wiseass", "wisenheimer", "witling"], "A": []}

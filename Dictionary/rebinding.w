@@ -1,1 +1,0 @@
-{"index": 262328, "D": "to fasten or secure with a band or bond.", "S": [], "A": []}

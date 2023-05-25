@@ -1,1 +1,1 @@
-{"index": 183318, "D": "lowly and sometimes degrading", "S": ["base ", "boring ", "common ", "humdrum ", "low ", "mean ", "routine "], "A": ["exciting ", "high ", "honest ", "moral ", "noble ", "unusual "]}
+{"index": 183318, "D": "lowly and sometimes degrading", "S": ["base", "boring", "common", "humdrum", "low", "mean", "routine"], "A": ["exciting", "high", "honest", "moral", "noble", "unusual"]}

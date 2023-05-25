@@ -1,1 +1,1 @@
-{"index": 21466, "D": "asphyxiating  or tending to asphyxiate. ", "S": ["mustard gas ", "poison gas ", "tear gas "], "A": []}
+{"index": 21466, "D": "asphyxiating  or tending to asphyxiate. ", "S": ["mustard gas", "poison gas", "tear gas"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 10173, "D": "an act or instance of lying concealed so as to attack by surprise", "S": ["assault ", "surround ", "trap ", "waylay "], "A": []}
+{"index": 10173, "D": "an act or instance of lying concealed so as to attack by surprise", "S": ["assault", "surround", "trap", "waylay"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110334, "D": "cattle fattened and ready for market.", "S": ["flesh ", "grease ", "lard "], "A": ["lack ", "necessity ", "need ", "scarcity ", "want "]}
+{"index": 110334, "D": "cattle fattened and ready for market.", "S": ["flesh", "grease", "lard"], "A": ["lack", "necessity", "need", "scarcity", "want"]}

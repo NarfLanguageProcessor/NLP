@@ -1,1 +1,0 @@
-{"index": 191342, "D": "to make or become moist. ", "S": ["dampen ", "drench ", "rinse ", "saturate ", "soak ", "sprinkle ", "squirt ", "steam ", "wash ", "wet "], "A": ["dehydrate ", "dry "]}

@@ -1,1 +1,1 @@
-{"index": 246007, "D": "a person who leads a church choir or congregation in singing.", "S": ["chanter ", "hazan ", "leader ", "singer ", "soloist ", "vocalist "], "A": []}
+{"index": 246007, "D": "a person who leads a church choir or congregation in singing.", "S": ["chanter", "hazan", "leader", "singer", "soloist", "vocalist"], "A": []}

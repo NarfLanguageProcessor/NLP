@@ -1,1 +1,1 @@
-{"index": 357673, "D": "a vegetarian who omits all animal products from the diet.", "S": ["fruitarian ", "herbivorous "], "A": []}
+{"index": 357673, "D": "a vegetarian who omits all animal products from the diet.", "S": ["fruitarian", "herbivorous"], "A": []}

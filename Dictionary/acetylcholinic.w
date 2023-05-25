@@ -1,0 +1,1 @@
+{"index": 2067, "D": "the acetic acid ester of choline,  C7H17NO3, released and hydrolyzed during nerve conduction and causing muscle action by transmitting nerve impulses across synapses.", "S": [], "A": []}

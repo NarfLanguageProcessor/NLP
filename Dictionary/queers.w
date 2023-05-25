@@ -1,1 +1,1 @@
-{"index": 258284, "D": "strange or odd from a conventional viewpoint; unusually different; singular", "S": ["character "], "A": []}
+{"index": 258284, "D": "strange or odd from a conventional viewpoint; unusually different; singular", "S": ["character"], "A": []}

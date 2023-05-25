@@ -1,1 +1,1 @@
-{"index": 24983, "D": [], "S": ["4WD ", "4x4 ", "all-wheel drive ", "four by four ", "sport utility vehicle "], "A": []}
+{"index": 24983, "D": [], "S": ["4WD", "4x4", "all-wheel drive", "four by four", "sport utility vehicle"], "A": []}

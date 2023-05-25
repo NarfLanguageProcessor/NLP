@@ -1,1 +1,1 @@
-{"index": 293420, "D": "to split or cut, as leather, into layers or slices.", "S": ["mow ", "prune ", "shave ", "shear ", "snip ", "trim "], "A": ["elongate ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "raise "]}
+{"index": 293420, "D": "to split or cut, as leather, into layers or slices.", "S": ["mow", "prune", "shave", "shear", "snip", "trim"], "A": ["elongate", "enlarge", "expand", "extend", "grow", "increase", "lengthen", "raise"]}

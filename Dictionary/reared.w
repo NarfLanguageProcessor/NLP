@@ -1,1 +1,1 @@
-{"index": 261946, "D": "the back of something, as distinguished from the front", "S": ["cultivated ", "cultured ", "produced ", "raised ", "trained "], "A": ["inexperienced ", "uncultured ", "unsophisticated "]}
+{"index": 261946, "D": "the back of something, as distinguished from the front", "S": ["cultivated", "cultured", "produced", "raised", "trained"], "A": ["inexperienced", "uncultured", "unsophisticated"]}

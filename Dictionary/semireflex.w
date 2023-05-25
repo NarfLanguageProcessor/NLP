@@ -1,1 +1,0 @@
-{"index": 284847, "D": "noting or pertaining to an involuntary response to a stimulus, the nerve impulse from a receptor being transmitted inward to a nerve center that in turn transmits it outward to an effector.", "S": [], "A": []}

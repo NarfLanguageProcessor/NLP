@@ -1,1 +1,1 @@
-{"index": 23084, "D": "the part of a building, especially of a house, directly under a roof; garret.", "S": ["garret ", "loft "], "A": []}
+{"index": 23084, "D": "the part of a building, especially of a house, directly under a roof; garret.", "S": ["garret", "loft"], "A": []}

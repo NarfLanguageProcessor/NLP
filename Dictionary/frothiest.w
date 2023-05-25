@@ -1,1 +1,1 @@
-{"index": 119449, "D": "of, like, or having froth;  foamy.", "S": ["barmy ", "bubbling ", "fermenting ", "fizzing ", "fizzy ", "foaming ", "foamy ", "soapy ", "spumescent ", "spumous ", "spumy ", "sudsy ", "with a head on ", "yeasty "], "A": ["flat "]}
+{"index": 119449, "D": "of, like, or having froth;  foamy.", "S": ["barmy", "bubbling", "fermenting", "fizzing", "fizzy", "foaming", "foamy", "soapy", "spumescent", "spumous", "spumy", "sudsy", "with a head on", "yeasty"], "A": ["flat"]}

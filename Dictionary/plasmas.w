@@ -1,1 +1,1 @@
-{"index": 239157, "D": "the liquid part of blood or lymph, as distinguished from the suspended elements.", "S": ["juice "], "A": []}
+{"index": 239157, "D": "the liquid part of blood or lymph, as distinguished from the suspended elements.", "S": ["juice"], "A": []}

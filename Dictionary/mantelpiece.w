@@ -1,1 +1,1 @@
-{"index": 179552, "D": "a shelf above a fireplace often forming part of the mantel", "S": ["chimneypiece "], "A": []}
+{"index": 179552, "D": "a shelf above a fireplace often forming part of the mantel", "S": ["chimneypiece"], "A": []}

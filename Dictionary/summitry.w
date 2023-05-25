@@ -1,1 +1,1 @@
-{"index": 310970, "D": "the act or practice of holding a summit meeting,  especially to conduct diplomatic negotiations.", "S": ["summit "], "A": []}
+{"index": 310970, "D": "the act or practice of holding a summit meeting,  especially to conduct diplomatic negotiations.", "S": ["summit"], "A": []}

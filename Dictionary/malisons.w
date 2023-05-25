@@ -1,1 +1,1 @@
-{"index": 178509, "D": "a curse.", "S": ["bane ", "expletive ", "obscenity ", "profanity ", "whammy "], "A": ["compliment ", "piety ", "praise ", "reverence "]}
+{"index": 178509, "D": "a curse.", "S": ["bane", "expletive", "obscenity", "profanity", "whammy"], "A": ["compliment", "piety", "praise", "reverence"]}

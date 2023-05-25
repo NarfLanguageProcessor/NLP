@@ -1,1 +1,1 @@
-{"index": 354554, "D": [], "S": ["hoist ", "shove "], "A": ["condemn ", "decline ", "decrease ", "demote ", "denounce ", "depress ", "destroy ", "drop ", "fall ", "hurt ", "lower ", "raze ", "ruin "]}
+{"index": 354554, "D": [], "S": ["hoist", "shove"], "A": ["condemn", "decline", "decrease", "demote", "denounce", "depress", "destroy", "drop", "fall", "hurt", "lower", "raze", "ruin"]}

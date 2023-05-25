@@ -1,1 +1,1 @@
-{"index": 49327, "D": "a wild animal of the cat family, especially the cougar or the lynx.", "S": ["mountain lion ", "panther "], "A": []}
+{"index": 49327, "D": "a wild animal of the cat family, especially the cougar or the lynx.", "S": ["mountain lion", "panther"], "A": []}

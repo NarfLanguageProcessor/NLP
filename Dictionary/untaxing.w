@@ -1,1 +1,1 @@
-{"index": 352733, "D": "wearingly burdensome", "S": ["moderate ", "smooth "], "A": ["difficult ", "heavy ", "laborious ", "obscure ", "serious "]}
+{"index": 352733, "D": "wearingly burdensome", "S": ["moderate", "smooth"], "A": ["difficult", "heavy", "laborious", "obscure", "serious"]}

@@ -1,1 +1,1 @@
-{"index": 325092, "D": "into or in one gathering, company, mass, place, or body", "S": ["calm ", "cool ", "in sync ", "stable ", "well-adjusted ", "well-balanced ", "well-organized "], "A": ["imbalanced ", "unstable ", "upset "]}
+{"index": 325092, "D": "into or in one gathering, company, mass, place, or body", "S": ["calm", "cool", "in sync", "stable", "well-adjusted", "well-balanced", "well-organized"], "A": ["imbalanced", "unstable", "upset"]}

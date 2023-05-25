@@ -1,1 +1,1 @@
-{"index": 46341, "D": "a small box or jar, often one of a kitchen set, for holding tea, coffee, flour, and sugar.", "S": ["basket ", "box ", "carton ", "case ", "crate ", "receptacle "], "A": []}
+{"index": 46341, "D": "a small box or jar, often one of a kitchen set, for holding tea, coffee, flour, and sugar.", "S": ["basket", "box", "carton", "case", "crate", "receptacle"], "A": []}

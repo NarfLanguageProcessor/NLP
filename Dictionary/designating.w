@@ -1,1 +1,1 @@
-{"index": 82578, "D": "to mark or point out; indicate; show; specify.", "S": ["definitive ", "detailed ", "eloquent ", "expressive ", "identifying ", "illuminating ", "pictorial ", "revealing ", "vivid "], "A": ["dull "]}
+{"index": 82578, "D": "to mark or point out; indicate; show; specify.", "S": ["definitive", "detailed", "eloquent", "expressive", "identifying", "illuminating", "pictorial", "revealing", "vivid"], "A": ["dull"]}

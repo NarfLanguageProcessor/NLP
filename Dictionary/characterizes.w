@@ -1,1 +1,1 @@
-{"index": 52739, "D": "to mark or distinguish as a characteristic;  be a characteristic of", "S": ["define ", "describe ", "identify ", "indicate ", "mark ", "outline ", "portray ", "represent ", "symbolize "], "A": ["confuse ", "mix up "]}
+{"index": 52739, "D": "to mark or distinguish as a characteristic;  be a characteristic of", "S": ["define", "describe", "identify", "indicate", "mark", "outline", "portray", "represent", "symbolize"], "A": ["confuse", "mix up"]}

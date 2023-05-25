@@ -1,1 +1,0 @@
-{"index": 311343, "D": "the act or process of agitating;  state of being agitated", "S": [], "A": []}

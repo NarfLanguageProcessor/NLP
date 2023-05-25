@@ -1,1 +1,1 @@
-{"index": 122022, "D": "a gaping hole", "S": ["cavernous ", "vast ", "yawning "], "A": ["closed ", "shut "]}
+{"index": 122022, "D": "a gaping hole", "S": ["cavernous", "vast", "yawning"], "A": ["closed", "shut"]}

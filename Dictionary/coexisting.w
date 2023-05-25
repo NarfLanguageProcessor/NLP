@@ -1,1 +1,1 @@
-{"index": 62108, "D": "to exist  together or at the same time.", "S": ["coeval ", "coexistent ", "concomitant ", "contemporaneous ", "simultaneous ", "synchronic ", "synchronous "], "A": []}
+{"index": 62108, "D": "to exist  together or at the same time.", "S": ["coeval", "coexistent", "concomitant", "contemporaneous", "simultaneous", "synchronic", "synchronous"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 227155, "D": "a woman who, having risen socially or economically, is considered to be an upstart or to lack the appropriate refinement for her new position", "S": ["name-dropper ", "nouveau riche ", "social climber ", "status seeker "], "A": []}
+{"index": 227155, "D": "a woman who, having risen socially or economically, is considered to be an upstart or to lack the appropriate refinement for her new position", "S": ["name-dropper", "nouveau riche", "social climber", "status seeker"], "A": []}

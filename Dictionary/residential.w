@@ -1,1 +1,1 @@
-{"index": 269361, "D": "of or relating to residence  or to residences", "S": ["peopled ", "populous ", "uptown ", "urban "], "A": ["commercial "]}
+{"index": 269361, "D": "of or relating to residence  or to residences", "S": ["peopled", "populous", "uptown", "urban"], "A": ["commercial"]}

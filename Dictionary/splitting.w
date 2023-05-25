@@ -1,1 +1,1 @@
-{"index": 300579, "D": "being split  or causing something to split. ", "S": ["collapsing ", "cracking ", "crumbling ", "fracturing ", "shattering ", "smashing ", "splintering ", "tearing "], "A": ["enduring ", "strong "]}
+{"index": 300579, "D": "being split  or causing something to split. ", "S": ["collapsing", "cracking", "crumbling", "fracturing", "shattering", "smashing", "splintering", "tearing"], "A": ["enduring", "strong"]}

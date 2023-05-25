@@ -1,1 +1,1 @@
-{"index": 113967, "D": "a dessert of sweetened egg custard with a caramel topping.", "S": ["disc ", "plate ", "platter "], "A": []}
+{"index": 113967, "D": "a dessert of sweetened egg custard with a caramel topping.", "S": ["disc", "plate", "platter"], "A": []}

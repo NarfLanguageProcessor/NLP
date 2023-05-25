@@ -1,1 +1,1 @@
-{"index": 125938, "D": "a very harsh, bright, dazzling light", "S": ["frown ", "gape ", "gawk ", "glower ", "scowl ", "stare "], "A": ["grin ", "smile ", "aid ", "assist ", "help "]}
+{"index": 125938, "D": "a very harsh, bright, dazzling light", "S": ["frown", "gape", "gawk", "glower", "scowl", "stare"], "A": ["grin", "smile", "aid", "assist", "help"]}

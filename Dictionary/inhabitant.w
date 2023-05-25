@@ -1,1 +1,1 @@
-{"index": 152619, "D": "a person or animal that inhabits  a place, especially as a permanent resident.", "S": ["citizen ", "colonist ", "dweller ", "inmate ", "occupant ", "settler "], "A": ["alien ", "foreigner ", "immigrant ", "landlord "]}
+{"index": 152619, "D": "a person or animal that inhabits  a place, especially as a permanent resident.", "S": ["citizen", "colonist", "dweller", "inmate", "occupant", "settler"], "A": ["alien", "foreigner", "immigrant", "landlord"]}

@@ -1,1 +1,1 @@
-{"index": 260047, "D": "a permanent road  laid with rails,  commonly in one or more pairs of continuous lines forming a track or tracks, on which locomotives and cars are run for the transportation of passengers, freight, and mail.", "S": ["rail line ", "railway ", "subway "], "A": []}
+{"index": 260047, "D": "a permanent road  laid with rails,  commonly in one or more pairs of continuous lines forming a track or tracks, on which locomotives and cars are run for the transportation of passengers, freight, and mail.", "S": ["rail line", "railway", "subway"], "A": []}

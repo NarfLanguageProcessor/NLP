@@ -1,1 +1,1 @@
-{"index": 256689, "D": "serving for, concerned with, or inflicting punishment", "S": ["disciplinary ", "penal ", "punishing ", "retaliatory ", "vindictive "], "A": ["beneficial ", "rewarding "]}
+{"index": 256689, "D": "serving for, concerned with, or inflicting punishment", "S": ["disciplinary", "penal", "punishing", "retaliatory", "vindictive"], "A": ["beneficial", "rewarding"]}

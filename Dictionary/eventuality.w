@@ -1,1 +1,1 @@
-{"index": 106130, "D": "a contingent event; a possible occurrence or circumstance", "S": ["aftereffect ", "contingency ", "goings-on ", "probability "], "A": ["beginning ", "cause ", "commencement ", "origin ", "plan ", "source ", "start ", "unlikelihood "]}
+{"index": 106130, "D": "a contingent event; a possible occurrence or circumstance", "S": ["aftereffect", "contingency", "goings-on", "probability"], "A": ["beginning", "cause", "commencement", "origin", "plan", "source", "start", "unlikelihood"]}

@@ -1,1 +1,1 @@
-{"index": 87138, "D": "a disowning; repudiation; denial.", "S": ["abandonment "], "A": []}
+{"index": 87138, "D": "a disowning; repudiation; denial.", "S": ["abandonment"], "A": []}

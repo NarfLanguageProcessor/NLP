@@ -1,1 +1,1 @@
-{"index": 79285, "D": "a person who defies. ", "S": ["contender "], "A": []}
+{"index": 79285, "D": "a person who defies. ", "S": ["contender"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 128313, "D": "a stew of beef or veal and vegetables, with paprika and other seasoning.", "S": ["stew "], "A": []}
+{"index": 128313, "D": "a stew of beef or veal and vegetables, with paprika and other seasoning.", "S": ["stew"], "A": []}

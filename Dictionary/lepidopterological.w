@@ -1,1 +1,1 @@
-{"index": 170620, "D": "the branch of zoology dealing with butterflies and moths.", "S": ["lepidopterous "], "A": []}
+{"index": 170620, "D": "the branch of zoology dealing with butterflies and moths.", "S": ["lepidopterous"], "A": []}

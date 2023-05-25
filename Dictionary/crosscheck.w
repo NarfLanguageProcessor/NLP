@@ -1,1 +1,1 @@
-{"index": 73792, "D": "to determine the accuracy of (something) by checking it with various sources.", "S": ["QA ", "cross-check ", "quality assurance ", "review ", "survey ", "vetting "], "A": []}
+{"index": 73792, "D": "to determine the accuracy of (something) by checking it with various sources.", "S": ["QA", "cross-check", "quality assurance", "review", "survey", "vetting"], "A": []}

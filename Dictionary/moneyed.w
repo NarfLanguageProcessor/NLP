@@ -1,1 +1,0 @@
-{"index": 191835, "D": "having much money;  wealthy.", "S": ["affluent ", "upscale ", "wealthy ", "well-heeled ", "well-off ", "well-to-do "], "A": ["destitute ", "lacking ", "needy ", "poor ", "wanting "]}

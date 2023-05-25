@@ -1,1 +1,1 @@
-{"index": 60394, "D": "a population of identical units, cells, or individuals that derive from the same ancestral line.", "S": ["reproduction "], "A": ["original "]}
+{"index": 60394, "D": "a population of identical units, cells, or individuals that derive from the same ancestral line.", "S": ["reproduction"], "A": ["original"]}

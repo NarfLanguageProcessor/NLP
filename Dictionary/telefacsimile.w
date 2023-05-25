@@ -1,1 +1,1 @@
-{"index": 318021, "D": "facsimile (def. 2). ", "S": ["Telephoto ", "Wirephoto ", "facsimile ", "facsimile machine ", "telefax ", "telephotograph machine "], "A": []}
+{"index": 318021, "D": "facsimile (def. 2). ", "S": ["Telephoto", "Wirephoto", "facsimile", "facsimile machine", "telefax", "telephotograph machine"], "A": []}

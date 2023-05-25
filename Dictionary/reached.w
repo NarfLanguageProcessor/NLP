@@ -1,1 +1,1 @@
-{"index": 261485, "D": "to get to or get as far as in moving, going, traveling, etc.", "S": ["captured ", "collected ", "seized "], "A": ["deprived ", "forfeited ", "lost "]}
+{"index": 261485, "D": "to get to or get as far as in moving, going, traveling, etc.", "S": ["captured", "collected", "seized"], "A": ["deprived", "forfeited", "lost"]}

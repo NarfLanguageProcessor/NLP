@@ -1,1 +1,1 @@
-{"index": 276770, "D": "something said,  especially a proverb or apothegm.", "S": ["saw ", "statement "], "A": []}
+{"index": 276770, "D": "something said,  especially a proverb or apothegm.", "S": ["saw", "statement"], "A": []}

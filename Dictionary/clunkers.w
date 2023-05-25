@@ -1,1 +1,1 @@
-{"index": 60713, "D": "something worthless or inferior.", "S": ["heap ", "junker ", "wreck "], "A": []}
+{"index": 60713, "D": "something worthless or inferior.", "S": ["heap", "junker", "wreck"], "A": []}

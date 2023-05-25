@@ -1,1 +1,1 @@
-{"index": 87155, "D": "to break up or dissolve (an organization)", "S": ["demobilize ", "destroy ", "disperse ", "dissolve "], "A": ["assemble "]}
+{"index": 87155, "D": "to break up or dissolve (an organization)", "S": ["demobilize", "destroy", "disperse", "dissolve"], "A": ["assemble"]}

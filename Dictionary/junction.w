@@ -1,1 +1,1 @@
-{"index": 162325, "D": "an act of joining;  combining.", "S": ["confluence ", "crossing ", "intersection ", "juncture ", "terminal "], "A": ["detachment ", "disunion ", "division ", "divorce ", "estrangement ", "parting ", "separation ", "severance "]}
+{"index": 162325, "D": "an act of joining;  combining.", "S": ["confluence", "crossing", "intersection", "juncture", "terminal"], "A": ["detachment", "disunion", "division", "divorce", "estrangement", "parting", "separation", "severance"]}

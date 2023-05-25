@@ -1,1 +1,1 @@
-{"index": 31483, "D": "a standard of excellence, achievement, etc., against which similar things must be measured or judged", "S": ["criterion ", "gauge ", "standard ", "yardstick "], "A": ["guess "]}
+{"index": 31483, "D": "a standard of excellence, achievement, etc., against which similar things must be measured or judged", "S": ["criterion", "gauge", "standard", "yardstick"], "A": ["guess"]}

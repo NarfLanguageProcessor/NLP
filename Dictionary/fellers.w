@@ -1,1 +1,1 @@
-{"index": 111032, "D": "fellow. ", "S": ["cruiser ", "feller ", "logger ", "lumberman ", "trimmer "], "A": []}
+{"index": 111032, "D": "fellow. ", "S": ["cruiser", "feller", "logger", "lumberman", "trimmer"], "A": []}

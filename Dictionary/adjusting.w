@@ -1,0 +1,1 @@
+{"index": 4072, "D": "to change (something) so that it fits, corresponds, or conforms; adapt; accommodate", "S": ["atoning", "balanced", "balancing", "settling"], "A": []}

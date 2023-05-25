@@ -1,1 +1,1 @@
-{"index": 271427, "D": "a person, especially a member of the clergy, who promotes or holds religious revivals. ", "S": ["missionary ", "pastor ", "televangelist "], "A": []}
+{"index": 271427, "D": "a person, especially a member of the clergy, who promotes or holds religious revivals. ", "S": ["missionary", "pastor", "televangelist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 311724, "D": "of superior eminence, rank, or dignity; distinguished, conspicuous, or worthy of note above others.", "S": ["superiority ", "supremacy ", "transcendence "], "A": ["subservience "]}
+{"index": 311724, "D": "of superior eminence, rank, or dignity; distinguished, conspicuous, or worthy of note above others.", "S": ["superiority", "supremacy", "transcendence"], "A": ["subservience"]}

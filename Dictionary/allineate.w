@@ -1,1 +1,1 @@
-{"index": 8746, "D": [], "S": ["adjust ", "coordinate ", "regulate "], "A": ["disorganize ", "break ", "disorder "]}
+{"index": 8746, "D": [], "S": ["adjust", "coordinate", "regulate"], "A": ["disorganize", "break", "disorder"]}

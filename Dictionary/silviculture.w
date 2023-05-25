@@ -1,1 +1,1 @@
-{"index": 290695, "D": "the cultivation of forest trees; forestry.", "S": ["afforestation "], "A": []}
+{"index": 290695, "D": "the cultivation of forest trees; forestry.", "S": ["afforestation"], "A": []}

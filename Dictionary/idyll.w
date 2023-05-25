@@ -1,1 +1,1 @@
-{"index": 146447, "D": "a delightful, tranquil rural scene or episode, reminiscent of or suitable for pastoral art or literature", "S": ["breathing space ", "lull ", "respite "], "A": ["continuation ", "beginning ", "go ", "start "]}
+{"index": 146447, "D": "a delightful, tranquil rural scene or episode, reminiscent of or suitable for pastoral art or literature", "S": ["breathing space", "lull", "respite"], "A": ["continuation", "beginning", "go", "start"]}

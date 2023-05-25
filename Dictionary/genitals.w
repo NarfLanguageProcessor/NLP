@@ -1,1 +1,1 @@
-{"index": 123615, "D": "genitalia. ", "S": ["genitalia "], "A": []}
+{"index": 123615, "D": "genitalia. ", "S": ["genitalia"], "A": []}

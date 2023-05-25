@@ -1,1 +1,1 @@
-{"index": 93686, "D": "doubtfulness; doubt.", "S": ["doubtfulness ", "dubiousness ", "incertitude ", "indecision ", "uncertainty "], "A": ["certainty "]}
+{"index": 93686, "D": "doubtfulness; doubt.", "S": ["doubtfulness", "dubiousness", "incertitude", "indecision", "uncertainty"], "A": ["certainty"]}

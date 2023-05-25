@@ -1,1 +1,1 @@
-{"index": 343474, "D": "not skillful in manual work", "S": ["amateurish ", "rude ", "stiff "], "A": ["adroit ", "artful ", "clever ", "convenient ", "dexterous ", "easy ", "elegant ", "graceful ", "handy ", "skillful ", "straightforward "]}
+{"index": 343474, "D": "not skillful in manual work", "S": ["amateurish", "rude", "stiff"], "A": ["adroit", "artful", "clever", "convenient", "dexterous", "easy", "elegant", "graceful", "handy", "skillful", "straightforward"]}

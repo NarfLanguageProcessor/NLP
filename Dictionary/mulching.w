@@ -1,1 +1,1 @@
-{"index": 194876, "D": "a covering, as of straw, compost, or plastic sheeting, spread on the ground around plants to prevent excessive evaporation or erosion, enrich the soil, inhibit weed growth, etc.", "S": [], "A": []}
+{"index": 194876, "D": "a covering, as of straw, compost, or plastic sheeting, spread on the ground around plants to prevent excessive evaporation or erosion, enrich the soil, inhibit weed growth, etc.", "S": ["covering", "dressing", "enrichment", "preparation", "spreading"], "A": []}

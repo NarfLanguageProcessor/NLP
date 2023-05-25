@@ -1,1 +1,1 @@
-{"index": 244263, "D": "a concluding piece or movement.", "S": ["afterword ", "coda ", "postscript ", "summation "], "A": ["beginning ", "commencement ", "introduction ", "opening ", "start "]}
+{"index": 244263, "D": "a concluding piece or movement.", "S": ["afterword", "coda", "postscript", "summation"], "A": ["beginning", "commencement", "introduction", "opening", "start"]}

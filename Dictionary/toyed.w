@@ -1,1 +1,1 @@
-{"index": 325124, "D": "an object, often a small representation of something familiar, as an animal or person, for children or others to play with; plaything.", "S": ["doll ", "plaything ", "trinket "], "A": []}
+{"index": 325124, "D": "an object, often a small representation of something familiar, as an animal or person, for children or others to play with; plaything.", "S": ["doll", "plaything", "trinket"], "A": []}

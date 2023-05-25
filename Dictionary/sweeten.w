@@ -1,1 +1,1 @@
-{"index": 314283, "D": "to make sweet, as by adding sugar.", "S": ["mull "], "A": ["salt ", "sour "]}
+{"index": 314283, "D": "to make sweet, as by adding sugar.", "S": ["mull"], "A": ["salt", "sour"]}

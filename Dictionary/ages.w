@@ -1,0 +1,1 @@
+{"index": 6032, "D": "the length of time during which a being or thing has existed; length of life or existence to the time spoken of or referred to", "S": ["coon's age", "forever and a day", "long time", "years"], "A": []}

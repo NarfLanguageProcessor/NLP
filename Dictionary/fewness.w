@@ -1,1 +1,1 @@
-{"index": 111907, "D": "the state of being few  or small in quantity; paucity.", "S": ["dearth ", "insufficiency ", "smallness "], "A": ["sufficiency ", "abundance ", "enough ", "plenty "]}
+{"index": 111907, "D": "the state of being few  or small in quantity; paucity.", "S": ["dearth", "insufficiency", "smallness"], "A": ["sufficiency", "abundance", "enough", "plenty"]}

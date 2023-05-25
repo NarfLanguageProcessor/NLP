@@ -1,1 +1,1 @@
-{"index": 348555, "D": "not professional;  not pertaining to or characteristic of a profession.", "S": ["ignorant ", "improper ", "incompetent ", "inefficient ", "lax ", "negligent ", "unethical "], "A": ["able ", "capable ", "competent ", "efficient ", "expert ", "good ", "moral ", "right "]}
+{"index": 348555, "D": "not professional;  not pertaining to or characteristic of a profession.", "S": ["ignorant", "improper", "incompetent", "inefficient", "lax", "negligent", "unethical"], "A": ["able", "capable", "competent", "efficient", "expert", "good", "moral", "right"]}

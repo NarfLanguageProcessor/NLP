@@ -1,1 +1,1 @@
-{"index": 122722, "D": [], "S": ["burglar ", "criminal ", "infiltrator ", "interloper ", "invader ", "raider ", "squatter ", "thief ", "trespasser "], "A": []}
+{"index": 122722, "D": [], "S": ["burglar", "criminal", "infiltrator", "interloper", "invader", "raider", "squatter", "thief", "trespasser"], "A": []}

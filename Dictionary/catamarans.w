@@ -1,1 +1,1 @@
-{"index": 49313, "D": "Compare trimaran. ", "S": ["raft ", "sailboat "], "A": []}
+{"index": 49313, "D": "Compare trimaran. ", "S": ["raft", "sailboat"], "A": []}

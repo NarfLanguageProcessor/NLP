@@ -1,1 +1,1 @@
-{"index": 148329, "D": "incapable of suffering pain.", "S": ["callous ", "impassive ", "indifferent ", "insensible ", "passionless ", "unconcerned "], "A": []}
+{"index": 148329, "D": "incapable of suffering pain.", "S": ["callous", "impassive", "indifferent", "insensible", "passionless", "unconcerned"], "A": []}

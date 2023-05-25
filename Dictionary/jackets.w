@@ -1,1 +1,1 @@
-{"index": 159907, "D": "a short coat, in any of various forms, usually opening down the front.", "S": ["coat ", "fur ", "parka ", "sheath ", "tunic "], "A": []}
+{"index": 159907, "D": "a short coat, in any of various forms, usually opening down the front.", "S": ["coat", "fur", "parka", "sheath", "tunic"], "A": []}

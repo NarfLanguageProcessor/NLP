@@ -1,1 +1,0 @@
-{"index": 357842, "D": "volition in its weakest form.", "S": ["imagination ", "inclination "], "A": ["dislike ", "hate ", "hatred "]}

@@ -1,1 +1,1 @@
-{"index": 44690, "D": "a sweet, baked, breadlike food, made with or without shortening, and usually containing flour, sugar, baking powder or soda, eggs, and liquid flavoring.", "S": ["layer ", "skin ", "surface "], "A": ["core ", "interior ", "middle ", "center ", "inside "]}
+{"index": 44690, "D": "a sweet, baked, breadlike food, made with or without shortening, and usually containing flour, sugar, baking powder or soda, eggs, and liquid flavoring.", "S": ["layer", "skin", "surface"], "A": ["core", "interior", "middle", "center", "inside"]}

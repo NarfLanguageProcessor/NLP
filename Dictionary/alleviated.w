@@ -1,1 +1,1 @@
-{"index": 8681, "D": "to make easier to endure; lessen; mitigate", "S": ["reassured ", "relaxed ", "satisfied "], "A": ["distraught ", "sad ", "worried "]}
+{"index": 8681, "D": "to make easier to endure; lessen; mitigate", "S": ["reassured", "relaxed", "satisfied"], "A": ["distraught", "sad", "worried"]}

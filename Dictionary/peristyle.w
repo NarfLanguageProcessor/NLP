@@ -1,1 +1,1 @@
-{"index": 231388, "D": "a colonnade surrounding a building or an open space.", "S": ["portico "], "A": []}
+{"index": 231388, "D": "a colonnade surrounding a building or an open space.", "S": ["portico"], "A": []}

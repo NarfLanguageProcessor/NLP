@@ -1,1 +1,1 @@
-{"index": 319362, "D": "capable of being terminated. ", "S": ["definite ", "fixed ", "limited ", "restricted "], "A": ["indefinite ", "unfixed ", "unlimited "]}
+{"index": 319362, "D": "capable of being terminated. ", "S": ["definite", "fixed", "limited", "restricted"], "A": ["indefinite", "unfixed", "unlimited"]}

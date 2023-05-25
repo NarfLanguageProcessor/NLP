@@ -1,1 +1,1 @@
-{"index": 275678, "D": "the act of a person, animal, or thing that runs. ", "S": ["constant ", "functioning ", "working "], "A": ["apathetic ", "immobile ", "inactive ", "unexciting "]}
+{"index": 275678, "D": "the act of a person, animal, or thing that runs. ", "S": ["constant", "functioning", "working"], "A": ["apathetic", "immobile", "inactive", "unexciting"]}

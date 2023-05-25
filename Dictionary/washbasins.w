@@ -1,1 +1,1 @@
-{"index": 362873, "D": "a large bowl  or basin used for washing  one's hands and face, small articles of clothing, etc.", "S": ["bowl ", "lagoon ", "pan ", "pool ", "pot ", "tub ", "valley ", "watershed "], "A": ["increase ", "rise ", "solid "]}
+{"index": 362873, "D": "a large bowl  or basin used for washing  one's hands and face, small articles of clothing, etc.", "S": ["bowl", "lagoon", "pan", "pool", "pot", "tub", "valley", "watershed"], "A": ["increase", "rise", "solid"]}

@@ -1,1 +1,1 @@
-{"index": 351297, "D": "of or relating to workers who lack technical training or skill.", "S": ["incompetent ", "inexperienced ", "uneducated ", "unqualified ", "unschooled "], "A": ["competent ", "educated ", "experienced ", "expert ", "learned "]}
+{"index": 351297, "D": "of or relating to workers who lack technical training or skill.", "S": ["incompetent", "inexperienced", "uneducated", "unqualified", "unschooled"], "A": ["competent", "educated", "experienced", "expert", "learned"]}

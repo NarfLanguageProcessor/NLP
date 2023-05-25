@@ -1,1 +1,1 @@
-{"index": 215459, "D": "the collagen of bone, remaining after the mineral matter has been removed by treatment with dilute acid.", "S": ["cartilage "], "A": []}
+{"index": 215459, "D": "the collagen of bone, remaining after the mineral matter has been removed by treatment with dilute acid.", "S": ["cartilage"], "A": []}

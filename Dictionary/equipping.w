@@ -1,1 +1,1 @@
-{"index": 103364, "D": "to furnish or provide with whatever is needed for use or for any undertaking; fit out, as a ship or army", "S": ["arrangement ", "plan "], "A": ["removal ", "taking "]}
+{"index": 103364, "D": "to furnish or provide with whatever is needed for use or for any undertaking; fit out, as a ship or army", "S": ["arrangement", "plan"], "A": ["removal", "taking"]}

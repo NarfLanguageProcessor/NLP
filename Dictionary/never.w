@@ -1,1 +1,1 @@
-{"index": 199350, "D": "not ever; at no time", "S": ["at no time ", "don't hold your breath ", "forget it ", "nevermore ", "no way ", "not at all ", "not ever ", "not in any way ", "not in the least ", "not on your life ", "not under any condition "], "A": ["always ", "forever "]}
+{"index": 199350, "D": "not ever; at no time", "S": ["at no time", "don't hold your breath", "forget it", "nevermore", "no way", "not at all", "not ever", "not in any way", "not in the least", "not on your life", "not under any condition"], "A": ["always", "forever"]}

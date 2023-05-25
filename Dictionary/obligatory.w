@@ -1,1 +1,1 @@
-{"index": 210197, "D": "required as a matter of obligation; mandatory", "S": ["compulsory ", "de rigueur ", "imperative ", "mandatory ", "requisite ", "unavoidable "], "A": ["free ", "optional ", "unnecessary ", "voluntary "]}
+{"index": 210197, "D": "required as a matter of obligation; mandatory", "S": ["compulsory", "de rigueur", "imperative", "mandatory", "requisite", "unavoidable"], "A": ["free", "optional", "unnecessary", "voluntary"]}

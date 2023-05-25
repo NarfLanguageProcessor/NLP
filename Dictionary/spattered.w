@@ -1,1 +1,1 @@
-{"index": 298631, "D": "to scatter or dash in small particles or drops", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}
+{"index": 298631, "D": "to scatter or dash in small particles or drops", "S": ["carpeted", "dotted", "overgrown"], "A": ["bare", "empty", "exposed", "open", "passed over", "revealed", "unfurnished", "unheeded", "unnoticed"]}

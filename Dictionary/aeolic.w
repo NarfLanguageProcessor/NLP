@@ -1,0 +1,1 @@
+{"index": 4851, "D": "the Greek dialect of ancient Aeolis and Thessaly.", "S": [], "A": []}

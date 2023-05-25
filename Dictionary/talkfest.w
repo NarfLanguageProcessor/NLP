@@ -1,1 +1,1 @@
-{"index": 315647, "D": "a lengthy conversation, discussion, or debate.", "S": ["chitchat ", "parley "], "A": ["quiet ", "silence "]}
+{"index": 315647, "D": "a lengthy conversation, discussion, or debate.", "S": ["chitchat", "parley"], "A": ["quiet", "silence"]}

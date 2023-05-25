@@ -1,1 +1,1 @@
-{"index": 367613, "D": "any of numerous long, slender, soft-bodied, legless, bilaterally symmetrical invertebrates, including the flatworms, roundworms,  acanthocephalans, nemerteans, gordiaceans, and annelids.", "S": ["sinuous ", "twisted "], "A": []}
+{"index": 367613, "D": "any of numerous long, slender, soft-bodied, legless, bilaterally symmetrical invertebrates, including the flatworms, roundworms,  acanthocephalans, nemerteans, gordiaceans, and annelids.", "S": ["sinuous", "twisted"], "A": []}

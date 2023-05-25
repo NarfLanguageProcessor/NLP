@@ -1,1 +1,1 @@
-{"index": 262668, "D": "to go or move away; retreat; go to or toward a more distant point; withdraw.", "S": ["relapsing "], "A": ["dominant ", "overbalancing ", "prevailing "]}
+{"index": 262668, "D": "to go or move away; retreat; go to or toward a more distant point; withdraw.", "S": ["relapsing"], "A": ["dominant", "overbalancing", "prevailing"]}

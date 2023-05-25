@@ -1,1 +1,1 @@
-{"index": 228489, "D": "the round, edible seed of a widely cultivated plant, Pisum sativum, of the legume family. ", "S": ["dot ", "pellet ", "stone "], "A": []}
+{"index": 228489, "D": "the round, edible seed of a widely cultivated plant, Pisum sativum, of the legume family. ", "S": ["dot", "pellet", "stone"], "A": []}

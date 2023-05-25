@@ -1,0 +1,1 @@
+{"index": 14085, "D": "preceding; prior", "S": ["earlier", "sooner"], "A": []}

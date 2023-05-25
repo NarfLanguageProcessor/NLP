@@ -1,1 +1,1 @@
-{"index": 133119, "D": "a clapping  of the hands. ", "S": ["applause ", "bang ", "blast ", "boom ", "burst ", "crack ", "crash ", "pat ", "slam ", "slap ", "smash ", "strike ", "thrust ", "thunder ", "thunderclap ", "thwack ", "wallop ", "whack ", "wham "], "A": ["failure ", "loss "]}
+{"index": 133119, "D": "a clapping  of the hands. ", "S": ["applause", "bang", "blast", "boom", "burst", "crack", "crash", "pat", "slam", "slap", "smash", "strike", "thrust", "thunder", "thunderclap", "thwack", "wallop", "whack", "wham"], "A": ["failure", "loss"]}

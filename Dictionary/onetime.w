@@ -1,1 +1,1 @@
-{"index": 212765, "D": "having been as specified at one time; former", "S": ["erstwhile ", "former "], "A": []}
+{"index": 212765, "D": "having been as specified at one time; former", "S": ["erstwhile", "former"], "A": []}

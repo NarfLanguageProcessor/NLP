@@ -1,1 +1,1 @@
-{"index": 299116, "D": "a simple past tense and past participle of spell1. ", "S": ["cereal ", "grass "], "A": []}
+{"index": 299116, "D": "a simple past tense and past participle of spell1. ", "S": ["cereal", "grass"], "A": []}

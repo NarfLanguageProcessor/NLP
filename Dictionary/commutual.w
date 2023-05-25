@@ -1,1 +1,1 @@
-{"index": 64311, "D": "mutual;  reciprocal.", "S": ["accepted ", "popular ", "prevailing ", "prevalent ", "shared ", "universal "], "A": ["uncommon ", "individual ", "particular ", "private ", "separate ", "singular ", "specific "]}
+{"index": 64311, "D": "mutual;  reciprocal.", "S": ["accepted", "popular", "prevailing", "prevalent", "shared", "universal"], "A": ["uncommon", "individual", "particular", "private", "separate", "singular", "specific"]}

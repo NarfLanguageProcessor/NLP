@@ -1,1 +1,1 @@
-{"index": 87029, "D": "the act or an instance of disappearing;  a ceasing to be seen or to exist.", "S": ["departure ", "exodus ", "loss ", "removal "], "A": ["arrival ", "entrance ", "stay ", "staying "]}
+{"index": 87029, "D": "the act or an instance of disappearing;  a ceasing to be seen or to exist.", "S": ["departure", "exodus", "loss", "removal"], "A": ["arrival", "entrance", "stay", "staying"]}

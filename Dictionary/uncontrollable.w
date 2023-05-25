@@ -1,1 +1,1 @@
-{"index": 337884, "D": "incapable of being controlled  or restrained", "S": ["fractious ", "intractable ", "irresistible ", "lawless ", "undisciplined ", "unmanageable ", "unruly ", "violent "], "A": ["controllable ", "controlled ", "manageable ", "mild ", "moderate "]}
+{"index": 337884, "D": "incapable of being controlled  or restrained", "S": ["fractious", "intractable", "irresistible", "lawless", "undisciplined", "unmanageable", "unruly", "violent"], "A": ["controllable", "controlled", "manageable", "mild", "moderate"]}

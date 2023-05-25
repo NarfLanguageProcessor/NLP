@@ -1,1 +1,1 @@
-{"index": 90971, "D": "to steal (a dog), especially for the purpose of selling it for profit.", "S": ["kidnap ", "seize ", "snatch "], "A": ["give "]}
+{"index": 90971, "D": "to steal (a dog), especially for the purpose of selling it for profit.", "S": ["kidnap", "seize", "snatch"], "A": ["give"]}

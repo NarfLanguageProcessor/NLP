@@ -1,1 +1,1 @@
-{"index": 59665, "D": "in a clear manner", "S": ["apparently ", "certainly ", "definitely ", "distinctly ", "evidently ", "obviously ", "openly ", "plainly ", "positively ", "precisely ", "seemingly ", "surely ", "undoubtedly "], "A": ["doubtfully ", "dubiously ", "questionably ", "uncertain "]}
+{"index": 59665, "D": "in a clear manner", "S": ["apparently", "certainly", "definitely", "distinctly", "evidently", "obviously", "openly", "plainly", "positively", "precisely", "seemingly", "surely", "undoubtedly"], "A": ["doubtfully", "dubiously", "questionably", "uncertain"]}

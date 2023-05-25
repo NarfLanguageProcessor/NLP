@@ -1,1 +1,1 @@
-{"index": 326870, "D": "of, pertaining to, affected with, or caused by a toxin  or poison", "S": ["deadly ", "harmful ", "lethal ", "noxious ", "pernicious ", "virulent "], "A": ["harmless ", "healthy ", "helpful ", "kind ", "wholesome "]}
+{"index": 326870, "D": "of, pertaining to, affected with, or caused by a toxin  or poison", "S": ["deadly", "harmful", "lethal", "noxious", "pernicious", "virulent"], "A": ["harmless", "healthy", "helpful", "kind", "wholesome"]}

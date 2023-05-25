@@ -1,1 +1,1 @@
-{"index": 152930, "D": "a fluid or viscous substance used for writing or printing.", "S": ["caffeine ", "cappuccino ", "espresso "], "A": []}
+{"index": 152930, "D": "a fluid or viscous substance used for writing or printing.", "S": ["caffeine", "cappuccino", "espresso"], "A": []}

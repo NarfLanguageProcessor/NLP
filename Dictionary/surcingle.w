@@ -1,1 +1,0 @@
-{"index": 313336, "D": "a belt or girth that passes around the belly of a horse and over the blanket, pack, saddle, etc., and is buckled on the horse's back.", "S": ["cinch ", "strap "], "A": []}

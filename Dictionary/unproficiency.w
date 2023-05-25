@@ -1,1 +1,1 @@
-{"index": 348562, "D": [], "S": ["elimination ", "exclusion "], "A": ["ability ", "aptitude ", "capability "]}
+{"index": 348562, "D": [], "S": ["elimination", "exclusion"], "A": ["ability", "aptitude", "capability"]}

@@ -1,1 +1,1 @@
-{"index": 215753, "D": "to exclude, by general consent, from society, friendship, conversation, privileges, etc.", "S": ["blackballing ", "cold shoulder ", "ignore someone ", "ignoring ", "ostracism ", "sending to Coventry "], "A": []}
+{"index": 215753, "D": "to exclude, by general consent, from society, friendship, conversation, privileges, etc.", "S": ["blackballing", "cold shoulder", "ignore someone", "ignoring", "ostracism", "sending to Coventry"], "A": []}

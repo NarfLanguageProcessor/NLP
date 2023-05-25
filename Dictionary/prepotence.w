@@ -1,1 +1,1 @@
-{"index": 248902, "D": [], "S": ["dominance ", "predominance "], "A": ["disadvantage ", "inferiority ", "powerlessness ", "subordination ", "subservience ", "weakness "]}
+{"index": 248902, "D": [], "S": ["dominance", "predominance"], "A": ["disadvantage", "inferiority", "powerlessness", "subordination", "subservience", "weakness"]}

@@ -1,1 +1,1 @@
-{"index": 49568, "D": "the act or process of catenating. ", "S": ["arrangement ", "array ", "progression ", "string "], "A": ["interruption ", "stoppage "]}
+{"index": 49568, "D": "the act or process of catenating. ", "S": ["arrangement", "array", "progression", "string"], "A": ["interruption", "stoppage"]}

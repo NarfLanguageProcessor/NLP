@@ -1,1 +1,1 @@
-{"index": 131043, "D": "a small flag or streamer carried as a guide, for marking or signaling, or for identification.", "S": ["banderol ", "banner ", "banneret ", "bannerol ", "burgee ", "colors ", "ensign ", "masthead ", "oriflamme ", "pennant ", "pennon ", "standard ", "streamer "], "A": []}
+{"index": 131043, "D": "a small flag or streamer carried as a guide, for marking or signaling, or for identification.", "S": ["banderol", "banner", "banneret", "bannerol", "burgee", "colors", "ensign", "masthead", "oriflamme", "pennant", "pennon", "standard", "streamer"], "A": []}

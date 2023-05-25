@@ -1,1 +1,1 @@
-{"index": 133561, "D": "a scolding or a long or intense verbal attack; diatribe.", "S": ["oratory ", "speechmaking "], "A": []}
+{"index": 133561, "D": "a scolding or a long or intense verbal attack; diatribe.", "S": ["oratory", "speechmaking"], "A": []}

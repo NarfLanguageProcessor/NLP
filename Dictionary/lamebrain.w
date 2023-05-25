@@ -1,1 +1,1 @@
-{"index": 167622, "D": "a dunce; booby; fool.", "S": ["clodpoll "], "A": ["brain ", "genius "]}
+{"index": 167622, "D": "a dunce; booby; fool.", "S": ["clodpoll"], "A": ["brain", "genius"]}

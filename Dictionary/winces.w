@@ -1,1 +1,1 @@
-{"index": 365885, "D": "to draw back or tense the body, as from pain or from a blow; start; flinch. ", "S": ["back off ", "blanch ", "cower ", "cringe ", "flinch ", "grimace ", "recoil "], "A": ["face ", "meet "]}
+{"index": 365885, "D": "to draw back or tense the body, as from pain or from a blow; start; flinch. ", "S": ["back off", "blanch", "cower", "cringe", "flinch", "grimace", "recoil"], "A": ["face", "meet"]}

@@ -1,1 +1,1 @@
-{"index": 52491, "D": "a conversion or complete change from one thing, condition, or system to another, as in equipment, personnel, methods of production, etc.", "S": ["transition "], "A": ["stagnation "]}
+{"index": 52491, "D": "a conversion or complete change from one thing, condition, or system to another, as in equipment, personnel, methods of production, etc.", "S": ["transition"], "A": ["stagnation"]}

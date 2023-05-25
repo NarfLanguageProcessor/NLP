@@ -1,1 +1,1 @@
-{"index": 73921, "D": "given to odd notions, whims, grouchiness, etc.", "S": ["cantankerous ", "crusty ", "grouchy ", "grumpy ", "ornery "], "A": ["happy ", "nice ", "pleasant "]}
+{"index": 73921, "D": "given to odd notions, whims, grouchiness, etc.", "S": ["cantankerous", "crusty", "grouchy", "grumpy", "ornery"], "A": ["happy", "nice", "pleasant"]}

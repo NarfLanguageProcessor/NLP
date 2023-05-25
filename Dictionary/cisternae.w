@@ -1,1 +1,1 @@
-{"index": 58462, "D": "cistern (def. 2). ", "S": ["pond ", "tank ", "well "], "A": []}
+{"index": 58462, "D": "cistern (def. 2). ", "S": ["pond", "tank", "well"], "A": []}

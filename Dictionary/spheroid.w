@@ -1,1 +1,1 @@
-{"index": 299523, "D": "a solid geometrical figure similar in shape to a sphere,  as an ellipsoid.", "S": ["oblique ", "round "], "A": []}
+{"index": 299523, "D": "a solid geometrical figure similar in shape to a sphere,  as an ellipsoid.", "S": ["oblique", "round"], "A": []}

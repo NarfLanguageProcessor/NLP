@@ -1,1 +1,1 @@
-{"index": 271277, "D": "the act of turning something the reverse way.", "S": ["inversion ", "return ", "rotation "], "A": []}
+{"index": 271277, "D": "the act of turning something the reverse way.", "S": ["inversion", "return", "rotation"], "A": []}

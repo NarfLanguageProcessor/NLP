@@ -1,1 +1,1 @@
-{"index": 78492, "D": "a bending, sloping, or moving downward.", "S": ["decline ", "regrets ", "rejection ", "turndown "], "A": []}
+{"index": 78492, "D": "a bending, sloping, or moving downward.", "S": ["decline", "regrets", "rejection", "turndown"], "A": []}

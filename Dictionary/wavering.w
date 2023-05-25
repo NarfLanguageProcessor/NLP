@@ -1,1 +1,1 @@
-{"index": 363366, "D": "fluttering, swaying to and fro, tottering, or reeling", "S": ["changing ", "fluctuating ", "oscillating ", "vacillating ", "variable ", "waffling "], "A": ["unchanging "]}
+{"index": 363366, "D": "fluttering, swaying to and fro, tottering, or reeling", "S": ["changing", "fluctuating", "oscillating", "vacillating", "variable", "waffling"], "A": ["unchanging"]}

@@ -1,1 +1,1 @@
-{"index": 162798, "D": [], "S": ["climax ", "critical moment ", "crunch ", "decisive moment ", "kairotic moment ", "loaded moment ", "moment of truth ", "point of no return ", "turning point "], "A": []}
+{"index": 162798, "D": [], "S": ["climax", "critical moment", "crunch", "decisive moment", "kairotic moment", "loaded moment", "moment of truth", "point of no return", "turning point"], "A": []}

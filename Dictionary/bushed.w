@@ -1,1 +1,1 @@
-{"index": 43388, "D": "overgrown with bushes. ", "S": ["beat ", "fatigued ", "spent ", "tired ", "worn "], "A": ["energized ", "fresh ", "refreshed ", "rested "]}
+{"index": 43388, "D": "overgrown with bushes. ", "S": ["beat", "fatigued", "spent", "tired", "worn"], "A": ["energized", "fresh", "refreshed", "rested"]}

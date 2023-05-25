@@ -1,1 +1,1 @@
-{"index": 73149, "D": "(used as a mild oath or an exclamation of astonishment.)", "S": ["dang ", "doggone "], "A": []}
+{"index": 73149, "D": "(used as a mild oath or an exclamation of astonishment.)", "S": ["dang", "doggone"], "A": []}

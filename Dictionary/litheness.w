@@ -1,1 +1,1 @@
-{"index": 173626, "D": "bending readily; pliant; limber; supple; flexible", "S": ["adroitness ", "dexterity ", "fleetness ", "nimbleness ", "quickness ", "swiftness "], "A": []}
+{"index": 173626, "D": "bending readily; pliant; limber; supple; flexible", "S": ["adroitness", "dexterity", "fleetness", "nimbleness", "quickness", "swiftness"], "A": []}

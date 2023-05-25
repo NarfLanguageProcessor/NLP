@@ -1,1 +1,1 @@
-{"index": 222822, "D": "a short, flat bladed oar for propelling and steering a canoe or small boat, usually held by both hands and moved more or less through a vertical arc.", "S": ["oar "], "A": []}
+{"index": 222822, "D": "a short, flat bladed oar for propelling and steering a canoe or small boat, usually held by both hands and moved more or less through a vertical arc.", "S": ["oar"], "A": []}

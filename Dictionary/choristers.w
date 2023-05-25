@@ -1,1 +1,1 @@
-{"index": 55845, "D": "a singer in a choir. ", "S": ["choir ", "ensemble "], "A": []}
+{"index": 55845, "D": "a singer in a choir. ", "S": ["choir", "ensemble"], "A": []}

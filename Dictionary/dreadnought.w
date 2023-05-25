@@ -1,1 +1,1 @@
-{"index": 92849, "D": "a type of battleship armed with heavy-caliber guns in turrets", "S": ["battleship ", "corvette ", "cutter ", "destroyer ", "frigate ", "gunboat ", "submarine "], "A": []}
+{"index": 92849, "D": "a type of battleship armed with heavy-caliber guns in turrets", "S": ["battleship", "corvette", "cutter", "destroyer", "frigate", "gunboat", "submarine"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 103474, "D": "the complete removal, destruction, or erasure of something", "S": ["destruction ", "elimination "], "A": []}
+{"index": 103474, "D": "the complete removal, destruction, or erasure of something", "S": ["destruction", "elimination"], "A": []}

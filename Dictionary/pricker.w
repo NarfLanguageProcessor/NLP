@@ -1,1 +1,1 @@
-{"index": 250357, "D": "a person or thing that pricks", "S": ["broncobuster ", "buckaroo ", "cavalryman ", "cowboy ", "dragoon ", "equerry ", "equestrian ", "gaucho ", "jockey ", "postilion ", "roughrider "], "A": []}
+{"index": 250357, "D": "a person or thing that pricks", "S": ["broncobuster", "buckaroo", "cavalryman", "cowboy", "dragoon", "equerry", "equestrian", "gaucho", "jockey", "postilion", "roughrider"], "A": []}

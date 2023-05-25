@@ -1,1 +1,1 @@
-{"index": 162111, "D": "a method of defending oneself or fighting without the use of weapons, based on jujitsu but differing from it in banning dangerous throws and blows and stressing the athletic or sport element.", "S": ["karate ", "wrestling "], "A": []}
+{"index": 162111, "D": "a method of defending oneself or fighting without the use of weapons, based on jujitsu but differing from it in banning dangerous throws and blows and stressing the athletic or sport element.", "S": ["karate", "wrestling"], "A": []}

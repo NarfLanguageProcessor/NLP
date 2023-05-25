@@ -1,1 +1,1 @@
-{"index": 209549, "D": "a word, letter, symbol, or figure, etc., expressing a number; number", "S": ["character ", "cipher ", "digit ", "figure ", "integer ", "number "], "A": ["letter "]}
+{"index": 209549, "D": "a word, letter, symbol, or figure, etc., expressing a number; number", "S": ["character", "cipher", "digit", "figure", "integer", "number"], "A": ["letter"]}

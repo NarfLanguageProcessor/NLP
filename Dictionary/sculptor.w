@@ -1,1 +1,1 @@
-{"index": 282199, "D": "a person who practices the art of sculpture.", "S": ["artist ", "carver "], "A": []}
+{"index": 282199, "D": "a person who practices the art of sculpture.", "S": ["artist", "carver"], "A": []}

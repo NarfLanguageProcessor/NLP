@@ -1,1 +1,0 @@
-{"index": 357330, "D": "any first-string team, especially in sports, that represents a school, college, university,  or the like", "S": ["first team ", "starters "], "A": []}

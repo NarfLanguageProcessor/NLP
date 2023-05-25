@@ -1,1 +1,1 @@
-{"index": 349094, "D": "not ready; not made ready", "S": ["immature ", "incomplete ", "untimely "], "A": ["backward ", "careful ", "cautious ", "delayed ", "late ", "mature ", "overdue ", "prepared ", "slow "]}
+{"index": 349094, "D": "not ready; not made ready", "S": ["immature", "incomplete", "untimely"], "A": ["backward", "careful", "cautious", "delayed", "late", "mature", "overdue", "prepared", "slow"]}

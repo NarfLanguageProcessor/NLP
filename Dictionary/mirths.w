@@ -1,1 +1,1 @@
-{"index": 188544, "D": "gaiety or jollity, especially when accompanied by laughter", "S": ["hilarity ", "laughter ", "levity ", "rejoicing "], "A": ["depression ", "gloom ", "melancholy ", "misery ", "pain ", "sadness ", "seriousness ", "sorrow ", "unhappiness ", "woe ", "work "]}
+{"index": 188544, "D": "gaiety or jollity, especially when accompanied by laughter", "S": ["hilarity", "laughter", "levity", "rejoicing"], "A": ["depression", "gloom", "melancholy", "misery", "pain", "sadness", "seriousness", "sorrow", "unhappiness", "woe", "work"]}

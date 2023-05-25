@@ -1,1 +1,1 @@
-{"index": 179166, "D": "a box or trough in a stable or barn from which horses or cattle eat.", "S": ["Bethlehem ", "cradle ", "stable "], "A": []}
+{"index": 179166, "D": "a box or trough in a stable or barn from which horses or cattle eat.", "S": ["Bethlehem", "cradle", "stable"], "A": []}

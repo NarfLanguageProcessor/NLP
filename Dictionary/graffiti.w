@@ -1,1 +1,1 @@
-{"index": 128597, "D": "plural of graffito. ", "S": ["defacement ", "doodles "], "A": []}
+{"index": 128597, "D": "plural of graffito. ", "S": ["defacement", "doodles"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 162273, "D": "a very large person, animal, or thing.", "S": ["colossal ", "oversized "], "A": ["little ", "mini ", "miniature ", "small ", "tiny "]}
+{"index": 162273, "D": "a very large person, animal, or thing.", "S": ["colossal", "oversized"], "A": ["little", "mini", "miniature", "small", "tiny"]}

@@ -1,1 +1,1 @@
-{"index": 216104, "D": "expulsion or removal from a place or position occupied", "S": ["eviction ", "expulsion ", "overthrow ", "removal "], "A": ["welcoming ", "employment ", "hiring ", "retention "]}
+{"index": 216104, "D": "expulsion or removal from a place or position occupied", "S": ["eviction", "expulsion", "overthrow", "removal"], "A": ["welcoming", "employment", "hiring", "retention"]}

@@ -1,1 +1,1 @@
-{"index": 367024, "D": "simple past tense and past participle of win1. ", "S": ["conquered ", "gained "], "A": ["beaten ", "defeated ", "lost "]}
+{"index": 367024, "D": "simple past tense and past participle of win1. ", "S": ["conquered", "gained"], "A": ["beaten", "defeated", "lost"]}

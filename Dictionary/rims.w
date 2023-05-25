@@ -1,1 +1,1 @@
-{"index": 272986, "D": "the outer edge, border, margin, or brink of something, especially of a circular object.", "S": ["bifocals ", "blinkers ", "cheaters ", "eyeglasses ", "frames ", "goggles ", "lorgnette ", "pince-nez ", "shades ", "specs ", "spectacles "], "A": []}
+{"index": 272986, "D": "the outer edge, border, margin, or brink of something, especially of a circular object.", "S": ["bifocals", "blinkers", "cheaters", "eyeglasses", "frames", "goggles", "lorgnette", "pince-nez", "shades", "specs", "spectacles"], "A": []}

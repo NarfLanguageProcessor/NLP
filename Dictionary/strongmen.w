@@ -1,1 +1,1 @@
-{"index": 306546, "D": "a person who performs remarkable feats of strength, as in a circus.", "S": ["autocrat ", "despot ", "tyrant "], "A": ["employee ", "follower ", "worker "]}
+{"index": 306546, "D": "a person who performs remarkable feats of strength, as in a circus.", "S": ["autocrat", "despot", "tyrant"], "A": ["employee", "follower", "worker"]}

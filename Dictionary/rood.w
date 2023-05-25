@@ -1,1 +1,1 @@
-{"index": 274195, "D": "a crucifix, especially a large one at the entrance to the choir or chancel of a medieval church, often supported on a rood beam or rood screen.", "S": ["X "], "A": []}
+{"index": 274195, "D": "a crucifix, especially a large one at the entrance to the choir or chancel of a medieval church, often supported on a rood beam or rood screen.", "S": ["X"], "A": []}

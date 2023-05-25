@@ -1,1 +1,0 @@
-{"index": 187828, "D": "to make in extremely small size in order to keep volume or weight to a minimum", "S": ["decreased ", "diminished ", "shortened "], "A": ["elevated ", "enlarged ", "heightened ", "increased ", "raised ", "spread ", "stretched "]}

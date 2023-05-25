@@ -1,1 +1,1 @@
-{"index": 172957, "D": "a contact or linkage established, as between military units or two spacecraft.", "S": ["anchor ", "berth ", "hook up ", "moor ", "rendezvous ", "tie up "], "A": ["set sail ", "ship out "]}
+{"index": 172957, "D": "a contact or linkage established, as between military units or two spacecraft.", "S": ["anchor", "berth", "hook up", "moor", "rendezvous", "tie up"], "A": ["set sail", "ship out"]}

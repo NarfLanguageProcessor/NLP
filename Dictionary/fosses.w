@@ -1,1 +1,1 @@
-{"index": 117793, "D": "a moat or defensive ditch in a fortification, usually filled with water.", "S": ["culvert ", "dike ", "duct ", "eaves ", "pipe ", "sewer ", "tube "], "A": []}
+{"index": 117793, "D": "a moat or defensive ditch in a fortification, usually filled with water.", "S": ["culvert", "dike", "duct", "eaves", "pipe", "sewer", "tube"], "A": []}

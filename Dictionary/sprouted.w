@@ -1,1 +1,1 @@
-{"index": 301390, "D": "to begin to grow; shoot forth, as a plant from a seed.", "S": ["burgeon ", "germinate ", "grow "], "A": ["halt ", "stop ", "die "]}
+{"index": 301390, "D": "to begin to grow; shoot forth, as a plant from a seed.", "S": ["burgeon", "germinate", "grow"], "A": ["halt", "stop", "die"]}

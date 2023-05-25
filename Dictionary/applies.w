@@ -1,1 +1,1 @@
-{"index": 17824, "D": "to make use of as relevant, suitable, or pertinent", "S": ["administer ", "employ ", "exercise ", "handle ", "implement ", "practice "], "A": ["cease ", "halt ", "ignore ", "mismanage ", "misuse ", "neglect ", "stop "]}
+{"index": 17824, "D": "to make use of as relevant, suitable, or pertinent", "S": ["administer", "employ", "exercise", "handle", "implement", "practice"], "A": ["cease", "halt", "ignore", "mismanage", "misuse", "neglect", "stop"]}

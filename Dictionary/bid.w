@@ -1,1 +1,1 @@
-{"index": 33492, "D": "to command; order; direct", "S": ["advance ", "offer ", "price ", "proposal ", "request ", "suggestion "], "A": ["withdrawal ", "denial ", "refusal "]}
+{"index": 33492, "D": "to command; order; direct", "S": ["advance", "offer", "price", "proposal", "request", "suggestion"], "A": ["withdrawal", "denial", "refusal"]}

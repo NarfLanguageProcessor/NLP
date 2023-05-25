@@ -1,1 +1,1 @@
-{"index": 336738, "D": "not typical or usual", "S": ["atypical ", "exceptional ", "novel ", "uncommon ", "unconventional ", "unexpected ", "unordinary "], "A": []}
+{"index": 336738, "D": "not typical or usual", "S": ["atypical", "exceptional", "novel", "uncommon", "unconventional", "unexpected", "unordinary"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 148949, "D": "a tax; tribute; duty.", "S": ["tariffs ", "tax "], "A": []}
+{"index": 148949, "D": "a tax; tribute; duty.", "S": ["tariffs", "tax"], "A": []}

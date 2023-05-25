@@ -1,1 +1,1 @@
-{"index": 243297, "D": "the common people of a community, nation, etc., as distinguished from the higher classes.", "S": ["commonality ", "commonalty ", "demos ", "masses ", "mob ", "multitude ", "plebeians ", "plebs ", "proletariat ", "public ", "rabble ", "society "], "A": []}
+{"index": 243297, "D": "the common people of a community, nation, etc., as distinguished from the higher classes.", "S": ["commonality", "commonalty", "demos", "masses", "mob", "multitude", "plebeians", "plebs", "proletariat", "public", "rabble", "society"], "A": []}

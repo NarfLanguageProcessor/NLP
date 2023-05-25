@@ -1,1 +1,1 @@
-{"index": 328664, "D": "to set down the foot or feet in walking; step; walk.", "S": ["footstep ", "footsteps ", "gait ", "march ", "pace ", "step ", "stride ", "trace ", "track ", "tramp "], "A": []}
+{"index": 328664, "D": "to set down the foot or feet in walking; step; walk.", "S": ["footstep", "footsteps", "gait", "march", "pace", "step", "stride", "trace", "track", "tramp"], "A": []}

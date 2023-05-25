@@ -1,0 +1,1 @@
+{"index": 36016, "D": "to destroy or diminish the perfection of", "S": ["flawed", "impaired", "injured", "run-down"], "A": ["healthy"]}

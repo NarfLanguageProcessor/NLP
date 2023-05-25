@@ -1,1 +1,0 @@
-{"index": 326848, "D": "a rope  or hawser used in towing  boats.", "S": [], "A": []}

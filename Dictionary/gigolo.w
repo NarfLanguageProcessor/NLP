@@ -1,1 +1,1 @@
-{"index": 124865, "D": "a man living off the earnings or gifts of a woman, especially a younger man supported by an older woman in return for his sexual attentions and companionship.", "S": ["Casanova ", "Lothario ", "inamorato ", "lover ", "seducer "], "A": []}
+{"index": 124865, "D": "a man living off the earnings or gifts of a woman, especially a younger man supported by an older woman in return for his sexual attentions and companionship.", "S": ["Casanova", "Lothario", "inamorato", "lover", "seducer"], "A": []}

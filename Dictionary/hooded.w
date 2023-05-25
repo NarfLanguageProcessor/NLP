@@ -1,1 +1,1 @@
-{"index": 143474, "D": "having, or covered with, a hood", "S": ["cowled "], "A": []}
+{"index": 143474, "D": "having, or covered with, a hood", "S": ["cowled"], "A": []}

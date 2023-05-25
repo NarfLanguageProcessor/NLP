@@ -1,1 +1,1 @@
-{"index": 152148, "D": "the act of inflicting. ", "S": ["castigation ", "pain ", "punishment ", "visitation "], "A": []}
+{"index": 152148, "D": "the act of inflicting. ", "S": ["castigation", "pain", "punishment", "visitation"], "A": []}

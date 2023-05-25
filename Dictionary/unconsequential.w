@@ -1,1 +1,1 @@
-{"index": 337694, "D": [], "S": ["insignificant ", "meager ", "measly ", "miserable ", "pitiful ", "puny ", "trivial "], "A": ["big ", "consequential ", "happy ", "important ", "large ", "plenty ", "significant ", "substantial ", "sufficient ", "valuable ", "worthwhile "]}
+{"index": 337694, "D": [], "S": ["insignificant", "meager", "measly", "miserable", "pitiful", "puny", "trivial"], "A": ["big", "consequential", "happy", "important", "large", "plenty", "significant", "substantial", "sufficient", "valuable", "worthwhile"]}

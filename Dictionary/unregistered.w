@@ -1,1 +1,1 @@
-{"index": 349363, "D": "driving an unregistered vehicle", "S": ["confidential ", "not recorded ", "not reported ", "private ", "unpublicized ", "unrecorded ", "unreported "], "A": ["listed ", "public ", "recorded ", "registered "]}
+{"index": 349363, "D": "driving an unregistered vehicle", "S": ["confidential", "not recorded", "not reported", "private", "unpublicized", "unrecorded", "unreported"], "A": ["listed", "public", "recorded", "registered"]}

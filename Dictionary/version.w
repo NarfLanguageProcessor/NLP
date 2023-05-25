@@ -1,1 +1,1 @@
-{"index": 358823, "D": "a particular account of some matter, as from one person or source, contrasted with some other account", "S": ["adaptation ", "form ", "history ", "interpretation ", "rendition ", "report ", "story ", "tale ", "translation ", "variant "], "A": []}
+{"index": 358823, "D": "a particular account of some matter, as from one person or source, contrasted with some other account", "S": ["adaptation", "form", "history", "interpretation", "rendition", "report", "story", "tale", "translation", "variant"], "A": []}

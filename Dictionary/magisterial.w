@@ -1,1 +1,1 @@
-{"index": 177431, "D": "of, relating to, or befitting a master; of importance or consequence; authoritative; weighty", "S": ["autocratic ", "domineering ", "egotistic ", "imperious ", "masterful ", "pompous "], "A": []}
+{"index": 177431, "D": "of, relating to, or befitting a master; of importance or consequence; authoritative; weighty", "S": ["autocratic", "domineering", "egotistic", "imperious", "masterful", "pompous"], "A": []}

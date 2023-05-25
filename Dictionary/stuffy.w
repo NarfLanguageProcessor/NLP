@@ -1,1 +1,0 @@
-{"index": 306825, "D": "close; poorly ventilated", "S": ["airless ", "humid ", "stale ", "stifling "], "A": ["airy ", "breezy ", "current ", "informal ", "modern ", "new ", "open ", "ventilated "]}

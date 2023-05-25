@@ -1,1 +1,1 @@
-{"index": 229605, "D": "the innermost parts or recesses of a place or thing.", "S": ["belly ", "core ", "deep ", "depths ", "entrails ", "guts ", "hold ", "innards ", "interior ", "intestines ", "recesses ", "viscera ", "vitals "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 229605, "D": "the innermost parts or recesses of a place or thing.", "S": ["belly", "core", "deep", "depths", "entrails", "guts", "hold", "innards", "interior", "intestines", "recesses", "viscera", "vitals"], "A": ["exterior", "exteriority", "outside"]}

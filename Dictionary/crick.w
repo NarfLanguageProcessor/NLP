@@ -1,1 +1,1 @@
-{"index": 72900, "D": "a sharp, painful spasm of the muscles, as of the neck or back.", "S": ["ache ", "convulsion ", "cramp ", "jarring ", "kink ", "pain ", "stitch ", "twinge ", "wrench "], "A": ["comfort ", "health "]}
+{"index": 72900, "D": "a sharp, painful spasm of the muscles, as of the neck or back.", "S": ["ache", "convulsion", "cramp", "jarring", "kink", "pain", "stitch", "twinge", "wrench"], "A": ["comfort", "health"]}

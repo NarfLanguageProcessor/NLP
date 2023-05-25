@@ -1,1 +1,1 @@
-{"index": 68075, "D": [], "S": ["bend ", "buckle ", "bulge ", "coil ", "crumple ", "curl ", "loop ", "skew ", "spiral ", "swerve ", "twist ", "veer "], "A": ["straighten ", "stay "]}
+{"index": 68075, "D": [], "S": ["bend", "buckle", "bulge", "coil", "crumple", "curl", "loop", "skew", "spiral", "swerve", "twist", "veer"], "A": ["straighten", "stay"]}

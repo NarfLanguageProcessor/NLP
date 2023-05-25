@@ -1,1 +1,1 @@
-{"index": 226557, "D": "a fur coat, shirtlike and hooded, for wear in the Arctic and other regions of extreme cold.", "S": ["coat ", "fur ", "sheath ", "tunic "], "A": []}
+{"index": 226557, "D": "a fur coat, shirtlike and hooded, for wear in the Arctic and other regions of extreme cold.", "S": ["coat", "fur", "sheath", "tunic"], "A": []}

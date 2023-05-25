@@ -1,1 +1,1 @@
-{"index": 169875, "D": "a person who lectures. ", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}
+{"index": 169875, "D": "a person who lectures. ", "S": ["department", "institute", "personnel", "staff", "university"], "A": ["inability", "incompetence", "ineptness", "lack", "need", "students"]}

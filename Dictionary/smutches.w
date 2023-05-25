@@ -1,1 +1,1 @@
-{"index": 295160, "D": "to smudge or soil.", "S": ["blot ", "blotch ", "blur ", "coat ", "cover ", "dab ", "daub ", "patch ", "smirch ", "smudge ", "soil ", "spattering ", "splotch ", "stain ", "taint "], "A": ["blank ", "clarity ", "cleanliness "]}
+{"index": 295160, "D": "to smudge or soil.", "S": ["blot", "blotch", "blur", "coat", "cover", "dab", "daub", "patch", "smirch", "smudge", "soil", "spattering", "splotch", "stain", "taint"], "A": ["blank", "clarity", "cleanliness"]}

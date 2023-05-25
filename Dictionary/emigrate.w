@@ -1,1 +1,1 @@
-{"index": 98536, "D": "to leave one country or region to settle in another; migrate", "S": ["depart ", "migrate ", "quit "], "A": ["come ", "continue ", "stay "]}
+{"index": 98536, "D": "to leave one country or region to settle in another; migrate", "S": ["depart", "migrate", "quit"], "A": ["come", "continue", "stay"]}

@@ -1,1 +1,1 @@
-{"index": 324292, "D": "to serve as a typical  example of; exemplify.", "S": ["apologue ", "emblem ", "fable ", "figuration ", "moral ", "myth ", "parable ", "story ", "symbol ", "symbolism ", "symbolization ", "tale "], "A": ["nonfiction ", "truth "]}
+{"index": 324292, "D": "to serve as a typical  example of; exemplify.", "S": ["apologue", "emblem", "fable", "figuration", "moral", "myth", "parable", "story", "symbol", "symbolism", "symbolization", "tale"], "A": ["nonfiction", "truth"]}

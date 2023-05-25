@@ -1,1 +1,1 @@
-{"index": 92803, "D": "to say or speak in a slow manner, usually prolonging the vowels.", "S": ["droning ", "dull ", "slow "], "A": ["active ", "intelligent ", "quick ", "smart "]}
+{"index": 92803, "D": "to say or speak in a slow manner, usually prolonging the vowels.", "S": ["droning", "dull", "slow"], "A": ["active", "intelligent", "quick", "smart"]}

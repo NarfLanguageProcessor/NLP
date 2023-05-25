@@ -1,1 +1,1 @@
-{"index": 194678, "D": "to mix up in a confused or bungling manner; jumble. ", "S": ["stupor "], "A": ["expectation ", "understanding "]}
+{"index": 194678, "D": "to mix up in a confused or bungling manner; jumble. ", "S": ["stupor"], "A": ["expectation", "understanding"]}

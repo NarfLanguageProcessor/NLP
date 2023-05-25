@@ -1,1 +1,1 @@
-{"index": 228450, "D": "a person who dives for or trades in pearls", "S": ["frosted ", "iridescent ", "milky ", "off-white "], "A": []}
+{"index": 228450, "D": "a person who dives for or trades in pearls", "S": ["frosted", "iridescent", "milky", "off-white"], "A": []}

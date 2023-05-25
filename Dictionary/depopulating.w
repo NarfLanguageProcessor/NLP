@@ -1,1 +1,1 @@
-{"index": 81736, "D": "to remove or reduce the population of, as by destruction or expulsion.", "S": ["desecrate ", "despoil ", "devastate ", "devour ", "pillage ", "plunder ", "ruin ", "sack ", "waste "], "A": ["build ", "construct ", "create ", "improve ", "protect ", "save "]}
+{"index": 81736, "D": "to remove or reduce the population of, as by destruction or expulsion.", "S": ["desecrate", "despoil", "devastate", "devour", "pillage", "plunder", "ruin", "sack", "waste"], "A": ["build", "construct", "create", "improve", "protect", "save"]}

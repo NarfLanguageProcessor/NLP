@@ -1,1 +1,1 @@
-{"index": 301452, "D": "to eject or discharge as or like foam or froth; spew (often followed by forth).", "S": ["foam ", "scum ", "spray ", "suds "], "A": []}
+{"index": 301452, "D": "to eject or discharge as or like foam or froth; spew (often followed by forth).", "S": ["foam", "scum", "spray", "suds"], "A": []}

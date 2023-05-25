@@ -1,1 +1,1 @@
-{"index": 353205, "D": "untrained volunteers", "S": ["cherry ", "green ", "new ", "novice "], "A": ["trained "]}
+{"index": 353205, "D": "untrained volunteers", "S": ["cherry", "green", "new", "novice"], "A": ["trained"]}

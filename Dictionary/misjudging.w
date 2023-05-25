@@ -1,1 +1,1 @@
-{"index": 189509, "D": "to judge,  estimate, or value wrongly or unjustly.", "S": ["miscalculate ", "misconstrue ", "misunderstand ", "overestimate ", "overrate ", "underestimate "], "A": ["get ", "perceive ", "understand ", "comprehend ", "disbelieve "]}
+{"index": 189509, "D": "to judge,  estimate, or value wrongly or unjustly.", "S": ["miscalculate", "misconstrue", "misunderstand", "overestimate", "overrate", "underestimate"], "A": ["get", "perceive", "understand", "comprehend", "disbelieve"]}

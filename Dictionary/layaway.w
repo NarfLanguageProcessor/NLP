@@ -1,1 +1,1 @@
-{"index": 167371, "D": "layaway plan. ", "S": ["amass ", "hoard ", "invest "], "A": ["spend "]}
+{"index": 167371, "D": "layaway plan. ", "S": ["amass", "hoard", "invest"], "A": ["spend"]}

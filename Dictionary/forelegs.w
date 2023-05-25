@@ -1,1 +1,1 @@
-{"index": 116771, "D": "one of the front legs of a quadruped, an insect, etc.", "S": ["shin "], "A": []}
+{"index": 116771, "D": "one of the front legs of a quadruped, an insect, etc.", "S": ["shin"], "A": []}

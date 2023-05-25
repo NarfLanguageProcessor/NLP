@@ -1,1 +1,1 @@
-{"index": 254073, "D": "an administrative division or unit of a country.", "S": ["colony ", "county ", "department ", "district ", "part ", "region ", "territory ", "zone "], "A": ["avocation ", "entertainment ", "fun ", "recreation ", "retreat ", "unemployment ", "whole "]}
+{"index": 254073, "D": "an administrative division or unit of a country.", "S": ["colony", "county", "department", "district", "part", "region", "territory", "zone"], "A": ["avocation", "entertainment", "fun", "recreation", "retreat", "unemployment", "whole"]}

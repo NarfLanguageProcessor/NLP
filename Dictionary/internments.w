@@ -1,1 +1,1 @@
-{"index": 155511, "D": "an act or instance of interning,  or confining a person or ship to prescribed limits during wartime", "S": ["bondage ", "confinement ", "custody ", "imprisonment ", "incarceration ", "slavery "], "A": ["freedom ", "liberation ", "liberty "]}
+{"index": 155511, "D": "an act or instance of interning,  or confining a person or ship to prescribed limits during wartime", "S": ["bondage", "confinement", "custody", "imprisonment", "incarceration", "slavery"], "A": ["freedom", "liberation", "liberty"]}

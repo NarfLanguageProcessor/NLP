@@ -1,1 +1,0 @@
-{"index": 302327, "D": "to walk, move, or stand unsteadily.", "S": ["careen ", "falter ", "lurch ", "reel ", "shake ", "teeter ", "wobble "], "A": ["carry on ", "continue ", "stay "]}

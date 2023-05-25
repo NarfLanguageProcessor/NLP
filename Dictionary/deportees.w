@@ -1,1 +1,1 @@
-{"index": 81750, "D": "to expel (an alien) from a country; banish.", "S": ["displaced person ", "expatriate "], "A": ["citizen ", "national ", "native "]}
+{"index": 81750, "D": "to expel (an alien) from a country; banish.", "S": ["displaced person", "expatriate"], "A": ["citizen", "national", "native"]}

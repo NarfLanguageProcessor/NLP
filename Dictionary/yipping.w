@@ -1,1 +1,1 @@
-{"index": 147166, "D": "to bark sharply, as a young dog.", "S": ["hoot ", "howl ", "screech ", "shriek ", "squawk ", "squeal ", "wail ", "whoop ", "yelp "], "A": ["seriousness "]}
+{"index": 147166, "D": "to bark sharply, as a young dog.", "S": ["hoot", "howl", "screech", "shriek", "squawk", "squeal", "wail", "whoop", "yelp"], "A": ["seriousness"]}

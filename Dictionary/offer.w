@@ -1,1 +1,1 @@
-{"index": 211581, "D": "to present for acceptance or rejection; proffer", "S": ["action ", "attempt ", "bid ", "overture "], "A": ["denial ", "idleness ", "refusal "]}
+{"index": 211581, "D": "to present for acceptance or rejection; proffer", "S": ["action", "attempt", "bid", "overture"], "A": ["denial", "idleness", "refusal"]}

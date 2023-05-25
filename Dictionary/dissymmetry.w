@@ -1,1 +1,1 @@
-{"index": 89562, "D": "absence or lack of symmetry. ", "S": ["imbalance ", "inequality "], "A": []}
+{"index": 89562, "D": "absence or lack of symmetry. ", "S": ["imbalance", "inequality"], "A": []}

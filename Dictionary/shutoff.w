@@ -1,1 +1,1 @@
-{"index": 289407, "D": "an object or device that shuts (something) off", "S": ["faucet ", "pipe ", "spigot "], "A": []}
+{"index": 289407, "D": "an object or device that shuts (something) off", "S": ["faucet", "pipe", "spigot"], "A": []}

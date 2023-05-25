@@ -1,1 +1,1 @@
-{"index": 180414, "D": "like a marsh;  soft and wet; boggy.", "S": ["soggy "], "A": []}
+{"index": 180414, "D": "like a marsh;  soft and wet; boggy.", "S": ["soggy"], "A": []}

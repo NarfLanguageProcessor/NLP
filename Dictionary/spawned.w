@@ -1,1 +1,1 @@
-{"index": 298675, "D": "the mass of eggs deposited by fishes, amphibians, mollusks, crustaceans, etc.", "S": ["create ", "generate "], "A": ["destroy ", "kill ", "stop "]}
+{"index": 298675, "D": "the mass of eggs deposited by fishes, amphibians, mollusks, crustaceans, etc.", "S": ["create", "generate"], "A": ["destroy", "kill", "stop"]}

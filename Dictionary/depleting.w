@@ -1,1 +1,1 @@
-{"index": 81662, "D": "to decrease seriously or exhaust the abundance or supply of", "S": ["exhausting ", "taxing "], "A": []}
+{"index": 81662, "D": "to decrease seriously or exhaust the abundance or supply of", "S": ["exhausting", "taxing"], "A": []}

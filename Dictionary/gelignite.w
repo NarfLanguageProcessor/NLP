@@ -1,1 +1,1 @@
-{"index": 123249, "D": "gelatin dynamite. ", "S": ["nitroglycerin "], "A": []}
+{"index": 123249, "D": "gelatin dynamite. ", "S": ["nitroglycerin"], "A": []}

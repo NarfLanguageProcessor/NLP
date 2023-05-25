@@ -1,1 +1,1 @@
-{"index": 84442, "D": "producing perspiration.", "S": ["moist ", "sticky ", "stinky ", "wet "], "A": ["dry "]}
+{"index": 84442, "D": "producing perspiration.", "S": ["moist", "sticky", "stinky", "wet"], "A": ["dry"]}

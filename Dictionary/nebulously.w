@@ -1,1 +1,1 @@
-{"index": 197702, "D": "hazy, vague, indistinct, or confused", "S": ["covertly ", "darkly ", "dingily ", "dully ", "duskily ", "gloomily ", "hazily ", "indecisively ", "indefinably ", "indefinitely ", "indistinctly ", "secretly ", "tenebrously ", "thickly ", "unobtrusively ", "vaguely "], "A": []}
+{"index": 197702, "D": "hazy, vague, indistinct, or confused", "S": ["covertly", "darkly", "dingily", "dully", "duskily", "gloomily", "hazily", "indecisively", "indefinably", "indefinitely", "indistinctly", "secretly", "tenebrously", "thickly", "unobtrusively", "vaguely"], "A": []}

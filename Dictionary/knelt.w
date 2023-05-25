@@ -1,1 +1,1 @@
-{"index": 165515, "D": "a simple past tense and past participle of kneel. ", "S": ["bow "], "A": []}
+{"index": 165515, "D": "a simple past tense and past participle of kneel. ", "S": ["bow"], "A": []}

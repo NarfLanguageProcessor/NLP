@@ -1,1 +1,1 @@
-{"index": 67924, "D": "communicated or made known", "S": ["deposited ", "dispatched ", "expressed ", "forwarded ", "mailed ", "sent ", "shipped ", "transported ", "trucked "], "A": []}
+{"index": 67924, "D": "communicated or made known", "S": ["deposited", "dispatched", "expressed", "forwarded", "mailed", "sent", "shipped", "transported", "trucked"], "A": []}

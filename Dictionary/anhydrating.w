@@ -1,1 +1,1 @@
-{"index": 13055, "D": [], "S": ["dehydrate ", "deplete ", "devitalize ", "divest ", "drain ", "dry ", "evaporate ", "exsiccate ", "parch ", "sear ", "shrivel ", "wither "], "A": ["dampen ", "expand ", "fill ", "grow ", "moisten ", "soak ", "wet "]}
+{"index": 13055, "D": [], "S": ["dehydrate", "deplete", "devitalize", "divest", "drain", "dry", "evaporate", "exsiccate", "parch", "sear", "shrivel", "wither"], "A": ["dampen", "expand", "fill", "grow", "moisten", "soak", "wet"]}

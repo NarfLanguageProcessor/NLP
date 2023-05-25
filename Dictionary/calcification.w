@@ -1,1 +1,1 @@
-{"index": 44870, "D": "a changing into lime.", "S": ["coagulation ", "concretion ", "crystallization ", "fossilization ", "freezing ", "ossification ", "petrification ", "setting ", "solidifying ", "stiffening "], "A": []}
+{"index": 44870, "D": "a changing into lime.", "S": ["coagulation", "concretion", "crystallization", "fossilization", "freezing", "ossification", "petrification", "setting", "solidifying", "stiffening"], "A": []}

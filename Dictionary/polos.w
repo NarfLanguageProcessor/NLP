@@ -1,1 +1,1 @@
-{"index": 242788, "D": "a tall, cylindrical headdress represented, especially on statutes, as worn by women in ancient Greece.", "S": ["blouse ", "jersey ", "pullover ", "tunic ", "turtleneck "], "A": []}
+{"index": 242788, "D": "a tall, cylindrical headdress represented, especially on statutes, as worn by women in ancient Greece.", "S": ["blouse", "jersey", "pullover", "tunic", "turtleneck"], "A": []}

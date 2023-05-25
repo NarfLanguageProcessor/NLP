@@ -1,1 +1,1 @@
-{"index": 67703, "D": "opposite in nature or character; diametrically or mutually opposed", "S": ["antithesis ", "renunciation ", "repudiation "], "A": ["OK ", "allowance ", "approval ", "permission ", "ratification ", "same ", "sanction ", "similarity "]}
+{"index": 67703, "D": "opposite in nature or character; diametrically or mutually opposed", "S": ["antithesis", "renunciation", "repudiation"], "A": ["OK", "allowance", "approval", "permission", "ratification", "same", "sanction", "similarity"]}

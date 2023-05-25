@@ -1,1 +1,1 @@
-{"index": 212773, "D": "continuing without termination or interruption", "S": ["continuing ", "current ", "growing ", "open-ended ", "successful "], "A": ["infrequent ", "intermittent ", "stopping "]}
+{"index": 212773, "D": "continuing without termination or interruption", "S": ["continuing", "current", "growing", "open-ended", "successful"], "A": ["infrequent", "intermittent", "stopping"]}

@@ -1,1 +1,1 @@
-{"index": 40728, "D": "men's underpants or women's pants without legs", "S": ["boxers ", "drawers ", "shorts ", "underpants ", "undershorts ", "underwear "], "A": []}
+{"index": 40728, "D": "men's underpants or women's pants without legs", "S": ["boxers", "drawers", "shorts", "underpants", "undershorts", "underwear"], "A": []}

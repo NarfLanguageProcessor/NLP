@@ -1,1 +1,1 @@
-{"index": 287225, "D": [], "S": ["disturb ", "reorganize ", "shock "], "A": ["calm ", "placate ", "soothe "]}
+{"index": 287225, "D": [], "S": ["disturb", "reorganize", "shock"], "A": ["calm", "placate", "soothe"]}

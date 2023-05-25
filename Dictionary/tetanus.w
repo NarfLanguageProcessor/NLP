@@ -1,1 +1,1 @@
-{"index": 319886, "D": "Compare lockjaw. ", "S": ["trismus "], "A": []}
+{"index": 319886, "D": "Compare lockjaw. ", "S": ["trismus"], "A": []}

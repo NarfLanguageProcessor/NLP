@@ -1,1 +1,1 @@
-{"index": 258417, "D": "of doubtful propriety, honesty, morality, respectability, etc.", "S": ["dubiety ", "dubiousness ", "indecision ", "mistrust ", "question ", "skepticism ", "suspicion ", "uncertainty "], "A": ["certainty ", "trust "]}
+{"index": 258417, "D": "of doubtful propriety, honesty, morality, respectability, etc.", "S": ["dubiety", "dubiousness", "indecision", "mistrust", "question", "skepticism", "suspicion", "uncertainty"], "A": ["certainty", "trust"]}

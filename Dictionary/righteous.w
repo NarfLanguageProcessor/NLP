@@ -1,1 +1,1 @@
-{"index": 272811, "D": "characterized by uprightness or morality", "S": ["conscientious ", "ethical ", "honorable ", "law-abiding ", "noble ", "pure ", "spiritual ", "upright ", "virtuous "], "A": ["corrupt ", "dishonest ", "immoral ", "unethical ", "unjust ", "vulgar "]}
+{"index": 272811, "D": "characterized by uprightness or morality", "S": ["conscientious", "ethical", "honorable", "law-abiding", "noble", "pure", "spiritual", "upright", "virtuous"], "A": ["corrupt", "dishonest", "immoral", "unethical", "unjust", "vulgar"]}

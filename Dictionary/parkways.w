@@ -1,1 +1,1 @@
-{"index": 226578, "D": "a broad thoroughfare with a dividing strip or side strips planted with grass, trees, etc.", "S": ["boulevard ", "channel ", "entrance ", "outlet ", "pathway ", "promenade ", "road ", "route ", "thoroughfare "], "A": ["egress ", "refusal "]}
+{"index": 226578, "D": "a broad thoroughfare with a dividing strip or side strips planted with grass, trees, etc.", "S": ["boulevard", "channel", "entrance", "outlet", "pathway", "promenade", "road", "route", "thoroughfare"], "A": ["egress", "refusal"]}

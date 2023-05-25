@@ -1,1 +1,1 @@
-{"index": 128605, "D": "a person who combines plants by inserting a bud, shoot, or scion of one plant into a groove or slit in the stem or stock of another, where it continues to grow", "S": ["bum ", "liar ", "scoundrel ", "swindler ", "wretch "], "A": ["hard worker "]}
+{"index": 128605, "D": "a person who combines plants by inserting a bud, shoot, or scion of one plant into a groove or slit in the stem or stock of another, where it continues to grow", "S": ["bum", "liar", "scoundrel", "swindler", "wretch"], "A": ["hard worker"]}

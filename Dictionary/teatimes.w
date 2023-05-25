@@ -1,1 +1,1 @@
-{"index": 317600, "D": "the time  at which tea  is served or taken, usually in the late afternoon.", "S": ["siesta "], "A": []}
+{"index": 317600, "D": "the time  at which tea  is served or taken, usually in the late afternoon.", "S": ["siesta"], "A": []}

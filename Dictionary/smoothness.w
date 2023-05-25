@@ -1,1 +1,1 @@
-{"index": 295080, "D": "free from projections or unevenness of surface; not rough", "S": ["precision ", "regularity ", "sleekness "], "A": []}
+{"index": 295080, "D": "free from projections or unevenness of surface; not rough", "S": ["precision", "regularity", "sleekness"], "A": []}

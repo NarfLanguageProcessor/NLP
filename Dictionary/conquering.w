@@ -1,1 +1,1 @@
-{"index": 66632, "D": "to acquire by force of arms; win in war", "S": ["dominating ", "winning "], "A": []}
+{"index": 66632, "D": "to acquire by force of arms; win in war", "S": ["dominating", "winning"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 144974, "D": "humid  condition; moistness; dampness.", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}
+{"index": 144974, "D": "humid  condition; moistness; dampness.", "S": ["evaporation", "moisture"], "A": ["aridity", "dryness"]}

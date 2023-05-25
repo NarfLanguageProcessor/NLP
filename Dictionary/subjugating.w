@@ -1,1 +1,0 @@
-{"index": 308325, "D": "to bring under complete control or subjection; conquer; master.", "S": ["conquer ", "enslave "], "A": ["encourage ", "fail ", "give in ", "let go ", "lose ", "release ", "surrender ", "win ", "yield "]}

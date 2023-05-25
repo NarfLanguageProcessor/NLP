@@ -1,1 +1,1 @@
-{"index": 115855, "D": "to bend (cloth, paper, etc.) over upon itself.", "S": ["bankrupt ", "locked ", "sealed "], "A": ["beginning ", "continuing ", "open ", "running ", "started ", "starting ", "unsettled ", "welcoming ", "working "]}
+{"index": 115855, "D": "to bend (cloth, paper, etc.) over upon itself.", "S": ["bankrupt", "locked", "sealed"], "A": ["beginning", "continuing", "open", "running", "started", "starting", "unsettled", "welcoming", "working"]}

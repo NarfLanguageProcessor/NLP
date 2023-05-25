@@ -1,1 +1,1 @@
-{"index": 294296, "D": "the small, sour, blackish fruit of the blackthorn, Prunus spinosa, of the rose family.", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}
+{"index": 294296, "D": "the small, sour, blackish fruit of the blackthorn, Prunus spinosa, of the rose family.", "S": ["sunless", "unlighted", "unlit"], "A": ["bright", "sunny"]}

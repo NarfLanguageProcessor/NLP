@@ -1,1 +1,1 @@
-{"index": 88430, "D": "lacking in frankness, candor, or sincerity; falsely or hypocritically ingenuous;  insincere", "S": ["deceitful ", "dishonest ", "false ", "unfair "], "A": ["fair ", "frank ", "honest ", "just ", "open ", "trustworthy ", "truthful "]}
+{"index": 88430, "D": "lacking in frankness, candor, or sincerity; falsely or hypocritically ingenuous;  insincere", "S": ["deceitful", "dishonest", "false", "unfair"], "A": ["fair", "frank", "honest", "just", "open", "trustworthy", "truthful"]}

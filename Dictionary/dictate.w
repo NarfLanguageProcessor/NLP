@@ -1,1 +1,1 @@
-{"index": 84952, "D": "to say or read (something) aloud for another person to transcribe or for a machine to record", "S": ["edict ", "precept "], "A": ["answer ", "lawlessness ", "question "]}
+{"index": 84952, "D": "to say or read (something) aloud for another person to transcribe or for a machine to record", "S": ["edict", "precept"], "A": ["answer", "lawlessness", "question"]}

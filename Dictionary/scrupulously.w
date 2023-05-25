@@ -1,1 +1,1 @@
-{"index": 282089, "D": "in a way that shows strict regard for moral standards or principles", "S": ["carefully ", "meticulously "], "A": []}
+{"index": 282089, "D": "in a way that shows strict regard for moral standards or principles", "S": ["carefully", "meticulously"], "A": []}

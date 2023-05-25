@@ -1,1 +1,1 @@
-{"index": 154602, "D": "to put each in the place of the other", "S": ["give-and-take ", "intersection ", "junction ", "networking "], "A": []}
+{"index": 154602, "D": "to put each in the place of the other", "S": ["give-and-take", "intersection", "junction", "networking"], "A": []}

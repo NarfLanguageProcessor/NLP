@@ -1,1 +1,1 @@
-{"index": 186324, "D": "any organism  too small to be viewed by the unaided eye, as bacteria, protozoa, and some fungi and algae.", "S": ["bacterium ", "microbe ", "pathogen ", "virus "], "A": []}
+{"index": 186324, "D": "any organism  too small to be viewed by the unaided eye, as bacteria, protozoa, and some fungi and algae.", "S": ["bacterium", "microbe", "pathogen", "virus"], "A": []}

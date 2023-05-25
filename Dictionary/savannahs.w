@@ -1,1 +1,1 @@
-{"index": 279056, "D": "a seaport in E Georgia, near the mouth of the Savannah River.", "S": ["grassy field ", "llano ", "meadow ", "pasturage ", "pasture ", "plain ", "prairie ", "steppe ", "veldt "], "A": []}
+{"index": 279056, "D": "a seaport in E Georgia, near the mouth of the Savannah River.", "S": ["grassy field", "llano", "meadow", "pasturage", "pasture", "plain", "prairie", "steppe", "veldt"], "A": []}

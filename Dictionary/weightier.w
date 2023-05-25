@@ -1,1 +1,1 @@
-{"index": 363900, "D": "having considerable weight;  heavy; ponderous", "S": ["more "], "A": ["sicker ", "smaller ", "unhealthy ", "worse "]}
+{"index": 363900, "D": "having considerable weight;  heavy; ponderous", "S": ["more"], "A": ["sicker", "smaller", "unhealthy", "worse"]}

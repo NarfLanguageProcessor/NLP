@@ -1,1 +1,1 @@
-{"index": 209212, "D": "in or at no place; not anywhere", "S": ["mediocre ", "moderate ", "ordinary ", "regular "], "A": ["abnormal ", "extraordinary ", "irregular ", "uncommon ", "unusual ", "exceptional ", "extreme ", "infrequent ", "rare "]}
+{"index": 209212, "D": "in or at no place; not anywhere", "S": ["mediocre", "moderate", "ordinary", "regular"], "A": ["abnormal", "extraordinary", "irregular", "uncommon", "unusual", "exceptional", "extreme", "infrequent", "rare"]}

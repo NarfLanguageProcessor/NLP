@@ -1,1 +1,1 @@
-{"index": 152916, "D": "a fluid or viscous substance used for writing or printing.", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}
+{"index": 152916, "D": "a fluid or viscous substance used for writing or printing.", "S": ["sunless", "unlighted", "unlit"], "A": ["bright", "sunny"]}

@@ -1,1 +1,1 @@
-{"index": 106235, "D": "obviously; apparently.", "S": ["doubtless ", "manifestly ", "obviously ", "officially ", "ostensibly ", "plainly ", "seemingly ", "undoubtedly "], "A": ["improbably ", "unlikely "]}
+{"index": 106235, "D": "obviously; apparently.", "S": ["doubtless", "manifestly", "obviously", "officially", "ostensibly", "plainly", "seemingly", "undoubtedly"], "A": ["improbably", "unlikely"]}

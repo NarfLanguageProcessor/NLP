@@ -1,0 +1,1 @@
+{"index": 4040, "D": "a judge, esp in a competition", "S": ["arbitrator", "go-between", "mediator", "moderator", "referee"], "A": []}

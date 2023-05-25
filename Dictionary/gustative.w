@@ -1,1 +1,1 @@
-{"index": 131559, "D": "gustatory. ", "S": ["audiovisual ", "auditory ", "aural ", "neural ", "neurological ", "olfactory ", "sensual ", "sonic ", "tactile ", "visual "], "A": []}
+{"index": 131559, "D": "gustatory. ", "S": ["audiovisual", "auditory", "aural", "neural", "neurological", "olfactory", "sensual", "sonic", "tactile", "visual"], "A": []}

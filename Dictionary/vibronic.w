@@ -1,1 +1,0 @@
-{"index": 359326, "D": "of or relating to changes in the energy levels associated with the vibrational motion of molecules.", "S": [], "A": []}

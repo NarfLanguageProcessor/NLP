@@ -1,1 +1,1 @@
-{"index": 130144, "D": "staggering, as from exhaustion or blows", "S": ["befuddled ", "confused ", "dazed ", "shaky ", "tired ", "unsteady ", "wobbly ", "woozy "], "A": ["clear ", "stable ", "steady "]}
+{"index": 130144, "D": "staggering, as from exhaustion or blows", "S": ["befuddled", "confused", "dazed", "shaky", "tired", "unsteady", "wobbly", "woozy"], "A": ["clear", "stable", "steady"]}

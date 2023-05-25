@@ -1,1 +1,1 @@
-{"index": 257887, "D": [], "S": ["dizzy ", "faint ", "green ", "ill ", "reeling ", "sick "], "A": ["clear ", "healthy ", "strong ", "well "]}
+{"index": 257887, "D": [], "S": ["dizzy", "faint", "green", "ill", "reeling", "sick"], "A": ["clear", "healthy", "strong", "well"]}

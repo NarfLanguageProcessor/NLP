@@ -1,1 +1,1 @@
-{"index": 175436, "D": "any of various devices, usually electronic, by which speech, music, etc., can be intensified and made audible throughout a room, hall, or the like.", "S": ["bullhorn ", "megaphone ", "public address system "], "A": []}
+{"index": 175436, "D": "any of various devices, usually electronic, by which speech, music, etc., can be intensified and made audible throughout a room, hall, or the like.", "S": ["bullhorn", "megaphone", "public address system"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 63952, "D": "the act of commending;  recommendation; praise", "S": ["compliments ", "deference ", "devoirs ", "greeting ", "love ", "remembrances ", "respects ", "salutation ", "salutations "], "A": []}
+{"index": 63952, "D": "the act of commending;  recommendation; praise", "S": ["compliments", "deference", "devoirs", "greeting", "love", "remembrances", "respects", "salutation", "salutations"], "A": []}

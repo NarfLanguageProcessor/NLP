@@ -1,1 +1,1 @@
-{"index": 226528, "D": "one of the community or inhabitants of a parish.", "S": ["believer ", "dilettante ", "follower ", "member ", "neophyte ", "novice ", "outsider ", "proselyte ", "recruit ", "secular "], "A": ["professional "]}
+{"index": 226528, "D": "one of the community or inhabitants of a parish.", "S": ["believer", "dilettante", "follower", "member", "neophyte", "novice", "outsider", "proselyte", "recruit", "secular"], "A": ["professional"]}

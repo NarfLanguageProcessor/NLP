@@ -1,1 +1,1 @@
-{"index": 324105, "D": "a color or a variety of a color; hue.", "S": ["dyed ", "stained ", "tinged "], "A": []}
+{"index": 324105, "D": "a color or a variety of a color; hue.", "S": ["dyed", "stained", "tinged"], "A": []}

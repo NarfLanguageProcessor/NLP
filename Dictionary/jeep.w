@@ -1,1 +1,1 @@
-{"index": 160735, "D": "a small, rugged military motor vehicle having four-wheel drive and a \u00bc-ton capacity", "S": ["ATV "], "A": []}
+{"index": 160735, "D": "a small, rugged military motor vehicle having four-wheel drive and a \u00bc-ton capacity", "S": ["ATV"], "A": []}

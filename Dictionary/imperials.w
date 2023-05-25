@@ -1,1 +1,1 @@
-{"index": 148547, "D": "of, like, or pertaining to an empire. ", "S": ["Vandyke ", "bristles ", "brush ", "fuzz ", "goatee ", "imperial ", "stubble "], "A": []}
+{"index": 148547, "D": "of, like, or pertaining to an empire. ", "S": ["Vandyke", "bristles", "brush", "fuzz", "goatee", "imperial", "stubble"], "A": []}

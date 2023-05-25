@@ -1,1 +1,1 @@
-{"index": 218871, "D": "to furnish or adorn with something ornamental or becoming; embellish", "S": ["florid ", "ornate ", "rococo "], "A": ["plain "]}
+{"index": 218871, "D": "to furnish or adorn with something ornamental or becoming; embellish", "S": ["florid", "ornate", "rococo"], "A": ["plain"]}

@@ -1,1 +1,1 @@
-{"index": 73952, "D": "to stoop or bend low.", "S": ["cowardly ", "obsequious ", "submissive "], "A": []}
+{"index": 73952, "D": "to stoop or bend low.", "S": ["cowardly", "obsequious", "submissive"], "A": []}

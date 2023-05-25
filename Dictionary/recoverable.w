@@ -1,1 +1,1 @@
-{"index": 263552, "D": "able to recover  or be recovered", "S": ["rectifiable "], "A": []}
+{"index": 263552, "D": "able to recover  or be recovered", "S": ["rectifiable"], "A": []}

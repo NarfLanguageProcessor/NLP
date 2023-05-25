@@ -1,1 +1,1 @@
-{"index": 293584, "D": "to kill by violence.", "S": ["assassinate ", "butcher ", "destroy ", "dispatch ", "execute ", "exterminate ", "massacre ", "murder ", "slaughter "], "A": ["bear ", "create ", "give birth ", "build ", "fail ", "keep ", "lose ", "preserve ", "save "]}
+{"index": 293584, "D": "to kill by violence.", "S": ["assassinate", "butcher", "destroy", "dispatch", "execute", "exterminate", "massacre", "murder", "slaughter"], "A": ["bear", "create", "give birth", "build", "fail", "keep", "lose", "preserve", "save"]}

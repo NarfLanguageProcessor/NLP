@@ -1,1 +1,1 @@
-{"index": 367872, "D": "to inflict or execute (punishment, vengeance, etc.)", "S": ["bring about ", "inflict ", "unleash ", "wreck "], "A": ["destroy ", "fail ", "forget ", "ignore ", "neglect "]}
+{"index": 367872, "D": "to inflict or execute (punishment, vengeance, etc.)", "S": ["bring about", "inflict", "unleash", "wreck"], "A": ["destroy", "fail", "forget", "ignore", "neglect"]}

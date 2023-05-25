@@ -1,1 +1,1 @@
-{"index": 227215, "D": [], "S": ["burst ", "crack ", "fragment ", "rive ", "smash ", "smatter ", "splinter "], "A": ["fix ", "mend "]}
+{"index": 227215, "D": [], "S": ["burst", "crack", "fragment", "rive", "smash", "smatter", "splinter"], "A": ["fix", "mend"]}

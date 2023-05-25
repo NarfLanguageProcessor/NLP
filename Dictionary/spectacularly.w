@@ -1,1 +1,1 @@
-{"index": 298855, "D": "of or like a spectacle;  marked by or given to an impressive, large-scale display.", "S": ["infamously ", "notably "], "A": []}
+{"index": 298855, "D": "of or like a spectacle;  marked by or given to an impressive, large-scale display.", "S": ["infamously", "notably"], "A": []}

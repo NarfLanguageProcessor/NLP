@@ -1,1 +1,1 @@
-{"index": 172470, "D": "to represent in drawing or painting.", "S": ["delineate "], "A": []}
+{"index": 172470, "D": "to represent in drawing or painting.", "S": ["delineate"], "A": []}

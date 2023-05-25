@@ -1,1 +1,1 @@
-{"index": 338505, "D": "not announced or acknowledged publicly", "S": ["nameless ", "unspoken "], "A": []}
+{"index": 338505, "D": "not announced or acknowledged publicly", "S": ["nameless", "unspoken"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 353001, "D": "not tidy  or neat; slovenly; disordered", "S": ["derange ", "discompose ", "disturb ", "jumble ", "mess ", "ruffle ", "scramble ", "shuffle ", "unsettle "], "A": ["arrange ", "calm ", "comfort ", "compose ", "order ", "organize ", "soothe "]}
+{"index": 353001, "D": "not tidy  or neat; slovenly; disordered", "S": ["derange", "discompose", "disturb", "jumble", "mess", "ruffle", "scramble", "shuffle", "unsettle"], "A": ["arrange", "calm", "comfort", "compose", "order", "organize", "soothe"]}

@@ -1,1 +1,1 @@
-{"index": 112286, "D": "restless; impatient; uneasy.", "S": ["apprehensive ", "impatient ", "jittery ", "jumpy ", "restless ", "uneasy "], "A": ["calm ", "composed ", "easygoing ", "laid-back "]}
+{"index": 112286, "D": "restless; impatient; uneasy.", "S": ["apprehensive", "impatient", "jittery", "jumpy", "restless", "uneasy"], "A": ["calm", "composed", "easygoing", "laid-back"]}

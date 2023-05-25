@@ -1,1 +1,1 @@
-{"index": 62895, "D": "having control of one's faculties; self-possessed", "S": ["coolly ", "easily ", "peacefully ", "serenely ", "smoothly "], "A": []}
+{"index": 62895, "D": "having control of one's faculties; self-possessed", "S": ["coolly", "easily", "peacefully", "serenely", "smoothly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 78698, "D": "interior designer. ", "S": ["fashion designer "], "A": []}
+{"index": 78698, "D": "interior designer. ", "S": ["fashion designer"], "A": []}

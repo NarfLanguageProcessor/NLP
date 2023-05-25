@@ -1,1 +1,1 @@
-{"index": 236377, "D": "a small or young pig. ", "S": ["avid ", "insatiable ", "prodigious ", "rapacious ", "ravenous "], "A": ["full ", "satisfied "]}
+{"index": 236377, "D": "a small or young pig. ", "S": ["avid", "insatiable", "prodigious", "rapacious", "ravenous"], "A": ["full", "satisfied"]}

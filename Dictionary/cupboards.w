@@ -1,1 +1,1 @@
-{"index": 75059, "D": "a closet with shelves for dishes, cups, etc.", "S": ["closet ", "locker ", "sideboard ", "storeroom "], "A": []}
+{"index": 75059, "D": "a closet with shelves for dishes, cups, etc.", "S": ["closet", "locker", "sideboard", "storeroom"], "A": []}

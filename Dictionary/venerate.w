@@ -1,1 +1,1 @@
-{"index": 358021, "D": "to regard or treat with reverence; revere.", "S": ["cherish ", "esteem ", "exalt ", "hallow ", "idolize "], "A": ["denounce ", "abhor ", "condemn ", "despise ", "detest ", "dishonor ", "dislike ", "disparage ", "disregard ", "disrespect ", "hate ", "scorn "]}
+{"index": 358021, "D": "to regard or treat with reverence; revere.", "S": ["cherish", "esteem", "exalt", "hallow", "idolize"], "A": ["denounce", "abhor", "condemn", "despise", "detest", "dishonor", "dislike", "disparage", "disregard", "disrespect", "hate", "scorn"]}

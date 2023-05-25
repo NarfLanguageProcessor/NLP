@@ -1,1 +1,1 @@
-{"index": 76768, "D": "to hang loosely, especially with a jerking or swaying motion", "S": ["droop ", "flap ", "hang ", "sling ", "sway ", "swing "], "A": []}
+{"index": 76768, "D": "to hang loosely, especially with a jerking or swaying motion", "S": ["droop", "flap", "hang", "sling", "sway", "swing"], "A": []}

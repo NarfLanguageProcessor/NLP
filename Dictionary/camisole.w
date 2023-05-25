@@ -1,1 +1,1 @@
-{"index": 45731, "D": "a short garment worn underneath a sheer bodice to conceal the underwear.", "S": ["dress ", "lingerie ", "shift ", "shirt ", "smock "], "A": []}
+{"index": 45731, "D": "a short garment worn underneath a sheer bodice to conceal the underwear.", "S": ["dress", "lingerie", "shift", "shirt", "smock"], "A": []}

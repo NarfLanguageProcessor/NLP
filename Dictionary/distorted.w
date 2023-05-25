@@ -1,1 +1,1 @@
-{"index": 89853, "D": "not truly or completely representing the facts or reality; misrepresented; false", "S": ["wry "], "A": ["straight "]}
+{"index": 89853, "D": "not truly or completely representing the facts or reality; misrepresented; false", "S": ["wry"], "A": ["straight"]}

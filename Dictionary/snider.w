@@ -1,1 +1,1 @@
-{"index": 295500, "D": "derogatory in a nasty, insinuating manner", "S": ["disparaging ", "sarcastic ", "sneering ", "unkind "], "A": ["kind ", "nice "]}
+{"index": 295500, "D": "derogatory in a nasty, insinuating manner", "S": ["disparaging", "sarcastic", "sneering", "unkind"], "A": ["kind", "nice"]}

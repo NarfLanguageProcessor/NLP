@@ -1,1 +1,1 @@
-{"index": 126465, "D": "shaped like a globe.", "S": ["celestial "], "A": []}
+{"index": 126465, "D": "shaped like a globe.", "S": ["celestial"], "A": []}

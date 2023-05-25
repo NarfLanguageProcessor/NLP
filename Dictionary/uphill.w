@@ -1,1 +1,1 @@
-{"index": 354744, "D": "up or as if up the slope of a hill  or other incline; upward", "S": ["skyward "], "A": ["downhill ", "easy ", "facile "]}
+{"index": 354744, "D": "up or as if up the slope of a hill  or other incline; upward", "S": ["skyward"], "A": ["downhill", "easy", "facile"]}

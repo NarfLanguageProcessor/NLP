@@ -1,1 +1,1 @@
-{"index": 118606, "D": "an estate in land, inherited or held for life.", "S": ["area ", "farm ", "parcel ", "plantation ", "ranch ", "residence "], "A": []}
+{"index": 118606, "D": "an estate in land, inherited or held for life.", "S": ["area", "farm", "parcel", "plantation", "ranch", "residence"], "A": []}

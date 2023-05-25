@@ -1,1 +1,1 @@
-{"index": 299150, "D": "to pay out, disburse, or expend; dispose of (money, wealth, resources, etc.)", "S": ["expenditure ", "outlay "], "A": ["deposit ", "hoard ", "savings "]}
+{"index": 299150, "D": "to pay out, disburse, or expend; dispose of (money, wealth, resources, etc.)", "S": ["expenditure", "outlay"], "A": ["deposit", "hoard", "savings"]}

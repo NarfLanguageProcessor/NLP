@@ -1,1 +1,1 @@
-{"index": 94820, "D": "of the nature of or consisting of earth  or soil.", "S": ["down-to-earth ", "folksy ", "funky ", "homey ", "simple "], "A": ["cultured ", "elegant ", "refined ", "sophisticated "]}
+{"index": 94820, "D": "of the nature of or consisting of earth  or soil.", "S": ["down-to-earth", "folksy", "funky", "homey", "simple"], "A": ["cultured", "elegant", "refined", "sophisticated"]}

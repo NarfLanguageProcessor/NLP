@@ -1,1 +1,1 @@
-{"index": 33832, "D": "a motorcycle.", "S": ["driving ", "excursion ", "flying ", "movement ", "navigation ", "ride ", "sailing ", "sightseeing ", "tour ", "transit ", "trek ", "trip "], "A": []}
+{"index": 33832, "D": "a motorcycle.", "S": ["driving", "excursion", "flying", "movement", "navigation", "ride", "sailing", "sightseeing", "tour", "transit", "trek", "trip"], "A": []}

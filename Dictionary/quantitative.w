@@ -1,1 +1,1 @@
-{"index": 257939, "D": "that is or may be estimated by quantity. ", "S": ["perceptible ", "significant "], "A": ["imperceptible ", "insignificant ", "unmeasurable "]}
+{"index": 257939, "D": "that is or may be estimated by quantity. ", "S": ["perceptible", "significant"], "A": ["imperceptible", "insignificant", "unmeasurable"]}

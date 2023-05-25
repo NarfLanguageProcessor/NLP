@@ -1,1 +1,1 @@
-{"index": 362092, "D": "an express or written statement of such relinquishment.", "S": ["postponement ", "remission "], "A": ["allowance ", "approval ", "sanction "]}
+{"index": 362092, "D": "an express or written statement of such relinquishment.", "S": ["postponement", "remission"], "A": ["allowance", "approval", "sanction"]}

@@ -1,1 +1,1 @@
-{"index": 65068, "D": "Compare convex (def. 1). ", "S": ["biconcave ", "cupped ", "dented ", "dimpled ", "dipped ", "excavated ", "hollow ", "hollowed ", "incurvate ", "incurvated ", "incurved ", "indented ", "round ", "rounded ", "sagging ", "sinking ", "sunken "], "A": ["convex ", "distended "]}
+{"index": 65068, "D": "Compare convex (def. 1). ", "S": ["biconcave", "cupped", "dented", "dimpled", "dipped", "excavated", "hollow", "hollowed", "incurvate", "incurvated", "incurved", "indented", "round", "rounded", "sagging", "sinking", "sunken"], "A": ["convex", "distended"]}

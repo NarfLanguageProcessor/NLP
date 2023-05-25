@@ -1,1 +1,1 @@
-{"index": 309316, "D": "a noun.", "S": ["noun "], "A": []}
+{"index": 309316, "D": "a noun.", "S": ["noun"], "A": []}

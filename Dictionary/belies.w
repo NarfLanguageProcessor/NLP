@@ -1,1 +1,1 @@
-{"index": 31081, "D": "3rd person singular present indicative of belie. ", "S": ["contradict ", "negate ", "repudiate "], "A": ["approve ", "affirm ", "agree ", "aid ", "allow ", "assist ", "concur ", "consent ", "endorse ", "go along ", "harmonize ", "help ", "prove "]}
+{"index": 31081, "D": "3rd person singular present indicative of belie. ", "S": ["contradict", "negate", "repudiate"], "A": ["approve", "affirm", "agree", "aid", "allow", "assist", "concur", "consent", "endorse", "go along", "harmonize", "help", "prove"]}

@@ -1,1 +1,1 @@
-{"index": 282744, "D": "tending to seclude, especially oneself.", "S": ["reclusive ", "sheltered "], "A": ["seen "]}
+{"index": 282744, "D": "tending to seclude, especially oneself.", "S": ["reclusive", "sheltered"], "A": ["seen"]}

@@ -1,1 +1,1 @@
-{"index": 77645, "D": "deadly; fatal.", "S": ["ghastly "], "A": ["animating ", "energizing ", "harmless ", "healthful ", "healthy ", "invigorating ", "lively ", "wholesome "]}
+{"index": 77645, "D": "deadly; fatal.", "S": ["ghastly"], "A": ["animating", "energizing", "harmless", "healthful", "healthy", "invigorating", "lively", "wholesome"]}

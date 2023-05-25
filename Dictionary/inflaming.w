@@ -1,1 +1,1 @@
-{"index": 152084, "D": "to kindle or excite (passions, desires, etc.).", "S": ["incendiary ", "intemperate ", "provocative "], "A": ["calming ", "mitigating ", "placating ", "pleasing ", "tranquilizing "]}
+{"index": 152084, "D": "to kindle or excite (passions, desires, etc.).", "S": ["incendiary", "intemperate", "provocative"], "A": ["calming", "mitigating", "placating", "pleasing", "tranquilizing"]}

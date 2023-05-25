@@ -1,1 +1,1 @@
-{"index": 315696, "D": "an account or reckoning; a record of debit and credit, of the score of a game, or the like.", "S": ["poll ", "total "], "A": []}
+{"index": 315696, "D": "an account or reckoning; a record of debit and credit, of the score of a game, or the like.", "S": ["poll", "total"], "A": []}

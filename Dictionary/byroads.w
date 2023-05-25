@@ -1,1 +1,1 @@
-{"index": 34866, "D": [], "S": ["intersection "], "A": []}
+{"index": 34866, "D": [], "S": ["intersection"], "A": []}

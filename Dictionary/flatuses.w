@@ -1,1 +1,1 @@
-{"index": 114142, "D": "intestinal gas produced by bacterial action on waste matter in the intestines and composed primarily of hydrogen sulfide and varying amounts of methane.", "S": ["sigh ", "smell ", "whiff "], "A": []}
+{"index": 114142, "D": "intestinal gas produced by bacterial action on waste matter in the intestines and composed primarily of hydrogen sulfide and varying amounts of methane.", "S": ["sigh", "smell", "whiff"], "A": []}

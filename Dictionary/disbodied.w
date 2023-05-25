@@ -1,1 +1,1 @@
-{"index": 87185, "D": [], "S": ["incorporeal ", "nonmaterial "], "A": ["bodily ", "essential ", "important ", "material ", "meaningful ", "physical ", "real ", "relevant ", "solid ", "substantial "]}
+{"index": 87185, "D": [], "S": ["incorporeal", "nonmaterial"], "A": ["bodily", "essential", "important", "material", "meaningful", "physical", "real", "relevant", "solid", "substantial"]}

@@ -1,1 +1,0 @@
-{"index": 171348, "D": "the study of the formation, meaning, and use of words and of idiomatic combinations of words.", "S": ["linguist "], "A": []}

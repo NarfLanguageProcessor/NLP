@@ -1,1 +1,0 @@
-{"index": 270844, "D": "to go backward into an earlier and usually worse condition", "S": ["degenerate ", "retrograde ", "revert ", "worsen "], "A": ["develop ", "improve "]}

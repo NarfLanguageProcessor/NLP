@@ -1,1 +1,1 @@
-{"index": 35423, "D": "to reveal indiscreetly and thoughtlessly", "S": ["blathering ", "blithering ", "chitchatting ", "driveling ", "gibbering ", "jabbering ", "prattling "], "A": []}
+{"index": 35423, "D": "to reveal indiscreetly and thoughtlessly", "S": ["blathering", "blithering", "chitchatting", "driveling", "gibbering", "jabbering", "prattling"], "A": []}

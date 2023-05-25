@@ -1,1 +1,1 @@
-{"index": 230672, "D": "a musical, dramatic, or other entertainment presented before an audience.", "S": ["achievement ", "act ", "conduct ", "work "], "A": ["failure ", "disregard ", "neglect ", "unfulfillment "]}
+{"index": 230672, "D": "a musical, dramatic, or other entertainment presented before an audience.", "S": ["achievement", "act", "conduct", "work"], "A": ["failure", "disregard", "neglect", "unfulfillment"]}

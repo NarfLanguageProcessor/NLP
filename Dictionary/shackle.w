@@ -1,1 +1,1 @@
-{"index": 287026, "D": "a ring or other fastening, as of iron, for securing the wrist, ankle, etc.; fetter.", "S": ["handcuff ", "irons "], "A": []}
+{"index": 287026, "D": "a ring or other fastening, as of iron, for securing the wrist, ankle, etc.; fetter.", "S": ["handcuff", "irons"], "A": []}

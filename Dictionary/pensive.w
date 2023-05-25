@@ -1,1 +1,0 @@
-{"index": 229843, "D": "dreamily or wistfully thoughtful", "S": ["contemplative ", "dreamy ", "sober ", "thoughtful ", "wistful "], "A": ["negligent ", "uncaring "]}

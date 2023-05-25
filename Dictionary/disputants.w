@@ -1,1 +1,1 @@
-{"index": 89237, "D": "a person who disputes;  debater.", "S": ["aspirant ", "candidate ", "challenger ", "contender ", "entrant ", "participant "], "A": ["fan ", "spectator ", "ally ", "supporter "]}
+{"index": 89237, "D": "a person who disputes;  debater.", "S": ["aspirant", "candidate", "challenger", "contender", "entrant", "participant"], "A": ["fan", "spectator", "ally", "supporter"]}

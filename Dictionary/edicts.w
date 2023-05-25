@@ -1,1 +1,1 @@
-{"index": 95741, "D": "a decree issued by a sovereign or other authority.", "S": ["commandment ", "decree ", "directive ", "injunction ", "judgment ", "mandate ", "precept ", "proclamation ", "regulation ", "ruling ", "statute "], "A": ["request "]}
+{"index": 95741, "D": "a decree issued by a sovereign or other authority.", "S": ["commandment", "decree", "directive", "injunction", "judgment", "mandate", "precept", "proclamation", "regulation", "ruling", "statute"], "A": ["request"]}

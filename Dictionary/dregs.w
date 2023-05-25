@@ -1,1 +1,1 @@
-{"index": 92935, "D": "solid particles that tend to settle at the bottom of some liquids, such as wine or coffee", "S": ["deposits ", "dirt ", "lees ", "residue ", "settlings ", "slag ", "waste "], "A": []}
+{"index": 92935, "D": "solid particles that tend to settle at the bottom of some liquids, such as wine or coffee", "S": ["deposits", "dirt", "lees", "residue", "settlings", "slag", "waste"], "A": []}

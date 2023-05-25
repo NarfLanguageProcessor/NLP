@@ -1,1 +1,1 @@
-{"index": 231625, "D": "to allow to do something", "S": ["allowing ", "authorizing ", "granting ", "letting ", "sanctioning ", "tolerating "], "A": []}
+{"index": 231625, "D": "to allow to do something", "S": ["allowing", "authorizing", "granting", "letting", "sanctioning", "tolerating"], "A": []}

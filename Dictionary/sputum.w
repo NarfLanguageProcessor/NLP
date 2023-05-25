@@ -1,1 +1,1 @@
-{"index": 301573, "D": "matter, as saliva mixed with mucus or pus, expectorated from the lungs and respiratory passages.", "S": ["dribble ", "drool ", "froth ", "slaver ", "slobber ", "spittle "], "A": []}
+{"index": 301573, "D": "matter, as saliva mixed with mucus or pus, expectorated from the lungs and respiratory passages.", "S": ["dribble", "drool", "froth", "slaver", "slobber", "spittle"], "A": []}

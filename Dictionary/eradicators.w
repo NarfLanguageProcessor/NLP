@@ -1,1 +1,1 @@
-{"index": 103479, "D": "to remove or destroy utterly; extirpate", "S": ["bomber "], "A": ["author ", "creator ", "restorer "]}
+{"index": 103479, "D": "to remove or destroy utterly; extirpate", "S": ["bomber"], "A": ["author", "creator", "restorer"]}

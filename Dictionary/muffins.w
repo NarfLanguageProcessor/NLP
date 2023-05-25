@@ -1,1 +1,1 @@
-{"index": 194760, "D": "an individual cup-shaped quick bread made with wheat flour, cornmeal, or the like, and baked in a pan (muffin pan ) containing a series of cuplike forms.", "S": ["bread ", "doughnut ", "pastry ", "scone "], "A": []}
+{"index": 194760, "D": "an individual cup-shaped quick bread made with wheat flour, cornmeal, or the like, and baked in a pan (muffin pan ) containing a series of cuplike forms.", "S": ["bread", "doughnut", "pastry", "scone"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98050, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": ["adorn ", "bedeck ", "dress up ", "embroider ", "exaggerate ", "festoon ", "gild ", "overstate ", "spiff up "], "A": ["decrease ", "harm ", "lessen ", "reduce "]}
+{"index": 98050, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": ["adorn", "bedeck", "dress up", "embroider", "exaggerate", "festoon", "gild", "overstate", "spiff up"], "A": ["decrease", "harm", "lessen", "reduce"]}

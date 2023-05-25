@@ -1,1 +1,1 @@
-{"index": 329268, "D": "a court of justice.", "S": ["board ", "committee ", "judge ", "justice "], "A": []}
+{"index": 329268, "D": "a court of justice.", "S": ["board", "committee", "judge", "justice"], "A": []}

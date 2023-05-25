@@ -1,1 +1,1 @@
-{"index": 76687, "D": "to move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music.", "S": ["deferential ", "inferior ", "submissive "], "A": ["disobedient "]}
+{"index": 76687, "D": "to move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music.", "S": ["deferential", "inferior", "submissive"], "A": ["disobedient"]}

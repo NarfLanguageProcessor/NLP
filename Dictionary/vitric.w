@@ -1,1 +1,1 @@
-{"index": 360631, "D": "of or relating to glass.", "S": [], "A": []}
+{"index": 360631, "D": "of or relating to glass.", "S": ["glazed", "icy", "shiny", "sleek"], "A": ["dull", "rough"]}

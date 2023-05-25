@@ -1,1 +1,1 @@
-{"index": 355377, "D": "having the polish and suavity regarded as characteristic of sophisticated social life in major cities", "S": ["amiably ", "attentively ", "cordially ", "gently ", "graciously ", "kindly ", "respectfully ", "tactfully "], "A": []}
+{"index": 355377, "D": "having the polish and suavity regarded as characteristic of sophisticated social life in major cities", "S": ["amiably", "attentively", "cordially", "gently", "graciously", "kindly", "respectfully", "tactfully"], "A": []}

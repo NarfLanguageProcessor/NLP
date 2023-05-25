@@ -1,1 +1,1 @@
-{"index": 279002, "D": "minced pork, beef, or other meats, often combined, together with various added ingredients and seasonings, usually stuffed into a prepared intestine or other casing and often made in links.", "S": ["bratwurst "], "A": []}
+{"index": 279002, "D": "minced pork, beef, or other meats, often combined, together with various added ingredients and seasonings, usually stuffed into a prepared intestine or other casing and often made in links.", "S": ["bratwurst"], "A": []}

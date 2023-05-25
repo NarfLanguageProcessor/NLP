@@ -1,1 +1,1 @@
-{"index": 128290, "D": "a past participle of get. ", "S": ["accrued ", "acquired ", "cleared ", "gained ", "gathered ", "harvested ", "inherited ", "made ", "netted ", "obtained ", "reaped ", "received ", "taken "], "A": ["incomplete ", "unfinished ", "unfulfilled ", "unsubstantiated "]}
+{"index": 128290, "D": "a past participle of get. ", "S": ["accrued", "acquired", "cleared", "gained", "gathered", "harvested", "inherited", "made", "netted", "obtained", "reaped", "received", "taken"], "A": ["incomplete", "unfinished", "unfulfilled", "unsubstantiated"]}

@@ -1,1 +1,1 @@
-{"index": 110296, "D": "prophetic. ", "S": ["augural ", "divinatory ", "fatidical ", "mantic ", "oracular ", "prophetical ", "sibyllic ", "sibylline ", "vatic ", "vatical ", "vaticinal "], "A": []}
+{"index": 110296, "D": "prophetic. ", "S": ["augural", "divinatory", "fatidical", "mantic", "oracular", "prophetical", "sibyllic", "sibylline", "vatic", "vatical", "vaticinal"], "A": []}

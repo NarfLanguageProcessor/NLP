@@ -1,1 +1,1 @@
-{"index": 106441, "D": "to raise in rank, honor, power, character, quality, etc.; elevate", "S": ["breathtaking ", "exciting ", "inspiring ", "intoxicating ", "invigorating ", "rousing ", "stirring ", "thrilling ", "uplifting "], "A": ["boring ", "depressing ", "unstimulating "]}
+{"index": 106441, "D": "to raise in rank, honor, power, character, quality, etc.; elevate", "S": ["breathtaking", "exciting", "inspiring", "intoxicating", "invigorating", "rousing", "stirring", "thrilling", "uplifting"], "A": ["boring", "depressing", "unstimulating"]}

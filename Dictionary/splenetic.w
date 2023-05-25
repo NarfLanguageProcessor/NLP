@@ -1,1 +1,1 @@
-{"index": 300461, "D": "of the spleen;  splenic.", "S": ["belligerent ", "bitter ", "caustic ", "petulant ", "rancorous ", "testy "], "A": ["happy ", "helping ", "kind ", "mild ", "nice ", "pleasant "]}
+{"index": 300461, "D": "of the spleen;  splenic.", "S": ["belligerent", "bitter", "caustic", "petulant", "rancorous", "testy"], "A": ["happy", "helping", "kind", "mild", "nice", "pleasant"]}

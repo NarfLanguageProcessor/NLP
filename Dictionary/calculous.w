@@ -1,1 +1,1 @@
-{"index": 44970, "D": "characterized by the presence of calculus,  or stone.", "S": ["dusty ", "grainy ", "rough "], "A": ["afraid ", "cowardly ", "fine ", "smooth ", "spineless "]}
+{"index": 44970, "D": "characterized by the presence of calculus,  or stone.", "S": ["dusty", "grainy", "rough"], "A": ["afraid", "cowardly", "fine", "smooth", "spineless"]}

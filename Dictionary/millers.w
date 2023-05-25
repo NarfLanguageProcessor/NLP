@@ -1,1 +1,0 @@
-{"index": 187328, "D": "a person who owns or operates a mill,  especially a mill that grinds grain into flour.", "S": [], "A": []}

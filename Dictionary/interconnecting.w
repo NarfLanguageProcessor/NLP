@@ -1,1 +1,1 @@
-{"index": 154730, "D": "to connect  with one another.", "S": ["interrelated ", "intimate "], "A": []}
+{"index": 154730, "D": "to connect  with one another.", "S": ["interrelated", "intimate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 309920, "D": "to give way to superior force; yield", "S": ["dying "], "A": ["fresh ", "pure ", "untainted "]}
+{"index": 309920, "D": "to give way to superior force; yield", "S": ["dying"], "A": ["fresh", "pure", "untainted"]}

@@ -1,1 +1,1 @@
-{"index": 69377, "D": "a horn containing food, drink, etc., in endless supply, said to have been a horn of the goat Amalthaea.", "S": ["teeming "], "A": []}
+{"index": 69377, "D": "a horn containing food, drink, etc., in endless supply, said to have been a horn of the goat Amalthaea.", "S": ["teeming"], "A": []}

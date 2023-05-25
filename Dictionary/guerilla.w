@@ -1,1 +1,1 @@
-{"index": 130922, "D": "guerrilla. ", "S": ["convict ", "crook ", "culprit ", "felon ", "fugitive ", "gangster ", "hoodlum ", "hooligan ", "lawbreaker ", "mobster ", "offender ", "thug "], "A": ["police "]}
+{"index": 130922, "D": "guerrilla. ", "S": ["convict", "crook", "culprit", "felon", "fugitive", "gangster", "hoodlum", "hooligan", "lawbreaker", "mobster", "offender", "thug"], "A": ["police"]}

@@ -1,1 +1,1 @@
-{"index": 18717, "D": "Compare angel (def. 1). ", "S": ["cherub ", "guardian ", "seraph ", "spirit ", "sprite "], "A": ["demon ", "devil ", "fiend "]}
+{"index": 18717, "D": "Compare angel (def. 1). ", "S": ["cherub", "guardian", "seraph", "spirit", "sprite"], "A": ["demon", "devil", "fiend"]}

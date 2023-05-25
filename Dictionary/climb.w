@@ -1,1 +1,1 @@
-{"index": 59990, "D": "to go up or ascend, especially by using the hands and feet or feet only", "S": ["ascend ", "clamber ", "go up ", "mount ", "rise ", "scale ", "soar ", "top "], "A": ["decline ", "decrease ", "descend ", "drop ", "fall ", "lower ", "slump "]}
+{"index": 59990, "D": "to go up or ascend, especially by using the hands and feet or feet only", "S": ["ascend", "clamber", "go up", "mount", "rise", "scale", "soar", "top"], "A": ["decline", "decrease", "descend", "drop", "fall", "lower", "slump"]}

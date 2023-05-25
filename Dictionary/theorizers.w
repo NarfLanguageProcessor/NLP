@@ -1,1 +1,1 @@
-{"index": 321154, "D": "to form a theory  or theories. ", "S": ["idealist "], "A": []}
+{"index": 321154, "D": "to form a theory  or theories. ", "S": ["idealist"], "A": []}

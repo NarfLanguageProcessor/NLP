@@ -1,1 +1,1 @@
-{"index": 319741, "D": "the means by which the presence, quality, or genuineness of anything is determined; a means of trial.", "S": ["certain ", "conclusive ", "confirmable ", "deductible ", "demonstrable ", "undoubtable ", "verifiable "], "A": []}
+{"index": 319741, "D": "the means by which the presence, quality, or genuineness of anything is determined; a means of trial.", "S": ["certain", "conclusive", "confirmable", "deductible", "demonstrable", "undoubtable", "verifiable"], "A": []}

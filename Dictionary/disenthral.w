@@ -1,1 +1,1 @@
-{"index": 87986, "D": "disenthrall. ", "S": ["liberate ", "loosen "], "A": ["detain ", "hold ", "imprison ", "keep "]}
+{"index": 87986, "D": "disenthrall. ", "S": ["liberate", "loosen"], "A": ["detain", "hold", "imprison", "keep"]}

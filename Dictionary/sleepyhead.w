@@ -1,1 +1,1 @@
-{"index": 293896, "D": "a sleepy  person.", "S": ["lackadaisical ", "laid-back ", "languorous ", "lazy ", "leisurely ", "lethargic ", "sluggish ", "unhurried "], "A": ["active ", "energetic ", "hard-working ", "hurried ", "lively "]}
+{"index": 293896, "D": "a sleepy  person.", "S": ["lackadaisical", "laid-back", "languorous", "lazy", "leisurely", "lethargic", "sluggish", "unhurried"], "A": ["active", "energetic", "hard-working", "hurried", "lively"]}

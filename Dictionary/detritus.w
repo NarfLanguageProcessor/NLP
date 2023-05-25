@@ -1,1 +1,1 @@
-{"index": 83309, "D": "rock in small particles or other material worn or broken away from a mass, as by the action of water or glacial ice.", "S": ["rubble "], "A": []}
+{"index": 83309, "D": "rock in small particles or other material worn or broken away from a mass, as by the action of water or glacial ice.", "S": ["rubble"], "A": []}

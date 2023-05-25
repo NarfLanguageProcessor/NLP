@@ -1,1 +1,1 @@
-{"index": 243161, "D": "a superstructure at the stern of a vessel.", "S": ["excrement ", "feces ", "number two ", "poo ", "shit "], "A": []}
+{"index": 243161, "D": "a superstructure at the stern of a vessel.", "S": ["excrement", "feces", "number two", "poo", "shit"], "A": []}

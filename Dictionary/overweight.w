@@ -1,1 +1,1 @@
-{"index": 221819, "D": "weighing too much or more than is considered normal, proper, etc.", "S": ["corpulent ", "obese ", "pudgy "], "A": ["skinny ", "slight ", "thin ", "lean ", "slender "]}
+{"index": 221819, "D": "weighing too much or more than is considered normal, proper, etc.", "S": ["corpulent", "obese", "pudgy"], "A": ["skinny", "slight", "thin", "lean", "slender"]}

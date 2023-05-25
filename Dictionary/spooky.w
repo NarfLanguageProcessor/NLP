@@ -1,1 +1,0 @@
-{"index": 300845, "D": "like or befitting a spook  or ghost; suggestive of spooks. ", "S": ["chilling ", "creepy ", "eerie ", "ghostly ", "mysterious ", "ominous ", "scary ", "supernatural ", "uncanny ", "weird "], "A": ["natural ", "normal ", "usual "]}

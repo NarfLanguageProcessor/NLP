@@ -1,1 +1,1 @@
-{"index": 310958, "D": "the summer season.", "S": ["vacation "], "A": ["winter "]}
+{"index": 310958, "D": "the summer season.", "S": ["vacation"], "A": ["winter"]}

@@ -1,1 +1,1 @@
-{"index": 295715, "D": "to sleep; slumber; doze; nap", "S": ["dazed ", "lethargic "], "A": ["alert ", "awake ", "energized ", "lively "]}
+{"index": 295715, "D": "to sleep; slumber; doze; nap", "S": ["dazed", "lethargic"], "A": ["alert", "awake", "energized", "lively"]}

@@ -1,1 +1,1 @@
-{"index": 153890, "D": "the act of instigating;  incitement.", "S": ["incitement ", "urging "], "A": ["discouragement "]}
+{"index": 153890, "D": "the act of instigating;  incitement.", "S": ["incitement", "urging"], "A": ["discouragement"]}

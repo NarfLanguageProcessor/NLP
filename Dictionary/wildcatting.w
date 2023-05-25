@@ -1,1 +1,1 @@
-{"index": 365689, "D": "Compare lynx. ", "S": ["dare ", "hazard ", "play ", "plunge ", "venture "], "A": ["abstain ", "ignore ", "neglect "]}
+{"index": 365689, "D": "Compare lynx. ", "S": ["dare", "hazard", "play", "plunge", "venture"], "A": ["abstain", "ignore", "neglect"]}

@@ -1,1 +1,1 @@
-{"index": 82496, "D": "a region so arid because of little rainfall that it supports only sparse and widely spaced vegetation or no vegetation at all", "S": ["arid ", "desolate ", "lonely ", "uninhabited "], "A": ["inhabited ", "populated "]}
+{"index": 82496, "D": "a region so arid because of little rainfall that it supports only sparse and widely spaced vegetation or no vegetation at all", "S": ["arid", "desolate", "lonely", "uninhabited"], "A": ["inhabited", "populated"]}

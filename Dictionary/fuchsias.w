@@ -1,1 +1,1 @@
-{"index": 119729, "D": "a plant belonging to the genus Fuchsia, of the evening primrose family, including many varieties cultivated for their handsome drooping flowers.", "S": ["blush ", "coral ", "flush ", "rose ", "salmon "], "A": []}
+{"index": 119729, "D": "a plant belonging to the genus Fuchsia, of the evening primrose family, including many varieties cultivated for their handsome drooping flowers.", "S": ["blush", "coral", "flush", "rose", "salmon"], "A": []}

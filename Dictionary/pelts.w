@@ -1,1 +1,1 @@
-{"index": 229435, "D": "to attack or assail with repeated blows or with missiles.", "S": ["wool "], "A": []}
+{"index": 229435, "D": "to attack or assail with repeated blows or with missiles.", "S": ["wool"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 313021, "D": "capable of being supported;  endurable; maintainable.", "S": ["bearable ", "endurable ", "maintainable ", "sufferable ", "tolerable "], "A": []}
+{"index": 313021, "D": "capable of being supported;  endurable; maintainable.", "S": ["bearable", "endurable", "maintainable", "sufferable", "tolerable"], "A": []}

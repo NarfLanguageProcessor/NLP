@@ -1,1 +1,1 @@
-{"index": 35455, "D": "a sheet of smooth, hard material, especially dark slate, used in schools, lecture rooms, etc., for writing or drawing on with chalk.", "S": ["slate "], "A": []}
+{"index": 35455, "D": "a sheet of smooth, hard material, especially dark slate, used in schools, lecture rooms, etc., for writing or drawing on with chalk.", "S": ["slate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 133907, "D": "a person who plays the harp. ", "S": ["troubadour "], "A": []}
+{"index": 133907, "D": "a person who plays the harp. ", "S": ["troubadour"], "A": []}

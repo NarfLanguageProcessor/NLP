@@ -1,1 +1,1 @@
-{"index": 122314, "D": "an article of clothing for holding up a stocking or sock, usually an elastic band around the leg or an elastic strap hanging from a girdle or other undergarment.", "S": ["bands ", "braces "], "A": []}
+{"index": 122314, "D": "an article of clothing for holding up a stocking or sock, usually an elastic band around the leg or an elastic strap hanging from a girdle or other undergarment.", "S": ["bands", "braces"], "A": []}

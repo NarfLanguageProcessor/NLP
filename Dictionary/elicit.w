@@ -1,1 +1,1 @@
-{"index": 97541, "D": "to draw or bring out or forth; educe; evoke", "S": ["bring out ", "evoke ", "extort ", "extract ", "obtain ", "wrest ", "wring "], "A": ["disregard ", "ignore ", "miss ", "neglect ", "overlook "]}
+{"index": 97541, "D": "to draw or bring out or forth; educe; evoke", "S": ["bring out", "evoke", "extort", "extract", "obtain", "wrest", "wring"], "A": ["disregard", "ignore", "miss", "neglect", "overlook"]}

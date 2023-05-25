@@ -1,1 +1,1 @@
-{"index": 305760, "D": "the quality or condition of being strange. ", "S": ["newness ", "weirdness "], "A": ["normality ", "standard ", "usualness "]}
+{"index": 305760, "D": "the quality or condition of being strange. ", "S": ["newness", "weirdness"], "A": ["normality", "standard", "usualness"]}

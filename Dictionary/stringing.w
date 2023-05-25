@@ -1,1 +1,0 @@
-{"index": 306345, "D": "a narrow band of inlay, as in a piece of furniture.", "S": ["accommodate ", "adapt ", "adjust ", "attune ", "conform ", "coordinate ", "dial ", "fix ", "harmonize ", "integrate ", "modulate ", "pitch ", "proportion ", "reconcile ", "regulate ", "set ", "string ", "tighten "], "A": ["break ", "destroy ", "harm ", "hurt "]}

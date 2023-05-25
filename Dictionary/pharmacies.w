@@ -1,1 +1,1 @@
-{"index": 233112, "D": "the art and science of preparing and dispensing drugs and medicines.", "S": ["apothecary ", "dispensary ", "drugstore "], "A": []}
+{"index": 233112, "D": "the art and science of preparing and dispensing drugs and medicines.", "S": ["apothecary", "dispensary", "drugstore"], "A": []}

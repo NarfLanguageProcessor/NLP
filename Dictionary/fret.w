@@ -1,1 +1,1 @@
-{"index": 118839, "D": "to feel or express worry, annoyance, discontent, or the like", "S": ["agonize ", "bother ", "brood ", "carp ", "chafe ", "fume ", "fuss ", "grieve "], "A": ["be happy ", "ignore ", "please ", "delight ", "make happy "]}
+{"index": 118839, "D": "to feel or express worry, annoyance, discontent, or the like", "S": ["agonize", "bother", "brood", "carp", "chafe", "fume", "fuss", "grieve"], "A": ["be happy", "ignore", "please", "delight", "make happy"]}

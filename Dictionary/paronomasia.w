@@ -1,1 +1,1 @@
-{"index": 226750, "D": "the use of a word in different senses or the use of words similar in sound to achieve a specific effect, as humor or a dual meaning; punning.", "S": ["double entendre ", "joke ", "quip "], "A": []}
+{"index": 226750, "D": "the use of a word in different senses or the use of words similar in sound to achieve a specific effect, as humor or a dual meaning; punning.", "S": ["double entendre", "joke", "quip"], "A": []}

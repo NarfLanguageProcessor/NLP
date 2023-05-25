@@ -1,1 +1,1 @@
-{"index": 54381, "D": "(of a person) feeling cold", "S": ["bitter ", "bleak ", "brisk ", "cool ", "crisp ", "frigid ", "frosty ", "frozen ", "icy ", "intense ", "raw ", "snowy ", "wintry "], "A": ["hot ", "mild ", "nice ", "pleasant ", "temperate ", "warm "]}
+{"index": 54381, "D": "(of a person) feeling cold", "S": ["bitter", "bleak", "brisk", "cool", "crisp", "frigid", "frosty", "frozen", "icy", "intense", "raw", "snowy", "wintry"], "A": ["hot", "mild", "nice", "pleasant", "temperate", "warm"]}

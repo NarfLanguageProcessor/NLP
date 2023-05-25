@@ -1,1 +1,1 @@
-{"index": 306899, "D": "a simple past tense and past participle of sting. ", "S": ["resentful "], "A": ["delighted ", "good ", "happy ", "pleased ", "well "]}
+{"index": 306899, "D": "a simple past tense and past participle of sting. ", "S": ["resentful"], "A": ["delighted", "good", "happy", "pleased", "well"]}

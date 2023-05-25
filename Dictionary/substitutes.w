@@ -1,1 +1,0 @@
-{"index": 309335, "D": "a person or thing acting or serving in place of another.", "S": ["JV ", "bench ", "benchwarmers ", "junior varsity ", "reserves ", "second team "], "A": ["first string "]}

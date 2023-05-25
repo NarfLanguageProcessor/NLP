@@ -1,1 +1,1 @@
-{"index": 299013, "D": "a person or thing that speeds. ", "S": ["fast ", "jiffy ", "quickly ", "rapidly ", "speed ", "swiftly "], "A": []}
+{"index": 299013, "D": "a person or thing that speeds. ", "S": ["fast", "jiffy", "quickly", "rapidly", "speed", "swiftly"], "A": []}

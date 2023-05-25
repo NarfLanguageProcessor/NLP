@@ -1,1 +1,1 @@
-{"index": 303678, "D": "the art of writing in shorthand.", "S": ["accounting ", "bookkeeping ", "clerkish ", "clerkly ", "office ", "pink collar ", "scribal ", "subordinate ", "typing ", "white collar ", "written "], "A": []}
+{"index": 303678, "D": "the art of writing in shorthand.", "S": ["accounting", "bookkeeping", "clerkish", "clerkly", "office", "pink collar", "scribal", "subordinate", "typing", "white collar", "written"], "A": []}

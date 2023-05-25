@@ -1,1 +1,1 @@
-{"index": 40121, "D": "a person who fights angrily, noisily, and roughly, often under the influence of alcohol", "S": ["assailant ", "boxer ", "champion ", "combatant ", "mercenary ", "militant ", "opponent ", "soldier ", "tanker ", "warlord ", "warrior "], "A": ["peacemaker "]}
+{"index": 40121, "D": "a person who fights angrily, noisily, and roughly, often under the influence of alcohol", "S": ["assailant", "boxer", "champion", "combatant", "mercenary", "militant", "opponent", "soldier", "tanker", "warlord", "warrior"], "A": ["peacemaker"]}

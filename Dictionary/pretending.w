@@ -1,1 +1,1 @@
-{"index": 249877, "D": "to cause or attempt to cause (what is not so) to seem so", "S": ["acting ", "bluffing ", "cheating ", "concealment ", "counterfeiting ", "covering ", "dissembling ", "dissimulation ", "masking ", "pretense ", "simulation "], "A": []}
+{"index": 249877, "D": "to cause or attempt to cause (what is not so) to seem so", "S": ["acting", "bluffing", "cheating", "concealment", "counterfeiting", "covering", "dissembling", "dissimulation", "masking", "pretense", "simulation"], "A": []}

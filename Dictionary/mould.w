@@ -1,1 +1,1 @@
-{"index": 194161, "D": "a shaped cavity used to give a definite form to fluid or plastic material", "S": ["blight ", "mold "], "A": []}
+{"index": 194161, "D": "a shaped cavity used to give a definite form to fluid or plastic material", "S": ["blight", "mold"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 353, "D": "departing from the right, normal, or usual course.", "S": ["aberrance ", "aberrancy ", "aberrant ", "aberration ", "divagation ", "divergence ", "maverick ", "straggler ", "waif "], "A": []}
+{"index": 353, "D": "departing from the right, normal, or usual course.", "S": ["aberrance", "aberrancy", "aberrant", "aberration", "divagation", "divergence", "maverick", "straggler", "waif"], "A": []}

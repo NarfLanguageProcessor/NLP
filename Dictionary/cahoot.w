@@ -1,1 +1,1 @@
-{"index": 44551, "D": "Also go in cahoot with, go in cahoots .", "S": ["alliance ", "collusion ", "league ", "partnership "], "A": []}
+{"index": 44551, "D": "Also go in cahoot with, go in cahoots .", "S": ["alliance", "collusion", "league", "partnership"], "A": []}

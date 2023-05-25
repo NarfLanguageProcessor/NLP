@@ -1,1 +1,1 @@
-{"index": 116185, "D": "the basis or foundation on which anything is established.", "S": ["foothold "], "A": ["top "]}
+{"index": 116185, "D": "the basis or foundation on which anything is established.", "S": ["foothold"], "A": ["top"]}

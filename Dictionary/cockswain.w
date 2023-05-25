@@ -1,1 +1,1 @@
-{"index": 61589, "D": "a less common variant of coxswain. ", "S": ["mariner "], "A": []}
+{"index": 61589, "D": "a less common variant of coxswain. ", "S": ["mariner"], "A": []}

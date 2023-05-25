@@ -1,1 +1,1 @@
-{"index": 72461, "D": "an animal, especially a nonhuman", "S": ["animal ", "critter ", "fellow ", "individual ", "living thing ", "man ", "person ", "soul ", "woman "], "A": ["plant "]}
+{"index": 72461, "D": "an animal, especially a nonhuman", "S": ["animal", "critter", "fellow", "individual", "living thing", "man", "person", "soul", "woman"], "A": ["plant"]}

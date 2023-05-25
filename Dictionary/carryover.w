@@ -1,1 +1,1 @@
-{"index": 48534, "D": "that which is carried over, postponed, or extended to a later time, account, etc.", "S": ["rest "], "A": ["lack ", "lot ", "need ", "possessions ", "want ", "whole "]}
+{"index": 48534, "D": "that which is carried over, postponed, or extended to a later time, account, etc.", "S": ["rest"], "A": ["lack", "lot", "need", "possessions", "want", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 88409, "D": "to cleanse (rooms, wounds, clothing, etc.) of infection; destroy disease germs in.", "S": ["aseptic ", "hygienic ", "pure ", "wholesome "], "A": ["contaminated ", "dirty ", "impure "]}
+{"index": 88409, "D": "to cleanse (rooms, wounds, clothing, etc.) of infection; destroy disease germs in.", "S": ["aseptic", "hygienic", "pure", "wholesome"], "A": ["contaminated", "dirty", "impure"]}

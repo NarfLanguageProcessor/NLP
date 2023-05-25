@@ -1,1 +1,1 @@
-{"index": 54842, "D": "to make a characteristic short, sharp sound, as small birds and certain insects.", "S": ["trill ", "warble "], "A": ["conceal "]}
+{"index": 54842, "D": "to make a characteristic short, sharp sound, as small birds and certain insects.", "S": ["trill", "warble"], "A": ["conceal"]}

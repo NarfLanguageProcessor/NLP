@@ -1,1 +1,1 @@
-{"index": 59290, "D": "the red table wine produced in the Bordeaux region of France", "S": ["blooming ", "cerise ", "crimson "], "A": []}
+{"index": 59290, "D": "the red table wine produced in the Bordeaux region of France", "S": ["blooming", "cerise", "crimson"], "A": []}

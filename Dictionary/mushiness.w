@@ -1,1 +1,1 @@
-{"index": 195966, "D": "resembling mush;  pulpy.", "S": ["bathos ", "mawkishness ", "melodrama ", "nostalgia ", "reminiscence ", "sentiment ", "sentimentalism ", "triteness "], "A": []}
+{"index": 195966, "D": "resembling mush;  pulpy.", "S": ["bathos", "mawkishness", "melodrama", "nostalgia", "reminiscence", "sentiment", "sentimentalism", "triteness"], "A": []}

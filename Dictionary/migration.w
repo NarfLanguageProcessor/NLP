@@ -1,1 +1,1 @@
-{"index": 187041, "D": "the process or act of migrating. ", "S": ["exodus ", "flight ", "journey ", "movement ", "shift ", "transfer "], "A": ["idleness ", "inaction "]}
+{"index": 187041, "D": "the process or act of migrating. ", "S": ["exodus", "flight", "journey", "movement", "shift", "transfer"], "A": ["idleness", "inaction"]}

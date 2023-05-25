@@ -1,1 +1,1 @@
-{"index": 238528, "D": "to appease or pacify, especially by concessions or conciliatory gestures", "S": ["reassured ", "relaxed ", "satisfied "], "A": ["distraught ", "sad ", "worried "]}
+{"index": 238528, "D": "to appease or pacify, especially by concessions or conciliatory gestures", "S": ["reassured", "relaxed", "satisfied"], "A": ["distraught", "sad", "worried"]}

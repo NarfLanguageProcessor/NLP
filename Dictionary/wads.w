@@ -1,1 +1,1 @@
-{"index": 361751, "D": "a small mass, lump, or ball of anything", "S": ["bundle ", "chunk ", "clump ", "lump ", "packet "], "A": ["opening ", "poverty "]}
+{"index": 361751, "D": "a small mass, lump, or ball of anything", "S": ["bundle", "chunk", "clump", "lump", "packet"], "A": ["opening", "poverty"]}

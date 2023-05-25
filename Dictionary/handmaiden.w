@@ -1,1 +1,1 @@
-{"index": 133232, "D": "logic is the handmaid of philosophy", "S": ["au pair ", "chambermaid ", "girl ", "housemaid "], "A": []}
+{"index": 133232, "D": "logic is the handmaid of philosophy", "S": ["au pair", "chambermaid", "girl", "housemaid"], "A": []}

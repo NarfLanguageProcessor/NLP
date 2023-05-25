@@ -1,1 +1,1 @@
-{"index": 45230, "D": "gymnastic exercises designed to develop physical health and vigor, usually performed with little or no special apparatus.", "S": ["constitutional ", "daily workout ", "exercise ", "exercising ", "physical jerks ", "warmup ", "workout "], "A": []}
+{"index": 45230, "D": "gymnastic exercises designed to develop physical health and vigor, usually performed with little or no special apparatus.", "S": ["constitutional", "daily workout", "exercise", "exercising", "physical jerks", "warmup", "workout"], "A": []}

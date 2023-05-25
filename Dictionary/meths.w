@@ -1,1 +1,1 @@
-{"index": 185315, "D": "mainly British, Australian and NZ an informal name for methylated spirits", "S": ["Meth ", "Methedrine ", "amphetamine ", "analeptic ", "bennie ", "crank ", "restorative ", "speed ", "stimulant ", "tonic ", "upper ", "uppie "], "A": ["downer ", "sleeping pill "]}
+{"index": 185315, "D": "mainly British, Australian and NZ an informal name for methylated spirits", "S": ["Meth", "Methedrine", "amphetamine", "analeptic", "bennie", "crank", "restorative", "speed", "stimulant", "tonic", "upper", "uppie"], "A": ["downer", "sleeping pill"]}

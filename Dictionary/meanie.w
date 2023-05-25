@@ -1,1 +1,1 @@
-{"index": 181753, "D": "a mean, small-minded, petty, or selfish person", "S": ["beast ", "brute ", "bully ", "meany ", "tyrant "], "A": []}
+{"index": 181753, "D": "a mean, small-minded, petty, or selfish person", "S": ["beast", "brute", "bully", "meany", "tyrant"], "A": []}

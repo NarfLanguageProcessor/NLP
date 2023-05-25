@@ -1,1 +1,1 @@
-{"index": 176709, "D": "the act or process of macerating. ", "S": ["susurration ", "undertone "], "A": []}
+{"index": 176709, "D": "the act or process of macerating. ", "S": ["susurration", "undertone"], "A": []}

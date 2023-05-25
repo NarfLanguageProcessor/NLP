@@ -1,1 +1,1 @@
-{"index": 256791, "D": "the state or period of being a pupil;  tutelage.", "S": ["adolescence ", "babyhood ", "cradle ", "immaturity ", "infancy ", "juvenility ", "minority ", "nonage ", "nursery ", "puberty ", "schooldays ", "teens ", "youth "], "A": ["adulthood "]}
+{"index": 256791, "D": "the state or period of being a pupil;  tutelage.", "S": ["adolescence", "babyhood", "cradle", "immaturity", "infancy", "juvenility", "minority", "nonage", "nursery", "puberty", "schooldays", "teens", "youth"], "A": ["adulthood"]}

@@ -1,1 +1,1 @@
-{"index": 285356, "D": "any of the faculties, as sight, hearing, smell, taste, or touch, by which humans and animals perceive stimuli originating from outside or inside the body", "S": ["common sense ", "faculties ", "innate common sense ", "intellectual gifts ", "nous ", "wits "], "A": []}
+{"index": 285356, "D": "any of the faculties, as sight, hearing, smell, taste, or touch, by which humans and animals perceive stimuli originating from outside or inside the body", "S": ["common sense", "faculties", "innate common sense", "intellectual gifts", "nous", "wits"], "A": []}

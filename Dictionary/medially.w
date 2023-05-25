@@ -1,1 +1,1 @@
-{"index": 182008, "D": "situated in or pertaining to the middle; median; intermediate.", "S": ["betwixt "], "A": []}
+{"index": 182008, "D": "situated in or pertaining to the middle; median; intermediate.", "S": ["betwixt"], "A": []}

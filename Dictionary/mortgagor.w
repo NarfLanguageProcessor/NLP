@@ -1,1 +1,1 @@
-{"index": 193720, "D": "a person who mortgages  property.", "S": ["borrower ", "defaulter "], "A": ["creditor ", "lender ", "mortgagee "]}
+{"index": 193720, "D": "a person who mortgages  property.", "S": ["borrower", "defaulter"], "A": ["creditor", "lender", "mortgagee"]}

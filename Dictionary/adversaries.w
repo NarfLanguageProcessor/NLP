@@ -1,1 +1,1 @@
-{"index": 4642, "D": "a person, group, or force that opposes or attacks; opponent; enemy; foe.", "S": ["antagonist ", "attacker ", "competitor ", "enemy ", "foe ", "rival "], "A": ["ally ", "friend "]}
+{"index": 4642, "D": "a person, group, or force that opposes or attacks; opponent; enemy; foe.", "S": ["antagonist", "attacker", "competitor", "enemy", "foe", "rival"], "A": ["ally", "friend"]}

@@ -1,1 +1,1 @@
-{"index": 88444, "D": "to disinter.", "S": ["disclose ", "resurrect ", "unearth "], "A": ["bury "]}
+{"index": 88444, "D": "to disinter.", "S": ["disclose", "resurrect", "unearth"], "A": ["bury"]}

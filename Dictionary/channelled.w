@@ -1,1 +1,1 @@
-{"index": 52515, "D": "the bed of a stream, river, or other waterway.", "S": ["crumpled "], "A": ["flat ", "smooth "]}
+{"index": 52515, "D": "the bed of a stream, river, or other waterway.", "S": ["crumpled"], "A": ["flat", "smooth"]}

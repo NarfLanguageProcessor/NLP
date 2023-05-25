@@ -1,1 +1,1 @@
-{"index": 301350, "D": "a small quantity or number scattered here and there.", "S": ["scattering ", "smattering "], "A": ["lot "]}
+{"index": 301350, "D": "a small quantity or number scattered here and there.", "S": ["scattering", "smattering"], "A": ["lot"]}

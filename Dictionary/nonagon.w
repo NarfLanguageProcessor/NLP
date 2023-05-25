@@ -1,1 +1,1 @@
-{"index": 201215, "D": "a polygon having nine angles and nine sides.", "S": ["ninth "], "A": []}
+{"index": 201215, "D": "a polygon having nine angles and nine sides.", "S": ["ninth"], "A": []}

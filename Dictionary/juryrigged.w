@@ -1,1 +1,1 @@
-{"index": 162461, "D": "a temporary rig to replace a permanent rig that has been disabled, lost overboard, etc.", "S": ["haphazard ", "hasty ", "lax ", "negligent ", "slapdash ", "slipshod ", "sloppy "], "A": ["meticulous ", "painstaking ", "thorough "]}
+{"index": 162461, "D": "a temporary rig to replace a permanent rig that has been disabled, lost overboard, etc.", "S": ["haphazard", "hasty", "lax", "negligent", "slapdash", "slipshod", "sloppy"], "A": ["meticulous", "painstaking", "thorough"]}

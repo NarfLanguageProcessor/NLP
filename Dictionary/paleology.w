@@ -1,1 +1,1 @@
-{"index": 223742, "D": "the study of antiquities.", "S": ["excavation ", "paleontology "], "A": []}
+{"index": 223742, "D": "the study of antiquities.", "S": ["excavation", "paleontology"], "A": []}

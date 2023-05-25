@@ -1,1 +1,1 @@
-{"index": 361591, "D": "used to promote the healing of wounds, as herbs or other remedies.", "S": ["corrective ", "healthful ", "invigorating ", "medicinal ", "remedial ", "salutary ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}
+{"index": 361591, "D": "used to promote the healing of wounds, as herbs or other remedies.", "S": ["corrective", "healthful", "invigorating", "medicinal", "remedial", "salutary", "therapeutic"], "A": ["damaging", "harmful", "hurtful", "injurious"]}

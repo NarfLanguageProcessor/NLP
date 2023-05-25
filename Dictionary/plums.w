@@ -1,1 +1,1 @@
-{"index": 240490, "D": "the drupaceous fruit of any of several trees belonging to the genus Prunus, of the rose family, having an oblong stone.", "S": ["perpendicular ", "vertical "], "A": ["horizontal ", "prone "]}
+{"index": 240490, "D": "the drupaceous fruit of any of several trees belonging to the genus Prunus, of the rose family, having an oblong stone.", "S": ["perpendicular", "vertical"], "A": ["horizontal", "prone"]}

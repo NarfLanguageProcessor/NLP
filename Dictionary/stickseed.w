@@ -1,1 +1,0 @@
-{"index": 304328, "D": "any of the weedy plants belonging to the genus Lappula, having prickly seeds  that adhere to clothing.", "S": [], "A": []}

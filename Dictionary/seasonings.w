@@ -1,1 +1,1 @@
-{"index": 282600, "D": "salt or an herb, spice, or the like, for heightening or improving the flavor of food.", "S": ["condiment ", "dressing ", "gravy ", "herb ", "pepper ", "salt ", "sauce ", "spice "], "A": []}
+{"index": 282600, "D": "salt or an herb, spice, or the like, for heightening or improving the flavor of food.", "S": ["condiment", "dressing", "gravy", "herb", "pepper", "salt", "sauce", "spice"], "A": []}

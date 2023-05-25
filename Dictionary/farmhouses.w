@@ -1,1 +1,1 @@
-{"index": 109986, "D": "a house  on a farm,  especially the one used by the farmer and farmer's family.", "S": ["cattle ranch "], "A": []}
+{"index": 109986, "D": "a house  on a farm,  especially the one used by the farmer and farmer's family.", "S": ["cattle ranch"], "A": []}

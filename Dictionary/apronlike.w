@@ -1,0 +1,1 @@
+{"index": 18089, "D": "a garment covering part of the front of the body and tied at the waist, for protecting the wearer's clothing", "S": [], "A": []}

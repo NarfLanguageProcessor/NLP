@@ -1,1 +1,1 @@
-{"index": 116418, "D": "an instrument, as pincers or tongs, for seizing and holding objects, as in surgical operations.", "S": ["pliers ", "tongs "], "A": []}
+{"index": 116418, "D": "an instrument, as pincers or tongs, for seizing and holding objects, as in surgical operations.", "S": ["pliers", "tongs"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 215401, "D": "to undergo osmosis. ", "S": ["assimilation ", "diffusion ", "passage "], "A": []}
+{"index": 215401, "D": "to undergo osmosis. ", "S": ["assimilation", "diffusion", "passage"], "A": []}

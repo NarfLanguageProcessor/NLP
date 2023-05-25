@@ -1,1 +1,1 @@
-{"index": 62905, "D": "formed by collection. ", "S": ["concerted ", "corporate ", "cumulative ", "mutual ", "shared ", "unified "], "A": ["separate ", "unshared ", "disjoint "]}
+{"index": 62905, "D": "formed by collection. ", "S": ["concerted", "corporate", "cumulative", "mutual", "shared", "unified"], "A": ["separate", "unshared", "disjoint"]}

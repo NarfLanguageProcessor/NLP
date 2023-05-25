@@ -1,1 +1,1 @@
-{"index": 290154, "D": "in a way or as a fact that is important and deserves attention", "S": ["actually ", "approximately ", "necessarily ", "originally ", "permanently ", "quite ", "really ", "substantially ", "truly ", "typically ", "virtually "], "A": ["doubtfully "]}
+{"index": 290154, "D": "in a way or as a fact that is important and deserves attention", "S": ["actually", "approximately", "necessarily", "originally", "permanently", "quite", "really", "substantially", "truly", "typically", "virtually"], "A": ["doubtfully"]}

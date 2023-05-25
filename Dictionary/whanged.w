@@ -1,1 +1,1 @@
-{"index": 364393, "D": "a resounding blow.", "S": ["bat ", "batter ", "beat ", "belt ", "blast ", "kick ", "knock ", "knock out ", "nail ", "pop ", "punch ", "slap ", "smack ", "whack "], "A": []}
+{"index": 364393, "D": "a resounding blow.", "S": ["bat", "batter", "beat", "belt", "blast", "kick", "knock", "knock out", "nail", "pop", "punch", "slap", "smack", "whack"], "A": []}

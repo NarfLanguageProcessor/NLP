@@ -1,1 +1,1 @@
-{"index": 353313, "D": "(of an illness, etc) not having been dealt with", "S": ["basic ", "coarse ", "crude ", "fresh ", "natural ", "organic ", "rough ", "uncooked ", "undercooked ", "unprocessed "], "A": ["cooked ", "done ", "well-done "]}
+{"index": 353313, "D": "(of an illness, etc) not having been dealt with", "S": ["basic", "coarse", "crude", "fresh", "natural", "organic", "rough", "uncooked", "undercooked", "unprocessed"], "A": ["cooked", "done", "well-done"]}

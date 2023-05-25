@@ -1,1 +1,1 @@
-{"index": 133285, "D": "in a handsome  manner; pleasingly; successfully.", "S": ["amply ", "generously ", "lavishly ", "liberally ", "richly "], "A": ["insignificantly ", "poorly "]}
+{"index": 133285, "D": "in a handsome  manner; pleasingly; successfully.", "S": ["amply", "generously", "lavishly", "liberally", "richly"], "A": ["insignificantly", "poorly"]}

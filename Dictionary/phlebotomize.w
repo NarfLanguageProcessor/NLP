@@ -1,1 +1,1 @@
-{"index": 234470, "D": "to subject to phlebotomy;  bleed.", "S": ["drain ", "ooze ", "trickle ", "weep "], "A": []}
+{"index": 234470, "D": "to subject to phlebotomy;  bleed.", "S": ["drain", "ooze", "trickle", "weep"], "A": []}

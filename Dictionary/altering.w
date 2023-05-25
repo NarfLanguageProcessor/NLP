@@ -1,1 +1,1 @@
-{"index": 9468, "D": "to make different in some particular, as size, style, course, or the like; modify", "S": ["changeable ", "developing ", "dynamic ", "growing ", "uncertain ", "unstable "], "A": ["certain ", "stable ", "steady ", "sure "]}
+{"index": 9468, "D": "to make different in some particular, as size, style, course, or the like; modify", "S": ["changeable", "developing", "dynamic", "growing", "uncertain", "unstable"], "A": ["certain", "stable", "steady", "sure"]}

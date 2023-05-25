@@ -1,1 +1,1 @@
-{"index": 53386, "D": "a comprehensive physical examination", "S": ["inspection ", "scan "], "A": []}
+{"index": 53386, "D": "a comprehensive physical examination", "S": ["inspection", "scan"], "A": []}

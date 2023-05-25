@@ -1,1 +1,1 @@
-{"index": 59416, "D": "the act of classifying. ", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "coordination ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}
+{"index": 59416, "D": "the act of classifying. ", "S": ["allocation", "allotment", "analysis", "arrangement", "coordination", "designation", "distribution", "grade", "regulation"], "A": ["disorganization", "keeping", "retention"]}

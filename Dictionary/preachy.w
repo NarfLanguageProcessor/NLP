@@ -1,1 +1,1 @@
-{"index": 245461, "D": "tediously or pretentiously didactic.", "S": ["moralizing ", "pontifical ", "sententious "], "A": []}
+{"index": 245461, "D": "tediously or pretentiously didactic.", "S": ["moralizing", "pontifical", "sententious"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 44406, "D": "a legless, wormlike tropical amphibian of the order Gymnophiona (formerly Apoda), spending most of its life underground and usually almost blind.", "S": ["frog ", "salamander ", "toad "], "A": []}
+{"index": 44406, "D": "a legless, wormlike tropical amphibian of the order Gymnophiona (formerly Apoda), spending most of its life underground and usually almost blind.", "S": ["frog", "salamander", "toad"], "A": []}

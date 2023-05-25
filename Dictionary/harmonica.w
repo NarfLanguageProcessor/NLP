@@ -1,1 +1,1 @@
-{"index": 133835, "D": "a musical wind instrument consisting of a small rectangular case containing a set of metal reeds connected to a row of holes, over which the player places the mouth and exhales and inhales to produce the tones.", "S": ["harp "], "A": []}
+{"index": 133835, "D": "a musical wind instrument consisting of a small rectangular case containing a set of metal reeds connected to a row of holes, over which the player places the mouth and exhales and inhales to produce the tones.", "S": ["harp"], "A": []}

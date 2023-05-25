@@ -1,1 +1,1 @@
-{"index": 64512, "D": "to recompense for something", "S": ["atone ", "pay ", "recoup ", "refund ", "reimburse ", "repay ", "reward ", "satisfy ", "take care of "], "A": ["lose ", "penalize ", "take "]}
+{"index": 64512, "D": "to recompense for something", "S": ["atone", "pay", "recoup", "refund", "reimburse", "repay", "reward", "satisfy", "take care of"], "A": ["lose", "penalize", "take"]}

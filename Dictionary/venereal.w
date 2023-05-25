@@ -1,1 +1,1 @@
-{"index": 358032, "D": "arising from, connected with, or transmitted through sexual intercourse, as an infection.", "S": ["earthly ", "lewd ", "sensuous ", "wanton "], "A": ["clean ", "decent ", "moral "]}
+{"index": 358032, "D": "arising from, connected with, or transmitted through sexual intercourse, as an infection.", "S": ["earthly", "lewd", "sensuous", "wanton"], "A": ["clean", "decent", "moral"]}

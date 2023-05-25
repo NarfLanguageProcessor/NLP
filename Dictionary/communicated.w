@@ -1,1 +1,1 @@
-{"index": 64243, "D": "to impart knowledge of; make known", "S": ["declared ", "disclosed ", "issued ", "released ", "reported "], "A": ["hidden ", "suppressed ", "unannounced "]}
+{"index": 64243, "D": "to impart knowledge of; make known", "S": ["declared", "disclosed", "issued", "released", "reported"], "A": ["hidden", "suppressed", "unannounced"]}

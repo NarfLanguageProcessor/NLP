@@ -1,1 +1,1 @@
-{"index": 13964, "D": "liable to be asked to give account; responsible", "S": ["liability "], "A": []}
+{"index": 13964, "D": "liable to be asked to give account; responsible", "S": ["liability"], "A": []}

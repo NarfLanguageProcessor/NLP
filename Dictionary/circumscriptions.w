@@ -1,1 +1,1 @@
-{"index": 58227, "D": "an act or instance of circumscribing. ", "S": ["check ", "confinement ", "constraint ", "curb ", "curbing ", "fetter ", "fetters ", "limit ", "limitation ", "restraint ", "trammel ", "trammels "], "A": ["allowance ", "freedom ", "infinity ", "liberation ", "permission "]}
+{"index": 58227, "D": "an act or instance of circumscribing. ", "S": ["check", "confinement", "constraint", "curb", "curbing", "fetter", "fetters", "limit", "limitation", "restraint", "trammel", "trammels"], "A": ["allowance", "freedom", "infinity", "liberation", "permission"]}

@@ -1,1 +1,1 @@
-{"index": 167665, "D": "to feel or express sorrow or regret for", "S": ["bemoan ", "deplore ", "regret "], "A": ["be happy ", "relieve "]}
+{"index": 167665, "D": "to feel or express sorrow or regret for", "S": ["bemoan", "deplore", "regret"], "A": ["be happy", "relieve"]}

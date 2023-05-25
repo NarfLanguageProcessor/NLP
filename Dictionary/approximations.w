@@ -1,0 +1,1 @@
+{"index": 18039, "D": "a guess or estimate", "S": ["alikeness", "likeness", "nearness", "resemblance", "similarity"], "A": ["difference", "dissimilarity", "unlikeness"]}

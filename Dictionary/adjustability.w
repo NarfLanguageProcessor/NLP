@@ -1,0 +1,1 @@
+{"index": 4064, "D": "the quality of being adjustable", "S": ["flexibility", "versatility"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 181427, "D": "to talk in a rambling, foolish, or meaningless way.", "S": ["deviate ", "drift ", "ramble ", "roam ", "stray ", "wander "], "A": ["stay "]}
+{"index": 181427, "D": "to talk in a rambling, foolish, or meaningless way.", "S": ["deviate", "drift", "ramble", "roam", "stray", "wander"], "A": ["stay"]}

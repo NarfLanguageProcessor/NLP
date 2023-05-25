@@ -1,1 +1,1 @@
-{"index": 341952, "D": "not fair; not conforming to approved standards, as of justice, honesty, or ethics", "S": ["illegally ", "unreasonably "], "A": ["clean ", "cleanly ", "fairly ", "honestly ", "justly ", "reasonably "]}
+{"index": 341952, "D": "not fair; not conforming to approved standards, as of justice, honesty, or ethics", "S": ["illegally", "unreasonably"], "A": ["clean", "cleanly", "fairly", "honestly", "justly", "reasonably"]}

@@ -1,1 +1,1 @@
-{"index": 276668, "D": "sagging  or tending to sag", "S": ["bent ", "drooping ", "flabby ", "floppy ", "languid ", "languorous ", "lassitudinous ", "pendulous ", "sagging ", "slouchy ", "stooped ", "wilting "], "A": ["full ", "inflated ", "raised "]}
+{"index": 276668, "D": "sagging  or tending to sag", "S": ["bent", "drooping", "flabby", "floppy", "languid", "languorous", "lassitudinous", "pendulous", "sagging", "slouchy", "stooped", "wilting"], "A": ["full", "inflated", "raised"]}

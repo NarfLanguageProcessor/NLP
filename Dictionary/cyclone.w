@@ -1,1 +1,1 @@
-{"index": 57180, "D": "Compare anticyclone, extratropical cyclone, subtropical cyclone, tropical cyclone. ", "S": ["monsoon ", "tropical cyclone ", "tropical storm ", "typhoon "], "A": []}
+{"index": 57180, "D": "Compare anticyclone, extratropical cyclone, subtropical cyclone, tropical cyclone. ", "S": ["monsoon", "tropical cyclone", "tropical storm", "typhoon"], "A": []}

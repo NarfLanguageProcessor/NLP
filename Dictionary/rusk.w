@@ -1,1 +1,1 @@
-{"index": 275800, "D": "a slice of sweet raised bread dried and baked again in the oven; zwieback.", "S": ["biscuit ", "cookie ", "pretzel "], "A": []}
+{"index": 275800, "D": "a slice of sweet raised bread dried and baked again in the oven; zwieback.", "S": ["biscuit", "cookie", "pretzel"], "A": []}

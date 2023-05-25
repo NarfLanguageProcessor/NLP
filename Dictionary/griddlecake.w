@@ -1,1 +1,1 @@
-{"index": 129774, "D": "a thin cake  of batter cooked on a griddle;  pancake.", "S": ["battercake ", "flapcake ", "hotcake ", "johnnycake "], "A": []}
+{"index": 129774, "D": "a thin cake  of batter cooked on a griddle;  pancake.", "S": ["battercake", "flapcake", "hotcake", "johnnycake"], "A": []}

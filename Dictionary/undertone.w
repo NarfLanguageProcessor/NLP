@@ -1,1 +1,1 @@
-{"index": 340017, "D": "a low or subdued tone", "S": ["connotation ", "overtone ", "tinge ", "undercurrent "], "A": ["lot "]}
+{"index": 340017, "D": "a low or subdued tone", "S": ["connotation", "overtone", "tinge", "undercurrent"], "A": ["lot"]}

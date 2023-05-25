@@ -1,1 +1,1 @@
-{"index": 298996, "D": "temporarily deprived of speech by strong emotion, physical weakness, exhaustion, etc.", "S": ["amazed ", "dazed ", "dumb ", "silent "], "A": ["articulate ", "communicative ", "responsive "]}
+{"index": 298996, "D": "temporarily deprived of speech by strong emotion, physical weakness, exhaustion, etc.", "S": ["amazed", "dazed", "dumb", "silent"], "A": ["articulate", "communicative", "responsive"]}

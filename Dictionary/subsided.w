@@ -1,1 +1,1 @@
-{"index": 309162, "D": "to sink to a low or lower level.", "S": ["below ", "depressed ", "flat ", "little ", "small "], "A": ["big ", "enormous ", "huge ", "immense ", "important ", "large ", "raised "]}
+{"index": 309162, "D": "to sink to a low or lower level.", "S": ["below", "depressed", "flat", "little", "small"], "A": ["big", "enormous", "huge", "immense", "important", "large", "raised"]}

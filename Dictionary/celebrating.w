@@ -1,1 +1,1 @@
-{"index": 50455, "D": "to observe (a day) or commemorate (an event) with ceremonies or festivities", "S": ["appreciative ", "congratulatory ", "polite ", "respectful "], "A": ["unmannerly "]}
+{"index": 50455, "D": "to observe (a day) or commemorate (an event) with ceremonies or festivities", "S": ["appreciative", "congratulatory", "polite", "respectful"], "A": ["unmannerly"]}

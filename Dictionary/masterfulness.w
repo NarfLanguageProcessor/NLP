@@ -1,1 +1,0 @@
-{"index": 180849, "D": "dominating; self-willed; imperious. ", "S": [], "A": []}

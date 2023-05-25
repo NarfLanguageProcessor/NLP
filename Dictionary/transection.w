@@ -1,1 +1,1 @@
-{"index": 327801, "D": [], "S": ["random sample ", "sampling "], "A": []}
+{"index": 327801, "D": [], "S": ["random sample", "sampling"], "A": []}

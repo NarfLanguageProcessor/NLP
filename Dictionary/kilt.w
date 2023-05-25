@@ -1,1 +1,1 @@
-{"index": 164691, "D": "any short, pleated skirt, especially a tartan wraparound, as that worn by men in the Scottish Highlands.", "S": ["balmoral ", "clothes ", "slip ", "undercoat ", "underskirt ", "waistcoat "], "A": []}
+{"index": 164691, "D": "any short, pleated skirt, especially a tartan wraparound, as that worn by men in the Scottish Highlands.", "S": ["balmoral", "clothes", "slip", "undercoat", "underskirt", "waistcoat"], "A": []}

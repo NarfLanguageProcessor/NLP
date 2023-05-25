@@ -1,1 +1,1 @@
-{"index": 44081, "D": "a hiding place, especially one in the ground, for ammunition, food, treasures, etc.", "S": ["hideout ", "hoard ", "nest egg ", "repository ", "stash ", "stockpile ", "storehouse ", "treasure ", "wealth "], "A": []}
+{"index": 44081, "D": "a hiding place, especially one in the ground, for ammunition, food, treasures, etc.", "S": ["hideout", "hoard", "nest egg", "repository", "stash", "stockpile", "storehouse", "treasure", "wealth"], "A": []}

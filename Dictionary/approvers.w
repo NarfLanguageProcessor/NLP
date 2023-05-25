@@ -1,0 +1,1 @@
+{"index": 18024, "D": "a person who validates, agrees to, or judges favorably.", "S": [], "A": []}

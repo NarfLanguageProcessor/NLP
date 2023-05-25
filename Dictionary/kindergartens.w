@@ -1,1 +1,1 @@
-{"index": 164758, "D": "a school or class for young children between the ages of four and six years.", "S": ["nursery school "], "A": []}
+{"index": 164758, "D": "a school or class for young children between the ages of four and six years.", "S": ["nursery school"], "A": []}

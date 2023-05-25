@@ -1,0 +1,1 @@
+{"index": 30030, "D": "archaic spellings of beadle (def. 4)", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 319334, "D": [], "S": ["abandon ", "abscond ", "depart ", "desert ", "pull out ", "quit ", "reject ", "renounce ", "revolt ", "withdraw "], "A": ["allow ", "approve ", "come ", "continue ", "persevere ", "remain ", "stay ", "support "]}

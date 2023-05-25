@@ -1,1 +1,1 @@
-{"index": 4429, "D": "expert or nimble in the use of the hands or body.", "S": ["adept ", "artful ", "deft ", "masterful ", "nimble ", "proficient ", "skillful "], "A": ["awkward ", "clumsy ", "ignorant ", "incompetent ", "inept ", "unable ", "unhandy ", "unskilled ", "unskillful "]}
+{"index": 4429, "D": "expert or nimble in the use of the hands or body.", "S": ["adept", "artful", "deft", "masterful", "nimble", "proficient", "skillful"], "A": ["awkward", "clumsy", "ignorant", "incompetent", "inept", "unable", "unhandy", "unskilled", "unskillful"]}

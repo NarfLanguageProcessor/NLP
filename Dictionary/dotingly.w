@@ -1,1 +1,1 @@
-{"index": 91911, "D": "excessively fond", "S": ["admiringly ", "affectionately ", "earnestly ", "fondly ", "longingly ", "passionately ", "respectfully ", "reverently ", "thoughtfully ", "warmly ", "zealously "], "A": []}
+{"index": 91911, "D": "excessively fond", "S": ["admiringly", "affectionately", "earnestly", "fondly", "longingly", "passionately", "respectfully", "reverently", "thoughtfully", "warmly", "zealously"], "A": []}

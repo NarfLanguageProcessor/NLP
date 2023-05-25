@@ -1,1 +1,1 @@
-{"index": 339312, "D": "executed with the hand below the level of the shoulder and the palm turned upward and forward", "S": ["underhanded "], "A": ["aboveboard ", "forthright ", "frank ", "honest "]}
+{"index": 339312, "D": "executed with the hand below the level of the shoulder and the palm turned upward and forward", "S": ["underhanded"], "A": ["aboveboard", "forthright", "frank", "honest"]}

@@ -1,1 +1,1 @@
-{"index": 126696, "D": "a glossator.", "S": ["artist ", "commentator ", "editor ", "exponent ", "linguist ", "philosopher ", "scholar ", "writer "], "A": []}
+{"index": 126696, "D": "a glossator.", "S": ["artist", "commentator", "editor", "exponent", "linguist", "philosopher", "scholar", "writer"], "A": []}

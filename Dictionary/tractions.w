@@ -1,1 +1,1 @@
-{"index": 327216, "D": "the adhesive friction of a body on some surface, as a wheel on a rail or a tire on a road.", "S": ["suction "], "A": ["slipperiness "]}
+{"index": 327216, "D": "the adhesive friction of a body on some surface, as a wheel on a rail or a tire on a road.", "S": ["suction"], "A": ["slipperiness"]}

@@ -1,1 +1,1 @@
-{"index": 315413, "D": "spin (def. 23). ", "S": ["plunge ", "slide "], "A": ["ascent ", "evenness ", "increase ", "level ", "rise "]}
+{"index": 315413, "D": "spin (def. 23). ", "S": ["plunge", "slide"], "A": ["ascent", "evenness", "increase", "level", "rise"]}

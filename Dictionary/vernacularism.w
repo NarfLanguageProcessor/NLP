@@ -1,1 +1,1 @@
-{"index": 358664, "D": "a vernacular  word or expression.", "S": ["atrocity ", "barbarity ", "brutality ", "cruelty ", "inhumanity "], "A": ["kindness ", "niceness "]}
+{"index": 358664, "D": "a vernacular  word or expression.", "S": ["atrocity", "barbarity", "brutality", "cruelty", "inhumanity"], "A": ["kindness", "niceness"]}

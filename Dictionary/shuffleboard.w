@@ -1,1 +1,0 @@
-{"index": 289341, "D": "a game in which standing players shove or push wooden or plastic disks with a long cue toward numbered scoring sections marked on a floor or deck.", "S": [], "A": []}

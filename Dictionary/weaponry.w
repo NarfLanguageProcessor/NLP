@@ -1,1 +1,1 @@
-{"index": 363527, "D": "weapons  or weaponlike instruments collectively.", "S": ["ammunition ", "arms ", "hardware ", "ordnance "], "A": []}
+{"index": 363527, "D": "weapons  or weaponlike instruments collectively.", "S": ["ammunition", "arms", "hardware", "ordnance"], "A": []}

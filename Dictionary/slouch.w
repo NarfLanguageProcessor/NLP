@@ -1,1 +1,1 @@
-{"index": 294407, "D": "to sit or stand with an awkward, drooping posture.", "S": ["crouch ", "droop ", "loll "], "A": ["do ", "straighten "]}
+{"index": 294407, "D": "to sit or stand with an awkward, drooping posture.", "S": ["crouch", "droop", "loll"], "A": ["do", "straighten"]}

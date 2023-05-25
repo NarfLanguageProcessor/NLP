@@ -1,1 +1,1 @@
-{"index": 250703, "D": "output produced by a printer, generally on continuous sheets of paper.", "S": ["computer printout ", "paper copy "], "A": []}
+{"index": 250703, "D": "output produced by a printer, generally on continuous sheets of paper.", "S": ["computer printout", "paper copy"], "A": []}

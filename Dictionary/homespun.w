@@ -1,1 +1,1 @@
-{"index": 142890, "D": "spun  or made at home", "S": ["rustic "], "A": ["abnormal ", "complex ", "complicated ", "decorated ", "difficult ", "embellished ", "extraordinary ", "formal ", "intricate ", "nice ", "ornate ", "polished ", "refined ", "sophisticated ", "unclear ", "uncommon "]}
+{"index": 142890, "D": "spun  or made at home", "S": ["rustic"], "A": ["abnormal", "complex", "complicated", "decorated", "difficult", "embellished", "extraordinary", "formal", "intricate", "nice", "ornate", "polished", "refined", "sophisticated", "unclear", "uncommon"]}

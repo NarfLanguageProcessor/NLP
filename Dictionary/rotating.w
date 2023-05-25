@@ -1,1 +1,1 @@
-{"index": 274619, "D": "the rotating blades of a helicopter", "S": ["circling ", "moving "], "A": ["motionless ", "stationary ", "still "]}
+{"index": 274619, "D": "the rotating blades of a helicopter", "S": ["circling", "moving"], "A": ["motionless", "stationary", "still"]}

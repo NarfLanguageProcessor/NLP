@@ -1,1 +1,1 @@
-{"index": 161841, "D": "the act of a person who jots. ", "S": ["item ", "registration "], "A": ["blackballing ", "conclusion ", "egress ", "exit ", "fan ", "refusal ", "rejection ", "spectator "]}
+{"index": 161841, "D": "the act of a person who jots. ", "S": ["item", "registration"], "A": ["blackballing", "conclusion", "egress", "exit", "fan", "refusal", "rejection", "spectator"]}

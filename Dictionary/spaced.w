@@ -1,1 +1,1 @@
-{"index": 298146, "D": "the unlimited or incalculably great three-dimensional realm or expanse in which all material objects are located and all events occur.", "S": ["dispersed ", "distributed "], "A": []}
+{"index": 298146, "D": "the unlimited or incalculably great three-dimensional realm or expanse in which all material objects are located and all events occur.", "S": ["dispersed", "distributed"], "A": []}

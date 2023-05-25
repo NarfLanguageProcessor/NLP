@@ -1,1 +1,1 @@
-{"index": 275252, "D": [], "S": ["crinkle "], "A": ["enlarge ", "expand ", "extend ", "free ", "give ", "increase ", "lengthen ", "loose ", "loosen ", "spread ", "stretch "]}
+{"index": 275252, "D": [], "S": ["crinkle"], "A": ["enlarge", "expand", "extend", "free", "give", "increase", "lengthen", "loose", "loosen", "spread", "stretch"]}

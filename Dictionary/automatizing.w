@@ -1,1 +1,1 @@
-{"index": 24207, "D": "to make automatic. ", "S": ["automate ", "brutalize "], "A": ["humanize "]}
+{"index": 24207, "D": "to make automatic. ", "S": ["automate", "brutalize"], "A": ["humanize"]}

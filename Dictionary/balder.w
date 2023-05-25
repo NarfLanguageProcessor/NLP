@@ -1,1 +1,1 @@
-{"index": 26782, "D": "a god, a son of Odin and Frigg and the twin brother of Hod, by whom he was killed.", "S": ["bare ", "hairless ", "naked "], "A": ["hairy ", "hirsute "]}
+{"index": 26782, "D": "a god, a son of Odin and Frigg and the twin brother of Hod, by whom he was killed.", "S": ["bare", "hairless", "naked"], "A": ["hairy", "hirsute"]}

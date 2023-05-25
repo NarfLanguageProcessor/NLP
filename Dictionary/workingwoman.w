@@ -1,1 +1,1 @@
-{"index": 367512, "D": "a woman  who is regularly employed.", "S": ["blue collar "], "A": []}
+{"index": 367512, "D": "a woman  who is regularly employed.", "S": ["blue collar"], "A": []}

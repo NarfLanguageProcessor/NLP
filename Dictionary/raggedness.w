@@ -1,1 +1,1 @@
-{"index": 259934, "D": "clothed in tattered garments", "S": ["break ", "bumpiness ", "coarseness ", "crack ", "hairiness ", "jaggedness ", "nick ", "scratch ", "shagginess ", "unevenness "], "A": ["courtesy ", "evenness ", "gentility ", "kindness ", "politeness ", "regularity ", "smoothness "]}
+{"index": 259934, "D": "clothed in tattered garments", "S": ["break", "bumpiness", "coarseness", "crack", "hairiness", "jaggedness", "nick", "scratch", "shagginess", "unevenness"], "A": ["courtesy", "evenness", "gentility", "kindness", "politeness", "regularity", "smoothness"]}

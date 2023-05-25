@@ -1,1 +1,1 @@
-{"index": 81120, "D": "to speak damagingly of; criticize in a derogatory manner; sully; defame", "S": ["derogatory ", "disparaging ", "injurious ", "insulting "], "A": ["complimentary "]}
+{"index": 81120, "D": "to speak damagingly of; criticize in a derogatory manner; sully; defame", "S": ["derogatory", "disparaging", "injurious", "insulting"], "A": ["complimentary"]}

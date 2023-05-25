@@ -1,1 +1,1 @@
-{"index": 221507, "D": "to catch up with in traveling or pursuit; draw even with", "S": ["beat ", "befall ", "catch up with ", "engulf ", "outdistance ", "outdo ", "outstrip ", "overwhelm "], "A": ["lose ", "fail ", "miss "]}
+{"index": 221507, "D": "to catch up with in traveling or pursuit; draw even with", "S": ["beat", "befall", "catch up with", "engulf", "outdistance", "outdo", "outstrip", "overwhelm"], "A": ["lose", "fail", "miss"]}

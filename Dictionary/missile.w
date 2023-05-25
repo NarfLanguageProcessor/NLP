@@ -1,1 +1,1 @@
-{"index": 190046, "D": "an object or weapon for throwing, hurling, or shooting, as a stone, bullet, or arrow.", "S": ["ammunition ", "bomb ", "bullet ", "projectile ", "rocket "], "A": []}
+{"index": 190046, "D": "an object or weapon for throwing, hurling, or shooting, as a stone, bullet, or arrow.", "S": ["ammunition", "bomb", "bullet", "projectile", "rocket"], "A": []}

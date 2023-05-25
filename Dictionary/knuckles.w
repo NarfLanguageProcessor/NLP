@@ -1,1 +1,1 @@
-{"index": 165757, "D": "a joint of a finger, especially one of the articulations of a metacarpal with a phalanx.", "S": ["brass knucks ", "knuckle-dusters ", "knucks "], "A": []}
+{"index": 165757, "D": "a joint of a finger, especially one of the articulations of a metacarpal with a phalanx.", "S": ["brass knucks", "knuckle-dusters", "knucks"], "A": []}

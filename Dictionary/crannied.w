@@ -1,1 +1,1 @@
-{"index": 72148, "D": "having or full of crannies. ", "S": ["broken ", "cloven ", "cracked ", "crenelated ", "parted ", "perforated ", "pierced ", "rent ", "riven ", "ruptured ", "separated ", "sundered ", "torn "], "A": ["connected ", "fixed ", "whole "]}
+{"index": 72148, "D": "having or full of crannies. ", "S": ["broken", "cloven", "cracked", "crenelated", "parted", "perforated", "pierced", "rent", "riven", "ruptured", "separated", "sundered", "torn"], "A": ["connected", "fixed", "whole"]}

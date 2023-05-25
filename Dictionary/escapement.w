@@ -1,1 +1,1 @@
-{"index": 104135, "D": "Compare anchor escapement, deadbeat (def. 4), lever escapement. ", "S": ["breakout ", "decampment ", "evasion ", "exodus ", "flight ", "getaway "], "A": []}
+{"index": 104135, "D": "Compare anchor escapement, deadbeat (def. 4), lever escapement. ", "S": ["breakout", "decampment", "evasion", "exodus", "flight", "getaway"], "A": []}

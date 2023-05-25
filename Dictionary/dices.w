@@ -1,1 +1,1 @@
-{"index": 84771, "D": "small cubes of plastic, ivory, bone, or wood, marked on each side with one to six spots, usually used in pairs in games of chance or in gambling.", "S": ["bones ", "counters ", "craps ", "ivories ", "shakers ", "tombstones "], "A": []}
+{"index": 84771, "D": "small cubes of plastic, ivory, bone, or wood, marked on each side with one to six spots, usually used in pairs in games of chance or in gambling.", "S": ["bones", "counters", "craps", "ivories", "shakers", "tombstones"], "A": []}

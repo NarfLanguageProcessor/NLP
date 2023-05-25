@@ -1,1 +1,1 @@
-{"index": 68334, "D": "working or acting together willingly for a common purpose or benefit.", "S": ["club ", "company ", "cooperative ", "corporation ", "federation ", "guild ", "league ", "organization ", "partnership ", "society ", "tribe ", "union "], "A": ["disunion ", "separation "]}
+{"index": 68334, "D": "working or acting together willingly for a common purpose or benefit.", "S": ["club", "company", "cooperative", "corporation", "federation", "guild", "league", "organization", "partnership", "society", "tribe", "union"], "A": ["disunion", "separation"]}

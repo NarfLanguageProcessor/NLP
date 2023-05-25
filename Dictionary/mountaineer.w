@@ -1,1 +1,1 @@
-{"index": 194213, "D": "an inhabitant of a mountainous  district.", "S": ["climber ", "hiker "], "A": []}
+{"index": 194213, "D": "an inhabitant of a mountainous  district.", "S": ["climber", "hiker"], "A": []}

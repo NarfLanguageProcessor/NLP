@@ -1,1 +1,1 @@
-{"index": 52981, "D": [], "S": ["aligning ", "banding ", "bounding ", "charting ", "circumscribing ", "delimiting ", "delineating ", "depicting ", "designing ", "diagramming ", "drafting ", "drawing ", "girdling ", "mapping ", "planning ", "plotting ", "projecting ", "tracing "], "A": []}
+{"index": 52981, "D": [], "S": ["aligning", "banding", "bounding", "charting", "circumscribing", "delimiting", "delineating", "depicting", "designing", "diagramming", "drafting", "drawing", "girdling", "mapping", "planning", "plotting", "projecting", "tracing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 282608, "D": "a belt or strap in an automobile, airplane, etc., fastened around or sometimes diagonally across the midsection to keep the person safely secured, as during a sudden stop.", "S": ["safety belt "], "A": []}
+{"index": 282608, "D": "a belt or strap in an automobile, airplane, etc., fastened around or sometimes diagonally across the midsection to keep the person safely secured, as during a sudden stop.", "S": ["safety belt"], "A": []}

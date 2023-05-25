@@ -1,1 +1,1 @@
-{"index": 258138, "D": "(in prescriptions) four.", "S": ["bend ", "cower ", "grovel ", "huddle ", "hunch ", "kneel ", "squat ", "stoop ", "wince "], "A": ["straighten ", "face ", "meet "]}
+{"index": 258138, "D": "(in prescriptions) four.", "S": ["bend", "cower", "grovel", "huddle", "hunch", "kneel", "squat", "stoop", "wince"], "A": ["straighten", "face", "meet"]}

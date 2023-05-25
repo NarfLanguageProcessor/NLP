@@ -1,1 +1,1 @@
-{"index": 69264, "D": "consisting of a horny substance; horny.", "S": ["corniculate "], "A": []}
+{"index": 69264, "D": "consisting of a horny substance; horny.", "S": ["corniculate"], "A": []}

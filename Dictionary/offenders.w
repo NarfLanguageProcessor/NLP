@@ -1,1 +1,1 @@
-{"index": 211563, "D": "someone who has violated a criminal, religious, or moral law", "S": ["convict ", "criminal ", "culprit ", "delinquent ", "felon ", "lawbreaker ", "suspect "], "A": ["police "]}
+{"index": 211563, "D": "someone who has violated a criminal, religious, or moral law", "S": ["convict", "criminal", "culprit", "delinquent", "felon", "lawbreaker", "suspect"], "A": ["police"]}

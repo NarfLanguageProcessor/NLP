@@ -1,1 +1,1 @@
-{"index": 113721, "D": "the act or process of flagellating. ", "S": ["spanking ", "whipping "], "A": []}
+{"index": 113721, "D": "the act or process of flagellating. ", "S": ["spanking", "whipping"], "A": []}

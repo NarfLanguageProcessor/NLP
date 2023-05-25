@@ -1,1 +1,1 @@
-{"index": 297205, "D": "abounding in song;  melodious.", "S": ["choral ", "coloratura "], "A": []}
+{"index": 297205, "D": "abounding in song;  melodious.", "S": ["choral", "coloratura"], "A": []}

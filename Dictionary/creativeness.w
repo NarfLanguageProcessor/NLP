@@ -1,1 +1,1 @@
-{"index": 72443, "D": "having the power to bring something new into being, as a creature, or to evolve something original from one\u2019s own thought or imagination, as a work of art or invention", "S": ["ingenuity ", "inventiveness "], "A": ["truth "]}
+{"index": 72443, "D": "having the power to bring something new into being, as a creature, or to evolve something original from one\u2019s own thought or imagination, as a work of art or invention", "S": ["ingenuity", "inventiveness"], "A": ["truth"]}

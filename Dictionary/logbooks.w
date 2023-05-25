@@ -1,1 +1,1 @@
-{"index": 174570, "D": "a book  in which details of a trip made by a ship or aircraft are recorded; log ", "S": ["balance sheet ", "book of account ", "daybook ", "journal ", "ledger ", "register "], "A": []}
+{"index": 174570, "D": "a book  in which details of a trip made by a ship or aircraft are recorded; log ", "S": ["balance sheet", "book of account", "daybook", "journal", "ledger", "register"], "A": []}

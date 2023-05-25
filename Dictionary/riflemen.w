@@ -1,1 +1,1 @@
-{"index": 272760, "D": "a soldier armed with a rifle. ", "S": ["shooter "], "A": []}
+{"index": 272760, "D": "a soldier armed with a rifle. ", "S": ["shooter"], "A": []}

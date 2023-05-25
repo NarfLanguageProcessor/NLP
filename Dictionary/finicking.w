@@ -1,1 +1,1 @@
-{"index": 113002, "D": "to affect extreme daintiness or refinement.", "S": ["delicate ", "fussy ", "tasteful "], "A": ["uncritical "]}
+{"index": 113002, "D": "to affect extreme daintiness or refinement.", "S": ["delicate", "fussy", "tasteful"], "A": ["uncritical"]}

@@ -1,1 +1,1 @@
-{"index": 366035, "D": "air in natural motion, as that moving horizontally at any velocity along the earth's surface", "S": ["foreboding ", "hunch ", "omen ", "portent "], "A": ["knowledge ", "trust "]}
+{"index": 366035, "D": "air in natural motion, as that moving horizontally at any velocity along the earth's surface", "S": ["foreboding", "hunch", "omen", "portent"], "A": ["knowledge", "trust"]}

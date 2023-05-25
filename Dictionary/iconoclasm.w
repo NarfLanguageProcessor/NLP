@@ -1,1 +1,1 @@
-{"index": 146190, "D": "the action or spirit of iconoclasts.", "S": ["nihilism "], "A": ["belief ", "trust "]}
+{"index": 146190, "D": "the action or spirit of iconoclasts.", "S": ["nihilism"], "A": ["belief", "trust"]}

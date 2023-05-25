@@ -1,1 +1,1 @@
-{"index": 244668, "D": "the state or quality of being potential. ", "S": ["ability ", "aptitude ", "capability ", "capacity ", "potential ", "power ", "wherewithal "], "A": ["impotence ", "inability ", "incapacity ", "incompetence ", "stupidity ", "weakness "]}
+{"index": 244668, "D": "the state or quality of being potential. ", "S": ["ability", "aptitude", "capability", "capacity", "potential", "power", "wherewithal"], "A": ["impotence", "inability", "incapacity", "incompetence", "stupidity", "weakness"]}

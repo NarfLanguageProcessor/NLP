@@ -1,1 +1,1 @@
-{"index": 331112, "D": "a horse-cavalry soldier.", "S": ["armed forces ", "army ", "contingent ", "crew ", "delegation ", "gang ", "military ", "party ", "servicemen ", "squad ", "team ", "unit "], "A": ["individual ", "one "]}
+{"index": 331112, "D": "a horse-cavalry soldier.", "S": ["armed forces", "army", "contingent", "crew", "delegation", "gang", "military", "party", "servicemen", "squad", "team", "unit"], "A": ["individual", "one"]}

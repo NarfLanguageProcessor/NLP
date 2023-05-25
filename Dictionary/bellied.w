@@ -1,1 +1,1 @@
-{"index": 31181, "D": "having a belly,  especially one of a specified kind, size, shape, condition, etc. (usually used in combination)", "S": ["enlarge ", "expand ", "inflate ", "swell "], "A": ["abridge ", "compress ", "contract ", "lessen ", "lower ", "shrink ", "cave in "]}
+{"index": 31181, "D": "having a belly,  especially one of a specified kind, size, shape, condition, etc. (usually used in combination)", "S": ["enlarge", "expand", "inflate", "swell"], "A": ["abridge", "compress", "contract", "lessen", "lower", "shrink", "cave in"]}

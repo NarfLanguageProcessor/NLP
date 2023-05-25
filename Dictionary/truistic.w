@@ -1,1 +1,1 @@
-{"index": 331548, "D": "a self-evident, obvious truth.", "S": ["banal ", "humdrum ", "mediocre ", "mundane ", "plodding ", "prosaic "], "A": ["exciting ", "extraordinary ", "unusual ", "uncommon "]}
+{"index": 331548, "D": "a self-evident, obvious truth.", "S": ["banal", "humdrum", "mediocre", "mundane", "plodding", "prosaic"], "A": ["exciting", "extraordinary", "unusual", "uncommon"]}

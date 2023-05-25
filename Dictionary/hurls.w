@@ -1,1 +1,1 @@
-{"index": 145246, "D": "to throw or fling with great force or vigor.", "S": ["fire ", "fling ", "heave ", "lob ", "sling "], "A": ["hold ", "keep ", "receive "]}
+{"index": 145246, "D": "to throw or fling with great force or vigor.", "S": ["fire", "fling", "heave", "lob", "sling"], "A": ["hold", "keep", "receive"]}

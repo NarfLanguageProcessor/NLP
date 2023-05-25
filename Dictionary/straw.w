@@ -1,1 +1,1 @@
-{"index": 305925, "D": "a single stalk or stem, especially of certain species of grain, chiefly wheat, rye, oats, and barley.", "S": ["ensilage ", "fodder ", "silage "], "A": []}
+{"index": 305925, "D": "a single stalk or stem, especially of certain species of grain, chiefly wheat, rye, oats, and barley.", "S": ["ensilage", "fodder", "silage"], "A": []}

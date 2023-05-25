@@ -1,1 +1,1 @@
-{"index": 199387, "D": "of a new kind or fashion", "S": ["contemporary ", "fashionable ", "fresh ", "gimmicky ", "in vogue ", "modern ", "modernistic ", "neoteric ", "new ", "new-fashioned ", "novel ", "popular ", "unique "], "A": ["old ", "old-fashioned ", "outmoded "]}
+{"index": 199387, "D": "of a new kind or fashion", "S": ["contemporary", "fashionable", "fresh", "gimmicky", "in vogue", "modern", "modernistic", "neoteric", "new", "new-fashioned", "novel", "popular", "unique"], "A": ["old", "old-fashioned", "outmoded"]}

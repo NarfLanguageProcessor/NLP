@@ -1,1 +1,1 @@
-{"index": 49457, "D": "a word, phrase, or sentence used, especially in advertising or journalism, to arouse or call attention.", "S": ["buzzword ", "catchword ", "motto ", "shibboleth ", "slogan ", "tag ", "tag line "], "A": []}
+{"index": 49457, "D": "a word, phrase, or sentence used, especially in advertising or journalism, to arouse or call attention.", "S": ["buzzword", "catchword", "motto", "shibboleth", "slogan", "tag", "tag line"], "A": []}

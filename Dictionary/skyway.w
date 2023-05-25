@@ -1,1 +1,1 @@
-{"index": 293423, "D": "air lane. ", "S": ["air corridor ", "air lane ", "corridor ", "flight lane "], "A": []}
+{"index": 293423, "D": "air lane. ", "S": ["air corridor", "air lane", "corridor", "flight lane"], "A": []}

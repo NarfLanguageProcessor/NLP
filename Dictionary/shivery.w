@@ -1,1 +1,1 @@
-{"index": 288584, "D": "inclined to or characterized by shivers,  quivers, or tremors.", "S": ["aquiver ", "palpitating ", "quaky ", "quavering ", "quivering ", "quivery ", "shaky ", "shivering ", "trembling ", "tremulant ", "twittery ", "wobbly "], "A": []}
+{"index": 288584, "D": "inclined to or characterized by shivers,  quivers, or tremors.", "S": ["aquiver", "palpitating", "quaky", "quavering", "quivering", "quivery", "shaky", "shivering", "trembling", "tremulant", "twittery", "wobbly"], "A": []}

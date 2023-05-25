@@ -1,1 +1,1 @@
-{"index": 80654, "D": "a small cup for serving strong black coffee after dinner.", "S": ["caffeine ", "cappuccino ", "espresso "], "A": []}
+{"index": 80654, "D": "a small cup for serving strong black coffee after dinner.", "S": ["caffeine", "cappuccino", "espresso"], "A": []}

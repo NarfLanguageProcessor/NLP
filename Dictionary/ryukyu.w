@@ -1,1 +1,0 @@
-{"index": 273348, "D": "a chain of Japanese islands in the western Pacific Ocean  between Japan and Taiwan. 3,120 square miles (1,205 square kilometers).", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 148356, "D": "lack of patience.", "S": ["anger ", "annoyance ", "anxiety ", "eagerness ", "edginess ", "excitement ", "nervousness ", "restlessness ", "uneasiness "], "A": ["apathy ", "calm ", "calmness ", "contentment ", "enjoyment ", "happiness ", "joy ", "peace "]}
+{"index": 148356, "D": "lack of patience.", "S": ["anger", "annoyance", "anxiety", "eagerness", "edginess", "excitement", "nervousness", "restlessness", "uneasiness"], "A": ["apathy", "calm", "calmness", "contentment", "enjoyment", "happiness", "joy", "peace"]}

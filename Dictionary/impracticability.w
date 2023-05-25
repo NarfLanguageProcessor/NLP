@@ -1,1 +1,1 @@
-{"index": 148989, "D": "not practicable;  incapable of being put into practice with the available means", "S": ["futility "], "A": ["feasibility ", "possibility ", "practicality ", "probability "]}
+{"index": 148989, "D": "not practicable;  incapable of being put into practice with the available means", "S": ["futility"], "A": ["feasibility", "possibility", "practicality", "probability"]}

@@ -1,1 +1,1 @@
-{"index": 246110, "D": "falling headlong.", "S": ["headlong "], "A": []}
+{"index": 246110, "D": "falling headlong.", "S": ["headlong"], "A": []}

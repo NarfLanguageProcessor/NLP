@@ -1,1 +1,1 @@
-{"index": 9681, "D": "having alveoli;  deeply pitted, as a honeycomb.", "S": ["gaping ", "huge ", "roomy ", "spacious ", "vast ", "yawning "], "A": ["cramped ", "little ", "narrow ", "small "]}
+{"index": 9681, "D": "having alveoli;  deeply pitted, as a honeycomb.", "S": ["gaping", "huge", "roomy", "spacious", "vast", "yawning"], "A": ["cramped", "little", "narrow", "small"]}

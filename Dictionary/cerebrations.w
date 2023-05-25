@@ -1,1 +1,1 @@
-{"index": 51396, "D": "to use the mind; think or think about.", "S": ["cogitation ", "contemplation ", "deliberation ", "excogitation ", "judgment ", "meditation ", "reflection ", "rumination ", "thinking "], "A": ["ignorance "]}
+{"index": 51396, "D": "to use the mind; think or think about.", "S": ["cogitation", "contemplation", "deliberation", "excogitation", "judgment", "meditation", "reflection", "rumination", "thinking"], "A": ["ignorance"]}

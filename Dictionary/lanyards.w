@@ -1,1 +1,1 @@
-{"index": 168152, "D": "a short rope or wire rove through deadeyes to hold and tauten standing rigging.", "S": ["line ", "rope ", "string "], "A": []}
+{"index": 168152, "D": "a short rope or wire rove through deadeyes to hold and tauten standing rigging.", "S": ["line", "rope", "string"], "A": []}

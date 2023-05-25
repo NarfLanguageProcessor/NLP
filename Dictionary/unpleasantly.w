@@ -1,1 +1,1 @@
-{"index": 348029, "D": "not pleasant;  displeasing; disagreeable; offensive", "S": ["dreadfully ", "wickedly "], "A": []}
+{"index": 348029, "D": "not pleasant;  displeasing; disagreeable; offensive", "S": ["dreadfully", "wickedly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 107093, "D": "to throw off in scales, splinters, etc.", "S": ["desquamate ", "doff ", "shed "], "A": []}
+{"index": 107093, "D": "to throw off in scales, splinters, etc.", "S": ["desquamate", "doff", "shed"], "A": []}

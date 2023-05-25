@@ -1,1 +1,0 @@
-{"index": 347846, "D": "having been numbed or paralyzed with astonishment, horror, or other strong emotion", "S": [], "A": []}

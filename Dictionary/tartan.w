@@ -1,1 +1,1 @@
-{"index": 316763, "D": "a woolen or worsted cloth woven with stripes of different colors and widths crossing at right angles, worn chiefly by the Scottish Highlanders, each clan having its own distinctive plaid.", "S": ["checked ", "variegated "], "A": []}
+{"index": 316763, "D": "a woolen or worsted cloth woven with stripes of different colors and widths crossing at right angles, worn chiefly by the Scottish Highlanders, each clan having its own distinctive plaid.", "S": ["checked", "variegated"], "A": []}

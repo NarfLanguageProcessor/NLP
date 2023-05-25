@@ -1,1 +1,1 @@
-{"index": 107003, "D": "a model or pattern to be copied or imitated", "S": ["epitome ", "paragon "], "A": []}
+{"index": 107003, "D": "a model or pattern to be copied or imitated", "S": ["epitome", "paragon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 106521, "D": "an act or instance of exasperating;  provocation.", "S": ["anger ", "annoyance ", "displeasure ", "fury ", "ire ", "irritation ", "pique ", "rage ", "resentment "], "A": ["calm ", "cheer ", "delight ", "enjoyment ", "happiness ", "joy ", "peace ", "pleasure "]}
+{"index": 106521, "D": "an act or instance of exasperating;  provocation.", "S": ["anger", "annoyance", "displeasure", "fury", "ire", "irritation", "pique", "rage", "resentment"], "A": ["calm", "cheer", "delight", "enjoyment", "happiness", "joy", "peace", "pleasure"]}

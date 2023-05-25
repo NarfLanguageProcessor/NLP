@@ -1,1 +1,1 @@
-{"index": 152155, "D": "a flowering or blossoming.", "S": ["bloom "], "A": []}
+{"index": 152155, "D": "a flowering or blossoming.", "S": ["bloom"], "A": []}

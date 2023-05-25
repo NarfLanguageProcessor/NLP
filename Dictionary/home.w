@@ -1,1 +1,1 @@
-{"index": 142751, "D": "a house, apartment, or other shelter that is the usual residence of a person, family, or household.", "S": ["central ", "familiar ", "family ", "household ", "local ", "national ", "native "], "A": ["foreign ", "outside "]}
+{"index": 142751, "D": "a house, apartment, or other shelter that is the usual residence of a person, family, or household.", "S": ["central", "familiar", "family", "household", "local", "national", "native"], "A": ["foreign", "outside"]}

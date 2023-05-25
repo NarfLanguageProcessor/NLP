@@ -1,1 +1,1 @@
-{"index": 145184, "D": "he has a hunted look", "S": ["chased ", "dogged ", "followed ", "hounded ", "outlawed ", "stalked ", "tailed ", "tracked ", "trailed ", "wanted "], "A": []}
+{"index": 145184, "D": "he has a hunted look", "S": ["chased", "dogged", "followed", "hounded", "outlawed", "stalked", "tailed", "tracked", "trailed", "wanted"], "A": []}

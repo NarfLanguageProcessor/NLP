@@ -1,1 +1,1 @@
-{"index": 268241, "D": "to play  again, as a record or tape.", "S": ["repetition ", "rerun "], "A": ["original "]}
+{"index": 268241, "D": "to play  again, as a record or tape.", "S": ["repetition", "rerun"], "A": ["original"]}

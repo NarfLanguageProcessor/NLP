@@ -1,1 +1,1 @@
-{"index": 313553, "D": "to strike or occur to with a sudden feeling of wonder or astonishment, as through unexpectedness", "S": ["astonished ", "bewildered ", "dazed ", "frightened ", "shocked ", "startled ", "stunned "], "A": ["aware ", "calm ", "poised ", "unsurprised "]}
+{"index": 313553, "D": "to strike or occur to with a sudden feeling of wonder or astonishment, as through unexpectedness", "S": ["astonished", "bewildered", "dazed", "frightened", "shocked", "startled", "stunned"], "A": ["aware", "calm", "poised", "unsurprised"]}

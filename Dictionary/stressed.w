@@ -1,1 +1,1 @@
-{"index": 306123, "D": "importance attached to a thing", "S": ["harassed ", "harrowed ", "peaked ", "pinched ", "sapped ", "starved ", "strained ", "thin ", "tired ", "worn "], "A": ["fresh "]}
+{"index": 306123, "D": "importance attached to a thing", "S": ["harassed", "harrowed", "peaked", "pinched", "sapped", "starved", "strained", "thin", "tired", "worn"], "A": ["fresh"]}

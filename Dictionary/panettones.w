@@ -1,1 +1,1 @@
-{"index": 224579, "D": "an Italian yeast-leavened bread, traditionally eaten on holidays, usually made with raisins, candied fruit peels, almonds, and brandy.", "S": ["bread ", "cake ", "croissant ", "doughnut ", "phyllo ", "pie "], "A": []}
+{"index": 224579, "D": "an Italian yeast-leavened bread, traditionally eaten on holidays, usually made with raisins, candied fruit peels, almonds, and brandy.", "S": ["bread", "cake", "croissant", "doughnut", "phyllo", "pie"], "A": []}

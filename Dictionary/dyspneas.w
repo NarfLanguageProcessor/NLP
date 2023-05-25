@@ -1,1 +1,1 @@
-{"index": 89099, "D": "difficult or labored breathing.", "S": ["gasp ", "hyperpnea ", "hyperventilation ", "palpitation "], "A": []}
+{"index": 89099, "D": "difficult or labored breathing.", "S": ["gasp", "hyperpnea", "hyperventilation", "palpitation"], "A": []}

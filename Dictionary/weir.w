@@ -1,1 +1,1 @@
-{"index": 363922, "D": "a small dam in a river or stream.", "S": ["bank ", "barrier ", "dike ", "ditch ", "gate ", "levee "], "A": ["aid ", "assistance ", "help ", "promotion "]}
+{"index": 363922, "D": "a small dam in a river or stream.", "S": ["bank", "barrier", "dike", "ditch", "gate", "levee"], "A": ["aid", "assistance", "help", "promotion"]}

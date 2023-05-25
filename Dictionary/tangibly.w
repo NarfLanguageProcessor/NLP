@@ -1,1 +1,1 @@
-{"index": 316053, "D": "capable of being touched; discernible by the touch; material or substantial.", "S": ["allegedly ", "ostensibly ", "possibly ", "probably ", "supposedly "], "A": ["improbably ", "unlikely "]}
+{"index": 316053, "D": "capable of being touched; discernible by the touch; material or substantial.", "S": ["allegedly", "ostensibly", "possibly", "probably", "supposedly"], "A": ["improbably", "unlikely"]}

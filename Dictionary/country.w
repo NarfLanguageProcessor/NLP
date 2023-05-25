@@ -1,1 +1,1 @@
-{"index": 71231, "D": "a state or nation", "S": ["agrarian ", "bucolic ", "homey ", "provincial ", "rustic "], "A": ["metropolitan "]}
+{"index": 71231, "D": "a state or nation", "S": ["agrarian", "bucolic", "homey", "provincial", "rustic"], "A": ["metropolitan"]}

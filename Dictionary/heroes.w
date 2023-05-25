@@ -1,1 +1,1 @@
-{"index": 137236, "D": "Compare heroine (def. 1). ", "S": ["grinder ", "hoagie ", "sub ", "submarine ", "torpedo "], "A": []}
+{"index": 137236, "D": "Compare heroine (def. 1). ", "S": ["grinder", "hoagie", "sub", "submarine", "torpedo"], "A": []}

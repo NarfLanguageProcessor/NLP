@@ -1,1 +1,1 @@
-{"index": 60495, "D": "a person whose chief interest and pleasure is dressing fashionably.", "S": ["best-dressed ", "dandy ", "dude ", "fop ", "fribble ", "sharpy ", "snappy dresser ", "swell "], "A": []}
+{"index": 60495, "D": "a person whose chief interest and pleasure is dressing fashionably.", "S": ["best-dressed", "dandy", "dude", "fop", "fribble", "sharpy", "snappy dresser", "swell"], "A": []}

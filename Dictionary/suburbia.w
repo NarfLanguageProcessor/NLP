@@ -1,1 +1,1 @@
-{"index": 309684, "D": "suburbs  collectively.", "S": ["bourgeoisie ", "silent majority ", "subtopia ", "the burbs "], "A": []}
+{"index": 309684, "D": "suburbs  collectively.", "S": ["bourgeoisie", "silent majority", "subtopia", "the burbs"], "A": []}

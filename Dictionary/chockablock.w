@@ -1,1 +1,1 @@
-{"index": 55275, "D": "extremely full; crowded;  jammed", "S": ["brimming ", "loaded "], "A": []}
+{"index": 55275, "D": "extremely full; crowded;  jammed", "S": ["brimming", "loaded"], "A": []}

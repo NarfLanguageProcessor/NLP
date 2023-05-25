@@ -1,1 +1,1 @@
-{"index": 72205, "D": "to make a loud, clattering noise, as of something dashed to pieces.", "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}
+{"index": 72205, "D": "to make a loud, clattering noise, as of something dashed to pieces.", "S": ["comatose", "dormant"], "A": ["attentive", "awake", "conscious"]}

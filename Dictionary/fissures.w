@@ -1,1 +1,1 @@
-{"index": 113465, "D": "a narrow opening produced by cleavage  or separation of parts.", "S": ["cleavage ", "crevice "], "A": ["closure ", "solid "]}
+{"index": 113465, "D": "a narrow opening produced by cleavage  or separation of parts.", "S": ["cleavage", "crevice"], "A": ["closure", "solid"]}

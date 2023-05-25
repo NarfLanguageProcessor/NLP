@@ -1,1 +1,1 @@
-{"index": 259570, "D": "with regard to origin or root.", "S": ["thoroughly "], "A": []}
+{"index": 259570, "D": "with regard to origin or root.", "S": ["thoroughly"], "A": []}

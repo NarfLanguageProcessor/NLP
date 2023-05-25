@@ -1,1 +1,1 @@
-{"index": 285289, "D": "Compare junior (def. 1). ", "S": ["elder ", "pensioner ", "senior citizen "], "A": ["inferior ", "junior ", "younger "]}
+{"index": 285289, "D": "Compare junior (def. 1). ", "S": ["elder", "pensioner", "senior citizen"], "A": ["inferior", "junior", "younger"]}

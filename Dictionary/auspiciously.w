@@ -1,1 +1,1 @@
-{"index": 23686, "D": "promising success; propitious; opportune; favorable", "S": ["successfully "], "A": ["unfavorably ", "unfriendly "]}
+{"index": 23686, "D": "promising success; propitious; opportune; favorable", "S": ["successfully"], "A": ["unfavorably", "unfriendly"]}

@@ -1,1 +1,1 @@
-{"index": 367789, "D": "wreck or wreckage.", "S": ["decimate ", "torment ", "wreck "], "A": []}
+{"index": 367789, "D": "wreck or wreckage.", "S": ["decimate", "torment", "wreck"], "A": []}

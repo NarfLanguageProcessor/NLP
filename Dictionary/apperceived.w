@@ -1,1 +1,1 @@
-{"index": 17705, "D": "to have conscious perception of; comprehend.", "S": ["perceive ", "sense ", "try "], "A": []}
+{"index": 17705, "D": "to have conscious perception of; comprehend.", "S": ["perceive", "sense", "try"], "A": []}

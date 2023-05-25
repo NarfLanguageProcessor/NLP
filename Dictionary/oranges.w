@@ -1,1 +1,1 @@
-{"index": 213963, "D": [], "S": ["apricot ", "cantaloupe ", "carrot ", "coral ", "peach ", "salmon ", "tangerine ", "titian "], "A": []}
+{"index": 213963, "D": [], "S": ["apricot", "cantaloupe", "carrot", "coral", "peach", "salmon", "tangerine", "titian"], "A": []}

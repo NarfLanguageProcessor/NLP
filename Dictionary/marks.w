@@ -1,1 +1,1 @@
-{"index": 180195, "D": "a visible impression or trace on something, such as a line, cut, dent, stain, or bruise", "S": ["aisle ", "pathway ", "road ", "route ", "stream ", "train "], "A": []}
+{"index": 180195, "D": "a visible impression or trace on something, such as a line, cut, dent, stain, or bruise", "S": ["aisle", "pathway", "road", "route", "stream", "train"], "A": []}

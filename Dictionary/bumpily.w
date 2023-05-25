@@ -1,1 +1,1 @@
-{"index": 42762, "D": "of uneven surface; full of bumps", "S": ["haphazardly "], "A": ["equally ", "evenly "]}
+{"index": 42762, "D": "of uneven surface; full of bumps", "S": ["haphazardly"], "A": ["equally", "evenly"]}

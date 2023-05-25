@@ -1,1 +1,1 @@
-{"index": 30181, "D": "confined to bed because of illness, injury, etc.", "S": ["disabled ", "ill ", "infirm "], "A": ["healthy ", "sound ", "strong "]}
+{"index": 30181, "D": "confined to bed because of illness, injury, etc.", "S": ["disabled", "ill", "infirm"], "A": ["healthy", "sound", "strong"]}

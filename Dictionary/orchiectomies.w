@@ -1,1 +1,1 @@
-{"index": 214170, "D": "excision of one or both testes; castration. ", "S": ["sterilization "], "A": []}
+{"index": 214170, "D": "excision of one or both testes; castration. ", "S": ["sterilization"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 148574, "D": "not permeable; impassable.", "S": ["durability ", "hardness ", "inflexibility ", "toughness "], "A": ["flexibility ", "indefiniteness ", "infirmity ", "instability ", "movability ", "softness ", "uncertainty ", "weakness "]}
+{"index": 148574, "D": "not permeable; impassable.", "S": ["durability", "hardness", "inflexibility", "toughness"], "A": ["flexibility", "indefiniteness", "infirmity", "instability", "movability", "softness", "uncertainty", "weakness"]}

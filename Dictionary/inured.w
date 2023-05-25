@@ -1,1 +1,1 @@
-{"index": 156971, "D": "hardened by frequent exposure, especially to something bad; accustomed", "S": ["addicted "], "A": ["abnormal ", "unaccustomed ", "unusual "]}
+{"index": 156971, "D": "hardened by frequent exposure, especially to something bad; accustomed", "S": ["addicted"], "A": ["abnormal", "unaccustomed", "unusual"]}

@@ -1,1 +1,1 @@
-{"index": 38521, "D": "to take or obtain with the promise to return the same or an equivalent", "S": ["rented "], "A": ["owned "]}
+{"index": 38521, "D": "to take or obtain with the promise to return the same or an equivalent", "S": ["rented"], "A": ["owned"]}

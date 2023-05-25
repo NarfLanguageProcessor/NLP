@@ -1,1 +1,1 @@
-{"index": 148798, "D": "without actually saying so; in a way that does not use words", "S": ["essentially "], "A": []}
+{"index": 148798, "D": "without actually saying so; in a way that does not use words", "S": ["essentially"], "A": []}

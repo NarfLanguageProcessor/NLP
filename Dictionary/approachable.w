@@ -1,1 +1,1 @@
-{"index": 17973, "D": "capable of being approached;  accessible.", "S": ["convenient "], "A": ["formal ", "inaccessible ", "unapproachable ", "uncongenial ", "unfriendly ", "unreachable ", "unsociable "]}
+{"index": 17973, "D": "capable of being approached;  accessible.", "S": ["convenient"], "A": ["formal", "inaccessible", "unapproachable", "uncongenial", "unfriendly", "unreachable", "unsociable"]}

@@ -1,1 +1,1 @@
-{"index": 294548, "D": "an artificial channel for conducting water, often fitted with a gate (sluice gate ) at the upper end for regulating the flow.", "S": ["channel ", "douse ", "flume ", "flush ", "gate ", "gush ", "pour ", "soak ", "trough ", "valve ", "wash "], "A": []}
+{"index": 294548, "D": "an artificial channel for conducting water, often fitted with a gate (sluice gate ) at the upper end for regulating the flow.", "S": ["channel", "douse", "flume", "flush", "gate", "gush", "pour", "soak", "trough", "valve", "wash"], "A": []}

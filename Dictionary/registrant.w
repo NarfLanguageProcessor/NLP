@@ -1,1 +1,1 @@
-{"index": 265680, "D": "a person who registers  or is registered. ", "S": ["graduate ", "junior ", "pupil ", "scholar ", "undergraduate "], "A": ["professor ", "teacher "]}
+{"index": 265680, "D": "a person who registers  or is registered. ", "S": ["graduate", "junior", "pupil", "scholar", "undergraduate"], "A": ["professor", "teacher"]}

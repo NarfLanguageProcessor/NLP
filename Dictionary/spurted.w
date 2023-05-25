@@ -1,1 +1,1 @@
-{"index": 301545, "D": "to gush or issue suddenly in a stream or jet, as a liquid; spout.", "S": ["ooze ", "spew "], "A": ["be quiet ", "trickle "]}
+{"index": 301545, "D": "to gush or issue suddenly in a stream or jet, as a liquid; spout.", "S": ["ooze", "spew"], "A": ["be quiet", "trickle"]}

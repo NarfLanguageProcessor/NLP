@@ -1,1 +1,1 @@
-{"index": 295205, "D": "having snags  or sharp projections, as a tree.", "S": ["broken ", "craggy ", "irregular ", "rugged ", "uneven "], "A": ["continuous ", "even ", "flat ", "level ", "smooth ", "mild ", "nice "]}
+{"index": 295205, "D": "having snags  or sharp projections, as a tree.", "S": ["broken", "craggy", "irregular", "rugged", "uneven"], "A": ["continuous", "even", "flat", "level", "smooth", "mild", "nice"]}

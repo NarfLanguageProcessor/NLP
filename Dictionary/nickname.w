@@ -1,1 +1,1 @@
-{"index": 199654, "D": "a name added to or substituted for the proper name of a person, place, etc., as in affection, ridicule, or familiarity", "S": ["epithet ", "moniker ", "sobriquet ", "style ", "tag "], "A": []}
+{"index": 199654, "D": "a name added to or substituted for the proper name of a person, place, etc., as in affection, ridicule, or familiarity", "S": ["epithet", "moniker", "sobriquet", "style", "tag"], "A": []}

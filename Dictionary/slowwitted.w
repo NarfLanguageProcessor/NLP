@@ -1,1 +1,1 @@
-{"index": 294476, "D": "mentally slow or dull; slow in comprehension and thinking.", "S": ["dense ", "dull "], "A": ["intelligent ", "smart "]}
+{"index": 294476, "D": "mentally slow or dull; slow in comprehension and thinking.", "S": ["dense", "dull"], "A": ["intelligent", "smart"]}

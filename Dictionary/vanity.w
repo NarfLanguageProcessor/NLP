@@ -1,1 +1,1 @@
-{"index": 357001, "D": "excessive pride in one's appearance, qualities, abilities, achievements, etc.; character or quality of being vain;  conceit", "S": ["arrogance ", "pride "], "A": ["humility ", "hiding ", "truth "]}
+{"index": 357001, "D": "excessive pride in one's appearance, qualities, abilities, achievements, etc.; character or quality of being vain;  conceit", "S": ["arrogance", "pride"], "A": ["humility", "hiding", "truth"]}

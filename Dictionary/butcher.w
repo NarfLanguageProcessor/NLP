@@ -1,1 +1,1 @@
-{"index": 43568, "D": "a retail or wholesale dealer in meat.", "S": ["processor ", "skinner ", "slaughterer "], "A": []}
+{"index": 43568, "D": "a retail or wholesale dealer in meat.", "S": ["processor", "skinner", "slaughterer"], "A": []}

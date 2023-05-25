@@ -1,1 +1,1 @@
-{"index": 282581, "D": "nausea and dizziness, sometimes accompanied by vomiting, resulting from the rocking or swaying motion of a vessel in which one is traveling at sea. ", "S": ["dizziness ", "nausea ", "queasiness "], "A": []}
+{"index": 282581, "D": "nausea and dizziness, sometimes accompanied by vomiting, resulting from the rocking or swaying motion of a vessel in which one is traveling at sea. ", "S": ["dizziness", "nausea", "queasiness"], "A": []}

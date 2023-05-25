@@ -1,1 +1,1 @@
-{"index": 221029, "D": "a person who oversees;  supervisor; manager", "S": ["superintendent ", "supervisor "], "A": []}
+{"index": 221029, "D": "a person who oversees;  supervisor; manager", "S": ["superintendent", "supervisor"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3499, "D": "advanced developing countries.", "S": ["adjutant", "aide", "assistant", "helper", "secretary"], "A": ["saboteur"]}

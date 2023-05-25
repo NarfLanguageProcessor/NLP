@@ -1,1 +1,1 @@
-{"index": 124954, "D": "the wattle of birds such as domestic fowl", "S": ["appearance ", "demeanor ", "mien ", "visage "], "A": []}
+{"index": 124954, "D": "the wattle of birds such as domestic fowl", "S": ["appearance", "demeanor", "mien", "visage"], "A": []}

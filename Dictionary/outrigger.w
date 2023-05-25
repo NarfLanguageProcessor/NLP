@@ -1,1 +1,1 @@
-{"index": 217281, "D": "a framework extended outboard from the side of a boat, especially, as in South Pacific canoes, supporting a float that gives stability.", "S": ["kayak "], "A": []}
+{"index": 217281, "D": "a framework extended outboard from the side of a boat, especially, as in South Pacific canoes, supporting a float that gives stability.", "S": ["kayak"], "A": []}

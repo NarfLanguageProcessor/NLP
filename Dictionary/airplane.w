@@ -1,1 +1,1 @@
-{"index": 6966, "D": "a heavier-than-air aircraft kept aloft by the upward thrust exerted by the passing air on its fixed wings and driven by propellers, jet propulsion, etc.", "S": ["aircraft ", "airliner ", "cab ", "jet ", "plane ", "ship "], "A": []}
+{"index": 6966, "D": "a heavier-than-air aircraft kept aloft by the upward thrust exerted by the passing air on its fixed wings and driven by propellers, jet propulsion, etc.", "S": ["aircraft", "airliner", "cab", "jet", "plane", "ship"], "A": []}

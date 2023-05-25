@@ -1,1 +1,1 @@
-{"index": 120308, "D": "providing fun;  causing amusement or laughter; amusing; comical", "S": ["absurd ", "amusing ", "droll ", "entertaining ", "hilarious ", "ludicrous ", "playful ", "ridiculous ", "silly ", "whimsical "], "A": ["boring ", "logical ", "reasonable ", "serious ", "tiring "]}
+{"index": 120308, "D": "providing fun;  causing amusement or laughter; amusing; comical", "S": ["absurd", "amusing", "droll", "entertaining", "hilarious", "ludicrous", "playful", "ridiculous", "silly", "whimsical"], "A": ["boring", "logical", "reasonable", "serious", "tiring"]}

@@ -1,1 +1,0 @@
-{"index": 290842, "D": "likeness; resemblance", "S": ["alikeness ", "copy ", "likeness ", "replica ", "representation ", "resemblance ", "similarity ", "simulation "], "A": ["difference ", "dissimilarity ", "original ", "unlikeness "]}

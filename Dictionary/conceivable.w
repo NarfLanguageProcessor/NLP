@@ -1,1 +1,1 @@
-{"index": 65105, "D": "capable of being conceived;  imaginable.", "S": ["believable ", "convincing ", "credible ", "imaginable ", "probable "], "A": ["implausible ", "impossible ", "improbable ", "inconceivable ", "incredible ", "unconvincing ", "unimaginable ", "unlikely ", "unthinkable "]}
+{"index": 65105, "D": "capable of being conceived;  imaginable.", "S": ["believable", "convincing", "credible", "imaginable", "probable"], "A": ["implausible", "impossible", "improbable", "inconceivable", "incredible", "unconvincing", "unimaginable", "unlikely", "unthinkable"]}

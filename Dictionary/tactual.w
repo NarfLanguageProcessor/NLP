@@ -1,1 +1,1 @@
-{"index": 315146, "D": "of or relating to the sense of touch.", "S": ["tactile "], "A": []}
+{"index": 315146, "D": "of or relating to the sense of touch.", "S": ["tactile"], "A": []}

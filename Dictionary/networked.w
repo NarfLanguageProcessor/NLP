@@ -1,1 +1,1 @@
-{"index": 198918, "D": "any netlike combination of filaments, lines, veins, passages, or the like", "S": ["wired "], "A": []}
+{"index": 198918, "D": "any netlike combination of filaments, lines, veins, passages, or the like", "S": ["wired"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 211212, "D": "differing in nature from what is ordinary, usual, or expected", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}
+{"index": 211212, "D": "differing in nature from what is ordinary, usual, or expected", "S": ["foible", "idiosyncrasy", "peculiarity", "quirk", "weirdness"], "A": ["conformity", "normalcy", "normality", "regularity", "sameness", "standard", "usualness"]}

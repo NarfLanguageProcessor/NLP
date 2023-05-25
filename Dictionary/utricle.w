@@ -1,1 +1,1 @@
-{"index": 356213, "D": "a small sac or baglike body, as an air-filled cavity in a seaweed.", "S": ["bacterium ", "egg ", "germ ", "unit "], "A": []}
+{"index": 356213, "D": "a small sac or baglike body, as an air-filled cavity in a seaweed.", "S": ["bacterium", "egg", "germ", "unit"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110310, "D": "weariness from bodily or mental exertion.", "S": ["lethargy ", "weakness ", "weariness "], "A": ["ability ", "energy ", "health ", "liveliness ", "strength ", "vigor "]}
+{"index": 110310, "D": "weariness from bodily or mental exertion.", "S": ["lethargy", "weakness", "weariness"], "A": ["ability", "energy", "health", "liveliness", "strength", "vigor"]}

@@ -1,1 +1,1 @@
-{"index": 295719, "D": "to sleep; slumber; doze; nap", "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}
+{"index": 295719, "D": "to sleep; slumber; doze; nap", "S": ["comatose", "dormant"], "A": ["attentive", "awake", "conscious"]}

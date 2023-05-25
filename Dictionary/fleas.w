@@ -1,1 +1,1 @@
-{"index": 114303, "D": "any of numerous small, wingless bloodsucking insects of the order Siphonaptera, parasitic upon mammals and birds and noted for their ability to leap.", "S": ["ant ", "beetle ", "pest "], "A": []}
+{"index": 114303, "D": "any of numerous small, wingless bloodsucking insects of the order Siphonaptera, parasitic upon mammals and birds and noted for their ability to leap.", "S": ["ant", "beetle", "pest"], "A": []}

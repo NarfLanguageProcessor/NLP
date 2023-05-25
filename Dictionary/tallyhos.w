@@ -1,1 +1,1 @@
-{"index": 315695, "D": "a mail coach or a four-in-hand pleasure coach.", "S": ["bus ", "car ", "chaise ", "charabanc ", "perambulator ", "stage ", "train ", "vehicle ", "victoria "], "A": ["player ", "pupil ", "student "]}
+{"index": 315695, "D": "a mail coach or a four-in-hand pleasure coach.", "S": ["bus", "car", "chaise", "charabanc", "perambulator", "stage", "train", "vehicle", "victoria"], "A": ["player", "pupil", "student"]}

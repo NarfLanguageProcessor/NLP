@@ -1,1 +1,1 @@
-{"index": 110144, "D": "a person who believes in or sympathizes with fascism. ", "S": ["Blackshirt ", "National Socialist ", "Nazi ", "brownshirt "], "A": ["democrat ", "republican ", "socialist "]}
+{"index": 110144, "D": "a person who believes in or sympathizes with fascism. ", "S": ["Blackshirt", "National Socialist", "Nazi", "brownshirt"], "A": ["democrat", "republican", "socialist"]}

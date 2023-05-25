@@ -1,1 +1,1 @@
-{"index": 154454, "D": "between or among allied nations, especially the Allies of World War I.", "S": ["involved ", "married ", "merged ", "united "], "A": ["disconnected ", "uncombined ", "unrelated "]}
+{"index": 154454, "D": "between or among allied nations, especially the Allies of World War I.", "S": ["involved", "married", "merged", "united"], "A": ["disconnected", "uncombined", "unrelated"]}

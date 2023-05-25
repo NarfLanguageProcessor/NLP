@@ -1,1 +1,1 @@
-{"index": 107642, "D": "tending to promote some proposed or desired object; fit or suitable for the purpose; proper under the circumstances", "S": ["apparently ", "doubtless ", "no doubt ", "perhaps ", "possibly ", "presumably ", "seemingly "], "A": ["improbably ", "uncertain ", "unlikely "]}
+{"index": 107642, "D": "tending to promote some proposed or desired object; fit or suitable for the purpose; proper under the circumstances", "S": ["apparently", "doubtless", "no doubt", "perhaps", "possibly", "presumably", "seemingly"], "A": ["improbably", "uncertain", "unlikely"]}

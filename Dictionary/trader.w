@@ -1,1 +1,1 @@
-{"index": 327249, "D": "a person who trades;  a merchant or businessperson.", "S": ["dealer ", "merchant ", "seller ", "stockbroker ", "trafficker "], "A": ["buyer ", "customer "]}
+{"index": 327249, "D": "a person who trades;  a merchant or businessperson.", "S": ["dealer", "merchant", "seller", "stockbroker", "trafficker"], "A": ["buyer", "customer"]}

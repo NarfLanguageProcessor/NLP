@@ -1,1 +1,1 @@
-{"index": 158134, "D": "to shed rays of light upon; illuminate.", "S": ["brighten ", "light ", "lighten "], "A": ["darken ", "depress ", "dull ", "upset "]}
+{"index": 158134, "D": "to shed rays of light upon; illuminate.", "S": ["brighten", "light", "lighten"], "A": ["darken", "depress", "dull", "upset"]}

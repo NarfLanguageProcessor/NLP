@@ -1,1 +1,1 @@
-{"index": 94679, "D": "keen or ardent in desire or feeling; impatiently longing", "S": ["ambitious ", "greedy ", "hungry ", "impatient ", "keen ", "restless ", "thirsty "], "A": ["satisfied "]}
+{"index": 94679, "D": "keen or ardent in desire or feeling; impatiently longing", "S": ["ambitious", "greedy", "hungry", "impatient", "keen", "restless", "thirsty"], "A": ["satisfied"]}

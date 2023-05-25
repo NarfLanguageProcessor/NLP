@@ -1,1 +1,1 @@
-{"index": 324378, "D": "slightly intoxicated or drunk.", "S": ["addled ", "dazed ", "intoxicated ", "unsteady ", "woozy "], "A": ["clearheaded ", "sober "]}
+{"index": 324378, "D": "slightly intoxicated or drunk.", "S": ["addled", "dazed", "intoxicated", "unsteady", "woozy"], "A": ["clearheaded", "sober"]}

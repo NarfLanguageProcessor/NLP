@@ -1,1 +1,1 @@
-{"index": 260803, "D": "full of, feeling, or manifesting ecstatic joy or delight.", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}
+{"index": 260803, "D": "full of, feeling, or manifesting ecstatic joy or delight.", "S": ["cheerfully", "cheerily", "cordially", "enthusiastically", "freely", "gleefully", "gratefully", "heartily", "readily", "warmly", "willingly"], "A": ["unwillingly"]}

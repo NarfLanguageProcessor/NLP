@@ -1,1 +1,1 @@
-{"index": 151686, "D": "in a way that is unyielding, unchangeable, or unavoidable", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}
+{"index": 151686, "D": "in a way that is unyielding, unchangeable, or unavoidable", "S": ["ferociously", "fiercely", "mercilessly", "relentlessly", "ruthlessly", "savagely", "viciously"], "A": ["gently", "humanely", "kindly", "nicely"]}

@@ -1,1 +1,1 @@
-{"index": 38136, "D": "a person devoted to reading or studying.", "S": ["bibliophile ", "intellectual ", "reader ", "savant ", "scholar "], "A": []}
+{"index": 38136, "D": "a person devoted to reading or studying.", "S": ["bibliophile", "intellectual", "reader", "savant", "scholar"], "A": []}

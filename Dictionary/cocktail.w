@@ -1,1 +1,1 @@
-{"index": 61590, "D": "any of various mixed drinks,  consisting typically of gin, whiskey, rum, vodka, or brandy, with different admixtures, as vermouth, fruit juices, or flavorings, usually chilled and frequently sweetened.", "S": ["aperitif ", "appetizer ", "drink ", "wine "], "A": []}
+{"index": 61590, "D": "any of various mixed drinks,  consisting typically of gin, whiskey, rum, vodka, or brandy, with different admixtures, as vermouth, fruit juices, or flavorings, usually chilled and frequently sweetened.", "S": ["aperitif", "appetizer", "drink", "wine"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 294521, "D": "a person who is habitually inactive or lazy.", "S": ["dawdler ", "drone ", "idler ", "laggard ", "lazybones ", "loafer ", "slouch ", "slug ", "snail "], "A": []}
+{"index": 294521, "D": "a person who is habitually inactive or lazy.", "S": ["dawdler", "drone", "idler", "laggard", "lazybones", "loafer", "slouch", "slug", "snail"], "A": []}

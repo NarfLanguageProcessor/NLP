@@ -1,1 +1,1 @@
-{"index": 151335, "D": "the act of inducing, bringing about, or causing", "S": ["inauguration ", "introduction "], "A": ["end ", "finish "]}
+{"index": 151335, "D": "the act of inducing, bringing about, or causing", "S": ["inauguration", "introduction"], "A": ["end", "finish"]}

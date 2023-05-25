@@ -1,1 +1,1 @@
-{"index": 180668, "D": "a club with an iron head, the face having more slope than a mashie iron  but less slope than a mashie niblick. ", "S": ["muddy ", "spongy ", "squishy "], "A": ["hard ", "stiff ", "unfeeling ", "unromantic "]}
+{"index": 180668, "D": "a club with an iron head, the face having more slope than a mashie iron  but less slope than a mashie niblick. ", "S": ["muddy", "spongy", "squishy"], "A": ["hard", "stiff", "unfeeling", "unromantic"]}

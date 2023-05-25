@@ -1,1 +1,1 @@
-{"index": 92511, "D": "a drawing, sketch, or design.", "S": ["blueprint ", "outline ", "version "], "A": []}
+{"index": 92511, "D": "a drawing, sketch, or design.", "S": ["blueprint", "outline", "version"], "A": []}

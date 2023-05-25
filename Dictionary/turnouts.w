@@ -1,1 +1,1 @@
-{"index": 332850, "D": "the gathering of persons who come to an exhibition, party, spectacle, or the like", "S": ["attendance ", "crowd ", "number "], "A": ["origin ", "resource ", "source "]}
+{"index": 332850, "D": "the gathering of persons who come to an exhibition, party, spectacle, or the like", "S": ["attendance", "crowd", "number"], "A": ["origin", "resource", "source"]}

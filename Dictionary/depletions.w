@@ -1,1 +1,1 @@
-{"index": 81664, "D": "to decrease seriously or exhaust the abundance or supply of", "S": ["deficiency ", "reduction "], "A": []}
+{"index": 81664, "D": "to decrease seriously or exhaust the abundance or supply of", "S": ["deficiency", "reduction"], "A": []}

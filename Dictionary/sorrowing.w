@@ -1,1 +1,1 @@
-{"index": 297669, "D": "distress caused by loss, affliction, disappointment, etc.; grief, sadness, or regret.", "S": ["mourning ", "sobbing "], "A": []}
+{"index": 297669, "D": "distress caused by loss, affliction, disappointment, etc.; grief, sadness, or regret.", "S": ["mourning", "sobbing"], "A": []}

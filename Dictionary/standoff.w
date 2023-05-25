@@ -1,1 +1,1 @@
-{"index": 302692, "D": "a standing off or apart; aloofness.", "S": ["deadlock ", "impasse ", "stalemate "], "A": ["agreement ", "breakthrough "]}
+{"index": 302692, "D": "a standing off or apart; aloofness.", "S": ["deadlock", "impasse", "stalemate"], "A": ["agreement", "breakthrough"]}

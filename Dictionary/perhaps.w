@@ -1,1 +1,1 @@
-{"index": 230723, "D": "maybe; possibly", "S": ["maybe ", "perchance "], "A": ["improbably ", "never ", "unlikely "]}
+{"index": 230723, "D": "maybe; possibly", "S": ["maybe", "perchance"], "A": ["improbably", "never", "unlikely"]}

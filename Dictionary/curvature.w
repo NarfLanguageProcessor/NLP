@@ -1,1 +1,1 @@
-{"index": 75558, "D": "the act of curving or the state of being curved.", "S": ["arc ", "arch ", "bend ", "bow ", "curve ", "deflection ", "flexure ", "incurvation ", "round ", "shape "], "A": ["line "]}
+{"index": 75558, "D": "the act of curving or the state of being curved.", "S": ["arc", "arch", "bend", "bow", "curve", "deflection", "flexure", "incurvation", "round", "shape"], "A": ["line"]}

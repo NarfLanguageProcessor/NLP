@@ -1,1 +1,1 @@
-{"index": 361010, "D": "a person who engages in voyeurism. ", "S": ["peeper "], "A": []}
+{"index": 361010, "D": "a person who engages in voyeurism. ", "S": ["peeper"], "A": []}

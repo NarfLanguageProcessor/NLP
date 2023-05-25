@@ -1,1 +1,1 @@
-{"index": 355076, "D": "upright; honorable; straightforward.", "S": ["ethical ", "good ", "honest ", "incorruptible ", "moral ", "prideful ", "principled ", "straightforward ", "true ", "trustworthy ", "upright "], "A": ["bad ", "corrupted ", "dishonorable ", "disreputable "]}
+{"index": 355076, "D": "upright; honorable; straightforward.", "S": ["ethical", "good", "honest", "incorruptible", "moral", "prideful", "principled", "straightforward", "true", "trustworthy", "upright"], "A": ["bad", "corrupted", "dishonorable", "disreputable"]}

@@ -1,1 +1,1 @@
-{"index": 151745, "D": "that cannot be expunged,  erased, or obliterated; inextirpable.", "S": ["enduring ", "lasting ", "memorable ", "stirring ", "unforgettable "], "A": ["destructible ", "impermanent "]}
+{"index": 151745, "D": "that cannot be expunged,  erased, or obliterated; inextirpable.", "S": ["enduring", "lasting", "memorable", "stirring", "unforgettable"], "A": ["destructible", "impermanent"]}

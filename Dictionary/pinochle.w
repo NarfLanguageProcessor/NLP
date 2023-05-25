@@ -1,1 +1,1 @@
-{"index": 237210, "D": "a popular card game played by two, three, or four persons, with a 48-card deck.", "S": ["poker ", "roulette "], "A": []}
+{"index": 237210, "D": "a popular card game played by two, three, or four persons, with a 48-card deck.", "S": ["poker", "roulette"], "A": []}

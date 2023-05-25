@@ -1,1 +1,1 @@
-{"index": 98152, "D": "to make bold or bolder; hearten; encourage. ", "S": ["buoy ", "energize ", "inspire ", "invigorate ", "reassure ", "spur ", "sway "], "A": ["discourage ", "dishearten ", "dissuade ", "depress "]}
+{"index": 98152, "D": "to make bold or bolder; hearten; encourage. ", "S": ["buoy", "energize", "inspire", "invigorate", "reassure", "spur", "sway"], "A": ["discourage", "dishearten", "dissuade", "depress"]}

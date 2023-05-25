@@ -1,1 +1,1 @@
-{"index": 23682, "D": "an augur of ancient Rome.", "S": ["aegis ", "patronage ", "sponsorship "], "A": ["opposition ", "powerlessness ", "weakness "]}
+{"index": 23682, "D": "an augur of ancient Rome.", "S": ["aegis", "patronage", "sponsorship"], "A": ["opposition", "powerlessness", "weakness"]}

@@ -1,1 +1,1 @@
-{"index": 47226, "D": "to take by force or stratagem; take prisoner; seize", "S": ["collected ", "seized "], "A": ["deprived ", "forfeited ", "lost "]}
+{"index": 47226, "D": "to take by force or stratagem; take prisoner; seize", "S": ["collected", "seized"], "A": ["deprived", "forfeited", "lost"]}

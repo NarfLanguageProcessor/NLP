@@ -1,1 +1,1 @@
-{"index": 192009, "D": "of or relating to a monitor.", "S": ["ominous "], "A": []}
+{"index": 192009, "D": "of or relating to a monitor.", "S": ["ominous"], "A": []}

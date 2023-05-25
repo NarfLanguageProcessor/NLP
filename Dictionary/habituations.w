@@ -1,1 +1,1 @@
-{"index": 131809, "D": "the act of habituating. ", "S": ["acclimatization ", "agreement ", "compliance ", "correspondence ", "familiarization ", "naturalization "], "A": ["disagreement "]}
+{"index": 131809, "D": "the act of habituating. ", "S": ["acclimatization", "agreement", "compliance", "correspondence", "familiarization", "naturalization"], "A": ["disagreement"]}

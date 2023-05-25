@@ -1,1 +1,1 @@
-{"index": 116159, "D": "a footstep.", "S": ["stride "], "A": []}
+{"index": 116159, "D": "a footstep.", "S": ["stride"], "A": []}

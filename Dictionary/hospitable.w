@@ -1,1 +1,1 @@
-{"index": 144160, "D": "receiving or treating guests or strangers warmly and generously", "S": ["congenial ", "courteous ", "friendly ", "neighborly "], "A": ["cold ", "incompatible ", "unfriendly ", "unsociable "]}
+{"index": 144160, "D": "receiving or treating guests or strangers warmly and generously", "S": ["congenial", "courteous", "friendly", "neighborly"], "A": ["cold", "incompatible", "unfriendly", "unsociable"]}

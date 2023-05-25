@@ -1,1 +1,1 @@
-{"index": 3300, "D": "existing in act or fact; real", "S": ["corporeality ", "definiteness ", "distinction ", "embodiment ", "incarnation ", "manifestation ", "materiality ", "objectiveness ", "physicality ", "solidity ", "substantialness ", "tactility ", "tangibleness "], "A": []}
+{"index": 3300, "D": "existing in act or fact; real", "S": ["corporeality", "definiteness", "distinction", "embodiment", "incarnation", "manifestation", "materiality", "objectiveness", "physicality", "solidity", "substantialness", "tactility", "tangibleness"], "A": []}

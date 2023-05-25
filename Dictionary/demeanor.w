@@ -1,1 +1,1 @@
-{"index": 80410, "D": "conduct; behavior; deportment.", "S": ["attitude ", "disposition ", "mien ", "poise ", "presence "], "A": []}
+{"index": 80410, "D": "conduct; behavior; deportment.", "S": ["attitude", "disposition", "mien", "poise", "presence"], "A": []}

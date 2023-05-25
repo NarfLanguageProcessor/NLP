@@ -1,1 +1,1 @@
-{"index": 240053, "D": "a network, as of nerves or blood vessels.", "S": ["mesh ", "rete ", "system ", "web "], "A": []}
+{"index": 240053, "D": "a network, as of nerves or blood vessels.", "S": ["mesh", "rete", "system", "web"], "A": []}

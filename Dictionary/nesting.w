@@ -1,1 +1,1 @@
-{"index": 198822, "D": "the tendency to arrange one's immediate surroundings, such as a work station, to create a place where one feels secure, comfortable, or in control", "S": ["crash ", "locate ", "occupy ", "reside ", "settle "], "A": ["depart ", "leave ", "move ", "go "]}
+{"index": 198822, "D": "the tendency to arrange one's immediate surroundings, such as a work station, to create a place where one feels secure, comfortable, or in control", "S": ["crash", "locate", "occupy", "reside", "settle"], "A": ["depart", "leave", "move", "go"]}

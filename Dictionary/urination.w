@@ -1,1 +1,1 @@
-{"index": 355665, "D": [], "S": ["defecation ", "discharge ", "ejection ", "elimination ", "evacuation ", "expelling ", "expulsion ", "exudation ", "leaving ", "perspiration ", "secretion ", "sweating ", "voiding "], "A": ["accretion ", "eating ", "receiving "]}
+{"index": 355665, "D": [], "S": ["defecation", "discharge", "ejection", "elimination", "evacuation", "expelling", "expulsion", "exudation", "leaving", "perspiration", "secretion", "sweating", "voiding"], "A": ["accretion", "eating", "receiving"]}

@@ -1,1 +1,1 @@
-{"index": 272708, "D": "a widely cultivated cereal grass, Secale cereale, having one-nerved glumes and two- or three-flowered spikelets.", "S": ["bran ", "corn ", "grain ", "rice ", "wheat "], "A": []}
+{"index": 272708, "D": "a widely cultivated cereal grass, Secale cereale, having one-nerved glumes and two- or three-flowered spikelets.", "S": ["bran", "corn", "grain", "rice", "wheat"], "A": []}

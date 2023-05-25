@@ -1,1 +1,0 @@
-{"index": 308335, "D": "Compare senior (def. 1). ", "S": [], "A": []}

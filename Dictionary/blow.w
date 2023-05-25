@@ -1,1 +1,1 @@
-{"index": 36595, "D": "a sudden, hard stroke with a hand, fist, or weapon", "S": ["hurricane "], "A": ["calm "]}
+{"index": 36595, "D": "a sudden, hard stroke with a hand, fist, or weapon", "S": ["hurricane"], "A": ["calm"]}

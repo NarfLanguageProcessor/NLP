@@ -1,1 +1,1 @@
-{"index": 39192, "D": "the act or art of playing a stringed instrument with a bow. ", "S": ["leaning "], "A": []}
+{"index": 39192, "D": "the act or art of playing a stringed instrument with a bow. ", "S": ["leaning"], "A": []}

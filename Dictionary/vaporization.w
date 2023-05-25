@@ -1,1 +1,1 @@
-{"index": 357081, "D": "the act of vaporizing. ", "S": ["dispersal ", "melting "], "A": ["appearance "]}
+{"index": 357081, "D": "the act of vaporizing. ", "S": ["dispersal", "melting"], "A": ["appearance"]}

@@ -1,1 +1,1 @@
-{"index": 47229, "D": "to take by force or stratagem; take prisoner; seize", "S": ["abduction ", "apprehension ", "arrest ", "confiscation ", "imprisonment ", "occupation ", "seizure ", "taking "], "A": ["letting go ", "release ", "rise "]}
+{"index": 47229, "D": "to take by force or stratagem; take prisoner; seize", "S": ["abduction", "apprehension", "arrest", "confiscation", "imprisonment", "occupation", "seizure", "taking"], "A": ["letting go", "release", "rise"]}

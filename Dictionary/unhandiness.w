@@ -1,1 +1,1 @@
-{"index": 343476, "D": "not skillful in manual work", "S": ["peril "], "A": ["safety "]}
+{"index": 343476, "D": "not skillful in manual work", "S": ["peril"], "A": ["safety"]}

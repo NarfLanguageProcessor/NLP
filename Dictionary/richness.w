@@ -1,1 +1,1 @@
-{"index": 272546, "D": "the state or quality of being rich", "S": ["abundance "], "A": []}
+{"index": 272546, "D": "the state or quality of being rich", "S": ["abundance"], "A": []}

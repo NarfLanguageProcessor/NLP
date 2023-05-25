@@ -1,1 +1,1 @@
-{"index": 282494, "D": "a person skilled in seamanship. ", "S": ["beachcomber ", "gob ", "mate ", "merman ", "middy ", "midshipman ", "navigator ", "pilot ", "sailor ", "salt ", "seafarer ", "skipper ", "tar "], "A": []}
+{"index": 282494, "D": "a person skilled in seamanship. ", "S": ["beachcomber", "gob", "mate", "merman", "middy", "midshipman", "navigator", "pilot", "sailor", "salt", "seafarer", "skipper", "tar"], "A": []}

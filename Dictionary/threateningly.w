@@ -1,1 +1,1 @@
-{"index": 322594, "D": "tending or intended to menace", "S": ["angrily ", "boldly ", "brutally ", "ferociously ", "forcefully ", "frantically ", "furiously ", "madly ", "mightily ", "passionately ", "savagely ", "severely ", "vehemently ", "viciously ", "wildly "], "A": ["calmly ", "gently "]}
+{"index": 322594, "D": "tending or intended to menace", "S": ["angrily", "boldly", "brutally", "ferociously", "forcefully", "frantically", "furiously", "madly", "mightily", "passionately", "savagely", "severely", "vehemently", "viciously", "wildly"], "A": ["calmly", "gently"]}

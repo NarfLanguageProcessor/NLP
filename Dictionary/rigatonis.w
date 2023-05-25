@@ -1,1 +1,1 @@
-{"index": 272788, "D": "a tubular pasta in short, ribbed pieces.", "S": ["gnocchi ", "linguine ", "macaroni ", "ravioli ", "spaghetti ", "tortellini "], "A": []}
+{"index": 272788, "D": "a tubular pasta in short, ribbed pieces.", "S": ["gnocchi", "linguine", "macaroni", "ravioli", "spaghetti", "tortellini"], "A": []}

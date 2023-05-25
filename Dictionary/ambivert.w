@@ -1,0 +1,1 @@
+{"index": 10042, "D": "one whose personality type is intermediate between extrovert and introvert.", "S": [], "A": []}

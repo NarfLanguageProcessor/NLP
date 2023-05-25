@@ -1,1 +1,1 @@
-{"index": 178513, "D": "an untidy woman; slattern.", "S": ["kitten ", "kitty ", "tabby "], "A": []}
+{"index": 178513, "D": "an untidy woman; slattern.", "S": ["kitten", "kitty", "tabby"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 37194, "D": "having a body  of a specific kind (used in combination)", "S": ["mean ", "perform ", "produce ", "serve ", "serve as ", "show ", "speak for "], "A": ["refuse ", "differ ", "imbalance ", "oppose ", "reverse ", "stop "]}
+{"index": 37194, "D": "having a body  of a specific kind (used in combination)", "S": ["mean", "perform", "produce", "serve", "serve as", "show", "speak for"], "A": ["refuse", "differ", "imbalance", "oppose", "reverse", "stop"]}

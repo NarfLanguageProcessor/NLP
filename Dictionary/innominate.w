@@ -1,1 +1,1 @@
-{"index": 153079, "D": "having no name; nameless; anonymous.", "S": ["nameless ", "undisclosed ", "unidentified ", "unnamed ", "unsigned "], "A": ["known ", "named "]}
+{"index": 153079, "D": "having no name; nameless; anonymous.", "S": ["nameless", "undisclosed", "unidentified", "unnamed", "unsigned"], "A": ["known", "named"]}

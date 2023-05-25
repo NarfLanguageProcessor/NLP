@@ -1,1 +1,1 @@
-{"index": 337626, "D": "not friendly, pleasant, or agreeable", "S": ["asocial ", "disagreeable ", "discordant ", "discourteous ", "incongruous ", "inharmonious ", "uncivil ", "ungregarious ", "unpleasant ", "unsociable "], "A": ["congenial "]}
+{"index": 337626, "D": "not friendly, pleasant, or agreeable", "S": ["asocial", "disagreeable", "discordant", "discourteous", "incongruous", "inharmonious", "uncivil", "ungregarious", "unpleasant", "unsociable"], "A": ["congenial"]}

@@ -1,0 +1,1 @@
+{"index": 22048, "D": "not reaching to or connected with the sternum.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 287139, "D": "covered with or having long, rough hair.", "S": ["furry ", "long-haired "], "A": ["shaven ", "smooth "]}
+{"index": 287139, "D": "covered with or having long, rough hair.", "S": ["furry", "long-haired"], "A": ["shaven", "smooth"]}

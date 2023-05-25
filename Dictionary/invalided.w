@@ -1,1 +1,1 @@
-{"index": 157019, "D": [], "S": ["circumscribed ", "cramped ", "imprisoned ", "restrained ", "restricted "], "A": ["healthy ", "well "]}
+{"index": 157019, "D": [], "S": ["circumscribed", "cramped", "imprisoned", "restrained", "restricted"], "A": ["healthy", "well"]}

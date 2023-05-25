@@ -1,1 +1,0 @@
-{"index": 176326, "D": "a crossbred dog used especially by poachers.", "S": [], "A": []}

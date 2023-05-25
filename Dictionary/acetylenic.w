@@ -1,0 +1,1 @@
+{"index": 2072, "D": "a colorless gas, C2H2, having an etherlike odor, produced usually by the action of water on calcium carbide or by pyrolysis of natural gas", "S": [], "A": []}

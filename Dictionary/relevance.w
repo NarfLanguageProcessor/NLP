@@ -1,1 +1,1 @@
-{"index": 266854, "D": "the condition of being relevant,  or connected with the matter at hand", "S": ["applicability ", "importance ", "purpose "], "A": []}
+{"index": 266854, "D": "the condition of being relevant,  or connected with the matter at hand", "S": ["applicability", "importance", "purpose"], "A": []}

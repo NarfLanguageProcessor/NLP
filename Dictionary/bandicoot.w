@@ -1,1 +1,1 @@
-{"index": 27324, "D": "any of several large East Indian rats of the genus Nesokia.", "S": ["euro ", "kangaroo ", "koala ", "opossum ", "possum ", "wallaby ", "wombat "], "A": []}
+{"index": 27324, "D": "any of several large East Indian rats of the genus Nesokia.", "S": ["euro", "kangaroo", "koala", "opossum", "possum", "wallaby", "wombat"], "A": []}

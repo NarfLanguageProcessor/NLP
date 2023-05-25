@@ -1,1 +1,1 @@
-{"index": 199431, "D": "a broadcast  of news  on radio or television.", "S": ["announcer ", "commentator "], "A": []}
+{"index": 199431, "D": "a broadcast  of news  on radio or television.", "S": ["announcer", "commentator"], "A": []}

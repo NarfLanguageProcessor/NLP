@@ -1,1 +1,1 @@
-{"index": 97553, "D": "to omit (a vowel, consonant, or syllable) in pronunciation.", "S": ["cancel ", "delete ", "neglect ", "suppress "], "A": []}
+{"index": 97553, "D": "to omit (a vowel, consonant, or syllable) in pronunciation.", "S": ["cancel", "delete", "neglect", "suppress"], "A": []}

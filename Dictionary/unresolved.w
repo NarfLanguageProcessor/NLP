@@ -1,1 +1,1 @@
-{"index": 349723, "D": "(of a problem or dispute) not having been solved or concluded", "S": ["moot ", "pending ", "unanswered ", "undecided ", "undetermined ", "unsettled ", "unsolved "], "A": ["certain ", "decided ", "definite ", "determined ", "settled ", "sure "]}
+{"index": 349723, "D": "(of a problem or dispute) not having been solved or concluded", "S": ["moot", "pending", "unanswered", "undecided", "undetermined", "unsettled", "unsolved"], "A": ["certain", "decided", "definite", "determined", "settled", "sure"]}

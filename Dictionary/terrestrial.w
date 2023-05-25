@@ -1,1 +1,1 @@
-{"index": 319546, "D": "pertaining to, consisting of, or representing the earth as distinct from other planets.", "S": ["telluric ", "terrene "], "A": ["cosmic ", "heavenly ", "otherworldly "]}
+{"index": 319546, "D": "pertaining to, consisting of, or representing the earth as distinct from other planets.", "S": ["telluric", "terrene"], "A": ["cosmic", "heavenly", "otherworldly"]}

@@ -1,1 +1,1 @@
-{"index": 27446, "D": "plural of ban4. ", "S": ["boycott ", "censorship ", "embargo ", "injunction ", "prohibition ", "refusal ", "restriction "], "A": ["approval ", "sanction "]}
+{"index": 27446, "D": "plural of ban4. ", "S": ["boycott", "censorship", "embargo", "injunction", "prohibition", "refusal", "restriction"], "A": ["approval", "sanction"]}

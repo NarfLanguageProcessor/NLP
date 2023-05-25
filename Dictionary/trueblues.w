@@ -1,1 +1,1 @@
-{"index": 331513, "D": [], "S": ["dedicated ", "dependable ", "devoted ", "faithful ", "loyal ", "staunch "], "A": []}
+{"index": 331513, "D": [], "S": ["dedicated", "dependable", "devoted", "faithful", "loyal", "staunch"], "A": []}

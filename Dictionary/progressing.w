@@ -1,1 +1,1 @@
-{"index": 251936, "D": "a movement toward a goal or to a further or higher stage", "S": ["improving ", "well "], "A": ["sicker ", "smaller ", "unhealthy ", "worse "]}
+{"index": 251936, "D": "a movement toward a goal or to a further or higher stage", "S": ["improving", "well"], "A": ["sicker", "smaller", "unhealthy", "worse"]}

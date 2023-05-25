@@ -1,1 +1,1 @@
-{"index": 81829, "D": "tending to depreciate. ", "S": ["belittling ", "critical ", "deprecating ", "deprecative ", "deprecatory ", "depreciatory ", "derogative ", "derogatory ", "detractive ", "disapproving ", "slighting ", "uncomplimentary "], "A": []}
+{"index": 81829, "D": "tending to depreciate. ", "S": ["belittling", "critical", "deprecating", "deprecative", "deprecatory", "depreciatory", "derogative", "derogatory", "detractive", "disapproving", "slighting", "uncomplimentary"], "A": []}

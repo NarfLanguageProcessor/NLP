@@ -1,1 +1,1 @@
-{"index": 268636, "D": "the act or process of reproducing. ", "S": ["breeding ", "copy ", "facsimile ", "imitation ", "photocopy ", "photograph ", "picture ", "print ", "propagation ", "recreation ", "replica ", "replication "], "A": ["original ", "decrease ", "destruction ", "subtraction "]}
+{"index": 268636, "D": "the act or process of reproducing. ", "S": ["breeding", "copy", "facsimile", "imitation", "photocopy", "photograph", "picture", "print", "propagation", "recreation", "replica", "replication"], "A": ["original", "decrease", "destruction", "subtraction"]}

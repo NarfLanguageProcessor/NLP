@@ -1,1 +1,1 @@
-{"index": 245367, "D": "license or permission to use a port, given to a ship after quarantine or on showing a clean bill of health.", "S": ["clean bill of health ", "full pratique "], "A": []}
+{"index": 245367, "D": "license or permission to use a port, given to a ship after quarantine or on showing a clean bill of health.", "S": ["clean bill of health", "full pratique"], "A": []}

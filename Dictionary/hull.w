@@ -1,1 +1,1 @@
-{"index": 144805, "D": "the husk, shell, or outer covering of a seed or fruit.", "S": ["frame ", "skin "], "A": []}
+{"index": 144805, "D": "the husk, shell, or outer covering of a seed or fruit.", "S": ["frame", "skin"], "A": []}

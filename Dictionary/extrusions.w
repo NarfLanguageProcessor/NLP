@@ -1,1 +1,1 @@
-{"index": 108774, "D": "the act of extruding  or the state of being extruded. ", "S": ["banishment ", "discharge ", "displacement ", "ejection ", "eviction ", "exclusion ", "ouster ", "purge ", "removal ", "suspension "], "A": ["admittance ", "inclusion ", "welcome ", "welcoming "]}
+{"index": 108774, "D": "the act of extruding  or the state of being extruded. ", "S": ["banishment", "discharge", "displacement", "ejection", "eviction", "exclusion", "ouster", "purge", "removal", "suspension"], "A": ["admittance", "inclusion", "welcome", "welcoming"]}

@@ -1,1 +1,1 @@
-{"index": 42430, "D": "a plant growing from such a bud.", "S": ["corn "], "A": ["depression "]}
+{"index": 42430, "D": "a plant growing from such a bud.", "S": ["corn"], "A": ["depression"]}

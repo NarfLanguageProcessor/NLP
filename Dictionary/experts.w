@@ -1,1 +1,1 @@
-{"index": 107758, "D": "a person who has special skill or knowledge in some particular field; specialist; authority", "S": ["advisors ", "advisory board ", "authorities ", "cabinet ", "council ", "high-level advisers ", "inner circle "], "A": []}
+{"index": 107758, "D": "a person who has special skill or knowledge in some particular field; specialist; authority", "S": ["advisors", "advisory board", "authorities", "cabinet", "council", "high-level advisers", "inner circle"], "A": []}

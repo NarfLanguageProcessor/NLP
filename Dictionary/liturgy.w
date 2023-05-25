@@ -1,1 +1,1 @@
-{"index": 173905, "D": "a form of public worship; ritual.", "S": ["Sacrament ", "observance ", "rite ", "ritual "], "A": []}
+{"index": 173905, "D": "a form of public worship; ritual.", "S": ["Sacrament", "observance", "rite", "ritual"], "A": []}

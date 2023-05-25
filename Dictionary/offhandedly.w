@@ -1,1 +1,1 @@
-{"index": 211599, "D": "cavalierly, curtly, or brusquely", "S": ["carelessly ", "heedlessly ", "indifferently ", "thoughtlessly "], "A": []}
+{"index": 211599, "D": "cavalierly, curtly, or brusquely", "S": ["carelessly", "heedlessly", "indifferently", "thoughtlessly"], "A": []}

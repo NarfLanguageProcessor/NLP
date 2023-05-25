@@ -1,1 +1,1 @@
-{"index": 306387, "D": "to deprive of covering", "S": ["striptease "], "A": []}
+{"index": 306387, "D": "to deprive of covering", "S": ["striptease"], "A": []}

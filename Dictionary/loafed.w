@@ -1,1 +1,1 @@
-{"index": 174091, "D": "a portion of bread or cake baked in a shaped or molded mass, usually oblong with a rounded top", "S": ["bun ", "cake ", "cube ", "dough ", "pastry ", "slab "], "A": []}
+{"index": 174091, "D": "a portion of bread or cake baked in a shaped or molded mass, usually oblong with a rounded top", "S": ["bun", "cake", "cube", "dough", "pastry", "slab"], "A": []}

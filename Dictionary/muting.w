@@ -1,1 +1,1 @@
-{"index": 196286, "D": "silent; refraining from speech or utterance.", "S": ["silent ", "speechless "], "A": ["communicative "]}
+{"index": 196286, "D": "silent; refraining from speech or utterance.", "S": ["silent", "speechless"], "A": ["communicative"]}

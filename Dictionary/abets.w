@@ -1,1 +1,1 @@
-{"index": 371, "D": "to encourage, support, or countenance by aid or approval, usually in wrongdoing", "S": ["condone ", "incite ", "instigate ", "provoke "], "A": ["halt ", "prevent ", "stop ", "disapprove ", "discourage ", "dissuade ", "oppose ", "protest ", "refuse ", "reject "]}
+{"index": 371, "D": "to encourage, support, or countenance by aid or approval, usually in wrongdoing", "S": ["condone", "incite", "instigate", "provoke"], "A": ["halt", "prevent", "stop", "disapprove", "discourage", "dissuade", "oppose", "protest", "refuse", "reject"]}

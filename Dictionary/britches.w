@@ -1,1 +1,1 @@
-{"index": 40989, "D": "breeches. ", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}
+{"index": 40989, "D": "breeches. ", "S": ["knickers", "shorts", "slacks", "trousers", "underpants"], "A": []}

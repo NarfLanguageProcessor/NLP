@@ -1,1 +1,1 @@
-{"index": 74080, "D": "a container of metal or refractory material employed for heating substances to high temperatures.", "S": ["cauldron ", "container ", "pot ", "vessel "], "A": []}
+{"index": 74080, "D": "a container of metal or refractory material employed for heating substances to high temperatures.", "S": ["cauldron", "container", "pot", "vessel"], "A": []}

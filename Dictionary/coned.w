@@ -1,1 +1,1 @@
-{"index": 65734, "D": "a plane surface resembling the cross section of a solid cone.", "S": ["cone-shaped ", "tapered "], "A": []}
+{"index": 65734, "D": "a plane surface resembling the cross section of a solid cone.", "S": ["cone-shaped", "tapered"], "A": []}

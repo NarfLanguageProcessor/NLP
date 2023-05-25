@@ -1,1 +1,1 @@
-{"index": 51587, "D": "having or proved by a certificate", "S": ["authorized "], "A": []}
+{"index": 51587, "D": "having or proved by a certificate", "S": ["authorized"], "A": []}

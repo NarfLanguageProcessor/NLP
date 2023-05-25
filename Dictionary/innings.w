@@ -1,1 +1,1 @@
-{"index": 153049, "D": "the runs scored during such a turn", "S": ["round ", "shot ", "stint ", "stretch "], "A": ["cessation ", "idleness ", "inaction ", "inactivity ", "inertia ", "repose ", "rest ", "stagnation ", "stoppage "]}
+{"index": 153049, "D": "the runs scored during such a turn", "S": ["round", "shot", "stint", "stretch"], "A": ["cessation", "idleness", "inaction", "inactivity", "inertia", "repose", "rest", "stagnation", "stoppage"]}

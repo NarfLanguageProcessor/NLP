@@ -1,1 +1,1 @@
-{"index": 238462, "D": "a pin, point, or short shaft on the end of which something rests and turns, or upon and about which something rotates or oscillates.", "S": ["depend ", "rotate ", "swivel ", "twirl ", "veer ", "whirl "], "A": ["stay "]}
+{"index": 238462, "D": "a pin, point, or short shaft on the end of which something rests and turns, or upon and about which something rotates or oscillates.", "S": ["depend", "rotate", "swivel", "twirl", "veer", "whirl"], "A": ["stay"]}

@@ -1,1 +1,1 @@
-{"index": 68586, "D": [], "S": ["alibi ", "evasion ", "excuse ", "justification ", "plea ", "pretext ", "rationalization "], "A": []}
+{"index": 68586, "D": [], "S": ["alibi", "evasion", "excuse", "justification", "plea", "pretext", "rationalization"], "A": []}

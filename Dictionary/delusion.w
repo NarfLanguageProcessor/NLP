@@ -1,1 +1,1 @@
-{"index": 80297, "D": "an act or instance of deluding. ", "S": ["deception ", "fantasy ", "hallucination ", "illusion ", "pipe dream "], "A": ["fact ", "reality ", "truth ", "accuracy ", "actuality ", "being ", "certainty ", "correction ", "fix ", "honesty ", "right ", "success "]}
+{"index": 80297, "D": "an act or instance of deluding. ", "S": ["deception", "fantasy", "hallucination", "illusion", "pipe dream"], "A": ["fact", "reality", "truth", "accuracy", "actuality", "being", "certainty", "correction", "fix", "honesty", "right", "success"]}

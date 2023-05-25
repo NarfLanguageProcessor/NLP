@@ -1,1 +1,1 @@
-{"index": 132938, "D": "an unskilled, overeager, or artless actor, or any performer who overacts.", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}
+{"index": 132938, "D": "an unskilled, overeager, or artless actor, or any performer who overacts.", "S": ["artist", "character", "clown", "comedian", "entertainer", "performer", "player", "star", "villain"], "A": ["audience", "fan"]}

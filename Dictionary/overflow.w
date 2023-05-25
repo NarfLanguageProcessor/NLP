@@ -1,1 +1,1 @@
-{"index": 219409, "D": "to flow or run over, as rivers or water", "S": ["deluge ", "flash flood ", "overabundance ", "torrent "], "A": ["discouragement ", "insufficiency ", "lack ", "necessity ", "need ", "want "]}
+{"index": 219409, "D": "to flow or run over, as rivers or water", "S": ["deluge", "flash flood", "overabundance", "torrent"], "A": ["discouragement", "insufficiency", "lack", "necessity", "need", "want"]}

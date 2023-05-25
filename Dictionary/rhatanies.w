@@ -1,1 +1,0 @@
-{"index": 271825, "D": "either of two South American shrubs belonging to the genus Krameria, of the legume family, K. tiandra(knotty rhatany,  or Peruvian rhatany ) or K. argentea(Brazilian rhatany,  or Par\u00e1 rhatany ).", "S": [], "A": []}

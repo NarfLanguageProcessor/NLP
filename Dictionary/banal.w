@@ -1,1 +1,1 @@
-{"index": 27229, "D": "devoid of freshness or originality; hackneyed; trite", "S": ["bland ", "corny ", "dumb ", "hackneyed ", "mundane ", "stupid ", "trite ", "vapid "], "A": ["intelligent ", "new ", "original ", "sharp ", "smart ", "uncommon "]}
+{"index": 27229, "D": "devoid of freshness or originality; hackneyed; trite", "S": ["bland", "corny", "dumb", "hackneyed", "mundane", "stupid", "trite", "vapid"], "A": ["intelligent", "new", "original", "sharp", "smart", "uncommon"]}

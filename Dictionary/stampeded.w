@@ -1,1 +1,1 @@
-{"index": 302610, "D": "a sudden, frenzied rush or headlong flight of a herd of frightened animals, especially cattle or horses.", "S": ["lose it ", "overreact ", "scare "], "A": ["calm "]}
+{"index": 302610, "D": "a sudden, frenzied rush or headlong flight of a herd of frightened animals, especially cattle or horses.", "S": ["lose it", "overreact", "scare"], "A": ["calm"]}

@@ -1,1 +1,1 @@
-{"index": 30159, "D": "to make limp and soiled, as with rain or dirt.", "S": ["drag ", "pull ", "tow "], "A": ["push "]}
+{"index": 30159, "D": "to make limp and soiled, as with rain or dirt.", "S": ["drag", "pull", "tow"], "A": ["push"]}

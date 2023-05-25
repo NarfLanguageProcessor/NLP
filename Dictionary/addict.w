@@ -1,1 +1,1 @@
-{"index": 3530, "D": "a person with an uncontrolled compulsion to continue engaging in an activity despite suffering negative personal or professional consequences", "S": ["buff ", "devotee ", "enthusiast ", "fanatic ", "follower ", "junkie ", "practitioner "], "A": ["detractor "]}
+{"index": 3530, "D": "a person with an uncontrolled compulsion to continue engaging in an activity despite suffering negative personal or professional consequences", "S": ["buff", "devotee", "enthusiast", "fanatic", "follower", "junkie", "practitioner"], "A": ["detractor"]}

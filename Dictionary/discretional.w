@@ -1,1 +1,1 @@
-{"index": 87722, "D": "discretionary. ", "S": ["discretionary ", "elective ", "noncompulsory ", "nonobligatory ", "not required ", "volitional ", "voluntary "], "A": []}
+{"index": 87722, "D": "discretionary. ", "S": ["discretionary", "elective", "noncompulsory", "nonobligatory", "not required", "volitional", "voluntary"], "A": []}

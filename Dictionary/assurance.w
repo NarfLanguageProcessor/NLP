@@ -1,1 +1,1 @@
-{"index": 21956, "D": "a positive declaration intended to give confidence", "S": ["affirmation ", "assertion ", "guarantee ", "pledge ", "promise ", "security ", "support ", "word "], "A": ["denial ", "breach of promise "]}
+{"index": 21956, "D": "a positive declaration intended to give confidence", "S": ["affirmation", "assertion", "guarantee", "pledge", "promise", "security", "support", "word"], "A": ["denial", "breach of promise"]}

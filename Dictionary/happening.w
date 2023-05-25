@@ -1,1 +1,1 @@
-{"index": 133508, "D": "something that happens;  occurrence; event.", "S": ["accident ", "adventure ", "circumstance ", "incident ", "milestone ", "phenomenon ", "proceeding "], "A": ["method ", "plan ", "system "]}
+{"index": 133508, "D": "something that happens;  occurrence; event.", "S": ["accident", "adventure", "circumstance", "incident", "milestone", "phenomenon", "proceeding"], "A": ["method", "plan", "system"]}

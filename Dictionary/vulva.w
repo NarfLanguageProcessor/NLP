@@ -1,1 +1,1 @@
-{"index": 361630, "D": "the external female genitalia.", "S": ["genitalia "], "A": []}
+{"index": 361630, "D": "the external female genitalia.", "S": ["genitalia"], "A": []}

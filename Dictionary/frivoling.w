@@ -1,1 +1,1 @@
-{"index": 119172, "D": "to behave frivolously;  trifle.", "S": ["delay ", "idling ", "loafing ", "playing ", "poking ", "procrastination ", "toying ", "trifling "], "A": ["hastening ", "hurrying ", "push ", "rush "]}
+{"index": 119172, "D": "to behave frivolously;  trifle.", "S": ["delay", "idling", "loafing", "playing", "poking", "procrastination", "toying", "trifling"], "A": ["hastening", "hurrying", "push", "rush"]}

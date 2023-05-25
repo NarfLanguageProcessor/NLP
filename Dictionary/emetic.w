@@ -1,1 +1,1 @@
-{"index": 98493, "D": "causing vomiting, as a medicinal substance.", "S": ["aperient ", "aperitive ", "expiatory ", "laxative ", "lustrative ", "physic ", "purgatorial ", "purificatory "], "A": []}
+{"index": 98493, "D": "causing vomiting, as a medicinal substance.", "S": ["aperient", "aperitive", "expiatory", "laxative", "lustrative", "physic", "purgatorial", "purificatory"], "A": []}

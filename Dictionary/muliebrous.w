@@ -1,1 +1,1 @@
-{"index": 194913, "D": [], "S": ["feminine "], "A": ["male ", "masculine "]}
+{"index": 194913, "D": [], "S": ["feminine"], "A": ["male", "masculine"]}

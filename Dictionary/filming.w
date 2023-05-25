@@ -1,1 +1,1 @@
-{"index": 112742, "D": "the act or period of photographing, especially of a motion picture.", "S": ["photograph ", "shoot "], "A": []}
+{"index": 112742, "D": "the act or period of photographing, especially of a motion picture.", "S": ["photograph", "shoot"], "A": []}

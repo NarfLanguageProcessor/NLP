@@ -1,1 +1,1 @@
-{"index": 200276, "D": "to squeeze or compress tightly between two surfaces or points; pinch; bite. ", "S": ["bite ", "catch ", "dram ", "drop ", "finger ", "jolt ", "morsel ", "mouthful ", "nibble ", "pinch ", "portion ", "shot ", "sip ", "slug ", "snifter "], "A": ["lot "]}
+{"index": 200276, "D": "to squeeze or compress tightly between two surfaces or points; pinch; bite. ", "S": ["bite", "catch", "dram", "drop", "finger", "jolt", "morsel", "mouthful", "nibble", "pinch", "portion", "shot", "sip", "slug", "snifter"], "A": ["lot"]}

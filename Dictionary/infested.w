@@ -1,1 +1,1 @@
-{"index": 151961, "D": "overrun to an unwanted degree or in a troublesome manner by predatory animals or vermin (often used in combination)", "S": ["beset ", "crowded ", "full ", "jammed ", "overwhelmed "], "A": ["empty "]}
+{"index": 151961, "D": "overrun to an unwanted degree or in a troublesome manner by predatory animals or vermin (often used in combination)", "S": ["beset", "crowded", "full", "jammed", "overwhelmed"], "A": ["empty"]}

@@ -1,1 +1,1 @@
-{"index": 17866, "D": "the act of apportioning. ", "S": ["allocation ", "appropriation ", "division ", "partition ", "portion "], "A": ["juncture ", "unity ", "whole "]}
+{"index": 17866, "D": "the act of apportioning. ", "S": ["allocation", "appropriation", "division", "partition", "portion"], "A": ["juncture", "unity", "whole"]}

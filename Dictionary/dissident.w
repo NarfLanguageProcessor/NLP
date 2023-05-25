@@ -1,1 +1,1 @@
-{"index": 89529, "D": "a person who dissents. ", "S": ["discordant ", "dissenting "], "A": ["agreeing ", "conforming "]}
+{"index": 89529, "D": "a person who dissents. ", "S": ["discordant", "dissenting"], "A": ["agreeing", "conforming"]}

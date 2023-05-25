@@ -1,1 +1,1 @@
-{"index": 267234, "D": "to recall to the mind by an act or effort of memory; think of again", "S": ["enduring ", "lasting ", "memorable ", "stirring ", "unforgettable "], "A": ["destructible ", "impermanent "]}
+{"index": 267234, "D": "to recall to the mind by an act or effort of memory; think of again", "S": ["enduring", "lasting", "memorable", "stirring", "unforgettable"], "A": ["destructible", "impermanent"]}

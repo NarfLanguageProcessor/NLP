@@ -1,1 +1,1 @@
-{"index": 366467, "D": "to want; desire; long for (usually followed by an infinitive or a clause)", "S": ["desiring ", "longing ", "pining ", "wanting ", "yearning "], "A": []}
+{"index": 366467, "D": "to want; desire; long for (usually followed by an infinitive or a clause)", "S": ["desiring", "longing", "pining", "wanting", "yearning"], "A": []}

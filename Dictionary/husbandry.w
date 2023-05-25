@@ -1,1 +1,1 @@
-{"index": 145323, "D": "the cultivation and production of edible crops or of animals for food; agriculture; farming.", "S": ["agriculture ", "tillage "], "A": []}
+{"index": 145323, "D": "the cultivation and production of edible crops or of animals for food; agriculture; farming.", "S": ["agriculture", "tillage"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 341843, "D": "not expressive;  lacking in expression of meaning, feeling, etc.", "S": ["dull ", "hollow ", "immobile ", "impassive ", "lifeless ", "meaningless ", "vacant "], "A": ["lively ", "meaningful ", "sensitive "]}

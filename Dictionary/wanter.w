@@ -1,1 +1,1 @@
-{"index": 362465, "D": "to feel a need or a desire for; wish for", "S": ["abstain ", "be deprived of ", "do without ", "fall short ", "go short ", "lack ", "need ", "want "], "A": ["earn ", "get ", "indulge ", "take ", "use "]}
+{"index": 362465, "D": "to feel a need or a desire for; wish for", "S": ["abstain", "be deprived of", "do without", "fall short", "go short", "lack", "need", "want"], "A": ["earn", "get", "indulge", "take", "use"]}

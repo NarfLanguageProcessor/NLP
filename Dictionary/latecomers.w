@@ -1,1 +1,1 @@
-{"index": 168814, "D": "a person who arrives late", "S": ["beginner ", "foreigner ", "immigrant ", "neophyte ", "novice ", "outsider ", "rookie ", "stranger "], "A": ["expert ", "local ", "national ", "native ", "professional "]}
+{"index": 168814, "D": "a person who arrives late", "S": ["beginner", "foreigner", "immigrant", "neophyte", "novice", "outsider", "rookie", "stranger"], "A": ["expert", "local", "national", "native", "professional"]}

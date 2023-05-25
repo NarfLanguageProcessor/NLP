@@ -1,1 +1,1 @@
-{"index": 217758, "D": "to thrust  out or extend.", "S": ["bulge ", "bulge out ", "jut out ", "poke out ", "protrude ", "stand out "], "A": ["depress "]}
+{"index": 217758, "D": "to thrust  out or extend.", "S": ["bulge", "bulge out", "jut out", "poke out", "protrude", "stand out"], "A": ["depress"]}

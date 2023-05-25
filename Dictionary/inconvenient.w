@@ -1,1 +1,1 @@
-{"index": 150330, "D": "not easily accessible or at hand", "S": ["annoying ", "awkward ", "cumbersome ", "difficult ", "disturbing ", "embarrassing ", "tiresome ", "troublesome ", "unwieldy "], "A": ["convenient ", "easy ", "graceful ", "handy ", "nice ", "straightforward "]}
+{"index": 150330, "D": "not easily accessible or at hand", "S": ["annoying", "awkward", "cumbersome", "difficult", "disturbing", "embarrassing", "tiresome", "troublesome", "unwieldy"], "A": ["convenient", "easy", "graceful", "handy", "nice", "straightforward"]}

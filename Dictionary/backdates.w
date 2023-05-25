@@ -1,1 +1,1 @@
-{"index": 25762, "D": "to date  earlier than the actual date; predate; antedate", "S": ["antecede ", "come first ", "go before ", "misdate ", "precede ", "predate "], "A": ["come after ", "follow ", "go after ", "postdate "]}
+{"index": 25762, "D": "to date  earlier than the actual date; predate; antedate", "S": ["antecede", "come first", "go before", "misdate", "precede", "predate"], "A": ["come after", "follow", "go after", "postdate"]}

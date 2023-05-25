@@ -1,1 +1,1 @@
-{"index": 327664, "D": "to carry on or conduct (business, negotiations, activities, etc.) to a conclusion or settlement.", "S": ["fulfilled ", "managed ", "negotiated ", "regulated "], "A": []}
+{"index": 327664, "D": "to carry on or conduct (business, negotiations, activities, etc.) to a conclusion or settlement.", "S": ["fulfilled", "managed", "negotiated", "regulated"], "A": []}

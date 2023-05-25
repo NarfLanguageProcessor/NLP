@@ -1,1 +1,1 @@
-{"index": 117906, "D": "using obscene, profane, or scurrilous language; given to filthy or abusive speech.", "S": ["abusive ", "indecent ", "lewd ", "obscene ", "ribald ", "rude "], "A": []}
+{"index": 117906, "D": "using obscene, profane, or scurrilous language; given to filthy or abusive speech.", "S": ["abusive", "indecent", "lewd", "obscene", "ribald", "rude"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 119520, "D": "simple past tense of freeze. ", "S": ["chill ", "refrigerate "], "A": ["heat ", "warm ", "liquefy ", "melt "]}
+{"index": 119520, "D": "simple past tense of freeze. ", "S": ["chill", "refrigerate"], "A": ["heat", "warm", "liquefy", "melt"]}

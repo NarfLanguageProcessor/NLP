@@ -1,1 +1,0 @@
-{"index": 329335, "D": "a very short time; an instant", "S": ["moment ", "outburst "], "A": []}

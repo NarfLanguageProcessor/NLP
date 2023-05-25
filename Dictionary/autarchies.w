@@ -1,1 +1,1 @@
-{"index": 23758, "D": "absolute sovereignty.", "S": ["autocracy ", "despotism ", "dictatorship ", "monocracy ", "totalitarianism ", "tyranny "], "A": ["democracy "]}
+{"index": 23758, "D": "absolute sovereignty.", "S": ["autocracy", "despotism", "dictatorship", "monocracy", "totalitarianism", "tyranny"], "A": ["democracy"]}

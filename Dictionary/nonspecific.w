@@ -1,1 +1,1 @@
-{"index": 207426, "D": "not explicit, particular, or definite", "S": ["comprehensive ", "expansive ", "extensive ", "far-reaching ", "sweeping ", "universal ", "wide ", "wide-ranging "], "A": ["exclusive ", "narrow ", "particular "]}
+{"index": 207426, "D": "not explicit, particular, or definite", "S": ["comprehensive", "expansive", "extensive", "far-reaching", "sweeping", "universal", "wide", "wide-ranging"], "A": ["exclusive", "narrow", "particular"]}

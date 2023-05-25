@@ -1,1 +1,1 @@
-{"index": 200146, "D": "a person seized with nympholepsy.", "S": ["aficionados ", "energumen ", "extremists ", "fanatical group ", "fanaticos ", "fanatics ", "nuts ", "zealots "], "A": []}
+{"index": 200146, "D": "a person seized with nympholepsy.", "S": ["aficionados", "energumen", "extremists", "fanatical group", "fanaticos", "fanatics", "nuts", "zealots"], "A": []}

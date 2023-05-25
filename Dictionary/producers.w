@@ -1,1 +1,1 @@
-{"index": 251575, "D": "a person who produces. ", "S": ["architect ", "contractor ", "maker ", "manufacturer "], "A": []}
+{"index": 251575, "D": "a person who produces. ", "S": ["architect", "contractor", "maker", "manufacturer"], "A": []}

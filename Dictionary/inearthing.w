@@ -1,1 +1,1 @@
-{"index": 151446, "D": [], "S": ["deposit ", "entomb ", "plant "], "A": ["dig out ", "disinter ", "exhume ", "resurrect "]}
+{"index": 151446, "D": [], "S": ["deposit", "entomb", "plant"], "A": ["dig out", "disinter", "exhume", "resurrect"]}

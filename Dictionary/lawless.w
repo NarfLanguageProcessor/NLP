@@ -1,1 +1,1 @@
-{"index": 169367, "D": "contrary to or without regard for the law", "S": ["anarchic ", "barbarous ", "chaotic ", "turbulent ", "unruly ", "violent "], "A": ["calm ", "mild ", "moderate ", "obedient "]}
+{"index": 169367, "D": "contrary to or without regard for the law", "S": ["anarchic", "barbarous", "chaotic", "turbulent", "unruly", "violent"], "A": ["calm", "mild", "moderate", "obedient"]}

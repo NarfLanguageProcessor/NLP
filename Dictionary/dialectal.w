@@ -1,1 +1,1 @@
-{"index": 84196, "D": "of a dialect. ", "S": ["colloquial ", "dialectical ", "idiomatic ", "indigenous ", "limited ", "local ", "provincial ", "vernacular "], "A": []}
+{"index": 84196, "D": "of a dialect. ", "S": ["colloquial", "dialectical", "idiomatic", "indigenous", "limited", "local", "provincial", "vernacular"], "A": []}

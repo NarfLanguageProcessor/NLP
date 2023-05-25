@@ -1,1 +1,1 @@
-{"index": 256673, "D": "liable to or deserving punishment. ", "S": ["blameworthy ", "condemned ", "criminal ", "guilty ", "responsible "], "A": []}
+{"index": 256673, "D": "liable to or deserving punishment. ", "S": ["blameworthy", "condemned", "criminal", "guilty", "responsible"], "A": []}

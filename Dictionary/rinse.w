@@ -1,1 +1,1 @@
-{"index": 273100, "D": "to wash lightly, as by pouring water into or over or by dipping in water", "S": ["bathe ", "clean ", "dip ", "flush ", "soak ", "wash ", "wet "], "A": ["dehydrate ", "dirty ", "dry "]}
+{"index": 273100, "D": "to wash lightly, as by pouring water into or over or by dipping in water", "S": ["bathe", "clean", "dip", "flush", "soak", "wash", "wet"], "A": ["dehydrate", "dirty", "dry"]}

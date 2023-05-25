@@ -1,1 +1,1 @@
-{"index": 168138, "D": "becoming languid, in any way.", "S": ["dull ", "tired "], "A": ["active "]}
+{"index": 168138, "D": "becoming languid, in any way.", "S": ["dull", "tired"], "A": ["active"]}

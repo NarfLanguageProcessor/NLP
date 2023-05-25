@@ -1,1 +1,1 @@
-{"index": 338115, "D": "to lay bare; disclose; reveal.", "S": ["detection ", "determination ", "find ", "finding ", "unearthing "], "A": []}
+{"index": 338115, "D": "to lay bare; disclose; reveal.", "S": ["detection", "determination", "find", "finding", "unearthing"], "A": []}

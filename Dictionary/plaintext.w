@@ -1,1 +1,1 @@
-{"index": 238811, "D": "the intelligible original message of a cryptogram, as opposed to the coded or enciphered version.", "S": ["ASCII ", "clear text ", "unencrypted text ", "vanilla text "], "A": ["encoded "]}
+{"index": 238811, "D": "the intelligible original message of a cryptogram, as opposed to the coded or enciphered version.", "S": ["ASCII", "clear text", "unencrypted text", "vanilla text"], "A": ["encoded"]}

@@ -1,1 +1,1 @@
-{"index": 58015, "D": "the state or quality of being in the shape or form of a circle", "S": ["completeness ", "oneness ", "rotundity ", "sphericity ", "wholeness "], "A": []}
+{"index": 58015, "D": "the state or quality of being in the shape or form of a circle", "S": ["completeness", "oneness", "rotundity", "sphericity", "wholeness"], "A": []}

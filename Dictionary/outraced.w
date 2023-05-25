@@ -1,1 +1,1 @@
-{"index": 217201, "D": "to race  or run faster than", "S": ["exceed ", "excel ", "outdistance ", "outdo ", "outgo ", "outshine ", "outstrip ", "surmount ", "top ", "transcend "], "A": ["fail ", "fall behind ", "lose "]}
+{"index": 217201, "D": "to race  or run faster than", "S": ["exceed", "excel", "outdistance", "outdo", "outgo", "outshine", "outstrip", "surmount", "top", "transcend"], "A": ["fail", "fall behind", "lose"]}

@@ -1,1 +1,1 @@
-{"index": 352067, "D": "rousing, exciting, or thrilling", "S": ["breezeless ", "windless "], "A": []}
+{"index": 352067, "D": "rousing, exciting, or thrilling", "S": ["breezeless", "windless"], "A": []}

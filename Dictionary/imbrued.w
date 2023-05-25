@@ -1,1 +1,1 @@
-{"index": 147761, "D": "to stain", "S": ["blood-soaked "], "A": []}
+{"index": 147761, "D": "to stain", "S": ["blood-soaked"], "A": []}

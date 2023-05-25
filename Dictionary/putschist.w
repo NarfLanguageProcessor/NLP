@@ -1,1 +1,0 @@
-{"index": 257332, "D": "a participant in a putsch.", "S": [], "A": []}

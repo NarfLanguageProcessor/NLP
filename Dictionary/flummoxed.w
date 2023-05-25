@@ -1,1 +1,1 @@
-{"index": 115357, "D": "utterly bewildered, confused, or puzzled", "S": ["baffled ", "befuddled ", "bewildered ", "dazed ", "disorganized ", "distracted ", "muddled ", "perplexed ", "perturbed ", "puzzled "], "A": ["clear ", "composed "]}
+{"index": 115357, "D": "utterly bewildered, confused, or puzzled", "S": ["baffled", "befuddled", "bewildered", "dazed", "disorganized", "distracted", "muddled", "perplexed", "perturbed", "puzzled"], "A": ["clear", "composed"]}

@@ -1,1 +1,1 @@
-{"index": 179433, "D": "English prelate and ecclesiastical writer", "S": ["adorn ", "arm ", "deck out ", "decorate ", "dress ", "endow ", "furnish ", "gear ", "prepare ", "provide ", "qualify ", "rig ", "set up ", "supply "], "A": ["take ", "disrobe ", "unclothe "]}
+{"index": 179433, "D": "English prelate and ecclesiastical writer", "S": ["adorn", "arm", "deck out", "decorate", "dress", "endow", "furnish", "gear", "prepare", "provide", "qualify", "rig", "set up", "supply"], "A": ["take", "disrobe", "unclothe"]}

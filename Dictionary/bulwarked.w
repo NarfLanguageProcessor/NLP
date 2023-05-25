@@ -1,1 +1,1 @@
-{"index": 42683, "D": "a wall of earth or other material built for defense; rampart.", "S": ["barricaded ", "covered ", "guarded ", "protected ", "reinforced ", "secured ", "strengthened ", "walled "], "A": ["open ", "unguarded ", "unprotected "]}
+{"index": 42683, "D": "a wall of earth or other material built for defense; rampart.", "S": ["barricaded", "covered", "guarded", "protected", "reinforced", "secured", "strengthened", "walled"], "A": ["open", "unguarded", "unprotected"]}

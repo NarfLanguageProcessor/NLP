@@ -1,1 +1,1 @@
-{"index": 356402, "D": "to waver in mind or opinion; be indecisive or irresolute", "S": ["dither ", "fluctuate ", "oscillate ", "seesaw ", "waffle ", "waver "], "A": ["remain ", "stay ", "continue ", "hold ", "persist "]}
+{"index": 356402, "D": "to waver in mind or opinion; be indecisive or irresolute", "S": ["dither", "fluctuate", "oscillate", "seesaw", "waffle", "waver"], "A": ["remain", "stay", "continue", "hold", "persist"]}

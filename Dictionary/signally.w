@@ -1,1 +1,1 @@
-{"index": 290108, "D": "conspicuously; notably.", "S": ["chiefly ", "exclusively ", "notably ", "principally ", "specially ", "specifically "], "A": ["broadly "]}
+{"index": 290108, "D": "conspicuously; notably.", "S": ["chiefly", "exclusively", "notably", "principally", "specially", "specifically"], "A": ["broadly"]}

@@ -1,1 +1,1 @@
-{"index": 160135, "D": "Compare blue jay, gray jay. ", "S": ["chump ", "cinch ", "doormat ", "easy pickings ", "easy touch ", "fall guy ", "mark ", "mug ", "patsy ", "pigeon ", "prize sap ", "pushover ", "scapegoat ", "sitting duck ", "soft touch ", "sucker ", "trusting soul "], "A": []}
+{"index": 160135, "D": "Compare blue jay, gray jay. ", "S": ["chump", "cinch", "doormat", "easy pickings", "easy touch", "fall guy", "mark", "mug", "patsy", "pigeon", "prize sap", "pushover", "scapegoat", "sitting duck", "soft touch", "sucker", "trusting soul"], "A": []}

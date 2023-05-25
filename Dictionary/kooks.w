@@ -1,1 +1,1 @@
-{"index": 166025, "D": "an eccentric, strange, or foolish person.", "S": ["crackpot ", "crank ", "crazy ", "dingbat ", "flake ", "fruitcake ", "lunatic ", "nut ", "screwball ", "wacko ", "weirdo "], "A": []}
+{"index": 166025, "D": "an eccentric, strange, or foolish person.", "S": ["crackpot", "crank", "crazy", "dingbat", "flake", "fruitcake", "lunatic", "nut", "screwball", "wacko", "weirdo"], "A": []}

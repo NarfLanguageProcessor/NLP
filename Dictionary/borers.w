@@ -1,1 +1,1 @@
-{"index": 38422, "D": "a person or thing that bores  or pierces.", "S": ["gimlet ", "grill ", "tool "], "A": []}
+{"index": 38422, "D": "a person or thing that bores  or pierces.", "S": ["gimlet", "grill", "tool"], "A": []}

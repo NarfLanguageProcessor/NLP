@@ -1,1 +1,0 @@
-{"index": 222845, "D": "any of several small Australian wallabies, especially of the genus Thylogale.", "S": [], "A": []}

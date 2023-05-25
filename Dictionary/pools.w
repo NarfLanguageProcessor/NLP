@@ -1,1 +1,1 @@
-{"index": 243149, "D": "Also called", "S": ["basin ", "bath ", "lagoon ", "lake ", "pond ", "puddle ", "swimming pool ", "tank "], "A": []}
+{"index": 243149, "D": "Also called", "S": ["basin", "bath", "lagoon", "lake", "pond", "puddle", "swimming pool", "tank"], "A": []}

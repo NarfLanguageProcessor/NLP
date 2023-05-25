@@ -1,1 +1,1 @@
-{"index": 250695, "D": "a person or thing that prints,  especially a person whose occupation is printing. ", "S": ["compositor ", "publisher ", "typographer "], "A": []}
+{"index": 250695, "D": "a person or thing that prints,  especially a person whose occupation is printing. ", "S": ["compositor", "publisher", "typographer"], "A": []}

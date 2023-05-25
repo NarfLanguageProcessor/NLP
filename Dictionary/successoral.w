@@ -1,1 +1,0 @@
-{"index": 309828, "D": "a person or thing that succeeds  or follows.", "S": [], "A": []}

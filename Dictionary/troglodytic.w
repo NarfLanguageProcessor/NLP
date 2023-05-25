@@ -1,1 +1,1 @@
-{"index": 330990, "D": "a prehistoric cave dweller.", "S": ["deserted ", "desolate ", "destitute ", "empty ", "homeless ", "isolated ", "lonesome ", "reclusive ", "solitary "], "A": ["populated ", "sociable "]}
+{"index": 330990, "D": "a prehistoric cave dweller.", "S": ["deserted", "desolate", "destitute", "empty", "homeless", "isolated", "lonesome", "reclusive", "solitary"], "A": ["populated", "sociable"]}

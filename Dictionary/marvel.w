@@ -1,1 +1,1 @@
-{"index": 180572, "D": "something that causes wonder, admiration, or astonishment; a wonderful thing; a wonder or prodigy", "S": ["genius ", "miracle "], "A": ["normality "]}
+{"index": 180572, "D": "something that causes wonder, admiration, or astonishment; a wonderful thing; a wonder or prodigy", "S": ["genius", "miracle"], "A": ["normality"]}

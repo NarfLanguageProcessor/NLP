@@ -1,1 +1,1 @@
-{"index": 362868, "D": "capable of being washed  without shrinking, fading, or the like.", "S": ["launderable "], "A": []}
+{"index": 362868, "D": "capable of being washed  without shrinking, fading, or the like.", "S": ["launderable"], "A": []}

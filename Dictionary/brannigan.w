@@ -1,1 +1,1 @@
-{"index": 39957, "D": "a carouse.", "S": ["altercation ", "bickering ", "brawl ", "clash ", "controversy ", "debate ", "disagreement ", "dispute ", "exchange ", "feud ", "quarrel ", "squabble "], "A": ["agreement ", "harmony ", "peace ", "calm "]}
+{"index": 39957, "D": "a carouse.", "S": ["altercation", "bickering", "brawl", "clash", "controversy", "debate", "disagreement", "dispute", "exchange", "feud", "quarrel", "squabble"], "A": ["agreement", "harmony", "peace", "calm"]}

@@ -1,1 +1,1 @@
-{"index": 238529, "D": "to appease or pacify, especially by concessions or conciliatory gestures", "S": ["arbitrator ", "conciliator ", "diplomat ", "mediator ", "negotiator ", "pacifist ", "peacekeeper "], "A": ["agitator ", "instigator "]}
+{"index": 238529, "D": "to appease or pacify, especially by concessions or conciliatory gestures", "S": ["arbitrator", "conciliator", "diplomat", "mediator", "negotiator", "pacifist", "peacekeeper"], "A": ["agitator", "instigator"]}

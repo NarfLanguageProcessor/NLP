@@ -1,1 +1,1 @@
-{"index": 162365, "D": "Compare senior (def. 1). ", "S": ["inferior ", "lower ", "minor ", "second ", "second-string ", "secondary "], "A": ["first-class ", "first-rate ", "important ", "superior "]}
+{"index": 162365, "D": "Compare senior (def. 1). ", "S": ["inferior", "lower", "minor", "second", "second-string", "secondary"], "A": ["first-class", "first-rate", "important", "superior"]}

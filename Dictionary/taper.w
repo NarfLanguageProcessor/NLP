@@ -1,1 +1,1 @@
-{"index": 316323, "D": "to become smaller or thinner toward one end.", "S": ["abate ", "dwindle ", "lessen ", "recede ", "subside ", "taper off "], "A": ["enlarge ", "extend ", "grow ", "increase ", "rise ", "expand ", "raise ", "strengthen "]}
+{"index": 316323, "D": "to become smaller or thinner toward one end.", "S": ["abate", "dwindle", "lessen", "recede", "subside", "taper off"], "A": ["enlarge", "extend", "grow", "increase", "rise", "expand", "raise", "strengthen"]}

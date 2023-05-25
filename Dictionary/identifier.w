@@ -1,1 +1,1 @@
-{"index": 146378, "D": "a person or thing that establishes the identity of someone or something", "S": ["accessory ", "adjunct ", "adnoun ", "attribute ", "dependent ", "modifier ", "qualifier "], "A": []}
+{"index": 146378, "D": "a person or thing that establishes the identity of someone or something", "S": ["accessory", "adjunct", "adnoun", "attribute", "dependent", "modifier", "qualifier"], "A": []}

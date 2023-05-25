@@ -1,1 +1,1 @@
-{"index": 323891, "D": "tympanic membrane. ", "S": ["tympanic membrane "], "A": []}
+{"index": 323891, "D": "tympanic membrane. ", "S": ["tympanic membrane"], "A": []}

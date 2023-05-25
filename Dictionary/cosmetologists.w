@@ -1,1 +1,1 @@
-{"index": 70019, "D": "the art or profession of applying cosmetics.", "S": ["beautician ", "coiffeur ", "coiffeuse ", "hairdresser ", "shaver "], "A": []}
+{"index": 70019, "D": "the art or profession of applying cosmetics.", "S": ["beautician", "coiffeur", "coiffeuse", "hairdresser", "shaver"], "A": []}

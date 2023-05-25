@@ -1,1 +1,1 @@
-{"index": 100636, "D": "to interlace; intertwine", "S": ["fuse ", "intertwine ", "knit "], "A": ["disconnect ", "divide ", "separate "]}
+{"index": 100636, "D": "to interlace; intertwine", "S": ["fuse", "intertwine", "knit"], "A": ["disconnect", "divide", "separate"]}

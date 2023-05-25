@@ -1,1 +1,1 @@
-{"index": 278137, "D": "resembling soap; soapy. ", "S": ["buttery ", "creamy ", "oiled ", "slippery ", "waxy "], "A": ["dry ", "hateful "]}
+{"index": 278137, "D": "resembling soap; soapy. ", "S": ["buttery", "creamy", "oiled", "slippery", "waxy"], "A": ["dry", "hateful"]}

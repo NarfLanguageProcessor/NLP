@@ -1,1 +1,1 @@
-{"index": 192007, "D": "(especially formerly) a student appointed to assist in the conduct of a class or school, as to help take attendance or keep order.", "S": ["coordinated ", "managed ", "organized ", "standardized ", "supervised "], "A": ["indefinite ", "unfixed "]}
+{"index": 192007, "D": "(especially formerly) a student appointed to assist in the conduct of a class or school, as to help take attendance or keep order.", "S": ["coordinated", "managed", "organized", "standardized", "supervised"], "A": ["indefinite", "unfixed"]}

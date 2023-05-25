@@ -1,1 +1,1 @@
-{"index": 91706, "D": [], "S": ["narcotic ", "opium ", "sedative ", "tranquilizer "], "A": []}
+{"index": 91706, "D": [], "S": ["narcotic", "opium", "sedative", "tranquilizer"], "A": []}

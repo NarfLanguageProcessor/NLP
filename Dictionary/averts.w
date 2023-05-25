@@ -1,1 +1,1 @@
-{"index": 24717, "D": "to turn away or aside", "S": ["avoid ", "deter ", "fend off ", "foil ", "forestall ", "halt ", "preclude ", "prevent ", "rule out ", "ward off "], "A": ["aid ", "allow ", "assist ", "help ", "support "]}
+{"index": 24717, "D": "to turn away or aside", "S": ["avoid", "deter", "fend off", "foil", "forestall", "halt", "preclude", "prevent", "rule out", "ward off"], "A": ["aid", "allow", "assist", "help", "support"]}

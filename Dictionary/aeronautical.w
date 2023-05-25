@@ -1,1 +1,1 @@
-{"index": 5074, "D": "of aeronautics  or aeronauts. ", "S": ["flying "], "A": ["ground "]}
+{"index": 5074, "D": "of aeronautics  or aeronauts. ", "S": ["flying"], "A": ["ground"]}

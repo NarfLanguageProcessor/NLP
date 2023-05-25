@@ -1,1 +1,1 @@
-{"index": 156980, "D": "the act of putting something into an urn,  especially ashes after cremation", "S": ["funeral ", "interment ", "sepulture "], "A": []}
+{"index": 156980, "D": "the act of putting something into an urn,  especially ashes after cremation", "S": ["funeral", "interment", "sepulture"], "A": []}

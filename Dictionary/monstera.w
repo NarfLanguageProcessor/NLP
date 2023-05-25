@@ -1,1 +1,0 @@
-{"index": 192835, "D": "any of various tropical American climbing plants belonging to the genus Monstera, of the arum family, especially M. deliciosa, having split or perforated leaves and often grown as a houseplant.", "S": [], "A": []}

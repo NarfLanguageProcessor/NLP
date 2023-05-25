@@ -1,1 +1,1 @@
-{"index": 179064, "D": "a shaft or bar the end of which is inserted into a workpiece to hold it during machining.", "S": ["arbor ", "axis ", "gudgeon ", "pin ", "pivot ", "pole ", "rod ", "shaft ", "spindle ", "stalk ", "stem ", "support "], "A": []}
+{"index": 179064, "D": "a shaft or bar the end of which is inserted into a workpiece to hold it during machining.", "S": ["arbor", "axis", "gudgeon", "pin", "pivot", "pole", "rod", "shaft", "spindle", "stalk", "stem", "support"], "A": []}

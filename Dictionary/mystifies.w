@@ -1,1 +1,1 @@
-{"index": 190291, "D": "to perplex, puzzle, or baffle; defy the understanding of", "S": ["baffle ", "confound ", "deceive ", "perplex ", "puzzle ", "stump "], "A": ["clarify ", "clear up ", "enlighten ", "explain ", "help ", "lose "]}
+{"index": 190291, "D": "to perplex, puzzle, or baffle; defy the understanding of", "S": ["baffle", "confound", "deceive", "perplex", "puzzle", "stump"], "A": ["clarify", "clear up", "enlighten", "explain", "help", "lose"]}

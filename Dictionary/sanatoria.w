@@ -1,1 +1,1 @@
-{"index": 277633, "D": "a hospital for the treatment of chronic diseases, as tuberculosis or various nervous or mental disorders.", "S": ["mental hospital ", "mental institution "], "A": []}
+{"index": 277633, "D": "a hospital for the treatment of chronic diseases, as tuberculosis or various nervous or mental disorders.", "S": ["mental hospital", "mental institution"], "A": []}

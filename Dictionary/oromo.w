@@ -1,1 +1,0 @@
-{"index": 214846, "D": "a member of a nomadic, pastoral people of Ethiopia and Kenya.", "S": [], "A": []}

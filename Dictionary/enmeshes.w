@@ -1,1 +1,1 @@
-{"index": 100713, "D": "to catch, as in a net; entangle", "S": ["embroil ", "ensnare ", "entangle ", "entrap ", "implicate ", "snare "], "A": ["disentangle ", "exclude ", "free ", "let go ", "liberate ", "release "]}
+{"index": 100713, "D": "to catch, as in a net; entangle", "S": ["embroil", "ensnare", "entangle", "entrap", "implicate", "snare"], "A": ["disentangle", "exclude", "free", "let go", "liberate", "release"]}

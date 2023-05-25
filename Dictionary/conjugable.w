@@ -1,1 +1,1 @@
-{"index": 66403, "D": "to recite or display all or some subsets of the inflected forms of (a verb), in a fixed order", "S": ["combinable ", "combinative ", "combinatorial ", "conjoining ", "conjugative ", "conjunctional ", "connective "], "A": []}
+{"index": 66403, "D": "to recite or display all or some subsets of the inflected forms of (a verb), in a fixed order", "S": ["combinable", "combinative", "combinatorial", "conjoining", "conjugative", "conjunctional", "connective"], "A": []}

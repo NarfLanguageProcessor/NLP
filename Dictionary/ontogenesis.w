@@ -1,1 +1,1 @@
-{"index": 212938, "D": [], "S": ["advancement ", "evolution ", "expansion ", "improvement ", "increase ", "progress "], "A": ["decline ", "decrease ", "halt ", "retreat ", "retrogression ", "stoppage ", "lessening ", "reduction ", "shrinkage ", "stagnation ", "withdrawal "]}
+{"index": 212938, "D": [], "S": ["advancement", "evolution", "expansion", "improvement", "increase", "progress"], "A": ["decline", "decrease", "halt", "retreat", "retrogression", "stoppage", "lessening", "reduction", "shrinkage", "stagnation", "withdrawal"]}

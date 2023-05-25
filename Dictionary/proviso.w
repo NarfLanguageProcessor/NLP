@@ -1,1 +1,1 @@
-{"index": 254107, "D": "a clause in a statute, contract, or the like, by which a condition is introduced.", "S": ["clause ", "condition ", "qualification ", "stipulation "], "A": []}
+{"index": 254107, "D": "a clause in a statute, contract, or the like, by which a condition is introduced.", "S": ["clause", "condition", "qualification", "stipulation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 48665, "D": "a sketch or drawing, usually humorous, as in a newspaper or periodical, symbolizing, satirizing, or caricaturing some action, subject, or person of popular interest.", "S": ["artist ", "illustrator "], "A": []}
+{"index": 48665, "D": "a sketch or drawing, usually humorous, as in a newspaper or periodical, symbolizing, satirizing, or caricaturing some action, subject, or person of popular interest.", "S": ["artist", "illustrator"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 168779, "D": "continuing or enduring a long time; permanent; durable", "S": ["always ", "endlessly ", "eternally ", "permanently "], "A": ["briefly ", "never ", "temporarily "]}
+{"index": 168779, "D": "continuing or enduring a long time; permanent; durable", "S": ["always", "endlessly", "eternally", "permanently"], "A": ["briefly", "never", "temporarily"]}

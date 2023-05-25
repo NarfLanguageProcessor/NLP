@@ -1,1 +1,1 @@
-{"index": 157302, "D": "an itemized bill for goods sold or services provided, containing individual prices, the total charge, and the terms.", "S": ["IOU ", "account ", "check ", "note ", "statement "], "A": []}
+{"index": 157302, "D": "an itemized bill for goods sold or services provided, containing individual prices, the total charge, and the terms.", "S": ["IOU", "account", "check", "note", "statement"], "A": []}

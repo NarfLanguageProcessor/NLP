@@ -1,1 +1,1 @@
-{"index": 243698, "D": [], "S": ["blend ", "blendword ", "compound ", "counterword ", "merged word ", "portmanteau ", "telescope word "], "A": []}
+{"index": 243698, "D": [], "S": ["blend", "blendword", "compound", "counterword", "merged word", "portmanteau", "telescope word"], "A": []}

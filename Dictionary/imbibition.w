@@ -1,1 +1,1 @@
-{"index": 147689, "D": "act of imbibing. ", "S": ["concentration "], "A": []}
+{"index": 147689, "D": "act of imbibing. ", "S": ["concentration"], "A": []}

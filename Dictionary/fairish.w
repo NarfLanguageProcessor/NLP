@@ -1,1 +1,1 @@
-{"index": 109332, "D": "moderately good, large, or well", "S": ["adequate ", "decent ", "reasonable ", "satisfactory "], "A": ["inadequate ", "insufficient ", "intolerable ", "unfit ", "abnormal ", "exceptional ", "extraordinary ", "extreme ", "infrequent ", "rare ", "uncommon ", "unusual "]}
+{"index": 109332, "D": "moderately good, large, or well", "S": ["adequate", "decent", "reasonable", "satisfactory"], "A": ["inadequate", "insufficient", "intolerable", "unfit", "abnormal", "exceptional", "extraordinary", "extreme", "infrequent", "rare", "uncommon", "unusual"]}

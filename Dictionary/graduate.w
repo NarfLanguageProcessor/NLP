@@ -1,1 +1,1 @@
-{"index": 128569, "D": "a person who has received a degree or diploma on completing a course of study, as in a university, college, or school.", "S": ["alum ", "alumna ", "alumnus ", "doctor ", "grad ", "recipient "], "A": ["undergraduate "]}
+{"index": 128569, "D": "a person who has received a degree or diploma on completing a course of study, as in a university, college, or school.", "S": ["alum", "alumna", "alumnus", "doctor", "grad", "recipient"], "A": ["undergraduate"]}

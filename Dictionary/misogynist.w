@@ -1,1 +1,1 @@
-{"index": 189700, "D": "a person who hates, dislikes, or mistrusts women.", "S": ["misanthrope ", "sexist "], "A": []}
+{"index": 189700, "D": "a person who hates, dislikes, or mistrusts women.", "S": ["misanthrope", "sexist"], "A": []}

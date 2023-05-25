@@ -1,1 +1,1 @@
-{"index": 183113, "D": "the state of being a member,  as of a society or club.", "S": ["enrollment ", "participation "], "A": []}
+{"index": 183113, "D": "the state of being a member,  as of a society or club.", "S": ["enrollment", "participation"], "A": []}

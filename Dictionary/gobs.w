@@ -1,1 +1,1 @@
-{"index": 127298, "D": "a mass or lump.", "S": ["endless ", "myriad ", "uncounted ", "untold "], "A": ["few ", "limited "]}
+{"index": 127298, "D": "a mass or lump.", "S": ["endless", "myriad", "uncounted", "untold"], "A": ["few", "limited"]}

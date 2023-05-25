@@ -1,1 +1,1 @@
-{"index": 277740, "D": "a box  or receptacle for holding sand,  especially one large enough for children to play in.", "S": ["head ", "john ", "johnny ", "latrine ", "lavatory ", "outhouse ", "pot ", "potty ", "privy ", "restroom ", "throne ", "washroom "], "A": []}
+{"index": 277740, "D": "a box  or receptacle for holding sand,  especially one large enough for children to play in.", "S": ["head", "john", "johnny", "latrine", "lavatory", "outhouse", "pot", "potty", "privy", "restroom", "throne", "washroom"], "A": []}

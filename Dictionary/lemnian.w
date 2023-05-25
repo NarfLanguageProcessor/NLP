@@ -1,1 +1,0 @@
-{"index": 170334, "D": "of or relating to the Greek island of Lemnos or its inhabitants", "S": [], "A": []}

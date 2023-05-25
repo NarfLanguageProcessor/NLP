@@ -1,1 +1,1 @@
-{"index": 120864, "D": "any of various flies,  as a stable fly  or warble fly,  that bite or annoy domestic animals.", "S": ["motivator "], "A": []}
+{"index": 120864, "D": "any of various flies,  as a stable fly  or warble fly,  that bite or annoy domestic animals.", "S": ["motivator"], "A": []}

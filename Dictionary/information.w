@@ -1,1 +1,1 @@
-{"index": 152216, "D": "knowledge communicated or received concerning a particular fact or circumstance; news", "S": ["advice ", "clue ", "data ", "info ", "instruction ", "intelligence ", "knowledge ", "material ", "message ", "report ", "science ", "tip ", "word "], "A": []}
+{"index": 152216, "D": "knowledge communicated or received concerning a particular fact or circumstance; news", "S": ["advice", "clue", "data", "info", "instruction", "intelligence", "knowledge", "material", "message", "report", "science", "tip", "word"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 170957, "D": "a cultivated plant, Lactuca sativa, occurring in many varieties and having succulent leaves used for salads.", "S": ["bread ", "cabbage "], "A": []}
+{"index": 170957, "D": "a cultivated plant, Lactuca sativa, occurring in many varieties and having succulent leaves used for salads.", "S": ["bread", "cabbage"], "A": []}

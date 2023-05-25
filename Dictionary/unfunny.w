@@ -1,1 +1,0 @@
-{"index": 342828, "D": "obscene and unfunny jokes", "S": [], "A": []}

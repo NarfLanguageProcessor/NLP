@@ -1,1 +1,1 @@
-{"index": 290196, "D": "a conventional Italian title of respect for a man, usually used separately; signor. ", "S": ["madame "], "A": ["sir "]}
+{"index": 290196, "D": "a conventional Italian title of respect for a man, usually used separately; signor. ", "S": ["madame"], "A": ["sir"]}

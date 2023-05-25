@@ -1,1 +1,1 @@
-{"index": 94644, "D": "a person or thing that lives or resides in a specified place or environment", "S": ["community ", "culture ", "people ", "populace ", "public ", "society ", "state "], "A": []}
+{"index": 94644, "D": "a person or thing that lives or resides in a specified place or environment", "S": ["community", "culture", "people", "populace", "public", "society", "state"], "A": []}

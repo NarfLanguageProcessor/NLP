@@ -1,1 +1,1 @@
-{"index": 132326, "D": "to cheer, salute, or greet; welcome. ", "S": ["barrage ", "bombardment ", "hailstorm ", "rain ", "salvo ", "shower ", "storm ", "volley "], "A": []}
+{"index": 132326, "D": "to cheer, salute, or greet; welcome. ", "S": ["barrage", "bombardment", "hailstorm", "rain", "salvo", "shower", "storm", "volley"], "A": []}

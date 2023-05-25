@@ -1,1 +1,1 @@
-{"index": 322865, "D": [], "S": ["bring forward ", "bring to light ", "bring up ", "chime in ", "come out with ", "declare ", "deliver ", "produce ", "reveal ", "say ", "state ", "suggest ", "tell ", "utter "], "A": ["be quiet "]}
+{"index": 322865, "D": [], "S": ["bring forward", "bring to light", "bring up", "chime in", "come out with", "declare", "deliver", "produce", "reveal", "say", "state", "suggest", "tell", "utter"], "A": ["be quiet"]}

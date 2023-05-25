@@ -1,1 +1,1 @@
-{"index": 142348, "D": "to raise or lift, especially by some mechanical appliance", "S": ["boosted ", "elevated ", "implanted ", "lifted ", "raised ", "reared ", "uplifted ", "upraised "], "A": ["lowered "]}
+{"index": 142348, "D": "to raise or lift, especially by some mechanical appliance", "S": ["boosted", "elevated", "implanted", "lifted", "raised", "reared", "uplifted", "upraised"], "A": ["lowered"]}

@@ -1,1 +1,1 @@
-{"index": 6286, "D": [], "S": ["brand ", "flag ", "label ", "nickname ", "sign ", "signature ", "style ", "term "], "A": ["unknown "]}
+{"index": 6286, "D": [], "S": ["brand", "flag", "label", "nickname", "sign", "signature", "style", "term"], "A": ["unknown"]}

@@ -1,1 +1,0 @@
-{"index": 269833, "D": "the refreshing quiet or repose of sleep", "S": ["vacation "], "A": ["advance ", "agitation ", "awakening ", "beginning ", "busyness ", "clamor ", "consciousness ", "continuation ", "distress ", "disturbance ", "employment ", "go ", "hurt ", "injury ", "labor ", "noise ", "start ", "upset ", "wakefulness ", "work ", "worry "]}

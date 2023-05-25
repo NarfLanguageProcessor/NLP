@@ -1,1 +1,1 @@
-{"index": 197265, "D": "a person devoted to nationalism. ", "S": ["flag-waver ", "loyalist ", "partisan ", "patrioteer "], "A": ["traitor "]}
+{"index": 197265, "D": "a person devoted to nationalism. ", "S": ["flag-waver", "loyalist", "partisan", "patrioteer"], "A": ["traitor"]}

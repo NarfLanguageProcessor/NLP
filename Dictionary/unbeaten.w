@@ -1,1 +1,1 @@
-{"index": 335674, "D": "not struck, pounded, or whipped", "S": ["successful ", "victorious "], "A": ["losing ", "unsuccessful "]}
+{"index": 335674, "D": "not struck, pounded, or whipped", "S": ["successful", "victorious"], "A": ["losing", "unsuccessful"]}

@@ -1,1 +1,1 @@
-{"index": 36253, "D": "a device for flashing light signals.", "S": ["curtain "], "A": []}
+{"index": 36253, "D": "a device for flashing light signals.", "S": ["curtain"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 360970, "D": "one of a series of U.S. space probes that obtained scientific information while flying by the planets Jupiter, Saturn, and Uranus.", "S": ["charlatan ", "daredevil ", "entrepreneur ", "gambler ", "mercenary ", "swashbuckler ", "traveler "], "A": []}
+{"index": 360970, "D": "one of a series of U.S. space probes that obtained scientific information while flying by the planets Jupiter, Saturn, and Uranus.", "S": ["charlatan", "daredevil", "entrepreneur", "gambler", "mercenary", "swashbuckler", "traveler"], "A": []}

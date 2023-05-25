@@ -1,1 +1,1 @@
-{"index": 68531, "D": "a finishing or protective course or cap to an exterior masonry wall or the like.", "S": ["bed ", "blanket ", "coat ", "floor ", "row ", "sheet ", "slab ", "thickness "], "A": []}
+{"index": 68531, "D": "a finishing or protective course or cap to an exterior masonry wall or the like.", "S": ["bed", "blanket", "coat", "floor", "row", "sheet", "slab", "thickness"], "A": []}

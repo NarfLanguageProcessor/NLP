@@ -1,1 +1,1 @@
-{"index": 309539, "D": "thin, tenuous, or rarefied, as a fluid or an odor.", "S": ["exquisite ", "faint ", "indirect ", "ingenious ", "profound ", "slight ", "sophisticated ", "understated "], "A": ["ignorant ", "stupid "]}
+{"index": 309539, "D": "thin, tenuous, or rarefied, as a fluid or an odor.", "S": ["exquisite", "faint", "indirect", "ingenious", "profound", "slight", "sophisticated", "understated"], "A": ["ignorant", "stupid"]}

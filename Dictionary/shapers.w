@@ -1,1 +1,1 @@
-{"index": 287455, "D": "a person or thing that shapes. ", "S": ["borer ", "broaching machine ", "drill ", "facing machine ", "grinder ", "lathe ", "mill ", "planer ", "press drill ", "saw ", "tapping machine ", "threading machine "], "A": []}
+{"index": 287455, "D": "a person or thing that shapes. ", "S": ["borer", "broaching machine", "drill", "facing machine", "grinder", "lathe", "mill", "planer", "press drill", "saw", "tapping machine", "threading machine"], "A": []}

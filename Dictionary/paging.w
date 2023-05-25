@@ -1,1 +1,1 @@
-{"index": 223022, "D": "Compare page1 (def. 6b). ", "S": ["beep "], "A": ["conceal ", "refrain "]}
+{"index": 223022, "D": "Compare page1 (def. 6b). ", "S": ["beep"], "A": ["conceal", "refrain"]}

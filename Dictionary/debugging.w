@@ -1,1 +1,1 @@
-{"index": 77863, "D": "to detect and remove defects or errors from.", "S": ["unscramble "], "A": ["break ", "destroy ", "disarrange ", "disorganize ", "hurt ", "injure ", "spoil ", "tangle "]}
+{"index": 77863, "D": "to detect and remove defects or errors from.", "S": ["unscramble"], "A": ["break", "destroy", "disarrange", "disorganize", "hurt", "injure", "spoil", "tangle"]}

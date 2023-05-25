@@ -1,1 +1,1 @@
-{"index": 165773, "D": "having knurls  or knots; gnarled.", "S": ["curved ", "curving ", "devious ", "errant ", "gnarled ", "meandering ", "serpentine ", "sinuous ", "twisted ", "twisting ", "winding "], "A": ["straight ", "unbent "]}
+{"index": 165773, "D": "having knurls  or knots; gnarled.", "S": ["curved", "curving", "devious", "errant", "gnarled", "meandering", "serpentine", "sinuous", "twisted", "twisting", "winding"], "A": ["straight", "unbent"]}

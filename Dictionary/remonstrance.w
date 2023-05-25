@@ -1,1 +1,1 @@
-{"index": 267425, "D": "an act or instance of remonstrating. ", "S": ["complaint ", "expostulation ", "objection ", "rebuke ", "reproach ", "reproof "], "A": ["approval ", "praise "]}
+{"index": 267425, "D": "an act or instance of remonstrating. ", "S": ["complaint", "expostulation", "objection", "rebuke", "reproach", "reproof"], "A": ["approval", "praise"]}

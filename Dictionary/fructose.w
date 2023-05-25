@@ -1,1 +1,1 @@
-{"index": 119553, "D": "a yellowish to white, crystalline, water-soluble, levorotatory ketose sugar, C6H12O6, sweeter than sucrose, occurring in invert sugar, honey, and a great many fruits", "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}
+{"index": 119553, "D": "a yellowish to white, crystalline, water-soluble, levorotatory ketose sugar, C6H12O6, sweeter than sucrose, occurring in invert sugar, honey, and a great many fruits", "S": ["cellulose", "glucose", "lactose", "starch", "sugar"], "A": []}

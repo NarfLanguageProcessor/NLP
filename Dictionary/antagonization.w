@@ -1,1 +1,1 @@
-{"index": 13999, "D": "to make hostile or unfriendly; make an enemy or antagonist  of", "S": ["alienation ", "disaffection ", "disunity ", "hostility ", "schism ", "separation "], "A": ["friendliness ", "connection ", "introduction ", "juncture ", "marriage "]}
+{"index": 13999, "D": "to make hostile or unfriendly; make an enemy or antagonist  of", "S": ["alienation", "disaffection", "disunity", "hostility", "schism", "separation"], "A": ["friendliness", "connection", "introduction", "juncture", "marriage"]}

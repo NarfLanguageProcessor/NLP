@@ -1,1 +1,1 @@
-{"index": 1179, "D": "to use wrongly or improperly; misuse", "S": ["corruption ", "crime ", "exploitation ", "injustice ", "misconduct ", "misdeed ", "misuse ", "offense ", "prostitution ", "wrongdoing "], "A": ["good deed ", "kindness ", "obedience ", "goodness "]}
+{"index": 1179, "D": "to use wrongly or improperly; misuse", "S": ["corruption", "crime", "exploitation", "injustice", "misconduct", "misdeed", "misuse", "offense", "prostitution", "wrongdoing"], "A": ["good deed", "kindness", "obedience", "goodness"]}

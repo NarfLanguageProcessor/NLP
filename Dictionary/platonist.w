@@ -1,1 +1,1 @@
-{"index": 239543, "D": "the philosophy or doctrines of Plato or his followers.", "S": ["dreamer ", "optimist ", "visionary "], "A": ["pragmatist ", "realist "]}
+{"index": 239543, "D": "the philosophy or doctrines of Plato or his followers.", "S": ["dreamer", "optimist", "visionary"], "A": ["pragmatist", "realist"]}

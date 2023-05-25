@@ -1,1 +1,1 @@
-{"index": 41050, "D": "to transmit (programs) from a radio or television station.", "S": ["advertisement ", "announcement ", "newscast ", "performance ", "program ", "publication ", "show ", "simulcast ", "transmission "], "A": []}
+{"index": 41050, "D": "to transmit (programs) from a radio or television station.", "S": ["advertisement", "announcement", "newscast", "performance", "program", "publication", "show", "simulcast", "transmission"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 315939, "D": "the act or process of changing, damaging, or interfering with something, especially with intent to falsify, cheat, or defraud", "S": ["inquisitive ", "interested "], "A": ["incurious ", "unconcerned "]}
+{"index": 315939, "D": "the act or process of changing, damaging, or interfering with something, especially with intent to falsify, cheat, or defraud", "S": ["inquisitive", "interested"], "A": ["incurious", "unconcerned"]}

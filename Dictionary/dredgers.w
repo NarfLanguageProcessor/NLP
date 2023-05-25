@@ -1,1 +1,1 @@
-{"index": 92915, "D": "dredge1 (def. 1). ", "S": ["prospector "], "A": []}
+{"index": 92915, "D": "dredge1 (def. 1). ", "S": ["prospector"], "A": []}

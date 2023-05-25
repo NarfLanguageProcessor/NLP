@@ -1,1 +1,1 @@
-{"index": 190851, "D": "to rain in fine drops; drizzle; mist.", "S": ["dribble ", "spray ", "sprinkle "], "A": ["collect ", "gather ", "pour "]}
+{"index": 190851, "D": "to rain in fine drops; drizzle; mist.", "S": ["dribble", "spray", "sprinkle"], "A": ["collect", "gather", "pour"]}

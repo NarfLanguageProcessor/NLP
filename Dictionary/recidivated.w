@@ -1,1 +1,0 @@
-{"index": 262847, "D": "to engage in recidivism; relapse. ", "S": ["cease ", "degenerate ", "descend ", "deteriorate ", "elapse ", "expire ", "go by ", "recede ", "relapse ", "run out ", "subside ", "terminate "], "A": ["begin ", "commence ", "develop ", "get better ", "improve ", "increase ", "initiate ", "rise ", "start ", "accept ", "grow ", "live ", "take "]}

@@ -1,1 +1,1 @@
-{"index": 251531, "D": [], "S": ["blow ", "expend ", "lavish ", "misuse ", "waste "], "A": ["hoard ", "save ", "accumulate ", "collect ", "gather "]}
+{"index": 251531, "D": [], "S": ["blow", "expend", "lavish", "misuse", "waste"], "A": ["hoard", "save", "accumulate", "collect", "gather"]}

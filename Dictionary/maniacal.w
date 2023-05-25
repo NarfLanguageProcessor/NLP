@@ -1,1 +1,1 @@
-{"index": 179229, "D": "of or relating to mania  or a maniac. ", "S": ["delirious "], "A": []}
+{"index": 179229, "D": "of or relating to mania  or a maniac. ", "S": ["delirious"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 145356, "D": "big and strong; burly. ", "S": ["gruff ", "hoarse ", "throaty "], "A": ["soft "]}
+{"index": 145356, "D": "big and strong; burly. ", "S": ["gruff", "hoarse", "throaty"], "A": ["soft"]}

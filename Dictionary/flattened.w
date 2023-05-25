@@ -1,1 +1,1 @@
-{"index": 114105, "D": "to make flat. ", "S": ["depressed ", "planed "], "A": []}
+{"index": 114105, "D": "to make flat. ", "S": ["depressed", "planed"], "A": []}

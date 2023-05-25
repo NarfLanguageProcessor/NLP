@@ -1,1 +1,1 @@
-{"index": 362082, "D": "a period of waiting;  pause, interval, or delay.", "S": ["discontinuation ", "dormancy ", "inactivity ", "intermission ", "latency ", "postponement ", "quiescence ", "recess ", "remission ", "suspension ", "waiting "], "A": ["continuation "]}
+{"index": 362082, "D": "a period of waiting;  pause, interval, or delay.", "S": ["discontinuation", "dormancy", "inactivity", "intermission", "latency", "postponement", "quiescence", "recess", "remission", "suspension", "waiting"], "A": ["continuation"]}

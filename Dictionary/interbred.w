@@ -1,1 +1,1 @@
-{"index": 154525, "D": "to crossbreed (a plant or animal).", "S": ["carnal "], "A": []}
+{"index": 154525, "D": "to crossbreed (a plant or animal).", "S": ["carnal"], "A": []}

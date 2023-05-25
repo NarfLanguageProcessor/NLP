@@ -1,1 +1,1 @@
-{"index": 362383, "D": "a slender stick or rod, especially one used by a magician, conjurer, or diviner.", "S": ["baton "], "A": []}
+{"index": 362383, "D": "a slender stick or rod, especially one used by a magician, conjurer, or diviner.", "S": ["baton"], "A": []}

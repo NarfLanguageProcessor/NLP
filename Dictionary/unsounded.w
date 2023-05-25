@@ -1,1 +1,1 @@
-{"index": 351636, "D": [], "S": ["silent ", "speechless "], "A": ["communicative "]}
+{"index": 351636, "D": [], "S": ["silent", "speechless"], "A": ["communicative"]}

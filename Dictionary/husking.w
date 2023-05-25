@@ -1,1 +1,1 @@
-{"index": 145361, "D": "the act of removing husks,  especially those of corn.", "S": ["capsule ", "husk ", "skin "], "A": []}
+{"index": 145361, "D": "the act of removing husks,  especially those of corn.", "S": ["capsule", "husk", "skin"], "A": []}

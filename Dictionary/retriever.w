@@ -1,1 +1,1 @@
-{"index": 270751, "D": "a person or thing that retrieves. ", "S": ["beagle "], "A": []}
+{"index": 270751, "D": "a person or thing that retrieves. ", "S": ["beagle"], "A": []}

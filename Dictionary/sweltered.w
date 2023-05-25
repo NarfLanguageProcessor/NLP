@@ -1,1 +1,1 @@
-{"index": 314360, "D": "to suffer from oppressive heat.", "S": ["broil ", "sweat ", "wilt "], "A": ["freeze "]}
+{"index": 314360, "D": "to suffer from oppressive heat.", "S": ["broil", "sweat", "wilt"], "A": ["freeze"]}

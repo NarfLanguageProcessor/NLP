@@ -1,1 +1,1 @@
-{"index": 103077, "D": "a kind of lyric poem, invented by Archilochus, in which a long verse is followed by a short one.", "S": ["ballad ", "composition ", "limerick ", "lyric ", "poesy ", "rhyme ", "song ", "sonnet ", "verse "], "A": []}
+{"index": 103077, "D": "a kind of lyric poem, invented by Archilochus, in which a long verse is followed by a short one.", "S": ["ballad", "composition", "limerick", "lyric", "poesy", "rhyme", "song", "sonnet", "verse"], "A": []}

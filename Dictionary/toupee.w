@@ -1,1 +1,1 @@
-{"index": 326618, "D": "a man's wig.", "S": ["hairpiece "], "A": []}
+{"index": 326618, "D": "a man's wig.", "S": ["hairpiece"], "A": []}

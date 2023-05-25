@@ -1,1 +1,1 @@
-{"index": 74181, "D": "to break into small fragments or crumbs.", "S": ["collapsing ", "decaying "], "A": []}
+{"index": 74181, "D": "to break into small fragments or crumbs.", "S": ["collapsing", "decaying"], "A": []}

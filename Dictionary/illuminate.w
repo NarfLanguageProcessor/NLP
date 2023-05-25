@@ -1,1 +1,1 @@
-{"index": 147467, "D": "to supply or brighten with light; light up.", "S": ["brighten ", "flash ", "highlight ", "light up ", "spotlight "], "A": ["darken ", "dull ", "extinguish ", "put out "]}
+{"index": 147467, "D": "to supply or brighten with light; light up.", "S": ["brighten", "flash", "highlight", "light up", "spotlight"], "A": ["darken", "dull", "extinguish", "put out"]}

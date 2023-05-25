@@ -1,1 +1,1 @@
-{"index": 67770, "D": "to give (money, time, knowledge, assistance, etc.) to a common supply, fund, etc., as for charitable purposes.", "S": ["conducive ", "contributing ", "contributory ", "related ", "responsible "], "A": []}
+{"index": 67770, "D": "to give (money, time, knowledge, assistance, etc.) to a common supply, fund, etc., as for charitable purposes.", "S": ["conducive", "contributing", "contributory", "related", "responsible"], "A": []}

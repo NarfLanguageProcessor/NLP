@@ -1,1 +1,1 @@
-{"index": 96396, "D": "one of the short, thick, curved hairs growing as a fringe on the edge of an eyelid.", "S": ["eyebrow ", "fiber ", "fur ", "grass ", "haircut ", "hairstyle ", "mane ", "sideburn ", "strand ", "wig ", "wool "], "A": []}
+{"index": 96396, "D": "one of the short, thick, curved hairs growing as a fringe on the edge of an eyelid.", "S": ["eyebrow", "fiber", "fur", "grass", "haircut", "hairstyle", "mane", "sideburn", "strand", "wig", "wool"], "A": []}

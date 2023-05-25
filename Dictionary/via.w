@@ -1,1 +1,1 @@
-{"index": 359220, "D": "by a route that touches or passes through; by way of", "S": ["along ", "as a means ", "by ", "by dint of ", "by means of ", "by this route ", "by virtue of ", "on the way ", "over ", "per ", "through ", "through the medium of ", "through this medium ", "with "], "A": []}
+{"index": 359220, "D": "by a route that touches or passes through; by way of", "S": ["along", "as a means", "by", "by dint of", "by means of", "by this route", "by virtue of", "on the way", "over", "per", "through", "through the medium of", "through this medium", "with"], "A": []}

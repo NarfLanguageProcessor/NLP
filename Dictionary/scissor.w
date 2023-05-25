@@ -1,1 +1,0 @@
-{"index": 280825, "D": "to cut or clip out with scissors. ", "S": ["carve ", "divide ", "rip ", "slash ", "slice "], "A": ["combine ", "unite ", "close ", "connect ", "join ", "mend "]}

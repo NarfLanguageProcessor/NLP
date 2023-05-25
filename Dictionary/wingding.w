@@ -1,1 +1,1 @@
-{"index": 366131, "D": "a noisy, exciting celebration or party.", "S": ["anniversary ", "bash ", "birthday ", "ceremony ", "festival ", "festivity ", "gala ", "jubilee ", "observance ", "party ", "performance ", "spree ", "triumph "], "A": ["failure ", "sadness "]}
+{"index": 366131, "D": "a noisy, exciting celebration or party.", "S": ["anniversary", "bash", "birthday", "ceremony", "festival", "festivity", "gala", "jubilee", "observance", "party", "performance", "spree", "triumph"], "A": ["failure", "sadness"]}

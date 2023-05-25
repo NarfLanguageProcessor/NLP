@@ -1,1 +1,1 @@
-{"index": 16889, "D": "of, like, or containing aphorisms", "S": ["apothegmatic ", "compact ", "concise ", "crisp ", "epigrammatic ", "epigrammatical ", "sententious ", "succinct ", "to the point "], "A": []}
+{"index": 16889, "D": "of, like, or containing aphorisms", "S": ["apothegmatic", "compact", "concise", "crisp", "epigrammatic", "epigrammatical", "sententious", "succinct", "to the point"], "A": []}

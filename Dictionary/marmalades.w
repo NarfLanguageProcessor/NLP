@@ -1,1 +1,1 @@
-{"index": 180246, "D": "a jellylike preserve in which small pieces of fruit and fruit rind, as of oranges or lemons, are suspended.", "S": ["gelatin ", "jelly "], "A": []}
+{"index": 180246, "D": "a jellylike preserve in which small pieces of fruit and fruit rind, as of oranges or lemons, are suspended.", "S": ["gelatin", "jelly"], "A": []}

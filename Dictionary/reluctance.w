@@ -1,1 +1,1 @@
-{"index": 267057, "D": "unwillingness; disinclination", "S": ["hesitancy ", "hesitation ", "objection ", "unwillingness "], "A": []}
+{"index": 267057, "D": "unwillingness; disinclination", "S": ["hesitancy", "hesitation", "objection", "unwillingness"], "A": []}

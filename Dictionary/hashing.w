@@ -1,1 +1,1 @@
-{"index": 134078, "D": "interference of signals between two stations on the same or adjacent frequencies.", "S": ["contend ", "disagree ", "dispute ", "quarrel ", "quibble ", "squabble "], "A": ["agree ", "concur ", "give in ", "make peace "]}
+{"index": 134078, "D": "interference of signals between two stations on the same or adjacent frequencies.", "S": ["contend", "disagree", "dispute", "quarrel", "quibble", "squabble"], "A": ["agree", "concur", "give in", "make peace"]}

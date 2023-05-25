@@ -1,1 +1,1 @@
-{"index": 365259, "D": "to make a humming, buzzing, or hissing sound, as an object passing swiftly through the air.", "S": ["genius ", "prodigy "], "A": ["amateur ", "apprentice ", "greenhorn ", "rookie "]}
+{"index": 365259, "D": "to make a humming, buzzing, or hissing sound, as an object passing swiftly through the air.", "S": ["genius", "prodigy"], "A": ["amateur", "apprentice", "greenhorn", "rookie"]}

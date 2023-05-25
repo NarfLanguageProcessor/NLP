@@ -1,1 +1,1 @@
-{"index": 354354, "D": "not practicable or feasible", "S": ["absurd ", "futile ", "impassable ", "impractical ", "unattainable ", "unreasonable ", "unthinkable ", "useless "], "A": ["logical ", "practical ", "reasonable ", "sensible "]}
+{"index": 354354, "D": "not practicable or feasible", "S": ["absurd", "futile", "impassable", "impractical", "unattainable", "unreasonable", "unthinkable", "useless"], "A": ["logical", "practical", "reasonable", "sensible"]}

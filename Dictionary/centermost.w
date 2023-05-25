@@ -1,1 +1,1 @@
-{"index": 50844, "D": [], "S": ["inside ", "interior ", "intermediary ", "intermediate ", "mean ", "midpoint ", "midway "], "A": ["exterior ", "external ", "extreme ", "outer ", "outside "]}
+{"index": 50844, "D": [], "S": ["inside", "interior", "intermediary", "intermediate", "mean", "midpoint", "midway"], "A": ["exterior", "external", "extreme", "outer", "outside"]}

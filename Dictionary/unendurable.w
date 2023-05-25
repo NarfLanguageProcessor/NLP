@@ -1,1 +1,1 @@
-{"index": 341264, "D": "not able to be undergone or tolerated; insufferable", "S": ["intolerable "], "A": []}
+{"index": 341264, "D": "not able to be undergone or tolerated; insufferable", "S": ["intolerable"], "A": []}

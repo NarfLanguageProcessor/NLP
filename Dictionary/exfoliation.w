@@ -1,1 +1,1 @@
-{"index": 107096, "D": "the act, state, or process of exfoliating. ", "S": ["depilation ", "peeling ", "shedding "], "A": []}
+{"index": 107096, "D": "the act, state, or process of exfoliating. ", "S": ["depilation", "peeling", "shedding"], "A": []}

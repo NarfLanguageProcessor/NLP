@@ -1,1 +1,1 @@
-{"index": 133318, "D": "to write (something) by hand.", "S": ["endorse ", "engross ", "ink ", "inscribe ", "pen ", "sign ", "signature ", "subscribe "], "A": ["reject "]}
+{"index": 133318, "D": "to write (something) by hand.", "S": ["endorse", "engross", "ink", "inscribe", "pen", "sign", "signature", "subscribe"], "A": ["reject"]}

@@ -1,1 +1,1 @@
-{"index": 174171, "D": "an entrance hall, corridor, or vestibule, as in a public building, often serving as an anteroom; foyer.", "S": ["corridor ", "doorway ", "foyer ", "hall ", "hallway ", "porch ", "vestibule ", "waiting room "], "A": []}
+{"index": 174171, "D": "an entrance hall, corridor, or vestibule, as in a public building, often serving as an anteroom; foyer.", "S": ["corridor", "doorway", "foyer", "hall", "hallway", "porch", "vestibule", "waiting room"], "A": []}

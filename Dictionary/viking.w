@@ -1,1 +1,1 @@
-{"index": 359656, "D": "any of the Scandinavian pirates who plundered the coasts of Europe from the 8th to 10th centuries.", "S": ["corsair ", "freebooter ", "pirate ", "rover ", "spoiler "], "A": []}
+{"index": 359656, "D": "any of the Scandinavian pirates who plundered the coasts of Europe from the 8th to 10th centuries.", "S": ["corsair", "freebooter", "pirate", "rover", "spoiler"], "A": []}

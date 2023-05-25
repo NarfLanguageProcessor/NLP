@@ -1,1 +1,1 @@
-{"index": 288011, "D": "the plural of shelf. ", "S": ["counter ", "cupboard ", "ledge ", "rack "], "A": []}
+{"index": 288011, "D": "the plural of shelf. ", "S": ["counter", "cupboard", "ledge", "rack"], "A": []}

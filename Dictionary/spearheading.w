@@ -1,1 +1,1 @@
-{"index": 298720, "D": "the sharp-pointed head  that forms the piercing end of a spear. ", "S": ["innovative ", "revolutionary "], "A": ["conservative "]}
+{"index": 298720, "D": "the sharp-pointed head  that forms the piercing end of a spear. ", "S": ["innovative", "revolutionary"], "A": ["conservative"]}

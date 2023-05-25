@@ -1,1 +1,1 @@
-{"index": 243884, "D": "the state or fact of being possible", "S": ["action ", "circumstance ", "hazard ", "hope ", "incident ", "opportunity ", "probability ", "prospect ", "risk "], "A": ["certainty ", "safety ", "surety ", "plan "]}
+{"index": 243884, "D": "the state or fact of being possible", "S": ["action", "circumstance", "hazard", "hope", "incident", "opportunity", "probability", "prospect", "risk"], "A": ["certainty", "safety", "surety", "plan"]}

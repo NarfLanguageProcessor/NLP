@@ -1,1 +1,1 @@
-{"index": 365465, "D": "a window or opening, often closed by a grating or the like, as in a door, or forming a place of communication in a ticket office, a teller's cage in a bank, etc.", "S": ["arch ", "entrance ", "gate ", "opening ", "window "], "A": ["conclusion "]}
+{"index": 365465, "D": "a window or opening, often closed by a grating or the like, as in a door, or forming a place of communication in a ticket office, a teller's cage in a bank, etc.", "S": ["arch", "entrance", "gate", "opening", "window"], "A": ["conclusion"]}

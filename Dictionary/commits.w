@@ -1,1 +1,1 @@
-{"index": 64107, "D": "to do; perform; perpetrate", "S": ["act ", "carry out ", "do ", "execute ", "perpetrate ", "violate "], "A": ["abstain ", "fail ", "idle ", "leave ", "miss ", "neglect ", "stop ", "behave ", "compliment ", "give up ", "obey "]}
+{"index": 64107, "D": "to do; perform; perpetrate", "S": ["act", "carry out", "do", "execute", "perpetrate", "violate"], "A": ["abstain", "fail", "idle", "leave", "miss", "neglect", "stop", "behave", "compliment", "give up", "obey"]}

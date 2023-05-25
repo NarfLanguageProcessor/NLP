@@ -1,1 +1,1 @@
-{"index": 20105, "D": "in a circle, ring, or the like; so as to surround a person, group, thing, etc.", "S": ["about ", "everywhere ", "over "], "A": []}
+{"index": 20105, "D": "in a circle, ring, or the like; so as to surround a person, group, thing, etc.", "S": ["about", "everywhere", "over"], "A": []}

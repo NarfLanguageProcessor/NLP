@@ -1,1 +1,1 @@
-{"index": 298985, "D": [], "S": ["declamation ", "delivery ", "diction ", "eloquence ", "enunciation ", "expression ", "locution ", "oratory ", "pronunciation ", "reading ", "rhetoric ", "speech ", "speechmaking ", "utterance "], "A": ["quiet ", "silence "]}
+{"index": 298985, "D": [], "S": ["declamation", "delivery", "diction", "eloquence", "enunciation", "expression", "locution", "oratory", "pronunciation", "reading", "rhetoric", "speech", "speechmaking", "utterance"], "A": ["quiet", "silence"]}

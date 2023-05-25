@@ -1,1 +1,1 @@
-{"index": 291201, "D": "existing, occurring, or operating at the same time; concurrent", "S": ["harmony ", "peace "], "A": ["disagreement ", "fighting ", "difference ", "refusal "]}
+{"index": 291201, "D": "existing, occurring, or operating at the same time; concurrent", "S": ["harmony", "peace"], "A": ["disagreement", "fighting", "difference", "refusal"]}

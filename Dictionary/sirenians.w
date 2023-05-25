@@ -1,1 +1,0 @@
-{"index": 292329, "D": "an aquatic, herbivorous mammal of the order Sirenia, including the manatee and dugong.", "S": [], "A": []}

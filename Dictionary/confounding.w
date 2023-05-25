@@ -1,1 +1,1 @@
-{"index": 66045, "D": "perplexing or bewildering", "S": ["astonishing ", "breathtaking ", "eye-popping ", "mind-boggling ", "overwhelming ", "shocking ", "startling ", "surprising ", "wondrous "], "A": []}
+{"index": 66045, "D": "perplexing or bewildering", "S": ["astonishing", "breathtaking", "eye-popping", "mind-boggling", "overwhelming", "shocking", "startling", "surprising", "wondrous"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 235537, "D": "frenetic. ", "S": ["frantic ", "frenzied ", "furious ", "obsessive "], "A": ["calm ", "peaceful "]}
+{"index": 235537, "D": "frenetic. ", "S": ["frantic", "frenzied", "furious", "obsessive"], "A": ["calm", "peaceful"]}

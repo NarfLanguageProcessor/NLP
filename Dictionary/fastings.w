@@ -1,1 +1,1 @@
-{"index": 110214, "D": [], "S": ["chastity ", "fasting ", "frugality ", "moderation ", "self-restraint "], "A": ["drunkenness ", "excess ", "indulgence ", "intemperance ", "intoxication ", "revelry ", "self-indulgence "]}
+{"index": 110214, "D": [], "S": ["chastity", "fasting", "frugality", "moderation", "self-restraint"], "A": ["drunkenness", "excess", "indulgence", "intemperance", "intoxication", "revelry", "self-indulgence"]}

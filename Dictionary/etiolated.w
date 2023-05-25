@@ -1,1 +1,1 @@
-{"index": 105185, "D": "to cause (a plant) to whiten or grow pale by excluding light", "S": ["listless ", "sickly "], "A": ["flushed ", "strong "]}
+{"index": 105185, "D": "to cause (a plant) to whiten or grow pale by excluding light", "S": ["listless", "sickly"], "A": ["flushed", "strong"]}

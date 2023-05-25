@@ -1,1 +1,1 @@
-{"index": 278307, "D": "of, relating to, or characterized by sarcasm", "S": ["irritability ", "rancor ", "rudeness ", "sarcasm "], "A": ["kindness ", "mellowness ", "mildness ", "sweetness "]}
+{"index": 278307, "D": "of, relating to, or characterized by sarcasm", "S": ["irritability", "rancor", "rudeness", "sarcasm"], "A": ["kindness", "mellowness", "mildness", "sweetness"]}

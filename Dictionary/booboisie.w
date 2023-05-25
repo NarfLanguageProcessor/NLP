@@ -1,0 +1,1 @@
+{"index": 38002, "D": "a segment of the general public  composed of uneducated, uncultured persons.", "S": [], "A": []}

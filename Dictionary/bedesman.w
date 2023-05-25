@@ -1,0 +1,1 @@
+{"index": 30039, "D": "a variant spelling of beadsman", "S": [], "A": []}

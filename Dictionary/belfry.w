@@ -1,1 +1,1 @@
-{"index": 31048, "D": "a bell tower, either attached to a church or other building or standing apart.", "S": ["campanile ", "carillon ", "cupola ", "dome ", "head ", "minaret ", "spire ", "steeple ", "turret "], "A": []}
+{"index": 31048, "D": "a bell tower, either attached to a church or other building or standing apart.", "S": ["campanile", "carillon", "cupola", "dome", "head", "minaret", "spire", "steeple", "turret"], "A": []}

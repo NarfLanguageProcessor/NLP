@@ -1,1 +1,1 @@
-{"index": 9849, "D": "to gather for oneself; collect as one's own", "S": ["accumulated ", "combined ", "corporate ", "cumulative "], "A": ["uncombined "]}
+{"index": 9849, "D": "to gather for oneself; collect as one's own", "S": ["accumulated", "combined", "corporate", "cumulative"], "A": ["uncombined"]}

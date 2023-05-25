@@ -1,1 +1,1 @@
-{"index": 311138, "D": "having sunk  or been sunk beneath the surface; submerged.", "S": ["buried ", "immersed ", "indented ", "recessed "], "A": []}
+{"index": 311138, "D": "having sunk  or been sunk beneath the surface; submerged.", "S": ["buried", "immersed", "indented", "recessed"], "A": []}

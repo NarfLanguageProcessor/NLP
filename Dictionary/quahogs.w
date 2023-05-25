@@ -1,1 +1,1 @@
-{"index": 257787, "D": "an edible clam, Venus (sometimes Mercenaria) mercenaria, inhabiting waters along the Atlantic coast, having a relatively thick shell.", "S": ["mollusk "], "A": []}
+{"index": 257787, "D": "an edible clam, Venus (sometimes Mercenaria) mercenaria, inhabiting waters along the Atlantic coast, having a relatively thick shell.", "S": ["mollusk"], "A": []}

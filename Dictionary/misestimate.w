@@ -1,1 +1,1 @@
-{"index": 189255, "D": "to estimate  wrongly or inadequately.", "S": ["blow ", "blunder ", "miscount ", "miss ", "misunderstanding ", "slip "], "A": ["correction ", "success "]}
+{"index": 189255, "D": "to estimate  wrongly or inadequately.", "S": ["blow", "blunder", "miscount", "miss", "misunderstanding", "slip"], "A": ["correction", "success"]}

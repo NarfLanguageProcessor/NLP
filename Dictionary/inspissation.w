@@ -1,1 +1,1 @@
-{"index": 153816, "D": "to thicken, as by evaporation; make or become dense.", "S": ["agglomeration ", "concentration ", "concretion ", "condensation ", "congelation ", "consolidation ", "curdling ", "embolism ", "thickening "], "A": ["dispersal ", "separation "]}
+{"index": 153816, "D": "to thicken, as by evaporation; make or become dense.", "S": ["agglomeration", "concentration", "concretion", "condensation", "congelation", "consolidation", "curdling", "embolism", "thickening"], "A": ["dispersal", "separation"]}

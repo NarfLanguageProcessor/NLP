@@ -1,1 +1,1 @@
-{"index": 75764, "D": "forcedly and consciously cute;  coyly mannered", "S": ["artistic ", "arty-crafty ", "flaunting ", "pretentiously artistic "], "A": []}
+{"index": 75764, "D": "forcedly and consciously cute;  coyly mannered", "S": ["artistic", "arty-crafty", "flaunting", "pretentiously artistic"], "A": []}

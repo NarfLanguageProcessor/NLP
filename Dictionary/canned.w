@@ -1,1 +1,1 @@
-{"index": 46387, "D": "preserved in a can  or jar", "S": ["bottled "], "A": []}
+{"index": 46387, "D": "preserved in a can  or jar", "S": ["bottled"], "A": []}

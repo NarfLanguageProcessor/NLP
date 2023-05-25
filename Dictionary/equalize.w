@@ -1,1 +1,1 @@
-{"index": 103169, "D": "to make equal", "S": ["adjust ", "even up "], "A": ["aid ", "assist ", "differ ", "disagree ", "help ", "imbalance ", "roughen ", "vary "]}
+{"index": 103169, "D": "to make equal", "S": ["adjust", "even up"], "A": ["aid", "assist", "differ", "disagree", "help", "imbalance", "roughen", "vary"]}

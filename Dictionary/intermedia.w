@@ -1,1 +1,1 @@
-{"index": 155313, "D": "using or involving several media,  as dance, slides, electronic music, film, and painting, simultaneously; multimedia.", "S": ["interactive media ", "mixed media "], "A": []}
+{"index": 155313, "D": "using or involving several media,  as dance, slides, electronic music, film, and painting, simultaneously; multimedia.", "S": ["interactive media", "mixed media"], "A": []}

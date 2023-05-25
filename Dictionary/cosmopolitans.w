@@ -1,1 +1,1 @@
-{"index": 70095, "D": "free from local, provincial, or national ideas, prejudices, or attachments; at home all over the world.", "S": ["citizen of the world ", "city slicker ", "cosmopolitan ", "fashionable man ", "man of the world ", "mondain ", "mondaine "], "A": []}
+{"index": 70095, "D": "free from local, provincial, or national ideas, prejudices, or attachments; at home all over the world.", "S": ["citizen of the world", "city slicker", "cosmopolitan", "fashionable man", "man of the world", "mondain", "mondaine"], "A": []}

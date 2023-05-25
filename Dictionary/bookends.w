@@ -1,0 +1,1 @@
+{"index": 38056, "D": "a support placed at the end of a row of books to hold them upright, usually used in pairs.", "S": [], "A": []}

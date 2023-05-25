@@ -1,1 +1,1 @@
-{"index": 282521, "D": "a meeting in which a spiritualist attempts to communicate with the spirits of the dead.", "S": ["gathering ", "meeting ", "ritual ", "session "], "A": []}
+{"index": 282521, "D": "a meeting in which a spiritualist attempts to communicate with the spirits of the dead.", "S": ["gathering", "meeting", "ritual", "session"], "A": []}

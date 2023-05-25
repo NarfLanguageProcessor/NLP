@@ -1,1 +1,1 @@
-{"index": 193690, "D": "subject to death; having a transitory life", "S": ["badly ", "critically ", "gravely ", "painfully ", "seriously "], "A": []}
+{"index": 193690, "D": "subject to death; having a transitory life", "S": ["badly", "critically", "gravely", "painfully", "seriously"], "A": []}

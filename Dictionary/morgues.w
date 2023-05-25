@@ -1,1 +1,1 @@
-{"index": 193430, "D": "a place in which bodies are kept, especially the bodies of victims of violence or accidents, pending identification or burial.", "S": ["funeral home "], "A": []}
+{"index": 193430, "D": "a place in which bodies are kept, especially the bodies of victims of violence or accidents, pending identification or burial.", "S": ["funeral home"], "A": []}

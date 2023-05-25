@@ -1,1 +1,1 @@
-{"index": 76643, "D": "slightly wet; moist", "S": ["fog ", "humidity ", "mist ", "perspiration ", "precipitation ", "rain ", "sweat ", "water "], "A": ["aridity ", "dryness "]}
+{"index": 76643, "D": "slightly wet; moist", "S": ["fog", "humidity", "mist", "perspiration", "precipitation", "rain", "sweat", "water"], "A": ["aridity", "dryness"]}

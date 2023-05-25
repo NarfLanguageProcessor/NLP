@@ -1,0 +1,1 @@
+{"index": 8078, "D": "an instrument for determining the sensitiveness of the skin to a painful stimulus.", "S": [], "A": []}

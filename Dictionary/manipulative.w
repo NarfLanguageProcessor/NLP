@@ -1,1 +1,0 @@
-{"index": 179335, "D": "influencing or attempting to influence the behavior or emotions of others for one\u2019s own purposes", "S": ["canny ", "considerate ", "devious ", "scheming ", "shrewd ", "wily "], "A": ["foolish ", "honest ", "open "]}

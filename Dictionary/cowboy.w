@@ -1,1 +1,1 @@
-{"index": 71567, "D": "a man who herds and tends cattle on a ranch, especially in the western U.S., and who traditionally goes about most of his work on horseback.", "S": ["bronco "], "A": []}
+{"index": 71567, "D": "a man who herds and tends cattle on a ranch, especially in the western U.S., and who traditionally goes about most of his work on horseback.", "S": ["bronco"], "A": []}

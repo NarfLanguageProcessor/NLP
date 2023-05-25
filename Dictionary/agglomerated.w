@@ -1,0 +1,1 @@
+{"index": 6053, "D": "to collect or gather into a cluster or mass.", "S": ["amass", "bring together", "collect", "convene", "gather", "meet", "mobilize", "summon"], "A": ["cancel", "disperse", "distribute", "divide", "scatter", "separate", "lose", "spread"]}

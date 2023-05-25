@@ -1,1 +1,1 @@
-{"index": 298369, "D": "a person or thing that spans. ", "S": ["obstruction wrench ", "pipe wrench "], "A": []}
+{"index": 298369, "D": "a person or thing that spans. ", "S": ["obstruction wrench", "pipe wrench"], "A": []}

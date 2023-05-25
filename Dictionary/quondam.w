@@ -1,1 +1,1 @@
-{"index": 259131, "D": "former; one-time", "S": ["bygone ", "erstwhile ", "onetime ", "past ", "preceding ", "sometime "], "A": []}
+{"index": 259131, "D": "former; one-time", "S": ["bygone", "erstwhile", "onetime", "past", "preceding", "sometime"], "A": []}

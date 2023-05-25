@@ -1,1 +1,1 @@
-{"index": 97976, "D": "a bank, mound, dike, or the like, raised to hold back water, carry a roadway, etc.", "S": ["hill "], "A": []}
+{"index": 97976, "D": "a bank, mound, dike, or the like, raised to hold back water, carry a roadway, etc.", "S": ["hill"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 365673, "D": "a variant of wickiup. ", "S": ["canvas ", "pavilion "], "A": []}
+{"index": 365673, "D": "a variant of wickiup. ", "S": ["canvas", "pavilion"], "A": []}

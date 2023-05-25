@@ -1,1 +1,1 @@
-{"index": 65726, "D": "a pipe, tube, or the like, for conveying water or other fluid.", "S": ["duct ", "pipe ", "pipeline "], "A": []}
+{"index": 65726, "D": "a pipe, tube, or the like, for conveying water or other fluid.", "S": ["duct", "pipe", "pipeline"], "A": []}

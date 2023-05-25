@@ -1,1 +1,1 @@
-{"index": 40780, "D": "the high beam of the headlights of a motor vehicle", "S": ["aurora ", "cockcrow ", "dawn ", "dawning ", "daybreak ", "daylight ", "light ", "morn ", "morning ", "sunup "], "A": ["darkness ", "evening ", "eventide ", "night ", "sundown ", "sunset "]}
+{"index": 40780, "D": "the high beam of the headlights of a motor vehicle", "S": ["aurora", "cockcrow", "dawn", "dawning", "daybreak", "daylight", "light", "morn", "morning", "sunup"], "A": ["darkness", "evening", "eventide", "night", "sundown", "sunset"]}

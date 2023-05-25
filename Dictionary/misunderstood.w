@@ -1,1 +1,1 @@
-{"index": 190397, "D": "improperly understood  or interpreted.", "S": ["misconceived ", "mistaken ", "wrong "], "A": ["correct ", "right "]}
+{"index": 190397, "D": "improperly understood  or interpreted.", "S": ["misconceived", "mistaken", "wrong"], "A": ["correct", "right"]}

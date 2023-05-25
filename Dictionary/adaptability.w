@@ -1,0 +1,1 @@
+{"index": 3455, "D": "the ability to adjust to different conditions or circumstances", "S": ["flexibility", "versatility"], "A": []}

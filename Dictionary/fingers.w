@@ -1,1 +1,1 @@
-{"index": 112973, "D": "any of the terminal members of the hand, especially one other than the thumb.", "S": ["claw ", "hook ", "ring finger ", "thumb "], "A": []}
+{"index": 112973, "D": "any of the terminal members of the hand, especially one other than the thumb.", "S": ["claw", "hook", "ring finger", "thumb"], "A": []}

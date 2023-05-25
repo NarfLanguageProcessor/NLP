@@ -1,1 +1,1 @@
-{"index": 91252, "D": "shaped like a dome", "S": ["curved ", "rounded "], "A": []}
+{"index": 91252, "D": "shaped like a dome", "S": ["curved", "rounded"], "A": []}

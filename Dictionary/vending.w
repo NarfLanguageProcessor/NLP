@@ -1,1 +1,1 @@
-{"index": 357965, "D": "to sell as one's business or occupation, especially by peddling", "S": ["clearance ", "demolition ", "destruction ", "disposition ", "dumping ", "removal ", "transfer "], "A": ["building ", "construction "]}
+{"index": 357965, "D": "to sell as one's business or occupation, especially by peddling", "S": ["clearance", "demolition", "destruction", "disposition", "dumping", "removal", "transfer"], "A": ["building", "construction"]}

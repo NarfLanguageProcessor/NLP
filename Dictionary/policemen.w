@@ -1,1 +1,1 @@
-{"index": 241689, "D": "a member of a police force  or body.", "S": ["constable ", "detective ", "man ", "officer ", "patrolman ", "police "], "A": []}
+{"index": 241689, "D": "a member of a police force  or body.", "S": ["constable", "detective", "man", "officer", "patrolman", "police"], "A": []}

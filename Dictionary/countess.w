@@ -1,1 +1,1 @@
-{"index": 71213, "D": "the wife or widow of a count in the nobility of Continental Europe or of an earl in the British peerage.", "S": ["gentlewoman ", "noblewoman "], "A": ["gentleman "]}
+{"index": 71213, "D": "the wife or widow of a count in the nobility of Continental Europe or of an earl in the British peerage.", "S": ["gentlewoman", "noblewoman"], "A": ["gentleman"]}

@@ -1,1 +1,1 @@
-{"index": 315574, "D": "a person who spreads gossip, secrets, etc., that may cause trouble or harm.", "S": ["blabby ", "dishing ", "prattling ", "repeating ", "taletelling ", "tattling "], "A": []}
+{"index": 315574, "D": "a person who spreads gossip, secrets, etc., that may cause trouble or harm.", "S": ["blabby", "dishing", "prattling", "repeating", "taletelling", "tattling"], "A": []}

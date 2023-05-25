@@ -1,1 +1,1 @@
-{"index": 28999, "D": "a ludicrous descent from the exalted or lofty to the commonplace; anticlimax.", "S": ["anticlimax ", "comedown ", "letdown ", "melodrama ", "mush ", "schmaltz "], "A": ["boon "]}
+{"index": 28999, "D": "a ludicrous descent from the exalted or lofty to the commonplace; anticlimax.", "S": ["anticlimax", "comedown", "letdown", "melodrama", "mush", "schmaltz"], "A": ["boon"]}

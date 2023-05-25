@@ -1,1 +1,1 @@
-{"index": 305665, "D": "going or directed straight ahead", "S": ["directness ", "fairness ", "frankness ", "honesty ", "outspokenness ", "probity ", "simplicity ", "sincerity ", "truthfulness "], "A": ["deceit ", "dishonesty ", "lying ", "unfairness "]}
+{"index": 305665, "D": "going or directed straight ahead", "S": ["directness", "fairness", "frankness", "honesty", "outspokenness", "probity", "simplicity", "sincerity", "truthfulness"], "A": ["deceit", "dishonesty", "lying", "unfairness"]}

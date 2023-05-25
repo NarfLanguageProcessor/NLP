@@ -1,1 +1,0 @@
-{"index": 169838, "D": "any of a group of phospholipids, occurring in animal and plant tissues and egg yolk, composed of units of choline, phosphoric acid, fatty acids, and glycerol.", "S": [], "A": []}

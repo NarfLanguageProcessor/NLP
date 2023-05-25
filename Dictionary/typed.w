@@ -1,1 +1,1 @@
-{"index": 324170, "D": "a number of things or persons sharing a particular characteristic, or set of characteristics, that causes them to be regarded as a group, more or less precisely defined or designated; class; category", "S": ["copied "], "A": []}
+{"index": 324170, "D": "a number of things or persons sharing a particular characteristic, or set of characteristics, that causes them to be regarded as a group, more or less precisely defined or designated; class; category", "S": ["copied"], "A": []}

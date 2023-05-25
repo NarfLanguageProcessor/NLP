@@ -1,1 +1,1 @@
-{"index": 291523, "D": "serving to unite or connect; connective; copulative.", "S": ["interrelated ", "intimate "], "A": []}
+{"index": 291523, "D": "serving to unite or connect; connective; copulative.", "S": ["interrelated", "intimate"], "A": []}

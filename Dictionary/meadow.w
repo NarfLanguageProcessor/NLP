@@ -1,1 +1,1 @@
-{"index": 181673, "D": "a tract of grassland used for pasture or serving as a hayfield.", "S": ["grassland ", "pasture ", "plain ", "prairie "], "A": []}
+{"index": 181673, "D": "a tract of grassland used for pasture or serving as a hayfield.", "S": ["grassland", "pasture", "plain", "prairie"], "A": []}

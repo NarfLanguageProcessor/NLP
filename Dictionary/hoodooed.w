@@ -1,1 +1,1 @@
-{"index": 143494, "D": "Compare Vodou, Voodoo (def. 1). ", "S": ["bedevil ", "bewitch ", "charm ", "condemn ", "curse ", "damn ", "enchant ", "hex "], "A": []}
+{"index": 143494, "D": "Compare Vodou, Voodoo (def. 1). ", "S": ["bedevil", "bewitch", "charm", "condemn", "curse", "damn", "enchant", "hex"], "A": []}

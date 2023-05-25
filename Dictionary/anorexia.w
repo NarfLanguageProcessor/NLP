@@ -1,1 +1,1 @@
-{"index": 13856, "D": "loss of appetite and inability to eat.", "S": ["food aversion ", "loss of appetite "], "A": []}
+{"index": 13856, "D": "loss of appetite and inability to eat.", "S": ["food aversion", "loss of appetite"], "A": []}

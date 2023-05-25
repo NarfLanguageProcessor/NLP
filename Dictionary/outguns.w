@@ -1,1 +1,1 @@
-{"index": 216771, "D": "to exceed in firepower.", "S": ["eclipse ", "excel ", "outclass ", "outdistance ", "outfox ", "outmaneuver ", "outshine ", "outsmart ", "outstrip ", "surpass ", "transcend "], "A": ["fail ", "fall behind ", "lose ", "aid ", "give up ", "help ", "surrender "]}
+{"index": 216771, "D": "to exceed in firepower.", "S": ["eclipse", "excel", "outclass", "outdistance", "outfox", "outmaneuver", "outshine", "outsmart", "outstrip", "surpass", "transcend"], "A": ["fail", "fall behind", "lose", "aid", "give up", "help", "surrender"]}

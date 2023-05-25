@@ -1,1 +1,1 @@
-{"index": 151360, "D": "the act or practice of indulging;  gratification of desire.", "S": ["extravagance ", "kindness ", "leniency ", "permissiveness ", "privilege "], "A": ["disapproval ", "disfavor ", "disregard ", "dissatisfaction ", "frustration ", "intolerance ", "need ", "want "]}
+{"index": 151360, "D": "the act or practice of indulging;  gratification of desire.", "S": ["extravagance", "kindness", "leniency", "permissiveness", "privilege"], "A": ["disapproval", "disfavor", "disregard", "dissatisfaction", "frustration", "intolerance", "need", "want"]}

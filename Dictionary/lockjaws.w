@@ -1,1 +1,1 @@
-{"index": 174373, "D": "tetanus in which the jaws  become firmly locked  together; trismus.", "S": ["tetanus ", "trismus "], "A": []}
+{"index": 174373, "D": "tetanus in which the jaws  become firmly locked  together; trismus.", "S": ["tetanus", "trismus"], "A": []}

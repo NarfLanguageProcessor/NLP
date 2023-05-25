@@ -1,1 +1,1 @@
-{"index": 155137, "D": "to cross one another, typically passing alternately over and under, as if woven together; intertwine", "S": ["interweave "], "A": ["divide ", "separate ", "untwist "]}
+{"index": 155137, "D": "to cross one another, typically passing alternately over and under, as if woven together; intertwine", "S": ["interweave"], "A": ["divide", "separate", "untwist"]}

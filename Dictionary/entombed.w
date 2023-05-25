@@ -1,1 +1,1 @@
-{"index": 101508, "D": "to place in a tomb; bury; inter.", "S": ["covered ", "hidden "], "A": ["bare ", "exposed ", "open "]}
+{"index": 101508, "D": "to place in a tomb; bury; inter.", "S": ["covered", "hidden"], "A": ["bare", "exposed", "open"]}

@@ -1,1 +1,1 @@
-{"index": 254270, "D": "having, inclined to have, or characterized by lascivious or lustful thoughts, desires, etc.", "S": ["erotic ", "salacious ", "sexual "], "A": []}
+{"index": 254270, "D": "having, inclined to have, or characterized by lascivious or lustful thoughts, desires, etc.", "S": ["erotic", "salacious", "sexual"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 151008, "D": "with a sense of injury or strong displeasure at something considered unjust, insulting, or offensive", "S": ["bitterly ", "fiercely ", "furiously ", "heatedly ", "hotly ", "madly ", "savagely ", "sharply ", "violently "], "A": ["gently ", "mildly ", "quietly "]}
+{"index": 151008, "D": "with a sense of injury or strong displeasure at something considered unjust, insulting, or offensive", "S": ["bitterly", "fiercely", "furiously", "heatedly", "hotly", "madly", "savagely", "sharply", "violently"], "A": ["gently", "mildly", "quietly"]}

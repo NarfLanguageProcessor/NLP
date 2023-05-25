@@ -1,1 +1,1 @@
-{"index": 37684, "D": "the member of a bombing plane crew who operates the bombsight and bomb-release mechanism.", "S": ["aerial attach plane ", "bombing plane "], "A": []}
+{"index": 37684, "D": "the member of a bombing plane crew who operates the bombsight and bomb-release mechanism.", "S": ["aerial attach plane", "bombing plane"], "A": []}

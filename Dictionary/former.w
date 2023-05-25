@@ -1,1 +1,1 @@
-{"index": 117417, "D": "preceding in time; prior or earlier", "S": ["departed ", "erstwhile ", "old "], "A": ["after ", "modern ", "new "]}
+{"index": 117417, "D": "preceding in time; prior or earlier", "S": ["departed", "erstwhile", "old"], "A": ["after", "modern", "new"]}

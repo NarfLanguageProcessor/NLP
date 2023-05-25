@@ -1,1 +1,1 @@
-{"index": 276910, "D": "lustful or lecherous.", "S": ["indecent ", "lewd ", "obscene ", "prurient "], "A": ["clean ", "decent ", "moral ", "pure "]}
+{"index": 276910, "D": "lustful or lecherous.", "S": ["indecent", "lewd", "obscene", "prurient"], "A": ["clean", "decent", "moral", "pure"]}

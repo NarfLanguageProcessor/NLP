@@ -1,1 +1,1 @@
-{"index": 258503, "D": "a book, story, movie, etc., usually trivial in quality, requiring only a short time to produce.", "S": ["brief attempt ", "hurried encounter ", "quick one ", "short operation "], "A": []}
+{"index": 258503, "D": "a book, story, movie, etc., usually trivial in quality, requiring only a short time to produce.", "S": ["brief attempt", "hurried encounter", "quick one", "short operation"], "A": []}

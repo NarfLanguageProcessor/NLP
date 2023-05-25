@@ -1,1 +1,1 @@
-{"index": 312614, "D": "extremely or excessively sensitive; hypersensitive", "S": ["mental ", "metaphysical ", "psychological ", "spiritual ", "supernatural "], "A": ["body ", "physical ", "real "]}
+{"index": 312614, "D": "extremely or excessively sensitive; hypersensitive", "S": ["mental", "metaphysical", "psychological", "spiritual", "supernatural"], "A": ["body", "physical", "real"]}

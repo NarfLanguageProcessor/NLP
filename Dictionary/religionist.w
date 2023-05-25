@@ -1,1 +1,1 @@
-{"index": 266943, "D": "excessive or exaggerated religious zeal.", "S": ["adherent ", "devotee ", "disciple ", "follower ", "supporter ", "zealot "], "A": ["adversary "]}
+{"index": 266943, "D": "excessive or exaggerated religious zeal.", "S": ["adherent", "devotee", "disciple", "follower", "supporter", "zealot"], "A": ["adversary"]}

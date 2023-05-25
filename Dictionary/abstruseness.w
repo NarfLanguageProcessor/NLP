@@ -1,1 +1,1 @@
-{"index": 1114, "D": "hard to understand; recondite; esoteric", "S": ["conundrum ", "enigma ", "problem ", "question ", "riddle ", "secrecy ", "subtlety ", "thriller "], "A": ["known ", "understanding "]}
+{"index": 1114, "D": "hard to understand; recondite; esoteric", "S": ["conundrum", "enigma", "problem", "question", "riddle", "secrecy", "subtlety", "thriller"], "A": ["known", "understanding"]}

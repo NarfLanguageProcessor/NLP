@@ -1,1 +1,1 @@
-{"index": 169627, "D": "a person or thing that leans. ", "S": ["angular ", "gangly ", "gaunt ", "lanky ", "rangy ", "sinewy ", "skinny ", "slender ", "slim ", "sparse ", "svelte ", "wiry "], "A": ["chubby ", "fat ", "heavy ", "plump ", "thick ", "fertile ", "fresh ", "strong "]}
+{"index": 169627, "D": "a person or thing that leans. ", "S": ["angular", "gangly", "gaunt", "lanky", "rangy", "sinewy", "skinny", "slender", "slim", "sparse", "svelte", "wiry"], "A": ["chubby", "fat", "heavy", "plump", "thick", "fertile", "fresh", "strong"]}

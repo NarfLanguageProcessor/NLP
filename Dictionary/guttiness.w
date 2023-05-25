@@ -1,1 +1,1 @@
-{"index": 131642, "D": [], "S": ["chutzpah ", "courage ", "determination ", "firmness ", "grit ", "guts ", "perseverance ", "persistence ", "spunk ", "steadfastness "], "A": ["cowardice ", "fear ", "idleness ", "indolence ", "timidity ", "weakness ", "indecision ", "question "]}
+{"index": 131642, "D": [], "S": ["chutzpah", "courage", "determination", "firmness", "grit", "guts", "perseverance", "persistence", "spunk", "steadfastness"], "A": ["cowardice", "fear", "idleness", "indolence", "timidity", "weakness", "indecision", "question"]}

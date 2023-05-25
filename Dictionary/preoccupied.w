@@ -1,1 +1,1 @@
-{"index": 248630, "D": "completely engrossed in thought; absorbed.", "S": ["absorbed ", "bemused ", "distracted ", "engaged ", "engrossed ", "fascinated ", "forgetful ", "obsessed "], "A": ["bored ", "disenthralled ", "disinterested ", "indifferent ", "uninterested ", "existing "]}
+{"index": 248630, "D": "completely engrossed in thought; absorbed.", "S": ["absorbed", "bemused", "distracted", "engaged", "engrossed", "fascinated", "forgetful", "obsessed"], "A": ["bored", "disenthralled", "disinterested", "indifferent", "uninterested", "existing"]}

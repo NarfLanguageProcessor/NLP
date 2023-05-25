@@ -1,1 +1,1 @@
-{"index": 66765, "D": "the act of conserving;  prevention of injury, decay, waste, or loss; preservation", "S": ["care ", "conservancy ", "control ", "maintenance ", "management ", "protection ", "supervision "], "A": ["ignorance ", "neglect ", "negligence "]}
+{"index": 66765, "D": "the act of conserving;  prevention of injury, decay, waste, or loss; preservation", "S": ["care", "conservancy", "control", "maintenance", "management", "protection", "supervision"], "A": ["ignorance", "neglect", "negligence"]}

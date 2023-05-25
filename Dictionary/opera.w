@@ -1,1 +1,1 @@
-{"index": 213255, "D": "Compare comic opera, grand opera. ", "S": ["melody ", "piece ", "rap ", "rock ", "singing ", "soul ", "tune "], "A": ["silence "]}
+{"index": 213255, "D": "Compare comic opera, grand opera. ", "S": ["melody", "piece", "rap", "rock", "singing", "soul", "tune"], "A": ["silence"]}

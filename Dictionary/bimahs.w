@@ -1,0 +1,1 @@
+{"index": 34086, "D": "a platform in a synagogue holding the reading table used when chanting or reading portions of the Torah and the Prophets.", "S": [], "A": []}

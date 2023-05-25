@@ -1,1 +1,1 @@
-{"index": 144089, "D": "a whip for controlling horses.", "S": ["cane "], "A": []}
+{"index": 144089, "D": "a whip for controlling horses.", "S": ["cane"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 238841, "D": "an archaic variant of plaster. ", "S": [], "A": []}

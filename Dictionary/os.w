@@ -1,1 +1,1 @@
-{"index": 215227, "D": "a bone.", "S": ["dos ", "operating system ", "system software "], "A": []}
+{"index": 215227, "D": "a bone.", "S": ["dos", "operating system", "system software"], "A": []}

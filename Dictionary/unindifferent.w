@@ -1,1 +1,1 @@
-{"index": 344457, "D": [], "S": ["biased ", "bitter ", "colored ", "disapproving ", "distorted ", "grudging ", "preconceived ", "prepossessed ", "warped ", "yellow "], "A": ["clean ", "fresh ", "unbiased ", "unprejudiced "]}
+{"index": 344457, "D": [], "S": ["biased", "bitter", "colored", "disapproving", "distorted", "grudging", "preconceived", "prepossessed", "warped", "yellow"], "A": ["clean", "fresh", "unbiased", "unprejudiced"]}

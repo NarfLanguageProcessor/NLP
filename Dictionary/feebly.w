@@ -1,1 +1,1 @@
-{"index": 110852, "D": "physically weak, as from age or sickness; frail.", "S": ["awkwardly ", "clumsily ", "poorly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}
+{"index": 110852, "D": "physically weak, as from age or sickness; frail.", "S": ["awkwardly", "clumsily", "poorly"], "A": ["adequately", "calmly", "little", "mildly", "morally"]}

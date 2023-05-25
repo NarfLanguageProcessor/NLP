@@ -1,1 +1,1 @@
-{"index": 250413, "D": "a person who pries;  a curious or inquisitive person.", "S": ["busybody ", "butt-in ", "detective ", "eavesdropper ", "ferret ", "gumshoe ", "meddler ", "peeping Tom ", "quidnunc ", "rubbernecker ", "sleuth ", "snooper "], "A": []}
+{"index": 250413, "D": "a person who pries;  a curious or inquisitive person.", "S": ["busybody", "butt-in", "detective", "eavesdropper", "ferret", "gumshoe", "meddler", "peeping Tom", "quidnunc", "rubbernecker", "sleuth", "snooper"], "A": []}

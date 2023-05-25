@@ -1,1 +1,1 @@
-{"index": 232618, "D": "the state or quality of being petulant. ", "S": ["bitterness ", "cynicism ", "irritability "], "A": []}
+{"index": 232618, "D": "the state or quality of being petulant. ", "S": ["bitterness", "cynicism", "irritability"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 260083, "D": "a ticket for future use given to spectators at an outdoor event, as a baseball game or concert, that has been postponed or interrupted by rain.", "S": ["assurance ", "postponement ", "promise ", "reserved ticket "], "A": []}
+{"index": 260083, "D": "a ticket for future use given to spectators at an outdoor event, as a baseball game or concert, that has been postponed or interrupted by rain.", "S": ["assurance", "postponement", "promise", "reserved ticket"], "A": []}

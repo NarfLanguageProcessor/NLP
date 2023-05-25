@@ -1,1 +1,1 @@
-{"index": 316242, "D": "equivalent, as in value, force, effect, or signification", "S": ["commensurate ", "identical "], "A": ["different ", "opposite ", "polar ", "reverse "]}
+{"index": 316242, "D": "equivalent, as in value, force, effect, or signification", "S": ["commensurate", "identical"], "A": ["different", "opposite", "polar", "reverse"]}

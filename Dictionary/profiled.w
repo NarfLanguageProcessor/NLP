@@ -1,1 +1,1 @@
-{"index": 251755, "D": "the outline or contour of the human face, especially the face viewed from one side.", "S": ["diagramed ", "epitomized ", "generalized ", "graphed ", "mapped ", "summarized "], "A": []}
+{"index": 251755, "D": "the outline or contour of the human face, especially the face viewed from one side.", "S": ["diagramed", "epitomized", "generalized", "graphed", "mapped", "summarized"], "A": []}

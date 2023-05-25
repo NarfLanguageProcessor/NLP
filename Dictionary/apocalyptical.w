@@ -1,1 +1,1 @@
-{"index": 17102, "D": "of or like an apocalypse;  affording a revelation or prophecy.", "S": ["apocalyptic ", "fateful ", "oracular ", "portentous ", "predictive ", "prescient ", "prognosticative ", "prophetic ", "revelational ", "revelatory "], "A": []}
+{"index": 17102, "D": "of or like an apocalypse;  affording a revelation or prophecy.", "S": ["apocalyptic", "fateful", "oracular", "portentous", "predictive", "prescient", "prognosticative", "prophetic", "revelational", "revelatory"], "A": []}

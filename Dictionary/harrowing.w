@@ -1,1 +1,1 @@
-{"index": 133976, "D": "extremely disturbing or distressing; grievous", "S": ["agonizing ", "chilling ", "distressing ", "disturbing ", "excruciating ", "heart-wrenching ", "heartbreaking ", "painful ", "terrifying ", "torturous ", "traumatic "], "A": ["pleasant "]}
+{"index": 133976, "D": "extremely disturbing or distressing; grievous", "S": ["agonizing", "chilling", "distressing", "disturbing", "excruciating", "heart-wrenching", "heartbreaking", "painful", "terrifying", "torturous", "traumatic"], "A": ["pleasant"]}

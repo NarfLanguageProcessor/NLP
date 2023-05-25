@@ -1,1 +1,1 @@
-{"index": 37152, "D": "thorough; blatant; unmistakable", "S": ["bold ", "cocky ", "confident ", "courageous ", "daring ", "gutsy ", "heroic ", "intrepid ", "smart ", "spunky "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "shy ", "timid ", "uncertain ", "unsure ", "weak "]}
+{"index": 37152, "D": "thorough; blatant; unmistakable", "S": ["bold", "cocky", "confident", "courageous", "daring", "gutsy", "heroic", "intrepid", "smart", "spunky"], "A": ["afraid", "cowardly", "fearful", "meek", "shy", "timid", "uncertain", "unsure", "weak"]}

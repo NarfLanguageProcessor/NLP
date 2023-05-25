@@ -1,1 +1,1 @@
-{"index": 21352, "D": "any of several venomous snakes, especially the Egyptian cobra or the horned viper.", "S": ["cobra "], "A": []}
+{"index": 21352, "D": "any of several venomous snakes, especially the Egyptian cobra or the horned viper.", "S": ["cobra"], "A": []}

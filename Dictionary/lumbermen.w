@@ -1,1 +1,1 @@
-{"index": 176052, "D": "a person who deals in lumber. ", "S": ["cutter ", "logger "], "A": []}
+{"index": 176052, "D": "a person who deals in lumber. ", "S": ["cutter", "logger"], "A": []}

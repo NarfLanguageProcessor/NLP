@@ -1,1 +1,1 @@
-{"index": 394, "D": "causing repugnance; detestable; loathsome", "S": ["despicable ", "loathsome ", "repulsive "], "A": []}
+{"index": 394, "D": "causing repugnance; detestable; loathsome", "S": ["despicable", "loathsome", "repulsive"], "A": []}

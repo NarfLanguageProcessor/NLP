@@ -1,1 +1,1 @@
-{"index": 95391, "D": "to practice economy;  avoid waste or extravagance.", "S": ["conserve ", "cut down ", "scrimp "], "A": ["spend "]}
+{"index": 95391, "D": "to practice economy;  avoid waste or extravagance.", "S": ["conserve", "cut down", "scrimp"], "A": ["spend"]}

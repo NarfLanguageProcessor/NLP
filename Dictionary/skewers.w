@@ -1,1 +1,1 @@
-{"index": 293041, "D": "a long pin of wood or metal for inserting through meat or other food to hold or bind it in cooking.", "S": ["brochette ", "lance ", "pick ", "pin ", "spit ", "truss "], "A": []}
+{"index": 293041, "D": "a long pin of wood or metal for inserting through meat or other food to hold or bind it in cooking.", "S": ["brochette", "lance", "pick", "pin", "spit", "truss"], "A": []}

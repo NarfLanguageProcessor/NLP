@@ -1,1 +1,1 @@
-{"index": 218558, "D": "to charge  (a purchaser) too high a price", "S": ["cheat ", "fleece ", "overtax "], "A": []}
+{"index": 218558, "D": "to charge  (a purchaser) too high a price", "S": ["cheat", "fleece", "overtax"], "A": []}

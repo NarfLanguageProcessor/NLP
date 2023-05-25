@@ -1,1 +1,1 @@
-{"index": 293788, "D": "the condition of being enslaved, held, or owned as human chattel or property; bondage.", "S": ["bondage ", "captivity ", "enslavement ", "serfdom ", "servitude ", "subjugation "], "A": ["freedom ", "independence "]}
+{"index": 293788, "D": "the condition of being enslaved, held, or owned as human chattel or property; bondage.", "S": ["bondage", "captivity", "enslavement", "serfdom", "servitude", "subjugation"], "A": ["freedom", "independence"]}

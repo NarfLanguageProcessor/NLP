@@ -1,1 +1,1 @@
-{"index": 118215, "D": "consisting of or reduced to fragments;  broken; disconnected; incomplete", "S": ["scattered ", "sketchy "], "A": ["all ", "complete ", "total ", "unbroken ", "whole "]}
+{"index": 118215, "D": "consisting of or reduced to fragments;  broken; disconnected; incomplete", "S": ["scattered", "sketchy"], "A": ["all", "complete", "total", "unbroken", "whole"]}

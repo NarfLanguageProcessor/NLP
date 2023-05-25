@@ -1,1 +1,1 @@
-{"index": 301876, "D": "an implement edged with rubber or the like, for removing water from windows after washing, sweeping water from wet decks, etc.", "S": ["sponge ", "towel "], "A": []}
+{"index": 301876, "D": "an implement edged with rubber or the like, for removing water from windows after washing, sweeping water from wet decks, etc.", "S": ["sponge", "towel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 17625, "D": "to bring to a state of peace, quiet, ease, calm, or contentment; pacify; soothe", "S": ["conciliation ", "easing ", "moderation "], "A": ["difference ", "disagreement "]}
+{"index": 17625, "D": "to bring to a state of peace, quiet, ease, calm, or contentment; pacify; soothe", "S": ["conciliation", "easing", "moderation"], "A": ["difference", "disagreement"]}

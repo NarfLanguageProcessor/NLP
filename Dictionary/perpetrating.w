@@ -1,1 +1,1 @@
-{"index": 231787, "D": "to commit", "S": ["carry out ", "commit ", "execute ", "inflict ", "wreak "], "A": ["leave ", "stop ", "fail ", "halt ", "idle ", "neglect ", "prevent "]}
+{"index": 231787, "D": "to commit", "S": ["carry out", "commit", "execute", "inflict", "wreak"], "A": ["leave", "stop", "fail", "halt", "idle", "neglect", "prevent"]}

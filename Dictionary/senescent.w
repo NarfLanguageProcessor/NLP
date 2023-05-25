@@ -1,1 +1,1 @@
-{"index": 285259, "D": "growing old; aging.", "S": ["elderly "], "A": ["fresh ", "modern ", "new ", "recent ", "up-to-date ", "young "]}
+{"index": 285259, "D": "growing old; aging.", "S": ["elderly"], "A": ["fresh", "modern", "new", "recent", "up-to-date", "young"]}

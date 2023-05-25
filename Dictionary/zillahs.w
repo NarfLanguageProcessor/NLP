@@ -1,1 +1,0 @@
-{"index": 369327, "D": "(in British India) any of the districts into which a province was divided for administrative purposes.", "S": [], "A": []}

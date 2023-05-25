@@ -1,0 +1,1 @@
+{"index": 32055, "D": "U.S. social reformer", "S": [], "A": []}

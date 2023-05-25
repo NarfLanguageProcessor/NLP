@@ -1,1 +1,1 @@
-{"index": 196876, "D": "a small piece of cloth or paper, usually square, for use in wiping the lips and fingers and to protect the clothes while eating.", "S": ["cloth ", "towel "], "A": []}
+{"index": 196876, "D": "a small piece of cloth or paper, usually square, for use in wiping the lips and fingers and to protect the clothes while eating.", "S": ["cloth", "towel"], "A": []}

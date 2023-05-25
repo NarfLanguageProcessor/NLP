@@ -1,1 +1,1 @@
-{"index": 29989, "D": "to impress forcefully, especially so as to make oblivious to faults or shortcomings", "S": ["astound ", "bewilder ", "blind ", "confuse ", "daze ", "dazzle ", "dumbfound ", "enchant ", "overwhelm ", "stagger ", "stun "], "A": ["bore ", "clear up ", "explain "]}
+{"index": 29989, "D": "to impress forcefully, especially so as to make oblivious to faults or shortcomings", "S": ["astound", "bewilder", "blind", "confuse", "daze", "dazzle", "dumbfound", "enchant", "overwhelm", "stagger", "stun"], "A": ["bore", "clear up", "explain"]}

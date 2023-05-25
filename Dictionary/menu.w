@@ -1,1 +1,1 @@
-{"index": 183561, "D": "a list of the dishes served at a meal; bill of fare", "S": ["card ", "cuisine ", "food ", "table "], "A": []}
+{"index": 183561, "D": "a list of the dishes served at a meal; bill of fare", "S": ["card", "cuisine", "food", "table"], "A": []}

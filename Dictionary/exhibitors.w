@@ -1,1 +1,1 @@
-{"index": 107159, "D": "to offer or expose to view; present for inspection", "S": ["counselor ", "mentor ", "model ", "pilot ", "teacher "], "A": ["follower "]}
+{"index": 107159, "D": "to offer or expose to view; present for inspection", "S": ["counselor", "mentor", "model", "pilot", "teacher"], "A": ["follower"]}

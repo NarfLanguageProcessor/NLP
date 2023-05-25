@@ -1,1 +1,1 @@
-{"index": 29092, "D": "the right or turn to use a club or racket.", "S": ["sock "], "A": ["compliment ", "flattery ", "praise "]}
+{"index": 29092, "D": "the right or turn to use a club or racket.", "S": ["sock"], "A": ["compliment", "flattery", "praise"]}

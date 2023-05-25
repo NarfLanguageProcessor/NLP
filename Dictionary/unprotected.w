@@ -1,1 +1,1 @@
-{"index": 348701, "D": "an unprotected position", "S": ["endangered ", "exposed ", "helpless ", "powerless ", "unarmed ", "unguarded ", "unsafe ", "vulnerable "], "A": ["able ", "guarded ", "protected ", "safe ", "secure ", "strong "]}
+{"index": 348701, "D": "an unprotected position", "S": ["endangered", "exposed", "helpless", "powerless", "unarmed", "unguarded", "unsafe", "vulnerable"], "A": ["able", "guarded", "protected", "safe", "secure", "strong"]}

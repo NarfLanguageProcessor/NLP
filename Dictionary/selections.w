@@ -1,1 +1,1 @@
-{"index": 283445, "D": "an act or instance of selecting or the state of being selected; choice.", "S": ["gig ", "musical ", "recital ", "show "], "A": ["disagreement ", "disharmony ", "disunity "]}
+{"index": 283445, "D": "an act or instance of selecting or the state of being selected; choice.", "S": ["gig", "musical", "recital", "show"], "A": ["disagreement", "disharmony", "disunity"]}

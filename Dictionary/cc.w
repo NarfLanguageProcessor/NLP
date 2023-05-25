@@ -1,1 +1,1 @@
-{"index": 50285, "D": "carbon copy (def. 1). ", "S": ["accusation ", "charge ", "criticism ", "grievance ", "gripe ", "objection ", "protest ", "trouble "], "A": ["acceptance ", "approval ", "compliment ", "exculpation ", "flattery ", "praise ", "happiness ", "pleasure ", "silence "]}
+{"index": 50285, "D": "carbon copy (def. 1). ", "S": ["accusation", "charge", "criticism", "grievance", "gripe", "objection", "protest", "trouble"], "A": ["acceptance", "approval", "compliment", "exculpation", "flattery", "praise", "happiness", "pleasure", "silence"]}

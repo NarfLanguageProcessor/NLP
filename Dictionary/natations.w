@@ -1,1 +1,1 @@
-{"index": 197225, "D": "an act or the skill of swimming.", "S": ["bathing ", "floating "], "A": []}
+{"index": 197225, "D": "an act or the skill of swimming.", "S": ["bathing", "floating"], "A": []}

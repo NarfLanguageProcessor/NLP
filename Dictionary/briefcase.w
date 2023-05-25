@@ -1,1 +1,1 @@
-{"index": 40715, "D": "a flat, rectangular case with a handle, often of leather, for carrying books, papers, etc.", "S": ["bag ", "baggage ", "folder "], "A": []}
+{"index": 40715, "D": "a flat, rectangular case with a handle, often of leather, for carrying books, papers, etc.", "S": ["bag", "baggage", "folder"], "A": []}

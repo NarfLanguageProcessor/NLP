@@ -1,1 +1,0 @@
-{"index": 317343, "D": "a sum of money demanded by a government for its support or for specific facilities or services, levied upon incomes, property, sales, etc.", "S": [], "A": []}

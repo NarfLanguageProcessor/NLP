@@ -1,1 +1,1 @@
-{"index": 132861, "D": "a rope or strap with a noose or headstall for leading or restraining horses or cattle.", "S": ["check ", "control ", "curb ", "deterrent ", "hackamore ", "headstall ", "leash ", "rein ", "restraint ", "trammels "], "A": ["encouragement ", "liberation "]}
+{"index": 132861, "D": "a rope or strap with a noose or headstall for leading or restraining horses or cattle.", "S": ["check", "control", "curb", "deterrent", "hackamore", "headstall", "leash", "rein", "restraint", "trammels"], "A": ["encouragement", "liberation"]}

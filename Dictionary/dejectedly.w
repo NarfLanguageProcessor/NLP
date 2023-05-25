@@ -1,1 +1,1 @@
-{"index": 79869, "D": "depressed in spirits; disheartened; low-spirited", "S": ["densely ", "massively ", "thickly "], "A": ["easily ", "gently ", "lightly "]}
+{"index": 79869, "D": "depressed in spirits; disheartened; low-spirited", "S": ["densely", "massively", "thickly"], "A": ["easily", "gently", "lightly"]}

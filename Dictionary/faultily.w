@@ -1,1 +1,1 @@
-{"index": 110411, "D": "having faults  or defects; imperfect.", "S": ["afield ", "afoul ", "badly ", "erringly ", "erroneously ", "improperly ", "inappropriately ", "incorrectly ", "mistakenly ", "out of turn ", "unfavorably ", "unsuitably "], "A": ["good ", "right ", "well "]}
+{"index": 110411, "D": "having faults  or defects; imperfect.", "S": ["afield", "afoul", "badly", "erringly", "erroneously", "improperly", "inappropriately", "incorrectly", "mistakenly", "out of turn", "unfavorably", "unsuitably"], "A": ["good", "right", "well"]}

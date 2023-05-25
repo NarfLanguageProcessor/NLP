@@ -1,1 +1,1 @@
-{"index": 52507, "D": "the bed of a stream, river, or other waterway.", "S": ["avenue ", "carrier ", "means ", "medium ", "route ", "tunnel "], "A": ["closure ", "denial ", "refusal ", "veto "]}
+{"index": 52507, "D": "the bed of a stream, river, or other waterway.", "S": ["avenue", "carrier", "means", "medium", "route", "tunnel"], "A": ["closure", "denial", "refusal", "veto"]}

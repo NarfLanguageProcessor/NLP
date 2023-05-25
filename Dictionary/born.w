@@ -1,1 +1,1 @@
-{"index": 38457, "D": "brought forth by birth.", "S": ["constitutional ", "essential ", "natural "], "A": []}
+{"index": 38457, "D": "brought forth by birth.", "S": ["constitutional", "essential", "natural"], "A": []}

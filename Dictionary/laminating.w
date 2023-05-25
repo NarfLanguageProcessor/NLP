@@ -1,1 +1,1 @@
-{"index": 167722, "D": "to separate or split into thin layers.", "S": ["coat ", "exfoliate ", "face ", "flake ", "foil ", "foliate ", "layer ", "overlayer ", "plate ", "separate ", "split ", "stratify ", "veneer "], "A": ["combine ", "join ", "uncover "]}
+{"index": 167722, "D": "to separate or split into thin layers.", "S": ["coat", "exfoliate", "face", "flake", "foil", "foliate", "layer", "overlayer", "plate", "separate", "split", "stratify", "veneer"], "A": ["combine", "join", "uncover"]}

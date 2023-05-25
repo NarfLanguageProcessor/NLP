@@ -1,1 +1,1 @@
-{"index": 224556, "D": "a distinct portion, section, or division of a wall, wainscot, ceiling, door, shutter, fence, etc., especially of any surface sunk below or raised above the general level or enclosed by a frame or border.", "S": ["cover ", "fill ", "stuff "], "A": ["strip "]}
+{"index": 224556, "D": "a distinct portion, section, or division of a wall, wainscot, ceiling, door, shutter, fence, etc., especially of any surface sunk below or raised above the general level or enclosed by a frame or border.", "S": ["cover", "fill", "stuff"], "A": ["strip"]}

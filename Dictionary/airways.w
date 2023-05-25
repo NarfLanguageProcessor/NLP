@@ -1,1 +1,1 @@
-{"index": 7019, "D": "an air route equipped with emergency landing fields, beacon lights, radio beams, etc.", "S": ["air passage ", "air shaft "], "A": []}
+{"index": 7019, "D": "an air route equipped with emergency landing fields, beacon lights, radio beams, etc.", "S": ["air passage", "air shaft"], "A": []}

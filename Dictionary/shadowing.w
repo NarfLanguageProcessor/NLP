@@ -1,1 +1,1 @@
-{"index": 287099, "D": "a method of enhancing the visibility of the surface features of a specimen for electron microscopic viewing by spraying it from one side with a coating of metal atoms.", "S": ["intelligence "], "A": []}
+{"index": 287099, "D": "a method of enhancing the visibility of the surface features of a specimen for electron microscopic viewing by spraying it from one side with a coating of metal atoms.", "S": ["intelligence"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 262530, "D": "resisting authority or control; not obedient or compliant; refractory. ", "S": ["fractious ", "obstinate ", "rebellious ", "unruly ", "wayward "], "A": ["agreeable ", "compliant ", "manageable ", "obedient ", "yielding "]}
+{"index": 262530, "D": "resisting authority or control; not obedient or compliant; refractory. ", "S": ["fractious", "obstinate", "rebellious", "unruly", "wayward"], "A": ["agreeable", "compliant", "manageable", "obedient", "yielding"]}

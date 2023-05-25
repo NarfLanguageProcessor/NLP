@@ -1,1 +1,1 @@
-{"index": 137111, "D": "capable of being inherited; inheritable; hereditary. ", "S": ["genetic ", "inborn ", "transmitted "], "A": ["acquired "]}
+{"index": 137111, "D": "capable of being inherited; inheritable; hereditary. ", "S": ["genetic", "inborn", "transmitted"], "A": ["acquired"]}

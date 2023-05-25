@@ -1,1 +1,0 @@
-{"index": 256836, "D": "Compare hand puppet, marionette. ", "S": [], "A": []}

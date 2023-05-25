@@ -1,1 +1,1 @@
-{"index": 258166, "D": "a stanza or poem of four lines, usually with alternate rhymes.", "S": ["ballad ", "composition ", "epic ", "lyric ", "poetry ", "rhyme ", "sonnet ", "verse ", "writing "], "A": ["prose "]}
+{"index": 258166, "D": "a stanza or poem of four lines, usually with alternate rhymes.", "S": ["ballad", "composition", "epic", "lyric", "poetry", "rhyme", "sonnet", "verse", "writing"], "A": ["prose"]}

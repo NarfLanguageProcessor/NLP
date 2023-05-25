@@ -1,1 +1,1 @@
-{"index": 318226, "D": "of, relating to, or of the nature of a telescope. ", "S": ["far ", "far-flung ", "far-off ", "inaccessible ", "isolated ", "obscure ", "remote ", "removed ", "secluded "], "A": ["approachable ", "mingling ", "public "]}
+{"index": 318226, "D": "of, relating to, or of the nature of a telescope. ", "S": ["far", "far-flung", "far-off", "inaccessible", "isolated", "obscure", "remote", "removed", "secluded"], "A": ["approachable", "mingling", "public"]}

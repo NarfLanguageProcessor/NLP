@@ -1,1 +1,1 @@
-{"index": 115223, "D": "to perform poorly; blunder; bungle", "S": ["blunder ", "boner ", "botch ", "bungle ", "err ", "error ", "fluff ", "muff "], "A": ["accuracy ", "correction "]}
+{"index": 115223, "D": "to perform poorly; blunder; bungle", "S": ["blunder", "boner", "botch", "bungle", "err", "error", "fluff", "muff"], "A": ["accuracy", "correction"]}

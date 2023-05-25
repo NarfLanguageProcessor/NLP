@@ -1,1 +1,1 @@
-{"index": 165031, "D": "an abnormal, convex curvature of the spine, with a resultant bulge at the upper back.", "S": ["bent ", "leaning "], "A": []}
+{"index": 165031, "D": "an abnormal, convex curvature of the spine, with a resultant bulge at the upper back.", "S": ["bent", "leaning"], "A": []}

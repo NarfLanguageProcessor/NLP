@@ -1,1 +1,1 @@
-{"index": 353815, "D": "capable of being viewed;  visible.", "S": ["imperceptible ", "microscopic ", "unseen "], "A": ["detectable ", "obvious ", "seen ", "visible "]}
+{"index": 353815, "D": "capable of being viewed;  visible.", "S": ["imperceptible", "microscopic", "unseen"], "A": ["detectable", "obvious", "seen", "visible"]}

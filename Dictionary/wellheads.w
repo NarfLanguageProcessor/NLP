@@ -1,1 +1,1 @@
-{"index": 364036, "D": "a fountainhead; source.", "S": ["geyser ", "reservoir ", "stream "], "A": ["conclusion ", "consequence ", "effect ", "end ", "outcome ", "outgrowth ", "result "]}
+{"index": 364036, "D": "a fountainhead; source.", "S": ["geyser", "reservoir", "stream"], "A": ["conclusion", "consequence", "effect", "end", "outcome", "outgrowth", "result"]}

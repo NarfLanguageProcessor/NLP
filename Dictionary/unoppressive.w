@@ -1,1 +1,1 @@
-{"index": 347181, "D": "burdensome, unjustly harsh, or tyrannical", "S": ["flexible ", "soft "], "A": ["rigid ", "stern ", "unyielding "]}
+{"index": 347181, "D": "burdensome, unjustly harsh, or tyrannical", "S": ["flexible", "soft"], "A": ["rigid", "stern", "unyielding"]}

@@ -1,1 +1,1 @@
-{"index": 91464, "D": "a person who gives or donates.", "S": ["backer ", "benefactor ", "contributor ", "patron "], "A": ["antagonist ", "opponent ", "opposer "]}
+{"index": 91464, "D": "a person who gives or donates.", "S": ["backer", "benefactor", "contributor", "patron"], "A": ["antagonist", "opponent", "opposer"]}

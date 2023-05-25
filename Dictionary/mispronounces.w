@@ -1,1 +1,1 @@
-{"index": 189860, "D": "to pronounce  incorrectly.", "S": ["sputter ", "stutter "], "A": []}
+{"index": 189860, "D": "to pronounce  incorrectly.", "S": ["sputter", "stutter"], "A": []}

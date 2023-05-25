@@ -1,1 +1,1 @@
-{"index": 124246, "D": "to begin to grow or develop.", "S": ["sprout "], "A": ["cease ", "compress ", "die ", "end ", "shrink "]}
+{"index": 124246, "D": "to begin to grow or develop.", "S": ["sprout"], "A": ["cease", "compress", "die", "end", "shrink"]}

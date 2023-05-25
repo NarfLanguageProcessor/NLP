@@ -1,1 +1,1 @@
-{"index": 81190, "D": "to be a mark or sign of; indicate", "S": ["stand for "], "A": ["conceal ", "deny ", "disprove ", "hide ", "ignore ", "leave alone ", "refuse ", "refute ", "veto ", "withhold "]}
+{"index": 81190, "D": "to be a mark or sign of; indicate", "S": ["stand for"], "A": ["conceal", "deny", "disprove", "hide", "ignore", "leave alone", "refuse", "refute", "veto", "withhold"]}

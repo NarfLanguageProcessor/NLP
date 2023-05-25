@@ -1,1 +1,1 @@
-{"index": 139488, "D": "the top or summit of a hill.", "S": ["bluff ", "cliff ", "dune ", "hilltop ", "promontory ", "ridge "], "A": ["decline ", "depression "]}
+{"index": 139488, "D": "the top or summit of a hill.", "S": ["bluff", "cliff", "dune", "hilltop", "promontory", "ridge"], "A": ["decline", "depression"]}

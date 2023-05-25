@@ -1,0 +1,1 @@
+{"index": 22068, "D": "any composite plant of the genus Aster, having rays varying from white or pink to blue around a yellow disk.", "S": [], "A": []}

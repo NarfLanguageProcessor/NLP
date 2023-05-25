@@ -1,1 +1,1 @@
-{"index": 77554, "D": "transactions or business relations", "S": ["business ", "commerce ", "sale ", "trade "], "A": []}
+{"index": 77554, "D": "transactions or business relations", "S": ["business", "commerce", "sale", "trade"], "A": []}

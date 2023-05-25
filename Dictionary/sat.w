@@ -1,1 +1,1 @@
-{"index": 278641, "D": "a simple past tense and past participle of sit1. ", "S": ["cover ", "install ", "lie ", "park ", "perch ", "relax ", "remain ", "rest ", "seat ", "squat "], "A": ["depart ", "move ", "stand ", "straighten "]}
+{"index": 278641, "D": "a simple past tense and past participle of sit1. ", "S": ["cover", "install", "lie", "park", "perch", "relax", "remain", "rest", "seat", "squat"], "A": ["depart", "move", "stand", "straighten"]}

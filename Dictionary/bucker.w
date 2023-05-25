@@ -1,1 +1,1 @@
-{"index": 42040, "D": "a horse that bucks. ", "S": ["cruiser ", "feller ", "logger ", "lumberman ", "trimmer "], "A": []}
+{"index": 42040, "D": "a horse that bucks. ", "S": ["cruiser", "feller", "logger", "lumberman", "trimmer"], "A": []}

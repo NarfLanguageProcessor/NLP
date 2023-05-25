@@ -1,1 +1,1 @@
-{"index": 197945, "D": "embroidery upon canvas, usually with uniform spacing of stitches in a pattern.", "S": ["brocade ", "decoration ", "lace ", "quilting ", "tapestry "], "A": []}
+{"index": 197945, "D": "embroidery upon canvas, usually with uniform spacing of stitches in a pattern.", "S": ["brocade", "decoration", "lace", "quilting", "tapestry"], "A": []}

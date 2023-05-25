@@ -1,1 +1,1 @@
-{"index": 360371, "D": "of a glutinous nature or consistency; sticky; thick; adhesive.", "S": ["firmness ", "flexibility ", "texture "], "A": ["incongruity ", "inconsistency ", "inconstancy ", "irregularity ", "variation "]}
+{"index": 360371, "D": "of a glutinous nature or consistency; sticky; thick; adhesive.", "S": ["firmness", "flexibility", "texture"], "A": ["incongruity", "inconsistency", "inconstancy", "irregularity", "variation"]}

@@ -1,1 +1,1 @@
-{"index": 76951, "D": "to make dark or darker.", "S": ["blacken ", "dim ", "eclipse ", "obscure ", "overshadow "], "A": ["lighten ", "clear up "]}
+{"index": 76951, "D": "to make dark or darker.", "S": ["blacken", "dim", "eclipse", "obscure", "overshadow"], "A": ["lighten", "clear up"]}

@@ -1,1 +1,1 @@
-{"index": 106890, "D": "a person who goes on an excursion. ", "S": ["globetrotter ", "sightseer ", "tourer ", "traveler ", "vacationer ", "voyager ", "wayfarer "], "A": []}
+{"index": 106890, "D": "a person who goes on an excursion. ", "S": ["globetrotter", "sightseer", "tourer", "traveler", "vacationer", "voyager", "wayfarer"], "A": []}

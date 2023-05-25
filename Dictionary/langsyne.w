@@ -1,1 +1,1 @@
-{"index": 168110, "D": "long since; long ago.", "S": ["bygone ", "past "], "A": ["tomorrow "]}
+{"index": 168110, "D": "long since; long ago.", "S": ["bygone", "past"], "A": ["tomorrow"]}

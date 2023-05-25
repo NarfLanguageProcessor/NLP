@@ -1,0 +1,1 @@
+{"index": 5554, "D": "in a flutter. ", "S": ["afraid", "agitated", "anxious", "frightened", "hesitant", "jittery", "nervous", "panicky", "scared", "shy", "skittish", "tense", "timid", "uneasy"], "A": ["bold", "brave", "calm", "composed", "confident", "cool", "easygoing", "extroverted", "fearless", "happy", "laid-back", "unafraid", "unworried"]}

@@ -1,1 +1,1 @@
-{"index": 240397, "D": "containing lead, especially in the tetravalent state.", "S": ["galena ", "lead ", "pewter ", "plumbean ", "plumbiferous ", "plumbous "], "A": []}
+{"index": 240397, "D": "containing lead, especially in the tetravalent state.", "S": ["galena", "lead", "pewter", "plumbean", "plumbiferous", "plumbous"], "A": []}

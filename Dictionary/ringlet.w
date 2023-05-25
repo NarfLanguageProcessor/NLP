@@ -1,1 +1,1 @@
-{"index": 273056, "D": "a curled lock of hair.", "S": ["curl ", "hair ", "lock ", "tress "], "A": []}
+{"index": 273056, "D": "a curled lock of hair.", "S": ["curl", "hair", "lock", "tress"], "A": []}

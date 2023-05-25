@@ -1,1 +1,1 @@
-{"index": 128675, "D": [], "S": ["blackout ", "collapse ", "dizziness ", "insensibility ", "knockout ", "stupor ", "swoon ", "syncope ", "vertigo "], "A": ["consciousness "]}
+{"index": 128675, "D": [], "S": ["blackout", "collapse", "dizziness", "insensibility", "knockout", "stupor", "swoon", "syncope", "vertigo"], "A": ["consciousness"]}

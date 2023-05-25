@@ -1,1 +1,1 @@
-{"index": 66990, "D": "to agree together, especially secretly, to do something wrong, evil, or illegal", "S": ["Machiavellian ", "conniving ", "crooked ", "cunning ", "intriguing ", "scheming ", "sharp "], "A": ["aboveboard ", "honest ", "kind "]}
+{"index": 66990, "D": "to agree together, especially secretly, to do something wrong, evil, or illegal", "S": ["Machiavellian", "conniving", "crooked", "cunning", "intriguing", "scheming", "sharp"], "A": ["aboveboard", "honest", "kind"]}

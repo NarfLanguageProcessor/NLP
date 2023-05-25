@@ -1,1 +1,1 @@
-{"index": 3322, "D": "sharpened; pointed.", "S": ["acuminate ", "barbed ", "edged ", "fine ", "honed ", "horned ", "jagged ", "keen ", "peaked ", "piercing ", "pointed "], "A": ["blunt ", "dull "]}
+{"index": 3322, "D": "sharpened; pointed.", "S": ["acuminate", "barbed", "edged", "fine", "honed", "horned", "jagged", "keen", "peaked", "piercing", "pointed"], "A": ["blunt", "dull"]}

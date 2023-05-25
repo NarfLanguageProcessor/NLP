@@ -1,1 +1,1 @@
-{"index": 220633, "D": "charging or charged at too high a price", "S": ["valuable "], "A": ["moderate ", "soft "]}
+{"index": 220633, "D": "charging or charged at too high a price", "S": ["valuable"], "A": ["moderate", "soft"]}

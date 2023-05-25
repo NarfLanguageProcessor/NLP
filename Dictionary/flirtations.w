@@ -1,1 +1,1 @@
-{"index": 114708, "D": "the act or practice of flirting;  coquetry.", "S": ["dalliance ", "flirting ", "toying "], "A": ["faithfulness "]}
+{"index": 114708, "D": "the act or practice of flirting;  coquetry.", "S": ["dalliance", "flirting", "toying"], "A": ["faithfulness"]}

@@ -1,1 +1,1 @@
-{"index": 111312, "D": "existing in a natural state, as animals or plants; not domesticated or cultivated; wild.", "S": ["ferocious "], "A": []}
+{"index": 111312, "D": "existing in a natural state, as animals or plants; not domesticated or cultivated; wild.", "S": ["ferocious"], "A": []}

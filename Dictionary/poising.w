@@ -1,1 +1,1 @@
-{"index": 241374, "D": "a dignified, self-confident manner or bearing; composure; self-possession", "S": ["aplomb ", "calmness ", "confidence ", "elegance ", "equanimity ", "grace ", "self-assurance ", "serenity ", "tact "], "A": ["agitation ", "tactlessness ", "confusion ", "imbalance "]}
+{"index": 241374, "D": "a dignified, self-confident manner or bearing; composure; self-possession", "S": ["aplomb", "calmness", "confidence", "elegance", "equanimity", "grace", "self-assurance", "serenity", "tact"], "A": ["agitation", "tactlessness", "confusion", "imbalance"]}

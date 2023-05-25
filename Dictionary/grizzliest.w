@@ -1,1 +1,1 @@
-{"index": 130105, "D": "somewhat gray; grayish.", "S": ["gray "], "A": []}
+{"index": 130105, "D": "somewhat gray; grayish.", "S": ["gray"], "A": []}

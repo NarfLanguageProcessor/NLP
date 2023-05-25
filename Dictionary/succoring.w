@@ -1,1 +1,1 @@
-{"index": 309877, "D": "help; relief; aid; assistance.", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}
+{"index": 309877, "D": "help; relief; aid; assistance.", "S": ["encouraging", "reassuring", "refreshing", "soothing"], "A": ["aggravating", "depressing", "dispiriting", "distressing", "disturbing", "irritating", "upsetting", "worrying"]}

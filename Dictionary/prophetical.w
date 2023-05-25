@@ -1,1 +1,1 @@
-{"index": 252629, "D": "of or relating to a prophet", "S": ["divinatory ", "fatidic ", "fatidical ", "foreshadowing ", "mantic ", "ominous ", "oracular ", "predictive ", "presaging ", "sibylline ", "telling ", "vatic ", "vatical ", "visionary "], "A": []}
+{"index": 252629, "D": "of or relating to a prophet", "S": ["divinatory", "fatidic", "fatidical", "foreshadowing", "mantic", "ominous", "oracular", "predictive", "presaging", "sibylline", "telling", "vatic", "vatical", "visionary"], "A": []}

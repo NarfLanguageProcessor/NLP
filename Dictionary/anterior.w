@@ -1,1 +1,1 @@
-{"index": 14255, "D": "situated before or at the front of; fore (opposed to posterior).", "S": ["antecedent ", "former ", "past ", "precedent "], "A": ["after ", "current ", "following ", "future ", "present "]}
+{"index": 14255, "D": "situated before or at the front of; fore (opposed to posterior).", "S": ["antecedent", "former", "past", "precedent"], "A": ["after", "current", "following", "future", "present"]}

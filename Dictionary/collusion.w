@@ -1,1 +1,1 @@
-{"index": 63153, "D": "a secret agreement, especially for fraudulent or treacherous purposes; conspiracy", "S": ["complicity ", "conspiracy ", "deceit ", "scam "], "A": ["honesty "]}
+{"index": 63153, "D": "a secret agreement, especially for fraudulent or treacherous purposes; conspiracy", "S": ["complicity", "conspiracy", "deceit", "scam"], "A": ["honesty"]}

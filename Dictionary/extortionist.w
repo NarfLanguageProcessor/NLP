@@ -1,1 +1,1 @@
-{"index": 108412, "D": "a person who engages in extortion. ", "S": ["loan shark ", "mobster "], "A": []}
+{"index": 108412, "D": "a person who engages in extortion. ", "S": ["loan shark", "mobster"], "A": []}

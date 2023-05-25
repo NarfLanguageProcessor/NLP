@@ -1,1 +1,1 @@
-{"index": 345673, "D": "not listed;  not entered in a list  or directory", "S": ["confidential ", "not recorded ", "not reported ", "private ", "unpublicized ", "unrecorded ", "unregistered ", "unreported "], "A": ["listed ", "public ", "recorded ", "registered "]}
+{"index": 345673, "D": "not listed;  not entered in a list  or directory", "S": ["confidential", "not recorded", "not reported", "private", "unpublicized", "unrecorded", "unregistered", "unreported"], "A": ["listed", "public", "recorded", "registered"]}

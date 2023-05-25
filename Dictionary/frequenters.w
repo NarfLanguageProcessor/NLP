@@ -1,1 +1,1 @@
-{"index": 118788, "D": "happening or occurring at short intervals", "S": ["customer ", "denizen ", "habitu\u00e9 ", "patron ", "regular "], "A": ["owner "]}
+{"index": 118788, "D": "happening or occurring at short intervals", "S": ["customer", "denizen", "habitu\u00e9", "patron", "regular"], "A": ["owner"]}

@@ -1,1 +1,1 @@
-{"index": 91894, "D": "to bestow or express excessive love or fondness habitually (usually followed by on or upon)", "S": ["cherish "], "A": ["ignore ", "insult "]}
+{"index": 91894, "D": "to bestow or express excessive love or fondness habitually (usually followed by on or upon)", "S": ["cherish"], "A": ["ignore", "insult"]}

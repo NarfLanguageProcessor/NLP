@@ -1,1 +1,1 @@
-{"index": 110704, "D": "a noteworthy or extraordinary act or achievement, usually displaying boldness, skill, etc.", "S": ["balancing ", "gymnastics ", "somersaults ", "stunts ", "tumbling "], "A": []}
+{"index": 110704, "D": "a noteworthy or extraordinary act or achievement, usually displaying boldness, skill, etc.", "S": ["balancing", "gymnastics", "somersaults", "stunts", "tumbling"], "A": []}

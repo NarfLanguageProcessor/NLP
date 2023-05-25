@@ -1,1 +1,1 @@
-{"index": 333989, "D": "very advanced in ideas, design, or techniques.", "S": ["futuristic ", "state-of-the-art "], "A": []}
+{"index": 333989, "D": "very advanced in ideas, design, or techniques.", "S": ["futuristic", "state-of-the-art"], "A": []}

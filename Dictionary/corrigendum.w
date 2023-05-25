@@ -1,1 +1,1 @@
-{"index": 69686, "D": "an error to be corrected, especially an error in print.", "S": ["blunder ", "deception ", "defect ", "exaggeration "], "A": ["correction ", "correctness ", "perfection ", "success "]}
+{"index": 69686, "D": "an error to be corrected, especially an error in print.", "S": ["blunder", "deception", "defect", "exaggeration"], "A": ["correction", "correctness", "perfection", "success"]}

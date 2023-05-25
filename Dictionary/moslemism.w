@@ -1,1 +1,0 @@
-{"index": 193835, "D": "the Muslim religion; Islam.", "S": [], "A": []}

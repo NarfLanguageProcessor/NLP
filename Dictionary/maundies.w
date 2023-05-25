@@ -1,1 +1,1 @@
-{"index": 181435, "D": "the ceremony of washing the feet of poor people, especially commemorating Jesus' washing of His disciples' feet on Maundy Thursday. ", "S": ["bath ", "bathing ", "laundry ", "soaking "], "A": []}
+{"index": 181435, "D": "the ceremony of washing the feet of poor people, especially commemorating Jesus' washing of His disciples' feet on Maundy Thursday. ", "S": ["bath", "bathing", "laundry", "soaking"], "A": []}

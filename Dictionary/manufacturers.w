@@ -1,1 +1,1 @@
-{"index": 179654, "D": "a person, group, or company that owns or runs a manufacturing  plant.", "S": ["builder ", "business ", "company ", "corporation ", "operator ", "producer "], "A": []}
+{"index": 179654, "D": "a person, group, or company that owns or runs a manufacturing  plant.", "S": ["builder", "business", "company", "corporation", "operator", "producer"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4328, "D": "very attractive or delightful; charming", "S": ["captivating", "charming", "cute", "delightful"], "A": ["despicable", "detestable", "hateable", "hateful"]}

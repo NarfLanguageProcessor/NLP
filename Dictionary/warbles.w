@@ -1,1 +1,1 @@
-{"index": 362539, "D": "to sing or whistle with trills, quavers, or melodic embellishments", "S": ["sing "], "A": []}
+{"index": 362539, "D": "to sing or whistle with trills, quavers, or melodic embellishments", "S": ["sing"], "A": []}

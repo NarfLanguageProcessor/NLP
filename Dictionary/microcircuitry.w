@@ -1,1 +1,1 @@
-{"index": 185994, "D": "a detailed plan of an integrated circuit or a network of such circuits.", "S": ["chip ", "electronics ", "wiring "], "A": []}
+{"index": 185994, "D": "a detailed plan of an integrated circuit or a network of such circuits.", "S": ["chip", "electronics", "wiring"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 721, "D": "to bring forth a fetus from the uterus before the fetus is viable; miscarry.", "S": ["break off ", "cut off ", "halt ", "interrupt ", "nullify ", "scrap ", "scrub ", "terminate "], "A": ["begin ", "start "]}
+{"index": 721, "D": "to bring forth a fetus from the uterus before the fetus is viable; miscarry.", "S": ["break off", "cut off", "halt", "interrupt", "nullify", "scrap", "scrub", "terminate"], "A": ["begin", "start"]}

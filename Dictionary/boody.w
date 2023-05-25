@@ -1,0 +1,1 @@
+{"index": 38009, "D": "spoil taken from an enemy in war; plunder; pillage. ", "S": [], "A": []}

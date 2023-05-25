@@ -1,1 +1,1 @@
-{"index": 283087, "D": [], "S": ["artificial nucleation ", "nucleation ", "rainmaking ", "seeding "], "A": []}
+{"index": 283087, "D": [], "S": ["artificial nucleation", "nucleation", "rainmaking", "seeding"], "A": []}

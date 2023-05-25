@@ -1,1 +1,1 @@
-{"index": 183227, "D": "something that threatens to cause evil, harm, injury, etc.; a threat", "S": ["hazard ", "peril ", "plague ", "risk ", "threat "], "A": ["certainty ", "safety ", "surety ", "comfort ", "delight ", "happiness ", "pleasure "]}
+{"index": 183227, "D": "something that threatens to cause evil, harm, injury, etc.; a threat", "S": ["hazard", "peril", "plague", "risk", "threat"], "A": ["certainty", "safety", "surety", "comfort", "delight", "happiness", "pleasure"]}

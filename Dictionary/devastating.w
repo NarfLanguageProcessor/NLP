@@ -1,1 +1,1 @@
-{"index": 83459, "D": "tending or threatening to devastate", "S": ["calamitous ", "destructive ", "disastrous ", "overwhelming "], "A": ["blessed ", "fortunate "]}
+{"index": 83459, "D": "tending or threatening to devastate", "S": ["calamitous", "destructive", "disastrous", "overwhelming"], "A": ["blessed", "fortunate"]}

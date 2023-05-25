@@ -1,1 +1,1 @@
-{"index": 182062, "D": "responsive to medical treatment; curable.", "S": ["corrective ", "healthful ", "invigorating ", "medicinal ", "remedial ", "salutary ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}
+{"index": 182062, "D": "responsive to medical treatment; curable.", "S": ["corrective", "healthful", "invigorating", "medicinal", "remedial", "salutary", "therapeutic"], "A": ["damaging", "harmful", "hurtful", "injurious"]}

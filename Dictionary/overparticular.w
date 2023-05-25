@@ -1,1 +1,1 @@
-{"index": 220447, "D": "of or relating to a single or specific person, thing, group, class, occasion, etc., rather than to others or all; special rather than general", "S": ["finicky ", "selective "], "A": ["open "]}
+{"index": 220447, "D": "of or relating to a single or specific person, thing, group, class, occasion, etc., rather than to others or all; special rather than general", "S": ["finicky", "selective"], "A": ["open"]}

@@ -1,1 +1,1 @@
-{"index": 134618, "D": "(among certain primitive peoples) the practice of hunting  down and decapitating victims and preserving their heads  as trophies.", "S": ["executive recruiting ", "executive recruitment ", "recruitment ", "talent search "], "A": []}
+{"index": 134618, "D": "(among certain primitive peoples) the practice of hunting  down and decapitating victims and preserving their heads  as trophies.", "S": ["executive recruiting", "executive recruitment", "recruitment", "talent search"], "A": []}

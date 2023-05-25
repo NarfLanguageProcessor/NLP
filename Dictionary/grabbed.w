@@ -1,1 +1,1 @@
-{"index": 128458, "D": "to seize suddenly or quickly; snatch; clutch", "S": ["affected ", "disturbed ", "impressed ", "stirred "], "A": ["unemotional ", "unmoved ", "untouched "]}
+{"index": 128458, "D": "to seize suddenly or quickly; snatch; clutch", "S": ["affected", "disturbed", "impressed", "stirred"], "A": ["unemotional", "unmoved", "untouched"]}

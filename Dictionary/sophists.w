@@ -1,1 +1,1 @@
-{"index": 297438, "D": [], "S": ["apologist ", "pleader ", "polemicist "], "A": []}
+{"index": 297438, "D": [], "S": ["apologist", "pleader", "polemicist"], "A": []}

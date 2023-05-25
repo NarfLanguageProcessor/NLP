@@ -1,1 +1,1 @@
-{"index": 171386, "D": "the contact or connection maintained by communications between units of the armed forces or of any other organization in order to ensure concerted action, cooperation, etc.", "S": ["communication ", "contact ", "intermediary "], "A": []}
+{"index": 171386, "D": "the contact or connection maintained by communications between units of the armed forces or of any other organization in order to ensure concerted action, cooperation, etc.", "S": ["communication", "contact", "intermediary"], "A": []}

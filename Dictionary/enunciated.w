@@ -1,1 +1,1 @@
-{"index": 101759, "D": "to utter or pronounce (words, sentences, etc.), especially in an articulate or a particular manner", "S": ["definite ", "noticeable ", "recognizable ", "specific ", "unmistakable "], "A": ["indefinite ", "indistinct ", "obscure ", "uncertain ", "vague "]}
+{"index": 101759, "D": "to utter or pronounce (words, sentences, etc.), especially in an articulate or a particular manner", "S": ["definite", "noticeable", "recognizable", "specific", "unmistakable"], "A": ["indefinite", "indistinct", "obscure", "uncertain", "vague"]}

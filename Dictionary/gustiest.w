@@ -1,1 +1,1 @@
-{"index": 131572, "D": "blowing or coming in gusts,  as wind, rain, or storms.", "S": ["blustery ", "breezy ", "stormy "], "A": ["calm ", "still "]}
+{"index": 131572, "D": "blowing or coming in gusts,  as wind, rain, or storms.", "S": ["blustery", "breezy", "stormy"], "A": ["calm", "still"]}

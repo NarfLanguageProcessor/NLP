@@ -1,1 +1,1 @@
-{"index": 344564, "D": "an uninhabited island", "S": ["deserted ", "desolate ", "unoccupied "], "A": ["busy ", "populated "]}
+{"index": 344564, "D": "an uninhabited island", "S": ["deserted", "desolate", "unoccupied"], "A": ["busy", "populated"]}

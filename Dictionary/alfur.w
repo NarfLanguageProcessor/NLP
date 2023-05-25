@@ -1,0 +1,1 @@
+{"index": 8019, "D": "a member of an aboriginal people of eastern Indonesia, especially of the Moluccas.", "S": [], "A": []}

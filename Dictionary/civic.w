@@ -1,1 +1,1 @@
-{"index": 58904, "D": "of or relating to a city; municipal", "S": ["civil ", "communal ", "national ", "urban "], "A": []}
+{"index": 58904, "D": "of or relating to a city; municipal", "S": ["civil", "communal", "national", "urban"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 212259, "D": "pertaining to Mount Olympus  or dwelling thereon, as the gods of classical Greece.", "S": ["angelic ", "divine ", "ethereal ", "immortal ", "otherworldly ", "spiritual ", "sublime ", "supernatural "], "A": ["earthly "]}
+{"index": 212259, "D": "pertaining to Mount Olympus  or dwelling thereon, as the gods of classical Greece.", "S": ["angelic", "divine", "ethereal", "immortal", "otherworldly", "spiritual", "sublime", "supernatural"], "A": ["earthly"]}

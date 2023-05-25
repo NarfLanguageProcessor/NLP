@@ -1,1 +1,1 @@
-{"index": 149546, "D": "not attentive; negligent", "S": ["apathetic ", "bored ", "careless ", "distracted ", "distraught ", "indifferent ", "oblivious "], "A": ["caring ", "concerned ", "interested ", "mindful "]}
+{"index": 149546, "D": "not attentive; negligent", "S": ["apathetic", "bored", "careless", "distracted", "distraught", "indifferent", "oblivious"], "A": ["caring", "concerned", "interested", "mindful"]}

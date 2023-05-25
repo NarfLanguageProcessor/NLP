@@ -1,1 +1,1 @@
-{"index": 354617, "D": "to bring (a book, figures, or the like) up to date  as by adding new information or making corrections", "S": ["cooked ", "corrected ", "modified ", "transformed "], "A": ["unqualified "]}
+{"index": 354617, "D": "to bring (a book, figures, or the like) up to date  as by adding new information or making corrections", "S": ["cooked", "corrected", "modified", "transformed"], "A": ["unqualified"]}

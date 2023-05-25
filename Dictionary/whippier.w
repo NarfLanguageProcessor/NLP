@@ -1,1 +1,1 @@
-{"index": 364925, "D": "of, relating to, or resembling a whip. ", "S": ["malleable ", "soft "], "A": ["firm ", "rigid "]}
+{"index": 364925, "D": "of, relating to, or resembling a whip. ", "S": ["malleable", "soft"], "A": ["firm", "rigid"]}

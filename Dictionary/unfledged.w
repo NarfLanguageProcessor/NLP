@@ -1,1 +1,1 @@
-{"index": 342371, "D": "not fledged;  without sufficient feathers for flight, as a young bird.", "S": ["inexperienced "], "A": ["experienced ", "initiated ", "mature ", "sophisticated "]}
+{"index": 342371, "D": "not fledged;  without sufficient feathers for flight, as a young bird.", "S": ["inexperienced"], "A": ["experienced", "initiated", "mature", "sophisticated"]}

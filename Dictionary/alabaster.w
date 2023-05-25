@@ -1,1 +1,1 @@
-{"index": 7230, "D": "a finely granular variety of gypsum, often white and translucent, used for ornamental objects or work, such as lamp bases, figurines, etc.", "S": ["alabastrine ", "fair ", "ivory ", "light ", "pale ", "white "], "A": ["black ", "dark "]}
+{"index": 7230, "D": "a finely granular variety of gypsum, often white and translucent, used for ornamental objects or work, such as lamp bases, figurines, etc.", "S": ["alabastrine", "fair", "ivory", "light", "pale", "white"], "A": ["black", "dark"]}

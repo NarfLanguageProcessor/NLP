@@ -1,1 +1,1 @@
-{"index": 185491, "D": "to make metropolitan. ", "S": ["urbanize "], "A": []}
+{"index": 185491, "D": "to make metropolitan. ", "S": ["urbanize"], "A": []}

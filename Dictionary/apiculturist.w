@@ -1,1 +1,1 @@
-{"index": 16978, "D": "beekeeping, especially on a commercial scale for the sale of honey.", "S": ["apiarist "], "A": []}
+{"index": 16978, "D": "beekeeping, especially on a commercial scale for the sale of honey.", "S": ["apiarist"], "A": []}

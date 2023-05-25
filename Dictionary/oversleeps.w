@@ -1,1 +1,1 @@
-{"index": 221173, "D": "to sleep  beyond the proper or intended time of waking", "S": ["hibernate ", "languish ", "sleep in "], "A": []}
+{"index": 221173, "D": "to sleep  beyond the proper or intended time of waking", "S": ["hibernate", "languish", "sleep in"], "A": []}

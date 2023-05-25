@@ -1,1 +1,1 @@
-{"index": 65648, "D": "to express sympathy with a person who is suffering sorrow, misfortune, or grief (usually followed by with)", "S": ["pallbearer "], "A": []}
+{"index": 65648, "D": "to express sympathy with a person who is suffering sorrow, misfortune, or grief (usually followed by with)", "S": ["pallbearer"], "A": []}

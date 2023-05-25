@@ -1,1 +1,1 @@
-{"index": 72963, "D": "of the nature of or involving crime. ", "S": ["gangland ", "mob ", "organized crime ", "syndicate "], "A": []}
+{"index": 72963, "D": "of the nature of or involving crime. ", "S": ["gangland", "mob", "organized crime", "syndicate"], "A": []}

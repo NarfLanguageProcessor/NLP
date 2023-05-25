@@ -1,1 +1,1 @@
-{"index": 314705, "D": "a simple past tense of swear. ", "S": ["affirm ", "assert ", "depose ", "testify ", "vow "], "A": ["deny ", "break ", "condemn ", "renounce "]}
+{"index": 314705, "D": "a simple past tense of swear. ", "S": ["affirm", "assert", "depose", "testify", "vow"], "A": ["deny", "break", "condemn", "renounce"]}

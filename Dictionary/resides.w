@@ -1,1 +1,1 @@
-{"index": 269370, "D": "to dwell permanently or for a considerable time", "S": ["consist ", "dwell ", "endure ", "inhabit ", "lie ", "locate ", "lodge ", "nest ", "occupy ", "populate ", "settle ", "squat "], "A": ["depart ", "leave ", "move ", "straighten ", "go ", "stop "]}
+{"index": 269370, "D": "to dwell permanently or for a considerable time", "S": ["consist", "dwell", "endure", "inhabit", "lie", "locate", "lodge", "nest", "occupy", "populate", "settle", "squat"], "A": ["depart", "leave", "move", "straighten", "go", "stop"]}

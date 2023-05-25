@@ -1,1 +1,1 @@
-{"index": 174640, "D": "of or relating to logistics. ", "S": ["operational "], "A": []}
+{"index": 174640, "D": "of or relating to logistics. ", "S": ["operational"], "A": []}

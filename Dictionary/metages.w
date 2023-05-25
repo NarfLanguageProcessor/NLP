@@ -1,1 +1,1 @@
-{"index": 184660, "D": "the official measurement of contents or weight.", "S": ["amount ", "analysis ", "appraisal ", "assessment ", "density ", "dimension ", "evaluation ", "frequency ", "height ", "measure ", "size ", "survey ", "weight "], "A": ["ignorance ", "unimportance "]}
+{"index": 184660, "D": "the official measurement of contents or weight.", "S": ["amount", "analysis", "appraisal", "assessment", "density", "dimension", "evaluation", "frequency", "height", "measure", "size", "survey", "weight"], "A": ["ignorance", "unimportance"]}

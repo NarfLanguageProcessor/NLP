@@ -1,1 +1,1 @@
-{"index": 144011, "D": "something not worth considering.", "S": ["baloney ", "rubbish "], "A": ["sense ", "truth "]}
+{"index": 144011, "D": "something not worth considering.", "S": ["baloney", "rubbish"], "A": ["sense", "truth"]}

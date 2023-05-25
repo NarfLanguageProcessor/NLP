@@ -1,1 +1,0 @@
-{"index": 304833, "D": "rousing, exciting, or thrilling", "S": ["electrifying ", "emotional ", "exhilarating ", "gripping ", "heartbreaking ", "heartrending ", "inspirational ", "inspiring ", "touching "], "A": []}

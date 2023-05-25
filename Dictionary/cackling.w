@@ -1,1 +1,1 @@
-{"index": 44135, "D": "to utter a shrill, broken sound or cry, as of a hen.", "S": ["chortle ", "giggle "], "A": []}
+{"index": 44135, "D": "to utter a shrill, broken sound or cry, as of a hen.", "S": ["chortle", "giggle"], "A": []}

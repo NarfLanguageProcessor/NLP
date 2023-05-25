@@ -1,1 +1,1 @@
-{"index": 4608, "D": "an exciting or very unusual experience.", "S": ["attempted ", "dared ", "experimented ", "gambled ", "tested ", "tried "], "A": []}
+{"index": 4608, "D": "an exciting or very unusual experience.", "S": ["attempted", "dared", "experimented", "gambled", "tested", "tried"], "A": []}

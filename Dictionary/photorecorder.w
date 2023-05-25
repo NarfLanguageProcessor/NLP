@@ -1,1 +1,0 @@
-{"index": 235341, "D": "a device for making photographic records.", "S": [], "A": []}

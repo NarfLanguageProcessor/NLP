@@ -1,1 +1,1 @@
-{"index": 201780, "D": "glowing; incandescent.", "S": ["concrete "], "A": ["waterproof "]}
+{"index": 201780, "D": "glowing; incandescent.", "S": ["concrete"], "A": ["waterproof"]}

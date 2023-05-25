@@ -1,1 +1,1 @@
-{"index": 278711, "D": "the state of being satiated; surfeit.", "S": ["engorgement ", "feeding ", "filling ", "glut ", "gratification ", "indulgence ", "repletion ", "saturation ", "surfeit "], "A": ["lack ", "need ", "want "]}
+{"index": 278711, "D": "the state of being satiated; surfeit.", "S": ["engorgement", "feeding", "filling", "glut", "gratification", "indulgence", "repletion", "saturation", "surfeit"], "A": ["lack", "need", "want"]}

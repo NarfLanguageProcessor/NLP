@@ -1,1 +1,1 @@
-{"index": 54215, "D": "primarily; essentially", "S": ["especially ", "essentially ", "largely ", "mostly ", "predominantly ", "principally "], "A": []}
+{"index": 54215, "D": "primarily; essentially", "S": ["especially", "essentially", "largely", "mostly", "predominantly", "principally"], "A": []}

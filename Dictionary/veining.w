@@ -1,1 +1,1 @@
-{"index": 357768, "D": "the act or process of forming veins  or an arrangement or marking resembling veins. ", "S": ["smear "], "A": []}
+{"index": 357768, "D": "the act or process of forming veins  or an arrangement or marking resembling veins. ", "S": ["smear"], "A": []}

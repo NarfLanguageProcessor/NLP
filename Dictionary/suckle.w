@@ -1,1 +1,1 @@
-{"index": 309963, "D": "to nurse at the breast or udder.", "S": ["breastfeed ", "nourish ", "nurture "], "A": ["deprive ", "neglect ", "starve "]}
+{"index": 309963, "D": "to nurse at the breast or udder.", "S": ["breastfeed", "nourish", "nurture"], "A": ["deprive", "neglect", "starve"]}

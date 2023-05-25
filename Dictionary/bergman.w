@@ -1,0 +1,1 @@
+{"index": 32062, "D": "Swedish motion-picture director and writer.", "S": [], "A": []}

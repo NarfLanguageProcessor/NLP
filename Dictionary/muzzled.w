@@ -1,1 +1,1 @@
-{"index": 196381, "D": "the mouth, or end for discharge, of the barrel of a gun, pistol, etc.", "S": ["gagged ", "quieted "], "A": []}
+{"index": 196381, "D": "the mouth, or end for discharge, of the barrel of a gun, pistol, etc.", "S": ["gagged", "quieted"], "A": []}

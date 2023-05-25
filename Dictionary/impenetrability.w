@@ -1,1 +1,1 @@
-{"index": 148446, "D": "the state or quality of being impenetrable. ", "S": ["frequency ", "quantity ", "thickness "], "A": ["openness ", "sparsity ", "thinness "]}
+{"index": 148446, "D": "the state or quality of being impenetrable. ", "S": ["frequency", "quantity", "thickness"], "A": ["openness", "sparsity", "thinness"]}

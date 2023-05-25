@@ -1,1 +1,1 @@
-{"index": 318011, "D": "Compare videoconference. ", "S": ["phone meeting ", "three-way calling ", "video teleconference "], "A": []}
+{"index": 318011, "D": "Compare videoconference. ", "S": ["phone meeting", "three-way calling", "video teleconference"], "A": []}

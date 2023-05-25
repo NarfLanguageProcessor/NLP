@@ -1,1 +1,1 @@
-{"index": 124761, "D": "something given  voluntarily without payment in return, as to show favor toward someone, honor an occasion, or make a gesture of assistance; present.", "S": ["donation ", "endowment ", "fund ", "philanthropy "], "A": ["hindrance ", "hurt ", "injury "]}
+{"index": 124761, "D": "something given  voluntarily without payment in return, as to show favor toward someone, honor an occasion, or make a gesture of assistance; present.", "S": ["donation", "endowment", "fund", "philanthropy"], "A": ["hindrance", "hurt", "injury"]}

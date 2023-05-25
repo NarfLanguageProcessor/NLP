@@ -1,1 +1,1 @@
-{"index": 367664, "D": "to make or become worse.", "S": ["desperate ", "forlorn ", "helpless ", "impossible ", "pointless ", "sad ", "tragic ", "useless "], "A": ["cheerful ", "good ", "happy ", "hopeful ", "joyful "]}
+{"index": 367664, "D": "to make or become worse.", "S": ["desperate", "forlorn", "helpless", "impossible", "pointless", "sad", "tragic", "useless"], "A": ["cheerful", "good", "happy", "hopeful", "joyful"]}

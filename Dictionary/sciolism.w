@@ -1,1 +1,1 @@
-{"index": 280738, "D": "superficial knowledge.", "S": ["bewilderment ", "disregard ", "illiteracy ", "insensitivity "], "A": ["cognizance ", "understanding "]}
+{"index": 280738, "D": "superficial knowledge.", "S": ["bewilderment", "disregard", "illiteracy", "insensitivity"], "A": ["cognizance", "understanding"]}

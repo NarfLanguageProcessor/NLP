@@ -1,1 +1,1 @@
-{"index": 82399, "D": "a person or animal that is descended from a specific ancestor; an offspring.", "S": ["heir ", "offspring ", "scion "], "A": ["cause ", "origin ", "parent ", "source "]}
+{"index": 82399, "D": "a person or animal that is descended from a specific ancestor; an offspring.", "S": ["heir", "offspring", "scion"], "A": ["cause", "origin", "parent", "source"]}

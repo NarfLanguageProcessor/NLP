@@ -1,1 +1,1 @@
-{"index": 135877, "D": "a strong, tough, virile man.", "S": ["male ", "manful ", "masculine ", "virile "], "A": ["effeminate ", "unmanly ", "unmasculine "]}
+{"index": 135877, "D": "a strong, tough, virile man.", "S": ["male", "manful", "masculine", "virile"], "A": ["effeminate", "unmanly", "unmasculine"]}

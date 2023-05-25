@@ -1,1 +1,0 @@
-{"index": 208843, "D": "a system of graphic symbols for a specialized use, other than ordinary writing", "S": ["documentation "], "A": []}

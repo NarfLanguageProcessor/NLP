@@ -1,1 +1,1 @@
-{"index": 171714, "D": "legal; lawful; legitimate; permissible.", "S": ["constitutionally ", "justly ", "lawfully ", "legitimately "], "A": ["illegally ", "illicitly ", "unlawfully "]}
+{"index": 171714, "D": "legal; lawful; legitimate; permissible.", "S": ["constitutionally", "justly", "lawfully", "legitimately"], "A": ["illegally", "illicitly", "unlawfully"]}

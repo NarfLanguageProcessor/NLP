@@ -1,1 +1,1 @@
-{"index": 317448, "D": "a cup  in which tea  is served, usually of small or moderate size.", "S": ["bowl ", "drink ", "mug "], "A": []}
+{"index": 317448, "D": "a cup  in which tea  is served, usually of small or moderate size.", "S": ["bowl", "drink", "mug"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 317802, "D": [], "S": ["microscopic ", "tiny ", "wee "], "A": ["big ", "huge ", "large "]}
+{"index": 317802, "D": [], "S": ["microscopic", "tiny", "wee"], "A": ["big", "huge", "large"]}

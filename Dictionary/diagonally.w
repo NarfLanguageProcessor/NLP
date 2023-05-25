@@ -1,1 +1,1 @@
-{"index": 84150, "D": "extending from one edge of a solid figure to an opposite edge, as a plane.", "S": ["cater-corner ", "cater-cornered ", "catercorner ", "catty-corner ", "catty-cornered ", "crosswise ", "kitty-corner ", "kitty-cornered "], "A": []}
+{"index": 84150, "D": "extending from one edge of a solid figure to an opposite edge, as a plane.", "S": ["cater-corner", "cater-cornered", "catercorner", "catty-corner", "catty-cornered", "crosswise", "kitty-corner", "kitty-cornered"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 82560, "D": "to wish or long for.", "S": ["crave ", "envy ", "lust after "], "A": ["dislike ", "hate "]}
+{"index": 82560, "D": "to wish or long for.", "S": ["crave", "envy", "lust after"], "A": ["dislike", "hate"]}

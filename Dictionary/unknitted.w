@@ -1,1 +1,0 @@
-{"index": 345346, "D": "to untie or unfasten (a knot, tangle, etc.); unravel (something knitted); undo.", "S": [], "A": []}

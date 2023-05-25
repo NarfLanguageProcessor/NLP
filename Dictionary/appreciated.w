@@ -1,1 +1,1 @@
-{"index": 17905, "D": "regarded or received with thankfulness", "S": ["admired ", "beloved ", "honored ", "important "], "A": []}
+{"index": 17905, "D": "regarded or received with thankfulness", "S": ["admired", "beloved", "honored", "important"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 216854, "D": "to spring clear of the ground or other support by a sudden muscular effort; leap", "S": ["beat ", "clobber ", "drub ", "edge ", "knock out ", "outplay ", "overpower ", "take ", "thrash ", "trounce ", "win "], "A": ["fail ", "forfeit ", "lose ", "surrender "]}
+{"index": 216854, "D": "to spring clear of the ground or other support by a sudden muscular effort; leap", "S": ["beat", "clobber", "drub", "edge", "knock out", "outplay", "overpower", "take", "thrash", "trounce", "win"], "A": ["fail", "forfeit", "lose", "surrender"]}

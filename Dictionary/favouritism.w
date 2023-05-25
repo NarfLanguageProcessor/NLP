@@ -1,1 +1,1 @@
-{"index": 110534, "D": "the practice of giving special treatment to a person or group", "S": ["discrimination ", "inequity ", "nepotism ", "partisanship ", "unfairness "], "A": ["fairness ", "impartiality ", "justice "]}
+{"index": 110534, "D": "the practice of giving special treatment to a person or group", "S": ["discrimination", "inequity", "nepotism", "partisanship", "unfairness"], "A": ["fairness", "impartiality", "justice"]}

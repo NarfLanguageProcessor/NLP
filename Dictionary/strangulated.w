@@ -1,1 +1,1 @@
-{"index": 305786, "D": "to compress or constrict (a duct, intestine, vessel, etc.) so as to prevent circulation or suppress function.", "S": ["suffocate "], "A": ["breathe ", "loosen "]}
+{"index": 305786, "D": "to compress or constrict (a duct, intestine, vessel, etc.) so as to prevent circulation or suppress function.", "S": ["suffocate"], "A": ["breathe", "loosen"]}

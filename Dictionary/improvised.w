@@ -1,1 +1,1 @@
-{"index": 149210, "D": "made or said without previous preparation", "S": ["impromptu ", "makeshift ", "spontaneous "], "A": ["designed ", "planned ", "rehearsed "]}
+{"index": 149210, "D": "made or said without previous preparation", "S": ["impromptu", "makeshift", "spontaneous"], "A": ["designed", "planned", "rehearsed"]}

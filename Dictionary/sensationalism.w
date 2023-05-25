@@ -1,1 +1,0 @@
-{"index": 285333, "D": "subject matter, language, or style producing or designed to produce startling or thrilling impressions or to excite and please vulgar taste.", "S": ["aggrandizement ", "boasting ", "excess ", "fabrication ", "hype ", "hyperbole ", "overemphasis ", "puffery ", "whopper "], "A": []}

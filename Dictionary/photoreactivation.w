@@ -1,1 +1,0 @@
-{"index": 235336, "D": "a process that repairs DNA damaged by ultraviolet light using an enzyme that requires visible light.", "S": [], "A": []}

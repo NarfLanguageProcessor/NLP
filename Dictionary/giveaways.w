@@ -1,1 +1,1 @@
-{"index": 125696, "D": "an act or instance of giving something away.", "S": ["benefaction ", "benevolence ", "boon ", "bounty ", "compliment ", "donation ", "endowment ", "favor ", "gifting ", "giveaway ", "grant ", "gratuity ", "handout ", "largess ", "lump ", "offering ", "stake "], "A": []}
+{"index": 125696, "D": "an act or instance of giving something away.", "S": ["benefaction", "benevolence", "boon", "bounty", "compliment", "donation", "endowment", "favor", "gifting", "giveaway", "grant", "gratuity", "handout", "largess", "lump", "offering", "stake"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 45494, "D": "of, involving, or using calumny;  slanderous; defamatory.", "S": ["calumniatory ", "defamatory ", "injurious ", "libelous ", "scandalous "], "A": []}
+{"index": 45494, "D": "of, involving, or using calumny;  slanderous; defamatory.", "S": ["calumniatory", "defamatory", "injurious", "libelous", "scandalous"], "A": []}

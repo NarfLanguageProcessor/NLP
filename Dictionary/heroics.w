@@ -1,1 +1,1 @@
-{"index": 137249, "D": "prosody short for heroic verse", "S": ["bluster "], "A": ["humility ", "modesty "]}
+{"index": 137249, "D": "prosody short for heroic verse", "S": ["bluster"], "A": ["humility", "modesty"]}

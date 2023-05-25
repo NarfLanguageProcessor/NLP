@@ -1,1 +1,1 @@
-{"index": 240224, "D": "a person or thing that plots. ", "S": ["accomplice ", "collaborator ", "traitor "], "A": []}
+{"index": 240224, "D": "a person or thing that plots. ", "S": ["accomplice", "collaborator", "traitor"], "A": []}

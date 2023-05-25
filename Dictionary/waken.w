@@ -1,1 +1,1 @@
-{"index": 362129, "D": "to rouse from sleep; wake; awake; awaken.", "S": ["arise ", "arouse ", "awake ", "awaken ", "bestir ", "call ", "nudge ", "prod ", "rise ", "rouse ", "shake ", "stir ", "stretch "], "A": ["calm ", "deaden ", "discourage ", "go to sleep ", "lull ", "sleep "]}
+{"index": 362129, "D": "to rouse from sleep; wake; awake; awaken.", "S": ["arise", "arouse", "awake", "awaken", "bestir", "call", "nudge", "prod", "rise", "rouse", "shake", "stir", "stretch"], "A": ["calm", "deaden", "discourage", "go to sleep", "lull", "sleep"]}

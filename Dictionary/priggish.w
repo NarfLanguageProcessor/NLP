@@ -1,1 +1,1 @@
-{"index": 250451, "D": "fussy about trivialities or propriety, especially in a self-righteous or irritating manner", "S": ["Victorian ", "complacent ", "goody-goody ", "goody-two-shoes ", "pompous ", "prim ", "smug ", "stuffy ", "vain "], "A": []}
+{"index": 250451, "D": "fussy about trivialities or propriety, especially in a self-righteous or irritating manner", "S": ["Victorian", "complacent", "goody-goody", "goody-two-shoes", "pompous", "prim", "smug", "stuffy", "vain"], "A": []}

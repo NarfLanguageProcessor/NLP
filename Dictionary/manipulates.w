@@ -1,1 +1,0 @@
-{"index": 179330, "D": "to manage or influence skillfully, especially in an unfair manner", "S": ["employ ", "shape ", "wield "], "A": ["destroy ", "idle "]}

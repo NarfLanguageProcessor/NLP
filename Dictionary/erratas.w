@@ -1,1 +1,1 @@
-{"index": 103978, "D": "plural of erratum. ", "S": ["correction ", "corrigenda "], "A": []}
+{"index": 103978, "D": "plural of erratum. ", "S": ["correction", "corrigenda"], "A": []}

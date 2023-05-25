@@ -1,1 +1,1 @@
-{"index": 185484, "D": "any large, busy city.", "S": ["capital ", "downtown ", "municipality "], "A": []}
+{"index": 185484, "D": "any large, busy city.", "S": ["capital", "downtown", "municipality"], "A": []}

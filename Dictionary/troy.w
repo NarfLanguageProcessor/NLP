@@ -1,1 +1,1 @@
-{"index": 331004, "D": "expressed or computed in troy weight.", "S": ["of weight avoirdupois ", "uncia "], "A": []}
+{"index": 331004, "D": "expressed or computed in troy weight.", "S": ["of weight avoirdupois", "uncia"], "A": []}

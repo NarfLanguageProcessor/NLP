@@ -1,1 +1,1 @@
-{"index": 59803, "D": "a female member of the clergy.", "S": ["chaplain ", "churchwoman ", "cleric ", "clerical ", "divine ", "ecclesiastic ", "minister ", "parson ", "priest ", "reverend "], "A": []}
+{"index": 59803, "D": "a female member of the clergy.", "S": ["chaplain", "churchwoman", "cleric", "clerical", "divine", "ecclesiastic", "minister", "parson", "priest", "reverend"], "A": []}

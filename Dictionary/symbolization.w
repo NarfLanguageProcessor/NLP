@@ -1,1 +1,1 @@
-{"index": 290787, "D": "the act or process of symbolizing. ", "S": ["apologue ", "emblem ", "fable ", "figuration ", "moral ", "myth ", "parable ", "story ", "symbol ", "symbolism ", "tale ", "typification "], "A": ["nonfiction ", "truth "]}
+{"index": 290787, "D": "the act or process of symbolizing. ", "S": [], "A": []}

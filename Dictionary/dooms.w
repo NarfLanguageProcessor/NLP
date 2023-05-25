@@ -1,1 +1,1 @@
-{"index": 91525, "D": "very; extremely", "S": ["calamity ", "cataclysm ", "catastrophe ", "disaster ", "downfall "], "A": ["blessing ", "boon ", "good fortune ", "good luck ", "happiness ", "miracle ", "success ", "beginning ", "birth ", "commencement ", "start "]}
+{"index": 91525, "D": "very; extremely", "S": ["calamity", "cataclysm", "catastrophe", "disaster", "downfall"], "A": ["blessing", "boon", "good fortune", "good luck", "happiness", "miracle", "success", "beginning", "birth", "commencement", "start"]}

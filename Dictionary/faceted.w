@@ -1,1 +1,1 @@
-{"index": 108959, "D": "having facets,  or small, polished, flat surfaces, cut on it", "S": ["carve ", "divide ", "rip ", "slash ", "slice "], "A": ["combine ", "unite ", "close ", "connect ", "join ", "mend "]}
+{"index": 108959, "D": "having facets,  or small, polished, flat surfaces, cut on it", "S": ["carve", "divide", "rip", "slash", "slice"], "A": ["combine", "unite", "close", "connect", "join", "mend"]}

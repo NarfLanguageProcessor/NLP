@@ -1,1 +1,1 @@
-{"index": 258109, "D": "to put down or suppress completely; quell; subdue", "S": ["crush ", "put down ", "quell ", "repress ", "squash ", "suppress "], "A": ["build up ", "compliment ", "encourage ", "let go ", "praise ", "release ", "give in ", "help ", "start ", "surrender ", "yield "]}
+{"index": 258109, "D": "to put down or suppress completely; quell; subdue", "S": ["crush", "put down", "quell", "repress", "squash", "suppress"], "A": ["build up", "compliment", "encourage", "let go", "praise", "release", "give in", "help", "start", "surrender", "yield"]}

@@ -1,1 +1,1 @@
-{"index": 207949, "D": "nontraditional lifestyles", "S": ["futuristic ", "state-of-the-art "], "A": []}
+{"index": 207949, "D": "nontraditional lifestyles", "S": ["futuristic", "state-of-the-art"], "A": []}

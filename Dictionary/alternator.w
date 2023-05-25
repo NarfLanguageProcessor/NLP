@@ -1,1 +1,1 @@
-{"index": 9498, "D": "a generator of alternating current. ", "S": ["dynamo "], "A": []}
+{"index": 9498, "D": "a generator of alternating current. ", "S": ["dynamo"], "A": []}

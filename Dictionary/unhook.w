@@ -1,1 +1,0 @@
-{"index": 343843, "D": "to detach by or as if by releasing a hook", "S": ["emancipate ", "free ", "rescue ", "save "], "A": ["hold ", "incarcerate ", "detain ", "imprison ", "keep "]}

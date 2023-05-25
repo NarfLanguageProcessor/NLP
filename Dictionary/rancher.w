@@ -1,1 +1,1 @@
-{"index": 260468, "D": "a person who owns or works on a ranch. ", "S": ["breeder ", "herder ", "herdsman "], "A": []}
+{"index": 260468, "D": "a person who owns or works on a ranch. ", "S": ["breeder", "herder", "herdsman"], "A": []}

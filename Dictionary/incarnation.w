@@ -1,1 +1,1 @@
-{"index": 149719, "D": "an incarnate  being or form.", "S": ["embodiment ", "epitome ", "incorporation ", "manifestation "], "A": []}
+{"index": 149719, "D": "an incarnate  being or form.", "S": ["embodiment", "epitome", "incorporation", "manifestation"], "A": []}

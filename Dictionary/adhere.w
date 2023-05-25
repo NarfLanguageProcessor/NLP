@@ -1,1 +1,1 @@
-{"index": 3839, "D": "to stay attached; stick fast; cleave; cling  (usually followed by to)", "S": ["comply ", "heed ", "obey ", "observe ", "stand by "], "A": ["disobey ", "ignore ", "overlook ", "condemn ", "disregard ", "forget ", "let go ", "neglect ", "release ", "scorn "]}
+{"index": 3839, "D": "to stay attached; stick fast; cleave; cling  (usually followed by to)", "S": ["comply", "heed", "obey", "observe", "stand by"], "A": ["disobey", "ignore", "overlook", "condemn", "disregard", "forget", "let go", "neglect", "release", "scorn"]}

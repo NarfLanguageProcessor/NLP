@@ -1,1 +1,1 @@
-{"index": 325417, "D": "a male cat.", "S": ["kitten ", "kitty ", "tabby "], "A": []}
+{"index": 325417, "D": "a male cat.", "S": ["kitten", "kitty", "tabby"], "A": []}

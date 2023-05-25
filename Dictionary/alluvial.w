@@ -1,1 +1,1 @@
-{"index": 9066, "D": "of or relating to alluvium. ", "S": ["carnal ", "mundane ", "physical ", "temporal ", "terrestrial ", "worldly "], "A": ["heavenly ", "immaterial ", "mental ", "otherworldly ", "spiritual "]}
+{"index": 9066, "D": "of or relating to alluvium. ", "S": ["carnal", "mundane", "physical", "temporal", "terrestrial", "worldly"], "A": ["heavenly", "immaterial", "mental", "otherworldly", "spiritual"]}

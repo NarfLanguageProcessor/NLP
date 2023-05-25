@@ -1,1 +1,1 @@
-{"index": 283095, "D": "a plant or tree grown from a seed. ", "S": ["flower ", "grass ", "herb ", "shrub ", "tree ", "vine ", "weed "], "A": []}
+{"index": 283095, "D": "a plant or tree grown from a seed. ", "S": ["flower", "grass", "herb", "shrub", "tree", "vine", "weed"], "A": []}

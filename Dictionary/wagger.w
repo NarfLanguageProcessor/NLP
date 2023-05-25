@@ -1,1 +1,0 @@
-{"index": 361840, "D": "to move from side to side, forward and backward, or up and down, especially rapidly and repeatedly", "S": ["back end ", "rear ", "rudder "], "A": ["beginning ", "front ", "start "]}

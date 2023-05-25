@@ -1,1 +1,1 @@
-{"index": 268087, "D": "a person or thing that repeats. ", "S": ["captive ", "felon ", "prisoner "], "A": ["victim "]}
+{"index": 268087, "D": "a person or thing that repeats. ", "S": ["captive", "felon", "prisoner"], "A": ["victim"]}

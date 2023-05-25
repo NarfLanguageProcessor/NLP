@@ -1,1 +1,1 @@
-{"index": 359882, "D": "of the nature of or resembling vinegar;  sour; acid", "S": ["acerb ", "acerbic ", "acidulous ", "acrid ", "bitter ", "harsh ", "tangy ", "tart ", "vinegarish "], "A": []}
+{"index": 359882, "D": "of the nature of or resembling vinegar;  sour; acid", "S": ["acerb", "acerbic", "acidulous", "acrid", "bitter", "harsh", "tangy", "tart", "vinegarish"], "A": []}

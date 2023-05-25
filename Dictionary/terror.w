@@ -1,1 +1,1 @@
-{"index": 319618, "D": "intense, sharp, overmastering fear", "S": ["anxiety ", "awe ", "dread ", "horror ", "intimidation ", "panic ", "shock "], "A": ["calmness ", "confidence ", "contentment ", "assurance ", "calm ", "happiness "]}
+{"index": 319618, "D": "intense, sharp, overmastering fear", "S": ["anxiety", "awe", "dread", "horror", "intimidation", "panic", "shock"], "A": ["calmness", "confidence", "contentment", "assurance", "calm", "happiness"]}

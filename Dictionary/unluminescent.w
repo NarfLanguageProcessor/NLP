@@ -1,1 +1,0 @@
-{"index": 345845, "D": "emitting light that is not caused by incandescence and that occurs at a temperature below that of incandescent bodies", "S": [], "A": []}

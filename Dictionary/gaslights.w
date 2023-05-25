@@ -1,1 +1,1 @@
-{"index": 122388, "D": "to cause (a person) to doubt their judgment, memory, or sanity through the use of psychological manipulation", "S": ["flashlight ", "light "], "A": []}
+{"index": 122388, "D": "to cause (a person) to doubt their judgment, memory, or sanity through the use of psychological manipulation", "S": ["flashlight", "light"], "A": []}

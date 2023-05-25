@@ -1,1 +1,1 @@
-{"index": 220593, "D": "to overcome, master, or subdue by superior force", "S": ["humbled ", "overwhelmed ", "routed "], "A": []}
+{"index": 220593, "D": "to overcome, master, or subdue by superior force", "S": ["humbled", "overwhelmed", "routed"], "A": []}

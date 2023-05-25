@@ -1,1 +1,1 @@
-{"index": 51233, "D": "of or relating to products made from clay and similar materials, as pottery and brick, or to their manufacture", "S": ["brick ", "earthenware ", "porcelain ", "stoneware ", "tile "], "A": []}
+{"index": 51233, "D": "of or relating to products made from clay and similar materials, as pottery and brick, or to their manufacture", "S": ["brick", "earthenware", "porcelain", "stoneware", "tile"], "A": []}

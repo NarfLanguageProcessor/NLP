@@ -1,1 +1,1 @@
-{"index": 134642, "D": "a heading  in a newspaper for any written material, sometimes for an illustration, to indicate subject matter, set in larger type than that of the copy and containing one or more words and lines and often several banks.", "S": ["caption ", "title "], "A": []}
+{"index": 134642, "D": "a heading  in a newspaper for any written material, sometimes for an illustration, to indicate subject matter, set in larger type than that of the copy and containing one or more words and lines and often several banks.", "S": ["caption", "title"], "A": []}

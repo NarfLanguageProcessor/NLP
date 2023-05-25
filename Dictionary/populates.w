@@ -1,1 +1,1 @@
-{"index": 243320, "D": "to inhabit; live in; be the inhabitants of", "S": ["colonize ", "inhabit ", "occupy "], "A": ["depart "]}
+{"index": 243320, "D": "to inhabit; live in; be the inhabitants of", "S": ["colonize", "inhabit", "occupy"], "A": ["depart"]}

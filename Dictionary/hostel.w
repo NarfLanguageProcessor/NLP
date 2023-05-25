@@ -1,1 +1,1 @@
-{"index": 144203, "D": "an inexpensive, supervised lodging place for young people on bicycle trips, hikes, etc.", "S": ["hotel ", "inn "], "A": []}
+{"index": 144203, "D": "an inexpensive, supervised lodging place for young people on bicycle trips, hikes, etc.", "S": ["hotel", "inn"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 254167, "D": "to rove or go about stealthily, as in search of prey, something to steal, etc.", "S": ["lurk ", "roam ", "scavenge ", "skulk ", "slink ", "stroll ", "tramp "], "A": ["ignore ", "neglect "]}
+{"index": 254167, "D": "to rove or go about stealthily, as in search of prey, something to steal, etc.", "S": ["lurk", "roam", "scavenge", "skulk", "slink", "stroll", "tramp"], "A": ["ignore", "neglect"]}

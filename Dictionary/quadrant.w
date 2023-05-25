@@ -1,1 +1,1 @@
-{"index": 257500, "D": "a quarter of a circle; an arc of 90\u00b0.", "S": ["quadrangle ", "quadruplet "], "A": []}
+{"index": 257500, "D": "a quarter of a circle; an arc of 90\u00b0.", "S": ["quadrangle", "quadruplet"], "A": []}

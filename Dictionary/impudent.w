@@ -1,1 +1,1 @@
-{"index": 149238, "D": "of, relating to, or characterized by impertinence or effrontery", "S": ["brazen ", "cheeky "], "A": ["humble ", "modest ", "polite ", "retiring "]}
+{"index": 149238, "D": "of, relating to, or characterized by impertinence or effrontery", "S": ["brazen", "cheeky"], "A": ["humble", "modest", "polite", "retiring"]}

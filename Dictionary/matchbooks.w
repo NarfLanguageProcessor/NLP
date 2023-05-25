@@ -1,1 +1,1 @@
-{"index": 181042, "D": "a small cardboard folder into which several rows of paper matches  are stapled or glued.", "S": ["friction match ", "lucifer "], "A": []}
+{"index": 181042, "D": "a small cardboard folder into which several rows of paper matches  are stapled or glued.", "S": ["friction match", "lucifer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 42737, "D": "a person who avoids work and sponges on others; loafer; idler. ", "S": ["afflicted ", "ailing ", "diseased ", "infirm ", "poorly ", "woozy "], "A": ["healthy "]}
+{"index": 42737, "D": "a person who avoids work and sponges on others; loafer; idler. ", "S": ["afflicted", "ailing", "diseased", "infirm", "poorly", "woozy"], "A": ["healthy"]}

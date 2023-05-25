@@ -1,1 +1,1 @@
-{"index": 177377, "D": "fuchsin. ", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}
+{"index": 177377, "D": "fuchsin. ", "S": ["color", "lavender", "lilac", "mauve", "periwinkle", "plum", "violet"], "A": []}

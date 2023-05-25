@@ -1,1 +1,1 @@
-{"index": 278199, "D": "abounding in sap,  as a plant.", "S": ["maudlin ", "mushy ", "silly ", "stupid "], "A": ["realistic ", "serious "]}
+{"index": 278199, "D": "abounding in sap,  as a plant.", "S": ["maudlin", "mushy", "silly", "stupid"], "A": ["realistic", "serious"]}

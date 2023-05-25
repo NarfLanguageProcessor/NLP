@@ -1,1 +1,1 @@
-{"index": 32567, "D": "of the highest quality, excellence, or standing", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}
+{"index": 32567, "D": "of the highest quality, excellence, or standing", "S": ["humbled", "overpowered", "overwhelmed", "routed"], "A": []}

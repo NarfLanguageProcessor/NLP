@@ -1,1 +1,1 @@
-{"index": 77886, "D": "a young woman making a debut into society.", "S": ["deb "], "A": []}
+{"index": 77886, "D": "a young woman making a debut into society.", "S": ["deb"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110065, "D": "most distant or remote; farthest.", "S": ["extreme ", "faraway ", "farthest ", "furthermost ", "furthest ", "last ", "outermost ", "outmost ", "remotest ", "utmost ", "uttermost "], "A": []}
+{"index": 110065, "D": "most distant or remote; farthest.", "S": ["extreme", "faraway", "farthest", "furthermost", "furthest", "last", "outermost", "outmost", "remotest", "utmost", "uttermost"], "A": []}

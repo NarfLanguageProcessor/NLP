@@ -1,1 +1,1 @@
-{"index": 314551, "D": "to move with or make a sibilant sound, as a slender rod cutting sharply through the air or as small waves washing on the shore.", "S": ["bustle ", "fly ", "hum ", "move ", "revolve ", "sound ", "swirl ", "swish ", "vibrate ", "whiz "], "A": []}
+{"index": 314551, "D": "to move with or make a sibilant sound, as a slender rod cutting sharply through the air or as small waves washing on the shore.", "S": ["bustle", "fly", "hum", "move", "revolve", "sound", "swirl", "swish", "vibrate", "whiz"], "A": []}

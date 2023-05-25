@@ -1,1 +1,1 @@
-{"index": 32288, "D": "to implore urgently", "S": ["implore "], "A": ["answer ", "command ", "refuse ", "reply "]}
+{"index": 32288, "D": "to implore urgently", "S": ["implore"], "A": ["answer", "command", "refuse", "reply"]}

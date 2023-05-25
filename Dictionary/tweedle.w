@@ -1,1 +1,1 @@
-{"index": 333225, "D": "to produce high-pitched, modulated sounds, as a singer, bird, or musical instrument.", "S": ["chip ", "chirp ", "chirrup ", "peep ", "tweet ", "twitter "], "A": []}
+{"index": 333225, "D": "to produce high-pitched, modulated sounds, as a singer, bird, or musical instrument.", "S": ["chip", "chirp", "chirrup", "peep", "tweet", "twitter"], "A": []}

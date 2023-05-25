@@ -1,1 +1,1 @@
-{"index": 164913, "D": "the pin  at the center; the number five pin. ", "S": ["expert ", "judge ", "law "], "A": ["amateur ", "greenhorn ", "ignoramus ", "proletariat ", "rookie ", "student "]}
+{"index": 164913, "D": "the pin  at the center; the number five pin. ", "S": ["expert", "judge", "law"], "A": ["amateur", "greenhorn", "ignoramus", "proletariat", "rookie", "student"]}

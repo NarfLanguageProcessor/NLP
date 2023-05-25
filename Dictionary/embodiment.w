@@ -1,1 +1,1 @@
-{"index": 98141, "D": "the act of embodying. ", "S": ["apotheosis ", "archetype ", "avatar ", "epitome ", "exemplar ", "expression ", "personification ", "realization ", "symbol "], "A": ["disorganization "]}
+{"index": 98141, "D": "the act of embodying. ", "S": ["apotheosis", "archetype", "avatar", "epitome", "exemplar", "expression", "personification", "realization", "symbol"], "A": ["disorganization"]}

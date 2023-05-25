@@ -1,1 +1,1 @@
-{"index": 142208, "D": "a portable trough for carrying mortar, bricks, etc., fixed crosswise on top of a pole and carried on the shoulder.", "S": ["can ", "canister ", "cask ", "kettle ", "pail ", "pot "], "A": []}
+{"index": 142208, "D": "a portable trough for carrying mortar, bricks, etc., fixed crosswise on top of a pole and carried on the shoulder.", "S": ["can", "canister", "cask", "kettle", "pail", "pot"], "A": []}

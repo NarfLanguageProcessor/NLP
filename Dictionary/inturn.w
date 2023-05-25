@@ -1,1 +1,1 @@
-{"index": 156922, "D": "an inward turn or curve around an axis or fixed point.", "S": ["consecutively ", "following ", "in order ", "in sequence ", "one after another ", "orderly ", "sequential ", "succeeding ", "successively "], "A": ["out of turn "]}
+{"index": 156922, "D": "an inward turn or curve around an axis or fixed point.", "S": ["consecutively", "following", "in order", "in sequence", "one after another", "orderly", "sequential", "succeeding", "successively"], "A": ["out of turn"]}

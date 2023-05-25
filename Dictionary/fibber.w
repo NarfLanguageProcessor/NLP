@@ -1,1 +1,1 @@
-{"index": 111957, "D": "a small or trivial lie; minor falsehood.", "S": ["fabricator ", "fabulist ", "falsifier ", "prevaricator ", "storyteller "], "A": []}
+{"index": 111957, "D": "a small or trivial lie; minor falsehood.", "S": ["fabricator", "fabulist", "falsifier", "prevaricator", "storyteller"], "A": []}

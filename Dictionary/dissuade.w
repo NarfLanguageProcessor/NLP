@@ -1,1 +1,1 @@
-{"index": 89661, "D": "to deter by advice or persuasion; persuade not to do something (often followed by from)", "S": ["deter ", "discourage ", "divert ", "faze ", "prevent ", "thwart ", "warn "], "A": ["aid ", "assist ", "encourage ", "help "]}
+{"index": 89661, "D": "to deter by advice or persuasion; persuade not to do something (often followed by from)", "S": ["deter", "discourage", "divert", "faze", "prevent", "thwart", "warn"], "A": ["aid", "assist", "encourage", "help"]}

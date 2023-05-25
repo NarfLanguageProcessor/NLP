@@ -1,1 +1,1 @@
-{"index": 181719, "D": [], "S": ["devour ", "down ", "drink ", "eat ", "feed ", "imbibe ", "ingest ", "inhale ", "meal ", "swallow "], "A": ["abstain "]}
+{"index": 181719, "D": [], "S": ["devour", "down", "drink", "eat", "feed", "imbibe", "ingest", "inhale", "meal", "swallow"], "A": ["abstain"]}

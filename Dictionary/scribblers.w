@@ -1,1 +1,1 @@
-{"index": 281795, "D": "a writer whose work has little or no value or importance.", "S": ["biographer ", "columnist ", "composer ", "creator ", "journalist ", "poet ", "producer ", "reporter ", "writer "], "A": []}
+{"index": 281795, "D": "a writer whose work has little or no value or importance.", "S": ["biographer", "columnist", "composer", "creator", "journalist", "poet", "producer", "reporter", "writer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 304527, "D": "remaining in place or at rest; motionless; stationary", "S": ["closed ", "fixed ", "halcyon ", "hushed ", "pacific ", "sealed ", "smooth ", "stable ", "static ", "stock-still ", "whist "], "A": ["broken ", "changeable ", "unfixed ", "variable "]}
+{"index": 304527, "D": "remaining in place or at rest; motionless; stationary", "S": ["closed", "fixed", "halcyon", "hushed", "pacific", "sealed", "smooth", "stable", "static", "stock-still", "whist"], "A": ["broken", "changeable", "unfixed", "variable"]}

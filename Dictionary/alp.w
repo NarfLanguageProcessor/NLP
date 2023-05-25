@@ -1,1 +1,1 @@
-{"index": 9298, "D": "a high mountain.", "S": ["mount ", "pike ", "summit "], "A": []}
+{"index": 9298, "D": "a high mountain.", "S": ["mount", "pike", "summit"], "A": []}

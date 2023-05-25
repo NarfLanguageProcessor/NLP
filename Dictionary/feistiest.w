@@ -1,1 +1,1 @@
-{"index": 110952, "D": "full of animation, energy, or courage; spirited; spunky; plucky", "S": ["bubbly ", "courageous ", "excitable ", "fiery ", "gritty ", "gutsy ", "high-strung ", "lively ", "scrappy ", "spunky "], "A": ["cowardly ", "dull ", "fearful ", "flat ", "timid "]}
+{"index": 110952, "D": "full of animation, energy, or courage; spirited; spunky; plucky", "S": ["bubbly", "courageous", "excitable", "fiery", "gritty", "gutsy", "high-strung", "lively", "scrappy", "spunky"], "A": ["cowardly", "dull", "fearful", "flat", "timid"]}

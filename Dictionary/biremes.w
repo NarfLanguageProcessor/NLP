@@ -1,1 +1,1 @@
-{"index": 34814, "D": "a galley having two banks or tiers of oars.", "S": ["dinghy ", "galleon ", "rowboat ", "tender ", "trireme "], "A": []}
+{"index": 34814, "D": "a galley having two banks or tiers of oars.", "S": ["dinghy", "galleon", "rowboat", "tender", "trireme"], "A": []}

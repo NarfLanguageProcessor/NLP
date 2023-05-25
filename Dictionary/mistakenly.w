@@ -1,1 +1,1 @@
-{"index": 190188, "D": "unintentionally or inadvertently; by mistake", "S": ["erroneously ", "falsely "], "A": []}
+{"index": 190188, "D": "unintentionally or inadvertently; by mistake", "S": ["erroneously", "falsely"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 343698, "D": "felled and roughly shaped by hewing", "S": ["hard ", "raw ", "sketchy ", "unpolished "], "A": ["pleasant ", "sophisticated "]}
+{"index": 343698, "D": "felled and roughly shaped by hewing", "S": ["hard", "raw", "sketchy", "unpolished"], "A": ["pleasant", "sophisticated"]}

@@ -1,1 +1,1 @@
-{"index": 90, "D": "forsaken or deserted", "S": ["defenselessly ", "dependently ", "feebly ", "involuntarily ", "powerlessly ", "weakly ", "willy-nilly "], "A": []}
+{"index": 90, "D": "forsaken or deserted", "S": ["defenselessly", "dependently", "feebly", "involuntarily", "powerlessly", "weakly", "willy-nilly"], "A": []}

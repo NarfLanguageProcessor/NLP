@@ -1,1 +1,1 @@
-{"index": 282589, "D": "suitable to or characteristic of the season", "S": ["early "], "A": []}
+{"index": 282589, "D": "suitable to or characteristic of the season", "S": ["early"], "A": []}

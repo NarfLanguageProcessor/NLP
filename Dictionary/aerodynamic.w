@@ -1,1 +1,1 @@
-{"index": 4985, "D": "Designed to reduce or minimize the drag caused by air as an object moves though it or by wind that strikes and flows around an object. The wings and bodies of airplanes have an aerodynamic shape.", "S": ["modernized ", "simplified "], "A": ["inefficient "]}
+{"index": 4985, "D": "Designed to reduce or minimize the drag caused by air as an object moves though it or by wind that strikes and flows around an object. The wings and bodies of airplanes have an aerodynamic shape.", "S": ["modernized", "simplified"], "A": ["inefficient"]}

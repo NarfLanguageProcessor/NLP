@@ -1,1 +1,1 @@
-{"index": 175885, "D": "to work, write, or study laboriously, especially at night.", "S": ["introspective ", "pensive ", "reflective "], "A": ["ignorant "]}
+{"index": 175885, "D": "to work, write, or study laboriously, especially at night.", "S": ["introspective", "pensive", "reflective"], "A": ["ignorant"]}

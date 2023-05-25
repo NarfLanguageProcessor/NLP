@@ -1,1 +1,1 @@
-{"index": 126649, "D": "a list of terms in a special subject, field, or area of usage, with accompanying definitions.", "S": ["linguist ", "wordsmith "], "A": []}
+{"index": 126649, "D": "a list of terms in a special subject, field, or area of usage, with accompanying definitions.", "S": ["linguist", "wordsmith"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 219484, "D": "excessively full", "S": ["filled "], "A": ["empty "]}
+{"index": 219484, "D": "excessively full", "S": ["filled"], "A": ["empty"]}

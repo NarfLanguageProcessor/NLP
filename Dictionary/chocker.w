@@ -1,1 +1,1 @@
-{"index": 55277, "D": "full up; packed", "S": ["arranged ", "congested ", "crowded ", "filled ", "jam-packed ", "jammed ", "loaded ", "overflowing ", "overloaded ", "stuffed ", "swarming ", "wrapped "], "A": ["clear ", "empty ", "uncrowded "]}
+{"index": 55277, "D": "full up; packed", "S": ["arranged", "congested", "crowded", "filled", "jam-packed", "jammed", "loaded", "overflowing", "overloaded", "stuffed", "swarming", "wrapped"], "A": ["clear", "empty", "uncrowded"]}

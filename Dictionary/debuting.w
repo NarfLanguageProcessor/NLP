@@ -1,1 +1,1 @@
-{"index": 77889, "D": "a first public appearance on a stage, on television, etc.", "S": ["appear ", "break ", "debut ", "get out "], "A": ["hide "]}
+{"index": 77889, "D": "a first public appearance on a stage, on television, etc.", "S": ["appear", "break", "debut", "get out"], "A": ["hide"]}

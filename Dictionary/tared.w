@@ -1,1 +1,1 @@
-{"index": 316553, "D": "any of various vetches, especially Vicia sativa.", "S": ["adhesive ", "mud ", "plaster ", "sand "], "A": []}
+{"index": 316553, "D": "any of various vetches, especially Vicia sativa.", "S": ["adhesive", "mud", "plaster", "sand"], "A": []}

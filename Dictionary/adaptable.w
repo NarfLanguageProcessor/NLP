@@ -1,0 +1,1 @@
+{"index": 3456, "D": "capable of being adapted. ", "S": ["compliant", "flexible", "malleable", "resilient", "versatile"], "A": ["inflexible", "rigid", "stiff"]}

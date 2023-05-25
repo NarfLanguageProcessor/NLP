@@ -1,1 +1,1 @@
-{"index": 112988, "D": "a relatively small, ornamental, terminal feature at the top of a gable, pinnacle, etc.", "S": ["belabor ", "club ", "cudgel ", "finial ", "handle ", "knob ", "maul ", "pound ", "pummel ", "saddlebow ", "strike ", "thwack "], "A": []}
+{"index": 112988, "D": "a relatively small, ornamental, terminal feature at the top of a gable, pinnacle, etc.", "S": ["belabor", "club", "cudgel", "finial", "handle", "knob", "maul", "pound", "pummel", "saddlebow", "strike", "thwack"], "A": []}

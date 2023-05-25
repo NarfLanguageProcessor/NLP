@@ -1,1 +1,1 @@
-{"index": 73487, "D": [], "S": ["carper ", "caviler ", "censor ", "faultfinder ", "hypercritic ", "knocker ", "nitpicker ", "quibbler "], "A": []}
+{"index": 73487, "D": [], "S": ["carper", "caviler", "censor", "faultfinder", "hypercritic", "knocker", "nitpicker", "quibbler"], "A": []}

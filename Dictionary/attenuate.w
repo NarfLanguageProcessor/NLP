@@ -1,1 +1,1 @@
-{"index": 23037, "D": "to weaken or reduce in force, intensity, effect, quantity, or value", "S": ["constrict ", "debilitate ", "vitiate "], "A": ["aid ", "assist ", "help ", "amplify ", "enable ", "enlarge ", "expand ", "extend ", "increase ", "intensify ", "strengthen ", "stretch "]}
+{"index": 23037, "D": "to weaken or reduce in force, intensity, effect, quantity, or value", "S": ["constrict", "debilitate", "vitiate"], "A": ["aid", "assist", "help", "amplify", "enable", "enlarge", "expand", "extend", "increase", "intensify", "strengthen", "stretch"]}

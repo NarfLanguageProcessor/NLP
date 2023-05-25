@@ -1,0 +1,1 @@
+{"index": 10060, "D": "to go at a slow, easy pace; stroll; saunter", "S": ["drift", "loiter", "meander", "mosey", "ramble", "sashay", "saunter", "stroll", "toddle", "wander"], "A": ["run", "stay"]}

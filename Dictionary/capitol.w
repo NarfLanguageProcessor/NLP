@@ -1,1 +1,1 @@
-{"index": 46936, "D": "the building in Washington, D.C., used by the Congress of the U.S. for its sessions.", "S": ["center ", "dome ", "statehouse "], "A": []}
+{"index": 46936, "D": "the building in Washington, D.C., used by the Congress of the U.S. for its sessions.", "S": ["center", "dome", "statehouse"], "A": []}

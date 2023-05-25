@@ -1,1 +1,1 @@
-{"index": 251697, "D": "allegedly; pretendedly", "S": ["purportedly ", "supposedly "], "A": []}
+{"index": 251697, "D": "allegedly; pretendedly", "S": ["purportedly", "supposedly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 13730, "D": "to rub or sprinkle on; apply an unguent, ointment, or oily liquid to.", "S": ["chrism ", "unction "], "A": []}
+{"index": 13730, "D": "to rub or sprinkle on; apply an unguent, ointment, or oily liquid to.", "S": ["chrism", "unction"], "A": []}

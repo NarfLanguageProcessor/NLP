@@ -1,1 +1,1 @@
-{"index": 118383, "D": "a small, cooked and smoked sausage of beef or beef and pork, with or without casing; hot dog; wiener.", "S": ["hot dog "], "A": []}
+{"index": 118383, "D": "a small, cooked and smoked sausage of beef or beef and pork, with or without casing; hot dog; wiener.", "S": ["hot dog"], "A": []}

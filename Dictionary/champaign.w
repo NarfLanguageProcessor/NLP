@@ -1,1 +1,1 @@
-{"index": 52343, "D": "level, open country; plain.", "S": ["area ", "department ", "environment ", "job ", "line ", "province ", "range ", "region ", "terrain ", "territory ", "work "], "A": ["entertainment ", "fun ", "hobby ", "pastime "]}
+{"index": 52343, "D": "level, open country; plain.", "S": ["area", "department", "environment", "job", "line", "province", "range", "region", "terrain", "territory", "work"], "A": ["entertainment", "fun", "hobby", "pastime"]}

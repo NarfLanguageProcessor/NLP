@@ -1,0 +1,1 @@
+{"index": 2010, "D": "a colorless, volatile, sparingly water-soluble liquid, C6H14O2, having a nutlike aftertaste, obtained from acetaldehyde and ethyl alcohol", "S": [], "A": []}

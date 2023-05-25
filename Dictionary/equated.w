@@ -1,1 +1,1 @@
-{"index": 103190, "D": "to regard, treat, or represent as equivalent", "S": ["balanced ", "coordinated ", "paired "], "A": ["different ", "mismatched ", "unequal ", "unlike "]}
+{"index": 103190, "D": "to regard, treat, or represent as equivalent", "S": ["balanced", "coordinated", "paired"], "A": ["different", "mismatched", "unequal", "unlike"]}

@@ -1,1 +1,1 @@
-{"index": 297075, "D": "somewhere. ", "S": ["around ", "elsewhere ", "here and there ", "someplace "], "A": ["nowhere "]}
+{"index": 297075, "D": "somewhere. ", "S": ["around", "elsewhere", "here and there", "someplace"], "A": ["nowhere"]}

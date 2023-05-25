@@ -1,1 +1,1 @@
-{"index": 156379, "D": "to utter with a particular tone or voice modulation.", "S": ["artist ", "crooner ", "diva ", "musician ", "soloist ", "vocalist ", "voice "], "A": []}
+{"index": 156379, "D": "to utter with a particular tone or voice modulation.", "S": ["artist", "crooner", "diva", "musician", "soloist", "vocalist", "voice"], "A": []}

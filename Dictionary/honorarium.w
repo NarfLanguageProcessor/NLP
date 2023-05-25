@@ -1,1 +1,1 @@
-{"index": 143436, "D": "a payment in recognition of acts or professional services for which custom or propriety forbids a price to be set", "S": ["compensation ", "gratuity ", "pay ", "payment ", "reward ", "tip "], "A": ["penalty "]}
+{"index": 143436, "D": "a payment in recognition of acts or professional services for which custom or propriety forbids a price to be set", "S": ["compensation", "gratuity", "pay", "payment", "reward", "tip"], "A": ["penalty"]}

@@ -1,1 +1,1 @@
-{"index": 7349, "D": "an archaic variant of alarm. ", "S": ["alert ", "bell ", "signal ", "siren ", "warning "], "A": []}
+{"index": 7349, "D": "an archaic variant of alarm. ", "S": ["alert", "bell", "signal", "siren", "warning"], "A": []}

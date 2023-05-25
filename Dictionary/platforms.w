@@ -1,1 +1,1 @@
-{"index": 239356, "D": "a horizontal surface, or structure with a horizontal surface, raised above the level of the surrounding area.", "S": ["floor ", "podium ", "terrace "], "A": []}
+{"index": 239356, "D": "a horizontal surface, or structure with a horizontal surface, raised above the level of the surrounding area.", "S": ["floor", "podium", "terrace"], "A": []}

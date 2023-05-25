@@ -1,1 +1,1 @@
-{"index": 326727, "D": "the act of towing. ", "S": ["contribution ", "cost ", "duty ", "expense ", "fine ", "levy ", "price ", "rate ", "tariff "], "A": []}
+{"index": 326727, "D": "the act of towing. ", "S": ["contribution", "cost", "duty", "expense", "fine", "levy", "price", "rate", "tariff"], "A": []}

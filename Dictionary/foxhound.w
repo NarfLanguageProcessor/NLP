@@ -1,1 +1,1 @@
-{"index": 118089, "D": "any of several breeds of medium-sized hounds  trained to hunt foxes  and having a glossy coat in combinations of black, tan, and white.", "S": ["chaser ", "courser ", "hound "], "A": []}
+{"index": 118089, "D": "any of several breeds of medium-sized hounds  trained to hunt foxes  and having a glossy coat in combinations of black, tan, and white.", "S": ["chaser", "courser", "hound"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 214130, "D": "the composition or arrangement of music for performance by a band or orchestra, or the music so composed or arranged", "S": ["composition "], "A": []}
+{"index": 214130, "D": "the composition or arrangement of music for performance by a band or orchestra, or the music so composed or arranged", "S": ["composition"], "A": []}

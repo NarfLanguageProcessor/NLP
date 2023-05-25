@@ -1,1 +1,1 @@
-{"index": 245473, "D": "the act or practice of a person who preaches. ", "S": ["sermon ", "teaching "], "A": []}
+{"index": 245473, "D": "the act or practice of a person who preaches. ", "S": ["sermon", "teaching"], "A": []}

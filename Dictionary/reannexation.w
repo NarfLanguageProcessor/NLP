@@ -1,1 +1,0 @@
-{"index": 261842, "D": "the act or an instance of annexing,  or adding to something larger, especially the incorporation of new territory into the domain of a city, country, or state.", "S": [], "A": []}

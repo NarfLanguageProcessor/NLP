@@ -1,1 +1,1 @@
-{"index": 12671, "D": "of or belonging to angels", "S": ["celestial ", "ethereal ", "heavenly ", "lovely ", "otherworldly ", "radiant ", "saintly ", "virtuous "], "A": ["bad ", "earthly ", "hellish ", "sinful ", "wicked "]}
+{"index": 12671, "D": "of or belonging to angels", "S": ["celestial", "ethereal", "heavenly", "lovely", "otherworldly", "radiant", "saintly", "virtuous"], "A": ["bad", "earthly", "hellish", "sinful", "wicked"]}

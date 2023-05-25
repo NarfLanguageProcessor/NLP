@@ -1,1 +1,1 @@
-{"index": 316170, "D": "a person whose occupation it is to tan  hides.", "S": ["beige ", "brownish ", "drab ", "khaki "], "A": []}
+{"index": 316170, "D": "a person whose occupation it is to tan  hides.", "S": ["beige", "brownish", "drab", "khaki"], "A": []}

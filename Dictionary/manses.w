@@ -1,1 +1,1 @@
-{"index": 179506, "D": "the house and land occupied by a minister or parson.", "S": ["benefice ", "parsonage ", "presbytery ", "vicarage "], "A": []}
+{"index": 179506, "D": "the house and land occupied by a minister or parson.", "S": ["benefice", "parsonage", "presbytery", "vicarage"], "A": []}

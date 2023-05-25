@@ -1,1 +1,1 @@
-{"index": 131504, "D": "a flat, padded table or stretcher with legs and wheels, for transporting patients or bodies.", "S": ["rickshaw ", "truck ", "wagon "], "A": []}
+{"index": 131504, "D": "a flat, padded table or stretcher with legs and wheels, for transporting patients or bodies.", "S": ["rickshaw", "truck", "wagon"], "A": []}

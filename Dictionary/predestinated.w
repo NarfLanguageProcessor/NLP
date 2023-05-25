@@ -1,1 +1,0 @@
-{"index": 246843, "D": "to foreordain by divine decree or purpose.", "S": ["break ", "chance ", "cup ", "destine ", "doom ", "effect ", "end ", "ending ", "foreordain ", "issue ", "lot ", "portion ", "predestine ", "predetermine ", "preordain ", "stars "], "A": ["join "]}

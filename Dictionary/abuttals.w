@@ -1,1 +1,1 @@
-{"index": 1195, "D": "the boundaries of a plot of land where it abuts against other property", "S": ["barrier ", "border ", "borderline ", "bounds ", "confines ", "edge ", "frontier ", "horizon ", "line ", "perimeter "], "A": ["center ", "inside ", "interior ", "middle ", "opening ", "start "]}
+{"index": 1195, "D": "the boundaries of a plot of land where it abuts against other property", "S": ["barrier", "border", "borderline", "bounds", "confines", "edge", "frontier", "horizon", "line", "perimeter"], "A": ["center", "inside", "interior", "middle", "opening", "start"]}

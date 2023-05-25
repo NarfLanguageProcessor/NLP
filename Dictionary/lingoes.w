@@ -1,1 +1,0 @@
-{"index": 172846, "D": "the language and speech, especially the jargon, slang, or argot, of a particular field, group, or individual", "S": [], "A": []}

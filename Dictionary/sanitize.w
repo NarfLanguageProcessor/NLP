@@ -1,1 +1,1 @@
-{"index": 277981, "D": "to free from dirt, germs, etc., as by cleaning or sterilizing.", "S": ["decontaminate ", "disinfect "], "A": ["adulterate ", "dirty "]}
+{"index": 277981, "D": "to free from dirt, germs, etc., as by cleaning or sterilizing.", "S": ["decontaminate", "disinfect"], "A": ["adulterate", "dirty"]}

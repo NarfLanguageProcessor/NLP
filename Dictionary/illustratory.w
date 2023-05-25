@@ -1,1 +1,1 @@
-{"index": 147533, "D": [], "S": ["descriptive ", "emblematic ", "figurative ", "revealing "], "A": ["atypical ", "complicated ", "confusing ", "involved "]}
+{"index": 147533, "D": [], "S": ["descriptive", "emblematic", "figurative", "revealing"], "A": ["atypical", "complicated", "confusing", "involved"]}

@@ -1,1 +1,1 @@
-{"index": 73015, "D": "deep purplish-red.", "S": ["bloody ", "color ", "crimson ", "dye ", "flush ", "glow ", "incarnadine ", "mantle ", "paint ", "pink ", "rose ", "rouge ", "rubify ", "rubric ", "rubricate ", "ruddle ", "rust ", "suffuse ", "tint "], "A": ["pale ", "whiten "]}
+{"index": 73015, "D": "deep purplish-red.", "S": ["bloody", "color", "crimson", "dye", "flush", "glow", "incarnadine", "mantle", "paint", "pink", "rose", "rouge", "rubify", "rubric", "rubricate", "ruddle", "rust", "suffuse", "tint"], "A": ["pale", "whiten"]}

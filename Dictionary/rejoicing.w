@@ -1,1 +1,1 @@
-{"index": 266616, "D": "the act of a person who rejoices. ", "S": ["cheerful ", "exuberant ", "exultant ", "gleeful ", "joyous ", "jubilant ", "mirthful "], "A": ["lamenting ", "mourning "]}
+{"index": 266616, "D": "the act of a person who rejoices. ", "S": ["cheerful", "exuberant", "exultant", "gleeful", "joyous", "jubilant", "mirthful"], "A": ["lamenting", "mourning"]}

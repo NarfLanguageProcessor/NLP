@@ -1,1 +1,1 @@
-{"index": 279524, "D": "an unscrupulous and often mischievous person; rascal; rogue; scalawag.", "S": ["scrimp "], "A": ["release ", "spend ", "squander ", "waste "]}
+{"index": 279524, "D": "an unscrupulous and often mischievous person; rascal; rogue; scalawag.", "S": ["scrimp"], "A": ["release", "spend", "squander", "waste"]}

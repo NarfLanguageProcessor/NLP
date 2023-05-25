@@ -1,1 +1,1 @@
-{"index": 118670, "D": "an express highway with no intersections, usually having traffic routed on and off by means of a cloverleaf.", "S": ["artery ", "highway ", "interstate ", "road ", "superhighway ", "thoroughfare "], "A": []}
+{"index": 118670, "D": "an express highway with no intersections, usually having traffic routed on and off by means of a cloverleaf.", "S": ["artery", "highway", "interstate", "road", "superhighway", "thoroughfare"], "A": []}

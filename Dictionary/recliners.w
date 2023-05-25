@@ -1,1 +1,1 @@
-{"index": 263003, "D": "a person or thing that reclines. ", "S": ["Morris chair ", "captain's chair ", "elbow chair ", "wing chair "], "A": []}
+{"index": 263003, "D": "a person or thing that reclines. ", "S": ["Morris chair", "captain's chair", "elbow chair", "wing chair"], "A": []}

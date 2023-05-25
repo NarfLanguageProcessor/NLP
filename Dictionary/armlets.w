@@ -1,1 +1,1 @@
-{"index": 19966, "D": "an ornamental band worn on the arm,  especially a bracelet worn high on the arm, rather than on the wrist.", "S": ["ornament ", "trinket "], "A": []}
+{"index": 19966, "D": "an ornamental band worn on the arm,  especially a bracelet worn high on the arm, rather than on the wrist.", "S": ["ornament", "trinket"], "A": []}

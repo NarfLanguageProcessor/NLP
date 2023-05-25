@@ -1,1 +1,1 @@
-{"index": 45266, "D": "to cry out in a loud voice; shout", "S": ["christened ", "labeled ", "termed "], "A": []}
+{"index": 45266, "D": "to cry out in a loud voice; shout", "S": ["christened", "labeled", "termed"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293197, "D": "having or exercising skill", "S": ["capability ", "expertise ", "ingenuity ", "proficiency ", "skill ", "strength ", "talent "], "A": ["inability ", "incapacity ", "incompetence ", "ineptness ", "lack ", "weakness ", "ignorance ", "ineptitude ", "want "]}
+{"index": 293197, "D": "having or exercising skill", "S": ["capability", "expertise", "ingenuity", "proficiency", "skill", "strength", "talent"], "A": ["inability", "incapacity", "incompetence", "ineptness", "lack", "weakness", "ignorance", "ineptitude", "want"]}

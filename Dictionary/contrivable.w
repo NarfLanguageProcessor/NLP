@@ -1,1 +1,1 @@
-{"index": 67786, "D": "to plan with ingenuity; devise; invent", "S": ["cogitative ", "contemplative ", "deliberative ", "devisable ", "meditative ", "probing ", "reflective ", "ruminative ", "speculative ", "thinking "], "A": []}
+{"index": 67786, "D": "to plan with ingenuity; devise; invent", "S": ["cogitative", "contemplative", "deliberative", "devisable", "meditative", "probing", "reflective", "ruminative", "speculative", "thinking"], "A": []}

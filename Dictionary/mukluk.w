@@ -1,1 +1,1 @@
-{"index": 194853, "D": "a soft boot worn by the Inuit and Yupik in the American Arctic, often lined with fur and usually made of sealskin or reindeer skin.", "S": ["footwear "], "A": []}
+{"index": 194853, "D": "a soft boot worn by the Inuit and Yupik in the American Arctic, often lined with fur and usually made of sealskin or reindeer skin.", "S": ["footwear"], "A": []}

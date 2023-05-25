@@ -1,1 +1,1 @@
-{"index": 340876, "D": [], "S": ["apparent ", "assured ", "certain ", "conclusive ", "evident ", "indisputable ", "irrefragable ", "open ", "positive ", "sure ", "undeniable ", "unequivocal ", "unquestionable "], "A": ["doubtful "]}
+{"index": 340876, "D": [], "S": ["apparent", "assured", "certain", "conclusive", "evident", "indisputable", "irrefragable", "open", "positive", "sure", "undeniable", "unequivocal", "unquestionable"], "A": ["doubtful"]}

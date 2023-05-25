@@ -1,1 +1,1 @@
-{"index": 23147, "D": "the act, power, or property of attracting. ", "S": ["allure ", "appeal ", "attractiveness ", "interest "], "A": ["discouragement ", "repulsion "]}
+{"index": 23147, "D": "the act, power, or property of attracting. ", "S": ["allure", "appeal", "attractiveness", "interest"], "A": ["discouragement", "repulsion"]}

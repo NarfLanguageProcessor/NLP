@@ -1,1 +1,1 @@
-{"index": 169152, "D": "to set (a boat or ship) in the water.", "S": ["begun ", "floated ", "lofted ", "sent "], "A": []}
+{"index": 169152, "D": "to set (a boat or ship) in the water.", "S": ["begun", "floated", "lofted", "sent"], "A": []}

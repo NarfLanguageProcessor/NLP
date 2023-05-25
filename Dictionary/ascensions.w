@@ -1,1 +1,1 @@
-{"index": 20934, "D": "the act of ascending; ascent. ", "S": ["ascent "], "A": ["declension ", "decline "]}
+{"index": 20934, "D": "the act of ascending; ascent. ", "S": ["ascent"], "A": ["declension", "decline"]}

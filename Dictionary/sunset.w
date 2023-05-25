@@ -1,1 +1,1 @@
-{"index": 311194, "D": "the setting  or descent of the sun  below the horizon in the evening.", "S": ["dusk ", "nightfall ", "sundown ", "twilight "], "A": ["daybreak ", "sunrise "]}
+{"index": 311194, "D": "the setting  or descent of the sun  below the horizon in the evening.", "S": ["dusk", "nightfall", "sundown", "twilight"], "A": ["daybreak", "sunrise"]}

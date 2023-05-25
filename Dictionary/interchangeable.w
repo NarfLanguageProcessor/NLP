@@ -1,1 +1,1 @@
-{"index": 154604, "D": "(of two things) capable of being put or used in the place of each other", "S": ["compatible ", "synonymous "], "A": ["different ", "dissimilar "]}
+{"index": 154604, "D": "(of two things) capable of being put or used in the place of each other", "S": ["compatible", "synonymous"], "A": ["different", "dissimilar"]}

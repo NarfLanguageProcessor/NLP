@@ -1,1 +1,1 @@
-{"index": 127387, "D": "good fortune; success (used as a wish to a person starting on a journey, a new venture, etc.).", "S": ["adieu ", "adios ", "bye-bye ", "cheerio ", "farewell ", "gluckliche Reise ", "goodbye ", "happy landing ", "pleasant journey ", "tsetchem leshalom "], "A": []}
+{"index": 127387, "D": "good fortune; success (used as a wish to a person starting on a journey, a new venture, etc.).", "S": ["adieu", "adios", "bye-bye", "cheerio", "farewell", "gluckliche Reise", "goodbye", "happy landing", "pleasant journey", "tsetchem leshalom"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 283330, "D": "the scientific measuring and recording of the shock and vibrations of earthquakes.", "S": [], "A": []}

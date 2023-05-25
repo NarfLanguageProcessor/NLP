@@ -1,1 +1,1 @@
-{"index": 323422, "D": "a slight or petty quarrel.", "S": ["altercation ", "bickering ", "falling-out ", "quarrel ", "run-in ", "spat ", "squabble ", "tantrum ", "wrangle "], "A": ["agreement ", "harmony ", "peace ", "happiness ", "likeness ", "sameness ", "similarity "]}
+{"index": 323422, "D": "a slight or petty quarrel.", "S": ["altercation", "bickering", "falling-out", "quarrel", "run-in", "spat", "squabble", "tantrum", "wrangle"], "A": ["agreement", "harmony", "peace", "happiness", "likeness", "sameness", "similarity"]}

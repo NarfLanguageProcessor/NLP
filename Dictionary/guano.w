@@ -1,1 +1,1 @@
-{"index": 130729, "D": "a natural manure composed chiefly of the excrement of sea birds, found especially on islands near the Peruvian coast.", "S": ["dung ", "feces ", "manure ", "poop "], "A": []}
+{"index": 130729, "D": "a natural manure composed chiefly of the excrement of sea birds, found especially on islands near the Peruvian coast.", "S": ["dung", "feces", "manure", "poop"], "A": []}

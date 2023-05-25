@@ -1,1 +1,0 @@
-{"index": 217335, "D": "a rapid or intense outflow", "S": [], "A": []}

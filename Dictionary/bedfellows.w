@@ -1,0 +1,1 @@
+{"index": 30058, "D": "a person who shares one's bed.", "S": ["caller", "client", "companion", "customer", "inmate", "patron", "recipient", "tenant", "vacationer", "visitor"], "A": ["enemy", "manager", "opponent", "owner"]}

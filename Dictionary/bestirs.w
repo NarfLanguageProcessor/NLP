@@ -1,1 +1,1 @@
-{"index": 32599, "D": "to stir up; rouse to action (often used reflexively)", "S": ["flit ", "hum ", "scurry "], "A": ["dally ", "delay ", "procrastinate ", "rest ", "slow ", "wait "]}
+{"index": 32599, "D": "to stir up; rouse to action (often used reflexively)", "S": ["flit", "hum", "scurry"], "A": ["dally", "delay", "procrastinate", "rest", "slow", "wait"]}

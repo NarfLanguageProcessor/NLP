@@ -1,1 +1,1 @@
-{"index": 236324, "D": "a young swine of either sex, especially a domestic hog, Sus scrofa, typically weighing less than 300 pounds (136 kilograms).", "S": ["boar ", "hog ", "piglet ", "swine "], "A": []}
+{"index": 236324, "D": "a young swine of either sex, especially a domestic hog, Sus scrofa, typically weighing less than 300 pounds (136 kilograms).", "S": ["boar", "hog", "piglet", "swine"], "A": []}

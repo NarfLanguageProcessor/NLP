@@ -1,1 +1,1 @@
-{"index": 298268, "D": "to remove the ovaries of (an animal).", "S": ["castrate ", "neuter "], "A": ["adulterate ", "aid ", "assist ", "continue ", "corrupt ", "dirty ", "help ", "keep ", "pollute ", "remain "]}
+{"index": 298268, "D": "to remove the ovaries of (an animal).", "S": ["castrate", "neuter"], "A": ["adulterate", "aid", "assist", "continue", "corrupt", "dirty", "help", "keep", "pollute", "remain"]}

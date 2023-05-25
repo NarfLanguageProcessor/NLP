@@ -1,1 +1,1 @@
-{"index": 301471, "D": "a simple past tense and past participle of spin. ", "S": ["crocheted ", "meshed ", "purled ", "sewn ", "webbed ", "woven "], "A": []}
+{"index": 301471, "D": "a simple past tense and past participle of spin. ", "S": ["crocheted", "meshed", "purled", "sewn", "webbed", "woven"], "A": []}

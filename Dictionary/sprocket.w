@@ -1,1 +1,1 @@
-{"index": 301378, "D": "one tooth of such a wheel.", "S": ["cog ", "cogwheel ", "pinion "], "A": []}
+{"index": 301378, "D": "one tooth of such a wheel.", "S": ["cog", "cogwheel", "pinion"], "A": []}

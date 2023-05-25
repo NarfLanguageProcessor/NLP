@@ -1,1 +1,1 @@
-{"index": 221284, "D": "to spend  more than one can afford", "S": ["budget deficit "], "A": []}
+{"index": 221284, "D": "to spend  more than one can afford", "S": ["budget deficit"], "A": []}

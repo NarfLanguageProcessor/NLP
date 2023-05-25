@@ -1,1 +1,0 @@
-{"index": 210334, "D": "opposition to the increase and spread of knowledge.", "S": ["thought police "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 76802, "D": "unpleasantly moist or humid; damp and, often, chilly", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}
+{"index": 76802, "D": "unpleasantly moist or humid; damp and, often, chilly", "S": ["evaporation", "moisture"], "A": ["aridity", "dryness"]}

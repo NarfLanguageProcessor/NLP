@@ -1,1 +1,1 @@
-{"index": 101846, "D": "to picture mentally, especially some future event or events", "S": ["anticipate ", "conceive ", "contemplate ", "envisage ", "foresee ", "predict ", "realize ", "regard ", "see ", "visualize "], "A": ["disregard ", "ignore ", "look away ", "neglect "]}
+{"index": 101846, "D": "to picture mentally, especially some future event or events", "S": ["anticipate", "conceive", "contemplate", "envisage", "foresee", "predict", "realize", "regard", "see", "visualize"], "A": ["disregard", "ignore", "look away", "neglect"]}

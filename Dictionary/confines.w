@@ -1,1 +1,1 @@
-{"index": 65926, "D": "to enclose within bounds; limit or restrict", "S": ["bounds ", "environs ", "purview "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 65926, "D": "to enclose within bounds; limit or restrict", "S": ["bounds", "environs", "purview"], "A": ["center", "inside", "interior", "middle"]}

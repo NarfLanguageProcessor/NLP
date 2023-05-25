@@ -1,1 +1,1 @@
-{"index": 114104, "D": "to make flat. ", "S": ["crush ", "raze ", "smash ", "straighten "], "A": ["lose ", "blow up ", "erect ", "expand ", "incite ", "increase ", "lift ", "raise "]}
+{"index": 114104, "D": "to make flat. ", "S": ["crush", "raze", "smash", "straighten"], "A": ["lose", "blow up", "erect", "expand", "incite", "increase", "lift", "raise"]}

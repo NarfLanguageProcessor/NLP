@@ -1,1 +1,1 @@
-{"index": 144804, "D": "the body of an old or dismantled ship.", "S": ["blob ", "hull ", "hunk ", "skeleton ", "wreck "], "A": ["bit "]}
+{"index": 144804, "D": "the body of an old or dismantled ship.", "S": ["blob", "hull", "hunk", "skeleton", "wreck"], "A": ["bit"]}

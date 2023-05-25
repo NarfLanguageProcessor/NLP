@@ -1,1 +1,1 @@
-{"index": 92781, "D": "Also called", "S": ["bloomers ", "panties ", "pants ", "shorts ", "underwear "], "A": []}
+{"index": 92781, "D": "Also called", "S": ["bloomers", "panties", "pants", "shorts", "underwear"], "A": []}

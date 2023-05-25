@@ -1,1 +1,1 @@
-{"index": 260912, "D": "harsh; grating; rasping. ", "S": ["gravelly ", "gruff ", "hoarse ", "scratchy ", "throaty "], "A": ["soft "]}
+{"index": 260912, "D": "harsh; grating; rasping. ", "S": ["gravelly", "gruff", "hoarse", "scratchy", "throaty"], "A": ["soft"]}

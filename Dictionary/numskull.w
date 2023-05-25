@@ -1,1 +1,1 @@
-{"index": 209623, "D": "a variant spelling of numbskull", "S": ["clodpoll ", "numbskull "], "A": ["brain ", "genius "]}
+{"index": 209623, "D": "a variant spelling of numbskull", "S": ["clodpoll", "numbskull"], "A": ["brain", "genius"]}

@@ -1,1 +1,1 @@
-{"index": 362977, "D": "loss by use, wear, decay, etc.", "S": ["diffusion "], "A": ["collection ", "gathering ", "hoarding ", "saving ", "suppression "]}
+{"index": 362977, "D": "loss by use, wear, decay, etc.", "S": ["diffusion"], "A": ["collection", "gathering", "hoarding", "saving", "suppression"]}

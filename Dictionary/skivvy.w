@@ -1,1 +1,1 @@
-{"index": 293421, "D": "a man's cotton T-shirt.", "S": ["bond servant ", "bondslave ", "bondsman/woman ", "captive ", "chattel ", "serf "], "A": []}
+{"index": 293421, "D": "a man's cotton T-shirt.", "S": ["bond servant", "bondslave", "bondsman/woman", "captive", "chattel", "serf"], "A": []}

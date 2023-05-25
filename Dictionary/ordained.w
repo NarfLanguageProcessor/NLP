@@ -1,1 +1,1 @@
-{"index": 214206, "D": "having been invested with ministerial, priestly, or rabbinical functions", "S": ["appointed "], "A": []}
+{"index": 214206, "D": "having been invested with ministerial, priestly, or rabbinical functions", "S": ["appointed"], "A": []}

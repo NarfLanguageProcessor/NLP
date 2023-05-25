@@ -1,1 +1,1 @@
-{"index": 270175, "D": "to give a new surface  to.", "S": ["reappear "], "A": []}
+{"index": 270175, "D": "to give a new surface  to.", "S": ["reappear"], "A": []}

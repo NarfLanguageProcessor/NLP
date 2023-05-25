@@ -1,1 +1,1 @@
-{"index": 65491, "D": "agreed upon or approved", "S": ["acquiesce ", "coincide ", "jibe "], "A": ["clash ", "disagree ", "deny ", "disallow ", "disapprove ", "disconnect ", "disjoin ", "dissent ", "divide ", "oppose ", "part ", "protest ", "refuse ", "reject ", "separate "]}
+{"index": 65491, "D": "agreed upon or approved", "S": ["acquiesce", "coincide", "jibe"], "A": ["clash", "disagree", "deny", "disallow", "disapprove", "disconnect", "disjoin", "dissent", "divide", "oppose", "part", "protest", "refuse", "reject", "separate"]}

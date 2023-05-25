@@ -1,1 +1,1 @@
-{"index": 39210, "D": "Also called", "S": ["squadron "], "A": []}
+{"index": 39210, "D": "Also called", "S": ["squadron"], "A": []}

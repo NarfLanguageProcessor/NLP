@@ -1,1 +1,1 @@
-{"index": 34633, "D": "a road enabling motorists to avoid a city or other heavy traffic points or to drive around an obstruction.", "S": ["circumvent ", "ignore ", "neglect ", "omit ", "sidestep ", "skirt "], "A": []}
+{"index": 34633, "D": "a road enabling motorists to avoid a city or other heavy traffic points or to drive around an obstruction.", "S": ["circumvent", "ignore", "neglect", "omit", "sidestep", "skirt"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 75809, "D": "a short, heavy, slightly curved sword with a single cutting edge, formerly used by sailors.", "S": ["blade ", "dagger ", "saber "], "A": []}
+{"index": 75809, "D": "a short, heavy, slightly curved sword with a single cutting edge, formerly used by sailors.", "S": ["blade", "dagger", "saber"], "A": []}

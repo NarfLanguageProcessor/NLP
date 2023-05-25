@@ -1,1 +1,1 @@
-{"index": 120529, "D": "farthest. ", "S": ["farthest "], "A": ["closest ", "nearest "]}
+{"index": 120529, "D": "farthest. ", "S": ["farthest"], "A": ["closest", "nearest"]}

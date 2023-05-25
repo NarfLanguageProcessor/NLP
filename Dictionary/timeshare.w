@@ -1,1 +1,1 @@
-{"index": 323791, "D": "to use or occupy by time-sharing. ", "S": ["apartment ", "co-op ", "condo ", "townhouse "], "A": []}
+{"index": 323791, "D": "to use or occupy by time-sharing. ", "S": ["apartment", "co-op", "condo", "townhouse"], "A": []}

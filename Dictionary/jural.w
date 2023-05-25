@@ -1,1 +1,1 @@
-{"index": 162422, "D": "pertaining to law; legal.", "S": ["authorized ", "constitutional ", "justifiable ", "legal ", "permissible ", "proper ", "rightful ", "statutory ", "valid "], "A": ["illegal ", "illegitimate ", "incorrect ", "unacceptable ", "wrong "]}
+{"index": 162422, "D": "pertaining to law; legal.", "S": ["authorized", "constitutional", "justifiable", "legal", "permissible", "proper", "rightful", "statutory", "valid"], "A": ["illegal", "illegitimate", "incorrect", "unacceptable", "wrong"]}

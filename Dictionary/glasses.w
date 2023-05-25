@@ -1,1 +1,1 @@
-{"index": 125968, "D": "Also called", "S": ["bifocals ", "blinkers ", "cheaters ", "eyeglasses ", "frames ", "goggles ", "lorgnette ", "pince-nez ", "rims ", "shades ", "specs ", "spectacles "], "A": []}
+{"index": 125968, "D": "Also called", "S": ["bifocals", "blinkers", "cheaters", "eyeglasses", "frames", "goggles", "lorgnette", "pince-nez", "rims", "shades", "specs", "spectacles"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 109128, "D": "a person following a fad  or given to fads,  as one who seeks and adheres briefly to a passing variety of unusual diets, beliefs, etc.", "S": ["faith ", "religion ", "ritual "], "A": ["agnosticism ", "disbelief ", "disregard ", "disrespect "]}
+{"index": 109128, "D": "a person following a fad  or given to fads,  as one who seeks and adheres briefly to a passing variety of unusual diets, beliefs, etc.", "S": ["faith", "religion", "ritual"], "A": ["agnosticism", "disbelief", "disregard", "disrespect"]}

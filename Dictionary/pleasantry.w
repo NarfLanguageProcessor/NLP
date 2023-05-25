@@ -1,1 +1,1 @@
-{"index": 239618, "D": "good-humored teasing; banter.", "S": ["repartee ", "witticism "], "A": ["seriousness "]}
+{"index": 239618, "D": "good-humored teasing; banter.", "S": ["repartee", "witticism"], "A": ["seriousness"]}

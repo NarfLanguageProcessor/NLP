@@ -1,1 +1,1 @@
-{"index": 160930, "D": "characterized by jerks  or sudden starts; spasmodic.", "S": ["erratically ", "fitfully ", "haphazardly ", "infrequently ", "sporadically ", "unevenly "], "A": ["evenly ", "regularly "]}
+{"index": 160930, "D": "characterized by jerks  or sudden starts; spasmodic.", "S": ["erratically", "fitfully", "haphazardly", "infrequently", "sporadically", "unevenly"], "A": ["evenly", "regularly"]}

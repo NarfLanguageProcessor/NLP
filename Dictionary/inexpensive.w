@@ -1,1 +1,1 @@
-{"index": 151701, "D": "not expensive;  not high in price; costing little.", "S": ["cheap ", "economical ", "low-cost ", "low-priced ", "modest ", "popular ", "reasonable "], "A": ["expensive ", "unreasonable "]}
+{"index": 151701, "D": "not expensive;  not high in price; costing little.", "S": ["cheap", "economical", "low-cost", "low-priced", "modest", "popular", "reasonable"], "A": ["expensive", "unreasonable"]}

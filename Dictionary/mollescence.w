@@ -1,1 +1,1 @@
-{"index": 191522, "D": "softening or tending to soften.", "S": ["maceration ", "susurration ", "undertone "], "A": []}
+{"index": 191522, "D": "softening or tending to soften.", "S": ["maceration", "susurration", "undertone"], "A": []}

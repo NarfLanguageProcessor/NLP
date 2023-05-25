@@ -1,1 +1,1 @@
-{"index": 71573, "D": "frightened by threats, violence, superior strength or ability, etc.; intimidated or overawed", "S": ["anxious ", "apprehensive ", "frightened ", "nervous ", "scared ", "shocked ", "suspicious ", "timid "], "A": ["brave ", "calm ", "happy ", "unafraid ", "unworried "]}
+{"index": 71573, "D": "frightened by threats, violence, superior strength or ability, etc.; intimidated or overawed", "S": ["anxious", "apprehensive", "frightened", "nervous", "scared", "shocked", "suspicious", "timid"], "A": ["brave", "calm", "happy", "unafraid", "unworried"]}

@@ -1,1 +1,1 @@
-{"index": 65817, "D": "a person on whom something is conferred,  especially the recipient of an academic degree.", "S": ["delivery ", "passenger ", "shipment ", "tourist ", "visitor "], "A": ["departure ", "disappearance ", "leave "]}
+{"index": 65817, "D": "a person on whom something is conferred,  especially the recipient of an academic degree.", "S": ["delivery", "passenger", "shipment", "tourist", "visitor"], "A": ["departure", "disappearance", "leave"]}

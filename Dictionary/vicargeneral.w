@@ -1,1 +1,0 @@
-{"index": 359346, "D": "a priest deputized by a bishop to assist him in the administration of a diocese.", "S": [], "A": []}

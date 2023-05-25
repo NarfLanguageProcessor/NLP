@@ -1,1 +1,1 @@
-{"index": 363595, "D": "a weather vane with the figure of a rooster on it.", "S": ["fan ", "feather "], "A": []}
+{"index": 363595, "D": "a weather vane with the figure of a rooster on it.", "S": ["fan", "feather"], "A": []}

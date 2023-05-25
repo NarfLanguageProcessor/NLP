@@ -1,1 +1,1 @@
-{"index": 269799, "D": "the quality or state of being responsive. ", "S": ["impartiality ", "receptivity "], "A": ["disagreement ", "disbelief "]}
+{"index": 269799, "D": "the quality or state of being responsive. ", "S": ["impartiality", "receptivity"], "A": ["disagreement", "disbelief"]}

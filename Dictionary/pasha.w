@@ -1,1 +1,1 @@
-{"index": 227203, "D": "a title, placed after the name, formerly held by high officials in countries under Turkish rule.", "S": ["emperor ", "monarch ", "sultan "], "A": []}
+{"index": 227203, "D": "a title, placed after the name, formerly held by high officials in countries under Turkish rule.", "S": ["emperor", "monarch", "sultan"], "A": []}

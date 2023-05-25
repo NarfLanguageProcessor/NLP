@@ -1,1 +1,1 @@
-{"index": 51523, "D": "drooping, as a flower; nodding.", "S": ["enervated ", "limp ", "weak "], "A": ["upright "]}
+{"index": 51523, "D": "drooping, as a flower; nodding.", "S": ["enervated", "limp", "weak"], "A": ["upright"]}

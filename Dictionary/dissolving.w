@@ -1,1 +1,1 @@
-{"index": 89643, "D": "to make a solution of, as by mixing with a liquid; pass into solution", "S": ["abandonment ", "abolition ", "annulment ", "dissolution ", "elimination ", "repeal ", "retirement ", "reversal ", "revocation "], "A": ["enactment ", "validation ", "confirmation "]}
+{"index": 89643, "D": "to make a solution of, as by mixing with a liquid; pass into solution", "S": ["abandonment", "abolition", "annulment", "dissolution", "elimination", "repeal", "retirement", "reversal", "revocation"], "A": ["enactment", "validation", "confirmation"]}

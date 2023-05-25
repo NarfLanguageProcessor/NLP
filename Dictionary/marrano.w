@@ -1,1 +1,0 @@
-{"index": 180332, "D": "a Spanish or Portuguese Jew who was converted to Christianity during the late Middle Ages, usually under threat of death or persecution, especially one who continued to adhere to Judaism in secret.", "S": [], "A": []}

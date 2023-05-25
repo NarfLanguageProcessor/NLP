@@ -1,1 +1,1 @@
-{"index": 70240, "D": "a style of dress, including accessories and hairdos, especially that peculiar to a nation, region, group, or historical period.", "S": ["attired ", "cloaked ", "covered ", "draped ", "dressed ", "veiled "], "A": ["exposed ", "naked ", "unclothed ", "undressed "]}
+{"index": 70240, "D": "a style of dress, including accessories and hairdos, especially that peculiar to a nation, region, group, or historical period.", "S": ["attired", "cloaked", "covered", "draped", "dressed", "veiled"], "A": ["exposed", "naked", "unclothed", "undressed"]}

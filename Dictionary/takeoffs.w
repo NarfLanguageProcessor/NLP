@@ -1,1 +1,1 @@
-{"index": 315500, "D": "a taking or setting off; the leaving of the ground, as in leaping or in beginning a flight in an airplane.", "S": ["blastoff ", "departure ", "liftoff "], "A": ["arrival ", "coming ", "landing "]}
+{"index": 315500, "D": "a taking or setting off; the leaving of the ground, as in leaping or in beginning a flight in an airplane.", "S": ["blastoff", "departure", "liftoff"], "A": ["arrival", "coming", "landing"]}

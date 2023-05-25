@@ -1,1 +1,1 @@
-{"index": 259988, "D": "(used as an exclamation of encouragement to a player or team.)", "S": ["approve ", "encourage ", "hurrah "], "A": []}
+{"index": 259988, "D": "(used as an exclamation of encouragement to a player or team.)", "S": ["approve", "encourage", "hurrah"], "A": []}

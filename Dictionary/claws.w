@@ -1,1 +1,1 @@
-{"index": 59604, "D": "a sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird.", "S": ["control ", "custody ", "grasp ", "grip ", "hands ", "keeping ", "possession ", "sway "], "A": ["misconception ", "misunderstanding ", "release "]}
+{"index": 59604, "D": "a sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird.", "S": ["control", "custody", "grasp", "grip", "hands", "keeping", "possession", "sway"], "A": ["misconception", "misunderstanding", "release"]}

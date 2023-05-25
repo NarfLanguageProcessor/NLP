@@ -1,1 +1,1 @@
-{"index": 77491, "D": "no longer living; deprived of life", "S": ["apathy ", "laziness ", "paralysis ", "passivity ", "sluggishness "], "A": ["action ", "busyness ", "liveliness "]}
+{"index": 77491, "D": "no longer living; deprived of life", "S": ["apathy", "laziness", "paralysis", "passivity", "sluggishness"], "A": ["action", "busyness", "liveliness"]}

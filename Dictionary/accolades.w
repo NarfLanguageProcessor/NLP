@@ -1,1 +1,1 @@
-{"index": 1626, "D": "any award, honor, or laudatory notice", "S": ["distinction ", "kudos "], "A": []}
+{"index": 1626, "D": "any award, honor, or laudatory notice", "S": ["distinction", "kudos"], "A": []}

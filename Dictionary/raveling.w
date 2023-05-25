@@ -1,1 +1,1 @@
-{"index": 261243, "D": "something raveled  out, as a thread drawn or separated from a knitted or woven fabric.", "S": ["disentangle ", "free ", "loosen ", "unbraid ", "unravel ", "unsnarl ", "untangle ", "untwine ", "untwist ", "unweave ", "unwind "], "A": ["tangle ", "twist ", "wind "]}
+{"index": 261243, "D": "something raveled  out, as a thread drawn or separated from a knitted or woven fabric.", "S": ["disentangle", "free", "loosen", "unbraid", "unravel", "unsnarl", "untangle", "untwine", "untwist", "unweave", "unwind"], "A": ["tangle", "twist", "wind"]}

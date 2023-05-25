@@ -1,0 +1,1 @@
+{"index": 20072, "D": "an odor arising from spices, plants, cooking, etc., especially an agreeable odor; fragrance.", "S": ["bouquet", "odor", "perfume", "scent", "spice"], "A": ["odor", "stench", "stink"]}

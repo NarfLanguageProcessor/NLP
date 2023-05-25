@@ -1,1 +1,1 @@
-{"index": 6781, "D": "third person singular present indicative of ail. ", "S": ["afflict ", "bother "], "A": ["aid ", "help ", "assist ", "make happy ", "please ", "soothe "]}
+{"index": 6781, "D": "third person singular present indicative of ail. ", "S": ["afflict", "bother"], "A": ["aid", "help", "assist", "make happy", "please", "soothe"]}

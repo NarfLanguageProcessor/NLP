@@ -1,1 +1,1 @@
-{"index": 133360, "D": "a place where people gather for casual socializing or recreation", "S": ["haunt ", "watering hole "], "A": []}
+{"index": 133360, "D": "a place where people gather for casual socializing or recreation", "S": ["haunt", "watering hole"], "A": []}

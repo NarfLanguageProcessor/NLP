@@ -1,1 +1,0 @@
-{"index": 273840, "D": "an isolated rock outcrop on a glacier", "S": [], "A": []}

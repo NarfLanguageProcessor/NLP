@@ -1,1 +1,1 @@
-{"index": 220358, "D": "an overnight  stay or trip.", "S": ["equipment ", "gear ", "luggage ", "paraphernalia "], "A": []}
+{"index": 220358, "D": "an overnight  stay or trip.", "S": ["equipment", "gear", "luggage", "paraphernalia"], "A": []}

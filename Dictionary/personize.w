@@ -1,1 +1,1 @@
-{"index": 232003, "D": [], "S": ["demonstrate ", "embody ", "illustrate ", "prove ", "reveal ", "signify "], "A": ["conceal ", "hide ", "contradict ", "cover ", "deny ", "destroy ", "disprove ", "invalidate ", "veto "]}
+{"index": 232003, "D": [], "S": ["demonstrate", "embody", "illustrate", "prove", "reveal", "signify"], "A": ["conceal", "hide", "contradict", "cover", "deny", "destroy", "disprove", "invalidate", "veto"]}

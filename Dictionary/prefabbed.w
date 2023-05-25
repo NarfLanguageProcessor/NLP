@@ -1,1 +1,1 @@
-{"index": 247473, "D": "prefabricated. ", "S": ["assemble ", "complete ", "construct ", "create ", "fabricate ", "mass-produce ", "synthesize "], "A": ["break ", "demolish ", "destroy ", "divide ", "ruin ", "separate ", "abandon ", "fail ", "forget ", "neglect ", "raze "]}
+{"index": 247473, "D": "prefabricated. ", "S": ["assemble", "complete", "construct", "create", "fabricate", "mass-produce", "synthesize"], "A": ["break", "demolish", "destroy", "divide", "ruin", "separate", "abandon", "fail", "forget", "neglect", "raze"]}

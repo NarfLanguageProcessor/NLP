@@ -1,1 +1,1 @@
-{"index": 175015, "D": [], "S": ["old-timer "], "A": ["amateur ", "greenhorn ", "rookie "]}
+{"index": 175015, "D": [], "S": ["old-timer"], "A": ["amateur", "greenhorn", "rookie"]}

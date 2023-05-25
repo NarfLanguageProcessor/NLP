@@ -1,1 +1,1 @@
-{"index": 244982, "D": "any solid substance reduced to a state of fine, loose particles by crushing, grinding, disintegration, etc.", "S": ["crumb ", "dust "], "A": ["solid "]}
+{"index": 244982, "D": "any solid substance reduced to a state of fine, loose particles by crushing, grinding, disintegration, etc.", "S": ["crumb", "dust"], "A": ["solid"]}

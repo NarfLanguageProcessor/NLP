@@ -1,1 +1,1 @@
-{"index": 133053, "D": "a cut of meat from the heavy-muscled part of a hog's rear quarter, between hip and hock, usually cured.", "S": ["hot dog "], "A": []}
+{"index": 133053, "D": "a cut of meat from the heavy-muscled part of a hog's rear quarter, between hip and hock, usually cured.", "S": ["hot dog"], "A": []}

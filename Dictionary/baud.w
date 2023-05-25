@@ -1,1 +1,1 @@
-{"index": 29203, "D": "a unit used to measure the speed of signaling or data transfer, equal to the number of pulses or bits per second", "S": ["bandwidth ", "modem speed "], "A": []}
+{"index": 29203, "D": "a unit used to measure the speed of signaling or data transfer, equal to the number of pulses or bits per second", "S": ["bandwidth", "modem speed"], "A": []}

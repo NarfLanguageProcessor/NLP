@@ -1,1 +1,1 @@
-{"index": 248749, "D": "serving or designed to prepare", "S": ["preliminary ", "previous "], "A": ["auxiliary ", "supplementary "]}
+{"index": 248749, "D": "serving or designed to prepare", "S": ["preliminary", "previous"], "A": ["auxiliary", "supplementary"]}

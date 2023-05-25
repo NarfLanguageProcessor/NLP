@@ -1,1 +1,1 @@
-{"index": 4165, "D": "worthy of admiration;  inspiring approval, reverence, or affection.", "S": ["famously ", "magnificently ", "splendidly "], "A": ["awkwardly ", "badly ", "poorly "]}
+{"index": 4165, "D": "worthy of admiration;  inspiring approval, reverence, or affection.", "S": ["famously", "magnificently", "splendidly"], "A": ["awkwardly", "badly", "poorly"]}

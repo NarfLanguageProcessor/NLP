@@ -1,1 +1,1 @@
-{"index": 134596, "D": "a covering or decoration for the head", "S": ["hat ", "helmet ", "tiara ", "turban "], "A": []}
+{"index": 134596, "D": "a covering or decoration for the head", "S": ["hat", "helmet", "tiara", "turban"], "A": []}

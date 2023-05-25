@@ -1,1 +1,1 @@
-{"index": 290442, "D": "a list or catalog of syllables.", "S": ["ABCs ", "characters ", "elements ", "fundamentals ", "hieroglyphs ", "ideograph ", "morphemes ", "phonemes ", "pictograph ", "rune ", "signs ", "symbols "], "A": []}
+{"index": 290442, "D": "a list or catalog of syllables.", "S": ["ABCs", "characters", "elements", "fundamentals", "hieroglyphs", "ideograph", "morphemes", "phonemes", "pictograph", "rune", "signs", "symbols"], "A": []}

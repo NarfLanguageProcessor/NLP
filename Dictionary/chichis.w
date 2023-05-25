@@ -1,1 +1,1 @@
-{"index": 54131, "D": "showily or affectedly elegant or trendy; pretentious.", "S": ["elegance ", "flair ", "grace ", "mode ", "sophistication ", "taste ", "thing "], "A": ["dislike ", "hate ", "hatred ", "ineptness ", "dullness "]}
+{"index": 54131, "D": "showily or affectedly elegant or trendy; pretentious.", "S": ["elegance", "flair", "grace", "mode", "sophistication", "taste", "thing"], "A": ["dislike", "hate", "hatred", "ineptness", "dullness"]}

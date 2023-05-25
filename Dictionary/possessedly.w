@@ -1,1 +1,0 @@
-{"index": 243844, "D": "spurred or moved by a strong feeling, madness, or a supernatural power (often followed by by, of, or with)", "S": [], "A": []}

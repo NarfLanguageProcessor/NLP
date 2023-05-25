@@ -1,1 +1,1 @@
-{"index": 179516, "D": "a person who kills another human being.", "S": ["assassin ", "butcher ", "cut-throat ", "enforcer ", "executioner ", "killer ", "murderess ", "slaughterer ", "slayer ", "triggerman "], "A": []}
+{"index": 179516, "D": "a person who kills another human being.", "S": ["assassin", "butcher", "cut-throat", "enforcer", "executioner", "killer", "murderess", "slaughterer", "slayer", "triggerman"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 113609, "D": "a person or thing that fixes,  sets, adjusts, or repairs.", "S": ["arbitrator ", "go-between ", "mediator ", "moderator ", "referee "], "A": []}
+{"index": 113609, "D": "a person or thing that fixes,  sets, adjusts, or repairs.", "S": ["arbitrator", "go-between", "mediator", "moderator", "referee"], "A": []}

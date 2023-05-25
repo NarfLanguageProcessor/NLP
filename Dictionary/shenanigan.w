@@ -1,1 +1,1 @@
-{"index": 288030, "D": "deceit; trickery.", "S": ["antic ", "escapade ", "gag ", "high jinks ", "horseplay "], "A": ["seriousness ", "work "]}
+{"index": 288030, "D": "deceit; trickery.", "S": ["antic", "escapade", "gag", "high jinks", "horseplay"], "A": ["seriousness", "work"]}

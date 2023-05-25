@@ -1,1 +1,1 @@
-{"index": 265959, "D": "to work up (old material) in a new form.", "S": ["restate ", "reuse "], "A": ["deny ", "refuse "]}
+{"index": 265959, "D": "to work up (old material) in a new form.", "S": ["restate", "reuse"], "A": ["deny", "refuse"]}

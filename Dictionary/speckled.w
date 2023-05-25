@@ -1,1 +1,0 @@
-{"index": 298827, "D": "a small speck,  spot, or mark, as on skin.", "S": ["flecked ", "mottled ", "sprinkled "], "A": ["plain "]}

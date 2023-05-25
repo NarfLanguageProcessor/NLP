@@ -1,1 +1,1 @@
-{"index": 91273, "D": "the state of being domestic;  domestic or home life.", "S": ["domestication "], "A": []}
+{"index": 91273, "D": "the state of being domestic;  domestic or home life.", "S": ["domestication"], "A": []}

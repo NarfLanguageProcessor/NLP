@@ -1,1 +1,1 @@
-{"index": 181223, "D": "a plural of matrix", "S": ["cast ", "forge ", "form ", "grid ", "model ", "mold ", "origin ", "pattern ", "source ", "womb "], "A": ["disorganization ", "effect ", "end ", "result "]}
+{"index": 181223, "D": "a plural of matrix", "S": ["cast", "forge", "form", "grid", "model", "mold", "origin", "pattern", "source", "womb"], "A": ["disorganization", "effect", "end", "result"]}

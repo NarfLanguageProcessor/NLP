@@ -1,1 +1,1 @@
-{"index": 176762, "D": "an act or instance of machinating. ", "S": ["conspiracy ", "intrigue ", "ploy ", "ruse ", "stratagem "], "A": ["frankness ", "honesty ", "ignorance "]}
+{"index": 176762, "D": "an act or instance of machinating. ", "S": ["conspiracy", "intrigue", "ploy", "ruse", "stratagem"], "A": ["frankness", "honesty", "ignorance"]}

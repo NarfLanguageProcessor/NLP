@@ -1,1 +1,1 @@
-{"index": 221462, "D": "an excessive supply. ", "S": ["flooded ", "inundated "], "A": []}
+{"index": 221462, "D": "an excessive supply. ", "S": ["flooded", "inundated"], "A": []}

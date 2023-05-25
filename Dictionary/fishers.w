@@ -1,1 +1,1 @@
-{"index": 113346, "D": "any animal that catches fish  for food.", "S": ["trawler "], "A": []}
+{"index": 113346, "D": "any animal that catches fish  for food.", "S": ["trawler"], "A": []}

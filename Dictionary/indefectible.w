@@ -1,1 +1,1 @@
-{"index": 150713, "D": "not defectible; not liable to defect or failure.", "S": ["excellent ", "fitting ", "optimal ", "quintessential "], "A": ["actual ", "common ", "flawed ", "imperfect ", "incorrect ", "problematic ", "wrong "]}
+{"index": 150713, "D": "not defectible; not liable to defect or failure.", "S": ["excellent", "fitting", "optimal", "quintessential"], "A": ["actual", "common", "flawed", "imperfect", "incorrect", "problematic", "wrong"]}

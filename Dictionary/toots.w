@@ -1,1 +1,1 @@
-{"index": 325800, "D": "an affectionate or familiar term of address; honey; baby (sometimes offensive when used to strangers, casual acquaintances, subordinates, etc., especially by a male to a female).", "S": ["honk "], "A": []}
+{"index": 325800, "D": "an affectionate or familiar term of address; honey; baby (sometimes offensive when used to strangers, casual acquaintances, subordinates, etc., especially by a male to a female).", "S": ["honk"], "A": []}

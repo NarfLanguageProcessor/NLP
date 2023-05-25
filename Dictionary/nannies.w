@@ -1,1 +1,1 @@
-{"index": 196755, "D": "a person, usually with special training, employed to care for children in a household.", "S": ["au pair ", "governess "], "A": []}
+{"index": 196755, "D": "a person, usually with special training, employed to care for children in a household.", "S": ["au pair", "governess"], "A": []}

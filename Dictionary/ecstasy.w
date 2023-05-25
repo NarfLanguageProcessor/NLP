@@ -1,1 +1,1 @@
-{"index": 95445, "D": "rapturous delight.", "S": ["elation ", "euphoria ", "happiness ", "joy ", "rapture "], "A": ["depression ", "misery ", "sadness ", "sorrow ", "unhappiness ", "woe ", "apathy ", "calmness ", "coolness ", "hell ", "indifference "]}
+{"index": 95445, "D": "rapturous delight.", "S": ["elation", "euphoria", "happiness", "joy", "rapture"], "A": ["depression", "misery", "sadness", "sorrow", "unhappiness", "woe", "apathy", "calmness", "coolness", "hell", "indifference"]}

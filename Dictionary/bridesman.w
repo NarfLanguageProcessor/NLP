@@ -1,1 +1,1 @@
-{"index": 40662, "D": [], "S": ["groomsman ", "paranymph "], "A": []}
+{"index": 40662, "D": [], "S": ["groomsman", "paranymph"], "A": []}

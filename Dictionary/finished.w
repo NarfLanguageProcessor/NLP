@@ -1,1 +1,1 @@
-{"index": 113016, "D": "ended or completed.", "S": ["flawless ", "polished "], "A": ["crude ", "incomplete ", "uncultivated ", "unfinished ", "unrefined ", "unsophisticated "]}
+{"index": 113016, "D": "ended or completed.", "S": ["flawless", "polished"], "A": ["crude", "incomplete", "uncultivated", "unfinished", "unrefined", "unsophisticated"]}

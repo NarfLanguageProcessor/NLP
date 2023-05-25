@@ -1,1 +1,1 @@
-{"index": 72514, "D": "the Apostles' Creed or the Nicene Creed.", "S": ["creed ", "philosophy ", "tenet "], "A": []}
+{"index": 72514, "D": "the Apostles' Creed or the Nicene Creed.", "S": ["creed", "philosophy", "tenet"], "A": []}

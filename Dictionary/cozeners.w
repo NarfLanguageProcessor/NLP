@@ -1,1 +1,1 @@
-{"index": 71743, "D": "to cheat, deceive, or trick.", "S": ["bilk ", "cheater ", "con artist ", "deceiver ", "defrauder ", "fraudster ", "grifter ", "scammer ", "shark ", "swindler ", "trickster ", "victimizer "], "A": []}
+{"index": 71743, "D": "to cheat, deceive, or trick.", "S": ["bilk", "cheater", "con artist", "deceiver", "defrauder", "fraudster", "grifter", "scammer", "shark", "swindler", "trickster", "victimizer"], "A": []}

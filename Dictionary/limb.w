@@ -1,1 +1,1 @@
-{"index": 172290, "D": "a part or member of an animal body distinct from the head and trunk, as a leg, arm, or wing", "S": ["arm ", "branch ", "extremity ", "leg ", "stem ", "wheel ", "wing "], "A": ["whole "]}
+{"index": 172290, "D": "a part or member of an animal body distinct from the head and trunk, as a leg, arm, or wing", "S": ["arm", "branch", "extremity", "leg", "stem", "wheel", "wing"], "A": ["whole"]}

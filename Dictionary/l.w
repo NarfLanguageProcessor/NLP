@@ -1,1 +1,1 @@
-{"index": 166589, "D": "large. ", "S": ["adventurous ", "audacious ", "bold ", "courageous ", "daring ", "fearless ", "gallant ", "gritty ", "heroic "], "A": ["afraid ", "cautious ", "cowardly ", "fearful ", "meek ", "shy ", "timid ", "unadventurous ", "weak "]}
+{"index": 166589, "D": "large. ", "S": ["adventurous", "audacious", "bold", "courageous", "daring", "fearless", "gallant", "gritty", "heroic"], "A": ["afraid", "cautious", "cowardly", "fearful", "meek", "shy", "timid", "unadventurous", "weak"]}

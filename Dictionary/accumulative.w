@@ -1,1 +1,1 @@
-{"index": 1827, "D": "tending to accumulate  or arising from accumulation;  cumulative.", "S": ["additional ", "additive ", "cumulative ", "incremental "], "A": []}
+{"index": 1827, "D": "tending to accumulate  or arising from accumulation;  cumulative.", "S": ["additional", "additive", "cumulative", "incremental"], "A": []}

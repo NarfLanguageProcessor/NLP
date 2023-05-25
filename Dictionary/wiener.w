@@ -1,1 +1,1 @@
-{"index": 365577, "D": "frankfurter. ", "S": ["dog ", "frank ", "link ", "sausage ", "wienerwurst "], "A": []}
+{"index": 365577, "D": "frankfurter. ", "S": ["dog", "frank", "link", "sausage", "wienerwurst"], "A": []}

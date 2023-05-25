@@ -1,1 +1,1 @@
-{"index": 322462, "D": "plural of that. ", "S": ["the above-mentioned ", "the particular ", "these "], "A": []}
+{"index": 322462, "D": "plural of that. ", "S": ["the above-mentioned", "the particular", "these"], "A": []}

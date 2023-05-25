@@ -1,1 +1,1 @@
-{"index": 305456, "D": [], "S": ["bitter ", "blustery ", "damp ", "frigid ", "murky ", "rainy ", "tempestuous ", "torrid ", "turbulent ", "violent ", "wet ", "windy "], "A": ["calm ", "dry ", "gentle ", "mild ", "moderate "]}
+{"index": 305456, "D": [], "S": ["bitter", "blustery", "damp", "frigid", "murky", "rainy", "tempestuous", "torrid", "turbulent", "violent", "wet", "windy"], "A": ["calm", "dry", "gentle", "mild", "moderate"]}

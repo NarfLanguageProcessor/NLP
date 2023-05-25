@@ -1,1 +1,1 @@
-{"index": 262950, "D": "to have care, concern, or regard (often followed by of, with, or a clause).", "S": ["conjecture ", "hunch "], "A": ["proof ", "reality ", "truth "]}
+{"index": 262950, "D": "to have care, concern, or regard (often followed by of, with, or a clause).", "S": ["conjecture", "hunch"], "A": ["proof", "reality", "truth"]}

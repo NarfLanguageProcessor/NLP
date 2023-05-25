@@ -1,1 +1,1 @@
-{"index": 261293, "D": "a narrow steep-sided valley commonly eroded by running water.", "S": ["abyss ", "canyon ", "chasm ", "crevasse ", "crevice ", "ditch ", "gorge ", "gully ", "valley "], "A": ["plain "]}
+{"index": 261293, "D": "a narrow steep-sided valley commonly eroded by running water.", "S": ["abyss", "canyon", "chasm", "crevasse", "crevice", "ditch", "gorge", "gully", "valley"], "A": ["plain"]}

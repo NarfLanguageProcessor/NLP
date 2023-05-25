@@ -1,1 +1,0 @@
-{"index": 307835, "D": "quiet; inhibited; repressed; controlled", "S": [], "A": []}

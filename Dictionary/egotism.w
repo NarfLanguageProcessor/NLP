@@ -1,1 +1,1 @@
-{"index": 96271, "D": "excessive and objectionable reference to oneself in conversation or writing; conceit; boastfulness.", "S": ["arrogance ", "narcissism ", "self-absorption ", "selfishness "], "A": ["humility ", "modesty ", "shyness ", "timidity "]}
+{"index": 96271, "D": "excessive and objectionable reference to oneself in conversation or writing; conceit; boastfulness.", "S": ["arrogance", "narcissism", "self-absorption", "selfishness"], "A": ["humility", "modesty", "shyness", "timidity"]}

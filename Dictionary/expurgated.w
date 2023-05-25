@@ -1,1 +1,1 @@
-{"index": 108077, "D": "to amend by removing words, passages, etc., deemed offensive or objectionable", "S": ["deficient ", "fragmentary ", "inadequate ", "insufficient ", "lacking ", "partial ", "sketchy "], "A": ["adequate ", "ample ", "complete ", "enough ", "sufficient ", "total ", "whole "]}
+{"index": 108077, "D": "to amend by removing words, passages, etc., deemed offensive or objectionable", "S": ["deficient", "fragmentary", "inadequate", "insufficient", "lacking", "partial", "sketchy"], "A": ["adequate", "ample", "complete", "enough", "sufficient", "total", "whole"]}

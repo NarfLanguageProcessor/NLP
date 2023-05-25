@@ -1,1 +1,1 @@
-{"index": 86579, "D": "the science of deciphering old official documents, as charters, and of determining their authenticity, age, or the like.", "S": ["diplomacy "], "A": []}
+{"index": 86579, "D": "the science of deciphering old official documents, as charters, and of determining their authenticity, age, or the like.", "S": ["diplomacy"], "A": []}

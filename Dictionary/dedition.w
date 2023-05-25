@@ -1,1 +1,1 @@
-{"index": 78909, "D": [], "S": ["abandonment ", "abdication ", "acquiescence ", "capitulation ", "delivery ", "renunciation ", "submission "], "A": ["fight "]}
+{"index": 78909, "D": [], "S": ["abandonment", "abdication", "acquiescence", "capitulation", "delivery", "renunciation", "submission"], "A": ["fight"]}

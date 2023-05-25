@@ -1,1 +1,1 @@
-{"index": 91314, "D": "Also called", "S": ["dictatorship ", "dominance ", "influence ", "oppression ", "repression ", "sovereignty ", "superiority ", "supremacy ", "tyranny "], "A": ["democracy ", "inferiority ", "subservience ", "weakness ", "inability ", "subordination "]}
+{"index": 91314, "D": "Also called", "S": ["dictatorship", "dominance", "influence", "oppression", "repression", "sovereignty", "superiority", "supremacy", "tyranny"], "A": ["democracy", "inferiority", "subservience", "weakness", "inability", "subordination"]}

@@ -1,1 +1,1 @@
-{"index": 90860, "D": "a person employed by a municipal pound, humane society, or the like, to find and impound stray or homeless dogs, cats, etc.", "S": ["aide ", "appointee ", "commissioner ", "delegate ", "minister ", "representative "], "A": ["chief ", "manager "]}
+{"index": 90860, "D": "a person employed by a municipal pound, humane society, or the like, to find and impound stray or homeless dogs, cats, etc.", "S": ["aide", "appointee", "commissioner", "delegate", "minister", "representative"], "A": ["chief", "manager"]}

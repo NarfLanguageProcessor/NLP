@@ -1,1 +1,1 @@
-{"index": 78386, "D": "to make out the meaning of (poor or partially obliterated writing, etc.)", "S": ["accuracy ", "brightness ", "certainty ", "directness ", "lucidity ", "precision ", "purity ", "simplicity ", "transparency "], "A": ["inaccuracy ", "unintelligibility "]}
+{"index": 78386, "D": "to make out the meaning of (poor or partially obliterated writing, etc.)", "S": ["accuracy", "brightness", "certainty", "directness", "lucidity", "precision", "purity", "simplicity", "transparency"], "A": ["inaccuracy", "unintelligibility"]}

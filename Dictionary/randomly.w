@@ -1,1 +1,1 @@
-{"index": 260534, "D": "without definite aim, reason, sense, or pattern", "S": ["anyway "], "A": []}
+{"index": 260534, "D": "without definite aim, reason, sense, or pattern", "S": ["anyway"], "A": []}

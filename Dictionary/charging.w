@@ -1,1 +1,1 @@
-{"index": 52817, "D": "to impose or ask as a price or fee", "S": ["grumbling ", "protesting ", "whining "], "A": ["appreciating ", "enjoying ", "praising "]}
+{"index": 52817, "D": "to impose or ask as a price or fee", "S": ["grumbling", "protesting", "whining"], "A": ["appreciating", "enjoying", "praising"]}

@@ -1,1 +1,1 @@
-{"index": 289415, "D": "a solid or louvered movable cover for a window.", "S": ["curtain "], "A": []}
+{"index": 289415, "D": "a solid or louvered movable cover for a window.", "S": ["curtain"], "A": []}

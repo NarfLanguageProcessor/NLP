@@ -1,1 +1,1 @@
-{"index": 246118, "D": "to hasten the occurrence of; bring about prematurely, hastily, or suddenly", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}
+{"index": 246118, "D": "to hasten the occurrence of; bring about prematurely, hastily, or suddenly", "S": ["downward"], "A": ["above", "cheerful", "cheery", "happy", "heartened", "higher"]}

@@ -1,1 +1,1 @@
-{"index": 1969, "D": "having no antennae.", "S": ["acerate ", "acerose ", "aciculated ", "acuminate ", "acute ", "cuspated ", "cuspidated ", "mucronate ", "needle-shaped ", "pointy ", "sharp "], "A": []}
+{"index": 1969, "D": "having no antennae.", "S": ["acerate", "acerose", "aciculated", "acuminate", "acute", "cuspated", "cuspidated", "mucronate", "needle-shaped", "pointy", "sharp"], "A": []}

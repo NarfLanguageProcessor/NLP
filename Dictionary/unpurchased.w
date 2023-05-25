@@ -1,1 +1,0 @@
-{"index": 348837, "D": "to acquire by the payment of money or its equivalent; buy.", "S": [], "A": []}

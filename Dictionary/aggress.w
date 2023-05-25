@@ -1,1 +1,1 @@
-{"index": 6133, "D": "to commit the first act of hostility or offense; attack first.", "S": ["assail ", "assault ", "beset ", "charge ", "fight ", "quarrel ", "storm ", "strike "], "A": ["agree ", "make peace "]}
+{"index": 6133, "D": "to commit the first act of hostility or offense; attack first.", "S": ["assail", "assault", "beset", "charge", "fight", "quarrel", "storm", "strike"], "A": ["agree", "make peace"]}

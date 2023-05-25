@@ -1,1 +1,1 @@
-{"index": 63786, "D": "comfortable. ", "S": ["homey ", "snug ", "soft "], "A": []}
+{"index": 63786, "D": "comfortable. ", "S": ["homey", "snug", "soft"], "A": []}

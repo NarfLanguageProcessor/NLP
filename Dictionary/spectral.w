@@ -1,1 +1,1 @@
-{"index": 298877, "D": "of or relating to a specter; ghostly; phantom.", "S": ["eerie ", "shadowy "], "A": []}
+{"index": 298877, "D": "of or relating to a specter; ghostly; phantom.", "S": ["eerie", "shadowy"], "A": []}

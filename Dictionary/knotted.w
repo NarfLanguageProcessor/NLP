@@ -1,1 +1,1 @@
-{"index": 165685, "D": "having knots;  knotty.", "S": ["braided ", "bunched ", "clustered ", "coiled ", "snarled ", "tangled "], "A": ["straight "]}
+{"index": 165685, "D": "having knots;  knotty.", "S": ["braided", "bunched", "clustered", "coiled", "snarled", "tangled"], "A": ["straight"]}

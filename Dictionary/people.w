@@ -1,1 +1,1 @@
-{"index": 230162, "D": "persons indefinitely or collectively; persons in general", "S": ["community ", "crowd ", "family ", "folk ", "nation ", "population ", "public ", "society "], "A": ["animals ", "plants "]}
+{"index": 230162, "D": "persons indefinitely or collectively; persons in general", "S": ["community", "crowd", "family", "folk", "nation", "population", "public", "society"], "A": ["animals", "plants"]}

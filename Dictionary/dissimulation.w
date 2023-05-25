@@ -1,1 +1,1 @@
-{"index": 89573, "D": "the act of dissimulating;  feigning; hypocrisy.", "S": ["cloak ", "disguise ", "mask ", "veil "], "A": []}
+{"index": 89573, "D": "the act of dissimulating;  feigning; hypocrisy.", "S": ["cloak", "disguise", "mask", "veil"], "A": []}

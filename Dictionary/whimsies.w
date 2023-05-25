@@ -1,1 +1,0 @@
-{"index": 364846, "D": "capricious humor or disposition; extravagant, fanciful, or excessively playful expression", "S": ["playfulness "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 41093, "D": "a sword having a straight, broad, flat blade.", "S": ["blade ", "dagger ", "saber "], "A": []}
+{"index": 41093, "D": "a sword having a straight, broad, flat blade.", "S": ["blade", "dagger", "saber"], "A": []}

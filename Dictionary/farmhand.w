@@ -1,1 +1,1 @@
-{"index": 109981, "D": "a person who works on a farm, especially a hired worker; hired hand.", "S": ["drudge ", "grunt ", "hand ", "hireling ", "peon "], "A": []}
+{"index": 109981, "D": "a person who works on a farm, especially a hired worker; hired hand.", "S": ["drudge", "grunt", "hand", "hireling", "peon"], "A": []}

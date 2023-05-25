@@ -1,1 +1,1 @@
-{"index": 282736, "D": "sheltered or screened from general activity, view, etc.", "S": ["cloistered ", "deserted ", "hidden ", "lonely ", "quiet ", "remote ", "uninhabited "], "A": ["inhabited ", "open ", "populated ", "extroverted ", "friendly ", "outgoing ", "sociable ", "unreserved "]}
+{"index": 282736, "D": "sheltered or screened from general activity, view, etc.", "S": ["cloistered", "deserted", "hidden", "lonely", "quiet", "remote", "uninhabited"], "A": ["inhabited", "open", "populated", "extroverted", "friendly", "outgoing", "sociable", "unreserved"]}

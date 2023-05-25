@@ -1,1 +1,1 @@
-{"index": 27107, "D": "foolishness; nonsense. ", "S": ["bunk "], "A": ["truth "]}
+{"index": 27107, "D": "foolishness; nonsense. ", "S": ["bunk"], "A": ["truth"]}

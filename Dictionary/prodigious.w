@@ -1,1 +1,1 @@
-{"index": 251537, "D": "extraordinary in size, amount, extent, degree, force, etc.", "S": ["colossal ", "fantastic ", "immense ", "inordinate ", "mammoth ", "monumental ", "tremendous ", "vast "], "A": ["insignificant ", "little ", "miniature ", "small ", "teeny ", "tiny ", "unimportant "]}
+{"index": 251537, "D": "extraordinary in size, amount, extent, degree, force, etc.", "S": ["colossal", "fantastic", "immense", "inordinate", "mammoth", "monumental", "tremendous", "vast"], "A": ["insignificant", "little", "miniature", "small", "teeny", "tiny", "unimportant"]}

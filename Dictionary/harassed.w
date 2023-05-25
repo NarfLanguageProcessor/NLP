@@ -1,1 +1,1 @@
-{"index": 133567, "D": " to disturb or bother persistently; torment, as with troubles or cares; pester", "S": ["agitated ", "distressed ", "disturbed ", "troubled "], "A": ["calm ", "collected ", "unworried "]}
+{"index": 133567, "D": " to disturb or bother persistently; torment, as with troubles or cares; pester", "S": ["agitated", "distressed", "disturbed", "troubled"], "A": ["calm", "collected", "unworried"]}

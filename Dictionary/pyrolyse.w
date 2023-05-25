@@ -1,1 +1,0 @@
-{"index": 237836, "D": "to subject to pyrolysis", "S": [], "A": []}

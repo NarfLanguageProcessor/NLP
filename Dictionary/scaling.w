@@ -1,1 +1,1 @@
-{"index": 279444, "D": "the removal of calculus and other deposits on the teeth by means of instruments.", "S": ["ascent "], "A": ["declension ", "decline "]}
+{"index": 279444, "D": "the removal of calculus and other deposits on the teeth by means of instruments.", "S": ["ascent"], "A": ["declension", "decline"]}

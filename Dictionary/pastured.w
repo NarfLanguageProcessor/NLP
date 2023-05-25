@@ -1,1 +1,1 @@
-{"index": 227533, "D": "an area covered with grass or other plants used or suitable for the grazing of livestock; grassland.", "S": ["cultivate ", "graze ", "grow ", "harvest ", "look after ", "operate ", "plow ", "reap ", "sow ", "tend "], "A": ["ignore ", "neglect "]}
+{"index": 227533, "D": "an area covered with grass or other plants used or suitable for the grazing of livestock; grassland.", "S": ["cultivate", "graze", "grow", "harvest", "look after", "operate", "plow", "reap", "sow", "tend"], "A": ["ignore", "neglect"]}

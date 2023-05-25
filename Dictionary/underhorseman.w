@@ -1,1 +1,0 @@
-{"index": 339336, "D": "a person who is skilled in riding a horse.", "S": [], "A": []}

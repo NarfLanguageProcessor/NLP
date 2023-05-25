@@ -1,1 +1,1 @@
-{"index": 210143, "D": "to reproach or denounce vehemently; upbraid harshly; berate sharply.", "S": ["castigate ", "censure ", "chastise ", "chide ", "rebuke ", "reprimand ", "reproach ", "scold ", "upbraid "], "A": ["approve ", "compliment ", "flatter ", "forgive ", "laud ", "praise "]}
+{"index": 210143, "D": "to reproach or denounce vehemently; upbraid harshly; berate sharply.", "S": ["castigate", "censure", "chastise", "chide", "rebuke", "reprimand", "reproach", "scold", "upbraid"], "A": ["approve", "compliment", "flatter", "forgive", "laud", "praise"]}

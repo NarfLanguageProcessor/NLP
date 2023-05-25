@@ -1,1 +1,0 @@
-{"index": 316336, "D": "a candlestick designed to hold tapers. ", "S": [], "A": []}

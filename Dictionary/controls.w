@@ -1,1 +1,1 @@
-{"index": 67813, "D": "to exercise restraint or direction over; dominate", "S": ["command ", "control ", "leadership ", "reins ", "rudder ", "tiller "], "A": []}
+{"index": 67813, "D": "to exercise restraint or direction over; dominate", "S": ["command", "control", "leadership", "reins", "rudder", "tiller"], "A": []}

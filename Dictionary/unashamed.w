@@ -1,1 +1,1 @@
-{"index": 335280, "D": "not ashamed;  not restrained by embarrassment or consciousness of moral guilt", "S": ["coldhearted ", "seasoned "], "A": ["compassionate ", "feeling ", "kind ", "nice ", "sympathetic "]}
+{"index": 335280, "D": "not ashamed;  not restrained by embarrassment or consciousness of moral guilt", "S": ["coldhearted", "seasoned"], "A": ["compassionate", "feeling", "kind", "nice", "sympathetic"]}

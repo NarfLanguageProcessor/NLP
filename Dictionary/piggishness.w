@@ -1,1 +1,1 @@
-{"index": 236383, "D": "resembling a pig,  especially in being slovenly, greedy, or gluttonous", "S": ["avarice ", "excess ", "gluttony ", "hunger ", "longing ", "selfishness "], "A": ["apathy ", "dislike ", "distaste ", "indifference "]}
+{"index": 236383, "D": "resembling a pig,  especially in being slovenly, greedy, or gluttonous", "S": ["avarice", "excess", "gluttony", "hunger", "longing", "selfishness"], "A": ["apathy", "dislike", "distaste", "indifference"]}

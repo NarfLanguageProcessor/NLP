@@ -1,1 +1,1 @@
-{"index": 49432, "D": "a shrill, whistlelike sound or loud raucous shout made to express disapproval at a theater, meeting, etc.", "S": ["heckle ", "hiss ", "holler ", "hoot ", "jeer "], "A": []}
+{"index": 49432, "D": "a shrill, whistlelike sound or loud raucous shout made to express disapproval at a theater, meeting, etc.", "S": ["heckle", "hiss", "holler", "hoot", "jeer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 253409, "D": "a woman under the patronage, protection, or care of someone interested in her career or welfare.", "S": ["care "], "A": ["adult "]}
+{"index": 253409, "D": "a woman under the patronage, protection, or care of someone interested in her career or welfare.", "S": ["care"], "A": ["adult"]}

@@ -1,1 +1,1 @@
-{"index": 199254, "D": "of, relating to, or characteristic of neurosis. ", "S": ["compulsive ", "distraught ", "disturbed ", "manic ", "obsessive "], "A": ["normal "]}
+{"index": 199254, "D": "of, relating to, or characteristic of neurosis. ", "S": ["compulsive", "distraught", "disturbed", "manic", "obsessive"], "A": ["normal"]}

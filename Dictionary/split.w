@@ -1,1 +1,1 @@
-{"index": 300562, "D": "to divide or separate from end to end or into layers", "S": ["breach ", "chasm ", "crack ", "division ", "fissure ", "gap ", "rift ", "rupture ", "separation "], "A": ["closing ", "closure ", "connection ", "juncture "]}
+{"index": 300562, "D": "to divide or separate from end to end or into layers", "S": ["breach", "chasm", "crack", "division", "fissure", "gap", "rift", "rupture", "separation"], "A": ["closing", "closure", "connection", "juncture"]}

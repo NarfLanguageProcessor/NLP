@@ -1,1 +1,1 @@
-{"index": 175022, "D": [], "S": ["devious ", "labyrinthine ", "meandering ", "rambling ", "tortuous "], "A": ["direct ", "straight ", "straightforward "]}
+{"index": 175022, "D": [], "S": ["devious", "labyrinthine", "meandering", "rambling", "tortuous"], "A": ["direct", "straight", "straightforward"]}

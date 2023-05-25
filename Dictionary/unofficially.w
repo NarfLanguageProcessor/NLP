@@ -1,1 +1,1 @@
-{"index": 347115, "D": "a person appointed or elected to an office  or charged with certain duties.", "S": ["privately ", "secretly "], "A": ["audibly ", "loudly ", "publicly "]}
+{"index": 347115, "D": "a person appointed or elected to an office  or charged with certain duties.", "S": ["privately", "secretly"], "A": ["audibly", "loudly", "publicly"]}

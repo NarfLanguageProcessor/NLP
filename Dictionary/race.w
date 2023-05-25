@@ -1,1 +1,1 @@
-{"index": 259309, "D": "a contest of speed, as in running, riding, driving, or sailing.", "S": ["chase ", "competition ", "contention ", "contest ", "course ", "event ", "marathon ", "match ", "relay ", "run ", "sprint "], "A": []}
+{"index": 259309, "D": "a contest of speed, as in running, riding, driving, or sailing.", "S": ["chase", "competition", "contention", "contest", "course", "event", "marathon", "match", "relay", "run", "sprint"], "A": []}

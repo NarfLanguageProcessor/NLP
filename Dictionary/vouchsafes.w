@@ -1,1 +1,1 @@
-{"index": 361443, "D": "to grant or give, as by favor, graciousness, or condescension", "S": ["award ", "bestow ", "concede ", "condescend ", "deign ", "favor ", "give ", "grant ", "yield "], "A": ["deny ", "fight ", "refuse ", "reject ", "take ", "veto ", "withhold "]}
+{"index": 361443, "D": "to grant or give, as by favor, graciousness, or condescension", "S": ["award", "bestow", "concede", "condescend", "deign", "favor", "give", "grant", "yield"], "A": ["deny", "fight", "refuse", "reject", "take", "veto", "withhold"]}

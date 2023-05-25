@@ -1,1 +1,1 @@
-{"index": 115878, "D": "the leaves of a plant, collectively; leafage.", "S": ["vegetation "], "A": []}
+{"index": 115878, "D": "the leaves of a plant, collectively; leafage.", "S": ["vegetation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 62716, "D": "any of various plants of the genus Brassica, of the mustard family,  especially kale and rapeseed.", "S": ["cabbage ", "colewort ", "collard "], "A": []}
+{"index": 62716, "D": "any of various plants of the genus Brassica, of the mustard family,  especially kale and rapeseed.", "S": ["cabbage", "colewort", "collard"], "A": []}

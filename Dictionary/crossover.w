@@ -1,1 +1,1 @@
-{"index": 73855, "D": "a bridge or other structure for crossing over a river, highway, etc.", "S": ["span ", "traverse ", "unite "], "A": ["disconnect ", "disjoin ", "divide ", "leave ", "separate ", "unfasten "]}
+{"index": 73855, "D": "a bridge or other structure for crossing over a river, highway, etc.", "S": ["span", "traverse", "unite"], "A": ["disconnect", "disjoin", "divide", "leave", "separate", "unfasten"]}

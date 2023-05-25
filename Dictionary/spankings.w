@@ -1,1 +1,1 @@
-{"index": 298362, "D": [], "S": ["flogging ", "licking ", "pounding ", "spanking ", "thrashing ", "trouncing "], "A": []}
+{"index": 298362, "D": [], "S": ["flogging", "licking", "pounding", "spanking", "thrashing", "trouncing"], "A": []}

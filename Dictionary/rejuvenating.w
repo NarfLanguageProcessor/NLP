@@ -1,1 +1,1 @@
-{"index": 266647, "D": "to make young again; restore to youthful vigor, appearance, etc.", "S": ["ambulatory ", "healing ", "mending ", "rallying ", "strengthening "], "A": ["failing ", "faltering ", "sickly ", "weak ", "worsening "]}
+{"index": 266647, "D": "to make young again; restore to youthful vigor, appearance, etc.", "S": ["ambulatory", "healing", "mending", "rallying", "strengthening"], "A": ["failing", "faltering", "sickly", "weak", "worsening"]}

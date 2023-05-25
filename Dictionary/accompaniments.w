@@ -1,1 +1,1 @@
-{"index": 1663, "D": "something incidental or added for ornament, symmetry, etc.", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}
+{"index": 1663, "D": "something incidental or added for ornament, symmetry, etc.", "S": ["apparatus", "furnishings", "furniture", "machinery", "material"], "A": []}

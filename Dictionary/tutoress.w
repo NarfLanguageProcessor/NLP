@@ -1,1 +1,1 @@
-{"index": 333087, "D": "a woman who is a tutor. ", "S": ["nanny "], "A": []}
+{"index": 333087, "D": "a woman who is a tutor. ", "S": ["nanny"], "A": []}

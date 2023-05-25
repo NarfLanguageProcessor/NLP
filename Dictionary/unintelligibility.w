@@ -1,1 +1,1 @@
-{"index": 344698, "D": "not intelligible;  not capable of being understood.", "S": ["incongruity ", "nonsense "], "A": []}
+{"index": 344698, "D": "not intelligible;  not capable of being understood.", "S": ["incongruity", "nonsense"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 117747, "D": "toward or at a place, point, or time in advance; onward; ahead", "S": ["ahead ", "leading ", "onward "], "A": ["back ", "backward ", "last ", "later ", "meek ", "past ", "reserved ", "reversing ", "shy ", "timid "]}
+{"index": 117747, "D": "toward or at a place, point, or time in advance; onward; ahead", "S": ["ahead", "leading", "onward"], "A": ["back", "backward", "last", "later", "meek", "past", "reserved", "reversing", "shy", "timid"]}

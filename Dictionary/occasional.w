@@ -1,1 +1,1 @@
-{"index": 210644, "D": "occurring or appearing at irregular or infrequent intervals; occurring now and then", "S": ["casual ", "infrequent ", "intermittent ", "odd ", "particular ", "random ", "rare ", "unusual "], "A": ["common ", "frequent ", "ordinary ", "regular ", "usual "]}
+{"index": 210644, "D": "occurring or appearing at irregular or infrequent intervals; occurring now and then", "S": ["casual", "infrequent", "intermittent", "odd", "particular", "random", "rare", "unusual"], "A": ["common", "frequent", "ordinary", "regular", "usual"]}

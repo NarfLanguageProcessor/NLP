@@ -1,1 +1,1 @@
-{"index": 104725, "D": "displaying or evincing a feeling of alienation; alienated", "S": ["exotic ", "incongruous ", "unusual "], "A": ["familiar ", "normal ", "usual ", "harmonious "]}
+{"index": 104725, "D": "displaying or evincing a feeling of alienation; alienated", "S": ["exotic", "incongruous", "unusual"], "A": ["familiar", "normal", "usual", "harmonious"]}

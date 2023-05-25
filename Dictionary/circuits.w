@@ -1,1 +1,1 @@
-{"index": 58004, "D": "an act or instance of going or moving around.", "S": ["course ", "district ", "lap ", "route ", "tour "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 58004, "D": "an act or instance of going or moving around.", "S": ["course", "district", "lap", "route", "tour"], "A": ["center", "inside", "interior", "middle"]}

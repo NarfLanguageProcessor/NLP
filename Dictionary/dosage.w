@@ -1,1 +1,1 @@
-{"index": 91832, "D": "the administration of medicine in doses. ", "S": ["application ", "lot ", "measure ", "measurement ", "prescription ", "quantity ", "shot "], "A": []}
+{"index": 91832, "D": "the administration of medicine in doses. ", "S": ["application", "lot", "measure", "measurement", "prescription", "quantity", "shot"], "A": []}

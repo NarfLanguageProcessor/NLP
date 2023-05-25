@@ -1,1 +1,1 @@
-{"index": 286136, "D": "earnest or sincere character or attitude", "S": ["earnestness ", "gravity ", "sincerity ", "solemnity "], "A": ["insincerity ", "unimportance "]}
+{"index": 286136, "D": "earnest or sincere character or attitude", "S": ["earnestness", "gravity", "sincerity", "solemnity"], "A": ["insincerity", "unimportance"]}

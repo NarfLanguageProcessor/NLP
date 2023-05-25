@@ -1,1 +1,0 @@
-{"index": 334345, "D": "to refuse or deny oneself (some rights, conveniences, etc.); reject; renounce.", "S": [], "A": []}

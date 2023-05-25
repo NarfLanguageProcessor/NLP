@@ -1,1 +1,1 @@
-{"index": 106893, "D": "given to making excursions  in speech, thought, etc.; wandering; digressive.", "S": ["desultory ", "digressive ", "indirect ", "rambling ", "verbose "], "A": []}
+{"index": 106893, "D": "given to making excursions  in speech, thought, etc.; wandering; digressive.", "S": ["desultory", "digressive", "indirect", "rambling", "verbose"], "A": []}

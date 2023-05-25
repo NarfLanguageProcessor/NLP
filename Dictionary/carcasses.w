@@ -1,1 +1,1 @@
-{"index": 47638, "D": "the dead body of an animal.", "S": ["body ", "cadaver ", "corpse ", "framework ", "hulk ", "mort ", "remains ", "shell ", "skeleton ", "stiff "], "A": []}
+{"index": 47638, "D": "the dead body of an animal.", "S": ["body", "cadaver", "corpse", "framework", "hulk", "mort", "remains", "shell", "skeleton", "stiff"], "A": []}

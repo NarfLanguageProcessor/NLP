@@ -1,1 +1,1 @@
-{"index": 71752, "D": "a variant of cozy. ", "S": ["comfortable ", "comfy ", "cushy ", "intimate ", "snug "], "A": ["cool ", "uncomfortable "]}
+{"index": 71752, "D": "a variant of cozy. ", "S": ["comfortable", "comfy", "cushy", "intimate", "snug"], "A": ["cool", "uncomfortable"]}

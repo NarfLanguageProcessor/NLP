@@ -1,1 +1,1 @@
-{"index": 117756, "D": "overreadiness to push oneself forward; lack of appropriate modesty; presumption; boldness. ", "S": ["bumptiousness ", "impertinence ", "presumptuousness ", "rudeness "], "A": ["politeness "]}
+{"index": 117756, "D": "overreadiness to push oneself forward; lack of appropriate modesty; presumption; boldness. ", "S": ["bumptiousness", "impertinence", "presumptuousness", "rudeness"], "A": ["politeness"]}

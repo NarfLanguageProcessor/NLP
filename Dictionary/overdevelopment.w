@@ -1,1 +1,1 @@
-{"index": 218950, "D": "to develop  to excess", "S": ["bottleneck ", "overpopulation ", "traffic jam "], "A": ["flood ", "flow ", "opening "]}
+{"index": 218950, "D": "to develop  to excess", "S": ["bottleneck", "overpopulation", "traffic jam"], "A": ["flood", "flow", "opening"]}

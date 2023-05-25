@@ -1,1 +1,1 @@
-{"index": 265435, "D": "shining brightly; radiant; gleaming", "S": ["bulb ", "candle ", "daylight ", "flash ", "glare ", "glow ", "lamp ", "lantern ", "radiation ", "ray ", "star ", "sun ", "sunshine ", "window "], "A": ["darkness ", "dimness ", "dullness ", "eventide ", "sundown ", "sunset "]}
+{"index": 265435, "D": "shining brightly; radiant; gleaming", "S": ["bulb", "candle", "daylight", "flash", "glare", "glow", "lamp", "lantern", "radiation", "ray", "star", "sun", "sunshine", "window"], "A": ["darkness", "dimness", "dullness", "eventide", "sundown", "sunset"]}

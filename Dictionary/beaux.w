@@ -1,1 +1,1 @@
-{"index": 29682, "D": "a plural of beau. ", "S": ["boyfriend ", "lover ", "paramour ", "suitor ", "sweetheart "], "A": ["enemy "]}
+{"index": 29682, "D": "a plural of beau. ", "S": ["boyfriend", "lover", "paramour", "suitor", "sweetheart"], "A": ["enemy"]}

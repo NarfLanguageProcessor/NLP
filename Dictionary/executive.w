@@ -1,1 +1,1 @@
-{"index": 106969, "D": "a person or group of persons having administrative or supervisory authority in an organization.", "S": ["managerial "], "A": ["subordinate "]}
+{"index": 106969, "D": "a person or group of persons having administrative or supervisory authority in an organization.", "S": ["managerial"], "A": ["subordinate"]}

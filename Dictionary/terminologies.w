@@ -1,1 +1,1 @@
-{"index": 319399, "D": "the system of terms belonging or peculiar to a science, art, or specialized subject; nomenclature", "S": ["jargon ", "language ", "lingo ", "phrasing ", "vocabulary "], "A": ["standard "]}
+{"index": 319399, "D": "the system of terms belonging or peculiar to a science, art, or specialized subject; nomenclature", "S": ["jargon", "language", "lingo", "phrasing", "vocabulary"], "A": ["standard"]}

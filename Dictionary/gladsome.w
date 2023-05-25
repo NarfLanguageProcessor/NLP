@@ -1,1 +1,1 @@
-{"index": 125829, "D": "giving or causing joy; delightful.", "S": ["carefree ", "jaunty ", "jovial ", "lighthearted ", "sprightly "], "A": ["depressed ", "lethargic ", "troubled ", "worried "]}
+{"index": 125829, "D": "giving or causing joy; delightful.", "S": ["carefree", "jaunty", "jovial", "lighthearted", "sprightly"], "A": ["depressed", "lethargic", "troubled", "worried"]}

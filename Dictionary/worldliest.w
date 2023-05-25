@@ -1,1 +1,1 @@
-{"index": 367574, "D": "of or relating to this world  as contrasted with heaven, spiritual life, etc.; earthly; mundane.", "S": ["earthly ", "earthy ", "mundane ", "practical ", "secular ", "temporal "], "A": ["heavenly ", "spiritual "]}
+{"index": 367574, "D": "of or relating to this world  as contrasted with heaven, spiritual life, etc.; earthly; mundane.", "S": ["earthly", "earthy", "mundane", "practical", "secular", "temporal"], "A": ["heavenly", "spiritual"]}

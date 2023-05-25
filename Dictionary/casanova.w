@@ -1,1 +1,1 @@
-{"index": 48741, "D": "Italian adventurer and writer.", "S": ["Lothario ", "Romeo ", "admirer ", "cad ", "lover ", "paramour ", "wolf ", "womanizer "], "A": ["enemy "]}
+{"index": 48741, "D": "Italian adventurer and writer.", "S": ["Lothario", "Romeo", "admirer", "cad", "lover", "paramour", "wolf", "womanizer"], "A": ["enemy"]}

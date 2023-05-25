@@ -1,1 +1,1 @@
-{"index": 265672, "D": "recorded, as in a register  or book; enrolled.", "S": ["certified "], "A": []}
+{"index": 265672, "D": "recorded, as in a register  or book; enrolled.", "S": ["certified"], "A": []}

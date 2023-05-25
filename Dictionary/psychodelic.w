@@ -1,1 +1,0 @@
-{"index": 255325, "D": "of or noting a mental state characterized by a profound sense of intensified sensory perception, sometimes accompanied by severe perceptual distortion and hallucinations and by extreme feelings of either euphoria or despair", "S": [], "A": []}

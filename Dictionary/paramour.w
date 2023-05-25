@@ -1,1 +1,1 @@
-{"index": 225867, "D": "an illicit lover, especially of a married person.", "S": ["admirer ", "beau ", "concubine ", "lover ", "mistress ", "sweetheart "], "A": ["enemy "]}
+{"index": 225867, "D": "an illicit lover, especially of a married person.", "S": ["admirer", "beau", "concubine", "lover", "mistress", "sweetheart"], "A": ["enemy"]}

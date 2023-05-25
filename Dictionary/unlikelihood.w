@@ -1,1 +1,1 @@
-{"index": 345624, "D": "the state of being unlikely;  improbability.", "S": ["also-ran ", "long shot ", "sleeper ", "underdog "], "A": []}
+{"index": 345624, "D": "the state of being unlikely;  improbability.", "S": ["also-ran", "long shot", "sleeper", "underdog"], "A": []}

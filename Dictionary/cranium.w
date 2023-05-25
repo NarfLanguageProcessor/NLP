@@ -1,1 +1,1 @@
-{"index": 72108, "D": "the skull of a vertebrate.", "S": ["braincase ", "brainpan ", "crown ", "head "], "A": ["bottom "]}
+{"index": 72108, "D": "the skull of a vertebrate.", "S": ["braincase", "brainpan", "crown", "head"], "A": ["bottom"]}

@@ -1,1 +1,1 @@
-{"index": 302138, "D": "to pierce or wound with or as if with a pointed weapon", "S": ["hurt ", "injure ", "jab ", "prick ", "punch ", "stick ", "wound "], "A": ["aid ", "assist ", "cure ", "heal ", "help ", "increase ", "rise ", "unite "]}
+{"index": 302138, "D": "to pierce or wound with or as if with a pointed weapon", "S": ["hurt", "injure", "jab", "prick", "punch", "stick", "wound"], "A": ["aid", "assist", "cure", "heal", "help", "increase", "rise", "unite"]}

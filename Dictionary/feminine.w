@@ -1,1 +1,1 @@
-{"index": 111154, "D": "pertaining to a woman or girl", "S": ["female ", "femalelike ", "gentle ", "soft ", "tender ", "womanish ", "womanlike ", "womanly "], "A": ["male ", "manly ", "masculine ", "mannish ", "rough ", "virile "]}
+{"index": 111154, "D": "pertaining to a woman or girl", "S": ["female", "femalelike", "gentle", "soft", "tender", "womanish", "womanlike", "womanly"], "A": ["male", "manly", "masculine", "mannish", "rough", "virile"]}

@@ -1,1 +1,1 @@
-{"index": 259529, "D": "radiant  brightness or light", "S": ["brilliance ", "effulgence ", "glare ", "gleam ", "glitter ", "glow ", "incandescence ", "light ", "luminosity ", "luster ", "resplendence ", "shine "], "A": ["darkness ", "dullness "]}
+{"index": 259529, "D": "radiant  brightness or light", "S": ["brilliance", "effulgence", "glare", "gleam", "glitter", "glow", "incandescence", "light", "luminosity", "luster", "resplendence", "shine"], "A": ["darkness", "dullness"]}

@@ -1,1 +1,0 @@
-{"index": 328839, "D": "noting armor having diagonally crisscrossed strips of leather enframing metal plates, the whole being sewn to a flexible backing.", "S": [], "A": []}

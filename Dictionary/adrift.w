@@ -1,1 +1,1 @@
-{"index": 4426, "D": "floating without control; drifting;  not anchored or moored", "S": ["afloat "], "A": ["anchored "]}
+{"index": 4426, "D": "floating without control; drifting;  not anchored or moored", "S": ["afloat"], "A": ["anchored"]}

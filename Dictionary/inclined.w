@@ -1,1 +1,1 @@
-{"index": 149954, "D": "deviating in direction from the horizontal or vertical; sloping.", "S": ["apt ", "prone ", "willing "], "A": ["unwilling "]}
+{"index": 149954, "D": "deviating in direction from the horizontal or vertical; sloping.", "S": ["apt", "prone", "willing"], "A": ["unwilling"]}

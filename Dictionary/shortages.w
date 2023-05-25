@@ -1,1 +1,1 @@
-{"index": 288897, "D": "a deficiency in quantity", "S": ["dearth ", "deficit ", "failure ", "lack ", "poverty ", "scarcity ", "shortfall ", "weakness "], "A": ["abundance ", "enough ", "excess ", "plenty ", "surplus ", "sufficiency "]}
+{"index": 288897, "D": "a deficiency in quantity", "S": ["dearth", "deficit", "failure", "lack", "poverty", "scarcity", "shortfall", "weakness"], "A": ["abundance", "enough", "excess", "plenty", "surplus", "sufficiency"]}

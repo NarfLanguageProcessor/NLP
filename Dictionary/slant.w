@@ -1,1 +1,1 @@
-{"index": 293659, "D": "to veer or angle away from a given level or line, especially from a horizontal; slope.", "S": ["leaning "], "A": ["evenness ", "level "]}
+{"index": 293659, "D": "to veer or angle away from a given level or line, especially from a horizontal; slope.", "S": ["leaning"], "A": ["evenness", "level"]}

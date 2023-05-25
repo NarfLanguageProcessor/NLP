@@ -1,1 +1,1 @@
-{"index": 124229, "D": "an agent for killing germs  or microorganisms.", "S": ["disinfectant ", "preservative "], "A": []}
+{"index": 124229, "D": "an agent for killing germs  or microorganisms.", "S": ["disinfectant", "preservative"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 217208, "D": "of the nature of or involving gross injury or wrong", "S": ["brutally "], "A": []}
+{"index": 217208, "D": "of the nature of or involving gross injury or wrong", "S": ["brutally"], "A": []}

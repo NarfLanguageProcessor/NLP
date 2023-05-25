@@ -1,1 +1,1 @@
-{"index": 231724, "D": "to speak at length; make a long, usually grandiloquent speech.", "S": ["address ", "declaim ", "expatiate ", "lecture ", "orate ", "speak "], "A": []}
+{"index": 231724, "D": "to speak at length; make a long, usually grandiloquent speech.", "S": ["address", "declaim", "expatiate", "lecture", "orate", "speak"], "A": []}

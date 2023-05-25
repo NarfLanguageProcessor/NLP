@@ -1,1 +1,1 @@
-{"index": 321620, "D": "positive; dogmatic.", "S": ["arbitrary ", "recommended "], "A": ["unprescribed "]}
+{"index": 321620, "D": "positive; dogmatic.", "S": ["arbitrary", "recommended"], "A": ["unprescribed"]}

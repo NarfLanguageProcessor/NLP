@@ -1,1 +1,1 @@
-{"index": 106239, "D": "a person who does evil  or wrong.", "S": ["criminal ", "devil ", "felon ", "gangster ", "lawbreaker ", "murderer ", "psychopath ", "sinner ", "sociopath ", "troublemaker ", "villain "], "A": ["police "]}
+{"index": 106239, "D": "a person who does evil  or wrong.", "S": ["criminal", "devil", "felon", "gangster", "lawbreaker", "murderer", "psychopath", "sinner", "sociopath", "troublemaker", "villain"], "A": ["police"]}

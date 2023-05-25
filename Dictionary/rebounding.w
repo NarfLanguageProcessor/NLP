@@ -1,1 +1,1 @@
-{"index": 262396, "D": "to bound or spring back from force of impact.", "S": ["buoyant ", "strong ", "supple ", "tough ", "volatile "], "A": ["delicate ", "weak "]}
+{"index": 262396, "D": "to bound or spring back from force of impact.", "S": ["buoyant", "strong", "supple", "tough", "volatile"], "A": ["delicate", "weak"]}

@@ -1,1 +1,1 @@
-{"index": 198433, "D": "a beginner or novice", "S": ["newcomer ", "novice "], "A": ["expert ", "professional "]}
+{"index": 198433, "D": "a beginner or novice", "S": ["newcomer", "novice"], "A": ["expert", "professional"]}

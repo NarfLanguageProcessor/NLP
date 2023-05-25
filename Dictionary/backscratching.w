@@ -1,1 +1,1 @@
-{"index": 25887, "D": "a long-handled device for scratching one's own back.", "S": ["apple-polish ", "bootlick ", "curry favor ", "fawn on ", "flatter ", "get on the right side of ", "grovel ", "kiss ass ", "scratch one's back ", "suck up to ", "toady "], "A": []}
+{"index": 25887, "D": "a long-handled device for scratching one's own back.", "S": ["apple-polish", "bootlick", "curry favor", "fawn on", "flatter", "get on the right side of", "grovel", "kiss ass", "scratch one's back", "suck up to", "toady"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 100217, "D": "the fire thus directed.", "S": ["comb ", "scour ", "scrape "], "A": ["disperse ", "distribute ", "divide ", "plant ", "scatter "]}
+{"index": 100217, "D": "the fire thus directed.", "S": ["comb", "scour", "scrape"], "A": ["disperse", "distribute", "divide", "plant", "scatter"]}

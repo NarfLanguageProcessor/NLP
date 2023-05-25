@@ -1,1 +1,0 @@
-{"index": 349338, "D": "to prove to be false or erroneous, as an opinion or charge.", "S": [], "A": []}

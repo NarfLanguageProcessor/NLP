@@ -1,1 +1,1 @@
-{"index": 55699, "D": "the jaws or cheeks; jowls", "S": ["ability ", "competence ", "facility ", "know-how ", "proficiency ", "prowess ", "savvy ", "skill "], "A": ["ignorance ", "inability ", "inadequacy ", "incapability ", "incompetence ", "ineptness ", "weakness ", "lack "]}
+{"index": 55699, "D": "the jaws or cheeks; jowls", "S": ["ability", "competence", "facility", "know-how", "proficiency", "prowess", "savvy", "skill"], "A": ["ignorance", "inability", "inadequacy", "incapability", "incompetence", "ineptness", "weakness", "lack"]}

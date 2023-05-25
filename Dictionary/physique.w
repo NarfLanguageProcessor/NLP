@@ -1,1 +1,1 @@
-{"index": 234185, "D": "physical or bodily structure, appearance, or development", "S": ["habit "], "A": []}
+{"index": 234185, "D": "physical or bodily structure, appearance, or development", "S": ["habit"], "A": []}

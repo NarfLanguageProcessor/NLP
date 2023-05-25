@@ -1,1 +1,1 @@
-{"index": 22348, "D": [], "S": ["bias "], "A": ["dislike ", "hate ", "hatred ", "ignorance ", "indecision ", "stupidity "]}
+{"index": 22348, "D": [], "S": ["bias"], "A": ["dislike", "hate", "hatred", "ignorance", "indecision", "stupidity"]}

@@ -1,0 +1,1 @@
+{"index": 26081, "D": "disintegration or dissolution of bacteria. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 355002, "D": "to overturn", "S": ["also-ran ", "long shot ", "sleeper ", "underdog "], "A": []}
+{"index": 355002, "D": "to overturn", "S": ["also-ran", "long shot", "sleeper", "underdog"], "A": []}

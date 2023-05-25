@@ -1,1 +1,1 @@
-{"index": 331447, "D": "a student who stays away from school without permission.", "S": ["AWOL ", "hooky ", "no-show "], "A": []}
+{"index": 331447, "D": "a student who stays away from school without permission.", "S": ["AWOL", "hooky", "no-show"], "A": []}

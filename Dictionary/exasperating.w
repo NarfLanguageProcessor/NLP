@@ -1,1 +1,1 @@
-{"index": 106519, "D": "to irritate or provoke to a high degree; annoy extremely", "S": ["aggravating ", "annoying ", "distressing ", "disturbing ", "inconvenient ", "irritating ", "troublesome ", "vexing "], "A": ["helpful "]}
+{"index": 106519, "D": "to irritate or provoke to a high degree; annoy extremely", "S": ["aggravating", "annoying", "distressing", "disturbing", "inconvenient", "irritating", "troublesome", "vexing"], "A": ["helpful"]}

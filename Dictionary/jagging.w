@@ -1,1 +1,1 @@
-{"index": 160102, "D": "a sharp projection on an edge or surface.", "S": ["cut ", "damage ", "dent ", "dint ", "indent ", "jag ", "knock ", "mark ", "mill ", "notch ", "scar ", "score ", "slit "], "A": ["compliment ", "praise "]}
+{"index": 160102, "D": "a sharp projection on an edge or surface.", "S": ["cut", "damage", "dent", "dint", "indent", "jag", "knock", "mark", "mill", "notch", "scar", "score", "slit"], "A": ["compliment", "praise"]}

@@ -1,1 +1,1 @@
-{"index": 271484, "D": "to break away from or rise against constituted authority, as by open rebellion; cast off allegiance or subjection to those in authority; rebel; mutiny", "S": ["appalled ", "outraged ", "queasy ", "tired ", "unhappy ", "weary "], "A": ["activated ", "fresh "]}
+{"index": 271484, "D": "to break away from or rise against constituted authority, as by open rebellion; cast off allegiance or subjection to those in authority; rebel; mutiny", "S": ["appalled", "outraged", "queasy", "tired", "unhappy", "weary"], "A": ["activated", "fresh"]}

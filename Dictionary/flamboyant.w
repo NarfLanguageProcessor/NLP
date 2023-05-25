@@ -1,1 +1,1 @@
-{"index": 113850, "D": "strikingly bold or brilliant; showy", "S": ["bombastic ", "brilliant ", "colorful ", "dazzling ", "flashy ", "glamorous ", "ornate ", "splashy ", "swashbuckling "], "A": ["dull ", "plain ", "simple "]}
+{"index": 113850, "D": "strikingly bold or brilliant; showy", "S": ["bombastic", "brilliant", "colorful", "dazzling", "flashy", "glamorous", "ornate", "splashy", "swashbuckling"], "A": ["dull", "plain", "simple"]}

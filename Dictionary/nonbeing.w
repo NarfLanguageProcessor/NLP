@@ -1,1 +1,1 @@
-{"index": 201627, "D": "See also subsistence (def. 5)", "S": ["nobody "], "A": ["something "]}
+{"index": 201627, "D": "See also subsistence (def. 5)", "S": ["nobody"], "A": ["something"]}

@@ -1,1 +1,1 @@
-{"index": 149480, "D": "not apposite;  not pertinent.", "S": ["additional ", "immaterial ", "incidental ", "nonessential ", "superfluous ", "supplementary ", "unconnected ", "unnecessary ", "unrelated "], "A": ["essential ", "important ", "material ", "necessary ", "needed ", "relevant "]}
+{"index": 149480, "D": "not apposite;  not pertinent.", "S": ["additional", "immaterial", "incidental", "nonessential", "superfluous", "supplementary", "unconnected", "unnecessary", "unrelated"], "A": ["essential", "important", "material", "necessary", "needed", "relevant"]}

@@ -1,1 +1,1 @@
-{"index": 313994, "D": "a male admirer or lover.", "S": ["admirer ", "beloved ", "cavalier ", "escort ", "flame ", "honey ", "inamorato ", "love ", "lover ", "paramour ", "squire ", "steady ", "suitor ", "sweetheart ", "wooer "], "A": ["enemy "]}
+{"index": 313994, "D": "a male admirer or lover.", "S": ["admirer", "beloved", "cavalier", "escort", "flame", "honey", "inamorato", "love", "lover", "paramour", "squire", "steady", "suitor", "sweetheart", "wooer"], "A": ["enemy"]}

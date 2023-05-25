@@ -1,1 +1,1 @@
-{"index": 27413, "D": "a loud, sudden, explosive noise, as the discharge of a gun.", "S": ["smack "], "A": ["slowly "]}
+{"index": 27413, "D": "a loud, sudden, explosive noise, as the discharge of a gun.", "S": ["smack"], "A": ["slowly"]}

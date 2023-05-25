@@ -1,1 +1,1 @@
-{"index": 272595, "D": "a narrow, zigzag braid or ribbon used as a trimming on clothing, linens, etc.", "S": ["brink ", "edge ", "hem ", "outskirts ", "perimeter ", "periphery ", "skirt ", "verge "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 272595, "D": "a narrow, zigzag braid or ribbon used as a trimming on clothing, linens, etc.", "S": ["brink", "edge", "hem", "outskirts", "perimeter", "periphery", "skirt", "verge"], "A": ["center", "inside", "interior", "middle"]}

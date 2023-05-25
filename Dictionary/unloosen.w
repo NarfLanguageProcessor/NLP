@@ -1,1 +1,1 @@
-{"index": 345774, "D": "to unloose; loosen.", "S": ["disengage ", "disentangle ", "free ", "loose ", "loosen ", "release ", "slip ", "unbind ", "unblock ", "unbutton ", "unclasp ", "unfasten ", "unlock ", "unloose ", "unravel ", "untie ", "unwrap "], "A": ["button ", "fasten ", "hold ", "tie "]}
+{"index": 345774, "D": "to unloose; loosen.", "S": ["disengage", "disentangle", "free", "loose", "loosen", "release", "slip", "unbind", "unblock", "unbutton", "unclasp", "unfasten", "unlock", "unloose", "unravel", "untie", "unwrap"], "A": ["button", "fasten", "hold", "tie"]}

@@ -1,1 +1,1 @@
-{"index": 271044, "D": "noting wool that previously has been spun, woven, and used. ", "S": ["restate "], "A": ["deny ", "refuse "]}
+{"index": 271044, "D": "noting wool that previously has been spun, woven, and used. ", "S": ["restate"], "A": ["deny", "refuse"]}

@@ -1,1 +1,1 @@
-{"index": 341170, "D": "to decorate with ornamental needlework.", "S": ["humble ", "inexpensive ", "moderate ", "reasonable ", "simple ", "small "], "A": ["expensive ", "outrageous ", "unreasonable "]}
+{"index": 341170, "D": "to decorate with ornamental needlework.", "S": ["humble", "inexpensive", "moderate", "reasonable", "simple", "small"], "A": ["expensive", "outrageous", "unreasonable"]}

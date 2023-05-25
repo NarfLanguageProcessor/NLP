@@ -1,1 +1,1 @@
-{"index": 200424, "D": "a colorless, thick, oily, flammable, highly explosive, slightly water-soluble liquid, C3H5N3O9, prepared from glycerol with nitric and sulfuric acids", "S": ["TNT ", "gelignite ", "trinitrotoluene "], "A": []}
+{"index": 200424, "D": "a colorless, thick, oily, flammable, highly explosive, slightly water-soluble liquid, C3H5N3O9, prepared from glycerol with nitric and sulfuric acids", "S": ["TNT", "gelignite", "trinitrotoluene"], "A": []}

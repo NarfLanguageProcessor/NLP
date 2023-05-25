@@ -1,1 +1,1 @@
-{"index": 196649, "D": "being without clothing or covering; nude", "S": ["bareness ", "exposure ", "uncovering ", "undress "], "A": []}
+{"index": 196649, "D": "being without clothing or covering; nude", "S": ["bareness", "exposure", "uncovering", "undress"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 182009, "D": "situated in or pertaining to the middle; median; intermediate.", "S": ["average ", "center ", "central ", "intermediary ", "intermediate ", "mean ", "midpoint ", "midway ", "par "], "A": ["extreme "]}
+{"index": 182009, "D": "situated in or pertaining to the middle; median; intermediate.", "S": ["average", "center", "central", "intermediary", "intermediate", "mean", "midpoint", "midway", "par"], "A": ["extreme"]}

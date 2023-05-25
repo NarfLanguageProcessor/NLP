@@ -1,1 +1,1 @@
-{"index": 342046, "D": "a unit of length equal to six feet (1.8 meters)", "S": ["ethereal ", "immense ", "infinite ", "undetermined ", "unsounded ", "vast ", "wide "], "A": ["possible "]}
+{"index": 342046, "D": "a unit of length equal to six feet (1.8 meters)", "S": ["ethereal", "immense", "infinite", "undetermined", "unsounded", "vast", "wide"], "A": ["possible"]}

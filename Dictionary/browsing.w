@@ -1,1 +1,1 @@
-{"index": 41679, "D": "to eat, nibble at, or feed on (leaves, tender shoots, or other soft vegetation).", "S": ["e-commerce ", "spending "], "A": []}
+{"index": 41679, "D": "to eat, nibble at, or feed on (leaves, tender shoots, or other soft vegetation).", "S": ["e-commerce", "spending"], "A": []}

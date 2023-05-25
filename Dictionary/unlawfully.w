@@ -1,1 +1,1 @@
-{"index": 345473, "D": "not lawful; contrary to law; illegal.", "S": ["illicitly ", "unjustifiably ", "unjustly ", "wrongly "], "A": ["justly ", "rightly "]}
+{"index": 345473, "D": "not lawful; contrary to law; illegal.", "S": ["illicitly", "unjustifiably", "unjustly", "wrongly"], "A": ["justly", "rightly"]}

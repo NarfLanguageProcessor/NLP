@@ -1,0 +1,1 @@
+{"index": 16041, "D": "agreeable to reason; reasonable; sensible", "S": [], "A": []}

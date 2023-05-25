@@ -1,1 +1,1 @@
-{"index": 107737, "D": "a test, trial, or tentative procedure; an act or operation for the purpose of discovering something unknown or of testing a principle, supposition, etc.", "S": ["adventurer ", "pathfinder ", "pilgrim ", "pioneer ", "searcher ", "seeker ", "traveler "], "A": []}
+{"index": 107737, "D": "a test, trial, or tentative procedure; an act or operation for the purpose of discovering something unknown or of testing a principle, supposition, etc.", "S": ["adventurer", "pathfinder", "pilgrim", "pioneer", "searcher", "seeker", "traveler"], "A": []}

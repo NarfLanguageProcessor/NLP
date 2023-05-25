@@ -1,1 +1,1 @@
-{"index": 98054, "D": "a small live piece of coal, wood, etc., as in a dying fire.", "S": ["ash ", "cinder "], "A": []}
+{"index": 98054, "D": "a small live piece of coal, wood, etc., as in a dying fire.", "S": ["ash", "cinder"], "A": []}

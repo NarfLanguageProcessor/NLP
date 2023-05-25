@@ -1,1 +1,1 @@
-{"index": 286866, "D": "attitudes or behavior based on traditional stereotypes of gender roles", "S": ["bias ", "bigotry ", "chauvinism ", "inequality ", "inequity ", "prejudice "], "A": ["fairness ", "tolerance "]}
+{"index": 286866, "D": "attitudes or behavior based on traditional stereotypes of gender roles", "S": ["bias", "bigotry", "chauvinism", "inequality", "inequity", "prejudice"], "A": ["fairness", "tolerance"]}

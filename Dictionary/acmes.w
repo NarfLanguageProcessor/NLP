@@ -1,1 +1,1 @@
-{"index": 2589, "D": "the highest point; summit; peak", "S": ["apogee ", "capstone ", "climax ", "culmination ", "height ", "meridian ", "optimum ", "peak ", "summit ", "top ", "ultimate ", "vertex ", "zenith "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 2589, "D": "the highest point; summit; peak", "S": ["apogee", "capstone", "climax", "culmination", "height", "meridian", "optimum", "peak", "summit", "top", "ultimate", "vertex", "zenith"], "A": ["base", "bottom", "nadir"]}

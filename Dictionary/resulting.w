@@ -1,1 +1,1 @@
-{"index": 270133, "D": "to spring, arise, or proceed as a consequence of actions, circumstances, premises, etc.; be the outcome.", "S": ["ensuing ", "indirect ", "subsequent "], "A": ["beginning ", "causal ", "commencing ", "originating ", "preparatory ", "starting "]}
+{"index": 270133, "D": "to spring, arise, or proceed as a consequence of actions, circumstances, premises, etc.; be the outcome.", "S": ["ensuing", "indirect", "subsequent"], "A": ["beginning", "causal", "commencing", "originating", "preparatory", "starting"]}

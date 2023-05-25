@@ -1,1 +1,1 @@
-{"index": 147071, "D": "marked by or attended with ignominy;  discreditable; humiliating", "S": ["disgraceful ", "embarrassing ", "shameful "], "A": ["respectable "]}
+{"index": 147071, "D": "marked by or attended with ignominy;  discreditable; humiliating", "S": ["disgraceful", "embarrassing", "shameful"], "A": ["respectable"]}

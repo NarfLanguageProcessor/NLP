@@ -1,1 +1,1 @@
-{"index": 183991, "D": "a land formation, less extensive than a plateau, having steep walls and a relatively flat top and common in arid and semiarid parts of the southwestern U.S. and Mexico.", "S": ["butte ", "elevation ", "highland ", "plain ", "tableland ", "upland "], "A": []}
+{"index": 183991, "D": "a land formation, less extensive than a plateau, having steep walls and a relatively flat top and common in arid and semiarid parts of the southwestern U.S. and Mexico.", "S": ["butte", "elevation", "highland", "plain", "tableland", "upland"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 172042, "D": "a tower or other structure displaying or flashing a very bright light  for the guidance of ships in avoiding dangerous areas, in following certain routes, etc.", "S": ["flare ", "lantern ", "radar "], "A": []}
+{"index": 172042, "D": "a tower or other structure displaying or flashing a very bright light  for the guidance of ships in avoiding dangerous areas, in following certain routes, etc.", "S": ["flare", "lantern", "radar"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 331339, "D": "a long, narrow, open receptacle, usually boxlike in shape, used chiefly to hold water or food for animals.", "S": ["trench "], "A": []}

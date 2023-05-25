@@ -1,1 +1,1 @@
-{"index": 345063, "D": "made into or caused to act as a single entity", "S": ["all at once ", "all together ", "contemporaneously ", "jointly ", "simultaneously ", "synchronously "], "A": []}
+{"index": 345063, "D": "made into or caused to act as a single entity", "S": ["all at once", "all together", "contemporaneously", "jointly", "simultaneously", "synchronously"], "A": []}

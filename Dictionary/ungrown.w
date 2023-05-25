@@ -1,1 +1,1 @@
-{"index": 343320, "D": "advanced in growth", "S": ["fresh ", "grassy ", "leafy ", "lush ", "raw ", "tender ", "verdant "], "A": ["healthy ", "adult ", "dying ", "mature ", "old ", "shrinking ", "withering "]}
+{"index": 343320, "D": "advanced in growth", "S": ["fresh", "grassy", "leafy", "lush", "raw", "tender", "verdant"], "A": ["healthy", "adult", "dying", "mature", "old", "shrinking", "withering"]}

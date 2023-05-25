@@ -1,1 +1,1 @@
-{"index": 151975, "D": "a person who does not accept a particular faith, especially Christianity or Islam.", "S": ["agnostic "], "A": []}
+{"index": 151975, "D": "a person who does not accept a particular faith, especially Christianity or Islam.", "S": ["agnostic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 212850, "D": "operating under the direct control of, or connected to, a main computer.", "S": ["networked ", "wired "], "A": []}
+{"index": 212850, "D": "operating under the direct control of, or connected to, a main computer.", "S": ["networked", "wired"], "A": []}

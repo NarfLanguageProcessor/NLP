@@ -1,1 +1,1 @@
-{"index": 220800, "D": [], "S": ["exaggerate ", "magnify ", "overestimate ", "oversell ", "overvalue "], "A": ["play down "]}
+{"index": 220800, "D": [], "S": ["exaggerate", "magnify", "overestimate", "oversell", "overvalue"], "A": ["play down"]}

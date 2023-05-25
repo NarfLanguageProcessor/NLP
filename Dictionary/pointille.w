@@ -1,1 +1,0 @@
-{"index": 241337, "D": "(of book covers) decorated with a tooled pattern of dots.", "S": [], "A": []}

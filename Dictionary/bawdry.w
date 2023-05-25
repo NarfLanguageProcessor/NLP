@@ -1,1 +1,1 @@
-{"index": 29271, "D": "lewdness; obscenity; bawdiness.", "S": ["dirt ", "filth ", "profanity ", "ribaldry ", "scatology ", "smut ", "vulgarity "], "A": ["cleanliness ", "purity ", "sterility "]}
+{"index": 29271, "D": "lewdness; obscenity; bawdiness.", "S": ["dirt", "filth", "profanity", "ribaldry", "scatology", "smut", "vulgarity"], "A": ["cleanliness", "purity", "sterility"]}

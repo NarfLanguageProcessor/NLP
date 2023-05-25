@@ -1,1 +1,1 @@
-{"index": 297389, "D": "covered, blackened, or smirched with soot. ", "S": ["black ", "blackened ", "dark ", "dingy ", "fuliginous ", "grimy ", "murky ", "smutty ", "soot-covered "], "A": []}
+{"index": 297389, "D": "covered, blackened, or smirched with soot. ", "S": ["black", "blackened", "dark", "dingy", "fuliginous", "grimy", "murky", "smutty", "soot-covered"], "A": []}

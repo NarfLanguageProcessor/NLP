@@ -1,1 +1,1 @@
-{"index": 77743, "D": "to corrupt by sensuality, intemperance, etc.; seduce.", "S": ["contamination ", "deterioration "], "A": []}
+{"index": 77743, "D": "to corrupt by sensuality, intemperance, etc.; seduce.", "S": ["contamination", "deterioration"], "A": []}

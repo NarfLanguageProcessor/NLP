@@ -1,1 +1,1 @@
-{"index": 91624, "D": "a ghostly double or counterpart of a living person.", "S": ["apparition ", "double ", "spirit "], "A": ["being "]}
+{"index": 91624, "D": "a ghostly double or counterpart of a living person.", "S": ["apparition", "double", "spirit"], "A": ["being"]}

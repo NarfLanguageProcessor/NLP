@@ -1,1 +1,1 @@
-{"index": 118463, "D": "a local or national organization of male students, primarily for social purposes, usually with secret initiation and rites and a name composed of two or three Greek letters.", "S": ["camaraderie ", "guild ", "sorority "], "A": ["sisterhood ", "sorority "]}
+{"index": 118463, "D": "a local or national organization of male students, primarily for social purposes, usually with secret initiation and rites and a name composed of two or three Greek letters.", "S": ["camaraderie", "guild", "sorority"], "A": ["sisterhood", "sorority"]}

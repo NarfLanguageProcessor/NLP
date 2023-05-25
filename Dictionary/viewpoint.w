@@ -1,1 +1,1 @@
-{"index": 359588, "D": "a place affording a view of something; position of observation", "S": ["angle ", "aspect ", "attitude ", "direction ", "frame of reference ", "outlook ", "perspective ", "point of view ", "posture ", "slant ", "stance ", "standpoint ", "vantage point ", "view "], "A": []}
+{"index": 359588, "D": "a place affording a view of something; position of observation", "S": ["angle", "aspect", "attitude", "direction", "frame of reference", "outlook", "perspective", "point of view", "posture", "slant", "stance", "standpoint", "vantage point", "view"], "A": []}

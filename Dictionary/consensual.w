@@ -1,1 +1,1 @@
-{"index": 66720, "D": "formed or existing by consent", "S": ["consistent ", "solid ", "unified ", "united ", "universal "], "A": ["divided "]}
+{"index": 66720, "D": "formed or existing by consent", "S": ["consistent", "solid", "unified", "united", "universal"], "A": ["divided"]}

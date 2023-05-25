@@ -1,1 +1,1 @@
-{"index": 364374, "D": "a loud sound produced by an explosion or sharp impact", "S": ["bang ", "blow ", "crash ", "knock ", "slam ", "smash ", "strike ", "whack "], "A": ["lose ", "praise ", "tap "]}
+{"index": 364374, "D": "a loud sound produced by an explosion or sharp impact", "S": ["bang", "blow", "crash", "knock", "slam", "smash", "strike", "whack"], "A": ["lose", "praise", "tap"]}

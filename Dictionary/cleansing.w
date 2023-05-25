@@ -1,1 +1,1 @@
-{"index": 59640, "D": "to make clean.", "S": ["cleaning ", "purgative "], "A": []}
+{"index": 59640, "D": "to make clean.", "S": ["cleaning", "purgative"], "A": []}

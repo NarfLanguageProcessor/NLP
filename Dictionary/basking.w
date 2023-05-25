@@ -1,1 +1,1 @@
-{"index": 28725, "D": "to lie in or be exposed to a pleasant warmth", "S": ["laze ", "loll ", "lounge ", "relax ", "sunbathe "], "A": ["cover ", "hide "]}
+{"index": 28725, "D": "to lie in or be exposed to a pleasant warmth", "S": ["laze", "loll", "lounge", "relax", "sunbathe"], "A": ["cover", "hide"]}

@@ -1,1 +1,1 @@
-{"index": 295870, "D": "a storm  accompanied by a heavy fall of snow. ", "S": ["blizzard "], "A": []}
+{"index": 295870, "D": "a storm  accompanied by a heavy fall of snow. ", "S": ["blizzard"], "A": []}

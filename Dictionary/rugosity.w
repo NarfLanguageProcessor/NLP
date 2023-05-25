@@ -1,1 +1,1 @@
-{"index": 275428, "D": [], "S": ["bend ", "bulge ", "cockle ", "corrugation ", "furrow ", "groove ", "line ", "overlap ", "pleat ", "plica ", "pucker ", "ridge ", "ruck ", "tuck "], "A": []}
+{"index": 275428, "D": [], "S": ["bend", "bulge", "cockle", "corrugation", "furrow", "groove", "line", "overlap", "pleat", "plica", "pucker", "ridge", "ruck", "tuck"], "A": []}

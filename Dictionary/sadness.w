@@ -1,1 +1,1 @@
-{"index": 276522, "D": "the quality or state of being sad; sorrow", "S": ["anguish ", "grief ", "heartache ", "heartbreak ", "hopelessness ", "melancholy ", "misery ", "mourning ", "poignancy ", "sorrow "], "A": ["cheer ", "delight ", "happiness ", "joy ", "advantage ", "benefit ", "comfort "]}
+{"index": 276522, "D": "the quality or state of being sad; sorrow", "S": ["anguish", "grief", "heartache", "heartbreak", "hopelessness", "melancholy", "misery", "mourning", "poignancy", "sorrow"], "A": ["cheer", "delight", "happiness", "joy", "advantage", "benefit", "comfort"]}

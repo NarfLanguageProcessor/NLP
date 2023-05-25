@@ -1,1 +1,1 @@
-{"index": 181653, "D": "the genuine thing or person as promised, stated, or implied", "S": ["genuine article ", "goods ", "gospel ", "no imitation ", "no joke ", "real thing ", "very thing "], "A": []}
+{"index": 181653, "D": "the genuine thing or person as promised, stated, or implied", "S": ["genuine article", "goods", "gospel", "no imitation", "no joke", "real thing", "very thing"], "A": []}

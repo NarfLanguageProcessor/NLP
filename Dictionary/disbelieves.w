@@ -1,1 +1,1 @@
-{"index": 87172, "D": "to have no belief in; refuse or reject belief in", "S": ["repudiate "], "A": ["approve ", "believe ", "credit ", "like ", "love ", "trust "]}
+{"index": 87172, "D": "to have no belief in; refuse or reject belief in", "S": ["repudiate"], "A": ["approve", "believe", "credit", "like", "love", "trust"]}

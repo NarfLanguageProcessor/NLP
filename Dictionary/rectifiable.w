@@ -1,1 +1,1 @@
-{"index": 263679, "D": "able to be rectified. ", "S": ["amendable ", "corrigible ", "curable ", "emendable ", "fixable ", "improvable ", "recoverable ", "redeemable ", "restorable "], "A": []}
+{"index": 263679, "D": "able to be rectified. ", "S": ["amendable", "corrigible", "curable", "emendable", "fixable", "improvable", "recoverable", "redeemable", "restorable"], "A": []}

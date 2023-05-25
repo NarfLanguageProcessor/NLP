@@ -1,1 +1,1 @@
-{"index": 65541, "D": "the act of condensing;  the state of being condensed. ", "S": ["contraction "], "A": ["dispersal ", "enlargement ", "increase ", "separation "]}
+{"index": 65541, "D": "the act of condensing;  the state of being condensed. ", "S": ["contraction"], "A": ["dispersal", "enlargement", "increase", "separation"]}

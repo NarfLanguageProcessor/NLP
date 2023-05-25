@@ -1,1 +1,1 @@
-{"index": 294663, "D": "a dollar.", "S": ["buss ", "butterfly ", "caress ", "embrace ", "endearment ", "osculation ", "peck ", "salutation ", "salute ", "smack ", "smooch "], "A": []}
+{"index": 294663, "D": "a dollar.", "S": ["buss", "butterfly", "caress", "embrace", "endearment", "osculation", "peck", "salutation", "salute", "smack", "smooch"], "A": []}

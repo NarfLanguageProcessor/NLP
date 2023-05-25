@@ -1,1 +1,0 @@
-{"index": 221339, "D": "firmly placed or fixed; stable in position or equilibrium", "S": [], "A": []}

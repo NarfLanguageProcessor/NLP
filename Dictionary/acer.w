@@ -1,1 +1,1 @@
-{"index": 1935, "D": "See also maple", "S": ["champion ", "distinguished ", "expert ", "great ", "master ", "virtuoso "], "A": ["amateur ", "unskilled "]}
+{"index": 1935, "D": "See also maple", "S": ["champion", "distinguished", "expert", "great", "master", "virtuoso"], "A": ["amateur", "unskilled"]}

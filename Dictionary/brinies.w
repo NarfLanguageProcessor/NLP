@@ -1,1 +1,1 @@
-{"index": 40868, "D": "of or like brine;  salty", "S": ["sea ", "tide "], "A": []}
+{"index": 40868, "D": "of or like brine;  salty", "S": ["sea", "tide"], "A": []}

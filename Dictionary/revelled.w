@@ -1,1 +1,1 @@
-{"index": 271147, "D": "to take great pleasure or delight (usually followed by in)", "S": ["bask ", "rejoice "], "A": ["be sad ", "disappoint ", "dislike ", "distress ", "hate "]}
+{"index": 271147, "D": "to take great pleasure or delight (usually followed by in)", "S": ["bask", "rejoice"], "A": ["be sad", "disappoint", "dislike", "distress", "hate"]}

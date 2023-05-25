@@ -1,1 +1,1 @@
-{"index": 101751, "D": "an act of enumerating. ", "S": ["catalog ", "list ", "register "], "A": []}
+{"index": 101751, "D": "an act of enumerating. ", "S": ["catalog", "list", "register"], "A": []}

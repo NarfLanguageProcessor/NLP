@@ -1,1 +1,1 @@
-{"index": 256267, "D": "a young hen, less than one year old.", "S": ["chicken ", "duck "], "A": []}
+{"index": 256267, "D": "a young hen, less than one year old.", "S": ["chicken", "duck"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 53074, "D": "the state or quality of being chaste. ", "S": ["abstinence ", "decency ", "monogamy ", "virginity "], "A": ["badness ", "corruption ", "disgrace ", "dishonesty ", "dishonor ", "evil ", "immorality ", "wildness "]}
+{"index": 53074, "D": "the state or quality of being chaste. ", "S": ["abstinence", "decency", "monogamy", "virginity"], "A": ["badness", "corruption", "disgrace", "dishonesty", "dishonor", "evil", "immorality", "wildness"]}

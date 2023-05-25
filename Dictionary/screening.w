@@ -1,1 +1,1 @@
-{"index": 281711, "D": "the act or work of a person who screens, as in ascertaining the character and competence of applicants, employees, etc.", "S": ["covering ", "masking ", "suppressing ", "veiling "], "A": ["obvious "]}
+{"index": 281711, "D": "the act or work of a person who screens, as in ascertaining the character and competence of applicants, employees, etc.", "S": ["covering", "masking", "suppressing", "veiling"], "A": ["obvious"]}

@@ -1,1 +1,1 @@
-{"index": 30345, "D": "a direct route traveled quickly (usually in the phrase make a beeline for)", "S": ["shortcut ", "straightaway "], "A": []}
+{"index": 30345, "D": "a direct route traveled quickly (usually in the phrase make a beeline for)", "S": ["shortcut", "straightaway"], "A": []}

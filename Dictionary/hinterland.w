@@ -1,1 +1,1 @@
-{"index": 139730, "D": "the remote or less developed parts of a country; back country", "S": ["outback "], "A": ["metropolis "]}
+{"index": 139730, "D": "the remote or less developed parts of a country; back country", "S": ["outback"], "A": ["metropolis"]}

@@ -1,1 +1,0 @@
-{"index": 356832, "D": "to set a value  on; appraise.", "S": [], "A": []}

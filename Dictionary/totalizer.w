@@ -1,1 +1,1 @@
-{"index": 326467, "D": "a person or thing that totals. ", "S": ["abacus ", "calculator ", "computer ", "electronic calculator ", "pocket calculator ", "totaliser "], "A": []}
+{"index": 326467, "D": "a person or thing that totals. ", "S": ["abacus", "calculator", "computer", "electronic calculator", "pocket calculator", "totaliser"], "A": []}

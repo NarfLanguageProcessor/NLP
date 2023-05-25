@@ -1,1 +1,1 @@
-{"index": 67676, "D": "placement opposite or against.", "S": ["antithesis ", "contradiction ", "contradistinction ", "contrariety ", "contrariness ", "contrast ", "oppositeness ", "polarity "], "A": []}
+{"index": 67676, "D": "placement opposite or against.", "S": ["antithesis", "contradiction", "contradistinction", "contrariety", "contrariness", "contrast", "oppositeness", "polarity"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 52317, "D": "an agile, goatlike antelope, Rupicapra rupicapra, of high mountains of Europe", "S": ["antelope ", "chammy ", "cloth ", "leather ", "shammy ", "skin "], "A": []}
+{"index": 52317, "D": "an agile, goatlike antelope, Rupicapra rupicapra, of high mountains of Europe", "S": ["antelope", "chammy", "cloth", "leather", "shammy", "skin"], "A": []}

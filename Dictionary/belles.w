@@ -1,1 +1,1 @@
-{"index": 31149, "D": "a woman or girl admired for her beauty and charm.", "S": ["coquette ", "debutante ", "dream ", "looker ", "queen ", "vision "], "A": ["actuality ", "fact ", "reality "]}
+{"index": 31149, "D": "a woman or girl admired for her beauty and charm.", "S": ["coquette", "debutante", "dream", "looker", "queen", "vision"], "A": ["actuality", "fact", "reality"]}

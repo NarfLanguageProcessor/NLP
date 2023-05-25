@@ -1,1 +1,1 @@
-{"index": 95988, "D": [], "S": ["sterilization "], "A": []}
+{"index": 95988, "D": [], "S": ["sterilization"], "A": []}

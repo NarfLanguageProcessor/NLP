@@ -1,1 +1,1 @@
-{"index": 265259, "D": "the act of reforming;  state of being reformed. ", "S": ["realignment ", "renewal ", "reorganization ", "transformation "], "A": ["worsening "]}
+{"index": 265259, "D": "the act of reforming;  state of being reformed. ", "S": ["realignment", "renewal", "reorganization", "transformation"], "A": ["worsening"]}

@@ -1,1 +1,1 @@
-{"index": 114349, "D": "a young bird just fledged. ", "S": ["apprentice ", "chick ", "colt ", "greenhorn ", "learner ", "neophyte ", "newcomer ", "novice ", "rookie ", "tenderfoot ", "trainee ", "tyro "], "A": ["expert ", "professional "]}
+{"index": 114349, "D": "a young bird just fledged. ", "S": ["apprentice", "chick", "colt", "greenhorn", "learner", "neophyte", "newcomer", "novice", "rookie", "tenderfoot", "trainee", "tyro"], "A": ["expert", "professional"]}

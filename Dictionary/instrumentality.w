@@ -1,1 +1,1 @@
-{"index": 153995, "D": "the quality or state of being instrumental. ", "S": ["agency ", "aid ", "assistance ", "help ", "means "], "A": ["blockage ", "hindrance ", "hurt ", "injury ", "obstruction ", "stop "]}
+{"index": 153995, "D": "the quality or state of being instrumental. ", "S": ["agency", "aid", "assistance", "help", "means"], "A": ["blockage", "hindrance", "hurt", "injury", "obstruction", "stop"]}

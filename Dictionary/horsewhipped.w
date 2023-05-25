@@ -1,1 +1,1 @@
-{"index": 144086, "D": "a whip for controlling horses.", "S": ["batter ", "buffet ", "chastise ", "knock ", "pummel ", "smack "], "A": ["compliment ", "lose "]}
+{"index": 144086, "D": "a whip for controlling horses.", "S": ["batter", "buffet", "chastise", "knock", "pummel", "smack"], "A": ["compliment", "lose"]}

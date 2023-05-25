@@ -1,1 +1,1 @@
-{"index": 123479, "D": "usually; commonly; ordinarily", "S": ["broadly ", "commonly ", "customarily ", "largely ", "mostly ", "normally ", "ordinarily ", "publicly ", "roughly ", "typically ", "universally ", "usually ", "widely "], "A": ["rarely ", "sometimes ", "unusually "]}
+{"index": 123479, "D": "usually; commonly; ordinarily", "S": ["broadly", "commonly", "customarily", "largely", "mostly", "normally", "ordinarily", "publicly", "roughly", "typically", "universally", "usually", "widely"], "A": ["rarely", "sometimes", "unusually"]}

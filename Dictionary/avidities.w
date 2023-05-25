@@ -1,1 +1,1 @@
-{"index": 24783, "D": "eagerness; greediness.", "S": ["avarice ", "cupidity ", "enthusiasm ", "fervor ", "greediness ", "longing "], "A": ["apathy ", "coolness ", "dislike "]}
+{"index": 24783, "D": "eagerness; greediness.", "S": ["avarice", "cupidity", "enthusiasm", "fervor", "greediness", "longing"], "A": ["apathy", "coolness", "dislike"]}

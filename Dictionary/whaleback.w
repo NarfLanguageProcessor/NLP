@@ -1,1 +1,0 @@
-{"index": 364344, "D": "a deck or cover curving upward.", "S": [], "A": []}

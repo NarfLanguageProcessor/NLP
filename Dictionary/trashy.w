@@ -1,1 +1,1 @@
-{"index": 328518, "D": "of the nature of trash;  inferior in quality; rubbishy; useless or worthless.", "S": ["crummy ", "sleazy ", "tawdry "], "A": ["nice "]}
+{"index": 328518, "D": "of the nature of trash;  inferior in quality; rubbishy; useless or worthless.", "S": ["crummy", "sleazy", "tawdry"], "A": ["nice"]}

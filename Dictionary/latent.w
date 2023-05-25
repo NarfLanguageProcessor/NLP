@@ -1,1 +1,0 @@
-{"index": 168838, "D": "present but not visible, apparent, or activated; existing as potential", "S": ["inherent ", "lurking ", "smoldering ", "suppressed ", "underlying ", "unrealized ", "veiled "], "A": ["active ", "apparent ", "clear ", "live ", "manifest ", "obvious ", "open ", "public "]}

@@ -1,1 +1,1 @@
-{"index": 323942, "D": "a sharp, projecting point or prong, as of a fork.", "S": ["branch ", "point ", "prong ", "spike "], "A": []}
+{"index": 323942, "D": "a sharp, projecting point or prong, as of a fork.", "S": ["branch", "point", "prong", "spike"], "A": []}

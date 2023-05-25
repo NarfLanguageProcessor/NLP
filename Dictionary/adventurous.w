@@ -1,1 +1,1 @@
-{"index": 4626, "D": "inclined or willing to engage in adventures;  enjoying adventures. ", "S": ["adventuresome ", "audacious ", "bold ", "courageous ", "enterprising ", "intrepid ", "risky "], "A": ["cowardly ", "fearful ", "meek ", "shy ", "timid ", "weak "]}
+{"index": 4626, "D": "inclined or willing to engage in adventures;  enjoying adventures. ", "S": ["adventuresome", "audacious", "bold", "courageous", "enterprising", "intrepid", "risky"], "A": ["cowardly", "fearful", "meek", "shy", "timid", "weak"]}

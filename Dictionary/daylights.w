@@ -1,1 +1,1 @@
-{"index": 76315, "D": "consciousness or wits (esp in the phrases scare, knock, or beat the (living) daylights out of someone)", "S": ["dawn ", "daytime ", "sunlight ", "sunshine "], "A": ["darkness ", "night ", "sunset "]}
+{"index": 76315, "D": "consciousness or wits (esp in the phrases scare, knock, or beat the (living) daylights out of someone)", "S": ["dawn", "daytime", "sunlight", "sunshine"], "A": ["darkness", "night", "sunset"]}

@@ -1,1 +1,0 @@
-{"index": 257341, "D": "to busy or occupy oneself in a leisurely, casual, or ineffective manner", "S": ["abecedarian ", "apprentice ", "aspirant ", "beginner ", "dabbler ", "dilettante ", "greenhorn ", "ham ", "hopeful ", "layperson ", "learner ", "neophyte ", "novice ", "probationer ", "recruit ", "tenderfoot ", "tyro "], "A": ["expert ", "professional "]}

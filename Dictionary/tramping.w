@@ -1,1 +1,1 @@
-{"index": 327578, "D": "hiking, especially on trails having huts at regular intervals for hikers to use overnight.", "S": ["hobo "], "A": ["tiptoeing "]}
+{"index": 327578, "D": "hiking, especially on trails having huts at regular intervals for hikers to use overnight.", "S": ["hobo"], "A": ["tiptoeing"]}

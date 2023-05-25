@@ -1,1 +1,1 @@
-{"index": 21719, "D": "the act or process of estimating the value of property, income, etc., as a basis for taxation", "S": ["appraise ", "check ", "determine ", "estimate ", "fix ", "gauge ", "judge ", "weigh "], "A": ["aid ", "assist ", "help ", "ignore ", "neglect "]}
+{"index": 21719, "D": "the act or process of estimating the value of property, income, etc., as a basis for taxation", "S": ["appraise", "check", "determine", "estimate", "fix", "gauge", "judge", "weigh"], "A": ["aid", "assist", "help", "ignore", "neglect"]}

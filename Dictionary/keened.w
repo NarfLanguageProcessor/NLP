@@ -1,1 +1,1 @@
-{"index": 163570, "D": "finely sharpened, as an edge; so shaped as to cut or pierce substances readily", "S": ["groan ", "growl ", "hoot ", "moan ", "outcry ", "roar ", "shriek ", "wail ", "whimper ", "yelp "], "A": []}
+{"index": 163570, "D": "finely sharpened, as an edge; so shaped as to cut or pierce substances readily", "S": ["groan", "growl", "hoot", "moan", "outcry", "roar", "shriek", "wail", "whimper", "yelp"], "A": []}

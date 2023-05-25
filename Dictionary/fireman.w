@@ -1,1 +1,1 @@
-{"index": 113178, "D": "a person employed to extinguish or prevent fires; firefighter.", "S": ["firefighter "], "A": []}
+{"index": 113178, "D": "a person employed to extinguish or prevent fires; firefighter.", "S": ["firefighter"], "A": []}

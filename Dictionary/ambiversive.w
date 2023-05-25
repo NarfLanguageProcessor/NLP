@@ -1,0 +1,1 @@
+{"index": 10041, "D": "a state intermediate between extroversion and introversion.", "S": [], "A": []}

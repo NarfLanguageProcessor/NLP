@@ -1,1 +1,1 @@
-{"index": 54928, "D": "a signed note for money owed for food, drink, etc.", "S": ["check ", "draft ", "memo ", "memorandum ", "note ", "tab ", "voucher "], "A": []}
+{"index": 54928, "D": "a signed note for money owed for food, drink, etc.", "S": ["check", "draft", "memo", "memorandum", "note", "tab", "voucher"], "A": []}

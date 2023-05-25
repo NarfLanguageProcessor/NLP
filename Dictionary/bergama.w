@@ -1,0 +1,1 @@
+{"index": 32038, "D": "Ancient Pergamum. ", "S": [], "A": []}

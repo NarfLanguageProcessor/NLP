@@ -1,1 +1,1 @@
-{"index": 128388, "D": "to rule over by right of authority", "S": ["administrative ", "dominant ", "guiding ", "ruling "], "A": ["inferior ", "subordinate "]}
+{"index": 128388, "D": "to rule over by right of authority", "S": ["administrative", "dominant", "guiding", "ruling"], "A": ["inferior", "subordinate"]}

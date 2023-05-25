@@ -1,1 +1,1 @@
-{"index": 232056, "D": "a person or thing that persuades", "S": ["business ", "staff "], "A": []}
+{"index": 232056, "D": "a person or thing that persuades", "S": ["business", "staff"], "A": []}

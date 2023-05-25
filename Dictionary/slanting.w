@@ -1,1 +1,1 @@
-{"index": 293664, "D": "to veer or angle away from a given level or line, especially from a horizontal; slope.", "S": ["bent ", "sloping ", "tilting "], "A": ["straight "]}
+{"index": 293664, "D": "to veer or angle away from a given level or line, especially from a horizontal; slope.", "S": ["bent", "sloping", "tilting"], "A": ["straight"]}

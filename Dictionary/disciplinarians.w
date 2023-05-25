@@ -1,1 +1,1 @@
-{"index": 87343, "D": "a person who enforces or advocates discipline", "S": ["enforcer "], "A": []}
+{"index": 87343, "D": "a person who enforces or advocates discipline", "S": ["enforcer"], "A": []}

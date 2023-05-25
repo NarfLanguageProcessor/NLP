@@ -1,1 +1,1 @@
-{"index": 282975, "D": "characterized by or requiring a sitting posture", "S": ["inactive "], "A": ["activated ", "active ", "energetic ", "mobile ", "moving "]}
+{"index": 282975, "D": "characterized by or requiring a sitting posture", "S": ["inactive"], "A": ["activated", "active", "energetic", "mobile", "moving"]}

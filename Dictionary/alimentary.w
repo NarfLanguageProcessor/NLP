@@ -1,1 +1,1 @@
-{"index": 8286, "D": "concerned with the function of nutrition; nutritive.", "S": ["comestible ", "dietary ", "digestible ", "nourishing ", "nutrient ", "nutritional ", "nutritious ", "nutritive ", "peptic ", "salutary ", "sustaining ", "sustentative "], "A": []}
+{"index": 8286, "D": "concerned with the function of nutrition; nutritive.", "S": ["comestible", "dietary", "digestible", "nourishing", "nutrient", "nutritional", "nutritious", "nutritive", "peptic", "salutary", "sustaining", "sustentative"], "A": []}

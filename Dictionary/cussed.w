@@ -1,1 +1,1 @@
-{"index": 75675, "D": "cursed. ", "S": ["grumpy ", "ornery ", "rude ", "sullen ", "uncivilized "], "A": ["happy ", "nice ", "polished ", "refined ", "sophisticated "]}
+{"index": 75675, "D": "cursed. ", "S": ["grumpy", "ornery", "rude", "sullen", "uncivilized"], "A": ["happy", "nice", "polished", "refined", "sophisticated"]}

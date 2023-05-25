@@ -1,1 +1,1 @@
-{"index": 120622, "D": "a fussy or needlessly fault-finding person.", "S": ["choosy ", "discriminating ", "exacting ", "finicky ", "fussy ", "squeamish "], "A": ["uncritical ", "undemanding ", "unfussy "]}
+{"index": 120622, "D": "a fussy or needlessly fault-finding person.", "S": ["choosy", "discriminating", "exacting", "finicky", "fussy", "squeamish"], "A": ["uncritical", "undemanding", "unfussy"]}

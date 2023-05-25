@@ -1,1 +1,1 @@
-{"index": 258152, "D": "a group or set of four persons or things.", "S": ["quadrivium ", "quadrumvirate ", "quadruple ", "quadruplet ", "quadruplets ", "quartet ", "quartette ", "quaternary ", "quaternity ", "tetrad ", "tetralogy "], "A": []}
+{"index": 258152, "D": "a group or set of four persons or things.", "S": ["quadrivium", "quadrumvirate", "quadruple", "quadruplet", "quadruplets", "quartet", "quartette", "quaternary", "quaternity", "tetrad", "tetralogy"], "A": []}

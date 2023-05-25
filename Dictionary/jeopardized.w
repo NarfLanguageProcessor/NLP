@@ -1,1 +1,1 @@
-{"index": 160887, "D": "to put in jeopardy;  hazard; risk; imperil", "S": ["at hazard ", "endangered ", "exposed ", "imperiled ", "in jeopardy ", "in peril ", "susceptible ", "threatened ", "vulnerable "], "A": []}
+{"index": 160887, "D": "to put in jeopardy;  hazard; risk; imperil", "S": ["at hazard", "endangered", "exposed", "imperiled", "in jeopardy", "in peril", "susceptible", "threatened", "vulnerable"], "A": []}

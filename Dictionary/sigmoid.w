@@ -1,1 +1,1 @@
-{"index": 290068, "D": "shaped like the letter C.", "S": ["arched ", "crooked ", "curvaceous ", "elliptical ", "rounded ", "serpentine ", "twisted ", "twisting "], "A": ["straight "]}
+{"index": 290068, "D": "shaped like the letter C.", "S": ["arched", "crooked", "curvaceous", "elliptical", "rounded", "serpentine", "twisted", "twisting"], "A": ["straight"]}

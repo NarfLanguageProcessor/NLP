@@ -1,1 +1,1 @@
-{"index": 281426, "D": "cleansed or polished by hard rubbing, as with a rough or abrasive material", "S": ["abrade ", "brush ", "buff ", "burnish ", "cleanse ", "flush ", "furbish ", "mop ", "pumice ", "purge ", "rub ", "sand ", "scrub ", "wash ", "whiten "], "A": ["dirty "]}
+{"index": 281426, "D": "cleansed or polished by hard rubbing, as with a rough or abrasive material", "S": ["abrade", "brush", "buff", "burnish", "cleanse", "flush", "furbish", "mop", "pumice", "purge", "rub", "sand", "scrub", "wash", "whiten"], "A": ["dirty"]}

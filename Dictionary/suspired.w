@@ -1,1 +1,1 @@
-{"index": 313776, "D": "to sigh.", "S": ["covet ", "cry out for ", "fancy ", "lust after "], "A": ["dislike ", "have "]}
+{"index": 313776, "D": "to sigh.", "S": ["covet", "cry out for", "fancy", "lust after"], "A": ["dislike", "have"]}

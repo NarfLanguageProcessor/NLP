@@ -1,1 +1,1 @@
-{"index": 34431, "D": "a complex biotic community characterized by distinctive plant and animal species and maintained under the climatic conditions of the region, especially such a community that has developed to climax.", "S": ["ecosystem ", "habitat "], "A": []}
+{"index": 34431, "D": "a complex biotic community characterized by distinctive plant and animal species and maintained under the climatic conditions of the region, especially such a community that has developed to climax.", "S": ["ecosystem", "habitat"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 173542, "D": "a ceremonial or liturgical form of prayer consisting of a series of invocations or supplications with responses that are the same for a number in succession.", "S": ["catalogue ", "recitation ", "repetition "], "A": []}
+{"index": 173542, "D": "a ceremonial or liturgical form of prayer consisting of a series of invocations or supplications with responses that are the same for a number in succession.", "S": ["catalogue", "recitation", "repetition"], "A": []}

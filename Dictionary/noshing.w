@@ -1,1 +1,1 @@
-{"index": 208720, "D": "to snack or eat between meals.", "S": ["bite ", "break ", "goodies ", "grub ", "pickings ", "refreshment ", "tidbit "], "A": []}
+{"index": 208720, "D": "to snack or eat between meals.", "S": ["bite", "break", "goodies", "grub", "pickings", "refreshment", "tidbit"], "A": []}

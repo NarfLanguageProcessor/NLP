@@ -1,1 +1,1 @@
-{"index": 32992, "D": "enchanting; charming; fascinating.", "S": ["alluring ", "captivating ", "charming ", "enchanting ", "engaging ", "enthralling ", "enticing ", "fascinating ", "luring ", "tempting ", "winning "], "A": ["boring ", "repellent ", "repulsive "]}
+{"index": 32992, "D": "enchanting; charming; fascinating.", "S": ["alluring", "captivating", "charming", "enchanting", "engaging", "enthralling", "enticing", "fascinating", "luring", "tempting", "winning"], "A": ["boring", "repellent", "repulsive"]}

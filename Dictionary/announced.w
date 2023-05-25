@@ -1,1 +1,1 @@
-{"index": 13607, "D": "to make known publicly or officially; proclaim; give notice of", "S": ["declared ", "disclosed ", "issued ", "released ", "reported "], "A": ["hidden ", "suppressed ", "unannounced "]}
+{"index": 13607, "D": "to make known publicly or officially; proclaim; give notice of", "S": ["declared", "disclosed", "issued", "released", "reported"], "A": ["hidden", "suppressed", "unannounced"]}

@@ -1,1 +1,1 @@
-{"index": 132475, "D": "a stack of hay with a conical or ridged top, built up in the mowed field so as to prevent the accumulation of moisture and promote drying.", "S": ["hay ", "haycock ", "hayrick ", "pile ", "rick ", "sheaf ", "stack "], "A": []}
+{"index": 132475, "D": "a stack of hay with a conical or ridged top, built up in the mowed field so as to prevent the accumulation of moisture and promote drying.", "S": ["hay", "haycock", "hayrick", "pile", "rick", "sheaf", "stack"], "A": []}

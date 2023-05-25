@@ -1,1 +1,1 @@
-{"index": 267610, "D": "to play a card that is not of the suit led when one can follow suit; break a rule of play.", "S": ["back out ", "default on ", "go back ", "go back on one's word ", "pull out ", "retract ", "reverse "], "A": []}
+{"index": 267610, "D": "to play a card that is not of the suit led when one can follow suit; break a rule of play.", "S": ["back out", "default on", "go back", "go back on one's word", "pull out", "retract", "reverse"], "A": []}

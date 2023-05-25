@@ -1,1 +1,1 @@
-{"index": 76962, "D": "slightly dark", "S": ["dilapidated ", "dirty ", "drab ", "dreary ", "grimy ", "run down ", "seedy ", "shabby "], "A": ["bright ", "clean ", "nice ", "pure ", "sterile "]}
+{"index": 76962, "D": "slightly dark", "S": ["dilapidated", "dirty", "drab", "dreary", "grimy", "run down", "seedy", "shabby"], "A": ["bright", "clean", "nice", "pure", "sterile"]}

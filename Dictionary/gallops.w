@@ -1,1 +1,1 @@
-{"index": 121463, "D": "to ride a horse at a gallop; ride at full speed", "S": ["amble ", "dart ", "dash ", "hurry ", "lope ", "stride ", "trot ", "zoom "], "A": ["slow ", "face ", "halt ", "stay ", "walk "]}
+{"index": 121463, "D": "to ride a horse at a gallop; ride at full speed", "S": ["amble", "dart", "dash", "hurry", "lope", "stride", "trot", "zoom"], "A": ["slow", "face", "halt", "stay", "walk"]}

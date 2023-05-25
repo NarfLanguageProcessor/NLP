@@ -1,1 +1,1 @@
-{"index": 323606, "D": "a person who tills; farmer. ", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}
+{"index": 323606, "D": "a person who tills; farmer. ", "S": ["grower", "laborer", "peasant", "producer", "rancher"], "A": []}

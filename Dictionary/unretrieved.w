@@ -1,1 +1,0 @@
-{"index": 349826, "D": "to recover or regain", "S": [], "A": []}

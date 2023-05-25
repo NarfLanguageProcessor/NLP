@@ -1,1 +1,1 @@
-{"index": 144735, "D": "extraordinarily large in bulk, quantity, or extent", "S": ["bigness ", "bulk ", "greatness ", "immenseness ", "immensity ", "magnitude ", "massiveness ", "prodigiousness ", "size ", "stupendousness ", "tremendousness ", "vastness "], "A": []}
+{"index": 144735, "D": "extraordinarily large in bulk, quantity, or extent", "S": ["bigness", "bulk", "greatness", "immenseness", "immensity", "magnitude", "massiveness", "prodigiousness", "size", "stupendousness", "tremendousness", "vastness"], "A": []}

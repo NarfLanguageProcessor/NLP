@@ -1,1 +1,0 @@
-{"index": 169845, "D": "(in ancient Greece) a vase with a narrow neck", "S": [], "A": []}

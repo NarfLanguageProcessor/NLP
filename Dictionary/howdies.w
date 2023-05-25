@@ -1,1 +1,1 @@
-{"index": 144550, "D": "a midwife.", "S": ["greetings ", "hi ", "welcome "], "A": ["adios ", "au revoir ", "goodbye "]}
+{"index": 144550, "D": "a midwife.", "S": ["greetings", "hi", "welcome"], "A": ["adios", "au revoir", "goodbye"]}

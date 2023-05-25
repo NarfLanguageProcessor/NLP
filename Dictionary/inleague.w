@@ -1,1 +1,1 @@
-{"index": 152972, "D": [], "S": ["affiliated ", "amalgamated ", "associated ", "bound ", "combined ", "confederate ", "connected ", "joined ", "joint ", "linked ", "married ", "related ", "unified ", "wed "], "A": ["disconnected ", "single ", "uncombined ", "unrelated "]}
+{"index": 152972, "D": [], "S": ["affiliated", "amalgamated", "associated", "bound", "combined", "confederate", "connected", "joined", "joint", "linked", "married", "related", "unified", "wed"], "A": ["disconnected", "single", "uncombined", "unrelated"]}

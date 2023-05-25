@@ -1,1 +1,1 @@
-{"index": 121801, "D": "an umbrella.", "S": ["brolly ", "canopy ", "sunshade "], "A": []}
+{"index": 121801, "D": "an umbrella.", "S": ["brolly", "canopy", "sunshade"], "A": []}

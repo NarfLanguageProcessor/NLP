@@ -1,1 +1,1 @@
-{"index": 357725, "D": "any means in or by which someone travels or something is carried or conveyed; a means of conveyance or transport", "S": ["automobile ", "bicycle ", "boat ", "bus ", "cab ", "car ", "jeep ", "taxi ", "truck ", "van ", "wagon "], "A": []}
+{"index": 357725, "D": "any means in or by which someone travels or something is carried or conveyed; a means of conveyance or transport", "S": ["automobile", "bicycle", "boat", "bus", "cab", "car", "jeep", "taxi", "truck", "van", "wagon"], "A": []}

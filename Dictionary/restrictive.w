@@ -1,1 +1,1 @@
-{"index": 270036, "D": "tending or serving to restrict. ", "S": ["antagonistic ", "confining ", "opposed ", "prohibitive ", "prohibitory "], "A": []}
+{"index": 270036, "D": "tending or serving to restrict. ", "S": ["antagonistic", "confining", "opposed", "prohibitive", "prohibitory"], "A": []}

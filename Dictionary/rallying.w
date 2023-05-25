@@ -1,1 +1,1 @@
-{"index": 260223, "D": "the sport of driving in automobile rallies. ", "S": ["ambulatory ", "healing ", "mending ", "strengthening "], "A": ["failing ", "faltering ", "sickly ", "weak ", "worsening "]}
+{"index": 260223, "D": "the sport of driving in automobile rallies. ", "S": ["ambulatory", "healing", "mending", "strengthening"], "A": ["failing", "faltering", "sickly", "weak", "worsening"]}

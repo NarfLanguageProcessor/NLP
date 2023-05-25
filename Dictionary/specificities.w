@@ -1,1 +1,1 @@
-{"index": 298791, "D": "the quality or state of being specific. ", "S": ["particularity ", "precision "], "A": ["imprecision ", "vagueness ", "ambiguity ", "obscurity "]}
+{"index": 298791, "D": "the quality or state of being specific. ", "S": ["particularity", "precision"], "A": ["imprecision", "vagueness", "ambiguity", "obscurity"]}

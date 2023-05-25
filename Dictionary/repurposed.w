@@ -1,1 +1,1 @@
-{"index": 268820, "D": "to adapt or utilize (something) for a new purpose", "S": ["reuse "], "A": ["dispose "]}
+{"index": 268820, "D": "to adapt or utilize (something) for a new purpose", "S": ["reuse"], "A": ["dispose"]}

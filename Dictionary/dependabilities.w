@@ -1,1 +1,1 @@
-{"index": 81548, "D": "the quality of being able to be relied on; trustworthiness or constancy", "S": ["accuracy ", "correctness ", "credibility ", "legitimacy ", "purity ", "reliability ", "trustworthiness ", "truthfulness ", "validity "], "A": ["inaccuracy "]}
+{"index": 81548, "D": "the quality of being able to be relied on; trustworthiness or constancy", "S": ["accuracy", "correctness", "credibility", "legitimacy", "purity", "reliability", "trustworthiness", "truthfulness", "validity"], "A": ["inaccuracy"]}

@@ -1,1 +1,1 @@
-{"index": 90188, "D": [], "S": ["dependable ", "enduring ", "lasting ", "permanent ", "reliable ", "stable ", "strong ", "tenacious "], "A": ["ephemeral ", "irresponsible ", "temporary ", "unreliable ", "weak "]}
+{"index": 90188, "D": [], "S": [], "A": []}

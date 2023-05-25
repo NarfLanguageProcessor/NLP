@@ -1,1 +1,1 @@
-{"index": 24498, "D": "belonging to or suggestive of autumn;  produced or gathered in autumn", "S": ["blooming ", "fall ", "mature "], "A": []}
+{"index": 24498, "D": "belonging to or suggestive of autumn;  produced or gathered in autumn", "S": ["blooming", "fall", "mature"], "A": []}

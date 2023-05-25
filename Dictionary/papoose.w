@@ -1,1 +1,1 @@
-{"index": 225281, "D": "a North American Indian baby or young child.", "S": ["babe ", "chick ", "child ", "kid ", "toddler ", "youngster "], "A": ["adult "]}
+{"index": 225281, "D": "a North American Indian baby or young child.", "S": ["babe", "chick", "child", "kid", "toddler", "youngster"], "A": ["adult"]}

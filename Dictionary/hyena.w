@@ -1,1 +1,1 @@
-{"index": 139084, "D": "a doglike carnivore of the family Hyaenidae, of Africa, southwestern Asia, and south central Asia, having a coarse coat, a sloping back, and large teeth and feeding chiefly on carrion, often in packs.", "S": ["mutt ", "pooch ", "pup "], "A": []}
+{"index": 139084, "D": "a doglike carnivore of the family Hyaenidae, of Africa, southwestern Asia, and south central Asia, having a coarse coat, a sloping back, and large teeth and feeding chiefly on carrion, often in packs.", "S": ["mutt", "pooch", "pup"], "A": []}

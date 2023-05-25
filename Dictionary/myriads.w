@@ -1,1 +1,1 @@
-{"index": 188365, "D": "a very great or indefinitely great number of persons or things.", "S": ["countless ", "endless ", "infinite ", "multiple "], "A": ["bounded ", "calculable ", "countable ", "limited ", "measurable "]}
+{"index": 188365, "D": "a very great or indefinitely great number of persons or things.", "S": ["countless", "endless", "infinite", "multiple"], "A": ["bounded", "calculable", "countable", "limited", "measurable"]}

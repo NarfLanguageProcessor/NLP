@@ -1,1 +1,1 @@
-{"index": 27906, "D": "with the feet bare", "S": ["discalceated ", "discalced ", "shoeless ", "unshod "], "A": []}
+{"index": 27906, "D": "with the feet bare", "S": ["discalceated", "discalced", "shoeless", "unshod"], "A": []}

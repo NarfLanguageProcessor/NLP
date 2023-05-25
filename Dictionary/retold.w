@@ -1,1 +1,1 @@
-{"index": 270576, "D": "to tell (a story, tale, etc.) over again or in a new way", "S": ["historical "], "A": ["rambling "]}
+{"index": 270576, "D": "to tell (a story, tale, etc.) over again or in a new way", "S": ["historical"], "A": ["rambling"]}

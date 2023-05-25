@@ -1,1 +1,1 @@
-{"index": 94100, "D": "dumpish; dejected; sulky.", "S": ["chubby ", "chunky ", "fat ", "homely ", "plump ", "podgy ", "pudgy ", "roly-poly ", "squat ", "stocky ", "stumpy ", "tubby "], "A": []}
+{"index": 94100, "D": "dumpish; dejected; sulky.", "S": ["chubby", "chunky", "fat", "homely", "plump", "podgy", "pudgy", "roly-poly", "squat", "stocky", "stumpy", "tubby"], "A": []}

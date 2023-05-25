@@ -1,1 +1,1 @@
-{"index": 337677, "D": "unintentionally and without realizing what one is doing", "S": ["unintentionally ", "unknowingly ", "unwittingly "], "A": ["consciously ", "deliberately ", "intentionally ", "knowingly ", "willfully "]}
+{"index": 337677, "D": "unintentionally and without realizing what one is doing", "S": ["unintentionally", "unknowingly", "unwittingly"], "A": ["consciously", "deliberately", "intentionally", "knowingly", "willfully"]}

@@ -1,0 +1,1 @@
+{"index": 3464, "D": "to make suitable to requirements or conditions; adjust or modify fittingly", "S": ["becoming", "fitting"], "A": ["improper", "inappropriate", "unfitting", "unseemly", "unsuitable"]}

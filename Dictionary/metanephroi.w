@@ -1,1 +1,0 @@
-{"index": 184843, "D": "one of the three embryonic excretory organs of higher vertebrates, becoming the permanent and functional kidney.", "S": [], "A": []}

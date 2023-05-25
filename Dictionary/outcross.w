@@ -1,1 +1,1 @@
-{"index": 216424, "D": "to cross  (animals or plants) by breeding individuals of different strains but, usually, of the same breed.", "S": ["amalgam ", "combination "], "A": ["division ", "separation "]}
+{"index": 216424, "D": "to cross  (animals or plants) by breeding individuals of different strains but, usually, of the same breed.", "S": ["amalgam", "combination"], "A": ["division", "separation"]}

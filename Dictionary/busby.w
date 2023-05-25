@@ -1,1 +1,1 @@
-{"index": 43368, "D": "a tall fur hat with a baglike ornament hanging from the top over the right side.", "S": ["hat ", "helmet ", "tiara ", "turban "], "A": []}
+{"index": 43368, "D": "a tall fur hat with a baglike ornament hanging from the top over the right side.", "S": ["hat", "helmet", "tiara", "turban"], "A": []}

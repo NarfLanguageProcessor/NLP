@@ -1,1 +1,1 @@
-{"index": 54286, "D": "a person between birth and puberty or full growth", "S": ["juvenile ", "kid ", "minor ", "offspring ", "youngster ", "youth "], "A": ["adult ", "parent "]}
+{"index": 54286, "D": "a person between birth and puberty or full growth", "S": ["juvenile", "kid", "minor", "offspring", "youngster", "youth"], "A": ["adult", "parent"]}

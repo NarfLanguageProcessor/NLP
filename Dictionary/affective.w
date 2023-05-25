@@ -1,1 +1,1 @@
-{"index": 5322, "D": "of, caused by, or expressing emotion or feeling; emotional.", "S": ["emotional ", "emotive ", "feeling ", "intuitive ", "noncognitive ", "perceptual ", "visceral "], "A": []}
+{"index": 5322, "D": "of, caused by, or expressing emotion or feeling; emotional.", "S": ["emotional", "emotive", "feeling", "intuitive", "noncognitive", "perceptual", "visceral"], "A": []}

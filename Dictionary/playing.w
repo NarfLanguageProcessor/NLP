@@ -1,1 +1,1 @@
-{"index": 238762, "D": "a dramatic composition or piece; drama. ", "S": ["careless ", "easy ", "fast ", "lax "], "A": ["chaste ", "strict ", "clean ", "decent ", "moral ", "pure ", "uncorrupt ", "virtuous "]}
+{"index": 238762, "D": "a dramatic composition or piece; drama. ", "S": ["careless", "easy", "fast", "lax"], "A": ["chaste", "strict", "clean", "decent", "moral", "pure", "uncorrupt", "virtuous"]}

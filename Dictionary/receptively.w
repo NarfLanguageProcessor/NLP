@@ -1,1 +1,1 @@
-{"index": 262742, "D": "having the quality of receiving,  taking in, or admitting.", "S": ["approvingly ", "cordially ", "enthusiastically ", "fairly ", "generously ", "positively "], "A": ["unfavorably ", "unfriendly "]}
+{"index": 262742, "D": "having the quality of receiving,  taking in, or admitting.", "S": ["approvingly", "cordially", "enthusiastically", "fairly", "generously", "positively"], "A": ["unfavorably", "unfriendly"]}

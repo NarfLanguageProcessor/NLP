@@ -1,1 +1,1 @@
-{"index": 260594, "D": "a number of persons forming a separate class in a social hierarchy or in any graded body.", "S": ["musty ", "noxious ", "putrid "], "A": ["clean ", "fresh ", "good ", "nice ", "pleasant ", "pleasing "]}
+{"index": 260594, "D": "a number of persons forming a separate class in a social hierarchy or in any graded body.", "S": ["musty", "noxious", "putrid"], "A": ["clean", "fresh", "good", "nice", "pleasant", "pleasing"]}

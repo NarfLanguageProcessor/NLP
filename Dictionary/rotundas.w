@@ -1,1 +1,1 @@
-{"index": 274714, "D": "a round building, especially one with a dome.", "S": ["bank ", "club ", "clubhouse ", "dive ", "hall ", "honky-tonk ", "house ", "joint ", "roadhouse ", "saloon ", "track "], "A": []}
+{"index": 274714, "D": "a round building, especially one with a dome.", "S": ["bank", "club", "clubhouse", "dive", "hall", "honky-tonk", "house", "joint", "roadhouse", "saloon", "track"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 354330, "D": "like or befitting a woman;  feminine; not masculine or girlish.", "S": ["manly ", "masculine "], "A": ["feminine ", "womanish ", "womanlike ", "womanly "]}

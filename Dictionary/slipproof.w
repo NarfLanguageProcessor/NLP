@@ -1,1 +1,1 @@
-{"index": 294202, "D": [], "S": ["blue ", "blueprint ", "foundry proof ", "galley ", "page proof ", "plate proof ", "press proof ", "proof ", "slip ", "test copy "], "A": []}
+{"index": 294202, "D": [], "S": ["blue", "blueprint", "foundry proof", "galley", "page proof", "plate proof", "press proof", "proof", "slip", "test copy"], "A": []}

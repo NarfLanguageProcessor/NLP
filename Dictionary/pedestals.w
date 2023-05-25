@@ -1,1 +1,0 @@
-{"index": 228833, "D": "an architectural support for a column, statue, vase, or the like.", "S": ["podium "], "A": ["top "]}

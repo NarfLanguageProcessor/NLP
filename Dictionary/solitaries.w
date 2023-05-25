@@ -1,1 +1,1 @@
-{"index": 296812, "D": "alone; without companions; unattended", "S": ["observer "], "A": ["extrovert "]}
+{"index": 296812, "D": "alone; without companions; unattended", "S": ["observer"], "A": ["extrovert"]}

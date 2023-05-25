@@ -1,1 +1,1 @@
-{"index": 311202, "D": "the shining of the sun; direct light of the sun.", "S": ["daylight ", "daytime ", "light ", "sunlight "], "A": ["darkness ", "night "]}
+{"index": 311202, "D": "the shining of the sun; direct light of the sun.", "S": ["daylight", "daytime", "light", "sunlight"], "A": ["darkness", "night"]}

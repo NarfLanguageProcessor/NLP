@@ -1,1 +1,1 @@
-{"index": 106845, "D": "the act of excreting. ", "S": ["defecation ", "discharge ", "ejection ", "elimination ", "evacuation ", "expelling ", "expulsion ", "exudation ", "leaving ", "perspiration ", "secretion ", "sweating ", "urination ", "voiding "], "A": ["accretion ", "eating ", "receiving "]}
+{"index": 106845, "D": "the act of excreting. ", "S": ["defecation", "discharge", "ejection", "elimination", "evacuation", "expelling", "expulsion", "exudation", "leaving", "perspiration", "secretion", "sweating", "urination", "voiding"], "A": ["accretion", "eating", "receiving"]}

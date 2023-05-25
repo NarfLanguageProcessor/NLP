@@ -1,1 +1,1 @@
-{"index": 186739, "D": "an abnormally small person having normal physical proportions.", "S": ["dwarfs ", "elfenfolk ", "elves ", "fairies ", "fairyfolk ", "laborers ", "leprechauns ", "the unremarkable "], "A": []}
+{"index": 186739, "D": "an abnormally small person having normal physical proportions.", "S": ["dwarfs", "elfenfolk", "elves", "fairies", "fairyfolk", "laborers", "leprechauns", "the unremarkable"], "A": []}

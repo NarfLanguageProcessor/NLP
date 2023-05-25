@@ -1,1 +1,0 @@
-{"index": 268838, "D": "according to reputation or popular belief", "S": ["allegedly ", "apparently ", "probably ", "purportedly "], "A": ["improbably ", "unlikely "]}

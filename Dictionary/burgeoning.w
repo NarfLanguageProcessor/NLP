@@ -1,1 +1,1 @@
-{"index": 43060, "D": "growing or developing quickly", "S": ["fledgling ", "growing ", "incipient ", "nascent ", "promising "], "A": ["dying ", "shrinking ", "withering "]}
+{"index": 43060, "D": "growing or developing quickly", "S": ["fledgling", "growing", "incipient", "nascent", "promising"], "A": ["dying", "shrinking", "withering"]}

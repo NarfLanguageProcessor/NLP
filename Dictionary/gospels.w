@@ -1,1 +1,1 @@
-{"index": 128206, "D": [], "S": ["dogma ", "faith ", "truth "], "A": ["doubt ", "unbelief "]}
+{"index": 128206, "D": [], "S": ["dogma", "faith", "truth"], "A": ["doubt", "unbelief"]}

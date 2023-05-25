@@ -1,1 +1,1 @@
-{"index": 224891, "D": "children's trousers resembling these", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}
+{"index": 224891, "D": "children's trousers resembling these", "S": ["knickers", "shorts", "slacks", "trousers", "underpants"], "A": []}

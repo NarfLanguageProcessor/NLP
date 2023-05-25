@@ -1,1 +1,1 @@
-{"index": 285512, "D": "a person or thing that watches or stands as if watching.", "S": ["guard ", "keeper ", "lookout ", "picket ", "protector "], "A": []}
+{"index": 285512, "D": "a person or thing that watches or stands as if watching.", "S": ["guard", "keeper", "lookout", "picket", "protector"], "A": []}

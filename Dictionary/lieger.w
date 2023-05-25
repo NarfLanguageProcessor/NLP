@@ -1,1 +1,0 @@
-{"index": 171827, "D": "a feudal lord entitled to allegiance and service.", "S": ["constant ", "fast ", "firm ", "steady ", "straight ", "true ", "trusty ", "upright "], "A": ["changeable ", "corrupt ", "dishonest ", "disloyal ", "flexible ", "loose ", "unfixed ", "unstable ", "unsteady ", "untrustworthy ", "wavering ", "weak "]}

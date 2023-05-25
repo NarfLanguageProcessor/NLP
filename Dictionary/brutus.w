@@ -1,1 +1,1 @@
-{"index": 41892, "D": "Roman provincial administrator", "S": ["Judas ", "backstabber ", "betrayer ", "defector ", "deserter ", "double agent ", "double-crosser ", "fink ", "informer ", "quisling ", "snake in the grass ", "snitch ", "spy ", "stool pigeon ", "treasonist ", "turncoat "], "A": []}
+{"index": 41892, "D": "Roman provincial administrator", "S": ["Judas", "backstabber", "betrayer", "defector", "deserter", "double agent", "double-crosser", "fink", "informer", "quisling", "snake in the grass", "snitch", "spy", "stool pigeon", "treasonist", "turncoat"], "A": []}

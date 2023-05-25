@@ -1,1 +1,1 @@
-{"index": 126454, "D": "a drop or globule of a liquid.", "S": ["blob ", "clump ", "gob "], "A": []}
+{"index": 126454, "D": "a drop or globule of a liquid.", "S": ["blob", "clump", "gob"], "A": []}

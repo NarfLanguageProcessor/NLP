@@ -1,1 +1,0 @@
-{"index": 281333, "D": "Scorpius. ", "S": ["Aquarius ", "Aries ", "Cancer ", "Capricorn ", "Gemini ", "Libra ", "Pisces ", "Sagittarius ", "Scorpio ", "Taurus ", "Virgo ", "horoscope sign ", "leo ", "zodiac sign "], "A": []}

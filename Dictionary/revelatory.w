@@ -1,1 +1,1 @@
-{"index": 271142, "D": "of, relating to, or having the characteristics of revelation. ", "S": ["apocalyptic ", "fateful ", "oracular ", "portentous ", "predictive ", "prescient ", "prognosticative ", "prophetic ", "revelational "], "A": []}
+{"index": 271142, "D": "of, relating to, or having the characteristics of revelation. ", "S": ["apocalyptic", "fateful", "oracular", "portentous", "predictive", "prescient", "prognosticative", "prophetic", "revelational"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 305708, "D": "a narrow passage of water connecting two large bodies of water.", "S": ["predicament "], "A": ["advantage ", "benefit ", "blessing ", "closure ", "comfort ", "ease ", "good fortune ", "miracle ", "solution "]}
+{"index": 305708, "D": "a narrow passage of water connecting two large bodies of water.", "S": ["predicament"], "A": ["advantage", "benefit", "blessing", "closure", "comfort", "ease", "good fortune", "miracle", "solution"]}

@@ -1,1 +1,0 @@
-{"index": 335341, "D": "made milder or less severe; eased", "S": ["discontented "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

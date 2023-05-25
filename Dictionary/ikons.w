@@ -1,1 +1,1 @@
-{"index": 147203, "D": "icon (defs. 1, 2). ", "S": ["figure ", "idol ", "picture ", "portrait ", "symbol "], "A": []}
+{"index": 147203, "D": "icon (defs. 1, 2). ", "S": ["figure", "idol", "picture", "portrait", "symbol"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 244702, "D": "a person who habitually smokes marijuana.", "S": ["burnout ", "dopehead ", "doper ", "druggie ", "hophead "], "A": []}
+{"index": 244702, "D": "a person who habitually smokes marijuana.", "S": ["burnout", "dopehead", "doper", "druggie", "hophead"], "A": []}

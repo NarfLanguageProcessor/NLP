@@ -1,1 +1,1 @@
-{"index": 104377, "D": "extrasensory perception", "S": ["clairvoyance ", "extrasensory perception ", "insight ", "intuition ", "perception ", "second sight ", "sixth sense "], "A": []}
+{"index": 104377, "D": "extrasensory perception", "S": ["clairvoyance", "extrasensory perception", "insight", "intuition", "perception", "second sight", "sixth sense"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 297218, "D": "a short metrical composition intended or adapted for singing,  especially one in rhymed stanzas; a lyric; a ballad.", "S": ["choral ", "coloratura "], "A": []}
+{"index": 297218, "D": "a short metrical composition intended or adapted for singing,  especially one in rhymed stanzas; a lyric; a ballad.", "S": ["choral", "coloratura"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25076, "D": "See also hatchet", "S": ["cleave ", "cube ", "divide ", "hack ", "mince ", "slash ", "whack "], "A": ["join ", "unite ", "lengthen "]}
+{"index": 25076, "D": "See also hatchet", "S": ["cleave", "cube", "divide", "hack", "mince", "slash", "whack"], "A": ["join", "unite", "lengthen"]}

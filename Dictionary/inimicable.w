@@ -1,1 +1,1 @@
-{"index": 152754, "D": "adverse in tendency or effect; unfavorable; harmful", "S": ["adverse ", "destructive ", "harmful ", "hostile ", "injurious ", "opposed ", "unfavorable ", "unfriendly "], "A": ["aiding ", "assisting ", "favorable ", "friendly ", "good ", "helpful ", "kind ", "nice "]}
+{"index": 152754, "D": "adverse in tendency or effect; unfavorable; harmful", "S": ["adverse", "destructive", "harmful", "hostile", "injurious", "opposed", "unfavorable", "unfriendly"], "A": ["aiding", "assisting", "favorable", "friendly", "good", "helpful", "kind", "nice"]}

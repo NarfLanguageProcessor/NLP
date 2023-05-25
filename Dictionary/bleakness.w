@@ -1,1 +1,1 @@
-{"index": 35964, "D": "bare, desolate, and often windswept", "S": ["aridity ", "aridness ", "emptiness ", "underdevelopment "], "A": ["fecundity ", "fertility ", "fruitfulness "]}
+{"index": 35964, "D": "bare, desolate, and often windswept", "S": ["aridity", "aridness", "emptiness", "underdevelopment"], "A": ["fecundity", "fertility", "fruitfulness"]}

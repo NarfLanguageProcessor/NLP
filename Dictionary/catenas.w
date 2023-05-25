@@ -1,1 +1,1 @@
-{"index": 49563, "D": [], "S": ["conglomerate ", "group ", "string "], "A": ["interruption "]}
+{"index": 49563, "D": [], "S": ["conglomerate", "group", "string"], "A": ["interruption"]}

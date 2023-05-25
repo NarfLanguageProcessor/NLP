@@ -1,1 +1,1 @@
-{"index": 98573, "D": "an act or instance of emitting", "S": ["discharge ", "radiation "], "A": ["concealment ", "containment ", "refrain ", "repression ", "suppression ", "withholding "]}
+{"index": 98573, "D": "an act or instance of emitting", "S": ["discharge", "radiation"], "A": ["concealment", "containment", "refrain", "repression", "suppression", "withholding"]}

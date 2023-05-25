@@ -1,1 +1,1 @@
-{"index": 4210, "D": "to allow to enter; grant or afford entrance to", "S": ["even if ", "even though ", "notwithstanding "], "A": []}
+{"index": 4210, "D": "to allow to enter; grant or afford entrance to", "S": ["even if", "even though", "notwithstanding"], "A": []}

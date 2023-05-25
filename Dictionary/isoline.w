@@ -1,1 +1,1 @@
-{"index": 159063, "D": "isogram. ", "S": ["contour ", "hachure ", "isoheight ", "isohypse ", "layer tint ", "level curve ", "level line "], "A": []}
+{"index": 159063, "D": "isogram. ", "S": ["contour", "hachure", "isoheight", "isohypse", "layer tint", "level curve", "level line"], "A": []}

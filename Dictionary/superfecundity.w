@@ -1,1 +1,0 @@
-{"index": 311833, "D": "the quality of being fecund;  capacity, especially in female animals, of producing young in great numbers.", "S": [], "A": []}

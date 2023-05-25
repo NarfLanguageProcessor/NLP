@@ -1,1 +1,1 @@
-{"index": 223028, "D": "in India, Myanmar (Burma), China, etc., a temple or sacred building, usually a pyramidlike tower and typically having upward-curving roofs over the individual stories.", "S": ["gazebo ", "memorial ", "shrine ", "temple "], "A": []}
+{"index": 223028, "D": "in India, Myanmar (Burma), China, etc., a temple or sacred building, usually a pyramidlike tower and typically having upward-curving roofs over the individual stories.", "S": ["gazebo", "memorial", "shrine", "temple"], "A": []}

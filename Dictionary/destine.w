@@ -1,1 +1,1 @@
-{"index": 82938, "D": "to set apart for a particular use, purpose, etc.; design; intend.", "S": ["doom ", "intend "], "A": ["hesitate ", "keep ", "misuse ", "use ", "waste "]}
+{"index": 82938, "D": "to set apart for a particular use, purpose, etc.; design; intend.", "S": ["doom", "intend"], "A": ["hesitate", "keep", "misuse", "use", "waste"]}

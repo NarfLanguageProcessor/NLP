@@ -1,1 +1,1 @@
-{"index": 320616, "D": "an expression of appreciation or gratitude or an acknowledgment of services or favours given", "S": ["gratitude ", "recognition "], "A": ["condemnation ", "disapproval "]}
+{"index": 320616, "D": "an expression of appreciation or gratitude or an acknowledgment of services or favours given", "S": ["gratitude", "recognition"], "A": ["condemnation", "disapproval"]}

@@ -1,1 +1,1 @@
-{"index": 359737, "D": "a cruelly malicious person who is involved in or devoted to wickedness or crime; scoundrel. ", "S": ["antihero ", "bad guy ", "baddie ", "baddy ", "criminal ", "devil ", "scoundrel ", "sinner "], "A": ["hero ", "heroine "]}
+{"index": 359737, "D": "a cruelly malicious person who is involved in or devoted to wickedness or crime; scoundrel. ", "S": ["antihero", "bad guy", "baddie", "baddy", "criminal", "devil", "scoundrel", "sinner"], "A": ["hero", "heroine"]}

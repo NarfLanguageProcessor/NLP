@@ -1,1 +1,1 @@
-{"index": 170225, "D": "(in the Hawaiian Islands) a wreath of flowers, leaves, etc., for the neck or head.", "S": ["garland ", "pot ", "vase ", "wreath "], "A": []}
+{"index": 170225, "D": "(in the Hawaiian Islands) a wreath of flowers, leaves, etc., for the neck or head.", "S": ["garland", "pot", "vase", "wreath"], "A": []}

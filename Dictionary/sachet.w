@@ -1,1 +1,1 @@
-{"index": 276288, "D": "a small bag, case, or pad containing perfuming powder or the like, placed among handkerchiefs, lingerie, etc., to impart a pleasant scent.", "S": ["fragrance ", "perfume ", "potpourri "], "A": ["stench ", "stink "]}
+{"index": 276288, "D": "a small bag, case, or pad containing perfuming powder or the like, placed among handkerchiefs, lingerie, etc., to impart a pleasant scent.", "S": ["fragrance", "perfume", "potpourri"], "A": ["stench", "stink"]}

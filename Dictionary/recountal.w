@@ -1,1 +1,1 @@
-{"index": 263526, "D": "an act of recounting. ", "S": ["annals ", "diary ", "journal "], "A": []}
+{"index": 263526, "D": "an act of recounting. ", "S": ["annals", "diary", "journal"], "A": []}

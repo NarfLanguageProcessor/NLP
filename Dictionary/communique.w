@@ -1,1 +1,1 @@
-{"index": 64263, "D": "an official bulletin or communication, usually to the press or public.", "S": ["bulletin ", "notice ", "proclamation ", "warning "], "A": ["quiet "]}
+{"index": 64263, "D": "an official bulletin or communication, usually to the press or public.", "S": ["bulletin", "notice", "proclamation", "warning"], "A": ["quiet"]}

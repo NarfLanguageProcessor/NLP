@@ -1,1 +1,1 @@
-{"index": 81200, "D": "to condemn or censure openly or publicly", "S": ["denunciation "], "A": []}
+{"index": 81200, "D": "to condemn or censure openly or publicly", "S": ["denunciation"], "A": []}

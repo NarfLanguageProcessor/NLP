@@ -1,1 +1,1 @@
-{"index": 358822, "D": "(not in technical use) a stanza.", "S": ["educate ", "tutor "], "A": ["learn ", "abandon ", "conceal ", "forget ", "hide ", "ignore ", "leave alone ", "misguide ", "mislead ", "mismanage ", "neglect "]}
+{"index": 358822, "D": "(not in technical use) a stanza.", "S": ["educate", "tutor"], "A": ["learn", "abandon", "conceal", "forget", "hide", "ignore", "leave alone", "misguide", "mislead", "mismanage", "neglect"]}

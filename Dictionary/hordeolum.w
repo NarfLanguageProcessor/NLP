@@ -1,1 +1,1 @@
-{"index": 143774, "D": "sty2. ", "S": ["den ", "dump ", "hovel ", "pen ", "pigpen ", "shack "], "A": []}
+{"index": 143774, "D": "sty2. ", "S": ["den", "dump", "hovel", "pen", "pigpen", "shack"], "A": []}

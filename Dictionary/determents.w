@@ -1,1 +1,1 @@
-{"index": 83153, "D": "to discourage or restrain from acting or proceeding", "S": ["deterrence ", "disincentive ", "dissuasion ", "obviation ", "preclusion ", "preemption "], "A": []}
+{"index": 83153, "D": "to discourage or restrain from acting or proceeding", "S": ["deterrence", "disincentive", "dissuasion", "obviation", "preclusion", "preemption"], "A": []}

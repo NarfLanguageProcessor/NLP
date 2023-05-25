@@ -1,1 +1,1 @@
-{"index": 81682, "D": "to regret deeply or strongly; lament", "S": ["abhor ", "bemoan ", "complain ", "denounce ", "lament ", "mourn "], "A": ["approve ", "be happy ", "commend ", "compliment ", "praise ", "endorse ", "laud "]}
+{"index": 81682, "D": "to regret deeply or strongly; lament", "S": ["abhor", "bemoan", "complain", "denounce", "lament", "mourn"], "A": ["approve", "be happy", "commend", "compliment", "praise", "endorse", "laud"]}

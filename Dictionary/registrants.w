@@ -1,1 +1,1 @@
-{"index": 265681, "D": "a person who registers  or is registered. ", "S": ["enrollment ", "turnout "], "A": []}
+{"index": 265681, "D": "a person who registers  or is registered. ", "S": ["enrollment", "turnout"], "A": []}

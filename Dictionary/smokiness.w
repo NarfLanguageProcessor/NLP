@@ -1,1 +1,1 @@
-{"index": 295024, "D": "emitting smoke,  especially in large amounts.", "S": ["blackness ", "dark ", "dusk ", "gloom ", "obscurity ", "twilight "], "A": ["brightness ", "light ", "lightness "]}
+{"index": 295024, "D": "emitting smoke,  especially in large amounts.", "S": ["blackness", "dark", "dusk", "gloom", "obscurity", "twilight"], "A": ["brightness", "light", "lightness"]}

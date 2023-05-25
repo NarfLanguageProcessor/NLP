@@ -1,1 +1,1 @@
-{"index": 70104, "D": "the world or universe regarded as an orderly, harmonious system.", "S": ["galaxy ", "solar system "], "A": []}
+{"index": 70104, "D": "the world or universe regarded as an orderly, harmonious system.", "S": ["galaxy", "solar system"], "A": []}

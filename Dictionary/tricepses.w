@@ -1,1 +1,0 @@
-{"index": 329329, "D": "a muscle having three heads or points of origin, especially the muscle on the back of the arm, the action of which straightens the elbow.", "S": ["branch ", "rod ", "wing "], "A": ["leg "]}

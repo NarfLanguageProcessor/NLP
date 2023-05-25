@@ -1,1 +1,1 @@
-{"index": 126601, "D": "marked by or full of glop. ", "S": ["creamed ", "fluffy ", "gooey ", "greasy ", "luscious ", "lush ", "milky ", "oily ", "rich ", "soft ", "velvety "], "A": ["dry ", "poor ", "rough "]}
+{"index": 126601, "D": "marked by or full of glop. ", "S": ["creamed", "fluffy", "gooey", "greasy", "luscious", "lush", "milky", "oily", "rich", "soft", "velvety"], "A": ["dry", "poor", "rough"]}

@@ -1,1 +1,1 @@
-{"index": 154767, "D": "sexual intercourse,  especially coitus.", "S": ["copulation ", "intimacy "], "A": []}
+{"index": 154767, "D": "sexual intercourse,  especially coitus.", "S": ["copulation", "intimacy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 11371, "D": "to cut off (all or part of a limb or digit of the body), as by surgery.", "S": ["disfigured ", "mangled "], "A": []}
+{"index": 11371, "D": "to cut off (all or part of a limb or digit of the body), as by surgery.", "S": ["disfigured", "mangled"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 326300, "D": "the trunk of the human body.", "S": ["frame "], "A": ["head ", "mind ", "soul ", "spirit "]}
+{"index": 326300, "D": "the trunk of the human body.", "S": ["frame"], "A": ["head", "mind", "soul", "spirit"]}

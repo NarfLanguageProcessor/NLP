@@ -1,1 +1,1 @@
-{"index": 79206, "D": "resistance against attack; protection", "S": ["abandonedly ", "dependently ", "feebly ", "involuntarily ", "powerlessly ", "weakly ", "willy-nilly "], "A": []}
+{"index": 79206, "D": "resistance against attack; protection", "S": ["abandonedly", "dependently", "feebly", "involuntarily", "powerlessly", "weakly", "willy-nilly"], "A": []}

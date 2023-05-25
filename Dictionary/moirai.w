@@ -1,1 +1,0 @@
-{"index": 191327, "D": "Roman counterparts", "S": ["circumstance ", "future ", "inevitability ", "intention ", "objective ", "prospect "], "A": ["concept ", "continuity ", "misfortune ", "theory ", "whole "]}

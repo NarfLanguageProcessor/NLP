@@ -1,1 +1,1 @@
-{"index": 339020, "D": "the state of being conscious;  awareness of one's own existence, sensations, thoughts, surroundings, etc.", "S": ["psyche "], "A": ["body "]}
+{"index": 339020, "D": "the state of being conscious;  awareness of one's own existence, sensations, thoughts, surroundings, etc.", "S": ["psyche"], "A": ["body"]}

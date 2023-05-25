@@ -1,1 +1,1 @@
-{"index": 187292, "D": "consisting of or pertaining to a thousand, especially a thousand years.", "S": ["millenarian "], "A": []}
+{"index": 187292, "D": "consisting of or pertaining to a thousand, especially a thousand years.", "S": ["millenarian"], "A": []}

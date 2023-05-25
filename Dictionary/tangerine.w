@@ -1,1 +1,1 @@
-{"index": 316037, "D": "any of several varieties of mandarin, cultivated widely, especially in the U.S.", "S": ["apricot ", "cantaloupe ", "carrot ", "coral ", "peach ", "salmon ", "titian "], "A": []}
+{"index": 316037, "D": "any of several varieties of mandarin, cultivated widely, especially in the U.S.", "S": ["apricot", "cantaloupe", "carrot", "coral", "peach", "salmon", "titian"], "A": []}

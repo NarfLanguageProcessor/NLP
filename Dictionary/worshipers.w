@@ -1,1 +1,1 @@
-{"index": 367676, "D": "reverent honor and homage paid to God or a sacred personage, or to any object regarded as sacred.", "S": ["churchgoer ", "devotee "], "A": []}
+{"index": 367676, "D": "reverent honor and homage paid to God or a sacred personage, or to any object regarded as sacred.", "S": ["churchgoer", "devotee"], "A": []}

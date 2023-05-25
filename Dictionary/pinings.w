@@ -1,1 +1,1 @@
-{"index": 237071, "D": "suffering with or expressing longing or yearning for someone or something", "S": ["ambition ", "aspiration ", "craving ", "hankering ", "hunger ", "pining ", "thirst ", "wish ", "yearning "], "A": ["dislike ", "hate ", "hatred ", "indifference ", "satisfaction "]}
+{"index": 237071, "D": "suffering with or expressing longing or yearning for someone or something", "S": ["ambition", "aspiration", "craving", "hankering", "hunger", "pining", "thirst", "wish", "yearning"], "A": ["dislike", "hate", "hatred", "indifference", "satisfaction"]}

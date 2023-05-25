@@ -1,1 +1,1 @@
-{"index": 129493, "D": "excessively or inordinately desirous of wealth, profit, etc.; avaricious", "S": ["cannily ", "illiberally ", "meanly ", "miserly ", "parsimoniously ", "stingily ", "ungenerously "], "A": []}
+{"index": 129493, "D": "excessively or inordinately desirous of wealth, profit, etc.; avaricious", "S": ["cannily", "illiberally", "meanly", "miserly", "parsimoniously", "stingily", "ungenerously"], "A": []}

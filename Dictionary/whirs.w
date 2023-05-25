@@ -1,1 +1,1 @@
-{"index": 365014, "D": "to go, fly, revolve, or otherwise move quickly with a humming or buzzing sound", "S": ["bustle ", "fly ", "hum ", "move ", "revolve ", "sound ", "swirl ", "swish ", "vibrate ", "whiz "], "A": []}
+{"index": 365014, "D": "to go, fly, revolve, or otherwise move quickly with a humming or buzzing sound", "S": ["bustle", "fly", "hum", "move", "revolve", "sound", "swirl", "swish", "vibrate", "whiz"], "A": []}

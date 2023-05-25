@@ -1,1 +1,1 @@
-{"index": 170036, "D": "a person to whom a legacy is bequeathed.", "S": ["heir ", "recipient "], "A": ["giver "]}
+{"index": 170036, "D": "a person to whom a legacy is bequeathed.", "S": ["heir", "recipient"], "A": ["giver"]}

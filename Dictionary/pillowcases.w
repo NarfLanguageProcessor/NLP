@@ -1,1 +1,1 @@
-{"index": 236711, "D": "a removable sacklike covering, usually of cotton, drawn over a pillow. ", "S": ["bed linen ", "bedspread ", "blanket ", "comforter ", "linen ", "pillow ", "quilt ", "sheet "], "A": []}
+{"index": 236711, "D": "a removable sacklike covering, usually of cotton, drawn over a pillow. ", "S": ["bed linen", "bedspread", "blanket", "comforter", "linen", "pillow", "quilt", "sheet"], "A": []}

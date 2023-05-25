@@ -1,1 +1,1 @@
-{"index": 42475, "D": "any of various wall-like constructions inside a vessel, as for forming watertight compartments, subdividing space, or strengthening the structure.", "S": ["abutment ", "breast wall ", "bulwark ", "embankment ", "piling ", "revetment "], "A": []}
+{"index": 42475, "D": "any of various wall-like constructions inside a vessel, as for forming watertight compartments, subdividing space, or strengthening the structure.", "S": ["abutment", "breast wall", "bulwark", "embankment", "piling", "revetment"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 193300, "D": "of, relating to, or concerned with the principles or rules of right conduct or the distinction between right and wrong; ethical", "S": ["ethic ", "integrity ", "morality "], "A": ["corruption ", "dishonesty "]}
+{"index": 193300, "D": "of, relating to, or concerned with the principles or rules of right conduct or the distinction between right and wrong; ethical", "S": ["ethic", "integrity", "morality"], "A": ["corruption", "dishonesty"]}

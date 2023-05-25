@@ -1,1 +1,1 @@
-{"index": 48872, "D": "money in the form of coins or banknotes, especially that issued by a government.", "S": ["buck ", "currency ", "investment ", "note ", "payment ", "refund ", "reserve ", "security ", "stock ", "supply "], "A": ["debt "]}
+{"index": 48872, "D": "money in the form of coins or banknotes, especially that issued by a government.", "S": ["buck", "currency", "investment", "note", "payment", "refund", "reserve", "security", "stock", "supply"], "A": ["debt"]}

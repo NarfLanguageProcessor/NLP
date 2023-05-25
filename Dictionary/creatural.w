@@ -1,1 +1,1 @@
-{"index": 72454, "D": "of, relating to, or of the nature of a creature. ", "S": ["animal ", "anthropoid ", "biped ", "hominid ", "humanoid ", "mortal "], "A": []}
+{"index": 72454, "D": "of, relating to, or of the nature of a creature. ", "S": ["animal", "anthropoid", "biped", "hominid", "humanoid", "mortal"], "A": []}

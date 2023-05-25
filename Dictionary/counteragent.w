@@ -1,1 +1,1 @@
-{"index": 70635, "D": "a person or business authorized to act on another's behalf", "S": ["corrective ", "countermeasure ", "cure ", "remedy "], "A": ["disease "]}
+{"index": 70635, "D": "a person or business authorized to act on another's behalf", "S": ["corrective", "countermeasure", "cure", "remedy"], "A": ["disease"]}

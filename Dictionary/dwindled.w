@@ -1,1 +1,1 @@
-{"index": 94652, "D": "to become smaller and smaller; shrink; waste away", "S": ["blended ", "tempered ", "thawed "], "A": []}
+{"index": 94652, "D": "to become smaller and smaller; shrink; waste away", "S": ["blended", "tempered", "thawed"], "A": []}

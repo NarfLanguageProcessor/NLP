@@ -1,1 +1,1 @@
-{"index": 303435, "D": "having an almost vertical slope or pitch, or a relatively high gradient, as a hill, an ascent, stairs, etc.", "S": ["soaked "], "A": []}
+{"index": 303435, "D": "having an almost vertical slope or pitch, or a relatively high gradient, as a hill, an ascent, stairs, etc.", "S": ["soaked"], "A": []}

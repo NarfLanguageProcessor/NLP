@@ -1,1 +1,1 @@
-{"index": 220451, "D": "a road, pedestrian walkway, railroad, bridge, etc., crossing over some barrier, as another road or walkway.", "S": ["footbridge ", "viaduct ", "walkway "], "A": []}
+{"index": 220451, "D": "a road, pedestrian walkway, railroad, bridge, etc., crossing over some barrier, as another road or walkway.", "S": ["footbridge", "viaduct", "walkway"], "A": []}

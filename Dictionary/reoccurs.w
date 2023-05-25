@@ -1,1 +1,0 @@
-{"index": 267848, "D": "to happen; take place; come to pass", "S": ["come back ", "go back ", "hark back ", "inverse ", "invert ", "lapse ", "recrudesce ", "recur ", "regress ", "relapse ", "resume ", "retrograde ", "retrogress ", "revert "], "A": []}

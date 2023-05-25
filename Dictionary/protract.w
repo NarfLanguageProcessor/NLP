@@ -1,1 +1,1 @@
-{"index": 253918, "D": "to draw out or lengthen, especially in time; extend the duration of; prolong.", "S": ["prolong ", "put off "], "A": ["advance ", "complete ", "do ", "expedite ", "finish ", "forward ", "further ", "hasten ", "hurry ", "shorten "]}
+{"index": 253918, "D": "to draw out or lengthen, especially in time; extend the duration of; prolong.", "S": ["prolong", "put off"], "A": ["advance", "complete", "do", "expedite", "finish", "forward", "further", "hasten", "hurry", "shorten"]}

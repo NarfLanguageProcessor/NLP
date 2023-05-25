@@ -1,1 +1,1 @@
-{"index": 90270, "D": "the state or fact of being diverse; difference;  unlikeness", "S": ["diversification "], "A": ["agreement ", "sameness "]}
+{"index": 90270, "D": "the state or fact of being diverse; difference;  unlikeness", "S": ["diversification"], "A": ["agreement", "sameness"]}

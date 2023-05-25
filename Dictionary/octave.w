@@ -1,1 +1,1 @@
-{"index": 211000, "D": "a series of tones, or of keys of an instrument, extending through this interval.", "S": ["eight ", "interval ", "note ", "scale ", "tone "], "A": []}
+{"index": 211000, "D": "a series of tones, or of keys of an instrument, extending through this interval.", "S": ["eight", "interval", "note", "scale", "tone"], "A": []}

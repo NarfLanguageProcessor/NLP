@@ -1,1 +1,1 @@
-{"index": 271146, "D": "to take great pleasure or delight (usually followed by in)", "S": ["delighted ", "ecstatic ", "elated ", "joyful ", "joyous ", "jubilant ", "overjoyed ", "triumphant "], "A": ["depressed ", "disappointed ", "miserable ", "sad ", "sorrowful ", "troubled ", "unhappy "]}
+{"index": 271146, "D": "to take great pleasure or delight (usually followed by in)", "S": ["delighted", "ecstatic", "elated", "joyful", "joyous", "jubilant", "overjoyed", "triumphant"], "A": ["depressed", "disappointed", "miserable", "sad", "sorrowful", "troubled", "unhappy"]}

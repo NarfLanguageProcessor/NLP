@@ -1,1 +1,1 @@
-{"index": 67555, "D": "the deliberate prevention of conception or impregnation by any of various drugs, techniques, or devices; birth control.", "S": ["abstinence ", "condom ", "contraceptive ", "diaphragm ", "family planning ", "pill ", "vasectomy "], "A": []}
+{"index": 67555, "D": "the deliberate prevention of conception or impregnation by any of various drugs, techniques, or devices; birth control.", "S": ["abstinence", "condom", "contraceptive", "diaphragm", "family planning", "pill", "vasectomy"], "A": []}

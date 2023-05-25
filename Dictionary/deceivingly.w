@@ -1,1 +1,1 @@
-{"index": 78160, "D": "to mislead by a false appearance or statement; delude", "S": ["mendaciously "], "A": []}
+{"index": 78160, "D": "to mislead by a false appearance or statement; delude", "S": ["mendaciously"], "A": []}

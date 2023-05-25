@@ -1,1 +1,1 @@
-{"index": 288240, "D": "bashful; retiring. ", "S": ["balking ", "hesitating ", "indisposed ", "objecting ", "opposed ", "protesting ", "shy ", "slow ", "sticking "], "A": ["bent ", "desirous ", "disposed ", "enthusiastic ", "inclined ", "leaning ", "willing "]}
+{"index": 288240, "D": "bashful; retiring. ", "S": ["balking", "hesitating", "indisposed", "objecting", "opposed", "protesting", "shy", "slow", "sticking"], "A": ["bent", "desirous", "disposed", "enthusiastic", "inclined", "leaning", "willing"]}

@@ -1,1 +1,1 @@
-{"index": 131657, "D": "of or relating to the throat.", "S": ["grating ", "growling ", "husky ", "low ", "rasping ", "rough ", "thick "], "A": ["thin "]}
+{"index": 131657, "D": "of or relating to the throat.", "S": ["grating", "growling", "husky", "low", "rasping", "rough", "thick"], "A": ["thin"]}

@@ -1,1 +1,0 @@
-{"index": 321343, "D": "ability to perceive or sense cold or heat; sensitiveness to heat.", "S": [], "A": []}

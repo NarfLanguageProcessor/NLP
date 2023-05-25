@@ -1,1 +1,1 @@
-{"index": 367547, "D": "a work or office area assigned to one person, often one accommodating a computer terminal or other electronic equipment.", "S": ["agency ", "building ", "bureau ", "center ", "department ", "facility ", "factory ", "room ", "shop ", "store ", "suite "], "A": ["home "]}
+{"index": 367547, "D": "a work or office area assigned to one person, often one accommodating a computer terminal or other electronic equipment.", "S": ["agency", "building", "bureau", "center", "department", "facility", "factory", "room", "shop", "store", "suite"], "A": ["home"]}

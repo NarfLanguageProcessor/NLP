@@ -1,1 +1,1 @@
-{"index": 22939, "D": "to set upon in a forceful, violent, hostile, or aggressive way, with or without a weapon; begin fighting with", "S": ["combative ", "contentious ", "destructive ", "intrusive ", "threatening "], "A": ["calm ", "complaisant ", "easygoing ", "laid-back "]}
+{"index": 22939, "D": "to set upon in a forceful, violent, hostile, or aggressive way, with or without a weapon; begin fighting with", "S": ["combative", "contentious", "destructive", "intrusive", "threatening"], "A": ["calm", "complaisant", "easygoing", "laid-back"]}

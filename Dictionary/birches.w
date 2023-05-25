@@ -1,1 +1,1 @@
-{"index": 34728, "D": "Compare birch family. ", "S": ["nightstick ", "truncheon "], "A": []}
+{"index": 34728, "D": "Compare birch family. ", "S": ["nightstick", "truncheon"], "A": []}

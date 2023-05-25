@@ -1,1 +1,1 @@
-{"index": 65009, "D": "a privately owned corporation servicing the global communications satellite system and acting as the U.S. representative to and participant in Intelsat.", "S": ["active communications satellite ", "communications relay satellite ", "relay satellite "], "A": []}
+{"index": 65009, "D": "a privately owned corporation servicing the global communications satellite system and acting as the U.S. representative to and participant in Intelsat.", "S": ["active communications satellite", "communications relay satellite", "relay satellite"], "A": []}

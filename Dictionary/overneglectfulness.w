@@ -1,1 +1,0 @@
-{"index": 220334, "D": "characterized by neglect;  disregardful; careless; negligent (often followed by of)", "S": [], "A": []}

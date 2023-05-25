@@ -1,1 +1,1 @@
-{"index": 104126, "D": "a reckless adventure or wild prank.", "S": ["antic ", "fling "], "A": ["seriousness "]}
+{"index": 104126, "D": "a reckless adventure or wild prank.", "S": ["antic", "fling"], "A": ["seriousness"]}

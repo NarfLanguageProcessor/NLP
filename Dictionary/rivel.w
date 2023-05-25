@@ -1,1 +1,1 @@
-{"index": 273373, "D": "a very small dumpling made of a batter of butter, egg, flour, and seasoning, cooked in broth.", "S": ["bend ", "bulge ", "cockle ", "corrugation ", "furrow ", "groove ", "line ", "overlap ", "pleat ", "plica ", "pucker ", "ridge ", "ruck ", "tuck "], "A": []}
+{"index": 273373, "D": "a very small dumpling made of a batter of butter, egg, flour, and seasoning, cooked in broth.", "S": ["bend", "bulge", "cockle", "corrugation", "furrow", "groove", "line", "overlap", "pleat", "plica", "pucker", "ridge", "ruck", "tuck"], "A": []}

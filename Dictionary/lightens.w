@@ -1,1 +1,1 @@
-{"index": 172015, "D": "to become lighter or less dark; brighten", "S": ["brighten ", "light up "], "A": ["dull "]}
+{"index": 172015, "D": "to become lighter or less dark; brighten", "S": ["brighten", "light up"], "A": ["dull"]}

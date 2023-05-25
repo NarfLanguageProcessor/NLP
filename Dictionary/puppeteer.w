@@ -1,1 +1,0 @@
-{"index": 256828, "D": "a person who manipulates puppets,  as in a puppet show. ", "S": [], "A": []}

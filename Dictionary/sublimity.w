@@ -1,1 +1,1 @@
-{"index": 308429, "D": "the state or quality of being sublime. ", "S": ["apogee ", "culmination ", "pinnacle "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 308429, "D": "the state or quality of being sublime. ", "S": ["apogee", "culmination", "pinnacle"], "A": ["base", "bottom", "nadir"]}

@@ -1,1 +1,1 @@
-{"index": 9268, "D": "at a distance, especially in feeling or interest; apart", "S": ["detached ", "distant ", "haughty ", "indifferent ", "standoffish ", "unresponsive ", "unsympathetic "], "A": ["compassionate ", "friendly ", "interested ", "kind ", "sympathetic ", "warm "]}
+{"index": 9268, "D": "at a distance, especially in feeling or interest; apart", "S": ["detached", "distant", "haughty", "indifferent", "standoffish", "unresponsive", "unsympathetic"], "A": ["compassionate", "friendly", "interested", "kind", "sympathetic", "warm"]}

@@ -1,1 +1,1 @@
-{"index": 100161, "D": "tending to deprive of strength or vitality; physically or mentally weakening; debilitating", "S": ["demanding ", "disturbing ", "onerous ", "stressful ", "tedious ", "troublesome ", "trying "], "A": ["easy ", "facile ", "trivial "]}
+{"index": 100161, "D": "tending to deprive of strength or vitality; physically or mentally weakening; debilitating", "S": ["demanding", "disturbing", "onerous", "stressful", "tedious", "troublesome", "trying"], "A": ["easy", "facile", "trivial"]}

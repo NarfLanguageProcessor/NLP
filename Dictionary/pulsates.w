@@ -1,1 +1,1 @@
-{"index": 256387, "D": "to expand and contract rhythmically, as the heart; beat; throb.", "S": ["drum ", "fluctuate ", "hammer ", "oscillate ", "palpitate ", "pound ", "pump ", "roar ", "throb ", "thrum ", "thud ", "thump ", "tick ", "vibrate "], "A": []}
+{"index": 256387, "D": "to expand and contract rhythmically, as the heart; beat; throb.", "S": ["drum", "fluctuate", "hammer", "oscillate", "palpitate", "pound", "pump", "roar", "throb", "thrum", "thud", "thump", "tick", "vibrate"], "A": []}

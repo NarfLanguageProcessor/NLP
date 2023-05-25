@@ -1,1 +1,1 @@
-{"index": 107990, "D": "to set forth or state in detail", "S": ["clarify ", "delineate ", "exemplify ", "explain ", "explicate ", "express ", "illustrate ", "set forth ", "spell out "], "A": ["complicate ", "confuse ", "mystify ", "obscure ", "mix up ", "refrain ", "withhold "]}
+{"index": 107990, "D": "to set forth or state in detail", "S": ["clarify", "delineate", "exemplify", "explain", "explicate", "express", "illustrate", "set forth", "spell out"], "A": ["complicate", "confuse", "mystify", "obscure", "mix up", "refrain", "withhold"]}

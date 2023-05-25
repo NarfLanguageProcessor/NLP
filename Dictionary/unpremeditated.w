@@ -1,1 +1,1 @@
-{"index": 348367, "D": "not planned beforehand; spontaneous", "S": ["accidental ", "extemporaneous ", "extempore ", "hasty ", "headlong ", "impromptu ", "offhand ", "undesigned ", "unintentional "], "A": ["premeditated "]}
+{"index": 348367, "D": "not planned beforehand; spontaneous", "S": ["accidental", "extemporaneous", "extempore", "hasty", "headlong", "impromptu", "offhand", "undesigned", "unintentional"], "A": ["premeditated"]}

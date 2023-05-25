@@ -1,1 +1,1 @@
-{"index": 46164, "D": "a person who seeks an office, honor, etc.", "S": ["competition "], "A": []}
+{"index": 46164, "D": "a person who seeks an office, honor, etc.", "S": ["competition"], "A": []}

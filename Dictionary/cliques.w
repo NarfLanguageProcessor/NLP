@@ -1,1 +1,1 @@
-{"index": 60158, "D": "a small, exclusive group of people; coterie; set.", "S": ["cabal ", "clan ", "coterie ", "faction ", "gang ", "mob ", "posse "], "A": ["individual "]}
+{"index": 60158, "D": "a small, exclusive group of people; coterie; set.", "S": ["cabal", "clan", "coterie", "faction", "gang", "mob", "posse"], "A": ["individual"]}

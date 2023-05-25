@@ -1,1 +1,1 @@
-{"index": 121806, "D": "the entire scale or range", "S": ["spectrum "], "A": []}
+{"index": 121806, "D": "the entire scale or range", "S": ["spectrum"], "A": []}

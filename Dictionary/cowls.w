@@ -1,1 +1,1 @@
-{"index": 71632, "D": "a hooded garment worn by monks.", "S": ["babushka ", "bonnet ", "capuchin ", "coif ", "hat ", "kerchief ", "mantilla ", "mantle ", "protector ", "purdah ", "shawl ", "veil ", "wimple ", "yashmak "], "A": []}
+{"index": 71632, "D": "a hooded garment worn by monks.", "S": ["babushka", "bonnet", "capuchin", "coif", "hat", "kerchief", "mantilla", "mantle", "protector", "purdah", "shawl", "veil", "wimple", "yashmak"], "A": []}

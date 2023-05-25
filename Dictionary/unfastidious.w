@@ -1,1 +1,1 @@
-{"index": 342030, "D": "excessively particular, critical, or demanding; hard to please", "S": ["bedraggled ", "messy ", "rumpled "], "A": ["clean ", "neat ", "ordered "]}
+{"index": 342030, "D": "excessively particular, critical, or demanding; hard to please", "S": ["bedraggled", "messy", "rumpled"], "A": ["clean", "neat", "ordered"]}

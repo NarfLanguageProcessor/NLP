@@ -1,1 +1,1 @@
-{"index": 9558, "D": "wholly; entirely; completely; quite", "S": ["en masse ", "generally "], "A": ["incompletely ", "partly "]}
+{"index": 9558, "D": "wholly; entirely; completely; quite", "S": ["en masse", "generally"], "A": ["incompletely", "partly"]}

@@ -1,1 +1,1 @@
-{"index": 294505, "D": "of or relating to sludge. ", "S": ["clammy ", "glutinous ", "miry ", "mucky ", "mucous ", "muculent ", "muddy ", "oozy ", "scummy ", "slushy ", "viscous ", "yukky "], "A": []}
+{"index": 294505, "D": "of or relating to sludge. ", "S": ["clammy", "glutinous", "miry", "mucky", "mucous", "muculent", "muddy", "oozy", "scummy", "slushy", "viscous", "yukky"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 324369, "D": "a person who tipples  intoxicating liquor.", "S": ["alcoholic ", "boozer ", "carouser ", "dipsomaniac ", "drinker ", "drunk ", "drunkard ", "guzzler ", "inebriate ", "lush ", "sot ", "sponge ", "wino "], "A": []}
+{"index": 324369, "D": "a person who tipples  intoxicating liquor.", "S": ["alcoholic", "boozer", "carouser", "dipsomaniac", "drinker", "drunk", "drunkard", "guzzler", "inebriate", "lush", "sot", "sponge", "wino"], "A": []}

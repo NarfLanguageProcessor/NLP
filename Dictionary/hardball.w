@@ -1,1 +1,1 @@
-{"index": 133619, "D": "baseball, as distinguished from softball.", "S": ["aggressive ", "determined ", "earnest ", "energetic ", "enthusiastic ", "resourceful "], "A": ["lethargic ", "unenthusiastic "]}
+{"index": 133619, "D": "baseball, as distinguished from softball.", "S": ["aggressive", "determined", "earnest", "energetic", "enthusiastic", "resourceful"], "A": ["lethargic", "unenthusiastic"]}

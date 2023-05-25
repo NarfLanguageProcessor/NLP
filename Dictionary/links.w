@@ -1,1 +1,1 @@
-{"index": 172952, "D": "golf course. ", "S": ["fairway "], "A": []}
+{"index": 172952, "D": "golf course. ", "S": ["fairway"], "A": []}

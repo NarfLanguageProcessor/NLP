@@ -1,1 +1,1 @@
-{"index": 250472, "D": "the state of being first in order, rank, importance, etc.", "S": ["domination "], "A": []}
+{"index": 250472, "D": "the state of being first in order, rank, importance, etc.", "S": ["domination"], "A": []}

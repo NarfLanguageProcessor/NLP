@@ -1,1 +1,0 @@
-{"index": 299832, "D": "pertaining to or of the nature of spinach; belonging to the amaranth family of plants.", "S": [], "A": []}

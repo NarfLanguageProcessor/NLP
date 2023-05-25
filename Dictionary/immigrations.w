@@ -1,1 +1,1 @@
-{"index": 147984, "D": "the act of immigrating. ", "S": ["exodus ", "migration ", "travel "], "A": ["entrance "]}
+{"index": 147984, "D": "the act of immigrating. ", "S": ["exodus", "migration", "travel"], "A": ["entrance"]}

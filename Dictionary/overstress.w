@@ -1,1 +1,1 @@
-{"index": 221393, "D": "overemphasize. ", "S": ["aggravate ", "enhance ", "inflate ", "overestimate ", "overstate "], "A": ["simplify "]}
+{"index": 221393, "D": "overemphasize. ", "S": ["aggravate", "enhance", "inflate", "overestimate", "overstate"], "A": ["simplify"]}

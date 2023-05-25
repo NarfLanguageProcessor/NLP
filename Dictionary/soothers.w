@@ -1,1 +1,1 @@
-{"index": 297365, "D": "to tranquilize or calm (a person or their emotions); relieve, comfort, or refresh", "S": ["anesthetic ", "anodyne ", "painkiller "], "A": []}
+{"index": 297365, "D": "to tranquilize or calm (a person or their emotions); relieve, comfort, or refresh", "S": ["anesthetic", "anodyne", "painkiller"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 221588, "D": "to depose, as from a position of power; overcome, defeat, or vanquish", "S": ["beaten ", "conquered ", "overcome ", "overpowered ", "overwhelmed ", "vanquished "], "A": []}
+{"index": 221588, "D": "to depose, as from a position of power; overcome, defeat, or vanquish", "S": ["beaten", "conquered", "overcome", "overpowered", "overwhelmed", "vanquished"], "A": []}

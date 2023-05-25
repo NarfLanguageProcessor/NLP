@@ -1,1 +1,1 @@
-{"index": 301508, "D": "not genuine, authentic, or true; not from the claimed, pretended, or proper source; counterfeit.", "S": ["bogus ", "false ", "phony ", "specious "], "A": ["genuine ", "real ", "true ", "valid "]}
+{"index": 301508, "D": "not genuine, authentic, or true; not from the claimed, pretended, or proper source; counterfeit.", "S": ["bogus", "false", "phony", "specious"], "A": ["genuine", "real", "true", "valid"]}

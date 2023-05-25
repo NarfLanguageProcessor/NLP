@@ -1,1 +1,1 @@
-{"index": 114972, "D": "tending to flop.", "S": ["slack "], "A": ["erect ", "stiff "]}
+{"index": 114972, "D": "tending to flop.", "S": ["slack"], "A": ["erect", "stiff"]}

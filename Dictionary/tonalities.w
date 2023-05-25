@@ -1,1 +1,1 @@
-{"index": 325495, "D": "a particular scale or system of tones; a key.", "S": ["timbre "], "A": ["unimportance ", "weakness "]}
+{"index": 325495, "D": "a particular scale or system of tones; a key.", "S": ["timbre"], "A": ["unimportance", "weakness"]}

@@ -1,1 +1,1 @@
-{"index": 96763, "D": "capable of returning to its original length, shape, etc., after being stretched, deformed, compressed, or expanded", "S": ["elastic ", "elastic loop ", "gum band ", "rubberband "], "A": []}
+{"index": 96763, "D": "capable of returning to its original length, shape, etc., after being stretched, deformed, compressed, or expanded", "S": ["elastic", "elastic loop", "gum band", "rubberband"], "A": []}

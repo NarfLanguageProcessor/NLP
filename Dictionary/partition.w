@@ -1,1 +1,1 @@
-{"index": 227090, "D": "a division into or distribution in portions or shares.", "S": ["barrier ", "dissolution ", "segregation ", "separation "], "A": ["aid ", "assistance ", "help ", "promotion ", "whole "]}
+{"index": 227090, "D": "a division into or distribution in portions or shares.", "S": ["barrier", "dissolution", "segregation", "separation"], "A": ["aid", "assistance", "help", "promotion", "whole"]}

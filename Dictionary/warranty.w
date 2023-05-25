@@ -1,1 +1,1 @@
-{"index": 362766, "D": "an act or an instance of warranting; assurance; authorization; warrant.", "S": ["certificate "], "A": ["disagreement ", "uncertainty "]}
+{"index": 362766, "D": "an act or an instance of warranting; assurance; authorization; warrant.", "S": ["certificate"], "A": ["disagreement", "uncertainty"]}

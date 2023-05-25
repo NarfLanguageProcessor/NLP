@@ -1,1 +1,1 @@
-{"index": 274247, "D": "a portion of space within a building or other structure, separated by walls or partitions from other parts", "S": ["area ", "place "], "A": ["extreme ", "limitation ", "misfortune ", "refusal "]}
+{"index": 274247, "D": "a portion of space within a building or other structure, separated by walls or partitions from other parts", "S": ["area", "place"], "A": ["extreme", "limitation", "misfortune", "refusal"]}

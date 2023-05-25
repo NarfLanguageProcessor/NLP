@@ -1,1 +1,1 @@
-{"index": 156406, "D": "inebriation; drunkenness.", "S": ["drunkenness "], "A": ["depression ", "sorrow ", "unhappiness "]}
+{"index": 156406, "D": "inebriation; drunkenness.", "S": ["drunkenness"], "A": ["depression", "sorrow", "unhappiness"]}

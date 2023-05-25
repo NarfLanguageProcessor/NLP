@@ -1,1 +1,1 @@
-{"index": 161734, "D": "to jar, shake, or cause to move by or as if by a sudden rough thrust; shake up roughly", "S": ["bouncy ", "bumpy "], "A": ["fluid ", "smooth "]}
+{"index": 161734, "D": "to jar, shake, or cause to move by or as if by a sudden rough thrust; shake up roughly", "S": ["bouncy", "bumpy"], "A": ["fluid", "smooth"]}

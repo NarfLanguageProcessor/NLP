@@ -1,1 +1,1 @@
-{"index": 142023, "D": "a sandwich made with a long, narrow bread roll", "S": ["hero ", "sandwich ", "submarine "], "A": []}
+{"index": 142023, "D": "a sandwich made with a long, narrow bread roll", "S": ["hero", "sandwich", "submarine"], "A": []}

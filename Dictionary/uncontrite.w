@@ -1,1 +1,1 @@
-{"index": 337878, "D": "caused by or showing sincere remorse.", "S": ["hardened ", "obdurate ", "remorseless "], "A": []}
+{"index": 337878, "D": "caused by or showing sincere remorse.", "S": ["hardened", "obdurate", "remorseless"], "A": []}

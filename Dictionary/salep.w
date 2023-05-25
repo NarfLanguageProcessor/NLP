@@ -1,1 +1,1 @@
-{"index": 276979, "D": "a starchy, demulcent drug or foodstuff consisting of the dried tubers of certain orchids.", "S": ["beet ", "bulb ", "potato ", "root ", "taro ", "turnip ", "yam "], "A": []}
+{"index": 276979, "D": "a starchy, demulcent drug or foodstuff consisting of the dried tubers of certain orchids.", "S": ["beet", "bulb", "potato", "root", "taro", "turnip", "yam"], "A": []}

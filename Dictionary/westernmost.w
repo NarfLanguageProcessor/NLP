@@ -1,1 +1,1 @@
-{"index": 364257, "D": "most western  or westerly; farthest west.", "S": ["westerly ", "westward "], "A": ["easterly ", "eastern "]}
+{"index": 364257, "D": "most western  or westerly; farthest west.", "S": ["westerly", "westward"], "A": ["easterly", "eastern"]}

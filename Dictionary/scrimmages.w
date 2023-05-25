@@ -1,1 +1,0 @@
-{"index": 281828, "D": "a rough or vigorous struggle.", "S": ["scuffle ", "skirmish "], "A": ["peace "]}

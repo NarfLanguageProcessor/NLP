@@ -1,1 +1,1 @@
-{"index": 237105, "D": "pink3. ", "S": ["claw ", "index finger ", "ring finger ", "thumb "], "A": []}
+{"index": 237105, "D": "pink3. ", "S": ["claw", "index finger", "ring finger", "thumb"], "A": []}

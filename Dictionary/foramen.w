@@ -1,1 +1,1 @@
-{"index": 116318, "D": "an opening, orifice, or short passage, as in a bone or in the integument of the ovule of a plant.", "S": ["break ", "crack ", "crater ", "cut ", "dent ", "gap ", "mouth ", "pit ", "pocket ", "tunnel ", "void ", "window "], "A": ["mountain ", "closing ", "closure "]}
+{"index": 116318, "D": "an opening, orifice, or short passage, as in a bone or in the integument of the ovule of a plant.", "S": ["break", "crack", "crater", "cut", "dent", "gap", "mouth", "pit", "pocket", "tunnel", "void", "window"], "A": ["mountain", "closing", "closure"]}

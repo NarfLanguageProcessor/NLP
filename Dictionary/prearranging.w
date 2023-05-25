@@ -1,1 +1,1 @@
-{"index": 245754, "D": "to arrange  in advance or beforehand.", "S": ["employ ", "enlist "], "A": ["shun ", "cancel ", "dismiss ", "fire ", "free ", "let go ", "lose ", "reject ", "spend "]}
+{"index": 245754, "D": "to arrange  in advance or beforehand.", "S": ["employ", "enlist"], "A": ["shun", "cancel", "dismiss", "fire", "free", "let go", "lose", "reject", "spend"]}

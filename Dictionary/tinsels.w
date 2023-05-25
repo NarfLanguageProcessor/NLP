@@ -1,1 +1,1 @@
-{"index": 324085, "D": "a glittering metallic substance, as copper or brass, in thin sheets, used in pieces, strips, threads, etc., to produce a sparkling effect cheaply.", "S": ["bracelet ", "charm ", "droop ", "fritter ", "knickknack ", "ornament ", "tinsel ", "waste "], "A": []}
+{"index": 324085, "D": "a glittering metallic substance, as copper or brass, in thin sheets, used in pieces, strips, threads, etc., to produce a sparkling effect cheaply.", "S": ["bracelet", "charm", "droop", "fritter", "knickknack", "ornament", "tinsel", "waste"], "A": []}

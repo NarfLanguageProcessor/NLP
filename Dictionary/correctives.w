@@ -1,1 +1,1 @@
-{"index": 69618, "D": "tending to correct  or rectify; remedial", "S": ["antidote ", "countermeasure ", "cure-all ", "drug ", "fix ", "medicine ", "panacea ", "pill ", "quick fix ", "redress ", "relief ", "therapy ", "treatment "], "A": ["damage ", "harm ", "hurt ", "injury ", "stop "]}
+{"index": 69618, "D": "tending to correct  or rectify; remedial", "S": ["antidote", "countermeasure", "cure-all", "drug", "fix", "medicine", "panacea", "pill", "quick fix", "redress", "relief", "therapy", "treatment"], "A": ["damage", "harm", "hurt", "injury", "stop"]}

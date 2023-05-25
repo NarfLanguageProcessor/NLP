@@ -1,1 +1,1 @@
-{"index": 142049, "D": "hoarfrost; rime.", "S": ["freeze ", "hoar ", "hoarfrost ", "ice "], "A": []}
+{"index": 142049, "D": "hoarfrost; rime.", "S": ["freeze", "hoar", "hoarfrost", "ice"], "A": []}

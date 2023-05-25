@@ -1,1 +1,1 @@
-{"index": 41469, "D": "a cosmetic ointment used to give the skin a tanned look.", "S": ["burnished ", "chestnut ", "copper ", "russet ", "rust ", "tan "], "A": []}
+{"index": 41469, "D": "a cosmetic ointment used to give the skin a tanned look.", "S": ["burnished", "chestnut", "copper", "russet", "rust", "tan"], "A": []}

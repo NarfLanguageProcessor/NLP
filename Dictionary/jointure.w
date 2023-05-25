@@ -1,1 +1,1 @@
-{"index": 161631, "D": "an estate or property settled on a woman in consideration of marriage, to be owned by her after her husband's death.", "S": ["bud ", "hybridization ", "implant ", "scion ", "shoot ", "slip ", "splice ", "sprout ", "union "], "A": []}
+{"index": 161631, "D": "an estate or property settled on a woman in consideration of marriage, to be owned by her after her husband's death.", "S": ["bud", "hybridization", "implant", "scion", "shoot", "slip", "splice", "sprout", "union"], "A": []}

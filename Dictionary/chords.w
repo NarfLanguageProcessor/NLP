@@ -1,1 +1,1 @@
-{"index": 55745, "D": "a feeling or emotion", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}
+{"index": 55745, "D": "a feeling or emotion", "S": ["arc", "arch", "contour", "loop", "trajectory"], "A": ["line"]}

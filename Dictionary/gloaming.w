@@ -1,1 +1,1 @@
-{"index": 126444, "D": "twilight; dusk. ", "S": ["dusk ", "twilight "], "A": ["daybreak ", "sunrise "]}
+{"index": 126444, "D": "twilight; dusk. ", "S": ["dusk", "twilight"], "A": ["daybreak", "sunrise"]}

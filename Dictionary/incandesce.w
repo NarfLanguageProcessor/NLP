@@ -1,1 +1,1 @@
-{"index": 149651, "D": "to glow or cause to glow with heat.", "S": ["blaze ", "burn ", "emit ", "glare ", "gleam ", "glitter ", "glow ", "luminesce ", "radiate ", "shine ", "yield "], "A": ["dull ", "withhold "]}
+{"index": 149651, "D": "to glow or cause to glow with heat.", "S": ["blaze", "burn", "emit", "glare", "gleam", "glitter", "glow", "luminesce", "radiate", "shine", "yield"], "A": ["dull", "withhold"]}

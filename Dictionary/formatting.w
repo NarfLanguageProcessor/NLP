@@ -1,1 +1,1 @@
-{"index": 117402, "D": "Compare duodecimo, folio (def. 2), octavo, quarto. ", "S": ["desktop ", "electronic publishing ", "outputting ", "typesetting "], "A": []}
+{"index": 117402, "D": "Compare duodecimo, folio (def. 2), octavo, quarto. ", "S": ["desktop", "electronic publishing", "outputting", "typesetting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 288739, "D": [], "S": ["C in C ", "President ", "U.S. President ", "captain general ", "generalissimo "], "A": []}
+{"index": 288739, "D": [], "S": ["C in C", "President", "U.S. President", "captain general", "generalissimo"], "A": []}

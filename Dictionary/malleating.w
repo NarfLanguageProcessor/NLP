@@ -1,1 +1,1 @@
-{"index": 178539, "D": "to beat or shape with a hammer, as in metalworking.", "S": ["fashion ", "form ", "hammer ", "model ", "pound ", "shape ", "work "], "A": ["destroy "]}
+{"index": 178539, "D": "to beat or shape with a hammer, as in metalworking.", "S": ["fashion", "form", "hammer", "model", "pound", "shape", "work"], "A": ["destroy"]}

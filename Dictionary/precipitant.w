@@ -1,1 +1,1 @@
-{"index": 246109, "D": "falling headlong.", "S": ["bold ", "daring ", "harum-scarum ", "irrational ", "madcap ", "precipitate ", "wild "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "reasonable ", "shy ", "timid "]}
+{"index": 246109, "D": "falling headlong.", "S": ["bold", "daring", "harum-scarum", "irrational", "madcap", "precipitate", "wild"], "A": ["afraid", "cowardly", "fearful", "meek", "reasonable", "shy", "timid"]}

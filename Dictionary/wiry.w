@@ -1,1 +1,1 @@
-{"index": 366387, "D": "made of wire. ", "S": ["agile ", "athletic ", "limber ", "muscular ", "sinewy ", "strapping ", "supple "], "A": ["rigid ", "skinny "]}
+{"index": 366387, "D": "made of wire. ", "S": ["agile", "athletic", "limber", "muscular", "sinewy", "strapping", "supple"], "A": ["rigid", "skinny"]}

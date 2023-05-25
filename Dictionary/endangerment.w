@@ -1,1 +1,1 @@
-{"index": 99585, "D": "to expose to danger;  imperil", "S": ["hazard ", "jeopardy ", "peril ", "pitfall ", "risk ", "threat "], "A": ["certainty ", "protection ", "safety ", "surety "]}
+{"index": 99585, "D": "to expose to danger;  imperil", "S": ["hazard", "jeopardy", "peril", "pitfall", "risk", "threat"], "A": ["certainty", "protection", "safety", "surety"]}

@@ -1,1 +1,1 @@
-{"index": 349773, "D": "to bring back into existence, use, or the like; reestablish", "S": ["unaltered ", "unchanged ", "undeveloped "], "A": ["improved "]}
+{"index": 349773, "D": "to bring back into existence, use, or the like; reestablish", "S": ["unaltered", "unchanged", "undeveloped"], "A": ["improved"]}

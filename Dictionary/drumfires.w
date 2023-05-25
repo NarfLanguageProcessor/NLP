@@ -1,1 +1,1 @@
-{"index": 93545, "D": "gunfire so heavy and continuous as to sound like the beating of drums. ", "S": ["explosion "], "A": []}
+{"index": 93545, "D": "gunfire so heavy and continuous as to sound like the beating of drums. ", "S": ["explosion"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 19659, "D": "being without moisture; extremely dry; parched", "S": ["barren ", "bone-dry ", "desert ", "dusty ", "parched "], "A": ["fertile ", "productive "]}
+{"index": 19659, "D": "being without moisture; extremely dry; parched", "S": ["barren", "bone-dry", "desert", "dusty", "parched"], "A": ["fertile", "productive"]}

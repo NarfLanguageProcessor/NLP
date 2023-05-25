@@ -1,1 +1,1 @@
-{"index": 119524, "D": "past participle of freeze. ", "S": ["chill ", "snow "], "A": ["heat ", "warmth "]}
+{"index": 119524, "D": "past participle of freeze. ", "S": ["chill", "snow"], "A": ["heat", "warmth"]}

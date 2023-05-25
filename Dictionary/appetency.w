@@ -1,1 +1,1 @@
-{"index": 17731, "D": "appetence. ", "S": ["appetence ", "appetite ", "craving ", "drive ", "hunger ", "liking ", "longing ", "lust ", "penchant ", "pining ", "thirst ", "urge ", "wish ", "yearning "], "A": ["disgust ", "dislike ", "distaste ", "hate ", "hatred ", "indifference "]}
+{"index": 17731, "D": "appetence. ", "S": ["appetence", "appetite", "craving", "drive", "hunger", "liking", "longing", "lust", "penchant", "pining", "thirst", "urge", "wish", "yearning"], "A": ["disgust", "dislike", "distaste", "hate", "hatred", "indifference"]}

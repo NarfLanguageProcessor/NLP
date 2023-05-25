@@ -1,1 +1,1 @@
-{"index": 291690, "D": "a person who sings,  especially a trained or professional vocalist.", "S": ["artist ", "crooner ", "diva ", "musician ", "soloist ", "vocalist ", "voice "], "A": []}
+{"index": 291690, "D": "a person who sings,  especially a trained or professional vocalist.", "S": ["artist", "crooner", "diva", "musician", "soloist", "vocalist", "voice"], "A": []}

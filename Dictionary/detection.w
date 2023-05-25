@@ -1,1 +1,1 @@
-{"index": 83106, "D": "the act of detecting.", "S": ["disclosure "], "A": ["failure ", "miss ", "mistake "]}
+{"index": 83106, "D": "the act of detecting.", "S": ["disclosure"], "A": ["failure", "miss", "mistake"]}

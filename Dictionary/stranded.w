@@ -1,1 +1,1 @@
-{"index": 305746, "D": " left helpless or without transport", "S": ["aground ", "ashore ", "grounded ", "helpless ", "wrecked "], "A": ["found "]}
+{"index": 305746, "D": " left helpless or without transport", "S": ["aground", "ashore", "grounded", "helpless", "wrecked"], "A": ["found"]}

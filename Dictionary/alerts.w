@@ -1,1 +1,1 @@
-{"index": 7903, "D": "fully aware and attentive; wide-awake; keen", "S": ["alarm ", "signal "], "A": []}
+{"index": 7903, "D": "fully aware and attentive; wide-awake; keen", "S": ["alarm", "signal"], "A": []}

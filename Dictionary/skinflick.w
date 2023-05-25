@@ -1,1 +1,1 @@
-{"index": 293247, "D": "a motion picture that features nudity and usually scenes of explicit sexual activity.", "S": ["X-rated movie ", "adult movie ", "blue movie ", "dirty movie ", "porno flick ", "pornographic movie ", "stag film "], "A": []}
+{"index": 293247, "D": "a motion picture that features nudity and usually scenes of explicit sexual activity.", "S": ["X-rated movie", "adult movie", "blue movie", "dirty movie", "porno flick", "pornographic movie", "stag film"], "A": []}

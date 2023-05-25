@@ -1,1 +1,1 @@
-{"index": 147340, "D": "not legible;  impossible or hard to read or decipher because of poor handwriting, faded print, etc.", "S": ["indecipherable ", "unintelligible "], "A": ["decipherable ", "legible ", "understandable "]}
+{"index": 147340, "D": "not legible;  impossible or hard to read or decipher because of poor handwriting, faded print, etc.", "S": ["indecipherable", "unintelligible"], "A": ["decipherable", "legible", "understandable"]}

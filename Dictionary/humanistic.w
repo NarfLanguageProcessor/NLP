@@ -1,1 +1,1 @@
-{"index": 144864, "D": "a person having a strong interest in or concern for human  welfare, values, and dignity.", "S": ["classic "], "A": ["complicated ", "modern "]}
+{"index": 144864, "D": "a person having a strong interest in or concern for human  welfare, values, and dignity.", "S": ["classic"], "A": ["complicated", "modern"]}

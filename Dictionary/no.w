@@ -1,1 +1,1 @@
-{"index": 200529, "D": "(a negative used to express dissent, denial, or refusal, as in response to a question or request)", "S": ["nay ", "nix "], "A": []}
+{"index": 200529, "D": "(a negative used to express dissent, denial, or refusal, as in response to a question or request)", "S": ["nay", "nix"], "A": []}

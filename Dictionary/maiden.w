@@ -1,1 +1,1 @@
-{"index": 177769, "D": "a girl or young unmarried woman; maid.", "S": ["inaugural ", "introductory "], "A": ["final ", "last "]}
+{"index": 177769, "D": "a girl or young unmarried woman; maid.", "S": ["inaugural", "introductory"], "A": ["final", "last"]}

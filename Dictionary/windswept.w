@@ -1,1 +1,1 @@
-{"index": 366056, "D": "open or exposed to the wind", "S": ["austere ", "chilly ", "cold ", "desolate ", "dreary ", "grim "], "A": ["bright ", "cheerful ", "friendly ", "happy ", "hot ", "sympathetic ", "warm "]}
+{"index": 366056, "D": "open or exposed to the wind", "S": ["austere", "chilly", "cold", "desolate", "dreary", "grim"], "A": ["bright", "cheerful", "friendly", "happy", "hot", "sympathetic", "warm"]}

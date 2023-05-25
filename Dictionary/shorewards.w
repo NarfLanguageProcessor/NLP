@@ -1,1 +1,1 @@
-{"index": 288887, "D": "toward the shore  or land.", "S": ["aground "], "A": ["asea "]}
+{"index": 288887, "D": "toward the shore  or land.", "S": ["aground"], "A": ["asea"]}

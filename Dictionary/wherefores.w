@@ -1,1 +1,1 @@
-{"index": 364664, "D": "for  what? why?", "S": ["apology ", "approval ", "argument ", "basis ", "confirmation ", "explanation ", "pretext ", "rationale ", "rationalization ", "vindication "], "A": ["charge ", "indictment ", "opposition ", "question ", "request ", "sentence "]}
+{"index": 364664, "D": "for  what? why?", "S": ["apology", "approval", "argument", "basis", "confirmation", "explanation", "pretext", "rationale", "rationalization", "vindication"], "A": ["charge", "indictment", "opposition", "question", "request", "sentence"]}

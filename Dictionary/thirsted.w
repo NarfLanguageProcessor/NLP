@@ -1,1 +1,1 @@
-{"index": 322179, "D": "a sensation of dryness in the mouth and throat caused by need of liquid.", "S": ["ache ", "crave ", "hanker ", "thirst ", "yearn "], "A": ["dislike ", "hate ", "despise "]}
+{"index": 322179, "D": "a sensation of dryness in the mouth and throat caused by need of liquid.", "S": ["ache", "crave", "hanker", "thirst", "yearn"], "A": ["dislike", "hate", "despise"]}

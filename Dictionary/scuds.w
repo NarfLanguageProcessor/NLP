@@ -1,1 +1,1 @@
-{"index": 282138, "D": "to run or move quickly or hurriedly.", "S": ["cloud ", "dart ", "fly ", "gust ", "run ", "skim ", "wind "], "A": ["walk "]}
+{"index": 282138, "D": "to run or move quickly or hurriedly.", "S": ["cloud", "dart", "fly", "gust", "run", "skim", "wind"], "A": ["walk"]}

@@ -1,1 +1,1 @@
-{"index": 153933, "D": "of or relating to organized establishments, foundations, societies, or the like, or to the buildings they occupy", "S": ["corporate ", "governmental ", "uninteresting "], "A": ["individual "]}
+{"index": 153933, "D": "of or relating to organized establishments, foundations, societies, or the like, or to the buildings they occupy", "S": ["corporate", "governmental", "uninteresting"], "A": ["individual"]}

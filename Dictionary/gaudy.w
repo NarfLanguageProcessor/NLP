@@ -1,1 +1,1 @@
-{"index": 122793, "D": "brilliantly or excessively showy", "S": ["brilliant ", "flashy ", "garish ", "jazzy ", "ostentatious ", "showy ", "snazzy ", "splashy "], "A": ["modest ", "normal ", "plain ", "simple ", "tasteful "]}
+{"index": 122793, "D": "brilliantly or excessively showy", "S": ["brilliant", "flashy", "garish", "jazzy", "ostentatious", "showy", "snazzy", "splashy"], "A": ["modest", "normal", "plain", "simple", "tasteful"]}

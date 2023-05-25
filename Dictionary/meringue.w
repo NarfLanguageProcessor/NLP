@@ -1,1 +1,1 @@
-{"index": 183803, "D": "a delicate, frothy mixture made with beaten egg whites and sugar or hot syrup, and browned, used as a topping for pies, pastry, etc.", "S": ["frosting ", "garnish ", "plunge ", "sauce "], "A": []}
+{"index": 183803, "D": "a delicate, frothy mixture made with beaten egg whites and sugar or hot syrup, and browned, used as a topping for pies, pastry, etc.", "S": ["frosting", "garnish", "plunge", "sauce"], "A": []}

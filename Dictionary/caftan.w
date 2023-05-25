@@ -1,1 +1,1 @@
-{"index": 44504, "D": "a long garment having long sleeves and tied at the waist by a girdle, worn under a coat in the Middle East.", "S": ["bathrobe ", "housecoat ", "lounging robe ", "morning dress ", "robe de chambre ", "yukata "], "A": []}
+{"index": 44504, "D": "a long garment having long sleeves and tied at the waist by a girdle, worn under a coat in the Middle East.", "S": ["bathrobe", "housecoat", "lounging robe", "morning dress", "robe de chambre", "yukata"], "A": []}

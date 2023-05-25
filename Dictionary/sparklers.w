@@ -1,1 +1,1 @@
-{"index": 298450, "D": "a person or thing that sparkles. ", "S": ["bursts ", "illuminations ", "pyrotechnics ", "rockets "], "A": []}
+{"index": 298450, "D": "a person or thing that sparkles. ", "S": ["bursts", "illuminations", "pyrotechnics", "rockets"], "A": []}

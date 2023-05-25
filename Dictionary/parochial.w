@@ -1,1 +1,1 @@
-{"index": 226667, "D": "of, relating to, or financially supported by one or more church parishes", "S": ["insular ", "petty ", "sectarian "], "A": ["broad-minded "]}
+{"index": 226667, "D": "of, relating to, or financially supported by one or more church parishes", "S": ["insular", "petty", "sectarian"], "A": ["broad-minded"]}

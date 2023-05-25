@@ -1,1 +1,1 @@
-{"index": 52898, "D": "a power of pleasing or attracting, as through personality or beauty", "S": ["appeal ", "beauty ", "charisma ", "glamour ", "grace ", "magic "], "A": ["ugliness ", "repulsion "]}
+{"index": 52898, "D": "a power of pleasing or attracting, as through personality or beauty", "S": ["appeal", "beauty", "charisma", "glamour", "grace", "magic"], "A": ["ugliness", "repulsion"]}

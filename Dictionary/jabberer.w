@@ -1,1 +1,1 @@
-{"index": 159807, "D": "to talk or utter rapidly, indistinctly, incoherently, or nonsensically; chatter.", "S": ["babbler ", "blabber ", "blowhard ", "chatterbox ", "chatterer ", "gasbag ", "gossiper ", "gossipmonger ", "loudmouth ", "squealer ", "tattletale ", "windbag "], "A": []}
+{"index": 159807, "D": "to talk or utter rapidly, indistinctly, incoherently, or nonsensically; chatter.", "S": ["babbler", "blabber", "blowhard", "chatterbox", "chatterer", "gasbag", "gossiper", "gossipmonger", "loudmouth", "squealer", "tattletale", "windbag"], "A": []}

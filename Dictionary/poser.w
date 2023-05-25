@@ -1,1 +1,1 @@
-{"index": 243776, "D": "a person who poses. ", "S": ["hypocrite ", "imposter ", "mimic ", "poseur ", "pretender "], "A": []}
+{"index": 243776, "D": "a person who poses. ", "S": ["hypocrite", "imposter", "mimic", "poseur", "pretender"], "A": []}

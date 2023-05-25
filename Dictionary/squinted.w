@@ -1,1 +1,1 @@
-{"index": 301993, "D": "to look with the eyes partly closed.", "S": ["peek ", "peep "], "A": ["open "]}
+{"index": 301993, "D": "to look with the eyes partly closed.", "S": ["peek", "peep"], "A": ["open"]}

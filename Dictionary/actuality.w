@@ -1,1 +1,1 @@
-{"index": 3292, "D": "actual  existence; reality.", "S": ["achievement ", "actualization ", "attainment ", "fact ", "materiality ", "materialization ", "reality ", "substance ", "substantiality ", "truth "], "A": ["failure ", "forfeit ", "lie "]}
+{"index": 3292, "D": "actual  existence; reality.", "S": ["achievement", "actualization", "attainment", "fact", "materiality", "materialization", "reality", "substance", "substantiality", "truth"], "A": ["failure", "forfeit", "lie"]}

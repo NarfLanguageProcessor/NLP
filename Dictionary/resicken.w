@@ -1,1 +1,0 @@
-{"index": 269348, "D": "to make or become sick.", "S": [], "A": []}

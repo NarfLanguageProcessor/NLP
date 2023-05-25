@@ -1,1 +1,1 @@
-{"index": 359861, "D": "a person or thing that clears someone of blame, suspicion, doubt, or the like, or that proves someone right through evidence or argument", "S": ["nemesis ", "retaliator "], "A": []}
+{"index": 359861, "D": "a person or thing that clears someone of blame, suspicion, doubt, or the like, or that proves someone right through evidence or argument", "S": ["nemesis", "retaliator"], "A": []}

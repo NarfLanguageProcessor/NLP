@@ -1,1 +1,1 @@
-{"index": 91538, "D": "a bell  chime, or the like, at a door  or connected with a door,  rung by persons outside wanting someone inside to open the door. ", "S": ["buzzer "], "A": []}
+{"index": 91538, "D": "a bell  chime, or the like, at a door  or connected with a door,  rung by persons outside wanting someone inside to open the door. ", "S": ["buzzer"], "A": []}

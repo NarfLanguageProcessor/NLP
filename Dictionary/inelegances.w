@@ -1,1 +1,1 @@
-{"index": 151510, "D": "the quality or state of being inelegant;  lack of elegance.", "S": ["awkwardness ", "clumsiness ", "crudeness ", "gawkiness ", "gracelessness ", "ineptitude "], "A": ["coordination ", "experience ", "grace ", "sophistication "]}
+{"index": 151510, "D": "the quality or state of being inelegant;  lack of elegance.", "S": ["awkwardness", "clumsiness", "crudeness", "gawkiness", "gracelessness", "ineptitude"], "A": ["coordination", "experience", "grace", "sophistication"]}

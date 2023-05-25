@@ -1,1 +1,1 @@
-{"index": 94492, "D": "a variety of wheat, Triticum durum, with a high gluten content, cultivated mainly in the Mediterranean region, and used chiefly to make pastas", "S": ["cereal ", "grass "], "A": []}
+{"index": 94492, "D": "a variety of wheat, Triticum durum, with a high gluten content, cultivated mainly in the Mediterranean region, and used chiefly to make pastas", "S": ["cereal", "grass"], "A": []}

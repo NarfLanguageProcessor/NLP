@@ -1,1 +1,1 @@
-{"index": 225862, "D": "chief in importance or impact; supreme; preeminent", "S": ["outstanding ", "predominant ", "preeminent "], "A": ["inferior ", "unimportant "]}
+{"index": 225862, "D": "chief in importance or impact; supreme; preeminent", "S": ["outstanding", "predominant", "preeminent"], "A": ["inferior", "unimportant"]}

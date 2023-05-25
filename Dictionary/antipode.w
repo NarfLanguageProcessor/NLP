@@ -1,1 +1,1 @@
-{"index": 15903, "D": "a direct or exact opposite.", "S": ["antithesis ", "contrary ", "converse ", "inverse ", "obverse ", "reverse "], "A": ["same "]}
+{"index": 15903, "D": "a direct or exact opposite.", "S": ["antithesis", "contrary", "converse", "inverse", "obverse", "reverse"], "A": ["same"]}

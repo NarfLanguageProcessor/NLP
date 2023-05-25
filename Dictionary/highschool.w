@@ -1,1 +1,1 @@
-{"index": 139296, "D": "a school attended after elementary school or junior high school and usually consisting of grades 9 or 10 through 12.", "S": ["secondary school "], "A": []}
+{"index": 139296, "D": "a school attended after elementary school or junior high school and usually consisting of grades 9 or 10 through 12.", "S": ["secondary school"], "A": []}

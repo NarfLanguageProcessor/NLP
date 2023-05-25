@@ -1,1 +1,0 @@
-{"index": 284345, "D": "given to, characterized by, intended for, or suited to joking  or jesting; waggish; facetious", "S": [], "A": []}

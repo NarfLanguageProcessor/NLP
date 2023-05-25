@@ -1,1 +1,1 @@
-{"index": 64538, "D": "competence (defs. 1-4). ", "S": ["aptitude ", "capability ", "competence ", "expertise ", "proficiency ", "skill "], "A": ["inability ", "incapability ", "incapacity ", "incompetence ", "ineptness "]}
+{"index": 64538, "D": "competence (defs. 1-4). ", "S": ["aptitude", "capability", "competence", "expertise", "proficiency", "skill"], "A": ["inability", "incapability", "incapacity", "incompetence", "ineptness"]}

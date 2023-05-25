@@ -1,0 +1,1 @@
+{"index": 4057, "D": "to charge, bind, or command earnestly and solemnly, often under oath or the threat of a penalty.", "S": [], "A": []}

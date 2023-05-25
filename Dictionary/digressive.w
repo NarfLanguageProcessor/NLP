@@ -1,1 +1,1 @@
-{"index": 85549, "D": "tending to digress;  departing from the main subject.", "S": ["excursive ", "rambling ", "tangential "], "A": []}
+{"index": 85549, "D": "tending to digress;  departing from the main subject.", "S": ["excursive", "rambling", "tangential"], "A": []}

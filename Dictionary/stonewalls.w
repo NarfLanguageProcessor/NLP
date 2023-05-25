@@ -1,1 +1,1 @@
-{"index": 305250, "D": "to engage in stonewalling. ", "S": ["rebuff "], "A": []}
+{"index": 305250, "D": "to engage in stonewalling. ", "S": ["rebuff"], "A": []}

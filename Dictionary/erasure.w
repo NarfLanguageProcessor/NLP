@@ -1,1 +1,1 @@
-{"index": 103504, "D": "an act or instance of erasing. ", "S": ["deletion "], "A": []}
+{"index": 103504, "D": "an act or instance of erasing. ", "S": ["deletion"], "A": []}

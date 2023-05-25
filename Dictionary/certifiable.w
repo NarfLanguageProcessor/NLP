@@ -1,1 +1,1 @@
-{"index": 51575, "D": "capable of being certified. ", "S": ["demented ", "deranged ", "frenzied ", "hysterical "], "A": ["balanced ", "calm ", "controlled ", "sane "]}
+{"index": 51575, "D": "capable of being certified. ", "S": ["demented", "deranged", "frenzied", "hysterical"], "A": ["balanced", "calm", "controlled", "sane"]}

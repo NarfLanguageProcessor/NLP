@@ -1,1 +1,1 @@
-{"index": 110480, "D": "honeycombed; alveolate; pitted.", "S": ["alveolate ", "melliferous ", "nectariferous ", "nectarous "], "A": []}
+{"index": 110480, "D": "honeycombed; alveolate; pitted.", "S": ["alveolate", "melliferous", "nectariferous", "nectarous"], "A": []}

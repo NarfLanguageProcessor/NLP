@@ -1,1 +1,1 @@
-{"index": 35971, "D": "(of the eyes or sight) blurred or dimmed, as from sleep or weariness.", "S": ["blurred ", "cloudy ", "dim ", "dull ", "fuzzy ", "indistinct ", "unclear "], "A": ["bright ", "clear ", "distinct ", "energized ", "full of life ", "illuminated ", "invigorated ", "lively "]}
+{"index": 35971, "D": "(of the eyes or sight) blurred or dimmed, as from sleep or weariness.", "S": ["blurred", "cloudy", "dim", "dull", "fuzzy", "indistinct", "unclear"], "A": ["bright", "clear", "distinct", "energized", "full of life", "illuminated", "invigorated", "lively"]}

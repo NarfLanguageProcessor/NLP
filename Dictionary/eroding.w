@@ -1,1 +1,1 @@
-{"index": 103895, "D": "to eat into or away; destroy by slow consumption or disintegration", "S": ["acerbic ", "acrid ", "biting "], "A": ["kind ", "nice ", "sweet "]}
+{"index": 103895, "D": "to eat into or away; destroy by slow consumption or disintegration", "S": ["acerbic", "acrid", "biting"], "A": ["kind", "nice", "sweet"]}

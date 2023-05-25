@@ -1,1 +1,1 @@
-{"index": 26159, "D": "not good in any manner or degree.", "S": ["atrocious ", "awful ", "cheap ", "crummy ", "dreadful ", "lousy ", "poor ", "rough ", "sad ", "unacceptable "], "A": ["OK ", "good ", "great ", "lucky ", "pleasing ", "sophisticated ", "superior ", "wonderful "]}
+{"index": 26159, "D": "not good in any manner or degree.", "S": ["atrocious", "awful", "cheap", "crummy", "dreadful", "lousy", "poor", "rough", "sad", "unacceptable"], "A": ["OK", "good", "great", "lucky", "pleasing", "sophisticated", "superior", "wonderful"]}

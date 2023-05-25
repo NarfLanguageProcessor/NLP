@@ -1,0 +1,1 @@
+{"index": 34015, "D": "a police officer's club or baton.", "S": [], "A": []}

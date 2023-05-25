@@ -1,1 +1,1 @@
-{"index": 229959, "D": "consisting of or divided into five parts.", "S": ["quintuple "], "A": []}
+{"index": 229959, "D": "consisting of or divided into five parts.", "S": ["quintuple"], "A": []}

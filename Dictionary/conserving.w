@@ -1,1 +1,1 @@
-{"index": 66794, "D": "to prevent injury, decay, waste, or loss of", "S": ["canny ", "careful ", "meticulous ", "prudent ", "stingy ", "thrifty "], "A": ["careless ", "incautious ", "spendthrift ", "wasteful "]}
+{"index": 66794, "D": "to prevent injury, decay, waste, or loss of", "S": ["canny", "careful", "meticulous", "prudent", "stingy", "thrifty"], "A": ["careless", "incautious", "spendthrift", "wasteful"]}

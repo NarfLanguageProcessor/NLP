@@ -1,1 +1,1 @@
-{"index": 368055, "D": [], "S": ["account ", "blurb ", "notice ", "press report ", "publicity story ", "review "], "A": []}
+{"index": 368055, "D": [], "S": ["account", "blurb", "notice", "press report", "publicity story", "review"], "A": []}

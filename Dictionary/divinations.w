@@ -1,1 +1,1 @@
-{"index": 90343, "D": "the practice of attempting to foretell future events or discover hidden knowledge by occult or supernatural means.", "S": ["augury ", "horoscopy ", "occultism ", "palmistry ", "prediction ", "premonition ", "prognostication ", "prophecy ", "soothsaying "], "A": []}
+{"index": 90343, "D": "the practice of attempting to foretell future events or discover hidden knowledge by occult or supernatural means.", "S": ["augury", "horoscopy", "occultism", "palmistry", "prediction", "premonition", "prognostication", "prophecy", "soothsaying"], "A": []}

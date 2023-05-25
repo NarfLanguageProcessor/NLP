@@ -1,1 +1,1 @@
-{"index": 134025, "D": "the antler of a hart, formerly used as a source of ammonia.", "S": ["Methedrine ", "ammonium carbonate ", "methamphetamine hydrochloride ", "sal volatile ", "salts ", "spirits "], "A": []}
+{"index": 134025, "D": "the antler of a hart, formerly used as a source of ammonia.", "S": ["Methedrine", "ammonium carbonate", "methamphetamine hydrochloride", "sal volatile", "salts", "spirits"], "A": []}

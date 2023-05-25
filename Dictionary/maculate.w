@@ -1,1 +1,1 @@
-{"index": 177124, "D": "spotted; stained.", "S": ["marbled ", "streaked "], "A": ["plain "]}
+{"index": 177124, "D": "spotted; stained.", "S": ["marbled", "streaked"], "A": ["plain"]}

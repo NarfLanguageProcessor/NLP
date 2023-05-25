@@ -1,1 +1,1 @@
-{"index": 108456, "D": "to get, pull, or draw out, usually with special effort, skill, or force", "S": ["excerpt ", "juice ", "quotation "], "A": ["refusal "]}
+{"index": 108456, "D": "to get, pull, or draw out, usually with special effort, skill, or force", "S": ["excerpt", "juice", "quotation"], "A": ["refusal"]}

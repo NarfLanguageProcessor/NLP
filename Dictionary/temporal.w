@@ -1,1 +1,1 @@
-{"index": 318575, "D": "of or relating to time.", "S": ["earthly ", "materialistic ", "physical ", "sensual "], "A": ["immaterial ", "mental ", "spiritual "]}
+{"index": 318575, "D": "of or relating to time.", "S": ["earthly", "materialistic", "physical", "sensual"], "A": ["immaterial", "mental", "spiritual"]}

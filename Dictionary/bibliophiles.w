@@ -1,1 +1,1 @@
-{"index": 33295, "D": "a person who loves or collects books, especially as examples of fine or unusual printing, binding, or the like.", "S": ["intellectual ", "reader ", "savant ", "scholar "], "A": []}
+{"index": 33295, "D": "a person who loves or collects books, especially as examples of fine or unusual printing, binding, or the like.", "S": ["intellectual", "reader", "savant", "scholar"], "A": []}

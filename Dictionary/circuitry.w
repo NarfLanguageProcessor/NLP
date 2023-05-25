@@ -1,1 +1,1 @@
-{"index": 58003, "D": "the science of designing electric or electronic circuits. ", "S": ["chip ", "electronics ", "wiring "], "A": []}
+{"index": 58003, "D": "the science of designing electric or electronic circuits. ", "S": ["chip", "electronics", "wiring"], "A": []}

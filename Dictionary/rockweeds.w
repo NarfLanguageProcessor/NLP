@@ -1,1 +1,1 @@
-{"index": 273724, "D": "a fucoid seaweed growing on rocks  exposed at low tide.", "S": ["algae "], "A": []}
+{"index": 273724, "D": "a fucoid seaweed growing on rocks  exposed at low tide.", "S": ["algae"], "A": []}

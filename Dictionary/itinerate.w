@@ -1,1 +1,1 @@
-{"index": 159566, "D": "to go from place to place, especially in a regular circuit, as a preacher or judge.", "S": ["pastoral ", "peripatetic ", "wandering "], "A": ["native ", "settled "]}
+{"index": 159566, "D": "to go from place to place, especially in a regular circuit, as a preacher or judge.", "S": ["pastoral", "peripatetic", "wandering"], "A": ["native", "settled"]}

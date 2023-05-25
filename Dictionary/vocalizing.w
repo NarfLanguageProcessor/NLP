@@ -1,1 +1,1 @@
-{"index": 360893, "D": "to make vocal; utter; articulate; sing.", "S": ["articulating ", "chattering ", "conversing ", "discussing ", "echoing ", "expressing ", "mouthing ", "orating ", "ranting ", "repeating ", "spouting "], "A": ["hearing ", "listening ", "witnessing "]}
+{"index": 360893, "D": "to make vocal; utter; articulate; sing.", "S": ["articulating", "chattering", "conversing", "discussing", "echoing", "expressing", "mouthing", "orating", "ranting", "repeating", "spouting"], "A": ["hearing", "listening", "witnessing"]}

@@ -1,1 +1,1 @@
-{"index": 151110, "D": "not disputable or deniable; uncontestable. indisputable evidence.", "S": ["absolute ", "evident ", "irrefutable ", "unassailable ", "undeniable ", "unquestionable "], "A": ["disputable ", "doubtful ", "indefinite ", "questionable ", "uncertain ", "unsure "]}
+{"index": 151110, "D": "not disputable or deniable; uncontestable. indisputable evidence.", "S": ["absolute", "evident", "irrefutable", "unassailable", "undeniable", "unquestionable"], "A": ["disputable", "doubtful", "indefinite", "questionable", "uncertain", "unsure"]}

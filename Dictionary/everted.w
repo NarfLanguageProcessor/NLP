@@ -1,1 +1,1 @@
-{"index": 106200, "D": "to turn outward or inside out.", "S": ["converse ", "inverted ", "transposed ", "turned "], "A": ["established ", "in order ", "ordered "]}
+{"index": 106200, "D": "to turn outward or inside out.", "S": ["converse", "inverted", "transposed", "turned"], "A": ["established", "in order", "ordered"]}

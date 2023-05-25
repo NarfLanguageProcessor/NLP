@@ -1,1 +1,0 @@
-{"index": 179830, "D": "engaged in raiding for plunder, especially roaming about and ravaging an area", "S": ["greedy ", "rapacious ", "voracious "], "A": []}

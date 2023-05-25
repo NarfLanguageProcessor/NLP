@@ -1,1 +1,1 @@
-{"index": 147522, "D": "to furnish (a book, magazine, etc.) with drawings, pictures, or other artwork intended for explanation, elucidation, or adornment.", "S": ["accountable ", "decipherable ", "explicable ", "intelligible ", "interpretable ", "understandable "], "A": []}
+{"index": 147522, "D": "to furnish (a book, magazine, etc.) with drawings, pictures, or other artwork intended for explanation, elucidation, or adornment.", "S": ["accountable", "decipherable", "explicable", "intelligible", "interpretable", "understandable"], "A": []}

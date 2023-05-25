@@ -1,1 +1,1 @@
-{"index": 116910, "D": "predecessor; ancestor; forebear; precursor.", "S": ["precursor "], "A": ["result "]}
+{"index": 116910, "D": "predecessor; ancestor; forebear; precursor.", "S": ["precursor"], "A": ["result"]}

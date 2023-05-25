@@ -1,1 +1,1 @@
-{"index": 218514, "D": "excessively or unduly careful. ", "S": ["cautious ", "circumspect ", "reserved ", "restrained "], "A": ["bold ", "careless ", "extroverted ", "incautious ", "outgoing ", "rash ", "uncareful "]}
+{"index": 218514, "D": "excessively or unduly careful. ", "S": ["cautious", "circumspect", "reserved", "restrained"], "A": ["bold", "careless", "extroverted", "incautious", "outgoing", "rash", "uncareful"]}

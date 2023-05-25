@@ -1,1 +1,1 @@
-{"index": 98108, "D": "pertaining to, of the nature of, or serving as an emblem;  symbolic.", "S": ["characteristic ", "emblematic ", "exemplary ", "figurative ", "representative ", "symbolical ", "typical "], "A": []}
+{"index": 98108, "D": "pertaining to, of the nature of, or serving as an emblem;  symbolic.", "S": ["characteristic", "emblematic", "exemplary", "figurative", "representative", "symbolical", "typical"], "A": []}

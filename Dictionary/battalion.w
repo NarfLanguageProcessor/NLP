@@ -1,1 +1,1 @@
-{"index": 29086, "D": "a ground force unit composed of a headquarters and two or more companies or similar units.", "S": ["army ", "contingent ", "corps ", "legion ", "squadron ", "unit "], "A": []}
+{"index": 29086, "D": "a ground force unit composed of a headquarters and two or more companies or similar units.", "S": ["army", "contingent", "corps", "legion", "squadron", "unit"], "A": []}

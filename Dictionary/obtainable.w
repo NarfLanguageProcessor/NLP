@@ -1,1 +1,1 @@
-{"index": 210520, "D": "to come into possession of; get, acquire, or procure, as through an effort or by a request", "S": ["attainable "], "A": ["unachievable ", "unavailable ", "unobtainable "]}
+{"index": 210520, "D": "to come into possession of; get, acquire, or procure, as through an effort or by a request", "S": ["attainable"], "A": ["unachievable", "unavailable", "unobtainable"]}

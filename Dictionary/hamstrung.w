@@ -1,1 +1,1 @@
-{"index": 133062, "D": "having been made powerless or useless; thwarted", "S": ["broken ", "damaged ", "deformed ", "handicapped ", "harmed ", "impaired ", "mangled ", "marred ", "paralyzed "], "A": ["OK ", "fixed ", "perfect ", "unbroken ", "working ", "able ", "capable "]}
+{"index": 133062, "D": "having been made powerless or useless; thwarted", "S": ["broken", "damaged", "deformed", "handicapped", "harmed", "impaired", "mangled", "marred", "paralyzed"], "A": ["OK", "fixed", "perfect", "unbroken", "working", "able", "capable"]}

@@ -1,1 +1,1 @@
-{"index": 299099, "D": "a spelling competition that begins with all the contestants standing and that ends when all but one, the winner, have been required to sit down due to a specified number of misspellings.", "S": ["spelling contest ", "spelling game ", "spelling test "], "A": []}
+{"index": 299099, "D": "a spelling competition that begins with all the contestants standing and that ends when all but one, the winner, have been required to sit down due to a specified number of misspellings.", "S": ["spelling contest", "spelling game", "spelling test"], "A": []}

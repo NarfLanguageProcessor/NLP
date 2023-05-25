@@ -1,1 +1,1 @@
-{"index": 113615, "D": "apparatus or equipment", "S": ["accessories ", "accompaniments ", "constituents ", "ingredients ", "trimmings "], "A": []}
+{"index": 113615, "D": "apparatus or equipment", "S": ["accessories", "accompaniments", "constituents", "ingredients", "trimmings"], "A": []}

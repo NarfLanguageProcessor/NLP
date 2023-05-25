@@ -1,1 +1,1 @@
-{"index": 287449, "D": "having a pleasing shape,  especially with reference to a woman's figure.", "S": ["comely ", "curvaceous ", "elegant ", "graceful ", "pleasing ", "rounded "], "A": ["ugly "]}
+{"index": 287449, "D": "having a pleasing shape,  especially with reference to a woman's figure.", "S": ["comely", "curvaceous", "elegant", "graceful", "pleasing", "rounded"], "A": ["ugly"]}

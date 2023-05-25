@@ -1,1 +1,1 @@
-{"index": 41595, "D": "thin soup of concentrated meat or fish stock.", "S": ["bouillon ", "chowder ", "porridge ", "puree "], "A": []}
+{"index": 41595, "D": "thin soup of concentrated meat or fish stock.", "S": ["bouillon", "chowder", "porridge", "puree"], "A": []}

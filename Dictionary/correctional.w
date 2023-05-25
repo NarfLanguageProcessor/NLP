@@ -1,1 +1,1 @@
-{"index": 69610, "D": "of or relating to correction,  especially to penal correction. ", "S": ["disciplinary ", "penal ", "punishing ", "retaliatory ", "vindictive "], "A": ["beneficial ", "rewarding "]}
+{"index": 69610, "D": "of or relating to correction,  especially to penal correction. ", "S": ["disciplinary", "penal", "punishing", "retaliatory", "vindictive"], "A": ["beneficial", "rewarding"]}

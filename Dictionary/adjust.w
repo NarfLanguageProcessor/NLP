@@ -1,0 +1,1 @@
+{"index": 4063, "D": "to change (something) so that it fits, corresponds, or conforms; adapt; accommodate", "S": ["accommodate", "accustom", "adapt", "alter", "conform", "fine-tune", "fix", "modify", "regulate", "tailor"], "A": ["disarrange", "disorganize", "disturb", "confuse", "disagree", "disorder", "disperse", "mix up", "refuse", "ruin", "scatter", "upset", "worsen"]}

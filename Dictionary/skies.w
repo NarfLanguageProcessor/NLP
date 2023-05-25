@@ -1,1 +1,1 @@
-{"index": 293133, "D": "plural of sky. ", "S": ["azure ", "empyrean ", "firmament ", "heavens ", "lid ", "vault ", "welkin "], "A": ["earth "]}
+{"index": 293133, "D": "plural of sky. ", "S": ["azure", "empyrean", "firmament", "heavens", "lid", "vault", "welkin"], "A": ["earth"]}

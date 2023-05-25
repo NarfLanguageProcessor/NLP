@@ -1,1 +1,1 @@
-{"index": 39856, "D": [], "S": ["complication ", "consequence ", "upshot "], "A": ["cause ", "origin ", "source ", "juncture ", "union ", "unity ", "whole "]}
+{"index": 39856, "D": [], "S": ["complication", "consequence", "upshot"], "A": ["cause", "origin", "source", "juncture", "union", "unity", "whole"]}

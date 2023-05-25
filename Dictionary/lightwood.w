@@ -1,1 +1,1 @@
-{"index": 172084, "D": "kindling. ", "S": ["coals ", "firewood ", "tinder ", "twigs ", "wood "], "A": []}
+{"index": 172084, "D": "kindling. ", "S": ["coals", "firewood", "tinder", "twigs", "wood"], "A": []}

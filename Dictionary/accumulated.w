@@ -1,1 +1,1 @@
-{"index": 1821, "D": "to gather or collect, often in gradual degrees; heap up", "S": ["combined ", "corporate ", "cumulative "], "A": ["uncombined "]}
+{"index": 1821, "D": "to gather or collect, often in gradual degrees; heap up", "S": ["combined", "corporate", "cumulative"], "A": ["uncombined"]}

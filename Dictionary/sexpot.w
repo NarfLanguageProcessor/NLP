@@ -1,1 +1,1 @@
-{"index": 286886, "D": "a sexually attractive person.", "S": ["bunny ", "dish "], "A": []}
+{"index": 286886, "D": "a sexually attractive person.", "S": ["bunny", "dish"], "A": []}

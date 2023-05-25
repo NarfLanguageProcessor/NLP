@@ -1,1 +1,1 @@
-{"index": 198031, "D": "electronics another name for NOT circuit", "S": ["corrective ", "countermeasure ", "cure ", "remedy "], "A": ["disease "]}
+{"index": 198031, "D": "electronics another name for NOT circuit", "S": ["corrective", "countermeasure", "cure", "remedy"], "A": ["disease"]}

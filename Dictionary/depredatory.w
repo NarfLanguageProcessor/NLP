@@ -1,1 +1,1 @@
-{"index": 81843, "D": "to plunder or lay waste to; prey upon; pillage; ravage.", "S": ["greedy ", "marauding ", "rapacious ", "voracious "], "A": []}
+{"index": 81843, "D": "to plunder or lay waste to; prey upon; pillage; ravage.", "S": ["greedy", "marauding", "rapacious", "voracious"], "A": []}

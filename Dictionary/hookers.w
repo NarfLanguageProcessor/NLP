@@ -1,1 +1,1 @@
-{"index": 143549, "D": "a person or thing that hooks. ", "S": ["prostitute "], "A": []}
+{"index": 143549, "D": "a person or thing that hooks. ", "S": ["prostitute"], "A": []}

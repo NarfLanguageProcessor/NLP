@@ -1,1 +1,1 @@
-{"index": 339745, "D": "located, carried on, or used under the surface of the sea", "S": ["submerged "], "A": []}
+{"index": 339745, "D": "located, carried on, or used under the surface of the sea", "S": ["submerged"], "A": []}

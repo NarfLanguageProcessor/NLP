@@ -1,1 +1,1 @@
-{"index": 12145, "D": "a person from whom one is descended; forebear; progenitor.", "S": ["forebear ", "forefather ", "founder "], "A": ["descendant "]}
+{"index": 12145, "D": "a person from whom one is descended; forebear; progenitor.", "S": ["forebear", "forefather", "founder"], "A": ["descendant"]}

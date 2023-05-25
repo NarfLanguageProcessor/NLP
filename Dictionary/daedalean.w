@@ -1,1 +1,1 @@
-{"index": 76125, "D": "an Athenian architect who built the labyrinth for Minos and made wings for himself and his son Icarus to escape from Crete.", "S": ["complicated ", "convoluted ", "disturbing ", "intricate ", "obscure ", "perplexing ", "sophisticated "], "A": ["easy ", "simple "]}
+{"index": 76125, "D": "an Athenian architect who built the labyrinth for Minos and made wings for himself and his son Icarus to escape from Crete.", "S": ["complicated", "convoluted", "disturbing", "intricate", "obscure", "perplexing", "sophisticated"], "A": ["easy", "simple"]}

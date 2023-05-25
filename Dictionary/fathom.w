@@ -1,1 +1,1 @@
-{"index": 110283, "D": "a unit of length equal to six feet (1.8 meters)", "S": ["appreciate ", "comprehend ", "divine ", "figure out ", "grasp ", "penetrate ", "pinpoint ", "plumb ", "unravel "], "A": ["misinterpret ", "misunderstand ", "estimate ", "guess ", "lose ", "miss ", "neglect "]}
+{"index": 110283, "D": "a unit of length equal to six feet (1.8 meters)", "S": ["appreciate", "comprehend", "divine", "figure out", "grasp", "penetrate", "pinpoint", "plumb", "unravel"], "A": ["misinterpret", "misunderstand", "estimate", "guess", "lose", "miss", "neglect"]}

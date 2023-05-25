@@ -1,1 +1,1 @@
-{"index": 161259, "D": "sprinkle (def. 9). ", "S": ["crowbar ", "force ", "lever ", "open ", "pry "], "A": ["close "]}
+{"index": 161259, "D": "sprinkle (def. 9). ", "S": ["crowbar", "force", "lever", "open", "pry"], "A": ["close"]}

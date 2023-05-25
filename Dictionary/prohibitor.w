@@ -1,1 +1,1 @@
-{"index": 251973, "D": "to forbid (an action, activity, etc.) by authority or law", "S": ["thought police "], "A": []}
+{"index": 251973, "D": "to forbid (an action, activity, etc.) by authority or law", "S": ["thought police"], "A": []}

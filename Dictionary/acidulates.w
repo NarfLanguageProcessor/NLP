@@ -1,1 +1,1 @@
-{"index": 2464, "D": "to make somewhat acid. ", "S": ["acerbate ", "acidify ", "clabber ", "clot ", "coagulate ", "condense ", "congeal ", "ferment ", "spoil ", "thicken ", "turn "], "A": []}
+{"index": 2464, "D": "to make somewhat acid. ", "S": ["acerbate", "acidify", "clabber", "clot", "coagulate", "condense", "congeal", "ferment", "spoil", "thicken", "turn"], "A": []}

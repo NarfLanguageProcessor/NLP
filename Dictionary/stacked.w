@@ -1,1 +1,1 @@
-{"index": 302220, "D": "(of a woman) having a voluptuous figure.", "S": ["deformed ", "disfigured ", "mutilated ", "unmade "], "A": []}
+{"index": 302220, "D": "(of a woman) having a voluptuous figure.", "S": ["deformed", "disfigured", "mutilated", "unmade"], "A": []}

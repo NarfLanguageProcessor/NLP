@@ -1,1 +1,1 @@
-{"index": 220923, "D": "to rule  against or disallow the arguments of (a person)", "S": ["central "], "A": ["additional ", "auxiliary ", "extra ", "inessential ", "inferior ", "insignificant ", "last ", "lesser ", "minor ", "secondary ", "subordinate ", "trivial ", "unimportant "]}
+{"index": 220923, "D": "to rule  against or disallow the arguments of (a person)", "S": ["central"], "A": ["additional", "auxiliary", "extra", "inessential", "inferior", "insignificant", "last", "lesser", "minor", "secondary", "subordinate", "trivial", "unimportant"]}

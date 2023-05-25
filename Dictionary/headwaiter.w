@@ -1,1 +1,1 @@
-{"index": 134736, "D": "a person in charge of waiters,  busboys, etc., in a restaurant or dining car.", "S": ["ma\u00eetre d' "], "A": []}
+{"index": 134736, "D": "a person in charge of waiters,  busboys, etc., in a restaurant or dining car.", "S": ["ma\u00eetre d'"], "A": []}

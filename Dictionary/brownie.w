@@ -1,1 +1,1 @@
-{"index": 41640, "D": "(in folklore) a tiny, fanciful, good-natured brown elf who secretly helps at night with household chores.", "S": ["elf ", "pixie "], "A": []}
+{"index": 41640, "D": "(in folklore) a tiny, fanciful, good-natured brown elf who secretly helps at night with household chores.", "S": ["elf", "pixie"], "A": []}

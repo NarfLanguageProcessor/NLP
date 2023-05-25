@@ -1,1 +1,1 @@
-{"index": 57728, "D": "a person who believes that only selfishness motivates human actions and who disbelieves in or minimizes selfless acts or disinterested points of view.", "S": ["detractor ", "doubter ", "pessimist ", "skeptic "], "A": ["believer "]}
+{"index": 57728, "D": "a person who believes that only selfishness motivates human actions and who disbelieves in or minimizes selfless acts or disinterested points of view.", "S": ["detractor", "doubter", "pessimist", "skeptic"], "A": ["believer"]}

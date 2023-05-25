@@ -1,1 +1,1 @@
-{"index": 221001, "D": "over, across, or beyond the sea; abroad", "S": ["over the water ", "transatlantic ", "transmarine "], "A": []}
+{"index": 221001, "D": "over, across, or beyond the sea; abroad", "S": ["over the water", "transatlantic", "transmarine"], "A": []}

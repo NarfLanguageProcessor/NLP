@@ -1,1 +1,1 @@
-{"index": 64611, "D": "to interweave; intertwine.", "S": ["cue ", "entwine ", "interlace ", "intertwine ", "lace ", "mesh ", "pigtail ", "plait ", "ravel ", "twine ", "twist ", "weave "], "A": ["straighten ", "untwist "]}
+{"index": 64611, "D": "to interweave; intertwine.", "S": ["cue", "entwine", "interlace", "intertwine", "lace", "mesh", "pigtail", "plait", "ravel", "twine", "twist", "weave"], "A": ["straighten", "untwist"]}

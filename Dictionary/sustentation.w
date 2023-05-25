@@ -1,1 +1,1 @@
-{"index": 313806, "D": "maintenance in being or activity; the sustaining of life through vital processes.", "S": ["care ", "conservancy ", "control ", "maintenance ", "management ", "protection ", "supervision "], "A": ["ignorance ", "neglect ", "negligence "]}
+{"index": 313806, "D": "maintenance in being or activity; the sustaining of life through vital processes.", "S": ["care", "conservancy", "control", "maintenance", "management", "protection", "supervision"], "A": ["ignorance", "neglect", "negligence"]}

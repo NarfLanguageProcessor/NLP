@@ -1,1 +1,1 @@
-{"index": 160643, "D": "a bone  of either jaw;  a maxilla or mandible.", "S": ["admonish ", "berate ", "castigate ", "censure ", "chide ", "go after ", "oppose ", "reprimand ", "reproach ", "scold ", "upbraid "], "A": ["approve ", "compliment ", "flatter ", "laud ", "praise "]}
+{"index": 160643, "D": "a bone  of either jaw;  a maxilla or mandible.", "S": ["admonish", "berate", "castigate", "censure", "chide", "go after", "oppose", "reprimand", "reproach", "scold", "upbraid"], "A": ["approve", "compliment", "flatter", "laud", "praise"]}

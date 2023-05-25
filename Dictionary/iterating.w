@@ -1,1 +1,1 @@
-{"index": 159527, "D": "to do (something) over again or repeatedly.", "S": ["emphasize ", "repeat "], "A": []}
+{"index": 159527, "D": "to do (something) over again or repeatedly.", "S": ["emphasize", "repeat"], "A": []}

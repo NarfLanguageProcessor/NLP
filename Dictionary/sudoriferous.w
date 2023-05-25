@@ -1,1 +1,1 @@
-{"index": 310040, "D": "bearing or secreting sweat.", "S": ["bathed ", "clammy ", "covered with sweat ", "drenched ", "dripping ", "drippy ", "glowing ", "hot ", "moist ", "perspiring ", "perspiry ", "soaked ", "sticky ", "stinky ", "sweating ", "wet "], "A": []}
+{"index": 310040, "D": "bearing or secreting sweat.", "S": ["bathed", "clammy", "covered with sweat", "drenched", "dripping", "drippy", "glowing", "hot", "moist", "perspiring", "perspiry", "soaked", "sticky", "stinky", "sweating", "wet"], "A": []}

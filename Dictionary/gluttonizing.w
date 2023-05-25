@@ -1,1 +1,1 @@
-{"index": 126998, "D": "to eat like a glutton. ", "S": ["Hoover ", "binge ", "devour ", "glut ", "gobble ", "gulp ", "guzzle ", "overeat ", "overindulge ", "stuff ", "wolf "], "A": ["abstain ", "diet ", "fast ", "nibble "]}
+{"index": 126998, "D": "to eat like a glutton. ", "S": ["Hoover", "binge", "devour", "glut", "gobble", "gulp", "guzzle", "overeat", "overindulge", "stuff", "wolf"], "A": ["abstain", "diet", "fast", "nibble"]}

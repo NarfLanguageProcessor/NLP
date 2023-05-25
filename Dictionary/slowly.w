@@ -1,1 +1,1 @@
-{"index": 294467, "D": "in a slow manner; at a slow speed", "S": ["calmly ", "casually ", "deliberately ", "gently ", "gradually ", "haltingly ", "lazily ", "nonchalantly "], "A": ["fast ", "quickly ", "rapidly "]}
+{"index": 294467, "D": "in a slow manner; at a slow speed", "S": ["calmly", "casually", "deliberately", "gently", "gradually", "haltingly", "lazily", "nonchalantly"], "A": ["fast", "quickly", "rapidly"]}

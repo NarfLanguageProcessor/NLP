@@ -1,1 +1,1 @@
-{"index": 74844, "D": "of or relating to culture  or cultivation.", "S": ["philosophically ", "politically ", "psychologically "], "A": []}
+{"index": 74844, "D": "of or relating to culture  or cultivation.", "S": ["philosophically", "politically", "psychologically"], "A": []}

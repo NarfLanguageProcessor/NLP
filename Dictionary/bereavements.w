@@ -1,0 +1,1 @@
+{"index": 32012, "D": "a period of mourning after a loss, especially after the death of a loved one", "S": ["sorrow"], "A": ["comfort", "happiness", "health"]}

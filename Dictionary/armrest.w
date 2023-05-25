@@ -1,0 +1,1 @@
+{"index": 20019, "D": "a projecting, often padded support for the forearm, as at the side of a chair or sofa or between seats in a theater, car, or airplane.", "S": [], "A": []}

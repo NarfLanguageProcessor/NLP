@@ -1,1 +1,1 @@
-{"index": 291817, "D": "the act, process, amount, or degree of sinking.", "S": ["bowl ", "lagoon ", "pan ", "pool ", "pot ", "tub ", "valley ", "watershed "], "A": ["increase ", "rise ", "solid "]}
+{"index": 291817, "D": "the act, process, amount, or degree of sinking.", "S": ["bowl", "lagoon", "pan", "pool", "pot", "tub", "valley", "watershed"], "A": ["increase", "rise", "solid"]}

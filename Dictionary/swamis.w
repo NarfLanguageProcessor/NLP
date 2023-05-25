@@ -1,1 +1,1 @@
-{"index": 314027, "D": [], "S": ["guru ", "master ", "mentor ", "mystic ", "sage ", "teacher ", "yogi "], "A": ["student "]}
+{"index": 314027, "D": [], "S": ["guru", "master", "mentor", "mystic", "sage", "teacher", "yogi"], "A": ["student"]}

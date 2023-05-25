@@ -1,1 +1,1 @@
-{"index": 362200, "D": "considered as a person who can or does walk or something that walks", "S": ["ambulatory ", "marching ", "promenading "], "A": []}
+{"index": 362200, "D": "considered as a person who can or does walk or something that walks", "S": ["ambulatory", "marching", "promenading"], "A": []}

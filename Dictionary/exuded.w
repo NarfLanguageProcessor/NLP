@@ -1,1 +1,1 @@
-{"index": 108804, "D": "to come out gradually in drops, as sweat, through pores or small openings; ooze out.", "S": ["emanate ", "give off ", "manifest ", "ooze ", "radiate "], "A": ["conceal ", "deny ", "fill ", "hide ", "hold ", "keep ", "load ", "refuse ", "veto "]}
+{"index": 108804, "D": "to come out gradually in drops, as sweat, through pores or small openings; ooze out.", "S": ["emanate", "give off", "manifest", "ooze", "radiate"], "A": ["conceal", "deny", "fill", "hide", "hold", "keep", "load", "refuse", "veto"]}

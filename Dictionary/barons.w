@@ -1,1 +1,1 @@
-{"index": 28221, "D": "a member of the lowest grade of nobility.", "S": ["aristocrat "], "A": []}
+{"index": 28221, "D": "a member of the lowest grade of nobility.", "S": ["aristocrat"], "A": []}

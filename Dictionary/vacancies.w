@@ -1,1 +1,0 @@
-{"index": 356330, "D": "the state of being vacant;  emptiness.", "S": ["gap ", "job ", "vacuum ", "void "], "A": ["fullness ", "unemployment "]}

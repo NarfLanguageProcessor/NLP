@@ -1,1 +1,1 @@
-{"index": 168530, "D": "a long, noosed rope used to catch horses, cattle, or other livestock; lasso.", "S": ["lasso ", "noose ", "reata ", "riata ", "tether "], "A": []}
+{"index": 168530, "D": "a long, noosed rope used to catch horses, cattle, or other livestock; lasso.", "S": ["lasso", "noose", "reata", "riata", "tether"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64646, "D": "having all parts or elements; lacking nothing; whole; entire; full", "S": ["compatible ", "corresponding ", "supplemental "], "A": []}
+{"index": 64646, "D": "having all parts or elements; lacking nothing; whole; entire; full", "S": ["compatible", "corresponding", "supplemental"], "A": []}

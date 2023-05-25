@@ -1,1 +1,1 @@
-{"index": 135816, "D": "a companion and helper.", "S": ["aide ", "assistant ", "companion ", "husband ", "mate ", "partner ", "wife "], "A": ["enemy ", "foe "]}
+{"index": 135816, "D": "a companion and helper.", "S": ["aide", "assistant", "companion", "husband", "mate", "partner", "wife"], "A": ["enemy", "foe"]}

@@ -1,1 +1,1 @@
-{"index": 266894, "D": "a surviving memorial of something past.", "S": ["debris ", "remains ", "remnants ", "rubble ", "vestiges "], "A": []}
+{"index": 266894, "D": "a surviving memorial of something past.", "S": ["debris", "remains", "remnants", "rubble", "vestiges"], "A": []}

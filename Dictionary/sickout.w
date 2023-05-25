@@ -1,1 +1,1 @@
-{"index": 289661, "D": "an organized absence from work by employees on the pretext of sickness, as to avoid the legal problems or antistrike clauses that would be invoked in the case of a formal strike.", "S": ["sick-in ", "slowdown "], "A": []}
+{"index": 289661, "D": "an organized absence from work by employees on the pretext of sickness, as to avoid the legal problems or antistrike clauses that would be invoked in the case of a formal strike.", "S": ["sick-in", "slowdown"], "A": []}

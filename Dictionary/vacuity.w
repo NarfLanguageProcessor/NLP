@@ -1,1 +1,1 @@
-{"index": 356423, "D": "the state of being vacuous  or without contents; vacancy; emptiness", "S": ["nihility ", "nothingness ", "vacancy ", "vacuum ", "void "], "A": ["fullness "]}
+{"index": 356423, "D": "the state of being vacuous  or without contents; vacancy; emptiness", "S": ["nihility", "nothingness", "vacancy", "vacuum", "void"], "A": ["fullness"]}

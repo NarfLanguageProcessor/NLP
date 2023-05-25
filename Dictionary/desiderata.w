@@ -1,1 +1,1 @@
-{"index": 82559, "D": "things wanted or needed; the plural of desideratum", "S": ["ambition ", "aspiration ", "desire ", "direction ", "intent ", "intention ", "objective ", "plan ", "purpose ", "target ", "wish "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 82559, "D": "things wanted or needed; the plural of desideratum", "S": ["ambition", "aspiration", "desire", "direction", "intent", "intention", "objective", "plan", "purpose", "target", "wish"], "A": ["dislike", "hate", "hatred"]}

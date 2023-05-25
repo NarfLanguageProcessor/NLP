@@ -1,1 +1,1 @@
-{"index": 79928, "D": "to put off to a later time; defer; postpone", "S": ["postponement ", "putting off "], "A": ["advancing "]}
+{"index": 79928, "D": "to put off to a later time; defer; postpone", "S": ["postponement", "putting off"], "A": ["advancing"]}

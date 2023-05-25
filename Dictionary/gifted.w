@@ -1,1 +1,1 @@
-{"index": 124757, "D": "having great special talent or ability", "S": ["accomplished ", "brilliant ", "capable ", "skilled ", "smart "], "A": ["dull ", "inept ", "stupid ", "unable ", "unintelligent "]}
+{"index": 124757, "D": "having great special talent or ability", "S": ["accomplished", "brilliant", "capable", "skilled", "smart"], "A": ["dull", "inept", "stupid", "unable", "unintelligent"]}

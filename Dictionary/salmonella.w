@@ -1,1 +1,1 @@
-{"index": 277152, "D": "any of several rod-shaped, facultatively anaerobic bacteria of the genus Salmonella, as S. typhosa, that may enter the digestive tract of humans and other mammals in contaminated food and cause abdominal pains and violent diarrhea.", "S": ["botulism "], "A": []}
+{"index": 277152, "D": "any of several rod-shaped, facultatively anaerobic bacteria of the genus Salmonella, as S. typhosa, that may enter the digestive tract of humans and other mammals in contaminated food and cause abdominal pains and violent diarrhea.", "S": ["botulism"], "A": []}

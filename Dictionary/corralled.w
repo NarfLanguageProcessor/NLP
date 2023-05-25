@@ -1,1 +1,1 @@
-{"index": 69590, "D": "an enclosure or pen for horses, cattle, etc.", "S": ["coop up ", "lock up "], "A": ["free ", "let go ", "release "]}
+{"index": 69590, "D": "an enclosure or pen for horses, cattle, etc.", "S": ["coop up", "lock up"], "A": ["free", "let go", "release"]}

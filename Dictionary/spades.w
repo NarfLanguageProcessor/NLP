@@ -1,1 +1,1 @@
-{"index": 298206, "D": "a tool for digging, having an iron blade adapted for pressing into the ground with the foot and a long handle commonly with a grip or crosspiece at the top, and with the blade usually narrower and flatter than that of a shovel.", "S": ["shovel "], "A": []}
+{"index": 298206, "D": "a tool for digging, having an iron blade adapted for pressing into the ground with the foot and a long handle commonly with a grip or crosspiece at the top, and with the blade usually narrower and flatter than that of a shovel.", "S": ["shovel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 225088, "D": "father. ", "S": ["dad "], "A": []}
+{"index": 225088, "D": "father. ", "S": ["dad"], "A": []}

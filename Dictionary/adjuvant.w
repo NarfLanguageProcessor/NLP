@@ -1,0 +1,1 @@
+{"index": 4095, "D": "serving to help or assist; auxiliary", "S": ["additional"], "A": ["necessary", "needed"]}

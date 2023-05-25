@@ -1,1 +1,1 @@
-{"index": 222797, "D": "a cushionlike mass of soft material used for comfort, protection, or stuffing.", "S": ["notebook ", "notepad ", "paper "], "A": []}
+{"index": 222797, "D": "a cushionlike mass of soft material used for comfort, protection, or stuffing.", "S": ["notebook", "notepad", "paper"], "A": []}

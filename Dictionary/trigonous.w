@@ -1,1 +1,1 @@
-{"index": 329871, "D": "having three angles or corners, as a stem or seed; triangular.", "S": ["ternary ", "third ", "treble ", "trilateral ", "trinitarian ", "triple "], "A": []}
+{"index": 329871, "D": "having three angles or corners, as a stem or seed; triangular.", "S": ["ternary", "third", "treble", "trilateral", "trinitarian", "triple"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 169698, "D": "smallest in size, amount, degree, etc.; slightest", "S": ["bottom ", "first ", "gutter ", "infinitesimal ", "last ", "minimum ", "minute ", "nadir ", "second ", "third "], "A": ["big ", "huge ", "large ", "substantial "]}
+{"index": 169698, "D": "smallest in size, amount, degree, etc.; slightest", "S": ["bottom", "first", "gutter", "infinitesimal", "last", "minimum", "minute", "nadir", "second", "third"], "A": ["big", "huge", "large", "substantial"]}

@@ -1,1 +1,1 @@
-{"index": 52664, "D": [], "S": ["crude ", "grainy ", "harsh "], "A": ["gentle ", "nice "]}
+{"index": 52664, "D": [], "S": ["crude", "grainy", "harsh"], "A": ["gentle", "nice"]}

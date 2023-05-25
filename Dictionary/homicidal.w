@@ -1,1 +1,1 @@
-{"index": 142911, "D": "of or relating to homicide. ", "S": ["bloodthirsty ", "maniacal ", "violent "], "A": []}
+{"index": 142911, "D": "of or relating to homicide. ", "S": ["bloodthirsty", "maniacal", "violent"], "A": []}

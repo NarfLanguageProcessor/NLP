@@ -1,1 +1,1 @@
-{"index": 132788, "D": "a corridor, as in a building.", "S": ["corridor ", "entrance "], "A": []}
+{"index": 132788, "D": "a corridor, as in a building.", "S": ["corridor", "entrance"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183961, "D": "a person who gaily or enthusiastically takes part in some festive or merry  celebration; reveler.", "S": ["buffoon ", "comedian ", "comic ", "fool ", "jester ", "mime ", "prankster "], "A": []}
+{"index": 183961, "D": "a person who gaily or enthusiastically takes part in some festive or merry  celebration; reveler.", "S": ["buffoon", "comedian", "comic", "fool", "jester", "mime", "prankster"], "A": []}

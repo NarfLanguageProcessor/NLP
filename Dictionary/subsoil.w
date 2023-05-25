@@ -1,1 +1,1 @@
-{"index": 309225, "D": "the bed or stratum of earth or earthy material immediately under the surface soil. ", "S": ["clay ", "coast ", "dirt ", "dust ", "gravel ", "land ", "mud ", "sand ", "shore ", "surface ", "terrain ", "turf "], "A": ["sky "]}
+{"index": 309225, "D": "the bed or stratum of earth or earthy material immediately under the surface soil. ", "S": ["clay", "coast", "dirt", "dust", "gravel", "land", "mud", "sand", "shore", "surface", "terrain", "turf"], "A": ["sky"]}

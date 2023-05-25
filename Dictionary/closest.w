@@ -1,1 +1,1 @@
-{"index": 60458, "D": "to put (something) in a position to obstruct an entrance, opening, etc.; shut. ", "S": ["later "], "A": ["earlier ", "preceding ", "previous "]}
+{"index": 60458, "D": "to put (something) in a position to obstruct an entrance, opening, etc.; shut. ", "S": ["later"], "A": ["earlier", "preceding", "previous"]}

@@ -1,1 +1,1 @@
-{"index": 20920, "D": "to move, climb, or go upward; mount; rise", "S": ["climb ", "escalate ", "lift off ", "move up ", "soar ", "take off "], "A": ["decline ", "decrease ", "descend ", "drop ", "fall ", "slump "]}
+{"index": 20920, "D": "to move, climb, or go upward; mount; rise", "S": ["climb", "escalate", "lift off", "move up", "soar", "take off"], "A": ["decline", "decrease", "descend", "drop", "fall", "slump"]}

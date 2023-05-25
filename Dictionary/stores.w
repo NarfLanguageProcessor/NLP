@@ -1,1 +1,1 @@
-{"index": 305403, "D": "the ship's stores", "S": ["board ", "chow ", "fare ", "feed ", "fodder ", "food ", "forage ", "groceries ", "provender ", "rations ", "viands ", "victuals "], "A": []}
+{"index": 305403, "D": "the ship's stores", "S": ["board", "chow", "fare", "feed", "fodder", "food", "forage", "groceries", "provender", "rations", "viands", "victuals"], "A": []}

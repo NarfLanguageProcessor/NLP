@@ -1,1 +1,1 @@
-{"index": 150453, "D": "not credulous; disinclined or indisposed to believe; skeptical ", "S": ["doubtful ", "hesitant ", "quizzical ", "skeptical ", "suspicious ", "unconvinced ", "unsatisfied "], "A": ["believing ", "certain ", "definite ", "sure ", "unquestionable "]}
+{"index": 150453, "D": "not credulous; disinclined or indisposed to believe; skeptical ", "S": ["doubtful", "hesitant", "quizzical", "skeptical", "suspicious", "unconvinced", "unsatisfied"], "A": ["believing", "certain", "definite", "sure", "unquestionable"]}

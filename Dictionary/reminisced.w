@@ -1,1 +1,1 @@
-{"index": 267310, "D": "to recall past experiences, events, etc.; indulge in reminiscence. ", "S": ["look back ", "remind "], "A": ["disregard ", "forget ", "ignore ", "neglect "]}
+{"index": 267310, "D": "to recall past experiences, events, etc.; indulge in reminiscence. ", "S": ["look back", "remind"], "A": ["disregard", "forget", "ignore", "neglect"]}

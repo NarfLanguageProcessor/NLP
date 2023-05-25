@@ -1,1 +1,1 @@
-{"index": 275481, "D": [], "S": ["bolus ", "chew ", "food ", "quid "], "A": []}
+{"index": 275481, "D": [], "S": ["bolus", "chew", "food", "quid"], "A": []}

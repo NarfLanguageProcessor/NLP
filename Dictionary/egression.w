@@ -1,1 +1,1 @@
-{"index": 96293, "D": "a going out; egress. ", "S": ["escape ", "evacuation ", "exit ", "exodus ", "flight ", "passage ", "removal ", "retirement ", "retreat ", "separation ", "takeoff ", "walkout ", "withdrawal "], "A": ["arrival ", "coming ", "entrance ", "stay ", "greeting ", "hello "]}
+{"index": 96293, "D": "a going out; egress. ", "S": ["escape", "evacuation", "exit", "exodus", "flight", "passage", "removal", "retirement", "retreat", "separation", "takeoff", "walkout", "withdrawal"], "A": ["arrival", "coming", "entrance", "stay", "greeting", "hello"]}

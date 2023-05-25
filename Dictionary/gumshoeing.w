@@ -1,1 +1,1 @@
-{"index": 131310, "D": "a detective.", "S": ["creep ", "crouch ", "prowl ", "skulk "], "A": ["come out "]}
+{"index": 131310, "D": "a detective.", "S": ["creep", "crouch", "prowl", "skulk"], "A": ["come out"]}

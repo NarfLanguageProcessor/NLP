@@ -1,1 +1,1 @@
-{"index": 268494, "D": "the act of representing.", "S": ["depiction ", "image ", "portrayal "], "A": ["difference ", "original "]}
+{"index": 268494, "D": "the act of representing.", "S": ["depiction", "image", "portrayal"], "A": ["difference", "original"]}

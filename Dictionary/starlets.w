@@ -1,1 +1,1 @@
-{"index": 302913, "D": "a young actress promoted and publicized as a future star,  especially in motion pictures.", "S": ["diva ", "leading lady "], "A": []}
+{"index": 302913, "D": "a young actress promoted and publicized as a future star,  especially in motion pictures.", "S": ["diva", "leading lady"], "A": []}

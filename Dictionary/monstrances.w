@@ -1,1 +1,0 @@
-{"index": 192841, "D": "a receptacle in which the consecrated Host is exposed for adoration.", "S": [], "A": []}

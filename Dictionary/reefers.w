@@ -1,1 +1,1 @@
-{"index": 264588, "D": "a person who reefs. ", "S": ["bhang ", "hashish ", "hemp ", "pot ", "tea "], "A": []}
+{"index": 264588, "D": "a person who reefs. ", "S": ["bhang", "hashish", "hemp", "pot", "tea"], "A": []}

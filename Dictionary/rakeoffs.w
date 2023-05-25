@@ -1,1 +1,1 @@
-{"index": 260183, "D": [], "S": ["allocation ", "allowance ", "appropriation ", "quota ", "ration "], "A": ["whole "]}
+{"index": 260183, "D": [], "S": ["allocation", "allowance", "appropriation", "quota", "ration"], "A": ["whole"]}

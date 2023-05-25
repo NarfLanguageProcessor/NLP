@@ -1,1 +1,1 @@
-{"index": 294961, "D": "to strike or hit hard, with or as with the hand, a stick, or other weapon", "S": ["afflict "], "A": ["aid ", "assist ", "boost ", "cheer ", "comfort ", "compliment ", "encourage ", "fail ", "help ", "inspirit ", "lose ", "praise ", "surrender ", "tap "]}
+{"index": 294961, "D": "to strike or hit hard, with or as with the hand, a stick, or other weapon", "S": ["afflict"], "A": ["aid", "assist", "boost", "cheer", "comfort", "compliment", "encourage", "fail", "help", "inspirit", "lose", "praise", "surrender", "tap"]}

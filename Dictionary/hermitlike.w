@@ -1,1 +1,1 @@
-{"index": 137179, "D": "a person who has withdrawn to a solitary place for a life of religious seclusion.", "S": ["alienated ", "introverted ", "standoffish "], "A": ["friendly ", "fun-loving ", "participating ", "sociable "]}
+{"index": 137179, "D": "a person who has withdrawn to a solitary place for a life of religious seclusion.", "S": ["alienated", "introverted", "standoffish"], "A": ["friendly", "fun-loving", "participating", "sociable"]}

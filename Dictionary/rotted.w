@@ -1,1 +1,1 @@
-{"index": 274687, "D": "to undergo decomposition; decay.", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}
+{"index": 274687, "D": "to undergo decomposition; decay.", "S": ["powdery", "soft"], "A": ["flexible", "pliable"]}

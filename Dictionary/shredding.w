@@ -1,1 +1,1 @@
-{"index": 289137, "D": "furring attached to the undersides of rafters.", "S": ["shave ", "sliver ", "tear "], "A": ["mend ", "sew "]}
+{"index": 289137, "D": "furring attached to the undersides of rafters.", "S": ["shave", "sliver", "tear"], "A": ["mend", "sew"]}

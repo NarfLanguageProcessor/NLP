@@ -1,1 +1,1 @@
-{"index": 278792, "D": "giving or affording satisfaction; fulfilling all demands or requirements", "S": ["competence ", "fairness ", "sufficiency "], "A": ["inadequacy ", "inadequateness ", "insufficiency "]}
+{"index": 278792, "D": "giving or affording satisfaction; fulfilling all demands or requirements", "S": ["competence", "fairness", "sufficiency"], "A": ["inadequacy", "inadequateness", "insufficiency"]}

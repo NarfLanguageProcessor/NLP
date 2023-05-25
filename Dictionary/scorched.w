@@ -1,1 +1,1 @@
-{"index": 281248, "D": "to affect the color, taste, etc., of by burning slightly", "S": ["dried ", "melted "], "A": []}
+{"index": 281248, "D": "to affect the color, taste, etc., of by burning slightly", "S": ["dried", "melted"], "A": []}

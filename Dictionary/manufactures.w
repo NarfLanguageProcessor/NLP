@@ -1,1 +1,1 @@
-{"index": 179655, "D": "the making of goods or wares by manual labor or by machinery, especially on a large scale", "S": ["articles ", "commodities ", "goods ", "line ", "lines ", "material ", "produce ", "product ", "products ", "range ", "seconds ", "stock ", "stuff "], "A": []}
+{"index": 179655, "D": "the making of goods or wares by manual labor or by machinery, especially on a large scale", "S": ["articles", "commodities", "goods", "line", "lines", "material", "produce", "product", "products", "range", "seconds", "stock", "stuff"], "A": []}

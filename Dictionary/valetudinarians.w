@@ -1,1 +1,1 @@
-{"index": 356698, "D": "an invalid.", "S": ["neurotic ", "valetudinary "], "A": []}
+{"index": 356698, "D": "an invalid.", "S": ["neurotic", "valetudinary"], "A": []}

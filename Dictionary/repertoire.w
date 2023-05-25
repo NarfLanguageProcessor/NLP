@@ -1,1 +1,1 @@
-{"index": 268165, "D": "the list of dramas, operas, parts, pieces, etc., that a company, actor, singer, or the like, is prepared to perform.", "S": ["repertory "], "A": ["debt "]}
+{"index": 268165, "D": "the list of dramas, operas, parts, pieces, etc., that a company, actor, singer, or the like, is prepared to perform.", "S": ["repertory"], "A": ["debt"]}

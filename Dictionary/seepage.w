@@ -1,1 +1,1 @@
-{"index": 283151, "D": "the act or process of seeping;  leakage.", "S": ["drainage ", "infiltration "], "A": []}
+{"index": 283151, "D": "the act or process of seeping;  leakage.", "S": ["drainage", "infiltration"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 260751, "D": "an armed Irish freebooter or plunderer, especially of the 17th century.", "S": ["bandit ", "freebooter ", "looter ", "marauder ", "pillager ", "raider ", "spoiler ", "thief ", "vandal "], "A": []}
+{"index": 260751, "D": "an armed Irish freebooter or plunderer, especially of the 17th century.", "S": ["bandit", "freebooter", "looter", "marauder", "pillager", "raider", "spoiler", "thief", "vandal"], "A": []}

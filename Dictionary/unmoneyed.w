@@ -1,1 +1,1 @@
-{"index": 346543, "D": [], "S": ["destitute ", "distressed ", "impoverished ", "indigent ", "needy ", "poor ", "strapped "], "A": ["affluent ", "happy ", "lucky ", "rich ", "wealthy "]}
+{"index": 346543, "D": [], "S": ["destitute", "distressed", "impoverished", "indigent", "needy", "poor", "strapped"], "A": ["affluent", "happy", "lucky", "rich", "wealthy"]}

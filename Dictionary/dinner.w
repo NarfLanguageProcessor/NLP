@@ -1,1 +1,1 @@
-{"index": 86169, "D": "the main meal of the day, eaten in the evening or at midday.", "S": ["banquet ", "feast ", "supper "], "A": []}
+{"index": 86169, "D": "the main meal of the day, eaten in the evening or at midday.", "S": ["banquet", "feast", "supper"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 345924, "D": "to cause to be as if never made; reduce to the original elements or condition; undo; destroy.", "S": ["demote ", "dethrone ", "dismiss ", "impeach ", "overthrow ", "unseat "], "A": ["allow ", "obey ", "promote ", "upgrade "]}
+{"index": 345924, "D": "to cause to be as if never made; reduce to the original elements or condition; undo; destroy.", "S": ["demote", "dethrone", "dismiss", "impeach", "overthrow", "unseat"], "A": ["allow", "obey", "promote", "upgrade"]}

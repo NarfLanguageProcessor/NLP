@@ -1,1 +1,1 @@
-{"index": 180761, "D": "the act or art of treating the body by rubbing, kneading, patting, or the like, to stimulate circulation, increase suppleness, relieve tension, etc.", "S": ["beating ", "manipulation ", "rubbing ", "stroking "], "A": []}
+{"index": 180761, "D": "the act or art of treating the body by rubbing, kneading, patting, or the like, to stimulate circulation, increase suppleness, relieve tension, etc.", "S": ["beating", "manipulation", "rubbing", "stroking"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 296202, "D": "a person with a psychopathic personality whose behavior is antisocial,  often criminal, and who lacks a sense of moral responsibility or social conscience.", "S": ["crazed ", "cuckoo ", "maniacal "], "A": ["logical ", "rational ", "reasonable ", "sensible "]}
+{"index": 296202, "D": "a person with a psychopathic personality whose behavior is antisocial,  often criminal, and who lacks a sense of moral responsibility or social conscience.", "S": ["crazed", "cuckoo", "maniacal"], "A": ["logical", "rational", "reasonable", "sensible"]}

@@ -1,1 +1,1 @@
-{"index": 1848, "D": "to charge with the fault, offense, or crime (usually followed by of)", "S": ["convicted ", "culpable ", "liable ", "remorseful ", "responsible ", "sorry ", "wrong "], "A": ["good ", "immune ", "irresponsible ", "right "]}
+{"index": 1848, "D": "to charge with the fault, offense, or crime (usually followed by of)", "S": ["convicted", "culpable", "liable", "remorseful", "responsible", "sorry", "wrong"], "A": ["good", "immune", "irresponsible", "right"]}

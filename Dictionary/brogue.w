@@ -1,1 +1,1 @@
-{"index": 41163, "D": "an Irish accent in the pronunciation of English.", "S": ["accent ", "dialect ", "expression ", "jargon ", "prose ", "sound ", "speech ", "style ", "terminology ", "vocabulary ", "voice ", "word ", "wording "], "A": ["silence ", "quiet ", "standard "]}
+{"index": 41163, "D": "an Irish accent in the pronunciation of English.", "S": ["accent", "dialect", "expression", "jargon", "prose", "sound", "speech", "style", "terminology", "vocabulary", "voice", "word", "wording"], "A": ["silence", "quiet", "standard"]}

@@ -1,1 +1,1 @@
-{"index": 322060, "D": "next after the second; being the ordinal number for three.", "S": ["hot box ", "third "], "A": []}
+{"index": 322060, "D": "next after the second; being the ordinal number for three.", "S": ["hot box", "third"], "A": []}

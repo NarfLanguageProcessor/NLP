@@ -1,1 +1,1 @@
-{"index": 64384, "D": "a person who is frequently in the company of, associates with, or accompanies another", "S": ["accompany "], "A": ["abandon ", "ignore ", "leave ", "neglect "]}
+{"index": 64384, "D": "a person who is frequently in the company of, associates with, or accompanies another", "S": ["accompany"], "A": ["abandon", "ignore", "leave", "neglect"]}

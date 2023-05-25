@@ -1,1 +1,1 @@
-{"index": 47892, "D": "a person, especially a professional gambler, who cheats at card  games.", "S": ["bettor ", "bookie ", "bookmaker "], "A": []}
+{"index": 47892, "D": "a person, especially a professional gambler, who cheats at card  games.", "S": ["bettor", "bookie", "bookmaker"], "A": []}

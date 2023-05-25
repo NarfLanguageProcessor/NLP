@@ -1,1 +1,1 @@
-{"index": 318188, "D": "noting or pertaining to telephotography.", "S": ["Wirephoto ", "facsimile ", "facsimile machine ", "telefacsimile ", "telefax ", "telephotograph machine "], "A": []}
+{"index": 318188, "D": "noting or pertaining to telephotography.", "S": ["Wirephoto", "facsimile", "facsimile machine", "telefacsimile", "telefax", "telephotograph machine"], "A": []}

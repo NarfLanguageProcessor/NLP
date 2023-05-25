@@ -1,1 +1,1 @@
-{"index": 135357, "D": "a young cow over one year old that has not produced a calf.", "S": ["dogie ", "maverick ", "veal ", "yearling "], "A": []}
+{"index": 135357, "D": "a young cow over one year old that has not produced a calf.", "S": ["dogie", "maverick", "veal", "yearling"], "A": []}

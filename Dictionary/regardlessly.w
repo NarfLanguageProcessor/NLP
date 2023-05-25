@@ -1,1 +1,1 @@
-{"index": 265542, "D": "having or showing no regard; heedless; unmindful  (often followed by of).", "S": ["foolishly ", "impulsively ", "passionately ", "recklessly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}
+{"index": 265542, "D": "having or showing no regard; heedless; unmindful  (often followed by of).", "S": ["foolishly", "impulsively", "passionately", "recklessly"], "A": ["carefully", "cautiously", "considerately", "purposely", "reasonably", "sensibly"]}

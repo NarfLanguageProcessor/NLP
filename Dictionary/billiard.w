@@ -1,0 +1,1 @@
+{"index": 34010, "D": "of or used in billiards.", "S": [], "A": []}

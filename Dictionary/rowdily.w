@@ -1,1 +1,1 @@
-{"index": 275012, "D": "a rough, disorderly person.", "S": ["heavily ", "seriously ", "strongly ", "vigorously "], "A": ["lightly "]}
+{"index": 275012, "D": "a rough, disorderly person.", "S": ["heavily", "seriously", "strongly", "vigorously"], "A": ["lightly"]}

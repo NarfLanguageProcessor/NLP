@@ -1,1 +1,1 @@
-{"index": 355127, "D": "to surge  up; increase; rise", "S": ["ascending ", "climbing ", "growing ", "increasing ", "soaring ", "spiraling ", "surging "], "A": []}
+{"index": 355127, "D": "to surge  up; increase; rise", "S": ["ascending", "climbing", "growing", "increasing", "soaring", "spiraling", "surging"], "A": []}

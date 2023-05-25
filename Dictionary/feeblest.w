@@ -1,1 +1,1 @@
-{"index": 110851, "D": "physically weak, as from age or sickness; frail.", "S": ["bottom ", "first ", "gutter ", "infinitesimal ", "last ", "minimum ", "minute ", "nadir ", "second ", "third "], "A": ["big ", "huge ", "large ", "substantial "]}
+{"index": 110851, "D": "physically weak, as from age or sickness; frail.", "S": ["bottom", "first", "gutter", "infinitesimal", "last", "minimum", "minute", "nadir", "second", "third"], "A": ["big", "huge", "large", "substantial"]}

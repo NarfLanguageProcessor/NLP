@@ -1,1 +1,1 @@
-{"index": 76472, "D": "a trifling away of time; dawdling.", "S": ["delay ", "idling ", "loafing ", "playing ", "poking ", "procrastination ", "toying ", "trifling "], "A": ["hastening ", "hurrying ", "push ", "rush "]}
+{"index": 76472, "D": "a trifling away of time; dawdling.", "S": ["delay", "idling", "loafing", "playing", "poking", "procrastination", "toying", "trifling"], "A": ["hastening", "hurrying", "push", "rush"]}

@@ -1,0 +1,1 @@
+{"index": 10087, "D": "a native or inhabitant of Ambon. ", "S": [], "A": []}

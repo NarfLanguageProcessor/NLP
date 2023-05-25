@@ -1,1 +1,1 @@
-{"index": 245317, "D": "of the nature of a prank", "S": ["delicate ", "devilish ", "disobedient ", "elfish ", "frolicsome ", "impish ", "little ", "minute ", "misbehaving ", "naughty ", "petite ", "playful ", "puckish ", "puny ", "rascally ", "slight ", "sprightly ", "tiny "], "A": []}
+{"index": 245317, "D": "of the nature of a prank", "S": ["delicate", "devilish", "disobedient", "elfish", "frolicsome", "impish", "little", "minute", "misbehaving", "naughty", "petite", "playful", "puckish", "puny", "rascally", "slight", "sprightly", "tiny"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 219990, "D": "simple past tense and past participle of overlay1. ", "S": ["camouflaged ", "capped ", "closed ", "coated ", "concealed ", "enclosed ", "hidden ", "painted ", "protected ", "shielded ", "topped ", "wrapped "], "A": ["bare ", "exposed ", "open ", "uncovered ", "unmasked "]}
+{"index": 219990, "D": "simple past tense and past participle of overlay1. ", "S": ["camouflaged", "capped", "closed", "coated", "concealed", "enclosed", "hidden", "painted", "protected", "shielded", "topped", "wrapped"], "A": ["bare", "exposed", "open", "uncovered", "unmasked"]}

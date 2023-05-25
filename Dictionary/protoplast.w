@@ -1,1 +1,1 @@
-{"index": 253800, "D": "the primordial living unit or cell.", "S": ["archetype ", "coinage ", "creation ", "exemplar ", "father ", "forerunner ", "invention ", "master ", "model ", "novelty ", "paradigm ", "pattern ", "precedent ", "precursor ", "prototype ", "type "], "A": []}
+{"index": 253800, "D": "the primordial living unit or cell.", "S": ["archetype", "coinage", "creation", "exemplar", "father", "forerunner", "invention", "master", "model", "novelty", "paradigm", "pattern", "precedent", "precursor", "prototype", "type"], "A": []}

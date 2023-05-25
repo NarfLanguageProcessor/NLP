@@ -1,1 +1,1 @@
-{"index": 36192, "D": "Britain, or specifically England, as one's home or native land", "S": ["Albion ", "Britain ", "Britannia ", "Commonwealth of Nations ", "England ", "Great Britain ", "Land of the Rose ", "UK ", "United Kingdom of Great Britain and Northern Ireland "], "A": []}
+{"index": 36192, "D": "Britain, or specifically England, as one's home or native land", "S": ["Albion", "Britain", "Britannia", "Commonwealth of Nations", "England", "Great Britain", "Land of the Rose", "UK", "United Kingdom of Great Britain and Northern Ireland"], "A": []}

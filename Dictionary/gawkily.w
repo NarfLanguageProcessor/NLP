@@ -1,1 +1,1 @@
-{"index": 122949, "D": "awkward; ungainly; clumsy.", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}
+{"index": 122949, "D": "awkward; ungainly; clumsy.", "S": ["clumsily", "stiffly"], "A": ["adroitly", "gracefully", "skillfully"]}

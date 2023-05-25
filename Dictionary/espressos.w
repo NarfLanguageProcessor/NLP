@@ -1,1 +1,1 @@
-{"index": 104453, "D": "a strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans.", "S": ["caffeine ", "cappuccino "], "A": []}
+{"index": 104453, "D": "a strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans.", "S": ["caffeine", "cappuccino"], "A": []}

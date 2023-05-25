@@ -1,1 +1,1 @@
-{"index": 356623, "D": "a short curtain or piece of drapery that is hung from the edge of a canopy, from the frame of a bed, etc.", "S": ["decoration ", "drape ", "drapery ", "screen ", "shade ", "shroud ", "shutter ", "veil "], "A": []}
+{"index": 356623, "D": "a short curtain or piece of drapery that is hung from the edge of a canopy, from the frame of a bed, etc.", "S": ["decoration", "drape", "drapery", "screen", "shade", "shroud", "shutter", "veil"], "A": []}

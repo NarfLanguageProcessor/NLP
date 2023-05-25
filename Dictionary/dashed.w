@@ -1,1 +1,1 @@
-{"index": 77067, "D": "made up of dashes", "S": ["crestfallen ", "despondent ", "discouraged ", "disheartened ", "dispirited ", "gloomy ", "glum ", "morose "], "A": ["cheerful ", "elated ", "encouraged ", "happy ", "heartened ", "inspirited ", "above ", "upright "]}
+{"index": 77067, "D": "made up of dashes", "S": ["crestfallen", "despondent", "discouraged", "disheartened", "dispirited", "gloomy", "glum", "morose"], "A": ["cheerful", "elated", "encouraged", "happy", "heartened", "inspirited", "above", "upright"]}

@@ -1,1 +1,1 @@
-{"index": 259353, "D": "a series of contests of speed between horses (or sometimes greyhounds) over a set course at prearranged times; a race meeting", "S": ["chase ", "competition ", "contention ", "contest ", "course ", "event ", "marathon ", "match ", "relay ", "run ", "sprint "], "A": []}
+{"index": 259353, "D": "a series of contests of speed between horses (or sometimes greyhounds) over a set course at prearranged times; a race meeting", "S": ["chase", "competition", "contention", "contest", "course", "event", "marathon", "match", "relay", "run", "sprint"], "A": []}

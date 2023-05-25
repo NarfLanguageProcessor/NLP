@@ -1,1 +1,1 @@
-{"index": 240321, "D": "to pull off or out from the place of growth, as fruit, flowers, feathers, etc.", "S": ["clutch ", "cull ", "harvest ", "snatch ", "strum ", "yank "], "A": ["disperse ", "distribute ", "divide ", "misunderstand ", "push ", "scatter "]}
+{"index": 240321, "D": "to pull off or out from the place of growth, as fruit, flowers, feathers, etc.", "S": ["clutch", "cull", "harvest", "snatch", "strum", "yank"], "A": ["disperse", "distribute", "divide", "misunderstand", "push", "scatter"]}

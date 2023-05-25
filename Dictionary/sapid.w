@@ -1,1 +1,1 @@
-{"index": 278102, "D": "having taste or flavor.", "S": ["engaging ", "palatable ", "tasty ", "zestful "], "A": []}
+{"index": 278102, "D": "having taste or flavor.", "S": ["engaging", "palatable", "tasty", "zestful"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 169663, "D": "having much knowledge; scholarly; erudite", "S": ["culture ", "discipline ", "improvement ", "information ", "learning ", "literacy ", "scholarship ", "schooling ", "science ", "study ", "teaching ", "training "], "A": ["ignorance ", "destruction ", "neglect "]}
+{"index": 169663, "D": "having much knowledge; scholarly; erudite", "S": ["culture", "discipline", "improvement", "information", "learning", "literacy", "scholarship", "schooling", "science", "study", "teaching", "training"], "A": ["ignorance", "destruction", "neglect"]}

@@ -1,1 +1,1 @@
-{"index": 133112, "D": "Compare caliper (def. 6). ", "S": ["E-brake ", "parking brake "], "A": []}
+{"index": 133112, "D": "Compare caliper (def. 6). ", "S": ["E-brake", "parking brake"], "A": []}

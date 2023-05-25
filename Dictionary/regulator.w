@@ -1,1 +1,1 @@
-{"index": 265892, "D": "a person or thing that regulates.", "S": ["manager "], "A": []}
+{"index": 265892, "D": "a person or thing that regulates.", "S": ["manager"], "A": []}

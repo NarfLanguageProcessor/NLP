@@ -1,1 +1,1 @@
-{"index": 82003, "D": "to throw into disorder; disarrange.", "S": ["disconcert ", "disorganize ", "perplex ", "unbalance "], "A": ["arrange ", "balance ", "calm ", "clarify ", "clear up ", "compose ", "explain ", "make happy ", "order ", "organize ", "please ", "soothe "]}
+{"index": 82003, "D": "to throw into disorder; disarrange.", "S": ["disconcert", "disorganize", "perplex", "unbalance"], "A": ["arrange", "balance", "calm", "clarify", "clear up", "compose", "explain", "make happy", "order", "organize", "please", "soothe"]}

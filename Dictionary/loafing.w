@@ -1,1 +1,1 @@
-{"index": 174096, "D": "a portion of bread or cake baked in a shaped or molded mass, usually oblong with a rounded top", "S": ["dallying ", "idle ", "rambling "], "A": ["active ", "energetic ", "toiling "]}
+{"index": 174096, "D": "a portion of bread or cake baked in a shaped or molded mass, usually oblong with a rounded top", "S": ["dallying", "idle", "rambling"], "A": ["active", "energetic", "toiling"]}

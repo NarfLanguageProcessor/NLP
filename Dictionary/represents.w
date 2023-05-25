@@ -1,1 +1,1 @@
-{"index": 268517, "D": "to serve to express, designate, stand for, or denote, as a word, symbol, or the like does; symbolize", "S": ["mean ", "perform ", "produce ", "serve ", "serve as ", "show ", "speak for "], "A": ["refuse ", "differ ", "imbalance ", "oppose ", "reverse ", "stop "]}
+{"index": 268517, "D": "to serve to express, designate, stand for, or denote, as a word, symbol, or the like does; symbolize", "S": ["mean", "perform", "produce", "serve", "serve as", "show", "speak for"], "A": ["refuse", "differ", "imbalance", "oppose", "reverse", "stop"]}

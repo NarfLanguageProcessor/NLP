@@ -1,0 +1,1 @@
+{"index": 3596, "D": "the person, company, or the like to whom a piece of mail is addressed. ", "S": ["citizen", "colonist", "dweller", "inmate", "occupant", "settler"], "A": ["alien", "foreigner", "immigrant", "landlord"]}

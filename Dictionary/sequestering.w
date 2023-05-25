@@ -1,1 +1,1 @@
-{"index": 285855, "D": "to remove or withdraw into solitude or retirement; seclude. ", "S": ["cloister ", "close off ", "insulate ", "segregate "], "A": ["lay bare ", "reveal ", "tell ", "uncover "]}
+{"index": 285855, "D": "to remove or withdraw into solitude or retirement; seclude. ", "S": ["cloister", "close off", "insulate", "segregate"], "A": ["lay bare", "reveal", "tell", "uncover"]}

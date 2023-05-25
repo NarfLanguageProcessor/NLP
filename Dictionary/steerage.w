@@ -1,1 +1,1 @@
-{"index": 303469, "D": "a part or division of a ship, formerly the part containing the steering  apparatus.", "S": ["boating ", "exploration ", "shipping "], "A": []}
+{"index": 303469, "D": "a part or division of a ship, formerly the part containing the steering  apparatus.", "S": ["boating", "exploration", "shipping"], "A": []}

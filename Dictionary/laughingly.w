@@ -1,1 +1,1 @@
-{"index": 169131, "D": "that laughs  or is given to laughter", "S": ["brilliantly ", "cheerfully ", "colorfully ", "flamboyantly ", "gleefully ", "joyfully ", "merrily ", "splendidly "], "A": ["sadly ", "solemnly ", "unhappily "]}
+{"index": 169131, "D": "that laughs  or is given to laughter", "S": ["brilliantly", "cheerfully", "colorfully", "flamboyantly", "gleefully", "joyfully", "merrily", "splendidly"], "A": ["sadly", "solemnly", "unhappily"]}

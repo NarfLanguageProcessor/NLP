@@ -1,1 +1,1 @@
-{"index": 334210, "D": "creating or providing shade; shady", "S": ["adumbral ", "bosky ", "cloudy ", "cool ", "covered ", "dark ", "dim ", "dusky ", "indistinct ", "leafy ", "out of the sun ", "screened ", "shaded ", "shadowed ", "shadowy ", "shady ", "sheltered ", "umbrous "], "A": []}
+{"index": 334210, "D": "creating or providing shade; shady", "S": ["adumbral", "bosky", "cloudy", "cool", "covered", "dark", "dim", "dusky", "indistinct", "leafy", "out of the sun", "screened", "shaded", "shadowed", "shadowy", "shady", "sheltered", "umbrous"], "A": []}

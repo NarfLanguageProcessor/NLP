@@ -1,1 +1,1 @@
-{"index": 263158, "D": "serving to recommend; recommending.", "S": ["agreeable ", "benign ", "encouraging ", "positive ", "supportive ", "sympathetic "], "A": ["disadvantageous ", "disagreeable ", "hateful "]}
+{"index": 263158, "D": "serving to recommend; recommending.", "S": ["agreeable", "benign", "encouraging", "positive", "supportive", "sympathetic"], "A": ["disadvantageous", "disagreeable", "hateful"]}

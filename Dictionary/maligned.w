@@ -1,1 +1,1 @@
-{"index": 178467, "D": "spoken ill of; defamed or slandered", "S": ["abused ", "rejected ", "scorned "], "A": []}
+{"index": 178467, "D": "spoken ill of; defamed or slandered", "S": ["abused", "rejected", "scorned"], "A": []}

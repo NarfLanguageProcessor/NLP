@@ -1,1 +1,1 @@
-{"index": 133312, "D": "work done by hand, as distinguished from work done by machine.", "S": ["workmanship "], "A": []}
+{"index": 133312, "D": "work done by hand, as distinguished from work done by machine.", "S": ["workmanship"], "A": []}

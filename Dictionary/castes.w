@@ -1,1 +1,1 @@
-{"index": 49067, "D": "any rigid system of social distinctions.", "S": ["stratum "], "A": []}
+{"index": 49067, "D": "any rigid system of social distinctions.", "S": ["stratum"], "A": []}

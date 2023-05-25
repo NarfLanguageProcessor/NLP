@@ -1,1 +1,1 @@
-{"index": 5437, "D": "characterized by or causing pain, distress, or grief; distressing.", "S": ["aching ", "achy ", "agonizing ", "distressing ", "excruciating ", "hurtful ", "sore ", "stinging ", "troublesome "], "A": []}
+{"index": 5437, "D": "characterized by or causing pain, distress, or grief; distressing.", "S": ["aching", "achy", "agonizing", "distressing", "excruciating", "hurtful", "sore", "stinging", "troublesome"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 337842, "D": "dependent for existence, occurrence, character, etc., on something not yet certain; conditional (often followed by on or upon)", "S": [], "A": []}

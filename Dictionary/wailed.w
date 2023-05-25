@@ -1,1 +1,1 @@
-{"index": 361994, "D": "to utter a prolonged, inarticulate, mournful cry, usually high-pitched or clear-sounding, as in grief or suffering", "S": ["fuss ", "grieve ", "howl ", "moan ", "mourn ", "sob ", "weep ", "whimper "], "A": ["be happy ", "approve ", "compliment ", "gloat ", "praise "]}
+{"index": 361994, "D": "to utter a prolonged, inarticulate, mournful cry, usually high-pitched or clear-sounding, as in grief or suffering", "S": ["fuss", "grieve", "howl", "moan", "mourn", "sob", "weep", "whimper"], "A": ["be happy", "approve", "compliment", "gloat", "praise"]}

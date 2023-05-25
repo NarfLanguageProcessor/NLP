@@ -1,1 +1,1 @@
-{"index": 16150, "D": "discrimination against or prejudice or hostility toward Jews.", "S": ["anti-Semitism ", "race discrimination ", "race prejudice ", "race snobbery ", "racialism ", "racism "], "A": []}
+{"index": 16150, "D": "discrimination against or prejudice or hostility toward Jews.", "S": ["anti-Semitism", "race discrimination", "race prejudice", "race snobbery", "racialism", "racism"], "A": []}

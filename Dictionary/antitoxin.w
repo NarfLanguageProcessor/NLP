@@ -1,1 +1,1 @@
-{"index": 16350, "D": "a substance, formed in the body, that counteracts a specific toxin. ", "S": ["antibiotic ", "antibody ", "antiseptic ", "antiserum ", "antivenin ", "medicine ", "preventive ", "serum ", "vaccine "], "A": []}
+{"index": 16350, "D": "a substance, formed in the body, that counteracts a specific toxin. ", "S": ["antibiotic", "antibody", "antiseptic", "antiserum", "antivenin", "medicine", "preventive", "serum", "vaccine"], "A": []}

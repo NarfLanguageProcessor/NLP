@@ -1,1 +1,1 @@
-{"index": 360010, "D": "the act of violating. ", "S": ["abuse ", "contravention ", "encroachment ", "infraction ", "infringement ", "misdemeanor ", "negligence ", "offense ", "transgression "], "A": ["obedience "]}
+{"index": 360010, "D": "the act of violating. ", "S": ["abuse", "contravention", "encroachment", "infraction", "infringement", "misdemeanor", "negligence", "offense", "transgression"], "A": ["obedience"]}

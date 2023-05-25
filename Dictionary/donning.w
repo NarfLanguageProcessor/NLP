@@ -1,1 +1,1 @@
-{"index": 91456, "D": "the act of putting on a garment or piece of equipment", "S": ["dress ", "put on ", "wear "], "A": ["disrobe "]}
+{"index": 91456, "D": "the act of putting on a garment or piece of equipment", "S": ["dress", "put on", "wear"], "A": ["disrobe"]}

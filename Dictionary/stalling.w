@@ -1,1 +1,1 @@
-{"index": 302546, "D": "a compartment in a stable or shed for the accommodation of one animal.", "S": ["delay ", "suspension "], "A": ["advance ", "aid ", "assistance ", "beginning ", "commencement ", "continuation ", "freedom ", "go ", "help ", "liberation ", "promotion ", "start "]}
+{"index": 302546, "D": "a compartment in a stable or shed for the accommodation of one animal.", "S": ["delay", "suspension"], "A": ["advance", "aid", "assistance", "beginning", "commencement", "continuation", "freedom", "go", "help", "liberation", "promotion", "start"]}

@@ -1,1 +1,1 @@
-{"index": 289248, "D": "to impose penance on (a sinner).", "S": ["absolve ", "acquit ", "atone ", "forgive ", "free ", "pardon ", "purge ", "repent "], "A": ["blame ", "censure ", "charge ", "condemn ", "convict ", "damn ", "hold ", "punish ", "sentence "]}
+{"index": 289248, "D": "to impose penance on (a sinner).", "S": ["absolve", "acquit", "atone", "forgive", "free", "pardon", "purge", "repent"], "A": ["blame", "censure", "charge", "condemn", "convict", "damn", "hold", "punish", "sentence"]}

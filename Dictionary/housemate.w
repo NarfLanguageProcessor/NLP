@@ -1,1 +1,1 @@
-{"index": 144456, "D": "a person with whom one shares a house  or other residence.", "S": ["beneficiary ", "cohabitant ", "companion ", "longtime companion ", "lover ", "partner ", "spouse "], "A": []}
+{"index": 144456, "D": "a person with whom one shares a house  or other residence.", "S": ["beneficiary", "cohabitant", "companion", "longtime companion", "lover", "partner", "spouse"], "A": []}

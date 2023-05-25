@@ -1,1 +1,1 @@
-{"index": 145389, "D": "to proceed or work rapidly or energetically", "S": ["bustling ", "busy ", "occupied "], "A": ["idle ", "inactive "]}
+{"index": 145389, "D": "to proceed or work rapidly or energetically", "S": ["bustling", "busy", "occupied"], "A": ["idle", "inactive"]}

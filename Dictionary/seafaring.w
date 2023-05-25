@@ -1,1 +1,1 @@
-{"index": 282426, "D": "traveling by sea.", "S": ["maritime ", "nautical ", "seagoing "], "A": []}
+{"index": 282426, "D": "traveling by sea.", "S": ["maritime", "nautical", "seagoing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 100496, "D": "fully occupying the mind or attention; absorbing", "S": ["absorbing ", "captivating ", "compelling ", "enthralling ", "exciting ", "fascinating ", "gripping ", "intriguing ", "riveting ", "stimulating "], "A": ["boring "]}
+{"index": 100496, "D": "fully occupying the mind or attention; absorbing", "S": ["absorbing", "captivating", "compelling", "enthralling", "exciting", "fascinating", "gripping", "intriguing", "riveting", "stimulating"], "A": ["boring"]}

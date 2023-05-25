@@ -1,1 +1,1 @@
-{"index": 249745, "D": "to take for granted, assume, or suppose", "S": ["accepted ", "granted "], "A": ["genuine ", "natural ", "real ", "unassumed ", "unexpected "]}
+{"index": 249745, "D": "to take for granted, assume, or suppose", "S": ["accepted", "granted"], "A": ["genuine", "natural", "real", "unassumed", "unexpected"]}

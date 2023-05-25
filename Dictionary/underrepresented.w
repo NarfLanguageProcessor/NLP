@@ -1,1 +1,1 @@
-{"index": 339691, "D": "to give inadequate representation to; represent in numbers that are disproportionately low.", "S": ["belittled ", "diminished "], "A": []}
+{"index": 339691, "D": "to give inadequate representation to; represent in numbers that are disproportionately low.", "S": ["belittled", "diminished"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 40801, "D": "shining brightly; sparkling; glittering; lustrous", "S": ["bright ", "dazzling ", "flashy ", "intense ", "luminous ", "radiant ", "scintillating ", "sparkling ", "vivid "], "A": ["cloudy ", "dark ", "dim ", "dull ", "gloomy ", "obscure "]}
+{"index": 40801, "D": "shining brightly; sparkling; glittering; lustrous", "S": ["bright", "dazzling", "flashy", "intense", "luminous", "radiant", "scintillating", "sparkling", "vivid"], "A": ["cloudy", "dark", "dim", "dull", "gloomy", "obscure"]}

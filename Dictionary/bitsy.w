@@ -1,1 +1,1 @@
-{"index": 35225, "D": "tiny; itty-bitty.", "S": ["miniature ", "pint-sized "], "A": ["big ", "enormous ", "giant ", "huge ", "immense ", "important ", "large "]}
+{"index": 35225, "D": "tiny; itty-bitty.", "S": ["miniature", "pint-sized"], "A": ["big", "enormous", "giant", "huge", "immense", "important", "large"]}

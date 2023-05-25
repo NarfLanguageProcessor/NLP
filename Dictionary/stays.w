@@ -1,1 +1,1 @@
-{"index": 302451, "D": "corsets with bones in them", "S": ["bodice ", "underwear "], "A": []}
+{"index": 302451, "D": "corsets with bones in them", "S": ["bodice", "underwear"], "A": []}

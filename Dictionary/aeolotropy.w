@@ -1,0 +1,1 @@
+{"index": 4869, "D": "not isotropic; anisotropic.", "S": [], "A": []}

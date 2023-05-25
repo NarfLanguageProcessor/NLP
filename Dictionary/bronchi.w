@@ -1,1 +1,1 @@
-{"index": 41352, "D": "the plural of bronchus. ", "S": ["alveolus ", "pleura "], "A": []}
+{"index": 41352, "D": "the plural of bronchus. ", "S": ["alveolus", "pleura"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 49379, "D": "a descent of water over a steep surface; a waterfall, especially one of considerable size.", "S": ["deluge ", "flood ", "rapids ", "torrent "], "A": []}
+{"index": 49379, "D": "a descent of water over a steep surface; a waterfall, especially one of considerable size.", "S": ["deluge", "flood", "rapids", "torrent"], "A": []}

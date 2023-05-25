@@ -1,1 +1,1 @@
-{"index": 294237, "D": "to slide down or along a surface, especially unsteadily, from side to side, or with some friction or noise", "S": ["crawl ", "glide ", "skid ", "slink ", "sneak ", "wriggle "], "A": []}
+{"index": 294237, "D": "to slide down or along a surface, especially unsteadily, from side to side, or with some friction or noise", "S": ["crawl", "glide", "skid", "slink", "sneak", "wriggle"], "A": []}

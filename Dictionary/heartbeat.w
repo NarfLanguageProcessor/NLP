@@ -1,1 +1,1 @@
-{"index": 134821, "D": "a pulsation of the heart,  including one complete systole and diastole.", "S": ["pulse "], "A": []}
+{"index": 134821, "D": "a pulsation of the heart,  including one complete systole and diastole.", "S": ["pulse"], "A": []}

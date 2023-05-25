@@ -1,1 +1,1 @@
-{"index": 106169, "D": "every person; everybody.", "S": ["anybody ", "everybody ", "people "], "A": ["no one ", "nobody "]}
+{"index": 106169, "D": "every person; everybody.", "S": ["anybody", "everybody", "people"], "A": ["no one", "nobody"]}

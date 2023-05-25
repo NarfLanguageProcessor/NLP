@@ -1,1 +1,1 @@
-{"index": 255926, "D": "to give publicity  to; bring to public  notice; advertise", "S": ["advertise ", "announce ", "boost ", "broadcast ", "promulgate ", "tout ", "trumpet "], "A": ["conceal ", "hide ", "keep secret "]}
+{"index": 255926, "D": "to give publicity  to; bring to public  notice; advertise", "S": ["advertise", "announce", "boost", "broadcast", "promulgate", "tout", "trumpet"], "A": ["conceal", "hide", "keep secret"]}

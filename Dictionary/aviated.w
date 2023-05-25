@@ -1,1 +1,1 @@
-{"index": 24742, "D": "to fly or fly in an aircraft.", "S": ["circle ", "climb ", "cross ", "drift ", "float ", "flutter ", "glide ", "operate ", "pilot ", "reach ", "rush ", "sail ", "shoot ", "speed ", "swoop ", "take off ", "travel "], "A": ["remain ", "stay ", "rest "]}
+{"index": 24742, "D": "to fly or fly in an aircraft.", "S": ["circle", "climb", "cross", "drift", "float", "flutter", "glide", "operate", "pilot", "reach", "rush", "sail", "shoot", "speed", "swoop", "take off", "travel"], "A": ["remain", "stay", "rest"]}

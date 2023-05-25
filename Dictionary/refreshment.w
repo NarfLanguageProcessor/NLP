@@ -1,1 +1,1 @@
-{"index": 265381, "D": "something that refreshes,  especially food or drink.", "S": ["snack "], "A": []}
+{"index": 265381, "D": "something that refreshes,  especially food or drink.", "S": ["snack"], "A": []}

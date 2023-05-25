@@ -1,1 +1,1 @@
-{"index": 187930, "D": "pertaining to the ministry of religion, or to a minister  or other member of the clergy.", "S": ["clerical "], "A": []}
+{"index": 187930, "D": "pertaining to the ministry of religion, or to a minister  or other member of the clergy.", "S": ["clerical"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 338913, "D": "shrubs, saplings, low vines, etc., growing under the large trees in a wood or forest.", "S": ["thicket "], "A": []}
+{"index": 338913, "D": "shrubs, saplings, low vines, etc., growing under the large trees in a wood or forest.", "S": ["thicket"], "A": []}

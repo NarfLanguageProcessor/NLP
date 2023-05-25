@@ -1,1 +1,1 @@
-{"index": 17272, "D": "a person who makes a defense in speech or writing of a belief, idea, etc.", "S": ["pleader ", "polemicist ", "sophist "], "A": []}
+{"index": 17272, "D": "a person who makes a defense in speech or writing of a belief, idea, etc.", "S": ["pleader", "polemicist", "sophist"], "A": []}

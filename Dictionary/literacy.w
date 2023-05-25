@@ -1,1 +1,1 @@
-{"index": 173554, "D": "the quality or state of being literate,  especially the ability to read and write.", "S": ["education ", "knowledge ", "learning ", "proficiency "], "A": ["ignorance "]}
+{"index": 173554, "D": "the quality or state of being literate,  especially the ability to read and write.", "S": ["education", "knowledge", "learning", "proficiency"], "A": ["ignorance"]}

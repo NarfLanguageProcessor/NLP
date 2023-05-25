@@ -1,1 +1,1 @@
-{"index": 14175, "D": "a conductor by which electromagnetic waves are sent out or received, consisting commonly of a wire or set of wires; aerial.", "S": ["receiver ", "wire "], "A": []}
+{"index": 14175, "D": "a conductor by which electromagnetic waves are sent out or received, consisting commonly of a wire or set of wires; aerial.", "S": ["receiver", "wire"], "A": []}

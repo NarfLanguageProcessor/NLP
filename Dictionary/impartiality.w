@@ -1,1 +1,1 @@
-{"index": 148307, "D": "the quality of not being biased or prejudiced; fairness", "S": ["equality ", "fairness ", "neutrality ", "probity "], "A": ["unfairness "]}
+{"index": 148307, "D": "the quality of not being biased or prejudiced; fairness", "S": ["equality", "fairness", "neutrality", "probity"], "A": ["unfairness"]}

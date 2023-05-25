@@ -1,1 +1,0 @@
-{"index": 203325, "D": "high spirits; exhilaration; exuberance.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 47234, "D": "a hood or cowl, especially the long, pointed cowl of the Capuchins.", "S": ["babushka ", "bonnet ", "capuchin ", "coif ", "cowl ", "hat ", "kerchief ", "mantilla ", "mantle ", "protector ", "purdah ", "shawl ", "veil ", "wimple ", "yashmak "], "A": []}
+{"index": 47234, "D": "a hood or cowl, especially the long, pointed cowl of the Capuchins.", "S": ["babushka", "bonnet", "capuchin", "coif", "cowl", "hat", "kerchief", "mantilla", "mantle", "protector", "purdah", "shawl", "veil", "wimple", "yashmak"], "A": []}

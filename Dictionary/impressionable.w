@@ -1,1 +1,1 @@
-{"index": 149070, "D": "easily impressed  or influenced; susceptible", "S": ["susceptible "], "A": ["insusceptible ", "obstinate ", "stubborn ", "unimpressionable ", "unresponsive "]}
+{"index": 149070, "D": "easily impressed  or influenced; susceptible", "S": ["susceptible"], "A": ["insusceptible", "obstinate", "stubborn", "unimpressionable", "unresponsive"]}

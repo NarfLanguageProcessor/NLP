@@ -1,0 +1,1 @@
+{"index": 3619, "D": "the action of an adducent  muscle.", "S": [], "A": []}

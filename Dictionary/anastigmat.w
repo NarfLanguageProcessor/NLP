@@ -1,0 +1,1 @@
+{"index": 12021, "D": "a compound lens corrected for the aberrations of astigmatism and curvature of field.", "S": [], "A": []}

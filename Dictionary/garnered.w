@@ -1,1 +1,1 @@
-{"index": 122205, "D": "gathered, deposited, or stored in or as if in a granary or other storage place", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}
+{"index": 122205, "D": "gathered, deposited, or stored in or as if in a granary or other storage place", "S": ["accumulated", "collected", "concentrated", "huddled", "massed", "reunited"], "A": ["separated"]}

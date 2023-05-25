@@ -1,1 +1,1 @@
-{"index": 165786, "D": "a sluggish, tailless, gray, furry, arboreal marsupial, Phascolarctos cinereus, of Australia.", "S": ["bandicoot ", "euro ", "kangaroo ", "opossum ", "possum ", "wallaby ", "wombat "], "A": []}
+{"index": 165786, "D": "a sluggish, tailless, gray, furry, arboreal marsupial, Phascolarctos cinereus, of Australia.", "S": ["bandicoot", "euro", "kangaroo", "opossum", "possum", "wallaby", "wombat"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 66406, "D": "of, relating to, or characteristic of marriage", "S": ["connubial "], "A": []}
+{"index": 66406, "D": "of, relating to, or characteristic of marriage", "S": ["connubial"], "A": []}

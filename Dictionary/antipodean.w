@@ -1,1 +1,1 @@
-{"index": 15904, "D": "of, relating to, or originating from places on the opposite side of the globe, especially Australia and New Zealand; antipodal", "S": ["antipodal "], "A": []}
+{"index": 15904, "D": "of, relating to, or originating from places on the opposite side of the globe, especially Australia and New Zealand; antipodal", "S": ["antipodal"], "A": []}

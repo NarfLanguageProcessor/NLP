@@ -1,1 +1,1 @@
-{"index": 184915, "D": "a literal translation.", "S": ["adaptation ", "explanation ", "reading ", "rendering ", "rendition ", "transcription ", "version "], "A": []}
+{"index": 184915, "D": "a literal translation.", "S": ["adaptation", "explanation", "reading", "rendering", "rendition", "transcription", "version"], "A": []}

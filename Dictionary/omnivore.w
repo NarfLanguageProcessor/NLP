@@ -1,1 +1,1 @@
-{"index": 212588, "D": "someone or something that is omnivorous. ", "S": ["bon vivant ", "connoisseur ", "consumer ", "diner ", "eater ", "epicure ", "epicurean ", "gastronomer ", "gourmand ", "gourmet "], "A": ["fruitarian ", "vegan ", "vegetarian "]}
+{"index": 212588, "D": "someone or something that is omnivorous. ", "S": ["bon vivant", "connoisseur", "consumer", "diner", "eater", "epicure", "epicurean", "gastronomer", "gourmand", "gourmet"], "A": ["fruitarian", "vegan", "vegetarian"]}

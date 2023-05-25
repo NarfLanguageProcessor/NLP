@@ -1,1 +1,1 @@
-{"index": 90404, "D": "Compare judicial separation. ", "S": ["free ", "independent ", "isolated ", "sovereign "], "A": ["subservient ", "connected ", "united "]}
+{"index": 90404, "D": "Compare judicial separation. ", "S": ["free", "independent", "isolated", "sovereign"], "A": ["subservient", "connected", "united"]}

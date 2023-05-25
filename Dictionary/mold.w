@@ -1,1 +1,1 @@
-{"index": 191406, "D": "a hollow form or matrix for giving a particular shape to something in a molten or plastic state.", "S": ["cavity "], "A": []}
+{"index": 191406, "D": "a hollow form or matrix for giving a particular shape to something in a molten or plastic state.", "S": ["cavity"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 243312, "D": "to make popular", "S": ["pretentious "], "A": []}
+{"index": 243312, "D": "to make popular", "S": ["pretentious"], "A": []}

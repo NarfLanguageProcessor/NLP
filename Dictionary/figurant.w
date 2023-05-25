@@ -1,1 +1,1 @@
-{"index": 112463, "D": "a ballet dancer who does not perform solo.", "S": ["dancer "], "A": []}
+{"index": 112463, "D": "a ballet dancer who does not perform solo.", "S": ["dancer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 95967, "D": "with the intended effect; thoroughly", "S": ["adequately ", "completely ", "definitely ", "dramatically ", "energetically ", "finally ", "forcefully ", "productively "], "A": ["doubtfully ", "dubiously "]}
+{"index": 95967, "D": "with the intended effect; thoroughly", "S": ["adequately", "completely", "definitely", "dramatically", "energetically", "finally", "forcefully", "productively"], "A": ["doubtfully", "dubiously"]}

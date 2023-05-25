@@ -1,1 +1,1 @@
-{"index": 117136, "D": "to warn in advance.", "S": ["admonish ", "apprise ", "dissuade ", "tip off "], "A": []}
+{"index": 117136, "D": "to warn in advance.", "S": ["admonish", "apprise", "dissuade", "tip off"], "A": []}

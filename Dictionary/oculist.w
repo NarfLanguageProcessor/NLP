@@ -1,1 +1,1 @@
-{"index": 211168, "D": "ophthalmologist. ", "S": ["ophthalmologist ", "optometrist "], "A": []}
+{"index": 211168, "D": "ophthalmologist. ", "S": ["ophthalmologist", "optometrist"], "A": []}

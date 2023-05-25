@@ -1,1 +1,1 @@
-{"index": 211680, "D": "something that counterbalances, counteracts, or compensates for something else; compensating equivalent.", "S": ["balance ", "cancel out ", "counteract ", "equal ", "negate ", "neutralize ", "outweigh "], "A": ["approve ", "disproportion "]}
+{"index": 211680, "D": "something that counterbalances, counteracts, or compensates for something else; compensating equivalent.", "S": ["balance", "cancel out", "counteract", "equal", "negate", "neutralize", "outweigh"], "A": ["approve", "disproportion"]}

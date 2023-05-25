@@ -1,1 +1,1 @@
-{"index": 74911, "D": "trouble; bother.", "S": ["bar ", "block ", "blockade ", "burden ", "drag ", "encumbrance ", "hindrance ", "impedance ", "impediment ", "obstruction ", "snag "], "A": ["advantage ", "aid ", "assistance ", "help ", "opening ", "promotion ", "support "]}
+{"index": 74911, "D": "trouble; bother.", "S": ["bar", "block", "blockade", "burden", "drag", "encumbrance", "hindrance", "impedance", "impediment", "obstruction", "snag"], "A": ["advantage", "aid", "assistance", "help", "opening", "promotion", "support"]}

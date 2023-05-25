@@ -1,1 +1,1 @@
-{"index": 269765, "D": "to reply or answer in words", "S": ["acknowledge ", "answer ", "behave ", "come back ", "counter ", "react ", "reply ", "return "], "A": ["ask ", "depart ", "leave ", "question ", "request "]}
+{"index": 269765, "D": "to reply or answer in words", "S": ["acknowledge", "answer", "behave", "come back", "counter", "react", "reply", "return"], "A": ["ask", "depart", "leave", "question", "request"]}

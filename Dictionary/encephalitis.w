@@ -1,1 +1,1 @@
-{"index": 99191, "D": "inflammation of the substance of the brain.", "S": ["African sleeping sickness ", "catalepsy ", "encephalitis lethargica ", "narcolepsy ", "trypanosomiasis "], "A": []}
+{"index": 99191, "D": "inflammation of the substance of the brain.", "S": ["African sleeping sickness", "catalepsy", "encephalitis lethargica", "narcolepsy", "trypanosomiasis"], "A": []}

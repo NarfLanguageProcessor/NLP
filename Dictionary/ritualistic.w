@@ -1,1 +1,0 @@
-{"index": 273328, "D": "of, relating to, or suggestive of ritualism", "S": ["ceremonial ", "conventional ", "established ", "formalistic ", "reverent "], "A": []}

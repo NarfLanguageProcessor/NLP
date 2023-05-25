@@ -1,1 +1,1 @@
-{"index": 76795, "D": "thank you.", "S": ["thanks "], "A": []}
+{"index": 76795, "D": "thank you.", "S": ["thanks"], "A": []}

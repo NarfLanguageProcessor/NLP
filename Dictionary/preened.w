@@ -1,1 +1,1 @@
-{"index": 247277, "D": "(of animals, especially birds) to trim or dress (feathers, fur, etc.) with the beak or tongue", "S": ["beautify ", "clean ", "groom ", "prettify ", "primp ", "prink ", "tidy "], "A": ["dirty "]}
+{"index": 247277, "D": "(of animals, especially birds) to trim or dress (feathers, fur, etc.) with the beak or tongue", "S": ["beautify", "clean", "groom", "prettify", "primp", "prink", "tidy"], "A": ["dirty"]}

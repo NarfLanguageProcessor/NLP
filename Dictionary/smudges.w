@@ -1,1 +1,1 @@
-{"index": 295123, "D": "a dirty mark or smear.", "S": ["blemish ", "blot "], "A": ["cleanliness "]}
+{"index": 295123, "D": "a dirty mark or smear.", "S": ["blemish", "blot"], "A": ["cleanliness"]}

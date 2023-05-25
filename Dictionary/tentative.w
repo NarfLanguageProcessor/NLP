@@ -1,1 +1,1 @@
-{"index": 319036, "D": "of the nature of or made or done as a trial, experiment, or attempt; experimental", "S": ["unsettled "], "A": ["certain ", "conclusive ", "decisive ", "definite ", "final ", "sure "]}
+{"index": 319036, "D": "of the nature of or made or done as a trial, experiment, or attempt; experimental", "S": ["unsettled"], "A": ["certain", "conclusive", "decisive", "definite", "final", "sure"]}

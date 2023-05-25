@@ -1,1 +1,1 @@
-{"index": 116742, "D": "to judge  beforehand; prejudge.", "S": ["decide ", "presume "], "A": []}
+{"index": 116742, "D": "to judge  beforehand; prejudge.", "S": ["decide", "presume"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 214064, "D": "the crew- and payload-carrying component of the space shuttle.", "S": ["lifting body ", "shuttle ", "space capsule "], "A": []}
+{"index": 214064, "D": "the crew- and payload-carrying component of the space shuttle.", "S": ["lifting body", "shuttle", "space capsule"], "A": []}

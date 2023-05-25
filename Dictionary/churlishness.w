@@ -1,1 +1,1 @@
-{"index": 56728, "D": "like a churl; boorish; rude", "S": ["animosity ", "antagonism ", "belligerence ", "bitterness ", "ill feeling ", "ill will ", "rancor "], "A": ["good will ", "love ", "benevolence ", "kindness ", "liking ", "mildness ", "sympathy "]}
+{"index": 56728, "D": "like a churl; boorish; rude", "S": ["animosity", "antagonism", "belligerence", "bitterness", "ill feeling", "ill will", "rancor"], "A": ["good will", "love", "benevolence", "kindness", "liking", "mildness", "sympathy"]}

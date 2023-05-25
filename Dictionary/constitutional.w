@@ -1,1 +1,1 @@
-{"index": 67050, "D": "of or relating to the constitution  of a state, organization, etc.", "S": ["democratic ", "lawful ", "legal ", "statutory "], "A": ["illegal ", "illegitimate ", "illicit ", "unlawful "]}
+{"index": 67050, "D": "of or relating to the constitution  of a state, organization, etc.", "S": ["democratic", "lawful", "legal", "statutory"], "A": ["illegal", "illegitimate", "illicit", "unlawful"]}

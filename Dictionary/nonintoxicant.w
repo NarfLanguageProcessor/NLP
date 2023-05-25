@@ -1,1 +1,0 @@
-{"index": 204846, "D": "an intoxicating  agent, as alcoholic liquor or certain drugs.", "S": [], "A": []}

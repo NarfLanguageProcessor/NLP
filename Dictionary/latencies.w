@@ -1,1 +1,0 @@
-{"index": 168828, "D": "the state of being latent. ", "S": ["discontinuation ", "dormancy ", "inactivity ", "intermission ", "postponement ", "quiescence ", "recess ", "remission ", "suspension ", "waiting "], "A": ["continuation "]}

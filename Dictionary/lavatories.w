@@ -1,1 +1,1 @@
-{"index": 169283, "D": "a room fitted with equipment for washing the hands and face and usually with flush toilet facilities.", "S": ["latrine ", "restroom ", "toilet "], "A": []}
+{"index": 169283, "D": "a room fitted with equipment for washing the hands and face and usually with flush toilet facilities.", "S": ["latrine", "restroom", "toilet"], "A": []}

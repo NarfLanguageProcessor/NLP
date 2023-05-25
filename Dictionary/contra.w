@@ -1,1 +1,1 @@
-{"index": 67542, "D": "against; in opposition or contrast to", "S": ["about-face ", "again ", "backwards ", "contrarily ", "contrariwise ", "contrary ", "conversely ", "far from it ", "in reverse ", "inversely ", "mutatis mutandis ", "on the contrary ", "oppositely ", "reversed ", "the opposite way ", "the other way around ", "turn about ", "upside down "], "A": []}
+{"index": 67542, "D": "against; in opposition or contrast to", "S": [], "A": []}

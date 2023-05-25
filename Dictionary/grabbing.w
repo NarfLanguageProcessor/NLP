@@ -1,1 +1,1 @@
-{"index": 128464, "D": "to seize suddenly or quickly; snatch; clutch", "S": ["rapacious "], "A": []}
+{"index": 128464, "D": "to seize suddenly or quickly; snatch; clutch", "S": ["rapacious"], "A": []}

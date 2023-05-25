@@ -1,1 +1,1 @@
-{"index": 92851, "D": "to fear greatly; be in extreme apprehension of", "S": ["DA ", "afro ", "beehive ", "braids ", "dreadlocks ", "flip ", "hair ", "haircut ", "hairdo ", "permanent ", "pigtails ", "plait ", "ponytail ", "tail ", "tease ", "trim ", "wave "], "A": []}
+{"index": 92851, "D": "to fear greatly; be in extreme apprehension of", "S": ["DA", "afro", "beehive", "braids", "dreadlocks", "flip", "hair", "haircut", "hairdo", "permanent", "pigtails", "plait", "ponytail", "tail", "tease", "trim", "wave"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 5614, "D": "at, close to, or toward the stern or tail", "S": ["abaft "], "A": ["fore "]}
+{"index": 5614, "D": "at, close to, or toward the stern or tail", "S": ["abaft"], "A": ["fore"]}

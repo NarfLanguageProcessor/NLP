@@ -1,1 +1,1 @@
-{"index": 126712, "D": "linguistics. ", "S": ["connotation ", "definition ", "denotation ", "explanation ", "explication ", "exposition ", "interpretation ", "semiology ", "semiotics ", "symbolism "], "A": []}
+{"index": 126712, "D": "linguistics. ", "S": ["connotation", "definition", "denotation", "explanation", "explication", "exposition", "interpretation", "semiology", "semiotics", "symbolism"], "A": []}

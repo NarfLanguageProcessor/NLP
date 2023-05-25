@@ -1,1 +1,1 @@
-{"index": 289417, "D": "an amateur photographer, especially one who is greatly devoted to the hobby.", "S": ["paparazzo "], "A": []}
+{"index": 289417, "D": "an amateur photographer, especially one who is greatly devoted to the hobby.", "S": ["paparazzo"], "A": []}

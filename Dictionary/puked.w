@@ -1,1 +1,1 @@
-{"index": 256180, "D": "to vomit.", "S": ["barf ", "gag ", "heave ", "hurl ", "regurgitate ", "retch ", "spew ", "upchuck "], "A": []}
+{"index": 256180, "D": "to vomit.", "S": ["barf", "gag", "heave", "hurl", "regurgitate", "retch", "spew", "upchuck"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 217492, "D": "to get the better of (someone); outwit.", "S": ["gamesmanship "], "A": []}
+{"index": 217492, "D": "to get the better of (someone); outwit.", "S": ["gamesmanship"], "A": []}

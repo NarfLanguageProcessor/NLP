@@ -1,1 +1,1 @@
-{"index": 124181, "D": "closely or significantly related; relevant; pertinent", "S": ["applicable ", "apropos ", "apt ", "pertinent ", "relevant "], "A": ["inappropriate ", "irrelevant ", "unsuitable "]}
+{"index": 124181, "D": "closely or significantly related; relevant; pertinent", "S": ["applicable", "apropos", "apt", "pertinent", "relevant"], "A": ["inappropriate", "irrelevant", "unsuitable"]}

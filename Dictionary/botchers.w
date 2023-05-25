@@ -1,1 +1,1 @@
-{"index": 38694, "D": "to spoil by poor work; bungle (often followed by up)", "S": ["bumbler ", "bungler ", "fumbler ", "schlemiel "], "A": []}
+{"index": 38694, "D": "to spoil by poor work; bungle (often followed by up)", "S": ["bumbler", "bungler", "fumbler", "schlemiel"], "A": []}

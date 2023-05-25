@@ -1,1 +1,1 @@
-{"index": 20676, "D": "bound by the terms of apprenticeship", "S": ["constrained ", "enslaved ", "obligated ", "restrained "], "A": ["irresolute "]}
+{"index": 20676, "D": "bound by the terms of apprenticeship", "S": ["constrained", "enslaved", "obligated", "restrained"], "A": ["irresolute"]}

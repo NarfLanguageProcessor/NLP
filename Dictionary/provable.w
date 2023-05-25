@@ -1,1 +1,1 @@
-{"index": 254000, "D": "to establish the truth or genuineness of, as by evidence or argument", "S": ["certain ", "conclusive ", "confirmable ", "deductible ", "demonstrable ", "testable ", "undoubtable ", "verifiable "], "A": []}
+{"index": 254000, "D": "to establish the truth or genuineness of, as by evidence or argument", "S": ["certain", "conclusive", "confirmable", "deductible", "demonstrable", "testable", "undoubtable", "verifiable"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 263548, "D": "access or resort to a person or thing for help or protection", "S": ["remedy "], "A": ["blockage ", "hindrance ", "injury ", "obstruction ", "permanent ", "stop "]}
+{"index": 263548, "D": "access or resort to a person or thing for help or protection", "S": ["remedy"], "A": ["blockage", "hindrance", "injury", "obstruction", "permanent", "stop"]}

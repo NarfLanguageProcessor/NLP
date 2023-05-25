@@ -1,1 +1,1 @@
-{"index": 100346, "D": "a person trained and skilled in the design, construction, and use of engines  or machines, or in any of various branches of engineering", "S": ["architect ", "builder ", "designer ", "director ", "inventor ", "manager ", "planner ", "surveyor "], "A": []}
+{"index": 100346, "D": "a person trained and skilled in the design, construction, and use of engines  or machines, or in any of various branches of engineering", "S": ["architect", "builder", "designer", "director", "inventor", "manager", "planner", "surveyor"], "A": []}

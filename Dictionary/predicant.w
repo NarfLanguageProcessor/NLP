@@ -1,1 +1,1 @@
-{"index": 246915, "D": "preaching", "S": ["bishop ", "chaplain ", "cleric ", "evangelist ", "missionary ", "pastor ", "pontiff ", "preacher ", "priest ", "rabbi "], "A": ["layman ", "layperson "]}
+{"index": 246915, "D": "preaching", "S": ["bishop", "chaplain", "cleric", "evangelist", "missionary", "pastor", "pontiff", "preacher", "priest", "rabbi"], "A": ["layman", "layperson"]}

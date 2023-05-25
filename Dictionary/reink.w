@@ -1,1 +1,0 @@
-{"index": 266342, "D": "a fluid or viscous substance used for writing or printing.", "S": [], "A": []}

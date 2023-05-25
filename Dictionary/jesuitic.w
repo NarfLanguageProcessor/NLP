@@ -1,1 +1,1 @@
-{"index": 161023, "D": "of or relating to Jesuits  or Jesuitism.", "S": ["abstract ", "abstruse ", "esoteric ", "mystical ", "philosophical ", "spiritual ", "supernatural ", "theoretical "], "A": ["concrete ", "factual ", "obvious ", "physical ", "real "]}
+{"index": 161023, "D": "of or relating to Jesuits  or Jesuitism.", "S": ["abstract", "abstruse", "esoteric", "mystical", "philosophical", "spiritual", "supernatural", "theoretical"], "A": ["concrete", "factual", "obvious", "physical", "real"]}

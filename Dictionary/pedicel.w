@@ -1,1 +1,1 @@
-{"index": 228867, "D": "one of the subordinate stalks in a branched inflorescence, bearing a single flower.", "S": ["trunk ", "twig "], "A": []}
+{"index": 228867, "D": "one of the subordinate stalks in a branched inflorescence, bearing a single flower.", "S": ["trunk", "twig"], "A": []}

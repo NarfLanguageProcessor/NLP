@@ -1,1 +1,1 @@
-{"index": 119176, "D": "the quality or state of being frivolous", "S": ["levity "], "A": ["sadness ", "seriousness ", "understanding ", "work "]}
+{"index": 119176, "D": "the quality or state of being frivolous", "S": ["levity"], "A": ["sadness", "seriousness", "understanding", "work"]}

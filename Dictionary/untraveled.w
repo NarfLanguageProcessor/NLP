@@ -1,1 +1,1 @@
-{"index": 353291, "D": "not having traveled,  especially to distant places; not having gained experience by travel.", "S": ["uncharted ", "undiscovered ", "unexplored ", "unheard-of "], "A": []}
+{"index": 353291, "D": "not having traveled,  especially to distant places; not having gained experience by travel.", "S": ["uncharted", "undiscovered", "unexplored", "unheard-of"], "A": []}

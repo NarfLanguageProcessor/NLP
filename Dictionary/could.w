@@ -1,1 +1,1 @@
-{"index": 70512, "D": "a simple past tense of can1. ", "S": ["keep "], "A": ["employ ", "hire "]}
+{"index": 70512, "D": "a simple past tense of can1. ", "S": ["keep"], "A": ["employ", "hire"]}

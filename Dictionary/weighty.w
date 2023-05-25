@@ -1,1 +1,1 @@
-{"index": 363899, "D": "having considerable weight;  heavy; ponderous", "S": ["hefty ", "ponderous "], "A": ["easy ", "facile ", "inconsequential ", "light ", "small ", "solvable ", "thin ", "trivial ", "unimportant ", "unsubstantial "]}
+{"index": 363899, "D": "having considerable weight;  heavy; ponderous", "S": ["hefty", "ponderous"], "A": ["easy", "facile", "inconsequential", "light", "small", "solvable", "thin", "trivial", "unimportant", "unsubstantial"]}

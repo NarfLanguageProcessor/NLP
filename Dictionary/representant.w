@@ -1,1 +1,1 @@
-{"index": 268493, "D": [], "S": ["aide ", "appointee ", "commissioner ", "delegate ", "minister ", "representative "], "A": ["chief ", "manager "]}
+{"index": 268493, "D": [], "S": ["aide", "appointee", "commissioner", "delegate", "minister", "representative"], "A": ["chief", "manager"]}

@@ -1,1 +1,1 @@
-{"index": 125735, "D": "ice placed in a drink to cool it.", "S": ["sticky ", "sweet ", "syrupy "], "A": []}
+{"index": 125735, "D": "ice placed in a drink to cool it.", "S": ["sticky", "sweet", "syrupy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 26223, "D": "to speak critically and often disloyally of; disparage", "S": ["defame "], "A": ["compliment ", "flatter ", "honor ", "laud ", "praise "]}
+{"index": 26223, "D": "to speak critically and often disloyally of; disparage", "S": ["defame"], "A": ["compliment", "flatter", "honor", "laud", "praise"]}

@@ -1,1 +1,1 @@
-{"index": 251485, "D": "any of various imperial officials with fiscal or administrative powers.", "S": ["advocate ", "counselor "], "A": []}
+{"index": 251485, "D": "any of various imperial officials with fiscal or administrative powers.", "S": ["advocate", "counselor"], "A": []}

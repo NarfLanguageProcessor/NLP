@@ -1,1 +1,1 @@
-{"index": 23838, "D": "to give authority  or official power to; empower", "S": ["empower ", "enable ", "entitle ", "license ", "okay "], "A": ["refuse ", "reject ", "deny ", "disapprove "]}
+{"index": 23838, "D": "to give authority  or official power to; empower", "S": ["empower", "enable", "entitle", "license", "okay"], "A": ["refuse", "reject", "deny", "disapprove"]}

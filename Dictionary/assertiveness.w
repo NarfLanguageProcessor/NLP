@@ -1,1 +1,1 @@
-{"index": 21696, "D": "confidently aggressive or self-assured; positive", "S": ["conclusiveness ", "decisiveness ", "determination ", "emphaticalness ", "firmness ", "purpose ", "purposefulness ", "resoluteness ", "resolution ", "resolve ", "willpower "], "A": []}
+{"index": 21696, "D": "confidently aggressive or self-assured; positive", "S": ["conclusiveness", "decisiveness", "determination", "emphaticalness", "firmness", "purpose", "purposefulness", "resoluteness", "resolution", "resolve", "willpower"], "A": []}

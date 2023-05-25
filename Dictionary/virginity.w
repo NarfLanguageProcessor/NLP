@@ -1,1 +1,1 @@
-{"index": 360155, "D": "the state or condition of being a virgin. ", "S": ["purity "], "A": ["corruption ", "disgrace ", "dishonor ", "evil ", "wildness "]}
+{"index": 360155, "D": "the state or condition of being a virgin. ", "S": ["purity"], "A": ["corruption", "disgrace", "dishonor", "evil", "wildness"]}

@@ -1,1 +1,1 @@
-{"index": 60360, "D": "to weary by an excess of food, sweetness, pleasure, etc.; surfeit; satiate.", "S": ["nauseate "], "A": ["abstain ", "deplete ", "deprive ", "diet ", "dissatisfy ", "fast ", "help "]}
+{"index": 60360, "D": "to weary by an excess of food, sweetness, pleasure, etc.; surfeit; satiate.", "S": ["nauseate"], "A": ["abstain", "deplete", "deprive", "diet", "dissatisfy", "fast", "help"]}

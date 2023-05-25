@@ -1,1 +1,1 @@
-{"index": 60662, "D": "a heavy stick, usually thicker at one end than at the other, suitable for use as a weapon; a cudgel.", "S": ["business ", "staff "], "A": []}
+{"index": 60662, "D": "a heavy stick, usually thicker at one end than at the other, suitable for use as a weapon; a cudgel.", "S": ["business", "staff"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 250211, "D": "coming or occurring before something else; prior", "S": ["earlier ", "past ", "preceding "], "A": ["current ", "future ", "later ", "on time ", "present ", "timely ", "well-timed "]}
+{"index": 250211, "D": "coming or occurring before something else; prior", "S": ["earlier", "past", "preceding"], "A": ["current", "future", "later", "on time", "present", "timely", "well-timed"]}

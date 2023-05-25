@@ -1,1 +1,1 @@
-{"index": 274057, "D": "an Epistle of the New Testament, written by Paul to the Christian community in Rome. Abbreviation", "S": ["font "], "A": []}
+{"index": 274057, "D": "an Epistle of the New Testament, written by Paul to the Christian community in Rome. Abbreviation", "S": ["font"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 291840, "D": "to displace part of the volume of a supporting substance or object and become totally or partially submerged or enveloped; fall or descend into or below the surface or to the bottom (often followed by in or into)", "S": [], "A": []}

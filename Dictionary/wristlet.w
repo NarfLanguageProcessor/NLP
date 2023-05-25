@@ -1,1 +1,1 @@
-{"index": 368030, "D": "a band worn around the wrist,  especially to protect it from cold.", "S": ["ornament ", "trinket "], "A": []}
+{"index": 368030, "D": "a band worn around the wrist,  especially to protect it from cold.", "S": ["ornament", "trinket"], "A": []}

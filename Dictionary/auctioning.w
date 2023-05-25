@@ -1,1 +1,1 @@
-{"index": 23252, "D": "a publicly held sale at which property or goods are sold to the highest bidder.", "S": ["clearance ", "demolition ", "destruction ", "disposition ", "dumping ", "removal ", "transfer "], "A": ["building ", "construction "]}
+{"index": 23252, "D": "a publicly held sale at which property or goods are sold to the highest bidder.", "S": ["clearance", "demolition", "destruction", "disposition", "dumping", "removal", "transfer"], "A": ["building", "construction"]}

@@ -1,1 +1,1 @@
-{"index": 331032, "D": "a passenger bus operating on tires and having an electric motor that draws power from overhead wires.", "S": ["trolley "], "A": []}
+{"index": 331032, "D": "a passenger bus operating on tires and having an electric motor that draws power from overhead wires.", "S": ["trolley"], "A": []}

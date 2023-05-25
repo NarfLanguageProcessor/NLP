@@ -1,1 +1,1 @@
-{"index": 233408, "D": "highly extraordinary or prodigious; exceptional", "S": ["development ", "experience ", "phantasm ", "wonder "], "A": []}
+{"index": 233408, "D": "highly extraordinary or prodigious; exceptional", "S": ["development", "experience", "phantasm", "wonder"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 303277, "D": "secret, clandestine, or surreptitious procedure.", "S": ["covertness ", "furtiveness ", "slyness "], "A": []}
+{"index": 303277, "D": "secret, clandestine, or surreptitious procedure.", "S": ["covertness", "furtiveness", "slyness"], "A": []}

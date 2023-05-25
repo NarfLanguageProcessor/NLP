@@ -1,1 +1,1 @@
-{"index": 21582, "D": "to attack vigorously or violently; assault. ", "S": ["assailant ", "assaulter "], "A": []}
+{"index": 21582, "D": "to attack vigorously or violently; assault. ", "S": ["assailant", "assaulter"], "A": []}

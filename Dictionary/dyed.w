@@ -1,1 +1,1 @@
-{"index": 85133, "D": "a coloring material or matter.", "S": ["flushed ", "glowing ", "hued ", "shaded ", "stained ", "tinged ", "tinted ", "washed "], "A": ["genuine ", "honest ", "real ", "truthful ", "white "]}
+{"index": 85133, "D": "a coloring material or matter.", "S": ["flushed", "glowing", "hued", "shaded", "stained", "tinged", "tinted", "washed"], "A": ["genuine", "honest", "real", "truthful", "white"]}

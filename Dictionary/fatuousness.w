@@ -1,1 +1,1 @@
-{"index": 110372, "D": "foolish or inane, especially in an unconscious, complacent manner; silly; witless. ", "S": ["insanity ", "lunacy ", "madness "], "A": ["brains ", "intelligence "]}
+{"index": 110372, "D": "foolish or inane, especially in an unconscious, complacent manner; silly; witless. ", "S": ["insanity", "lunacy", "madness"], "A": ["brains", "intelligence"]}

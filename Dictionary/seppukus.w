@@ -1,1 +1,1 @@
-{"index": 285618, "D": "hara-kiri (def. 1). ", "S": ["disembowelment "], "A": []}
+{"index": 285618, "D": "hara-kiri (def. 1). ", "S": ["disembowelment"], "A": []}

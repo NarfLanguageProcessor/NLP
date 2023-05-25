@@ -1,1 +1,1 @@
-{"index": 183635, "D": "working or acting merely for money or other reward; venal.", "S": ["warrior "], "A": []}
+{"index": 183635, "D": "working or acting merely for money or other reward; venal.", "S": ["warrior"], "A": []}

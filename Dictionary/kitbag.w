@@ -1,1 +1,1 @@
-{"index": 165166, "D": "a small bag or knapsack, as for a soldier.", "S": ["ditty bag ", "duffle bag ", "traveling bag "], "A": []}
+{"index": 165166, "D": "a small bag or knapsack, as for a soldier.", "S": ["ditty bag", "duffle bag", "traveling bag"], "A": []}

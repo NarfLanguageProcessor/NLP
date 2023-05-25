@@ -1,1 +1,1 @@
-{"index": 248231, "D": "the pages of a book, such as the title page and contents, before the main text", "S": ["explanatory matter ", "introduction ", "preface ", "preliminaries ", "preliminary "], "A": []}
+{"index": 248231, "D": "the pages of a book, such as the title page and contents, before the main text", "S": ["explanatory matter", "introduction", "preface", "preliminaries", "preliminary"], "A": []}

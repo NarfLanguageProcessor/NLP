@@ -1,1 +1,1 @@
-{"index": 366287, "D": "wintertime. ", "S": ["cold "], "A": ["heat "]}
+{"index": 366287, "D": "wintertime. ", "S": ["cold"], "A": ["heat"]}

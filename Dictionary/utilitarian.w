@@ -1,1 +1,1 @@
-{"index": 356170, "D": "pertaining to or consisting in utility. ", "S": ["functional ", "sensible "], "A": ["impractical ", "unnecessary "]}
+{"index": 356170, "D": "pertaining to or consisting in utility. ", "S": ["functional", "sensible"], "A": ["impractical", "unnecessary"]}

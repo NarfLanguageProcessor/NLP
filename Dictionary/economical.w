@@ -1,1 +1,1 @@
-{"index": 95377, "D": "avoiding waste or extravagance; thrifty", "S": ["cost-effective ", "efficient ", "practical ", "prudent "], "A": ["inefficient "]}
+{"index": 95377, "D": "avoiding waste or extravagance; thrifty", "S": ["cost-effective", "efficient", "practical", "prudent"], "A": ["inefficient"]}

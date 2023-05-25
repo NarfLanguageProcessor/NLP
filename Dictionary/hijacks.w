@@ -1,1 +1,1 @@
-{"index": 139383, "D": "to steal (cargo) from a truck or other vehicle after forcing it to stop", "S": ["carjack ", "commandeer ", "kidnap ", "steal "], "A": []}
+{"index": 139383, "D": "to steal (cargo) from a truck or other vehicle after forcing it to stop", "S": ["carjack", "commandeer", "kidnap", "steal"], "A": []}

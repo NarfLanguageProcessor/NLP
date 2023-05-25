@@ -1,1 +1,1 @@
-{"index": 44203, "D": "harsh discordance of sound; dissonance", "S": ["discordant ", "jarring ", "raucous "], "A": ["coinciding ", "compatible ", "complementary ", "concordant ", "consonant ", "harmonious ", "similar "]}
+{"index": 44203, "D": "harsh discordance of sound; dissonance", "S": ["discordant", "jarring", "raucous"], "A": ["coinciding", "compatible", "complementary", "concordant", "consonant", "harmonious", "similar"]}

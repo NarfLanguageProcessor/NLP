@@ -1,1 +1,0 @@
-{"index": 266328, "D": "a leather strap, fastened to each end of the bit of a bridle, by which the rider or driver controls a horse or other animal by pulling so as to exert pressure on the bit.", "S": ["curb "], "A": ["release "]}

@@ -1,1 +1,1 @@
-{"index": 250215, "D": "to foresee. ", "S": ["deduce ", "discern ", "foresee ", "foretell ", "infer ", "prophesy ", "surmise ", "visualize "], "A": ["calculate ", "disbelieve ", "know ", "misinterpret ", "misunderstand "]}
+{"index": 250215, "D": "to foresee. ", "S": ["deduce", "discern", "foresee", "foretell", "infer", "prophesy", "surmise", "visualize"], "A": ["calculate", "disbelieve", "know", "misinterpret", "misunderstand"]}

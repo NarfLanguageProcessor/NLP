@@ -1,1 +1,1 @@
-{"index": 47964, "D": "showing signs of care  or worry; fatigued by trouble or anxiety; haggard", "S": ["lean ", "pale ", "skinny ", "spare ", "wan "], "A": ["colorful ", "fat ", "plump ", "thick "]}
+{"index": 47964, "D": "showing signs of care  or worry; fatigued by trouble or anxiety; haggard", "S": ["lean", "pale", "skinny", "spare", "wan"], "A": ["colorful", "fat", "plump", "thick"]}

@@ -1,1 +1,1 @@
-{"index": 34161, "D": "produced or borne in pairs; double.", "S": ["double "], "A": ["lone ", "single ", "singular "]}
+{"index": 34161, "D": "produced or borne in pairs; double.", "S": ["double"], "A": ["lone", "single", "singular"]}

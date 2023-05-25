@@ -1,1 +1,1 @@
-{"index": 78574, "D": "to remove the color  from; deprive of color; bleach.", "S": ["lighten "], "A": ["blacken ", "darken ", "yellow "]}
+{"index": 78574, "D": "to remove the color  from; deprive of color; bleach.", "S": ["lighten"], "A": ["blacken", "darken", "yellow"]}

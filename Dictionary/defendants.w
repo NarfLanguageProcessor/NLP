@@ -1,1 +1,1 @@
-{"index": 79190, "D": "a person, company, etc., against whom a claim or charge is brought in a court (opposed to plaintiff).", "S": ["litigant ", "offender ", "prisoner ", "suspect "], "A": []}
+{"index": 79190, "D": "a person, company, etc., against whom a claim or charge is brought in a court (opposed to plaintiff).", "S": ["litigant", "offender", "prisoner", "suspect"], "A": []}

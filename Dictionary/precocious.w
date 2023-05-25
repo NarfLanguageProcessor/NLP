@@ -1,1 +1,1 @@
-{"index": 246205, "D": "unusually advanced or mature in development, especially mental development", "S": ["bright ", "cocky ", "intelligent ", "mature "], "A": ["stupid ", "unintelligent "]}
+{"index": 246205, "D": "unusually advanced or mature in development, especially mental development", "S": ["bright", "cocky", "intelligent", "mature"], "A": ["stupid", "unintelligent"]}

@@ -1,1 +1,1 @@
-{"index": 331219, "D": "pertaining to, characteristic of, occurring in, or inhabiting the tropics,  especially the humid tropics", "S": ["equatorial ", "hot ", "lush ", "steamy ", "sultry ", "sweltering "], "A": ["cold ", "cool ", "freezing ", "frigid "]}
+{"index": 331219, "D": "pertaining to, characteristic of, occurring in, or inhabiting the tropics,  especially the humid tropics", "S": ["equatorial", "hot", "lush", "steamy", "sultry", "sweltering"], "A": ["cold", "cool", "freezing", "frigid"]}

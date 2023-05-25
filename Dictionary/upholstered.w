@@ -1,1 +1,1 @@
-{"index": 354759, "D": "to provide (chairs, sofas, etc.) with coverings, cushions, stuffing, springs, etc.", "S": ["deluxe ", "extravagant ", "lavish ", "luscious ", "ostentatious ", "palatial ", "plush ", "sumptuous ", "swank "], "A": ["economical ", "poor ", "small "]}
+{"index": 354759, "D": "to provide (chairs, sofas, etc.) with coverings, cushions, stuffing, springs, etc.", "S": ["deluxe", "extravagant", "lavish", "luscious", "ostentatious", "palatial", "plush", "sumptuous", "swank"], "A": ["economical", "poor", "small"]}

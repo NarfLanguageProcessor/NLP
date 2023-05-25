@@ -1,1 +1,1 @@
-{"index": 313011, "D": "to furnish or provide (a person, establishment, place, etc.) with what is lacking or requisite", "S": ["equipped ", "outfitted "], "A": []}
+{"index": 313011, "D": "to furnish or provide (a person, establishment, place, etc.) with what is lacking or requisite", "S": ["equipped", "outfitted"], "A": []}

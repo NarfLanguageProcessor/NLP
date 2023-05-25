@@ -1,1 +1,1 @@
-{"index": 178498, "D": "pretending illness, especially in order to shirk one\u2019s duty, avoid work, etc.", "S": ["dodge ", "fake ", "loaf ", "sham ", "shirk "], "A": ["do ", "face ", "meet "]}
+{"index": 178498, "D": "pretending illness, especially in order to shirk one\u2019s duty, avoid work, etc.", "S": ["dodge", "fake", "loaf", "sham", "shirk"], "A": ["do", "face", "meet"]}

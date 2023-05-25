@@ -1,1 +1,1 @@
-{"index": 150570, "D": "holding an indicated position, role, office, etc., currently", "S": ["binding ", "necessary "], "A": ["unnecessary "]}
+{"index": 150570, "D": "holding an indicated position, role, office, etc., currently", "S": ["binding", "necessary"], "A": ["unnecessary"]}

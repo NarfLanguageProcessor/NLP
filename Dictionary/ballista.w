@@ -1,1 +1,1 @@
-{"index": 26986, "D": "an ancient military engine for throwing stones or other missiles.", "S": ["slingshot "], "A": []}
+{"index": 26986, "D": "an ancient military engine for throwing stones or other missiles.", "S": ["slingshot"], "A": []}

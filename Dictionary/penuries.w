@@ -1,1 +1,1 @@
-{"index": 230141, "D": "extreme poverty; destitution.", "S": ["barrenness ", "dearth ", "destitution ", "indigence ", "insufficiency ", "need ", "privation ", "scantiness "], "A": ["plenty ", "sufficiency ", "wealth "]}
+{"index": 230141, "D": "extreme poverty; destitution.", "S": ["barrenness", "dearth", "destitution", "indigence", "insufficiency", "need", "privation", "scantiness"], "A": ["plenty", "sufficiency", "wealth"]}

@@ -1,1 +1,1 @@
-{"index": 73916, "D": "a forking or place of forking, as of the human body between the legs.", "S": ["jagged "], "A": ["straight "]}
+{"index": 73916, "D": "a forking or place of forking, as of the human body between the legs.", "S": ["jagged"], "A": ["straight"]}

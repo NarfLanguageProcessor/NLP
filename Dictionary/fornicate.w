@@ -1,1 +1,1 @@
-{"index": 117542, "D": "to commit fornication. ", "S": ["philander "], "A": []}
+{"index": 117542, "D": "to commit fornication. ", "S": ["philander"], "A": []}

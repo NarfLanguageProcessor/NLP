@@ -1,1 +1,1 @@
-{"index": 177853, "D": "a batch of mail,  as of form letters, catalogs, or monthly statements, sent by a mailer  at one time", "S": ["addressing ", "expressing ", "stamping "], "A": []}
+{"index": 177853, "D": "a batch of mail,  as of form letters, catalogs, or monthly statements, sent by a mailer  at one time", "S": ["addressing", "expressing", "stamping"], "A": []}

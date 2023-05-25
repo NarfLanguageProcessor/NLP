@@ -1,1 +1,1 @@
-{"index": 9158, "D": "very nearly; all but", "S": ["about ", "approximately ", "around ", "essentially ", "most ", "much ", "practically ", "relatively ", "roughly ", "virtually "], "A": []}
+{"index": 9158, "D": "very nearly; all but", "S": ["about", "approximately", "around", "essentially", "most", "much", "practically", "relatively", "roughly", "virtually"], "A": []}

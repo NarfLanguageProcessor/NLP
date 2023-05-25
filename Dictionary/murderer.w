@@ -1,1 +1,1 @@
-{"index": 195672, "D": "a person who commits murder. ", "S": ["assassin ", "executioner "], "A": []}
+{"index": 195672, "D": "a person who commits murder. ", "S": ["assassin", "executioner"], "A": []}

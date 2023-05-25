@@ -1,1 +1,1 @@
-{"index": 294178, "D": "pullover. ", "S": ["bodice ", "pullover ", "turtleneck "], "A": []}
+{"index": 294178, "D": "pullover. ", "S": ["bodice", "pullover", "turtleneck"], "A": []}

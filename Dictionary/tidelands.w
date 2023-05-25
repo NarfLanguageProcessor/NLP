@@ -1,1 +1,1 @@
-{"index": 323314, "D": "land  alternately exposed and covered by the ordinary ebb and flow of the tide. ", "S": ["flat ", "intertidal zone ", "mud flat ", "tidal land ", "tidal pool ", "wetlands "], "A": []}
+{"index": 323314, "D": "land  alternately exposed and covered by the ordinary ebb and flow of the tide. ", "S": ["flat", "intertidal zone", "mud flat", "tidal land", "tidal pool", "wetlands"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 300154, "D": "containing, of the nature of, or pertaining to alcohol; alcoholic.", "S": ["alcoholic ", "brewed ", "distilled ", "fermented ", "inebriant ", "inebriating ", "intoxicative ", "sprituous ", "strong ", "vinous "], "A": []}
+{"index": 300154, "D": "containing, of the nature of, or pertaining to alcohol; alcoholic.", "S": ["alcoholic", "brewed", "distilled", "fermented", "inebriant", "inebriating", "intoxicative", "sprituous", "strong", "vinous"], "A": []}

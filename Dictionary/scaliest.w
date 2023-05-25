@@ -1,1 +1,1 @@
-{"index": 279441, "D": "covered with or abounding in scales  or scale. ", "S": ["branlike ", "flaking ", "flaky ", "furfuraceous ", "lepidote ", "scabby "], "A": []}
+{"index": 279441, "D": "covered with or abounding in scales  or scale. ", "S": ["branlike", "flaking", "flaky", "furfuraceous", "lepidote", "scabby"], "A": []}

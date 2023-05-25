@@ -1,1 +1,1 @@
-{"index": 239726, "D": "a simple past tense and past participle of plead. ", "S": ["appeal ", "ask ", "petition ", "pray ", "solicit "], "A": ["refuse ", "answer "]}
+{"index": 239726, "D": "a simple past tense and past participle of plead. ", "S": ["appeal", "ask", "petition", "pray", "solicit"], "A": ["refuse", "answer"]}

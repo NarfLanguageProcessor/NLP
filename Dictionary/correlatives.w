@@ -1,1 +1,1 @@
-{"index": 69644, "D": "so related that each implies or complements the other.", "S": ["complementary ", "correspondent ", "parallel ", "reciprocal "], "A": ["independent "]}
+{"index": 69644, "D": "so related that each implies or complements the other.", "S": ["complementary", "correspondent", "parallel", "reciprocal"], "A": ["independent"]}

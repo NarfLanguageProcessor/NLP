@@ -1,1 +1,1 @@
-{"index": 24857, "D": "to keep away from; keep clear of; shun", "S": ["elusive ", "wanted "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "permanent "]}
+{"index": 24857, "D": "to keep away from; keep clear of; shun", "S": ["elusive", "wanted"], "A": ["enduring", "lasting", "lengthy", "long", "permanent"]}

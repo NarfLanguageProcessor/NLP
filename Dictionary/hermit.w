@@ -1,1 +1,1 @@
-{"index": 137167, "D": "a person who has withdrawn to a solitary place for a life of religious seclusion.", "S": ["recluse "], "A": []}
+{"index": 137167, "D": "a person who has withdrawn to a solitary place for a life of religious seclusion.", "S": ["recluse"], "A": []}

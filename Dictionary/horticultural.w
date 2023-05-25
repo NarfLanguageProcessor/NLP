@@ -1,1 +1,1 @@
-{"index": 144121, "D": "of or relating to horticulture", "S": ["agrarian ", "rural "], "A": []}
+{"index": 144121, "D": "of or relating to horticulture", "S": ["agrarian", "rural"], "A": []}

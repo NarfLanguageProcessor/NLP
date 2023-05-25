@@ -1,1 +1,1 @@
-{"index": 114677, "D": "to toss or put in motion with a sudden impulse, as with a snap of a finger and thumb, especially so as to cause to turn over in the air", "S": ["cast ", "chuck ", "flick ", "jerk ", "pitch ", "snap ", "spin ", "toss ", "twist "], "A": []}
+{"index": 114677, "D": "to toss or put in motion with a sudden impulse, as with a snap of a finger and thumb, especially so as to cause to turn over in the air", "S": ["cast", "chuck", "flick", "jerk", "pitch", "snap", "spin", "toss", "twist"], "A": []}

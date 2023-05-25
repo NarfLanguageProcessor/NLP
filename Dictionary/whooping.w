@@ -1,1 +1,0 @@
-{"index": 365330, "D": "a loud cry or shout, as of excitement or joy.", "S": ["bawling ", "booing ", "cheering ", "hollering ", "jeering ", "yelling "], "A": []}

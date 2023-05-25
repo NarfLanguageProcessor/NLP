@@ -1,1 +1,1 @@
-{"index": 224956, "D": "a roofing tile  straight in its length but curved in its width to overlap the next tile. ", "S": ["brick ", "plate ", "shingle "], "A": []}
+{"index": 224956, "D": "a roofing tile  straight in its length but curved in its width to overlap the next tile. ", "S": ["brick", "plate", "shingle"], "A": []}

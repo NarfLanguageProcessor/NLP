@@ -1,1 +1,1 @@
-{"index": 175062, "D": "a silvery carangid fish of the genus Selene, of the Atlantic Ocean, having a compressed body and eyes placed high on the truncated forehead.", "S": ["dominate ", "look out on ", "look over "], "A": ["drop ", "fall ", "follow ", "ignore ", "neglect "]}
+{"index": 175062, "D": "a silvery carangid fish of the genus Selene, of the Atlantic Ocean, having a compressed body and eyes placed high on the truncated forehead.", "S": ["dominate", "look out on", "look over"], "A": ["drop", "fall", "follow", "ignore", "neglect"]}

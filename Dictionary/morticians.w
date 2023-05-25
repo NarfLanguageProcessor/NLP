@@ -1,1 +1,1 @@
-{"index": 193729, "D": "funeral director. ", "S": ["embalmer "], "A": []}
+{"index": 193729, "D": "funeral director. ", "S": ["embalmer"], "A": []}

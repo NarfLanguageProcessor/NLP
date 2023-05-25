@@ -1,1 +1,1 @@
-{"index": 136991, "D": "in this place; in this spot or locality (opposed to there)", "S": ["attendant ", "attending ", "hither ", "present "], "A": ["there "]}
+{"index": 136991, "D": "in this place; in this spot or locality (opposed to there)", "S": ["attendant", "attending", "hither", "present"], "A": ["there"]}

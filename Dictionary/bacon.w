@@ -1,0 +1,1 @@
+{"index": 26030, "D": "the back and sides of the hog, salted and dried or smoked, usually sliced thin and fried for food.", "S": ["pancetta", "pork"], "A": []}

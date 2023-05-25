@@ -1,1 +1,1 @@
-{"index": 165021, "D": "the hide of a young or small beast.", "S": ["cot ", "pallet "], "A": ["sense "]}
+{"index": 165021, "D": "the hide of a young or small beast.", "S": ["cot", "pallet"], "A": ["sense"]}

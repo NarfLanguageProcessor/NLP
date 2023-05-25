@@ -1,1 +1,1 @@
-{"index": 242938, "D": "pompom1 (def. 1). ", "S": ["fringe ", "plume "], "A": []}
+{"index": 242938, "D": "pompom1 (def. 1). ", "S": ["fringe", "plume"], "A": []}

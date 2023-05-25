@@ -1,1 +1,1 @@
-{"index": 276793, "D": "the activity of a person or thing that sails. ", "S": ["boating ", "exploration ", "shipping "], "A": []}
+{"index": 276793, "D": "the activity of a person or thing that sails. ", "S": ["boating", "exploration", "shipping"], "A": []}

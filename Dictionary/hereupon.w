@@ -1,1 +1,1 @@
-{"index": 137096, "D": "upon or on this.", "S": ["after this ", "eventually ", "hence ", "henceforth ", "henceforward ", "in the course of time ", "in the future ", "ultimately "], "A": []}
+{"index": 137096, "D": "upon or on this.", "S": ["after this", "eventually", "hence", "henceforth", "henceforward", "in the course of time", "in the future", "ultimately"], "A": []}

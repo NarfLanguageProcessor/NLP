@@ -1,1 +1,1 @@
-{"index": 360257, "D": "the character, ability, or skill of a virtuoso. ", "S": ["craft ", "profession "], "A": ["avocation ", "entertainment ", "ignorance ", "inability ", "incapacity ", "ineptitude ", "lack ", "want "]}
+{"index": 360257, "D": "the character, ability, or skill of a virtuoso. ", "S": ["craft", "profession"], "A": ["avocation", "entertainment", "ignorance", "inability", "incapacity", "ineptitude", "lack", "want"]}

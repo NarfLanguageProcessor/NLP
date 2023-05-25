@@ -1,1 +1,1 @@
-{"index": 296570, "D": "soldiers  collectively.", "S": ["artillery ", "battalion ", "command ", "company ", "corps ", "infantry ", "squad ", "troops "], "A": ["individual ", "whole "]}
+{"index": 296570, "D": "soldiers  collectively.", "S": ["artillery", "battalion", "command", "company", "corps", "infantry", "squad", "troops"], "A": ["individual", "whole"]}

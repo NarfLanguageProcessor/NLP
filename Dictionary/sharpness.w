@@ -1,1 +1,1 @@
-{"index": 287565, "D": "having a thin cutting edge or a fine point; well-adapted for cutting or piercing", "S": ["bite ", "incisiveness ", "keenness ", "polish ", "sting "], "A": []}
+{"index": 287565, "D": "having a thin cutting edge or a fine point; well-adapted for cutting or piercing", "S": ["bite", "incisiveness", "keenness", "polish", "sting"], "A": []}

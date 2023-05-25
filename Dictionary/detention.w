@@ -1,1 +1,1 @@
-{"index": 83119, "D": "the act of detaining. ", "S": ["arrest ", "custody ", "delay ", "incarceration ", "internment ", "quarantine "], "A": ["aid ", "assistance ", "help "]}
+{"index": 83119, "D": "the act of detaining. ", "S": ["arrest", "custody", "delay", "incarceration", "internment", "quarantine"], "A": ["aid", "assistance", "help"]}

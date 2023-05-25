@@ -1,1 +1,1 @@
-{"index": 215876, "D": "of or relating to the ear; auricular.", "S": ["audible ", "aural "], "A": []}
+{"index": 215876, "D": "of or relating to the ear; auricular.", "S": ["audible", "aural"], "A": []}

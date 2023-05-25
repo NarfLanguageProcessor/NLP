@@ -1,1 +1,1 @@
-{"index": 174961, "D": "somewhat long. ", "S": ["drawn-out ", "interminable ", "long ", "long-winded ", "protracted ", "tedious "], "A": ["abbreviated ", "curtailed ", "shortened "]}
+{"index": 174961, "D": "somewhat long. ", "S": ["drawn-out", "interminable", "long", "long-winded", "protracted", "tedious"], "A": ["abbreviated", "curtailed", "shortened"]}

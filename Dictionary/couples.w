@@ -1,1 +1,1 @@
-{"index": 71269, "D": "two of the same sort considered together; pair.", "S": ["set ", "team "], "A": ["individual "]}
+{"index": 71269, "D": "two of the same sort considered together; pair.", "S": ["set", "team"], "A": ["individual"]}

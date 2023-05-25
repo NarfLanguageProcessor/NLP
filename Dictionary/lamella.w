@@ -1,1 +1,1 @@
-{"index": 167633, "D": "a thin plate, scale, membrane, or layer, as of bone, tissue, or cell walls.", "S": ["leaf "], "A": ["whole "]}
+{"index": 167633, "D": "a thin plate, scale, membrane, or layer, as of bone, tissue, or cell walls.", "S": ["leaf"], "A": ["whole"]}

@@ -1,1 +1,1 @@
-{"index": 137149, "D": "of or relating to hermeneutics;  interpretative; explanatory.", "S": ["critical ", "demonstrative ", "explanatory ", "explicative ", "expository ", "illustrative ", "investigative ", "revealing "], "A": []}
+{"index": 137149, "D": "of or relating to hermeneutics;  interpretative; explanatory.", "S": ["critical", "demonstrative", "explanatory", "explicative", "expository", "illustrative", "investigative", "revealing"], "A": []}

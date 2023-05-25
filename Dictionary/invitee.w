@@ -1,1 +1,1 @@
-{"index": 157276, "D": "a person who is invited", "S": ["caller ", "company ", "foreigner ", "guest "], "A": ["host "]}
+{"index": 157276, "D": "a person who is invited", "S": ["caller", "company", "foreigner", "guest"], "A": ["host"]}

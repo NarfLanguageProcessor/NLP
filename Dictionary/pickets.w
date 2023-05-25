@@ -1,1 +1,1 @@
-{"index": 235894, "D": "a post, stake, pale, or peg that is used in a fence or barrier, to fasten down a tent, etc.", "S": ["bar ", "barbed wire ", "barricade ", "block ", "dike ", "net ", "rail ", "railing ", "roadblock ", "wall "], "A": ["opening "]}
+{"index": 235894, "D": "a post, stake, pale, or peg that is used in a fence or barrier, to fasten down a tent, etc.", "S": ["bar", "barbed wire", "barricade", "block", "dike", "net", "rail", "railing", "roadblock", "wall"], "A": ["opening"]}

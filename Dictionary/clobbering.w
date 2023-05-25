@@ -1,1 +1,1 @@
-{"index": 60262, "D": "to batter severely; strike heavily", "S": ["drub ", "smother ", "thrash ", "wallop "], "A": ["lose ", "praise ", "uphold "]}
+{"index": 60262, "D": "to batter severely; strike heavily", "S": ["drub", "smother", "thrash", "wallop"], "A": ["lose", "praise", "uphold"]}

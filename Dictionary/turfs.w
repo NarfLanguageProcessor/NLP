@@ -1,1 +1,1 @@
-{"index": 332685, "D": "a layer of matted earth formed by grass and plant roots.", "S": ["grass ", "lawn ", "sod ", "soil "], "A": []}
+{"index": 332685, "D": "a layer of matted earth formed by grass and plant roots.", "S": ["grass", "lawn", "sod", "soil"], "A": []}

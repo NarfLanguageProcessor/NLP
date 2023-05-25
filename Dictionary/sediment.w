@@ -1,1 +1,1 @@
-{"index": 282997, "D": "the matter that settles to the bottom of a liquid; lees; dregs.", "S": ["debris ", "powder ", "silt ", "trash ", "waste "], "A": ["possessions "]}
+{"index": 282997, "D": "the matter that settles to the bottom of a liquid; lees; dregs.", "S": ["debris", "powder", "silt", "trash", "waste"], "A": ["possessions"]}

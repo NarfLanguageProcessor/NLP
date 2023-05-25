@@ -1,1 +1,1 @@
-{"index": 141745, "D": "an attack of hysteria", "S": ["agitation ", "delirium ", "excitement ", "frenzy ", "madness ", "nervousness ", "panic "], "A": ["calm ", "calmness ", "collectedness ", "peace "]}
+{"index": 141745, "D": "an attack of hysteria", "S": ["agitation", "delirium", "excitement", "frenzy", "madness", "nervousness", "panic"], "A": ["calm", "calmness", "collectedness", "peace"]}

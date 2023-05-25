@@ -1,1 +1,1 @@
-{"index": 94962, "D": "a past participle of eat. ", "S": ["mangled ", "masticated ", "mouthed ", "tasted "], "A": []}
+{"index": 94962, "D": "a past participle of eat. ", "S": ["mangled", "masticated", "mouthed", "tasted"], "A": []}

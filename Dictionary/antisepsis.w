@@ -1,1 +1,1 @@
-{"index": 16160, "D": "destruction of the microorganisms that produce sepsis  or septic disease.", "S": ["purification ", "sanitation ", "sterilization ", "washing "], "A": []}
+{"index": 16160, "D": "destruction of the microorganisms that produce sepsis  or septic disease.", "S": ["purification", "sanitation", "sterilization", "washing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 209645, "D": "a diplomatic representative of the pope at a foreign court or capital", "S": ["delegate ", "diplomat ", "emissary ", "minister ", "representative "], "A": ["receiver "]}
+{"index": 209645, "D": "a diplomatic representative of the pope at a foreign court or capital", "S": ["delegate", "diplomat", "emissary", "minister", "representative"], "A": ["receiver"]}

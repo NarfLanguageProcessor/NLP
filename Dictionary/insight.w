@@ -1,1 +1,1 @@
-{"index": 153607, "D": "an instance of apprehending the true nature of a thing, especially through intuitive understanding", "S": ["acumen ", "intuition ", "judgment ", "observation ", "understanding ", "vision ", "wisdom "], "A": ["ignorance ", "stupidity "]}
+{"index": 153607, "D": "an instance of apprehending the true nature of a thing, especially through intuitive understanding", "S": ["acumen", "intuition", "judgment", "observation", "understanding", "vision", "wisdom"], "A": ["ignorance", "stupidity"]}

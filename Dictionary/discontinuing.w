@@ -1,1 +1,1 @@
-{"index": 87572, "D": "to put an end to; stop; terminate", "S": ["fitful ", "infrequent ", "occasional ", "periodic ", "recurrent ", "recurring ", "seasonal "], "A": ["constant ", "frequent ", "permanent ", "regular ", "usual "]}
+{"index": 87572, "D": "to put an end to; stop; terminate", "S": ["fitful", "infrequent", "occasional", "periodic", "recurrent", "recurring", "seasonal"], "A": ["constant", "frequent", "permanent", "regular", "usual"]}

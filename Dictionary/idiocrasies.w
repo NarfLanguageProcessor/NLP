@@ -1,1 +1,1 @@
-{"index": 146471, "D": "idiosyncrasy. ", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}
+{"index": 146471, "D": "idiosyncrasy. ", "S": ["foible", "idiosyncrasy", "peculiarity", "quirk", "weirdness"], "A": ["conformity", "normalcy", "normality", "regularity", "sameness", "standard", "usualness"]}

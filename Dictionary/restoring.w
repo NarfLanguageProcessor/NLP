@@ -1,1 +1,1 @@
-{"index": 269990, "D": "to bring back into existence, use, or the like; reestablish", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}
+{"index": 269990, "D": "to bring back into existence, use, or the like; reestablish", "S": ["encouraging", "reassuring", "refreshing", "soothing"], "A": ["aggravating", "depressing", "dispiriting", "distressing", "disturbing", "irritating", "upsetting", "worrying"]}

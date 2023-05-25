@@ -1,1 +1,1 @@
-{"index": 92098, "D": "to plunge into water or the like; drench", "S": ["deluge ", "drown ", "put out ", "quench ", "saturate ", "smother ", "snuff out ", "soak ", "splash ", "submerge ", "wet "], "A": ["dehydrate ", "dry ", "start "]}
+{"index": 92098, "D": "to plunge into water or the like; drench", "S": ["deluge", "drown", "put out", "quench", "saturate", "smother", "snuff out", "soak", "splash", "submerge", "wet"], "A": ["dehydrate", "dry", "start"]}

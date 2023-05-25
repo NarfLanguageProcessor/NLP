@@ -1,1 +1,1 @@
-{"index": 157742, "D": [], "S": ["minority ", "teens "], "A": ["adulthood ", "experience ", "knowledge "]}
+{"index": 157742, "D": [], "S": ["minority", "teens"], "A": ["adulthood", "experience", "knowledge"]}

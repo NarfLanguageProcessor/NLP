@@ -1,1 +1,1 @@
-{"index": 86220, "D": "force; power", "S": ["dent ", "drive ", "effort ", "energy ", "force ", "indentation ", "nick ", "power ", "strength ", "will "], "A": ["idleness ", "inactivity ", "incompetence ", "laziness ", "lethargy ", "weakness "]}
+{"index": 86220, "D": "force; power", "S": ["dent", "drive", "effort", "energy", "force", "indentation", "nick", "power", "strength", "will"], "A": ["idleness", "inactivity", "incompetence", "laziness", "lethargy", "weakness"]}

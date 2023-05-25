@@ -1,0 +1,1 @@
+{"index": 36024, "D": "to shrink; flinch; quail", "S": ["cringe", "quail", "quaver", "recoil", "shake", "shrink", "shudder", "tremble", "wince"], "A": ["calm", "face", "meet", "steady"]}

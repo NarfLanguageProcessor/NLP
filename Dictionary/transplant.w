@@ -1,1 +1,1 @@
-{"index": 328236, "D": "to remove (a plant) from one place and plant it in another.", "S": ["emigrate ", "graft ", "immigrate ", "remove ", "uproot "], "A": ["plant ", "remain ", "sow ", "stay "]}
+{"index": 328236, "D": "to remove (a plant) from one place and plant it in another.", "S": ["emigrate", "graft", "immigrate", "remove", "uproot"], "A": ["plant", "remain", "sow", "stay"]}

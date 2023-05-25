@@ -1,1 +1,1 @@
-{"index": 79517, "D": "cleverness or skill in using either the body or mind; dexterity or nimbleness", "S": ["nimbleness "], "A": []}
+{"index": 79517, "D": "cleverness or skill in using either the body or mind; dexterity or nimbleness", "S": ["nimbleness"], "A": []}

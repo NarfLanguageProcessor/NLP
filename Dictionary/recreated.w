@@ -1,1 +1,1 @@
-{"index": 263582, "D": "to refresh by means of relaxation and enjoyment, as restore physically or mentally.", "S": ["converted ", "metamorphosed ", "remade "], "A": ["final ", "kept ", "permanent ", "placed ", "stabilized ", "stored ", "unchanged ", "unmodified ", "unvaried "]}
+{"index": 263582, "D": "to refresh by means of relaxation and enjoyment, as restore physically or mentally.", "S": ["converted", "metamorphosed", "remade"], "A": ["final", "kept", "permanent", "placed", "stabilized", "stored", "unchanged", "unmodified", "unvaried"]}

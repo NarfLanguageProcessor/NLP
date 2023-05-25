@@ -1,1 +1,1 @@
-{"index": 224231, "D": "malaria. ", "S": ["ague ", "miasm ", "miasma "], "A": []}
+{"index": 224231, "D": "malaria. ", "S": ["ague", "miasm", "miasma"], "A": []}

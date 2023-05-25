@@ -1,0 +1,1 @@
+{"index": 34047, "D": "characterized by or full of billows;  surging", "S": [], "A": []}

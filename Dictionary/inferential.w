@@ -1,1 +1,1 @@
-{"index": 151914, "D": "of, pertaining to, by, or dependent upon inference. ", "S": ["likely ", "presumed ", "to be expected ", "to be inferred "], "A": []}
+{"index": 151914, "D": "of, pertaining to, by, or dependent upon inference. ", "S": ["likely", "presumed", "to be expected", "to be inferred"], "A": []}

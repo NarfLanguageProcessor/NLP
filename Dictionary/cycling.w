@@ -1,1 +1,1 @@
-{"index": 57112, "D": "the act or sport of riding or traveling by bicycle, motorcycle, etc.", "S": ["pedal "], "A": []}
+{"index": 57112, "D": "the act or sport of riding or traveling by bicycle, motorcycle, etc.", "S": ["pedal"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 321834, "D": "a pyrimidine base, C5H6N2O2, that is one of the principal components of DNA, in which it is paired with adenine. Symbol", "S": [], "A": []}

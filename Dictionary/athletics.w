@@ -1,1 +1,1 @@
-{"index": 22606, "D": "athletic  sports, as running, rowing, or boxing.", "S": ["contest ", "drill ", "events ", "exercises ", "games ", "practice ", "recreation ", "workout "], "A": []}
+{"index": 22606, "D": "athletic  sports, as running, rowing, or boxing.", "S": ["contest", "drill", "events", "exercises", "games", "practice", "recreation", "workout"], "A": []}

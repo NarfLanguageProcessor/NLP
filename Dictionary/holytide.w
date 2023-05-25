@@ -1,1 +1,1 @@
-{"index": 142467, "D": "a time of religious observances.", "S": ["fast day ", "hallowday ", "holiday ", "saint's day "], "A": []}
+{"index": 142467, "D": "a time of religious observances.", "S": ["fast day", "hallowday", "holiday", "saint's day"], "A": []}

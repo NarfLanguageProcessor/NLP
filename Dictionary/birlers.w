@@ -1,1 +1,1 @@
-{"index": 34847, "D": "to cause (a floating log) to rotate rapidly by treading upon it.", "S": ["cruiser ", "feller ", "logger ", "lumberman ", "trimmer "], "A": []}
+{"index": 34847, "D": "to cause (a floating log) to rotate rapidly by treading upon it.", "S": ["cruiser", "feller", "logger", "lumberman", "trimmer"], "A": []}

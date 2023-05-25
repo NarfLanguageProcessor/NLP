@@ -1,1 +1,1 @@
-{"index": 104458, "D": "sprightliness of spirit or wit; lively intelligence.", "S": ["cleverness ", "intelligence ", "morale ", "sprightliness ", "vigor "], "A": []}
+{"index": 104458, "D": "sprightliness of spirit or wit; lively intelligence.", "S": ["cleverness", "intelligence", "morale", "sprightliness", "vigor"], "A": []}

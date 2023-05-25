@@ -1,1 +1,1 @@
-{"index": 365284, "D": "with the utmost sincerity, enthusiasm, commitment, etc.", "S": ["enthusiastically ", "graciously ", "liberally ", "warmly "], "A": ["coldly ", "grudgingly ", "heartlessly ", "selfishly ", "sparingly ", "stingily "]}
+{"index": 365284, "D": "with the utmost sincerity, enthusiasm, commitment, etc.", "S": ["enthusiastically", "graciously", "liberally", "warmly"], "A": ["coldly", "grudgingly", "heartlessly", "selfishly", "sparingly", "stingily"]}

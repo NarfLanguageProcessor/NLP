@@ -1,1 +1,1 @@
-{"index": 158220, "D": "not reducible; incapable of being reduced or of being diminished or simplified further", "S": ["clear ", "excluding ", "exclusive ", "final ", "remaining "], "A": ["unprofitable "]}
+{"index": 158220, "D": "not reducible; incapable of being reduced or of being diminished or simplified further", "S": ["clear", "excluding", "exclusive", "final", "remaining"], "A": ["unprofitable"]}

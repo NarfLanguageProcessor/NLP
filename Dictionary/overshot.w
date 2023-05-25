@@ -1,1 +1,1 @@
-{"index": 221117, "D": "driven over the top of, as by water passing over from above.", "S": ["leave ", "skip "], "A": ["uphold "]}
+{"index": 221117, "D": "driven over the top of, as by water passing over from above.", "S": ["leave", "skip"], "A": ["uphold"]}

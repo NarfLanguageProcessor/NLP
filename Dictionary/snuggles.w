@@ -1,1 +1,1 @@
-{"index": 295942, "D": "to lie or press closely, as for comfort or from affection; nestle; cuddle.", "S": ["curl up ", "huddle "], "A": ["let go ", "release "]}
+{"index": 295942, "D": "to lie or press closely, as for comfort or from affection; nestle; cuddle.", "S": ["curl up", "huddle"], "A": ["let go", "release"]}

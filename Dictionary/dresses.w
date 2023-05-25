@@ -1,1 +1,1 @@
-{"index": 92984, "D": "an outer garment for women and girls, consisting of bodice and skirt in one piece.", "S": ["apparel ", "attire ", "costume ", "ensemble ", "frock ", "garb ", "gown ", "robe ", "skirt ", "smock ", "suit ", "uniform ", "wardrobe "], "A": []}
+{"index": 92984, "D": "an outer garment for women and girls, consisting of bodice and skirt in one piece.", "S": ["apparel", "attire", "costume", "ensemble", "frock", "garb", "gown", "robe", "skirt", "smock", "suit", "uniform", "wardrobe"], "A": []}

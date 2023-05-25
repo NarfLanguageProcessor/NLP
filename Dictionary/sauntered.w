@@ -1,1 +1,1 @@
-{"index": 278951, "D": "to walk with a leisurely gait; stroll", "S": ["amble ", "loiter ", "meander ", "mope ", "mosey ", "ramble ", "roam ", "sashay ", "toddle ", "traipse ", "wander "], "A": ["stay ", "go ", "hurry ", "rush "]}
+{"index": 278951, "D": "to walk with a leisurely gait; stroll", "S": ["amble", "loiter", "meander", "mope", "mosey", "ramble", "roam", "sashay", "toddle", "traipse", "wander"], "A": ["stay", "go", "hurry", "rush"]}

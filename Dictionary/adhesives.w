@@ -1,1 +1,1 @@
-{"index": 3862, "D": "coated with glue, paste, mastic, or other sticky substance", "S": ["adhesive ", "cement ", "glue ", "lime ", "mortar ", "stucco "], "A": []}
+{"index": 3862, "D": "coated with glue, paste, mastic, or other sticky substance", "S": ["adhesive", "cement", "glue", "lime", "mortar", "stucco"], "A": []}

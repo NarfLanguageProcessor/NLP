@@ -1,1 +1,1 @@
-{"index": 49198, "D": "of, relating to, or resulting from a cataclysm. ", "S": ["calamitous ", "cataclysmic ", "catastrophal ", "catastrophic ", "devastating ", "disastrous ", "fatal ", "ruinous ", "tragic "], "A": []}
+{"index": 49198, "D": "of, relating to, or resulting from a cataclysm. ", "S": ["calamitous", "cataclysmic", "catastrophal", "catastrophic", "devastating", "disastrous", "fatal", "ruinous", "tragic"], "A": []}

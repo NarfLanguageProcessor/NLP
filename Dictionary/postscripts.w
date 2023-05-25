@@ -1,1 +1,1 @@
-{"index": 244472, "D": "a paragraph, phrase, etc., added to a letter that has already been concluded and signed by the writer.", "S": ["appendix ", "footnote "], "A": []}
+{"index": 244472, "D": "a paragraph, phrase, etc., added to a letter that has already been concluded and signed by the writer.", "S": ["appendix", "footnote"], "A": []}

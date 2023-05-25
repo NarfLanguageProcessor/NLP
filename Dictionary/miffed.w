@@ -1,1 +1,1 @@
-{"index": 186985, "D": "put into an irritable mood, especially by an offending incident", "S": ["annoyed ", "irritated ", "offended ", "pained ", "resentful "], "A": ["happy "]}
+{"index": 186985, "D": "put into an irritable mood, especially by an offending incident", "S": ["annoyed", "irritated", "offended", "pained", "resentful"], "A": ["happy"]}

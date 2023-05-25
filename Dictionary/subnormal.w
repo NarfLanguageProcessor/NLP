@@ -1,1 +1,1 @@
-{"index": 308628, "D": "below the normal;  less than or inferior to the normal", "S": ["cheap ", "inadequate ", "lousy ", "shoddy "], "A": ["good "]}
+{"index": 308628, "D": "below the normal;  less than or inferior to the normal", "S": ["cheap", "inadequate", "lousy", "shoddy"], "A": ["good"]}

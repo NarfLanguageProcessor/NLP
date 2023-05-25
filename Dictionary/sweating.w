@@ -1,1 +1,1 @@
-{"index": 314224, "D": "to perspire, especially freely or profusely.", "S": ["bathed ", "drenched ", "dripping ", "glowing ", "perspiring ", "soaked ", "wet "], "A": []}
+{"index": 314224, "D": "to perspire, especially freely or profusely.", "S": ["bathed", "drenched", "dripping", "glowing", "perspiring", "soaked", "wet"], "A": []}

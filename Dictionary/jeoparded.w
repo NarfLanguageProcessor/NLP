@@ -1,1 +1,1 @@
-{"index": 160875, "D": "to jeopardize.", "S": ["compromise ", "endanger ", "jeopardize ", "menace "], "A": ["aid ", "assist ", "help ", "save "]}
+{"index": 160875, "D": "to jeopardize.", "S": ["compromise", "endanger", "jeopardize", "menace"], "A": ["aid", "assist", "help", "save"]}

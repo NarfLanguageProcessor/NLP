@@ -1,1 +1,1 @@
-{"index": 293194, "D": "a frying pan.", "S": ["broiler ", "spider "], "A": []}
+{"index": 293194, "D": "a frying pan.", "S": ["broiler", "spider"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 269501, "D": "exhibiting or offering resistance; resisting (often used in combination)", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}
+{"index": 269501, "D": "exhibiting or offering resistance; resisting (often used in combination)", "S": ["mulishly", "obdurately"], "A": ["graciously", "obediently"]}

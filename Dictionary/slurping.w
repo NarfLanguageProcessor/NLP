@@ -1,1 +1,1 @@
-{"index": 294618, "D": "to ingest (food or drink) with loud sucking noises", "S": ["consume ", "drain ", "gulp ", "guzzle ", "inhale ", "quaff ", "sip ", "suck "], "A": ["abstain "]}
+{"index": 294618, "D": "to ingest (food or drink) with loud sucking noises", "S": ["consume", "drain", "gulp", "guzzle", "inhale", "quaff", "sip", "suck"], "A": ["abstain"]}

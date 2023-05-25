@@ -1,1 +1,1 @@
-{"index": 281607, "D": "a small piece or portion; fragment", "S": ["oddments "], "A": []}
+{"index": 281607, "D": "a small piece or portion; fragment", "S": ["oddments"], "A": []}

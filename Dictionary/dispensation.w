@@ -1,1 +1,1 @@
-{"index": 88932, "D": "an act or instance of dispensing; distribution.", "S": ["disbursement "], "A": ["disfavor ", "whole "]}
+{"index": 88932, "D": "an act or instance of dispensing; distribution.", "S": ["disbursement"], "A": ["disfavor", "whole"]}

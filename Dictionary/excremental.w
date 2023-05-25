@@ -1,1 +1,1 @@
-{"index": 106816, "D": "of or like excrement. ", "S": ["bawdy ", "coarse ", "lewd ", "obscene "], "A": ["clean ", "decent ", "moral "]}
+{"index": 106816, "D": "of or like excrement. ", "S": ["bawdy", "coarse", "lewd", "obscene"], "A": ["clean", "decent", "moral"]}

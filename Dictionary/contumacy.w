@@ -1,1 +1,1 @@
-{"index": 67843, "D": "stubborn perverseness or rebelliousness; willful and obstinate resistance or disobedience to authority.", "S": ["contempt ", "disobedience ", "insubordination ", "rebelliousness ", "recalcitrance ", "recalcitrancy ", "refractoriness "], "A": []}
+{"index": 67843, "D": "stubborn perverseness or rebelliousness; willful and obstinate resistance or disobedience to authority.", "S": ["contempt", "disobedience", "insubordination", "rebelliousness", "recalcitrance", "recalcitrancy", "refractoriness"], "A": []}

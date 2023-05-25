@@ -1,1 +1,1 @@
-{"index": 89254, "D": "to engage in argument or debate", "S": ["anti ", "antithetical ", "averse ", "disputed ", "hostile ", "inimical ", "opposing "], "A": ["friendly ", "kind "]}
+{"index": 89254, "D": "to engage in argument or debate", "S": ["anti", "antithetical", "averse", "disputed", "hostile", "inimical", "opposing"], "A": ["friendly", "kind"]}

@@ -1,1 +1,1 @@
-{"index": 313604, "D": "in a secret or unauthorized way; stealthily", "S": ["covertly ", "secretly ", "stealthily "], "A": ["openly ", "publicly "]}
+{"index": 313604, "D": "in a secret or unauthorized way; stealthily", "S": ["covertly", "secretly", "stealthily"], "A": ["openly", "publicly"]}

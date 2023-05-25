@@ -1,1 +1,1 @@
-{"index": 87542, "D": "without consolation or solace; hopelessly unhappy; inconsolable", "S": ["inconsolable "], "A": ["cheerful ", "consoled ", "happy ", "solaced ", "soothed "]}
+{"index": 87542, "D": "without consolation or solace; hopelessly unhappy; inconsolable", "S": ["inconsolable"], "A": ["cheerful", "consoled", "happy", "solaced", "soothed"]}

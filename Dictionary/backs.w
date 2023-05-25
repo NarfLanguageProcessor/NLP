@@ -1,1 +1,1 @@
-{"index": 25878, "D": "the grounds between the River Cam and certain Cambridge colleges", "S": ["backward "], "A": ["beginning ", "first ", "front ", "preceding "]}
+{"index": 25878, "D": "the grounds between the River Cam and certain Cambridge colleges", "S": ["backward"], "A": ["beginning", "first", "front", "preceding"]}

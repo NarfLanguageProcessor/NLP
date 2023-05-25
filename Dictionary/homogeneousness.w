@@ -1,1 +1,1 @@
-{"index": 143085, "D": "composition from like parts, elements, or characteristics; state or quality of being homogeneous. ", "S": ["consistency ", "sameness "], "A": ["difference ", "dissimilarity ", "unlikeness "]}
+{"index": 143085, "D": "composition from like parts, elements, or characteristics; state or quality of being homogeneous. ", "S": ["consistency", "sameness"], "A": ["difference", "dissimilarity", "unlikeness"]}

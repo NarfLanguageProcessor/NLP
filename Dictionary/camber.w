@@ -1,1 +1,1 @@
-{"index": 45589, "D": "to arch slightly; bend or curve upward in the middle.", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}
+{"index": 45589, "D": "to arch slightly; bend or curve upward in the middle.", "S": ["arc", "arch", "contour", "loop", "trajectory"], "A": ["line"]}

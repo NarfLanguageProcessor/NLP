@@ -1,1 +1,1 @@
-{"index": 340113, "D": "woody shrubs or small trees growing among taller trees.", "S": ["scrub ", "thicket "], "A": []}
+{"index": 340113, "D": "woody shrubs or small trees growing among taller trees.", "S": ["scrub", "thicket"], "A": []}

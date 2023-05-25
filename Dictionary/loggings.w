@@ -1,1 +1,1 @@
-{"index": 174597, "D": "the process, work, or business of cutting down trees and transporting the logs  to sawmills.", "S": ["desertification ", "erosion ", "logging "], "A": []}
+{"index": 174597, "D": "the process, work, or business of cutting down trees and transporting the logs  to sawmills.", "S": ["desertification", "erosion", "logging"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110819, "D": "to unite in a federation. ", "S": ["amalgamated ", "associated ", "combined ", "federal ", "incorporated ", "leagued ", "organized ", "syndicated ", "unionized "], "A": []}
+{"index": 110819, "D": "to unite in a federation. ", "S": ["amalgamated", "associated", "combined", "federal", "incorporated", "leagued", "organized", "syndicated", "unionized"], "A": []}

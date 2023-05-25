@@ -1,1 +1,1 @@
-{"index": 29411, "D": "a small, usually round object of glass, wood, stone, or the like with a hole through it, often strung with others of its kind in necklaces, rosaries, etc.", "S": ["choker ", "necklace ", "pendant ", "rosary "], "A": []}
+{"index": 29411, "D": "a small, usually round object of glass, wood, stone, or the like with a hole through it, often strung with others of its kind in necklaces, rosaries, etc.", "S": ["choker", "necklace", "pendant", "rosary"], "A": []}

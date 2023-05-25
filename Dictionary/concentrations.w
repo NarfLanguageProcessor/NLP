@@ -1,1 +1,1 @@
-{"index": 65133, "D": "the act of concentrating; the state of being concentrated.", "S": ["absorption ", "combination ", "consolidation "], "A": ["division ", "parting ", "separation ", "severance "]}
+{"index": 65133, "D": "the act of concentrating; the state of being concentrated.", "S": ["absorption", "combination", "consolidation"], "A": ["division", "parting", "separation", "severance"]}

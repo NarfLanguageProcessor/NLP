@@ -1,1 +1,1 @@
-{"index": 346563, "D": "to loose (a vessel) from moorings or anchorage.", "S": ["bring the anchor home ", "cast off ", "loose for sea ", "put to sea ", "up-anchor "], "A": []}
+{"index": 346563, "D": "to loose (a vessel) from moorings or anchorage.", "S": ["bring the anchor home", "cast off", "loose for sea", "put to sea", "up-anchor"], "A": []}

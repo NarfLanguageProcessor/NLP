@@ -1,1 +1,1 @@
-{"index": 305058, "D": "simple past tense of steal. ", "S": ["fur ", "jacket ", "shawl "], "A": []}
+{"index": 305058, "D": "simple past tense of steal. ", "S": ["fur", "jacket", "shawl"], "A": []}

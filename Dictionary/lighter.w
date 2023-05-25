@@ -1,1 +1,1 @@
-{"index": 172016, "D": "a person or thing that lights  or ignites. ", "S": ["raft "], "A": []}
+{"index": 172016, "D": "a person or thing that lights  or ignites. ", "S": ["raft"], "A": []}

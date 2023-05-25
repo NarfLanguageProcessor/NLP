@@ -1,1 +1,1 @@
-{"index": 5387, "D": "a natural liking for or attraction to a person, thing, idea, etc.", "S": ["affection ", "closeness ", "fondness ", "leaning ", "rapport ", "sympathy ", "weakness "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 5387, "D": "a natural liking for or attraction to a person, thing, idea, etc.", "S": ["affection", "closeness", "fondness", "leaning", "rapport", "sympathy", "weakness"], "A": ["dislike", "hate", "hatred"]}

@@ -1,1 +1,1 @@
-{"index": 162624, "D": "placed or appearing close together or side by side, especially with an arresting or surprising effect, or in a way that invites comparison or contrast", "S": ["adjacent ", "contiguous ", "neighboring "], "A": ["detached ", "divided ", "separate "]}
+{"index": 162624, "D": "placed or appearing close together or side by side, especially with an arresting or surprising effect, or in a way that invites comparison or contrast", "S": ["adjacent", "contiguous", "neighboring"], "A": ["detached", "divided", "separate"]}

@@ -1,1 +1,1 @@
-{"index": 293017, "D": "like a sketch;  giving only outlines or essentials.", "S": ["cursory ", "faulty ", "inadequate ", "insufficient ", "perfunctory ", "preliminary ", "skimpy ", "superficial ", "vague "], "A": ["adequate ", "careful ", "enough ", "perfect ", "sufficient ", "thorough "]}
+{"index": 293017, "D": "like a sketch;  giving only outlines or essentials.", "S": ["cursory", "faulty", "inadequate", "insufficient", "perfunctory", "preliminary", "skimpy", "superficial", "vague"], "A": ["adequate", "careful", "enough", "perfect", "sufficient", "thorough"]}

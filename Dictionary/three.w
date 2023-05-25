@@ -1,1 +1,1 @@
-{"index": 322605, "D": "a cardinal number, 2 plus 1.", "S": ["ternary ", "third ", "treble ", "trilateral ", "trinitarian ", "triple "], "A": []}
+{"index": 322605, "D": "a cardinal number, 2 plus 1.", "S": ["ternary", "third", "treble", "trilateral", "trinitarian", "triple"], "A": []}

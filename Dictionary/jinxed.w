@@ -1,1 +1,1 @@
-{"index": 161351, "D": "a person, thing, or influence supposed to bring bad luck.", "S": ["unlucky ", "woeful "], "A": ["happy "]}
+{"index": 161351, "D": "a person, thing, or influence supposed to bring bad luck.", "S": ["unlucky", "woeful"], "A": ["happy"]}

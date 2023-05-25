@@ -1,1 +1,1 @@
-{"index": 82982, "D": "the act of destroying", "S": ["annihilation ", "carnage ", "elimination ", "eradication ", "extermination ", "extinction ", "loss ", "massacre ", "murder ", "ruin ", "slaughter "], "A": ["creation "]}
+{"index": 82982, "D": "the act of destroying", "S": ["annihilation", "carnage", "elimination", "eradication", "extermination", "extinction", "loss", "massacre", "murder", "ruin", "slaughter"], "A": ["creation"]}

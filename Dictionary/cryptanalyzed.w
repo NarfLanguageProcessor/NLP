@@ -1,1 +1,1 @@
-{"index": 73176, "D": "to study (a cryptogram) for the purpose of discovering the clear meaning; break (a code, cipher, etc.).", "S": ["break ", "solve "], "A": ["misunderstand "]}
+{"index": 73176, "D": "to study (a cryptogram) for the purpose of discovering the clear meaning; break (a code, cipher, etc.).", "S": ["break", "solve"], "A": ["misunderstand"]}

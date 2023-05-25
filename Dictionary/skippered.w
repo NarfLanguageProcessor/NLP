@@ -1,1 +1,1 @@
-{"index": 293309, "D": "the master or captain of a vessel, especially of a small trading or fishing vessel.", "S": ["cross ", "cruise ", "handle ", "maneuver ", "operate ", "sail ", "steer "], "A": ["neglect ", "forget "]}
+{"index": 293309, "D": "the master or captain of a vessel, especially of a small trading or fishing vessel.", "S": ["cross", "cruise", "handle", "maneuver", "operate", "sail", "steer"], "A": ["neglect", "forget"]}

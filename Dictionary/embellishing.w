@@ -1,1 +1,1 @@
-{"index": 98051, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": ["fancy ", "ornamental "], "A": ["plain "]}
+{"index": 98051, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": ["fancy", "ornamental"], "A": ["plain"]}

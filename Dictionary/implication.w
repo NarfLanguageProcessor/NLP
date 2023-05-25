@@ -1,1 +1,1 @@
-{"index": 148789, "D": "something implied  or suggested as naturally to be inferred or understood", "S": ["conclusion ", "connotation ", "indication ", "meaning ", "overtone ", "ramification ", "significance "], "A": ["measurement ", "proof ", "reality ", "truth "]}
+{"index": 148789, "D": "something implied  or suggested as naturally to be inferred or understood", "S": ["conclusion", "connotation", "indication", "meaning", "overtone", "ramification", "significance"], "A": ["measurement", "proof", "reality", "truth"]}

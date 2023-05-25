@@ -1,1 +1,1 @@
-{"index": 367085, "D": "accustomed; used (usually followed by an infinitive)", "S": ["enlighten ", "naturalize "], "A": ["disarrange ", "disorder ", "forget ", "learn ", "neglect ", "unfit "]}
+{"index": 367085, "D": "accustomed; used (usually followed by an infinitive)", "S": ["enlighten", "naturalize"], "A": ["disarrange", "disorder", "forget", "learn", "neglect", "unfit"]}

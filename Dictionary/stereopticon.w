@@ -1,1 +1,1 @@
-{"index": 303949, "D": "a projector usually consisting of two complete lanterns arranged so that one picture appears to dissolve while the next is forming.", "S": ["overhead projector ", "projector ", "slide projector "], "A": []}
+{"index": 303949, "D": "a projector usually consisting of two complete lanterns arranged so that one picture appears to dissolve while the next is forming.", "S": ["overhead projector", "projector", "slide projector"], "A": []}

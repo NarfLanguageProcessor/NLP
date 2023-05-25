@@ -1,1 +1,1 @@
-{"index": 17176, "D": "incontestable because of having been demonstrated or proved to be demonstrable.", "S": ["authoritative ", "flawless ", "foolproof ", "unbeatable "], "A": ["erring ", "fallible ", "faulty ", "imperfect "]}
+{"index": 17176, "D": "incontestable because of having been demonstrated or proved to be demonstrable.", "S": ["authoritative", "flawless", "foolproof", "unbeatable"], "A": ["erring", "fallible", "faulty", "imperfect"]}

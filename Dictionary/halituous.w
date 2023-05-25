@@ -1,1 +1,1 @@
-{"index": 132686, "D": "breath; exhalation; vapor.", "S": ["aerial ", "ethereal ", "fleeting ", "foggy ", "hazy ", "insubstantial ", "misty ", "smoggy ", "vague ", "vapory ", "volatile ", "wispy "], "A": []}
+{"index": 132686, "D": "breath; exhalation; vapor.", "S": ["aerial", "ethereal", "fleeting", "foggy", "hazy", "insubstantial", "misty", "smoggy", "vague", "vapory", "volatile", "wispy"], "A": []}

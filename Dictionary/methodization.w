@@ -1,1 +1,1 @@
-{"index": 185288, "D": [], "S": ["arrangement ", "classification ", "collectivization ", "command ", "division ", "grouping ", "harmonization ", "mechanization ", "ordering ", "organization ", "regulation ", "rigidity ", "standardization ", "strictness ", "uniformity "], "A": ["disorganization "]}
+{"index": 185288, "D": [], "S": ["arrangement", "classification", "collectivization", "command", "division", "grouping", "harmonization", "mechanization", "ordering", "organization", "regulation", "rigidity", "standardization", "strictness", "uniformity"], "A": ["disorganization"]}

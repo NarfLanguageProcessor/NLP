@@ -1,1 +1,1 @@
-{"index": 80365, "D": "to determine or mark off the boundaries or limits of", "S": ["delimit ", "mark off "], "A": ["attach ", "combine ", "connect ", "couple ", "join ", "link ", "unite "]}
+{"index": 80365, "D": "to determine or mark off the boundaries or limits of", "S": ["delimit", "mark off"], "A": ["attach", "combine", "connect", "couple", "join", "link", "unite"]}

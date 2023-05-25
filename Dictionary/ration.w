@@ -1,1 +1,1 @@
-{"index": 261056, "D": "a fixed allowance of provisions or food, especially for soldiers or sailors or for civilians during a shortage", "S": ["allowance ", "consignment ", "quota "], "A": ["debt ", "whole "]}
+{"index": 261056, "D": "a fixed allowance of provisions or food, especially for soldiers or sailors or for civilians during a shortage", "S": ["allowance", "consignment", "quota"], "A": ["debt", "whole"]}

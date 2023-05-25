@@ -1,1 +1,1 @@
-{"index": 167002, "D": "a protective coating consisting of a resin, cellulose ester, or both, dissolved in a volatile solvent, sometimes with pigment added.", "S": ["gild ", "lacquer "], "A": ["dull ", "reveal ", "strip ", "uncover "]}
+{"index": 167002, "D": "a protective coating consisting of a resin, cellulose ester, or both, dissolved in a volatile solvent, sometimes with pigment added.", "S": ["gild", "lacquer"], "A": ["dull", "reveal", "strip", "uncover"]}

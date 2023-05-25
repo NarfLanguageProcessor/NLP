@@ -1,1 +1,1 @@
-{"index": 89315, "D": "neglectful; careless.", "S": ["unintentionally ", "unknowingly ", "unwittingly "], "A": ["consciously ", "deliberately ", "intentionally ", "knowingly ", "willfully "]}
+{"index": 89315, "D": "neglectful; careless.", "S": ["unintentionally", "unknowingly", "unwittingly"], "A": ["consciously", "deliberately", "intentionally", "knowingly", "willfully"]}

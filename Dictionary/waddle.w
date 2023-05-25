@@ -1,1 +1,1 @@
-{"index": 361714, "D": "to walk with short steps, swaying or rocking from side to side, as a duck.", "S": ["toddle ", "totter ", "wiggle ", "wobble "], "A": []}
+{"index": 361714, "D": "to walk with short steps, swaying or rocking from side to side, as a duck.", "S": ["toddle", "totter", "wiggle", "wobble"], "A": []}

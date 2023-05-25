@@ -1,0 +1,1 @@
+{"index": 36031, "D": "to mix smoothly and inseparably together", "S": ["amalgam", "brew", "combination", "concoction", "fusion", "mixture", "synthesis"], "A": ["division", "separation"]}

@@ -1,1 +1,1 @@
-{"index": 52694, "D": "a large bus used on sightseeing tours, especially one with open sides and no center aisle.", "S": ["bus ", "car ", "chaise ", "perambulator ", "stage ", "train ", "vehicle ", "victoria "], "A": ["player ", "pupil ", "student "]}
+{"index": 52694, "D": "a large bus used on sightseeing tours, especially one with open sides and no center aisle.", "S": ["bus", "car", "chaise", "perambulator", "stage", "train", "vehicle", "victoria"], "A": ["player", "pupil", "student"]}

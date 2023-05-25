@@ -1,1 +1,1 @@
-{"index": 88610, "D": "to remove or force out of a particular place", "S": ["dispossession ", "ejection ", "expulsion ", "ouster ", "removal "], "A": ["admittance ", "boarding ", "including ", "leasing ", "receiving ", "renting ", "welcome ", "welcoming "]}
+{"index": 88610, "D": "to remove or force out of a particular place", "S": ["dispossession", "ejection", "expulsion", "ouster", "removal"], "A": ["admittance", "boarding", "including", "leasing", "receiving", "renting", "welcome", "welcoming"]}

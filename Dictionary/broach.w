@@ -1,1 +1,1 @@
-{"index": 41036, "D": "an elongated, tapered, serrated cutting tool for shaping and enlarging holes.", "S": ["bring up ", "hint at ", "moot ", "touch on "], "A": ["close ", "deny ", "dissuade ", "refuse ", "stop ", "take back ", "withdraw "]}
+{"index": 41036, "D": "an elongated, tapered, serrated cutting tool for shaping and enlarging holes.", "S": ["bring up", "hint at", "moot", "touch on"], "A": ["close", "deny", "dissuade", "refuse", "stop", "take back", "withdraw"]}

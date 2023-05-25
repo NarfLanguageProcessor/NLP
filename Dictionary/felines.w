@@ -1,1 +1,1 @@
-{"index": 110995, "D": "belonging or pertaining to the cat family, Felidae.", "S": ["cheetah ", "civet ", "jaguar ", "leopard ", "lion ", "lynx ", "puma ", "tiger ", "tom ", "wildcat "], "A": []}
+{"index": 110995, "D": "belonging or pertaining to the cat family, Felidae.", "S": ["cheetah", "civet", "jaguar", "leopard", "lion", "lynx", "puma", "tiger", "tom", "wildcat"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 291854, "D": "a person who sins;  transgressor.", "S": ["transgressor ", "trespasser "], "A": []}
+{"index": 291854, "D": "a person who sins;  transgressor.", "S": ["transgressor", "trespasser"], "A": []}

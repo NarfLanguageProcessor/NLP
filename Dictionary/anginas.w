@@ -1,1 +1,1 @@
-{"index": 12734, "D": "any attack of painful spasms characterized by sensations of choking or suffocating.", "S": ["congestive heart failure "], "A": []}
+{"index": 12734, "D": "any attack of painful spasms characterized by sensations of choking or suffocating.", "S": ["congestive heart failure"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 161204, "D": "a plate, box, or open frame for holding work and for guiding a machine tool to the work, used especially for locating and spacing drilled holes; fixture.", "S": ["fidget ", "shimmy ", "twitch ", "wiggle "], "A": ["calm ", "soothe "]}
+{"index": 161204, "D": "a plate, box, or open frame for holding work and for guiding a machine tool to the work, used especially for locating and spacing drilled holes; fixture.", "S": ["fidget", "shimmy", "twitch", "wiggle"], "A": ["calm", "soothe"]}

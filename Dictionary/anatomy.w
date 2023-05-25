@@ -1,0 +1,1 @@
+{"index": 12077, "D": "the science dealing with the structure of animals and plants.", "S": ["analysis", "biology", "cytology", "diagnosis", "dissection", "division", "embryology", "etiology", "examination", "genetics", "histology", "inquiry", "investigation", "medicine", "morphology", "physiology", "zoology"], "A": ["connection"]}

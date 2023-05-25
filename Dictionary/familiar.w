@@ -1,1 +1,1 @@
-{"index": 109594, "D": "commonly or generally known or seen", "S": ["intimate ", "mundane ", "recognizable ", "simple ", "usual "], "A": ["abnormal ", "alien ", "business ", "different ", "extraordinary ", "foreign ", "industrial ", "original ", "uncommon ", "unusual "]}
+{"index": 109594, "D": "commonly or generally known or seen", "S": ["intimate", "mundane", "recognizable", "simple", "usual"], "A": ["abnormal", "alien", "business", "different", "extraordinary", "foreign", "industrial", "original", "uncommon", "unusual"]}

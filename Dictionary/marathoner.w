@@ -1,1 +1,1 @@
-{"index": 179817, "D": "a runner who competes in a marathon. ", "S": ["runner ", "sprinter "], "A": []}
+{"index": 179817, "D": "a runner who competes in a marathon. ", "S": ["runner", "sprinter"], "A": []}

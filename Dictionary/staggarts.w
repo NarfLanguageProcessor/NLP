@@ -1,1 +1,0 @@
-{"index": 302325, "D": "a four-year-old male red deer.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 43261, "D": "a belch;  eructation.", "S": ["belch "], "A": []}
+{"index": 43261, "D": "a belch;  eructation.", "S": ["belch"], "A": []}

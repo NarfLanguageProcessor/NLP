@@ -1,1 +1,1 @@
-{"index": 104143, "D": "the avoidance of reality by absorption of the mind in entertainment or in an imaginative situation, activity, etc.", "S": ["evasion ", "prevention ", "restraint "], "A": ["advance ", "arrival ", "coming ", "continuation ", "stay "]}
+{"index": 104143, "D": "the avoidance of reality by absorption of the mind in entertainment or in an imaginative situation, activity, etc.", "S": ["evasion", "prevention", "restraint"], "A": ["advance", "arrival", "coming", "continuation", "stay"]}

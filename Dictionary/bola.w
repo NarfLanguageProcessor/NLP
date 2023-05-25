@@ -1,1 +1,1 @@
-{"index": 37491, "D": "a weapon consisting of two or more heavy balls secured to the ends of one or more strong cords, hurled by the Indians and gauchos of southern South America to entangle the legs of cattle and other animals.", "S": ["halter ", "rope ", "snare "], "A": []}
+{"index": 37491, "D": "a weapon consisting of two or more heavy balls secured to the ends of one or more strong cords, hurled by the Indians and gauchos of southern South America to entangle the legs of cattle and other animals.", "S": ["halter", "rope", "snare"], "A": []}

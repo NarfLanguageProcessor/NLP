@@ -1,1 +1,1 @@
-{"index": 358026, "D": "the act of venerating. ", "S": ["admiring ", "appreciative ", "deferential ", "devout ", "dutiful ", "gracious ", "humble ", "obedient ", "obeisant ", "pious ", "polite ", "regardful ", "reverential ", "solemn ", "upholding ", "worshipful ", "worshipping "], "A": []}
+{"index": 358026, "D": "the act of venerating. ", "S": ["admiring", "appreciative", "deferential", "devout", "dutiful", "gracious", "humble", "obedient", "obeisant", "pious", "polite", "regardful", "reverential", "solemn", "upholding", "worshipful", "worshipping"], "A": []}

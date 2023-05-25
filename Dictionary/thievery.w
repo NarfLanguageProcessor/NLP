@@ -1,1 +1,1 @@
-{"index": 321740, "D": "the act or practice of thieving;  theft.", "S": ["burglary ", "larceny ", "robbery ", "stealing ", "thievishness "], "A": []}
+{"index": 321740, "D": "the act or practice of thieving;  theft.", "S": ["burglary", "larceny", "robbery", "stealing", "thievishness"], "A": []}

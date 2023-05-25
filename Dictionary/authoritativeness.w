@@ -1,1 +1,1 @@
-{"index": 23832, "D": "having due authority;  having the sanction or weight of authority", "S": ["confidence ", "inevitability ", "trust "], "A": ["distrust ", "disbelief "]}
+{"index": 23832, "D": "having due authority;  having the sanction or weight of authority", "S": ["confidence", "inevitability", "trust"], "A": ["distrust", "disbelief"]}

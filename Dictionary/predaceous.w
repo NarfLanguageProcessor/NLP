@@ -1,1 +1,1 @@
-{"index": 246634, "D": "predatory; rapacious. ", "S": ["ravening "], "A": []}
+{"index": 246634, "D": "predatory; rapacious. ", "S": ["ravening"], "A": []}

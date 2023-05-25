@@ -1,1 +1,1 @@
-{"index": 243003, "D": "a body of water smaller than a lake, sometimes artificially formed, as by damming a stream.", "S": ["basin ", "lagoon ", "pool ", "puddle "], "A": []}
+{"index": 243003, "D": "a body of water smaller than a lake, sometimes artificially formed, as by damming a stream.", "S": ["basin", "lagoon", "pool", "puddle"], "A": []}

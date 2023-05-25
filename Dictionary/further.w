@@ -1,1 +1,1 @@
-{"index": 120517, "D": "at or to a greater distance; farther", "S": ["farther ", "more "], "A": []}
+{"index": 120517, "D": "at or to a greater distance; farther", "S": ["farther", "more"], "A": []}

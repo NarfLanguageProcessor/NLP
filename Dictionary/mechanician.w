@@ -1,1 +1,1 @@
-{"index": 181875, "D": "a person skilled in constructing, working, or repairing machines; mechanic;  machinist.", "S": ["auto mechanic ", "mechanic "], "A": []}
+{"index": 181875, "D": "a person skilled in constructing, working, or repairing machines; mechanic;  machinist.", "S": ["auto mechanic", "mechanic"], "A": []}

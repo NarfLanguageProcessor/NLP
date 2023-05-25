@@ -1,1 +1,1 @@
-{"index": 103542, "D": "a hermit or recluse, especially one under a religious vow.", "S": ["recluse "], "A": []}
+{"index": 103542, "D": "a hermit or recluse, especially one under a religious vow.", "S": ["recluse"], "A": []}

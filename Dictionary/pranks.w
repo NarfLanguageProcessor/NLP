@@ -1,1 +1,1 @@
-{"index": 245321, "D": "a trick of an amusing, playful, or sometimes malicious nature.", "S": ["hijinks ", "misbehavior ", "rowdiness "], "A": []}
+{"index": 245321, "D": "a trick of an amusing, playful, or sometimes malicious nature.", "S": ["hijinks", "misbehavior", "rowdiness"], "A": []}

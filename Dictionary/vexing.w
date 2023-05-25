@@ -1,1 +1,1 @@
-{"index": 359214, "D": "irritating, provoking, or annoying", "S": ["aggravating ", "annoying ", "distressing ", "disturbing ", "inconvenient ", "irritating ", "troublesome "], "A": ["helpful "]}
+{"index": 359214, "D": "irritating, provoking, or annoying", "S": ["aggravating", "annoying", "distressing", "disturbing", "inconvenient", "irritating", "troublesome"], "A": ["helpful"]}

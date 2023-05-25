@@ -1,0 +1,1 @@
+{"index": 38084, "D": "a little book,  especially one with paper covers; pamphlet.", "S": ["brochure", "handbill", "leaflet"], "A": []}

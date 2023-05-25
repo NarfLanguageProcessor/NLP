@@ -1,1 +1,1 @@
-{"index": 8642, "D": "praise ye the Lord; hallelujah.", "S": ["chant ", "ditty ", "oratorio ", "paean ", "psalm "], "A": []}
+{"index": 8642, "D": "praise ye the Lord; hallelujah.", "S": ["chant", "ditty", "oratorio", "paean", "psalm"], "A": []}

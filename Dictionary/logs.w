@@ -1,1 +1,1 @@
-{"index": 174718, "D": "a portion or length of the trunk or of a large limb of a felled tree.", "S": ["chunk ", "piece ", "timber ", "wood "], "A": []}
+{"index": 174718, "D": "a portion or length of the trunk or of a large limb of a felled tree.", "S": ["chunk", "piece", "timber", "wood"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 353016, "D": "up to the time that or when; till", "S": ["as far as ", "before ", "before the coming ", "continuously ", "down to ", "in advance of ", "in expectation ", "prior to ", "till ", "to ", "up till ", "up to "], "A": []}
+{"index": 353016, "D": "up to the time that or when; till", "S": ["as far as", "before", "before the coming", "continuously", "down to", "in advance of", "in expectation", "prior to", "till", "to", "up till", "up to"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 151542, "D": "a variant of ineptitude. ", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}
+{"index": 151542, "D": "a variant of ineptitude. ", "S": ["ignorance", "ineptitude"], "A": ["politeness", "sophistication"]}

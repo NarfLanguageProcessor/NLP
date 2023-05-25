@@ -1,1 +1,1 @@
-{"index": 174991, "D": "happening or presented over a long period of time or having a long course of performances", "S": ["long haul "], "A": []}
+{"index": 174991, "D": "happening or presented over a long period of time or having a long course of performances", "S": ["long haul"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 200103, "D": "excess; overabundance", "S": ["exuberance ", "glut ", "overkill ", "surplus ", "waste "], "A": ["insufficiency ", "lack ", "need ", "want ", "base ", "core ", "few ", "little ", "scarcity "]}
+{"index": 200103, "D": "excess; overabundance", "S": ["exuberance", "glut", "overkill", "surplus", "waste"], "A": ["insufficiency", "lack", "need", "want", "base", "core", "few", "little", "scarcity"]}

@@ -1,1 +1,1 @@
-{"index": 100612, "D": "to prescribe (a course of action) with authority or emphasis", "S": ["imposed ", "prescribed ", "required ", "sanctioned "], "A": []}
+{"index": 100612, "D": "to prescribe (a course of action) with authority or emphasis", "S": ["imposed", "prescribed", "required", "sanctioned"], "A": []}

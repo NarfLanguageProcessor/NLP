@@ -1,1 +1,1 @@
-{"index": 314355, "D": "to grow in bulk, as by the absorption of moisture or the processes of growth.", "S": ["fashionable ", "groovy ", "ritzy "], "A": ["dull ", "inferior ", "poor ", "second-rate "]}
+{"index": 314355, "D": "to grow in bulk, as by the absorption of moisture or the processes of growth.", "S": ["fashionable", "groovy", "ritzy"], "A": ["dull", "inferior", "poor", "second-rate"]}

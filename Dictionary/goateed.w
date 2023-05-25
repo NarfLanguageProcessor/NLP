@@ -1,1 +1,1 @@
-{"index": 127204, "D": "a man's beard trimmed to a tuft or point on the chin.", "S": ["shaggy ", "unshaven "], "A": []}
+{"index": 127204, "D": "a man's beard trimmed to a tuft or point on the chin.", "S": ["shaggy", "unshaven"], "A": []}

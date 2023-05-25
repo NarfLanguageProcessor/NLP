@@ -1,1 +1,1 @@
-{"index": 247424, "D": "occurring or existing previously", "S": ["above-mentioned ", "preceding ", "previous "], "A": ["later ", "after ", "current ", "following ", "future ", "present ", "subsequent "]}
+{"index": 247424, "D": "occurring or existing previously", "S": ["above-mentioned", "preceding", "previous"], "A": ["later", "after", "current", "following", "future", "present", "subsequent"]}

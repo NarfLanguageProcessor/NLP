@@ -1,1 +1,1 @@
-{"index": 27581, "D": "banns. ", "S": ["boycott ", "censorship ", "embargo ", "injunction ", "prohibition ", "refusal ", "restriction "], "A": ["approval ", "sanction "]}
+{"index": 27581, "D": "banns. ", "S": ["boycott", "censorship", "embargo", "injunction", "prohibition", "refusal", "restriction"], "A": ["approval", "sanction"]}

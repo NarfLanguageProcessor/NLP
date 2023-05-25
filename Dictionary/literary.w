@@ -1,1 +1,1 @@
-{"index": 173580, "D": "pertaining to or of the nature of books and writings, especially those classed as literature", "S": ["classical ", "scholarly "], "A": ["illiterate "]}
+{"index": 173580, "D": "pertaining to or of the nature of books and writings, especially those classed as literature", "S": ["classical", "scholarly"], "A": ["illiterate"]}

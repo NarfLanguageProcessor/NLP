@@ -1,1 +1,0 @@
-{"index": 327845, "D": "a person who makes a transfer,  as of property.", "S": [], "A": []}

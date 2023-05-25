@@ -1,1 +1,1 @@
-{"index": 42170, "D": "to move slightly; begin to move", "S": ["bend "], "A": ["discourage ", "dissuade ", "fix ", "hinder ", "hold ", "keep ", "leave alone ", "prevent ", "remain ", "repress ", "stay ", "steady ", "stop ", "suppress "]}
+{"index": 42170, "D": "to move slightly; begin to move", "S": ["bend"], "A": ["discourage", "dissuade", "fix", "hinder", "hold", "keep", "leave alone", "prevent", "remain", "repress", "stay", "steady", "stop", "suppress"]}

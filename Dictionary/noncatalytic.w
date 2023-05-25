@@ -1,1 +1,0 @@
-{"index": 201827, "D": "the causing or accelerating of a chemical change by the addition of a catalyst. ", "S": [], "A": []}

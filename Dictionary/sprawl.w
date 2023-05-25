@@ -1,1 +1,1 @@
-{"index": 301204, "D": "to be stretched or spread out in an unnatural or ungraceful manner", "S": ["drape ", "flop ", "loll ", "lounge ", "ramble ", "recline ", "slouch ", "straggle "], "A": ["straighten ", "compress ", "stand "]}
+{"index": 301204, "D": "to be stretched or spread out in an unnatural or ungraceful manner", "S": ["drape", "flop", "loll", "lounge", "ramble", "recline", "slouch", "straggle"], "A": ["straighten", "compress", "stand"]}

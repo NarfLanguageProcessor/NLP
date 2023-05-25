@@ -1,0 +1,1 @@
+{"index": 4402, "D": "of or like epinephrine in effect.", "S": [], "A": []}

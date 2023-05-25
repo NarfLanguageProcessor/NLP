@@ -1,1 +1,1 @@
-{"index": 43576, "D": "a slaughterhouse.", "S": ["bloodbath ", "bloodletting ", "carnage "], "A": []}
+{"index": 43576, "D": "a slaughterhouse.", "S": ["bloodbath", "bloodletting", "carnage"], "A": []}

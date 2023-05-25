@@ -1,1 +1,1 @@
-{"index": 192406, "D": "a form of dramatic entertainment, comedic solo, or the like by a single speaker", "S": ["discourse ", "harangue ", "lecture ", "sermon ", "soliloquy ", "speech "], "A": ["quiet ", "silence "]}
+{"index": 192406, "D": "a form of dramatic entertainment, comedic solo, or the like by a single speaker", "S": ["discourse", "harangue", "lecture", "sermon", "soliloquy", "speech"], "A": ["quiet", "silence"]}

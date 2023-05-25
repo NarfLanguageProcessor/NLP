@@ -1,1 +1,1 @@
-{"index": 83258, "D": "a roundabout or circuitous way or course, especially one used temporarily when the main route is closed.", "S": ["deviation ", "diversion "], "A": []}
+{"index": 83258, "D": "a roundabout or circuitous way or course, especially one used temporarily when the main route is closed.", "S": ["deviation", "diversion"], "A": []}

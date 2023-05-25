@@ -1,1 +1,1 @@
-{"index": 210322, "D": "offensive to morality or decency; indecent; depraved", "S": ["suggestively "], "A": []}
+{"index": 210322, "D": "offensive to morality or decency; indecent; depraved", "S": ["suggestively"], "A": []}

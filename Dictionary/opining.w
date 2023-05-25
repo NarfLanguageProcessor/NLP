@@ -1,1 +1,1 @@
-{"index": 213550, "D": "to hold or express an opinion. ", "S": ["surmise "], "A": ["calculate ", "disbelieve ", "know ", "measure "]}
+{"index": 213550, "D": "to hold or express an opinion. ", "S": ["surmise"], "A": ["calculate", "disbelieve", "know", "measure"]}

@@ -1,1 +1,1 @@
-{"index": 243377, "D": "an exterior appendage to a building, forming a covered approach or vestibule to a doorway.", "S": [], "A": []}
+{"index": 243377, "D": [], "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 268844, "D": "to provide with proper or necessary skills, knowledge, credentials, etc.; make competent", "S": [], "A": []}

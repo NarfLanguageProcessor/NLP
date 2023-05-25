@@ -1,1 +1,1 @@
-{"index": 357087, "D": "to cause to change into vapor. ", "S": ["boil away ", "dry up ", "evaporate ", "volatilize "], "A": []}
+{"index": 357087, "D": "to cause to change into vapor. ", "S": ["boil away", "dry up", "evaporate", "volatilize"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 49447, "D": "pleasing and easily remembered", "S": ["haunting ", "memorable "], "A": ["boring ", "dull ", "ignorable "]}
+{"index": 49447, "D": "pleasing and easily remembered", "S": ["haunting", "memorable"], "A": ["boring", "dull", "ignorable"]}

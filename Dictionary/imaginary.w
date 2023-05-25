@@ -1,1 +1,1 @@
-{"index": 147587, "D": "existing only in the imagination  or fancy; not real; fancied", "S": ["abstract ", "fanciful ", "fantastic ", "fictional ", "hypothetical ", "imagined ", "theoretical ", "unreal ", "whimsical "], "A": ["factual ", "ordinary ", "proven ", "real ", "practical "]}
+{"index": 147587, "D": "existing only in the imagination  or fancy; not real; fancied", "S": ["abstract", "fanciful", "fantastic", "fictional", "hypothetical", "imagined", "theoretical", "unreal", "whimsical"], "A": ["factual", "ordinary", "proven", "real", "practical"]}

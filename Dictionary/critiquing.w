@@ -1,1 +1,1 @@
-{"index": 73510, "D": "an article or essay criticizing  a literary or other work; detailed evaluation; review.", "S": ["analyzing ", "criticizing ", "evaluating ", "examining ", "investigating ", "judging ", "outlining ", "studying ", "summarizing ", "surveying "], "A": []}
+{"index": 73510, "D": "an article or essay criticizing  a literary or other work; detailed evaluation; review.", "S": ["analyzing", "criticizing", "evaluating", "examining", "investigating", "judging", "outlining", "studying", "summarizing", "surveying"], "A": []}

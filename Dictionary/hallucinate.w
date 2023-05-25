@@ -1,1 +1,1 @@
-{"index": 132770, "D": "to have hallucinations. ", "S": ["daydream ", "fantasize ", "freak out "], "A": ["experience "]}
+{"index": 132770, "D": "to have hallucinations. ", "S": ["daydream", "fantasize", "freak out"], "A": ["experience"]}

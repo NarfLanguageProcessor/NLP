@@ -1,1 +1,1 @@
-{"index": 84066, "D": "serving to distinguish; distinctive.", "S": ["discriminating ", "marking "], "A": []}
+{"index": 84066, "D": "serving to distinguish; distinctive.", "S": ["discriminating", "marking"], "A": []}

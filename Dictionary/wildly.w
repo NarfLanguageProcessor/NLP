@@ -1,1 +1,1 @@
-{"index": 365718, "D": "living in a state of nature; not tamed or domesticated", "S": ["ferociously ", "fiercely ", "recklessly ", "violently "], "A": ["gently ", "mildly ", "quietly "]}
+{"index": 365718, "D": "living in a state of nature; not tamed or domesticated", "S": ["ferociously", "fiercely", "recklessly", "violently"], "A": ["gently", "mildly", "quietly"]}

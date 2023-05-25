@@ -1,1 +1,1 @@
-{"index": 236241, "D": "a structure built on posts extending from land out over water, used as a landing place for ships, an entertainment area, a strolling place, etc.; jetty.", "S": ["dam ", "dock ", "jetty ", "promenade ", "wharf "], "A": []}
+{"index": 236241, "D": "a structure built on posts extending from land out over water, used as a landing place for ships, an entertainment area, a strolling place, etc.; jetty.", "S": ["dam", "dock", "jetty", "promenade", "wharf"], "A": []}

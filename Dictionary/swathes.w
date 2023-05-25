@@ -1,1 +1,1 @@
-{"index": 314185, "D": "to wrap, bind, or swaddle with bands of some material; wrap up closely or fully.", "S": ["bandage ", "clothe ", "swaddle ", "wrap "], "A": ["uncover "]}
+{"index": 314185, "D": "to wrap, bind, or swaddle with bands of some material; wrap up closely or fully.", "S": ["bandage", "clothe", "swaddle", "wrap"], "A": ["uncover"]}

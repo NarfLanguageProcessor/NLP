@@ -1,1 +1,1 @@
-{"index": 51453, "D": "of, relating to, or characterized by ceremony;  formal; ritual", "S": ["liturgical ", "solemn ", "stately "], "A": ["unimpressive "]}
+{"index": 51453, "D": "of, relating to, or characterized by ceremony;  formal; ritual", "S": ["liturgical", "solemn", "stately"], "A": ["unimpressive"]}

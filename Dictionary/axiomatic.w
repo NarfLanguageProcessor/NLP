@@ -1,1 +1,1 @@
-{"index": 25132, "D": "pertaining to or of the nature of an axiom; self-evident; obvious. ", "S": ["aphoristic "], "A": ["misunderstood ", "questionable ", "uncertain "]}
+{"index": 25132, "D": "pertaining to or of the nature of an axiom; self-evident; obvious. ", "S": ["aphoristic"], "A": ["misunderstood", "questionable", "uncertain"]}

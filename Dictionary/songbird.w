@@ -1,1 +1,1 @@
-{"index": 297197, "D": "a bird  that sings.", "S": ["canary ", "lark ", "oscine ", "pipit ", "serin ", "vireo ", "wren "], "A": []}
+{"index": 297197, "D": "a bird  that sings.", "S": ["canary", "lark", "oscine", "pipit", "serin", "vireo", "wren"], "A": []}

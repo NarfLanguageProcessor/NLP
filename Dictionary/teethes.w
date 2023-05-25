@@ -1,1 +1,0 @@
-{"index": 317833, "D": "to grow teeth;  cut one's teeth. ", "S": [], "A": []}

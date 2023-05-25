@@ -1,1 +1,1 @@
-{"index": 157864, "D": "a male given name", "S": ["Keogh plan ", "Roth IRA ", "retirement plan ", "self-funded retirement plan ", "tax-free savings account "], "A": []}
+{"index": 157864, "D": "a male given name", "S": ["Keogh plan", "Roth IRA", "retirement plan", "self-funded retirement plan", "tax-free savings account"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 128842, "D": "speaking or expressed in a lofty style, often to the point of being pompous or bombastic.", "S": ["extravagantly ", "lengthily ", "longwindedly ", "oratorically ", "talkatively "], "A": []}
+{"index": 128842, "D": "speaking or expressed in a lofty style, often to the point of being pompous or bombastic.", "S": ["extravagantly", "lengthily", "longwindedly", "oratorically", "talkatively"], "A": []}

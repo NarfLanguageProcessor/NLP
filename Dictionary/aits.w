@@ -1,1 +1,1 @@
-{"index": 7062, "D": "a small island, especially a braid bar. ", "S": ["isle ", "islet "], "A": []}
+{"index": 7062, "D": "a small island, especially a braid bar. ", "S": ["isle", "islet"], "A": []}

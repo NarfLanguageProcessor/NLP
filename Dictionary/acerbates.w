@@ -1,1 +1,1 @@
-{"index": 1950, "D": "to make sour or bitter.", "S": ["aggravate ", "annoy ", "disturb ", "perturb ", "provoke "], "A": ["appease ", "calm ", "make happy ", "please ", "soothe "]}
+{"index": 1950, "D": "to make sour or bitter.", "S": ["aggravate", "annoy", "disturb", "perturb", "provoke"], "A": ["appease", "calm", "make happy", "please", "soothe"]}

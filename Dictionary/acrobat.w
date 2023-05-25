@@ -1,1 +1,1 @@
-{"index": 2875, "D": "a skilled performer of gymnastic feats, as walking on a tightrope or swinging on a trapeze.", "S": ["clown ", "dancer ", "gymnast ", "performer ", "tumbler "], "A": ["clod "]}
+{"index": 2875, "D": "a skilled performer of gymnastic feats, as walking on a tightrope or swinging on a trapeze.", "S": ["clown", "dancer", "gymnast", "performer", "tumbler"], "A": ["clod"]}

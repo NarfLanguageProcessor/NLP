@@ -1,1 +1,1 @@
-{"index": 86915, "D": "absence or deprivation of advantage or equality.", "S": ["detriment ", "harm ", "prejudice "], "A": ["advantage ", "benefit ", "blessing ", "favor ", "giving "]}
+{"index": 86915, "D": "absence or deprivation of advantage or equality.", "S": ["detriment", "harm", "prejudice"], "A": ["advantage", "benefit", "blessing", "favor", "giving"]}

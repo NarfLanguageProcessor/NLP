@@ -1,1 +1,1 @@
-{"index": 49462, "D": "a phrase that attracts or is meant to attract attention.", "S": ["jingle ", "slogan "], "A": []}
+{"index": 49462, "D": "a phrase that attracts or is meant to attract attention.", "S": ["jingle", "slogan"], "A": []}

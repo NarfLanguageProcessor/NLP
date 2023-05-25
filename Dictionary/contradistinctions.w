@@ -1,1 +1,1 @@
-{"index": 67623, "D": "distinction by opposition or contrast", "S": ["antithesis ", "contradiction ", "contrariety ", "contrariness ", "contrast ", "oppositeness ", "polarity "], "A": ["agreement "]}
+{"index": 67623, "D": "distinction by opposition or contrast", "S": ["antithesis", "contradiction", "contrariety", "contrariness", "contrast", "oppositeness", "polarity"], "A": ["agreement"]}

@@ -1,1 +1,1 @@
-{"index": 366022, "D": "the trachea of an air-breathing vertebrate.", "S": ["esophagus ", "larynx "], "A": []}
+{"index": 366022, "D": "the trachea of an air-breathing vertebrate.", "S": ["esophagus", "larynx"], "A": []}

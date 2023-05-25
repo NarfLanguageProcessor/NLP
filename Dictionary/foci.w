@@ -1,1 +1,1 @@
-{"index": 115678, "D": "a plural of focus. ", "S": ["focal point ", "spotlight ", "target "], "A": ["exterior ", "exteriority ", "outside ", "periphery ", "surface "]}
+{"index": 115678, "D": "a plural of focus. ", "S": ["focal point", "spotlight", "target"], "A": ["exterior", "exteriority", "outside", "periphery", "surface"]}

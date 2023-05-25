@@ -1,1 +1,1 @@
-{"index": 281725, "D": "a steep mass of detritus on the side of a mountain.", "S": ["rubble "], "A": []}
+{"index": 281725, "D": "a steep mass of detritus on the side of a mountain.", "S": ["rubble"], "A": []}

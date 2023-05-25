@@ -1,1 +1,1 @@
-{"index": 135485, "D": "pertaining to or having the form of a helix;  spiral.", "S": ["circling ", "coiled "], "A": ["straight ", "unwinding "]}
+{"index": 135485, "D": "pertaining to or having the form of a helix;  spiral.", "S": ["circling", "coiled"], "A": ["straight", "unwinding"]}

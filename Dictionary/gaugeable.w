@@ -1,1 +1,1 @@
-{"index": 122815, "D": "to determine the exact dimensions, capacity, quantity, or force of; measure.", "S": ["perceptible ", "quantitative ", "significant "], "A": ["imperceptible ", "insignificant ", "unmeasurable "]}
+{"index": 122815, "D": "to determine the exact dimensions, capacity, quantity, or force of; measure.", "S": ["perceptible", "quantitative", "significant"], "A": ["imperceptible", "insignificant", "unmeasurable"]}

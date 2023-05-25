@@ -1,1 +1,1 @@
-{"index": 297558, "D": "mute (def. 10). ", "S": ["damper ", "muffler ", "mute pedal ", "noise queller ", "silencer ", "sordine ", "sourdine "], "A": []}
+{"index": 297558, "D": "mute (def. 10). ", "S": ["damper", "muffler", "mute pedal", "noise queller", "silencer", "sordine", "sourdine"], "A": []}

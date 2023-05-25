@@ -1,0 +1,1 @@
+{"index": 30021, "D": "to deck  out; adorn, especially in a showy or gaudy manner.", "S": ["armed", "clothed", "dressed", "furnished", "rigged", "supplied"], "A": ["bare", "stripped", "unfurnished"]}

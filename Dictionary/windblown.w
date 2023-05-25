@@ -1,1 +1,1 @@
-{"index": 365912, "D": "blown  by the wind", "S": ["blasted ", "fanned ", "fluttered ", "puffed ", "wafted ", "whirled ", "whisked "], "A": []}
+{"index": 365912, "D": "blown  by the wind", "S": ["blasted", "fanned", "fluttered", "puffed", "wafted", "whirled", "whisked"], "A": []}

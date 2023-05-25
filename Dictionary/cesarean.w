@@ -1,1 +1,1 @@
-{"index": 51682, "D": "an operation by which a fetus is taken from the uterus by cutting through the walls of the abdomen and uterus.", "S": ["C-section ", "Cesarean section ", "abdominal delivery ", "caesarean ", "caesarian ", "surgical birth ", "surgical delivery "], "A": []}
+{"index": 51682, "D": "an operation by which a fetus is taken from the uterus by cutting through the walls of the abdomen and uterus.", "S": ["C-section", "Cesarean section", "abdominal delivery", "caesarean", "caesarian", "surgical birth", "surgical delivery"], "A": []}

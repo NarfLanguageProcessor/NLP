@@ -1,1 +1,1 @@
-{"index": 297682, "D": "(of sedimentary particles) uniform in size.", "S": ["going ", "mended ", "rebuilt ", "refitted "], "A": ["broken ", "in disrepair ", "unfixed "]}
+{"index": 297682, "D": "(of sedimentary particles) uniform in size.", "S": ["going", "mended", "rebuilt", "refitted"], "A": ["broken", "in disrepair", "unfixed"]}

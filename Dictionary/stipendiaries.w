@@ -1,1 +1,1 @@
-{"index": 304738, "D": "receiving a stipend;  performing services for regular pay.", "S": ["heir ", "recipient "], "A": ["giver "]}
+{"index": 304738, "D": "receiving a stipend;  performing services for regular pay.", "S": ["heir", "recipient"], "A": ["giver"]}

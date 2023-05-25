@@ -1,1 +1,1 @@
-{"index": 210742, "D": "of or relating to an occupation,  trade, or calling", "S": ["business ", "career ", "employment ", "job-related ", "professional ", "vocational ", "work "], "A": []}
+{"index": 210742, "D": "of or relating to an occupation,  trade, or calling", "S": ["business", "career", "employment", "job-related", "professional", "vocational", "work"], "A": []}

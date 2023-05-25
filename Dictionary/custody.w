@@ -1,1 +1,1 @@
-{"index": 75693, "D": "keeping; guardianship; care.", "S": ["care ", "guardianship ", "protection "], "A": ["destruction ", "neglect ", "waste "]}
+{"index": 75693, "D": "keeping; guardianship; care.", "S": ["care", "guardianship", "protection"], "A": ["destruction", "neglect", "waste"]}

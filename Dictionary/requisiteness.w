@@ -1,1 +1,1 @@
-{"index": 268880, "D": "required  or necessary for a particular purpose, position, etc.; indispensable", "S": ["competence ", "fairness ", "sufficiency "], "A": ["inadequacy ", "inadequateness ", "insufficiency "]}
+{"index": 268880, "D": "required  or necessary for a particular purpose, position, etc.; indispensable", "S": ["competence", "fairness", "sufficiency"], "A": ["inadequacy", "inadequateness", "insufficiency"]}

@@ -1,1 +1,1 @@
-{"index": 211675, "D": "something scoured off; filth; refuse.", "S": ["debris ", "rubbish ", "scrap ", "trash "], "A": ["possessions ", "sense "]}
+{"index": 211675, "D": "something scoured off; filth; refuse.", "S": ["debris", "rubbish", "scrap", "trash"], "A": ["possessions", "sense"]}

@@ -1,1 +1,1 @@
-{"index": 99344, "D": "pertaining to or of the nature of an encyclopedia;  relating to all branches of knowledge.", "S": ["exhaustive ", "extensive ", "thorough ", "vast ", "wide-ranging "], "A": ["limited ", "narrow "]}
+{"index": 99344, "D": "pertaining to or of the nature of an encyclopedia;  relating to all branches of knowledge.", "S": ["exhaustive", "extensive", "thorough", "vast", "wide-ranging"], "A": ["limited", "narrow"]}

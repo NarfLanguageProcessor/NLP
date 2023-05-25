@@ -1,1 +1,1 @@
-{"index": 13547, "D": "an act or instance of annihilating,  or of completely destroying or defeating someone or something", "S": ["decimation ", "demolition ", "destruction ", "elimination ", "eradication ", "extermination ", "extinction ", "liquidation "], "A": ["building ", "construction "]}
+{"index": 13547, "D": "an act or instance of annihilating,  or of completely destroying or defeating someone or something", "S": ["decimation", "demolition", "destruction", "elimination", "eradication", "extermination", "extinction", "liquidation"], "A": ["building", "construction"]}

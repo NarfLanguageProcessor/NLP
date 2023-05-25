@@ -1,1 +1,1 @@
-{"index": 260646, "D": "to speak or declaim extravagantly or violently; talk in a wild or vehement way; rave", "S": ["diatribe ", "harangue ", "oration ", "rhetoric ", "tirade "], "A": ["calm ", "quiet "]}
+{"index": 260646, "D": "to speak or declaim extravagantly or violently; talk in a wild or vehement way; rave", "S": ["diatribe", "harangue", "oration", "rhetoric", "tirade"], "A": ["calm", "quiet"]}

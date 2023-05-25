@@ -1,1 +1,1 @@
-{"index": 46058, "D": "a variety of rummy in which the main object is to meld sets of seven or more cards.", "S": ["poker ", "roulette "], "A": []}
+{"index": 46058, "D": "a variety of rummy in which the main object is to meld sets of seven or more cards.", "S": ["poker", "roulette"], "A": []}

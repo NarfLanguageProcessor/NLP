@@ -1,1 +1,1 @@
-{"index": 64915, "D": "a ticket, book, service, etc., provided free of charge to specially chosen recipients.", "S": ["ticket "], "A": ["prohibition ", "refusal "]}
+{"index": 64915, "D": "a ticket, book, service, etc., provided free of charge to specially chosen recipients.", "S": ["ticket"], "A": ["prohibition", "refusal"]}

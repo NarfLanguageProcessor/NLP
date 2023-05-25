@@ -1,1 +1,1 @@
-{"index": 101622, "D": "the internal parts of the trunk of an animal body.", "S": ["insides "], "A": []}
+{"index": 101622, "D": "the internal parts of the trunk of an animal body.", "S": ["insides"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 31121, "D": "to regard or portray as less  impressive or important than appearances indicate; depreciate; disparage.", "S": ["demanding "], "A": ["complimentary ", "laudatory ", "praising ", "trivial ", "uncritical ", "unimportant "]}
+{"index": 31121, "D": "to regard or portray as less  impressive or important than appearances indicate; depreciate; disparage.", "S": ["demanding"], "A": ["complimentary", "laudatory", "praising", "trivial", "uncritical", "unimportant"]}

@@ -1,1 +1,1 @@
-{"index": 114592, "D": "the act, manner, or power of flying.", "S": ["bound ", "dart ", "dash ", "drop out ", "dump ", "escape ", "flee ", "jump ", "leap ", "rush ", "scamper ", "scoot ", "skip ", "sprint ", "take off "], "A": ["face ", "meet ", "stay ", "remain ", "stop "]}
+{"index": 114592, "D": "the act, manner, or power of flying.", "S": ["bound", "dart", "dash", "drop out", "dump", "escape", "flee", "jump", "leap", "rush", "scamper", "scoot", "skip", "sprint", "take off"], "A": ["face", "meet", "stay", "remain", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 291058, "D": "easy to understand, deal with, use, etc.", "S": ["discreetness ", "humbleness ", "plainness ", "simplicity ", "unassumingness ", "unpretentiousness "], "A": []}
+{"index": 291058, "D": "easy to understand, deal with, use, etc.", "S": ["discreetness", "humbleness", "plainness", "simplicity", "unassumingness", "unpretentiousness"], "A": []}

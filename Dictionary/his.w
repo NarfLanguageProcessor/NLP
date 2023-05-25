@@ -1,1 +1,1 @@
-{"index": 141668, "D": "the possessive form of he1  (used as an attributive or predicative adjective)", "S": ["her ", "hir ", "its ", "my ", "our ", "their ", "vis ", "xyr ", "your ", "zir "], "A": []}
+{"index": 141668, "D": "the possessive form of he1  (used as an attributive or predicative adjective)", "S": ["her", "hir", "its", "my", "our", "their", "vis", "xyr", "your", "zir"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 299870, "D": "spray swept by a violent wind along the surface of the sea.", "S": ["foam ", "scum "], "A": []}
+{"index": 299870, "D": "spray swept by a violent wind along the surface of the sea.", "S": ["foam", "scum"], "A": []}

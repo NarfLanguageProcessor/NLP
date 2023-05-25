@@ -1,1 +1,1 @@
-{"index": 363765, "D": "a person who goes on a weekend  vacation.", "S": ["carry-on bag ", "duffle ", "small suitcase "], "A": []}
+{"index": 363765, "D": "a person who goes on a weekend  vacation.", "S": ["carry-on bag", "duffle", "small suitcase"], "A": []}

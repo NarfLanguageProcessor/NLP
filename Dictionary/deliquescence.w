@@ -1,1 +1,1 @@
-{"index": 80149, "D": "the act or process of deliquescing. ", "S": ["condensate "], "A": ["dryness "]}
+{"index": 80149, "D": "the act or process of deliquescing. ", "S": ["condensate"], "A": ["dryness"]}

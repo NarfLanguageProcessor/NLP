@@ -1,1 +1,1 @@
-{"index": 92464, "D": "of, relating to, or characteristic of the Athenian statesman Draco,  or his severe code of laws.", "S": ["cruel ", "drastic ", "heavy-handed ", "oppressive ", "severe ", "strict "], "A": ["easy ", "gentle ", "mild ", "permissive ", "temperate "]}
+{"index": 92464, "D": "of, relating to, or characteristic of the Athenian statesman Draco,  or his severe code of laws.", "S": ["cruel", "drastic", "heavy-handed", "oppressive", "severe", "strict"], "A": ["easy", "gentle", "mild", "permissive", "temperate"]}

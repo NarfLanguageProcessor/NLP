@@ -1,1 +1,1 @@
-{"index": 274250, "D": "a person who lives in a rented room;  lodger.", "S": ["diner ", "guest ", "patron ", "renter ", "visitor "], "A": ["host ", "hostess ", "landlord "]}
+{"index": 274250, "D": "a person who lives in a rented room;  lodger.", "S": ["diner", "guest", "patron", "renter", "visitor"], "A": ["host", "hostess", "landlord"]}

@@ -1,1 +1,1 @@
-{"index": 3276, "D": "a person who acts  in stage plays, motion pictures, television broadcasts, etc.", "S": ["list ", "troupe "], "A": ["catch ", "keeping ", "retention "]}
+{"index": 3276, "D": "a person who acts  in stage plays, motion pictures, television broadcasts, etc.", "S": ["list", "troupe"], "A": ["catch", "keeping", "retention"]}

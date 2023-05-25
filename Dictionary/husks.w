@@ -1,1 +1,1 @@
-{"index": 145365, "D": "the dry external covering of certain fruits or seeds, especially of an ear of corn.", "S": ["crust ", "debris ", "dregs ", "pod ", "refuse ", "remains ", "rubbish ", "shard ", "shell ", "trash "], "A": ["assets ", "possessions ", "property "]}
+{"index": 145365, "D": "the dry external covering of certain fruits or seeds, especially of an ear of corn.", "S": ["crust", "debris", "dregs", "pod", "refuse", "remains", "rubbish", "shard", "shell", "trash"], "A": ["assets", "possessions", "property"]}

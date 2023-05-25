@@ -1,1 +1,1 @@
-{"index": 153392, "D": "(not in technical use as a medical diagnosis) not sane;  not of sound mind; mentally deranged.", "S": ["ferociously ", "stupidly ", "wildly "], "A": []}
+{"index": 153392, "D": "(not in technical use as a medical diagnosis) not sane;  not of sound mind; mentally deranged.", "S": ["ferociously", "stupidly", "wildly"], "A": []}

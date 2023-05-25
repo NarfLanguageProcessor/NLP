@@ -1,1 +1,1 @@
-{"index": 364695, "D": "that with which to do something; means or supplies for the purpose or need, especially money", "S": ["assets ", "finances ", "financing ", "funds ", "means ", "money ", "resources ", "wealth "], "A": ["debt "]}
+{"index": 364695, "D": "that with which to do something; means or supplies for the purpose or need, especially money", "S": ["assets", "finances", "financing", "funds", "means", "money", "resources", "wealth"], "A": ["debt"]}

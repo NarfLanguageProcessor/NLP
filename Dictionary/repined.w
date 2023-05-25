@@ -1,1 +1,1 @@
-{"index": 268213, "D": "to be fretfully discontented; fret; complain.", "S": ["carp ", "complain ", "fret ", "gripe ", "grumble "], "A": ["be happy ", "compliment ", "dislike ", "hate ", "praise "]}
+{"index": 268213, "D": "to be fretfully discontented; fret; complain.", "S": ["carp", "complain", "fret", "gripe", "grumble"], "A": ["be happy", "compliment", "dislike", "hate", "praise"]}

@@ -1,1 +1,1 @@
-{"index": 32903, "D": "any potable liquid, especially one other than water, as tea, coffee, beer, or milk", "S": ["drink ", "liquor "], "A": ["food ", "victuals "]}
+{"index": 32903, "D": "any potable liquid, especially one other than water, as tea, coffee, beer, or milk", "S": ["drink", "liquor"], "A": ["food", "victuals"]}

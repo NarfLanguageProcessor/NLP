@@ -1,1 +1,1 @@
-{"index": 274884, "D": [], "S": ["circus ", "three-ring ", "white-top "], "A": []}
+{"index": 274884, "D": [], "S": ["circus", "three-ring", "white-top"], "A": []}

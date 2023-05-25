@@ -1,1 +1,1 @@
-{"index": 302430, "D": [], "S": ["abide ", "reside "], "A": ["depart ", "go ", "leave ", "turn away ", "turn out "]}
+{"index": 302430, "D": [], "S": ["abide", "reside"], "A": ["depart", "go", "leave", "turn away", "turn out"]}

@@ -1,1 +1,1 @@
-{"index": 96833, "D": "of advanced age; old", "S": ["agedness ", "aging ", "oldness ", "senectitude ", "senescence ", "seniority "], "A": []}
+{"index": 96833, "D": "of advanced age; old", "S": ["agedness", "aging", "oldness", "senectitude", "senescence", "seniority"], "A": []}

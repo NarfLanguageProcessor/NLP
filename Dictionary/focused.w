@@ -1,1 +1,1 @@
-{"index": 115688, "D": "a central point, as of attraction, attention, or activity", "S": ["intent ", "lost ", "musing ", "set "], "A": ["aboveboard ", "flighty ", "frivolous "]}
+{"index": 115688, "D": "a central point, as of attraction, attention, or activity", "S": ["intent", "lost", "musing", "set"], "A": ["aboveboard", "flighty", "frivolous"]}

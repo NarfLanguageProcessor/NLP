@@ -1,1 +1,1 @@
-{"index": 108932, "D": "the front part of the head, from the forehead to the chin.", "S": ["air ", "aspect ", "light ", "look ", "mask ", "surface ", "top "], "A": ["grin ", "hiding ", "reality ", "smile "]}
+{"index": 108932, "D": "the front part of the head, from the forehead to the chin.", "S": ["air", "aspect", "light", "look", "mask", "surface", "top"], "A": ["grin", "hiding", "reality", "smile"]}

@@ -1,1 +1,0 @@
-{"index": 361345, "D": "the Voodoo  religious rites and folk magic practices.", "S": ["fascination ", "illusion ", "wizardry "], "A": ["reality "]}

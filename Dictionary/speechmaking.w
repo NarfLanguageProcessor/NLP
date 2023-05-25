@@ -1,1 +1,1 @@
-{"index": 299001, "D": "a person who delivers speeches. ", "S": ["oratory "], "A": []}
+{"index": 299001, "D": "a person who delivers speeches. ", "S": ["oratory"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 273879, "D": "of or relating to a king, queen, or other sovereign", "S": ["lavishly "], "A": []}
+{"index": 273879, "D": "of or relating to a king, queen, or other sovereign", "S": ["lavishly"], "A": []}

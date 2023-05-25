@@ -1,1 +1,1 @@
-{"index": 18848, "D": "a person who shoots with a bow and arrow; bowman. ", "S": ["administrator ", "cleric ", "director ", "patriarch ", "pontiff ", "pope ", "prelate ", "priest "], "A": []}
+{"index": 18848, "D": "a person who shoots with a bow and arrow; bowman. ", "S": ["administrator", "cleric", "director", "patriarch", "pontiff", "pope", "prelate", "priest"], "A": []}

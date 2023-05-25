@@ -1,1 +1,1 @@
-{"index": 78849, "D": [], "S": ["abbreviated ", "brief ", "crisp ", "precise ", "shortened ", "terse "], "A": ["enduring ", "lasting ", "lengthy ", "long "]}
+{"index": 78849, "D": [], "S": ["abbreviated", "brief", "crisp", "precise", "shortened", "terse"], "A": ["enduring", "lasting", "lengthy", "long"]}

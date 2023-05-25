@@ -1,1 +1,1 @@
-{"index": 196194, "D": "to be obliged or bound to by an imperative requirement", "S": ["precondition ", "prerequisite ", "requisite "], "A": []}
+{"index": 196194, "D": "to be obliged or bound to by an imperative requirement", "S": ["precondition", "prerequisite", "requisite"], "A": []}

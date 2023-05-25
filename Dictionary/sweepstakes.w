@@ -1,1 +1,1 @@
-{"index": 314264, "D": "a race or other contest for which the prize consists of the stakes contributed by the various competitors.", "S": ["betting ", "chance ", "long shot ", "odds ", "pledge ", "risk ", "speculation ", "stake ", "venture ", "wager "], "A": ["certainty "]}
+{"index": 314264, "D": "a race or other contest for which the prize consists of the stakes contributed by the various competitors.", "S": ["betting", "chance", "long shot", "odds", "pledge", "risk", "speculation", "stake", "venture", "wager"], "A": ["certainty"]}

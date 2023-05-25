@@ -1,1 +1,1 @@
-{"index": 226934, "D": "to take or have a part or share along with others; participate (usually followed by in)", "S": ["bilateral ", "collective ", "reciprocal "], "A": ["detached ", "distinct ", "separate ", "unshared "]}
+{"index": 226934, "D": "to take or have a part or share along with others; participate (usually followed by in)", "S": ["bilateral", "collective", "reciprocal"], "A": ["detached", "distinct", "separate", "unshared"]}

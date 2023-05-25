@@ -1,1 +1,1 @@
-{"index": 365565, "D": "to exercise (power, authority, influence, etc.), as in ruling or dominating.", "S": ["apply ", "brandish ", "employ ", "exert ", "handle ", "maintain ", "manipulate ", "operate ", "possess ", "swing "], "A": ["ignore ", "misuse ", "neglect ", "cease ", "fail ", "idle "]}
+{"index": 365565, "D": "to exercise (power, authority, influence, etc.), as in ruling or dominating.", "S": ["apply", "brandish", "employ", "exert", "handle", "maintain", "manipulate", "operate", "possess", "swing"], "A": ["ignore", "misuse", "neglect", "cease", "fail", "idle"]}

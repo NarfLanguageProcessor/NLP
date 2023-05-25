@@ -1,1 +1,1 @@
-{"index": 319502, "D": "a tract of land, especially as considered with reference to its natural features, military advantages, etc.", "S": ["area ", "contour ", "field ", "ground ", "land ", "province ", "region ", "soil ", "territory ", "topography ", "turf "], "A": ["sky "]}
+{"index": 319502, "D": "a tract of land, especially as considered with reference to its natural features, military advantages, etc.", "S": ["area", "contour", "field", "ground", "land", "province", "region", "soil", "territory", "topography", "turf"], "A": ["sky"]}

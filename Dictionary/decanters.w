@@ -1,1 +1,1 @@
-{"index": 78019, "D": "a vessel, usually an ornamental glass bottle, for holding and serving wine, brandy, or the like.", "S": ["carafe ", "flask ", "jug "], "A": []}
+{"index": 78019, "D": "a vessel, usually an ornamental glass bottle, for holding and serving wine, brandy, or the like.", "S": ["carafe", "flask", "jug"], "A": []}

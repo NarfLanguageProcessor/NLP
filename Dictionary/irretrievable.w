@@ -1,1 +1,1 @@
-{"index": 158418, "D": "not capable of being retrieved;  irrecoverable; irreparable.", "S": ["despondent ", "forlorn ", "futile ", "sad ", "vain "], "A": ["cheerful ", "happy ", "hopeful ", "joyful "]}
+{"index": 158418, "D": "not capable of being retrieved;  irrecoverable; irreparable.", "S": ["despondent", "forlorn", "futile", "sad", "vain"], "A": ["cheerful", "happy", "hopeful", "joyful"]}

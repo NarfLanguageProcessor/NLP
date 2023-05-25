@@ -1,1 +1,1 @@
-{"index": 333162, "D": "two. ", "S": ["couple ", "double ", "pair ", "team "], "A": []}
+{"index": 333162, "D": "two. ", "S": ["couple", "double", "pair", "team"], "A": []}

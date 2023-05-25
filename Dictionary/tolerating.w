@@ -1,1 +1,1 @@
-{"index": 325261, "D": "to allow the existence, presence, practice, or act of without prohibition or hindrance; permit.", "S": ["indulgent ", "lenient "], "A": []}
+{"index": 325261, "D": "to allow the existence, presence, practice, or act of without prohibition or hindrance; permit.", "S": ["indulgent", "lenient"], "A": []}

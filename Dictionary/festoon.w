@@ -1,1 +1,1 @@
-{"index": 111705, "D": "a string or chain of flowers, foliage, ribbon, etc., suspended in a curve between two points.", "S": ["adorn ", "deck ", "drape ", "hang ", "swag ", "trim "], "A": []}
+{"index": 111705, "D": "a string or chain of flowers, foliage, ribbon, etc., suspended in a curve between two points.", "S": ["adorn", "deck", "drape", "hang", "swag", "trim"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 277359, "D": "favorable to or promoting health; healthful", "S": ["beneficial ", "good ", "healthful ", "healthy ", "hygienic ", "invigorating ", "salutary ", "sanitary ", "wholesome "], "A": ["insalubrious ", "unhealthy ", "unwholesome "]}
+{"index": 277359, "D": "favorable to or promoting health; healthful", "S": ["beneficial", "good", "healthful", "healthy", "hygienic", "invigorating", "salutary", "sanitary", "wholesome"], "A": ["insalubrious", "unhealthy", "unwholesome"]}

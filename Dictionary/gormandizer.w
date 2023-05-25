@@ -1,1 +1,1 @@
-{"index": 128157, "D": "to eat greedily or ravenously.", "S": ["gorger ", "gourmand ", "hog ", "pig ", "stuffer "], "A": []}
+{"index": 128157, "D": "to eat greedily or ravenously.", "S": ["gorger", "gourmand", "hog", "pig", "stuffer"], "A": []}

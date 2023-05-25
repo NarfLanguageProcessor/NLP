@@ -1,1 +1,1 @@
-{"index": 270453, "D": "a small purse or bag, originally of network but later of silk, rayon, etc.", "S": ["backpack ", "bag ", "evening bag ", "leather ", "pocketbook ", "purse "], "A": []}
+{"index": 270453, "D": "a small purse or bag, originally of network but later of silk, rayon, etc.", "S": ["backpack", "bag", "evening bag", "leather", "pocketbook", "purse"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 105606, "D": "the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt.", "S": ["inoffensive "], "A": []}
+{"index": 105606, "D": "the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt.", "S": ["inoffensive"], "A": []}

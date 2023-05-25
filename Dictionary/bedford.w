@@ -1,0 +1,1 @@
+{"index": 30062, "D": "English regent of France.", "S": [], "A": []}

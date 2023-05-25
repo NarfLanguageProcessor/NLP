@@ -1,1 +1,1 @@
-{"index": 35602, "D": "urinary bladder. ", "S": ["bag ", "blister ", "pocket ", "sac ", "vesicle "], "A": []}
+{"index": 35602, "D": "urinary bladder. ", "S": ["bag", "blister", "pocket", "sac", "vesicle"], "A": []}

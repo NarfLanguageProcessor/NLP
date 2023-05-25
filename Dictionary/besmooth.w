@@ -1,1 +1,1 @@
-{"index": 32412, "D": [], "S": ["belong ", "exist ", "prevail ", "remain ", "spread ", "stretch "], "A": []}
+{"index": 32412, "D": [], "S": ["belong", "exist", "prevail", "remain", "spread", "stretch"], "A": []}

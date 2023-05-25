@@ -1,1 +1,1 @@
-{"index": 188679, "D": "mistakenly applied;  used wrongly.", "S": ["blown ", "dissipated ", "idle ", "squandered "], "A": ["profitable "]}
+{"index": 188679, "D": "mistakenly applied;  used wrongly.", "S": ["blown", "dissipated", "idle", "squandered"], "A": ["profitable"]}

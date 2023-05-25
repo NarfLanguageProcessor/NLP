@@ -1,1 +1,1 @@
-{"index": 170862, "D": "a person, group, etc., who grants a lease. ", "S": ["landlady ", "owner "], "A": ["lessee "]}
+{"index": 170862, "D": "a person, group, etc., who grants a lease. ", "S": ["landlady", "owner"], "A": ["lessee"]}

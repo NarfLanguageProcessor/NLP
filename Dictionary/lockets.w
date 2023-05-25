@@ -1,1 +1,1 @@
-{"index": 174362, "D": "a small case for a miniature portrait, a lock of hair, or other keepsake, usually worn on a necklace.", "S": ["bracelet ", "cable "], "A": []}
+{"index": 174362, "D": "a small case for a miniature portrait, a lock of hair, or other keepsake, usually worn on a necklace.", "S": ["bracelet", "cable"], "A": []}

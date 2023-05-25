@@ -1,1 +1,1 @@
-{"index": 291785, "D": "threatening or portending evil, harm, or trouble; ominous", "S": ["dire ", "evil ", "malevolent ", "mischievous ", "ominous ", "perverse ", "threatening "], "A": ["auspicious ", "good ", "lucky ", "nice "]}
+{"index": 291785, "D": "threatening or portending evil, harm, or trouble; ominous", "S": ["dire", "evil", "malevolent", "mischievous", "ominous", "perverse", "threatening"], "A": ["auspicious", "good", "lucky", "nice"]}

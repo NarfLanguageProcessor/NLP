@@ -1,1 +1,1 @@
-{"index": 106057, "D": "tending or seeking to evade;  characterized by evasion", "S": ["ambiguous ", "cagey ", "deceptive ", "false ", "misleading ", "unclear ", "vague "], "A": ["clear ", "definite ", "honest ", "truthful "]}
+{"index": 106057, "D": "tending or seeking to evade;  characterized by evasion", "S": ["ambiguous", "cagey", "deceptive", "false", "misleading", "unclear", "vague"], "A": ["clear", "definite", "honest", "truthful"]}

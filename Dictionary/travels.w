@@ -1,1 +1,1 @@
-{"index": 328603, "D": "to go from one place to another, as by car, train, plane, or ship; take a trip; journey", "S": ["adventure ", "excursion ", "expedition ", "exploration ", "pilgrimage ", "quest ", "sojourn ", "trek "], "A": []}
+{"index": 328603, "D": "to go from one place to another, as by car, train, plane, or ship; take a trip; journey", "S": ["adventure", "excursion", "expedition", "exploration", "pilgrimage", "quest", "sojourn", "trek"], "A": []}

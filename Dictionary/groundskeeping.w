@@ -1,1 +1,1 @@
-{"index": 130334, "D": "a person who is responsible for the care and maintenance of a particular tract of land, as an estate, a park, or a cemetery.", "S": ["cultivation ", "landscaping ", "planting "], "A": []}
+{"index": 130334, "D": "a person who is responsible for the care and maintenance of a particular tract of land, as an estate, a park, or a cemetery.", "S": ["cultivation", "landscaping", "planting"], "A": []}

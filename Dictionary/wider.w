@@ -1,1 +1,1 @@
-{"index": 365519, "D": "having considerable or great extent from side to side; broad", "S": ["also ", "extra ", "further ", "higher ", "new ", "other "], "A": ["fewer ", "less "]}
+{"index": 365519, "D": "having considerable or great extent from side to side; broad", "S": ["also", "extra", "further", "higher", "new", "other"], "A": ["fewer", "less"]}

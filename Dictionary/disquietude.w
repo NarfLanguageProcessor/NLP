@@ -1,1 +1,1 @@
-{"index": 89277, "D": "the state of disquiet; uneasiness.", "S": ["agitation ", "anxiety ", "chemistry ", "disquiet ", "dysphoria ", "excitement ", "ferment ", "restlessness ", "uneasiness ", "unrest "], "A": ["calm ", "calmness ", "contentedness ", "ease ", "happiness ", "peace "]}
+{"index": 89277, "D": "the state of disquiet; uneasiness.", "S": ["agitation", "anxiety", "chemistry", "disquiet", "dysphoria", "excitement", "ferment", "restlessness", "uneasiness", "unrest"], "A": ["calm", "calmness", "contentedness", "ease", "happiness", "peace"]}

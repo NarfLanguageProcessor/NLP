@@ -1,1 +1,1 @@
-{"index": 52605, "D": "a hat.", "S": ["cap ", "capote ", "coronet ", "cover ", "headdress ", "headgear ", "hood "], "A": []}
+{"index": 52605, "D": "a hat.", "S": ["cap", "capote", "coronet", "cover", "headdress", "headgear", "hood"], "A": []}

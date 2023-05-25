@@ -1,1 +1,1 @@
-{"index": 308290, "D": "existing in the mind; belonging to the thinking subject rather than to the object of thought (opposed to objective).", "S": ["abstract ", "biased ", "idiosyncratic ", "illusory ", "instinctive ", "intuitive ", "personal "], "A": ["meditated ", "real "]}
+{"index": 308290, "D": "existing in the mind; belonging to the thinking subject rather than to the object of thought (opposed to objective).", "S": ["abstract", "biased", "idiosyncratic", "illusory", "instinctive", "intuitive", "personal"], "A": ["meditated", "real"]}

@@ -1,1 +1,1 @@
-{"index": 265817, "D": "full of regret;  sorrowful because of what is lost, gone, or done.", "S": ["apologetic ", "ashamed ", "contrite ", "remorseful ", "sorrowful "], "A": ["defiant "]}
+{"index": 265817, "D": "full of regret;  sorrowful because of what is lost, gone, or done.", "S": ["apologetic", "ashamed", "contrite", "remorseful", "sorrowful"], "A": ["defiant"]}

@@ -1,1 +1,1 @@
-{"index": 366444, "D": "a wiseacre or smart aleck.", "S": ["know-it-all ", "malapert ", "smart alec ", "smart-ass ", "smarty ", "smarty-pants ", "wise guy ", "wiseass ", "witling "], "A": []}
+{"index": 366444, "D": "a wiseacre or smart aleck.", "S": ["know-it-all", "malapert", "smart alec", "smart-ass", "smarty", "smarty-pants", "wise guy", "wiseass", "witling"], "A": []}

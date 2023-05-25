@@ -1,1 +1,1 @@
-{"index": 127259, "D": "any small marine or freshwater fish of the family Gobiidae, often having the pelvic fins united to form a suctorial disk.", "S": ["exceed ", "flow on ", "make one's way ", "move onward ", "pass ", "proceed "], "A": []}
+{"index": 127259, "D": "any small marine or freshwater fish of the family Gobiidae, often having the pelvic fins united to form a suctorial disk.", "S": ["exceed", "flow on", "make one's way", "move onward", "pass", "proceed"], "A": []}

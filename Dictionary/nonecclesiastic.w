@@ -1,1 +1,0 @@
-{"index": 203331, "D": "a member of the clergy or other person in religious orders.", "S": [], "A": []}

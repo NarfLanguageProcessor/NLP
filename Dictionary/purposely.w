@@ -1,1 +1,1 @@
-{"index": 257053, "D": "intentionally; deliberately", "S": ["consciously ", "deliberately ", "explicitly ", "expressly ", "knowingly ", "willfully "], "A": ["impulsively ", "spontaneously ", "unintentionally "]}
+{"index": 257053, "D": "intentionally; deliberately", "S": ["consciously", "deliberately", "explicitly", "expressly", "knowingly", "willfully"], "A": ["impulsively", "spontaneously", "unintentionally"]}

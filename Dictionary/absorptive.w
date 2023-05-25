@@ -1,1 +1,1 @@
-{"index": 1043, "D": "able or tending to absorb; absorbent. ", "S": ["assimilative ", "bibulous ", "penetrable ", "permeable ", "spongy "], "A": []}
+{"index": 1043, "D": "able or tending to absorb; absorbent. ", "S": ["assimilative", "bibulous", "penetrable", "permeable", "spongy"], "A": []}

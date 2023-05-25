@@ -1,1 +1,1 @@
-{"index": 64567, "D": "to put together (documents, selections, or other materials) in one book or work.", "S": ["concerted ", "corporate ", "cumulative ", "mutual ", "shared ", "unified "], "A": ["separate ", "unshared ", "disjoint "]}
+{"index": 64567, "D": "to put together (documents, selections, or other materials) in one book or work.", "S": ["concerted", "corporate", "cumulative", "mutual", "shared", "unified"], "A": ["separate", "unshared", "disjoint"]}

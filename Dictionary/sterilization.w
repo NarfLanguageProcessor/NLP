@@ -1,1 +1,1 @@
-{"index": 304036, "D": "the act of sterilizing. ", "S": ["castration ", "infertility "], "A": []}
+{"index": 304036, "D": "the act of sterilizing. ", "S": ["castration", "infertility"], "A": []}

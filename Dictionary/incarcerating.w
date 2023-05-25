@@ -1,1 +1,1 @@
-{"index": 149691, "D": "to imprison; confine. ", "S": ["confine ", "detain ", "imprison ", "jail ", "lock up "], "A": ["free ", "let go ", "liberate ", "release ", "cancel ", "cease ", "stop "]}
+{"index": 149691, "D": "to imprison; confine. ", "S": ["confine", "detain", "imprison", "jail", "lock up"], "A": ["free", "let go", "liberate", "release", "cancel", "cease", "stop"]}

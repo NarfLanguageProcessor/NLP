@@ -1,1 +1,1 @@
-{"index": 333391, "D": [], "S": ["bright ", "glistening ", "glittering ", "glowing ", "shining ", "sparkling "], "A": ["dark ", "dull ", "gloomy ", "unhappy "]}
+{"index": 333391, "D": [], "S": ["bright", "glistening", "glittering", "glowing", "shining", "sparkling"], "A": ["dark", "dull", "gloomy", "unhappy"]}

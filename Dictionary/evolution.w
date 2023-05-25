@@ -1,1 +1,1 @@
-{"index": 106312, "D": "any process of formation or growth; development", "S": ["change ", "enlargement ", "expansion ", "growth ", "progression ", "transformation "], "A": ["decrease ", "lessening ", "reduction ", "shrinkage ", "stagnation "]}
+{"index": 106312, "D": "any process of formation or growth; development", "S": ["change", "enlargement", "expansion", "growth", "progression", "transformation"], "A": ["decrease", "lessening", "reduction", "shrinkage", "stagnation"]}

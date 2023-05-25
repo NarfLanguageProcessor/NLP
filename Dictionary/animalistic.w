@@ -1,1 +1,1 @@
-{"index": 13179, "D": "of, relating to, or resembling an animal or animals; brutish", "S": ["animal ", "bodily ", "carnal ", "erotic ", "gross ", "lascivious ", "lewd ", "lustful ", "profane ", "sensual ", "venereal ", "voluptuous "], "A": ["immaterial ", "mentally ", "religious ", "spiritual "]}
+{"index": 13179, "D": "of, relating to, or resembling an animal or animals; brutish", "S": ["animal", "bodily", "carnal", "erotic", "gross", "lascivious", "lewd", "lustful", "profane", "sensual", "venereal", "voluptuous"], "A": ["immaterial", "mentally", "religious", "spiritual"]}

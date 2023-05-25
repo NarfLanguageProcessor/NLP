@@ -1,1 +1,1 @@
-{"index": 132552, "D": "a shafted weapon with an axlike cutting blade, beak, and apical spike, used especially in the 15th and 16th centuries.", "S": ["bayonet "], "A": []}
+{"index": 132552, "D": "a shafted weapon with an axlike cutting blade, beak, and apical spike, used especially in the 15th and 16th centuries.", "S": ["bayonet"], "A": []}

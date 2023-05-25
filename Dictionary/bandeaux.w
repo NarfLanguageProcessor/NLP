@@ -1,1 +1,1 @@
-{"index": 27289, "D": "a headband, especially one worn about the forehead.", "S": ["line ", "ring ", "tape "], "A": ["whole "]}
+{"index": 27289, "D": "a headband, especially one worn about the forehead.", "S": ["line", "ring", "tape"], "A": ["whole"]}

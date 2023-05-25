@@ -1,1 +1,1 @@
-{"index": 75076, "D": "the amount a cup  can hold.", "S": ["bowl ", "drink ", "mug "], "A": []}
+{"index": 75076, "D": "the amount a cup  can hold.", "S": ["bowl", "drink", "mug"], "A": []}

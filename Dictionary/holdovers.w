@@ -1,1 +1,1 @@
-{"index": 142411, "D": "a person or thing remaining from a former period.", "S": ["relic ", "remainder ", "surplus "], "A": []}
+{"index": 142411, "D": "a person or thing remaining from a former period.", "S": ["relic", "remainder", "surplus"], "A": []}

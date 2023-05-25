@@ -1,1 +1,1 @@
-{"index": 185148, "D": "pertaining to meteorology  or to phenomena of the atmosphere or weather.", "S": ["climatic "], "A": ["down-to-earth ", "grounded "]}
+{"index": 185148, "D": "pertaining to meteorology  or to phenomena of the atmosphere or weather.", "S": ["climatic"], "A": ["down-to-earth", "grounded"]}

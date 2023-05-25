@@ -1,1 +1,1 @@
-{"index": 331766, "D": "a variant of czar. ", "S": ["ruler "], "A": []}
+{"index": 331766, "D": "a variant of czar. ", "S": ["ruler"], "A": []}

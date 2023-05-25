@@ -1,1 +1,1 @@
-{"index": 316086, "D": "a ballroom dance of Latin American origin, danced by couples, and having many varied steps, figures, and poses.", "S": ["disco ", "samba ", "waltz "], "A": []}
+{"index": 316086, "D": "a ballroom dance of Latin American origin, danced by couples, and having many varied steps, figures, and poses.", "S": ["disco", "samba", "waltz"], "A": []}

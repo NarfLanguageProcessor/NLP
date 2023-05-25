@@ -1,1 +1,1 @@
-{"index": 180709, "D": "a covering for all or part of the face, worn to conceal one's identity.", "S": ["dull ", "hollow ", "immobile ", "impassive ", "lifeless ", "meaningless ", "vacant "], "A": ["lively ", "meaningful ", "sensitive "]}
+{"index": 180709, "D": "a covering for all or part of the face, worn to conceal one's identity.", "S": ["dull", "hollow", "immobile", "impassive", "lifeless", "meaningless", "vacant"], "A": ["lively", "meaningful", "sensitive"]}

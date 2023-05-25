@@ -1,1 +1,1 @@
-{"index": 364454, "D": "a stand with shelves for bric-a-brac, books, etc.", "S": ["along with others ", "and on and on ", "and others ", "and so forth ", "and so on ", "and the like ", "and the rest ", "blah-blah-blah ", "whatever "], "A": []}
+{"index": 364454, "D": "a stand with shelves for bric-a-brac, books, etc.", "S": ["along with others", "and on and on", "and others", "and so forth", "and so on", "and the like", "and the rest", "blah-blah-blah", "whatever"], "A": []}

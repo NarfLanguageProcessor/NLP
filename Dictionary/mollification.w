@@ -1,1 +1,1 @@
-{"index": 191543, "D": "to soften in feeling or temper, as a person; pacify; appease. ", "S": ["conciliation ", "easing ", "moderation "], "A": ["difference ", "disagreement "]}
+{"index": 191543, "D": "to soften in feeling or temper, as a person; pacify; appease. ", "S": ["conciliation", "easing", "moderation"], "A": ["difference", "disagreement"]}

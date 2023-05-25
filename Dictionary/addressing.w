@@ -1,1 +1,1 @@
-{"index": 3601, "D": "a speech or written statement, usually formal, directed to a particular group of persons", "S": ["apology ", "appreciation ", "confession ", "gratitude ", "reaction ", "response "], "A": ["criticism ", "question ", "disapproval ", "request "]}
+{"index": 3601, "D": "a speech or written statement, usually formal, directed to a particular group of persons", "S": ["apology", "appreciation", "confession", "gratitude", "reaction", "response"], "A": ["criticism", "question", "disapproval", "request"]}

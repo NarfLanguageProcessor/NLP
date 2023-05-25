@@ -1,1 +1,1 @@
-{"index": 21330, "D": "at a slope;  aslant; slantingly; diagonally.", "S": ["oblique "], "A": ["straight "]}
+{"index": 21330, "D": "at a slope;  aslant; slantingly; diagonally.", "S": ["oblique"], "A": ["straight"]}

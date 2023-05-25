@@ -1,1 +1,1 @@
-{"index": 179555, "D": "mantel (def. 2). ", "S": ["mantelpiece "], "A": []}
+{"index": 179555, "D": "mantel (def. 2). ", "S": ["mantelpiece"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98409, "D": "master of ceremonies. ", "S": ["preside "], "A": ["cease ", "follow ", "halt ", "idle ", "mismanage ", "neglect ", "obey ", "refrain ", "stop "]}
+{"index": 98409, "D": "master of ceremonies. ", "S": ["preside"], "A": ["cease", "follow", "halt", "idle", "mismanage", "neglect", "obey", "refrain", "stop"]}

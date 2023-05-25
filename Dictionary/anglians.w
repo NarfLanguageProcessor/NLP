@@ -1,1 +1,1 @@
-{"index": 12878, "D": "of or relating to the Angles or to East Anglia. ", "S": ["Anglian ", "OE ", "early English "], "A": []}
+{"index": 12878, "D": "of or relating to the Angles or to East Anglia. ", "S": ["Anglian", "OE", "early English"], "A": []}

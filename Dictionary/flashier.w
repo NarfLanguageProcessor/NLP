@@ -1,1 +1,1 @@
-{"index": 114026, "D": "sparkling or brilliant, especially in a superficial way or for the moment", "S": ["garish ", "gaudy ", "glittering ", "glittery ", "jazzy ", "ostentatious ", "showy ", "snazzy ", "tacky "], "A": ["drab ", "modest ", "plain ", "simple ", "tasteful "]}
+{"index": 114026, "D": "sparkling or brilliant, especially in a superficial way or for the moment", "S": ["garish", "gaudy", "glittering", "glittery", "jazzy", "ostentatious", "showy", "snazzy", "tacky"], "A": ["drab", "modest", "plain", "simple", "tasteful"]}

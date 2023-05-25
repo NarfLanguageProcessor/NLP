@@ -1,1 +1,1 @@
-{"index": 342529, "D": "not seen or known beforehand; unanticipated", "S": ["abrupt ", "startling ", "sudden ", "unanticipated ", "unexpected "], "A": ["expected "]}
+{"index": 342529, "D": "not seen or known beforehand; unanticipated", "S": ["abrupt", "startling", "sudden", "unanticipated", "unexpected"], "A": ["expected"]}

@@ -1,1 +1,1 @@
-{"index": 225011, "D": "the art or technique of conveying emotions, actions, feelings, etc., by gestures without speech.", "S": ["ape ", "look like ", "mirror ", "resemble ", "simulate "], "A": ["direct ", "fail ", "halt ", "idle ", "prevent ", "stop "]}
+{"index": 225011, "D": "the art or technique of conveying emotions, actions, feelings, etc., by gestures without speech.", "S": ["ape", "look like", "mirror", "resemble", "simulate"], "A": ["direct", "fail", "halt", "idle", "prevent", "stop"]}

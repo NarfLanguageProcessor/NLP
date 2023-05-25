@@ -1,1 +1,1 @@
-{"index": 130869, "D": "slime or oozy dirt", "S": ["gunk ", "muck ", "sludge "], "A": []}
+{"index": 130869, "D": "slime or oozy dirt", "S": ["gunk", "muck", "sludge"], "A": []}

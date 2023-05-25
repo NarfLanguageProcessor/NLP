@@ -1,1 +1,1 @@
-{"index": 288882, "D": [], "S": ["bank ", "beach ", "border ", "coast ", "riverbank ", "sand ", "seaboard ", "seashore ", "waterfront "], "A": ["center ", "interior ", "middle "]}
+{"index": 288882, "D": [], "S": ["bank", "beach", "border", "coast", "riverbank", "sand", "seaboard", "seashore", "waterfront"], "A": ["center", "interior", "middle"]}

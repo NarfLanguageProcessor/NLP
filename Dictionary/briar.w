@@ -1,1 +1,1 @@
-{"index": 40547, "D": "brier1. ", "S": ["accent ", "circle ", "cut ", "halo ", "knob ", "notch ", "ring ", "sticker ", "washer ", "whetstone "], "A": []}
+{"index": 40547, "D": "brier1. ", "S": ["accent", "circle", "cut", "halo", "knob", "notch", "ring", "sticker", "washer", "whetstone"], "A": []}

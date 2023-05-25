@@ -1,1 +1,1 @@
-{"index": 30314, "D": "of or like beef. ", "S": ["beef ", "clout ", "energy ", "flesh ", "kick ", "meat ", "might ", "moxie ", "muscle ", "muscularity ", "power ", "punch ", "robustness ", "sinews ", "sock ", "steam ", "vigor "], "A": ["idleness ", "impotence ", "powerlessness "]}
+{"index": 30314, "D": "of or like beef. ", "S": ["beef", "clout", "energy", "flesh", "kick", "meat", "might", "moxie", "muscle", "muscularity", "power", "punch", "robustness", "sinews", "sock", "steam", "vigor"], "A": ["idleness", "impotence", "powerlessness"]}

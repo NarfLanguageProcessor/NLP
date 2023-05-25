@@ -1,1 +1,1 @@
-{"index": 113034, "D": "a strikebreaker.", "S": ["talk "], "A": ["be quiet "]}
+{"index": 113034, "D": "a strikebreaker.", "S": ["talk"], "A": ["be quiet"]}

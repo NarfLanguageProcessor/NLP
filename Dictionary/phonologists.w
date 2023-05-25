@@ -1,1 +1,1 @@
-{"index": 234747, "D": "a specialist in phonology. ", "S": ["linguist ", "wordsmith "], "A": []}
+{"index": 234747, "D": "a specialist in phonology. ", "S": ["linguist", "wordsmith"], "A": []}

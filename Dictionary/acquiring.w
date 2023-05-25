@@ -1,1 +1,1 @@
-{"index": 2746, "D": "to come into possession or ownership of; get as one's own", "S": ["clearing ", "gaining ", "getting ", "inheriting ", "making ", "netting ", "obtaining ", "receiving "], "A": []}
+{"index": 2746, "D": "to come into possession or ownership of; get as one's own", "S": ["clearing", "gaining", "getting", "inheriting", "making", "netting", "obtaining", "receiving"], "A": []}

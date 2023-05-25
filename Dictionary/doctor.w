@@ -1,1 +1,1 @@
-{"index": 90646, "D": "a person licensed to practice medicine, as a physician, surgeon, dentist, or veterinarian.", "S": ["expert ", "physician ", "professor ", "scientist ", "specialist ", "surgeon "], "A": ["patient "]}
+{"index": 90646, "D": "a person licensed to practice medicine, as a physician, surgeon, dentist, or veterinarian.", "S": ["expert", "physician", "professor", "scientist", "specialist", "surgeon"], "A": ["patient"]}

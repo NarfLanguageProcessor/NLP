@@ -1,1 +1,1 @@
-{"index": 78211, "D": "a decennium.", "S": ["decade ", "decagon ", "decapod ", "decennium "], "A": []}
+{"index": 78211, "D": "a decennium.", "S": ["decade", "decagon", "decapod", "decennium"], "A": []}

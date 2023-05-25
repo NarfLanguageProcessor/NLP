@@ -1,1 +1,1 @@
-{"index": 336700, "D": "thirty years of unchallenged power", "S": ["candidly ", "openly ", "voluntarily ", "willingly "], "A": ["bound ", "limited "]}
+{"index": 336700, "D": "thirty years of unchallenged power", "S": ["candidly", "openly", "voluntarily", "willingly"], "A": ["bound", "limited"]}

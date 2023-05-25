@@ -1,1 +1,1 @@
-{"index": 40377, "D": "the lower, rear part of the trunk of the body; buttocks. ", "S": ["attire ", "bundle up ", "cloak ", "disguise ", "do up ", "drape ", "dress ", "dress up ", "equip ", "fit ", "swaddle ", "swathe "], "A": ["disrobe ", "open ", "reveal ", "uncover ", "unclothe "]}
+{"index": 40377, "D": "the lower, rear part of the trunk of the body; buttocks. ", "S": ["attire", "bundle up", "cloak", "disguise", "do up", "drape", "dress", "dress up", "equip", "fit", "swaddle", "swathe"], "A": ["disrobe", "open", "reveal", "uncover", "unclothe"]}

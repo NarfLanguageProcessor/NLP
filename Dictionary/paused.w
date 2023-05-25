@@ -1,1 +1,1 @@
-{"index": 228165, "D": "a temporary stop or rest, especially in speech or action", "S": ["hesitate ", "interrupt ", "shake ", "waver "], "A": ["carry on ", "continue ", "do ", "go ", "keep on ", "restart ", "rise "]}
+{"index": 228165, "D": "a temporary stop or rest, especially in speech or action", "S": ["hesitate", "interrupt", "shake", "waver"], "A": ["carry on", "continue", "do", "go", "keep on", "restart", "rise"]}

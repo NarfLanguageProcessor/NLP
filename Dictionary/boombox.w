@@ -1,1 +1,1 @@
-{"index": 38153, "D": [], "S": ["CD player ", "audio system ", "ghetto blaster ", "ghetto box ", "portable audio system ", "portable music machine ", "portable radio ", "radio ", "stereo ", "tape player "], "A": []}
+{"index": 38153, "D": [], "S": ["CD player", "audio system", "ghetto blaster", "ghetto box", "portable audio system", "portable music machine", "portable radio", "radio", "stereo", "tape player"], "A": []}

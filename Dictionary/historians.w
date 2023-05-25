@@ -1,1 +1,1 @@
-{"index": 141869, "D": "an expert in history; authority on history.", "S": ["professor ", "teacher ", "writer "], "A": ["pupil ", "student "]}
+{"index": 141869, "D": "an expert in history; authority on history.", "S": ["professor", "teacher", "writer"], "A": ["pupil", "student"]}

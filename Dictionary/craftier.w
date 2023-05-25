@@ -1,1 +1,1 @@
-{"index": 71896, "D": "skillful in underhand or evil schemes; cunning; deceitful; sly.", "S": ["astute ", "cagey ", "canny ", "devious ", "insidious ", "shrewd ", "slick ", "sly ", "wily "], "A": ["honest ", "open ", "straightforward "]}
+{"index": 71896, "D": "skillful in underhand or evil schemes; cunning; deceitful; sly.", "S": ["astute", "cagey", "canny", "devious", "insidious", "shrewd", "slick", "sly", "wily"], "A": ["honest", "open", "straightforward"]}

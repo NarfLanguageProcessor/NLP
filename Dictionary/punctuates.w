@@ -1,1 +1,1 @@
-{"index": 256601, "D": "to mark or divide (something written) with punctuation  marks in order to make the meaning clear.", "S": ["interrupt ", "intersperse ", "pepper ", "sprinkle ", "underline "], "A": ["collect ", "gather ", "agree ", "attach ", "combine ", "join ", "unite "]}
+{"index": 256601, "D": "to mark or divide (something written) with punctuation  marks in order to make the meaning clear.", "S": ["interrupt", "intersperse", "pepper", "sprinkle", "underline"], "A": ["collect", "gather", "agree", "attach", "combine", "join", "unite"]}

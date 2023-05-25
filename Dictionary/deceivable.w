@@ -1,1 +1,1 @@
-{"index": 78150, "D": "capable of being deceived;  gullible.", "S": ["flexible ", "soft "], "A": ["rigid ", "stern ", "unyielding "]}
+{"index": 78150, "D": "capable of being deceived;  gullible.", "S": ["flexible", "soft"], "A": ["rigid", "stern", "unyielding"]}

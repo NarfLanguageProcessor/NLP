@@ -1,1 +1,1 @@
-{"index": 268937, "D": "a screen or a decorated part of the wall behind an altar in a church.", "S": ["shrine "], "A": []}
+{"index": 268937, "D": "a screen or a decorated part of the wall behind an altar in a church.", "S": ["shrine"], "A": []}

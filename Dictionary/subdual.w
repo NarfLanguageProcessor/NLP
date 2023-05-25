@@ -1,1 +1,1 @@
-{"index": 307821, "D": "an act or instance of subduing. ", "S": ["annexation ", "invasion ", "occupation ", "rout ", "subjugation ", "takeover "], "A": ["surrender ", "failure ", "forfeit ", "loss "]}
+{"index": 307821, "D": "an act or instance of subduing. ", "S": ["annexation", "invasion", "occupation", "rout", "subjugation", "takeover"], "A": ["surrender", "failure", "forfeit", "loss"]}

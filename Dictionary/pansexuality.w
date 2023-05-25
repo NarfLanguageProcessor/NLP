@@ -1,1 +1,0 @@
-{"index": 224826, "D": "expressing sexuality in all its forms, or involving sexual activity with people of any gender or with people regardless of their gender.", "S": [], "A": []}

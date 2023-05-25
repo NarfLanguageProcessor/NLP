@@ -1,1 +1,1 @@
-{"index": 227253, "D": "fairly; moderately", "S": ["acceptably ", "adequately ", "okay ", "tolerably ", "unobjectionably ", "well enough "], "A": ["unsatisfactorily "]}
+{"index": 227253, "D": "fairly; moderately", "S": ["acceptably", "adequately", "okay", "tolerably", "unobjectionably", "well enough"], "A": ["unsatisfactorily"]}

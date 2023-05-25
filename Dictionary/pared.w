@@ -1,1 +1,0 @@
-{"index": 226330, "D": "to cut off the outer coating, layer, or part of.", "S": ["peeled "], "A": ["healed ", "healthy "]}

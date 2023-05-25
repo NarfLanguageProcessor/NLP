@@ -1,1 +1,1 @@
-{"index": 179390, "D": "having qualities traditionally ascribed to men,  as strength or bravery.", "S": ["boldness ", "courage ", "manfulness ", "manhood ", "strength ", "virility "], "A": ["cowardice ", "fear ", "weakness "]}
+{"index": 179390, "D": "having qualities traditionally ascribed to men,  as strength or bravery.", "S": ["boldness", "courage", "manfulness", "manhood", "strength", "virility"], "A": ["cowardice", "fear", "weakness"]}

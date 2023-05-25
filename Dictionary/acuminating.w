@@ -1,1 +1,1 @@
-{"index": 3349, "D": "pointed; tapering to a point.", "S": ["edged ", "fine ", "tapering "], "A": []}
+{"index": 3349, "D": "pointed; tapering to a point.", "S": ["edged", "fine", "tapering"], "A": []}

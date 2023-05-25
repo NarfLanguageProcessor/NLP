@@ -1,1 +1,1 @@
-{"index": 79785, "D": "making divine; deifying. ", "S": ["deifying ", "godlike ", "godly ", "heavenly ", "holy ", "religious ", "reverent ", "sacred ", "spiritual "], "A": []}
+{"index": 79785, "D": "making divine; deifying. ", "S": ["deifying", "godlike", "godly", "heavenly", "holy", "religious", "reverent", "sacred", "spiritual"], "A": []}

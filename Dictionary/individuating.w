@@ -1,1 +1,1 @@
-{"index": 151191, "D": "to form into an individual  or distinct entity.", "S": ["define ", "describe ", "identify ", "indicate ", "mark ", "outline ", "portray ", "represent ", "symbolize "], "A": ["confuse ", "mix up "]}
+{"index": 151191, "D": "to form into an individual  or distinct entity.", "S": ["define", "describe", "identify", "indicate", "mark", "outline", "portray", "represent", "symbolize"], "A": ["confuse", "mix up"]}

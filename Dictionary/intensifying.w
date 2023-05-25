@@ -1,1 +1,1 @@
-{"index": 154377, "D": "to make intense  or more intense.", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}
+{"index": 154377, "D": "to make intense  or more intense.", "S": ["aggregate", "increasing"], "A": ["decreasing", "subtracting"]}

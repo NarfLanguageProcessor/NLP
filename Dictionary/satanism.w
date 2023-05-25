@@ -1,1 +1,1 @@
-{"index": 278654, "D": "Compare Luciferianism. ", "S": ["witchcraft "], "A": []}
+{"index": 278654, "D": "Compare Luciferianism. ", "S": ["witchcraft"], "A": []}

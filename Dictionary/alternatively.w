@@ -1,1 +1,1 @@
-{"index": 9493, "D": "as another choice or option", "S": ["rather "], "A": []}
+{"index": 9493, "D": "as another choice or option", "S": ["rather"], "A": []}

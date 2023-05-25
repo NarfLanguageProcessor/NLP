@@ -1,1 +1,1 @@
-{"index": 330169, "D": "a small ornament, piece of jewelry, etc., usually of little value.", "S": ["apparel ", "regalia "], "A": ["rags "]}
+{"index": 330169, "D": "a small ornament, piece of jewelry, etc., usually of little value.", "S": ["apparel", "regalia"], "A": ["rags"]}

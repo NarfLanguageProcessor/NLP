@@ -1,1 +1,1 @@
-{"index": 340714, "D": "to reverse the doing of; cause to be as if never done", "S": ["loosen ", "unlock ", "unravel "], "A": ["button ", "fasten "]}
+{"index": 340714, "D": "to reverse the doing of; cause to be as if never done", "S": ["loosen", "unlock", "unravel"], "A": ["button", "fasten"]}

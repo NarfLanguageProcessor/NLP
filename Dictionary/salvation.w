@@ -1,1 +1,1 @@
-{"index": 277420, "D": "the act of saving or protecting from harm, risk, loss, destruction, etc.", "S": ["deliverance ", "emancipation ", "liberation ", "pardon ", "redemption ", "restoration "], "A": ["destruction "]}
+{"index": 277420, "D": "the act of saving or protecting from harm, risk, loss, destruction, etc.", "S": ["deliverance", "emancipation", "liberation", "pardon", "redemption", "restoration"], "A": ["destruction"]}

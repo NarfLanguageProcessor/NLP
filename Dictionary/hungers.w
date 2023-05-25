@@ -1,1 +1,1 @@
-{"index": 145151, "D": "a compelling need or desire for food.", "S": ["craving ", "desire ", "famine ", "greed ", "longing ", "lust ", "starvation ", "yearning "], "A": ["disgust ", "dislike ", "distaste ", "hate ", "hatred ", "fill ", "fullness "]}
+{"index": 145151, "D": "a compelling need or desire for food.", "S": ["craving", "desire", "famine", "greed", "longing", "lust", "starvation", "yearning"], "A": ["disgust", "dislike", "distaste", "hate", "hatred", "fill", "fullness"]}

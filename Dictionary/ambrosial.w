@@ -1,1 +1,1 @@
-{"index": 10116, "D": "exceptionally pleasing to taste or smell; especially delicious or fragrant.", "S": ["delicate ", "fragrant ", "heavenly ", "luscious "], "A": []}
+{"index": 10116, "D": "exceptionally pleasing to taste or smell; especially delicious or fragrant.", "S": ["delicate", "fragrant", "heavenly", "luscious"], "A": []}

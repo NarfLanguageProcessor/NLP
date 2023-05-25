@@ -1,1 +1,1 @@
-{"index": 75727, "D": "duty on imports or exports", "S": ["imposts ", "tariffs ", "tax "], "A": []}
+{"index": 75727, "D": "duty on imports or exports", "S": ["imposts", "tariffs", "tax"], "A": []}

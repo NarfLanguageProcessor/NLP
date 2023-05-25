@@ -1,1 +1,1 @@
-{"index": 167497, "D": "located on the side  of a lake", "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakefront ", "lakeshore ", "ledge ", "levee ", "oceanfront ", "reef ", "riverside ", "seaboard ", "seafront ", "shore ", "strand ", "waterfront "], "A": []}
+{"index": 167497, "D": "located on the side  of a lake", "S": ["beach", "cay", "cliff", "coast", "edge", "embankment", "lakefront", "lakeshore", "ledge", "levee", "oceanfront", "reef", "riverside", "seaboard", "seafront", "shore", "strand", "waterfront"], "A": []}

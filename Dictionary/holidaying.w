@@ -1,1 +1,1 @@
-{"index": 142440, "D": "a day fixed by law or custom on which ordinary business is suspended in commemoration of some event or in honor of some person.", "S": ["cruise ", "explore ", "swing ", "travel "], "A": []}
+{"index": 142440, "D": "a day fixed by law or custom on which ordinary business is suspended in commemoration of some event or in honor of some person.", "S": ["cruise", "explore", "swing", "travel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 100282, "D": "to grant a franchise to; admit to citizenship, especially to the right of voting.", "S": ["independence ", "liberation "], "A": ["hold ", "imprisonment ", "restraint "]}
+{"index": 100282, "D": "to grant a franchise to; admit to citizenship, especially to the right of voting.", "S": ["independence", "liberation"], "A": ["hold", "imprisonment", "restraint"]}

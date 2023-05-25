@@ -1,1 +1,1 @@
-{"index": 53152, "D": "to converse in a familiar or informal manner.", "S": ["chatter ", "go on "], "A": ["be quiet "]}
+{"index": 53152, "D": "to converse in a familiar or informal manner.", "S": ["chatter", "go on"], "A": ["be quiet"]}

@@ -1,1 +1,1 @@
-{"index": 78765, "D": "diminishing; decreasing.", "S": ["contraction ", "cutback ", "decline ", "discount ", "downturn ", "loss ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "rise ", "markup "]}
+{"index": 78765, "D": "diminishing; decreasing.", "S": ["contraction", "cutback", "decline", "discount", "downturn", "loss", "reduction", "shrinkage"], "A": ["enlargement", "increase", "rise", "markup"]}

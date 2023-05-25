@@ -1,1 +1,1 @@
-{"index": 74198, "D": "wretchedly inadequate; miserable; lousy", "S": ["miserable ", "rotten ", "second-rate ", "shabby "], "A": ["good ", "nice ", "superior "]}
+{"index": 74198, "D": "wretchedly inadequate; miserable; lousy", "S": ["miserable", "rotten", "second-rate", "shabby"], "A": ["good", "nice", "superior"]}

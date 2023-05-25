@@ -1,1 +1,1 @@
-{"index": 60564, "D": "English poet.", "S": ["cleavage ", "crater ", "crevasse ", "fissure ", "gorge ", "ravine ", "rift ", "schism ", "void "], "A": ["closing ", "closure ", "remembrance ", "solid "]}
+{"index": 60564, "D": "English poet.", "S": ["cleavage", "crater", "crevasse", "fissure", "gorge", "ravine", "rift", "schism", "void"], "A": ["closing", "closure", "remembrance", "solid"]}

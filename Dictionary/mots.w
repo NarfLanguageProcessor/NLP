@@ -1,1 +1,1 @@
-{"index": 194103, "D": "a pithy or witty remark; bon mot. ", "S": ["gibe ", "wisecrack "], "A": []}
+{"index": 194103, "D": "a pithy or witty remark; bon mot. ", "S": ["gibe", "wisecrack"], "A": []}

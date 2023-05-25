@@ -1,1 +1,1 @@
-{"index": 225851, "D": "a distortion of memory in which fact and fantasy are confused.", "S": ["FMS ", "false memory ", "misremembrance ", "retrospective falsification "], "A": []}
+{"index": 225851, "D": "a distortion of memory in which fact and fantasy are confused.", "S": ["FMS", "false memory", "misremembrance", "retrospective falsification"], "A": []}

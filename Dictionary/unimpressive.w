@@ -1,1 +1,1 @@
-{"index": 344371, "D": "an unimpressive performance", "S": ["mediocre ", "prosaic ", "so-so ", "unremarkable "], "A": ["exceptional "]}
+{"index": 344371, "D": "an unimpressive performance", "S": ["mediocre", "prosaic", "so-so", "unremarkable"], "A": ["exceptional"]}

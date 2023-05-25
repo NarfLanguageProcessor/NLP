@@ -1,1 +1,1 @@
-{"index": 335400, "D": "not certified or confirmed; not attested", "S": ["nameless ", "undisclosed ", "unidentified ", "unnamed ", "unsigned "], "A": ["known ", "named "]}
+{"index": 335400, "D": "not certified or confirmed; not attested", "S": ["nameless", "undisclosed", "unidentified", "unnamed", "unsigned"], "A": ["known", "named"]}

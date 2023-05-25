@@ -1,1 +1,1 @@
-{"index": 122068, "D": "to confuse unintentionally or ignorantly; jumble", "S": ["misinterpret ", "misquote "], "A": ["clear up ", "explain ", "leave alone ", "order ", "organize ", "purify ", "straighten "]}
+{"index": 122068, "D": "to confuse unintentionally or ignorantly; jumble", "S": ["misinterpret", "misquote"], "A": ["clear up", "explain", "leave alone", "order", "organize", "purify", "straighten"]}

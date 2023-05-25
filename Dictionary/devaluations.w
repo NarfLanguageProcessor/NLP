@@ -1,1 +1,1 @@
-{"index": 83442, "D": "an official lowering of the exchange value of a country's currency relative to gold or other currencies.", "S": ["decline ", "decrease ", "reduction ", "weakening "], "A": ["enlargement ", "increase "]}
+{"index": 83442, "D": "an official lowering of the exchange value of a country's currency relative to gold or other currencies.", "S": ["decline", "decrease", "reduction", "weakening"], "A": ["enlargement", "increase"]}

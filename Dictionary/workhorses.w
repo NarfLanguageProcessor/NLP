@@ -1,1 +1,1 @@
-{"index": 367501, "D": "a horse  used for plowing, hauling, and other heavy labor, as distinguished from a riding horse,  racehorse, etc.", "S": ["factotum ", "grind ", "laborer ", "menial ", "peon ", "plodder ", "servant ", "toiler ", "workaholic ", "worker "], "A": ["idler ", "lazy person "]}
+{"index": 367501, "D": "a horse  used for plowing, hauling, and other heavy labor, as distinguished from a riding horse,  racehorse, etc.", "S": ["factotum", "grind", "laborer", "menial", "peon", "plodder", "servant", "toiler", "workaholic", "worker"], "A": ["idler", "lazy person"]}

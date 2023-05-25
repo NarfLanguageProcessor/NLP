@@ -1,0 +1,1 @@
+{"index": 4069, "D": "arranged or fitted properly", "S": ["cooked", "corrected", "modified", "transformed", "updated"], "A": ["unqualified"]}

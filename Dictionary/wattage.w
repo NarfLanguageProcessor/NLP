@@ -1,1 +1,1 @@
-{"index": 363271, "D": "power, as measured in watts. ", "S": ["dynamism ", "electricity ", "heat ", "potential ", "service ", "strength "], "A": ["lack ", "peace ", "question "]}
+{"index": 363271, "D": "power, as measured in watts. ", "S": ["dynamism", "electricity", "heat", "potential", "service", "strength"], "A": ["lack", "peace", "question"]}

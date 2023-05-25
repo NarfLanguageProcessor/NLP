@@ -1,1 +1,1 @@
-{"index": 236772, "D": "covered with hair, especially soft hair; furry. ", "S": ["bristliness ", "downiness ", "fluffiness ", "hirsuteness ", "pubescence "], "A": []}
+{"index": 236772, "D": "covered with hair, especially soft hair; furry. ", "S": ["bristliness", "downiness", "fluffiness", "hirsuteness", "pubescence"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 334428, "D": "to welcome or salute with shouts or sounds of joy and approval; applaud", "S": ["anonymous ", "neglected ", "overlooked ", "unacknowledged ", "unrecognized "], "A": []}
+{"index": 334428, "D": "to welcome or salute with shouts or sounds of joy and approval; applaud", "S": ["anonymous", "neglected", "overlooked", "unacknowledged", "unrecognized"], "A": []}

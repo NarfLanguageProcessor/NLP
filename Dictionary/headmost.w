@@ -1,1 +1,1 @@
-{"index": 134668, "D": "most advanced; foremost.", "S": ["early "], "A": ["last ", "ending ", "extra ", "final ", "following ", "second "]}
+{"index": 134668, "D": "most advanced; foremost.", "S": ["early"], "A": ["last", "ending", "extra", "final", "following", "second"]}

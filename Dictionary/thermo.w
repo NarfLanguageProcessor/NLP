@@ -1,1 +1,1 @@
-{"index": 321363, "D": "a combining form meaning \u201cheat,\u201d \u201chot,\u201d used in the formation of compound words", "S": ["flask ", "water bottle "], "A": []}
+{"index": 321363, "D": "a combining form meaning \u201cheat,\u201d \u201chot,\u201d used in the formation of compound words", "S": ["flask", "water bottle"], "A": []}

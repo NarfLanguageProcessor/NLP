@@ -1,1 +1,1 @@
-{"index": 227175, "D": "a step or series of steps in ballet.", "S": ["old man ", "papa ", "parent "], "A": []}
+{"index": 227175, "D": "a step or series of steps in ballet.", "S": ["old man", "papa", "parent"], "A": []}

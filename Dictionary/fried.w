@@ -1,1 +1,1 @@
-{"index": 118941, "D": "cooked in a pan or on a griddle over direct heat, usually in fat or oil.", "S": ["browned ", "sauteed "], "A": []}
+{"index": 118941, "D": "cooked in a pan or on a griddle over direct heat, usually in fat or oil.", "S": ["browned", "sauteed"], "A": []}

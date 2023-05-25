@@ -1,1 +1,1 @@
-{"index": 55313, "D": "an act or instance of choosing;  selection", "S": ["alternative ", "decision ", "distinction ", "election ", "favorite ", "finding ", "judgment ", "opportunity ", "option ", "pick ", "preference ", "variety ", "vote "], "A": ["hate ", "indecision ", "rejection "]}
+{"index": 55313, "D": "an act or instance of choosing;  selection", "S": ["alternative", "decision", "distinction", "election", "favorite", "finding", "judgment", "opportunity", "option", "pick", "preference", "variety", "vote"], "A": ["hate", "indecision", "rejection"]}

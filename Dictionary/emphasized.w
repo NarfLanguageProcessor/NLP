@@ -1,1 +1,1 @@
-{"index": 98750, "D": "made more visible, more important, etc.; stressed", "S": ["accentuate ", "affirm ", "assert ", "highlight ", "indicate ", "maintain ", "point out ", "reiterate ", "repeat ", "underline ", "underscore "], "A": ["deny ", "lose ", "mumble "]}
+{"index": 98750, "D": "made more visible, more important, etc.; stressed", "S": ["accentuate", "affirm", "assert", "highlight", "indicate", "maintain", "point out", "reiterate", "repeat", "underline", "underscore"], "A": ["deny", "lose", "mumble"]}

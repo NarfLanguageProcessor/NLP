@@ -1,1 +1,1 @@
-{"index": 233470, "D": "(used as an exclamation to express disgust, exhaustion, surprise, impatience, relief, etc.)", "S": ["dear me ", "gee whiz ", "gesundheit ", "golly ", "good gracious ", "goodness gracious ", "gosh ", "gracious sakes ", "oh dear ", "well "], "A": []}
+{"index": 233470, "D": "(used as an exclamation to express disgust, exhaustion, surprise, impatience, relief, etc.)", "S": ["dear me", "gee whiz", "gesundheit", "golly", "good gracious", "goodness gracious", "gosh", "gracious sakes", "oh dear", "well"], "A": []}

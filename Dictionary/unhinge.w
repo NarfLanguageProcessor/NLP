@@ -1,1 +1,1 @@
-{"index": 343737, "D": "to remove (a door or the like) from hinges. ", "S": ["fluster ", "unbalance "], "A": ["attach ", "combine ", "connect ", "couple ", "fasten ", "hitch ", "hook ", "join ", "link ", "unite "]}
+{"index": 343737, "D": "to remove (a door or the like) from hinges. ", "S": ["fluster", "unbalance"], "A": ["attach", "combine", "connect", "couple", "fasten", "hitch", "hook", "join", "link", "unite"]}

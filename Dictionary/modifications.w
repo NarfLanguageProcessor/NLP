@@ -1,1 +1,1 @@
-{"index": 191141, "D": "an act or instance of modifying.", "S": ["adjustment ", "alteration ", "conversion "], "A": []}
+{"index": 191141, "D": "an act or instance of modifying.", "S": ["adjustment", "alteration", "conversion"], "A": []}

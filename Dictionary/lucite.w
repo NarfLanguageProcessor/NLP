@@ -1,1 +1,0 @@
-{"index": 175835, "D": "a transparent or translucent plastic, any of a class of methyl methacrylate ester polymers.", "S": [], "A": []}

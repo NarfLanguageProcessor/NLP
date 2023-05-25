@@ -1,1 +1,1 @@
-{"index": 53896, "D": "a celestial being. Genesis 3", "S": ["baby ", "seraph "], "A": []}
+{"index": 53896, "D": "a celestial being. Genesis 3", "S": ["baby", "seraph"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 174809, "D": "to recline or lean in a relaxed, lazy, or indolent manner; lounge", "S": ["drifting ", "loafing ", "resting "], "A": ["active "]}
+{"index": 174809, "D": "to recline or lean in a relaxed, lazy, or indolent manner; lounge", "S": ["drifting", "loafing", "resting"], "A": ["active"]}

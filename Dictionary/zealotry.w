@@ -1,1 +1,1 @@
-{"index": 368947, "D": "undue or excessive zeal; fanaticism.", "S": ["fanaticism ", "jingoism ", "nationalism "], "A": []}
+{"index": 368947, "D": "undue or excessive zeal; fanaticism.", "S": ["fanaticism", "jingoism", "nationalism"], "A": []}

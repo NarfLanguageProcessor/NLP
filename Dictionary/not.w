@@ -1,1 +1,1 @@
-{"index": 208798, "D": "(used to express negation, denial, refusal, or prohibition)", "S": ["no more ", "not at all ", "not either "], "A": []}
+{"index": 208798, "D": "(used to express negation, denial, refusal, or prohibition)", "S": ["no more", "not at all", "not either"], "A": []}

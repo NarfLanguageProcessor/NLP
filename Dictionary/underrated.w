@@ -1,1 +1,1 @@
-{"index": 339661, "D": "rated or evaluated too low; underestimated or undervalued", "S": ["underestimate ", "underprice ", "undervalue "], "A": ["overestimate ", "increase ", "overrate ", "praise ", "raise "]}
+{"index": 339661, "D": "rated or evaluated too low; underestimated or undervalued", "S": ["underestimate", "underprice", "undervalue"], "A": ["overestimate", "increase", "overrate", "praise", "raise"]}

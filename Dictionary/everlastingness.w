@@ -1,1 +1,1 @@
-{"index": 106182, "D": "lasting  forever; eternal", "S": ["afterlife ", "ceaselessness ", "endlessness ", "eternity ", "hereafter ", "permanence ", "perpetuation ", "perpetuity ", "timelessness "], "A": []}
+{"index": 106182, "D": "lasting  forever; eternal", "S": ["afterlife", "ceaselessness", "endlessness", "eternity", "hereafter", "permanence", "perpetuation", "perpetuity", "timelessness"], "A": []}

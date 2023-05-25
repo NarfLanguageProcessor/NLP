@@ -1,1 +1,0 @@
-{"index": 170830, "D": "any of six possible colors given to the monad, or individual soul, by its karma and being lighter or darker according to the proportion of good or evil included in the karma.", "S": [], "A": []}

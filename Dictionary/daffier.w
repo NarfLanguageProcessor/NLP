@@ -1,1 +1,1 @@
-{"index": 76158, "D": "silly; weak-minded; crazy.", "S": ["clownish ", "crackers ", "daft ", "demented ", "deranged ", "dotty ", "foolish ", "goofy loony ", "nuts ", "nutty "], "A": []}
+{"index": 76158, "D": "silly; weak-minded; crazy.", "S": ["clownish", "crackers", "daft", "demented", "deranged", "dotty", "foolish", "goofy loony", "nuts", "nutty"], "A": []}

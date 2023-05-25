@@ -1,1 +1,1 @@
-{"index": 75562, "D": "a continuously bending line, without angles.", "S": ["arched ", "crooked ", "curvaceous ", "elliptical ", "rounded ", "serpentine ", "twisted ", "twisting "], "A": ["straight "]}
+{"index": 75562, "D": "a continuously bending line, without angles.", "S": ["arched", "crooked", "curvaceous", "elliptical", "rounded", "serpentine", "twisted", "twisting"], "A": ["straight"]}

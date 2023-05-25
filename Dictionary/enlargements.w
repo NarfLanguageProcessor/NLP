@@ -1,1 +1,1 @@
-{"index": 100647, "D": "an act of enlarging;  increase, expansion, or amplification.", "S": ["augmentation ", "growth "], "A": ["decrease ", "compression ", "contraction ", "shortening "]}
+{"index": 100647, "D": "an act of enlarging;  increase, expansion, or amplification.", "S": ["augmentation", "growth"], "A": ["decrease", "compression", "contraction", "shortening"]}

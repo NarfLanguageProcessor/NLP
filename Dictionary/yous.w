@@ -1,1 +1,1 @@
-{"index": 157762, "D": "plural of you. ", "S": ["they ", "we "], "A": []}
+{"index": 157762, "D": "plural of you. ", "S": ["they", "we"], "A": []}

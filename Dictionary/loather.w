@@ -1,1 +1,1 @@
-{"index": 174136, "D": "unwilling; reluctant; disinclined; averse", "S": ["afraid ", "hesitant ", "reluctant ", "unwilling "], "A": ["eager ", "ready ", "willing "]}
+{"index": 174136, "D": "unwilling; reluctant; disinclined; averse", "S": ["afraid", "hesitant", "reluctant", "unwilling"], "A": ["eager", "ready", "willing"]}

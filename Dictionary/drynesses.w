@@ -1,1 +1,1 @@
-{"index": 93117, "D": "free from moisture or excess moisture; not moist; not wet", "S": ["dehydration ", "drought "], "A": ["wetness "]}
+{"index": 93117, "D": "free from moisture or excess moisture; not moist; not wet", "S": ["dehydration", "drought"], "A": ["wetness"]}

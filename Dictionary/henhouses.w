@@ -1,1 +1,1 @@
-{"index": 136577, "D": "a shelter for poultry.", "S": ["birdhouse "], "A": []}
+{"index": 136577, "D": "a shelter for poultry.", "S": ["birdhouse"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 224844, "D": "universal wisdom or knowledge.", "S": ["all-knowing ", "all-seeing "], "A": ["stupid ", "unknowing "]}

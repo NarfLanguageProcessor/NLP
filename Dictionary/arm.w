@@ -1,1 +1,1 @@
-{"index": 19863, "D": "the upper limb of the human body, especially the part extending from the shoulder to the wrist.", "S": ["branch ", "rod ", "wing "], "A": ["leg "]}
+{"index": 19863, "D": "the upper limb of the human body, especially the part extending from the shoulder to the wrist.", "S": ["branch", "rod", "wing"], "A": ["leg"]}

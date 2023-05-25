@@ -1,1 +1,1 @@
-{"index": 133336, "D": "shamefaced; guilty", "S": ["ashamed ", "browbeaten ", "conscience-stricken ", "cowering ", "defeated ", "downcast ", "guilty ", "intimidated ", "sheepish ", "wretched "], "A": []}
+{"index": 133336, "D": "shamefaced; guilty", "S": ["ashamed", "browbeaten", "conscience-stricken", "cowering", "defeated", "downcast", "guilty", "intimidated", "sheepish", "wretched"], "A": []}

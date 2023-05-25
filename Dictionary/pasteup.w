@@ -1,1 +1,1 @@
-{"index": 227417, "D": "mechanical (def. 14). ", "S": ["amalgam ", "amalgamation ", "blend ", "combo ", "commixture ", "complex ", "compost ", "compound ", "conglomerate ", "fusion ", "intermixture ", "medley ", "mix ", "stew ", "synthesis ", "union "], "A": ["division ", "separation "]}
+{"index": 227417, "D": "mechanical (def. 14). ", "S": ["amalgam", "amalgamation", "blend", "combo", "commixture", "complex", "compost", "compound", "conglomerate", "fusion", "intermixture", "medley", "mix", "stew", "synthesis", "union"], "A": ["division", "separation"]}

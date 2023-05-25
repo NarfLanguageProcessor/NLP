@@ -1,1 +1,1 @@
-{"index": 87274, "D": "to perceive by the sight or some other sense or by the intellect; see, recognize, or apprehend", "S": ["attended ", "checked ", "detected ", "noticed ", "realized ", "recognized "], "A": ["abandoned ", "desecrated ", "forgotten ", "unnoticed ", "unperceived ", "unseen "]}
+{"index": 87274, "D": "to perceive by the sight or some other sense or by the intellect; see, recognize, or apprehend", "S": ["attended", "checked", "detected", "noticed", "realized", "recognized"], "A": ["abandoned", "desecrated", "forgotten", "unnoticed", "unperceived", "unseen"]}

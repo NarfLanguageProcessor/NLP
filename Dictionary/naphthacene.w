@@ -1,1 +1,0 @@
-{"index": 196827, "D": "an explosive solid compound, C18H12, derived from anthracene and coal tar", "S": [], "A": []}

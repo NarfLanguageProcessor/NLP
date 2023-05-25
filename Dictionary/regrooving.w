@@ -1,1 +1,0 @@
-{"index": 265841, "D": "a long, narrow cut or indentation in a surface, as the cut in a board to receive the tongue of another board (tongue-and-groove joint ), a furrow, or a natural indentation on an organism.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25889, "D": "a seat at the rear.", "S": ["lesser ", "secondary "], "A": ["superior ", "chief ", "important "]}
+{"index": 25889, "D": "a seat at the rear.", "S": ["lesser", "secondary"], "A": ["superior", "chief", "important"]}

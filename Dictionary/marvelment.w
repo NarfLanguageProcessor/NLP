@@ -1,1 +1,1 @@
-{"index": 180580, "D": "something that causes wonder, admiration, or astonishment; a wonderful thing; a wonder or prodigy", "S": ["amazing thing ", "extraordinary year ", "lollapalooza ", "nine days' wonder ", "notable year ", "remarkable year ", "wonderful thing ", "wonderment "], "A": []}
+{"index": 180580, "D": "something that causes wonder, admiration, or astonishment; a wonderful thing; a wonder or prodigy", "S": ["amazing thing", "extraordinary year", "lollapalooza", "nine days' wonder", "notable year", "remarkable year", "wonderful thing", "wonderment"], "A": []}

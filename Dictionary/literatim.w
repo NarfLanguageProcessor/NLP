@@ -1,1 +1,1 @@
-{"index": 173592, "D": "letter-for-letter; literally. ", "S": ["accurately ", "direct ", "directly ", "literally ", "precisely ", "sic ", "to the letter ", "word-for-word "], "A": ["different "]}
+{"index": 173592, "D": "letter-for-letter; literally. ", "S": ["accurately", "direct", "directly", "literally", "precisely", "sic", "to the letter", "word-for-word"], "A": ["different"]}

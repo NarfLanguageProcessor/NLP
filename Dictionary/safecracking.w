@@ -1,1 +1,1 @@
-{"index": 276554, "D": "a person who breaks open safes  to rob them.", "S": ["break in ", "crime ", "heist ", "larceny ", "robbery ", "theft "], "A": []}
+{"index": 276554, "D": "a person who breaks open safes  to rob them.", "S": ["break in", "crime", "heist", "larceny", "robbery", "theft"], "A": []}

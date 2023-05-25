@@ -1,1 +1,1 @@
-{"index": 320721, "D": "a variant of theater. ", "S": ["theater ", "troupe "], "A": []}
+{"index": 320721, "D": "a variant of theater. ", "S": ["theater", "troupe"], "A": []}

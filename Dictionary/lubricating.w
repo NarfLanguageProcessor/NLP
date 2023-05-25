@@ -1,1 +1,1 @@
-{"index": 175747, "D": "to apply some oily or greasy substance to (a machine, parts of a mechanism, etc.) in order to diminish friction; oil or grease (something).", "S": ["grease "], "A": ["dry "]}
+{"index": 175747, "D": "to apply some oily or greasy substance to (a machine, parts of a mechanism, etc.) in order to diminish friction; oil or grease (something).", "S": ["grease"], "A": ["dry"]}

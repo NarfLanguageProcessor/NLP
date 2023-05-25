@@ -1,1 +1,1 @@
-{"index": 251538, "D": "extraordinary in size, amount, extent, degree, force, etc.", "S": ["broadly ", "chiefly ", "generally ", "mostly ", "predominantly ", "principally ", "widely "], "A": []}
+{"index": 251538, "D": "extraordinary in size, amount, extent, degree, force, etc.", "S": ["broadly", "chiefly", "generally", "mostly", "predominantly", "principally", "widely"], "A": []}

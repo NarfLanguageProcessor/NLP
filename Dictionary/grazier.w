@@ -1,1 +1,1 @@
-{"index": 129411, "D": "a person who grazes  cattle for the market.", "S": ["breeder ", "herder ", "herdsman "], "A": []}
+{"index": 129411, "D": "a person who grazes  cattle for the market.", "S": ["breeder", "herder", "herdsman"], "A": []}

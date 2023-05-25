@@ -1,1 +1,1 @@
-{"index": 36804, "D": "good-naturedly direct, blunt, or frank; heartily outspoken", "S": ["blunt ", "blustering ", "brief ", "direct ", "frank ", "open ", "rough ", "short ", "tart "], "A": ["courteous ", "devious ", "dishonest ", "lengthy ", "long ", "polite "]}
+{"index": 36804, "D": "good-naturedly direct, blunt, or frank; heartily outspoken", "S": ["blunt", "blustering", "brief", "direct", "frank", "open", "rough", "short", "tart"], "A": ["courteous", "devious", "dishonest", "lengthy", "long", "polite"]}

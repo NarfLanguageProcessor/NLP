@@ -1,1 +1,1 @@
-{"index": 318736, "D": "soft or delicate in substance; not hard or tough", "S": ["delicate ", "supple "], "A": ["unbreakable "]}
+{"index": 318736, "D": "soft or delicate in substance; not hard or tough", "S": ["delicate", "supple"], "A": ["unbreakable"]}

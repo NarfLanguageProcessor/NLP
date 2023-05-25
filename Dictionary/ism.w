@@ -1,1 +1,1 @@
-{"index": 158727, "D": "a distinctive doctrine, theory, system, or practice", "S": ["congregation ", "denomination ", "faith ", "religion ", "sect ", "society "], "A": ["agnosticism ", "disbelief "]}
+{"index": 158727, "D": "a distinctive doctrine, theory, system, or practice", "S": ["congregation", "denomination", "faith", "religion", "sect", "society"], "A": ["agnosticism", "disbelief"]}

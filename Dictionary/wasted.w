@@ -1,1 +1,1 @@
-{"index": 362984, "D": "waste (defs. 26-28). ", "S": ["atrophied ", "attenuated ", "famished ", "lean ", "shriveled ", "starved ", "thin ", "undernourished ", "withered "], "A": ["fat ", "full "]}
+{"index": 362984, "D": "waste (defs. 26-28). ", "S": ["atrophied", "attenuated", "famished", "lean", "shriveled", "starved", "thin", "undernourished", "withered"], "A": ["fat", "full"]}

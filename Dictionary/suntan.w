@@ -1,1 +1,1 @@
-{"index": 311226, "D": "a browning or a brown color of the skin resulting from exposure to sunlight or a sunlamp; tan. ", "S": ["beige ", "brownish ", "drab ", "khaki "], "A": []}
+{"index": 311226, "D": "a browning or a brown color of the skin resulting from exposure to sunlight or a sunlamp; tan. ", "S": ["beige", "brownish", "drab", "khaki"], "A": []}

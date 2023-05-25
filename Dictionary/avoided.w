@@ -1,1 +1,1 @@
-{"index": 24854, "D": "to keep away from; keep clear of; shun", "S": ["abhorred ", "anathematized ", "condemned ", "cursed ", "detested ", "disliked ", "execrated ", "loathed ", "shunned "], "A": []}
+{"index": 24854, "D": "to keep away from; keep clear of; shun", "S": ["abhorred", "anathematized", "condemned", "cursed", "detested", "disliked", "execrated", "loathed", "shunned"], "A": []}

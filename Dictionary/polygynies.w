@@ -1,1 +1,1 @@
-{"index": 241906, "D": "the practice or condition of having more than one wife at one time.", "S": ["bigamy ", "polyandry "], "A": []}
+{"index": 241906, "D": "the practice or condition of having more than one wife at one time.", "S": ["bigamy", "polyandry"], "A": []}

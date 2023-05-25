@@ -1,1 +1,1 @@
-{"index": 231098, "D": "recurring at intervals of time", "S": ["annual ", "intermittent ", "monthly ", "occasional ", "recurrent ", "recurring ", "regular ", "repeated ", "routine ", "seasonal ", "sporadic ", "weekly ", "yearly "], "A": ["constant ", "infrequent ", "unusual "]}
+{"index": 231098, "D": "recurring at intervals of time", "S": ["annual", "intermittent", "monthly", "occasional", "recurrent", "recurring", "regular", "repeated", "routine", "seasonal", "sporadic", "weekly", "yearly"], "A": ["constant", "infrequent", "unusual"]}

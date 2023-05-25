@@ -1,1 +1,1 @@
-{"index": 250802, "D": "a female given name, form of Priscilla. ", "S": ["Miss Priss ", "Puritan ", "Victorian ", "goody-goody ", "prig ", "priss ", "prude ", "strait-laced "], "A": []}
+{"index": 250802, "D": "a female given name, form of Priscilla. ", "S": ["Miss Priss", "Puritan", "Victorian", "goody-goody", "prig", "priss", "prude", "strait-laced"], "A": []}

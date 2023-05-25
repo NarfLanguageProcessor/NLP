@@ -1,1 +1,1 @@
-{"index": 249788, "D": "to suppose or assume beforehand; take for granted in advance.", "S": ["assume ", "believe ", "suppose ", "surmise "], "A": ["disbelieve "]}
+{"index": 249788, "D": "to suppose or assume beforehand; take for granted in advance.", "S": ["assume", "believe", "suppose", "surmise"], "A": ["disbelieve"]}

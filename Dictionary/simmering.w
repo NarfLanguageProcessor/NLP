@@ -1,1 +1,1 @@
-{"index": 290863, "D": "to cook or cook in a liquid at or just below the boiling point.", "S": ["boiling ", "heated "], "A": []}
+{"index": 290863, "D": "to cook or cook in a liquid at or just below the boiling point.", "S": ["boiling", "heated"], "A": []}

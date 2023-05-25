@@ -1,1 +1,0 @@
-{"index": 285343, "D": "a theory of psychology maintaining that experience consists solely of sensations. ", "S": [], "A": []}

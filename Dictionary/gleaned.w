@@ -1,1 +1,1 @@
-{"index": 126089, "D": "gathered slowly and laboriously, bit by bit", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}
+{"index": 126089, "D": "gathered slowly and laboriously, bit by bit", "S": ["accumulated", "collected", "concentrated", "huddled", "massed", "reunited"], "A": ["separated"]}

@@ -1,1 +1,1 @@
-{"index": 187589, "D": "mimicry (defs. 1, 3). ", "S": ["pastiche "], "A": []}
+{"index": 187589, "D": "mimicry (defs. 1, 3). ", "S": ["pastiche"], "A": []}

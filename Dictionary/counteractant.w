@@ -1,1 +1,1 @@
-{"index": 70615, "D": "to act  in opposition to; frustrate by contrary action.", "S": ["corrective ", "countermeasure ", "cure ", "remedy "], "A": ["disease "]}
+{"index": 70615, "D": "to act  in opposition to; frustrate by contrary action.", "S": ["corrective", "countermeasure", "cure", "remedy"], "A": ["disease"]}

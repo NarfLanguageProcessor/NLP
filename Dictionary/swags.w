@@ -1,1 +1,1 @@
-{"index": 313971, "D": "a suspended wreath, garland, drapery, or the like, fastened up at or near each end and hanging down in the middle; festoon. ", "S": ["boodle ", "booty ", "bundle ", "graft ", "money ", "plunder ", "spoils "], "A": []}
+{"index": 313971, "D": "a suspended wreath, garland, drapery, or the like, fastened up at or near each end and hanging down in the middle; festoon. ", "S": ["boodle", "booty", "bundle", "graft", "money", "plunder", "spoils"], "A": []}

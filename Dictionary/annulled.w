@@ -1,1 +1,1 @@
-{"index": 13652, "D": "(especially of laws or other established rules, usages, etc.) to make void or null; abolish; cancel; invalidate", "S": ["cancelled out ", "no longer law ", "null ", "nullified ", "of no effect ", "void "], "A": []}
+{"index": 13652, "D": "(especially of laws or other established rules, usages, etc.) to make void or null; abolish; cancel; invalidate", "S": ["cancelled out", "no longer law", "null", "nullified", "of no effect", "void"], "A": []}

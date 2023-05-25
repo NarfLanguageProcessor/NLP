@@ -1,1 +1,1 @@
-{"index": 20711, "D": "any object made by human beings, especially with a view to subsequent use.", "S": ["antiquity ", "heirloom ", "relic "], "A": []}
+{"index": 20711, "D": "any object made by human beings, especially with a view to subsequent use.", "S": ["antiquity", "heirloom", "relic"], "A": []}

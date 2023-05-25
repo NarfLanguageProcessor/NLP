@@ -1,1 +1,1 @@
-{"index": 77804, "D": "courteous, gracious, and having a sophisticated charm", "S": ["affable ", "dashing ", "suave ", "urbane "], "A": ["unsophisticated "]}
+{"index": 77804, "D": "courteous, gracious, and having a sophisticated charm", "S": ["affable", "dashing", "suave", "urbane"], "A": ["unsophisticated"]}

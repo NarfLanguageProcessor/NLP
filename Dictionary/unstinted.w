@@ -1,1 +1,1 @@
-{"index": 352059, "D": "to be frugal; get along on a scanty allowance", "S": ["abundant ", "bountiful ", "lavish ", "plentiful ", "profuse "], "A": []}
+{"index": 352059, "D": "to be frugal; get along on a scanty allowance", "S": ["abundant", "bountiful", "lavish", "plentiful", "profuse"], "A": []}

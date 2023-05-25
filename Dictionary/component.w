@@ -1,1 +1,1 @@
-{"index": 64755, "D": "a constituent part; element; ingredient. ", "S": ["basic ", "composing ", "fundamental ", "integral "], "A": ["additional ", "extra ", "secondary "]}
+{"index": 64755, "D": "a constituent part; element; ingredient. ", "S": ["basic", "composing", "fundamental", "integral"], "A": ["additional", "extra", "secondary"]}

@@ -1,1 +1,0 @@
-{"index": 338339, "D": "to cut short; cut off a part of; abridge; reduce; diminish. ", "S": [], "A": []}

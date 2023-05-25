@@ -1,1 +1,1 @@
-{"index": 364693, "D": "in, at, or to whatever place.", "S": ["assuming that ", "conceding that ", "granted that ", "in case that ", "on the assumption that ", "on the occasion that ", "supposing that ", "whenever ", "with the condition that "], "A": []}
+{"index": 364693, "D": "in, at, or to whatever place.", "S": ["assuming that", "conceding that", "granted that", "in case that", "on the assumption that", "on the occasion that", "supposing that", "whenever", "with the condition that"], "A": []}

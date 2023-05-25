@@ -1,1 +1,1 @@
-{"index": 108236, "D": "an act or instance of extending,  lengthening, stretching out, or enlarging the scope of something.", "S": ["delay ", "development ", "expansion ", "increase ", "postponement "], "A": ["decrease ", "base ", "body ", "lessening ", "shortening ", "subtraction "]}
+{"index": 108236, "D": "an act or instance of extending,  lengthening, stretching out, or enlarging the scope of something.", "S": ["delay", "development", "expansion", "increase", "postponement"], "A": ["decrease", "base", "body", "lessening", "shortening", "subtraction"]}

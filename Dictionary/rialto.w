@@ -1,1 +1,1 @@
-{"index": 272396, "D": "an exchange or mart.", "S": ["forum "], "A": []}
+{"index": 272396, "D": "an exchange or mart.", "S": ["forum"], "A": []}

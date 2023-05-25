@@ -1,1 +1,1 @@
-{"index": 305025, "D": "a systematic philosophy, dating from around 300 b.c., that held the principles of logical thought to reflect a cosmic reason instantiated in nature.", "S": ["endurance ", "indifference ", "passivity ", "patience ", "sobriety "], "A": []}
+{"index": 305025, "D": "a systematic philosophy, dating from around 300 b.c., that held the principles of logical thought to reflect a cosmic reason instantiated in nature.", "S": ["endurance", "indifference", "passivity", "patience", "sobriety"], "A": []}

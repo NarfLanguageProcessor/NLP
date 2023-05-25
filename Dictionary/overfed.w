@@ -1,1 +1,0 @@
-{"index": 219342, "D": "to feed  or eat to excess.", "S": ["corpulent ", "obese ", "pudgy "], "A": ["skinny ", "slight ", "thin ", "lean ", "slender "]}

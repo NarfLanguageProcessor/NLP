@@ -1,1 +1,1 @@
-{"index": 147335, "D": "to make illegal", "S": ["bar ", "exclude ", "halt ", "outlaw ", "prevent ", "prohibit ", "proscribe ", "restrict ", "suppress "], "A": ["admit ", "allow ", "include ", "let go ", "permit ", "push ", "release ", "welcome "]}
+{"index": 147335, "D": "to make illegal", "S": ["bar", "exclude", "halt", "outlaw", "prevent", "prohibit", "proscribe", "restrict", "suppress"], "A": ["admit", "allow", "include", "let go", "permit", "push", "release", "welcome"]}

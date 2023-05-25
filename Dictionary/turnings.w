@@ -1,1 +1,0 @@
-{"index": 332834, "D": "the act of a person or thing that turns. ", "S": ["reversal "], "A": ["front ", "same "]}

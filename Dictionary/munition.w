@@ -1,1 +1,1 @@
-{"index": 195605, "D": "materials used in war, especially weapons and ammunition.", "S": ["ammo ", "armament ", "bomb ", "bullet ", "cartridge ", "chemical ", "explosive ", "gunpowder ", "materiel ", "missile ", "napalm ", "rocket ", "shrapnel ", "torpedo "], "A": []}
+{"index": 195605, "D": "materials used in war, especially weapons and ammunition.", "S": ["ammo", "armament", "bomb", "bullet", "cartridge", "chemical", "explosive", "gunpowder", "materiel", "missile", "napalm", "rocket", "shrapnel", "torpedo"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 19791, "D": "the philosophy of Aristotle.", "S": ["Aristotelian philosophy ", "categorical logic ", "formal logic ", "syllogism ", "syllogistic logic ", "term logic "], "A": []}
+{"index": 19791, "D": "the philosophy of Aristotle.", "S": ["Aristotelian philosophy", "categorical logic", "formal logic", "syllogism", "syllogistic logic", "term logic"], "A": []}

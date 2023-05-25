@@ -1,1 +1,1 @@
-{"index": 277372, "D": "favorable to or promoting health; healthful. ", "S": ["healthful "], "A": []}
+{"index": 277372, "D": "favorable to or promoting health; healthful. ", "S": ["healthful"], "A": []}

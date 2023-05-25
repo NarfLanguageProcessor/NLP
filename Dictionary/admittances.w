@@ -1,1 +1,1 @@
-{"index": 4201, "D": "permission or right to enter", "S": ["access ", "entrance ", "entry ", "ingress ", "pass ", "passage ", "reception "], "A": ["conclusion ", "denial ", "egress ", "exit ", "refusal ", "veto "]}
+{"index": 4201, "D": "permission or right to enter", "S": ["access", "entrance", "entry", "ingress", "pass", "passage", "reception"], "A": ["conclusion", "denial", "egress", "exit", "refusal", "veto"]}

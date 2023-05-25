@@ -1,1 +1,1 @@
-{"index": 223112, "D": "a scallop, especially of veal or chicken, that is pounded flat and grilled or saut\u00e9ed quickly.", "S": ["cyprian ", "debauchee ", "lecher ", "profligate ", "rake ", "satyr ", "sensualist ", "voluptuary "], "A": ["puritan "]}
+{"index": 223112, "D": "a scallop, especially of veal or chicken, that is pounded flat and grilled or saut\u00e9ed quickly.", "S": ["cyprian", "debauchee", "lecher", "profligate", "rake", "satyr", "sensualist", "voluptuary"], "A": ["puritan"]}

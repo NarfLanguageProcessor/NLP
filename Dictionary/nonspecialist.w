@@ -1,1 +1,1 @@
-{"index": 207419, "D": "someone who does not specialize in a particular area, activity, field of research, etc", "S": ["secular "], "A": ["ordained ", "professional "]}
+{"index": 207419, "D": "someone who does not specialize in a particular area, activity, field of research, etc", "S": ["secular"], "A": ["ordained", "professional"]}

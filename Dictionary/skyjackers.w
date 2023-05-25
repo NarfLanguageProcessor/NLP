@@ -1,1 +1,1 @@
-{"index": 293156, "D": "to hijack  (an airliner), especially in order to hold the passengers and plane for ransom or for political reasons.", "S": ["kidnapper ", "robber ", "terrorist ", "thief "], "A": []}
+{"index": 293156, "D": "to hijack  (an airliner), especially in order to hold the passengers and plane for ransom or for political reasons.", "S": ["kidnapper", "robber", "terrorist", "thief"], "A": []}

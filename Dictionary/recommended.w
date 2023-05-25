@@ -1,1 +1,1 @@
-{"index": 263159, "D": "to present as worthy of confidence, acceptance, use, etc.; commend; mention favorably", "S": ["approved ", "endorsed ", "favored ", "praised ", "selected ", "suggested ", "supported "], "A": ["disapproved "]}
+{"index": 263159, "D": "to present as worthy of confidence, acceptance, use, etc.; commend; mention favorably", "S": ["approved", "endorsed", "favored", "praised", "selected", "suggested", "supported"], "A": ["disapproved"]}

@@ -1,1 +1,0 @@
-{"index": 272830, "D": "of or relating to conservative or reactionary political views; noting or characteristic of the political Right.", "S": ["conservative ", "old-fashioned ", "old-line ", "old-school ", "traditional ", "traditionalist ", "traditionalistic "], "A": []}

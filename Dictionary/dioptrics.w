@@ -1,1 +1,1 @@
-{"index": 86322, "D": "the branch of geometrical optics dealing with the formation of images by lenses.", "S": ["optical fiber "], "A": []}
+{"index": 86322, "D": "the branch of geometrical optics dealing with the formation of images by lenses.", "S": ["optical fiber"], "A": []}

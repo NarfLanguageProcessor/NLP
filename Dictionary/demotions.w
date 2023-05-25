@@ -1,1 +1,1 @@
-{"index": 80910, "D": "the act or process of reducing to a lower grade, rank, class, or position, or the result of such a reduction", "S": ["degradation ", "lowering ", "reduction "], "A": []}
+{"index": 80910, "D": "the act or process of reducing to a lower grade, rank, class, or position, or the result of such a reduction", "S": ["degradation", "lowering", "reduction"], "A": []}

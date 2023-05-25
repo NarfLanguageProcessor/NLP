@@ -1,1 +1,1 @@
-{"index": 81423, "D": "to rid of odor,  especially of unpleasant odor.", "S": ["aerate ", "air ", "disinfect ", "fumigate ", "neutralize ", "purify ", "sanitize ", "sterilize ", "sweeten ", "ventilate "], "A": ["dirty ", "pollute "]}
+{"index": 81423, "D": "to rid of odor,  especially of unpleasant odor.", "S": ["aerate", "air", "disinfect", "fumigate", "neutralize", "purify", "sanitize", "sterilize", "sweeten", "ventilate"], "A": ["dirty", "pollute"]}

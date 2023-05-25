@@ -1,1 +1,1 @@
-{"index": 22762, "D": "the act or process of splitting into smaller parts, sections, groups, etc.; fragmentation or disintegration", "S": ["decay ", "disintegration "], "A": ["connection ", "unification "]}
+{"index": 22762, "D": "the act or process of splitting into smaller parts, sections, groups, etc.; fragmentation or disintegration", "S": ["decay", "disintegration"], "A": ["connection", "unification"]}

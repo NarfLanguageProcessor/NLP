@@ -1,1 +1,1 @@
-{"index": 169615, "D": "an unintended hole, crack, or the like, through which liquid, gas, light, etc., enters or escapes", "S": ["crack ", "exposure ", "flow ", "leakage "], "A": []}
+{"index": 169615, "D": "an unintended hole, crack, or the like, through which liquid, gas, light, etc., enters or escapes", "S": ["crack", "exposure", "flow", "leakage"], "A": []}

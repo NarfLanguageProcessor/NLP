@@ -1,1 +1,1 @@
-{"index": 138721, "D": "any compound formed by hydrolysis. ", "S": ["baths ", "fountain ", "geyser ", "spa ", "wells "], "A": []}
+{"index": 138721, "D": "any compound formed by hydrolysis. ", "S": ["baths", "fountain", "geyser", "spa", "wells"], "A": []}

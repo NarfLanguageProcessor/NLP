@@ -1,1 +1,0 @@
-{"index": 284836, "D": "of, pertaining to, marked by, or favoring reaction,  especially extreme conservatism or rightism in politics; opposing political or social change.", "S": [], "A": []}

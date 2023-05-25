@@ -1,1 +1,1 @@
-{"index": 90887, "D": "in a persistent or tenacious manner", "S": ["adamantly ", "decisively ", "persistently ", "resolutely ", "staunchly ", "steadfastly ", "strictly ", "stubbornly ", "tenaciously "], "A": ["indefinitely ", "weakly "]}
+{"index": 90887, "D": "in a persistent or tenacious manner", "S": ["adamantly", "decisively", "persistently", "resolutely", "staunchly", "steadfastly", "strictly", "stubbornly", "tenaciously"], "A": ["indefinitely", "weakly"]}

@@ -1,1 +1,1 @@
-{"index": 332106, "D": "to put into a small, close, or concealing place", "S": ["insert ", "pinch ", "wrap "], "A": ["expand ", "let go ", "spread "]}
+{"index": 332106, "D": "to put into a small, close, or concealing place", "S": ["insert", "pinch", "wrap"], "A": ["expand", "let go", "spread"]}

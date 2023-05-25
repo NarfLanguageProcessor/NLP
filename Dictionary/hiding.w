@@ -1,1 +1,1 @@
-{"index": 138373, "D": "act of concealing; concealment", "S": ["covering ", "masking ", "screening ", "suppressing ", "veiling "], "A": ["obvious "]}
+{"index": 138373, "D": "act of concealing; concealment", "S": ["covering", "masking", "screening", "suppressing", "veiling"], "A": ["obvious"]}

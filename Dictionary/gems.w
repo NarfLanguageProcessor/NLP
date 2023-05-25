@@ -1,1 +1,1 @@
-{"index": 123378, "D": "chamois (def. 1). ", "S": ["hardware ", "jewel ", "jewelry ", "masterpiece ", "ornament ", "stone "], "A": []}
+{"index": 123378, "D": "chamois (def. 1). ", "S": ["hardware", "jewel", "jewelry", "masterpiece", "ornament", "stone"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 162589, "D": "to extend beyond the main body or line; project; protrude (often followed by out)", "S": ["protruding "], "A": []}
+{"index": 162589, "D": "to extend beyond the main body or line; project; protrude (often followed by out)", "S": ["protruding"], "A": []}

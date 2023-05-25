@@ -1,1 +1,1 @@
-{"index": 269400, "D": "the act of resigning. ", "S": ["departure ", "retirement ", "surrender ", "termination ", "withdrawal "], "A": ["stay "]}
+{"index": 269400, "D": "the act of resigning. ", "S": ["departure", "retirement", "surrender", "termination", "withdrawal"], "A": ["stay"]}

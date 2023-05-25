@@ -1,1 +1,1 @@
-{"index": 174754, "D": "a piece of cloth  worn around the loins  or hips, especially in tropical regions as the only item of clothing.", "S": ["dhoti ", "lavalava "], "A": []}
+{"index": 174754, "D": "a piece of cloth  worn around the loins  or hips, especially in tropical regions as the only item of clothing.", "S": ["dhoti", "lavalava"], "A": []}

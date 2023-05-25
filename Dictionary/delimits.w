@@ -1,1 +1,1 @@
-{"index": 80122, "D": "to fix or mark the limits or boundaries of; demarcate", "S": ["demarcate "], "A": ["let go "]}
+{"index": 80122, "D": "to fix or mark the limits or boundaries of; demarcate", "S": ["demarcate"], "A": ["let go"]}

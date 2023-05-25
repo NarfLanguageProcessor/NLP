@@ -1,1 +1,1 @@
-{"index": 26475, "D": "an officer, similar to a sheriff or a sheriff's deputy, employed to execute writs and processes, make arrests, keep order in the court, etc.", "S": ["constable "], "A": []}
+{"index": 26475, "D": "an officer, similar to a sheriff or a sheriff's deputy, employed to execute writs and processes, make arrests, keep order in the court, etc.", "S": ["constable"], "A": []}

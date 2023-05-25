@@ -1,1 +1,1 @@
-{"index": 340782, "D": "certainly or definitely; without doubt", "S": ["assuredly ", "definitely ", "doubtless ", "easily ", "indeed ", "really ", "surely ", "truly ", "undeniably ", "unquestionably "], "A": ["doubtfully ", "dubiously ", "questionably ", "uncertain "]}
+{"index": 340782, "D": "certainly or definitely; without doubt", "S": ["assuredly", "definitely", "doubtless", "easily", "indeed", "really", "surely", "truly", "undeniably", "unquestionably"], "A": ["doubtfully", "dubiously", "questionably", "uncertain"]}

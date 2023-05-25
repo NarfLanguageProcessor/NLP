@@ -1,1 +1,1 @@
-{"index": 312580, "D": "done, made, or conducted without the knowledge of others", "S": ["classified ", "hush-hush ", "under security restrictions ", "under wraps "], "A": []}
+{"index": 312580, "D": "done, made, or conducted without the knowledge of others", "S": ["classified", "hush-hush", "under security restrictions", "under wraps"], "A": []}

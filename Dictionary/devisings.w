@@ -1,1 +1,1 @@
-{"index": 83605, "D": "the act or process of planning, inventing, or contriving (often used attributively)", "S": ["formulation "], "A": ["destruction ", "ruin "]}
+{"index": 83605, "D": "the act or process of planning, inventing, or contriving (often used attributively)", "S": ["formulation"], "A": ["destruction", "ruin"]}

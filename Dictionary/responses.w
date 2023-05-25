@@ -1,1 +1,1 @@
-{"index": 269788, "D": "an answer or reply, as in words or in some action.", "S": ["feedback ", "reply ", "return "], "A": ["question ", "request ", "failure "]}
+{"index": 269788, "D": "an answer or reply, as in words or in some action.", "S": ["feedback", "reply", "return"], "A": ["question", "request", "failure"]}

@@ -1,1 +1,1 @@
-{"index": 106097, "D": "the latter part of the day and early part of the night.", "S": ["close ", "dark ", "decline ", "dim ", "dusk ", "duskiness ", "eve ", "even ", "eventide ", "nightfall ", "sundown ", "sunset ", "twilight "], "A": ["daybreak ", "sunrise "]}
+{"index": 106097, "D": "the latter part of the day and early part of the night.", "S": ["close", "dark", "decline", "dim", "dusk", "duskiness", "eve", "even", "eventide", "nightfall", "sundown", "sunset", "twilight"], "A": ["daybreak", "sunrise"]}

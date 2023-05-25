@@ -1,1 +1,1 @@
-{"index": 170092, "D": "Compare chaps, gaiter, puttee. ", "S": ["buskins ", "chaps ", "puttees ", "putts ", "stockings "], "A": []}
+{"index": 170092, "D": "Compare chaps, gaiter, puttee. ", "S": ["buskins", "chaps", "puttees", "putts", "stockings"], "A": []}

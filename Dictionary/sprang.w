@@ -1,1 +1,1 @@
-{"index": 301185, "D": "a simple past tense of spring. ", "S": ["bolt ", "bounce ", "bound ", "hop ", "hurdle ", "leap ", "lop ", "lope ", "rebound ", "recoil ", "skitter ", "start ", "startle ", "trip ", "vault "], "A": ["allow ", "permit "]}
+{"index": 301185, "D": "a simple past tense of spring. ", "S": ["bolt", "bounce", "bound", "hop", "hurdle", "leap", "lop", "lope", "rebound", "recoil", "skitter", "start", "startle", "trip", "vault"], "A": ["allow", "permit"]}

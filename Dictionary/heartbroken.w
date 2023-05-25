@@ -1,1 +1,1 @@
-{"index": 134832, "D": "crushed with sorrow or grief.", "S": ["grief-stricken ", "sad "], "A": []}
+{"index": 134832, "D": "crushed with sorrow or grief.", "S": ["grief-stricken", "sad"], "A": []}

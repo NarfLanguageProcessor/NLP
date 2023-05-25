@@ -1,1 +1,1 @@
-{"index": 293425, "D": "toward the sky. ", "S": ["soaring ", "towering "], "A": ["below ", "beneath ", "humble ", "low ", "modest ", "unobtrusive "]}
+{"index": 293425, "D": "toward the sky. ", "S": ["soaring", "towering"], "A": ["below", "beneath", "humble", "low", "modest", "unobtrusive"]}

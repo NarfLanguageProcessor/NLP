@@ -1,1 +1,1 @@
-{"index": 312922, "D": "lying on the back, face or front upward.", "S": ["decumbent ", "flat ", "flat on one's back ", "horizontal ", "level ", "procumbent ", "prone ", "prostrate ", "reclining ", "recumbent ", "stretched-out "], "A": []}
+{"index": 312922, "D": "lying on the back, face or front upward.", "S": ["decumbent", "flat", "flat on one's back", "horizontal", "level", "procumbent", "prone", "prostrate", "reclining", "recumbent", "stretched-out"], "A": []}

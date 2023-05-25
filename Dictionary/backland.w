@@ -1,1 +1,1 @@
-{"index": 25830, "D": [], "S": ["back-country ", "boondocks ", "central ", "heartland ", "hinterland ", "inward ", "midland ", "provincial ", "upcountry "], "A": ["border ", "coastal ", "frontier "]}
+{"index": 25830, "D": [], "S": ["back-country", "boondocks", "central", "heartland", "hinterland", "inward", "midland", "provincial", "upcountry"], "A": ["border", "coastal", "frontier"]}

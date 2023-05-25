@@ -1,1 +1,1 @@
-{"index": 295125, "D": "marked with smudges;  smeared; smeary.", "S": ["striped ", "veined "], "A": []}
+{"index": 295125, "D": "marked with smudges;  smeared; smeary.", "S": ["striped", "veined"], "A": []}

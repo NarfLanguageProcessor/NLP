@@ -1,1 +1,1 @@
-{"index": 198006, "D": "to deny the existence, evidence, or truth of", "S": ["null "], "A": ["worthy "]}
+{"index": 198006, "D": "to deny the existence, evidence, or truth of", "S": ["null"], "A": ["worthy"]}

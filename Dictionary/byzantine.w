@@ -1,1 +1,1 @@
-{"index": 35378, "D": "of or relating to Byzantium. ", "S": ["daedal "], "A": []}
+{"index": 35378, "D": "of or relating to Byzantium. ", "S": ["daedal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 246821, "D": "to prepare the preliminary sketch or the plans for (a work to be executed), especially to plan the form and structure of", "S": ["set up "], "A": ["ignore ", "neglect "]}
+{"index": 246821, "D": "to prepare the preliminary sketch or the plans for (a work to be executed), especially to plan the form and structure of", "S": ["set up"], "A": ["ignore", "neglect"]}

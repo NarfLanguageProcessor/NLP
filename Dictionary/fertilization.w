@@ -1,1 +1,1 @@
-{"index": 111610, "D": "an act, process, or instance of fertilizing.", "S": ["covering ", "dressing ", "enrichment ", "preparation ", "spreading "], "A": []}
+{"index": 111610, "D": "an act, process, or instance of fertilizing.", "S": ["covering", "dressing", "enrichment", "preparation", "spreading"], "A": []}

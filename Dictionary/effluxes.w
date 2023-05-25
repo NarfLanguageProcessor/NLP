@@ -1,1 +1,1 @@
-{"index": 96069, "D": "outward flow, as of water.", "S": ["discharge ", "effluence ", "emanation "], "A": []}
+{"index": 96069, "D": "outward flow, as of water.", "S": ["discharge", "effluence", "emanation"], "A": []}

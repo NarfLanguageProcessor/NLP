@@ -1,1 +1,1 @@
-{"index": 161387, "D": "nervousness; a feeling of fright or uneasiness", "S": ["anxiety "], "A": ["calmness "]}
+{"index": 161387, "D": "nervousness; a feeling of fright or uneasiness", "S": ["anxiety"], "A": ["calmness"]}

@@ -1,1 +1,1 @@
-{"index": 62460, "D": "to wind into continuous, regularly spaced rings one above the other", "S": ["helicoid ", "tortile "], "A": []}
+{"index": 62460, "D": "to wind into continuous, regularly spaced rings one above the other", "S": ["helicoid", "tortile"], "A": []}

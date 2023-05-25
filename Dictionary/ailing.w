@@ -1,1 +1,1 @@
-{"index": 6776, "D": "sickly; unwell.", "S": ["diseased ", "feeble ", "ill ", "sickly ", "weak "], "A": ["able ", "fit ", "healthy ", "hearty ", "sound ", "strong ", "well ", "happy "]}
+{"index": 6776, "D": "sickly; unwell.", "S": ["diseased", "feeble", "ill", "sickly", "weak"], "A": ["able", "fit", "healthy", "hearty", "sound", "strong", "well", "happy"]}

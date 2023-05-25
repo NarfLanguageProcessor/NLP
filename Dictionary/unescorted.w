@@ -1,1 +1,1 @@
-{"index": 341496, "D": "not accompanied by an escort", "S": ["only ", "unattended "], "A": ["together "]}
+{"index": 341496, "D": "not accompanied by an escort", "S": ["only", "unattended"], "A": ["together"]}

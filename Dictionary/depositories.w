@@ -1,1 +1,1 @@
-{"index": 81780, "D": "a place where something is deposited or stored, as for safekeeping", "S": ["cache ", "repository ", "storehouse "], "A": []}
+{"index": 81780, "D": "a place where something is deposited or stored, as for safekeeping", "S": ["cache", "repository", "storehouse"], "A": []}

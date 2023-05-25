@@ -1,1 +1,1 @@
-{"index": 130351, "D": "any collection or assemblage of persons or things; cluster; aggregation", "S": ["concerted ", "corporate ", "cumulative ", "mutual ", "shared ", "unified "], "A": ["separate ", "unshared ", "disjoint "]}
+{"index": 130351, "D": "any collection or assemblage of persons or things; cluster; aggregation", "S": ["concerted", "corporate", "cumulative", "mutual", "shared", "unified"], "A": ["separate", "unshared", "disjoint"]}

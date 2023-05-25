@@ -1,1 +1,1 @@
-{"index": 161044, "D": "a commercial jet plane  for carrying passengers.", "S": ["Concorde ", "blowtorch ", "business jet ", "jet ", "jumbo jet ", "multi-jet ", "pulse-jet ", "ramjet ", "single-jet ", "supersonic jet ", "supersonic transport ", "turbojet ", "twin-jet "], "A": []}
+{"index": 161044, "D": "a commercial jet plane  for carrying passengers.", "S": ["Concorde", "blowtorch", "business jet", "jet", "jumbo jet", "multi-jet", "pulse-jet", "ramjet", "single-jet", "supersonic jet", "supersonic transport", "turbojet", "twin-jet"], "A": []}

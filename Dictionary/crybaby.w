@@ -1,1 +1,1 @@
-{"index": 72863, "D": "a person, especially a child, who cries  readily for very little reason.", "S": ["whiner ", "wimp "], "A": []}
+{"index": 72863, "D": "a person, especially a child, who cries  readily for very little reason.", "S": ["whiner", "wimp"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 107104, "D": "the act of exhaling. ", "S": ["breath ", "expiration ", "respiration "], "A": []}
+{"index": 107104, "D": "the act of exhaling. ", "S": ["breath", "expiration", "respiration"], "A": []}

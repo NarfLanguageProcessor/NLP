@@ -1,1 +1,1 @@
-{"index": 293887, "D": "a person or thing that sleeps.", "S": ["also-ran ", "long shot ", "underdog "], "A": []}
+{"index": 293887, "D": "a person or thing that sleeps.", "S": ["also-ran", "long shot", "underdog"], "A": []}

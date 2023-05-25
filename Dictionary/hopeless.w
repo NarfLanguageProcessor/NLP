@@ -1,1 +1,1 @@
-{"index": 143681, "D": "providing no hope; beyond optimism or hope; desperate", "S": ["desperate ", "forlorn ", "helpless ", "impossible ", "pointless ", "sad ", "tragic ", "useless "], "A": ["cheerful ", "good ", "happy ", "hopeful ", "joyful "]}
+{"index": 143681, "D": "providing no hope; beyond optimism or hope; desperate", "S": ["desperate", "forlorn", "helpless", "impossible", "pointless", "sad", "tragic", "useless"], "A": ["cheerful", "good", "happy", "hopeful", "joyful"]}

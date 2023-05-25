@@ -1,1 +1,1 @@
-{"index": 17204, "D": "Compare perigee. ", "S": ["apex "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 17204, "D": "Compare perigee. ", "S": ["apex"], "A": ["base", "bottom", "nadir"]}

@@ -1,1 +1,1 @@
-{"index": 265584, "D": "to effect a complete moral reform in.", "S": ["invigorate ", "reconstruct ", "recreate ", "reestablish ", "reinvigorate ", "rejuvenate ", "reproduce "], "A": ["destroy ", "kill ", "ruin ", "damage "]}
+{"index": 265584, "D": "to effect a complete moral reform in.", "S": ["invigorate", "reconstruct", "recreate", "reestablish", "reinvigorate", "rejuvenate", "reproduce"], "A": ["destroy", "kill", "ruin", "damage"]}

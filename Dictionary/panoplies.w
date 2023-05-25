@@ -1,1 +1,1 @@
-{"index": 224776, "D": "a wide-ranging and impressive array or display", "S": ["array "], "A": ["concealment ", "cover ", "dullness ", "hiding ", "modesty ", "ordinariness ", "plainness ", "quiet ", "simplicity ", "truth "]}
+{"index": 224776, "D": "a wide-ranging and impressive array or display", "S": ["array"], "A": ["concealment", "cover", "dullness", "hiding", "modesty", "ordinariness", "plainness", "quiet", "simplicity", "truth"]}

@@ -1,1 +1,1 @@
-{"index": 92994, "D": "a person whose occupation is the making or alteration of women's dresses,  coats, etc.", "S": ["designer ", "fitter ", "modiste ", "sewer ", "tailor "], "A": []}
+{"index": 92994, "D": "a person whose occupation is the making or alteration of women's dresses,  coats, etc.", "S": ["designer", "fitter", "modiste", "sewer", "tailor"], "A": []}

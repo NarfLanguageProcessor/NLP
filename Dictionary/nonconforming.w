@@ -1,1 +1,1 @@
-{"index": 202290, "D": "to act in accordance or harmony; comply (usually followed by to)", "S": ["independent ", "individualistic ", "marching to the beat of a different drummer ", "nonadhering ", "noncompliant ", "one's own sweet way ", "radical ", "unorthodox "], "A": []}
+{"index": 202290, "D": "to act in accordance or harmony; comply (usually followed by to)", "S": ["independent", "individualistic", "marching to the beat of a different drummer", "nonadhering", "noncompliant", "one's own sweet way", "radical", "unorthodox"], "A": []}

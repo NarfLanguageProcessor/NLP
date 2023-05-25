@@ -1,1 +1,0 @@
-{"index": 226333, "D": "a camphorated tincture of opium, containing benzoic acid, anise oil, etc., used chiefly to stop diarrhea in children.", "S": [], "A": []}

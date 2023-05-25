@@ -1,1 +1,1 @@
-{"index": 182579, "D": "a fit of depression", "S": ["blues ", "melancholy ", "unhappiness ", "vertigo "], "A": ["happiness "]}
+{"index": 182579, "D": "a fit of depression", "S": ["blues", "melancholy", "unhappiness", "vertigo"], "A": ["happiness"]}

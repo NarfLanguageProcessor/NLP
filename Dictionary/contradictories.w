@@ -1,1 +1,1 @@
-{"index": 67616, "D": "asserting the contrary or opposite; contradicting;  inconsistent; logically opposite", "S": ["reversal "], "A": ["front ", "same "]}
+{"index": 67616, "D": "asserting the contrary or opposite; contradicting;  inconsistent; logically opposite", "S": ["reversal"], "A": ["front", "same"]}

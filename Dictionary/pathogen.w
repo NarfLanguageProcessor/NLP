@@ -1,1 +1,1 @@
-{"index": 227721, "D": "any disease-producing agent, especially a virus, bacterium, or other microorganism.", "S": ["antibody ", "bacterium ", "bug ", "disease ", "microbe ", "microorganism ", "virus "], "A": []}
+{"index": 227721, "D": "any disease-producing agent, especially a virus, bacterium, or other microorganism.", "S": ["antibody", "bacterium", "bug", "disease", "microbe", "microorganism", "virus"], "A": []}

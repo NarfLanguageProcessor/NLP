@@ -1,1 +1,1 @@
-{"index": 232313, "D": "one of the often colored segments of the corolla of a flower.", "S": ["husk ", "leaf ", "sepal "], "A": []}
+{"index": 232313, "D": "one of the often colored segments of the corolla of a flower.", "S": ["husk", "leaf", "sepal"], "A": []}

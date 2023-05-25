@@ -1,1 +1,1 @@
-{"index": 348936, "D": "not open to question; beyond doubt or dispute; indisputable; undeniable; certain", "S": ["absolute ", "indisputable ", "self-evident ", "undeniable ", "unequivocal ", "unmistakable "], "A": ["disputable ", "indefinite ", "uncertain ", "unsure ", "vague "]}
+{"index": 348936, "D": "not open to question; beyond doubt or dispute; indisputable; undeniable; certain", "S": ["absolute", "indisputable", "self-evident", "undeniable", "unequivocal", "unmistakable"], "A": ["disputable", "indefinite", "uncertain", "unsure", "vague"]}

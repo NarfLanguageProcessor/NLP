@@ -1,1 +1,1 @@
-{"index": 357225, "D": "to make varied in appearance, as by adding different colors.", "S": ["band ", "dapple ", "daub ", "fleck ", "marble ", "slash ", "smear ", "spot ", "striate ", "stripe ", "vein "], "A": []}
+{"index": 357225, "D": "to make varied in appearance, as by adding different colors.", "S": ["band", "dapple", "daub", "fleck", "marble", "slash", "smear", "spot", "striate", "stripe", "vein"], "A": []}

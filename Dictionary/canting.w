@@ -1,1 +1,1 @@
-{"index": 46654, "D": "affectedly or hypocritically pious or righteous", "S": ["dishonest ", "insincere ", "self-righteous ", "two-faced "], "A": []}
+{"index": 46654, "D": "affectedly or hypocritically pious or righteous", "S": ["dishonest", "insincere", "self-righteous", "two-faced"], "A": []}

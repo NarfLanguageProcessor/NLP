@@ -1,1 +1,1 @@
-{"index": 222295, "D": "to convert (an element) into an oxide;  combine with oxygen.", "S": ["acerbic ", "acrid ", "biting "], "A": ["kind ", "nice ", "sweet "]}
+{"index": 222295, "D": "to convert (an element) into an oxide;  combine with oxygen.", "S": ["acerbic", "acrid", "biting"], "A": ["kind", "nice", "sweet"]}

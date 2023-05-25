@@ -1,1 +1,1 @@
-{"index": 148571, "D": "not permanent  or enduring; transitory. ", "S": ["temporary "], "A": ["permanent "]}
+{"index": 148571, "D": "not permanent  or enduring; transitory. ", "S": ["temporary"], "A": ["permanent"]}

@@ -1,1 +1,0 @@
-{"index": 288836, "D": "a person who shops. ", "S": ["buyer ", "client ", "clientele ", "consumer ", "patron "], "A": ["manager ", "marketer ", "owner "]}

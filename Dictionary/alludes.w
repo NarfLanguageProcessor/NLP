@@ -1,1 +1,1 @@
-{"index": 9042, "D": "to refer casually or indirectly; make an allusion  (usually followed by to)", "S": ["advert ", "imply ", "insinuate ", "intimate ", "point ", "refer ", "suggest "], "A": []}
+{"index": 9042, "D": "to refer casually or indirectly; make an allusion  (usually followed by to)", "S": ["advert", "imply", "insinuate", "intimate", "point", "refer", "suggest"], "A": []}

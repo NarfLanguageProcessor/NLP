@@ -1,1 +1,1 @@
-{"index": 296271, "D": "fellowship; comradeship. ", "S": ["association ", "brotherhood ", "fraternity ", "league ", "order ", "society ", "union ", "unity "], "A": ["division ", "separation ", "sisterhood "]}
+{"index": 296271, "D": "fellowship; comradeship. ", "S": ["association", "brotherhood", "fraternity", "league", "order", "society", "union", "unity"], "A": ["division", "separation", "sisterhood"]}

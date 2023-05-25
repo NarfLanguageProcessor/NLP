@@ -1,1 +1,1 @@
-{"index": 246127, "D": "of the nature of or characterized by precipices", "S": ["abrupt ", "dizzying ", "sharp "], "A": ["calm ", "flat "]}
+{"index": 246127, "D": "of the nature of or characterized by precipices", "S": ["abrupt", "dizzying", "sharp"], "A": ["calm", "flat"]}

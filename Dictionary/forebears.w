@@ -1,1 +1,1 @@
-{"index": 116501, "D": "ancestors; forefathers.", "S": ["ancestor ", "ancestry ", "antecessor ", "blood ", "descent ", "extraction ", "forefather ", "foremother ", "genealogy ", "line ", "primogenitor ", "progenitor ", "stock "], "A": ["descendant "]}
+{"index": 116501, "D": "ancestors; forefathers.", "S": ["ancestor", "ancestry", "antecessor", "blood", "descent", "extraction", "forefather", "foremother", "genealogy", "line", "primogenitor", "progenitor", "stock"], "A": ["descendant"]}

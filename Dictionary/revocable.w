@@ -1,1 +1,1 @@
-{"index": 271455, "D": "that may be revoked. ", "S": ["capricious ", "fickle ", "fluctuating ", "mercurial ", "protean ", "shifting ", "unpredictable ", "unsettled ", "unstable ", "varying ", "volatile "], "A": ["calm ", "constant ", "stable ", "steadfast ", "steady ", "unvarying "]}
+{"index": 271455, "D": "that may be revoked. ", "S": ["capricious", "fickle", "fluctuating", "mercurial", "protean", "shifting", "unpredictable", "unsettled", "unstable", "varying", "volatile"], "A": ["calm", "constant", "stable", "steadfast", "steady", "unvarying"]}

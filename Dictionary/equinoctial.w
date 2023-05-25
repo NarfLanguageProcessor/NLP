@@ -1,1 +1,1 @@
-{"index": 103312, "D": "pertaining to an equinox  or the equinoxes,  or to the equality of day and night.", "S": ["equator ", "equinoctial circle ", "equinoctial line "], "A": []}
+{"index": 103312, "D": "pertaining to an equinox  or the equinoxes,  or to the equality of day and night.", "S": ["equator", "equinoctial circle", "equinoctial line"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 118523, "D": "to wear to threads or shreds; fray.", "S": ["fray "], "A": ["invigorate ", "mend ", "please ", "refresh ", "sew "]}
+{"index": 118523, "D": "to wear to threads or shreds; fray.", "S": ["fray"], "A": ["invigorate", "mend", "please", "refresh", "sew"]}

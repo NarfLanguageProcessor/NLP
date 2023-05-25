@@ -1,1 +1,1 @@
-{"index": 306219, "D": "in a strict  manner; rigorously; stringently", "S": ["closely ", "rigorously "], "A": []}
+{"index": 306219, "D": "in a strict  manner; rigorously; stringently", "S": ["closely", "rigorously"], "A": []}

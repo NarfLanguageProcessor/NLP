@@ -1,1 +1,1 @@
-{"index": 20331, "D": "a slender, straight, generally pointed missile or weapon made to be shot from a bow and equipped with feathers at the end of the shaft near the nock, for controlling flight.", "S": ["barbed ", "sharp "], "A": ["blunt ", "dull "]}
+{"index": 20331, "D": "a slender, straight, generally pointed missile or weapon made to be shot from a bow and equipped with feathers at the end of the shaft near the nock, for controlling flight.", "S": ["barbed", "sharp"], "A": ["blunt", "dull"]}

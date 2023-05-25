@@ -1,1 +1,1 @@
-{"index": 361238, "D": "done, made, brought about, undertaken, etc., of one's own accord or by free choice", "S": ["spontaneous "], "A": ["forced ", "involuntary ", "obligatory ", "unwilling "]}
+{"index": 361238, "D": "done, made, brought about, undertaken, etc., of one's own accord or by free choice", "S": ["spontaneous"], "A": ["forced", "involuntary", "obligatory", "unwilling"]}

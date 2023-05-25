@@ -1,1 +1,1 @@
-{"index": 363753, "D": "a herbicide.", "S": ["defoliant ", "fungicide ", "insecticide ", "pesticide "], "A": []}
+{"index": 363753, "D": "a herbicide.", "S": ["defoliant", "fungicide", "insecticide", "pesticide"], "A": []}

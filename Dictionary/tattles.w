@@ -1,1 +1,1 @@
-{"index": 317026, "D": "to let out secrets.", "S": ["babble ", "blab ", "chat ", "chatter ", "gossip ", "jabber ", "leak ", "noise ", "prate ", "prattle ", "rumor ", "snitch ", "spill ", "squeal ", "talk ", "yak "], "A": ["be quiet ", "conceal ", "hide "]}
+{"index": 317026, "D": "to let out secrets.", "S": ["babble", "blab", "chat", "chatter", "gossip", "jabber", "leak", "noise", "prate", "prattle", "rumor", "snitch", "spill", "squeal", "talk", "yak"], "A": ["be quiet", "conceal", "hide"]}

@@ -1,1 +1,1 @@
-{"index": 314262, "D": "sweep2. ", "S": ["span ", "stretch "], "A": ["limitation "]}
+{"index": 314262, "D": "sweep2. ", "S": ["span", "stretch"], "A": ["limitation"]}

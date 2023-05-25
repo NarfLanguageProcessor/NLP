@@ -1,1 +1,1 @@
-{"index": 166205, "D": "to act in an obsequious manner; show servile deference.", "S": ["flattering "], "A": ["aloof ", "cool ", "disinterested ", "proud ", "unfriendly "]}
+{"index": 166205, "D": "to act in an obsequious manner; show servile deference.", "S": ["flattering"], "A": ["aloof", "cool", "disinterested", "proud", "unfriendly"]}

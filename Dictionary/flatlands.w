@@ -1,1 +1,1 @@
-{"index": 114089, "D": "a region that lacks appreciable topographic relief.", "S": ["expanse ", "field ", "grassland ", "meadow ", "plateau ", "prairie ", "steppe "], "A": []}
+{"index": 114089, "D": "a region that lacks appreciable topographic relief.", "S": ["expanse", "field", "grassland", "meadow", "plateau", "prairie", "steppe"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 335045, "D": "not anticipated; unforeseen", "S": ["hasty ", "hurried ", "precipitous ", "quick ", "sudden ", "surprising ", "unexpected ", "unforeseen "], "A": ["expected ", "lazy ", "slow "]}
+{"index": 335045, "D": "not anticipated; unforeseen", "S": ["hasty", "hurried", "precipitous", "quick", "sudden", "surprising", "unexpected", "unforeseen"], "A": ["expected", "lazy", "slow"]}

@@ -1,1 +1,1 @@
-{"index": 115329, "D": "the part of an anchor that catches in the ground, especially the flat triangular piece at the end of each arm.", "S": ["blessing ", "quirk "], "A": ["misfortune "]}
+{"index": 115329, "D": "the part of an anchor that catches in the ground, especially the flat triangular piece at the end of each arm.", "S": ["blessing", "quirk"], "A": ["misfortune"]}

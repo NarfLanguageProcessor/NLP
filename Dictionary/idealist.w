@@ -1,1 +1,1 @@
-{"index": 146314, "D": "a person who cherishes or pursues high or noble principles, purposes, goals, etc.", "S": ["dreamer ", "optimist ", "visionary "], "A": ["pragmatist ", "realist "]}
+{"index": 146314, "D": "a person who cherishes or pursues high or noble principles, purposes, goals, etc.", "S": ["dreamer", "optimist", "visionary"], "A": ["pragmatist", "realist"]}

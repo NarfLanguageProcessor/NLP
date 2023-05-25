@@ -1,1 +1,1 @@
-{"index": 164612, "D": "a person who spoils the joy or pleasure of others; spoilsport", "S": ["complainer ", "dampener ", "grouch ", "moaner ", "pessimist ", "whiner "], "A": []}
+{"index": 164612, "D": "a person who spoils the joy or pleasure of others; spoilsport", "S": ["complainer", "dampener", "grouch", "moaner", "pessimist", "whiner"], "A": []}

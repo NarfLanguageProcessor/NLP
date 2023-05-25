@@ -1,1 +1,1 @@
-{"index": 197792, "D": "a list of persons who have died within a certain time.", "S": ["death announcement ", "mortuary tribute ", "obit "], "A": []}
+{"index": 197792, "D": "a list of persons who have died within a certain time.", "S": ["death announcement", "mortuary tribute", "obit"], "A": []}

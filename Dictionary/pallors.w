@@ -1,1 +1,1 @@
-{"index": 224018, "D": "unusual or extreme paleness, as from fear, ill health, or death; wanness.", "S": ["colorlessness ", "etiolation ", "pallidity ", "sallowness ", "wanness ", "whiteness "], "A": []}
+{"index": 224018, "D": "unusual or extreme paleness, as from fear, ill health, or death; wanness.", "S": ["colorlessness", "etiolation", "pallidity", "sallowness", "wanness", "whiteness"], "A": []}

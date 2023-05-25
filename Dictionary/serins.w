@@ -1,1 +1,1 @@
-{"index": 286117, "D": "a small finch, Serinus serinus, of Europe and northern Africa, closely related to the canary.", "S": ["canary ", "lark ", "oscine ", "pipit ", "vireo ", "wren "], "A": []}
+{"index": 286117, "D": "a small finch, Serinus serinus, of Europe and northern Africa, closely related to the canary.", "S": ["canary", "lark", "oscine", "pipit", "vireo", "wren"], "A": []}

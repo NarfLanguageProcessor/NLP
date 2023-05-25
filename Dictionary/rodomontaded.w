@@ -1,1 +1,1 @@
-{"index": 273776, "D": "vainglorious boasting or bragging; pretentious, blustering talk.", "S": ["boast ", "crow ", "gloat "], "A": ["conceal ", "hide "]}
+{"index": 273776, "D": "vainglorious boasting or bragging; pretentious, blustering talk.", "S": ["boast", "crow", "gloat"], "A": ["conceal", "hide"]}

@@ -1,1 +1,1 @@
-{"index": 40841, "D": "a brindled  coloring.", "S": ["bespeckle ", "besprinkle ", "dapple ", "dot ", "flake ", "fleck ", "freckle ", "mosaic ", "patch ", "pepper ", "speck ", "spot ", "sprinkle ", "stipple ", "variegate "], "A": []}
+{"index": 40841, "D": "a brindled  coloring.", "S": ["bespeckle", "besprinkle", "dapple", "dot", "flake", "fleck", "freckle", "mosaic", "patch", "pepper", "speck", "spot", "sprinkle", "stipple", "variegate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 63609, "D": "affected with or characterized by coma.", "S": ["senseless "], "A": ["alert ", "awake ", "conscious "]}
+{"index": 63609, "D": "affected with or characterized by coma.", "S": ["senseless"], "A": ["alert", "awake", "conscious"]}

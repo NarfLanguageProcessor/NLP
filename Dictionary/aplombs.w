@@ -1,1 +1,1 @@
-{"index": 17065, "D": "imperturbable self-possession, poise, or assurance.", "S": ["equanimity ", "nonchalance ", "tact "], "A": ["fear "]}
+{"index": 17065, "D": "imperturbable self-possession, poise, or assurance.", "S": ["equanimity", "nonchalance", "tact"], "A": ["fear"]}

@@ -1,1 +1,1 @@
-{"index": 117977, "D": "a cardinal number, three plus one.", "S": ["quadruple ", "quadruplicate ", "quaternary ", "tetrad "], "A": []}
+{"index": 117977, "D": "a cardinal number, three plus one.", "S": ["quadruple", "quadruplicate", "quaternary", "tetrad"], "A": []}

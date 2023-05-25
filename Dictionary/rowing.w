@@ -1,1 +1,1 @@
-{"index": 275031, "D": "a number of persons or things arranged in a line, especially a straight line", "S": ["maritime ", "navigational ", "seafaring "], "A": []}
+{"index": 275031, "D": "a number of persons or things arranged in a line, especially a straight line", "S": ["maritime", "navigational", "seafaring"], "A": []}

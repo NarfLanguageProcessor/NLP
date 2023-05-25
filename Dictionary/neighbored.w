@@ -1,1 +1,1 @@
-{"index": 198138, "D": "a person who lives near another", "S": ["acquaintance ", "friend "], "A": []}
+{"index": 198138, "D": "a person who lives near another", "S": ["acquaintance", "friend"], "A": []}

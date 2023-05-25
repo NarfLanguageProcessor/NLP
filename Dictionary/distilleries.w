@@ -1,1 +1,1 @@
-{"index": 89786, "D": "a place or establishment where distilling,  especially the distilling of liquors, is done.", "S": ["alcohol ", "drink ", "liquor ", "spirits "], "A": []}
+{"index": 89786, "D": "a place or establishment where distilling,  especially the distilling of liquors, is done.", "S": ["alcohol", "drink", "liquor", "spirits"], "A": []}

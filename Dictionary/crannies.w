@@ -1,1 +1,1 @@
-{"index": 72149, "D": "a small, narrow opening in a wall, rock, etc.; chink; crevice; fissure", "S": ["breach ", "chink ", "cleft ", "crack ", "crevice ", "fissure ", "gap ", "hole ", "interstice ", "niche "], "A": ["closing ", "closure ", "solid "]}
+{"index": 72149, "D": "a small, narrow opening in a wall, rock, etc.; chink; crevice; fissure", "S": ["breach", "chink", "cleft", "crack", "crevice", "fissure", "gap", "hole", "interstice", "niche"], "A": ["closing", "closure", "solid"]}

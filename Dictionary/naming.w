@@ -1,1 +1,1 @@
-{"index": 196705, "D": "a word or a combination of words by which a person, place, or thing, a body or class, or any object of thought is designated, called, or known.", "S": ["announcing ", "citing ", "copying ", "reciting ", "stating "], "A": []}
+{"index": 196705, "D": "a word or a combination of words by which a person, place, or thing, a body or class, or any object of thought is designated, called, or known.", "S": ["announcing", "citing", "copying", "reciting", "stating"], "A": []}

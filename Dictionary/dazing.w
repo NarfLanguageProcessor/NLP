@@ -1,1 +1,1 @@
-{"index": 77378, "D": "to stun or stupefy with a blow, shock, etc.", "S": ["stupor "], "A": ["expectation ", "understanding "]}
+{"index": 77378, "D": "to stun or stupefy with a blow, shock, etc.", "S": ["stupor"], "A": ["expectation", "understanding"]}

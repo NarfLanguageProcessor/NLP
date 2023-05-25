@@ -1,1 +1,0 @@
-{"index": 360832, "D": "Compare grand vizier. ", "S": [], "A": []}

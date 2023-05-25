@@ -1,1 +1,1 @@
-{"index": 318606, "D": "to be indecisive or evasive to gain time or delay acting.", "S": ["balk ", "delay ", "equivocate ", "hedge ", "hesitate ", "procrastinate ", "stall "], "A": ["advance ", "face ", "further ", "go ahead ", "help ", "meet "]}
+{"index": 318606, "D": "to be indecisive or evasive to gain time or delay acting.", "S": ["balk", "delay", "equivocate", "hedge", "hesitate", "procrastinate", "stall"], "A": ["advance", "face", "further", "go ahead", "help", "meet"]}

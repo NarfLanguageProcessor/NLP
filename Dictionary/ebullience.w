@@ -1,1 +1,1 @@
-{"index": 95047, "D": "high spirits; exhilaration; exuberance.", "S": ["buoyancy ", "elation ", "exuberance ", "gaiety ", "liveliness "], "A": ["depression ", "sadness ", "unhappiness ", "apathy ", "calm ", "discouragement ", "dullness ", "lethargy ", "peace "]}
+{"index": 95047, "D": "high spirits; exhilaration; exuberance.", "S": ["buoyancy", "elation", "exuberance", "gaiety", "liveliness"], "A": ["depression", "sadness", "unhappiness", "apathy", "calm", "discouragement", "dullness", "lethargy", "peace"]}

@@ -1,1 +1,1 @@
-{"index": 324878, "D": "an obsequious flatterer; sycophant.", "S": ["retinue "], "A": ["leader "]}
+{"index": 324878, "D": "an obsequious flatterer; sycophant.", "S": ["retinue"], "A": ["leader"]}

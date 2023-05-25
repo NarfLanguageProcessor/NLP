@@ -1,1 +1,1 @@
-{"index": 133846, "D": "marked by agreement in feeling, attitude, or action", "S": ["amicable ", "balanced ", "congenial ", "coordinated ", "cordial ", "peaceful "], "A": ["disagreeable ", "hostile ", "unfriendly "]}
+{"index": 133846, "D": "marked by agreement in feeling, attitude, or action", "S": ["amicable", "balanced", "congenial", "coordinated", "cordial", "peaceful"], "A": ["disagreeable", "hostile", "unfriendly"]}

@@ -1,1 +1,0 @@
-{"index": 353826, "D": "having a cruel, wicked, malicious nature or character.", "S": [], "A": []}

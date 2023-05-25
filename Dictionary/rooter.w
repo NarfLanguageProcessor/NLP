@@ -1,1 +1,1 @@
-{"index": 274310, "D": "a person, animal, or thing that roots,  as with the snout.", "S": ["adherent ", "believer ", "booster ", "buff ", "devotee ", "disciple ", "enthusiast ", "fan ", "follower ", "partisan ", "patron ", "supporter "], "A": ["adversary ", "detractor ", "enemy ", "opponent "]}
+{"index": 274310, "D": "a person, animal, or thing that roots,  as with the snout.", "S": ["adherent", "believer", "booster", "buff", "devotee", "disciple", "enthusiast", "fan", "follower", "partisan", "patron", "supporter"], "A": ["adversary", "detractor", "enemy", "opponent"]}

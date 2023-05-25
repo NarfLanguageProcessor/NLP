@@ -1,1 +1,1 @@
-{"index": 264806, "D": "to found, institute, build, or bring into being on a firm or stable basis", "S": ["renew ", "restore ", "resume ", "return to "], "A": ["finish ", "halt ", "stop "]}
+{"index": 264806, "D": "to found, institute, build, or bring into being on a firm or stable basis", "S": ["renew", "restore", "resume", "return to"], "A": ["finish", "halt", "stop"]}

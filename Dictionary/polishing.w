@@ -1,1 +1,1 @@
-{"index": 242398, "D": "to make smooth and glossy, especially by rubbing or friction", "S": ["abrading ", "coarse "], "A": ["fine ", "fine-grained "]}
+{"index": 242398, "D": "to make smooth and glossy, especially by rubbing or friction", "S": ["abrading", "coarse"], "A": ["fine", "fine-grained"]}

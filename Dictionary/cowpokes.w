@@ -1,1 +1,1 @@
-{"index": 71650, "D": "a cowboy or cowgirl.", "S": ["bronco "], "A": []}
+{"index": 71650, "D": "a cowboy or cowgirl.", "S": ["bronco"], "A": []}

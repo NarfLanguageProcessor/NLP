@@ -1,1 +1,1 @@
-{"index": 365538, "D": "having lost one\u2019s spouse to death", "S": ["only ", "unattended "], "A": ["together "]}
+{"index": 365538, "D": "having lost one\u2019s spouse to death", "S": ["only", "unattended"], "A": ["together"]}

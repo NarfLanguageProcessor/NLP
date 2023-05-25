@@ -1,1 +1,1 @@
-{"index": 347063, "D": "not obtrusive;  inconspicuous, unassertive, or reticent.", "S": ["shyness "], "A": ["boldness ", "confidence "]}
+{"index": 347063, "D": "not obtrusive;  inconspicuous, unassertive, or reticent.", "S": ["shyness"], "A": ["boldness", "confidence"]}

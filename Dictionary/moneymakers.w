@@ -1,1 +1,1 @@
-{"index": 191851, "D": "a person engaged in or successful at acquiring much money. ", "S": ["angel ", "backer ", "golden goose ", "grubstaker ", "meal ticket ", "money-spinner ", "patron ", "source of steady profit ", "staker "], "A": []}
+{"index": 191851, "D": "a person engaged in or successful at acquiring much money. ", "S": ["angel", "backer", "golden goose", "grubstaker", "meal ticket", "money-spinner", "patron", "source of steady profit", "staker"], "A": []}

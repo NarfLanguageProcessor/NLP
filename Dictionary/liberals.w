@@ -1,1 +1,1 @@
-{"index": 171494, "D": "favorable to progress or reform, as in political or religious affairs.", "S": ["dissenter ", "dissident ", "free spirit ", "individualist ", "maverick "], "A": ["conformist ", "square "]}
+{"index": 171494, "D": "favorable to progress or reform, as in political or religious affairs.", "S": ["dissenter", "dissident", "free spirit", "individualist", "maverick"], "A": ["conformist", "square"]}

@@ -1,1 +1,1 @@
-{"index": 130313, "D": "a basic knowledge of or training in a subject", "S": ["backdrop ", "culture ", "education ", "environment ", "history ", "practice ", "qualification ", "tradition ", "training ", "upbringing "], "A": ["ignorance "]}
+{"index": 130313, "D": "a basic knowledge of or training in a subject", "S": ["backdrop", "culture", "education", "environment", "history", "practice", "qualification", "tradition", "training", "upbringing"], "A": ["ignorance"]}

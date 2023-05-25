@@ -1,1 +1,1 @@
-{"index": 295627, "D": "a person who imitates, cultivates, or slavishly admires social superiors and is condescending or overbearing to others.", "S": ["braggart ", "highbrow ", "parvenu ", "pretender ", "upstart "], "A": []}
+{"index": 295627, "D": "a person who imitates, cultivates, or slavishly admires social superiors and is condescending or overbearing to others.", "S": ["braggart", "highbrow", "parvenu", "pretender", "upstart"], "A": []}

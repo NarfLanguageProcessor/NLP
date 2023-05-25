@@ -1,1 +1,1 @@
-{"index": 36949, "D": "a piece of wood sawed thin, and of considerable length and breadth compared with the thickness.", "S": ["field ", "gym ", "gymnasium ", "park ", "ring ", "rink ", "square ", "stadium ", "stage "], "A": []}
+{"index": 36949, "D": "a piece of wood sawed thin, and of considerable length and breadth compared with the thickness.", "S": ["field", "gym", "gymnasium", "park", "ring", "rink", "square", "stadium", "stage"], "A": []}

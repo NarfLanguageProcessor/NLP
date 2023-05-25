@@ -1,1 +1,1 @@
-{"index": 141604, "D": "to engage the services of (someone) for wages or other payment", "S": ["employed "], "A": ["idle "]}
+{"index": 141604, "D": "to engage the services of (someone) for wages or other payment", "S": ["employed"], "A": ["idle"]}

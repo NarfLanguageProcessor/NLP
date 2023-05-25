@@ -1,1 +1,1 @@
-{"index": 239459, "D": "a heavy, grayish-white, highly malleable and ductile metallic element, resistant to most chemicals, practically unoxidizable except in the presence of bases, and fusible only at extremely high temperatures", "S": ["blond "], "A": ["brunet ", "brunette "]}
+{"index": 239459, "D": "a heavy, grayish-white, highly malleable and ductile metallic element, resistant to most chemicals, practically unoxidizable except in the presence of bases, and fusible only at extremely high temperatures", "S": ["blond"], "A": ["brunet", "brunette"]}

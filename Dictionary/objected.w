@@ -1,1 +1,1 @@
-{"index": 210092, "D": "anything that is visible or tangible and is relatively stable in form.", "S": ["balk ", "complain ", "criticize ", "oppose ", "protest "], "A": ["aid ", "approve ", "help ", "praise ", "agree ", "compliment ", "consent ", "endorse ", "give in ", "go along ", "sanction "]}
+{"index": 210092, "D": "anything that is visible or tangible and is relatively stable in form.", "S": ["balk", "complain", "criticize", "oppose", "protest"], "A": ["aid", "approve", "help", "praise", "agree", "compliment", "consent", "endorse", "give in", "go along", "sanction"]}

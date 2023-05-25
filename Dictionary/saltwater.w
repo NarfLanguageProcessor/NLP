@@ -1,1 +1,1 @@
-{"index": 277350, "D": "of or relating to salt water. ", "S": ["aquatic ", "coastal ", "deep-sea ", "maritime ", "naval ", "seagoing "], "A": []}
+{"index": 277350, "D": "of or relating to salt water. ", "S": ["aquatic", "coastal", "deep-sea", "maritime", "naval", "seagoing"], "A": []}

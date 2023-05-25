@@ -1,1 +1,1 @@
-{"index": 285350, "D": "any of the faculties, as sight, hearing, smell, taste, or touch, by which humans and animals perceive stimuli originating from outside or inside the body", "S": ["feel ", "impression ", "sensibility ", "sensitivity ", "taste ", "touch "], "A": ["apathy ", "lot "]}
+{"index": 285350, "D": "any of the faculties, as sight, hearing, smell, taste, or touch, by which humans and animals perceive stimuli originating from outside or inside the body", "S": ["feel", "impression", "sensibility", "sensitivity", "taste", "touch"], "A": ["apathy", "lot"]}

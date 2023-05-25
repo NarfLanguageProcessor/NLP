@@ -1,1 +1,1 @@
-{"index": 43108, "D": "the chief magistrate of a municipal town of Holland, Flanders, Germany, or Austria.", "S": ["first selectman ", "lord mayor ", "maire ", "mayor ", "supervisor "], "A": []}
+{"index": 43108, "D": "the chief magistrate of a municipal town of Holland, Flanders, Germany, or Austria.", "S": ["first selectman", "lord mayor", "maire", "mayor", "supervisor"], "A": []}

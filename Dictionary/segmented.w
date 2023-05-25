@@ -1,1 +1,1 @@
-{"index": 283214, "D": "one of the parts into which something naturally separates or is divided; a division, portion, or section", "S": ["anecdotal ", "disjointed "], "A": ["connected ", "lasting ", "permanent ", "regular ", "unbroken "]}
+{"index": 283214, "D": "one of the parts into which something naturally separates or is divided; a division, portion, or section", "S": ["anecdotal", "disjointed"], "A": ["connected", "lasting", "permanent", "regular", "unbroken"]}

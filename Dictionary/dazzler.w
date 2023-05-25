@@ -1,1 +1,1 @@
-{"index": 77383, "D": "to overpower or dim the vision of by intense light", "S": ["beauty ", "knockout ", "looker ", "lovely ", "show ", "spectacle ", "stunner ", "vision "], "A": ["reality "]}
+{"index": 77383, "D": "to overpower or dim the vision of by intense light", "S": ["beauty", "knockout", "looker", "lovely", "show", "spectacle", "stunner", "vision"], "A": ["reality"]}

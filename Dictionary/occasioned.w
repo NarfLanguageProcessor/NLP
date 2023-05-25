@@ -1,1 +1,1 @@
-{"index": 210653, "D": "a particular time, especially as marked by certain circumstances or occurrences", "S": ["bred "], "A": []}
+{"index": 210653, "D": "a particular time, especially as marked by certain circumstances or occurrences", "S": ["bred"], "A": []}

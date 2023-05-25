@@ -1,1 +1,1 @@
-{"index": 59330, "D": "clear and shrill", "S": ["clarion ", "cornet ", "trumpet "], "A": []}
+{"index": 59330, "D": "clear and shrill", "S": ["clarion", "cornet", "trumpet"], "A": []}

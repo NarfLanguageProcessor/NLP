@@ -1,1 +1,1 @@
-{"index": 147370, "D": "narrowminded; bigoted.", "S": ["biased ", "bigoted ", "greedy ", "hidebound ", "mean ", "myopic ", "parsimonious ", "partial ", "prejudiced ", "stingy ", "ungenerous ", "vulgar "], "A": []}
+{"index": 147370, "D": "narrowminded; bigoted.", "S": ["biased", "bigoted", "greedy", "hidebound", "mean", "myopic", "parsimonious", "partial", "prejudiced", "stingy", "ungenerous", "vulgar"], "A": []}

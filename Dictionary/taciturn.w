@@ -1,1 +1,1 @@
-{"index": 315060, "D": "inclined to silence; reserved in speech; reluctant to join in conversation.", "S": ["aloof ", "dour ", "laconic ", "reticent "], "A": ["communicative ", "fluent ", "talkative ", "wordy "]}
+{"index": 315060, "D": "inclined to silence; reserved in speech; reluctant to join in conversation.", "S": ["aloof", "dour", "laconic", "reticent"], "A": ["communicative", "fluent", "talkative", "wordy"]}

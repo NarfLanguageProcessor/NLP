@@ -1,1 +1,1 @@
-{"index": 283032, "D": "to lead astray, as from duty, rectitude, or the like; corrupt.", "S": ["Casanova ", "Lothario ", "Romeo ", "philanderer ", "playboy ", "rake ", "seductress ", "womanizer "], "A": []}
+{"index": 283032, "D": "to lead astray, as from duty, rectitude, or the like; corrupt.", "S": ["Casanova", "Lothario", "Romeo", "philanderer", "playboy", "rake", "seductress", "womanizer"], "A": []}

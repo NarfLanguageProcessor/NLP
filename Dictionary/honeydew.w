@@ -1,1 +1,1 @@
-{"index": 143343, "D": "honeydew melon. ", "S": ["cantaloupe ", "gourd ", "papaya ", "watermelon "], "A": []}
+{"index": 143343, "D": "honeydew melon. ", "S": ["cantaloupe", "gourd", "papaya", "watermelon"], "A": []}

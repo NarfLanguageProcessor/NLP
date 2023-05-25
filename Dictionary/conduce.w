@@ -1,1 +1,1 @@
-{"index": 65679, "D": "to lead or contribute to a result (usually followed by to or toward)", "S": ["advance ", "aid ", "assist ", "forward ", "help ", "lead ", "partake ", "participate "], "A": ["block ", "decrease ", "halt ", "hinder ", "hurt ", "impede ", "injure ", "obstruct ", "stop "]}
+{"index": 65679, "D": "to lead or contribute to a result (usually followed by to or toward)", "S": ["advance", "aid", "assist", "forward", "help", "lead", "partake", "participate"], "A": ["block", "decrease", "halt", "hinder", "hurt", "impede", "injure", "obstruct", "stop"]}

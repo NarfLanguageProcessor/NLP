@@ -1,1 +1,1 @@
-{"index": 114482, "D": "a simple past tense of fly2. ", "S": ["circle ", "climb ", "cross ", "drift ", "float ", "flutter ", "glide ", "operate ", "pilot ", "reach ", "rush ", "sail ", "shoot ", "speed ", "swoop ", "take off ", "travel "], "A": ["remain ", "slow ", "stay ", "decelerate ", "rest "]}
+{"index": 114482, "D": "a simple past tense of fly2. ", "S": ["circle", "climb", "cross", "drift", "float", "flutter", "glide", "operate", "pilot", "reach", "rush", "sail", "shoot", "speed", "swoop", "take off", "travel"], "A": ["remain", "slow", "stay", "decelerate", "rest"]}

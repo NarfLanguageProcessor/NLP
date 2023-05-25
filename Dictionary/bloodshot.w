@@ -1,1 +1,1 @@
-{"index": 36475, "D": "(of the eyes) red because of dilated blood vessels.", "S": ["bloody ", "red "], "A": []}
+{"index": 36475, "D": "(of the eyes) red because of dilated blood vessels.", "S": ["bloody", "red"], "A": []}

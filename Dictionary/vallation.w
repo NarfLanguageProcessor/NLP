@@ -1,1 +1,1 @@
-{"index": 356758, "D": "a rampart or entrenchment.", "S": ["bastion ", "fortress ", "mainstay ", "redoubt "], "A": ["harm ", "hurt ", "injury "]}
+{"index": 356758, "D": "a rampart or entrenchment.", "S": ["bastion", "fortress", "mainstay", "redoubt"], "A": ["harm", "hurt", "injury"]}

@@ -1,1 +1,1 @@
-{"index": 79372, "D": "to bend or turn aside; turn from a true course or straight line; swerve.", "S": ["avert ", "bend ", "cover up ", "divert ", "hook ", "pivot ", "ricochet ", "slip ", "swerve ", "veer ", "whip "], "A": ["stay ", "straighten "]}
+{"index": 79372, "D": "to bend or turn aside; turn from a true course or straight line; swerve.", "S": ["avert", "bend", "cover up", "divert", "hook", "pivot", "ricochet", "slip", "swerve", "veer", "whip"], "A": ["stay", "straighten"]}

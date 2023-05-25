@@ -1,1 +1,1 @@
-{"index": 151366, "D": "characterized by or showing indulgence;  benignly lenient or permissive", "S": ["considerate ", "fond ", "kindly ", "permissive ", "tolerant "], "A": ["inconsiderate ", "intolerant ", "mean "]}
+{"index": 151366, "D": "characterized by or showing indulgence;  benignly lenient or permissive", "S": ["considerate", "fond", "kindly", "permissive", "tolerant"], "A": ["inconsiderate", "intolerant", "mean"]}

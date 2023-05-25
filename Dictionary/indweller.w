@@ -1,1 +1,1 @@
-{"index": 151439, "D": "to inhabit.", "S": ["dweller ", "inhabitant ", "occupant "], "A": ["alien ", "foreigner ", "immigrant "]}
+{"index": 151439, "D": "to inhabit.", "S": ["dweller", "inhabitant", "occupant"], "A": ["alien", "foreigner", "immigrant"]}

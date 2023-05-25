@@ -1,1 +1,1 @@
-{"index": 175038, "D": "a card game in which forfeits are paid into a pool.", "S": ["bathroom ", "comfort station ", "girls' room ", "ladies' ", "ladies' room ", "latrine ", "lavatory ", "rest room ", "restroom ", "toilet ", "washroom "], "A": []}
+{"index": 175038, "D": "a card game in which forfeits are paid into a pool.", "S": ["bathroom", "comfort station", "girls' room", "ladies'", "ladies' room", "latrine", "lavatory", "rest room", "restroom", "toilet", "washroom"], "A": []}

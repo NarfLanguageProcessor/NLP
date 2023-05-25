@@ -1,1 +1,1 @@
-{"index": 246627, "D": "of the nature of a precursor; preliminary; introductory", "S": ["anterior ", "former ", "past ", "precedent ", "preliminary "], "A": ["current ", "future ", "present ", "subsequent "]}
+{"index": 246627, "D": "of the nature of a precursor; preliminary; introductory", "S": ["anterior", "former", "past", "precedent", "preliminary"], "A": ["current", "future", "present", "subsequent"]}

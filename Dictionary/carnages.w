@@ -1,1 +1,1 @@
-{"index": 48187, "D": "the slaughter of a great number of people, as in battle; butchery; massacre. ", "S": ["bloodshed ", "butchery ", "crime ", "havoc ", "killing ", "mass murder ", "slaughter ", "slaying ", "warfare "], "A": ["peace "]}
+{"index": 48187, "D": "the slaughter of a great number of people, as in battle; butchery; massacre. ", "S": ["bloodshed", "butchery", "crime", "havoc", "killing", "mass murder", "slaughter", "slaying", "warfare"], "A": ["peace"]}

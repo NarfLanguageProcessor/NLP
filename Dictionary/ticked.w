@@ -1,1 +1,1 @@
-{"index": 323213, "D": "angry; miffed.", "S": ["beat ", "blow ", "clack ", "click ", "clicking ", "flash ", "instant ", "minute ", "moment ", "pulsation ", "pulse ", "rap ", "second ", "shake ", "tap ", "tapping ", "throb ", "ticktock ", "twinkling ", "wink "], "A": []}
+{"index": 323213, "D": "angry; miffed.", "S": ["beat", "blow", "clack", "click", "clicking", "flash", "instant", "minute", "moment", "pulsation", "pulse", "rap", "second", "shake", "tap", "tapping", "throb", "ticktock", "twinkling", "wink"], "A": []}

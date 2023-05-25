@@ -1,1 +1,1 @@
-{"index": 40157, "D": "in a shameless, bold, or impudent manner", "S": ["courageously ", "daringly ", "eagerly ", "fearlessly "], "A": ["cautiously ", "cowardly ", "fearfully "]}
+{"index": 40157, "D": "in a shameless, bold, or impudent manner", "S": ["courageously", "daringly", "eagerly", "fearlessly"], "A": ["cautiously", "cowardly", "fearfully"]}

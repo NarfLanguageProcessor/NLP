@@ -1,1 +1,1 @@
-{"index": 223158, "D": "without pain;  causing little or no pain", "S": ["accessible ", "clear ", "effortless ", "obvious ", "simple ", "smooth ", "straightforward ", "uncomplicated "], "A": ["complicated ", "difficult ", "hard ", "obscure "]}
+{"index": 223158, "D": "without pain;  causing little or no pain", "S": ["accessible", "clear", "effortless", "obvious", "simple", "smooth", "straightforward", "uncomplicated"], "A": ["complicated", "difficult", "hard", "obscure"]}

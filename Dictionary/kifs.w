@@ -1,1 +1,1 @@
-{"index": 164528, "D": "a variant of kef. ", "S": ["bhang ", "cannabis ", "fiber ", "flax ", "hashish ", "jute ", "marijuana "], "A": []}
+{"index": 164528, "D": "a variant of kef. ", "S": ["bhang", "cannabis", "fiber", "flax", "hashish", "jute", "marijuana"], "A": []}

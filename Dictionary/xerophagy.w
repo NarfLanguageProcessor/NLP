@@ -1,1 +1,1 @@
-{"index": 368475, "D": "a Lenten fast observed especially during Holy Week, constituting the strictest fast in the Eastern Church.", "S": ["Lenten fast ", "hunger strike ", "keeping fast ", "strict fast ", "without food ", "xerophagia "], "A": []}
+{"index": 368475, "D": "a Lenten fast observed especially during Holy Week, constituting the strictest fast in the Eastern Church.", "S": ["Lenten fast", "hunger strike", "keeping fast", "strict fast", "without food", "xerophagia"], "A": []}

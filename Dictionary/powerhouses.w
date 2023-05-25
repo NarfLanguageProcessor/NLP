@@ -1,1 +1,1 @@
-{"index": 245011, "D": "a generating station.", "S": ["force ", "government ", "jurisdiction ", "rule "], "A": ["breach ", "break ", "disadvantage ", "inferiority ", "lack ", "lethargy ", "powerlessness ", "prohibition ", "subordination ", "weakness "]}
+{"index": 245011, "D": "a generating station.", "S": ["force", "government", "jurisdiction", "rule"], "A": ["breach", "break", "disadvantage", "inferiority", "lack", "lethargy", "powerlessness", "prohibition", "subordination", "weakness"]}

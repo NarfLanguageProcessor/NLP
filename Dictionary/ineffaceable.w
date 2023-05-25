@@ -1,1 +1,1 @@
-{"index": 151474, "D": "not effaceable or eradicable; indelible", "S": ["enduring ", "lasting ", "memorable ", "stirring ", "unforgettable "], "A": ["destructible ", "impermanent "]}
+{"index": 151474, "D": "not effaceable or eradicable; indelible", "S": ["enduring", "lasting", "memorable", "stirring", "unforgettable"], "A": ["destructible", "impermanent"]}

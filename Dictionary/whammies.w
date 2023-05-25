@@ -1,1 +1,1 @@
-{"index": 364379, "D": "a devastating blow, setback, or catastrophe", "S": ["hex "], "A": []}
+{"index": 364379, "D": "a devastating blow, setback, or catastrophe", "S": ["hex"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 36918, "D": "basal metabolism. ", "S": ["crap ", "dung ", "excrement ", "excretion ", "fecal matter ", "feces ", "feculence ", "manure ", "number two ", "poop ", "shit ", "stool ", "waste "], "A": []}
+{"index": 36918, "D": "basal metabolism. ", "S": ["crap", "dung", "excrement", "excretion", "fecal matter", "feces", "feculence", "manure", "number two", "poop", "shit", "stool", "waste"], "A": []}

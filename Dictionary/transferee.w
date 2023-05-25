@@ -1,1 +1,0 @@
-{"index": 327839, "D": "a person who is transferred  or removed, as from one place to another.", "S": [], "A": []}

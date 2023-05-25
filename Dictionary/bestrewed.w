@@ -1,1 +1,1 @@
-{"index": 32624, "D": "to strew or cover (a surface).", "S": ["infuse ", "pepper ", "sprinkle "], "A": ["collect ", "gather "]}
+{"index": 32624, "D": "to strew or cover (a surface).", "S": ["infuse", "pepper", "sprinkle"], "A": ["collect", "gather"]}

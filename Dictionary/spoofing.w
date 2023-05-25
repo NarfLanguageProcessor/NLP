@@ -1,1 +1,0 @@
-{"index": 300837, "D": "the act or an instance of impersonating another person on the internet or via email", "S": ["biting ", "caustic ", "incisive ", "mordant ", "sarcastic ", "sardonic ", "satiric "], "A": ["calm ", "kind ", "mild ", "nice "]}

@@ -1,1 +1,1 @@
-{"index": 197995, "D": "extremely wicked or villainous; iniquitous", "S": ["heinous ", "horrible ", "odious ", "outrageous ", "shameful ", "vicious ", "vile "], "A": ["delightful ", "gentle ", "good ", "kind ", "magnificent ", "nice ", "pleasant ", "pleasing ", "wonderful "]}
+{"index": 197995, "D": "extremely wicked or villainous; iniquitous", "S": ["heinous", "horrible", "odious", "outrageous", "shameful", "vicious", "vile"], "A": ["delightful", "gentle", "good", "kind", "magnificent", "nice", "pleasant", "pleasing", "wonderful"]}

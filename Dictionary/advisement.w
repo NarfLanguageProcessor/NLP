@@ -1,1 +1,1 @@
-{"index": 4699, "D": "careful deliberation or consideration; consultation", "S": ["calculation ", "consideration ", "deliberation ", "scrutiny ", "study ", "weighing "], "A": []}
+{"index": 4699, "D": "careful deliberation or consideration; consultation", "S": ["calculation", "consideration", "deliberation", "scrutiny", "study", "weighing"], "A": []}

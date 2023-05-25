@@ -1,1 +1,1 @@
-{"index": 306722, "D": "of the nature of or resembling a stub. ", "S": ["fat ", "heavyset ", "squat ", "stocky ", "stout ", "stumpy ", "thick-bodied ", "thickset "], "A": ["lanky ", "long ", "thin "]}
+{"index": 306722, "D": "of the nature of or resembling a stub. ", "S": ["fat", "heavyset", "squat", "stocky", "stout", "stumpy", "thick-bodied", "thickset"], "A": ["lanky", "long", "thin"]}

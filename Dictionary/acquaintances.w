@@ -1,1 +1,1 @@
-{"index": 2710, "D": "a person known to one, but usually not a close friend.", "S": ["consanguinity ", "family ", "friends and relatives ", "kin ", "kindred ", "kinfolk ", "kinsfolk ", "kinsmen ", "relations ", "relatives "], "A": []}
+{"index": 2710, "D": "a person known to one, but usually not a close friend.", "S": ["consanguinity", "family", "friends and relatives", "kin", "kindred", "kinfolk", "kinsfolk", "kinsmen", "relations", "relatives"], "A": []}

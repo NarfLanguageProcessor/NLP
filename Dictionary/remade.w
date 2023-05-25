@@ -1,1 +1,1 @@
-{"index": 267076, "D": "to make  again or anew.", "S": ["fixed ", "overhauled ", "redone ", "refitted ", "renovated ", "revised "], "A": []}
+{"index": 267076, "D": "to make  again or anew.", "S": ["fixed", "overhauled", "redone", "refitted", "renovated", "revised"], "A": []}

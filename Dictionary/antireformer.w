@@ -1,0 +1,1 @@
+{"index": 16068, "D": "a person devoted to bringing about reform,  as in politics or society.", "S": [], "A": []}

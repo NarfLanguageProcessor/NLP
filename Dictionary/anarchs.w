@@ -1,1 +1,1 @@
-{"index": 11972, "D": "anarchist. ", "S": ["demonstrator ", "mutineer ", "radical ", "revolutionary ", "rioter "], "A": []}
+{"index": 11972, "D": "anarchist. ", "S": ["demonstrator", "mutineer", "radical", "revolutionary", "rioter"], "A": []}

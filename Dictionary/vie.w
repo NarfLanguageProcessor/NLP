@@ -1,1 +1,1 @@
-{"index": 359553, "D": "to strive in competition or rivalry with another; contend for superiority", "S": ["contend ", "strive "], "A": ["agree ", "aid ", "assist ", "help ", "support "]}
+{"index": 359553, "D": "to strive in competition or rivalry with another; contend for superiority", "S": ["contend", "strive"], "A": ["agree", "aid", "assist", "help", "support"]}

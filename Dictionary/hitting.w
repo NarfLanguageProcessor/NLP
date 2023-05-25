@@ -1,1 +1,1 @@
-{"index": 141992, "D": "to deal a blow or stroke to", "S": ["beating ", "punishing ", "slamming ", "slapping ", "smacking ", "thumping ", "whacking ", "whipping "], "A": []}
+{"index": 141992, "D": "to deal a blow or stroke to", "S": ["beating", "punishing", "slamming", "slapping", "smacking", "thumping", "whacking", "whipping"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 1783, "D": "to assume to oneself without right or authority; usurp.", "S": ["appropriate ", "assume ", "commandeer ", "confiscate ", "demand ", "expropriate ", "preempt ", "presume ", "seize ", "take ", "usurp "], "A": ["abstain ", "give ", "keep ", "offer ", "refuse ", "reject "]}
+{"index": 1783, "D": "to assume to oneself without right or authority; usurp.", "S": ["appropriate", "assume", "commandeer", "confiscate", "demand", "expropriate", "preempt", "presume", "seize", "take", "usurp"], "A": ["abstain", "give", "keep", "offer", "refuse", "reject"]}

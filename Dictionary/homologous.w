@@ -1,1 +1,1 @@
-{"index": 143152, "D": "having the same or a similar relation; corresponding, as in relative position or structure.", "S": ["alike ", "analogous ", "autologous ", "correspondent ", "corresponding ", "homologized ", "related "], "A": ["dissimilar ", "unrelated "]}
+{"index": 143152, "D": "having the same or a similar relation; corresponding, as in relative position or structure.", "S": ["alike", "analogous", "autologous", "correspondent", "corresponding", "homologized", "related"], "A": ["dissimilar", "unrelated"]}

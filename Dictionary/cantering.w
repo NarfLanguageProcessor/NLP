@@ -1,1 +1,1 @@
-{"index": 46598, "D": "an easy gallop.", "S": ["lope ", "race ", "trot "], "A": []}
+{"index": 46598, "D": "an easy gallop.", "S": ["lope", "race", "trot"], "A": []}

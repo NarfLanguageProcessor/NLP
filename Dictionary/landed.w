@@ -1,1 +1,1 @@
-{"index": 167920, "D": "owning land,  especially an estate", "S": ["upper class "], "A": ["poor "]}
+{"index": 167920, "D": "owning land,  especially an estate", "S": ["upper class"], "A": ["poor"]}

@@ -1,1 +1,1 @@
-{"index": 337756, "D": "lack of constraint", "S": ["aplomb ", "composure ", "dexterity ", "efficiency ", "familiarity ", "flexibility ", "fluency ", "nonchalance ", "poise ", "quickness ", "simplicity "], "A": ["inability "]}
+{"index": 337756, "D": "lack of constraint", "S": ["aplomb", "composure", "dexterity", "efficiency", "familiarity", "flexibility", "fluency", "nonchalance", "poise", "quickness", "simplicity"], "A": ["inability"]}

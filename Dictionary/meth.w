@@ -1,1 +1,1 @@
-{"index": 185185, "D": "methamphetamine; Methedrine.", "S": ["Methedrine ", "amphetamine ", "analeptic ", "bennie ", "crank ", "restorative ", "speed ", "stimulant ", "tonic ", "upper ", "uppie "], "A": ["downer ", "sleeping pill "]}
+{"index": 185185, "D": "methamphetamine; Methedrine.", "S": ["Methedrine", "amphetamine", "analeptic", "bennie", "crank", "restorative", "speed", "stimulant", "tonic", "upper", "uppie"], "A": ["downer", "sleeping pill"]}

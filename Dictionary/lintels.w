@@ -1,1 +1,1 @@
-{"index": 173021, "D": "a horizontal architectural member supporting the weight above an opening, as a window or a door.", "S": ["girder ", "joist ", "piling ", "pillar ", "plank ", "pole ", "shaft ", "sill ", "timber "], "A": []}
+{"index": 173021, "D": "a horizontal architectural member supporting the weight above an opening, as a window or a door.", "S": ["girder", "joist", "piling", "pillar", "plank", "pole", "shaft", "sill", "timber"], "A": []}

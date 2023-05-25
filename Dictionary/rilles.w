@@ -1,1 +1,1 @@
-{"index": 272927, "D": "a small rivulet or brook.", "S": ["brook ", "channel ", "creek ", "rivulet ", "runnel ", "streamlet ", "trench ", "valley "], "A": []}
+{"index": 272927, "D": "a small rivulet or brook.", "S": ["brook", "channel", "creek", "rivulet", "runnel", "streamlet", "trench", "valley"], "A": []}

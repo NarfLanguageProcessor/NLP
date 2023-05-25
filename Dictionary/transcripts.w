@@ -1,1 +1,1 @@
-{"index": 327771, "D": "a written, typewritten, or printed copy; something transcribed  or made by transcribing. ", "S": ["manuscript ", "transcription ", "translation "], "A": ["original "]}
+{"index": 327771, "D": "a written, typewritten, or printed copy; something transcribed  or made by transcribing. ", "S": ["manuscript", "transcription", "translation"], "A": ["original"]}

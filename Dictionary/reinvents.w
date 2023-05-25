@@ -1,1 +1,1 @@
-{"index": 266486, "D": "to invent  again or anew, especially without knowing that the invention already exists.", "S": ["remake ", "revive "], "A": []}
+{"index": 266486, "D": "to invent  again or anew, especially without knowing that the invention already exists.", "S": ["remake", "revive"], "A": []}

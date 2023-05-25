@@ -1,1 +1,1 @@
-{"index": 365509, "D": "to a wide  extent.", "S": ["extensively ", "generally ", "universally "], "A": ["narrowly "]}
+{"index": 365509, "D": "to a wide  extent.", "S": ["extensively", "generally", "universally"], "A": ["narrowly"]}

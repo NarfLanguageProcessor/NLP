@@ -1,1 +1,1 @@
-{"index": 115131, "D": "to go with impatient or impetuous, exaggerated movements", "S": ["fling ", "jerk ", "mince ", "prance ", "sashay ", "stamp ", "storm ", "strut "], "A": []}
+{"index": 115131, "D": "to go with impatient or impetuous, exaggerated movements", "S": ["fling", "jerk", "mince", "prance", "sashay", "stamp", "storm", "strut"], "A": []}

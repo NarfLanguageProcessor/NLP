@@ -1,1 +1,1 @@
-{"index": 189387, "D": "misled; mistaken", "S": ["folly ", "foolishness ", "madness "], "A": ["seriousness "]}
+{"index": 189387, "D": "misled; mistaken", "S": ["folly", "foolishness", "madness"], "A": ["seriousness"]}

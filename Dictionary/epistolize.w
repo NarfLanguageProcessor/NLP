@@ -1,1 +1,1 @@
-{"index": 102885, "D": "to write a letter.", "S": ["answer ", "pen ", "reply ", "scribble ", "write "], "A": ["question "]}
+{"index": 102885, "D": "to write a letter.", "S": ["answer", "pen", "reply", "scribble", "write"], "A": ["question"]}

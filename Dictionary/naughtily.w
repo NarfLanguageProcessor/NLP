@@ -1,1 +1,1 @@
-{"index": 197388, "D": "disobedient; mischievous (used especially in speaking to or about children)", "S": ["criminally ", "evilly ", "improperly ", "shamefully ", "unethically ", "wickedly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}
+{"index": 197388, "D": "disobedient; mischievous (used especially in speaking to or about children)", "S": ["criminally", "evilly", "improperly", "shamefully", "unethically", "wickedly"], "A": ["adequately", "calmly", "little", "mildly", "morally"]}

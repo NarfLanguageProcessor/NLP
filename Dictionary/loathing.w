@@ -1,1 +1,1 @@
-{"index": 174143, "D": "strong dislike or disgust; intense aversion.", "S": ["abhorrence ", "antipathy ", "aversion ", "contempt ", "disgust ", "dislike ", "enmity ", "hate ", "hatred ", "repulsion ", "revulsion "], "A": ["admiration ", "approval ", "liking ", "love ", "loving ", "respect "]}
+{"index": 174143, "D": "strong dislike or disgust; intense aversion.", "S": ["abhorrence", "antipathy", "aversion", "contempt", "disgust", "dislike", "enmity", "hate", "hatred", "repulsion", "revulsion"], "A": ["admiration", "approval", "liking", "love", "loving", "respect"]}

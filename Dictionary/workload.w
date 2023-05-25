@@ -1,1 +1,1 @@
-{"index": 367517, "D": "the amount of work that a machine, employee, or group of employees can be or is expected to perform.", "S": ["assignment ", "call of duty "], "A": []}
+{"index": 367517, "D": "the amount of work that a machine, employee, or group of employees can be or is expected to perform.", "S": ["assignment", "call of duty"], "A": []}

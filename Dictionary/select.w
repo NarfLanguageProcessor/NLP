@@ -1,1 +1,1 @@
-{"index": 283432, "D": "to choose in preference to another or others; pick out.", "S": ["eclectic ", "exclusive ", "preferred ", "privileged ", "selected ", "selective "], "A": ["open ", "least ", "unpopular "]}
+{"index": 283432, "D": "to choose in preference to another or others; pick out.", "S": ["eclectic", "exclusive", "preferred", "privileged", "selected", "selective"], "A": ["open", "least", "unpopular"]}

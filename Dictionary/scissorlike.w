@@ -1,1 +1,0 @@
-{"index": 280833, "D": "like scissors;  moving, operating, or crossing in a manner suggesting the blades of scissors. ", "S": [], "A": []}

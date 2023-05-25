@@ -1,1 +1,1 @@
-{"index": 38291, "D": "any alcoholic beverage; whiskey.", "S": ["alcoholic ", "drunk ", "drunkard ", "lush ", "sot ", "sponge ", "toper ", "wino "], "A": []}
+{"index": 38291, "D": "any alcoholic beverage; whiskey.", "S": ["alcoholic", "drunk", "drunkard", "lush", "sot", "sponge", "toper", "wino"], "A": []}

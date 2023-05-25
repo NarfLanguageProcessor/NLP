@@ -1,1 +1,1 @@
-{"index": 213295, "D": "a person engaged, employed, or skilled in some branch of work, especially productive or industrial work; worker.", "S": ["operational ", "usable "], "A": ["passive "]}
+{"index": 213295, "D": "a person engaged, employed, or skilled in some branch of work, especially productive or industrial work; worker.", "S": ["operational", "usable"], "A": ["passive"]}

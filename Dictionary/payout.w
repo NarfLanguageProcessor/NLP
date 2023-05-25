@@ -1,1 +1,1 @@
-{"index": 223210, "D": "an act or instance of paying, expending, or disbursing.", "S": ["squander ", "waste "], "A": ["hoard ", "save "]}
+{"index": 223210, "D": "an act or instance of paying, expending, or disbursing.", "S": ["squander", "waste"], "A": ["hoard", "save"]}

@@ -1,1 +1,1 @@
-{"index": 119072, "D": "a decorative border of thread, cord, or the like, usually hanging loosely from a raveled edge or separate strip.", "S": ["suburb ", "surroundings ", "vicinity "], "A": []}
+{"index": 119072, "D": "a decorative border of thread, cord, or the like, usually hanging loosely from a raveled edge or separate strip.", "S": ["suburb", "surroundings", "vicinity"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 305084, "D": "pain in the stomach  or abdomen; colic.", "S": ["bellyache ", "gripe ", "pain "], "A": []}
+{"index": 305084, "D": "pain in the stomach  or abdomen; colic.", "S": ["bellyache", "gripe", "pain"], "A": []}

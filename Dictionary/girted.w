@@ -1,1 +1,1 @@
-{"index": 125630, "D": "a simple past tense and past participle of gird1. ", "S": ["belt ", "beset ", "circle ", "compass ", "encircle ", "enclose ", "envelop ", "environ ", "gird ", "girdle ", "ring "], "A": ["free ", "let go ", "release ", "unloose "]}
+{"index": 125630, "D": "a simple past tense and past participle of gird1. ", "S": ["belt", "beset", "circle", "compass", "encircle", "enclose", "envelop", "environ", "gird", "girdle", "ring"], "A": ["free", "let go", "release", "unloose"]}

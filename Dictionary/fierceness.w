@@ -1,1 +1,1 @@
-{"index": 112375, "D": "a menacingly wild, savage, or hostile quality or character", "S": ["wildness "], "A": ["apathy ", "calm ", "happiness ", "kindness ", "peace "]}
+{"index": 112375, "D": "a menacingly wild, savage, or hostile quality or character", "S": ["wildness"], "A": ["apathy", "calm", "happiness", "kindness", "peace"]}

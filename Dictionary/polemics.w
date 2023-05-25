@@ -1,1 +1,1 @@
-{"index": 241550, "D": "the art or practice of disputation or controversy", "S": ["argumentation ", "contention ", "debate ", "deduction ", "discussion ", "disputation ", "persuasion ", "ratiocination "], "A": []}
+{"index": 241550, "D": "the art or practice of disputation or controversy", "S": ["argumentation", "contention", "debate", "deduction", "discussion", "disputation", "persuasion", "ratiocination"], "A": []}

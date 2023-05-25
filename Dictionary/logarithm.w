@@ -1,1 +1,1 @@
-{"index": 174559, "D": "the exponent of the power to which a base number must be raised to equal a given number; log", "S": ["numerical "], "A": []}
+{"index": 174559, "D": "the exponent of the power to which a base number must be raised to equal a given number; log", "S": ["numerical"], "A": []}

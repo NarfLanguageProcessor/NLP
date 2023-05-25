@@ -1,1 +1,1 @@
-{"index": 170073, "D": "a nonhistorical or unverifiable story handed down by tradition from earlier times and popularly accepted as historical.", "S": ["fable ", "fiction ", "folklore ", "lore ", "myth ", "mythology ", "tale ", "tradition "], "A": ["truth "]}
+{"index": 170073, "D": "a nonhistorical or unverifiable story handed down by tradition from earlier times and popularly accepted as historical.", "S": ["fable", "fiction", "folklore", "lore", "myth", "mythology", "tale", "tradition"], "A": ["truth"]}

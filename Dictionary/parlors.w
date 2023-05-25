@@ -1,1 +1,1 @@
-{"index": 226629, "D": "a room for the reception and entertainment of visitors to one's home; living room.", "S": ["drawing room ", "living room ", "lounge ", "salon "], "A": []}
+{"index": 226629, "D": "a room for the reception and entertainment of visitors to one's home; living room.", "S": ["drawing room", "living room", "lounge", "salon"], "A": []}

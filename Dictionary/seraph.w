@@ -1,1 +1,1 @@
-{"index": 285909, "D": "one of the celestial beings hovering above God's throne in Isaiah's vision. Isaiah 6.", "S": ["angelic ", "pious ", "upstanding "], "A": ["bad ", "sinful ", "unholy ", "unrighteous ", "wicked "]}
+{"index": 285909, "D": "one of the celestial beings hovering above God's throne in Isaiah's vision. Isaiah 6.", "S": ["angelic", "pious", "upstanding"], "A": ["bad", "sinful", "unholy", "unrighteous", "wicked"]}

@@ -1,1 +1,1 @@
-{"index": 352156, "D": "without stress  or emphasis, as a syllable in a word.", "S": ["dull ", "feeble ", "low ", "poor ", "quiet ", "small ", "thin "], "A": ["loud ", "noisy "]}
+{"index": 352156, "D": "without stress  or emphasis, as a syllable in a word.", "S": ["dull", "feeble", "low", "poor", "quiet", "small", "thin"], "A": ["loud", "noisy"]}

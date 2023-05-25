@@ -1,1 +1,1 @@
-{"index": 19902, "D": "having a specified number or kind of arms (often used in combination)", "S": ["equipped ", "loaded ", "outfitted ", "supplied "], "A": []}
+{"index": 19902, "D": "having a specified number or kind of arms (often used in combination)", "S": ["equipped", "loaded", "outfitted", "supplied"], "A": []}

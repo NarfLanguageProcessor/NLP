@@ -1,1 +1,1 @@
-{"index": 16468, "D": [], "S": ["opposite ", "reverse "], "A": ["same "]}
+{"index": 16468, "D": [], "S": ["opposite", "reverse"], "A": ["same"]}

@@ -1,1 +1,1 @@
-{"index": 6143, "D": "characterized by or tending toward unprovoked offensives, attacks, invasions, or the like; militantly forward or menacing", "S": ["combativeness "], "A": []}
+{"index": 6143, "D": "characterized by or tending toward unprovoked offensives, attacks, invasions, or the like; militantly forward or menacing", "S": ["combativeness"], "A": []}

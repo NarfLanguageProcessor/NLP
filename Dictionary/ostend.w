@@ -1,1 +1,1 @@
-{"index": 215539, "D": "a seaport in NW Belgium.", "S": ["confirm ", "describe ", "express ", "teach ", "testify to "], "A": ["conceal ", "confuse ", "distort ", "falsify ", "hide ", "misrepresent "]}
+{"index": 215539, "D": "a seaport in NW Belgium.", "S": ["confirm", "describe", "express", "teach", "testify to"], "A": ["conceal", "confuse", "distort", "falsify", "hide", "misrepresent"]}

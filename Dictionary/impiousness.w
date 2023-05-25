@@ -1,1 +1,1 @@
-{"index": 148716, "D": "not pious or religious; lacking reverence for God, religious practices, etc.; irreligious; ungodly.", "S": ["desecration ", "heresy "], "A": ["respect "]}
+{"index": 148716, "D": "not pious or religious; lacking reverence for God, religious practices, etc.; irreligious; ungodly.", "S": ["desecration", "heresy"], "A": ["respect"]}

@@ -1,1 +1,1 @@
-{"index": 332316, "D": "stomach", "S": ["abdomen ", "belly "], "A": []}
+{"index": 332316, "D": "stomach", "S": ["abdomen", "belly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 146161, "D": "a pendent, tapering mass of ice formed by the freezing of dripping water.", "S": ["chunk ", "crystal ", "diamonds ", "floe ", "glacier ", "glaze ", "hail ", "hailstone ", "iceberg ", "permafrost ", "sleet "], "A": ["water "]}
+{"index": 146161, "D": "a pendent, tapering mass of ice formed by the freezing of dripping water.", "S": ["chunk", "crystal", "diamonds", "floe", "glacier", "glaze", "hail", "hailstone", "iceberg", "permafrost", "sleet"], "A": ["water"]}

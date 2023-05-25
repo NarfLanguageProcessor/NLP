@@ -1,0 +1,1 @@
+{"index": 28008, "D": "of or relating to a baryon", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 86576, "D": "of, relating to, or engaged in diplomacy", "S": ["conciliatory ", "gracious ", "polite ", "strategic "], "A": ["rude "]}
+{"index": 86576, "D": "of, relating to, or engaged in diplomacy", "S": ["conciliatory", "gracious", "polite", "strategic"], "A": ["rude"]}

@@ -1,1 +1,1 @@
-{"index": 33747, "D": "generous; kind.", "S": ["altruism ", "benefaction ", "benignancy ", "benignity ", "charitableness ", "charity ", "generosity ", "goodness ", "goodwill ", "grace ", "kindheartedness ", "kindliness ", "kindness ", "philanthropy "], "A": ["meanness "]}
+{"index": 33747, "D": "generous; kind.", "S": ["altruism", "benefaction", "benignancy", "benignity", "charitableness", "charity", "generosity", "goodness", "goodwill", "grace", "kindheartedness", "kindliness", "kindness", "philanthropy"], "A": ["meanness"]}

@@ -1,1 +1,1 @@
-{"index": 67361, "D": "a person or group that competes against others to win something; contestant", "S": ["adversary ", "challenger ", "competition ", "contestant ", "opponent ", "rival "], "A": ["ally ", "associate ", "helper "]}
+{"index": 67361, "D": "a person or group that competes against others to win something; contestant", "S": ["adversary", "challenger", "competition", "contestant", "opponent", "rival"], "A": ["ally", "associate", "helper"]}

@@ -1,1 +1,1 @@
-{"index": 110091, "D": "a section of a book or set of books being published in installments as separate pamphlets or volumes.", "S": ["bunch ", "cluster ", "collection "], "A": ["individual ", "one "]}
+{"index": 110091, "D": "a section of a book or set of books being published in installments as separate pamphlets or volumes.", "S": ["bunch", "cluster", "collection"], "A": ["individual", "one"]}

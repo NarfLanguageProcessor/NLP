@@ -1,1 +1,1 @@
-{"index": 272918, "D": "to irritate or vex.", "S": ["irate ", "sore "], "A": ["pacified ", "placated "]}
+{"index": 272918, "D": "to irritate or vex.", "S": ["irate", "sore"], "A": ["pacified", "placated"]}

@@ -1,1 +1,1 @@
-{"index": 171917, "D": "lasting or continuing through all or much of one's life", "S": ["constant ", "continuing ", "deep-rooted ", "enduring ", "inveterate ", "long-lasting ", "permanent ", "persistent "], "A": ["short-lived ", "temporary "]}
+{"index": 171917, "D": "lasting or continuing through all or much of one's life", "S": ["constant", "continuing", "deep-rooted", "enduring", "inveterate", "long-lasting", "permanent", "persistent"], "A": ["short-lived", "temporary"]}

@@ -1,1 +1,1 @@
-{"index": 39749, "D": "intellectual capacity; mental ability.", "S": ["intellect "], "A": ["body ", "disbelief ", "misunderstanding ", "physicality "]}
+{"index": 39749, "D": "intellectual capacity; mental ability.", "S": ["intellect"], "A": ["body", "disbelief", "misunderstanding", "physicality"]}

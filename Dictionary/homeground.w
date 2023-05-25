@@ -1,1 +1,1 @@
-{"index": 142779, "D": [], "S": ["country ", "family ", "farm ", "hometown ", "household ", "land ", "neighborhood ", "site "], "A": ["office "]}
+{"index": 142779, "D": [], "S": ["country", "family", "farm", "hometown", "household", "land", "neighborhood", "site"], "A": ["office"]}

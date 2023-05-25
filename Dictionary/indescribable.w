@@ -1,1 +1,1 @@
-{"index": 150820, "D": "not describable; too extraordinary for description", "S": ["ineffable ", "sublime ", "unspeakable "], "A": ["definable ", "describable ", "explainable "]}
+{"index": 150820, "D": "not describable; too extraordinary for description", "S": ["ineffable", "sublime", "unspeakable"], "A": ["definable", "describable", "explainable"]}

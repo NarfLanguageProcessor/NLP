@@ -1,1 +1,1 @@
-{"index": 41841, "D": "in a rough or blunt way; abruptly", "S": ["nimbly ", "rapidly ", "vigorously "], "A": ["listlessly ", "slowly ", "sluggishly "]}
+{"index": 41841, "D": "in a rough or blunt way; abruptly", "S": ["nimbly", "rapidly", "vigorously"], "A": ["listlessly", "slowly", "sluggishly"]}

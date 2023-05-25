@@ -1,1 +1,1 @@
-{"index": 233616, "D": "fond of or devoted to music; music-loving", "S": ["ensemble ", "orchestra ", "symphony ", "troupe "], "A": []}
+{"index": 233616, "D": "fond of or devoted to music; music-loving", "S": ["ensemble", "orchestra", "symphony", "troupe"], "A": []}

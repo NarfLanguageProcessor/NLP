@@ -1,1 +1,1 @@
-{"index": 290149, "D": "importance; consequence", "S": ["connotation ", "implication ", "sense ", "understanding "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 290149, "D": "importance; consequence", "S": ["connotation", "implication", "sense", "understanding"], "A": ["exterior", "exteriority", "outside"]}

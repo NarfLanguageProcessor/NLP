@@ -1,1 +1,1 @@
-{"index": 316948, "D": "to try or test the flavor or quality of (something) by taking some into the mouth", "S": ["aftertaste ", "aroma "], "A": ["blandness "]}
+{"index": 316948, "D": "to try or test the flavor or quality of (something) by taking some into the mouth", "S": ["aftertaste", "aroma"], "A": ["blandness"]}

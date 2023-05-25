@@ -1,1 +1,1 @@
-{"index": 250066, "D": "pleasing or attractive to the eye, as by delicacy or gracefulness", "S": ["beautifully ", "cutely ", "gently ", "gorgeously ", "politely "], "A": []}
+{"index": 250066, "D": "pleasing or attractive to the eye, as by delicacy or gracefulness", "S": ["beautifully", "cutely", "gently", "gorgeously", "politely"], "A": []}

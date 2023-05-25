@@ -1,1 +1,1 @@
-{"index": 65524, "D": "the act of condemning. ", "S": ["accusation ", "censure ", "denunciation ", "disapproval ", "judgment "], "A": ["approval ", "compliment ", "endorsement ", "praise ", "sanction "]}
+{"index": 65524, "D": "the act of condemning. ", "S": ["accusation", "censure", "denunciation", "disapproval", "judgment"], "A": ["approval", "compliment", "endorsement", "praise", "sanction"]}

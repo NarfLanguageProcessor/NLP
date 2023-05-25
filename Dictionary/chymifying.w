@@ -1,1 +1,1 @@
-{"index": 54503, "D": [], "S": ["absorb ", "consume ", "dissolve ", "eat ", "incorporate ", "macerate ", "swallow ", "take "], "A": ["build ", "maintain ", "misunderstand "]}
+{"index": 54503, "D": [], "S": ["absorb", "consume", "dissolve", "eat", "incorporate", "macerate", "swallow", "take"], "A": ["build", "maintain", "misunderstand"]}

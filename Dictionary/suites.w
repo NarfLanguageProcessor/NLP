@@ -1,1 +1,0 @@
-{"index": 310325, "D": "a number of things forming a series or set.", "S": ["apartment ", "collection ", "lodging ", "rental "], "A": ["individual ", "one ", "whole "]}

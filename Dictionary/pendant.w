@@ -1,1 +1,1 @@
-{"index": 229544, "D": "a hanging ornament, as an earring or the main piece suspended from a necklace.", "S": ["jewelry "], "A": []}
+{"index": 229544, "D": "a hanging ornament, as an earring or the main piece suspended from a necklace.", "S": ["jewelry"], "A": []}

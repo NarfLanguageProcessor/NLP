@@ -1,1 +1,1 @@
-{"index": 96899, "D": "a person who elects  or may elect,  especially a qualified voter.", "S": ["county ", "district ", "electorate ", "faction ", "nation ", "precinct "], "A": []}
+{"index": 96899, "D": "a person who elects  or may elect,  especially a qualified voter.", "S": ["county", "district", "electorate", "faction", "nation", "precinct"], "A": []}

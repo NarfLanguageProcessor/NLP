@@ -1,1 +1,1 @@
-{"index": 89591, "D": "to scatter in various directions; disperse; dispel.", "S": ["circulation ", "delivery ", "disposal ", "dissemination ", "handling ", "marketing ", "sharing ", "trading ", "transport ", "transportation "], "A": ["hold ", "keeping ", "retention ", "juncture ", "unity "]}
+{"index": 89591, "D": "to scatter in various directions; disperse; dispel.", "S": ["circulation", "delivery", "disposal", "dissemination", "handling", "marketing", "sharing", "trading", "transport", "transportation"], "A": ["hold", "keeping", "retention", "juncture", "unity"]}

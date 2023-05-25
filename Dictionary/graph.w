@@ -1,1 +1,1 @@
-{"index": 129061, "D": "a diagram representing a system of connections or interrelations among two or more things by a number of distinctive dots, lines, bars, etc.", "S": ["chart "], "A": []}
+{"index": 129061, "D": "a diagram representing a system of connections or interrelations among two or more things by a number of distinctive dots, lines, bars, etc.", "S": ["chart"], "A": []}

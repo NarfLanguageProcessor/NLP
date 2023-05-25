@@ -1,0 +1,1 @@
+{"index": 10059, "D": "a mineral, a lithium aluminum fluorophosphate, Li(AlF)PO4", "S": [], "A": []}

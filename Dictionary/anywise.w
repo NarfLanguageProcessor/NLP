@@ -1,1 +1,1 @@
-{"index": 13388, "D": "in any way or respect.", "S": ["haphazard ", "headlong ", "jumbled "], "A": ["carefully ", "methodical ", "organized ", "straight ", "systematic "]}
+{"index": 13388, "D": "in any way or respect.", "S": ["haphazard", "headlong", "jumbled"], "A": ["carefully", "methodical", "organized", "straight", "systematic"]}

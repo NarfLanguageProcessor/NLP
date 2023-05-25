@@ -1,1 +1,1 @@
-{"index": 267232, "D": "to recall to the mind by an act or effort of memory; think of again", "S": ["commemorate ", "get ", "learn ", "look back ", "recall ", "recognize ", "relive ", "remind "], "A": ["forget ", "miss ", "misunderstand ", "repress "]}
+{"index": 267232, "D": "to recall to the mind by an act or effort of memory; think of again", "S": ["commemorate", "get", "learn", "look back", "recall", "recognize", "relive", "remind"], "A": ["forget", "miss", "misunderstand", "repress"]}

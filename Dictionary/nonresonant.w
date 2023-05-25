@@ -1,1 +1,1 @@
-{"index": 206795, "D": "resounding  or echoing, as sounds", "S": ["insulated ", "silent "], "A": []}
+{"index": 206795, "D": "resounding  or echoing, as sounds", "S": ["insulated", "silent"], "A": []}

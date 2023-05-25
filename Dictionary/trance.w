@@ -1,1 +1,1 @@
-{"index": 327610, "D": "a half-conscious state, seemingly between sleeping and waking, in which ability to function voluntarily may be suspended.", "S": ["coma ", "rapture ", "reverie ", "stupor ", "unconsciousness "], "A": ["consciousness "]}
+{"index": 327610, "D": "a half-conscious state, seemingly between sleeping and waking, in which ability to function voluntarily may be suspended.", "S": ["coma", "rapture", "reverie", "stupor", "unconsciousness"], "A": ["consciousness"]}

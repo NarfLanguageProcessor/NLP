@@ -1,1 +1,1 @@
-{"index": 131764, "D": "to clothe or dress.", "S": ["attire ", "bundle up ", "cloak ", "disguise ", "do up ", "drape ", "dress ", "dress up ", "equip ", "fit ", "swaddle ", "swathe "], "A": ["disrobe ", "open ", "reveal ", "uncover ", "unclothe "]}
+{"index": 131764, "D": "to clothe or dress.", "S": ["attire", "bundle up", "cloak", "disguise", "do up", "drape", "dress", "dress up", "equip", "fit", "swaddle", "swathe"], "A": ["disrobe", "open", "reveal", "uncover", "unclothe"]}

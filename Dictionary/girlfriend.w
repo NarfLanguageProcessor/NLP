@@ -1,1 +1,1 @@
-{"index": 125524, "D": "a frequent or favorite female companion; sweetheart.", "S": ["companion ", "friend ", "partner ", "sweetheart "], "A": ["enemy ", "foe ", "opponent "]}
+{"index": 125524, "D": "a frequent or favorite female companion; sweetheart.", "S": ["companion", "friend", "partner", "sweetheart"], "A": ["enemy", "foe", "opponent"]}

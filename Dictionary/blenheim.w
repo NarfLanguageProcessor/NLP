@@ -1,0 +1,1 @@
+{"index": 36043, "D": "village in S Germany, on the Danube", "S": [], "A": []}

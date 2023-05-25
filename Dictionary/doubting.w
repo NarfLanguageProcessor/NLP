@@ -1,1 +1,1 @@
-{"index": 92006, "D": "to be uncertain about; consider questionable or unlikely; hesitate to believe", "S": ["doubtful ", "dubious ", "skeptical ", "suspicious "], "A": []}
+{"index": 92006, "D": "to be uncertain about; consider questionable or unlikely; hesitate to believe", "S": ["doubtful", "dubious", "skeptical", "suspicious"], "A": []}

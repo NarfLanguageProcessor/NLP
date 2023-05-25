@@ -1,1 +1,1 @@
-{"index": 152399, "D": "causing or tending to cause anger or outrage; maddening", "S": ["aggravating ", "annoying ", "exasperating ", "frustrating ", "troubling "], "A": []}
+{"index": 152399, "D": "causing or tending to cause anger or outrage; maddening", "S": ["aggravating", "annoying", "exasperating", "frustrating", "troubling"], "A": []}

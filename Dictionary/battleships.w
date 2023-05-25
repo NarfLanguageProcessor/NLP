@@ -1,1 +1,1 @@
-{"index": 29155, "D": "any of a class of warships that are the most heavily armored and are equipped with the most powerful armament.", "S": ["battlewagon "], "A": []}
+{"index": 29155, "D": "any of a class of warships that are the most heavily armored and are equipped with the most powerful armament.", "S": ["battlewagon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 174148, "D": "unwilling; reluctant; disinclined; averse", "S": ["aversion ", "disinclination ", "dislike ", "distaste ", "indisposition ", "loathing ", "opposition ", "reluctance ", "repugnance "], "A": []}
+{"index": 174148, "D": "unwilling; reluctant; disinclined; averse", "S": ["aversion", "disinclination", "dislike", "distaste", "indisposition", "loathing", "opposition", "reluctance", "repugnance"], "A": []}

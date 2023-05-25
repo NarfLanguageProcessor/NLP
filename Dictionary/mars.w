@@ -1,1 +1,1 @@
-{"index": 180377, "D": "the ancient Roman god of war and agriculture, identified with the Greek god Ares.", "S": ["earth "], "A": []}
+{"index": 180377, "D": "the ancient Roman god of war and agriculture, identified with the Greek god Ares.", "S": ["earth"], "A": []}

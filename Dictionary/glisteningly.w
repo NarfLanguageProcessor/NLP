@@ -1,1 +1,1 @@
-{"index": 126423, "D": "to reflect a sparkling light or a faint intermittent glow; shine lustrously.", "S": ["brilliantly ", "splendidly "], "A": ["darkly ", "dully ", "miserably ", "sadly "]}
+{"index": 126423, "D": "to reflect a sparkling light or a faint intermittent glow; shine lustrously.", "S": ["brilliantly", "splendidly"], "A": ["darkly", "dully", "miserably", "sadly"]}

@@ -1,1 +1,1 @@
-{"index": 6140, "D": "the action of a state in violating by force the rights of another state, particularly its territorial rights; an unprovoked offensive, attack, invasion, or the like", "S": ["assault ", "encroachment ", "invasion ", "offensive ", "onslaught ", "raid "], "A": []}
+{"index": 6140, "D": "the action of a state in violating by force the rights of another state, particularly its territorial rights; an unprovoked offensive, attack, invasion, or the like", "S": ["assault", "encroachment", "invasion", "offensive", "onslaught", "raid"], "A": []}

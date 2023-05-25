@@ -1,1 +1,1 @@
-{"index": 113013, "D": "end; conclusion. ", "S": ["finish "], "A": ["beginning ", "commencement ", "introduction ", "opening ", "start "]}
+{"index": 113013, "D": "end; conclusion. ", "S": ["finish"], "A": ["beginning", "commencement", "introduction", "opening", "start"]}

@@ -1,1 +1,1 @@
-{"index": 276797, "D": "a person whose occupation is sailing  or navigation; mariner.", "S": ["boater ", "cadet ", "diver ", "marine ", "pilot "], "A": []}
+{"index": 276797, "D": "a person whose occupation is sailing  or navigation; mariner.", "S": ["boater", "cadet", "diver", "marine", "pilot"], "A": []}

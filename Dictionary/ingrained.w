@@ -1,1 +1,1 @@
-{"index": 152541, "D": "firmly fixed; deep-rooted; inveterate", "S": ["deep-seated ", "fixed ", "implanted ", "inbred ", "inherent ", "innate ", "intrinsic ", "rooted "], "A": ["acquired ", "extrinsic ", "incidental ", "learned "]}
+{"index": 152541, "D": "firmly fixed; deep-rooted; inveterate", "S": ["deep-seated", "fixed", "implanted", "inbred", "inherent", "innate", "intrinsic", "rooted"], "A": ["acquired", "extrinsic", "incidental", "learned"]}

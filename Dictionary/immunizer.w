@@ -1,1 +1,1 @@
-{"index": 148134, "D": "to make immune. ", "S": ["antibody "], "A": []}
+{"index": 148134, "D": "to make immune. ", "S": ["antibody"], "A": []}

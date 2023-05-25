@@ -1,1 +1,1 @@
-{"index": 85429, "D": "a radical English Puritan group, led by Gerrard Winstanley, which advocated communal ownership of land (1649\u201350)", "S": ["miner ", "mole ", "spade "], "A": []}
+{"index": 85429, "D": "a radical English Puritan group, led by Gerrard Winstanley, which advocated communal ownership of land (1649\u201350)", "S": ["miner", "mole", "spade"], "A": []}

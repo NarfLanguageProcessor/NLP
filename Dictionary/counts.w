@@ -1,1 +1,1 @@
-{"index": 71252, "D": "to check over (the separate units or groups of a collection) one by one to determine the total number; add up; enumerate", "S": ["calculation ", "poll ", "result ", "toll ", "total "], "A": ["part "]}
+{"index": 71252, "D": "to check over (the separate units or groups of a collection) one by one to determine the total number; add up; enumerate", "S": ["calculation", "poll", "result", "toll", "total"], "A": ["part"]}

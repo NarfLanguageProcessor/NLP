@@ -1,1 +1,1 @@
-{"index": 182940, "D": "sweetly or smoothly flowing; sweet-sounding", "S": ["expressiveness ", "fervor ", "fluency ", "passion ", "poise ", "vigor ", "wit "], "A": ["impotence ", "inability ", "incompetence ", "weakness "]}
+{"index": 182940, "D": "sweetly or smoothly flowing; sweet-sounding", "S": ["expressiveness", "fervor", "fluency", "passion", "poise", "vigor", "wit"], "A": ["impotence", "inability", "incompetence", "weakness"]}

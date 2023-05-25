@@ -1,1 +1,1 @@
-{"index": 181811, "D": "coal measures", "S": ["part ", "quota "], "A": ["extreme ", "unimportance ", "whole "]}
+{"index": 181811, "D": "coal measures", "S": ["part", "quota"], "A": ["extreme", "unimportance", "whole"]}

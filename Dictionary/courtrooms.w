@@ -1,1 +1,1 @@
-{"index": 71375, "D": "a room  in which the sessions of a law court  are held.", "S": ["attorneys ", "barristers ", "bench ", "counsel ", "counselors ", "court ", "dock ", "judgment ", "judiciary ", "jurists ", "law ", "lawyers ", "solicitors ", "tribunal "], "A": ["advantage ", "aid ", "help "]}
+{"index": 71375, "D": "a room  in which the sessions of a law court  are held.", "S": ["attorneys", "barristers", "bench", "counsel", "counselors", "court", "dock", "judgment", "judiciary", "jurists", "law", "lawyers", "solicitors", "tribunal"], "A": ["advantage", "aid", "help"]}

@@ -1,1 +1,1 @@
-{"index": 152495, "D": "to take, as food, into the body (opposed to egest).", "S": ["absorb ", "consume ", "devour ", "drink ", "eat ", "inhale "], "A": ["build "]}
+{"index": 152495, "D": "to take, as food, into the body (opposed to egest).", "S": ["absorb", "consume", "devour", "drink", "eat", "inhale"], "A": ["build"]}

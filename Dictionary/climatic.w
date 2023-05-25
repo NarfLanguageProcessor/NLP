@@ -1,1 +1,1 @@
-{"index": 59968, "D": "of or relating to climate. ", "S": ["meteorological "], "A": ["down-to-earth ", "grounded "]}
+{"index": 59968, "D": "of or relating to climate. ", "S": ["meteorological"], "A": ["down-to-earth", "grounded"]}

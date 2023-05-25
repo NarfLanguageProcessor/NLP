@@ -1,1 +1,1 @@
-{"index": 60064, "D": "to make or cause to make a light, sharp, ringing sound", "S": ["chink ", "clang ", "jangle ", "jingle ", "sound ", "tingle ", "tinkle "], "A": []}
+{"index": 60064, "D": "to make or cause to make a light, sharp, ringing sound", "S": ["chink", "clang", "jangle", "jingle", "sound", "tingle", "tinkle"], "A": []}

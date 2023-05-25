@@ -1,1 +1,1 @@
-{"index": 6157, "D": "trouble; irritation", "S": ["irritation "], "A": ["aid ", "calmness ", "comfort ", "ease ", "happiness ", "health ", "help ", "pleasure "]}
+{"index": 6157, "D": "trouble; irritation", "S": ["irritation"], "A": ["aid", "calmness", "comfort", "ease", "happiness", "health", "help", "pleasure"]}

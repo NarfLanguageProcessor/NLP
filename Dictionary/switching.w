@@ -1,1 +1,1 @@
-{"index": 314581, "D": "a slender, flexible shoot, rod, etc., used especially in whipping or disciplining.", "S": ["convert ", "divert ", "replace ", "shift ", "swap ", "turn ", "veer "], "A": ["keep ", "maintain ", "remain ", "stay "]}
+{"index": 314581, "D": "a slender, flexible shoot, rod, etc., used especially in whipping or disciplining.", "S": ["convert", "divert", "replace", "shift", "swap", "turn", "veer"], "A": ["keep", "maintain", "remain", "stay"]}

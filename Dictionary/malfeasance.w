@@ -1,1 +1,1 @@
-{"index": 178421, "D": "Compare misfeasance (def. 2), nonfeasance. ", "S": ["impropriety ", "misbehavior ", "misconduct "], "A": ["behavior ", "manners ", "obedience "]}
+{"index": 178421, "D": "Compare misfeasance (def. 2), nonfeasance. ", "S": ["impropriety", "misbehavior", "misconduct"], "A": ["behavior", "manners", "obedience"]}

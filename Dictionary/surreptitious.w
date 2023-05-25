@@ -1,1 +1,1 @@
-{"index": 313603, "D": "obtained, done, made, etc., by stealth; secret or unauthorized; clandestine", "S": ["clandestine ", "covert ", "furtive ", "hush-hush ", "unauthorized "], "A": ["aboveboard ", "forthright ", "honest ", "open ", "public ", "truthful "]}
+{"index": 313603, "D": "obtained, done, made, etc., by stealth; secret or unauthorized; clandestine", "S": ["clandestine", "covert", "furtive", "hush-hush", "unauthorized"], "A": ["aboveboard", "forthright", "honest", "open", "public", "truthful"]}

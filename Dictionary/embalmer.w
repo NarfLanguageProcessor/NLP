@@ -1,1 +1,1 @@
-{"index": 97967, "D": "to treat (a dead body) so as to preserve it, as with chemicals, drugs, or balsams.", "S": ["mortician ", "undertaker "], "A": []}
+{"index": 97967, "D": "to treat (a dead body) so as to preserve it, as with chemicals, drugs, or balsams.", "S": ["mortician", "undertaker"], "A": []}

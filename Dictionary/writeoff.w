@@ -1,1 +1,1 @@
-{"index": 368046, "D": "a cancellation from the accounts as a loss.", "S": ["cancel ", "give up ", "lower "], "A": []}
+{"index": 368046, "D": "a cancellation from the accounts as a loss.", "S": ["cancel", "give up", "lower"], "A": []}

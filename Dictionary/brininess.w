@@ -1,1 +1,1 @@
-{"index": 40870, "D": "of or like brine;  salty", "S": ["acerbity ", "acidity ", "acridity ", "astringency ", "brackishness ", "piquancy ", "pungency ", "sharpness ", "tartness ", "vinegariness "], "A": ["contentment ", "geniality ", "happiness ", "sweetness "]}
+{"index": 40870, "D": "of or like brine;  salty", "S": ["acerbity", "acidity", "acridity", "astringency", "brackishness", "piquancy", "pungency", "sharpness", "tartness", "vinegariness"], "A": ["contentment", "geniality", "happiness", "sweetness"]}

@@ -1,1 +1,1 @@
-{"index": 39900, "D": "marked with a branding iron  to show ownership", "S": ["charred ", "scorched "], "A": []}
+{"index": 39900, "D": "marked with a branding iron  to show ownership", "S": ["charred", "scorched"], "A": []}

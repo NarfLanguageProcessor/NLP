@@ -1,1 +1,1 @@
-{"index": 21132, "D": "a large metal barrel, can,  or similar receptacle for ashes,  garbage, or refuse.", "S": ["dustbin ", "trash can "], "A": []}
+{"index": 21132, "D": "a large metal barrel, can,  or similar receptacle for ashes,  garbage, or refuse.", "S": ["dustbin", "trash can"], "A": []}

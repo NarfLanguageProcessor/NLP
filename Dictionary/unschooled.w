@@ -1,1 +1,1 @@
-{"index": 350494, "D": "not schooled,  taught, or trained", "S": ["illiterate ", "uneducated "], "A": ["educated ", "learned ", "taught "]}
+{"index": 350494, "D": "not schooled,  taught, or trained", "S": ["illiterate", "uneducated"], "A": ["educated", "learned", "taught"]}

@@ -1,1 +1,0 @@
-{"index": 314344, "D": "a vain or arrogant person.", "S": ["boaster ", "braggart ", "egocentric ", "egoist ", "egomaniac ", "narcissist "], "A": []}

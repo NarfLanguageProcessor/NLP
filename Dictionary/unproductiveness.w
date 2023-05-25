@@ -1,1 +1,1 @@
-{"index": 348546, "D": "having the power of producing; generative; creative", "S": ["childlessness ", "fruitlessness ", "impotence ", "infertility "], "A": ["fecundity ", "fertility ", "fruitfulness "]}
+{"index": 348546, "D": "having the power of producing; generative; creative", "S": ["childlessness", "fruitlessness", "impotence", "infertility"], "A": ["fecundity", "fertility", "fruitfulness"]}

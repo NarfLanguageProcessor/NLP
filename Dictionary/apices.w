@@ -1,1 +1,1 @@
-{"index": 16958, "D": "a plural of apex. ", "S": ["apogee ", "culmination ", "pinnacle "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 16958, "D": "a plural of apex. ", "S": ["apogee", "culmination", "pinnacle"], "A": ["base", "bottom", "nadir"]}

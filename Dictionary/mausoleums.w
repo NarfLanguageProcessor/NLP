@@ -1,1 +1,1 @@
-{"index": 181461, "D": "a stately and magnificent tomb.", "S": ["burial ", "cemetery ", "coffin ", "monument ", "vault "], "A": []}
+{"index": 181461, "D": "a stately and magnificent tomb.", "S": ["burial", "cemetery", "coffin", "monument", "vault"], "A": []}

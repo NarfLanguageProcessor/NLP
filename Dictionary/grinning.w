@@ -1,1 +1,1 @@
-{"index": 129954, "D": "to smile broadly, especially as an indication of pleasure, amusement, or the like.", "S": ["cheerful ", "genial ", "radiant ", "shining ", "smiling "], "A": ["dark ", "gloomy ", "sad ", "unhappy "]}
+{"index": 129954, "D": "to smile broadly, especially as an indication of pleasure, amusement, or the like.", "S": ["cheerful", "genial", "radiant", "shining", "smiling"], "A": ["dark", "gloomy", "sad", "unhappy"]}

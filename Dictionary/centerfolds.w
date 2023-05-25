@@ -1,1 +1,1 @@
-{"index": 50840, "D": "center spread. ", "S": ["babe ", "bunny ", "centerfold ", "looker ", "pinup girl ", "pussycat ", "sex object ", "sex symbol ", "stunner "], "A": []}
+{"index": 50840, "D": "center spread. ", "S": ["babe", "bunny", "centerfold", "looker", "pinup girl", "pussycat", "sex object", "sex symbol", "stunner"], "A": []}

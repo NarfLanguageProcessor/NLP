@@ -1,1 +1,1 @@
-{"index": 302995, "D": "to die or perish from lack of food or nourishment.", "S": ["dehydrated ", "dying ", "emaciated ", "hungry ", "malnourished ", "undernourished "], "A": ["fat ", "full ", "healthy ", "heavy ", "sated ", "satisfied ", "strong ", "thick "]}
+{"index": 302995, "D": "to die or perish from lack of food or nourishment.", "S": ["dehydrated", "dying", "emaciated", "hungry", "malnourished", "undernourished"], "A": ["fat", "full", "healthy", "heavy", "sated", "satisfied", "strong", "thick"]}

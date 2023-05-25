@@ -1,1 +1,1 @@
-{"index": 121755, "D": "a person's leg, especially an attractive female leg.", "S": ["tease "], "A": ["be faithful "]}
+{"index": 121755, "D": "a person's leg, especially an attractive female leg.", "S": ["tease"], "A": ["be faithful"]}

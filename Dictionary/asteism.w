@@ -1,0 +1,1 @@
+{"index": 22011, "D": [], "S": ["banter", "fool", "persiflage", "raillery", "repartee", "ribbing", "teasing"], "A": []}

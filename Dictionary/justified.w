@@ -1,1 +1,1 @@
-{"index": 162545, "D": "having been shown to be just or right", "S": ["compelling ", "convincing ", "forceful ", "persuasive ", "telling ", "weighty "], "A": ["ineffective ", "unimportant "]}
+{"index": 162545, "D": "having been shown to be just or right", "S": ["compelling", "convincing", "forceful", "persuasive", "telling", "weighty"], "A": ["ineffective", "unimportant"]}

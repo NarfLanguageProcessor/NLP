@@ -1,1 +1,1 @@
-{"index": 169254, "D": "a washing.", "S": ["bath ", "bathing ", "laundry ", "soaking "], "A": []}
+{"index": 169254, "D": "a washing.", "S": ["bath", "bathing", "laundry", "soaking"], "A": []}

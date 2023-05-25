@@ -1,1 +1,1 @@
-{"index": 285287, "D": "the state of being senior;  priority of birth; superior age.", "S": ["preference "], "A": ["disadvantage ", "inferiority "]}
+{"index": 285287, "D": "the state of being senior;  priority of birth; superior age.", "S": ["preference"], "A": ["disadvantage", "inferiority"]}

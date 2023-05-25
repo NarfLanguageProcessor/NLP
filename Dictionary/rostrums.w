@@ -1,1 +1,1 @@
-{"index": 274588, "D": "any platform, stage, or the like, for public speaking.", "S": ["dais ", "lectern ", "podium "], "A": []}
+{"index": 274588, "D": "any platform, stage, or the like, for public speaking.", "S": ["dais", "lectern", "podium"], "A": []}

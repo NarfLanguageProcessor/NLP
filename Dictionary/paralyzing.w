@@ -1,1 +1,1 @@
-{"index": 225717, "D": "to affect with paralysis. ", "S": ["amazing ", "astounding ", "crushing ", "devastating ", "mind-boggling ", "staggering ", "stunning ", "vast "], "A": []}
+{"index": 225717, "D": "to affect with paralysis. ", "S": ["amazing", "astounding", "crushing", "devastating", "mind-boggling", "staggering", "stunning", "vast"], "A": []}

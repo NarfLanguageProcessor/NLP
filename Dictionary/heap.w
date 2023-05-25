@@ -1,1 +1,1 @@
-{"index": 134787, "D": "a group of things placed, thrown, or lying one on another; pile", "S": ["bundle ", "clump ", "jumble ", "lump ", "stack ", "ton "], "A": ["ditch ", "individual ", "lack ", "little ", "one ", "part ", "valley ", "want "]}
+{"index": 134787, "D": "a group of things placed, thrown, or lying one on another; pile", "S": ["bundle", "clump", "jumble", "lump", "stack", "ton"], "A": ["ditch", "individual", "lack", "little", "one", "part", "valley", "want"]}

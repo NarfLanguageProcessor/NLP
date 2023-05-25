@@ -1,1 +1,1 @@
-{"index": 345318, "D": "lacking in kindness or mercy; severe.", "S": ["animosity ", "antagonism ", "belligerence ", "bitterness ", "ill feeling ", "ill will ", "rancor "], "A": ["good will ", "love ", "benevolence ", "kindness ", "liking ", "mildness ", "sympathy "]}
+{"index": 345318, "D": "lacking in kindness or mercy; severe.", "S": ["animosity", "antagonism", "belligerence", "bitterness", "ill feeling", "ill will", "rancor"], "A": ["good will", "love", "benevolence", "kindness", "liking", "mildness", "sympathy"]}

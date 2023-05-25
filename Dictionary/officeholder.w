@@ -1,1 +1,1 @@
-{"index": 211604, "D": "a person filling a governmental position; public official.", "S": ["delegate ", "representative "], "A": []}
+{"index": 211604, "D": "a person filling a governmental position; public official.", "S": ["delegate", "representative"], "A": []}

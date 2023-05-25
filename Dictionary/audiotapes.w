@@ -1,1 +1,1 @@
-{"index": 23311, "D": "magnetic tape  for recording sound (distinguished from videotape).", "S": ["videotape "], "A": ["loosen ", "unfasten ", "unglue ", "unstick "]}
+{"index": 23311, "D": "magnetic tape  for recording sound (distinguished from videotape).", "S": ["videotape"], "A": ["loosen", "unfasten", "unglue", "unstick"]}

@@ -1,1 +1,1 @@
-{"index": 195478, "D": "a person who wears a mask or fantastic costume while merrymaking or taking part in a pantomime, especially at Christmas and other festive seasons.", "S": ["buffoon ", "comedian ", "comic ", "fool ", "jester ", "mime ", "prankster "], "A": []}
+{"index": 195478, "D": "a person who wears a mask or fantastic costume while merrymaking or taking part in a pantomime, especially at Christmas and other festive seasons.", "S": ["buffoon", "comedian", "comic", "fool", "jester", "mime", "prankster"], "A": []}

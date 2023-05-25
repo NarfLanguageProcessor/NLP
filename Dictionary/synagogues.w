@@ -1,1 +1,1 @@
-{"index": 291227, "D": "a Jewish house of worship, often having facilities for religious instruction.", "S": ["chapel ", "house of worship ", "mosque ", "parish ", "shrine ", "temple "], "A": []}
+{"index": 291227, "D": "a Jewish house of worship, often having facilities for religious instruction.", "S": ["chapel", "house of worship", "mosque", "parish", "shrine", "temple"], "A": []}

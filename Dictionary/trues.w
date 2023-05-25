@@ -1,1 +1,1 @@
-{"index": 331529, "D": "being in accordance with the actual state or conditions; conforming to reality or fact; not false", "S": ["genuine ", "legitimate "], "A": ["illegitimate "]}
+{"index": 331529, "D": "being in accordance with the actual state or conditions; conforming to reality or fact; not false", "S": ["genuine", "legitimate"], "A": ["illegitimate"]}

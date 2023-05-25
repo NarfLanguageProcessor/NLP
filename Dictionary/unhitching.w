@@ -1,1 +1,1 @@
-{"index": 343777, "D": "to free from attachment; unfasten", "S": ["detach ", "disconnect ", "free ", "loosen ", "release ", "unbuckle ", "uncouple ", "undo ", "unhook ", "unloose ", "unstrap ", "untie "], "A": ["attach ", "connect ", "couple ", "fasten ", "hold ", "link "]}
+{"index": 343777, "D": "to free from attachment; unfasten", "S": ["detach", "disconnect", "free", "loosen", "release", "unbuckle", "uncouple", "undo", "unhook", "unloose", "unstrap", "untie"], "A": ["attach", "connect", "couple", "fasten", "hold", "link"]}

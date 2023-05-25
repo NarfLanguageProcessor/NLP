@@ -1,1 +1,1 @@
-{"index": 72214, "D": "composition; constitution; makeup.", "S": ["aspect ", "cast ", "humor ", "kind ", "nature ", "personality ", "quality ", "sense ", "spirit ", "style ", "tone ", "type "], "A": []}
+{"index": 72214, "D": "composition; constitution; makeup.", "S": ["aspect", "cast", "humor", "kind", "nature", "personality", "quality", "sense", "spirit", "style", "tone", "type"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 270027, "D": "confined; limited.", "S": ["barred ", "blocked ", "closed ", "confined ", "controlled ", "defined ", "deprived ", "prescribed ", "reduced ", "restrained ", "secured ", "shortened ", "tethered "], "A": ["free ", "unbounded "]}
+{"index": 270027, "D": "confined; limited.", "S": ["barred", "blocked", "closed", "confined", "controlled", "defined", "deprived", "prescribed", "reduced", "restrained", "secured", "shortened", "tethered"], "A": ["free", "unbounded"]}

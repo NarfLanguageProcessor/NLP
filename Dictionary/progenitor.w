@@ -1,1 +1,0 @@
-{"index": 251843, "D": "a biologically related ancestor", "S": ["ancestor ", "begetter ", "parent ", "precursor ", "predecessor ", "primogenitor "], "A": ["descendant "]}

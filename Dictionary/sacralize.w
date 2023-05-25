@@ -1,1 +1,0 @@
-{"index": 276330, "D": "to make sacred; imbue with sacred character, especially through ritualized devotion", "S": [], "A": []}

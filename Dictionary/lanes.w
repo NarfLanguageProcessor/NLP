@@ -1,1 +1,1 @@
-{"index": 168065, "D": "a narrow way or passage between hedges, fences, walls, or houses.", "S": ["artery ", "avenue ", "boulevard ", "expressway ", "highway ", "pathway ", "roadway ", "route ", "street ", "thoroughfare "], "A": []}
+{"index": 168065, "D": "a narrow way or passage between hedges, fences, walls, or houses.", "S": ["artery", "avenue", "boulevard", "expressway", "highway", "pathway", "roadway", "route", "street", "thoroughfare"], "A": []}

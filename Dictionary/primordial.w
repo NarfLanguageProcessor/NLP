@@ -1,1 +1,1 @@
-{"index": 250577, "D": "constituting a beginning; giving origin to something derived or developed; original; elementary", "S": ["prehistoric ", "primal ", "primeval ", "primitive ", "pristine "], "A": ["modern ", "new "]}
+{"index": 250577, "D": "constituting a beginning; giving origin to something derived or developed; original; elementary", "S": ["prehistoric", "primal", "primeval", "primitive", "pristine"], "A": ["modern", "new"]}

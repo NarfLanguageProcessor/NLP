@@ -1,1 +1,1 @@
-{"index": 87531, "D": "the act of disconnecting. ", "S": ["detachment ", "disunion ", "division ", "gulf ", "parting "], "A": ["connection "]}
+{"index": 87531, "D": "the act of disconnecting. ", "S": ["detachment", "disunion", "division", "gulf", "parting"], "A": ["connection"]}

@@ -1,1 +1,1 @@
-{"index": 65399, "D": "the quality or relation of being concomitant. ", "S": ["union "], "A": ["aloneness ", "antagonism ", "disassociation ", "disunion ", "division ", "isolation ", "opposition ", "rivalry ", "seclusion ", "separation ", "solitude "]}
+{"index": 65399, "D": "the quality or relation of being concomitant. ", "S": ["union"], "A": ["aloneness", "antagonism", "disassociation", "disunion", "division", "isolation", "opposition", "rivalry", "seclusion", "separation", "solitude"]}

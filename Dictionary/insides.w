@@ -1,1 +1,1 @@
-{"index": 153599, "D": "the inner parts of the body, especially the stomach and intestines", "S": ["belly ", "entrails ", "innards "], "A": ["border ", "cowardice ", "exterior ", "exteriority ", "fear ", "margin ", "outside ", "periphery "]}
+{"index": 153599, "D": "the inner parts of the body, especially the stomach and intestines", "S": ["belly", "entrails", "innards"], "A": ["border", "cowardice", "exterior", "exteriority", "fear", "margin", "outside", "periphery"]}

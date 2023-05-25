@@ -1,1 +1,1 @@
-{"index": 28357, "D": "a defensive barrier hastily constructed, as in a street, to stop an enemy.", "S": ["covered ", "guarded ", "protected ", "reinforced ", "secured ", "strengthened ", "walled "], "A": ["open ", "unguarded ", "unprotected "]}
+{"index": 28357, "D": "a defensive barrier hastily constructed, as in a street, to stop an enemy.", "S": ["covered", "guarded", "protected", "reinforced", "secured", "strengthened", "walled"], "A": ["open", "unguarded", "unprotected"]}

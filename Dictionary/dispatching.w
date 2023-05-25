@@ -1,1 +1,1 @@
-{"index": 88897, "D": "to send off or away with speed, as a messenger, telegram, body of troops, etc.", "S": ["clearance ", "demolition ", "destruction ", "disposition ", "dumping ", "removal ", "transfer "], "A": ["building ", "construction "]}
+{"index": 88897, "D": "to send off or away with speed, as a messenger, telegram, body of troops, etc.", "S": ["clearance", "demolition", "destruction", "disposition", "dumping", "removal", "transfer"], "A": ["building", "construction"]}

@@ -1,1 +1,1 @@
-{"index": 313791, "D": "kept in process or continued over time; continuous", "S": ["constant ", "continued ", "continuous ", "uninterrupted "], "A": ["discontinuous ", "ending ", "intermittent ", "interrupted ", "stopping "]}
+{"index": 313791, "D": "kept in process or continued over time; continuous", "S": ["constant", "continued", "continuous", "uninterrupted"], "A": ["discontinuous", "ending", "intermittent", "interrupted", "stopping"]}

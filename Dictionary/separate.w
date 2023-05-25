@@ -1,1 +1,1 @@
-{"index": 285547, "D": "to keep apart or divide, as by an intervening barrier or space", "S": ["free ", "independent ", "isolated ", "sovereign "], "A": ["subservient ", "connected ", "united "]}
+{"index": 285547, "D": "to keep apart or divide, as by an intervening barrier or space", "S": ["free", "independent", "isolated", "sovereign"], "A": ["subservient", "connected", "united"]}

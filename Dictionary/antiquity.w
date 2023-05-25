@@ -1,0 +1,1 @@
+{"index": 16019, "D": "the quality of being ancient; ancientness", "S": ["antique", "relic"], "A": ["convention", "modernity", "newness", "now"]}

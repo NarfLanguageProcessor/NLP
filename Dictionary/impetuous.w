@@ -1,1 +1,1 @@
-{"index": 148680, "D": "of, relating to, or characterized by sudden or rash action, emotion, etc.; impulsive", "S": ["ardent ", "impulsive "], "A": ["calm ", "cautious ", "circumspect ", "considerate ", "reflective ", "sensible ", "thoughtful ", "wise "]}
+{"index": 148680, "D": "of, relating to, or characterized by sudden or rash action, emotion, etc.; impulsive", "S": ["ardent", "impulsive"], "A": ["calm", "cautious", "circumspect", "considerate", "reflective", "sensible", "thoughtful", "wise"]}

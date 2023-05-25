@@ -1,1 +1,1 @@
-{"index": 366048, "D": "a tapered, tubular cloth vane, open at both ends and having at the larger end a fixed ring pivoted to swing freely, installed at airports or elsewhere to indicate wind  direction and approximate intensity.", "S": ["air sleeve ", "wind cone "], "A": []}
+{"index": 366048, "D": "a tapered, tubular cloth vane, open at both ends and having at the larger end a fixed ring pivoted to swing freely, installed at airports or elsewhere to indicate wind  direction and approximate intensity.", "S": ["air sleeve", "wind cone"], "A": []}

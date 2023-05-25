@@ -1,1 +1,1 @@
-{"index": 990, "D": "act of absolving; a freeing from blame or guilt; release from consequences, obligations, or penalties.", "S": ["forgiveness "], "A": []}
+{"index": 990, "D": "act of absolving; a freeing from blame or guilt; release from consequences, obligations, or penalties.", "S": ["forgiveness"], "A": []}

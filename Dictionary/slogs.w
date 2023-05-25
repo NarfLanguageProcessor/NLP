@@ -1,1 +1,1 @@
-{"index": 294312, "D": "to hit hard, as in boxing or cricket; slug.", "S": ["lumber ", "toil ", "tramp ", "trudge "], "A": ["tiptoe ", "be lazy ", "idle "]}
+{"index": 294312, "D": "to hit hard, as in boxing or cricket; slug.", "S": ["lumber", "toil", "tramp", "trudge"], "A": ["tiptoe", "be lazy", "idle"]}

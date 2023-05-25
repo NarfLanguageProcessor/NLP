@@ -1,1 +1,1 @@
-{"index": 257220, "D": [], "S": ["dastardliness ", "fearfulness ", "pusillanimity ", "spinelessness ", "timidity ", "unmanliness "], "A": []}
+{"index": 257220, "D": [], "S": ["dastardliness", "fearfulness", "pusillanimity", "spinelessness", "timidity", "unmanliness"], "A": []}

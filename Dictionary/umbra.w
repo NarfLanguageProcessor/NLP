@@ -1,1 +1,1 @@
-{"index": 334200, "D": "shade; shadow. ", "S": ["shadow "], "A": ["being ", "reality "]}
+{"index": 334200, "D": "shade; shadow. ", "S": ["shadow"], "A": ["being", "reality"]}

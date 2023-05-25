@@ -1,1 +1,1 @@
-{"index": 115026, "D": "the cultivation of flowers or flowering plants, especially for ornamental purposes.", "S": ["agrarian ", "horticultural ", "rural "], "A": []}
+{"index": 115026, "D": "the cultivation of flowers or flowering plants, especially for ornamental purposes.", "S": ["agrarian", "horticultural", "rural"], "A": []}

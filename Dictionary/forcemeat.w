@@ -1,1 +1,1 @@
-{"index": 116415, "D": "a mixture of finely chopped and seasoned foods, usually containing egg white, meat or fish, etc., used as a stuffing or served alone.", "S": ["filling ", "stuffing "], "A": []}
+{"index": 116415, "D": "a mixture of finely chopped and seasoned foods, usually containing egg white, meat or fish, etc., used as a stuffing or served alone.", "S": ["filling", "stuffing"], "A": []}

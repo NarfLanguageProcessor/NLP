@@ -1,1 +1,1 @@
-{"index": 2741, "D": "the act of acquiring,  especially the gaining of knowledge or mental attributes.", "S": ["culture ", "information ", "literature ", "research ", "schooling ", "science ", "study ", "training "], "A": ["ignorance "]}
+{"index": 2741, "D": "the act of acquiring,  especially the gaining of knowledge or mental attributes.", "S": ["culture", "information", "literature", "research", "schooling", "science", "study", "training"], "A": ["ignorance"]}

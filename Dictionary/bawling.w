@@ -1,1 +1,1 @@
-{"index": 29287, "D": "crying or wailing lustily", "S": ["bellowing ", "blubbering ", "crying ", "groan ", "lament ", "lamentation ", "plaint ", "sobbing ", "wailing ", "weeping "], "A": []}
+{"index": 29287, "D": "crying or wailing lustily", "S": ["bellowing", "blubbering", "crying", "groan", "lament", "lamentation", "plaint", "sobbing", "wailing", "weeping"], "A": []}

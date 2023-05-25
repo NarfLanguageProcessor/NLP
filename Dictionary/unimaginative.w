@@ -1,1 +1,1 @@
-{"index": 344234, "D": "lacking in imagination or imaginative thought; dull", "S": ["banal ", "hackneyed ", "tedious ", "trite ", "uninspired "], "A": ["fresh ", "new ", "original ", "uncommon "]}
+{"index": 344234, "D": "lacking in imagination or imaginative thought; dull", "S": ["banal", "hackneyed", "tedious", "trite", "uninspired"], "A": ["fresh", "new", "original", "uncommon"]}

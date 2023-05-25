@@ -1,1 +1,1 @@
-{"index": 192003, "D": "admonition or warning.", "S": ["admonition ", "caution ", "caveat ", "citation ", "forewarning ", "hint ", "intimation ", "notice ", "order ", "summons ", "warning "], "A": ["heedlessness ", "neglect "]}
+{"index": 192003, "D": "admonition or warning.", "S": ["admonition", "caution", "caveat", "citation", "forewarning", "hint", "intimation", "notice", "order", "summons", "warning"], "A": ["heedlessness", "neglect"]}

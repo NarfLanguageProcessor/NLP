@@ -1,1 +1,1 @@
-{"index": 4275, "D": "growing to manhood or womanhood; youthful. ", "S": ["juvenile ", "minor ", "teenager ", "youngster ", "youth "], "A": ["adult "]}
+{"index": 4275, "D": "growing to manhood or womanhood; youthful. ", "S": ["juvenile", "minor", "teenager", "youngster", "youth"], "A": ["adult"]}

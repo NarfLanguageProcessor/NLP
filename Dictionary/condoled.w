@@ -1,1 +1,1 @@
-{"index": 65643, "D": "to express sympathy with a person who is suffering sorrow, misfortune, or grief (usually followed by with)", "S": ["comfort ", "commiserate ", "console ", "pity ", "soothe "], "A": ["agitate ", "annoy ", "distress ", "hurt ", "trouble ", "upset "]}
+{"index": 65643, "D": "to express sympathy with a person who is suffering sorrow, misfortune, or grief (usually followed by with)", "S": ["comfort", "commiserate", "console", "pity", "soothe"], "A": ["agitate", "annoy", "distress", "hurt", "trouble", "upset"]}

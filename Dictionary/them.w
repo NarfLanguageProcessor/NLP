@@ -1,1 +1,1 @@
-{"index": 320885, "D": "the objective case of plural they,  used as a direct or indirect object", "S": ["her ", "him ", "hir ", "it ", "me ", "ver ", "xem ", "you ", "zir "], "A": []}
+{"index": 320885, "D": "the objective case of plural they,  used as a direct or indirect object", "S": ["her", "him", "hir", "it", "me", "ver", "xem", "you", "zir"], "A": []}

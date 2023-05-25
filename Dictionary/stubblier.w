@@ -1,1 +1,1 @@
-{"index": 306733, "D": "the stumps of grain and other stalks left in the ground when the crop is cut.", "S": ["shaggy ", "unshaven "], "A": []}
+{"index": 306733, "D": "the stumps of grain and other stalks left in the ground when the crop is cut.", "S": ["shaggy", "unshaven"], "A": []}

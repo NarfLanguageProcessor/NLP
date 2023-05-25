@@ -1,1 +1,1 @@
-{"index": 61156, "D": "to attempt to influence by gentle persuasion, flattery, etc.; cajole", "S": ["cajole ", "entice ", "induce ", "tease ", "tempt ", "wheedle "], "A": ["discourage ", "repel ", "repulse ", "turn off ", "disenchant ", "disgust ", "dissuade ", "please "]}
+{"index": 61156, "D": "to attempt to influence by gentle persuasion, flattery, etc.; cajole", "S": ["cajole", "entice", "induce", "tease", "tempt", "wheedle"], "A": ["discourage", "repel", "repulse", "turn off", "disenchant", "disgust", "dissuade", "please"]}

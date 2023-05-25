@@ -1,1 +1,1 @@
-{"index": 120721, "D": "of or relating to the future", "S": ["innovative ", "modern "], "A": ["old "]}
+{"index": 120721, "D": "of or relating to the future", "S": ["innovative", "modern"], "A": ["old"]}

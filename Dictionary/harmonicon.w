@@ -1,1 +1,1 @@
-{"index": 133843, "D": "harmonica (def. 1). ", "S": ["harp "], "A": []}
+{"index": 133843, "D": "harmonica (def. 1). ", "S": ["harp"], "A": []}

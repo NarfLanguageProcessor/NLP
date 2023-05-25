@@ -1,1 +1,1 @@
-{"index": 275010, "D": "rough, disorderly behavior.", "S": ["hooliganism "], "A": []}
+{"index": 275010, "D": "rough, disorderly behavior.", "S": ["hooliganism"], "A": []}

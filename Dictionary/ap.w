@@ -1,1 +1,1 @@
-{"index": 16617, "D": "adjective phrase. ", "S": ["news service ", "press agency ", "wire service "], "A": []}
+{"index": 16617, "D": "adjective phrase. ", "S": ["news service", "press agency", "wire service"], "A": []}

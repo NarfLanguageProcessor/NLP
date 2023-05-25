@@ -1,1 +1,1 @@
-{"index": 64380, "D": "possessing the qualities of a good companion;  pleasant to be with; congenial.", "S": ["accordingly ", "collectively ", "cooperatively ", "in tandem ", "mutually ", "simultaneously ", "together ", "unitedly "], "A": ["singly "]}
+{"index": 64380, "D": "possessing the qualities of a good companion;  pleasant to be with; congenial.", "S": ["accordingly", "collectively", "cooperatively", "in tandem", "mutually", "simultaneously", "together", "unitedly"], "A": ["singly"]}

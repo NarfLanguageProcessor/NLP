@@ -1,1 +1,1 @@
-{"index": 118814, "D": "freshman. ", "S": ["crisp ", "different ", "green ", "hot ", "late ", "natural ", "original ", "raw ", "recent ", "unusual "], "A": ["experienced ", "normal ", "old ", "old-fashioned ", "standard ", "warm "]}
+{"index": 118814, "D": "freshman. ", "S": ["crisp", "different", "green", "hot", "late", "natural", "original", "raw", "recent", "unusual"], "A": ["experienced", "normal", "old", "old-fashioned", "standard", "warm"]}

@@ -1,1 +1,1 @@
-{"index": 73349, "D": "a person or thing that crisps,  corrugates, or curls.", "S": ["crispy ", "crumbly ", "crusty ", "fresh ", "plump "], "A": ["flexible ", "pliable ", "soft "]}
+{"index": 73349, "D": "a person or thing that crisps,  corrugates, or curls.", "S": ["crispy", "crumbly", "crusty", "fresh", "plump"], "A": ["flexible", "pliable", "soft"]}

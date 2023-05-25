@@ -1,1 +1,1 @@
-{"index": 132981, "D": "a small village.", "S": ["community ", "crossroads ", "district ", "suburb "], "A": []}
+{"index": 132981, "D": "a small village.", "S": ["community", "crossroads", "district", "suburb"], "A": []}

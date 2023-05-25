@@ -1,1 +1,1 @@
-{"index": 236528, "D": "the shaft of an infantry pike.", "S": ["pole ", "rod ", "walking stick "], "A": []}
+{"index": 236528, "D": "the shaft of an infantry pike.", "S": ["pole", "rod", "walking stick"], "A": []}

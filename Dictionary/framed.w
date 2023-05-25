@@ -1,1 +1,1 @@
-{"index": 118293, "D": "a border or case for enclosing a picture, mirror, etc.", "S": ["bordered ", "enclosed ", "mounted ", "wrapped "], "A": []}
+{"index": 118293, "D": "a border or case for enclosing a picture, mirror, etc.", "S": ["bordered", "enclosed", "mounted", "wrapped"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293655, "D": "slang; a vocabulary of slang.", "S": ["argot ", "idiom ", "lingo ", "parlance ", "patois ", "slang ", "vernacular ", "vocabulary "], "A": ["standard ", "quiet ", "sense ", "silence "]}
+{"index": 293655, "D": "slang; a vocabulary of slang.", "S": ["argot", "idiom", "lingo", "parlance", "patois", "slang", "vernacular", "vocabulary"], "A": ["standard", "quiet", "sense", "silence"]}

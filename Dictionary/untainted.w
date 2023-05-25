@@ -1,1 +1,1 @@
-{"index": 352638, "D": "he was untainted by the scandal", "S": ["pristine ", "unsullied "], "A": []}
+{"index": 352638, "D": "he was untainted by the scandal", "S": ["pristine", "unsullied"], "A": []}

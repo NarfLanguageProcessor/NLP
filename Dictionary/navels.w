@@ -1,1 +1,1 @@
-{"index": 197490, "D": "umbilicus (def. 1). ", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 197490, "D": "umbilicus (def. 1). ", "S": ["heart", "hub", "place"], "A": ["exterior", "exteriority", "outside"]}

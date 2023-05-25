@@ -1,1 +1,0 @@
-{"index": 281827, "D": "a rough or vigorous struggle.", "S": [], "A": []}

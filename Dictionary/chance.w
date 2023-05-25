@@ -1,1 +1,1 @@
-{"index": 52385, "D": "the absence of any cause of events that can be predicted, understood, or controlled", "S": ["contingent ", "incidental "], "A": ["designed ", "foreseeable ", "planned ", "understood "]}
+{"index": 52385, "D": "the absence of any cause of events that can be predicted, understood, or controlled", "S": ["contingent", "incidental"], "A": ["designed", "foreseeable", "planned", "understood"]}

@@ -1,1 +1,1 @@
-{"index": 271517, "D": "to bring about a revolution  in; effect a radical change in", "S": ["change ", "recast ", "refashion ", "reform ", "remodel "], "A": []}
+{"index": 271517, "D": "to bring about a revolution  in; effect a radical change in", "S": ["change", "recast", "refashion", "reform", "remodel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 151653, "D": [], "S": ["emotionless ", "matter-of-fact ", "placid ", "reticent ", "serene ", "stoic ", "stolid ", "taciturn ", "unemotional ", "unflappable ", "unruffled "], "A": ["agitated ", "communicative ", "emotional ", "excited ", "feeling ", "nervous "]}
+{"index": 151653, "D": [], "S": ["emotionless", "matter-of-fact", "placid", "reticent", "serene", "stoic", "stolid", "taciturn", "unemotional", "unflappable", "unruffled"], "A": ["agitated", "communicative", "emotional", "excited", "feeling", "nervous"]}

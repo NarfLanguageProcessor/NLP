@@ -1,1 +1,1 @@
-{"index": 187121, "D": "a disease of plants, characterized by a cottony, usually whitish coating on the surface of affected parts, caused by any of various fungi.", "S": ["funky ", "putrid ", "rotten ", "rotting ", "smelly ", "stale "], "A": ["fresh ", "new ", "perfumed "]}
+{"index": 187121, "D": "a disease of plants, characterized by a cottony, usually whitish coating on the surface of affected parts, caused by any of various fungi.", "S": ["funky", "putrid", "rotten", "rotting", "smelly", "stale"], "A": ["fresh", "new", "perfumed"]}

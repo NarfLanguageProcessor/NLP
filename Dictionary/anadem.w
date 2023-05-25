@@ -1,1 +1,1 @@
-{"index": 11581, "D": "a garland or wreath for the head.", "S": ["chaplet ", "circle ", "crown ", "diadem ", "headband ", "headdress ", "tiara ", "wreath "], "A": []}
+{"index": 11581, "D": "a garland or wreath for the head.", "S": ["chaplet", "circle", "crown", "diadem", "headband", "headdress", "tiara", "wreath"], "A": []}

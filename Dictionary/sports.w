@@ -1,1 +1,1 @@
-{"index": 301056, "D": "of or relating to a sport  or sports, especially of the open-air or athletic kind", "S": ["business ", "play ", "sport "], "A": ["work ", "entertainment ", "fun ", "profession ", "task "]}
+{"index": 301056, "D": "of or relating to a sport  or sports, especially of the open-air or athletic kind", "S": ["business", "play", "sport"], "A": ["work", "entertainment", "fun", "profession", "task"]}

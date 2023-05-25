@@ -1,1 +1,1 @@
-{"index": 271356, "D": "addressed or spoken of with contemptuous or abusive language", "S": ["aggrieved ", "disgraced ", "humiliated ", "outraged ", "shamed "], "A": ["complimented ", "flattered ", "praised "]}
+{"index": 271356, "D": "addressed or spoken of with contemptuous or abusive language", "S": ["aggrieved", "disgraced", "humiliated", "outraged", "shamed"], "A": ["complimented", "flattered", "praised"]}

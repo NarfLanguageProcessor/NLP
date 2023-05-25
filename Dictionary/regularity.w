@@ -1,1 +1,1 @@
-{"index": 265871, "D": "usual; normal; customary", "S": ["consistency ", "precision ", "predictability ", "uniformity "], "A": ["variation ", "difference ", "disagreement ", "discord ", "disproportion ", "imbalance ", "instability ", "irregularity ", "unevenness "]}
+{"index": 265871, "D": "usual; normal; customary", "S": ["consistency", "precision", "predictability", "uniformity"], "A": ["variation", "difference", "disagreement", "discord", "disproportion", "imbalance", "instability", "irregularity", "unevenness"]}

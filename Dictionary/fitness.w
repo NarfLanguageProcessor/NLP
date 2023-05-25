@@ -1,1 +1,1 @@
-{"index": 113539, "D": "health. ", "S": ["health ", "strength ", "vigor "], "A": ["enervation ", "lethargy ", "weakness "]}
+{"index": 113539, "D": "health. ", "S": ["health", "strength", "vigor"], "A": ["enervation", "lethargy", "weakness"]}

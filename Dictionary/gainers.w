@@ -1,1 +1,1 @@
-{"index": 121018, "D": "a person or thing that gains. ", "S": ["cannonball ", "jackknife ", "plunge ", "swallow dive "], "A": []}
+{"index": 121018, "D": "a person or thing that gains. ", "S": ["cannonball", "jackknife", "plunge", "swallow dive"], "A": []}

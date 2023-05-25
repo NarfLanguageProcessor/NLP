@@ -1,1 +1,1 @@
-{"index": 81148, "D": "an inhabitant; resident. ", "S": ["dweller ", "inhabitant ", "occupant "], "A": ["alien ", "foreigner ", "immigrant "]}
+{"index": 81148, "D": "an inhabitant; resident. ", "S": ["dweller", "inhabitant", "occupant"], "A": ["alien", "foreigner", "immigrant"]}

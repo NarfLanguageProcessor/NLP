@@ -1,1 +1,1 @@
-{"index": 274934, "D": "a wharf laborer or deck hand, as on the Mississippi River.", "S": ["drudge ", "farmhand ", "grunt ", "hand ", "hireling ", "operative ", "peon ", "worker ", "workingman ", "workman "], "A": []}
+{"index": 274934, "D": "a wharf laborer or deck hand, as on the Mississippi River.", "S": ["drudge", "farmhand", "grunt", "hand", "hireling", "operative", "peon", "worker", "workingman", "workman"], "A": []}

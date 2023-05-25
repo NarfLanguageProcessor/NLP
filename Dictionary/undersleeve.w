@@ -1,1 +1,0 @@
-{"index": 339833, "D": "a separate sleeve  worn under the sleeve  of a dress and visible through it or extending beyond it.", "S": [], "A": []}

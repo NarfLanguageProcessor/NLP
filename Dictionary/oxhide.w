@@ -1,1 +1,1 @@
-{"index": 222191, "D": "leather made from the hide of an ox", "S": ["skin "], "A": []}
+{"index": 222191, "D": "leather made from the hide of an ox", "S": ["skin"], "A": []}

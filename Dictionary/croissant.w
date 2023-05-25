@@ -1,1 +1,1 @@
-{"index": 73628, "D": "a rich, buttery, crescent-shaped roll of leavened dough or puff paste.", "S": ["bread ", "cake ", "doughnut ", "phyllo ", "pie "], "A": []}
+{"index": 73628, "D": "a rich, buttery, crescent-shaped roll of leavened dough or puff paste.", "S": ["bread", "cake", "doughnut", "phyllo", "pie"], "A": []}

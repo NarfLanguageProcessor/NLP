@@ -1,1 +1,0 @@
-{"index": 252327, "D": "a person or thing that promotes, furthers, or encourages.", "S": ["advertiser ", "advocate ", "backer ", "booster ", "organizer ", "publicist ", "sponsor "], "A": ["antagonist "]}

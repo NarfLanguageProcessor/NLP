@@ -1,1 +1,1 @@
-{"index": 39774, "D": "work  or effort consisting principally or largely of mental activity, thought, imagination, etc., as opposed to physical or manual work. ", "S": ["cerebration ", "cogitation ", "contemplation ", "deliberation ", "meditation ", "reflection "], "A": []}
+{"index": 39774, "D": "work  or effort consisting principally or largely of mental activity, thought, imagination, etc., as opposed to physical or manual work. ", "S": ["cerebration", "cogitation", "contemplation", "deliberation", "meditation", "reflection"], "A": []}

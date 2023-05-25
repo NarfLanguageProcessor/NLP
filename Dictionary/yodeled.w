@@ -1,1 +1,1 @@
-{"index": 157434, "D": "to sing with frequent changes from the ordinary voice to falsetto and back again, in the manner of Swiss and Tyrolean mountaineers.", "S": ["carol ", "shout ", "trill ", "warble "], "A": []}
+{"index": 157434, "D": "to sing with frequent changes from the ordinary voice to falsetto and back again, in the manner of Swiss and Tyrolean mountaineers.", "S": ["carol", "shout", "trill", "warble"], "A": []}

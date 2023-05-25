@@ -1,1 +1,1 @@
-{"index": 212918, "D": "an onset, assault, or attack, especially a vigorous one.", "S": ["aggression ", "assault ", "blitz ", "incursion ", "invasion ", "offensive ", "onset "], "A": ["retreat "]}
+{"index": 212918, "D": "an onset, assault, or attack, especially a vigorous one.", "S": ["aggression", "assault", "blitz", "incursion", "invasion", "offensive", "onset"], "A": ["retreat"]}

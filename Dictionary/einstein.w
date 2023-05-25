@@ -1,1 +1,1 @@
-{"index": 96532, "D": "German physicist, U.S. citizen from 1940", "S": ["brilliant ", "sharp ", "smart "], "A": ["dull ", "slow ", "stupid ", "unintelligent ", "unstylish "]}
+{"index": 96532, "D": "German physicist, U.S. citizen from 1940", "S": ["brilliant", "sharp", "smart"], "A": ["dull", "slow", "stupid", "unintelligent", "unstylish"]}

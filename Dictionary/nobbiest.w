@@ -1,1 +1,1 @@
-{"index": 200545, "D": "fashionable or elegant; stylish; chic.", "S": ["classy ", "dashing ", "rakish ", "spry ", "stylish "], "A": ["plain ", "unstylish "]}
+{"index": 200545, "D": "fashionable or elegant; stylish; chic.", "S": ["classy", "dashing", "rakish", "spry", "stylish"], "A": ["plain", "unstylish"]}

@@ -1,1 +1,1 @@
-{"index": 197628, "D": "to make neat", "S": ["arrange ", "clean ", "groom ", "order "], "A": ["disorder ", "disorganize ", "mix up "]}
+{"index": 197628, "D": "to make neat", "S": ["arrange", "clean", "groom", "order"], "A": ["disorder", "disorganize", "mix up"]}

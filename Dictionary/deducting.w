@@ -1,1 +1,1 @@
-{"index": 78938, "D": "to take away, as from a sum or amount", "S": ["reduce ", "subtract ", "withdraw ", "write off "], "A": ["add ", "disallow ", "enlarge ", "expand ", "extend ", "hold ", "increase ", "keep ", "lengthen ", "raise ", "refuse ", "reject ", "strengthen "]}
+{"index": 78938, "D": "to take away, as from a sum or amount", "S": ["reduce", "subtract", "withdraw", "write off"], "A": ["add", "disallow", "enlarge", "expand", "extend", "hold", "increase", "keep", "lengthen", "raise", "refuse", "reject", "strengthen"]}

@@ -1,1 +1,1 @@
-{"index": 178068, "D": "the greater part or number; the number larger than half the total (opposed to minority)", "S": ["bulk "], "A": ["inferiority "]}
+{"index": 178068, "D": "the greater part or number; the number larger than half the total (opposed to minority)", "S": ["bulk"], "A": ["inferiority"]}

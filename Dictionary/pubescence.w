@@ -1,1 +1,1 @@
-{"index": 255893, "D": [], "S": ["boyhood ", "teens "], "A": ["adulthood ", "infancy "]}
+{"index": 255893, "D": [], "S": ["boyhood", "teens"], "A": ["adulthood", "infancy"]}

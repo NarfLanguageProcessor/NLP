@@ -1,1 +1,1 @@
-{"index": 96118, "D": "the act of effusing or pouring forth.", "S": ["address ", "diffusion ", "discharge ", "effluence ", "effluvium ", "efflux ", "emanation ", "emission ", "exudate ", "gush ", "ooze ", "outflow ", "shedding ", "stream ", "verbosity ", "wordiness "], "A": []}
+{"index": 96118, "D": "the act of effusing or pouring forth.", "S": ["address", "diffusion", "discharge", "effluence", "effluvium", "efflux", "emanation", "emission", "exudate", "gush", "ooze", "outflow", "shedding", "stream", "verbosity", "wordiness"], "A": []}

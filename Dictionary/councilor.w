@@ -1,1 +1,1 @@
-{"index": 70570, "D": "a member of a council.", "S": ["elder "], "A": []}
+{"index": 70570, "D": "a member of a council.", "S": ["elder"], "A": []}

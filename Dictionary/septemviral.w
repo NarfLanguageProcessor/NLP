@@ -1,1 +1,1 @@
-{"index": 285670, "D": "of or relating to septemvirs or a septemvirate.", "S": ["septenary "], "A": []}
+{"index": 285670, "D": "of or relating to septemvirs or a septemvirate.", "S": ["septenary"], "A": []}

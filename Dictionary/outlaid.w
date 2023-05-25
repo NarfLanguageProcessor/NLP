@@ -1,1 +1,1 @@
-{"index": 216882, "D": "simple past tense and past participle of outlay. ", "S": ["disburse ", "expend ", "give ", "invest ", "lend ", "outlay ", "pay ", "put out ", "put up ", "shell out "], "A": ["hoard ", "neglect ", "save "]}
+{"index": 216882, "D": "simple past tense and past participle of outlay. ", "S": ["disburse", "expend", "give", "invest", "lend", "outlay", "pay", "put out", "put up", "shell out"], "A": ["hoard", "neglect", "save"]}

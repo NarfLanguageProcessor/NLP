@@ -1,1 +1,1 @@
-{"index": 100352, "D": "a person who operates or helps to operate an engine  or locomotive.", "S": ["firefighter "], "A": []}
+{"index": 100352, "D": "a person who operates or helps to operate an engine  or locomotive.", "S": ["firefighter"], "A": []}

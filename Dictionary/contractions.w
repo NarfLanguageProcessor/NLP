@@ -1,1 +1,1 @@
-{"index": 67581, "D": "an act or instance of contracting  or the quality or state of being contracted", "S": ["birth ", "childbearing ", "delivery ", "pains ", "parturition ", "throes ", "travail "], "A": ["entertainment ", "fun ", "management ", "manager "]}
+{"index": 67581, "D": "an act or instance of contracting  or the quality or state of being contracted", "S": ["birth", "childbearing", "delivery", "pains", "parturition", "throes", "travail"], "A": ["entertainment", "fun", "management", "manager"]}

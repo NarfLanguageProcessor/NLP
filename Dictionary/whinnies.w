@@ -1,1 +1,1 @@
-{"index": 364882, "D": "to utter the characteristic cry of a horse; neigh.", "S": ["chatter ", "cheer ", "clamor ", "groan ", "grunt ", "howl ", "outcry ", "roar ", "scream ", "shout ", "shriek ", "wail ", "whine ", "whistle "], "A": ["quiet ", "seriousness ", "silence ", "calm ", "peace "]}
+{"index": 364882, "D": "to utter the characteristic cry of a horse; neigh.", "S": ["chatter", "cheer", "clamor", "groan", "grunt", "howl", "outcry", "roar", "scream", "shout", "shriek", "wail", "whine", "whistle"], "A": ["quiet", "seriousness", "silence", "calm", "peace"]}

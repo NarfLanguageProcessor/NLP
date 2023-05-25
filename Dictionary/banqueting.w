@@ -1,1 +1,1 @@
-{"index": 27575, "D": "a lavish meal; feast.", "S": ["consume ", "eat out ", "feast ", "lunch "], "A": ["fast "]}
+{"index": 27575, "D": "a lavish meal; feast.", "S": ["consume", "eat out", "feast", "lunch"], "A": ["fast"]}

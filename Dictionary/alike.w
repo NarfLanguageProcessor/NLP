@@ -1,1 +1,1 @@
-{"index": 8275, "D": "in the same manner or form; similarly", "S": ["identical "], "A": ["different ", "dissimilar ", "unlike "]}
+{"index": 8275, "D": "in the same manner or form; similarly", "S": ["identical"], "A": ["different", "dissimilar", "unlike"]}

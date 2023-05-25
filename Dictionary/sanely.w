@@ -1,1 +1,0 @@
-{"index": 277844, "D": "free from mental derangement; having a sound, healthy mind", "S": ["fairly ", "honestly ", "intelligently ", "judiciously ", "justly ", "logically ", "rationally ", "sensibly ", "wisely "], "A": ["foolishly ", "stupidly ", "unfairly ", "unjustly "]}

@@ -1,1 +1,1 @@
-{"index": 273381, "D": "the slopes bordering a river. ", "S": ["bank ", "beach ", "border ", "coast ", "sand ", "seaboard ", "seashore ", "waterfront "], "A": ["center ", "interior ", "middle "]}
+{"index": 273381, "D": "the slopes bordering a river. ", "S": ["bank", "beach", "border", "coast", "sand", "seaboard", "seashore", "waterfront"], "A": ["center", "interior", "middle"]}

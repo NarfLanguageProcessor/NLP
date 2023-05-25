@@ -1,1 +1,1 @@
-{"index": 91708, "D": "a building, as at a college, containing a number of private or semiprivate rooms for residents, usually along with common bathroom facilities and recreation areas.", "S": ["bedroom ", "dorm ", "dorm room "], "A": []}
+{"index": 91708, "D": "a building, as at a college, containing a number of private or semiprivate rooms for residents, usually along with common bathroom facilities and recreation areas.", "S": ["bedroom", "dorm", "dorm room"], "A": []}

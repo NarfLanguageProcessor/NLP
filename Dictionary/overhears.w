@@ -1,1 +1,1 @@
-{"index": 219689, "D": "to hear  (speech or a speaker) without the speaker's intention or knowledge", "S": ["wiretap "], "A": []}
+{"index": 219689, "D": "to hear  (speech or a speaker) without the speaker's intention or knowledge", "S": ["wiretap"], "A": []}

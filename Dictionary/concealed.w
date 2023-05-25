@@ -1,1 +1,1 @@
-{"index": 65080, "D": "to hide; withdraw or remove from observation; cover or keep from sight", "S": ["buried ", "camouflaged ", "covered ", "planted ", "veiled "], "A": ["bare ", "clear ", "disclosed ", "exposed ", "obvious ", "open ", "plain ", "revealed ", "shown ", "told ", "uncovered "]}
+{"index": 65080, "D": "to hide; withdraw or remove from observation; cover or keep from sight", "S": ["buried", "camouflaged", "covered", "planted", "veiled"], "A": ["bare", "clear", "disclosed", "exposed", "obvious", "open", "plain", "revealed", "shown", "told", "uncovered"]}

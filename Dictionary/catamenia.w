@@ -1,1 +1,1 @@
-{"index": 49316, "D": "menses. ", "S": ["menorrhea ", "menses "], "A": []}
+{"index": 49316, "D": "menses. ", "S": ["menorrhea", "menses"], "A": []}

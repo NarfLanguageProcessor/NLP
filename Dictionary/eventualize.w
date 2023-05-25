@@ -1,1 +1,1 @@
-{"index": 106132, "D": [], "S": ["arise ", "befall ", "come up ", "emanate ", "occur ", "turn out "], "A": ["cause ", "cease ", "disregard ", "halt ", "neglect ", "precede ", "repress ", "stop "]}
+{"index": 106132, "D": [], "S": ["arise", "befall", "come up", "emanate", "occur", "turn out"], "A": ["cause", "cease", "disregard", "halt", "neglect", "precede", "repress", "stop"]}

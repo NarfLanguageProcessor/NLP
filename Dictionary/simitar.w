@@ -1,1 +1,0 @@
-{"index": 290849, "D": "a rare spelling of scimitar", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 348781, "D": "to give publicity  to; bring to public  notice; advertise", "S": ["confidential ", "not recorded ", "not reported ", "private ", "unrecorded ", "unregistered ", "unreported "], "A": ["listed ", "public ", "recorded ", "registered "]}
+{"index": 348781, "D": "to give publicity  to; bring to public  notice; advertise", "S": ["confidential", "not recorded", "not reported", "private", "unrecorded", "unregistered", "unreported"], "A": ["listed", "public", "recorded", "registered"]}

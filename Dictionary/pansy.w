@@ -1,1 +1,0 @@
-{"index": 224829, "D": "a violet, Viola tricolor hortensis, cultivated in many varieties, having richly and variously colored flowers.", "S": ["mama's boy ", "milksop ", "pantywaist ", "sissy ", "wimp "], "A": []}

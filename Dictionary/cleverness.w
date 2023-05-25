@@ -1,1 +1,1 @@
-{"index": 59877, "D": "mentally bright; having sharp or quick intelligence; able.", "S": ["dexterity ", "flair ", "gumption ", "quickness ", "wit "], "A": ["inability ", "ineptness ", "ignorance ", "incapacity ", "stupidity ", "weakness "]}
+{"index": 59877, "D": "mentally bright; having sharp or quick intelligence; able.", "S": ["dexterity", "flair", "gumption", "quickness", "wit"], "A": ["inability", "ineptness", "ignorance", "incapacity", "stupidity", "weakness"]}

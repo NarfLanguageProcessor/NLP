@@ -1,1 +1,1 @@
-{"index": 80281, "D": [], "S": ["flexible ", "soft "], "A": ["rigid ", "stern ", "unyielding "]}
+{"index": 80281, "D": [], "S": ["flexible", "soft"], "A": ["rigid", "stern", "unyielding"]}

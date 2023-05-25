@@ -1,1 +1,1 @@
-{"index": 110192, "D": "moving or able to move, operate, function, or take effect quickly; quick; swift; rapid", "S": ["agile ", "brisk ", "hot ", "nimble ", "quick ", "rapid ", "swift "], "A": ["clumsy ", "slow ", "sluggish ", "boring ", "dull "]}
+{"index": 110192, "D": "moving or able to move, operate, function, or take effect quickly; quick; swift; rapid", "S": ["agile", "brisk", "hot", "nimble", "quick", "rapid", "swift"], "A": ["clumsy", "slow", "sluggish", "boring", "dull"]}

@@ -1,1 +1,0 @@
-{"index": 191847, "D": "any circulating medium of exchange, including coins, paper money,  and demand deposits.", "S": ["bankrupt ", "exhausted ", "impoverished ", "indigent ", "insolvent ", "needy ", "penniless ", "poor ", "poverty-stricken ", "strapped "], "A": ["affluent ", "rich ", "solvent ", "wealthy "]}

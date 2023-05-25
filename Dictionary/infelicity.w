@@ -1,1 +1,1 @@
-{"index": 151892, "D": "the quality or state of being unhappy; unhappiness.", "S": ["barbarism ", "impropriety ", "indecorum ", "inelegance ", "solecism "], "A": []}
+{"index": 151892, "D": "the quality or state of being unhappy; unhappiness.", "S": ["barbarism", "impropriety", "indecorum", "inelegance", "solecism"], "A": []}

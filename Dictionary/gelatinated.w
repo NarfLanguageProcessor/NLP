@@ -1,1 +1,1 @@
-{"index": 123189, "D": "gelatinize. ", "S": ["curdle ", "thicken "], "A": ["heat ", "liquefy ", "melt ", "soften "]}
+{"index": 123189, "D": "gelatinize. ", "S": ["curdle", "thicken"], "A": ["heat", "liquefy", "melt", "soften"]}

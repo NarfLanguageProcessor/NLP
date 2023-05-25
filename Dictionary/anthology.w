@@ -1,1 +1,1 @@
-{"index": 14404, "D": "a book or other collection of selected writings by various authors, usually in the same literary form, of the same period, or on the same subject", "S": ["album ", "compendium ", "compilation ", "digest ", "garland ", "omnibus ", "selection ", "treasury "], "A": []}
+{"index": 14404, "D": "a book or other collection of selected writings by various authors, usually in the same literary form, of the same period, or on the same subject", "S": ["album", "compendium", "compilation", "digest", "garland", "omnibus", "selection", "treasury"], "A": []}

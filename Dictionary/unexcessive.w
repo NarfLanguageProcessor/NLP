@@ -1,1 +1,1 @@
-{"index": 341642, "D": "going beyond the usual, necessary, or proper limit or degree; characterized by excess", "S": ["humble ", "inexpensive ", "moderate ", "reasonable ", "simple ", "small "], "A": ["expensive ", "outrageous ", "unreasonable "]}
+{"index": 341642, "D": "going beyond the usual, necessary, or proper limit or degree; characterized by excess", "S": ["humble", "inexpensive", "moderate", "reasonable", "simple", "small"], "A": ["expensive", "outrageous", "unreasonable"]}

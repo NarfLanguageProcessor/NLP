@@ -1,1 +1,1 @@
-{"index": 2250, "D": [], "S": ["action ", "circumstance ", "hazard ", "hope ", "incident ", "opportunity ", "probability ", "prospect ", "risk "], "A": ["certainty ", "safety ", "surety ", "plan "]}
+{"index": 2250, "D": [], "S": ["action", "circumstance", "hazard", "hope", "incident", "opportunity", "probability", "prospect", "risk"], "A": ["certainty", "safety", "surety", "plan"]}

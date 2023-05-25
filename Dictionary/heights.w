@@ -1,1 +1,1 @@
-{"index": 135370, "D": "extent or distance upward", "S": ["Promised Land ", "immortality ", "nirvana ", "paradise "], "A": ["hell ", "misery ", "sorrow ", "unhappiness "]}
+{"index": 135370, "D": "extent or distance upward", "S": ["Promised Land", "immortality", "nirvana", "paradise"], "A": ["hell", "misery", "sorrow", "unhappiness"]}

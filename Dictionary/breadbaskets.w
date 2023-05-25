@@ -1,1 +1,1 @@
-{"index": 40190, "D": "a basket  or similar container for bread  or rolls.", "S": ["belly ", "gut ", "midriff ", "midsection ", "tummy "], "A": []}
+{"index": 40190, "D": "a basket  or similar container for bread  or rolls.", "S": ["belly", "gut", "midriff", "midsection", "tummy"], "A": []}

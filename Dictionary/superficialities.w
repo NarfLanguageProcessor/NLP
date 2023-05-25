@@ -1,1 +1,1 @@
-{"index": 311851, "D": "the fact or quality of being at or near, or relating to, the surface", "S": ["levity "], "A": ["sadness ", "seriousness ", "understanding ", "work "]}
+{"index": 311851, "D": "the fact or quality of being at or near, or relating to, the surface", "S": ["levity"], "A": ["sadness", "seriousness", "understanding", "work"]}

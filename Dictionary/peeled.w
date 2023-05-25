@@ -1,1 +1,1 @@
-{"index": 229035, "D": "to strip (something) of its skin, rind, bark, etc.", "S": ["bald ", "exposed ", "naked ", "uncovered "], "A": ["clothed ", "covered ", "robed "]}
+{"index": 229035, "D": "to strip (something) of its skin, rind, bark, etc.", "S": ["bald", "exposed", "naked", "uncovered"], "A": ["clothed", "covered", "robed"]}

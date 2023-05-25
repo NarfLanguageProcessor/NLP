@@ -1,1 +1,1 @@
-{"index": 154925, "D": "an act, fact, or instance of interfering.", "S": ["conflict ", "intervention ", "intrusion ", "obstruction ", "tampering "], "A": ["encouragement "]}
+{"index": 154925, "D": "an act, fact, or instance of interfering.", "S": ["conflict", "intervention", "intrusion", "obstruction", "tampering"], "A": ["encouragement"]}

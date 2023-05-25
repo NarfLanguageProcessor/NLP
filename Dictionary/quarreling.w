@@ -1,1 +1,1 @@
-{"index": 257995, "D": "an angry dispute or altercation; a disagreement marked by a temporary or permanent break in friendly relations.", "S": ["bickering ", "conflicting ", "differing ", "fighting ", "squabbling "], "A": []}
+{"index": 257995, "D": "an angry dispute or altercation; a disagreement marked by a temporary or permanent break in friendly relations.", "S": ["bickering", "conflicting", "differing", "fighting", "squabbling"], "A": []}

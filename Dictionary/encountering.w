@@ -1,1 +1,1 @@
-{"index": 99480, "D": "to come upon or meet with, especially unexpectedly", "S": ["face-to-face ", "meeting ", "opposing "], "A": []}
+{"index": 99480, "D": "to come upon or meet with, especially unexpectedly", "S": ["face-to-face", "meeting", "opposing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 47981, "D": "the lading or freight of a ship, airplane, etc.", "S": ["consignment ", "freight ", "goods ", "load ", "merchandise ", "payload ", "shipment "], "A": []}
+{"index": 47981, "D": "the lading or freight of a ship, airplane, etc.", "S": ["consignment", "freight", "goods", "load", "merchandise", "payload", "shipment"], "A": []}

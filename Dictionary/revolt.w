@@ -1,1 +1,1 @@
-{"index": 271483, "D": "to break away from or rise against constituted authority, as by open rebellion; cast off allegiance or subjection to those in authority; rebel; mutiny", "S": ["defection ", "insurgency ", "insurrection ", "mutiny ", "rebellion ", "revolution "], "A": ["obedience "]}
+{"index": 271483, "D": "to break away from or rise against constituted authority, as by open rebellion; cast off allegiance or subjection to those in authority; rebel; mutiny", "S": ["defection", "insurgency", "insurrection", "mutiny", "rebellion", "revolution"], "A": ["obedience"]}

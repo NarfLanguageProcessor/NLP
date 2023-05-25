@@ -1,1 +1,1 @@
-{"index": 50812, "D": [], "S": ["behemoth ", "freak ", "giant ", "whale "], "A": ["angel ", "god "]}
+{"index": 50812, "D": [], "S": ["behemoth", "freak", "giant", "whale"], "A": ["angel", "god"]}

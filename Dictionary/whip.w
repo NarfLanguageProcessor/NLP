@@ -1,1 +1,1 @@
-{"index": 364889, "D": "to beat with a strap, lash, rod, or the like, especially by way of punishment or chastisement; flog; thrash", "S": ["cane "], "A": []}
+{"index": 364889, "D": "to beat with a strap, lash, rod, or the like, especially by way of punishment or chastisement; flog; thrash", "S": ["cane"], "A": []}

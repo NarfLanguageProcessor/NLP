@@ -1,1 +1,0 @@
-{"index": 289828, "D": "to slip  to one side. ", "S": ["deflect ", "lurch ", "skid ", "stray ", "veer "], "A": ["stay ", "remain ", "straighten "]}

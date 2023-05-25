@@ -1,1 +1,1 @@
-{"index": 169416, "D": "not strict or severe; careless or negligent", "S": ["careless ", "indifferent ", "lenient ", "negligent ", "sloppy ", "soft ", "vague "], "A": ["attentive ", "careful ", "caring ", "concerned ", "hard ", "mindful ", "severe "]}
+{"index": 169416, "D": "not strict or severe; careless or negligent", "S": ["careless", "indifferent", "lenient", "negligent", "sloppy", "soft", "vague"], "A": ["attentive", "careful", "caring", "concerned", "hard", "mindful", "severe"]}

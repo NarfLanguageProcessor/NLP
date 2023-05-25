@@ -1,1 +1,1 @@
-{"index": 69711, "D": "to make more certain; confirm", "S": ["collateral ", "supporting "], "A": []}
+{"index": 69711, "D": "to make more certain; confirm", "S": ["collateral", "supporting"], "A": []}

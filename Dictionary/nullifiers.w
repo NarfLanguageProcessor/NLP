@@ -1,1 +1,1 @@
-{"index": 209483, "D": "to render or declare legally void or inoperative", "S": ["corrective ", "countermeasure ", "cure ", "remedy "], "A": ["disease "]}
+{"index": 209483, "D": "to render or declare legally void or inoperative", "S": ["corrective", "countermeasure", "cure", "remedy"], "A": ["disease"]}

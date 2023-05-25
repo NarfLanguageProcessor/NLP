@@ -1,1 +1,1 @@
-{"index": 253510, "D": "an expression or declaration of objection, disapproval, or dissent, often in opposition to something a person is powerless to prevent or avoid", "S": ["grudgingly ", "involuntarily ", "obstinately ", "refractorily ", "resentfully ", "stubbornly "], "A": []}
+{"index": 253510, "D": "an expression or declaration of objection, disapproval, or dissent, often in opposition to something a person is powerless to prevent or avoid", "S": ["grudgingly", "involuntarily", "obstinately", "refractorily", "resentfully", "stubbornly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 303077, "D": "pertaining to or characterized by a fixed or stationary condition.", "S": ["fixed ", "immobile ", "immovable ", "passive ", "stagnant ", "stationary "], "A": ["mobile ", "movable ", "moving ", "unfixed ", "unsteady ", "inconstant ", "unstable "]}
+{"index": 303077, "D": "pertaining to or characterized by a fixed or stationary condition.", "S": ["fixed", "immobile", "immovable", "passive", "stagnant", "stationary"], "A": ["mobile", "movable", "moving", "unfixed", "unsteady", "inconstant", "unstable"]}

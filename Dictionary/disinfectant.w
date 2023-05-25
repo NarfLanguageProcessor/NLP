@@ -1,1 +1,1 @@
-{"index": 88407, "D": "any chemical agent used chiefly on inanimate objects to destroy or inhibit the growth of harmful organisms.", "S": ["hygienic ", "sterile "], "A": ["dirty "]}
+{"index": 88407, "D": "any chemical agent used chiefly on inanimate objects to destroy or inhibit the growth of harmful organisms.", "S": ["hygienic", "sterile"], "A": ["dirty"]}

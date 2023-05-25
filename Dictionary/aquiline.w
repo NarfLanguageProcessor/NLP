@@ -1,1 +1,1 @@
-{"index": 18270, "D": "(of the nose) shaped like an eagle's beak; hooked.", "S": ["Roman-nosed ", "beaked ", "beaklike ", "eaglelike ", "prominent "], "A": ["straight "]}
+{"index": 18270, "D": "(of the nose) shaped like an eagle's beak; hooked.", "S": ["Roman-nosed", "beaked", "beaklike", "eaglelike", "prominent"], "A": ["straight"]}

@@ -1,1 +1,1 @@
-{"index": 296713, "D": "having three dimensions (length, breadth, and thickness), as a geometrical body or figure.", "S": ["stable ", "strong ", "sturdy ", "substantial ", "tight "], "A": ["unstable ", "wobbly ", "flexible ", "immaterial ", "indefinite ", "intangible "]}
+{"index": 296713, "D": "having three dimensions (length, breadth, and thickness), as a geometrical body or figure.", "S": ["stable", "strong", "sturdy", "substantial", "tight"], "A": ["unstable", "wobbly", "flexible", "immaterial", "indefinite", "intangible"]}

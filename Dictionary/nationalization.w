@@ -1,1 +1,1 @@
-{"index": 197268, "D": [], "S": ["acclimatization ", "assimilation ", "naturalization "], "A": []}
+{"index": 197268, "D": [], "S": ["acclimatization", "assimilation", "naturalization"], "A": []}

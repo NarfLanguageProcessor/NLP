@@ -1,0 +1,1 @@
+{"index": 20004, "D": "having a protective covering, such as armour or bone", "S": [], "A": []}

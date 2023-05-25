@@ -1,1 +1,1 @@
-{"index": 318665, "D": "a cardinal number, nine plus one.", "S": ["decimal "], "A": []}
+{"index": 318665, "D": "a cardinal number, nine plus one.", "S": ["decimal"], "A": []}

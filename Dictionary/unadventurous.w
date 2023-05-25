@@ -1,1 +1,1 @@
-{"index": 334676, "D": "not daring or enterprising", "S": ["dependable ", "prudent ", "realistic ", "reliable ", "sure "], "A": ["irresponsible ", "uncertain ", "unreliable ", "unsteady ", "unsure "]}
+{"index": 334676, "D": "not daring or enterprising", "S": ["dependable", "prudent", "realistic", "reliable", "sure"], "A": ["irresponsible", "uncertain", "unreliable", "unsteady", "unsure"]}

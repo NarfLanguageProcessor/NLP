@@ -1,1 +1,1 @@
-{"index": 168038, "D": "a person who lives or works on land.", "S": ["compatriot "], "A": []}
+{"index": 168038, "D": "a person who lives or works on land.", "S": ["compatriot"], "A": []}

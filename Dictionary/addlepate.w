@@ -1,1 +1,1 @@
-{"index": 3577, "D": [], "S": ["boob ", "idiot ", "nerd "], "A": ["brain ", "genius "]}
+{"index": 3577, "D": [], "S": ["boob", "idiot", "nerd"], "A": ["brain", "genius"]}

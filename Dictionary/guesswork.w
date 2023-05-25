@@ -1,1 +1,1 @@
-{"index": 130953, "D": "work  or procedure based on or consisting of the making of guesses  or conjectures.", "S": ["conjecture ", "hunch "], "A": ["proof ", "reality ", "truth "]}
+{"index": 130953, "D": "work  or procedure based on or consisting of the making of guesses  or conjectures.", "S": ["conjecture", "hunch"], "A": ["proof", "reality", "truth"]}

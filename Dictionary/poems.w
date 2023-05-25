@@ -1,1 +1,1 @@
-{"index": 241161, "D": "a composition in verse, especially one that is characterized by a highly developed artistic form and by the use of heightened language and rhythm to express an intensely imaginative interpretation of the subject.", "S": ["verse "], "A": ["prose "]}
+{"index": 241161, "D": "a composition in verse, especially one that is characterized by a highly developed artistic form and by the use of heightened language and rhythm to express an intensely imaginative interpretation of the subject.", "S": ["verse"], "A": ["prose"]}

@@ -1,1 +1,1 @@
-{"index": 88510, "D": "separated; disunited.", "S": ["isolated ", "removed ", "severed "], "A": ["attached ", "biased ", "combined ", "compassionate ", "connected ", "coupled ", "engaged ", "interested ", "linked ", "merged ", "sympathetic ", "united "]}
+{"index": 88510, "D": "separated; disunited.", "S": ["isolated", "removed", "severed"], "A": ["attached", "biased", "combined", "compassionate", "connected", "coupled", "engaged", "interested", "linked", "merged", "sympathetic", "united"]}

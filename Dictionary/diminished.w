@@ -1,1 +1,1 @@
-{"index": 85901, "D": "reduced or lessened; made smaller", "S": ["fewer "], "A": ["greater ", "higher ", "important ", "major ", "superior "]}
+{"index": 85901, "D": "reduced or lessened; made smaller", "S": ["fewer"], "A": ["greater", "higher", "important", "major", "superior"]}

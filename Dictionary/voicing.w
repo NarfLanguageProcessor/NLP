@@ -1,1 +1,1 @@
-{"index": 360994, "D": "the sound or sounds uttered through the mouth of living creatures, especially of human beings in speaking, shouting, singing, etc.", "S": ["articulation ", "enunciation ", "expression ", "pronunciation ", "utterance ", "vocalism ", "vocalization "], "A": []}
+{"index": 360994, "D": "the sound or sounds uttered through the mouth of living creatures, especially of human beings in speaking, shouting, singing, etc.", "S": ["articulation", "enunciation", "expression", "pronunciation", "utterance", "vocalism", "vocalization"], "A": []}

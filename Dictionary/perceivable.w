@@ -1,1 +1,1 @@
-{"index": 230360, "D": "capable of being perceived; perceptible. ", "S": ["apparent ", "apprehensible ", "noticeable ", "observable ", "obvious ", "perceptible ", "visible "], "A": ["imperceivable "]}
+{"index": 230360, "D": "capable of being perceived; perceptible. ", "S": ["apparent", "apprehensible", "noticeable", "observable", "obvious", "perceptible", "visible"], "A": ["imperceivable"]}

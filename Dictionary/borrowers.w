@@ -1,1 +1,1 @@
-{"index": 38523, "D": "to take or obtain with the promise to return the same or an equivalent", "S": ["bum ", "panhandler ", "vagabond "], "A": []}
+{"index": 38523, "D": "to take or obtain with the promise to return the same or an equivalent", "S": ["bum", "panhandler", "vagabond"], "A": []}

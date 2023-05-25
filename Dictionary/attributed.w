@@ -1,1 +1,1 @@
-{"index": 23165, "D": "to regard as resulting from a specified cause; consider as caused by something indicated (usually followed by to)", "S": ["apply ", "associate ", "blame ", "connect ", "credit ", "refer ", "trace "], "A": ["disconnect "]}
+{"index": 23165, "D": "to regard as resulting from a specified cause; consider as caused by something indicated (usually followed by to)", "S": ["apply", "associate", "blame", "connect", "credit", "refer", "trace"], "A": ["disconnect"]}

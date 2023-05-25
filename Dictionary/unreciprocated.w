@@ -1,1 +1,1 @@
-{"index": 349174, "D": "given, done, or felt in return", "S": ["unrequited "], "A": ["answered ", "certain ", "decided ", "determined ", "mutual ", "reciprocated ", "requited ", "returned ", "settled ", "shared "]}
+{"index": 349174, "D": "given, done, or felt in return", "S": ["unrequited"], "A": ["answered", "certain", "decided", "determined", "mutual", "reciprocated", "requited", "returned", "settled", "shared"]}

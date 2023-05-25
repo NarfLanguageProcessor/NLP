@@ -1,1 +1,1 @@
-{"index": 91317, "D": "to rule over; govern; control. ", "S": ["administrator ", "chief ", "chieftain ", "director ", "employer ", "executive ", "leader ", "owner ", "supervisor "], "A": ["employee ", "worker "]}
+{"index": 91317, "D": "to rule over; govern; control. ", "S": ["administrator", "chief", "chieftain", "director", "employer", "executive", "leader", "owner", "supervisor"], "A": ["employee", "worker"]}

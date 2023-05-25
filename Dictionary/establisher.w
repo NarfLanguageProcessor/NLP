@@ -1,1 +1,1 @@
-{"index": 104558, "D": "to found, institute, build, or bring into being on a firm or stable basis", "S": ["architect ", "author ", "benefactor ", "builder ", "creator ", "designer ", "inventor ", "organizer ", "patron ", "planner "], "A": ["opponent "]}
+{"index": 104558, "D": "to found, institute, build, or bring into being on a firm or stable basis", "S": ["architect", "author", "benefactor", "builder", "creator", "designer", "inventor", "organizer", "patron", "planner"], "A": ["opponent"]}

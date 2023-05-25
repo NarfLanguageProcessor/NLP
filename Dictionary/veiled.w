@@ -1,1 +1,1 @@
-{"index": 357741, "D": "having a veil", "S": ["cloaked ", "concealed "], "A": ["bare ", "exposed ", "open "]}
+{"index": 357741, "D": "having a veil", "S": ["cloaked", "concealed"], "A": ["bare", "exposed", "open"]}

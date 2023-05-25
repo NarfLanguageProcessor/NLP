@@ -1,1 +1,1 @@
-{"index": 181984, "D": "to involve oneself in a matter without right or invitation; interfere officiously and unwantedly", "S": ["interference ", "interrupting ", "meddlesomeness ", "nosiness ", "prying ", "snooping "], "A": []}
+{"index": 181984, "D": "to involve oneself in a matter without right or invitation; interfere officiously and unwantedly", "S": ["interference", "interrupting", "meddlesomeness", "nosiness", "prying", "snooping"], "A": []}

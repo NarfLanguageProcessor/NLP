@@ -1,1 +1,1 @@
-{"index": 140341, "D": "a condition of the eye in which parallel rays are focused behind the retina, distant objects being seen more distinctly than near ones; farsightedness (opposed to myopia).", "S": ["hypermetropia "], "A": []}
+{"index": 140341, "D": "a condition of the eye in which parallel rays are focused behind the retina, distant objects being seen more distinctly than near ones; farsightedness (opposed to myopia).", "S": ["hypermetropia"], "A": []}

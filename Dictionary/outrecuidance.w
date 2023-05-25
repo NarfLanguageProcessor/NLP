@@ -1,1 +1,1 @@
-{"index": 217259, "D": [], "S": ["arrogance "], "A": ["humility ", "modesty "]}
+{"index": 217259, "D": [], "S": ["arrogance"], "A": ["humility", "modesty"]}

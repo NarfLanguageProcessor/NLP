@@ -1,1 +1,1 @@
-{"index": 2214, "D": "to have or suffer a continuous, dull pain", "S": ["anguish ", "misery ", "pang ", "soreness ", "spasm ", "twinge "], "A": ["comfort ", "ease ", "health ", "relief "]}
+{"index": 2214, "D": "to have or suffer a continuous, dull pain", "S": ["anguish", "misery", "pang", "soreness", "spasm", "twinge"], "A": ["comfort", "ease", "health", "relief"]}

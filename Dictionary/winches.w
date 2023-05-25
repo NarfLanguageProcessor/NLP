@@ -1,1 +1,1 @@
-{"index": 365890, "D": "the crank or handle of a revolving machine.", "S": ["chuck ", "tool "], "A": []}
+{"index": 365890, "D": "the crank or handle of a revolving machine.", "S": ["chuck", "tool"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 227037, "D": "a minute portion, piece, fragment, or amount; a tiny or very small bit", "S": ["odds and ends "], "A": ["base ", "cleanliness ", "core ", "possessions ", "property ", "singularity "]}
+{"index": 227037, "D": "a minute portion, piece, fragment, or amount; a tiny or very small bit", "S": ["odds and ends"], "A": ["base", "cleanliness", "core", "possessions", "property", "singularity"]}

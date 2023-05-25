@@ -1,1 +1,1 @@
-{"index": 223884, "D": "picket fence. ", "S": ["pale ", "paling ", "palisade ", "panel ", "peg ", "pillar ", "rail ", "stake ", "stanchion ", "upright "], "A": []}
+{"index": 223884, "D": "picket fence. ", "S": ["pale", "paling", "palisade", "panel", "peg", "pillar", "rail", "stake", "stanchion", "upright"], "A": []}

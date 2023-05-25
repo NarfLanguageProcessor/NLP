@@ -1,1 +1,1 @@
-{"index": 41089, "D": "the whole side  of a ship above the water line, from the bow to the quarter.", "S": ["booklet ", "brochure ", "daily ", "journal ", "manual ", "newsletter ", "newspaper ", "pamphlet ", "paper ", "periodical ", "weekly "], "A": []}
+{"index": 41089, "D": "the whole side  of a ship above the water line, from the bow to the quarter.", "S": ["booklet", "brochure", "daily", "journal", "manual", "newsletter", "newspaper", "pamphlet", "paper", "periodical", "weekly"], "A": []}

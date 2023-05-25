@@ -1,1 +1,1 @@
-{"index": 29077, "D": "a sheet of matted cotton, wool, or synthetic fibers.", "S": ["bedspread ", "blanket ", "comforter "], "A": []}
+{"index": 29077, "D": "a sheet of matted cotton, wool, or synthetic fibers.", "S": ["bedspread", "blanket", "comforter"], "A": []}

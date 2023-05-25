@@ -1,0 +1,1 @@
+{"index": 32081, "D": "a disease of the peripheral nerves caused by a deficiency of vitamin B1, characterized by pain in and paralysis of the extremities, and severe emaciation or swelling of the body.", "S": [], "A": []}

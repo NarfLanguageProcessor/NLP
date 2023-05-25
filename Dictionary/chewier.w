@@ -1,1 +1,1 @@
-{"index": 54035, "D": "(of food) not easily chewed,  as because of toughness or stickiness; requiring much chewing. ", "S": ["crackling ", "crisp ", "crispy ", "crumbly ", "crusty "], "A": []}
+{"index": 54035, "D": "(of food) not easily chewed,  as because of toughness or stickiness; requiring much chewing. ", "S": ["crackling", "crisp", "crispy", "crumbly", "crusty"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 188520, "D": "a reflecting surface, originally of polished metal but now usually of glass with a silvery, metallic, or amalgam backing.", "S": ["characterized ", "defined ", "described ", "expressed ", "pictured "], "A": []}
+{"index": 188520, "D": "a reflecting surface, originally of polished metal but now usually of glass with a silvery, metallic, or amalgam backing.", "S": ["characterized", "defined", "described", "expressed", "pictured"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 354817, "D": "to lift up; raise; elevate.", "S": ["excite ", "exhilarate ", "improve ", "lift up "], "A": ["depress ", "discourage "]}
+{"index": 354817, "D": "to lift up; raise; elevate.", "S": ["excite", "exhilarate", "improve", "lift up"], "A": ["depress", "discourage"]}

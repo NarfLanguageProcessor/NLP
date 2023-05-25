@@ -1,1 +1,1 @@
-{"index": 175539, "D": "any of various small parrots, especially of the genus Agapornis, of Africa, noted for the affection shown one another and often kept as pets.", "S": ["boyfriend ", "companion ", "darling ", "girlfriend ", "heartthrob ", "lover "], "A": ["enemy ", "foe "]}
+{"index": 175539, "D": "any of various small parrots, especially of the genus Agapornis, of Africa, noted for the affection shown one another and often kept as pets.", "S": ["boyfriend", "companion", "darling", "girlfriend", "heartthrob", "lover"], "A": ["enemy", "foe"]}

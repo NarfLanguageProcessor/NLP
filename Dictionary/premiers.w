@@ -1,1 +1,1 @@
-{"index": 248391, "D": "the head of the cabinet in France or Italy or certain other countries; first minister; prime minister.", "S": ["administrator ", "aide ", "delegate ", "diplomat ", "envoy ", "executive ", "official ", "secretary "], "A": []}
+{"index": 248391, "D": "the head of the cabinet in France or Italy or certain other countries; first minister; prime minister.", "S": ["administrator", "aide", "delegate", "diplomat", "envoy", "executive", "official", "secretary"], "A": []}

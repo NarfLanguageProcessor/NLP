@@ -1,1 +1,1 @@
-{"index": 327956, "D": "not lasting, enduring, or permanent; transitory.", "S": ["emigrant ", "evacuee ", "expatriate ", "immigrant ", "traveler "], "A": ["native "]}
+{"index": 327956, "D": "not lasting, enduring, or permanent; transitory.", "S": ["emigrant", "evacuee", "expatriate", "immigrant", "traveler"], "A": ["native"]}

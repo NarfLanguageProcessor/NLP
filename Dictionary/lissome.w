@@ -1,1 +1,1 @@
-{"index": 173488, "D": "lithesome or lithe, especially of body; supple; flexible.", "S": ["agile ", "athletic ", "flexible ", "graceful ", "limber ", "lithe ", "nimble ", "pliant "], "A": ["portly "]}
+{"index": 173488, "D": "lithesome or lithe, especially of body; supple; flexible.", "S": ["agile", "athletic", "flexible", "graceful", "limber", "lithe", "nimble", "pliant"], "A": ["portly"]}

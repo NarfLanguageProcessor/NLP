@@ -1,1 +1,0 @@
-{"index": 331836, "D": "an ancient Roman trumpet.", "S": [], "A": []}

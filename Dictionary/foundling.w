@@ -1,1 +1,1 @@
-{"index": 117935, "D": "an infant or small child found abandoned; a child without a known parent or guardian.", "S": ["castaway ", "waif "], "A": []}
+{"index": 117935, "D": "an infant or small child found abandoned; a child without a known parent or guardian.", "S": ["castaway", "waif"], "A": []}

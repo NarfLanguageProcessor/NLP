@@ -1,1 +1,1 @@
-{"index": 213961, "D": "a warm place, as a greenhouse, in which orange trees are cultivated in cool climates.", "S": ["Christmas tree farm ", "orangery ", "orchard ", "stand ", "timberland ", "tree nursery "], "A": []}
+{"index": 213961, "D": "a warm place, as a greenhouse, in which orange trees are cultivated in cool climates.", "S": ["Christmas tree farm", "orangery", "orchard", "stand", "timberland", "tree nursery"], "A": []}

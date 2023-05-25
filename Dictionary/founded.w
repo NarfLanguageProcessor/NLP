@@ -1,1 +1,1 @@
-{"index": 117926, "D": "to set up or establish on a firm basis or for enduring existence", "S": ["established "], "A": []}
+{"index": 117926, "D": "to set up or establish on a firm basis or for enduring existence", "S": ["established"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 290781, "D": "the practice of representing things by symbols,  or of investing things with a symbolic  meaning or character.", "S": ["metaphor "], "A": []}
+{"index": 290781, "D": "the practice of representing things by symbols,  or of investing things with a symbolic  meaning or character.", "S": ["metaphor"], "A": []}

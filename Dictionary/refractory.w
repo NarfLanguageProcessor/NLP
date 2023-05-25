@@ -1,1 +1,0 @@
-{"index": 265329, "D": "hard or impossible to manage; stubbornly disobedient", "S": ["disobedient ", "headstrong ", "mulish ", "obstinate ", "unmanageable ", "unruly ", "willful "], "A": ["manageable ", "obedient "]}

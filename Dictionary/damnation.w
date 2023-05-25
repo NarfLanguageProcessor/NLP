@@ -1,1 +1,1 @@
-{"index": 76575, "D": "the act of damning  or the state of being damned. ", "S": ["condemnation ", "doom ", "hell ", "perdition ", "suffering ", "torment "], "A": ["happiness ", "joy ", "redemption "]}
+{"index": 76575, "D": "the act of damning  or the state of being damned. ", "S": ["condemnation", "doom", "hell", "perdition", "suffering", "torment"], "A": ["happiness", "joy", "redemption"]}

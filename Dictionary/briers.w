@@ -1,1 +1,1 @@
-{"index": 40734, "D": "a prickly plant or shrub, especially the sweetbrier  or a greenbrier. ", "S": ["burr ", "cleaver ", "furze ", "gorse ", "hedge ", "nettle ", "prick ", "shrub ", "spray ", "thistle ", "thorn "], "A": []}
+{"index": 40734, "D": "a prickly plant or shrub, especially the sweetbrier  or a greenbrier. ", "S": ["burr", "cleaver", "furze", "gorse", "hedge", "nettle", "prick", "shrub", "spray", "thistle", "thorn"], "A": []}

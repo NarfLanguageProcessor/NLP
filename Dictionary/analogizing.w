@@ -1,1 +1,1 @@
-{"index": 11805, "D": "to make use of analogy  in reasoning, argument, etc.", "S": ["analyze ", "collate ", "correlate ", "equate ", "examine ", "liken ", "match ", "parallel ", "relate "], "A": ["differ ", "imbalance "]}
+{"index": 11805, "D": "to make use of analogy  in reasoning, argument, etc.", "S": ["analyze", "collate", "correlate", "equate", "examine", "liken", "match", "parallel", "relate"], "A": ["differ", "imbalance"]}

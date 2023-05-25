@@ -1,1 +1,1 @@
-{"index": 80982, "D": "to remove (an industry or the like) from government ownership or control.", "S": ["decontrol "], "A": []}
+{"index": 80982, "D": "to remove (an industry or the like) from government ownership or control.", "S": ["decontrol"], "A": []}

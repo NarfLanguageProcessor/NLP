@@ -1,1 +1,1 @@
-{"index": 243597, "D": "capable of being carried; portable.", "S": ["ambulatory ", "mobile ", "motile ", "portable "], "A": ["fixed ", "immovable ", "permanent ", "unmovable "]}
+{"index": 243597, "D": "capable of being carried; portable.", "S": ["ambulatory", "mobile", "motile", "portable"], "A": ["fixed", "immovable", "permanent", "unmovable"]}

@@ -1,1 +1,0 @@
-{"index": 308828, "D": "covered with hair, especially soft hair; furry. ", "S": [], "A": []}

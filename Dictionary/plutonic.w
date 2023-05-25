@@ -1,1 +1,1 @@
-{"index": 240669, "D": "noting or pertaining to a class of igneous rocks that have solidified far below the earth's surface.", "S": ["abyssal ", "cimmerian ", "igneous ", "infernal "], "A": []}
+{"index": 240669, "D": "noting or pertaining to a class of igneous rocks that have solidified far below the earth's surface.", "S": ["abyssal", "cimmerian", "igneous", "infernal"], "A": []}

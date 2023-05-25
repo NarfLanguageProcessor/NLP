@@ -1,1 +1,1 @@
-{"index": 29282, "D": "to cry or wail lustily.", "S": ["holler "], "A": ["be quiet "]}
+{"index": 29282, "D": "to cry or wail lustily.", "S": ["holler"], "A": ["be quiet"]}

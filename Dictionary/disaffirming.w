@@ -1,1 +1,1 @@
-{"index": 86951, "D": "to deny; contradict.", "S": ["annul ", "deny ", "disclaim ", "gainsay ", "negate ", "renounce ", "repudiate ", "reverse "], "A": []}
+{"index": 86951, "D": "to deny; contradict.", "S": ["annul", "deny", "disclaim", "gainsay", "negate", "renounce", "repudiate", "reverse"], "A": []}

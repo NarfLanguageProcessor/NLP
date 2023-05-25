@@ -1,1 +1,1 @@
-{"index": 18523, "D": "based on the judgment or will of an individual", "S": ["forthwith ", "promptly ", "swiftly "], "A": ["slowly "]}
+{"index": 18523, "D": "based on the judgment or will of an individual", "S": ["forthwith", "promptly", "swiftly"], "A": ["slowly"]}

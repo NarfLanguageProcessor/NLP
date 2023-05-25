@@ -1,1 +1,1 @@
-{"index": 125875, "D": "the quality of fascinating, alluring, or attracting, especially by a combination of charm and good looks.", "S": ["attraction ", "charisma ", "charm ", "enticement ", "magnetism ", "temptation "], "A": ["repulsion "]}
+{"index": 125875, "D": "the quality of fascinating, alluring, or attracting, especially by a combination of charm and good looks.", "S": ["attraction", "charisma", "charm", "enticement", "magnetism", "temptation"], "A": ["repulsion"]}

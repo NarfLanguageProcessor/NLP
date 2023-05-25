@@ -1,1 +1,1 @@
-{"index": 37609, "D": "(after 1918) a member of the Russian Communist Party.", "S": ["Bolshevist ", "Commie ", "Maoist ", "Marxist ", "Stalinist ", "Trotskyite ", "apparatchik ", "comrade ", "leftist ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}
+{"index": 37609, "D": "(after 1918) a member of the Russian Communist Party.", "S": ["Bolshevist", "Commie", "Maoist", "Marxist", "Stalinist", "Trotskyite", "apparatchik", "comrade", "leftist", "red", "socialist", "sympathizer"], "A": ["capitalist", "conservative", "fascist"]}

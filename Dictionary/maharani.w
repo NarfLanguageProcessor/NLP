@@ -1,1 +1,1 @@
-{"index": 177671, "D": "the wife of a maharajah", "S": ["czar ", "emperor ", "king ", "monarch ", "shah ", "sultan "], "A": ["commoner ", "subject "]}
+{"index": 177671, "D": "the wife of a maharajah", "S": ["czar", "emperor", "king", "monarch", "shah", "sultan"], "A": ["commoner", "subject"]}

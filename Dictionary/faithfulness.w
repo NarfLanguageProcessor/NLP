@@ -1,1 +1,1 @@
-{"index": 109365, "D": "lasting loyalty and trustworthiness in relationships, especially marriage and friendship", "S": ["adherence ", "allegiance ", "fealty ", "fidelity "], "A": ["disloyalty ", "treachery ", "disregard ", "inconstancy "]}
+{"index": 109365, "D": "lasting loyalty and trustworthiness in relationships, especially marriage and friendship", "S": ["adherence", "allegiance", "fealty", "fidelity"], "A": ["disloyalty", "treachery", "disregard", "inconstancy"]}

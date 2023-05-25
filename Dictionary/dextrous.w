@@ -1,1 +1,1 @@
-{"index": 83856, "D": "dexterous. ", "S": ["deft ", "glib ", "sharp ", "shrewd ", "skillful ", "sly ", "smooth ", "sophisticated "], "A": ["ignorant ", "naive ", "simple ", "slow ", "stupid ", "unskillful "]}
+{"index": 83856, "D": "dexterous. ", "S": ["deft", "glib", "sharp", "shrewd", "skillful", "sly", "smooth", "sophisticated"], "A": ["ignorant", "naive", "simple", "slow", "stupid", "unskillful"]}

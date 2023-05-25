@@ -1,1 +1,1 @@
-{"index": 104088, "D": "a squadron or divisional unit of airplanes", "S": ["armada ", "battalion ", "fleet ", "squad "], "A": []}
+{"index": 104088, "D": "a squadron or divisional unit of airplanes", "S": ["armada", "battalion", "fleet", "squad"], "A": []}

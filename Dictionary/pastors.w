@@ -1,1 +1,1 @@
-{"index": 227513, "D": "a minister or priest in charge of a church.", "S": ["cleric ", "minister ", "preacher ", "priest ", "rector ", "vicar "], "A": []}
+{"index": 227513, "D": "a minister or priest in charge of a church.", "S": ["cleric", "minister", "preacher", "priest", "rector", "vicar"], "A": []}

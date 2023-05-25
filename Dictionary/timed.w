@@ -1,1 +1,1 @@
-{"index": 323748, "D": "the system of those sequential relations that any event has to any other, as past, present, or future; indefinite and continuous duration regarded as that in which events succeed one another.", "S": ["careful ", "deliberate ", "restrained "], "A": []}
+{"index": 323748, "D": "the system of those sequential relations that any event has to any other, as past, present, or future; indefinite and continuous duration regarded as that in which events succeed one another.", "S": ["careful", "deliberate", "restrained"], "A": []}

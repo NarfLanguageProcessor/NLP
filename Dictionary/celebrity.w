@@ -1,1 +1,1 @@
-{"index": 50467, "D": "a famous or well-known person.", "S": ["figure ", "hero ", "luminary ", "personage ", "personality ", "someone ", "star ", "superstar "], "A": ["commoner ", "nobody ", "nonentity ", "unknown "]}
+{"index": 50467, "D": "a famous or well-known person.", "S": ["figure", "hero", "luminary", "personage", "personality", "someone", "star", "superstar"], "A": ["commoner", "nobody", "nonentity", "unknown"]}

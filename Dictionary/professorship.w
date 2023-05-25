@@ -1,1 +1,1 @@
-{"index": 251736, "D": "the office or post of a professor. ", "S": ["captain ", "chairperson ", "director ", "fellowship ", "helm ", "instructorship ", "leader ", "monitor ", "principal ", "throne ", "tutor ", "tutorship "], "A": []}
+{"index": 251736, "D": "the office or post of a professor. ", "S": ["captain", "chairperson", "director", "fellowship", "helm", "instructorship", "leader", "monitor", "principal", "throne", "tutor", "tutorship"], "A": []}

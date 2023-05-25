@@ -1,1 +1,1 @@
-{"index": 269877, "D": "to state  again or in a new way.", "S": ["rehash ", "summarize "], "A": []}
+{"index": 269877, "D": "to state  again or in a new way.", "S": ["rehash", "summarize"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 191908, "D": "a person who is involved with something in a petty or contemptible way (usually used in combination)", "S": ["dealer ", "hawker ", "merchant ", "peddler ", "trader "], "A": ["customer "]}
+{"index": 191908, "D": "a person who is involved with something in a petty or contemptible way (usually used in combination)", "S": ["dealer", "hawker", "merchant", "peddler", "trader"], "A": ["customer"]}

@@ -1,1 +1,1 @@
-{"index": 67805, "D": "held in check; curbed", "S": ["composed ", "contained ", "disciplined ", "guarded ", "restrained "], "A": ["agitated ", "excited "]}
+{"index": 67805, "D": "held in check; curbed", "S": ["composed", "contained", "disciplined", "guarded", "restrained"], "A": ["agitated", "excited"]}

@@ -1,1 +1,0 @@
-{"index": 330846, "D": "to make trivial;  cause to appear unimportant, trifling, etc.", "S": ["depreciate ", "dismiss ", "laugh off ", "make light of ", "minimize ", "misprize ", "play down ", "pooh-pooh ", "underestimate ", "underplay ", "underrate ", "undervalue "], "A": []}

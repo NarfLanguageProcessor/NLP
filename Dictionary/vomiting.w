@@ -1,1 +1,1 @@
-{"index": 361319, "D": "to eject the contents of the stomach through the mouth; regurgitate; throw up.", "S": ["blah ", "crummy ", "miserable ", "nauseated ", "pale ", "queasy ", "shaky ", "sick as a dog ", "sick to one's stomach ", "throwing up ", "under the weather "], "A": []}
+{"index": 361319, "D": "to eject the contents of the stomach through the mouth; regurgitate; throw up.", "S": ["blah", "crummy", "miserable", "nauseated", "pale", "queasy", "shaky", "sick as a dog", "sick to one's stomach", "throwing up", "under the weather"], "A": []}

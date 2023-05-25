@@ -1,1 +1,1 @@
-{"index": 78199, "D": "a member of a permanent board or a special commission of ten members in ancient Rome, especially the commission that drew up Rome's first code of law.", "S": ["decade ", "decagon ", "decapod ", "decennary ", "decennium "], "A": []}
+{"index": 78199, "D": "a member of a permanent board or a special commission of ten members in ancient Rome, especially the commission that drew up Rome's first code of law.", "S": ["decade", "decagon", "decapod", "decennary", "decennium"], "A": []}

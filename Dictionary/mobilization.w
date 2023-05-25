@@ -1,1 +1,1 @@
-{"index": 190958, "D": "the act or process of marshaling, organizing, or preparing something for action", "S": ["active duty for training ", "active service ", "ad ", "full-time training duty "], "A": []}
+{"index": 190958, "D": "the act or process of marshaling, organizing, or preparing something for action", "S": ["active duty for training", "active service", "ad", "full-time training duty"], "A": []}

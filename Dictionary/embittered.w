@@ -1,1 +1,1 @@
-{"index": 98083, "D": "to make bitter;  cause to feel bitterness", "S": ["disaffected ", "irritated ", "rancorous "], "A": []}
+{"index": 98083, "D": "to make bitter;  cause to feel bitterness", "S": ["disaffected", "irritated", "rancorous"], "A": []}

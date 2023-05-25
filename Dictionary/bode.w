@@ -1,1 +1,1 @@
-{"index": 37157, "D": "to be an omen of; portend", "S": ["augur ", "betoken ", "forebode ", "forecast ", "foreshow ", "foretell ", "herald ", "indicate ", "message ", "offer ", "omen ", "portend ", "predict ", "presage ", "signify ", "stop "], "A": []}
+{"index": 37157, "D": "to be an omen of; portend", "S": ["augur", "betoken", "forebode", "forecast", "foreshow", "foretell", "herald", "indicate", "message", "offer", "omen", "portend", "predict", "presage", "signify", "stop"], "A": []}

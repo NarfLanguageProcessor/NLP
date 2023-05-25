@@ -1,1 +1,1 @@
-{"index": 171641, "D": "an institution for popular education providing discussions, lectures, concerts, etc.", "S": ["association ", "institute ", "organization ", "seminary ", "university "], "A": []}
+{"index": 171641, "D": "an institution for popular education providing discussions, lectures, concerts, etc.", "S": ["association", "institute", "organization", "seminary", "university"], "A": []}

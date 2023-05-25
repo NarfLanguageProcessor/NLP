@@ -1,1 +1,1 @@
-{"index": 90306, "D": "to strip of clothing, ornament, etc.", "S": ["bankrupt ", "deprive ", "dismantle ", "rob ", "unload "], "A": ["give ", "offer ", "clothe ", "cover ", "hide ", "hold ", "keep ", "maintain ", "save "]}
+{"index": 90306, "D": "to strip of clothing, ornament, etc.", "S": ["bankrupt", "deprive", "dismantle", "rob", "unload"], "A": ["give", "offer", "clothe", "cover", "hide", "hold", "keep", "maintain", "save"]}

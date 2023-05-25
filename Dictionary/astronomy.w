@@ -1,1 +1,1 @@
-{"index": 22311, "D": "the science that deals with the material universe beyond the earth's atmosphere.", "S": ["astrophysics "], "A": []}
+{"index": 22311, "D": "the science that deals with the material universe beyond the earth's atmosphere.", "S": ["astrophysics"], "A": []}

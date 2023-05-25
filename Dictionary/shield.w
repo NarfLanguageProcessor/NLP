@@ -1,1 +1,1 @@
-{"index": 288181, "D": "a broad piece of armor, varying widely in form and size, carried apart from the body, usually on the left arm, as a defense against swords, lances, arrows, etc.", "S": ["armor ", "buffer ", "bulwark ", "safeguard ", "shelter "], "A": []}
+{"index": 288181, "D": "a broad piece of armor, varying widely in form and size, carried apart from the body, usually on the left arm, as a defense against swords, lances, arrows, etc.", "S": ["armor", "buffer", "bulwark", "safeguard", "shelter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 67402, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": ["challenge ", "discussion ", "game ", "match ", "meeting ", "sport ", "tournament ", "trial "], "A": ["agreement ", "calm ", "peace ", "quiet ", "stillness ", "tranquility "]}
+{"index": 67402, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": ["challenge", "discussion", "game", "match", "meeting", "sport", "tournament", "trial"], "A": ["agreement", "calm", "peace", "quiet", "stillness", "tranquility"]}

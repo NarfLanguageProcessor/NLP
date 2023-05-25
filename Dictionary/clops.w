@@ -1,1 +1,1 @@
-{"index": 60425, "D": "a sound made by or as if by a horse's hoof striking the ground.", "S": ["clunk ", "plod ", "pound ", "stomp ", "thud ", "thump "], "A": []}
+{"index": 60425, "D": "a sound made by or as if by a horse's hoof striking the ground.", "S": ["clunk", "plod", "pound", "stomp", "thud", "thump"], "A": []}

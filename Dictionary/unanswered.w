@@ -1,1 +1,1 @@
-{"index": 335035, "D": "many unanswered questions", "S": ["ignored "], "A": ["answered ", "certain ", "decided ", "determined ", "mutual ", "reciprocated ", "requited ", "returned ", "settled ", "shared "]}
+{"index": 335035, "D": "many unanswered questions", "S": ["ignored"], "A": ["answered", "certain", "decided", "determined", "mutual", "reciprocated", "requited", "returned", "settled", "shared"]}

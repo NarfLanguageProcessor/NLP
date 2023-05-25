@@ -1,1 +1,1 @@
-{"index": 271423, "D": "restoration to life, consciousness, vigor, strength, etc.", "S": ["recovery ", "rejuvenation ", "renaissance ", "renewal ", "restoration ", "resurgence ", "resurrection ", "revitalization "], "A": ["destruction ", "killing ", "suppression "]}
+{"index": 271423, "D": "restoration to life, consciousness, vigor, strength, etc.", "S": ["recovery", "rejuvenation", "renaissance", "renewal", "restoration", "resurgence", "resurrection", "revitalization"], "A": ["destruction", "killing", "suppression"]}

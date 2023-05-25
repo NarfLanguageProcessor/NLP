@@ -1,1 +1,1 @@
-{"index": 91266, "D": "to convert (animals, plants, etc.) to domestic  uses; tame. ", "S": ["tamed ", "trained "], "A": []}
+{"index": 91266, "D": "to convert (animals, plants, etc.) to domestic  uses; tame. ", "S": ["tamed", "trained"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 366343, "D": "having coarse, stiff, wirelike hair.", "S": [], "A": []}

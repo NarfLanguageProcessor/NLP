@@ -1,1 +1,1 @@
-{"index": 30743, "D": "to influence by trickery, flattery, etc.; mislead; delude.", "S": ["con artist ", "hypocrite "], "A": []}
+{"index": 30743, "D": "to influence by trickery, flattery, etc.; mislead; delude.", "S": ["con artist", "hypocrite"], "A": []}

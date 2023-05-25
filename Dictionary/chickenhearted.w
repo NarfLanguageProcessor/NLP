@@ -1,1 +1,1 @@
-{"index": 54151, "D": "timid; fearful; cowardly.", "S": ["chicken ", "craven ", "faint-hearted ", "fearful ", "lily-livered ", "pusillanimous ", "spineless ", "timid ", "yellow ", "yellow-bellied "], "A": []}
+{"index": 54151, "D": "timid; fearful; cowardly.", "S": ["chicken", "craven", "faint-hearted", "fearful", "lily-livered", "pusillanimous", "spineless", "timid", "yellow", "yellow-bellied"], "A": []}

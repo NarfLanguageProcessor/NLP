@@ -1,1 +1,1 @@
-{"index": 166619, "D": "a slip of paper, cloth, or other material, marked or inscribed, for attachment to something to indicate its manufacturer, nature, ownership, destination, etc.", "S": ["christened ", "termed "], "A": []}
+{"index": 166619, "D": "a slip of paper, cloth, or other material, marked or inscribed, for attachment to something to indicate its manufacturer, nature, ownership, destination, etc.", "S": ["christened", "termed"], "A": []}

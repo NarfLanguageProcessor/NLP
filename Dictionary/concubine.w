@@ -1,1 +1,1 @@
-{"index": 65474, "D": "a woman who cohabits with a man to whom she is not legally married, especially one regarded as socially or sexually subservient; mistress.", "S": ["mistress "], "A": []}
+{"index": 65474, "D": "a woman who cohabits with a man to whom she is not legally married, especially one regarded as socially or sexually subservient; mistress.", "S": ["mistress"], "A": []}

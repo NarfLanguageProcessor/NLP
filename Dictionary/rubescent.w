@@ -1,1 +1,1 @@
-{"index": 275163, "D": "becoming red; blushing.", "S": ["embarrassed ", "flushed ", "flushing ", "humiliated ", "reddening "], "A": ["arrogant ", "bold ", "immodest "]}
+{"index": 275163, "D": "becoming red; blushing.", "S": ["embarrassed", "flushed", "flushing", "humiliated", "reddening"], "A": ["arrogant", "bold", "immodest"]}

@@ -1,1 +1,1 @@
-{"index": 17605, "D": "an earnest request for aid, support, sympathy, mercy, etc.; entreaty; petition; plea.", "S": ["appellant ", "petitioner "], "A": []}
+{"index": 17605, "D": "an earnest request for aid, support, sympathy, mercy, etc.; entreaty; petition; plea.", "S": ["appellant", "petitioner"], "A": []}

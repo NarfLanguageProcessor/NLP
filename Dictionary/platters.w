@@ -1,1 +1,1 @@
-{"index": 239564, "D": "a large, shallow dish, usually elliptical in shape, for holding and serving food, especially meat or fish.", "S": ["disc ", "dish ", "disk ", "tray "], "A": []}
+{"index": 239564, "D": "a large, shallow dish, usually elliptical in shape, for holding and serving food, especially meat or fish.", "S": ["disc", "dish", "disk", "tray"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 283015, "D": "incitement of discontent or rebellion against a government.", "S": ["insubordination ", "insurrection ", "mutiny ", "treason "], "A": ["obedience ", "calm ", "peace ", "submission "]}
+{"index": 283015, "D": "incitement of discontent or rebellion against a government.", "S": ["insubordination", "insurrection", "mutiny", "treason"], "A": ["obedience", "calm", "peace", "submission"]}

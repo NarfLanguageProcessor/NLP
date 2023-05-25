@@ -1,1 +1,1 @@
-{"index": 358166, "D": "to provide (a room, mine, etc.) with fresh air in place of air that has been used or contaminated.", "S": ["vent "], "A": ["be quiet ", "close ", "close up ", "hide ", "hold ", "suppress ", "take "]}
+{"index": 358166, "D": "to provide (a room, mine, etc.) with fresh air in place of air that has been used or contaminated.", "S": ["vent"], "A": ["be quiet", "close", "close up", "hide", "hold", "suppress", "take"]}

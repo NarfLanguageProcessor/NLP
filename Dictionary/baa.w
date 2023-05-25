@@ -1,1 +1,1 @@
-{"index": 25419, "D": "to make the sound of a sheep; bleat.", "S": ["blat ", "blather ", "bluster ", "cry ", "fuss ", "gripe ", "whine "], "A": []}
+{"index": 25419, "D": "to make the sound of a sheep; bleat.", "S": ["blat", "blather", "bluster", "cry", "fuss", "gripe", "whine"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 73982, "D": "a steel bar, usually flattened and slightly bent at one or both ends, used as a lever.", "S": ["chisel ", "lever "], "A": []}
+{"index": 73982, "D": "a steel bar, usually flattened and slightly bent at one or both ends, used as a lever.", "S": ["chisel", "lever"], "A": []}

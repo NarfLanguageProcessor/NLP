@@ -1,1 +1,0 @@
-{"index": 279328, "D": "having a rough surface because of minute points or projections.", "S": [], "A": []}

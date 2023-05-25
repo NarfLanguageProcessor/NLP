@@ -1,1 +1,1 @@
-{"index": 84289, "D": "a speaker in a dialogue.", "S": ["interrogator ", "interviewer ", "questioner ", "speaker ", "talker "], "A": []}
+{"index": 84289, "D": "a speaker in a dialogue.", "S": ["interrogator", "interviewer", "questioner", "speaker", "talker"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 147, "D": "lessened or diminished; reduced", "S": ["blended ", "tempered ", "thawed "], "A": []}
+{"index": 147, "D": "lessened or diminished; reduced", "S": ["blended", "tempered", "thawed"], "A": []}

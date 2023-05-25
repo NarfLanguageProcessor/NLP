@@ -1,1 +1,1 @@
-{"index": 366951, "D": "Compare man (def. 1), girl (def. 1). ", "S": ["daughter ", "girl ", "mother ", "wife "], "A": ["man "]}
+{"index": 366951, "D": "Compare man (def. 1), girl (def. 1). ", "S": ["daughter", "girl", "mother", "wife"], "A": ["man"]}

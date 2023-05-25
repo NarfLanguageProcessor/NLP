@@ -1,1 +1,1 @@
-{"index": 360101, "D": "a loud-voiced, ill-tempered, scolding woman; shrew.", "S": ["beldame ", "fishwife ", "harpy ", "scold ", "scold ", "termagant ", "vixen "], "A": []}
+{"index": 360101, "D": "a loud-voiced, ill-tempered, scolding woman; shrew.", "S": ["beldame", "fishwife", "harpy", "scold", "scold", "termagant", "vixen"], "A": []}

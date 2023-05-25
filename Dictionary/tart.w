@@ -1,1 +1,1 @@
-{"index": 316761, "D": "sharp to the taste; sour or acid", "S": ["acid ", "astringent ", "caustic ", "cutting ", "dry ", "sharp ", "short ", "wounding "], "A": ["bland ", "calm ", "kind ", "mild ", "nice "]}
+{"index": 316761, "D": "sharp to the taste; sour or acid", "S": ["acid", "astringent", "caustic", "cutting", "dry", "sharp", "short", "wounding"], "A": ["bland", "calm", "kind", "mild", "nice"]}

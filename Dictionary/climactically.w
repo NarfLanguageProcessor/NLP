@@ -1,1 +1,1 @@
-{"index": 59959, "D": "pertaining to or coming to a climax", "S": ["basically ", "conclusively ", "finally ", "someday ", "sooner or later "], "A": ["never "]}
+{"index": 59959, "D": "pertaining to or coming to a climax", "S": ["basically", "conclusively", "finally", "someday", "sooner or later"], "A": ["never"]}

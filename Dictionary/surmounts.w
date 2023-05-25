@@ -1,1 +1,1 @@
-{"index": 313510, "D": "to mount upon; get on the top of; mount upon and cross over", "S": ["conquer "], "A": ["fail ", "fall behind ", "give up ", "help ", "lose ", "receive ", "surrender "]}
+{"index": 313510, "D": "to mount upon; get on the top of; mount upon and cross over", "S": ["conquer"], "A": ["fail", "fall behind", "give up", "help", "lose", "receive", "surrender"]}

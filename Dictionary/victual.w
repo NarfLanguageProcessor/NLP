@@ -1,1 +1,1 @@
-{"index": 359479, "D": "food supplies; provisions.", "S": ["eatable ", "edible ", "provisions "], "A": []}
+{"index": 359479, "D": "food supplies; provisions.", "S": ["eatable", "edible", "provisions"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 269700, "D": "a particular, detail, or point (usually preceded by in)", "S": ["admired ", "appreciated ", "beloved ", "honored ", "important "], "A": []}
+{"index": 269700, "D": "a particular, detail, or point (usually preceded by in)", "S": ["admired", "appreciated", "beloved", "honored", "important"], "A": []}

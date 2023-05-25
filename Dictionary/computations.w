@@ -1,1 +1,1 @@
-{"index": 64976, "D": "an act, process, or method of computing;  calculation.", "S": ["calculation ", "computing "], "A": ["conjecture ", "guesstimation "]}
+{"index": 64976, "D": "an act, process, or method of computing;  calculation.", "S": ["calculation", "computing"], "A": ["conjecture", "guesstimation"]}

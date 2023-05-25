@@ -1,1 +1,1 @@
-{"index": 98433, "D": "a correction or change, as of a text.", "S": ["amendatory ", "improving ", "rectifying ", "reformative ", "reformatory "], "A": []}
+{"index": 98433, "D": "a correction or change, as of a text.", "S": ["amendatory", "improving", "rectifying", "reformative", "reformatory"], "A": []}

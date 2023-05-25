@@ -1,1 +1,1 @@
-{"index": 44206, "D": "harsh discordance of sound; dissonance", "S": ["noise "], "A": []}
+{"index": 44206, "D": "harsh discordance of sound; dissonance", "S": ["noise"], "A": []}

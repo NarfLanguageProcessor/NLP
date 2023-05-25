@@ -1,1 +1,1 @@
-{"index": 3259, "D": "the doctrine or practice of vigorous action or involvement as a means of achieving political or other goals, sometimes by demonstrations, protests, etc.", "S": ["advocacy ", "involvement ", "militancy "], "A": []}
+{"index": 3259, "D": "the doctrine or practice of vigorous action or involvement as a means of achieving political or other goals, sometimes by demonstrations, protests, etc.", "S": ["advocacy", "involvement", "militancy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 45138, "D": [], "S": ["fever ", "hot weather ", "warmth "], "A": ["chill "]}
+{"index": 45138, "D": [], "S": ["fever", "hot weather", "warmth"], "A": ["chill"]}

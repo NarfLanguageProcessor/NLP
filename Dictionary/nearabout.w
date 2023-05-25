@@ -1,1 +1,1 @@
-{"index": 197598, "D": [], "S": ["approximately ", "practically ", "roughly ", "virtually "], "A": []}
+{"index": 197598, "D": [], "S": ["approximately", "practically", "roughly", "virtually"], "A": []}

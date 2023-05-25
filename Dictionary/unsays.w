@@ -1,1 +1,1 @@
-{"index": 350246, "D": "to withdraw (something said), as if it had never been said; retract.", "S": ["cancel ", "dismiss ", "suspend ", "withdraw "], "A": ["allow ", "permit ", "approve ", "emphasize ", "enforce ", "keep ", "pass ", "sanction ", "validate "]}
+{"index": 350246, "D": "to withdraw (something said), as if it had never been said; retract.", "S": ["cancel", "dismiss", "suspend", "withdraw"], "A": ["allow", "permit", "approve", "emphasize", "enforce", "keep", "pass", "sanction", "validate"]}

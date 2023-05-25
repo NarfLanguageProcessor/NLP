@@ -1,1 +1,1 @@
-{"index": 140752, "D": "to put in the hypnotic  state.", "S": ["charmed ", "enchanted ", "fascinated ", "mesmerized "], "A": []}
+{"index": 140752, "D": "to put in the hypnotic  state.", "S": ["charmed", "enchanted", "fascinated", "mesmerized"], "A": []}

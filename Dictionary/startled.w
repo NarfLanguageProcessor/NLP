@@ -1,1 +1,1 @@
-{"index": 302968, "D": "disturbed or agitated suddenly, as by surprise or alarm", "S": ["scared ", "shocked ", "spooked ", "stunned ", "surprised "], "A": []}
+{"index": 302968, "D": "disturbed or agitated suddenly, as by surprise or alarm", "S": ["scared", "shocked", "spooked", "stunned", "surprised"], "A": []}

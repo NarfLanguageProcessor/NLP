@@ -1,1 +1,1 @@
-{"index": 107730, "D": "the act, process, practice, or an instance of making experiments. ", "S": ["experiment ", "testing ", "trial and error "], "A": []}
+{"index": 107730, "D": "the act, process, practice, or an instance of making experiments. ", "S": ["experiment", "testing", "trial and error"], "A": []}

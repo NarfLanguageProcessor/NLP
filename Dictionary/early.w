@@ -1,1 +1,1 @@
-{"index": 94742, "D": "in or during the first part of a period of time, a course of action, a series of events, etc.", "S": ["fresh ", "initial ", "new ", "previous ", "recent "], "A": ["future ", "old ", "worn "]}
+{"index": 94742, "D": "in or during the first part of a period of time, a course of action, a series of events, etc.", "S": ["fresh", "initial", "new", "previous", "recent"], "A": ["future", "old", "worn"]}

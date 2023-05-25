@@ -1,1 +1,1 @@
-{"index": 196557, "D": "any of a class of nymphs presiding over rivers and springs.", "S": ["dryad ", "fairy ", "goddess ", "mermaid ", "nymphet ", "spirit ", "sprite ", "sylph "], "A": []}
+{"index": 196557, "D": "any of a class of nymphs presiding over rivers and springs.", "S": ["dryad", "fairy", "goddess", "mermaid", "nymphet", "spirit", "sprite", "sylph"], "A": []}

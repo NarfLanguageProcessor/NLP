@@ -1,1 +1,1 @@
-{"index": 148670, "D": "to obtain by entreaty.", "S": ["appeal ", "application ", "call ", "claim ", "insistence ", "interest ", "need ", "order ", "requirement ", "sale ", "trade ", "use "], "A": ["answer ", "reply ", "retreat "]}
+{"index": 148670, "D": "to obtain by entreaty.", "S": ["appeal", "application", "call", "claim", "insistence", "interest", "need", "order", "requirement", "sale", "trade", "use"], "A": ["answer", "reply", "retreat"]}

@@ -1,1 +1,1 @@
-{"index": 98563, "D": "a chieftain, prince, commander, or head of state in some Islamic countries.", "S": ["amir ", "chieftain ", "governor ", "leader ", "shah ", "sheik "], "A": []}
+{"index": 98563, "D": "a chieftain, prince, commander, or head of state in some Islamic countries.", "S": ["amir", "chieftain", "governor", "leader", "shah", "sheik"], "A": []}

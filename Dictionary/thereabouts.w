@@ -1,1 +1,1 @@
-{"index": 321215, "D": "fifty or thereabouts", "S": ["broadly ", "commonly ", "customarily ", "largely ", "mostly ", "normally ", "ordinarily ", "publicly ", "roughly ", "typically ", "universally ", "usually ", "widely "], "A": ["rarely ", "sometimes ", "unusually "]}
+{"index": 321215, "D": "fifty or thereabouts", "S": ["broadly", "commonly", "customarily", "largely", "mostly", "normally", "ordinarily", "publicly", "roughly", "typically", "universally", "usually", "widely"], "A": ["rarely", "sometimes", "unusually"]}

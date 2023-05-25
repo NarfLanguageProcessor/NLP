@@ -1,1 +1,1 @@
-{"index": 254130, "D": "angered or enraged", "S": ["incensed "], "A": ["unprovoked "]}
+{"index": 254130, "D": "angered or enraged", "S": ["incensed"], "A": ["unprovoked"]}

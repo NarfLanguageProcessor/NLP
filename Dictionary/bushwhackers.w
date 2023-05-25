@@ -1,1 +1,1 @@
-{"index": 43459, "D": "a person or thing that bushwhacks. ", "S": ["aggressor ", "mugger "], "A": ["ally ", "friend "]}
+{"index": 43459, "D": "a person or thing that bushwhacks. ", "S": ["aggressor", "mugger"], "A": ["ally", "friend"]}

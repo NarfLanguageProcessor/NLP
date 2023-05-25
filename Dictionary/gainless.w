@@ -1,1 +1,1 @@
-{"index": 121028, "D": "unprofitable. ", "S": ["abortive ", "futile ", "ineffective ", "ineffectual ", "pointless ", "unproductive ", "unsuccessful ", "useless "], "A": ["effective ", "effectual ", "fruitful ", "productive ", "profitable "]}
+{"index": 121028, "D": "unprofitable. ", "S": ["abortive", "futile", "ineffective", "ineffectual", "pointless", "unproductive", "unsuccessful", "useless"], "A": ["effective", "effectual", "fruitful", "productive", "profitable"]}

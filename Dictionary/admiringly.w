@@ -1,0 +1,1 @@
+{"index": 4185, "D": "displaying or feeling admiration", "S": ["thankfully"], "A": ["rudely"]}

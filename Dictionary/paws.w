@@ -1,1 +1,1 @@
-{"index": 228285, "D": "the foot of an animal having claws.", "S": ["fondle "], "A": ["guard ", "let go ", "make happy ", "please ", "protect "]}
+{"index": 228285, "D": "the foot of an animal having claws.", "S": ["fondle"], "A": ["guard", "let go", "make happy", "please", "protect"]}

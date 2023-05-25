@@ -1,1 +1,1 @@
-{"index": 288447, "D": "a vessel, especially a large oceangoing one propelled by sails or engines.", "S": ["carried ", "delivered ", "exported ", "expressed ", "sent ", "transported ", "trucked "], "A": []}
+{"index": 288447, "D": "a vessel, especially a large oceangoing one propelled by sails or engines.", "S": ["carried", "delivered", "exported", "expressed", "sent", "transported", "trucked"], "A": []}

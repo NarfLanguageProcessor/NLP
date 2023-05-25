@@ -1,1 +1,1 @@
-{"index": 342392, "D": "not flinching;  unshrinking", "S": ["courageous ", "fearless ", "gritty ", "steadfast ", "uncompromising ", "unyielding "], "A": ["afraid ", "cowardly ", "fearful ", "flexible ", "timid "]}
+{"index": 342392, "D": "not flinching;  unshrinking", "S": ["courageous", "fearless", "gritty", "steadfast", "uncompromising", "unyielding"], "A": ["afraid", "cowardly", "fearful", "flexible", "timid"]}

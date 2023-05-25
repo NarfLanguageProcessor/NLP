@@ -1,1 +1,1 @@
-{"index": 84415, "D": "the quality of being diaphanous; transparency.", "S": ["elegance ", "fragility ", "lightness ", "subtlety ", "tenderness "], "A": ["strength "]}
+{"index": 84415, "D": "the quality of being diaphanous; transparency.", "S": ["elegance", "fragility", "lightness", "subtlety", "tenderness"], "A": ["strength"]}

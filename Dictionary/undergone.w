@@ -1,1 +1,1 @@
-{"index": 339273, "D": "to be subjected to; experience; pass through", "S": ["borne ", "encountered ", "endured ", "experienced ", "felt ", "known ", "shared ", "supported ", "withstood "], "A": []}
+{"index": 339273, "D": "to be subjected to; experience; pass through", "S": ["borne", "encountered", "endured", "experienced", "felt", "known", "shared", "supported", "withstood"], "A": []}

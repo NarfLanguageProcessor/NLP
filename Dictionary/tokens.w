@@ -1,1 +1,1 @@
-{"index": 325210, "D": "something serving to represent or indicate some fact, event, feeling, etc.; sign", "S": ["collectibles "], "A": []}
+{"index": 325210, "D": "something serving to represent or indicate some fact, event, feeling, etc.; sign", "S": ["collectibles"], "A": []}

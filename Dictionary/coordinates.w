@@ -1,1 +1,1 @@
-{"index": 68362, "D": "Compare separates", "S": ["costume ", "garb ", "suit "], "A": []}
+{"index": 68362, "D": "Compare separates", "S": ["costume", "garb", "suit"], "A": []}

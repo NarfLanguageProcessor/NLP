@@ -1,1 +1,0 @@
-{"index": 239335, "D": "a flat plate in a printing press for pressing the paper against the inked type or plate to produce an impression.", "S": [], "A": []}

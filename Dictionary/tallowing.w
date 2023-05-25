@@ -1,1 +1,1 @@
-{"index": 315725, "D": "the fatty tissue or suet of animals.", "S": ["grease "], "A": ["dry "]}
+{"index": 315725, "D": "the fatty tissue or suet of animals.", "S": ["grease"], "A": ["dry"]}

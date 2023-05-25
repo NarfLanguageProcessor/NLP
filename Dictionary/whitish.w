@@ -1,1 +1,1 @@
-{"index": 365217, "D": "somewhat white;  tending to white. ", "S": ["neutral "], "A": ["black ", "brunette ", "dark ", "darkened "]}
+{"index": 365217, "D": "somewhat white;  tending to white. ", "S": ["neutral"], "A": ["black", "brunette", "dark", "darkened"]}

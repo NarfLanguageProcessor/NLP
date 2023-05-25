@@ -1,1 +1,1 @@
-{"index": 172041, "D": "carefree; cheerful; merry", "S": ["blitheness ", "buoyancy ", "ebullience ", "euphoria ", "jauntiness ", "nonchalance ", "sprightliness "], "A": ["depression "]}
+{"index": 172041, "D": "carefree; cheerful; merry", "S": ["blitheness", "buoyancy", "ebullience", "euphoria", "jauntiness", "nonchalance", "sprightliness"], "A": ["depression"]}

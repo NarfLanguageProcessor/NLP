@@ -1,1 +1,1 @@
-{"index": 73684, "D": "not straight; bending; curved", "S": ["awry ", "off-center "], "A": []}
+{"index": 73684, "D": "not straight; bending; curved", "S": ["awry", "off-center"], "A": []}

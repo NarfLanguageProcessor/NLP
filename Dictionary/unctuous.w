@@ -1,1 +1,1 @@
-{"index": 338269, "D": "characterized by excessive piousness or moralistic fervor, especially in an affected manner; excessively smooth, suave, or smug.", "S": ["fatty ", "greasy ", "oleaginous ", "slick "], "A": ["blunt ", "genuine ", "sincere "]}
+{"index": 338269, "D": "characterized by excessive piousness or moralistic fervor, especially in an affected manner; excessively smooth, suave, or smug.", "S": ["fatty", "greasy", "oleaginous", "slick"], "A": ["blunt", "genuine", "sincere"]}

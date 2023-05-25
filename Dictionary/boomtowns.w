@@ -1,1 +1,1 @@
-{"index": 38180, "D": "a town that has grown very rapidly as a result of sudden prosperity.", "S": ["capital ", "center ", "downtown ", "metropolis ", "municipality ", "place ", "port "], "A": []}
+{"index": 38180, "D": "a town that has grown very rapidly as a result of sudden prosperity.", "S": ["capital", "center", "downtown", "metropolis", "municipality", "place", "port"], "A": []}

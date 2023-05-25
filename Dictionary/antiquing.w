@@ -1,0 +1,1 @@
+{"index": 16016, "D": "of or belonging to the past; not modern.", "S": ["alter", "belie", "camouflage", "cloak", "conceal", "cover up", "deceive", "dress up", "gloss over", "hide", "mask", "misrepresent", "obscure"], "A": ["disclose", "divulge", "expose", "lay bare", "let out", "open", "reveal", "show", "tell", "uncover", "represent", "tell the truth"]}

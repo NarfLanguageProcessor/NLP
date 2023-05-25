@@ -1,1 +1,1 @@
-{"index": 19359, "D": "inhabiting sand.", "S": ["arenaceous "], "A": []}
+{"index": 19359, "D": "inhabiting sand.", "S": ["arenaceous"], "A": []}

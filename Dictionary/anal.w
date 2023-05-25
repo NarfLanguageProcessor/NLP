@@ -1,1 +1,1 @@
-{"index": 11707, "D": "of, relating to, involving, or near the anus", "S": ["fussy ", "persnickety ", "picky "], "A": ["messy ", "nonchalant "]}
+{"index": 11707, "D": "of, relating to, involving, or near the anus", "S": ["fussy", "persnickety", "picky"], "A": ["messy", "nonchalant"]}

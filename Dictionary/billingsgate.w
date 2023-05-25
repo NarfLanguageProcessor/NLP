@@ -1,0 +1,1 @@
+{"index": 34026, "D": "coarsely or vulgarly abusive language.", "S": ["abuse", "invective", "obloquy", "revilement", "ribaldry", "scurrility", "vulgarity"], "A": ["praise"]}

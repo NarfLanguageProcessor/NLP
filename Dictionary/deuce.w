@@ -1,1 +1,1 @@
-{"index": 83338, "D": "a card having two pips; a two, or two-spot.", "S": ["set ", "team "], "A": ["individual "]}
+{"index": 83338, "D": "a card having two pips; a two, or two-spot.", "S": ["set", "team"], "A": ["individual"]}

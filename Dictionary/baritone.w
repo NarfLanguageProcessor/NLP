@@ -1,0 +1,1 @@
+{"index": 28033, "D": "a male voice or voice part intermediate between tenor and bass.", "S": ["dark", "extreme", "great", "hard", "profound", "rich", "strong", "vivid"], "A": ["mild", "weak"]}

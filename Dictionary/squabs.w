@@ -1,1 +1,1 @@
-{"index": 301599, "D": "a nestling pigeon, especially a domesticated one raised to an age of about 30 days for its flesh.", "S": ["buffer ", "headrest ", "mat "], "A": []}
+{"index": 301599, "D": "a nestling pigeon, especially a domesticated one raised to an age of about 30 days for its flesh.", "S": ["buffer", "headrest", "mat"], "A": []}

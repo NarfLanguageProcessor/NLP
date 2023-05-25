@@ -1,1 +1,1 @@
-{"index": 150533, "D": "Compare succubus (def. 1). ", "S": ["demon ", "devil ", "fiend ", "goblin ", "hobgoblin ", "nightmare ", "succuba ", "succubus "], "A": ["angel ", "god "]}
+{"index": 150533, "D": "Compare succubus (def. 1). ", "S": ["demon", "devil", "fiend", "goblin", "hobgoblin", "nightmare", "succuba", "succubus"], "A": ["angel", "god"]}

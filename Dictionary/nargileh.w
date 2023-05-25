@@ -1,1 +1,1 @@
-{"index": 197011, "D": "a Middle Eastern tobacco pipe in which the smoke is drawn through water before reaching the lips; hookah.", "S": ["plumbing ", "water main "], "A": []}
+{"index": 197011, "D": "a Middle Eastern tobacco pipe in which the smoke is drawn through water before reaching the lips; hookah.", "S": ["plumbing", "water main"], "A": []}

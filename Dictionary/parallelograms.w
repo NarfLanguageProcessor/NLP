@@ -1,1 +1,1 @@
-{"index": 225763, "D": "a quadrilateral having both pairs of opposite sides parallel to each other.", "S": ["quadrilateral ", "rectangle ", "rhombus ", "square "], "A": []}
+{"index": 225763, "D": "a quadrilateral having both pairs of opposite sides parallel to each other.", "S": ["quadrilateral", "rectangle", "rhombus", "square"], "A": []}

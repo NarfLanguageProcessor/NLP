@@ -1,1 +1,1 @@
-{"index": 42356, "D": "the buying of something that one previously sold.", "S": ["acknowledgment ", "admission ", "compromise ", "deal ", "grant ", "permit ", "privilege "], "A": ["disagreement ", "denial "]}
+{"index": 42356, "D": "the buying of something that one previously sold.", "S": ["acknowledgment", "admission", "compromise", "deal", "grant", "permit", "privilege"], "A": ["disagreement", "denial"]}

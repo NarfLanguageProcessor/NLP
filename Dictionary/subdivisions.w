@@ -1,1 +1,1 @@
-{"index": 307797, "D": "the act or fact of subdividing. ", "S": ["tract "], "A": ["whole "]}
+{"index": 307797, "D": "the act or fact of subdividing. ", "S": ["tract"], "A": ["whole"]}

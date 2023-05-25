@@ -1,1 +1,1 @@
-{"index": 301860, "D": "a somewhat prolonged, sharp, shrill cry, as of pain, fear, or surprise.", "S": ["canary ", "fink ", "informer ", "pigeon ", "rat ", "snitch ", "stoolie ", "traitor "], "A": []}
+{"index": 301860, "D": "a somewhat prolonged, sharp, shrill cry, as of pain, fear, or surprise.", "S": ["canary", "fink", "informer", "pigeon", "rat", "snitch", "stoolie", "traitor"], "A": []}

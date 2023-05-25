@@ -1,1 +1,1 @@
-{"index": 132388, "D": "an act or instance of cutting  the hair. ", "S": ["crew cut ", "hairdo ", "hairstyle "], "A": []}
+{"index": 132388, "D": "an act or instance of cutting  the hair. ", "S": ["crew cut", "hairdo", "hairstyle"], "A": []}

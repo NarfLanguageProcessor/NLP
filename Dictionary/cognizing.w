@@ -1,1 +1,1 @@
-{"index": 62291, "D": "to perceive; become conscious of; know.", "S": ["appreciate ", "assimilate ", "discern ", "envision ", "fathom ", "grasp "], "A": ["disregard ", "misunderstand ", "neglect ", "overlook ", "lose ", "misinterpret ", "miss "]}
+{"index": 62291, "D": "to perceive; become conscious of; know.", "S": ["appreciate", "assimilate", "discern", "envision", "fathom", "grasp"], "A": ["disregard", "misunderstand", "neglect", "overlook", "lose", "misinterpret", "miss"]}

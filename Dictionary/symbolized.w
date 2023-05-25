@@ -1,1 +1,1 @@
-{"index": 290790, "D": "to be a symbol  of; stand for or represent in the manner of a symbol. ", "S": ["hidden ", "implicit ", "indirect ", "latent ", "lurking ", "tacit ", "unspoken "], "A": ["explicit ", "open "]}
+{"index": 290790, "D": "to be a symbol  of; stand for or represent in the manner of a symbol. ", "S": ["hidden", "implicit", "indirect", "latent", "lurking", "tacit", "unspoken"], "A": ["explicit", "open"]}

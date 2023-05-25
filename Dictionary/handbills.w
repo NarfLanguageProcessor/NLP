@@ -1,1 +1,1 @@
-{"index": 133105, "D": "a small printed notice, advertisement, or announcement, usually for distribution by hand. ", "S": ["flier ", "leaflet ", "pamphlet "], "A": []}
+{"index": 133105, "D": "a small printed notice, advertisement, or announcement, usually for distribution by hand. ", "S": ["flier", "leaflet", "pamphlet"], "A": []}

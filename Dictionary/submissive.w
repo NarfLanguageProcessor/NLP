@@ -1,1 +1,1 @@
-{"index": 308559, "D": "inclined or ready to submit  or yield to the authority of another; unresistingly or humbly obedient", "S": ["accommodating ", "deferential ", "dutiful ", "meek ", "obedient ", "passive "], "A": ["disobedient ", "immodest "]}
+{"index": 308559, "D": "inclined or ready to submit  or yield to the authority of another; unresistingly or humbly obedient", "S": ["accommodating", "deferential", "dutiful", "meek", "obedient", "passive"], "A": ["disobedient", "immodest"]}

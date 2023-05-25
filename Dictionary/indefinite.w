@@ -1,1 +1,1 @@
-{"index": 150728, "D": "not definite; without fixed or specified limit; unlimited", "S": ["infinite ", "undefined ", "undetermined ", "unlimited "], "A": ["bounded ", "definite ", "finite ", "limited "]}
+{"index": 150728, "D": "not definite; without fixed or specified limit; unlimited", "S": ["infinite", "undefined", "undetermined", "unlimited"], "A": ["bounded", "definite", "finite", "limited"]}

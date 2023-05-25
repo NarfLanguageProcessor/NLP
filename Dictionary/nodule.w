@@ -1,1 +1,1 @@
-{"index": 200717, "D": "a small node, knot, or knob.", "S": ["growth ", "knot ", "node "], "A": []}
+{"index": 200717, "D": "a small node, knot, or knob.", "S": ["growth", "knot", "node"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 266304, "D": "to strengthen with some added piece, support, or material", "S": ["assisted ", "augmented ", "fortified ", "strengthened "], "A": []}
+{"index": 266304, "D": "to strengthen with some added piece, support, or material", "S": ["assisted", "augmented", "fortified", "strengthened"], "A": []}

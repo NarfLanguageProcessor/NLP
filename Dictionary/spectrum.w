@@ -1,1 +1,1 @@
-{"index": 298954, "D": "Compare band spectrum, electromagnetic spectrum, mass spectrum. ", "S": ["rainbow "], "A": []}
+{"index": 298954, "D": "Compare band spectrum, electromagnetic spectrum, mass spectrum. ", "S": ["rainbow"], "A": []}

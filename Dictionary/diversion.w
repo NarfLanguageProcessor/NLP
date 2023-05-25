@@ -1,1 +1,1 @@
-{"index": 90262, "D": "the act of diverting  or turning aside, as from a course or purpose", "S": ["aberration ", "departure ", "detour ", "deviation "], "A": []}
+{"index": 90262, "D": "the act of diverting  or turning aside, as from a course or purpose", "S": ["aberration", "departure", "detour", "deviation"], "A": []}

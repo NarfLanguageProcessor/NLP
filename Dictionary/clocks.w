@@ -1,1 +1,1 @@
-{"index": 60288, "D": "an instrument for measuring and recording time, especially by mechanical means, usually with hands or changing numbers to indicate the hour and minute", "S": ["timer "], "A": []}
+{"index": 60288, "D": "an instrument for measuring and recording time, especially by mechanical means, usually with hands or changing numbers to indicate the hour and minute", "S": ["timer"], "A": []}

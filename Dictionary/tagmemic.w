@@ -1,1 +1,1 @@
-{"index": 315272, "D": "of or relating to tagmemes. ", "S": ["alphabet ", "syntax "], "A": []}
+{"index": 315272, "D": "of or relating to tagmemes. ", "S": ["alphabet", "syntax"], "A": []}

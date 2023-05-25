@@ -1,1 +1,1 @@
-{"index": 226392, "D": "of, pertaining to, noting, or of the nature of a parenthesis", "S": ["incidental ", "intermediate ", "qualifying ", "subordinate "], "A": ["important ", "vital "]}
+{"index": 226392, "D": "of, pertaining to, noting, or of the nature of a parenthesis", "S": ["incidental", "intermediate", "qualifying", "subordinate"], "A": ["important", "vital"]}

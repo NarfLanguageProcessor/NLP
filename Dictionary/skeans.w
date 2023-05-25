@@ -1,1 +1,1 @@
-{"index": 292865, "D": "a knife or dagger formerly used in Ireland and in the Scottish Highlands.", "S": ["bayonet ", "blade ", "sword "], "A": []}
+{"index": 292865, "D": "a knife or dagger formerly used in Ireland and in the Scottish Highlands.", "S": ["bayonet", "blade", "sword"], "A": []}

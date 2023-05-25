@@ -1,1 +1,1 @@
-{"index": 185151, "D": "the science dealing with the atmosphere and its phenomena, including weather and climate.", "S": ["astrologer ", "seer "], "A": []}
+{"index": 185151, "D": "the science dealing with the atmosphere and its phenomena, including weather and climate.", "S": ["astrologer", "seer"], "A": []}

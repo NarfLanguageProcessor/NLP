@@ -1,1 +1,1 @@
-{"index": 363062, "D": "a person who watches  or who keeps watch. ", "S": ["guard ", "keeper ", "sentinel ", "sentry ", "watchman "], "A": []}
+{"index": 363062, "D": "a person who watches  or who keeps watch. ", "S": ["guard", "keeper", "sentinel", "sentry", "watchman"], "A": []}

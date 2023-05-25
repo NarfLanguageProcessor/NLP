@@ -1,1 +1,1 @@
-{"index": 268045, "D": "a quantity of food  taken or provided for one occasion of eating", "S": ["banquet ", "chow ", "eats ", "fare ", "feast ", "feed ", "food ", "grub ", "meal ", "mess ", "refection ", "refreshment ", "snack ", "spread ", "victuals "], "A": []}
+{"index": 268045, "D": "a quantity of food  taken or provided for one occasion of eating", "S": ["banquet", "chow", "eats", "fare", "feast", "feed", "food", "grub", "meal", "mess", "refection", "refreshment", "snack", "spread", "victuals"], "A": []}

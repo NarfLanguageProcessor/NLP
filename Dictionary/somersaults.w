@@ -1,1 +1,1 @@
-{"index": 297047, "D": "an acrobatic movement, either forward or backward, in which the body rolls end over end, making a complete revolution.", "S": ["balancing ", "feats ", "gymnastics ", "stunts ", "tumbling "], "A": []}
+{"index": 297047, "D": "an acrobatic movement, either forward or backward, in which the body rolls end over end, making a complete revolution.", "S": ["balancing", "feats", "gymnastics", "stunts", "tumbling"], "A": []}

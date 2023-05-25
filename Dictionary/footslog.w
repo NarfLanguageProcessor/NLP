@@ -1,1 +1,1 @@
-{"index": 116249, "D": "to go on foot  through or as if through mud.", "S": ["expedition ", "hike ", "odyssey ", "trip "], "A": []}
+{"index": 116249, "D": "to go on foot  through or as if through mud.", "S": ["expedition", "hike", "odyssey", "trip"], "A": []}

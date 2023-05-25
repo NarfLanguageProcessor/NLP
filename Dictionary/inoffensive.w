@@ -1,1 +1,1 @@
-{"index": 153171, "D": "causing no harm, trouble, or annoyance", "S": ["innocuous ", "pleasant ", "unobtrusive "], "A": ["damaging ", "harmful ", "malicious ", "offensive ", "provocative "]}
+{"index": 153171, "D": "causing no harm, trouble, or annoyance", "S": ["innocuous", "pleasant", "unobtrusive"], "A": ["damaging", "harmful", "malicious", "offensive", "provocative"]}

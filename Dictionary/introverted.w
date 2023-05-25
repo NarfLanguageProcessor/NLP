@@ -1,1 +1,1 @@
-{"index": 156847, "D": [], "S": ["introspective ", "reclusive ", "soft-spoken "], "A": ["agitated ", "confident ", "excited ", "extroverted ", "friendly ", "outgoing ", "upset "]}
+{"index": 156847, "D": [], "S": ["introspective", "reclusive", "soft-spoken"], "A": ["agitated", "confident", "excited", "extroverted", "friendly", "outgoing", "upset"]}

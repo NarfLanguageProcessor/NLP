@@ -1,1 +1,1 @@
-{"index": 115164, "D": "to treat with disdain, scorn, or contempt; scoff at; mock", "S": ["defy ", "disregard ", "mock ", "repudiate ", "scorn ", "spurn "], "A": ["approve ", "commend ", "compliment ", "flatter ", "please ", "praise "]}
+{"index": 115164, "D": "to treat with disdain, scorn, or contempt; scoff at; mock", "S": ["defy", "disregard", "mock", "repudiate", "scorn", "spurn"], "A": ["approve", "commend", "compliment", "flatter", "please", "praise"]}

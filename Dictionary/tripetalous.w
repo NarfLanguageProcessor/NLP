@@ -1,1 +1,0 @@
-{"index": 330329, "D": "having three petals.", "S": [], "A": []}

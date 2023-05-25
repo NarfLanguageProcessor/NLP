@@ -1,1 +1,1 @@
-{"index": 121426, "D": "to wander about, seeking pleasure or diversion; gad. ", "S": ["cruise ", "jaunt ", "meander ", "mooch ", "ramble ", "range ", "roam ", "rove ", "stray ", "traipse ", "wander "], "A": ["stay "]}
+{"index": 121426, "D": "to wander about, seeking pleasure or diversion; gad. ", "S": ["cruise", "jaunt", "meander", "mooch", "ramble", "range", "roam", "rove", "stray", "traipse", "wander"], "A": ["stay"]}

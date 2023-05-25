@@ -1,1 +1,1 @@
-{"index": 232198, "D": "tending to pervert. ", "S": ["contaminating ", "contaminative ", "corrupted ", "corrupting ", "demoralizing "], "A": []}
+{"index": 232198, "D": "tending to pervert. ", "S": ["contaminating", "contaminative", "corrupted", "corrupting", "demoralizing"], "A": []}

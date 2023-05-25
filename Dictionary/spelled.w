@@ -1,1 +1,1 @@
-{"index": 299100, "D": "to name, write, or otherwise give the letters, in order, of (a word, syllable, etc.)", "S": ["bout ", "stint ", "streak "], "A": ["instant "]}
+{"index": 299100, "D": "to name, write, or otherwise give the letters, in order, of (a word, syllable, etc.)", "S": ["bout", "stint", "streak"], "A": ["instant"]}

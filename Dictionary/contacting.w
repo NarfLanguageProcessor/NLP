@@ -1,1 +1,1 @@
-{"index": 67235, "D": "the act or state of touching; a touching or meeting, as of two things or people.", "S": ["approach ", "call ", "connect ", "phone ", "reach ", "talk ", "telephone ", "visit "], "A": ["depart ", "leave ", "listen ", "refrain "]}
+{"index": 67235, "D": "the act or state of touching; a touching or meeting, as of two things or people.", "S": ["approach", "call", "connect", "phone", "reach", "talk", "telephone", "visit"], "A": ["depart", "leave", "listen", "refrain"]}

@@ -1,1 +1,1 @@
-{"index": 128350, "D": "a connoisseur of fine food and drink; epicure.", "S": ["connoisseur ", "critic ", "epicure ", "epicurean ", "gastronome ", "gourmand "], "A": []}
+{"index": 128350, "D": "a connoisseur of fine food and drink; epicure.", "S": ["connoisseur", "critic", "epicure", "epicurean", "gastronome", "gourmand"], "A": []}

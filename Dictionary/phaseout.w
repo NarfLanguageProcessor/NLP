@@ -1,1 +1,1 @@
-{"index": 233204, "D": "an act or instance of phasing out; planned discontinuation or expiration.", "S": ["cancel ", "eliminate ", "terminate ", "weed out "], "A": []}
+{"index": 233204, "D": "an act or instance of phasing out; planned discontinuation or expiration.", "S": ["cancel", "eliminate", "terminate", "weed out"], "A": []}

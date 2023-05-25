@@ -1,1 +1,1 @@
-{"index": 95016, "D": "ebony (def. 6). ", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}
+{"index": 95016, "D": "ebony (def. 6). ", "S": ["sunless", "unlighted", "unlit"], "A": ["bright", "sunny"]}

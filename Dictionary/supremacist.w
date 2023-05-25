@@ -1,1 +1,1 @@
-{"index": 313280, "D": "a person who believes in or advocates the supremacy  of a particular group, especially a racial group", "S": ["extremist ", "racialist ", "racist "], "A": []}
+{"index": 313280, "D": "a person who believes in or advocates the supremacy  of a particular group, especially a racial group", "S": ["extremist", "racialist", "racist"], "A": []}

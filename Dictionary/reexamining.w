@@ -1,1 +1,1 @@
-{"index": 264850, "D": "to examine  again.", "S": ["reconsider ", "review "], "A": ["ignore "]}
+{"index": 264850, "D": "to examine  again.", "S": ["reconsider", "review"], "A": ["ignore"]}

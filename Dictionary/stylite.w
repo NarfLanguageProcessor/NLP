@@ -1,1 +1,1 @@
-{"index": 304497, "D": "one of a class of solitary ascetics who lived on the top of high pillars or columns.", "S": ["recluse "], "A": []}
+{"index": 304497, "D": "one of a class of solitary ascetics who lived on the top of high pillars or columns.", "S": ["recluse"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 262940, "D": "utterly unconcerned about the consequences of some action; without caution; careless  (usually followed by of)", "S": ["desperation ", "disregard "], "A": ["carefulness "]}
+{"index": 262940, "D": "utterly unconcerned about the consequences of some action; without caution; careless  (usually followed by of)", "S": ["desperation", "disregard"], "A": ["carefulness"]}

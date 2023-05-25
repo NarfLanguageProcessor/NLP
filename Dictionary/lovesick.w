@@ -1,1 +1,1 @@
-{"index": 175586, "D": "languishing with love", "S": ["lovelorn "], "A": []}
+{"index": 175586, "D": "languishing with love", "S": ["lovelorn"], "A": []}

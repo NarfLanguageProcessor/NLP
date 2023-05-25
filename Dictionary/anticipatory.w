@@ -1,1 +1,1 @@
-{"index": 14920, "D": "of, showing, or expressing anticipation. ", "S": ["anticipant ", "anticipating ", "anticipative ", "awaiting ", "expecting ", "hopeful "], "A": []}
+{"index": 14920, "D": "of, showing, or expressing anticipation. ", "S": ["anticipant", "anticipating", "anticipative", "awaiting", "expecting", "hopeful"], "A": []}

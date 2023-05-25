@@ -1,1 +1,1 @@
-{"index": 74803, "D": "a cult. ", "S": ["faith ", "religion ", "ritual "], "A": ["agnosticism ", "disbelief ", "disregard ", "disrespect "]}
+{"index": 74803, "D": "a cult. ", "S": ["faith", "religion", "ritual"], "A": ["agnosticism", "disbelief", "disregard", "disrespect"]}

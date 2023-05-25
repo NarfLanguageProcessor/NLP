@@ -1,1 +1,1 @@
-{"index": 367451, "D": [], "S": ["data processor ", "editor ", "text editor ", "word processing program "], "A": []}
+{"index": 367451, "D": [], "S": ["data processor", "editor", "text editor", "word processing program"], "A": []}

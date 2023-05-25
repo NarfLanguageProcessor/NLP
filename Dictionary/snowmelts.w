@@ -1,1 +1,0 @@
-{"index": 295840, "D": "water from snow  that is melting  or has melted. ", "S": [], "A": []}

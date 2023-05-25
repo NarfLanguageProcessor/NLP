@@ -1,1 +1,1 @@
-{"index": 14493, "D": "the deposition of coal dust in the lungs; asymptomatic pneumoconiosis.", "S": ["black lung disease ", "coal miner's lung ", "miner's lung ", "pneumoconiosis "], "A": []}
+{"index": 14493, "D": "the deposition of coal dust in the lungs; asymptomatic pneumoconiosis.", "S": ["black lung disease", "coal miner's lung", "miner's lung", "pneumoconiosis"], "A": []}

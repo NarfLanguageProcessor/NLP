@@ -1,1 +1,1 @@
-{"index": 174992, "D": "a style of the letter s, suggesting a lowercase f in form, formerly common in handwriting and as a type character.", "S": ["deep ", "great ", "high ", "lengthy ", "protracted ", "tall "], "A": ["low ", "short ", "small "]}
+{"index": 174992, "D": "a style of the letter s, suggesting a lowercase f in form, formerly common in handwriting and as a type character.", "S": ["deep", "great", "high", "lengthy", "protracted", "tall"], "A": ["low", "short", "small"]}

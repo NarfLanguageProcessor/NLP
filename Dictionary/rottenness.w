@@ -1,1 +1,1 @@
-{"index": 274693, "D": "decomposing or decaying; putrid; tainted, foul, or bad-smelling.", "S": ["contagion ", "corruption ", "disease ", "epidemic ", "infection ", "poisoning ", "pollution "], "A": ["cleanliness ", "purification ", "sterility "]}
+{"index": 274693, "D": "decomposing or decaying; putrid; tainted, foul, or bad-smelling.", "S": ["contagion", "corruption", "disease", "epidemic", "infection", "poisoning", "pollution"], "A": ["cleanliness", "purification", "sterility"]}

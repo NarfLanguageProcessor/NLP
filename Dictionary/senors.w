@@ -1,1 +1,1 @@
-{"index": 285318, "D": "a Spanish term of address equivalent to sir or Mr., used alone or capitalized and prefixed to the name of a man. Abbreviation", "S": ["Esquire ", "man ", "monsieur ", "signor ", "sir "], "A": []}
+{"index": 285318, "D": "a Spanish term of address equivalent to sir or Mr., used alone or capitalized and prefixed to the name of a man. Abbreviation", "S": ["Esquire", "man", "monsieur", "signor", "sir"], "A": []}

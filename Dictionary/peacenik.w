@@ -1,1 +1,0 @@
-{"index": 228348, "D": "an activist or demonstrator who opposes war and military intervention; pacifist.", "S": ["bohemian ", "free spirit ", "hippie ", "nonconformist "], "A": []}

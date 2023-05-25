@@ -1,1 +1,1 @@
-{"index": 275707, "D": "an animal that is small or stunted as compared with others of its kind.", "S": ["Lilliputian ", "half-pint ", "homunculus ", "midget ", "peewee ", "punk ", "shrimp "], "A": []}
+{"index": 275707, "D": "an animal that is small or stunted as compared with others of its kind.", "S": ["Lilliputian", "half-pint", "homunculus", "midget", "peewee", "punk", "shrimp"], "A": []}

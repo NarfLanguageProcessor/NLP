@@ -1,1 +1,1 @@
-{"index": 100903, "D": "to supply with riches, wealth, abundant or valuable possessions, etc.", "S": ["advancing ", "enlightening ", "expanding ", "improving ", "refining "], "A": []}
+{"index": 100903, "D": "to supply with riches, wealth, abundant or valuable possessions, etc.", "S": ["advancing", "enlightening", "expanding", "improving", "refining"], "A": []}

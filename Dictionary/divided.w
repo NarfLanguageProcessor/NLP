@@ -1,1 +1,1 @@
-{"index": 90321, "D": "separated; separate.", "S": ["branched ", "cleft ", "prorated ", "reft ", "split "], "A": ["undivided "]}
+{"index": 90321, "D": "separated; separate.", "S": ["branched", "cleft", "prorated", "reft", "split"], "A": ["undivided"]}

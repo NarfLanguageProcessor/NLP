@@ -1,1 +1,1 @@
-{"index": 99924, "D": "to approve, support, or sustain", "S": ["approved ", "backed ", "ratified ", "recommended ", "sanctioned ", "settled ", "supported "], "A": ["disapproved ", "discouraged "]}
+{"index": 99924, "D": "to approve, support, or sustain", "S": ["approved", "backed", "ratified", "recommended", "sanctioned", "settled", "supported"], "A": ["disapproved", "discouraged"]}

@@ -1,1 +1,1 @@
-{"index": 151980, "D": "marital disloyalty; adultery.", "S": ["adultery ", "affair ", "betrayal ", "duplicity ", "treachery "], "A": ["faithfulness ", "honesty ", "loyalty "]}
+{"index": 151980, "D": "marital disloyalty; adultery.", "S": ["adultery", "affair", "betrayal", "duplicity", "treachery"], "A": ["faithfulness", "honesty", "loyalty"]}

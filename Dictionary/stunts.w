@@ -1,1 +1,1 @@
-{"index": 306923, "D": "to stop, slow down, or hinder the growth or development of; dwarf", "S": ["balancing ", "feats ", "gymnastics ", "somersaults ", "tumbling "], "A": []}
+{"index": 306923, "D": "to stop, slow down, or hinder the growth or development of; dwarf", "S": ["balancing", "feats", "gymnastics", "somersaults", "tumbling"], "A": []}

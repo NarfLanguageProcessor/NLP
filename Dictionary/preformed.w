@@ -1,1 +1,1 @@
-{"index": 247641, "D": "to form beforehand.", "S": ["doom ", "intend "], "A": ["hesitate ", "keep ", "misuse ", "use ", "waste "]}
+{"index": 247641, "D": "to form beforehand.", "S": ["doom", "intend"], "A": ["hesitate", "keep", "misuse", "use", "waste"]}

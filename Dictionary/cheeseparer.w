@@ -1,1 +1,1 @@
-{"index": 53495, "D": "meanly economical; parsimonious; stingy ", "S": ["Scrooge ", "cheapskate ", "miser ", "moneygrubber ", "pinchpenny ", "skinflint ", "tightwad "], "A": ["philanthropist ", "spendthrift "]}
+{"index": 53495, "D": "meanly economical; parsimonious; stingy ", "S": ["Scrooge", "cheapskate", "miser", "moneygrubber", "pinchpenny", "skinflint", "tightwad"], "A": ["philanthropist", "spendthrift"]}

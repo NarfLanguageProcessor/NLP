@@ -1,1 +1,1 @@
-{"index": 228536, "D": "peavey. ", "S": ["crowbar ", "pedal ", "tool "], "A": []}
+{"index": 228536, "D": "peavey. ", "S": ["crowbar", "pedal", "tool"], "A": []}

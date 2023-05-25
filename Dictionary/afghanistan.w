@@ -1,0 +1,1 @@
+{"index": 5527, "D": "a republic in central Asia, NW of India and E of Iran. 250,000 sq. mi. (647,500 sq. km). Capital", "S": [], "A": []}

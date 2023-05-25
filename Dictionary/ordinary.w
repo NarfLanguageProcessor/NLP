@@ -1,1 +1,1 @@
-{"index": 214244, "D": "of no special quality or interest; commonplace; unexceptional", "S": ["everyday ", "natural ", "normal ", "traditional ", "typical "], "A": ["abnormal ", "different ", "uncommon ", "unconventional ", "unusual ", "original ", "particular ", "specific ", "unknown "]}
+{"index": 214244, "D": "of no special quality or interest; commonplace; unexceptional", "S": ["everyday", "natural", "normal", "traditional", "typical"], "A": ["abnormal", "different", "uncommon", "unconventional", "unusual", "original", "particular", "specific", "unknown"]}

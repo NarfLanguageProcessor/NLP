@@ -1,1 +1,1 @@
-{"index": 243142, "D": "poolroom (def. 1). ", "S": ["bank ", "club ", "clubhouse ", "dive ", "hall ", "honky-tonk ", "house ", "joint ", "roadhouse ", "rotunda ", "saloon ", "track "], "A": []}
+{"index": 243142, "D": "poolroom (def. 1). ", "S": ["bank", "club", "clubhouse", "dive", "hall", "honky-tonk", "house", "joint", "roadhouse", "rotunda", "saloon", "track"], "A": []}

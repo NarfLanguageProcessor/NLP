@@ -1,1 +1,1 @@
-{"index": 181143, "D": "a partner in marriage; spouse. ", "S": ["combination ", "couple ", "duo ", "match ", "team ", "two "], "A": ["one ", "single "]}
+{"index": 181143, "D": "a partner in marriage; spouse. ", "S": ["combination", "couple", "duo", "match", "team", "two"], "A": ["one", "single"]}

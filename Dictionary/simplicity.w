@@ -1,1 +1,1 @@
-{"index": 291086, "D": "the state, quality, or an instance of being simple. ", "S": ["candor ", "clarity ", "directness ", "integrity ", "modesty ", "purity ", "restraint ", "unity "], "A": ["complexity ", "complication ", "difficulty "]}
+{"index": 291086, "D": "the state, quality, or an instance of being simple. ", "S": ["candor", "clarity", "directness", "integrity", "modesty", "purity", "restraint", "unity"], "A": ["complexity", "complication", "difficulty"]}

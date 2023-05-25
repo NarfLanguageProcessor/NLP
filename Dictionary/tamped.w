@@ -1,1 +1,1 @@
-{"index": 315934, "D": "to force in or down by repeated, rather light, strokes", "S": ["formed ", "hammered ", "milled ", "pounded ", "rolled ", "shaped ", "stamped ", "tramped ", "trodden ", "worked "], "A": []}
+{"index": 315934, "D": "to force in or down by repeated, rather light, strokes", "S": ["formed", "hammered", "milled", "pounded", "rolled", "shaped", "stamped", "tramped", "trodden", "worked"], "A": []}

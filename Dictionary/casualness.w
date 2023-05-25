@@ -1,1 +1,1 @@
-{"index": 49141, "D": "happening by chance; fortuitous", "S": ["informality "], "A": []}
+{"index": 49141, "D": "happening by chance; fortuitous", "S": ["informality"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 149754, "D": "used or adapted for setting property on fire", "S": ["inflammatory ", "provocative ", "subversive ", "treacherous "], "A": ["loyal "]}
+{"index": 149754, "D": "used or adapted for setting property on fire", "S": ["inflammatory", "provocative", "subversive", "treacherous"], "A": ["loyal"]}

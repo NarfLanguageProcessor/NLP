@@ -1,1 +1,1 @@
-{"index": 87350, "D": "having or exhibiting discipline;  rigorous", "S": ["addicted "], "A": ["abnormal ", "unaccustomed ", "unusual "]}
+{"index": 87350, "D": "having or exhibiting discipline;  rigorous", "S": ["addicted"], "A": ["abnormal", "unaccustomed", "unusual"]}

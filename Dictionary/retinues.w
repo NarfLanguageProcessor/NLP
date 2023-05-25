@@ -1,1 +1,1 @@
-{"index": 270537, "D": "a body of retainers in attendance upon an important personage; suite.", "S": ["band ", "cortege ", "crew ", "escort ", "following ", "procession ", "suite ", "train "], "A": []}
+{"index": 270537, "D": "a body of retainers in attendance upon an important personage; suite.", "S": ["band", "cortege", "crew", "escort", "following", "procession", "suite", "train"], "A": []}

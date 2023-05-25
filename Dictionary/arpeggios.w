@@ -1,1 +1,1 @@
-{"index": 20124, "D": "the sounding of the notes of a chord in rapid succession instead of simultaneously.", "S": ["division ", "roulade ", "scale "], "A": []}
+{"index": 20124, "D": "the sounding of the notes of a chord in rapid succession instead of simultaneously.", "S": ["division", "roulade", "scale"], "A": []}

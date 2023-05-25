@@ -1,1 +1,1 @@
-{"index": 244114, "D": "a placard or bill posted  or intended for posting in a public place, as for advertising.", "S": ["banner ", "billboard ", "placard ", "sheet ", "sign ", "sticker "], "A": []}
+{"index": 244114, "D": "a placard or bill posted  or intended for posting in a public place, as for advertising.", "S": ["banner", "billboard", "placard", "sheet", "sign", "sticker"], "A": []}

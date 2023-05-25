@@ -1,1 +1,1 @@
-{"index": 226582, "D": "to bet or gamble (an original amount and its winnings) on a subsequent race, contest, etc.", "S": ["engineer ", "gamble ", "jockey ", "manage ", "move ", "plan ", "play ", "risk ", "speculate ", "venture ", "wager "], "A": ["ignore ", "neglect "]}
+{"index": 226582, "D": "to bet or gamble (an original amount and its winnings) on a subsequent race, contest, etc.", "S": ["engineer", "gamble", "jockey", "manage", "move", "plan", "play", "risk", "speculate", "venture", "wager"], "A": ["ignore", "neglect"]}

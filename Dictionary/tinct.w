@@ -1,1 +1,1 @@
-{"index": 323913, "D": "to tinge or tint, as with color.", "S": ["glow ", "hue ", "intensity ", "paint "], "A": ["black ", "white "]}
+{"index": 323913, "D": "to tinge or tint, as with color.", "S": ["glow", "hue", "intensity", "paint"], "A": ["black", "white"]}

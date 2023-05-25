@@ -1,1 +1,1 @@
-{"index": 179545, "D": "a construction framing the opening of a fireplace and usually covering part of the chimney breast in a more or less decorative manner.", "S": ["mantelpiece "], "A": []}
+{"index": 179545, "D": "a construction framing the opening of a fireplace and usually covering part of the chimney breast in a more or less decorative manner.", "S": ["mantelpiece"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 232598, "D": "to bicker or quibble over trifles or unimportant matters.", "S": ["attorney ", "lawyer ", "legal eagle ", "shyster ", "unethical attorney "], "A": []}
+{"index": 232598, "D": "to bicker or quibble over trifles or unimportant matters.", "S": ["attorney", "lawyer", "legal eagle", "shyster", "unethical attorney"], "A": []}

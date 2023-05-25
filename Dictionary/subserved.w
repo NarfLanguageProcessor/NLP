@@ -1,1 +1,1 @@
-{"index": 309132, "D": "to be useful or instrumental in promoting (a purpose, action, etc.)", "S": ["accept ", "attend ", "complete ", "follow ", "pass ", "perform ", "work "], "A": ["deny ", "disregard ", "fail ", "halt ", "ignore ", "neglect ", "refuse ", "stop ", "idle ", "laze ", "miss "]}
+{"index": 309132, "D": "to be useful or instrumental in promoting (a purpose, action, etc.)", "S": ["accept", "attend", "complete", "follow", "pass", "perform", "work"], "A": ["deny", "disregard", "fail", "halt", "ignore", "neglect", "refuse", "stop", "idle", "laze", "miss"]}

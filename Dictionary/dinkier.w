@@ -1,1 +1,1 @@
-{"index": 86159, "D": "small, unimportant, unimpressive, or shabby", "S": ["Lilliputian ", "dainty ", "mini ", "miniature ", "minor ", "petite ", "secondary ", "trim "], "A": ["huge ", "large ", "rough "]}
+{"index": 86159, "D": "small, unimportant, unimpressive, or shabby", "S": ["Lilliputian", "dainty", "mini", "miniature", "minor", "petite", "secondary", "trim"], "A": ["huge", "large", "rough"]}

@@ -1,1 +1,1 @@
-{"index": 312622, "D": "beyond the range of the senses.", "S": ["mental ", "metaphysical ", "psychological ", "spiritual ", "supernatural "], "A": ["body ", "physical ", "real "]}
+{"index": 312622, "D": "beyond the range of the senses.", "S": ["mental", "metaphysical", "psychological", "spiritual", "supernatural"], "A": ["body", "physical", "real"]}

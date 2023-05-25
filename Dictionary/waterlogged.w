@@ -1,1 +1,1 @@
-{"index": 363193, "D": "so filled or flooded with water as to be heavy or unmanageable, as a ship.", "S": ["soaked ", "sodden ", "soggy ", "wet "], "A": ["dehydrated ", "dry "]}
+{"index": 363193, "D": "so filled or flooded with water as to be heavy or unmanageable, as a ship.", "S": ["soaked", "sodden", "soggy", "wet"], "A": ["dehydrated", "dry"]}

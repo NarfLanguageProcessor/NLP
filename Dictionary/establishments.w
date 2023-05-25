@@ -1,1 +1,1 @@
-{"index": 104565, "D": "the act or an instance of establishing. ", "S": ["formation ", "formulation ", "founding ", "inauguration ", "installation ", "institution "], "A": ["abolition ", "closing ", "closure ", "disbanding ", "dissolution "]}
+{"index": 104565, "D": "the act or an instance of establishing. ", "S": ["formation", "formulation", "founding", "inauguration", "installation", "institution"], "A": ["abolition", "closing", "closure", "disbanding", "dissolution"]}

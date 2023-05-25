@@ -1,1 +1,1 @@
-{"index": 316688, "D": "an Old World plant, Artemisia dracunculus, having aromatic leaves used for seasoning.", "S": ["basilisk ", "hydra ", "wyvern "], "A": []}
+{"index": 316688, "D": "an Old World plant, Artemisia dracunculus, having aromatic leaves used for seasoning.", "S": ["basilisk", "hydra", "wyvern"], "A": []}

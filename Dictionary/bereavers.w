@@ -1,0 +1,1 @@
+{"index": 32015, "D": "to deprive and make desolate, especially by death (usually followed by of)", "S": [], "A": []}

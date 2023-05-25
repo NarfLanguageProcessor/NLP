@@ -1,1 +1,1 @@
-{"index": 294126, "D": "a Y-shaped stick with an elastic strip between the prongs for shooting stones and other small missiles.", "S": ["arbalest ", "ballista ", "heaver ", "hurler ", "pitcher ", "propeller ", "shooter ", "sling ", "tosser ", "trebuchet "], "A": []}
+{"index": 294126, "D": "a Y-shaped stick with an elastic strip between the prongs for shooting stones and other small missiles.", "S": ["arbalest", "ballista", "heaver", "hurler", "pitcher", "propeller", "shooter", "sling", "tosser", "trebuchet"], "A": []}

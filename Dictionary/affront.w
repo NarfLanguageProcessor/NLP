@@ -1,0 +1,1 @@
+{"index": 5503, "D": "a personally offensive act or word; deliberate act or display of disrespect; intentional slight; insult", "S": ["indignity", "provocation", "slight"], "A": ["respect", "aid", "flattery", "happiness", "help", "kindness", "praise", "right"]}

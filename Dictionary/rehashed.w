@@ -1,1 +1,1 @@
-{"index": 265958, "D": "to work up (old material) in a new form.", "S": ["cognate ", "secondary ", "subordinate "], "A": ["important ", "superior "]}
+{"index": 265958, "D": "to work up (old material) in a new form.", "S": ["cognate", "secondary", "subordinate"], "A": ["important", "superior"]}

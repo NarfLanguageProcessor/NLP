@@ -1,1 +1,1 @@
-{"index": 26946, "D": "Compare prima ballerina. ", "S": ["coryphee ", "lead dancer "], "A": []}
+{"index": 26946, "D": "Compare prima ballerina. ", "S": ["coryphee", "lead dancer"], "A": []}

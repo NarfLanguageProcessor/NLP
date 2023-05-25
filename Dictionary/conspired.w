@@ -1,1 +1,1 @@
-{"index": 66986, "D": "to agree together, especially secretly, to do something wrong, evil, or illegal", "S": ["collude ", "connive ", "cooperate "], "A": ["leave alone ", "neglect "]}
+{"index": 66986, "D": "to agree together, especially secretly, to do something wrong, evil, or illegal", "S": ["collude", "connive", "cooperate"], "A": ["leave alone", "neglect"]}

@@ -1,1 +1,1 @@
-{"index": 351034, "D": [], "S": ["entire ", "total ", "whole "], "A": ["incomplete ", "part ", "partial "]}
+{"index": 351034, "D": [], "S": ["entire", "total", "whole"], "A": ["incomplete", "part", "partial"]}

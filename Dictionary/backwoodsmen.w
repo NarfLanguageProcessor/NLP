@@ -1,0 +1,1 @@
+{"index": 26022, "D": "a person living in or coming from the backwoods,  or a remote or unsettled area.", "S": ["hinterlander", "mountain man", "woodsman"], "A": ["city boy", "city dweller", "city slicker"]}

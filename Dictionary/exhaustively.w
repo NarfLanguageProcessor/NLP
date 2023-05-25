@@ -1,1 +1,1 @@
-{"index": 107126, "D": "exhausting  a subject, topic, etc.; comprehensive; thorough", "S": ["carefully ", "earnestly ", "intensely ", "meticulously "], "A": []}
+{"index": 107126, "D": "exhausting  a subject, topic, etc.; comprehensive; thorough", "S": ["carefully", "earnestly", "intensely", "meticulously"], "A": []}

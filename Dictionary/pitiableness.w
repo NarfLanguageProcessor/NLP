@@ -1,1 +1,1 @@
-{"index": 238363, "D": "evoking or deserving pity; lamentable", "S": ["emotion ", "passion ", "poignancy "], "A": ["cheer ", "glee ", "happiness ", "joy "]}
+{"index": 238363, "D": "evoking or deserving pity; lamentable", "S": ["emotion", "passion", "poignancy"], "A": ["cheer", "glee", "happiness", "joy"]}

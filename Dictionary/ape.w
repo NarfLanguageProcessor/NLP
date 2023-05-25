@@ -1,1 +1,1 @@
-{"index": 16700, "D": "See also catarrhine. ", "S": ["emulate ", "imitate "], "A": []}
+{"index": 16700, "D": "See also catarrhine. ", "S": ["emulate", "imitate"], "A": []}

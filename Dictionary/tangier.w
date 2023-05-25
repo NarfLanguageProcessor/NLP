@@ -1,1 +1,1 @@
-{"index": 316055, "D": "a seaport in N Morocco, on the W Strait of Gibraltar", "S": ["appetizing ", "aromatic ", "flavorful ", "peppery ", "piquant ", "pungent ", "salty ", "seasoned ", "sweet ", "tasty ", "zesty "], "A": ["blah ", "bland ", "dull ", "tasteless ", "unappetizing ", "unsavory "]}
+{"index": 316055, "D": "a seaport in N Morocco, on the W Strait of Gibraltar", "S": ["appetizing", "aromatic", "flavorful", "peppery", "piquant", "pungent", "salty", "seasoned", "sweet", "tasty", "zesty"], "A": ["blah", "bland", "dull", "tasteless", "unappetizing", "unsavory"]}

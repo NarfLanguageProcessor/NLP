@@ -1,1 +1,1 @@
-{"index": 305246, "D": "to engage in stonewalling. ", "S": ["balked ", "crabbed ", "cramped ", "crimped ", "defeated ", "discontented ", "discouraged ", "disheartened ", "embittered ", "foiled ", "irked ", "stymied "], "A": ["encourage ", "fulfilled ", "inspirited ", "stimulated ", "uplifted "]}
+{"index": 305246, "D": "to engage in stonewalling. ", "S": ["balked", "crabbed", "cramped", "crimped", "defeated", "discontented", "discouraged", "disheartened", "embittered", "foiled", "irked", "stymied"], "A": ["encourage", "fulfilled", "inspirited", "stimulated", "uplifted"]}

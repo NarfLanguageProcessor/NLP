@@ -1,0 +1,1 @@
+{"index": 16087, "D": "the act of restoring; renewal, revival, or reestablishment.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 278892, "D": "a metal container of moderate depth, usually having a long handle and sometimes a cover, for stewing, boiling, etc.", "S": ["bucket ", "frying pan ", "kettle ", "pot ", "sheet ", "skillet "], "A": []}
+{"index": 278892, "D": "a metal container of moderate depth, usually having a long handle and sometimes a cover, for stewing, boiling, etc.", "S": ["bucket", "frying pan", "kettle", "pot", "sheet", "skillet"], "A": []}

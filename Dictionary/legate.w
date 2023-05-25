@@ -1,1 +1,1 @@
-{"index": 170034, "D": "an ecclesiastic delegated by the pope as his representative.", "S": ["agent ", "ambassador ", "delegate ", "deputy ", "emissary ", "envoy ", "nuncio ", "representative "], "A": []}
+{"index": 170034, "D": "an ecclesiastic delegated by the pope as his representative.", "S": ["agent", "ambassador", "delegate", "deputy", "emissary", "envoy", "nuncio", "representative"], "A": []}

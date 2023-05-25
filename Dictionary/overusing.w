@@ -1,1 +1,1 @@
-{"index": 221725, "D": "to use  too much or too often", "S": ["exaggerate ", "overestimate ", "overplay ", "overrate ", "overreach ", "overstate ", "overuse ", "overvalue "], "A": ["play down ", "compress ", "decrease ", "lessen "]}
+{"index": 221725, "D": "to use  too much or too often", "S": ["exaggerate", "overestimate", "overplay", "overrate", "overreach", "overstate", "overuse", "overvalue"], "A": ["play down", "compress", "decrease", "lessen"]}

@@ -1,1 +1,1 @@
-{"index": 57625, "D": "a partially or mostly burned piece of coal, wood, etc.", "S": ["ember ", "soot "], "A": []}
+{"index": 57625, "D": "a partially or mostly burned piece of coal, wood, etc.", "S": ["ember", "soot"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34081, "D": "a native or inhabitant of Barbados", "S": [], "A": []}

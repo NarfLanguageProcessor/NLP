@@ -1,1 +1,1 @@
-{"index": 89794, "D": "distinguished as not being the same; not identical; separate  (sometimes followed by from)", "S": ["definite ", "noticeable ", "recognizable ", "specific ", "unmistakable "], "A": ["indefinite ", "indistinct ", "obscure ", "uncertain ", "vague "]}
+{"index": 89794, "D": "distinguished as not being the same; not identical; separate  (sometimes followed by from)", "S": ["definite", "noticeable", "recognizable", "specific", "unmistakable"], "A": ["indefinite", "indistinct", "obscure", "uncertain", "vague"]}

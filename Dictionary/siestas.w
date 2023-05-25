@@ -1,1 +1,1 @@
-{"index": 289937, "D": "a midday or afternoon rest or nap, especially as taken in Spain and Latin America", "S": ["catch ", "catnap ", "doze ", "drowse ", "nod ", "rack ", "rest ", "sleep ", "snooze "], "A": []}
+{"index": 289937, "D": "a midday or afternoon rest or nap, especially as taken in Spain and Latin America", "S": ["catch", "catnap", "doze", "drowse", "nod", "rack", "rest", "sleep", "snooze"], "A": []}

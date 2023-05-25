@@ -1,0 +1,1 @@
+{"index": 34043, "D": "a great wave or surge of the sea.", "S": ["beachcomber", "breaker", "crest", "roller", "surge", "swell", "tide", "wave"], "A": []}

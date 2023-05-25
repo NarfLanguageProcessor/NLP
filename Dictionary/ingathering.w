@@ -1,1 +1,1 @@
-{"index": 152443, "D": "a gathering  in, especially of farm products; harvest.", "S": ["intake ", "output ", "result ", "yield "], "A": ["beginning ", "cause ", "commencement ", "origin ", "rise ", "source ", "start "]}
+{"index": 152443, "D": "a gathering  in, especially of farm products; harvest.", "S": ["intake", "output", "result", "yield"], "A": ["beginning", "cause", "commencement", "origin", "rise", "source", "start"]}

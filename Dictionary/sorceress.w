@@ -1,1 +1,1 @@
-{"index": 297532, "D": "a woman who practices sorcery;  witch.", "S": ["hag ", "hex ", "pythoness ", "sibyl ", "siren ", "witch "], "A": []}
+{"index": 297532, "D": "a woman who practices sorcery;  witch.", "S": ["hag", "hex", "pythoness", "sibyl", "siren", "witch"], "A": []}

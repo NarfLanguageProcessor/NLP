@@ -1,1 +1,1 @@
-{"index": 40530, "D": "the act of a person who brews. ", "S": ["imperil ", "jeopardize ", "warn "], "A": ["alleviate ", "guard ", "help ", "protect ", "relieve ", "save "]}
+{"index": 40530, "D": "the act of a person who brews. ", "S": ["imperil", "jeopardize", "warn"], "A": ["alleviate", "guard", "help", "protect", "relieve", "save"]}

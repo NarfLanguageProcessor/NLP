@@ -1,1 +1,1 @@
-{"index": 211621, "D": "the class or entire body of officials; officials  as a whole.", "S": ["administration ", "authority ", "civil service ", "management ", "ministry ", "red tape "], "A": []}
+{"index": 211621, "D": "the class or entire body of officials; officials  as a whole.", "S": ["administration", "authority", "civil service", "management", "ministry", "red tape"], "A": []}

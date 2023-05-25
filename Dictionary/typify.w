@@ -1,1 +1,1 @@
-{"index": 324291, "D": "to serve as a typical  example of; exemplify.", "S": ["embody ", "epitomize ", "exemplify ", "illustrate ", "mirror ", "personify ", "sum up ", "symbolize "], "A": []}
+{"index": 324291, "D": "to serve as a typical  example of; exemplify.", "S": ["embody", "epitomize", "exemplify", "illustrate", "mirror", "personify", "sum up", "symbolize"], "A": []}

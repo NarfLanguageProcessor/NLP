@@ -1,1 +1,0 @@
-{"index": 270837, "D": "moving backward; having a backward motion or direction; retiring or retreating.", "S": [], "A": []}

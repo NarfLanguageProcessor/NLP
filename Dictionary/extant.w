@@ -1,1 +1,1 @@
-{"index": 108184, "D": "in existence; still existing; not destroyed or lost", "S": ["surviving "], "A": ["dead ", "extinct ", "gone "]}
+{"index": 108184, "D": "in existence; still existing; not destroyed or lost", "S": ["surviving"], "A": ["dead", "extinct", "gone"]}

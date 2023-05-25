@@ -1,1 +1,1 @@
-{"index": 13216, "D": "a person or thing that animates. ", "S": ["artisan ", "craftsman ", "illustrator "], "A": []}
+{"index": 13216, "D": "a person or thing that animates. ", "S": ["artisan", "craftsman", "illustrator"], "A": []}

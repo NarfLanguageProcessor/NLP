@@ -1,1 +1,0 @@
-{"index": 248849, "D": "of, relating to, or concerned with politics", "S": [], "A": []}

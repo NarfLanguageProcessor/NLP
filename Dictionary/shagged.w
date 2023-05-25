@@ -1,1 +1,1 @@
-{"index": 287137, "D": "weary; exhausted (usually followed by out)", "S": ["dash ", "fly ", "jog ", "race ", "rush ", "shoot ", "sprint ", "travel "], "A": ["remain ", "stay ", "walk ", "dally ", "dawdle ", "delay ", "linger ", "procrastinate ", "slow ", "wait "]}
+{"index": 287137, "D": "weary; exhausted (usually followed by out)", "S": ["dash", "fly", "jog", "race", "rush", "shoot", "sprint", "travel"], "A": ["remain", "stay", "walk", "dally", "dawdle", "delay", "linger", "procrastinate", "slow", "wait"]}

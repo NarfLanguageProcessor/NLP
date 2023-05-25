@@ -1,1 +1,1 @@
-{"index": 67045, "D": "to compose; form", "S": ["admitted ", "combined ", "comprised ", "counted ", "covered ", "embodied ", "enclosed ", "encompassed ", "entered ", "incorporated ", "inserted ", "involved ", "numbered ", "subsumed "], "A": ["excluded ", "left out ", "rejected "]}
+{"index": 67045, "D": "to compose; form", "S": ["admitted", "combined", "comprised", "counted", "covered", "embodied", "enclosed", "encompassed", "entered", "incorporated", "inserted", "involved", "numbered", "subsumed"], "A": ["excluded", "left out", "rejected"]}

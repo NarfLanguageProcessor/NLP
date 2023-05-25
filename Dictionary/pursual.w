@@ -1,1 +1,1 @@
-{"index": 257128, "D": [], "S": ["hunt ", "inquiry ", "quest "], "A": ["retreat ", "surrender "]}
+{"index": 257128, "D": [], "S": ["hunt", "inquiry", "quest"], "A": ["retreat", "surrender"]}

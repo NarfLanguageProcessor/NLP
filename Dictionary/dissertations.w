@@ -1,1 +1,1 @@
-{"index": 89498, "D": "a written essay, treatise, or thesis, especially one written by a candidate for the degree of Doctor of Philosophy.", "S": ["essay ", "monograph ", "treatise "], "A": []}
+{"index": 89498, "D": "a written essay, treatise, or thesis, especially one written by a candidate for the degree of Doctor of Philosophy.", "S": ["essay", "monograph", "treatise"], "A": []}

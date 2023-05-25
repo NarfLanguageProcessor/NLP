@@ -1,1 +1,1 @@
-{"index": 244230, "D": "assignment to a post,  command, or particular location, especially in a military or governmental capacity.", "S": ["account ", "insertion ", "item ", "jotting ", "memo ", "memorandum ", "minute ", "note ", "registration "], "A": []}
+{"index": 244230, "D": "assignment to a post,  command, or particular location, especially in a military or governmental capacity.", "S": ["account", "insertion", "item", "jotting", "memo", "memorandum", "minute", "note", "registration"], "A": []}

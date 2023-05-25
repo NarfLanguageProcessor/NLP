@@ -1,1 +1,1 @@
-{"index": 151479, "D": "not effective;  not producing results; ineffectual", "S": ["inefficaciously "], "A": []}
+{"index": 151479, "D": "not effective;  not producing results; ineffectual", "S": ["inefficaciously"], "A": []}

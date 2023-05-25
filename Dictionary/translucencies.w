@@ -1,1 +1,1 @@
-{"index": 328058, "D": "permitting light to pass through but diffusing it so that persons, objects, etc., on the opposite side are not clearly visible", "S": ["clarity ", "clearness ", "transparency "], "A": []}
+{"index": 328058, "D": "permitting light to pass through but diffusing it so that persons, objects, etc., on the opposite side are not clearly visible", "S": ["clarity", "clearness", "transparency"], "A": []}

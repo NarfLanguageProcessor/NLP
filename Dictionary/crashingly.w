@@ -1,1 +1,1 @@
-{"index": 72210, "D": "absolute; complete; utter", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}
+{"index": 72210, "D": "absolute; complete; utter", "S": ["aloud", "emphatically", "noisily", "powerfully", "vehemently", "vociferously"], "A": ["inaudibly", "quietly", "silently"]}

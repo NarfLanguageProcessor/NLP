@@ -1,1 +1,1 @@
-{"index": 346057, "D": "to strip a mask  or disguise from.", "S": ["bare ", "defined ", "disclosed ", "discovered ", "naked ", "resolved ", "solved ", "uncovered ", "unprotected "], "A": ["clothed ", "hidden ", "ambiguous ", "blocked ", "closed ", "concealed ", "obscure ", "unclear ", "vague "]}
+{"index": 346057, "D": "to strip a mask  or disguise from.", "S": ["bare", "defined", "disclosed", "discovered", "naked", "resolved", "solved", "uncovered", "unprotected"], "A": ["clothed", "hidden", "ambiguous", "blocked", "closed", "concealed", "obscure", "unclear", "vague"]}

@@ -1,1 +1,1 @@
-{"index": 133643, "D": "a material that hardens  another, as an alloy added to iron to make steel.", "S": ["crystallization "], "A": []}
+{"index": 133643, "D": "a material that hardens  another, as an alloy added to iron to make steel.", "S": ["crystallization"], "A": []}

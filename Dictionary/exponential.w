@@ -1,1 +1,1 @@
-{"index": 107923, "D": "of or relating to an exponent or exponents.", "S": ["aggressive ", "epidemic "], "A": []}
+{"index": 107923, "D": "of or relating to an exponent or exponents.", "S": ["aggressive", "epidemic"], "A": []}

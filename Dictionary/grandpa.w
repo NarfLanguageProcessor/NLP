@@ -1,1 +1,1 @@
-{"index": 128875, "D": "grandfather. ", "S": ["ancestor ", "patriarch "], "A": []}
+{"index": 128875, "D": "grandfather. ", "S": ["ancestor", "patriarch"], "A": []}

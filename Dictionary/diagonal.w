@@ -1,1 +1,1 @@
-{"index": 84145, "D": "extending from one edge of a solid figure to an opposite edge, as a plane.", "S": ["catty-corner ", "crosswise ", "oblique ", "slanted "], "A": []}
+{"index": 84145, "D": "extending from one edge of a solid figure to an opposite edge, as a plane.", "S": ["catty-corner", "crosswise", "oblique", "slanted"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 249397, "D": "the act or process of keeping something in existence", "S": ["care ", "conservancy ", "conservation ", "safeguarding ", "safety ", "security ", "storage "], "A": ["danger ", "neglect ", "endangerment ", "harm ", "hurt ", "injury "]}
+{"index": 249397, "D": "the act or process of keeping something in existence", "S": ["care", "conservancy", "conservation", "safeguarding", "safety", "security", "storage"], "A": ["danger", "neglect", "endangerment", "harm", "hurt", "injury"]}

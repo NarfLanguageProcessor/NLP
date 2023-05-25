@@ -1,1 +1,1 @@
-{"index": 317761, "D": "the quality or state of being wearisome; irksomeness; tediousness.", "S": ["banality ", "boredom ", "ennui "], "A": ["excitement "]}
+{"index": 317761, "D": "the quality or state of being wearisome; irksomeness; tediousness.", "S": ["banality", "boredom", "ennui"], "A": ["excitement"]}

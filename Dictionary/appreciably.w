@@ -1,1 +1,1 @@
-{"index": 17902, "D": "sufficient to be readily perceived or estimated; considerable", "S": ["far ", "greatly ", "markedly ", "noticeably ", "rather ", "remarkably ", "somewhat ", "substantially "], "A": ["insignificantly "]}
+{"index": 17902, "D": "sufficient to be readily perceived or estimated; considerable", "S": ["far", "greatly", "markedly", "noticeably", "rather", "remarkably", "somewhat", "substantially"], "A": ["insignificantly"]}

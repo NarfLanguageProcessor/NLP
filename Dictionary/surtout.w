@@ -1,1 +1,1 @@
-{"index": 313638, "D": "a man's close-fitting overcoat, especially a frock coat.", "S": ["parka ", "raincoat "], "A": []}
+{"index": 313638, "D": "a man's close-fitting overcoat, especially a frock coat.", "S": ["parka", "raincoat"], "A": []}

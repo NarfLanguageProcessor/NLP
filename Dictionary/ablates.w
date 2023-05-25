@@ -1,1 +1,1 @@
-{"index": 546, "D": "to remove or dissipate by melting, vaporization, erosion, etc.", "S": ["erode ", "evaporate ", "melt ", "vaporize "], "A": []}
+{"index": 546, "D": "to remove or dissipate by melting, vaporization, erosion, etc.", "S": ["erode", "evaporate", "melt", "vaporize"], "A": []}

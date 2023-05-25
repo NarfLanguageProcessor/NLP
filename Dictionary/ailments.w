@@ -1,1 +1,1 @@
-{"index": 6780, "D": "a physical disorder or illness, especially of a minor or chronic nature.", "S": ["ache ", "condition ", "disease ", "disorder ", "flu ", "illness ", "malady ", "syndrome "], "A": ["health "]}
+{"index": 6780, "D": "a physical disorder or illness, especially of a minor or chronic nature.", "S": ["ache", "condition", "disease", "disorder", "flu", "illness", "malady", "syndrome"], "A": ["health"]}

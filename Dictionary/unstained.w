@@ -1,1 +1,1 @@
-{"index": 351917, "D": "not stained  or spotted; unsoiled.", "S": ["clean ", "immaculate ", "stainless ", "unblemished ", "unsoiled ", "unspotted ", "unsullied ", "untainted "], "A": []}
+{"index": 351917, "D": "not stained  or spotted; unsoiled.", "S": ["clean", "immaculate", "stainless", "unblemished", "unsoiled", "unspotted", "unsullied", "untainted"], "A": []}

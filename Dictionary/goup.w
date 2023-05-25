@@ -1,1 +1,1 @@
-{"index": 128319, "D": [], "S": ["ascend ", "clamber ", "mount ", "rise ", "scale ", "soar ", "top "], "A": ["decline ", "decrease ", "descend ", "drop ", "fall ", "lower ", "slump "]}
+{"index": 128319, "D": [], "S": ["ascend", "clamber", "mount", "rise", "scale", "soar", "top"], "A": ["decline", "decrease", "descend", "drop", "fall", "lower", "slump"]}

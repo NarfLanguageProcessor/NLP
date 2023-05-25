@@ -1,1 +1,1 @@
-{"index": 146871, "D": "an aluminum coin and monetary unit of Japan, equal to 100 sen or 1000 rin. Symbol", "S": ["covet ", "crave ", "hanker ", "itch ", "yearn "], "A": ["abjure ", "dislike ", "hate ", "despise ", "have "]}
+{"index": 146871, "D": "an aluminum coin and monetary unit of Japan, equal to 100 sen or 1000 rin. Symbol", "S": ["covet", "crave", "hanker", "itch", "yearn"], "A": ["abjure", "dislike", "hate", "despise", "have"]}

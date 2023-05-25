@@ -1,1 +1,1 @@
-{"index": 143593, "D": "a ruffian or hoodlum.", "S": ["criminal ", "delinquent ", "gangster ", "mobster ", "rioter ", "rowdy ", "thug ", "troublemaker "], "A": []}
+{"index": 143593, "D": "a ruffian or hoodlum.", "S": ["criminal", "delinquent", "gangster", "mobster", "rioter", "rowdy", "thug", "troublemaker"], "A": []}

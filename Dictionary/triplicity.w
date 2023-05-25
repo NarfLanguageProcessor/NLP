@@ -1,1 +1,1 @@
-{"index": 330409, "D": "the quality or state of being triple; threefold character or condition.", "S": ["ternary ", "ternion ", "third ", "triad ", "trichotomy ", "trilogy ", "trinity ", "trio ", "triplet ", "triplets ", "triplicate ", "triumvirate ", "trivium ", "troika "], "A": []}
+{"index": 330409, "D": "the quality or state of being triple; threefold character or condition.", "S": ["ternary", "ternion", "third", "triad", "trichotomy", "trilogy", "trinity", "trio", "triplet", "triplets", "triplicate", "triumvirate", "trivium", "troika"], "A": []}

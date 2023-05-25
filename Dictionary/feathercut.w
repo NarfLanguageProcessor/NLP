@@ -1,1 +1,1 @@
-{"index": 110653, "D": "a woman's hairstyle in which the hair is cut in short and uneven lengths and formed into small curls with featherlike tips.", "S": ["crew cut ", "hairdo ", "hairstyle "], "A": []}
+{"index": 110653, "D": "a woman's hairstyle in which the hair is cut in short and uneven lengths and formed into small curls with featherlike tips.", "S": ["crew cut", "hairdo", "hairstyle"], "A": []}

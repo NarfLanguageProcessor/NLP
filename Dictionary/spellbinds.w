@@ -1,1 +1,1 @@
-{"index": 299094, "D": "to hold or bind by or as if by a spell; enchant; entrance; fascinate.", "S": ["beguile ", "charm ", "mesmerize "], "A": ["bore ", "depress ", "disenchant ", "disgust ", "displease ", "offend ", "refuse ", "reject ", "repel ", "repulse ", "tire ", "turn off "]}
+{"index": 299094, "D": "to hold or bind by or as if by a spell; enchant; entrance; fascinate.", "S": ["beguile", "charm", "mesmerize"], "A": ["bore", "depress", "disenchant", "disgust", "displease", "offend", "refuse", "reject", "repel", "repulse", "tire", "turn off"]}

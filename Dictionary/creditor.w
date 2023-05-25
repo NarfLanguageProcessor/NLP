@@ -1,1 +1,1 @@
-{"index": 72507, "D": "a person or firm to whom money is due (opposed to debtor).", "S": ["acceptor ", "assignee ", "beneficiary ", "cashier ", "collector ", "consignee ", "customer ", "grantee ", "heir ", "recipient ", "subject ", "target ", "teller ", "trustee "], "A": ["giver "]}
+{"index": 72507, "D": "a person or firm to whom money is due (opposed to debtor).", "S": ["acceptor", "assignee", "beneficiary", "cashier", "collector", "consignee", "customer", "grantee", "heir", "recipient", "subject", "target", "teller", "trustee"], "A": ["giver"]}

@@ -1,1 +1,1 @@
-{"index": 100898, "D": "to supply with riches, wealth, abundant or valuable possessions, etc.", "S": ["embellished ", "enhanced ", "fortified "], "A": []}
+{"index": 100898, "D": "to supply with riches, wealth, abundant or valuable possessions, etc.", "S": ["embellished", "enhanced", "fortified"], "A": []}

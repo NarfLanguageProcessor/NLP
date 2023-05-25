@@ -1,1 +1,1 @@
-{"index": 365281, "D": "comprising the full quantity, amount, extent, number, etc., without diminution or exception; entire, full, or total", "S": ["full ", "perfect "], "A": ["incomplete ", "part ", "partial ", "unfinished "]}
+{"index": 365281, "D": "comprising the full quantity, amount, extent, number, etc., without diminution or exception; entire, full, or total", "S": ["full", "perfect"], "A": ["incomplete", "part", "partial", "unfinished"]}

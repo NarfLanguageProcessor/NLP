@@ -1,1 +1,1 @@
-{"index": 119444, "D": "an aggregation of bubbles, as on an agitated liquid or at the mouth of a hard-driven horse; foam; spume.", "S": ["froth "], "A": ["dirty ", "lose ", "surrender "]}
+{"index": 119444, "D": "an aggregation of bubbles, as on an agitated liquid or at the mouth of a hard-driven horse; foam; spume.", "S": ["froth"], "A": ["dirty", "lose", "surrender"]}

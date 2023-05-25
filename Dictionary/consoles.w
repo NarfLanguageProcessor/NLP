@@ -1,1 +1,1 @@
-{"index": 66897, "D": "to alleviate or lessen the grief, sorrow, or disappointment of; give solace or comfort", "S": ["assuage ", "soothe "], "A": ["upset ", "agitate ", "depress ", "discourage ", "dispirit ", "dissuade ", "worry "]}
+{"index": 66897, "D": "to alleviate or lessen the grief, sorrow, or disappointment of; give solace or comfort", "S": ["assuage", "soothe"], "A": ["upset", "agitate", "depress", "discourage", "dispirit", "dissuade", "worry"]}

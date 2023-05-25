@@ -1,1 +1,1 @@
-{"index": 282540, "D": [], "S": ["adventurer ", "experimenter ", "pathfinder ", "pilgrim ", "pioneer ", "seeker ", "traveler "], "A": []}
+{"index": 282540, "D": [], "S": ["adventurer", "experimenter", "pathfinder", "pilgrim", "pioneer", "seeker", "traveler"], "A": []}

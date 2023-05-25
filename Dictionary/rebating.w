@@ -1,1 +1,1 @@
-{"index": 262252, "D": "a return of part of the original payment for some service or merchandise; partial refund.", "S": ["abate ", "die out ", "ebb ", "evaporate ", "fade ", "recede ", "tail away ", "tail off ", "taper off ", "wane "], "A": ["increase ", "rise "]}
+{"index": 262252, "D": "a return of part of the original payment for some service or merchandise; partial refund.", "S": ["abate", "die out", "ebb", "evaporate", "fade", "recede", "tail away", "tail off", "taper off", "wane"], "A": ["increase", "rise"]}

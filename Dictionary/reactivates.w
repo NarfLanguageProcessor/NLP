@@ -1,1 +1,1 @@
-{"index": 261533, "D": "to render active again; revive.", "S": ["revive "], "A": []}
+{"index": 261533, "D": "to render active again; revive.", "S": ["revive"], "A": []}

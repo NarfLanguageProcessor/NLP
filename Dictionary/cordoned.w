@@ -1,1 +1,1 @@
-{"index": 68961, "D": "a line of police, sentinels, military posts, warships, etc., enclosing or guarding an area.", "S": ["block off ", "sequester "], "A": ["combine ", "desegregate ", "free ", "join ", "let go ", "release ", "unite "]}
+{"index": 68961, "D": "a line of police, sentinels, military posts, warships, etc., enclosing or guarding an area.", "S": ["block off", "sequester"], "A": ["combine", "desegregate", "free", "join", "let go", "release", "unite"]}

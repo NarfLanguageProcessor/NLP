@@ -1,1 +1,1 @@
-{"index": 200719, "D": "a small node, knot, or knob.", "S": ["bud ", "bulge ", "bump ", "burl ", "clot ", "knob ", "lump ", "protuberance ", "swelling ", "tumor "], "A": []}
+{"index": 200719, "D": "a small node, knot, or knob.", "S": ["bud", "bulge", "bump", "burl", "clot", "knob", "lump", "protuberance", "swelling", "tumor"], "A": []}

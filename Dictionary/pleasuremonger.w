@@ -1,1 +1,1 @@
-{"index": 239648, "D": [], "S": ["debauchee ", "epicure ", "epicurean ", "gourmand ", "lecher ", "libertine ", "profligate ", "sensualist ", "sybarite ", "voluptuary "], "A": ["puritan "]}
+{"index": 239648, "D": [], "S": ["debauchee", "epicure", "epicurean", "gourmand", "lecher", "libertine", "profligate", "sensualist", "sybarite", "voluptuary"], "A": ["puritan"]}

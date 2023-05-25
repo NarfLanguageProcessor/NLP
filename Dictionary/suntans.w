@@ -1,1 +1,1 @@
-{"index": 311229, "D": "a tan military uniform for summer wear.", "S": ["beige ", "brownish ", "drab ", "khaki "], "A": []}
+{"index": 311229, "D": "a tan military uniform for summer wear.", "S": ["beige", "brownish", "drab", "khaki"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 55530, "D": "champ1. ", "S": ["chew ", "gnaw "], "A": []}
+{"index": 55530, "D": "champ1. ", "S": ["chew", "gnaw"], "A": []}

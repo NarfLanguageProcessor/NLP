@@ -1,1 +1,1 @@
-{"index": 21935, "D": "adopted in order to deceive; fictitious; pretended; feigned", "S": ["affected ", "counterfeit ", "fake ", "feigned ", "pretended ", "sham ", "simulated "], "A": ["genuine ", "real ", "sincere ", "true "]}
+{"index": 21935, "D": "adopted in order to deceive; fictitious; pretended; feigned", "S": ["affected", "counterfeit", "fake", "feigned", "pretended", "sham", "simulated"], "A": ["genuine", "real", "sincere", "true"]}

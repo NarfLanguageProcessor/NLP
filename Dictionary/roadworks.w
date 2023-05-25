@@ -1,1 +1,1 @@
-{"index": 273514, "D": "repairs to a road or cable under a road, esp when forming a hazard or obstruction to traffic", "S": ["development ", "manufacture ", "plan ", "planning ", "structure ", "system "], "A": ["disarrangement ", "truth "]}
+{"index": 273514, "D": "repairs to a road or cable under a road, esp when forming a hazard or obstruction to traffic", "S": ["development", "manufacture", "plan", "planning", "structure", "system"], "A": ["disarrangement", "truth"]}

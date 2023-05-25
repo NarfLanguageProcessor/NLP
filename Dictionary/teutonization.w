@@ -1,1 +1,0 @@
-{"index": 320340, "D": "to make or become Teutonic or German; Germanize.", "S": [], "A": []}

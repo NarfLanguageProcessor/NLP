@@ -1,1 +1,1 @@
-{"index": 98200, "D": "having a moulded or carved decoration or design on the surface so that it is raised above the surface in low relief", "S": ["decorated ", "minted ", "scratched "], "A": []}
+{"index": 98200, "D": "having a moulded or carved decoration or design on the surface so that it is raised above the surface in low relief", "S": ["decorated", "minted", "scratched"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 139834, "D": "unusually or abnormally active", "S": ["excitable ", "high-strung "], "A": []}
+{"index": 139834, "D": "unusually or abnormally active", "S": ["excitable", "high-strung"], "A": []}

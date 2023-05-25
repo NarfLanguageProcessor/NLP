@@ -1,0 +1,1 @@
+{"index": 5558, "D": "before. ", "S": ["ahead", "back", "previously", "since", "sooner"], "A": ["after", "afterward", "behind", "later"]}

@@ -1,1 +1,1 @@
-{"index": 51938, "D": "the husks of grains and grasses that are separated during threshing.", "S": ["arrogant ", "caustic ", "incongruous ", "mocking ", "paradoxical ", "ridiculous ", "sardonic ", "satiric ", "satirical ", "twisted ", "unexpected ", "wry "], "A": ["straight "]}
+{"index": 51938, "D": "the husks of grains and grasses that are separated during threshing.", "S": ["arrogant", "caustic", "incongruous", "mocking", "paradoxical", "ridiculous", "sardonic", "satiric", "satirical", "twisted", "unexpected", "wry"], "A": ["straight"]}

@@ -1,1 +1,1 @@
-{"index": 210465, "D": "a physician who specializes in obstetrics. Abbreviation", "S": ["accoucheuse ", "assistant "], "A": []}
+{"index": 210465, "D": "a physician who specializes in obstetrics. Abbreviation", "S": ["accoucheuse", "assistant"], "A": []}

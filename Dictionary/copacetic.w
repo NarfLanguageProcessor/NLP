@@ -1,1 +1,1 @@
-{"index": 68396, "D": "fine; completely satisfactory; OK.", "S": ["adequate ", "common ", "decent ", "fair ", "respectable ", "sufficient ", "tolerable "], "A": ["bad ", "inadequate ", "insufficient ", "intolerable ", "poor ", "unrespectable ", "unsuitable "]}
+{"index": 68396, "D": "fine; completely satisfactory; OK.", "S": ["adequate", "common", "decent", "fair", "respectable", "sufficient", "tolerable"], "A": ["bad", "inadequate", "insufficient", "intolerable", "poor", "unrespectable", "unsuitable"]}

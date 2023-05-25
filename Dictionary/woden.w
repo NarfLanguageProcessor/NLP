@@ -1,1 +1,0 @@
-{"index": 366838, "D": "the chief god of the pagan Anglo-Saxons, identified with the Scandinavian Odin.", "S": [], "A": []}

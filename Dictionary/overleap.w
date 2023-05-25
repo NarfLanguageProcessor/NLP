@@ -1,1 +1,1 @@
-{"index": 220033, "D": "to leap over or across", "S": ["negotiate "], "A": ["run into "]}
+{"index": 220033, "D": "to leap over or across", "S": ["negotiate"], "A": ["run into"]}

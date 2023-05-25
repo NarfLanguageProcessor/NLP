@@ -1,1 +1,1 @@
-{"index": 223643, "D": "lacking the usual intensity of color due to fear, illness, stress, etc.", "S": ["anemia ", "colorlessness ", "lividness ", "pallidness ", "sickness ", "whiteness "], "A": []}
+{"index": 223643, "D": "lacking the usual intensity of color due to fear, illness, stress, etc.", "S": ["anemia", "colorlessness", "lividness", "pallidness", "sickness", "whiteness"], "A": []}

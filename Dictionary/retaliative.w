@@ -1,1 +1,1 @@
-{"index": 270289, "D": "done in order to take revenge; returning evil for evil", "S": ["disciplinary ", "penal ", "punishing ", "retaliatory ", "vindictive "], "A": ["beneficial ", "rewarding "]}
+{"index": 270289, "D": "done in order to take revenge; returning evil for evil", "S": ["disciplinary", "penal", "punishing", "retaliatory", "vindictive"], "A": ["beneficial", "rewarding"]}

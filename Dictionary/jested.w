@@ -1,1 +1,1 @@
-{"index": 161003, "D": "a joke or witty remark; witticism.", "S": ["banter ", "crack ", "fun ", "funny ", "gag ", "game ", "hoax ", "jive ", "laugh ", "one-liner ", "play ", "pleasantry ", "prank ", "quip ", "ridicule ", "sally ", "spoof ", "sport ", "wisecrack ", "witticism "], "A": ["work "]}
+{"index": 161003, "D": "a joke or witty remark; witticism.", "S": ["banter", "crack", "fun", "funny", "gag", "game", "hoax", "jive", "laugh", "one-liner", "play", "pleasantry", "prank", "quip", "ridicule", "sally", "spoof", "sport", "wisecrack", "witticism"], "A": ["work"]}

@@ -1,1 +1,1 @@
-{"index": 254135, "D": "serving to provoke;  causing annoyance.", "S": ["annoying ", "distressing ", "disturbing ", "tormenting "], "A": []}
+{"index": 254135, "D": "serving to provoke;  causing annoyance.", "S": ["annoying", "distressing", "disturbing", "tormenting"], "A": []}

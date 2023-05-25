@@ -1,1 +1,1 @@
-{"index": 324508, "D": "causing or liable to cause a person to tire; wearisome", "S": ["arduously ", "energetically ", "hard ", "painfully ", "resolutely ", "vigorously "], "A": []}
+{"index": 324508, "D": "causing or liable to cause a person to tire; wearisome", "S": ["arduously", "energetically", "hard", "painfully", "resolutely", "vigorously"], "A": []}

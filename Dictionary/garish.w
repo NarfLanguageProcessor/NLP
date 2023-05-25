@@ -1,1 +1,1 @@
-{"index": 122172, "D": "crudely or tastelessly colorful, showy, or elaborate, as clothes or decoration.", "S": ["gaudy ", "glittering ", "ornate ", "ostentatious ", "showy ", "vulgar "], "A": ["drab ", "modest ", "plain ", "refined ", "simple "]}
+{"index": 122172, "D": "crudely or tastelessly colorful, showy, or elaborate, as clothes or decoration.", "S": ["gaudy", "glittering", "ornate", "ostentatious", "showy", "vulgar"], "A": ["drab", "modest", "plain", "refined", "simple"]}

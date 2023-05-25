@@ -1,1 +1,1 @@
-{"index": 153536, "D": "deficient in human sensibility, acuteness of feeling, or consideration; unfeeling; callous", "S": ["barbarism ", "barbarity ", "inhumanity ", "malice ", "persecution ", "savagery ", "torture "], "A": ["kindness ", "love "]}
+{"index": 153536, "D": "deficient in human sensibility, acuteness of feeling, or consideration; unfeeling; callous", "S": ["barbarism", "barbarity", "inhumanity", "malice", "persecution", "savagery", "torture"], "A": ["kindness", "love"]}

@@ -1,1 +1,1 @@
-{"index": 179206, "D": "to handle roughly.", "S": ["maltreat ", "maul ", "mistreat ", "rough up "], "A": ["protect ", "treat well ", "benefit ", "help ", "preserve "]}
+{"index": 179206, "D": "to handle roughly.", "S": ["maltreat", "maul", "mistreat", "rough up"], "A": ["protect", "treat well", "benefit", "help", "preserve"]}

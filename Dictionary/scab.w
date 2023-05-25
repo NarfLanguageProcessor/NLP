@@ -1,1 +1,1 @@
-{"index": 279275, "D": "the incrustation that forms over a sore or wound during healing.", "S": ["layer ", "skin ", "surface "], "A": ["core ", "interior ", "middle ", "center ", "inside "]}
+{"index": 279275, "D": "the incrustation that forms over a sore or wound during healing.", "S": ["layer", "skin", "surface"], "A": ["core", "interior", "middle", "center", "inside"]}

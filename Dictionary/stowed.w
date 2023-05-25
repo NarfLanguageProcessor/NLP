@@ -1,1 +1,1 @@
-{"index": 305565, "D": "to put (sails, spars, gear, etc.) in the proper place or condition when not in use.", "S": ["arranged ", "fixed ", "implanted ", "located ", "planted ", "settled ", "situated "], "A": []}
+{"index": 305565, "D": "to put (sails, spars, gear, etc.) in the proper place or condition when not in use.", "S": ["arranged", "fixed", "implanted", "located", "planted", "settled", "situated"], "A": []}

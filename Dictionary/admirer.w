@@ -1,0 +1,1 @@
+{"index": 4181, "D": "a person who regards someone or something with wonder, pleasure, or approval", "S": ["adherent", "believer", "booster", "buff", "devotee", "disciple", "enthusiast", "fan", "follower", "partisan", "patron", "supporter"], "A": ["adversary", "detractor", "enemy", "opponent"]}

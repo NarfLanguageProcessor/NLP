@@ -1,1 +1,1 @@
-{"index": 224535, "D": "a lofty oration or writing in praise of a person or thing; eulogy.", "S": ["appreciative ", "congratulatory ", "polite ", "respectful "], "A": ["unmannerly "]}
+{"index": 224535, "D": "a lofty oration or writing in praise of a person or thing; eulogy.", "S": ["appreciative", "congratulatory", "polite", "respectful"], "A": ["unmannerly"]}

@@ -1,1 +1,1 @@
-{"index": 200686, "D": "to make a slight, quick downward bending forward of the head, as in assent, greeting, or command.", "S": ["out ", "quiet ", "sleeping ", "slow ", "yawning "], "A": []}
+{"index": 200686, "D": "to make a slight, quick downward bending forward of the head, as in assent, greeting, or command.", "S": ["out", "quiet", "sleeping", "slow", "yawning"], "A": []}

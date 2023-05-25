@@ -1,1 +1,1 @@
-{"index": 341959, "D": "lack of faith,  especially religious faith; unbelief. ", "S": ["distrust ", "incredulity ", "mistrust "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust ", "ratification "]}
+{"index": 341959, "D": "lack of faith,  especially religious faith; unbelief. ", "S": ["distrust", "incredulity", "mistrust"], "A": ["belief", "certainty", "confidence", "faith", "trust", "ratification"]}

@@ -1,1 +1,1 @@
-{"index": 112660, "D": "a folder, cabinet, or other container in which papers, letters, etc., are arranged in convenient order for storage or reference.", "S": ["checking ", "hiking ", "pacing ", "parading ", "patrolling ", "policing ", "proceeding ", "stepping ", "walking "], "A": []}
+{"index": 112660, "D": "a folder, cabinet, or other container in which papers, letters, etc., are arranged in convenient order for storage or reference.", "S": ["checking", "hiking", "pacing", "parading", "patrolling", "policing", "proceeding", "stepping", "walking"], "A": []}

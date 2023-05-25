@@ -1,1 +1,1 @@
-{"index": 129202, "D": "an area, as a prairie, in which the natural vegetation consists largely of perennial grasses,  characteristic of subhumid and semiarid climates.", "S": ["pasture ", "plain ", "prairie ", "savanna ", "steppe "], "A": []}
+{"index": 129202, "D": "an area, as a prairie, in which the natural vegetation consists largely of perennial grasses,  characteristic of subhumid and semiarid climates.", "S": ["pasture", "plain", "prairie", "savanna", "steppe"], "A": []}

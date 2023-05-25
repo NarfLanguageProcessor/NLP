@@ -1,1 +1,1 @@
-{"index": 301890, "D": "to press forcibly together; compress.", "S": ["confining "], "A": []}
+{"index": 301890, "D": "to press forcibly together; compress.", "S": ["confining"], "A": []}

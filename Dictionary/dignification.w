@@ -1,1 +1,1 @@
-{"index": 85506, "D": [], "S": ["class ", "credit ", "grade ", "honor ", "level ", "magnitude ", "point ", "position ", "qualification ", "quality ", "scope ", "sort ", "standard ", "status ", "strength "], "A": ["dishonor ", "disrespect ", "ill repute ", "lack ", "lowliness ", "unimportance "]}
+{"index": 85506, "D": [], "S": ["class", "credit", "grade", "honor", "level", "magnitude", "point", "position", "qualification", "quality", "scope", "sort", "standard", "status", "strength"], "A": ["dishonor", "disrespect", "ill repute", "lack", "lowliness", "unimportance"]}

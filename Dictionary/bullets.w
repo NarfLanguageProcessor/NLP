@@ -1,1 +1,1 @@
-{"index": 42550, "D": "a small metal projectile, part of a cartridge, for firing from small arms.", "S": ["ammo ", "armament ", "arsenal ", "bombs ", "explosives ", "grenades ", "gunpowder ", "missiles ", "shells ", "torpedos ", "weapons "], "A": []}
+{"index": 42550, "D": "a small metal projectile, part of a cartridge, for firing from small arms.", "S": ["ammo", "armament", "arsenal", "bombs", "explosives", "grenades", "gunpowder", "missiles", "shells", "torpedos", "weapons"], "A": []}

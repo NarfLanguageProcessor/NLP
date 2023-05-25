@@ -1,1 +1,1 @@
-{"index": 135685, "D": "ancient Greek culture or ideals.", "S": ["grandeur "], "A": ["bad manners ", "crudeness ", "disproportion ", "imbalance ", "unevenness "]}
+{"index": 135685, "D": "ancient Greek culture or ideals.", "S": ["grandeur"], "A": ["bad manners", "crudeness", "disproportion", "imbalance", "unevenness"]}

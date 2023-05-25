@@ -1,1 +1,1 @@
-{"index": 148807, "D": "to burst inward (opposed to explode).", "S": ["cave in ", "fall down "], "A": []}
+{"index": 148807, "D": "to burst inward (opposed to explode).", "S": ["cave in", "fall down"], "A": []}

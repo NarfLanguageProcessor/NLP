@@ -1,1 +1,1 @@
-{"index": 231025, "D": "exposure to injury, loss, or destruction; grave risk; jeopardy; danger", "S": ["imperil ", "threaten "], "A": ["guard ", "protect ", "save ", "design ", "plan "]}
+{"index": 231025, "D": "exposure to injury, loss, or destruction; grave risk; jeopardy; danger", "S": ["imperil", "threaten"], "A": ["guard", "protect", "save", "design", "plan"]}

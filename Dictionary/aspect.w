@@ -1,1 +1,1 @@
-{"index": 21374, "D": "appearance to the eye or mind; look", "S": ["attitude ", "condition ", "facet ", "form "], "A": ["whole "]}
+{"index": 21374, "D": "appearance to the eye or mind; look", "S": ["attitude", "condition", "facet", "form"], "A": ["whole"]}

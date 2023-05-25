@@ -1,1 +1,1 @@
-{"index": 50508, "D": "a person who abstains from sexual relations.", "S": ["celibate ", "single ", "stag "], "A": ["groom ", "husband ", "spouse "]}
+{"index": 50508, "D": "a person who abstains from sexual relations.", "S": ["celibate", "single", "stag"], "A": ["groom", "husband", "spouse"]}

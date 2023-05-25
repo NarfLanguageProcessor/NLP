@@ -1,1 +1,1 @@
-{"index": 49178, "D": "destructive metabolism; the breaking down in living organisms of more complex substances into simpler ones, with the release of energy (opposed to anabolism).", "S": ["anabolism ", "consumption ", "digestion ", "ingestion ", "inhalation ", "metabolism "], "A": []}
+{"index": 49178, "D": "destructive metabolism; the breaking down in living organisms of more complex substances into simpler ones, with the release of energy (opposed to anabolism).", "S": ["anabolism", "consumption", "digestion", "ingestion", "inhalation", "metabolism"], "A": []}

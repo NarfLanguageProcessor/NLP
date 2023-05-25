@@ -1,1 +1,1 @@
-{"index": 129488, "D": "excessively or inordinately desirous of wealth, profit, etc.; avaricious", "S": ["eager ", "hungry ", "impatient ", "rapacious ", "selfish "], "A": ["abstemious ", "benevolent ", "charitable ", "extravagant ", "generous ", "liberal ", "philanthropic "]}
+{"index": 129488, "D": "excessively or inordinately desirous of wealth, profit, etc.; avaricious", "S": ["eager", "hungry", "impatient", "rapacious", "selfish"], "A": ["abstemious", "benevolent", "charitable", "extravagant", "generous", "liberal", "philanthropic"]}

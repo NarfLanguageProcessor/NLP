@@ -1,1 +1,1 @@
-{"index": 101662, "D": "to ask (a person) earnestly; beseech; implore; beg", "S": ["engaging ", "tempting "], "A": ["repulsive "]}
+{"index": 101662, "D": "to ask (a person) earnestly; beseech; implore; beg", "S": ["engaging", "tempting"], "A": ["repulsive"]}

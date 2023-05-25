@@ -1,1 +1,1 @@
-{"index": 29459, "D": "radiant; bright.", "S": ["incandescent "], "A": ["dull "]}
+{"index": 29459, "D": "radiant; bright.", "S": ["incandescent"], "A": ["dull"]}

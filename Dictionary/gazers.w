@@ -1,1 +1,1 @@
-{"index": 122985, "D": "to look steadily and intently, as with great curiosity, interest, pleasure, or wonder.", "S": ["bystander ", "onlooker ", "viewer ", "watcher ", "witness "], "A": ["participant "]}
+{"index": 122985, "D": "to look steadily and intently, as with great curiosity, interest, pleasure, or wonder.", "S": ["bystander", "onlooker", "viewer", "watcher", "witness"], "A": ["participant"]}

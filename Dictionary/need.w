@@ -1,1 +1,1 @@
-{"index": 197910, "D": "a requirement, necessary duty, or obligation", "S": ["commitment ", "demand ", "obligation ", "right ", "urgency ", "use ", "wish "], "A": ["nonessential "]}
+{"index": 197910, "D": "a requirement, necessary duty, or obligation", "S": ["commitment", "demand", "obligation", "right", "urgency", "use", "wish"], "A": ["nonessential"]}

@@ -1,1 +1,1 @@
-{"index": 46518, "D": "an ecclesiastical rule or law enacted by a council or other competent authority and, in the Roman Catholic Church, approved by the pope.", "S": ["precept ", "tenet "], "A": ["disorganization ", "lawlessness ", "unbelief "]}
+{"index": 46518, "D": "an ecclesiastical rule or law enacted by a council or other competent authority and, in the Roman Catholic Church, approved by the pope.", "S": ["precept", "tenet"], "A": ["disorganization", "lawlessness", "unbelief"]}

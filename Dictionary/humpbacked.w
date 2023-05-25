@@ -1,1 +1,1 @@
-{"index": 145078, "D": "having a hump on the back.", "S": ["awry ", "bowed ", "contorted ", "crippled ", "damaged ", "gnarled ", "mangled ", "misshapen ", "scarred ", "twisted ", "warped "], "A": ["OK ", "straight ", "free "]}
+{"index": 145078, "D": "having a hump on the back.", "S": ["awry", "bowed", "contorted", "crippled", "damaged", "gnarled", "mangled", "misshapen", "scarred", "twisted", "warped"], "A": ["OK", "straight", "free"]}

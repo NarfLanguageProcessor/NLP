@@ -1,1 +1,1 @@
-{"index": 256901, "D": "a cooked food, especially a vegetable or fruit, that has been put through a sieve, blender, or the like.", "S": ["blend ", "mush ", "smash "], "A": []}
+{"index": 256901, "D": "a cooked food, especially a vegetable or fruit, that has been put through a sieve, blender, or the like.", "S": ["blend", "mush", "smash"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 240072, "D": "folded like a fan; pleated.", "S": ["grow ", "increase "], "A": ["decrease ", "diminish ", "abridge ", "compress ", "condense ", "curtail ", "lessen ", "reduce "]}
+{"index": 240072, "D": "folded like a fan; pleated.", "S": ["grow", "increase"], "A": ["decrease", "diminish", "abridge", "compress", "condense", "curtail", "lessen", "reduce"]}

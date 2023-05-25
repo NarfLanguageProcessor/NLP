@@ -1,1 +1,1 @@
-{"index": 25058, "D": "to wake up; rouse from sleep", "S": ["awaken ", "get up ", "rouse ", "wake up "], "A": ["deaden ", "go to sleep ", "lull ", "sleep "]}
+{"index": 25058, "D": "to wake up; rouse from sleep", "S": ["awaken", "get up", "rouse", "wake up"], "A": ["deaden", "go to sleep", "lull", "sleep"]}

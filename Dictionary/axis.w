@@ -1,1 +1,1 @@
-{"index": 25144, "D": "the line about which a rotating body, such as the earth, turns.", "S": ["arbor ", "axle ", "hinge ", "pivot ", "pole ", "shaft ", "spindle ", "stalk ", "stem ", "support "], "A": []}
+{"index": 25144, "D": "the line about which a rotating body, such as the earth, turns.", "S": ["arbor", "axle", "hinge", "pivot", "pole", "shaft", "spindle", "stalk", "stem", "support"], "A": []}

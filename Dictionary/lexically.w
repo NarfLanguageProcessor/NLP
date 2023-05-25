@@ -1,1 +1,0 @@
-{"index": 171335, "D": "of or relating to the words or vocabulary of a language, especially as distinguished from its grammatical and syntactical aspects.", "S": [], "A": []}

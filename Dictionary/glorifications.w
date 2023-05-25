@@ -1,1 +1,1 @@
-{"index": 126617, "D": "a glorified  or more splendid form of something.", "S": ["apotheosis ", "deification ", "exaltation ", "translation "], "A": ["vilification "]}
+{"index": 126617, "D": "a glorified  or more splendid form of something.", "S": ["apotheosis", "deification", "exaltation", "translation"], "A": ["vilification"]}

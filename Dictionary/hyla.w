@@ -1,1 +1,1 @@
-{"index": 139395, "D": "a tree frog of the genus Hyla.", "S": ["frog ", "salamander ", "toad "], "A": []}
+{"index": 139395, "D": "a tree frog of the genus Hyla.", "S": ["frog", "salamander", "toad"], "A": []}

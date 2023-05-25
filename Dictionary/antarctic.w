@@ -1,0 +1,1 @@
+{"index": 14043, "D": "of, at, or near the South Pole. ", "S": ["chilly", "freezing", "frosty", "frozen", "glacial", "ice-cold", "icy", "wintry"], "A": ["friendly", "heated", "hot", "warm"]}

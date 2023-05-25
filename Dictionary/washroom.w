@@ -1,1 +1,1 @@
-{"index": 362931, "D": "a room  having washbowls and other toilet facilities.", "S": ["bathroom ", "lavatory ", "restroom ", "sauna ", "shower ", "toilet "], "A": []}
+{"index": 362931, "D": "a room  having washbowls and other toilet facilities.", "S": ["bathroom", "lavatory", "restroom", "sauna", "shower", "toilet"], "A": []}

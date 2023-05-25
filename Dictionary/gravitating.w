@@ -1,1 +1,1 @@
-{"index": 129388, "D": "to move or tend to move under the influence of gravitational  force.", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}
+{"index": 129388, "D": "to move or tend to move under the influence of gravitational  force.", "S": ["downward"], "A": ["above", "cheerful", "cheery", "happy", "heartened", "higher"]}

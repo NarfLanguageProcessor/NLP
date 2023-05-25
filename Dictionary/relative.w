@@ -1,1 +1,1 @@
-{"index": 266759, "D": "a person who is connected with another or others by blood or marriage.", "S": ["analogous ", "corresponding ", "proportionate ", "related "], "A": ["dissimilar ", "unlike ", "unrelated ", "independent "]}
+{"index": 266759, "D": "a person who is connected with another or others by blood or marriage.", "S": ["analogous", "corresponding", "proportionate", "related"], "A": ["dissimilar", "unlike", "unrelated", "independent"]}

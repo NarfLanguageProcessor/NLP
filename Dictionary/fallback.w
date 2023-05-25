@@ -1,1 +1,1 @@
-{"index": 109483, "D": "an act or instance of falling back.", "S": ["disengagement ", "evacuation ", "pullout ", "recession ", "withdrawal "], "A": []}
+{"index": 109483, "D": "an act or instance of falling back.", "S": ["disengagement", "evacuation", "pullout", "recession", "withdrawal"], "A": []}

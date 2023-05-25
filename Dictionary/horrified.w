@@ -1,1 +1,1 @@
-{"index": 143969, "D": "showing or indicating great shock or horror", "S": ["shocked "], "A": []}
+{"index": 143969, "D": "showing or indicating great shock or horror", "S": ["shocked"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 35361, "D": "occurring every two weeks.", "S": ["fortnightly "], "A": []}
+{"index": 35361, "D": "occurring every two weeks.", "S": ["fortnightly"], "A": []}

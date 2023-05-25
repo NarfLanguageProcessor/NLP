@@ -1,1 +1,1 @@
-{"index": 64592, "D": "to express dissatisfaction, pain, uneasiness, censure, resentment, or grief; find fault", "S": ["grumbling ", "protesting ", "whining "], "A": ["appreciating ", "enjoying ", "praising "]}
+{"index": 64592, "D": "to express dissatisfaction, pain, uneasiness, censure, resentment, or grief; find fault", "S": ["grumbling", "protesting", "whining"], "A": ["appreciating", "enjoying", "praising"]}

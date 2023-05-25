@@ -1,1 +1,1 @@
-{"index": 359053, "D": "of or relating to the goddess Vesta. ", "S": ["nun ", "virginal "], "A": []}
+{"index": 359053, "D": "of or relating to the goddess Vesta. ", "S": ["nun", "virginal"], "A": []}

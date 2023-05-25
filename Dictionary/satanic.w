@@ -1,1 +1,1 @@
-{"index": 278650, "D": "of Satan. ", "S": ["cruel ", "maniacal "], "A": []}
+{"index": 278650, "D": "of Satan. ", "S": ["cruel", "maniacal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 343282, "D": "fond of the company of others; sociable.", "S": ["asocial ", "disagreeable ", "discordant ", "discourteous ", "incongruous ", "inharmonious ", "uncivil ", "unpleasant ", "unsociable "], "A": ["congenial "]}
+{"index": 343282, "D": "fond of the company of others; sociable.", "S": ["asocial", "disagreeable", "discordant", "discourteous", "incongruous", "inharmonious", "uncivil", "unpleasant", "unsociable"], "A": ["congenial"]}

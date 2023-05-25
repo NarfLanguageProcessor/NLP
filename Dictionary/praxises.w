@@ -1,1 +1,1 @@
-{"index": 245402, "D": "practice, as distinguished from theory; application or use, as of knowledge or skills.", "S": ["custom ", "exercise ", "practice "], "A": []}
+{"index": 245402, "D": "practice, as distinguished from theory; application or use, as of knowledge or skills.", "S": ["custom", "exercise", "practice"], "A": []}

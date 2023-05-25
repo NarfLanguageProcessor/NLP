@@ -1,1 +1,1 @@
-{"index": 1053, "D": "to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from)", "S": ["austere ", "disciplined "], "A": []}
+{"index": 1053, "D": "to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from)", "S": ["austere", "disciplined"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 53344, "D": "divided into several rows of squares of two alternating tinctures", "S": ["diversified ", "motley ", "quilted ", "spotted ", "variegated "], "A": []}
+{"index": 53344, "D": "divided into several rows of squares of two alternating tinctures", "S": ["diversified", "motley", "quilted", "spotted", "variegated"], "A": []}

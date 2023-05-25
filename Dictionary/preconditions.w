@@ -1,1 +1,1 @@
-{"index": 246378, "D": "something that must come before or is necessary to a subsequent result; condition", "S": ["arrangement ", "essential ", "necessity ", "prerequisite ", "provision ", "qualification ", "requirement ", "requisite ", "stipulation "], "A": ["nonessential "]}
+{"index": 246378, "D": "something that must come before or is necessary to a subsequent result; condition", "S": ["arrangement", "essential", "necessity", "prerequisite", "provision", "qualification", "requirement", "requisite", "stipulation"], "A": ["nonessential"]}

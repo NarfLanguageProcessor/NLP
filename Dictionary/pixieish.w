@@ -1,1 +1,1 @@
-{"index": 238483, "D": "a fairy or sprite, especially a mischievous one.", "S": ["devilish ", "jaunty ", "naughty ", "playful "], "A": ["good ", "moral "]}
+{"index": 238483, "D": "a fairy or sprite, especially a mischievous one.", "S": ["devilish", "jaunty", "naughty", "playful"], "A": ["good", "moral"]}

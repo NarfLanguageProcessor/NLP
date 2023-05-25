@@ -1,1 +1,1 @@
-{"index": 256887, "D": "to acquire by the payment of money or its equivalent; buy.", "S": ["acquiring ", "obtaining ", "possession ", "procuring "], "A": []}
+{"index": 256887, "D": "to acquire by the payment of money or its equivalent; buy.", "S": ["acquiring", "obtaining", "possession", "procuring"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 127185, "D": "the result or achievement toward which effort is directed; aim; end", "S": ["desultory ", "erratic ", "frivolous ", "haphazard ", "indiscriminate ", "pointless ", "random "], "A": ["definite ", "methodical ", "particular ", "sensible ", "specific ", "systematic "]}
+{"index": 127185, "D": "the result or achievement toward which effort is directed; aim; end", "S": ["desultory", "erratic", "frivolous", "haphazard", "indiscriminate", "pointless", "random"], "A": ["definite", "methodical", "particular", "sensible", "specific", "systematic"]}

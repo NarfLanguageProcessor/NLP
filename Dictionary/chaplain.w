@@ -1,1 +1,1 @@
-{"index": 52641, "D": "an ecclesiastic attached to the chapel of a royal court, college, etc., or to a military unit.", "S": ["cleric ", "pastor ", "preacher ", "priest ", "rabbi "], "A": []}
+{"index": 52641, "D": "an ecclesiastic attached to the chapel of a royal court, college, etc., or to a military unit.", "S": ["cleric", "pastor", "preacher", "priest", "rabbi"], "A": []}

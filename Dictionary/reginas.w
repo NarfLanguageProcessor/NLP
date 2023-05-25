@@ -1,1 +1,1 @@
-{"index": 265651, "D": "queen. ", "S": ["monarch ", "ruler "], "A": ["king "]}
+{"index": 265651, "D": "queen. ", "S": ["monarch", "ruler"], "A": ["king"]}

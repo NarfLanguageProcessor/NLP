@@ -1,1 +1,1 @@
-{"index": 144282, "D": "an impetuous or short-tempered person.", "S": ["agitator ", "firebrand "], "A": []}
+{"index": 144282, "D": "an impetuous or short-tempered person.", "S": ["agitator", "firebrand"], "A": []}

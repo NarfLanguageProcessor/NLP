@@ -1,1 +1,1 @@
-{"index": 291543, "D": "the state or fact of being published simultaneously, or supplied for simultaneous publication, in a number of newspapers or other periodicals", "S": ["association ", "league ", "union "], "A": ["division ", "separation ", "disunion "]}
+{"index": 291543, "D": "the state or fact of being published simultaneously, or supplied for simultaneous publication, in a number of newspapers or other periodicals", "S": ["association", "league", "union"], "A": ["division", "separation", "disunion"]}

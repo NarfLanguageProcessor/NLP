@@ -1,1 +1,1 @@
-{"index": 46774, "D": "the ability to receive or contain", "S": ["quantity ", "scope ", "size ", "space "], "A": ["limitation "]}
+{"index": 46774, "D": "the ability to receive or contain", "S": ["quantity", "scope", "size", "space"], "A": ["limitation"]}

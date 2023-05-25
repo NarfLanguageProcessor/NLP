@@ -1,1 +1,1 @@
-{"index": 350897, "D": "not disturbed or moved from a position or belief", "S": ["firm ", "resolute ", "unaffected ", "undaunted "], "A": []}
+{"index": 350897, "D": "not disturbed or moved from a position or belief", "S": ["firm", "resolute", "unaffected", "undaunted"], "A": []}

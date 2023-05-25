@@ -1,1 +1,1 @@
-{"index": 287938, "D": "lac that has been purified and formed into thin sheets, used for making varnish (shellac varnish ) by dissolving it in alcohol or a similar solvent.", "S": ["defeat ", "strike ", "trounce ", "varnish "], "A": ["lose "]}
+{"index": 287938, "D": "lac that has been purified and formed into thin sheets, used for making varnish (shellac varnish ) by dissolving it in alcohol or a similar solvent.", "S": ["defeat", "strike", "trounce", "varnish"], "A": ["lose"]}

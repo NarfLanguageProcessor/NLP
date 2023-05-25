@@ -1,1 +1,1 @@
-{"index": 20957, "D": "the manner of life, practices, or principles of an ascetic. ", "S": ["chastity ", "fasting ", "frugality ", "moderation ", "self-restraint "], "A": ["drunkenness ", "excess ", "indulgence ", "intemperance ", "intoxication ", "revelry ", "self-indulgence "]}
+{"index": 20957, "D": "the manner of life, practices, or principles of an ascetic. ", "S": ["chastity", "fasting", "frugality", "moderation", "self-restraint"], "A": ["drunkenness", "excess", "indulgence", "intemperance", "intoxication", "revelry", "self-indulgence"]}

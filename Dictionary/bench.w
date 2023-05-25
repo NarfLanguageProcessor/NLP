@@ -1,1 +1,1 @@
-{"index": 31464, "D": "a long seat for several people", "S": ["chair ", "seat "], "A": []}
+{"index": 31464, "D": "a long seat for several people", "S": ["chair", "seat"], "A": []}

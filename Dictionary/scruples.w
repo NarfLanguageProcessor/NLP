@@ -1,1 +1,1 @@
-{"index": 282078, "D": "the plural of scruple;  moral or ethical considerations or standards that act as a restraining force or inhibit certain actions", "S": ["shame "], "A": ["immorality "]}
+{"index": 282078, "D": "the plural of scruple;  moral or ethical considerations or standards that act as a restraining force or inhibit certain actions", "S": ["shame"], "A": ["immorality"]}

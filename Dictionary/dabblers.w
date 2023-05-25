@@ -1,1 +1,1 @@
-{"index": 75950, "D": "to play and splash in or as if in water, especially with the hands.", "S": ["abecedarian ", "beginner ", "dilettante ", "loafer ", "novice ", "potterer ", "pretender ", "tinkerer ", "trifler ", "tyro ", "uninitiate "], "A": ["expert ", "professional "]}
+{"index": 75950, "D": "to play and splash in or as if in water, especially with the hands.", "S": ["abecedarian", "beginner", "dilettante", "loafer", "novice", "potterer", "pretender", "tinkerer", "trifler", "tyro", "uninitiate"], "A": ["expert", "professional"]}

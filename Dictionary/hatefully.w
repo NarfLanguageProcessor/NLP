@@ -1,1 +1,1 @@
-{"index": 134220, "D": "arousing hate  or deserving to be hated", "S": ["cruelly ", "viciously "], "A": ["decently ", "morally "]}
+{"index": 134220, "D": "arousing hate  or deserving to be hated", "S": ["cruelly", "viciously"], "A": ["decently", "morally"]}

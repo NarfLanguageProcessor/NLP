@@ -1,1 +1,1 @@
-{"index": 38614, "D": "cross-eyed. ", "S": ["squint-eyed ", "strabismal ", "strabismic ", "strabismical ", "walleyed "], "A": []}
+{"index": 38614, "D": "cross-eyed. ", "S": ["squint-eyed", "strabismal", "strabismic", "strabismical", "walleyed"], "A": []}

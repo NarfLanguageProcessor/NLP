@@ -1,1 +1,1 @@
-{"index": 104015, "D": "former; of times past", "S": ["once "], "A": []}
+{"index": 104015, "D": "former; of times past", "S": ["once"], "A": []}

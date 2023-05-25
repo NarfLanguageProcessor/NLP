@@ -1,1 +1,1 @@
-{"index": 22312, "D": "of, relating to, or connected with astronomy. ", "S": ["colossal ", "considerable ", "enormous ", "gigantic ", "humongous ", "monumental ", "sizeable ", "tremendous ", "vast ", "whopping "], "A": ["insignificant ", "little ", "small ", "teeny ", "tiny ", "unimportant "]}
+{"index": 22312, "D": "of, relating to, or connected with astronomy. ", "S": ["colossal", "considerable", "enormous", "gigantic", "humongous", "monumental", "sizeable", "tremendous", "vast", "whopping"], "A": ["insignificant", "little", "small", "teeny", "tiny", "unimportant"]}

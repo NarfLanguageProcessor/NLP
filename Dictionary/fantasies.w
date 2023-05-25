@@ -1,1 +1,1 @@
-{"index": 109778, "D": "imagination, especially when extravagant and unrestrained.", "S": ["delusion ", "fancy ", "illusion ", "nightmare ", "reverie ", "vision "], "A": ["actuality ", "certainty ", "fact ", "reality ", "truth "]}
+{"index": 109778, "D": "imagination, especially when extravagant and unrestrained.", "S": ["delusion", "fancy", "illusion", "nightmare", "reverie", "vision"], "A": ["actuality", "certainty", "fact", "reality", "truth"]}

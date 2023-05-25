@@ -1,1 +1,1 @@
-{"index": 45383, "D": "without excitement, agitation, or passion", "S": ["coolly ", "easily ", "peacefully ", "serenely ", "smoothly "], "A": []}
+{"index": 45383, "D": "without excitement, agitation, or passion", "S": ["coolly", "easily", "peacefully", "serenely", "smoothly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 101074, "D": "to capture in, or involve as in, a snare", "S": ["cheat ", "embroil ", "enmesh ", "entangle ", "entrap ", "mislead ", "snare "], "A": ["disentangle ", "exclude ", "free ", "liberate ", "let go ", "lose ", "release "]}
+{"index": 101074, "D": "to capture in, or involve as in, a snare", "S": ["cheat", "embroil", "enmesh", "entangle", "entrap", "mislead", "snare"], "A": ["disentangle", "exclude", "free", "liberate", "let go", "lose", "release"]}

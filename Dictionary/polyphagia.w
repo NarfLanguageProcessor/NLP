@@ -1,1 +1,1 @@
-{"index": 242213, "D": "excessive desire to eat.", "S": ["binge-vomit syndrome ", "bingeing ", "bulimarexia ", "bulimia ", "bulimia nervosa ", "hyperphagia "], "A": []}
+{"index": 242213, "D": "excessive desire to eat.", "S": ["binge-vomit syndrome", "bingeing", "bulimarexia", "bulimia", "bulimia nervosa", "hyperphagia"], "A": []}

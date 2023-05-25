@@ -1,1 +1,1 @@
-{"index": 67282, "D": "to make impure or unsuitable by contact or mixture with something unclean, bad, etc.", "S": ["contaminative ", "corrupted ", "corrupting ", "demoralizing ", "perversive "], "A": []}
+{"index": 67282, "D": "to make impure or unsuitable by contact or mixture with something unclean, bad, etc.", "S": ["contaminative", "corrupted", "corrupting", "demoralizing", "perversive"], "A": []}

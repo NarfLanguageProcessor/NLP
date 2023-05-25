@@ -1,1 +1,1 @@
-{"index": 293353, "D": "the part of a gown, dress, slip, or coat that extends downward from the waist.", "S": ["hem "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 293353, "D": "the part of a gown, dress, slip, or coat that extends downward from the waist.", "S": ["hem"], "A": ["center", "inside", "interior", "middle"]}

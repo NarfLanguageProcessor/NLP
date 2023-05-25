@@ -1,1 +1,1 @@
-{"index": 210004, "D": "obeying  or willing to obey;  complying with or submissive to authority", "S": ["compliantly ", "devotedly ", "faithfully ", "loyally ", "submissively ", "willingly "], "A": []}
+{"index": 210004, "D": "obeying  or willing to obey;  complying with or submissive to authority", "S": ["compliantly", "devotedly", "faithfully", "loyally", "submissively", "willingly"], "A": []}

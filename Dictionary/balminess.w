@@ -1,1 +1,1 @@
-{"index": 27076, "D": "mild and refreshing; soft; soothing", "S": ["aroma ", "bouquet ", "incense ", "odor ", "oil ", "smell ", "spice "], "A": ["odor ", "stench ", "stink "]}
+{"index": 27076, "D": "mild and refreshing; soft; soothing", "S": ["aroma", "bouquet", "incense", "odor", "oil", "smell", "spice"], "A": ["odor", "stench", "stink"]}

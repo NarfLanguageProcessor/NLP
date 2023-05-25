@@ -1,1 +1,1 @@
-{"index": 269736, "D": "a masklike device, usually of nonwoven fibrous materials, as fiberglass paper, wool felt, or polypropylene, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances, pathogens, or the like", "S": ["inhalator ", "iron lung "], "A": []}
+{"index": 269736, "D": "a masklike device, usually of nonwoven fibrous materials, as fiberglass paper, wool felt, or polypropylene, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances, pathogens, or the like", "S": ["inhalator", "iron lung"], "A": []}

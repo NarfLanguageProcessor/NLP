@@ -1,1 +1,0 @@
-{"index": 233341, "D": "a white, crystalline, slightly water-soluble substance, C10H15NO2, used in the manufacture of dyes and in organic synthesis.", "S": [], "A": []}

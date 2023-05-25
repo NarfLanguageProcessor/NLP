@@ -1,1 +1,1 @@
-{"index": 326566, "D": "(an expression used to indicate a hit or touch.)", "S": ["confusion ", "degradation ", "disgrace ", "ignominy ", "indignity ", "shame "], "A": ["esteem ", "honor ", "respect ", "resistance "]}
+{"index": 326566, "D": "(an expression used to indicate a hit or touch.)", "S": ["confusion", "degradation", "disgrace", "ignominy", "indignity", "shame"], "A": ["esteem", "honor", "respect", "resistance"]}

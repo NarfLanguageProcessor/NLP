@@ -1,1 +1,1 @@
-{"index": 252087, "D": "pertaining or belonging to the proletariat. ", "S": ["factory-working ", "lower-class ", "middle-class ", "proletariat ", "wage-earning ", "working class "], "A": ["white-collar "]}
+{"index": 252087, "D": "pertaining or belonging to the proletariat. ", "S": ["factory-working", "lower-class", "middle-class", "proletariat", "wage-earning", "working class"], "A": ["white-collar"]}

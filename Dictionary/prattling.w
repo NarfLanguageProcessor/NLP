@@ -1,1 +1,1 @@
-{"index": 245379, "D": "to talk in a foolish or simple-minded way; chatter; babble.", "S": ["blabbering ", "blathering ", "blithering ", "chitchatting ", "driveling ", "gibbering ", "jabbering "], "A": []}
+{"index": 245379, "D": "to talk in a foolish or simple-minded way; chatter; babble.", "S": ["blabbering", "blathering", "blithering", "chitchatting", "driveling", "gibbering", "jabbering"], "A": []}

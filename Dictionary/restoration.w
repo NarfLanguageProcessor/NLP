@@ -1,1 +1,1 @@
-{"index": 269974, "D": "the act of restoring; renewal, revival, or reestablishment.", "S": ["rebuilding ", "reclamation ", "recovery ", "rehabilitation ", "renewal ", "renovation ", "revival "], "A": ["destruction "]}
+{"index": 269974, "D": "the act of restoring; renewal, revival, or reestablishment.", "S": ["rebuilding", "reclamation", "recovery", "rehabilitation", "renewal", "renovation", "revival"], "A": ["destruction"]}

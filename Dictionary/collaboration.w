@@ -1,1 +1,1 @@
-{"index": 62809, "D": "the act or process of working together or cooperating", "S": ["association ", "collusion ", "combination ", "concert ", "participation ", "partnership ", "teamwork "], "A": ["disunion ", "division ", "separation "]}
+{"index": 62809, "D": "the act or process of working together or cooperating", "S": ["association", "collusion", "combination", "concert", "participation", "partnership", "teamwork"], "A": ["disunion", "division", "separation"]}

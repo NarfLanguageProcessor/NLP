@@ -1,1 +1,1 @@
-{"index": 152408, "D": "any device used to make an infusion, esp a tea maker", "S": ["infusion ball ", "steeper ", "tea egg ", "tea filter ", "tea infuser ", "tea maker "], "A": []}
+{"index": 152408, "D": "any device used to make an infusion, esp a tea maker", "S": ["infusion ball", "steeper", "tea egg", "tea filter", "tea infuser", "tea maker"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 325080, "D": "a coat.", "S": ["apparel ", "attire ", "clothes ", "clothing ", "costume ", "covering ", "drape ", "frock ", "garb ", "garment ", "gear ", "gown ", "habit ", "outfit ", "raiment ", "robe ", "shift ", "skirt ", "smock ", "suit ", "threads ", "uniform "], "A": []}
+{"index": 325080, "D": "a coat.", "S": ["apparel", "attire", "clothes", "clothing", "costume", "covering", "drape", "frock", "garb", "garment", "gear", "gown", "habit", "outfit", "raiment", "robe", "shift", "skirt", "smock", "suit", "threads", "uniform"], "A": []}

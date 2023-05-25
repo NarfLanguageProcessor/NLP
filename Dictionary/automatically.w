@@ -1,1 +1,1 @@
-{"index": 24194, "D": "without volition or from force of habit; mechanically", "S": ["naturally ", "no doubt ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "questionably "]}
+{"index": 24194, "D": "without volition or from force of habit; mechanically", "S": ["naturally", "no doubt", "undoubtedly", "unquestionably"], "A": ["doubtfully", "questionably"]}

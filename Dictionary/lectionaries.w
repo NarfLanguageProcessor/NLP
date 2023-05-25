@@ -1,1 +1,1 @@
-{"index": 169857, "D": "a book or a list of lections for reading in a divine service.", "S": ["Book of Common Prayer ", "Mass book ", "breviary ", "canon ", "lectionary ", "missal book ", "prayers ", "psalmbook ", "psalter ", "scripture "], "A": []}
+{"index": 169857, "D": "a book or a list of lections for reading in a divine service.", "S": ["Book of Common Prayer", "Mass book", "breviary", "canon", "lectionary", "missal book", "prayers", "psalmbook", "psalter", "scripture"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 312359, "D": "of no special quality or interest; commonplace; unexceptional", "S": ["celestial ", "fairy ", "ghostly ", "heavenly ", "metaphysical ", "miraculous ", "mythical ", "psychic ", "superhuman ", "uncanny "], "A": ["earthly ", "hellish ", "usual ", "known "]}
+{"index": 312359, "D": "of no special quality or interest; commonplace; unexceptional", "S": ["celestial", "fairy", "ghostly", "heavenly", "metaphysical", "miraculous", "mythical", "psychic", "superhuman", "uncanny"], "A": ["earthly", "hellish", "usual", "known"]}

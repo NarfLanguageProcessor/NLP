@@ -1,1 +1,1 @@
-{"index": 263290, "D": "dealing with very profound, difficult, or abstruse subject matter", "S": ["astuteness ", "profoundness ", "profundity "], "A": []}
+{"index": 263290, "D": "dealing with very profound, difficult, or abstruse subject matter", "S": ["astuteness", "profoundness", "profundity"], "A": []}

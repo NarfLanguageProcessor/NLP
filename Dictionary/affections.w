@@ -1,1 +1,1 @@
-{"index": 5320, "D": "fond attachment, devotion, or love", "S": ["center ", "circle ", "conscience ", "emotions ", "feelings ", "inside ", "interior ", "sentiments ", "soul ", "spirit ", "sympathies "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 5320, "D": "fond attachment, devotion, or love", "S": ["center", "circle", "conscience", "emotions", "feelings", "inside", "interior", "sentiments", "soul", "spirit", "sympathies"], "A": ["exterior", "exteriority", "outside"]}

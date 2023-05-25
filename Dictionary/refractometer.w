@@ -1,1 +1,0 @@
-{"index": 265325, "D": "an instrument for determining the refractive index of a substance.", "S": [], "A": []}

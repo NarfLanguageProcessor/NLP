@@ -1,1 +1,1 @@
-{"index": 325140, "D": "hard and continuous work; exhausting labor or effort.", "S": ["laborer ", "peon ", "serf ", "slave ", "workhorse "], "A": []}
+{"index": 325140, "D": "hard and continuous work; exhausting labor or effort.", "S": ["laborer", "peon", "serf", "slave", "workhorse"], "A": []}

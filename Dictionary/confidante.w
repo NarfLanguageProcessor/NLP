@@ -1,1 +1,1 @@
-{"index": 65876, "D": "a woman to whom secrets are confided or with whom private matters and problems are discussed.", "S": ["acquaintance ", "adviser ", "companion ", "confidant ", "crony "], "A": ["enemy ", "foe ", "stranger "]}
+{"index": 65876, "D": "a woman to whom secrets are confided or with whom private matters and problems are discussed.", "S": ["acquaintance", "adviser", "companion", "confidant", "crony"], "A": ["enemy", "foe", "stranger"]}

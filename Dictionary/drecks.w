@@ -1,1 +1,1 @@
-{"index": 92910, "D": "anything regarded as worthless or of low quality; junk", "S": ["excrement ", "ground ", "muck ", "mud ", "soil ", "stain "], "A": ["cleanliness "]}
+{"index": 92910, "D": "anything regarded as worthless or of low quality; junk", "S": ["excrement", "ground", "muck", "mud", "soil", "stain"], "A": ["cleanliness"]}

@@ -1,1 +1,1 @@
-{"index": 1968, "D": "needle-shaped, as the leaves of the pine.", "S": ["acerate ", "acerous ", "aciculated ", "acuminate ", "acute ", "cuspated ", "cuspidated ", "mucronate ", "needle-shaped ", "pointy ", "sharp "], "A": []}
+{"index": 1968, "D": "needle-shaped, as the leaves of the pine.", "S": ["acerate", "acerous", "aciculated", "acuminate", "acute", "cuspated", "cuspidated", "mucronate", "needle-shaped", "pointy", "sharp"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 289610, "D": "a hospital or dispensary, especially aboard ship.", "S": ["dispensary ", "hospital ", "isolation ward ", "sick berth ", "sickroom "], "A": []}
+{"index": 289610, "D": "a hospital or dispensary, especially aboard ship.", "S": ["dispensary", "hospital", "isolation ward", "sick berth", "sickroom"], "A": []}

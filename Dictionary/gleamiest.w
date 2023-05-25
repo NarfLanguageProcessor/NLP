@@ -1,1 +1,1 @@
-{"index": 126080, "D": "gleaming. ", "S": ["beaming ", "bright ", "brilliant ", "dazzling ", "effulgent ", "gleaming ", "glowing ", "incandescent ", "irradiant ", "lucent ", "luminous ", "lustrous ", "refulgent ", "resplendent ", "shiny "], "A": []}
+{"index": 126080, "D": "gleaming. ", "S": ["beaming", "bright", "brilliant", "dazzling", "effulgent", "gleaming", "glowing", "incandescent", "irradiant", "lucent", "luminous", "lustrous", "refulgent", "resplendent", "shiny"], "A": []}

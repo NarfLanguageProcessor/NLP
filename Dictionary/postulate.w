@@ -1,1 +1,1 @@
-{"index": 244529, "D": "to ask, demand, or claim.", "S": ["hypothesize ", "posit ", "presuppose ", "theorize "], "A": ["calculate ", "deny ", "disbelieve ", "measure ", "reject "]}
+{"index": 244529, "D": "to ask, demand, or claim.", "S": ["hypothesize", "posit", "presuppose", "theorize"], "A": ["calculate", "deny", "disbelieve", "measure", "reject"]}

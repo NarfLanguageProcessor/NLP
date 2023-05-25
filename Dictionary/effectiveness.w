@@ -1,1 +1,1 @@
-{"index": 95957, "D": "the fact or quality of producing the intended or desired result", "S": ["convincingness ", "persuasiveness ", "strength ", "validity "], "A": ["inconclusiveness ", "ineffectiveness ", "invalidity ", "weakness "]}
+{"index": 95957, "D": "the fact or quality of producing the intended or desired result", "S": ["convincingness", "persuasiveness", "strength", "validity"], "A": ["inconclusiveness", "ineffectiveness", "invalidity", "weakness"]}

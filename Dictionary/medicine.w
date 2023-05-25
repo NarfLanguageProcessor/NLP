@@ -1,1 +1,1 @@
-{"index": 182099, "D": "any substance or substances used in treating disease or illness; medicament; remedy.", "S": ["antibiotic ", "cure ", "drug ", "medication ", "pharmaceutical ", "pill ", "prescription ", "remedy "], "A": ["disease "]}
+{"index": 182099, "D": "any substance or substances used in treating disease or illness; medicament; remedy.", "S": ["antibiotic", "cure", "drug", "medication", "pharmaceutical", "pill", "prescription", "remedy"], "A": ["disease"]}

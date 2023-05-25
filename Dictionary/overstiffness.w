@@ -1,1 +1,0 @@
-{"index": 221348, "D": "the state or condition of being rigid or firm", "S": [], "A": []}

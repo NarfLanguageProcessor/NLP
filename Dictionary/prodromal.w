@@ -1,1 +1,1 @@
-{"index": 251557, "D": "(of a symptom or series of symptoms) preceding the more obvious, diagnosable symptoms of an illness or disease", "S": ["introductory ", "previous ", "prior "], "A": ["later ", "back ", "inferior ", "last ", "unimportant "]}
+{"index": 251557, "D": "(of a symptom or series of symptoms) preceding the more obvious, diagnosable symptoms of an illness or disease", "S": ["introductory", "previous", "prior"], "A": ["later", "back", "inferior", "last", "unimportant"]}

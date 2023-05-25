@@ -1,1 +1,1 @@
-{"index": 88170, "D": [], "S": ["lower "], "A": ["fix ", "honor ", "improve ", "mend ", "promote ", "upgrade "]}
+{"index": 88170, "D": [], "S": ["lower"], "A": ["fix", "honor", "improve", "mend", "promote", "upgrade"]}

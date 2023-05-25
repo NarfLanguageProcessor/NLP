@@ -1,1 +1,1 @@
-{"index": 306743, "D": "unreasonably obstinate; obstinately unmoving", "S": ["inflexibility ", "obstinacy ", "perseverance "], "A": ["amenability ", "flexibility ", "irresolution "]}
+{"index": 306743, "D": "unreasonably obstinate; obstinately unmoving", "S": ["inflexibility", "obstinacy", "perseverance"], "A": ["amenability", "flexibility", "irresolution"]}

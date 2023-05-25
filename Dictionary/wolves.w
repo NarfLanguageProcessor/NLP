@@ -1,1 +1,1 @@
-{"index": 366949, "D": "the plural of wolf. ", "S": ["seducer "], "A": []}
+{"index": 366949, "D": "the plural of wolf. ", "S": ["seducer"], "A": []}

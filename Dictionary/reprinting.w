@@ -1,1 +1,1 @@
-{"index": 268566, "D": "to print  again; print  a new impression of.", "S": ["copy ", "program ", "publication ", "release ", "version ", "volume "], "A": []}
+{"index": 268566, "D": "to print  again; print  a new impression of.", "S": ["copy", "program", "publication", "release", "version", "volume"], "A": []}

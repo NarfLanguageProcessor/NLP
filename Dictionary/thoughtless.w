@@ -1,1 +1,1 @@
-{"index": 322476, "D": "lacking in consideration for others; inconsiderate; tactless", "S": ["antisocial ", "boorish ", "impolite ", "indiscreet ", "insensitive ", "reckless ", "rude "], "A": ["mannerly ", "polite ", "refined ", "sophisticated "]}
+{"index": 322476, "D": "lacking in consideration for others; inconsiderate; tactless", "S": ["antisocial", "boorish", "impolite", "indiscreet", "insensitive", "reckless", "rude"], "A": ["mannerly", "polite", "refined", "sophisticated"]}

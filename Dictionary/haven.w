@@ -1,1 +1,1 @@
-{"index": 134397, "D": "a harbor or port.", "S": ["asylum ", "retreat ", "sanctuary ", "shelter "], "A": []}
+{"index": 134397, "D": "a harbor or port.", "S": ["asylum", "retreat", "sanctuary", "shelter"], "A": []}

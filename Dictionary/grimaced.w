@@ -1,1 +1,1 @@
-{"index": 129886, "D": "a facial expression, often ugly or contorted, that indicates disapproval, pain, etc.", "S": ["frown ", "scowl ", "smirk ", "sneer "], "A": ["grin "]}
+{"index": 129886, "D": "a facial expression, often ugly or contorted, that indicates disapproval, pain, etc.", "S": ["frown", "scowl", "smirk", "sneer"], "A": ["grin"]}

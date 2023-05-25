@@ -1,1 +1,1 @@
-{"index": 109728, "D": "one of the long, sharp, hollow or grooved teeth of a venomous snake by which poison is injected.", "S": ["bridgework ", "dentition ", "denture ", "ivories "], "A": []}
+{"index": 109728, "D": "one of the long, sharp, hollow or grooved teeth of a venomous snake by which poison is injected.", "S": ["bridgework", "dentition", "denture", "ivories"], "A": []}

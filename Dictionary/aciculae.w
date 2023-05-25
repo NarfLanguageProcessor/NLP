@@ -1,1 +1,1 @@
-{"index": 2397, "D": "a needlelike part; spine, bristle, or needlelike crystal.", "S": ["apex ", "mucro ", "mucronation ", "sharp point ", "spike ", "tapering point ", "tip "], "A": []}
+{"index": 2397, "D": "a needlelike part; spine, bristle, or needlelike crystal.", "S": ["apex", "mucro", "mucronation", "sharp point", "spike", "tapering point", "tip"], "A": []}

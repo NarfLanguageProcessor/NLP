@@ -1,1 +1,1 @@
-{"index": 103459, "D": "(used to express or represent a pause, hesitation, uncertainty, etc.).", "S": ["emergency "], "A": []}
+{"index": 103459, "D": "(used to express or represent a pause, hesitation, uncertainty, etc.).", "S": ["emergency"], "A": []}

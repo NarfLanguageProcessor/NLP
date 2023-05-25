@@ -1,1 +1,1 @@
-{"index": 299005, "D": [], "S": ["bolt ", "dart ", "hurry ", "romp ", "scoot ", "scurry ", "scuttle ", "skip ", "sprint ", "trot ", "zip "], "A": ["dawdle ", "slow ", "wait ", "walk ", "face ", "stay "]}
+{"index": 299005, "D": [], "S": ["bolt", "dart", "hurry", "romp", "scoot", "scurry", "scuttle", "skip", "sprint", "trot", "zip"], "A": ["dawdle", "slow", "wait", "walk", "face", "stay"]}

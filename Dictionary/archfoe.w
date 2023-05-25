@@ -1,1 +1,1 @@
-{"index": 18883, "D": [], "S": ["antagonist "], "A": []}
+{"index": 18883, "D": [], "S": ["antagonist"], "A": []}

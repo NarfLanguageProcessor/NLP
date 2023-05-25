@@ -1,1 +1,1 @@
-{"index": 336960, "D": "a simple past tense and past participle of unclothe. ", "S": ["bare ", "disrobed ", "exposed ", "nude ", "peeled ", "stripped ", "unclothed ", "uncovered ", "undraped ", "undressed "], "A": ["dressed ", "clad ", "robed "]}
+{"index": 336960, "D": "a simple past tense and past participle of unclothe. ", "S": ["bare", "disrobed", "exposed", "nude", "peeled", "stripped", "unclothed", "uncovered", "undraped", "undressed"], "A": ["dressed", "clad", "robed"]}

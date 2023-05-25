@@ -1,1 +1,1 @@
-{"index": 134639, "D": "a light  or lamp, usually equipped with a reflector, on the front of an automobile, locomotive, etc.", "S": ["blinder ", "eyeball ", "lamp ", "ocular ", "oculus ", "optic ", "peeper ", "pie "], "A": []}
+{"index": 134639, "D": "a light  or lamp, usually equipped with a reflector, on the front of an automobile, locomotive, etc.", "S": ["blinder", "eyeball", "lamp", "ocular", "oculus", "optic", "peeper", "pie"], "A": []}

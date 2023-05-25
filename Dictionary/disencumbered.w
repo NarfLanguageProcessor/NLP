@@ -1,1 +1,1 @@
-{"index": 87934, "D": "to free from a burden or other encumbrance; disburden.", "S": ["alleviate ", "disengage ", "lighten ", "relieve ", "rid ", "unload "], "A": ["burden ", "upset "]}
+{"index": 87934, "D": "to free from a burden or other encumbrance; disburden.", "S": ["alleviate", "disengage", "lighten", "relieve", "rid", "unload"], "A": ["burden", "upset"]}

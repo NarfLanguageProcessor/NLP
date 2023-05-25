@@ -1,1 +1,1 @@
-{"index": 239589, "D": "an appeal or entreaty", "S": ["appeal ", "application ", "entreaty ", "overture ", "petition ", "prayer ", "solicitation ", "suit "], "A": ["demand "]}
+{"index": 239589, "D": "an appeal or entreaty", "S": ["appeal", "application", "entreaty", "overture", "petition", "prayer", "solicitation", "suit"], "A": ["demand"]}

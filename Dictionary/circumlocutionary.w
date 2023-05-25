@@ -1,1 +1,1 @@
-{"index": 58159, "D": "a roundabout or indirect way of speaking; the use of more words than necessary to express an idea.", "S": ["pleonastic ", "roundabout ", "tautologous "], "A": []}
+{"index": 58159, "D": "a roundabout or indirect way of speaking; the use of more words than necessary to express an idea.", "S": ["pleonastic", "roundabout", "tautologous"], "A": []}

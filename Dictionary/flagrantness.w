@@ -1,1 +1,1 @@
-{"index": 113783, "D": "shockingly noticeable or evident; obvious; glaring", "S": ["atrociousness ", "atrocity ", "blatancy ", "brazenness ", "egregiousness ", "enormity ", "flagrance ", "glaringness ", "grossness ", "heinousness ", "obviousness "], "A": []}
+{"index": 113783, "D": "shockingly noticeable or evident; obvious; glaring", "S": ["atrociousness", "atrocity", "blatancy", "brazenness", "egregiousness", "enormity", "flagrance", "glaringness", "grossness", "heinousness", "obviousness"], "A": []}

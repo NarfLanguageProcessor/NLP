@@ -1,1 +1,1 @@
-{"index": 135799, "D": "serfdom; slavery.", "S": ["enslavement ", "serfdom ", "servitude ", "subjugation ", "yoke "], "A": ["freedom ", "independence "]}
+{"index": 135799, "D": "serfdom; slavery.", "S": ["enslavement", "serfdom", "servitude", "subjugation", "yoke"], "A": ["freedom", "independence"]}

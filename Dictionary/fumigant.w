@@ -1,1 +1,1 @@
-{"index": 120078, "D": "any volatile or volatilizable chemical compound used as a disinfectant or pesticide.", "S": ["deodorant ", "detergent ", "purifier ", "soap "], "A": []}
+{"index": 120078, "D": "any volatile or volatilizable chemical compound used as a disinfectant or pesticide.", "S": ["deodorant", "detergent", "purifier", "soap"], "A": []}

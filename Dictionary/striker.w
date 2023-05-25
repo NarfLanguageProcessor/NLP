@@ -1,1 +1,1 @@
-{"index": 306311, "D": "a person or thing that strikes. ", "S": ["marcher ", "radical ", "rioter "], "A": []}
+{"index": 306311, "D": "a person or thing that strikes. ", "S": ["marcher", "radical", "rioter"], "A": []}

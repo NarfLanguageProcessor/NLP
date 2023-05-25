@@ -1,1 +1,1 @@
-{"index": 164870, "D": "a male sovereign or monarch; a man who holds by life tenure, and usually by hereditary right, the chief authority over a country and people.", "S": ["emperor ", "monarch ", "sultan "], "A": []}
+{"index": 164870, "D": "a male sovereign or monarch; a man who holds by life tenure, and usually by hereditary right, the chief authority over a country and people.", "S": ["emperor", "monarch", "sultan"], "A": []}

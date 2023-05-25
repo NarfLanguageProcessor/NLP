@@ -1,1 +1,1 @@
-{"index": 108404, "D": "to take illegally by reason of one's office.", "S": ["coerce ", "elicit ", "exact ", "extract ", "wrest ", "wring "], "A": ["forfeit ", "give ", "let go ", "loosen ", "lose ", "offer ", "surrender ", "yield "]}
+{"index": 108404, "D": "to take illegally by reason of one's office.", "S": ["coerce", "elicit", "exact", "extract", "wrest", "wring"], "A": ["forfeit", "give", "let go", "loosen", "lose", "offer", "surrender", "yield"]}

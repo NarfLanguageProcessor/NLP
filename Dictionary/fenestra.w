@@ -1,1 +1,1 @@
-{"index": 111244, "D": "a small opening or perforation, as in a bone, especially between the middle and inner ear.", "S": ["aperture ", "casement ", "dormer ", "fanlight ", "fenestella ", "jalousie ", "lancet ", "lunette ", "oriel ", "porthole ", "skylight "], "A": []}
+{"index": 111244, "D": "a small opening or perforation, as in a bone, especially between the middle and inner ear.", "S": ["aperture", "casement", "dormer", "fanlight", "fenestella", "jalousie", "lancet", "lunette", "oriel", "porthole", "skylight"], "A": []}

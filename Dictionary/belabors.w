@@ -1,1 +1,1 @@
-{"index": 30956, "D": "to explain, worry about, or work at (something) repeatedly or more than is necessary", "S": ["rehash "], "A": []}
+{"index": 30956, "D": "to explain, worry about, or work at (something) repeatedly or more than is necessary", "S": ["rehash"], "A": []}

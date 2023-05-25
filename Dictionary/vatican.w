@@ -1,1 +1,1 @@
-{"index": 357496, "D": "the chief residence of the popes in Vatican City,  now also including a library, archives, art museum, apartments, and administrative offices.", "S": ["See of Rome ", "papacy ", "papality ", "the Church "], "A": []}
+{"index": 357496, "D": "the chief residence of the popes in Vatican City,  now also including a library, archives, art museum, apartments, and administrative offices.", "S": ["See of Rome", "papacy", "papality", "the Church"], "A": []}

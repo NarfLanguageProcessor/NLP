@@ -1,1 +1,1 @@
-{"index": 276029, "D": "of or pertaining or appropriate to the Sabbath.", "S": ["furlough ", "leave of absence ", "recess ", "time off "], "A": []}
+{"index": 276029, "D": "of or pertaining or appropriate to the Sabbath.", "S": ["furlough", "leave of absence", "recess", "time off"], "A": []}

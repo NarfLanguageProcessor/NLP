@@ -1,1 +1,1 @@
-{"index": 96104, "D": "shining forth brilliantly; radiant. ", "S": ["beaming ", "blazing ", "bright ", "brilliant ", "dazzling ", "flaming ", "fluorescent ", "incandescent ", "lambent ", "lucent ", "lustrous ", "radiant ", "resplendent ", "shining ", "splendid ", "vivid "], "A": []}
+{"index": 96104, "D": "shining forth brilliantly; radiant. ", "S": ["beaming", "blazing", "bright", "brilliant", "dazzling", "flaming", "fluorescent", "incandescent", "lambent", "lucent", "lustrous", "radiant", "resplendent", "shining", "splendid", "vivid"], "A": []}

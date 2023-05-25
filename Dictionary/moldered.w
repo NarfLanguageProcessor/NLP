@@ -1,1 +1,1 @@
-{"index": 191417, "D": "to turn to dust by natural decay; crumble; disintegrate; waste away", "S": ["addled ", "ruined ", "withered "], "A": ["developing ", "flourishing ", "germinating ", "growing ", "improving ", "ripening "]}
+{"index": 191417, "D": "to turn to dust by natural decay; crumble; disintegrate; waste away", "S": ["addled", "ruined", "withered"], "A": ["developing", "flourishing", "germinating", "growing", "improving", "ripening"]}

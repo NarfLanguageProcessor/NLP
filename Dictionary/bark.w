@@ -1,0 +1,1 @@
+{"index": 28043, "D": "the abrupt, harsh, explosive cry of a dog.", "S": ["crust", "husk", "skin"], "A": ["core"]}

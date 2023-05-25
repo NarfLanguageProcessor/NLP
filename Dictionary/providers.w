@@ -1,1 +1,1 @@
-{"index": 254068, "D": "a person or thing that provides. ", "S": ["jobholder ", "laborer ", "worker "], "A": []}
+{"index": 254068, "D": "a person or thing that provides. ", "S": ["jobholder", "laborer", "worker"], "A": []}

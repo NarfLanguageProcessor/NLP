@@ -1,1 +1,1 @@
-{"index": 88147, "D": "to eject or throw out from the throat, mouth, or stomach; vomit forth.", "S": ["regurgitate "], "A": []}
+{"index": 88147, "D": "to eject or throw out from the throat, mouth, or stomach; vomit forth.", "S": ["regurgitate"], "A": []}

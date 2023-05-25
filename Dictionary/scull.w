@@ -1,1 +1,1 @@
-{"index": 282167, "D": "an oar mounted on a fulcrum at the stern of a small boat and moved from side to side to propel the boat forward.", "S": ["blade ", "pole ", "propel ", "row ", "spoon oar ", "sweep "], "A": []}
+{"index": 282167, "D": "an oar mounted on a fulcrum at the stern of a small boat and moved from side to side to propel the boat forward.", "S": ["blade", "pole", "propel", "row", "spoon oar", "sweep"], "A": []}

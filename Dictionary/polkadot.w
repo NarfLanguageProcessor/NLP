@@ -1,1 +1,1 @@
-{"index": 242651, "D": "a dot or round spot (printed, woven, or embroidered) repeated to form a pattern on a textile fabric.", "S": ["daub ", "mottle ", "smudge ", "speckle "], "A": ["clean ", "collect ", "dry ", "gather "]}
+{"index": 242651, "D": "a dot or round spot (printed, woven, or embroidered) repeated to form a pattern on a textile fabric.", "S": ["daub", "mottle", "smudge", "speckle"], "A": ["clean", "collect", "dry", "gather"]}

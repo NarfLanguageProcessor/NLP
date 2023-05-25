@@ -1,0 +1,1 @@
+{"index": 34000, "D": "a thin, flat, folding  case, often of leather, for carrying paper money in the pocket and with fewer compartments than a wallet. ", "S": ["bag", "handbag", "pocket", "pocketbook", "pouch", "wallet"], "A": ["loss"]}

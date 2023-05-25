@@ -1,1 +1,0 @@
-{"index": 315337, "D": "a band  sewn or glued to the tail  of a book.", "S": [], "A": []}

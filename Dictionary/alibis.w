@@ -1,1 +1,1 @@
-{"index": 8187, "D": "the defense by an accused person of having been elsewhere at the time an alleged offense was committed.", "S": ["excuse ", "justification ", "pretext "], "A": ["denial ", "question ", "request "]}
+{"index": 8187, "D": "the defense by an accused person of having been elsewhere at the time an alleged offense was committed.", "S": ["excuse", "justification", "pretext"], "A": ["denial", "question", "request"]}

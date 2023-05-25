@@ -1,1 +1,1 @@
-{"index": 106328, "D": "to develop gradually", "S": ["cognate ", "secondary ", "subordinate "], "A": ["important ", "superior "]}
+{"index": 106328, "D": "to develop gradually", "S": ["cognate", "secondary", "subordinate"], "A": ["important", "superior"]}

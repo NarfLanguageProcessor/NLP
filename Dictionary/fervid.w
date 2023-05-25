@@ -1,1 +1,1 @@
-{"index": 111641, "D": "heated or vehement in spirit, enthusiasm, etc.", "S": ["ardent ", "impassioned "], "A": ["half-hearted "]}
+{"index": 111641, "D": "heated or vehement in spirit, enthusiasm, etc.", "S": ["ardent", "impassioned"], "A": ["half-hearted"]}

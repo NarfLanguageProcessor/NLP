@@ -1,1 +1,1 @@
-{"index": 358673, "D": "(of language) native to a place (opposed to literary).", "S": ["indigenous ", "vulgar "], "A": ["abnormal ", "different ", "extraordinary ", "refined ", "uncommon "]}
+{"index": 358673, "D": "(of language) native to a place (opposed to literary).", "S": ["indigenous", "vulgar"], "A": ["abnormal", "different", "extraordinary", "refined", "uncommon"]}

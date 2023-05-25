@@ -1,1 +1,1 @@
-{"index": 110728, "D": "the state of being feverish.", "S": ["climate ", "cold ", "condition ", "heat ", "warmth "], "A": ["cool "]}
+{"index": 110728, "D": "the state of being feverish.", "S": ["climate", "cold", "condition", "heat", "warmth"], "A": ["cool"]}

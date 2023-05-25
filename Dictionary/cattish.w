@@ -1,1 +1,1 @@
-{"index": 49869, "D": "catlike; feline.", "S": ["bad-tempered ", "catty ", "despiteful ", "hateful ", "malevolent ", "malicious ", "malignant ", "mean ", "nasty ", "overbearing ", "venomous ", "vicious ", "vindictive ", "wicked "], "A": []}
+{"index": 49869, "D": "catlike; feline.", "S": ["bad-tempered", "catty", "despiteful", "hateful", "malevolent", "malicious", "malignant", "mean", "nasty", "overbearing", "venomous", "vicious", "vindictive", "wicked"], "A": []}

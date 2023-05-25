@@ -1,1 +1,1 @@
-{"index": 200894, "D": "an act or instance of nominating,  especially to office", "S": ["choice ", "designation ", "election ", "proposal ", "recommendation ", "selection ", "suggestion "], "A": []}
+{"index": 200894, "D": "an act or instance of nominating,  especially to office", "S": ["choice", "designation", "election", "proposal", "recommendation", "selection", "suggestion"], "A": []}

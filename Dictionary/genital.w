@@ -1,1 +1,1 @@
-{"index": 123610, "D": "of, relating to, or noting reproduction.", "S": ["earthly ", "lewd ", "sensuous ", "wanton "], "A": ["clean ", "decent ", "moral "]}
+{"index": 123610, "D": "of, relating to, or noting reproduction.", "S": ["earthly", "lewd", "sensuous", "wanton"], "A": ["clean", "decent", "moral"]}

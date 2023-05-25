@@ -1,1 +1,1 @@
-{"index": 154042, "D": "not sufficient; lacking in what is necessary or required", "S": ["inadequately "], "A": []}
+{"index": 154042, "D": "not sufficient; lacking in what is necessary or required", "S": ["inadequately"], "A": []}

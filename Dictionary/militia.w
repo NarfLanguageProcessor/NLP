@@ -1,1 +1,1 @@
-{"index": 187214, "D": "a body of citizens enrolled for military service, and called out periodically for drill but serving full time only in emergencies.", "S": ["commandos ", "reserves ", "soldiers "], "A": []}
+{"index": 187214, "D": "a body of citizens enrolled for military service, and called out periodically for drill but serving full time only in emergencies.", "S": ["commandos", "reserves", "soldiers"], "A": []}

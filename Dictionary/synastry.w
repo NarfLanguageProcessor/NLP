@@ -1,1 +1,0 @@
-{"index": 291328, "D": "the comparison of two or more natal charts in order to analyze or forecast the interaction of the individuals involved.", "S": [], "A": []}

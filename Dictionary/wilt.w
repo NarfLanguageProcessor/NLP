@@ -1,1 +1,0 @@
-{"index": 365846, "D": "to become limp and drooping, as a fading flower; wither. ", "S": ["cave in ", "diminish ", "droop ", "dwindle ", "ebb ", "fade ", "faint ", "melt ", "shrivel ", "succumb ", "wane ", "wither "], "A": ["develop ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "rise ", "build ", "strengthen "]}

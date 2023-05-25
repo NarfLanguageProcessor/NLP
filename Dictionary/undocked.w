@@ -1,1 +1,1 @@
-{"index": 340718, "D": "to uncouple (two spacecraft modules or a spacecraft and space station).", "S": ["entire ", "exhaustive ", "full ", "outright ", "thorough "], "A": ["incomplete "]}
+{"index": 340718, "D": "to uncouple (two spacecraft modules or a spacecraft and space station).", "S": ["entire", "exhaustive", "full", "outright", "thorough"], "A": ["incomplete"]}

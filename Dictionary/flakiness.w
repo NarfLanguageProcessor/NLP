@@ -1,1 +1,1 @@
-{"index": 113829, "D": "of or like flakes. ", "S": ["absurdity ", "idiocy ", "insanity ", "lunacy ", "madness ", "nonsense ", "nuttiness ", "silliness "], "A": ["sense "]}
+{"index": 113829, "D": "of or like flakes. ", "S": ["absurdity", "idiocy", "insanity", "lunacy", "madness", "nonsense", "nuttiness", "silliness"], "A": ["sense"]}

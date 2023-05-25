@@ -1,1 +1,1 @@
-{"index": 138898, "D": "Compare aeroculture, geoponics (def. 2). ", "S": ["agriculture ", "breeding ", "cultivation ", "culture ", "gardening ", "grazing ", "production ", "ranching "], "A": ["destruction "]}
+{"index": 138898, "D": "Compare aeroculture, geoponics (def. 2). ", "S": ["agriculture", "breeding", "cultivation", "culture", "gardening", "grazing", "production", "ranching"], "A": ["destruction"]}

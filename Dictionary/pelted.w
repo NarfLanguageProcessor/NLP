@@ -1,1 +1,1 @@
-{"index": 229414, "D": "to attack or assail with repeated blows or with missiles.", "S": ["assail ", "batter ", "bombard ", "hurl ", "pepper ", "pummel ", "shower "], "A": ["lose ", "slow ", "tap "]}
+{"index": 229414, "D": "to attack or assail with repeated blows or with missiles.", "S": ["assail", "batter", "bombard", "hurl", "pepper", "pummel", "shower"], "A": ["lose", "slow", "tap"]}

@@ -1,1 +1,1 @@
-{"index": 119955, "D": "entirely or wholly", "S": ["absolutely ", "entirely ", "perfectly ", "positively ", "quite ", "thoroughly ", "totally ", "wholly "], "A": ["incompletely ", "partially "]}
+{"index": 119955, "D": "entirely or wholly", "S": ["absolutely", "entirely", "perfectly", "positively", "quite", "thoroughly", "totally", "wholly"], "A": ["incompletely", "partially"]}

@@ -1,1 +1,1 @@
-{"index": 107058, "D": "bodily or mental exertion, especially for the sake of training or improvement of health", "S": ["contest ", "drill ", "events ", "games ", "practice ", "recreation ", "workout "], "A": []}
+{"index": 107058, "D": "bodily or mental exertion, especially for the sake of training or improvement of health", "S": ["contest", "drill", "events", "games", "practice", "recreation", "workout"], "A": []}

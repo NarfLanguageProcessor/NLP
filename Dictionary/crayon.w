@@ -1,1 +1,1 @@
-{"index": 71945, "D": "a pointed stick or pencil of colored clay, chalk, wax, etc., used for drawing or coloring.", "S": ["pastel "], "A": []}
+{"index": 71945, "D": "a pointed stick or pencil of colored clay, chalk, wax, etc., used for drawing or coloring.", "S": ["pastel"], "A": []}

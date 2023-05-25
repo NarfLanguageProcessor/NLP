@@ -1,1 +1,1 @@
-{"index": 231643, "D": "to cause (something) to undergo permutation.", "S": ["refurbish "], "A": []}
+{"index": 231643, "D": "to cause (something) to undergo permutation.", "S": ["refurbish"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 128530, "D": "a degree or step in a scale, as of rank, advancement, quality, value, or intensity", "S": ["category ", "class ", "classification ", "condition ", "degree ", "level ", "quality ", "size ", "standard "], "A": ["disorganization ", "unemployment "]}
+{"index": 128530, "D": "a degree or step in a scale, as of rank, advancement, quality, value, or intensity", "S": ["category", "class", "classification", "condition", "degree", "level", "quality", "size", "standard"], "A": ["disorganization", "unemployment"]}

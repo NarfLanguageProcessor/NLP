@@ -1,1 +1,1 @@
-{"index": 360969, "D": "a course of travel or passage, especially a long journey by water to a distant place.", "S": ["fly ", "proceed ", "ramble ", "roam ", "traverse ", "trek ", "wander ", "wend "], "A": ["stay ", "break "]}
+{"index": 360969, "D": "a course of travel or passage, especially a long journey by water to a distant place.", "S": ["fly", "proceed", "ramble", "roam", "traverse", "trek", "wander", "wend"], "A": ["stay", "break"]}

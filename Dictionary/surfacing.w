@@ -1,1 +1,1 @@
-{"index": 313393, "D": "the action or process of giving a finished surface  to something.", "S": ["appear ", "arise ", "come up ", "crop up ", "emerge ", "flare up ", "materialize "], "A": ["disappear "]}
+{"index": 313393, "D": "the action or process of giving a finished surface  to something.", "S": ["appear", "arise", "come up", "crop up", "emerge", "flare up", "materialize"], "A": ["disappear"]}

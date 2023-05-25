@@ -1,1 +1,1 @@
-{"index": 321684, "D": "to make or become thick or thicker.", "S": ["fixed ", "full-bodied ", "potent ", "rich ", "robust "], "A": ["weak ", "incomplete ", "unfinished "]}
+{"index": 321684, "D": "to make or become thick or thicker.", "S": ["fixed", "full-bodied", "potent", "rich", "robust"], "A": ["weak", "incomplete", "unfinished"]}

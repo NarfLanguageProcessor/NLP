@@ -1,1 +1,1 @@
-{"index": 52871, "D": "a person who pretends or claims to have more knowledge or skill than they possess; fraud; quack.", "S": ["con artist "], "A": ["honesty "]}
+{"index": 52871, "D": "a person who pretends or claims to have more knowledge or skill than they possess; fraud; quack.", "S": ["con artist"], "A": ["honesty"]}

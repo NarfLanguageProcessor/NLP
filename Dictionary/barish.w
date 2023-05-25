@@ -1,0 +1,1 @@
+{"index": 28014, "D": "without covering or clothing; naked; nude", "S": [], "A": []}

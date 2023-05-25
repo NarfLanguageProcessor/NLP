@@ -1,1 +1,1 @@
-{"index": 95049, "D": "overflowing with fervor, enthusiasm, or excitement; high-spirited", "S": ["agitated ", "brash ", "buoyant ", "chipper ", "effervescent ", "effusive ", "elated ", "exuberant ", "irrepressible "], "A": ["depressed ", "down ", "serious ", "unenthusiastic ", "unhappy "]}
+{"index": 95049, "D": "overflowing with fervor, enthusiasm, or excitement; high-spirited", "S": ["agitated", "brash", "buoyant", "chipper", "effervescent", "effusive", "elated", "exuberant", "irrepressible"], "A": ["depressed", "down", "serious", "unenthusiastic", "unhappy"]}

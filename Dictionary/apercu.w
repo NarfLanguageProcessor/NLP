@@ -1,1 +1,1 @@
-{"index": 16725, "D": "a hasty glance; a glimpse. ", "S": ["analysis ", "audit ", "critique ", "examination ", "sketch ", "synopsis "], "A": []}
+{"index": 16725, "D": "a hasty glance; a glimpse. ", "S": ["analysis", "audit", "critique", "examination", "sketch", "synopsis"], "A": []}

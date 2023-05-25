@@ -1,1 +1,0 @@
-{"index": 363845, "D": "with effect from", "S": [], "A": []}

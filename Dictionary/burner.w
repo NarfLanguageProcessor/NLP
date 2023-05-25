@@ -1,1 +1,1 @@
-{"index": 43210, "D": "a person or thing that burns. ", "S": ["heater ", "lamp "], "A": []}
+{"index": 43210, "D": "a person or thing that burns. ", "S": ["heater", "lamp"], "A": []}

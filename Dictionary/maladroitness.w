@@ -1,1 +1,1 @@
-{"index": 178217, "D": "lacking in adroitness; unskillful; awkward; bungling; tactless", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}
+{"index": 178217, "D": "lacking in adroitness; unskillful; awkward; bungling; tactless", "S": ["ignorance", "ineptitude"], "A": ["politeness", "sophistication"]}

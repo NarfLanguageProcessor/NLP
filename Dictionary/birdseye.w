@@ -1,1 +1,1 @@
-{"index": 34792, "D": "seen from above, as by a bird in flight; panoramic", "S": ["scenic "], "A": []}
+{"index": 34792, "D": "seen from above, as by a bird in flight; panoramic", "S": ["scenic"], "A": []}

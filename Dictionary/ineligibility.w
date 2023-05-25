@@ -1,1 +1,1 @@
-{"index": 151515, "D": "not eligible;  not permitted or suitable", "S": ["elimination ", "exclusion "], "A": ["ability ", "aptitude ", "capability "]}
+{"index": 151515, "D": "not eligible;  not permitted or suitable", "S": ["elimination", "exclusion"], "A": ["ability", "aptitude", "capability"]}

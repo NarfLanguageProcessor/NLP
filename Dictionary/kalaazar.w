@@ -1,1 +1,0 @@
-{"index": 162849, "D": "a chronic, usually fatal disease occurring in tropical areas of Asia and the Western Hemisphere, characterized by irregular fever, enlargement of the spleen, anemia, and emaciation, caused by the protozoan Leishmania donovani.", "S": [], "A": []}

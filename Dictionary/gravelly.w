@@ -1,1 +1,1 @@
-{"index": 129321, "D": "of, like, or abounding in gravel. ", "S": ["dusty ", "grainy ", "rough "], "A": ["afraid ", "cowardly ", "fine ", "smooth ", "spineless "]}
+{"index": 129321, "D": "of, like, or abounding in gravel. ", "S": ["dusty", "grainy", "rough"], "A": ["afraid", "cowardly", "fine", "smooth", "spineless"]}

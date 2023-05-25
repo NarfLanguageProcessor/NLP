@@ -1,1 +1,1 @@
-{"index": 91666, "D": "of or relating to Doris, its inhabitants, or their dialect.", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}
+{"index": 91666, "D": "of or relating to Doris, its inhabitants, or their dialect.", "S": ["classic", "humanistic"], "A": ["complicated", "modern"]}

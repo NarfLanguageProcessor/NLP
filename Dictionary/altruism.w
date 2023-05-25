@@ -1,1 +1,1 @@
-{"index": 9569, "D": "the principle or practice of unselfish concern for or devotion to the welfare of others (opposed to egoism).", "S": ["benevolence ", "humanitarianism ", "kindness ", "selflessness "], "A": ["egoism ", "selfishness "]}
+{"index": 9569, "D": "the principle or practice of unselfish concern for or devotion to the welfare of others (opposed to egoism).", "S": ["benevolence", "humanitarianism", "kindness", "selflessness"], "A": ["egoism", "selfishness"]}

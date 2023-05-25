@@ -1,1 +1,1 @@
-{"index": 52270, "D": "Scottish publisher and editor.", "S": ["accommodation ", "cave ", "condo ", "flat ", "penthouse ", "residence ", "suite "], "A": []}
+{"index": 52270, "D": "Scottish publisher and editor.", "S": ["accommodation", "cave", "condo", "flat", "penthouse", "residence", "suite"], "A": []}

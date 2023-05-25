@@ -1,1 +1,1 @@
-{"index": 367139, "D": "covered with or abounding in woods  or trees.", "S": ["forested "], "A": []}
+{"index": 367139, "D": "covered with or abounding in woods  or trees.", "S": ["forested"], "A": []}

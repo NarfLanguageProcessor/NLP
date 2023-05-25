@@ -1,1 +1,1 @@
-{"index": 261580, "D": "a person who reads. ", "S": ["bibliophile ", "bookworm ", "editor ", "proofreader "], "A": []}
+{"index": 261580, "D": "a person who reads. ", "S": ["bibliophile", "bookworm", "editor", "proofreader"], "A": []}

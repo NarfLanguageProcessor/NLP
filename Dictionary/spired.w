@@ -1,1 +1,1 @@
-{"index": 300062, "D": "having a spire. ", "S": ["convolute "], "A": ["straighten ", "untwist "]}
+{"index": 300062, "D": "having a spire. ", "S": ["convolute"], "A": ["straighten", "untwist"]}

@@ -1,1 +1,1 @@
-{"index": 135027, "D": "of great weight; hard to lift or carry", "S": ["denseness ", "density ", "mass ", "thickness ", "weight "], "A": ["thinness "]}
+{"index": 135027, "D": "of great weight; hard to lift or carry", "S": ["denseness", "density", "mass", "thickness", "weight"], "A": ["thinness"]}

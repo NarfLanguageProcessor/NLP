@@ -1,1 +1,1 @@
-{"index": 315382, "D": "Compare dressmaker (def. 2). ", "S": ["bespoke ", "sewn "], "A": []}
+{"index": 315382, "D": "Compare dressmaker (def. 2). ", "S": ["bespoke", "sewn"], "A": []}

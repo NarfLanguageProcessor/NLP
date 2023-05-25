@@ -1,1 +1,1 @@
-{"index": 181496, "D": "characterized by sickly sentimentality; weakly emotional; maudlin.", "S": ["cloying ", "gooey ", "maudlin ", "mushy ", "sappy ", "sloppy ", "teary "], "A": ["calm ", "serious ", "unemotional "]}
+{"index": 181496, "D": "characterized by sickly sentimentality; weakly emotional; maudlin.", "S": ["cloying", "gooey", "maudlin", "mushy", "sappy", "sloppy", "teary"], "A": ["calm", "serious", "unemotional"]}

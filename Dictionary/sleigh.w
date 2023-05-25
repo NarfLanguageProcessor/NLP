@@ -1,1 +1,1 @@
-{"index": 293951, "D": "a light vehicle on runners, usually open and generally horse-drawn, used especially for transporting persons over snow or ice.", "S": ["bobsled ", "dogsled ", "luge ", "sledge ", "toboggan "], "A": []}
+{"index": 293951, "D": "a light vehicle on runners, usually open and generally horse-drawn, used especially for transporting persons over snow or ice.", "S": ["bobsled", "dogsled", "luge", "sledge", "toboggan"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 201629, "D": [], "S": ["nihilism "], "A": ["belief ", "trust "]}
+{"index": 201629, "D": [], "S": ["nihilism"], "A": ["belief", "trust"]}

@@ -1,1 +1,1 @@
-{"index": 208946, "D": "to inform (someone) or give notice  to", "S": ["connection ", "contact ", "conversation ", "delivery ", "intelligence ", "link ", "transmission "], "A": ["quiet ", "denial ", "disagreement ", "silence "]}
+{"index": 208946, "D": "to inform (someone) or give notice  to", "S": ["connection", "contact", "conversation", "delivery", "intelligence", "link", "transmission"], "A": ["quiet", "denial", "disagreement", "silence"]}

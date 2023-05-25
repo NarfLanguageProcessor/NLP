@@ -1,1 +1,1 @@
-{"index": 126092, "D": "the act of a person who gleans. ", "S": ["output ", "produce ", "product ", "yield "], "A": []}
+{"index": 126092, "D": "the act of a person who gleans. ", "S": ["output", "produce", "product", "yield"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 316284, "D": "to strike with a light but audible blow or blows; hit with repeated, slight blows", "S": ["spigot ", "valve "], "A": []}
+{"index": 316284, "D": "to strike with a light but audible blow or blows; hit with repeated, slight blows", "S": ["spigot", "valve"], "A": []}

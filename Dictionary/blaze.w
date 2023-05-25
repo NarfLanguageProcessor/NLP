@@ -1,1 +1,1 @@
-{"index": 35917, "D": "a bright flame or fire", "S": ["bonfire ", "conflagration ", "flame ", "wildfire "], "A": []}
+{"index": 35917, "D": "a bright flame or fire", "S": ["bonfire", "conflagration", "flame", "wildfire"], "A": []}

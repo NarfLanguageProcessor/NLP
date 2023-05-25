@@ -1,1 +1,1 @@
-{"index": 118619, "D": "a person who works as a writer, designer, performer, or the like, selling work or services by the hour, day, job, etc., rather than working on a regular salary basis for one employer.", "S": ["advisor ", "expert ", "specialist ", "veteran "], "A": []}
+{"index": 118619, "D": "a person who works as a writer, designer, performer, or the like, selling work or services by the hour, day, job, etc., rather than working on a regular salary basis for one employer.", "S": ["advisor", "expert", "specialist", "veteran"], "A": []}

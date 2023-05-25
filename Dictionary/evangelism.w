@@ -1,1 +1,1 @@
-{"index": 106003, "D": "the preaching or promulgation of the gospel; the work of an evangelist. ", "S": ["ministration ", "teaching "], "A": []}
+{"index": 106003, "D": "the preaching or promulgation of the gospel; the work of an evangelist. ", "S": ["ministration", "teaching"], "A": []}

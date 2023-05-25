@@ -1,1 +1,1 @@
-{"index": 181186, "D": [], "S": ["intercourse ", "kissing ", "mating ", "sexual intercourse "], "A": []}
+{"index": 181186, "D": [], "S": ["intercourse", "kissing", "mating", "sexual intercourse"], "A": []}

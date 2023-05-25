@@ -1,1 +1,1 @@
-{"index": 47912, "D": "an occupation or profession, especially one requiring special training, followed as one's lifework", "S": ["course ", "race "], "A": ["amusement ", "avocation ", "entertainment ", "recreation "]}
+{"index": 47912, "D": "an occupation or profession, especially one requiring special training, followed as one's lifework", "S": ["course", "race"], "A": ["amusement", "avocation", "entertainment", "recreation"]}

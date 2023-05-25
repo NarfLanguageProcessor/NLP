@@ -1,1 +1,1 @@
-{"index": 169374, "D": "a person who makes or enacts law; legislator.", "S": ["charter ", "code ", "custom ", "legislation "], "A": []}
+{"index": 169374, "D": "a person who makes or enacts law; legislator.", "S": ["charter", "code", "custom", "legislation"], "A": []}

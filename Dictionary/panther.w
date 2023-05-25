@@ -1,1 +1,1 @@
-{"index": 224941, "D": "the cougar or puma, Felis concolor.", "S": ["cougar "], "A": []}
+{"index": 224941, "D": "the cougar or puma, Felis concolor.", "S": ["cougar"], "A": []}

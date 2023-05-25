@@ -1,1 +1,1 @@
-{"index": 5779, "D": "a later or second thought;  reconsideration.", "S": ["reconsideration ", "review "], "A": ["forethought "]}
+{"index": 5779, "D": "a later or second thought;  reconsideration.", "S": ["reconsideration", "review"], "A": ["forethought"]}

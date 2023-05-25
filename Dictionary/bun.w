@@ -1,1 +1,1 @@
-{"index": 42783, "D": "any of a wide variety of variously shaped bread rolls, usually leavened and slightly sweetened or plain, sometimes containing spices, dried currants, etc.", "S": ["bread ", "doughnut ", "muffin ", "pastry ", "scone "], "A": []}
+{"index": 42783, "D": "any of a wide variety of variously shaped bread rolls, usually leavened and slightly sweetened or plain, sometimes containing spices, dried currants, etc.", "S": ["bread", "doughnut", "muffin", "pastry", "scone"], "A": []}

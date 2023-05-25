@@ -1,1 +1,1 @@
-{"index": 60139, "D": "a hand tool with two cutting blades for clipping fingernails, hedges, etc", "S": ["shears ", "trimmer "], "A": []}
+{"index": 60139, "D": "a hand tool with two cutting blades for clipping fingernails, hedges, etc", "S": ["shears", "trimmer"], "A": []}

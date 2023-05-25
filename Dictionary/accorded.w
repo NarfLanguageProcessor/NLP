@@ -1,1 +1,1 @@
-{"index": 1695, "D": "to be in agreement or harmony; agree. ", "S": ["acceptable ", "allowable ", "allowed ", "approved ", "authorized ", "licensed ", "sanctioned "], "A": ["denied ", "prohibited ", "refused ", "unacceptable "]}
+{"index": 1695, "D": "to be in agreement or harmony; agree. ", "S": ["acceptable", "allowable", "allowed", "approved", "authorized", "licensed", "sanctioned"], "A": ["denied", "prohibited", "refused", "unacceptable"]}

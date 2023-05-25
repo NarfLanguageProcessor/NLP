@@ -1,1 +1,1 @@
-{"index": 341350, "D": "affording entertainment;  amusing; diverting", "S": ["depressing ", "dreary ", "humdrum ", "stale ", "tedious ", "tiresome ", "unexciting "], "A": ["exciting ", "happy "]}
+{"index": 341350, "D": "affording entertainment;  amusing; diverting", "S": ["depressing", "dreary", "humdrum", "stale", "tedious", "tiresome", "unexciting"], "A": ["exciting", "happy"]}

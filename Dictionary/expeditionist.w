@@ -1,1 +1,1 @@
-{"index": 107660, "D": [], "S": ["adventurer ", "commuter ", "hiker ", "migrant ", "passenger ", "pilgrim ", "sailor ", "tourist "], "A": []}
+{"index": 107660, "D": [], "S": ["adventurer", "commuter", "hiker", "migrant", "passenger", "pilgrim", "sailor", "tourist"], "A": []}

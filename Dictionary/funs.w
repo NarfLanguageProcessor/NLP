@@ -1,1 +1,1 @@
-{"index": 120320, "D": "something that provides mirth or amusement", "S": ["amusing ", "enjoyable ", "entertaining ", "lively ", "pleasant "], "A": ["boring ", "disagreeable ", "tiring ", "unpleasant "]}
+{"index": 120320, "D": "something that provides mirth or amusement", "S": ["amusing", "enjoyable", "entertaining", "lively", "pleasant"], "A": ["boring", "disagreeable", "tiring", "unpleasant"]}

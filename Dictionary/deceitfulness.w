@@ -1,1 +1,1 @@
-{"index": 78147, "D": "given to deceiving", "S": ["double-dealing ", "duplicity ", "knavery ", "wile "], "A": ["forthrightness ", "honesty "]}
+{"index": 78147, "D": "given to deceiving", "S": ["double-dealing", "duplicity", "knavery", "wile"], "A": ["forthrightness", "honesty"]}

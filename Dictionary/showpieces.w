@@ -1,1 +1,1 @@
-{"index": 289101, "D": "something that is displayed or exhibited.", "S": ["display ", "masterpiece ", "model "], "A": []}
+{"index": 289101, "D": "something that is displayed or exhibited.", "S": ["display", "masterpiece", "model"], "A": []}

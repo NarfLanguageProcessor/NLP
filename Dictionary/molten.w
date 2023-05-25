@@ -1,1 +1,1 @@
-{"index": 191612, "D": "a past participle of melt1. ", "S": ["fused ", "glowing ", "liquefied ", "smelted "], "A": []}
+{"index": 191612, "D": "a past participle of melt1. ", "S": ["fused", "glowing", "liquefied", "smelted"], "A": []}

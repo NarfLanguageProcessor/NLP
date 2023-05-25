@@ -1,1 +1,1 @@
-{"index": 307200, "D": "existing or situated under water; underwater.", "S": ["broad ", "buried ", "deep-seated ", "far ", "profound ", "rooted ", "wide "], "A": ["shallow ", "superficial "]}
+{"index": 307200, "D": "existing or situated under water; underwater.", "S": ["broad", "buried", "deep-seated", "far", "profound", "rooted", "wide"], "A": ["shallow", "superficial"]}

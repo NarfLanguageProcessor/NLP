@@ -1,1 +1,1 @@
-{"index": 210087, "D": "anything that is visible or tangible and is relatively stable in form.", "S": ["article ", "body ", "commodity ", "gadget ", "item ", "matter ", "phenomenon ", "something ", "substance "], "A": ["nothing ", "nothingness "]}
+{"index": 210087, "D": "anything that is visible or tangible and is relatively stable in form.", "S": ["article", "body", "commodity", "gadget", "item", "matter", "phenomenon", "something", "substance"], "A": ["nothing", "nothingness"]}

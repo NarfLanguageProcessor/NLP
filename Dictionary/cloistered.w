@@ -1,1 +1,1 @@
-{"index": 60369, "D": "secluded from the world; sheltered", "S": ["reclusive ", "sheltered "], "A": ["seen "]}
+{"index": 60369, "D": "secluded from the world; sheltered", "S": ["reclusive", "sheltered"], "A": ["seen"]}

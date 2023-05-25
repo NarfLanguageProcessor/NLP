@@ -1,1 +1,1 @@
-{"index": 190300, "D": "to time badly; perform, say, propose, etc., at a bad or inappropriate time.", "S": ["unseemly ", "untimely "], "A": ["appropriate "]}
+{"index": 190300, "D": "to time badly; perform, say, propose, etc., at a bad or inappropriate time.", "S": ["unseemly", "untimely"], "A": ["appropriate"]}

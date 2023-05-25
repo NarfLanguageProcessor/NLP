@@ -1,1 +1,1 @@
-{"index": 288479, "D": "the destruction or loss of a ship,  as by sinking.", "S": ["derelict ", "leper ", "maroon ", "outcast ", "outlaw ", "pariah ", "renegade ", "reprobate ", "waif "], "A": []}
+{"index": 288479, "D": "the destruction or loss of a ship,  as by sinking.", "S": ["derelict", "leper", "maroon", "outcast", "outlaw", "pariah", "renegade", "reprobate", "waif"], "A": []}

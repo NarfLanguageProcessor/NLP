@@ -1,1 +1,1 @@
-{"index": 195398, "D": [], "S": ["myriad "], "A": ["few ", "numbered "]}
+{"index": 195398, "D": [], "S": ["myriad"], "A": ["few", "numbered"]}

@@ -1,1 +1,1 @@
-{"index": 230374, "D": "one one-hundredth part; 1/100.", "S": ["bonus ", "chunk ", "fee ", "interest ", "proportion ", "rate ", "ratio "], "A": ["whole ", "increase ", "juncture "]}
+{"index": 230374, "D": "one one-hundredth part; 1/100.", "S": ["bonus", "chunk", "fee", "interest", "proportion", "rate", "ratio"], "A": ["whole", "increase", "juncture"]}

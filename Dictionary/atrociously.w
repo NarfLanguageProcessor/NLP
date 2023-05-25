@@ -1,1 +1,1 @@
-{"index": 22874, "D": "extremely or shockingly wicked, cruel, or brutal", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}
+{"index": 22874, "D": "extremely or shockingly wicked, cruel, or brutal", "S": ["ferociously", "fiercely", "mercilessly", "relentlessly", "ruthlessly", "savagely", "viciously"], "A": ["gently", "humanely", "kindly", "nicely"]}

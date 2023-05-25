@@ -1,1 +1,1 @@
-{"index": 89036, "D": "to deprive of spirit,  hope, enthusiasm, etc.; depress; discourage; dishearten.", "S": ["deject ", "demoralize ", "discourage ", "dishearten ", "sadden "], "A": ["encourage ", "hearten ", "inspirit "]}
+{"index": 89036, "D": "to deprive of spirit,  hope, enthusiasm, etc.; depress; discourage; dishearten.", "S": ["deject", "demoralize", "discourage", "dishearten", "sadden"], "A": ["encourage", "hearten", "inspirit"]}

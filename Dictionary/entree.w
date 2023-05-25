@@ -1,1 +1,1 @@
-{"index": 101672, "D": "a dish served as the main course of a meal.", "S": ["admission "], "A": ["blackballing ", "conclusion ", "egress ", "exit ", "rejection "]}
+{"index": 101672, "D": "a dish served as the main course of a meal.", "S": ["admission"], "A": ["blackballing", "conclusion", "egress", "exit", "rejection"]}

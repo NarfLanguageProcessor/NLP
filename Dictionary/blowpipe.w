@@ -1,1 +1,1 @@
-{"index": 36636, "D": "a tube through which a stream of air or gas is forced into a flame to concentrate and increase its heating action.", "S": ["welding torch "], "A": []}
+{"index": 36636, "D": "a tube through which a stream of air or gas is forced into a flame to concentrate and increase its heating action.", "S": ["welding torch"], "A": []}

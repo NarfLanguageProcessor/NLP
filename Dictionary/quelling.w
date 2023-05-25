@@ -1,1 +1,1 @@
-{"index": 258304, "D": "to suppress; put an end to; extinguish", "S": ["covering up ", "curbing ", "holding back ", "repressing ", "repressive ", "silencing ", "stifling ", "subduing ", "withholding "], "A": []}
+{"index": 258304, "D": "to suppress; put an end to; extinguish", "S": ["covering up", "curbing", "holding back", "repressing", "repressive", "silencing", "stifling", "subduing", "withholding"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 190982, "D": "a member of a criminal mob. ", "S": ["criminal ", "crook ", "hoodlum ", "hooligan ", "mafioso ", "racketeer ", "soldier ", "thug "], "A": ["policeman ", "policewoman "]}
+{"index": 190982, "D": "a member of a criminal mob. ", "S": ["criminal", "crook", "hoodlum", "hooligan", "mafioso", "racketeer", "soldier", "thug"], "A": ["policeman", "policewoman"]}

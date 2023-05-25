@@ -1,1 +1,1 @@
-{"index": 328895, "D": "involuntary shaking of the body or limbs, as from disease, fear, weakness, or excitement; a fit of trembling.", "S": ["earthquake ", "shiver ", "upheaval ", "vibration "], "A": ["stillness "]}
+{"index": 328895, "D": "involuntary shaking of the body or limbs, as from disease, fear, weakness, or excitement; a fit of trembling.", "S": ["earthquake", "shiver", "upheaval", "vibration"], "A": ["stillness"]}

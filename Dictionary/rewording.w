@@ -1,1 +1,1 @@
-{"index": 271656, "D": "to put into other words", "S": ["digest ", "explanation ", "rehash ", "rendering ", "rendition ", "rephrasing ", "restatement ", "summary ", "version "], "A": ["quotation "]}
+{"index": 271656, "D": "to put into other words", "S": ["digest", "explanation", "rehash", "rendering", "rendition", "rephrasing", "restatement", "summary", "version"], "A": ["quotation"]}

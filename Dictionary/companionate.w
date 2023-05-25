@@ -1,1 +1,1 @@
-{"index": 64382, "D": "of, by, or like companions. ", "S": ["allocation ", "distribution "], "A": []}
+{"index": 64382, "D": "of, by, or like companions. ", "S": ["allocation", "distribution"], "A": []}

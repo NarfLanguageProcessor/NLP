@@ -1,1 +1,1 @@
-{"index": 28850, "D": "a projecting portion of a rampart or fortification that forms an irregular pentagon attached at the base to the main work.", "S": ["bulwark ", "citadel ", "fortress ", "mainstay ", "stronghold "], "A": ["weak spot ", "weakness "]}
+{"index": 28850, "D": "a projecting portion of a rampart or fortification that forms an irregular pentagon attached at the base to the main work.", "S": ["bulwark", "citadel", "fortress", "mainstay", "stronghold"], "A": ["weak spot", "weakness"]}

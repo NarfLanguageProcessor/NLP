@@ -1,1 +1,1 @@
-{"index": 210771, "D": "the land along the shore of an ocean. ", "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakefront ", "lakeshore ", "lakeside ", "ledge ", "levee ", "reef ", "riverside ", "seaboard ", "seafront ", "shore ", "strand ", "waterfront "], "A": []}
+{"index": 210771, "D": "the land along the shore of an ocean. ", "S": ["beach", "cay", "cliff", "coast", "edge", "embankment", "lakefront", "lakeshore", "lakeside", "ledge", "levee", "reef", "riverside", "seaboard", "seafront", "shore", "strand", "waterfront"], "A": []}

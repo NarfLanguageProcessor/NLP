@@ -1,1 +1,1 @@
-{"index": 122729, "D": "a person in charge of a gate,  usually to identify, count, supervise, etc., the traffic that flows through it.", "S": ["protector "], "A": []}
+{"index": 122729, "D": "a person in charge of a gate,  usually to identify, count, supervise, etc., the traffic that flows through it.", "S": ["protector"], "A": []}

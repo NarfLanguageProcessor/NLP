@@ -1,1 +1,1 @@
-{"index": 66766, "D": "the act of conserving;  prevention of injury, decay, waste, or loss; preservation", "S": ["careful ", "defensive ", "jealous ", "possessive ", "vigilant ", "warm ", "watchful "], "A": ["careless ", "inattentive ", "negligent "]}
+{"index": 66766, "D": "the act of conserving;  prevention of injury, decay, waste, or loss; preservation", "S": ["careful", "defensive", "jealous", "possessive", "vigilant", "warm", "watchful"], "A": ["careless", "inattentive", "negligent"]}

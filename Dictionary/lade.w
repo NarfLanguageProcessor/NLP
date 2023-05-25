@@ -1,1 +1,1 @@
-{"index": 167167, "D": "to put (something) on or in, as a burden, load, or cargo; load.", "S": ["douse ", "load "], "A": ["dehydrate ", "dirty ", "dry ", "increase ", "rise "]}
+{"index": 167167, "D": "to put (something) on or in, as a burden, load, or cargo; load.", "S": ["douse", "load"], "A": ["dehydrate", "dirty", "dry", "increase", "rise"]}

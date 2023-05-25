@@ -1,1 +1,1 @@
-{"index": 302446, "D": "a passageway from one level, as of a building, to another by a series of stairs;  staircase.", "S": ["staircase ", "stairwell "], "A": []}
+{"index": 302446, "D": "a passageway from one level, as of a building, to another by a series of stairs;  staircase.", "S": ["staircase", "stairwell"], "A": []}

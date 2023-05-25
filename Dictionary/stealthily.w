@@ -1,1 +1,1 @@
-{"index": 303273, "D": "in a way that is secret and quietly careful; furtively or surreptitiously", "S": ["clandestinely ", "covertly ", "furtively ", "secretly ", "slyly ", "surreptitiously "], "A": []}
+{"index": 303273, "D": "in a way that is secret and quietly careful; furtively or surreptitiously", "S": ["clandestinely", "covertly", "furtively", "secretly", "slyly", "surreptitiously"], "A": []}

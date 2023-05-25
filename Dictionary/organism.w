@@ -1,1 +1,1 @@
-{"index": 214382, "D": "a form of life composed of mutually interdependent parts that maintain various vital processes.", "S": ["animal ", "creature ", "structure "], "A": ["abstract ", "animal ", "concept ", "inanimate "]}
+{"index": 214382, "D": "a form of life composed of mutually interdependent parts that maintain various vital processes.", "S": ["animal", "creature", "structure"], "A": ["abstract", "animal", "concept", "inanimate"]}

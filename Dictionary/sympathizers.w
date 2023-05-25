@@ -1,1 +1,1 @@
-{"index": 290959, "D": "a person who sympathizes. ", "S": ["friend "], "A": []}
+{"index": 290959, "D": "a person who sympathizes. ", "S": ["friend"], "A": []}

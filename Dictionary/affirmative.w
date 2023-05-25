@@ -1,1 +1,1 @@
-{"index": 5397, "D": "affirming  or assenting; asserting the truth, validity, or fact of something.", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}
+{"index": 5397, "D": "affirming  or assenting; asserting the truth, validity, or fact of something.", "S": ["affirmatory", "approving", "positive", "supporting"], "A": ["dissenting", "negative"]}

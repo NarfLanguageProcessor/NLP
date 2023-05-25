@@ -1,1 +1,1 @@
-{"index": 294727, "D": "excessively or unctuously flattering, ingratiating, servile, etc.", "S": ["smug "], "A": []}
+{"index": 294727, "D": "excessively or unctuously flattering, ingratiating, servile, etc.", "S": ["smug"], "A": []}

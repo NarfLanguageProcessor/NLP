@@ -1,1 +1,1 @@
-{"index": 216456, "D": "to put out of date; make antiquated or obsolete", "S": ["date ", "go extinct ", "obsolete ", "superannuate "], "A": []}
+{"index": 216456, "D": "to put out of date; make antiquated or obsolete", "S": ["date", "go extinct", "obsolete", "superannuate"], "A": []}

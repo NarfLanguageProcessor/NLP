@@ -1,1 +1,1 @@
-{"index": 21162, "D": "masonry made of them.", "S": ["brickwork ", "stonework ", "trade "], "A": []}
+{"index": 21162, "D": "masonry made of them.", "S": ["brickwork", "stonework", "trade"], "A": []}

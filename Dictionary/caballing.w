@@ -1,1 +1,1 @@
-{"index": 43864, "D": "a small group of secret plotters, as against a government or person in authority.", "S": ["conspire ", "devise ", "hatch ", "operate ", "sketch "], "A": ["destroy ", "disorganize ", "leave alone ", "neglect "]}
+{"index": 43864, "D": "a small group of secret plotters, as against a government or person in authority.", "S": ["conspire", "devise", "hatch", "operate", "sketch"], "A": ["destroy", "disorganize", "leave alone", "neglect"]}

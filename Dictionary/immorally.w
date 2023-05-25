@@ -1,1 +1,1 @@
-{"index": 148067, "D": "violating moral  principles; not conforming to the patterns of conduct usually accepted or established as consistent with principles of personal and social ethics.", "S": ["unethically ", "unrighteously ", "wickedly ", "wrongly "], "A": []}
+{"index": 148067, "D": "violating moral  principles; not conforming to the patterns of conduct usually accepted or established as consistent with principles of personal and social ethics.", "S": ["unethically", "unrighteously", "wickedly", "wrongly"], "A": []}

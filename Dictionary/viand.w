@@ -1,1 +1,1 @@
-{"index": 359244, "D": "an article of food.", "S": ["bread ", "cooking ", "cuisine ", "drink ", "fare ", "feed ", "foodstuff ", "meal ", "meat ", "snack "], "A": ["deprivation ", "starvation "]}
+{"index": 359244, "D": "an article of food.", "S": ["bread", "cooking", "cuisine", "drink", "fare", "feed", "foodstuff", "meal", "meat", "snack"], "A": ["deprivation", "starvation"]}

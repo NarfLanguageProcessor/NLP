@@ -1,1 +1,1 @@
-{"index": 76910, "D": "a recklessly daring  person.", "S": ["adventurer ", "stuntman "], "A": []}
+{"index": 76910, "D": "a recklessly daring  person.", "S": ["adventurer", "stuntman"], "A": []}

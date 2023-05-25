@@ -1,1 +1,1 @@
-{"index": 158079, "D": "the act or process of smoothing or pressing clothes, linens, etc., with a heated iron. ", "S": ["housekeeping ", "sewing "], "A": []}
+{"index": 158079, "D": "the act or process of smoothing or pressing clothes, linens, etc., with a heated iron. ", "S": ["housekeeping", "sewing"], "A": []}

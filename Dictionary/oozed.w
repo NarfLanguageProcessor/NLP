@@ -1,1 +1,1 @@
-{"index": 213145, "D": "(of moisture, liquid, etc.) to flow, percolate, or exude slowly, as through holes or small openings.", "S": ["bleed ", "drain ", "dribble ", "exude ", "leak ", "percolate ", "seep ", "trickle "], "A": ["pour ", "hold ", "keep "]}
+{"index": 213145, "D": "(of moisture, liquid, etc.) to flow, percolate, or exude slowly, as through holes or small openings.", "S": ["bleed", "drain", "dribble", "exude", "leak", "percolate", "seep", "trickle"], "A": ["pour", "hold", "keep"]}

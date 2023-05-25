@@ -1,1 +1,1 @@
-{"index": 335564, "D": "not balanced  or not properly balanced. ", "S": ["irregular ", "lopsided ", "top-heavy ", "unequal ", "uneven ", "unstable ", "unsteady ", "wobbly "], "A": ["balanced ", "even ", "level ", "smooth ", "stable ", "steady "]}
+{"index": 335564, "D": "not balanced  or not properly balanced. ", "S": ["irregular", "lopsided", "top-heavy", "unequal", "uneven", "unstable", "unsteady", "wobbly"], "A": ["balanced", "even", "level", "smooth", "stable", "steady"]}

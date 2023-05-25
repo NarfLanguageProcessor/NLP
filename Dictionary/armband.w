@@ -1,1 +1,1 @@
-{"index": 19896, "D": "a fabric band  worn around the upper arm  as a badge or symbol; brassard.", "S": ["collar ", "force ", "necklace ", "revolution ", "turn ", "twist "], "A": ["stagnation "]}
+{"index": 19896, "D": "a fabric band  worn around the upper arm  as a badge or symbol; brassard.", "S": ["collar", "force", "necklace", "revolution", "turn", "twist"], "A": ["stagnation"]}

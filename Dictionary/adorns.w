@@ -1,0 +1,1 @@
+{"index": 4356, "D": "to decorate or add beauty to, as by ornaments", "S": ["beautify", "bedeck", "deck", "dress up", "embellish", "grace", "spruce up", "trim"], "A": ["disfigure", "mar", "spoil", "decrease", "reduce"]}

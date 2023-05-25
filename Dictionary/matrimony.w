@@ -1,1 +1,1 @@
-{"index": 181259, "D": "the state of being married; marriage", "S": ["alliance ", "bells ", "marriage ", "match ", "nuptials ", "union ", "wedding ", "wedlock "], "A": ["divorce ", "separation "]}
+{"index": 181259, "D": "the state of being married; marriage", "S": ["alliance", "bells", "marriage", "match", "nuptials", "union", "wedding", "wedlock"], "A": ["divorce", "separation"]}

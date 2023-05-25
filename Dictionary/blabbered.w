@@ -1,1 +1,1 @@
-{"index": 35421, "D": "to reveal indiscreetly and thoughtlessly", "S": ["babble ", "blabber ", "blather ", "gab ", "gabble ", "prate ", "prattle ", "ramble ", "twaddle ", "waffle "], "A": ["be quiet "]}
+{"index": 35421, "D": "to reveal indiscreetly and thoughtlessly", "S": ["babble", "blabber", "blather", "gab", "gabble", "prate", "prattle", "ramble", "twaddle", "waffle"], "A": ["be quiet"]}

@@ -1,1 +1,1 @@
-{"index": 153659, "D": "insistence. ", "S": ["emphasis ", "importunity ", "perseverance ", "persistence ", "persistency ", "pressing ", "urging "], "A": ["idleness ", "indolence "]}
+{"index": 153659, "D": "insistence. ", "S": ["emphasis", "importunity", "perseverance", "persistence", "persistency", "pressing", "urging"], "A": ["idleness", "indolence"]}

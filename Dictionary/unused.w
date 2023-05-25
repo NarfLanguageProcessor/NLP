@@ -1,1 +1,1 @@
-{"index": 353590, "D": "not used;  not put to use", "S": ["pristine ", "untouched "], "A": ["used "]}
+{"index": 353590, "D": "not used;  not put to use", "S": ["pristine", "untouched"], "A": ["used"]}

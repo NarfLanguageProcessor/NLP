@@ -1,1 +1,1 @@
-{"index": 105636, "D": "pertaining to or characterized by euphony. ", "S": ["euphonical "], "A": []}
+{"index": 105636, "D": "pertaining to or characterized by euphony. ", "S": ["euphonical"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 242757, "D": [], "S": [], "A": []}
+{"index": 242757, "D": "made unclean or impure; contaminated; tainted", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 293830, "D": "one of a group of peoples in eastern, southeastern, and central Europe, including the Russians and Ruthenians (Eastern Slavs ), the Bulgars, Serbs, Croats, Slavonians, Slovenians, etc. (Southern Slavs ), and the Poles, Czechs, Moravians, Slovaks, etc. (Western Slavs ).", "S": [], "A": []}

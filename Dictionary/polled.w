@@ -1,1 +1,1 @@
-{"index": 242672, "D": "hornless, especially genetically hornless, as the Aberdeen Angus.", "S": ["ballot ", "count ", "opinion ", "survey ", "vote ", "voting "], "A": []}
+{"index": 242672, "D": "hornless, especially genetically hornless, as the Aberdeen Angus.", "S": ["ballot", "count", "opinion", "survey", "vote", "voting"], "A": []}

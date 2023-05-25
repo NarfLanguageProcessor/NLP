@@ -1,1 +1,1 @@
-{"index": 87632, "D": "to deduct a certain amount from (a bill, charge, etc.)", "S": ["allowance ", "concession ", "decrease ", "deduction ", "exemption ", "premium ", "rebate "], "A": ["addition ", "increase "]}
+{"index": 87632, "D": "to deduct a certain amount from (a bill, charge, etc.)", "S": ["allowance", "concession", "decrease", "deduction", "exemption", "premium", "rebate"], "A": ["addition", "increase"]}

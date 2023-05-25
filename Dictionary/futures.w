@@ -1,1 +1,1 @@
-{"index": 120716, "D": "futures contract; futures market", "S": ["eventual ", "forthcoming ", "imminent ", "impending ", "planned ", "prospective ", "subsequent ", "ultimate "], "A": ["distant ", "later ", "past "]}
+{"index": 120716, "D": "futures contract; futures market", "S": ["eventual", "forthcoming", "imminent", "impending", "planned", "prospective", "subsequent", "ultimate"], "A": ["distant", "later", "past"]}

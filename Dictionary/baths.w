@@ -1,1 +1,1 @@
-{"index": 29007, "D": "a washing or immersion of something, especially the body, in water, steam, etc., as for cleansing or medical treatment", "S": ["fountain ", "geyser ", "hydrolysate ", "spa ", "wells "], "A": []}
+{"index": 29007, "D": "a washing or immersion of something, especially the body, in water, steam, etc., as for cleansing or medical treatment", "S": ["fountain", "geyser", "hydrolysate", "spa", "wells"], "A": []}

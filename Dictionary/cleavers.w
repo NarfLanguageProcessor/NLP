@@ -1,1 +1,1 @@
-{"index": 59694, "D": "a North American plant, Galium aparine, of the madder family, having short, hooked bristles on the stems and leaves and bearing very small white flowers.", "S": ["axe ", "foe ", "hatchet ", "knife ", "river "], "A": []}
+{"index": 59694, "D": "a North American plant, Galium aparine, of the madder family, having short, hooked bristles on the stems and leaves and bearing very small white flowers.", "S": ["axe", "foe", "hatchet", "knife", "river"], "A": []}

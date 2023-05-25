@@ -1,1 +1,1 @@
-{"index": 106303, "D": "to call up or produce (memories, feelings, etc.)", "S": ["commemorated ", "memorialized ", "memorized ", "recalled ", "recollected ", "retained "], "A": ["forgotten ", "lost ", "overlooked "]}
+{"index": 106303, "D": "to call up or produce (memories, feelings, etc.)", "S": ["commemorated", "memorialized", "memorized", "recalled", "recollected", "retained"], "A": ["forgotten", "lost", "overlooked"]}

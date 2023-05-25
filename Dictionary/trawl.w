@@ -1,1 +1,1 @@
-{"index": 328634, "D": "a strong fishing net for dragging along the sea bottom.", "S": ["drag ", "dragnet ", "line ", "net ", "seine ", "troll "], "A": []}
+{"index": 328634, "D": "a strong fishing net for dragging along the sea bottom.", "S": ["drag", "dragnet", "line", "net", "seine", "troll"], "A": []}

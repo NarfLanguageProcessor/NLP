@@ -1,1 +1,1 @@
-{"index": 237959, "D": "the art of making fireworks.", "S": ["pyrotechny ", "rockets "], "A": []}
+{"index": 237959, "D": "the art of making fireworks.", "S": ["pyrotechny", "rockets"], "A": []}

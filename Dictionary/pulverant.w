@@ -1,1 +1,1 @@
-{"index": 256434, "D": [], "S": ["dusty ", "grainy ", "rough "], "A": ["afraid ", "cowardly ", "fine ", "smooth ", "spineless "]}
+{"index": 256434, "D": [], "S": ["dusty", "grainy", "rough"], "A": ["afraid", "cowardly", "fine", "smooth", "spineless"]}

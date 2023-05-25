@@ -1,1 +1,1 @@
-{"index": 329993, "D": "to sing or play with a vibratory or quavering effect.", "S": ["quaver ", "vibrate ", "vibrato "], "A": []}
+{"index": 329993, "D": "to sing or play with a vibratory or quavering effect.", "S": ["quaver", "vibrate", "vibrato"], "A": []}

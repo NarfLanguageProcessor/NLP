@@ -1,1 +1,0 @@
-{"index": 182345, "D": [], "S": ["galaxy ", "solar system "], "A": []}

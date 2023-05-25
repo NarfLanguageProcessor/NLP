@@ -1,1 +1,1 @@
-{"index": 74177, "D": "apt to crumble;  friable.", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}
+{"index": 74177, "D": "apt to crumble;  friable.", "S": ["powdery", "soft"], "A": ["flexible", "pliable"]}

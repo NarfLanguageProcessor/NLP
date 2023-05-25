@@ -1,1 +1,1 @@
-{"index": 25067, "D": "with a turn or twist to one side; askew", "S": ["amiss ", "askew ", "astray ", "wrong "], "A": ["even ", "straight ", "true "]}
+{"index": 25067, "D": "with a turn or twist to one side; askew", "S": ["amiss", "askew", "astray", "wrong"], "A": ["even", "straight", "true"]}

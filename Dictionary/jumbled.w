@@ -1,1 +1,1 @@
-{"index": 162265, "D": "to mix in a confused mass; put or throw together without order", "S": ["chaotic ", "cluttered ", "messy ", "tangled ", "untidy "], "A": ["clean ", "ordered ", "organized ", "methodical ", "neat ", "systematic ", "systematized "]}
+{"index": 162265, "D": "to mix in a confused mass; put or throw together without order", "S": ["chaotic", "cluttered", "messy", "tangled", "untidy"], "A": ["clean", "ordered", "organized", "methodical", "neat", "systematic", "systematized"]}

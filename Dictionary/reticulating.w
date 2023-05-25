@@ -1,1 +1,1 @@
-{"index": 270445, "D": "netted; covered with a network.", "S": ["convolute ", "entwine ", "interlace ", "interweave ", "mesh ", "tangle ", "weave "], "A": ["untangle ", "untwist ", "disconnect ", "dissociate ", "divide ", "part ", "separate "]}
+{"index": 270445, "D": "netted; covered with a network.", "S": ["convolute", "entwine", "interlace", "interweave", "mesh", "tangle", "weave"], "A": ["untangle", "untwist", "disconnect", "dissociate", "divide", "part", "separate"]}

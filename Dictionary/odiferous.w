@@ -1,1 +1,1 @@
-{"index": 211232, "D": [], "S": ["fetid ", "foul-smelling ", "funky ", "putrid "], "A": ["sweet ", "clean "]}
+{"index": 211232, "D": [], "S": ["fetid", "foul-smelling", "funky", "putrid"], "A": ["sweet", "clean"]}

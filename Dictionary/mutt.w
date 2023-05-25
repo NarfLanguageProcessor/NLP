@@ -1,1 +1,1 @@
-{"index": 196309, "D": "a dog, especially a mongrel.", "S": ["pooch "], "A": []}
+{"index": 196309, "D": "a dog, especially a mongrel.", "S": ["pooch"], "A": []}

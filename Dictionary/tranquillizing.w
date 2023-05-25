@@ -1,1 +1,1 @@
-{"index": 327658, "D": "to make or become tranquil. ", "S": ["anodyne ", "calming ", "lenitive ", "soporific "], "A": ["agitating ", "upsetting "]}
+{"index": 327658, "D": "to make or become tranquil. ", "S": ["anodyne", "calming", "lenitive", "soporific"], "A": ["agitating", "upsetting"]}

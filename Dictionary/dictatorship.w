@@ -1,1 +1,1 @@
-{"index": 84968, "D": "a country, government, or the form of government in which absolute power is exercised by a dictator. ", "S": ["authoritarianism ", "autocracy ", "totalitarianism ", "tyranny "], "A": ["democracy "]}
+{"index": 84968, "D": "a country, government, or the form of government in which absolute power is exercised by a dictator. ", "S": ["authoritarianism", "autocracy", "totalitarianism", "tyranny"], "A": ["democracy"]}

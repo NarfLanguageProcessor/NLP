@@ -1,0 +1,1 @@
+{"index": 6063, "D": "uniting, as glue; causing adhesion.", "S": ["gummy", "sticky"], "A": ["loose", "open", "separated"]}

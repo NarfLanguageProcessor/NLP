@@ -1,1 +1,1 @@
-{"index": 3282, "D": "a book of the New Testament.", "S": ["affairs ", "deal ", "deed ", "events ", "happenings ", "matters ", "proceeding "], "A": []}
+{"index": 3282, "D": "a book of the New Testament.", "S": ["affairs", "deal", "deed", "events", "happenings", "matters", "proceeding"], "A": []}

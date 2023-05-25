@@ -1,1 +1,0 @@
-{"index": 334835, "D": "not alloyed with other metals; pure", "S": ["flawless ", "full ", "simple "], "A": ["clean ", "imperfect ", "incomplete ", "indefinite ", "limited ", "moral ", "part ", "partial ", "uncertain ", "unfinished "]}

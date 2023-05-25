@@ -1,1 +1,1 @@
-{"index": 197557, "D": "another name for Lindesnes. ", "S": ["arm ", "beak ", "bill ", "finger ", "foreland ", "head ", "headland ", "jetty ", "mole ", "neck ", "ness ", "peninsula ", "point ", "tongue "], "A": []}
+{"index": 197557, "D": "another name for Lindesnes. ", "S": ["arm", "beak", "bill", "finger", "foreland", "head", "headland", "jetty", "mole", "neck", "ness", "peninsula", "point", "tongue"], "A": []}

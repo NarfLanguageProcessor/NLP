@@ -1,1 +1,1 @@
-{"index": 96831, "D": "of advanced age; old", "S": ["aged ", "aging ", "old ", "retired "], "A": ["new ", "young ", "youthful "]}
+{"index": 96831, "D": "of advanced age; old", "S": ["aged", "aging", "old", "retired"], "A": ["new", "young", "youthful"]}

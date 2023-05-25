@@ -1,1 +1,1 @@
-{"index": 259051, "D": "to shake with a slight but rapid motion; vibrate tremulously; tremble. ", "S": ["convulse ", "pulsate ", "shiver ", "shudder ", "throb ", "tremble "], "A": ["steady "]}
+{"index": 259051, "D": "to shake with a slight but rapid motion; vibrate tremulously; tremble. ", "S": ["convulse", "pulsate", "shiver", "shudder", "throb", "tremble"], "A": ["steady"]}

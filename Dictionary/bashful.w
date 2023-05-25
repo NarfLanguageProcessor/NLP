@@ -1,1 +1,1 @@
-{"index": 28545, "D": "uncomfortably diffident and easily embarrassed; shy; timid.", "S": ["confused ", "coy ", "diffident ", "embarrassed ", "reticent ", "self-conscious ", "sheepish ", "timid "], "A": ["aggressive ", "bold ", "forward "]}
+{"index": 28545, "D": "uncomfortably diffident and easily embarrassed; shy; timid.", "S": ["confused", "coy", "diffident", "embarrassed", "reticent", "self-conscious", "sheepish", "timid"], "A": ["aggressive", "bold", "forward"]}

@@ -1,1 +1,1 @@
-{"index": 19725, "D": "in the manner of an air or melody.", "S": ["melodious "], "A": ["discordant "]}
+{"index": 19725, "D": "in the manner of an air or melody.", "S": ["melodious"], "A": ["discordant"]}

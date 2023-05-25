@@ -1,1 +1,0 @@
-{"index": 202343, "D": "to draft for military or naval service.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92537, "D": "extremely tired or slow, as in movement; lethargic; sluggish", "S": ["boring ", "dull ", "long ", "prolonged ", "protracted "], "A": ["exciting ", "interesting "]}
+{"index": 92537, "D": "extremely tired or slow, as in movement; lethargic; sluggish", "S": ["boring", "dull", "long", "prolonged", "protracted"], "A": ["exciting", "interesting"]}

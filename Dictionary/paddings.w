@@ -1,1 +1,1 @@
-{"index": 222813, "D": "material, as cotton or straw, used to pad  something.", "S": ["buffer ", "cushion ", "filling ", "packing ", "stuffing ", "wad ", "wadding ", "waste "], "A": []}
+{"index": 222813, "D": "material, as cotton or straw, used to pad  something.", "S": ["buffer", "cushion", "filling", "packing", "stuffing", "wad", "wadding", "waste"], "A": []}

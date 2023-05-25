@@ -1,1 +1,1 @@
-{"index": 213147, "D": "exuding moisture.", "S": ["clammy ", "glutinous ", "miry ", "mucky ", "mucous ", "muculent ", "muddy ", "scummy ", "sludgy ", "slushy ", "viscous ", "yukky "], "A": []}
+{"index": 213147, "D": "exuding moisture.", "S": ["clammy", "glutinous", "miry", "mucky", "mucous", "muculent", "muddy", "scummy", "sludgy", "slushy", "viscous", "yukky"], "A": []}

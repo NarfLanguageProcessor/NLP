@@ -1,1 +1,1 @@
-{"index": 66657, "D": "having the same ancestry or descent; related by blood.", "S": ["agnate ", "akin ", "cognate ", "connate ", "consanguineal ", "consanguineous ", "kin ", "kindred "], "A": []}
+{"index": 66657, "D": "having the same ancestry or descent; related by blood.", "S": ["agnate", "akin", "cognate", "connate", "consanguineal", "consanguineous", "kin", "kindred"], "A": []}

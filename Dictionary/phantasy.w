@@ -1,1 +1,1 @@
-{"index": 232949, "D": "a less common variant of fantasy. ", "S": ["pipe dream ", "reverie "], "A": ["actuality ", "certainty ", "dislike ", "existence ", "fact ", "hate ", "reality ", "substance ", "truth "]}
+{"index": 232949, "D": "a less common variant of fantasy. ", "S": ["pipe dream", "reverie"], "A": ["actuality", "certainty", "dislike", "existence", "fact", "hate", "reality", "substance", "truth"]}

@@ -1,1 +1,1 @@
-{"index": 110416, "D": "without fault, flaw, or defect; perfect.", "S": ["certainty ", "efficiency ", "skill ", "truthfulness ", "veracity "], "A": ["inability "]}
+{"index": 110416, "D": "without fault, flaw, or defect; perfect.", "S": ["certainty", "efficiency", "skill", "truthfulness", "veracity"], "A": ["inability"]}

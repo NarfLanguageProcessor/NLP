@@ -1,1 +1,1 @@
-{"index": 155630, "D": "reciprocal relationship, action, or influence", "S": ["collaborate ", "combine ", "connect ", "cooperate ", "merge ", "mesh ", "reach out ", "relate "], "A": ["disconnect ", "divide ", "part ", "separate "]}
+{"index": 155630, "D": "reciprocal relationship, action, or influence", "S": ["collaborate", "combine", "connect", "cooperate", "merge", "mesh", "reach out", "relate"], "A": ["disconnect", "divide", "part", "separate"]}

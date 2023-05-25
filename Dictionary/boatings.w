@@ -1,1 +1,1 @@
-{"index": 37004, "D": "the use of boats,  especially for pleasure", "S": ["rowing ", "sailing "], "A": []}
+{"index": 37004, "D": "the use of boats,  especially for pleasure", "S": ["rowing", "sailing"], "A": []}

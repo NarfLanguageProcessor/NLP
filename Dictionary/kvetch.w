@@ -1,1 +1,1 @@
-{"index": 166561, "D": "to complain, especially chronically.", "S": ["carp ", "grumble ", "moan ", "murmur ", "mutter ", "nag ", "squawk "], "A": ["compliment ", "praise "]}
+{"index": 166561, "D": "to complain, especially chronically.", "S": ["carp", "grumble", "moan", "murmur", "mutter", "nag", "squawk"], "A": ["compliment", "praise"]}

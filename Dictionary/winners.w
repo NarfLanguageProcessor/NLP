@@ -1,1 +1,1 @@
-{"index": 366205, "D": "a person or thing that wins; victor", "S": ["champ ", "champion ", "first ", "hero ", "medalist ", "number one "], "A": ["loser "]}
+{"index": 366205, "D": "a person or thing that wins; victor", "S": ["champ", "champion", "first", "hero", "medalist", "number one"], "A": ["loser"]}

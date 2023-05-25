@@ -1,1 +1,1 @@
-{"index": 224473, "D": "wild uproar or unrestrained disorder; tumult or chaos.", "S": ["anarchy ", "brouhaha ", "chaos ", "hue and cry ", "ruckus ", "tumult ", "uproar "], "A": ["calm ", "order ", "peace ", "harmony ", "quiet ", "silence "]}
+{"index": 224473, "D": "wild uproar or unrestrained disorder; tumult or chaos.", "S": ["anarchy", "brouhaha", "chaos", "hue and cry", "ruckus", "tumult", "uproar"], "A": ["calm", "order", "peace", "harmony", "quiet", "silence"]}

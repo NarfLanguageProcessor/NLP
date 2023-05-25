@@ -1,1 +1,1 @@
-{"index": 200597, "D": "harmful; injurious", "S": ["detrimental ", "harmful ", "injurious ", "prejudicial ", "ruinous "], "A": ["advantageous ", "assisting ", "beneficial ", "helpful "]}
+{"index": 200597, "D": "harmful; injurious", "S": ["detrimental", "harmful", "injurious", "prejudicial", "ruinous"], "A": ["advantageous", "assisting", "beneficial", "helpful"]}

@@ -1,1 +1,1 @@
-{"index": 1837, "D": "in a way that is free from error or defect and consistent with a standard, rule, or model", "S": ["exactly ", "meticulously ", "precisely "], "A": []}
+{"index": 1837, "D": "in a way that is free from error or defect and consistent with a standard, rule, or model", "S": ["exactly", "meticulously", "precisely"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 273203, "D": "(of a liquid surface) to form small waves or undulations, as water agitated by a breeze.", "S": ["bubbling ", "burbling ", "gurgling "], "A": []}
+{"index": 273203, "D": "(of a liquid surface) to form small waves or undulations, as water agitated by a breeze.", "S": ["bubbling", "burbling", "gurgling"], "A": []}

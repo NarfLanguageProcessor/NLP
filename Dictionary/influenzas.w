@@ -1,1 +1,1 @@
-{"index": 152182, "D": "Compare flu. ", "S": ["contagion ", "curse ", "epidemic ", "infection ", "infestation ", "invasion ", "outbreak ", "pandemic ", "scourge "], "A": ["advantage ", "good fortune ", "good luck "]}
+{"index": 152182, "D": "Compare flu. ", "S": ["contagion", "curse", "epidemic", "infection", "infestation", "invasion", "outbreak", "pandemic", "scourge"], "A": ["advantage", "good fortune", "good luck"]}

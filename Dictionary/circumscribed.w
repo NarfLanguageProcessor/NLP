@@ -1,1 +1,1 @@
-{"index": 58221, "D": [], "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 58221, "D": [], "S": ["belted", "bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

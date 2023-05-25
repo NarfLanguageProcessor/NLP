@@ -1,1 +1,1 @@
-{"index": 99443, "D": [], "S": ["appreciative ", "congratulatory ", "polite ", "respectful "], "A": ["unmannerly "]}
+{"index": 99443, "D": [], "S": ["appreciative", "congratulatory", "polite", "respectful"], "A": ["unmannerly"]}

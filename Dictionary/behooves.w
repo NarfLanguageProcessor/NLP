@@ -1,1 +1,1 @@
-{"index": 30844, "D": "use; advantage; benefit", "S": ["have to ", "is becoming ", "is fitting ", "is logical ", "is natural ", "is necessary ", "is reasonable ", "is responsible for ", "must ", "requires "], "A": []}
+{"index": 30844, "D": "use; advantage; benefit", "S": ["have to", "is becoming", "is fitting", "is logical", "is natural", "is necessary", "is reasonable", "is responsible for", "must", "requires"], "A": []}

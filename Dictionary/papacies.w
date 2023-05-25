@@ -1,1 +1,1 @@
-{"index": 225094, "D": "the office, dignity, or jurisdiction of the pope.", "S": ["See of Rome ", "papality ", "the Church ", "vatican "], "A": []}
+{"index": 225094, "D": "the office, dignity, or jurisdiction of the pope.", "S": ["See of Rome", "papality", "the Church", "vatican"], "A": []}

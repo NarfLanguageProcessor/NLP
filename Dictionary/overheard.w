@@ -1,1 +1,1 @@
-{"index": 219686, "D": "to hear  (speech or a speaker) without the speaker's intention or knowledge", "S": ["discovered ", "heard ", "recorded "], "A": []}
+{"index": 219686, "D": "to hear  (speech or a speaker) without the speaker's intention or knowledge", "S": ["discovered", "heard", "recorded"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 40237, "D": "an act or instance of breaking away; secession; separation", "S": ["breakup ", "separation "], "A": ["agreement ", "closing ", "closure ", "juncture ", "peace "]}
+{"index": 40237, "D": "an act or instance of breaking away; secession; separation", "S": ["breakup", "separation"], "A": ["agreement", "closing", "closure", "juncture", "peace"]}

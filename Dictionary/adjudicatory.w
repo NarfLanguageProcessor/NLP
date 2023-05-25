@@ -1,0 +1,1 @@
+{"index": 4041, "D": "to pronounce or decree by judicial sentence.", "S": [], "A": []}

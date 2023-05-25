@@ -1,1 +1,1 @@
-{"index": 25606, "D": "bachelor's degree. ", "S": ["BA ", "BS ", "Bachelor of Arts ", "Bachelor of Science "], "A": []}
+{"index": 25606, "D": "bachelor's degree. ", "S": ["BA", "BS", "Bachelor of Arts", "Bachelor of Science"], "A": []}

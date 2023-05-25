@@ -1,1 +1,1 @@
-{"index": 40381, "D": "the part of a harness that passes around the haunches of a horse.", "S": ["attire ", "bundle up ", "cloak ", "disguise ", "do up ", "drape ", "dress ", "dress up ", "equip ", "fit ", "swaddle ", "swathe "], "A": ["disrobe ", "open ", "reveal ", "uncover ", "unclothe "]}
+{"index": 40381, "D": "the part of a harness that passes around the haunches of a horse.", "S": ["attire", "bundle up", "cloak", "disguise", "do up", "drape", "dress", "dress up", "equip", "fit", "swaddle", "swathe"], "A": ["disrobe", "open", "reveal", "uncover", "unclothe"]}

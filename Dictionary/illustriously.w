@@ -1,1 +1,1 @@
-{"index": 147539, "D": "highly distinguished; renowned; famous", "S": ["advantageously "], "A": ["worst "]}
+{"index": 147539, "D": "highly distinguished; renowned; famous", "S": ["advantageously"], "A": ["worst"]}

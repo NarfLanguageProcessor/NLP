@@ -1,0 +1,1 @@
+{"index": 14049, "D": "a red supergiant star of the first magnitude in the constellation Scorpius.", "S": [], "A": []}

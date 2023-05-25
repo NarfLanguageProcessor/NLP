@@ -1,1 +1,1 @@
-{"index": 116434, "D": "physical power or strength possessed by a living being", "S": ["biting ", "piercing ", "trenchant "], "A": ["kind ", "nice ", "weak ", "soft "]}
+{"index": 116434, "D": "physical power or strength possessed by a living being", "S": ["biting", "piercing", "trenchant"], "A": ["kind", "nice", "weak", "soft"]}

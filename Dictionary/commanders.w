@@ -1,1 +1,1 @@
-{"index": 63881, "D": "a person who commands. ", "S": ["administrator ", "captain ", "chief ", "commandant ", "director ", "head ", "officer ", "ruler "], "A": ["employee ", "worker "]}
+{"index": 63881, "D": "a person who commands. ", "S": ["administrator", "captain", "chief", "commandant", "director", "head", "officer", "ruler"], "A": ["employee", "worker"]}

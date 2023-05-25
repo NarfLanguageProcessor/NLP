@@ -1,1 +1,1 @@
-{"index": 96285, "D": "extraordinary in some bad way; glaring; flagrant", "S": ["atrocious ", "deplorable ", "extreme ", "flagrant ", "glaring ", "grievous ", "heinous ", "intolerable ", "nefarious ", "scandalous ", "shocking "], "A": ["concealed ", "good ", "hidden ", "mild "]}
+{"index": 96285, "D": "extraordinary in some bad way; glaring; flagrant", "S": ["atrocious", "deplorable", "extreme", "flagrant", "glaring", "grievous", "heinous", "intolerable", "nefarious", "scandalous", "shocking"], "A": ["concealed", "good", "hidden", "mild"]}

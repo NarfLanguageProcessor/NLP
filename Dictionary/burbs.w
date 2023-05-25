@@ -1,1 +1,1 @@
-{"index": 42989, "D": "See suburb", "S": ["countryside ", "environs ", "hinterland ", "outpost ", "outskirts ", "suburbia ", "village "], "A": ["center ", "metropolis "]}
+{"index": 42989, "D": "See suburb", "S": ["countryside", "environs", "hinterland", "outpost", "outskirts", "suburbia", "village"], "A": ["center", "metropolis"]}

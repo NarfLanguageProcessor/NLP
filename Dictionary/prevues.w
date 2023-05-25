@@ -1,1 +1,1 @@
-{"index": 250253, "D": "an earlier or previous view. ", "S": ["clip "], "A": []}
+{"index": 250253, "D": "an earlier or previous view. ", "S": ["clip"], "A": []}

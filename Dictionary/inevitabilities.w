@@ -1,1 +1,1 @@
-{"index": 151642, "D": "unable to be avoided, evaded, or escaped; certain; fated", "S": ["confidence ", "trust "], "A": ["distrust ", "disbelief "]}
+{"index": 151642, "D": "unable to be avoided, evaded, or escaped; certain; fated", "S": ["confidence", "trust"], "A": ["distrust", "disbelief"]}

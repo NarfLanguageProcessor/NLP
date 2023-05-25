@@ -1,1 +1,0 @@
-{"index": 254849, "D": "of, relating to, or of the nature of a legend. ", "S": [], "A": []}

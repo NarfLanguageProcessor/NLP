@@ -1,1 +1,1 @@
-{"index": 208537, "D": "the quality or condition of being normal,  as the general economic, political, and social conditions of a nation; normality", "S": ["normality ", "ordinariness ", "uniformity "], "A": []}
+{"index": 208537, "D": "the quality or condition of being normal,  as the general economic, political, and social conditions of a nation; normality", "S": ["normality", "ordinariness", "uniformity"], "A": []}

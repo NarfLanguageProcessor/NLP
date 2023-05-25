@@ -1,1 +1,1 @@
-{"index": 61623, "D": "a fellow conspirator; associate or collaborator in a conspiracy.", "S": ["accessory ", "accomplice ", "ally ", "associate ", "collaborator ", "colleague ", "conspirator ", "fellow ", "partner "], "A": ["antagonist ", "enemy ", "foe ", "opponent "]}
+{"index": 61623, "D": "a fellow conspirator; associate or collaborator in a conspiracy.", "S": ["accessory", "accomplice", "ally", "associate", "collaborator", "colleague", "conspirator", "fellow", "partner"], "A": ["antagonist", "enemy", "foe", "opponent"]}

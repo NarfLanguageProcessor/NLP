@@ -1,1 +1,0 @@
-{"index": 328325, "D": "a person having a strong desire to assume the physical characteristics and gender role of a different sex.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 148907, "D": "the state or quality of being importunate;  persistence in solicitation.", "S": ["application ", "bid ", "call ", "claim ", "demand ", "overture ", "petition ", "plea ", "proposal ", "question ", "suit "], "A": ["answer ", "reply "]}
+{"index": 148907, "D": "the state or quality of being importunate;  persistence in solicitation.", "S": ["application", "bid", "call", "claim", "demand", "overture", "petition", "plea", "proposal", "question", "suit"], "A": ["answer", "reply"]}

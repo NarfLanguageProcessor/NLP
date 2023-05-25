@@ -1,1 +1,1 @@
-{"index": 98029, "D": "battlement. ", "S": ["balustrade ", "bastion ", "escarpment ", "fortification ", "rampart ", "tower "], "A": []}
+{"index": 98029, "D": "battlement. ", "S": ["balustrade", "bastion", "escarpment", "fortification", "rampart", "tower"], "A": []}

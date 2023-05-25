@@ -1,1 +1,0 @@
-{"index": 265333, "D": "a person or thing that refracts. ", "S": [], "A": []}

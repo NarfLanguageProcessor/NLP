@@ -1,1 +1,1 @@
-{"index": 146694, "D": "(used objectively in the second person singular or plural)", "S": ["affirmative ", "amen ", "fine ", "good ", "okay ", "true ", "yea "], "A": ["disagreed "]}
+{"index": 146694, "D": "(used objectively in the second person singular or plural)", "S": ["affirmative", "amen", "fine", "good", "okay", "true", "yea"], "A": ["disagreed"]}

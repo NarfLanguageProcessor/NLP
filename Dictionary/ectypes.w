@@ -1,1 +1,1 @@
-{"index": 95479, "D": "a reproduction; copy (opposed to prototype).", "S": ["image ", "model ", "photocopy ", "photograph ", "portrait ", "print ", "replica ", "reproduction ", "transcript ", "type "], "A": ["original ", "difference ", "dissimilarity ", "opposite ", "unlikeness "]}
+{"index": 95479, "D": "a reproduction; copy (opposed to prototype).", "S": ["image", "model", "photocopy", "photograph", "portrait", "print", "replica", "reproduction", "transcript", "type"], "A": ["original", "difference", "dissimilarity", "opposite", "unlikeness"]}

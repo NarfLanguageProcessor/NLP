@@ -1,1 +1,1 @@
-{"index": 37774, "D": "a rich mass of ore, as found in mining.", "S": ["cash cow ", "treasure trove "], "A": []}
+{"index": 37774, "D": "a rich mass of ore, as found in mining.", "S": ["cash cow", "treasure trove"], "A": []}

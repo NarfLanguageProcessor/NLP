@@ -1,1 +1,1 @@
-{"index": 273513, "D": "work,  as construction or repairs, done on a road. ", "S": ["development ", "manufacture ", "plan ", "planning ", "structure ", "system "], "A": ["disarrangement ", "truth "]}
+{"index": 273513, "D": "work,  as construction or repairs, done on a road. ", "S": ["development", "manufacture", "plan", "planning", "structure", "system"], "A": ["disarrangement", "truth"]}

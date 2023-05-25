@@ -1,1 +1,1 @@
-{"index": 312621, "D": "supersensible. ", "S": ["mental ", "metaphysical ", "psychological ", "spiritual ", "supernatural "], "A": ["body ", "physical ", "real "]}
+{"index": 312621, "D": "supersensible. ", "S": ["mental", "metaphysical", "psychological", "spiritual", "supernatural"], "A": ["body", "physical", "real"]}

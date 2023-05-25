@@ -1,0 +1,1 @@
+{"index": 4932, "D": "having the form or nature of air; gaseous.", "S": ["flying"], "A": ["ground"]}

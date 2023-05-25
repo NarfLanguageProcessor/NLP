@@ -1,1 +1,1 @@
-{"index": 182983, "D": "melodious. ", "S": ["melodious "], "A": ["discordant "]}
+{"index": 182983, "D": "melodious. ", "S": ["melodious"], "A": ["discordant"]}

@@ -1,1 +1,1 @@
-{"index": 269229, "D": "the act of keeping back, withholding, or setting apart.", "S": ["doubt ", "restriction ", "skepticism "], "A": ["openness "]}
+{"index": 269229, "D": "the act of keeping back, withholding, or setting apart.", "S": ["doubt", "restriction", "skepticism"], "A": ["openness"]}

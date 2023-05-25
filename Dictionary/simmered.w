@@ -1,1 +1,1 @@
-{"index": 290862, "D": "to cook or cook in a liquid at or just below the boiling point.", "S": ["bubble ", "burn ", "churn ", "ferment ", "rage ", "seethe ", "stew ", "stir ", "warm "], "A": ["be happy ", "cool ", "soothe "]}
+{"index": 290862, "D": "to cook or cook in a liquid at or just below the boiling point.", "S": ["bubble", "burn", "churn", "ferment", "rage", "seethe", "stew", "stir", "warm"], "A": ["be happy", "cool", "soothe"]}

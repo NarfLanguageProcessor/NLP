@@ -1,1 +1,0 @@
-{"index": 298844, "D": "single photon emission computed tomography", "S": [], "A": []}

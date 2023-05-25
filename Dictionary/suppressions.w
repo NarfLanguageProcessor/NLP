@@ -1,1 +1,1 @@
-{"index": 313086, "D": "the act of suppressing. ", "S": ["elimination ", "overthrow "], "A": []}
+{"index": 313086, "D": "the act of suppressing. ", "S": ["elimination", "overthrow"], "A": []}

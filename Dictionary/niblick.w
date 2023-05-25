@@ -1,1 +1,1 @@
-{"index": 199562, "D": "a club with an iron head, the face of which has the greatest slope of all the irons, for hitting the ball with maximum loft.", "S": ["brassie ", "driver ", "iron ", "mashie ", "midiron ", "putter ", "spoon ", "stick ", "wedge ", "wood "], "A": []}
+{"index": 199562, "D": "a club with an iron head, the face of which has the greatest slope of all the irons, for hitting the ball with maximum loft.", "S": ["brassie", "driver", "iron", "mashie", "midiron", "putter", "spoon", "stick", "wedge", "wood"], "A": []}

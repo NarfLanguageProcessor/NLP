@@ -1,1 +1,1 @@
-{"index": 84753, "D": "small cubes of plastic, ivory, bone, or wood, marked on each side with one to six spots, usually used in pairs in games of chance or in gambling.", "S": ["crumble ", "grind "], "A": ["reveal ", "tell all "]}
+{"index": 84753, "D": "small cubes of plastic, ivory, bone, or wood, marked on each side with one to six spots, usually used in pairs in games of chance or in gambling.", "S": ["crumble", "grind"], "A": ["reveal", "tell all"]}

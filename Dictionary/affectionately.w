@@ -1,1 +1,1 @@
-{"index": 5316, "D": "in a way that shows or is characterized by affection or love", "S": ["devotedly ", "fondly ", "tenderly ", "yearningly "], "A": ["hatefully "]}
+{"index": 5316, "D": "in a way that shows or is characterized by affection or love", "S": ["devotedly", "fondly", "tenderly", "yearningly"], "A": ["hatefully"]}

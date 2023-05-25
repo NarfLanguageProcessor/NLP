@@ -1,1 +1,1 @@
-{"index": 241384, "D": "the condition produced by a poison  or by a toxic substance.", "S": ["contagious ", "toxic ", "virulent "], "A": ["harmless ", "nonpoisonous "]}
+{"index": 241384, "D": "the condition produced by a poison  or by a toxic substance.", "S": ["contagious", "toxic", "virulent"], "A": ["harmless", "nonpoisonous"]}

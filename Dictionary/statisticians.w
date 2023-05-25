@@ -1,1 +1,1 @@
-{"index": 303109, "D": "an expert in or compiler of statistics. ", "S": ["CPA ", "accountant ", "actuary ", "analyst ", "auditor ", "bookkeeper ", "certified public accountant ", "comptroller ", "financial executive ", "financial officer ", "number cruncher ", "treasurer "], "A": []}
+{"index": 303109, "D": "an expert in or compiler of statistics. ", "S": ["CPA", "accountant", "actuary", "analyst", "auditor", "bookkeeper", "certified public accountant", "comptroller", "financial executive", "financial officer", "number cruncher", "treasurer"], "A": []}

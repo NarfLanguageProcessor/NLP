@@ -1,0 +1,1 @@
+{"index": 38017, "D": "the lot, pack, or crowd", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 149704, "D": "blood-red; crimson.", "S": ["blooming ", "cerise ", "claret ", "crimson "], "A": []}
+{"index": 149704, "D": "blood-red; crimson.", "S": ["blooming", "cerise", "claret", "crimson"], "A": []}

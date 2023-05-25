@@ -1,1 +1,1 @@
-{"index": 152809, "D": "happening first; at the start; in the beginning", "S": ["originally "], "A": []}
+{"index": 152809, "D": "happening first; at the start; in the beginning", "S": ["originally"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 295834, "D": "a machine that makes artificial snow for ski slopes.", "S": [], "A": []}

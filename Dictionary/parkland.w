@@ -1,1 +1,1 @@
-{"index": 226572, "D": "a grassland region with isolated or grouped trees, usually in temperate regions.", "S": ["estate ", "forest ", "garden ", "lawn ", "place ", "playground ", "plaza ", "square "], "A": []}
+{"index": 226572, "D": "a grassland region with isolated or grouped trees, usually in temperate regions.", "S": ["estate", "forest", "garden", "lawn", "place", "playground", "plaza", "square"], "A": []}

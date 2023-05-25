@@ -1,0 +1,1 @@
+{"index": 5556, "D": "pertaining to or having no finite focal point,  as a telescope.", "S": [], "A": []}

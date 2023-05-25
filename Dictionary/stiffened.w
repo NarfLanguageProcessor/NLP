@@ -1,1 +1,1 @@
-{"index": 304355, "D": "to make stiff. ", "S": ["reinforced ", "strengthened "], "A": ["discouraged ", "opposed "]}
+{"index": 304355, "D": "to make stiff. ", "S": ["reinforced", "strengthened"], "A": ["discouraged", "opposed"]}

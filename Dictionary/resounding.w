@@ -1,1 +1,1 @@
-{"index": 269659, "D": "making an echoing sound", "S": ["earsplitting ", "electrifying ", "emphatic ", "forceful ", "loud ", "ringing ", "roaring ", "thrilling ", "thundering ", "thunderous "], "A": ["incomplete "]}
+{"index": 269659, "D": "making an echoing sound", "S": ["earsplitting", "electrifying", "emphatic", "forceful", "loud", "ringing", "roaring", "thrilling", "thundering", "thunderous"], "A": ["incomplete"]}

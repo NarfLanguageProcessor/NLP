@@ -1,1 +1,1 @@
-{"index": 211230, "D": "of an ode. ", "S": ["anapestic ", "dactylic ", "dramatic ", "elegiac ", "epic ", "epical ", "epodic ", "iambic ", "idyllic ", "imaginative ", "lyric ", "lyrical ", "melodious ", "metrical ", "rhythmical ", "romantic ", "songlike ", "tuneful "], "A": ["prosaic "]}
+{"index": 211230, "D": "of an ode. ", "S": ["anapestic", "dactylic", "dramatic", "elegiac", "epic", "epical", "epodic", "iambic", "idyllic", "imaginative", "lyric", "lyrical", "melodious", "metrical", "rhythmical", "romantic", "songlike", "tuneful"], "A": ["prosaic"]}

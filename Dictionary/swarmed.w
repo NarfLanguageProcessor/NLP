@@ -1,1 +1,1 @@
-{"index": 314121, "D": "a body of honeybees that emigrate from a hive and fly off together, accompanied by a queen, to start a new colony.", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}
+{"index": 314121, "D": "a body of honeybees that emigrate from a hive and fly off together, accompanied by a queen, to start a new colony.", "S": ["accumulated", "collected", "concentrated", "huddled", "massed", "reunited"], "A": ["separated"]}

@@ -1,1 +1,1 @@
-{"index": 344710, "D": "not deliberately or on purpose", "S": ["accidentally ", "inadvertently ", "involuntarily "], "A": ["by design ", "deliberately ", "intentionally ", "on purpose ", "purposely "]}
+{"index": 344710, "D": "not deliberately or on purpose", "S": ["accidentally", "inadvertently", "involuntarily"], "A": ["by design", "deliberately", "intentionally", "on purpose", "purposely"]}

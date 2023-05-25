@@ -1,1 +1,1 @@
-{"index": 89783, "D": "obtained or produced by distillation.", "S": ["fermented "], "A": []}
+{"index": 89783, "D": "obtained or produced by distillation.", "S": ["fermented"], "A": []}

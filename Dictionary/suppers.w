@@ -1,1 +1,1 @@
-{"index": 312942, "D": "the evening meal, often the principal meal of the day.", "S": ["banquet ", "feast "], "A": []}
+{"index": 312942, "D": "the evening meal, often the principal meal of the day.", "S": ["banquet", "feast"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 158395, "D": "said, done, or characterized by a lack of a sense of responsibility", "S": ["absurdity ", "bunk ", "craziness ", "folly ", "indiscretion ", "insanity ", "irrationality ", "lunacy ", "rubbish ", "silliness ", "stupidity "], "A": ["judgment ", "sense ", "wisdom "]}
+{"index": 158395, "D": "said, done, or characterized by a lack of a sense of responsibility", "S": ["absurdity", "bunk", "craziness", "folly", "indiscretion", "insanity", "irrationality", "lunacy", "rubbish", "silliness", "stupidity"], "A": ["judgment", "sense", "wisdom"]}

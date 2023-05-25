@@ -1,1 +1,1 @@
-{"index": 92998, "D": "a person whose occupation is the making or alteration of women's dresses,  coats, etc.", "S": ["Seventh Avenue ", "fashion design ", "garment industry ", "garment making ", "haute couture ", "tailoring "], "A": []}
+{"index": 92998, "D": "a person whose occupation is the making or alteration of women's dresses,  coats, etc.", "S": ["Seventh Avenue", "fashion design", "garment industry", "garment making", "haute couture", "tailoring"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 200664, "D": "of or relating to the night (opposed to diurnal).", "S": ["every night "], "A": []}
+{"index": 200664, "D": "of or relating to the night (opposed to diurnal).", "S": ["every night"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 215312, "D": "the act of kissing.", "S": ["buss ", "butterfly ", "caress ", "embrace ", "endearment ", "peck ", "salutation ", "salute ", "smack ", "smacker ", "smooch "], "A": []}
+{"index": 215312, "D": "the act of kissing.", "S": ["buss", "butterfly", "caress", "embrace", "endearment", "peck", "salutation", "salute", "smack", "smacker", "smooch"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 70023, "D": "of or relating to the cosmos", "S": ["astronomically ", "celestially "], "A": ["especially ", "sometimes ", "specifically "]}
+{"index": 70023, "D": "of or relating to the cosmos", "S": ["astronomically", "celestially"], "A": ["especially", "sometimes", "specifically"]}

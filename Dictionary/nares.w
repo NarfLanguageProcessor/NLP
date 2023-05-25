@@ -1,1 +1,1 @@
-{"index": 197005, "D": "the nostrils or the nasal passages.", "S": ["beak ", "snout "], "A": []}
+{"index": 197005, "D": "the nostrils or the nasal passages.", "S": ["beak", "snout"], "A": []}

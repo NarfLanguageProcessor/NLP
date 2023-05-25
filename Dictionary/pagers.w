@@ -1,1 +1,1 @@
-{"index": 223007, "D": "something, as a book or brochure, having a specified number of pages  (usually used in combination)", "S": ["intercom "], "A": []}
+{"index": 223007, "D": "something, as a book or brochure, having a specified number of pages  (usually used in combination)", "S": ["intercom"], "A": []}

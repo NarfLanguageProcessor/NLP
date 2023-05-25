@@ -1,1 +1,1 @@
-{"index": 365596, "D": "a married woman, especially when considered in relation to her partner in marriage.", "S": ["eligible ", "widowed "], "A": ["married ", "wed "]}
+{"index": 365596, "D": "a married woman, especially when considered in relation to her partner in marriage.", "S": ["eligible", "widowed"], "A": ["married", "wed"]}

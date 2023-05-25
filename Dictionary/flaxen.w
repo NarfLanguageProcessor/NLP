@@ -1,1 +1,1 @@
-{"index": 114263, "D": "made of flax. ", "S": ["bleached ", "blonde ", "golden "], "A": ["dark "]}
+{"index": 114263, "D": "made of flax. ", "S": ["bleached", "blonde", "golden"], "A": ["dark"]}

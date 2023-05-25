@@ -1,1 +1,1 @@
-{"index": 38791, "D": "the studio of a master artist, in which lesser artists, apprentices, or students learn by participating in the work.", "S": ["library ", "office ", "salon ", "shop ", "workshop "], "A": []}
+{"index": 38791, "D": "the studio of a master artist, in which lesser artists, apprentices, or students learn by participating in the work.", "S": ["library", "office", "salon", "shop", "workshop"], "A": []}

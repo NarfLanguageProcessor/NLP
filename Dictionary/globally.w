@@ -1,1 +1,1 @@
-{"index": 126464, "D": "pertaining to the whole world; worldwide; universal", "S": ["always "], "A": ["especially ", "sometimes ", "specifically "]}
+{"index": 126464, "D": "pertaining to the whole world; worldwide; universal", "S": ["always"], "A": ["especially", "sometimes", "specifically"]}

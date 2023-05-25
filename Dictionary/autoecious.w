@@ -1,0 +1,1 @@
+{"index": 24030, "D": "Compare heteroecious", "S": [], "A": []}

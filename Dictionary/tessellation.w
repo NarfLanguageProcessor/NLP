@@ -1,1 +1,1 @@
-{"index": 319719, "D": "the art or practice of tessellating. ", "S": ["patchwork "], "A": []}
+{"index": 319719, "D": "the art or practice of tessellating. ", "S": ["patchwork"], "A": []}

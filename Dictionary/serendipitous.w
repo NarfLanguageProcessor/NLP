@@ -1,1 +1,1 @@
-{"index": 285969, "D": "come upon or found by accident; fortuitous", "S": ["occasional ", "offhand ", "spontaneous "], "A": ["deliberate ", "planned "]}
+{"index": 285969, "D": "come upon or found by accident; fortuitous", "S": ["occasional", "offhand", "spontaneous"], "A": ["deliberate", "planned"]}

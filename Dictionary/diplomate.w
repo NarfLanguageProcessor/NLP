@@ -1,1 +1,1 @@
-{"index": 86574, "D": "a person who has received a diploma,  especially a doctor, engineer, etc., who has been certified as a specialist by a board within the appropriate profession.", "S": ["alum ", "alumna ", "alumnus ", "doctor ", "grad ", "recipient "], "A": ["undergraduate "]}
+{"index": 86574, "D": "a person who has received a diploma,  especially a doctor, engineer, etc., who has been certified as a specialist by a board within the appropriate profession.", "S": ["alum", "alumna", "alumnus", "doctor", "grad", "recipient"], "A": ["undergraduate"]}

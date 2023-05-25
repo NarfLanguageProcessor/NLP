@@ -1,1 +1,0 @@
-{"index": 329331, "D": "any of various dinosaurs of the genus Triceratops, of the late Cretaceous Period, having a bony crest on the neck, a long horn over each eye, and a shorter horn on the nose.", "S": [], "A": []}

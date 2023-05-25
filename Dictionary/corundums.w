@@ -1,1 +1,1 @@
-{"index": 69890, "D": "a common mineral, aluminum oxide, Al2O3, notable for its hardness", "S": ["gem ", "jewel ", "rhinestone "], "A": []}
+{"index": 69890, "D": "a common mineral, aluminum oxide, Al2O3, notable for its hardness", "S": ["gem", "jewel", "rhinestone"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 268787, "D": "to drive back; repel", "S": ["brush-off ", "check ", "defeat ", "disappointment ", "failure ", "nix ", "rebuff ", "refusal ", "reverse ", "spurning ", "turndown "], "A": ["attainment ", "help ", "success ", "win "]}
+{"index": 268787, "D": "to drive back; repel", "S": ["brush-off", "check", "defeat", "disappointment", "failure", "nix", "rebuff", "refusal", "reverse", "spurning", "turndown"], "A": ["attainment", "help", "success", "win"]}

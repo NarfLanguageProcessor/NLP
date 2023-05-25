@@ -1,1 +1,1 @@
-{"index": 313055, "D": "the act of supposing. ", "S": ["apparently ", "hypothetically ", "in a manner ", "in a sense ", "on paper ", "probably "], "A": []}
+{"index": 313055, "D": "the act of supposing. ", "S": ["apparently", "hypothetically", "in a manner", "in a sense", "on paper", "probably"], "A": []}

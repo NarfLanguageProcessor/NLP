@@ -1,0 +1,1 @@
+{"index": 36017, "D": "to destroy or diminish the perfection of", "S": [], "A": []}

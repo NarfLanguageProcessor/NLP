@@ -1,1 +1,1 @@
-{"index": 149261, "D": "actuated or swayed by emotional or involuntary impulses", "S": ["carelessly ", "foolishly "], "A": []}
+{"index": 149261, "D": "actuated or swayed by emotional or involuntary impulses", "S": ["carelessly", "foolishly"], "A": []}

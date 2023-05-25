@@ -1,1 +1,1 @@
-{"index": 349125, "D": "not reasoning  or exercising reason; reasonless; thoughtless; irrational", "S": ["ignorant ", "insensitive ", "nearsighted ", "oblivious ", "unconscious "], "A": ["aware ", "concerned ", "conscious ", "mindful ", "sensitive "]}
+{"index": 349125, "D": "not reasoning  or exercising reason; reasonless; thoughtless; irrational", "S": ["ignorant", "insensitive", "nearsighted", "oblivious", "unconscious"], "A": ["aware", "concerned", "conscious", "mindful", "sensitive"]}

@@ -1,1 +1,1 @@
-{"index": 168461, "D": "lardlike; fatty.", "S": ["greasy ", "oily "], "A": ["dry "]}
+{"index": 168461, "D": "lardlike; fatty.", "S": ["greasy", "oily"], "A": ["dry"]}

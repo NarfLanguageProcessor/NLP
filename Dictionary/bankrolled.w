@@ -1,1 +1,1 @@
-{"index": 27507, "D": "money in one's possession; monetary resources.", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}
+{"index": 27507, "D": "money in one's possession; monetary resources.", "S": ["approved", "assisted", "endorsed", "favored"], "A": ["disapproved"]}

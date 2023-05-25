@@ -1,1 +1,1 @@
-{"index": 263405, "D": "the act of reconstructing, rebuilding, or reassembling, or the state of being reconstructed", "S": ["rehabilitation ", "reorganization ", "repair ", "restoration "], "A": ["neglect "]}
+{"index": 263405, "D": "the act of reconstructing, rebuilding, or reassembling, or the state of being reconstructed", "S": ["rehabilitation", "reorganization", "repair", "restoration"], "A": ["neglect"]}

@@ -1,1 +1,1 @@
-{"index": 301061, "D": "a man who engages in sports,  especially in some open-air sport, as hunting, fishing, racing, etc.", "S": ["chaser ", "deerstalker ", "falconer ", "fisherman ", "hawker ", "huntress ", "huntsman ", "pursuer ", "stalker ", "trapper "], "A": []}
+{"index": 301061, "D": "a man who engages in sports,  especially in some open-air sport, as hunting, fishing, racing, etc.", "S": ["chaser", "deerstalker", "falconer", "fisherman", "hawker", "huntress", "huntsman", "pursuer", "stalker", "trapper"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98751, "D": "to give emphasis  to; lay stress upon; stress", "S": ["accentuate ", "affirm ", "assert ", "highlight ", "indicate ", "maintain ", "point out ", "reiterate ", "repeat ", "underline ", "underscore "], "A": ["deny ", "lose ", "mumble "]}
+{"index": 98751, "D": "to give emphasis  to; lay stress upon; stress", "S": ["accentuate", "affirm", "assert", "highlight", "indicate", "maintain", "point out", "reiterate", "repeat", "underline", "underscore"], "A": ["deny", "lose", "mumble"]}

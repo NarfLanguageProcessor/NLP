@@ -1,1 +1,1 @@
-{"index": 165468, "D": "like or befitting a knave; untrustworthy; dishonest.", "S": ["arrant ", "deceitful ", "fraudulent ", "frolicsome ", "rascally ", "unprincipled ", "unscrupulous ", "villainous "], "A": ["honorable ", "noble ", "virtuous "]}
+{"index": 165468, "D": "like or befitting a knave; untrustworthy; dishonest.", "S": ["arrant", "deceitful", "fraudulent", "frolicsome", "rascally", "unprincipled", "unscrupulous", "villainous"], "A": ["honorable", "noble", "virtuous"]}

@@ -1,1 +1,1 @@
-{"index": 5195, "D": "a person who has or professes to have refined sensitivity toward the beauties of art or nature.", "S": ["connoisseur ", "dilettante ", "esthete "], "A": []}
+{"index": 5195, "D": "a person who has or professes to have refined sensitivity toward the beauties of art or nature.", "S": ["connoisseur", "dilettante", "esthete"], "A": []}

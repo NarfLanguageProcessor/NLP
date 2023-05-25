@@ -1,1 +1,1 @@
-{"index": 36785, "D": "a woman with considerable scholarly, literary, or intellectual ability or interest.", "S": ["bluestocking ", "bookworm ", "doctrinaire ", "egghead ", "pedagogue "], "A": []}
+{"index": 36785, "D": "a woman with considerable scholarly, literary, or intellectual ability or interest.", "S": ["bluestocking", "bookworm", "doctrinaire", "egghead", "pedagogue"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 125592, "D": "automatic pilot. ", "S": ["autopilot ", "robot pilot "], "A": []}
+{"index": 125592, "D": "automatic pilot. ", "S": ["autopilot", "robot pilot"], "A": []}

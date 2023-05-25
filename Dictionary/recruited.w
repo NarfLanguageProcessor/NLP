@@ -1,1 +1,1 @@
-{"index": 263647, "D": "a newly enlisted or drafted member of the armed forces.", "S": ["enlisted ", "initiated "], "A": []}
+{"index": 263647, "D": "a newly enlisted or drafted member of the armed forces.", "S": ["enlisted", "initiated"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 137168, "D": "the habitation of a hermit. ", "S": ["abbey ", "cloister ", "monastery ", "retreat "], "A": []}
+{"index": 137168, "D": "the habitation of a hermit. ", "S": ["abbey", "cloister", "monastery", "retreat"], "A": []}

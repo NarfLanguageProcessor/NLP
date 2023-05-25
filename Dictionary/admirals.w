@@ -1,1 +1,1 @@
-{"index": 4167, "D": "the commander in chief of a fleet.", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}
+{"index": 4167, "D": "the commander in chief of a fleet.", "S": ["board", "bureau", "cabinet", "committee", "department", "executive", "legislature", "management", "ministry", "presidency"], "A": []}

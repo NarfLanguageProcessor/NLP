@@ -1,1 +1,1 @@
-{"index": 178692, "D": "germinated grain, usually barley, used in brewing and distilling.", "S": ["brew ", "suds "], "A": []}
+{"index": 178692, "D": "germinated grain, usually barley, used in brewing and distilling.", "S": ["brew", "suds"], "A": []}

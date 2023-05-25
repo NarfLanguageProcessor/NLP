@@ -1,1 +1,1 @@
-{"index": 73479, "D": "in a judgmental or disapproving manner", "S": ["alarmingly ", "desperately ", "perilously ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}
+{"index": 73479, "D": "in a judgmental or disapproving manner", "S": ["alarmingly", "desperately", "perilously", "precariously", "recklessly", "seriously", "severely"], "A": ["lightly"]}

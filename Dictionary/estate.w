@@ -1,1 +1,1 @@
-{"index": 104593, "D": "a piece of landed property, especially one of large extent with an elaborate house on it", "S": ["area ", "farm ", "parcel ", "plantation ", "ranch ", "residence "], "A": []}
+{"index": 104593, "D": "a piece of landed property, especially one of large extent with an elaborate house on it", "S": ["area", "farm", "parcel", "plantation", "ranch", "residence"], "A": []}

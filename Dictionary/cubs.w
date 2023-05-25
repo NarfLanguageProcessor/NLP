@@ -1,1 +1,1 @@
-{"index": 74513, "D": "the young of certain animals, as the bear, lion, or tiger.", "S": ["brood ", "family ", "kittens ", "piglets ", "progeny ", "puppies ", "school ", "young "], "A": ["parent "]}
+{"index": 74513, "D": "the young of certain animals, as the bear, lion, or tiger.", "S": ["brood", "family", "kittens", "piglets", "progeny", "puppies", "school", "young"], "A": ["parent"]}

@@ -1,1 +1,1 @@
-{"index": 49580, "D": "diagonal. ", "S": ["catty-corner ", "crosswise ", "oblique ", "slanted "], "A": []}
+{"index": 49580, "D": "diagonal. ", "S": ["catty-corner", "crosswise", "oblique", "slanted"], "A": []}

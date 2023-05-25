@@ -1,1 +1,1 @@
-{"index": 293278, "D": "fitting almost as tightly as skin", "S": ["airtight ", "fast ", "short ", "uncomfortable "], "A": ["loose "]}
+{"index": 293278, "D": "fitting almost as tightly as skin", "S": ["airtight", "fast", "short", "uncomfortable"], "A": ["loose"]}

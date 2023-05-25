@@ -1,1 +1,1 @@
-{"index": 228727, "D": "of or relating to a pedagogue  or pedagogy. ", "S": ["academic ", "dogmatic ", "instructive ", "learned ", "professorial ", "profound ", "scholastic ", "teaching "], "A": []}
+{"index": 228727, "D": "of or relating to a pedagogue  or pedagogy. ", "S": ["academic", "dogmatic", "instructive", "learned", "professorial", "profound", "scholastic", "teaching"], "A": []}

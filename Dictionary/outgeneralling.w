@@ -1,1 +1,1 @@
-{"index": 216715, "D": "to outdo or surpass in generalship.", "S": ["baffle ", "bamboozle ", "circumvent ", "deceive ", "outdo ", "outfox ", "outmaneuver "], "A": ["aid ", "assist ", "help ", "clear up ", "explain ", "give ", "guard ", "lose ", "protect ", "surrender "]}
+{"index": 216715, "D": "to outdo or surpass in generalship.", "S": ["baffle", "bamboozle", "circumvent", "deceive", "outdo", "outfox", "outmaneuver"], "A": ["aid", "assist", "help", "clear up", "explain", "give", "guard", "lose", "protect", "surrender"]}

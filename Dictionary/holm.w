@@ -1,1 +1,1 @@
-{"index": 142534, "D": "a low, flat tract of land beside a river or stream.", "S": ["bog ", "glade "], "A": []}
+{"index": 142534, "D": "a low, flat tract of land beside a river or stream.", "S": ["bog", "glade"], "A": []}

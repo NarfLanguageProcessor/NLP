@@ -1,1 +1,1 @@
-{"index": 42449, "D": "tending to bulge;  having a bulge", "S": ["bouncing ", "bouncy ", "distended ", "ebbing and flowing ", "heaving ", "puffy ", "rippling ", "rising ", "rising and falling ", "rolling ", "swelling ", "swirling ", "swollen ", "undulating ", "waving ", "wavy "], "A": []}
+{"index": 42449, "D": "tending to bulge;  having a bulge", "S": ["bouncing", "bouncy", "distended", "ebbing and flowing", "heaving", "puffy", "rippling", "rising", "rising and falling", "rolling", "swelling", "swirling", "swollen", "undulating", "waving", "wavy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 318734, "D": "presented formally for acceptance", "S": ["offered ", "proffered "], "A": []}
+{"index": 318734, "D": "presented formally for acceptance", "S": ["offered", "proffered"], "A": []}

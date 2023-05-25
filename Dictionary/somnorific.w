@@ -1,1 +1,1 @@
-{"index": 297150, "D": [], "S": ["calming "], "A": ["exciting ", "stimulating "]}
+{"index": 297150, "D": [], "S": ["calming"], "A": ["exciting", "stimulating"]}

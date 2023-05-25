@@ -1,1 +1,1 @@
-{"index": 13431, "D": "(in humans) the joint between the foot and the leg, in which movement occurs in two planes.", "S": ["bone "], "A": []}
+{"index": 13431, "D": "(in humans) the joint between the foot and the leg, in which movement occurs in two planes.", "S": ["bone"], "A": []}

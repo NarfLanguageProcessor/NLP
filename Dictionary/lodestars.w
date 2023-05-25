@@ -1,1 +1,1 @@
-{"index": 174490, "D": "a star  that shows the way.", "S": ["flare ", "lantern ", "radar "], "A": []}
+{"index": 174490, "D": "a star  that shows the way.", "S": ["flare", "lantern", "radar"], "A": []}

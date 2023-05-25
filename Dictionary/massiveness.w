@@ -1,1 +1,1 @@
-{"index": 180812, "D": "consisting of or forming a large mass; bulky and heavy", "S": ["denseness ", "density ", "heftiness ", "mass ", "ponderosity ", "ponderousness ", "thickness ", "weight ", "weightiness "], "A": ["thinness "]}
+{"index": 180812, "D": "consisting of or forming a large mass; bulky and heavy", "S": ["denseness", "density", "heftiness", "mass", "ponderosity", "ponderousness", "thickness", "weight", "weightiness"], "A": ["thinness"]}

@@ -1,1 +1,0 @@
-{"index": 166839, "D": "a netlike ornamental fabric made of threads by hand or machine.", "S": ["frilly ", "gauzy ", "ornate ", "patterned "], "A": ["heavy ", "thick "]}

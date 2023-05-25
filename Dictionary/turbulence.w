@@ -1,1 +1,1 @@
-{"index": 332642, "D": "the quality or state of being turbulent;  violent disorder or commotion.", "S": ["conflict ", "confusion ", "disturbance ", "instability ", "tumult ", "turmoil ", "unrest "], "A": ["calm ", "harmony ", "order ", "peace ", "stability ", "calmness "]}
+{"index": 332642, "D": "the quality or state of being turbulent;  violent disorder or commotion.", "S": ["conflict", "confusion", "disturbance", "instability", "tumult", "turmoil", "unrest"], "A": ["calm", "harmony", "order", "peace", "stability", "calmness"]}

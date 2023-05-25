@@ -1,1 +1,1 @@
-{"index": 18546, "D": "resembling a tree", "S": ["forested "], "A": []}
+{"index": 18546, "D": "resembling a tree", "S": ["forested"], "A": []}

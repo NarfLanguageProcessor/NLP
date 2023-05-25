@@ -1,1 +1,1 @@
-{"index": 144141, "D": "a flexible tube for conveying a liquid, as water, to a desired point", "S": ["bathed ", "doused ", "drenched ", "flooded ", "irrigated ", "quenched ", "showered ", "sprayed ", "sprinkled ", "washed ", "wet ", "wetted "], "A": ["dry ", "thirsty "]}
+{"index": 144141, "D": "a flexible tube for conveying a liquid, as water, to a desired point", "S": ["bathed", "doused", "drenched", "flooded", "irrigated", "quenched", "showered", "sprayed", "sprinkled", "washed", "wet", "wetted"], "A": ["dry", "thirsty"]}

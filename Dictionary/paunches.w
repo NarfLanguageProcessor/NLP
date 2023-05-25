@@ -1,1 +1,1 @@
-{"index": 228120, "D": "a large and protruding belly; potbelly.", "S": ["abdomen ", "belly ", "bulge ", "epigastrium ", "fat ", "gut ", "potbelly ", "tummy "], "A": ["sleekness "]}
+{"index": 228120, "D": "a large and protruding belly; potbelly.", "S": ["abdomen", "belly", "bulge", "epigastrium", "fat", "gut", "potbelly", "tummy"], "A": ["sleekness"]}

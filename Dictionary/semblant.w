@@ -1,1 +1,1 @@
-{"index": 283655, "D": [], "S": ["possible ", "probable ", "supposed "], "A": ["unlikely "]}
+{"index": 283655, "D": [], "S": ["possible", "probable", "supposed"], "A": ["unlikely"]}

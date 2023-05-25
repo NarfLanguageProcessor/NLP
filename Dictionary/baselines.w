@@ -1,1 +1,1 @@
-{"index": 28510, "D": "the area between bases  within which a base runner  must keep when running from one base  to another.", "S": ["control ", "criterion ", "guideline ", "measure ", "standard "], "A": []}
+{"index": 28510, "D": "the area between bases  within which a base runner  must keep when running from one base  to another.", "S": ["control", "criterion", "guideline", "measure", "standard"], "A": []}

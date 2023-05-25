@@ -1,1 +1,1 @@
-{"index": 64253, "D": "a person who communicates,  especially one skilled at conveying information, ideas, or policy to the public.", "S": ["broadcaster ", "disc jockey ", "newscaster ", "reporter "], "A": []}
+{"index": 64253, "D": "a person who communicates,  especially one skilled at conveying information, ideas, or policy to the public.", "S": ["broadcaster", "disc jockey", "newscaster", "reporter"], "A": []}

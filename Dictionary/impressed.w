@@ -1,1 +1,1 @@
-{"index": 149058, "D": "to affect deeply or strongly in mind or feelings; influence in opinion", "S": ["affected ", "fascinated "], "A": []}
+{"index": 149058, "D": "to affect deeply or strongly in mind or feelings; influence in opinion", "S": ["affected", "fascinated"], "A": []}

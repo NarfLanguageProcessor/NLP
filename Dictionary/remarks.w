@@ -1,1 +1,1 @@
-{"index": 267156, "D": "to say casually, as in making a comment", "S": ["communication ", "conference ", "conversation ", "dialog ", "discourse ", "discussion ", "exchange "], "A": ["quiet ", "silence "]}
+{"index": 267156, "D": "to say casually, as in making a comment", "S": ["communication", "conference", "conversation", "dialog", "discourse", "discussion", "exchange"], "A": ["quiet", "silence"]}

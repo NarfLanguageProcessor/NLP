@@ -1,1 +1,1 @@
-{"index": 91640, "D": "dolphin (def. 2). ", "S": ["Bear Flag State ", "Cal ", "El Dorado ", "Gold Coast ", "Gold Rush State ", "Golden Bear State ", "Golden Poppy State ", "Golden State ", "La La Land ", "Sunkist State "], "A": []}
+{"index": 91640, "D": "dolphin (def. 2). ", "S": ["Bear Flag State", "Cal", "El Dorado", "Gold Coast", "Gold Rush State", "Golden Bear State", "Golden Poppy State", "Golden State", "La La Land", "Sunkist State"], "A": []}

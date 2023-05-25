@@ -1,1 +1,1 @@
-{"index": 333442, "D": "the act of squirming or turning about; wiggling", "S": ["angle ", "change ", "corner ", "curve ", "departure ", "direction ", "reversal ", "round ", "shift ", "spin ", "spiral ", "swing ", "trend ", "twist ", "wind "], "A": ["failure ", "inability ", "miss ", "stagnation "]}
+{"index": 333442, "D": "the act of squirming or turning about; wiggling", "S": ["angle", "change", "corner", "curve", "departure", "direction", "reversal", "round", "shift", "spin", "spiral", "swing", "trend", "twist", "wind"], "A": ["failure", "inability", "miss", "stagnation"]}

@@ -1,1 +1,1 @@
-{"index": 75853, "D": "a person who cuts  the throat  of another; a murderer.", "S": ["assassin ", "butcher ", "executioner ", "exterminator ", "hunter ", "slayer "], "A": []}
+{"index": 75853, "D": "a person who cuts  the throat  of another; a murderer.", "S": ["assassin", "butcher", "executioner", "exterminator", "hunter", "slayer"], "A": []}

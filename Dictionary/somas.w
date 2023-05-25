@@ -1,1 +1,1 @@
-{"index": 296954, "D": "the body of an organism as contrasted with its germ cells.", "S": ["stalk ", "stem ", "torso "], "A": ["extremities "]}
+{"index": 296954, "D": "the body of an organism as contrasted with its germ cells.", "S": ["stalk", "stem", "torso"], "A": ["extremities"]}

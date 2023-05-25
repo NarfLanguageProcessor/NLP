@@ -1,1 +1,1 @@
-{"index": 88609, "D": "to remove or force out of a particular place", "S": ["detached ", "evacuated "], "A": ["established ", "ignored ", "left "]}
+{"index": 88609, "D": "to remove or force out of a particular place", "S": ["detached", "evacuated"], "A": ["established", "ignored", "left"]}

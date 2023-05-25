@@ -1,1 +1,0 @@
-{"index": 255328, "D": "the study and evaluation of character or personality in terms of behavioral and anatomical traits, as gesture, posture and physiognomy.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 101424, "D": "full of or characterized by enthusiasm;  ardent", "S": ["nimbly ", "rapidly ", "vigorously "], "A": ["listlessly ", "slowly ", "sluggishly "]}
+{"index": 101424, "D": "full of or characterized by enthusiasm;  ardent", "S": ["nimbly", "rapidly", "vigorously"], "A": ["listlessly", "slowly", "sluggishly"]}

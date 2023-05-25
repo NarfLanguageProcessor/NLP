@@ -1,1 +1,1 @@
-{"index": 317653, "D": "a person who is trained or skilled in the technicalities of a subject.", "S": ["artisan "], "A": ["apprentice ", "unskilled worker "]}
+{"index": 317653, "D": "a person who is trained or skilled in the technicalities of a subject.", "S": ["artisan"], "A": ["apprentice", "unskilled worker"]}

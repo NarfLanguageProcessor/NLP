@@ -1,1 +1,1 @@
-{"index": 254214, "D": "of, pertaining to, characterized by, or resulting from prudence. ", "S": ["cost-effective ", "efficient ", "practical ", "prudent "], "A": ["inefficient "]}
+{"index": 254214, "D": "of, pertaining to, characterized by, or resulting from prudence. ", "S": ["cost-effective", "efficient", "practical", "prudent"], "A": ["inefficient"]}

@@ -1,1 +1,1 @@
-{"index": 62617, "D": "a carbonated soft drink containing an extract made from kola nuts or an artificial imitation, together with sweeteners and other flavorings.", "S": ["soda ", "soda pop "], "A": []}
+{"index": 62617, "D": "a carbonated soft drink containing an extract made from kola nuts or an artificial imitation, together with sweeteners and other flavorings.", "S": ["soda", "soda pop"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 317354, "D": "the science or technique of classification.", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "pathology ", "physiology ", "phytology ", "pomology "], "A": []}
+{"index": 317354, "D": "the science or technique of classification.", "S": ["anatomy", "cytology", "ecology", "genetics", "horticulture", "morphology", "pathology", "physiology", "phytology", "pomology"], "A": []}

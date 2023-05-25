@@ -1,1 +1,1 @@
-{"index": 48764, "D": [], "S": ["avalanche ", "deluge ", "outpouring ", "torrent ", "waterfall "], "A": []}
+{"index": 48764, "D": [], "S": ["avalanche", "deluge", "outpouring", "torrent", "waterfall"], "A": []}

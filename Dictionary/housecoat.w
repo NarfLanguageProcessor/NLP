@@ -1,1 +1,1 @@
-{"index": 144405, "D": "a woman's robe or dresslike garment in various lengths, for casual wear about the house. ", "S": ["kimono ", "smock "], "A": []}
+{"index": 144405, "D": "a woman's robe or dresslike garment in various lengths, for casual wear about the house. ", "S": ["kimono", "smock"], "A": []}

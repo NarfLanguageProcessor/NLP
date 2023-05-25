@@ -1,1 +1,1 @@
-{"index": 65940, "D": "made certain as to truth, accuracy, validity, availability, etc.", "S": ["accepted ", "proved ", "valid "], "A": []}
+{"index": 65940, "D": "made certain as to truth, accuracy, validity, availability, etc.", "S": ["accepted", "proved", "valid"], "A": []}

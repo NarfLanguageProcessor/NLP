@@ -1,1 +1,0 @@
-{"index": 163831, "D": "a conventional poetic phrase used for or in addition to the usual name of a person or thing, especially in Icelandic and Anglo-Saxon verse, as \u201ca wave traveler\u201d for \u201ca boat.\u201d", "S": [], "A": []}

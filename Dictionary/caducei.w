@@ -1,1 +1,1 @@
-{"index": 44381, "D": "the staff carried by Mercury as messenger of the gods.", "S": ["baton "], "A": []}
+{"index": 44381, "D": "the staff carried by Mercury as messenger of the gods.", "S": ["baton"], "A": []}

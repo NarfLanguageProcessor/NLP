@@ -1,1 +1,1 @@
-{"index": 369129, "D": "keen relish; hearty enjoyment; gusto.", "S": ["musty ", "smelly ", "sour ", "stagnant ", "watery "], "A": ["damp ", "moist ", "wet "]}
+{"index": 369129, "D": "keen relish; hearty enjoyment; gusto.", "S": ["musty", "smelly", "sour", "stagnant", "watery"], "A": ["damp", "moist", "wet"]}

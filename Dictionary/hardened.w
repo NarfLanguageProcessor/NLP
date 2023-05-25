@@ -1,1 +1,1 @@
-{"index": 133639, "D": "made or become hard or harder.", "S": ["coldhearted ", "seasoned "], "A": ["compassionate ", "feeling ", "kind ", "nice ", "sympathetic "]}
+{"index": 133639, "D": "made or become hard or harder.", "S": ["coldhearted", "seasoned"], "A": ["compassionate", "feeling", "kind", "nice", "sympathetic"]}

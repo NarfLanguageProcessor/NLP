@@ -1,1 +1,1 @@
-{"index": 68344, "D": "an enclosure, cage, or pen, usually with bars or wires, in which fowls or other small animals are confined for fattening, transportation, etc.", "S": ["birdcage ", "cage ", "corral ", "enclosure ", "hutch ", "mew ", "pound "], "A": []}
+{"index": 68344, "D": "an enclosure, cage, or pen, usually with bars or wires, in which fowls or other small animals are confined for fattening, transportation, etc.", "S": ["birdcage", "cage", "corral", "enclosure", "hutch", "mew", "pound"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 62899, "D": "capable of being collected. ", "S": ["annals ", "archives ", "keepsakes ", "relics ", "remembrances ", "reminders ", "souvenirs ", "tokens ", "trophies "], "A": []}
+{"index": 62899, "D": "capable of being collected. ", "S": ["annals", "archives", "keepsakes", "relics", "remembrances", "reminders", "souvenirs", "tokens", "trophies"], "A": []}

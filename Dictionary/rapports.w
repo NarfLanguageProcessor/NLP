@@ -1,1 +1,1 @@
-{"index": 260771, "D": "relation; connection, especially harmonious or sympathetic relation", "S": ["affinity ", "compatibility ", "empathy ", "harmony ", "sympathy ", "togetherness "], "A": ["discord ", "incompatibility ", "disagreement "]}
+{"index": 260771, "D": "relation; connection, especially harmonious or sympathetic relation", "S": ["affinity", "compatibility", "empathy", "harmony", "sympathy", "togetherness"], "A": ["discord", "incompatibility", "disagreement"]}

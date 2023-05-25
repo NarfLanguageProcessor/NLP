@@ -1,1 +1,1 @@
-{"index": 151217, "D": "having been instructed in or imbued with a specific belief or point of view, especially one that is partisan or biased", "S": ["brainwashed ", "persuaded ", "programmed "], "A": []}
+{"index": 151217, "D": "having been instructed in or imbued with a specific belief or point of view, especially one that is partisan or biased", "S": ["brainwashed", "persuaded", "programmed"], "A": []}

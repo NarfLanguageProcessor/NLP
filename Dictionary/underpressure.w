@@ -1,1 +1,1 @@
-{"index": 339616, "D": "the exertion of force upon a surface by an object, fluid, etc., in contact with it", "S": ["at gunpoint ", "at knifepoint ", "in a hurry ", "pressured ", "under duress ", "under threat "], "A": []}
+{"index": 339616, "D": "the exertion of force upon a surface by an object, fluid, etc., in contact with it", "S": ["at gunpoint", "at knifepoint", "in a hurry", "pressured", "under duress", "under threat"], "A": []}

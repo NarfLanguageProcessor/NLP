@@ -1,1 +1,0 @@
-{"index": 208825, "D": "of, relating to, or characteristic of a notary public. ", "S": [], "A": []}

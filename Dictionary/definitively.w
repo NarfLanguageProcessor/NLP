@@ -1,1 +1,1 @@
-{"index": 79335, "D": "in a way that is definite, complete, final, or absolute", "S": ["convincingly ", "decisively "], "A": []}
+{"index": 79335, "D": "in a way that is definite, complete, final, or absolute", "S": ["convincingly", "decisively"], "A": []}

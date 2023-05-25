@@ -1,1 +1,1 @@
-{"index": 265389, "D": "refrigerating;  cooling.", "S": ["container "], "A": []}
+{"index": 265389, "D": "refrigerating;  cooling.", "S": ["container"], "A": []}

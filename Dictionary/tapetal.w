@@ -1,1 +1,0 @@
-{"index": 316349, "D": "a layer of cells often investing the archespore in a developing sporangium and absorbed as the spores mature.", "S": [], "A": []}

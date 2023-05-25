@@ -1,1 +1,1 @@
-{"index": 363798, "D": "to express grief, sorrow, or any overpowering emotion by shedding tears; shed tears; cry", "S": ["break down ", "complain ", "grieve ", "howl ", "moan ", "mourn ", "sob ", "wail ", "whimper "], "A": ["be happy ", "gloat ", "praise "]}
+{"index": 363798, "D": "to express grief, sorrow, or any overpowering emotion by shedding tears; shed tears; cry", "S": ["break down", "complain", "grieve", "howl", "moan", "mourn", "sob", "wail", "whimper"], "A": ["be happy", "gloat", "praise"]}

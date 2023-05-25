@@ -1,1 +1,1 @@
-{"index": 93206, "D": "to send, expel, or otherwise cause to move by force or compulsion", "S": ["ride ", "run ", "tour ", "trip "], "A": []}
+{"index": 93206, "D": "to send, expel, or otherwise cause to move by force or compulsion", "S": ["ride", "run", "tour", "trip"], "A": []}

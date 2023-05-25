@@ -1,1 +1,1 @@
-{"index": 360478, "D": "the act or an instance of visualizing", "S": ["decision ", "judgment ", "resolve "], "A": ["indecision ", "wavering ", "problem ", "question ", "trouble "]}
+{"index": 360478, "D": "the act or an instance of visualizing", "S": ["decision", "judgment", "resolve"], "A": ["indecision", "wavering", "problem", "question", "trouble"]}

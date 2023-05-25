@@ -1,1 +1,1 @@
-{"index": 305946, "D": "a mass of straw formed to resemble a man, as for a doll or scarecrow.", "S": ["cover ", "empty suit ", "front ", "hollow man ", "man of straw ", "paper tiger "], "A": []}
+{"index": 305946, "D": "a mass of straw formed to resemble a man, as for a doll or scarecrow.", "S": ["cover", "empty suit", "front", "hollow man", "man of straw", "paper tiger"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 177620, "D": "size; extent; dimensions", "S": ["consequence ", "degree ", "significance ", "weight "], "A": ["insignificance ", "triviality ", "unimportance "]}
+{"index": 177620, "D": "size; extent; dimensions", "S": ["consequence", "degree", "significance", "weight"], "A": ["insignificance", "triviality", "unimportance"]}

@@ -1,1 +1,1 @@
-{"index": 363409, "D": "made of or covered, polished, or treated with wax. ", "S": ["waxy "], "A": ["unimpressionable "]}
+{"index": 363409, "D": "made of or covered, polished, or treated with wax. ", "S": ["waxy"], "A": ["unimpressionable"]}

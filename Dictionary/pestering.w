@@ -1,1 +1,1 @@
-{"index": 232274, "D": "to bother persistently with petty annoyances; trouble", "S": ["anger ", "bothering ", "discontent ", "distress ", "pique "], "A": ["happiness ", "joy ", "pleasure "]}
+{"index": 232274, "D": "to bother persistently with petty annoyances; trouble", "S": ["anger", "bothering", "discontent", "distress", "pique"], "A": ["happiness", "joy", "pleasure"]}

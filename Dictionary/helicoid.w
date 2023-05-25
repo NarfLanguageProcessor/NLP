@@ -1,1 +1,1 @@
-{"index": 135504, "D": "coiled or curving like a spiral.", "S": ["tortile "], "A": []}
+{"index": 135504, "D": "coiled or curving like a spiral.", "S": ["tortile"], "A": []}

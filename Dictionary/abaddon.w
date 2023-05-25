@@ -1,1 +1,1 @@
-{"index": 58, "D": "Apollyon. ", "S": ["inferno ", "misery ", "nightmare ", "purgatory "], "A": ["comfort ", "contentment ", "happiness ", "health ", "joy ", "peace ", "pleasure "]}
+{"index": 58, "D": "Apollyon. ", "S": ["inferno", "misery", "nightmare", "purgatory"], "A": ["comfort", "contentment", "happiness", "health", "joy", "peace", "pleasure"]}

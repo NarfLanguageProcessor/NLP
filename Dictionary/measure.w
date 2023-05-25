@@ -1,1 +1,1 @@
-{"index": 181799, "D": "a unit or standard of measurement", "S": ["part ", "quota "], "A": ["extreme ", "unimportance ", "whole "]}
+{"index": 181799, "D": "a unit or standard of measurement", "S": ["part", "quota"], "A": ["extreme", "unimportance", "whole"]}

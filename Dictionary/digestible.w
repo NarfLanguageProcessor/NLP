@@ -1,1 +1,1 @@
-{"index": 85410, "D": "capable of being digested;  readily digested. ", "S": ["absorbable ", "edible "], "A": []}
+{"index": 85410, "D": "capable of being digested;  readily digested. ", "S": ["absorbable", "edible"], "A": []}

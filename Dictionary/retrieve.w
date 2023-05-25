@@ -1,1 +1,1 @@
-{"index": 270747, "D": "to recover or regain", "S": ["bring back ", "fetch ", "recapture ", "reclaim ", "recover ", "repair ", "rescue ", "restore ", "salvage ", "save "], "A": ["break ", "damage ", "destroy ", "endanger ", "harm ", "hurt ", "injure ", "lose ", "waste ", "forfeit "]}
+{"index": 270747, "D": "to recover or regain", "S": ["bring back", "fetch", "recapture", "reclaim", "recover", "repair", "rescue", "restore", "salvage", "save"], "A": ["break", "damage", "destroy", "endanger", "harm", "hurt", "injure", "lose", "waste", "forfeit"]}

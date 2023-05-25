@@ -1,1 +1,1 @@
-{"index": 211198, "D": "a person or thing that is atypical, bizarre, eccentric, or nonconforming, especially one having beliefs that are unusual but harmless.", "S": ["eccentric "], "A": []}
+{"index": 211198, "D": "a person or thing that is atypical, bizarre, eccentric, or nonconforming, especially one having beliefs that are unusual but harmless.", "S": ["eccentric"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 233422, "D": "the study of phenomena. ", "S": ["intentionality "], "A": []}
+{"index": 233422, "D": "the study of phenomena. ", "S": ["intentionality"], "A": []}

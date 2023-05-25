@@ -1,1 +1,1 @@
-{"index": 13631, "D": "having the form of a ring.", "S": ["annulate ", "annulated ", "circular ", "globular ", "ring-shaped ", "ringed ", "rounded ", "spherical "], "A": []}
+{"index": 13631, "D": "having the form of a ring.", "S": ["annulate", "annulated", "circular", "globular", "ring-shaped", "ringed", "rounded", "spherical"], "A": []}

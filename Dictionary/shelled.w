@@ -1,1 +1,1 @@
-{"index": 287957, "D": "having the shell  removed", "S": ["capsule ", "husk ", "skin "], "A": []}
+{"index": 287957, "D": "having the shell  removed", "S": ["capsule", "husk", "skin"], "A": []}

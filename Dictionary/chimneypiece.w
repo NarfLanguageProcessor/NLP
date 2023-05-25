@@ -1,1 +1,1 @@
-{"index": 54522, "D": "mantlepiece. ", "S": ["mantelpiece "], "A": []}
+{"index": 54522, "D": "mantlepiece. ", "S": ["mantelpiece"], "A": []}

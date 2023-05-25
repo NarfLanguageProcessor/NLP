@@ -1,1 +1,1 @@
-{"index": 107347, "D": "a going out; a departure or emigration, usually of a large number of people", "S": ["departure ", "evacuation ", "flight ", "migration ", "withdrawal "], "A": ["stay ", "arrival ", "arriving ", "coming ", "entrance "]}
+{"index": 107347, "D": "a going out; a departure or emigration, usually of a large number of people", "S": ["departure", "evacuation", "flight", "migration", "withdrawal"], "A": ["stay", "arrival", "arriving", "coming", "entrance"]}

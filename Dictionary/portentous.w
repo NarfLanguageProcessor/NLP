@@ -1,1 +1,1 @@
-{"index": 243621, "D": "of the nature of a portent;  momentous.", "S": ["apocalyptic ", "haunting ", "intriguing ", "ominous "], "A": []}
+{"index": 243621, "D": "of the nature of a portent;  momentous.", "S": ["apocalyptic", "haunting", "intriguing", "ominous"], "A": []}

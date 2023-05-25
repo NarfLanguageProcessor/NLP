@@ -1,1 +1,1 @@
-{"index": 146631, "D": "worshiping idols. ", "S": ["heathen ", "idol worshipping ", "pagan "], "A": []}
+{"index": 146631, "D": "worshiping idols. ", "S": ["heathen", "idol worshipping", "pagan"], "A": []}

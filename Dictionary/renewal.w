@@ -1,1 +1,1 @@
-{"index": 267636, "D": "the act of renewing. ", "S": ["rebirth ", "regeneration ", "rejuvenation ", "restoration ", "resumption ", "revitalization ", "revival "], "A": ["destruction ", "exhaustion ", "impoverishment "]}
+{"index": 267636, "D": "the act of renewing. ", "S": ["rebirth", "regeneration", "rejuvenation", "restoration", "resumption", "revitalization", "revival"], "A": ["destruction", "exhaustion", "impoverishment"]}

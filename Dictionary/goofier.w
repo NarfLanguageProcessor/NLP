@@ -1,1 +1,1 @@
-{"index": 127936, "D": "ridiculous; silly; wacky; nutty", "S": ["crazy ", "dopey ", "flaky ", "foolish ", "idiotic ", "kooky ", "nutty ", "stupid ", "wacky ", "weird "], "A": ["brainy ", "intelligent ", "responsible ", "sane ", "sensible ", "smart "]}
+{"index": 127936, "D": "ridiculous; silly; wacky; nutty", "S": ["crazy", "dopey", "flaky", "foolish", "idiotic", "kooky", "nutty", "stupid", "wacky", "weird"], "A": ["brainy", "intelligent", "responsible", "sane", "sensible", "smart"]}

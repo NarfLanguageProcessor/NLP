@@ -1,1 +1,1 @@
-{"index": 226612, "D": "a person who is expert in the formal rules and procedures of deliberative assemblies and other formal organizations.", "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}
+{"index": 226612, "D": "a person who is expert in the formal rules and procedures of deliberative assemblies and other formal organizations.", "S": ["congressional", "parliamentary", "senatorial"], "A": []}

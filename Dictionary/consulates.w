@@ -1,1 +1,1 @@
-{"index": 67156, "D": "the premises officially occupied by a consul. ", "S": ["ministry "], "A": []}
+{"index": 67156, "D": "the premises officially occupied by a consul. ", "S": ["ministry"], "A": []}

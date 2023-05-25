@@ -1,1 +1,1 @@
-{"index": 326565, "D": "an act or instance of scoring six points by being in possession of the ball on or behind the opponent's goal line.", "S": ["goal ", "score ", "six points "], "A": []}
+{"index": 326565, "D": "an act or instance of scoring six points by being in possession of the ball on or behind the opponent's goal line.", "S": ["goal", "score", "six points"], "A": []}

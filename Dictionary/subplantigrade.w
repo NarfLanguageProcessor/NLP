@@ -1,1 +1,0 @@
-{"index": 308840, "D": "walking on the whole sole of the foot, as humans and bears.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 43524, "D": "broken, fractured, or seriously damaged", "S": ["bankrupt ", "destitute ", "dirt poor ", "flat broke ", "impoverished ", "in need of ", "indigent ", "needy ", "poor ", "poverty-stricken "], "A": []}
+{"index": 43524, "D": "broken, fractured, or seriously damaged", "S": ["bankrupt", "destitute", "dirt poor", "flat broke", "impoverished", "in need of", "indigent", "needy", "poor", "poverty-stricken"], "A": []}

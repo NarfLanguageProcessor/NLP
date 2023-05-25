@@ -1,1 +1,1 @@
-{"index": 325296, "D": "a payment or fee exacted by the state, the local authorities, etc., for some right or privilege, as for passage along a road or over a bridge.", "S": ["cost ", "expense ", "levy ", "payment ", "price ", "rate ", "tariff ", "tax "], "A": []}
+{"index": 325296, "D": "a payment or fee exacted by the state, the local authorities, etc., for some right or privilege, as for passage along a road or over a bridge.", "S": ["cost", "expense", "levy", "payment", "price", "rate", "tariff", "tax"], "A": []}

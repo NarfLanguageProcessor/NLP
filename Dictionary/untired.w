@@ -1,1 +1,1 @@
-{"index": 353073, "D": [], "S": ["energetic ", "recovered ", "refreshed ", "relaxed "], "A": ["asleep "]}
+{"index": 353073, "D": [], "S": ["energetic", "recovered", "refreshed", "relaxed"], "A": ["asleep"]}

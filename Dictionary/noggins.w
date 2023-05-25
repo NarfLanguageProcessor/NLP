@@ -1,1 +1,1 @@
-{"index": 200760, "D": "a small cup or mug.", "S": ["cup ", "dome ", "mug ", "noddle ", "pate "], "A": []}
+{"index": 200760, "D": "a small cup or mug.", "S": ["cup", "dome", "mug", "noddle", "pate"], "A": []}

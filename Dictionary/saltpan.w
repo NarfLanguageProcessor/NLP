@@ -1,1 +1,0 @@
-{"index": 277337, "D": "an undrained natural depression, as a crater or tectonic basin, in which the evaporation of water leaves a deposit of salt.", "S": [], "A": []}

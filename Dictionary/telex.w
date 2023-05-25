@@ -1,1 +1,1 @@
-{"index": 318319, "D": "a two-way teletypewriter service channeled through a public telecommunications system for instantaneous, direct communication between subscribers at remote locations.", "S": ["summons ", "telegraph "], "A": []}
+{"index": 318319, "D": "a two-way teletypewriter service channeled through a public telecommunications system for instantaneous, direct communication between subscribers at remote locations.", "S": ["summons", "telegraph"], "A": []}

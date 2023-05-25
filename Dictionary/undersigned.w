@@ -1,1 +1,1 @@
-{"index": 339820, "D": "being the one or ones whose signature appears at the end of a letter or document", "S": ["endorser ", "petitioner ", "signatory ", "signer ", "subscriber "], "A": []}
+{"index": 339820, "D": "being the one or ones whose signature appears at the end of a letter or document", "S": ["endorser", "petitioner", "signatory", "signer", "subscriber"], "A": []}

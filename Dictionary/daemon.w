@@ -1,1 +1,1 @@
-{"index": 76135, "D": "a subordinate deity, as the genius of a place or a person's attendant spirit.", "S": ["demon ", "devil ", "phantom ", "shadow ", "soul ", "specter ", "vampire ", "vision "], "A": ["living being "]}
+{"index": 76135, "D": "a subordinate deity, as the genius of a place or a person's attendant spirit.", "S": ["demon", "devil", "phantom", "shadow", "soul", "specter", "vampire", "vision"], "A": ["living being"]}

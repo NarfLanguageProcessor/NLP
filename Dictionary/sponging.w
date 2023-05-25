@@ -1,1 +1,1 @@
-{"index": 300780, "D": "any aquatic, chiefly marine animal of the phylum Porifera, having a porous structure and usually a horny, siliceous or calcareous internal skeleton or framework, occurring in large, sessile colonies.", "S": ["bumming ", "leeching "], "A": []}
+{"index": 300780, "D": "any aquatic, chiefly marine animal of the phylum Porifera, having a porous structure and usually a horny, siliceous or calcareous internal skeleton or framework, occurring in large, sessile colonies.", "S": ["bumming", "leeching"], "A": []}

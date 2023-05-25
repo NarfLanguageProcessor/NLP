@@ -1,1 +1,1 @@
-{"index": 288824, "D": "the act of stealing goods from a shop during shopping hours", "S": ["burglary ", "embezzlement ", "larceny ", "piracy ", "robbery "], "A": []}
+{"index": 288824, "D": "the act of stealing goods from a shop during shopping hours", "S": ["burglary", "embezzlement", "larceny", "piracy", "robbery"], "A": []}

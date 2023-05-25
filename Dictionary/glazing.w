@@ -1,1 +1,1 @@
-{"index": 126071, "D": "the act of furnishing or fitting with glass; the business or work of a glazier.", "S": ["enamel ", "sheen "], "A": ["darkness ", "dullness "]}
+{"index": 126071, "D": "the act of furnishing or fitting with glass; the business or work of a glazier.", "S": ["enamel", "sheen"], "A": ["darkness", "dullness"]}

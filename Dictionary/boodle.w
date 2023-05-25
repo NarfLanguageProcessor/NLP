@@ -1,0 +1,1 @@
+{"index": 38011, "D": "the lot, pack, or crowd", "S": ["chisel", "crowd", "flimflam", "graft", "loot", "plunder"], "A": ["give", "receive"]}

@@ -1,1 +1,1 @@
-{"index": 81951, "D": "a person appointed or authorized to act as a substitute for another or others.", "S": ["aide ", "appointee ", "commissioner ", "delegate ", "minister ", "representative "], "A": ["chief ", "manager "]}
+{"index": 81951, "D": "a person appointed or authorized to act as a substitute for another or others.", "S": ["aide", "appointee", "commissioner", "delegate", "minister", "representative"], "A": ["chief", "manager"]}

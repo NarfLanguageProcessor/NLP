@@ -1,1 +1,1 @@
-{"index": 106366, "D": "without, not including, or without the right to have", "S": ["once "], "A": []}
+{"index": 106366, "D": "without, not including, or without the right to have", "S": ["once"], "A": []}

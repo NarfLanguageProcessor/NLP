@@ -1,1 +1,1 @@
-{"index": 267484, "D": "the act of removing. ", "S": ["deportation ", "discharge ", "elimination ", "eradication ", "evacuation ", "eviction ", "expulsion ", "replacement "], "A": ["welcoming "]}
+{"index": 267484, "D": "the act of removing. ", "S": ["deportation", "discharge", "elimination", "eradication", "evacuation", "eviction", "expulsion", "replacement"], "A": ["welcoming"]}

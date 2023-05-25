@@ -1,1 +1,1 @@
-{"index": 114946, "D": "a floor manager. ", "S": ["director ", "floorwalker ", "overseer "], "A": []}
+{"index": 114946, "D": "a floor manager. ", "S": ["director", "floorwalker", "overseer"], "A": []}

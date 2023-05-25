@@ -1,1 +1,1 @@
-{"index": 103471, "D": "to remove or destroy utterly; extirpate", "S": ["broken ", "demolished ", "devastated ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}
+{"index": 103471, "D": "to remove or destroy utterly; extirpate", "S": ["broken", "demolished", "devastated", "lost", "ravaged", "ruined", "shattered", "smashed", "wrecked"], "A": ["fixed", "repaired", "sober", "successful"]}

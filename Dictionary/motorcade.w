@@ -1,1 +1,1 @@
-{"index": 194049, "D": "a procession or parade of automobiles or other motor  vehicles.", "S": ["caravan ", "convoy ", "parade "], "A": []}
+{"index": 194049, "D": "a procession or parade of automobiles or other motor  vehicles.", "S": ["caravan", "convoy", "parade"], "A": []}

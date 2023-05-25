@@ -1,1 +1,1 @@
-{"index": 117676, "D": "protected or strengthened against attack; provided with defensive military works", "S": ["barricaded ", "covered ", "guarded ", "protected ", "reinforced ", "secured ", "strengthened ", "walled "], "A": ["open ", "unguarded ", "unprotected "]}
+{"index": 117676, "D": "protected or strengthened against attack; provided with defensive military works", "S": ["barricaded", "covered", "guarded", "protected", "reinforced", "secured", "strengthened", "walled"], "A": ["open", "unguarded", "unprotected"]}

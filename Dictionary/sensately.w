@@ -1,1 +1,0 @@
-{"index": 285325, "D": "perceiving or perceived through the senses. ", "S": [], "A": []}

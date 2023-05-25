@@ -1,1 +1,1 @@
-{"index": 131874, "D": "hack2 (def. 7b). ", "S": ["cab driver ", "cabbie ", "cabby ", "cabman ", "hack ", "hackman "], "A": []}
+{"index": 131874, "D": "hack2 (def. 7b). ", "S": ["cab driver", "cabbie", "cabby", "cabman", "hack", "hackman"], "A": []}

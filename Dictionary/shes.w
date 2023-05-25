@@ -1,1 +1,1 @@
-{"index": 288127, "D": "contraction of she is.", "S": ["daughter ", "girl ", "mother ", "wife "], "A": ["man "]}
+{"index": 288127, "D": "contraction of she is.", "S": ["daughter", "girl", "mother", "wife"], "A": ["man"]}

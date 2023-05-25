@@ -1,1 +1,0 @@
-{"index": 316338, "D": "a strip of cloth, paper, or plastic with an adhesive surface, used for sealing, binding, or attaching items together; adhesive tape  or masking tape. ", "S": ["line ", "rope "], "A": []}

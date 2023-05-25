@@ -1,1 +1,1 @@
-{"index": 65869, "D": "a person who confesses. ", "S": ["priest "], "A": []}
+{"index": 65869, "D": "a person who confesses. ", "S": ["priest"], "A": []}

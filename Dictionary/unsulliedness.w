@@ -1,1 +1,1 @@
-{"index": 352378, "D": [], "S": ["clarity ", "cleanliness ", "cleanness ", "immaculateness ", "whiteness "], "A": ["dirtiness "]}
+{"index": 352378, "D": [], "S": ["clarity", "cleanliness", "cleanness", "immaculateness", "whiteness"], "A": ["dirtiness"]}

@@ -1,1 +1,1 @@
-{"index": 61562, "D": "a space, usually enclosed, in the forward fuselage of an airplane containing the flying controls, instrument panel, and seats for the pilot and copilot or flight crew.", "S": ["cabin ", "compartment "], "A": []}
+{"index": 61562, "D": "a space, usually enclosed, in the forward fuselage of an airplane containing the flying controls, instrument panel, and seats for the pilot and copilot or flight crew.", "S": ["cabin", "compartment"], "A": []}

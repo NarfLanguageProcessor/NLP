@@ -1,1 +1,1 @@
-{"index": 75206, "D": "the person in charge of a museum, art collection, etc.", "S": ["administrator ", "conservator ", "custodian ", "director ", "manager "], "A": ["employee "]}
+{"index": 75206, "D": "the person in charge of a museum, art collection, etc.", "S": ["administrator", "conservator", "custodian", "director", "manager"], "A": ["employee"]}

@@ -1,1 +1,1 @@
-{"index": 169581, "D": "a compost or layer of soil consisting chiefly of decayed vegetable matter, especially leaves.", "S": ["fertilizer "], "A": []}
+{"index": 169581, "D": "a compost or layer of soil consisting chiefly of decayed vegetable matter, especially leaves.", "S": ["fertilizer"], "A": []}

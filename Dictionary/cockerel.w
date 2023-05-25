@@ -1,1 +1,1 @@
-{"index": 61489, "D": "a young domestic cock.", "S": ["hen ", "poultry "], "A": []}
+{"index": 61489, "D": "a young domestic cock.", "S": ["hen", "poultry"], "A": []}

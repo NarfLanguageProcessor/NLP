@@ -1,1 +1,1 @@
-{"index": 294561, "D": "slumberous. ", "S": ["out ", "quiet ", "sleeping ", "slow ", "yawning "], "A": []}
+{"index": 294561, "D": "slumberous. ", "S": ["out", "quiet", "sleeping", "slow", "yawning"], "A": []}

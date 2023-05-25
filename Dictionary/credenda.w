@@ -1,1 +1,1 @@
-{"index": 72478, "D": "a doctrine that requires belief; article of faith.", "S": ["attitude ", "axiom ", "belief ", "concept ", "creed ", "dogma ", "precept ", "proposition ", "regulation ", "rule ", "statement ", "teaching ", "tenet ", "tradition "], "A": ["ambiguity "]}
+{"index": 72478, "D": "a doctrine that requires belief; article of faith.", "S": ["attitude", "axiom", "belief", "concept", "creed", "dogma", "precept", "proposition", "regulation", "rule", "statement", "teaching", "tenet", "tradition"], "A": ["ambiguity"]}

@@ -1,1 +1,1 @@
-{"index": 287566, "D": "a single-shot, lever-action breechloader rifle patented in the U.S. in 1848 and adopted by the U.S. military in the 1850s.", "S": ["character ", "sign ", "tone "], "A": ["heedlessness ", "ignorance ", "neglect "]}
+{"index": 287566, "D": "a single-shot, lever-action breechloader rifle patented in the U.S. in 1848 and adopted by the U.S. military in the 1850s.", "S": ["character", "sign", "tone"], "A": ["heedlessness", "ignorance", "neglect"]}

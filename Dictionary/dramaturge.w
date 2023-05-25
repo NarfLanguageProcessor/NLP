@@ -1,1 +1,1 @@
-{"index": 92676, "D": "a specialist in dramaturgy,  the craft and techniques of dramatic composition, especially one who acts as a consultant to a theater company and advises them on possible repertoire.", "S": ["author ", "writer "], "A": []}
+{"index": 92676, "D": "a specialist in dramaturgy,  the craft and techniques of dramatic composition, especially one who acts as a consultant to a theater company and advises them on possible repertoire.", "S": ["author", "writer"], "A": []}

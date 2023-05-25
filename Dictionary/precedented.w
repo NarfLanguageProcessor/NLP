@@ -1,1 +1,1 @@
-{"index": 245977, "D": "(of a decision, etc) supported by having a precedent", "S": ["constitutional ", "contractual ", "fair ", "juridical ", "lawful ", "legitimate ", "proper ", "statutory ", "valid "], "A": ["illegal ", "illegitimate ", "invalid ", "unacceptable ", "unlawful "]}
+{"index": 245977, "D": "(of a decision, etc) supported by having a precedent", "S": ["constitutional", "contractual", "fair", "juridical", "lawful", "legitimate", "proper", "statutory", "valid"], "A": ["illegal", "illegitimate", "invalid", "unacceptable", "unlawful"]}

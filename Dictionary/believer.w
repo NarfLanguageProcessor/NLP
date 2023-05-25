@@ -1,1 +1,1 @@
-{"index": 31088, "D": "someone who has confidence in the truth, existence, or reliability of something", "S": ["adherent ", "devotee ", "disciple ", "follower ", "supporter ", "zealot "], "A": ["adversary "]}
+{"index": 31088, "D": "someone who has confidence in the truth, existence, or reliability of something", "S": ["adherent", "devotee", "disciple", "follower", "supporter", "zealot"], "A": ["adversary"]}

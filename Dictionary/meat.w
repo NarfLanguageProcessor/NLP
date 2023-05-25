@@ -1,1 +1,1 @@
-{"index": 181814, "D": "See also flesh (def. 1), muscle meat. ", "S": ["food ", "foodstuff "], "A": []}
+{"index": 181814, "D": "See also flesh (def. 1), muscle meat. ", "S": ["food", "foodstuff"], "A": []}

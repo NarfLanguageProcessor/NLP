@@ -1,1 +1,1 @@
-{"index": 71493, "D": "a bed quilt that does not cover  the pillow, used chiefly for warmth; bedspread.", "S": ["afghan ", "comforter ", "quilt ", "spread ", "throw "], "A": []}
+{"index": 71493, "D": "a bed quilt that does not cover  the pillow, used chiefly for warmth; bedspread.", "S": ["afghan", "comforter", "quilt", "spread", "throw"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 106871, "D": "to clear from a charge of guilt or fault; free from blame; vindicate. ", "S": ["clean "], "A": ["culpable ", "guilty ", "responsible "]}
+{"index": 106871, "D": "to clear from a charge of guilt or fault; free from blame; vindicate. ", "S": ["clean"], "A": ["culpable", "guilty", "responsible"]}

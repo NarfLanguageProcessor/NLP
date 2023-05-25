@@ -1,1 +1,1 @@
-{"index": 277414, "D": "compensation given to those who voluntarily save a ship or its cargo.", "S": ["defender ", "guardian angel ", "hero ", "liberator ", "protector ", "salvation "], "A": ["Satan ", "enemy ", "foe "]}
+{"index": 277414, "D": "compensation given to those who voluntarily save a ship or its cargo.", "S": ["defender", "guardian angel", "hero", "liberator", "protector", "salvation"], "A": ["Satan", "enemy", "foe"]}

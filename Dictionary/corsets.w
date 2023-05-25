@@ -1,1 +1,1 @@
-{"index": 69817, "D": "a close-fitting undergarment, stiffened with whalebone or similar material and often capable of being tightened by lacing, enclosing the trunk", "S": ["bodice ", "underwear "], "A": []}
+{"index": 69817, "D": "a close-fitting undergarment, stiffened with whalebone or similar material and often capable of being tightened by lacing, enclosing the trunk", "S": ["bodice", "underwear"], "A": []}

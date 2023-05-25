@@ -1,1 +1,1 @@
-{"index": 196930, "D": "inordinate fascination with oneself; excessive self-love; vanity. ", "S": ["arrogance ", "self-absorption ", "selfishness "], "A": ["humility ", "meekness ", "modesty ", "shyness ", "timidity "]}
+{"index": 196930, "D": "inordinate fascination with oneself; excessive self-love; vanity. ", "S": ["arrogance", "self-absorption", "selfishness"], "A": ["humility", "meekness", "modesty", "shyness", "timidity"]}

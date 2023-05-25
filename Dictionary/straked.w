@@ -1,1 +1,1 @@
-{"index": 305728, "D": "a continuous course of planks or plates on a ship forming a hull shell, deck, etc.", "S": ["smear "], "A": []}
+{"index": 305728, "D": "a continuous course of planks or plates on a ship forming a hull shell, deck, etc.", "S": ["smear"], "A": []}

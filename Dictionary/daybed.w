@@ -1,1 +1,1 @@
-{"index": 76266, "D": "a couch that can be used as a sofa by day  and a bed  by night.", "S": ["bed ", "chair ", "lounge "], "A": []}
+{"index": 76266, "D": "a couch that can be used as a sofa by day  and a bed  by night.", "S": ["bed", "chair", "lounge"], "A": []}

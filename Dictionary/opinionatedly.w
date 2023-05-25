@@ -1,1 +1,1 @@
-{"index": 213557, "D": "obstinate or conceited with regard to the merit of one's own opinions;  conceitedly dogmatic.", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}
+{"index": 213557, "D": "obstinate or conceited with regard to the merit of one's own opinions;  conceitedly dogmatic.", "S": ["mulishly", "obdurately"], "A": ["graciously", "obediently"]}

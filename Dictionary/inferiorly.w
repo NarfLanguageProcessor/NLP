@@ -1,1 +1,1 @@
-{"index": 151925, "D": "lower in station, rank, degree, or grade (often followed by to)", "S": ["badly ", "crudely ", "inadequately ", "insufficiently "], "A": ["satisfactorily ", "well "]}
+{"index": 151925, "D": "lower in station, rank, degree, or grade (often followed by to)", "S": ["badly", "crudely", "inadequately", "insufficiently"], "A": ["satisfactorily", "well"]}

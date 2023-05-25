@@ -1,1 +1,1 @@
-{"index": 282570, "D": "a sketch, painting, or photograph of the sea.", "S": ["environment ", "landscape ", "view ", "world "], "A": []}
+{"index": 282570, "D": "a sketch, painting, or photograph of the sea.", "S": ["environment", "landscape", "view", "world"], "A": []}

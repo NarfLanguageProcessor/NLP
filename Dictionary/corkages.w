@@ -1,1 +1,1 @@
-{"index": 69172, "D": "Compare cakeage. ", "S": ["additional charge ", "cover charge "], "A": []}
+{"index": 69172, "D": "Compare cakeage. ", "S": ["additional charge", "cover charge"], "A": []}

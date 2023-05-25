@@ -1,1 +1,1 @@
-{"index": 181127, "D": "of, pertaining to, having the qualities of, or befitting a mother", "S": ["parental "], "A": ["paternal "]}
+{"index": 181127, "D": "of, pertaining to, having the qualities of, or befitting a mother", "S": ["parental"], "A": ["paternal"]}

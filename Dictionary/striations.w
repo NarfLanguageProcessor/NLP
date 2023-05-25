@@ -1,1 +1,1 @@
-{"index": 306184, "D": "striated  condition or appearance.", "S": ["fiber "], "A": []}
+{"index": 306184, "D": "striated  condition or appearance.", "S": ["fiber"], "A": []}

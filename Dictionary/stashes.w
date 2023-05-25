@@ -1,1 +1,1 @@
-{"index": 303005, "D": "to put by or away as for safekeeping or future use, usually in a secret place (usually followed by away)", "S": ["cache ", "hoard ", "inventory ", "nest egg ", "stockpile ", "trove "], "A": ["debt ", "lack ", "need ", "poverty "]}
+{"index": 303005, "D": "to put by or away as for safekeeping or future use, usually in a secret place (usually followed by away)", "S": ["cache", "hoard", "inventory", "nest egg", "stockpile", "trove"], "A": ["debt", "lack", "need", "poverty"]}

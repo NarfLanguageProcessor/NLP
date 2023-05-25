@@ -1,1 +1,1 @@
-{"index": 232168, "D": "to read through with thoroughness or care", "S": ["analyze ", "browse ", "inspect ", "look through ", "pore over ", "scan ", "scrutinize ", "skim "], "A": ["neglect ", "overlook "]}
+{"index": 232168, "D": "to read through with thoroughness or care", "S": ["analyze", "browse", "inspect", "look through", "pore over", "scan", "scrutinize", "skim"], "A": ["neglect", "overlook"]}

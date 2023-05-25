@@ -1,1 +1,1 @@
-{"index": 49100, "D": "a fortified, usually walled residence, as of a prince or noble in feudal times.", "S": ["change ", "commerce ", "network ", "swap ", "transaction ", "transfer "], "A": ["stagnation "]}
+{"index": 49100, "D": "a fortified, usually walled residence, as of a prince or noble in feudal times.", "S": ["change", "commerce", "network", "swap", "transaction", "transfer"], "A": ["stagnation"]}

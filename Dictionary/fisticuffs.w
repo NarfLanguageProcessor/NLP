@@ -1,1 +1,1 @@
-{"index": 113483, "D": "combat with the fists", "S": ["boxing ", "encounter ", "fight "], "A": []}
+{"index": 113483, "D": "combat with the fists", "S": ["boxing", "encounter", "fight"], "A": []}

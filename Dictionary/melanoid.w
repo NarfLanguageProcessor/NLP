@@ -1,1 +1,1 @@
-{"index": 182745, "D": "of or characterized by melanosis. ", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}
+{"index": 182745, "D": "of or characterized by melanosis. ", "S": ["sunless", "unlighted", "unlit"], "A": ["bright", "sunny"]}

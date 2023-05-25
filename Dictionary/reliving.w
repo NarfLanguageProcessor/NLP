@@ -1,1 +1,1 @@
-{"index": 267016, "D": "to experience again, as an emotion.", "S": ["hallucination ", "memory ", "recollection "], "A": []}
+{"index": 267016, "D": "to experience again, as an emotion.", "S": ["hallucination", "memory", "recollection"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 287079, "D": "a dark figure or image cast on the ground or some surface by a body intercepting light.", "S": ["dark ", "gloom ", "obscurity ", "shade "], "A": ["brightness ", "light "]}
+{"index": 287079, "D": "a dark figure or image cast on the ground or some surface by a body intercepting light.", "S": ["dark", "gloom", "obscurity", "shade"], "A": ["brightness", "light"]}

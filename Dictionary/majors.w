@@ -1,1 +1,1 @@
-{"index": 178071, "D": "a commissioned military officer ranking next below a lieutenant colonel and next above a captain.", "S": ["big time ", "major league "], "A": []}
+{"index": 178071, "D": "a commissioned military officer ranking next below a lieutenant colonel and next above a captain.", "S": ["big time", "major league"], "A": []}

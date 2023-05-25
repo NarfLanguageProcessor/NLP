@@ -1,1 +1,1 @@
-{"index": 333622, "D": "an archaic term for rain gauge", "S": ["Nilometer ", "hygrometry ", "pluviometer "], "A": []}
+{"index": 333622, "D": "an archaic term for rain gauge", "S": ["Nilometer", "hygrometry", "pluviometer"], "A": []}

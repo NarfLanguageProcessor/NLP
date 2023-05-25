@@ -1,1 +1,1 @@
-{"index": 279611, "D": "the structural casings of the internal gas paths in an aeroengine", "S": ["girder ", "joist ", "piling ", "pillar ", "plank ", "pole ", "shaft ", "sill ", "timber "], "A": []}
+{"index": 279611, "D": "the structural casings of the internal gas paths in an aeroengine", "S": ["girder", "joist", "piling", "pillar", "plank", "pole", "shaft", "sill", "timber"], "A": []}

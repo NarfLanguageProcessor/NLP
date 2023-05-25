@@ -1,1 +1,1 @@
-{"index": 344690, "D": "not expressing or enjoying mental activity", "S": ["boring ", "dim ", "dumb ", "simple ", "slow ", "sluggish ", "stupid "], "A": ["active ", "bright ", "cognizant ", "exciting ", "intelligent ", "interesting ", "smart "]}
+{"index": 344690, "D": "not expressing or enjoying mental activity", "S": ["boring", "dim", "dumb", "simple", "slow", "sluggish", "stupid"], "A": ["active", "bright", "cognizant", "exciting", "intelligent", "interesting", "smart"]}

@@ -1,1 +1,1 @@
-{"index": 289743, "D": "having a specified number or kind of sides  (often used in combination)", "S": ["abut ", "adjoin ", "encircle ", "flank ", "neighbor ", "surround "], "A": ["let go ", "center ", "free ", "loose ", "lose ", "release "]}
+{"index": 289743, "D": "having a specified number or kind of sides  (often used in combination)", "S": ["abut", "adjoin", "encircle", "flank", "neighbor", "surround"], "A": ["let go", "center", "free", "loose", "lose", "release"]}

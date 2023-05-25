@@ -1,1 +1,1 @@
-{"index": 83438, "D": "to devalue. ", "S": ["depress ", "devalue ", "diminish ", "lessen ", "undervalue "], "A": ["enlarge ", "extend ", "increase ", "overvalue ", "praise ", "raise "]}
+{"index": 83438, "D": "to devalue. ", "S": ["depress", "devalue", "diminish", "lessen", "undervalue"], "A": ["enlarge", "extend", "increase", "overvalue", "praise", "raise"]}

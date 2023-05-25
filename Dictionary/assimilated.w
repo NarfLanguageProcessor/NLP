@@ -1,1 +1,1 @@
-{"index": 21793, "D": "to take in and incorporate as one's own; absorb", "S": ["integrated "], "A": []}
+{"index": 21793, "D": "to take in and incorporate as one's own; absorb", "S": ["integrated"], "A": []}

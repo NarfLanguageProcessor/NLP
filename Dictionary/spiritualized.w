@@ -1,1 +1,1 @@
-{"index": 300141, "D": "to make spiritual. ", "S": ["acquaint ", "enlighten ", "ennoble ", "humanize ", "idealize ", "refine ", "sophisticate ", "tame "], "A": ["mislead ", "condemn ", "decrease ", "demote ", "hurt ", "ignore ", "learn ", "neglect ", "worsen "]}
+{"index": 300141, "D": "to make spiritual. ", "S": ["acquaint", "enlighten", "ennoble", "humanize", "idealize", "refine", "sophisticate", "tame"], "A": ["mislead", "condemn", "decrease", "demote", "hurt", "ignore", "learn", "neglect", "worsen"]}

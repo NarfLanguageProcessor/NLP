@@ -1,1 +1,1 @@
-{"index": 93060, "D": "a driving movement or force; impulse; impetus; pressure. ", "S": ["alluvion ", "bank ", "batch ", "bunch ", "bundle ", "clump ", "cluster ", "deposit ", "heap ", "hill ", "lot ", "mass ", "mound ", "mountain ", "parcel ", "pile ", "set ", "shock ", "stack "], "A": []}
+{"index": 93060, "D": "a driving movement or force; impulse; impetus; pressure. ", "S": ["alluvion", "bank", "batch", "bunch", "bundle", "clump", "cluster", "deposit", "heap", "hill", "lot", "mass", "mound", "mountain", "parcel", "pile", "set", "shock", "stack"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25800, "D": "the ground or parts, as of a scene, situated in the rear (opposed to foreground).", "S": ["backdrop ", "culture ", "education ", "environment ", "history ", "practice ", "qualification ", "tradition ", "training ", "upbringing "], "A": ["ignorance "]}
+{"index": 25800, "D": "the ground or parts, as of a scene, situated in the rear (opposed to foreground).", "S": ["backdrop", "culture", "education", "environment", "history", "practice", "qualification", "tradition", "training", "upbringing"], "A": ["ignorance"]}

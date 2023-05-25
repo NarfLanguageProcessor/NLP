@@ -1,1 +1,1 @@
-{"index": 93864, "D": "owed at present; having reached the date for payment", "S": ["entitlement ", "privilege ", "request ", "rights "], "A": []}
+{"index": 93864, "D": "owed at present; having reached the date for payment", "S": ["entitlement", "privilege", "request", "rights"], "A": []}

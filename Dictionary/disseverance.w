@@ -1,1 +1,1 @@
-{"index": 89516, "D": "to sever; separate.", "S": ["detachment ", "disseverment ", "disunion ", "parting ", "partition ", "separation ", "severance ", "split ", "splitting up "], "A": []}
+{"index": 89516, "D": "to sever; separate.", "S": ["detachment", "disseverment", "disunion", "parting", "partition", "separation", "severance", "split", "splitting up"], "A": []}

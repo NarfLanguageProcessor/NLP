@@ -1,1 +1,1 @@
-{"index": 83213, "D": "to feel abhorrence of; hate; dislike intensely.", "S": ["abhor ", "despise ", "loathe "], "A": ["admire ", "cherish ", "like ", "love ", "approve "]}
+{"index": 83213, "D": "to feel abhorrence of; hate; dislike intensely.", "S": ["abhor", "despise", "loathe"], "A": ["admire", "cherish", "like", "love", "approve"]}

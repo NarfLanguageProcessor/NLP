@@ -1,1 +1,0 @@
-{"index": 311839, "D": "with great intensity of spirit, feeling, enthusiasm, etc.; vehemently", "S": [], "A": []}

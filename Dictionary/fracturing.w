@@ -1,1 +1,1 @@
-{"index": 118186, "D": "Compare comminuted fracture, complete fracture, compound fracture, greenstick fracture, simple fracture. ", "S": ["collapsing ", "cracking ", "crumbling ", "shattering ", "smashing ", "splintering ", "splitting ", "tearing "], "A": ["enduring ", "strong "]}
+{"index": 118186, "D": "Compare comminuted fracture, complete fracture, compound fracture, greenstick fracture, simple fracture. ", "S": ["collapsing", "cracking", "crumbling", "shattering", "smashing", "splintering", "splitting", "tearing"], "A": ["enduring", "strong"]}

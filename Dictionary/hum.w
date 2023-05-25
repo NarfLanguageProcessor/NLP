@@ -1,1 +1,1 @@
-{"index": 144839, "D": "to make a low, continuous, droning sound.", "S": ["croon ", "moan ", "mumble ", "murmur ", "purr ", "sing ", "strum ", "throb ", "trill ", "warble ", "whisper "], "A": []}
+{"index": 144839, "D": "to make a low, continuous, droning sound.", "S": ["croon", "moan", "mumble", "murmur", "purr", "sing", "strum", "throb", "trill", "warble", "whisper"], "A": []}

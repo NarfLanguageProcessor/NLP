@@ -1,1 +1,1 @@
-{"index": 41189, "D": "to cook by direct heat, as on a gridiron over the heat or in an oven under the heat; grill", "S": ["baking ", "burning ", "roasting ", "scalding ", "scorching ", "sizzling ", "sweltering "], "A": ["cold ", "cool "]}
+{"index": 41189, "D": "to cook by direct heat, as on a gridiron over the heat or in an oven under the heat; grill", "S": ["baking", "burning", "roasting", "scalding", "scorching", "sizzling", "sweltering"], "A": ["cold", "cool"]}

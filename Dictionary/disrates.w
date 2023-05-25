@@ -1,1 +1,1 @@
-{"index": 89303, "D": "to reduce to a lower rating  or rank.", "S": ["bump ", "dismiss ", "relegate "], "A": ["hold ", "keep ", "elevate ", "fix ", "increase ", "mend ", "raise ", "strengthen ", "upgrade "]}
+{"index": 89303, "D": "to reduce to a lower rating  or rank.", "S": ["bump", "dismiss", "relegate"], "A": ["hold", "keep", "elevate", "fix", "increase", "mend", "raise", "strengthen", "upgrade"]}

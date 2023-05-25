@@ -1,1 +1,1 @@
-{"index": 75495, "D": "a hanging piece of fabric used to shut out the light from a window, adorn a room, increase privacy, etc.", "S": ["decoration ", "drape ", "drapery ", "screen ", "shade ", "shroud ", "shutter ", "veil "], "A": []}
+{"index": 75495, "D": "a hanging piece of fabric used to shut out the light from a window, adorn a room, increase privacy, etc.", "S": ["decoration", "drape", "drapery", "screen", "shade", "shroud", "shutter", "veil"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 286474, "D": "the act of a person or thing that serves. ", "S": ["dollop ", "plate "], "A": []}
+{"index": 286474, "D": "the act of a person or thing that serves. ", "S": ["dollop", "plate"], "A": []}

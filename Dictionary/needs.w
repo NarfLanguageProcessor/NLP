@@ -1,1 +1,1 @@
-{"index": 197968, "D": "of necessity; necessarily (usually preceded or followed by must)", "S": ["demands ", "exigencies ", "exigency ", "necessity ", "need ", "requirement ", "requirements ", "want "], "A": []}
+{"index": 197968, "D": "of necessity; necessarily (usually preceded or followed by must)", "S": ["demands", "exigencies", "exigency", "necessity", "need", "requirement", "requirements", "want"], "A": []}

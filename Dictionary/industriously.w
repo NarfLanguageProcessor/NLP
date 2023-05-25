@@ -1,1 +1,1 @@
-{"index": 151430, "D": "working energetically and devotedly; hardworking; diligent", "S": ["actively ", "assiduously ", "busily ", "energetically ", "laboriously ", "sedulously ", "steadily ", "vigorously "], "A": []}
+{"index": 151430, "D": "working energetically and devotedly; hardworking; diligent", "S": ["actively", "assiduously", "busily", "energetically", "laboriously", "sedulously", "steadily", "vigorously"], "A": []}

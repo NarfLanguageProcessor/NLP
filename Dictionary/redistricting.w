@@ -1,1 +1,1 @@
-{"index": 264306, "D": "the activity or process of dividing an area or region into new districts, such as for administrative or electoral purposes", "S": ["allot ", "distribute ", "divide ", "reallocate "], "A": ["collect ", "gather ", "hold ", "keep ", "maintain ", "retain "]}
+{"index": 264306, "D": "the activity or process of dividing an area or region into new districts, such as for administrative or electoral purposes", "S": ["allot", "distribute", "divide", "reallocate"], "A": ["collect", "gather", "hold", "keep", "maintain", "retain"]}

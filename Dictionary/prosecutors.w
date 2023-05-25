@@ -1,1 +1,1 @@
-{"index": 253043, "D": "a person, as a complainant or chief witness, instigating prosecution  in a criminal proceeding.", "S": ["informer ", "rat ", "tattletale "], "A": []}
+{"index": 253043, "D": "a person, as a complainant or chief witness, instigating prosecution  in a criminal proceeding.", "S": ["informer", "rat", "tattletale"], "A": []}

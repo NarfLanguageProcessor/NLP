@@ -1,1 +1,1 @@
-{"index": 74114, "D": "in a way that lacks care, finish, polish, or completion", "S": ["rudely "], "A": []}
+{"index": 74114, "D": "in a way that lacks care, finish, polish, or completion", "S": ["rudely"], "A": []}

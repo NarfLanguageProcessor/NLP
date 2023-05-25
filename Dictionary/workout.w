@@ -1,1 +1,1 @@
-{"index": 367529, "D": "a trial or practice session in athletics, as in running, boxing, or football.", "S": ["conditioning ", "drill ", "rehearsal ", "routine ", "session ", "test ", "training ", "tryout ", "warmup ", "work-out "], "A": ["inactivity "]}
+{"index": 367529, "D": "a trial or practice session in athletics, as in running, boxing, or football.", "S": ["conditioning", "drill", "rehearsal", "routine", "session", "test", "training", "tryout", "warmup", "work-out"], "A": ["inactivity"]}

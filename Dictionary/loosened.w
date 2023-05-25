@@ -1,1 +1,1 @@
-{"index": 175122, "D": "to unfasten or undo, as a bond or fetter.", "S": ["isolated ", "removed ", "severed "], "A": ["attached ", "biased ", "combined ", "compassionate ", "connected ", "coupled ", "engaged ", "interested ", "linked ", "merged ", "sympathetic ", "united "]}
+{"index": 175122, "D": "to unfasten or undo, as a bond or fetter.", "S": ["isolated", "removed", "severed"], "A": ["attached", "biased", "combined", "compassionate", "connected", "coupled", "engaged", "interested", "linked", "merged", "sympathetic", "united"]}

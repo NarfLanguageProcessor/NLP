@@ -1,1 +1,1 @@
-{"index": 98855, "D": "to corrupt", "S": ["contaminate ", "envenom ", "harm ", "impair ", "infect ", "injure ", "make sick ", "taint "], "A": []}
+{"index": 98855, "D": "to corrupt", "S": ["contaminate", "envenom", "harm", "impair", "infect", "injure", "make sick", "taint"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 273093, "D": "a smooth expanse of ice for ice-skating, often artificially prepared and inside a building or arena.", "S": ["field ", "gym ", "gymnasium ", "park ", "ring ", "square ", "stadium ", "stage "], "A": []}
+{"index": 273093, "D": "a smooth expanse of ice for ice-skating, often artificially prepared and inside a building or arena.", "S": ["field", "gym", "gymnasium", "park", "ring", "square", "stadium", "stage"], "A": []}

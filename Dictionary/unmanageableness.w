@@ -1,1 +1,1 @@
-{"index": 345953, "D": "that can be managed; tractable;  governable; achievable.", "S": ["fractiousness ", "intractability ", "intractableness ", "obstinacy ", "recalcitrance ", "recalcitrancy ", "refractoriness ", "roughness ", "rowdiness ", "wildness "], "A": []}
+{"index": 345953, "D": "that can be managed; tractable;  governable; achievable.", "S": ["fractiousness", "intractability", "intractableness", "obstinacy", "recalcitrance", "recalcitrancy", "refractoriness", "roughness", "rowdiness", "wildness"], "A": []}

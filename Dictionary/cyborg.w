@@ -1,1 +1,1 @@
-{"index": 56964, "D": "a person whose physiological functioning is aided by or dependent upon a mechanical or electronic device.", "S": ["android ", "clone ", "drone "], "A": []}
+{"index": 56964, "D": "a person whose physiological functioning is aided by or dependent upon a mechanical or electronic device.", "S": ["android", "clone", "drone"], "A": []}

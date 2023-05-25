@@ -1,1 +1,1 @@
-{"index": 20764, "D": "free from deceit, cunning, or craftiness; ingenuous", "S": ["rudely "], "A": []}
+{"index": 20764, "D": "free from deceit, cunning, or craftiness; ingenuous", "S": ["rudely"], "A": []}

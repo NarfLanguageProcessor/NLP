@@ -1,1 +1,1 @@
-{"index": 39354, "D": "an ornamental band or circlet for the wrist or arm or, sometimes, for the ankle.", "S": ["ornament ", "trinket "], "A": []}
+{"index": 39354, "D": "an ornamental band or circlet for the wrist or arm or, sometimes, for the ankle.", "S": ["ornament", "trinket"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 1435, "D": "the act of accelerating;  increase of speed or velocity.", "S": ["dispatch ", "expedition ", "hurrying ", "quickening ", "spurring ", "stimulation "], "A": ["slowing "]}
+{"index": 1435, "D": "the act of accelerating;  increase of speed or velocity.", "S": ["dispatch", "expedition", "hurrying", "quickening", "spurring", "stimulation"], "A": ["slowing"]}

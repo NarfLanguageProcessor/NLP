@@ -1,1 +1,0 @@
-{"index": 200328, "D": "a paramagnetic alloy of nickel and titanium that, after heating and deformation, resumes its original shape when reheated.", "S": [], "A": []}

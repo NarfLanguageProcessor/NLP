@@ -1,1 +1,1 @@
-{"index": 303182, "D": "firm or steadfast in principle, adherence, loyalty, etc., as a person", "S": ["confidence ", "inevitability ", "trust "], "A": ["distrust ", "disbelief "]}
+{"index": 303182, "D": "firm or steadfast in principle, adherence, loyalty, etc., as a person", "S": ["confidence", "inevitability", "trust"], "A": ["distrust", "disbelief"]}

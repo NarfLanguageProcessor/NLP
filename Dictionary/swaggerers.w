@@ -1,1 +1,1 @@
-{"index": 313958, "D": "to walk or strut with a defiant or insolent air.", "S": ["blowhard ", "blusterer ", "boaster ", "braggadocio ", "bragger ", "vaunter ", "windbag "], "A": []}
+{"index": 313958, "D": "to walk or strut with a defiant or insolent air.", "S": ["blowhard", "blusterer", "boaster", "braggadocio", "bragger", "vaunter", "windbag"], "A": []}

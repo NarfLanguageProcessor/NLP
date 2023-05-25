@@ -1,1 +1,1 @@
-{"index": 3978, "D": "(in ancient worship) a sacred place that the public was forbidden to enter; an inner shrine.", "S": ["haven ", "hideaway ", "refuge ", "resort ", "sanctuary ", "shelter "], "A": ["advance ", "arrival ", "coming "]}
+{"index": 3978, "D": "(in ancient worship) a sacred place that the public was forbidden to enter; an inner shrine.", "S": ["haven", "hideaway", "refuge", "resort", "sanctuary", "shelter"], "A": ["advance", "arrival", "coming"]}

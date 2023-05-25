@@ -1,1 +1,0 @@
-{"index": 332334, "D": "a strap or sling passed around the chest or forehead to help support a pack carried on a person's back.", "S": [], "A": []}

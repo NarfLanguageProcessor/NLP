@@ -1,1 +1,1 @@
-{"index": 343798, "D": "not holy; not sacred or hallowed.", "S": ["unhallowed "], "A": ["godly ", "holy ", "pious ", "reasonable ", "religious ", "sensible "]}
+{"index": 343798, "D": "not holy; not sacred or hallowed.", "S": ["unhallowed"], "A": ["godly", "holy", "pious", "reasonable", "religious", "sensible"]}

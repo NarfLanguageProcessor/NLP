@@ -1,1 +1,1 @@
-{"index": 279556, "D": "disgraceful; shameful or shocking; improper", "S": ["cruelly ", "disgracefully ", "indecently ", "shockingly ", "wrongly "], "A": []}
+{"index": 279556, "D": "disgraceful; shameful or shocking; improper", "S": ["cruelly", "disgracefully", "indecently", "shockingly", "wrongly"], "A": []}

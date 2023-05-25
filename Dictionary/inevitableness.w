@@ -1,1 +1,1 @@
-{"index": 151644, "D": "unable to be avoided, evaded, or escaped; certain; fated", "S": ["assurance ", "assuredness ", "belief ", "certainty ", "confidence ", "conviction ", "inevitability ", "positiveness "], "A": ["distrust ", "doubt ", "fear ", "uncertainty "]}
+{"index": 151644, "D": "unable to be avoided, evaded, or escaped; certain; fated", "S": ["assurance", "assuredness", "belief", "certainty", "confidence", "conviction", "inevitability", "positiveness"], "A": ["distrust", "doubt", "fear", "uncertainty"]}

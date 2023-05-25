@@ -1,1 +1,1 @@
-{"index": 187789, "D": "to become mixed, blended, or united", "S": ["blend ", "intermingle ", "meld ", "mix "], "A": ["divide ", "separate ", "divorce "]}
+{"index": 187789, "D": "to become mixed, blended, or united", "S": ["blend", "intermingle", "meld", "mix"], "A": ["divide", "separate", "divorce"]}

@@ -1,1 +1,1 @@
-{"index": 324696, "D": "Italian painter.", "S": ["brown ", "chestnut ", "copper ", "hazel ", "henna ", "russet ", "rust "], "A": []}
+{"index": 324696, "D": "Italian painter.", "S": ["brown", "chestnut", "copper", "hazel", "henna", "russet", "rust"], "A": []}

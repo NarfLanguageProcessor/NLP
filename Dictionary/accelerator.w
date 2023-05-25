@@ -1,1 +1,1 @@
-{"index": 1438, "D": "a person or thing that accelerates. ", "S": ["particle accelerator "], "A": []}
+{"index": 1438, "D": "a person or thing that accelerates. ", "S": ["particle accelerator"], "A": []}

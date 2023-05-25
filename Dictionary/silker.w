@@ -1,1 +1,1 @@
-{"index": 290405, "D": "the soft, lustrous fiber obtained as a filament from the cocoon of the silkworm.", "S": ["delicate ", "glossy ", "luxurious ", "plush ", "satiny ", "silken ", "sleek ", "soft ", "velvety "], "A": ["dull ", "harsh ", "healthy ", "poor ", "rough ", "strong "]}
+{"index": 290405, "D": "the soft, lustrous fiber obtained as a filament from the cocoon of the silkworm.", "S": ["delicate", "glossy", "luxurious", "plush", "satiny", "silken", "sleek", "soft", "velvety"], "A": ["dull", "harsh", "healthy", "poor", "rough", "strong"]}

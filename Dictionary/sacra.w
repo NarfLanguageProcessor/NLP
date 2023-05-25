@@ -1,1 +1,0 @@
-{"index": 276325, "D": "a bone resulting from the fusion of two or more vertebrae between the lumbar and the coccygeal regions, in humans being composed usually of five fused vertebrae and forming the posterior wall of the pelvis.", "S": ["backside "], "A": []}

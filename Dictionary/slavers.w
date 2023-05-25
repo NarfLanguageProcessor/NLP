@@ -1,1 +1,1 @@
-{"index": 293792, "D": "a person who buys, sells, or owns human beings; an enslaver.", "S": ["dribble ", "drivel ", "fawn ", "salivate ", "slobber "], "A": []}
+{"index": 293792, "D": "a person who buys, sells, or owns human beings; an enslaver.", "S": ["dribble", "drivel", "fawn", "salivate", "slobber"], "A": []}

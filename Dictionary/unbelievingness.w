@@ -1,1 +1,1 @@
-{"index": 335762, "D": "not believing; skeptical.", "S": ["distrust ", "incredulity ", "mistrust "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust ", "ratification "]}
+{"index": 335762, "D": "not believing; skeptical.", "S": ["distrust", "incredulity", "mistrust"], "A": ["belief", "certainty", "confidence", "faith", "trust", "ratification"]}

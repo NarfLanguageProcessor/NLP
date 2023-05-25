@@ -1,1 +1,1 @@
-{"index": 71847, "D": "ceramic ware  having a crackled  glaze.", "S": ["earthenware "], "A": []}
+{"index": 71847, "D": "ceramic ware  having a crackled  glaze.", "S": ["earthenware"], "A": []}

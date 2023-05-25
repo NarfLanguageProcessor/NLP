@@ -1,1 +1,0 @@
-{"index": 241849, "D": "a polymer in which the monomer units are linked together by the group \u2013COO\u2013, usually formed by polymerizing a polyhydric alcohol with a polybasic acid", "S": [], "A": []}

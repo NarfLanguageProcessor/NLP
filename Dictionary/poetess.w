@@ -1,1 +1,1 @@
-{"index": 241185, "D": "a woman who writes poetry.", "S": ["artist ", "author ", "bard ", "dilettante ", "dramatist ", "librettist ", "lyricist ", "lyrist ", "maker ", "muse ", "odist ", "parodist ", "rhymer ", "rhymester ", "versifier ", "writer "], "A": []}
+{"index": 241185, "D": "a woman who writes poetry.", "S": ["artist", "author", "bard", "dilettante", "dramatist", "librettist", "lyricist", "lyrist", "maker", "muse", "odist", "parodist", "rhymer", "rhymester", "versifier", "writer"], "A": []}

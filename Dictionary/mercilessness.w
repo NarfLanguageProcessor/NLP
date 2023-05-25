@@ -1,1 +1,1 @@
-{"index": 183696, "D": "without mercy; having or showing no mercy; pitiless; cruel", "S": ["barbarism ", "barbarity ", "inhumanity ", "malice ", "persecution ", "savagery ", "torture "], "A": ["kindness ", "love "]}
+{"index": 183696, "D": "without mercy; having or showing no mercy; pitiless; cruel", "S": ["barbarism", "barbarity", "inhumanity", "malice", "persecution", "savagery", "torture"], "A": ["kindness", "love"]}

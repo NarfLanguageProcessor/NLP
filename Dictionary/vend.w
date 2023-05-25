@@ -1,1 +1,1 @@
-{"index": 357941, "D": "to sell as one's business or occupation, especially by peddling", "S": ["barter ", "hawk ", "huckster ", "market ", "peddle ", "trade "], "A": ["buy "]}
+{"index": 357941, "D": "to sell as one's business or occupation, especially by peddling", "S": ["barter", "hawk", "huckster", "market", "peddle", "trade"], "A": ["buy"]}

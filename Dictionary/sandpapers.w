@@ -1,1 +1,1 @@
-{"index": 277805, "D": "strong paper  coated with a layer of sand  or other abrasive, used for smoothing or polishing.", "S": ["brush ", "burnish ", "furbish ", "glaze ", "gloss ", "pumice ", "rub ", "scour ", "shine ", "smooth "], "A": ["dull "]}
+{"index": 277805, "D": "strong paper  coated with a layer of sand  or other abrasive, used for smoothing or polishing.", "S": ["brush", "burnish", "furbish", "glaze", "gloss", "pumice", "rub", "scour", "shine", "smooth"], "A": ["dull"]}

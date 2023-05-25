@@ -1,1 +1,1 @@
-{"index": 209861, "D": "a clumsy, stupid person; lout.", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}
+{"index": 209861, "D": "a clumsy, stupid person; lout.", "S": ["ignorance", "ineptitude"], "A": ["politeness", "sophistication"]}

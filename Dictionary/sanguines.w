@@ -1,1 +1,1 @@
-{"index": 277913, "D": "cheerfully optimistic, sometimes to the point of seeming complacent, oblivious, or naive", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}
+{"index": 277913, "D": "cheerfully optimistic, sometimes to the point of seeming complacent, oblivious, or naive", "S": ["cardinal", "coral", "crimson", "flaming", "glowing", "maroon", "rose", "wine"], "A": []}

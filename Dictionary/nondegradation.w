@@ -1,1 +1,0 @@
-{"index": 202826, "D": "the act of degrading. ", "S": [], "A": []}

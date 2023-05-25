@@ -1,1 +1,0 @@
-{"index": 224845, "D": "universal wisdom or knowledge.", "S": [], "A": []}

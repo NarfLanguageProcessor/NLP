@@ -1,1 +1,1 @@
-{"index": 104226, "D": "a group of persons, or a single person, accompanying another or others for protection, guidance, or courtesy", "S": ["accompany ", "bring ", "carry ", "drag ", "guide ", "protect ", "steer ", "usher "], "A": ["abandon ", "leave ", "ignore ", "neglect ", "refuse "]}
+{"index": 104226, "D": "a group of persons, or a single person, accompanying another or others for protection, guidance, or courtesy", "S": ["accompany", "bring", "carry", "drag", "guide", "protect", "steer", "usher"], "A": ["abandon", "leave", "ignore", "neglect", "refuse"]}

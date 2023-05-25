@@ -1,1 +1,0 @@
-{"index": 357845, "D": "to pluck; twitch.", "S": ["bounce ", "bump ", "fling ", "flop ", "hurtle ", "jolt ", "lug ", "snatch ", "thrust ", "tug ", "twitch ", "wiggle ", "wrench ", "wriggle ", "wring ", "yank "], "A": []}

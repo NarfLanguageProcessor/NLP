@@ -1,1 +1,0 @@
-{"index": 223835, "D": "a riding horse, as distinguished from a war horse.", "S": [], "A": []}

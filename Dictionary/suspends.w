@@ -1,1 +1,1 @@
-{"index": 313737, "D": "to hang by attachment to something above", "S": ["append ", "attach ", "dangle ", "depend ", "sling ", "swing ", "wave "], "A": ["disjoin ", "take away "]}
+{"index": 313737, "D": "to hang by attachment to something above", "S": ["append", "attach", "dangle", "depend", "sling", "swing", "wave"], "A": ["disjoin", "take away"]}

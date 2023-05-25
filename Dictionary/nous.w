@@ -1,1 +1,1 @@
-{"index": 209068, "D": "mind or intellect.", "S": ["common sense ", "faculties ", "innate common sense ", "intellectual gifts ", "senses ", "wits "], "A": []}
+{"index": 209068, "D": "mind or intellect.", "S": ["common sense", "faculties", "innate common sense", "intellectual gifts", "senses", "wits"], "A": []}

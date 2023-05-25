@@ -1,1 +1,1 @@
-{"index": 147816, "D": "to follow or endeavor to follow as a model or example", "S": ["act like ", "ape ", "assume ", "duplicate ", "echo ", "emulate ", "impersonate ", "mimic ", "mirror ", "mock ", "pretend ", "replicate ", "reproduce ", "resemble ", "simulate "], "A": ["differ ", "disregard "]}
+{"index": 147816, "D": "to follow or endeavor to follow as a model or example", "S": ["act like", "ape", "assume", "duplicate", "echo", "emulate", "impersonate", "mimic", "mirror", "mock", "pretend", "replicate", "reproduce", "resemble", "simulate"], "A": ["differ", "disregard"]}

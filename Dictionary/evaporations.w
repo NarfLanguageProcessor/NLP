@@ -1,1 +1,1 @@
-{"index": 106040, "D": "the act or process of evaporating. ", "S": ["dispersal ", "melting "], "A": ["appearance "]}
+{"index": 106040, "D": "the act or process of evaporating. ", "S": ["dispersal", "melting"], "A": ["appearance"]}

@@ -1,1 +1,1 @@
-{"index": 139921, "D": [], "S": ["chilly ", "freezing ", "frosty ", "frozen ", "glacial ", "ice-cold ", "icy ", "wintry "], "A": ["friendly ", "heated ", "hot ", "warm "]}
+{"index": 139921, "D": [], "S": ["chilly", "freezing", "frosty", "frozen", "glacial", "ice-cold", "icy", "wintry"], "A": ["friendly", "heated", "hot", "warm"]}

@@ -1,1 +1,1 @@
-{"index": 116988, "D": "care or provision for the future; provident care; prudence.", "S": ["insight ", "prudence "], "A": ["carelessness ", "ignorance ", "indiscretion ", "neglect ", "negligence ", "thoughtlessness "]}
+{"index": 116988, "D": "care or provision for the future; provident care; prudence.", "S": ["insight", "prudence"], "A": ["carelessness", "ignorance", "indiscretion", "neglect", "negligence", "thoughtlessness"]}

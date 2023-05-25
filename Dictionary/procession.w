@@ -1,1 +1,1 @@
-{"index": 251204, "D": "the act of moving along or proceeding  in orderly succession or in a formal and ceremonious manner, as a line of people, animals, vehicles, etc.", "S": ["cortege ", "motorcade ", "succession "], "A": ["disorder ", "disorganization ", "halt "]}
+{"index": 251204, "D": "the act of moving along or proceeding  in orderly succession or in a formal and ceremonious manner, as a line of people, animals, vehicles, etc.", "S": ["cortege", "motorcade", "succession"], "A": ["disorder", "disorganization", "halt"]}

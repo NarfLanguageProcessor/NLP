@@ -1,1 +1,1 @@
-{"index": 305363, "D": "a stopper, especially for a bottle.", "S": ["blockade "], "A": ["key "]}
+{"index": 305363, "D": "a stopper, especially for a bottle.", "S": ["blockade"], "A": ["key"]}

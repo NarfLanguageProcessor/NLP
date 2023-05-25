@@ -1,1 +1,1 @@
-{"index": 100538, "D": "to hearten. ", "S": ["buoy ", "energize ", "inspire ", "invigorate ", "reassure ", "spur ", "sway "], "A": ["discourage ", "dishearten ", "dissuade ", "depress "]}
+{"index": 100538, "D": "to hearten. ", "S": ["buoy", "energize", "inspire", "invigorate", "reassure", "spur", "sway"], "A": ["discourage", "dishearten", "dissuade", "depress"]}

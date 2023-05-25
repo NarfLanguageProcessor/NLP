@@ -1,1 +1,1 @@
-{"index": 5355, "D": "a notice posted in a public place; poster.", "S": ["agenda ", "card ", "program "], "A": []}
+{"index": 5355, "D": "a notice posted in a public place; poster.", "S": ["agenda", "card", "program"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 109522, "D": "having a false or treacherous heart; deceitful; perfidious.", "S": ["slippery ", "tricky ", "unreliable "], "A": ["honest ", "reliable "]}
+{"index": 109522, "D": "having a false or treacherous heart; deceitful; perfidious.", "S": ["slippery", "tricky", "unreliable"], "A": ["honest", "reliable"]}

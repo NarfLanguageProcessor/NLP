@@ -1,1 +1,1 @@
-{"index": 257197, "D": "obnoxiously forward or self-assertive.", "S": ["ambitious ", "assertive ", "brash ", "obnoxious ", "presumptuous "], "A": ["modest ", "quiet ", "shy ", "unassuming "]}
+{"index": 257197, "D": "obnoxiously forward or self-assertive.", "S": ["ambitious", "assertive", "brash", "obnoxious", "presumptuous"], "A": ["modest", "quiet", "shy", "unassuming"]}

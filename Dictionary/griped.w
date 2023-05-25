@@ -1,1 +1,1 @@
-{"index": 129967, "D": "to complain naggingly or constantly; grumble.", "S": ["ache ", "grievance ", "objection "], "A": ["comfort ", "good health ", "happiness ", "health ", "pleasure ", "well-being "]}
+{"index": 129967, "D": "to complain naggingly or constantly; grumble.", "S": ["ache", "grievance", "objection"], "A": ["comfort", "good health", "happiness", "health", "pleasure", "well-being"]}

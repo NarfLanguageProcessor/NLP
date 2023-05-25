@@ -1,1 +1,1 @@
-{"index": 363714, "D": "having the shape of a wedge. ", "S": ["comatose ", "confused ", "hung ", "suspended ", "unconscious "], "A": []}
+{"index": 363714, "D": "having the shape of a wedge. ", "S": ["comatose", "confused", "hung", "suspended", "unconscious"], "A": []}

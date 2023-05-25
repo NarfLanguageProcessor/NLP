@@ -1,1 +1,1 @@
-{"index": 150899, "D": "something that indicates; indicator. ", "S": ["indicator ", "ratio "], "A": []}
+{"index": 150899, "D": "something that indicates; indicator. ", "S": ["indicator", "ratio"], "A": []}

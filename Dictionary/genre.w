@@ -1,1 +1,1 @@
-{"index": 123663, "D": "a class or category of artistic endeavor having a particular form, content, technique, or the like", "S": ["brand ", "category ", "character ", "fashion ", "kind ", "style "], "A": []}
+{"index": 123663, "D": "a class or category of artistic endeavor having a particular form, content, technique, or the like", "S": ["brand", "category", "character", "fashion", "kind", "style"], "A": []}

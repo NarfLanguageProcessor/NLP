@@ -1,1 +1,1 @@
-{"index": 88621, "D": "the quality of being disloyal;  lack of loyalty; unfaithfulness.", "S": ["breach of trust ", "infidelity ", "sedition ", "treachery ", "treason "], "A": ["devotion ", "faithfulness ", "fidelity ", "loyalty ", "honesty ", "truthfulness "]}
+{"index": 88621, "D": "the quality of being disloyal;  lack of loyalty; unfaithfulness.", "S": ["breach of trust", "infidelity", "sedition", "treachery", "treason"], "A": ["devotion", "faithfulness", "fidelity", "loyalty", "honesty", "truthfulness"]}

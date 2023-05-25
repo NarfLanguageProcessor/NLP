@@ -1,1 +1,1 @@
-{"index": 323941, "D": "a highly flammable material or preparation formerly used for catching the spark from a flint and steel struck together for fire or light.", "S": ["fuel ", "kindling ", "punk ", "wood "], "A": []}
+{"index": 323941, "D": "a highly flammable material or preparation formerly used for catching the spark from a flint and steel struck together for fire or light.", "S": ["fuel", "kindling", "punk", "wood"], "A": []}

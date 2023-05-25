@@ -1,1 +1,1 @@
-{"index": 82815, "D": "in a reckless or dangerous way because of hopelessness or urgency", "S": ["badly ", "dangerously ", "fiercely ", "greatly ", "perilously ", "seriously "], "A": ["mildly "]}
+{"index": 82815, "D": "in a reckless or dangerous way because of hopelessness or urgency", "S": ["badly", "dangerously", "fiercely", "greatly", "perilously", "seriously"], "A": ["mildly"]}

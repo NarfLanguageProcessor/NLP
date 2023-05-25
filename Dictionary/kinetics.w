@@ -1,1 +1,0 @@
-{"index": 164842, "D": "the branch of mechanics that deals with the actions of forces in producing or changing the motion of masses.", "S": ["act ", "gesture ", "passage "], "A": ["idleness ", "stagnation "]}

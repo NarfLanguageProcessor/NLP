@@ -1,1 +1,0 @@
-{"index": 272343, "D": "an oblique-angled parallelogram with only the opposite sides equal.", "S": [], "A": []}

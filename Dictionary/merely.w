@@ -1,1 +1,1 @@
-{"index": 183745, "D": "only as specified and nothing more; simply", "S": ["hardly ", "only ", "purely ", "simply ", "solely "], "A": ["indefinitely "]}
+{"index": 183745, "D": "only as specified and nothing more; simply", "S": ["hardly", "only", "purely", "simply", "solely"], "A": ["indefinitely"]}

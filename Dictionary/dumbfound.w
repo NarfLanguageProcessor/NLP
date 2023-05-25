@@ -1,1 +1,1 @@
-{"index": 94039, "D": "to make speechless with amazement; astonish.", "S": ["amaze ", "astonish ", "bewilder ", "boggle ", "confound ", "flabbergast ", "nonplus ", "puzzle ", "startle ", "stun "], "A": ["calm ", "clarify ", "clear up ", "enlighten ", "expect ", "explain "]}
+{"index": 94039, "D": "to make speechless with amazement; astonish.", "S": ["amaze", "astonish", "bewilder", "boggle", "confound", "flabbergast", "nonplus", "puzzle", "startle", "stun"], "A": ["calm", "clarify", "clear up", "enlighten", "expect", "explain"]}

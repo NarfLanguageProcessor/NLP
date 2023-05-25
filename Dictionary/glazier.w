@@ -1,1 +1,1 @@
-{"index": 126064, "D": "a person who fits windows or the like with glass or panes of glass.", "S": ["glazed ", "icy ", "shiny ", "sleek "], "A": ["dull ", "rough "]}
+{"index": 126064, "D": "a person who fits windows or the like with glass or panes of glass.", "S": ["glazed", "icy", "shiny", "sleek"], "A": ["dull", "rough"]}

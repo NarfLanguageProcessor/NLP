@@ -1,1 +1,1 @@
-{"index": 128185, "D": "(used as an exclamation or mild oath)", "S": ["dear me ", "gee ", "golly ", "goodness gracious ", "lord "], "A": []}
+{"index": 128185, "D": "(used as an exclamation or mild oath)", "S": ["dear me", "gee", "golly", "goodness gracious", "lord"], "A": []}

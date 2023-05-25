@@ -1,0 +1,1 @@
+{"index": 26059, "D": "any substance capable of killing bacteria. ", "S": ["disinfectant", "preservative"], "A": []}

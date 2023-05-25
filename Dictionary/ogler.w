@@ -1,1 +1,1 @@
-{"index": 211749, "D": "to look at amorously, flirtatiously, or impertinently.", "S": ["peeper ", "voyeur "], "A": []}
+{"index": 211749, "D": "to look at amorously, flirtatiously, or impertinently.", "S": ["peeper", "voyeur"], "A": []}

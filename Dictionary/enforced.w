@@ -1,1 +1,1 @@
-{"index": 100252, "D": "to put or keep in force; compel obedience to", "S": ["imposed ", "prescribed ", "required ", "sanctioned "], "A": []}
+{"index": 100252, "D": "to put or keep in force; compel obedience to", "S": ["imposed", "prescribed", "required", "sanctioned"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 221006, "D": "over, across, or beyond the sea; abroad", "S": ["abroad ", "foreign "], "A": []}
+{"index": 221006, "D": "over, across, or beyond the sea; abroad", "S": ["abroad", "foreign"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 204142, "D": [], "S": ["boon ", "carefree ", "casual ", "convivial ", "easygoing ", "footloose ", "footloose and fancy-free ", "free as a bird ", "free as the wind ", "informal ", "loose ", "natural ", "unforced ", "unstudied "], "A": ["formal "]}
+{"index": 204142, "D": [], "S": ["boon", "carefree", "casual", "convivial", "easygoing", "footloose", "footloose and fancy-free", "free as a bird", "free as the wind", "informal", "loose", "natural", "unforced", "unstudied"], "A": ["formal"]}

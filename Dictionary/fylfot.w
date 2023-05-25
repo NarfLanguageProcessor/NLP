@@ -1,1 +1,1 @@
-{"index": 112596, "D": "a swastika.", "S": ["hakenkreuz "], "A": []}
+{"index": 112596, "D": "a swastika.", "S": ["hakenkreuz"], "A": []}

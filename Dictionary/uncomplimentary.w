@@ -1,1 +1,1 @@
-{"index": 337414, "D": "not conveying, containing, or resembling a compliment", "S": ["belittling ", "critical ", "deprecating ", "deprecatory ", "depreciative ", "depreciatory ", "derogative ", "derogatory ", "detractive ", "disapproving ", "slighting "], "A": []}
+{"index": 337414, "D": "not conveying, containing, or resembling a compliment", "S": ["belittling", "critical", "deprecating", "deprecatory", "depreciative", "depreciatory", "derogative", "derogatory", "detractive", "disapproving", "slighting"], "A": []}

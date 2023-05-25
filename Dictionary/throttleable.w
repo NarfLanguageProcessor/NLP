@@ -1,1 +1,0 @@
-{"index": 322826, "D": "capable of having the thrust varied.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 309066, "D": "to pledge, as by signing an agreement, to give or pay (a sum of money) as a contribution, gift, or investment", "S": ["commissioned ", "enlisted ", "entered ", "inducted ", "installed ", "joined ", "listed ", "pledged ", "recorded ", "recruited "], "A": []}
+{"index": 309066, "D": "to pledge, as by signing an agreement, to give or pay (a sum of money) as a contribution, gift, or investment", "S": ["commissioned", "enlisted", "entered", "inducted", "installed", "joined", "listed", "pledged", "recorded", "recruited"], "A": []}

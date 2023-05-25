@@ -1,1 +1,1 @@
-{"index": 42703, "D": "any of several large, hairy social bees  of the family Apidae.", "S": ["drone "], "A": []}
+{"index": 42703, "D": "any of several large, hairy social bees  of the family Apidae.", "S": ["drone"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 300914, "D": "a track or trail, especially that of a wild animal pursued as game.", "S": ["footprint ", "odor ", "scent ", "trace ", "track "], "A": []}
+{"index": 300914, "D": "a track or trail, especially that of a wild animal pursued as game.", "S": ["footprint", "odor", "scent", "trace", "track"], "A": []}

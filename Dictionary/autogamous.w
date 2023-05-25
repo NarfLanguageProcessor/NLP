@@ -1,0 +1,1 @@
+{"index": 24058, "D": "pollination of the ovules of a flower by its own pollen; self-fertilization (opposed to allogamy).", "S": [], "A": []}

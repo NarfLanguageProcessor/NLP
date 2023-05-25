@@ -1,1 +1,1 @@
-{"index": 63874, "D": "to order or force into active military service.", "S": ["confiscate ", "hijack "], "A": ["give ", "keep ", "let go ", "receive ", "refuse ", "reject ", "stop "]}
+{"index": 63874, "D": "to order or force into active military service.", "S": ["confiscate", "hijack"], "A": ["give", "keep", "let go", "receive", "refuse", "reject", "stop"]}

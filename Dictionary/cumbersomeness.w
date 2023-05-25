@@ -1,1 +1,1 @@
-{"index": 74905, "D": "burdensome; troublesome.", "S": ["peril "], "A": ["safety "]}
+{"index": 74905, "D": "burdensome; troublesome.", "S": ["peril"], "A": ["safety"]}

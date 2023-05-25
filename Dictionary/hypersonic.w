@@ -1,1 +1,1 @@
-{"index": 140511, "D": "noting or pertaining to speed that is at least five times that of sound in the same medium.", "S": ["agile ", "brisk ", "hot ", "nimble ", "quick ", "rapid ", "swift "], "A": ["clumsy ", "slow ", "dull "]}
+{"index": 140511, "D": "noting or pertaining to speed that is at least five times that of sound in the same medium.", "S": ["agile", "brisk", "hot", "nimble", "quick", "rapid", "swift"], "A": ["clumsy", "slow", "dull"]}

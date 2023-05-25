@@ -1,1 +1,1 @@
-{"index": 324200, "D": "to write by means of a typewriter;  type.", "S": ["copied "], "A": []}
+{"index": 324200, "D": "to write by means of a typewriter;  type.", "S": ["copied"], "A": []}

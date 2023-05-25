@@ -1,1 +1,1 @@
-{"index": 35428, "D": "to reveal indiscreetly and thoughtlessly", "S": ["blabby ", "giving away ", "prattling ", "spilling ", "spilling the beans ", "talebearing ", "taletelling ", "whispering "], "A": []}
+{"index": 35428, "D": "to reveal indiscreetly and thoughtlessly", "S": ["blabby", "giving away", "prattling", "spilling", "spilling the beans", "talebearing", "taletelling", "whispering"], "A": []}

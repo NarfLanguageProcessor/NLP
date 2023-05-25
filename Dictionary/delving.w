@@ -1,1 +1,1 @@
-{"index": 80318, "D": "to carry on intensive and thorough research for data, information, or the like; investigate", "S": ["inquisition "], "A": ["conclusion ", "findings "]}
+{"index": 80318, "D": "to carry on intensive and thorough research for data, information, or the like; investigate", "S": ["inquisition"], "A": ["conclusion", "findings"]}

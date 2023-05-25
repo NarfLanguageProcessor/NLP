@@ -1,1 +1,1 @@
-{"index": 112871, "D": "the act of obtaining or furnishing money or capital for a purchase or enterprise.", "S": ["expenditure ", "funding ", "loan ", "outlay ", "payment "], "A": []}
+{"index": 112871, "D": "the act of obtaining or furnishing money or capital for a purchase or enterprise.", "S": ["expenditure", "funding", "loan", "outlay", "payment"], "A": []}

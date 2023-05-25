@@ -1,1 +1,1 @@
-{"index": 152117, "D": "to alter, adapt, or modulate (the voice).", "S": ["bend ", "buckle ", "bulge ", "coil ", "crumple ", "curl ", "loop ", "skew ", "spiral ", "swerve ", "twist ", "veer "], "A": ["straighten ", "stay "]}
+{"index": 152117, "D": "to alter, adapt, or modulate (the voice).", "S": ["bend", "buckle", "bulge", "coil", "crumple", "curl", "loop", "skew", "spiral", "swerve", "twist", "veer"], "A": ["straighten", "stay"]}

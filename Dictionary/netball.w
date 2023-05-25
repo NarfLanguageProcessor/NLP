@@ -1,1 +1,0 @@
-{"index": 198842, "D": "a ball,  on a return shot, that hits the top of the net  and drops on the other side of the court, thus remaining in play.", "S": [], "A": []}

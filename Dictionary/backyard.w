@@ -1,1 +1,1 @@
-{"index": 25821, "D": "the portion of a lot or building site behind a house, structure, or the like, sometimes fenced, walled, etc.", "S": ["courtyard ", "garden ", "grass ", "lawn ", "patio ", "terrace ", "yard "], "A": []}
+{"index": 25821, "D": "the portion of a lot or building site behind a house, structure, or the like, sometimes fenced, walled, etc.", "S": ["courtyard", "garden", "grass", "lawn", "patio", "terrace", "yard"], "A": []}

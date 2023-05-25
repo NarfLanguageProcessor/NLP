@@ -1,1 +1,1 @@
-{"index": 293588, "D": "past participle of slay. ", "S": ["killed ", "murdered "], "A": []}
+{"index": 293588, "D": "past participle of slay. ", "S": ["killed", "murdered"], "A": []}

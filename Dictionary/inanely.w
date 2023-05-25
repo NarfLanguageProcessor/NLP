@@ -1,1 +1,1 @@
-{"index": 149441, "D": "lacking sense, significance, or ideas; silly", "S": ["comically ", "extremely ", "insanely ", "laughably "], "A": []}
+{"index": 149441, "D": "lacking sense, significance, or ideas; silly", "S": ["comically", "extremely", "insanely", "laughably"], "A": []}

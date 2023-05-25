@@ -1,1 +1,1 @@
-{"index": 362266, "D": "a sound beating or thrashing.", "S": ["behemoth ", "blimp ", "gross ", "heroic ", "hulking ", "mammoth ", "monster ", "whaling "], "A": []}
+{"index": 362266, "D": "a sound beating or thrashing.", "S": ["behemoth", "blimp", "gross", "heroic", "hulking", "mammoth", "monster", "whaling"], "A": []}

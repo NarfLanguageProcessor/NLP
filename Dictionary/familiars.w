@@ -1,1 +1,1 @@
-{"index": 109615, "D": "commonly or generally known or seen", "S": ["confidant ", "confidante "], "A": ["enemy ", "foe ", "opponent ", "stranger "]}
+{"index": 109615, "D": "commonly or generally known or seen", "S": ["confidant", "confidante"], "A": ["enemy", "foe", "opponent", "stranger"]}

@@ -1,1 +1,1 @@
-{"index": 77761, "D": "certificate of indebtedness. ", "S": ["bond ", "voucher "], "A": []}
+{"index": 77761, "D": "certificate of indebtedness. ", "S": ["bond", "voucher"], "A": []}

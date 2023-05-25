@@ -1,1 +1,1 @@
-{"index": 153647, "D": "without distinctive, interesting, or stimulating qualities; vapid", "S": ["banal ", "bland ", "ho-hum ", "innocuous ", "trite ", "vapid "], "A": ["original ", "sharp "]}
+{"index": 153647, "D": "without distinctive, interesting, or stimulating qualities; vapid", "S": ["banal", "bland", "ho-hum", "innocuous", "trite", "vapid"], "A": ["original", "sharp"]}

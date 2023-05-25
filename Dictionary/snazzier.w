@@ -1,1 +1,1 @@
-{"index": 295385, "D": "extremely attractive or stylish; flashy; fancy", "S": ["chic ", "classy ", "dressy ", "flashy ", "nifty ", "slick ", "stylish ", "swank ", "trendy ", "upscale "], "A": ["inelegant ", "old-fashioned ", "plain ", "unfashionable ", "unstylish "]}
+{"index": 295385, "D": "extremely attractive or stylish; flashy; fancy", "S": ["chic", "classy", "dressy", "flashy", "nifty", "slick", "stylish", "swank", "trendy", "upscale"], "A": ["inelegant", "old-fashioned", "plain", "unfashionable", "unstylish"]}

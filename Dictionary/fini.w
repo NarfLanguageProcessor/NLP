@@ -1,1 +1,1 @@
-{"index": 112986, "D": "finished; done.", "S": ["entire ", "full ", "perfect ", "sweeping "], "A": ["incomplete ", "part ", "unfinished "]}
+{"index": 112986, "D": "finished; done.", "S": ["entire", "full", "perfect", "sweeping"], "A": ["incomplete", "part", "unfinished"]}

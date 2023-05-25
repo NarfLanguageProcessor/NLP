@@ -1,1 +1,1 @@
-{"index": 198378, "D": "neologism. ", "S": ["borrowed word ", "borrowing ", "calque ", "imported word ", "loan translation ", "paronym "], "A": []}
+{"index": 198378, "D": "neologism. ", "S": ["borrowed word", "borrowing", "calque", "imported word", "loan translation", "paronym"], "A": []}

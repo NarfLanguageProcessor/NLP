@@ -1,1 +1,1 @@
-{"index": 150494, "D": "a mating between organisms that are both homozygous for the same allele.", "S": ["amalgam ", "combination "], "A": ["division ", "separation "]}
+{"index": 150494, "D": "a mating between organisms that are both homozygous for the same allele.", "S": ["amalgam", "combination"], "A": ["division", "separation"]}

@@ -1,1 +1,1 @@
-{"index": 134623, "D": "intoxicating", "S": ["headlong "], "A": []}
+{"index": 134623, "D": "intoxicating", "S": ["headlong"], "A": []}

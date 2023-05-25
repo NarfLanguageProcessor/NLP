@@ -1,1 +1,1 @@
-{"index": 336430, "D": "frank; outspoken; open and sincere", "S": ["deceitful ", "dishonest ", "false ", "unfair "], "A": ["fair ", "frank ", "honest ", "just ", "open ", "trustworthy ", "truthful "]}
+{"index": 336430, "D": "frank; outspoken; open and sincere", "S": ["deceitful", "dishonest", "false", "unfair"], "A": ["fair", "frank", "honest", "just", "open", "trustworthy", "truthful"]}

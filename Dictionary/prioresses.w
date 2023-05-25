@@ -1,1 +1,1 @@
-{"index": 250734, "D": "a woman holding a position corresponding to that of a prior, sometimes ranking next below an abbess.", "S": ["Holy Mother ", "abbess ", "ecclesiarch ", "lady superior ", "reverend mother ", "superior ", "superioress "], "A": []}
+{"index": 250734, "D": "a woman holding a position corresponding to that of a prior, sometimes ranking next below an abbess.", "S": ["Holy Mother", "abbess", "ecclesiarch", "lady superior", "reverend mother", "superior", "superioress"], "A": []}

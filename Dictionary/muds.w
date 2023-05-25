@@ -1,1 +1,1 @@
-{"index": 194723, "D": "wet, soft earth or earthy matter, as on the ground after rain, at the bottom of a pond, or along the banks of a river; mire.", "S": ["clay ", "muck ", "silt ", "sludge ", "slush "], "A": []}
+{"index": 194723, "D": "wet, soft earth or earthy matter, as on the ground after rain, at the bottom of a pond, or along the banks of a river; mire.", "S": ["clay", "muck", "silt", "sludge", "slush"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 7350, "D": "(used as an exclamation to express sorrow, grief, pity, concern, or apprehension of evil.)", "S": ["dear ", "gee ", "oh ", "woe "], "A": []}
+{"index": 7350, "D": "(used as an exclamation to express sorrow, grief, pity, concern, or apprehension of evil.)", "S": ["dear", "gee", "oh", "woe"], "A": []}

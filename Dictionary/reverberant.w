@@ -1,1 +1,1 @@
-{"index": 271199, "D": "reverberating;  reechoing", "S": ["gaping ", "huge ", "roomy ", "spacious ", "vast ", "yawning "], "A": ["cramped ", "little ", "narrow ", "small "]}
+{"index": 271199, "D": "reverberating;  reechoing", "S": ["gaping", "huge", "roomy", "spacious", "vast", "yawning"], "A": ["cramped", "little", "narrow", "small"]}

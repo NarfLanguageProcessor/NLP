@@ -1,1 +1,1 @@
-{"index": 107614, "D": "pregnant", "S": ["carrying "], "A": []}
+{"index": 107614, "D": "pregnant", "S": ["carrying"], "A": []}

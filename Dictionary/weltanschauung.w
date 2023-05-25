@@ -1,1 +1,1 @@
-{"index": 364097, "D": "worldview. ", "S": ["perspective ", "position ", "view ", "viewpoint "], "A": []}
+{"index": 364097, "D": "worldview. ", "S": ["perspective", "position", "view", "viewpoint"], "A": []}

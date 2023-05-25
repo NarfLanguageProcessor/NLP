@@ -1,1 +1,1 @@
-{"index": 193692, "D": "subject to death; having a transitory life", "S": ["humanity "], "A": []}
+{"index": 193692, "D": "subject to death; having a transitory life", "S": ["humanity"], "A": []}

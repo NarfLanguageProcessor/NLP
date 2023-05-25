@@ -1,1 +1,1 @@
-{"index": 87647, "D": "communication of thought by words; talk; conversation", "S": ["communication ", "conversation ", "discussion ", "essay ", "lecture ", "monologue ", "rhetoric ", "speech ", "treatise "], "A": ["quiet ", "silence "]}
+{"index": 87647, "D": "communication of thought by words; talk; conversation", "S": ["communication", "conversation", "discussion", "essay", "lecture", "monologue", "rhetoric", "speech", "treatise"], "A": ["quiet", "silence"]}

@@ -1,1 +1,1 @@
-{"index": 107394, "D": "the act of clearing someone of blame or of an accusation or criminal charge", "S": ["absolution "], "A": []}
+{"index": 107394, "D": "the act of clearing someone of blame or of an accusation or criminal charge", "S": ["absolution"], "A": []}

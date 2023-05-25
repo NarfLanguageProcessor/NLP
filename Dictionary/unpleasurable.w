@@ -1,1 +1,1 @@
-{"index": 348038, "D": "such as to give pleasure;  enjoyable; agreeable; pleasant", "S": ["boring ", "distasteful ", "dull ", "uninspired "], "A": ["exciting ", "interesting "]}
+{"index": 348038, "D": "such as to give pleasure;  enjoyable; agreeable; pleasant", "S": ["boring", "distasteful", "dull", "uninspired"], "A": ["exciting", "interesting"]}

@@ -1,1 +1,1 @@
-{"index": 107716, "D": [], "S": ["experimental ", "factual ", "observational "], "A": ["conjectural ", "hypothetical ", "impractical ", "theoretic ", "theoretical ", "unobserved ", "unproved "]}
+{"index": 107716, "D": [], "S": ["experimental", "factual", "observational"], "A": ["conjectural", "hypothetical", "impractical", "theoretic", "theoretical", "unobserved", "unproved"]}

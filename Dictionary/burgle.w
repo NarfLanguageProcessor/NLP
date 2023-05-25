@@ -1,1 +1,1 @@
-{"index": 43103, "D": "to burglarize. ", "S": ["interrupt ", "steal "], "A": []}
+{"index": 43103, "D": "to burglarize. ", "S": ["interrupt", "steal"], "A": []}

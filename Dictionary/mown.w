@@ -1,1 +1,1 @@
-{"index": 194430, "D": "a past participle of mow1. ", "S": ["shear ", "trim "], "A": []}
+{"index": 194430, "D": "a past participle of mow1. ", "S": ["shear", "trim"], "A": []}

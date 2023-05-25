@@ -1,0 +1,1 @@
+{"index": 38038, "D": "(used to express contempt or disapprobation or to startle or frighten).", "S": ["bawling", "cheering", "hollering", "jeering", "yelling"], "A": []}

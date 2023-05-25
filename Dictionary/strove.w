@@ -1,1 +1,1 @@
-{"index": 306604, "D": "a simple past tense of strive. ", "S": ["aim ", "endeavor ", "go all out ", "seek ", "tackle "], "A": ["neglect ", "agree ", "discourage ", "dissuade ", "idle ", "laze ", "make peace ", "relax ", "repress ", "rest ", "surrender ", "yield "]}
+{"index": 306604, "D": "a simple past tense of strive. ", "S": ["aim", "endeavor", "go all out", "seek", "tackle"], "A": ["neglect", "agree", "discourage", "dissuade", "idle", "laze", "make peace", "relax", "repress", "rest", "surrender", "yield"]}

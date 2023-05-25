@@ -1,1 +1,1 @@
-{"index": 155072, "D": "being within; inside of anything; internal; inner; further toward a center", "S": ["internal ", "remote "], "A": ["business ", "open ", "public ", "revealed ", "unconcealed "]}
+{"index": 155072, "D": "being within; inside of anything; internal; inner; further toward a center", "S": ["internal", "remote"], "A": ["business", "open", "public", "revealed", "unconcealed"]}

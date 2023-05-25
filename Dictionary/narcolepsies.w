@@ -1,1 +1,1 @@
-{"index": 196951, "D": "a condition characterized by frequent and uncontrollable periods of deep sleep.", "S": ["African sleeping sickness ", "catalepsy ", "encephalitis ", "encephalitis lethargica ", "narcolepsy ", "trypanosomiasis "], "A": []}
+{"index": 196951, "D": "a condition characterized by frequent and uncontrollable periods of deep sleep.", "S": ["African sleeping sickness", "catalepsy", "encephalitis", "encephalitis lethargica", "narcolepsy", "trypanosomiasis"], "A": []}

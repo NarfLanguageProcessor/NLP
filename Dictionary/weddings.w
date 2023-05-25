@@ -1,1 +1,1 @@
-{"index": 363702, "D": "the act or ceremony of marrying; marriage; nuptials. ", "S": ["marriage "], "A": ["divorce "]}
+{"index": 363702, "D": "the act or ceremony of marrying; marriage; nuptials. ", "S": ["marriage"], "A": ["divorce"]}

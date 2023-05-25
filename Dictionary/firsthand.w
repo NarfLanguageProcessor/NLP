@@ -1,1 +1,1 @@
-{"index": 113291, "D": "from the first  or original source", "S": ["eyewitness ", "immediate ", "primary ", "straight ", "straight from the horse's mouth "], "A": ["hearsay ", "impersonal ", "indirect "]}
+{"index": 113291, "D": "from the first  or original source", "S": ["eyewitness", "immediate", "primary", "straight", "straight from the horse's mouth"], "A": ["hearsay", "impersonal", "indirect"]}

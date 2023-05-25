@@ -1,1 +1,1 @@
-{"index": 292791, "D": "to make a hissing sound, as in frying or burning.", "S": ["broil ", "crackle ", "fizzle ", "grill ", "roast ", "sear ", "sputter "], "A": ["freeze "]}
+{"index": 292791, "D": "to make a hissing sound, as in frying or burning.", "S": ["broil", "crackle", "fizzle", "grill", "roast", "sear", "sputter"], "A": ["freeze"]}

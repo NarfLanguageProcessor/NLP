@@ -1,1 +1,1 @@
-{"index": 235076, "D": "photoplay. ", "S": ["cinema ", "feature film ", "flick ", "talkie "], "A": []}
+{"index": 235076, "D": "photoplay. ", "S": ["cinema", "feature film", "flick", "talkie"], "A": []}

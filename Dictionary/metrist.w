@@ -1,1 +1,1 @@
-{"index": 185425, "D": "a person who is skilled in the use of poetic meters.", "S": ["artist ", "author ", "dramatist ", "lyricist ", "writer "], "A": []}
+{"index": 185425, "D": "a person who is skilled in the use of poetic meters.", "S": ["artist", "author", "dramatist", "lyricist", "writer"], "A": []}

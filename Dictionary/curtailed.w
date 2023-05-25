@@ -1,1 +1,1 @@
-{"index": 75488, "D": "to cut short; cut off a part of; abridge; reduce; diminish. ", "S": ["concise ", "fleeting ", "momentary ", "quick ", "short-lived ", "swift ", "temporary "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "long-lived ", "permanent ", "slow ", "sluggish "]}
+{"index": 75488, "D": "to cut short; cut off a part of; abridge; reduce; diminish. ", "S": ["concise", "fleeting", "momentary", "quick", "short-lived", "swift", "temporary"], "A": ["enduring", "lasting", "lengthy", "long", "long-lived", "permanent", "slow", "sluggish"]}

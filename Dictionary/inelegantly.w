@@ -1,1 +1,1 @@
-{"index": 151514, "D": "not elegant; lacking in refinement, gracefulness, or good taste.", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}
+{"index": 151514, "D": "not elegant; lacking in refinement, gracefulness, or good taste.", "S": ["clumsily", "stiffly"], "A": ["adroitly", "gracefully", "skillfully"]}

@@ -1,1 +1,1 @@
-{"index": 256449, "D": "to reduce to dust or powder, as by pounding or grinding.", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}
+{"index": 256449, "D": "to reduce to dust or powder, as by pounding or grinding.", "S": ["powdery", "soft"], "A": ["flexible", "pliable"]}

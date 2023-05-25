@@ -1,1 +1,1 @@
-{"index": 82087, "D": "characterized by or expressing derision; contemptuous; mocking", "S": ["cheeky ", "disdainful ", "insulting ", "mocking ", "rude ", "sarcastic ", "scornful "], "A": ["kind ", "nice ", "polite ", "respectful "]}
+{"index": 82087, "D": "characterized by or expressing derision; contemptuous; mocking", "S": ["cheeky", "disdainful", "insulting", "mocking", "rude", "sarcastic", "scornful"], "A": ["kind", "nice", "polite", "respectful"]}

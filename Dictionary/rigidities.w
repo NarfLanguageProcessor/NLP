@@ -1,1 +1,1 @@
-{"index": 272852, "D": "stiff or unyielding; not pliant or flexible; hard", "S": ["harshness ", "rigor "], "A": ["gentility ", "kindness ", "mildness "]}
+{"index": 272852, "D": "stiff or unyielding; not pliant or flexible; hard", "S": ["harshness", "rigor"], "A": ["gentility", "kindness", "mildness"]}

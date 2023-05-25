@@ -1,1 +1,1 @@
-{"index": 305991, "D": "having a contour designed to offer the least possible resistance to a current of air, water, etc.; optimally shaped for motion or conductivity.", "S": ["sleek ", "up-to-date "], "A": ["coarse ", "rough "]}
+{"index": 305991, "D": "having a contour designed to offer the least possible resistance to a current of air, water, etc.; optimally shaped for motion or conductivity.", "S": ["sleek", "up-to-date"], "A": ["coarse", "rough"]}

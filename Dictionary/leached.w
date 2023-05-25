@@ -1,1 +1,1 @@
-{"index": 169498, "D": "to dissolve out soluble constituents from (ashes, soil, etc.) by percolation.", "S": ["extract ", "filter ", "filtrate ", "percolate ", "seep ", "strain "], "A": []}
+{"index": 169498, "D": "to dissolve out soluble constituents from (ashes, soil, etc.) by percolation.", "S": ["extract", "filter", "filtrate", "percolate", "seep", "strain"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 170114, "D": "a division of the Roman army, usually comprising 3000 to 6000 soldiers.", "S": ["oodles "], "A": ["little "]}
+{"index": 170114, "D": "a division of the Roman army, usually comprising 3000 to 6000 soldiers.", "S": ["oodles"], "A": ["little"]}

@@ -1,1 +1,1 @@
-{"index": 150224, "D": "the quality or condition of being incongruous. ", "S": ["inconsistency "], "A": []}
+{"index": 150224, "D": "the quality or condition of being incongruous. ", "S": ["inconsistency"], "A": []}

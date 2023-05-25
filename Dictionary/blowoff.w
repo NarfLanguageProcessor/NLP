@@ -1,1 +1,1 @@
-{"index": 36632, "D": "a current of escaping surplus steam, water, etc.", "S": ["conclusion ", "event ", "fallout ", "issue ", "reaction ", "result "], "A": ["cause ", "source ", "origin ", "start "]}
+{"index": 36632, "D": "a current of escaping surplus steam, water, etc.", "S": ["conclusion", "event", "fallout", "issue", "reaction", "result"], "A": ["cause", "source", "origin", "start"]}

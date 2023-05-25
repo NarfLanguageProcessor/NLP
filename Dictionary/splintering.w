@@ -1,1 +1,1 @@
-{"index": 300552, "D": "a small, thin, sharp piece of wood, bone, or the like, split or broken off from the main body.", "S": ["collapsing ", "cracking ", "crumbling ", "fracturing ", "shattering ", "smashing ", "splitting ", "tearing "], "A": ["enduring ", "strong "]}
+{"index": 300552, "D": "a small, thin, sharp piece of wood, bone, or the like, split or broken off from the main body.", "S": ["collapsing", "cracking", "crumbling", "fracturing", "shattering", "smashing", "splitting", "tearing"], "A": ["enduring", "strong"]}

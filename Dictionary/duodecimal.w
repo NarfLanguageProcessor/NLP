@@ -1,1 +1,1 @@
-{"index": 94251, "D": "pertaining to twelfths or to the number 12.", "S": ["twelfth "], "A": []}
+{"index": 94251, "D": "pertaining to twelfths or to the number 12.", "S": ["twelfth"], "A": []}

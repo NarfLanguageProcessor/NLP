@@ -1,1 +1,1 @@
-{"index": 330069, "D": "to put into a neat or orderly condition by clipping, paring, pruning, etc.", "S": ["adroitly ", "beautifully ", "delicately ", "easily ", "elegantly ", "graciously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "gracelessly ", "grotesquely "]}
+{"index": 330069, "D": "to put into a neat or orderly condition by clipping, paring, pruning, etc.", "S": ["adroitly", "beautifully", "delicately", "easily", "elegantly", "graciously", "neatly", "nimbly", "skillfully", "smoothly"], "A": ["awkwardly", "gracelessly", "grotesquely"]}

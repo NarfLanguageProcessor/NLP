@@ -1,1 +1,1 @@
-{"index": 67846, "D": "stubbornly perverse or rebellious; willfully and obstinately disobedient.", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}
+{"index": 67846, "D": "stubbornly perverse or rebellious; willfully and obstinately disobedient.", "S": ["mulishly", "obdurately"], "A": ["graciously", "obediently"]}

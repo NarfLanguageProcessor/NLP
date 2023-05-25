@@ -1,1 +1,1 @@
-{"index": 209403, "D": "naked or unclothed, as a person or the body.", "S": ["bald ", "naked "], "A": ["clothed ", "covered "]}
+{"index": 209403, "D": "naked or unclothed, as a person or the body.", "S": ["bald", "naked"], "A": ["clothed", "covered"]}

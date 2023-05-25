@@ -1,1 +1,0 @@
-{"index": 170840, "D": "any shrub or herb belonging to the genus Lespedeza, of the legume family, having trifoliolate leaves and lavender flowers, grown for forage, soil improvement, etc.", "S": [], "A": []}

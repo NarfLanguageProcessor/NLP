@@ -1,1 +1,1 @@
-{"index": 232245, "D": "annoyingly troublesome; pesty", "S": ["annoying ", "nettlesome ", "troublesome ", "vexing "], "A": ["pleasing "]}
+{"index": 232245, "D": "annoyingly troublesome; pesty", "S": ["annoying", "nettlesome", "troublesome", "vexing"], "A": ["pleasing"]}

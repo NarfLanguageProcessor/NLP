@@ -1,1 +1,1 @@
-{"index": 71273, "D": "the act of a person or thing that couples.", "S": ["pairing "], "A": ["separation "]}
+{"index": 71273, "D": "the act of a person or thing that couples.", "S": ["pairing"], "A": ["separation"]}

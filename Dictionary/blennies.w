@@ -1,0 +1,1 @@
+{"index": 36050, "D": "any of several fishes of the family Blenniidae and related families, especially of the genus Blennius, having a long, tapering body and small pelvic fins inserted before the pectoral fins.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183174, "D": "a short note designating something to be remembered, especially something to be done or acted upon in the future; reminder.", "S": ["agenda ", "business ", "calendar ", "record ", "schedule ", "slate "], "A": []}
+{"index": 183174, "D": "a short note designating something to be remembered, especially something to be done or acted upon in the future; reminder.", "S": ["agenda", "business", "calendar", "record", "schedule", "slate"], "A": []}

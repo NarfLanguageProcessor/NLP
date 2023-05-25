@@ -1,1 +1,1 @@
-{"index": 90027, "D": "discontinuance of use or practice", "S": ["desuetude ", "discontinuance ", "obsolescence ", "obsoleteness "], "A": ["employment ", "use "]}
+{"index": 90027, "D": "discontinuance of use or practice", "S": ["desuetude", "discontinuance", "obsolescence", "obsoleteness"], "A": ["employment", "use"]}

@@ -1,1 +1,1 @@
-{"index": 177684, "D": "a Brahman sage.", "S": ["figure ", "hero ", "luminary ", "personage ", "personality ", "someone ", "star ", "superstar "], "A": ["commoner ", "nobody ", "nonentity ", "unknown "]}
+{"index": 177684, "D": "a Brahman sage.", "S": ["figure", "hero", "luminary", "personage", "personality", "someone", "star", "superstar"], "A": ["commoner", "nobody", "nonentity", "unknown"]}

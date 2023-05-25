@@ -1,1 +1,1 @@
-{"index": 286637, "D": "bearing bristles", "S": ["aristate ", "barbellate ", "chaetophorous ", "echinate ", "hispid ", "setaceous ", "setal ", "setarious ", "setose ", "spiny "], "A": ["clean-shaven ", "smooth "]}
+{"index": 286637, "D": "bearing bristles", "S": ["aristate", "barbellate", "chaetophorous", "echinate", "hispid", "setaceous", "setal", "setarious", "setose", "spiny"], "A": ["clean-shaven", "smooth"]}

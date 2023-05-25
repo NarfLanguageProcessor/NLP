@@ -1,1 +1,1 @@
-{"index": 282407, "D": [], "S": ["barrier ", "breakwater ", "dike ", "embankment ", "jetty "], "A": []}
+{"index": 282407, "D": [], "S": ["barrier", "breakwater", "dike", "embankment", "jetty"], "A": []}

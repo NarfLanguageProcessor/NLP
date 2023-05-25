@@ -1,1 +1,1 @@
-{"index": 135558, "D": "a device for signaling by means of a movable mirror that reflects beams of light, especially sunlight, to a distance.", "S": ["flare ", "lantern ", "radar "], "A": []}
+{"index": 135558, "D": "a device for signaling by means of a movable mirror that reflects beams of light, especially sunlight, to a distance.", "S": ["flare", "lantern", "radar"], "A": []}

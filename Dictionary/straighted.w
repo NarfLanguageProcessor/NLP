@@ -1,1 +1,1 @@
-{"index": 305650, "D": [], "S": ["consecutive ", "nonstop ", "short ", "smooth ", "solid ", "straightforward ", "successive ", "true "], "A": ["broken ", "intermittent ", "level ", "uneven ", "varying "]}
+{"index": 305650, "D": [], "S": ["consecutive", "nonstop", "short", "smooth", "solid", "straightforward", "successive", "true"], "A": ["broken", "intermittent", "level", "uneven", "varying"]}

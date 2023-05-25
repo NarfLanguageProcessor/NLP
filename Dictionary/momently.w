@@ -1,1 +1,1 @@
-{"index": 191643, "D": "with every moment;  from moment  to moment. ", "S": ["at once ", "in a trice ", "in a wink ", "in an instance ", "momentarily ", "right away ", "very soon "], "A": []}
+{"index": 191643, "D": "with every moment;  from moment  to moment. ", "S": ["at once", "in a trice", "in a wink", "in an instance", "momentarily", "right away", "very soon"], "A": []}

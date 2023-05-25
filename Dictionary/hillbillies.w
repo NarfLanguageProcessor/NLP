@@ -1,1 +1,1 @@
-{"index": 139446, "D": "a term used to refer to a person from a backwoods or other remote area, especially from the mountains of the southern U.S. (sometimes used facetiously).", "S": ["bumpkin "], "A": []}
+{"index": 139446, "D": "a term used to refer to a person from a backwoods or other remote area, especially from the mountains of the southern U.S. (sometimes used facetiously).", "S": ["bumpkin"], "A": []}

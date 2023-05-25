@@ -1,1 +1,1 @@
-{"index": 78163, "D": "to decrease the velocity of", "S": ["brake ", "slow "], "A": ["accelerate "]}
+{"index": 78163, "D": "to decrease the velocity of", "S": ["brake", "slow"], "A": ["accelerate"]}

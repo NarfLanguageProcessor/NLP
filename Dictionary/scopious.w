@@ -1,1 +1,1 @@
-{"index": 281205, "D": [], "S": ["extensive ", "far-reaching ", "inclusive ", "wide-ranging "], "A": ["narrow "]}
+{"index": 281205, "D": [], "S": ["extensive", "far-reaching", "inclusive", "wide-ranging"], "A": ["narrow"]}

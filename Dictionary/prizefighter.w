@@ -1,1 +1,1 @@
-{"index": 250882, "D": "a contest between boxers for a prize, a sum of money, etc.; a professional boxing match.", "S": ["boxer ", "bruiser "], "A": []}
+{"index": 250882, "D": "a contest between boxers for a prize, a sum of money, etc.; a professional boxing match.", "S": ["boxer", "bruiser"], "A": []}

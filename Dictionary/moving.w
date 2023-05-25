@@ -1,1 +1,1 @@
-{"index": 194409, "D": "capable of or having movement", "S": ["eloquent ", "emotional ", "expressive ", "gripping ", "heartbreaking ", "heartrending ", "inspirational ", "inspiring ", "meaningful ", "persuasive ", "poignant ", "stirring ", "stunning ", "touching "], "A": ["dull "]}
+{"index": 194409, "D": "capable of or having movement", "S": ["eloquent", "emotional", "expressive", "gripping", "heartbreaking", "heartrending", "inspirational", "inspiring", "meaningful", "persuasive", "poignant", "stirring", "stunning", "touching"], "A": ["dull"]}

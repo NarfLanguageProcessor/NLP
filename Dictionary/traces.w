@@ -1,1 +1,1 @@
-{"index": 327037, "D": [], "S": ["ashes ", "debris ", "destruction ", "detritus ", "foundation ", "relics ", "remains ", "remnants ", "residue ", "rubble ", "vestiges ", "wreck ", "wreckage "], "A": ["creation "]}
+{"index": 327037, "D": [], "S": ["ashes", "debris", "destruction", "detritus", "foundation", "relics", "remains", "remnants", "residue", "rubble", "vestiges", "wreck", "wreckage"], "A": ["creation"]}

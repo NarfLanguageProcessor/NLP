@@ -1,1 +1,1 @@
-{"index": 313455, "D": "the art, practice, or work of treating diseases, injuries, or deformities by manual or operative procedures.", "S": ["abscission ", "enucleation ", "incision ", "resection ", "section "], "A": []}
+{"index": 313455, "D": "the art, practice, or work of treating diseases, injuries, or deformities by manual or operative procedures.", "S": ["abscission", "enucleation", "incision", "resection", "section"], "A": []}

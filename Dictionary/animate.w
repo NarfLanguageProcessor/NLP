@@ -1,1 +1,1 @@
-{"index": 13198, "D": "to give life to; make alive", "S": ["breathing ", "live ", "living ", "moving "], "A": ["dead ", "inactive "]}
+{"index": 13198, "D": "to give life to; make alive", "S": ["breathing", "live", "living", "moving"], "A": ["dead", "inactive"]}

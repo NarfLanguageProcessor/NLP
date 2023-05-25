@@ -1,1 +1,1 @@
-{"index": 29358, "D": "an expanse of sand or pebbles along a shore.", "S": ["coast ", "shore ", "waterfront "], "A": []}
+{"index": 29358, "D": "an expanse of sand or pebbles along a shore.", "S": ["coast", "shore", "waterfront"], "A": []}

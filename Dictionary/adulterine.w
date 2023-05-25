@@ -1,1 +1,1 @@
-{"index": 4520, "D": "characterized by adulteration;  spurious.", "S": ["cheating ", "untrue "], "A": ["faithful ", "loyal ", "trustworthy "]}
+{"index": 4520, "D": "characterized by adulteration;  spurious.", "S": ["cheating", "untrue"], "A": ["faithful", "loyal", "trustworthy"]}

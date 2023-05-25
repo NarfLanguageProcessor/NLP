@@ -1,1 +1,1 @@
-{"index": 301355, "D": "to race or move at full speed, especially for a short distance, as in running, rowing, etc.", "S": ["marathoner ", "runner "], "A": []}
+{"index": 301355, "D": "to race or move at full speed, especially for a short distance, as in running, rowing, etc.", "S": ["marathoner", "runner"], "A": []}

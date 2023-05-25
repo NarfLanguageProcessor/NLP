@@ -1,1 +1,1 @@
-{"index": 290883, "D": "to reduce to symmetry;  make symmetrical. ", "S": ["match "], "A": ["disproportion ", "imbalance ", "vary "]}
+{"index": 290883, "D": "to reduce to symmetry;  make symmetrical. ", "S": ["match"], "A": ["disproportion", "imbalance", "vary"]}

@@ -1,1 +1,1 @@
-{"index": 293918, "D": "the act or state of walking,  eating, or performing other motor acts while asleep, of which one is unaware upon awakening; a condition or disorder characterized by this", "S": ["noctambulation ", "noctambulism ", "somnambulation ", "somnambulism "], "A": []}
+{"index": 293918, "D": "the act or state of walking,  eating, or performing other motor acts while asleep, of which one is unaware upon awakening; a condition or disorder characterized by this", "S": ["noctambulation", "noctambulism", "somnambulation", "somnambulism"], "A": []}

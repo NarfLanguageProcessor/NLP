@@ -1,1 +1,1 @@
-{"index": 113343, "D": "a person who fishes, whether for profit or pleasure.", "S": ["fisher ", "trawler "], "A": []}
+{"index": 113343, "D": "a person who fishes, whether for profit or pleasure.", "S": ["fisher", "trawler"], "A": []}

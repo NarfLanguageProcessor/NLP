@@ -1,1 +1,1 @@
-{"index": 139267, "D": "to steal (cargo) from a truck or other vehicle after forcing it to stop", "S": ["annex ", "preempt ", "supplant ", "wrest "], "A": ["give ", "keep ", "leave ", "let go ", "offer ", "refuse ", "reject ", "release "]}
+{"index": 139267, "D": "to steal (cargo) from a truck or other vehicle after forcing it to stop", "S": ["annex", "preempt", "supplant", "wrest"], "A": ["give", "keep", "leave", "let go", "offer", "refuse", "reject", "release"]}

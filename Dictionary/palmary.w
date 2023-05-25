@@ -1,1 +1,1 @@
-{"index": 224031, "D": "having or deserving to have the palm of victory or success; praiseworthy", "S": ["admirable ", "commendable ", "estimable ", "exemplary ", "laudable ", "respectable "], "A": ["bad ", "dishonorable ", "poor ", "unworthy "]}
+{"index": 224031, "D": "having or deserving to have the palm of victory or success; praiseworthy", "S": ["admirable", "commendable", "estimable", "exemplary", "laudable", "respectable"], "A": ["bad", "dishonorable", "poor", "unworthy"]}

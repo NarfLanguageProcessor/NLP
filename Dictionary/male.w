@@ -1,1 +1,0 @@
-{"index": 178348, "D": " relating to or being a man or boy.", "S": ["masculine "], "A": ["female ", "feminine "]}

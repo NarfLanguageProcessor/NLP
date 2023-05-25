@@ -1,1 +1,1 @@
-{"index": 190605, "D": "lessened in force, severity, or intensity; moderated", "S": ["diminished "], "A": ["distraught ", "sad ", "worried "]}
+{"index": 190605, "D": "lessened in force, severity, or intensity; moderated", "S": ["diminished"], "A": ["distraught", "sad", "worried"]}

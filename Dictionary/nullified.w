@@ -1,1 +1,1 @@
-{"index": 209481, "D": "to render or declare legally void or inoperative", "S": ["annulled ", "cancelled out ", "no longer law ", "null ", "of no effect ", "void "], "A": []}
+{"index": 209481, "D": "to render or declare legally void or inoperative", "S": ["annulled", "cancelled out", "no longer law", "null", "of no effect", "void"], "A": []}

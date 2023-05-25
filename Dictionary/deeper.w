@@ -1,1 +1,1 @@
-{"index": 78993, "D": "extending far down from the top or surface", "S": ["also ", "extra ", "further ", "higher ", "new ", "other "], "A": ["fewer ", "less "]}
+{"index": 78993, "D": "extending far down from the top or surface", "S": ["also", "extra", "further", "higher", "new", "other"], "A": ["fewer", "less"]}

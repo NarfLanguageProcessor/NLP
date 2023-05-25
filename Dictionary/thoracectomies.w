@@ -1,1 +1,0 @@
-{"index": 322334, "D": "excision of part or all of a rib.", "S": [], "A": []}

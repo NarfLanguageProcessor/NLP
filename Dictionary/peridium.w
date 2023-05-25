@@ -1,1 +1,1 @@
-{"index": 230932, "D": "the outer enveloping coat of the fruit body in many fungi.", "S": ["bark ", "layer ", "rind "], "A": []}
+{"index": 230932, "D": "the outer enveloping coat of the fruit body in many fungi.", "S": ["bark", "layer", "rind"], "A": []}

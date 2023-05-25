@@ -1,1 +1,1 @@
-{"index": 305697, "D": "a person or thing that strains. ", "S": ["colander ", "sieve "], "A": []}
+{"index": 305697, "D": "a person or thing that strains. ", "S": ["colander", "sieve"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 209884, "D": "a long shaft with a broad blade at one end, used as a lever for rowing or otherwise propelling or steering a boat.", "S": ["blade ", "pole ", "propel ", "row ", "scull ", "spoon oar ", "sweep "], "A": []}
+{"index": 209884, "D": "a long shaft with a broad blade at one end, used as a lever for rowing or otherwise propelling or steering a boat.", "S": ["blade", "pole", "propel", "row", "scull", "spoon oar", "sweep"], "A": []}

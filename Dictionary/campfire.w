@@ -1,1 +1,1 @@
-{"index": 45847, "D": "an outdoor fire  for warmth or cooking, as at a camp. ", "S": ["encampment ", "tent "], "A": []}
+{"index": 45847, "D": "an outdoor fire  for warmth or cooking, as at a camp. ", "S": ["encampment", "tent"], "A": []}

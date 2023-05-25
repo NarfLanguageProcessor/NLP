@@ -1,1 +1,1 @@
-{"index": 17540, "D": "overcome with horror, shock, outrage, or dismay", "S": ["agog ", "amazed ", "anxious ", "awestruck ", "dismayed ", "shocked ", "stunned "], "A": ["unsurprised "]}
+{"index": 17540, "D": "overcome with horror, shock, outrage, or dismay", "S": ["agog", "amazed", "anxious", "awestruck", "dismayed", "shocked", "stunned"], "A": ["unsurprised"]}

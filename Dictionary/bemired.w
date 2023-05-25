@@ -1,1 +1,1 @@
-{"index": 31383, "D": "to soil with mire;  dirty or muddy", "S": ["begrime ", "dirty ", "grime ", "mire ", "muck ", "slush ", "soil "], "A": ["clean "]}
+{"index": 31383, "D": "to soil with mire;  dirty or muddy", "S": ["begrime", "dirty", "grime", "mire", "muck", "slush", "soil"], "A": ["clean"]}

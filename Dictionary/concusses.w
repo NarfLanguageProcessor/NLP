@@ -1,1 +1,1 @@
-{"index": 65509, "D": "to injure by concussion", "S": ["disturb "], "A": ["calm "]}
+{"index": 65509, "D": "to injure by concussion", "S": ["disturb"], "A": ["calm"]}

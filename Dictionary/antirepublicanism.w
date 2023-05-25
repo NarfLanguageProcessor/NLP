@@ -1,0 +1,1 @@
+{"index": 16083, "D": "republican  government.", "S": [], "A": []}

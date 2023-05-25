@@ -1,1 +1,1 @@
-{"index": 150335, "D": [], "S": ["blind ", "deaf ", "inattentive ", "unconcerned ", "unfamiliar ", "uninformed "], "A": ["attentive ", "aware "]}
+{"index": 150335, "D": [], "S": ["blind", "deaf", "inattentive", "unconcerned", "unfamiliar", "uninformed"], "A": ["attentive", "aware"]}

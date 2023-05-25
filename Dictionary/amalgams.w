@@ -1,1 +1,1 @@
-{"index": 9772, "D": "an alloy of mercury with another metal or metals.", "S": ["admixture ", "alloy ", "amalgamation "], "A": ["division ", "separation "]}
+{"index": 9772, "D": "an alloy of mercury with another metal or metals.", "S": ["admixture", "alloy", "amalgamation"], "A": ["division", "separation"]}

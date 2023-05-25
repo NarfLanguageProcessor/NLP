@@ -1,1 +1,1 @@
-{"index": 94338, "D": "having two parts; double; twofold.", "S": ["dual "], "A": ["singular "]}
+{"index": 94338, "D": "having two parts; double; twofold.", "S": ["dual"], "A": ["singular"]}

@@ -1,1 +1,1 @@
-{"index": 157632, "D": "of or relating to ions. ", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}
+{"index": 157632, "D": "of or relating to ions. ", "S": ["classic", "humanistic"], "A": ["complicated", "modern"]}

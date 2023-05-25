@@ -1,1 +1,1 @@
-{"index": 100188, "D": "to make feeble; weaken", "S": ["diseased ", "feeble ", "ill ", "sickly ", "weak "], "A": ["able ", "fit ", "healthy ", "hearty ", "sound ", "strong ", "well ", "happy "]}
+{"index": 100188, "D": "to make feeble; weaken", "S": ["diseased", "feeble", "ill", "sickly", "weak"], "A": ["able", "fit", "healthy", "hearty", "sound", "strong", "well", "happy"]}

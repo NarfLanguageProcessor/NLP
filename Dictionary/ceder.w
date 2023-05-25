@@ -1,1 +1,1 @@
-{"index": 50370, "D": "to yield or formally surrender to another", "S": ["chicken ", "deserter ", "dropout ", "shirker ", "slacker "], "A": []}
+{"index": 50370, "D": "to yield or formally surrender to another", "S": ["chicken", "deserter", "dropout", "shirker", "slacker"], "A": []}

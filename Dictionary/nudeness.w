@@ -1,1 +1,1 @@
-{"index": 209398, "D": "naked or unclothed, as a person or the body.", "S": ["bareness ", "nakedness ", "naturism ", "nudism ", "undress "], "A": []}
+{"index": 209398, "D": "naked or unclothed, as a person or the body.", "S": ["bareness", "nakedness", "naturism", "nudism", "undress"], "A": []}

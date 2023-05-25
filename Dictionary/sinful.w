@@ -1,1 +1,1 @@
-{"index": 291659, "D": "characterized by, guilty of, or full of sin;  wicked", "S": ["disgraceful ", "reprehensible ", "shameful "], "A": ["good ", "respectable "]}
+{"index": 291659, "D": "characterized by, guilty of, or full of sin;  wicked", "S": ["disgraceful", "reprehensible", "shameful"], "A": ["good", "respectable"]}

@@ -1,1 +1,1 @@
-{"index": 68109, "D": "to move by argument or evidence to belief, agreement, consent, or a course of action", "S": ["business ", "staff "], "A": []}
+{"index": 68109, "D": "to move by argument or evidence to belief, agreement, consent, or a course of action", "S": ["business", "staff"], "A": []}

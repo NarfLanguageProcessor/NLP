@@ -1,1 +1,1 @@
-{"index": 191852, "D": "profitable", "S": ["going ", "good "], "A": ["unprofitable "]}
+{"index": 191852, "D": "profitable", "S": ["going", "good"], "A": ["unprofitable"]}

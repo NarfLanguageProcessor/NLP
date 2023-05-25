@@ -1,1 +1,1 @@
-{"index": 181749, "D": "to have in mind as one's purpose or intention", "S": ["greedy ", "selfish "], "A": ["generous "]}
+{"index": 181749, "D": "to have in mind as one's purpose or intention", "S": ["greedy", "selfish"], "A": ["generous"]}

@@ -1,1 +1,1 @@
-{"index": 72870, "D": "an injurious habit in which a horse bites its manger and as a result swallows air.", "S": ["falsification ", "infringement ", "piracy "], "A": ["return "]}
+{"index": 72870, "D": "an injurious habit in which a horse bites its manger and as a result swallows air.", "S": ["falsification", "infringement", "piracy"], "A": ["return"]}

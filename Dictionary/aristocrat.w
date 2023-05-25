@@ -1,1 +1,1 @@
-{"index": 19758, "D": "a member of an aristocracy,  especially a noble.", "S": ["noble "], "A": ["commoner ", "plebian ", "proletariat "]}
+{"index": 19758, "D": "a member of an aristocracy,  especially a noble.", "S": ["noble"], "A": ["commoner", "plebian", "proletariat"]}

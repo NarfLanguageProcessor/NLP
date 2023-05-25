@@ -1,1 +1,1 @@
-{"index": 80814, "D": "to misrepresent (someone or something) as thoroughly evil or contemptible; malign", "S": ["criticize ", "demean ", "deprecate ", "diminish ", "disparage ", "vilify "], "A": ["canonize ", "celebrate ", "honor "]}
+{"index": 80814, "D": "to misrepresent (someone or something) as thoroughly evil or contemptible; malign", "S": ["criticize", "demean", "deprecate", "diminish", "disparage", "vilify"], "A": ["canonize", "celebrate", "honor"]}

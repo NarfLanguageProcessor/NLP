@@ -1,1 +1,1 @@
-{"index": 32837, "D": "the act or process of bettering;  improvement.", "S": ["advancement ", "amelioration ", "mastery ", "melioration ", "progress ", "prosperity "], "A": ["decline ", "failure ", "retreat ", "retrogression "]}
+{"index": 32837, "D": "the act or process of bettering;  improvement.", "S": ["advancement", "amelioration", "mastery", "melioration", "progress", "prosperity"], "A": ["decline", "failure", "retreat", "retrogression"]}

@@ -1,1 +1,1 @@
-{"index": 66804, "D": "showing kindly awareness or regard for another's feelings, circumstances, etc.", "S": ["awareness ", "concern ", "respect "], "A": ["carelessness ", "cruelty ", "disapproval ", "intolerance ", "meanness ", "thoughtlessness "]}
+{"index": 66804, "D": "showing kindly awareness or regard for another's feelings, circumstances, etc.", "S": ["awareness", "concern", "respect"], "A": ["carelessness", "cruelty", "disapproval", "intolerance", "meanness", "thoughtlessness"]}

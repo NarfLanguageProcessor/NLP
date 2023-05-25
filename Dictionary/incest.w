@@ -1,1 +1,1 @@
-{"index": 149805, "D": "sexual intercourse between closely related persons.", "S": ["interbreeding "], "A": []}
+{"index": 149805, "D": "sexual intercourse between closely related persons.", "S": ["interbreeding"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 175803, "D": "easily understood; completely intelligible or comprehensible", "S": ["luminous ", "unambiguous "], "A": ["clouded ", "cloudy ", "confused ", "dark ", "foggy ", "gloomy ", "muddied ", "murky ", "obscure ", "puzzled ", "shadowy ", "unclear ", "unreasonable ", "vague "]}
+{"index": 175803, "D": "easily understood; completely intelligible or comprehensible", "S": ["luminous", "unambiguous"], "A": ["clouded", "cloudy", "confused", "dark", "foggy", "gloomy", "muddied", "murky", "obscure", "puzzled", "shadowy", "unclear", "unreasonable", "vague"]}

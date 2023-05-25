@@ -1,1 +1,1 @@
-{"index": 169018, "D": "allowing or characterized by latitude  in opinion or conduct, especially in religious views.", "S": ["enlightened ", "flexible ", "humanistic ", "lenient ", "permissive ", "radical ", "reformist ", "tolerant "], "A": ["intolerant ", "limited ", "narrow ", "specific "]}
+{"index": 169018, "D": "allowing or characterized by latitude  in opinion or conduct, especially in religious views.", "S": ["enlightened", "flexible", "humanistic", "lenient", "permissive", "radical", "reformist", "tolerant"], "A": ["intolerant", "limited", "narrow", "specific"]}

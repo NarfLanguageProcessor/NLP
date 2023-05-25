@@ -1,1 +1,1 @@
-{"index": 142918, "D": "a variant of homey1. ", "S": ["comfortable ", "comfy ", "cozy ", "delightful ", "homelike ", "hospitable ", "inviting ", "pleasant ", "restful ", "snug ", "welcoming "], "A": ["inhospitable ", "uncomfortable ", "uninviting ", "unpleasant ", "unwelcoming "]}
+{"index": 142918, "D": "a variant of homey1. ", "S": ["comfortable", "comfy", "cozy", "delightful", "homelike", "hospitable", "inviting", "pleasant", "restful", "snug", "welcoming"], "A": ["inhospitable", "uncomfortable", "uninviting", "unpleasant", "unwelcoming"]}

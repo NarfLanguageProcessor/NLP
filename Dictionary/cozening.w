@@ -1,1 +1,1 @@
-{"index": 71744, "D": "to cheat, deceive, or trick.", "S": ["chicanery ", "deception ", "fraud ", "scam ", "swindle ", "trickery "], "A": ["honesty ", "truthfulness ", "frankness ", "openness ", "reality ", "truth "]}
+{"index": 71744, "D": "to cheat, deceive, or trick.", "S": ["chicanery", "deception", "fraud", "scam", "swindle", "trickery"], "A": ["honesty", "truthfulness", "frankness", "openness", "reality", "truth"]}

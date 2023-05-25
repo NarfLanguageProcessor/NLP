@@ -1,1 +1,1 @@
-{"index": 146722, "D": "to have an earnest or strong desire; long", "S": ["ache ", "chafe ", "covet ", "crave ", "hanker ", "hunger ", "itch ", "pine ", "thirst "], "A": ["abjure ", "dislike ", "hate ", "despise "]}
+{"index": 146722, "D": "to have an earnest or strong desire; long", "S": ["ache", "chafe", "covet", "crave", "hanker", "hunger", "itch", "pine", "thirst"], "A": ["abjure", "dislike", "hate", "despise"]}

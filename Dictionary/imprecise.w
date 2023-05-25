@@ -1,1 +1,1 @@
-{"index": 149010, "D": "not precise;  not exact; vague or ill-defined.", "S": ["estimated "], "A": ["definite ", "precise "]}
+{"index": 149010, "D": "not precise;  not exact; vague or ill-defined.", "S": ["estimated"], "A": ["definite", "precise"]}

@@ -1,1 +1,1 @@
-{"index": 296105, "D": "an advocate or supporter of socialism. ", "S": ["leftist ", "liberal "], "A": ["conservative "]}
+{"index": 296105, "D": "an advocate or supporter of socialism. ", "S": ["leftist", "liberal"], "A": ["conservative"]}

@@ -1,1 +1,1 @@
-{"index": 214216, "D": "any extremely severe or trying test, experience, or trial.", "S": ["agony ", "anguish ", "calamity ", "difficulty ", "nightmare ", "torment ", "torture ", "trial "], "A": ["comfort ", "contentment ", "happiness ", "joy ", "peace ", "health "]}
+{"index": 214216, "D": "any extremely severe or trying test, experience, or trial.", "S": ["agony", "anguish", "calamity", "difficulty", "nightmare", "torment", "torture", "trial"], "A": ["comfort", "contentment", "happiness", "joy", "peace", "health"]}

@@ -1,1 +1,1 @@
-{"index": 126633, "D": "delightful; wonderful; completely enjoyable", "S": ["advantageously "], "A": ["worst "]}
+{"index": 126633, "D": "delightful; wonderful; completely enjoyable", "S": ["advantageously"], "A": ["worst"]}

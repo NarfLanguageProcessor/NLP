@@ -1,1 +1,1 @@
-{"index": 116361, "D": "to refrain or abstain from; desist from.", "S": ["forgiving ", "gentle ", "moderate "], "A": ["violent ", "wild "]}
+{"index": 116361, "D": "to refrain or abstain from; desist from.", "S": ["forgiving", "gentle", "moderate"], "A": ["violent", "wild"]}

@@ -1,1 +1,1 @@
-{"index": 236139, "D": "to spend time in a wasteful, trifling, or ineffective way; dawdle (often followed by around)", "S": ["loiter ", "loll ", "saunter "], "A": ["do ", "face ", "meet "]}
+{"index": 236139, "D": "to spend time in a wasteful, trifling, or ineffective way; dawdle (often followed by around)", "S": ["loiter", "loll", "saunter"], "A": ["do", "face", "meet"]}

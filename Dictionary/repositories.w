@@ -1,1 +1,1 @@
-{"index": 268413, "D": "a receptacle or place where things are deposited, stored, or offered for sale", "S": ["archive ", "depository ", "storehouse "], "A": []}
+{"index": 268413, "D": "a receptacle or place where things are deposited, stored, or offered for sale", "S": ["archive", "depository", "storehouse"], "A": []}

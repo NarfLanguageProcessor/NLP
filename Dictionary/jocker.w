@@ -1,1 +1,1 @@
-{"index": 161475, "D": [], "S": ["male ", "manful ", "masculine ", "virile "], "A": ["effeminate ", "unmanly ", "unmasculine "]}
+{"index": 161475, "D": [], "S": ["male", "manful", "masculine", "virile"], "A": ["effeminate", "unmanly", "unmasculine"]}

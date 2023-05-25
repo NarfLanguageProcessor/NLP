@@ -1,1 +1,1 @@
-{"index": 313790, "D": "capable of being supported or upheld, as by having its weight borne from below.", "S": ["continual ", "continuous ", "viable "], "A": ["untenable ", "tiring ", "unendurable ", "unsuitable "]}
+{"index": 313790, "D": "capable of being supported or upheld, as by having its weight borne from below.", "S": ["continual", "continuous", "viable"], "A": ["untenable", "tiring", "unendurable", "unsuitable"]}

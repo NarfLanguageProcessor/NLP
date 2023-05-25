@@ -1,1 +1,1 @@
-{"index": 20677, "D": [], "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}
+{"index": 20677, "D": [], "S": ["apparatus", "furnishings", "furniture", "machinery", "material"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 156826, "D": "characterized by introspection,  the act or process of looking into oneself.", "S": ["reflective ", "thoughtful "], "A": ["unthoughtful "]}
+{"index": 156826, "D": "characterized by introspection,  the act or process of looking into oneself.", "S": ["reflective", "thoughtful"], "A": ["unthoughtful"]}

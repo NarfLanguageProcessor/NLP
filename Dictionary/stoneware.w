@@ -1,1 +1,1 @@
-{"index": 305251, "D": "a hard, opaque, vitrified ceramic ware. ", "S": ["brick ", "earthenware ", "porcelain ", "tile "], "A": []}
+{"index": 305251, "D": "a hard, opaque, vitrified ceramic ware. ", "S": ["brick", "earthenware", "porcelain", "tile"], "A": []}

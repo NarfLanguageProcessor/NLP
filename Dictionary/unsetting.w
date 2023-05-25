@@ -1,1 +1,0 @@
-{"index": 350844, "D": "the act of a person or thing that sets.", "S": [], "A": []}

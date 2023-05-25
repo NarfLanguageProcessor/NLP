@@ -1,1 +1,1 @@
-{"index": 261768, "D": "to assign or allot to a different purpose or person from the one originally intended", "S": ["allot ", "distribute ", "divide "], "A": ["collect ", "gather ", "hold ", "keep ", "maintain ", "retain "]}
+{"index": 261768, "D": "to assign or allot to a different purpose or person from the one originally intended", "S": ["allot", "distribute", "divide"], "A": ["collect", "gather", "hold", "keep", "maintain", "retain"]}

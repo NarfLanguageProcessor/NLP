@@ -1,1 +1,1 @@
-{"index": 358426, "D": "the state or quality of being verbose;  superfluity of words; wordiness", "S": ["logorrhea ", "long-windedness ", "loquaciousness ", "loquacity ", "prolixity ", "talkativeness ", "verbiage ", "verboseness "], "A": []}
+{"index": 358426, "D": "the state or quality of being verbose;  superfluity of words; wordiness", "S": ["logorrhea", "long-windedness", "loquaciousness", "loquacity", "prolixity", "talkativeness", "verbiage", "verboseness"], "A": []}

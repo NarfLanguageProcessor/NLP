@@ -1,1 +1,0 @@
-{"index": 264825, "D": "to determine or set the value  or amount of; appraise", "S": ["amend ", "rearrange ", "reassess ", "reexamine ", "rethink ", "revise ", "rework "], "A": ["spoil "]}

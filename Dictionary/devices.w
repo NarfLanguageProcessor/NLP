@@ -1,1 +1,1 @@
-{"index": 83543, "D": "a thing made for a particular purpose; an invention or contrivance, especially a mechanical or electrical one.", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}
+{"index": 83543, "D": "a thing made for a particular purpose; an invention or contrivance, especially a mechanical or electrical one.", "S": ["apparatus", "furnishings", "furniture", "machinery", "material"], "A": []}

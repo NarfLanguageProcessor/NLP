@@ -1,1 +1,1 @@
-{"index": 3375, "D": "sharp or severe in effect; intense", "S": ["intense ", "keen ", "sharp ", "subtle "], "A": ["blunt ", "calm ", "dull ", "forthright ", "honest ", "ignorant ", "mild ", "moderate ", "stupid "]}
+{"index": 3375, "D": "sharp or severe in effect; intense", "S": ["intense", "keen", "sharp", "subtle"], "A": ["blunt", "calm", "dull", "forthright", "honest", "ignorant", "mild", "moderate", "stupid"]}

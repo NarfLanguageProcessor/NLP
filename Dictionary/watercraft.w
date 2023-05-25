@@ -1,1 +1,1 @@
-{"index": 363138, "D": "skill in boating and water  sports.", "S": ["aircraft ", "airplane ", "barge ", "boat ", "plane ", "ship ", "spacecraft ", "vessel "], "A": []}
+{"index": 363138, "D": "skill in boating and water  sports.", "S": ["aircraft", "airplane", "barge", "boat", "plane", "ship", "spacecraft", "vessel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 118823, "D": "a student in the first year of the course at a university, college, or high school.", "S": ["novice ", "rookie ", "undergraduate "], "A": ["expert ", "professional "]}
+{"index": 118823, "D": "a student in the first year of the course at a university, college, or high school.", "S": ["novice", "rookie", "undergraduate"], "A": ["expert", "professional"]}

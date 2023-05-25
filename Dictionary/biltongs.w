@@ -1,0 +1,1 @@
+{"index": 34079, "D": "(in South Africa) strips of lean meat dried in the open air.", "S": [], "A": []}

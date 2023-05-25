@@ -1,1 +1,1 @@
-{"index": 297379, "D": "to foretell events; predict.", "S": ["foreshadow ", "foretell ", "portend ", "presage ", "signify "], "A": []}
+{"index": 297379, "D": "to foretell events; predict.", "S": ["foreshadow", "foretell", "portend", "presage", "signify"], "A": []}

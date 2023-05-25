@@ -1,1 +1,1 @@
-{"index": 362990, "D": "land that is uncultivated or barren.", "S": ["desert ", "swamp "], "A": []}
+{"index": 362990, "D": "land that is uncultivated or barren.", "S": ["desert", "swamp"], "A": []}

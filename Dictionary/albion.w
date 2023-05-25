@@ -1,1 +1,1 @@
-{"index": 7471, "D": "Alebion. ", "S": ["Blighty ", "Britain ", "Britannia ", "Commonwealth of Nations ", "England ", "Great Britain ", "Land of the Rose ", "UK ", "United Kingdom of Great Britain and Northern Ireland "], "A": []}
+{"index": 7471, "D": "Alebion. ", "S": ["Blighty", "Britain", "Britannia", "Commonwealth of Nations", "England", "Great Britain", "Land of the Rose", "UK", "United Kingdom of Great Britain and Northern Ireland"], "A": []}

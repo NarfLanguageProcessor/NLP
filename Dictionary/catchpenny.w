@@ -1,1 +1,1 @@
-{"index": 49460, "D": "made to sell readily at a low price, regardless of value or use.", "S": ["bad ", "poor "], "A": ["excellent ", "noble ", "precious ", "priceless ", "sophisticated ", "superior ", "valuable "]}
+{"index": 49460, "D": "made to sell readily at a low price, regardless of value or use.", "S": ["bad", "poor"], "A": ["excellent", "noble", "precious", "priceless", "sophisticated", "superior", "valuable"]}

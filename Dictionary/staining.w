@@ -1,1 +1,1 @@
-{"index": 302423, "D": [], "S": ["blemish ", "blotch ", "color ", "dye ", "smudge ", "speck ", "splotch ", "stigma ", "tint "], "A": ["approval ", "benefit ", "esteem ", "honor ", "praise ", "respect "]}
+{"index": 302423, "D": [], "S": ["blemish", "blotch", "color", "dye", "smudge", "speck", "splotch", "stigma", "tint"], "A": ["approval", "benefit", "esteem", "honor", "praise", "respect"]}

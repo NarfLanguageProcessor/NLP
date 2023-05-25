@@ -1,1 +1,1 @@
-{"index": 302709, "D": "a state of cessation of movement or action; halt; stop", "S": ["dead end ", "deadlock ", "impasse ", "stalemate "], "A": ["agreement ", "breakthrough ", "continuation ", "start "]}
+{"index": 302709, "D": "a state of cessation of movement or action; halt; stop", "S": ["dead end", "deadlock", "impasse", "stalemate"], "A": ["agreement", "breakthrough", "continuation", "start"]}

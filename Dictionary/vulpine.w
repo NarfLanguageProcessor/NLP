@@ -1,1 +1,1 @@
-{"index": 361611, "D": "of or resembling a fox.", "S": ["clever ", "crafty ", "cunning ", "foxy ", "ingenious ", "shrewdness ", "skillful ", "sly ", "tricky ", "wily "], "A": []}
+{"index": 361611, "D": "of or resembling a fox.", "S": ["clever", "crafty", "cunning", "foxy", "ingenious", "shrewdness", "skillful", "sly", "tricky", "wily"], "A": []}

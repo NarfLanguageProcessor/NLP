@@ -1,1 +1,1 @@
-{"index": 72825, "D": "a fissure, or deep cleft, in glacial ice, the earth's surface, etc.", "S": ["abyss ", "chasm ", "fissure "], "A": ["closure ", "solid "]}
+{"index": 72825, "D": "a fissure, or deep cleft, in glacial ice, the earth's surface, etc.", "S": ["abyss", "chasm", "fissure"], "A": ["closure", "solid"]}

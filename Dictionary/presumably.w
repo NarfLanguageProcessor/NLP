@@ -1,1 +1,1 @@
-{"index": 249743, "D": "by assuming reasonably; probably", "S": ["apparently ", "doubtless ", "probably ", "seemingly ", "supposedly ", "surely "], "A": ["improbably ", "questionably ", "uncertain ", "unlikely "]}
+{"index": 249743, "D": "by assuming reasonably; probably", "S": ["apparently", "doubtless", "probably", "seemingly", "supposedly", "surely"], "A": ["improbably", "questionably", "uncertain", "unlikely"]}

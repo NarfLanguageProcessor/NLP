@@ -1,1 +1,1 @@
-{"index": 28176, "D": "Compare aneroid barometer, mercury barometer. ", "S": ["weatherglass "], "A": []}
+{"index": 28176, "D": "Compare aneroid barometer, mercury barometer. ", "S": ["weatherglass"], "A": []}

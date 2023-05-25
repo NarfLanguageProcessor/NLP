@@ -1,1 +1,1 @@
-{"index": 325141, "D": "any of various transparent linens and cottons.", "S": ["bedding ", "cloth ", "lingerie "], "A": []}
+{"index": 325141, "D": "any of various transparent linens and cottons.", "S": ["bedding", "cloth", "lingerie"], "A": []}

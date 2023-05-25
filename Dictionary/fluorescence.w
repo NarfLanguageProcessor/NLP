@@ -1,1 +1,1 @@
-{"index": 115421, "D": "Compare phosphorescence (def. 1). ", "S": ["brightness ", "glow ", "light ", "luminance "], "A": ["darkness "]}
+{"index": 115421, "D": "Compare phosphorescence (def. 1). ", "S": ["brightness", "glow", "light", "luminance"], "A": ["darkness"]}

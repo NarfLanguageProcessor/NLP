@@ -1,1 +1,1 @@
-{"index": 148187, "D": "to enclose within walls.", "S": ["cloister ", "entomb ", "imprison ", "incarcerate ", "jail ", "seclude ", "wall "], "A": ["free ", "let go ", "release "]}
+{"index": 148187, "D": "to enclose within walls.", "S": ["cloister", "entomb", "imprison", "incarcerate", "jail", "seclude", "wall"], "A": ["free", "let go", "release"]}

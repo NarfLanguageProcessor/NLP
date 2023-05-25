@@ -1,1 +1,0 @@
-{"index": 234339, "D": "plant pathology. ", "S": ["plant physiology ", "vegetable pathology "], "A": []}

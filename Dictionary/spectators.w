@@ -1,1 +1,1 @@
-{"index": 298866, "D": "a person who looks on or watches; onlooker; observer.", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}
+{"index": 298866, "D": "a person who looks on or watches; onlooker; observer.", "S": ["congregation", "crowd", "gallery", "gathering", "market", "public"], "A": []}

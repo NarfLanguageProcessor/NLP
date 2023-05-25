@@ -1,1 +1,1 @@
-{"index": 68958, "D": "a line of police, sentinels, military posts, warships, etc., enclosing or guarding an area.", "S": ["identification ", "insignia ", "marker ", "medallion ", "pin ", "ribbon ", "stamp ", "symbol ", "token "], "A": []}
+{"index": 68958, "D": "a line of police, sentinels, military posts, warships, etc., enclosing or guarding an area.", "S": ["identification", "insignia", "marker", "medallion", "pin", "ribbon", "stamp", "symbol", "token"], "A": []}

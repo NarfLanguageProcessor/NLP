@@ -1,1 +1,1 @@
-{"index": 287437, "D": "a section, as of a city or town characterized by shanties  and crudely built houses.", "S": ["blighted area ", "public squalor ", "run-down neighborhood ", "skid row ", "tenement housing "], "A": []}
+{"index": 287437, "D": "a section, as of a city or town characterized by shanties  and crudely built houses.", "S": ["blighted area", "public squalor", "run-down neighborhood", "skid row", "tenement housing"], "A": []}

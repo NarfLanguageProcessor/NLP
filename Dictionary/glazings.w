@@ -1,1 +1,1 @@
-{"index": 126072, "D": "the act of furnishing or fitting with glass; the business or work of a glazier.", "S": ["ceramics ", "crockery ", "earthenware ", "firing ", "porcelain ", "stoneware "], "A": []}
+{"index": 126072, "D": "the act of furnishing or fitting with glass; the business or work of a glazier.", "S": ["ceramics", "crockery", "earthenware", "firing", "porcelain", "stoneware"], "A": []}

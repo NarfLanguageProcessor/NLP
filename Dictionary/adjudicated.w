@@ -1,0 +1,1 @@
+{"index": 4034, "D": "settled, determined, or decreed judicially", "S": ["arbitrate"], "A": ["hesitate"]}

@@ -1,1 +1,1 @@
-{"index": 153874, "D": "renewal; restoration; renovation; repair. ", "S": ["reconstruction ", "recovery ", "refurbishment ", "rehabilitation ", "reinstatement ", "renewal ", "renovation ", "repatriation ", "revival "], "A": ["destruction ", "disease ", "penalty "]}
+{"index": 153874, "D": "renewal; restoration; renovation; repair. ", "S": ["reconstruction", "recovery", "refurbishment", "rehabilitation", "reinstatement", "renewal", "renovation", "repatriation", "revival"], "A": ["destruction", "disease", "penalty"]}

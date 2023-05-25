@@ -1,1 +1,0 @@
-{"index": 235339, "D": "a receptor  stimulated by light.", "S": [], "A": []}

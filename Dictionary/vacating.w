@@ -1,1 +1,0 @@
-{"index": 356344, "D": "to give up possession or occupancy of", "S": ["ephemeral ", "fleeting ", "short-term ", "transitory "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "long-lived ", "permanent ", "perpetual "]}

@@ -1,1 +1,1 @@
-{"index": 256566, "D": "a grotesque or absurd chief character in a puppet show of Italian origin", "S": ["buffoon ", "comedian ", "comic ", "fool ", "jester ", "mime ", "prankster "], "A": []}
+{"index": 256566, "D": "a grotesque or absurd chief character in a puppet show of Italian origin", "S": ["buffoon", "comedian", "comic", "fool", "jester", "mime", "prankster"], "A": []}

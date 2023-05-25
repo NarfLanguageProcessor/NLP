@@ -1,1 +1,1 @@
-{"index": 370018, "D": "a Japanese sandal, often made of straw or rubber and consisting of a flat sole held on the foot by a thong passing between the first and second toes.", "S": ["moccasin ", "shoe ", "slipper "], "A": []}
+{"index": 370018, "D": "a Japanese sandal, often made of straw or rubber and consisting of a flat sole held on the foot by a thong passing between the first and second toes.", "S": ["moccasin", "shoe", "slipper"], "A": []}

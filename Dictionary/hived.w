@@ -1,1 +1,1 @@
-{"index": 141998, "D": "a shelter constructed for housing a colony of honeybees; beehive. ", "S": ["acquired immune deficiency syndrome ", "sexually transmitted disease ", "virus "], "A": []}
+{"index": 141998, "D": "a shelter constructed for housing a colony of honeybees; beehive. ", "S": ["acquired immune deficiency syndrome", "sexually transmitted disease", "virus"], "A": []}

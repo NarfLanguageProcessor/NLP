@@ -1,1 +1,1 @@
-{"index": 201632, "D": "a person who lacks belief or faith, as in God, a religion, an idea, or an undertaking.", "S": ["agnostic ", "disbelieving ", "godless ", "irreligious ", "nonreligious ", "unbelieving ", "ungodly "], "A": ["believing ", "god-fearing ", "religious "]}
+{"index": 201632, "D": "a person who lacks belief or faith, as in God, a religion, an idea, or an undertaking.", "S": ["agnostic", "disbelieving", "godless", "irreligious", "nonreligious", "unbelieving", "ungodly"], "A": ["believing", "god-fearing", "religious"]}

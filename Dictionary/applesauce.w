@@ -1,1 +1,1 @@
-{"index": 17791, "D": "apples  stewed to a soft pulp and sometimes sweetened or spiced with cinnamon.", "S": ["bunk ", "fudge ", "hogwash ", "hokum ", "hooey ", "malarkey ", "nonsense ", "poppycock ", "pulp ", "rubbish "], "A": ["sense ", "truth "]}
+{"index": 17791, "D": "apples  stewed to a soft pulp and sometimes sweetened or spiced with cinnamon.", "S": ["bunk", "fudge", "hogwash", "hokum", "hooey", "malarkey", "nonsense", "poppycock", "pulp", "rubbish"], "A": ["sense", "truth"]}

@@ -1,1 +1,1 @@
-{"index": 109991, "D": "the business of operating a farm. ", "S": ["agriculture ", "breeding ", "cultivation ", "culture ", "gardening ", "grazing ", "production ", "ranching "], "A": ["destruction "]}
+{"index": 109991, "D": "the business of operating a farm. ", "S": ["agriculture", "breeding", "cultivation", "culture", "gardening", "grazing", "production", "ranching"], "A": ["destruction"]}

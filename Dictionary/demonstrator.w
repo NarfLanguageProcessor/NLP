@@ -1,1 +1,1 @@
-{"index": 80869, "D": "a person or thing that demonstrates. ", "S": ["marcher ", "radical ", "rioter ", "striker "], "A": []}
+{"index": 80869, "D": "a person or thing that demonstrates. ", "S": ["marcher", "radical", "rioter", "striker"], "A": []}

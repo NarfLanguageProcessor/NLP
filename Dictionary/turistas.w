@@ -1,1 +1,1 @@
-{"index": 332719, "D": "traveler's diarrhea, especially as experienced by some visitors to Latin America.", "S": ["Montezuma's revenge ", "backdoor trots ", "diarrhea ", "diarrhoea ", "dysentery ", "flux ", "loose stool ", "runs ", "summer complaint ", "tourista ", "trots "], "A": []}
+{"index": 332719, "D": "traveler's diarrhea, especially as experienced by some visitors to Latin America.", "S": ["Montezuma's revenge", "backdoor trots", "diarrhea", "diarrhoea", "dysentery", "flux", "loose stool", "runs", "summer complaint", "tourista", "trots"], "A": []}

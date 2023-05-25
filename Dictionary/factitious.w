@@ -1,1 +1,1 @@
-{"index": 109058, "D": "not spontaneous or natural; artificial; contrived", "S": ["artificial ", "false ", "sham "], "A": []}
+{"index": 109058, "D": "not spontaneous or natural; artificial; contrived", "S": ["artificial", "false", "sham"], "A": []}

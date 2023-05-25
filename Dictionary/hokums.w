@@ -1,1 +1,1 @@
-{"index": 142374, "D": "out-and-out nonsense; bunkum.", "S": ["bunk ", "fudge ", "hogwash ", "hooey ", "malarkey ", "nonsense ", "poppycock ", "pulp ", "rubbish "], "A": ["sense ", "truth "]}
+{"index": 142374, "D": "out-and-out nonsense; bunkum.", "S": ["bunk", "fudge", "hogwash", "hooey", "malarkey", "nonsense", "poppycock", "pulp", "rubbish"], "A": ["sense", "truth"]}

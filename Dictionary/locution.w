@@ -1,1 +1,1 @@
-{"index": 174469, "D": "a particular form of expression; a word, phrase, expression, or idiom, especially as used by a particular person, group, etc.", "S": ["inflection "], "A": []}
+{"index": 174469, "D": "a particular form of expression; a word, phrase, expression, or idiom, especially as used by a particular person, group, etc.", "S": ["inflection"], "A": []}

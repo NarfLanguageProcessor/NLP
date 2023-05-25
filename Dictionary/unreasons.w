@@ -1,1 +1,1 @@
-{"index": 349128, "D": "inability or unwillingness to think or act rationally, reasonably, or sensibly; irrationality.", "S": ["agitation ", "delirium ", "excitement ", "frenzy ", "madness ", "nervousness ", "panic "], "A": ["calm ", "calmness ", "collectedness ", "peace "]}
+{"index": 349128, "D": "inability or unwillingness to think or act rationally, reasonably, or sensibly; irrationality.", "S": ["agitation", "delirium", "excitement", "frenzy", "madness", "nervousness", "panic"], "A": ["calm", "calmness", "collectedness", "peace"]}

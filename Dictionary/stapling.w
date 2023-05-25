@@ -1,1 +1,0 @@
-{"index": 302839, "D": "a collar formed of angle iron surrounding a structural member passing through a deck or bulkhead to make a seal that is watertight, oiltight, etc.", "S": ["perfect binding ", "wire stitch "], "A": []}

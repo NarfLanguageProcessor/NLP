@@ -1,1 +1,0 @@
-{"index": 168338, "D": "to turn into stone.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 363220, "D": "a substance by which something is made waterproof. ", "S": ["close ", "enclose ", "isolate ", "plug ", "secure ", "shut ", "stop "], "A": ["begin ", "continue ", "let go ", "open ", "release ", "start ", "unplug "]}
+{"index": 363220, "D": "a substance by which something is made waterproof. ", "S": ["close", "enclose", "isolate", "plug", "secure", "shut", "stop"], "A": ["begin", "continue", "let go", "open", "release", "start", "unplug"]}

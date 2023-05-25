@@ -1,1 +1,1 @@
-{"index": 311199, "D": "something used as a protection from the rays of the sun,  as an awning or a parasol.", "S": ["covering ", "tent "], "A": []}
+{"index": 311199, "D": "something used as a protection from the rays of the sun,  as an awning or a parasol.", "S": ["covering", "tent"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 356836, "D": "without worth or value;  worthless", "S": [], "A": []}

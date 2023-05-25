@@ -1,1 +1,1 @@
-{"index": 17889, "D": "the act of estimating or judging the nature or value of something or someone.", "S": ["assessment ", "evaluation ", "opinion ", "pricing ", "survey ", "valuation "], "A": []}
+{"index": 17889, "D": "the act of estimating or judging the nature or value of something or someone.", "S": ["assessment", "evaluation", "opinion", "pricing", "survey", "valuation"], "A": []}

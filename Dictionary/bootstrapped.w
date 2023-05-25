@@ -1,1 +1,1 @@
-{"index": 38282, "D": "a loop of leather or cloth sewn at the top rear, or sometimes on each side, of a boot  to facilitate pulling it on.", "S": ["reboot ", "reset "], "A": []}
+{"index": 38282, "D": "a loop of leather or cloth sewn at the top rear, or sometimes on each side, of a boot  to facilitate pulling it on.", "S": ["reboot", "reset"], "A": []}

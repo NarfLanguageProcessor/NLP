@@ -1,1 +1,1 @@
-{"index": 139410, "D": "cheerfulness; merriment; mirthfulness.", "S": ["amusement ", "merriment "], "A": ["sadness ", "work "]}
+{"index": 139410, "D": "cheerfulness; merriment; mirthfulness.", "S": ["amusement", "merriment"], "A": ["sadness", "work"]}

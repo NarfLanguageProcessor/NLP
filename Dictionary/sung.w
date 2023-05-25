@@ -1,1 +1,1 @@
-{"index": 311123, "D": "a simple past tense and past participle of sing. ", "S": ["choral ", "lyric ", "oral ", "singing ", "voiced ", "vowel "], "A": []}
+{"index": 311123, "D": "a simple past tense and past participle of sing. ", "S": ["choral", "lyric", "oral", "singing", "voiced", "vowel"], "A": []}

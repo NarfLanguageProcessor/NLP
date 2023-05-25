@@ -1,1 +1,1 @@
-{"index": 230219, "D": "full of or tasting like pepper;  hot; pungent.", "S": ["piquant ", "pungent ", "spicy ", "zesty "], "A": ["bland ", "dull ", "flavorless ", "tasteless "]}
+{"index": 230219, "D": "full of or tasting like pepper;  hot; pungent.", "S": ["piquant", "pungent", "spicy", "zesty"], "A": ["bland", "dull", "flavorless", "tasteless"]}

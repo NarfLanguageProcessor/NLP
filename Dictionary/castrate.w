@@ -1,1 +1,1 @@
-{"index": 49118, "D": "to remove the testes of; emasculate; geld. ", "S": ["mutilate ", "neuter ", "spay ", "sterilize "], "A": ["aid ", "assist ", "continue ", "help ", "keep ", "remain "]}
+{"index": 49118, "D": "to remove the testes of; emasculate; geld. ", "S": ["mutilate", "neuter", "spay", "sterilize"], "A": ["aid", "assist", "continue", "help", "keep", "remain"]}

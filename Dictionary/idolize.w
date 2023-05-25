@@ -1,1 +1,1 @@
-{"index": 146649, "D": "to regard with blind adoration, devotion, etc.", "S": ["admire ", "adore ", "revere ", "venerate "], "A": ["abhor ", "condemn ", "despise ", "detest ", "hate ", "castigate ", "criticize ", "debase ", "degrade ", "humiliate ", "lower "]}
+{"index": 146649, "D": "to regard with blind adoration, devotion, etc.", "S": ["admire", "adore", "revere", "venerate"], "A": ["abhor", "condemn", "despise", "detest", "hate", "castigate", "criticize", "debase", "degrade", "humiliate", "lower"]}

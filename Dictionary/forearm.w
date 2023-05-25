@@ -1,1 +1,1 @@
-{"index": 116489, "D": "the part of the arm  between the elbow and the wrist.", "S": ["radius ", "ulna "], "A": []}
+{"index": 116489, "D": "the part of the arm  between the elbow and the wrist.", "S": ["radius", "ulna"], "A": []}

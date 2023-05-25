@@ -1,1 +1,1 @@
-{"index": 364131, "D": "to pursue or direct (one's way).", "S": ["meander ", "saunter "], "A": ["stay "]}
+{"index": 364131, "D": "to pursue or direct (one's way).", "S": ["meander", "saunter"], "A": ["stay"]}

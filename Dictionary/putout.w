@@ -1,1 +1,1 @@
-{"index": 257296, "D": "the retirement  of a batter or base runner. Abbreviation", "S": ["burn "], "A": ["assuage ", "help ", "please ", "start "]}
+{"index": 257296, "D": "the retirement  of a batter or base runner. Abbreviation", "S": ["burn"], "A": ["assuage", "help", "please", "start"]}

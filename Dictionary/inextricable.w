@@ -1,1 +1,1 @@
-{"index": 151766, "D": "from which one cannot extricate oneself", "S": ["complex ", "intricate ", "involved ", "perplexing ", "tangled "], "A": []}
+{"index": 151766, "D": "from which one cannot extricate oneself", "S": ["complex", "intricate", "involved", "perplexing", "tangled"], "A": []}

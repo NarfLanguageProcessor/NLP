@@ -1,1 +1,1 @@
-{"index": 63820, "D": "producing laughter; amusing; funny", "S": ["extremely ", "insanely ", "laughably "], "A": []}
+{"index": 63820, "D": "producing laughter; amusing; funny", "S": ["extremely", "insanely", "laughably"], "A": []}

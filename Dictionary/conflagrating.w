@@ -1,1 +1,1 @@
-{"index": 65976, "D": [], "S": ["blaze ", "char ", "heat ", "ignite ", "incinerate ", "light ", "melt ", "scorch ", "smolder ", "torch "], "A": ["extinguish ", "freeze ", "put out "]}
+{"index": 65976, "D": [], "S": ["blaze", "char", "heat", "ignite", "incinerate", "light", "melt", "scorch", "smolder", "torch"], "A": ["extinguish", "freeze", "put out"]}

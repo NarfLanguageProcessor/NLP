@@ -1,1 +1,1 @@
-{"index": 271536, "D": "a form of theatrical entertainment in which recent events, popular fads, etc., are parodied.", "S": ["farce ", "spoof ", "travesty "], "A": []}
+{"index": 271536, "D": "a form of theatrical entertainment in which recent events, popular fads, etc., are parodied.", "S": ["farce", "spoof", "travesty"], "A": []}

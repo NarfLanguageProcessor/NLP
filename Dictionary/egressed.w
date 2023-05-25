@@ -1,1 +1,1 @@
-{"index": 96290, "D": "the act or an instance of going, especially from an enclosed place.", "S": ["arise ", "derive ", "emerge ", "emit ", "exude ", "originate ", "radiate ", "stem "], "A": ["conceal ", "hold ", "keep "]}
+{"index": 96290, "D": "the act or an instance of going, especially from an enclosed place.", "S": ["arise", "derive", "emerge", "emit", "exude", "originate", "radiate", "stem"], "A": ["conceal", "hold", "keep"]}

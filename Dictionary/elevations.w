@@ -1,1 +1,1 @@
-{"index": 97497, "D": "the height to which something is elevated  or to which it rises", "S": ["altitude ", "ascent ", "mountain "], "A": ["decrease ", "flat "]}
+{"index": 97497, "D": "the height to which something is elevated  or to which it rises", "S": ["altitude", "ascent", "mountain"], "A": ["decrease", "flat"]}

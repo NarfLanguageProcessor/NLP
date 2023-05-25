@@ -1,1 +1,1 @@
-{"index": 17938, "D": "a person who works for another in order to learn a trade", "S": ["pupil "], "A": ["expert ", "professional "]}
+{"index": 17938, "D": "a person who works for another in order to learn a trade", "S": ["pupil"], "A": ["expert", "professional"]}

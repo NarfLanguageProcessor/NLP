@@ -1,0 +1,1 @@
+{"index": 28028, "D": "a mineral, double carbonate of calcium and barium, CaCO3\u22c5BaCO3, usually found in veins of lead minerals.", "S": [], "A": []}

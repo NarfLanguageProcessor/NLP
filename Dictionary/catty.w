@@ -1,1 +1,1 @@
-{"index": 49856, "D": "catlike; feline.", "S": ["rancorous ", "spiteful "], "A": ["kind ", "nice ", "pleasant "]}
+{"index": 49856, "D": "catlike; feline.", "S": ["rancorous", "spiteful"], "A": ["kind", "nice", "pleasant"]}

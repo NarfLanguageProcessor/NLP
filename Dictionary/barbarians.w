@@ -1,1 +1,1 @@
-{"index": 27716, "D": "a person in a savage, primitive state; uncivilized person.", "S": ["lowbrow ", "philistine ", "primitive ", "rough ", "wild "], "A": ["calm ", "mild ", "moderate ", "sophisticated "]}
+{"index": 27716, "D": "a person in a savage, primitive state; uncivilized person.", "S": ["lowbrow", "philistine", "primitive", "rough", "wild"], "A": ["calm", "mild", "moderate", "sophisticated"]}

@@ -1,1 +1,1 @@
-{"index": 156205, "D": "to roll, wind, or involve, one within another.", "S": ["convolute "], "A": ["straighten ", "untwist "]}
+{"index": 156205, "D": "to roll, wind, or involve, one within another.", "S": ["convolute"], "A": ["straighten", "untwist"]}

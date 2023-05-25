@@ -1,1 +1,1 @@
-{"index": 368037, "D": "(in early English law) any formal document in letter form, under seal, and in the sovereign's name.", "S": ["summons "], "A": []}
+{"index": 368037, "D": "(in early English law) any formal document in letter form, under seal, and in the sovereign's name.", "S": ["summons"], "A": []}

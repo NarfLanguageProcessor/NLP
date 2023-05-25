@@ -1,1 +1,1 @@
-{"index": 174904, "D": "having considerable linear extent in space", "S": ["yearn "], "A": ["despise ", "dislike ", "hate "]}
+{"index": 174904, "D": "having considerable linear extent in space", "S": ["yearn"], "A": ["despise", "dislike", "hate"]}

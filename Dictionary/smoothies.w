@@ -1,1 +1,1 @@
-{"index": 295072, "D": "a person who has a winningly polished manner", "S": ["crafty fellow ", "crafty rascal ", "dodger ", "opportunist "], "A": []}
+{"index": 295072, "D": "a person who has a winningly polished manner", "S": ["crafty fellow", "crafty rascal", "dodger", "opportunist"], "A": []}

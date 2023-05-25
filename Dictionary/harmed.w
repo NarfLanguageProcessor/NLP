@@ -1,1 +1,1 @@
-{"index": 133813, "D": "physical injury or mental damage; hurt", "S": ["hurt ", "injured ", "wounded "], "A": []}
+{"index": 133813, "D": "physical injury or mental damage; hurt", "S": ["hurt", "injured", "wounded"], "A": []}

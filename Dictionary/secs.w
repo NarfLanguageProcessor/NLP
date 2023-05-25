@@ -1,1 +1,0 @@
-{"index": 282831, "D": "seconds.", "S": ["breath ", "crack ", "flash ", "jiffy ", "juncture ", "minute ", "occasion ", "point ", "second ", "shake ", "tick ", "time ", "trice ", "twinkling ", "while ", "wink "], "A": []}

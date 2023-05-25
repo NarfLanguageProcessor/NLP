@@ -1,0 +1,1 @@
+{"index": 18053, "D": "something associated with, accompanying, or belonging to another thing; accessory", "S": ["addition", "annex", "apparatus", "appendage", "appendix", "attachment", "component"], "A": []}

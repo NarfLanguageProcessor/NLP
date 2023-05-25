@@ -1,1 +1,1 @@
-{"index": 342782, "D": "not providing satisfaction; unprofitable", "S": ["childlessness ", "fruitlessness ", "impotence ", "infertility ", "unproductiveness "], "A": ["fecundity ", "fertility ", "fruitfulness "]}
+{"index": 342782, "D": "not providing satisfaction; unprofitable", "S": ["childlessness", "fruitlessness", "impotence", "infertility", "unproductiveness"], "A": ["fecundity", "fertility", "fruitfulness"]}

@@ -1,1 +1,1 @@
-{"index": 158593, "D": "local deficiency of blood supply produced by vasoconstriction or local obstacles to the arterial flow.", "S": ["chlorosis ", "emptiness ", "lifelessness "], "A": []}
+{"index": 158593, "D": "local deficiency of blood supply produced by vasoconstriction or local obstacles to the arterial flow.", "S": ["chlorosis", "emptiness", "lifelessness"], "A": []}

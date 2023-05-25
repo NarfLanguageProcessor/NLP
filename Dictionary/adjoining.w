@@ -1,0 +1,1 @@
+{"index": 4011, "D": "being in contact at some point or line; located next to another; bordering; contiguous", "S": ["adjacent", "contiguous", "neighboring"], "A": ["detached", "divided", "separate"]}

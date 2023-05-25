@@ -1,1 +1,1 @@
-{"index": 351405, "D": "to perceive the odor or scent of through the nose by means of the olfactory nerves; inhale the odor of", "S": ["inodorous "], "A": ["aromatic ", "odorous ", "perfumed ", "scented ", "smelly "]}
+{"index": 351405, "D": "to perceive the odor or scent of through the nose by means of the olfactory nerves; inhale the odor of", "S": ["inodorous"], "A": ["aromatic", "odorous", "perfumed", "scented", "smelly"]}

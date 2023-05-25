@@ -1,1 +1,1 @@
-{"index": 278080, "D": "the juice or vital circulating fluid of a plant, especially of a woody plant.", "S": ["chump ", "dolt ", "dupe ", "fool ", "idiot ", "jerk ", "nitwit ", "patsy ", "pigeon ", "simpleton ", "sucker "], "A": ["brain "]}
+{"index": 278080, "D": "the juice or vital circulating fluid of a plant, especially of a woody plant.", "S": ["chump", "dolt", "dupe", "fool", "idiot", "jerk", "nitwit", "patsy", "pigeon", "simpleton", "sucker"], "A": ["brain"]}

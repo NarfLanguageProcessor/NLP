@@ -1,1 +1,1 @@
-{"index": 135246, "D": "a person whose life is devoted to the pursuit of pleasure and self-gratification.", "S": ["debauchee ", "epicure ", "epicurean ", "gourmand ", "lecher ", "libertine ", "profligate ", "sensualist ", "sybarite ", "voluptuary "], "A": ["puritan "]}
+{"index": 135246, "D": "a person whose life is devoted to the pursuit of pleasure and self-gratification.", "S": ["debauchee", "epicure", "epicurean", "gourmand", "lecher", "libertine", "profligate", "sensualist", "sybarite", "voluptuary"], "A": ["puritan"]}

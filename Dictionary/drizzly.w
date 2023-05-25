@@ -1,1 +1,1 @@
-{"index": 93219, "D": "to rain gently and steadily in fine drops; sprinkle", "S": ["close ", "dank ", "moist ", "mucid ", "mucous ", "muculent ", "pasty ", "slimy ", "soggy ", "sticky ", "sweating ", "sweaty ", "wet "], "A": ["dry "]}
+{"index": 93219, "D": "to rain gently and steadily in fine drops; sprinkle", "S": ["close", "dank", "moist", "mucid", "mucous", "muculent", "pasty", "slimy", "soggy", "sticky", "sweating", "sweaty", "wet"], "A": ["dry"]}

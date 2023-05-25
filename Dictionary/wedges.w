@@ -1,1 +1,1 @@
-{"index": 363717, "D": "Compare machine (def. 3b). ", "S": ["chunk "], "A": ["whole "]}
+{"index": 363717, "D": "Compare machine (def. 3b). ", "S": ["chunk"], "A": ["whole"]}

@@ -1,1 +1,1 @@
-{"index": 339509, "D": "below the surface or level of; directly or vertically beneath; at or on the bottom of.", "S": ["beneath ", "bottom ", "covered ", "lower ", "neath ", "nether ", "under "], "A": []}
+{"index": 339509, "D": "below the surface or level of; directly or vertically beneath; at or on the bottom of.", "S": ["beneath", "bottom", "covered", "lower", "neath", "nether", "under"], "A": []}

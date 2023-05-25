@@ -1,1 +1,1 @@
-{"index": 64482, "D": "an equal in rank, ability, accomplishment, etc.; peer; colleague.", "S": ["age group ", "colleagues ", "fellowship ", "old-boy network "], "A": []}
+{"index": 64482, "D": "an equal in rank, ability, accomplishment, etc.; peer; colleague.", "S": ["age group", "colleagues", "fellowship", "old-boy network"], "A": []}

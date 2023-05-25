@@ -1,1 +1,1 @@
-{"index": 115996, "D": "a body of followers,  attendants, adherents, etc.", "S": ["coming ", "consecutive ", "ensuing ", "subsequent ", "succeeding ", "successive "], "A": ["front ", "preceding "]}
+{"index": 115996, "D": "a body of followers,  attendants, adherents, etc.", "S": ["coming", "consecutive", "ensuing", "subsequent", "succeeding", "successive"], "A": ["front", "preceding"]}

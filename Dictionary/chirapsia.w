@@ -1,1 +1,1 @@
-{"index": 54728, "D": [], "S": ["beating ", "manipulation ", "rubbing ", "stroking "], "A": []}
+{"index": 54728, "D": [], "S": ["beating", "manipulation", "rubbing", "stroking"], "A": []}

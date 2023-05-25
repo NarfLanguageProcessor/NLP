@@ -1,1 +1,1 @@
-{"index": 272157, "D": "movement or procedure with uniform or patterned recurrence of a beat, accent, or the like.", "S": ["cadence ", "flow ", "movement ", "pattern ", "pulse ", "swing ", "tempo "], "A": []}
+{"index": 272157, "D": "movement or procedure with uniform or patterned recurrence of a beat, accent, or the like.", "S": ["cadence", "flow", "movement", "pattern", "pulse", "swing", "tempo"], "A": []}

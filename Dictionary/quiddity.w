@@ -1,1 +1,1 @@
-{"index": 258537, "D": "the quality that makes a thing what it is; the essential nature of a thing.", "S": ["system "], "A": ["fraction ", "part "]}
+{"index": 258537, "D": "the quality that makes a thing what it is; the essential nature of a thing.", "S": ["system"], "A": ["fraction", "part"]}

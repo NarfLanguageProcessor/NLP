@@ -1,1 +1,1 @@
-{"index": 174912, "D": "having considerable linear extent in space", "S": ["deep ", "great ", "high ", "lengthy ", "protracted ", "tall "], "A": ["ignorant ", "little ", "low ", "short ", "small ", "soft ", "unimportant ", "weak "]}
+{"index": 174912, "D": "having considerable linear extent in space", "S": ["deep", "great", "high", "lengthy", "protracted", "tall"], "A": ["ignorant", "little", "low", "short", "small", "soft", "unimportant", "weak"]}

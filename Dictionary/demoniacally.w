@@ -1,1 +1,1 @@
-{"index": 80791, "D": "of, relating to, or like a demon; demonic", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}
+{"index": 80791, "D": "of, relating to, or like a demon; demonic", "S": ["ferociously", "fiercely", "mercilessly", "relentlessly", "ruthlessly", "savagely", "viciously"], "A": ["gently", "humanely", "kindly", "nicely"]}

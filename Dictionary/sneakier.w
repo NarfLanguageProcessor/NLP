@@ -1,1 +1,1 @@
-{"index": 295396, "D": "like or suggestive of a sneak;  furtive; deceitful.", "S": ["devious ", "disingenuous ", "nasty ", "shifty ", "sly ", "tricky "], "A": ["frank ", "honest ", "open ", "straight ", "straightforward ", "trustworthy "]}
+{"index": 295396, "D": "like or suggestive of a sneak;  furtive; deceitful.", "S": ["devious", "disingenuous", "nasty", "shifty", "sly", "tricky"], "A": ["frank", "honest", "open", "straight", "straightforward", "trustworthy"]}

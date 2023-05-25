@@ -1,1 +1,1 @@
-{"index": 120759, "D": "general intelligence.", "S": ["confinement ", "jail ", "lockup ", "penitentiary "], "A": []}
+{"index": 120759, "D": "general intelligence.", "S": ["confinement", "jail", "lockup", "penitentiary"], "A": []}

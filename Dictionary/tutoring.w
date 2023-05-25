@@ -1,1 +1,1 @@
-{"index": 333095, "D": "a person employed to instruct another in some branch or branches of learning, especially a private instructor.", "S": ["coaching ", "guidance ", "tutorial "], "A": []}
+{"index": 333095, "D": "a person employed to instruct another in some branch or branches of learning, especially a private instructor.", "S": ["coaching", "guidance", "tutorial"], "A": []}

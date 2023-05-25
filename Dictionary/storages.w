@@ -1,1 +1,1 @@
-{"index": 305378, "D": "the act of storing;  state or fact of being stored", "S": ["cache ", "depot ", "repository ", "stockpile ", "storehouse "], "A": []}
+{"index": 305378, "D": "the act of storing;  state or fact of being stored", "S": ["cache", "depot", "repository", "stockpile", "storehouse"], "A": []}

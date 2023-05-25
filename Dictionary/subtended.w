@@ -1,1 +1,1 @@
-{"index": 309434, "D": "to extend under or be opposite to", "S": ["span ", "traverse ", "unite "], "A": ["disconnect ", "disjoin ", "divide ", "leave ", "separate ", "unfasten "]}
+{"index": 309434, "D": "to extend under or be opposite to", "S": ["span", "traverse", "unite"], "A": ["disconnect", "disjoin", "divide", "leave", "separate", "unfasten"]}

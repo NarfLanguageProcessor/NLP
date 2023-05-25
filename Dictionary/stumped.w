@@ -1,1 +1,1 @@
-{"index": 306877, "D": "completely at a loss; perplexed or nonplussed", "S": ["baffled ", "befuddled ", "bewildered ", "confused ", "dumbfounded "], "A": ["clear ", "oriented ", "understanding "]}
+{"index": 306877, "D": "completely at a loss; perplexed or nonplussed", "S": ["baffled", "befuddled", "bewildered", "confused", "dumbfounded"], "A": ["clear", "oriented", "understanding"]}

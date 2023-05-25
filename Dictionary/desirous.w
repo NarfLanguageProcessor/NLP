@@ -1,1 +1,1 @@
-{"index": 82654, "D": "having or characterized by desire; desiring", "S": ["wishful "], "A": ["reluctant ", "unambitious ", "unenthusiastic ", "unhopeful "]}
+{"index": 82654, "D": "having or characterized by desire; desiring", "S": ["wishful"], "A": ["reluctant", "unambitious", "unenthusiastic", "unhopeful"]}

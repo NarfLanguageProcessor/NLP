@@ -1,1 +1,1 @@
-{"index": 39625, "D": "empty boasting; bragging. ", "S": ["blowhard ", "boaster ", "brag ", "bragger ", "show-off ", "windbag "], "A": []}
+{"index": 39625, "D": "empty boasting; bragging. ", "S": ["blowhard", "boaster", "brag", "bragger", "show-off", "windbag"], "A": []}

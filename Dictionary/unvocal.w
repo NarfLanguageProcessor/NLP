@@ -1,1 +1,1 @@
-{"index": 353908, "D": "not outspoken; reserved; not eloquent in speech; inarticulate.", "S": ["incoherent "], "A": ["articulate ", "communicative "]}
+{"index": 353908, "D": "not outspoken; reserved; not eloquent in speech; inarticulate.", "S": ["incoherent"], "A": ["articulate", "communicative"]}

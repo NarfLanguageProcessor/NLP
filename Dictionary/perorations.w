@@ -1,1 +1,1 @@
-{"index": 231727, "D": "a long speech characterized by lofty and often pompous language.", "S": ["afterword ", "coda ", "postscript ", "summation "], "A": ["beginning ", "commencement ", "introduction ", "opening ", "start "]}
+{"index": 231727, "D": "a long speech characterized by lofty and often pompous language.", "S": ["afterword", "coda", "postscript", "summation"], "A": ["beginning", "commencement", "introduction", "opening", "start"]}

@@ -1,1 +1,1 @@
-{"index": 160607, "D": "easy and sprightly in manner or bearing", "S": ["delight ", "encouragement ", "glee ", "joy ", "optimism "], "A": ["discouragement ", "sadness ", "sorrow ", "unhappiness ", "depression ", "distress ", "gloom ", "irritation "]}
+{"index": 160607, "D": "easy and sprightly in manner or bearing", "S": ["delight", "encouragement", "glee", "joy", "optimism"], "A": ["discouragement", "sadness", "sorrow", "unhappiness", "depression", "distress", "gloom", "irritation"]}

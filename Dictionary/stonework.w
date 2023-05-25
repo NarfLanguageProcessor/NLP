@@ -1,1 +1,1 @@
-{"index": 305255, "D": "any construction, as walls or the like, of stone; stone masonry.", "S": ["ashlar ", "brickwork ", "trade "], "A": []}
+{"index": 305255, "D": "any construction, as walls or the like, of stone; stone masonry.", "S": ["ashlar", "brickwork", "trade"], "A": []}

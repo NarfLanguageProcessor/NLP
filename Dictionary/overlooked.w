@@ -1,1 +1,1 @@
-{"index": 220126, "D": "not noticed, or not considered, used, etc.", "S": ["forgotten ", "neglected ", "unnoticed "], "A": []}
+{"index": 220126, "D": "not noticed, or not considered, used, etc.", "S": ["forgotten", "neglected", "unnoticed"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 75000, "D": "having or being in the shape of a wedge;  wedge-shaped.", "S": ["trilateral "], "A": []}
+{"index": 75000, "D": "having or being in the shape of a wedge;  wedge-shaped.", "S": ["trilateral"], "A": []}

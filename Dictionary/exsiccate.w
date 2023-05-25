@@ -1,1 +1,1 @@
-{"index": 108146, "D": "to dry or remove the moisture from, as a substance.", "S": ["dehydrate ", "desiccate ", "evaporate ", "parch "], "A": ["dampen ", "moisten ", "wet "]}
+{"index": 108146, "D": "to dry or remove the moisture from, as a substance.", "S": ["dehydrate", "desiccate", "evaporate", "parch"], "A": ["dampen", "moisten", "wet"]}

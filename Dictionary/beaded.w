@@ -1,1 +1,1 @@
-{"index": 29383, "D": "ornamented with or largely composed of beads", "S": ["bead ", "bleed ", "distill ", "drain ", "dribble ", "drip ", "emanate ", "hail ", "leak ", "ooze ", "percolate ", "precipitate ", "seep ", "snow ", "splash ", "trickle "], "A": ["deluge ", "downpour ", "flood ", "pour "]}
+{"index": 29383, "D": "ornamented with or largely composed of beads", "S": ["bead", "bleed", "distill", "drain", "dribble", "drip", "emanate", "hail", "leak", "ooze", "percolate", "precipitate", "seep", "snow", "splash", "trickle"], "A": ["deluge", "downpour", "flood", "pour"]}

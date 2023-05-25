@@ -1,1 +1,1 @@
-{"index": 4569, "D": "to move or bring forward", "S": ["combative ", "contentious ", "destructive ", "intrusive ", "threatening "], "A": ["calm ", "complaisant ", "easygoing ", "laid-back "]}
+{"index": 4569, "D": "to move or bring forward", "S": ["combative", "contentious", "destructive", "intrusive", "threatening"], "A": ["calm", "complaisant", "easygoing", "laid-back"]}

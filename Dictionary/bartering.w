@@ -1,1 +1,1 @@
-{"index": 28418, "D": "to trade by exchange of commodities rather than by the use of money.", "S": ["economic ", "financial ", "monetary ", "profit-making ", "profitable ", "wholesale "], "A": ["not-for-profit "]}
+{"index": 28418, "D": "to trade by exchange of commodities rather than by the use of money.", "S": ["economic", "financial", "monetary", "profit-making", "profitable", "wholesale"], "A": ["not-for-profit"]}

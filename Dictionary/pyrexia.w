@@ -1,1 +1,1 @@
-{"index": 237684, "D": "fever. ", "S": ["delirium ", "frenzy ", "turmoil "], "A": ["calmness ", "peace ", "apathy ", "calm ", "contentedness ", "coolness ", "dullness ", "lethargy "]}
+{"index": 237684, "D": "fever. ", "S": ["delirium", "frenzy", "turmoil"], "A": ["calmness", "peace", "apathy", "calm", "contentedness", "coolness", "dullness", "lethargy"]}

@@ -1,1 +1,1 @@
-{"index": 150092, "D": "beyond comparison; matchless or unequaled", "S": ["exceptional ", "inimitable ", "transcendent ", "unmatched ", "unparalleled "], "A": ["inferior ", "ordinary "]}
+{"index": 150092, "D": "beyond comparison; matchless or unequaled", "S": ["exceptional", "inimitable", "transcendent", "unmatched", "unparalleled"], "A": ["inferior", "ordinary"]}

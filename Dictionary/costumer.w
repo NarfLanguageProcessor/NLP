@@ -1,1 +1,1 @@
-{"index": 70242, "D": "a person who makes, sells, or rents costumes,  as for theatrical productions.", "S": ["clothier ", "couturier ", "seamstress ", "tailor "], "A": []}
+{"index": 70242, "D": "a person who makes, sells, or rents costumes,  as for theatrical productions.", "S": ["clothier", "couturier", "seamstress", "tailor"], "A": []}

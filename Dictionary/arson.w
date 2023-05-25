@@ -1,1 +1,1 @@
-{"index": 20433, "D": "the malicious burning of another's house or property, or in some statutes, the burning of one's own house or property, as to collect insurance.", "S": ["torching "], "A": []}
+{"index": 20433, "D": "the malicious burning of another's house or property, or in some statutes, the burning of one's own house or property, as to collect insurance.", "S": ["torching"], "A": []}

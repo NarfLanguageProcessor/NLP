@@ -1,1 +1,1 @@
-{"index": 112996, "D": "excessively particular or fastidious; difficult to please; fussy.", "S": ["choosy ", "fastidious ", "fussy ", "scrupulous ", "squeamish "], "A": ["uncritical ", "undemanding ", "unfussy "]}
+{"index": 112996, "D": "excessively particular or fastidious; difficult to please; fussy.", "S": ["choosy", "fastidious", "fussy", "scrupulous", "squeamish"], "A": ["uncritical", "undemanding", "unfussy"]}

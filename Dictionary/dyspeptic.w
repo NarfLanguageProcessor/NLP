@@ -1,1 +1,1 @@
-{"index": 88961, "D": "pertaining to, subject to, or suffering from dyspepsia. ", "S": ["mean "], "A": []}
+{"index": 88961, "D": "pertaining to, subject to, or suffering from dyspepsia. ", "S": ["mean"], "A": []}

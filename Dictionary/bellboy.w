@@ -1,1 +1,1 @@
-{"index": 31137, "D": "a bellhop.", "S": ["attendant ", "bellman ", "porter ", "steward "], "A": []}
+{"index": 31137, "D": "a bellhop.", "S": ["attendant", "bellman", "porter", "steward"], "A": []}

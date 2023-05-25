@@ -1,1 +1,1 @@
-{"index": 69060, "D": [], "S": ["X ", "bar ", "baz ", "foo ", "fred ", "garply ", "grault ", "plugh ", "quux ", "qux ", "thud ", "waldo ", "whatchamacallit ", "wombat ", "xyzzy "], "A": []}
+{"index": 69060, "D": [], "S": ["X", "bar", "baz", "foo", "fred", "garply", "grault", "plugh", "quux", "qux", "thud", "waldo", "whatchamacallit", "wombat", "xyzzy"], "A": []}

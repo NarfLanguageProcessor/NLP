@@ -1,1 +1,1 @@
-{"index": 360186, "D": "a long-lasting, bluish-green pigment, consisting of a hydrated oxide of chromium.", "S": ["blue-green ", "olive "], "A": []}
+{"index": 360186, "D": "a long-lasting, bluish-green pigment, consisting of a hydrated oxide of chromium.", "S": ["blue-green", "olive"], "A": []}

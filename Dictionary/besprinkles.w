@@ -1,1 +1,1 @@
-{"index": 32527, "D": "to sprinkle  (something) all over, as with water or a powder.", "S": ["immerse "], "A": ["dirty ", "ignore "]}
+{"index": 32527, "D": "to sprinkle  (something) all over, as with water or a powder.", "S": ["immerse"], "A": ["dirty", "ignore"]}

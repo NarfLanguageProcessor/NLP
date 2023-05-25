@@ -1,1 +1,1 @@
-{"index": 359176, "D": "the act or process of appraising or checking a person or thing for suitability, accuracy, or validity", "S": ["QA ", "cross-check ", "quality assurance ", "review ", "survey "], "A": []}
+{"index": 359176, "D": "the act or process of appraising or checking a person or thing for suitability, accuracy, or validity", "S": ["QA", "cross-check", "quality assurance", "review", "survey"], "A": []}

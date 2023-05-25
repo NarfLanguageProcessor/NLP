@@ -1,1 +1,1 @@
-{"index": 354858, "D": "(of an alphabetic character) capital", "S": ["cap ", "capital ", "majuscule "], "A": ["minuscule ", "small letter "]}
+{"index": 354858, "D": "(of an alphabetic character) capital", "S": ["cap", "capital", "majuscule"], "A": ["minuscule", "small letter"]}

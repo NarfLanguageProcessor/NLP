@@ -1,1 +1,1 @@
-{"index": 87032, "D": "to cease to be seen; vanish from sight.", "S": ["brief ", "fading ", "fleeting ", "momentary ", "passing ", "short-lived ", "temporary ", "tenuous ", "vanishing "], "A": []}
+{"index": 87032, "D": "to cease to be seen; vanish from sight.", "S": ["brief", "fading", "fleeting", "momentary", "passing", "short-lived", "temporary", "tenuous", "vanishing"], "A": []}

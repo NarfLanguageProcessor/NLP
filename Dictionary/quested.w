@@ -1,1 +1,1 @@
-{"index": 258408, "D": "a search or pursuit made in order to find or obtain something", "S": ["groan ", "growl ", "hoot ", "moan ", "outcry ", "roar ", "shriek ", "wail ", "whimper ", "yelp "], "A": []}
+{"index": 258408, "D": "a search or pursuit made in order to find or obtain something", "S": ["groan", "growl", "hoot", "moan", "outcry", "roar", "shriek", "wail", "whimper", "yelp"], "A": []}

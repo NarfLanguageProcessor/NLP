@@ -1,1 +1,1 @@
-{"index": 297105, "D": "sleepwalking. ", "S": ["noctambulation ", "noctambulism ", "somnambulation "], "A": []}
+{"index": 297105, "D": "sleepwalking. ", "S": ["noctambulation", "noctambulism", "somnambulation"], "A": []}

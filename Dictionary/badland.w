@@ -1,1 +1,1 @@
-{"index": 26215, "D": "a barren area in which soft rock strata are eroded into varied, fantastic forms.", "S": ["wilderness "], "A": ["wetland "]}
+{"index": 26215, "D": "a barren area in which soft rock strata are eroded into varied, fantastic forms.", "S": ["wilderness"], "A": ["wetland"]}

@@ -1,1 +1,1 @@
-{"index": 295930, "D": "warmly comfortable or cozy, as a place, accommodations, etc.", "S": ["comfortable ", "comfy ", "cushy ", "neat ", "tight "], "A": ["cool ", "loose ", "unfriendly "]}
+{"index": 295930, "D": "warmly comfortable or cozy, as a place, accommodations, etc.", "S": ["comfortable", "comfy", "cushy", "neat", "tight"], "A": ["cool", "loose", "unfriendly"]}

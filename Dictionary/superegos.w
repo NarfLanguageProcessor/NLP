@@ -1,1 +1,1 @@
-{"index": 311701, "D": "the part of the personality representing the conscience, formed in early life by internalization of the standards of parents and other models of behavior.", "S": ["shame "], "A": ["immorality "]}
+{"index": 311701, "D": "the part of the personality representing the conscience, formed in early life by internalization of the standards of parents and other models of behavior.", "S": ["shame"], "A": ["immorality"]}

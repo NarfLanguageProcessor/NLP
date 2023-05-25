@@ -1,1 +1,1 @@
-{"index": 99128, "D": "to place in or as if in a capsule. ", "S": ["box ", "cover ", "enclose ", "envelop ", "sheathe ", "wrap "], "A": ["free ", "let go ", "release ", "uncover ", "unwrap "]}
+{"index": 99128, "D": "to place in or as if in a capsule. ", "S": ["box", "cover", "enclose", "envelop", "sheathe", "wrap"], "A": ["free", "let go", "release", "uncover", "unwrap"]}

@@ -1,1 +1,1 @@
-{"index": 9852, "D": "to gather for oneself; collect as one's own", "S": ["assemble ", "collect ", "compile ", "garner ", "hoard ", "stockpile "], "A": ["disperse ", "divide ", "scatter ", "separate "]}
+{"index": 9852, "D": "to gather for oneself; collect as one's own", "S": ["assemble", "collect", "compile", "garner", "hoard", "stockpile"], "A": ["disperse", "divide", "scatter", "separate"]}

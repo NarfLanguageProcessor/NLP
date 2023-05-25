@@ -1,1 +1,1 @@
-{"index": 229061, "D": "one's friends, family, followers, etc.", "S": ["blink ", "gander ", "glance ", "glimpse ", "look-see ", "sight "], "A": []}
+{"index": 229061, "D": "one's friends, family, followers, etc.", "S": ["blink", "gander", "glance", "glimpse", "look-see", "sight"], "A": []}

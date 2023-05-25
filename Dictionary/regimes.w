@@ -1,1 +1,1 @@
-{"index": 265644, "D": "a mode or system of rule or government", "S": ["administration ", "establishment ", "government ", "management ", "reign ", "rule ", "system "], "A": []}
+{"index": 265644, "D": "a mode or system of rule or government", "S": ["administration", "establishment", "government", "management", "reign", "rule", "system"], "A": []}

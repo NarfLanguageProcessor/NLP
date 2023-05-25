@@ -1,1 +1,1 @@
-{"index": 1958, "D": "sourness, with roughness or astringency of taste.", "S": ["acidity ", "asperity ", "astringency ", "sourness ", "tartness "], "A": ["kindness ", "mellowness ", "mildness ", "sweetness "]}
+{"index": 1958, "D": "sourness, with roughness or astringency of taste.", "S": ["acidity", "asperity", "astringency", "sourness", "tartness"], "A": ["kindness", "mellowness", "mildness", "sweetness"]}

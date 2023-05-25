@@ -1,1 +1,0 @@
-{"index": 356828, "D": "the act of estimating or setting the value  of something; appraisal.", "S": [], "A": []}

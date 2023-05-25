@@ -1,1 +1,1 @@
-{"index": 177440, "D": "Compare officinal (def. 1). ", "S": ["arbitrary ", "recommended "], "A": ["unprescribed "]}
+{"index": 177440, "D": "Compare officinal (def. 1). ", "S": ["arbitrary", "recommended"], "A": ["unprescribed"]}

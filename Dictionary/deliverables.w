@@ -1,1 +1,1 @@
-{"index": 80186, "D": "capable of delivery.", "S": ["output ", "product ", "result "], "A": []}
+{"index": 80186, "D": "capable of delivery.", "S": ["output", "product", "result"], "A": []}

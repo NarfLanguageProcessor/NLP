@@ -1,1 +1,1 @@
-{"index": 206431, "D": "not related to racial factors or discrimination", "S": ["multicultural "], "A": []}
+{"index": 206431, "D": "not related to racial factors or discrimination", "S": ["multicultural"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 130076, "D": "abrasive particles or granules, as of sand or other small, coarse impurities found in the air, food, water, etc.", "S": ["clamp ", "crush ", "grate ", "grit ", "rub "], "A": []}
+{"index": 130076, "D": "abrasive particles or granules, as of sand or other small, coarse impurities found in the air, food, water, etc.", "S": ["clamp", "crush", "grate", "grit", "rub"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 36935, "D": "a piece of wood sawed thin, and of considerable length and breadth compared with the thickness.", "S": ["consigned ", "embarked ", "en route ", "in transit ", "loaded ", "on ", "on board ", "traveling "], "A": ["not on ", "off "]}
+{"index": 36935, "D": "a piece of wood sawed thin, and of considerable length and breadth compared with the thickness.", "S": ["consigned", "embarked", "en route", "in transit", "loaded", "on", "on board", "traveling"], "A": ["not on", "off"]}

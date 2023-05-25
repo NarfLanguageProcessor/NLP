@@ -1,1 +1,1 @@
-{"index": 113808, "D": "a natural talent, aptitude, or ability; bent; knack", "S": ["ability ", "aptitude ", "elegance ", "genius ", "gift ", "glamour ", "knack ", "mastery ", "taste "], "A": ["disinclination ", "inability ", "lack ", "stupidity ", "ugliness ", "dullness ", "failure "]}
+{"index": 113808, "D": "a natural talent, aptitude, or ability; bent; knack", "S": ["ability", "aptitude", "elegance", "genius", "gift", "glamour", "knack", "mastery", "taste"], "A": ["disinclination", "inability", "lack", "stupidity", "ugliness", "dullness", "failure"]}

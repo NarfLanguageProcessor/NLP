@@ -1,1 +1,1 @@
-{"index": 9041, "D": "mentioned or referred to, especially casually or indirectly; aforesaid", "S": ["advert ", "imply ", "insinuate ", "intimate ", "point ", "refer ", "suggest "], "A": []}
+{"index": 9041, "D": "mentioned or referred to, especially casually or indirectly; aforesaid", "S": ["advert", "imply", "insinuate", "intimate", "point", "refer", "suggest"], "A": []}

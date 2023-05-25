@@ -1,1 +1,1 @@
-{"index": 21698, "D": "stated positively; affirmative", "S": ["bold ", "cocky ", "dynamic ", "energetic ", "forceful ", "smart ", "tough ", "vigorous ", "zealous "], "A": ["apathetic ", "dull ", "idle ", "impotent ", "inactive ", "lethargic ", "meek ", "shy ", "slow ", "timid ", "weak "]}
+{"index": 21698, "D": "stated positively; affirmative", "S": ["bold", "cocky", "dynamic", "energetic", "forceful", "smart", "tough", "vigorous", "zealous"], "A": ["apathetic", "dull", "idle", "impotent", "inactive", "lethargic", "meek", "shy", "slow", "timid", "weak"]}

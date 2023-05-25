@@ -1,1 +1,1 @@
-{"index": 119963, "D": "the quality or state of being filled completely or to utmost capacity", "S": ["completeness ", "saturation ", "totality ", "wholeness "], "A": ["lack ", "need ", "scarcity ", "want "]}
+{"index": 119963, "D": "the quality or state of being filled completely or to utmost capacity", "S": ["completeness", "saturation", "totality", "wholeness"], "A": ["lack", "need", "scarcity", "want"]}

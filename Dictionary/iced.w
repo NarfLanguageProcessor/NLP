@@ -1,1 +1,1 @@
-{"index": 145981, "D": "covered with ice. ", "S": ["bitter ", "bleak ", "brisk ", "chilled ", "cool ", "crisp ", "frigid ", "frosty ", "frozen ", "icy ", "intense ", "raw ", "snowy ", "wintry "], "A": ["hot ", "mild ", "nice ", "pleasant ", "temperate ", "warm "]}
+{"index": 145981, "D": "covered with ice. ", "S": ["bitter", "bleak", "brisk", "chilled", "cool", "crisp", "frigid", "frosty", "frozen", "icy", "intense", "raw", "snowy", "wintry"], "A": ["hot", "mild", "nice", "pleasant", "temperate", "warm"]}

@@ -1,1 +1,1 @@
-{"index": 144136, "D": "(an exclamation, originally an appeal to God for deliverance, used in praise of God or Christ.)", "S": ["chant ", "ditty ", "oratorio ", "paean ", "psalm "], "A": []}
+{"index": 144136, "D": "(an exclamation, originally an appeal to God for deliverance, used in praise of God or Christ.)", "S": ["chant", "ditty", "oratorio", "paean", "psalm"], "A": []}

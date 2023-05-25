@@ -1,1 +1,1 @@
-{"index": 341450, "D": "in a way that is clear and unambiguous", "S": ["clearly ", "determinedly ", "distinctly ", "downright ", "positively ", "really ", "terribly ", "unmistakably "], "A": ["doubtfully "]}
+{"index": 341450, "D": "in a way that is clear and unambiguous", "S": ["clearly", "determinedly", "distinctly", "downright", "positively", "really", "terribly", "unmistakably"], "A": ["doubtfully"]}

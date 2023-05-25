@@ -1,1 +1,1 @@
-{"index": 193781, "D": "a picture or decoration made of small, usually colored pieces of inlaid stone, glass, etc.", "S": ["patchwork "], "A": []}
+{"index": 193781, "D": "a picture or decoration made of small, usually colored pieces of inlaid stone, glass, etc.", "S": ["patchwork"], "A": []}

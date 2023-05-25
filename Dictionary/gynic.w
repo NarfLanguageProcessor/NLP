@@ -1,1 +1,1 @@
-{"index": 125293, "D": [], "S": ["effeminate ", "effete ", "fertile ", "gender ", "womanhood ", "womanish ", "womanliness "], "A": ["masculinity "]}
+{"index": 125293, "D": [], "S": ["effeminate", "effete", "fertile", "gender", "womanhood", "womanish", "womanliness"], "A": ["masculinity"]}

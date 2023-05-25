@@ -1,1 +1,1 @@
-{"index": 304197, "D": "a woman flight attendant.", "S": ["hostess "], "A": []}
+{"index": 304197, "D": "a woman flight attendant.", "S": ["hostess"], "A": []}

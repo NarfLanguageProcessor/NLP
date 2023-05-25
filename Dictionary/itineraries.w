@@ -1,1 +1,1 @@
-{"index": 159563, "D": "a detailed plan for a journey, especially a list of places to visit; plan of travel.", "S": ["guidebook ", "journey ", "path ", "route ", "tour "], "A": []}
+{"index": 159563, "D": "a detailed plan for a journey, especially a list of places to visit; plan of travel.", "S": ["guidebook", "journey", "path", "route", "tour"], "A": []}

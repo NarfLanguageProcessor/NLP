@@ -1,1 +1,1 @@
-{"index": 88532, "D": "any thin, flat, circular plate or object.", "S": ["disc ", "plate ", "platter "], "A": []}
+{"index": 88532, "D": "any thin, flat, circular plate or object.", "S": ["disc", "plate", "platter"], "A": []}

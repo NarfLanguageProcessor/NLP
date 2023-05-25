@@ -1,1 +1,1 @@
-{"index": 222745, "D": "a horse  used for carrying goods, freight, supplies, etc.", "S": ["draft animal ", "jument ", "pack animal ", "pack mule ", "sumpter "], "A": []}
+{"index": 222745, "D": "a horse  used for carrying goods, freight, supplies, etc.", "S": ["draft animal", "jument", "pack animal", "pack mule", "sumpter"], "A": []}

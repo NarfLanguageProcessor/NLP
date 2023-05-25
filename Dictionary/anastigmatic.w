@@ -1,0 +1,1 @@
+{"index": 12022, "D": "(of a lens) not having astigmatism; forming point images of a point object located off the axis of the lens; stigmatic.", "S": [], "A": []}

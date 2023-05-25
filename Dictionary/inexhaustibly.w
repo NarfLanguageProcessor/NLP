@@ -1,1 +1,1 @@
-{"index": 151674, "D": "not exhaustible; incapable of being depleted", "S": ["amply ", "generously ", "handsomely ", "lavishly ", "richly "], "A": ["meagerly ", "meanly ", "poorly "]}
+{"index": 151674, "D": "not exhaustible; incapable of being depleted", "S": ["amply", "generously", "handsomely", "lavishly", "richly"], "A": ["meagerly", "meanly", "poorly"]}

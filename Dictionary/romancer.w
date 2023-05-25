@@ -1,1 +1,1 @@
-{"index": 274022, "D": "a novel, movie, or genre of popular fiction in which characters fall in love or begin a romantic relationship (often used attributively)", "S": ["dreamer ", "optimist ", "visionary "], "A": ["pragmatist ", "realist "]}
+{"index": 274022, "D": "a novel, movie, or genre of popular fiction in which characters fall in love or begin a romantic relationship (often used attributively)", "S": ["dreamer", "optimist", "visionary"], "A": ["pragmatist", "realist"]}

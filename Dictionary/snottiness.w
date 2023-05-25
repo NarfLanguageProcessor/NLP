@@ -1,1 +1,1 @@
-{"index": 295760, "D": "of or relating to snot. ", "S": ["arrogance "], "A": ["humility ", "modesty "]}
+{"index": 295760, "D": "of or relating to snot. ", "S": ["arrogance"], "A": ["humility", "modesty"]}

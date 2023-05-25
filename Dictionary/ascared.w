@@ -1,1 +1,1 @@
-{"index": 20894, "D": "afraid; scared. ", "S": ["alarmed ", "apprehensive ", "fearful ", "fearsome ", "frightened ", "panic-stricken ", "panicky ", "petrified ", "scared ", "scared stiff ", "scared to death ", "spooked ", "terrified "], "A": []}
+{"index": 20894, "D": "afraid; scared. ", "S": ["alarmed", "apprehensive", "fearful", "fearsome", "frightened", "panic-stricken", "panicky", "petrified", "scared", "scared stiff", "scared to death", "spooked", "terrified"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 51379, "D": "the anterior and largest part of the brain, consisting of two halves or hemispheres and serving to control voluntary movements and coordinate mental actions.", "S": ["head ", "intellect ", "mind "], "A": ["body "]}
+{"index": 51379, "D": "the anterior and largest part of the brain, consisting of two halves or hemispheres and serving to control voluntary movements and coordinate mental actions.", "S": ["head", "intellect", "mind"], "A": ["body"]}

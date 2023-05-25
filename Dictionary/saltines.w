@@ -1,1 +1,1 @@
-{"index": 277315, "D": "a crisp, salted  cracker.", "S": ["biscuit ", "cookie ", "pretzel "], "A": []}
+{"index": 277315, "D": "a crisp, salted  cracker.", "S": ["biscuit", "cookie", "pretzel"], "A": []}

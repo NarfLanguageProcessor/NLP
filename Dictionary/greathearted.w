@@ -1,1 +1,1 @@
-{"index": 129454, "D": "having or showing a generous heart; magnanimous.", "S": ["altruistic ", "charitable ", "considerate ", "forgiving ", "selfless ", "unselfish ", "unstinting "], "A": ["mean ", "selfish ", "uncharitable "]}
+{"index": 129454, "D": "having or showing a generous heart; magnanimous.", "S": ["altruistic", "charitable", "considerate", "forgiving", "selfless", "unselfish", "unstinting"], "A": ["mean", "selfish", "uncharitable"]}

@@ -1,1 +1,1 @@
-{"index": 350630, "D": "of or relating to sectaries  or sects. ", "S": ["comprehensive ", "cosmopolitan ", "eclectic ", "generic ", "universal ", "whole "], "A": ["exclusive ", "narrow ", "partial ", "particular ", "specific "]}
+{"index": 350630, "D": "of or relating to sectaries  or sects. ", "S": ["comprehensive", "cosmopolitan", "eclectic", "generic", "universal", "whole"], "A": ["exclusive", "narrow", "partial", "particular", "specific"]}

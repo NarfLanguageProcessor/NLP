@@ -1,1 +1,1 @@
-{"index": 76383, "D": "in or during the day  regularly", "S": ["age ", "cycle ", "day ", "generation ", "stage ", "term ", "time "], "A": []}
+{"index": 76383, "D": "in or during the day  regularly", "S": ["age", "cycle", "day", "generation", "stage", "term", "time"], "A": []}

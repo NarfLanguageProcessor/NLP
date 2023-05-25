@@ -1,1 +1,1 @@
-{"index": 96047, "D": "efflorescing; blossoming.", "S": ["appearing ", "budding ", "coming ", "developing ", "emanant ", "emanating ", "issuing forth ", "outgoing ", "rising "], "A": ["declining ", "dependent "]}
+{"index": 96047, "D": "efflorescing; blossoming.", "S": ["appearing", "budding", "coming", "developing", "emanant", "emanating", "issuing forth", "outgoing", "rising"], "A": ["declining", "dependent"]}

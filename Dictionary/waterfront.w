@@ -1,1 +1,1 @@
-{"index": 363157, "D": "land on the edge of a body of water. ", "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakefront ", "lakeshore ", "lakeside ", "ledge ", "levee ", "oceanfront ", "reef ", "riverside ", "seaboard ", "seafront ", "shore ", "strand "], "A": []}
+{"index": 363157, "D": "land on the edge of a body of water. ", "S": ["beach", "cay", "cliff", "coast", "edge", "embankment", "lakefront", "lakeshore", "lakeside", "ledge", "levee", "oceanfront", "reef", "riverside", "seaboard", "seafront", "shore", "strand"], "A": []}

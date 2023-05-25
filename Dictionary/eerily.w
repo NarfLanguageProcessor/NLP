@@ -1,1 +1,1 @@
-{"index": 95925, "D": "in a spooky or uncanny way that makes one uneasy; weirdly", "S": ["bizarrely ", "weirdly "], "A": ["naturally ", "nicely ", "normally ", "ordinarily ", "pleasantly ", "agreeably ", "becomingly ", "delightfully ", "invitingly ", "mildly "]}
+{"index": 95925, "D": "in a spooky or uncanny way that makes one uneasy; weirdly", "S": ["bizarrely", "weirdly"], "A": ["naturally", "nicely", "normally", "ordinarily", "pleasantly", "agreeably", "becomingly", "delightfully", "invitingly", "mildly"]}

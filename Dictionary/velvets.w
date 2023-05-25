@@ -1,1 +1,1 @@
-{"index": 357913, "D": "a fabric of silk, nylon, acetate, rayon, etc., sometimes having a cotton backing, with a thick, soft pile formed of loops of the warp thread either cut at the outer end or left uncut.", "S": ["velvety "], "A": []}
+{"index": 357913, "D": "a fabric of silk, nylon, acetate, rayon, etc., sometimes having a cotton backing, with a thick, soft pile formed of loops of the warp thread either cut at the outer end or left uncut.", "S": ["velvety"], "A": []}

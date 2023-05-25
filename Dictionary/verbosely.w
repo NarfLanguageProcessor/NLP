@@ -1,1 +1,1 @@
-{"index": 358423, "D": "characterized by the use of many or too many words; wordy", "S": ["extravagantly ", "grandiloquently ", "lengthily ", "longwindedly ", "oratorically ", "talkatively "], "A": []}
+{"index": 358423, "D": "characterized by the use of many or too many words; wordy", "S": ["extravagantly", "grandiloquently", "lengthily", "longwindedly", "oratorically", "talkatively"], "A": []}

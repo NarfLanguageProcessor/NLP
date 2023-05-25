@@ -1,1 +1,1 @@
-{"index": 331512, "D": "a nonfading blue dye or pigment.", "S": ["ardent ", "devoted ", "dutiful ", "patriotic ", "staunch ", "steadfast ", "true ", "trustworthy "], "A": ["disloyal ", "faithless ", "undependable ", "unfaithful ", "unreliable ", "untrustworthy "]}
+{"index": 331512, "D": "a nonfading blue dye or pigment.", "S": ["ardent", "devoted", "dutiful", "patriotic", "staunch", "steadfast", "true", "trustworthy"], "A": ["disloyal", "faithless", "undependable", "unfaithful", "unreliable", "untrustworthy"]}

@@ -1,1 +1,1 @@
-{"index": 25832, "D": "a sudden, forceful backward movement; recoil.", "S": ["reaction ", "repercussion ", "resentment ", "resistance ", "response ", "retaliation "], "A": ["cause ", "question "]}
+{"index": 25832, "D": "a sudden, forceful backward movement; recoil.", "S": ["reaction", "repercussion", "resentment", "resistance", "response", "retaliation"], "A": ["cause", "question"]}

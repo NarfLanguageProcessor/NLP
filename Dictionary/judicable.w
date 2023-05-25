@@ -1,1 +1,1 @@
-{"index": 162078, "D": "capable of being or liable to be judged or tried.", "S": ["ascertainable ", "assayable ", "deductive ", "discoverable ", "measurable ", "provable "], "A": []}
+{"index": 162078, "D": "capable of being or liable to be judged or tried.", "S": ["ascertainable", "assayable", "deductive", "discoverable", "measurable", "provable"], "A": []}

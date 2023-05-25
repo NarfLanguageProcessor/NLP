@@ -1,1 +1,1 @@
-{"index": 351006, "D": "not shipped, as goods.", "S": ["empty ", "remove ", "send "], "A": ["assign ", "dam ", "delegate ", "detain ", "employ ", "engage ", "hire ", "hold ", "imprison ", "keep ", "load ", "owe "]}
+{"index": 351006, "D": "not shipped, as goods.", "S": ["empty", "remove", "send"], "A": ["assign", "dam", "delegate", "detain", "employ", "engage", "hire", "hold", "imprison", "keep", "load", "owe"]}

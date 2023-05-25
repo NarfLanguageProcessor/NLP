@@ -1,1 +1,1 @@
-{"index": 192416, "D": "(no longer in technical use) a psychosis characterized by thoughts confined to one idea or group of ideas.", "S": ["dogmatist ", "extremist ", "fanatic ", "true believer ", "zealot "], "A": ["moderate ", "freethinker "]}
+{"index": 192416, "D": "(no longer in technical use) a psychosis characterized by thoughts confined to one idea or group of ideas.", "S": ["dogmatist", "extremist", "fanatic", "true believer", "zealot"], "A": ["moderate", "freethinker"]}

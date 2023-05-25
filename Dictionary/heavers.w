@@ -1,1 +1,1 @@
-{"index": 135013, "D": "to raise or lift with effort or force; hoist", "S": ["slingshot "], "A": []}
+{"index": 135013, "D": "to raise or lift with effort or force; hoist", "S": ["slingshot"], "A": []}

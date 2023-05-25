@@ -1,1 +1,1 @@
-{"index": 75461, "D": "the expression of a wish that misfortune, evil, doom, etc., befall a person, group, etc.", "S": ["disrespectful ", "insulting ", "profane ", "sacrilegious "], "A": ["godly ", "pious ", "religious ", "respectful ", "reverent "]}
+{"index": 75461, "D": "the expression of a wish that misfortune, evil, doom, etc., befall a person, group, etc.", "S": ["disrespectful", "insulting", "profane", "sacrilegious"], "A": ["godly", "pious", "religious", "respectful", "reverent"]}

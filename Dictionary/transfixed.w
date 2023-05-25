@@ -1,1 +1,1 @@
-{"index": 327873, "D": "to make or hold motionless with amazement, awe, terror, etc.", "S": ["absorbed ", "aroused ", "delighted ", "enamored ", "enchanted ", "enthralled ", "excited ", "intoxicated ", "mesmerized ", "thrilled "], "A": ["bored ", "indifferent ", "unhappy ", "disenchanted "]}
+{"index": 327873, "D": "to make or hold motionless with amazement, awe, terror, etc.", "S": ["absorbed", "aroused", "delighted", "enamored", "enchanted", "enthralled", "excited", "intoxicated", "mesmerized", "thrilled"], "A": ["bored", "indifferent", "unhappy", "disenchanted"]}

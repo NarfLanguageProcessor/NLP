@@ -1,1 +1,1 @@
-{"index": 53771, "D": "the treatment of disease by means of chemicals that have a specific toxic effect upon the disease-producing microorganisms or that selectively destroy cancerous tissue.", "S": ["bomber "], "A": ["author ", "creator ", "restorer "]}
+{"index": 53771, "D": "the treatment of disease by means of chemicals that have a specific toxic effect upon the disease-producing microorganisms or that selectively destroy cancerous tissue.", "S": ["bomber"], "A": ["author", "creator", "restorer"]}

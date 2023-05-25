@@ -1,1 +1,1 @@
-{"index": 365278, "D": "a narrative dealing with a murder or a series of murders and the detection of the criminal; detective story.", "S": ["conundrum ", "enigma ", "problem ", "question ", "riddle ", "secrecy ", "subtlety ", "thriller "], "A": ["known ", "understanding "]}
+{"index": 365278, "D": "a narrative dealing with a murder or a series of murders and the detection of the criminal; detective story.", "S": ["conundrum", "enigma", "problem", "question", "riddle", "secrecy", "subtlety", "thriller"], "A": ["known", "understanding"]}

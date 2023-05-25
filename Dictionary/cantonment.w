@@ -1,1 +1,1 @@
-{"index": 46675, "D": "a camp, usually of large size, where men are trained for military service.", "S": ["billet ", "bivouac ", "camp ", "dormitory ", "encampment ", "enclosure ", "garrison ", "headquarters ", "hut ", "prefab ", "quarters ", "tent "], "A": []}
+{"index": 46675, "D": "a camp, usually of large size, where men are trained for military service.", "S": ["billet", "bivouac", "camp", "dormitory", "encampment", "enclosure", "garrison", "headquarters", "hut", "prefab", "quarters", "tent"], "A": []}

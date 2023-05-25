@@ -1,1 +1,1 @@
-{"index": 246516, "D": "to plan with ingenuity; devise; invent", "S": ["set up "], "A": ["ignore ", "neglect "]}
+{"index": 246516, "D": "to plan with ingenuity; devise; invent", "S": ["set up"], "A": ["ignore", "neglect"]}

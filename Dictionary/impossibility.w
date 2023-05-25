@@ -1,1 +1,1 @@
-{"index": 148929, "D": "condition or quality of being impossible. ", "S": ["futility "], "A": ["feasibility ", "possibility ", "practicality ", "probability "]}
+{"index": 148929, "D": "condition or quality of being impossible. ", "S": ["futility"], "A": ["feasibility", "possibility", "practicality", "probability"]}

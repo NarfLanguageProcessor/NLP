@@ -1,1 +1,1 @@
-{"index": 175060, "D": "to turn one's eyes toward something or in some direction in order to see", "S": ["attention ", "eye ", "glance ", "glimpse ", "peek ", "review ", "stare ", "view "], "A": ["disregard ", "ignorance ", "indifference ", "neglect "]}
+{"index": 175060, "D": "to turn one's eyes toward something or in some direction in order to see", "S": ["attention", "eye", "glance", "glimpse", "peek", "review", "stare", "view"], "A": ["disregard", "ignorance", "indifference", "neglect"]}

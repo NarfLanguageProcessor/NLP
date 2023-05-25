@@ -1,1 +1,1 @@
-{"index": 3297, "D": "to make actual  or real; turn into action or fact.", "S": ["accomplish ", "engineer ", "produce ", "realize "], "A": ["fail "]}
+{"index": 3297, "D": "to make actual  or real; turn into action or fact.", "S": ["accomplish", "engineer", "produce", "realize"], "A": ["fail"]}

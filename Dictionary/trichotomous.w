@@ -1,1 +1,1 @@
-{"index": 329501, "D": "division into three parts, classes, categories, etc.", "S": ["ternary ", "third ", "treble ", "trilateral ", "trinitarian ", "triple "], "A": []}
+{"index": 329501, "D": "division into three parts, classes, categories, etc.", "S": ["ternary", "third", "treble", "trilateral", "trinitarian", "triple"], "A": []}

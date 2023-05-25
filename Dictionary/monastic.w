@@ -1,1 +1,1 @@
-{"index": 191783, "D": "of or relating to monasteries", "S": ["ascetic ", "austere ", "contemplative ", "secluded ", "solitary "], "A": ["sociable "]}
+{"index": 191783, "D": "of or relating to monasteries", "S": ["ascetic", "austere", "contemplative", "secluded", "solitary"], "A": ["sociable"]}

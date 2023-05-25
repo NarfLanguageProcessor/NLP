@@ -1,1 +1,1 @@
-{"index": 143682, "D": "providing no hope; beyond optimism or hope; desperate", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}
+{"index": 143682, "D": "providing no hope; beyond optimism or hope; desperate", "S": ["desperately", "sadly"], "A": ["confidently", "expectantly", "hopefully"]}

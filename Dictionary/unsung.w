@@ -1,1 +1,1 @@
-{"index": 352404, "D": "not sung;  not uttered or rendered by singing.", "S": ["anonymous ", "neglected ", "overlooked ", "unacknowledged ", "unrecognized "], "A": []}
+{"index": 352404, "D": "not sung;  not uttered or rendered by singing.", "S": ["anonymous", "neglected", "overlooked", "unacknowledged", "unrecognized"], "A": []}

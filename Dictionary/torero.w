@@ -1,1 +1,1 @@
-{"index": 326084, "D": "a bullfighter, especially a matador.", "S": ["banderillero ", "picador ", "toreador "], "A": []}
+{"index": 326084, "D": "a bullfighter, especially a matador.", "S": ["banderillero", "picador", "toreador"], "A": []}

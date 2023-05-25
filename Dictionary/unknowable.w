@@ -1,1 +1,1 @@
-{"index": 345357, "D": "not knowable;  incapable of being known or understood.", "S": ["esoteric ", "impenetrable "], "A": ["common ", "commonplace ", "known ", "normal ", "outward "]}
+{"index": 345357, "D": "not knowable;  incapable of being known or understood.", "S": ["esoteric", "impenetrable"], "A": ["common", "commonplace", "known", "normal", "outward"]}

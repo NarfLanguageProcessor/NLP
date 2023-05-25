@@ -1,0 +1,1 @@
+{"index": 24031, "D": "the development of the entire life cycle of a parasitic fungus on a single host or group of hosts.", "S": [], "A": []}

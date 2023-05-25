@@ -1,1 +1,1 @@
-{"index": 21927, "D": "to make milder or less severe; alleviate; ease; mitigate", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}
+{"index": 21927, "D": "to make milder or less severe; alleviate; ease; mitigate", "S": ["encouraging", "reassuring", "refreshing", "soothing"], "A": ["aggravating", "depressing", "dispiriting", "distressing", "disturbing", "irritating", "upsetting", "worrying"]}

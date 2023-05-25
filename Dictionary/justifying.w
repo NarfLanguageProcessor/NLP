@@ -1,1 +1,1 @@
-{"index": 162550, "D": "to show (an act, claim, statement, etc.) to be just or right", "S": ["analytical ", "informative ", "interpretive ", "supplementary "], "A": ["confusing ", "mysterious ", "obscure ", "perplexing ", "puzzling ", "vague "]}
+{"index": 162550, "D": "to show (an act, claim, statement, etc.) to be just or right", "S": ["analytical", "informative", "interpretive", "supplementary"], "A": ["confusing", "mysterious", "obscure", "perplexing", "puzzling", "vague"]}

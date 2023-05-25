@@ -1,1 +1,1 @@
-{"index": 278908, "D": "impertinent; insolent", "S": ["brash ", "cheeky ", "flippant ", "rude "], "A": ["respectful "]}
+{"index": 278908, "D": "impertinent; insolent", "S": ["brash", "cheeky", "flippant", "rude"], "A": ["respectful"]}

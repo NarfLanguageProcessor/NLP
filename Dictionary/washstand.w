@@ -1,1 +1,1 @@
-{"index": 362934, "D": "a piece of furniture holding a basin, pitcher, etc., for use in washing  one's hands and face.", "S": ["dresser "], "A": []}
+{"index": 362934, "D": "a piece of furniture holding a basin, pitcher, etc., for use in washing  one's hands and face.", "S": ["dresser"], "A": []}

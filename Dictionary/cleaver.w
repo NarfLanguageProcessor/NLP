@@ -1,1 +1,1 @@
-{"index": 59693, "D": "a heavy, broad-bladed knife or long-bladed hatchet, especially one used by butchers for cutting meat into joints or pieces.", "S": ["axe ", "foe ", "hatchet ", "knife ", "river "], "A": []}
+{"index": 59693, "D": "a heavy, broad-bladed knife or long-bladed hatchet, especially one used by butchers for cutting meat into joints or pieces.", "S": ["axe", "foe", "hatchet", "knife", "river"], "A": []}

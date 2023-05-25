@@ -1,1 +1,1 @@
-{"index": 11347, "D": "a sealed glass or plastic bulb containing solutions for hypodermic injection.", "S": ["bottle ", "flask "], "A": []}
+{"index": 11347, "D": "a sealed glass or plastic bulb containing solutions for hypodermic injection.", "S": ["bottle", "flask"], "A": []}

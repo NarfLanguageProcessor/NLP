@@ -1,1 +1,1 @@
-{"index": 81567, "D": "to rely; place trust (usually followed by on or upon)", "S": ["bank on ", "bet bottom dollar on ", "bet on ", "build upon ", "calculate on ", "confide in ", "gamble on ", "lay money on ", "lean on ", "reckon on ", "trust in ", "turn to "], "A": []}
+{"index": 81567, "D": "to rely; place trust (usually followed by on or upon)", "S": ["bank on", "bet bottom dollar on", "bet on", "build upon", "calculate on", "confide in", "gamble on", "lay money on", "lean on", "reckon on", "trust in", "turn to"], "A": []}

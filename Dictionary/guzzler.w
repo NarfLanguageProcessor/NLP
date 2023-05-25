@@ -1,1 +1,1 @@
-{"index": 131692, "D": "a gas-guzzler", "S": ["alcoholic "], "A": ["abstainer ", "teetotaler "]}
+{"index": 131692, "D": "a gas-guzzler", "S": ["alcoholic"], "A": ["abstainer", "teetotaler"]}

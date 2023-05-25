@@ -1,1 +1,1 @@
-{"index": 190988, "D": "a heelless shoe made entirely of soft leather, as deerskin, with the sole brought up and attached to a piece of u-shaped leather on top of the foot, worn originally by the American Indians.", "S": ["sandal "], "A": []}
+{"index": 190988, "D": "a heelless shoe made entirely of soft leather, as deerskin, with the sole brought up and attached to a piece of u-shaped leather on top of the foot, worn originally by the American Indians.", "S": ["sandal"], "A": []}

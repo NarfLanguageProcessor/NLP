@@ -1,1 +1,1 @@
-{"index": 222583, "D": "a person, group, or organization that is the most progressive or successful and serves as a model to be imitated.", "S": ["bellwether ", "forerunner ", "leader ", "pacer ", "pioneer "], "A": []}
+{"index": 222583, "D": "a person, group, or organization that is the most progressive or successful and serves as a model to be imitated.", "S": ["bellwether", "forerunner", "leader", "pacer", "pioneer"], "A": []}

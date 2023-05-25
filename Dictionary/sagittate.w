@@ -1,1 +1,1 @@
-{"index": 276694, "D": "shaped like an arrowhead", "S": ["barbed ", "sharp "], "A": ["blunt ", "dull "]}
+{"index": 276694, "D": "shaped like an arrowhead", "S": ["barbed", "sharp"], "A": ["blunt", "dull"]}

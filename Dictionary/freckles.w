@@ -1,1 +1,1 @@
-{"index": 118554, "D": "one of the small, brownish spots on the skin that are caused by deposition of pigment and that increase in number and darken on exposure to sunlight; lentigo.", "S": ["blemish ", "blotch ", "mole "], "A": []}
+{"index": 118554, "D": "one of the small, brownish spots on the skin that are caused by deposition of pigment and that increase in number and darken on exposure to sunlight; lentigo.", "S": ["blemish", "blotch", "mole"], "A": []}

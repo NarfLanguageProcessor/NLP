@@ -1,1 +1,1 @@
-{"index": 77652, "D": "not subject to death;  immortal", "S": ["eternal ", "everlasting ", "imperishable ", "undying "], "A": []}
+{"index": 77652, "D": "not subject to death;  immortal", "S": ["eternal", "everlasting", "imperishable", "undying"], "A": []}

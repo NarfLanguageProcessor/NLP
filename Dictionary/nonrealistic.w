@@ -1,1 +1,1 @@
-{"index": 206492, "D": "interested in, concerned with, or based on what is real or practical", "S": ["dreaming ", "half-baked ", "hoping ", "impossible ", "improbable ", "ivory-tower ", "not sensible ", "on cloud nine ", "optimistic ", "romantic ", "silly "], "A": []}
+{"index": 206492, "D": "interested in, concerned with, or based on what is real or practical", "S": ["dreaming", "half-baked", "hoping", "impossible", "improbable", "ivory-tower", "not sensible", "on cloud nine", "optimistic", "romantic", "silly"], "A": []}

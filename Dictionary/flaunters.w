@@ -1,1 +1,1 @@
-{"index": 114170, "D": "to parade or display oneself conspicuously, defiantly, or boldly.", "S": ["braggart ", "flasher ", "grandstander ", "pervert "], "A": []}
+{"index": 114170, "D": "to parade or display oneself conspicuously, defiantly, or boldly.", "S": ["braggart", "flasher", "grandstander", "pervert"], "A": []}

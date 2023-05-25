@@ -1,1 +1,1 @@
-{"index": 251754, "D": "the outline or contour of the human face, especially the face viewed from one side.", "S": ["figure ", "portrait ", "sketch "], "A": []}
+{"index": 251754, "D": "the outline or contour of the human face, especially the face viewed from one side.", "S": ["figure", "portrait", "sketch"], "A": []}

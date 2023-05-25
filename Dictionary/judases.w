@@ -1,1 +1,1 @@
-{"index": 162042, "D": [], "S": ["betrayer ", "conspirator ", "deceiver ", "rat ", "turncoat ", "two-timer ", "weasel "], "A": []}
+{"index": 162042, "D": [], "S": ["betrayer", "conspirator", "deceiver", "rat", "turncoat", "two-timer", "weasel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 231581, "D": "capable of being permeated. ", "S": ["absorptive ", "accessible ", "enterable ", "passable ", "pervious ", "porose ", "porous ", "spongelike ", "spongy "], "A": []}
+{"index": 231581, "D": "capable of being permeated. ", "S": ["absorptive", "accessible", "enterable", "passable", "pervious", "porose", "porous", "spongelike", "spongy"], "A": []}

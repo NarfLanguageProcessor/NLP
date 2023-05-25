@@ -1,1 +1,1 @@
-{"index": 66827, "D": "a person or company that consigns  goods, merchandise, etc.", "S": ["broker ", "dealer ", "exporter ", "operator ", "retailer ", "seller ", "shipper ", "shopkeeper ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}
+{"index": 66827, "D": "a person or company that consigns  goods, merchandise, etc.", "S": ["broker", "dealer", "exporter", "operator", "retailer", "seller", "shipper", "shopkeeper", "trader", "trafficker", "vendor", "wholesaler"], "A": ["customer"]}

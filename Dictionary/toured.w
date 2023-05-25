@@ -1,1 +1,1 @@
-{"index": 326628, "D": "a traveling around from place to place.", "S": ["cruise ", "explore ", "swing ", "travel "], "A": []}
+{"index": 326628, "D": "a traveling around from place to place.", "S": ["cruise", "explore", "swing", "travel"], "A": []}

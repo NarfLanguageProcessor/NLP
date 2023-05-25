@@ -1,1 +1,0 @@
-{"index": 185349, "D": "any of the square spaces, either decorated or plain, between triglyphs in the Doric frieze.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 296935, "D": "able to pay all just debts.", "S": ["alcohol ", "booze ", "whiskey "], "A": ["solid "]}
+{"index": 296935, "D": "able to pay all just debts.", "S": ["alcohol", "booze", "whiskey"], "A": ["solid"]}

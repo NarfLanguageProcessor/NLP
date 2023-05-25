@@ -1,1 +1,1 @@
-{"index": 147380, "D": "in a way that is not legally permitted or authorized; unlawfully", "S": ["bootleg ", "under the table "], "A": ["aboveboard "]}
+{"index": 147380, "D": "in a way that is not legally permitted or authorized; unlawfully", "S": ["bootleg", "under the table"], "A": ["aboveboard"]}

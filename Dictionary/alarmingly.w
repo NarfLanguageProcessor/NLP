@@ -1,1 +1,1 @@
-{"index": 7338, "D": "causing alarm  or fear", "S": ["critically ", "desperately ", "perilously ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}
+{"index": 7338, "D": "causing alarm  or fear", "S": ["critically", "desperately", "perilously", "precariously", "recklessly", "seriously", "severely"], "A": ["lightly"]}

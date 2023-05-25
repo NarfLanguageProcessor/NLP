@@ -1,1 +1,1 @@
-{"index": 43706, "D": "the more or less acidulous liquid remaining after butter  has been separated from milk  or cream.", "S": ["cream ", "half-and-half "], "A": []}
+{"index": 43706, "D": "the more or less acidulous liquid remaining after butter  has been separated from milk  or cream.", "S": ["cream", "half-and-half"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 29608, "D": "bestowing bliss, blessings, happiness, or the like", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}
+{"index": 29608, "D": "bestowing bliss, blessings, happiness, or the like", "S": ["cheerfully", "cheerily", "cordially", "enthusiastically", "freely", "gleefully", "gratefully", "heartily", "readily", "warmly", "willingly"], "A": ["unwillingly"]}

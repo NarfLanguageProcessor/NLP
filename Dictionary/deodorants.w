@@ -1,1 +1,1 @@
-{"index": 81412, "D": "an agent for destroying odors. ", "S": ["cleanser ", "cosmetic ", "disinfectant "], "A": []}
+{"index": 81412, "D": "an agent for destroying odors. ", "S": ["cleanser", "cosmetic", "disinfectant"], "A": []}

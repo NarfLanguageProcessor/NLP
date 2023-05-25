@@ -1,1 +1,1 @@
-{"index": 256603, "D": "the practice or system of using certain conventional marks or characters in writing or printing in order to separate elements and make the meaning clear, as in ending a sentence or separating clauses.", "S": ["interval ", "mark "], "A": []}
+{"index": 256603, "D": "the practice or system of using certain conventional marks or characters in writing or printing in order to separate elements and make the meaning clear, as in ending a sentence or separating clauses.", "S": ["interval", "mark"], "A": []}

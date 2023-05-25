@@ -1,1 +1,1 @@
-{"index": 111108, "D": "simple past tense and past participle of feel. ", "S": ["anticipated ", "recognized "], "A": []}
+{"index": 111108, "D": "simple past tense and past participle of feel. ", "S": ["anticipated", "recognized"], "A": []}

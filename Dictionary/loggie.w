@@ -1,1 +1,1 @@
-{"index": 174591, "D": "a gallery or arcade open to the air on at least one side.", "S": ["gallery ", "mall ", "walkway "], "A": []}
+{"index": 174591, "D": "a gallery or arcade open to the air on at least one side.", "S": ["gallery", "mall", "walkway"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 154373, "D": "to make intense  or more intense.", "S": ["expanded ", "extended ", "inflated ", "magnified ", "swollen "], "A": ["compressed ", "contracted ", "shrunken "]}
+{"index": 154373, "D": "to make intense  or more intense.", "S": ["expanded", "extended", "inflated", "magnified", "swollen"], "A": ["compressed", "contracted", "shrunken"]}

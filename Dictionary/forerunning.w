@@ -1,1 +1,1 @@
-{"index": 116913, "D": "to run in front of; come before; precede.", "S": ["introductory ", "previous ", "prior "], "A": ["later ", "back ", "inferior ", "last ", "unimportant "]}
+{"index": 116913, "D": "to run in front of; come before; precede.", "S": ["introductory", "previous", "prior"], "A": ["later", "back", "inferior", "last", "unimportant"]}

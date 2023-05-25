@@ -1,1 +1,0 @@
-{"index": 202849, "D": "failing in or neglectful of a duty or obligation; guilty of a misdeed or offense.", "S": [], "A": []}

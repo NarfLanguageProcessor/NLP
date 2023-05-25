@@ -1,1 +1,1 @@
-{"index": 126349, "D": "a light or lamp.", "S": ["flicker ", "glimmer ", "glint ", "glow ", "sheen ", "twinkle "], "A": ["dullness "]}
+{"index": 126349, "D": "a light or lamp.", "S": ["flicker", "glimmer", "glint", "glow", "sheen", "twinkle"], "A": ["dullness"]}

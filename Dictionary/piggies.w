@@ -1,1 +1,1 @@
-{"index": 236376, "D": "a small or young pig. ", "S": ["boar ", "hog ", "piglet ", "swine "], "A": []}
+{"index": 236376, "D": "a small or young pig. ", "S": ["boar", "hog", "piglet", "swine"], "A": []}

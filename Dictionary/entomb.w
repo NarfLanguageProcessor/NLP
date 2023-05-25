@@ -1,1 +1,1 @@
-{"index": 101507, "D": "to place in a tomb; bury; inter.", "S": ["embalm ", "enshrine "], "A": []}
+{"index": 101507, "D": "to place in a tomb; bury; inter.", "S": ["embalm", "enshrine"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 253213, "D": "to be successful or fortunate, especially in financial respects; thrive; flourish.", "S": ["blooming ", "booming ", "burgeoning ", "expanding ", "growing ", "mushrooming ", "rank ", "roaring ", "thriving "], "A": ["declining "]}
+{"index": 253213, "D": "to be successful or fortunate, especially in financial respects; thrive; flourish.", "S": ["blooming", "booming", "burgeoning", "expanding", "growing", "mushrooming", "rank", "roaring", "thriving"], "A": ["declining"]}

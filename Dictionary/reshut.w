@@ -1,1 +1,0 @@
-{"index": 269341, "D": "to put (a door, cover, etc.) in position to close or obstruct.", "S": [], "A": []}

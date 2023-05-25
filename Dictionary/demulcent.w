@@ -1,1 +1,1 @@
-{"index": 80925, "D": "soothing or mollifying, as a medicinal substance.", "S": ["healing ", "lenitive ", "palliative ", "softening "], "A": []}
+{"index": 80925, "D": "soothing or mollifying, as a medicinal substance.", "S": ["healing", "lenitive", "palliative", "softening"], "A": []}

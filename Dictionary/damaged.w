@@ -1,1 +1,1 @@
-{"index": 76503, "D": "injury or harm that reduces value or usefulness", "S": ["flawed ", "impaired ", "injured ", "run-down "], "A": ["healthy "]}
+{"index": 76503, "D": "injury or harm that reduces value or usefulness", "S": ["flawed", "impaired", "injured", "run-down"], "A": ["healthy"]}

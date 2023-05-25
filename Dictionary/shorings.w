@@ -1,1 +1,1 @@
-{"index": 288890, "D": "a number or system of shores  for steadying or supporting a wall, a ship in drydock, etc.", "S": ["brace ", "buttress ", "column ", "hold ", "prop ", "reinforcement ", "shore ", "stanchion ", "truss "], "A": ["abet ", "advance ", "assist ", "go ", "help ", "leave "]}
+{"index": 288890, "D": "a number or system of shores  for steadying or supporting a wall, a ship in drydock, etc.", "S": ["brace", "buttress", "column", "hold", "prop", "reinforcement", "shore", "stanchion", "truss"], "A": ["abet", "advance", "assist", "go", "help", "leave"]}

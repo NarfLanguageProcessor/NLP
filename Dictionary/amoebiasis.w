@@ -1,0 +1,1 @@
+{"index": 10866, "D": "infection, esp of the intestines, caused by the parasitic amoeba Endamoeba histolytica", "S": [], "A": []}

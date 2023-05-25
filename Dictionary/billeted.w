@@ -1,1 +1,1 @@
-{"index": 33988, "D": "lodging for a soldier, student, etc., as in a private home or nonmilitary public building.", "S": ["provide ", "take in "], "A": ["turn away "]}
+{"index": 33988, "D": "lodging for a soldier, student, etc., as in a private home or nonmilitary public building.", "S": ["provide", "take in"], "A": ["turn away"]}

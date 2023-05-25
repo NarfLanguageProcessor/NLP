@@ -1,1 +1,1 @@
-{"index": 36883, "D": "to utter suddenly or inadvertently; divulge impulsively or unadvisedly (usually followed by out)", "S": ["exclaim "], "A": ["be quiet ", "conceal ", "hide ", "secrete "]}
+{"index": 36883, "D": "to utter suddenly or inadvertently; divulge impulsively or unadvisedly (usually followed by out)", "S": ["exclaim"], "A": ["be quiet", "conceal", "hide", "secrete"]}

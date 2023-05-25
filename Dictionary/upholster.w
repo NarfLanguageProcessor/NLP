@@ -1,1 +1,1 @@
-{"index": 354758, "D": "to provide (chairs, sofas, etc.) with coverings, cushions, stuffing, springs, etc.", "S": ["drape "], "A": []}
+{"index": 354758, "D": "to provide (chairs, sofas, etc.) with coverings, cushions, stuffing, springs, etc.", "S": ["drape"], "A": []}

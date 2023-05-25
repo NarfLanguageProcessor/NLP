@@ -1,1 +1,0 @@
-{"index": 267328, "D": "having feet adapted for use as oars.", "S": [], "A": []}

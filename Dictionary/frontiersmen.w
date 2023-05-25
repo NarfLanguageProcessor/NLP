@@ -1,1 +1,1 @@
-{"index": 119353, "D": "a person, especially a man, who lives on the frontier, especially in sparsely settled regions.", "S": ["backwoodsman ", "hinterlander ", "ridge runner "], "A": []}
+{"index": 119353, "D": "a person, especially a man, who lives on the frontier, especially in sparsely settled regions.", "S": ["backwoodsman", "hinterlander", "ridge runner"], "A": []}

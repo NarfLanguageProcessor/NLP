@@ -1,1 +1,1 @@
-{"index": 200211, "D": "a member of a feudal Japanese society of mercenary agents highly trained in martial arts and stealth (ninjutsu ), who were hired for covert purposes ranging from espionage to sabotage and assassination.", "S": ["combatant ", "fighter "], "A": []}
+{"index": 200211, "D": "a member of a feudal Japanese society of mercenary agents highly trained in martial arts and stealth (ninjutsu ), who were hired for covert purposes ranging from espionage to sabotage and assassination.", "S": ["combatant", "fighter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 262969, "D": "publicity; self-advertisement; notoriety.", "S": ["attention ", "clout ", "commercial ", "distribution ", "fame ", "hoopla ", "hype ", "noise ", "notoriety ", "propaganda "], "A": ["obscurity "]}
+{"index": 262969, "D": "publicity; self-advertisement; notoriety.", "S": ["attention", "clout", "commercial", "distribution", "fame", "hoopla", "hype", "noise", "notoriety", "propaganda"], "A": ["obscurity"]}

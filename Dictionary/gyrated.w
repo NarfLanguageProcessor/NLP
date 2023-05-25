@@ -1,1 +1,1 @@
-{"index": 125463, "D": "to move in a circle or spiral, or around a fixed point; whirl.", "S": ["twirl ", "whirl "], "A": ["steady "]}
+{"index": 125463, "D": "to move in a circle or spiral, or around a fixed point; whirl.", "S": ["twirl", "whirl"], "A": ["steady"]}

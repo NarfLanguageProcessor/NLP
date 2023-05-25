@@ -1,1 +1,1 @@
-{"index": 313031, "D": "(of a role) being a fairly important but not leading part, esp in a play or film", "S": ["aiding ", "approving ", "encouraging ", "helping ", "promoting ", "shielding "], "A": ["against ", "opposing "]}
+{"index": 313031, "D": "(of a role) being a fairly important but not leading part, esp in a play or film", "S": ["aiding", "approving", "encouraging", "helping", "promoting", "shielding"], "A": ["against", "opposing"]}

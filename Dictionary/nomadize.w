@@ -1,1 +1,0 @@
-{"index": 200842, "D": "to live in the manner of a nomad. ", "S": ["drift ", "emigrate ", "immigrate ", "roam ", "shift ", "trek ", "wander "], "A": ["remain ", "stay "]}

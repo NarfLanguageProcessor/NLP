@@ -1,1 +1,1 @@
-{"index": 145439, "D": "(used as an exclamation of joy, applause, appreciation, etc.) hurrah!", "S": ["cry ", "encouragement ", "ovation ", "roar ", "shout "], "A": ["disapproval "]}
+{"index": 145439, "D": "(used as an exclamation of joy, applause, appreciation, etc.) hurrah!", "S": ["cry", "encouragement", "ovation", "roar", "shout"], "A": ["disapproval"]}

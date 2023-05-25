@@ -1,1 +1,1 @@
-{"index": 357222, "D": "characterized by or exhibiting variety; various;  diverse; diversified", "S": ["diverse ", "mixed ", "motley ", "various "], "A": ["like ", "same ", "similar ", "uniform "]}
+{"index": 357222, "D": "characterized by or exhibiting variety; various;  diverse; diversified", "S": ["diverse", "mixed", "motley", "various"], "A": ["like", "same", "similar", "uniform"]}

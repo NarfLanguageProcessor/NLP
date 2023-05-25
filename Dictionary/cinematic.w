@@ -1,1 +1,1 @@
-{"index": 57661, "D": "having to do with movies, as either an industry or an art form", "S": ["pictorial ", "visual ", "vivid "], "A": []}
+{"index": 57661, "D": "having to do with movies, as either an industry or an art form", "S": ["pictorial", "visual", "vivid"], "A": []}

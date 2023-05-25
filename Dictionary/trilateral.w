@@ -1,1 +1,1 @@
-{"index": 329934, "D": "having three sides.", "S": ["ternary ", "third ", "treble ", "trinitarian ", "triple "], "A": []}
+{"index": 329934, "D": "having three sides.", "S": ["ternary", "third", "treble", "trinitarian", "triple"], "A": []}

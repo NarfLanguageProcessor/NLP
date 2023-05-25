@@ -1,1 +1,1 @@
-{"index": 310051, "D": "soapy water.", "S": ["beer ", "foam ", "lather ", "soap "], "A": []}
+{"index": 310051, "D": "soapy water.", "S": ["beer", "foam", "lather", "soap"], "A": []}

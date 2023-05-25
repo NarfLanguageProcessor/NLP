@@ -1,1 +1,1 @@
-{"index": 177944, "D": "the act of maintaining", "S": ["care ", "conservation ", "preservation ", "supply ", "upkeep "], "A": ["destruction ", "neglect ", "negligence ", "end ", "entertainment ", "finish ", "fun ", "stop "]}
+{"index": 177944, "D": "the act of maintaining", "S": ["care", "conservation", "preservation", "supply", "upkeep"], "A": ["destruction", "neglect", "negligence", "end", "entertainment", "finish", "fun", "stop"]}

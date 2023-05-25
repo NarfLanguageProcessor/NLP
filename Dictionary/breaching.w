@@ -1,1 +1,1 @@
-{"index": 40187, "D": "the act or a result of breaking; break or rupture.", "S": ["breach ", "contravene ", "disobey ", "encroach ", "impose ", "intrude ", "meddle ", "offend ", "trespass "], "A": ["give ", "obey ", "receive "]}
+{"index": 40187, "D": "the act or a result of breaking; break or rupture.", "S": ["breach", "contravene", "disobey", "encroach", "impose", "intrude", "meddle", "offend", "trespass"], "A": ["give", "obey", "receive"]}

@@ -1,1 +1,1 @@
-{"index": 134290, "D": "disdainfully proud; scornfully arrogant; snobbish; supercilious", "S": ["cavalier ", "contemptuous ", "imperious ", "indifferent ", "snobbish ", "snooty "], "A": ["humble ", "shy "]}
+{"index": 134290, "D": "disdainfully proud; scornfully arrogant; snobbish; supercilious", "S": ["cavalier", "contemptuous", "imperious", "indifferent", "snobbish", "snooty"], "A": ["humble", "shy"]}

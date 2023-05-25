@@ -1,1 +1,1 @@
-{"index": 116373, "D": "the act of forbidding. ", "S": ["ban ", "banning ", "embargo ", "forbidding ", "interdict ", "interdiction ", "prohibition ", "proscription ", "restriction "], "A": ["allowance ", "permission "]}
+{"index": 116373, "D": "the act of forbidding. ", "S": ["ban", "banning", "embargo", "forbidding", "interdict", "interdiction", "prohibition", "proscription", "restriction"], "A": ["allowance", "permission"]}

@@ -1,1 +1,1 @@
-{"index": 264762, "D": "to enter  again", "S": ["appear ", "come back "], "A": []}
+{"index": 264762, "D": "to enter  again", "S": ["appear", "come back"], "A": []}

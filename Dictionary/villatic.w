@@ -1,1 +1,1 @@
-{"index": 359755, "D": "of or relating to the country or to a farm; rural.", "S": ["agrarian ", "agricultural ", "back-country ", "backwoods ", "bucolic ", "idyllic ", "pastoral ", "provincial ", "rustic "], "A": ["metropolitan ", "urban "]}
+{"index": 359755, "D": "of or relating to the country or to a farm; rural.", "S": ["agrarian", "agricultural", "back-country", "backwoods", "bucolic", "idyllic", "pastoral", "provincial", "rustic"], "A": ["metropolitan", "urban"]}

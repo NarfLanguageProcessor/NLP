@@ -1,1 +1,1 @@
-{"index": 159130, "D": "equality of political rights.", "S": ["civil rights ", "coordination ", "equal opportunity ", "fairness ", "identity ", "impartiality ", "parity ", "tolerance "], "A": ["difference ", "disagreement ", "dissimilarity ", "unlikeness "]}
+{"index": 159130, "D": "equality of political rights.", "S": ["civil rights", "coordination", "equal opportunity", "fairness", "identity", "impartiality", "parity", "tolerance"], "A": ["difference", "disagreement", "dissimilarity", "unlikeness"]}

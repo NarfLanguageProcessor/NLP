@@ -1,1 +1,1 @@
-{"index": 200176, "D": "a cardinal number, eight plus one.", "S": ["ninth ", "nonagon "], "A": []}
+{"index": 200176, "D": "a cardinal number, eight plus one.", "S": ["ninth", "nonagon"], "A": []}

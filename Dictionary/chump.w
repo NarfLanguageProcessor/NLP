@@ -1,1 +1,1 @@
-{"index": 56613, "D": "a stupid person; dolt", "S": ["blockhead ", "boob ", "dolt ", "fool ", "goof ", "lunkhead ", "oaf ", "sap ", "sucker "], "A": ["brain "]}
+{"index": 56613, "D": "a stupid person; dolt", "S": ["blockhead", "boob", "dolt", "fool", "goof", "lunkhead", "oaf", "sap", "sucker"], "A": ["brain"]}

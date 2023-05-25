@@ -1,1 +1,1 @@
-{"index": 4695, "D": "after careful or thorough consideration; deliberately. ", "S": ["deliberately ", "intentionally "], "A": ["unintentionally "]}
+{"index": 4695, "D": "after careful or thorough consideration; deliberately. ", "S": ["deliberately", "intentionally"], "A": ["unintentionally"]}

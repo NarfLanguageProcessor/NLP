@@ -1,1 +1,1 @@
-{"index": 161312, "D": "militantly nationalistic or chauvinistic", "S": ["bigot "], "A": []}
+{"index": 161312, "D": "militantly nationalistic or chauvinistic", "S": ["bigot"], "A": []}

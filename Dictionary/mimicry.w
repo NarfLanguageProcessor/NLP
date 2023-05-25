@@ -1,1 +1,1 @@
-{"index": 187604, "D": "the act, practice, or art of mimicking. ", "S": ["apery ", "imitation ", "mockery ", "pretense "], "A": []}
+{"index": 187604, "D": "the act, practice, or art of mimicking. ", "S": ["apery", "imitation", "mockery", "pretense"], "A": []}

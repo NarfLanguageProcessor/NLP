@@ -1,1 +1,0 @@
-{"index": 314825, "D": "a picture, as of a scene.", "S": [], "A": []}

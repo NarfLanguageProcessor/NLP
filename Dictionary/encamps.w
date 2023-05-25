@@ -1,1 +1,1 @@
-{"index": 99125, "D": "to settle or lodge in a camp. ", "S": ["billet ", "bivouac ", "quarter ", "settle ", "tent "], "A": []}
+{"index": 99125, "D": "to settle or lodge in a camp. ", "S": ["billet", "bivouac", "quarter", "settle", "tent"], "A": []}

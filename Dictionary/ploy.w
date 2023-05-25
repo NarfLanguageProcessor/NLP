@@ -1,1 +1,1 @@
-{"index": 240177, "D": "a maneuver or stratagem, as in conversation, to gain the advantage.", "S": ["device ", "maneuver ", "ruse ", "scheme ", "stratagem ", "subterfuge ", "tactic "], "A": []}
+{"index": 240177, "D": "a maneuver or stratagem, as in conversation, to gain the advantage.", "S": ["device", "maneuver", "ruse", "scheme", "stratagem", "subterfuge", "tactic"], "A": []}

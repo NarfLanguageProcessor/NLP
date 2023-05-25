@@ -1,1 +1,1 @@
-{"index": 149044, "D": "a person who organizes or manages public entertainments, especially operas, ballets, or concerts.", "S": ["director ", "sponsor "], "A": []}
+{"index": 149044, "D": "a person who organizes or manages public entertainments, especially operas, ballets, or concerts.", "S": ["director", "sponsor"], "A": []}

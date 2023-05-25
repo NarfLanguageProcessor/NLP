@@ -1,1 +1,1 @@
-{"index": 300118, "D": "without spirit. ", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}
+{"index": 300118, "D": "without spirit. ", "S": ["desperately", "sadly"], "A": ["confidently", "expectantly", "hopefully"]}

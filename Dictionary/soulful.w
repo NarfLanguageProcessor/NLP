@@ -1,1 +1,1 @@
-{"index": 297820, "D": "of or expressive of deep feeling or emotion", "S": ["expressive ", "impassioned ", "passionate ", "stirring ", "touching "], "A": ["apathetic ", "cool ", "indifferent ", "unexcited "]}
+{"index": 297820, "D": "of or expressive of deep feeling or emotion", "S": ["expressive", "impassioned", "passionate", "stirring", "touching"], "A": ["apathetic", "cool", "indifferent", "unexcited"]}

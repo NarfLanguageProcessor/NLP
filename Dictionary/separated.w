@@ -1,1 +1,1 @@
-{"index": 285548, "D": "to keep apart or divide, as by an intervening barrier or space", "S": ["detached ", "disconnected ", "distant ", "distinct ", "divorced ", "removed "], "A": ["attached ", "connected ", "sympathetic "]}
+{"index": 285548, "D": "to keep apart or divide, as by an intervening barrier or space", "S": ["detached", "disconnected", "distant", "distinct", "divorced", "removed"], "A": ["attached", "connected", "sympathetic"]}

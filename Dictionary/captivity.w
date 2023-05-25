@@ -1,1 +1,1 @@
-{"index": 47219, "D": "the state or period of being held, imprisoned, enslaved, or confined.", "S": ["bondage ", "confinement ", "custody ", "imprisonment ", "incarceration ", "slavery "], "A": ["freedom ", "liberation ", "liberty "]}
+{"index": 47219, "D": "the state or period of being held, imprisoned, enslaved, or confined.", "S": ["bondage", "confinement", "custody", "imprisonment", "incarceration", "slavery"], "A": ["freedom", "liberation", "liberty"]}

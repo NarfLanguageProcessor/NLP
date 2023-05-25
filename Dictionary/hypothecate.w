@@ -1,1 +1,1 @@
-{"index": 141260, "D": "to pledge to a creditor as security without delivering over; mortgage.", "S": ["deposit ", "hazard ", "hock ", "hook ", "mortgage ", "pledge "], "A": []}
+{"index": 141260, "D": "to pledge to a creditor as security without delivering over; mortgage.", "S": ["deposit", "hazard", "hock", "hook", "mortgage", "pledge"], "A": []}

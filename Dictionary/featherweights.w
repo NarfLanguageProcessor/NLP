@@ -1,1 +1,1 @@
-{"index": 110687, "D": "a boxer or other contestant intermediate in weight between a bantamweight  and a lightweight,  especially a professional boxer weighing up to 126 pounds (57 kilograms).", "S": ["coward ", "crybaby ", "pushover "], "A": []}
+{"index": 110687, "D": "a boxer or other contestant intermediate in weight between a bantamweight  and a lightweight,  especially a professional boxer weighing up to 126 pounds (57 kilograms).", "S": ["coward", "crybaby", "pushover"], "A": []}

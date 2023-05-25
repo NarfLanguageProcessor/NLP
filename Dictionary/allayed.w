@@ -1,1 +1,1 @@
-{"index": 8533, "D": "to put (fear, doubt, suspicion, anger, etc.) to rest; calm; quiet.", "S": ["reassured ", "relaxed ", "satisfied "], "A": ["distraught ", "sad ", "worried "]}
+{"index": 8533, "D": "to put (fear, doubt, suspicion, anger, etc.) to rest; calm; quiet.", "S": ["reassured", "relaxed", "satisfied"], "A": ["distraught", "sad", "worried"]}

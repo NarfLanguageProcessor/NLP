@@ -1,1 +1,1 @@
-{"index": 360307, "D": "of or relating to the viscera. ", "S": ["ingrained ", "innate ", "intuitive "], "A": []}
+{"index": 360307, "D": "of or relating to the viscera. ", "S": ["ingrained", "innate", "intuitive"], "A": []}

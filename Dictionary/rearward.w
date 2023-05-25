@@ -1,1 +1,1 @@
-{"index": 261998, "D": "toward or in the rear.", "S": ["rearwards "], "A": []}
+{"index": 261998, "D": "toward or in the rear.", "S": ["rearwards"], "A": []}

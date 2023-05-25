@@ -1,0 +1,1 @@
+{"index": 24044, "D": "producing sexual excitement or pleasure without association with another person or external stimulation.", "S": [], "A": []}

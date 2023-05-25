@@ -1,1 +1,1 @@
-{"index": 280439, "D": "a child  attending school. ", "S": ["pupil ", "student "], "A": []}
+{"index": 280439, "D": "a child  attending school. ", "S": ["pupil", "student"], "A": []}

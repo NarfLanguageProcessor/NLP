@@ -1,1 +1,1 @@
-{"index": 62048, "D": "the act of coercing;  use of force or intimidation to obtain compliance.", "S": ["duress ", "intimidation ", "persuasion "], "A": []}
+{"index": 62048, "D": "the act of coercing;  use of force or intimidation to obtain compliance.", "S": ["duress", "intimidation", "persuasion"], "A": []}

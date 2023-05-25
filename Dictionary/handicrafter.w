@@ -1,1 +1,1 @@
-{"index": 133177, "D": [], "S": ["artisan ", "composer ", "expert ", "inventor ", "painter "], "A": ["scientist "]}
+{"index": 133177, "D": [], "S": ["artisan", "composer", "expert", "inventor", "painter"], "A": ["scientist"]}

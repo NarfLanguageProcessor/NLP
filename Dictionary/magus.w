@@ -1,1 +1,1 @@
-{"index": 177645, "D": "one of the Magi. ", "S": ["magi ", "magician ", "sage ", "seer ", "wizard "], "A": []}
+{"index": 177645, "D": "one of the Magi. ", "S": ["magi", "magician", "sage", "seer", "wizard"], "A": []}

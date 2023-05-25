@@ -1,0 +1,1 @@
+{"index": 12025, "D": "to communicate or connect by anastomosis. ", "S": [], "A": []}

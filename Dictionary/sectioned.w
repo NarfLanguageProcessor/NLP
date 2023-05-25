@@ -1,1 +1,1 @@
-{"index": 282866, "D": "a part that is cut off or separated.", "S": ["paragraphed "], "A": []}
+{"index": 282866, "D": "a part that is cut off or separated.", "S": ["paragraphed"], "A": []}

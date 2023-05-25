@@ -1,1 +1,1 @@
-{"index": 231511, "D": "guilty of perjury.", "S": ["equivocating ", "forsworn ", "lying ", "misleading "], "A": ["honest "]}
+{"index": 231511, "D": "guilty of perjury.", "S": ["equivocating", "forsworn", "lying", "misleading"], "A": ["honest"]}

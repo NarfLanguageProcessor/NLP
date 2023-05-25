@@ -1,1 +1,1 @@
-{"index": 90960, "D": "a person who asserts their opinions in an unduly positive or arrogant manner; a dogmatic person.", "S": ["bigot ", "partisan "], "A": []}
+{"index": 90960, "D": "a person who asserts their opinions in an unduly positive or arrogant manner; a dogmatic person.", "S": ["bigot", "partisan"], "A": []}

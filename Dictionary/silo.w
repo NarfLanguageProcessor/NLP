@@ -1,1 +1,1 @@
-{"index": 290543, "D": "a structure, typically cylindrical, in which fodder or forage is kept", "S": ["depot ", "warehouse "], "A": []}
+{"index": 290543, "D": "a structure, typically cylindrical, in which fodder or forage is kept", "S": ["depot", "warehouse"], "A": []}

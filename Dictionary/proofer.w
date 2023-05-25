@@ -1,1 +1,1 @@
-{"index": 252473, "D": "evidence sufficient to establish a thing as true, or to produce belief in its truth.", "S": ["airtight ", "fast ", "short ", "uncomfortable "], "A": ["loose "]}
+{"index": 252473, "D": "evidence sufficient to establish a thing as true, or to produce belief in its truth.", "S": ["airtight", "fast", "short", "uncomfortable"], "A": ["loose"]}

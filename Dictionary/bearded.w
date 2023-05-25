@@ -1,1 +1,1 @@
-{"index": 29525, "D": "having a beard. ", "S": ["shaggy ", "unshaven "], "A": []}
+{"index": 29525, "D": "having a beard. ", "S": ["shaggy", "unshaven"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 243229, "D": "a person given to vain, pretentious displays and empty chatter; coxcomb; fop. ", "S": ["coxcomb ", "dandy ", "dude ", "fashion plate ", "fine gentleman ", "fop ", "lady-killer ", "lounge lizard ", "person of fashion ", "swell "], "A": []}
+{"index": 243229, "D": "a person given to vain, pretentious displays and empty chatter; coxcomb; fop. ", "S": ["coxcomb", "dandy", "dude", "fashion plate", "fine gentleman", "fop", "lady-killer", "lounge lizard", "person of fashion", "swell"], "A": []}

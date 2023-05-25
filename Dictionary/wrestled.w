@@ -1,1 +1,1 @@
-{"index": 367933, "D": "to engage in wrestling.", "S": ["contend ", "grapple ", "scuffle ", "strive ", "tangle ", "tussle "], "A": ["agree ", "idle ", "laze ", "make peace ", "rest ", "surrender "]}
+{"index": 367933, "D": "to engage in wrestling.", "S": ["contend", "grapple", "scuffle", "strive", "tangle", "tussle"], "A": ["agree", "idle", "laze", "make peace", "rest", "surrender"]}

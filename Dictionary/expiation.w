@@ -1,1 +1,1 @@
-{"index": 107767, "D": "the act of expiating. ", "S": ["apology ", "redress ", "reparation ", "restitution "], "A": ["penalty "]}
+{"index": 107767, "D": "the act of expiating. ", "S": ["apology", "redress", "reparation", "restitution"], "A": ["penalty"]}

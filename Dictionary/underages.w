@@ -1,1 +1,1 @@
-{"index": 338821, "D": "lacking the required age,  especially that of legal maturity.", "S": ["adolescent "], "A": []}
+{"index": 338821, "D": "lacking the required age,  especially that of legal maturity.", "S": ["adolescent"], "A": []}

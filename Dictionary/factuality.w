@@ -1,1 +1,1 @@
-{"index": 109097, "D": "of or relating to facts; concerning facts", "S": ["fact ", "factualness ", "reality ", "truth ", "truthfulness ", "verity "], "A": ["dishonesty ", "lie "]}
+{"index": 109097, "D": "of or relating to facts; concerning facts", "S": ["fact", "factualness", "reality", "truth", "truthfulness", "verity"], "A": ["dishonesty", "lie"]}

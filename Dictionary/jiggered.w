@@ -1,1 +1,1 @@
-{"index": 161195, "D": "confounded; damned", "S": ["fidget ", "shimmy ", "twitch ", "wiggle "], "A": ["calm ", "soothe "]}
+{"index": 161195, "D": "confounded; damned", "S": ["fidget", "shimmy", "twitch", "wiggle"], "A": ["calm", "soothe"]}

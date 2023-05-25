@@ -1,1 +1,1 @@
-{"index": 66005, "D": "a flowing together of two or more streams, rivers, or the like", "S": ["concourse ", "conjunction ", "convergence ", "joining ", "junction ", "meeting ", "merging "], "A": ["division ", "separation "]}
+{"index": 66005, "D": "a flowing together of two or more streams, rivers, or the like", "S": ["concourse", "conjunction", "convergence", "joining", "junction", "meeting", "merging"], "A": ["division", "separation"]}

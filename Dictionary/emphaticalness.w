@@ -1,1 +1,1 @@
-{"index": 98756, "D": "uttered, or to be uttered, with emphasis;  strongly expressive.", "S": ["assertiveness ", "conclusiveness ", "decisiveness ", "determination ", "firmness ", "purpose ", "purposefulness ", "resoluteness ", "resolution ", "resolve ", "willpower "], "A": []}
+{"index": 98756, "D": "uttered, or to be uttered, with emphasis;  strongly expressive.", "S": ["assertiveness", "conclusiveness", "decisiveness", "determination", "firmness", "purpose", "purposefulness", "resoluteness", "resolution", "resolve", "willpower"], "A": []}

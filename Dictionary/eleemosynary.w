@@ -1,1 +1,1 @@
-{"index": 97350, "D": "of or relating to alms, charity, or charitable donations; charitable.", "S": ["benevolent ", "charitable ", "gratuitous ", "philanthropic "], "A": []}
+{"index": 97350, "D": "of or relating to alms, charity, or charitable donations; charitable.", "S": ["benevolent", "charitable", "gratuitous", "philanthropic"], "A": []}

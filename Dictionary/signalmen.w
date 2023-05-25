@@ -1,1 +1,1 @@
-{"index": 290111, "D": "a person whose occupation or duty is signaling,  as on a railroad or in the army.", "S": ["caretaker ", "custodian ", "patrolman ", "policeman ", "warden "], "A": []}
+{"index": 290111, "D": "a person whose occupation or duty is signaling,  as on a railroad or in the army.", "S": ["caretaker", "custodian", "patrolman", "policeman", "warden"], "A": []}

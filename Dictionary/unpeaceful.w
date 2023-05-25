@@ -1,1 +1,1 @@
-{"index": 347583, "D": "characterized by peace;  free from war, strife, commotion, violence, or disorder", "S": ["anarchic ", "barbarous ", "chaotic ", "turbulent ", "unruly ", "violent "], "A": ["calm ", "mild ", "moderate ", "obedient "]}
+{"index": 347583, "D": "characterized by peace;  free from war, strife, commotion, violence, or disorder", "S": ["anarchic", "barbarous", "chaotic", "turbulent", "unruly", "violent"], "A": ["calm", "mild", "moderate", "obedient"]}

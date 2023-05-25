@@ -1,1 +1,0 @@
-{"index": 208837, "D": "to note,  mark, or set down in a system of notation", "S": ["abstain "], "A": ["indulge "]}

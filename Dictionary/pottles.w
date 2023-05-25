@@ -1,1 +1,0 @@
-{"index": 244829, "D": "a former liquid measure equal to two quarts.", "S": [], "A": []}

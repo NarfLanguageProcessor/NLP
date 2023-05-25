@@ -1,1 +1,0 @@
-{"index": 321333, "D": "loss of ability to feel cold or heat; loss of the sense or feeling of temperature.", "S": [], "A": []}

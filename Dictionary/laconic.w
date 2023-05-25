@@ -1,1 +1,1 @@
-{"index": 166981, "D": "using few words; expressing much in few words; concise", "S": ["brusque ", "pithy ", "terse "], "A": ["long-winded ", "wordy "]}
+{"index": 166981, "D": "using few words; expressing much in few words; concise", "S": ["brusque", "pithy", "terse"], "A": ["long-winded", "wordy"]}

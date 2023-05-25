@@ -1,1 +1,1 @@
-{"index": 252354, "D": "at once or without delay", "S": ["directly ", "expeditiously ", "hastily ", "instantly ", "quickly ", "rapidly ", "speedily ", "swiftly "], "A": ["slowly "]}
+{"index": 252354, "D": "at once or without delay", "S": ["directly", "expeditiously", "hastily", "instantly", "quickly", "rapidly", "speedily", "swiftly"], "A": ["slowly"]}

@@ -1,1 +1,1 @@
-{"index": 227903, "D": [], "S": ["flag-waver ", "loyalist ", "nationalist ", "partisan "], "A": ["traitor "]}
+{"index": 227903, "D": [], "S": ["flag-waver", "loyalist", "nationalist", "partisan"], "A": ["traitor"]}

@@ -1,1 +1,1 @@
-{"index": 118409, "D": "direct and unreserved in speech; straightforward; sincere", "S": ["dog ", "frank ", "link ", "sausage ", "wienerwurst "], "A": []}
+{"index": 118409, "D": "direct and unreserved in speech; straightforward; sincere", "S": ["dog", "frank", "link", "sausage", "wienerwurst"], "A": []}

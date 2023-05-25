@@ -1,1 +1,1 @@
-{"index": 319716, "D": "of, relating to, or like a mosaic.", "S": ["decorate "], "A": []}
+{"index": 319716, "D": "of, relating to, or like a mosaic.", "S": ["decorate"], "A": []}

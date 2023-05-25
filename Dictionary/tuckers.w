@@ -1,1 +1,1 @@
-{"index": 332111, "D": "a person or thing that tucks. ", "S": ["cripple ", "disable ", "drain ", "fatigue ", "frazzle ", "impoverish ", "overwork ", "sap ", "use up ", "weaken ", "weary "], "A": ["aid ", "assist ", "enable ", "energize ", "help ", "strengthen ", "invigorate "]}
+{"index": 332111, "D": "a person or thing that tucks. ", "S": ["cripple", "disable", "drain", "fatigue", "frazzle", "impoverish", "overwork", "sap", "use up", "weaken", "weary"], "A": ["aid", "assist", "enable", "energize", "help", "strengthen", "invigorate"]}

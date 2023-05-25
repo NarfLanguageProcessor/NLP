@@ -1,1 +1,1 @@
-{"index": 289042, "D": "to cause or allow to be seen; exhibit; display.", "S": ["appearance ", "display ", "fair ", "pageant ", "parade ", "presentation ", "program ", "spectacle "], "A": ["dullness "]}
+{"index": 289042, "D": "to cause or allow to be seen; exhibit; display.", "S": ["appearance", "display", "fair", "pageant", "parade", "presentation", "program", "spectacle"], "A": ["dullness"]}

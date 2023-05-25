@@ -1,1 +1,1 @@
-{"index": 290275, "D": "making no sound; quiet; still", "S": ["hushed ", "mum ", "mute ", "restrained ", "reticent "], "A": ["clamorous ", "communicative ", "explicit ", "noisy ", "talkative ", "tangible "]}
+{"index": 290275, "D": "making no sound; quiet; still", "S": ["hushed", "mum", "mute", "restrained", "reticent"], "A": ["clamorous", "communicative", "explicit", "noisy", "talkative", "tangible"]}

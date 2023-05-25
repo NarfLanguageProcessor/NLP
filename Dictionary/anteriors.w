@@ -1,1 +1,1 @@
-{"index": 14259, "D": [], "S": ["facade ", "face ", "fa\u00e7ade ", "front line ", "head ", "top "], "A": ["bottom ", "character ", "foot ", "personality ", "rear "]}
+{"index": 14259, "D": [], "S": ["facade", "face", "fa\u00e7ade", "front line", "head", "top"], "A": ["bottom", "character", "foot", "personality", "rear"]}

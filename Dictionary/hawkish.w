@@ -1,1 +1,1 @@
-{"index": 134475, "D": "resembling a hawk,  as in appearance or behavior.", "S": ["combative ", "contentious ", "destructive ", "intrusive ", "threatening "], "A": ["calm ", "complaisant ", "easygoing ", "laid-back "]}
+{"index": 134475, "D": "resembling a hawk,  as in appearance or behavior.", "S": ["combative", "contentious", "destructive", "intrusive", "threatening"], "A": ["calm", "complaisant", "easygoing", "laid-back"]}

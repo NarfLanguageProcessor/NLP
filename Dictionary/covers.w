@@ -1,1 +1,1 @@
-{"index": 71496, "D": "coversed sine", "S": ["canvas ", "cap ", "dress ", "envelope ", "front ", "jacket ", "lid ", "mask ", "roof ", "screen ", "sheet ", "tent ", "top ", "umbrella "], "A": ["reality "]}
+{"index": 71496, "D": "coversed sine", "S": ["canvas", "cap", "dress", "envelope", "front", "jacket", "lid", "mask", "roof", "screen", "sheet", "tent", "top", "umbrella"], "A": ["reality"]}

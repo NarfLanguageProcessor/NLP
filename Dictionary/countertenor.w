@@ -1,1 +1,1 @@
-{"index": 71143, "D": "an adult male voice or voice part higher than the tenor.", "S": ["falsetto "], "A": ["bass "]}
+{"index": 71143, "D": "an adult male voice or voice part higher than the tenor.", "S": ["falsetto"], "A": ["bass"]}

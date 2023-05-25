@@ -1,0 +1,1 @@
+{"index": 4015, "D": "a square matrix obtained from a given square matrix and having the property that its product with the given matrix is equal to the determinant of the given matrix times the identity matrix.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 275632, "D": "a rung of a ladder.", "S": ["ball ", "barrel ", "bobbin ", "cartouche ", "coil ", "cone ", "convolution ", "cornucopia ", "cylinder ", "fold ", "reel ", "scroll ", "shell ", "spiral ", "spool ", "trundle ", "volute ", "wheel ", "whorl "], "A": []}
+{"index": 275632, "D": "a rung of a ladder.", "S": ["ball", "barrel", "bobbin", "cartouche", "coil", "cone", "convolution", "cornucopia", "cylinder", "fold", "reel", "scroll", "shell", "spiral", "spool", "trundle", "volute", "wheel", "whorl"], "A": []}

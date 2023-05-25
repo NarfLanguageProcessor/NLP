@@ -1,1 +1,1 @@
-{"index": 256600, "D": "to mark or divide (something written) with punctuation  marks in order to make the meaning clear.", "S": ["fitful ", "infrequent ", "occasional ", "periodic ", "recurrent ", "recurring ", "seasonal "], "A": ["constant ", "frequent ", "permanent ", "regular ", "usual "]}
+{"index": 256600, "D": "to mark or divide (something written) with punctuation  marks in order to make the meaning clear.", "S": ["fitful", "infrequent", "occasional", "periodic", "recurrent", "recurring", "seasonal"], "A": ["constant", "frequent", "permanent", "regular", "usual"]}

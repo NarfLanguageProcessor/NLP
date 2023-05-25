@@ -1,1 +1,1 @@
-{"index": 332871, "D": "a structure of four horizontally revolving arms pivoted atop a post and set in a gateway or opening in a fence to allow the controlled passage of people.", "S": ["bar ", "door ", "doorway ", "exit ", "fence ", "port "], "A": []}
+{"index": 332871, "D": "a structure of four horizontally revolving arms pivoted atop a post and set in a gateway or opening in a fence to allow the controlled passage of people.", "S": ["bar", "door", "doorway", "exit", "fence", "port"], "A": []}

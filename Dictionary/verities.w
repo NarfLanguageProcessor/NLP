@@ -1,1 +1,1 @@
-{"index": 358560, "D": "the state or quality of being true; accordance with fact or reality", "S": ["verisimilitude "], "A": ["falsehood "]}
+{"index": 358560, "D": "the state or quality of being true; accordance with fact or reality", "S": ["verisimilitude"], "A": ["falsehood"]}

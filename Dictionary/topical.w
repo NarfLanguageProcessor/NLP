@@ -1,1 +1,1 @@
-{"index": 325886, "D": "relating to or dealing with matters of current or local interest", "S": ["newsworthy "], "A": ["general ", "irrelevant ", "old ", "past ", "unrestricted "]}
+{"index": 325886, "D": "relating to or dealing with matters of current or local interest", "S": ["newsworthy"], "A": ["general", "irrelevant", "old", "past", "unrestricted"]}

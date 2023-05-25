@@ -1,1 +1,1 @@
-{"index": 188657, "D": "a person who hates, dislikes, or distrusts most others; an antisocial, cynical, or unfriendly person", "S": ["cynic ", "doubter ", "egoist ", "egotist ", "hater ", "loner ", "misanthropist ", "recluse ", "skeptic "], "A": ["believer "]}
+{"index": 188657, "D": "a person who hates, dislikes, or distrusts most others; an antisocial, cynical, or unfriendly person", "S": ["cynic", "doubter", "egoist", "egotist", "hater", "loner", "misanthropist", "recluse", "skeptic"], "A": ["believer"]}

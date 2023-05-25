@@ -1,1 +1,1 @@
-{"index": 204674, "D": "the act or practice of indulging;  gratification of desire.", "S": ["abstinence ", "avoidance ", "self-control ", "self-denial ", "self-restraint ", "sobriety "], "A": ["self-indulgence "]}
+{"index": 204674, "D": "the act or practice of indulging;  gratification of desire.", "S": ["abstinence", "avoidance", "self-control", "self-denial", "self-restraint", "sobriety"], "A": ["self-indulgence"]}

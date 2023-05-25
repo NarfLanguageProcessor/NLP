@@ -1,1 +1,1 @@
-{"index": 82000, "D": "the act of deranging. ", "S": ["disorder ", "jumble ", "muddle "], "A": ["order ", "organization "]}
+{"index": 82000, "D": "the act of deranging. ", "S": ["disorder", "jumble", "muddle"], "A": ["order", "organization"]}

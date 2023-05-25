@@ -1,1 +1,1 @@
-{"index": 21674, "D": "to agree or concur; subscribe to (often followed by to)", "S": ["acquiescing ", "nonresistant ", "resigned ", "submissive ", "unresistant ", "yielding "], "A": []}
+{"index": 21674, "D": "to agree or concur; subscribe to (often followed by to)", "S": ["acquiescing", "nonresistant", "resigned", "submissive", "unresistant", "yielding"], "A": []}

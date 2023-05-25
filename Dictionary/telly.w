@@ -1,1 +1,1 @@
-{"index": 318361, "D": "television. ", "S": ["TV ", "TV set ", "idiot box ", "small screen ", "television ", "the box ", "the tube "], "A": []}
+{"index": 318361, "D": "television. ", "S": ["TV", "TV set", "idiot box", "small screen", "television", "the box", "the tube"], "A": []}

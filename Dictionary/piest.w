@@ -1,1 +1,1 @@
-{"index": 236280, "D": [], "S": ["cake ", "candy ", "confection ", "cookie ", "fruit ", "ice cream ", "pastry ", "sweet "], "A": []}
+{"index": 236280, "D": [], "S": ["cake", "candy", "confection", "cookie", "fruit", "ice cream", "pastry", "sweet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 100602, "D": "to experience with joy; take pleasure in", "S": ["purchased "], "A": ["lost "]}
+{"index": 100602, "D": "to experience with joy; take pleasure in", "S": ["purchased"], "A": ["lost"]}

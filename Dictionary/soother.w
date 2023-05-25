@@ -1,1 +1,1 @@
-{"index": 297363, "D": "truth, reality, or fact.", "S": ["anesthetic ", "anodyne ", "painkiller "], "A": []}
+{"index": 297363, "D": "truth, reality, or fact.", "S": ["anesthetic", "anodyne", "painkiller"], "A": []}

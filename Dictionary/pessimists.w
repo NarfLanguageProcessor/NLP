@@ -1,1 +1,1 @@
-{"index": 232259, "D": "a person who habitually sees or anticipates the worst or is disposed to be gloomy.", "S": ["cynic ", "worrier "], "A": ["optimist "]}
+{"index": 232259, "D": "a person who habitually sees or anticipates the worst or is disposed to be gloomy.", "S": ["cynic", "worrier"], "A": ["optimist"]}

@@ -1,1 +1,1 @@
-{"index": 149161, "D": "not proper;  not strictly belonging, applicable, correct, etc.; erroneous", "S": ["clumsily ", "inadequately ", "inappropriately "], "A": []}
+{"index": 149161, "D": "not proper;  not strictly belonging, applicable, correct, etc.; erroneous", "S": ["clumsily", "inadequately", "inappropriately"], "A": []}

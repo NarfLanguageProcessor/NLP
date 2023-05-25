@@ -1,1 +1,1 @@
-{"index": 124249, "D": "to begin to grow or develop.", "S": ["burgeoning ", "fledgling ", "growing ", "incipient ", "nascent ", "promising "], "A": ["dying ", "shrinking ", "withering "]}
+{"index": 124249, "D": "to begin to grow or develop.", "S": ["burgeoning", "fledgling", "growing", "incipient", "nascent", "promising"], "A": ["dying", "shrinking", "withering"]}

@@ -1,1 +1,1 @@
-{"index": 5297, "D": "to act on; produce an effect or change in", "S": ["emotionality ", "flexibility ", "impressionability ", "perceptivity ", "plasticity ", "pliancy ", "sensibility ", "sensitiveness ", "sensitivity ", "sentimentality ", "susceptibleness ", "tenderness "], "A": []}
+{"index": 5297, "D": "to act on; produce an effect or change in", "S": ["emotionality", "flexibility", "impressionability", "perceptivity", "plasticity", "pliancy", "sensibility", "sensitiveness", "sensitivity", "sentimentality", "susceptibleness", "tenderness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 111214, "D": "a person who practices the art of fencing  with a sword, foil, etc.", "S": ["dueler ", "gladiator "], "A": []}
+{"index": 111214, "D": "a person who practices the art of fencing  with a sword, foil, etc.", "S": ["dueler", "gladiator"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 36932, "D": "a piece of wood sawed thin, and of considerable length and breadth compared with the thickness.", "S": ["panel "], "A": ["individual ", "one "]}
+{"index": 36932, "D": "a piece of wood sawed thin, and of considerable length and breadth compared with the thickness.", "S": ["panel"], "A": ["individual", "one"]}

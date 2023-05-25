@@ -1,0 +1,1 @@
+{"index": 38025, "D": "any person or thing", "S": [], "A": []}

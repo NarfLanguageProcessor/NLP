@@ -1,1 +1,0 @@
-{"index": 283332, "D": "any of various instruments for measuring and recording the vibrations of earthquakes.", "S": [], "A": []}

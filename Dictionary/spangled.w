@@ -1,1 +1,0 @@
-{"index": 298327, "D": "a small, thin, often circular piece of glittering metal or other material, used especially for decorating garments.", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}

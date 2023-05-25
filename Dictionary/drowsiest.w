@@ -1,1 +1,1 @@
-{"index": 93467, "D": "half-asleep; sleepy.", "S": ["dazed ", "lethargic "], "A": ["alert ", "awake ", "energized ", "lively "]}
+{"index": 93467, "D": "half-asleep; sleepy.", "S": ["dazed", "lethargic"], "A": ["alert", "awake", "energized", "lively"]}

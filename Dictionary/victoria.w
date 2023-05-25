@@ -1,1 +1,1 @@
-{"index": 359457, "D": "the ancient Roman goddess of victory, identified with the Greek goddess Nike.", "S": ["bus ", "car ", "chaise ", "charabanc ", "perambulator ", "stage ", "train ", "vehicle "], "A": ["player ", "pupil ", "student "]}
+{"index": 359457, "D": "the ancient Roman goddess of victory, identified with the Greek goddess Nike.", "S": ["bus", "car", "chaise", "charabanc", "perambulator", "stage", "train", "vehicle"], "A": ["player", "pupil", "student"]}

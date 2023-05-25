@@ -1,1 +1,1 @@
-{"index": 196218, "D": "undergoing or resulting from mutation. ", "S": ["freak "], "A": ["sameness "]}
+{"index": 196218, "D": "undergoing or resulting from mutation. ", "S": ["freak"], "A": ["sameness"]}

@@ -1,1 +1,1 @@
-{"index": 344418, "D": "deviating in direction from the horizontal or vertical; sloping.", "S": ["disinclined "], "A": ["bent ", "disposed ", "healthy ", "inclined ", "tending ", "well ", "willing "]}
+{"index": 344418, "D": "deviating in direction from the horizontal or vertical; sloping.", "S": ["disinclined"], "A": ["bent", "disposed", "healthy", "inclined", "tending", "well", "willing"]}

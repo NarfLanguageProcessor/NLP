@@ -1,1 +1,1 @@
-{"index": 317443, "D": "the act or profession of a person who teaches. ", "S": ["coaching ", "cultivation ", "culture ", "discipline ", "guidance ", "instruction ", "learning ", "reading ", "schooling ", "training ", "tutoring "], "A": ["ignorance ", "neglect "]}
+{"index": 317443, "D": "the act or profession of a person who teaches. ", "S": ["coaching", "cultivation", "culture", "discipline", "guidance", "instruction", "learning", "reading", "schooling", "training", "tutoring"], "A": ["ignorance", "neglect"]}

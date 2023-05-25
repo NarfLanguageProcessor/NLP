@@ -1,1 +1,1 @@
-{"index": 75222, "D": "the material forming a curb,  as along a street.", "S": ["covering up ", "holding back ", "quelling ", "repressing ", "repressive ", "silencing ", "stifling ", "subduing ", "withholding "], "A": []}
+{"index": 75222, "D": "the material forming a curb,  as along a street.", "S": ["covering up", "holding back", "quelling", "repressing", "repressive", "silencing", "stifling", "subduing", "withholding"], "A": []}

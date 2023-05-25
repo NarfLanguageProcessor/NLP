@@ -1,1 +1,1 @@
-{"index": 257625, "D": "a square dance for four couples, consisting of five parts or movements, each complete in itself.", "S": ["barn dance ", "country dance ", "hoedown "], "A": []}
+{"index": 257625, "D": "a square dance for four couples, consisting of five parts or movements, each complete in itself.", "S": ["barn dance", "country dance", "hoedown"], "A": []}

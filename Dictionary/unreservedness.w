@@ -1,1 +1,1 @@
-{"index": 349693, "D": "not restricted; without reservation; full; entire; unqualified", "S": ["aplomb ", "composure ", "dexterity ", "efficiency ", "familiarity ", "flexibility ", "fluency ", "nonchalance ", "poise ", "quickness ", "simplicity "], "A": ["inability "]}
+{"index": 349693, "D": "not restricted; without reservation; full; entire; unqualified", "S": ["aplomb", "composure", "dexterity", "efficiency", "familiarity", "flexibility", "fluency", "nonchalance", "poise", "quickness", "simplicity"], "A": ["inability"]}

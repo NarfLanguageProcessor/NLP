@@ -1,1 +1,1 @@
-{"index": 364578, "D": "to breathe with difficulty and with a whistling sound", "S": ["cough ", "gasp ", "hiss ", "puff ", "snore "], "A": []}
+{"index": 364578, "D": "to breathe with difficulty and with a whistling sound", "S": ["cough", "gasp", "hiss", "puff", "snore"], "A": []}

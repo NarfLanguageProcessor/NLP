@@ -1,1 +1,1 @@
-{"index": 151684, "D": "unyielding; unalterable", "S": ["implacable ", "inescapable ", "merciless ", "relentless ", "unrelenting "], "A": ["kind ", "merciful ", "nice ", "sympathetic "]}
+{"index": 151684, "D": "unyielding; unalterable", "S": ["implacable", "inescapable", "merciless", "relentless", "unrelenting"], "A": ["kind", "merciful", "nice", "sympathetic"]}

@@ -1,1 +1,1 @@
-{"index": 313717, "D": "to believe to be guilty, false, counterfeit, undesirable, defective, bad, etc., with little or no proof", "S": ["imagined "], "A": []}
+{"index": 313717, "D": "to believe to be guilty, false, counterfeit, undesirable, defective, bad, etc., with little or no proof", "S": ["imagined"], "A": []}

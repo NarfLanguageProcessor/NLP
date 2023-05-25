@@ -1,1 +1,1 @@
-{"index": 210409, "D": "to dominate or preoccupy the thoughts, feelings, or desires of (a person); beset, trouble, or haunt persistently or abnormally", "S": ["beset ", "consume ", "dominate ", "engross ", "grip ", "harass ", "haunt ", "infatuate ", "torment "], "A": []}
+{"index": 210409, "D": "to dominate or preoccupy the thoughts, feelings, or desires of (a person); beset, trouble, or haunt persistently or abnormally", "S": ["beset", "consume", "dominate", "engross", "grip", "harass", "haunt", "infatuate", "torment"], "A": []}

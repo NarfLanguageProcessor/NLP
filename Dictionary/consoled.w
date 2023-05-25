@@ -1,1 +1,1 @@
-{"index": 66893, "D": "to alleviate or lessen the grief, sorrow, or disappointment of; give solace or comfort", "S": ["reassured ", "relaxed ", "satisfied "], "A": ["distraught ", "sad ", "worried "]}
+{"index": 66893, "D": "to alleviate or lessen the grief, sorrow, or disappointment of; give solace or comfort", "S": ["reassured", "relaxed", "satisfied"], "A": ["distraught", "sad", "worried"]}

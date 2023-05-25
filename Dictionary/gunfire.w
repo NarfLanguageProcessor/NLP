@@ -1,1 +1,1 @@
-{"index": 131350, "D": "the firing  of a gun  or guns. ", "S": ["artillery ", "barrage ", "blast ", "bombardment ", "burst ", "detonation ", "firing ", "shooting ", "thunder ", "volley "], "A": []}
+{"index": 131350, "D": "the firing  of a gun  or guns. ", "S": ["artillery", "barrage", "blast", "bombardment", "burst", "detonation", "firing", "shooting", "thunder", "volley"], "A": []}

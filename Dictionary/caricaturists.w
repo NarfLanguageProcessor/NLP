@@ -1,1 +1,1 @@
-{"index": 48028, "D": "a picture, description, etc., ludicrously exaggerating the peculiarities or defects of persons or things", "S": ["artist ", "illustrator "], "A": []}
+{"index": 48028, "D": "a picture, description, etc., ludicrously exaggerating the peculiarities or defects of persons or things", "S": ["artist", "illustrator"], "A": []}

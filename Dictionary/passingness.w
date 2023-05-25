@@ -1,1 +1,0 @@
-{"index": 227330, "D": "going by or past; elapsing", "S": [], "A": []}

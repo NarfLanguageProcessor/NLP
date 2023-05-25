@@ -1,1 +1,1 @@
-{"index": 153125, "D": [], "S": ["childlike ", "gullible ", "ignorant ", "innocuous ", "wide-eyed "], "A": ["knowledgeable ", "untrusting ", "wise ", "dishonest ", "sophisticated ", "unclear "]}
+{"index": 153125, "D": [], "S": ["childlike", "gullible", "ignorant", "innocuous", "wide-eyed"], "A": ["knowledgeable", "untrusting", "wise", "dishonest", "sophisticated", "unclear"]}

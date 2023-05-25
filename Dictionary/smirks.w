@@ -1,1 +1,1 @@
-{"index": 294921, "D": "to smile in an affected, smug, or offensively familiar way.", "S": ["grin ", "sneer "], "A": []}
+{"index": 294921, "D": "to smile in an affected, smug, or offensively familiar way.", "S": ["grin", "sneer"], "A": []}

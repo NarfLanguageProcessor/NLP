@@ -1,1 +1,1 @@
-{"index": 69523, "D": "of, for, or belonging to a corporation  or corporations", "S": ["collective ", "joint "], "A": ["separate "]}
+{"index": 69523, "D": "of, for, or belonging to a corporation  or corporations", "S": ["collective", "joint"], "A": ["separate"]}

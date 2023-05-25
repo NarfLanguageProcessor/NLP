@@ -1,1 +1,0 @@
-{"index": 312829, "D": "the offense of acting to overthrow one's government or to harm or kill its sovereign.", "S": [], "A": []}

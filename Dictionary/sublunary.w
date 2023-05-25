@@ -1,1 +1,1 @@
-{"index": 308452, "D": "situated beneath the moon or between the earth and the moon.", "S": ["carnal ", "mundane ", "physical ", "temporal ", "terrestrial ", "worldly "], "A": ["heavenly ", "immaterial ", "mental ", "otherworldly ", "spiritual "]}
+{"index": 308452, "D": "situated beneath the moon or between the earth and the moon.", "S": ["carnal", "mundane", "physical", "temporal", "terrestrial", "worldly"], "A": ["heavenly", "immaterial", "mental", "otherworldly", "spiritual"]}

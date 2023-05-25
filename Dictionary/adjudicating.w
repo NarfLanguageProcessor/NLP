@@ -1,0 +1,1 @@
+{"index": 4036, "D": "to pronounce or decree by judicial sentence.", "S": ["arbitrate"], "A": ["hesitate"]}

@@ -1,1 +1,1 @@
-{"index": 154788, "D": "pertaining to or taking place between two or more cultures", "S": ["universally "], "A": []}
+{"index": 154788, "D": "pertaining to or taking place between two or more cultures", "S": ["universally"], "A": []}

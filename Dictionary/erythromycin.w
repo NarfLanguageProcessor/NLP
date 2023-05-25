@@ -1,1 +1,1 @@
-{"index": 103816, "D": "an antibiotic, C37H67NO13, produced by an actinomycete, Streptomyces erythraeus, used chiefly in the treatment of diseases caused by many Gram-positive and some Gram-negative organisms.", "S": ["penicillin "], "A": []}
+{"index": 103816, "D": "an antibiotic, C37H67NO13, produced by an actinomycete, Streptomyces erythraeus, used chiefly in the treatment of diseases caused by many Gram-positive and some Gram-negative organisms.", "S": ["penicillin"], "A": []}

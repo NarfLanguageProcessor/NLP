@@ -1,1 +1,0 @@
-{"index": 250345, "D": "(especially in retail stores) an employee who establishes prices  at which articles will be sold, or one who affixes price  tags to merchandise.", "S": [], "A": []}

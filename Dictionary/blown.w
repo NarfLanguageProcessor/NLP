@@ -1,1 +1,1 @@
-{"index": 36631, "D": "inflated; swollen; expanded", "S": ["blasted ", "fanned ", "fluttered ", "puffed ", "wafted ", "whirled ", "whisked "], "A": []}
+{"index": 36631, "D": "inflated; swollen; expanded", "S": ["blasted", "fanned", "fluttered", "puffed", "wafted", "whirled", "whisked"], "A": []}

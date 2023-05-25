@@ -1,1 +1,1 @@
-{"index": 36345, "D": "a globule of liquid; bubble.", "S": ["bloat ", "protrude ", "swell "], "A": ["shrink ", "tighten ", "abridge ", "compress ", "contract ", "lessen ", "lower ", "reduce "]}
+{"index": 36345, "D": "a globule of liquid; bubble.", "S": ["bloat", "protrude", "swell"], "A": ["shrink", "tighten", "abridge", "compress", "contract", "lessen", "lower", "reduce"]}

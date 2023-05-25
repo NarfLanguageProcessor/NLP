@@ -1,1 +1,1 @@
-{"index": 109678, "D": "characterized by or showing fancy;  capricious or whimsical in appearance", "S": ["playfulness "], "A": []}
+{"index": 109678, "D": "characterized by or showing fancy;  capricious or whimsical in appearance", "S": ["playfulness"], "A": []}

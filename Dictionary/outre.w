@@ -1,1 +1,1 @@
-{"index": 217246, "D": "passing the bounds of what is usual or considered proper; unconventional; bizarre. ", "S": ["bizarre ", "extravagant ", "strange ", "unconventional "], "A": []}
+{"index": 217246, "D": "passing the bounds of what is usual or considered proper; unconventional; bizarre. ", "S": ["bizarre", "extravagant", "strange", "unconventional"], "A": []}

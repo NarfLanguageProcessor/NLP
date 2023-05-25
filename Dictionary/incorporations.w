@@ -1,1 +1,1 @@
-{"index": 150371, "D": "the act of incorporating  or the state of being incorporated. ", "S": ["embodiment ", "fusion "], "A": ["disbanding ", "dissolution ", "division "]}
+{"index": 150371, "D": "the act of incorporating  or the state of being incorporated. ", "S": ["embodiment", "fusion"], "A": ["disbanding", "dissolution", "division"]}

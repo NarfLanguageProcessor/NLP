@@ -1,1 +1,1 @@
-{"index": 3990, "D": "lying near, close, or contiguous; adjoining; neighboring", "S": ["adjoining ", "bordering ", "contiguous ", "neighboring "], "A": ["divided ", "separate "]}
+{"index": 3990, "D": "lying near, close, or contiguous; adjoining; neighboring", "S": ["adjoining", "bordering", "contiguous", "neighboring"], "A": ["divided", "separate"]}

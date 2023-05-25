@@ -1,1 +1,1 @@
-{"index": 135204, "D": "a row of bushes or small trees planted close together, especially when forming a fence or boundary; hedgerow", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 135204, "D": "a row of bushes or small trees planted close together, especially when forming a fence or boundary; hedgerow", "S": ["belted", "bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

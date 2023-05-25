@@ -1,1 +1,1 @@
-{"index": 94791, "D": "an ornament worn on or hanging from the lobe of the ear. ", "S": ["bracelet ", "brooch ", "costume ", "gem ", "glass ", "gold ", "jewel ", "knickknack ", "necklace ", "ornament ", "pendant ", "silver ", "tiara ", "treasure ", "trinket "], "A": ["plainness "]}
+{"index": 94791, "D": "an ornament worn on or hanging from the lobe of the ear. ", "S": ["bracelet", "brooch", "costume", "gem", "glass", "gold", "jewel", "knickknack", "necklace", "ornament", "pendant", "silver", "tiara", "treasure", "trinket"], "A": ["plainness"]}

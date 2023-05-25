@@ -1,1 +1,1 @@
-{"index": 169482, "D": "landing craft. ", "S": ["L/C ", "banker's credit ", "circular note ", "credit memorandum ", "credit slip ", "lettre de creance "], "A": []}
+{"index": 169482, "D": "landing craft. ", "S": ["L/C", "banker's credit", "circular note", "credit memorandum", "credit slip", "lettre de creance"], "A": []}

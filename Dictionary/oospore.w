@@ -1,1 +1,1 @@
-{"index": 213121, "D": "a fertilized egg within an oogonium.", "S": ["bud ", "cackle ", "germ ", "nucleus ", "ovum ", "roe ", "rudiment ", "spawn "], "A": []}
+{"index": 213121, "D": "a fertilized egg within an oogonium.", "S": ["bud", "cackle", "germ", "nucleus", "ovum", "roe", "rudiment", "spawn"], "A": []}

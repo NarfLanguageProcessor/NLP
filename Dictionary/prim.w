@@ -1,1 +1,1 @@
-{"index": 250469, "D": "formally precise or proper, as persons or behavior; stiffly neat.", "S": ["demure "], "A": ["untidy "]}
+{"index": 250469, "D": "formally precise or proper, as persons or behavior; stiffly neat.", "S": ["demure"], "A": ["untidy"]}

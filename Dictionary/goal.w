@@ -1,1 +1,1 @@
-{"index": 127172, "D": "the result or achievement toward which effort is directed; aim; end", "S": ["ambition ", "intention ", "objective ", "target "], "A": ["beginning ", "start "]}
+{"index": 127172, "D": "the result or achievement toward which effort is directed; aim; end", "S": ["ambition", "intention", "objective", "target"], "A": ["beginning", "start"]}

@@ -1,1 +1,1 @@
-{"index": 111441, "D": "a ferocious  quality or state; savage fierceness.", "S": ["barbarity ", "bloodthirstiness ", "brutality ", "cruelty ", "ferociousness ", "murderousness ", "savagery ", "viciousness ", "violence ", "wildness "], "A": []}
+{"index": 111441, "D": "a ferocious  quality or state; savage fierceness.", "S": ["barbarity", "bloodthirstiness", "brutality", "cruelty", "ferociousness", "murderousness", "savagery", "viciousness", "violence", "wildness"], "A": []}

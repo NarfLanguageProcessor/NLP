@@ -1,1 +1,1 @@
-{"index": 272766, "D": "a shoulder firearm with spiral grooves cut in the inner surface of the gun barrel to give the bullet a rotatory motion and thus a more precise trajectory.", "S": ["rip "], "A": ["build ", "give ", "offer ", "protect ", "receive ", "save "]}
+{"index": 272766, "D": "a shoulder firearm with spiral grooves cut in the inner surface of the gun barrel to give the bullet a rotatory motion and thus a more precise trajectory.", "S": ["rip"], "A": ["build", "give", "offer", "protect", "receive", "save"]}

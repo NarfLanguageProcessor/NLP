@@ -1,1 +1,1 @@
-{"index": 135263, "D": "to give careful attention to", "S": ["accepting ", "attending ", "concentrating ", "hearkening ", "interested ", "receiving "], "A": ["inattentive ", "indifferent "]}
+{"index": 135263, "D": "to give careful attention to", "S": ["accepting", "attending", "concentrating", "hearkening", "interested", "receiving"], "A": ["inattentive", "indifferent"]}

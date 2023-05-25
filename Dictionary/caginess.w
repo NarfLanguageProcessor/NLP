@@ -1,1 +1,1 @@
-{"index": 44533, "D": "cautious, wary, or shrewd", "S": ["artifice ", "craftiness ", "foxiness ", "guile ", "slyness ", "sneakiness ", "wiliness "], "A": ["artlessness ", "frankness ", "honesty ", "openness ", "sincerity "]}
+{"index": 44533, "D": "cautious, wary, or shrewd", "S": ["artifice", "craftiness", "foxiness", "guile", "slyness", "sneakiness", "wiliness"], "A": ["artlessness", "frankness", "honesty", "openness", "sincerity"]}

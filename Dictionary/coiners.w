@@ -1,1 +1,1 @@
-{"index": 62501, "D": "a piece of metal stamped and issued by the authority of a government for use as money.", "S": ["counterfeiter ", "fabulist ", "faker ", "falsifier ", "fibber ", "liar ", "prevaricator ", "storyteller "], "A": []}
+{"index": 62501, "D": "a piece of metal stamped and issued by the authority of a government for use as money.", "S": ["counterfeiter", "fabulist", "faker", "falsifier", "fibber", "liar", "prevaricator", "storyteller"], "A": []}

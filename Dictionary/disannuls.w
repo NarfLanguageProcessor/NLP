@@ -1,1 +1,1 @@
-{"index": 87021, "D": "to annul  utterly; make void", "S": ["abolish ", "delete ", "eliminate ", "expunge ", "negate ", "obliterate ", "wipe out "], "A": ["build ", "construct ", "create ", "ratify ", "allow ", "keep ", "lose ", "permit ", "retain ", "validate "]}
+{"index": 87021, "D": "to annul  utterly; make void", "S": ["abolish", "delete", "eliminate", "expunge", "negate", "obliterate", "wipe out"], "A": ["build", "construct", "create", "ratify", "allow", "keep", "lose", "permit", "retain", "validate"]}

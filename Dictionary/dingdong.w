@@ -1,1 +1,1 @@
-{"index": 86100, "D": "the sound of a bell.", "S": ["capricious ", "giddy ", "unstable "], "A": ["sensible ", "steady "]}
+{"index": 86100, "D": "the sound of a bell.", "S": ["capricious", "giddy", "unstable"], "A": ["sensible", "steady"]}

@@ -1,1 +1,1 @@
-{"index": 120648, "D": "a stout fabric of cotton and flax.", "S": ["pontifical ", "ranting "], "A": []}
+{"index": 120648, "D": "a stout fabric of cotton and flax.", "S": ["pontifical", "ranting"], "A": []}

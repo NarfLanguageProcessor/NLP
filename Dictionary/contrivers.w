@@ -1,1 +1,1 @@
-{"index": 67795, "D": "to plan with ingenuity; devise; invent", "S": ["architect ", "builder ", "designer ", "director ", "inventor ", "manager ", "planner ", "surveyor "], "A": []}
+{"index": 67795, "D": "to plan with ingenuity; devise; invent", "S": ["architect", "builder", "designer", "director", "inventor", "manager", "planner", "surveyor"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 172184, "D": "the state of being likely  or probable; probability.", "S": ["possibility ", "probability ", "prospect ", "tendency ", "trend "], "A": ["unlikelihood "]}
+{"index": 172184, "D": "the state of being likely  or probable; probability.", "S": ["possibility", "probability", "prospect", "tendency", "trend"], "A": ["unlikelihood"]}

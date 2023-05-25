@@ -1,1 +1,1 @@
-{"index": 260610, "D": "a number of persons forming a separate class in a social hierarchy or in any graded body.", "S": ["common run ", "common soldiery ", "common sort ", "forces ", "grass roots ", "majority ", "plebeians ", "proletariat "], "A": []}
+{"index": 260610, "D": "a number of persons forming a separate class in a social hierarchy or in any graded body.", "S": ["common run", "common soldiery", "common sort", "forces", "grass roots", "majority", "plebeians", "proletariat"], "A": []}

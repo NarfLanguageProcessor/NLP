@@ -1,1 +1,1 @@
-{"index": 109636, "D": "her famously relaxed manner", "S": ["magnificently ", "splendidly "], "A": ["awkwardly ", "badly ", "poorly "]}
+{"index": 109636, "D": "her famously relaxed manner", "S": ["magnificently", "splendidly"], "A": ["awkwardly", "badly", "poorly"]}

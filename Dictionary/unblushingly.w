@@ -1,1 +1,1 @@
-{"index": 336009, "D": "showing no shame or remorse; shameless", "S": ["openly ", "unabashedly "], "A": []}
+{"index": 336009, "D": "showing no shame or remorse; shameless", "S": ["openly", "unabashedly"], "A": []}

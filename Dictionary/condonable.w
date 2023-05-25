@@ -1,1 +1,1 @@
-{"index": 65661, "D": "to disregard or overlook (something illegal, objectionable, or the like)", "S": ["logical ", "permissible ", "plausible ", "tenable ", "valid "], "A": ["improbable ", "irrational ", "unbelievable ", "unlikely ", "unreasonable "]}
+{"index": 65661, "D": "to disregard or overlook (something illegal, objectionable, or the like)", "S": ["logical", "permissible", "plausible", "tenable", "valid"], "A": ["improbable", "irrational", "unbelievable", "unlikely", "unreasonable"]}

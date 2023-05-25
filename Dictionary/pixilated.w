@@ -1,1 +1,1 @@
-{"index": 238487, "D": "slightly eccentric or mentally disordered.", "S": ["capricious ", "daft ", "impish ", "pixyish ", "prankish ", "puckish ", "silly ", "touched ", "whimsical "], "A": []}
+{"index": 238487, "D": "slightly eccentric or mentally disordered.", "S": ["capricious", "daft", "impish", "pixyish", "prankish", "puckish", "silly", "touched", "whimsical"], "A": []}

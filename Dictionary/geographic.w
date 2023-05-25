@@ -1,1 +1,1 @@
-{"index": 123883, "D": "of or relating to geography. ", "S": ["geological "], "A": []}
+{"index": 123883, "D": "of or relating to geography. ", "S": ["geological"], "A": []}

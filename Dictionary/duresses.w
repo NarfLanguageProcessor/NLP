@@ -1,1 +1,1 @@
-{"index": 94443, "D": "compulsion by threat or force; coercion; constraint.", "S": ["coercion "], "A": ["freedom ", "independence ", "liberation ", "liberty ", "license ", "peace ", "powerlessness ", "release ", "weakness "]}
+{"index": 94443, "D": "compulsion by threat or force; coercion; constraint.", "S": ["coercion"], "A": ["freedom", "independence", "liberation", "liberty", "license", "peace", "powerlessness", "release", "weakness"]}

@@ -1,1 +1,1 @@
-{"index": 347526, "D": "(of milk, beer, etc) not subjected to pasteurization", "S": ["basic ", "coarse ", "crude ", "fresh ", "natural ", "organic ", "rough ", "uncooked ", "undercooked ", "unprocessed ", "untreated "], "A": ["cooked ", "done ", "well-done "]}
+{"index": 347526, "D": "(of milk, beer, etc) not subjected to pasteurization", "S": ["basic", "coarse", "crude", "fresh", "natural", "organic", "rough", "uncooked", "undercooked", "unprocessed", "untreated"], "A": ["cooked", "done", "well-done"]}

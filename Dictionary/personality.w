@@ -1,1 +1,1 @@
-{"index": 231966, "D": "the visible aspect of one's character as it impresses others", "S": ["charisma ", "charm ", "identity ", "makeup ", "nature ", "psyche ", "self ", "temper ", "temperament "], "A": []}
+{"index": 231966, "D": "the visible aspect of one's character as it impresses others", "S": ["charisma", "charm", "identity", "makeup", "nature", "psyche", "self", "temper", "temperament"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 55360, "D": "tending to choke", "S": ["tight "], "A": ["cool ", "dry "]}
+{"index": 55360, "D": "tending to choke", "S": ["tight"], "A": ["cool", "dry"]}

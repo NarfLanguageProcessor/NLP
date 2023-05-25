@@ -1,1 +1,1 @@
-{"index": 19010, "D": "of or relating to the principles of architecture.", "S": ["building ", "constructive ", "engineered "], "A": []}
+{"index": 19010, "D": "of or relating to the principles of architecture.", "S": ["building", "constructive", "engineered"], "A": []}

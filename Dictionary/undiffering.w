@@ -1,1 +1,0 @@
-{"index": 340340, "D": "to be unlike, dissimilar, or distinct in nature or qualities (often followed by from)", "S": [], "A": []}

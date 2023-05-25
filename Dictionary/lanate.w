@@ -1,1 +1,1 @@
-{"index": 167858, "D": "woolly; covered with something resembling wool.", "S": ["furry ", "fuzzy ", "shaggy ", "unshaven ", "woolly "], "A": ["smooth "]}
+{"index": 167858, "D": "woolly; covered with something resembling wool.", "S": ["furry", "fuzzy", "shaggy", "unshaven", "woolly"], "A": ["smooth"]}

@@ -1,1 +1,1 @@
-{"index": 331365, "D": "of or relating to trousers or a trouser", "S": ["knickers ", "slacks "], "A": []}
+{"index": 331365, "D": "of or relating to trousers or a trouser", "S": ["knickers", "slacks"], "A": []}

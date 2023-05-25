@@ -1,1 +1,1 @@
-{"index": 229070, "D": "to look narrowly or searchingly, as in the effort to discern clearly.", "S": ["become visible ", "crop up ", "emerge ", "open to view ", "peep out ", "peer out ", "show partially "], "A": []}
+{"index": 229070, "D": "to look narrowly or searchingly, as in the effort to discern clearly.", "S": ["become visible", "crop up", "emerge", "open to view", "peep out", "peer out", "show partially"], "A": []}

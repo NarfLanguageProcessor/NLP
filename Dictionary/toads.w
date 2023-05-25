@@ -1,1 +1,1 @@
-{"index": 324894, "D": "Compare frog1 (def. 1). ", "S": ["frog "], "A": []}
+{"index": 324894, "D": "Compare frog1 (def. 1). ", "S": ["frog"], "A": []}

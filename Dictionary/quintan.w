@@ -1,1 +1,1 @@
-{"index": 258882, "D": "(of a fever, ague, etc.) characterized by paroxysms that recur every fifth day.", "S": ["quinary ", "quinquennial "], "A": []}
+{"index": 258882, "D": "(of a fever, ague, etc.) characterized by paroxysms that recur every fifth day.", "S": ["quinary", "quinquennial"], "A": []}

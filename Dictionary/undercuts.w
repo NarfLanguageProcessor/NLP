@@ -1,1 +1,1 @@
-{"index": 339063, "D": "to cut under or beneath.", "S": ["undermine "], "A": ["fill "]}
+{"index": 339063, "D": "to cut under or beneath.", "S": ["undermine"], "A": ["fill"]}

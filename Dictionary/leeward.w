@@ -1,1 +1,1 @@
-{"index": 169975, "D": "pertaining to, situated in, or moving toward the quarter toward which the wind blows (opposed to windward).", "S": ["calm ", "quiet ", "safe ", "smooth ", "still "], "A": ["agitated ", "rough "]}
+{"index": 169975, "D": "pertaining to, situated in, or moving toward the quarter toward which the wind blows (opposed to windward).", "S": ["calm", "quiet", "safe", "smooth", "still"], "A": ["agitated", "rough"]}

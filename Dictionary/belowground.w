@@ -1,1 +1,1 @@
-{"index": 31288, "D": "situated beneath the surface of the earth; subterranean.", "S": ["buried ", "covered ", "hypogean ", "hypogeous ", "in the recesses ", "subterranean ", "subterrestrial ", "sunken ", "underfoot "], "A": []}
+{"index": 31288, "D": "situated beneath the surface of the earth; subterranean.", "S": ["buried", "covered", "hypogean", "hypogeous", "in the recesses", "subterranean", "subterrestrial", "sunken", "underfoot"], "A": []}

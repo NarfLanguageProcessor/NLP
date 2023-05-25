@@ -1,1 +1,1 @@
-{"index": 42476, "D": "of relatively large and cumbersome bulk  or size.", "S": ["cumbersome ", "heavy ", "hulking ", "ponderous ", "unwieldy "], "A": ["airy ", "light "]}
+{"index": 42476, "D": "of relatively large and cumbersome bulk  or size.", "S": ["cumbersome", "heavy", "hulking", "ponderous", "unwieldy"], "A": ["airy", "light"]}

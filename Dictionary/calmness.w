@@ -1,1 +1,1 @@
-{"index": 45384, "D": "without rough motion; still or nearly still", "S": ["calm ", "composure ", "patience ", "tranquility "], "A": ["agitation ", "turbulence ", "violence "]}
+{"index": 45384, "D": "without rough motion; still or nearly still", "S": ["calm", "composure", "patience", "tranquility"], "A": ["agitation", "turbulence", "violence"]}

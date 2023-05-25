@@ -1,0 +1,1 @@
+{"index": 16012, "D": "of or belonging to the past; not modern.", "S": ["age", "ancientness", "archaicism", "archaism", "hoariness", "venerableness"], "A": ["convention", "modernity", "newness", "now"]}

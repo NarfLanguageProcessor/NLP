@@ -1,1 +1,1 @@
-{"index": 342358, "D": "in an unflattering light", "S": ["harsh ", "insulting "], "A": ["becoming ", "flattering "]}
+{"index": 342358, "D": "in an unflattering light", "S": ["harsh", "insulting"], "A": ["becoming", "flattering"]}

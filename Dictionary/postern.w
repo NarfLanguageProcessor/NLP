@@ -1,1 +1,1 @@
-{"index": 244096, "D": "a back door or gate.", "S": ["backside ", "extremity ", "hind ", "hindquarters ", "posterior ", "rear ", "reverse ", "stern ", "tail ", "tailpiece "], "A": ["front "]}
+{"index": 244096, "D": "a back door or gate.", "S": ["backside", "extremity", "hind", "hindquarters", "posterior", "rear", "reverse", "stern", "tail", "tailpiece"], "A": ["front"]}

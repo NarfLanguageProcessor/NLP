@@ -1,1 +1,0 @@
-{"index": 194828, "D": "Arab prophet", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92990, "D": "the act of a person or thing that dresses. ", "S": ["filling ", "stuffing "], "A": []}
+{"index": 92990, "D": "the act of a person or thing that dresses. ", "S": ["filling", "stuffing"], "A": []}

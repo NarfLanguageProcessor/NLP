@@ -1,1 +1,1 @@
-{"index": 9641, "D": "a woman who is a graduate or former student of a specific school, college, or university.", "S": ["alum ", "graduate "], "A": ["undergraduate "]}
+{"index": 9641, "D": "a woman who is a graduate or former student of a specific school, college, or university.", "S": ["alum", "graduate"], "A": ["undergraduate"]}

@@ -1,1 +1,1 @@
-{"index": 243730, "D": "a city, town, or other place where ships load or unload.", "S": ["harbor ", "seaport ", "wharf "], "A": []}
+{"index": 243730, "D": "a city, town, or other place where ships load or unload.", "S": ["harbor", "seaport", "wharf"], "A": []}

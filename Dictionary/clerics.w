@@ -1,1 +1,1 @@
-{"index": 59818, "D": "a member of the clergy.", "S": ["priesthood "], "A": []}
+{"index": 59818, "D": "a member of the clergy.", "S": ["priesthood"], "A": []}

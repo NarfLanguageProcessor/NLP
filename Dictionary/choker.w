@@ -1,1 +1,1 @@
-{"index": 55349, "D": "a person or thing that chokes. ", "S": ["necklace ", "pendant ", "rosary "], "A": []}
+{"index": 55349, "D": "a person or thing that chokes. ", "S": ["necklace", "pendant", "rosary"], "A": []}

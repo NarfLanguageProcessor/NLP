@@ -1,1 +1,1 @@
-{"index": 297632, "D": "a society or club of women or girls, especially in a college.", "S": ["association ", "club ", "organization ", "society "], "A": ["fraternity "]}
+{"index": 297632, "D": "a society or club of women or girls, especially in a college.", "S": ["association", "club", "organization", "society"], "A": ["fraternity"]}

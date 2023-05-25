@@ -1,1 +1,1 @@
-{"index": 360094, "D": [], "S": ["celebrity ", "dignitary ", "heavyweight ", "luminary ", "mogul ", "notable ", "personality ", "star ", "superstar ", "worthy "], "A": ["nobody ", "nonentity "]}
+{"index": 360094, "D": [], "S": ["celebrity", "dignitary", "heavyweight", "luminary", "mogul", "notable", "personality", "star", "superstar", "worthy"], "A": ["nobody", "nonentity"]}

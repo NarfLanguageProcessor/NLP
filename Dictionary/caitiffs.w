@@ -1,1 +1,1 @@
-{"index": 44623, "D": "a base, despicable person.", "S": ["dastard ", "louse ", "rat ", "scoundrel "], "A": []}
+{"index": 44623, "D": "a base, despicable person.", "S": ["dastard", "louse", "rat", "scoundrel"], "A": []}

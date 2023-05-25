@@ -1,1 +1,1 @@
-{"index": 36451, "D": "without blood", "S": ["unemotional "], "A": ["blushing ", "caring ", "feeling ", "flushed ", "rosy ", "ruddy ", "sanguine ", "sensitive "]}
+{"index": 36451, "D": "without blood", "S": ["unemotional"], "A": ["blushing", "caring", "feeling", "flushed", "rosy", "ruddy", "sanguine", "sensitive"]}

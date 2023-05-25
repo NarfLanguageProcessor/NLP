@@ -1,1 +1,1 @@
-{"index": 253988, "D": "with a feeling of pleasure or satisfaction over something regarded as highly honorable or creditable to oneself; with pride", "S": ["arrogantly ", "contemptuously ", "haughtily ", "insolently "], "A": []}
+{"index": 253988, "D": "with a feeling of pleasure or satisfaction over something regarded as highly honorable or creditable to oneself; with pride", "S": ["arrogantly", "contemptuously", "haughtily", "insolently"], "A": []}

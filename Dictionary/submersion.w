@@ -1,1 +1,1 @@
-{"index": 308529, "D": "the act of putting oneself or another person or thing under water or into some other enveloping medium", "S": ["dip ", "leap ", "plunge "], "A": ["ascent ", "increase ", "rise "]}
+{"index": 308529, "D": "the act of putting oneself or another person or thing under water or into some other enveloping medium", "S": ["dip", "leap", "plunge"], "A": ["ascent", "increase", "rise"]}

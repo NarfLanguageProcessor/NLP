@@ -1,1 +1,1 @@
-{"index": 337656, "D": "not connected;  not joined together or attached", "S": ["differently ", "independently ", "individually ", "separately ", "singly "], "A": []}
+{"index": 337656, "D": "not connected;  not joined together or attached", "S": ["differently", "independently", "individually", "separately", "singly"], "A": []}

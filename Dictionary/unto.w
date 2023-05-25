@@ -1,1 +1,1 @@
-{"index": 353087, "D": "to (in its various uses, except as the accompaniment of the infinitive).", "S": ["against ", "beside ", "next to ", "till ", "toward ", "until ", "up to "], "A": []}
+{"index": 353087, "D": "to (in its various uses, except as the accompaniment of the infinitive).", "S": ["against", "beside", "next to", "till", "toward", "until", "up to"], "A": []}

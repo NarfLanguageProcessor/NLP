@@ -1,1 +1,1 @@
-{"index": 70239, "D": "a style of dress, including accessories and hairdos, especially that peculiar to a nation, region, group, or historical period.", "S": ["apparel ", "attire ", "dress ", "ensemble ", "fashion ", "garb ", "getup ", "style ", "suit ", "uniform ", "wardrobe "], "A": []}
+{"index": 70239, "D": "a style of dress, including accessories and hairdos, especially that peculiar to a nation, region, group, or historical period.", "S": ["apparel", "attire", "dress", "ensemble", "fashion", "garb", "getup", "style", "suit", "uniform", "wardrobe"], "A": []}

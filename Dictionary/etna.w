@@ -1,1 +1,1 @@
-{"index": 105209, "D": "an active volcano in E Sicily. 10,758 feet (3,280 meters).", "S": ["burner ", "element ", "gas jet ", "heating element ", "jet ", "pilot burner ", "pilot light "], "A": []}
+{"index": 105209, "D": "an active volcano in E Sicily. 10,758 feet (3,280 meters).", "S": ["burner", "element", "gas jet", "heating element", "jet", "pilot burner", "pilot light"], "A": []}

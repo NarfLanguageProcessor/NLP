@@ -1,1 +1,1 @@
-{"index": 270165, "D": "lying on the back; supine.", "S": ["decumbent ", "face down ", "flat ", "horizontal ", "level ", "procumbent ", "prostrate ", "reclining ", "recumbent ", "supine "], "A": ["improbably ", "sitting ", "straight ", "unlikely ", "upright "]}
+{"index": 270165, "D": "lying on the back; supine.", "S": ["decumbent", "face down", "flat", "horizontal", "level", "procumbent", "prostrate", "reclining", "recumbent", "supine"], "A": ["improbably", "sitting", "straight", "unlikely", "upright"]}

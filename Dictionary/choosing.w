@@ -1,1 +1,1 @@
-{"index": 55672, "D": "to select from a number of possibilities; pick by preference", "S": ["culling ", "deciding ", "electing ", "picking ", "separating "], "A": []}
+{"index": 55672, "D": "to select from a number of possibilities; pick by preference", "S": ["culling", "deciding", "electing", "picking", "separating"], "A": []}

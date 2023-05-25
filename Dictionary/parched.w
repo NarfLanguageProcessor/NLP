@@ -1,1 +1,1 @@
-{"index": 226262, "D": "extremely or completely dried, as by heat, sun, or wind", "S": ["arid ", "scorched ", "thirsty ", "withered "], "A": ["moist ", "wet "]}
+{"index": 226262, "D": "extremely or completely dried, as by heat, sun, or wind", "S": ["arid", "scorched", "thirsty", "withered"], "A": ["moist", "wet"]}

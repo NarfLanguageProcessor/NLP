@@ -1,1 +1,1 @@
-{"index": 157862, "D": "Irish (def. 4). ", "S": ["search engine ", "searching "], "A": []}
+{"index": 157862, "D": "Irish (def. 4). ", "S": ["search engine", "searching"], "A": []}

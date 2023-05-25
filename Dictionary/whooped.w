@@ -1,1 +1,0 @@
-{"index": 365325, "D": "a loud cry or shout, as of excitement or joy.", "S": ["boo ", "hoot ", "howl ", "jeer ", "shriek ", "squawk "], "A": ["seriousness "]}

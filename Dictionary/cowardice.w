@@ -1,1 +1,1 @@
-{"index": 71549, "D": "lack of courage to face danger, difficulty, opposition, pain, etc.", "S": ["faintheartedness ", "fear ", "fearfulness ", "funk ", "gutlessness ", "pusillanimity "], "A": []}
+{"index": 71549, "D": "lack of courage to face danger, difficulty, opposition, pain, etc.", "S": ["faintheartedness", "fear", "fearfulness", "funk", "gutlessness", "pusillanimity"], "A": []}

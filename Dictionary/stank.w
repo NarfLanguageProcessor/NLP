@@ -1,1 +1,1 @@
-{"index": 302732, "D": "a simple past tense of stink. ", "S": ["funk ", "offend ", "reek "], "A": ["be good ", "perfume "]}
+{"index": 302732, "D": "a simple past tense of stink. ", "S": ["funk", "offend", "reek"], "A": ["be good", "perfume"]}

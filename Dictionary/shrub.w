@@ -1,1 +1,1 @@
-{"index": 289282, "D": "a woody plant smaller than a tree, usually having multiple permanent stems branching from or near the ground.", "S": ["fern ", "hedge "], "A": []}
+{"index": 289282, "D": "a woody plant smaller than a tree, usually having multiple permanent stems branching from or near the ground.", "S": ["fern", "hedge"], "A": []}

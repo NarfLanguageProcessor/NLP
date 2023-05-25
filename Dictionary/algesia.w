@@ -1,0 +1,1 @@
+{"index": 8076, "D": "sensitivity to pain; hyperesthesia.", "S": [], "A": []}

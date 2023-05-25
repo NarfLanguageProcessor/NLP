@@ -1,1 +1,1 @@
-{"index": 1225, "D": "of or relating to a college, academy, school, or other educational institution", "S": ["collegiate ", "intellectual ", "scholarly ", "scholastic "], "A": ["ignorant ", "ordinary ", "plain ", "practical ", "simple ", "untaught "]}
+{"index": 1225, "D": "of or relating to a college, academy, school, or other educational institution", "S": ["collegiate", "intellectual", "scholarly", "scholastic"], "A": ["ignorant", "ordinary", "plain", "practical", "simple", "untaught"]}

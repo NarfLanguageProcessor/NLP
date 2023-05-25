@@ -1,1 +1,1 @@
-{"index": 130263, "D": "odd or unnatural in shape, appearance, or character; fantastically ugly or absurd; bizarre.", "S": ["heinously ", "hideously "], "A": []}
+{"index": 130263, "D": "odd or unnatural in shape, appearance, or character; fantastically ugly or absurd; bizarre.", "S": ["heinously", "hideously"], "A": []}

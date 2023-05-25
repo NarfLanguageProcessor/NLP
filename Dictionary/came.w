@@ -1,1 +1,1 @@
-{"index": 45629, "D": "simple past tense of come. ", "S": ["arose "], "A": []}
+{"index": 45629, "D": "simple past tense of come. ", "S": ["arose"], "A": []}

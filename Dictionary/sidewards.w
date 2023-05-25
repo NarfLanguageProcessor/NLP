@@ -1,1 +1,1 @@
-{"index": 289865, "D": "directed or moving toward one side. ", "S": ["obliquely ", "sidelong "], "A": []}
+{"index": 289865, "D": "directed or moving toward one side. ", "S": ["obliquely", "sidelong"], "A": []}

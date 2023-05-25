@@ -1,1 +1,1 @@
-{"index": 148506, "D": "of, relating to, or characterized by defects or weaknesses", "S": ["immature ", "incomplete ", "inexact ", "rudimentary ", "sketchy ", "warped "], "A": ["complete ", "developed ", "finished ", "happy ", "healthy ", "moral ", "well "]}
+{"index": 148506, "D": "of, relating to, or characterized by defects or weaknesses", "S": ["immature", "incomplete", "inexact", "rudimentary", "sketchy", "warped"], "A": ["complete", "developed", "finished", "happy", "healthy", "moral", "well"]}

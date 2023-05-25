@@ -1,1 +1,1 @@
-{"index": 285957, "D": "a complimentary performance of vocal or instrumental music in the open air at night, as by a lover under the window of his lady.", "S": ["divertimento ", "nocturne ", "song "], "A": []}
+{"index": 285957, "D": "a complimentary performance of vocal or instrumental music in the open air at night, as by a lover under the window of his lady.", "S": ["divertimento", "nocturne", "song"], "A": []}

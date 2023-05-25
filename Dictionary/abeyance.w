@@ -1,1 +1,1 @@
-{"index": 316, "D": "temporary inactivity, cessation, or suspension", "S": ["discontinuation ", "dormancy ", "inactivity ", "intermission ", "latency ", "postponement ", "quiescence ", "recess ", "remission ", "suspension ", "waiting "], "A": ["continuation "]}
+{"index": 316, "D": "temporary inactivity, cessation, or suspension", "S": ["discontinuation", "dormancy", "inactivity", "intermission", "latency", "postponement", "quiescence", "recess", "remission", "suspension", "waiting"], "A": ["continuation"]}

@@ -1,1 +1,1 @@
-{"index": 267638, "D": "resumed, revived, or reestablished", "S": ["revived "], "A": ["damaged "]}
+{"index": 267638, "D": "resumed, revived, or reestablished", "S": ["revived"], "A": ["damaged"]}

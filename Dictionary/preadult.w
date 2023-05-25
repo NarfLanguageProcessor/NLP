@@ -1,1 +1,1 @@
-{"index": 245576, "D": "of or relating to the period prior to adulthood", "S": ["immature ", "juvenile ", "pre-adult ", "pubescent ", "young ", "youthful "], "A": []}
+{"index": 245576, "D": "of or relating to the period prior to adulthood", "S": ["immature", "juvenile", "pre-adult", "pubescent", "young", "youthful"], "A": []}

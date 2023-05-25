@@ -1,1 +1,1 @@
-{"index": 101793, "D": "to wrap up in or as in a covering", "S": ["encircling ", "surrounding "], "A": []}
+{"index": 101793, "D": "to wrap up in or as in a covering", "S": ["encircling", "surrounding"], "A": []}

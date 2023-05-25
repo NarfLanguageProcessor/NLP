@@ -1,1 +1,0 @@
-{"index": 191829, "D": "any circulating medium of exchange, including coins, paper money,  and demand deposits.", "S": ["bill ", "capital ", "cash ", "check ", "fund ", "pay ", "payment ", "property ", "salary ", "wage ", "wealth "], "A": ["debt "]}

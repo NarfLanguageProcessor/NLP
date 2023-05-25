@@ -1,1 +1,1 @@
-{"index": 130604, "D": "to utter the deep, guttural sound characteristic of a hog.", "S": ["groan "], "A": []}
+{"index": 130604, "D": "to utter the deep, guttural sound characteristic of a hog.", "S": ["groan"], "A": []}

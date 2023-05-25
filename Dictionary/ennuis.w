@@ -1,1 +1,1 @@
-{"index": 100780, "D": "a feeling of utter weariness and discontent resulting from satiety or lack of interest; boredom", "S": ["apathy ", "languor ", "melancholy ", "sadness ", "tedium ", "weariness "], "A": ["cheer ", "happiness ", "joy ", "gladness "]}
+{"index": 100780, "D": "a feeling of utter weariness and discontent resulting from satiety or lack of interest; boredom", "S": ["apathy", "languor", "melancholy", "sadness", "tedium", "weariness"], "A": ["cheer", "happiness", "joy", "gladness"]}

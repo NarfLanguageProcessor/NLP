@@ -1,1 +1,1 @@
-{"index": 192199, "D": "(of a plant, species, etc.) having both the stamens and pistils in the same flower.", "S": ["androgynous ", "bi ", "double-gaited ", "gynandrous ", "hermaphroditic ", "hits both ways ", "intersexual ", "swings both ways ", "switch-hitting "], "A": []}
+{"index": 192199, "D": "(of a plant, species, etc.) having both the stamens and pistils in the same flower.", "S": ["androgynous", "bi", "double-gaited", "gynandrous", "hermaphroditic", "hits both ways", "intersexual", "swings both ways", "switch-hitting"], "A": []}

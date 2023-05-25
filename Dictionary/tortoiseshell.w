@@ -1,1 +1,0 @@
-{"index": 326333, "D": "a horny substance of a mottled brown and yellow coloration, composing the laminae that cover the inner body plates of the carapace of certain tortoises or turtles, especially the hawksbill, used for making combs and ornamental articles, inlaying, etc.", "S": [], "A": []}

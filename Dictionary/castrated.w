@@ -1,1 +1,1 @@
-{"index": 49119, "D": "emasculated by having the testicles removed", "S": ["altered ", "desexed ", "emasculate ", "fixed ", "unmanned "], "A": []}
+{"index": 49119, "D": "emasculated by having the testicles removed", "S": ["altered", "desexed", "emasculate", "fixed", "unmanned"], "A": []}

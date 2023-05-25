@@ -1,1 +1,1 @@
-{"index": 186877, "D": "variant of myelo-  before a vowel", "S": ["backbone ", "rachis ", "rhachis ", "spine ", "vertebrae "], "A": []}
+{"index": 186877, "D": "variant of myelo-  before a vowel", "S": ["backbone", "rachis", "rhachis", "spine", "vertebrae"], "A": []}

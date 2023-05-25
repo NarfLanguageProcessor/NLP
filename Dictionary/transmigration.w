@@ -1,1 +1,1 @@
-{"index": 328090, "D": "the act of transmigrating. ", "S": ["metempsychosis ", "reincarnation "], "A": []}
+{"index": 328090, "D": "the act of transmigrating. ", "S": ["metempsychosis", "reincarnation"], "A": []}

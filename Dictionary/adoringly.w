@@ -1,0 +1,1 @@
+{"index": 4344, "D": "to regard with the utmost esteem, love, and respect; honor.", "S": ["admiringly", "affectionately", "earnestly", "fondly", "longingly", "passionately", "respectfully", "reverently", "thoughtfully", "warmly", "zealously"], "A": []}

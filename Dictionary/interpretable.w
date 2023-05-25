@@ -1,1 +1,1 @@
-{"index": 155698, "D": "to give or provide the meaning of; explain; explicate; elucidate", "S": ["accountable ", "decipherable ", "explicable ", "illustratable ", "intelligible ", "understandable "], "A": []}
+{"index": 155698, "D": "to give or provide the meaning of; explain; explicate; elucidate", "S": ["accountable", "decipherable", "explicable", "illustratable", "intelligible", "understandable"], "A": []}

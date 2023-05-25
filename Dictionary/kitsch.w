@@ -1,1 +1,1 @@
-{"index": 165225, "D": "something of tawdry design, appearance, or content created to appeal to popular or undiscriminating taste.", "S": ["sleazy ", "tacky ", "vulgar "], "A": ["nice "]}
+{"index": 165225, "D": "something of tawdry design, appearance, or content created to appeal to popular or undiscriminating taste.", "S": ["sleazy", "tacky", "vulgar"], "A": ["nice"]}

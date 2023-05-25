@@ -1,1 +1,1 @@
-{"index": 149892, "D": "any of the four anterior teeth in each jaw, used for cutting and gnawing.", "S": ["bicuspid ", "canine ", "cuspid ", "denticle ", "eyetooth ", "fang ", "grinder ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}
+{"index": 149892, "D": "any of the four anterior teeth in each jaw, used for cutting and gnawing.", "S": ["bicuspid", "canine", "cuspid", "denticle", "eyetooth", "fang", "grinder", "ivory", "molar", "premolar", "tusk"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 360803, "D": "a female fox.", "S": ["cat ", "dragon ", "harpy ", "harridan ", "hellcat ", "she-devil ", "shrew ", "termagant ", "virago ", "witch "], "A": []}
+{"index": 360803, "D": "a female fox.", "S": ["cat", "dragon", "harpy", "harridan", "hellcat", "she-devil", "shrew", "termagant", "virago", "witch"], "A": []}

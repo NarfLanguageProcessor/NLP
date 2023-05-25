@@ -1,1 +1,1 @@
-{"index": 129278, "D": "being without apparent reason, cause, or justification", "S": ["spontaneous "], "A": ["costly ", "expensive ", "reasonable "]}
+{"index": 129278, "D": "being without apparent reason, cause, or justification", "S": ["spontaneous"], "A": ["costly", "expensive", "reasonable"]}

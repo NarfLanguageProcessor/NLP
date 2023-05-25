@@ -1,1 +1,1 @@
-{"index": 120657, "D": "having a stale smell; moldy; musty", "S": ["damp ", "fetid ", "frowsty ", "malodorous ", "mildewy ", "musty ", "rank ", "stagnant ", "stale ", "stinky ", "stuffy "], "A": []}
+{"index": 120657, "D": "having a stale smell; moldy; musty", "S": ["damp", "fetid", "frowsty", "malodorous", "mildewy", "musty", "rank", "stagnant", "stale", "stinky", "stuffy"], "A": []}

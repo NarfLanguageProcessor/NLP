@@ -1,1 +1,1 @@
-{"index": 183851, "D": "the actual and intrinsic rights and wrongs of an issue, esp in a law case, as distinct from extraneous matters and technicalities", "S": ["compensation ", "interest ", "payment ", "rate ", "repayment ", "right "], "A": []}
+{"index": 183851, "D": "the actual and intrinsic rights and wrongs of an issue, esp in a law case, as distinct from extraneous matters and technicalities", "S": ["compensation", "interest", "payment", "rate", "repayment", "right"], "A": []}

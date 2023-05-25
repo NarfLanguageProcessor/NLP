@@ -1,1 +1,1 @@
-{"index": 325302, "D": "a gate  where a toll  is collected.", "S": ["drive ", "expressway ", "freeway ", "lance ", "parkway ", "point ", "road ", "thruway "], "A": []}
+{"index": 325302, "D": "a gate  where a toll  is collected.", "S": ["drive", "expressway", "freeway", "lance", "parkway", "point", "road", "thruway"], "A": []}

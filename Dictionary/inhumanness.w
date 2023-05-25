@@ -1,1 +1,1 @@
-{"index": 152734, "D": "lacking qualities of sympathy, pity, warmth, compassion, or the like; cruel; brutal", "S": ["barbarity ", "beastliness ", "brutality ", "depravity ", "inhumanity ", "savagery ", "truculence ", "truculency ", "wickedness "], "A": ["kindness "]}
+{"index": 152734, "D": "lacking qualities of sympathy, pity, warmth, compassion, or the like; cruel; brutal", "S": ["barbarity", "beastliness", "brutality", "depravity", "inhumanity", "savagery", "truculence", "truculency", "wickedness"], "A": ["kindness"]}

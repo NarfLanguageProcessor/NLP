@@ -1,1 +1,0 @@
-{"index": 216340, "D": "a person who is rejected or cast  out, as from home or society", "S": ["fugitive ", "untouchable ", "vagabond "], "A": ["favorite ", "friend ", "idol "]}

@@ -1,1 +1,1 @@
-{"index": 363410, "D": "a person or appliance that polishes with or applies wax. ", "S": ["broom ", "toothbrush "], "A": []}
+{"index": 363410, "D": "a person or appliance that polishes with or applies wax. ", "S": ["broom", "toothbrush"], "A": []}

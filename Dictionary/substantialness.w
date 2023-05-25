@@ -1,1 +1,1 @@
-{"index": 309299, "D": "of ample or considerable amount, quantity, size, etc.", "S": ["corporeality ", "definiteness ", "distinction ", "embodiment ", "incarnation ", "manifestation ", "materiality ", "objectiveness ", "physicality ", "solidity ", "tactility ", "tangibleness "], "A": []}
+{"index": 309299, "D": "of ample or considerable amount, quantity, size, etc.", "S": ["corporeality", "definiteness", "distinction", "embodiment", "incarnation", "manifestation", "materiality", "objectiveness", "physicality", "solidity", "tactility", "tangibleness"], "A": []}

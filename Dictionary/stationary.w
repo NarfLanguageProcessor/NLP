@@ -1,1 +1,1 @@
-{"index": 303087, "D": "standing still; not moving.", "S": ["immobile ", "motionless ", "parked ", "stagnant ", "static "], "A": ["active ", "mobile ", "moving "]}
+{"index": 303087, "D": "standing still; not moving.", "S": ["immobile", "motionless", "parked", "stagnant", "static"], "A": ["active", "mobile", "moving"]}

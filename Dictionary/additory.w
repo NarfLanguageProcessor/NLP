@@ -1,1 +1,1 @@
-{"index": 3564, "D": "capable of or tending to make an addition;  additional; supplementary.", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}
+{"index": 3564, "D": "capable of or tending to make an addition;  additional; supplementary.", "S": ["aggregate", "increasing"], "A": ["decreasing", "subtracting"]}

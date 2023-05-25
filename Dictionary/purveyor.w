@@ -1,1 +1,1 @@
-{"index": 257163, "D": "a person who purveys,  provides, or supplies", "S": ["administrator ", "attendant ", "curator ", "waiter "], "A": []}
+{"index": 257163, "D": "a person who purveys,  provides, or supplies", "S": ["administrator", "attendant", "curator", "waiter"], "A": []}

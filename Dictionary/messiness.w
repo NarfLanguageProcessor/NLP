@@ -1,1 +1,1 @@
-{"index": 184499, "D": "characterized by a dirty, untidy, or disordered condition", "S": ["disorganization ", "sloppiness ", "slovenliness ", "untidiness "], "A": []}
+{"index": 184499, "D": "characterized by a dirty, untidy, or disordered condition", "S": ["disorganization", "sloppiness", "slovenliness", "untidiness"], "A": []}

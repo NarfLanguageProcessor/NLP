@@ -1,1 +1,1 @@
-{"index": 9572, "D": "unselfishly concerned for or devoted to the welfare of others (opposed to egoistic).", "S": ["charitable ", "humanitarian ", "magnanimous ", "philanthropic "], "A": ["stingy ", "uncharitable "]}
+{"index": 9572, "D": "unselfishly concerned for or devoted to the welfare of others (opposed to egoistic).", "S": ["charitable", "humanitarian", "magnanimous", "philanthropic"], "A": ["stingy", "uncharitable"]}

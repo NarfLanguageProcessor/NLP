@@ -1,0 +1,1 @@
+{"index": 3497, "D": "situated on the side toward the axis or stem.", "S": [], "A": []}

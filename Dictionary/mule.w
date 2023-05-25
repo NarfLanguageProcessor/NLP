@@ -1,1 +1,1 @@
-{"index": 194890, "D": "Compare hinny. ", "S": ["ass ", "jackass "], "A": []}
+{"index": 194890, "D": "Compare hinny. ", "S": ["ass", "jackass"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64837, "D": "to understand the nature or meaning of; grasp with the mind; perceive", "S": ["appreciate ", "assimilate ", "discern ", "envision ", "fathom ", "grasp "], "A": ["disregard ", "misunderstand ", "neglect ", "overlook ", "lose ", "misinterpret ", "miss "]}
+{"index": 64837, "D": "to understand the nature or meaning of; grasp with the mind; perceive", "S": ["appreciate", "assimilate", "discern", "envision", "fathom", "grasp"], "A": ["disregard", "misunderstand", "neglect", "overlook", "lose", "misinterpret", "miss"]}

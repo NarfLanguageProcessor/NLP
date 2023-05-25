@@ -1,1 +1,1 @@
-{"index": 354289, "D": "having or showing a wish;  desirous; longing.", "S": ["afraid ", "averse ", "compelled ", "evasive ", "forced ", "loath ", "reluctant ", "resistant ", "unenthusiastic "], "A": ["eager ", "enthusiastic ", "ready ", "willing "]}
+{"index": 354289, "D": "having or showing a wish;  desirous; longing.", "S": ["afraid", "averse", "compelled", "evasive", "forced", "loath", "reluctant", "resistant", "unenthusiastic"], "A": ["eager", "enthusiastic", "ready", "willing"]}

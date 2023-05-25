@@ -1,1 +1,1 @@
-{"index": 112475, "D": "a numerical symbol, especially an Arabic numeral.", "S": ["amount ", "character ", "cost ", "number ", "price ", "rate ", "sum ", "symbol ", "total "], "A": []}
+{"index": 112475, "D": "a numerical symbol, especially an Arabic numeral.", "S": ["amount", "character", "cost", "number", "price", "rate", "sum", "symbol", "total"], "A": []}

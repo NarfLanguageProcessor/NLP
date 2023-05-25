@@ -1,1 +1,1 @@
-{"index": 309929, "D": "to shake up; shake.", "S": ["convulse ", "disturb ", "jolt ", "rattle ", "rock ", "roil ", "shudder ", "sway ", "swing ", "upset ", "wave "], "A": ["steady "]}
+{"index": 309929, "D": "to shake up; shake.", "S": ["convulse", "disturb", "jolt", "rattle", "rock", "roil", "shudder", "sway", "swing", "upset", "wave"], "A": ["steady"]}

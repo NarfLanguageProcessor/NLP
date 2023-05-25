@@ -1,1 +1,1 @@
-{"index": 243292, "D": "of or relating to a symphony orchestra specializing in popular or light classical music", "S": ["burst ", "crack ", "explosion ", "report ", "snap ", "strike ", "thrust ", "whack "], "A": []}
+{"index": 243292, "D": "of or relating to a symphony orchestra specializing in popular or light classical music", "S": ["burst", "crack", "explosion", "report", "snap", "strike", "thrust", "whack"], "A": []}

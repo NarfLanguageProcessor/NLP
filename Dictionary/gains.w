@@ -1,1 +1,1 @@
-{"index": 121036, "D": "ill-gotten gains", "S": ["cash ", "compensation ", "earnings ", "interest ", "livelihood ", "pay ", "proceeds ", "profit ", "revenue ", "royalty ", "salary ", "wage "], "A": ["debt ", "loss "]}
+{"index": 121036, "D": "ill-gotten gains", "S": ["cash", "compensation", "earnings", "interest", "livelihood", "pay", "proceeds", "profit", "revenue", "royalty", "salary", "wage"], "A": ["debt", "loss"]}

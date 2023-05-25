@@ -1,1 +1,1 @@
-{"index": 177937, "D": "to keep in existence or continuance; preserve; retain", "S": ["abetted ", "accompanied ", "advised ", "assisted ", "backed ", "befriended ", "bolstered ", "encouraged ", "nursed ", "relieved ", "supported ", "sustained "], "A": ["discouraged "]}
+{"index": 177937, "D": "to keep in existence or continuance; preserve; retain", "S": ["abetted", "accompanied", "advised", "assisted", "backed", "befriended", "bolstered", "encouraged", "nursed", "relieved", "supported", "sustained"], "A": ["discouraged"]}

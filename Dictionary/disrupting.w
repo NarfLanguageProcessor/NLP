@@ -1,1 +1,1 @@
-{"index": 89372, "D": "to cause disorder or turmoil in", "S": ["annihilation ", "carnage ", "elimination ", "eradication ", "extermination ", "extinction ", "loss ", "massacre ", "murder ", "ruin ", "slaughter "], "A": ["creation "]}
+{"index": 89372, "D": "to cause disorder or turmoil in", "S": ["annihilation", "carnage", "elimination", "eradication", "extermination", "extinction", "loss", "massacre", "murder", "ruin", "slaughter"], "A": ["creation"]}

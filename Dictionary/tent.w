@@ -1,1 +1,1 @@
-{"index": 319013, "D": "a portable shelter of skins, canvas, plastic, or the like, supported by one or more poles or a frame and often secured by ropes fastened to pegs in the ground.", "S": ["canvas ", "pavilion "], "A": []}
+{"index": 319013, "D": "a portable shelter of skins, canvas, plastic, or the like, supported by one or more poles or a frame and often secured by ropes fastened to pegs in the ground.", "S": ["canvas", "pavilion"], "A": []}

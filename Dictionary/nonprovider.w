@@ -1,1 +1,0 @@
-{"index": 206337, "D": "a person or thing that provides. ", "S": [], "A": []}

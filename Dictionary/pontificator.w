@@ -1,1 +1,1 @@
-{"index": 243082, "D": "the office or term of office of a pontiff. ", "S": ["lecturer ", "preacher ", "public speaker "], "A": []}
+{"index": 243082, "D": "the office or term of office of a pontiff. ", "S": ["lecturer", "preacher", "public speaker"], "A": []}

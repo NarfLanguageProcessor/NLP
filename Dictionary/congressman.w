@@ -1,1 +1,1 @@
-{"index": 66270, "D": "a member of a congress,  especially of the U.S. House of Representatives.", "S": ["legislator "], "A": []}
+{"index": 66270, "D": "a member of a congress,  especially of the U.S. House of Representatives.", "S": ["legislator"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 243435, "D": "a pig, especially one being fattened for its meat.", "S": ["moleskin ", "oval ", "peanut ", "pigskin ", "pineapple ", "sphere ", "watermelon "], "A": []}
+{"index": 243435, "D": "a pig, especially one being fattened for its meat.", "S": ["moleskin", "oval", "peanut", "pigskin", "pineapple", "sphere", "watermelon"], "A": []}

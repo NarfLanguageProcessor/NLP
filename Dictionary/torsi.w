@@ -1,1 +1,1 @@
-{"index": 326278, "D": "a plural of torso. ", "S": ["frame "], "A": ["head ", "mind ", "soul ", "spirit "]}
+{"index": 326278, "D": "a plural of torso. ", "S": ["frame"], "A": ["head", "mind", "soul", "spirit"]}

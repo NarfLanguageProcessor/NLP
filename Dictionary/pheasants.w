@@ -1,1 +1,1 @@
-{"index": 233250, "D": "any of numerous large, usually long-tailed, Old World gallinaceous  birds of the family Phasianidae, widely introduced.", "S": ["chicken ", "goose ", "hen "], "A": []}
+{"index": 233250, "D": "any of numerous large, usually long-tailed, Old World gallinaceous  birds of the family Phasianidae, widely introduced.", "S": ["chicken", "goose", "hen"], "A": []}

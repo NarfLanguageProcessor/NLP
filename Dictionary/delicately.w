@@ -1,1 +1,1 @@
-{"index": 80054, "D": "in a careful way", "S": ["beautifully ", "cautiously ", "deftly ", "elegantly ", "exquisitely ", "finely ", "gracefully ", "lightly ", "sensitively ", "skillfully ", "softly ", "subtly ", "tactfully "], "A": ["strongly "]}
+{"index": 80054, "D": "in a careful way", "S": ["beautifully", "cautiously", "deftly", "elegantly", "exquisitely", "finely", "gracefully", "lightly", "sensitively", "skillfully", "softly", "subtly", "tactfully"], "A": ["strongly"]}

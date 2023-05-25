@@ -1,1 +1,1 @@
-{"index": 212950, "D": "of or relating to ontology,  the branch of metaphysics that studies the nature of existence or being as such; metaphysical", "S": ["existential ", "metaphysical "], "A": []}
+{"index": 212950, "D": "of or relating to ontology,  the branch of metaphysics that studies the nature of existence or being as such; metaphysical", "S": ["existential", "metaphysical"], "A": []}

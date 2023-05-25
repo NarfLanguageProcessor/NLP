@@ -1,1 +1,1 @@
-{"index": 356440, "D": "a space entirely devoid of matter.", "S": ["gap ", "void "], "A": ["fullness "]}
+{"index": 356440, "D": "a space entirely devoid of matter.", "S": ["gap", "void"], "A": ["fullness"]}

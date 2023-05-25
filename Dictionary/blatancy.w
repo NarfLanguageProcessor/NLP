@@ -1,1 +1,1 @@
-{"index": 35866, "D": "brazenly obvious; flagrant", "S": ["atrociousness ", "atrocity ", "brazenness ", "egregiousness ", "enormity ", "flagrantness ", "glaringness ", "grossness ", "heinousness ", "obviousness "], "A": []}
+{"index": 35866, "D": "brazenly obvious; flagrant", "S": ["atrociousness", "atrocity", "brazenness", "egregiousness", "enormity", "flagrantness", "glaringness", "grossness", "heinousness", "obviousness"], "A": []}

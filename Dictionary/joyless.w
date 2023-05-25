@@ -1,1 +1,1 @@
-{"index": 161595, "D": "without joy or gladness; unhappy", "S": ["bleak ", "dejected ", "depressing ", "dismal ", "downcast ", "dreary ", "miserable "], "A": ["bright ", "cheerful ", "elated ", "encouraging ", "glad ", "happy ", "light ", "pleasant "]}
+{"index": 161595, "D": "without joy or gladness; unhappy", "S": ["bleak", "dejected", "depressing", "dismal", "downcast", "dreary", "miserable"], "A": ["bright", "cheerful", "elated", "encouraging", "glad", "happy", "light", "pleasant"]}

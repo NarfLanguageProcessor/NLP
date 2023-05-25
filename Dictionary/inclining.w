@@ -1,1 +1,1 @@
-{"index": 149958, "D": "inclination;  disposition.", "S": ["catty-corner ", "crosswise ", "oblique ", "slanted "], "A": []}
+{"index": 149958, "D": "inclination;  disposition.", "S": ["catty-corner", "crosswise", "oblique", "slanted"], "A": []}

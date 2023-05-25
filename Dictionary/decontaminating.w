@@ -1,1 +1,1 @@
-{"index": 78666, "D": "to make (an object or area) safe for unprotected personnel by removing, neutralizing, or destroying any harmful substance, as radioactive material or poisonous gas.", "S": ["cleanse ", "disinfect ", "fumigate ", "sanitize ", "sterilize "], "A": ["dirty "]}
+{"index": 78666, "D": "to make (an object or area) safe for unprotected personnel by removing, neutralizing, or destroying any harmful substance, as radioactive material or poisonous gas.", "S": ["cleanse", "disinfect", "fumigate", "sanitize", "sterilize"], "A": ["dirty"]}

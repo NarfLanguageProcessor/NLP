@@ -1,1 +1,1 @@
-{"index": 171190, "D": "an embankment designed to prevent the flooding of a river.", "S": ["dam "], "A": []}
+{"index": 171190, "D": "an embankment designed to prevent the flooding of a river.", "S": ["dam"], "A": []}

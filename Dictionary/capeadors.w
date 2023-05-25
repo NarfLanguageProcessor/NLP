@@ -1,1 +1,1 @@
-{"index": 46792, "D": "a person who assists a matador by harassing or distracting the bull with a red cape, or capa.", "S": ["banderillero ", "picador ", "toreador ", "torero "], "A": []}
+{"index": 46792, "D": "a person who assists a matador by harassing or distracting the bull with a red cape, or capa.", "S": ["banderillero", "picador", "toreador", "torero"], "A": []}

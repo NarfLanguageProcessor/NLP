@@ -1,1 +1,1 @@
-{"index": 283582, "D": "a person who sells;  salesperson or vender.", "S": ["agent ", "auctioneer ", "dealer ", "marketer ", "merchant ", "peddler ", "retailer ", "trader ", "vendor "], "A": ["customer "]}
+{"index": 283582, "D": "a person who sells;  salesperson or vender.", "S": ["agent", "auctioneer", "dealer", "marketer", "merchant", "peddler", "retailer", "trader", "vendor"], "A": ["customer"]}

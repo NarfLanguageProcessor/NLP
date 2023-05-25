@@ -1,1 +1,1 @@
-{"index": 149025, "D": "made pregnant", "S": ["permeated ", "saturated "], "A": []}
+{"index": 149025, "D": "made pregnant", "S": ["permeated", "saturated"], "A": []}

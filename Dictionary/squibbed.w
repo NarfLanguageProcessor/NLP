@@ -1,1 +1,1 @@
-{"index": 301916, "D": "a short and witty or sarcastic saying or writing.", "S": ["caricature ", "mock ", "parody ", "satirize "], "A": ["applaud ", "approve ", "praise ", "support "]}
+{"index": 301916, "D": "a short and witty or sarcastic saying or writing.", "S": ["caricature", "mock", "parody", "satirize"], "A": ["applaud", "approve", "praise", "support"]}

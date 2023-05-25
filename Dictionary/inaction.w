@@ -1,1 +1,1 @@
-{"index": 149346, "D": "absence of action;  idleness.", "S": ["inactivity ", "inertia ", "passivity ", "stagnation "], "A": ["busyness ", "energy ", "happiness ", "liveliness ", "vigor "]}
+{"index": 149346, "D": "absence of action;  idleness.", "S": ["inactivity", "inertia", "passivity", "stagnation"], "A": ["busyness", "energy", "happiness", "liveliness", "vigor"]}

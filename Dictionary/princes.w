@@ -1,1 +1,1 @@
-{"index": 250631, "D": "a nonreigning male member of a royal family.", "S": ["archduke ", "emeer ", "emir ", "monarch ", "nobleman ", "potentate ", "raja ", "rajah ", "royalty ", "ruler ", "sovereign "], "A": []}
+{"index": 250631, "D": "a nonreigning male member of a royal family.", "S": ["archduke", "emeer", "emir", "monarch", "nobleman", "potentate", "raja", "rajah", "royalty", "ruler", "sovereign"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 168328, "D": "to pelt with stones.", "S": ["assail ", "batter ", "bombard ", "hurl ", "pepper ", "pummel ", "shower "], "A": ["lose ", "slow ", "tap "]}

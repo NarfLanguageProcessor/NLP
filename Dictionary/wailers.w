@@ -1,1 +1,1 @@
-{"index": 361996, "D": "to utter a prolonged, inarticulate, mournful cry, usually high-pitched or clear-sounding, as in grief or suffering", "S": ["pallbearer "], "A": []}
+{"index": 361996, "D": "to utter a prolonged, inarticulate, mournful cry, usually high-pitched or clear-sounding, as in grief or suffering", "S": ["pallbearer"], "A": []}

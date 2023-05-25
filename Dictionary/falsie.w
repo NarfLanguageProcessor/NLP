@@ -1,1 +1,1 @@
-{"index": 109537, "D": "either of a pair of shaped pads, made of rubber, fabric, or the like, for wearing inside a brassiere to give the breasts a larger or more shapely appearance.", "S": ["unreal "], "A": ["genuine ", "natural ", "real ", "unaffected ", "unpretentious "]}
+{"index": 109537, "D": "either of a pair of shaped pads, made of rubber, fabric, or the like, for wearing inside a brassiere to give the breasts a larger or more shapely appearance.", "S": ["unreal"], "A": ["genuine", "natural", "real", "unaffected", "unpretentious"]}

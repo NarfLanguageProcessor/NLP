@@ -1,1 +1,1 @@
-{"index": 169699, "D": "smallest in size, amount, degree, etc.; slightest", "S": ["margin "], "A": ["dullness ", "lot "]}
+{"index": 169699, "D": "smallest in size, amount, degree, etc.; slightest", "S": ["margin"], "A": ["dullness", "lot"]}

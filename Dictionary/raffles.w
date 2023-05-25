@@ -1,1 +1,1 @@
-{"index": 259877, "D": "a gentlemanly burglar, amateur housebreaker, or the like.", "S": ["betting ", "game of chance ", "sweepstake "], "A": []}
+{"index": 259877, "D": "a gentlemanly burglar, amateur housebreaker, or the like.", "S": ["betting", "game of chance", "sweepstake"], "A": []}

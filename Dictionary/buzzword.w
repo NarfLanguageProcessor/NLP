@@ -1,1 +1,1 @@
-{"index": 43821, "D": "a word or phrase, often sounding authoritative or technical, that is a vogue term in a particular profession, field of study, popular culture, etc.", "S": ["jargon ", "slang "], "A": ["standard "]}
+{"index": 43821, "D": "a word or phrase, often sounding authoritative or technical, that is a vogue term in a particular profession, field of study, popular culture, etc.", "S": ["jargon", "slang"], "A": ["standard"]}

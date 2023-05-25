@@ -1,1 +1,0 @@
-{"index": 342833, "D": "to restore to freshness of appearance or good condition (often followed by up)", "S": [], "A": []}

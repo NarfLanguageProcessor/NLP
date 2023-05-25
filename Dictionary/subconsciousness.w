@@ -1,1 +1,1 @@
-{"index": 307562, "D": [], "S": ["consciousness ", "mind ", "recollection ", "remembrance ", "thought "], "A": ["forgetfulness ", "ignorance "]}
+{"index": 307562, "D": [], "S": ["consciousness", "mind", "recollection", "remembrance", "thought"], "A": ["forgetfulness", "ignorance"]}

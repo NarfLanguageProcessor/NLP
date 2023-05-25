@@ -1,1 +1,0 @@
-{"index": 229827, "D": "a fixed amount, other than wages, paid at regular intervals to a person or to the person's surviving dependents in consideration of past services, age, merit, poverty, injury or loss sustained, etc.", "S": [], "A": []}

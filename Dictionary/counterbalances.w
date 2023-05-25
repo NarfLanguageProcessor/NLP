@@ -1,1 +1,1 @@
-{"index": 70668, "D": "a weight balancing  another weight; an equal weight, power, or influence acting in opposition; counterpoise.", "S": ["counteract ", "outweigh ", "rectify "], "A": ["disproportion ", "forfeit ", "imbalance ", "lose "]}
+{"index": 70668, "D": "a weight balancing  another weight; an equal weight, power, or influence acting in opposition; counterpoise.", "S": ["counteract", "outweigh", "rectify"], "A": ["disproportion", "forfeit", "imbalance", "lose"]}

@@ -1,1 +1,1 @@
-{"index": 113971, "D": "nonsense; bosh.", "S": ["craziness ", "farce ", "folly ", "foolishness ", "idiocy ", "insanity ", "silliness ", "stupidity "], "A": ["intelligence ", "seriousness ", "wisdom "]}
+{"index": 113971, "D": "nonsense; bosh.", "S": ["craziness", "farce", "folly", "foolishness", "idiocy", "insanity", "silliness", "stupidity"], "A": ["intelligence", "seriousness", "wisdom"]}

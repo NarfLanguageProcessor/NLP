@@ -1,1 +1,1 @@
-{"index": 313665, "D": "the act or fact of surviving,  especially under adverse or unusual circumstances.", "S": ["continuity ", "durability ", "endurance "], "A": []}
+{"index": 313665, "D": "the act or fact of surviving,  especially under adverse or unusual circumstances.", "S": ["continuity", "durability", "endurance"], "A": []}

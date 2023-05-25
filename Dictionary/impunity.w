@@ -1,1 +1,1 @@
-{"index": 149273, "D": "exemption from punishment.", "S": ["immunity "], "A": ["denial ", "prohibition ", "veto "]}
+{"index": 149273, "D": "exemption from punishment.", "S": ["immunity"], "A": ["denial", "prohibition", "veto"]}

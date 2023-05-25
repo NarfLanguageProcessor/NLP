@@ -1,1 +1,0 @@
-{"index": 345339, "D": "a mounted soldier serving under a feudal superior in the Middle Ages.", "S": [], "A": []}

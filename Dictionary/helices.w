@@ -1,1 +1,1 @@
-{"index": 135488, "D": "a plural of helix. ", "S": ["braid ", "tendril "], "A": ["line "]}
+{"index": 135488, "D": "a plural of helix. ", "S": ["braid", "tendril"], "A": ["line"]}

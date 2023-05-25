@@ -1,1 +1,1 @@
-{"index": 130581, "D": "a person given to constant complaining.", "S": ["brood ", "sulk "], "A": ["compliment ", "despise ", "dislike ", "grow ", "hate ", "please ", "praise ", "rise ", "strengthen "]}
+{"index": 130581, "D": "a person given to constant complaining.", "S": ["brood", "sulk"], "A": ["compliment", "despise", "dislike", "grow", "hate", "please", "praise", "rise", "strengthen"]}

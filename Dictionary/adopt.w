@@ -1,0 +1,1 @@
+{"index": 4301, "D": "to choose or take as one's own; make one's own by selection or assent", "S": ["accept", "approve", "embrace", "endorse", "follow", "maintain", "ratify", "select", "support", "take up", "use"], "A": ["deny", "disagree", "disallow", "disapprove", "discard", "let go", "neglect", "oppose", "refuse", "reject", "release", "renounce", "shun", "give", "return"]}

@@ -1,1 +1,1 @@
-{"index": 172949, "D": "one of the rings or separate pieces of which a chain is composed.", "S": ["associating ", "combining ", "coupling ", "joining "], "A": []}
+{"index": 172949, "D": "one of the rings or separate pieces of which a chain is composed.", "S": ["associating", "combining", "coupling", "joining"], "A": []}

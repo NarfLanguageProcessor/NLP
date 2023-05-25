@@ -1,1 +1,1 @@
-{"index": 330077, "D": "to put into a neat or orderly condition by clipping, paring, pruning, etc.", "S": ["freshness ", "purity ", "sanitation "], "A": ["dirtiness ", "filth ", "griminess "]}
+{"index": 330077, "D": "to put into a neat or orderly condition by clipping, paring, pruning, etc.", "S": ["freshness", "purity", "sanitation"], "A": ["dirtiness", "filth", "griminess"]}

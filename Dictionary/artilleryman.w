@@ -1,1 +1,1 @@
-{"index": 20733, "D": "a soldier serving in an artillery  unit of the army.", "S": ["shooter "], "A": []}
+{"index": 20733, "D": "a soldier serving in an artillery  unit of the army.", "S": ["shooter"], "A": []}

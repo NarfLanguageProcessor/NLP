@@ -1,1 +1,1 @@
-{"index": 39292, "D": "like or resembling a box,  especially in shape", "S": ["blockish ", "boxlike ", "chunky ", "compact ", "heavyset ", "solid ", "squat ", "stubby ", "stumpy ", "thick ", "thickset "], "A": []}
+{"index": 39292, "D": "like or resembling a box,  especially in shape", "S": ["blockish", "boxlike", "chunky", "compact", "heavyset", "solid", "squat", "stubby", "stumpy", "thick", "thickset"], "A": []}

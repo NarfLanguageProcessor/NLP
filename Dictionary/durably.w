@@ -1,1 +1,1 @@
-{"index": 94399, "D": "able to resist wear, decay, etc., well; lasting; enduring. ", "S": ["rigidly ", "securely ", "solidly ", "soundly ", "strongly ", "thoroughly ", "tightly "], "A": ["indefinitely ", "weakly "]}
+{"index": 94399, "D": "able to resist wear, decay, etc., well; lasting; enduring. ", "S": ["rigidly", "securely", "solidly", "soundly", "strongly", "thoroughly", "tightly"], "A": ["indefinitely", "weakly"]}

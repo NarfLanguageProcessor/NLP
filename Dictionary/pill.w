@@ -1,1 +1,1 @@
-{"index": 236661, "D": "a small globular or rounded mass of medicinal substance, usually covered with a hard coating, that is to be swallowed whole.", "S": ["dose ", "medicine ", "tablet "], "A": []}
+{"index": 236661, "D": "a small globular or rounded mass of medicinal substance, usually covered with a hard coating, that is to be swallowed whole.", "S": ["dose", "medicine", "tablet"], "A": []}

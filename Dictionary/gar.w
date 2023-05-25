@@ -1,1 +1,1 @@
-{"index": 122038, "D": "any predaceous freshwater fish of the genus Lepisosteus, of North America, covered with hard, diamond-shaped scales and having long jaws with needlelike teeth.", "S": ["bayonet "], "A": []}
+{"index": 122038, "D": "any predaceous freshwater fish of the genus Lepisosteus, of North America, covered with hard, diamond-shaped scales and having long jaws with needlelike teeth.", "S": ["bayonet"], "A": []}

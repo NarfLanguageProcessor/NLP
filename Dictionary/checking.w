@@ -1,1 +1,1 @@
-{"index": 53345, "D": "to stop or arrest the motion of suddenly or forcibly", "S": ["counter to ", "countering ", "counterproductive ", "interfering ", "opposite "], "A": []}
+{"index": 53345, "D": "to stop or arrest the motion of suddenly or forcibly", "S": ["counter to", "countering", "counterproductive", "interfering", "opposite"], "A": []}

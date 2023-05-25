@@ -1,1 +1,1 @@
-{"index": 154125, "D": "the state or condition of being insurgent. ", "S": ["dissent ", "insurrection ", "mutiny ", "revolt ", "revolution ", "uprising "], "A": ["calm ", "obedience ", "peace ", "orthodoxy ", "submission "]}
+{"index": 154125, "D": "the state or condition of being insurgent. ", "S": ["dissent", "insurrection", "mutiny", "revolt", "revolution", "uprising"], "A": ["calm", "obedience", "peace", "orthodoxy", "submission"]}

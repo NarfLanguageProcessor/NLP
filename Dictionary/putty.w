@@ -1,1 +1,0 @@
-{"index": 257346, "D": "a compound of whiting and linseed oil, of a doughlike consistency when fresh, used to secure windowpanes, patch woodwork defects, etc.", "S": ["docile ", "flexible ", "limber ", "malleable ", "manageable ", "pliant ", "spongy ", "supple "], "A": ["hard ", "inflexible ", "obstinate ", "rigid ", "stiff ", "stubborn ", "unyielding "]}

@@ -1,1 +1,1 @@
-{"index": 62590, "D": "sexual intercourse,  especially between a man and a woman.", "S": ["copulation ", "intercourse ", "sex "], "A": []}
+{"index": 62590, "D": "sexual intercourse,  especially between a man and a woman.", "S": ["copulation", "intercourse", "sex"], "A": []}

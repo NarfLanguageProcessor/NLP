@@ -1,1 +1,0 @@
-{"index": 305829, "D": "a plan, scheme, or trick for surprising or deceiving an enemy.", "S": ["know-how ", "savvy ", "tools of the trade ", "tricks of the trade ", "wisdom "], "A": []}

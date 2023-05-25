@@ -1,1 +1,1 @@
-{"index": 391, "D": "a feeling of extreme repugnance or aversion; utter loathing; abomination.", "S": ["detestation ", "disgust ", "enmity ", "hate ", "hatred ", "horror ", "loathing ", "malice ", "odium ", "repugnance ", "revulsion "], "A": ["kindness ", "liking ", "love ", "loving "]}
+{"index": 391, "D": "a feeling of extreme repugnance or aversion; utter loathing; abomination.", "S": ["detestation", "disgust", "enmity", "hate", "hatred", "horror", "loathing", "malice", "odium", "repugnance", "revulsion"], "A": ["kindness", "liking", "love", "loving"]}

@@ -1,1 +1,1 @@
-{"index": 159804, "D": "to poke, or thrust abruptly or sharply, as with the end or point of a stick or with the finger or elbow.", "S": ["dig ", "punch "], "A": ["pull "]}
+{"index": 159804, "D": "to poke, or thrust abruptly or sharply, as with the end or point of a stick or with the finger or elbow.", "S": ["dig", "punch"], "A": ["pull"]}

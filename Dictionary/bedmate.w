@@ -1,1 +1,1 @@
-{"index": 30131, "D": "bedfellow (def. 1). ", "S": ["acquaintance ", "bride ", "buddy ", "classmate ", "companion ", "comrade ", "coworker ", "playmate ", "roommate ", "schoolmate ", "spouse "], "A": ["enemy ", "foe ", "opponent ", "stranger ", "antagonist ", "detractor "]}
+{"index": 30131, "D": "bedfellow (def. 1). ", "S": ["acquaintance", "bride", "buddy", "classmate", "companion", "comrade", "coworker", "playmate", "roommate", "schoolmate", "spouse"], "A": ["enemy", "foe", "opponent", "stranger", "antagonist", "detractor"]}

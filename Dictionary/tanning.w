@@ -1,1 +1,1 @@
-{"index": 316185, "D": "the process or art of converting hides or skins into leather.", "S": ["care ", "conservancy ", "conservation ", "safeguarding ", "safety ", "security ", "storage "], "A": ["danger ", "neglect ", "endangerment ", "harm ", "hurt ", "injury "]}
+{"index": 316185, "D": "the process or art of converting hides or skins into leather.", "S": ["care", "conservancy", "conservation", "safeguarding", "safety", "security", "storage"], "A": ["danger", "neglect", "endangerment", "harm", "hurt", "injury"]}

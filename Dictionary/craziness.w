@@ -1,1 +1,1 @@
-{"index": 72348, "D": "the state or condition of being mentally deranged; madness", "S": ["absurdity ", "idiocy ", "insanity ", "lunacy ", "madness ", "nonsense ", "nuttiness ", "silliness "], "A": ["sense "]}
+{"index": 72348, "D": "the state or condition of being mentally deranged; madness", "S": ["absurdity", "idiocy", "insanity", "lunacy", "madness", "nonsense", "nuttiness", "silliness"], "A": ["sense"]}

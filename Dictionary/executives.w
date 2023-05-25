@@ -1,1 +1,1 @@
-{"index": 106972, "D": "a person or group of persons having administrative or supervisory authority in an organization.", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}
+{"index": 106972, "D": "a person or group of persons having administrative or supervisory authority in an organization.", "S": ["board", "bureau", "cabinet", "committee", "department", "executive", "legislature", "management", "ministry", "presidency"], "A": []}

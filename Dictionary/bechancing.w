@@ -1,1 +1,1 @@
-{"index": 29800, "D": "to befall.", "S": ["ensue ", "materialize ", "transpire "], "A": ["stay ", "stop "]}
+{"index": 29800, "D": "to befall.", "S": ["ensue", "materialize", "transpire"], "A": ["stay", "stop"]}

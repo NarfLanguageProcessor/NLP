@@ -1,1 +1,0 @@
-{"index": 205848, "D": "of, relating to, or characterized by percussion. ", "S": [], "A": []}

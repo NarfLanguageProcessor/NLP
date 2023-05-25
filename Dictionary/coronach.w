@@ -1,1 +1,1 @@
-{"index": 69430, "D": "(in Scotland and Ireland) a song or lamentation for the dead; dirge.", "S": ["elegy ", "hymn "], "A": []}
+{"index": 69430, "D": "(in Scotland and Ireland) a song or lamentation for the dead; dirge.", "S": ["elegy", "hymn"], "A": []}

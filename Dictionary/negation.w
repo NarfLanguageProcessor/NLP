@@ -1,1 +1,1 @@
-{"index": 198012, "D": "the act of denying", "S": ["antithesis ", "renunciation ", "repudiation "], "A": ["OK ", "allowance ", "approval ", "permission ", "ratification ", "same ", "sanction ", "similarity "]}
+{"index": 198012, "D": "the act of denying", "S": ["antithesis", "renunciation", "repudiation"], "A": ["OK", "allowance", "approval", "permission", "ratification", "same", "sanction", "similarity"]}

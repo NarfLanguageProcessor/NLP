@@ -1,1 +1,0 @@
-{"index": 236840, "D": "a person, especially a man, who solicits customers for a prostitute or a brothel, usually in return for a share of the earnings; panderer; procurer. ", "S": ["hustler "], "A": []}

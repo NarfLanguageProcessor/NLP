@@ -1,1 +1,1 @@
-{"index": 121076, "D": "festive; festal; showy", "S": ["festive ", "joyful "], "A": []}
+{"index": 121076, "D": "festive; festal; showy", "S": ["festive", "joyful"], "A": []}

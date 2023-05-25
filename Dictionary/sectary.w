@@ -1,1 +1,0 @@
-{"index": 282833, "D": "a member of a particular sect, especially an adherent of a religious body regarded as heretical or schismatic.", "S": ["apostate ", "dissenter ", "dissident ", "freethinker ", "heretic ", "iconoclast ", "infidel ", "miscreant ", "nonconformist ", "revisionist ", "sectarian ", "separationist ", "skeptic ", "unbeliever "], "A": []}

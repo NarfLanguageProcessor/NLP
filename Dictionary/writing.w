@@ -1,1 +1,1 @@
-{"index": 368070, "D": "the act of a person or thing that writes. ", "S": ["calligraphy ", "handwriting ", "print ", "script "], "A": []}
+{"index": 368070, "D": "the act of a person or thing that writes. ", "S": ["calligraphy", "handwriting", "print", "script"], "A": []}

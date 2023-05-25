@@ -1,1 +1,1 @@
-{"index": 98874, "D": "to give power  or authority to; authorize, especially by legal or official means", "S": ["approval ", "certification ", "choice ", "designation ", "election ", "nomination ", "selection "], "A": ["refusal ", "rejection "]}
+{"index": 98874, "D": "to give power  or authority to; authorize, especially by legal or official means", "S": ["approval", "certification", "choice", "designation", "election", "nomination", "selection"], "A": ["refusal", "rejection"]}

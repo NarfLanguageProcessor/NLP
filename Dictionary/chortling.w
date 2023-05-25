@@ -1,1 +1,1 @@
-{"index": 55895, "D": "to chuckle gleefully.", "S": ["amusement ", "chuckle ", "giggle ", "glee ", "guffaw ", "hilarity ", "laugh ", "mirth ", "roar ", "shout ", "shriek ", "snicker "], "A": ["crying ", "sadness ", "unhappiness "]}
+{"index": 55895, "D": "to chuckle gleefully.", "S": ["amusement", "chuckle", "giggle", "glee", "guffaw", "hilarity", "laugh", "mirth", "roar", "shout", "shriek", "snicker"], "A": ["crying", "sadness", "unhappiness"]}

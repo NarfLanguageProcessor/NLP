@@ -1,1 +1,1 @@
-{"index": 5782, "D": "future time. ", "S": ["destiny ", "fate ", "millennium ", "outlook ", "prospect "], "A": ["past "]}
+{"index": 5782, "D": "future time. ", "S": ["destiny", "fate", "millennium", "outlook", "prospect"], "A": ["past"]}

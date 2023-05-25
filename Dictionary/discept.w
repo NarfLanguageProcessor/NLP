@@ -1,1 +1,1 @@
-{"index": 87264, "D": [], "S": ["answer ", "bicker ", "consider ", "contest ", "deliberate ", "oppose ", "question ", "wrangle "], "A": ["agree ", "endorse ", "give in ", "go along ", "harmonize ", "make peace ", "prove "]}
+{"index": 87264, "D": [], "S": ["answer", "bicker", "consider", "contest", "deliberate", "oppose", "question", "wrangle"], "A": ["agree", "endorse", "give in", "go along", "harmonize", "make peace", "prove"]}

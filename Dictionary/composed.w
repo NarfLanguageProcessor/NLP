@@ -1,1 +1,1 @@
-{"index": 64775, "D": "calm; tranquil; serene", "S": ["confident ", "easygoing ", "levelheaded ", "poised ", "relaxed ", "self-assured ", "serene ", "tranquil ", "unflappable ", "unruffled "], "A": ["agitated ", "nervous ", "upset ", "worried ", "excited "]}
+{"index": 64775, "D": "calm; tranquil; serene", "S": ["confident", "easygoing", "levelheaded", "poised", "relaxed", "self-assured", "serene", "tranquil", "unflappable", "unruffled"], "A": ["agitated", "nervous", "upset", "worried", "excited"]}

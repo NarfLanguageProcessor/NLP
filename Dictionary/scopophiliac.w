@@ -1,1 +1,1 @@
-{"index": 281215, "D": "the obtaining of sexual pleasure by looking at nude bodies, erotic photographs, etc.", "S": ["peeper ", "voyeur "], "A": []}
+{"index": 281215, "D": "the obtaining of sexual pleasure by looking at nude bodies, erotic photographs, etc.", "S": ["peeper", "voyeur"], "A": []}

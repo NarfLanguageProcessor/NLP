@@ -1,1 +1,1 @@
-{"index": 260110, "D": "impervious to rain;  keeping out or unaffected by rain", "S": ["impermeable ", "impervious "], "A": ["leaky "]}
+{"index": 260110, "D": "impervious to rain;  keeping out or unaffected by rain", "S": ["impermeable", "impervious"], "A": ["leaky"]}

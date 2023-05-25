@@ -1,1 +1,1 @@
-{"index": 36536, "D": "an embarrassing mistake, as one spoken over the radio or TV.", "S": ["gaffe "], "A": ["accuracy ", "certainty ", "correction ", "correctness ", "perfection ", "success ", "truth "]}
+{"index": 36536, "D": "an embarrassing mistake, as one spoken over the radio or TV.", "S": ["gaffe"], "A": ["accuracy", "certainty", "correction", "correctness", "perfection", "success", "truth"]}

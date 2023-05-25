@@ -1,1 +1,1 @@
-{"index": 112727, "D": "the motion-picture industry.", "S": ["Hollywood ", "big screen ", "cinema ", "films ", "motion pictures ", "motion-picture screen ", "moviedom "], "A": []}
+{"index": 112727, "D": "the motion-picture industry.", "S": ["Hollywood", "big screen", "cinema", "films", "motion pictures", "motion-picture screen", "moviedom"], "A": []}

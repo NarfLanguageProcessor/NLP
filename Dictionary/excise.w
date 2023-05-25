@@ -1,1 +1,1 @@
-{"index": 106675, "D": "an internal tax or duty on certain commodities, as liquor or tobacco, levied on their manufacture, sale, or consumption within the country.", "S": ["surcharge ", "tariff "], "A": []}
+{"index": 106675, "D": "an internal tax or duty on certain commodities, as liquor or tobacco, levied on their manufacture, sale, or consumption within the country.", "S": ["surcharge", "tariff"], "A": []}

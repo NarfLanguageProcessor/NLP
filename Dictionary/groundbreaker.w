@@ -1,1 +1,1 @@
-{"index": 130302, "D": "a person who is an originator, innovator, or pioneer in a particular activity.", "S": ["avant-garde ", "creator ", "discoverer ", "pioneer ", "trailblazer ", "vanguard "], "A": []}
+{"index": 130302, "D": "a person who is an originator, innovator, or pioneer in a particular activity.", "S": ["avant-garde", "creator", "discoverer", "pioneer", "trailblazer", "vanguard"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 95963, "D": "goods; movables; personal property.", "S": ["accouterments ", "chattels ", "goods ", "holdings ", "paraphernalia ", "possessions ", "property ", "stuff ", "things ", "trappings "], "A": []}
+{"index": 95963, "D": "goods; movables; personal property.", "S": ["accouterments", "chattels", "goods", "holdings", "paraphernalia", "possessions", "property", "stuff", "things", "trappings"], "A": []}

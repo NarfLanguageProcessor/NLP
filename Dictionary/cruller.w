@@ -1,1 +1,1 @@
-{"index": 74159, "D": "a rich, light cake cut from a rolled dough and deep-fried, usually having a twisted oblong shape and sometimes topped with sugar or icing.", "S": ["bread ", "doughnut ", "muffin ", "pastry ", "scone "], "A": []}
+{"index": 74159, "D": "a rich, light cake cut from a rolled dough and deep-fried, usually having a twisted oblong shape and sometimes topped with sugar or icing.", "S": ["bread", "doughnut", "muffin", "pastry", "scone"], "A": []}

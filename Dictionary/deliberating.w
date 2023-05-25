@@ -1,1 +1,1 @@
-{"index": 80041, "D": "carefully weighed or considered; studied; intentional", "S": ["consulting ", "conversing ", "counseling ", "discussing ", "meeting ", "talking "], "A": []}
+{"index": 80041, "D": "carefully weighed or considered; studied; intentional", "S": ["consulting", "conversing", "counseling", "discussing", "meeting", "talking"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 116238, "D": "a support for a person's feet,  as an attachment to a barber's chair or a dentist's chair.", "S": ["hassock ", "stool "], "A": []}
+{"index": 116238, "D": "a support for a person's feet,  as an attachment to a barber's chair or a dentist's chair.", "S": ["hassock", "stool"], "A": []}

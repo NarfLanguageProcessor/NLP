@@ -1,1 +1,1 @@
-{"index": 216954, "D": "to live longer than; survive (a person, period, etc.)", "S": ["continue ", "endure ", "outstay ", "prevail ", "remain ", "survive "], "A": ["cease ", "discontinue "]}
+{"index": 216954, "D": "to live longer than; survive (a person, period, etc.)", "S": ["continue", "endure", "outstay", "prevail", "remain", "survive"], "A": ["cease", "discontinue"]}

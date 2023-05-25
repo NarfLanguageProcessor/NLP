@@ -1,1 +1,1 @@
-{"index": 99037, "D": "a glassy substance, usually opaque, applied by fusion to the surface of metal, pottery, etc., as an ornament or for protection.", "S": ["coating ", "glaze ", "lacquer ", "stain ", "varnish "], "A": ["dullness "]}
+{"index": 99037, "D": "a glassy substance, usually opaque, applied by fusion to the surface of metal, pottery, etc., as an ornament or for protection.", "S": ["coating", "glaze", "lacquer", "stain", "varnish"], "A": ["dullness"]}

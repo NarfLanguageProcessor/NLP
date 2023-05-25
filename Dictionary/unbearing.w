@@ -1,1 +1,1 @@
-{"index": 335668, "D": "the manner in which one conducts or carries oneself, including posture and gestures", "S": ["arid ", "desolate ", "empty ", "impoverished ", "infertile ", "parched ", "sterile "], "A": ["damp ", "fruitful ", "full ", "moist ", "productive ", "wet ", "cultivated "]}
+{"index": 335668, "D": "the manner in which one conducts or carries oneself, including posture and gestures", "S": ["arid", "desolate", "empty", "impoverished", "infertile", "parched", "sterile"], "A": ["damp", "fruitful", "full", "moist", "productive", "wet", "cultivated"]}

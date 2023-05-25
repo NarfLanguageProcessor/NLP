@@ -1,1 +1,1 @@
-{"index": 98470, "D": "retired or honorably discharged from active professional duty, but retaining the title of one's office or position", "S": ["discharged ", "retiring "], "A": ["extroverted ", "open ", "sociable "]}
+{"index": 98470, "D": "retired or honorably discharged from active professional duty, but retaining the title of one's office or position", "S": ["discharged", "retiring"], "A": ["extroverted", "open", "sociable"]}

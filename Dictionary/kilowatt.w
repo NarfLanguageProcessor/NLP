@@ -1,1 +1,1 @@
-{"index": 164687, "D": "a unit of power, equal to 1000 watts. Abbreviation", "S": ["dynamism ", "electricity ", "heat ", "potential ", "service ", "strength "], "A": ["lack ", "peace ", "question "]}
+{"index": 164687, "D": "a unit of power, equal to 1000 watts. Abbreviation", "S": ["dynamism", "electricity", "heat", "potential", "service", "strength"], "A": ["lack", "peace", "question"]}

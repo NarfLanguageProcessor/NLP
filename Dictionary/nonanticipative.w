@@ -1,1 +1,0 @@
-{"index": 201344, "D": "anticipating  or tending to anticipate;  expressing, revealing, or containing anticipation", "S": [], "A": []}

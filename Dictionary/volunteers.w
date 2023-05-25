@@ -1,1 +1,1 @@
-{"index": 361256, "D": "a person who voluntarily offers to perform a service or other undertaking.", "S": ["come forward ", "enlist ", "sign up ", "step forward ", "suggest "], "A": ["take back "]}
+{"index": 361256, "D": "a person who voluntarily offers to perform a service or other undertaking.", "S": ["come forward", "enlist", "sign up", "step forward", "suggest"], "A": ["take back"]}

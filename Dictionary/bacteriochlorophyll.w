@@ -1,0 +1,1 @@
+{"index": 26068, "D": "a pale blue-gray form of chlorophyll  that is unique to the photosynthetic but anaerobic purple bacteria.", "S": [], "A": []}

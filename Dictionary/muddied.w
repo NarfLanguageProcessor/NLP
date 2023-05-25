@@ -1,1 +1,1 @@
-{"index": 194664, "D": "abounding in or covered with mud. ", "S": ["disheveled ", "run down ", "seedy ", "threadbare ", "untidy "], "A": ["fresh ", "neat ", "orderly ", "tidy ", "clean "]}
+{"index": 194664, "D": "abounding in or covered with mud. ", "S": ["disheveled", "run down", "seedy", "threadbare", "untidy"], "A": ["fresh", "neat", "orderly", "tidy", "clean"]}

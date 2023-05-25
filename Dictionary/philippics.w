@@ -1,1 +1,1 @@
-{"index": 233640, "D": "Demosthenes' orations against Philip of Macedon", "S": ["diatribe ", "exchange ", "reproach ", "screen ", "tirade "], "A": ["praise "]}
+{"index": 233640, "D": "Demosthenes' orations against Philip of Macedon", "S": ["diatribe", "exchange", "reproach", "screen", "tirade"], "A": ["praise"]}

@@ -1,1 +1,1 @@
-{"index": 82508, "D": "the act of deserting  or the state of being deserted. ", "S": ["betrayal "], "A": ["allowance ", "approval ", "arrival ", "coming ", "meeting ", "ratification ", "stay "]}
+{"index": 82508, "D": "the act of deserting  or the state of being deserted. ", "S": ["betrayal"], "A": ["allowance", "approval", "arrival", "coming", "meeting", "ratification", "stay"]}

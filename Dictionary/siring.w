@@ -1,1 +1,1 @@
-{"index": 292369, "D": "the male parent of a quadruped.", "S": ["establishment ", "formation ", "formulation ", "production "], "A": ["being ", "conclusion ", "end ", "finish "]}
+{"index": 292369, "D": "the male parent of a quadruped.", "S": ["establishment", "formation", "formulation", "production"], "A": ["being", "conclusion", "end", "finish"]}

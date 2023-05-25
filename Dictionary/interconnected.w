@@ -1,1 +1,1 @@
-{"index": 154728, "D": "to connect  with one another.", "S": ["addicted ", "attached ", "hooked ", "interdependent ", "mutually dependent ", "slavish trust ", "unhealthy confidence "], "A": []}
+{"index": 154728, "D": "to connect  with one another.", "S": ["addicted", "attached", "hooked", "interdependent", "mutually dependent", "slavish trust", "unhealthy confidence"], "A": []}

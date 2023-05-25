@@ -1,1 +1,1 @@
-{"index": 94920, "D": "moving, directed, or situated toward the east", "S": ["east ", "eastward ", "on the east side of "], "A": []}
+{"index": 94920, "D": "moving, directed, or situated toward the east", "S": ["east", "eastward", "on the east side of"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 40840, "D": "gray or tawny with darker streaks or spots.", "S": ["checkered ", "discolored ", "flecked ", "motley ", "parti-colored ", "speckled ", "spotted ", "stippled ", "variegated "], "A": ["uncolored ", "unspotted "]}
+{"index": 40840, "D": "gray or tawny with darker streaks or spots.", "S": ["checkered", "discolored", "flecked", "motley", "parti-colored", "speckled", "spotted", "stippled", "variegated"], "A": ["uncolored", "unspotted"]}

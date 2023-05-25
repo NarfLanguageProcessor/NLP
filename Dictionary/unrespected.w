@@ -1,1 +1,1 @@
-{"index": 349739, "D": "a particular, detail, or point (usually preceded by in)", "S": ["overlooked ", "undiscovered ", "unrecognized ", "unseen "], "A": ["noted ", "noticed ", "seen "]}
+{"index": 349739, "D": "a particular, detail, or point (usually preceded by in)", "S": ["overlooked", "undiscovered", "unrecognized", "unseen"], "A": ["noted", "noticed", "seen"]}

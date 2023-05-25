@@ -1,1 +1,1 @@
-{"index": 91717, "D": "a stout linen cloth, especially one of a damask linen.", "S": ["bedding ", "cloth ", "lingerie "], "A": []}
+{"index": 91717, "D": "a stout linen cloth, especially one of a damask linen.", "S": ["bedding", "cloth", "lingerie"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 338326, "D": "to straighten or become straightened out from a curl  or curled  position.", "S": ["rectify ", "uncoil "], "A": ["disarrange ", "disorder ", "disorganize ", "disperse ", "mess up ", "mix up ", "scatter "]}

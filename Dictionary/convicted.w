@@ -1,1 +1,1 @@
-{"index": 68089, "D": "proven or declared guilty of an offense, especially after a legal trial", "S": ["damned ", "doomed ", "fated "], "A": []}
+{"index": 68089, "D": "proven or declared guilty of an offense, especially after a legal trial", "S": ["damned", "doomed", "fated"], "A": []}

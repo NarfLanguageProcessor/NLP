@@ -1,1 +1,1 @@
-{"index": 136976, "D": "a person in charge of a herd,  especially of cattle or sheep.", "S": ["rancher "], "A": []}
+{"index": 136976, "D": "a person in charge of a herd,  especially of cattle or sheep.", "S": ["rancher"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 179686, "D": "excrement, especially of animals, or other refuse used as fertilizer.", "S": ["covering ", "dressing ", "enrichment ", "preparation ", "spreading "], "A": []}
+{"index": 179686, "D": "excrement, especially of animals, or other refuse used as fertilizer.", "S": ["covering", "dressing", "enrichment", "preparation", "spreading"], "A": []}

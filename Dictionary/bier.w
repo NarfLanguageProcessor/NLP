@@ -1,1 +1,1 @@
-{"index": 33596, "D": "a frame or stand on which a corpse or the coffin containing it is laid before burial.", "S": ["catafalque ", "coffin ", "grave ", "hearse ", "pyre ", "support "], "A": []}
+{"index": 33596, "D": "a frame or stand on which a corpse or the coffin containing it is laid before burial.", "S": ["catafalque", "coffin", "grave", "hearse", "pyre", "support"], "A": []}

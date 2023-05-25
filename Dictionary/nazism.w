@@ -1,1 +1,1 @@
-{"index": 197573, "D": "the principles or methods of the Nazis. ", "S": ["National Socialism ", "fascism "], "A": []}
+{"index": 197573, "D": "the principles or methods of the Nazis. ", "S": ["National Socialism", "fascism"], "A": []}

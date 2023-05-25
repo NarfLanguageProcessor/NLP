@@ -1,1 +1,1 @@
-{"index": 44099, "D": "to laugh loudly or immoderately.", "S": ["cackle ", "guffaw ", "roar "], "A": []}
+{"index": 44099, "D": "to laugh loudly or immoderately.", "S": ["cackle", "guffaw", "roar"], "A": []}

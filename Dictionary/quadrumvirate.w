@@ -1,1 +1,1 @@
-{"index": 257713, "D": "a governing or managing group, coalition, or the like, of four persons.", "S": ["quadrivium ", "quadruple ", "quadruplet ", "quadruplets ", "quartet ", "quartette ", "quaternary ", "quaternion ", "quaternity ", "tetrad ", "tetralogy "], "A": []}
+{"index": 257713, "D": "a governing or managing group, coalition, or the like, of four persons.", "S": ["quadrivium", "quadruple", "quadruplet", "quadruplets", "quartet", "quartette", "quaternary", "quaternion", "quaternity", "tetrad", "tetralogy"], "A": []}

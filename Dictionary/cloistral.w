@@ -1,1 +1,1 @@
-{"index": 60378, "D": "of, relating to, or living in a cloister. ", "S": ["reclusive ", "sheltered "], "A": ["seen "]}
+{"index": 60378, "D": "of, relating to, or living in a cloister. ", "S": ["reclusive", "sheltered"], "A": ["seen"]}

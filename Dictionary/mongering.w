@@ -1,1 +1,1 @@
-{"index": 191912, "D": "the act or practice of promoting, spreading, or trading in a specified thing (usually used in combination)", "S": ["hawk ", "solicit "], "A": ["buy ", "pull "]}
+{"index": 191912, "D": "the act or practice of promoting, spreading, or trading in a specified thing (usually used in combination)", "S": ["hawk", "solicit"], "A": ["buy", "pull"]}

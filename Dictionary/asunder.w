@@ -1,1 +1,1 @@
-{"index": 22357, "D": "into separate parts; in or into pieces", "S": ["disconnected ", "disjoined ", "divided ", "in half ", "loose ", "separated ", "split ", "to shreds ", "torn "], "A": ["together "]}
+{"index": 22357, "D": "into separate parts; in or into pieces", "S": ["disconnected", "disjoined", "divided", "in half", "loose", "separated", "split", "to shreds", "torn"], "A": ["together"]}

@@ -1,1 +1,1 @@
-{"index": 237417, "D": "a long tubular conduit or series of pipes,  often underground, with pumps and valves for flow control, used to transport crude oil, natural gas, water, etc., especially over great distances.", "S": ["channel ", "conduit ", "course ", "duct ", "waterworks "], "A": []}
+{"index": 237417, "D": "a long tubular conduit or series of pipes,  often underground, with pumps and valves for flow control, used to transport crude oil, natural gas, water, etc., especially over great distances.", "S": ["channel", "conduit", "course", "duct", "waterworks"], "A": []}

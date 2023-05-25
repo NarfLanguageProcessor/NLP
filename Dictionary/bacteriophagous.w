@@ -1,0 +1,1 @@
+{"index": 26097, "D": "any of a group of viruses that infect specific bacteria,  usually causing their disintegration or dissolution.", "S": [], "A": []}

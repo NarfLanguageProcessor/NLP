@@ -1,1 +1,0 @@
-{"index": 331349, "D": "to beat severely; thrash.", "S": ["bash ", "beat ", "blank ", "clobber ", "crush ", "drub ", "overcome ", "overwhelm ", "put away ", "rout ", "swamp ", "thrash ", "wallop ", "whip "], "A": ["lose ", "surrender ", "underwhelm ", "yield ", "fail ", "forfeit ", "preserve ", "save "]}

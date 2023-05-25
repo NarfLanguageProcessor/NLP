@@ -1,1 +1,1 @@
-{"index": 366435, "D": "in a way that shows good sense or judgment; prudently", "S": ["carefully ", "intelligently ", "judiciously ", "sensibly ", "shrewdly "], "A": ["foolishly ", "stupidly ", "unthinkingly "]}
+{"index": 366435, "D": "in a way that shows good sense or judgment; prudently", "S": ["carefully", "intelligently", "judiciously", "sensibly", "shrewdly"], "A": ["foolishly", "stupidly", "unthinkingly"]}

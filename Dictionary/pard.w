@@ -1,1 +1,1 @@
-{"index": 226287, "D": "a leopard or panther.", "S": ["accomplice ", "ally ", "assistant ", "buddy ", "co-worker ", "cohort ", "collaborator ", "companion ", "comrade ", "crony ", "fellow ", "friend ", "partner "], "A": ["enemy ", "foe ", "opponent "]}
+{"index": 226287, "D": "a leopard or panther.", "S": ["accomplice", "ally", "assistant", "buddy", "co-worker", "cohort", "collaborator", "companion", "comrade", "crony", "fellow", "friend", "partner"], "A": ["enemy", "foe", "opponent"]}

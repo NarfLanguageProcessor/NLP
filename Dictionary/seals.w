@@ -1,1 +1,1 @@
-{"index": 282476, "D": "an embossed emblem, figure, symbol, word, letter, etc., used as attestation or evidence of authenticity", "S": ["imprimatur ", "insignia ", "sticker ", "tape "], "A": ["denial ", "prohibition ", "veto "]}
+{"index": 282476, "D": "an embossed emblem, figure, symbol, word, letter, etc., used as attestation or evidence of authenticity", "S": ["imprimatur", "insignia", "sticker", "tape"], "A": ["denial", "prohibition", "veto"]}

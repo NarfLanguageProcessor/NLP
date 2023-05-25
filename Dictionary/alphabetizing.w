@@ -1,1 +1,1 @@
-{"index": 9339, "D": "to put or arrange in alphabetical  order.", "S": ["index ", "order ", "systematize "], "A": ["disorder ", "disorganize ", "mix up "]}
+{"index": 9339, "D": "to put or arrange in alphabetical  order.", "S": ["index", "order", "systematize"], "A": ["disorder", "disorganize", "mix up"]}

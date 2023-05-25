@@ -1,1 +1,1 @@
-{"index": 245476, "D": "the act of preaching. ", "S": ["sermon "], "A": ["compliment ", "praise "]}
+{"index": 245476, "D": "the act of preaching. ", "S": ["sermon"], "A": ["compliment", "praise"]}

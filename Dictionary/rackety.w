@@ -1,1 +1,1 @@
-{"index": 259449, "D": "making or causing a racket;  noisy.", "S": ["boisterous ", "cacophonous ", "clamorous ", "rambunctious ", "riotous ", "rowdy ", "strident ", "vociferous "], "A": ["calm ", "moderate ", "quiet ", "restrained ", "silent "]}
+{"index": 259449, "D": "making or causing a racket;  noisy.", "S": ["boisterous", "cacophonous", "clamorous", "rambunctious", "riotous", "rowdy", "strident", "vociferous"], "A": ["calm", "moderate", "quiet", "restrained", "silent"]}

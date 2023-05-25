@@ -1,1 +1,1 @@
-{"index": 311153, "D": "the light of the sun; sunshine.", "S": ["daylight ", "daytime ", "light ", "sunshine "], "A": ["darkness ", "night "]}
+{"index": 311153, "D": "the light of the sun; sunshine.", "S": ["daylight", "daytime", "light", "sunshine"], "A": ["darkness", "night"]}

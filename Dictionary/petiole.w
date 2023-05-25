@@ -1,1 +1,1 @@
-{"index": 232402, "D": "the slender stalk by which a leaf is attached to the stem; leafstalk.", "S": ["frond ", "needle ", "petal ", "stalk "], "A": []}
+{"index": 232402, "D": "the slender stalk by which a leaf is attached to the stem; leafstalk.", "S": ["frond", "needle", "petal", "stalk"], "A": []}

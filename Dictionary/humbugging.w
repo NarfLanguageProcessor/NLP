@@ -1,1 +1,1 @@
-{"index": 144923, "D": "something intended to delude or deceive.", "S": ["alter ", "shuffle "], "A": ["leave alone ", "neglect ", "reveal "]}
+{"index": 144923, "D": "something intended to delude or deceive.", "S": ["alter", "shuffle"], "A": ["leave alone", "neglect", "reveal"]}

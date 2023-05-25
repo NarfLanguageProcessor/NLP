@@ -1,1 +1,1 @@
-{"index": 169996, "D": "food remaining uneaten at the end of a meal, especially when saved for later use.", "S": ["extra ", "residual ", "unused "], "A": ["core ", "main ", "principle "]}
+{"index": 169996, "D": "food remaining uneaten at the end of a meal, especially when saved for later use.", "S": ["extra", "residual", "unused"], "A": ["core", "main", "principle"]}

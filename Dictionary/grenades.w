@@ -1,1 +1,1 @@
-{"index": 129722, "D": "a small shell containing an explosive and thrown by hand or fired from a rifle or launching device.", "S": ["ammo ", "armament ", "arsenal ", "bombs ", "bullets ", "explosives ", "gunpowder ", "missiles ", "shells ", "torpedos ", "weapons "], "A": []}
+{"index": 129722, "D": "a small shell containing an explosive and thrown by hand or fired from a rifle or launching device.", "S": ["ammo", "armament", "arsenal", "bombs", "bullets", "explosives", "gunpowder", "missiles", "shells", "torpedos", "weapons"], "A": []}

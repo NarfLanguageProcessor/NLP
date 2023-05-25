@@ -1,1 +1,1 @@
-{"index": 73001, "D": "having a crimped  form or appearance.", "S": ["coiled ", "curled ", "fuzzy ", "kinky ", "wavy "], "A": ["straight "]}
+{"index": 73001, "D": "having a crimped  form or appearance.", "S": ["coiled", "curled", "fuzzy", "kinky", "wavy"], "A": ["straight"]}

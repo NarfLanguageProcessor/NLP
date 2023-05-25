@@ -1,1 +1,1 @@
-{"index": 363496, "D": "having great wealth;  rich; affluent", "S": ["abundance ", "prosperity "], "A": []}
+{"index": 363496, "D": "having great wealth;  rich; affluent", "S": ["abundance", "prosperity"], "A": []}

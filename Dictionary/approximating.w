@@ -1,0 +1,1 @@
+{"index": 18037, "D": "near or approaching a certain state, condition, goal, or standard.", "S": ["alike", "comparable", "related"], "A": ["different", "dissimilar", "unlike", "away", "changing", "divergent", "far", "inconsistent", "mismatched", "unalike", "unequal", "unfriendly", "variable"]}

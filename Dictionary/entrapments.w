@@ -1,1 +1,1 @@
-{"index": 101645, "D": "the luring by a law-enforcement agent of a person into committing a crime", "S": ["embranglement ", "embroilment ", "ensnarement ", "involvement ", "mesh ", "mix up ", "snare ", "tangle ", "trap "], "A": []}
+{"index": 101645, "D": "the luring by a law-enforcement agent of a person into committing a crime", "S": ["embranglement", "embroilment", "ensnarement", "involvement", "mesh", "mix up", "snare", "tangle", "trap"], "A": []}

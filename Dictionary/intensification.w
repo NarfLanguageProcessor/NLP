@@ -1,1 +1,1 @@
-{"index": 154371, "D": "to make intense  or more intense.", "S": ["accretion ", "aggregation ", "buildup ", "growth ", "inflation ", "pile ", "quantity "], "A": ["decrease ", "shrinkage ", "lessening ", "loss ", "reduction ", "subtraction "]}
+{"index": 154371, "D": "to make intense  or more intense.", "S": ["accretion", "aggregation", "buildup", "growth", "inflation", "pile", "quantity"], "A": ["decrease", "shrinkage", "lessening", "loss", "reduction", "subtraction"]}

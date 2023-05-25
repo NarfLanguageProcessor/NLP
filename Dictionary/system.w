@@ -1,1 +1,1 @@
-{"index": 292520, "D": "an assemblage or combination of things or parts forming a complex or unitary whole", "S": ["arrangement ", "organization ", "rule ", "scheme ", "structure "], "A": ["fraction ", "part "]}
+{"index": 292520, "D": "an assemblage or combination of things or parts forming a complex or unitary whole", "S": ["arrangement", "organization", "rule", "scheme", "structure"], "A": ["fraction", "part"]}

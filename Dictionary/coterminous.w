@@ -1,1 +1,1 @@
-{"index": 70302, "D": "having the same border or covering the same area.", "S": ["adjacent ", "contiguous ", "neighboring "], "A": ["detached ", "divided ", "separate "]}
+{"index": 70302, "D": "having the same border or covering the same area.", "S": ["adjacent", "contiguous", "neighboring"], "A": ["detached", "divided", "separate"]}

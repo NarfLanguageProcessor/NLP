@@ -1,1 +1,1 @@
-{"index": 281164, "D": "a ladle or ladlelike utensil, especially a small, deep-sided shovel with a short, horizontal handle, for taking up flour, sugar, etc.", "S": ["utensil "], "A": []}
+{"index": 281164, "D": "a ladle or ladlelike utensil, especially a small, deep-sided shovel with a short, horizontal handle, for taking up flour, sugar, etc.", "S": ["utensil"], "A": []}

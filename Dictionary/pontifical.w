@@ -1,1 +1,1 @@
-{"index": 243071, "D": "of, relating to, or characteristic of a pontiff;  papal.", "S": ["papal "], "A": []}
+{"index": 243071, "D": "of, relating to, or characteristic of a pontiff;  papal.", "S": ["papal"], "A": []}

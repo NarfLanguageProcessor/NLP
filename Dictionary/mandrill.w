@@ -1,1 +1,1 @@
-{"index": 179068, "D": "a large baboon, Mandrillus (or Papio) sphinx, of western Africa, the male of which has a face brightly marked with blue and scarlet and a muzzle that is ribbed", "S": ["monkey "], "A": []}
+{"index": 179068, "D": "a large baboon, Mandrillus (or Papio) sphinx, of western Africa, the male of which has a face brightly marked with blue and scarlet and a muzzle that is ribbed", "S": ["monkey"], "A": []}

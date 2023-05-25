@@ -1,1 +1,1 @@
-{"index": 337320, "D": "in an uncommon  or unusual manner or degree.", "S": ["exceptionally ", "extremely ", "remarkably ", "strangely ", "unusually "], "A": ["normally ", "usually "]}
+{"index": 337320, "D": "in an uncommon  or unusual manner or degree.", "S": ["exceptionally", "extremely", "remarkably", "strangely", "unusually"], "A": ["normally", "usually"]}

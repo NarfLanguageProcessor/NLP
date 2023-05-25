@@ -1,1 +1,1 @@
-{"index": 308715, "D": "the act of placing in a lower rank or position", "S": ["servitude ", "submission ", "subservience "], "A": []}
+{"index": 308715, "D": "the act of placing in a lower rank or position", "S": ["servitude", "submission", "subservience"], "A": []}

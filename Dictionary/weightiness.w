@@ -1,1 +1,1 @@
-{"index": 363903, "D": "having considerable weight;  heavy; ponderous", "S": ["bulk ", "bulkiness ", "fat ", "fatness ", "heft ", "heftiness ", "ponderosity ", "ponderousness ", "weight "], "A": []}
+{"index": 363903, "D": "having considerable weight;  heavy; ponderous", "S": ["bulk", "bulkiness", "fat", "fatness", "heft", "heftiness", "ponderosity", "ponderousness", "weight"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 333338, "D": "lighted by or as by twilight", "S": ["funereal "], "A": ["bright ", "clear ", "light "]}

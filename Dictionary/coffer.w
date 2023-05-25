@@ -1,1 +1,1 @@
-{"index": 62159, "D": "a box or chest, especially one for valuables.", "S": ["exchequer ", "treasury ", "war chest "], "A": []}
+{"index": 62159, "D": "a box or chest, especially one for valuables.", "S": ["exchequer", "treasury", "war chest"], "A": []}

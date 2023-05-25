@@ -1,1 +1,1 @@
-{"index": 2283, "D": "causing physical pain or distress", "S": ["hurting ", "nagging ", "sore ", "throbbing "], "A": ["experienced ", "healthy "]}
+{"index": 2283, "D": "causing physical pain or distress", "S": ["hurting", "nagging", "sore", "throbbing"], "A": ["experienced", "healthy"]}

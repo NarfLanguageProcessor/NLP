@@ -1,1 +1,1 @@
-{"index": 259400, "D": "rickets. ", "S": ["broken ", "decrepit ", "derelict ", "dilapidated ", "flimsy ", "ramshackle ", "shaky ", "wobbly "], "A": ["firm ", "stable ", "steady "]}
+{"index": 259400, "D": "rickets. ", "S": ["broken", "decrepit", "derelict", "dilapidated", "flimsy", "ramshackle", "shaky", "wobbly"], "A": ["firm", "stable", "steady"]}

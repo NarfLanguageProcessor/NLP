@@ -1,1 +1,1 @@
-{"index": 265394, "D": "the act or process of refrigerating. ", "S": ["chilling ", "freezing "], "A": []}
+{"index": 265394, "D": "the act or process of refrigerating. ", "S": ["chilling", "freezing"], "A": []}

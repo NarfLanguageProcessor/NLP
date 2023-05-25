@@ -1,1 +1,1 @@
-{"index": 52899, "D": "marked by good fortune or privilege", "S": ["captivated ", "delighted ", "mesmerized "], "A": ["disenchanted ", "disinterested "]}
+{"index": 52899, "D": "marked by good fortune or privilege", "S": ["captivated", "delighted", "mesmerized"], "A": ["disenchanted", "disinterested"]}

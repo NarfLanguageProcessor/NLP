@@ -1,1 +1,1 @@
-{"index": 224779, "D": "permitting the viewing of all parts or elements", "S": ["sweeping "], "A": []}
+{"index": 224779, "D": "permitting the viewing of all parts or elements", "S": ["sweeping"], "A": []}

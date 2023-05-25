@@ -1,1 +1,1 @@
-{"index": 188055, "D": "less by the subtraction of; decreased by", "S": ["damage ", "inconvenience ", "involvement ", "loan ", "mortgage ", "obligation ", "responsibility "], "A": ["advantage ", "benefit ", "profit ", "aid ", "assistance ", "blessing ", "certainty ", "help "]}
+{"index": 188055, "D": "less by the subtraction of; decreased by", "S": ["damage", "inconvenience", "involvement", "loan", "mortgage", "obligation", "responsibility"], "A": ["advantage", "benefit", "profit", "aid", "assistance", "blessing", "certainty", "help"]}

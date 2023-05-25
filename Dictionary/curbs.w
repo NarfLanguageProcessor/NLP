@@ -1,1 +1,1 @@
-{"index": 75227, "D": "a rim, especially of joined stones or concrete, along a street or roadway, forming an edge for a sidewalk.", "S": ["barrier ", "ledge ", "rein ", "restraint ", "restriction "], "A": ["freedom ", "encouragement "]}
+{"index": 75227, "D": "a rim, especially of joined stones or concrete, along a street or roadway, forming an edge for a sidewalk.", "S": ["barrier", "ledge", "rein", "restraint", "restriction"], "A": ["freedom", "encouragement"]}

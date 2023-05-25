@@ -1,1 +1,1 @@
-{"index": 179519, "D": [], "S": ["assassin ", "butcher ", "cut-throat ", "enforcer ", "executioner ", "killer ", "murderess ", "slaughterer ", "slayer ", "triggerman "], "A": []}
+{"index": 179519, "D": [], "S": ["assassin", "butcher", "cut-throat", "enforcer", "executioner", "killer", "murderess", "slaughterer", "slayer", "triggerman"], "A": []}

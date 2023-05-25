@@ -1,1 +1,1 @@
-{"index": 296366, "D": "very sympathetic or responsive; generous in spirit", "S": ["benevolence ", "empathy ", "grace ", "humanity ", "kindness ", "mercy ", "sorrow ", "sympathy ", "tenderness "], "A": ["animosity ", "cruelty ", "ill will ", "meanness ", "mercilessness "]}
+{"index": 296366, "D": "very sympathetic or responsive; generous in spirit", "S": ["benevolence", "empathy", "grace", "humanity", "kindness", "mercy", "sorrow", "sympathy", "tenderness"], "A": ["animosity", "cruelty", "ill will", "meanness", "mercilessness"]}

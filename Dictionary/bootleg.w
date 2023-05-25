@@ -1,1 +1,1 @@
-{"index": 38259, "D": "alcoholic liquor unlawfully made, sold, or transported, without registration or payment of taxes.", "S": ["contraband ", "illicit ", "pirated ", "smuggled ", "unauthorized "], "A": ["legal ", "permitted "]}
+{"index": 38259, "D": "alcoholic liquor unlawfully made, sold, or transported, without registration or payment of taxes.", "S": ["contraband", "illicit", "pirated", "smuggled", "unauthorized"], "A": ["legal", "permitted"]}

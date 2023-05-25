@@ -1,1 +1,1 @@
-{"index": 110589, "D": "the obligation or the engagement to be faithful to a lord, usually sworn to by a vassal.", "S": ["faithfulness ", "loyalty "], "A": ["disloyalty ", "faithlessness ", "inconstancy ", "treachery ", "unsteadiness "]}
+{"index": 110589, "D": "the obligation or the engagement to be faithful to a lord, usually sworn to by a vassal.", "S": ["faithfulness", "loyalty"], "A": ["disloyalty", "faithlessness", "inconstancy", "treachery", "unsteadiness"]}

@@ -1,1 +1,1 @@
-{"index": 364716, "D": "to sharpen (a knife, tool, etc.) by grinding or friction.", "S": ["hone ", "sharpen "], "A": ["blunt ", "dampen ", "dishearten ", "dull "]}
+{"index": 364716, "D": "to sharpen (a knife, tool, etc.) by grinding or friction.", "S": ["hone", "sharpen"], "A": ["blunt", "dampen", "dishearten", "dull"]}

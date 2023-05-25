@@ -1,1 +1,1 @@
-{"index": 364919, "D": "an unimportant but offensively presumptuous person, especially a young one.", "S": ["child ", "fellow ", "guy ", "lad ", "youngster ", "youth "], "A": ["girl "]}
+{"index": 364919, "D": "an unimportant but offensively presumptuous person, especially a young one.", "S": ["child", "fellow", "guy", "lad", "youngster", "youth"], "A": ["girl"]}

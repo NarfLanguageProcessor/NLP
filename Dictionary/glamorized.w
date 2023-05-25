@@ -1,1 +1,1 @@
-{"index": 125879, "D": "to make glamorous. ", "S": ["adorn ", "bedeck ", "decorate "], "A": ["decrease ", "harm ", "hurt ", "worsen "]}
+{"index": 125879, "D": "to make glamorous. ", "S": ["adorn", "bedeck", "decorate"], "A": ["decrease", "harm", "hurt", "worsen"]}

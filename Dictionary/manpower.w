@@ -1,1 +1,1 @@
-{"index": 179487, "D": "power  in terms of people available or required for work or military service", "S": ["workers "], "A": []}
+{"index": 179487, "D": "power  in terms of people available or required for work or military service", "S": ["workers"], "A": []}

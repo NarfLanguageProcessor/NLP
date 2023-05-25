@@ -1,1 +1,1 @@
-{"index": 146206, "D": "symbolic representation, especially the conventional meanings attached to an image or images.", "S": ["drawing ", "emblem "], "A": []}
+{"index": 146206, "D": "symbolic representation, especially the conventional meanings attached to an image or images.", "S": ["drawing", "emblem"], "A": []}

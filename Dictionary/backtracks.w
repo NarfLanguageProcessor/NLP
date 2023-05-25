@@ -1,1 +1,1 @@
-{"index": 25990, "D": "to return over the same course or route.", "S": ["fall back ", "retract ", "reverse "], "A": ["advance ", "remain ", "stay "]}
+{"index": 25990, "D": "to return over the same course or route.", "S": ["fall back", "retract", "reverse"], "A": ["advance", "remain", "stay"]}

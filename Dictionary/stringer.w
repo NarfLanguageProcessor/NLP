@@ -1,1 +1,0 @@
-{"index": 306331, "D": "a person or thing that strings. ", "S": ["girder ", "joist ", "piling ", "pillar ", "plank ", "pole ", "shaft ", "sill ", "timber "], "A": []}

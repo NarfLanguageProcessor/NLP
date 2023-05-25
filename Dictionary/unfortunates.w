@@ -1,1 +1,1 @@
-{"index": 342611, "D": "suffering from bad luck", "S": ["blunderer ", "bungler ", "hard-luck guy ", "loser ", "schlemiel ", "unfortunate "], "A": []}
+{"index": 342611, "D": "suffering from bad luck", "S": ["blunderer", "bungler", "hard-luck guy", "loser", "schlemiel", "unfortunate"], "A": []}

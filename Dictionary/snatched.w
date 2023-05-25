@@ -1,1 +1,1 @@
-{"index": 295361, "D": "amazingly good, very attractive, flawlessly styled, etc.", "S": ["appropriated ", "kidnapped ", "seized ", "stolen "], "A": []}
+{"index": 295361, "D": "amazingly good, very attractive, flawlessly styled, etc.", "S": ["appropriated", "kidnapped", "seized", "stolen"], "A": []}

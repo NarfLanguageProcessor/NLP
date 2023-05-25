@@ -1,1 +1,0 @@
-{"index": 361838, "D": "to move from side to side, forward and backward, or up and down, especially rapidly and repeatedly", "S": ["beat ", "bob ", "flutter ", "lash ", "nod ", "oscillate ", "quiver ", "rock ", "shake ", "shimmy ", "stir ", "sway ", "swing ", "switch ", "twitch ", "vibrate ", "waggle ", "wave "], "A": ["calm ", "leave alone ", "stay "]}

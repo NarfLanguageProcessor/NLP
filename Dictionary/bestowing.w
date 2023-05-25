@@ -1,1 +1,1 @@
-{"index": 32612, "D": "to present as a gift; give; confer  (usually followed by on or upon)", "S": ["bequeath ", "confer ", "donate ", "entrust ", "grant ", "hand out ", "lavish "], "A": ["take ", "deny ", "keep ", "refuse ", "withhold "]}
+{"index": 32612, "D": "to present as a gift; give; confer  (usually followed by on or upon)", "S": ["bequeath", "confer", "donate", "entrust", "grant", "hand out", "lavish"], "A": ["take", "deny", "keep", "refuse", "withhold"]}

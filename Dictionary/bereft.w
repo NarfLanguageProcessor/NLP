@@ -1,0 +1,1 @@
+{"index": 32019, "D": "a simple past tense and past participle of bereave. ", "S": ["beggared", "bereaved", "cut off", "deprived", "destitute", "devoid", "dispossessed", "divested", "fleeced", "impoverished", "left without", "minus", "naked", "parted from", "robbed", "shorn", "stripped", "wanting", "without"], "A": ["full", "happy"]}

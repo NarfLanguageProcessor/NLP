@@ -1,1 +1,1 @@
-{"index": 103202, "D": "of, relating to, or near an equator,  especially the equator of the earth.", "S": ["central ", "tropic "], "A": []}
+{"index": 103202, "D": "of, relating to, or near an equator,  especially the equator of the earth.", "S": ["central", "tropic"], "A": []}

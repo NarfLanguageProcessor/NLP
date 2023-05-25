@@ -1,1 +1,1 @@
-{"index": 191128, "D": "a moderate or small amount", "S": ["iota ", "ounce ", "shred "], "A": ["lot ", "entirety ", "total ", "whole "]}
+{"index": 191128, "D": "a moderate or small amount", "S": ["iota", "ounce", "shred"], "A": ["lot", "entirety", "total", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 80896, "D": "the common people of an ancient Greek state.", "S": ["commonality ", "commonalty ", "masses ", "mob ", "multitude ", "plebeians ", "plebs ", "proletariat ", "public ", "rabble ", "society "], "A": []}
+{"index": 80896, "D": "the common people of an ancient Greek state.", "S": ["commonality", "commonalty", "masses", "mob", "multitude", "plebeians", "plebs", "proletariat", "public", "rabble", "society"], "A": []}

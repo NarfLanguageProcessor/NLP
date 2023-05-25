@@ -1,1 +1,1 @@
-{"index": 128698, "D": "a metric unit of mass or weight equal to 15.432 grains; one thousandth of a kilogram. Abbreviation", "S": ["ancestor ", "grandma ", "granny ", "matriarch "], "A": []}
+{"index": 128698, "D": "a metric unit of mass or weight equal to 15.432 grains; one thousandth of a kilogram. Abbreviation", "S": ["ancestor", "grandma", "granny", "matriarch"], "A": []}

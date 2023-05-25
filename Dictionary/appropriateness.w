@@ -1,0 +1,1 @@
+{"index": 18002, "D": "suitable or fitting for a particular purpose, person, occasion, etc.", "S": ["propriety", "suitability", "usefulness"], "A": ["inappropriateness", "unsuitableness"]}

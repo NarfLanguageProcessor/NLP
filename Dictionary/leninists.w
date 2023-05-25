@@ -1,1 +1,1 @@
-{"index": 170442, "D": "of or relating to Lenin  or to Leninism.", "S": ["Bolshevik ", "Bolshevist ", "Commie ", "Maoist ", "Marxist ", "Stalinist ", "Trotskyite ", "apparatchik ", "comrade ", "leftist ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}
+{"index": 170442, "D": "of or relating to Lenin  or to Leninism.", "S": ["Bolshevik", "Bolshevist", "Commie", "Maoist", "Marxist", "Stalinist", "Trotskyite", "apparatchik", "comrade", "leftist", "red", "socialist", "sympathizer"], "A": ["capitalist", "conservative", "fascist"]}

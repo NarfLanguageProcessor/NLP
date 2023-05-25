@@ -1,1 +1,1 @@
-{"index": 255387, "D": "a specialist in psychology. ", "S": ["clinician ", "doctor ", "psychoanalyst ", "psychotherapist ", "therapist "], "A": []}
+{"index": 255387, "D": "a specialist in psychology. ", "S": ["clinician", "doctor", "psychoanalyst", "psychotherapist", "therapist"], "A": []}

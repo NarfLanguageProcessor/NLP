@@ -1,1 +1,1 @@
-{"index": 154069, "D": "material used for insulating. ", "S": ["covering ", "cushioning ", "lining ", "padding "], "A": []}
+{"index": 154069, "D": "material used for insulating. ", "S": ["covering", "cushioning", "lining", "padding"], "A": []}

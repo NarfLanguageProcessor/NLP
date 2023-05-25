@@ -1,1 +1,1 @@
-{"index": 38672, "D": "a specialist in botany. ", "S": ["biologist ", "conservationist ", "ecologist ", "environmentalist ", "zoologist "], "A": []}
+{"index": 38672, "D": "a specialist in botany. ", "S": ["biologist", "conservationist", "ecologist", "environmentalist", "zoologist"], "A": []}

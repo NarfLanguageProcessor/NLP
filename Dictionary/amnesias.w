@@ -1,1 +1,1 @@
-{"index": 10817, "D": "loss of a large block of interrelated memories; complete or partial loss of memory caused by brain injury, shock, etc.", "S": ["blackout ", "fugue ", "stupor "], "A": []}
+{"index": 10817, "D": "loss of a large block of interrelated memories; complete or partial loss of memory caused by brain injury, shock, etc.", "S": ["blackout", "fugue", "stupor"], "A": []}

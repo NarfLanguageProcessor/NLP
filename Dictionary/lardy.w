@@ -1,1 +1,1 @@
-{"index": 168470, "D": "like or consisting of lard", "S": ["greasy ", "oily "], "A": ["dry "]}
+{"index": 168470, "D": "like or consisting of lard", "S": ["greasy", "oily"], "A": ["dry"]}

@@ -1,1 +1,1 @@
-{"index": 62900, "D": "to gather together; assemble", "S": ["accepting ", "acquiring ", "drawing ", "earning ", "gathering ", "getting ", "inheriting ", "making "], "A": ["giving "]}
+{"index": 62900, "D": "to gather together; assemble", "S": ["accepting", "acquiring", "drawing", "earning", "gathering", "getting", "inheriting", "making"], "A": ["giving"]}

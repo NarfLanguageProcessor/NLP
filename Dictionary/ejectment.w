@@ -1,1 +1,1 @@
-{"index": 96602, "D": "the act of ejecting. ", "S": ["dismissal ", "dispossession ", "eviction ", "expulsion ", "ouster "], "A": []}
+{"index": 96602, "D": "the act of ejecting. ", "S": ["dismissal", "dispossession", "eviction", "expulsion", "ouster"], "A": []}

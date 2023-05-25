@@ -1,1 +1,1 @@
-{"index": 15469, "D": "a contradiction in terms or ideas.", "S": ["antithesis ", "contrary "], "A": ["agreement ", "same ", "similarity "]}
+{"index": 15469, "D": "a contradiction in terms or ideas.", "S": ["antithesis", "contrary"], "A": ["agreement", "same", "similarity"]}

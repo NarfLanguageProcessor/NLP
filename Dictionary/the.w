@@ -1,1 +1,1 @@
-{"index": 320688, "D": "(used, especially before a noun, with a specifying or particularizing effect, as opposed to the indefinite or generalizing force of the indefinite article a or an)", "S": ["every "], "A": ["a ", "an "]}
+{"index": 320688, "D": "(used, especially before a noun, with a specifying or particularizing effect, as opposed to the indefinite or generalizing force of the indefinite article a or an)", "S": ["every"], "A": ["a", "an"]}

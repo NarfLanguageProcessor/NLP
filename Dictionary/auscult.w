@@ -1,1 +1,1 @@
-{"index": 23654, "D": [], "S": ["accept ", "admit ", "attend ", "get ", "observe ", "take notice ", "tune in "], "A": ["deny ", "dispute ", "ignore ", "miss ", "refuse ", "reject ", "disobey ", "disregard ", "forget ", "neglect ", "turn away "]}
+{"index": 23654, "D": [], "S": ["accept", "admit", "attend", "get", "observe", "take notice", "tune in"], "A": ["deny", "dispute", "ignore", "miss", "refuse", "reject", "disobey", "disregard", "forget", "neglect", "turn away"]}

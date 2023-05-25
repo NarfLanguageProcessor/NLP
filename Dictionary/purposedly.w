@@ -1,1 +1,1 @@
-{"index": 257046, "D": [], "S": ["deliberately ", "purposely "], "A": ["unintentionally "]}
+{"index": 257046, "D": [], "S": ["deliberately", "purposely"], "A": ["unintentionally"]}

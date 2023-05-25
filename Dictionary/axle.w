@@ -1,1 +1,1 @@
-{"index": 25153, "D": "the pin, bar, shaft, or the like, on which or by means of which a wheel or pair of wheels rotates.", "S": ["arbor ", "axis ", "gudgeon ", "mandrel ", "pin ", "pivot ", "pole ", "rod ", "shaft ", "spindle ", "stalk ", "stem ", "support "], "A": []}
+{"index": 25153, "D": "the pin, bar, shaft, or the like, on which or by means of which a wheel or pair of wheels rotates.", "S": ["arbor", "axis", "gudgeon", "mandrel", "pin", "pivot", "pole", "rod", "shaft", "spindle", "stalk", "stem", "support"], "A": []}

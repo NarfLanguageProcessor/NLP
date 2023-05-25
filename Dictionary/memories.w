@@ -1,1 +1,1 @@
-{"index": 183202, "D": "the plural of memory. ", "S": ["death's-head ", "memoirs ", "memorial ", "reminder of human failure ", "reminder of mortality ", "skull "], "A": []}
+{"index": 183202, "D": "the plural of memory. ", "S": ["death's-head", "memoirs", "memorial", "reminder of human failure", "reminder of mortality", "skull"], "A": []}

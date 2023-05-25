@@ -1,1 +1,1 @@
-{"index": 74255, "D": "any of the military expeditions undertaken by the Christians of Europe in the 11th, 12th, and 13th centuries for the recovery of the Holy Land from the Muslims.", "S": ["barnstorm ", "lobby ", "politick ", "stump "], "A": []}
+{"index": 74255, "D": "any of the military expeditions undertaken by the Christians of Europe in the 11th, 12th, and 13th centuries for the recovery of the Holy Land from the Muslims.", "S": ["barnstorm", "lobby", "politick", "stump"], "A": []}

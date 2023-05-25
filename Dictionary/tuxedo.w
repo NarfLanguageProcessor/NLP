@@ -1,1 +1,1 @@
-{"index": 333128, "D": "a man's jacket for semiformal evening dress, traditionally of black or dark-blue color and characteristically having satin or grosgrain facing on the lapels.", "S": ["tux "], "A": []}
+{"index": 333128, "D": "a man's jacket for semiformal evening dress, traditionally of black or dark-blue color and characteristically having satin or grosgrain facing on the lapels.", "S": ["tux"], "A": []}

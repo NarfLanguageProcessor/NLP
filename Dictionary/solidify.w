@@ -1,1 +1,1 @@
-{"index": 296735, "D": "to make solid;  make into a hard or compact mass; change from a liquid or gaseous to a solid  form.", "S": ["cement ", "crystallize ", "stiffen ", "strengthen "], "A": ["dilute ", "dissolve ", "divide ", "liquefy ", "melt ", "separate ", "soften ", "thin "]}
+{"index": 296735, "D": "to make solid;  make into a hard or compact mass; change from a liquid or gaseous to a solid  form.", "S": ["cement", "crystallize", "stiffen", "strengthen"], "A": ["dilute", "dissolve", "divide", "liquefy", "melt", "separate", "soften", "thin"]}

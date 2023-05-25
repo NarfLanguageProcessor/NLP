@@ -1,1 +1,1 @@
-{"index": 197076, "D": "a small Arctic whale, Monodon monoceros, the male of which has a long, spirally twisted tusk extending forward from the upper jaw.", "S": ["beluga ", "dolphin ", "grampus ", "mammal ", "orca ", "porpoise ", "whale "], "A": []}
+{"index": 197076, "D": "a small Arctic whale, Monodon monoceros, the male of which has a long, spirally twisted tusk extending forward from the upper jaw.", "S": ["beluga", "dolphin", "grampus", "mammal", "orca", "porpoise", "whale"], "A": []}

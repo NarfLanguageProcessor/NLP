@@ -1,1 +1,1 @@
-{"index": 181660, "D": "right hand.", "S": ["expert ", "physician ", "professor ", "scientist ", "specialist ", "surgeon "], "A": ["patient "]}
+{"index": 181660, "D": "right hand.", "S": ["expert", "physician", "professor", "scientist", "specialist", "surgeon"], "A": ["patient"]}

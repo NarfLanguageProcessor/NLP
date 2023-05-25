@@ -1,1 +1,1 @@
-{"index": 229055, "D": "a person or thing that emits or utters a peeping  sound.", "S": ["blinder ", "eyeball ", "headlight ", "lamp ", "ocular ", "oculus ", "optic ", "pie "], "A": []}
+{"index": 229055, "D": "a person or thing that emits or utters a peeping  sound.", "S": ["blinder", "eyeball", "headlight", "lamp", "ocular", "oculus", "optic", "pie"], "A": []}

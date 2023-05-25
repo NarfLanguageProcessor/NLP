@@ -1,1 +1,1 @@
-{"index": 349506, "D": "to pay, recompense, or reward for work, trouble, etc.", "S": ["contributed ", "donated ", "due ", "freewilled ", "gratuitous ", "honorary ", "uncompensated ", "unindemnified ", "unrecompensed ", "unrewarded ", "unsalaried ", "voluntary ", "volunteer "], "A": []}
+{"index": 349506, "D": "to pay, recompense, or reward for work, trouble, etc.", "S": ["contributed", "donated", "due", "freewilled", "gratuitous", "honorary", "uncompensated", "unindemnified", "unrecompensed", "unrewarded", "unsalaried", "voluntary", "volunteer"], "A": []}

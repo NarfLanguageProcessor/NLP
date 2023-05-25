@@ -1,1 +1,1 @@
-{"index": 3560, "D": "something that is added, as one substance to another, to alter or improve the general quality or to counteract undesirable properties", "S": ["preservative ", "supplement "], "A": []}
+{"index": 3560, "D": "something that is added, as one substance to another, to alter or improve the general quality or to counteract undesirable properties", "S": ["preservative", "supplement"], "A": []}

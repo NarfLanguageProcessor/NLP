@@ -1,1 +1,1 @@
-{"index": 236075, "D": "pertaining to, expressed in, or of the nature of a picture.", "S": ["descriptive ", "illustrated ", "photographic ", "visual ", "vivid "], "A": []}
+{"index": 236075, "D": "pertaining to, expressed in, or of the nature of a picture.", "S": ["descriptive", "illustrated", "photographic", "visual", "vivid"], "A": []}

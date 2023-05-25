@@ -1,1 +1,1 @@
-{"index": 141872, "D": "of, pertaining to, treating, or characteristic of history  or past events", "S": ["actual ", "ancient ", "archival ", "classical ", "factual ", "real "], "A": ["false ", "imaginary ", "modern "]}
+{"index": 141872, "D": "of, pertaining to, treating, or characteristic of history  or past events", "S": ["actual", "ancient", "archival", "classical", "factual", "real"], "A": ["false", "imaginary", "modern"]}

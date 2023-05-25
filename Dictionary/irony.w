@@ -1,1 +1,1 @@
-{"index": 158072, "D": "the use of words to convey a meaning that is the opposite of its literal meaning", "S": ["humor ", "paradox ", "satire ", "twist ", "wit "], "A": ["seriousness ", "approval ", "compliment ", "flattery ", "praise ", "respect "]}
+{"index": 158072, "D": "the use of words to convey a meaning that is the opposite of its literal meaning", "S": ["humor", "paradox", "satire", "twist", "wit"], "A": ["seriousness", "approval", "compliment", "flattery", "praise", "respect"]}

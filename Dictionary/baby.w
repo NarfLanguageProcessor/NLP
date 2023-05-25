@@ -1,1 +1,1 @@
-{"index": 25504, "D": "an infant or very young child.", "S": ["diminutive ", "dwarf ", "little ", "midget ", "mini ", "minute ", "petite ", "small ", "wee "], "A": ["big ", "enormous ", "giant ", "huge ", "immense ", "important ", "large ", "tall "]}
+{"index": 25504, "D": "an infant or very young child.", "S": ["diminutive", "dwarf", "little", "midget", "mini", "minute", "petite", "small", "wee"], "A": ["big", "enormous", "giant", "huge", "immense", "important", "large", "tall"]}

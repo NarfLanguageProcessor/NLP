@@ -1,1 +1,1 @@
-{"index": 144463, "D": "a woman in charge of a residence, especially for children, students, or young women, who acts as hostess, chaperon, and occasionally as housekeeper.", "S": ["matron "], "A": []}
+{"index": 144463, "D": "a woman in charge of a residence, especially for children, students, or young women, who acts as hostess, chaperon, and occasionally as housekeeper.", "S": ["matron"], "A": []}

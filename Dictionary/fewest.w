@@ -1,1 +1,1 @@
-{"index": 111902, "D": "not many but more than one", "S": ["bottom ", "first ", "gutter ", "infinitesimal ", "last ", "minimum ", "minute ", "nadir ", "second ", "third "], "A": ["big ", "huge ", "large ", "substantial "]}
+{"index": 111902, "D": "not many but more than one", "S": ["bottom", "first", "gutter", "infinitesimal", "last", "minimum", "minute", "nadir", "second", "third"], "A": ["big", "huge", "large", "substantial"]}

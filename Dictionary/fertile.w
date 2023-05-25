@@ -1,1 +1,1 @@
-{"index": 111594, "D": "bearing, producing, or capable of producing vegetation, crops, etc., abundantly; prolific", "S": ["abundant ", "arable ", "fruitful ", "lush ", "productive ", "rich "], "A": ["barren ", "impotent ", "sparse ", "unfruitful ", "unproductive "]}
+{"index": 111594, "D": "bearing, producing, or capable of producing vegetation, crops, etc., abundantly; prolific", "S": ["abundant", "arable", "fruitful", "lush", "productive", "rich"], "A": ["barren", "impotent", "sparse", "unfruitful", "unproductive"]}

@@ -1,1 +1,1 @@
-{"index": 107619, "D": "promoting the discharge of phlegm or other fluid from the respiratory tract.", "S": ["cough medicine "], "A": []}
+{"index": 107619, "D": "promoting the discharge of phlegm or other fluid from the respiratory tract.", "S": ["cough medicine"], "A": []}

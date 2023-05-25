@@ -1,1 +1,1 @@
-{"index": 330787, "D": "having achieved victory or success; victorious; successful. ", "S": ["celebratory ", "elated ", "exultant ", "glorious ", "happy ", "jubilant ", "proud ", "triumphal ", "victorious "], "A": ["depressed ", "discouraged ", "sad ", "sorrowful ", "unhappy "]}
+{"index": 330787, "D": "having achieved victory or success; victorious; successful. ", "S": ["celebratory", "elated", "exultant", "glorious", "happy", "jubilant", "proud", "triumphal", "victorious"], "A": ["depressed", "discouraged", "sad", "sorrowful", "unhappy"]}

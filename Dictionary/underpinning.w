@@ -1,1 +1,1 @@
-{"index": 339578, "D": "a system of supports beneath a wall or the like.", "S": ["base ", "support "], "A": []}
+{"index": 339578, "D": "a system of supports beneath a wall or the like.", "S": ["base", "support"], "A": []}

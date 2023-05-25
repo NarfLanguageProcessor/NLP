@@ -1,1 +1,1 @@
-{"index": 160867, "D": "a female given name, form of Jennifer. ", "S": ["burro ", "horse ", "mule "], "A": []}
+{"index": 160867, "D": "a female given name, form of Jennifer. ", "S": ["burro", "horse", "mule"], "A": []}

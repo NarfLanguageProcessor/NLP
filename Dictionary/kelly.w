@@ -1,1 +1,1 @@
-{"index": 163728, "D": "a man's stiff hat, as a derby or straw skimmer.", "S": ["blue-green ", "olive "], "A": []}
+{"index": 163728, "D": "a man's stiff hat, as a derby or straw skimmer.", "S": ["blue-green", "olive"], "A": []}

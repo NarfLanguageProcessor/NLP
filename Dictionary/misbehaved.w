@@ -1,1 +1,1 @@
-{"index": 188781, "D": "to behave  badly or improperly", "S": ["blasphemous ", "contemptuous ", "flippant ", "impolite ", "profane ", "sacrilegious "], "A": ["courteous ", "polite ", "respectful ", "reverent "]}
+{"index": 188781, "D": "to behave  badly or improperly", "S": ["blasphemous", "contemptuous", "flippant", "impolite", "profane", "sacrilegious"], "A": ["courteous", "polite", "respectful", "reverent"]}

@@ -1,1 +1,1 @@
-{"index": 229024, "D": "to look or glance quickly or furtively, especially through a small opening or from a concealed location; peep; peer.", "S": ["glance ", "peep ", "snoop "], "A": ["ignore ", "overlook "]}
+{"index": 229024, "D": "to look or glance quickly or furtively, especially through a small opening or from a concealed location; peep; peer.", "S": ["glance", "peep", "snoop"], "A": ["ignore", "overlook"]}

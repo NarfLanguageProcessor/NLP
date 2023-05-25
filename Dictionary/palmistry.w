@@ -1,1 +1,1 @@
-{"index": 224099, "D": "the art or practice of telling fortunes and interpreting character from the lines and configurations of the palm of a person's hand.", "S": ["augury ", "horoscopy ", "occultism ", "prediction ", "premonition ", "prognostication ", "prophecy ", "soothsaying "], "A": []}
+{"index": 224099, "D": "the art or practice of telling fortunes and interpreting character from the lines and configurations of the palm of a person's hand.", "S": ["augury", "horoscopy", "occultism", "prediction", "premonition", "prognostication", "prophecy", "soothsaying"], "A": []}

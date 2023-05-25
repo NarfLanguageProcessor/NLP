@@ -1,1 +1,1 @@
-{"index": 270286, "D": "the act of retaliating;  return of like for like; reprisal.", "S": ["punishment ", "reprisal ", "retribution ", "revenge "], "A": ["forgiveness ", "pardon ", "sympathy "]}
+{"index": 270286, "D": "the act of retaliating;  return of like for like; reprisal.", "S": ["punishment", "reprisal", "retribution", "revenge"], "A": ["forgiveness", "pardon", "sympathy"]}

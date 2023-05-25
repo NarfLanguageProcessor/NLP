@@ -1,1 +1,1 @@
-{"index": 222761, "D": "a group of things wrapped or tied together for easy handling or carrying; a bundle, especially one to be carried on the back of an animal or a person", "S": ["backpack ", "bundle ", "equipment ", "luggage "], "A": []}
+{"index": 222761, "D": "a group of things wrapped or tied together for easy handling or carrying; a bundle, especially one to be carried on the back of an animal or a person", "S": ["backpack", "bundle", "equipment", "luggage"], "A": []}

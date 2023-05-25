@@ -1,1 +1,1 @@
-{"index": 208437, "D": "sexual intercourse; coitus. ", "S": ["intercourse ", "procreation ", "sexual intercourse "], "A": []}
+{"index": 208437, "D": "sexual intercourse; coitus. ", "S": ["intercourse", "procreation", "sexual intercourse"], "A": []}

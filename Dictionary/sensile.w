@@ -1,1 +1,1 @@
-{"index": 285381, "D": [], "S": ["susceptible "], "A": ["insusceptible ", "obstinate ", "stubborn ", "unimpressionable ", "unresponsive "]}
+{"index": 285381, "D": [], "S": ["susceptible"], "A": ["insusceptible", "obstinate", "stubborn", "unimpressionable", "unresponsive"]}

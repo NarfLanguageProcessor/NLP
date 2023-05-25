@@ -1,1 +1,1 @@
-{"index": 149284, "D": "the quality or state of being impure. ", "S": ["contamination ", "grime ", "pollutant ", "scum "], "A": ["cleanliness ", "pureness ", "purification ", "purity ", "sterility "]}
+{"index": 149284, "D": "the quality or state of being impure. ", "S": ["contamination", "grime", "pollutant", "scum"], "A": ["cleanliness", "pureness", "purification", "purity", "sterility"]}

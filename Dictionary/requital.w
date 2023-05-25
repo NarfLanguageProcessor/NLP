@@ -1,1 +1,1 @@
-{"index": 268895, "D": "the act of requiting. ", "S": ["recompense ", "redress ", "remuneration ", "reprisal ", "retaliation ", "retribution ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}
+{"index": 268895, "D": "the act of requiting. ", "S": ["recompense", "redress", "remuneration", "reprisal", "retaliation", "retribution", "vengeance"], "A": ["forgiveness", "pardon", "sympathy"]}

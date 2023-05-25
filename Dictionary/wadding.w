@@ -1,1 +1,1 @@
-{"index": 361711, "D": "any fibrous or soft material for stuffing, padding, packing, etc., especially carded cotton in specially prepared sheets.", "S": ["dressing ", "layer ", "mixture ", "stuffing "], "A": ["exteriority ", "outside "]}
+{"index": 361711, "D": "any fibrous or soft material for stuffing, padding, packing, etc., especially carded cotton in specially prepared sheets.", "S": ["dressing", "layer", "mixture", "stuffing"], "A": ["exteriority", "outside"]}

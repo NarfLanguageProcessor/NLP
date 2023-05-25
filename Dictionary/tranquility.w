@@ -1,1 +1,1 @@
-{"index": 327639, "D": "the quality or state of being tranquil;  calmness; peacefulness; quiet; serenity", "S": ["calm ", "calmness ", "coolness ", "equanimity ", "serenity ", "stillness "], "A": ["agitation ", "upset "]}
+{"index": 327639, "D": "the quality or state of being tranquil;  calmness; peacefulness; quiet; serenity", "S": ["calm", "calmness", "coolness", "equanimity", "serenity", "stillness"], "A": ["agitation", "upset"]}

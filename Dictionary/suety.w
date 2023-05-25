@@ -1,1 +1,1 @@
-{"index": 310077, "D": "the hard fatty tissue about the loins and kidneys of beef, sheep, etc., used in cooking or processed to yield tallow.", "S": ["fatty ", "greasy "], "A": ["lean ", "poor ", "skinny ", "slender ", "slight ", "slim ", "thin ", "unproductive "]}
+{"index": 310077, "D": "the hard fatty tissue about the loins and kidneys of beef, sheep, etc., used in cooking or processed to yield tallow.", "S": ["fatty", "greasy"], "A": ["lean", "poor", "skinny", "slender", "slight", "slim", "thin", "unproductive"]}

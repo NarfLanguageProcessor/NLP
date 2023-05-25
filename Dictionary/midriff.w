@@ -1,1 +1,1 @@
-{"index": 186805, "D": "diaphragm (def. 1). ", "S": ["belly ", "gut ", "midsection ", "tummy "], "A": []}
+{"index": 186805, "D": "diaphragm (def. 1). ", "S": ["belly", "gut", "midsection", "tummy"], "A": []}

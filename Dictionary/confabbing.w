@@ -1,1 +1,1 @@
-{"index": 65763, "D": "a confabulation;  a conversation. ", "S": ["chat ", "chatter ", "chitchat ", "confabulation ", "converse ", "dialogue ", "discussion ", "palaver ", "speech ", "talk "], "A": ["listening ", "quiet ", "silence "]}
+{"index": 65763, "D": "a confabulation;  a conversation. ", "S": ["chat", "chatter", "chitchat", "confabulation", "converse", "dialogue", "discussion", "palaver", "speech", "talk"], "A": ["listening", "quiet", "silence"]}

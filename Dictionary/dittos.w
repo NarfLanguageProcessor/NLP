@@ -1,1 +1,1 @@
-{"index": 90166, "D": "Compare ditto mark. ", "S": ["clone ", "copy ", "double ", "duplicate ", "facsimile ", "reproduction "], "A": ["original "]}
+{"index": 90166, "D": "Compare ditto mark. ", "S": ["clone", "copy", "double", "duplicate", "facsimile", "reproduction"], "A": ["original"]}

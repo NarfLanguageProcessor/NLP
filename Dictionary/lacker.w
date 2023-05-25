@@ -1,1 +1,1 @@
-{"index": 166958, "D": "a variant spelling of lacquer", "S": ["abstain ", "be deprived of ", "do without ", "fall short ", "go short ", "lack ", "need ", "want "], "A": ["earn ", "get ", "indulge ", "take ", "use "]}
+{"index": 166958, "D": "a variant spelling of lacquer", "S": ["abstain", "be deprived of", "do without", "fall short", "go short", "lack", "need", "want"], "A": ["earn", "get", "indulge", "take", "use"]}

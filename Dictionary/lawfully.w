@@ -1,1 +1,0 @@
-{"index": 169341, "D": "allowed or permitted by law;  not contrary to law", "S": ["accurately ", "correctly ", "decently ", "duly ", "equally ", "equitably ", "honestly ", "honorably ", "impartially ", "legally ", "legitimately ", "properly ", "reasonably ", "rightfully ", "rightly "], "A": ["wrongly "]}

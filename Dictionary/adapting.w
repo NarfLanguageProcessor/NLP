@@ -1,0 +1,1 @@
+{"index": 3468, "D": "to make suitable to requirements or conditions; adjust or modify fittingly", "S": ["adjusting", "adjustment", "arranging", "mending", "ordering", "repairing"], "A": []}

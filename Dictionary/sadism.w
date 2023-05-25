@@ -1,1 +1,1 @@
-{"index": 276513, "D": "Compare masochism. ", "S": ["malice "], "A": []}
+{"index": 276513, "D": "Compare masochism. ", "S": ["malice"], "A": []}

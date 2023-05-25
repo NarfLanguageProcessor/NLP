@@ -1,1 +1,1 @@
-{"index": 267866, "D": "to open  again.", "S": ["renovation ", "replenishment ", "restoration ", "revitalization "], "A": []}
+{"index": 267866, "D": "to open  again.", "S": ["renovation", "replenishment", "restoration", "revitalization"], "A": []}

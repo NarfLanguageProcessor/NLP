@@ -1,1 +1,1 @@
-{"index": 187182, "D": "aggressively active or combative in support of a cause", "S": ["assertive ", "bellicose ", "belligerent ", "militaristic ", "vigorous ", "warring "], "A": ["compliant ", "peaceful ", "submissive ", "tolerant "]}
+{"index": 187182, "D": "aggressively active or combative in support of a cause", "S": ["assertive", "bellicose", "belligerent", "militaristic", "vigorous", "warring"], "A": ["compliant", "peaceful", "submissive", "tolerant"]}

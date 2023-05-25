@@ -1,1 +1,1 @@
-{"index": 233486, "D": "vial. ", "S": ["glass ", "jar ", "jug ", "urn ", "vial "], "A": []}
+{"index": 233486, "D": "vial. ", "S": ["glass", "jar", "jug", "urn", "vial"], "A": []}

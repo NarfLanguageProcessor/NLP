@@ -1,1 +1,1 @@
-{"index": 162202, "D": "an object venerated superstitiously and used as a fetish or amulet in West African spiritual practices.", "S": ["amulet ", "fetish ", "mascot ", "phylactery ", "talisman ", "trinket "], "A": []}
+{"index": 162202, "D": "an object venerated superstitiously and used as a fetish or amulet in West African spiritual practices.", "S": ["amulet", "fetish", "mascot", "phylactery", "talisman", "trinket"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 226274, "D": "the skin of sheep, goats, etc., prepared for use as a material on which to write.", "S": ["diploma ", "goatskin ", "paper ", "sheepskin "], "A": []}
+{"index": 226274, "D": "the skin of sheep, goats, etc., prepared for use as a material on which to write.", "S": ["diploma", "goatskin", "paper", "sheepskin"], "A": []}

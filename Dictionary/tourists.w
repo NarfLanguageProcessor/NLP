@@ -1,1 +1,1 @@
-{"index": 326647, "D": "a person who is traveling, especially for pleasure.", "S": ["sightseer ", "traveler ", "visitor "], "A": ["inhabitant ", "local ", "native "]}
+{"index": 326647, "D": "a person who is traveling, especially for pleasure.", "S": ["sightseer", "traveler", "visitor"], "A": ["inhabitant", "local", "native"]}

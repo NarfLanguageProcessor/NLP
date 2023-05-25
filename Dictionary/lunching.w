@@ -1,1 +1,1 @@
-{"index": 176193, "D": "a light midday meal between breakfast and dinner; luncheon. ", "S": ["consume ", "eat out ", "feast ", "lunch "], "A": ["fast "]}
+{"index": 176193, "D": "a light midday meal between breakfast and dinner; luncheon. ", "S": ["consume", "eat out", "feast", "lunch"], "A": ["fast"]}

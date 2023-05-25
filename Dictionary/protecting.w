@@ -1,1 +1,1 @@
-{"index": 253375, "D": "providing protection  or shelter.", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}
+{"index": 253375, "D": "providing protection  or shelter.", "S": ["opposing"], "A": ["unwary", "unwatchful"]}

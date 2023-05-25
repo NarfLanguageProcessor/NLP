@@ -1,1 +1,1 @@
-{"index": 360919, "D": "vociferating; noisy.", "S": ["strident ", "vulgar "], "A": ["inconspicuous ", "quiet ", "silent ", "subtle ", "unpronounced "]}
+{"index": 360919, "D": "vociferating; noisy.", "S": ["strident", "vulgar"], "A": ["inconspicuous", "quiet", "silent", "subtle", "unpronounced"]}

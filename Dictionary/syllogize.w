@@ -1,1 +1,1 @@
-{"index": 290533, "D": "to argue or reason by syllogism. ", "S": ["figure out ", "infer ", "speculate "], "A": ["disbelieve ", "disregard ", "forget ", "ignore ", "neglect ", "question ", "wonder "]}
+{"index": 290533, "D": "to argue or reason by syllogism. ", "S": ["figure out", "infer", "speculate"], "A": ["disbelieve", "disregard", "forget", "ignore", "neglect", "question", "wonder"]}

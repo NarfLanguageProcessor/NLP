@@ -1,1 +1,1 @@
-{"index": 126355, "D": "a tiny, quick flash of light.", "S": ["gleam ", "glint ", "glow ", "shine ", "sparkle ", "twinkle "], "A": ["dull "]}
+{"index": 126355, "D": "a tiny, quick flash of light.", "S": ["gleam", "glint", "glow", "shine", "sparkle", "twinkle"], "A": ["dull"]}

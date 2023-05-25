@@ -1,1 +1,1 @@
-{"index": 32988, "D": "to affect by witchcraft or magic; cast a spell over.", "S": ["conjurer ", "enchanter ", "sorcerer ", "witch ", "wizard "], "A": []}
+{"index": 32988, "D": "to affect by witchcraft or magic; cast a spell over.", "S": ["conjurer", "enchanter", "sorcerer", "witch", "wizard"], "A": []}

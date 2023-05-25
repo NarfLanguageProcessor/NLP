@@ -1,1 +1,1 @@
-{"index": 309185, "D": "to furnish or aid with a subsidy. ", "S": ["backer ", "contributor ", "patron ", "philanthropist ", "promoter ", "protector ", "supporter "], "A": ["opponent "]}
+{"index": 309185, "D": "to furnish or aid with a subsidy. ", "S": ["backer", "contributor", "patron", "philanthropist", "promoter", "protector", "supporter"], "A": ["opponent"]}

@@ -1,1 +1,1 @@
-{"index": 41116, "D": "a form of a cultivated cruciferous plant, Brassica oleracea botrytis, whose leafy stalks and clusters of usually green buds are eaten as a vegetable.", "S": ["sauerkraut "], "A": []}
+{"index": 41116, "D": "a form of a cultivated cruciferous plant, Brassica oleracea botrytis, whose leafy stalks and clusters of usually green buds are eaten as a vegetable.", "S": ["sauerkraut"], "A": []}

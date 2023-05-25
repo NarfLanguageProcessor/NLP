@@ -1,1 +1,1 @@
-{"index": 31008, "D": "an old woman, especially an ugly one; hag. ", "S": ["crone ", "hag "], "A": []}
+{"index": 31008, "D": "an old woman, especially an ugly one; hag. ", "S": ["crone", "hag"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 195686, "D": "a wall.", "S": ["block off ", "encase ", "encircle ", "encompass ", "hem in ", "insert ", "wrap "], "A": ["exclude ", "face ", "free ", "let go ", "liberate ", "meet ", "reject ", "release ", "reveal ", "set free "]}
+{"index": 195686, "D": "a wall.", "S": ["block off", "encase", "encircle", "encompass", "hem in", "insert", "wrap"], "A": ["exclude", "face", "free", "let go", "liberate", "meet", "reject", "release", "reveal", "set free"]}

@@ -1,1 +1,1 @@
-{"index": 59392, "D": "of, relating to, or characteristic of Greek and Roman antiquity", "S": ["candor ", "clarity ", "directness ", "integrity ", "modesty ", "purity ", "restraint ", "unity "], "A": ["complexity ", "complication ", "difficulty "]}
+{"index": 59392, "D": "of, relating to, or characteristic of Greek and Roman antiquity", "S": ["candor", "clarity", "directness", "integrity", "modesty", "purity", "restraint", "unity"], "A": ["complexity", "complication", "difficulty"]}

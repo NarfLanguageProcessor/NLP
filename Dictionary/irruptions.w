@@ -1,1 +1,1 @@
-{"index": 158511, "D": "a breaking or bursting in; a violent incursion or invasion.", "S": ["attack ", "incursion ", "invasion "], "A": ["retreat ", "surrender "]}
+{"index": 158511, "D": "a breaking or bursting in; a violent incursion or invasion.", "S": ["attack", "incursion", "invasion"], "A": ["retreat", "surrender"]}

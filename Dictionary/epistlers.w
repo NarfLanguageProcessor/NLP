@@ -1,1 +1,1 @@
-{"index": 102867, "D": "a writer of an epistle.", "S": ["contributor ", "journalist ", "reporter ", "writer "], "A": []}
+{"index": 102867, "D": "a writer of an epistle.", "S": ["contributor", "journalist", "reporter", "writer"], "A": []}

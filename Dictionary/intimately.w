@@ -1,1 +1,1 @@
-{"index": 156302, "D": "in a way that entails, assumes, or suggests a close, warm, trusting personal relationship", "S": ["informally ", "personally "], "A": ["openly ", "publicly ", "reservedly "]}
+{"index": 156302, "D": "in a way that entails, assumes, or suggests a close, warm, trusting personal relationship", "S": ["informally", "personally"], "A": ["openly", "publicly", "reservedly"]}

@@ -1,1 +1,1 @@
-{"index": 22933, "D": "an act of attaching  or the state of being attached. ", "S": ["additions ", "adornments ", "decorations ", "doodads ", "embellishments ", "extras ", "frills ", "ornaments ", "trimmings "], "A": []}
+{"index": 22933, "D": "an act of attaching  or the state of being attached. ", "S": ["additions", "adornments", "decorations", "doodads", "embellishments", "extras", "frills", "ornaments", "trimmings"], "A": []}

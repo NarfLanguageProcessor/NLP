@@ -1,1 +1,1 @@
-{"index": 119966, "D": "completely filled; containing all that can be held; filled to utmost capacity", "S": ["quantity ", "scope ", "size ", "space "], "A": ["limitation "]}
+{"index": 119966, "D": "completely filled; containing all that can be held; filled to utmost capacity", "S": ["quantity", "scope", "size", "space"], "A": ["limitation"]}

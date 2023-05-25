@@ -1,1 +1,0 @@
-{"index": 365326, "D": "(used as a shout of exuberant joy.)", "S": ["cheer ", "encouragement ", "yay ", "yell "], "A": []}

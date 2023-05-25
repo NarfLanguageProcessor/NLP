@@ -1,1 +1,1 @@
-{"index": 11754, "D": "the separating of any material or abstract entity into its constituent elements (opposed to synthesis).", "S": ["inquiry ", "investigation ", "reasoning ", "scrutiny ", "search ", "study ", "test "], "A": ["connection ", "juncture ", "unification ", "unity ", "whole "]}
+{"index": 11754, "D": "the separating of any material or abstract entity into its constituent elements (opposed to synthesis).", "S": ["inquiry", "investigation", "reasoning", "scrutiny", "search", "study", "test"], "A": ["connection", "juncture", "unification", "unity", "whole"]}

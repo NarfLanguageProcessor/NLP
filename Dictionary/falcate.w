@@ -1,1 +1,1 @@
-{"index": 109410, "D": "curved like a scythe or sickle; hooked; falciform.", "S": ["bow-shaped ", "bowed ", "concave ", "convex ", "crescent-shaped ", "crescentic ", "crescentiform ", "curved ", "semicircular "], "A": []}
+{"index": 109410, "D": "curved like a scythe or sickle; hooked; falciform.", "S": ["bow-shaped", "bowed", "concave", "convex", "crescent-shaped", "crescentic", "crescentiform", "curved", "semicircular"], "A": []}

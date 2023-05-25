@@ -1,1 +1,1 @@
-{"index": 135777, "D": "a person who steers a ship; helmsperson. ", "S": ["boating ", "exploration ", "shipping "], "A": []}
+{"index": 135777, "D": "a person who steers a ship; helmsperson. ", "S": ["boating", "exploration", "shipping"], "A": []}

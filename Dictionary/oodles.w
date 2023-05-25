@@ -1,1 +1,1 @@
-{"index": 212982, "D": "a large quantity", "S": ["lots ", "tons "], "A": ["lack "]}
+{"index": 212982, "D": "a large quantity", "S": ["lots", "tons"], "A": ["lack"]}

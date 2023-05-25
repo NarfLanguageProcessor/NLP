@@ -1,1 +1,0 @@
-{"index": 293828, "D": "a person who fears or hates the Slavs, their influence, or things Slavic.", "S": [], "A": []}

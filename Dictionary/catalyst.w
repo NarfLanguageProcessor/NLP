@@ -1,1 +1,1 @@
-{"index": 49265, "D": "a substance that causes or accelerates a chemical reaction without itself being affected.", "S": ["impetus ", "incentive ", "motivation ", "stimulant "], "A": ["block ", "hindrance "]}
+{"index": 49265, "D": "a substance that causes or accelerates a chemical reaction without itself being affected.", "S": ["impetus", "incentive", "motivation", "stimulant"], "A": ["block", "hindrance"]}

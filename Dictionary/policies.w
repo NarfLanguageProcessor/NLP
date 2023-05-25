@@ -1,1 +1,1 @@
-{"index": 241747, "D": "a definite course of action adopted for the sake of expediency, facility, etc.", "S": ["ethic ", "integrity ", "morality "], "A": ["corruption ", "dishonesty "]}
+{"index": 241747, "D": "a definite course of action adopted for the sake of expediency, facility, etc.", "S": ["ethic", "integrity", "morality"], "A": ["corruption", "dishonesty"]}

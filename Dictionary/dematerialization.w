@@ -1,1 +1,1 @@
-{"index": 80400, "D": "to deprive of or lose material character.", "S": ["departure ", "exodus ", "loss ", "removal "], "A": ["arrival ", "entrance ", "stay ", "staying "]}
+{"index": 80400, "D": "to deprive of or lose material character.", "S": ["departure", "exodus", "loss", "removal"], "A": ["arrival", "entrance", "stay", "staying"]}

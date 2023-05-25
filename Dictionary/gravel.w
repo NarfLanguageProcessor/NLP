@@ -1,1 +1,1 @@
-{"index": 129312, "D": "small stones and pebbles, or a mixture of these with sand.", "S": ["sand ", "shale "], "A": []}
+{"index": 129312, "D": "small stones and pebbles, or a mixture of these with sand.", "S": ["sand", "shale"], "A": []}

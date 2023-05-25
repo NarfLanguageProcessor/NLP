@@ -1,1 +1,1 @@
-{"index": 100568, "D": "a puzzling or inexplicable occurrence or situation", "S": ["conundrum ", "puzzle "], "A": []}
+{"index": 100568, "D": "a puzzling or inexplicable occurrence or situation", "S": ["conundrum", "puzzle"], "A": []}

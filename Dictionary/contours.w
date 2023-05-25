@@ -1,1 +1,1 @@
-{"index": 67540, "D": "the outline of a figure or body; the edge or line that defines or bounds a shape or object.", "S": ["curve ", "silhouette "], "A": []}
+{"index": 67540, "D": "the outline of a figure or body; the edge or line that defines or bounds a shape or object.", "S": ["curve", "silhouette"], "A": []}

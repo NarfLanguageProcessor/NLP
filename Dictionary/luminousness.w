@@ -1,1 +1,1 @@
-{"index": 176120, "D": "radiating or reflecting light; shining; bright.", "S": ["brightness ", "brilliance ", "glitter ", "glow ", "sheen ", "shimmer ", "sparkle "], "A": ["darkness ", "dullness "]}
+{"index": 176120, "D": "radiating or reflecting light; shining; bright.", "S": ["brightness", "brilliance", "glitter", "glow", "sheen", "shimmer", "sparkle"], "A": ["darkness", "dullness"]}

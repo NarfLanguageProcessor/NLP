@@ -1,1 +1,1 @@
-{"index": 316261, "D": "a violent demonstration of rage or frustration; a sudden burst of ill temper.", "S": ["flare-up ", "outburst ", "temper "], "A": ["happiness ", "peace "]}
+{"index": 316261, "D": "a violent demonstration of rage or frustration; a sudden burst of ill temper.", "S": ["flare-up", "outburst", "temper"], "A": ["happiness", "peace"]}

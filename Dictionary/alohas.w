@@ -1,1 +1,1 @@
-{"index": 9245, "D": "hello; greetings.", "S": ["affection ", "farewell ", "goodbye ", "hello ", "love ", "salutation "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 9245, "D": "hello; greetings.", "S": ["affection", "farewell", "goodbye", "hello", "love", "salutation"], "A": ["dislike", "hate", "hatred"]}

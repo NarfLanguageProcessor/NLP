@@ -1,1 +1,0 @@
-{"index": 165338, "D": [], "S": ["crooked ", "rapacious "], "A": []}

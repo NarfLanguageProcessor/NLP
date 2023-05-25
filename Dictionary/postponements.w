@@ -1,1 +1,1 @@
-{"index": 244407, "D": "the act of putting something off to a later time; deferral", "S": ["deferment ", "deferral ", "delay ", "delaying ", "putting off "], "A": []}
+{"index": 244407, "D": "the act of putting something off to a later time; deferral", "S": ["deferment", "deferral", "delay", "delaying", "putting off"], "A": []}

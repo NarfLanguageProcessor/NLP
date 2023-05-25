@@ -1,1 +1,1 @@
-{"index": 110182, "D": "a pitch thrown at or near a pitcher's maximum velocity.", "S": ["boiler ", "furnace ", "oven ", "radiator ", "stove "], "A": []}
+{"index": 110182, "D": "a pitch thrown at or near a pitcher's maximum velocity.", "S": ["boiler", "furnace", "oven", "radiator", "stove"], "A": []}

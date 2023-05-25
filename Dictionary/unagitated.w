@@ -1,1 +1,1 @@
-{"index": 334753, "D": "excited; disturbed.", "S": ["placid ", "quiet ", "relaxed ", "serene ", "tranquil "], "A": ["agitated ", "excited ", "noisy ", "troubled "]}
+{"index": 334753, "D": "excited; disturbed.", "S": ["placid", "quiet", "relaxed", "serene", "tranquil"], "A": ["agitated", "excited", "noisy", "troubled"]}

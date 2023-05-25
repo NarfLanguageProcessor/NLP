@@ -1,1 +1,1 @@
-{"index": 227440, "D": "a pastiche.", "S": ["colluvies ", "gallimaufry ", "hash ", "mixture ", "pastiche ", "potpourri ", "ragout ", "salmagundi ", "smorgasbord "], "A": []}
+{"index": 227440, "D": "a pastiche.", "S": ["colluvies", "gallimaufry", "hash", "mixture", "pastiche", "potpourri", "ragout", "salmagundi", "smorgasbord"], "A": []}

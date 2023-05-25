@@ -1,1 +1,1 @@
-{"index": 98371, "D": "complicated;  confused", "S": ["affected ", "concerned ", "entangled ", "interested ", "participating "], "A": ["disinterested ", "unconcerned ", "unperturbed ", "untroubled "]}
+{"index": 98371, "D": "complicated;  confused", "S": ["affected", "concerned", "entangled", "interested", "participating"], "A": ["disinterested", "unconcerned", "unperturbed", "untroubled"]}

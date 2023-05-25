@@ -1,1 +1,1 @@
-{"index": 268019, "D": "tending to repair; repairing; mending.", "S": ["preserving "], "A": ["wasting "]}
+{"index": 268019, "D": "tending to repair; repairing; mending.", "S": ["preserving"], "A": ["wasting"]}

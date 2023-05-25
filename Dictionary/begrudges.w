@@ -1,1 +1,1 @@
-{"index": 30727, "D": "to envy or resent the pleasure or good fortune of (someone)", "S": ["envy "], "A": ["be generous ", "give "]}
+{"index": 30727, "D": "to envy or resent the pleasure or good fortune of (someone)", "S": ["envy"], "A": ["be generous", "give"]}

@@ -1,1 +1,1 @@
-{"index": 1880, "D": "customary; usual; habitual", "S": ["acclimatization ", "agreement ", "compliance ", "correspondence ", "familiarization ", "habituation ", "naturalization "], "A": ["disagreement "]}
+{"index": 1880, "D": "customary; usual; habitual", "S": ["acclimatization", "agreement", "compliance", "correspondence", "familiarization", "habituation", "naturalization"], "A": ["disagreement"]}

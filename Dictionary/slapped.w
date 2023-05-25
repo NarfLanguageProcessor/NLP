@@ -1,1 +1,1 @@
-{"index": 293683, "D": "a sharp blow or smack, especially with the open hand or with something flat.", "S": ["blip ", "blow ", "pat ", "punch ", "whack "], "A": []}
+{"index": 293683, "D": "a sharp blow or smack, especially with the open hand or with something flat.", "S": ["blip", "blow", "pat", "punch", "whack"], "A": []}

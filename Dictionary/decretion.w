@@ -1,1 +1,1 @@
-{"index": 78773, "D": [], "S": ["decree ", "guideline ", "law ", "order ", "precedent ", "regulation ", "ruling ", "statute ", "test "], "A": ["disorganization ", "lawlessness ", "bad manners "]}
+{"index": 78773, "D": [], "S": ["decree", "guideline", "law", "order", "precedent", "regulation", "ruling", "statute", "test"], "A": ["disorganization", "lawlessness", "bad manners"]}

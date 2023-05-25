@@ -1,1 +1,1 @@
-{"index": 275406, "D": "a city in E Warwickshire, in central England.", "S": ["soccer "], "A": []}
+{"index": 275406, "D": "a city in E Warwickshire, in central England.", "S": ["soccer"], "A": []}

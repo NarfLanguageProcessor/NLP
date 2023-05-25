@@ -1,1 +1,1 @@
-{"index": 11784, "D": "analogue. ", "S": ["cognate ", "correlate ", "correlative ", "correspondent ", "counterpart ", "equivalent ", "match ", "similarity "], "A": ["difference "]}
+{"index": 11784, "D": "analogue. ", "S": ["cognate", "correlate", "correlative", "correspondent", "counterpart", "equivalent", "match", "similarity"], "A": ["difference"]}

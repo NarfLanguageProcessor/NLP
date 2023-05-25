@@ -1,1 +1,1 @@
-{"index": 295629, "D": "snobbish character, conduct, trait, or act.", "S": ["arrogance ", "pretension "], "A": ["humility "]}
+{"index": 295629, "D": "snobbish character, conduct, trait, or act.", "S": ["arrogance", "pretension"], "A": ["humility"]}

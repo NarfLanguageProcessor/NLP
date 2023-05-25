@@ -1,1 +1,1 @@
-{"index": 120287, "D": "overcome with great fear; terrified.", "S": ["earthy ", "fashionable ", "hip "], "A": []}
+{"index": 120287, "D": "overcome with great fear; terrified.", "S": ["earthy", "fashionable", "hip"], "A": []}

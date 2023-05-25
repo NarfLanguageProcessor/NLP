@@ -1,1 +1,1 @@
-{"index": 88198, "D": "to change the appearance or guise of so as to conceal identity or mislead, as by means of deceptive garb", "S": ["camouflage ", "cloak ", "guise ", "trickery ", "veil "], "A": ["back ", "character ", "honesty ", "personality ", "reality ", "rear ", "truth "]}
+{"index": 88198, "D": "to change the appearance or guise of so as to conceal identity or mislead, as by means of deceptive garb", "S": ["camouflage", "cloak", "guise", "trickery", "veil"], "A": ["back", "character", "honesty", "personality", "reality", "rear", "truth"]}

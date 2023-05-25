@@ -1,1 +1,1 @@
-{"index": 332909, "D": "Compare bone turquoise. ", "S": ["aquamarine "], "A": []}
+{"index": 332909, "D": "Compare bone turquoise. ", "S": ["aquamarine"], "A": []}

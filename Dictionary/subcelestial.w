@@ -1,1 +1,1 @@
-{"index": 307382, "D": "being beneath the heavens; terrestrial.", "S": ["earthly ", "materialistic ", "physical ", "sensual "], "A": ["immaterial ", "mental ", "spiritual "]}
+{"index": 307382, "D": "being beneath the heavens; terrestrial.", "S": ["earthly", "materialistic", "physical", "sensual"], "A": ["immaterial", "mental", "spiritual"]}

@@ -1,1 +1,1 @@
-{"index": 216457, "D": "no longer in use or fashionable; out-of-date; outmoded; antiquated.", "S": ["antiquated ", "archaic ", "obsolete ", "old ", "out-of-date ", "outmoded "], "A": ["contemporary ", "current ", "modern ", "new ", "present ", "recent ", "up-to-date ", "young "]}
+{"index": 216457, "D": "no longer in use or fashionable; out-of-date; outmoded; antiquated.", "S": ["antiquated", "archaic", "obsolete", "old", "out-of-date", "outmoded"], "A": ["contemporary", "current", "modern", "new", "present", "recent", "up-to-date", "young"]}

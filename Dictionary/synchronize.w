@@ -1,1 +1,1 @@
-{"index": 291410, "D": "to cause to indicate the same time, as one timepiece with another", "S": ["adjust ", "harmonize ", "integrate ", "mesh "], "A": []}
+{"index": 291410, "D": "to cause to indicate the same time, as one timepiece with another", "S": ["adjust", "harmonize", "integrate", "mesh"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 196227, "D": "an individual, species, or the like, resulting from such a departure.", "S": ["alteration ", "anomaly ", "variation "], "A": ["sameness ", "stagnation "]}
+{"index": 196227, "D": "an individual, species, or the like, resulting from such a departure.", "S": ["alteration", "anomaly", "variation"], "A": ["sameness", "stagnation"]}

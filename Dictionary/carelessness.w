@@ -1,1 +1,1 @@
-{"index": 47935, "D": "failure to pay enough attention to what one is doing; sloppiness", "S": ["inattention ", "neglect ", "negligence ", "nonchalance ", "sloppiness "], "A": ["caution "]}
+{"index": 47935, "D": "failure to pay enough attention to what one is doing; sloppiness", "S": ["inattention", "neglect", "negligence", "nonchalance", "sloppiness"], "A": ["caution"]}

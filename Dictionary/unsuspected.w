@@ -1,1 +1,1 @@
-{"index": 352526, "D": "not regarded or considered with suspicion", "S": ["accepted ", "approved ", "trusted ", "uncontested "], "A": []}
+{"index": 352526, "D": "not regarded or considered with suspicion", "S": ["accepted", "approved", "trusted", "uncontested"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 287409, "D": "the part of the lower limb in humans between the knee and the ankle; leg. ", "S": ["crus ", "leg ", "meat ", "shin ", "stalk ", "stem "], "A": []}
+{"index": 287409, "D": "the part of the lower limb in humans between the knee and the ankle; leg. ", "S": ["crus", "leg", "meat", "shin", "stalk", "stem"], "A": []}

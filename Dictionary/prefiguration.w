@@ -1,1 +1,1 @@
-{"index": 247572, "D": "the act of prefiguring. ", "S": ["explanation ", "expression ", "gesture ", "hint ", "implication ", "inkling ", "manifestation ", "omen ", "proof ", "reminder ", "sign ", "signal ", "suggestion ", "symptom ", "trace ", "warning "], "A": ["misinformation "]}
+{"index": 247572, "D": "the act of prefiguring. ", "S": ["explanation", "expression", "gesture", "hint", "implication", "inkling", "manifestation", "omen", "proof", "reminder", "sign", "signal", "suggestion", "symptom", "trace", "warning"], "A": ["misinformation"]}

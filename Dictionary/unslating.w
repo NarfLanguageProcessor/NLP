@@ -1,1 +1,0 @@
-{"index": 351330, "D": "the act or work of covering something with slates. ", "S": [], "A": []}

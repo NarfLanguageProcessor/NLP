@@ -1,1 +1,1 @@
-{"index": 265353, "D": "a border or case for enclosing a picture, mirror, etc.", "S": ["reevaluate ", "reexamine ", "replan ", "rethink "], "A": []}
+{"index": 265353, "D": "a border or case for enclosing a picture, mirror, etc.", "S": ["reevaluate", "reexamine", "replan", "rethink"], "A": []}

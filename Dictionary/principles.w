@@ -1,1 +1,1 @@
-{"index": 250663, "D": "an accepted or professed rule of action or conduct", "S": ["assumption ", "basis ", "convention ", "doctrine ", "ethic ", "foundation ", "fundamental ", "precept ", "proposition ", "regulation ", "rule ", "truth "], "A": ["ambiguity ", "effect ", "end ", "result "]}
+{"index": 250663, "D": "an accepted or professed rule of action or conduct", "S": ["assumption", "basis", "convention", "doctrine", "ethic", "foundation", "fundamental", "precept", "proposition", "regulation", "rule", "truth"], "A": ["ambiguity", "effect", "end", "result"]}

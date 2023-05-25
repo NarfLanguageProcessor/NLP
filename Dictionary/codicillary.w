@@ -1,1 +1,1 @@
-{"index": 61757, "D": "of, relating to, or of the nature of a codicil. ", "S": ["limited ", "provisional ", "restrictive ", "tentative "], "A": ["certain ", "definite "]}
+{"index": 61757, "D": "of, relating to, or of the nature of a codicil. ", "S": ["limited", "provisional", "restrictive", "tentative"], "A": ["certain", "definite"]}

@@ -1,1 +1,1 @@
-{"index": 279108, "D": "the quality in a substance that affects the sense of taste or of smell.", "S": ["odor ", "piquancy ", "relish ", "salt ", "sapidity ", "scent ", "smack ", "smell ", "spice ", "tang ", "tinge ", "zest "], "A": ["blandness ", "dullness "]}
+{"index": 279108, "D": "the quality in a substance that affects the sense of taste or of smell.", "S": ["odor", "piquancy", "relish", "salt", "sapidity", "scent", "smack", "smell", "spice", "tang", "tinge", "zest"], "A": ["blandness", "dullness"]}

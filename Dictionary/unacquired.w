@@ -1,1 +1,1 @@
-{"index": 334518, "D": "to come into possession or ownership of; get as one's own", "S": ["ingrained ", "inveterate "], "A": ["contracted "]}
+{"index": 334518, "D": "to come into possession or ownership of; get as one's own", "S": ["ingrained", "inveterate"], "A": ["contracted"]}

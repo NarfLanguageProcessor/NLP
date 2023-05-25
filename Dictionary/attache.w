@@ -1,1 +1,1 @@
-{"index": 22924, "D": "a diplomatic official attached to an embassy or legation, especially in a technical capacity", "S": ["backpack ", "briefcase ", "gear ", "handbag ", "kit ", "pack ", "packet ", "pocket ", "pouch ", "purse ", "sack ", "suitcase "], "A": []}
+{"index": 22924, "D": "a diplomatic official attached to an embassy or legation, especially in a technical capacity", "S": ["backpack", "briefcase", "gear", "handbag", "kit", "pack", "packet", "pocket", "pouch", "purse", "sack", "suitcase"], "A": []}

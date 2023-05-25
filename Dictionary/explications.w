@@ -1,1 +1,1 @@
-{"index": 107852, "D": "the act of explicating. ", "S": ["account ", "answer ", "brief ", "clarification ", "decipherment ", "description ", "details ", "elucidation ", "exegesis ", "exposition ", "illumination ", "interpretation ", "meaning ", "report ", "summary "], "A": ["misunderstanding "]}
+{"index": 107852, "D": "the act of explicating. ", "S": ["account", "answer", "brief", "clarification", "decipherment", "description", "details", "elucidation", "exegesis", "exposition", "illumination", "interpretation", "meaning", "report", "summary"], "A": ["misunderstanding"]}

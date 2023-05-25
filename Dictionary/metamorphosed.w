@@ -1,1 +1,0 @@
-{"index": 184826, "D": "to change the form or nature of; transform.", "S": ["converted ", "recreated ", "remade "], "A": ["final ", "kept ", "permanent ", "placed ", "stabilized ", "stored ", "unchanged ", "unmodified ", "unvaried "]}

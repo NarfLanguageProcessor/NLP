@@ -1,1 +1,1 @@
-{"index": 121518, "D": "to move along heavily and clumsily.", "S": ["bulky ", "burdensome ", "embarrassing ", "heavy ", "inconvenient ", "ponderous ", "tiresome ", "unwieldy "], "A": ["aiding ", "airy ", "convenient ", "easy ", "fun ", "helpful ", "light ", "small ", "unburdensome "]}
+{"index": 121518, "D": "to move along heavily and clumsily.", "S": ["bulky", "burdensome", "embarrassing", "heavy", "inconvenient", "ponderous", "tiresome", "unwieldy"], "A": ["aiding", "airy", "convenient", "easy", "fun", "helpful", "light", "small", "unburdensome"]}

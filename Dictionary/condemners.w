@@ -1,1 +1,1 @@
-{"index": 65529, "D": "to express an unfavorable or adverse judgment on; indicate strong disapproval of; censure. ", "S": ["censurer ", "condemnor ", "criticizer "], "A": []}
+{"index": 65529, "D": "to express an unfavorable or adverse judgment on; indicate strong disapproval of; censure. ", "S": ["censurer", "condemnor", "criticizer"], "A": []}

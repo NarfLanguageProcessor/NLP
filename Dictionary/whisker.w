@@ -1,1 +1,1 @@
-{"index": 365030, "D": "a beard.", "S": ["bristle ", "filament ", "hair "], "A": []}
+{"index": 365030, "D": "a beard.", "S": ["bristle", "filament", "hair"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 93847, "D": "a person who participates in a duel. ", "S": ["assailant ", "boxer ", "champion ", "combatant ", "mercenary ", "militant ", "opponent ", "soldier ", "tanker ", "warlord ", "warrior "], "A": ["peacemaker "]}
+{"index": 93847, "D": "a person who participates in a duel. ", "S": ["assailant", "boxer", "champion", "combatant", "mercenary", "militant", "opponent", "soldier", "tanker", "warlord", "warrior"], "A": ["peacemaker"]}

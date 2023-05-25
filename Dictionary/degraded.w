@@ -1,1 +1,1 @@
-{"index": 79623, "D": "reduced in rank, position, reputation, etc.", "S": ["debased ", "depraved ", "vulgarized "], "A": []}
+{"index": 79623, "D": "reduced in rank, position, reputation, etc.", "S": ["debased", "depraved", "vulgarized"], "A": []}

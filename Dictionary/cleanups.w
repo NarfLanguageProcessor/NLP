@@ -1,1 +1,1 @@
-{"index": 59644, "D": "the act or process of cleaning up.", "S": ["completion ", "culmination ", "end ", "payoff ", "perfection ", "realization ", "wrap "], "A": ["beginning ", "commencement ", "imperfection ", "opening ", "start "]}
+{"index": 59644, "D": "the act or process of cleaning up.", "S": ["completion", "culmination", "end", "payoff", "perfection", "realization", "wrap"], "A": ["beginning", "commencement", "imperfection", "opening", "start"]}

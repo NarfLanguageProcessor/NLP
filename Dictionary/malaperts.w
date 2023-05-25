@@ -1,1 +1,1 @@
-{"index": 178260, "D": "unbecomingly bold or saucy.", "S": ["know-it-all ", "malapert ", "smart alec ", "smart-ass ", "smarty ", "smarty-pants ", "wise guy ", "wiseass ", "wisenheimer ", "witling "], "A": []}
+{"index": 178260, "D": "unbecomingly bold or saucy.", "S": ["know-it-all", "malapert", "smart alec", "smart-ass", "smarty", "smarty-pants", "wise guy", "wiseass", "wisenheimer", "witling"], "A": []}

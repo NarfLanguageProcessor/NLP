@@ -1,1 +1,1 @@
-{"index": 287261, "D": "plan to, intend to, or expect to", "S": ["be about to ", "be obliged ", "intend ", "must ", "want to ", "will "], "A": []}
+{"index": 287261, "D": "plan to, intend to, or expect to", "S": ["be about to", "be obliged", "intend", "must", "want to", "will"], "A": []}

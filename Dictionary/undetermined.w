@@ -1,1 +1,1 @@
-{"index": 340231, "D": "not yet resolved; undecided", "S": ["unclear ", "undecided ", "unknown ", "unproven ", "unsettled "], "A": ["certain ", "decided ", "definite ", "settled ", "sure "]}
+{"index": 340231, "D": "not yet resolved; undecided", "S": ["unclear", "undecided", "unknown", "unproven", "unsettled"], "A": ["certain", "decided", "definite", "settled", "sure"]}

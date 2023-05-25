@@ -1,1 +1,1 @@
-{"index": 359625, "D": "a decorative design or small illustration used on the title page of a book or at the beginning or end of a chapter.", "S": ["scenario ", "scene ", "sketch "], "A": []}
+{"index": 359625, "D": "a decorative design or small illustration used on the title page of a book or at the beginning or end of a chapter.", "S": ["scenario", "scene", "sketch"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 161914, "D": "a combat in which two knights on horseback attempted to unhorse each other with blunted lances.", "S": ["thrust "], "A": ["agree ", "give in ", "retreat ", "surrender ", "yield "]}
+{"index": 161914, "D": "a combat in which two knights on horseback attempted to unhorse each other with blunted lances.", "S": ["thrust"], "A": ["agree", "give in", "retreat", "surrender", "yield"]}

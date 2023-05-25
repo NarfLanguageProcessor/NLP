@@ -1,1 +1,1 @@
-{"index": 275413, "D": "having a roughly broken, rocky, hilly, or jagged surface", "S": ["manhood ", "potency ", "vigor "], "A": ["weakness "]}
+{"index": 275413, "D": "having a roughly broken, rocky, hilly, or jagged surface", "S": ["manhood", "potency", "vigor"], "A": ["weakness"]}

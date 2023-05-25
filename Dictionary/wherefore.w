@@ -1,1 +1,1 @@
-{"index": 364663, "D": "for  what? why?", "S": ["why "], "A": []}
+{"index": 364663, "D": "for  what? why?", "S": ["why"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 218092, "D": "above in place or position", "S": ["up "], "A": ["failed ", "fewer ", "incomplete ", "less ", "unfinished "]}
+{"index": 218092, "D": "above in place or position", "S": ["up"], "A": ["failed", "fewer", "incomplete", "less", "unfinished"]}

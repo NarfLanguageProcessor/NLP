@@ -1,1 +1,1 @@
-{"index": 368603, "D": "a colorless, crystalline pentose sugar, C5H10O5, derived from xylan, straw, corncobs, etc., by treating with heated dilute sulfuric acid, and dehydrating to furfural if stronger acid is used.", "S": ["carbohydrate "], "A": []}
+{"index": 368603, "D": "a colorless, crystalline pentose sugar, C5H10O5, derived from xylan, straw, corncobs, etc., by treating with heated dilute sulfuric acid, and dehydrating to furfural if stronger acid is used.", "S": ["carbohydrate"], "A": []}

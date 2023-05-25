@@ -1,1 +1,1 @@
-{"index": 40364, "D": "simple past tense and past participle of breed. ", "S": ["cultivated ", "cultured ", "produced ", "raised ", "trained "], "A": ["inexperienced ", "uncultured ", "unsophisticated "]}
+{"index": 40364, "D": "simple past tense and past participle of breed. ", "S": ["cultivated", "cultured", "produced", "raised", "trained"], "A": ["inexperienced", "uncultured", "unsophisticated"]}

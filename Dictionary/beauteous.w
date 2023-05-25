@@ -1,1 +1,1 @@
-{"index": 29657, "D": "beautiful. ", "S": ["attractive ", "bonny ", "comely ", "easy on the eyes ", "fine-looking ", "good-looking ", "gorgeous ", "handsome ", "hot ", "lovely ", "pretty ", "ravishing ", "shapely ", "sightly ", "stunning "], "A": []}
+{"index": 29657, "D": "beautiful. ", "S": ["attractive", "bonny", "comely", "easy on the eyes", "fine-looking", "good-looking", "gorgeous", "handsome", "hot", "lovely", "pretty", "ravishing", "shapely", "sightly", "stunning"], "A": []}

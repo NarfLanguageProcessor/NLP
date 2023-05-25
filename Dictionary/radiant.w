@@ -1,1 +1,1 @@
-{"index": 259533, "D": "emitting rays of light; shining; bright", "S": ["beaming ", "brilliant ", "gleaming ", "glittering ", "glowing ", "incandescent ", "lustrous ", "resplendent ", "shining ", "sunny "], "A": ["cloudy ", "dark ", "dull ", "gloomy ", "sullen ", "unhappy "]}
+{"index": 259533, "D": "emitting rays of light; shining; bright", "S": ["beaming", "brilliant", "gleaming", "glittering", "glowing", "incandescent", "lustrous", "resplendent", "shining", "sunny"], "A": ["cloudy", "dark", "dull", "gloomy", "sullen", "unhappy"]}

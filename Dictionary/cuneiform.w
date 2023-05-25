@@ -1,1 +1,1 @@
-{"index": 75006, "D": "having the form of a wedge; wedge-shaped.", "S": ["cuneal writing ", "curiology ", "hieroglyphics ", "ideography ", "phonographic writing ", "runes ", "script ", "symbolical writing ", "symbology "], "A": []}
+{"index": 75006, "D": "having the form of a wedge; wedge-shaped.", "S": ["cuneal writing", "curiology", "hieroglyphics", "ideography", "phonographic writing", "runes", "script", "symbolical writing", "symbology"], "A": []}

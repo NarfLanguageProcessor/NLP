@@ -1,1 +1,0 @@
-{"index": 195845, "D": "a variety of grape having a pronounced sweet aroma and flavor, used for making wine and raisins.", "S": [], "A": []}

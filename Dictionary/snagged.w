@@ -1,1 +1,1 @@
-{"index": 295203, "D": "a tree or part of a tree held fast in the bottom of a river, lake, etc., and forming an impediment or danger to navigation.", "S": ["braided ", "bunched ", "clustered ", "coiled ", "snarled ", "tangled "], "A": ["straight "]}
+{"index": 295203, "D": "a tree or part of a tree held fast in the bottom of a river, lake, etc., and forming an impediment or danger to navigation.", "S": ["braided", "bunched", "clustered", "coiled", "snarled", "tangled"], "A": ["straight"]}

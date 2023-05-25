@@ -1,1 +1,1 @@
-{"index": 112918, "D": "spun  or drawn out to a fine  thread.", "S": ["elegant ", "exquisite ", "fine ", "graceful ", "nice ", "polished ", "refined ", "sophisticated ", "subtle "], "A": []}
+{"index": 112918, "D": "spun  or drawn out to a fine  thread.", "S": ["elegant", "exquisite", "fine", "graceful", "nice", "polished", "refined", "sophisticated", "subtle"], "A": []}

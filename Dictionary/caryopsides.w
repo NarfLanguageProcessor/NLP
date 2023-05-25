@@ -1,1 +1,1 @@
-{"index": 48091, "D": "a small, one-celled, one-seeded, dry indehiscent fruit with the pericarp adherent to the seed coat, the typical fruit of grasses and grains.", "S": ["kernel "], "A": []}
+{"index": 48091, "D": "a small, one-celled, one-seeded, dry indehiscent fruit with the pericarp adherent to the seed coat, the typical fruit of grasses and grains.", "S": ["kernel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 28385, "D": "Compare solicitor (def. 4). ", "S": ["courtroom "], "A": ["advantage ", "aid ", "help "]}
+{"index": 28385, "D": "Compare solicitor (def. 4). ", "S": ["courtroom"], "A": ["advantage", "aid", "help"]}

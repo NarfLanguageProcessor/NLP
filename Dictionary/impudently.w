@@ -1,1 +1,1 @@
-{"index": 149239, "D": "of, relating to, or characterized by impertinence or effrontery", "S": ["impertinently ", "pertly "], "A": []}
+{"index": 149239, "D": "of, relating to, or characterized by impertinence or effrontery", "S": ["impertinently", "pertly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 236370, "D": "on the back or shoulders", "S": ["astraddle "], "A": []}
+{"index": 236370, "D": "on the back or shoulders", "S": ["astraddle"], "A": []}

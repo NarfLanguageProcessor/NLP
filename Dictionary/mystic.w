@@ -1,1 +1,1 @@
-{"index": 190258, "D": "involving or characterized by esoteric, otherworldly, or symbolic practices or content, as certain religious ceremonies and art; spiritually significant; ethereal.", "S": ["mystical ", "otherworldly ", "supernatural "], "A": ["physical ", "real "]}
+{"index": 190258, "D": "involving or characterized by esoteric, otherworldly, or symbolic practices or content, as certain religious ceremonies and art; spiritually significant; ethereal.", "S": ["mystical", "otherworldly", "supernatural"], "A": ["physical", "real"]}

@@ -1,0 +1,1 @@
+{"index": 18035, "D": "about; roughly; more or less", "S": ["almost", "generally", "relatively", "roughly"], "A": ["accurately", "clearly", "definitely", "exactly", "precisely"]}

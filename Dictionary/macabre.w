@@ -1,1 +1,1 @@
-{"index": 176617, "D": "gruesome and horrifying; ghastly; horrible. ", "S": ["frightening ", "ghastly ", "ghoulish ", "grim ", "grisly ", "gruesome ", "lurid ", "morbid ", "spooky ", "weird "], "A": ["cheerful ", "happy ", "pleasant ", "pleasing ", "pretty "]}
+{"index": 176617, "D": "gruesome and horrifying; ghastly; horrible. ", "S": ["frightening", "ghastly", "ghoulish", "grim", "grisly", "gruesome", "lurid", "morbid", "spooky", "weird"], "A": ["cheerful", "happy", "pleasant", "pleasing", "pretty"]}

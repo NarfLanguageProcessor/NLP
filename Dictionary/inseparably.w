@@ -1,1 +1,1 @@
-{"index": 153548, "D": "incapable of being separated, parted, or disjoined", "S": ["constitutionally ", "genetically ", "intrinsically ", "naturally "], "A": []}
+{"index": 153548, "D": "incapable of being separated, parted, or disjoined", "S": ["constitutionally", "genetically", "intrinsically", "naturally"], "A": []}

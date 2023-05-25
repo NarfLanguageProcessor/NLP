@@ -1,1 +1,1 @@
-{"index": 67926, "D": "a person or thing that conveys. ", "S": ["bearer ", "carrier ", "conveyor ", "courier ", "envoy ", "transporter "], "A": []}
+{"index": 67926, "D": "a person or thing that conveys. ", "S": ["bearer", "carrier", "conveyor", "courier", "envoy", "transporter"], "A": []}

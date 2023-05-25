@@ -1,1 +1,1 @@
-{"index": 254125, "D": "tending or serving to provoke;  inciting, stimulating, irritating, or vexing.", "S": ["sensuality ", "steaminess ", "voluptuousness "], "A": []}
+{"index": 254125, "D": "tending or serving to provoke;  inciting, stimulating, irritating, or vexing.", "S": ["sensuality", "steaminess", "voluptuousness"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 210330, "D": "a person who strives to prevent the increase and spread of knowledge.", "S": [], "A": []}

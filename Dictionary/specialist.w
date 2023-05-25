@@ -1,1 +1,1 @@
-{"index": 298748, "D": "a person who is devoted to one subject or to one particular branch of a subject or pursuit.", "S": ["authority ", "consultant ", "doctor ", "guru ", "professional ", "scholar ", "technician "], "A": ["amateur ", "ignoramus ", "rookie "]}
+{"index": 298748, "D": "a person who is devoted to one subject or to one particular branch of a subject or pursuit.", "S": ["authority", "consultant", "doctor", "guru", "professional", "scholar", "technician"], "A": ["amateur", "ignoramus", "rookie"]}

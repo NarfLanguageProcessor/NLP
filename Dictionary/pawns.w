@@ -1,1 +1,1 @@
-{"index": 228280, "D": "to deposit as security, as for money borrowed, especially with a pawnbroker", "S": ["assurance ", "bond ", "collateral ", "earnest ", "forfeit ", "gage ", "gambit ", "guarantee ", "guaranty ", "pledge ", "security ", "token ", "warrant "], "A": ["break ", "uncertainty "]}
+{"index": 228280, "D": "to deposit as security, as for money borrowed, especially with a pawnbroker", "S": ["assurance", "bond", "collateral", "earnest", "forfeit", "gage", "gambit", "guarantee", "guaranty", "pledge", "security", "token", "warrant"], "A": ["break", "uncertainty"]}

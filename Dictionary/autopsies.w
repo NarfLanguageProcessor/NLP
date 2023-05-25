@@ -1,1 +1,1 @@
-{"index": 24329, "D": "inspection and dissection of a body after death, as for determination of the cause of death; postmortem examination.", "S": ["postmortem "], "A": []}
+{"index": 24329, "D": "inspection and dissection of a body after death, as for determination of the cause of death; postmortem examination.", "S": ["postmortem"], "A": []}

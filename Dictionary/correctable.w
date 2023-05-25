@@ -1,1 +1,1 @@
-{"index": 69599, "D": "to set or make true, accurate, or right; remove the errors or faults from", "S": ["amenable ", "capable ", "corrigible ", "healable ", "improvable ", "mendable ", "not hopeless ", "not too bad ", "reparative ", "restorable ", "subject to cure "], "A": ["incurable "]}
+{"index": 69599, "D": "to set or make true, accurate, or right; remove the errors or faults from", "S": ["amenable", "capable", "corrigible", "healable", "improvable", "mendable", "not hopeless", "not too bad", "reparative", "restorable", "subject to cure"], "A": ["incurable"]}

@@ -1,1 +1,1 @@
-{"index": 152682, "D": "something that is or may be inherited;  property passing at the owner's death to the heir or those entitled to succeed; legacy.", "S": ["bequest ", "estate ", "heritage ", "legacy "], "A": []}
+{"index": 152682, "D": "something that is or may be inherited;  property passing at the owner's death to the heir or those entitled to succeed; legacy.", "S": ["bequest", "estate", "heritage", "legacy"], "A": []}

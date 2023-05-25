@@ -1,1 +1,1 @@
-{"index": 144890, "D": "having human  characteristics or form; resembling human  beings.", "S": ["chimpanzee ", "gibbon ", "gorilla ", "humanoid ", "monkey ", "orang ", "orangutan ", "primate "], "A": []}
+{"index": 144890, "D": "having human  characteristics or form; resembling human  beings.", "S": ["chimpanzee", "gibbon", "gorilla", "humanoid", "monkey", "orang", "orangutan", "primate"], "A": []}

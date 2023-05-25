@@ -1,1 +1,1 @@
-{"index": 87869, "D": "to disentangle or extricate from something troublesome, embarrassing,  or the like.", "S": ["delivery ", "recovery ", "relief ", "salvage "], "A": ["failure "]}
+{"index": 87869, "D": "to disentangle or extricate from something troublesome, embarrassing,  or the like.", "S": ["delivery", "recovery", "relief", "salvage"], "A": ["failure"]}

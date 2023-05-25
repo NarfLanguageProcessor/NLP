@@ -1,1 +1,1 @@
-{"index": 782, "D": "to wear off or down by scraping or rubbing.", "S": ["abrasive ", "rasping ", "rough "], "A": ["smooth "]}
+{"index": 782, "D": "to wear off or down by scraping or rubbing.", "S": ["abrasive", "rasping", "rough"], "A": ["smooth"]}

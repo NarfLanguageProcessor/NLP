@@ -1,1 +1,1 @@
-{"index": 294181, "D": "to move, flow, pass, or go smoothly or easily; glide; slide", "S": ["drop ", "move ", "shift ", "skid ", "slide ", "slither "], "A": ["remain "]}
+{"index": 294181, "D": "to move, flow, pass, or go smoothly or easily; glide; slide", "S": ["drop", "move", "shift", "skid", "slide", "slither"], "A": ["remain"]}

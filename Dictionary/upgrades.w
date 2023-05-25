@@ -1,1 +1,1 @@
-{"index": 354704, "D": "an incline going up in the direction of movement.", "S": ["boost ", "enhance ", "increase ", "promote ", "raise "], "A": ["decrease ", "diminish ", "hurt ", "lower ", "reduce ", "demote ", "depress ", "deteriorate ", "drop ", "retreat ", "retrogress ", "stop "]}
+{"index": 354704, "D": "an incline going up in the direction of movement.", "S": ["boost", "enhance", "increase", "promote", "raise"], "A": ["decrease", "diminish", "hurt", "lower", "reduce", "demote", "depress", "deteriorate", "drop", "retreat", "retrogress", "stop"]}

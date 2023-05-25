@@ -1,1 +1,1 @@
-{"index": 354616, "D": "to bring (a book, figures, or the like) up to date  as by adding new information or making corrections", "S": ["amend ", "modernize ", "refurbish ", "renew ", "renovate ", "restore ", "revise "], "A": ["destroy ", "ruin "]}
+{"index": 354616, "D": "to bring (a book, figures, or the like) up to date  as by adding new information or making corrections", "S": ["amend", "modernize", "refurbish", "renew", "renovate", "restore", "revise"], "A": ["destroy", "ruin"]}

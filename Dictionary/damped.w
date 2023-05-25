@@ -1,1 +1,1 @@
-{"index": 76621, "D": "slightly wet; moist", "S": ["absorb ", "bathe ", "dip ", "drink ", "drown ", "flood ", "immerse ", "marinate ", "moisten ", "penetrate ", "saturate ", "soften ", "steep ", "submerge ", "wash "], "A": ["dehydrate ", "dry "]}
+{"index": 76621, "D": "slightly wet; moist", "S": ["absorb", "bathe", "dip", "drink", "drown", "flood", "immerse", "marinate", "moisten", "penetrate", "saturate", "soften", "steep", "submerge", "wash"], "A": ["dehydrate", "dry"]}

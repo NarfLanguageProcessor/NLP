@@ -1,1 +1,1 @@
-{"index": 97544, "D": "the act of drawing out or bringing forth emotions, opinions, facts, etc.", "S": ["excerpt ", "juice ", "quotation "], "A": ["refusal "]}
+{"index": 97544, "D": "the act of drawing out or bringing forth emotions, opinions, facts, etc.", "S": ["excerpt", "juice", "quotation"], "A": ["refusal"]}

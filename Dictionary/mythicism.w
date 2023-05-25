@@ -1,1 +1,1 @@
-{"index": 190494, "D": [], "S": ["belief ", "legend ", "lore ", "tradition "], "A": ["actuality ", "history ", "reality ", "truth "]}
+{"index": 190494, "D": [], "S": ["belief", "legend", "lore", "tradition"], "A": ["actuality", "history", "reality", "truth"]}

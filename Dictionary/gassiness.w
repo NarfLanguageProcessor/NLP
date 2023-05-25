@@ -1,1 +1,1 @@
-{"index": 122442, "D": "full of or containing gas. ", "S": ["diffuseness ", "discursiveness ", "euphemism ", "indirectness ", "periphrasis ", "pleonasm ", "prolixity ", "roundabout ", "tautology ", "verbiage ", "wordiness "], "A": ["conciseness "]}
+{"index": 122442, "D": "full of or containing gas. ", "S": ["diffuseness", "discursiveness", "euphemism", "indirectness", "periphrasis", "pleonasm", "prolixity", "roundabout", "tautology", "verbiage", "wordiness"], "A": ["conciseness"]}

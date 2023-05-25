@@ -1,1 +1,1 @@
-{"index": 279082, "D": "tending or serving to save;  rescuing; preserving.", "S": ["preserving "], "A": ["wasting "]}
+{"index": 279082, "D": "tending or serving to save;  rescuing; preserving.", "S": ["preserving"], "A": ["wasting"]}

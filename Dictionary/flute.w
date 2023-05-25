@@ -1,1 +1,1 @@
-{"index": 115554, "D": "a musical wind instrument consisting of a tube with a series of fingerholes or keys, in which the wind is directed against a sharp edge, either directly, as in the modern transverse flute, or through a flue, as in the recorder.", "S": ["trench "], "A": []}
+{"index": 115554, "D": "a musical wind instrument consisting of a tube with a series of fingerholes or keys, in which the wind is directed against a sharp edge, either directly, as in the modern transverse flute, or through a flue, as in the recorder.", "S": ["trench"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1809, "D": "a person who studies the process of acculturation. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110366, "D": "complacent stupidity; foolishness. ", "S": ["absurdity ", "asininity ", "foolishness ", "idiocy ", "stupidity "], "A": ["intelligence ", "sense "]}
+{"index": 110366, "D": "complacent stupidity; foolishness. ", "S": ["absurdity", "asininity", "foolishness", "idiocy", "stupidity"], "A": ["intelligence", "sense"]}

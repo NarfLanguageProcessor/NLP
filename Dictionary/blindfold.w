@@ -1,1 +1,1 @@
-{"index": 36221, "D": "to prevent or occlude sight by covering (the eyes) with a cloth, bandage, or the like; cover the eyes of.", "S": ["curtain "], "A": []}
+{"index": 36221, "D": "to prevent or occlude sight by covering (the eyes) with a cloth, bandage, or the like; cover the eyes of.", "S": ["curtain"], "A": []}

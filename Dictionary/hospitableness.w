@@ -1,1 +1,1 @@
-{"index": 144161, "D": "receiving or treating guests or strangers warmly and generously", "S": ["accommodation ", "companionship ", "friendliness ", "generosity ", "reception ", "warmth "], "A": ["aloofness ", "coolness ", "unhappiness "]}
+{"index": 144161, "D": "receiving or treating guests or strangers warmly and generously", "S": ["accommodation", "companionship", "friendliness", "generosity", "reception", "warmth"], "A": ["aloofness", "coolness", "unhappiness"]}

@@ -1,1 +1,1 @@
-{"index": 259223, "D": "of or relating to rabbis  or their learning, writings, etc.", "S": ["ecclesiastical ", "ministerial ", "monastic ", "pastoral "], "A": []}
+{"index": 259223, "D": "of or relating to rabbis  or their learning, writings, etc.", "S": ["ecclesiastical", "ministerial", "monastic", "pastoral"], "A": []}

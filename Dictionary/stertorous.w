@@ -1,1 +1,1 @@
-{"index": 304143, "D": "characterized by stertor  or heavy snoring.", "S": ["asthmatic ", "blown ", "choking ", "emphysematous ", "exhausted ", "gasping ", "gulping ", "out of breath ", "panting ", "short of breath ", "short-winded ", "spent ", "wheezing ", "winded "], "A": ["breathy ", "calm "]}
+{"index": 304143, "D": "characterized by stertor  or heavy snoring.", "S": ["asthmatic", "blown", "choking", "emphysematous", "exhausted", "gasping", "gulping", "out of breath", "panting", "short of breath", "short-winded", "spent", "wheezing", "winded"], "A": ["breathy", "calm"]}

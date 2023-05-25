@@ -1,1 +1,1 @@
-{"index": 194323, "D": "an aspic, unsweetened and containing meat, vegetables, or fish, usually chilled in a mold", "S": ["custard ", "dessert ", "tapioca "], "A": []}
+{"index": 194323, "D": "an aspic, unsweetened and containing meat, vegetables, or fish, usually chilled in a mold", "S": ["custard", "dessert", "tapioca"], "A": []}

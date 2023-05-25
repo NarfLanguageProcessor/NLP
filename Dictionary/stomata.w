@@ -1,1 +1,1 @@
-{"index": 305111, "D": "a plural of stoma. ", "S": ["halo "], "A": []}
+{"index": 305111, "D": "a plural of stoma. ", "S": ["halo"], "A": []}

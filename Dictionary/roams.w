@@ -1,1 +1,1 @@
-{"index": 273525, "D": "to walk, go, or travel without a fixed purpose or direction; ramble; wander; rove", "S": ["drift ", "meander ", "prowl ", "ramble ", "saunter ", "stray ", "stroll ", "traipse ", "tramp ", "trek "], "A": ["run ", "stay "]}
+{"index": 273525, "D": "to walk, go, or travel without a fixed purpose or direction; ramble; wander; rove", "S": ["drift", "meander", "prowl", "ramble", "saunter", "stray", "stroll", "traipse", "tramp", "trek"], "A": ["run", "stay"]}

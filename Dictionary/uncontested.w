@@ -1,1 +1,0 @@
-{"index": 337830, "D": "not having been challenged, called into question, or disputed", "S": ["acknowledged ", "indisputable ", "irrefutable ", "unchallenged ", "undeniable ", "unequivocal ", "unquestioned "], "A": ["disputable ", "doubtful ", "dubious ", "indefinite ", "questionable ", "refutable ", "uncertain ", "unsure ", "vague "]}

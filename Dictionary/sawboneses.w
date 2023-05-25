@@ -1,1 +1,1 @@
-{"index": 279157, "D": "a surgeon or physician.", "S": ["doctor ", "specialist ", "surgeon "], "A": ["patient "]}
+{"index": 279157, "D": "a surgeon or physician.", "S": ["doctor", "specialist", "surgeon"], "A": ["patient"]}

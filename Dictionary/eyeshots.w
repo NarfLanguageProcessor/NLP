@@ -1,1 +1,1 @@
-{"index": 96440, "D": "range of vision; view", "S": ["appearance ", "eye ", "perception ", "view ", "vision "], "A": ["blindness "]}
+{"index": 96440, "D": "range of vision; view", "S": ["appearance", "eye", "perception", "view", "vision"], "A": ["blindness"]}

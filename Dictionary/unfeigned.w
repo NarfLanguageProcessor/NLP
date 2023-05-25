@@ -1,1 +1,1 @@
-{"index": 342122, "D": "not feigned; sincere; genuine.", "S": ["genuine ", "heartfelt ", "honest ", "natural ", "real ", "true ", "unaffected ", "unassumed "], "A": ["insincere ", "pretended "]}
+{"index": 342122, "D": "not feigned; sincere; genuine.", "S": ["genuine", "heartfelt", "honest", "natural", "real", "true", "unaffected", "unassumed"], "A": ["insincere", "pretended"]}

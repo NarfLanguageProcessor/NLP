@@ -1,1 +1,1 @@
-{"index": 109055, "D": "given to faction;  dissentious", "S": ["confrontation ", "contempt ", "opposition ", "provocation ", "rebellion ", "spite "], "A": ["calm ", "harmony ", "love ", "peace ", "answer ", "care ", "caution ", "cowardice ", "fear ", "humility ", "modesty ", "timidity "]}
+{"index": 109055, "D": "given to faction;  dissentious", "S": ["confrontation", "contempt", "opposition", "provocation", "rebellion", "spite"], "A": ["calm", "harmony", "love", "peace", "answer", "care", "caution", "cowardice", "fear", "humility", "modesty", "timidity"]}

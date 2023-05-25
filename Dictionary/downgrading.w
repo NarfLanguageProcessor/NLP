@@ -1,1 +1,1 @@
-{"index": 92244, "D": "a downward slope, especially of a road.", "S": ["demeaning ", "derogatory ", "disgraceful ", "humiliating "], "A": []}
+{"index": 92244, "D": "a downward slope, especially of a road.", "S": ["demeaning", "derogatory", "disgraceful", "humiliating"], "A": []}

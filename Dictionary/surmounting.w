@@ -1,1 +1,1 @@
-{"index": 313509, "D": "to mount upon; get on the top of; mount upon and cross over", "S": ["accomplishment ", "coup ", "feat ", "gain ", "grand slam ", "success ", "win "], "A": ["failure ", "forfeit ", "loss "]}
+{"index": 313509, "D": "to mount upon; get on the top of; mount upon and cross over", "S": ["accomplishment", "coup", "feat", "gain", "grand slam", "success", "win"], "A": ["failure", "forfeit", "loss"]}

@@ -1,1 +1,1 @@
-{"index": 46196, "D": "a long, usually slender piece of tallow or wax with an embedded wick that is burned to give light.", "S": ["torch "], "A": []}
+{"index": 46196, "D": "a long, usually slender piece of tallow or wax with an embedded wick that is burned to give light.", "S": ["torch"], "A": []}

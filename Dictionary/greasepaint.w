@@ -1,1 +1,1 @@
-{"index": 129429, "D": "an oily mixture of melted tallow or grease and a pigment, used by actors, clowns, etc., for making up their faces.", "S": ["lipstick ", "paint "], "A": []}
+{"index": 129429, "D": "an oily mixture of melted tallow or grease and a pigment, used by actors, clowns, etc., for making up their faces.", "S": ["lipstick", "paint"], "A": []}

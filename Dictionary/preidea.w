@@ -1,1 +1,0 @@
-{"index": 247849, "D": "any conception existing in the mind as a result of mental understanding, awareness, or activity.", "S": [], "A": []}

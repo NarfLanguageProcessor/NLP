@@ -1,1 +1,1 @@
-{"index": 216774, "D": "to flow out or issue suddenly, copiously, or forcibly, as a fluid from confinement", "S": ["deluge ", "downpour ", "flow ", "glut ", "spate ", "stream ", "surge ", "tide ", "torrent ", "tsunami ", "wave "], "A": ["trickle ", "dearth ", "lack "]}
+{"index": 216774, "D": "to flow out or issue suddenly, copiously, or forcibly, as a fluid from confinement", "S": ["deluge", "downpour", "flow", "glut", "spate", "stream", "surge", "tide", "torrent", "tsunami", "wave"], "A": ["trickle", "dearth", "lack"]}

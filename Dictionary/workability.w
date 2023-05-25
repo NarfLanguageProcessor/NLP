@@ -1,1 +1,1 @@
-{"index": 367465, "D": "practicable or feasible", "S": ["usefulness "], "A": []}
+{"index": 367465, "D": "practicable or feasible", "S": ["usefulness"], "A": []}

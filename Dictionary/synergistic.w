@@ -1,1 +1,1 @@
-{"index": 291631, "D": "pertaining to, characteristic of, or resembling synergy", "S": ["collegial ", "harmonious ", "interdependent ", "symbiotic "], "A": []}
+{"index": 291631, "D": "pertaining to, characteristic of, or resembling synergy", "S": ["collegial", "harmonious", "interdependent", "symbiotic"], "A": []}

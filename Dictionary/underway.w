@@ -1,1 +1,1 @@
-{"index": 340081, "D": "occurring while under way", "S": ["afoot ", "ongoing "], "A": ["halted ", "stopped "]}
+{"index": 340081, "D": "occurring while under way", "S": ["afoot", "ongoing"], "A": ["halted", "stopped"]}

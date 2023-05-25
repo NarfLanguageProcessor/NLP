@@ -1,1 +1,1 @@
-{"index": 289174, "D": "a loud, sharp, shrill cry.", "S": ["acute ", "high-pitched ", "loud ", "malodorous ", "penetrating ", "piercing ", "piping ", "putrid ", "rancid ", "rank ", "reeking ", "sharp ", "shrill ", "shrilly ", "smelly ", "soprano ", "strident ", "treble "], "A": []}
+{"index": 289174, "D": "a loud, sharp, shrill cry.", "S": ["acute", "high-pitched", "loud", "malodorous", "penetrating", "piercing", "piping", "putrid", "rancid", "rank", "reeking", "sharp", "shrill", "shrilly", "smelly", "soprano", "strident", "treble"], "A": []}

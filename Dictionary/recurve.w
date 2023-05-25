@@ -1,1 +1,1 @@
-{"index": 263812, "D": "to curve or bend back or backward.", "S": ["bend ", "loop "], "A": ["destroy ", "neglect ", "roughen ", "ruin ", "straighten "]}
+{"index": 263812, "D": "to curve or bend back or backward.", "S": ["bend", "loop"], "A": ["destroy", "neglect", "roughen", "ruin", "straighten"]}

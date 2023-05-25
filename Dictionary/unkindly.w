@@ -1,1 +1,1 @@
-{"index": 345312, "D": "not kindly; unkind; ill-natured.", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}
+{"index": 345312, "D": "not kindly; unkind; ill-natured.", "S": ["ferociously", "fiercely", "mercilessly", "relentlessly", "ruthlessly", "savagely", "viciously"], "A": ["gently", "humanely", "kindly", "nicely"]}

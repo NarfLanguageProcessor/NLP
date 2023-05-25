@@ -1,1 +1,1 @@
-{"index": 230677, "D": "to carry out; execute; do", "S": ["acrobat ", "actor ", "actress ", "artist ", "artiste ", "contortionist ", "doer ", "funambulist ", "impersonator ", "mime ", "musician ", "player ", "star ", "thespian ", "trouper ", "tumbler ", "worker "], "A": []}
+{"index": 230677, "D": "to carry out; execute; do", "S": ["acrobat", "actor", "actress", "artist", "artiste", "contortionist", "doer", "funambulist", "impersonator", "mime", "musician", "player", "star", "thespian", "trouper", "tumbler", "worker"], "A": []}

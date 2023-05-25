@@ -1,1 +1,1 @@
-{"index": 236694, "D": "a pad or cushion attached behind a saddle, especially as a seat for a woman.", "S": ["howdah ", "packsaddle ", "seat "], "A": []}
+{"index": 236694, "D": "a pad or cushion attached behind a saddle, especially as a seat for a woman.", "S": ["howdah", "packsaddle", "seat"], "A": []}

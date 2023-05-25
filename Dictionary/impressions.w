@@ -1,1 +1,1 @@
-{"index": 149085, "D": "a strong effect produced on the intellect, feelings, conscience, etc.", "S": ["annotation ", "draft ", "jottings ", "marginalia ", "record ", "report ", "summary ", "synopsis "], "A": []}
+{"index": 149085, "D": "a strong effect produced on the intellect, feelings, conscience, etc.", "S": ["annotation", "draft", "jottings", "marginalia", "record", "report", "summary", "synopsis"], "A": []}

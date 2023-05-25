@@ -1,1 +1,1 @@
-{"index": 12788, "D": "a benign tumor consisting chiefly of dilated or newly formed blood vessels (hemangioma ) or lymph vessels (lymphangioma ).", "S": ["hemangioma ", "mole ", "nevus "], "A": []}
+{"index": 12788, "D": "a benign tumor consisting chiefly of dilated or newly formed blood vessels (hemangioma ) or lymph vessels (lymphangioma ).", "S": ["hemangioma", "mole", "nevus"], "A": []}

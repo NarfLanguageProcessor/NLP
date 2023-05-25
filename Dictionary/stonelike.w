@@ -1,1 +1,1 @@
-{"index": 305223, "D": "the hard substance, formed of mineral matter, of which rocks consist.", "S": ["craggy ", "jagged ", "rough "], "A": ["even ", "smooth "]}
+{"index": 305223, "D": "the hard substance, formed of mineral matter, of which rocks consist.", "S": ["craggy", "jagged", "rough"], "A": ["even", "smooth"]}

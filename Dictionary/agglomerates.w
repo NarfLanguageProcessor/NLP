@@ -1,0 +1,1 @@
+{"index": 6054, "D": "to collect or gather into a cluster or mass.", "S": ["aggregate", "cluster", "collection", "lump", "mass", "pile"], "A": ["individual", "one"]}

@@ -1,1 +1,1 @@
-{"index": 144392, "D": "the act of entering a building as a trespasser for an unlawful purpose. Assimilated with burglary, 1968", "S": ["burglary ", "robbery "], "A": []}
+{"index": 144392, "D": "the act of entering a building as a trespasser for an unlawful purpose. Assimilated with burglary, 1968", "S": ["burglary", "robbery"], "A": []}

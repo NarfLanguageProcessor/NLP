@@ -1,1 +1,1 @@
-{"index": 41053, "D": "a person or thing that broadcasts. ", "S": ["disc jockey ", "newscaster ", "reporter "], "A": []}
+{"index": 41053, "D": "a person or thing that broadcasts. ", "S": ["disc jockey", "newscaster", "reporter"], "A": []}

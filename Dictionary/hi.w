@@ -1,1 +1,1 @@
-{"index": 138127, "D": "(used as an exclamation of greeting) hello!", "S": ["greetings ", "howdy ", "welcome "], "A": ["adios ", "au revoir ", "goodbye "]}
+{"index": 138127, "D": "(used as an exclamation of greeting) hello!", "S": ["greetings", "howdy", "welcome"], "A": ["adios", "au revoir", "goodbye"]}

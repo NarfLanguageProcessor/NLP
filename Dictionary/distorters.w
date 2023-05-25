@@ -1,1 +1,1 @@
-{"index": 89857, "D": "to twist awry or out of shape; make crooked or deformed", "S": ["coiner ", "counterfeiter ", "fabulist ", "faker ", "falsifier ", "fibber ", "liar ", "prevaricator ", "storyteller "], "A": []}
+{"index": 89857, "D": "to twist awry or out of shape; make crooked or deformed", "S": ["coiner", "counterfeiter", "fabulist", "faker", "falsifier", "fibber", "liar", "prevaricator", "storyteller"], "A": []}

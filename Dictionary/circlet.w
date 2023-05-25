@@ -1,1 +1,1 @@
-{"index": 57977, "D": "a small circle.", "S": ["band ", "bangle ", "bracelet ", "headband ", "hoop ", "wreath "], "A": []}
+{"index": 57977, "D": "a small circle.", "S": ["band", "bangle", "bracelet", "headband", "hoop", "wreath"], "A": []}

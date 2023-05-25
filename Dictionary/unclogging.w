@@ -1,1 +1,1 @@
-{"index": 337077, "D": "to free of an obstruction or impediment", "S": ["clarify ", "eliminate ", "erase ", "free ", "open "], "A": ["dirty ", "entangle ", "fill ", "pollute "]}
+{"index": 337077, "D": "to free of an obstruction or impediment", "S": ["clarify", "eliminate", "erase", "free", "open"], "A": ["dirty", "entangle", "fill", "pollute"]}

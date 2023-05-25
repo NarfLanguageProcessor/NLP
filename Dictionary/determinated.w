@@ -1,1 +1,1 @@
-{"index": 83163, "D": "having defined limits; definite.", "S": ["diagnose ", "identify ", "recognize "], "A": ["overlook "]}
+{"index": 83163, "D": "having defined limits; definite.", "S": ["diagnose", "identify", "recognize"], "A": ["overlook"]}

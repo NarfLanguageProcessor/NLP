@@ -1,1 +1,1 @@
-{"index": 98549, "D": "an emigrant, especially a person who flees from their native land because of political conditions.", "S": ["emigrant "], "A": []}
+{"index": 98549, "D": "an emigrant, especially a person who flees from their native land because of political conditions.", "S": ["emigrant"], "A": []}

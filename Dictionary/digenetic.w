@@ -1,1 +1,1 @@
-{"index": 85395, "D": "of or relating to digenesis", "S": ["ancestral ", "hereditary ", "historical "], "A": ["acquired "]}
+{"index": 85395, "D": "of or relating to digenesis", "S": ["ancestral", "hereditary", "historical"], "A": ["acquired"]}

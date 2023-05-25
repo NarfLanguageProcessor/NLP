@@ -1,1 +1,1 @@
-{"index": 219643, "D": "to hang  or be suspended over", "S": ["beetle ", "command ", "endanger ", "extend ", "impend ", "jut ", "loom ", "menace ", "overtop ", "poke ", "portend ", "pouch ", "project ", "protrude ", "threaten "], "A": ["aid ", "assist ", "help ", "keep ", "save "]}
+{"index": 219643, "D": "to hang  or be suspended over", "S": ["beetle", "command", "endanger", "extend", "impend", "jut", "loom", "menace", "overtop", "poke", "portend", "pouch", "project", "protrude", "threaten"], "A": ["aid", "assist", "help", "keep", "save"]}

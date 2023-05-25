@@ -1,1 +1,1 @@
-{"index": 200889, "D": "to propose (someone) for appointment or election to an office.", "S": ["approved ", "proposed ", "suggested "], "A": []}
+{"index": 200889, "D": "to propose (someone) for appointment or election to an office.", "S": ["approved", "proposed", "suggested"], "A": []}

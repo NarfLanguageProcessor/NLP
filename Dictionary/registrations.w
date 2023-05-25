@@ -1,1 +1,1 @@
-{"index": 265692, "D": "the act of registering.", "S": ["booking ", "certification ", "enrollment ", "filing ", "listing "], "A": []}
+{"index": 265692, "D": "the act of registering.", "S": ["booking", "certification", "enrollment", "filing", "listing"], "A": []}

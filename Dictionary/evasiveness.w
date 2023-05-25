@@ -1,1 +1,1 @@
-{"index": 106059, "D": "tending or seeking to evade;  characterized by evasion", "S": ["equivocation ", "prevarication ", "tergiversation "], "A": ["directness "]}
+{"index": 106059, "D": "tending or seeking to evade;  characterized by evasion", "S": ["equivocation", "prevarication", "tergiversation"], "A": ["directness"]}

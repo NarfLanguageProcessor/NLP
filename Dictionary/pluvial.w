@@ -1,1 +1,1 @@
-{"index": 240682, "D": "of or relating to rain, especially much rain; rainy.", "S": ["damp ", "moist ", "stormy ", "wet "], "A": ["dry "]}
+{"index": 240682, "D": "of or relating to rain, especially much rain; rainy.", "S": ["damp", "moist", "stormy", "wet"], "A": ["dry"]}

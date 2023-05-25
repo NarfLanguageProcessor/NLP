@@ -1,1 +1,1 @@
-{"index": 366365, "D": "a slender, stringlike piece or filament of relatively rigid or flexible metal, usually circular in section, manufactured in a great variety of diameters and metals depending on its application.", "S": ["business ", "commerce ", "sale ", "trade "], "A": []}
+{"index": 366365, "D": "a slender, stringlike piece or filament of relatively rigid or flexible metal, usually circular in section, manufactured in a great variety of diameters and metals depending on its application.", "S": ["business", "commerce", "sale", "trade"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 273626, "D": "the quality of being robust", "S": ["meat "], "A": ["enervation ", "impotence ", "inability ", "incompetence ", "lethargy ", "powerlessness ", "weakness "]}
+{"index": 273626, "D": "the quality of being robust", "S": ["meat"], "A": ["enervation", "impotence", "inability", "incompetence", "lethargy", "powerlessness", "weakness"]}

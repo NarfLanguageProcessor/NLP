@@ -1,1 +1,1 @@
-{"index": 187723, "D": "a form of the possessive case of I used as a predicate adjective", "S": ["field ", "pit ", "quarry ", "reserve ", "store "], "A": ["end ", "lack ", "result "]}
+{"index": 187723, "D": "a form of the possessive case of I used as a predicate adjective", "S": ["field", "pit", "quarry", "reserve", "store"], "A": ["end", "lack", "result"]}

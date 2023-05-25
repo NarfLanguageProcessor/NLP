@@ -1,0 +1,1 @@
+{"index": 5549, "D": "floating or borne on the water; in a floating condition", "S": ["adrift"], "A": ["aground", "ashore", "beached", "docked"]}

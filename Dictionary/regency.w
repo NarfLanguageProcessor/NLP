@@ -1,1 +1,1 @@
-{"index": 265573, "D": "the office, jurisdiction, or control of a regent  or body of regents  exercising the ruling power during the minority, absence, or disability of a sovereign.", "S": ["authority ", "dominance ", "dominion ", "power ", "rule "], "A": ["weakness "]}
+{"index": 265573, "D": "the office, jurisdiction, or control of a regent  or body of regents  exercising the ruling power during the minority, absence, or disability of a sovereign.", "S": ["authority", "dominance", "dominion", "power", "rule"], "A": ["weakness"]}

@@ -1,1 +1,1 @@
-{"index": 76123, "D": "skillful; ingenious. ", "S": ["complicated ", "convoluted ", "detailed ", "devious ", "difficult ", "elaborate ", "intricate ", "involved ", "labyrinthine ", "tortuous "], "A": []}
+{"index": 76123, "D": "skillful; ingenious. ", "S": ["complicated", "convoluted", "detailed", "devious", "difficult", "elaborate", "intricate", "involved", "labyrinthine", "tortuous"], "A": []}

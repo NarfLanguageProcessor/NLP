@@ -1,1 +1,0 @@
-{"index": 267838, "D": "a person's usual or principal work or business, especially as a means of earning a living; vocation", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 315650, "D": "talking picture. ", "S": ["cinema ", "flick ", "footage ", "motion picture ", "picture ", "show "], "A": []}
+{"index": 315650, "D": "talking picture. ", "S": ["cinema", "flick", "footage", "motion picture", "picture", "show"], "A": []}

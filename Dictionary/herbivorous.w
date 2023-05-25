@@ -1,1 +1,1 @@
-{"index": 136939, "D": "feeding on plants.", "S": ["vegan "], "A": []}
+{"index": 136939, "D": "feeding on plants.", "S": ["vegan"], "A": []}

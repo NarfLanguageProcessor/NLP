@@ -1,1 +1,1 @@
-{"index": 128898, "D": "the main seating area of a stadium, racetrack, parade route, or the like, usually consisting of tiers with rows of individual seats.", "S": ["show off "], "A": []}
+{"index": 128898, "D": "the main seating area of a stadium, racetrack, parade route, or the like, usually consisting of tiers with rows of individual seats.", "S": ["show off"], "A": []}

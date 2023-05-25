@@ -1,1 +1,1 @@
-{"index": 263254, "D": "to cause (a person) to accept or be resigned to something not desired", "S": ["accustomed ", "adapted ", "adjusted ", "arranged ", "harmonized ", "regulated ", "resigned ", "reunited "], "A": ["alienated ", "antagonized ", "opposed "]}
+{"index": 263254, "D": "to cause (a person) to accept or be resigned to something not desired", "S": ["accustomed", "adapted", "adjusted", "arranged", "harmonized", "regulated", "resigned", "reunited"], "A": ["alienated", "antagonized", "opposed"]}

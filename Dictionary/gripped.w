@@ -1,1 +1,1 @@
-{"index": 129998, "D": "the act of grasping; a seizing and holding fast; firm grasp.", "S": ["absorbed ", "captivated ", "consumed ", "engaged ", "enthralled ", "submerged "], "A": ["existing ", "idle ", "inactive "]}
+{"index": 129998, "D": "the act of grasping; a seizing and holding fast; firm grasp.", "S": ["absorbed", "captivated", "consumed", "engaged", "enthralled", "submerged"], "A": ["existing", "idle", "inactive"]}

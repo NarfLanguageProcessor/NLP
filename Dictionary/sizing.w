@@ -1,1 +1,1 @@
-{"index": 292786, "D": "the act or process of applying size  or preparing with size. ", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "coordination ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}
+{"index": 292786, "D": "the act or process of applying size  or preparing with size. ", "S": ["allocation", "allotment", "analysis", "arrangement", "coordination", "designation", "distribution", "grade", "regulation"], "A": ["disorganization", "keeping", "retention"]}

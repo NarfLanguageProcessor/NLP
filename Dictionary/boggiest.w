@@ -1,1 +1,1 @@
-{"index": 37300, "D": "containing or full of bogs", "S": ["soggy "], "A": []}
+{"index": 37300, "D": "containing or full of bogs", "S": ["soggy"], "A": []}

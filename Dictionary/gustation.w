@@ -1,1 +1,1 @@
-{"index": 131558, "D": "the act of tasting.", "S": ["appetite ", "palate "], "A": []}
+{"index": 131558, "D": "the act of tasting.", "S": ["appetite", "palate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 87746, "D": "constituting a particular quality, trait, or difference; characteristic; notable.", "S": ["discerning ", "discriminate ", "discriminatory ", "particular ", "selective "], "A": []}
+{"index": 87746, "D": "constituting a particular quality, trait, or difference; characteristic; notable.", "S": ["discerning", "discriminate", "discriminatory", "particular", "selective"], "A": []}

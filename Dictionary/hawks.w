@@ -1,1 +1,1 @@
-{"index": 134485, "D": "U.S. film director.", "S": ["belligerent ", "chauvinist ", "jingo ", "jingoist ", "militarist ", "warmonger "], "A": ["Dove "]}
+{"index": 134485, "D": "U.S. film director.", "S": ["belligerent", "chauvinist", "jingo", "jingoist", "militarist", "warmonger"], "A": ["Dove"]}

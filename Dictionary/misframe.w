@@ -1,1 +1,0 @@
-{"index": 189330, "D": "a border or case for enclosing a picture, mirror, etc.", "S": [], "A": []}

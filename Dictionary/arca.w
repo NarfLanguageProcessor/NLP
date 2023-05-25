@@ -1,1 +1,1 @@
-{"index": 18617, "D": "a chest for valuables, used in medieval Spain and Italy.", "S": ["feretory "], "A": []}
+{"index": 18617, "D": "a chest for valuables, used in medieval Spain and Italy.", "S": ["feretory"], "A": []}

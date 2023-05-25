@@ -1,1 +1,1 @@
-{"index": 87888, "D": "to remove the bowels or entrails from; eviscerate.", "S": ["clean ", "draw ", "empty ", "eviscerate ", "exenterate ", "extract "], "A": ["put in "]}
+{"index": 87888, "D": "to remove the bowels or entrails from; eviscerate.", "S": ["clean", "draw", "empty", "eviscerate", "exenterate", "extract"], "A": ["put in"]}

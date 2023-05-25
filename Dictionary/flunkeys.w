@@ -1,1 +1,1 @@
-{"index": 115375, "D": "flunky. ", "S": ["drudge ", "footman ", "gofer ", "lackey ", "servant ", "steward "], "A": []}
+{"index": 115375, "D": "flunky. ", "S": ["drudge", "footman", "gofer", "lackey", "servant", "steward"], "A": []}

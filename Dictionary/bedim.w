@@ -1,0 +1,1 @@
+{"index": 30082, "D": "to make dim;  darken; obscure.", "S": ["adumbrate", "becloud", "cloud", "darken", "fade", "fog", "mist", "obscure", "overcast"], "A": ["brighten", "clear up", "explain", "illuminate"]}

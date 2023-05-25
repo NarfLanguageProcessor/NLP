@@ -1,1 +1,0 @@
-{"index": 271834, "D": "a large, deerlike South African antelope, Pelea capreolus, with pale-gray, curly fur and straight horns.", "S": [], "A": []}

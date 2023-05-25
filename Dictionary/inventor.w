@@ -1,1 +1,1 @@
-{"index": 157103, "D": "a person who invents,  especially one who devises some new process, appliance, machine, or article; one who makes inventions. ", "S": ["architect ", "author ", "builder ", "creator ", "designer ", "founder ", "innovator ", "maker "], "A": []}
+{"index": 157103, "D": "a person who invents,  especially one who devises some new process, appliance, machine, or article; one who makes inventions. ", "S": ["architect", "author", "builder", "creator", "designer", "founder", "innovator", "maker"], "A": []}

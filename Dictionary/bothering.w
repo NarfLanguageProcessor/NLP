@@ -1,1 +1,1 @@
-{"index": 38721, "D": "to annoy; give trouble to; pester", "S": ["bugging ", "pestering "], "A": []}
+{"index": 38721, "D": "to annoy; give trouble to; pester", "S": ["bugging", "pestering"], "A": []}

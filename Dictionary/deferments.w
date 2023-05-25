@@ -1,1 +1,1 @@
-{"index": 79236, "D": "a temporary exemption from induction into military service.", "S": ["adjournment ", "delay ", "holdover ", "moratorium ", "pause ", "putting off ", "stay ", "suspension "], "A": ["advance ", "expedition ", "forging "]}
+{"index": 79236, "D": "a temporary exemption from induction into military service.", "S": ["adjournment", "delay", "holdover", "moratorium", "pause", "putting off", "stay", "suspension"], "A": ["advance", "expedition", "forging"]}

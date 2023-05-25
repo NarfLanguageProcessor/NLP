@@ -1,1 +1,1 @@
-{"index": 34394, "D": "a written account of another person's life", "S": ["autobiography ", "diary ", "journal ", "life ", "life story ", "memoir ", "picture ", "profile ", "sketch "], "A": []}
+{"index": 34394, "D": "a written account of another person's life", "S": ["autobiography", "diary", "journal", "life", "life story", "memoir", "picture", "profile", "sketch"], "A": []}

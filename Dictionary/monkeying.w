@@ -1,1 +1,1 @@
-{"index": 192031, "D": "any of more than 250 species of simian primates belonging to the two distinct lines of New World monkeys  and Old World monkeys. ", "S": ["ape ", "baboon ", "chimpanzee ", "gorilla ", "lemur ", "orangutan "], "A": []}
+{"index": 192031, "D": "any of more than 250 species of simian primates belonging to the two distinct lines of New World monkeys  and Old World monkeys. ", "S": ["ape", "baboon", "chimpanzee", "gorilla", "lemur", "orangutan"], "A": []}

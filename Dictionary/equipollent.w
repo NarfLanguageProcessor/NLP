@@ -1,1 +1,1 @@
-{"index": 103345, "D": "equal in power, effect, etc.; equivalent.", "S": ["commensurate ", "equal ", "proportionate ", "tantamount "], "A": ["different "]}
+{"index": 103345, "D": "equal in power, effect, etc.; equivalent.", "S": ["commensurate", "equal", "proportionate", "tantamount"], "A": ["different"]}

@@ -1,1 +1,1 @@
-{"index": 131235, "D": "to gasp or choke, as when taking large drafts of a liquid.", "S": ["bite ", "gulp ", "morsel ", "piece ", "taste "], "A": []}
+{"index": 131235, "D": "to gasp or choke, as when taking large drafts of a liquid.", "S": ["bite", "gulp", "morsel", "piece", "taste"], "A": []}

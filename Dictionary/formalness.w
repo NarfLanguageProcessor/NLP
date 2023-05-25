@@ -1,1 +1,1 @@
-{"index": 117378, "D": "being in accordance with the usual requirements, customs, etc.; conventional", "S": ["rigor "], "A": ["informality ", "kindness ", "mildness ", "unimportance "]}
+{"index": 117378, "D": "being in accordance with the usual requirements, customs, etc.; conventional", "S": ["rigor"], "A": ["informality", "kindness", "mildness", "unimportance"]}

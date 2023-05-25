@@ -1,1 +1,1 @@
-{"index": 345891, "D": "not made. ", "S": ["disheveled ", "tousled "], "A": ["neat ", "ordered "]}
+{"index": 345891, "D": "not made. ", "S": ["disheveled", "tousled"], "A": ["neat", "ordered"]}

@@ -1,1 +1,1 @@
-{"index": 122063, "D": "a fashion or mode of dress, especially of a distinctive, uniform kind", "S": ["arrayed ", "attired ", "clothed ", "covered ", "dressed ", "face ", "robed ", "sheathed "], "A": ["exposed "]}
+{"index": 122063, "D": "a fashion or mode of dress, especially of a distinctive, uniform kind", "S": ["arrayed", "attired", "clothed", "covered", "dressed", "face", "robed", "sheathed"], "A": ["exposed"]}

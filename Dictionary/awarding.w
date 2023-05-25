@@ -1,1 +1,1 @@
-{"index": 24967, "D": "to give as due or merited; assign or bestow", "S": ["offering "], "A": ["appropriating ", "getting ", "taking "]}
+{"index": 24967, "D": "to give as due or merited; assign or bestow", "S": ["offering"], "A": ["appropriating", "getting", "taking"]}

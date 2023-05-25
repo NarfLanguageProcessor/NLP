@@ -1,1 +1,1 @@
-{"index": 130181, "D": "a bridegroom.", "S": ["educated ", "handled "], "A": ["free ", "undisciplined ", "uneducated ", "ungoverned ", "unsupervised ", "wild "]}
+{"index": 130181, "D": "a bridegroom.", "S": ["educated", "handled"], "A": ["free", "undisciplined", "uneducated", "ungoverned", "unsupervised", "wild"]}

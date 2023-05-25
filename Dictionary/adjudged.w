@@ -1,0 +1,1 @@
+{"index": 4027, "D": "to declare or pronounce formally; decree", "S": ["adjudicate", "arbitrate", "award", "consider", "decide", "decree", "determine", "rate", "referee", "rule", "settle"], "A": ["defer", "hesitate", "ignore", "leave"]}

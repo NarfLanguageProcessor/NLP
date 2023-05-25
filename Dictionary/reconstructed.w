@@ -1,1 +1,1 @@
-{"index": 263402, "D": "to construct  again; rebuild; make over.", "S": ["built ", "fixed ", "mended ", "reorganized ", "repaired ", "restored "], "A": ["broken "]}
+{"index": 263402, "D": "to construct  again; rebuild; make over.", "S": ["built", "fixed", "mended", "reorganized", "repaired", "restored"], "A": ["broken"]}

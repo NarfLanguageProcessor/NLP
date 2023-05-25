@@ -1,1 +1,1 @@
-{"index": 109939, "D": [], "S": ["distant ", "extensive ", "global ", "remote "], "A": ["close ", "friendly ", "limited ", "near ", "nearby ", "warm "]}
+{"index": 109939, "D": [], "S": ["distant", "extensive", "global", "remote"], "A": ["close", "friendly", "limited", "near", "nearby", "warm"]}

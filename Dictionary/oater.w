@@ -1,1 +1,1 @@
-{"index": 209932, "D": "a movie, television show, etc., about the frontier days of the U.S. West; western; horse opera.", "S": ["cowboy movie ", "horse opera ", "shoot-'em-up ", "spaghetti western ", "western "], "A": []}
+{"index": 209932, "D": "a movie, television show, etc., about the frontier days of the U.S. West; western; horse opera.", "S": ["cowboy movie", "horse opera", "shoot-'em-up", "spaghetti western", "western"], "A": []}

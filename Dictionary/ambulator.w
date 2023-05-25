@@ -1,1 +1,1 @@
-{"index": 10147, "D": "to walk about or move from place to place.", "S": ["hiker "], "A": ["runner "]}
+{"index": 10147, "D": "to walk about or move from place to place.", "S": ["hiker"], "A": ["runner"]}

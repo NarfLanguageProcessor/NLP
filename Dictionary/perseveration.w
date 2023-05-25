@@ -1,1 +1,1 @@
-{"index": 231900, "D": "the act or process of perseverating. ", "S": ["litany ", "recurrence ", "reiteration ", "repeat ", "rhythm "], "A": ["original "]}
+{"index": 231900, "D": "the act or process of perseverating. ", "S": ["litany", "recurrence", "reiteration", "repeat", "rhythm"], "A": ["original"]}

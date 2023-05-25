@@ -1,1 +1,1 @@
-{"index": 66768, "D": "a person who advocates or promotes conservation,  especially of natural resources.", "S": ["environmentalist "], "A": []}
+{"index": 66768, "D": "a person who advocates or promotes conservation,  especially of natural resources.", "S": ["environmentalist"], "A": []}

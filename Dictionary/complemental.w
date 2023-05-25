@@ -1,1 +1,1 @@
-{"index": 64617, "D": "complementary; completing.", "S": ["compatible ", "completing ", "corresponding ", "supplemental "], "A": []}
+{"index": 64617, "D": "complementary; completing.", "S": ["compatible", "completing", "corresponding", "supplemental"], "A": []}

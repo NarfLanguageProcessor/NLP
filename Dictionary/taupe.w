@@ -1,1 +1,1 @@
-{"index": 317068, "D": "a moderate to dark brownish gray, sometimes slightly tinged with purple, yellow, or green.", "S": ["camel ", "cream ", "khaki ", "off-white ", "tan "], "A": []}
+{"index": 317068, "D": "a moderate to dark brownish gray, sometimes slightly tinged with purple, yellow, or green.", "S": ["camel", "cream", "khaki", "off-white", "tan"], "A": []}

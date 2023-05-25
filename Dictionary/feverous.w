@@ -1,1 +1,1 @@
-{"index": 111891, "D": "feverish. ", "S": ["blazing ", "boiling ", "heated ", "humid ", "red ", "scorching ", "sizzling ", "sultry ", "sweltering ", "torrid ", "tropical ", "warm ", "white "], "A": ["arctic ", "cold ", "cool ", "dry ", "freezing ", "frigid "]}
+{"index": 111891, "D": "feverish. ", "S": ["blazing", "boiling", "heated", "humid", "red", "scorching", "sizzling", "sultry", "sweltering", "torrid", "tropical", "warm", "white"], "A": ["arctic", "cold", "cool", "dry", "freezing", "frigid"]}

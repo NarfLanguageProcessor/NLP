@@ -1,1 +1,1 @@
-{"index": 313076, "D": "stopped or kept from carrying on normal activity", "S": ["confident ", "easygoing ", "levelheaded ", "poised ", "relaxed ", "self-assured ", "serene ", "tranquil ", "unflappable ", "unruffled "], "A": ["agitated ", "nervous ", "upset ", "worried ", "excited "]}
+{"index": 313076, "D": "stopped or kept from carrying on normal activity", "S": ["confident", "easygoing", "levelheaded", "poised", "relaxed", "self-assured", "serene", "tranquil", "unflappable", "unruffled"], "A": ["agitated", "nervous", "upset", "worried", "excited"]}

@@ -1,1 +1,1 @@
-{"index": 122726, "D": "a house  at or over a gate,  used as a gatekeeper's quarters, fortification, etc.", "S": ["chalet ", "cottage ", "country house ", "dormitory ", "dwelling ", "hostel ", "hotel ", "hut ", "inn ", "motel ", "shack ", "shelter ", "tavern "], "A": []}
+{"index": 122726, "D": "a house  at or over a gate,  used as a gatekeeper's quarters, fortification, etc.", "S": ["chalet", "cottage", "country house", "dormitory", "dwelling", "hostel", "hotel", "hut", "inn", "motel", "shack", "shelter", "tavern"], "A": []}

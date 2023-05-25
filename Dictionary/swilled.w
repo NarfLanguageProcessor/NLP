@@ -1,1 +1,1 @@
-{"index": 314420, "D": "liquid or partly liquid food for animals, especially kitchen refuse given to swine; hogwash.", "S": ["finish off ", "put away "], "A": ["hoard ", "save "]}
+{"index": 314420, "D": "liquid or partly liquid food for animals, especially kitchen refuse given to swine; hogwash.", "S": ["finish off", "put away"], "A": ["hoard", "save"]}

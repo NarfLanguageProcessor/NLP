@@ -1,1 +1,1 @@
-{"index": 294974, "D": "smocked  needlework.", "S": ["pleat "], "A": ["line "]}
+{"index": 294974, "D": "smocked  needlework.", "S": ["pleat"], "A": ["line"]}

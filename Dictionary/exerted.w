@@ -1,1 +1,1 @@
-{"index": 107072, "D": "to put forth or into use, as power; exercise, as ability or influence; put into vigorous action", "S": ["apply ", "bring to bear ", "exercise ", "expend ", "strive ", "utilize ", "wield "], "A": ["conceal ", "hide ", "idle ", "ignore ", "laze ", "relax ", "rest "]}
+{"index": 107072, "D": "to put forth or into use, as power; exercise, as ability or influence; put into vigorous action", "S": ["apply", "bring to bear", "exercise", "expend", "strive", "utilize", "wield"], "A": ["conceal", "hide", "idle", "ignore", "laze", "relax", "rest"]}

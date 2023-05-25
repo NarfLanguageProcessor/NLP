@@ -1,1 +1,1 @@
-{"index": 338366, "D": "the crops are undamaged", "S": ["intact ", "unharmed ", "unhurt ", "uninjured "], "A": ["broken ", "damaged ", "harmed ", "hurt ", "injured "]}
+{"index": 338366, "D": "the crops are undamaged", "S": ["intact", "unharmed", "unhurt", "uninjured"], "A": ["broken", "damaged", "harmed", "hurt", "injured"]}

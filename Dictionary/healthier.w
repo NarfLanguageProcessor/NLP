@@ -1,1 +1,1 @@
-{"index": 134776, "D": "possessing or enjoying good health  or a sound and vigorous mentality", "S": ["improving ", "well "], "A": ["sicker ", "smaller ", "unhealthy ", "worse "]}
+{"index": 134776, "D": "possessing or enjoying good health  or a sound and vigorous mentality", "S": ["improving", "well"], "A": ["sicker", "smaller", "unhealthy", "worse"]}

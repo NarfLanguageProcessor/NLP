@@ -1,1 +1,1 @@
-{"index": 120313, "D": "a comedian or humorist.", "S": ["card ", "clown ", "comedian ", "comic ", "farceur ", "gagster ", "humorist ", "jester ", "jokester ", "quipster ", "stand-up ", "stand-up comedian ", "stand-up comic ", "wag ", "wisecracker ", "wit "], "A": []}
+{"index": 120313, "D": "a comedian or humorist.", "S": ["card", "clown", "comedian", "comic", "farceur", "gagster", "humorist", "jester", "jokester", "quipster", "stand-up", "stand-up comedian", "stand-up comic", "wag", "wisecracker", "wit"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 295310, "D": "to make a sudden, sharp, distinct sound; crack, as a whip; crackle. ", "S": ["breeze ", "cinch ", "ease ", "picnic ", "pie ", "walkover "], "A": ["difficulty "]}
+{"index": 295310, "D": "to make a sudden, sharp, distinct sound; crack, as a whip; crackle. ", "S": ["breeze", "cinch", "ease", "picnic", "pie", "walkover"], "A": ["difficulty"]}

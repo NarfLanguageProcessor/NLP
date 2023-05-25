@@ -1,1 +1,1 @@
-{"index": 95846, "D": "serving to educate", "S": ["edifying ", "enlightening ", "illuminating ", "illuminative ", "informative ", "instructional ", "instructive ", "scholastic ", "useful "], "A": []}
+{"index": 95846, "D": "serving to educate", "S": ["edifying", "enlightening", "illuminating", "illuminative", "informative", "instructional", "instructive", "scholastic", "useful"], "A": []}

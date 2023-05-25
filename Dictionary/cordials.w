@@ -1,1 +1,1 @@
-{"index": 68928, "D": "courteous and gracious; friendly; warm", "S": ["alcoholic beverage ", "brandy "], "A": []}
+{"index": 68928, "D": "courteous and gracious; friendly; warm", "S": ["alcoholic beverage", "brandy"], "A": []}

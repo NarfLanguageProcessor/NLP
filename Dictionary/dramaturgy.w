@@ -1,1 +1,1 @@
-{"index": 92677, "D": "the craft and techniques of dramatic composition.", "S": ["comedy ", "farce ", "melodrama ", "play ", "production ", "scene ", "show ", "theater ", "tragedy "], "A": ["tragedy "]}
+{"index": 92677, "D": "the craft and techniques of dramatic composition.", "S": ["comedy", "farce", "melodrama", "play", "production", "scene", "show", "theater", "tragedy"], "A": ["tragedy"]}

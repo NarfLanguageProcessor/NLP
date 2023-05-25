@@ -1,1 +1,1 @@
-{"index": 39745, "D": "mentally weak; foolish; witless; stupid.", "S": ["absurdity ", "idiocy ", "insanity ", "lunacy ", "madness ", "nonsense ", "nuttiness ", "silliness "], "A": ["sense "]}
+{"index": 39745, "D": "mentally weak; foolish; witless; stupid.", "S": ["absurdity", "idiocy", "insanity", "lunacy", "madness", "nonsense", "nuttiness", "silliness"], "A": ["sense"]}

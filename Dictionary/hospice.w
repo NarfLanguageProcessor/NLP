@@ -1,1 +1,1 @@
-{"index": 144157, "D": "a house of shelter or rest for pilgrims, strangers, etc., especially one kept by a religious order.", "S": ["clinic ", "emergency room ", "health service ", "infirmary ", "nursing home ", "sanitarium ", "shelter ", "ward "], "A": []}
+{"index": 144157, "D": "a house of shelter or rest for pilgrims, strangers, etc., especially one kept by a religious order.", "S": ["clinic", "emergency room", "health service", "infirmary", "nursing home", "sanitarium", "shelter", "ward"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 149003, "D": "to invoke or call down (evil or curses), as upon a person.", "S": ["anathematize ", "bedamn ", "blaspheme ", "cuss ", "damn ", "execrate ", "flame "], "A": []}
+{"index": 149003, "D": "to invoke or call down (evil or curses), as upon a person.", "S": ["anathematize", "bedamn", "blaspheme", "cuss", "damn", "execrate", "flame"], "A": []}

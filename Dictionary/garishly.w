@@ -1,1 +1,1 @@
-{"index": 122173, "D": "crudely or tastelessly colorful, showy, or elaborate, as clothes or decoration.", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}
+{"index": 122173, "D": "crudely or tastelessly colorful, showy, or elaborate, as clothes or decoration.", "S": ["aloud", "emphatically", "noisily", "powerfully", "vehemently", "vociferously"], "A": ["inaudibly", "quietly", "silently"]}

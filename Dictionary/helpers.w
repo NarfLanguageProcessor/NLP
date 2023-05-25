@@ -1,1 +1,1 @@
-{"index": 135805, "D": "a person or thing that helps  or gives assistance, support, etc.", "S": ["cadre ", "crew ", "group ", "organization ", "people ", "staff ", "troop ", "work force "], "A": []}
+{"index": 135805, "D": "a person or thing that helps  or gives assistance, support, etc.", "S": ["cadre", "crew", "group", "organization", "people", "staff", "troop", "work force"], "A": []}

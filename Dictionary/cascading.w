@@ -1,1 +1,1 @@
-{"index": 48767, "D": "a waterfall descending over a steep, rocky surface.", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}
+{"index": 48767, "D": "a waterfall descending over a steep, rocky surface.", "S": ["downward"], "A": ["above", "cheerful", "cheery", "happy", "heartened", "higher"]}

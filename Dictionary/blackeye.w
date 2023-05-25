@@ -1,1 +1,1 @@
-{"index": 35475, "D": [], "S": ["bad name ", "black mark ", "blemish ", "disgrace ", "dishonor ", "lost face ", "shame ", "shiner ", "smear ", "stain ", "stigma "], "A": []}
+{"index": 35475, "D": [], "S": ["bad name", "black mark", "blemish", "disgrace", "dishonor", "lost face", "shame", "shiner", "smear", "stain", "stigma"], "A": []}

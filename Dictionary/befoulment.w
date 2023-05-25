@@ -1,1 +1,1 @@
-{"index": 30527, "D": "to make dirty or filthy; soil; defile; sully", "S": ["contamination ", "corruption ", "debasement "], "A": ["purification "]}
+{"index": 30527, "D": "to make dirty or filthy; soil; defile; sully", "S": ["contamination", "corruption", "debasement"], "A": ["purification"]}

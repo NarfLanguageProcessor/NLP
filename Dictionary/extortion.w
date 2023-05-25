@@ -1,1 +1,1 @@
-{"index": 108405, "D": "an act or instance of extorting. ", "S": ["coercion ", "fraud ", "shakedown ", "theft "], "A": ["peace "]}
+{"index": 108405, "D": "an act or instance of extorting. ", "S": ["coercion", "fraud", "shakedown", "theft"], "A": ["peace"]}

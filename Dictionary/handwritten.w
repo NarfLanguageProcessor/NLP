@@ -1,1 +1,1 @@
-{"index": 133321, "D": "written by hand; not printed or typed", "S": ["in writing ", "transcribed "], "A": []}
+{"index": 133321, "D": "written by hand; not printed or typed", "S": ["in writing", "transcribed"], "A": []}

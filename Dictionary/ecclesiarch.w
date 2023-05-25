@@ -1,1 +1,1 @@
-{"index": 95123, "D": "a sacristan, especially of a monastery.", "S": ["Holy Mother ", "abbess ", "lady superior ", "prioress ", "reverend mother ", "superior ", "superioress "], "A": []}
+{"index": 95123, "D": "a sacristan, especially of a monastery.", "S": ["Holy Mother", "abbess", "lady superior", "prioress", "reverend mother", "superior", "superioress"], "A": []}

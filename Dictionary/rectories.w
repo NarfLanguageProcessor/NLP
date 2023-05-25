@@ -1,1 +1,1 @@
-{"index": 263730, "D": "a rector's house; parsonage.", "S": ["manse ", "vicarage "], "A": []}
+{"index": 263730, "D": "a rector's house; parsonage.", "S": ["manse", "vicarage"], "A": []}

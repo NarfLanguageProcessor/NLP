@@ -1,1 +1,1 @@
-{"index": 243710, "D": "to make a likeness of by drawing, painting, carving, or the like.", "S": ["characterize ", "depict ", "describe ", "illustrate ", "interpret ", "paint ", "render "], "A": ["confuse ", "mix up ", "obscure "]}
+{"index": 243710, "D": "to make a likeness of by drawing, painting, carving, or the like.", "S": ["characterize", "depict", "describe", "illustrate", "interpret", "paint", "render"], "A": ["confuse", "mix up", "obscure"]}

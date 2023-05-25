@@ -1,1 +1,1 @@
-{"index": 327850, "D": "to convey or remove from one place, person, etc., to another", "S": ["conveyed ", "reassigned ", "relocated ", "removed ", "sent ", "shifted ", "shipped ", "transmitted ", "transplanted ", "transported "], "A": ["fixed ", "stationed "]}
+{"index": 327850, "D": "to convey or remove from one place, person, etc., to another", "S": ["conveyed", "reassigned", "relocated", "removed", "sent", "shifted", "shipped", "transmitted", "transplanted", "transported"], "A": ["fixed", "stationed"]}

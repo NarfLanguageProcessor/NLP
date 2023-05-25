@@ -1,1 +1,1 @@
-{"index": 179896, "D": [], "S": ["fable ", "fairy story ", "ghost story ", "legend ", "myth ", "tale ", "yarn "], "A": []}
+{"index": 179896, "D": [], "S": ["fable", "fairy story", "ghost story", "legend", "myth", "tale", "yarn"], "A": []}

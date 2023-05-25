@@ -1,1 +1,1 @@
-{"index": 108149, "D": [], "S": ["dehydration ", "drought "], "A": ["wetness "]}
+{"index": 108149, "D": [], "S": ["dehydration", "drought"], "A": ["wetness"]}

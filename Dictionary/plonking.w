@@ -1,1 +1,1 @@
-{"index": 240189, "D": "his plonking response to the princess's death", "S": ["plop "], "A": []}
+{"index": 240189, "D": "his plonking response to the princess's death", "S": ["plop"], "A": []}

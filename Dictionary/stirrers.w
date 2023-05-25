@@ -1,1 +1,0 @@
-{"index": 304832, "D": "a person or thing that stirs. ", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 328830, "D": "to travel or migrate slowly or with difficulty, especially to hike through rough terrain", "S": ["hike ", "migrate ", "plod ", "roam ", "slog ", "traipse ", "tramp ", "trudge "], "A": ["tiptoe "]}

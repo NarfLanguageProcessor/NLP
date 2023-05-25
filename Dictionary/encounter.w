@@ -1,1 +1,1 @@
-{"index": 99475, "D": "to come upon or meet with, especially unexpectedly", "S": ["interview ", "meeting ", "rendezvous "], "A": ["date "]}
+{"index": 99475, "D": "to come upon or meet with, especially unexpectedly", "S": ["interview", "meeting", "rendezvous"], "A": ["date"]}

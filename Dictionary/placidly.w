@@ -1,1 +1,1 @@
-{"index": 238587, "D": "in a calm or peaceful manner; tranquilly", "S": ["constantly ", "smoothly ", "steadily ", "uniformly "], "A": ["irregularly ", "roughly ", "unevenly ", "unfairly ", "unjustly "]}
+{"index": 238587, "D": "in a calm or peaceful manner; tranquilly", "S": ["constantly", "smoothly", "steadily", "uniformly"], "A": ["irregularly", "roughly", "unevenly", "unfairly", "unjustly"]}

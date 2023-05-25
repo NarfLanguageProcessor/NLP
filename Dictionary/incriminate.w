@@ -1,1 +1,1 @@
-{"index": 150482, "D": "to accuse of or present proof of a crime  or fault", "S": ["implicate ", "indict ", "prosecute "], "A": ["exonerate ", "pardon ", "exculpate ", "free ", "ignore ", "retreat "]}
+{"index": 150482, "D": "to accuse of or present proof of a crime  or fault", "S": ["implicate", "indict", "prosecute"], "A": ["exonerate", "pardon", "exculpate", "free", "ignore", "retreat"]}

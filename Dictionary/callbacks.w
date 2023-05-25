@@ -1,1 +1,1 @@
-{"index": 45263, "D": "an act of calling back.", "S": ["order back ", "return a call ", "summon ", "summon back ", "telephone "], "A": []}
+{"index": 45263, "D": "an act of calling back.", "S": ["order back", "return a call", "summon", "summon back", "telephone"], "A": []}

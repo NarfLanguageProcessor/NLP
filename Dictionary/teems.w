@@ -1,1 +1,1 @@
-{"index": 317779, "D": "to abound or swarm; be prolific or fertile (usually followed by with).", "S": ["brim ", "bustle ", "crawl ", "overflow ", "overrun ", "swarm ", "swell "], "A": ["retreat ", "fail "]}
+{"index": 317779, "D": "to abound or swarm; be prolific or fertile (usually followed by with).", "S": ["brim", "bustle", "crawl", "overflow", "overrun", "swarm", "swell"], "A": ["retreat", "fail"]}

@@ -1,1 +1,1 @@
-{"index": 351979, "D": "fixed in direction; steadily directed", "S": ["ambulatory ", "fluid ", "free ", "itinerant ", "liquid ", "locomotive ", "migrant ", "motile ", "peripatetic ", "portable ", "roving ", "wandering "], "A": ["settled ", "solid "]}
+{"index": 351979, "D": "fixed in direction; steadily directed", "S": ["ambulatory", "fluid", "free", "itinerant", "liquid", "locomotive", "migrant", "motile", "peripatetic", "portable", "roving", "wandering"], "A": ["settled", "solid"]}

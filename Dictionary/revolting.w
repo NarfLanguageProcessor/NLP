@@ -1,1 +1,1 @@
-{"index": 271487, "D": "disgusting; repulsive", "S": ["abhorrent ", "abominable ", "appalling ", "loathsome ", "repugnant ", "repulsive ", "shocking ", "vile "], "A": ["comforting ", "lovable ", "nice ", "pleasant ", "clean ", "moral ", "pleasing "]}
+{"index": 271487, "D": "disgusting; repulsive", "S": ["abhorrent", "abominable", "appalling", "loathsome", "repugnant", "repulsive", "shocking", "vile"], "A": ["comforting", "lovable", "nice", "pleasant", "clean", "moral", "pleasing"]}

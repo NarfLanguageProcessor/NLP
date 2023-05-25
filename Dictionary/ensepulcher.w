@@ -1,1 +1,1 @@
-{"index": 100987, "D": "to place in a sepulcher;  entomb.", "S": ["deposit ", "entomb ", "plant "], "A": ["dig out ", "disinter ", "exhume ", "resurrect "]}
+{"index": 100987, "D": "to place in a sepulcher;  entomb.", "S": ["deposit", "entomb", "plant"], "A": ["dig out", "disinter", "exhume", "resurrect"]}

@@ -1,1 +1,1 @@
-{"index": 148695, "D": "lack of piety; lack of reverence for God or sacred things; irreverence.", "S": ["blasphemy ", "godlessness ", "heresy ", "irreverence ", "profanity "], "A": ["reverence "]}
+{"index": 148695, "D": "lack of piety; lack of reverence for God or sacred things; irreverence.", "S": ["blasphemy", "godlessness", "heresy", "irreverence", "profanity"], "A": ["reverence"]}

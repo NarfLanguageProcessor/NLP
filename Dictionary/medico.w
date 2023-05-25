@@ -1,1 +1,1 @@
-{"index": 182108, "D": "a physician or surgeon; doctor.", "S": ["expert ", "physician ", "professor ", "scientist ", "specialist ", "surgeon "], "A": ["patient "]}
+{"index": 182108, "D": "a physician or surgeon; doctor.", "S": ["expert", "physician", "professor", "scientist", "specialist", "surgeon"], "A": ["patient"]}

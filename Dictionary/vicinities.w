@@ -1,1 +1,1 @@
-{"index": 359409, "D": "the area or region near or about a place; surrounding district; neighborhood", "S": ["environs ", "neighborhood ", "proximity "], "A": ["faraway "]}
+{"index": 359409, "D": "the area or region near or about a place; surrounding district; neighborhood", "S": ["environs", "neighborhood", "proximity"], "A": ["faraway"]}

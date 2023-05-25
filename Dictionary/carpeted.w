@@ -1,1 +1,1 @@
-{"index": 48386, "D": "a heavy fabric, commonly of wool or nylon, for covering floors.", "S": ["dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}
+{"index": 48386, "D": "a heavy fabric, commonly of wool or nylon, for covering floors.", "S": ["dotted", "overgrown"], "A": ["bare", "empty", "exposed", "open", "passed over", "revealed", "unfurnished", "unheeded", "unnoticed"]}

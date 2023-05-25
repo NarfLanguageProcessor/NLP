@@ -1,1 +1,1 @@
-{"index": 326372, "D": "pertaining to, involving, or causing torture  or suffering.", "S": ["agonizing ", "distressing ", "excruciating ", "harrowing ", "trying "], "A": ["pleasant ", "pleasing "]}
+{"index": 326372, "D": "pertaining to, involving, or causing torture  or suffering.", "S": ["agonizing", "distressing", "excruciating", "harrowing", "trying"], "A": ["pleasant", "pleasing"]}

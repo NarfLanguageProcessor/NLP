@@ -1,1 +1,1 @@
-{"index": 76989, "D": "damnation;  hell", "S": ["dang ", "doggone "], "A": []}
+{"index": 76989, "D": "damnation;  hell", "S": ["dang", "doggone"], "A": []}

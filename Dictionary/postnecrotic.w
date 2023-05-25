@@ -1,1 +1,0 @@
-{"index": 244335, "D": "(of animal or plant tissue) dead or dying", "S": [], "A": []}

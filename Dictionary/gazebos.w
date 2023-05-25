@@ -1,1 +1,1 @@
-{"index": 122971, "D": "a structure, as an open or latticework pavilion or summerhouse, built on a site that provides an attractive view.", "S": ["arbor "], "A": []}
+{"index": 122971, "D": "a structure, as an open or latticework pavilion or summerhouse, built on a site that provides an attractive view.", "S": ["arbor"], "A": []}

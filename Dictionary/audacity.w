@@ -1,1 +1,1 @@
-{"index": 23266, "D": "boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.", "S": ["boldness ", "courage ", "guts "], "A": ["cowardice ", "fear ", "timidity "]}
+{"index": 23266, "D": "boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.", "S": ["boldness", "courage", "guts"], "A": ["cowardice", "fear", "timidity"]}

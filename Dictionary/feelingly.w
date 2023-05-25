@@ -1,1 +1,1 @@
-{"index": 110895, "D": "the function or the power of perceiving by touch.", "S": ["acutely ", "genuinely ", "intensely ", "passionately ", "profoundly ", "sadly ", "seriously ", "severely ", "surely ", "thoroughly "], "A": ["lightly "]}
+{"index": 110895, "D": "the function or the power of perceiving by touch.", "S": ["acutely", "genuinely", "intensely", "passionately", "profoundly", "sadly", "seriously", "severely", "surely", "thoroughly"], "A": ["lightly"]}

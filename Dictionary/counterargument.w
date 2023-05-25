@@ -1,1 +1,1 @@
-{"index": 70648, "D": "a contrasting, opposing, or refuting argument. ", "S": ["rejoinder ", "reply "], "A": []}
+{"index": 70648, "D": "a contrasting, opposing, or refuting argument. ", "S": ["rejoinder", "reply"], "A": []}

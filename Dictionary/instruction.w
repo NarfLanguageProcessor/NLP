@@ -1,1 +1,1 @@
-{"index": 153975, "D": "the act or practice of instructing  or teaching; education.", "S": ["direction ", "discipline ", "guidance ", "information ", "lesson ", "preparation ", "schooling ", "teaching ", "training "], "A": ["question "]}
+{"index": 153975, "D": "the act or practice of instructing  or teaching; education.", "S": ["direction", "discipline", "guidance", "information", "lesson", "preparation", "schooling", "teaching", "training"], "A": ["question"]}

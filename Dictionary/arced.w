@@ -1,1 +1,1 @@
-{"index": 18647, "D": "any unbroken part of the circumference of a circle or other curved line.", "S": ["arched ", "arching ", "bending ", "bowed ", "curved ", "rounded ", "vaulted "], "A": ["straight "]}
+{"index": 18647, "D": "any unbroken part of the circumference of a circle or other curved line.", "S": ["arched", "arching", "bending", "bowed", "curved", "rounded", "vaulted"], "A": ["straight"]}

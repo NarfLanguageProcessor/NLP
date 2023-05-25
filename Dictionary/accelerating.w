@@ -1,1 +1,1 @@
-{"index": 1433, "D": "to cause faster or greater activity, development, progress, advancement, etc., in", "S": ["deepening ", "escalating ", "growing ", "intensifying "], "A": []}
+{"index": 1433, "D": "to cause faster or greater activity, development, progress, advancement, etc., in", "S": ["deepening", "escalating", "growing", "intensifying"], "A": []}

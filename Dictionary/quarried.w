@@ -1,1 +1,1 @@
-{"index": 258014, "D": "an excavation or pit, usually open to the air, from which building stone, slate, or the like, is obtained by cutting, blasting, etc.", "S": ["drill ", "excavate ", "extract ", "shovel ", "unearth "], "A": ["bury "]}
+{"index": 258014, "D": "an excavation or pit, usually open to the air, from which building stone, slate, or the like, is obtained by cutting, blasting, etc.", "S": ["drill", "excavate", "extract", "shovel", "unearth"], "A": ["bury"]}

@@ -1,1 +1,1 @@
-{"index": 177600, "D": "making a splendid appearance or show; of exceptional beauty, size, etc.", "S": ["beautifully ", "gorgeously ", "splendidly ", "superbly ", "wonderfully "], "A": []}
+{"index": 177600, "D": "making a splendid appearance or show; of exceptional beauty, size, etc.", "S": ["beautifully", "gorgeously", "splendidly", "superbly", "wonderfully"], "A": []}

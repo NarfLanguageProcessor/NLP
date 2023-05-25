@@ -1,1 +1,1 @@
-{"index": 200076, "D": "stockings made of nylon or other man-made material", "S": ["hose ", "hosiery ", "tights "], "A": []}
+{"index": 200076, "D": "stockings made of nylon or other man-made material", "S": ["hose", "hosiery", "tights"], "A": []}

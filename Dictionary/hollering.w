@@ -1,1 +1,1 @@
-{"index": 142490, "D": "to cry aloud; shout; yell", "S": ["bawling ", "booing ", "cheering ", "jeering ", "yelling "], "A": []}
+{"index": 142490, "D": "to cry aloud; shout; yell", "S": ["bawling", "booing", "cheering", "jeering", "yelling"], "A": []}

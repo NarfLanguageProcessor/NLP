@@ -1,1 +1,1 @@
-{"index": 1874, "D": [], "S": ["accusatory ", "accusing ", "denunciatory "], "A": []}
+{"index": 1874, "D": [], "S": ["accusatory", "accusing", "denunciatory"], "A": []}

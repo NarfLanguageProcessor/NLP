@@ -1,1 +1,1 @@
-{"index": 141982, "D": "Nazi dictator of Germany, born in Austria", "S": ["despot ", "fascist ", "tyrant "], "A": []}
+{"index": 141982, "D": "Nazi dictator of Germany, born in Austria", "S": ["despot", "fascist", "tyrant"], "A": []}

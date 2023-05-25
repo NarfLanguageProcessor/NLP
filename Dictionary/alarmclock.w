@@ -1,1 +1,1 @@
-{"index": 7334, "D": [], "S": ["clock radio "], "A": []}
+{"index": 7334, "D": [], "S": ["clock radio"], "A": []}

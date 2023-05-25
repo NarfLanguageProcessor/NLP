@@ -1,1 +1,1 @@
-{"index": 67455, "D": "contact or tangency.", "S": ["accident ", "emergency ", "eventuality ", "likelihood ", "possibility ", "predicament "], "A": ["unlikelihood "]}
+{"index": 67455, "D": "contact or tangency.", "S": ["accident", "emergency", "eventuality", "likelihood", "possibility", "predicament"], "A": ["unlikelihood"]}

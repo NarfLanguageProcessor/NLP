@@ -1,1 +1,1 @@
-{"index": 133887, "D": "Compare yoke1 (def. 1). ", "S": ["belt ", "strap "], "A": []}
+{"index": 133887, "D": "Compare yoke1 (def. 1). ", "S": ["belt", "strap"], "A": []}

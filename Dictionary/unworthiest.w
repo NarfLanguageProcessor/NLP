@@ -1,1 +1,1 @@
-{"index": 354383, "D": "not worthy;  lacking worth or excellence.", "S": ["inappropriate ", "ineligible ", "shameful ", "undeserving ", "unfit ", "unsuitable "], "A": ["appropriate ", "proper ", "qualified ", "suitable "]}
+{"index": 354383, "D": "not worthy;  lacking worth or excellence.", "S": ["inappropriate", "ineligible", "shameful", "undeserving", "unfit", "unsuitable"], "A": ["appropriate", "proper", "qualified", "suitable"]}

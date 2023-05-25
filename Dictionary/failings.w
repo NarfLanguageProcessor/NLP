@@ -1,1 +1,1 @@
-{"index": 109256, "D": "an act or instance of failing; failure", "S": ["defect ", "deficiency ", "drawback ", "error ", "failure ", "fault ", "flaw ", "foible ", "frailty ", "imperfection ", "weakness "], "A": ["advantage ", "benefit ", "perfection ", "strength "]}
+{"index": 109256, "D": "an act or instance of failing; failure", "S": ["defect", "deficiency", "drawback", "error", "failure", "fault", "flaw", "foible", "frailty", "imperfection", "weakness"], "A": ["advantage", "benefit", "perfection", "strength"]}

@@ -1,1 +1,1 @@
-{"index": 366707, "D": "to see, hear, or know by personal presence and perception", "S": ["endorsed ", "supported "], "A": []}
+{"index": 366707, "D": "to see, hear, or know by personal presence and perception", "S": ["endorsed", "supported"], "A": []}

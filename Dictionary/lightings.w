@@ -1,1 +1,1 @@
-{"index": 172048, "D": "the act of igniting or illuminating", "S": ["brightness ", "brilliance ", "flame ", "light "], "A": ["darkness "]}
+{"index": 172048, "D": "the act of igniting or illuminating", "S": ["brightness", "brilliance", "flame", "light"], "A": ["darkness"]}

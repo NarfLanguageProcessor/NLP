@@ -1,1 +1,1 @@
-{"index": 277970, "D": "the development and application of sanitary  measures for the sake of cleanliness, protecting health, etc.", "S": ["cleanliness ", "hygiene "], "A": ["dirtiness ", "filth "]}
+{"index": 277970, "D": "the development and application of sanitary  measures for the sake of cleanliness, protecting health, etc.", "S": ["cleanliness", "hygiene"], "A": ["dirtiness", "filth"]}

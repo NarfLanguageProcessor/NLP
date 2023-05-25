@@ -1,1 +1,1 @@
-{"index": 61481, "D": [], "S": ["elevated ", "firm ", "perpendicular ", "raised ", "standing ", "upright ", "vertical "], "A": ["lowered ", "prone "]}
+{"index": 61481, "D": [], "S": ["elevated", "firm", "perpendicular", "raised", "standing", "upright", "vertical"], "A": ["lowered", "prone"]}

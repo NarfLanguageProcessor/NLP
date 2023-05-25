@@ -1,1 +1,1 @@
-{"index": 233108, "D": "pharmacy (def. 1). ", "S": ["cure ", "medicine ", "narcotic ", "pharmaceutical ", "pill ", "poison ", "prescription ", "remedy ", "stimulant "], "A": ["disease "]}
+{"index": 233108, "D": "pharmacy (def. 1). ", "S": ["cure", "medicine", "narcotic", "pharmaceutical", "pill", "poison", "prescription", "remedy", "stimulant"], "A": ["disease"]}

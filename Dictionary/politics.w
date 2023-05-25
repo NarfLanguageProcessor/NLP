@@ -1,1 +1,1 @@
-{"index": 242571, "D": "the science or art of political  government.", "S": ["campaigning ", "government "], "A": []}
+{"index": 242571, "D": "the science or art of political  government.", "S": ["campaigning", "government"], "A": []}

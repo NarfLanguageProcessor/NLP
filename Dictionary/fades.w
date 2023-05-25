@@ -1,1 +1,1 @@
-{"index": 109146, "D": "to lose brightness or vividness of color.", "S": ["dim ", "disappear ", "dissolve ", "dull ", "evaporate ", "vanish "], "A": ["brighten ", "darken "]}
+{"index": 109146, "D": "to lose brightness or vividness of color.", "S": ["dim", "disappear", "dissolve", "dull", "evaporate", "vanish"], "A": ["brighten", "darken"]}

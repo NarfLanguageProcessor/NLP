@@ -1,1 +1,1 @@
-{"index": 91251, "D": "a polygonal vault, ceiling, or roof.", "S": ["arcade ", "arch ", "bubble ", "bulge ", "covering ", "cupola ", "mosque ", "roof ", "span ", "top ", "vault "], "A": []}
+{"index": 91251, "D": "a polygonal vault, ceiling, or roof.", "S": ["arcade", "arch", "bubble", "bulge", "covering", "cupola", "mosque", "roof", "span", "top", "vault"], "A": []}

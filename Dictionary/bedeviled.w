@@ -1,0 +1,1 @@
+{"index": 30044, "D": "to torment or harass maliciously or diabolically, as with doubts, distractions, or worries.", "S": ["condemned", "damned", "doomed", "hexed"], "A": []}

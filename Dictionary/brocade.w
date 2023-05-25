@@ -1,1 +1,1 @@
-{"index": 41105, "D": "fabric woven with an elaborate design, especially one having a raised overall pattern.", "S": ["decoration ", "lace ", "needlepoint ", "quilting ", "tapestry "], "A": []}
+{"index": 41105, "D": "fabric woven with an elaborate design, especially one having a raised overall pattern.", "S": ["decoration", "lace", "needlepoint", "quilting", "tapestry"], "A": []}

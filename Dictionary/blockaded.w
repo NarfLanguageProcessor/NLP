@@ -1,1 +1,1 @@
-{"index": 36351, "D": "the isolating, closing off, or surrounding of a place, as a port, harbor, or city, by hostile ships or troops to prevent entrance or exit.", "S": ["impenetrable ", "insurmountable "], "A": ["open ", "passable ", "traveled "]}
+{"index": 36351, "D": "the isolating, closing off, or surrounding of a place, as a port, harbor, or city, by hostile ships or troops to prevent entrance or exit.", "S": ["impenetrable", "insurmountable"], "A": ["open", "passable", "traveled"]}

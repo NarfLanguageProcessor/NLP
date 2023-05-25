@@ -1,1 +1,1 @@
-{"index": 11675, "D": "a word, phrase, or sentence formed from another by rearranging its letters", "S": ["cipher ", "game ", "logograph "], "A": []}
+{"index": 11675, "D": "a word, phrase, or sentence formed from another by rearranging its letters", "S": ["cipher", "game", "logograph"], "A": []}

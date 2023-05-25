@@ -1,1 +1,1 @@
-{"index": 62383, "D": "the act or state of cohering,  uniting, or sticking together.", "S": ["coherence "], "A": []}
+{"index": 62383, "D": "the act or state of cohering,  uniting, or sticking together.", "S": ["coherence"], "A": []}

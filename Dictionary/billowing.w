@@ -1,0 +1,1 @@
+{"index": 34049, "D": "a great wave or surge of the sea.", "S": ["floppy", "oversize", "roomy"], "A": ["firm", "fitting", "tight"]}

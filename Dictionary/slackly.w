@@ -1,1 +1,1 @@
-{"index": 293558, "D": "not tight, taut, firm, or tense; a slack rope.", "S": ["idly ", "leisurely ", "nonchalantly ", "slowly "], "A": []}
+{"index": 293558, "D": "not tight, taut, firm, or tense; a slack rope.", "S": ["idly", "leisurely", "nonchalantly", "slowly"], "A": []}

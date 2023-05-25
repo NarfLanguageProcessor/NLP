@@ -1,1 +1,1 @@
-{"index": 269103, "D": "diligent and systematic inquiry or investigation into a subject in order to discover or revise facts, theories, applications, etc.", "S": ["analyst ", "investigator ", "scientist "], "A": []}
+{"index": 269103, "D": "diligent and systematic inquiry or investigation into a subject in order to discover or revise facts, theories, applications, etc.", "S": ["analyst", "investigator", "scientist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 244213, "D": "a person who rides the left horse of the leading or only pair of horses drawing a carriage.", "S": ["broncobuster ", "buckaroo ", "cavalryman ", "cowboy ", "dragoon ", "equerry ", "equestrian ", "gaucho ", "jockey ", "pricker ", "roughrider "], "A": []}
+{"index": 244213, "D": "a person who rides the left horse of the leading or only pair of horses drawing a carriage.", "S": ["broncobuster", "buckaroo", "cavalryman", "cowboy", "dragoon", "equerry", "equestrian", "gaucho", "jockey", "pricker", "roughrider"], "A": []}

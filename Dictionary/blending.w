@@ -1,0 +1,1 @@
+{"index": 36038, "D": "to mix smoothly and inseparably together", "S": ["agnate", "correspondent", "like", "parallel", "uniform"], "A": ["different", "dissimilar", "divergent", "unlike"]}

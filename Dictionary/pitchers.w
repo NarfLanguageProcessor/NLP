@@ -1,1 +1,1 @@
-{"index": 238236, "D": "a container, usually with a handle and spout or lip, for holding and pouring liquids.", "S": ["amphora ", "bottle ", "canteen ", "carafe ", "container ", "crock ", "cruet ", "decanter ", "ewer ", "flagon ", "flask ", "jar ", "vase ", "vessel "], "A": []}
+{"index": 238236, "D": "a container, usually with a handle and spout or lip, for holding and pouring liquids.", "S": ["amphora", "bottle", "canteen", "carafe", "container", "crock", "cruet", "decanter", "ewer", "flagon", "flask", "jar", "vase", "vessel"], "A": []}

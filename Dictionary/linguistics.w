@@ -1,1 +1,1 @@
-{"index": 172890, "D": "the science of language, including phonetics, phonology, morphology, syntax, semantics, pragmatics, and historical linguistics. ", "S": ["alphabet ", "syntax "], "A": []}
+{"index": 172890, "D": "the science of language, including phonetics, phonology, morphology, syntax, semantics, pragmatics, and historical linguistics. ", "S": ["alphabet", "syntax"], "A": []}

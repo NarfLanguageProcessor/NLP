@@ -1,1 +1,1 @@
-{"index": 162603, "D": "of, pertaining to, characteristic of, or suitable or intended for young persons", "S": ["youthful "], "A": ["experienced ", "mature ", "old ", "older ", "shrinking ", "withering "]}
+{"index": 162603, "D": "of, pertaining to, characteristic of, or suitable or intended for young persons", "S": ["youthful"], "A": ["experienced", "mature", "old", "older", "shrinking", "withering"]}

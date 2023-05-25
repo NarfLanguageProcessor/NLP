@@ -1,1 +1,1 @@
-{"index": 108194, "D": "extemporaneous; extempore. ", "S": ["impromptu ", "spontaneous "], "A": ["calculated ", "careful ", "considered ", "deliberate ", "planned ", "practiced "]}
+{"index": 108194, "D": "extemporaneous; extempore. ", "S": ["impromptu", "spontaneous"], "A": ["calculated", "careful", "considered", "deliberate", "planned", "practiced"]}

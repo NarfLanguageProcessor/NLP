@@ -1,1 +1,1 @@
-{"index": 243116, "D": "one of a breed of notably intelligent dogs, having thick frizzy or curly hair usually trimmed in standard patterns, and occurring in three varieties (standard poodle, miniature poodle,  and toy poodle) that differ in size", "S": ["beagle "], "A": []}
+{"index": 243116, "D": "one of a breed of notably intelligent dogs, having thick frizzy or curly hair usually trimmed in standard patterns, and occurring in three varieties (standard poodle, miniature poodle,  and toy poodle) that differ in size", "S": ["beagle"], "A": []}

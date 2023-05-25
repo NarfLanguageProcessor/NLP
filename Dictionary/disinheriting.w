@@ -1,1 +1,1 @@
-{"index": 88440, "D": "to exclude from inheritance (an heir or a next of kin).", "S": ["bereave ", "deprive ", "disown ", "dispossess ", "divest ", "evict ", "exclude ", "neglect ", "oust ", "repudiate ", "rob "], "A": ["accept ", "admit ", "allow ", "give ", "include ", "offer ", "welcome "]}
+{"index": 88440, "D": "to exclude from inheritance (an heir or a next of kin).", "S": ["bereave", "deprive", "disown", "dispossess", "divest", "evict", "exclude", "neglect", "oust", "repudiate", "rob"], "A": ["accept", "admit", "allow", "give", "include", "offer", "welcome"]}

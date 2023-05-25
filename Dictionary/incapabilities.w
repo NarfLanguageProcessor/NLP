@@ -1,1 +1,1 @@
-{"index": 149668, "D": "not capable. ", "S": ["feebleness ", "helplessness ", "impotence ", "inadequacy ", "ineffectiveness ", "ineffectualness ", "inefficacy ", "infirmity ", "powerlessness ", "uselessness ", "weakness "], "A": ["ability ", "soundness ", "strength "]}
+{"index": 149668, "D": "not capable. ", "S": ["feebleness", "helplessness", "impotence", "inadequacy", "ineffectiveness", "ineffectualness", "inefficacy", "infirmity", "powerlessness", "uselessness", "weakness"], "A": ["ability", "soundness", "strength"]}

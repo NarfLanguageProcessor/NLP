@@ -1,1 +1,1 @@
-{"index": 218379, "D": "lack of hesitation or fear in the face of risk or danger; courage", "S": ["bravado ", "valor "], "A": ["cowardice ", "meekness ", "timidity "]}
+{"index": 218379, "D": "lack of hesitation or fear in the face of risk or danger; courage", "S": ["bravado", "valor"], "A": ["cowardice", "meekness", "timidity"]}

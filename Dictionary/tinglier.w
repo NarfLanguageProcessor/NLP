@@ -1,1 +1,1 @@
-{"index": 323996, "D": "tingling  or causing a tingling  sensation.", "S": ["excited ", "stimulated ", "tingling "], "A": []}
+{"index": 323996, "D": "tingling  or causing a tingling  sensation.", "S": ["excited", "stimulated", "tingling"], "A": []}

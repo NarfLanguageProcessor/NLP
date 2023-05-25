@@ -1,1 +1,1 @@
-{"index": 153026, "D": "farthest inward; inmost.", "S": ["deepest ", "intimate ", "personal ", "private "], "A": []}
+{"index": 153026, "D": "farthest inward; inmost.", "S": ["deepest", "intimate", "personal", "private"], "A": []}

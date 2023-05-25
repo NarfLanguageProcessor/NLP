@@ -1,1 +1,1 @@
-{"index": 109700, "D": "a flourish or short air played on trumpets or the like.", "S": ["pomp "], "A": ["concealment ", "hiding "]}
+{"index": 109700, "D": "a flourish or short air played on trumpets or the like.", "S": ["pomp"], "A": ["concealment", "hiding"]}

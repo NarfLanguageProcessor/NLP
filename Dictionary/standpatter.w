@@ -1,1 +1,1 @@
-{"index": 302701, "D": "a person who refuses to consider or accept change.", "S": ["fanatic ", "fundamentalist ", "zealot "], "A": []}
+{"index": 302701, "D": "a person who refuses to consider or accept change.", "S": ["fanatic", "fundamentalist", "zealot"], "A": []}

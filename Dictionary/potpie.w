@@ -1,1 +1,1 @@
-{"index": 244776, "D": "a deep-dish pie  containing meat, chicken, or the like, often combined with vegetables and topped with a pastry crust.", "S": ["goulash ", "hash ", "pottage ", "stew "], "A": []}
+{"index": 244776, "D": "a deep-dish pie  containing meat, chicken, or the like, often combined with vegetables and topped with a pastry crust.", "S": ["goulash", "hash", "pottage", "stew"], "A": []}

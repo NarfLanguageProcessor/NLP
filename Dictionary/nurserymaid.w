@@ -1,1 +1,1 @@
-{"index": 209722, "D": "a woman or girl employed to care for a child or several children, especially in a household.", "S": ["ayah ", "baby-sitter ", "governess "], "A": []}
+{"index": 209722, "D": "a woman or girl employed to care for a child or several children, especially in a household.", "S": ["ayah", "baby-sitter", "governess"], "A": []}

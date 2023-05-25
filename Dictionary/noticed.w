@@ -1,1 +1,1 @@
-{"index": 208925, "D": "an announcement or intimation of something impending; warning", "S": ["recorded "], "A": []}
+{"index": 208925, "D": "an announcement or intimation of something impending; warning", "S": ["recorded"], "A": []}

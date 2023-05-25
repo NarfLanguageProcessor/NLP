@@ -1,1 +1,1 @@
-{"index": 64671, "D": "the natural color, texture, and appearance of the skin, especially of the face", "S": ["coloring ", "hue ", "skin ", "texture ", "tinge ", "tint "], "A": ["white "]}
+{"index": 64671, "D": "the natural color, texture, and appearance of the skin, especially of the face", "S": ["coloring", "hue", "skin", "texture", "tinge", "tint"], "A": ["white"]}

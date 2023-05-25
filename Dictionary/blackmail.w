@@ -1,1 +1,1 @@
-{"index": 35545, "D": "any payment extorted by intimidation, as by threats of injurious revelations or accusations.", "S": ["bribe ", "bribery ", "extortion "], "A": []}
+{"index": 35545, "D": "any payment extorted by intimidation, as by threats of injurious revelations or accusations.", "S": ["bribe", "bribery", "extortion"], "A": []}

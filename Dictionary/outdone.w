@@ -1,1 +1,1 @@
-{"index": 216484, "D": "to surpass in execution or performance", "S": ["beaten ", "bettered ", "defeated "], "A": []}
+{"index": 216484, "D": "to surpass in execution or performance", "S": ["beaten", "bettered", "defeated"], "A": []}

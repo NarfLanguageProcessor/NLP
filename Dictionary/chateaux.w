@@ -1,1 +1,1 @@
-{"index": 53090, "D": "(in France) a castle or fortress.", "S": ["acropolis ", "alcazar ", "citadel ", "donjon ", "fastness ", "fort ", "fortification ", "fortress ", "hold ", "keep ", "manor ", "mansion ", "palace ", "peel ", "safehold ", "seat ", "stronghold ", "tower ", "villa "], "A": []}
+{"index": 53090, "D": "(in France) a castle or fortress.", "S": ["acropolis", "alcazar", "citadel", "donjon", "fastness", "fort", "fortification", "fortress", "hold", "keep", "manor", "mansion", "palace", "peel", "safehold", "seat", "stronghold", "tower", "villa"], "A": []}

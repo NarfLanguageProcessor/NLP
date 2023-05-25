@@ -1,1 +1,1 @@
-{"index": 82942, "D": "something that is to happen or has happened to a particular person or thing; lot or fortune.", "S": ["circumstance ", "future ", "inevitability ", "intention ", "objective ", "prospect "], "A": ["concept ", "continuity ", "misfortune ", "theory ", "whole "]}
+{"index": 82942, "D": "something that is to happen or has happened to a particular person or thing; lot or fortune.", "S": ["circumstance", "future", "inevitability", "intention", "objective", "prospect"], "A": ["concept", "continuity", "misfortune", "theory", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 144534, "D": "to hang fluttering or suspended in the air", "S": ["soaring "], "A": ["submerged ", "sunk "]}
+{"index": 144534, "D": "to hang fluttering or suspended in the air", "S": ["soaring"], "A": ["submerged", "sunk"]}

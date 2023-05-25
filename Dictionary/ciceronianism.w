@@ -1,1 +1,1 @@
-{"index": 57039, "D": "imitation of the style of Cicero, especially as practiced by some writers and orators during the Renaissance.", "S": ["grandeur "], "A": ["bad manners ", "crudeness ", "disproportion ", "imbalance ", "unevenness "]}
+{"index": 57039, "D": "imitation of the style of Cicero, especially as practiced by some writers and orators during the Renaissance.", "S": ["grandeur"], "A": ["bad manners", "crudeness", "disproportion", "imbalance", "unevenness"]}

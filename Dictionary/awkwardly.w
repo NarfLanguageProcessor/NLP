@@ -1,1 +1,1 @@
-{"index": 25036, "D": "lacking skill or dexterity.", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}
+{"index": 25036, "D": "lacking skill or dexterity.", "S": ["clumsily", "stiffly"], "A": ["adroitly", "gracefully", "skillfully"]}

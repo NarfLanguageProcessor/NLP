@@ -1,1 +1,1 @@
-{"index": 327895, "D": "a person or thing that transforms. ", "S": ["appliance ", "diesel ", "generator ", "instrument ", "motor ", "power plant ", "tool ", "turbine ", "weapon "], "A": []}
+{"index": 327895, "D": "a person or thing that transforms. ", "S": ["appliance", "diesel", "generator", "instrument", "motor", "power plant", "tool", "turbine", "weapon"], "A": []}

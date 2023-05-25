@@ -1,1 +1,1 @@
-{"index": 330989, "D": "a prehistoric cave dweller.", "S": ["hermit "], "A": ["extrovert "]}
+{"index": 330989, "D": "a prehistoric cave dweller.", "S": ["hermit"], "A": ["extrovert"]}

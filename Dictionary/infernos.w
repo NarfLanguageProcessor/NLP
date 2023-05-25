@@ -1,1 +1,1 @@
-{"index": 151937, "D": "hell; the infernal  regions.", "S": ["purgatory "], "A": []}
+{"index": 151937, "D": "hell; the infernal  regions.", "S": ["purgatory"], "A": []}

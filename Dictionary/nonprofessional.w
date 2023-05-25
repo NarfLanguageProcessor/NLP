@@ -1,1 +1,1 @@
-{"index": 206213, "D": "not a member of or trained in a specific profession.", "S": ["amateur ", "dilettantish ", "lay "], "A": ["professional "]}
+{"index": 206213, "D": "not a member of or trained in a specific profession.", "S": ["amateur", "dilettantish", "lay"], "A": ["professional"]}

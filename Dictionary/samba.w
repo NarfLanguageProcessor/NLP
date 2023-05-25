@@ -1,1 +1,1 @@
-{"index": 277485, "D": "a rhythmic, Brazilian ballroom dance of African origin.", "S": ["disco ", "tango ", "waltz "], "A": []}
+{"index": 277485, "D": "a rhythmic, Brazilian ballroom dance of African origin.", "S": ["disco", "tango", "waltz"], "A": []}

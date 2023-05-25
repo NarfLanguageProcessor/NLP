@@ -1,1 +1,1 @@
-{"index": 40703, "D": "part of the tack or harness of a horse, consisting usually of a headstall, bit, and reins.", "S": ["abstinent ", "ascetic ", "celibate "], "A": ["impure ", "incontinent ", "unchaste "]}
+{"index": 40703, "D": "part of the tack or harness of a horse, consisting usually of a headstall, bit, and reins.", "S": ["abstinent", "ascetic", "celibate"], "A": ["impure", "incontinent", "unchaste"]}

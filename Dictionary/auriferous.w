@@ -1,1 +1,1 @@
-{"index": 23582, "D": "yielding or containing gold.", "S": ["gilt ", "halcyon "], "A": []}
+{"index": 23582, "D": "yielding or containing gold.", "S": ["gilt", "halcyon"], "A": []}

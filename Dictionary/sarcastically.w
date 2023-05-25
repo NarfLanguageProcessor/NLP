@@ -1,1 +1,1 @@
-{"index": 278305, "D": "of, relating to, or characterized by sarcasm", "S": ["acerbically ", "acrimoniously ", "bitingly ", "caustically ", "maliciously ", "sneeringly "], "A": []}
+{"index": 278305, "D": "of, relating to, or characterized by sarcasm", "S": ["acerbically", "acrimoniously", "bitingly", "caustically", "maliciously", "sneeringly"], "A": []}

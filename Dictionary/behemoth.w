@@ -1,1 +1,1 @@
-{"index": 30807, "D": "an animal, perhaps the hippopotamus, mentioned in Job 40", "S": ["beast ", "leviathan ", "monster "], "A": []}
+{"index": 30807, "D": "an animal, perhaps the hippopotamus, mentioned in Job 40", "S": ["beast", "leviathan", "monster"], "A": []}

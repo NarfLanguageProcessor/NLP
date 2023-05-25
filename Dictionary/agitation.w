@@ -1,1 +1,1 @@
-{"index": 6220, "D": "the act or process of agitating;  state of being agitated", "S": ["disturbance ", "turbulence ", "turmoil ", "unrest ", "upheaval "], "A": ["calm ", "harmony ", "order ", "peace ", "tranquility "]}
+{"index": 6220, "D": "the act or process of agitating;  state of being agitated", "S": ["disturbance", "turbulence", "turmoil", "unrest", "upheaval"], "A": ["calm", "harmony", "order", "peace", "tranquility"]}

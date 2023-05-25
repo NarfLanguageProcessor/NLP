@@ -1,1 +1,1 @@
-{"index": 294645, "D": "a person, especially a woman, who is sexually promiscuous. ", "S": ["tramp ", "whore "], "A": []}
+{"index": 294645, "D": "a person, especially a woman, who is sexually promiscuous. ", "S": ["tramp", "whore"], "A": []}

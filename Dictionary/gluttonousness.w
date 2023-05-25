@@ -1,1 +1,1 @@
-{"index": 127001, "D": "tending to eat and drink excessively; voracious.", "S": ["gluttony ", "overeating ", "overindulgence ", "voraciousness ", "voracity "], "A": []}
+{"index": 127001, "D": "tending to eat and drink excessively; voracious.", "S": ["gluttony", "overeating", "overindulgence", "voraciousness", "voracity"], "A": []}

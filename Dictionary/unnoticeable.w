@@ -1,1 +1,1 @@
-{"index": 346949, "D": "not easily seen or detected; imperceptible", "S": ["unobtrusive "], "A": []}
+{"index": 346949, "D": "not easily seen or detected; imperceptible", "S": ["unobtrusive"], "A": []}

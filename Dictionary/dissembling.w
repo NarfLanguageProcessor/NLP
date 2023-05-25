@@ -1,1 +1,1 @@
-{"index": 89450, "D": "to give a false or misleading appearance to; conceal the truth or real nature of", "S": ["ambiguous ", "cagey ", "deceptive ", "false ", "misleading ", "unclear ", "vague "], "A": ["clear ", "definite ", "honest ", "truthful "]}
+{"index": 89450, "D": "to give a false or misleading appearance to; conceal the truth or real nature of", "S": ["ambiguous", "cagey", "deceptive", "false", "misleading", "unclear", "vague"], "A": ["clear", "definite", "honest", "truthful"]}

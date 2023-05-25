@@ -1,1 +1,1 @@
-{"index": 340515, "D": "with undisguised glee", "S": ["barefaced ", "blatant ", "bold ", "brash ", "brazen ", "brazenfaced ", "impudent ", "open ", "transparent ", "unabashed ", "unconcealed "], "A": []}
+{"index": 340515, "D": "with undisguised glee", "S": ["barefaced", "blatant", "bold", "brash", "brazen", "brazenfaced", "impudent", "open", "transparent", "unabashed", "unconcealed"], "A": []}

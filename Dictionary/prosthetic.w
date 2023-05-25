@@ -1,1 +1,1 @@
-{"index": 253273, "D": "of or relating to an artificial body part or prosthesis", "S": ["breast implant ", "cosmetic surgery ", "liposuction "], "A": []}
+{"index": 253273, "D": "of or relating to an artificial body part or prosthesis", "S": ["breast implant", "cosmetic surgery", "liposuction"], "A": []}

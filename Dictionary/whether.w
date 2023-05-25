@@ -1,1 +1,1 @@
-{"index": 364707, "D": "(used to introduce the first of two or more alternatives, and sometimes repeated before the second or later alternative, usually with the correlative or)", "S": ["even if ", "if ", "in case "], "A": []}
+{"index": 364707, "D": "(used to introduce the first of two or more alternatives, and sometimes repeated before the second or later alternative, usually with the correlative or)", "S": ["even if", "if", "in case"], "A": []}

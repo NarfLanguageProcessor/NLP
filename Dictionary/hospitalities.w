@@ -1,1 +1,1 @@
-{"index": 144169, "D": "the friendly reception and treatment of guests or strangers.", "S": ["accommodation ", "companionship ", "friendliness ", "generosity ", "reception ", "warmth "], "A": ["aloofness ", "coolness ", "unhappiness "]}
+{"index": 144169, "D": "the friendly reception and treatment of guests or strangers.", "S": ["accommodation", "companionship", "friendliness", "generosity", "reception", "warmth"], "A": ["aloofness", "coolness", "unhappiness"]}

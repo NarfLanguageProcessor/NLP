@@ -1,1 +1,1 @@
-{"index": 23885, "D": "a history of a person's life written or told by that person.", "S": ["biography ", "confession ", "diary ", "journal ", "letter ", "life story ", "memoir "], "A": []}
+{"index": 23885, "D": "a history of a person's life written or told by that person.", "S": ["biography", "confession", "diary", "journal", "letter", "life story", "memoir"], "A": []}

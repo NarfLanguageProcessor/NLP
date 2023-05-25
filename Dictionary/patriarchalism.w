@@ -1,1 +1,0 @@
-{"index": 227849, "D": "a philosophy, form, or system of patriarchal government.", "S": [], "A": []}

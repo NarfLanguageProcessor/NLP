@@ -1,1 +1,1 @@
-{"index": 24668, "D": "a quantity, rating, or the like that represents or approximates an arithmetic mean", "S": ["mediocre ", "moderate ", "ordinary ", "regular "], "A": ["abnormal ", "extraordinary ", "irregular ", "uncommon ", "unusual ", "exceptional ", "extreme ", "infrequent ", "rare "]}
+{"index": 24668, "D": "a quantity, rating, or the like that represents or approximates an arithmetic mean", "S": ["mediocre", "moderate", "ordinary", "regular"], "A": ["abnormal", "extraordinary", "irregular", "uncommon", "unusual", "exceptional", "extreme", "infrequent", "rare"]}

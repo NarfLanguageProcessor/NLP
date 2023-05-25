@@ -1,0 +1,1 @@
+{"index": 16098, "D": "an established or prescribed procedure for a religious or other rite. ", "S": [], "A": []}

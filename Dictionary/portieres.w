@@ -1,1 +1,1 @@
-{"index": 243660, "D": "a curtain hung in a doorway, either to replace the door or for decoration.", "S": ["decoration ", "drape ", "drapery ", "screen ", "shade ", "shroud ", "shutter ", "veil "], "A": []}
+{"index": 243660, "D": "a curtain hung in a doorway, either to replace the door or for decoration.", "S": ["decoration", "drape", "drapery", "screen", "shade", "shroud", "shutter", "veil"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 315746, "D": "a person versed in the Talmud. ", "S": ["priest ", "teacher "], "A": []}
+{"index": 315746, "D": "a person versed in the Talmud. ", "S": ["priest", "teacher"], "A": []}

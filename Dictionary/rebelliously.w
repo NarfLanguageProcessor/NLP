@@ -1,1 +1,1 @@
-{"index": 262295, "D": "defying or resisting some established authority, government, or tradition; insubordinate; inclined to rebel.", "S": ["fiercely ", "forcefully ", "forcibly ", "intensely ", "powerfully ", "strongly ", "vigorously "], "A": ["weakly "]}
+{"index": 262295, "D": "defying or resisting some established authority, government, or tradition; insubordinate; inclined to rebel.", "S": ["fiercely", "forcefully", "forcibly", "intensely", "powerfully", "strongly", "vigorously"], "A": ["weakly"]}

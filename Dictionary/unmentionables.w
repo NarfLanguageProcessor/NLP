@@ -1,1 +1,1 @@
-{"index": 346225, "D": "underwear", "S": ["bra ", "corset ", "drawers ", "lingerie ", "panties ", "underclothes ", "underclothing ", "underpants ", "underwear ", "undies "], "A": []}
+{"index": 346225, "D": "underwear", "S": ["bra", "corset", "drawers", "lingerie", "panties", "underclothes", "underclothing", "underpants", "underwear", "undies"], "A": []}

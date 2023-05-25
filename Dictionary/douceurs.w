@@ -1,1 +1,1 @@
-{"index": 92023, "D": "a gratuity; tip.", "S": ["bonus ", "bribe ", "gift ", "gratuity ", "tip "], "A": []}
+{"index": 92023, "D": "a gratuity; tip.", "S": ["bonus", "bribe", "gift", "gratuity", "tip"], "A": []}

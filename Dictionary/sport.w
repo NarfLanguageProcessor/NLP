@@ -1,1 +1,1 @@
-{"index": 301031, "D": "an athletic activity requiring skill or physical prowess and often of a competitive nature, as racing, baseball, tennis, golf, bowling, wrestling, boxing, hunting, fishing, etc.", "S": ["athletics ", "fun ", "game ", "pastime "], "A": ["work "]}
+{"index": 301031, "D": "an athletic activity requiring skill or physical prowess and often of a competitive nature, as racing, baseball, tennis, golf, bowling, wrestling, boxing, hunting, fishing, etc.", "S": ["athletics", "fun", "game", "pastime"], "A": ["work"]}

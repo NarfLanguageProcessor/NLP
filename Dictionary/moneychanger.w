@@ -1,1 +1,0 @@
-{"index": 191833, "D": "a person whose business is the exchange of currency, usually of different countries, at a fixed or official rate.", "S": [], "A": []}

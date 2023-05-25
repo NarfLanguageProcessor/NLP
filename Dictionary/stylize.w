@@ -1,1 +1,1 @@
-{"index": 304502, "D": "to design in or cause to conform to a particular style,  as of representation or treatment in art; conventionalize.", "S": ["accord ", "conform ", "formalize "], "A": ["refuse "]}
+{"index": 304502, "D": "to design in or cause to conform to a particular style,  as of representation or treatment in art; conventionalize.", "S": ["accord", "conform", "formalize"], "A": ["refuse"]}

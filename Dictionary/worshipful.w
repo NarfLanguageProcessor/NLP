@@ -1,1 +1,1 @@
-{"index": 367677, "D": "feeling or showing worship. ", "S": ["adoring ", "reverential "], "A": []}
+{"index": 367677, "D": "feeling or showing worship. ", "S": ["adoring", "reverential"], "A": []}

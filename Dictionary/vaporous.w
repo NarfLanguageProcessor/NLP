@@ -1,1 +1,1 @@
-{"index": 357095, "D": "having the form or characteristics of vapor", "S": ["misty ", "smoggy ", "vapory "], "A": []}
+{"index": 357095, "D": "having the form or characteristics of vapor", "S": ["misty", "smoggy", "vapory"], "A": []}

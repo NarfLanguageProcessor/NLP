@@ -1,0 +1,1 @@
+{"index": 24085, "D": "a person's own signature", "S": [], "A": []}

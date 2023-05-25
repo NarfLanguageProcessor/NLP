@@ -1,1 +1,1 @@
-{"index": 291939, "D": [], "S": ["equivalent ", "metonym "], "A": ["antonym "]}
+{"index": 291939, "D": [], "S": ["equivalent", "metonym"], "A": ["antonym"]}

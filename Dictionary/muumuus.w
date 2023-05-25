@@ -1,1 +1,1 @@
-{"index": 196364, "D": "a long, loose-hanging dress, usually brightly colored or patterned, worn especially by Hawaiian women.", "S": ["apparel ", "attire ", "costume ", "ensemble ", "frock ", "garb ", "gown ", "robe ", "skirt ", "smock ", "suit ", "uniform ", "wardrobe "], "A": []}
+{"index": 196364, "D": "a long, loose-hanging dress, usually brightly colored or patterned, worn especially by Hawaiian women.", "S": ["apparel", "attire", "costume", "ensemble", "frock", "garb", "gown", "robe", "skirt", "smock", "suit", "uniform", "wardrobe"], "A": []}

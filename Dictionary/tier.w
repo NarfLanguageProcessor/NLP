@@ -1,1 +1,1 @@
-{"index": 323388, "D": "one of a series of rows or ranks rising one behind or above another, as of seats in an amphitheater, boxes in a theater, guns in a man-of-war, or oars in an ancient galley.", "S": ["category ", "layer ", "row "], "A": ["disorder ", "disorganization "]}
+{"index": 323388, "D": "one of a series of rows or ranks rising one behind or above another, as of seats in an amphitheater, boxes in a theater, guns in a man-of-war, or oars in an ancient galley.", "S": ["category", "layer", "row"], "A": ["disorder", "disorganization"]}

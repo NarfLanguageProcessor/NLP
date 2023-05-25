@@ -1,1 +1,1 @@
-{"index": 151491, "D": "not able to produce the desired effect; ineffective.", "S": ["badly ", "inadequately ", "ineffectually ", "poorly ", "weakly "], "A": []}
+{"index": 151491, "D": "not able to produce the desired effect; ineffective.", "S": ["badly", "inadequately", "ineffectually", "poorly", "weakly"], "A": []}

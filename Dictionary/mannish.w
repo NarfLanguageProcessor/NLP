@@ -1,1 +1,1 @@
-{"index": 179435, "D": "being typical or suggestive of a man rather than a woman", "S": ["manly ", "masculine "], "A": ["feminine ", "womanish ", "womanlike ", "womanly "]}
+{"index": 179435, "D": "being typical or suggestive of a man rather than a woman", "S": ["manly", "masculine"], "A": ["feminine", "womanish", "womanlike", "womanly"]}

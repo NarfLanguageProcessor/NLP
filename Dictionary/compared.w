@@ -1,1 +1,1 @@
-{"index": 64411, "D": "to examine (two or more objects, ideas, people, etc.) in order to note similarities and differences", "S": ["correlated ", "related "], "A": []}
+{"index": 64411, "D": "to examine (two or more objects, ideas, people, etc.) in order to note similarities and differences", "S": ["correlated", "related"], "A": []}

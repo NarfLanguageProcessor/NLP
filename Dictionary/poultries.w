@@ -1,1 +1,1 @@
-{"index": 244891, "D": "domesticated fowl collectively, especially those valued for their meat and eggs, as chickens, turkeys, ducks, geese, and guinea fowl.", "S": ["chicken ", "duck "], "A": []}
+{"index": 244891, "D": "domesticated fowl collectively, especially those valued for their meat and eggs, as chickens, turkeys, ducks, geese, and guinea fowl.", "S": ["chicken", "duck"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 289849, "D": "to strike with a sweeping stroke or blow along the side;  strike a glancing blow obliquely.", "S": ["bang ", "break up ", "bump ", "crash ", "hit ", "shatter ", "sideswipe ", "smash ", "strike "], "A": ["fail ", "fix ", "lose ", "mend ", "tap ", "agree ", "aid ", "harmonize ", "help "]}

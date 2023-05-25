@@ -1,1 +1,1 @@
-{"index": 364752, "D": "a slight gust or puff of wind, air, vapor, smoke, or the like", "S": ["beak ", "snout "], "A": []}
+{"index": 364752, "D": "a slight gust or puff of wind, air, vapor, smoke, or the like", "S": ["beak", "snout"], "A": []}

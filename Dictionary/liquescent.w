@@ -1,1 +1,1 @@
-{"index": 173291, "D": "becoming liquid; melting.", "S": ["damp ", "melted ", "running ", "smooth ", "solvent ", "splashing ", "succulent ", "wet "], "A": ["broken ", "dry ", "intermittent "]}
+{"index": 173291, "D": "becoming liquid; melting.", "S": ["damp", "melted", "running", "smooth", "solvent", "splashing", "succulent", "wet"], "A": ["broken", "dry", "intermittent"]}

@@ -1,1 +1,1 @@
-{"index": 85441, "D": "displaying a readout in numerical digits rather than by a pointer or hands on a dial", "S": ["automated "], "A": []}
+{"index": 85441, "D": "displaying a readout in numerical digits rather than by a pointer or hands on a dial", "S": ["automated"], "A": []}

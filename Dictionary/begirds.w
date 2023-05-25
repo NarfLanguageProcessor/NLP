@@ -1,1 +1,1 @@
-{"index": 30651, "D": "to gird about; encompass; surround.", "S": ["band ", "belt ", "beset ", "bind ", "circle ", "encircle ", "enclose ", "encompass ", "engirdle ", "envelop ", "environ ", "gird ", "girdle ", "hem ", "hem in ", "ring "], "A": []}
+{"index": 30651, "D": "to gird about; encompass; surround.", "S": ["band", "belt", "beset", "bind", "circle", "encircle", "enclose", "encompass", "engirdle", "envelop", "environ", "gird", "girdle", "hem", "hem in", "ring"], "A": []}

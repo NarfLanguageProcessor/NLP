@@ -1,1 +1,1 @@
-{"index": 72960, "D": "of the nature of or involving crime. ", "S": ["naughtily "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}
+{"index": 72960, "D": "of the nature of or involving crime. ", "S": ["naughtily"], "A": ["adequately", "calmly", "little", "mildly", "morally"]}

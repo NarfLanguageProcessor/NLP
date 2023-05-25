@@ -1,1 +1,1 @@
-{"index": 276064, "D": "a heavy, one-edged sword, usually slightly curved, used especially by cavalry.", "S": ["hurt ", "injure ", "jab ", "prick ", "punch ", "stick ", "wound "], "A": ["aid ", "assist ", "cure ", "heal ", "help "]}
+{"index": 276064, "D": "a heavy, one-edged sword, usually slightly curved, used especially by cavalry.", "S": ["hurt", "injure", "jab", "prick", "punch", "stick", "wound"], "A": ["aid", "assist", "cure", "heal", "help"]}

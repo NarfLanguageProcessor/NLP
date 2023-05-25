@@ -1,1 +1,1 @@
-{"index": 197066, "D": "of little breadth or width; not broad or wide; not as wide as usual or expected", "S": ["barely ", "carefully "], "A": ["carelessly "]}
+{"index": 197066, "D": "of little breadth or width; not broad or wide; not as wide as usual or expected", "S": ["barely", "carefully"], "A": ["carelessly"]}

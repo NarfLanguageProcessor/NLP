@@ -1,1 +1,1 @@
-{"index": 321863, "D": [], "S": ["attenuate ", "weaken "], "A": ["strengthen "]}
+{"index": 321863, "D": [], "S": ["attenuate", "weaken"], "A": ["strengthen"]}

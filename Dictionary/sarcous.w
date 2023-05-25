@@ -1,1 +1,1 @@
-{"index": 278436, "D": "consisting of or pertaining to flesh or skeletal muscle.", "S": ["beefy ", "corpulent ", "meaty ", "plump ", "pudgy ", "stout "], "A": ["skinny ", "slight ", "thin ", "weak "]}
+{"index": 278436, "D": "consisting of or pertaining to flesh or skeletal muscle.", "S": ["beefy", "corpulent", "meaty", "plump", "pudgy", "stout"], "A": ["skinny", "slight", "thin", "weak"]}

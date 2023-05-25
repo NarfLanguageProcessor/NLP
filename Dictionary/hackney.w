@@ -1,1 +1,1 @@
-{"index": 131895, "D": "a carriage or coach for hire; cab.", "S": ["carriage ", "taxi ", "taxicab "], "A": []}
+{"index": 131895, "D": "a carriage or coach for hire; cab.", "S": ["carriage", "taxi", "taxicab"], "A": []}

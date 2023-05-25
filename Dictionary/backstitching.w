@@ -1,1 +1,1 @@
-{"index": 25954, "D": "stitching  or a stitch  in which the thread is doubled back  on the preceding stitch.", "S": ["tailoring "], "A": []}
+{"index": 25954, "D": "stitching  or a stitch  in which the thread is doubled back  on the preceding stitch.", "S": ["tailoring"], "A": []}

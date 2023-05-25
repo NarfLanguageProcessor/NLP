@@ -1,1 +1,1 @@
-{"index": 76863, "D": [], "S": ["administrator ", "attendant ", "curator ", "waiter "], "A": []}
+{"index": 76863, "D": [], "S": ["administrator", "attendant", "curator", "waiter"], "A": []}

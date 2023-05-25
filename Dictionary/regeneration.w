@@ -1,1 +1,1 @@
-{"index": 265585, "D": "act of regenerating;  state of being regenerated. ", "S": ["rebirth ", "reclamation ", "reconstruction ", "transformation "], "A": ["decrease ", "stagnation "]}
+{"index": 265585, "D": "act of regenerating;  state of being regenerated. ", "S": ["rebirth", "reclamation", "reconstruction", "transformation"], "A": ["decrease", "stagnation"]}

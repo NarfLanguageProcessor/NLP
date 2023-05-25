@@ -1,1 +1,1 @@
-{"index": 293612, "D": "with noisy violence", "S": ["abrupt ", "careless ", "expeditious ", "hurried ", "ill-advised ", "impulsive ", "quick ", "rapid ", "reckless ", "sudden ", "swift ", "urgent "], "A": ["careful ", "cautious ", "kind ", "leisurely ", "slow ", "sluggish ", "thoughtful ", "wise "]}
+{"index": 293612, "D": "with noisy violence", "S": ["abrupt", "careless", "expeditious", "hurried", "ill-advised", "impulsive", "quick", "rapid", "reckless", "sudden", "swift", "urgent"], "A": ["careful", "cautious", "kind", "leisurely", "slow", "sluggish", "thoughtful", "wise"]}

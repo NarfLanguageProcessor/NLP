@@ -1,1 +1,0 @@
-{"index": 204826, "D": "to give or provide the meaning of; explain; explicate; elucidate", "S": [], "A": []}

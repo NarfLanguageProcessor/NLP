@@ -1,1 +1,1 @@
-{"index": 190808, "D": "a product of mixing. ", "S": ["batter ", "blend ", "concoction ", "dough ", "mix ", "soup ", "stew ", "variety "], "A": ["division ", "separation ", "singularity "]}
+{"index": 190808, "D": "a product of mixing. ", "S": ["batter", "blend", "concoction", "dough", "mix", "soup", "stew", "variety"], "A": ["division", "separation", "singularity"]}

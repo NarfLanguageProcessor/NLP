@@ -1,1 +1,1 @@
-{"index": 363559, "D": "in a way that shows physical or mental exhaustion", "S": ["densely ", "massively ", "thickly "], "A": ["easily ", "gently ", "lightly "]}
+{"index": 363559, "D": "in a way that shows physical or mental exhaustion", "S": ["densely", "massively", "thickly"], "A": ["easily", "gently", "lightly"]}

@@ -1,1 +1,1 @@
-{"index": 123093, "D": "(used as a word of command to a horse or other draft animal directing it to turn to the right.)", "S": ["dear ", "oh ", "woe "], "A": []}
+{"index": 123093, "D": "(used as a word of command to a horse or other draft animal directing it to turn to the right.)", "S": ["dear", "oh", "woe"], "A": []}

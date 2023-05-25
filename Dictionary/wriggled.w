@@ -1,1 +1,1 @@
-{"index": 367966, "D": "to twist to and fro; writhe; squirm.", "S": ["crawl ", "sneak ", "squirm ", "zigzag "], "A": []}
+{"index": 367966, "D": "to twist to and fro; writhe; squirm.", "S": ["crawl", "sneak", "squirm", "zigzag"], "A": []}

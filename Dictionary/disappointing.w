@@ -1,1 +1,1 @@
-{"index": 87040, "D": "failing to fulfill one's hopes or expectations", "S": ["depressing ", "disconcerting ", "discouraging ", "disheartening ", "distasteful ", "frustrating ", "mediocre ", "unpleasant ", "unsatisfying "], "A": ["agreeable ", "encouraging ", "pleasant ", "pleasing ", "strong "]}
+{"index": 87040, "D": "failing to fulfill one's hopes or expectations", "S": ["depressing", "disconcerting", "discouraging", "disheartening", "distasteful", "frustrating", "mediocre", "unpleasant", "unsatisfying"], "A": ["agreeable", "encouraging", "pleasant", "pleasing", "strong"]}

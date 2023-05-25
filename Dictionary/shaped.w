@@ -1,1 +1,1 @@
-{"index": 287444, "D": "of a definite form, shape,  or character (often used in combination)", "S": ["formed ", "hammered ", "milled ", "pounded ", "rolled ", "stamped ", "tamped ", "tramped ", "trodden ", "worked "], "A": []}
+{"index": 287444, "D": "of a definite form, shape,  or character (often used in combination)", "S": ["formed", "hammered", "milled", "pounded", "rolled", "stamped", "tamped", "tramped", "trodden", "worked"], "A": []}

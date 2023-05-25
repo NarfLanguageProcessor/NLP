@@ -1,1 +1,1 @@
-{"index": 289686, "D": "self-seeking or servile flattery.", "S": ["toadyism "], "A": []}
+{"index": 289686, "D": "self-seeking or servile flattery.", "S": ["toadyism"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 145978, "D": "a thick cover of ice  over an area, sloping in all directions from the center.", "S": ["ice floe ", "iceberg "], "A": []}
+{"index": 145978, "D": "a thick cover of ice  over an area, sloping in all directions from the center.", "S": ["ice floe", "iceberg"], "A": []}

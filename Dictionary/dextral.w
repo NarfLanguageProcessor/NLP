@@ -1,1 +1,1 @@
-{"index": 83803, "D": "of, relating to, or on the right side; right (opposed to sinistral).", "S": ["clockwise ", "dexter ", "right-handed "], "A": ["left "]}
+{"index": 83803, "D": "of, relating to, or on the right side; right (opposed to sinistral).", "S": ["clockwise", "dexter", "right-handed"], "A": ["left"]}

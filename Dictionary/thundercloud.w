@@ -1,1 +1,1 @@
-{"index": 323011, "D": "cumulonimbus. ", "S": ["foreboding ", "forewarning ", "trouble "], "A": []}
+{"index": 323011, "D": "cumulonimbus. ", "S": ["foreboding", "forewarning", "trouble"], "A": []}

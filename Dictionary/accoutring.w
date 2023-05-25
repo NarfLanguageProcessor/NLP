@@ -1,1 +1,1 @@
-{"index": 1751, "D": "a variant of accouter. ", "S": ["array ", "attire ", "clothe ", "costume ", "decorate ", "embellish ", "equip ", "furnish ", "outfit ", "rig "], "A": ["unclothe "]}
+{"index": 1751, "D": "a variant of accouter. ", "S": ["array", "attire", "clothe", "costume", "decorate", "embellish", "equip", "furnish", "outfit", "rig"], "A": ["unclothe"]}

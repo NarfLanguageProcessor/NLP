@@ -1,1 +1,1 @@
-{"index": 318545, "D": "in a stormy way", "S": ["frantically ", "furiously ", "stormily ", "tumultuously ", "turbulently ", "violently "], "A": []}
+{"index": 318545, "D": "in a stormy way", "S": ["frantically", "furiously", "stormily", "tumultuously", "turbulently", "violently"], "A": []}

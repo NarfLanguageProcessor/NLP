@@ -1,0 +1,1 @@
+{"index": 6085, "D": "to raise the grade  or level of (a river valley, a stream bed, etc.) by depositing detritus, sediment, or the like.", "S": [], "A": []}

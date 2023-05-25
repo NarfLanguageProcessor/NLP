@@ -1,1 +1,1 @@
-{"index": 4615, "D": "bold; daring; adventurous. ", "S": ["audacious ", "bold ", "brave ", "courageous ", "daredevil ", "daring ", "dashing ", "gutsy ", "venturesome ", "venturous "], "A": []}
+{"index": 4615, "D": "bold; daring; adventurous. ", "S": ["audacious", "bold", "brave", "courageous", "daredevil", "daring", "dashing", "gutsy", "venturesome", "venturous"], "A": []}

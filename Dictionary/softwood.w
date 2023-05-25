@@ -1,1 +1,1 @@
-{"index": 296383, "D": "any wood  that is relatively soft  or easily cut.", "S": ["forest ", "sapling ", "seedling ", "shrub ", "timber ", "wood "], "A": []}
+{"index": 296383, "D": "any wood  that is relatively soft  or easily cut.", "S": ["forest", "sapling", "seedling", "shrub", "timber", "wood"], "A": []}

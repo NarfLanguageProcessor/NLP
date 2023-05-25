@@ -1,1 +1,1 @@
-{"index": 327897, "D": "to change in form, appearance, or structure; metamorphose. ", "S": ["alter ", "convert ", "mold ", "mutate ", "reconstruct ", "remodel ", "revamp ", "revolutionize ", "transfer ", "translate "], "A": ["hold ", "keep ", "remain "]}
+{"index": 327897, "D": "to change in form, appearance, or structure; metamorphose. ", "S": ["alter", "convert", "mold", "mutate", "reconstruct", "remodel", "revamp", "revolutionize", "transfer", "translate"], "A": ["hold", "keep", "remain"]}

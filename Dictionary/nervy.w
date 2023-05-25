@@ -1,1 +1,1 @@
-{"index": 198745, "D": "brashly presumptuous or insolent; pushy", "S": ["cheeky ", "crass ", "crude ", "forward ", "fresh ", "impudent ", "inconsiderate ", "pert ", "plucky ", "rude ", "sassy ", "smart ", "smart-alecky ", "wise "], "A": ["afraid ", "modest ", "shy ", "timid ", "unwilling "]}
+{"index": 198745, "D": "brashly presumptuous or insolent; pushy", "S": ["cheeky", "crass", "crude", "forward", "fresh", "impudent", "inconsiderate", "pert", "plucky", "rude", "sassy", "smart", "smart-alecky", "wise"], "A": ["afraid", "modest", "shy", "timid", "unwilling"]}

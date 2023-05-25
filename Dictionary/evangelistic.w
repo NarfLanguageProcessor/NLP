@@ -1,1 +1,1 @@
-{"index": 106009, "D": "pertaining to evangelists  or to preachers of the gospel.", "S": ["fervent ", "zealous "], "A": ["apathetic ", "indifferent ", "unenthusiastic "]}
+{"index": 106009, "D": "pertaining to evangelists  or to preachers of the gospel.", "S": ["fervent", "zealous"], "A": ["apathetic", "indifferent", "unenthusiastic"]}

@@ -1,1 +1,1 @@
-{"index": 346695, "D": "not musical;  deficient in melody, harmony, rhythm, or tone.", "S": ["unmelodious "], "A": []}
+{"index": 346695, "D": "not musical;  deficient in melody, harmony, rhythm, or tone.", "S": ["unmelodious"], "A": []}

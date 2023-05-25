@@ -1,1 +1,1 @@
-{"index": 111277, "D": "a marshy lowland region in E England, S of the Wash", "S": ["bog ", "mire ", "moor ", "quagmire ", "wetland "], "A": []}
+{"index": 111277, "D": "a marshy lowland region in E England, S of the Wash", "S": ["bog", "mire", "moor", "quagmire", "wetland"], "A": []}

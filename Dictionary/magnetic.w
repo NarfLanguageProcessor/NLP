@@ -1,1 +1,1 @@
-{"index": 177492, "D": "of or relating to a magnet  or magnetism. ", "S": ["hypnotic ", "irresistible ", "seductive "], "A": ["repellent ", "repulsive "]}
+{"index": 177492, "D": "of or relating to a magnet  or magnetism. ", "S": ["hypnotic", "irresistible", "seductive"], "A": ["repellent", "repulsive"]}

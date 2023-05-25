@@ -1,1 +1,1 @@
-{"index": 41123, "D": "a skewer for use in cooking.", "S": ["lance ", "pick ", "pin ", "spit ", "truss "], "A": []}
+{"index": 41123, "D": "a skewer for use in cooking.", "S": ["lance", "pick", "pin", "spit", "truss"], "A": []}

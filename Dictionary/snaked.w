@@ -1,1 +1,1 @@
-{"index": 295239, "D": "any of numerous limbless, scaly, elongate reptiles of the suborder Serpentes, comprising venomous and nonvenomous species inhabiting tropical and temperate areas.", "S": ["creep ", "crouch ", "prowl ", "skulk "], "A": ["come out "]}
+{"index": 295239, "D": "any of numerous limbless, scaly, elongate reptiles of the suborder Serpentes, comprising venomous and nonvenomous species inhabiting tropical and temperate areas.", "S": ["creep", "crouch", "prowl", "skulk"], "A": ["come out"]}

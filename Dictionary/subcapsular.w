@@ -1,1 +1,0 @@
-{"index": 307348, "D": "of, in, or like a capsule. ", "S": [], "A": []}

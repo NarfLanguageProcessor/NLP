@@ -1,1 +1,1 @@
-{"index": 273652, "D": "a style of popular music combining the features of rock-'n'-roll and hillbilly music.", "S": ["country rock "], "A": []}
+{"index": 273652, "D": "a style of popular music combining the features of rock-'n'-roll and hillbilly music.", "S": ["country rock"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 312690, "D": "greater than the speed of sound waves through air.", "S": ["agile ", "brisk ", "hot ", "nimble ", "quick ", "rapid ", "swift "], "A": ["clumsy ", "slow ", "dull "]}
+{"index": 312690, "D": "greater than the speed of sound waves through air.", "S": ["agile", "brisk", "hot", "nimble", "quick", "rapid", "swift"], "A": ["clumsy", "slow", "dull"]}

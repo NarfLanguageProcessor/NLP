@@ -1,1 +1,1 @@
-{"index": 48471, "D": "to find fault or complain querulously or unreasonably; be niggling in criticizing; cavil", "S": ["artisan ", "builder ", "cabinetmaker ", "laborer ", "woodworker ", "worker "], "A": []}
+{"index": 48471, "D": "to find fault or complain querulously or unreasonably; be niggling in criticizing; cavil", "S": ["artisan", "builder", "cabinetmaker", "laborer", "woodworker", "worker"], "A": []}

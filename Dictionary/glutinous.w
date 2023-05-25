@@ -1,1 +1,1 @@
-{"index": 126974, "D": "of the nature of glue; gluey; viscid; sticky.", "S": ["adhesive ", "clammy ", "gelatinous ", "gluey ", "gooey ", "mucilaginous ", "ropy ", "slimy ", "stiff ", "syrupy ", "tenacious ", "thick ", "tough ", "viscid ", "viscose "], "A": []}
+{"index": 126974, "D": "of the nature of glue; gluey; viscid; sticky.", "S": ["adhesive", "clammy", "gelatinous", "gluey", "gooey", "mucilaginous", "ropy", "slimy", "stiff", "syrupy", "tenacious", "thick", "tough", "viscid", "viscose"], "A": []}

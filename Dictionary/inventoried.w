@@ -1,1 +1,1 @@
-{"index": 157108, "D": "a complete listing of merchandise or stock on hand, work in progress, raw materials, finished goods on hand, etc., made each year by a business concern.", "S": ["enumerate "], "A": ["conceal ", "estimate ", "guess ", "hide "]}
+{"index": 157108, "D": "a complete listing of merchandise or stock on hand, work in progress, raw materials, finished goods on hand, etc., made each year by a business concern.", "S": ["enumerate"], "A": ["conceal", "estimate", "guess", "hide"]}

@@ -1,1 +1,1 @@
-{"index": 92009, "D": "without doubt; certainly; surely; unquestionably.", "S": ["absolutely ", "clearly ", "presumably ", "surely ", "undoubtedly ", "unequivocally ", "unquestionably "], "A": ["doubtfully ", "indefinite ", "questionably "]}
+{"index": 92009, "D": "without doubt; certainly; surely; unquestionably.", "S": ["absolutely", "clearly", "presumably", "surely", "undoubtedly", "unequivocally", "unquestionably"], "A": ["doubtfully", "indefinite", "questionably"]}

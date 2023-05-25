@@ -1,1 +1,0 @@
-{"index": 336327, "D": "an artistic composition, especially literary or dramatic, that, for the sake of laughter, vulgarizes lofty material or treats ordinary material with mock dignity.", "S": [], "A": []}

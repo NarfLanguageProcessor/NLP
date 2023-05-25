@@ -1,1 +1,1 @@
-{"index": 326599, "D": "to make or become tough  or tougher. ", "S": ["strengthen "], "A": ["soften "]}
+{"index": 326599, "D": "to make or become tough  or tougher. ", "S": ["strengthen"], "A": ["soften"]}

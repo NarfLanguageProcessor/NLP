@@ -1,1 +1,1 @@
-{"index": 68230, "D": "an appliance or utensil for cooking", "S": ["heater ", "lamp "], "A": []}
+{"index": 68230, "D": "an appliance or utensil for cooking", "S": ["heater", "lamp"], "A": []}

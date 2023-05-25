@@ -1,0 +1,1 @@
+{"index": 6099, "D": "an act or instance of aggrandizing,  or increasing in size, or intensity", "S": ["elevation", "ennoblement", "glorification", "tribute"], "A": []}

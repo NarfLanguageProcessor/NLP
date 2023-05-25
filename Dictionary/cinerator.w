@@ -1,1 +1,1 @@
-{"index": 57704, "D": "an incinerator.", "S": ["boiler ", "heater ", "heating system ", "incinerator ", "kiln ", "stove "], "A": ["freezer "]}
+{"index": 57704, "D": "an incinerator.", "S": ["boiler", "heater", "heating system", "incinerator", "kiln", "stove"], "A": ["freezer"]}

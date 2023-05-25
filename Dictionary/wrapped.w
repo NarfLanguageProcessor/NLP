@@ -1,1 +1,0 @@
-{"index": 367831, "D": "the past tense and past participle of wrap", "S": ["cloaked ", "encased ", "protected "], "A": ["uncovered ", "unwrapped "]}

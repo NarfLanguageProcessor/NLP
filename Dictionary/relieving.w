@@ -1,1 +1,1 @@
-{"index": 266918, "D": "to ease or alleviate (pain, distress, anxiety, need, etc.).", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}
+{"index": 266918, "D": "to ease or alleviate (pain, distress, anxiety, need, etc.).", "S": ["encouraging", "reassuring", "refreshing", "soothing"], "A": ["aggravating", "depressing", "dispiriting", "distressing", "disturbing", "irritating", "upsetting", "worrying"]}

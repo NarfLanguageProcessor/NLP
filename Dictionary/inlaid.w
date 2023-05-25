@@ -1,1 +1,1 @@
-{"index": 152953, "D": "set into the surface of something", "S": ["decorate "], "A": []}
+{"index": 152953, "D": "set into the surface of something", "S": ["decorate"], "A": []}

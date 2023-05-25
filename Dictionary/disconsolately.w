@@ -1,1 +1,1 @@
-{"index": 87543, "D": "without consolation or solace; hopelessly unhappy; inconsolable", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}
+{"index": 87543, "D": "without consolation or solace; hopelessly unhappy; inconsolable", "S": ["desperately", "sadly"], "A": ["confidently", "expectantly", "hopefully"]}

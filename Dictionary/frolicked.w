@@ -1,1 +1,1 @@
-{"index": 119285, "D": "merry play; merriment; gaiety; fun.", "S": ["cavort ", "gambol "], "A": []}
+{"index": 119285, "D": "merry play; merriment; gaiety; fun.", "S": ["cavort", "gambol"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18004, "D": "suitable or fitting for a particular purpose, person, occasion, etc.", "S": ["abduction", "apprehension", "arrest", "confiscation", "imprisonment", "occupation", "seizure", "taking"], "A": ["letting go", "release", "rise"]}

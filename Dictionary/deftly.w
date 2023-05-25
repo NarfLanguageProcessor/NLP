@@ -1,1 +1,1 @@
-{"index": 79516, "D": "in a dexterous or nimble manner; skillfully", "S": ["ably ", "adroitly ", "aptly ", "expertly ", "handily ", "ingeniously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}
+{"index": 79516, "D": "in a dexterous or nimble manner; skillfully", "S": ["ably", "adroitly", "aptly", "expertly", "handily", "ingeniously", "neatly", "nimbly", "skillfully", "smoothly"], "A": ["awkwardly", "clumsily", "unskillfully"]}

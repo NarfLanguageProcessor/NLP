@@ -1,1 +1,1 @@
-{"index": 251203, "D": "the act of treating or preparing something by a particular series of actions, as in manufacturing", "S": ["clarification "], "A": ["bad manners ", "corruption ", "crudeness ", "dirtying ", "pollution ", "rudeness "]}
+{"index": 251203, "D": "the act of treating or preparing something by a particular series of actions, as in manufacturing", "S": ["clarification"], "A": ["bad manners", "corruption", "crudeness", "dirtying", "pollution", "rudeness"]}

@@ -1,1 +1,1 @@
-{"index": 19978, "D": "any covering worn as a defense against weapons.", "S": ["bulletproof vest ", "shield "], "A": []}
+{"index": 19978, "D": "any covering worn as a defense against weapons.", "S": ["bulletproof vest", "shield"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 172038, "D": "giddy, dizzy, or delirious", "S": ["giddiness ", "vertigo "], "A": []}
+{"index": 172038, "D": "giddy, dizzy, or delirious", "S": ["giddiness", "vertigo"], "A": []}

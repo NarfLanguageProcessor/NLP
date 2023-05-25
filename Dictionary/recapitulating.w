@@ -1,1 +1,1 @@
-{"index": 262595, "D": "to review by a brief summary, as at the end of a speech or discussion; summarize.", "S": ["recap ", "rehash "], "A": ["take back "]}
+{"index": 262595, "D": "to review by a brief summary, as at the end of a speech or discussion; summarize.", "S": ["recap", "rehash"], "A": ["take back"]}

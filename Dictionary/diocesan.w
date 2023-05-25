@@ -1,1 +1,1 @@
-{"index": 86230, "D": "of or relating to a diocese. ", "S": ["administrator ", "cleric ", "director ", "patriarch ", "pontiff ", "pope ", "prelate ", "priest "], "A": []}
+{"index": 86230, "D": "of or relating to a diocese. ", "S": ["administrator", "cleric", "director", "patriarch", "pontiff", "pope", "prelate", "priest"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 351483, "D": "not intoxicated or drunk.", "S": ["drunken ", "tipsy "], "A": ["sober "]}
+{"index": 351483, "D": "not intoxicated or drunk.", "S": ["drunken", "tipsy"], "A": ["sober"]}

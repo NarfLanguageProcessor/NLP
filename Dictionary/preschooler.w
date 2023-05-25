@@ -1,1 +1,1 @@
-{"index": 249272, "D": "a child below the official school starting age, usually a child up to age five.", "S": ["child ", "infant ", "kid ", "youngster "], "A": ["adult "]}
+{"index": 249272, "D": "a child below the official school starting age, usually a child up to age five.", "S": ["child", "infant", "kid", "youngster"], "A": ["adult"]}

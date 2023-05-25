@@ -1,1 +1,0 @@
-{"index": 331839, "D": "pertaining to a tube,  as a Fallopian tube. ", "S": [], "A": []}

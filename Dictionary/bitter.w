@@ -1,1 +1,1 @@
-{"index": 35235, "D": "having a harsh, disagreeably acrid taste, like that of aspirin, quinine, wormwood, or aloes.", "S": ["harsh ", "sour "], "A": ["bland ", "sweet "]}
+{"index": 35235, "D": "having a harsh, disagreeably acrid taste, like that of aspirin, quinine, wormwood, or aloes.", "S": ["harsh", "sour"], "A": ["bland", "sweet"]}

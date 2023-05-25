@@ -1,1 +1,1 @@
-{"index": 116940, "D": "to have prescience of; to know in advance; foreknow. ", "S": ["discern ", "envisage ", "expect ", "forecast ", "foretell ", "perceive ", "presage ", "understand "], "A": ["misinterpret ", "misunderstand ", "neglect ", "overlook "]}
+{"index": 116940, "D": "to have prescience of; to know in advance; foreknow. ", "S": ["discern", "envisage", "expect", "forecast", "foretell", "perceive", "presage", "understand"], "A": ["misinterpret", "misunderstand", "neglect", "overlook"]}

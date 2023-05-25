@@ -1,1 +1,1 @@
-{"index": 267570, "D": "represented visually or interpreted by performance or execution, as in art, music, or acting", "S": ["accomplished ", "concluded ", "done ", "effected "], "A": []}
+{"index": 267570, "D": "represented visually or interpreted by performance or execution, as in art, music, or acting", "S": ["accomplished", "concluded", "done", "effected"], "A": []}

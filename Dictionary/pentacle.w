@@ -1,1 +1,1 @@
-{"index": 229872, "D": "pentagram. ", "S": ["cinque ", "cinquefoil ", "limerick ", "lustrum ", "pentad ", "pentagon ", "pentagram ", "pentangle ", "quinquennium ", "quintette ", "quintuple ", "quintuplet "], "A": []}
+{"index": 229872, "D": "pentagram. ", "S": ["cinque", "cinquefoil", "limerick", "lustrum", "pentad", "pentagon", "pentagram", "pentangle", "quinquennium", "quintette", "quintuple", "quintuplet"], "A": []}

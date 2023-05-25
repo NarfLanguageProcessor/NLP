@@ -1,1 +1,1 @@
-{"index": 34389, "D": "a writer of someone's biography. ", "S": ["columnist ", "composer ", "creator ", "journalist ", "poet ", "producer ", "reporter ", "writer "], "A": []}
+{"index": 34389, "D": "a writer of someone's biography. ", "S": ["columnist", "composer", "creator", "journalist", "poet", "producer", "reporter", "writer"], "A": []}

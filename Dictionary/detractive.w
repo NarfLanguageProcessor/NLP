@@ -1,1 +1,1 @@
-{"index": 83278, "D": "tending or seeking to detract. ", "S": ["belittling ", "critical ", "deprecating ", "deprecative ", "deprecatory ", "depreciative ", "depreciatory ", "derogative ", "derogatory ", "disapproving ", "slighting ", "uncomplimentary "], "A": []}
+{"index": 83278, "D": "tending or seeking to detract. ", "S": ["belittling", "critical", "deprecating", "deprecative", "deprecatory", "depreciative", "depreciatory", "derogative", "derogatory", "disapproving", "slighting", "uncomplimentary"], "A": []}

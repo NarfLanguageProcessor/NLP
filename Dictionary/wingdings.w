@@ -1,1 +1,1 @@
-{"index": 366132, "D": [], "S": ["anniversary ", "bash ", "birthday ", "ceremony ", "festival ", "festivity ", "gala ", "jubilee ", "observance ", "party ", "performance ", "spree ", "triumph "], "A": ["failure ", "sadness "]}
+{"index": 366132, "D": [], "S": ["anniversary", "bash", "birthday", "ceremony", "festival", "festivity", "gala", "jubilee", "observance", "party", "performance", "spree", "triumph"], "A": ["failure", "sadness"]}

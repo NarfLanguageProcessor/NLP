@@ -1,1 +1,1 @@
-{"index": 67239, "D": "the act or state of touching; a touching or meeting, as of two things or people.", "S": ["adjoining ", "neighboring "], "A": ["divided ", "separated "]}
+{"index": 67239, "D": "the act or state of touching; a touching or meeting, as of two things or people.", "S": ["adjoining", "neighboring"], "A": ["divided", "separated"]}

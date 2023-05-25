@@ -1,1 +1,1 @@
-{"index": 169172, "D": "to wash (clothes, linens, etc.).", "S": ["clean ", "cleanse ", "rinse "], "A": ["dirty ", "soil "]}
+{"index": 169172, "D": "to wash (clothes, linens, etc.).", "S": ["clean", "cleanse", "rinse"], "A": ["dirty", "soil"]}

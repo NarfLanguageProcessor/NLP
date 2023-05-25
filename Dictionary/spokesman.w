@@ -1,1 +1,1 @@
-{"index": 300668, "D": "a person who speaks for another or for a group.", "S": ["agent ", "delegate ", "deputy ", "mediator ", "representative ", "spokesperson ", "spokeswoman "], "A": []}
+{"index": 300668, "D": "a person who speaks for another or for a group.", "S": ["agent", "delegate", "deputy", "mediator", "representative", "spokesperson", "spokeswoman"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 296820, "D": "the state of being or living alone; seclusion", "S": ["emptiness ", "isolation ", "loneliness ", "seclusion ", "silence "], "A": ["companionship ", "friendship ", "togetherness "]}
+{"index": 296820, "D": "the state of being or living alone; seclusion", "S": ["emptiness", "isolation", "loneliness", "seclusion", "silence"], "A": ["companionship", "friendship", "togetherness"]}

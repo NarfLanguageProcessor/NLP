@@ -1,1 +1,1 @@
-{"index": 23326, "D": "a person appointed and authorized to examine accounts and accounting records, compare the charges with the vouchers, verify balance sheet and income items, and state the result.", "S": ["accountant ", "actuary ", "bookkeeper "], "A": []}
+{"index": 23326, "D": "a person appointed and authorized to examine accounts and accounting records, compare the charges with the vouchers, verify balance sheet and income items, and state the result.", "S": ["accountant", "actuary", "bookkeeper"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 236545, "D": "a Middle Eastern dish consisting of saut\u00e9ed, seasoned rice steamed in bouillon, sometimes with poultry, meat or shellfish.", "S": ["brown rice "], "A": []}
+{"index": 236545, "D": "a Middle Eastern dish consisting of saut\u00e9ed, seasoned rice steamed in bouillon, sometimes with poultry, meat or shellfish.", "S": ["brown rice"], "A": []}

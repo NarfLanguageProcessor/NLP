@@ -1,1 +1,1 @@
-{"index": 17878, "D": "suitable; well-adapted; pertinent; relevant; apt", "S": ["germane ", "relevant ", "suitable ", "timely "], "A": ["inappropriate "]}
+{"index": 17878, "D": "suitable; well-adapted; pertinent; relevant; apt", "S": ["germane", "relevant", "suitable", "timely"], "A": ["inappropriate"]}

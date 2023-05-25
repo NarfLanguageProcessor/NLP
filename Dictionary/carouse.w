@@ -1,1 +1,1 @@
-{"index": 48341, "D": "to engage in a drunken revel", "S": ["booze ", "drink ", "frolic ", "imbibe ", "play ", "quaff ", "revel ", "riot ", "roister ", "wassail "], "A": ["be sad ", "grieve "]}
+{"index": 48341, "D": "to engage in a drunken revel", "S": ["booze", "drink", "frolic", "imbibe", "play", "quaff", "revel", "riot", "roister", "wassail"], "A": ["be sad", "grieve"]}

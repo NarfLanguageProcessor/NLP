@@ -1,1 +1,1 @@
-{"index": 33511, "D": "to command; order; direct", "S": ["applicant ", "aspirant ", "competitor ", "contender ", "contestant ", "nominee ", "successor "], "A": []}
+{"index": 33511, "D": "to command; order; direct", "S": ["applicant", "aspirant", "competitor", "contender", "contestant", "nominee", "successor"], "A": []}

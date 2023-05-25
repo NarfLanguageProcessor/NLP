@@ -1,1 +1,1 @@
-{"index": 93333, "D": "to sag, sink, bend, or hang down, as from weakness, exhaustion, or lack of support.", "S": ["enervated ", "limp ", "weak "], "A": ["upright "]}
+{"index": 93333, "D": "to sag, sink, bend, or hang down, as from weakness, exhaustion, or lack of support.", "S": ["enervated", "limp", "weak"], "A": ["upright"]}

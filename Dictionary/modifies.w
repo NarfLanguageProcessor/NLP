@@ -1,1 +1,1 @@
-{"index": 191148, "D": "to change somewhat the form or qualities of; alter partially; amend", "S": ["adapt ", "adjust ", "correct ", "customize ", "repair ", "reshape ", "revise ", "rework ", "tweak ", "vary "], "A": ["disarrange ", "disorder ", "remain ", "spoil ", "stay ", "unfit ", "hurt "]}
+{"index": 191148, "D": "to change somewhat the form or qualities of; alter partially; amend", "S": ["adapt", "adjust", "correct", "customize", "repair", "reshape", "revise", "rework", "tweak", "vary"], "A": ["disarrange", "disorder", "remain", "spoil", "stay", "unfit", "hurt"]}

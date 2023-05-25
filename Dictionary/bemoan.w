@@ -1,1 +1,1 @@
-{"index": 31401, "D": "to express distress or grief over; lament", "S": ["deplore ", "lament ", "mourn ", "regret "], "A": ["be happy ", "praise "]}
+{"index": 31401, "D": "to express distress or grief over; lament", "S": ["deplore", "lament", "mourn", "regret"], "A": ["be happy", "praise"]}

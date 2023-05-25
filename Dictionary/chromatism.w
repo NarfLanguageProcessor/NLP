@@ -1,1 +1,1 @@
-{"index": 56211, "D": "chromatic aberration. ", "S": ["glow ", "hue ", "intensity ", "paint "], "A": ["black ", "white "]}
+{"index": 56211, "D": "chromatic aberration. ", "S": ["glow", "hue", "intensity", "paint"], "A": ["black", "white"]}

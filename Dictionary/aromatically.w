@@ -1,0 +1,1 @@
+{"index": 20080, "D": "having an aroma;  fragrant or sweet-scented; odoriferous.", "S": [], "A": []}

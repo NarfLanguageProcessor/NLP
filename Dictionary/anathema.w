@@ -1,0 +1,1 @@
+{"index": 12041, "D": "a person or thing detested or loathed", "S": ["bane", "pariah"], "A": ["love"]}

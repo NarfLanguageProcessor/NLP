@@ -1,1 +1,1 @@
-{"index": 288061, "D": "a person who herds, tends, and guards sheep.", "S": ["herder ", "herdsman "], "A": []}
+{"index": 288061, "D": "a person who herds, tends, and guards sheep.", "S": ["herder", "herdsman"], "A": []}

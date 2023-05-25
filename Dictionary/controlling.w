@@ -1,1 +1,1 @@
-{"index": 67810, "D": "to exercise restraint or direction over; dominate", "S": ["governing ", "regulating ", "supervising "], "A": []}
+{"index": 67810, "D": "to exercise restraint or direction over; dominate", "S": ["governing", "regulating", "supervising"], "A": []}

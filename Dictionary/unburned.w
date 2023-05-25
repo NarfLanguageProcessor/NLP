@@ -1,1 +1,0 @@
-{"index": 336332, "D": "to undergo rapid combustion or consume fuel in such a way as to give off heat, gases, and, usually, light; be on fire", "S": [], "A": []}

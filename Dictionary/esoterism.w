@@ -1,1 +1,1 @@
-{"index": 104369, "D": "esotericism. ", "S": ["newness ", "weirdness "], "A": ["normality ", "standard ", "usualness "]}
+{"index": 104369, "D": "esotericism. ", "S": ["newness", "weirdness"], "A": ["normality", "standard", "usualness"]}

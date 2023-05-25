@@ -1,1 +1,1 @@
-{"index": 291393, "D": "the state of being synchronous; synchronism. ", "S": ["unanimity "], "A": []}
+{"index": 291393, "D": "the state of being synchronous; synchronism. ", "S": ["unanimity"], "A": []}

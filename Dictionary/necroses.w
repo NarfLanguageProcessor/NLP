@@ -1,1 +1,0 @@
-{"index": 197839, "D": "death of a circumscribed portion of animal or plant tissue.", "S": ["decease ", "demise ", "dying ", "expiration ", "loss of life ", "passing "], "A": ["beginning ", "birth ", "nativity ", "creation ", "existence ", "genesis ", "life ", "origination ", "start "]}

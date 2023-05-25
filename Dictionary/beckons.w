@@ -1,1 +1,1 @@
-{"index": 29836, "D": "to signal, summon, or direct by a gesture of the head or hand.", "S": ["attract ", "entice ", "invite ", "tempt "], "A": ["repel ", "repulse ", "turn off ", "deter ", "push ", "reply "]}
+{"index": 29836, "D": "to signal, summon, or direct by a gesture of the head or hand.", "S": ["attract", "entice", "invite", "tempt"], "A": ["repel", "repulse", "turn off", "deter", "push", "reply"]}

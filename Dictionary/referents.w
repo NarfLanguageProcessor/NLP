@@ -1,1 +1,1 @@
-{"index": 265005, "D": "the object or event to which a term or symbol refers. ", "S": ["antecedent "], "A": []}
+{"index": 265005, "D": "the object or event to which a term or symbol refers. ", "S": ["antecedent"], "A": []}

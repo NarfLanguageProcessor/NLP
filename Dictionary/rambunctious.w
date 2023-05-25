@@ -1,1 +1,1 @@
-{"index": 260268, "D": "difficult to control or handle; wildly boisterous", "S": ["boisterous ", "energetic ", "raucous ", "rowdy ", "unruly "], "A": ["calm ", "quiet ", "restrained ", "silent "]}
+{"index": 260268, "D": "difficult to control or handle; wildly boisterous", "S": ["boisterous", "energetic", "raucous", "rowdy", "unruly"], "A": ["calm", "quiet", "restrained", "silent"]}

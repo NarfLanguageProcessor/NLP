@@ -1,1 +1,1 @@
-{"index": 1553, "D": "happening by chance or accident;  not planned; unexpected", "S": ["blessing ", "fortuity ", "fortune ", "happenstance ", "luck "], "A": ["bad fortune ", "misfortune "]}
+{"index": 1553, "D": "happening by chance or accident;  not planned; unexpected", "S": ["blessing", "fortuity", "fortune", "happenstance", "luck"], "A": ["bad fortune", "misfortune"]}

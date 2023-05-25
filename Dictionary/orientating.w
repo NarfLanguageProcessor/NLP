@@ -1,1 +1,1 @@
-{"index": 214557, "D": "orient (defs. 4-12). ", "S": ["adapt ", "adjust ", "align ", "conform "], "A": ["disarrange ", "disorder ", "unfit ", "miss "]}
+{"index": 214557, "D": "orient (defs. 4-12). ", "S": ["adapt", "adjust", "align", "conform"], "A": ["disarrange", "disorder", "unfit", "miss"]}

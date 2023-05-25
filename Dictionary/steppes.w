@@ -1,1 +1,1 @@
-{"index": 303801, "D": "the huge grasslands of Eurasia, chiefly in Ukraine and Russia", "S": ["grassland ", "prairie ", "savanna "], "A": []}
+{"index": 303801, "D": "the huge grasslands of Eurasia, chiefly in Ukraine and Russia", "S": ["grassland", "prairie", "savanna"], "A": []}

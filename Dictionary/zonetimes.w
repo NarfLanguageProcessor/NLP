@@ -1,1 +1,1 @@
-{"index": 369702, "D": [], "S": ["mean solar time "], "A": []}
+{"index": 369702, "D": [], "S": ["mean solar time"], "A": []}

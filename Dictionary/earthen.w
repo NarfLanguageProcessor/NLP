@@ -1,1 +1,1 @@
-{"index": 94813, "D": "composed of earth. ", "S": ["dirt ", "fictile ", "made of earth ", "mud ", "rock ", "stone "], "A": []}
+{"index": 94813, "D": "composed of earth. ", "S": ["dirt", "fictile", "made of earth", "mud", "rock", "stone"], "A": []}

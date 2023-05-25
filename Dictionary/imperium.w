@@ -1,1 +1,1 @@
-{"index": 148567, "D": "command; supreme power.", "S": ["authority ", "clout ", "influence ", "jurisdiction ", "law ", "leadership ", "management ", "prestige ", "privilege ", "right ", "rule ", "sovereignty ", "strength ", "weight "], "A": ["inferiority ", "subordination ", "subservience "]}
+{"index": 148567, "D": "command; supreme power.", "S": ["authority", "clout", "influence", "jurisdiction", "law", "leadership", "management", "prestige", "privilege", "right", "rule", "sovereignty", "strength", "weight"], "A": ["inferiority", "subordination", "subservience"]}

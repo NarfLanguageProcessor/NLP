@@ -1,1 +1,1 @@
-{"index": 123191, "D": "gelatinize. ", "S": ["agglomeration ", "concentration ", "concretion ", "condensation ", "congelation ", "consolidation ", "curdling ", "embolism ", "inspissation ", "thickening "], "A": ["dispersal ", "separation "]}
+{"index": 123191, "D": "gelatinize. ", "S": ["agglomeration", "concentration", "concretion", "condensation", "congelation", "consolidation", "curdling", "embolism", "inspissation", "thickening"], "A": ["dispersal", "separation"]}

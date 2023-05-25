@@ -1,1 +1,1 @@
-{"index": 65830, "D": "the presentation of a degree, honor, gift, etc.", "S": ["consulting ", "conversing ", "counseling ", "deliberating ", "discussing ", "meeting ", "talking "], "A": []}
+{"index": 65830, "D": "the presentation of a degree, honor, gift, etc.", "S": ["consulting", "conversing", "counseling", "deliberating", "discussing", "meeting", "talking"], "A": []}

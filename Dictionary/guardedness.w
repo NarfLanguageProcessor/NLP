@@ -1,1 +1,1 @@
-{"index": 130781, "D": "cautious; careful; prudent", "S": ["guard ", "peeled eye ", "sharp eye ", "weather eye "], "A": []}
+{"index": 130781, "D": "cautious; careful; prudent", "S": ["guard", "peeled eye", "sharp eye", "weather eye"], "A": []}

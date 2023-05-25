@@ -1,1 +1,1 @@
-{"index": 130426, "D": "a person or thing that growls. ", "S": ["crab ", "crybaby ", "faultfinder ", "grouch ", "grumbler ", "grump ", "moaner ", "sniveler ", "whiner "], "A": []}
+{"index": 130426, "D": "a person or thing that growls. ", "S": ["crab", "crybaby", "faultfinder", "grouch", "grumbler", "grump", "moaner", "sniveler", "whiner"], "A": []}

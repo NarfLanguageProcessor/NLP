@@ -1,1 +1,1 @@
-{"index": 152970, "D": "to restore (an outlaw) to the benefits and protection of the law.", "S": ["clan ", "folk ", "group ", "house ", "household ", "people ", "tribe "], "A": ["parent "]}
+{"index": 152970, "D": "to restore (an outlaw) to the benefits and protection of the law.", "S": ["clan", "folk", "group", "house", "household", "people", "tribe"], "A": ["parent"]}

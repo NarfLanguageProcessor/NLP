@@ -1,1 +1,0 @@
-{"index": 246330, "D": "(of an idea, opinion, etc.) formed beforehand, as before seeing evidence or as a result of a previously held prejudice", "S": ["biased ", "bitter ", "colored ", "disapproving ", "distorted ", "grudging ", "prepossessed ", "warped ", "yellow "], "A": ["clean ", "fresh ", "unbiased ", "unprejudiced "]}

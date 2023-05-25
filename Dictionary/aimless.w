@@ -1,1 +1,1 @@
-{"index": 6812, "D": "without aim; purposeless. ", "S": ["desultory ", "erratic ", "frivolous ", "haphazard ", "indiscriminate ", "pointless ", "random "], "A": ["definite ", "methodical ", "particular ", "sensible ", "specific ", "systematic "]}
+{"index": 6812, "D": "without aim; purposeless. ", "S": ["desultory", "erratic", "frivolous", "haphazard", "indiscriminate", "pointless", "random"], "A": ["definite", "methodical", "particular", "sensible", "specific", "systematic"]}

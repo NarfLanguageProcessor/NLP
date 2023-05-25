@@ -1,1 +1,1 @@
-{"index": 267379, "D": "a remaining, usually small part, quantity, number, or the like.", "S": ["bit ", "fragment ", "particle ", "piece ", "remains ", "residue ", "shred ", "vestige "], "A": ["whole ", "base ", "core ", "lack ", "need ", "want "]}
+{"index": 267379, "D": "a remaining, usually small part, quantity, number, or the like.", "S": ["bit", "fragment", "particle", "piece", "remains", "residue", "shred", "vestige"], "A": ["whole", "base", "core", "lack", "need", "want"]}

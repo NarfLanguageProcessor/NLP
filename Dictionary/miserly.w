@@ -1,1 +1,1 @@
-{"index": 189248, "D": "of, like, or befitting a miser;  penurious; stingy.", "S": ["tightfisted "], "A": ["generous ", "giving ", "liberal "]}
+{"index": 189248, "D": "of, like, or befitting a miser;  penurious; stingy.", "S": ["tightfisted"], "A": ["generous", "giving", "liberal"]}

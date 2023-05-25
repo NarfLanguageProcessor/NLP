@@ -1,1 +1,1 @@
-{"index": 360476, "D": [], "S": ["clarity ", "discernability ", "perceptibility ", "visualness "], "A": []}
+{"index": 360476, "D": [], "S": [], "A": []}

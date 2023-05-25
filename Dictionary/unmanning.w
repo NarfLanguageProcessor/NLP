@@ -1,1 +1,1 @@
-{"index": 345994, "D": "to deprive of courage or fortitude; break down the manly spirit of", "S": ["sterilization "], "A": []}
+{"index": 345994, "D": "to deprive of courage or fortitude; break down the manly spirit of", "S": ["sterilization"], "A": []}

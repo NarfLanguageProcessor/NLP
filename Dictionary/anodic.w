@@ -1,1 +1,1 @@
-{"index": 13696, "D": "pertaining to an anode  or the phenomena in its vicinity.", "S": ["computerized "], "A": []}
+{"index": 13696, "D": "pertaining to an anode  or the phenomena in its vicinity.", "S": ["computerized"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 250055, "D": "to make pretty,  especially in a small, petty way", "S": ["adorn ", "bedeck ", "decorate "], "A": ["decrease ", "harm ", "hurt ", "worsen "]}
+{"index": 250055, "D": "to make pretty,  especially in a small, petty way", "S": ["adorn", "bedeck", "decorate"], "A": ["decrease", "harm", "hurt", "worsen"]}

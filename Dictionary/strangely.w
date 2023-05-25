@@ -1,1 +1,1 @@
-{"index": 305758, "D": "unusual, extraordinary, or curious; odd; queer", "S": ["abnormally ", "amazingly ", "curiously ", "peculiarly ", "rarely ", "remarkably ", "startlingly ", "strikingly ", "surprisingly ", "uncommonly ", "uniquely ", "unusually "], "A": ["frequently "]}
+{"index": 305758, "D": "unusual, extraordinary, or curious; odd; queer", "S": ["abnormally", "amazingly", "curiously", "peculiarly", "rarely", "remarkably", "startlingly", "strikingly", "surprisingly", "uncommonly", "uniquely", "unusually"], "A": ["frequently"]}

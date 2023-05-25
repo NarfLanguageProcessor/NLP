@@ -1,1 +1,1 @@
-{"index": 6150, "D": "wronged, offended, or injured", "S": ["disturbed ", "grieving ", "oppressed ", "persecuted ", "wronged "], "A": ["comforted "]}
+{"index": 6150, "D": "wronged, offended, or injured", "S": ["disturbed", "grieving", "oppressed", "persecuted", "wronged"], "A": ["comforted"]}

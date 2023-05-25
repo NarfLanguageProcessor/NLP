@@ -1,1 +1,1 @@
-{"index": 148202, "D": "a little devil or demon; an evil spirit.", "S": ["brat ", "demon ", "devil ", "elf ", "fiend ", "gamin ", "gnome ", "gremlin ", "hellion ", "minx ", "pixie ", "puck ", "rascal ", "rogue ", "scamp ", "sprite ", "troll ", "tyke ", "urchin ", "villain "], "A": ["angel ", "god "]}
+{"index": 148202, "D": "a little devil or demon; an evil spirit.", "S": ["brat", "demon", "devil", "elf", "fiend", "gamin", "gnome", "gremlin", "hellion", "minx", "pixie", "puck", "rascal", "rogue", "scamp", "sprite", "troll", "tyke", "urchin", "villain"], "A": ["angel", "god"]}

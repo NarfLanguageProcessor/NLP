@@ -1,1 +1,1 @@
-{"index": 259547, "D": "the energy transferred by these processes.", "S": ["emission "], "A": ["collection "]}
+{"index": 259547, "D": "the energy transferred by these processes.", "S": ["emission"], "A": ["collection"]}

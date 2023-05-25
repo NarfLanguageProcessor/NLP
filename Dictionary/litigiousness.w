@@ -1,1 +1,0 @@
-{"index": 173838, "D": "of or relating to litigation. ", "S": ["belligerent ", "combativeness ", "contentiousness ", "contrary ", "scrappiness "], "A": []}

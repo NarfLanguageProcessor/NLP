@@ -1,1 +1,1 @@
-{"index": 113333, "D": "(in plasterwork) a surface defect having the form of a spot.", "S": ["glaring ", "gun ", "look ", "looking ", "ogling ", "peek ", "peep ", "rubbernecking ", "scrutiny ", "seeing ", "survey ", "watching "], "A": ["ignorance "]}
+{"index": 113333, "D": "(in plasterwork) a surface defect having the form of a spot.", "S": ["glaring", "gun", "look", "looking", "ogling", "peek", "peep", "rubbernecking", "scrutiny", "seeing", "survey", "watching"], "A": ["ignorance"]}

@@ -1,1 +1,1 @@
-{"index": 270193, "D": "the act of rising from the dead.", "S": ["reappearance ", "rebirth ", "restoration ", "resurgence ", "revival "], "A": []}
+{"index": 270193, "D": "the act of rising from the dead.", "S": ["reappearance", "rebirth", "restoration", "resurgence", "revival"], "A": []}

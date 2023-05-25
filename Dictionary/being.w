@@ -1,1 +1,1 @@
-{"index": 30878, "D": "the fact of existing; existence (as opposed to nonexistence).", "S": ["actuality ", "animation ", "journey ", "life ", "living ", "presence ", "reality ", "subsistence ", "vitality ", "world "], "A": ["abstract ", "deadness ", "inanimate "]}
+{"index": 30878, "D": "the fact of existing; existence (as opposed to nonexistence).", "S": ["actuality", "animation", "journey", "life", "living", "presence", "reality", "subsistence", "vitality", "world"], "A": ["abstract", "deadness", "inanimate"]}

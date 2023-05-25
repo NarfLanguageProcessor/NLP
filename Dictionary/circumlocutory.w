@@ -1,1 +1,1 @@
-{"index": 58162, "D": "a roundabout or indirect way of speaking; the use of more words than necessary to express an idea.", "S": ["dull ", "lavish ", "long ", "loose ", "meandering ", "rambling ", "waffling "], "A": ["clear "]}
+{"index": 58162, "D": "a roundabout or indirect way of speaking; the use of more words than necessary to express an idea.", "S": ["dull", "lavish", "long", "loose", "meandering", "rambling", "waffling"], "A": ["clear"]}

@@ -1,1 +1,1 @@
-{"index": 454, "D": "Compare biogenesis. ", "S": ["agamic ", "agamogenetic ", "agamous ", "parthenogenetic "], "A": []}
+{"index": 454, "D": "Compare biogenesis. ", "S": ["agamic", "agamogenetic", "agamous", "parthenogenetic"], "A": []}

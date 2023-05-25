@@ -1,1 +1,1 @@
-{"index": 192586, "D": "to acquire, have, or exercise a monopoly  of.", "S": ["arresting ", "captivating ", "engrossing ", "enthralling ", "fascinating ", "gripping ", "interesting ", "intriguing ", "riveting ", "spellbinding "], "A": ["boring ", "repulsive ", "uninteresting "]}
+{"index": 192586, "D": "to acquire, have, or exercise a monopoly  of.", "S": ["arresting", "captivating", "engrossing", "enthralling", "fascinating", "gripping", "interesting", "intriguing", "riveting", "spellbinding"], "A": ["boring", "repulsive", "uninteresting"]}

@@ -1,1 +1,1 @@
-{"index": 147818, "D": "a result or product of imitating.", "S": ["clone ", "impersonation ", "impression ", "mimicry ", "parody ", "reflection ", "replica ", "reproduction "], "A": ["original ", "difference ", "opposite ", "reality ", "seriousness ", "solemnity "]}
+{"index": 147818, "D": "a result or product of imitating.", "S": ["clone", "impersonation", "impression", "mimicry", "parody", "reflection", "replica", "reproduction"], "A": ["original", "difference", "opposite", "reality", "seriousness", "solemnity"]}

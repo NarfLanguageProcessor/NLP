@@ -1,1 +1,1 @@
-{"index": 303263, "D": "the act of a person who steals. ", "S": ["burglary ", "embezzlement ", "larceny ", "piracy ", "robbery ", "shoplifting "], "A": []}
+{"index": 303263, "D": "the act of a person who steals. ", "S": ["burglary", "embezzlement", "larceny", "piracy", "robbery", "shoplifting"], "A": []}

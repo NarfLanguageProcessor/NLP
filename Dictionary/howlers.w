@@ -1,1 +1,1 @@
-{"index": 144575, "D": "a person, animal, or thing that howls. ", "S": ["good one ", "guffaw ", "hoot ", "rib-tickler ", "riot ", "roar ", "scream ", "sidesplitter ", "thigh-slapper ", "wow "], "A": []}
+{"index": 144575, "D": "a person, animal, or thing that howls. ", "S": ["good one", "guffaw", "hoot", "rib-tickler", "riot", "roar", "scream", "sidesplitter", "thigh-slapper", "wow"], "A": []}

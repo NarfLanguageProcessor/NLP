@@ -1,1 +1,1 @@
-{"index": 294495, "D": "to extend (slivers of fiber) and twist slightly in carding.", "S": ["countryside ", "environs ", "hinterland ", "outpost ", "outskirts ", "suburbia ", "village "], "A": ["center ", "metropolis "]}
+{"index": 294495, "D": "to extend (slivers of fiber) and twist slightly in carding.", "S": ["countryside", "environs", "hinterland", "outpost", "outskirts", "suburbia", "village"], "A": ["center", "metropolis"]}

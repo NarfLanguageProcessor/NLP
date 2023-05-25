@@ -1,1 +1,1 @@
-{"index": 148975, "D": "to shut up in a pound  or other enclosure, as a stray animal.", "S": ["imprison ", "seize "], "A": ["free ", "let go ", "release ", "abandon ", "give ", "stop "]}
+{"index": 148975, "D": "to shut up in a pound  or other enclosure, as a stray animal.", "S": ["imprison", "seize"], "A": ["free", "let go", "release", "abandon", "give", "stop"]}

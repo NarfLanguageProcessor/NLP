@@ -1,1 +1,1 @@
-{"index": 110550, "D": "seeking favor by flattery or a servile way of behaving", "S": ["flattering "], "A": ["aloof ", "cool ", "disinterested ", "proud ", "unfriendly "]}
+{"index": 110550, "D": "seeking favor by flattery or a servile way of behaving", "S": ["flattering"], "A": ["aloof", "cool", "disinterested", "proud", "unfriendly"]}

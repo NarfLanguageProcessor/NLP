@@ -1,1 +1,1 @@
-{"index": 282580, "D": "afflicted with seasickness. ", "S": ["sick "], "A": []}
+{"index": 282580, "D": "afflicted with seasickness. ", "S": ["sick"], "A": []}

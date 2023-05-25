@@ -1,1 +1,1 @@
-{"index": 2629, "D": "an altar attendant in public worship.", "S": ["follower "], "A": []}
+{"index": 2629, "D": "an altar attendant in public worship.", "S": ["follower"], "A": []}

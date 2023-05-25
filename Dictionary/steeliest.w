@@ -1,1 +1,1 @@
-{"index": 303399, "D": "consisting or made of steel. ", "S": ["barbarous ", "brutal ", "callous ", "hardened ", "inhuman ", "merciless ", "ruthless "], "A": ["compassionate ", "feeling ", "gentle ", "giving ", "kind ", "nice ", "sympathetic "]}
+{"index": 303399, "D": "consisting or made of steel. ", "S": ["barbarous", "brutal", "callous", "hardened", "inhuman", "merciless", "ruthless"], "A": ["compassionate", "feeling", "gentle", "giving", "kind", "nice", "sympathetic"]}

@@ -1,1 +1,1 @@
-{"index": 97499, "D": "a person or thing that elevates  or raises.", "S": ["escalator "], "A": []}
+{"index": 97499, "D": "a person or thing that elevates  or raises.", "S": ["escalator"], "A": []}

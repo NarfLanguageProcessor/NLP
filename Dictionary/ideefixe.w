@@ -1,1 +1,1 @@
-{"index": 146351, "D": [], "S": ["compulsion ", "fetish ", "fixation ", "infatuation ", "irresistible impulse ", "mania ", "monomania ", "obsession ", "obsessive compulsion ", "one-track mind ", "preoccupation "], "A": []}
+{"index": 146351, "D": [], "S": ["compulsion", "fetish", "fixation", "infatuation", "irresistible impulse", "mania", "monomania", "obsession", "obsessive compulsion", "one-track mind", "preoccupation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 149358, "D": "not active", "S": ["lethargy ", "sluggishness ", "stagnation "], "A": ["energy ", "vigor ", "employment ", "work "]}
+{"index": 149358, "D": "not active", "S": ["lethargy", "sluggishness", "stagnation"], "A": ["energy", "vigor", "employment", "work"]}

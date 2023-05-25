@@ -1,1 +1,1 @@
-{"index": 330076, "D": "anything used or serving to decorate or complete", "S": ["accent ", "accompaniments ", "additions ", "clippings ", "decorations ", "fixings ", "frills ", "garnish ", "ornaments ", "supplements ", "trappings "], "A": []}
+{"index": 330076, "D": "anything used or serving to decorate or complete", "S": ["accent", "accompaniments", "additions", "clippings", "decorations", "fixings", "frills", "garnish", "ornaments", "supplements", "trappings"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 182388, "D": "a stone of great size, especially in ancient construction work, as the Cyclopean masonry, or in prehistoric Neolithic remains, as dolmens or menhirs.", "S": ["boulder ", "cromlech ", "monolith "], "A": []}
+{"index": 182388, "D": "a stone of great size, especially in ancient construction work, as the Cyclopean masonry, or in prehistoric Neolithic remains, as dolmens or menhirs.", "S": ["boulder", "cromlech", "monolith"], "A": []}

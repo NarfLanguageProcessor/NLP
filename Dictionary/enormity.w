@@ -1,1 +1,1 @@
-{"index": 100819, "D": "outrageous or heinous character; atrociousness", "S": ["depravity ", "horror "], "A": ["delight ", "esteem ", "goodness ", "joy ", "kindness ", "virtue "]}
+{"index": 100819, "D": "outrageous or heinous character; atrociousness", "S": ["depravity", "horror"], "A": ["delight", "esteem", "goodness", "joy", "kindness", "virtue"]}

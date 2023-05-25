@@ -1,1 +1,1 @@
-{"index": 181126, "D": "the aggregate of things used or needed in any business, undertaking, or operation (distinguished from personnel).", "S": ["arms "], "A": []}
+{"index": 181126, "D": "the aggregate of things used or needed in any business, undertaking, or operation (distinguished from personnel).", "S": ["arms"], "A": []}

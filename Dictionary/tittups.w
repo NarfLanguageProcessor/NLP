@@ -1,1 +1,1 @@
-{"index": 324801, "D": "an exaggerated prancing, bouncing movement or manner of moving.", "S": ["brio "], "A": ["apathy ", "dullness ", "inactivity ", "lifelessness "]}
+{"index": 324801, "D": "an exaggerated prancing, bouncing movement or manner of moving.", "S": ["brio"], "A": ["apathy", "dullness", "inactivity", "lifelessness"]}

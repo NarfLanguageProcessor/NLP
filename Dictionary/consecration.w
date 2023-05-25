@@ -1,1 +1,1 @@
-{"index": 66704, "D": "the act of consecrating;  dedication to the service and worship of a deity.", "S": ["anointing ", "blessing ", "canonization ", "dedication ", "devotion ", "exaltation ", "glorification ", "ordination "], "A": ["apathy ", "condemnation "]}
+{"index": 66704, "D": "the act of consecrating;  dedication to the service and worship of a deity.", "S": ["anointing", "blessing", "canonization", "dedication", "devotion", "exaltation", "glorification", "ordination"], "A": ["apathy", "condemnation"]}

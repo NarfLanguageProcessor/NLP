@@ -1,1 +1,1 @@
-{"index": 123722, "D": "persons of good family and breeding.", "S": ["aristocracy ", "civility ", "decorum ", "elegance ", "politeness ", "propriety ", "respectability "], "A": ["bad manners ", "impoliteness ", "rudeness "]}
+{"index": 123722, "D": "persons of good family and breeding.", "S": ["aristocracy", "civility", "decorum", "elegance", "politeness", "propriety", "respectability"], "A": ["bad manners", "impoliteness", "rudeness"]}

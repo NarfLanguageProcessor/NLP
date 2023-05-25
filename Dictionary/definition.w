@@ -1,1 +1,1 @@
-{"index": 79327, "D": [], "S": ["answer ", "explanation ", "interpretation ", "rationale ", "solution ", "translation "], "A": ["question "]}
+{"index": 79327, "D": [], "S": ["answer", "explanation", "interpretation", "rationale", "solution", "translation"], "A": ["question"]}

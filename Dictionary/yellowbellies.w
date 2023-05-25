@@ -1,1 +1,1 @@
-{"index": 146799, "D": "a person who is without courage, fortitude, or nerve; coward.", "S": ["coward ", "craven ", "dastard ", "funk ", "poltroon ", "quitter ", "recreant "], "A": []}
+{"index": 146799, "D": "a person who is without courage, fortitude, or nerve; coward.", "S": ["coward", "craven", "dastard", "funk", "poltroon", "quitter", "recreant"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 146603, "D": "without taking action or showing concern", "S": ["leisurely ", "nonchalantly ", "slowly "], "A": []}
+{"index": 146603, "D": "without taking action or showing concern", "S": ["leisurely", "nonchalantly", "slowly"], "A": []}

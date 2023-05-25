@@ -1,1 +1,1 @@
-{"index": 62437, "D": "a man who is a hairdresser.", "S": ["beautician ", "coiffeuse ", "cosmetologist ", "hairdresser ", "shaver "], "A": []}
+{"index": 62437, "D": "a man who is a hairdresser.", "S": ["beautician", "coiffeuse", "cosmetologist", "hairdresser", "shaver"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 216742, "D": "expenditure", "S": ["crack ", "exposure ", "flow ", "leakage "], "A": []}
+{"index": 216742, "D": "expenditure", "S": ["crack", "exposure", "flow", "leakage"], "A": []}

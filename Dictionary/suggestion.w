@@ -1,1 +1,1 @@
-{"index": 310249, "D": "the act of suggesting.", "S": ["approach ", "charge ", "idea ", "instruction ", "invitation ", "motion ", "opinion ", "proposal ", "proposition ", "recommendation ", "resolution ", "tip "], "A": ["condemnation ", "question "]}
+{"index": 310249, "D": "the act of suggesting.", "S": ["approach", "charge", "idea", "instruction", "invitation", "motion", "opinion", "proposal", "proposition", "recommendation", "resolution", "tip"], "A": ["condemnation", "question"]}

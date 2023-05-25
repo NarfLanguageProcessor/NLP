@@ -1,1 +1,1 @@
-{"index": 101822, "D": "full of, feeling, or expressing envy", "S": ["distrustful ", "greedy ", "suspicious ", "watchful "], "A": ["comfortable ", "content ", "kind ", "pleased "]}
+{"index": 101822, "D": "full of, feeling, or expressing envy", "S": ["distrustful", "greedy", "suspicious", "watchful"], "A": ["comfortable", "content", "kind", "pleased"]}

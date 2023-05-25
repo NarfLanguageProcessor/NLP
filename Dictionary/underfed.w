@@ -1,1 +1,1 @@
-{"index": 339182, "D": "to feed  insufficiently.", "S": ["famished ", "hungry ", "ill-fed ", "malnourished ", "skinny ", "starved ", "starving ", "thin "], "A": ["healthy ", "overweight ", "well-fed "]}
+{"index": 339182, "D": "to feed  insufficiently.", "S": ["famished", "hungry", "ill-fed", "malnourished", "skinny", "starved", "starving", "thin"], "A": ["healthy", "overweight", "well-fed"]}

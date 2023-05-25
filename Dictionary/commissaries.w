@@ -1,1 +1,1 @@
-{"index": 64078, "D": "a store that sells food and supplies to the personnel or workers in a military post, mining camp, lumber camp, or the like.", "S": ["agent ", "legate ", "representative "], "A": []}
+{"index": 64078, "D": "a store that sells food and supplies to the personnel or workers in a military post, mining camp, lumber camp, or the like.", "S": ["agent", "legate", "representative"], "A": []}

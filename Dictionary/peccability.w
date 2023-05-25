@@ -1,1 +1,1 @@
-{"index": 228554, "D": "liable to sin or error.", "S": ["defect ", "deficiency ", "failing ", "fallibility ", "foible ", "imperfection ", "infirmity ", "shortcoming "], "A": ["advantage ", "perfection ", "strength ", "strong point ", "ability ", "health ", "soundness "]}
+{"index": 228554, "D": "liable to sin or error.", "S": ["defect", "deficiency", "failing", "fallibility", "foible", "imperfection", "infirmity", "shortcoming"], "A": ["advantage", "perfection", "strength", "strong point", "ability", "health", "soundness"]}

@@ -1,0 +1,1 @@
+{"index": 4341, "D": "to regard with the utmost esteem, love, and respect; honor.", "S": ["admire", "cherish", "delight in", "fall for", "idolize", "revere", "worship"], "A": ["despise", "dislike", "hate", "castigate", "condemn", "criticize", "debase", "denounce", "disrespect", "humiliate", "mock", "shame"]}

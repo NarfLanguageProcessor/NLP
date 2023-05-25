@@ -1,1 +1,1 @@
-{"index": 103606, "D": "therefore. ", "S": ["accordingly ", "consequently ", "hence ", "in consequence ", "so ", "then ", "therefore ", "thereupon ", "thus ", "thusly "], "A": []}
+{"index": 103606, "D": "therefore. ", "S": ["accordingly", "consequently", "hence", "in consequence", "so", "then", "therefore", "thereupon", "thus", "thusly"], "A": []}

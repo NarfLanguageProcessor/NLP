@@ -1,1 +1,1 @@
-{"index": 119585, "D": "the bearing of fruit", "S": ["output ", "produce ", "product ", "yield "], "A": []}
+{"index": 119585, "D": "the bearing of fruit", "S": ["output", "produce", "product", "yield"], "A": []}

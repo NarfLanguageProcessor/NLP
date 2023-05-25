@@ -1,1 +1,1 @@
-{"index": 275399, "D": "Compare carpet. ", "S": ["carpeting ", "mat ", "tapestry "], "A": []}
+{"index": 275399, "D": "Compare carpet. ", "S": ["carpeting", "mat", "tapestry"], "A": []}

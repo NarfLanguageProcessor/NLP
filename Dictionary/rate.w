@@ -1,1 +1,1 @@
-{"index": 260983, "D": "the amount of a charge or payment with reference to some basis of calculation", "S": ["amount ", "estimate ", "percentage ", "quota ", "standard "], "A": ["whole "]}
+{"index": 260983, "D": "the amount of a charge or payment with reference to some basis of calculation", "S": ["amount", "estimate", "percentage", "quota", "standard"], "A": ["whole"]}

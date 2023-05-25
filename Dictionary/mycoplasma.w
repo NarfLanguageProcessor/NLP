@@ -1,1 +1,0 @@
-{"index": 185835, "D": "any of numerous parasitic microorganisms of the class Mollicutes, comprising the smallest self-reproducing prokaryotes, lacking a true cell wall and able to survive without oxygen", "S": [], "A": []}

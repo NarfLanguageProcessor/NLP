@@ -1,1 +1,1 @@
-{"index": 154729, "D": "the quality or condition of being interconnected;  interrelatedness", "S": ["interrelation "], "A": []}
+{"index": 154729, "D": "the quality or condition of being interconnected;  interrelatedness", "S": ["interrelation"], "A": []}

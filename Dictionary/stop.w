@@ -1,1 +1,1 @@
-{"index": 305320, "D": "to cease from, leave off, or discontinue", "S": ["bar ", "block ", "break ", "conclusion ", "pause "], "A": ["continuation ", "advance ", "aid ", "assistance ", "beginning ", "commencement ", "go ", "help ", "initiation ", "introduction ", "opening ", "start "]}
+{"index": 305320, "D": "to cease from, leave off, or discontinue", "S": ["bar", "block", "break", "conclusion", "pause"], "A": ["continuation", "advance", "aid", "assistance", "beginning", "commencement", "go", "help", "initiation", "introduction", "opening", "start"]}

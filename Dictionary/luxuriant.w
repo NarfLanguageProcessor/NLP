@@ -1,1 +1,1 @@
-{"index": 176562, "D": "abundant or lush in growth, as vegetation.", "S": ["lush ", "opulent ", "sumptuous "], "A": ["poor "]}
+{"index": 176562, "D": "abundant or lush in growth, as vegetation.", "S": ["lush", "opulent", "sumptuous"], "A": ["poor"]}

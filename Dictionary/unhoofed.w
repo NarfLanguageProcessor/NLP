@@ -1,1 +1,0 @@
-{"index": 343842, "D": "having hoofs;  ungulate.", "S": [], "A": []}

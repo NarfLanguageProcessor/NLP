@@ -1,1 +1,1 @@
-{"index": 362202, "D": "a stick held in the hand and used to help support oneself while walking.", "S": ["cane ", "crutch "], "A": []}
+{"index": 362202, "D": "a stick held in the hand and used to help support oneself while walking.", "S": ["cane", "crutch"], "A": []}

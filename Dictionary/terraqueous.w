@@ -1,1 +1,1 @@
-{"index": 319518, "D": "consisting of land and water, as the earth.", "S": ["carnal ", "mundane ", "physical ", "temporal ", "terrestrial ", "worldly "], "A": ["heavenly ", "immaterial ", "mental ", "otherworldly ", "spiritual "]}
+{"index": 319518, "D": "consisting of land and water, as the earth.", "S": ["carnal", "mundane", "physical", "temporal", "terrestrial", "worldly"], "A": ["heavenly", "immaterial", "mental", "otherworldly", "spiritual"]}

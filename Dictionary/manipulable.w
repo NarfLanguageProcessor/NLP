@@ -1,1 +1,1 @@
-{"index": 179323, "D": "capable of or susceptible to being manipulated;  manipulatable.", "S": ["docile ", "flexible ", "limber ", "malleable ", "manageable ", "pliant ", "spongy ", "supple "], "A": ["hard ", "inflexible ", "obstinate ", "rigid ", "stiff ", "stubborn ", "unyielding "]}
+{"index": 179323, "D": "capable of or susceptible to being manipulated;  manipulatable.", "S": ["docile", "flexible", "limber", "malleable", "manageable", "pliant", "spongy", "supple"], "A": ["hard", "inflexible", "obstinate", "rigid", "stiff", "stubborn", "unyielding"]}

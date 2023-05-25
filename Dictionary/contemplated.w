@@ -1,1 +1,1 @@
-{"index": 67318, "D": "to look at or view with continued attention; observe or study thoughtfully", "S": ["studied ", "treated "], "A": ["disregarded ", "forgotten ", "neglected ", "unplanned ", "unstudied "]}
+{"index": 67318, "D": "to look at or view with continued attention; observe or study thoughtfully", "S": ["studied", "treated"], "A": ["disregarded", "forgotten", "neglected", "unplanned", "unstudied"]}

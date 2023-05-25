@@ -1,1 +1,1 @@
-{"index": 38101, "D": "a ribbon or other marker placed between the pages of a book to mark a place.", "S": ["clip ", "flag ", "flap ", "holder ", "logo ", "loop ", "marker ", "slip ", "sticker ", "stop ", "strip ", "tag "], "A": []}
+{"index": 38101, "D": "a ribbon or other marker placed between the pages of a book to mark a place.", "S": ["clip", "flag", "flap", "holder", "logo", "loop", "marker", "slip", "sticker", "stop", "strip", "tag"], "A": []}

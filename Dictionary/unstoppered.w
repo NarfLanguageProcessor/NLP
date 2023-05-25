@@ -1,1 +1,1 @@
-{"index": 352096, "D": "to unstop.", "S": ["draw ", "open ", "penetrate ", "pump ", "use ", "utilize "], "A": ["close up ", "fill "]}
+{"index": 352096, "D": "to unstop.", "S": ["draw", "open", "penetrate", "pump", "use", "utilize"], "A": ["close up", "fill"]}

@@ -1,1 +1,1 @@
-{"index": 87509, "D": "to disturb the self-possession of; perturb; ruffle", "S": ["befuddlement ", "bewilderment ", "daze ", "discomposure ", "fog ", "muddle ", "perplexity ", "puzzlement ", "stupefaction ", "stupor "], "A": ["understanding "]}
+{"index": 87509, "D": "to disturb the self-possession of; perturb; ruffle", "S": ["befuddlement", "bewilderment", "daze", "discomposure", "fog", "muddle", "perplexity", "puzzlement", "stupefaction", "stupor"], "A": ["understanding"]}

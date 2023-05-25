@@ -1,1 +1,1 @@
-{"index": 146710, "D": "a book  published annually, containing information, statistics, etc., about the past year", "S": ["calendar ", "journal "], "A": []}
+{"index": 146710, "D": "a book  published annually, containing information, statistics, etc., about the past year", "S": ["calendar", "journal"], "A": []}

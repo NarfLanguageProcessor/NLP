@@ -1,1 +1,1 @@
-{"index": 251359, "D": "the act or habit of procrastinating,  or putting off or delaying, especially something requiring immediate attention", "S": ["delay ", "idling ", "loafing ", "playing ", "poking ", "toying ", "trifling "], "A": ["hastening ", "hurrying ", "push ", "rush "]}
+{"index": 251359, "D": "the act or habit of procrastinating,  or putting off or delaying, especially something requiring immediate attention", "S": ["delay", "idling", "loafing", "playing", "poking", "toying", "trifling"], "A": ["hastening", "hurrying", "push", "rush"]}

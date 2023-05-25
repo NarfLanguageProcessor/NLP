@@ -1,1 +1,1 @@
-{"index": 259055, "D": "to shake with a slight but rapid motion; vibrate tremulously; tremble. ", "S": ["aquiver ", "palpitating ", "quaky ", "quavering ", "quivering ", "shaky ", "shivering ", "shivery ", "trembling ", "tremulant ", "twittery ", "wobbly "], "A": []}
+{"index": 259055, "D": "to shake with a slight but rapid motion; vibrate tremulously; tremble. ", "S": ["aquiver", "palpitating", "quaky", "quavering", "quivering", "shaky", "shivering", "shivery", "trembling", "tremulant", "twittery", "wobbly"], "A": []}

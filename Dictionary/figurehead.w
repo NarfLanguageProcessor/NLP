@@ -1,1 +1,1 @@
-{"index": 112478, "D": "a person who is head  of a group, company, etc., in title but actually has no real authority or responsibility", "S": ["cipher ", "nonentity ", "puppet "], "A": []}
+{"index": 112478, "D": "a person who is head  of a group, company, etc., in title but actually has no real authority or responsibility", "S": ["cipher", "nonentity", "puppet"], "A": []}

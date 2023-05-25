@@ -1,1 +1,0 @@
-{"index": 206332, "D": "on the condition or understanding (that); providing", "S": [], "A": []}

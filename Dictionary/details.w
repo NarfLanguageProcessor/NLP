@@ -1,1 +1,1 @@
-{"index": 83077, "D": "an individual or minute part; an item or particular.", "S": ["minutiae "], "A": []}
+{"index": 83077, "D": "an individual or minute part; an item or particular.", "S": ["minutiae"], "A": []}

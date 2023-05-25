@@ -1,1 +1,1 @@
-{"index": 227982, "D": "displaying or indicative of an offensively condescending  manner", "S": ["arrogant ", "pretentious ", "snobbish "], "A": ["humble "]}
+{"index": 227982, "D": "displaying or indicative of an offensively condescending  manner", "S": ["arrogant", "pretentious", "snobbish"], "A": ["humble"]}

@@ -1,1 +1,1 @@
-{"index": 279987, "D": "a distinctive odor, especially when agreeable", "S": ["aura ", "bouquet ", "essence ", "odor ", "perfume ", "spice ", "whiff "], "A": ["odor ", "stench ", "stink "]}
+{"index": 279987, "D": "a distinctive odor, especially when agreeable", "S": ["aura", "bouquet", "essence", "odor", "perfume", "spice", "whiff"], "A": ["odor", "stench", "stink"]}

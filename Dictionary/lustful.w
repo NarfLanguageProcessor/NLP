@@ -1,1 +1,1 @@
-{"index": 176405, "D": "full of or motivated by lust,  greed, or the like", "S": ["lascivious ", "lewd ", "libidinous ", "lubricious ", "sensual ", "wanton "], "A": ["chaste ", "pure "]}
+{"index": 176405, "D": "full of or motivated by lust,  greed, or the like", "S": ["lascivious", "lewd", "libidinous", "lubricious", "sensual", "wanton"], "A": ["chaste", "pure"]}

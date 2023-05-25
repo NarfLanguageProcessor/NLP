@@ -1,1 +1,1 @@
-{"index": 118770, "D": "wildly excited or enthusiastic", "S": ["agitated ", "delirious ", "feverish ", "frantic ", "frenetic ", "furious ", "hysterical ", "rabid "], "A": ["balanced ", "calm ", "collected ", "happy ", "peaceful ", "pleased ", "unexcited "]}
+{"index": 118770, "D": "wildly excited or enthusiastic", "S": ["agitated", "delirious", "feverish", "frantic", "frenetic", "furious", "hysterical", "rabid"], "A": ["balanced", "calm", "collected", "happy", "peaceful", "pleased", "unexcited"]}

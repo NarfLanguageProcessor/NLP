@@ -1,1 +1,1 @@
-{"index": 260092, "D": "a fall  or shower of rain. ", "S": ["moisture ", "rain ", "shower "], "A": ["dryness "]}
+{"index": 260092, "D": "a fall  or shower of rain. ", "S": ["moisture", "rain", "shower"], "A": ["dryness"]}

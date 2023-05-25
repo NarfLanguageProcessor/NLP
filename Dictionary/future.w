@@ -1,1 +1,1 @@
-{"index": 120712, "D": "time that is to be or come hereafter.", "S": ["eventual ", "forthcoming ", "imminent ", "impending ", "planned ", "prospective ", "subsequent ", "ultimate "], "A": ["distant ", "later ", "past "]}
+{"index": 120712, "D": "time that is to be or come hereafter.", "S": ["eventual", "forthcoming", "imminent", "impending", "planned", "prospective", "subsequent", "ultimate"], "A": ["distant", "later", "past"]}

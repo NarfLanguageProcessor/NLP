@@ -1,1 +1,1 @@
-{"index": 8536, "D": "to put (fear, doubt, suspicion, anger, etc.) to rest; calm; quiet.", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}
+{"index": 8536, "D": "to put (fear, doubt, suspicion, anger, etc.) to rest; calm; quiet.", "S": ["encouraging", "reassuring", "refreshing", "soothing"], "A": ["aggravating", "depressing", "dispiriting", "distressing", "disturbing", "irritating", "upsetting", "worrying"]}

@@ -1,1 +1,1 @@
-{"index": 183279, "D": "a person or thing that mends. ", "S": ["physician ", "shaman ", "therapist "], "A": []}
+{"index": 183279, "D": "a person or thing that mends. ", "S": ["physician", "shaman", "therapist"], "A": []}

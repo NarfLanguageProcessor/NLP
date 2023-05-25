@@ -1,1 +1,1 @@
-{"index": 282195, "D": "to carve, model, or make by using the techniques of sculpture. ", "S": ["design ", "painting "], "A": ["lack ", "science "]}
+{"index": 282195, "D": "to carve, model, or make by using the techniques of sculpture. ", "S": ["design", "painting"], "A": ["lack", "science"]}

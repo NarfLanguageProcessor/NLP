@@ -1,1 +1,1 @@
-{"index": 60968, "D": "to grow together or into one body", "S": ["flowing ", "joining ", "mingling "], "A": []}
+{"index": 60968, "D": "to grow together or into one body", "S": ["flowing", "joining", "mingling"], "A": []}

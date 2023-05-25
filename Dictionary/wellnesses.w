@@ -1,1 +1,1 @@
-{"index": 364057, "D": "the quality or state of being healthy in body and mind, especially as the result of deliberate effort.", "S": ["wellbeing "], "A": ["illness ", "sickness ", "disease ", "disorder ", "malady "]}
+{"index": 364057, "D": "the quality or state of being healthy in body and mind, especially as the result of deliberate effort.", "S": ["wellbeing"], "A": ["illness", "sickness", "disease", "disorder", "malady"]}

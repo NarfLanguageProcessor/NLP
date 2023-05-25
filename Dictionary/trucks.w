@@ -1,1 +1,1 @@
-{"index": 331489, "D": "any of various forms of vehicle for carrying goods and materials, usually consisting of a single self-propelled unit but also often composed of a trailer vehicle hauled by a tractor unit.", "S": ["goods ", "traffic "], "A": []}
+{"index": 331489, "D": "any of various forms of vehicle for carrying goods and materials, usually consisting of a single self-propelled unit but also often composed of a trailer vehicle hauled by a tractor unit.", "S": ["goods", "traffic"], "A": []}

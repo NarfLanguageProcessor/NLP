@@ -1,1 +1,1 @@
-{"index": 325008, "D": "a drink made of alcoholic liquor and hot water, sweetened and sometimes spiced with cloves.", "S": ["booze ", "drink ", "ethanol ", "liquor ", "methanol ", "smoke "], "A": []}
+{"index": 325008, "D": "a drink made of alcoholic liquor and hot water, sweetened and sometimes spiced with cloves.", "S": ["booze", "drink", "ethanol", "liquor", "methanol", "smoke"], "A": []}

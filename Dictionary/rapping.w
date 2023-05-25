@@ -1,1 +1,1 @@
-{"index": 260765, "D": "the act or sound of a person or thing that raps. ", "S": ["tapping "], "A": []}
+{"index": 260765, "D": "the act or sound of a person or thing that raps. ", "S": ["tapping"], "A": []}

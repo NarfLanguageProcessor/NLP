@@ -1,1 +1,1 @@
-{"index": 192614, "D": "a single rail  functioning as a track for wheeled vehicles, as railroad or other cars, balanced upon or suspended from it.", "S": ["automated monorail ", "moving sidewalk "], "A": []}
+{"index": 192614, "D": "a single rail  functioning as a track for wheeled vehicles, as railroad or other cars, balanced upon or suspended from it.", "S": ["automated monorail", "moving sidewalk"], "A": []}

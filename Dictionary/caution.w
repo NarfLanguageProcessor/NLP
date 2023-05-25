@@ -1,1 +1,1 @@
-{"index": 50111, "D": "alertness and prudence in a hazardous situation; care; wariness", "S": ["attention ", "care ", "discretion ", "foresight ", "prudence ", "vigilance "], "A": ["carelessness ", "disregard ", "ignorance ", "indiscretion ", "neglect ", "negligence ", "thoughtlessness "]}
+{"index": 50111, "D": "alertness and prudence in a hazardous situation; care; wariness", "S": ["attention", "care", "discretion", "foresight", "prudence", "vigilance"], "A": ["carelessness", "disregard", "ignorance", "indiscretion", "neglect", "negligence", "thoughtlessness"]}

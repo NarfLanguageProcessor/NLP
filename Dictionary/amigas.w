@@ -1,1 +1,1 @@
-{"index": 10479, "D": "a female friend.", "S": ["amigo ", "associate ", "brother ", "buddy ", "chum ", "companion ", "comrade ", "crony ", "homeboy ", "homegirl ", "mate ", "sidekick ", "sis ", "sister "], "A": ["enemy ", "foe ", "opponent ", "stranger "]}
+{"index": 10479, "D": "a female friend.", "S": ["amigo", "associate", "brother", "buddy", "chum", "companion", "comrade", "crony", "homeboy", "homegirl", "mate", "sidekick", "sis", "sister"], "A": ["enemy", "foe", "opponent", "stranger"]}

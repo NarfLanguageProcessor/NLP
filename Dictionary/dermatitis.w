@@ -1,1 +1,1 @@
-{"index": 82147, "D": "inflammation of the skin.", "S": ["inflammation ", "rash "], "A": []}
+{"index": 82147, "D": "inflammation of the skin.", "S": ["inflammation", "rash"], "A": []}

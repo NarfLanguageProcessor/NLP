@@ -1,1 +1,1 @@
-{"index": 191528, "D": "a man or boy who is used to being coddled;  a milksop.", "S": ["baby ", "caress ", "coddle ", "cosset ", "dandle ", "fondle ", "indulge ", "overindulge ", "overprotect ", "pet ", "spoil "], "A": ["ignore "]}
+{"index": 191528, "D": "a man or boy who is used to being coddled;  a milksop.", "S": ["baby", "caress", "coddle", "cosset", "dandle", "fondle", "indulge", "overindulge", "overprotect", "pet", "spoil"], "A": ["ignore"]}

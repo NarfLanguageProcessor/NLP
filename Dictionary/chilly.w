@@ -1,1 +1,1 @@
-{"index": 54386, "D": "mildly cold or producing a sensation of cold; causing shivering; chill", "S": ["breezy ", "brisk ", "cool ", "crisp ", "freezing ", "frosty ", "icy ", "wintry "], "A": ["friendly ", "heated ", "hot ", "temperate "]}
+{"index": 54386, "D": "mildly cold or producing a sensation of cold; causing shivering; chill", "S": ["breezy", "brisk", "cool", "crisp", "freezing", "frosty", "icy", "wintry"], "A": ["friendly", "heated", "hot", "temperate"]}

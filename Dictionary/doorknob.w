@@ -1,1 +1,1 @@
-{"index": 91555, "D": "the handle or knob  by which a door  is opened or closed.", "S": ["latch ", "lever "], "A": ["depression "]}
+{"index": 91555, "D": "the handle or knob  by which a door  is opened or closed.", "S": ["latch", "lever"], "A": ["depression"]}

@@ -1,1 +1,1 @@
-{"index": 177893, "D": "chiefly; principally; for the most part; in the main; to the greatest extent", "S": ["chiefly ", "primarily ", "principally "], "A": []}
+{"index": 177893, "D": "chiefly; principally; for the most part; in the main; to the greatest extent", "S": ["chiefly", "primarily", "principally"], "A": []}

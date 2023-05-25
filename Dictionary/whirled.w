@@ -1,1 +1,1 @@
-{"index": 364972, "D": "to turn around, spin, or rotate rapidly", "S": ["blasted ", "fanned ", "fluttered ", "puffed ", "wafted ", "whisked "], "A": []}
+{"index": 364972, "D": "to turn around, spin, or rotate rapidly", "S": ["blasted", "fanned", "fluttered", "puffed", "wafted", "whisked"], "A": []}

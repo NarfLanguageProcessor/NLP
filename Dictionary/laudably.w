@@ -1,1 +1,1 @@
-{"index": 169093, "D": "deserving praise; praiseworthy; commendable", "S": ["properly ", "scrupulously "], "A": ["dishonorably ", "wrongly "]}
+{"index": 169093, "D": "deserving praise; praiseworthy; commendable", "S": ["properly", "scrupulously"], "A": ["dishonorably", "wrongly"]}

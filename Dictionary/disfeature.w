@@ -1,1 +1,1 @@
-{"index": 88069, "D": "to mar the features  of; disfigure.", "S": ["deform ", "distort ", "maim ", "mangle ", "mar ", "mutilate ", "scar "], "A": ["aid ", "beautify ", "cure ", "heal ", "help ", "repair ", "adorn ", "assist ", "decorate ", "embellish ", "fix ", "mend ", "ornament "]}
+{"index": 88069, "D": "to mar the features  of; disfigure.", "S": ["deform", "distort", "maim", "mangle", "mar", "mutilate", "scar"], "A": ["aid", "beautify", "cure", "heal", "help", "repair", "adorn", "assist", "decorate", "embellish", "fix", "mend", "ornament"]}

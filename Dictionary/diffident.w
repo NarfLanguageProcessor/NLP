@@ -1,1 +1,1 @@
-{"index": 85316, "D": "lacking confidence in one's own ability, worth, or fitness; timid; shy. ", "S": ["bashful ", "demure ", "meek ", "self-conscious ", "self-effacing ", "sheepish ", "timid ", "unassuming "], "A": ["aggressive ", "bold ", "brave ", "confident ", "extroverted "]}
+{"index": 85316, "D": "lacking confidence in one's own ability, worth, or fitness; timid; shy. ", "S": ["bashful", "demure", "meek", "self-conscious", "self-effacing", "sheepish", "timid", "unassuming"], "A": ["aggressive", "bold", "brave", "confident", "extroverted"]}

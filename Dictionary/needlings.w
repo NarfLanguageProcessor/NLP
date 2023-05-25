@@ -1,1 +1,1 @@
-{"index": 197963, "D": [], "S": ["caricature ", "contempt ", "derision ", "disdain ", "jeer ", "laughter ", "mockery ", "parody ", "sarcasm ", "satire ", "scorn ", "taunt ", "taunting "], "A": ["admiration ", "approval ", "compliment ", "flattery ", "love ", "praise ", "respect ", "commendation "]}
+{"index": 197963, "D": [], "S": ["caricature", "contempt", "derision", "disdain", "jeer", "laughter", "mockery", "parody", "sarcasm", "satire", "scorn", "taunt", "taunting"], "A": ["admiration", "approval", "compliment", "flattery", "love", "praise", "respect", "commendation"]}

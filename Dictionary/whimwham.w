@@ -1,1 +1,0 @@
-{"index": 364848, "D": "any odd or fanciful object or thing; a gimcrack.", "S": [], "A": []}

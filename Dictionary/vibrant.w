@@ -1,1 +1,1 @@
-{"index": 359287, "D": "moving to and fro rapidly; vibrating. ", "S": ["active ", "dynamic ", "energetic ", "lively ", "spirited ", "vigorous ", "vital ", "vivid "], "A": ["apathetic ", "dispirited ", "dull ", "idle ", "inactive ", "lazy ", "lethargic ", "lifeless ", "sluggish ", "weak "]}
+{"index": 359287, "D": "moving to and fro rapidly; vibrating. ", "S": ["active", "dynamic", "energetic", "lively", "spirited", "vigorous", "vital", "vivid"], "A": ["apathetic", "dispirited", "dull", "idle", "inactive", "lazy", "lethargic", "lifeless", "sluggish", "weak"]}

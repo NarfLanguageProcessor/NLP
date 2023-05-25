@@ -1,1 +1,1 @@
-{"index": 51465, "D": "carefully observant of ceremony;  formally or elaborately polite", "S": ["decorum ", "etiquette ", "formality ", "formalness ", "protocol "], "A": ["bad manners "]}
+{"index": 51465, "D": "carefully observant of ceremony;  formally or elaborately polite", "S": ["decorum", "etiquette", "formality", "formalness", "protocol"], "A": ["bad manners"]}

@@ -1,1 +1,1 @@
-{"index": 90433, "D": "a divulging. ", "S": ["accession ", "admittance ", "assertion ", "concession ", "confirmation ", "disclosure ", "revelation ", "statement ", "testimony "], "A": ["denial ", "disagreement ", "repudiation ", "secret "]}
+{"index": 90433, "D": "a divulging. ", "S": ["accession", "admittance", "assertion", "concession", "confirmation", "disclosure", "revelation", "statement", "testimony"], "A": ["denial", "disagreement", "repudiation", "secret"]}

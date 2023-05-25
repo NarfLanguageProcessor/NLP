@@ -1,1 +1,1 @@
-{"index": 154428, "D": "acting one upon or with the other.", "S": ["bilateral ", "collective ", "reciprocal "], "A": ["detached ", "distinct ", "separate ", "unshared "]}
+{"index": 154428, "D": "acting one upon or with the other.", "S": ["bilateral", "collective", "reciprocal"], "A": ["detached", "distinct", "separate", "unshared"]}

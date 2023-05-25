@@ -1,1 +1,1 @@
-{"index": 4605, "D": "a coming into place, view, or being; arrival", "S": ["arrival ", "coming ", "onset "], "A": ["departure ", "leaving "]}
+{"index": 4605, "D": "a coming into place, view, or being; arrival", "S": ["arrival", "coming", "onset"], "A": ["departure", "leaving"]}

@@ -1,1 +1,1 @@
-{"index": 368886, "D": "to bombard with electrical current, radiation, laser beams, etc.", "S": ["exterminate ", "kill ", "slaughter ", "terminate "], "A": ["bear ", "begin ", "create ", "give birth ", "initiate ", "start "]}
+{"index": 368886, "D": "to bombard with electrical current, radiation, laser beams, etc.", "S": ["exterminate", "kill", "slaughter", "terminate"], "A": ["bear", "begin", "create", "give birth", "initiate", "start"]}

@@ -1,1 +1,1 @@
-{"index": 175426, "D": "(of sound) strongly audible; having exceptional volume or intensity", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}
+{"index": 175426, "D": "(of sound) strongly audible; having exceptional volume or intensity", "S": ["aloud", "emphatically", "noisily", "powerfully", "vehemently", "vociferously"], "A": ["inaudibly", "quietly", "silently"]}

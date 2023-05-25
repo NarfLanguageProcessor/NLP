@@ -1,1 +1,1 @@
-{"index": 305307, "D": "to bend the head and shoulders, or the body generally, forward and downward from an erect position", "S": ["bent ", "leaning "], "A": []}
+{"index": 305307, "D": "to bend the head and shoulders, or the body generally, forward and downward from an erect position", "S": ["bent", "leaning"], "A": []}

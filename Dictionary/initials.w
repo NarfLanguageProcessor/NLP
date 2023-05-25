@@ -1,1 +1,1 @@
-{"index": 152812, "D": "of, relating to, or occurring at the beginning; first", "S": ["character ", "cipher ", "design ", "identification "], "A": []}
+{"index": 152812, "D": "of, relating to, or occurring at the beginning; first", "S": ["character", "cipher", "design", "identification"], "A": []}

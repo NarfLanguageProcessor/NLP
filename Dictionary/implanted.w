@@ -1,1 +1,1 @@
-{"index": 148734, "D": "to put or fix firmly", "S": ["confined "], "A": []}
+{"index": 148734, "D": "to put or fix firmly", "S": ["confined"], "A": []}

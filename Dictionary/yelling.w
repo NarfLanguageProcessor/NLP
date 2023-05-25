@@ -1,1 +1,1 @@
-{"index": 146791, "D": "to cry out or speak with a strong, loud, clear sound; shout", "S": ["bawling ", "holler ", "howling ", "scream ", "screeching ", "shout ", "yell "], "A": ["whisper ", "whispering "]}
+{"index": 146791, "D": "to cry out or speak with a strong, loud, clear sound; shout", "S": ["bawling", "holler", "howling", "scream", "screeching", "shout", "yell"], "A": ["whisper", "whispering"]}

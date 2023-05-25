@@ -1,1 +1,1 @@
-{"index": 241427, "D": "to prod or push, especially with something narrow or pointed, as a finger, elbow, stick, etc.", "S": ["jab "], "A": []}
+{"index": 241427, "D": "to prod or push, especially with something narrow or pointed, as a finger, elbow, stick, etc.", "S": ["jab"], "A": []}

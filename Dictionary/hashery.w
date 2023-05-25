@@ -1,1 +1,1 @@
-{"index": 134071, "D": [], "S": ["bean wagon ", "beanery ", "cheap restaurant ", "diner ", "dog wagon ", "dump ", "eatery ", "grease pit ", "hash house ", "hashhouse ", "inexpensive restaurant "], "A": []}
+{"index": 134071, "D": [], "S": ["bean wagon", "beanery", "cheap restaurant", "diner", "dog wagon", "dump", "eatery", "grease pit", "hash house", "hashhouse", "inexpensive restaurant"], "A": []}

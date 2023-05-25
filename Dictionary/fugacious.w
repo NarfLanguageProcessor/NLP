@@ -1,1 +1,1 @@
-{"index": 119801, "D": "fleeting; transient", "S": ["brief ", "ephemeral ", "evanescent ", "fleeting ", "impermanent ", "momentary ", "passing ", "short-lived ", "temporal ", "temporary ", "transient "], "A": []}
+{"index": 119801, "D": "fleeting; transient", "S": ["brief", "ephemeral", "evanescent", "fleeting", "impermanent", "momentary", "passing", "short-lived", "temporal", "temporary", "transient"], "A": []}

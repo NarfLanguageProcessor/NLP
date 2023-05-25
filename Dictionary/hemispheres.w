@@ -1,1 +1,1 @@
-{"index": 136290, "D": "Compare Eastern Hemisphere, Western Hemisphere, Northern Hemisphere, Southern Hemisphere. ", "S": ["fraction "], "A": []}
+{"index": 136290, "D": "Compare Eastern Hemisphere, Western Hemisphere, Northern Hemisphere, Southern Hemisphere. ", "S": ["fraction"], "A": []}

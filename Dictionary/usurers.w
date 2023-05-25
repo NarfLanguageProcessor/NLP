@@ -1,1 +1,1 @@
-{"index": 356067, "D": "a person who lends money and charges interest, especially at an exorbitant or unlawful rate; moneylender.", "S": ["broker ", "dealer ", "financier ", "investor ", "manager ", "officer "], "A": []}
+{"index": 356067, "D": "a person who lends money and charges interest, especially at an exorbitant or unlawful rate; moneylender.", "S": ["broker", "dealer", "financier", "investor", "manager", "officer"], "A": []}

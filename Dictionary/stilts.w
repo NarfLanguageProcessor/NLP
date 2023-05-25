@@ -1,1 +1,1 @@
-{"index": 304606, "D": "one of two poles, each with a support for the foot at some distance above the bottom end, enabling the wearer to walk with their feet above the ground.", "S": ["lap ", "limb ", "part ", "pole ", "stage "], "A": []}
+{"index": 304606, "D": "one of two poles, each with a support for the foot at some distance above the bottom end, enabling the wearer to walk with their feet above the ground.", "S": ["lap", "limb", "part", "pole", "stage"], "A": []}

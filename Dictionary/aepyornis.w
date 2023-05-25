@@ -1,0 +1,1 @@
+{"index": 4882, "D": "an extinct genus of ratite birds, best known from the Pleistocene Epoch of Madagascar, having massive legs and rudimentary wings, and growing to a height of 8 feet (2.4 meters).", "S": [], "A": []}

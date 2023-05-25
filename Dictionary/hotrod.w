@@ -1,1 +1,1 @@
-{"index": 144306, "D": "an automobile specially built or altered for fast acceleration and increased speed.", "S": ["dragster "], "A": []}
+{"index": 144306, "D": "an automobile specially built or altered for fast acceleration and increased speed.", "S": ["dragster"], "A": []}

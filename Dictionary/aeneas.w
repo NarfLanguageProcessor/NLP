@@ -1,0 +1,1 @@
+{"index": 4841, "D": "a Trojan hero, the reputed ancestor of the Romans", "S": [], "A": []}

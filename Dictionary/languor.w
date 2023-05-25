@@ -1,1 +1,1 @@
-{"index": 168141, "D": "lack of energy or vitality; sluggishness.", "S": ["inactivity ", "tiredness "], "A": ["action ", "diligence ", "energy ", "industry ", "interest ", "liveliness ", "vigor "]}
+{"index": 168141, "D": "lack of energy or vitality; sluggishness.", "S": ["inactivity", "tiredness"], "A": ["action", "diligence", "energy", "industry", "interest", "liveliness", "vigor"]}

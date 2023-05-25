@@ -1,1 +1,1 @@
-{"index": 6945, "D": "the system, especially a government postal system, of sending mail by airplane.", "S": ["next-day air ", "priority mail ", "special delivery "], "A": []}
+{"index": 6945, "D": "the system, especially a government postal system, of sending mail by airplane.", "S": ["next-day air", "priority mail", "special delivery"], "A": []}

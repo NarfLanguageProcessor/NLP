@@ -1,1 +1,0 @@
-{"index": 212346, "D": "a medium-dry sherry of Spain.", "S": [], "A": []}

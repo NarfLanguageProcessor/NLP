@@ -1,1 +1,1 @@
-{"index": 197045, "D": "a story or account of events, experiences, or the like, whether true or fictitious.", "S": ["historical "], "A": ["rambling "]}
+{"index": 197045, "D": "a story or account of events, experiences, or the like, whether true or fictitious.", "S": ["historical"], "A": ["rambling"]}

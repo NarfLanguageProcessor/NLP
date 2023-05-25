@@ -1,1 +1,1 @@
-{"index": 6232, "D": "agitation and propaganda, especially for the cause of communism.", "S": ["disinformation ", "hype ", "indoctrination ", "publicity "], "A": ["truth "]}
+{"index": 6232, "D": "agitation and propaganda, especially for the cause of communism.", "S": ["disinformation", "hype", "indoctrination", "publicity"], "A": ["truth"]}

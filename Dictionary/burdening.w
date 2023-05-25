@@ -1,1 +1,1 @@
-{"index": 42999, "D": "that which is carried; load", "S": ["packing ", "storing "], "A": []}
+{"index": 42999, "D": "that which is carried; load", "S": ["packing", "storing"], "A": []}

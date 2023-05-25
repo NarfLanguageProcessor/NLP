@@ -1,0 +1,1 @@
+{"index": 20043, "D": "any composite plant of the genus Arnica, having opposite leaves and yellow flower heads.", "S": [], "A": []}

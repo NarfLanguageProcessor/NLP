@@ -1,1 +1,1 @@
-{"index": 282676, "D": "an excessive and abnormal discharge from the sebaceous glands.", "S": ["flakes "], "A": []}
+{"index": 282676, "D": "an excessive and abnormal discharge from the sebaceous glands.", "S": ["flakes"], "A": []}

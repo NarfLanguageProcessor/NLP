@@ -1,1 +1,1 @@
-{"index": 64310, "D": "to change (a prison sentence or other penalty) to a less severe one", "S": ["itinerant ", "roving "], "A": []}
+{"index": 64310, "D": "to change (a prison sentence or other penalty) to a less severe one", "S": ["itinerant", "roving"], "A": []}

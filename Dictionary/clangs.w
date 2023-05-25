@@ -1,1 +1,1 @@
-{"index": 59211, "D": "to give out a loud, resonant sound, as that produced by a large bell or two heavy pieces of metal striking together", "S": ["clash ", "jangle ", "noise "], "A": []}
+{"index": 59211, "D": "to give out a loud, resonant sound, as that produced by a large bell or two heavy pieces of metal striking together", "S": ["clash", "jangle", "noise"], "A": []}

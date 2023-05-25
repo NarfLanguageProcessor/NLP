@@ -1,1 +1,1 @@
-{"index": 115165, "D": "to treat with disdain, scorn, or contempt; scoff at; mock", "S": ["detractor ", "doubter ", "pessimist ", "skeptic "], "A": ["believer "]}
+{"index": 115165, "D": "to treat with disdain, scorn, or contempt; scoff at; mock", "S": ["detractor", "doubter", "pessimist", "skeptic"], "A": ["believer"]}

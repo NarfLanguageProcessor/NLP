@@ -1,1 +1,1 @@
-{"index": 227814, "D": "having or covered with a patina.", "S": ["buff ", "furbish ", "glance ", "glaze ", "gloss ", "luster ", "patina ", "rub ", "sheen ", "shine ", "smooth ", "wax "], "A": ["dull "]}
+{"index": 227814, "D": "having or covered with a patina.", "S": ["buff", "furbish", "glance", "glaze", "gloss", "luster", "patina", "rub", "sheen", "shine", "smooth", "wax"], "A": ["dull"]}

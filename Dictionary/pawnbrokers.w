@@ -1,1 +1,1 @@
-{"index": 228269, "D": "a person whose business is lending money at interest on personal, movable property deposited with the lender until redeemed.", "S": ["Shylock ", "broker ", "lender ", "usurer "], "A": []}
+{"index": 228269, "D": "a person whose business is lending money at interest on personal, movable property deposited with the lender until redeemed.", "S": ["Shylock", "broker", "lender", "usurer"], "A": []}

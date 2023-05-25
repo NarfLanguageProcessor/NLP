@@ -1,1 +1,1 @@
-{"index": 28506, "D": "the bottom support of anything; that on which a thing stands or rests", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}
+{"index": 28506, "D": "the bottom support of anything; that on which a thing stands or rests", "S": ["maliciously"], "A": ["honestly", "truthfully"]}

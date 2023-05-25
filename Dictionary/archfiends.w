@@ -1,1 +1,1 @@
-{"index": 18879, "D": "a chief fiend. ", "S": ["beast ", "demon ", "devil ", "evil spirit ", "ghoul ", "monster ", "ogre "], "A": []}
+{"index": 18879, "D": "a chief fiend. ", "S": ["beast", "demon", "devil", "evil spirit", "ghoul", "monster", "ogre"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 261115, "D": "an exclamation of rejection or disdain", "S": ["betrayer ", "blabbermouth ", "canary ", "double-crosser ", "fink ", "informant ", "sneak ", "snitch ", "source ", "squealer ", "stoolie ", "tattler ", "tattletale ", "turncoat ", "whistle-blower "], "A": []}
+{"index": 261115, "D": "an exclamation of rejection or disdain", "S": ["betrayer", "blabbermouth", "canary", "double-crosser", "fink", "informant", "sneak", "snitch", "source", "squealer", "stoolie", "tattler", "tattletale", "turncoat", "whistle-blower"], "A": []}

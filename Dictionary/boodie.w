@@ -1,0 +1,1 @@
+{"index": 38010, "D": "a burrowing rat kangaroo, Bettongia lesueur, found on islands off Western Australia", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16020, "D": "remains or relics, such as statues, buildings, or coins, that date from ancient times", "S": ["antique", "relic"], "A": ["convention", "modernity", "newness", "now"]}

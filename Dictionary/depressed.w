@@ -1,1 +1,1 @@
-{"index": 81852, "D": "sad and gloomy; dejected; downcast. ", "S": ["desolate ", "despondent ", "discouraged ", "miserable ", "morose ", "not happy ", "pessimistic ", "sad ", "unhappy "], "A": ["cheerful ", "glad ", "happy ", "optimistic ", "encouraged ", "gay ", "heartened ", "joyous "]}
+{"index": 81852, "D": "sad and gloomy; dejected; downcast. ", "S": ["desolate", "despondent", "discouraged", "miserable", "morose", "not happy", "pessimistic", "sad", "unhappy"], "A": ["cheerful", "glad", "happy", "optimistic", "encouraged", "gay", "heartened", "joyous"]}

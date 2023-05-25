@@ -1,1 +1,1 @@
-{"index": 127479, "D": "a precious yellow metallic element, highly malleable and ductile, and not subject to oxidation or corrosion. Symbol", "S": ["gilt ", "halcyon "], "A": []}
+{"index": 127479, "D": "a precious yellow metallic element, highly malleable and ductile, and not subject to oxidation or corrosion. Symbol", "S": ["gilt", "halcyon"], "A": []}

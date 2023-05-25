@@ -1,1 +1,1 @@
-{"index": 9386, "D": "mountain climbing, especially in the Alps. ", "S": ["mountaineering ", "rock climbing "], "A": []}
+{"index": 9386, "D": "mountain climbing, especially in the Alps. ", "S": ["mountaineering", "rock climbing"], "A": []}

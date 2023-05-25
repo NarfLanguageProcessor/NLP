@@ -1,1 +1,0 @@
-{"index": 289825, "D": "a minor show or exhibition in connection with a principal one, as at a circus.", "S": ["adjunct "], "A": []}

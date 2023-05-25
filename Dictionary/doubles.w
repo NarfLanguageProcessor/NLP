@@ -1,1 +1,1 @@
-{"index": 91973, "D": "a doubles player", "S": ["dual "], "A": ["singular "]}
+{"index": 91973, "D": "a doubles player", "S": ["dual"], "A": ["singular"]}

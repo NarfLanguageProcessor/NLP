@@ -1,0 +1,1 @@
+{"index": 16028, "D": "of or relating to the social construct of race", "S": [], "A": []}

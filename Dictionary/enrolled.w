@@ -1,1 +1,1 @@
-{"index": 100925, "D": "variant of enroll. ", "S": ["commissioned ", "enlisted ", "entered ", "inducted ", "installed ", "joined ", "listed ", "pledged ", "recorded ", "recruited ", "subscribed "], "A": []}
+{"index": 100925, "D": "variant of enroll. ", "S": ["commissioned", "enlisted", "entered", "inducted", "installed", "joined", "listed", "pledged", "recorded", "recruited", "subscribed"], "A": []}

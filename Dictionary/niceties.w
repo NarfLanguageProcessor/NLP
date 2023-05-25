@@ -1,1 +1,1 @@
-{"index": 199592, "D": "a delicate or fine point; punctilio", "S": ["conveniences ", "luxuries "], "A": []}
+{"index": 199592, "D": "a delicate or fine point; punctilio", "S": ["conveniences", "luxuries"], "A": []}

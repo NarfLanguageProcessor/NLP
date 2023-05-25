@@ -1,1 +1,1 @@
-{"index": 169199, "D": "a person who has been honored for achieving distinction in a particular field or with a particular award", "S": ["laureate ", "major poet "], "A": []}
+{"index": 169199, "D": "a person who has been honored for achieving distinction in a particular field or with a particular award", "S": ["laureate", "major poet"], "A": []}

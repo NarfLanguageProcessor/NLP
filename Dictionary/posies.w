@@ -1,1 +1,1 @@
-{"index": 243790, "D": "a flower, nosegay, or bouquet.", "S": ["blossom ", "bouquet ", "boutonniere ", "corsage ", "flower ", "motto ", "nosegay ", "sentiment ", "verse "], "A": []}
+{"index": 243790, "D": "a flower, nosegay, or bouquet.", "S": ["blossom", "bouquet", "boutonniere", "corsage", "flower", "motto", "nosegay", "sentiment", "verse"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 10758, "D": "a colorless, pungent, suffocating, highly water-soluble, gaseous compound, NH3, usually produced by the direct combination of nitrogen and hydrogen gases", "S": ["alkali ", "salts ", "spirits ", "vapor "], "A": []}
+{"index": 10758, "D": "a colorless, pungent, suffocating, highly water-soluble, gaseous compound, NH3, usually produced by the direct combination of nitrogen and hydrogen gases", "S": ["alkali", "salts", "spirits", "vapor"], "A": []}

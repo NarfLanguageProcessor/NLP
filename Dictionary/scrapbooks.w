@@ -1,1 +1,1 @@
-{"index": 281570, "D": "an album in which pictures, newspaper clippings, etc., may be pasted or mounted.", "S": ["collection "], "A": []}
+{"index": 281570, "D": "an album in which pictures, newspaper clippings, etc., may be pasted or mounted.", "S": ["collection"], "A": []}

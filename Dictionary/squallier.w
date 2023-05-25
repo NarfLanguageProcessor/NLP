@@ -1,1 +1,1 @@
-{"index": 301638, "D": "characterized by squalls. ", "S": ["blowing ", "blustering ", "blustery ", "breezy ", "gusty ", "windy "], "A": []}
+{"index": 301638, "D": "characterized by squalls. ", "S": ["blowing", "blustering", "blustery", "breezy", "gusty", "windy"], "A": []}

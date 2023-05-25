@@ -1,1 +1,1 @@
-{"index": 67898, "D": "convalescing. ", "S": ["consumptive ", "convalescent ", "incurable ", "patient ", "shut-in ", "sufferer "], "A": []}
+{"index": 67898, "D": "convalescing. ", "S": ["consumptive", "convalescent", "incurable", "patient", "shut-in", "sufferer"], "A": []}

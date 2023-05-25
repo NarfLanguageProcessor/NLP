@@ -1,1 +1,1 @@
-{"index": 366990, "D": "like or befitting a woman;  feminine; not masculine or girlish.", "S": ["adulthood ", "coming of age ", "fecundity ", "femininity ", "fertility ", "manfulness ", "manliness ", "masculinity ", "mettle ", "potency ", "virility ", "womanliness "], "A": ["childhood "]}
+{"index": 366990, "D": "like or befitting a woman;  feminine; not masculine or girlish.", "S": ["adulthood", "coming of age", "fecundity", "femininity", "fertility", "manfulness", "manliness", "masculinity", "mettle", "potency", "virility", "womanliness"], "A": ["childhood"]}

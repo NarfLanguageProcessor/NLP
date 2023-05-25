@@ -1,1 +1,1 @@
-{"index": 282190, "D": "to sculpture; carve or model.", "S": ["sculpt "], "A": []}
+{"index": 282190, "D": "to sculpture; carve or model.", "S": ["sculpt"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 161884, "D": "a person who practices the occupation or profession of journalism. ", "S": ["broadcaster ", "columnist ", "commentator ", "correspondent ", "editor ", "press ", "reporter ", "writer "], "A": []}
+{"index": 161884, "D": "a person who practices the occupation or profession of journalism. ", "S": ["broadcaster", "columnist", "commentator", "correspondent", "editor", "press", "reporter", "writer"], "A": []}

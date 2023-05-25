@@ -1,1 +1,1 @@
-{"index": 165701, "D": "a whip with a lash of leather thongs, formerly used in Russia for flogging criminals.", "S": ["cane "], "A": []}
+{"index": 165701, "D": "a whip with a lash of leather thongs, formerly used in Russia for flogging criminals.", "S": ["cane"], "A": []}

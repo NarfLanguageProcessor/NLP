@@ -1,1 +1,1 @@
-{"index": 82493, "D": "to lessen the sensitiveness  of.", "S": ["deaden "], "A": []}
+{"index": 82493, "D": "to lessen the sensitiveness  of.", "S": ["deaden"], "A": []}

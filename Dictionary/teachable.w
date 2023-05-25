@@ -1,1 +1,1 @@
-{"index": 317424, "D": "capable of being instructed, as a person; docile.", "S": ["able ", "amenable ", "apt ", "bright ", "docile ", "eager ", "intelligent ", "qualified ", "skilled ", "smart "], "A": ["slow ", "stupid ", "unskilled "]}
+{"index": 317424, "D": "capable of being instructed, as a person; docile.", "S": ["able", "amenable", "apt", "bright", "docile", "eager", "intelligent", "qualified", "skilled", "smart"], "A": ["slow", "stupid", "unskilled"]}

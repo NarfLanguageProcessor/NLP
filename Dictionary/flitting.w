@@ -1,1 +1,1 @@
-{"index": 114774, "D": "to move lightly and swiftly; fly, dart, or skim along", "S": ["fleeting "], "A": []}
+{"index": 114774, "D": "to move lightly and swiftly; fly, dart, or skim along", "S": ["fleeting"], "A": []}

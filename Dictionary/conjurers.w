@@ -1,1 +1,1 @@
-{"index": 66456, "D": "a person who conjures  spirits or practices magic; magician.", "S": ["enchanter ", "shaman ", "sorcerer ", "sorceress ", "warlock ", "witch ", "wizard "], "A": []}
+{"index": 66456, "D": "a person who conjures  spirits or practices magic; magician.", "S": ["enchanter", "shaman", "sorcerer", "sorceress", "warlock", "witch", "wizard"], "A": []}

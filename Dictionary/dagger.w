@@ -1,1 +1,1 @@
-{"index": 76195, "D": "a short, swordlike weapon with a pointed blade and a handle, used for stabbing.", "S": ["bayonet ", "blade ", "sword "], "A": []}
+{"index": 76195, "D": "a short, swordlike weapon with a pointed blade and a handle, used for stabbing.", "S": ["bayonet", "blade", "sword"], "A": []}

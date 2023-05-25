@@ -1,1 +1,1 @@
-{"index": 263916, "D": "to make or cause to become red. ", "S": ["glowing "], "A": ["inelaborate ", "natural ", "pale ", "pallid ", "plain ", "undecorated ", "white "]}
+{"index": 263916, "D": "to make or cause to become red. ", "S": ["glowing"], "A": ["inelaborate", "natural", "pale", "pallid", "plain", "undecorated", "white"]}

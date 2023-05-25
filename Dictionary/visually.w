@@ -1,1 +1,1 @@
-{"index": 360486, "D": "in a visual  manner; with respect to sight; by sight.", "S": ["visibly "], "A": ["blindly ", "invisibly ", "obscurely "]}
+{"index": 360486, "D": "in a visual  manner; with respect to sight; by sight.", "S": ["visibly"], "A": ["blindly", "invisibly", "obscurely"]}

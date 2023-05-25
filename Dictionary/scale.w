@@ -1,1 +1,1 @@
-{"index": 279398, "D": "one of the hard, bony or dentinal plates, either flat or denticulate, forming the covering of certain other animals, as fishes.", "S": ["extent ", "proportion ", "range ", "rate ", "ratio ", "scope ", "system "], "A": ["part ", "whole ", "disorder ", "disorganization "]}
+{"index": 279398, "D": "one of the hard, bony or dentinal plates, either flat or denticulate, forming the covering of certain other animals, as fishes.", "S": ["extent", "proportion", "range", "rate", "ratio", "scope", "system"], "A": ["part", "whole", "disorder", "disorganization"]}

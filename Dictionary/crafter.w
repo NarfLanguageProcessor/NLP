@@ -1,1 +1,1 @@
-{"index": 71894, "D": [], "S": ["art ", "technique "], "A": ["clumsiness ", "ignorance ", "inability ", "incapacity ", "incompetence ", "ineptitude ", "ineptness "]}
+{"index": 71894, "D": [], "S": ["art", "technique"], "A": ["clumsiness", "ignorance", "inability", "incapacity", "incompetence", "ineptitude", "ineptness"]}

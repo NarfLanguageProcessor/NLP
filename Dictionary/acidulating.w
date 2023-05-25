@@ -1,1 +1,1 @@
-{"index": 2465, "D": "to make somewhat acid. ", "S": ["aggravate ", "annoy ", "disaffect ", "disillusion ", "exacerbate ", "exasperate ", "irritate ", "sour "], "A": ["aid ", "calm ", "comfort ", "help ", "make happy ", "please ", "soothe "]}
+{"index": 2465, "D": "to make somewhat acid. ", "S": ["aggravate", "annoy", "disaffect", "disillusion", "exacerbate", "exasperate", "irritate", "sour"], "A": ["aid", "calm", "comfort", "help", "make happy", "please", "soothe"]}

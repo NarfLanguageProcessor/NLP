@@ -1,1 +1,1 @@
-{"index": 39150, "D": "bowed head; bowed back", "S": ["curved ", "rounded "], "A": []}
+{"index": 39150, "D": "bowed head; bowed back", "S": ["curved", "rounded"], "A": []}

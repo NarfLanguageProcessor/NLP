@@ -1,1 +1,1 @@
-{"index": 59134, "D": "to climb, using both feet and hands; climb with effort or difficulty.", "S": ["climb "], "A": []}
+{"index": 59134, "D": "to climb, using both feet and hands; climb with effort or difficulty.", "S": ["climb"], "A": []}

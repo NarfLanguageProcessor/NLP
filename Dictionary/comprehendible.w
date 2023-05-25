@@ -1,1 +1,1 @@
-{"index": 64840, "D": "capable of being comprehended  or understood; intelligible.", "S": ["coherent ", "explicit ", "intelligible "], "A": ["ambiguous ", "equivocal ", "obscure ", "unintelligible "]}
+{"index": 64840, "D": "capable of being comprehended  or understood; intelligible.", "S": ["coherent", "explicit", "intelligible"], "A": ["ambiguous", "equivocal", "obscure", "unintelligible"]}

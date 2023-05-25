@@ -1,1 +1,1 @@
-{"index": 17845, "D": "a person who is appointed. ", "S": ["delegate ", "representative "], "A": []}
+{"index": 17845, "D": "a person who is appointed. ", "S": ["delegate", "representative"], "A": []}

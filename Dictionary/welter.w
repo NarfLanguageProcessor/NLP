@@ -1,1 +1,1 @@
-{"index": 364100, "D": "to roll, toss, or heave, as waves or the sea.", "S": ["jumble "], "A": ["calm ", "order ", "peace "]}
+{"index": 364100, "D": "to roll, toss, or heave, as waves or the sea.", "S": ["jumble"], "A": ["calm", "order", "peace"]}

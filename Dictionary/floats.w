@@ -1,1 +1,1 @@
-{"index": 114819, "D": "theatre another word for footlights", "S": ["drift ", "glide ", "hang ", "hover ", "ride ", "sail ", "slide ", "swim ", "waft ", "wash "], "A": ["drown ", "sink "]}
+{"index": 114819, "D": "theatre another word for footlights", "S": ["drift", "glide", "hang", "hover", "ride", "sail", "slide", "swim", "waft", "wash"], "A": ["drown", "sink"]}

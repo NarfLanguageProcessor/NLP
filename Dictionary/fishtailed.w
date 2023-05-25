@@ -1,1 +1,1 @@
-{"index": 113402, "D": "to swerve or skid from side to side, as the rear end of a car.", "S": ["fluctuate ", "lurch ", "seesaw ", "teeter ", "vacillate ", "waver ", "wobble "], "A": ["remain ", "stay ", "stabilize ", "steady "]}
+{"index": 113402, "D": "to swerve or skid from side to side, as the rear end of a car.", "S": ["fluctuate", "lurch", "seesaw", "teeter", "vacillate", "waver", "wobble"], "A": ["remain", "stay", "stabilize", "steady"]}

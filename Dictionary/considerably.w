@@ -1,1 +1,1 @@
-{"index": 66800, "D": "to a noteworthy or marked extent; much; noticeably; substantially; amply.", "S": ["appreciably ", "far ", "greatly ", "markedly ", "noticeably ", "rather ", "remarkably ", "somewhat ", "substantially "], "A": ["insignificantly "]}
+{"index": 66800, "D": "to a noteworthy or marked extent; much; noticeably; substantially; amply.", "S": ["appreciably", "far", "greatly", "markedly", "noticeably", "rather", "remarkably", "somewhat", "substantially"], "A": ["insignificantly"]}

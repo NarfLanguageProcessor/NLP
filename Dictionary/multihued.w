@@ -1,1 +1,1 @@
-{"index": 195131, "D": "having the hue  or color as specified (usually used in combination)", "S": ["checkered ", "discolored ", "flecked ", "motley ", "parti-colored ", "speckled ", "spotted ", "stippled ", "variegated "], "A": ["uncolored ", "unspotted "]}
+{"index": 195131, "D": "having the hue  or color as specified (usually used in combination)", "S": ["checkered", "discolored", "flecked", "motley", "parti-colored", "speckled", "spotted", "stippled", "variegated"], "A": ["uncolored", "unspotted"]}

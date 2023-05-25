@@ -1,1 +1,1 @@
-{"index": 104652, "D": "aesthete. ", "S": ["connoisseur ", "dilettante "], "A": []}
+{"index": 104652, "D": "aesthete. ", "S": ["connoisseur", "dilettante"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 319163, "D": "moderately warm; lukewarm", "S": ["dull ", "halfhearted ", "mild ", "unenthusiastic ", "warm "], "A": ["enthusiastic ", "keen "]}
+{"index": 319163, "D": "moderately warm; lukewarm", "S": ["dull", "halfhearted", "mild", "unenthusiastic", "warm"], "A": ["enthusiastic", "keen"]}

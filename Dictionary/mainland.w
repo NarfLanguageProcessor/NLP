@@ -1,1 +1,1 @@
-{"index": 177889, "D": "the principal land of a country, region, etc., as distinguished from adjacent islands or a peninsula", "S": ["continent "], "A": []}
+{"index": 177889, "D": "the principal land of a country, region, etc., as distinguished from adjacent islands or a peninsula", "S": ["continent"], "A": []}

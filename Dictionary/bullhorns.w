@@ -1,1 +1,1 @@
-{"index": 42575, "D": "a directional, high-powered, electrical loudspeaker or megaphone.", "S": ["megaphone ", "public address system "], "A": []}
+{"index": 42575, "D": "a directional, high-powered, electrical loudspeaker or megaphone.", "S": ["megaphone", "public address system"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 130416, "D": "a person who grows  something", "S": ["breeder ", "farmer ", "producer "], "A": []}
+{"index": 130416, "D": "a person who grows  something", "S": ["breeder", "farmer", "producer"], "A": []}

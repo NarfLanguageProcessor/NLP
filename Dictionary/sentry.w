@@ -1,1 +1,1 @@
-{"index": 285517, "D": "a soldier stationed at a place to stand guard and prevent the passage of unauthorized persons, watch for fires, etc., especially a sentinel stationed at a pass, gate, opening in a defense work, or the like.", "S": ["sentinel "], "A": []}
+{"index": 285517, "D": "a soldier stationed at a place to stand guard and prevent the passage of unauthorized persons, watch for fires, etc., especially a sentinel stationed at a pass, gate, opening in a defense work, or the like.", "S": ["sentinel"], "A": []}

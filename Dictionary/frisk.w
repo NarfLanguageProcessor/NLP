@@ -1,1 +1,1 @@
-{"index": 119112, "D": "to dance, leap, skip, or gambol; frolic", "S": ["bounce ", "caper ", "dance ", "frolic ", "gambol ", "hop ", "jump ", "lark ", "leap ", "play ", "prance ", "rollick ", "romp ", "skip ", "sport ", "trip "], "A": ["face "]}
+{"index": 119112, "D": "to dance, leap, skip, or gambol; frolic", "S": ["bounce", "caper", "dance", "frolic", "gambol", "hop", "jump", "lark", "leap", "play", "prance", "rollick", "romp", "skip", "sport", "trip"], "A": ["face"]}

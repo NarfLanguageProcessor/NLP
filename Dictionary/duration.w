@@ -1,1 +1,1 @@
-{"index": 94421, "D": "the length of time something continues or exists (often used with the).", "S": ["continuation ", "extent ", "period ", "span "], "A": ["end ", "stoppage "]}
+{"index": 94421, "D": "the length of time something continues or exists (often used with the).", "S": ["continuation", "extent", "period", "span"], "A": ["end", "stoppage"]}

@@ -1,1 +1,1 @@
-{"index": 108966, "D": "not meant to be taken seriously or literally", "S": ["amusingly ", "jokingly "], "A": []}
+{"index": 108966, "D": "not meant to be taken seriously or literally", "S": ["amusingly", "jokingly"], "A": []}

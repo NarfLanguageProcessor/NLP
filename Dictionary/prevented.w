@@ -1,1 +1,1 @@
-{"index": 250159, "D": "to keep from occurring; avert; hinder", "S": ["blocked ", "interrupted ", "stopped "], "A": []}
+{"index": 250159, "D": "to keep from occurring; avert; hinder", "S": ["blocked", "interrupted", "stopped"], "A": []}

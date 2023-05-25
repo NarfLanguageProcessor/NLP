@@ -1,1 +1,0 @@
-{"index": 189847, "D": "to despise; undervalue; slight; scorn.", "S": [], "A": []}

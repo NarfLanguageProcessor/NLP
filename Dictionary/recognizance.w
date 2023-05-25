@@ -1,1 +1,1 @@
-{"index": 263066, "D": "the sum pledged as surety on such a bond.", "S": ["bond ", "warrant "], "A": ["break "]}
+{"index": 263066, "D": "the sum pledged as surety on such a bond.", "S": ["bond", "warrant"], "A": ["break"]}

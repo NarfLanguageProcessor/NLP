@@ -1,1 +1,1 @@
-{"index": 281701, "D": "a movable or fixed device, usually consisting of a covered frame, that provides shelter, serves as a partition, etc.", "S": ["cover ", "curtain ", "net "], "A": []}
+{"index": 281701, "D": "a movable or fixed device, usually consisting of a covered frame, that provides shelter, serves as a partition, etc.", "S": ["cover", "curtain", "net"], "A": []}

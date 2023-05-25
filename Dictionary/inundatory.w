@@ -1,1 +1,1 @@
-{"index": 156963, "D": "to flood; cover or overspread with water; deluge. ", "S": ["teeming "], "A": []}
+{"index": 156963, "D": "to flood; cover or overspread with water; deluge. ", "S": ["teeming"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 66511, "D": "the act or state of connecting. ", "S": ["chip ", "electronics ", "wiring "], "A": []}
+{"index": 66511, "D": "the act or state of connecting. ", "S": ["chip", "electronics", "wiring"], "A": []}

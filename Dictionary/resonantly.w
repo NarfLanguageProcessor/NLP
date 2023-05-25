@@ -1,1 +1,1 @@
-{"index": 269619, "D": "resounding  or echoing, as sounds", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}
+{"index": 269619, "D": "resounding  or echoing, as sounds", "S": ["aloud", "emphatically", "noisily", "powerfully", "vehemently", "vociferously"], "A": ["inaudibly", "quietly", "silently"]}

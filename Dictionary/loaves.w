@@ -1,1 +1,1 @@
-{"index": 174154, "D": "the plural of loaf1. ", "S": ["bun ", "cake ", "cube ", "dough ", "pastry ", "slab "], "A": []}
+{"index": 174154, "D": "the plural of loaf1. ", "S": ["bun", "cake", "cube", "dough", "pastry", "slab"], "A": []}

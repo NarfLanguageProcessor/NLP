@@ -1,1 +1,1 @@
-{"index": 271170, "D": "to exact punishment or expiation for a wrong on behalf of, especially in a resentful or vindictive spirit", "S": ["attack ", "reprisal ", "retribution ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}
+{"index": 271170, "D": "to exact punishment or expiation for a wrong on behalf of, especially in a resentful or vindictive spirit", "S": ["attack", "reprisal", "retribution", "vengeance"], "A": ["forgiveness", "pardon", "sympathy"]}

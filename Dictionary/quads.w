@@ -1,1 +1,1 @@
-{"index": 257746, "D": "quadriceps muscles.", "S": ["quadrangle ", "quadrant ", "quadruplet "], "A": []}
+{"index": 257746, "D": "quadriceps muscles.", "S": ["quadrangle", "quadrant", "quadruplet"], "A": []}

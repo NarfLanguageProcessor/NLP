@@ -1,1 +1,1 @@
-{"index": 169679, "D": "a tenant under a lease. ", "S": ["occupant "], "A": []}
+{"index": 169679, "D": "a tenant under a lease. ", "S": ["occupant"], "A": []}

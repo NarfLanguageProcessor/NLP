@@ -1,1 +1,1 @@
-{"index": 113611, "D": "to repair; mend. ", "S": ["dilemma ", "mess "], "A": ["solution ", "advantage ", "good fortune "]}
+{"index": 113611, "D": "to repair; mend. ", "S": ["dilemma", "mess"], "A": ["solution", "advantage", "good fortune"]}

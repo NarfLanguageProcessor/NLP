@@ -1,1 +1,1 @@
-{"index": 61483, "D": "cross-eyed. ", "S": ["absurd ", "askance ", "askant ", "asymmetrical ", "awry ", "cam ", "canted ", "crazy ", "crooked ", "cross-eyed ", "lopsided ", "ludicrous ", "nonsensical ", "preposterous ", "squint ", "strabismic "], "A": ["level ", "straight "]}
+{"index": 61483, "D": "cross-eyed. ", "S": ["absurd", "askance", "askant", "asymmetrical", "awry", "cam", "canted", "crazy", "crooked", "cross-eyed", "lopsided", "ludicrous", "nonsensical", "preposterous", "squint", "strabismic"], "A": ["level", "straight"]}

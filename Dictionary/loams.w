@@ -1,1 +1,1 @@
-{"index": 174112, "D": "a rich, friable soil containing a relatively equal mixture of sand and silt and a somewhat smaller proportion of clay.", "S": ["brick ", "earth ", "mud ", "terra cotta "], "A": []}
+{"index": 174112, "D": "a rich, friable soil containing a relatively equal mixture of sand and silt and a somewhat smaller proportion of clay.", "S": ["brick", "earth", "mud", "terra cotta"], "A": []}

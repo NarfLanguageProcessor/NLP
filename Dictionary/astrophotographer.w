@@ -1,1 +1,1 @@
-{"index": 22329, "D": "the photography  of stars and other celestial objects.", "S": ["astrophysicist ", "cosmologist "], "A": []}
+{"index": 22329, "D": "the photography  of stars and other celestial objects.", "S": ["astrophysicist", "cosmologist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 90864, "D": "(in a book) a corner of a page folded over like a dog's ear, as by careless use, or to mark a place.", "S": ["crinkle ", "pleat ", "pucker ", "wrinkle "], "A": ["smooth ", "straighten "]}
+{"index": 90864, "D": "(in a book) a corner of a page folded over like a dog's ear, as by careless use, or to mark a place.", "S": ["crinkle", "pleat", "pucker", "wrinkle"], "A": ["smooth", "straighten"]}

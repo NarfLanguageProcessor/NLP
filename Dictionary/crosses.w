@@ -1,1 +1,1 @@
-{"index": 73806, "D": "a long-handled racket used in the game of lacrosse.", "S": ["annoyed ", "caviling ", "faultfinding ", "peeved ", "short ", "vexed "], "A": ["animated ", "cheerful ", "happy ", "pleasant "]}
+{"index": 73806, "D": "a long-handled racket used in the game of lacrosse.", "S": ["annoyed", "caviling", "faultfinding", "peeved", "short", "vexed"], "A": ["animated", "cheerful", "happy", "pleasant"]}

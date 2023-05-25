@@ -1,1 +1,1 @@
-{"index": 306729, "D": "having the stubs of stalks left after a crop has been cut and harvested", "S": ["shaggy ", "unshaven "], "A": []}
+{"index": 306729, "D": "having the stubs of stalks left after a crop has been cut and harvested", "S": ["shaggy", "unshaven"], "A": []}

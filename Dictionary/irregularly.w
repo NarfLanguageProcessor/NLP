@@ -1,1 +1,1 @@
-{"index": 158258, "D": "without symmetry, even shape, formal arrangement, etc.", "S": ["erratically ", "fitfully ", "haphazardly ", "infrequently ", "sporadically ", "unevenly "], "A": ["evenly ", "regularly "]}
+{"index": 158258, "D": "without symmetry, even shape, formal arrangement, etc.", "S": ["erratically", "fitfully", "haphazardly", "infrequently", "sporadically", "unevenly"], "A": ["evenly", "regularly"]}

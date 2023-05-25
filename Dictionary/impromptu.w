@@ -1,1 +1,1 @@
-{"index": 149155, "D": "made or done without previous preparation", "S": ["offhand ", "spontaneous ", "unscripted "], "A": ["deliberate ", "planned "]}
+{"index": 149155, "D": "made or done without previous preparation", "S": ["offhand", "spontaneous", "unscripted"], "A": ["deliberate", "planned"]}

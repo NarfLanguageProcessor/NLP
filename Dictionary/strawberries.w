@@ -1,1 +1,1 @@
-{"index": 305927, "D": "the fruit of any stemless plant belonging to the genus Fragaria, of the rose family, consisting of an enlarged fleshy receptacle bearing achenes on its exterior.", "S": ["blond "], "A": ["brunet ", "brunette "]}
+{"index": 305927, "D": "the fruit of any stemless plant belonging to the genus Fragaria, of the rose family, consisting of an enlarged fleshy receptacle bearing achenes on its exterior.", "S": ["blond"], "A": ["brunet", "brunette"]}

@@ -1,1 +1,1 @@
-{"index": 38904, "D": "simple past tense and past participle of buy. ", "S": ["acquired ", "procured "], "A": ["given away ", "pawned ", "sold "]}
+{"index": 38904, "D": "simple past tense and past participle of buy. ", "S": ["acquired", "procured"], "A": ["given away", "pawned", "sold"]}

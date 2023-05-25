@@ -1,1 +1,1 @@
-{"index": 56974, "D": "any large homopterous insect of the family Cicadidae, the male of which produces a shrill sound by means of vibrating membranes on the underside of the abdomen.", "S": ["grasshopper "], "A": []}
+{"index": 56974, "D": "any large homopterous insect of the family Cicadidae, the male of which produces a shrill sound by means of vibrating membranes on the underside of the abdomen.", "S": ["grasshopper"], "A": []}

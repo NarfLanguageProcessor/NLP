@@ -1,1 +1,1 @@
-{"index": 190371, "D": "full of mistrust;  suspicious.", "S": ["leery ", "skeptical ", "suspicious ", "wary "], "A": []}
+{"index": 190371, "D": "full of mistrust;  suspicious.", "S": ["leery", "skeptical", "suspicious", "wary"], "A": []}

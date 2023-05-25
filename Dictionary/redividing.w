@@ -1,1 +1,1 @@
-{"index": 264317, "D": "to separate into parts, groups, sections, etc.", "S": ["part ", "partition ", "separate ", "split "], "A": ["combine ", "join ", "unite "]}
+{"index": 264317, "D": "to separate into parts, groups, sections, etc.", "S": ["part", "partition", "separate", "split"], "A": ["combine", "join", "unite"]}

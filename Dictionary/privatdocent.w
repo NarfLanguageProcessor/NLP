@@ -1,1 +1,0 @@
-{"index": 250835, "D": "(in German and certain other universities) a private teacher or lecturer recognized by the university but receiving no compensation from it, being remunerated by fees.", "S": [], "A": []}

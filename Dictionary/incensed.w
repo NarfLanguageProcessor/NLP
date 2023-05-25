@@ -1,1 +1,1 @@
-{"index": 149764, "D": "inflamed with anger; enraged", "S": ["dogged ", "enraged ", "exasperated ", "indignant ", "infuriated ", "irate ", "miffed "], "A": ["happy ", "pleased "]}
+{"index": 149764, "D": "inflamed with anger; enraged", "S": ["dogged", "enraged", "exasperated", "indignant", "infuriated", "irate", "miffed"], "A": ["happy", "pleased"]}

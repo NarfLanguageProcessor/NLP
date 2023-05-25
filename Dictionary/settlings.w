@@ -1,1 +1,1 @@
-{"index": 286693, "D": "any matter or substance that has settled at the bottom of a liquid; sediment; dregs", "S": ["alluvium ", "delta ", "deposition ", "dregs ", "drift ", "grounds ", "lees ", "precipitate ", "precipitation ", "sediment ", "silt "], "A": ["debit ", "withdrawal "]}
+{"index": 286693, "D": "any matter or substance that has settled at the bottom of a liquid; sediment; dregs", "S": ["alluvium", "delta", "deposition", "dregs", "drift", "grounds", "lees", "precipitate", "precipitation", "sediment", "silt"], "A": ["debit", "withdrawal"]}

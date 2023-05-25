@@ -1,1 +1,1 @@
-{"index": 83586, "D": "departing from the most direct way; circuitous; indirect", "S": ["artfulness ", "chicanery ", "craftiness ", "crookedness ", "cunning ", "foxiness ", "shadiness ", "shiftiness ", "slyness ", "sneakiness ", "trickery ", "trickiness "], "A": []}
+{"index": 83586, "D": "departing from the most direct way; circuitous; indirect", "S": ["artfulness", "chicanery", "craftiness", "crookedness", "cunning", "foxiness", "shadiness", "shiftiness", "slyness", "sneakiness", "trickery", "trickiness"], "A": []}

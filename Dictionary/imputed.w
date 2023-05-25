@@ -1,1 +1,1 @@
-{"index": 149297, "D": "estimated to have a certain cash value, although no money has been received or credited.", "S": ["accused ", "charged ", "claimed "], "A": []}
+{"index": 149297, "D": "estimated to have a certain cash value, although no money has been received or credited.", "S": ["accused", "charged", "claimed"], "A": []}

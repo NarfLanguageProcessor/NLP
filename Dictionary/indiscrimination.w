@@ -1,1 +1,1 @@
-{"index": 151087, "D": "an act or instance of not discriminating.", "S": ["lewdness ", "looseness "], "A": []}
+{"index": 151087, "D": "an act or instance of not discriminating.", "S": ["lewdness", "looseness"], "A": []}

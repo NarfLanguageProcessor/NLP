@@ -1,1 +1,1 @@
-{"index": 133002, "D": "shaped, formed, or ornamented by a metalworker's hammer", "S": ["formed ", "milled ", "pounded ", "rolled ", "shaped ", "stamped ", "tamped ", "tramped ", "trodden ", "worked "], "A": []}
+{"index": 133002, "D": "shaped, formed, or ornamented by a metalworker's hammer", "S": ["formed", "milled", "pounded", "rolled", "shaped", "stamped", "tamped", "tramped", "trodden", "worked"], "A": []}

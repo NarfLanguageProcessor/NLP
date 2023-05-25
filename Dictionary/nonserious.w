@@ -1,1 +1,1 @@
-{"index": 207189, "D": "of, showing, or characterized by deep thought.", "S": ["foolish ", "idiotic ", "impractical ", "petty ", "pointless ", "senseless "], "A": ["intelligent ", "sensible ", "wise "]}
+{"index": 207189, "D": "of, showing, or characterized by deep thought.", "S": ["foolish", "idiotic", "impractical", "petty", "pointless", "senseless"], "A": ["intelligent", "sensible", "wise"]}

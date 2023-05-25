@@ -1,1 +1,1 @@
-{"index": 243270, "D": "a person or thing that pops. ", "S": ["turnon "], "A": []}
+{"index": 243270, "D": "a person or thing that pops. ", "S": ["turnon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 294537, "D": "indisposed to action or exertion; lacking in energy; lazy; indolent", "S": ["densely ", "dimly ", "lethargically ", "listlessly ", "obtusely ", "slowly "], "A": []}
+{"index": 294537, "D": "indisposed to action or exertion; lacking in energy; lazy; indolent", "S": ["densely", "dimly", "lethargically", "listlessly", "obtusely", "slowly"], "A": []}

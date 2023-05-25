@@ -1,1 +1,1 @@
-{"index": 43805, "D": "a low, vibrating, humming sound, as of bees, machinery, or people talking.", "S": ["cooked ", "drunk ", "inebriated ", "intoxicated ", "sloshed ", "smashed ", "wasted ", "zonked "], "A": []}
+{"index": 43805, "D": "a low, vibrating, humming sound, as of bees, machinery, or people talking.", "S": ["cooked", "drunk", "inebriated", "intoxicated", "sloshed", "smashed", "wasted", "zonked"], "A": []}

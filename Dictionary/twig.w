@@ -1,1 +1,1 @@
-{"index": 333316, "D": "a slender shoot of a tree or other plant.", "S": ["limb ", "sprig "], "A": ["source "]}
+{"index": 333316, "D": "a slender shoot of a tree or other plant.", "S": ["limb", "sprig"], "A": ["source"]}

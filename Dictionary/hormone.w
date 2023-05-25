@@ -1,1 +1,1 @@
-{"index": 143820, "D": "any of various internally secreted compounds, as insulin or thyroxine, formed in endocrine glands, that affect the functions of specifically receptive organs or tissues when transported to them by the body fluids.", "S": ["condom ", "diaphragm ", "pill "], "A": []}
+{"index": 143820, "D": "any of various internally secreted compounds, as insulin or thyroxine, formed in endocrine glands, that affect the functions of specifically receptive organs or tissues when transported to them by the body fluids.", "S": ["condom", "diaphragm", "pill"], "A": []}

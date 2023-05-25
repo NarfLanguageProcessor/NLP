@@ -1,1 +1,1 @@
-{"index": 37668, "D": "a round mass of medicinal material, larger than an ordinary pill. Abbreviation", "S": ["dose ", "pellet ", "pill "], "A": []}
+{"index": 37668, "D": "a round mass of medicinal material, larger than an ordinary pill. Abbreviation", "S": ["dose", "pellet", "pill"], "A": []}

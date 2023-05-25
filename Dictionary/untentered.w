@@ -1,1 +1,0 @@
-{"index": 352828, "D": "a framework on which cloth in the process of manufacture is stretched so it may set or dry evenly.", "S": [], "A": []}

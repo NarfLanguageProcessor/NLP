@@ -1,1 +1,1 @@
-{"index": 209450, "D": "a lump of something, as of precious metal.", "S": ["bullion ", "chunk ", "clod ", "clump ", "gold ", "hunk ", "ingot ", "mass ", "plum ", "rock ", "treasure ", "wad "], "A": []}
+{"index": 209450, "D": "a lump of something, as of precious metal.", "S": ["bullion", "chunk", "clod", "clump", "gold", "hunk", "ingot", "mass", "plum", "rock", "treasure", "wad"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 118407, "D": "plainness of speech; candor; openness. ", "S": ["candor ", "honesty ", "sincerity "], "A": ["artifice ", "deception ", "dishonesty ", "falsehood ", "lying "]}
+{"index": 118407, "D": "plainness of speech; candor; openness. ", "S": ["candor", "honesty", "sincerity"], "A": ["artifice", "deception", "dishonesty", "falsehood", "lying"]}

@@ -1,1 +1,1 @@
-{"index": 130199, "D": "simple past tense and past participle of groove. ", "S": ["addicted "], "A": ["abnormal ", "unaccustomed ", "unusual "]}
+{"index": 130199, "D": "simple past tense and past participle of groove. ", "S": ["addicted"], "A": ["abnormal", "unaccustomed", "unusual"]}

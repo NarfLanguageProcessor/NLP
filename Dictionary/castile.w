@@ -1,1 +1,1 @@
-{"index": 49083, "D": "a former kingdom comprising most of Spain.", "S": ["detergent ", "soapsuds "], "A": []}
+{"index": 49083, "D": "a former kingdom comprising most of Spain.", "S": ["detergent", "soapsuds"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 313047, "D": "according to what is falsely claimed, assumed, or imagined", "S": ["allegedly ", "apparently ", "probably ", "purportedly "], "A": ["improbably ", "unlikely "]}
+{"index": 313047, "D": "according to what is falsely claimed, assumed, or imagined", "S": ["allegedly", "apparently", "probably", "purportedly"], "A": ["improbably", "unlikely"]}

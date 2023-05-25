@@ -1,1 +1,1 @@
-{"index": 46481, "D": "a member of a Christian community of women living under a rule but not under a vow.", "S": ["sister "], "A": ["monk "]}
+{"index": 46481, "D": "a member of a Christian community of women living under a rule but not under a vow.", "S": ["sister"], "A": ["monk"]}

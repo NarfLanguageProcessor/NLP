@@ -1,1 +1,1 @@
-{"index": 327271, "D": "adherence to tradition as authority, especially in matters of religion.", "S": ["moderation ", "orthodoxy "], "A": []}
+{"index": 327271, "D": "adherence to tradition as authority, especially in matters of religion.", "S": ["moderation", "orthodoxy"], "A": []}

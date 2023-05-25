@@ -1,1 +1,1 @@
-{"index": 329018, "D": "long locks or curls of hair.", "S": ["braid "], "A": []}
+{"index": 329018, "D": "long locks or curls of hair.", "S": ["braid"], "A": []}

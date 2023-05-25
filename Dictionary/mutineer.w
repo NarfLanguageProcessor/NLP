@@ -1,1 +1,1 @@
-{"index": 196281, "D": "a person who mutinies. ", "S": ["insurgent "], "A": []}
+{"index": 196281, "D": "a person who mutinies. ", "S": ["insurgent"], "A": []}

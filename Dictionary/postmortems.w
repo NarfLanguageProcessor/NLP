@@ -1,1 +1,1 @@
-{"index": 244319, "D": "of, relating to, or occurring in the time following death.", "S": ["posthumous "], "A": []}
+{"index": 244319, "D": "of, relating to, or occurring in the time following death.", "S": ["posthumous"], "A": []}

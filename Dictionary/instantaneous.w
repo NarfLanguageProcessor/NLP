@@ -1,1 +1,1 @@
-{"index": 153850, "D": "occurring, done, or completed in an instant", "S": ["rapid ", "spontaneous ", "transitory "], "A": ["delayed ", "eventual ", "late ", "later "]}
+{"index": 153850, "D": "occurring, done, or completed in an instant", "S": ["rapid", "spontaneous", "transitory"], "A": ["delayed", "eventual", "late", "later"]}

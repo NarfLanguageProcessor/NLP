@@ -1,1 +1,1 @@
-{"index": 335943, "D": "not having been made or become white or lighter through exposure to sunlight or by the action of chemical agents, etc", "S": ["pure ", "raw "], "A": ["formal ", "gentle "]}
+{"index": 335943, "D": "not having been made or become white or lighter through exposure to sunlight or by the action of chemical agents, etc", "S": ["pure", "raw"], "A": ["formal", "gentle"]}

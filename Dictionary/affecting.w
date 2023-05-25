@@ -1,1 +1,1 @@
-{"index": 5310, "D": "moving or exciting the feelings or emotions.", "S": ["poignant ", "stirring ", "touching "], "A": []}
+{"index": 5310, "D": "moving or exciting the feelings or emotions.", "S": ["poignant", "stirring", "touching"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 306805, "D": "the workroom or atelier of an artist, as a painter or sculptor.", "S": ["gallery ", "salon "], "A": []}
+{"index": 306805, "D": "the workroom or atelier of an artist, as a painter or sculptor.", "S": ["gallery", "salon"], "A": []}

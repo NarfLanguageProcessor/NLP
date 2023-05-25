@@ -1,1 +1,1 @@
-{"index": 246653, "D": "to date  before the actual time; antedate", "S": ["anticipate ", "foreshadow ", "outrank ", "presage "], "A": ["end ", "finish ", "follow ", "obey "]}
+{"index": 246653, "D": "to date  before the actual time; antedate", "S": ["anticipate", "foreshadow", "outrank", "presage"], "A": ["end", "finish", "follow", "obey"]}

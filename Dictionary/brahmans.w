@@ -1,1 +1,1 @@
-{"index": 39677, "D": "Compare Kshatriya, Shudra, Vaisya. ", "S": ["Brahman ", "aristocrat ", "noble ", "nobleman ", "patrician ", "silk-stocking ", "thoroughbred ", "titled person ", "upper-cruster "], "A": []}
+{"index": 39677, "D": "Compare Kshatriya, Shudra, Vaisya. ", "S": ["Brahman", "aristocrat", "noble", "nobleman", "patrician", "silk-stocking", "thoroughbred", "titled person", "upper-cruster"], "A": []}

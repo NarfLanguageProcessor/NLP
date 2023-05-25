@@ -1,1 +1,1 @@
-{"index": 332791, "D": "the act of turning in a different or opposite direction.", "S": ["U-turn ", "change of direction ", "flip-flop ", "reversal ", "turnaround "], "A": []}
+{"index": 332791, "D": "the act of turning in a different or opposite direction.", "S": ["U-turn", "change of direction", "flip-flop", "reversal", "turnaround"], "A": []}

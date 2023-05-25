@@ -1,1 +1,1 @@
-{"index": 158042, "D": "annoying; irritating; exasperating; tiresome", "S": ["irritation "], "A": ["aid ", "calmness ", "comfort ", "ease ", "happiness ", "health ", "help ", "pleasure "]}
+{"index": 158042, "D": "annoying; irritating; exasperating; tiresome", "S": ["irritation"], "A": ["aid", "calmness", "comfort", "ease", "happiness", "health", "help", "pleasure"]}

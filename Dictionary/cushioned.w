@@ -1,1 +1,1 @@
-{"index": 75636, "D": "a soft bag of cloth, leather, or rubber, filled with feathers, air, foam rubber, etc., on which to sit, kneel, or lie.", "S": ["quilted "], "A": []}
+{"index": 75636, "D": "a soft bag of cloth, leather, or rubber, filled with feathers, air, foam rubber, etc., on which to sit, kneel, or lie.", "S": ["quilted"], "A": []}

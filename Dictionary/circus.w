@@ -1,1 +1,1 @@
-{"index": 58298, "D": "Compare big top. ", "S": ["festival ", "spectacle "], "A": []}
+{"index": 58298, "D": "Compare big top. ", "S": ["festival", "spectacle"], "A": []}

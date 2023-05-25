@@ -1,1 +1,1 @@
-{"index": 154217, "D": "Compare whole number. ", "S": ["everyone ", "everything ", "group ", "total "], "A": ["none ", "zero ", "zilch ", "zip "]}
+{"index": 154217, "D": "Compare whole number. ", "S": ["everyone", "everything", "group", "total"], "A": ["none", "zero", "zilch", "zip"]}

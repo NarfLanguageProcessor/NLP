@@ -1,1 +1,1 @@
-{"index": 92201, "D": "the downward stroke of a conductor's arm or baton indicating the first or accented beat of a measure.", "S": ["clip ", "momentum ", "progress ", "rate ", "time ", "velocity "], "A": ["slowness "]}
+{"index": 92201, "D": "the downward stroke of a conductor's arm or baton indicating the first or accented beat of a measure.", "S": ["clip", "momentum", "progress", "rate", "time", "velocity"], "A": ["slowness"]}

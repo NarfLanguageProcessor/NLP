@@ -1,1 +1,1 @@
-{"index": 116669, "D": "forgather. ", "S": ["appear ", "gather ", "join ", "open ", "show ", "sit "], "A": ["separate ", "disperse ", "scatter ", "spread "]}
+{"index": 116669, "D": "forgather. ", "S": ["appear", "gather", "join", "open", "show", "sit"], "A": ["separate", "disperse", "scatter", "spread"]}

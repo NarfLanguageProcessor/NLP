@@ -1,1 +1,1 @@
-{"index": 85829, "D": "extension in time", "S": ["aspect ", "element ", "extent ", "height ", "importance ", "length ", "magnitude ", "proportion ", "quality ", "range ", "scope ", "size ", "thickness "], "A": ["insignificance ", "unimportance "]}
+{"index": 85829, "D": "extension in time", "S": ["aspect", "element", "extent", "height", "importance", "length", "magnitude", "proportion", "quality", "range", "scope", "size", "thickness"], "A": ["insignificance", "unimportance"]}

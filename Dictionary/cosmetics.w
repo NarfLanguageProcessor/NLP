@@ -1,1 +1,1 @@
-{"index": 70014, "D": "a powder, lotion, lipstick, rouge, or other preparation for beautifying the face, skin, hair, nails, etc.", "S": ["balm ", "cosmetic ", "cream ", "ointment ", "salve "], "A": []}
+{"index": 70014, "D": "a powder, lotion, lipstick, rouge, or other preparation for beautifying the face, skin, hair, nails, etc.", "S": ["balm", "cosmetic", "cream", "ointment", "salve"], "A": []}

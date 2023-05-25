@@ -1,1 +1,1 @@
-{"index": 190087, "D": "a written message; letter.", "S": ["memo ", "memorandum "], "A": ["silence ", "speech "]}
+{"index": 190087, "D": "a written message; letter.", "S": ["memo", "memorandum"], "A": ["silence", "speech"]}

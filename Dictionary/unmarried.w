@@ -1,1 +1,1 @@
-{"index": 346038, "D": "an unmarried mother", "S": ["eligible ", "widowed "], "A": ["married ", "wed "]}
+{"index": 346038, "D": "an unmarried mother", "S": ["eligible", "widowed"], "A": ["married", "wed"]}

@@ -1,1 +1,1 @@
-{"index": 229105, "D": "cross, querulous, or fretful, as from vexation or discontent", "S": ["bile ", "petulance ", "spleen "], "A": []}
+{"index": 229105, "D": "cross, querulous, or fretful, as from vexation or discontent", "S": ["bile", "petulance", "spleen"], "A": []}

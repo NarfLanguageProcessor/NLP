@@ -1,1 +1,1 @@
-{"index": 229668, "D": "the male organ of copulation and, in mammals, of urinary excretion.", "S": ["member ", "weenie "], "A": []}
+{"index": 229668, "D": "the male organ of copulation and, in mammals, of urinary excretion.", "S": ["member", "weenie"], "A": []}

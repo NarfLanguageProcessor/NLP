@@ -1,1 +1,1 @@
-{"index": 144925, "D": "something intended to delude or deceive.", "S": ["BS ", "babble ", "balderdash ", "baloney ", "bull ", "bunk ", "drivel ", "gibberish ", "hogwash ", "hooey ", "poppycock ", "pretense ", "rubbish ", "silliness ", "trash "], "A": ["sense ", "truth "]}
+{"index": 144925, "D": "something intended to delude or deceive.", "S": ["BS", "babble", "balderdash", "baloney", "bull", "bunk", "drivel", "gibberish", "hogwash", "hooey", "poppycock", "pretense", "rubbish", "silliness", "trash"], "A": ["sense", "truth"]}

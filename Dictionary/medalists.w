@@ -1,1 +1,1 @@
-{"index": 181960, "D": "a person to whom a medal  has been awarded.", "S": ["challenger ", "champ ", "defender ", "hero ", "number one ", "winner "], "A": ["antagonist ", "enemy ", "loser ", "opponent ", "opposition "]}
+{"index": 181960, "D": "a person to whom a medal  has been awarded.", "S": ["challenger", "champ", "defender", "hero", "number one", "winner"], "A": ["antagonist", "enemy", "loser", "opponent", "opposition"]}

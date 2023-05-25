@@ -1,1 +1,1 @@
-{"index": 350219, "D": "without harm or injury", "S": ["alarmingly ", "critically ", "desperately ", "perilously ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}
+{"index": 350219, "D": "without harm or injury", "S": ["alarmingly", "critically", "desperately", "perilously", "precariously", "recklessly", "seriously", "severely"], "A": ["lightly"]}

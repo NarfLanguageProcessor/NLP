@@ -1,1 +1,1 @@
-{"index": 294410, "D": "to sit or stand with an awkward, drooping posture.", "S": ["bum ", "good-for-nothing ", "idler ", "lazybones ", "loafer ", "wastrel "], "A": []}
+{"index": 294410, "D": "to sit or stand with an awkward, drooping posture.", "S": ["bum", "good-for-nothing", "idler", "lazybones", "loafer", "wastrel"], "A": []}

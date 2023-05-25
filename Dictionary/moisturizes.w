@@ -1,1 +1,1 @@
-{"index": 191363, "D": "to add or restore moisture  to (something)", "S": ["dampen ", "drench ", "rinse ", "saturate ", "soak ", "sprinkle ", "squirt ", "steam ", "wash ", "wet "], "A": ["dehydrate ", "dry "]}
+{"index": 191363, "D": "to add or restore moisture  to (something)", "S": ["dampen", "drench", "rinse", "saturate", "soak", "sprinkle", "squirt", "steam", "wash", "wet"], "A": ["dehydrate", "dry"]}

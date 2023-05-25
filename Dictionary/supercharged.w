@@ -1,1 +1,1 @@
-{"index": 311511, "D": "equipped with a supercharger. ", "S": ["gassed-up ", "high geared ", "high performance ", "high-speed ", "hopped-up ", "pepped-up ", "pumped-up ", "revved-up ", "speedy "], "A": []}
+{"index": 311511, "D": "equipped with a supercharger. ", "S": ["gassed-up", "high geared", "high performance", "high-speed", "hopped-up", "pepped-up", "pumped-up", "revved-up", "speedy"], "A": []}

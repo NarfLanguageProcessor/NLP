@@ -1,1 +1,1 @@
-{"index": 219181, "D": "to emphasize  excessively.", "S": ["embellish "], "A": ["abridge ", "compress ", "condense ", "contract ", "curtail ", "decrease ", "diminish ", "lessen ", "lower ", "reduce ", "shorten ", "shrink ", "simplify "]}
+{"index": 219181, "D": "to emphasize  excessively.", "S": ["embellish"], "A": ["abridge", "compress", "condense", "contract", "curtail", "decrease", "diminish", "lessen", "lower", "reduce", "shorten", "shrink", "simplify"]}

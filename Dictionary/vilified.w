@@ -1,1 +1,1 @@
-{"index": 359684, "D": "to speak ill of; defame; slander.", "S": ["aggrieved ", "disgraced ", "humiliated ", "outraged ", "shamed "], "A": ["complimented ", "flattered ", "praised "]}
+{"index": 359684, "D": "to speak ill of; defame; slander.", "S": ["aggrieved", "disgraced", "humiliated", "outraged", "shamed"], "A": ["complimented", "flattered", "praised"]}

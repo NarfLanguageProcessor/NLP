@@ -1,1 +1,1 @@
-{"index": 333059, "D": "the act of guarding, protecting, or guiding; office or function of a guardian; guardianship.", "S": ["guidance "], "A": ["ignorance "]}
+{"index": 333059, "D": "the act of guarding, protecting, or guiding; office or function of a guardian; guardianship.", "S": ["guidance"], "A": ["ignorance"]}

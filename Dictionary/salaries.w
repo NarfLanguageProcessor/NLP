@@ -1,1 +1,1 @@
-{"index": 276959, "D": "a fixed compensation periodically paid to a person for regular work or services.", "S": ["earnings ", "fee ", "income ", "pay ", "payroll ", "stipend ", "wage "], "A": ["bills ", "debt "]}
+{"index": 276959, "D": "a fixed compensation periodically paid to a person for regular work or services.", "S": ["earnings", "fee", "income", "pay", "payroll", "stipend", "wage"], "A": ["bills", "debt"]}

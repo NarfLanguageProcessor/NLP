@@ -1,1 +1,1 @@
-{"index": 276224, "D": "sucrose. ", "S": ["carbohydrate "], "A": []}
+{"index": 276224, "D": "sucrose. ", "S": ["carbohydrate"], "A": []}

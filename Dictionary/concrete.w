@@ -1,1 +1,1 @@
-{"index": 65446, "D": "Compare reinforced concrete. ", "S": ["detailed ", "material ", "objective ", "particular ", "real ", "solid ", "specific "], "A": ["general ", "indefinite ", "unimportant "]}
+{"index": 65446, "D": "Compare reinforced concrete. ", "S": ["detailed", "material", "objective", "particular", "real", "solid", "specific"], "A": ["general", "indefinite", "unimportant"]}

@@ -1,1 +1,1 @@
-{"index": 147603, "D": "to form a mental image  of (something not actually present to the senses).", "S": ["imaginary "], "A": []}
+{"index": 147603, "D": "to form a mental image  of (something not actually present to the senses).", "S": ["imaginary"], "A": []}

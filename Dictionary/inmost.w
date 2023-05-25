@@ -1,1 +1,1 @@
-{"index": 153004, "D": "situated farthest within", "S": ["deepest ", "inner ", "innermost ", "interior "], "A": []}
+{"index": 153004, "D": "situated farthest within", "S": ["deepest", "inner", "innermost", "interior"], "A": []}

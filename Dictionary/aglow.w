@@ -1,1 +1,1 @@
-{"index": 6274, "D": "glowing", "S": ["aflame "], "A": ["dark ", "dim ", "dull ", "unexcited "]}
+{"index": 6274, "D": "glowing", "S": ["aflame"], "A": ["dark", "dim", "dull", "unexcited"]}

@@ -1,1 +1,1 @@
-{"index": 290002, "D": "any of six practice shots allowed to each competitor in a tournament", "S": ["eye ", "optic ", "sight ", "visual "], "A": []}
+{"index": 290002, "D": "any of six practice shots allowed to each competitor in a tournament", "S": ["eye", "optic", "sight", "visual"], "A": []}

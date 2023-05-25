@@ -1,1 +1,1 @@
-{"index": 219126, "D": "to eat  too much", "S": ["gluttony ", "overindulgence ", "voraciousness ", "voracity "], "A": []}
+{"index": 219126, "D": "to eat  too much", "S": ["gluttony", "overindulgence", "voraciousness", "voracity"], "A": []}

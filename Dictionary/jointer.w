@@ -1,1 +1,1 @@
-{"index": 161621, "D": "a person or thing that joints. ", "S": ["collective ", "concerted ", "cooperative "], "A": ["divided ", "separate ", "uncoordinated ", "separated "]}
+{"index": 161621, "D": "a person or thing that joints. ", "S": ["collective", "concerted", "cooperative"], "A": ["divided", "separate", "uncoordinated", "separated"]}

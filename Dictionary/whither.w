@@ -1,1 +1,1 @@
-{"index": 365204, "D": "to what place? where?", "S": ["to what place ", "where "], "A": []}
+{"index": 365204, "D": "to what place? where?", "S": ["to what place", "where"], "A": []}

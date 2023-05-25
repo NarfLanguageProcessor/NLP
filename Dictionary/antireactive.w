@@ -1,0 +1,1 @@
+{"index": 16052, "D": "tending to react. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 285974, "D": "calm, peaceful, or tranquil; unruffled", "S": ["coolly ", "easily ", "peacefully ", "smoothly "], "A": []}
+{"index": 285974, "D": "calm, peaceful, or tranquil; unruffled", "S": ["coolly", "easily", "peacefully", "smoothly"], "A": []}

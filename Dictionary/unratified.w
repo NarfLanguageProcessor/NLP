@@ -1,1 +1,1 @@
-{"index": 349056, "D": "confirmed by formal or authoritative consent or approval", "S": ["null "], "A": ["worthy "]}
+{"index": 349056, "D": "confirmed by formal or authoritative consent or approval", "S": ["null"], "A": ["worthy"]}

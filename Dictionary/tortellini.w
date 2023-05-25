@@ -1,1 +1,1 @@
-{"index": 326309, "D": "small rounds of pasta, filled, as with a meat or cheese stuffing, and then shaped into rings and boiled", "S": ["penne ", "spaghetti "], "A": []}
+{"index": 326309, "D": "small rounds of pasta, filled, as with a meat or cheese stuffing, and then shaped into rings and boiled", "S": ["penne", "spaghetti"], "A": []}

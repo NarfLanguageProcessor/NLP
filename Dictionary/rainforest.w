@@ -1,1 +1,1 @@
-{"index": 260093, "D": "a tropical forest, usually of tall, densely growing, broad-leaved evergreen trees in an area of high annual rainfall.", "S": ["jungle ", "tropical rain forest "], "A": []}
+{"index": 260093, "D": "a tropical forest, usually of tall, densely growing, broad-leaved evergreen trees in an area of high annual rainfall.", "S": ["jungle", "tropical rain forest"], "A": []}

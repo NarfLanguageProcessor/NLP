@@ -1,1 +1,1 @@
-{"index": 365705, "D": "a highly flammable composition, as Greek fire, difficult to extinguish when ignited, formerly used in warfare.", "S": ["bonfire ", "conflagration ", "flame "], "A": []}
+{"index": 365705, "D": "a highly flammable composition, as Greek fire, difficult to extinguish when ignited, formerly used in warfare.", "S": ["bonfire", "conflagration", "flame"], "A": []}

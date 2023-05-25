@@ -1,1 +1,1 @@
-{"index": 112471, "D": "of the nature of or involving a figure of speech,  especially a metaphor; metaphorical and not literal", "S": ["allegorical ", "descriptive ", "fanciful ", "florid ", "metaphoric ", "metaphorical ", "pictorial "], "A": ["literal ", "real ", "straightforward "]}
+{"index": 112471, "D": "of the nature of or involving a figure of speech,  especially a metaphor; metaphorical and not literal", "S": ["allegorical", "descriptive", "fanciful", "florid", "metaphoric", "metaphorical", "pictorial"], "A": ["literal", "real", "straightforward"]}

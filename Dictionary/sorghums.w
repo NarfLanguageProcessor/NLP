@@ -1,1 +1,1 @@
-{"index": 297596, "D": "a cereal grass, Sorghum bicolor (or S. vulgare), having broad, cornlike leaves and a tall, pithy stem bearing the grain in a dense terminal cluster.", "S": ["maple syrup ", "molasses "], "A": []}
+{"index": 297596, "D": "a cereal grass, Sorghum bicolor (or S. vulgare), having broad, cornlike leaves and a tall, pithy stem bearing the grain in a dense terminal cluster.", "S": ["maple syrup", "molasses"], "A": []}

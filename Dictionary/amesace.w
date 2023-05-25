@@ -1,0 +1,1 @@
+{"index": 10334, "D": "a variant spelling of ambsace", "S": [], "A": []}

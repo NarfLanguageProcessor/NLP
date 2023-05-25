@@ -1,1 +1,1 @@
-{"index": 119201, "D": "frizz1. ", "S": ["coiled ", "curled ", "fuzzy ", "kinky ", "wavy "], "A": ["straight "]}
+{"index": 119201, "D": "frizz1. ", "S": ["coiled", "curled", "fuzzy", "kinky", "wavy"], "A": ["straight"]}

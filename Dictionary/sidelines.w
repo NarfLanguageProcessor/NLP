@@ -1,1 +1,1 @@
-{"index": 289761, "D": "the area immediately outside the playing area, where substitute players sit", "S": ["distraction ", "diversion ", "hobby ", "moonlighting ", "recreation ", "subsidiary "], "A": ["profession ", "vocation ", "work "]}
+{"index": 289761, "D": "the area immediately outside the playing area, where substitute players sit", "S": ["distraction", "diversion", "hobby", "moonlighting", "recreation", "subsidiary"], "A": ["profession", "vocation", "work"]}

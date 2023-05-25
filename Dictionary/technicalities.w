@@ -1,1 +1,1 @@
-{"index": 317648, "D": "technical  character.", "S": ["minutiae "], "A": []}
+{"index": 317648, "D": "technical  character.", "S": ["minutiae"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 236850, "D": "a small, usually inflammatory swelling or elevation of the skin; papule or pustule.", "S": ["acne ", "blemish ", "blister ", "lump "], "A": []}
+{"index": 236850, "D": "a small, usually inflammatory swelling or elevation of the skin; papule or pustule.", "S": ["acne", "blemish", "blister", "lump"], "A": []}

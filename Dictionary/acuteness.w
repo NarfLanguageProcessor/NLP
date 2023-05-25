@@ -1,1 +1,1 @@
-{"index": 3378, "D": "sharpness or intensity", "S": ["fierceness ", "forcefulness ", "severity "], "A": []}
+{"index": 3378, "D": "sharpness or intensity", "S": ["fierceness", "forcefulness", "severity"], "A": []}

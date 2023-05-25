@@ -1,1 +1,1 @@
-{"index": 269611, "D": "to come to a definite or earnest decision about; determine (to do something)", "S": ["boldness ", "courage ", "firmness ", "intention ", "steadfastness ", "will ", "willpower "], "A": ["cowardice ", "fear ", "weakness "]}
+{"index": 269611, "D": "to come to a definite or earnest decision about; determine (to do something)", "S": ["boldness", "courage", "firmness", "intention", "steadfastness", "will", "willpower"], "A": ["cowardice", "fear", "weakness"]}

@@ -1,1 +1,1 @@
-{"index": 350255, "D": "receiving a salary", "S": ["contributed ", "donated ", "due ", "freewilled ", "gratuitous ", "honorary ", "uncompensated ", "unindemnified ", "unrecompensed ", "unremunerated ", "unrewarded ", "voluntary ", "volunteer "], "A": []}
+{"index": 350255, "D": "receiving a salary", "S": ["contributed", "donated", "due", "freewilled", "gratuitous", "honorary", "uncompensated", "unindemnified", "unrecompensed", "unremunerated", "unrewarded", "voluntary", "volunteer"], "A": []}

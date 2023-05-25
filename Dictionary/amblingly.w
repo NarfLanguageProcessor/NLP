@@ -1,0 +1,1 @@
+{"index": 10061, "D": "to go at a slow, easy pace; stroll; saunter", "S": [], "A": []}

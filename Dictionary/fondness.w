@@ -1,1 +1,1 @@
-{"index": 116038, "D": "the state or quality of being fond. ", "S": ["affection ", "devotion ", "penchant ", "predilection ", "preference ", "soft spot ", "tenderness "], "A": ["animosity ", "antipathy ", "dislike ", "hate ", "hatred ", "ill will ", "indifference "]}
+{"index": 116038, "D": "the state or quality of being fond. ", "S": ["affection", "devotion", "penchant", "predilection", "preference", "soft spot", "tenderness"], "A": ["animosity", "antipathy", "dislike", "hate", "hatred", "ill will", "indifference"]}

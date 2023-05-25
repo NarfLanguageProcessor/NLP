@@ -1,1 +1,1 @@
-{"index": 288356, "D": "a disease caused by the varicella-zoster virus, especially by reactivated virus in an older person, characterized by skin eruptions and pain along the course of involved sensory nerves.", "S": ["coast ", "shore ", "waterfront "], "A": []}
+{"index": 288356, "D": "a disease caused by the varicella-zoster virus, especially by reactivated virus in an older person, characterized by skin eruptions and pain along the course of involved sensory nerves.", "S": ["coast", "shore", "waterfront"], "A": []}

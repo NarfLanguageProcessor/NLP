@@ -1,1 +1,1 @@
-{"index": 261311, "D": "rapture or ecstasy.", "S": ["elation ", "euphoria ", "happiness ", "joy ", "rapture "], "A": ["depression ", "misery ", "sadness ", "sorrow ", "unhappiness ", "woe ", "apathy ", "calmness ", "coolness ", "hell ", "indifference "]}
+{"index": 261311, "D": "rapture or ecstasy.", "S": ["elation", "euphoria", "happiness", "joy", "rapture"], "A": ["depression", "misery", "sadness", "sorrow", "unhappiness", "woe", "apathy", "calmness", "coolness", "hell", "indifference"]}

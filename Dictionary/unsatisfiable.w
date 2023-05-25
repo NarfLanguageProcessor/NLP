@@ -1,1 +1,1 @@
-{"index": 350381, "D": "to fulfill the desires, expectations, needs, or demands of (a person, the mind, etc.); give full contentment to", "S": ["insistent ", "rapacious ", "ravenous ", "urgent "], "A": ["fulfilled ", "full ", "pleased ", "satisfied "]}
+{"index": 350381, "D": "to fulfill the desires, expectations, needs, or demands of (a person, the mind, etc.); give full contentment to", "S": ["insistent", "rapacious", "ravenous", "urgent"], "A": ["fulfilled", "full", "pleased", "satisfied"]}

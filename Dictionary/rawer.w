@@ -1,1 +1,1 @@
-{"index": 261318, "D": "uncooked, as articles of food", "S": ["basic ", "coarse ", "crude ", "fresh ", "natural ", "organic ", "rough ", "uncooked ", "undercooked ", "unprocessed ", "untreated "], "A": ["cooked ", "done ", "well-done "]}
+{"index": 261318, "D": "uncooked, as articles of food", "S": ["basic", "coarse", "crude", "fresh", "natural", "organic", "rough", "uncooked", "undercooked", "unprocessed", "untreated"], "A": ["cooked", "done", "well-done"]}

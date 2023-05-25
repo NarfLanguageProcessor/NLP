@@ -1,1 +1,1 @@
-{"index": 117410, "D": [], "S": ["build ", "depend on ", "found on ", "hinge on ", "place on ", "rest on ", "stand on "], "A": []}
+{"index": 117410, "D": [], "S": ["build", "depend on", "found on", "hinge on", "place on", "rest on", "stand on"], "A": []}

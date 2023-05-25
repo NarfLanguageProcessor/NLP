@@ -1,0 +1,1 @@
+{"index": 3594, "D": "a speech or written statement, usually formal, directed to a particular group of persons", "S": ["forward", "send"], "A": ["hold", "keep", "receive", "retain"]}

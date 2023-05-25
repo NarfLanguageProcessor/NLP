@@ -1,1 +1,1 @@
-{"index": 20768, "D": [], "S": ["come ", "contact ", "match ", "meet ", "near ", "reach ", "surround ", "threaten "], "A": ["avoid ", "depart ", "go ", "leave ", "miss ", "decrease ", "retreat ", "retrogress ", "stop "]}
+{"index": 20768, "D": [], "S": ["come", "contact", "match", "meet", "near", "reach", "surround", "threaten"], "A": ["avoid", "depart", "go", "leave", "miss", "decrease", "retreat", "retrogress", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 65824, "D": "the act of conferring  or bestowing; conferment", "S": ["bestowal ", "bestowment ", "presentation "], "A": []}
+{"index": 65824, "D": "the act of conferring  or bestowing; conferment", "S": ["bestowal", "bestowment", "presentation"], "A": []}

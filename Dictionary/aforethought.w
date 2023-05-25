@@ -1,0 +1,1 @@
+{"index": 5564, "D": "thought  of previously; premeditated (usually used predicatively)", "S": ["studied", "treated"], "A": ["disregarded", "forgotten", "neglected", "unplanned", "unstudied"]}

@@ -1,1 +1,1 @@
-{"index": 244093, "D": "succeeding or future generations collectively", "S": ["breed ", "brood ", "children ", "descendants ", "family ", "heirs ", "issue ", "lineage ", "offspring ", "progeny ", "scions ", "seed ", "stock ", "successors "], "A": ["parent "]}
+{"index": 244093, "D": "succeeding or future generations collectively", "S": ["breed", "brood", "children", "descendants", "family", "heirs", "issue", "lineage", "offspring", "progeny", "scions", "seed", "stock", "successors"], "A": ["parent"]}

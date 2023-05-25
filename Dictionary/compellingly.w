@@ -1,1 +1,1 @@
-{"index": 64494, "D": "to force or drive, especially to a course of action", "S": ["eagerly ", "earnestly ", "frantically ", "hastily ", "vigorously "], "A": []}
+{"index": 64494, "D": "to force or drive, especially to a course of action", "S": ["eagerly", "earnestly", "frantically", "hastily", "vigorously"], "A": []}

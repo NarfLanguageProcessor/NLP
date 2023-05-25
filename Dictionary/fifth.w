@@ -1,1 +1,1 @@
-{"index": 112407, "D": "next after the fourth; being the ordinal number for five.", "S": ["quinary ", "quinquennial ", "quintan "], "A": []}
+{"index": 112407, "D": "next after the fourth; being the ordinal number for five.", "S": ["quinary", "quinquennial", "quintan"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 262453, "D": "a blunt or abrupt rejection, as of a person making advances.", "S": ["rebuke ", "rejection ", "reprimand ", "snub "], "A": ["praise ", "approval ", "compliment "]}
+{"index": 262453, "D": "a blunt or abrupt rejection, as of a person making advances.", "S": ["rebuke", "rejection", "reprimand", "snub"], "A": ["praise", "approval", "compliment"]}

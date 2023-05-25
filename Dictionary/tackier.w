@@ -1,1 +1,1 @@
-{"index": 315076, "D": "sticky to the touch; adhesive.", "S": ["dingy ", "faded ", "gaudy ", "messy ", "run down ", "seedy ", "shabby ", "sleazy ", "threadbare ", "vulgar "], "A": ["nice ", "refined ", "respectable "]}
+{"index": 315076, "D": "sticky to the touch; adhesive.", "S": ["dingy", "faded", "gaudy", "messy", "run down", "seedy", "shabby", "sleazy", "threadbare", "vulgar"], "A": ["nice", "refined", "respectable"]}

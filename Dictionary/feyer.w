@@ -1,1 +1,1 @@
-{"index": 110922, "D": "doomed; fated to die.", "S": ["clairvoyant ", "dead ", "elfin ", "fairylike ", "otherworldly ", "visionary ", "whimsical "], "A": []}
+{"index": 110922, "D": "doomed; fated to die.", "S": ["clairvoyant", "dead", "elfin", "fairylike", "otherworldly", "visionary", "whimsical"], "A": []}

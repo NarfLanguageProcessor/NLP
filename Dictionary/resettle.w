@@ -1,1 +1,1 @@
-{"index": 269262, "D": "to settle or cause to settle in a new or different place", "S": ["emigrate ", "graft ", "immigrate ", "remove ", "uproot "], "A": ["plant ", "remain ", "sow ", "stay "]}
+{"index": 269262, "D": "to settle or cause to settle in a new or different place", "S": ["emigrate", "graft", "immigrate", "remove", "uproot"], "A": ["plant", "remain", "sow", "stay"]}

@@ -1,1 +1,1 @@
-{"index": 172914, "D": "a variant of liny. ", "S": ["barred ", "grooved ", "marked ", "ridged ", "striate ", "striated ", "striped ", "tore ", "variegated ", "veined ", "whelked "], "A": []}
+{"index": 172914, "D": "a variant of liny. ", "S": ["barred", "grooved", "marked", "ridged", "striate", "striated", "striped", "tore", "variegated", "veined", "whelked"], "A": []}

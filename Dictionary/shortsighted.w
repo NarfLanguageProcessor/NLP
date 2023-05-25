@@ -1,1 +1,1 @@
-{"index": 288947, "D": "unable to see far; nearsighted; myopic.", "S": ["foolish ", "ill-advised ", "ill-considered ", "impractical ", "imprudent ", "myopic ", "stupid "], "A": ["careful ", "cautious ", "prudent ", "sensible ", "wise "]}
+{"index": 288947, "D": "unable to see far; nearsighted; myopic.", "S": ["foolish", "ill-advised", "ill-considered", "impractical", "imprudent", "myopic", "stupid"], "A": ["careful", "cautious", "prudent", "sensible", "wise"]}

@@ -1,1 +1,1 @@
-{"index": 170121, "D": [], "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}
+{"index": 170121, "D": [], "S": ["congressional", "parliamentary", "senatorial"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 331235, "D": "the regions lying between and near these parallels of latitude; the Torrid Zone and neighboring regions.", "S": ["equator ", "jungle "], "A": []}
+{"index": 331235, "D": "the regions lying between and near these parallels of latitude; the Torrid Zone and neighboring regions.", "S": ["equator", "jungle"], "A": []}

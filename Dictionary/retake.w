@@ -1,1 +1,1 @@
-{"index": 270275, "D": "to take  again; take back.", "S": ["reclaim ", "recover ", "restore ", "take back "], "A": ["harm ", "hurt ", "injure ", "lose "]}
+{"index": 270275, "D": "to take  again; take back.", "S": ["reclaim", "recover", "restore", "take back"], "A": ["harm", "hurt", "injure", "lose"]}

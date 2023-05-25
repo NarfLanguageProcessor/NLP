@@ -1,1 +1,1 @@
-{"index": 142398, "D": "something that holds  or secures", "S": ["buyer ", "landowner ", "partner ", "purchaser "], "A": ["seller "]}
+{"index": 142398, "D": "something that holds  or secures", "S": ["buyer", "landowner", "partner", "purchaser"], "A": ["seller"]}

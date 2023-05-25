@@ -1,1 +1,1 @@
-{"index": 240406, "D": "Compare plumb line. ", "S": ["bottomless ", "fathomless ", "plummetless "], "A": ["infinite ", "low "]}
+{"index": 240406, "D": "Compare plumb line. ", "S": ["bottomless", "fathomless", "plummetless"], "A": ["infinite", "low"]}

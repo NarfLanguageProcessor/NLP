@@ -1,1 +1,1 @@
-{"index": 354763, "D": "the materials used to cushion and cover furniture.", "S": ["cushioning ", "filling ", "padding ", "stuffing "], "A": []}
+{"index": 354763, "D": "the materials used to cushion and cover furniture.", "S": ["cushioning", "filling", "padding", "stuffing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 144652, "D": "the central part of a wheel, as that part into which the spokes are inserted.", "S": ["nerve center "], "A": ["exterior ", "exteriority ", "outside ", "surface "]}
+{"index": 144652, "D": "the central part of a wheel, as that part into which the spokes are inserted.", "S": ["nerve center"], "A": ["exterior", "exteriority", "outside", "surface"]}

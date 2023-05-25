@@ -1,1 +1,1 @@
-{"index": 273863, "D": "of or relating to a king, queen, or other sovereign", "S": ["aristocratic ", "dignified ", "illustrious ", "imperial ", "magnificent ", "noble ", "stately "], "A": ["ignoble ", "lowly ", "poor ", "undignified ", "dishonorable ", "inferior ", "minor ", "submissive "]}
+{"index": 273863, "D": "of or relating to a king, queen, or other sovereign", "S": ["aristocratic", "dignified", "illustrious", "imperial", "magnificent", "noble", "stately"], "A": ["ignoble", "lowly", "poor", "undignified", "dishonorable", "inferior", "minor", "submissive"]}

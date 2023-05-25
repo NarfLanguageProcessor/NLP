@@ -1,1 +1,1 @@
-{"index": 224629, "D": "a person who accosts passers-by on the street, riders on the subway, motorists stopped at red lights, etc., and begs from them", "S": ["almsman ", "almsperson ", "almswoman ", "beggar "], "A": []}
+{"index": 224629, "D": "a person who accosts passers-by on the street, riders on the subway, motorists stopped at red lights, etc., and begs from them", "S": ["almsman", "almsperson", "almswoman", "beggar"], "A": []}

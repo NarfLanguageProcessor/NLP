@@ -1,1 +1,1 @@
-{"index": 322670, "D": "practicing thrift  or economical management; frugal", "S": ["frugal ", "prudent ", "stingy "], "A": ["generous ", "wasteful "]}
+{"index": 322670, "D": "practicing thrift  or economical management; frugal", "S": ["frugal", "prudent", "stingy"], "A": ["generous", "wasteful"]}

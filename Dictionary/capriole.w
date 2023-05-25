@@ -1,1 +1,1 @@
-{"index": 47100, "D": "a caper or leap.", "S": ["bounce ", "dive ", "drop ", "fall ", "hurdle ", "plunge ", "rise ", "upsurge ", "vault "], "A": []}
+{"index": 47100, "D": "a caper or leap.", "S": ["bounce", "dive", "drop", "fall", "hurdle", "plunge", "rise", "upsurge", "vault"], "A": []}

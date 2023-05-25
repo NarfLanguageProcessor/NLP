@@ -1,1 +1,1 @@
-{"index": 153906, "D": "to infuse slowly or gradually into the mind or feelings; insinuate; inject", "S": ["diffuse ", "disseminate ", "engender ", "imbue ", "impart ", "inculcate ", "inject ", "inspire "], "A": ["take out ", "leave alone ", "neglect "]}
+{"index": 153906, "D": "to infuse slowly or gradually into the mind or feelings; insinuate; inject", "S": ["diffuse", "disseminate", "engender", "imbue", "impart", "inculcate", "inject", "inspire"], "A": ["take out", "leave alone", "neglect"]}

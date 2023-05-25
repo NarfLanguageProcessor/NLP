@@ -1,1 +1,1 @@
-{"index": 281738, "D": "an eccentric or irrational person; a nut", "S": ["blockhead ", "bonehead ", "bozo ", "character ", "crackpot ", "dingbat ", "dumbbell ", "eccentric ", "fanatic ", "goof ", "kook ", "lunkhead ", "nut ", "saphead "], "A": []}
+{"index": 281738, "D": "an eccentric or irrational person; a nut", "S": ["blockhead", "bonehead", "bozo", "character", "crackpot", "dingbat", "dumbbell", "eccentric", "fanatic", "goof", "kook", "lunkhead", "nut", "saphead"], "A": []}

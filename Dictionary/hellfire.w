@@ -1,1 +1,1 @@
-{"index": 135704, "D": "the fire of hell.", "S": ["grave ", "mortal "], "A": []}
+{"index": 135704, "D": "the fire of hell.", "S": ["grave", "mortal"], "A": []}

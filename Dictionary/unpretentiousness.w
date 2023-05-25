@@ -1,1 +1,1 @@
-{"index": 348434, "D": "not pretentious;  modest; without ostentatious display; plain", "S": ["discreetness ", "humbleness ", "plainness ", "simpleness ", "simplicity ", "unassumingness "], "A": []}
+{"index": 348434, "D": "not pretentious;  modest; without ostentatious display; plain", "S": ["discreetness", "humbleness", "plainness", "simpleness", "simplicity", "unassumingness"], "A": []}

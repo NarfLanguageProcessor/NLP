@@ -1,1 +1,1 @@
-{"index": 122254, "D": "garrote. ", "S": ["assassinate ", "behead ", "butcher ", "decapitate ", "destroy ", "execute ", "exterminate ", "lynch ", "massacre ", "shoot ", "slaughter ", "slay ", "strangle "], "A": ["bear ", "create ", "give birth ", "heal ", "help ", "preserve ", "save "]}
+{"index": 122254, "D": "garrote. ", "S": ["assassinate", "behead", "butcher", "decapitate", "destroy", "execute", "exterminate", "lynch", "massacre", "shoot", "slaughter", "slay", "strangle"], "A": ["bear", "create", "give birth", "heal", "help", "preserve", "save"]}

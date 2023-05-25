@@ -1,1 +1,1 @@
-{"index": 276293, "D": "a large bag of strong, coarsely woven material, as for grain, potatoes, or coal.", "S": ["discharge ", "dismiss ", "expel ", "fire ", "terminate "], "A": ["employ ", "engage ", "hire ", "hold ", "keep ", "welcome "]}
+{"index": 276293, "D": "a large bag of strong, coarsely woven material, as for grain, potatoes, or coal.", "S": ["discharge", "dismiss", "expel", "fire", "terminate"], "A": ["employ", "engage", "hire", "hold", "keep", "welcome"]}

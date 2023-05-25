@@ -1,1 +1,1 @@
-{"index": 68014, "D": "familiar by use or study (usually followed by with)", "S": ["abreast ", "acquainted ", "knowledgeable ", "practiced ", "proficient ", "skilled ", "versed "], "A": ["ignorant ", "inexperienced "]}
+{"index": 68014, "D": "familiar by use or study (usually followed by with)", "S": ["abreast", "acquainted", "knowledgeable", "practiced", "proficient", "skilled", "versed"], "A": ["ignorant", "inexperienced"]}

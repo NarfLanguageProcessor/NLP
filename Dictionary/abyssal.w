@@ -1,1 +1,1 @@
-{"index": 485, "D": "of or like an abyss; immeasurable; unfathomable. ", "S": ["abysmal ", "cavernous ", "deep ", "immeasurable "], "A": []}
+{"index": 485, "D": "of or like an abyss; immeasurable; unfathomable. ", "S": ["abysmal", "cavernous", "deep", "immeasurable"], "A": []}

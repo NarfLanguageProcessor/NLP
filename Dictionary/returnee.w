@@ -1,1 +1,1 @@
-{"index": 270974, "D": "a person who has returned,  as from travels or a long absence.", "S": ["lost lamb ", "magdalen ", "penitent ", "prodigal ", "prodigal returned "], "A": []}
+{"index": 270974, "D": "a person who has returned,  as from travels or a long absence.", "S": ["lost lamb", "magdalen", "penitent", "prodigal", "prodigal returned"], "A": []}

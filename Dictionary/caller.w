@@ -1,1 +1,1 @@
-{"index": 45267, "D": "a person or thing that calls. ", "S": ["guest "], "A": []}
+{"index": 45267, "D": "a person or thing that calls. ", "S": ["guest"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5514, "D": "insulting; offensive.", "S": [], "A": []}

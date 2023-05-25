@@ -1,1 +1,1 @@
-{"index": 27179, "D": "a railing with supporting balusters.", "S": ["handrail ", "post ", "rail "], "A": []}
+{"index": 27179, "D": "a railing with supporting balusters.", "S": ["handrail", "post", "rail"], "A": []}

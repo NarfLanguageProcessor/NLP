@@ -1,1 +1,1 @@
-{"index": 282444, "D": "designed or fit for going  to sea,  as a vessel.", "S": ["aquatic ", "coastal ", "deep-sea ", "maritime ", "naval ", "saltwater "], "A": []}
+{"index": 282444, "D": "designed or fit for going  to sea,  as a vessel.", "S": ["aquatic", "coastal", "deep-sea", "maritime", "naval", "saltwater"], "A": []}

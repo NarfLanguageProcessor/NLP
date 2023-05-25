@@ -1,1 +1,1 @@
-{"index": 262394, "D": "to bound or spring back from force of impact.", "S": ["exchanged ", "reappeared ", "refunded ", "repaid ", "repeated ", "reverberated ", "revolved "], "A": ["held ", "kept ", "retained "]}
+{"index": 262394, "D": "to bound or spring back from force of impact.", "S": ["exchanged", "reappeared", "refunded", "repaid", "repeated", "reverberated", "revolved"], "A": ["held", "kept", "retained"]}

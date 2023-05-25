@@ -1,1 +1,1 @@
-{"index": 102046, "D": "a rapier with a three-sided blade and a guard over the tip.", "S": ["blade ", "dagger ", "weapon "], "A": []}
+{"index": 102046, "D": "a rapier with a three-sided blade and a guard over the tip.", "S": ["blade", "dagger", "weapon"], "A": []}

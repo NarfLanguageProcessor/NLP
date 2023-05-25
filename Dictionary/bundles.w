@@ -1,1 +1,1 @@
-{"index": 42823, "D": "several objects or a quantity of material gathered or bound together", "S": ["bags ", "barrels ", "bunches ", "gobs ", "heaps ", "jillion ", "loads ", "lots ", "oodles ", "piles ", "plenty ", "scores ", "stacks ", "tons ", "zillions "], "A": ["little "]}
+{"index": 42823, "D": "several objects or a quantity of material gathered or bound together", "S": ["bags", "barrels", "bunches", "gobs", "heaps", "jillion", "loads", "lots", "oodles", "piles", "plenty", "scores", "stacks", "tons", "zillions"], "A": ["little"]}

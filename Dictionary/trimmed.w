@@ -1,1 +1,1 @@
-{"index": 330070, "D": "to put into a neat or orderly condition by clipping, paring, pruning, etc.", "S": ["coiffed ", "cropped ", "cut ", "shortened "], "A": []}
+{"index": 330070, "D": "to put into a neat or orderly condition by clipping, paring, pruning, etc.", "S": ["coiffed", "cropped", "cut", "shortened"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 361842, "D": "the action, spirit, or language of a wag;  roguish or droll humor", "S": ["buffoonery ", "facetiousness ", "foolishness ", "jest ", "pleasantry ", "raillery ", "whimsicality ", "whimsy "], "A": ["seriousness "]}

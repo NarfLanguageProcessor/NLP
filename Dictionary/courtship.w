@@ -1,1 +1,1 @@
-{"index": 71377, "D": "the wooing of one person by another.", "S": ["courting ", "engagement ", "pursuit "], "A": ["surrender "]}
+{"index": 71377, "D": "the wooing of one person by another.", "S": ["courting", "engagement", "pursuit"], "A": ["surrender"]}

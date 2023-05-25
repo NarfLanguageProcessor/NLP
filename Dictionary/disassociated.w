@@ -1,1 +1,1 @@
-{"index": 87113, "D": "to dissociate. ", "S": ["free ", "independent ", "isolated ", "sovereign "], "A": ["subservient ", "connected ", "united "]}
+{"index": 87113, "D": "to dissociate. ", "S": ["free", "independent", "isolated", "sovereign"], "A": ["subservient", "connected", "united"]}

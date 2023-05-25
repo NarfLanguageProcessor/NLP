@@ -1,1 +1,0 @@
-{"index": 252345, "D": "a copy of the script of a play, containing cues and notes, used by the prompter,  stage manager, etc.", "S": [], "A": []}

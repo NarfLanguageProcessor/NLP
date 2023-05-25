@@ -1,1 +1,0 @@
-{"index": 225838, "D": "noting or pertaining to an organization operating as, in place of, or as a supplement to a regular military  force", "S": [], "A": []}

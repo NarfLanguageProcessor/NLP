@@ -1,1 +1,1 @@
-{"index": 187903, "D": "the act, process, or industry of extracting ores, coal, etc., from mines. ", "S": ["drilling "], "A": []}
+{"index": 187903, "D": "the act, process, or industry of extracting ores, coal, etc., from mines. ", "S": ["drilling"], "A": []}

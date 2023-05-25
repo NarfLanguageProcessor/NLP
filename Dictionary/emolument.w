@@ -1,1 +1,1 @@
-{"index": 98629, "D": "profit, salary, or fees from office or employment; compensation for services", "S": ["compensation ", "pay ", "profit ", "returns "], "A": ["loss "]}
+{"index": 98629, "D": "profit, salary, or fees from office or employment; compensation for services", "S": ["compensation", "pay", "profit", "returns"], "A": ["loss"]}

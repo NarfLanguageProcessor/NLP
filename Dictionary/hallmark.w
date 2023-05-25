@@ -1,1 +1,1 @@
-{"index": 132723, "D": "an official mark or stamp indicating a standard of purity, used in marking gold and silver articles assayed by the Goldsmiths' Company of London; plate mark.", "S": ["indication ", "trademark "], "A": ["disapproval "]}
+{"index": 132723, "D": "an official mark or stamp indicating a standard of purity, used in marking gold and silver articles assayed by the Goldsmiths' Company of London; plate mark.", "S": ["indication", "trademark"], "A": ["disapproval"]}

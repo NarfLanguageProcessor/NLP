@@ -1,1 +1,1 @@
-{"index": 169410, "D": "a medicine or agent for relieving constipation.", "S": ["cathartic ", "purgative "], "A": []}
+{"index": 169410, "D": "a medicine or agent for relieving constipation.", "S": ["cathartic", "purgative"], "A": []}

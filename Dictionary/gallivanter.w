@@ -1,1 +1,1 @@
-{"index": 121424, "D": "to wander about, seeking pleasure or diversion; gad. ", "S": ["rover "], "A": []}
+{"index": 121424, "D": "to wander about, seeking pleasure or diversion; gad. ", "S": ["rover"], "A": []}

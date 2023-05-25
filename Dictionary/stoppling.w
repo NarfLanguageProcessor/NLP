@@ -1,1 +1,1 @@
-{"index": 305364, "D": "a stopper, especially for a bottle.", "S": ["clog ", "fill ", "pack ", "seal "], "A": ["open ", "allow ", "begin ", "continue ", "help ", "let go ", "release ", "start ", "unblock "]}
+{"index": 305364, "D": "a stopper, especially for a bottle.", "S": ["clog", "fill", "pack", "seal"], "A": ["open", "allow", "begin", "continue", "help", "let go", "release", "start", "unblock"]}

@@ -1,1 +1,1 @@
-{"index": 176005, "D": "a song used to lull a child to sleep; cradlesong.", "S": ["berceuse ", "music ", "song "], "A": []}
+{"index": 176005, "D": "a song used to lull a child to sleep; cradlesong.", "S": ["berceuse", "music", "song"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 189385, "D": "misled; mistaken", "S": ["confused ", "erroneous ", "foolish ", "misplaced ", "mistaken ", "unreasonable ", "unwarranted ", "unwise "], "A": ["correct ", "reasonable ", "right ", "sensible ", "thoughtful ", "true ", "wise "]}
+{"index": 189385, "D": "misled; mistaken", "S": ["confused", "erroneous", "foolish", "misplaced", "mistaken", "unreasonable", "unwarranted", "unwise"], "A": ["correct", "reasonable", "right", "sensible", "thoughtful", "true", "wise"]}

@@ -1,1 +1,1 @@
-{"index": 359573, "D": "an instance of seeing or beholding; visual inspection.", "S": ["attended ", "checked ", "detected ", "noticed ", "realized ", "recognized "], "A": ["abandoned ", "desecrated ", "forgotten ", "unnoticed ", "unperceived ", "unseen "]}
+{"index": 359573, "D": "an instance of seeing or beholding; visual inspection.", "S": ["attended", "checked", "detected", "noticed", "realized", "recognized"], "A": ["abandoned", "desecrated", "forgotten", "unnoticed", "unperceived", "unseen"]}

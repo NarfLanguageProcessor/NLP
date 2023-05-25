@@ -1,1 +1,1 @@
-{"index": 275697, "D": [], "S": ["dwarf ", "dwarfed ", "scrub ", "short ", "shot ", "shrimp ", "wee "], "A": ["large "]}
+{"index": 275697, "D": [], "S": ["dwarf", "dwarfed", "scrub", "short", "shot", "shrimp", "wee"], "A": ["large"]}

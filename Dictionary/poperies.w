@@ -1,1 +1,1 @@
-{"index": 243216, "D": "the Roman Catholic Church, especially its doctrines, ceremonies, and system of government.", "S": ["pontiff "], "A": []}
+{"index": 243216, "D": "the Roman Catholic Church, especially its doctrines, ceremonies, and system of government.", "S": ["pontiff"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 358075, "D": "desiring or seeking vengeance;  vindictive", "S": ["brutally ", "cruelly ", "maliciously ", "resentfully ", "ruthlessly ", "spitefully ", "venomously "], "A": []}
+{"index": 358075, "D": "desiring or seeking vengeance;  vindictive", "S": ["brutally", "cruelly", "maliciously", "resentfully", "ruthlessly", "spitefully", "venomously"], "A": []}

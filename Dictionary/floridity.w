@@ -1,1 +1,1 @@
-{"index": 115039, "D": "reddish; ruddy; rosy", "S": ["adornment ", "coloring ", "embroidery ", "exaggeration ", "ornamentation "], "A": ["plainness "]}
+{"index": 115039, "D": "reddish; ruddy; rosy", "S": ["adornment", "coloring", "embroidery", "exaggeration", "ornamentation"], "A": ["plainness"]}

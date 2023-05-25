@@ -1,1 +1,1 @@
-{"index": 66200, "D": "the act of conglomerating;  the state of being conglomerated. ", "S": ["agglomeration ", "aggregation ", "mishmash "], "A": []}
+{"index": 66200, "D": "the act of conglomerating;  the state of being conglomerated. ", "S": ["agglomeration", "aggregation", "mishmash"], "A": []}

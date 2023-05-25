@@ -1,1 +1,1 @@
-{"index": 342801, "D": "not carried out or done", "S": ["depressing ", "disconcerting ", "discouraging ", "disheartening ", "distasteful ", "frustrating ", "mediocre ", "unpleasant ", "unsatisfying "], "A": ["agreeable ", "encouraging ", "pleasant ", "pleasing ", "strong "]}
+{"index": 342801, "D": "not carried out or done", "S": ["depressing", "disconcerting", "discouraging", "disheartening", "distasteful", "frustrating", "mediocre", "unpleasant", "unsatisfying"], "A": ["agreeable", "encouraging", "pleasant", "pleasing", "strong"]}

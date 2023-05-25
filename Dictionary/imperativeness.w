@@ -1,1 +1,1 @@
-{"index": 148475, "D": "absolutely necessary or required; unavoidable", "S": ["contingency ", "vicissitude "], "A": ["advantage ", "benefit ", "blessing ", "boon ", "calm ", "comfort ", "ease ", "good ", "good fortune ", "miracle ", "peace ", "pleasure ", "plenty ", "solution "]}
+{"index": 148475, "D": "absolutely necessary or required; unavoidable", "S": ["contingency", "vicissitude"], "A": ["advantage", "benefit", "blessing", "boon", "calm", "comfort", "ease", "good", "good fortune", "miracle", "peace", "pleasure", "plenty", "solution"]}

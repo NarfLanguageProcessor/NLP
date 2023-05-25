@@ -1,1 +1,1 @@
-{"index": 262495, "D": "a representation of a word or phrase by pictures, symbols, etc., that suggest that word or phrase or its syllables", "S": ["conundrum ", "enigma ", "problem ", "question ", "riddle ", "secrecy ", "subtlety ", "thriller "], "A": ["known ", "understanding "]}
+{"index": 262495, "D": "a representation of a word or phrase by pictures, symbols, etc., that suggest that word or phrase or its syllables", "S": ["conundrum", "enigma", "problem", "question", "riddle", "secrecy", "subtlety", "thriller"], "A": ["known", "understanding"]}

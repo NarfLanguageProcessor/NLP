@@ -1,1 +1,1 @@
-{"index": 247543, "D": "the act of preferring. ", "S": ["advance ", "growth ", "improvement ", "upgrading "], "A": ["decrease ", "failure ", "stagnation ", "worsening "]}
+{"index": 247543, "D": "the act of preferring. ", "S": ["advance", "growth", "improvement", "upgrading"], "A": ["decrease", "failure", "stagnation", "worsening"]}

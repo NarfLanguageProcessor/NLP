@@ -1,1 +1,1 @@
-{"index": 29999, "D": "bedroom. ", "S": ["chamber ", "cubicle "], "A": []}
+{"index": 29999, "D": "bedroom. ", "S": ["chamber", "cubicle"], "A": []}

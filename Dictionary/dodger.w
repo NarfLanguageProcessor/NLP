@@ -1,1 +1,1 @@
-{"index": 90781, "D": "a person who dodges. ", "S": ["crafty fellow ", "crafty rascal ", "opportunist ", "smoothie "], "A": []}
+{"index": 90781, "D": "a person who dodges. ", "S": ["crafty fellow", "crafty rascal", "opportunist", "smoothie"], "A": []}

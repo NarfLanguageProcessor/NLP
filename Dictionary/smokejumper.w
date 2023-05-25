@@ -1,1 +1,1 @@
-{"index": 295000, "D": "a firefighter who parachutes to forest fires inaccessible to ground crews.", "S": ["firefighter "], "A": []}
+{"index": 295000, "D": "a firefighter who parachutes to forest fires inaccessible to ground crews.", "S": ["firefighter"], "A": []}

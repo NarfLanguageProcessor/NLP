@@ -1,1 +1,1 @@
-{"index": 62155, "D": "a beverage consisting of a decoction or infusion of the roasted ground or crushed seeds (coffee beans ) of the two-seeded fruit (coffee berry ) of certain coffee trees.", "S": ["caffeine ", "cappuccino ", "espresso "], "A": []}
+{"index": 62155, "D": "a beverage consisting of a decoction or infusion of the roasted ground or crushed seeds (coffee beans ) of the two-seeded fruit (coffee berry ) of certain coffee trees.", "S": ["caffeine", "cappuccino", "espresso"], "A": []}

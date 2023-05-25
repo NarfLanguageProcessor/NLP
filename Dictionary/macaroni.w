@@ -1,1 +1,1 @@
-{"index": 176653, "D": "small, tubular pasta prepared from wheat flour.", "S": ["penne ", "spaghetti ", "tortellini "], "A": []}
+{"index": 176653, "D": "small, tubular pasta prepared from wheat flour.", "S": ["penne", "spaghetti", "tortellini"], "A": []}

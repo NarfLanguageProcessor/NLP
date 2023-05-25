@@ -1,1 +1,1 @@
-{"index": 62503, "D": "artfully or affectedly shy or reserved; slyly hesitant; coquettish. ", "S": ["bashfulness ", "demureness ", "diffidence ", "modesty ", "reserve ", "sheepishness ", "timidity "], "A": ["boldness ", "confidence ", "pride "]}
+{"index": 62503, "D": "artfully or affectedly shy or reserved; slyly hesitant; coquettish. ", "S": ["bashfulness", "demureness", "diffidence", "modesty", "reserve", "sheepishness", "timidity"], "A": ["boldness", "confidence", "pride"]}

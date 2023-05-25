@@ -1,1 +1,1 @@
-{"index": 202162, "D": [], "S": ["demented ", "deprived of one's wits ", "lunatic ", "not of sound mind ", "unbalanced ", "unsound "], "A": []}
+{"index": 202162, "D": [], "S": ["demented", "deprived of one's wits", "lunatic", "not of sound mind", "unbalanced", "unsound"], "A": []}

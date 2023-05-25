@@ -1,1 +1,1 @@
-{"index": 351988, "D": "not steady  or firm; unstable; shaky", "S": ["haphazardly "], "A": ["equally ", "evenly "]}
+{"index": 351988, "D": "not steady  or firm; unstable; shaky", "S": ["haphazardly"], "A": ["equally", "evenly"]}

@@ -1,1 +1,0 @@
-{"index": 266848, "D": "to rent or lease (land, buildings, rooms, space, etc.) again, or to renew a lease or rental agreement for", "S": [], "A": []}

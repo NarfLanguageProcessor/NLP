@@ -1,1 +1,1 @@
-{"index": 171813, "D": "a brand of strong, soft milk cheese with a creamy center, made in small rectangular blocks.", "S": ["Liedertafel ", "a cappella choir ", "choir ", "chorale ", "chorus ", "singing society "], "A": []}
+{"index": 171813, "D": "a brand of strong, soft milk cheese with a creamy center, made in small rectangular blocks.", "S": ["Liedertafel", "a cappella choir", "choir", "chorale", "chorus", "singing society"], "A": []}

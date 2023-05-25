@@ -1,1 +1,1 @@
-{"index": 133714, "D": "metalware typically used for repair or construction, as screws, locks, hinges, or machine parts", "S": ["housewares ", "plumbing "], "A": []}
+{"index": 133714, "D": "metalware typically used for repair or construction, as screws, locks, hinges, or machine parts", "S": ["housewares", "plumbing"], "A": []}

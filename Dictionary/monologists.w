@@ -1,1 +1,1 @@
-{"index": 192401, "D": "a form of dramatic entertainment, comedic solo, or the like by a single speaker", "S": ["announcer ", "elocutionist ", "lector ", "lecturer ", "reciter ", "rhetorician "], "A": []}
+{"index": 192401, "D": "a form of dramatic entertainment, comedic solo, or the like by a single speaker", "S": ["announcer", "elocutionist", "lector", "lecturer", "reciter", "rhetorician"], "A": []}

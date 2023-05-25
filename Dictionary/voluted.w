@@ -1,1 +1,1 @@
-{"index": 361279, "D": "a spiral or twisted formation or object.", "S": ["coiled ", "curled ", "curved ", "folded ", "twisted "], "A": ["straight "]}
+{"index": 361279, "D": "a spiral or twisted formation or object.", "S": ["coiled", "curled", "curved", "folded", "twisted"], "A": ["straight"]}

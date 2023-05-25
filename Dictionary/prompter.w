@@ -1,1 +1,0 @@
-{"index": 252347, "D": "a person or thing that prompts. ", "S": ["efficient ", "expeditious ", "immediate ", "instantaneous ", "precise ", "punctual ", "quick ", "rapid ", "speedy ", "swift ", "timely "], "A": ["delayed ", "late ", "later ", "slow ", "sluggish ", "tardy ", "apathetic ", "lethargic ", "unprepared ", "unwilling "]}

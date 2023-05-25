@@ -1,1 +1,1 @@
-{"index": 270992, "D": "the eldest son of Jacob and Leah. Genesis 29, 30.", "S": ["BLT ", "hero ", "hoagy ", "sub "], "A": []}
+{"index": 270992, "D": "the eldest son of Jacob and Leah. Genesis 29, 30.", "S": ["BLT", "hero", "hoagy", "sub"], "A": []}

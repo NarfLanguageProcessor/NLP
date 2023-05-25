@@ -1,1 +1,1 @@
-{"index": 145605, "D": "a foot of two syllables, a short followed by a long in quantitative meter, or an unstressed followed by a stressed in accentual meter, as in Come live / with me / and be / my love.", "S": ["blank verse ", "dactylic hexameter ", "iambus "], "A": []}
+{"index": 145605, "D": "a foot of two syllables, a short followed by a long in quantitative meter, or an unstressed followed by a stressed in accentual meter, as in Come live / with me / and be / my love.", "S": ["blank verse", "dactylic hexameter", "iambus"], "A": []}

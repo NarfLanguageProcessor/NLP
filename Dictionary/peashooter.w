@@ -1,1 +1,1 @@
-{"index": 228509, "D": "a tube through which dried peas,  beans, or small pellets are blown, used as a toy.", "S": ["cannon ", "handgun ", "hardware ", "mortar ", "piece ", "pistol ", "revolver ", "rifle ", "shotgun "], "A": []}
+{"index": 228509, "D": "a tube through which dried peas,  beans, or small pellets are blown, used as a toy.", "S": ["cannon", "handgun", "hardware", "mortar", "piece", "pistol", "revolver", "rifle", "shotgun"], "A": []}

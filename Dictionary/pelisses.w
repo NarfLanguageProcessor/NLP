@@ -1,1 +1,1 @@
-{"index": 229298, "D": "an outer garment lined or trimmed with fur.", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "dolman ", "fichu ", "gabardine ", "mantilla ", "mantle ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}
+{"index": 229298, "D": "an outer garment lined or trimmed with fur.", "S": ["Vandyke", "capote", "cardinal", "cloak", "cope", "dolman", "fichu", "gabardine", "mantilla", "mantle", "poncho", "shawl", "tabard", "tippet", "wrap", "wrapper"], "A": []}

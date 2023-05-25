@@ -1,1 +1,1 @@
-{"index": 274989, "D": "roaming or wandering.", "S": ["itinerant ", "peripatetic ", "wandering "], "A": ["settled "]}
+{"index": 274989, "D": "roaming or wandering.", "S": ["itinerant", "peripatetic", "wandering"], "A": ["settled"]}

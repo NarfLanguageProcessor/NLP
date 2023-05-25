@@ -1,1 +1,1 @@
-{"index": 42945, "D": "tending to float in a fluid.", "S": ["blithely ", "brightly ", "gaily ", "genially ", "gladly ", "gleefully ", "happily ", "joyfully ", "merrily ", "optimistically ", "playfully ", "pleasantly ", "readily ", "willingly "], "A": ["sadly ", "unhappily "]}
+{"index": 42945, "D": "tending to float in a fluid.", "S": ["blithely", "brightly", "gaily", "genially", "gladly", "gleefully", "happily", "joyfully", "merrily", "optimistically", "playfully", "pleasantly", "readily", "willingly"], "A": ["sadly", "unhappily"]}

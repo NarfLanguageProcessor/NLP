@@ -1,1 +1,1 @@
-{"index": 149716, "D": "embodied in flesh; given a bodily, especially a human, form", "S": ["palpable ", "touchable "], "A": ["abstract ", "conceptual ", "imperceptible ", "intangible ", "unreal "]}
+{"index": 149716, "D": "embodied in flesh; given a bodily, especially a human, form", "S": ["palpable", "touchable"], "A": ["abstract", "conceptual", "imperceptible", "intangible", "unreal"]}

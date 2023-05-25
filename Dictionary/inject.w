@@ -1,1 +1,1 @@
-{"index": 152836, "D": "to force (a fluid) into a passage, cavity, or tissue", "S": ["add ", "implant ", "infuse ", "insert ", "instill ", "interject "], "A": ["remove ", "withdraw ", "take out "]}
+{"index": 152836, "D": "to force (a fluid) into a passage, cavity, or tissue", "S": ["add", "implant", "infuse", "insert", "instill", "interject"], "A": ["remove", "withdraw", "take out"]}

@@ -1,0 +1,1 @@
+{"index": 4038, "D": "an act of adjudicating.", "S": ["conclusion", "decision", "determination", "finding", "pronouncement", "ruling", "settlement", "verdict"], "A": ["beginning", "indecision", "start"]}

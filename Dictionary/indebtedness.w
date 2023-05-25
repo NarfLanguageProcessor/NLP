@@ -1,1 +1,1 @@
-{"index": 150665, "D": "the state of being indebted. ", "S": ["debt ", "liability "], "A": ["asset "]}
+{"index": 150665, "D": "the state of being indebted. ", "S": ["debt", "liability"], "A": ["asset"]}

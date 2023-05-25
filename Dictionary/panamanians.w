@@ -1,1 +1,0 @@
-{"index": 224339, "D": "a republic in southern Central America. 28,575 square miles (74,010 square kilometers).", "S": [], "A": []}

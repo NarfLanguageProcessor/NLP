@@ -1,1 +1,1 @@
-{"index": 273465, "D": "a cockroach.", "S": ["bhang ", "cannabis ", "dope ", "hashish ", "hemp ", "herb ", "tea "], "A": []}
+{"index": 273465, "D": "a cockroach.", "S": ["bhang", "cannabis", "dope", "hashish", "hemp", "herb", "tea"], "A": []}

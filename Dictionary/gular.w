@@ -1,1 +1,1 @@
-{"index": 131164, "D": "of, relating to, or situated in the throat or oesophagus", "S": ["gruff ", "hoarse "], "A": ["soft "]}
+{"index": 131164, "D": "of, relating to, or situated in the throat or oesophagus", "S": ["gruff", "hoarse"], "A": ["soft"]}

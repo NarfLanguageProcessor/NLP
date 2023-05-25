@@ -1,1 +1,1 @@
-{"index": 111195, "D": "low land covered wholly or partially with water; boggy land; a marsh.", "S": ["bog ", "mire ", "moor ", "quagmire ", "wetland "], "A": []}
+{"index": 111195, "D": "low land covered wholly or partially with water; boggy land; a marsh.", "S": ["bog", "mire", "moor", "quagmire", "wetland"], "A": []}

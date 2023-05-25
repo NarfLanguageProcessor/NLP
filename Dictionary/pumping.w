@@ -1,1 +1,1 @@
-{"index": 256523, "D": "the act or process of pumping  or the action of a pump. ", "S": ["drain ", "draw ", "inject ", "pour ", "push ", "send ", "siphon ", "supply ", "tap "], "A": ["compress ", "contract ", "deflate ", "lessen ", "shrink "]}
+{"index": 256523, "D": "the act or process of pumping  or the action of a pump. ", "S": ["drain", "draw", "inject", "pour", "push", "send", "siphon", "supply", "tap"], "A": ["compress", "contract", "deflate", "lessen", "shrink"]}

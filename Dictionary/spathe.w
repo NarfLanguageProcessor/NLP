@@ -1,1 +1,1 @@
-{"index": 298589, "D": "a bract or pair of bracts, often large and colored, subtending or enclosing a spadix or flower cluster.", "S": ["covering "], "A": []}
+{"index": 298589, "D": "a bract or pair of bracts, often large and colored, subtending or enclosing a spadix or flower cluster.", "S": ["covering"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 27188, "D": "a loud thud, as that produced when two objects strike against each other with force.", "S": ["clobber ", "drub ", "pummel ", "smack ", "whack "], "A": ["tap "]}
+{"index": 27188, "D": "a loud thud, as that produced when two objects strike against each other with force.", "S": ["clobber", "drub", "pummel", "smack", "whack"], "A": ["tap"]}

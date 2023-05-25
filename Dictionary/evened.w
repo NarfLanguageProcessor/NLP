@@ -1,1 +1,1 @@
-{"index": 106083, "D": "level; flat; smooth;  without surface irregularities", "S": ["equitable ", "fair "], "A": ["biased ", "partial ", "prejudiced ", "unfair ", "unjust ", "unreasonable "]}
+{"index": 106083, "D": "level; flat; smooth;  without surface irregularities", "S": ["equitable", "fair"], "A": ["biased", "partial", "prejudiced", "unfair", "unjust", "unreasonable"]}

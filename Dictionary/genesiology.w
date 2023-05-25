@@ -1,1 +1,1 @@
-{"index": 123524, "D": [], "S": ["ancestry ", "constitution ", "eugenics ", "genetics ", "inheritance "], "A": ["acquirement "]}
+{"index": 123524, "D": [], "S": ["ancestry", "constitution", "eugenics", "genetics", "inheritance"], "A": ["acquirement"]}

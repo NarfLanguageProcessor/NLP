@@ -1,1 +1,1 @@
-{"index": 322320, "D": "a strip of material, especially of leather or hide, used to fasten or secure something.", "S": ["band ", "lace ", "lash ", "leash ", "rein ", "sandal ", "strap ", "strip ", "twitch ", "whip "], "A": []}
+{"index": 322320, "D": "a strip of material, especially of leather or hide, used to fasten or secure something.", "S": ["band", "lace", "lash", "leash", "rein", "sandal", "strap", "strip", "twitch", "whip"], "A": []}

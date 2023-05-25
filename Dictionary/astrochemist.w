@@ -1,1 +1,1 @@
-{"index": 22232, "D": [], "S": ["astrophysicist ", "cosmologist "], "A": []}
+{"index": 22232, "D": [], "S": ["astrophysicist", "cosmologist"], "A": []}

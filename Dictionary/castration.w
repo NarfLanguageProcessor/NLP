@@ -1,1 +1,1 @@
-{"index": 49124, "D": "the removal of the testes.", "S": ["sterilization "], "A": []}
+{"index": 49124, "D": "the removal of the testes.", "S": ["sterilization"], "A": []}

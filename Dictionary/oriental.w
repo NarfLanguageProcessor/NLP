@@ -1,1 +1,1 @@
-{"index": 214542, "D": "of, relating to, or characteristic of the Orient,  or East, typically East Asia; Eastern. ", "S": ["east ", "eastern "], "A": []}
+{"index": 214542, "D": "of, relating to, or characteristic of the Orient,  or East, typically East Asia; Eastern. ", "S": ["east", "eastern"], "A": []}

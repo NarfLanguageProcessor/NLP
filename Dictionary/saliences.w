@@ -1,1 +1,1 @@
-{"index": 277039, "D": "the state or condition of being salient. ", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}
+{"index": 277039, "D": "the state or condition of being salient. ", "S": ["lump", "nodule", "wart"], "A": ["depression"]}

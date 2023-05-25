@@ -1,1 +1,0 @@
-{"index": 219835, "D": "to indulge  to excess", "S": ["amatory ", "amorous ", "anacreontic ", "ardent ", "brotherly ", "doting ", "enamored ", "erotic ", "fervent ", "fervid ", "impassioned ", "indulgent ", "loving ", "sisterly ", "tender ", "warm "], "A": ["platonic "]}

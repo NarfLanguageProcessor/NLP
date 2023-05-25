@@ -1,1 +1,0 @@
-{"index": 175847, "D": "by good luck; fortunately", "S": ["fortuitously ", "fortunately "], "A": ["unhappily ", "unluckily "]}

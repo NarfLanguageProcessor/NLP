@@ -1,1 +1,1 @@
-{"index": 65767, "D": "to converse informally; chat. ", "S": ["chaffer ", "chat ", "chatter ", "chitchat ", "confab ", "discuss ", "palaver ", "speak ", "talk "], "A": ["be quiet ", "listen "]}
+{"index": 65767, "D": "to converse informally; chat. ", "S": ["chaffer", "chat", "chatter", "chitchat", "confab", "discuss", "palaver", "speak", "talk"], "A": ["be quiet", "listen"]}

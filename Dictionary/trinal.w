@@ -1,1 +1,1 @@
-{"index": 330104, "D": "threefold; triple; trine.", "S": ["ternary ", "third ", "treble ", "trilateral ", "trinitarian ", "triple "], "A": []}
+{"index": 330104, "D": "threefold; triple; trine.", "S": ["ternary", "third", "treble", "trilateral", "trinitarian", "triple"], "A": []}

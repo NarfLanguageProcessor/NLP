@@ -1,1 +1,1 @@
-{"index": 366320, "D": "to rub lightly with or on a cloth, towel, paper, the hand, etc., in order to clean or dry the surface of", "S": ["clean ", "dry ", "dust ", "erase ", "mop ", "obliterate ", "remove ", "rub ", "wash "], "A": ["dirty "]}
+{"index": 366320, "D": "to rub lightly with or on a cloth, towel, paper, the hand, etc., in order to clean or dry the surface of", "S": ["clean", "dry", "dust", "erase", "mop", "obliterate", "remove", "rub", "wash"], "A": ["dirty"]}

@@ -1,1 +1,1 @@
-{"index": 364462, "D": "(an intensive form of whatever)", "S": ["any ", "everything "], "A": []}
+{"index": 364462, "D": "(an intensive form of whatever)", "S": ["any", "everything"], "A": []}

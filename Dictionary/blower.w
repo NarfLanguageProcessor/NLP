@@ -1,1 +1,1 @@
-{"index": 36606, "D": "a person or thing that blows. ", "S": ["blowhard ", "blusterer ", "boaster ", "braggadocio ", "bragger ", "swaggerer ", "vaunter ", "windbag "], "A": []}
+{"index": 36606, "D": "a person or thing that blows. ", "S": ["blowhard", "blusterer", "boaster", "braggadocio", "bragger", "swaggerer", "vaunter", "windbag"], "A": []}

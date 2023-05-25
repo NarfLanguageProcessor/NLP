@@ -1,1 +1,1 @@
-{"index": 270905, "D": "the action, process, or faculty of looking back on things past.", "S": ["consciousness ", "mind ", "recollection ", "remembrance ", "thought "], "A": ["forgetfulness ", "ignorance "]}
+{"index": 270905, "D": "the action, process, or faculty of looking back on things past.", "S": ["consciousness", "mind", "recollection", "remembrance", "thought"], "A": ["forgetfulness", "ignorance"]}

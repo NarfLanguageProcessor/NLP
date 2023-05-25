@@ -1,1 +1,1 @@
-{"index": 151083, "D": "without exercising discernment or making appropriate distinctions", "S": ["aimlessly ", "frantically ", "instinctively ", "madly ", "wildly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}
+{"index": 151083, "D": "without exercising discernment or making appropriate distinctions", "S": ["aimlessly", "frantically", "instinctively", "madly", "wildly"], "A": ["carefully", "cautiously", "considerately", "purposely", "reasonably", "sensibly"]}

@@ -1,1 +1,1 @@
-{"index": 175612, "D": "a person who is uninterested, uninvolved, or uneducated in intellectual activities or pursuits.", "S": ["philistine ", "primitive ", "rough ", "wild "], "A": ["calm ", "mild ", "moderate ", "sophisticated "]}
+{"index": 175612, "D": "a person who is uninterested, uninvolved, or uneducated in intellectual activities or pursuits.", "S": ["philistine", "primitive", "rough", "wild"], "A": ["calm", "mild", "moderate", "sophisticated"]}

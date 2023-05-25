@@ -1,1 +1,1 @@
-{"index": 118884, "D": "a monastery of friars, especially those of a mendicant order.", "S": ["nunnery "], "A": []}
+{"index": 118884, "D": "a monastery of friars, especially those of a mendicant order.", "S": ["nunnery"], "A": []}

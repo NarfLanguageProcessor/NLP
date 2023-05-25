@@ -1,1 +1,1 @@
-{"index": 256457, "D": "to reduce to dust or powder, as by pounding or grinding.", "S": ["shatter "], "A": ["lose ", "surrender "]}
+{"index": 256457, "D": "to reduce to dust or powder, as by pounding or grinding.", "S": ["shatter"], "A": ["lose", "surrender"]}

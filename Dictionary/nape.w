@@ -1,1 +1,1 @@
-{"index": 196817, "D": "the back of the neck (usually used in the phrase nape of the neck).", "S": ["collar "], "A": []}
+{"index": 196817, "D": "the back of the neck (usually used in the phrase nape of the neck).", "S": ["collar"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 228706, "D": "to make peculiar,  unusual, distinguished, etc.", "S": ["define ", "describe ", "identify ", "indicate ", "mark ", "outline ", "portray ", "represent ", "symbolize "], "A": ["confuse ", "mix up "]}
+{"index": 228706, "D": "to make peculiar,  unusual, distinguished, etc.", "S": ["define", "describe", "identify", "indicate", "mark", "outline", "portray", "represent", "symbolize"], "A": ["confuse", "mix up"]}

@@ -1,1 +1,1 @@
-{"index": 248691, "D": "to order for purchase in advance, as before an event, restaurant meal, or release of a product", "S": ["set up "], "A": ["ignore ", "neglect "]}
+{"index": 248691, "D": "to order for purchase in advance, as before an event, restaurant meal, or release of a product", "S": ["set up"], "A": ["ignore", "neglect"]}

@@ -1,1 +1,1 @@
-{"index": 226588, "D": "a way or manner of speaking; vernacular; idiom", "S": ["argot ", "jargon ", "lingo ", "patois ", "vernacular "], "A": ["standard ", "listening ", "silence "]}
+{"index": 226588, "D": "a way or manner of speaking; vernacular; idiom", "S": ["argot", "jargon", "lingo", "patois", "vernacular"], "A": ["standard", "listening", "silence"]}

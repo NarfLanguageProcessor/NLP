@@ -1,1 +1,1 @@
-{"index": 13474, "D": "a record of events, especially a yearly record, usually in chronological order.", "S": ["journal "], "A": []}
+{"index": 13474, "D": "a record of events, especially a yearly record, usually in chronological order.", "S": ["journal"], "A": []}

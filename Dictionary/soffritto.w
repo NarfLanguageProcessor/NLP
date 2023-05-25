@@ -1,1 +1,0 @@
-{"index": 296335, "D": "a base for stews and soups, consisting of hot oil, butter, or fat in which a chopped onion or crushed garlic clove has been browned, often with the addition of chopped parsley, celery, and carrot.", "S": [], "A": []}

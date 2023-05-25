@@ -1,1 +1,1 @@
-{"index": 325476, "D": "the day following today", "S": ["destiny ", "fate ", "millennium ", "outlook ", "prospect "], "A": ["past "]}
+{"index": 325476, "D": "the day following today", "S": ["destiny", "fate", "millennium", "outlook", "prospect"], "A": ["past"]}

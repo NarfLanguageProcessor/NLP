@@ -1,1 +1,1 @@
-{"index": 132922, "D": "tragic flaw. ", "S": ["Achilles' heel ", "failing flaw ", "tragic flaw ", "weak point "], "A": []}
+{"index": 132922, "D": "tragic flaw. ", "S": ["Achilles' heel", "failing flaw", "tragic flaw", "weak point"], "A": []}

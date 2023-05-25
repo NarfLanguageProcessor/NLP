@@ -1,1 +1,1 @@
-{"index": 331359, "D": "an actor, especially a member of a touring company.", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}
+{"index": 331359, "D": "an actor, especially a member of a touring company.", "S": ["artist", "character", "clown", "comedian", "entertainer", "performer", "player", "star", "villain"], "A": ["audience", "fan"]}

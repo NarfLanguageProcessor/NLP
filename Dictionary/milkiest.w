@@ -1,1 +1,1 @@
-{"index": 187234, "D": "of or like milk,  especially in appearance or consistency.", "S": ["frosted ", "opaque ", "pearly "], "A": ["black ", "blackish ", "dark "]}
+{"index": 187234, "D": "of or like milk,  especially in appearance or consistency.", "S": ["frosted", "opaque", "pearly"], "A": ["black", "blackish", "dark"]}

@@ -1,1 +1,1 @@
-{"index": 59269, "D": "pretentious but insincere or empty language", "S": ["bombast ", "bunk ", "drivel ", "nonsense "], "A": ["sense "]}
+{"index": 59269, "D": "pretentious but insincere or empty language", "S": ["bombast", "bunk", "drivel", "nonsense"], "A": ["sense"]}

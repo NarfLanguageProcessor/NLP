@@ -1,1 +1,1 @@
-{"index": 115197, "D": "bearing flowers. ", "S": ["flourishing "], "A": []}
+{"index": 115197, "D": "bearing flowers. ", "S": ["flourishing"], "A": []}

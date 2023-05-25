@@ -1,1 +1,0 @@
-{"index": 329835, "D": "of, relating to, or shaped like a triangle; having three angles; triangular.", "S": ["ternary ", "third ", "treble ", "trilateral ", "trinitarian ", "triple "], "A": []}

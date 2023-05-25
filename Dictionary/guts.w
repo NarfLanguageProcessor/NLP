@@ -1,1 +1,1 @@
-{"index": 131594, "D": "Compare foregut, midgut, hindgut. ", "S": ["audacity ", "grit ", "moxie ", "spunk ", "willpower "], "A": ["cowardice ", "timidity ", "fear ", "weakness "]}
+{"index": 131594, "D": "Compare foregut, midgut, hindgut. ", "S": ["audacity", "grit", "moxie", "spunk", "willpower"], "A": ["cowardice", "timidity", "fear", "weakness"]}

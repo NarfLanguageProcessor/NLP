@@ -1,1 +1,1 @@
-{"index": 313066, "D": "a solid, conical mass of medicinal substance that melts upon insertion into the rectum or vagina.", "S": ["alleged ", "assumed ", "putative ", "regarded ", "rumored ", "supposed "], "A": ["real "]}
+{"index": 313066, "D": "a solid, conical mass of medicinal substance that melts upon insertion into the rectum or vagina.", "S": ["alleged", "assumed", "putative", "regarded", "rumored", "supposed"], "A": ["real"]}

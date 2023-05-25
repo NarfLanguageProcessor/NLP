@@ -1,1 +1,1 @@
-{"index": 149939, "D": "(of the weather, the elements, etc.) severe, rough, or harsh; stormy.", "S": ["rigor "], "A": ["informality ", "kindness ", "mildness ", "unimportance "]}
+{"index": 149939, "D": "(of the weather, the elements, etc.) severe, rough, or harsh; stormy.", "S": ["rigor"], "A": ["informality", "kindness", "mildness", "unimportance"]}

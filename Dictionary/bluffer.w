@@ -1,1 +1,1 @@
-{"index": 36805, "D": "good-naturedly direct, blunt, or frank; heartily outspoken", "S": ["counterfeit ", "deception ", "fabrication ", "forgery ", "hoax ", "phony ", "scam ", "sham ", "trick "], "A": ["original "]}
+{"index": 36805, "D": "good-naturedly direct, blunt, or frank; heartily outspoken", "S": ["counterfeit", "deception", "fabrication", "forgery", "hoax", "phony", "scam", "sham", "trick"], "A": ["original"]}

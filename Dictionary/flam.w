@@ -1,1 +1,1 @@
-{"index": 113831, "D": "a deception or trick.", "S": ["complicity ", "conspiracy ", "deceit ", "scam "], "A": ["honesty "]}
+{"index": 113831, "D": "a deception or trick.", "S": ["complicity", "conspiracy", "deceit", "scam"], "A": ["honesty"]}

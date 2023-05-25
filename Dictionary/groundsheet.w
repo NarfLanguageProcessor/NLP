@@ -1,1 +1,1 @@
-{"index": 130331, "D": "a waterproof sheet  of plastic, canvas, or other durable material spread on the ground,  as under a sleeping bag or in a tent, for protection against moisture.", "S": ["ground cloth ", "tarp ", "tarpaulin "], "A": []}
+{"index": 130331, "D": "a waterproof sheet  of plastic, canvas, or other durable material spread on the ground,  as under a sleeping bag or in a tent, for protection against moisture.", "S": ["ground cloth", "tarp", "tarpaulin"], "A": []}

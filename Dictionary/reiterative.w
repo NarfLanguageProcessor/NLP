@@ -1,1 +1,1 @@
-{"index": 266568, "D": "to say or do again or repeatedly; repeat, often excessively.", "S": ["boring ", "ceaseless ", "constant ", "continual ", "dull ", "insistent ", "iterative ", "monotonous ", "repeated ", "repetitious ", "uninteresting ", "verbose "], "A": []}
+{"index": 266568, "D": "to say or do again or repeatedly; repeat, often excessively.", "S": ["boring", "ceaseless", "constant", "continual", "dull", "insistent", "iterative", "monotonous", "repeated", "repetitious", "uninteresting", "verbose"], "A": []}

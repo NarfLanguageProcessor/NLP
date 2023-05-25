@@ -1,1 +1,1 @@
-{"index": 86847, "D": "any foul or filthy substance, as mud, grime, dust, or excrement.", "S": ["excrement ", "ground ", "muck ", "mud ", "soil ", "stain "], "A": ["cleanliness "]}
+{"index": 86847, "D": "any foul or filthy substance, as mud, grime, dust, or excrement.", "S": ["excrement", "ground", "muck", "mud", "soil", "stain"], "A": ["cleanliness"]}

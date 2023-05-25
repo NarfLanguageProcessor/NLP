@@ -1,1 +1,1 @@
-{"index": 80769, "D": "to destroy or ruin (a building or other structure), especially on purpose; tear down; raze.", "S": ["decimation ", "demolition ", "destruction ", "elimination ", "eradication ", "extermination ", "extinction ", "liquidation "], "A": ["building ", "construction "]}
+{"index": 80769, "D": "to destroy or ruin (a building or other structure), especially on purpose; tear down; raze.", "S": ["decimation", "demolition", "destruction", "elimination", "eradication", "extermination", "extinction", "liquidation"], "A": ["building", "construction"]}

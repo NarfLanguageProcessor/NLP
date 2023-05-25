@@ -1,1 +1,1 @@
-{"index": 282500, "D": "unpleasant or sordid; low; disagreeable", "S": ["disreputable ", "disturbing ", "nasty ", "sordid ", "unpleasant "], "A": ["agreeable ", "decent ", "good ", "great ", "honorable ", "pleasant ", "pleasing ", "reputable ", "wonderful "]}
+{"index": 282500, "D": "unpleasant or sordid; low; disagreeable", "S": ["disreputable", "disturbing", "nasty", "sordid", "unpleasant"], "A": ["agreeable", "decent", "good", "great", "honorable", "pleasant", "pleasing", "reputable", "wonderful"]}

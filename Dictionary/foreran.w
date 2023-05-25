@@ -1,1 +1,1 @@
-{"index": 116889, "D": "to run in front of; come before; precede.", "S": ["indicate ", "predict ", "signal "], "A": ["be quiet ", "bottle up ", "conceal ", "hide ", "keep secret ", "refrain ", "repress ", "suppress ", "withhold "]}
+{"index": 116889, "D": "to run in front of; come before; precede.", "S": ["indicate", "predict", "signal"], "A": ["be quiet", "bottle up", "conceal", "hide", "keep secret", "refrain", "repress", "suppress", "withhold"]}

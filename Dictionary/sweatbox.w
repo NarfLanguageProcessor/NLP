@@ -1,1 +1,1 @@
-{"index": 314211, "D": "a sauna or other enclosure for sweating. ", "S": ["muggy ", "stifling ", "suffocating ", "sultry ", "torrid "], "A": ["cold ", "cool ", "dry ", "frigid "]}
+{"index": 314211, "D": "a sauna or other enclosure for sweating. ", "S": ["muggy", "stifling", "suffocating", "sultry", "torrid"], "A": ["cold", "cool", "dry", "frigid"]}

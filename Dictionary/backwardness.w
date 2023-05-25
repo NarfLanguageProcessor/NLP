@@ -1,0 +1,1 @@
+{"index": 26003, "D": "toward the back or rear.", "S": ["abnormality", "idiocy", "retardation", "slowness"], "A": []}

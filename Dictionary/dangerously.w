@@ -1,1 +1,1 @@
-{"index": 76760, "D": "full of danger  or risk; causing danger;  perilous; risky; hazardous; unsafe.", "S": ["alarmingly ", "critically ", "desperately ", "perilously ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}
+{"index": 76760, "D": "full of danger  or risk; causing danger;  perilous; risky; hazardous; unsafe.", "S": ["alarmingly", "critically", "desperately", "perilously", "precariously", "recklessly", "seriously", "severely"], "A": ["lightly"]}

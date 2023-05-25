@@ -1,1 +1,1 @@
-{"index": 299755, "D": "a small peg or plug for stopping the vent of a cask.", "S": ["nozzle ", "valve "], "A": []}
+{"index": 299755, "D": "a small peg or plug for stopping the vent of a cask.", "S": ["nozzle", "valve"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 179715, "D": "the political, social, economic, and military theories and policies advocated by Mao Zedong,  as those concerning revolutionary movements and guerrilla warfare.", "S": ["communism "], "A": []}
+{"index": 179715, "D": "the political, social, economic, and military theories and policies advocated by Mao Zedong,  as those concerning revolutionary movements and guerrilla warfare.", "S": ["communism"], "A": []}

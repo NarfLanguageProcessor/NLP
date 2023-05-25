@@ -1,1 +1,1 @@
-{"index": 91453, "D": "an inordinately wild fight or contentious dispute; brawl; free-for-all.", "S": ["battle royal ", "fight ", "fracas ", "fray ", "free-for-all ", "hoedown ", "melee ", "rhubarb ", "riot ", "row ", "rumble ", "shindig ", "slugfest ", "turmoil ", "uproar "], "A": []}
+{"index": 91453, "D": "an inordinately wild fight or contentious dispute; brawl; free-for-all.", "S": ["battle royal", "fight", "fracas", "fray", "free-for-all", "hoedown", "melee", "rhubarb", "riot", "row", "rumble", "shindig", "slugfest", "turmoil", "uproar"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 362924, "D": "a washing out of earth, gravel, etc., by water, as from an embankment or a roadway by heavy rain or by a flash flood.", "S": ["disaster ", "fiasco "], "A": ["success ", "triumph "]}
+{"index": 362924, "D": "a washing out of earth, gravel, etc., by water, as from an embankment or a roadway by heavy rain or by a flash flood.", "S": ["disaster", "fiasco"], "A": ["success", "triumph"]}

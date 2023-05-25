@@ -1,1 +1,1 @@
-{"index": 223736, "D": "a paleolithic  stone implement.", "S": ["relic ", "skeleton ", "specimen ", "trace "], "A": []}
+{"index": 223736, "D": "a paleolithic  stone implement.", "S": ["relic", "skeleton", "specimen", "trace"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 155446, "D": "a resident member of the medical staff of a hospital, usually a recent medical school graduate serving under supervision.", "S": ["doctor ", "resident ", "student ", "trainee "], "A": []}
+{"index": 155446, "D": "a resident member of the medical staff of a hospital, usually a recent medical school graduate serving under supervision.", "S": ["doctor", "resident", "student", "trainee"], "A": []}

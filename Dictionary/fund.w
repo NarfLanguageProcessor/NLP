@@ -1,1 +1,1 @@
-{"index": 120158, "D": "a supply of money or pecuniary resources, as for some purpose", "S": ["capital ", "endowment ", "foundation ", "stock ", "supply ", "treasury ", "trust "], "A": ["debt "]}
+{"index": 120158, "D": "a supply of money or pecuniary resources, as for some purpose", "S": ["capital", "endowment", "foundation", "stock", "supply", "treasury", "trust"], "A": ["debt"]}

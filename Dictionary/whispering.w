@@ -1,1 +1,1 @@
-{"index": 365062, "D": "whispered  talk or conversation.", "S": ["buzzing ", "humming ", "rustling "], "A": ["howling ", "screaming ", "shouting ", "yelling "]}
+{"index": 365062, "D": "whispered  talk or conversation.", "S": ["buzzing", "humming", "rustling"], "A": ["howling", "screaming", "shouting", "yelling"]}

@@ -1,1 +1,1 @@
-{"index": 24106, "D": "self-induced hypnosis  or hypnotic state.", "S": ["fascination ", "hypnosis ", "hypnotherapy ", "mesmerism ", "suggestion "], "A": []}
+{"index": 24106, "D": "self-induced hypnosis  or hypnotic state.", "S": ["fascination", "hypnosis", "hypnotherapy", "mesmerism", "suggestion"], "A": []}

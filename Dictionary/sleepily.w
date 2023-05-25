@@ -1,1 +1,1 @@
-{"index": 293898, "D": "ready or inclined to sleep;  drowsy.", "S": ["drowsily ", "languidly ", "slowly ", "sluggishly ", "tiredly "], "A": []}
+{"index": 293898, "D": "ready or inclined to sleep;  drowsy.", "S": ["drowsily", "languidly", "slowly", "sluggishly", "tiredly"], "A": []}

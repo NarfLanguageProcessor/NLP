@@ -1,1 +1,0 @@
-{"index": 168840, "D": "present but not visible, apparent, or activated; existing as potential", "S": [], "A": []}

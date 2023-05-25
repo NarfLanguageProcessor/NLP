@@ -1,1 +1,1 @@
-{"index": 82843, "D": "malicious; spiteful.", "S": ["abhorrence ", "contempt ", "disdain ", "hate ", "hatred ", "ill will ", "loathing ", "malice ", "maliciousness ", "malignancy ", "malignity ", "meanness ", "nastiness ", "scorn ", "spite ", "spitefulness "], "A": []}
+{"index": 82843, "D": "malicious; spiteful.", "S": ["abhorrence", "contempt", "disdain", "hate", "hatred", "ill will", "loathing", "malice", "maliciousness", "malignancy", "malignity", "meanness", "nastiness", "scorn", "spite", "spitefulness"], "A": []}

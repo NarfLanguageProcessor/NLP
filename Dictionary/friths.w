@@ -1,1 +1,1 @@
-{"index": 119146, "D": "a long, narrow indentation of the seacoast.", "S": ["anchorage ", "arm ", "bay ", "bayou ", "bight ", "cave ", "cavern ", "creek ", "estuary ", "firth ", "gulf ", "harbor ", "hole ", "lagoon ", "nook ", "retreat ", "slough ", "sound ", "wash "], "A": []}
+{"index": 119146, "D": "a long, narrow indentation of the seacoast.", "S": ["anchorage", "arm", "bay", "bayou", "bight", "cave", "cavern", "creek", "estuary", "firth", "gulf", "harbor", "hole", "lagoon", "nook", "retreat", "slough", "sound", "wash"], "A": []}

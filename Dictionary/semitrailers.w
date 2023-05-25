@@ -1,1 +1,1 @@
-{"index": 285089, "D": "Compare full trailer. ", "S": ["18-wheeler ", "big rig ", "rig ", "semi ", "trailer truck ", "truck trailer "], "A": []}
+{"index": 285089, "D": "Compare full trailer. ", "S": ["18-wheeler", "big rig", "rig", "semi", "trailer truck", "truck trailer"], "A": []}

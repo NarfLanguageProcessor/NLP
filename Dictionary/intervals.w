@@ -1,1 +1,1 @@
-{"index": 156137, "D": "an intervening period of time", "S": ["hiatus ", "intermission ", "interruption ", "layoff ", "lull ", "spell "], "A": ["continuation ", "closure "]}
+{"index": 156137, "D": "an intervening period of time", "S": ["hiatus", "intermission", "interruption", "layoff", "lull", "spell"], "A": ["continuation", "closure"]}

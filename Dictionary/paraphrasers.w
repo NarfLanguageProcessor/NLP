@@ -1,1 +1,1 @@
-{"index": 225965, "D": "a restatement of a text or passage giving the meaning in another form, as for clearness; rewording.", "S": ["artist ", "commentator ", "editor ", "exponent ", "linguist ", "philosopher ", "scholar ", "writer "], "A": []}
+{"index": 225965, "D": "a restatement of a text or passage giving the meaning in another form, as for clearness; rewording.", "S": ["artist", "commentator", "editor", "exponent", "linguist", "philosopher", "scholar", "writer"], "A": []}

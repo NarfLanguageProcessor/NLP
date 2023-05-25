@@ -1,1 +1,1 @@
-{"index": 344523, "D": "to alter, adapt, or modulate (the voice).", "S": ["boring ", "dreary ", "dull ", "ho-hum ", "humdrum ", "plodding ", "repetitious ", "repetitive ", "tedious ", "tiresome "], "A": ["bright ", "clear ", "eventful ", "exciting ", "interesting ", "light ", "lively "]}
+{"index": 344523, "D": "to alter, adapt, or modulate (the voice).", "S": ["boring", "dreary", "dull", "ho-hum", "humdrum", "plodding", "repetitious", "repetitive", "tedious", "tiresome"], "A": ["bright", "clear", "eventful", "exciting", "interesting", "light", "lively"]}

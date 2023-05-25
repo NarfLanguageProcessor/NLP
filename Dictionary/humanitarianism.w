@@ -1,1 +1,1 @@
-{"index": 144870, "D": "humanitarian principles or practices.", "S": ["altruism ", "humaneness ", "humanism ", "kindheartedness ", "kindness ", "philanthropy "], "A": []}
+{"index": 144870, "D": "humanitarian principles or practices.", "S": ["altruism", "humaneness", "humanism", "kindheartedness", "kindness", "philanthropy"], "A": []}

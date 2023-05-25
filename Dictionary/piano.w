@@ -1,1 +1,1 @@
-{"index": 235720, "D": "a musical instrument in which felt-covered hammers, operated from a keyboard, strike the metal strings.", "S": ["grand piano ", "instrument ", "keyboard "], "A": []}
+{"index": 235720, "D": "a musical instrument in which felt-covered hammers, operated from a keyboard, strike the metal strings.", "S": ["grand piano", "instrument", "keyboard"], "A": []}

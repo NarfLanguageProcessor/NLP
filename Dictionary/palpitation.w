@@ -1,1 +1,1 @@
-{"index": 224174, "D": "the act of palpitating. ", "S": ["beat ", "pulsation ", "shaking ", "tremble "], "A": []}
+{"index": 224174, "D": "the act of palpitating. ", "S": ["beat", "pulsation", "shaking", "tremble"], "A": []}

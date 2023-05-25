@@ -1,1 +1,1 @@
-{"index": 271085, "D": "to revise or reestimate the value  of", "S": ["decrease ", "devaluate ", "lower ", "undervalue "], "A": ["increase ", "praise ", "raise ", "enhance ", "laud ", "upgrade "]}
+{"index": 271085, "D": "to revise or reestimate the value  of", "S": ["decrease", "devaluate", "lower", "undervalue"], "A": ["increase", "praise", "raise", "enhance", "laud", "upgrade"]}

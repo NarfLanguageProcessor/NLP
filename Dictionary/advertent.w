@@ -1,1 +1,1 @@
-{"index": 4663, "D": "attentive; heedful.", "S": ["attentive ", "discerning ", "discriminating ", "intelligent ", "mindful ", "perceptive ", "vigilant "], "A": ["careless ", "heedless ", "inattentive ", "neglectful ", "negligent ", "unaware ", "undiscriminating "]}
+{"index": 4663, "D": "attentive; heedful.", "S": ["attentive", "discerning", "discriminating", "intelligent", "mindful", "perceptive", "vigilant"], "A": ["careless", "heedless", "inattentive", "neglectful", "negligent", "unaware", "undiscriminating"]}

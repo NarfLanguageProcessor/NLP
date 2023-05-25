@@ -1,1 +1,1 @@
-{"index": 96163, "D": "to discharge, as from the body; void (opposed to ingest).", "S": ["secrete "], "A": ["accept ", "allow ", "keep ", "permit ", "sanction ", "take ", "take in ", "welcome "]}
+{"index": 96163, "D": "to discharge, as from the body; void (opposed to ingest).", "S": ["secrete"], "A": ["accept", "allow", "keep", "permit", "sanction", "take", "take in", "welcome"]}

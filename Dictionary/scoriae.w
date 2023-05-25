@@ -1,1 +1,1 @@
-{"index": 281280, "D": "the refuse, dross, or slag left after melting or smelting metal; scum.", "S": ["anthracite ", "ash ", "carbon ", "char ", "charcoal ", "cinder ", "culm ", "ember ", "fuel ", "slack ", "smut ", "spark ", "stoke "], "A": []}
+{"index": 281280, "D": "the refuse, dross, or slag left after melting or smelting metal; scum.", "S": ["anthracite", "ash", "carbon", "char", "charcoal", "cinder", "culm", "ember", "fuel", "slack", "smut", "spark", "stoke"], "A": []}

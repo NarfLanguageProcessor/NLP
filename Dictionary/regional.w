@@ -1,1 +1,1 @@
-{"index": 265654, "D": "of or relating to a region  of considerable extent; not merely local", "S": ["local ", "provincial ", "territorial "], "A": []}
+{"index": 265654, "D": "of or relating to a region  of considerable extent; not merely local", "S": ["local", "provincial", "territorial"], "A": []}

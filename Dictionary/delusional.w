@@ -1,1 +1,1 @@
-{"index": 80298, "D": "having false or unrealistic beliefs or opinions", "S": ["unrealistic "], "A": ["lucid ", "reasonable ", "sound ", "well-adjusted "]}
+{"index": 80298, "D": "having false or unrealistic beliefs or opinions", "S": ["unrealistic"], "A": ["lucid", "reasonable", "sound", "well-adjusted"]}

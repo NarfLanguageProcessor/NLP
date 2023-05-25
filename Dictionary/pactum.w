@@ -1,1 +1,1 @@
-{"index": 222795, "D": [], "S": ["bond ", "contract ", "deal ", "gentlemen's agreement ", "handshake ", "pact ", "pledge ", "tacit agreement ", "understanding ", "unspoken agreement ", "unwritten agreement ", "verbal agreement "], "A": []}
+{"index": 222795, "D": [], "S": ["bond", "contract", "deal", "gentlemen's agreement", "handshake", "pact", "pledge", "tacit agreement", "understanding", "unspoken agreement", "unwritten agreement", "verbal agreement"], "A": []}

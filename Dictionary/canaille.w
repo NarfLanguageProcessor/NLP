@@ -1,1 +1,1 @@
-{"index": 45993, "D": "riffraff; rabble.", "S": ["commoners ", "masses ", "rabble ", "riffraff ", "unwashed "], "A": []}
+{"index": 45993, "D": "riffraff; rabble.", "S": ["commoners", "masses", "rabble", "riffraff", "unwashed"], "A": []}

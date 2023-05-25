@@ -1,1 +1,1 @@
-{"index": 39821, "D": "any prickly shrub belonging to the genus Rubus, of the rose family.", "S": ["brier ", "burr ", "cleaver ", "furze ", "gorse ", "hedge ", "nettle ", "prick ", "shrub ", "spray ", "thistle ", "thorn "], "A": []}
+{"index": 39821, "D": "any prickly shrub belonging to the genus Rubus, of the rose family.", "S": ["brier", "burr", "cleaver", "furze", "gorse", "hedge", "nettle", "prick", "shrub", "spray", "thistle", "thorn"], "A": []}

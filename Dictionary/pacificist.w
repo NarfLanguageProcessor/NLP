@@ -1,1 +1,1 @@
-{"index": 222700, "D": [], "S": ["private "], "A": ["military "]}
+{"index": 222700, "D": [], "S": ["private"], "A": ["military"]}

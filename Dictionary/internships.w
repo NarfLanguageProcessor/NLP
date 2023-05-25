@@ -1,1 +1,1 @@
-{"index": 155523, "D": "the state or condition of being an intern. ", "S": ["graduate fellowship "], "A": []}
+{"index": 155523, "D": "the state or condition of being an intern. ", "S": ["graduate fellowship"], "A": []}

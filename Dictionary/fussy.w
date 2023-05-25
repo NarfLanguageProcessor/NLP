@@ -1,1 +1,1 @@
-{"index": 120628, "D": "excessively busy with trifles; anxious or particular about petty details.", "S": ["choosy ", "conscientious ", "discriminating ", "finicky ", "scrupulous ", "squeamish "], "A": ["careless ", "uncritical ", "unscrupulous "]}
+{"index": 120628, "D": "excessively busy with trifles; anxious or particular about petty details.", "S": ["choosy", "conscientious", "discriminating", "finicky", "scrupulous", "squeamish"], "A": ["careless", "uncritical", "unscrupulous"]}

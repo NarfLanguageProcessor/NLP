@@ -1,1 +1,1 @@
-{"index": 266470, "D": "to present (a person) to another so as to make acquainted.", "S": ["reestablish ", "renew ", "revive "], "A": ["kill "]}
+{"index": 266470, "D": "to present (a person) to another so as to make acquainted.", "S": ["reestablish", "renew", "revive"], "A": ["kill"]}

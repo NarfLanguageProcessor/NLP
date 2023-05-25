@@ -1,1 +1,1 @@
-{"index": 139606, "D": "a song or ode in praise or honor of God, a deity, a nation, etc.", "S": ["chant ", "ditty ", "oratorio ", "paean ", "psalm "], "A": []}
+{"index": 139606, "D": "a song or ode in praise or honor of God, a deity, a nation, etc.", "S": ["chant", "ditty", "oratorio", "paean", "psalm"], "A": []}

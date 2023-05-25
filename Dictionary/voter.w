@@ -1,1 +1,1 @@
-{"index": 361410, "D": "a person who votes. ", "S": ["citizen ", "resident ", "taxpayer "], "A": []}
+{"index": 361410, "D": "a person who votes. ", "S": ["citizen", "resident", "taxpayer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 57572, "D": "a strong girth used on stock saddles, having a ring at each end to which a strap running from the saddle is secured.", "S": ["guaranteed ", "settled ", "sure "], "A": ["indefinite ", "uncertain ", "unsure ", "undecided ", "vague "]}
+{"index": 57572, "D": "a strong girth used on stock saddles, having a ring at each end to which a strap running from the saddle is secured.", "S": ["guaranteed", "settled", "sure"], "A": ["indefinite", "uncertain", "unsure", "undecided", "vague"]}

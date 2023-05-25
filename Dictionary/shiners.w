@@ -1,1 +1,0 @@
-{"index": 288348, "D": "a person or thing that shines. ", "S": ["bad name ", "black mark ", "blemish ", "disgrace ", "dishonor ", "lost face ", "shame ", "smear ", "stain ", "stigma "], "A": []}

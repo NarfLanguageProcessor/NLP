@@ -1,1 +1,1 @@
-{"index": 363087, "D": "a person who keeps guard over a building at night, to protect it from fire, vandals, or thieves.", "S": ["caretaker ", "custodian ", "patrolman ", "policeman ", "warden "], "A": []}
+{"index": 363087, "D": "a person who keeps guard over a building at night, to protect it from fire, vandals, or thieves.", "S": ["caretaker", "custodian", "patrolman", "policeman", "warden"], "A": []}

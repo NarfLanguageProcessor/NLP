@@ -1,1 +1,1 @@
-{"index": 47139, "D": "to turn bottom up; overturn", "S": ["invert ", "roll ", "upset "], "A": []}
+{"index": 47139, "D": "to turn bottom up; overturn", "S": ["invert", "roll", "upset"], "A": []}

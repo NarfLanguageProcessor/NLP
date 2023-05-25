@@ -1,1 +1,1 @@
-{"index": 134612, "D": "any covering for the head,  especially a hat, cap, bonnet, etc.", "S": ["cap ", "capote ", "chapeau ", "coronet ", "cover ", "headdress ", "hood "], "A": []}
+{"index": 134612, "D": "any covering for the head,  especially a hat, cap, bonnet, etc.", "S": ["cap", "capote", "chapeau", "coronet", "cover", "headdress", "hood"], "A": []}

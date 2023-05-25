@@ -1,1 +1,1 @@
-{"index": 263151, "D": [], "S": ["correctness ", "decorum ", "legitimacy ", "morality ", "rectitude ", "respectability ", "suitability "], "A": ["dishonesty ", "disagreement ", "discord ", "incompatibility ", "lawlessness ", "unsuitability "]}
+{"index": 263151, "D": [], "S": ["correctness", "decorum", "legitimacy", "morality", "rectitude", "respectability", "suitability"], "A": ["dishonesty", "disagreement", "discord", "incompatibility", "lawlessness", "unsuitability"]}

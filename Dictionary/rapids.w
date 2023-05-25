@@ -1,1 +1,1 @@
-{"index": 260735, "D": "part of a river where the current is very fast and turbulent", "S": ["rapine ", "river ", "whitewater "], "A": []}
+{"index": 260735, "D": "part of a river where the current is very fast and turbulent", "S": ["rapine", "river", "whitewater"], "A": []}

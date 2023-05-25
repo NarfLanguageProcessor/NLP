@@ -1,1 +1,1 @@
-{"index": 210199, "D": "required as a matter of obligation; mandatory", "S": ["authority ", "burden ", "duty ", "guilt ", "importance ", "liability ", "obligation ", "power ", "restraint ", "trust "], "A": ["irresponsibility ", "benefit ", "blessing "]}
+{"index": 210199, "D": "required as a matter of obligation; mandatory", "S": ["authority", "burden", "duty", "guilt", "importance", "liability", "obligation", "power", "restraint", "trust"], "A": ["irresponsibility", "benefit", "blessing"]}

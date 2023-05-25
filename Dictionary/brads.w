@@ -1,1 +1,1 @@
-{"index": 39611, "D": "a slender wire nail having either a small, deep head or a projection to one side of the head end.", "S": ["fastener ", "latch ", "pipe ", "rivet ", "rod ", "spike "], "A": ["key "]}
+{"index": 39611, "D": "a slender wire nail having either a small, deep head or a projection to one side of the head end.", "S": ["fastener", "latch", "pipe", "rivet", "rod", "spike"], "A": ["key"]}

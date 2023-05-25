@@ -1,1 +1,1 @@
-{"index": 17415, "D": "a person who forsakes his religion, cause, party, etc.", "S": ["backslider ", "defector ", "deserter ", "dissenter ", "heretic ", "nonconformist ", "rat ", "recreant ", "renegade ", "turncoat "], "A": ["adherent ", "faithful ", "loyalist "]}
+{"index": 17415, "D": "a person who forsakes his religion, cause, party, etc.", "S": ["backslider", "defector", "deserter", "dissenter", "heretic", "nonconformist", "rat", "recreant", "renegade", "turncoat"], "A": ["adherent", "faithful", "loyalist"]}

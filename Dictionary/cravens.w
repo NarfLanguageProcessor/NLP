@@ -1,1 +1,1 @@
-{"index": 72294, "D": "cowardly; contemptibly timid; pusillanimous.", "S": ["mean-spirited "], "A": ["bold ", "brave ", "courageous ", "heroic ", "strong "]}
+{"index": 72294, "D": "cowardly; contemptibly timid; pusillanimous.", "S": ["mean-spirited"], "A": ["bold", "brave", "courageous", "heroic", "strong"]}

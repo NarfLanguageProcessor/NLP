@@ -1,1 +1,1 @@
-{"index": 288759, "D": "(used to scare or drive away a cat, dog, chickens, birds, etc.)", "S": ["away ", "depart ", "hightail ", "leave ", "off ", "out ", "scat ", "scoot ", "scram ", "skiddoo ", "vamoose "], "A": []}
+{"index": 288759, "D": "(used to scare or drive away a cat, dog, chickens, birds, etc.)", "S": ["away", "depart", "hightail", "leave", "off", "out", "scat", "scoot", "scram", "skiddoo", "vamoose"], "A": []}

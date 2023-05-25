@@ -1,1 +1,1 @@
-{"index": 352290, "D": "not subtle; obvious or blatant", "S": ["absolute ", "broad ", "confirmed ", "convinced ", "decided ", "definite ", "obvious ", "patent ", "plain ", "positive ", "resolved ", "satisfied ", "sure ", "unmistakable "], "A": []}
+{"index": 352290, "D": "not subtle; obvious or blatant", "S": ["absolute", "broad", "confirmed", "convinced", "decided", "definite", "obvious", "patent", "plain", "positive", "resolved", "satisfied", "sure", "unmistakable"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 63821, "D": "producing laughter; amusing; funny", "S": ["comedy ", "comicality ", "drollery ", "farcicality ", "funniness ", "humorousness ", "jocoseness ", "jocosity ", "jocularity ", "nonsense ", "wit ", "wittiness ", "zaniness "], "A": []}
+{"index": 63821, "D": "producing laughter; amusing; funny", "S": ["comedy", "comicality", "drollery", "farcicality", "funniness", "humorousness", "jocoseness", "jocosity", "jocularity", "nonsense", "wit", "wittiness", "zaniness"], "A": []}

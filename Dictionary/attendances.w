@@ -1,1 +1,1 @@
-{"index": 23008, "D": "the act of attending. ", "S": ["appearance ", "participation ", "presence "], "A": ["absence ", "reality "]}
+{"index": 23008, "D": "the act of attending. ", "S": ["appearance", "participation", "presence"], "A": ["absence", "reality"]}

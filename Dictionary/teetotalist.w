@@ -1,1 +1,1 @@
-{"index": 317852, "D": "a person who abstains totally from intoxicating drink.", "S": ["nondrinker ", "teetotaler "], "A": ["drinker "]}
+{"index": 317852, "D": "a person who abstains totally from intoxicating drink.", "S": ["nondrinker", "teetotaler"], "A": ["drinker"]}

@@ -1,1 +1,0 @@
-{"index": 228336, "D": "a person who maintains or restores peace  and amity; mediator", "S": ["arbitrator ", "conciliator ", "diplomat ", "mediator ", "negotiator ", "pacifist "], "A": ["agitator ", "instigator "]}

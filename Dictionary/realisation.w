@@ -1,1 +1,1 @@
-{"index": 261730, "D": [], "S": ["awareness ", "recognition ", "understanding "], "A": ["ignorance "]}
+{"index": 261730, "D": [], "S": ["awareness", "recognition", "understanding"], "A": ["ignorance"]}

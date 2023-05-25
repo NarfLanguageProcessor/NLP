@@ -1,1 +1,1 @@
-{"index": 170416, "D": "having or being of great length;  very long", "S": ["drawn-out ", "interminable ", "long ", "long-winded ", "protracted ", "tedious "], "A": ["abbreviated ", "curtailed ", "shortened "]}
+{"index": 170416, "D": "having or being of great length;  very long", "S": ["drawn-out", "interminable", "long", "long-winded", "protracted", "tedious"], "A": ["abbreviated", "curtailed", "shortened"]}

@@ -1,1 +1,1 @@
-{"index": 269706, "D": "regarding; concerning.", "S": ["concerning "], "A": []}
+{"index": 269706, "D": "regarding; concerning.", "S": ["concerning"], "A": []}

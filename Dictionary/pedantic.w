@@ -1,1 +1,1 @@
-{"index": 228771, "D": "ostentatious in one's learning.", "S": ["abstruse ", "pompous ", "stilted "], "A": ["plain ", "simple "]}
+{"index": 228771, "D": "ostentatious in one's learning.", "S": ["abstruse", "pompous", "stilted"], "A": ["plain", "simple"]}

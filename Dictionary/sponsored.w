@@ -1,1 +1,1 @@
-{"index": 300817, "D": "a sponsored walk", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}
+{"index": 300817, "D": "a sponsored walk", "S": ["approved", "assisted", "endorsed", "favored"], "A": ["disapproved"]}

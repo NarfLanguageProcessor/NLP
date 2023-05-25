@@ -1,1 +1,1 @@
-{"index": 260547, "D": "simple past tense of ring2. ", "S": ["circle ", "enclose ", "surround "], "A": ["free ", "let go ", "release "]}
+{"index": 260547, "D": "simple past tense of ring2. ", "S": ["circle", "enclose", "surround"], "A": ["free", "let go", "release"]}

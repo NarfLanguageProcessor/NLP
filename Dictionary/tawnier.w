@@ -1,1 +1,1 @@
-{"index": 317253, "D": "tawny. ", "S": ["beige ", "bronze ", "brown ", "dusky ", "olive ", "swarthy ", "tanned "], "A": []}
+{"index": 317253, "D": "tawny. ", "S": ["beige", "bronze", "brown", "dusky", "olive", "swarthy", "tanned"], "A": []}

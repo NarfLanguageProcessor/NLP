@@ -1,1 +1,1 @@
-{"index": 247947, "D": "to indicate  in advance; presage", "S": ["danger sign ", "foreshadowing ", "handwriting on the wall ", "harbinger ", "portent ", "prediction ", "premonition ", "sign ", "signal ", "warning ", "warning sign "], "A": []}
+{"index": 247947, "D": "to indicate  in advance; presage", "S": ["danger sign", "foreshadowing", "handwriting on the wall", "harbinger", "portent", "prediction", "premonition", "sign", "signal", "warning", "warning sign"], "A": []}

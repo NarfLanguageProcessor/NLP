@@ -1,0 +1,1 @@
+{"index": 38051, "D": "literary skill; authorship.", "S": [], "A": []}

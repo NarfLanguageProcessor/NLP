@@ -1,1 +1,1 @@
-{"index": 150050, "D": "coming in;  arriving", "S": ["admission "], "A": ["blackballing ", "conclusion ", "egress ", "exit ", "rejection "]}
+{"index": 150050, "D": "coming in;  arriving", "S": ["admission"], "A": ["blackballing", "conclusion", "egress", "exit", "rejection"]}

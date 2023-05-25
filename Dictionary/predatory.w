@@ -1,1 +1,1 @@
-{"index": 246659, "D": "preying upon other organisms for food.", "S": ["greedy ", "marauding ", "rapacious ", "voracious "], "A": []}
+{"index": 246659, "D": "preying upon other organisms for food.", "S": ["greedy", "marauding", "rapacious", "voracious"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 198516, "D": "nepenthe. ", "S": ["anesthetic ", "dope ", "hard drug ", "heroin ", "merchandise ", "opiate ", "opium ", "painkiller ", "sedative ", "tranquilizer "], "A": []}
+{"index": 198516, "D": "nepenthe. ", "S": ["anesthetic", "dope", "hard drug", "heroin", "merchandise", "opiate", "opium", "painkiller", "sedative", "tranquilizer"], "A": []}

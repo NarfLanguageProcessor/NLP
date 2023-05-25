@@ -1,1 +1,1 @@
-{"index": 279762, "D": "The act or result of making scratches or superficial incisions in the skin to produce an immune response or administer certain injections", "S": ["laceration ", "wound "], "A": []}
+{"index": 279762, "D": "The act or result of making scratches or superficial incisions in the skin to produce an immune response or administer certain injections", "S": ["laceration", "wound"], "A": []}

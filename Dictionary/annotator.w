@@ -1,1 +1,1 @@
-{"index": 13599, "D": "to supply with critical or explanatory notes;  comment upon in notes", "S": ["analyst ", "announcer ", "correspondent ", "critic ", "observer ", "pundit ", "reviewer ", "sportscaster ", "writer "], "A": []}
+{"index": 13599, "D": "to supply with critical or explanatory notes;  comment upon in notes", "S": ["analyst", "announcer", "correspondent", "critic", "observer", "pundit", "reviewer", "sportscaster", "writer"], "A": []}

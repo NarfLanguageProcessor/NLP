@@ -1,1 +1,1 @@
-{"index": 94953, "D": "to take into the mouth and swallow for nourishment; chew and swallow (food).", "S": ["attack ", "bite ", "chew ", "devour ", "dine ", "feed ", "ingest ", "inhale ", "nibble ", "pick ", "swallow "], "A": ["abstain "]}
+{"index": 94953, "D": "to take into the mouth and swallow for nourishment; chew and swallow (food).", "S": ["attack", "bite", "chew", "devour", "dine", "feed", "ingest", "inhale", "nibble", "pick", "swallow"], "A": ["abstain"]}

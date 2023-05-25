@@ -1,1 +1,1 @@
-{"index": 116810, "D": "named before; mentioned before in the same writing or speech; aforementioned.", "S": ["spoken "], "A": []}
+{"index": 116810, "D": "named before; mentioned before in the same writing or speech; aforementioned.", "S": ["spoken"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 345714, "D": "to take the load  from; remove the cargo or freight from", "S": ["uncrated ", "unpacked ", "unwrapped "], "A": ["loaded "]}
+{"index": 345714, "D": "to take the load  from; remove the cargo or freight from", "S": ["uncrated", "unpacked", "unwrapped"], "A": ["loaded"]}

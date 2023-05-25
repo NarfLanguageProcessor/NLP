@@ -1,1 +1,1 @@
-{"index": 300897, "D": "a utensil for use in eating, stirring, measuring, ladling, etc., consisting of a small, shallow bowl with a handle.", "S": ["embracing "], "A": []}
+{"index": 300897, "D": "a utensil for use in eating, stirring, measuring, ladling, etc., consisting of a small, shallow bowl with a handle.", "S": ["embracing"], "A": []}

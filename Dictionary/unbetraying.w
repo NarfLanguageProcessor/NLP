@@ -1,1 +1,0 @@
-{"index": 335849, "D": "to deliver or expose to an enemy by treachery or disloyalty", "S": [], "A": []}

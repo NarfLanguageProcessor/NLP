@@ -1,1 +1,1 @@
-{"index": 158856, "D": [], "S": ["calendar ", "chronograph ", "chronometer ", "chronoscope ", "clepsydra ", "clock ", "dial ", "gnomon ", "horologe ", "hourglass ", "metronome ", "pendulum ", "repeater ", "stopwatch ", "sundial ", "watch "], "A": []}
+{"index": 158856, "D": [], "S": ["calendar", "chronograph", "chronometer", "chronoscope", "clepsydra", "clock", "dial", "gnomon", "horologe", "hourglass", "metronome", "pendulum", "repeater", "stopwatch", "sundial", "watch"], "A": []}

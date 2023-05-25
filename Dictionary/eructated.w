@@ -1,1 +1,1 @@
-{"index": 104034, "D": "to eruct. ", "S": ["emit ", "gush "], "A": []}
+{"index": 104034, "D": "to eruct. ", "S": ["emit", "gush"], "A": []}

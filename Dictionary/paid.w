@@ -1,1 +1,1 @@
-{"index": 223080, "D": "a simple past tense and past participle of pay1. ", "S": ["compensated ", "salaried "], "A": ["unpaid "]}
+{"index": 223080, "D": "a simple past tense and past participle of pay1. ", "S": ["compensated", "salaried"], "A": ["unpaid"]}

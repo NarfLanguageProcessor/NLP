@@ -1,1 +1,1 @@
-{"index": 68509, "D": "an imitation, reproduction, or transcript of an original", "S": ["duplicated ", "photocopied ", "transcribed "], "A": []}
+{"index": 68509, "D": "an imitation, reproduction, or transcript of an original", "S": ["duplicated", "photocopied", "transcribed"], "A": []}

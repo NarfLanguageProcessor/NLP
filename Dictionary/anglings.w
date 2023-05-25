@@ -1,1 +1,1 @@
-{"index": 12901, "D": "the act or art of fishing with a hook and line, usually attached to a rod.", "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}
+{"index": 12901, "D": "the act or art of fishing with a hook and line, usually attached to a rod.", "S": ["angling", "fishery", "fishing", "shooting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 122893, "D": "like gauze;  transparently thin and light.", "S": ["translucent "], "A": ["cloudy ", "foggy ", "heavy ", "obscured ", "opaque ", "thick "]}
+{"index": 122893, "D": "like gauze;  transparently thin and light.", "S": ["translucent"], "A": ["cloudy", "foggy", "heavy", "obscured", "opaque", "thick"]}

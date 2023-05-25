@@ -1,1 +1,1 @@
-{"index": 348432, "D": "not pretentious;  modest; without ostentatious display; plain", "S": ["folksy ", "homey ", "humble ", "laid-back ", "modest ", "simple ", "straightforward ", "unassuming "], "A": ["bold ", "brave ", "conceited ", "egotistical ", "presumptuous ", "proud "]}
+{"index": 348432, "D": "not pretentious;  modest; without ostentatious display; plain", "S": ["folksy", "homey", "humble", "laid-back", "modest", "simple", "straightforward", "unassuming"], "A": ["bold", "brave", "conceited", "egotistical", "presumptuous", "proud"]}

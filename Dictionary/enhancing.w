@@ -1,1 +1,1 @@
-{"index": 100522, "D": "to raise to a higher degree; intensify; magnify", "S": ["fair ", "welcome "], "A": ["improper ", "inappropriate ", "indecorous ", "tasteless ", "ugly ", "unattractive ", "unbecoming ", "unfitting ", "unseemly ", "unsuitable "]}
+{"index": 100522, "D": "to raise to a higher degree; intensify; magnify", "S": ["fair", "welcome"], "A": ["improper", "inappropriate", "indecorous", "tasteless", "ugly", "unattractive", "unbecoming", "unfitting", "unseemly", "unsuitable"]}

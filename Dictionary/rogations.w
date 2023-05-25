@@ -1,1 +1,0 @@
-{"index": 273830, "D": "solemn supplication, especially as chanted during procession on the three days (Rogation Days ) before Ascension Day.", "S": ["chant ", "decree ", "law ", "litany ", "rite ", "supplication ", "worship "], "A": []}

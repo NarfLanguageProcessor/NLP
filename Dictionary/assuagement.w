@@ -1,1 +1,1 @@
-{"index": 21923, "D": "to make milder or less severe; alleviate; ease; mitigate", "S": ["abatement ", "alleviation ", "appeasement ", "easement ", "mitigation ", "mollification ", "palliation "], "A": []}
+{"index": 21923, "D": "to make milder or less severe; alleviate; ease; mitigate", "S": ["abatement", "alleviation", "appeasement", "easement", "mitigation", "mollification", "palliation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 172083, "D": "light  in weight. ", "S": ["cipher ", "insignificancy ", "lightweight ", "menial ", "nix ", "nothing ", "parvenu ", "small potato ", "squirt ", "upstart ", "wimp ", "zero ", "zip "], "A": ["somebody "]}
+{"index": 172083, "D": "light  in weight. ", "S": ["cipher", "insignificancy", "lightweight", "menial", "nix", "nothing", "parvenu", "small potato", "squirt", "upstart", "wimp", "zero", "zip"], "A": ["somebody"]}

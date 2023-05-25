@@ -1,1 +1,1 @@
-{"index": 291705, "D": "accomplished or done by one person alone", "S": ["alone ", "by oneself ", "independent ", "on one's own ", "solitary ", "solo ", "unaided "], "A": []}
+{"index": 291705, "D": "accomplished or done by one person alone", "S": ["alone", "by oneself", "independent", "on one's own", "solitary", "solo", "unaided"], "A": []}

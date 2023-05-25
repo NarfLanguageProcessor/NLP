@@ -1,1 +1,1 @@
-{"index": 292665, "D": "to put in or on a particular site or place; locate.", "S": ["establish ", "settle "], "A": ["confuse ", "unsettle ", "change ", "disarrange ", "displace ", "forget ", "lose ", "remove "]}
+{"index": 292665, "D": "to put in or on a particular site or place; locate.", "S": ["establish", "settle"], "A": ["confuse", "unsettle", "change", "disarrange", "displace", "forget", "lose", "remove"]}

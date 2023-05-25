@@ -1,1 +1,1 @@
-{"index": 250788, "D": [], "S": ["confine ", "detain ", "hold ", "imprison ", "lock up ", "sentence ", "take away "], "A": ["free ", "let go ", "liberate ", "release "]}
+{"index": 250788, "D": [], "S": ["confine", "detain", "hold", "imprison", "lock up", "sentence", "take away"], "A": ["free", "let go", "liberate", "release"]}

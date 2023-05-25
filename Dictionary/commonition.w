@@ -1,1 +1,1 @@
-{"index": 64172, "D": [], "S": ["advice "], "A": ["heedlessness ", "imprudence ", "indiscretion ", "neglect ", "negligence ", "thoughtlessness "]}
+{"index": 64172, "D": [], "S": ["advice"], "A": ["heedlessness", "imprudence", "indiscretion", "neglect", "negligence", "thoughtlessness"]}

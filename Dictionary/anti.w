@@ -1,1 +1,1 @@
-{"index": 14686, "D": "a person who is opposed to a particular practice, party, policy, action, etc.", "S": ["antithetical ", "conflicting ", "contrary ", "incompatible ", "inconsistent ", "paradoxical "], "A": ["consonant ", "harmonious ", "equal ", "same ", "similar "]}
+{"index": 14686, "D": "a person who is opposed to a particular practice, party, policy, action, etc.", "S": ["antithetical", "conflicting", "contrary", "incompatible", "inconsistent", "paradoxical"], "A": ["consonant", "harmonious", "equal", "same", "similar"]}

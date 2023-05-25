@@ -1,1 +1,1 @@
-{"index": 43156, "D": "to murder, as by suffocation, so as to leave no or few marks of violence.", "S": ["circumvent ", "ignore ", "neglect ", "omit ", "sidestep ", "skirt "], "A": []}
+{"index": 43156, "D": "to murder, as by suffocation, so as to leave no or few marks of violence.", "S": ["circumvent", "ignore", "neglect", "omit", "sidestep", "skirt"], "A": []}

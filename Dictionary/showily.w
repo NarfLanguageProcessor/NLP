@@ -1,1 +1,1 @@
-{"index": 289083, "D": "in a showy  manner.", "S": ["brilliantly ", "cheerfully ", "colorfully ", "flamboyantly ", "gleefully ", "joyfully ", "merrily ", "splendidly "], "A": ["sadly ", "solemnly ", "unhappily "]}
+{"index": 289083, "D": "in a showy  manner.", "S": ["brilliantly", "cheerfully", "colorfully", "flamboyantly", "gleefully", "joyfully", "merrily", "splendidly"], "A": ["sadly", "solemnly", "unhappily"]}

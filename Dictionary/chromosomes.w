@@ -1,1 +1,1 @@
-{"index": 56380, "D": [], "S": ["RNA ", "gene ", "heredity "], "A": []}
+{"index": 56380, "D": [], "S": ["RNA", "gene", "heredity"], "A": []}

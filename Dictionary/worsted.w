@@ -1,1 +1,1 @@
-{"index": 367694, "D": "Compare woolen. ", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}
+{"index": 367694, "D": "Compare woolen. ", "S": ["humbled", "overpowered", "overwhelmed", "routed"], "A": []}

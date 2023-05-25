@@ -1,1 +1,1 @@
-{"index": 261510, "D": "to come into possession or ownership of; get as one's own", "S": ["get back ", "reclaim ", "recoup ", "regain ", "repair ", "rescue ", "restore ", "resume ", "retrieve ", "salvage "], "A": ["break ", "damage ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "lose "]}
+{"index": 261510, "D": "to come into possession or ownership of; get as one's own", "S": ["get back", "reclaim", "recoup", "regain", "repair", "rescue", "restore", "resume", "retrieve", "salvage"], "A": ["break", "damage", "destroy", "forfeit", "harm", "hurt", "injure", "lose"]}

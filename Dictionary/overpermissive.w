@@ -1,1 +1,1 @@
-{"index": 220479, "D": [], "S": ["considerate ", "fond ", "kindly ", "permissive ", "tolerant "], "A": ["inconsiderate ", "intolerant ", "mean "]}
+{"index": 220479, "D": [], "S": ["considerate", "fond", "kindly", "permissive", "tolerant"], "A": ["inconsiderate", "intolerant", "mean"]}

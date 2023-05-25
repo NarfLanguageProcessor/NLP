@@ -1,1 +1,1 @@
-{"index": 135021, "D": "oppressive; harsh", "S": ["awkwardness ", "ineptitude ", "ungainliness "], "A": []}
+{"index": 135021, "D": "oppressive; harsh", "S": ["awkwardness", "ineptitude", "ungainliness"], "A": []}

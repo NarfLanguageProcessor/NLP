@@ -1,1 +1,1 @@
-{"index": 44531, "D": "cautious, wary, or shrewd", "S": ["circumspect ", "crafty ", "secretive ", "shrewd ", "wily "], "A": ["honest ", "naive "]}
+{"index": 44531, "D": "cautious, wary, or shrewd", "S": ["circumspect", "crafty", "secretive", "shrewd", "wily"], "A": ["honest", "naive"]}

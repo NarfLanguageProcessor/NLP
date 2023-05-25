@@ -1,1 +1,1 @@
-{"index": 149888, "D": "a cut, gash, or notch.", "S": ["laceration "], "A": ["closing ", "closure ", "solid "]}
+{"index": 149888, "D": "a cut, gash, or notch.", "S": ["laceration"], "A": ["closing", "closure", "solid"]}

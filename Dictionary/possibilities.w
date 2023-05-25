@@ -1,1 +1,1 @@
-{"index": 243885, "D": "the state or fact of being possible", "S": ["capabilities ", "potentiality ", "promise ", "prospects ", "talent "], "A": ["impossible "]}
+{"index": 243885, "D": "the state or fact of being possible", "S": ["capabilities", "potentiality", "promise", "prospects", "talent"], "A": ["impossible"]}

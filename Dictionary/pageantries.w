@@ -1,1 +1,1 @@
-{"index": 222996, "D": "spectacular display; pomp", "S": ["grandeur ", "magnificence ", "pageant ", "pomp ", "spectacle ", "splendor "], "A": ["dullness ", "insignificance ", "ordinariness ", "simplicity "]}
+{"index": 222996, "D": "spectacular display; pomp", "S": ["grandeur", "magnificence", "pageant", "pomp", "spectacle", "splendor"], "A": ["dullness", "insignificance", "ordinariness", "simplicity"]}

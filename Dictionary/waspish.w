@@ -1,1 +1,1 @@
-{"index": 362958, "D": "like or suggesting a wasp,  especially in behavior.", "S": ["crabby ", "ill-tempered ", "irascible ", "irritable ", "ornery ", "petulant ", "spiteful ", "surly ", "testy "], "A": []}
+{"index": 362958, "D": "like or suggesting a wasp,  especially in behavior.", "S": ["crabby", "ill-tempered", "irascible", "irritable", "ornery", "petulant", "spiteful", "surly", "testy"], "A": []}

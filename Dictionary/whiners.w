@@ -1,1 +1,1 @@
-{"index": 364863, "D": "someone who complains a lot, especially in a peevish, self-pitying manner or tone", "S": ["crab ", "crybaby ", "faultfinder ", "grouch ", "growler ", "grumbler ", "grump ", "moaner ", "sniveler "], "A": []}
+{"index": 364863, "D": "someone who complains a lot, especially in a peevish, self-pitying manner or tone", "S": ["crab", "crybaby", "faultfinder", "grouch", "growler", "grumbler", "grump", "moaner", "sniveler"], "A": []}

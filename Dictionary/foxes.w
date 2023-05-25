@@ -1,1 +1,1 @@
-{"index": 118078, "D": "any of several carnivores of the dog family, especially those of the genus Vulpes, smaller than wolves, having a pointed, slightly upturned muzzle, erect ears, and a long, bushy tail.", "S": ["ant ", "flea ", "insect ", "mosquito ", "rodent "], "A": []}
+{"index": 118078, "D": "any of several carnivores of the dog family, especially those of the genus Vulpes, smaller than wolves, having a pointed, slightly upturned muzzle, erect ears, and a long, bushy tail.", "S": ["ant", "flea", "insect", "mosquito", "rodent"], "A": []}

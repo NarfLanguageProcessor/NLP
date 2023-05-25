@@ -1,1 +1,1 @@
-{"index": 103187, "D": "to regard, treat, or represent as equivalent", "S": ["civil rights ", "coordination ", "equal opportunity ", "fairness ", "identity ", "impartiality ", "parity ", "tolerance "], "A": ["difference ", "disagreement ", "dissimilarity ", "unlikeness "]}
+{"index": 103187, "D": "to regard, treat, or represent as equivalent", "S": ["civil rights", "coordination", "equal opportunity", "fairness", "identity", "impartiality", "parity", "tolerance"], "A": ["difference", "disagreement", "dissimilarity", "unlikeness"]}

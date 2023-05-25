@@ -1,1 +1,1 @@
-{"index": 100058, "D": "the act of endowing. ", "S": ["bequest ", "donation ", "fund ", "funding ", "grant ", "income ", "inheritance ", "largess ", "nest egg ", "pension ", "revenue ", "stipend ", "subsidy ", "trust "], "A": ["debt ", "disadvantage "]}
+{"index": 100058, "D": "the act of endowing. ", "S": ["bequest", "donation", "fund", "funding", "grant", "income", "inheritance", "largess", "nest egg", "pension", "revenue", "stipend", "subsidy", "trust"], "A": ["debt", "disadvantage"]}

@@ -1,1 +1,0 @@
-{"index": 243334, "D": "any of various, often antiestablishment or anti-intellectual political movements or philosophies that offer unorthodox solutions or policies and appeal to the common person rather than according with traditional party or partisan ideologies.", "S": [], "A": []}

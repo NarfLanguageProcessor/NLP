@@ -1,1 +1,1 @@
-{"index": 38925, "D": "a detached and rounded or worn rock, especially a large one.", "S": ["cromlech ", "monolith "], "A": []}
+{"index": 38925, "D": "a detached and rounded or worn rock, especially a large one.", "S": ["cromlech", "monolith"], "A": []}

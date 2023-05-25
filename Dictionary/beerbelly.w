@@ -1,1 +1,1 @@
-{"index": 30367, "D": [], "S": ["bay window ", "breadbasket ", "corporation ", "extra tire ", "love handles ", "potbelly "], "A": []}
+{"index": 30367, "D": [], "S": ["bay window", "breadbasket", "corporation", "extra tire", "love handles", "potbelly"], "A": []}

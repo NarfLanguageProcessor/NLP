@@ -1,1 +1,1 @@
-{"index": 263923, "D": "a city in N California.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}
+{"index": 263923, "D": "a city in N California.", "S": ["cardinal", "coral", "crimson", "flaming", "glowing", "maroon", "rose", "wine"], "A": []}

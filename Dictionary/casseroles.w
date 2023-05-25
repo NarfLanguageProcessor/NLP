@@ -1,1 +1,1 @@
-{"index": 48959, "D": "a baking dish of glass, pottery, etc., usually with a cover.", "S": ["BYO ", "buffet ", "clambake ", "covered-dish supper ", "feast ", "harvest supper ", "potluck dinner "], "A": []}
+{"index": 48959, "D": "a baking dish of glass, pottery, etc., usually with a cover.", "S": ["BYO", "buffet", "clambake", "covered-dish supper", "feast", "harvest supper", "potluck dinner"], "A": []}

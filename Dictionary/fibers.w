@@ -1,1 +1,1 @@
-{"index": 111976, "D": "a fine, threadlike piece, as of cotton, jute, or asbestos.", "S": ["grain ", "thread ", "tissue "], "A": []}
+{"index": 111976, "D": "a fine, threadlike piece, as of cotton, jute, or asbestos.", "S": ["grain", "thread", "tissue"], "A": []}

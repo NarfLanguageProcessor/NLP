@@ -1,1 +1,1 @@
-{"index": 95971, "D": "to bring about; effect. ", "S": ["accomplish ", "achieve ", "cause ", "create ", "execute ", "generate ", "make ", "produce ", "trigger "], "A": ["abandon ", "destroy ", "fail ", "halt ", "lose ", "miss ", "ruin ", "stop "]}
+{"index": 95971, "D": "to bring about; effect. ", "S": ["accomplish", "achieve", "cause", "create", "execute", "generate", "make", "produce", "trigger"], "A": ["abandon", "destroy", "fail", "halt", "lose", "miss", "ruin", "stop"]}

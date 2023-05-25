@@ -1,1 +1,1 @@
-{"index": 153757, "D": "to look carefully at or over; view closely and critically", "S": ["inquisitive ", "interested "], "A": ["incurious ", "unconcerned "]}
+{"index": 153757, "D": "to look carefully at or over; view closely and critically", "S": ["inquisitive", "interested"], "A": ["incurious", "unconcerned"]}

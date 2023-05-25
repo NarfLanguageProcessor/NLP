@@ -1,1 +1,1 @@
-{"index": 107678, "D": "to use up", "S": ["ante up ", "consume ", "disburse ", "dispense ", "dissipate ", "put out ", "use up "], "A": ["accumulate ", "collect ", "gather ", "hoard ", "save ", "hold ", "keep ", "maintain ", "store "]}
+{"index": 107678, "D": "to use up", "S": ["ante up", "consume", "disburse", "dispense", "dissipate", "put out", "use up"], "A": ["accumulate", "collect", "gather", "hoard", "save", "hold", "keep", "maintain", "store"]}

@@ -1,1 +1,1 @@
-{"index": 261755, "D": "grasped or understood", "S": ["accomplished ", "completed ", "executed ", "finished ", "performed "], "A": ["incomplete ", "unfinished ", "unfulfilled ", "unsubstantiated "]}
+{"index": 261755, "D": "grasped or understood", "S": ["accomplished", "completed", "executed", "finished", "performed"], "A": ["incomplete", "unfinished", "unfulfilled", "unsubstantiated"]}

@@ -1,1 +1,1 @@
-{"index": 89375, "D": "forcible separation or division into parts.", "S": ["interruption "], "A": []}
+{"index": 89375, "D": "forcible separation or division into parts.", "S": ["interruption"], "A": []}

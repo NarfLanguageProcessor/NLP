@@ -1,1 +1,1 @@
-{"index": 157368, "D": "toward the inside, interior, or center, as of a place, space, or body.", "S": ["inbound "], "A": ["outgoing ", "outward ", "public "]}
+{"index": 157368, "D": "toward the inside, interior, or center, as of a place, space, or body.", "S": ["inbound"], "A": ["outgoing", "outward", "public"]}

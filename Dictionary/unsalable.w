@@ -1,1 +1,1 @@
-{"index": 350249, "D": "subject to or suitable for sale;  readily sold", "S": ["good-for-nothing ", "no-good ", "useless "], "A": []}
+{"index": 350249, "D": "subject to or suitable for sale;  readily sold", "S": ["good-for-nothing", "no-good", "useless"], "A": []}

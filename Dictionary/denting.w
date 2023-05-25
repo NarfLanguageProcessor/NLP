@@ -1,1 +1,1 @@
-{"index": 81323, "D": "a hollow or depression in a surface, as from a blow.", "S": ["incision ", "indentation "], "A": ["increase "]}
+{"index": 81323, "D": "a hollow or depression in a surface, as from a blow.", "S": ["incision", "indentation"], "A": ["increase"]}

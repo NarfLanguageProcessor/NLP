@@ -1,1 +1,1 @@
-{"index": 248350, "D": "an act or instance of premeditating. ", "S": ["aim ", "design ", "goal ", "intent ", "plan ", "plot ", "purpose "], "A": []}
+{"index": 248350, "D": "an act or instance of premeditating. ", "S": ["aim", "design", "goal", "intent", "plan", "plot", "purpose"], "A": []}

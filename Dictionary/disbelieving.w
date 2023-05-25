@@ -1,1 +1,1 @@
-{"index": 87173, "D": "to have no belief in; refuse or reject belief in", "S": ["questioning "], "A": ["believing ", "trusting ", "unquestioning ", "unsuspicious "]}
+{"index": 87173, "D": "to have no belief in; refuse or reject belief in", "S": ["questioning"], "A": ["believing", "trusting", "unquestioning", "unsuspicious"]}

@@ -1,1 +1,1 @@
-{"index": 30518, "D": "formerly. ", "S": ["aforetime ", "already ", "before ", "formerly ", "long ago ", "of old ", "once ", "previously "], "A": []}
+{"index": 30518, "D": "formerly. ", "S": ["aforetime", "already", "before", "formerly", "long ago", "of old", "once", "previously"], "A": []}

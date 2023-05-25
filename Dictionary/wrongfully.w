@@ -1,1 +1,1 @@
-{"index": 368099, "D": "unjust or unfair", "S": ["brutally ", "cruelly ", "unjustifiably ", "unlawfully ", "wrongly "], "A": ["correctly ", "fairly ", "honestly ", "justly ", "rightly "]}
+{"index": 368099, "D": "unjust or unfair", "S": ["brutally", "cruelly", "unjustifiably", "unlawfully", "wrongly"], "A": ["correctly", "fairly", "honestly", "justly", "rightly"]}

@@ -1,1 +1,1 @@
-{"index": 193294, "D": "to reflect on or express opinions about something in terms of right and wrong, especially in a self-righteous or tiresome way.", "S": ["didactic ", "pedantic ", "sententious ", "trite "], "A": []}
+{"index": 193294, "D": "to reflect on or express opinions about something in terms of right and wrong, especially in a self-righteous or tiresome way.", "S": ["didactic", "pedantic", "sententious", "trite"], "A": []}

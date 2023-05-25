@@ -1,1 +1,1 @@
-{"index": 155608, "D": "of or pertaining to the relations between persons", "S": ["social "], "A": ["uncivil "]}
+{"index": 155608, "D": "of or pertaining to the relations between persons", "S": ["social"], "A": ["uncivil"]}

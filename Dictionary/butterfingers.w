@@ -1,1 +1,1 @@
-{"index": 43678, "D": "a person who frequently drops things; clumsy person.", "S": ["bungler ", "clod ", "dolt ", "duffer ", "fumbler ", "klutz ", "lummox ", "schlep "], "A": []}
+{"index": 43678, "D": "a person who frequently drops things; clumsy person.", "S": ["bungler", "clod", "dolt", "duffer", "fumbler", "klutz", "lummox", "schlep"], "A": []}

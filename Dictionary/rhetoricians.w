@@ -1,1 +1,1 @@
-{"index": 271912, "D": "an expert in the art of rhetoric. ", "S": ["announcer ", "elocutionist ", "lecturer ", "mouthpiece ", "orator ", "speechmaker ", "spokesperson "], "A": []}
+{"index": 271912, "D": "an expert in the art of rhetoric. ", "S": ["announcer", "elocutionist", "lecturer", "mouthpiece", "orator", "speechmaker", "spokesperson"], "A": []}

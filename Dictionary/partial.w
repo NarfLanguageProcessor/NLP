@@ -1,1 +1,1 @@
-{"index": 226989, "D": "being such in part  only; not total or general; incomplete", "S": ["limited "], "A": ["complete ", "entire ", "fair ", "just ", "total ", "unbiased ", "unprejudiced ", "whole "]}
+{"index": 226989, "D": "being such in part  only; not total or general; incomplete", "S": ["limited"], "A": ["complete", "entire", "fair", "just", "total", "unbiased", "unprejudiced", "whole"]}

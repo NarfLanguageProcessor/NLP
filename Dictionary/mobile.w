@@ -1,1 +1,1 @@
-{"index": 190942, "D": "capable of moving or being moved readily.", "S": ["ambulatory ", "fluid ", "free ", "itinerant ", "liquid ", "locomotive ", "migrant ", "motile ", "peripatetic ", "portable ", "roving ", "wandering "], "A": ["settled ", "solid "]}
+{"index": 190942, "D": "capable of moving or being moved readily.", "S": ["ambulatory", "fluid", "free", "itinerant", "liquid", "locomotive", "migrant", "motile", "peripatetic", "portable", "roving", "wandering"], "A": ["settled", "solid"]}

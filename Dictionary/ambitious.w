@@ -1,0 +1,1 @@
+{"index": 10030, "D": "having ambition;  eagerly desirous of achieving or obtaining success, power, wealth, a specific goal, etc.", "S": ["aggressive", "determined", "earnest", "energetic", "enthusiastic", "resourceful"], "A": ["lethargic", "unenthusiastic"]}

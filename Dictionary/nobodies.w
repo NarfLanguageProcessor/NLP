@@ -1,1 +1,1 @@
-{"index": 200589, "D": "no person; not anyone; no one", "S": ["cipher ", "insignificancy ", "lightweight ", "menial ", "nix ", "nothing ", "parvenu ", "small potato ", "squirt ", "upstart ", "wimp ", "zero ", "zip "], "A": ["somebody "]}
+{"index": 200589, "D": "no person; not anyone; no one", "S": ["cipher", "insignificancy", "lightweight", "menial", "nix", "nothing", "parvenu", "small potato", "squirt", "upstart", "wimp", "zero", "zip"], "A": ["somebody"]}

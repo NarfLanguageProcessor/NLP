@@ -1,1 +1,1 @@
-{"index": 132349, "D": "a person or machine that cuts hay and spreads it to dry.", "S": ["bout ", "duel ", "fight ", "fight game ", "fistic sport ", "fisticuffs ", "match ", "prizefighting ", "pugilism ", "slugfest "], "A": []}
+{"index": 132349, "D": "a person or machine that cuts hay and spreads it to dry.", "S": ["bout", "duel", "fight", "fight game", "fistic sport", "fisticuffs", "match", "prizefighting", "pugilism", "slugfest"], "A": []}

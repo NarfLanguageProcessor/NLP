@@ -1,1 +1,1 @@
-{"index": 289996, "D": "the power or faculty of seeing; perception of objects by use of the eyes; vision. ", "S": ["appearance ", "eye ", "perception ", "view ", "vision "], "A": ["blindness "]}
+{"index": 289996, "D": "the power or faculty of seeing; perception of objects by use of the eyes; vision. ", "S": ["appearance", "eye", "perception", "view", "vision"], "A": ["blindness"]}

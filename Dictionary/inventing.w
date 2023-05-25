@@ -1,1 +1,1 @@
-{"index": 157095, "D": "to originate or create as a product of one's own ingenuity, experimentation, or contrivance", "S": ["misleading "], "A": ["honest "]}
+{"index": 157095, "D": "to originate or create as a product of one's own ingenuity, experimentation, or contrivance", "S": ["misleading"], "A": ["honest"]}

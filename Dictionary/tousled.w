@@ -1,1 +1,1 @@
-{"index": 326695, "D": "disordered or disheveled", "S": ["dirty ", "disarranged ", "disheveled ", "disordered ", "ruffled ", "rumpled ", "tangled "], "A": ["neat ", "ordered ", "orderly "]}
+{"index": 326695, "D": "disordered or disheveled", "S": ["dirty", "disarranged", "disheveled", "disordered", "ruffled", "rumpled", "tangled"], "A": ["neat", "ordered", "orderly"]}

@@ -1,1 +1,1 @@
-{"index": 122861, "D": "a medieval glove, as of mail or plate, worn by a knight in armor to protect the hand.", "S": ["armor ", "challenge ", "glove ", "onslaught ", "test ", "trial "], "A": []}
+{"index": 122861, "D": "a medieval glove, as of mail or plate, worn by a knight in armor to protect the hand.", "S": ["armor", "challenge", "glove", "onslaught", "test", "trial"], "A": []}

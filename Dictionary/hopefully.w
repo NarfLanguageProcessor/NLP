@@ -1,1 +1,1 @@
-{"index": 143677, "D": "in a hopeful  manner", "S": ["confidently ", "surely "], "A": ["doubtfully ", "gloomily ", "hopelessly "]}
+{"index": 143677, "D": "in a hopeful  manner", "S": ["confidently", "surely"], "A": ["doubtfully", "gloomily", "hopelessly"]}

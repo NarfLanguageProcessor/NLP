@@ -1,1 +1,1 @@
-{"index": 13570, "D": "a person or thing that annoys;  nuisance", "S": ["anger ", "discontent ", "displeasure ", "exasperation ", "frustration ", "indignation ", "irritation ", "pique ", "unhappiness "], "A": ["calmness ", "happiness ", "joy ", "pleasure ", "satisfaction "]}
+{"index": 13570, "D": "a person or thing that annoys;  nuisance", "S": ["anger", "discontent", "displeasure", "exasperation", "frustration", "indignation", "irritation", "pique", "unhappiness"], "A": ["calmness", "happiness", "joy", "pleasure", "satisfaction"]}

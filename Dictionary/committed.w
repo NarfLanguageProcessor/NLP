@@ -1,1 +1,1 @@
-{"index": 64111, "D": "bound or obligated to a person or thing, as by pledge or assurance; devoted", "S": ["devoted ", "faithful ", "pledged "], "A": ["disloyal ", "inconstant ", "unfaithful "]}
+{"index": 64111, "D": "bound or obligated to a person or thing, as by pledge or assurance; devoted", "S": ["devoted", "faithful", "pledged"], "A": ["disloyal", "inconstant", "unfaithful"]}

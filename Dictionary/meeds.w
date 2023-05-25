@@ -1,1 +1,1 @@
-{"index": 182280, "D": "a reward or recompense.", "S": ["part ", "quota "], "A": ["extreme ", "unimportance ", "whole "]}
+{"index": 182280, "D": "a reward or recompense.", "S": ["part", "quota"], "A": ["extreme", "unimportance", "whole"]}

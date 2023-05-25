@@ -1,1 +1,1 @@
-{"index": 232107, "D": "pertaining or relating directly and significantly to the matter at hand; relevant", "S": ["timely "], "A": ["inappropriately ", "unsuitably "]}
+{"index": 232107, "D": "pertaining or relating directly and significantly to the matter at hand; relevant", "S": ["timely"], "A": ["inappropriately", "unsuitably"]}

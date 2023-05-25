@@ -1,1 +1,1 @@
-{"index": 120211, "D": "boding or causing evil or death; fatal; disastrous.", "S": ["amusing ", "enjoyable ", "entertaining ", "lively ", "pleasant "], "A": ["boring ", "disagreeable ", "tiring ", "unhappy ", "unpleasant "]}
+{"index": 120211, "D": "boding or causing evil or death; fatal; disastrous.", "S": ["amusing", "enjoyable", "entertaining", "lively", "pleasant"], "A": ["boring", "disagreeable", "tiring", "unhappy", "unpleasant"]}

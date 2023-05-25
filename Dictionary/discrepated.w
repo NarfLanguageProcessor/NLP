@@ -1,1 +1,1 @@
-{"index": 87713, "D": [], "S": ["comprehend ", "discern ", "discriminate ", "extricate ", "separate ", "understand "], "A": ["misinterpret ", "mistake ", "misunderstand "]}
+{"index": 87713, "D": [], "S": ["comprehend", "discern", "discriminate", "extricate", "separate", "understand"], "A": ["misinterpret", "mistake", "misunderstand"]}

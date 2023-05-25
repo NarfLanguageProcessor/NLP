@@ -1,1 +1,1 @@
-{"index": 106682, "D": "the act of removal; an excising. ", "S": ["ablation ", "abscission ", "cutting ", "extirpation ", "removal "], "A": []}
+{"index": 106682, "D": "the act of removal; an excising. ", "S": ["ablation", "abscission", "cutting", "extirpation", "removal"], "A": []}

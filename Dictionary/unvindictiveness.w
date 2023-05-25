@@ -1,1 +1,0 @@
-{"index": 353832, "D": "a vengeful character or quality; a spirit of revenge", "S": [], "A": []}

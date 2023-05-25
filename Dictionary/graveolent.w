@@ -1,1 +1,1 @@
-{"index": 129338, "D": "(of plants) having a strong fetid smell", "S": ["musty ", "noxious ", "putrid "], "A": ["clean ", "fresh ", "good ", "nice ", "pleasant ", "pleasing "]}
+{"index": 129338, "D": "(of plants) having a strong fetid smell", "S": ["musty", "noxious", "putrid"], "A": ["clean", "fresh", "good", "nice", "pleasant", "pleasing"]}

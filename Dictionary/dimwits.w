@@ -1,1 +1,1 @@
-{"index": 85981, "D": "a stupid or slow-thinking person.", "S": ["blockhead ", "bonehead ", "dolt ", "dullard ", "dunce ", "fool ", "idiot ", "ignoramus ", "imbecile ", "moron ", "numskull ", "simpleton ", "twit "], "A": ["brain ", "genius "]}
+{"index": 85981, "D": "a stupid or slow-thinking person.", "S": ["blockhead", "bonehead", "dolt", "dullard", "dunce", "fool", "idiot", "ignoramus", "imbecile", "moron", "numskull", "simpleton", "twit"], "A": ["brain", "genius"]}

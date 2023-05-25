@@ -1,1 +1,1 @@
-{"index": 51450, "D": "a cerecloth used for wrapping the dead.", "S": ["cloak ", "pall ", "veil "], "A": ["brightness ", "light "]}
+{"index": 51450, "D": "a cerecloth used for wrapping the dead.", "S": ["cloak", "pall", "veil"], "A": ["brightness", "light"]}

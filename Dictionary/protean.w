@@ -1,1 +1,1 @@
-{"index": 253362, "D": "readily assuming different forms or characters; extremely variable.", "S": ["multifaceted "], "A": []}
+{"index": 253362, "D": "readily assuming different forms or characters; extremely variable.", "S": ["multifaceted"], "A": []}

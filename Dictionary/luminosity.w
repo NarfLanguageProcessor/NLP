@@ -1,1 +1,1 @@
-{"index": 176116, "D": "luminance (def. 2). ", "S": ["brightness ", "fluorescence ", "glow ", "light ", "luminance "], "A": ["darkness "]}
+{"index": 176116, "D": "luminance (def. 2). ", "S": ["brightness", "fluorescence", "glow", "light", "luminance"], "A": ["darkness"]}

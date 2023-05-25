@@ -1,1 +1,1 @@
-{"index": 89569, "D": "to disguise or conceal under a false appearance; dissemble", "S": ["beard ", "camouflage ", "cloak ", "deceive ", "dissemble ", "fake ", "feign ", "hide ", "mask ", "pretend "], "A": ["reveal ", "show ", "uncover ", "unmask "]}
+{"index": 89569, "D": "to disguise or conceal under a false appearance; dissemble", "S": ["beard", "camouflage", "cloak", "deceive", "dissemble", "fake", "feign", "hide", "mask", "pretend"], "A": ["reveal", "show", "uncover", "unmask"]}

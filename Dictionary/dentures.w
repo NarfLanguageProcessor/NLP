@@ -1,1 +1,1 @@
-{"index": 81354, "D": "an artificial replacement of one or several of the teeth (partial denture ), or all of the teeth (full denture ) of either or both jaws; dental prosthesis.", "S": ["bridge ", "choppers ", "implants ", "partial "], "A": []}
+{"index": 81354, "D": "an artificial replacement of one or several of the teeth (partial denture ), or all of the teeth (full denture ) of either or both jaws; dental prosthesis.", "S": ["bridge", "choppers", "implants", "partial"], "A": []}

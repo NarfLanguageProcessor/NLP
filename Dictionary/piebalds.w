@@ -1,1 +1,1 @@
-{"index": 236160, "D": "having patches of black and white or of other colors; parti-colored.", "S": ["dappled ", "heterogeneous ", "mixed ", "multicolored ", "pinto ", "spotted ", "varicolored ", "variegated "], "A": []}
+{"index": 236160, "D": "having patches of black and white or of other colors; parti-colored.", "S": ["dappled", "heterogeneous", "mixed", "multicolored", "pinto", "spotted", "varicolored", "variegated"], "A": []}

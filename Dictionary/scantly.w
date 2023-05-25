@@ -1,1 +1,1 @@
-{"index": 279608, "D": "barely sufficient in amount or quantity; not abundant; almost inadequate", "S": ["barely ", "comparatively ", "practically ", "rarely ", "seldom ", "simply ", "somewhat "], "A": ["frequently "]}
+{"index": 279608, "D": "barely sufficient in amount or quantity; not abundant; almost inadequate", "S": ["barely", "comparatively", "practically", "rarely", "seldom", "simply", "somewhat"], "A": ["frequently"]}

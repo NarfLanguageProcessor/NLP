@@ -1,1 +1,1 @@
-{"index": 277455, "D": "a simultaneous or successive discharge of artillery, bombs, etc.", "S": ["barrage ", "bombardment ", "volley "], "A": []}
+{"index": 277455, "D": "a simultaneous or successive discharge of artillery, bombs, etc.", "S": ["barrage", "bombardment", "volley"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 112897, "D": "to come upon by chance; meet with", "S": ["treasure trove "], "A": ["modesty "]}
+{"index": 112897, "D": "to come upon by chance; meet with", "S": ["treasure trove"], "A": ["modesty"]}

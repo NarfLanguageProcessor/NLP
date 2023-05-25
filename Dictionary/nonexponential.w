@@ -1,1 +1,0 @@
-{"index": 203837, "D": "of or relating to an exponent or exponents.", "S": [], "A": []}

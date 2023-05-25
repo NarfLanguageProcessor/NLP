@@ -1,1 +1,1 @@
-{"index": 356800, "D": "the act or process of maintaining the price of something, usually through government action", "S": ["restraint "], "A": []}
+{"index": 356800, "D": "the act or process of maintaining the price of something, usually through government action", "S": ["restraint"], "A": []}

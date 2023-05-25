@@ -1,1 +1,1 @@
-{"index": 151808, "D": "a child during the earliest period of their life, especially before they can walk; baby.", "S": ["child ", "kid ", "newborn ", "toddler "], "A": ["adult "]}
+{"index": 151808, "D": "a child during the earliest period of their life, especially before they can walk; baby.", "S": ["child", "kid", "newborn", "toddler"], "A": ["adult"]}

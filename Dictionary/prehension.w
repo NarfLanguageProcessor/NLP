@@ -1,1 +1,1 @@
-{"index": 247808, "D": "the act of seizing or grasping.", "S": ["apprehension ", "awareness "], "A": ["ignorance ", "inability "]}
+{"index": 247808, "D": "the act of seizing or grasping.", "S": ["apprehension", "awareness"], "A": ["ignorance", "inability"]}

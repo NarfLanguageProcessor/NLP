@@ -1,1 +1,1 @@
-{"index": 61536, "D": "a small loft  or attic above the highest finished ceiling of a building.", "S": ["loft ", "turret ", "watchtower "], "A": []}
+{"index": 61536, "D": "a small loft  or attic above the highest finished ceiling of a building.", "S": ["loft", "turret", "watchtower"], "A": []}

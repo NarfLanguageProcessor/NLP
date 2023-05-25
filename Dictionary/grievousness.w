@@ -1,1 +1,1 @@
-{"index": 129820, "D": "causing grief  or great sorrow", "S": ["anguish ", "hostility ", "pain ", "sarcasm "], "A": ["comfort ", "happiness ", "joy "]}
+{"index": 129820, "D": "causing grief  or great sorrow", "S": ["anguish", "hostility", "pain", "sarcasm"], "A": ["comfort", "happiness", "joy"]}

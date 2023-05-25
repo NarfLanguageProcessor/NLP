@@ -1,1 +1,1 @@
-{"index": 295964, "D": "to lie in and become saturated or permeated with water or some other liquid.", "S": ["drowned ", "sodden ", "soggy ", "wet "], "A": ["dehydrated ", "dry "]}
+{"index": 295964, "D": "to lie in and become saturated or permeated with water or some other liquid.", "S": ["drowned", "sodden", "soggy", "wet"], "A": ["dehydrated", "dry"]}

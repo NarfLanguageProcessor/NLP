@@ -1,1 +1,1 @@
-{"index": 57070, "D": "any of several chemical compounds used as a noncaloric sweetening agent in foods and beverages", "S": ["aspartame ", "calcium cyclamate ", "saccharin ", "sodium cyclamate ", "sucralose ", "sweetening agent "], "A": []}
+{"index": 57070, "D": "any of several chemical compounds used as a noncaloric sweetening agent in foods and beverages", "S": ["aspartame", "calcium cyclamate", "saccharin", "sodium cyclamate", "sucralose", "sweetening agent"], "A": []}

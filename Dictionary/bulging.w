@@ -1,1 +1,1 @@
-{"index": 42453, "D": "a rounded projection, bend, or protruding part; protuberance; hump", "S": ["convex "], "A": ["contracting "]}
+{"index": 42453, "D": "a rounded projection, bend, or protruding part; protuberance; hump", "S": ["convex"], "A": ["contracting"]}

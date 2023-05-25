@@ -1,1 +1,1 @@
-{"index": 355944, "D": "a customary way of doing something; a custom or practice", "S": ["management "], "A": ["disagreement ", "disorganization ", "ignorance ", "mismanagement "]}
+{"index": 355944, "D": "a customary way of doing something; a custom or practice", "S": ["management"], "A": ["disagreement", "disorganization", "ignorance", "mismanagement"]}

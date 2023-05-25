@@ -1,1 +1,1 @@
-{"index": 319661, "D": "of the third order, rank, stage, formation, etc.; third.", "S": ["triennial "], "A": []}
+{"index": 319661, "D": "of the third order, rank, stage, formation, etc.; third.", "S": ["triennial"], "A": []}

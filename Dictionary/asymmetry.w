@@ -1,1 +1,1 @@
-{"index": 21241, "D": "the quality or state of being asymmetric. ", "S": ["imbalance ", "inequality "], "A": []}
+{"index": 21241, "D": "the quality or state of being asymmetric. ", "S": ["imbalance", "inequality"], "A": []}

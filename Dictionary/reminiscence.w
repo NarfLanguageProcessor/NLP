@@ -1,1 +1,1 @@
-{"index": 267311, "D": "the act or process of recalling past experiences, events, etc.", "S": ["anecdote ", "recollection ", "remembrance "], "A": []}
+{"index": 267311, "D": "the act or process of recalling past experiences, events, etc.", "S": ["anecdote", "recollection", "remembrance"], "A": []}

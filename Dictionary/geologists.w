@@ -1,1 +1,1 @@
-{"index": 123914, "D": "a person who specializes in geologic research and study.", "S": ["earth scientist ", "mineral collector ", "rock collector ", "rock hobbyist ", "rock hunter "], "A": []}
+{"index": 123914, "D": "a person who specializes in geologic research and study.", "S": ["earth scientist", "mineral collector", "rock collector", "rock hobbyist", "rock hunter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 33648, "D": "having two foci.", "S": ["glass "], "A": []}
+{"index": 33648, "D": "having two foci.", "S": ["glass"], "A": []}

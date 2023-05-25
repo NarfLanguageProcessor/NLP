@@ -1,1 +1,1 @@
-{"index": 297470, "D": "sleepy. ", "S": ["senseless "], "A": ["alert ", "awake ", "conscious "]}
+{"index": 297470, "D": "sleepy. ", "S": ["senseless"], "A": ["alert", "awake", "conscious"]}

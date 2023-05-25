@@ -1,1 +1,1 @@
-{"index": 173246, "D": "having large or prominent lips. ", "S": ["cheeky ", "cocky ", "disrespectful ", "glib ", "offhand ", "playful ", "rude "], "A": ["mannerly ", "nice ", "respectful "]}
+{"index": 173246, "D": "having large or prominent lips. ", "S": ["cheeky", "cocky", "disrespectful", "glib", "offhand", "playful", "rude"], "A": ["mannerly", "nice", "respectful"]}

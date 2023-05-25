@@ -1,1 +1,1 @@
-{"index": 77380, "D": "to overpower or dim the vision of by intense light", "S": ["astonish ", "awe ", "blind ", "blur ", "daze ", "excite ", "fascinate ", "hypnotize ", "impress ", "overwhelm ", "surprise "], "A": ["bore ", "calm ", "expect "]}
+{"index": 77380, "D": "to overpower or dim the vision of by intense light", "S": ["astonish", "awe", "blind", "blur", "daze", "excite", "fascinate", "hypnotize", "impress", "overwhelm", "surprise"], "A": ["bore", "calm", "expect"]}

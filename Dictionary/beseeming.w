@@ -1,1 +1,1 @@
-{"index": 32299, "D": "to be fit for or worthy of; become", "S": ["becoming ", "conforming ", "correct ", "fit ", "fitting ", "right "], "A": ["imprecise ", "improper ", "inaccurate ", "inappropriate ", "incorrect ", "unfit ", "unfitting ", "unseemly ", "unsuitable ", "unsuited ", "wrong "]}
+{"index": 32299, "D": "to be fit for or worthy of; become", "S": ["becoming", "conforming", "correct", "fit", "fitting", "right"], "A": ["imprecise", "improper", "inaccurate", "inappropriate", "incorrect", "unfit", "unfitting", "unseemly", "unsuitable", "unsuited", "wrong"]}

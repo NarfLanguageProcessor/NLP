@@ -1,1 +1,0 @@
-{"index": 199333, "D": "(of a cell or cell part) having an affinity for neutral dyes.", "S": [], "A": []}

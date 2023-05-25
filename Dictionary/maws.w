@@ -1,1 +1,1 @@
-{"index": 181503, "D": "the mouth, throat, or gullet of an animal, especially a carnivorous mammal.", "S": ["craw ", "crop ", "gullet ", "jaws "], "A": []}
+{"index": 181503, "D": "the mouth, throat, or gullet of an animal, especially a carnivorous mammal.", "S": ["craw", "crop", "gullet", "jaws"], "A": []}

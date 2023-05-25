@@ -1,1 +1,1 @@
-{"index": 38505, "D": "(in certain states of the U.S.) an incorporated municipality smaller than a city.", "S": ["district ", "precinct "], "A": []}
+{"index": 38505, "D": "(in certain states of the U.S.) an incorporated municipality smaller than a city.", "S": ["district", "precinct"], "A": []}

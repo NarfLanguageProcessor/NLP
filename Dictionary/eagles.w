@@ -1,1 +1,1 @@
-{"index": 94689, "D": "Compare bald eagle, golden eagle. ", "S": ["flier ", "navigator ", "pilot "], "A": []}
+{"index": 94689, "D": "Compare bald eagle, golden eagle. ", "S": ["flier", "navigator", "pilot"], "A": []}

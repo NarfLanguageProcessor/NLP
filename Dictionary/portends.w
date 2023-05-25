@@ -1,1 +1,1 @@
-{"index": 243614, "D": "to indicate in advance; to foreshadow or presage, as an omen does", "S": ["augur ", "bespeak ", "foretell ", "predict ", "presage "], "A": []}
+{"index": 243614, "D": "to indicate in advance; to foreshadow or presage, as an omen does", "S": ["augur", "bespeak", "foretell", "predict", "presage"], "A": []}

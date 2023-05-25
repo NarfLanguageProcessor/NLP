@@ -1,1 +1,1 @@
-{"index": 90239, "D": "diverging;  differing; deviating.", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}
+{"index": 90239, "D": "diverging;  differing; deviating.", "S": ["individually", "negatively", "separately", "variously"], "A": ["together"]}

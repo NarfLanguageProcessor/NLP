@@ -1,1 +1,1 @@
-{"index": 253965, "D": "the condition, state, or quality of being protuberant. ", "S": ["bulge ", "bump ", "excrescence ", "jut ", "jutting ", "knob ", "outthrust ", "process ", "projection ", "prominence ", "protrusion ", "swelling ", "tumor "], "A": ["depression "]}
+{"index": 253965, "D": "the condition, state, or quality of being protuberant. ", "S": ["bulge", "bump", "excrescence", "jut", "jutting", "knob", "outthrust", "process", "projection", "prominence", "protrusion", "swelling", "tumor"], "A": ["depression"]}

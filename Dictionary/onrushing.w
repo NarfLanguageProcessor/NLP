@@ -1,1 +1,1 @@
-{"index": 212909, "D": "a strong forward rush, flow, etc.", "S": ["approaching "], "A": ["past ", "preceding "]}
+{"index": 212909, "D": "a strong forward rush, flow, etc.", "S": ["approaching"], "A": ["past", "preceding"]}

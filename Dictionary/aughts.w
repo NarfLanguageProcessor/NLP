@@ -1,1 +1,1 @@
-{"index": 23368, "D": "anything whatever; any part", "S": ["cipher ", "zero ", "zilch "], "A": []}
+{"index": 23368, "D": "anything whatever; any part", "S": ["cipher", "zero", "zilch"], "A": []}

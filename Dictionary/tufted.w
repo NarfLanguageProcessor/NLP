@@ -1,1 +1,1 @@
-{"index": 332151, "D": "furnished or decorated with tufts. ", "S": ["cespitose ", "comose ", "feathered ", "wispy "], "A": []}
+{"index": 332151, "D": "furnished or decorated with tufts. ", "S": ["cespitose", "comose", "feathered", "wispy"], "A": []}

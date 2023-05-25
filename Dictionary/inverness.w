@@ -1,1 +1,1 @@
-{"index": 157126, "D": "a historic county in NW Scotland.", "S": ["parka ", "raincoat "], "A": []}
+{"index": 157126, "D": "a historic county in NW Scotland.", "S": ["parka", "raincoat"], "A": []}

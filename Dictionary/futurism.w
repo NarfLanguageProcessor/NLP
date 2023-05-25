@@ -1,1 +1,1 @@
-{"index": 120718, "D": "a style of the fine arts developed originally by a group of Italian artists about 1910 in which forms derived chiefly from cubism were used to represent rapid movement and dynamic motion.", "S": ["SF ", "sci-fi "], "A": []}
+{"index": 120718, "D": "a style of the fine arts developed originally by a group of Italian artists about 1910 in which forms derived chiefly from cubism were used to represent rapid movement and dynamic motion.", "S": ["SF", "sci-fi"], "A": []}

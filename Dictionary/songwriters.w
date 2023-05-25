@@ -1,1 +1,1 @@
-{"index": 297231, "D": "a person who writes the words or music, or both, for popular songs. ", "S": ["composer ", "musician ", "poet "], "A": []}
+{"index": 297231, "D": "a person who writes the words or music, or both, for popular songs. ", "S": ["composer", "musician", "poet"], "A": []}

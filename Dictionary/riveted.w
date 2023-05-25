@@ -1,1 +1,1 @@
-{"index": 273416, "D": "fixed in place with or as if with rivets,  fastened firmly", "S": ["absorbed ", "captivated ", "consumed ", "engaged ", "enthralled ", "submerged "], "A": ["existing ", "idle ", "inactive "]}
+{"index": 273416, "D": "fixed in place with or as if with rivets,  fastened firmly", "S": ["absorbed", "captivated", "consumed", "engaged", "enthralled", "submerged"], "A": ["existing", "idle", "inactive"]}

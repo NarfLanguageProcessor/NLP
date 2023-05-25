@@ -1,1 +1,1 @@
-{"index": 227089, "D": "divided into parts, usually into a specified number of parts (usually used in combination)", "S": ["branched ", "cleft ", "prorated ", "reft ", "split "], "A": ["undivided "]}
+{"index": 227089, "D": "divided into parts, usually into a specified number of parts (usually used in combination)", "S": ["branched", "cleft", "prorated", "reft", "split"], "A": ["undivided"]}

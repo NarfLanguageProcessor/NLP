@@ -1,1 +1,1 @@
-{"index": 358518, "D": [], "S": ["accuracy ", "certainty ", "credibility ", "faithfulness ", "genuineness ", "legitimacy ", "reliability ", "truthfulness ", "validity "], "A": ["dishonesty "]}
+{"index": 358518, "D": [], "S": ["accuracy", "certainty", "credibility", "faithfulness", "genuineness", "legitimacy", "reliability", "truthfulness", "validity"], "A": ["dishonesty"]}

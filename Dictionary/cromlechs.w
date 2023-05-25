@@ -1,1 +1,1 @@
-{"index": 73644, "D": "(no longer in technical use) a megalithic chamber tomb.", "S": ["boulder ", "monolith "], "A": []}
+{"index": 73644, "D": "(no longer in technical use) a megalithic chamber tomb.", "S": ["boulder", "monolith"], "A": []}

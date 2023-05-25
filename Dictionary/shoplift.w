@@ -1,1 +1,1 @@
-{"index": 288820, "D": "to steal (merchandise) as a shoplifter. ", "S": ["pilfer "], "A": ["give ", "offer ", "receive "]}
+{"index": 288820, "D": "to steal (merchandise) as a shoplifter. ", "S": ["pilfer"], "A": ["give", "offer", "receive"]}

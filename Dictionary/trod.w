@@ -1,1 +1,1 @@
-{"index": 330974, "D": "a simple past tense and past participle of tread. ", "S": ["squash ", "step on ", "trample "], "A": ["encourage ", "let go ", "release ", "tiptoe "]}
+{"index": 330974, "D": "a simple past tense and past participle of tread. ", "S": ["squash", "step on", "trample"], "A": ["encourage", "let go", "release", "tiptoe"]}

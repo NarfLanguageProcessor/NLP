@@ -1,1 +1,1 @@
-{"index": 194036, "D": "(of a road) suitable for use by motor vehicles", "S": ["graded ", "navigable ", "reachable "], "A": ["blocked ", "excellent ", "exceptional ", "obstructed ", "superior "]}
+{"index": 194036, "D": "(of a road) suitable for use by motor vehicles", "S": ["graded", "navigable", "reachable"], "A": ["blocked", "excellent", "exceptional", "obstructed", "superior"]}

@@ -1,1 +1,1 @@
-{"index": 331679, "D": "the office or function of a trustee. ", "S": ["care ", "guardianship ", "protection "], "A": ["destruction ", "neglect ", "waste "]}
+{"index": 331679, "D": "the office or function of a trustee. ", "S": ["care", "guardianship", "protection"], "A": ["destruction", "neglect", "waste"]}

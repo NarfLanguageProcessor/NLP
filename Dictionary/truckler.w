@@ -1,1 +1,1 @@
-{"index": 331477, "D": "truckle bed. ", "S": ["adulator "], "A": []}
+{"index": 331477, "D": "truckle bed. ", "S": ["adulator"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 21863, "D": "to connect or bring into relation, as thought, feeling, memory, etc.", "S": ["accomplice ", "ally ", "assistant ", "buddy ", "co-worker ", "cohort ", "collaborator ", "companion ", "comrade ", "crony ", "fellow ", "friend ", "partner "], "A": ["enemy ", "foe ", "opponent "]}
+{"index": 21863, "D": "to connect or bring into relation, as thought, feeling, memory, etc.", "S": ["accomplice", "ally", "assistant", "buddy", "co-worker", "cohort", "collaborator", "companion", "comrade", "crony", "fellow", "friend", "partner"], "A": ["enemy", "foe", "opponent"]}

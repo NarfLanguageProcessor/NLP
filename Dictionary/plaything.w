@@ -1,1 +1,1 @@
-{"index": 238853, "D": "a thing  to play  with; toy.", "S": ["bauble ", "gadget ", "pastime "], "A": ["implement ", "instrument ", "tool ", "utensil "]}
+{"index": 238853, "D": "a thing  to play  with; toy.", "S": ["bauble", "gadget", "pastime"], "A": ["implement", "instrument", "tool", "utensil"]}

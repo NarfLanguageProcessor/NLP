@@ -1,1 +1,0 @@
-{"index": 216839, "D": "a joke or witty remark; witticism.", "S": [], "A": []}

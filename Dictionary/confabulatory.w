@@ -1,1 +1,1 @@
-{"index": 65773, "D": "the act of confabulating; conversation; discussion", "S": ["casual conversational ", "chatty ", "gabby ", "informal ", "loquacious ", "relaxed ", "talky ", "vocal "], "A": []}
+{"index": 65773, "D": "the act of confabulating; conversation; discussion", "S": ["casual conversational", "chatty", "gabby", "informal", "loquacious", "relaxed", "talky", "vocal"], "A": []}

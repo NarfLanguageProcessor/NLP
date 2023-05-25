@@ -1,1 +1,1 @@
-{"index": 107840, "D": "capable of being explained.", "S": ["intelligible ", "solvable ", "understandable "], "A": ["incomprehensible "]}
+{"index": 107840, "D": "capable of being explained.", "S": ["intelligible", "solvable", "understandable"], "A": ["incomprehensible"]}

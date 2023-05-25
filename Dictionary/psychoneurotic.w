@@ -1,1 +1,1 @@
-{"index": 255418, "D": "neurotic1. ", "S": ["compulsive ", "distraught ", "disturbed ", "manic ", "obsessive "], "A": ["normal "]}
+{"index": 255418, "D": "neurotic1. ", "S": ["compulsive", "distraught", "disturbed", "manic", "obsessive"], "A": ["normal"]}

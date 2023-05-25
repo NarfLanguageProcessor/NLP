@@ -1,1 +1,1 @@
-{"index": 241369, "D": "(of a person) composed, dignified, and self-assured.", "S": ["audacious ", "certain ", "composed ", "confident ", "gutsy ", "self-assured ", "self-confident ", "sure ", "unflappable "], "A": ["humble ", "meek ", "shy ", "timid ", "uncertain ", "unconfident ", "unsure "]}
+{"index": 241369, "D": "(of a person) composed, dignified, and self-assured.", "S": ["audacious", "certain", "composed", "confident", "gutsy", "self-assured", "self-confident", "sure", "unflappable"], "A": ["humble", "meek", "shy", "timid", "uncertain", "unconfident", "unsure"]}

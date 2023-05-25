@@ -1,1 +1,1 @@
-{"index": 271677, "D": "to write  in a different form or manner; revise", "S": ["edit ", "rework "], "A": []}
+{"index": 271677, "D": "to write  in a different form or manner; revise", "S": ["edit", "rework"], "A": []}

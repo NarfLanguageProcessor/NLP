@@ -1,1 +1,1 @@
-{"index": 169323, "D": "expended, bestowed, or occurring in profusion", "S": ["dissipation ", "indulgence ", "squandering ", "wastefulness "], "A": []}
+{"index": 169323, "D": "expended, bestowed, or occurring in profusion", "S": ["dissipation", "indulgence", "squandering", "wastefulness"], "A": []}

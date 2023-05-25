@@ -1,1 +1,1 @@
-{"index": 113479, "D": "a cuff or blow with the fist.", "S": ["bat ", "blow ", "punch ", "shot ", "swing "], "A": []}
+{"index": 113479, "D": "a cuff or blow with the fist.", "S": ["bat", "blow", "punch", "shot", "swing"], "A": []}

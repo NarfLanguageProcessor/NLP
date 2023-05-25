@@ -1,1 +1,1 @@
-{"index": 127953, "D": "guck. ", "S": ["excrement ", "ground ", "muck ", "mud ", "soil ", "stain "], "A": ["cleanliness "]}
+{"index": 127953, "D": "guck. ", "S": ["excrement", "ground", "muck", "mud", "soil", "stain"], "A": ["cleanliness"]}

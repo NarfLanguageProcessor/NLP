@@ -1,1 +1,1 @@
-{"index": 18220, "D": "of, in, or pertaining to water.", "S": ["amphibious ", "floating ", "marine ", "maritime "], "A": []}
+{"index": 18220, "D": "of, in, or pertaining to water.", "S": ["amphibious", "floating", "marine", "maritime"], "A": []}

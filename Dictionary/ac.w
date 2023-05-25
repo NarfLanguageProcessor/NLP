@@ -1,1 +1,1 @@
-{"index": 1207, "D": "acre; acres.", "S": ["electrical ", "magnetic "], "A": ["boring ", "dull ", "unenergetic ", "unexciting "]}
+{"index": 1207, "D": "acre; acres.", "S": ["electrical", "magnetic"], "A": ["boring", "dull", "unenergetic", "unexciting"]}

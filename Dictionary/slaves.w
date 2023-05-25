@@ -1,1 +1,1 @@
-{"index": 293793, "D": "a person who is the property of and wholly subject to another and forced to provide unpaid labor.", "S": ["captive ", "laborer ", "serf ", "servant ", "victim ", "worker "], "A": ["master "]}
+{"index": 293793, "D": "a person who is the property of and wholly subject to another and forced to provide unpaid labor.", "S": ["captive", "laborer", "serf", "servant", "victim", "worker"], "A": ["master"]}

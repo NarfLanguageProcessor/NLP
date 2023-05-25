@@ -1,1 +1,1 @@
-{"index": 183481, "D": "measurable. ", "S": ["perceptible ", "quantitative ", "significant "], "A": ["imperceptible ", "insignificant ", "unmeasurable "]}
+{"index": 183481, "D": "measurable. ", "S": ["perceptible", "quantitative", "significant"], "A": ["imperceptible", "insignificant", "unmeasurable"]}

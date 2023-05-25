@@ -1,1 +1,1 @@
-{"index": 227247, "D": "a satire or lampoon, especially one posted in a public place.", "S": ["caricature ", "mock ", "parody ", "satirize "], "A": ["applaud ", "approve ", "praise ", "support "]}
+{"index": 227247, "D": "a satire or lampoon, especially one posted in a public place.", "S": ["caricature", "mock", "parody", "satirize"], "A": ["applaud", "approve", "praise", "support"]}

@@ -1,1 +1,1 @@
-{"index": 245228, "D": "to offer devout petition, praise, thanks, etc., to (God or an object of worship).", "S": ["ask ", "beseech ", "recite ", "urge "], "A": ["answer ", "refuse "]}
+{"index": 245228, "D": "to offer devout petition, praise, thanks, etc., to (God or an object of worship).", "S": ["ask", "beseech", "recite", "urge"], "A": ["answer", "refuse"]}

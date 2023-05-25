@@ -1,1 +1,0 @@
-{"index": 271837, "D": "(in ancient Rome) a four-wheeled traveling carriage.", "S": [], "A": []}

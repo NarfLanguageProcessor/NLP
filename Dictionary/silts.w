@@ -1,1 +1,1 @@
-{"index": 290576, "D": "earthy matter, fine sand, or the like carried by moving or running water and deposited as a sediment.", "S": ["residue ", "sand "], "A": []}
+{"index": 290576, "D": "earthy matter, fine sand, or the like carried by moving or running water and deposited as a sediment.", "S": ["residue", "sand"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 191950, "D": "to subject (a breed, group, etc.) to crossbreeding, especially with one considered inferior.", "S": ["crossbreed ", "hybridize ", "interbreed ", "mix "], "A": ["divide ", "part ", "separate "]}
+{"index": 191950, "D": "to subject (a breed, group, etc.) to crossbreeding, especially with one considered inferior.", "S": ["crossbreed", "hybridize", "interbreed", "mix"], "A": ["divide", "part", "separate"]}

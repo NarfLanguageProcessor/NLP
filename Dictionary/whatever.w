@@ -1,1 +1,1 @@
-{"index": 364448, "D": "anything that (usually used in relative clauses)", "S": ["whatsoever "], "A": []}
+{"index": 364448, "D": "anything that (usually used in relative clauses)", "S": ["whatsoever"], "A": []}

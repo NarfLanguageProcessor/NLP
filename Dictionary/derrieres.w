@@ -1,1 +1,1 @@
-{"index": 82328, "D": "the buttocks; rump.", "S": ["butt ", "posterior ", "rump "], "A": []}
+{"index": 82328, "D": "the buttocks; rump.", "S": ["butt", "posterior", "rump"], "A": []}

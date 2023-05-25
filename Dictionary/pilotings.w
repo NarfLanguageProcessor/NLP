@@ -1,1 +1,1 @@
-{"index": 236786, "D": "the determination of the course or position of a ship or airplane by any of various navigational methods or devices.", "S": ["boating ", "exploration ", "shipping "], "A": []}
+{"index": 236786, "D": "the determination of the course or position of a ship or airplane by any of various navigational methods or devices.", "S": ["boating", "exploration", "shipping"], "A": []}

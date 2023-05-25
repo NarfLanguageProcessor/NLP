@@ -1,1 +1,1 @@
-{"index": 195989, "D": "of, relating to, or producing music", "S": ["harmonious ", "like music ", "mellifluously ", "melodiously ", "tunefully "], "A": []}
+{"index": 195989, "D": "of, relating to, or producing music", "S": ["harmonious", "like music", "mellifluously", "melodiously", "tunefully"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 38560, "D": [], "S": ["Captain Hook ", "bender ", "breaking ball ", "curve ", "googly ", "hook ball ", "slurve ", "wrong'un "], "A": []}
+{"index": 38560, "D": [], "S": ["Captain Hook", "bender", "breaking ball", "curve", "googly", "hook ball", "slurve", "wrong'un"], "A": []}

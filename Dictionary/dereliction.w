@@ -1,1 +1,1 @@
-{"index": 82049, "D": "deliberate or conscious neglect; negligence; delinquency", "S": ["desertion ", "desolation ", "forsaking ", "relinquishment "], "A": []}
+{"index": 82049, "D": "deliberate or conscious neglect; negligence; delinquency", "S": ["desertion", "desolation", "forsaking", "relinquishment"], "A": []}

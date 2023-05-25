@@ -1,1 +1,1 @@
-{"index": 146942, "D": "last year.", "S": ["eld ", "past "], "A": []}
+{"index": 146942, "D": "last year.", "S": ["eld", "past"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 160217, "D": "an old, decrepit, or unpretentious automobile.", "S": ["heap ", "junker ", "wreck "], "A": []}
+{"index": 160217, "D": "an old, decrepit, or unpretentious automobile.", "S": ["heap", "junker", "wreck"], "A": []}

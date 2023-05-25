@@ -1,1 +1,1 @@
-{"index": 304320, "D": "to argue or haggle insistently, especially on trivial matters.", "S": ["fussy ", "persnickety ", "picky "], "A": ["messy ", "nonchalant "]}
+{"index": 304320, "D": "to argue or haggle insistently, especially on trivial matters.", "S": ["fussy", "persnickety", "picky"], "A": ["messy", "nonchalant"]}

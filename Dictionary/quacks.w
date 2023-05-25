@@ -1,1 +1,1 @@
-{"index": 257469, "D": "the harsh, throaty cry of a duck or any similar sound.", "S": ["bum ", "dissembling ", "fake ", "phony ", "pretended ", "pseudo ", "sham ", "simulated "], "A": ["genuine ", "real ", "sincere ", "true "]}
+{"index": 257469, "D": "the harsh, throaty cry of a duck or any similar sound.", "S": ["bum", "dissembling", "fake", "phony", "pretended", "pseudo", "sham", "simulated"], "A": ["genuine", "real", "sincere", "true"]}

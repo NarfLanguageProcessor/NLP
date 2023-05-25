@@ -1,1 +1,1 @@
-{"index": 109277, "D": "gladly; willingly", "S": ["eager ", "game ", "inclined ", "minded ", "prepared ", "ready "], "A": []}
+{"index": 109277, "D": "gladly; willingly", "S": ["eager", "game", "inclined", "minded", "prepared", "ready"], "A": []}

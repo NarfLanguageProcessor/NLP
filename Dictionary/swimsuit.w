@@ -1,1 +1,1 @@
-{"index": 314446, "D": "bathing suit. ", "S": ["bikini "], "A": []}
+{"index": 314446, "D": "bathing suit. ", "S": ["bikini"], "A": []}

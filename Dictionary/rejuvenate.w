@@ -1,1 +1,1 @@
-{"index": 266644, "D": "to make young again; restore to youthful vigor, appearance, etc.", "S": ["modernize ", "reconstruct ", "refresh ", "regenerate ", "reinvigorate ", "renew ", "renovate ", "restore ", "revitalize "], "A": ["damage ", "destroy ", "kill ", "ruin ", "lose ", "miss "]}
+{"index": 266644, "D": "to make young again; restore to youthful vigor, appearance, etc.", "S": ["modernize", "reconstruct", "refresh", "regenerate", "reinvigorate", "renew", "renovate", "restore", "revitalize"], "A": ["damage", "destroy", "kill", "ruin", "lose", "miss"]}

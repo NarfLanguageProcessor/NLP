@@ -1,1 +1,1 @@
-{"index": 248273, "D": "introductory. ", "S": ["inaugural ", "preparatory "], "A": ["concluding ", "ending ", "final ", "finishing ", "last "]}
+{"index": 248273, "D": "introductory. ", "S": ["inaugural", "preparatory"], "A": ["concluding", "ending", "final", "finishing", "last"]}

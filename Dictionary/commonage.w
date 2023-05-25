@@ -1,1 +1,1 @@
-{"index": 64157, "D": "the joint use of anything, especially a pasture.", "S": ["cooperative ", "kibbutz ", "municipality ", "village "], "A": []}
+{"index": 64157, "D": "the joint use of anything, especially a pasture.", "S": ["cooperative", "kibbutz", "municipality", "village"], "A": []}

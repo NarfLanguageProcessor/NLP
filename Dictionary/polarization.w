@@ -1,1 +1,1 @@
-{"index": 241491, "D": "a sharp division, as of a population or group, into opposing factions.", "S": ["emission "], "A": ["collection "]}
+{"index": 241491, "D": "a sharp division, as of a population or group, into opposing factions.", "S": ["emission"], "A": ["collection"]}

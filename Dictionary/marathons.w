@@ -1,1 +1,1 @@
-{"index": 179819, "D": "a footrace or wheelchair race  over a course measuring 26 miles 385 yards (42 kilometers 195 meters).", "S": ["cross-country race ", "endurance run ", "test of endurance "], "A": []}
+{"index": 179819, "D": "a footrace or wheelchair race  over a course measuring 26 miles 385 yards (42 kilometers 195 meters).", "S": ["cross-country race", "endurance run", "test of endurance"], "A": []}

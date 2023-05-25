@@ -1,1 +1,0 @@
-{"index": 322828, "D": "a stifling grip; stranglehold", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197040, "D": "to give an account or tell the story of (events, experiences, etc.).", "S": ["monologue ", "narration ", "oration ", "recital ", "recounting ", "rendering "], "A": ["denial ", "quiet ", "refusal ", "silence ", "whole "]}
+{"index": 197040, "D": "to give an account or tell the story of (events, experiences, etc.).", "S": ["monologue", "narration", "oration", "recital", "recounting", "rendering"], "A": ["denial", "quiet", "refusal", "silence", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 278919, "D": "cabbage cut fine, salted, and allowed to ferment until sour.", "S": ["broccoli ", "coleslaw ", "colewort ", "collards ", "kale ", "savoy "], "A": []}
+{"index": 278919, "D": "cabbage cut fine, salted, and allowed to ferment until sour.", "S": ["broccoli", "coleslaw", "colewort", "collards", "kale", "savoy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 108598, "D": "an act or instance of inferring an unknown from something that is known.", "S": ["calculation ", "estimate ", "estimation ", "forecast "], "A": ["depression "]}
+{"index": 108598, "D": "an act or instance of inferring an unknown from something that is known.", "S": ["calculation", "estimate", "estimation", "forecast"], "A": ["depression"]}

@@ -1,1 +1,0 @@
-{"index": 260846, "D": "(in Hindu aesthetics) flavor, sentiment, or emotion", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 134972, "D": "a device or system for supplying heat, esp central heating, to a building", "S": ["cooking ", "melting ", "warming "], "A": ["cooling ", "freezing ", "refrigeration "]}
+{"index": 134972, "D": "a device or system for supplying heat, esp central heating, to a building", "S": ["cooking", "melting", "warming"], "A": ["cooling", "freezing", "refrigeration"]}

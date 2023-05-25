@@ -1,1 +1,1 @@
-{"index": 66210, "D": [], "S": ["clotting ", "clump ", "lump "], "A": ["individual ", "one "]}
+{"index": 66210, "D": [], "S": ["clotting", "clump", "lump"], "A": ["individual", "one"]}

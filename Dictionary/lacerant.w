@@ -1,1 +1,0 @@
-{"index": 166849, "D": "painfully distressing; harrowing", "S": [], "A": []}

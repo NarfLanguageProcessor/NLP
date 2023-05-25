@@ -1,1 +1,1 @@
-{"index": 129779, "D": "a frying pan with a handle and a slightly raised edge, for cooking pancakes, bacon, etc., over direct heat.", "S": ["frizz ", "frizzle ", "fry ", "griddle ", "pan ", "sear "], "A": []}
+{"index": 129779, "D": "a frying pan with a handle and a slightly raised edge, for cooking pancakes, bacon, etc., over direct heat.", "S": ["frizz", "frizzle", "fry", "griddle", "pan", "sear"], "A": []}

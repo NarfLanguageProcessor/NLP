@@ -1,1 +1,1 @@
-{"index": 159809, "D": "to talk or utter rapidly, indistinctly, incoherently, or nonsensically; chatter.", "S": ["blabbering ", "blathering ", "blithering ", "chitchatting ", "driveling ", "gibbering ", "prattling "], "A": []}
+{"index": 159809, "D": "to talk or utter rapidly, indistinctly, incoherently, or nonsensically; chatter.", "S": ["blabbering", "blathering", "blithering", "chitchatting", "driveling", "gibbering", "prattling"], "A": []}

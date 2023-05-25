@@ -1,1 +1,1 @@
-{"index": 348429, "D": [], "S": ["humble ", "moderate ", "prudent ", "quiet ", "simple ", "unassuming "], "A": ["brave ", "complex ", "complicated ", "intricate "]}
+{"index": 348429, "D": [], "S": ["humble", "moderate", "prudent", "quiet", "simple", "unassuming"], "A": ["brave", "complex", "complicated", "intricate"]}

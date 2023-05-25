@@ -1,1 +1,1 @@
-{"index": 331687, "D": "able to be trusted  or relied on; trustworthy; reliable.", "S": ["faithful "], "A": ["untrustworthy "]}
+{"index": 331687, "D": "able to be trusted  or relied on; trustworthy; reliable.", "S": ["faithful"], "A": ["untrustworthy"]}

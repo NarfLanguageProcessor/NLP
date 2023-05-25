@@ -1,1 +1,1 @@
-{"index": 281543, "D": "to climb or move quickly using one's hands and feet, as down a rough incline.", "S": ["free-for-all ", "melee ", "rush ", "struggle ", "tussle "], "A": ["peace ", "order ", "organization "]}
+{"index": 281543, "D": "to climb or move quickly using one's hands and feet, as down a rough incline.", "S": ["free-for-all", "melee", "rush", "struggle", "tussle"], "A": ["peace", "order", "organization"]}

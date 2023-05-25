@@ -1,1 +1,0 @@
-{"index": 225335, "D": "a coin and monetary unit of Macedonia and Serbia, one 100th of a dinar.", "S": [], "A": []}

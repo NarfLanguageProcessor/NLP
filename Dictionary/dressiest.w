@@ -1,1 +1,1 @@
-{"index": 92987, "D": "appropriate to somewhat formal occasions", "S": ["chic ", "classy ", "elegant ", "stylish "], "A": ["inelegant ", "old-fashioned ", "unfashionable ", "unstylish "]}
+{"index": 92987, "D": "appropriate to somewhat formal occasions", "S": ["chic", "classy", "elegant", "stylish"], "A": ["inelegant", "old-fashioned", "unfashionable", "unstylish"]}

@@ -1,1 +1,1 @@
-{"index": 53067, "D": "disciplined, especially by corporal punishment", "S": ["chastened ", "dismissed ", "imprisoned ", "penalized "], "A": ["cleared ", "exonerated ", "released "]}
+{"index": 53067, "D": "disciplined, especially by corporal punishment", "S": ["chastened", "dismissed", "imprisoned", "penalized"], "A": ["cleared", "exonerated", "released"]}

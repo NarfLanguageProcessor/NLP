@@ -1,1 +1,1 @@
-{"index": 65113, "D": "to form (a notion, opinion, purpose, etc.)", "S": ["creative ", "imaginative ", "innovative ", "inventive ", "seminal ", "unconventional ", "unusual "], "A": ["borrowed ", "hackneyed ", "latest ", "old ", "used ", "worn "]}
+{"index": 65113, "D": "to form (a notion, opinion, purpose, etc.)", "S": ["creative", "imaginative", "innovative", "inventive", "seminal", "unconventional", "unusual"], "A": ["borrowed", "hackneyed", "latest", "old", "used", "worn"]}

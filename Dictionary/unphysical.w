@@ -1,1 +1,1 @@
-{"index": 347868, "D": "of or relating to the body", "S": ["abstract ", "abstruse ", "esoteric ", "mystical ", "philosophical ", "spiritual ", "supernatural ", "theoretical "], "A": ["concrete ", "factual ", "obvious ", "physical ", "real "]}
+{"index": 347868, "D": "of or relating to the body", "S": ["abstract", "abstruse", "esoteric", "mystical", "philosophical", "spiritual", "supernatural", "theoretical"], "A": ["concrete", "factual", "obvious", "physical", "real"]}

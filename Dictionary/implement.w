@@ -1,1 +1,1 @@
-{"index": 148758, "D": "any article used in some activity, especially an instrument, tool, or utensil", "S": ["appliance ", "gadget ", "instrument ", "utensil "], "A": []}
+{"index": 148758, "D": "any article used in some activity, especially an instrument, tool, or utensil", "S": ["appliance", "gadget", "instrument", "utensil"], "A": []}

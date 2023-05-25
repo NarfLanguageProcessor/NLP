@@ -1,1 +1,1 @@
-{"index": 36911, "D": "to roar and be tumultuous, as wind.", "S": ["blowing ", "blustery ", "breezy ", "gusty ", "squally ", "windy "], "A": []}
+{"index": 36911, "D": "to roar and be tumultuous, as wind.", "S": ["blowing", "blustery", "breezy", "gusty", "squally", "windy"], "A": []}

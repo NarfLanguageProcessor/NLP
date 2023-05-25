@@ -1,1 +1,1 @@
-{"index": 183757, "D": "being nothing more nor better than", "S": ["minimal "], "A": ["largest ", "maximum ", "most "]}
+{"index": 183757, "D": "being nothing more nor better than", "S": ["minimal"], "A": ["largest", "maximum", "most"]}

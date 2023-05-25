@@ -1,1 +1,1 @@
-{"index": 365553, "D": "a woman who has lost her spouse by death and has not remarried.", "S": ["dowager ", "relict "], "A": []}
+{"index": 365553, "D": "a woman who has lost her spouse by death and has not remarried.", "S": ["dowager", "relict"], "A": []}

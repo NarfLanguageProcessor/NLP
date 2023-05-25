@@ -1,1 +1,1 @@
-{"index": 227077, "D": "the act of a person or thing that parts. ", "S": ["departing ", "final ", "goodbye ", "last ", "valedictory "], "A": ["beginning ", "first ", "introductory ", "starting "]}
+{"index": 227077, "D": "the act of a person or thing that parts. ", "S": ["departing", "final", "goodbye", "last", "valedictory"], "A": ["beginning", "first", "introductory", "starting"]}

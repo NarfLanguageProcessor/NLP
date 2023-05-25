@@ -1,1 +1,1 @@
-{"index": 176793, "D": "a strong or exaggerated sense of manliness; an assumptive attitude that virility, courage, strength, and entitlement to dominate are attributes or concomitants of masculinity.", "S": ["manhood ", "manliness ", "masculinity "], "A": ["femininity "]}
+{"index": 176793, "D": "a strong or exaggerated sense of manliness; an assumptive attitude that virility, courage, strength, and entitlement to dominate are attributes or concomitants of masculinity.", "S": ["manhood", "manliness", "masculinity"], "A": ["femininity"]}

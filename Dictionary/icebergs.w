@@ -1,1 +1,1 @@
-{"index": 145965, "D": "a large floating mass of ice, detached from a glacier and carried out to sea.", "S": ["aloof person ", "iceberg ", "unfeeling person "], "A": []}
+{"index": 145965, "D": "a large floating mass of ice, detached from a glacier and carried out to sea.", "S": ["aloof person", "iceberg", "unfeeling person"], "A": []}

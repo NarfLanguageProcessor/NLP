@@ -1,1 +1,1 @@
-{"index": 9891, "D": "partial or total loss of sight, especially in the absence of a gross lesion or injury.", "S": ["dark ", "groping ", "unsighted "], "A": ["aware ", "seeing ", "sighted "]}
+{"index": 9891, "D": "partial or total loss of sight, especially in the absence of a gross lesion or injury.", "S": ["dark", "groping", "unsighted"], "A": ["aware", "seeing", "sighted"]}

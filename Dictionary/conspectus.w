@@ -1,1 +1,1 @@
-{"index": 66964, "D": "a general or comprehensive view; survey.", "S": ["abstract ", "digest ", "outline ", "overview ", "resume ", "review ", "rundown ", "r\u00e9sum\u00e9 ", "summation ", "synopsis "], "A": []}
+{"index": 66964, "D": "a general or comprehensive view; survey.", "S": ["abstract", "digest", "outline", "overview", "resume", "review", "rundown", "r\u00e9sum\u00e9", "summation", "synopsis"], "A": []}

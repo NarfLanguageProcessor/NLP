@@ -1,1 +1,1 @@
-{"index": 148879, "D": "the act of importing. ", "S": ["access ", "accession ", "admission ", "entry "], "A": ["completion ", "conclusion ", "departure ", "disappearance ", "end ", "ending ", "finish ", "leaving ", "retreat ", "stop ", "termination "]}
+{"index": 148879, "D": "the act of importing. ", "S": ["access", "accession", "admission", "entry"], "A": ["completion", "conclusion", "departure", "disappearance", "end", "ending", "finish", "leaving", "retreat", "stop", "termination"]}

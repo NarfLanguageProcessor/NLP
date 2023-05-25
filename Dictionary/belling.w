@@ -1,1 +1,1 @@
-{"index": 31201, "D": "shivaree (def. 1). ", "S": ["bell ", "bong ", "crack ", "crash ", "knell ", "resonate ", "resound ", "reverberate ", "ring ", "roar ", "roll ", "rumble ", "sound ", "strike ", "thunder ", "tintinnabulate ", "toll "], "A": []}
+{"index": 31201, "D": "shivaree (def. 1). ", "S": ["bell", "bong", "crack", "crash", "knell", "resonate", "resound", "reverberate", "ring", "roar", "roll", "rumble", "sound", "strike", "thunder", "tintinnabulate", "toll"], "A": []}

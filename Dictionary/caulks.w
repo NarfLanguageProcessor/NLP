@@ -1,1 +1,1 @@
-{"index": 49989, "D": "to fill or close seams or crevices of (a tank, window, etc.) in order to make watertight, airtight, etc.", "S": ["block "], "A": ["free ", "let go ", "loose ", "loosen ", "open ", "release ", "unblock ", "unclog ", "unfasten ", "unlock ", "unplug ", "unseal ", "unstop "]}
+{"index": 49989, "D": "to fill or close seams or crevices of (a tank, window, etc.) in order to make watertight, airtight, etc.", "S": ["block"], "A": ["free", "let go", "loose", "loosen", "open", "release", "unblock", "unclog", "unfasten", "unlock", "unplug", "unseal", "unstop"]}

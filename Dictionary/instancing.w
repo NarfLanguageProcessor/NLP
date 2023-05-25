@@ -1,1 +1,1 @@
-{"index": 153846, "D": "a case or occurrence of anything", "S": ["detail ", "example ", "item ", "occasion ", "occurrence ", "particular ", "precedent ", "proof ", "reason "], "A": []}
+{"index": 153846, "D": "a case or occurrence of anything", "S": ["detail", "example", "item", "occasion", "occurrence", "particular", "precedent", "proof", "reason"], "A": []}

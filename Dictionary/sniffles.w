@@ -1,1 +1,1 @@
-{"index": 295526, "D": "a cold in the head", "S": ["choke ", "snort ", "whoop "], "A": []}
+{"index": 295526, "D": "a cold in the head", "S": ["choke", "snort", "whoop"], "A": []}

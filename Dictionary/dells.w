@@ -1,1 +1,1 @@
-{"index": 80206, "D": "dalles. ", "S": ["dale ", "dingle ", "glade ", "glen ", "vale "], "A": []}
+{"index": 80206, "D": "dalles. ", "S": ["dale", "dingle", "glade", "glen", "vale"], "A": []}

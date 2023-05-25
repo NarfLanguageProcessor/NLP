@@ -1,1 +1,1 @@
-{"index": 324509, "D": "causing or liable to cause a person to tire; wearisome", "S": ["apathy ", "disgust ", "ennui ", "fatigue ", "indifference ", "lethargy ", "monotony ", "tedium "], "A": ["concern ", "energy ", "excitement ", "feeling ", "interest ", "liveliness ", "sympathy ", "vigor "]}
+{"index": 324509, "D": "causing or liable to cause a person to tire; wearisome", "S": ["apathy", "disgust", "ennui", "fatigue", "indifference", "lethargy", "monotony", "tedium"], "A": ["concern", "energy", "excitement", "feeling", "interest", "liveliness", "sympathy", "vigor"]}

@@ -1,1 +1,1 @@
-{"index": 260746, "D": "a person who commits rape", "S": ["betrayer ", "debaucher ", "defiler ", "despoiler ", "raper ", "ravisher "], "A": []}
+{"index": 260746, "D": "a person who commits rape", "S": ["betrayer", "debaucher", "defiler", "despoiler", "raper", "ravisher"], "A": []}

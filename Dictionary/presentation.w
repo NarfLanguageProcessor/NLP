@@ -1,1 +1,1 @@
-{"index": 249350, "D": "an act of presenting.", "S": ["appearance ", "delivery ", "demonstration ", "display ", "introduction ", "offering ", "production ", "proposal ", "reception ", "show ", "submission "], "A": ["concealment ", "hiding ", "reality "]}
+{"index": 249350, "D": "an act of presenting.", "S": ["appearance", "delivery", "demonstration", "display", "introduction", "offering", "production", "proposal", "reception", "show", "submission"], "A": ["concealment", "hiding", "reality"]}

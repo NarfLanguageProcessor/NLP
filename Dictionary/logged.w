@@ -1,1 +1,1 @@
-{"index": 174580, "D": "a portion or length of the trunk or of a large limb of a felled tree.", "S": ["set down ", "write down "], "A": ["erase "]}
+{"index": 174580, "D": "a portion or length of the trunk or of a large limb of a felled tree.", "S": ["set down", "write down"], "A": ["erase"]}

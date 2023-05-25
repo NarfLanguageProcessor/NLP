@@ -1,1 +1,1 @@
-{"index": 152512, "D": "shameful; disgraceful", "S": ["apologetically "], "A": ["boastfully ", "haughtily ", "proudly "]}
+{"index": 152512, "D": "shameful; disgraceful", "S": ["apologetically"], "A": ["boastfully", "haughtily", "proudly"]}

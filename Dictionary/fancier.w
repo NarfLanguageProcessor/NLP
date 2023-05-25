@@ -1,1 +1,1 @@
-{"index": 109671, "D": "a person having a liking for or interest in something; enthusiast", "S": ["aficionado "], "A": ["detractor ", "enemy "]}
+{"index": 109671, "D": "a person having a liking for or interest in something; enthusiast", "S": ["aficionado"], "A": ["detractor", "enemy"]}

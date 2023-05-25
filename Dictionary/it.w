@@ -1,1 +1,1 @@
-{"index": 159424, "D": "(used to represent an inanimate thing understood, previously mentioned, about to be mentioned, or present in the immediate context)", "S": ["I ", "he ", "she ", "sie ", "they ", "ve ", "xe ", "you ", "ze ", "zie "], "A": []}
+{"index": 159424, "D": "(used to represent an inanimate thing understood, previously mentioned, about to be mentioned, or present in the immediate context)", "S": ["I", "he", "she", "sie", "they", "ve", "xe", "you", "ze", "zie"], "A": []}

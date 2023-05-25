@@ -1,1 +1,1 @@
-{"index": 255519, "D": "the treatment of psychological disorders or maladjustments by a professional technique, as psychoanalysis, group therapy,  or behavioral therapy. ", "S": ["accountant ", "investigator ", "psychiatrist "], "A": []}
+{"index": 255519, "D": "the treatment of psychological disorders or maladjustments by a professional technique, as psychoanalysis, group therapy,  or behavioral therapy. ", "S": ["accountant", "investigator", "psychiatrist"], "A": []}

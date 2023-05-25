@@ -1,1 +1,1 @@
-{"index": 105362, "D": "happiness; well-being.", "S": ["contentment ", "happiness ", "satisfaction ", "well-being "], "A": []}
+{"index": 105362, "D": "happiness; well-being.", "S": ["contentment", "happiness", "satisfaction", "well-being"], "A": []}

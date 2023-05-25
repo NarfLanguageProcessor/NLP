@@ -1,1 +1,1 @@
-{"index": 335770, "D": "to remove the belt  from.", "S": ["release ", "undo ", "unloose "], "A": ["buckle ", "fasten "]}
+{"index": 335770, "D": "to remove the belt  from.", "S": ["release", "undo", "unloose"], "A": ["buckle", "fasten"]}

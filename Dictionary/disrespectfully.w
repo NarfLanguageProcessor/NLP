@@ -1,1 +1,1 @@
-{"index": 89340, "D": "characterized by, having, or showing disrespect;  lacking courtesy or esteem", "S": ["bluntly ", "crudely ", "harshly "], "A": ["civilly ", "courteously ", "politely "]}
+{"index": 89340, "D": "characterized by, having, or showing disrespect;  lacking courtesy or esteem", "S": ["bluntly", "crudely", "harshly"], "A": ["civilly", "courteously", "politely"]}

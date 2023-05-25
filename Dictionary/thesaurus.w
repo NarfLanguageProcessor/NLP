@@ -1,1 +1,1 @@
-{"index": 321588, "D": "a dictionary of synonyms and antonyms, such as the online Thesaurus.com.", "S": ["reference book "], "A": []}
+{"index": 321588, "D": "a dictionary of synonyms and antonyms, such as the online Thesaurus.com.", "S": ["reference book"], "A": []}

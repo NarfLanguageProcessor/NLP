@@ -1,1 +1,1 @@
-{"index": 237179, "D": "a small, slender, often pointed piece of wood, metal, etc., used to fasten, support, or attach things.", "S": ["affix ", "bind ", "clasp ", "fasten ", "fix "], "A": ["detach ", "let go ", "loose ", "loosen ", "release ", "unfasten ", "disjoin "]}
+{"index": 237179, "D": "a small, slender, often pointed piece of wood, metal, etc., used to fasten, support, or attach things.", "S": ["affix", "bind", "clasp", "fasten", "fix"], "A": ["detach", "let go", "loose", "loosen", "release", "unfasten", "disjoin"]}

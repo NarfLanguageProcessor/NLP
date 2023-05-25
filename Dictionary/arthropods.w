@@ -1,1 +1,1 @@
-{"index": 20636, "D": [], "S": ["ant ", "aphid ", "bee ", "beetle ", "butterfly ", "cockroach ", "dragonfly ", "flea ", "fruit fly ", "gnat ", "grasshopper ", "ladybug ", "mite ", "mosquito ", "moth ", "pest ", "spider ", "termite ", "tick "], "A": []}
+{"index": 20636, "D": [], "S": ["ant", "aphid", "bee", "beetle", "butterfly", "cockroach", "dragonfly", "flea", "fruit fly", "gnat", "grasshopper", "ladybug", "mite", "mosquito", "moth", "pest", "spider", "termite", "tick"], "A": []}

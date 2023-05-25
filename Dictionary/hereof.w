@@ -1,1 +1,1 @@
-{"index": 137056, "D": "of this", "S": ["about ", "in this regard ", "of this ", "on this subject "], "A": []}
+{"index": 137056, "D": "of this", "S": ["about", "in this regard", "of this", "on this subject"], "A": []}

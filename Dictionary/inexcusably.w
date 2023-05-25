@@ -1,1 +1,1 @@
-{"index": 151662, "D": "incapable of being excused or justified.", "S": ["unjustifiably ", "unpardonably "], "A": []}
+{"index": 151662, "D": "incapable of being excused or justified.", "S": ["unjustifiably", "unpardonably"], "A": []}

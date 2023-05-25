@@ -1,1 +1,1 @@
-{"index": 101461, "D": "something that has a real existence; thing", "S": ["body ", "individual "], "A": ["abstract ", "inanimate "]}
+{"index": 101461, "D": "something that has a real existence; thing", "S": ["body", "individual"], "A": ["abstract", "inanimate"]}

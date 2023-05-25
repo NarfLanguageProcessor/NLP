@@ -1,1 +1,1 @@
-{"index": 58031, "D": "to move in a circle  or circuit; move or pass through a circuit back to the starting point", "S": ["declared ", "disclosed ", "issued ", "released ", "reported "], "A": ["hidden ", "suppressed ", "unannounced "]}
+{"index": 58031, "D": "to move in a circle  or circuit; move or pass through a circuit back to the starting point", "S": ["declared", "disclosed", "issued", "released", "reported"], "A": ["hidden", "suppressed", "unannounced"]}

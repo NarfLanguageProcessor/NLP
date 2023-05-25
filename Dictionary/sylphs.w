@@ -1,1 +1,1 @@
-{"index": 290566, "D": "a slender, graceful woman or girl.", "S": ["gnome ", "goblin ", "imp ", "leprechaun "], "A": []}
+{"index": 290566, "D": "a slender, graceful woman or girl.", "S": ["gnome", "goblin", "imp", "leprechaun"], "A": []}

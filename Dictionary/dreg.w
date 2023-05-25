@@ -1,1 +1,1 @@
-{"index": 92927, "D": "the sediment of liquids; lees; grounds.", "S": ["deposits ", "dirt ", "lees ", "residue ", "settlings ", "slag ", "waste "], "A": []}
+{"index": 92927, "D": "the sediment of liquids; lees; grounds.", "S": ["deposits", "dirt", "lees", "residue", "settlings", "slag", "waste"], "A": []}

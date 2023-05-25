@@ -1,1 +1,1 @@
-{"index": 328006, "D": "not lasting, enduring, permanent, or eternal.", "S": ["briefly "], "A": ["for good ", "permanently "]}
+{"index": 328006, "D": "not lasting, enduring, permanent, or eternal.", "S": ["briefly"], "A": ["for good", "permanently"]}

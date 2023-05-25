@@ -1,1 +1,1 @@
-{"index": 168, "D": "a slaughterhouse.", "S": ["butchery ", "shambles ", "stockyard "], "A": []}
+{"index": 168, "D": "a slaughterhouse.", "S": ["butchery", "shambles", "stockyard"], "A": []}

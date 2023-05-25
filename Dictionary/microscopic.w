@@ -1,1 +1,1 @@
-{"index": 186474, "D": "Compare macroscopic. ", "S": ["atomic ", "imperceptible ", "infinitesimal ", "invisible ", "minuscule ", "negligible ", "teeny "], "A": ["big ", "huge ", "large ", "obvious ", "significant "]}
+{"index": 186474, "D": "Compare macroscopic. ", "S": ["atomic", "imperceptible", "infinitesimal", "invisible", "minuscule", "negligible", "teeny"], "A": ["big", "huge", "large", "obvious", "significant"]}

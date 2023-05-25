@@ -1,1 +1,1 @@
-{"index": 256495, "D": "a porous or spongy form of volcanic glass, used as an abrasive.", "S": ["brush ", "burnish ", "furbish ", "glaze ", "gloss ", "rub ", "sandpaper ", "scour ", "shine ", "smooth "], "A": ["dull "]}
+{"index": 256495, "D": "a porous or spongy form of volcanic glass, used as an abrasive.", "S": ["brush", "burnish", "furbish", "glaze", "gloss", "rub", "sandpaper", "scour", "shine", "smooth"], "A": ["dull"]}

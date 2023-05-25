@@ -1,1 +1,1 @@
-{"index": 226749, "D": "a paronymous word.", "S": ["borrowed word ", "borrowing ", "calque ", "imported word ", "loan translation ", "neology "], "A": []}
+{"index": 226749, "D": "a paronymous word.", "S": ["borrowed word", "borrowing", "calque", "imported word", "loan translation", "neology"], "A": []}

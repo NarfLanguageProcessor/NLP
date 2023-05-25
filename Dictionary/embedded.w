@@ -1,1 +1,1 @@
-{"index": 98036, "D": "fixed or snugly enclosed in a surrounding mass", "S": ["fixed ", "ingrained ", "installed ", "planted "], "A": []}
+{"index": 98036, "D": "fixed or snugly enclosed in a surrounding mass", "S": ["fixed", "ingrained", "installed", "planted"], "A": []}

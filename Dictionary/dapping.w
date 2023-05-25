@@ -1,1 +1,1 @@
-{"index": 76871, "D": "to fish by letting the bait fall lightly on the water.", "S": ["skim ", "skip "], "A": []}
+{"index": 76871, "D": "to fish by letting the bait fall lightly on the water.", "S": ["skim", "skip"], "A": []}

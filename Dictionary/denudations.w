@@ -1,1 +1,1 @@
-{"index": 81368, "D": "the act of denuding. ", "S": ["disclosure ", "hazard ", "liability ", "publicity ", "risk ", "vulnerability "], "A": ["certainty ", "safety ", "secret ", "surety ", "concealment ", "cover ", "hiding ", "protection "]}
+{"index": 81368, "D": "the act of denuding. ", "S": ["disclosure", "hazard", "liability", "publicity", "risk", "vulnerability"], "A": ["certainty", "safety", "secret", "surety", "concealment", "cover", "hiding", "protection"]}

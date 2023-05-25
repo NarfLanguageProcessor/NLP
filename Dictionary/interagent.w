@@ -1,1 +1,1 @@
-{"index": 154441, "D": "a person or business authorized to act on another's behalf", "S": ["agent ", "dealer ", "entrepreneur ", "financier ", "intermediary ", "mediator ", "merchant ", "stockbroker "], "A": ["customer "]}
+{"index": 154441, "D": "a person or business authorized to act on another's behalf", "S": ["agent", "dealer", "entrepreneur", "financier", "intermediary", "mediator", "merchant", "stockbroker"], "A": ["customer"]}

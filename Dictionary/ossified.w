@@ -1,1 +1,1 @@
-{"index": 215497, "D": "hardened like or into bone.", "S": ["fossilized ", "hardened ", "petrified "], "A": []}
+{"index": 215497, "D": "hardened like or into bone.", "S": ["fossilized", "hardened", "petrified"], "A": []}

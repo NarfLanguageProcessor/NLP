@@ -1,1 +1,1 @@
-{"index": 227105, "D": "an adherent or supporter of a person, group, party, or cause, especially a person who shows a biased, emotional allegiance.", "S": ["bayonet "], "A": []}
+{"index": 227105, "D": "an adherent or supporter of a person, group, party, or cause, especially a person who shows a biased, emotional allegiance.", "S": ["bayonet"], "A": []}

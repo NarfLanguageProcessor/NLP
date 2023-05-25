@@ -1,1 +1,1 @@
-{"index": 60969, "D": "to grow together or into one body", "S": ["consolidate ", "fuse ", "integrate ", "unite "], "A": ["divide ", "separate ", "detach ", "disconnect ", "disjoin ", "dissociate ", "divorce ", "loosen ", "not conform ", "part ", "remove ", "sever ", "unfasten "]}
+{"index": 60969, "D": "to grow together or into one body", "S": ["consolidate", "fuse", "integrate", "unite"], "A": ["divide", "separate", "detach", "disconnect", "disjoin", "dissociate", "divorce", "loosen", "not conform", "part", "remove", "sever", "unfasten"]}

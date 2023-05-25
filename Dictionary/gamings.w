@@ -1,1 +1,1 @@
-{"index": 121740, "D": "gambling. ", "S": ["game ", "match ", "sport "], "A": ["gloom ", "labor ", "melancholy ", "misery ", "profession ", "sadness ", "seriousness ", "sorrow ", "task ", "unhappiness ", "work "]}
+{"index": 121740, "D": "gambling. ", "S": ["game", "match", "sport"], "A": ["gloom", "labor", "melancholy", "misery", "profession", "sadness", "seriousness", "sorrow", "task", "unhappiness", "work"]}

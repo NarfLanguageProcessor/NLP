@@ -1,1 +1,0 @@
-{"index": 196347, "D": "in a way that is shared or reciprocal", "S": ["commonly ", "jointly "], "A": ["dissimilarly ", "distinctly "]}

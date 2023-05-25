@@ -1,1 +1,1 @@
-{"index": 75955, "D": [], "S": ["delay ", "idling ", "loafing ", "playing ", "poking ", "procrastination ", "toying ", "trifling "], "A": ["hastening ", "hurrying ", "push ", "rush "]}
+{"index": 75955, "D": [], "S": ["delay", "idling", "loafing", "playing", "poking", "procrastination", "toying", "trifling"], "A": ["hastening", "hurrying", "push", "rush"]}

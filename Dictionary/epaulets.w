@@ -1,1 +1,1 @@
-{"index": 102039, "D": "an ornamental shoulder piece worn on uniforms, chiefly by military officers.", "S": ["Hershey bar ", "hash mark ", "overseas bar "], "A": []}
+{"index": 102039, "D": "an ornamental shoulder piece worn on uniforms, chiefly by military officers.", "S": ["Hershey bar", "hash mark", "overseas bar"], "A": []}

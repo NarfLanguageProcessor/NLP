@@ -1,1 +1,0 @@
-{"index": 359827, "D": "an alkaloid, C46H56N4O10, derived from the periwinkle, Vinca rosea, used in the management of leukemias and lymphomas.", "S": [], "A": []}

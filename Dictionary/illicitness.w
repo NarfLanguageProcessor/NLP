@@ -1,1 +1,1 @@
-{"index": 147381, "D": "not legally permitted or authorized; unlicensed; unlawful. ", "S": ["illegitimacy ", "immorality ", "lawlessness ", "unlawfulness ", "wrong "], "A": []}
+{"index": 147381, "D": "not legally permitted or authorized; unlicensed; unlawful. ", "S": ["illegitimacy", "immorality", "lawlessness", "unlawfulness", "wrong"], "A": []}

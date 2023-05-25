@@ -1,1 +1,1 @@
-{"index": 105215, "D": "a town in Berkshire, in S England, on the Thames River, W of London", "S": ["choker "], "A": []}
+{"index": 105215, "D": "a town in Berkshire, in S England, on the Thames River, W of London", "S": ["choker"], "A": []}

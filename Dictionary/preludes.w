@@ -1,1 +1,1 @@
-{"index": 248263, "D": "a preliminary to an action, event, condition, or work of broader scope and higher importance.", "S": ["introduction ", "prologue "], "A": ["completion ", "conclusion ", "end ", "ending ", "epilogue ", "finish ", "stop "]}
+{"index": 248263, "D": "a preliminary to an action, event, condition, or work of broader scope and higher importance.", "S": ["introduction", "prologue"], "A": ["completion", "conclusion", "end", "ending", "epilogue", "finish", "stop"]}

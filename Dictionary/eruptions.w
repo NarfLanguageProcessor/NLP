@@ -1,1 +1,1 @@
-{"index": 104065, "D": "an issuing forth suddenly and violently; outburst; outbreak.", "S": ["blast ", "breakout ", "burst ", "explosion ", "flare-up ", "outbreak ", "outburst "], "A": ["trickle "]}
+{"index": 104065, "D": "an issuing forth suddenly and violently; outburst; outbreak.", "S": ["blast", "breakout", "burst", "explosion", "flare-up", "outbreak", "outburst"], "A": ["trickle"]}

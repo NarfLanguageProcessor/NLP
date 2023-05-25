@@ -1,1 +1,1 @@
-{"index": 304637, "D": "inspiring new ideas or enthusiasm", "S": [], "A": []}
+{"index": 304637, "D": "inspiring new ideas or enthusiasm", "S": ["appealing", "challenging", "exhilarating", "hectic", "inspiring", "interesting", "invigorating", "lively", "provocative", "thought-provoking", "thrilling"], "A": ["boring", "depressing", "discouraging", "dull", "unexciting", "unstimulating", "upsetting"]}

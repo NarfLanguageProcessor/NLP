@@ -1,1 +1,1 @@
-{"index": 25038, "D": "a pointed instrument for piercing small holes in leather, wood, etc.", "S": ["auger ", "bit ", "borer ", "corkscrew ", "countersink ", "dibble ", "gimlet ", "implement ", "jackhammer ", "punch ", "riveter ", "trepan ", "trephine ", "wimble "], "A": []}
+{"index": 25038, "D": "a pointed instrument for piercing small holes in leather, wood, etc.", "S": ["auger", "bit", "borer", "corkscrew", "countersink", "dibble", "gimlet", "implement", "jackhammer", "punch", "riveter", "trepan", "trephine", "wimble"], "A": []}

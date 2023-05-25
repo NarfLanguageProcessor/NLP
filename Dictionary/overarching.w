@@ -1,1 +1,1 @@
-{"index": 218238, "D": "forming an arch above", "S": ["overall ", "throughout ", "underlying "], "A": []}
+{"index": 218238, "D": "forming an arch above", "S": ["overall", "throughout", "underlying"], "A": []}

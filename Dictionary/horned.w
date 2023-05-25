@@ -1,1 +1,1 @@
-{"index": 143846, "D": "having horns  (often used in combination)", "S": ["acuminate ", "barbed ", "edged ", "fine ", "honed ", "jagged ", "keen ", "peaked ", "piercing ", "pointed "], "A": ["blunt ", "dull "]}
+{"index": 143846, "D": "having horns  (often used in combination)", "S": ["acuminate", "barbed", "edged", "fine", "honed", "jagged", "keen", "peaked", "piercing", "pointed"], "A": ["blunt", "dull"]}

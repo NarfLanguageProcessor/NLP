@@ -1,1 +1,1 @@
-{"index": 42030, "D": "a light, four-wheeled carriage in which a long elastic board or lattice frame is used in place of body and springs.", "S": ["car ", "caravan ", "carriage ", "cart ", "chariot ", "lorry ", "van "], "A": []}
+{"index": 42030, "D": "a light, four-wheeled carriage in which a long elastic board or lattice frame is used in place of body and springs.", "S": ["car", "caravan", "carriage", "cart", "chariot", "lorry", "van"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 188063, "D": "the sixtieth part (1/60) of an hour; sixty seconds.", "S": ["narrowness "], "A": []}
+{"index": 188063, "D": "the sixtieth part (1/60) of an hour; sixty seconds.", "S": ["narrowness"], "A": []}

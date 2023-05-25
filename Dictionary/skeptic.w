@@ -1,1 +1,1 @@
-{"index": 292987, "D": "a person who questions the validity or authenticity of something purporting to be factual.", "S": ["agnostic ", "cynic ", "dissenter ", "doubter ", "pessimist ", "questioner "], "A": ["believer ", "optimist "]}
+{"index": 292987, "D": "a person who questions the validity or authenticity of something purporting to be factual.", "S": ["agnostic", "cynic", "dissenter", "doubter", "pessimist", "questioner"], "A": ["believer", "optimist"]}

@@ -1,1 +1,1 @@
-{"index": 217275, "D": "a mounted attendant riding before or beside a carriage.", "S": ["adviser ", "bearer ", "courier ", "crier ", "forerunner ", "harbinger ", "indication ", "precursor ", "prophet ", "reporter ", "runner ", "sign ", "signal ", "token "], "A": []}
+{"index": 217275, "D": "a mounted attendant riding before or beside a carriage.", "S": ["adviser", "bearer", "courier", "crier", "forerunner", "harbinger", "indication", "precursor", "prophet", "reporter", "runner", "sign", "signal", "token"], "A": []}

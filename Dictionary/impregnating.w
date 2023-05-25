@@ -1,1 +1,1 @@
-{"index": 149027, "D": "to make pregnant;  cause to be with child or young.", "S": ["drench ", "fertilize ", "inseminate ", "permeate ", "saturate ", "suffuse "], "A": ["dry ", "abort ", "dehydrate ", "destroy ", "kill "]}
+{"index": 149027, "D": "to make pregnant;  cause to be with child or young.", "S": ["drench", "fertilize", "inseminate", "permeate", "saturate", "suffuse"], "A": ["dry", "abort", "dehydrate", "destroy", "kill"]}

@@ -1,1 +1,1 @@
-{"index": 99641, "D": "natural to or characteristic of a specific people or place; native; indigenous", "S": ["local "], "A": []}
+{"index": 99641, "D": "natural to or characteristic of a specific people or place; native; indigenous", "S": ["local"], "A": []}

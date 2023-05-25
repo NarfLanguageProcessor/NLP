@@ -1,1 +1,1 @@
-{"index": 83592, "D": "capable of being devised, invented, or contrived.", "S": ["cogitative ", "contemplative ", "contrivable ", "deliberative ", "meditative ", "probing ", "reflective ", "ruminative ", "speculative ", "thinking "], "A": []}
+{"index": 83592, "D": "capable of being devised, invented, or contrived.", "S": ["cogitative", "contemplative", "contrivable", "deliberative", "meditative", "probing", "reflective", "ruminative", "speculative", "thinking"], "A": []}

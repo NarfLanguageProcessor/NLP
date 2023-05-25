@@ -1,1 +1,1 @@
-{"index": 155452, "D": "to incorporate (the cultural values, mores, motives, etc., of another or of a group), as through learning, socialization, or identification.", "S": ["embody ", "incarnate ", "incorporate ", "personalize "], "A": ["detach "]}
+{"index": 155452, "D": "to incorporate (the cultural values, mores, motives, etc., of another or of a group), as through learning, socialization, or identification.", "S": ["embody", "incarnate", "incorporate", "personalize"], "A": ["detach"]}

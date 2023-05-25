@@ -1,1 +1,1 @@
-{"index": 112389, "D": "any festival or festive celebration.", "S": ["feast "], "A": []}
+{"index": 112389, "D": "any festival or festive celebration.", "S": ["feast"], "A": []}

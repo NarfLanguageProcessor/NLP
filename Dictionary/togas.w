@@ -1,1 +1,1 @@
-{"index": 325085, "D": "(in ancient Rome) the loose outer garment worn by citizens in public.", "S": ["apparel ", "attire ", "costume ", "ensemble ", "frock ", "garb ", "gown ", "robe ", "skirt ", "smock ", "suit ", "uniform ", "wardrobe "], "A": []}
+{"index": 325085, "D": "(in ancient Rome) the loose outer garment worn by citizens in public.", "S": ["apparel", "attire", "costume", "ensemble", "frock", "garb", "gown", "robe", "skirt", "smock", "suit", "uniform", "wardrobe"], "A": []}

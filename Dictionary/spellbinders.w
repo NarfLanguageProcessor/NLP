@@ -1,1 +1,1 @@
-{"index": 299092, "D": "a person or thing that spellbinds,  especially a powerful speaker who can captivate an audience.", "S": ["charmer ", "genius ", "virtuoso ", "witch ", "wizard "], "A": []}
+{"index": 299092, "D": "a person or thing that spellbinds,  especially a powerful speaker who can captivate an audience.", "S": ["charmer", "genius", "virtuoso", "witch", "wizard"], "A": []}

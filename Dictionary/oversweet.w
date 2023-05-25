@@ -1,1 +1,1 @@
-{"index": 221487, "D": "having the taste or flavor characteristic of sugar, honey, etc.", "S": ["gooey ", "saccharine ", "sappy ", "sentimental ", "sugary ", "syrupy "], "A": []}
+{"index": 221487, "D": "having the taste or flavor characteristic of sugar, honey, etc.", "S": ["gooey", "saccharine", "sappy", "sentimental", "sugary", "syrupy"], "A": []}

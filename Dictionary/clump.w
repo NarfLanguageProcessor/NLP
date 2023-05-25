@@ -1,1 +1,1 @@
-{"index": 60685, "D": "a small, close group or cluster, especially of trees or other plants.", "S": ["blob ", "bundle ", "chunk ", "cluster ", "hunk ", "jumble ", "knot ", "lump ", "wad "], "A": ["individual ", "one ", "whole "]}
+{"index": 60685, "D": "a small, close group or cluster, especially of trees or other plants.", "S": ["blob", "bundle", "chunk", "cluster", "hunk", "jumble", "knot", "lump", "wad"], "A": ["individual", "one", "whole"]}

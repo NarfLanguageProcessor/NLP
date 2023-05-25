@@ -1,1 +1,1 @@
-{"index": 44648, "D": "to persuade by flattery or promises; wheedle; coax.", "S": ["deceive ", "delude ", "dupe ", "entice ", "entrap ", "seduce ", "tantalize ", "tempt ", "wheedle "], "A": ["discourage ", "dissuade "]}
+{"index": 44648, "D": "to persuade by flattery or promises; wheedle; coax.", "S": ["deceive", "delude", "dupe", "entice", "entrap", "seduce", "tantalize", "tempt", "wheedle"], "A": ["discourage", "dissuade"]}

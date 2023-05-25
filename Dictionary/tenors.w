@@ -1,1 +1,1 @@
-{"index": 318943, "D": "the course of thought or meaning that runs through something written or spoken; purport; drift.", "S": ["gist ", "mood ", "theme ", "tone "], "A": []}
+{"index": 318943, "D": "the course of thought or meaning that runs through something written or spoken; purport; drift.", "S": ["gist", "mood", "theme", "tone"], "A": []}

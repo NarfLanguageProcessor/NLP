@@ -1,1 +1,1 @@
-{"index": 182223, "D": "medium-dated gilt-edged securities", "S": ["channel ", "form ", "instrument ", "mechanism ", "tool ", "vehicle "], "A": ["end "]}
+{"index": 182223, "D": "medium-dated gilt-edged securities", "S": ["channel", "form", "instrument", "mechanism", "tool", "vehicle"], "A": ["end"]}

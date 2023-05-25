@@ -1,1 +1,1 @@
-{"index": 86870, "D": "to make unable or unfit; weaken or destroy the capability of; incapacitate", "S": ["demilitarization ", "demobilization "], "A": ["surrender ", "yielding "]}
+{"index": 86870, "D": "to make unable or unfit; weaken or destroy the capability of; incapacitate", "S": ["demilitarization", "demobilization"], "A": ["surrender", "yielding"]}

@@ -1,0 +1,1 @@
+{"index": 18097, "D": "moving about in stealthy search; covertly stalking or hunting; prowling  (usually used predicatively)", "S": [], "A": []}

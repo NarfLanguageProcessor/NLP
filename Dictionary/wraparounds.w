@@ -1,1 +1,0 @@
-{"index": 367828, "D": "(of a garment) made to fold around or across the body so that one side of the garment overlaps the other forming the closure.", "S": ["kimono ", "smock "], "A": []}

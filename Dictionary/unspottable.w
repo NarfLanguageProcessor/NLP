@@ -1,1 +1,0 @@
-{"index": 351827, "D": "a rounded mark or stain made by foreign matter, as mud, blood, paint, ink, etc.; a blot or speck.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 62932, "D": "Compare university. ", "S": ["association ", "institute ", "lyceum ", "organization ", "seminary ", "university "], "A": []}
+{"index": 62932, "D": "Compare university. ", "S": ["association", "institute", "lyceum", "organization", "seminary", "university"], "A": []}

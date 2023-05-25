@@ -1,1 +1,1 @@
-{"index": 33629, "D": "separated or cleft into two equal parts or lobes.", "S": ["angled ", "bifurcate ", "bifurcated ", "branched ", "branching ", "divaricate ", "divided ", "furcate ", "split ", "tined ", "zigzag "], "A": ["joined "]}
+{"index": 33629, "D": "separated or cleft into two equal parts or lobes.", "S": ["angled", "bifurcate", "bifurcated", "branched", "branching", "divaricate", "divided", "furcate", "split", "tined", "zigzag"], "A": ["joined"]}

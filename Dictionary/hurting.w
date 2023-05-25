@@ -1,1 +1,1 @@
-{"index": 145293, "D": "to cause bodily injury to; injure", "S": ["nagging ", "sore ", "throbbing "], "A": ["experienced ", "healthy "]}
+{"index": 145293, "D": "to cause bodily injury to; injure", "S": ["nagging", "sore", "throbbing"], "A": ["experienced", "healthy"]}

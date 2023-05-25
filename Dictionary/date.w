@@ -1,1 +1,1 @@
-{"index": 77165, "D": "a particular month, day, and year at which some event happened or will happen", "S": ["age ", "day ", "hour ", "moment ", "period ", "stage ", "term ", "time ", "year "], "A": []}
+{"index": 77165, "D": "a particular month, day, and year at which some event happened or will happen", "S": ["age", "day", "hour", "moment", "period", "stage", "term", "time", "year"], "A": []}

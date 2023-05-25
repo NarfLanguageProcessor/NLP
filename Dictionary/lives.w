@@ -1,1 +1,1 @@
-{"index": 173984, "D": "the plural of life. ", "S": ["activity ", "growth ", "heart ", "soul "], "A": ["abstract ", "apathy ", "dullness ", "idleness ", "inactivity ", "indifference ", "laziness ", "lethargy "]}
+{"index": 173984, "D": "the plural of life. ", "S": ["activity", "growth", "heart", "soul"], "A": ["abstract", "apathy", "dullness", "idleness", "inactivity", "indifference", "laziness", "lethargy"]}

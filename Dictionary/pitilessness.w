@@ -1,1 +1,1 @@
-{"index": 238381, "D": "feeling or showing no pity; merciless", "S": ["kick in the teeth ", "no pity ", "no quarter ", "small portion ", "tender mercies ", "unsympathetic treatment "], "A": []}
+{"index": 238381, "D": "feeling or showing no pity; merciless", "S": ["kick in the teeth", "no pity", "no quarter", "small portion", "tender mercies", "unsympathetic treatment"], "A": []}

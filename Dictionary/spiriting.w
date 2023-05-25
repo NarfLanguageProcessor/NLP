@@ -1,1 +1,1 @@
-{"index": 300109, "D": "the principle of conscious life; the vital principle in humans, animating the body or mediating between body and soul.", "S": ["enlivening ", "exhilarating ", "invigorating ", "quickening ", "rousing ", "vitalizing "], "A": ["boring ", "depressing "]}
+{"index": 300109, "D": "the principle of conscious life; the vital principle in humans, animating the body or mediating between body and soul.", "S": ["enlivening", "exhilarating", "invigorating", "quickening", "rousing", "vitalizing"], "A": ["boring", "depressing"]}

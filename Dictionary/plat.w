@@ -1,1 +1,1 @@
-{"index": 239289, "D": "a plot of ground.", "S": ["blueprint ", "graph ", "sketch ", "table "], "A": []}
+{"index": 239289, "D": "a plot of ground.", "S": ["blueprint", "graph", "sketch", "table"], "A": []}

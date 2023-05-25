@@ -1,1 +1,1 @@
-{"index": 9508, "D": "to make different in some particular, as size, style, course, or the like; modify", "S": ["adjust ", "amend ", "change ", "develop ", "modify ", "reshape ", "revamp ", "revise ", "shift ", "transform ", "vary "], "A": ["leave alone ", "remain ", "stagnate ", "stay "]}
+{"index": 9508, "D": "to make different in some particular, as size, style, course, or the like; modify", "S": ["adjust", "amend", "change", "develop", "modify", "reshape", "revamp", "revise", "shift", "transform", "vary"], "A": ["leave alone", "remain", "stagnate", "stay"]}

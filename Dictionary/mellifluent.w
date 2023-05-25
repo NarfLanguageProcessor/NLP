@@ -1,1 +1,1 @@
-{"index": 182936, "D": "mellifluous. ", "S": ["eloquent ", "persuasive ", "talkative ", "vocal "], "A": ["quiet "]}
+{"index": 182936, "D": "mellifluous. ", "S": ["eloquent", "persuasive", "talkative", "vocal"], "A": ["quiet"]}

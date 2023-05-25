@@ -1,1 +1,0 @@
-{"index": 325847, "D": "a city in and the capital of Kansas, in the NE part, on the Kansas River.", "S": [], "A": []}

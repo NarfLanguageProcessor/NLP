@@ -1,1 +1,0 @@
-{"index": 280835, "D": "a cutting instrument for paper, cloth, etc., consisting of two blades, each having a ring-shaped handle, that are so pivoted together that their sharp edges work one against the other (often used with pair of).", "S": ["clippers ", "shears ", "trimmer "], "A": []}

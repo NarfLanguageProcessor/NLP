@@ -1,1 +1,1 @@
-{"index": 88470, "D": "unbiased by personal interest or advantage; not influenced by selfish motives", "S": ["dispassionately ", "equally ", "indifferently ", "objectively ", "unbiasedly "], "A": []}
+{"index": 88470, "D": "unbiased by personal interest or advantage; not influenced by selfish motives", "S": ["dispassionately", "equally", "indifferently", "objectively", "unbiasedly"], "A": []}

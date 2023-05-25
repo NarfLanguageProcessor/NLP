@@ -1,1 +1,1 @@
-{"index": 275772, "D": "a trick, stratagem, or artifice.", "S": ["feint ", "game plan ", "gimmick ", "hoax ", "ploy ", "sham ", "stratagem ", "stunt ", "subterfuge "], "A": ["frankness ", "honesty ", "openness ", "reality ", "stagnation ", "truth ", "truthfulness "]}
+{"index": 275772, "D": "a trick, stratagem, or artifice.", "S": ["feint", "game plan", "gimmick", "hoax", "ploy", "sham", "stratagem", "stunt", "subterfuge"], "A": ["frankness", "honesty", "openness", "reality", "stagnation", "truth", "truthfulness"]}

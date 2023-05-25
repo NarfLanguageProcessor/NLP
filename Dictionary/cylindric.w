@@ -1,1 +1,1 @@
-{"index": 57397, "D": "of, relating to, or having the form of a cylinder. ", "S": ["barrel-shaped ", "circular ", "columnar ", "round "], "A": []}
+{"index": 57397, "D": "of, relating to, or having the form of a cylinder. ", "S": ["barrel-shaped", "circular", "columnar", "round"], "A": []}

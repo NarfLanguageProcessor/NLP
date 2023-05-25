@@ -1,1 +1,1 @@
-{"index": 269403, "D": "submissive or acquiescent.", "S": ["acceptance "], "A": ["arrogance ", "disagreement ", "disobedience ", "fight ", "nonconformity ", "pride ", "refusal "]}
+{"index": 269403, "D": "submissive or acquiescent.", "S": ["acceptance"], "A": ["arrogance", "disagreement", "disobedience", "fight", "nonconformity", "pride", "refusal"]}

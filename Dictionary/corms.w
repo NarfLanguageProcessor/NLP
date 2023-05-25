@@ -1,1 +1,1 @@
-{"index": 69213, "D": "an enlarged, fleshy, bulblike base of a stem, as in the crocus.", "S": ["corn "], "A": ["depression "]}
+{"index": 69213, "D": "an enlarged, fleshy, bulblike base of a stem, as in the crocus.", "S": ["corn"], "A": ["depression"]}

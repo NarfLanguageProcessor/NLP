@@ -1,1 +1,1 @@
-{"index": 33772, "D": "past; gone by; earlier; former", "S": ["ancient ", "dead ", "departed ", "former ", "lost "], "A": ["alive ", "existent ", "existing ", "living "]}
+{"index": 33772, "D": "past; gone by; earlier; former", "S": ["ancient", "dead", "departed", "former", "lost"], "A": ["alive", "existent", "existing", "living"]}

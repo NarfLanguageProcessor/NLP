@@ -1,1 +1,1 @@
-{"index": 124971, "D": "a simple past tense and past participle of gild1. ", "S": ["color ", "design ", "finery ", "ornament ", "plaque ", "ribbon ", "trinket ", "wreath "], "A": ["plainness "]}
+{"index": 124971, "D": "a simple past tense and past participle of gild1. ", "S": ["color", "design", "finery", "ornament", "plaque", "ribbon", "trinket", "wreath"], "A": ["plainness"]}

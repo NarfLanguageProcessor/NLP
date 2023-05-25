@@ -1,1 +1,1 @@
-{"index": 167475, "D": "a woman  who is not a member of the clergy.", "S": ["laymen "], "A": []}
+{"index": 167475, "D": "a woman  who is not a member of the clergy.", "S": ["laymen"], "A": []}

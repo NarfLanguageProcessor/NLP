@@ -1,1 +1,1 @@
-{"index": 122420, "D": "a sudden, short intake of breath, as in shock or surprise.", "S": ["choke ", "snort ", "whoop "], "A": []}
+{"index": 122420, "D": "a sudden, short intake of breath, as in shock or surprise.", "S": ["choke", "snort", "whoop"], "A": []}

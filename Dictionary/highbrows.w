@@ -1,1 +1,1 @@
-{"index": 139240, "D": "a person of superior intellectual interests and tastes.", "S": ["cerebral ", "scholarly "], "A": []}
+{"index": 139240, "D": "a person of superior intellectual interests and tastes.", "S": ["cerebral", "scholarly"], "A": []}

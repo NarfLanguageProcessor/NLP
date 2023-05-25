@@ -1,1 +1,1 @@
-{"index": 35860, "D": "the early developmental stage of an animal, following the morula stage and consisting of a single, spherical layer of cells enclosing a hollow, central cavity.", "S": ["blastosphere ", "embryo "], "A": []}
+{"index": 35860, "D": "the early developmental stage of an animal, following the morula stage and consisting of a single, spherical layer of cells enclosing a hollow, central cavity.", "S": ["blastosphere", "embryo"], "A": []}

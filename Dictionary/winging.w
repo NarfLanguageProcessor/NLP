@@ -1,1 +1,1 @@
-{"index": 366144, "D": "either of the two forelimbs of most birds and of bats, corresponding to the human arms, that are specialized for flight.", "S": ["aerial ", "floating ", "soaring "], "A": []}
+{"index": 366144, "D": "either of the two forelimbs of most birds and of bats, corresponding to the human arms, that are specialized for flight.", "S": ["aerial", "floating", "soaring"], "A": []}

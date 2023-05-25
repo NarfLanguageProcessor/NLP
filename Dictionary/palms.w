@@ -1,1 +1,1 @@
-{"index": 224119, "D": "the part of the inner surface of the hand that extends from the wrist to the bases of the fingers.", "S": ["award ", "championship ", "cordon bleu ", "crown ", "cup ", "decoration ", "first prize ", "laurels ", "trophy ", "victory "], "A": []}
+{"index": 224119, "D": "the part of the inner surface of the hand that extends from the wrist to the bases of the fingers.", "S": ["award", "championship", "cordon bleu", "crown", "cup", "decoration", "first prize", "laurels", "trophy", "victory"], "A": []}

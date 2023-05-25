@@ -1,1 +1,1 @@
-{"index": 196149, "D": "the hair growing on the upper lip", "S": ["beard ", "bristles ", "goatee ", "sideburns ", "stubble "], "A": []}
+{"index": 196149, "D": "the hair growing on the upper lip", "S": ["beard", "bristles", "goatee", "sideburns", "stubble"], "A": []}

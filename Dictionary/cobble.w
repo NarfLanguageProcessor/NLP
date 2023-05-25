@@ -1,1 +1,1 @@
-{"index": 61199, "D": "to mend (shoes, boots, etc.); patch. ", "S": ["assemble ", "complete ", "construct ", "create ", "fabricate ", "mass-produce ", "synthesize "], "A": ["break ", "demolish ", "destroy ", "divide ", "ruin ", "separate ", "abandon ", "fail ", "forget ", "neglect ", "raze "]}
+{"index": 61199, "D": "to mend (shoes, boots, etc.); patch. ", "S": ["assemble", "complete", "construct", "create", "fabricate", "mass-produce", "synthesize"], "A": ["break", "demolish", "destroy", "divide", "ruin", "separate", "abandon", "fail", "forget", "neglect", "raze"]}

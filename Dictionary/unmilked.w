@@ -1,1 +1,0 @@
-{"index": 346349, "D": "an opaque white or bluish-white liquid secreted by the mammary glands of female mammals, serving for the nourishment of their young.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 46667, "D": "a small territorial district, especially one of the states of the Swiss confederation.", "S": ["billet ", "corner ", "county ", "division ", "part ", "quarter ", "section ", "subdivision "], "A": ["whole "]}
+{"index": 46667, "D": "a small territorial district, especially one of the states of the Swiss confederation.", "S": ["billet", "corner", "county", "division", "part", "quarter", "section", "subdivision"], "A": ["whole"]}

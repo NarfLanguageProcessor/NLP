@@ -1,1 +1,1 @@
-{"index": 262796, "D": "to charge again with electricity.", "S": ["refresh ", "regenerate ", "rejuvenate "], "A": ["destroy ", "kill ", "ruin "]}
+{"index": 262796, "D": "to charge again with electricity.", "S": ["refresh", "regenerate", "rejuvenate"], "A": ["destroy", "kill", "ruin"]}

@@ -1,1 +1,1 @@
-{"index": 257512, "D": "square or rectangular.", "S": ["accord ", "answer ", "blend ", "check ", "chime ", "click ", "concert ", "concord ", "consort ", "equal ", "fit ", "jibe ", "match ", "parallel ", "square ", "suit ", "tally "], "A": ["disagree ", "question ", "refuse ", "separate "]}
+{"index": 257512, "D": "square or rectangular.", "S": ["accord", "answer", "blend", "check", "chime", "click", "concert", "concord", "consort", "equal", "fit", "jibe", "match", "parallel", "square", "suit", "tally"], "A": ["disagree", "question", "refuse", "separate"]}

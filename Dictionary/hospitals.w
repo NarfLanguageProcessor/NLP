@@ -1,1 +1,1 @@
-{"index": 144179, "D": "an institution in which sick or injured people are given medical or surgical treatment.", "S": ["clinic ", "emergency room ", "hospice ", "institution ", "nursing home ", "ward "], "A": []}
+{"index": 144179, "D": "an institution in which sick or injured people are given medical or surgical treatment.", "S": ["clinic", "emergency room", "hospice", "institution", "nursing home", "ward"], "A": []}

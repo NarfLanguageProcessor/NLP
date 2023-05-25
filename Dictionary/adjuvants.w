@@ -1,0 +1,1 @@
+{"index": 4096, "D": "serving to help or assist; auxiliary", "S": ["impetus", "incentive", "motivation", "stimulant"], "A": ["block", "hindrance"]}

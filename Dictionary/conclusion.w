@@ -1,1 +1,1 @@
-{"index": 65375, "D": "the end or close; final part.", "S": ["closure ", "completion ", "consequence ", "denouement ", "development ", "ending ", "outcome ", "result "], "A": ["beginning ", "cause ", "commencement ", "introduction ", "opening ", "origin ", "source ", "start ", "initiation "]}
+{"index": 65375, "D": "the end or close; final part.", "S": ["closure", "completion", "consequence", "denouement", "development", "ending", "outcome", "result"], "A": ["beginning", "cause", "commencement", "introduction", "opening", "origin", "source", "start", "initiation"]}

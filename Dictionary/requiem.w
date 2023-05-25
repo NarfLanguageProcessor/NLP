@@ -1,1 +1,1 @@
-{"index": 268862, "D": "a plainsong setting for this Mass.", "S": ["canticle ", "ceremony ", "chant ", "dirge ", "elegy ", "eulogy ", "liturgy ", "monody ", "psalm ", "ritual ", "sermon ", "threnody ", "worship "], "A": []}
+{"index": 268862, "D": "a plainsong setting for this Mass.", "S": ["canticle", "ceremony", "chant", "dirge", "elegy", "eulogy", "liturgy", "monody", "psalm", "ritual", "sermon", "threnody", "worship"], "A": []}

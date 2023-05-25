@@ -1,1 +1,1 @@
-{"index": 355969, "D": "of no use;  not serving the purpose or any purpose; unavailing or futile", "S": ["avoidably ", "optionally ", "unessentially "], "A": ["indispensably ", "necessarily "]}
+{"index": 355969, "D": "of no use;  not serving the purpose or any purpose; unavailing or futile", "S": ["avoidably", "optionally", "unessentially"], "A": ["indispensably", "necessarily"]}

@@ -1,1 +1,1 @@
-{"index": 177922, "D": "the principal spring  in a mechanism, as in a watch.", "S": ["ground ", "heart "], "A": ["consequence ", "effect ", "end ", "outcome ", "outgrowth ", "result "]}
+{"index": 177922, "D": "the principal spring  in a mechanism, as in a watch.", "S": ["ground", "heart"], "A": ["consequence", "effect", "end", "outcome", "outgrowth", "result"]}

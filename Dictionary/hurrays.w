@@ -1,1 +1,1 @@
-{"index": 145258, "D": "(used as an exclamation of joy, exultation, appreciation, encouragement, or the like.)", "S": ["cheer ", "encouragement ", "whoopee ", "yay ", "yell "], "A": []}
+{"index": 145258, "D": "(used as an exclamation of joy, exultation, appreciation, encouragement, or the like.)", "S": ["cheer", "encouragement", "whoopee", "yay", "yell"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 258409, "D": "a search or pursuit made in order to find or obtain something", "S": ["analyst ", "auditor ", "checker ", "examiner ", "inquisitor ", "investigator ", "querier ", "questioner ", "researcher ", "scrutinizer "], "A": []}
+{"index": 258409, "D": "a search or pursuit made in order to find or obtain something", "S": ["analyst", "auditor", "checker", "examiner", "inquisitor", "investigator", "querier", "questioner", "researcher", "scrutinizer"], "A": []}

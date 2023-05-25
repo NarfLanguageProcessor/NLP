@@ -1,1 +1,1 @@
-{"index": 367487, "D": "a day on which work is done; working day.", "S": ["banal ", "day-to-day ", "everyday ", "humdrum ", "normal ", "prosaic ", "workaday "], "A": ["abnormal ", "uncommon ", "unusual "]}
+{"index": 367487, "D": "a day on which work is done; working day.", "S": ["banal", "day-to-day", "everyday", "humdrum", "normal", "prosaic", "workaday"], "A": ["abnormal", "uncommon", "unusual"]}

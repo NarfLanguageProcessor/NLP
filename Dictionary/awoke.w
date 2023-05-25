@@ -1,1 +1,1 @@
-{"index": 25057, "D": "a simple past tense and past participle of awake. ", "S": ["awaken ", "get up ", "rouse ", "wake up "], "A": ["deaden ", "go to sleep ", "lull ", "sleep "]}
+{"index": 25057, "D": "a simple past tense and past participle of awake. ", "S": ["awaken", "get up", "rouse", "wake up"], "A": ["deaden", "go to sleep", "lull", "sleep"]}

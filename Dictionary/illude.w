@@ -1,1 +1,1 @@
-{"index": 147454, "D": "to deceive or trick.", "S": ["delude ", "pretend "], "A": ["protect ", "support "]}
+{"index": 147454, "D": "to deceive or trick.", "S": ["delude", "pretend"], "A": ["protect", "support"]}

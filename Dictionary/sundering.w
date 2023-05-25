@@ -1,1 +1,1 @@
-{"index": 311086, "D": "to separate; part; divide; sever. ", "S": ["desertion ", "divorce ", "failure ", "rejection ", "revolt ", "withdrawal "], "A": ["enough ", "faithfulness ", "harmony ", "loyalty ", "plenty "]}
+{"index": 311086, "D": "to separate; part; divide; sever. ", "S": ["desertion", "divorce", "failure", "rejection", "revolt", "withdrawal"], "A": ["enough", "faithfulness", "harmony", "loyalty", "plenty"]}

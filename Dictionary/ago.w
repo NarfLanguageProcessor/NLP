@@ -1,1 +1,1 @@
-{"index": 6338, "D": "gone; gone by; past (usually preceded by a noun)", "S": ["ages ago ", "back ", "back when ", "before ", "from way back ", "from year one ", "gone ", "since ", "since God knows when ", "time was "], "A": []}
+{"index": 6338, "D": "gone; gone by; past (usually preceded by a noun)", "S": ["ages ago", "back", "back when", "before", "from way back", "from year one", "gone", "since", "since God knows when", "time was"], "A": []}

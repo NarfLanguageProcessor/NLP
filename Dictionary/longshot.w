@@ -1,1 +1,1 @@
-{"index": 175000, "D": [], "S": ["dark horse "], "A": ["favorite "]}
+{"index": 175000, "D": [], "S": ["dark horse"], "A": ["favorite"]}

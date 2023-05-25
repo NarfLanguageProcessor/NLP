@@ -1,1 +1,1 @@
-{"index": 63020, "D": "to bring into line; make parallel.", "S": ["accumulate ", "assemble ", "collect ", "gather ", "parallel "], "A": ["disperse ", "distribute ", "divide ", "scatter ", "separate "]}
+{"index": 63020, "D": "to bring into line; make parallel.", "S": ["accumulate", "assemble", "collect", "gather", "parallel"], "A": ["disperse", "distribute", "divide", "scatter", "separate"]}

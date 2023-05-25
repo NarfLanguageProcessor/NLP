@@ -1,1 +1,1 @@
-{"index": 354780, "D": "the process or activity of providing an establishment, machine, person, etc., with necessary or proper maintenance, repairs, support, or the like", "S": ["conservation ", "outlay ", "preservation ", "repair "], "A": ["destruction ", "neglect "]}
+{"index": 354780, "D": "the process or activity of providing an establishment, machine, person, etc., with necessary or proper maintenance, repairs, support, or the like", "S": ["conservation", "outlay", "preservation", "repair"], "A": ["destruction", "neglect"]}

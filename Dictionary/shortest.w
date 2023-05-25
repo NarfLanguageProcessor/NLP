@@ -1,1 +1,1 @@
-{"index": 288922, "D": "having little length; not long.", "S": ["continuous "], "A": ["changing ", "deviating ", "intermittent ", "interrupted ", "varying "]}
+{"index": 288922, "D": "having little length; not long.", "S": ["continuous"], "A": ["changing", "deviating", "intermittent", "interrupted", "varying"]}

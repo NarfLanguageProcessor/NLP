@@ -1,1 +1,1 @@
-{"index": 289097, "D": "a person given to pretentious display.", "S": ["boaster ", "braggadocio ", "braggart ", "egotist ", "exhibitionist ", "swaggerer ", "vulgarian "], "A": ["introvert "]}
+{"index": 289097, "D": "a person given to pretentious display.", "S": ["boaster", "braggadocio", "braggart", "egotist", "exhibitionist", "swaggerer", "vulgarian"], "A": ["introvert"]}

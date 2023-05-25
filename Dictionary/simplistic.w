@@ -1,1 +1,1 @@
-{"index": 291104, "D": "characterized by extreme simplism;  oversimplified", "S": ["childish "], "A": []}
+{"index": 291104, "D": "characterized by extreme simplism;  oversimplified", "S": ["childish"], "A": []}

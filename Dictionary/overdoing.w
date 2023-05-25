@@ -1,1 +1,1 @@
-{"index": 219040, "D": "to do to excess; overindulge in", "S": ["extravagance ", "extreme "], "A": ["unselfishness "]}
+{"index": 219040, "D": "to do to excess; overindulge in", "S": ["extravagance", "extreme"], "A": ["unselfishness"]}

@@ -1,1 +1,1 @@
-{"index": 187784, "D": "to become mixed, blended, or united", "S": ["connected ", "mixed ", "united "], "A": ["uncombined "]}
+{"index": 187784, "D": "to become mixed, blended, or united", "S": ["connected", "mixed", "united"], "A": ["uncombined"]}

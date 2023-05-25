@@ -1,1 +1,1 @@
-{"index": 298250, "D": "a white, starchy pasta of Italian origin that is made in the form of long strings, boiled, and served with any of a variety of meat, tomato, or other sauces.", "S": ["abdominal "], "A": []}
+{"index": 298250, "D": "a white, starchy pasta of Italian origin that is made in the form of long strings, boiled, and served with any of a variety of meat, tomato, or other sauces.", "S": ["abdominal"], "A": []}

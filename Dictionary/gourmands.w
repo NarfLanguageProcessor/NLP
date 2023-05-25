@@ -1,1 +1,1 @@
-{"index": 128347, "D": "a person who is fond of good eating, often indiscriminatingly and to excess.", "S": ["connoisseur ", "glutton ", "gourmet "], "A": []}
+{"index": 128347, "D": "a person who is fond of good eating, often indiscriminatingly and to excess.", "S": ["connoisseur", "glutton", "gourmet"], "A": []}

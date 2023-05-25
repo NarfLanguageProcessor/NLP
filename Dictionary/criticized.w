@@ -1,1 +1,1 @@
-{"index": 73496, "D": "to censure or find fault with.", "S": ["abstracted ", "analyzed ", "considered ", "critiqued ", "examined ", "investigated ", "judged ", "outlined ", "studied ", "summarized ", "surveyed "], "A": ["unplanned "]}
+{"index": 73496, "D": "to censure or find fault with.", "S": ["abstracted", "analyzed", "considered", "critiqued", "examined", "investigated", "judged", "outlined", "studied", "summarized", "surveyed"], "A": ["unplanned"]}

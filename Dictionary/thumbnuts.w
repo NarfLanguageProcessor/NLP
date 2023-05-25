@@ -1,1 +1,1 @@
-{"index": 322972, "D": "wing nut. ", "S": ["butterfly nut ", "cap nut ", "wing screw "], "A": []}
+{"index": 322972, "D": "wing nut. ", "S": ["butterfly nut", "cap nut", "wing screw"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92178, "D": "the portion of a deceased husband's real property allowed to his widow for her lifetime.", "S": ["dowry ", "endowment ", "gift ", "skill ", "talent "], "A": ["inability ", "incapacity ", "loss ", "weakness "]}
+{"index": 92178, "D": "the portion of a deceased husband's real property allowed to his widow for her lifetime.", "S": ["dowry", "endowment", "gift", "skill", "talent"], "A": ["inability", "incapacity", "loss", "weakness"]}

@@ -1,1 +1,1 @@
-{"index": 91694, "D": "a vertical window in a projection built out from a sloping roof.", "S": ["apartment ", "studio "], "A": []}
+{"index": 91694, "D": "a vertical window in a projection built out from a sloping roof.", "S": ["apartment", "studio"], "A": []}

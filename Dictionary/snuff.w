@@ -1,1 +1,1 @@
-{"index": 295899, "D": "to draw in through the nose by inhaling.", "S": ["extinguish "], "A": []}
+{"index": 295899, "D": "to draw in through the nose by inhaling.", "S": ["extinguish"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 113817, "D": "a small, flat, thin piece, especially one that has been or become detached from a larger piece or mass", "S": ["leaf "], "A": ["whole "]}
+{"index": 113817, "D": "a small, flat, thin piece, especially one that has been or become detached from a larger piece or mass", "S": ["leaf"], "A": ["whole"]}

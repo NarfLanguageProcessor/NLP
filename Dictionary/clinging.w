@@ -1,1 +1,1 @@
-{"index": 60035, "D": "to adhere closely; stick to", "S": ["adherent ", "agglutinant ", "coherent ", "osculant ", "persistent ", "tenacious ", "viscid ", "viscous "], "A": []}
+{"index": 60035, "D": "to adhere closely; stick to", "S": ["adherent", "agglutinant", "coherent", "osculant", "persistent", "tenacious", "viscid", "viscous"], "A": []}

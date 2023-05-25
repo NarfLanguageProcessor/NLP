@@ -1,1 +1,1 @@
-{"index": 129057, "D": "a vine  that bears grapes. ", "S": ["climber ", "creeper ", "trailer "], "A": []}
+{"index": 129057, "D": "a vine  that bears grapes. ", "S": ["climber", "creeper", "trailer"], "A": []}

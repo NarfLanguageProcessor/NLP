@@ -1,1 +1,1 @@
-{"index": 63926, "D": "serving to commemorate", "S": ["celebratory "], "A": ["dishonoring ", "forgetful ", "neglectful ", "neglecting "]}
+{"index": 63926, "D": "serving to commemorate", "S": ["celebratory"], "A": ["dishonoring", "forgetful", "neglectful", "neglecting"]}

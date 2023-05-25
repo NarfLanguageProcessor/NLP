@@ -1,1 +1,1 @@
-{"index": 23285, "D": "a person in whose mind auditory  images, rather than visual or motor images, are predominant or unusually distinct.", "S": ["audio ", "hearing "], "A": []}
+{"index": 23285, "D": "a person in whose mind auditory  images, rather than visual or motor images, are predominant or unusually distinct.", "S": ["audio", "hearing"], "A": []}

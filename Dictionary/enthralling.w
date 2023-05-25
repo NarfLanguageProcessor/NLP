@@ -1,1 +1,1 @@
-{"index": 101394, "D": "holding the attention completely; fascinating; spellbinding", "S": ["captivating ", "engrossing ", "fascinating ", "gripping ", "riveting "], "A": ["boring ", "repulsive ", "uninteresting "]}
+{"index": 101394, "D": "holding the attention completely; fascinating; spellbinding", "S": ["captivating", "engrossing", "fascinating", "gripping", "riveting"], "A": ["boring", "repulsive", "uninteresting"]}

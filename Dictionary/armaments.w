@@ -1,1 +1,1 @@
-{"index": 19880, "D": "the arms  and equipment with which a military unit or military apparatus is supplied.", "S": ["ammunition ", "arms ", "hardware ", "ordnance ", "weaponry "], "A": []}
+{"index": 19880, "D": "the arms  and equipment with which a military unit or military apparatus is supplied.", "S": ["ammunition", "arms", "hardware", "ordnance", "weaponry"], "A": []}

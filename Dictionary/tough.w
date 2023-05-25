@@ -1,1 +1,1 @@
-{"index": 326594, "D": "strong and durable; not easily broken or cut.", "S": ["hard ", "healthy ", "resilient ", "solid ", "stiff ", "tenacious ", "tight ", "vigorous "], "A": ["slack ", "soft ", "weak "]}
+{"index": 326594, "D": "strong and durable; not easily broken or cut.", "S": ["hard", "healthy", "resilient", "solid", "stiff", "tenacious", "tight", "vigorous"], "A": ["slack", "soft", "weak"]}

@@ -1,1 +1,1 @@
-{"index": 134597, "D": "having a heading  or course.", "S": ["en route "], "A": ["disembarked ", "landed ", "stopping "]}
+{"index": 134597, "D": "having a heading  or course.", "S": ["en route"], "A": ["disembarked", "landed", "stopping"]}

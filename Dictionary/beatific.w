@@ -1,1 +1,1 @@
-{"index": 29606, "D": "bestowing bliss, blessings, happiness, or the like", "S": ["delightful ", "elated ", "euphoric ", "happy ", "joyful ", "rapturous "], "A": ["dark ", "demonic ", "devilish ", "miserable ", "sorrowful ", "unhappy "]}
+{"index": 29606, "D": "bestowing bliss, blessings, happiness, or the like", "S": ["delightful", "elated", "euphoric", "happy", "joyful", "rapturous"], "A": ["dark", "demonic", "devilish", "miserable", "sorrowful", "unhappy"]}

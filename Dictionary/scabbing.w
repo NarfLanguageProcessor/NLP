@@ -1,1 +1,1 @@
-{"index": 279290, "D": "the incrustation that forms over a sore or wound during healing.", "S": ["exfoliate ", "sliver "], "A": []}
+{"index": 279290, "D": "the incrustation that forms over a sore or wound during healing.", "S": ["exfoliate", "sliver"], "A": []}

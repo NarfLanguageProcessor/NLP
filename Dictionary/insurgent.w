@@ -1,1 +1,1 @@
-{"index": 154127, "D": "a person who rises in forcible opposition to lawful authority, especially a person who engages in armed resistance to a government or to the execution of its laws; rebel.", "S": ["revolutionary "], "A": ["obedient ", "subordinate "]}
+{"index": 154127, "D": "a person who rises in forcible opposition to lawful authority, especially a person who engages in armed resistance to a government or to the execution of its laws; rebel.", "S": ["revolutionary"], "A": ["obedient", "subordinate"]}

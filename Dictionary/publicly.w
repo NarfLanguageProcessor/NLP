@@ -1,1 +1,1 @@
-{"index": 255927, "D": "in a public  or open manner or place.", "S": ["honestly ", "openly ", "plainly "], "A": []}
+{"index": 255927, "D": "in a public  or open manner or place.", "S": ["honestly", "openly", "plainly"], "A": []}

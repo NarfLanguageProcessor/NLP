@@ -1,1 +1,1 @@
-{"index": 250646, "D": "Also called", "S": ["city ", "county ", "field ", "locality ", "neighborhood ", "section ", "sector ", "square ", "state ", "territory ", "township ", "zone "], "A": ["whole "]}
+{"index": 250646, "D": "Also called", "S": ["city", "county", "field", "locality", "neighborhood", "section", "sector", "square", "state", "territory", "township", "zone"], "A": ["whole"]}

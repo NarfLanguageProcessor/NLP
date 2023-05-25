@@ -1,1 +1,1 @@
-{"index": 75548, "D": "(of a woman) having a well-shaped figure with voluptuous curves. ", "S": ["rounded ", "shapely "], "A": ["flat "]}
+{"index": 75548, "D": "(of a woman) having a well-shaped figure with voluptuous curves. ", "S": ["rounded", "shapely"], "A": ["flat"]}

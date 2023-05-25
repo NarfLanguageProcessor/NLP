@@ -1,1 +1,1 @@
-{"index": 52589, "D": "a dense growth of shrubs or small trees.", "S": ["scrub ", "thicket "], "A": []}
+{"index": 52589, "D": "a dense growth of shrubs or small trees.", "S": ["scrub", "thicket"], "A": []}

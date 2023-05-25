@@ -1,1 +1,1 @@
-{"index": 328157, "D": "to change from one nature, substance, form, or condition into another; transform.", "S": ["metamorphose ", "mutate "], "A": ["increase ", "keep ", "leave alone ", "preserve ", "refuse ", "stagnate "]}
+{"index": 328157, "D": "to change from one nature, substance, form, or condition into another; transform.", "S": ["metamorphose", "mutate"], "A": ["increase", "keep", "leave alone", "preserve", "refuse", "stagnate"]}

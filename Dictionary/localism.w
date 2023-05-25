@@ -1,1 +1,1 @@
-{"index": 174276, "D": "a word, phrase, pronunciation, or manner of speaking that is peculiar to one locality. ", "S": ["atrocity ", "barbarity ", "brutality ", "cruelty ", "inhumanity "], "A": ["kindness ", "niceness "]}
+{"index": 174276, "D": "a word, phrase, pronunciation, or manner of speaking that is peculiar to one locality. ", "S": ["atrocity", "barbarity", "brutality", "cruelty", "inhumanity"], "A": ["kindness", "niceness"]}

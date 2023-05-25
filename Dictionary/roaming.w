@@ -1,1 +1,1 @@
-{"index": 273523, "D": "to walk, go, or travel without a fixed purpose or direction; ramble; wander; rove", "S": ["meandering ", "roving ", "wandering "], "A": []}
+{"index": 273523, "D": "to walk, go, or travel without a fixed purpose or direction; ramble; wander; rove", "S": ["meandering", "roving", "wandering"], "A": []}

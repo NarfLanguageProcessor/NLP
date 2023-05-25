@@ -1,1 +1,0 @@
-{"index": 164845, "D": "the place on either side of the centromere to which the spindle fibers are attached during cell division.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 87637, "D": "deprived of or lacking in courage, hope, or confidence", "S": ["crestfallen ", "depressed ", "dismayed ", "pessimistic "], "A": ["encouraged ", "heartened "]}
+{"index": 87637, "D": "deprived of or lacking in courage, hope, or confidence", "S": ["crestfallen", "depressed", "dismayed", "pessimistic"], "A": ["encouraged", "heartened"]}

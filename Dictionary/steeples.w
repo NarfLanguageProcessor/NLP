@@ -1,1 +1,1 @@
-{"index": 303459, "D": "an ornamental construction, usually ending in a spire, erected on a roof or tower of a church, public building, etc.", "S": ["cupola ", "minaret ", "spire ", "turret "], "A": []}
+{"index": 303459, "D": "an ornamental construction, usually ending in a spire, erected on a roof or tower of a church, public building, etc.", "S": ["cupola", "minaret", "spire", "turret"], "A": []}

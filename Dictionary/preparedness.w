@@ -1,1 +1,1 @@
-{"index": 248755, "D": "the state of being prepared;  readiness.", "S": ["alertness ", "mobility ", "preparation ", "willingness "], "A": []}
+{"index": 248755, "D": "the state of being prepared;  readiness.", "S": ["alertness", "mobility", "preparation", "willingness"], "A": []}

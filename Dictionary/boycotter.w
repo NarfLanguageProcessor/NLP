@@ -1,1 +1,1 @@
-{"index": 37400, "D": "to combine in abstaining from, or preventing dealings with, as a means of intimidation or coercion", "S": ["marcher ", "radical ", "rioter ", "striker "], "A": []}
+{"index": 37400, "D": "to combine in abstaining from, or preventing dealings with, as a means of intimidation or coercion", "S": ["marcher", "radical", "rioter", "striker"], "A": []}

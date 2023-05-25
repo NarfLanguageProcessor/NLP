@@ -1,1 +1,1 @@
-{"index": 107572, "D": "in a wide-ranging or comprehensive manner", "S": ["broadly ", "chiefly ", "generally ", "mostly ", "predominantly ", "principally ", "widely "], "A": []}
+{"index": 107572, "D": "in a wide-ranging or comprehensive manner", "S": ["broadly", "chiefly", "generally", "mostly", "predominantly", "principally", "widely"], "A": []}

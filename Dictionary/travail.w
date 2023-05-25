@@ -1,1 +1,1 @@
-{"index": 328571, "D": "painfully difficult or burdensome work; toil.", "S": ["agony ", "anguish ", "tribulation ", "woe "], "A": ["comfort ", "happiness ", "joy ", "peace ", "entertainment ", "fun ", "health ", "idleness ", "laziness ", "pastime "]}
+{"index": 328571, "D": "painfully difficult or burdensome work; toil.", "S": ["agony", "anguish", "tribulation", "woe"], "A": ["comfort", "happiness", "joy", "peace", "entertainment", "fun", "health", "idleness", "laziness", "pastime"]}

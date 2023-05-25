@@ -1,1 +1,1 @@
-{"index": 170930, "D": "a printed heading  on stationery, especially one giving the name and address of a business concern, an institution, etc.", "S": ["card ", "note ", "pad ", "poster ", "sheet ", "stationery "], "A": []}
+{"index": 170930, "D": "a printed heading  on stationery, especially one giving the name and address of a business concern, an institution, etc.", "S": ["card", "note", "pad", "poster", "sheet", "stationery"], "A": []}

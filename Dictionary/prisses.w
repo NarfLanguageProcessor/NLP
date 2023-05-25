@@ -1,1 +1,1 @@
-{"index": 250799, "D": "someone who is excessively prim, proper, or fussy; an affectedly dainty or prissy person", "S": ["Miss Priss ", "Puritan ", "Victorian ", "goody-goody ", "prig ", "prude ", "strait-laced "], "A": []}
+{"index": 250799, "D": "someone who is excessively prim, proper, or fussy; an affectedly dainty or prissy person", "S": ["Miss Priss", "Puritan", "Victorian", "goody-goody", "prig", "prude", "strait-laced"], "A": []}

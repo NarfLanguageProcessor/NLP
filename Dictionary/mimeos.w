@@ -1,1 +1,1 @@
-{"index": 187577, "D": "mimeograph. ", "S": ["carbon copy ", "likeness ", "photocopy ", "replica "], "A": ["original "]}
+{"index": 187577, "D": "mimeograph. ", "S": ["carbon copy", "likeness", "photocopy", "replica"], "A": ["original"]}

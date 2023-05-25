@@ -1,1 +1,1 @@
-{"index": 288544, "D": "excrement; feces", "S": ["crap ", "poop "], "A": []}
+{"index": 288544, "D": "excrement; feces", "S": ["crap", "poop"], "A": []}

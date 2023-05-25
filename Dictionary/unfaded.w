@@ -1,1 +1,1 @@
-{"index": 341931, "D": "having lost brightness, intensity, volume, etc., as of light, color, or sound", "S": ["bright ", "clear ", "good ", "lively ", "vigorous "], "A": ["lethargic "]}
+{"index": 341931, "D": "having lost brightness, intensity, volume, etc., as of light, color, or sound", "S": ["bright", "clear", "good", "lively", "vigorous"], "A": ["lethargic"]}

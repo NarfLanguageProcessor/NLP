@@ -1,1 +1,1 @@
-{"index": 252591, "D": "adapted or appropriate to the purpose or circumstances; fit; suitable", "S": ["appropriate ", "convenient ", "decent ", "fitting ", "good ", "legitimate ", "useful "], "A": ["improper ", "inappropriate ", "unfitting ", "unseemly ", "unsuitable ", "unsuited "]}
+{"index": 252591, "D": "adapted or appropriate to the purpose or circumstances; fit; suitable", "S": ["appropriate", "convenient", "decent", "fitting", "good", "legitimate", "useful"], "A": ["improper", "inappropriate", "unfitting", "unseemly", "unsuitable", "unsuited"]}

@@ -1,1 +1,1 @@
-{"index": 63570, "D": "either of two great circles of the celestial sphere intersecting each other at the poles, one passing through both equinoxes and the other through both solstices.", "S": ["ring ", "sphere "], "A": []}
+{"index": 63570, "D": "either of two great circles of the celestial sphere intersecting each other at the poles, one passing through both equinoxes and the other through both solstices.", "S": ["ring", "sphere"], "A": []}

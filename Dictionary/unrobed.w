@@ -1,1 +1,1 @@
-{"index": 350028, "D": "to disrobe; undress.", "S": ["bald ", "exposed ", "naked ", "uncovered "], "A": ["clothed ", "covered ", "robed "]}
+{"index": 350028, "D": "to disrobe; undress.", "S": ["bald", "exposed", "naked", "uncovered"], "A": ["clothed", "covered", "robed"]}

@@ -1,1 +1,1 @@
-{"index": 333304, "D": "to turn about or play with lightly or idly, especially with the fingers; twirl.", "S": ["fidget "], "A": ["leave alone ", "work "]}
+{"index": 333304, "D": "to turn about or play with lightly or idly, especially with the fingers; twirl.", "S": ["fidget"], "A": ["leave alone", "work"]}

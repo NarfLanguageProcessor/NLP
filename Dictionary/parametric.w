@@ -1,1 +1,0 @@
-{"index": 225825, "D": "of or relating to a parameter,  mathematical or statistical variable", "S": [], "A": []}

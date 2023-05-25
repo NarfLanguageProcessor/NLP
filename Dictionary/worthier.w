@@ -1,1 +1,1 @@
-{"index": 367705, "D": "having adequate or great merit, character, or value", "S": ["exceptional ", "improved ", "superior "], "A": ["inferior "]}
+{"index": 367705, "D": "having adequate or great merit, character, or value", "S": ["exceptional", "improved", "superior"], "A": ["inferior"]}

@@ -1,1 +1,1 @@
-{"index": 322590, "D": "to utter a threat  against; menace", "S": ["exposed ", "vulnerable "], "A": ["guarded ", "protected ", "safe "]}
+{"index": 322590, "D": "to utter a threat  against; menace", "S": ["exposed", "vulnerable"], "A": ["guarded", "protected", "safe"]}

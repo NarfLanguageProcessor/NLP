@@ -1,1 +1,1 @@
-{"index": 358025, "D": "the act of venerating. ", "S": ["adoration "], "A": ["dishonor ", "disrespect "]}
+{"index": 358025, "D": "the act of venerating. ", "S": ["adoration"], "A": ["dishonor", "disrespect"]}

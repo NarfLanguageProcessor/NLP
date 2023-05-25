@@ -1,1 +1,1 @@
-{"index": 52783, "D": "cooked, processed, or cured cold meats and meat products, originally and typically pork products, as sausages, p\u00e2t\u00e9s, hams, etc.", "S": ["cafeteria ", "deli "], "A": []}
+{"index": 52783, "D": "cooked, processed, or cured cold meats and meat products, originally and typically pork products, as sausages, p\u00e2t\u00e9s, hams, etc.", "S": ["cafeteria", "deli"], "A": []}

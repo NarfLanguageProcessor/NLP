@@ -1,1 +1,1 @@
-{"index": 366430, "D": "a cocksure, conceited, and often insolent person; smart aleck", "S": ["cavalier ", "cool ", "upstage "], "A": ["bad ", "below ", "humble ", "inferior ", "lower ", "meek ", "minor ", "poor "]}
+{"index": 366430, "D": "a cocksure, conceited, and often insolent person; smart aleck", "S": ["cavalier", "cool", "upstage"], "A": ["bad", "below", "humble", "inferior", "lower", "meek", "minor", "poor"]}

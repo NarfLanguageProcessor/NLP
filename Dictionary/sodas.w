@@ -1,1 +1,1 @@
-{"index": 296276, "D": "sodium hydroxide. ", "S": ["drink "], "A": []}
+{"index": 296276, "D": "sodium hydroxide. ", "S": ["drink"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 276515, "D": "a person who has the condition of sadism,  in which one receives sexual gratification from causing pain and degradation to another.", "S": ["beast ", "critter ", "lout "], "A": ["angel "]}
+{"index": 276515, "D": "a person who has the condition of sadism,  in which one receives sexual gratification from causing pain and degradation to another.", "S": ["beast", "critter", "lout"], "A": ["angel"]}

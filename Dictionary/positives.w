@@ -1,1 +1,1 @@
-{"index": 243809, "D": "explicitly stated, stipulated, or expressed", "S": ["image ", "likeness ", "photo ", "picture ", "portrait ", "print ", "snapshot "], "A": []}
+{"index": 243809, "D": "explicitly stated, stipulated, or expressed", "S": ["image", "likeness", "photo", "picture", "portrait", "print", "snapshot"], "A": []}

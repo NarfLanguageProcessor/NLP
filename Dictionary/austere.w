@@ -1,1 +1,1 @@
-{"index": 23699, "D": "severe in manner or appearance; uncompromising; strict; forbidding", "S": ["exacting ", "forbidding ", "formal ", "rigid ", "sober ", "somber ", "stringent "], "A": ["flexible "]}
+{"index": 23699, "D": "severe in manner or appearance; uncompromising; strict; forbidding", "S": ["exacting", "forbidding", "formal", "rigid", "sober", "somber", "stringent"], "A": ["flexible"]}

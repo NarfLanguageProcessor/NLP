@@ -1,1 +1,1 @@
-{"index": 132513, "D": "a swastika, especially that used as the emblem of the Nazi party and the Third Reich.", "S": ["fylfot ", "gammadion "], "A": []}
+{"index": 132513, "D": "a swastika, especially that used as the emblem of the Nazi party and the Third Reich.", "S": ["fylfot", "gammadion"], "A": []}

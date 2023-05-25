@@ -1,1 +1,1 @@
-{"index": 47040, "D": "a hot beverage consisting of espresso and foamed milk, often served with powdered cinnamon and topped with whipped cream.", "S": ["caffeine ", "espresso "], "A": []}
+{"index": 47040, "D": "a hot beverage consisting of espresso and foamed milk, often served with powdered cinnamon and topped with whipped cream.", "S": ["caffeine", "espresso"], "A": []}

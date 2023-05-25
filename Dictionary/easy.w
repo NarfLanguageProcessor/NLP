@@ -1,1 +1,1 @@
-{"index": 94901, "D": "not hard or difficult; requiring no great labor or effort", "S": ["accessible ", "clear ", "effortless ", "obvious ", "painless ", "simple ", "smooth ", "straightforward ", "uncomplicated "], "A": ["complicated ", "difficult ", "hard ", "obscure "]}
+{"index": 94901, "D": "not hard or difficult; requiring no great labor or effort", "S": ["accessible", "clear", "effortless", "obvious", "painless", "simple", "smooth", "straightforward", "uncomplicated"], "A": ["complicated", "difficult", "hard", "obscure"]}

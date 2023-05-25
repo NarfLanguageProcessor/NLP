@@ -1,1 +1,1 @@
-{"index": 17907, "D": "to be grateful or thankful for", "S": ["apprehending ", "comprehending ", "discerning ", "finding ", "grasping ", "knowing ", "perceiving ", "recognizing "], "A": []}
+{"index": 17907, "D": "to be grateful or thankful for", "S": ["apprehending", "comprehending", "discerning", "finding", "grasping", "knowing", "perceiving", "recognizing"], "A": []}

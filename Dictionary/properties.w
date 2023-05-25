@@ -1,1 +1,1 @@
-{"index": 252603, "D": "the plural of property. ", "S": ["backdrop ", "decor ", "furnishings ", "furniture ", "landscape ", "setting ", "spectacle ", "terrain "], "A": []}
+{"index": 252603, "D": "the plural of property. ", "S": ["backdrop", "decor", "furnishings", "furniture", "landscape", "setting", "spectacle", "terrain"], "A": []}

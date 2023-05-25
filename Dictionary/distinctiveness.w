@@ -1,1 +1,1 @@
-{"index": 89806, "D": "serving to distinguish;  characteristic; distinguishing", "S": ["uniqueness "], "A": []}
+{"index": 89806, "D": "serving to distinguish;  characteristic; distinguishing", "S": ["uniqueness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 297200, "D": "a book of songs with words and music.", "S": ["music paper ", "score ", "tablature ", "written music "], "A": []}
+{"index": 297200, "D": "a book of songs with words and music.", "S": ["music paper", "score", "tablature", "written music"], "A": []}

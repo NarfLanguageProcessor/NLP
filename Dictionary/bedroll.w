@@ -1,1 +1,1 @@
-{"index": 30196, "D": "bedding  that rolls  up for portability and is used especially for sleeping out-of-doors.", "S": ["sleep sack "], "A": []}
+{"index": 30196, "D": "bedding  that rolls  up for portability and is used especially for sleeping out-of-doors.", "S": ["sleep sack"], "A": []}

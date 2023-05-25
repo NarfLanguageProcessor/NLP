@@ -1,1 +1,0 @@
-{"index": 208333, "D": "of, relating to, or resembling vitriol. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 66040, "D": "bewildered; confused; perplexed. ", "S": ["confused ", "perplexed "], "A": ["clear "]}
+{"index": 66040, "D": "bewildered; confused; perplexed. ", "S": ["confused", "perplexed"], "A": ["clear"]}

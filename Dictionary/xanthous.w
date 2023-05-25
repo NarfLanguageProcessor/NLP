@@ -1,1 +1,1 @@
-{"index": 368315, "D": "yellow. ", "S": ["amber ", "bisque ", "blond ", "buff ", "chrome ", "cream ", "gold ", "ivory ", "lemon ", "saffron ", "sand "], "A": []}
+{"index": 368315, "D": "yellow. ", "S": ["amber", "bisque", "blond", "buff", "chrome", "cream", "gold", "ivory", "lemon", "saffron", "sand"], "A": []}

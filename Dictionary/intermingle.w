@@ -1,1 +1,1 @@
-{"index": 155380, "D": "to mingle,  one with another; intermix.", "S": ["interlace ", "interweave "], "A": ["disconnect ", "disjoin ", "divide ", "divorce ", "part ", "separate "]}
+{"index": 155380, "D": "to mingle,  one with another; intermix.", "S": ["interlace", "interweave"], "A": ["disconnect", "disjoin", "divide", "divorce", "part", "separate"]}

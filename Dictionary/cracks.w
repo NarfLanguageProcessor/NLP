@@ -1,1 +1,1 @@
-{"index": 71861, "D": "to break without complete separation of parts; become fissured", "S": ["super "], "A": ["inept ", "inferior ", "poor ", "unskilled ", "worst "]}
+{"index": 71861, "D": "to break without complete separation of parts; become fissured", "S": ["super"], "A": ["inept", "inferior", "poor", "unskilled", "worst"]}

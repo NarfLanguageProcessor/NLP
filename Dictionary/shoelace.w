@@ -1,1 +1,1 @@
-{"index": 288697, "D": "a string or lace  for fastening a shoe. ", "S": ["thread "], "A": []}
+{"index": 288697, "D": "a string or lace  for fastening a shoe. ", "S": ["thread"], "A": []}

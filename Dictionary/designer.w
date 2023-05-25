@@ -1,1 +1,1 @@
-{"index": 82591, "D": "a person who devises or executes designs,  especially one who creates forms, structures, and patterns, as for works of art or machines.", "S": ["architect ", "author ", "engineer ", "fashion designer ", "inventor ", "maker ", "planner ", "producer "], "A": []}
+{"index": 82591, "D": "a person who devises or executes designs,  especially one who creates forms, structures, and patterns, as for works of art or machines.", "S": ["architect", "author", "engineer", "fashion designer", "inventor", "maker", "planner", "producer"], "A": []}

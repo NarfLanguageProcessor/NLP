@@ -1,1 +1,1 @@
-{"index": 304979, "D": "the examination or counting over of materials or goods on hand, as in a stockroom or store.", "S": ["bias ", "ethics ", "evaluative criticism ", "intuition ", "morals ", "subjective evaluation ", "valuation "], "A": []}
+{"index": 304979, "D": "the examination or counting over of materials or goods on hand, as in a stockroom or store.", "S": ["bias", "ethics", "evaluative criticism", "intuition", "morals", "subjective evaluation", "valuation"], "A": []}

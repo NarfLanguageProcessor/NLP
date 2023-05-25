@@ -1,1 +1,1 @@
-{"index": 129501, "D": "of or relating to Greece,  the Greeks, or their language.", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}
+{"index": 129501, "D": "of or relating to Greece,  the Greeks, or their language.", "S": ["classic", "humanistic"], "A": ["complicated", "modern"]}

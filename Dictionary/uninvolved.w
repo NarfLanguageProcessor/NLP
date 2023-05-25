@@ -1,1 +1,1 @@
-{"index": 344882, "D": "uninvolved bystanders", "S": ["disinterested ", "impartial ", "inactive ", "indifferent ", "inert ", "uncommitted ", "unconcerned ", "undecided "], "A": ["active ", "biased ", "caring ", "concerned ", "interested ", "involved ", "prejudiced ", "working "]}
+{"index": 344882, "D": "uninvolved bystanders", "S": ["disinterested", "impartial", "inactive", "indifferent", "inert", "uncommitted", "unconcerned", "undecided"], "A": ["active", "biased", "caring", "concerned", "interested", "involved", "prejudiced", "working"]}

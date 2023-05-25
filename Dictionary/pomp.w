@@ -1,1 +1,1 @@
-{"index": 242908, "D": "stately or splendid display; splendor; magnificence. ", "S": ["fanfare ", "formality ", "grandeur ", "solemnity ", "splendor "], "A": ["insignificance ", "dullness ", "modesty ", "simplicity "]}
+{"index": 242908, "D": "stately or splendid display; splendor; magnificence. ", "S": ["fanfare", "formality", "grandeur", "solemnity", "splendor"], "A": ["insignificance", "dullness", "modesty", "simplicity"]}

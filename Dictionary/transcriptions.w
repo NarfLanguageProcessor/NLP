@@ -1,1 +1,1 @@
-{"index": 327767, "D": "the act or process of transcribing.", "S": ["image ", "model ", "photocopy ", "photograph ", "portrait ", "print ", "replica ", "reproduction ", "transcript ", "type "], "A": ["original ", "difference ", "dissimilarity ", "opposite ", "unlikeness "]}
+{"index": 327767, "D": "the act or process of transcribing.", "S": ["image", "model", "photocopy", "photograph", "portrait", "print", "replica", "reproduction", "transcript", "type"], "A": ["original", "difference", "dissimilarity", "opposite", "unlikeness"]}

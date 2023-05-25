@@ -1,1 +1,1 @@
-{"index": 275459, "D": "a principle or regulation governing conduct, action, procedure, arrangement, etc.", "S": ["decree ", "guideline ", "law ", "order ", "precedent ", "regulation ", "ruling ", "statute ", "test "], "A": ["disorganization ", "lawlessness ", "bad manners "]}
+{"index": 275459, "D": "a principle or regulation governing conduct, action, procedure, arrangement, etc.", "S": ["decree", "guideline", "law", "order", "precedent", "regulation", "ruling", "statute", "test"], "A": ["disorganization", "lawlessness", "bad manners"]}

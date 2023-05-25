@@ -1,1 +1,1 @@
-{"index": 87333, "D": [], "S": ["audience ", "crowd ", "flock ", "gathering ", "parish ", "throng "], "A": ["division ", "separation "]}
+{"index": 87333, "D": [], "S": ["audience", "crowd", "flock", "gathering", "parish", "throng"], "A": ["division", "separation"]}

@@ -1,1 +1,1 @@
-{"index": 88883, "D": "to divide into parts; separate; sunder.", "S": ["distribution "], "A": ["attachment ", "combination ", "connection ", "union "]}
+{"index": 88883, "D": "to divide into parts; separate; sunder.", "S": ["distribution"], "A": ["attachment", "combination", "connection", "union"]}

@@ -1,1 +1,1 @@
-{"index": 195397, "D": "a great number; host", "S": ["horde ", "legion ", "myriad ", "slew ", "throng "], "A": ["little ", "minority "]}
+{"index": 195397, "D": "a great number; host", "S": ["horde", "legion", "myriad", "slew", "throng"], "A": ["little", "minority"]}

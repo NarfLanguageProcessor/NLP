@@ -1,1 +1,1 @@
-{"index": 40147, "D": "to make of brass.", "S": ["weld "], "A": ["break ", "divide ", "separate "]}
+{"index": 40147, "D": "to make of brass.", "S": ["weld"], "A": ["break", "divide", "separate"]}

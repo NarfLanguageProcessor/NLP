@@ -1,1 +1,1 @@
-{"index": 1744, "D": "a clothing accessory or an accessory piece of equipment", "S": ["appurtenances ", "assets ", "chattels ", "effects ", "gear ", "goods ", "paraphernalia ", "property ", "stuff ", "things "], "A": []}
+{"index": 1744, "D": "a clothing accessory or an accessory piece of equipment", "S": ["appurtenances", "assets", "chattels", "effects", "gear", "goods", "paraphernalia", "property", "stuff", "things"], "A": []}

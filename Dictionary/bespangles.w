@@ -1,1 +1,1 @@
-{"index": 32469, "D": "to cover or adorn with or as if with spangles;  make sparkle brilliantly", "S": ["adorn ", "decorate ", "dot ", "garnish ", "light ", "sprinkle ", "star ", "stud ", "trim "], "A": ["hurt "]}
+{"index": 32469, "D": "to cover or adorn with or as if with spangles;  make sparkle brilliantly", "S": ["adorn", "decorate", "dot", "garnish", "light", "sprinkle", "star", "stud", "trim"], "A": ["hurt"]}

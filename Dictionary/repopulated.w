@@ -1,1 +1,1 @@
-{"index": 268369, "D": "to inhabit; live in; be the inhabitants of", "S": ["breed ", "hatch ", "multiply ", "proliferate ", "propagate ", "spawn "], "A": ["decrease ", "destroy ", "kill "]}
+{"index": 268369, "D": "to inhabit; live in; be the inhabitants of", "S": ["breed", "hatch", "multiply", "proliferate", "propagate", "spawn"], "A": ["decrease", "destroy", "kill"]}

@@ -1,1 +1,1 @@
-{"index": 96896, "D": "the body of persons entitled to vote in an election. ", "S": ["constituency ", "voter "], "A": []}
+{"index": 96896, "D": "the body of persons entitled to vote in an election. ", "S": ["constituency", "voter"], "A": []}

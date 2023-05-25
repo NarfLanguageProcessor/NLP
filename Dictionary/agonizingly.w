@@ -1,1 +1,1 @@
-{"index": 6382, "D": "accompanied by, filled with, or resulting in agony  or distress", "S": ["badly ", "vigorously "], "A": ["easily "]}
+{"index": 6382, "D": "accompanied by, filled with, or resulting in agony  or distress", "S": ["badly", "vigorously"], "A": ["easily"]}

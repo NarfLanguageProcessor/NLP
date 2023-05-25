@@ -1,1 +1,1 @@
-{"index": 23393, "D": [], "S": ["inkling ", "instinct ", "intuition ", "premonition "], "A": ["knowledge ", "reason ", "trust "]}
+{"index": 23393, "D": [], "S": ["inkling", "instinct", "intuition", "premonition"], "A": ["knowledge", "reason", "trust"]}

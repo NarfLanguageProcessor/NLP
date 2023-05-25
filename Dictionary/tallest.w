@@ -1,1 +1,1 @@
-{"index": 315677, "D": "having a relatively great height; of more than average stature", "S": ["big ", "great ", "lanky ", "rangy ", "soaring ", "towering "], "A": ["little ", "short ", "small ", "tiny ", "unimportant "]}
+{"index": 315677, "D": "having a relatively great height; of more than average stature", "S": ["big", "great", "lanky", "rangy", "soaring", "towering"], "A": ["little", "short", "small", "tiny", "unimportant"]}

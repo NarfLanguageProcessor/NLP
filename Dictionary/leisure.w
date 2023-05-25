@@ -1,1 +1,1 @@
-{"index": 170282, "D": "freedom from the demands of work or duty", "S": ["convenience ", "recreation ", "relaxation "], "A": ["labor ", "work ", "continuation ", "difficulty ", "imprisonment ", "incarceration ", "restraint ", "restriction "]}
+{"index": 170282, "D": "freedom from the demands of work or duty", "S": ["convenience", "recreation", "relaxation"], "A": ["labor", "work", "continuation", "difficulty", "imprisonment", "incarceration", "restraint", "restriction"]}

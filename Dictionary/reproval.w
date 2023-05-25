@@ -1,1 +1,1 @@
-{"index": 268687, "D": "the act of reproving. ", "S": ["rebuke ", "reprimand "], "A": ["praise "]}
+{"index": 268687, "D": "the act of reproving. ", "S": ["rebuke", "reprimand"], "A": ["praise"]}

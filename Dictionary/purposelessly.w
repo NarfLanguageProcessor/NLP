@@ -1,1 +1,1 @@
-{"index": 257051, "D": "having no purpose  or apparent meaning.", "S": ["aimlessly ", "frantically ", "indiscriminately ", "instinctively ", "madly ", "wildly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}
+{"index": 257051, "D": "having no purpose  or apparent meaning.", "S": ["aimlessly", "frantically", "indiscriminately", "instinctively", "madly", "wildly"], "A": ["carefully", "cautiously", "considerately", "purposely", "reasonably", "sensibly"]}

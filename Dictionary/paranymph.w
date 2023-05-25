@@ -1,1 +1,1 @@
-{"index": 225884, "D": "a groomsman or a bridesmaid.", "S": ["bridesman ", "groomsman "], "A": []}
+{"index": 225884, "D": "a groomsman or a bridesmaid.", "S": ["bridesman", "groomsman"], "A": []}

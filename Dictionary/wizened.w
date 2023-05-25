@@ -1,1 +1,1 @@
-{"index": 366777, "D": "withered; shriveled", "S": ["diminished ", "gnarled ", "lean ", "macerated ", "mummified ", "old ", "reduced ", "shrunk ", "shrunken ", "wilted ", "withered ", "worn ", "wrinkled "], "A": ["moist ", "smooth ", "unwrinkled "]}
+{"index": 366777, "D": "withered; shriveled", "S": ["diminished", "gnarled", "lean", "macerated", "mummified", "old", "reduced", "shrunk", "shrunken", "wilted", "withered", "worn", "wrinkled"], "A": ["moist", "smooth", "unwrinkled"]}

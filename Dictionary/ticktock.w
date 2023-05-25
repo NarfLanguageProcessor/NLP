@@ -1,1 +1,1 @@
-{"index": 323266, "D": "an alternating ticking sound, as that made by a clock.", "S": ["beat ", "blow ", "clack ", "click ", "clicking ", "flash ", "instant ", "minute ", "moment ", "pulsation ", "pulse ", "rap ", "second ", "shake ", "tap ", "tapping ", "throb ", "twinkling ", "wink "], "A": []}
+{"index": 323266, "D": "an alternating ticking sound, as that made by a clock.", "S": ["beat", "blow", "clack", "click", "clicking", "flash", "instant", "minute", "moment", "pulsation", "pulse", "rap", "second", "shake", "tap", "tapping", "throb", "twinkling", "wink"], "A": []}

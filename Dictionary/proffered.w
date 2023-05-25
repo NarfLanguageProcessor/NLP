@@ -1,1 +1,1 @@
-{"index": 251739, "D": "put before someone for acceptance; offered", "S": ["expected ", "planned ", "prospective ", "recommended ", "scheduled ", "suggested "], "A": []}
+{"index": 251739, "D": "put before someone for acceptance; offered", "S": ["expected", "planned", "prospective", "recommended", "scheduled", "suggested"], "A": []}

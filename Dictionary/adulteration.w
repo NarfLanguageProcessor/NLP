@@ -1,1 +1,1 @@
-{"index": 4511, "D": "the act or process of adulterating. ", "S": ["contamination ", "deterioration "], "A": []}
+{"index": 4511, "D": "the act or process of adulterating. ", "S": ["contamination", "deterioration"], "A": []}

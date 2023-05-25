@@ -1,1 +1,1 @@
-{"index": 229084, "D": "the plural of peer2. ", "S": ["breed ", "crop ", "time "], "A": ["destruction "]}
+{"index": 229084, "D": "the plural of peer2. ", "S": ["breed", "crop", "time"], "A": ["destruction"]}

@@ -1,1 +1,1 @@
-{"index": 26298, "D": "a person who packs groceries or other items into bags.", "S": ["oversize "], "A": []}
+{"index": 26298, "D": "a person who packs groceries or other items into bags.", "S": ["oversize"], "A": []}

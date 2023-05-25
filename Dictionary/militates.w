@@ -1,1 +1,1 @@
-{"index": 187211, "D": "to have a substantial effect; weigh heavily", "S": ["mean ", "weigh "], "A": []}
+{"index": 187211, "D": "to have a substantial effect; weigh heavily", "S": ["mean", "weigh"], "A": []}

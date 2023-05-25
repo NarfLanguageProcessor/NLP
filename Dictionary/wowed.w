@@ -1,1 +1,1 @@
-{"index": 367772, "D": "(an exclamation of surprise, wonder, pleasure, or the like)", "S": ["delighted ", "ecstatic ", "elated ", "joyful ", "joyous ", "jubilant ", "overjoyed ", "triumphant "], "A": ["depressed ", "disappointed ", "miserable ", "sad ", "sorrowful ", "troubled ", "unhappy "]}
+{"index": 367772, "D": "(an exclamation of surprise, wonder, pleasure, or the like)", "S": ["delighted", "ecstatic", "elated", "joyful", "joyous", "jubilant", "overjoyed", "triumphant"], "A": ["depressed", "disappointed", "miserable", "sad", "sorrowful", "troubled", "unhappy"]}

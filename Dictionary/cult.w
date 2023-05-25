@@ -1,1 +1,1 @@
-{"index": 74795, "D": "a particular system of religious worship, especially with reference to its rites and ceremonies.", "S": ["band ", "church ", "clan ", "clique ", "denomination ", "faith ", "religion ", "sect "], "A": ["agnosticism ", "disbelief "]}
+{"index": 74795, "D": "a particular system of religious worship, especially with reference to its rites and ceremonies.", "S": ["band", "church", "clan", "clique", "denomination", "faith", "religion", "sect"], "A": ["agnosticism", "disbelief"]}

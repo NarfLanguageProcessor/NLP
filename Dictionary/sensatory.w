@@ -1,1 +1,0 @@
-{"index": 285348, "D": [], "S": ["conscious ", "delicate ", "emotional ", "hypersensitive ", "keen ", "nervous ", "perceptive ", "precise ", "receptive ", "responsive ", "susceptible ", "tense ", "touchy ", "tricky ", "unstable "], "A": ["calm ", "ignorant ", "imprecise ", "insensitive ", "laid-back ", "loose ", "strong ", "unaware ", "unresponsive ", "unsusceptible "]}

@@ -1,1 +1,0 @@
-{"index": 279336, "D": "a large amount or number", "S": ["bags ", "barrels ", "bunches ", "bundles ", "gobs ", "heaps ", "jillion ", "loads ", "lots ", "oodles ", "piles ", "plenty ", "scores ", "stacks ", "tons ", "zillions "], "A": ["little "]}

@@ -1,1 +1,1 @@
-{"index": 93217, "D": "to rain gently and steadily in fine drops; sprinkle", "S": ["dribble ", "spray ", "sprinkle "], "A": ["collect ", "gather ", "pour "]}
+{"index": 93217, "D": "to rain gently and steadily in fine drops; sprinkle", "S": ["dribble", "spray", "sprinkle"], "A": ["collect", "gather", "pour"]}

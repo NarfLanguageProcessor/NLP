@@ -1,1 +1,1 @@
-{"index": 9483, "D": "in an alternating sequence or position", "S": ["in succession ", "one person at a time "], "A": []}
+{"index": 9483, "D": "in an alternating sequence or position", "S": ["in succession", "one person at a time"], "A": []}

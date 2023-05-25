@@ -1,1 +1,1 @@
-{"index": 132865, "D": "a rope or strap with a noose or headstall for leading or restraining horses or cattle.", "S": ["bola ", "halter ", "rope ", "snare "], "A": []}
+{"index": 132865, "D": "a rope or strap with a noose or headstall for leading or restraining horses or cattle.", "S": ["bola", "halter", "rope", "snare"], "A": []}

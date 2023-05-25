@@ -1,1 +1,1 @@
-{"index": 150796, "D": "bound by or occurring under a written contract or formal agreement, especially to work for another", "S": ["apprenticed ", "articled ", "bound ", "contracted ", "enslaved "], "A": []}
+{"index": 150796, "D": "bound by or occurring under a written contract or formal agreement, especially to work for another", "S": ["apprenticed", "articled", "bound", "contracted", "enslaved"], "A": []}

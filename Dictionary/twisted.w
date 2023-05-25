@@ -1,1 +1,1 @@
-{"index": 333428, "D": "interwoven or combined by winding together, as strands or threads; formed in this way", "S": ["contorted ", "curled ", "gnarled ", "tangled ", "twisting "], "A": ["clear ", "even ", "simple ", "straight ", "wholesome "]}
+{"index": 333428, "D": "interwoven or combined by winding together, as strands or threads; formed in this way", "S": ["contorted", "curled", "gnarled", "tangled", "twisting"], "A": ["clear", "even", "simple", "straight", "wholesome"]}

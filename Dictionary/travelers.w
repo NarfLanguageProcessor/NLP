@@ -1,1 +1,1 @@
-{"index": 328589, "D": "a person or thing that travels. ", "S": ["adventurer ", "commuter ", "hiker ", "migrant ", "passenger ", "pilgrim ", "sailor ", "tourist "], "A": []}
+{"index": 328589, "D": "a person or thing that travels. ", "S": ["adventurer", "commuter", "hiker", "migrant", "passenger", "pilgrim", "sailor", "tourist"], "A": []}

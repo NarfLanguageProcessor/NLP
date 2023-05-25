@@ -1,1 +1,1 @@
-{"index": 319515, "D": "any of several edible North American turtles of the family Emydidae, inhabiting fresh or brackish waters, especially the diamondback terrapin", "S": ["tortoise "], "A": []}
+{"index": 319515, "D": "any of several edible North American turtles of the family Emydidae, inhabiting fresh or brackish waters, especially the diamondback terrapin", "S": ["tortoise"], "A": []}

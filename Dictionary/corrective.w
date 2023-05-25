@@ -1,1 +1,1 @@
-{"index": 69615, "D": "tending to correct  or rectify; remedial", "S": ["curative ", "disciplinary ", "punitive ", "remedial ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}
+{"index": 69615, "D": "tending to correct  or rectify; remedial", "S": ["curative", "disciplinary", "punitive", "remedial", "therapeutic"], "A": ["damaging", "harmful", "hurtful", "injurious"]}

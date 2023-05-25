@@ -1,1 +1,1 @@
-{"index": 13242, "D": "strong dislike or enmity; hostile attitude; animosity. ", "S": ["bile ", "mind ", "spirit ", "temper "], "A": []}
+{"index": 13242, "D": "strong dislike or enmity; hostile attitude; animosity. ", "S": ["bile", "mind", "spirit", "temper"], "A": []}

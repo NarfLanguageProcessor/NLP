@@ -1,1 +1,1 @@
-{"index": 189005, "D": "wrong construction;  misinterpretation", "S": ["confusion ", "delusion ", "error ", "misconception ", "misinterpretation ", "misreckoning ", "mistake ", "mix up "], "A": ["accuracy ", "certainty ", "correction ", "truth ", "understanding "]}
+{"index": 189005, "D": "wrong construction;  misinterpretation", "S": ["confusion", "delusion", "error", "misconception", "misinterpretation", "misreckoning", "mistake", "mix up"], "A": ["accuracy", "certainty", "correction", "truth", "understanding"]}

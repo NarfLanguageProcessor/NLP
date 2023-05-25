@@ -1,1 +1,1 @@
-{"index": 105957, "D": "to determine or set the value  or amount of; appraise", "S": ["appraise ", "assess ", "calculate ", "check ", "check out ", "classify ", "decide ", "figure out ", "gauge ", "grade ", "weigh "], "A": ["neglect "]}
+{"index": 105957, "D": "to determine or set the value  or amount of; appraise", "S": ["appraise", "assess", "calculate", "check", "check out", "classify", "decide", "figure out", "gauge", "grade", "weigh"], "A": ["neglect"]}

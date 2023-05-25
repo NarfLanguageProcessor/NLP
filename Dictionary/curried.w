@@ -1,1 +1,1 @@
-{"index": 75427, "D": "a less common variant of curry1. ", "S": ["sauce ", "seasoning "], "A": []}
+{"index": 75427, "D": "a less common variant of curry1. ", "S": ["sauce", "seasoning"], "A": []}

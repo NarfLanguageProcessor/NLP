@@ -1,1 +1,1 @@
-{"index": 274874, "D": "having a flat, circular surface, as a disk.", "S": ["circularity ", "completeness ", "oneness ", "rotundity ", "sphericity ", "wholeness "], "A": []}
+{"index": 274874, "D": "having a flat, circular surface, as a disk.", "S": ["circularity", "completeness", "oneness", "rotundity", "sphericity", "wholeness"], "A": []}

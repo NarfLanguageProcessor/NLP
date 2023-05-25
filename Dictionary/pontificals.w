@@ -1,1 +1,1 @@
-{"index": 243076, "D": "the insignia and special vestments worn by a bishop, esp when celebrating High Mass", "S": ["pontiff "], "A": []}
+{"index": 243076, "D": "the insignia and special vestments worn by a bishop, esp when celebrating High Mass", "S": ["pontiff"], "A": []}

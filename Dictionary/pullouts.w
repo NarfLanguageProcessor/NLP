@@ -1,1 +1,1 @@
-{"index": 256280, "D": "an act or instance of pulling out; removal.", "S": ["evacuation ", "pullback ", "retirement ", "withdrawal "], "A": []}
+{"index": 256280, "D": "an act or instance of pulling out; removal.", "S": ["evacuation", "pullback", "retirement", "withdrawal"], "A": []}

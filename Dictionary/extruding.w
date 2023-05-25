@@ -1,1 +1,1 @@
-{"index": 108770, "D": "to thrust out; force or press out; expel", "S": ["protruding "], "A": []}
+{"index": 108770, "D": "to thrust out; force or press out; expel", "S": ["protruding"], "A": []}

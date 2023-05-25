@@ -1,1 +1,1 @@
-{"index": 131894, "D": "the driver of a hack  or taxi.", "S": ["cab driver ", "cabbie ", "cabby ", "cabman ", "hack ", "hacky "], "A": []}
+{"index": 131894, "D": "the driver of a hack  or taxi.", "S": ["cab driver", "cabbie", "cabby", "cabman", "hack", "hacky"], "A": []}

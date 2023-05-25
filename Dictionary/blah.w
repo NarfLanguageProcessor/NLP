@@ -1,1 +1,1 @@
-{"index": 35632, "D": "nonsense; rubbish", "S": ["boring ", "humdrum ", "monotone ", "pedestrian ", "plodding "], "A": ["exciting ", "interesting "]}
+{"index": 35632, "D": "nonsense; rubbish", "S": ["boring", "humdrum", "monotone", "pedestrian", "plodding"], "A": ["exciting", "interesting"]}

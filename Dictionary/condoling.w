@@ -1,1 +1,1 @@
-{"index": 65651, "D": "to express sympathy with a person who is suffering sorrow, misfortune, or grief (usually followed by with)", "S": ["compassionate ", "sympathizing ", "tender ", "understanding "], "A": ["hard "]}
+{"index": 65651, "D": "to express sympathy with a person who is suffering sorrow, misfortune, or grief (usually followed by with)", "S": ["compassionate", "sympathizing", "tender", "understanding"], "A": ["hard"]}

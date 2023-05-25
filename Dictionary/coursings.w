@@ -1,1 +1,1 @@
-{"index": 71324, "D": "the act of a person or thing that courses. ", "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}
+{"index": 71324, "D": "the act of a person or thing that courses. ", "S": ["angling", "fishery", "fishing", "shooting"], "A": []}

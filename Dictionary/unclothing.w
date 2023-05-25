@@ -1,1 +1,1 @@
-{"index": 337097, "D": "to strip of clothes.", "S": ["bare ", "disclose ", "display ", "exhibit ", "expose ", "flash ", "manifest ", "open ", "show ", "uncover ", "unearth ", "unmask ", "unveil "], "A": ["bury ", "conceal ", "cover ", "hide ", "secrete ", "withhold "]}
+{"index": 337097, "D": "to strip of clothes.", "S": ["bare", "disclose", "display", "exhibit", "expose", "flash", "manifest", "open", "show", "uncover", "unearth", "unmask", "unveil"], "A": ["bury", "conceal", "cover", "hide", "secrete", "withhold"]}

@@ -1,1 +1,1 @@
-{"index": 211533, "D": "the works of a writer, painter, or the like, taken as a whole.", "S": ["opus ", "output ", "work "], "A": []}
+{"index": 211533, "D": "the works of a writer, painter, or the like, taken as a whole.", "S": ["opus", "output", "work"], "A": []}

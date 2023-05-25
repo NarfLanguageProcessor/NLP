@@ -1,1 +1,1 @@
-{"index": 96883, "D": "to work for the success of a particular candidate, party, ticket, etc., in an election. ", "S": ["barnstorm ", "lobby ", "politick ", "stump "], "A": []}
+{"index": 96883, "D": "to work for the success of a particular candidate, party, ticket, etc., in an election. ", "S": ["barnstorm", "lobby", "politick", "stump"], "A": []}

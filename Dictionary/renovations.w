@@ -1,1 +1,1 @@
-{"index": 267742, "D": "the act or process of repairing, renewing, or restoring to good condition", "S": ["facelift ", "improvement ", "renewal ", "repair ", "restoration ", "upgrade "], "A": ["damage ", "destruction ", "harm ", "hurt ", "injury ", "neglect "]}
+{"index": 267742, "D": "the act or process of repairing, renewing, or restoring to good condition", "S": ["facelift", "improvement", "renewal", "repair", "restoration", "upgrade"], "A": ["damage", "destruction", "harm", "hurt", "injury", "neglect"]}

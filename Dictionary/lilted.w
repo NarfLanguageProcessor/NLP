@@ -1,1 +1,1 @@
-{"index": 172256, "D": "rhythmic swing or cadence.", "S": ["trill ", "warble "], "A": ["conceal "]}
+{"index": 172256, "D": "rhythmic swing or cadence.", "S": ["trill", "warble"], "A": ["conceal"]}

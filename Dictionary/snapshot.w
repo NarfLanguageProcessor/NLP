@@ -1,1 +1,1 @@
-{"index": 295321, "D": "an informal photograph, especially one taken quickly by a handheld camera.", "S": ["photo "], "A": []}
+{"index": 295321, "D": "an informal photograph, especially one taken quickly by a handheld camera.", "S": ["photo"], "A": []}

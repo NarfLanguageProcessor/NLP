@@ -1,1 +1,1 @@
-{"index": 335491, "D": "unable to be avoided; inevitable", "S": ["certain ", "inescapable ", "inevitable ", "necessary ", "obligatory "], "A": ["doubtful ", "escapable ", "optional ", "uncertain ", "unsure ", "voluntary "]}
+{"index": 335491, "D": "unable to be avoided; inevitable", "S": ["certain", "inescapable", "inevitable", "necessary", "obligatory"], "A": ["doubtful", "escapable", "optional", "uncertain", "unsure", "voluntary"]}

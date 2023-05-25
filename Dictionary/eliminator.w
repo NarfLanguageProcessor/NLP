@@ -1,1 +1,1 @@
-{"index": 97579, "D": "a person or thing that eliminates. ", "S": ["butcher ", "dropper ", "enforcer ", "executioner ", "gun ", "killer ", "liquidator ", "plugger ", "slayer ", "torpedo "], "A": ["victim "]}
+{"index": 97579, "D": "a person or thing that eliminates. ", "S": ["butcher", "dropper", "enforcer", "executioner", "gun", "killer", "liquidator", "plugger", "slayer", "torpedo"], "A": ["victim"]}

@@ -1,1 +1,1 @@
-{"index": 31098, "D": "very likely; perhaps; probably.", "S": ["come ", "contact ", "match ", "meet ", "near ", "reach ", "surround ", "threaten "], "A": ["avoid ", "depart ", "go ", "leave ", "miss ", "decrease ", "retreat ", "retrogress ", "stop "]}
+{"index": 31098, "D": "very likely; perhaps; probably.", "S": ["come", "contact", "match", "meet", "near", "reach", "surround", "threaten"], "A": ["avoid", "depart", "go", "leave", "miss", "decrease", "retreat", "retrogress", "stop"]}

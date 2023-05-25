@@ -1,1 +1,1 @@
-{"index": 149826, "D": "by inches; inch  by inch;  little by little.", "S": ["by degrees ", "drop by drop ", "grade by grade ", "gradually ", "in stages ", "inch by inch ", "little by little ", "piecemeal ", "step by step "], "A": []}
+{"index": 149826, "D": "by inches; inch  by inch;  little by little.", "S": ["by degrees", "drop by drop", "grade by grade", "gradually", "in stages", "inch by inch", "little by little", "piecemeal", "step by step"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150834, "D": "not determinable; incapable of being ascertained.", "S": ["infinite ", "undefined ", "undetermined ", "unlimited "], "A": ["bounded ", "definite ", "finite ", "limited "]}
+{"index": 150834, "D": "not determinable; incapable of being ascertained.", "S": ["infinite", "undefined", "undetermined", "unlimited"], "A": ["bounded", "definite", "finite", "limited"]}

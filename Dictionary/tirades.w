@@ -1,1 +1,1 @@
-{"index": 324424, "D": "a prolonged outburst of bitter, outspoken denunciation", "S": ["denunciation ", "diatribe ", "harangue ", "invective ", "ranting ", "screed ", "sermon "], "A": ["compliment ", "praise "]}
+{"index": 324424, "D": "a prolonged outburst of bitter, outspoken denunciation", "S": ["denunciation", "diatribe", "harangue", "invective", "ranting", "screed", "sermon"], "A": ["compliment", "praise"]}

@@ -1,1 +1,1 @@
-{"index": 324808, "D": "existing or being such in title  only; nominal; having the title  but none of the associated duties, powers, etc.", "S": ["nominal "], "A": ["actual ", "real ", "true "]}
+{"index": 324808, "D": "existing or being such in title  only; nominal; having the title  but none of the associated duties, powers, etc.", "S": ["nominal"], "A": ["actual", "real", "true"]}

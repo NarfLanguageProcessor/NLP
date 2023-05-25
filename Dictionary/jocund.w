@@ -1,1 +1,1 @@
-{"index": 161506, "D": "cheerful; merry; blithe; glad", "S": ["blithe ", "elated ", "jocose ", "jocular ", "jolly ", "lighthearted ", "sprightly "], "A": ["sad "]}
+{"index": 161506, "D": "cheerful; merry; blithe; glad", "S": ["blithe", "elated", "jocose", "jocular", "jolly", "lighthearted", "sprightly"], "A": ["sad"]}

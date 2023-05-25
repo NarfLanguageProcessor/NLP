@@ -1,1 +1,1 @@
-{"index": 175003, "D": "farsighted; hypermetropic.", "S": ["insight ", "prudence "], "A": ["carelessness ", "ignorance ", "indiscretion ", "neglect ", "negligence ", "thoughtlessness "]}
+{"index": 175003, "D": "farsighted; hypermetropic.", "S": ["insight", "prudence"], "A": ["carelessness", "ignorance", "indiscretion", "neglect", "negligence", "thoughtlessness"]}

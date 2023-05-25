@@ -1,1 +1,1 @@
-{"index": 327511, "D": "the curve described by a projectile, rocket, or the like in its flight.", "S": ["ammunition ", "ball ", "cartridge ", "pellet ", "projectile ", "rocket ", "round ", "shot ", "slug "], "A": []}
+{"index": 327511, "D": "the curve described by a projectile, rocket, or the like in its flight.", "S": ["ammunition", "ball", "cartridge", "pellet", "projectile", "rocket", "round", "shot", "slug"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 100823, "D": "very great or abnormal size, bulk, degree, etc.; hugeness; immensity. ", "S": ["bigness ", "enormity ", "immenseness ", "immensity ", "largeness ", "massiveness ", "vastness "], "A": ["tininess "]}
+{"index": 100823, "D": "very great or abnormal size, bulk, degree, etc.; hugeness; immensity. ", "S": ["bigness", "enormity", "immenseness", "immensity", "largeness", "massiveness", "vastness"], "A": ["tininess"]}

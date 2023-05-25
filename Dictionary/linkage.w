@@ -1,1 +1,1 @@
-{"index": 172932, "D": "the act of linking;  state or manner of being linked. ", "S": ["connection ", "correlation ", "interconnection ", "interdependence ", "link ", "relationship ", "similarity "], "A": ["difference ", "disconnection ", "antagonism ", "disunion ", "separation "]}
+{"index": 172932, "D": "the act of linking;  state or manner of being linked. ", "S": ["connection", "correlation", "interconnection", "interdependence", "link", "relationship", "similarity"], "A": ["difference", "disconnection", "antagonism", "disunion", "separation"]}

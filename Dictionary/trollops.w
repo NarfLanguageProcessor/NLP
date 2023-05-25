@@ -1,1 +1,1 @@
-{"index": 331064, "D": "an immoral or sexually promiscuous woman (now often used facetiously).", "S": ["floozy ", "harlot ", "hussy ", "prostitute ", "slut ", "streetwalker ", "whore "], "A": []}
+{"index": 331064, "D": "an immoral or sexually promiscuous woman (now often used facetiously).", "S": ["floozy", "harlot", "hussy", "prostitute", "slut", "streetwalker", "whore"], "A": []}

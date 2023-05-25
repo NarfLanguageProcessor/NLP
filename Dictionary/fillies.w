@@ -1,1 +1,1 @@
-{"index": 112706, "D": "a young female horse.", "S": ["fledgling ", "rookie ", "sapling ", "youngster "], "A": []}
+{"index": 112706, "D": "a young female horse.", "S": ["fledgling", "rookie", "sapling", "youngster"], "A": []}

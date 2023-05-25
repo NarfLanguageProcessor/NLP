@@ -1,1 +1,1 @@
-{"index": 227605, "D": "the crown or top of the head.", "S": ["brain ", "crown ", "dome ", "noggin "], "A": []}
+{"index": 227605, "D": "the crown or top of the head.", "S": ["brain", "crown", "dome", "noggin"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4324, "D": "of or involving adoption. ", "S": [], "A": []}

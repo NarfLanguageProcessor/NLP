@@ -1,1 +1,0 @@
-{"index": 250827, "D": "(in prescriptions) before; former.", "S": [], "A": []}

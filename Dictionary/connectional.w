@@ -1,1 +1,1 @@
-{"index": 66508, "D": "the act or state of connecting. ", "S": ["combinable ", "combinative ", "combinatorial ", "conjoining ", "conjugable ", "conjugative ", "conjunctional ", "connective "], "A": []}
+{"index": 66508, "D": "the act or state of connecting. ", "S": ["combinable", "combinative", "combinatorial", "conjoining", "conjugable", "conjugative", "conjunctional", "connective"], "A": []}

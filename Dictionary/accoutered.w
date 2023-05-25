@@ -1,1 +1,1 @@
-{"index": 1741, "D": "to equip or outfit, especially with military clothes, equipment, etc.", "S": ["equipped ", "loaded ", "outfitted ", "supplied "], "A": []}
+{"index": 1741, "D": "to equip or outfit, especially with military clothes, equipment, etc.", "S": ["equipped", "loaded", "outfitted", "supplied"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 58051, "D": [], "S": ["diffuseness ", "discursiveness ", "euphemism ", "indirectness ", "periphrasis ", "pleonasm ", "prolixity ", "roundabout ", "tautology ", "verbiage ", "wordiness "], "A": ["conciseness "]}
+{"index": 58051, "D": [], "S": ["diffuseness", "discursiveness", "euphemism", "indirectness", "periphrasis", "pleonasm", "prolixity", "roundabout", "tautology", "verbiage", "wordiness"], "A": ["conciseness"]}

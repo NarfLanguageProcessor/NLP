@@ -1,1 +1,1 @@
-{"index": 149536, "D": "lacking in artistic  sense or appreciation.", "S": ["coarse ", "ignorant "], "A": ["exact ", "gradual ", "kind ", "mannerly ", "nice ", "polished ", "polite ", "refined ", "respectful ", "smooth ", "sophisticated "]}
+{"index": 149536, "D": "lacking in artistic  sense or appreciation.", "S": ["coarse", "ignorant"], "A": ["exact", "gradual", "kind", "mannerly", "nice", "polished", "polite", "refined", "respectful", "smooth", "sophisticated"]}

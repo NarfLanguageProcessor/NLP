@@ -1,1 +1,1 @@
-{"index": 359307, "D": "a pulsating effect, produced in singing by the rapid reiteration of emphasis on a tone, and on bowed instruments by a rapid change of pitch corresponding to the vocal tremolo.", "S": ["quaver ", "quiver "], "A": []}
+{"index": 359307, "D": "a pulsating effect, produced in singing by the rapid reiteration of emphasis on a tone, and on bowed instruments by a rapid change of pitch corresponding to the vocal tremolo.", "S": ["quaver", "quiver"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 343355, "D": "a nail, claw, or hoof.", "S": ["fingernail ", "paw ", "tentacle "], "A": []}
+{"index": 343355, "D": "a nail, claw, or hoof.", "S": ["fingernail", "paw", "tentacle"], "A": []}

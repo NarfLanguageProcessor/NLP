@@ -1,1 +1,1 @@
-{"index": 1083, "D": "lost in thought; deeply engrossed or preoccupied.", "S": ["engrossed ", "preoccupied "], "A": []}
+{"index": 1083, "D": "lost in thought; deeply engrossed or preoccupied.", "S": ["engrossed", "preoccupied"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 288665, "D": "of poor quality or inferior workmanship", "S": ["inferior ", "run down ", "shabby ", "shameful "], "A": ["good ", "respectable ", "noble ", "refined ", "sophisticated ", "superior "]}
+{"index": 288665, "D": "of poor quality or inferior workmanship", "S": ["inferior", "run down", "shabby", "shameful"], "A": ["good", "respectable", "noble", "refined", "sophisticated", "superior"]}

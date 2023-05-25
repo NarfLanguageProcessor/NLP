@@ -1,1 +1,1 @@
-{"index": 104839, "D": "to eternize. ", "S": ["eternize ", "memorialize ", "preserve "], "A": []}
+{"index": 104839, "D": "to eternize. ", "S": ["eternize", "memorialize", "preserve"], "A": []}

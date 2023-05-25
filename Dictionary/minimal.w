@@ -1,1 +1,1 @@
-{"index": 187865, "D": "constituting a minimum", "S": ["basic ", "essential ", "minimum ", "nominal ", "token "], "A": ["inessential ", "nonessential ", "secondary "]}
+{"index": 187865, "D": "constituting a minimum", "S": ["basic", "essential", "minimum", "nominal", "token"], "A": ["inessential", "nonessential", "secondary"]}

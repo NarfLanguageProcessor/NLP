@@ -1,1 +1,1 @@
-{"index": 36907, "D": "to roar and be tumultuous, as wind.", "S": ["bulldoze ", "gloat ", "hector ", "swagger ", "yap "], "A": ["be quiet ", "deprecate "]}
+{"index": 36907, "D": "to roar and be tumultuous, as wind.", "S": ["bulldoze", "gloat", "hector", "swagger", "yap"], "A": ["be quiet", "deprecate"]}

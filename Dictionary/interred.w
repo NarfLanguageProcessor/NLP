@@ -1,1 +1,1 @@
-{"index": 155765, "D": "(of a dead body) placed in a grave or tomb; buried", "S": ["covered ", "hidden "], "A": ["bare ", "exposed ", "open "]}
+{"index": 155765, "D": "(of a dead body) placed in a grave or tomb; buried", "S": ["covered", "hidden"], "A": ["bare", "exposed", "open"]}

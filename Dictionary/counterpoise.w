@@ -1,1 +1,1 @@
-{"index": 70981, "D": "a counterbalancing weight.", "S": ["balance ", "ballast ", "compensation ", "counteraction ", "equalization ", "equilibrium ", "offset ", "stabilization "], "A": ["imbalance "]}
+{"index": 70981, "D": "a counterbalancing weight.", "S": ["balance", "ballast", "compensation", "counteraction", "equalization", "equilibrium", "offset", "stabilization"], "A": ["imbalance"]}

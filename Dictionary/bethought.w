@@ -1,1 +1,1 @@
-{"index": 32739, "D": "simple past tense and past participle of bethink. ", "S": ["deliberate ", "devise ", "mind ", "recall ", "recollect ", "reflect ", "remember ", "reminisce "], "A": ["disregard ", "forget ", "ignore "]}
+{"index": 32739, "D": "simple past tense and past participle of bethink. ", "S": ["deliberate", "devise", "mind", "recall", "recollect", "reflect", "remember", "reminisce"], "A": ["disregard", "forget", "ignore"]}

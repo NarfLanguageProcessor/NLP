@@ -1,1 +1,1 @@
-{"index": 320609, "D": "showing gratitude or appreciation", "S": ["admiringly "], "A": ["rudely "]}
+{"index": 320609, "D": "showing gratitude or appreciation", "S": ["admiringly"], "A": ["rudely"]}

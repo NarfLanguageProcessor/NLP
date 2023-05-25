@@ -1,1 +1,1 @@
-{"index": 176731, "D": "a large heavy knife used especially in Latin American countries in cutting sugarcane and clearing underbrush and as a weapon.", "S": ["blade ", "knife "], "A": []}
+{"index": 176731, "D": "a large heavy knife used especially in Latin American countries in cutting sugarcane and clearing underbrush and as a weapon.", "S": ["blade", "knife"], "A": []}

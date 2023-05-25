@@ -1,1 +1,1 @@
-{"index": 59195, "D": "to give out a loud, resonant sound, as that produced by a large bell or two heavy pieces of metal striking together", "S": ["chink ", "clang ", "jangle ", "jingle ", "sound ", "tingle ", "tinkle "], "A": []}
+{"index": 59195, "D": "to give out a loud, resonant sound, as that produced by a large bell or two heavy pieces of metal striking together", "S": ["chink", "clang", "jangle", "jingle", "sound", "tingle", "tinkle"], "A": []}

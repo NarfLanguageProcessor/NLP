@@ -1,1 +1,1 @@
-{"index": 60434, "D": "to put (something) in a position to obstruct an entrance, opening, etc.; shut. ", "S": ["adjacent ", "convenient "], "A": ["distant ", "far ", "remote "]}
+{"index": 60434, "D": "to put (something) in a position to obstruct an entrance, opening, etc.; shut. ", "S": ["adjacent", "convenient"], "A": ["distant", "far", "remote"]}

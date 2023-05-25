@@ -1,1 +1,1 @@
-{"index": 315641, "D": "inclined to talk  a great deal", "S": ["extravagantly ", "grandiloquently ", "lengthily ", "longwindedly ", "oratorically "], "A": []}
+{"index": 315641, "D": "inclined to talk  a great deal", "S": ["extravagantly", "grandiloquently", "lengthily", "longwindedly", "oratorically"], "A": []}

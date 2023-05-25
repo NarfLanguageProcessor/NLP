@@ -1,1 +1,1 @@
-{"index": 299688, "D": "a small, needlelike body, part, process, or the like.", "S": ["barb ", "bristle ", "chill ", "point ", "sensation ", "spike ", "spine ", "thorn "], "A": []}
+{"index": 299688, "D": "a small, needlelike body, part, process, or the like.", "S": ["barb", "bristle", "chill", "point", "sensation", "spike", "spine", "thorn"], "A": []}

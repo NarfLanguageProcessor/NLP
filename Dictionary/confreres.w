@@ -1,1 +1,1 @@
-{"index": 66059, "D": "a fellow member of a fraternity, profession, etc.; colleague", "S": ["companion ", "comrade ", "disciple ", "follower "], "A": ["enemy ", "foe ", "opponent ", "adversary ", "antagonist "]}
+{"index": 66059, "D": "a fellow member of a fraternity, profession, etc.; colleague", "S": ["companion", "comrade", "disciple", "follower"], "A": ["enemy", "foe", "opponent", "adversary", "antagonist"]}

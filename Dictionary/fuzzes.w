@@ -1,1 +1,1 @@
-{"index": 120744, "D": "loose, light, fibrous, or fluffy matter.", "S": ["lint "], "A": ["smoothness "]}
+{"index": 120744, "D": "loose, light, fibrous, or fluffy matter.", "S": ["lint"], "A": ["smoothness"]}

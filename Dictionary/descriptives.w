@@ -1,1 +1,1 @@
-{"index": 82453, "D": [], "S": ["accessory ", "adjunct ", "adnoun ", "attribute ", "dependent ", "identifier ", "modifier ", "qualifier "], "A": []}
+{"index": 82453, "D": [], "S": ["accessory", "adjunct", "adnoun", "attribute", "dependent", "identifier", "modifier", "qualifier"], "A": []}

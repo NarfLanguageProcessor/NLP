@@ -1,1 +1,1 @@
-{"index": 1881, "D": "to familiarize by custom or use; habituate", "S": ["acquaint ", "adapt "], "A": []}
+{"index": 1881, "D": "to familiarize by custom or use; habituate", "S": ["acquaint", "adapt"], "A": []}

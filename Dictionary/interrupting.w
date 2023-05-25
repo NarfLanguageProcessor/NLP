@@ -1,1 +1,1 @@
-{"index": 155852, "D": "to cause or make a break in the continuity or uniformity of (a course, process, condition, etc.).", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}
+{"index": 155852, "D": "to cause or make a break in the continuity or uniformity of (a course, process, condition, etc.).", "S": ["opposing"], "A": ["unwary", "unwatchful"]}

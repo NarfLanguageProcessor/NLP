@@ -1,1 +1,1 @@
-{"index": 324905, "D": "sliced bread that has been browned by dry heat.", "S": ["boiling ", "fiery ", "hot "], "A": ["cold ", "cool ", "freezing "]}
+{"index": 324905, "D": "sliced bread that has been browned by dry heat.", "S": ["boiling", "fiery", "hot"], "A": ["cold", "cool", "freezing"]}

@@ -1,1 +1,1 @@
-{"index": 158482, "D": "angered, provoked, or annoyed.", "S": ["angry ", "bothered ", "disturbed ", "troubled "], "A": ["calm ", "collected ", "happy ", "untroubled "]}
+{"index": 158482, "D": "angered, provoked, or annoyed.", "S": ["angry", "bothered", "disturbed", "troubled"], "A": ["calm", "collected", "happy", "untroubled"]}

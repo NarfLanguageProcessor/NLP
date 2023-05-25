@@ -1,1 +1,1 @@
-{"index": 321868, "D": "thingamajig. ", "S": ["piece "], "A": []}
+{"index": 321868, "D": "thingamajig. ", "S": ["piece"], "A": []}

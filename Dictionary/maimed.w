@@ -1,1 +1,1 @@
-{"index": 177871, "D": "partly or wholly deprived of the use of some part of the body by wounding or the like", "S": ["crippled ", "damaged ", "disabled ", "handicapped ", "harmed ", "hurt ", "injured ", "lame ", "mangled ", "mutilated ", "truncated ", "wounded "], "A": ["whole "]}
+{"index": 177871, "D": "partly or wholly deprived of the use of some part of the body by wounding or the like", "S": ["crippled", "damaged", "disabled", "handicapped", "harmed", "hurt", "injured", "lame", "mangled", "mutilated", "truncated", "wounded"], "A": ["whole"]}

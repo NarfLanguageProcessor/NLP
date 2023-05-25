@@ -1,1 +1,1 @@
-{"index": 298518, "D": "of or relating to Sparta  or its people.", "S": ["brave ", "hardy ", "plain ", "simple "], "A": ["complex ", "complicated ", "decorated ", "difficult ", "embellished ", "intricate ", "ornate ", "unclear "]}
+{"index": 298518, "D": "of or relating to Sparta  or its people.", "S": ["brave", "hardy", "plain", "simple"], "A": ["complex", "complicated", "decorated", "difficult", "embellished", "intricate", "ornate", "unclear"]}

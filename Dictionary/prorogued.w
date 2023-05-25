@@ -1,1 +1,1 @@
-{"index": 252953, "D": "to discontinue a session of (the British Parliament or a similar body).", "S": ["delayed ", "suspended "], "A": []}
+{"index": 252953, "D": "to discontinue a session of (the British Parliament or a similar body).", "S": ["delayed", "suspended"], "A": []}

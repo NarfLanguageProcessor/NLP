@@ -1,1 +1,1 @@
-{"index": 119362, "D": "an illustrated leaf preceding the title page of a book.", "S": ["face ", "front ", "frontage ", "frontal "], "A": ["back ", "rear "]}
+{"index": 119362, "D": "an illustrated leaf preceding the title page of a book.", "S": ["face", "front", "frontage", "frontal"], "A": ["back", "rear"]}

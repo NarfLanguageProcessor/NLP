@@ -1,1 +1,1 @@
-{"index": 280715, "D": "to emit sparks.", "S": ["flash ", "glimmer ", "glitter ", "shine ", "sparkle "], "A": ["dull "]}
+{"index": 280715, "D": "to emit sparks.", "S": ["flash", "glimmer", "glitter", "shine", "sparkle"], "A": ["dull"]}

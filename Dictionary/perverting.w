@@ -1,1 +1,1 @@
-{"index": 232207, "D": "to affect with perversion. ", "S": ["deviant ", "weirdo "], "A": []}
+{"index": 232207, "D": "to affect with perversion. ", "S": ["deviant", "weirdo"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 106705, "D": "stirred emotionally; agitated", "S": ["breathlessly ", "eagerly ", "frantically ", "furiously ", "heatedly ", "madly ", "passionately ", "tensely ", "wildly "], "A": []}
+{"index": 106705, "D": "stirred emotionally; agitated", "S": ["breathlessly", "eagerly", "frantically", "furiously", "heatedly", "madly", "passionately", "tensely", "wildly"], "A": []}

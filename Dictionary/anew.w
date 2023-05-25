@@ -1,1 +1,1 @@
-{"index": 12629, "D": "over again; again; once more", "S": ["afresh ", "once again ", "once more ", "recently "], "A": []}
+{"index": 12629, "D": "over again; again; once more", "S": ["afresh", "once again", "once more", "recently"], "A": []}

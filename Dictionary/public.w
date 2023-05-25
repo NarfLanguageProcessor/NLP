@@ -1,1 +1,1 @@
-{"index": 255902, "D": "of, relating to, or affecting a population or a community as a whole", "S": ["civic ", "civil ", "communal ", "governmental ", "mutual ", "national ", "popular ", "social ", "universal ", "urban "], "A": ["local ", "private ", "unshared "]}
+{"index": 255902, "D": "of, relating to, or affecting a population or a community as a whole", "S": ["civic", "civil", "communal", "governmental", "mutual", "national", "popular", "social", "universal", "urban"], "A": ["local", "private", "unshared"]}

@@ -1,1 +1,1 @@
-{"index": 200801, "D": "a person or thing that makes noise,  as a reveler on New Year's Eve, Halloween, etc., or a rattle, horn, or similar device used on such an occasion.", "S": ["contamination ", "environmental pollution ", "sound pollution "], "A": []}
+{"index": 200801, "D": "a person or thing that makes noise,  as a reveler on New Year's Eve, Halloween, etc., or a rattle, horn, or similar device used on such an occasion.", "S": ["contamination", "environmental pollution", "sound pollution"], "A": []}

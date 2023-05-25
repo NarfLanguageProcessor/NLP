@@ -1,1 +1,1 @@
-{"index": 116320, "D": [], "S": ["break ", "crack ", "crater ", "cut ", "dent ", "gap ", "mouth ", "pit ", "pocket ", "tunnel ", "void ", "window "], "A": ["mountain ", "closing ", "closure "]}
+{"index": 116320, "D": [], "S": ["break", "crack", "crater", "cut", "dent", "gap", "mouth", "pit", "pocket", "tunnel", "void", "window"], "A": ["mountain", "closing", "closure"]}

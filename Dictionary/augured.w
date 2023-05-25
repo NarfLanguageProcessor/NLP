@@ -1,1 +1,1 @@
-{"index": 23395, "D": "one of a group of ancient Roman officials charged with observing and interpreting omens for guidance in public affairs.", "S": ["foreshadow ", "foretell ", "portend ", "presage ", "signify "], "A": []}
+{"index": 23395, "D": "one of a group of ancient Roman officials charged with observing and interpreting omens for guidance in public affairs.", "S": ["foreshadow", "foretell", "portend", "presage", "signify"], "A": []}

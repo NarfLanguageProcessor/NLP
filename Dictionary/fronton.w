@@ -1,1 +1,1 @@
-{"index": 119378, "D": "a building in which jai alai is played, containing the cancha or court and sometimes having facilities for betting.", "S": ["front ", "overlook "], "A": ["avoid ", "disregard ", "dodge ", "ignore ", "miss "]}
+{"index": 119378, "D": "a building in which jai alai is played, containing the cancha or court and sometimes having facilities for betting.", "S": ["front", "overlook"], "A": ["avoid", "disregard", "dodge", "ignore", "miss"]}

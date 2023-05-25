@@ -1,1 +1,1 @@
-{"index": 281972, "D": "a roll of parchment, paper, copper, or other material, especially one with writing on it", "S": ["circling ", "coiled "], "A": ["straight ", "unwinding "]}
+{"index": 281972, "D": "a roll of parchment, paper, copper, or other material, especially one with writing on it", "S": ["circling", "coiled"], "A": ["straight", "unwinding"]}

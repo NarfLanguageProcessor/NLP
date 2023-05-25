@@ -1,1 +1,1 @@
-{"index": 280293, "D": [], "S": ["crazed ", "demented ", "distracted ", "irrational ", "maniacal ", "unbalanced ", "unhinged "], "A": ["balanced ", "rational ", "reasonable ", "sane ", "sensible ", "sound ", "stable "]}
+{"index": 280293, "D": [], "S": ["crazed", "demented", "distracted", "irrational", "maniacal", "unbalanced", "unhinged"], "A": ["balanced", "rational", "reasonable", "sane", "sensible", "sound", "stable"]}

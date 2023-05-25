@@ -1,1 +1,1 @@
-{"index": 169375, "D": "an officer of the law, as a sheriff or police officer.", "S": ["deputy ", "flatfoot ", "fuzz ", "patrolman ", "policeman ", "policewoman ", "sheriff "], "A": []}
+{"index": 169375, "D": "an officer of the law, as a sheriff or police officer.", "S": ["deputy", "flatfoot", "fuzz", "patrolman", "policeman", "policewoman", "sheriff"], "A": []}

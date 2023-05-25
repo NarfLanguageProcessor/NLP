@@ -1,1 +1,1 @@
-{"index": 210439, "D": "becoming obsolete; passing out of use, as a word", "S": ["growing old ", "out-of-date ", "out-of-fashion ", "senescent "], "A": []}
+{"index": 210439, "D": "becoming obsolete; passing out of use, as a word", "S": ["growing old", "out-of-date", "out-of-fashion", "senescent"], "A": []}

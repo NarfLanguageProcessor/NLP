@@ -1,1 +1,1 @@
-{"index": 65706, "D": "the act of conducting, as of water through a pipe.", "S": ["advice ", "direction ", "instruction ", "intelligence ", "leadership ", "management ", "navigation ", "supervision ", "teaching "], "A": []}
+{"index": 65706, "D": "the act of conducting, as of water through a pipe.", "S": ["advice", "direction", "instruction", "intelligence", "leadership", "management", "navigation", "supervision", "teaching"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 134278, "D": "a long defensive shirt, usually of mail, extending to the knees; byrnie.", "S": ["body armor ", "chain armor ", "chain mail ", "mail ", "ring armor ", "ring mail ", "suit of armor "], "A": []}
+{"index": 134278, "D": "a long defensive shirt, usually of mail, extending to the knees; byrnie.", "S": ["body armor", "chain armor", "chain mail", "mail", "ring armor", "ring mail", "suit of armor"], "A": []}

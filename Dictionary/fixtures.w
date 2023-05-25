@@ -1,1 +1,1 @@
-{"index": 113623, "D": "something securely, and usually permanently, attached or appended, as to a house, apartment building, etc.", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}
+{"index": 113623, "D": "something securely, and usually permanently, attached or appended, as to a house, apartment building, etc.", "S": ["apparatus", "furnishings", "furniture", "machinery", "material"], "A": []}

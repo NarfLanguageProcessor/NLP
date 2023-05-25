@@ -1,1 +1,1 @@
-{"index": 200906, "D": "a person nominated,  as to run for elective office or fill a particular post.", "S": ["competition "], "A": []}
+{"index": 200906, "D": "a person nominated,  as to run for elective office or fill a particular post.", "S": ["competition"], "A": []}

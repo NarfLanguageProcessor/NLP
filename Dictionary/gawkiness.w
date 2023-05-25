@@ -1,1 +1,1 @@
-{"index": 122950, "D": "awkward; ungainly; clumsy.", "S": ["awkwardness ", "clumsiness ", "crudeness ", "gracelessness ", "inelegance ", "ineptitude "], "A": ["coordination ", "experience ", "grace ", "sophistication "]}
+{"index": 122950, "D": "awkward; ungainly; clumsy.", "S": ["awkwardness", "clumsiness", "crudeness", "gracelessness", "inelegance", "ineptitude"], "A": ["coordination", "experience", "grace", "sophistication"]}

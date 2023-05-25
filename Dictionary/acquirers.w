@@ -1,1 +1,1 @@
-{"index": 2744, "D": "to come into possession or ownership of; get as one's own", "S": ["appropriator ", "claimant ", "discoverer ", "spotter "], "A": ["loser ", "owner ", "stray "]}
+{"index": 2744, "D": "to come into possession or ownership of; get as one's own", "S": ["appropriator", "claimant", "discoverer", "spotter"], "A": ["loser", "owner", "stray"]}

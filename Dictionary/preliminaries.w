@@ -1,1 +1,1 @@
-{"index": 248221, "D": "the full word for prelims", "S": ["explanatory matter ", "introduction ", "preface ", "preliminary ", "prelims "], "A": []}
+{"index": 248221, "D": "the full word for prelims", "S": ["explanatory matter", "introduction", "preface", "preliminary", "prelims"], "A": []}

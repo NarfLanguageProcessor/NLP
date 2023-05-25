@@ -1,0 +1,1 @@
+{"index": 2079, "D": "of, relating to, or characteristic of the acetyl group. ", "S": [], "A": []}

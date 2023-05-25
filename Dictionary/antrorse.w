@@ -1,1 +1,1 @@
-{"index": 16495, "D": "bent or directed forward or upward.", "S": ["higher ", "skyward ", "uphill "], "A": ["downward "]}
+{"index": 16495, "D": "bent or directed forward or upward.", "S": ["higher", "skyward", "uphill"], "A": ["downward"]}

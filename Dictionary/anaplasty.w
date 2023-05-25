@@ -1,1 +1,1 @@
-{"index": 11920, "D": "reconstruction or restoration, especially by plastic surgery, of a lost or injured part.", "S": ["esthetic surgery ", "face-lift ", "reconstructive surgery ", "rhinoplasty "], "A": []}
+{"index": 11920, "D": "reconstruction or restoration, especially by plastic surgery, of a lost or injured part.", "S": ["esthetic surgery", "face-lift", "reconstructive surgery", "rhinoplasty"], "A": []}

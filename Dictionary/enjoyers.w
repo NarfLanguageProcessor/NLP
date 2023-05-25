@@ -1,1 +1,1 @@
-{"index": 100604, "D": "to experience with joy; take pleasure in", "S": ["buyer ", "customer ", "purchaser ", "shopper ", "user "], "A": ["seller "]}
+{"index": 100604, "D": "to experience with joy; take pleasure in", "S": ["buyer", "customer", "purchaser", "shopper", "user"], "A": ["seller"]}

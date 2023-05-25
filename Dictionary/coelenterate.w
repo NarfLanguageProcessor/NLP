@@ -1,1 +1,1 @@
-{"index": 61863, "D": "Compare cnidarian. ", "S": ["tumor "], "A": []}
+{"index": 61863, "D": "Compare cnidarian. ", "S": ["tumor"], "A": []}

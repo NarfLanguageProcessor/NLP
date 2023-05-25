@@ -1,1 +1,1 @@
-{"index": 297411, "D": [], "S": ["insightful ", "intelligent ", "perceptive ", "sophisticated "], "A": ["stupid ", "unaware ", "unintelligent ", "ignorant ", "slow ", "unskilled "]}
+{"index": 297411, "D": [], "S": ["insightful", "intelligent", "perceptive", "sophisticated"], "A": ["stupid", "unaware", "unintelligent", "ignorant", "slow", "unskilled"]}

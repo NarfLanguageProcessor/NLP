@@ -1,1 +1,1 @@
-{"index": 197711, "D": "by or of necessity; as a matter of compulsion or requirement", "S": ["automatically ", "naturally ", "no doubt ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "questionably "]}
+{"index": 197711, "D": "by or of necessity; as a matter of compulsion or requirement", "S": ["automatically", "naturally", "no doubt", "undoubtedly", "unquestionably"], "A": ["doubtfully", "questionably"]}

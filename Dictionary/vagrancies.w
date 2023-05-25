@@ -1,1 +1,1 @@
-{"index": 356559, "D": "the state or condition of being a vagrant", "S": ["homelessness ", "vagabondage "], "A": []}
+{"index": 356559, "D": "the state or condition of being a vagrant", "S": ["homelessness", "vagabondage"], "A": []}

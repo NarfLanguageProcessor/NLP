@@ -1,1 +1,1 @@
-{"index": 216077, "D": "(a form of the possessive case of we used as an attributive adjective)", "S": ["her ", "hir ", "his ", "its ", "my ", "their ", "vis ", "xyr ", "your ", "zir "], "A": []}
+{"index": 216077, "D": "(a form of the possessive case of we used as an attributive adjective)", "S": ["her", "hir", "his", "its", "my", "their", "vis", "xyr", "your", "zir"], "A": []}

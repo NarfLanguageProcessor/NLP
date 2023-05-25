@@ -1,1 +1,1 @@
-{"index": 159641, "D": "a loud, hearty laugh.", "S": ["gunk ", "muck ", "sludge "], "A": []}
+{"index": 159641, "D": "a loud, hearty laugh.", "S": ["gunk", "muck", "sludge"], "A": []}

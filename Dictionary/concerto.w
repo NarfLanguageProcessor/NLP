@@ -1,1 +1,1 @@
-{"index": 65228, "D": "a composition for one or more principal instruments, with orchestral accompaniment, now usually in symphonic form.", "S": ["arrangement ", "drama ", "melody ", "music ", "piece ", "poetry ", "setup ", "symphony ", "theme ", "tune ", "writing "], "A": ["silence "]}
+{"index": 65228, "D": "a composition for one or more principal instruments, with orchestral accompaniment, now usually in symphonic form.", "S": ["arrangement", "drama", "melody", "music", "piece", "poetry", "setup", "symphony", "theme", "tune", "writing"], "A": ["silence"]}

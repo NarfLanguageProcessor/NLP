@@ -1,1 +1,1 @@
-{"index": 295698, "D": "the nose.", "S": ["braggart ", "elitist ", "highbrow ", "parvenu ", "pretender ", "upstart "], "A": []}
+{"index": 295698, "D": "the nose.", "S": ["braggart", "elitist", "highbrow", "parvenu", "pretender", "upstart"], "A": []}

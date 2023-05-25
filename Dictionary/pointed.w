@@ -1,1 +1,1 @@
-{"index": 241321, "D": "having a point  or points", "S": ["barbed ", "sharp "], "A": ["blunt ", "dull "]}
+{"index": 241321, "D": "having a point  or points", "S": ["barbed", "sharp"], "A": ["blunt", "dull"]}

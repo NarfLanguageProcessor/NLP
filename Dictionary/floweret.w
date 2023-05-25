@@ -1,1 +1,1 @@
-{"index": 115187, "D": "a small flower; floret.", "S": ["blossom ", "flower "], "A": []}
+{"index": 115187, "D": "a small flower; floret.", "S": ["blossom", "flower"], "A": []}

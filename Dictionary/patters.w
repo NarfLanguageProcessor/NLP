@@ -1,1 +1,1 @@
-{"index": 228032, "D": "to make a rapid succession of light taps", "S": ["chatter "], "A": ["quiet ", "silence "]}
+{"index": 228032, "D": "to make a rapid succession of light taps", "S": ["chatter"], "A": ["quiet", "silence"]}

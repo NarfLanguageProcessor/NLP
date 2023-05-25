@@ -1,1 +1,1 @@
-{"index": 153904, "D": "a variant of instill. ", "S": ["diffuse ", "disseminate ", "engender ", "imbue ", "impart ", "inculcate ", "inject ", "inspire "], "A": ["take out ", "leave alone ", "neglect "]}
+{"index": 153904, "D": "a variant of instill. ", "S": ["diffuse", "disseminate", "engender", "imbue", "impart", "inculcate", "inject", "inspire"], "A": ["take out", "leave alone", "neglect"]}

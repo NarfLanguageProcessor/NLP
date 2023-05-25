@@ -1,1 +1,1 @@
-{"index": 233428, "D": "a fact, occurrence, or circumstance observed or observable", "S": ["anomaly ", "aspect ", "circumstance ", "episode ", "event ", "experience ", "fact ", "incident ", "miracle ", "paradox ", "reality ", "sensation "], "A": ["usualness ", "normality "]}
+{"index": 233428, "D": "a fact, occurrence, or circumstance observed or observable", "S": ["anomaly", "aspect", "circumstance", "episode", "event", "experience", "fact", "incident", "miracle", "paradox", "reality", "sensation"], "A": ["usualness", "normality"]}

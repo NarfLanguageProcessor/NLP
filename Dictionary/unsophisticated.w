@@ -1,1 +1,1 @@
-{"index": 351600, "D": "not sophisticated;  simple; artless.", "S": ["guileless ", "inexperienced ", "naive ", "straightforward ", "uninvolved "], "A": ["deceitful ", "dishonest ", "experienced "]}
+{"index": 351600, "D": "not sophisticated;  simple; artless.", "S": ["guileless", "inexperienced", "naive", "straightforward", "uninvolved"], "A": ["deceitful", "dishonest", "experienced"]}

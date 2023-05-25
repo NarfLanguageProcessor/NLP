@@ -1,1 +1,1 @@
-{"index": 251773, "D": "a small cream puff with a sweet or savory filling, as of cream and chocolate sauce.", "S": ["cannoli ", "chou ", "cream horn ", "croquembouche ", "puff "], "A": []}
+{"index": 251773, "D": "a small cream puff with a sweet or savory filling, as of cream and chocolate sauce.", "S": ["cannoli", "chou", "cream horn", "croquembouche", "puff"], "A": []}

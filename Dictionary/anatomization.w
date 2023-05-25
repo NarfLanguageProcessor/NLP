@@ -1,1 +1,1 @@
-{"index": 12102, "D": "to cut apart (an animal or plant) to show or examine the position, structure, and relation of the parts; display the anatomy  of; dissect.", "S": ["postmortem "], "A": ["connection ", "joining ", "mending ", "sewing "]}
+{"index": 12102, "D": "to cut apart (an animal or plant) to show or examine the position, structure, and relation of the parts; display the anatomy  of; dissect.", "S": ["postmortem"], "A": ["connection", "joining", "mending", "sewing"]}

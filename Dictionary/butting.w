@@ -1,1 +1,1 @@
-{"index": 43727, "D": "a boundary; limit.", "S": ["backside ", "behind ", "bottom ", "bum ", "derriere ", "tush "], "A": []}
+{"index": 43727, "D": "a boundary; limit.", "S": ["backside", "behind", "bottom", "bum", "derriere", "tush"], "A": []}

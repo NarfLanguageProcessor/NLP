@@ -1,1 +1,1 @@
-{"index": 148322, "D": "not passable;  not allowing passage over, through, along, etc.", "S": ["impenetrable ", "insurmountable "], "A": ["open ", "passable ", "traveled "]}
+{"index": 148322, "D": "not passable;  not allowing passage over, through, along, etc.", "S": ["impenetrable", "insurmountable"], "A": ["open", "passable", "traveled"]}

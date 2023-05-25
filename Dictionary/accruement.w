@@ -1,1 +1,1 @@
-{"index": 1791, "D": "to happen or result as a natural growth, addition, etc.", "S": ["compensation ", "reimbursement "], "A": ["debt ", "loss ", "penalty "]}
+{"index": 1791, "D": "to happen or result as a natural growth, addition, etc.", "S": ["compensation", "reimbursement"], "A": ["debt", "loss", "penalty"]}

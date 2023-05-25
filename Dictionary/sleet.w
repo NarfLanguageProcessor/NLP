@@ -1,1 +1,1 @@
-{"index": 293923, "D": "precipitation in the form of ice pellets created by the freezing of rain as it falls (distinguished from hail2).", "S": ["chunk ", "crystal ", "diamonds ", "floe ", "glacier ", "glaze ", "hail ", "hailstone ", "iceberg ", "icicle ", "permafrost "], "A": ["water "]}
+{"index": 293923, "D": "precipitation in the form of ice pellets created by the freezing of rain as it falls (distinguished from hail2).", "S": ["chunk", "crystal", "diamonds", "floe", "glacier", "glaze", "hail", "hailstone", "iceberg", "icicle", "permafrost"], "A": ["water"]}

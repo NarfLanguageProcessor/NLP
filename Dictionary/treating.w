@@ -1,1 +1,1 @@
-{"index": 328727, "D": "to act or behave toward (a person) in some specified way", "S": ["corrective ", "therapeutic "], "A": ["harmful ", "hurtful ", "injurious "]}
+{"index": 328727, "D": "to act or behave toward (a person) in some specified way", "S": ["corrective", "therapeutic"], "A": ["harmful", "hurtful", "injurious"]}

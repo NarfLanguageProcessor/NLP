@@ -1,1 +1,1 @@
-{"index": 94601, "D": "a usually down-filled quilt, often with a removable cover; comforter.", "S": ["bedspread ", "quilt "], "A": []}
+{"index": 94601, "D": "a usually down-filled quilt, often with a removable cover; comforter.", "S": ["bedspread", "quilt"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 168951, "D": "a plural of latex. ", "S": ["acrylic ", "color ", "cosmetic ", "dye ", "enamel ", "makeup ", "oil ", "pigment ", "stain ", "varnish ", "wax "], "A": []}
+{"index": 168951, "D": "a plural of latex. ", "S": ["acrylic", "color", "cosmetic", "dye", "enamel", "makeup", "oil", "pigment", "stain", "varnish", "wax"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 322691, "D": "producing sudden, strong, and deep emotion or excitement.", "S": ["breathtaking ", "electrifying ", "enchanting ", "frantic ", "gripping ", "hair-raising ", "miraculous ", "riveting ", "rousing ", "sensational ", "stirring "], "A": ["usual "]}
+{"index": 322691, "D": "producing sudden, strong, and deep emotion or excitement.", "S": ["breathtaking", "electrifying", "enchanting", "frantic", "gripping", "hair-raising", "miraculous", "riveting", "rousing", "sensational", "stirring"], "A": ["usual"]}

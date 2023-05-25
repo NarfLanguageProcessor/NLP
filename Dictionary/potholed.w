@@ -1,1 +1,1 @@
-{"index": 244718, "D": [], "S": ["choppy ", "jarring ", "jerky ", "rugged ", "rutted ", "uneven "], "A": ["calm ", "even ", "level ", "smooth "]}
+{"index": 244718, "D": [], "S": ["choppy", "jarring", "jerky", "rugged", "rutted", "uneven"], "A": ["calm", "even", "level", "smooth"]}

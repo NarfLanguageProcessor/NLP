@@ -1,1 +1,1 @@
-{"index": 74764, "D": "to reach the highest point, summit, or highest development (usually followed by in).", "S": ["cultivated ", "cultured "], "A": ["ignorant "]}
+{"index": 74764, "D": "to reach the highest point, summit, or highest development (usually followed by in).", "S": ["cultivated", "cultured"], "A": ["ignorant"]}

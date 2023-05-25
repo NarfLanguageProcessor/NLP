@@ -1,1 +1,1 @@
-{"index": 289219, "D": "any of several small, long-tailed, chiefly marine crustaceans of the decapod suborder Natania, certain species of which are used as food.", "S": ["nobody ", "runt ", "shrimp ", "squirt ", "twerp ", "whippersnapper "], "A": []}
+{"index": 289219, "D": "any of several small, long-tailed, chiefly marine crustaceans of the decapod suborder Natania, certain species of which are used as food.", "S": ["nobody", "runt", "shrimp", "squirt", "twerp", "whippersnapper"], "A": []}

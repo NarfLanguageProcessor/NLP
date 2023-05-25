@@ -1,1 +1,1 @@
-{"index": 256876, "D": "nearly or partially blind; dim-sighted.", "S": ["foolishly ", "impulsively ", "passionately ", "recklessly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}
+{"index": 256876, "D": "nearly or partially blind; dim-sighted.", "S": ["foolishly", "impulsively", "passionately", "recklessly"], "A": ["carefully", "cautiously", "considerately", "purposely", "reasonably", "sensibly"]}

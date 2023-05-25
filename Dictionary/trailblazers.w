@@ -1,1 +1,1 @@
-{"index": 327408, "D": "a person who blazes  a trail  for others to follow through unsettled country or wilderness; pathfinder.", "S": ["avant-garde ", "creator ", "discoverer ", "groundbreaker ", "pioneer ", "vanguard "], "A": []}
+{"index": 327408, "D": "a person who blazes  a trail  for others to follow through unsettled country or wilderness; pathfinder.", "S": ["avant-garde", "creator", "discoverer", "groundbreaker", "pioneer", "vanguard"], "A": []}

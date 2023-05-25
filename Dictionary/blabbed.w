@@ -1,1 +1,1 @@
-{"index": 35419, "D": "to reveal indiscreetly and thoughtlessly", "S": ["divulge ", "tell on "], "A": ["be quiet ", "conceal ", "hide "]}
+{"index": 35419, "D": "to reveal indiscreetly and thoughtlessly", "S": ["divulge", "tell on"], "A": ["be quiet", "conceal", "hide"]}

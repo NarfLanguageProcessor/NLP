@@ -1,1 +1,1 @@
-{"index": 80423, "D": "crazy; insane; mad.", "S": ["deranged ", "hysterical ", "mad ", "maniacal ", "manic ", "psychotic ", "unhinged "], "A": ["OK ", "balanced ", "calm ", "sane "]}
+{"index": 80423, "D": "crazy; insane; mad.", "S": ["deranged", "hysterical", "mad", "maniacal", "manic", "psychotic", "unhinged"], "A": ["OK", "balanced", "calm", "sane"]}

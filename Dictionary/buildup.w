@@ -1,1 +1,1 @@
-{"index": 42375, "D": "a building up, as of military forces; increase in amount or number.", "S": ["enlargement ", "escalation ", "expansion ", "growth ", "stockpile "], "A": ["decrease ", "lessening ", "reduction ", "shrinkage ", "stagnation ", "loss "]}
+{"index": 42375, "D": "a building up, as of military forces; increase in amount or number.", "S": ["enlargement", "escalation", "expansion", "growth", "stockpile"], "A": ["decrease", "lessening", "reduction", "shrinkage", "stagnation", "loss"]}

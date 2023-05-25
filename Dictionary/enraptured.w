@@ -1,1 +1,1 @@
-{"index": 100878, "D": "to move to rapture;  delight beyond measure", "S": ["captivated ", "enamored ", "enchanted ", "entranced ", "fascinated ", "hooked ", "mesmerized ", "possessed ", "spellbound ", "transformed "], "A": ["disenchanted ", "disinterested "]}
+{"index": 100878, "D": "to move to rapture;  delight beyond measure", "S": ["captivated", "enamored", "enchanted", "entranced", "fascinated", "hooked", "mesmerized", "possessed", "spellbound", "transformed"], "A": ["disenchanted", "disinterested"]}

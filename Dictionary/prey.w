@@ -1,1 +1,0 @@
-{"index": 247848, "D": "an animal hunted or seized for food, especially by a carnivorous animal.", "S": ["casualty ", "chased ", "dupe ", "game ", "kill ", "loot ", "mark ", "martyr ", "mug ", "pillage ", "quarry ", "quest ", "raven ", "spoil ", "sufferer ", "underdog ", "victim "], "A": ["attacker "]}

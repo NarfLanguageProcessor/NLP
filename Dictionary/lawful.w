@@ -1,1 +1,0 @@
-{"index": 169340, "D": "allowed or permitted by law;  not contrary to law", "S": ["authorized ", "constitutional ", "justifiable ", "legal ", "permissible ", "proper ", "rightful ", "statutory ", "valid "], "A": ["illegal ", "illegitimate ", "incorrect ", "unacceptable ", "wrong "]}

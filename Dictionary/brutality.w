@@ -1,1 +1,1 @@
-{"index": 41864, "D": "the quality of being brutal;  cruelty; savagery.", "S": ["atrocity ", "barbarism ", "barbarity ", "cruelty ", "inhumanity ", "savagery "], "A": ["kindness "]}
+{"index": 41864, "D": "the quality of being brutal;  cruelty; savagery.", "S": ["atrocity", "barbarism", "barbarity", "cruelty", "inhumanity", "savagery"], "A": ["kindness"]}

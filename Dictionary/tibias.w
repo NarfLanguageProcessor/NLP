@@ -1,1 +1,1 @@
-{"index": 323167, "D": "the inner of the two bones of the leg, that extend from the knee to the ankle and articulate with the femur and the talus; shinbone.", "S": ["crus ", "shank ", "shinbone "], "A": []}
+{"index": 323167, "D": "the inner of the two bones of the leg, that extend from the knee to the ankle and articulate with the femur and the talus; shinbone.", "S": ["crus", "shank", "shinbone"], "A": []}

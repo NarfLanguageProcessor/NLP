@@ -1,1 +1,1 @@
-{"index": 121320, "D": "a kitchen or an area with kitchen facilities in a ship, plane, or camper.", "S": ["dinghy ", "galleon ", "rowboat ", "tender ", "trireme "], "A": []}
+{"index": 121320, "D": "a kitchen or an area with kitchen facilities in a ship, plane, or camper.", "S": ["dinghy", "galleon", "rowboat", "tender", "trireme"], "A": []}

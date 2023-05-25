@@ -1,1 +1,1 @@
-{"index": 197024, "D": "a stool pigeon or informer.", "S": ["deceiver ", "double-crosser ", "fink ", "narc ", "rat ", "snitch ", "spy ", "traitor ", "turncoat ", "weasel "], "A": []}
+{"index": 197024, "D": "a stool pigeon or informer.", "S": ["deceiver", "double-crosser", "fink", "narc", "rat", "snitch", "spy", "traitor", "turncoat", "weasel"], "A": []}

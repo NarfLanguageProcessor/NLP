@@ -1,1 +1,1 @@
-{"index": 293528, "D": "slobber. ", "S": ["froth "], "A": []}
+{"index": 293528, "D": "slobber. ", "S": ["froth"], "A": []}

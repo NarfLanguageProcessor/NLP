@@ -1,1 +1,1 @@
-{"index": 270006, "D": "a person or thing that restrains. ", "S": ["control "], "A": ["advantage ", "aid ", "allowance ", "approval ", "assistance ", "blessing ", "boost ", "encouragement ", "facilitation ", "freedom ", "help ", "success ", "support "]}
+{"index": 270006, "D": "a person or thing that restrains. ", "S": ["control"], "A": ["advantage", "aid", "allowance", "approval", "assistance", "blessing", "boost", "encouragement", "facilitation", "freedom", "help", "success", "support"]}

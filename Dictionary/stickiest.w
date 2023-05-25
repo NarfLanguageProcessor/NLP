@@ -1,1 +1,1 @@
-{"index": 304303, "D": "having the property of adhering, as glue; adhesive.", "S": ["syrupy ", "tacky ", "viscous "], "A": ["dry ", "smooth "]}
+{"index": 304303, "D": "having the property of adhering, as glue; adhesive.", "S": ["syrupy", "tacky", "viscous"], "A": ["dry", "smooth"]}

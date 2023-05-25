@@ -1,1 +1,1 @@
-{"index": 325205, "D": "something serving to represent or indicate some fact, event, feeling, etc.; sign", "S": ["announce ", "argue ", "assert ", "declare ", "depose ", "indicate ", "swear "], "A": ["conceal ", "deny ", "hide ", "contradict ", "discredit ", "refute ", "reject ", "veto "]}
+{"index": 325205, "D": "something serving to represent or indicate some fact, event, feeling, etc.; sign", "S": ["announce", "argue", "assert", "declare", "depose", "indicate", "swear"], "A": ["conceal", "deny", "hide", "contradict", "discredit", "refute", "reject", "veto"]}

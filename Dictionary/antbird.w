@@ -1,0 +1,1 @@
+{"index": 14056, "D": "any of numerous passerine birds  of the family Formicariidae, of the New World tropics, many species of which follow army ant  swarms to feed on insects disturbed by the ants. ", "S": [], "A": []}

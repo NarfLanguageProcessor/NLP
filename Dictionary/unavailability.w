@@ -1,1 +1,1 @@
-{"index": 335464, "D": "the fact or quality of being close at hand and ready for use", "S": ["dearth ", "deficiency ", "drought ", "lack ", "omission "], "A": ["abundance ", "enough ", "excess ", "plenty ", "sufficiency "]}
+{"index": 335464, "D": "the fact or quality of being close at hand and ready for use", "S": ["dearth", "deficiency", "drought", "lack", "omission"], "A": ["abundance", "enough", "excess", "plenty", "sufficiency"]}

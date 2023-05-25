@@ -1,1 +1,1 @@
-{"index": 64307, "D": "a person who commutes,  especially between home and work.", "S": ["driver ", "traveler "], "A": []}
+{"index": 64307, "D": "a person who commutes,  especially between home and work.", "S": ["driver", "traveler"], "A": []}

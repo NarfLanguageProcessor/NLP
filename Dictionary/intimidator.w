@@ -1,1 +1,1 @@
-{"index": 156317, "D": "to make timid; fill with fear.", "S": ["annoyer ", "antagonizer ", "browbeater ", "bulldozer ", "coercer ", "harrier ", "hector ", "insolent ", "oppressor ", "persecutor ", "pest ", "rascal ", "rowdy ", "ruffian ", "tease ", "tormenter ", "tough "], "A": []}
+{"index": 156317, "D": "to make timid; fill with fear.", "S": ["annoyer", "antagonizer", "browbeater", "bulldozer", "coercer", "harrier", "hector", "insolent", "oppressor", "persecutor", "pest", "rascal", "rowdy", "ruffian", "tease", "tormenter", "tough"], "A": []}

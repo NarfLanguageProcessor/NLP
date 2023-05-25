@@ -1,1 +1,1 @@
-{"index": 143649, "D": "alcoholic liquor.", "S": ["booze ", "drink ", "ethanol ", "liquor ", "methanol ", "smoke "], "A": []}
+{"index": 143649, "D": "alcoholic liquor.", "S": ["booze", "drink", "ethanol", "liquor", "methanol", "smoke"], "A": []}

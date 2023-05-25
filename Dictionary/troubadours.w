@@ -1,1 +1,1 @@
-{"index": 331308, "D": [], "S": ["crooner ", "minstrel ", "songwriter "], "A": []}
+{"index": 331308, "D": [], "S": ["crooner", "minstrel", "songwriter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 275857, "D": "the red or orange coating that forms on the surface of iron when exposed to air and moisture, consisting chiefly of ferric hydroxide and ferric oxide formed by oxidation.", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}
+{"index": 275857, "D": "the red or orange coating that forms on the surface of iron when exposed to air and moisture, consisting chiefly of ferric hydroxide and ferric oxide formed by oxidation.", "S": ["powdery", "soft"], "A": ["flexible", "pliable"]}

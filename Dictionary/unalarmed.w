@@ -1,1 +1,1 @@
-{"index": 334787, "D": "a sudden fear or distressing suspense caused by an awareness of danger; apprehension; fright.", "S": ["fearless ", "indomitable ", "steadfast ", "undeterred "], "A": ["cowardly ", "shrinking "]}
+{"index": 334787, "D": "a sudden fear or distressing suspense caused by an awareness of danger; apprehension; fright.", "S": ["fearless", "indomitable", "steadfast", "undeterred"], "A": ["cowardly", "shrinking"]}

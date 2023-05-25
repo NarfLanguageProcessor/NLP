@@ -1,1 +1,0 @@
-{"index": 367339, "D": "the fine, soft, curly hair that forms the fleece of sheep and certain other animals, characterized by minute, overlapping surface scales that give it its felting property.", "S": ["cashmere ", "fleece ", "fur ", "hair ", "mohair ", "tweed ", "yarn "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32031, "D": "a soft, visorless cap with a close-fitting headband and a wide, round top often with a tab at its center.", "S": ["beanie", "bonnet", "fez", "pillbox", "skullcap", "tam"], "A": []}

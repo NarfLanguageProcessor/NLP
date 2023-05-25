@@ -1,1 +1,1 @@
-{"index": 92581, "D": "a mythical monster generally represented as a huge, winged reptile with crested head and enormous claws and teeth, and often spouting fire.", "S": ["basilisk ", "hydra ", "tarragon ", "wyvern "], "A": []}
+{"index": 92581, "D": "a mythical monster generally represented as a huge, winged reptile with crested head and enormous claws and teeth, and often spouting fire.", "S": ["basilisk", "hydra", "tarragon", "wyvern"], "A": []}

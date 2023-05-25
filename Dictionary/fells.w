@@ -1,1 +1,1 @@
-{"index": 111071, "D": "simple past tense of fall. ", "S": ["drop ", "flatten ", "raze ", "shoot ", "shoot down ", "slash ", "tumble "], "A": ["raise ", "aid ", "assist ", "build ", "combine ", "construct ", "help ", "join ", "unite "]}
+{"index": 111071, "D": "simple past tense of fall. ", "S": ["drop", "flatten", "raze", "shoot", "shoot down", "slash", "tumble"], "A": ["raise", "aid", "assist", "build", "combine", "construct", "help", "join", "unite"]}

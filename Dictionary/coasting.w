@@ -1,1 +1,1 @@
-{"index": 61096, "D": "the land next to the sea; seashore", "S": ["cruise ", "drift ", "sail ", "skate "], "A": []}
+{"index": 61096, "D": "the land next to the sea; seashore", "S": ["cruise", "drift", "sail", "skate"], "A": []}

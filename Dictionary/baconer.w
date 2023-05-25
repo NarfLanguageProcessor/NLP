@@ -1,0 +1,1 @@
+{"index": 26031, "D": "a pig that weighs between 83 and 101 kg, from which bacon is cut", "S": [], "A": []}

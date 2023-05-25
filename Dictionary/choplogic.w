@@ -1,1 +1,1 @@
-{"index": 55686, "D": "sophistic or overly complicated argumentation.", "S": ["bandy words ", "brawl ", "contend ", "cut and thrust ", "fight ", "lock horns ", "quarrel ", "spar ", "to fight "], "A": []}
+{"index": 55686, "D": "sophistic or overly complicated argumentation.", "S": ["bandy words", "brawl", "contend", "cut and thrust", "fight", "lock horns", "quarrel", "spar", "to fight"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 100618, "D": "to experience with joy; take pleasure in", "S": ["appreciate ", "like ", "love ", "relish ", "revel in ", "savor "], "A": ["dislike ", "hate "]}
+{"index": 100618, "D": "to experience with joy; take pleasure in", "S": ["appreciate", "like", "love", "relish", "revel in", "savor"], "A": ["dislike", "hate"]}

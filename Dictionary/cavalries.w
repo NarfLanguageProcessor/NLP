@@ -1,1 +1,1 @@
-{"index": 50158, "D": "the motorized, armored units of a military force organized for maximum mobility.", "S": ["squadron "], "A": []}
+{"index": 50158, "D": "the motorized, armored units of a military force organized for maximum mobility.", "S": ["squadron"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 24849, "D": "to keep away from; keep clear of; shun", "S": ["needless ", "unnecessary "], "A": ["necessary ", "needed "]}
+{"index": 24849, "D": "to keep away from; keep clear of; shun", "S": [], "A": []}

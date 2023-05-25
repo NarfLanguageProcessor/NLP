@@ -1,1 +1,1 @@
-{"index": 264010, "D": "to state or set forth the meaning of (a word, phrase, etc.)", "S": ["reconsider "], "A": []}
+{"index": 264010, "D": "to state or set forth the meaning of (a word, phrase, etc.)", "S": ["reconsider"], "A": []}

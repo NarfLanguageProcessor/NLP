@@ -1,1 +1,1 @@
-{"index": 275457, "D": [], "S": ["administrable ", "controllable ", "docile ", "manageable ", "submissive ", "workable "], "A": []}
+{"index": 275457, "D": [], "S": ["administrable", "controllable", "docile", "manageable", "submissive", "workable"], "A": []}

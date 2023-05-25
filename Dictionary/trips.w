@@ -1,1 +1,1 @@
-{"index": 330469, "D": "a journey or voyage", "S": ["cruise ", "expedition ", "foray ", "jaunt ", "outing ", "run ", "tour ", "travel ", "trek "], "A": []}
+{"index": 330469, "D": "a journey or voyage", "S": ["cruise", "expedition", "foray", "jaunt", "outing", "run", "tour", "travel", "trek"], "A": []}

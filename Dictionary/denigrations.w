@@ -1,1 +1,1 @@
-{"index": 81122, "D": "an act or instance of speaking about someone or something in a belittling or damaging way; disparagement", "S": ["character assassination ", "defamation "], "A": ["approval ", "compliment ", "flattery ", "praise "]}
+{"index": 81122, "D": "an act or instance of speaking about someone or something in a belittling or damaging way; disparagement", "S": ["character assassination", "defamation"], "A": ["approval", "compliment", "flattery", "praise"]}

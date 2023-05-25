@@ -1,1 +1,1 @@
-{"index": 259423, "D": "slightly improper or indelicate; suggestive; risqu\u00e9.", "S": ["bitterness ", "piquancy ", "pungency ", "sprightliness ", "tang "], "A": ["blandness "]}
+{"index": 259423, "D": "slightly improper or indelicate; suggestive; risqu\u00e9.", "S": ["bitterness", "piquancy", "pungency", "sprightliness", "tang"], "A": ["blandness"]}

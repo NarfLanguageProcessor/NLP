@@ -1,1 +1,1 @@
-{"index": 123760, "D": "wellborn and well-bred people.", "S": ["aristocracy "], "A": []}
+{"index": 123760, "D": "wellborn and well-bred people.", "S": ["aristocracy"], "A": []}

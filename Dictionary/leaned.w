@@ -1,1 +1,1 @@
-{"index": 169626, "D": "to incline or bend from a vertical position", "S": ["bow ", "cock ", "drift ", "incline ", "nod ", "prop ", "recline ", "slant ", "tilt ", "tip ", "twist ", "veer "], "A": ["straighten ", "ascend ", "energize ", "forget ", "increase ", "rise "]}
+{"index": 169626, "D": "to incline or bend from a vertical position", "S": ["bow", "cock", "drift", "incline", "nod", "prop", "recline", "slant", "tilt", "tip", "twist", "veer"], "A": ["straighten", "ascend", "energize", "forget", "increase", "rise"]}

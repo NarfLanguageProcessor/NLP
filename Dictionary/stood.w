@@ -1,1 +1,1 @@
-{"index": 305280, "D": "the simple past tense and past participle of stand. ", "S": ["erect ", "locate ", "place ", "put ", "rank ", "rise ", "set ", "settle "], "A": ["depart ", "disorder ", "displace ", "leave ", "lose ", "move ", "remove ", "drop ", "fall "]}
+{"index": 305280, "D": "the simple past tense and past participle of stand. ", "S": ["erect", "locate", "place", "put", "rank", "rise", "set", "settle"], "A": ["depart", "disorder", "displace", "leave", "lose", "move", "remove", "drop", "fall"]}

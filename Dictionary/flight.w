@@ -1,1 +1,1 @@
-{"index": 114591, "D": "the act, manner, or power of flying.", "S": ["arrival ", "departure ", "shuttle ", "transport ", "trip "], "A": ["stay "]}
+{"index": 114591, "D": "the act, manner, or power of flying.", "S": ["arrival", "departure", "shuttle", "transport", "trip"], "A": ["stay"]}

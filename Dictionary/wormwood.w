@@ -1,1 +1,1 @@
-{"index": 367623, "D": "any composite herb or low shrub of the genus Artemisia.", "S": ["bad part ", "bitter cup ", "bummer ", "downer ", "downside "], "A": []}
+{"index": 367623, "D": "any composite herb or low shrub of the genus Artemisia.", "S": ["bad part", "bitter cup", "bummer", "downer", "downside"], "A": []}

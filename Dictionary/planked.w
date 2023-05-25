@@ -1,1 +1,1 @@
-{"index": 239005, "D": "a long, flat piece of timber, thicker than a board.", "S": ["found ", "insert ", "install "], "A": ["leave ", "move ", "unsettle "]}
+{"index": 239005, "D": "a long, flat piece of timber, thicker than a board.", "S": ["found", "insert", "install"], "A": ["leave", "move", "unsettle"]}

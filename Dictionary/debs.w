@@ -1,1 +1,1 @@
-{"index": 77849, "D": "U.S. labor leader", "S": ["teenage girl ", "young girl ", "young lady "], "A": []}
+{"index": 77849, "D": "U.S. labor leader", "S": ["teenage girl", "young girl", "young lady"], "A": []}

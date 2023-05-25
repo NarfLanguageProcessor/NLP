@@ -1,1 +1,1 @@
-{"index": 172389, "D": "of, relating to, or serving as a limit. ", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 172389, "D": "of, relating to, or serving as a limit. ", "S": ["belted", "bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

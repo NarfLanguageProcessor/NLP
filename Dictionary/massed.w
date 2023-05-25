@@ -1,1 +1,1 @@
-{"index": 180779, "D": "a body of coherent matter, usually of indefinite shape and often of considerable size", "S": ["amassed ", "met "], "A": ["dismantled "]}
+{"index": 180779, "D": "a body of coherent matter, usually of indefinite shape and often of considerable size", "S": ["amassed", "met"], "A": ["dismantled"]}

@@ -1,1 +1,1 @@
-{"index": 326110, "D": "the act or fact of being a Tory. ", "S": ["backlash "], "A": ["cause ", "question "]}
+{"index": 326110, "D": "the act or fact of being a Tory. ", "S": ["backlash"], "A": ["cause", "question"]}

@@ -1,1 +1,1 @@
-{"index": 25849, "D": "a reserve or accumulation, as of stock, work, or business", "S": ["inventory ", "stockpile "], "A": ["debt ", "lack ", "need "]}
+{"index": 25849, "D": "a reserve or accumulation, as of stock, work, or business", "S": ["inventory", "stockpile"], "A": ["debt", "lack", "need"]}

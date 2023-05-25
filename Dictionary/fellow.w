@@ -1,1 +1,1 @@
-{"index": 111052, "D": "a man or boy", "S": ["assistant ", "associate ", "companion ", "instructor ", "lecturer ", "professor "], "A": ["enemy ", "foe ", "opponent ", "pupil ", "stranger ", "student ", "inferior "]}
+{"index": 111052, "D": "a man or boy", "S": ["assistant", "associate", "companion", "instructor", "lecturer", "professor"], "A": ["enemy", "foe", "opponent", "pupil", "stranger", "student", "inferior"]}

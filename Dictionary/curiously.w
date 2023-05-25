@@ -1,1 +1,1 @@
-{"index": 75329, "D": "eager to learn or know; inquisitive.", "S": ["chiefly ", "exclusively ", "notably ", "principally ", "specially ", "specifically "], "A": ["broadly "]}
+{"index": 75329, "D": "eager to learn or know; inquisitive.", "S": ["chiefly", "exclusively", "notably", "principally", "specially", "specifically"], "A": ["broadly"]}

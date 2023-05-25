@@ -1,1 +1,1 @@
-{"index": 145194, "D": "a woman who hunts.", "S": ["chaser ", "deerstalker ", "falconer ", "fisherman ", "hawker ", "huntsman ", "pursuer ", "sportsman ", "stalker ", "trapper "], "A": []}
+{"index": 145194, "D": "a woman who hunts.", "S": ["chaser", "deerstalker", "falconer", "fisherman", "hawker", "huntsman", "pursuer", "sportsman", "stalker", "trapper"], "A": []}

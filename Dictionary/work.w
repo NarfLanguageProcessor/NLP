@@ -1,1 +1,1 @@
-{"index": 367464, "D": "exertion or effort directed to produce or accomplish something; labor; toil. ", "S": ["effort ", "endeavor ", "industry ", "job ", "performance ", "production ", "struggle ", "task ", "trial "], "A": ["fun ", "idleness ", "laziness ", "unemployment ", "entertainment "]}
+{"index": 367464, "D": "exertion or effort directed to produce or accomplish something; labor; toil. ", "S": ["effort", "endeavor", "industry", "job", "performance", "production", "struggle", "task", "trial"], "A": ["fun", "idleness", "laziness", "unemployment", "entertainment"]}

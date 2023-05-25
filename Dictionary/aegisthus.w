@@ -1,0 +1,1 @@
+{"index": 4821, "D": "a cousin of Agamemnon who seduced Clytemnestra, Agamemnon's wife, and was later killed by Orestes.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 263774, "D": "the process or fact of regaining health or strength; recovery from illness or exhaustion", "S": ["healing ", "rehabilitation ", "rejuvenation "], "A": ["destruction ", "weakening ", "worsening "]}
+{"index": 263774, "D": "the process or fact of regaining health or strength; recovery from illness or exhaustion", "S": ["healing", "rehabilitation", "rejuvenation"], "A": ["destruction", "weakening", "worsening"]}

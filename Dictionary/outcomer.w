@@ -1,1 +1,1 @@
-{"index": 216391, "D": [], "S": ["alien ", "foreigner ", "guest ", "immigrant ", "intruder ", "newcomer ", "outsider ", "visitor "], "A": ["citizen ", "local ", "national ", "native "]}
+{"index": 216391, "D": [], "S": ["alien", "foreigner", "guest", "immigrant", "intruder", "newcomer", "outsider", "visitor"], "A": ["citizen", "local", "national", "native"]}

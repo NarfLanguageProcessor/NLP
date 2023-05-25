@@ -1,1 +1,1 @@
-{"index": 259426, "D": [], "S": ["darting ", "dashing ", "fast ", "flying ", "galloping ", "hastening ", "hurrying ", "running ", "rushing ", "sailing ", "swift ", "tearing ", "whisking ", "whizzing ", "zooming "], "A": ["slow "]}
+{"index": 259426, "D": [], "S": ["darting", "dashing", "fast", "flying", "galloping", "hastening", "hurrying", "running", "rushing", "sailing", "swift", "tearing", "whisking", "whizzing", "zooming"], "A": ["slow"]}

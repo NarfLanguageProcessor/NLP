@@ -1,1 +1,1 @@
-{"index": 135017, "D": "of great weight; hard to lift or carry", "S": ["also ", "extra ", "further ", "higher ", "new ", "other "], "A": ["fewer ", "less "]}
+{"index": 135017, "D": "of great weight; hard to lift or carry", "S": ["also", "extra", "further", "higher", "new", "other"], "A": ["fewer", "less"]}

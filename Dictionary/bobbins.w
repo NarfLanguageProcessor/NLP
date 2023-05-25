@@ -1,1 +1,1 @@
-{"index": 37060, "D": "a reel, cylinder, or spool upon which yarn or thread is wound, as used in spinning, machine sewing, lacemaking, etc.", "S": ["braid ", "coil ", "cord ", "cylinder ", "pin ", "quill ", "ratchet ", "reel ", "spindle "], "A": []}
+{"index": 37060, "D": "a reel, cylinder, or spool upon which yarn or thread is wound, as used in spinning, machine sewing, lacemaking, etc.", "S": ["braid", "coil", "cord", "cylinder", "pin", "quill", "ratchet", "reel", "spindle"], "A": []}

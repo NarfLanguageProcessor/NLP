@@ -1,1 +1,1 @@
-{"index": 94980, "D": "the edge of a roof that projects beyond the wall", "S": ["rim ", "soffit "], "A": []}
+{"index": 94980, "D": "the edge of a roof that projects beyond the wall", "S": ["rim", "soffit"], "A": []}

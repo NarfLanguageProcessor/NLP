@@ -1,1 +1,0 @@
-{"index": 271343, "D": "a person who reviews. ", "S": ["analyst ", "appraiser ", "commentator ", "connoisseur ", "expert ", "reporter "], "A": ["ignoramus "]}

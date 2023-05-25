@@ -1,1 +1,1 @@
-{"index": 27064, "D": "a state of confusion; mix-up.", "S": ["blunder ", "boggle ", "botch up ", "bungle ", "flub ", "foul up ", "fumble ", "make a muck of ", "mess up ", "mishandle ", "mismanage ", "muddle ", "muff "], "A": []}
+{"index": 27064, "D": "a state of confusion; mix-up.", "S": ["blunder", "boggle", "botch up", "bungle", "flub", "foul up", "fumble", "make a muck of", "mess up", "mishandle", "mismanage", "muddle", "muff"], "A": []}

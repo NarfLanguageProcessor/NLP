@@ -1,1 +1,1 @@
-{"index": 71114, "D": "a statement  made to deny or refute another statement. ", "S": ["rebuttal ", "repartee ", "retort "], "A": ["question ", "request "]}
+{"index": 71114, "D": "a statement  made to deny or refute another statement. ", "S": ["rebuttal", "repartee", "retort"], "A": ["question", "request"]}

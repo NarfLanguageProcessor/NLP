@@ -1,1 +1,1 @@
-{"index": 98219, "D": "bent; vaulted; arched.", "S": ["curved ", "domed ", "rounded "], "A": []}
+{"index": 98219, "D": "bent; vaulted; arched.", "S": ["curved", "domed", "rounded"], "A": []}

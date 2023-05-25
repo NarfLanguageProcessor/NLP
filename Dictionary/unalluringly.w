@@ -1,1 +1,0 @@
-{"index": 334847, "D": "very attractive or tempting; enticing; seductive. ", "S": [], "A": []}

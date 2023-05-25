@@ -1,1 +1,1 @@
-{"index": 285725, "D": [], "S": ["pyemia ", "sepsis ", "septic infection ", "septic poisoning ", "septicemia ", "toxaemia ", "toxemia "], "A": []}
+{"index": 285725, "D": [], "S": ["pyemia", "sepsis", "septic infection", "septic poisoning", "septicemia", "toxaemia", "toxemia"], "A": []}

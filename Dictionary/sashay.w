@@ -1,1 +1,1 @@
-{"index": 278586, "D": "to glide, move, or proceed easily or nonchalantly", "S": ["excursion ", "flounce ", "glide ", "mince ", "move ", "prance ", "strut ", "swagger "], "A": []}
+{"index": 278586, "D": "to glide, move, or proceed easily or nonchalantly", "S": ["excursion", "flounce", "glide", "mince", "move", "prance", "strut", "swagger"], "A": []}

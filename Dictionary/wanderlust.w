@@ -1,1 +1,1 @@
-{"index": 362369, "D": "a strong, innate desire to rove or travel about.", "S": ["driving ", "excursion ", "flying ", "movement ", "navigation ", "ride ", "sailing ", "sightseeing ", "tour ", "transit ", "trek ", "trip "], "A": []}
+{"index": 362369, "D": "a strong, innate desire to rove or travel about.", "S": ["driving", "excursion", "flying", "movement", "navigation", "ride", "sailing", "sightseeing", "tour", "transit", "trek", "trip"], "A": []}

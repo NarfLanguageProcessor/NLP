@@ -1,1 +1,1 @@
-{"index": 236476, "D": "the skin  of a pig. ", "S": ["moleskin ", "oval ", "peanut ", "pineapple ", "porker ", "sphere ", "watermelon "], "A": []}
+{"index": 236476, "D": "the skin  of a pig. ", "S": ["moleskin", "oval", "peanut", "pineapple", "porker", "sphere", "watermelon"], "A": []}

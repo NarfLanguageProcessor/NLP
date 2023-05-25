@@ -1,1 +1,1 @@
-{"index": 246195, "D": "prevented or made impossible; disallowed or ruled out", "S": ["absent ", "deleted ", "erased ", "expunged ", "forgotten ", "missing ", "neglected ", "overlooked "], "A": ["present "]}
+{"index": 246195, "D": "prevented or made impossible; disallowed or ruled out", "S": ["absent", "deleted", "erased", "expunged", "forgotten", "missing", "neglected", "overlooked"], "A": ["present"]}

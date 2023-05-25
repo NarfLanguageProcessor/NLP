@@ -1,1 +1,0 @@
-{"index": 347836, "D": "to bother persistently with petty annoyances; trouble", "S": [], "A": []}

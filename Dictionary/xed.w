@@ -1,1 +1,0 @@
-{"index": 368332, "D": "to cross out or mark with or as if with an x (often followed by out)", "S": ["impress ", "seal "], "A": ["mend ", "smooth "]}

@@ -1,1 +1,0 @@
-{"index": 307848, "D": "a repetition of sound produced by the reflection of sound waves from a wall, mountain, or other obstructing surface.", "S": [], "A": []}

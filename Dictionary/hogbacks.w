@@ -1,1 +1,1 @@
-{"index": 142233, "D": "a long, sharply crested ridge, generally formed of steeply inclined strata that are especially resistant to erosion.", "S": ["ridge "], "A": ["bottom ", "nadir "]}
+{"index": 142233, "D": "a long, sharply crested ridge, generally formed of steeply inclined strata that are especially resistant to erosion.", "S": ["ridge"], "A": ["bottom", "nadir"]}

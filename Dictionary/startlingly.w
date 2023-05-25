@@ -1,1 +1,1 @@
-{"index": 302974, "D": "creating sudden alarm, surprise, or wonder; astonishing.", "S": ["abnormally ", "amazingly ", "curiously ", "peculiarly ", "rarely ", "remarkably ", "strikingly ", "surprisingly ", "uncommonly ", "uniquely ", "unusually "], "A": ["frequently "]}
+{"index": 302974, "D": "creating sudden alarm, surprise, or wonder; astonishing.", "S": ["abnormally", "amazingly", "curiously", "peculiarly", "rarely", "remarkably", "strikingly", "surprisingly", "uncommonly", "uniquely", "unusually"], "A": ["frequently"]}

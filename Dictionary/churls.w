@@ -1,1 +1,1 @@
-{"index": 56729, "D": "a rude, boorish, or surly person.", "S": ["beast ", "clodhopper ", "oaf ", "provincial ", "rustic "], "A": []}
+{"index": 56729, "D": "a rude, boorish, or surly person.", "S": ["beast", "clodhopper", "oaf", "provincial", "rustic"], "A": []}

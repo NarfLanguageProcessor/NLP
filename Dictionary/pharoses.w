@@ -1,1 +1,1 @@
-{"index": 233179, "D": "a small peninsula in northern Egypt, near Alexandria", "S": ["flare ", "lantern ", "radar "], "A": []}
+{"index": 233179, "D": "a small peninsula in northern Egypt, near Alexandria", "S": ["flare", "lantern", "radar"], "A": []}

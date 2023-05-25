@@ -1,1 +1,1 @@
-{"index": 81745, "D": "the lawful expulsion of an alien or other person from a country.", "S": ["displacement ", "eviction ", "expulsion ", "extradition ", "removal "], "A": ["welcoming "]}
+{"index": 81745, "D": "the lawful expulsion of an alien or other person from a country.", "S": ["displacement", "eviction", "expulsion", "extradition", "removal"], "A": ["welcoming"]}

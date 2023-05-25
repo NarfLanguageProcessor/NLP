@@ -1,1 +1,1 @@
-{"index": 89031, "D": "discouraged; dejected; disheartened; gloomy.", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}
+{"index": 89031, "D": "discouraged; dejected; disheartened; gloomy.", "S": ["desperately", "sadly"], "A": ["confidently", "expectantly", "hopefully"]}

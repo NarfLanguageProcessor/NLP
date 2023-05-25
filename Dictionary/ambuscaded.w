@@ -1,1 +1,1 @@
-{"index": 10162, "D": "an ambush.", "S": ["attack ", "bushwhack ", "ensnare ", "surprise ", "trap ", "waylay "], "A": ["let go ", "release "]}
+{"index": 10162, "D": "an ambush.", "S": ["attack", "bushwhack", "ensnare", "surprise", "trap", "waylay"], "A": ["let go", "release"]}

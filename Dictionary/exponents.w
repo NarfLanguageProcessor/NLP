@@ -1,1 +1,1 @@
-{"index": 107933, "D": "a person or thing that expounds,  explains, or interprets", "S": ["interpreter ", "proponent "], "A": ["antagonist ", "opponent "]}
+{"index": 107933, "D": "a person or thing that expounds,  explains, or interprets", "S": ["interpreter", "proponent"], "A": ["antagonist", "opponent"]}

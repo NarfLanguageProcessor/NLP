@@ -1,1 +1,1 @@
-{"index": 122338, "D": "a native of Gascony, France, the inhabitants of which were reputedly very boastful.", "S": ["boaster ", "windbag "], "A": []}
+{"index": 122338, "D": "a native of Gascony, France, the inhabitants of which were reputedly very boastful.", "S": ["boaster", "windbag"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 196617, "D": "a person who habitually expresses negative or pessimistic views", "S": ["cynic "], "A": []}
+{"index": 196617, "D": "a person who habitually expresses negative or pessimistic views", "S": ["cynic"], "A": []}

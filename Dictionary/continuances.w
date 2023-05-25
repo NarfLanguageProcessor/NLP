@@ -1,1 +1,1 @@
-{"index": 67472, "D": "an act or instance of continuing; continuation", "S": ["continuation "], "A": ["arrest ", "end ", "ending ", "finish ", "hindrance ", "obstruction ", "stop ", "stoppage "]}
+{"index": 67472, "D": "an act or instance of continuing; continuation", "S": ["continuation"], "A": ["arrest", "end", "ending", "finish", "hindrance", "obstruction", "stop", "stoppage"]}

@@ -1,1 +1,1 @@
-{"index": 314322, "D": "U.S. football player.", "S": ["palatableness ", "sugariness ", "sweet "], "A": []}
+{"index": 314322, "D": "U.S. football player.", "S": ["palatableness", "sugariness", "sweet"], "A": []}

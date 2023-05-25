@@ -1,1 +1,1 @@
-{"index": 235709, "D": "very soft.", "S": ["demulcent ", "emollient ", "lenitive ", "mollifying "], "A": []}
+{"index": 235709, "D": "very soft.", "S": ["demulcent", "emollient", "lenitive", "mollifying"], "A": []}

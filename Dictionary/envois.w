@@ -1,1 +1,1 @@
-{"index": 101853, "D": "a diplomatic agent.", "S": ["farewell ", "wind-up "], "A": []}
+{"index": 101853, "D": "a diplomatic agent.", "S": ["farewell", "wind-up"], "A": []}

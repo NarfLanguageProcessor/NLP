@@ -1,1 +1,1 @@
-{"index": 361553, "D": "a vulgar  person, especially one whose vulgarity is the more conspicuous because of wealth, prominence, or pretensions to good breeding.", "S": ["brute ", "buffoon ", "bumpkin ", "slob "], "A": []}
+{"index": 361553, "D": "a vulgar  person, especially one whose vulgarity is the more conspicuous because of wealth, prominence, or pretensions to good breeding.", "S": ["brute", "buffoon", "bumpkin", "slob"], "A": []}

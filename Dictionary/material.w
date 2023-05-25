@@ -1,1 +1,1 @@
-{"index": 181095, "D": "the substance or substances of which a thing is made or composed", "S": ["actual ", "appreciable ", "earthly ", "perceptible ", "physical ", "substantial "], "A": ["immaterial ", "imperceptible ", "mental ", "spiritual ", "dishonest ", "false ", "intangible ", "invalid "]}
+{"index": 181095, "D": "the substance or substances of which a thing is made or composed", "S": ["actual", "appreciable", "earthly", "perceptible", "physical", "substantial"], "A": ["immaterial", "imperceptible", "mental", "spiritual", "dishonest", "false", "intangible", "invalid"]}

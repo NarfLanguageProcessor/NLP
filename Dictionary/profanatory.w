@@ -1,1 +1,1 @@
-{"index": 251665, "D": "tending to desecrate; profaning.", "S": ["disrespectful ", "insulting ", "profane ", "sacrilegious "], "A": ["godly ", "pious ", "religious ", "respectful ", "reverent "]}
+{"index": 251665, "D": "tending to desecrate; profaning.", "S": ["disrespectful", "insulting", "profane", "sacrilegious"], "A": ["godly", "pious", "religious", "respectful", "reverent"]}

@@ -1,1 +1,1 @@
-{"index": 222263, "D": "to oxidize. ", "S": ["bake ", "boil ", "broil ", "grill ", "ignite ", "melt ", "reheat ", "roast ", "sear ", "steam ", "thaw ", "toast ", "warm "], "A": ["freeze ", "put out "]}
+{"index": 222263, "D": "to oxidize. ", "S": ["bake", "boil", "broil", "grill", "ignite", "melt", "reheat", "roast", "sear", "steam", "thaw", "toast", "warm"], "A": ["freeze", "put out"]}

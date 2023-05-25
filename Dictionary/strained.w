@@ -1,1 +1,1 @@
-{"index": 305691, "D": "affected or produced by effort; not natural or spontaneous; forced", "S": ["constrained ", "labored ", "stiff ", "tense ", "tight ", "uneasy "], "A": ["calm ", "comfortable ", "easy ", "easygoing ", "laid-back ", "loose ", "relaxed ", "slack "]}
+{"index": 305691, "D": "affected or produced by effort; not natural or spontaneous; forced", "S": ["constrained", "labored", "stiff", "tense", "tight", "uneasy"], "A": ["calm", "comfortable", "easy", "easygoing", "laid-back", "loose", "relaxed", "slack"]}

@@ -1,1 +1,1 @@
-{"index": 70986, "D": [], "S": ["antipode ", "antithesis ", "contra ", "contrary ", "counter ", "inverse ", "obverse ", "reverse "], "A": ["same "]}
+{"index": 70986, "D": [], "S": ["antipode", "antithesis", "contra", "contrary", "counter", "inverse", "obverse", "reverse"], "A": ["same"]}

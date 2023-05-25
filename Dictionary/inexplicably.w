@@ -1,1 +1,1 @@
-{"index": 151720, "D": "in a way that cannot be accounted for or explained", "S": ["peculiarly ", "queerly ", "strangely "], "A": []}
+{"index": 151720, "D": "in a way that cannot be accounted for or explained", "S": ["peculiarly", "queerly", "strangely"], "A": []}

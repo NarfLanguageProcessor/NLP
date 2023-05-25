@@ -1,1 +1,1 @@
-{"index": 236178, "D": "a separate or limited portion or quantity of something", "S": ["bit ", "chunk ", "example ", "fragment ", "hunk ", "item ", "lot ", "portion ", "quantity ", "sample ", "scrap ", "section ", "segment ", "slice ", "specimen "], "A": ["entirety ", "whole "]}
+{"index": 236178, "D": "a separate or limited portion or quantity of something", "S": ["bit", "chunk", "example", "fragment", "hunk", "item", "lot", "portion", "quantity", "sample", "scrap", "section", "segment", "slice", "specimen"], "A": ["entirety", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 114861, "D": "a velvetlike pattern produced on wallpaper or cloth decorated with flock. ", "S": ["absorption ", "combination ", "consolidation "], "A": ["division ", "parting ", "separation ", "severance "]}
+{"index": 114861, "D": "a velvetlike pattern produced on wallpaper or cloth decorated with flock. ", "S": ["absorption", "combination", "consolidation"], "A": ["division", "parting", "separation", "severance"]}

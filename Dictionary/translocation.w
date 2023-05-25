@@ -1,1 +1,1 @@
-{"index": 328052, "D": "a change of location. ", "S": ["about-face ", "alteration ", "change ", "conversion ", "deviation ", "move ", "transfer ", "transformation ", "variation "], "A": ["idleness ", "sameness ", "stagnation "]}
+{"index": 328052, "D": "a change of location. ", "S": ["about-face", "alteration", "change", "conversion", "deviation", "move", "transfer", "transformation", "variation"], "A": ["idleness", "sameness", "stagnation"]}

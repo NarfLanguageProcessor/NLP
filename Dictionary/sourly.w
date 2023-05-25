@@ -1,1 +1,1 @@
-{"index": 297941, "D": "having an acid taste, resembling that of vinegar, lemon juice, etc.; tart. ", "S": ["angrily ", "bitingly ", "bitterly ", "impolitely ", "uncivilly "], "A": []}
+{"index": 297941, "D": "having an acid taste, resembling that of vinegar, lemon juice, etc.; tart. ", "S": ["angrily", "bitingly", "bitterly", "impolitely", "uncivilly"], "A": []}

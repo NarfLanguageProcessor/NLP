@@ -1,1 +1,1 @@
-{"index": 323521, "D": "a child, especially a small boy.", "S": ["boy ", "child ", "cur ", "dog ", "mongrel ", "squirt "], "A": []}
+{"index": 323521, "D": "a child, especially a small boy.", "S": ["boy", "child", "cur", "dog", "mongrel", "squirt"], "A": []}

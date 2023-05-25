@@ -1,1 +1,1 @@
-{"index": 101025, "D": "a flag or banner, as a military or naval standard used to indicate nationality.", "S": ["banner ", "colors ", "emblem ", "insignia ", "pennant ", "standard ", "streamer ", "symbol "], "A": []}
+{"index": 101025, "D": "a flag or banner, as a military or naval standard used to indicate nationality.", "S": ["banner", "colors", "emblem", "insignia", "pennant", "standard", "streamer", "symbol"], "A": []}

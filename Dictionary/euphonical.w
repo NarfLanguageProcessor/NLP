@@ -1,1 +1,1 @@
-{"index": 105637, "D": "pertaining to or characterized by euphony. ", "S": ["dulcet ", "euphonious ", "harmonious ", "mellifluous ", "melodic ", "musical ", "tuneful "], "A": []}
+{"index": 105637, "D": "pertaining to or characterized by euphony. ", "S": ["dulcet", "euphonious", "harmonious", "mellifluous", "melodic", "musical", "tuneful"], "A": []}

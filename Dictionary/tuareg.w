@@ -1,1 +1,0 @@
-{"index": 331827, "D": "a Berber or Hamitic-speaking member of the Muslim nomads of the Sahara.", "S": [], "A": []}

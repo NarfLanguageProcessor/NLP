@@ -1,1 +1,1 @@
-{"index": 338427, "D": "lowered in quality, character, or value", "S": ["immaculate ", "intact ", "natural ", "snowy ", "spotless ", "sterile ", "untouched "], "A": ["affected ", "dirty "]}
+{"index": 338427, "D": "lowered in quality, character, or value", "S": ["immaculate", "intact", "natural", "snowy", "spotless", "sterile", "untouched"], "A": ["affected", "dirty"]}

@@ -1,1 +1,1 @@
-{"index": 175807, "D": "the quality of being easily understood, completely intelligible, or comprehensible", "S": ["clarity "], "A": []}
+{"index": 175807, "D": "the quality of being easily understood, completely intelligible, or comprehensible", "S": ["clarity"], "A": []}

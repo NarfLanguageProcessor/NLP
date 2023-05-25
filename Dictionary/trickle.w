@@ -1,1 +1,1 @@
-{"index": 329550, "D": "to flow or fall by drops, or in a small, gentle stream", "S": ["crawl ", "creep ", "dribble ", "flow ", "leak ", "ooze ", "percolate ", "seep ", "stream "], "A": ["pour "]}
+{"index": 329550, "D": "to flow or fall by drops, or in a small, gentle stream", "S": ["crawl", "creep", "dribble", "flow", "leak", "ooze", "percolate", "seep", "stream"], "A": ["pour"]}

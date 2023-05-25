@@ -1,1 +1,1 @@
-{"index": 63640, "D": "a person or thing that combs. ", "S": ["crest ", "flood ", "influx ", "movement ", "outbreak ", "rash ", "rush ", "sign ", "stream ", "surge ", "swell ", "tide ", "upsurge "], "A": ["line "]}
+{"index": 63640, "D": "a person or thing that combs. ", "S": ["crest", "flood", "influx", "movement", "outbreak", "rash", "rush", "sign", "stream", "surge", "swell", "tide", "upsurge"], "A": ["line"]}

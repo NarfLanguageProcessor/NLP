@@ -1,1 +1,1 @@
-{"index": 35567, "D": "a member of a fascist organization, especially the Italian Fascist militia, wearing a black shirt as part of the uniform.", "S": ["National Socialist ", "Nazi ", "brownshirt "], "A": ["democrat ", "republican ", "socialist "]}
+{"index": 35567, "D": "a member of a fascist organization, especially the Italian Fascist militia, wearing a black shirt as part of the uniform.", "S": ["National Socialist", "Nazi", "brownshirt"], "A": ["democrat", "republican", "socialist"]}

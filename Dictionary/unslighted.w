@@ -1,1 +1,0 @@
-{"index": 351348, "D": "treated with indifference, especially pointedly or contemptuously; snubbed", "S": [], "A": []}

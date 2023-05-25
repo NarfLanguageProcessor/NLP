@@ -1,1 +1,1 @@
-{"index": 237625, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["anarchic ", "barbarous ", "chaotic ", "turbulent ", "unruly ", "violent "], "A": ["calm ", "mild ", "moderate ", "obedient "]}
+{"index": 237625, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["anarchic", "barbarous", "chaotic", "turbulent", "unruly", "violent"], "A": ["calm", "mild", "moderate", "obedient"]}

@@ -1,1 +1,1 @@
-{"index": 362699, "D": "a person who advocates, endorses, or tries to precipitate war. ", "S": ["combatant ", "fighter ", "hawk ", "jingoist ", "militant "], "A": []}
+{"index": 362699, "D": "a person who advocates, endorses, or tries to precipitate war. ", "S": ["combatant", "fighter", "hawk", "jingoist", "militant"], "A": []}

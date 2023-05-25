@@ -1,1 +1,0 @@
-{"index": 295341, "D": "to growl threateningly or viciously, especially with a raised upper lip to bare the teeth, as a dog.", "S": ["morass "], "A": ["arrangement ", "calm ", "clarity ", "harmony ", "line ", "method ", "order ", "orderliness ", "organization ", "simplicity ", "system "]}

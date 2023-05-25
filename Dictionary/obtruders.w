@@ -1,1 +1,1 @@
-{"index": 210550, "D": "to thrust (something) forward or upon a person, especially without warrant or invitation", "S": ["intruder ", "trespasser "], "A": []}
+{"index": 210550, "D": "to thrust (something) forward or upon a person, especially without warrant or invitation", "S": ["intruder", "trespasser"], "A": []}

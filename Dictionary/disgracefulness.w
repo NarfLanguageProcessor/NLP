@@ -1,1 +1,1 @@
-{"index": 88160, "D": "bringing or deserving disgrace;  shameful; dishonorable; disreputable.", "S": ["dishonorableness ", "disreputableness ", "ignominiousness ", "unscrupulousness ", "unworthiness "], "A": []}
+{"index": 88160, "D": "bringing or deserving disgrace;  shameful; dishonorable; disreputable.", "S": ["dishonorableness", "disreputableness", "ignominiousness", "unscrupulousness", "unworthiness"], "A": []}

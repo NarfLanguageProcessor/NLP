@@ -1,1 +1,1 @@
-{"index": 232098, "D": "holding tenaciously to a purpose, course of action, or opinion; resolute.", "S": ["adamantly ", "decisively ", "doggedly ", "persistently ", "resolutely ", "staunchly ", "steadfastly ", "strictly ", "stubbornly ", "tenaciously "], "A": ["indefinitely ", "weakly "]}
+{"index": 232098, "D": "holding tenaciously to a purpose, course of action, or opinion; resolute.", "S": ["adamantly", "decisively", "doggedly", "persistently", "resolutely", "staunchly", "steadfastly", "strictly", "stubbornly", "tenaciously"], "A": ["indefinitely", "weakly"]}

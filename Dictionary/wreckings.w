@@ -1,1 +1,1 @@
-{"index": 367912, "D": "the act, work, or business of a wrecker. ", "S": ["destruction ", "disruption ", "subversion ", "treachery ", "treason ", "vandalism "], "A": ["devotion ", "faithfulness ", "fidelity ", "loyalty "]}
+{"index": 367912, "D": "the act, work, or business of a wrecker. ", "S": ["destruction", "disruption", "subversion", "treachery", "treason", "vandalism"], "A": ["devotion", "faithfulness", "fidelity", "loyalty"]}

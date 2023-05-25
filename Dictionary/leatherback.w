@@ -1,1 +1,1 @@
-{"index": 169705, "D": "Also called (in Britain)", "S": ["tortoise "], "A": []}
+{"index": 169705, "D": "Also called (in Britain)", "S": ["tortoise"], "A": []}

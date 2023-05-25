@@ -1,1 +1,1 @@
-{"index": 80283, "D": "entertaining a false belief or opinion; mistaken or deceived in mind or judgment", "S": ["misled ", "tricked "], "A": []}
+{"index": 80283, "D": "entertaining a false belief or opinion; mistaken or deceived in mind or judgment", "S": ["misled", "tricked"], "A": []}

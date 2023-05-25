@@ -1,1 +1,1 @@
-{"index": 326079, "D": "simple past tense of tear2. ", "S": ["barred ", "grooved ", "marked ", "ridged ", "striate ", "striated ", "striped ", "variegated ", "veined ", "whelked "], "A": []}
+{"index": 326079, "D": "simple past tense of tear2. ", "S": ["barred", "grooved", "marked", "ridged", "striate", "striated", "striped", "variegated", "veined", "whelked"], "A": []}

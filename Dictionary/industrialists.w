@@ -1,1 +1,1 @@
-{"index": 151419, "D": "a person who owns or is involved in the management of an industrial  enterprise.", "S": ["businessperson ", "manager ", "manufacturer ", "owner "], "A": []}
+{"index": 151419, "D": "a person who owns or is involved in the management of an industrial  enterprise.", "S": ["businessperson", "manager", "manufacturer", "owner"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197039, "D": "to give an account or tell the story of (events, experiences, etc.).", "S": ["chronicle ", "depict ", "portray ", "recite ", "recount ", "rehearse ", "unfold "], "A": ["conceal ", "hide ", "suppress "]}
+{"index": 197039, "D": "to give an account or tell the story of (events, experiences, etc.).", "S": ["chronicle", "depict", "portray", "recite", "recount", "rehearse", "unfold"], "A": ["conceal", "hide", "suppress"]}

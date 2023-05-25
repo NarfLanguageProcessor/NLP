@@ -1,1 +1,1 @@
-{"index": 220597, "D": "that overpowers;  overwhelming", "S": ["irresistible ", "overwhelming ", "powerful ", "uncontrollable "], "A": []}
+{"index": 220597, "D": "that overpowers;  overwhelming", "S": ["irresistible", "overwhelming", "powerful", "uncontrollable"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 310910, "D": "to make a summary  of; state or express in a concise form.", "S": ["compile ", "encapsulate ", "epitomize ", "outline ", "recap ", "rehash ", "sum up "], "A": ["add ", "enlarge ", "expand ", "increase ", "lengthen "]}
+{"index": 310910, "D": "to make a summary  of; state or express in a concise form.", "S": ["compile", "encapsulate", "epitomize", "outline", "recap", "rehash", "sum up"], "A": ["add", "enlarge", "expand", "increase", "lengthen"]}

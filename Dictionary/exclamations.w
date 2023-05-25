@@ -1,1 +1,1 @@
-{"index": 106742, "D": "the act of exclaiming;  outcry; loud complaint or protest", "S": ["bellow ", "call ", "clamor ", "cry ", "ejaculation ", "expletive ", "holler ", "interjection ", "outcry ", "roar ", "utterance ", "vociferation ", "yell "], "A": ["quiet ", "silence "]}
+{"index": 106742, "D": "the act of exclaiming;  outcry; loud complaint or protest", "S": ["bellow", "call", "clamor", "cry", "ejaculation", "expletive", "holler", "interjection", "outcry", "roar", "utterance", "vociferation", "yell"], "A": ["quiet", "silence"]}

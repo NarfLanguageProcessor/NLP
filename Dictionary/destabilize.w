@@ -1,1 +1,1 @@
-{"index": 82915, "D": "to make unstable; rid of stabilizing  attributes", "S": ["diminish ", "lessen ", "thwart ", "undermine "], "A": ["enlarge ", "extend ", "increase ", "strengthen "]}
+{"index": 82915, "D": "to make unstable; rid of stabilizing  attributes", "S": ["diminish", "lessen", "thwart", "undermine"], "A": ["enlarge", "extend", "increase", "strengthen"]}

@@ -1,1 +1,1 @@
-{"index": 81760, "D": "removed from high office or position", "S": ["demote ", "dethrone ", "dismiss ", "impeach ", "overthrow ", "unseat "], "A": ["allow ", "obey ", "promote ", "upgrade "]}
+{"index": 81760, "D": "removed from high office or position", "S": ["demote", "dethrone", "dismiss", "impeach", "overthrow", "unseat"], "A": ["allow", "obey", "promote", "upgrade"]}

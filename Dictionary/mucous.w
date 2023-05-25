@@ -1,1 +1,1 @@
-{"index": 194628, "D": "pertaining to, consisting of, or resembling mucus. ", "S": ["close ", "dank ", "drizzly ", "moist ", "mucid ", "muculent ", "pasty ", "slimy ", "soggy ", "sticky ", "sweating ", "sweaty ", "wet "], "A": ["dry "]}
+{"index": 194628, "D": "pertaining to, consisting of, or resembling mucus. ", "S": ["close", "dank", "drizzly", "moist", "mucid", "muculent", "pasty", "slimy", "soggy", "sticky", "sweating", "sweaty", "wet"], "A": ["dry"]}

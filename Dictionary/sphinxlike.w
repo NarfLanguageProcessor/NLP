@@ -1,1 +1,1 @@
-{"index": 299608, "D": "like the Sphinx; enigmatic or inscrutable", "S": ["ambiguous ", "cryptic ", "obscure "], "A": ["clear ", "explicit ", "obvious "]}
+{"index": 299608, "D": "like the Sphinx; enigmatic or inscrutable", "S": ["ambiguous", "cryptic", "obscure"], "A": ["clear", "explicit", "obvious"]}

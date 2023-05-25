@@ -1,1 +1,1 @@
-{"index": 160398, "D": "to jest; joke; gibe.", "S": ["fool ", "jeer ", "jest ", "mock ", "prank ", "quip ", "trick "], "A": []}
+{"index": 160398, "D": "to jest; joke; gibe.", "S": ["fool", "jeer", "jest", "mock", "prank", "quip", "trick"], "A": []}

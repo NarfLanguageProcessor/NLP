@@ -1,1 +1,1 @@
-{"index": 344354, "D": "not imposing;  unimpressive", "S": ["considerate ", "courteous ", "down-to-earth ", "humble ", "kind ", "modest ", "polite ", "quiet ", "reserved ", "simple ", "unobtrusive ", "unpretentious "], "A": ["arrogant ", "flashy ", "important ", "ostentatious ", "significant "]}
+{"index": 344354, "D": "not imposing;  unimpressive", "S": ["considerate", "courteous", "down-to-earth", "humble", "kind", "modest", "polite", "quiet", "reserved", "simple", "unobtrusive", "unpretentious"], "A": ["arrogant", "flashy", "important", "ostentatious", "significant"]}

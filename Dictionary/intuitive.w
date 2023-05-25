@@ -1,1 +1,1 @@
-{"index": 156906, "D": "perceiving directly by intuition  without rational thought, as a person or the mind.", "S": ["emotional ", "innate ", "perceptive ", "spontaneous ", "visceral "], "A": ["calculated ", "meditated ", "reasoned ", "taught "]}
+{"index": 156906, "D": "perceiving directly by intuition  without rational thought, as a person or the mind.", "S": ["emotional", "innate", "perceptive", "spontaneous", "visceral"], "A": ["calculated", "meditated", "reasoned", "taught"]}

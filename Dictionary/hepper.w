@@ -1,1 +1,1 @@
-{"index": 136750, "D": "hip4 (defs. 1-3, 6). ", "S": ["adequate ", "common ", "decent ", "fair ", "respectable ", "sufficient ", "tolerable "], "A": ["bad ", "inadequate ", "insufficient ", "intolerable ", "poor ", "unrespectable ", "unsuitable "]}
+{"index": 136750, "D": "hip4 (defs. 1-3, 6). ", "S": ["adequate", "common", "decent", "fair", "respectable", "sufficient", "tolerable"], "A": ["bad", "inadequate", "insufficient", "intolerable", "poor", "unrespectable", "unsuitable"]}

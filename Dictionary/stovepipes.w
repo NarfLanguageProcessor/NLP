@@ -1,1 +1,1 @@
-{"index": 305545, "D": "tight trousers with narrow legs", "S": ["battery ", "cannon ", "ordnance "], "A": []}
+{"index": 305545, "D": "tight trousers with narrow legs", "S": ["battery", "cannon", "ordnance"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 350341, "D": "characterized by bitter or scornful derision; mocking;  sneering; cynical; a sardonic grin.", "S": [], "A": []}

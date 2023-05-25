@@ -1,1 +1,1 @@
-{"index": 99266, "D": "a woman who practices magic; sorceress.", "S": ["charmer ", "diviner ", "seductress ", "siren ", "vamp ", "witch "], "A": []}
+{"index": 99266, "D": "a woman who practices magic; sorceress.", "S": ["charmer", "diviner", "seductress", "siren", "vamp", "witch"], "A": []}

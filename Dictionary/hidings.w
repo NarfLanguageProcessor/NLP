@@ -1,1 +1,1 @@
-{"index": 138374, "D": "act of concealing; concealment", "S": ["confinement ", "desolation ", "remoteness ", "segregation ", "solitude "], "A": []}
+{"index": 138374, "D": "act of concealing; concealment", "S": ["confinement", "desolation", "remoteness", "segregation", "solitude"], "A": []}

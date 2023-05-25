@@ -1,1 +1,1 @@
-{"index": 178495, "D": "a person who pretends to be sick, especially in order to avoid work or shirk responsibilities", "S": ["dodger ", "goof-off ", "idler ", "loafer ", "shirker "], "A": []}
+{"index": 178495, "D": "a person who pretends to be sick, especially in order to avoid work or shirk responsibilities", "S": ["dodger", "goof-off", "idler", "loafer", "shirker"], "A": []}

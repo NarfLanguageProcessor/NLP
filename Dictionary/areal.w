@@ -1,1 +1,1 @@
-{"index": 19304, "D": "of or relating to the extent of a bounded surface or two-dimensional space", "S": ["provincial "], "A": []}
+{"index": 19304, "D": "of or relating to the extent of a bounded surface or two-dimensional space", "S": ["provincial"], "A": []}

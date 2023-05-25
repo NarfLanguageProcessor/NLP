@@ -1,1 +1,1 @@
-{"index": 275502, "D": "the first signs of dissatisfaction or grievance.", "S": ["muted "], "A": ["clear ", "elevated ", "sharp "]}
+{"index": 275502, "D": "the first signs of dissatisfaction or grievance.", "S": ["muted"], "A": ["clear", "elevated", "sharp"]}

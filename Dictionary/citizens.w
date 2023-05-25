@@ -1,1 +1,1 @@
-{"index": 58685, "D": "a native or naturalized member of a state or nation who owes allegiance to its government and is entitled to its protection (distinguished from alien).", "S": ["federation ", "society "], "A": []}
+{"index": 58685, "D": "a native or naturalized member of a state or nation who owes allegiance to its government and is entitled to its protection (distinguished from alien).", "S": ["federation", "society"], "A": []}

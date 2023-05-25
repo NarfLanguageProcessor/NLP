@@ -1,1 +1,1 @@
-{"index": 6181, "D": "the power of moving quickly and easily; nimbleness", "S": ["cleverness ", "dexterity ", "quickness ", "sharpness ", "swiftness "], "A": ["slowing ", "slowness ", "sluggishness "]}
+{"index": 6181, "D": "the power of moving quickly and easily; nimbleness", "S": ["cleverness", "dexterity", "quickness", "sharpness", "swiftness"], "A": ["slowing", "slowness", "sluggishness"]}

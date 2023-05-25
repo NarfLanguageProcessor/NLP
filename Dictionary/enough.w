@@ -1,1 +1,1 @@
-{"index": 100831, "D": "adequate for the want or need; sufficient for the purpose or to satisfy desire", "S": ["abundant ", "adequate ", "ample ", "full ", "sufficient ", "suitable "], "A": ["inadequate ", "insufficient ", "lacking ", "unsuitable "]}
+{"index": 100831, "D": "adequate for the want or need; sufficient for the purpose or to satisfy desire", "S": ["abundant", "adequate", "ample", "full", "sufficient", "suitable"], "A": ["inadequate", "insufficient", "lacking", "unsuitable"]}

@@ -1,1 +1,1 @@
-{"index": 54300, "D": "the state or period of being a child. ", "S": ["adolescence ", "babyhood ", "cradle ", "immaturity ", "infancy ", "juvenility ", "minority ", "nonage ", "nursery ", "puberty ", "schooldays ", "teens ", "youth "], "A": ["adulthood "]}
+{"index": 54300, "D": "the state or period of being a child. ", "S": ["adolescence", "babyhood", "cradle", "immaturity", "infancy", "juvenility", "minority", "nonage", "nursery", "puberty", "schooldays", "teens", "youth"], "A": ["adulthood"]}

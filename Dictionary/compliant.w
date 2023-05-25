@@ -1,1 +1,1 @@
-{"index": 64689, "D": "complying;  obeying, obliging, or yielding, especially in a submissive way", "S": ["docile ", "flexible ", "willing "], "A": ["inflexible ", "obstinate ", "stubborn ", "unyielding "]}
+{"index": 64689, "D": "complying;  obeying, obliging, or yielding, especially in a submissive way", "S": ["docile", "flexible", "willing"], "A": ["inflexible", "obstinate", "stubborn", "unyielding"]}

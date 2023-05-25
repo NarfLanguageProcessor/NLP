@@ -1,1 +1,1 @@
-{"index": 45807, "D": "the principles or art of making bells, bell ringing, etc.", "S": ["carillon playing ", "peal ringing ", "ringing the changes "], "A": []}
+{"index": 45807, "D": "the principles or art of making bells, bell ringing, etc.", "S": ["carillon playing", "peal ringing", "ringing the changes"], "A": []}

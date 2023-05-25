@@ -1,1 +1,1 @@
-{"index": 48577, "D": "an automobile.", "S": ["auto ", "automobile ", "bus ", "convertible ", "jeep ", "limousine ", "machine ", "motor ", "pickup ", "ride ", "station wagon ", "truck ", "van ", "wagon "], "A": []}
+{"index": 48577, "D": "an automobile.", "S": ["auto", "automobile", "bus", "convertible", "jeep", "limousine", "machine", "motor", "pickup", "ride", "station wagon", "truck", "van", "wagon"], "A": []}

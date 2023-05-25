@@ -1,1 +1,1 @@
-{"index": 367918, "D": "to twist suddenly and forcibly; pull, jerk, or force by a violent twist", "S": ["bend ", "dislocate ", "distort ", "rip ", "sprain ", "tweak ", "wrest ", "wring ", "yank "], "A": ["deter ", "give ", "idle ", "leave alone ", "straighten ", "untwist "]}
+{"index": 367918, "D": "to twist suddenly and forcibly; pull, jerk, or force by a violent twist", "S": ["bend", "dislocate", "distort", "rip", "sprain", "tweak", "wrest", "wring", "yank"], "A": ["deter", "give", "idle", "leave alone", "straighten", "untwist"]}

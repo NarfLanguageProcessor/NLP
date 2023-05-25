@@ -1,1 +1,1 @@
-{"index": 275262, "D": [], "S": ["antagonistic ", "bellicose ", "belligerent ", "cantankerous ", "contentious ", "energetic "], "A": ["kind ", "nice "]}
+{"index": 275262, "D": [], "S": ["antagonistic", "bellicose", "belligerent", "cantankerous", "contentious", "energetic"], "A": ["kind", "nice"]}

@@ -1,1 +1,1 @@
-{"index": 255255, "D": "(no longer in technical use) a neurosis marked by fear, anxiety, phobias, etc.", "S": ["disintegration ", "disruption ", "failure ", "mishap ", "nervous breakdown "], "A": ["mental balance "]}
+{"index": 255255, "D": "(no longer in technical use) a neurosis marked by fear, anxiety, phobias, etc.", "S": ["disintegration", "disruption", "failure", "mishap", "nervous breakdown"], "A": ["mental balance"]}

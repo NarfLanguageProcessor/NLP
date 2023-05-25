@@ -1,1 +1,1 @@
-{"index": 315208, "D": "a medium-weight or light-weight fabric of acetate, nylon, rayon, or silk, usually smooth, crisp, and lustrous, plain-woven, and with a fine crosswise rib effect.", "S": ["fiber ", "thread ", "tulle "], "A": []}
+{"index": 315208, "D": "a medium-weight or light-weight fabric of acetate, nylon, rayon, or silk, usually smooth, crisp, and lustrous, plain-woven, and with a fine crosswise rib effect.", "S": ["fiber", "thread", "tulle"], "A": []}

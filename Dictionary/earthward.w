@@ -1,1 +1,1 @@
-{"index": 94869, "D": "toward the earth.", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}
+{"index": 94869, "D": "toward the earth.", "S": ["downward"], "A": ["above", "cheerful", "cheery", "happy", "heartened", "higher"]}

@@ -1,1 +1,1 @@
-{"index": 157346, "D": "an act or instance of being included, or of including someone or something, in an action, process, group, etc.", "S": ["crisis ", "embarrassment ", "entanglement ", "quandary "], "A": []}
+{"index": 157346, "D": "an act or instance of being included, or of including someone or something, in an action, process, group, etc.", "S": ["crisis", "embarrassment", "entanglement", "quandary"], "A": []}

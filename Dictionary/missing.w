@@ -1,1 +1,1 @@
-{"index": 190061, "D": "absent, not found, or lost", "S": ["away ", "lost ", "removed "], "A": ["adequate ", "enough ", "sufficient "]}
+{"index": 190061, "D": "absent, not found, or lost", "S": ["away", "lost", "removed"], "A": ["adequate", "enough", "sufficient"]}

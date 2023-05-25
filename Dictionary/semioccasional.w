@@ -1,1 +1,1 @@
-{"index": 284578, "D": [], "S": ["lean ", "less ", "middling ", "minor ", "minority ", "minute ", "petty ", "scanty ", "scattering ", "short ", "slight ", "trifling "], "A": ["big ", "consequential ", "fat ", "important ", "large ", "major ", "significant ", "tall ", "thick ", "useful "]}
+{"index": 284578, "D": [], "S": ["lean", "less", "middling", "minor", "minority", "minute", "petty", "scanty", "scattering", "short", "slight", "trifling"], "A": ["big", "consequential", "fat", "important", "large", "major", "significant", "tall", "thick", "useful"]}

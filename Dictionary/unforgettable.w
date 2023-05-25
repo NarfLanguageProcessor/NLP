@@ -1,1 +1,1 @@
-{"index": 342555, "D": "impossible to forget; indelibly impressed on the memory", "S": ["enduring ", "eventful ", "extraordinary ", "remarkable "], "A": ["normal ", "ordinary ", "usual "]}
+{"index": 342555, "D": "impossible to forget; indelibly impressed on the memory", "S": ["enduring", "eventful", "extraordinary", "remarkable"], "A": ["normal", "ordinary", "usual"]}

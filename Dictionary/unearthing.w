@@ -1,1 +1,1 @@
-{"index": 340958, "D": "to dig or get out of the earth; dig up.", "S": ["detection ", "determination ", "find ", "finding ", "uncovering "], "A": []}
+{"index": 340958, "D": "to dig or get out of the earth; dig up.", "S": ["detection", "determination", "find", "finding", "uncovering"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 199380, "D": "a person or thing that has recently arrived; new  arrival", "S": ["beginner ", "foreigner ", "immigrant ", "latecomer ", "neophyte ", "novice ", "outsider ", "rookie ", "stranger "], "A": ["expert ", "local ", "national ", "native ", "professional "]}
+{"index": 199380, "D": "a person or thing that has recently arrived; new  arrival", "S": ["beginner", "foreigner", "immigrant", "latecomer", "neophyte", "novice", "outsider", "rookie", "stranger"], "A": ["expert", "local", "national", "native", "professional"]}

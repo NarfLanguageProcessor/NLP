@@ -1,1 +1,1 @@
-{"index": 342780, "D": "not providing satisfaction; unprofitable", "S": ["fruitless ", "impotent ", "infertile ", "nonproductive ", "sterile ", "unproductive "], "A": ["fruitful ", "potent ", "productive ", "profitable ", "prolific "]}
+{"index": 342780, "D": "not providing satisfaction; unprofitable", "S": ["fruitless", "impotent", "infertile", "nonproductive", "sterile", "unproductive"], "A": ["fruitful", "potent", "productive", "profitable", "prolific"]}

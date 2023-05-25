@@ -1,1 +1,1 @@
-{"index": 356570, "D": "in a way that is unclear, imprecise, or uncertain", "S": ["ambiguously ", "hazily ", "obscurely ", "uncertainly ", "unsurely "], "A": []}
+{"index": 356570, "D": "in a way that is unclear, imprecise, or uncertain", "S": ["ambiguously", "hazily", "obscurely", "uncertainly", "unsurely"], "A": []}

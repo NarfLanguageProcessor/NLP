@@ -1,1 +1,1 @@
-{"index": 83140, "D": "to make or become worse or inferior in condition, character, quality, value, etc.", "S": ["ramshackle ", "rickety "], "A": ["improved "]}
+{"index": 83140, "D": "to make or become worse or inferior in condition, character, quality, value, etc.", "S": ["ramshackle", "rickety"], "A": ["improved"]}

@@ -1,1 +1,1 @@
-{"index": 331641, "D": "a man's garment worn for swimming, either fairly loose and extending from the waist to the thigh or briefer and close-fitting", "S": ["bikini ", "swimsuit "], "A": []}
+{"index": 331641, "D": "a man's garment worn for swimming, either fairly loose and extending from the waist to the thigh or briefer and close-fitting", "S": ["bikini", "swimsuit"], "A": []}

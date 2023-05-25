@@ -1,1 +1,1 @@
-{"index": 214254, "D": [], "S": ["appoint ", "authorize ", "call for ", "direct ", "require ", "tell "], "A": ["reject ", "aid ", "allow ", "approve ", "ask ", "assist ", "cancel ", "conceal ", "disallow ", "free ", "help ", "hinder ", "liberate ", "permit ", "prevent ", "refuse ", "stop ", "veto "]}
+{"index": 214254, "D": [], "S": ["appoint", "authorize", "call for", "direct", "require", "tell"], "A": ["reject", "aid", "allow", "approve", "ask", "assist", "cancel", "conceal", "disallow", "free", "help", "hinder", "liberate", "permit", "prevent", "refuse", "stop", "veto"]}

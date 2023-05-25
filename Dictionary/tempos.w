@@ -1,1 +1,1 @@
-{"index": 318629, "D": "relative rapidity or rate of movement, usually indicated by such terms as adagio, allegro, etc., or by reference to the metronome.", "S": ["cadence ", "momentum ", "pace ", "velocity "], "A": []}
+{"index": 318629, "D": "relative rapidity or rate of movement, usually indicated by such terms as adagio, allegro, etc., or by reference to the metronome.", "S": ["cadence", "momentum", "pace", "velocity"], "A": []}

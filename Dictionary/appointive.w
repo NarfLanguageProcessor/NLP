@@ -1,1 +1,1 @@
-{"index": 17850, "D": "pertaining to or filled by appointment", "S": ["elective "], "A": []}
+{"index": 17850, "D": "pertaining to or filled by appointment", "S": ["elective"], "A": []}

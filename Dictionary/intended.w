@@ -1,1 +1,1 @@
-{"index": 154338, "D": "purposed; designed; intentional", "S": ["calculated ", "contracted ", "designed ", "expected ", "planned ", "predetermined ", "promised ", "proposed "], "A": ["unfixed "]}
+{"index": 154338, "D": "purposed; designed; intentional", "S": ["calculated", "contracted", "designed", "expected", "planned", "predetermined", "promised", "proposed"], "A": ["unfixed"]}

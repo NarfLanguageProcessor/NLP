@@ -1,1 +1,1 @@
-{"index": 294892, "D": "to assume a facial expression indicating pleasure, favor, or amusement, but sometimes derision or scorn, characterized by an upturning of the corners of the mouth.", "S": ["cheerful ", "genial ", "radiant ", "shining "], "A": ["dark ", "gloomy ", "sad ", "unhappy "]}
+{"index": 294892, "D": "to assume a facial expression indicating pleasure, favor, or amusement, but sometimes derision or scorn, characterized by an upturning of the corners of the mouth.", "S": ["cheerful", "genial", "radiant", "shining"], "A": ["dark", "gloomy", "sad", "unhappy"]}

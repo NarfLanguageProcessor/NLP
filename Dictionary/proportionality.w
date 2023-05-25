@@ -1,1 +1,1 @@
-{"index": 252773, "D": "the fact or quality of being in proper balance or relation as to size or quantity, degree, severity, etc.", "S": ["proportion ", "quota ", "rate ", "scale "], "A": ["difference "]}
+{"index": 252773, "D": "the fact or quality of being in proper balance or relation as to size or quantity, degree, severity, etc.", "S": ["proportion", "quota", "rate", "scale"], "A": ["difference"]}

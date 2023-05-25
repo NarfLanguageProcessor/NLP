@@ -1,1 +1,1 @@
-{"index": 111122, "D": "simple past tense and past participle of feel. ", "S": ["felt ", "napery ", "napkins ", "place mat ", "table mat ", "table napkin ", "table pad ", "table runner ", "tablecloth "], "A": []}
+{"index": 111122, "D": "simple past tense and past participle of feel. ", "S": ["felt", "napery", "napkins", "place mat", "table mat", "table napkin", "table pad", "table runner", "tablecloth"], "A": []}

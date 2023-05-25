@@ -1,1 +1,1 @@
-{"index": 1596, "D": "to accustom or become accustomed to a new climate  or environment; adapt. ", "S": ["accustom "], "A": ["soften "]}
+{"index": 1596, "D": "to accustom or become accustomed to a new climate  or environment; adapt. ", "S": ["accustom"], "A": ["soften"]}

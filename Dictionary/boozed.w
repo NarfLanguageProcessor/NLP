@@ -1,1 +1,1 @@
-{"index": 38288, "D": "any alcoholic beverage; whiskey.", "S": ["buzzed ", "faced ", "inebriated ", "intoxicated ", "loaded ", "pickled ", "plastered ", "polluted ", "sloshed ", "smashed ", "soused ", "tanked ", "trashed ", "wasted "], "A": ["sober ", "straight "]}
+{"index": 38288, "D": "any alcoholic beverage; whiskey.", "S": ["buzzed", "faced", "inebriated", "intoxicated", "loaded", "pickled", "plastered", "polluted", "sloshed", "smashed", "soused", "tanked", "trashed", "wasted"], "A": ["sober", "straight"]}

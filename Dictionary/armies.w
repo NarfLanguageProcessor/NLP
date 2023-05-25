@@ -1,1 +1,1 @@
-{"index": 19927, "D": "the military forces of a nation, exclusive of the navy and in some countries the air force.", "S": ["artillery ", "battalion ", "command ", "company ", "corps ", "infantry ", "squad ", "troops "], "A": ["individual ", "whole "]}
+{"index": 19927, "D": "the military forces of a nation, exclusive of the navy and in some countries the air force.", "S": ["artillery", "battalion", "command", "company", "corps", "infantry", "squad", "troops"], "A": ["individual", "whole"]}

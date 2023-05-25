@@ -1,1 +1,1 @@
-{"index": 21053, "D": "the act of ascribing. ", "S": ["acknowledgment ", "assignment ", "credit ", "recognition "], "A": ["disclaimer ", "dishonor "]}
+{"index": 21053, "D": "the act of ascribing. ", "S": ["acknowledgment", "assignment", "credit", "recognition"], "A": ["disclaimer", "dishonor"]}

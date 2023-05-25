@@ -1,1 +1,1 @@
-{"index": 33745, "D": "generous; kind.", "S": ["benevolent ", "charitable ", "liberal ", "openhanded ", "unselfish "], "A": ["mean "]}
+{"index": 33745, "D": "generous; kind.", "S": ["benevolent", "charitable", "liberal", "openhanded", "unselfish"], "A": ["mean"]}

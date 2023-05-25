@@ -1,1 +1,1 @@
-{"index": 35478, "D": "(especially of fish) coated with spices and saut\u00e9ed quickly over high heat so that the outside chars.", "S": ["disheveled ", "grimy ", "grubby ", "grungy ", "muddy ", "nasty ", "soiled ", "squalid "], "A": ["clean ", "pure "]}
+{"index": 35478, "D": "(especially of fish) coated with spices and saut\u00e9ed quickly over high heat so that the outside chars.", "S": ["disheveled", "grimy", "grubby", "grungy", "muddy", "nasty", "soiled", "squalid"], "A": ["clean", "pure"]}

@@ -1,1 +1,1 @@
-{"index": 251357, "D": "to defer action; delay", "S": ["postponement ", "putting off "], "A": ["advancing "]}
+{"index": 251357, "D": "to defer action; delay", "S": ["postponement", "putting off"], "A": ["advancing"]}

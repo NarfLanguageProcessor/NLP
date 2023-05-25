@@ -1,1 +1,1 @@
-{"index": 266992, "D": "liking or enjoyment of the taste of something.", "S": ["gusto ", "zest "], "A": ["apathy ", "antipathy ", "disinclination ", "disinterest ", "dislike ", "fairness ", "hate ", "hatred ", "impartiality ", "indifference ", "justice ", "loathing ", "sorrow ", "unhappiness "]}
+{"index": 266992, "D": "liking or enjoyment of the taste of something.", "S": ["gusto", "zest"], "A": ["apathy", "antipathy", "disinclination", "disinterest", "dislike", "fairness", "hate", "hatred", "impartiality", "indifference", "justice", "loathing", "sorrow", "unhappiness"]}

@@ -1,1 +1,1 @@
-{"index": 277982, "D": "to free from dirt, germs, etc., as by cleaning or sterilizing.", "S": ["bare ", "decontaminated ", "desert ", "desolate ", "disinfected ", "dry ", "empty ", "pasteurized ", "sterilized ", "waste "], "A": ["cultivated ", "full ", "productive "]}
+{"index": 277982, "D": "to free from dirt, germs, etc., as by cleaning or sterilizing.", "S": ["bare", "decontaminated", "desert", "desolate", "disinfected", "dry", "empty", "pasteurized", "sterilized", "waste"], "A": ["cultivated", "full", "productive"]}

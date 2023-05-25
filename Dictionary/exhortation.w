@@ -1,1 +1,1 @@
-{"index": 107173, "D": "the act or process of exhorting. ", "S": ["admonition ", "encouragement ", "entreaty ", "sermon "], "A": []}
+{"index": 107173, "D": "the act or process of exhorting. ", "S": ["admonition", "encouragement", "entreaty", "sermon"], "A": []}

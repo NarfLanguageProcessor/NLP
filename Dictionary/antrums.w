@@ -1,1 +1,1 @@
-{"index": 16507, "D": [], "S": ["channel ", "depression ", "hollow ", "opening ", "pocket ", "recess "], "A": ["solid "]}
+{"index": 16507, "D": [], "S": ["channel", "depression", "hollow", "opening", "pocket", "recess"], "A": ["solid"]}

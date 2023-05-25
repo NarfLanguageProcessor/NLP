@@ -1,1 +1,1 @@
-{"index": 73376, "D": "a clear, transparent mineral or glass resembling ice.", "S": ["crystalline ", "limpid ", "lucid ", "pellucid ", "translucent ", "unblurred "], "A": ["clouded ", "foggy "]}
+{"index": 73376, "D": "a clear, transparent mineral or glass resembling ice.", "S": ["crystalline", "limpid", "lucid", "pellucid", "translucent", "unblurred"], "A": ["clouded", "foggy"]}

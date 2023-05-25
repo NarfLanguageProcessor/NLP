@@ -1,1 +1,1 @@
-{"index": 99698, "D": "farthest; most distant; last", "S": ["at the end ", "farthest ", "furthest ", "hindermost ", "hindmost ", "last ", "lattermost ", "rearmost ", "remotest ", "tailing "], "A": []}
+{"index": 99698, "D": "farthest; most distant; last", "S": ["at the end", "farthest", "furthest", "hindermost", "hindmost", "last", "lattermost", "rearmost", "remotest", "tailing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 100857, "D": "inquiry. ", "S": ["inquiry ", "inquisition ", "query "], "A": ["answer ", "reply ", "ignorance "]}
+{"index": 100857, "D": "inquiry. ", "S": ["inquiry", "inquisition", "query"], "A": ["answer", "reply", "ignorance"]}

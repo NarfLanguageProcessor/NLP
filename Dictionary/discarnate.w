@@ -1,1 +1,1 @@
-{"index": 87254, "D": "without a physical body; incorporeal.", "S": ["discorporate ", "disembodied ", "immaterial ", "insubstantial ", "metaphysical ", "nonmaterial ", "spiritual ", "unbodied ", "unsubstantial "], "A": []}
+{"index": 87254, "D": "without a physical body; incorporeal.", "S": ["discorporate", "disembodied", "immaterial", "insubstantial", "metaphysical", "nonmaterial", "spiritual", "unbodied", "unsubstantial"], "A": []}

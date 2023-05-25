@@ -1,1 +1,1 @@
-{"index": 324301, "D": "the work or activity of using a typewriter or word processor", "S": ["accounting ", "bookkeeping ", "clerkish ", "clerkly ", "office ", "pink collar ", "scribal ", "stenographic ", "subordinate ", "white collar ", "written "], "A": []}
+{"index": 324301, "D": "the work or activity of using a typewriter or word processor", "S": ["accounting", "bookkeeping", "clerkish", "clerkly", "office", "pink collar", "scribal", "stenographic", "subordinate", "white collar", "written"], "A": []}

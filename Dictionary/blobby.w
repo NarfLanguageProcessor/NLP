@@ -1,1 +1,1 @@
-{"index": 36341, "D": [], "S": ["nebulous ", "vague "], "A": ["definite "]}
+{"index": 36341, "D": [], "S": ["nebulous", "vague"], "A": ["definite"]}

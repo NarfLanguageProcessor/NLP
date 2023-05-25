@@ -1,1 +1,1 @@
-{"index": 151705, "D": "not experienced; lacking knowledge, skill, or wisdom gained from experience.", "S": ["immature ", "inept ", "naive ", "undisciplined ", "unschooled ", "unsophisticated ", "untried ", "young "], "A": ["experienced ", "mature ", "old "]}
+{"index": 151705, "D": "not experienced; lacking knowledge, skill, or wisdom gained from experience.", "S": ["immature", "inept", "naive", "undisciplined", "unschooled", "unsophisticated", "untried", "young"], "A": ["experienced", "mature", "old"]}

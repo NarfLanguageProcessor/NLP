@@ -1,1 +1,1 @@
-{"index": 221724, "D": "to use  too much or too often", "S": ["depletion ", "depreciation ", "erosion "], "A": []}
+{"index": 221724, "D": "to use  too much or too often", "S": ["depletion", "depreciation", "erosion"], "A": []}

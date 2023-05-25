@@ -1,1 +1,1 @@
-{"index": 303232, "D": "firmness in purpose, resolution, faith, attachment, etc.", "S": ["constancy ", "faithfulness "], "A": ["inconstancy ", "disloyalty ", "enmity ", "imprecision ", "inaccuracy ", "inexactness "]}
+{"index": 303232, "D": "firmness in purpose, resolution, faith, attachment, etc.", "S": ["constancy", "faithfulness"], "A": ["inconstancy", "disloyalty", "enmity", "imprecision", "inaccuracy", "inexactness"]}

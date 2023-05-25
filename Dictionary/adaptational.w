@@ -1,0 +1,1 @@
+{"index": 3460, "D": "the act of adapting.", "S": [], "A": []}

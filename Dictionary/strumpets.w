@@ -1,1 +1,1 @@
-{"index": 306676, "D": "a prostitute.", "S": ["harlot ", "hooker ", "hussy ", "slut ", "streetwalker ", "whore "], "A": []}
+{"index": 306676, "D": "a prostitute.", "S": [], "A": []}

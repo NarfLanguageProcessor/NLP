@@ -1,1 +1,1 @@
-{"index": 227059, "D": "of, relating to, or composed of distinct particles.", "S": ["crude ", "grainy ", "harsh "], "A": ["gentle ", "nice "]}
+{"index": 227059, "D": "of, relating to, or composed of distinct particles.", "S": ["crude", "grainy", "harsh"], "A": ["gentle", "nice"]}

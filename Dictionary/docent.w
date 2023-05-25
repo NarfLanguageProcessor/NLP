@@ -1,1 +1,1 @@
-{"index": 90577, "D": "privatdocent. ", "S": ["instructor ", "lecturer ", "teacher "], "A": ["pupil ", "student "]}
+{"index": 90577, "D": "privatdocent. ", "S": ["instructor", "lecturer", "teacher"], "A": ["pupil", "student"]}

@@ -1,1 +1,1 @@
-{"index": 37446, "D": "having reached the boiling point;  steaming or bubbling up under the action of heat", "S": ["baking ", "fiery ", "scalding ", "scorching ", "sizzling "], "A": ["cold ", "cool "]}
+{"index": 37446, "D": "having reached the boiling point;  steaming or bubbling up under the action of heat", "S": ["baking", "fiery", "scalding", "scorching", "sizzling"], "A": ["cold", "cool"]}

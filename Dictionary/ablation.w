@@ -1,1 +1,1 @@
-{"index": 548, "D": "the removal, especially of organs, abnormal growths, or harmful substances, from the body by mechanical means, as by surgery.", "S": ["abscission ", "cutting ", "extirpation ", "removal "], "A": []}
+{"index": 548, "D": "the removal, especially of organs, abnormal growths, or harmful substances, from the body by mechanical means, as by surgery.", "S": ["abscission", "cutting", "extirpation", "removal"], "A": []}

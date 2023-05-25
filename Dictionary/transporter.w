@@ -1,1 +1,1 @@
-{"index": 328276, "D": "a person or thing that transports,  especially a very large truck for large or heavy loads, as missiles or automobiles.", "S": ["shipper "], "A": ["receiver "]}
+{"index": 328276, "D": "a person or thing that transports,  especially a very large truck for large or heavy loads, as missiles or automobiles.", "S": ["shipper"], "A": ["receiver"]}

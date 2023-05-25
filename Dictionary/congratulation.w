@@ -1,1 +1,1 @@
-{"index": 66229, "D": "the act of congratulating. ", "S": ["applause ", "commendation ", "felicitation ", "salute "], "A": ["criticism "]}
+{"index": 66229, "D": "the act of congratulating. ", "S": ["applause", "commendation", "felicitation", "salute"], "A": ["criticism"]}

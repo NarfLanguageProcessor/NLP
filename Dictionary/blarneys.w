@@ -1,1 +1,1 @@
-{"index": 35756, "D": "flattering or wheedling talk; cajolery. ", "S": ["adulation ", "baloney ", "blandishment ", "cajolery ", "coaxing ", "compliments ", "exaggeration ", "eyewash ", "fawning ", "honey ", "incense ", "ingratiation ", "oil ", "overpraise ", "wheedling "], "A": []}
+{"index": 35756, "D": "flattering or wheedling talk; cajolery. ", "S": ["adulation", "baloney", "blandishment", "cajolery", "coaxing", "compliments", "exaggeration", "eyewash", "fawning", "honey", "incense", "ingratiation", "oil", "overpraise", "wheedling"], "A": []}

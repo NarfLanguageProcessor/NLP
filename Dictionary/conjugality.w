@@ -1,1 +1,1 @@
-{"index": 66408, "D": "of, relating to, or characteristic of marriage", "S": ["connubiality ", "holy wedlock ", "marital state ", "matrimony ", "wedlock "], "A": []}
+{"index": 66408, "D": "of, relating to, or characteristic of marriage", "S": ["connubiality", "holy wedlock", "marital state", "matrimony", "wedlock"], "A": []}

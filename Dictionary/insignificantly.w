@@ -1,1 +1,1 @@
-{"index": 153620, "D": "unimportant, trifling, or petty", "S": ["kind of ", "lightly ", "marginally ", "somewhat "], "A": ["a lot ", "considerably ", "greatly "]}
+{"index": 153620, "D": "unimportant, trifling, or petty", "S": ["kind of", "lightly", "marginally", "somewhat"], "A": ["a lot", "considerably", "greatly"]}

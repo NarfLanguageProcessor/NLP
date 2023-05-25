@@ -1,0 +1,1 @@
+{"index": 16014, "D": "a person who takes a special interest in antiques;  a collector of antiquities; antiquary.", "S": [], "A": []}

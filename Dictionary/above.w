@@ -1,1 +1,1 @@
-{"index": 758, "D": "in, at, or to a higher place.", "S": ["raised "], "A": ["below ", "under "]}
+{"index": 758, "D": "in, at, or to a higher place.", "S": ["raised"], "A": ["below", "under"]}

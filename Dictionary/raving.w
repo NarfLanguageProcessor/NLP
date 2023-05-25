@@ -1,1 +1,1 @@
-{"index": 261294, "D": "talking wildly; delirious; frenzied", "S": ["berserk ", "fuming ", "irrational ", "ranting ", "wild "], "A": []}
+{"index": 261294, "D": "talking wildly; delirious; frenzied", "S": ["berserk", "fuming", "irrational", "ranting", "wild"], "A": []}

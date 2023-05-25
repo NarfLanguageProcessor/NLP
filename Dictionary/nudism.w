@@ -1,1 +1,1 @@
-{"index": 209423, "D": "the practice of going nude,  especially in places that allow mixed-gender groups, often in the belief that such practice benefits health.", "S": ["bareness ", "nakedness ", "naturism ", "undress "], "A": []}
+{"index": 209423, "D": "the practice of going nude,  especially in places that allow mixed-gender groups, often in the belief that such practice benefits health.", "S": ["bareness", "nakedness", "naturism", "undress"], "A": []}

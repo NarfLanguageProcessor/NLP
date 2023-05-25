@@ -1,1 +1,1 @@
-{"index": 27466, "D": "expulsion from a country, place, or position by authoritative decree, or the state of having been expelled", "S": ["deportation ", "expulsion "], "A": ["inclusion ", "welcoming "]}
+{"index": 27466, "D": "expulsion from a country, place, or position by authoritative decree, or the state of having been expelled", "S": ["deportation", "expulsion"], "A": ["inclusion", "welcoming"]}

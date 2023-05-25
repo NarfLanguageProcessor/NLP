@@ -1,1 +1,1 @@
-{"index": 166854, "D": "to tear roughly; mangle", "S": ["mangle "], "A": ["aid ", "assist ", "close ", "cure ", "fix ", "heal ", "help ", "make happy ", "mend ", "please ", "relieve ", "repair ", "sew "]}
+{"index": 166854, "D": "to tear roughly; mangle", "S": ["mangle"], "A": ["aid", "assist", "close", "cure", "fix", "heal", "help", "make happy", "mend", "please", "relieve", "repair", "sew"]}

@@ -1,1 +1,1 @@
-{"index": 293987, "D": "a detective. ", "S": ["gumshoe ", "private detective ", "private eye "], "A": []}
+{"index": 293987, "D": "a detective. ", "S": ["gumshoe", "private detective", "private eye"], "A": []}

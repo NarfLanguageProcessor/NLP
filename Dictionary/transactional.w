@@ -1,1 +1,1 @@
-{"index": 327668, "D": "of or relating to the process of conducting business", "S": ["debatable ", "transferable "], "A": []}
+{"index": 327668, "D": "of or relating to the process of conducting business", "S": ["debatable", "transferable"], "A": []}

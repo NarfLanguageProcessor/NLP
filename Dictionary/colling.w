@@ -1,1 +1,1 @@
-{"index": 63033, "D": [], "S": ["clamp ", "clutch ", "fasten ", "grasp "], "A": ["let go ", "loosen ", "open ", "release ", "unfasten ", "unlock ", "disbelieve ", "give ", "offer ", "receive ", "reject ", "stop "]}
+{"index": 63033, "D": [], "S": ["clamp", "clutch", "fasten", "grasp"], "A": ["let go", "loosen", "open", "release", "unfasten", "unlock", "disbelieve", "give", "offer", "receive", "reject", "stop"]}

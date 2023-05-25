@@ -1,1 +1,1 @@
-{"index": 295743, "D": "(of animals) to force the breath violently through the nostrils with a loud, harsh sound", "S": ["grunt "], "A": ["hide ", "secret "]}
+{"index": 295743, "D": "(of animals) to force the breath violently through the nostrils with a loud, harsh sound", "S": ["grunt"], "A": ["hide", "secret"]}

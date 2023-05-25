@@ -1,1 +1,1 @@
-{"index": 153689, "D": "to such an extent (usually followed by as)", "S": ["inasmuch as "], "A": []}
+{"index": 153689, "D": "to such an extent (usually followed by as)", "S": ["inasmuch as"], "A": []}

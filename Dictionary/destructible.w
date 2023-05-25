@@ -1,1 +1,1 @@
-{"index": 82975, "D": "capable of being destroyed;  liable to destruction. ", "S": ["decaying ", "decomposable ", "easily spoiled ", "short-lived ", "unstable "], "A": ["continuation ", "endurance "]}
+{"index": 82975, "D": "capable of being destroyed;  liable to destruction. ", "S": ["decaying", "decomposable", "easily spoiled", "short-lived", "unstable"], "A": ["continuation", "endurance"]}

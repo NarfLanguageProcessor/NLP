@@ -1,1 +1,1 @@
-{"index": 129875, "D": "a grated utensil for broiling meat, fish, vegetables, etc., over a fire; gridiron.", "S": ["baking ", "boiling ", "brewing ", "broiling ", "browning ", "heating ", "roasting ", "simmering ", "sizzling ", "steaming ", "stewing "], "A": []}
+{"index": 129875, "D": "a grated utensil for broiling meat, fish, vegetables, etc., over a fire; gridiron.", "S": ["baking", "boiling", "brewing", "broiling", "browning", "heating", "roasting", "simmering", "sizzling", "steaming", "stewing"], "A": []}

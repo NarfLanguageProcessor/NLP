@@ -1,1 +1,1 @@
-{"index": 171224, "D": "Compare machine (def. 4b). ", "S": ["crowbar ", "leverage "], "A": []}
+{"index": 171224, "D": "Compare machine (def. 4b). ", "S": ["crowbar", "leverage"], "A": []}

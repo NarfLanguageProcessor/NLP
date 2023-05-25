@@ -1,1 +1,1 @@
-{"index": 210926, "D": "a group or series of eight.", "S": ["octagonal ", "octennial "], "A": []}
+{"index": 210926, "D": "a group or series of eight.", "S": ["octagonal", "octennial"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2020, "D": "a white, crystalline, odorless, organic powder, C8H9NO, produced by the action of glacial acetic acid on aniline, used chiefly in organic synthesis and formerly in the treatment of fever and headache.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 32850, "D": "a person who bets  or makes a wager, as on the outcome of a game, especially one who bets regularly.", "S": ["gambler "], "A": []}
+{"index": 32850, "D": "a person who bets  or makes a wager, as on the outcome of a game, especially one who bets regularly.", "S": ["gambler"], "A": []}

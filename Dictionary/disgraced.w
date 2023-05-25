@@ -1,1 +1,1 @@
-{"index": 88157, "D": "the loss of respect, honor, or esteem; ignominy; shame", "S": ["humiliated "], "A": ["honored ", "in favor ", "restored "]}
+{"index": 88157, "D": "the loss of respect, honor, or esteem; ignominy; shame", "S": ["humiliated"], "A": ["honored", "in favor", "restored"]}

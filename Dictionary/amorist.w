@@ -1,1 +1,1 @@
-{"index": 10923, "D": "a person who is devoted to love and lovemaking.", "S": ["Casanova ", "Romeo ", "lover ", "paramour ", "suitor ", "swain ", "wooer "], "A": []}
+{"index": 10923, "D": "a person who is devoted to love and lovemaking.", "S": ["Casanova", "Romeo", "lover", "paramour", "suitor", "swain", "wooer"], "A": []}

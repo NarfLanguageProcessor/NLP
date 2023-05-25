@@ -1,1 +1,1 @@
-{"index": 292753, "D": "of considerable size;  fairly large", "S": ["ample ", "big ", "extensive ", "hefty ", "massive ", "respectable ", "substantial ", "whopping "], "A": ["little ", "small ", "tiny ", "unimportant "]}
+{"index": 292753, "D": "of considerable size;  fairly large", "S": ["ample", "big", "extensive", "hefty", "massive", "respectable", "substantial", "whopping"], "A": ["little", "small", "tiny", "unimportant"]}

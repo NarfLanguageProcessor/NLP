@@ -1,1 +1,0 @@
-{"index": 351341, "D": "the part of a garment that covers the arm, varying in form and length but commonly tubular.", "S": [], "A": []}

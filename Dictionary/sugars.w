@@ -1,1 +1,1 @@
-{"index": 310228, "D": [], "S": ["carbohydrate "], "A": []}
+{"index": 310228, "D": [], "S": ["carbohydrate"], "A": []}

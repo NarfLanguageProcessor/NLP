@@ -1,1 +1,1 @@
-{"index": 100057, "D": "to provide with a permanent fund or source of income", "S": ["authorizing ", "colonizing ", "instituting ", "originating ", "planting "], "A": []}
+{"index": 100057, "D": "to provide with a permanent fund or source of income", "S": ["authorizing", "colonizing", "instituting", "originating", "planting"], "A": []}

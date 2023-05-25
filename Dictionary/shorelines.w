@@ -1,1 +1,1 @@
-{"index": 288880, "D": "the line  where shore  and water meet.", "S": ["bank ", "beach ", "coastline ", "seaboard ", "shore "], "A": []}
+{"index": 288880, "D": "the line  where shore  and water meet.", "S": ["bank", "beach", "coastline", "seaboard", "shore"], "A": []}

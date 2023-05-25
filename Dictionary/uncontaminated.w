@@ -1,1 +1,1 @@
-{"index": 337790, "D": "not having been polluted, infected, or made impure", "S": ["celibate ", "monogamous ", "platonic ", "subdued ", "unblemished ", "virginal "], "A": ["corrupt ", "defiled ", "dirty ", "lewd ", "unchaste ", "wanton "]}
+{"index": 337790, "D": "not having been polluted, infected, or made impure", "S": ["celibate", "monogamous", "platonic", "subdued", "unblemished", "virginal"], "A": ["corrupt", "defiled", "dirty", "lewd", "unchaste", "wanton"]}

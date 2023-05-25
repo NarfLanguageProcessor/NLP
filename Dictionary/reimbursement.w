@@ -1,1 +1,1 @@
-{"index": 266123, "D": "repayment for an expense or loss incurred", "S": ["payment ", "remuneration ", "repayment ", "restitution "], "A": []}
+{"index": 266123, "D": "repayment for an expense or loss incurred", "S": ["payment", "remuneration", "repayment", "restitution"], "A": []}

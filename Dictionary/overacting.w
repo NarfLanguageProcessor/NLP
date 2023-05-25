@@ -1,1 +1,1 @@
-{"index": 218137, "D": "to act  in an exaggerated manner.", "S": ["flamboyant ", "frenzied ", "histrionical ", "maudlin ", "mawkish ", "overemotional ", "overwrought ", "sensational ", "sentimental ", "stagy "], "A": ["deadpan ", "low-key ", "matter-of-fact ", "understated "]}
+{"index": 218137, "D": "to act  in an exaggerated manner.", "S": ["flamboyant", "frenzied", "histrionical", "maudlin", "mawkish", "overemotional", "overwrought", "sensational", "sentimental", "stagy"], "A": ["deadpan", "low-key", "matter-of-fact", "understated"]}

@@ -1,1 +1,1 @@
-{"index": 222692, "D": "peaceably, mildly, calmly, or quietly.", "S": ["harmoniously "], "A": ["angrily ", "hostilely "]}
+{"index": 222692, "D": "peaceably, mildly, calmly, or quietly.", "S": ["harmoniously"], "A": ["angrily", "hostilely"]}

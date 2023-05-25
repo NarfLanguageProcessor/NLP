@@ -1,1 +1,1 @@
-{"index": 11303, "D": "a broad-spectrum semisynthetic penicillin, C16H19N3O4S, effective against certain susceptible Gram-positive and Gram-negative bacteria.", "S": ["penicillin "], "A": []}
+{"index": 11303, "D": "a broad-spectrum semisynthetic penicillin, C16H19N3O4S, effective against certain susceptible Gram-positive and Gram-negative bacteria.", "S": ["penicillin"], "A": []}

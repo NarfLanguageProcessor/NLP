@@ -1,1 +1,1 @@
-{"index": 145891, "D": "being or standing wide open; gaping", "S": ["gaping ", "huge ", "roomy ", "spacious ", "vast "], "A": ["cramped ", "little ", "narrow ", "small "]}
+{"index": 145891, "D": "being or standing wide open; gaping", "S": ["gaping", "huge", "roomy", "spacious", "vast"], "A": ["cramped", "little", "narrow", "small"]}

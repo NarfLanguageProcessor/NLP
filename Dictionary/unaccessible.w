@@ -1,1 +1,1 @@
-{"index": 334419, "D": "easy to approach, reach, enter, speak with, or use.", "S": ["nonexistent "], "A": ["available "]}
+{"index": 334419, "D": "easy to approach, reach, enter, speak with, or use.", "S": ["nonexistent"], "A": ["available"]}

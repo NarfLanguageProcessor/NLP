@@ -1,1 +1,0 @@
-{"index": 334846, "D": "very attractive or tempting; enticing; seductive. ", "S": ["animal ", "disgusting ", "not beautiful ", "ordinary ", "plain ", "ugly ", "unaesthetic "], "A": ["attractive ", "beautiful "]}

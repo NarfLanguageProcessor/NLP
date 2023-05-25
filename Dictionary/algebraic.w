@@ -1,0 +1,1 @@
+{"index": 8050, "D": "of, occurring in, or utilizing algebra. ", "S": ["analytical", "numerical", "scientific"], "A": []}

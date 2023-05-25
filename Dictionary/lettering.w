@@ -1,1 +1,1 @@
-{"index": 170932, "D": "the act or process of inscribing with or making letters. ", "S": ["block capital ", "handprinting "], "A": []}
+{"index": 170932, "D": "the act or process of inscribing with or making letters. ", "S": ["block capital", "handprinting"], "A": []}

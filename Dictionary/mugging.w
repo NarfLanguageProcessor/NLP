@@ -1,1 +1,1 @@
-{"index": 194796, "D": "an assault or threat of violence upon a person, especially with intent to rob.", "S": ["simple assault "], "A": []}
+{"index": 194796, "D": "an assault or threat of violence upon a person, especially with intent to rob.", "S": ["simple assault"], "A": []}

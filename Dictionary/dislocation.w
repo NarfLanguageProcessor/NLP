@@ -1,1 +1,1 @@
-{"index": 88602, "D": "an act or instance of dislocating. ", "S": ["confusion ", "disarray ", "disconnection ", "disorder ", "disruption ", "disturbance "], "A": ["arrangement ", "calm ", "method ", "order ", "orderliness ", "organization ", "system ", "juncture "]}
+{"index": 88602, "D": "an act or instance of dislocating. ", "S": ["confusion", "disarray", "disconnection", "disorder", "disruption", "disturbance"], "A": ["arrangement", "calm", "method", "order", "orderliness", "organization", "system", "juncture"]}

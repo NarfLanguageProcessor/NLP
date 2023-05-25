@@ -1,1 +1,1 @@
-{"index": 58522, "D": "a mass of calcium carbonate on the cellulose wall.", "S": ["bilestone ", "calculus ", "concretion "], "A": []}
+{"index": 58522, "D": "a mass of calcium carbonate on the cellulose wall.", "S": ["bilestone", "calculus", "concretion"], "A": []}

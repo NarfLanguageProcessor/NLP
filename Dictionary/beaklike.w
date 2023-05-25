@@ -1,1 +1,1 @@
-{"index": 29435, "D": "the bill of a bird; neb.", "S": ["Roman-nosed ", "beaked ", "eaglelike ", "prominent "], "A": ["straight "]}
+{"index": 29435, "D": "the bill of a bird; neb.", "S": ["Roman-nosed", "beaked", "eaglelike", "prominent"], "A": ["straight"]}

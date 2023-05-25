@@ -1,1 +1,1 @@
-{"index": 208545, "D": "conformity to the standard, typical, or average level, rate, condition or set of conditions, characteristics, behavior, etc.", "S": ["ordinariness ", "uniformity "], "A": []}
+{"index": 208545, "D": "conformity to the standard, typical, or average level, rate, condition or set of conditions, characteristics, behavior, etc.", "S": ["ordinariness", "uniformity"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 187047, "D": "migrating. ", "S": ["seasonal ", "transient "], "A": []}
+{"index": 187047, "D": "migrating. ", "S": ["seasonal", "transient"], "A": []}

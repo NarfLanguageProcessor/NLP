@@ -1,1 +1,1 @@
-{"index": 80888, "D": "to deprive (a person or persons) of spirit, courage, discipline, etc.; destroy the morale  of", "S": ["unnerved ", "weakened "], "A": []}
+{"index": 80888, "D": "to deprive (a person or persons) of spirit, courage, discipline, etc.; destroy the morale  of", "S": ["unnerved", "weakened"], "A": []}

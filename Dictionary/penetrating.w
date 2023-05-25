@@ -1,1 +1,1 @@
-{"index": 229614, "D": "able or tending to penetrate; piercing; sharp", "S": ["biting ", "piercing ", "trenchant "], "A": ["kind ", "nice ", "weak ", "soft "]}
+{"index": 229614, "D": "able or tending to penetrate; piercing; sharp", "S": ["biting", "piercing", "trenchant"], "A": ["kind", "nice", "weak", "soft"]}

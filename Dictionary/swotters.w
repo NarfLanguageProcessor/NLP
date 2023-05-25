@@ -1,1 +1,1 @@
-{"index": 314712, "D": "swot2 (def. 2). ", "S": ["geek ", "nerd "], "A": []}
+{"index": 314712, "D": "swot2 (def. 2). ", "S": ["geek", "nerd"], "A": []}

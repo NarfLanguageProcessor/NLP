@@ -1,1 +1,1 @@
-{"index": 150080, "D": "not communicative;  reserved; uncommunicative.", "S": ["uncommunicative "], "A": []}
+{"index": 150080, "D": "not communicative;  reserved; uncommunicative.", "S": ["uncommunicative"], "A": []}

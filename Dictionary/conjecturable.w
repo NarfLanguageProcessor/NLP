@@ -1,1 +1,1 @@
-{"index": 66374, "D": "the formation or expression of an opinion or theory without sufficient evidence for proof.", "S": ["debatable ", "imaginary ", "problematic ", "speculative ", "theoretical ", "vague "], "A": ["certain ", "definite ", "factual ", "real ", "sure "]}
+{"index": 66374, "D": "the formation or expression of an opinion or theory without sufficient evidence for proof.", "S": ["debatable", "imaginary", "problematic", "speculative", "theoretical", "vague"], "A": ["certain", "definite", "factual", "real", "sure"]}

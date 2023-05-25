@@ -1,1 +1,1 @@
-{"index": 276545, "D": "a journey or expedition, for hunting, exploration, or investigation, especially in eastern Africa.", "S": ["trek "], "A": []}
+{"index": 276545, "D": "a journey or expedition, for hunting, exploration, or investigation, especially in eastern Africa.", "S": ["trek"], "A": []}

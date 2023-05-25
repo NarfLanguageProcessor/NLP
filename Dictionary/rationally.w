@@ -1,1 +1,1 @@
-{"index": 261085, "D": "in a way that is agreeable to and supported by reason; sensibly or logically", "S": ["intelligently ", "judiciously ", "logically ", "reasonably ", "wisely "], "A": ["foolishly ", "stupidly "]}
+{"index": 261085, "D": "in a way that is agreeable to and supported by reason; sensibly or logically", "S": ["intelligently", "judiciously", "logically", "reasonably", "wisely"], "A": ["foolishly", "stupidly"]}

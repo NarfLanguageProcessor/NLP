@@ -1,1 +1,1 @@
-{"index": 356633, "D": "bidding goodbye; saying farewell", "S": ["final ", "goodbye ", "last ", "parting ", "terminal "], "A": ["beginning ", "first ", "initial ", "introductory ", "opening ", "starting "]}
+{"index": 356633, "D": "bidding goodbye; saying farewell", "S": ["final", "goodbye", "last", "parting", "terminal"], "A": ["beginning", "first", "initial", "introductory", "opening", "starting"]}

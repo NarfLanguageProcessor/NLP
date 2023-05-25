@@ -1,1 +1,1 @@
-{"index": 339256, "D": "to strengthen; secure, as by passing a rope or chain under and around", "S": ["bolster ", "hold ", "reinforce ", "uphold "], "A": ["undermine ", "weaken ", "drop ", "fall ", "let go ", "refuse "]}
+{"index": 339256, "D": "to strengthen; secure, as by passing a rope or chain under and around", "S": ["bolster", "hold", "reinforce", "uphold"], "A": ["undermine", "weaken", "drop", "fall", "let go", "refuse"]}

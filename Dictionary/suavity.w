@@ -1,1 +1,1 @@
-{"index": 307049, "D": "a suave  or smoothly agreeable quality.", "S": ["affability ", "amenity ", "courtesy ", "diplomacy ", "mildness ", "propriety ", "suaveness ", "urbanity "], "A": ["bad manners ", "impoliteness ", "misbehavior ", "rudeness "]}
+{"index": 307049, "D": "a suave  or smoothly agreeable quality.", "S": ["affability", "amenity", "courtesy", "diplomacy", "mildness", "propriety", "suaveness", "urbanity"], "A": ["bad manners", "impoliteness", "misbehavior", "rudeness"]}

@@ -1,1 +1,1 @@
-{"index": 268567, "D": [], "S": ["breeding ", "copy ", "facsimile ", "imitation ", "photocopy ", "photograph ", "picture ", "print ", "propagation ", "recreation ", "replica ", "replication "], "A": ["original ", "decrease ", "destruction ", "subtraction "]}
+{"index": 268567, "D": [], "S": ["breeding", "copy", "facsimile", "imitation", "photocopy", "photograph", "picture", "print", "propagation", "recreation", "replica", "replication"], "A": ["original", "decrease", "destruction", "subtraction"]}

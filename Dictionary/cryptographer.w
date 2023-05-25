@@ -1,1 +1,1 @@
-{"index": 73253, "D": "Compare cryptanalysis (def. 2). ", "S": ["linguist "], "A": []}
+{"index": 73253, "D": "Compare cryptanalysis (def. 2). ", "S": ["linguist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 156191, "D": "a person who interviews. ", "S": ["interrogator ", "reporter "], "A": []}
+{"index": 156191, "D": "a person who interviews. ", "S": ["interrogator", "reporter"], "A": []}

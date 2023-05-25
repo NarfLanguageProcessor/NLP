@@ -1,1 +1,0 @@
-{"index": 294327, "D": "to walk assertively with a hip-rolling gait", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 106573, "D": "extraordinary; exceptional.", "S": ["exceptional ", "improved ", "superior "], "A": ["inferior "]}
+{"index": 106573, "D": "extraordinary; exceptional.", "S": ["exceptional", "improved", "superior"], "A": ["inferior"]}

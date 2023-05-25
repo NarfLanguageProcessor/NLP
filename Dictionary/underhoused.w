@@ -1,1 +1,0 @@
-{"index": 339339, "D": "(of persons) having inadequate or poor housing. ", "S": [], "A": []}

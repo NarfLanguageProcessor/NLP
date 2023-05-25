@@ -1,1 +1,1 @@
-{"index": 278883, "D": "intoxicated; drunk.", "S": ["luscious ", "succulent ", "syrupy "], "A": ["dry "]}
+{"index": 278883, "D": "intoxicated; drunk.", "S": ["luscious", "succulent", "syrupy"], "A": ["dry"]}

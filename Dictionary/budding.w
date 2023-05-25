@@ -1,1 +1,1 @@
-{"index": 42159, "D": "a budding genius", "S": ["burgeoning ", "fledgling ", "growing ", "incipient ", "nascent ", "promising "], "A": ["dying ", "shrinking ", "withering "]}
+{"index": 42159, "D": "a budding genius", "S": ["burgeoning", "fledgling", "growing", "incipient", "nascent", "promising"], "A": ["dying", "shrinking", "withering"]}

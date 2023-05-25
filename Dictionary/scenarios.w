@@ -1,1 +1,1 @@
-{"index": 279952, "D": "an outline of the plot of a dramatic work, giving particulars as to the scenes, characters, situations, etc.", "S": ["plot ", "scheme "], "A": []}
+{"index": 279952, "D": "an outline of the plot of a dramatic work, giving particulars as to the scenes, characters, situations, etc.", "S": ["plot", "scheme"], "A": []}

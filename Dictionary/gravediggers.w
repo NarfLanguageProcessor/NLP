@@ -1,1 +1,1 @@
-{"index": 129307, "D": "a person whose occupation is digging graves. ", "S": ["embalmer ", "mortician "], "A": []}
+{"index": 129307, "D": "a person whose occupation is digging graves. ", "S": ["embalmer", "mortician"], "A": []}

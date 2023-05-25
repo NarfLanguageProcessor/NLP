@@ -1,0 +1,1 @@
+{"index": 24017, "D": "a person who has learned a subject without the benefit of a teacher or formal education; a self-taught person.", "S": [], "A": []}

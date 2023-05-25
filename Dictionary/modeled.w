@@ -1,1 +1,1 @@
-{"index": 191043, "D": "a standard or example for imitation or comparison.", "S": ["shaped "], "A": []}
+{"index": 191043, "D": "a standard or example for imitation or comparison.", "S": ["shaped"], "A": []}

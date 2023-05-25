@@ -1,1 +1,1 @@
-{"index": 352519, "D": "admitting or capable of some specified treatment", "S": ["insusceptible "], "A": []}
+{"index": 352519, "D": "admitting or capable of some specified treatment", "S": ["insusceptible"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150152, "D": "lack of comprehension  or understanding", "S": ["bewilderment ", "disregard ", "illiteracy ", "insensitivity "], "A": ["cognizance ", "understanding "]}
+{"index": 150152, "D": "lack of comprehension  or understanding", "S": ["bewilderment", "disregard", "illiteracy", "insensitivity"], "A": ["cognizance", "understanding"]}

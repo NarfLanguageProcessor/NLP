@@ -1,1 +1,1 @@
-{"index": 209409, "D": "to push slightly or gently, especially with the elbow, to get someone's attention, prod someone into action, etc.", "S": ["dig ", "jab ", "jog ", "poke ", "prod ", "punch ", "push ", "shove ", "tap ", "touch "], "A": ["discourage ", "dissuade ", "pull ", "repress "]}
+{"index": 209409, "D": "to push slightly or gently, especially with the elbow, to get someone's attention, prod someone into action, etc.", "S": ["dig", "jab", "jog", "poke", "prod", "punch", "push", "shove", "tap", "touch"], "A": ["discourage", "dissuade", "pull", "repress"]}

@@ -1,1 +1,1 @@
-{"index": 96261, "D": "someone who displays egomania, a tendency to refer to oneself excessively and boastfully", "S": ["boaster ", "braggart ", "egocentric ", "egoist ", "narcissist "], "A": []}
+{"index": 96261, "D": "someone who displays egomania, a tendency to refer to oneself excessively and boastfully", "S": ["boaster", "braggart", "egocentric", "egoist", "narcissist"], "A": []}

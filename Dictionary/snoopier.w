@@ -1,1 +1,1 @@
-{"index": 295692, "D": "characterized by meddlesome curiosity; prying.", "S": ["inquiring ", "meddling ", "prying ", "questioning ", "tampering "], "A": []}
+{"index": 295692, "D": "characterized by meddlesome curiosity; prying.", "S": ["inquiring", "meddling", "prying", "questioning", "tampering"], "A": []}

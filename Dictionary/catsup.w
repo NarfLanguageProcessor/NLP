@@ -1,1 +1,1 @@
-{"index": 49842, "D": "a variant of ketchup. ", "S": ["dressing ", "gravy ", "horseradish ", "ketchup ", "mustard ", "pepper ", "relish ", "salsa ", "salt ", "sauce ", "seasoning ", "spice "], "A": []}
+{"index": 49842, "D": "a variant of ketchup. ", "S": ["dressing", "gravy", "horseradish", "ketchup", "mustard", "pepper", "relish", "salsa", "salt", "sauce", "seasoning", "spice"], "A": []}

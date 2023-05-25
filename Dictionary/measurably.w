@@ -1,1 +1,1 @@
-{"index": 181796, "D": "capable of being measured. ", "S": ["at least ", "partially ", "slightly ", "somewhat "], "A": ["completely ", "totally ", "wholly "]}
+{"index": 181796, "D": "capable of being measured. ", "S": ["at least", "partially", "slightly", "somewhat"], "A": ["completely", "totally", "wholly"]}

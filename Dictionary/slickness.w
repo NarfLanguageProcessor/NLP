@@ -1,1 +1,1 @@
-{"index": 294021, "D": "smooth and glossy; sleek. ", "S": ["artifice ", "cunning ", "foxiness ", "guile ", "wiliness "], "A": ["artlessness ", "frankness ", "honesty ", "openness ", "sincerity "]}
+{"index": 294021, "D": "smooth and glossy; sleek. ", "S": ["artifice", "cunning", "foxiness", "guile", "wiliness"], "A": ["artlessness", "frankness", "honesty", "openness", "sincerity"]}

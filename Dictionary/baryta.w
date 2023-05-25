@@ -1,0 +1,1 @@
+{"index": 28018, "D": "a white or yellowish-white poisonous solid, BaO, highly reactive with water", "S": [], "A": []}

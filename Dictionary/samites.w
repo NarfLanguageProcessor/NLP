@@ -1,1 +1,1 @@
-{"index": 277549, "D": "a heavy silk fabric, sometimes interwoven with gold, worn in the Middle Ages.", "S": ["fiber ", "taffeta ", "thread ", "tulle "], "A": []}
+{"index": 277549, "D": "a heavy silk fabric, sometimes interwoven with gold, worn in the Middle Ages.", "S": ["fiber", "taffeta", "thread", "tulle"], "A": []}

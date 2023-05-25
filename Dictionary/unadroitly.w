@@ -1,1 +1,1 @@
-{"index": 334652, "D": "with expert or dexterous use of the hands or body; nimbly", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}
+{"index": 334652, "D": "with expert or dexterous use of the hands or body; nimbly", "S": ["clumsily", "stiffly"], "A": ["adroitly", "gracefully", "skillfully"]}

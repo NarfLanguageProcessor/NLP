@@ -1,1 +1,1 @@
-{"index": 142900, "D": "the town  or city in which a person lives or was born, or from which a person comes.", "S": ["country ", "family ", "farm ", "household ", "land ", "neighborhood ", "site "], "A": ["office "]}
+{"index": 142900, "D": "the town  or city in which a person lives or was born, or from which a person comes.", "S": ["country", "family", "farm", "household", "land", "neighborhood", "site"], "A": ["office"]}

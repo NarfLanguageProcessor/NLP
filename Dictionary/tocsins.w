@@ -1,1 +1,1 @@
-{"index": 324996, "D": "a signal, especially of alarm, sounded on a bell or bells.", "S": ["alert ", "bell ", "horn ", "sign ", "signal ", "siren ", "warning "], "A": []}
+{"index": 324996, "D": "a signal, especially of alarm, sounded on a bell or bells.", "S": ["alert", "bell", "horn", "sign", "signal", "siren", "warning"], "A": []}

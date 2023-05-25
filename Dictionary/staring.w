@@ -1,1 +1,1 @@
-{"index": 302899, "D": "gazing fixedly and intently, especially with the eyes wide open", "S": ["open ", "yawning "], "A": []}
+{"index": 302899, "D": "gazing fixedly and intently, especially with the eyes wide open", "S": ["open", "yawning"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 104664, "D": "worthy of esteem;  deserving respect or admiration", "S": ["esteemed ", "praiseworthy "], "A": ["bad ", "dishonorable ", "inestimable ", "insignificant ", "poor ", "unworthy "]}
+{"index": 104664, "D": "worthy of esteem;  deserving respect or admiration", "S": ["esteemed", "praiseworthy"], "A": ["bad", "dishonorable", "inestimable", "insignificant", "poor", "unworthy"]}

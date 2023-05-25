@@ -1,1 +1,1 @@
-{"index": 42937, "D": "a distinctively shaped and marked float, sometimes carrying a signal or signals, anchored to mark a channel, anchorage, navigational hazard, etc., or to provide a mooring place away from the shore.", "S": ["beacon "], "A": []}
+{"index": 42937, "D": "a distinctively shaped and marked float, sometimes carrying a signal or signals, anchored to mark a channel, anchorage, navigational hazard, etc., or to provide a mooring place away from the shore.", "S": ["beacon"], "A": []}

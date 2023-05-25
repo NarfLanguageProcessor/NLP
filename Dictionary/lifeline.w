@@ -1,1 +1,1 @@
-{"index": 171915, "D": "a line,  fired across a ship or boat, by means of which a hawser for a breeches buoy may be hauled aboard.", "S": ["aid ", "line ", "salvation "], "A": ["injury "]}
+{"index": 171915, "D": "a line,  fired across a ship or boat, by means of which a hawser for a breeches buoy may be hauled aboard.", "S": ["aid", "line", "salvation"], "A": ["injury"]}

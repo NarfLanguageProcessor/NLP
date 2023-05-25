@@ -1,1 +1,1 @@
-{"index": 1129, "D": "the state or quality of being absurd. ", "S": ["craziness ", "farce ", "folly ", "foolishness ", "idiocy ", "insanity ", "silliness ", "stupidity "], "A": ["intelligence ", "seriousness ", "wisdom "]}
+{"index": 1129, "D": "the state or quality of being absurd. ", "S": ["craziness", "farce", "folly", "foolishness", "idiocy", "insanity", "silliness", "stupidity"], "A": ["intelligence", "seriousness", "wisdom"]}

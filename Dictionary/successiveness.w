@@ -1,1 +1,1 @@
-{"index": 309822, "D": "following in order or in uninterrupted sequence; consecutive", "S": ["arrangement ", "array ", "progression ", "string "], "A": ["interruption ", "stoppage "]}
+{"index": 309822, "D": "following in order or in uninterrupted sequence; consecutive", "S": ["arrangement", "array", "progression", "string"], "A": ["interruption", "stoppage"]}

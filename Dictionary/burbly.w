@@ -1,1 +1,1 @@
-{"index": 42982, "D": "to make a bubbling sound; bubble.", "S": ["babbling ", "bubbling ", "gushing ", "laughing "], "A": []}
+{"index": 42982, "D": "to make a bubbling sound; bubble.", "S": ["babbling", "bubbling", "gushing", "laughing"], "A": []}

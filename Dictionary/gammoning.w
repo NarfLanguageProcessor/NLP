@@ -1,1 +1,1 @@
-{"index": 121770, "D": "the game of backgammon. ", "S": ["bamboozle ", "bluff ", "chicane ", "con ", "deceive ", "delude ", "dupe ", "fleece ", "flimflam ", "fool ", "frame ", "gammon ", "gull ", "hoodwink ", "murphy ", "rook ", "sting ", "swindle "], "A": []}
+{"index": 121770, "D": "the game of backgammon. ", "S": ["bamboozle", "bluff", "chicane", "con", "deceive", "delude", "dupe", "fleece", "flimflam", "fool", "frame", "gammon", "gull", "hoodwink", "murphy", "rook", "sting", "swindle"], "A": []}

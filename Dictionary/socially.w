@@ -1,1 +1,1 @@
-{"index": 296122, "D": "in the friendly company of others; in a genial or gregarious manner", "S": ["culturally ", "philosophically ", "politically ", "psychologically "], "A": []}
+{"index": 296122, "D": "in the friendly company of others; in a genial or gregarious manner", "S": ["culturally", "philosophically", "politically", "psychologically"], "A": []}

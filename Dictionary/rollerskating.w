@@ -1,1 +1,1 @@
-{"index": 273962, "D": "a form of skate with four wheels or rollers instead of a runner, for use on a sidewalk or other surface offering traction.", "S": ["Rollerblades\u2122 ", "in-line skate "], "A": []}
+{"index": 273962, "D": "a form of skate with four wheels or rollers instead of a runner, for use on a sidewalk or other surface offering traction.", "S": ["Rollerblades\u2122", "in-line skate"], "A": []}

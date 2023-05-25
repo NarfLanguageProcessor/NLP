@@ -1,1 +1,1 @@
-{"index": 279040, "D": "fierce, ferocious, or cruel; untamed", "S": ["brutality ", "cruelty ", "inhumanity ", "vulgarity "], "A": ["kindness ", "niceness "]}
+{"index": 279040, "D": "fierce, ferocious, or cruel; untamed", "S": ["brutality", "cruelty", "inhumanity", "vulgarity"], "A": ["kindness", "niceness"]}

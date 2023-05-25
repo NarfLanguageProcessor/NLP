@@ -1,1 +1,0 @@
-{"index": 233838, "D": "the development or evolution of a particular group of organisms.", "S": ["Darwinian theory ", "Darwinism ", "adaptation ", "artificial selection ", "biological evolution ", "evolution ", "evolutionism ", "law of the jungle ", "natural law ", "social Darwinism ", "social evolution ", "survival of the fittest ", "theory of evolution "], "A": []}

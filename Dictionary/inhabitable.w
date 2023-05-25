@@ -1,1 +1,1 @@
-{"index": 152615, "D": "able or fit to be lived in", "S": ["bearable ", "comfortable ", "cozy ", "endurable ", "fit ", "habitable ", "homey ", "lodgeable ", "passable ", "satisfactory ", "snug ", "sufferable ", "supportable ", "sustainable ", "tenantable ", "tolerable ", "worthwhile "], "A": []}
+{"index": 152615, "D": "able or fit to be lived in", "S": ["bearable", "comfortable", "cozy", "endurable", "fit", "habitable", "homey", "lodgeable", "passable", "satisfactory", "snug", "sufferable", "supportable", "sustainable", "tenantable", "tolerable", "worthwhile"], "A": []}

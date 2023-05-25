@@ -1,1 +1,1 @@
-{"index": 153422, "D": [], "S": ["bewilderment ", "disregard ", "illiteracy ", "insensitivity "], "A": ["cognizance ", "understanding "]}
+{"index": 153422, "D": [], "S": ["bewilderment", "disregard", "illiteracy", "insensitivity"], "A": ["cognizance", "understanding"]}

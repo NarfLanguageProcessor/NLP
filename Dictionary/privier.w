@@ -1,1 +1,1 @@
-{"index": 250863, "D": "participating in the knowledge of something private or secret (usually followed by to)", "S": ["covert ", "personal ", "private ", "privileged ", "separate "], "A": ["open ", "public ", "unconcealed "]}
+{"index": 250863, "D": "participating in the knowledge of something private or secret (usually followed by to)", "S": ["covert", "personal", "private", "privileged", "separate"], "A": ["open", "public", "unconcealed"]}

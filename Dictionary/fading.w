@@ -1,1 +1,1 @@
-{"index": 109152, "D": "a variation in the strength of received radio signals due to variations in the conditions of the transmission medium", "S": ["dying ", "hazy "], "A": []}
+{"index": 109152, "D": "a variation in the strength of received radio signals due to variations in the conditions of the transmission medium", "S": ["dying", "hazy"], "A": []}

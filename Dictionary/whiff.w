@@ -1,1 +1,1 @@
-{"index": 364747, "D": "a slight gust or puff of wind, air, vapor, smoke, or the like", "S": ["aroma ", "breath ", "fume ", "hint ", "odor ", "puff ", "scent "], "A": ["lot "]}
+{"index": 364747, "D": "a slight gust or puff of wind, air, vapor, smoke, or the like", "S": ["aroma", "breath", "fume", "hint", "odor", "puff", "scent"], "A": ["lot"]}

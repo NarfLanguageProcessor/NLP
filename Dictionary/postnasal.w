@@ -1,1 +1,0 @@
-{"index": 244329, "D": "located or occurring behind the nose or in the nasopharynx, as a flow of mucus; nasopharyngeal", "S": [], "A": []}

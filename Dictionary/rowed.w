@@ -1,1 +1,1 @@
-{"index": 275015, "D": "a number of persons or things arranged in a line, especially a straight line", "S": ["paddle ", "sail ", "swim "], "A": ["agree ", "concur "]}
+{"index": 275015, "D": "a number of persons or things arranged in a line, especially a straight line", "S": ["paddle", "sail", "swim"], "A": ["agree", "concur"]}

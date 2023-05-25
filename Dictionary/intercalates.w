@@ -1,1 +1,1 @@
-{"index": 154542, "D": "to interpolate; interpose. ", "S": ["admit ", "introduce "], "A": ["erase ", "remove ", "take out "]}
+{"index": 154542, "D": "to interpolate; interpose. ", "S": ["admit", "introduce"], "A": ["erase", "remove", "take out"]}

@@ -1,1 +1,1 @@
-{"index": 118666, "D": "a person who forms opinions on the basis of reason, independent of authority or tradition, especially a person whose religious opinions differ from established belief.", "S": ["agnostic ", "atheist ", "infidel ", "libertine ", "skeptic "], "A": ["believer "]}
+{"index": 118666, "D": "a person who forms opinions on the basis of reason, independent of authority or tradition, especially a person whose religious opinions differ from established belief.", "S": ["agnostic", "atheist", "infidel", "libertine", "skeptic"], "A": ["believer"]}

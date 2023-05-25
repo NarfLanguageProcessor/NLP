@@ -1,1 +1,1 @@
-{"index": 53867, "D": "a cigar having open, untapered ends.", "S": ["belvedere ", "bouquet ", "claro ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "toby ", "weed "], "A": []}
+{"index": 53867, "D": "a cigar having open, untapered ends.", "S": ["belvedere", "bouquet", "claro", "corona", "havana", "panatela", "smoke", "stogie", "stogy", "tobacco", "toby", "weed"], "A": []}

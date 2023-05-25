@@ -1,1 +1,1 @@
-{"index": 298993, "D": "to make a speech  or speeches;  harangue.", "S": ["announcer ", "elocutionist ", "lecturer ", "mouthpiece ", "orator ", "rhetorician ", "speechmaker ", "spokesperson "], "A": []}
+{"index": 298993, "D": "to make a speech  or speeches;  harangue.", "S": ["announcer", "elocutionist", "lecturer", "mouthpiece", "orator", "rhetorician", "speechmaker", "spokesperson"], "A": []}

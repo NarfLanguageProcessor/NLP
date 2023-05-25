@@ -1,1 +1,1 @@
-{"index": 150840, "D": "not determinate; not precisely fixed in extent; indefinite; uncertain.", "S": ["undetermined "], "A": ["certain ", "definite ", "determined ", "exact ", "fixed ", "measurable ", "sure "]}
+{"index": 150840, "D": "not determinate; not precisely fixed in extent; indefinite; uncertain.", "S": ["undetermined"], "A": ["certain", "definite", "determined", "exact", "fixed", "measurable", "sure"]}

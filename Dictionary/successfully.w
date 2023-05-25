@@ -1,1 +1,1 @@
-{"index": 309812, "D": "achieving or having achieved success. ", "S": ["profitably ", "strongly ", "well "], "A": []}
+{"index": 309812, "D": "achieving or having achieved success. ", "S": ["profitably", "strongly", "well"], "A": []}

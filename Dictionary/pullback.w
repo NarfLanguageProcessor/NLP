@@ -1,1 +1,1 @@
-{"index": 256250, "D": "the act of pulling back, especially a retreat or a strategic withdrawal of troops; pullout.", "S": ["evacuation ", "pullout ", "withdrawal "], "A": []}
+{"index": 256250, "D": "the act of pulling back, especially a retreat or a strategic withdrawal of troops; pullout.", "S": ["evacuation", "pullout", "withdrawal"], "A": []}

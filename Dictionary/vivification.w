@@ -1,1 +1,1 @@
-{"index": 360768, "D": [], "S": ["description ", "interpretation ", "resolution ", "simplification "], "A": ["complication ", "misunderstanding ", "muddle "]}
+{"index": 360768, "D": [], "S": ["description", "interpretation", "resolution", "simplification"], "A": ["complication", "misunderstanding", "muddle"]}

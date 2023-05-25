@@ -1,1 +1,0 @@
-{"index": 345336, "D": "the sound made by a bell rung slowly, especially for a death or a funeral.", "S": [], "A": []}

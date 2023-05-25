@@ -1,1 +1,1 @@
-{"index": 276383, "D": "pertaining to or involving sacrilege", "S": ["blasphemous ", "indecent ", "obscene ", "sinful "], "A": ["clean ", "decent ", "moral ", "pure ", "upright "]}
+{"index": 276383, "D": "pertaining to or involving sacrilege", "S": ["blasphemous", "indecent", "obscene", "sinful"], "A": ["clean", "decent", "moral", "pure", "upright"]}

@@ -1,1 +1,1 @@
-{"index": 319016, "D": "any of various slender, flexible processes or appendages in animals, especially invertebrates, that serve as organs of touch, prehension, etc.; feeler.", "S": ["arm ", "feeler ", "limb "], "A": []}
+{"index": 319016, "D": "any of various slender, flexible processes or appendages in animals, especially invertebrates, that serve as organs of touch, prehension, etc.; feeler.", "S": ["arm", "feeler", "limb"], "A": []}

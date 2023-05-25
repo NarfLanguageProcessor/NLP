@@ -1,1 +1,1 @@
-{"index": 96630, "D": "to increase; enlarge; lengthen.", "S": ["augment ", "economize ", "fill ", "husband ", "increase ", "magnify ", "stretch ", "supplement "], "A": []}
+{"index": 96630, "D": "to increase; enlarge; lengthen.", "S": ["augment", "economize", "fill", "husband", "increase", "magnify", "stretch", "supplement"], "A": []}

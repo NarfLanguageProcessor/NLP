@@ -1,1 +1,1 @@
-{"index": 114387, "D": "passing swiftly; vanishing quickly; transient; transitory", "S": ["momentarily ", "quickly ", "temporarily "], "A": ["permanently "]}
+{"index": 114387, "D": "passing swiftly; vanishing quickly; transient; transitory", "S": ["momentarily", "quickly", "temporarily"], "A": ["permanently"]}

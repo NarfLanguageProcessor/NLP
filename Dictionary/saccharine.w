@@ -1,1 +1,1 @@
-{"index": 276178, "D": "of the nature of or resembling that of sugar", "S": ["cloying ", "sentimental ", "syrupy "], "A": []}
+{"index": 276178, "D": "of the nature of or resembling that of sugar", "S": ["cloying", "sentimental", "syrupy"], "A": []}

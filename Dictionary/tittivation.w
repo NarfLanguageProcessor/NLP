@@ -1,1 +1,1 @@
-{"index": 324787, "D": "titivate1. ", "S": ["incentive ", "stimulant "], "A": ["discouragement "]}
+{"index": 324787, "D": "titivate1. ", "S": ["incentive", "stimulant"], "A": ["discouragement"]}

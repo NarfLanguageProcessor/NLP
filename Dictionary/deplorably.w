@@ -1,1 +1,1 @@
-{"index": 81679, "D": "causing or being a subject for grief or regret; lamentable", "S": ["badly "], "A": []}
+{"index": 81679, "D": "causing or being a subject for grief or regret; lamentable", "S": ["badly"], "A": []}

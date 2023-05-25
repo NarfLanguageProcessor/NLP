@@ -1,0 +1,1 @@
+{"index": 18074, "D": "belief in, or reliance upon, a priori reasoning, arguments, or principles.", "S": ["assertion", "assumption", "basis", "ground", "presumption", "proposition", "thesis"], "A": ["denial", "reality", "rejection"]}

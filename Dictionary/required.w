@@ -1,1 +1,1 @@
-{"index": 268871, "D": "to have need of; need", "S": ["appropriate ", "compulsory ", "enforced ", "mandatory ", "must-have ", "necessary ", "needed ", "obligatory ", "prescribed ", "recommended ", "requisite ", "vital "], "A": ["optional ", "voluntary "]}
+{"index": 268871, "D": "to have need of; need", "S": ["appropriate", "compulsory", "enforced", "mandatory", "must-have", "necessary", "needed", "obligatory", "prescribed", "recommended", "requisite", "vital"], "A": ["optional", "voluntary"]}

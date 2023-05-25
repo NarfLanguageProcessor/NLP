@@ -1,1 +1,0 @@
-{"index": 369335, "D": "the complex of enzymes obtained from yeast, also occurring in bacteria and other organisms, that acts in alcoholic fermentation and other forms of glycolysis.", "S": [], "A": []}

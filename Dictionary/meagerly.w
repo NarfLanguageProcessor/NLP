@@ -1,1 +1,1 @@
-{"index": 181694, "D": "deficient in quantity or quality; lacking fullness or richness; scanty; inadequate", "S": ["barely ", "inadequately ", "not much ", "skimpily "], "A": []}
+{"index": 181694, "D": "deficient in quantity or quality; lacking fullness or richness; scanty; inadequate", "S": ["barely", "inadequately", "not much", "skimpily"], "A": []}

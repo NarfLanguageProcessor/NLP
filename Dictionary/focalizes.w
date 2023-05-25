@@ -1,1 +1,1 @@
-{"index": 115674, "D": "to bring or come to focus. ", "S": ["attract ", "focus ", "gather ", "intensify ", "meet "], "A": ["divide ", "separate ", "disjoin ", "disperse ", "scatter "]}
+{"index": 115674, "D": "to bring or come to focus. ", "S": ["attract", "focus", "gather", "intensify", "meet"], "A": ["divide", "separate", "disjoin", "disperse", "scatter"]}

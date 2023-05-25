@@ -1,1 +1,1 @@
-{"index": 261746, "D": "the state or quality of being real.", "S": ["basic facts ", "basics ", "cases ", "essential facts ", "essentials ", "facts ", "nitty-gritty ", "the dope ", "the scoop ", "the whole story ", "truth of the matter "], "A": []}
+{"index": 261746, "D": "the state or quality of being real.", "S": ["basic facts", "basics", "cases", "essential facts", "essentials", "facts", "nitty-gritty", "the dope", "the scoop", "the whole story", "truth of the matter"], "A": []}

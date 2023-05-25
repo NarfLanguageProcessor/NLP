@@ -1,1 +1,1 @@
-{"index": 348711, "D": "without complaint or disagreement", "S": ["satisfied "], "A": ["agitated ", "boisterous ", "excited ", "loud ", "rough ", "roused ", "troubled ", "unprepared ", "unwilling ", "violent ", "wild "]}
+{"index": 348711, "D": "without complaint or disagreement", "S": ["satisfied"], "A": ["agitated", "boisterous", "excited", "loud", "rough", "roused", "troubled", "unprepared", "unwilling", "violent", "wild"]}

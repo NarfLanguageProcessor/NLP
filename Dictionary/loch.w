@@ -1,1 +1,1 @@
-{"index": 174322, "D": "a lake.", "S": ["anchorage ", "arm ", "basin ", "bayou ", "bight ", "cove ", "estuary ", "fiord ", "firth ", "gulf ", "harbor ", "inlet ", "lagoon ", "mouth ", "narrows ", "sound ", "strait "], "A": []}
+{"index": 174322, "D": "a lake.", "S": ["anchorage", "arm", "basin", "bayou", "bight", "cove", "estuary", "fiord", "firth", "gulf", "harbor", "inlet", "lagoon", "mouth", "narrows", "sound", "strait"], "A": []}

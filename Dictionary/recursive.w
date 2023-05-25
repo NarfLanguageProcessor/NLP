@@ -1,1 +1,1 @@
-{"index": 263802, "D": "pertaining to or using a rule or procedure that can be applied repeatedly.", "S": ["circular ", "looping ", "recurrent ", "repeated "], "A": ["ending ", "terminating "]}
+{"index": 263802, "D": "pertaining to or using a rule or procedure that can be applied repeatedly.", "S": ["circular", "looping", "recurrent", "repeated"], "A": ["ending", "terminating"]}

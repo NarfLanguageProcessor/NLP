@@ -1,1 +1,1 @@
-{"index": 270979, "D": [], "S": ["certain ", "imminent ", "unavoidable "], "A": ["doubtful "]}
+{"index": 270979, "D": [], "S": ["certain", "imminent", "unavoidable"], "A": ["doubtful"]}

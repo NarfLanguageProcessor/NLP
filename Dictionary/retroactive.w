@@ -1,1 +1,1 @@
-{"index": 270769, "D": "operative with respect to past occurrences, as a statute; retrospective", "S": ["attendant ", "done afterward ", "post factum ", "posterior ", "postmortem ", "retrospective ", "sequent ", "subsequent ", "succeeding "], "A": []}
+{"index": 270769, "D": "operative with respect to past occurrences, as a statute; retrospective", "S": ["attendant", "done afterward", "post factum", "posterior", "postmortem", "retrospective", "sequent", "subsequent", "succeeding"], "A": []}

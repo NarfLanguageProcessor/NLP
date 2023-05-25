@@ -1,1 +1,1 @@
-{"index": 120762, "D": "to talk or chat idly; chatter. ", "S": ["blabber ", "blather ", "buzz ", "chatter ", "gossip ", "jabber ", "jaw ", "prate ", "prattle ", "yak "], "A": ["be quiet "]}
+{"index": 120762, "D": "to talk or chat idly; chatter. ", "S": ["blabber", "blather", "buzz", "chatter", "gossip", "jabber", "jaw", "prate", "prattle", "yak"], "A": ["be quiet"]}

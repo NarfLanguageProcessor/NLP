@@ -1,1 +1,0 @@
-{"index": 270333, "D": "to try or test the flavor or quality of (something) by taking some into the mouth", "S": [], "A": []}

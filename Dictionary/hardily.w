@@ -1,1 +1,1 @@
-{"index": 133677, "D": "in a hardy  manner", "S": ["actively ", "boldly ", "eagerly ", "earnestly ", "firmly ", "forcefully ", "healthily ", "passionately ", "quickly ", "resolutely ", "robustly ", "sincerely ", "strenuously ", "wholeheartedly ", "zealously "], "A": []}
+{"index": 133677, "D": "in a hardy  manner", "S": ["actively", "boldly", "eagerly", "earnestly", "firmly", "forcefully", "healthily", "passionately", "quickly", "resolutely", "robustly", "sincerely", "strenuously", "wholeheartedly", "zealously"], "A": []}

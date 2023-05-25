@@ -1,1 +1,1 @@
-{"index": 159557, "D": "traveling from place to place, especially on a circuit, as a minister, judge, or sales representative; itinerating;  journeying.", "S": ["nomadic ", "peripatetic ", "roving ", "wandering "], "A": ["settled "]}
+{"index": 159557, "D": "traveling from place to place, especially on a circuit, as a minister, judge, or sales representative; itinerating;  journeying.", "S": ["nomadic", "peripatetic", "roving", "wandering"], "A": ["settled"]}

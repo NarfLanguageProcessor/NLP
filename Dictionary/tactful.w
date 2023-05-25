@@ -1,1 +1,1 @@
-{"index": 315118, "D": "having or manifesting tact", "S": ["courteous ", "discreet ", "judicious ", "perceptive ", "polite ", "prudent "], "A": ["careless ", "foolish ", "impolite ", "incautious ", "reckless ", "rude ", "thoughtless ", "uncivil ", "unmannerly ", "unrefined ", "unwise "]}
+{"index": 315118, "D": "having or manifesting tact", "S": ["courteous", "discreet", "judicious", "perceptive", "polite", "prudent"], "A": ["careless", "foolish", "impolite", "incautious", "reckless", "rude", "thoughtless", "uncivil", "unmannerly", "unrefined", "unwise"]}

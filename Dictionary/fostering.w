@@ -1,1 +1,1 @@
-{"index": 117855, "D": "to promote the growth or development of; further; encourage", "S": ["attending ", "cherishing ", "tending "], "A": []}
+{"index": 117855, "D": "to promote the growth or development of; further; encourage", "S": ["attending", "cherishing", "tending"], "A": []}

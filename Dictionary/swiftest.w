@@ -1,1 +1,1 @@
-{"index": 314396, "D": "moving or capable of moving with great speed or velocity; fleet; rapid", "S": ["abrupt ", "expeditious ", "hasty ", "nimble ", "quick ", "rapid ", "speedy ", "sudden ", "unexpected "], "A": ["delayed ", "expected ", "lazy ", "leisurely ", "slow "]}
+{"index": 314396, "D": "moving or capable of moving with great speed or velocity; fleet; rapid", "S": ["abrupt", "expeditious", "hasty", "nimble", "quick", "rapid", "speedy", "sudden", "unexpected"], "A": ["delayed", "expected", "lazy", "leisurely", "slow"]}

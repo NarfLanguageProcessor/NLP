@@ -1,1 +1,1 @@
-{"index": 306929, "D": "the state of being stupefied;  stupor.", "S": ["amazement ", "bewilderment ", "perplexity ", "stupor ", "surprise ", "wonder ", "wonderment "], "A": ["expectation "]}
+{"index": 306929, "D": "the state of being stupefied;  stupor.", "S": ["amazement", "bewilderment", "perplexity", "stupor", "surprise", "wonder", "wonderment"], "A": ["expectation"]}

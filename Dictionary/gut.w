@@ -1,1 +1,1 @@
-{"index": 131583, "D": "Compare foregut, midgut, hindgut. ", "S": ["basic ", "interior ", "intimate ", "natural "], "A": ["outside "]}
+{"index": 131583, "D": "Compare foregut, midgut, hindgut. ", "S": ["basic", "interior", "intimate", "natural"], "A": ["outside"]}

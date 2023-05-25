@@ -1,1 +1,1 @@
-{"index": 252948, "D": [], "S": ["adjourn ", "break off ", "break up ", "dissolve ", "terminate "], "A": ["begin ", "open ", "start "]}
+{"index": 252948, "D": [], "S": ["adjourn", "break off", "break up", "dissolve", "terminate"], "A": ["begin", "open", "start"]}

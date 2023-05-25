@@ -1,1 +1,1 @@
-{"index": 266086, "D": "the period during which a sovereign occupies the throne.", "S": ["dynasty ", "regime ", "tenure "], "A": ["impotence ", "incapacity ", "inferiority ", "powerlessness ", "subordination ", "subservience ", "weakness "]}
+{"index": 266086, "D": "the period during which a sovereign occupies the throne.", "S": ["dynasty", "regime", "tenure"], "A": ["impotence", "incapacity", "inferiority", "powerlessness", "subordination", "subservience", "weakness"]}

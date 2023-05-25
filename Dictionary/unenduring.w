@@ -1,1 +1,1 @@
-{"index": 341268, "D": "lasting; permanent", "S": ["fleeting ", "short-lived ", "transitory "], "A": ["enduring ", "lasting ", "lengthy ", "long-lived ", "permanent ", "perpetual ", "long "]}
+{"index": 341268, "D": "lasting; permanent", "S": ["fleeting", "short-lived", "transitory"], "A": ["enduring", "lasting", "lengthy", "long-lived", "permanent", "perpetual", "long"]}

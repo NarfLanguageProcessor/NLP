@@ -1,1 +1,1 @@
-{"index": 109994, "D": "land  under cultivation or capable of being cultivated", "S": ["province "], "A": ["city ", "metropolis ", "urbanity "]}
+{"index": 109994, "D": "land  under cultivation or capable of being cultivated", "S": ["province"], "A": ["city", "metropolis", "urbanity"]}

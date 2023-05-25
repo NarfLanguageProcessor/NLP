@@ -1,1 +1,1 @@
-{"index": 17832, "D": "ornamentation, as a cutout design, that is sewn on to or otherwise applied to a piece of material.", "S": ["mesh ", "ornament "], "A": []}
+{"index": 17832, "D": "ornamentation, as a cutout design, that is sewn on to or otherwise applied to a piece of material.", "S": ["mesh", "ornament"], "A": []}

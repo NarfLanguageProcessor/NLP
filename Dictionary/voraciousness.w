@@ -1,1 +1,1 @@
-{"index": 361354, "D": "craving or consuming large quantities of food", "S": ["hunger ", "voracity "], "A": []}
+{"index": 361354, "D": "craving or consuming large quantities of food", "S": ["hunger", "voracity"], "A": []}

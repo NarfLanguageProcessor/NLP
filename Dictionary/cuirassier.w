@@ -1,1 +1,1 @@
-{"index": 74662, "D": "a cavalry soldier wearing a cuirass. ", "S": ["squadron "], "A": []}
+{"index": 74662, "D": "a cavalry soldier wearing a cuirass. ", "S": ["squadron"], "A": []}

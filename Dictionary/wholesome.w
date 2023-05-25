@@ -1,1 +1,1 @@
-{"index": 365298, "D": "conducive to moral or general well-being; salutary; beneficial", "S": ["healthful ", "hygienic ", "pure "], "A": ["contaminated ", "dirty "]}
+{"index": 365298, "D": "conducive to moral or general well-being; salutary; beneficial", "S": ["healthful", "hygienic", "pure"], "A": ["contaminated", "dirty"]}

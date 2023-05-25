@@ -1,1 +1,1 @@
-{"index": 192044, "D": "a frivolous or mischievous prank; monkey business. ", "S": ["escapade ", "gag ", "gambol ", "hop ", "jest ", "joke ", "jump ", "leap ", "mischief ", "prank ", "revel ", "rib ", "rollick ", "shenanigan ", "sport ", "stunt ", "tomfoolery ", "trick "], "A": ["seriousness "]}
+{"index": 192044, "D": "a frivolous or mischievous prank; monkey business. ", "S": ["escapade", "gag", "gambol", "hop", "jest", "joke", "jump", "leap", "mischief", "prank", "revel", "rib", "rollick", "shenanigan", "sport", "stunt", "tomfoolery", "trick"], "A": ["seriousness"]}

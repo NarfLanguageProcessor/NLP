@@ -1,1 +1,0 @@
-{"index": 203834, "D": "tending or serving to explode", "S": [], "A": []}

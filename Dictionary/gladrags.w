@@ -1,1 +1,1 @@
-{"index": 125826, "D": [], "S": ["Sunday best ", "Sunday-go-to-meeting clothes ", "best bib and tucker ", "dressy clothes ", "ostrich feathers ", "party dress "], "A": []}
+{"index": 125826, "D": [], "S": ["Sunday best", "Sunday-go-to-meeting clothes", "best bib and tucker", "dressy clothes", "ostrich feathers", "party dress"], "A": []}

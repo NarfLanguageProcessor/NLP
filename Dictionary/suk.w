@@ -1,1 +1,0 @@
-{"index": 310341, "D": "(especially in the Arab countries) the market, especially the traditional bazaar.", "S": [], "A": []}

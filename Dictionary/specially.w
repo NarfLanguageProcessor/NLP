@@ -1,1 +1,1 @@
-{"index": 298760, "D": "in a distinct or particular way; uniquely", "S": ["especially ", "expressly ", "specifically ", "uniquely "], "A": ["generally "]}
+{"index": 298760, "D": "in a distinct or particular way; uniquely", "S": ["especially", "expressly", "specifically", "uniquely"], "A": ["generally"]}

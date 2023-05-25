@@ -1,1 +1,1 @@
-{"index": 154199, "D": "not tangible; incapable of being perceived by the sense of touch, as incorporeal or immaterial things; impalpable.", "S": ["ethereal ", "unreal "], "A": ["factual ", "real "]}
+{"index": 154199, "D": "not tangible; incapable of being perceived by the sense of touch, as incorporeal or immaterial things; impalpable.", "S": ["ethereal", "unreal"], "A": ["factual", "real"]}

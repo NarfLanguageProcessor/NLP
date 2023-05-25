@@ -1,1 +1,1 @@
-{"index": 51351, "D": "of, relating to, or belonging to the primate superfamily Cercopithecoidea (Old World monkeys)", "S": ["anthropoid ", "ape ", "baboon ", "chimpanzee ", "gibbon ", "gorilla ", "human ", "lemur ", "man ", "monkey ", "orangutan "], "A": []}
+{"index": 51351, "D": "of, relating to, or belonging to the primate superfamily Cercopithecoidea (Old World monkeys)", "S": ["anthropoid", "ape", "baboon", "chimpanzee", "gibbon", "gorilla", "human", "lemur", "man", "monkey", "orangutan"], "A": []}

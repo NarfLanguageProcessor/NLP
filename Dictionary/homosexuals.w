@@ -1,1 +1,1 @@
-{"index": 143243, "D": "sexually attracted to people of one's own sex or gender; gay", "S": ["homoerotic ", "lesbian "], "A": []}
+{"index": 143243, "D": "sexually attracted to people of one's own sex or gender; gay", "S": ["homoerotic", "lesbian"], "A": []}

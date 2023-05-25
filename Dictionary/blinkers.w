@@ -1,1 +1,1 @@
-{"index": 36256, "D": "Usual US and Canadian word", "S": ["bifocals ", "cheaters ", "eyeglasses ", "frames ", "goggles ", "lorgnette ", "pince-nez ", "rims ", "shades ", "specs ", "spectacles "], "A": []}
+{"index": 36256, "D": "Usual US and Canadian word", "S": ["bifocals", "cheaters", "eyeglasses", "frames", "goggles", "lorgnette", "pince-nez", "rims", "shades", "specs", "spectacles"], "A": []}

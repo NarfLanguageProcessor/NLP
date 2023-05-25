@@ -1,1 +1,1 @@
-{"index": 357871, "D": "a vehicle, usually having two or three wheels, that is propelled by the rider.", "S": ["bike "], "A": []}
+{"index": 357871, "D": "a vehicle, usually having two or three wheels, that is propelled by the rider.", "S": ["bike"], "A": []}

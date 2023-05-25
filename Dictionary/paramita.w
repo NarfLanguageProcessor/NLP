@@ -1,1 +1,0 @@
-{"index": 225848, "D": "any of the practices prescribed for one aspiring to nirvana.", "S": [], "A": []}

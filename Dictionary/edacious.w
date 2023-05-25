@@ -1,1 +1,1 @@
-{"index": 95640, "D": "devouring; voracious; consuming.", "S": ["devouring ", "esurient ", "gluttonous ", "greedy ", "hoggish ", "insatiable ", "rapacious ", "ravening ", "ravenous ", "unappeasable "], "A": []}
+{"index": 95640, "D": "devouring; voracious; consuming.", "S": ["devouring", "esurient", "gluttonous", "greedy", "hoggish", "insatiable", "rapacious", "ravening", "ravenous", "unappeasable"], "A": []}

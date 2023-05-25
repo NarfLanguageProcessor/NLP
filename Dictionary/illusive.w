@@ -1,1 +1,1 @@
-{"index": 147513, "D": "illusory. ", "S": ["apparent ", "chimerical ", "deceitful ", "delusive ", "fake ", "false ", "illusory ", "imaginary ", "misleading ", "mocking ", "seeming ", "sham ", "unread "], "A": ["real "]}
+{"index": 147513, "D": "illusory. ", "S": ["apparent", "chimerical", "deceitful", "delusive", "fake", "false", "illusory", "imaginary", "misleading", "mocking", "seeming", "sham", "unread"], "A": ["real"]}

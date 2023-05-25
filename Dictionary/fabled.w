@@ -1,1 +1,1 @@
-{"index": 108881, "D": "celebrated in fables", "S": ["fabulous ", "famed ", "famous ", "fictional ", "mythical ", "storied "], "A": ["unheard of ", "unknown "]}
+{"index": 108881, "D": "celebrated in fables", "S": ["fabulous", "famed", "famous", "fictional", "mythical", "storied"], "A": ["unheard of", "unknown"]}

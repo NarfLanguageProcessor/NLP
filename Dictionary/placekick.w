@@ -1,1 +1,1 @@
-{"index": 238547, "D": "Compare drop kick, punt1 (def. 1). ", "S": ["boot ", "free kick ", "kick ", "onside kick ", "squib kick "], "A": []}
+{"index": 238547, "D": "Compare drop kick, punt1 (def. 1). ", "S": ["boot", "free kick", "kick", "onside kick", "squib kick"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 162459, "D": "a juror.", "S": ["hearer ", "jurywoman ", "peer "], "A": []}
+{"index": 162459, "D": "a juror.", "S": ["hearer", "jurywoman", "peer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 84215, "D": "a plate, disk, face, or other surface containing markings or figures upon which the time of day is indicated by hands, pointers, or shadows, as of a clock or sundial. ", "S": ["punch ", "ring ", "rotate ", "turn ", "twist ", "wheel "], "A": []}
+{"index": 84215, "D": "a plate, disk, face, or other surface containing markings or figures upon which the time of day is indicated by hands, pointers, or shadows, as of a clock or sundial. ", "S": ["punch", "ring", "rotate", "turn", "twist", "wheel"], "A": []}

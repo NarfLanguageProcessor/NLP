@@ -1,1 +1,1 @@
-{"index": 26334, "D": "a brothel.", "S": ["bordello ", "red-light district "], "A": []}
+{"index": 26334, "D": "a brothel.", "S": ["bordello", "red-light district"], "A": []}

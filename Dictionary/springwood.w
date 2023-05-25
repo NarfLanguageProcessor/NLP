@@ -1,1 +1,0 @@
-{"index": 301338, "D": "the part of an annual ring of wood,  characterized by large, thin-walled cells, formed during the first part of the growing season.", "S": [], "A": []}

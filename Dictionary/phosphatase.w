@@ -1,1 +1,0 @@
-{"index": 234834, "D": "any of several classes of esterases of varying specificity that catalyze the hydrolysis of phosphoric esters.", "S": [], "A": []}

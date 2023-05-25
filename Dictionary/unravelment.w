@@ -1,1 +1,1 @@
-{"index": 349076, "D": "to separate or disentangle the threads of (a woven or knitted fabric, a rope, etc.).", "S": ["description ", "interpretation ", "resolution ", "simplification "], "A": ["complication ", "misunderstanding ", "muddle "]}
+{"index": 349076, "D": "to separate or disentangle the threads of (a woven or knitted fabric, a rope, etc.).", "S": ["description", "interpretation", "resolution", "simplification"], "A": ["complication", "misunderstanding", "muddle"]}

@@ -1,1 +1,1 @@
-{"index": 27059, "D": "the testicles", "S": ["arrogance ", "audacity ", "boldness ", "gall "], "A": ["humility ", "meekness ", "modesty "]}
+{"index": 27059, "D": "the testicles", "S": ["arrogance", "audacity", "boldness", "gall"], "A": ["humility", "meekness", "modesty"]}

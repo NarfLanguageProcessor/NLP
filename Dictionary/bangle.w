@@ -1,1 +1,1 @@
-{"index": 27434, "D": "a rigid, ring-shaped bracelet usually made without a clasp so as to slip over the hand, but sometimes having a hinged opening and a clasp.", "S": ["bracelet ", "charm ", "droop ", "fritter ", "knickknack ", "ornament ", "tinsel ", "waste "], "A": []}
+{"index": 27434, "D": "a rigid, ring-shaped bracelet usually made without a clasp so as to slip over the hand, but sometimes having a hinged opening and a clasp.", "S": ["bracelet", "charm", "droop", "fritter", "knickknack", "ornament", "tinsel", "waste"], "A": []}

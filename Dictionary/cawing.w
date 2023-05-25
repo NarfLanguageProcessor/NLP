@@ -1,1 +1,1 @@
-{"index": 50265, "D": "the harsh, grating cry of the crow, raven, etc.", "S": ["cackle ", "hoot ", "screech ", "yap "], "A": ["compliment ", "praise "]}
+{"index": 50265, "D": "the harsh, grating cry of the crow, raven, etc.", "S": ["cackle", "hoot", "screech", "yap"], "A": ["compliment", "praise"]}

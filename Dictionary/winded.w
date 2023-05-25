@@ -1,1 +1,1 @@
-{"index": 365933, "D": "out of breath.", "S": ["gasping ", "panting ", "puffing "], "A": []}
+{"index": 365933, "D": "out of breath.", "S": ["gasping", "panting", "puffing"], "A": []}

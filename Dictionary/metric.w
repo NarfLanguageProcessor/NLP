@@ -1,1 +1,1 @@
-{"index": 185395, "D": "pertaining to the meter  or to the metric system. ", "S": ["cadent ", "measured ", "metrical ", "rhythmic "], "A": []}
+{"index": 185395, "D": "pertaining to the meter  or to the metric system. ", "S": ["cadent", "measured", "metrical", "rhythmic"], "A": []}

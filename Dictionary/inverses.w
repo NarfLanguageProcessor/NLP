@@ -1,1 +1,1 @@
-{"index": 157134, "D": "reversed in position, order, direction, or tendency.", "S": ["antithesis ", "renunciation ", "repudiation "], "A": ["OK ", "allowance ", "approval ", "permission ", "ratification ", "same ", "sanction ", "similarity "]}
+{"index": 157134, "D": "reversed in position, order, direction, or tendency.", "S": ["antithesis", "renunciation", "repudiation"], "A": ["OK", "allowance", "approval", "permission", "ratification", "same", "sanction", "similarity"]}

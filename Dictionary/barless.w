@@ -1,0 +1,1 @@
+{"index": 28095, "D": "a relatively long, evenly shaped piece of some solid substance, as metal or wood, used as a guard or obstruction or for some mechanical purpose", "S": [], "A": []}

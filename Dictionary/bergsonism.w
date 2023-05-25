@@ -1,0 +1,1 @@
+{"index": 32068, "D": "the philosophy of Bergson,  emphasizing duration as the central fact of experience and asserting the existence of the \u00e9lan vital as an original life force essentially governing all organic processes.", "S": [], "A": []}

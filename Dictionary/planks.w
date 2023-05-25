@@ -1,1 +1,1 @@
-{"index": 239012, "D": "a long, flat piece of timber, thicker than a board.", "S": ["carpet ", "carpeting ", "linoleum ", "tile ", "woodwork "], "A": []}
+{"index": 239012, "D": "a long, flat piece of timber, thicker than a board.", "S": ["carpet", "carpeting", "linoleum", "tile", "woodwork"], "A": []}

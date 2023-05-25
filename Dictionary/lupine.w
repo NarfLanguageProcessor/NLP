@@ -1,1 +1,1 @@
-{"index": 176296, "D": "any of numerous plants belonging to the genus Lupinus, of the legume family, as L. albus(white lupine ), of Europe, bearing edible seeds, or L. perennis, of the eastern U.S., having tall, dense clusters of blue, pink, or white flowers.", "S": ["plant "], "A": []}
+{"index": 176296, "D": "any of numerous plants belonging to the genus Lupinus, of the legume family, as L. albus(white lupine ), of Europe, bearing edible seeds, or L. perennis, of the eastern U.S., having tall, dense clusters of blue, pink, or white flowers.", "S": ["plant"], "A": []}

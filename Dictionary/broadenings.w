@@ -1,1 +1,1 @@
-{"index": 41063, "D": [], "S": ["advancing ", "enlightening ", "enriching ", "expanding ", "improving ", "refining "], "A": []}
+{"index": 41063, "D": [], "S": ["advancing", "enlightening", "enriching", "expanding", "improving", "refining"], "A": []}

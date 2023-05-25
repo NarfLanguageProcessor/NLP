@@ -1,1 +1,1 @@
-{"index": 250379, "D": "a sharp point.", "S": ["biting ", "caustic ", "irritating ", "piercing ", "reeking ", "sharp ", "smarting ", "tingling "], "A": ["bland ", "calm ", "kind ", "mild ", "nice "]}
+{"index": 250379, "D": "a sharp point.", "S": ["biting", "caustic", "irritating", "piercing", "reeking", "sharp", "smarting", "tingling"], "A": ["bland", "calm", "kind", "mild", "nice"]}

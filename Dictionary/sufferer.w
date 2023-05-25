@@ -1,1 +1,1 @@
-{"index": 310098, "D": "to undergo or feel pain or distress", "S": ["dead ", "fatality ", "injured ", "loss ", "wounded "], "A": []}
+{"index": 310098, "D": "to undergo or feel pain or distress", "S": ["dead", "fatality", "injured", "loss", "wounded"], "A": []}

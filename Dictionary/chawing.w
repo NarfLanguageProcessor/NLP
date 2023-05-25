@@ -1,1 +1,1 @@
-{"index": 53239, "D": "chew. ", "S": ["bite ", "champ ", "chomp ", "chump ", "gnash ", "gnaw ", "grind ", "manducate ", "masticate ", "munch "], "A": []}
+{"index": 53239, "D": "chew. ", "S": ["bite", "champ", "chomp", "chump", "gnash", "gnaw", "grind", "manducate", "masticate", "munch"], "A": []}

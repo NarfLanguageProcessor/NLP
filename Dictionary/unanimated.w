@@ -1,1 +1,1 @@
-{"index": 334994, "D": "full of life, action, or spirit; lively; vigorous", "S": ["dreary ", "dry ", "flat ", "lifeless "], "A": ["lively "]}
+{"index": 334994, "D": "full of life, action, or spirit; lively; vigorous", "S": ["dreary", "dry", "flat", "lifeless"], "A": ["lively"]}

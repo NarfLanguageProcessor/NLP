@@ -1,1 +1,1 @@
-{"index": 193995, "D": "to provide with a motive,  or a cause or reason to act; incite; impel. ", "S": ["consumed ", "directed ", "forced ", "galvanized ", "guided ", "herded ", "impelled ", "induced ", "obsessed ", "possessed ", "pushed ", "steered "], "A": []}
+{"index": 193995, "D": "to provide with a motive,  or a cause or reason to act; incite; impel. ", "S": ["consumed", "directed", "forced", "galvanized", "guided", "herded", "impelled", "induced", "obsessed", "possessed", "pushed", "steered"], "A": []}

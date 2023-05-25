@@ -1,1 +1,1 @@
-{"index": 249889, "D": "the laying of a claim to something.", "S": ["airs ", "swank ", "vain pretensions ", "vaporing "], "A": []}
+{"index": 249889, "D": "the laying of a claim to something.", "S": ["airs", "swank", "vain pretensions", "vaporing"], "A": []}

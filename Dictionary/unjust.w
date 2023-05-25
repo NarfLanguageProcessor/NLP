@@ -1,1 +1,1 @@
-{"index": 345251, "D": "not just;  lacking in justice or fairness", "S": ["biased ", "inequitable ", "one-sided ", "partisan ", "prejudiced ", "unfair ", "unjustified ", "wrong ", "wrongful "], "A": ["fair ", "good ", "honest ", "impartial ", "just ", "unbiased ", "unprejudiced "]}
+{"index": 345251, "D": "not just;  lacking in justice or fairness", "S": ["biased", "inequitable", "one-sided", "partisan", "prejudiced", "unfair", "unjustified", "wrong", "wrongful"], "A": ["fair", "good", "honest", "impartial", "just", "unbiased", "unprejudiced"]}

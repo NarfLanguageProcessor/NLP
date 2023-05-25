@@ -1,1 +1,1 @@
-{"index": 236272, "D": "a male character in certain French pantomime, having a whitened face and wearing a loose, white, fancy costume.", "S": ["buffoon ", "comedian ", "comic ", "fool ", "jester ", "mime ", "prankster "], "A": []}
+{"index": 236272, "D": "a male character in certain French pantomime, having a whitened face and wearing a loose, white, fancy costume.", "S": ["buffoon", "comedian", "comic", "fool", "jester", "mime", "prankster"], "A": []}

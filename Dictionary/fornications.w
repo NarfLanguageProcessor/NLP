@@ -1,1 +1,1 @@
-{"index": 117547, "D": "voluntary sexual intercourse between two unmarried persons or two persons not married to each other.", "S": ["coition ", "coitus ", "copulation ", "intimacy ", "lovemaking ", "relations ", "sex "], "A": []}
+{"index": 117547, "D": "voluntary sexual intercourse between two unmarried persons or two persons not married to each other.", "S": ["coition", "coitus", "copulation", "intimacy", "lovemaking", "relations", "sex"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 120571, "D": "a wooden friction match having a large head, formerly used when a larger than normal flame was needed.", "S": ["Congreve ", "Congreve match ", "Vesta ", "locofoco ", "lucifer match ", "safety match ", "vesuvian "], "A": []}
+{"index": 120571, "D": "a wooden friction match having a large head, formerly used when a larger than normal flame was needed.", "S": ["Congreve", "Congreve match", "Vesta", "locofoco", "lucifer match", "safety match", "vesuvian"], "A": []}

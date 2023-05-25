@@ -1,1 +1,1 @@
-{"index": 199419, "D": "the fact or condition of having been only recently produced, purchased, discovered or learned about, etc.", "S": ["novelty ", "uniqueness "], "A": []}
+{"index": 199419, "D": "the fact or condition of having been only recently produced, purchased, discovered or learned about, etc.", "S": ["novelty", "uniqueness"], "A": []}

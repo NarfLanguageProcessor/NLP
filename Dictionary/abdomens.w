@@ -1,1 +1,1 @@
-{"index": 261, "D": "(in nonmammalian vertebrates) a region of the body corresponding to, but not coincident with, this part or cavity.", "S": ["belly ", "gut ", "midriff ", "midsection ", "tummy "], "A": []}
+{"index": 261, "D": "(in nonmammalian vertebrates) a region of the body corresponding to, but not coincident with, this part or cavity.", "S": ["belly", "gut", "midriff", "midsection", "tummy"], "A": []}

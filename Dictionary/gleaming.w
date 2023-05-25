@@ -1,1 +1,1 @@
-{"index": 126083, "D": "giving off or appearing to give off light or brightness; radiant; shining", "S": ["bright ", "burnished ", "glassy ", "glazed ", "glistening ", "lustrous ", "polished ", "shining ", "shiny ", "sleek "], "A": ["dark ", "dull ", "gloomy ", "rough ", "coarse "]}
+{"index": 126083, "D": "giving off or appearing to give off light or brightness; radiant; shining", "S": ["bright", "burnished", "glassy", "glazed", "glistening", "lustrous", "polished", "shining", "shiny", "sleek"], "A": ["dark", "dull", "gloomy", "rough", "coarse"]}

@@ -1,1 +1,1 @@
-{"index": 277136, "D": "of a sickly, yellowish or lightish brown color", "S": ["colorlessness ", "etiolation ", "pallidity ", "wanness ", "whiteness "], "A": []}
+{"index": 277136, "D": "of a sickly, yellowish or lightish brown color", "S": ["colorlessness", "etiolation", "pallidity", "wanness", "whiteness"], "A": []}

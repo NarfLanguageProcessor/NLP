@@ -1,1 +1,1 @@
-{"index": 336313, "D": "to free from a burden. ", "S": ["accessible ", "clear ", "free ", "susceptible ", "wide "], "A": ["hindered ", "limited ", "restricted ", "concealed "]}
+{"index": 336313, "D": "to free from a burden. ", "S": ["accessible", "clear", "free", "susceptible", "wide"], "A": ["hindered", "limited", "restricted", "concealed"]}

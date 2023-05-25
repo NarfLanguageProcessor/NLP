@@ -1,1 +1,1 @@
-{"index": 289435, "D": "a device in a loom for passing or shooting the weft thread through the shed from one side of the web to the other, usually consisting of a boat-shaped piece of wood containing a bobbin on which the weft thread is wound.", "S": ["commute "], "A": []}
+{"index": 289435, "D": "a device in a loom for passing or shooting the weft thread through the shed from one side of the web to the other, usually consisting of a boat-shaped piece of wood containing a bobbin on which the weft thread is wound.", "S": ["commute"], "A": []}

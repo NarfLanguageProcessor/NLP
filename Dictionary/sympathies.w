@@ -1,1 +1,1 @@
-{"index": 290946, "D": "the act or state of feeling sorrow or compassion for another", "S": ["affections ", "center ", "circle ", "conscience ", "emotions ", "feelings ", "inside ", "interior ", "sentiments ", "soul ", "spirit "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 290946, "D": "the act or state of feeling sorrow or compassion for another", "S": ["affections", "center", "circle", "conscience", "emotions", "feelings", "inside", "interior", "sentiments", "soul", "spirit"], "A": ["exterior", "exteriority", "outside"]}

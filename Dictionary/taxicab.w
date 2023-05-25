@@ -1,1 +1,1 @@
-{"index": 317307, "D": "a public passenger vehicle, especially an automobile, usually fitted with a taximeter. ", "S": ["carriage ", "taxi "], "A": []}
+{"index": 317307, "D": "a public passenger vehicle, especially an automobile, usually fitted with a taximeter. ", "S": ["carriage", "taxi"], "A": []}

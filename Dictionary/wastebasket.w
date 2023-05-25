@@ -1,1 +1,1 @@
-{"index": 362980, "D": "a standing basket  for wastepaper, small items of trash, etc.", "S": ["dustbin ", "garbage pail ", "litter basket ", "trash barrel ", "trash bin ", "trash can ", "wastebin ", "wastepaper basket "], "A": []}
+{"index": 362980, "D": "a standing basket  for wastepaper, small items of trash, etc.", "S": ["dustbin", "garbage pail", "litter basket", "trash barrel", "trash bin", "trash can", "wastebin", "wastepaper basket"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 276841, "D": [], "S": ["angelic ", "born-again ", "celestial ", "charismatic ", "deific ", "devout ", "divine ", "god-fearing ", "good ", "holy ", "pietistic ", "pious ", "prayerful ", "righteous ", "saintly ", "virtuous "], "A": ["godless ", "hellish ", "impious ", "irreligious ", "sacrilegious ", "sinful ", "ungodly ", "wicked "]}

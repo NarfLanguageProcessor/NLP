@@ -1,1 +1,1 @@
-{"index": 31705, "D": "U.S. political leader.", "S": ["bound ", "dead set on ", "determined ", "determined upon ", "fixed ", "fixed upon ", "intent ", "intent on ", "out to ", "set on "], "A": []}
+{"index": 31705, "D": "U.S. political leader.", "S": ["bound", "dead set on", "determined", "determined upon", "fixed", "fixed upon", "intent", "intent on", "out to", "set on"], "A": []}

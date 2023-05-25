@@ -1,1 +1,1 @@
-{"index": 194247, "D": "Mountie. ", "S": ["captain ", "deputy ", "detective ", "police ", "police officer "], "A": []}
+{"index": 194247, "D": "Mountie. ", "S": ["captain", "deputy", "detective", "police", "police officer"], "A": []}

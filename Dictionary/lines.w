@@ -1,1 +1,1 @@
-{"index": 172800, "D": "a car with fine lines", "S": ["curve ", "silhouette "], "A": []}
+{"index": 172800, "D": "a car with fine lines", "S": ["curve", "silhouette"], "A": []}

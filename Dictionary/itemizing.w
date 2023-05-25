@@ -1,1 +1,1 @@
-{"index": 159513, "D": "to state by items;  give the particulars of; list the individual units or parts of", "S": ["enumerate "], "A": ["conceal ", "estimate ", "guess ", "hide "]}
+{"index": 159513, "D": "to state by items;  give the particulars of; list the individual units or parts of", "S": ["enumerate"], "A": ["conceal", "estimate", "guess", "hide"]}

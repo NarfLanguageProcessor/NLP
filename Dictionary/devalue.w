@@ -1,1 +1,1 @@
-{"index": 83443, "D": "to deprive of value;  reduce the value  of.", "S": ["decrease ", "devaluate ", "lower ", "revalue ", "undervalue "], "A": ["increase ", "praise ", "raise ", "enhance ", "laud ", "upgrade "]}
+{"index": 83443, "D": "to deprive of value;  reduce the value  of.", "S": ["decrease", "devaluate", "lower", "revalue", "undervalue"], "A": ["increase", "praise", "raise", "enhance", "laud", "upgrade"]}

@@ -1,0 +1,1 @@
+{"index": 32077, "D": "adorned with ribbons.", "S": ["adorn", "dress", "embroider"], "A": ["deface", "disfigure", "harm", "mar", "spoil"]}

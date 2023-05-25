@@ -1,1 +1,1 @@
-{"index": 271806, "D": "extravagantly enthusiastic; ecstatic.", "S": ["ecstatic ", "elated "], "A": ["sorrowful ", "unhappy "]}
+{"index": 271806, "D": "extravagantly enthusiastic; ecstatic.", "S": ["ecstatic", "elated"], "A": ["sorrowful", "unhappy"]}

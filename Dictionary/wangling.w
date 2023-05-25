@@ -1,1 +1,1 @@
-{"index": 362406, "D": "to bring about, accomplish, or obtain by scheming or underhand methods", "S": ["wriggle "], "A": ["leave alone "]}
+{"index": 362406, "D": "to bring about, accomplish, or obtain by scheming or underhand methods", "S": ["wriggle"], "A": ["leave alone"]}

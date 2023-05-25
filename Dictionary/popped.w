@@ -1,1 +1,1 @@
-{"index": 243268, "D": "to make a short, quick, explosive sound", "S": ["appear ", "bang ", "blow ", "crack ", "dart ", "explode ", "hit ", "insert ", "leap ", "put ", "shove ", "snap ", "stick ", "thrust ", "whack "], "A": ["displace ", "fix ", "pull ", "remove ", "conceal ", "suppress "]}
+{"index": 243268, "D": "to make a short, quick, explosive sound", "S": ["appear", "bang", "blow", "crack", "dart", "explode", "hit", "insert", "leap", "put", "shove", "snap", "stick", "thrust", "whack"], "A": ["displace", "fix", "pull", "remove", "conceal", "suppress"]}

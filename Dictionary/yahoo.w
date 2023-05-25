@@ -1,1 +1,1 @@
-{"index": 145532, "D": "(an exclamation used to express joy, excitement, etc.)", "S": ["barbarian ", "beast ", "boor ", "brute ", "lout ", "roughneck "], "A": []}
+{"index": 145532, "D": "(an exclamation used to express joy, excitement, etc.)", "S": ["barbarian", "beast", "boor", "brute", "lout", "roughneck"], "A": []}

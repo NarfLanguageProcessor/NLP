@@ -1,1 +1,1 @@
-{"index": 38563, "D": "absurd or foolish talk; nonsense.", "S": ["bull ", "bunk ", "claptrap ", "crock ", "drivel ", "flummery ", "fudge ", "fustian ", "jargon ", "malarkey ", "moonshine ", "poppycock ", "rigmarole ", "rot ", "trash ", "tripe ", "twaddle "], "A": ["sense ", "truth "]}
+{"index": 38563, "D": "absurd or foolish talk; nonsense.", "S": ["bull", "bunk", "claptrap", "crock", "drivel", "flummery", "fudge", "fustian", "jargon", "malarkey", "moonshine", "poppycock", "rigmarole", "rot", "trash", "tripe", "twaddle"], "A": ["sense", "truth"]}

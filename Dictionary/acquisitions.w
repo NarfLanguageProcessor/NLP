@@ -1,1 +1,1 @@
-{"index": 2753, "D": "the act of acquiring  or gaining possession", "S": ["addition ", "gain ", "procurement ", "purchase ", "recovery "], "A": ["loss ", "failure ", "forfeit ", "surrender "]}
+{"index": 2753, "D": "the act of acquiring  or gaining possession", "S": ["addition", "gain", "procurement", "purchase", "recovery"], "A": ["loss", "failure", "forfeit", "surrender"]}

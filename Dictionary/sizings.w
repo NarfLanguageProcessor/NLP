@@ -1,1 +1,1 @@
-{"index": 292787, "D": "the act or process of applying size  or preparing with size. ", "S": ["sizing ", "stiffening "], "A": []}
+{"index": 292787, "D": "the act or process of applying size  or preparing with size. ", "S": ["sizing", "stiffening"], "A": []}

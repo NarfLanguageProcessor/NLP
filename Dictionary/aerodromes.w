@@ -1,1 +1,1 @@
-{"index": 4999, "D": "airdrome. ", "S": ["air base ", "airfield ", "airstrip "], "A": []}
+{"index": 4999, "D": "airdrome. ", "S": ["air base", "airfield", "airstrip"], "A": []}

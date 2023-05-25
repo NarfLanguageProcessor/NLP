@@ -1,1 +1,1 @@
-{"index": 365719, "D": "undomesticated animals living in the wild,  including those hunted for food, sport, or profit.", "S": ["body ", "existence ", "growth ", "living ", "man ", "person ", "soul ", "survival ", "woman "], "A": ["abstract ", "concept ", "inanimate "]}
+{"index": 365719, "D": "undomesticated animals living in the wild,  including those hunted for food, sport, or profit.", "S": ["body", "existence", "growth", "living", "man", "person", "soul", "survival", "woman"], "A": ["abstract", "concept", "inanimate"]}

@@ -1,1 +1,1 @@
-{"index": 17561, "D": "a member of an apparat, especially in a Communist country.", "S": ["Bolshevik ", "Bolshevist ", "Commie ", "Maoist ", "Marxist ", "Stalinist ", "Trotskyite ", "comrade ", "leftist ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}
+{"index": 17561, "D": "a member of an apparat, especially in a Communist country.", "S": ["Bolshevik", "Bolshevist", "Commie", "Maoist", "Marxist", "Stalinist", "Trotskyite", "comrade", "leftist", "red", "socialist", "sympathizer"], "A": ["capitalist", "conservative", "fascist"]}

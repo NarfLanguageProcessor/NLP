@@ -1,1 +1,1 @@
-{"index": 87976, "D": "to free or become free from entanglement; untangle; extricate (often followed by from).", "S": ["disconnection ", "separation ", "withdrawal "], "A": []}
+{"index": 87976, "D": "to free or become free from entanglement; untangle; extricate (often followed by from).", "S": ["disconnection", "separation", "withdrawal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 247249, "D": "the act or right of claiming or purchasing before or in preference to others.", "S": ["appropriation ", "arrogation ", "assumption ", "infringement ", "seizure ", "taking "], "A": []}
+{"index": 247249, "D": "the act or right of claiming or purchasing before or in preference to others.", "S": ["appropriation", "arrogation", "assumption", "infringement", "seizure", "taking"], "A": []}

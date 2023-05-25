@@ -1,1 +1,1 @@
-{"index": 115278, "D": "light, downy particles, as of cotton.", "S": ["fuzz ", "lint "], "A": []}
+{"index": 115278, "D": "light, downy particles, as of cotton.", "S": ["fuzz", "lint"], "A": []}

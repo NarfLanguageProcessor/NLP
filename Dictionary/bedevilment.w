@@ -1,0 +1,1 @@
+{"index": 30048, "D": "to torment or harass maliciously or diabolically, as with doubts, distractions, or worries.", "S": ["molestation", "persecution", "provocation"], "A": ["aid", "comfort", "contentment", "delight", "happiness", "help", "joy", "peace", "pleasure"]}

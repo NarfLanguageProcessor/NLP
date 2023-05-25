@@ -1,1 +1,1 @@
-{"index": 145316, "D": "a married man, especially when considered in relation to his partner in marriage.", "S": ["eligible ", "widowed "], "A": ["married ", "wed "]}
+{"index": 145316, "D": "a married man, especially when considered in relation to his partner in marriage.", "S": ["eligible", "widowed"], "A": ["married", "wed"]}

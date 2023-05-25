@@ -1,1 +1,1 @@
-{"index": 81195, "D": "used or serving to denote; denotative. ", "S": ["denotative "], "A": []}
+{"index": 81195, "D": "used or serving to denote; denotative. ", "S": ["denotative"], "A": []}

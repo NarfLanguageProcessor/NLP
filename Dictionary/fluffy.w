@@ -1,1 +1,1 @@
-{"index": 115272, "D": "of, resembling, or covered with fluff. ", "S": ["creamy ", "feathery ", "gossamer ", "silky "], "A": ["coarse ", "rough ", "smooth "]}
+{"index": 115272, "D": "of, resembling, or covered with fluff. ", "S": ["creamy", "feathery", "gossamer", "silky"], "A": ["coarse", "rough", "smooth"]}

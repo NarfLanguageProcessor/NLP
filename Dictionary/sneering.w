@@ -1,1 +1,1 @@
-{"index": 295437, "D": "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "S": ["contemptible ", "derisive ", "sarcastic ", "sardonic "], "A": []}
+{"index": 295437, "D": "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "S": ["contemptible", "derisive", "sarcastic", "sardonic"], "A": []}

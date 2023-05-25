@@ -1,1 +1,1 @@
-{"index": 5880, "D": "occurring without sexual union; germinating without impregnation; not gamic.", "S": ["abiogenetic ", "agamic ", "agamogenetic ", "parthenogenetic "], "A": []}
+{"index": 5880, "D": "occurring without sexual union; germinating without impregnation; not gamic.", "S": ["abiogenetic", "agamic", "agamogenetic", "parthenogenetic"], "A": []}

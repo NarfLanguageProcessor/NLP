@@ -1,1 +1,1 @@
-{"index": 33512, "D": "a chicken.", "S": ["battle-ax ", "beldam ", "crone ", "fishwife ", "fusspot ", "hag ", "old biddy ", "witch "], "A": []}
+{"index": 33512, "D": "a chicken.", "S": ["battle-ax", "beldam", "crone", "fishwife", "fusspot", "hag", "old biddy", "witch"], "A": []}

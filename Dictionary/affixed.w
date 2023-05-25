@@ -1,1 +1,1 @@
-{"index": 5413, "D": "to fasten, join, or attach (usually followed by to)", "S": ["added ", "further ", "increased ", "new ", "other ", "supplementary "], "A": ["necessary "]}
+{"index": 5413, "D": "to fasten, join, or attach (usually followed by to)", "S": ["added", "further", "increased", "new", "other", "supplementary"], "A": ["necessary"]}

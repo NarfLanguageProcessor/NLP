@@ -1,1 +1,1 @@
-{"index": 131014, "D": "the act or function of guiding;  leadership; direction.", "S": ["advice ", "direction ", "instruction ", "intelligence ", "leadership ", "management ", "navigation ", "supervision ", "teaching "], "A": []}
+{"index": 131014, "D": "the act or function of guiding;  leadership; direction.", "S": ["advice", "direction", "instruction", "intelligence", "leadership", "management", "navigation", "supervision", "teaching"], "A": []}

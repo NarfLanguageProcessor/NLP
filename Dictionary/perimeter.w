@@ -1,1 +1,1 @@
-{"index": 231043, "D": "the border or outer boundary of a two-dimensional figure.", "S": ["boundary ", "confines ", "edge ", "fringe ", "periphery "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 231043, "D": "the border or outer boundary of a two-dimensional figure.", "S": ["boundary", "confines", "edge", "fringe", "periphery"], "A": ["center", "inside", "interior", "middle"]}

@@ -1,1 +1,1 @@
-{"index": 95, "D": "an act or instance of leaving a person or thing permanently and completely", "S": ["dereliction ", "desertion ", "jettison "], "A": []}
+{"index": 95, "D": "an act or instance of leaving a person or thing permanently and completely", "S": ["dereliction", "desertion", "jettison"], "A": []}

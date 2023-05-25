@@ -1,1 +1,1 @@
-{"index": 362791, "D": "a conflict carried on by force of arms, as between nations or between parties within a nation; warfare, as by land, sea, or air.", "S": ["belligerent "], "A": []}
+{"index": 362791, "D": "a conflict carried on by force of arms, as between nations or between parties within a nation; warfare, as by land, sea, or air.", "S": ["belligerent"], "A": []}

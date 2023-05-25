@@ -1,1 +1,1 @@
-{"index": 128905, "D": "a country house or large farmhouse with its various farm buildings (usually in house names)", "S": ["acreage ", "farmstead ", "hacienda ", "manor ", "plantation ", "ranch "], "A": []}
+{"index": 128905, "D": "a country house or large farmhouse with its various farm buildings (usually in house names)", "S": ["acreage", "farmstead", "hacienda", "manor", "plantation", "ranch"], "A": []}

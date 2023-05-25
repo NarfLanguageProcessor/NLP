@@ -1,1 +1,1 @@
-{"index": 357747, "D": "an act of covering with or as if with a veil. ", "S": ["covering ", "masking ", "screening ", "suppressing "], "A": ["obvious "]}
+{"index": 357747, "D": "an act of covering with or as if with a veil. ", "S": ["covering", "masking", "screening", "suppressing"], "A": ["obvious"]}

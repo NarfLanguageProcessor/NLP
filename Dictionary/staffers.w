@@ -1,1 +1,1 @@
-{"index": 302278, "D": "a member of a staff  of employees or coworkers.", "S": ["blue collar ", "blue-collar worker ", "breadwinner "], "A": []}
+{"index": 302278, "D": "a member of a staff  of employees or coworkers.", "S": ["blue collar", "blue-collar worker", "breadwinner"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 22772, "D": "of, relating to, or marked by atonality. ", "S": ["discordant ", "harsh ", "loud ", "strident "], "A": ["low ", "mild ", "soft "]}
+{"index": 22772, "D": "of, relating to, or marked by atonality. ", "S": ["discordant", "harsh", "loud", "strident"], "A": ["low", "mild", "soft"]}

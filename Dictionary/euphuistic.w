@@ -1,1 +1,1 @@
-{"index": 105681, "D": "Compare Euphues. ", "S": ["grandiose ", "histrionic ", "histrionical ", "rhapsodic "], "A": ["humble ", "quiet ", "reserved ", "restrained "]}
+{"index": 105681, "D": "Compare Euphues. ", "S": ["grandiose", "histrionic", "histrionical", "rhapsodic"], "A": ["humble", "quiet", "reserved", "restrained"]}

@@ -1,1 +1,1 @@
-{"index": 182047, "D": "a person who mediates,  especially between parties at variance.", "S": ["advocate ", "arbiter ", "arbitrator ", "broker ", "go-between ", "intermediary ", "judge ", "negotiator ", "peacemaker ", "referee ", "troubleshooter "], "A": ["fighter "]}
+{"index": 182047, "D": "a person who mediates,  especially between parties at variance.", "S": ["advocate", "arbiter", "arbitrator", "broker", "go-between", "intermediary", "judge", "negotiator", "peacemaker", "referee", "troubleshooter"], "A": ["fighter"]}

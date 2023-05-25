@@ -1,1 +1,1 @@
-{"index": 103440, "D": "to use ambiguous or unclear expressions, usually to avoid commitment or in order to mislead; prevaricate or hedge", "S": ["ambiguous ", "cagey ", "deceptive ", "false ", "misleading ", "unclear ", "vague "], "A": ["clear ", "definite ", "honest ", "truthful "]}
+{"index": 103440, "D": "to use ambiguous or unclear expressions, usually to avoid commitment or in order to mislead; prevaricate or hedge", "S": ["ambiguous", "cagey", "deceptive", "false", "misleading", "unclear", "vague"], "A": ["clear", "definite", "honest", "truthful"]}

@@ -1,1 +1,1 @@
-{"index": 126090, "D": "a person who gathers small amounts of grain or other produce left behind by regular harvesters, nowadays often for charitable use", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}
+{"index": 126090, "D": "a person who gathers small amounts of grain or other produce left behind by regular harvesters, nowadays often for charitable use", "S": ["grower", "laborer", "peasant", "producer", "rancher"], "A": []}

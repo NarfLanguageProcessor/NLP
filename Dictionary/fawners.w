@@ -1,1 +1,1 @@
-{"index": 110546, "D": "a young deer, especially an unweaned one.", "S": ["bootlicker ", "doormat ", "fan ", "fawner ", "flatterer ", "flunky ", "follower ", "groupie ", "hanger-on ", "lackey ", "puppet ", "stooge ", "toady "], "A": ["leader ", "master "]}
+{"index": 110546, "D": "a young deer, especially an unweaned one.", "S": ["bootlicker", "doormat", "fan", "fawner", "flatterer", "flunky", "follower", "groupie", "hanger-on", "lackey", "puppet", "stooge", "toady"], "A": ["leader", "master"]}

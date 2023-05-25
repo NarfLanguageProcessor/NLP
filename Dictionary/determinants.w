@@ -1,1 +1,1 @@
-{"index": 83161, "D": "a determining  agent or factor.", "S": ["encouragement ", "enticement ", "impetus ", "motivation ", "reason ", "stimulus "], "A": ["discouragement ", "hindrance ", "deterrent ", "dislike ", "prevention "]}
+{"index": 83161, "D": "a determining  agent or factor.", "S": ["encouragement", "enticement", "impetus", "motivation", "reason", "stimulus"], "A": ["discouragement", "hindrance", "deterrent", "dislike", "prevention"]}

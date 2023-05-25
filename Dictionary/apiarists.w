@@ -1,1 +1,1 @@
-{"index": 16953, "D": "a person who keeps an apiary. ", "S": ["apiculturist "], "A": []}
+{"index": 16953, "D": "a person who keeps an apiary. ", "S": ["apiculturist"], "A": []}

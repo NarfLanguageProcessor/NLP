@@ -1,0 +1,1 @@
+{"index": 34044, "D": "a great wave or surge of the sea.", "S": ["undulate"], "A": ["shrink", "stabilize"]}

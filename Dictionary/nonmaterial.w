@@ -1,1 +1,1 @@
-{"index": 205184, "D": "not material  or composed of matter.", "S": ["discarnate ", "discorporate ", "disembodied ", "immaterial ", "insubstantial ", "metaphysical ", "spiritual ", "unbodied ", "unsubstantial "], "A": []}
+{"index": 205184, "D": "not material  or composed of matter.", "S": ["discarnate", "discorporate", "disembodied", "immaterial", "insubstantial", "metaphysical", "spiritual", "unbodied", "unsubstantial"], "A": []}

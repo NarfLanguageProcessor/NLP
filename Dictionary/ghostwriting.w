@@ -1,1 +1,1 @@
-{"index": 124596, "D": "to write as a ghostwriter. ", "S": ["conceive ", "design ", "devise ", "form ", "invent ", "orchestrate ", "pen ", "produce ", "set up ", "write "], "A": ["destroy ", "disorganize ", "ruin ", "demolish ", "lose ", "wreck "]}
+{"index": 124596, "D": "to write as a ghostwriter. ", "S": ["conceive", "design", "devise", "form", "invent", "orchestrate", "pen", "produce", "set up", "write"], "A": ["destroy", "disorganize", "ruin", "demolish", "lose", "wreck"]}

@@ -1,1 +1,1 @@
-{"index": 235264, "D": "a combination of several photographs joined together for artistic effect or to show more of the subject than can be shown in a single photograph.", "S": ["abstract composition ", "found art "], "A": []}
+{"index": 235264, "D": "a combination of several photographs joined together for artistic effect or to show more of the subject than can be shown in a single photograph.", "S": ["abstract composition", "found art"], "A": []}

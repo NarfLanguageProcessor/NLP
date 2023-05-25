@@ -1,1 +1,1 @@
-{"index": 23704, "D": "austere  quality; severity of manner, life, etc.; sternness.", "S": ["rigor "], "A": ["informality ", "kindness ", "mildness ", "unimportance "]}
+{"index": 23704, "D": "austere  quality; severity of manner, life, etc.; sternness.", "S": ["rigor"], "A": ["informality", "kindness", "mildness", "unimportance"]}

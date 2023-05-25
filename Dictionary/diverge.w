@@ -1,1 +1,1 @@
-{"index": 90230, "D": "to move, lie, or extend in different directions from a common point; branch off.", "S": ["deviate ", "radiate ", "stray ", "veer "], "A": ["stay ", "arrive ", "collect ", "combine ", "come ", "connect ", "gather ", "join ", "straighten ", "unite "]}
+{"index": 90230, "D": "to move, lie, or extend in different directions from a common point; branch off.", "S": ["deviate", "radiate", "stray", "veer"], "A": ["stay", "arrive", "collect", "combine", "come", "connect", "gather", "join", "straighten", "unite"]}

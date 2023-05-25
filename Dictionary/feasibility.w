@@ -1,1 +1,1 @@
-{"index": 110621, "D": "the possibility, capability, or likelihood of something being done or accomplished (often used attributively)", "S": ["usefulness "], "A": []}
+{"index": 110621, "D": "the possibility, capability, or likelihood of something being done or accomplished (often used attributively)", "S": ["usefulness"], "A": []}

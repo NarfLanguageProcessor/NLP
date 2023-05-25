@@ -1,1 +1,1 @@
-{"index": 363174, "D": "somewhat, or tending to be, watery.", "S": ["adulterated ", "attenuated ", "cut ", "impaired ", "impoverished ", "laced ", "light ", "moderated ", "reduced ", "tempered ", "thin ", "washy ", "watered-down ", "watery ", "weak ", "wishy-washy "], "A": []}
+{"index": 363174, "D": "somewhat, or tending to be, watery.", "S": ["adulterated", "attenuated", "cut", "impaired", "impoverished", "laced", "light", "moderated", "reduced", "tempered", "thin", "washy", "watered-down", "watery", "weak", "wishy-washy"], "A": []}

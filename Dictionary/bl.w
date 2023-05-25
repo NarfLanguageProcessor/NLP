@@ -1,1 +1,1 @@
-{"index": 35416, "D": "bale; bales.", "S": ["B/L ", "docket ", "invoice ", "manifest ", "waybill "], "A": []}
+{"index": 35416, "D": "bale; bales.", "S": ["B/L", "docket", "invoice", "manifest", "waybill"], "A": []}

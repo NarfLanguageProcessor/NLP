@@ -1,1 +1,1 @@
-{"index": 288499, "D": "to evade (work, duty, responsibility, etc.).", "S": ["evading ", "pretending ", "slacking "], "A": ["active ", "energetic ", "toiling "]}
+{"index": 288499, "D": "to evade (work, duty, responsibility, etc.).", "S": ["evading", "pretending", "slacking"], "A": ["active", "energetic", "toiling"]}

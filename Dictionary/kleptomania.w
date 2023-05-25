@@ -1,1 +1,0 @@
-{"index": 165336, "D": "an irresistible impulse to steal, stemming from emotional disturbance rather than economic need.", "S": [], "A": []}

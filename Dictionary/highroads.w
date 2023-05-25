@@ -1,1 +1,1 @@
-{"index": 139294, "D": "a main road;  highway.", "S": ["direct route ", "main road ", "no-brainer "], "A": []}
+{"index": 139294, "D": "a main road;  highway.", "S": ["direct route", "main road", "no-brainer"], "A": []}

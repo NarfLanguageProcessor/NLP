@@ -1,1 +1,1 @@
-{"index": 324481, "D": "exhausted, as by exertion; fatigued or sleepy", "S": ["annoyed ", "bored ", "distressed ", "drained ", "exasperated ", "fatigued ", "irritated ", "overworked ", "sleepy ", "stale "], "A": ["energized ", "lively ", "fresh ", "saved "]}
+{"index": 324481, "D": "exhausted, as by exertion; fatigued or sleepy", "S": ["annoyed", "bored", "distressed", "drained", "exasperated", "fatigued", "irritated", "overworked", "sleepy", "stale"], "A": ["energized", "lively", "fresh", "saved"]}

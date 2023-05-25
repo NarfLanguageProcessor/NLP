@@ -1,1 +1,1 @@
-{"index": 240899, "D": "the illegal practice of trespassing on another's property to hunt or steal game without the landowner's permission.", "S": ["piracy ", "smuggling ", "trafficking "], "A": []}
+{"index": 240899, "D": "the illegal practice of trespassing on another's property to hunt or steal game without the landowner's permission.", "S": ["piracy", "smuggling", "trafficking"], "A": []}

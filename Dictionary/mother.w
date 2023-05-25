@@ -1,1 +1,1 @@
-{"index": 193933, "D": "a female parent.", "S": ["mom ", "parent "], "A": ["descendant ", "effect ", "end ", "result "]}
+{"index": 193933, "D": "a female parent.", "S": ["mom", "parent"], "A": ["descendant", "effect", "end", "result"]}

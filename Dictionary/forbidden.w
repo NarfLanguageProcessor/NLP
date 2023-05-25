@@ -1,1 +1,1 @@
-{"index": 116374, "D": "a past participle of forbid. ", "S": ["outlawed ", "prohibited "], "A": ["allowed "]}
+{"index": 116374, "D": "a past participle of forbid. ", "S": ["outlawed", "prohibited"], "A": ["allowed"]}

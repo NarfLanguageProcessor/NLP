@@ -1,1 +1,1 @@
-{"index": 292050, "D": "of, pertaining to, proceeding by, or involving synthesis (opposed to analytic).", "S": ["fabricated ", "manufactured "], "A": ["genuine ", "real ", "true "]}
+{"index": 292050, "D": "of, pertaining to, proceeding by, or involving synthesis (opposed to analytic).", "S": ["fabricated", "manufactured"], "A": ["genuine", "real", "true"]}

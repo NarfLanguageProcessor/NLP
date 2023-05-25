@@ -1,1 +1,1 @@
-{"index": 285994, "D": "the condition of being a serf in a position of servitude, required to render services to a lord", "S": ["enslavement ", "serfdom ", "servitude ", "subjugation ", "yoke "], "A": ["freedom ", "independence "]}
+{"index": 285994, "D": "the condition of being a serf in a position of servitude, required to render services to a lord", "S": ["enslavement", "serfdom", "servitude", "subjugation", "yoke"], "A": ["freedom", "independence"]}

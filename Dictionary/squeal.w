@@ -1,1 +1,1 @@
-{"index": 301857, "D": "a somewhat prolonged, sharp, shrill cry, as of pain, fear, or surprise.", "S": ["howl ", "peep ", "rasp ", "screech ", "shriek ", "squawk ", "wail ", "yelp "], "A": []}
+{"index": 301857, "D": "a somewhat prolonged, sharp, shrill cry, as of pain, fear, or surprise.", "S": ["howl", "peep", "rasp", "screech", "shriek", "squawk", "wail", "yelp"], "A": []}

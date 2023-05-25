@@ -1,1 +1,1 @@
-{"index": 115710, "D": "a person who feels enmity, hatred, or malice toward another; enemy", "S": ["adversary ", "antagonist ", "enemy ", "rival "], "A": ["ally ", "assistant ", "friend ", "helper ", "supporter "]}
+{"index": 115710, "D": "a person who feels enmity, hatred, or malice toward another; enemy", "S": ["adversary", "antagonist", "enemy", "rival"], "A": ["ally", "assistant", "friend", "helper", "supporter"]}

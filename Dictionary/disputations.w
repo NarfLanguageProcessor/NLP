@@ -1,1 +1,1 @@
-{"index": 89239, "D": "the act of disputing  or debating; verbal controversy; discussion or debate.", "S": ["argumentation ", "debate ", "dialectic ", "dispute ", "dissension ", "polemics "], "A": ["agreement "]}
+{"index": 89239, "D": "the act of disputing  or debating; verbal controversy; discussion or debate.", "S": ["argumentation", "debate", "dialectic", "dispute", "dissension", "polemics"], "A": ["agreement"]}

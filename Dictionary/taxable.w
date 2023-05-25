@@ -1,1 +1,1 @@
-{"index": 317272, "D": "capable of being taxed;  subject to tax", "S": ["payable "], "A": ["deductible ", "exempt ", "free "]}
+{"index": 317272, "D": "capable of being taxed;  subject to tax", "S": ["payable"], "A": ["deductible", "exempt", "free"]}

@@ -1,1 +1,1 @@
-{"index": 365873, "D": "to finish first in a race, contest, or the like.", "S": ["accomplishment ", "achievement ", "gain ", "gold ", "score ", "success ", "sweep ", "triumph "], "A": ["defeat ", "failure ", "forfeit ", "loss "]}
+{"index": 365873, "D": "to finish first in a race, contest, or the like.", "S": ["accomplishment", "achievement", "gain", "gold", "score", "success", "sweep", "triumph"], "A": ["defeat", "failure", "forfeit", "loss"]}

@@ -1,1 +1,1 @@
-{"index": 367769, "D": "a past participle of weave. ", "S": ["interlaced ", "interlinked ", "intertwined ", "interwoven ", "knitted ", "netted ", "wreathed "], "A": ["unwoven "]}
+{"index": 367769, "D": "a past participle of weave. ", "S": ["interlaced", "interlinked", "intertwined", "interwoven", "knitted", "netted", "wreathed"], "A": ["unwoven"]}

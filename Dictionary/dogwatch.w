@@ -1,1 +1,1 @@
-{"index": 91007, "D": "either of two two-hour watches,  the first from 4 to 6 p.m., the latter from 6 to 8 p.m.", "S": ["3rd shift ", "anchor watch ", "graveyard watch ", "lobster shift ", "sunrise watch ", "swing shift ", "third shift "], "A": []}
+{"index": 91007, "D": "either of two two-hour watches,  the first from 4 to 6 p.m., the latter from 6 to 8 p.m.", "S": ["3rd shift", "anchor watch", "graveyard watch", "lobster shift", "sunrise watch", "swing shift", "third shift"], "A": []}

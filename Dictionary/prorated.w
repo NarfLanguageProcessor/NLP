@@ -1,1 +1,1 @@
-{"index": 252901, "D": "(especially of charges or payments) calculated in proportion to some other quantity, such as time", "S": ["branched ", "cleft ", "reft ", "split "], "A": ["undivided "]}
+{"index": 252901, "D": "(especially of charges or payments) calculated in proportion to some other quantity, such as time", "S": ["branched", "cleft", "reft", "split"], "A": ["undivided"]}

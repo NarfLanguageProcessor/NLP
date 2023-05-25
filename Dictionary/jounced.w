@@ -1,1 +1,1 @@
-{"index": 161866, "D": "to move joltingly or roughly up and down; bounce.", "S": ["disturb ", "irritate ", "offend ", "rattle "], "A": ["appease ", "calm ", "please ", "soothe "]}
+{"index": 161866, "D": "to move joltingly or roughly up and down; bounce.", "S": ["disturb", "irritate", "offend", "rattle"], "A": ["appease", "calm", "please", "soothe"]}

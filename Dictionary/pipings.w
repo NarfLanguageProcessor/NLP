@@ -1,1 +1,1 @@
-{"index": 237479, "D": "pipes  collectively; a system or network of pipes. ", "S": ["piping ", "trimming "], "A": []}
+{"index": 237479, "D": "pipes  collectively; a system or network of pipes. ", "S": ["piping", "trimming"], "A": []}

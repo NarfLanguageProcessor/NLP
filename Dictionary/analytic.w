@@ -1,1 +1,1 @@
-{"index": 11759, "D": "pertaining to or proceeding by analysis  (opposed to synthetic).", "S": ["analytical ", "investigative "], "A": []}
+{"index": 11759, "D": "pertaining to or proceeding by analysis  (opposed to synthetic).", "S": ["analytical", "investigative"], "A": []}

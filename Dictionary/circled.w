@@ -1,1 +1,1 @@
-{"index": 57973, "D": "a closed plane curve consisting of all points at a given distance from a point within it called the center. Equation", "S": ["encircle ", "rotate ", "surround ", "whirl "], "A": ["let go ", "exclude ", "free ", "open ", "release "]}
+{"index": 57973, "D": "a closed plane curve consisting of all points at a given distance from a point within it called the center. Equation", "S": ["encircle", "rotate", "surround", "whirl"], "A": ["let go", "exclude", "free", "open", "release"]}

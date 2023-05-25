@@ -1,1 +1,1 @@
-{"index": 169443, "D": "to idle or lounge lazily (often followed by around)", "S": ["loiter ", "loll ", "saunter "], "A": ["do ", "face ", "meet "]}
+{"index": 169443, "D": "to idle or lounge lazily (often followed by around)", "S": ["loiter", "loll", "saunter"], "A": ["do", "face", "meet"]}

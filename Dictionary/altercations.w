@@ -1,1 +1,1 @@
-{"index": 9461, "D": "a heated or angry dispute; noisy argument or controversy.", "S": ["argument ", "bickering ", "blowup ", "brawl ", "flap ", "fracas ", "quarrel ", "run-in ", "tiff ", "wrangle "], "A": ["agreement ", "calm ", "harmony ", "peace ", "accord ", "quiet "]}
+{"index": 9461, "D": "a heated or angry dispute; noisy argument or controversy.", "S": ["argument", "bickering", "blowup", "brawl", "flap", "fracas", "quarrel", "run-in", "tiff", "wrangle"], "A": ["agreement", "calm", "harmony", "peace", "accord", "quiet"]}

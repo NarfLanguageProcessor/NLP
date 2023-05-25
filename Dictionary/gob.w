@@ -1,1 +1,1 @@
-{"index": 127232, "D": "a mass or lump.", "S": ["aggregation ", "great deal "], "A": ["individual ", "one "]}
+{"index": 127232, "D": "a mass or lump.", "S": ["aggregation", "great deal"], "A": ["individual", "one"]}

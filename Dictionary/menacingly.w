@@ -1,1 +1,1 @@
-{"index": 183236, "D": "expressing or serving as a menace  or threat", "S": ["acutely ", "badly ", "grievously ", "intensely ", "severely ", "sorely ", "very "], "A": ["little "]}
+{"index": 183236, "D": "expressing or serving as a menace  or threat", "S": ["acutely", "badly", "grievously", "intensely", "severely", "sorely", "very"], "A": ["little"]}

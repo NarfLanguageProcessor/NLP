@@ -1,1 +1,1 @@
-{"index": 98915, "D": "(especially in legal usage) a person who purchases or contracts to purchase; buyer.", "S": ["client ", "consumer ", "customer ", "patron ", "purchaser ", "shopper ", "user "], "A": ["manager ", "owner "]}
+{"index": 98915, "D": "(especially in legal usage) a person who purchases or contracts to purchase; buyer.", "S": ["client", "consumer", "customer", "patron", "purchaser", "shopper", "user"], "A": ["manager", "owner"]}

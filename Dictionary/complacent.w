@@ -1,1 +1,1 @@
-{"index": 64581, "D": "pleased, especially with oneself or one's merits, advantages, situation, etc., often without awareness of some potential danger or defect; self-satisfied", "S": ["confident ", "happy ", "pleased ", "satisfied ", "self-righteous ", "smug "], "A": ["unhappy ", "unsure "]}
+{"index": 64581, "D": "pleased, especially with oneself or one's merits, advantages, situation, etc., often without awareness of some potential danger or defect; self-satisfied", "S": ["confident", "happy", "pleased", "satisfied", "self-righteous", "smug"], "A": ["unhappy", "unsure"]}

@@ -1,1 +1,1 @@
-{"index": 254444, "D": "not actually but having the appearance of; pretended; false or spurious; sham.", "S": ["counterfeit ", "ersatz ", "imitation ", "mock ", "phony ", "pirate ", "pretend ", "sham ", "wrong "], "A": ["genuine ", "real ", "true "]}
+{"index": 254444, "D": "not actually but having the appearance of; pretended; false or spurious; sham.", "S": ["counterfeit", "ersatz", "imitation", "mock", "phony", "pirate", "pretend", "sham", "wrong"], "A": ["genuine", "real", "true"]}

@@ -1,1 +1,1 @@
-{"index": 83593, "D": "the act of devising;  contrivance.", "S": ["endowment ", "inheritance "], "A": []}
+{"index": 83593, "D": "the act of devising;  contrivance.", "S": ["endowment", "inheritance"], "A": []}

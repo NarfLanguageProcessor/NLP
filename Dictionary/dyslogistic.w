@@ -1,1 +1,1 @@
-{"index": 88616, "D": "conveying disapproval or censure; not complimentary or eulogistic. ", "S": ["adverse ", "derogatory ", "disparaging ", "hurtful ", "injurious ", "prejudicial ", "unfavorable "], "A": ["aiding ", "assisting ", "complimentary ", "favorable ", "good ", "helpful ", "nice "]}
+{"index": 88616, "D": "conveying disapproval or censure; not complimentary or eulogistic. ", "S": ["adverse", "derogatory", "disparaging", "hurtful", "injurious", "prejudicial", "unfavorable"], "A": ["aiding", "assisting", "complimentary", "favorable", "good", "helpful", "nice"]}

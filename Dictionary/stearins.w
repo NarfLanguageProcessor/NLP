@@ -1,1 +1,0 @@
-{"index": 303329, "D": "any of the three glyceryl esters of stearic acid,  especially C3H5(C18H35O2)3, a soft, white, odorless solid found in many natural fats.", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 187834, "D": "a small bus, seating about 15 passengers and typically transporting people short distances.", "S": [], "A": []}

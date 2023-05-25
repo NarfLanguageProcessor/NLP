@@ -1,1 +1,1 @@
-{"index": 326451, "D": "totalitarianism. ", "S": ["authoritarianism ", "autocracy ", "despotism ", "dictatorship ", "totalitarianism "], "A": ["democracy "]}
+{"index": 326451, "D": "totalitarianism. ", "S": ["authoritarianism", "autocracy", "despotism", "dictatorship", "totalitarianism"], "A": ["democracy"]}

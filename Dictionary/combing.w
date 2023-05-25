@@ -1,1 +1,1 @@
-{"index": 63674, "D": "a toothed strip of plastic, hard rubber, bone, wood, or metal, used for arranging the hair, untangling it, or holding it in place.", "S": ["straighten "], "A": ["disorder ", "disorganize ", "twist ", "upset ", "wrinkle "]}
+{"index": 63674, "D": "a toothed strip of plastic, hard rubber, bone, wood, or metal, used for arranging the hair, untangling it, or holding it in place.", "S": ["straighten"], "A": ["disorder", "disorganize", "twist", "upset", "wrinkle"]}

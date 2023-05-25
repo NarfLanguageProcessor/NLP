@@ -1,1 +1,1 @@
-{"index": 210384, "D": "quick to notice or perceive; alert.", "S": ["attentive ", "discerning ", "discriminating ", "intelligent ", "mindful ", "perceptive ", "vigilant "], "A": ["careless ", "heedless ", "inattentive ", "neglectful ", "negligent ", "unaware ", "undiscriminating "]}
+{"index": 210384, "D": "quick to notice or perceive; alert.", "S": ["attentive", "discerning", "discriminating", "intelligent", "mindful", "perceptive", "vigilant"], "A": ["careless", "heedless", "inattentive", "neglectful", "negligent", "unaware", "undiscriminating"]}

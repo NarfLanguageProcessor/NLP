@@ -1,1 +1,1 @@
-{"index": 109260, "D": "pertaining to or noting a mechanism built into a system, as in an early warning system or a nuclear reactor, for insuring safety should the system fail to operate properly.", "S": ["foolproof "], "A": []}
+{"index": 109260, "D": "pertaining to or noting a mechanism built into a system, as in an early warning system or a nuclear reactor, for insuring safety should the system fail to operate properly.", "S": ["foolproof"], "A": []}

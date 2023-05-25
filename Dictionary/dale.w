@@ -1,1 +1,1 @@
-{"index": 76445, "D": "a valley, especially a broad valley.", "S": ["dell ", "dingle ", "glen ", "ravine ", "spout ", "trough ", "vale "], "A": []}
+{"index": 76445, "D": "a valley, especially a broad valley.", "S": ["dell", "dingle", "glen", "ravine", "spout", "trough", "vale"], "A": []}

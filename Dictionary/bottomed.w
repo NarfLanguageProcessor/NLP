@@ -1,1 +1,1 @@
-{"index": 38823, "D": "the lowest or deepest part of anything, as distinguished from the top", "S": ["hang ", "lie ", "reside ", "stay "], "A": ["destroy "]}
+{"index": 38823, "D": "the lowest or deepest part of anything, as distinguished from the top", "S": ["hang", "lie", "reside", "stay"], "A": ["destroy"]}

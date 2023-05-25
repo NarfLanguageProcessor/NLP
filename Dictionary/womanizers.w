@@ -1,1 +1,1 @@
-{"index": 366977, "D": "a philanderer.", "S": ["Casanova ", "Lothario ", "Romeo ", "gigolo ", "heartbreaker ", "lecher ", "libertine ", "lover ", "rake ", "seducer ", "stud ", "wolf "], "A": []}
+{"index": 366977, "D": "a philanderer.", "S": ["Casanova", "Lothario", "Romeo", "gigolo", "heartbreaker", "lecher", "libertine", "lover", "rake", "seducer", "stud", "wolf"], "A": []}

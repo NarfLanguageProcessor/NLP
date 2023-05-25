@@ -1,1 +1,1 @@
-{"index": 149020, "D": "strong enough to resist or withstand attack; not to be taken by force, unconquerable", "S": ["fortified ", "impenetrable ", "indestructible ", "invincible ", "invulnerable ", "unassailable "], "A": ["breakable ", "destructible "]}
+{"index": 149020, "D": "strong enough to resist or withstand attack; not to be taken by force, unconquerable", "S": ["fortified", "impenetrable", "indestructible", "invincible", "invulnerable", "unassailable"], "A": ["breakable", "destructible"]}

@@ -1,1 +1,1 @@
-{"index": 340690, "D": "not divided into parts or groups", "S": ["unflagging ", "united ", "unswerving "], "A": ["divided ", "partial ", "separate "]}
+{"index": 340690, "D": "not divided into parts or groups", "S": ["unflagging", "united", "unswerving"], "A": ["divided", "partial", "separate"]}

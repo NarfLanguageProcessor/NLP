@@ -1,1 +1,1 @@
-{"index": 71097, "D": "a sign used in reply to another sign.", "S": ["authorize ", "certify ", "confirm ", "corroborate ", "mark ", "password ", "seal ", "sign ", "signature ", "watchword "], "A": ["contradict ", "deny ", "disallow ", "invalidate ", "reject ", "repudiate "]}
+{"index": 71097, "D": "a sign used in reply to another sign.", "S": ["authorize", "certify", "confirm", "corroborate", "mark", "password", "seal", "sign", "signature", "watchword"], "A": ["contradict", "deny", "disallow", "invalidate", "reject", "repudiate"]}

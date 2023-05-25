@@ -1,1 +1,1 @@
-{"index": 305096, "D": "of or relating to the stomach;  gastric.", "S": ["stomachic "], "A": []}
+{"index": 305096, "D": "of or relating to the stomach;  gastric.", "S": ["stomachic"], "A": []}

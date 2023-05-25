@@ -1,1 +1,1 @@
-{"index": 153393, "D": "(not in technical use as a medical diagnosis) not sane;  not of sound mind; mentally deranged.", "S": ["insanity "], "A": ["balance ", "calm ", "calmness ", "certainty ", "fact ", "peace ", "reality ", "saneness ", "truth "]}
+{"index": 153393, "D": "(not in technical use as a medical diagnosis) not sane;  not of sound mind; mentally deranged.", "S": ["insanity"], "A": ["balance", "calm", "calmness", "certainty", "fact", "peace", "reality", "saneness", "truth"]}

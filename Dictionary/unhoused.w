@@ -1,1 +1,1 @@
-{"index": 343891, "D": "without a house or housing; not housed", "S": ["destitute ", "displaced ", "dispossessed "], "A": ["settled "]}
+{"index": 343891, "D": "without a house or housing; not housed", "S": ["destitute", "displaced", "dispossessed"], "A": ["settled"]}

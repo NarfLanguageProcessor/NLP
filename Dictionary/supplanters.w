@@ -1,1 +1,1 @@
-{"index": 312953, "D": "someone or something taking the place of another, as through force, scheming, strategy, or the like", "S": ["backup ", "replacement ", "stand-in ", "surrogate "], "A": ["being ", "entity ", "permanent "]}
+{"index": 312953, "D": "someone or something taking the place of another, as through force, scheming, strategy, or the like", "S": ["backup", "replacement", "stand-in", "surrogate"], "A": ["being", "entity", "permanent"]}

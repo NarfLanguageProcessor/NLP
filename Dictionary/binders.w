@@ -1,1 +1,1 @@
-{"index": 34174, "D": "a person or thing that binds. ", "S": ["damper ", "restraint "], "A": ["assistance ", "catalyst ", "encouragement ", "help ", "incentive ", "opening "]}
+{"index": 34174, "D": "a person or thing that binds. ", "S": ["damper", "restraint"], "A": ["assistance", "catalyst", "encouragement", "help", "incentive", "opening"]}

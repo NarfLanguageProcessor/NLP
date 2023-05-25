@@ -1,1 +1,1 @@
-{"index": 299865, "D": "long or tall, thin, and usually frail", "S": ["elongated ", "frail ", "lanky ", "rangy ", "skinny ", "slender "], "A": ["chubby ", "fat ", "plump ", "thick "]}
+{"index": 299865, "D": "long or tall, thin, and usually frail", "S": [], "A": []}

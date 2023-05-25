@@ -1,1 +1,1 @@
-{"index": 126575, "D": "to steal.", "S": ["apprehend ", "capture ", "catch ", "detain ", "imprison ", "incarcerate ", "jail ", "round up ", "seize "], "A": ["free ", "let go ", "liberate ", "lose ", "misunderstand ", "release ", "exonerate ", "loosen ", "take up ", "unfasten "]}
+{"index": 126575, "D": "to steal.", "S": ["apprehend", "capture", "catch", "detain", "imprison", "incarcerate", "jail", "round up", "seize"], "A": ["free", "let go", "liberate", "lose", "misunderstand", "release", "exonerate", "loosen", "take up", "unfasten"]}

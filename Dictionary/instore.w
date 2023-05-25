@@ -1,1 +1,1 @@
-{"index": 153959, "D": "in-store banking facilities", "S": ["pending "], "A": []}
+{"index": 153959, "D": "in-store banking facilities", "S": ["pending"], "A": []}

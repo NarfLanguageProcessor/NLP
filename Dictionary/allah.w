@@ -1,1 +1,1 @@
-{"index": 8531, "D": "the Supreme Being; God. ", "S": ["Father in Heaven ", "God ", "Heavenly Father ", "Jehovah ", "King of Kings ", "Lord of Lords ", "Yahweh ", "the Creator ", "the all-powerful "], "A": []}
+{"index": 8531, "D": "the Supreme Being; God. ", "S": ["Father in Heaven", "God", "Heavenly Father", "Jehovah", "King of Kings", "Lord of Lords", "Yahweh", "the Creator", "the all-powerful"], "A": []}

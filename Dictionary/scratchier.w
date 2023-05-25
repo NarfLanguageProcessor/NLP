@@ -1,1 +1,1 @@
-{"index": 281624, "D": "causing or liable to cause a slight grating noise", "S": ["cracked ", "discordant ", "hoarse ", "raspy ", "raucous "], "A": ["soft "]}
+{"index": 281624, "D": "causing or liable to cause a slight grating noise", "S": ["cracked", "discordant", "hoarse", "raspy", "raucous"], "A": ["soft"]}

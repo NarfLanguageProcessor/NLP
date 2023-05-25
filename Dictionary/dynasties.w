@@ -1,1 +1,1 @@
-{"index": 86066, "D": "a sequence of rulers from the same family, stock, or group", "S": ["empire ", "regime "], "A": []}
+{"index": 86066, "D": "a sequence of rulers from the same family, stock, or group", "S": ["empire", "regime"], "A": []}

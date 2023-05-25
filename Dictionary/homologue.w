@@ -1,1 +1,1 @@
-{"index": 143156, "D": "something homologous.", "S": ["analogy ", "comparison ", "corollary ", "resemblance ", "similarity "], "A": ["difference ", "dissimilarity ", "unlikeness "]}
+{"index": 143156, "D": "something homologous.", "S": ["analogy", "comparison", "corollary", "resemblance", "similarity"], "A": ["difference", "dissimilarity", "unlikeness"]}

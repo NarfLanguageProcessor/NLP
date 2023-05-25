@@ -1,1 +1,1 @@
-{"index": 108977, "D": "of the face", "S": ["leading "], "A": ["ending "]}
+{"index": 108977, "D": "of the face", "S": ["leading"], "A": ["ending"]}

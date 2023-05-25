@@ -1,1 +1,1 @@
-{"index": 193676, "D": "a bite, mouthful, or small portion of food, candy, etc.", "S": ["chunk ", "crumb ", "hunk ", "mouthful ", "snack ", "tidbit "], "A": ["entirety ", "increase ", "lot ", "total ", "whole "]}
+{"index": 193676, "D": "a bite, mouthful, or small portion of food, candy, etc.", "S": ["chunk", "crumb", "hunk", "mouthful", "snack", "tidbit"], "A": ["entirety", "increase", "lot", "total", "whole"]}

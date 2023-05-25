@@ -1,1 +1,1 @@
-{"index": 185662, "D": "noxious exhalations from putrescent organic matter; poisonous effluvia or germs polluting the atmosphere.", "S": ["endemic ", "epidemic ", "pandemic ", "taking "], "A": []}
+{"index": 185662, "D": "noxious exhalations from putrescent organic matter; poisonous effluvia or germs polluting the atmosphere.", "S": ["endemic", "epidemic", "pandemic", "taking"], "A": []}

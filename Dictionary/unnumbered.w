@@ -1,1 +1,1 @@
-{"index": 346972, "D": "having no number or numbers as identification", "S": ["countless ", "myriad ", "numerous ", "untold "], "A": ["calculable ", "few ", "limited ", "little ", "measurable ", "small "]}
+{"index": 346972, "D": "having no number or numbers as identification", "S": ["countless", "myriad", "numerous", "untold"], "A": ["calculable", "few", "limited", "little", "measurable", "small"]}

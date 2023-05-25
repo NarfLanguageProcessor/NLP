@@ -1,1 +1,1 @@
-{"index": 56203, "D": "the quality of a color as determined by its dominant wavelength and its purity.", "S": ["glow ", "hue ", "intensity ", "paint "], "A": ["black ", "white "]}
+{"index": 56203, "D": "the quality of a color as determined by its dominant wavelength and its purity.", "S": ["glow", "hue", "intensity", "paint"], "A": ["black", "white"]}

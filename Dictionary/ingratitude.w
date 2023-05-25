@@ -1,1 +1,1 @@
-{"index": 152564, "D": "the state of being ungrateful; unthankfulness.", "S": ["boorishness ", "callousness ", "disloyalty ", "inconsiderateness ", "rudeness ", "thoughtlessness "], "A": ["appreciation ", "consideration ", "gratitude "]}
+{"index": 152564, "D": "the state of being ungrateful; unthankfulness.", "S": ["boorishness", "callousness", "disloyalty", "inconsiderateness", "rudeness", "thoughtlessness"], "A": ["appreciation", "consideration", "gratitude"]}

@@ -1,1 +1,1 @@
-{"index": 364880, "D": "to utter the characteristic cry of a horse; neigh.", "S": ["bark ", "cheer ", "exclaim ", "growl ", "grunt ", "holler ", "howl ", "scream ", "shout ", "shriek ", "whoop ", "yell "], "A": ["be quiet "]}
+{"index": 364880, "D": "to utter the characteristic cry of a horse; neigh.", "S": ["bark", "cheer", "exclaim", "growl", "grunt", "holler", "howl", "scream", "shout", "shriek", "whoop", "yell"], "A": ["be quiet"]}

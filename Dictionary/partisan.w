@@ -1,1 +1,1 @@
-{"index": 227080, "D": "an adherent or supporter of a person, group, party, or cause, especially a person who shows a biased, emotional allegiance.", "S": ["biased ", "one-sided ", "sectarian ", "sympathetic ", "unjust "], "A": ["fair ", "unbiased "]}
+{"index": 227080, "D": "an adherent or supporter of a person, group, party, or cause, especially a person who shows a biased, emotional allegiance.", "S": ["biased", "one-sided", "sectarian", "sympathetic", "unjust"], "A": ["fair", "unbiased"]}

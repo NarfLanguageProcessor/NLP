@@ -1,1 +1,1 @@
-{"index": 89204, "D": "not proportionate;  out of proportion, as in size or number.", "S": ["excessive ", "inordinate ", "superfluous ", "unequal ", "unreasonable "], "A": ["moderate ", "reasonable "]}
+{"index": 89204, "D": "not proportionate;  out of proportion, as in size or number.", "S": ["excessive", "inordinate", "superfluous", "unequal", "unreasonable"], "A": ["moderate", "reasonable"]}

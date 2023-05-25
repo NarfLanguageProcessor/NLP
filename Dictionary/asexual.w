@@ -1,1 +1,1 @@
-{"index": 21100, "D": "independent of sexual processes, especially not involving the union of male and female germ cells", "S": ["abiogenetic ", "agamic ", "agamogenetic ", "agamous ", "parthenogenetic "], "A": []}
+{"index": 21100, "D": "independent of sexual processes, especially not involving the union of male and female germ cells", "S": ["abiogenetic", "agamic", "agamogenetic", "agamous", "parthenogenetic"], "A": []}

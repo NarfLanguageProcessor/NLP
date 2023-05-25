@@ -1,1 +1,1 @@
-{"index": 362668, "D": "a military leader, especially of a warlike nation.", "S": ["assailant ", "boxer ", "champion ", "combatant ", "mercenary ", "militant ", "opponent ", "soldier ", "tanker ", "warrior "], "A": ["peacemaker "]}
+{"index": 362668, "D": "a military leader, especially of a warlike nation.", "S": ["assailant", "boxer", "champion", "combatant", "mercenary", "militant", "opponent", "soldier", "tanker", "warrior"], "A": ["peacemaker"]}

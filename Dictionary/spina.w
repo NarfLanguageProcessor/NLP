@@ -1,1 +1,0 @@
-{"index": 299830, "D": "a spine or spinelike projection.", "S": [], "A": []}

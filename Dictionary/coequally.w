@@ -1,1 +1,1 @@
-{"index": 62026, "D": "equal with another or each other in rank, ability, extent, etc.", "S": ["equitably ", "fairly ", "justly ", "uniformly "], "A": ["unfairly ", "unjustly "]}
+{"index": 62026, "D": "equal with another or each other in rank, ability, extent, etc.", "S": ["equitably", "fairly", "justly", "uniformly"], "A": ["unfairly", "unjustly"]}

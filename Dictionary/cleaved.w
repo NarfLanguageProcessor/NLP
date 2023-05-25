@@ -1,1 +1,1 @@
-{"index": 59690, "D": "to adhere closely; stick; cling (usually followed by to).", "S": ["hew ", "sunder "], "A": ["close ", "combine ", "connect ", "join ", "marry ", "mend ", "sew ", "unite "]}
+{"index": 59690, "D": "to adhere closely; stick; cling (usually followed by to).", "S": ["hew", "sunder"], "A": ["close", "combine", "connect", "join", "marry", "mend", "sew", "unite"]}

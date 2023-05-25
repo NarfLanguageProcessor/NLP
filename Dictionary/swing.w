@@ -1,1 +1,1 @@
-{"index": 314478, "D": "to cause to move to and fro, sway, or oscillate, as something suspended from above", "S": ["fluctuation ", "rhythm ", "stroke "], "A": []}
+{"index": 314478, "D": "to cause to move to and fro, sway, or oscillate, as something suspended from above", "S": ["fluctuation", "rhythm", "stroke"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 294600, "D": "a thickly populated, run-down, squalid part of a city, inhabited by poor people.", "S": ["central city ", "downtown ", "ghetto ", "slum "], "A": []}
+{"index": 294600, "D": "a thickly populated, run-down, squalid part of a city, inhabited by poor people.", "S": ["central city", "downtown", "ghetto", "slum"], "A": []}

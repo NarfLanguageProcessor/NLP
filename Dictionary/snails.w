@@ -1,1 +1,1 @@
-{"index": 295230, "D": "any mollusk of the class Gastropoda, having a spirally coiled shell and a ventral muscular foot on which it slowly glides about.", "S": ["abalone ", "clam "], "A": []}
+{"index": 295230, "D": "any mollusk of the class Gastropoda, having a spirally coiled shell and a ventral muscular foot on which it slowly glides about.", "S": ["abalone", "clam"], "A": []}

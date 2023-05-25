@@ -1,1 +1,1 @@
-{"index": 67056, "D": "in respect to physical makeup", "S": ["genetically ", "intrinsically ", "naturally "], "A": []}
+{"index": 67056, "D": "in respect to physical makeup", "S": ["genetically", "intrinsically", "naturally"], "A": []}

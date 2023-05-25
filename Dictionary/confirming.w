@@ -1,1 +1,1 @@
-{"index": 65945, "D": "to establish the truth, accuracy, validity, or genuineness of; corroborate; verify", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}
+{"index": 65945, "D": "to establish the truth, accuracy, validity, or genuineness of; corroborate; verify", "S": ["affirmatory", "approving", "positive", "supporting"], "A": ["dissenting", "negative"]}

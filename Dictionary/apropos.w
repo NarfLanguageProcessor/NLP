@@ -1,0 +1,1 @@
+{"index": 18092, "D": "fitting; at the right time; to the purpose; opportunely.", "S": ["apt", "germane", "opportune", "pertinent"], "A": ["inappropriate", "irrelevant", "unsuitable"]}

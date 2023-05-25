@@ -1,1 +1,1 @@
-{"index": 326856, "D": "a condition characterized by the presence of bacterial toxins in the blood", "S": ["pyemia ", "sepsis ", "septic infection ", "septic poisoning ", "septicemia ", "septicopyemia ", "toxemia "], "A": []}
+{"index": 326856, "D": "a condition characterized by the presence of bacterial toxins in the blood", "S": ["pyemia", "sepsis", "septic infection", "septic poisoning", "septicemia", "septicopyemia", "toxemia"], "A": []}

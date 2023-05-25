@@ -1,1 +1,0 @@
-{"index": 172836, "D": "to remain or stay on in a place longer than is usual or expected, as if from reluctance to leave", "S": ["languidly ", "lazily ", "sluggishly "], "A": ["hectically ", "hurriedly "]}

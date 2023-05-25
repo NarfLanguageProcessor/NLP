@@ -1,1 +1,1 @@
-{"index": 67787, "D": "something contrived;  a device, especially a mechanical one.", "S": ["artifice ", "gimmick ", "ruse "], "A": ["ignorance "]}
+{"index": 67787, "D": "something contrived;  a device, especially a mechanical one.", "S": ["artifice", "gimmick", "ruse"], "A": ["ignorance"]}

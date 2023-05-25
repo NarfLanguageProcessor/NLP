@@ -1,1 +1,1 @@
-{"index": 265493, "D": "to get again; recover", "S": ["reborn "], "A": ["dropped ", "ill ", "impaired ", "lost ", "missed ", "sicker ", "unhealthy "]}
+{"index": 265493, "D": "to get again; recover", "S": ["reborn"], "A": ["dropped", "ill", "impaired", "lost", "missed", "sicker", "unhealthy"]}

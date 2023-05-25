@@ -1,1 +1,1 @@
-{"index": 195515, "D": "to chew with steady or vigorous working of the jaws, often audibly.", "S": ["bite ", "champ ", "chomp ", "crunch ", "crush ", "grind ", "mash ", "masticate ", "press ", "reduce ", "ruminate ", "scrunch ", "smash ", "soften "], "A": ["lose "]}
+{"index": 195515, "D": "to chew with steady or vigorous working of the jaws, often audibly.", "S": ["bite", "champ", "chomp", "crunch", "crush", "grind", "mash", "masticate", "press", "reduce", "ruminate", "scrunch", "smash", "soften"], "A": ["lose"]}

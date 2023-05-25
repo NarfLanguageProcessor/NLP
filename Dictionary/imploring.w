@@ -1,1 +1,1 @@
-{"index": 148821, "D": "to beg urgently or piteously, as for aid or mercy; beseech; entreat", "S": ["engaging ", "tempting "], "A": ["repulsive "]}
+{"index": 148821, "D": "to beg urgently or piteously, as for aid or mercy; beseech; entreat", "S": ["engaging", "tempting"], "A": ["repulsive"]}

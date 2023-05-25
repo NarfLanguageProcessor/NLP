@@ -1,1 +1,1 @@
-{"index": 123217, "D": "having the nature of or resembling jelly, especially in consistency; jellylike.", "S": ["gluey ", "glutinous ", "gummy ", "jelled ", "jellied ", "jelly-like ", "mucilaginous ", "pudding ", "sticky ", "thick ", "viscid ", "viscous "], "A": ["liquid "]}
+{"index": 123217, "D": "having the nature of or resembling jelly, especially in consistency; jellylike.", "S": ["gluey", "glutinous", "gummy", "jelled", "jellied", "jelly-like", "mucilaginous", "pudding", "sticky", "thick", "viscid", "viscous"], "A": ["liquid"]}

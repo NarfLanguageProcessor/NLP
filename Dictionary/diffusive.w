@@ -1,1 +1,1 @@
-{"index": 85367, "D": "tending to diffuse;  characterized by diffusion. ", "S": ["deviating ", "divergent ", "diverging ", "eccentric ", "efferent ", "outward ", "radial ", "spiral ", "spreading "], "A": ["centripetal "]}
+{"index": 85367, "D": "tending to diffuse;  characterized by diffusion. ", "S": ["deviating", "divergent", "diverging", "eccentric", "efferent", "outward", "radial", "spiral", "spreading"], "A": ["centripetal"]}

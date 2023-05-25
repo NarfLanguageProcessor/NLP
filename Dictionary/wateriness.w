@@ -1,1 +1,1 @@
-{"index": 363169, "D": "the state or condition of being watery  or diluted.", "S": ["blandness ", "flatness ", "flavorlessness ", "insipidness ", "jejuneness ", "staleness ", "vapidity ", "vapidness "], "A": []}
+{"index": 363169, "D": "the state or condition of being watery  or diluted.", "S": ["blandness", "flatness", "flavorlessness", "insipidness", "jejuneness", "staleness", "vapidity", "vapidness"], "A": []}

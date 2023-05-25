@@ -1,1 +1,1 @@
-{"index": 190137, "D": "to state  wrongly or misleadingly; make a wrong statement about.", "S": ["distort ", "misrepresent "], "A": ["explain ", "straighten "]}
+{"index": 190137, "D": "to state  wrongly or misleadingly; make a wrong statement about.", "S": ["distort", "misrepresent"], "A": ["explain", "straighten"]}

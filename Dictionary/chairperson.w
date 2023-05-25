@@ -1,1 +1,1 @@
-{"index": 52026, "D": "a person who presides over a meeting, committee, board, etc.", "S": ["President ", "administrator ", "captain ", "chair ", "director ", "leader ", "moderator ", "monitor ", "principal ", "speaker ", "spokesperson ", "symposiarch "], "A": []}
+{"index": 52026, "D": "a person who presides over a meeting, committee, board, etc.", "S": ["President", "administrator", "captain", "chair", "director", "leader", "moderator", "monitor", "principal", "speaker", "spokesperson", "symposiarch"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 88490, "D": "the withdrawal of invested funds or the cancellation of financial aid, subsidies, or investment plans, as in a property, neighborhood, or foreign country.", "S": ["divestment "], "A": []}
+{"index": 88490, "D": "the withdrawal of invested funds or the cancellation of financial aid, subsidies, or investment plans, as in a property, neighborhood, or foreign country.", "S": ["divestment"], "A": []}

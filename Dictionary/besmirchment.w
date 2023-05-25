@@ -1,1 +1,1 @@
-{"index": 32407, "D": [], "S": ["scar ", "stain "], "A": ["approval ", "benefit ", "esteem ", "exaltation ", "honor ", "praise ", "respect "]}
+{"index": 32407, "D": [], "S": ["scar", "stain"], "A": ["approval", "benefit", "esteem", "exaltation", "honor", "praise", "respect"]}

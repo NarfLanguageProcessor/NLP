@@ -1,1 +1,1 @@
-{"index": 230322, "D": "chance, doubt, or uncertainty.", "S": ["conceivably ", "likely ", "perhaps ", "probably "], "A": ["improbably ", "unlikely "]}
+{"index": 230322, "D": "chance, doubt, or uncertainty.", "S": ["conceivably", "likely", "perhaps", "probably"], "A": ["improbably", "unlikely"]}

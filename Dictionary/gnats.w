@@ -1,1 +1,1 @@
-{"index": 127076, "D": "any of certain small flies, especially the biting gnats or punkies of the family Ceratopogonidae, the midges of the family Chironomidae, and the black flies of the family Simuliidae.", "S": ["ant ", "beetle ", "flea ", "pest "], "A": []}
+{"index": 127076, "D": "any of certain small flies, especially the biting gnats or punkies of the family Ceratopogonidae, the midges of the family Chironomidae, and the black flies of the family Simuliidae.", "S": ["ant", "beetle", "flea", "pest"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 82391, "D": "a song or melody.", "S": ["comment ", "criticism ", "discussion "], "A": ["quiet ", "silence "]}
+{"index": 82391, "D": "a song or melody.", "S": ["comment", "criticism", "discussion"], "A": ["quiet", "silence"]}

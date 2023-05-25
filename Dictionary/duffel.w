@@ -1,1 +1,1 @@
-{"index": 93883, "D": "a camper's clothing and equipment.", "S": ["backpack ", "briefcase ", "gear ", "handbag ", "kit ", "pack ", "packet ", "pocket ", "pouch ", "purse ", "sack ", "suitcase "], "A": []}
+{"index": 93883, "D": "a camper's clothing and equipment.", "S": ["backpack", "briefcase", "gear", "handbag", "kit", "pack", "packet", "pocket", "pouch", "purse", "sack", "suitcase"], "A": []}

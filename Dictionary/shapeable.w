@@ -1,1 +1,1 @@
-{"index": 287443, "D": "the quality of a distinct object or body in having an external surface or outline of specific form or figure.", "S": ["elastic ", "molded "], "A": ["hard ", "inflexible ", "stiff ", "unflappable "]}
+{"index": 287443, "D": "the quality of a distinct object or body in having an external surface or outline of specific form or figure.", "S": ["elastic", "molded"], "A": ["hard", "inflexible", "stiff", "unflappable"]}

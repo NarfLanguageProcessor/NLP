@@ -1,1 +1,1 @@
-{"index": 326362, "D": "the act of inflicting excruciating pain, as punishment or revenge, as a means of getting a confession or information, or for sheer cruelty.", "S": ["contorted ", "crooked ", "deformed ", "gnarly ", "twisted ", "wrinkled "], "A": ["straight "]}
+{"index": 326362, "D": "the act of inflicting excruciating pain, as punishment or revenge, as a means of getting a confession or information, or for sheer cruelty.", "S": ["contorted", "crooked", "deformed", "gnarly", "twisted", "wrinkled"], "A": ["straight"]}

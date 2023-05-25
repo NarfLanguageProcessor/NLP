@@ -1,1 +1,1 @@
-{"index": 273706, "D": "a large mass of stone forming a hill, cliff, promontory, or the like.", "S": ["loyal ", "staunch ", "steady ", "sturdy ", "true ", "trustworthy "], "A": ["disloyal ", "undependable ", "unfaithful ", "unreliable ", "unstable ", "untrustworthy ", "weak ", "wobbly "]}
+{"index": 273706, "D": "a large mass of stone forming a hill, cliff, promontory, or the like.", "S": ["loyal", "staunch", "steady", "sturdy", "true", "trustworthy"], "A": ["disloyal", "undependable", "unfaithful", "unreliable", "unstable", "untrustworthy", "weak", "wobbly"]}

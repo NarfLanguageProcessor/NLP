@@ -1,1 +1,1 @@
-{"index": 31176, "D": "inclined or eager to fight; aggressively hostile; belligerent; pugnacious. ", "S": ["antagonistic ", "combative ", "threatening "], "A": ["agreeable "]}
+{"index": 31176, "D": "inclined or eager to fight; aggressively hostile; belligerent; pugnacious. ", "S": ["antagonistic", "combative", "threatening"], "A": ["agreeable"]}

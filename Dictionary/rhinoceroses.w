@@ -1,1 +1,1 @@
-{"index": 272048, "D": "any of several large, thick-skinned, perissodactyl mammals of the family Rhinocerotidae, of Africa and India, having one or two upright horns on the snout", "S": ["elephant ", "hippopotamus ", "mammoth ", "mastodon "], "A": []}
+{"index": 272048, "D": "any of several large, thick-skinned, perissodactyl mammals of the family Rhinocerotidae, of Africa and India, having one or two upright horns on the snout", "S": ["elephant", "hippopotamus", "mammoth", "mastodon"], "A": []}

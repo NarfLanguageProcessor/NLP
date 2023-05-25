@@ -1,1 +1,1 @@
-{"index": 14233, "D": "the position opposite a given part of a plant", "S": ["antecedence ", "earliness ", "lead ", "precedency ", "precession ", "preeminence ", "preexistence ", "preference ", "primary ", "priority ", "rank ", "seniority ", "superiority ", "supremacy "], "A": ["subservience "]}
+{"index": 14233, "D": "the position opposite a given part of a plant", "S": ["antecedence", "earliness", "lead", "precedency", "precession", "preeminence", "preexistence", "preference", "primary", "priority", "rank", "seniority", "superiority", "supremacy"], "A": ["subservience"]}

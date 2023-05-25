@@ -1,1 +1,0 @@
-{"index": 240348, "D": "a piece of wood or other material used to stop up a hole or aperture, to fill a gap, or to act as a wedge.", "S": ["diligent ", "exacting ", "indefatigable ", "laborious ", "scrupulous ", "zealous "], "A": ["indifferent ", "lazy ", "lethargic ", "negligent "]}

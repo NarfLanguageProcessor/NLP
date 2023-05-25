@@ -1,1 +1,0 @@
-{"index": 224338, "D": "of or relating to Panama or its inhabitants", "S": [], "A": []}

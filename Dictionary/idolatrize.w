@@ -1,1 +1,1 @@
-{"index": 146627, "D": "(tr) a less common word for idolize", "S": ["beatify ", "consecrate "], "A": ["condemn ", "degrade ", "dishonor ", "hate ", "lower "]}
+{"index": 146627, "D": "(tr) a less common word for idolize", "S": ["beatify", "consecrate"], "A": ["condemn", "degrade", "dishonor", "hate", "lower"]}

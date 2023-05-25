@@ -1,1 +1,1 @@
-{"index": 174733, "D": "faithful to one's sovereign, government, or state", "S": ["ardent ", "devoted ", "dutiful ", "patriotic ", "staunch ", "steadfast ", "true ", "trustworthy "], "A": ["disloyal ", "faithless ", "undependable ", "unfaithful ", "unreliable ", "untrustworthy "]}
+{"index": 174733, "D": "faithful to one's sovereign, government, or state", "S": ["ardent", "devoted", "dutiful", "patriotic", "staunch", "steadfast", "true", "trustworthy"], "A": ["disloyal", "faithless", "undependable", "unfaithful", "unreliable", "untrustworthy"]}

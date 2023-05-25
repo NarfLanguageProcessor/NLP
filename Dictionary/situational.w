@@ -1,1 +1,1 @@
-{"index": 292667, "D": "manner of being situated;  location or position with reference to environment", "S": ["circumstantial ", "specific "], "A": []}
+{"index": 292667, "D": "manner of being situated;  location or position with reference to environment", "S": ["circumstantial", "specific"], "A": []}

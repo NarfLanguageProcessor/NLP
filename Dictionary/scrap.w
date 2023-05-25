@@ -1,1 +1,1 @@
-{"index": 281567, "D": "a small piece or portion; fragment", "S": ["chunk ", "fragment ", "grain ", "hunk ", "lump ", "morsel ", "shred ", "sliver ", "snippet ", "speck "], "A": ["lot ", "whole "]}
+{"index": 281567, "D": "a small piece or portion; fragment", "S": ["chunk", "fragment", "grain", "hunk", "lump", "morsel", "shred", "sliver", "snippet", "speck"], "A": ["lot", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 156742, "D": "belonging to a thing by its very nature", "S": ["deep-seated ", "elemental ", "inherent ", "innate ", "peculiar ", "underlying "], "A": ["acquired ", "extrinsic ", "learned "]}
+{"index": 156742, "D": "belonging to a thing by its very nature", "S": ["deep-seated", "elemental", "inherent", "innate", "peculiar", "underlying"], "A": ["acquired", "extrinsic", "learned"]}

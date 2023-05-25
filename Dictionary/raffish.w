@@ -1,1 +1,1 @@
-{"index": 259870, "D": "mildly or sometimes engagingly disreputable or nonconformist", "S": ["bohemian ", "disreputable ", "jaunty ", "rakish "], "A": ["couth ", "proper "]}
+{"index": 259870, "D": "mildly or sometimes engagingly disreputable or nonconformist", "S": ["bohemian", "disreputable", "jaunty", "rakish"], "A": ["couth", "proper"]}

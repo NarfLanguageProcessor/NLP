@@ -1,1 +1,1 @@
-{"index": 100445, "D": "to insert, as a scion of one tree or plant into another, for propagation", "S": ["diffuse ", "disseminate ", "engender ", "imbue ", "impart ", "inculcate ", "inject ", "inspire "], "A": ["take out ", "leave alone ", "neglect "]}
+{"index": 100445, "D": "to insert, as a scion of one tree or plant into another, for propagation", "S": ["diffuse", "disseminate", "engender", "imbue", "impart", "inculcate", "inject", "inspire"], "A": ["take out", "leave alone", "neglect"]}

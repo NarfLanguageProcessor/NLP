@@ -1,1 +1,1 @@
-{"index": 262033, "D": "the act or process of a person who reasons. ", "S": ["acumen ", "analysis ", "argument ", "hypothesis ", "inference ", "interpretation ", "premise ", "proposition ", "rationale ", "thinking "], "A": ["reality ", "truth "]}
+{"index": 262033, "D": "the act or process of a person who reasons. ", "S": ["acumen", "analysis", "argument", "hypothesis", "inference", "interpretation", "premise", "proposition", "rationale", "thinking"], "A": ["reality", "truth"]}

@@ -1,1 +1,1 @@
-{"index": 304281, "D": "a branch or shoot of a tree or shrub that has been cut or broken off.", "S": ["bar ", "bat ", "baton ", "cane ", "club ", "rod ", "slab ", "stalk ", "strip ", "wand ", "wedge "], "A": []}
+{"index": 304281, "D": "a branch or shoot of a tree or shrub that has been cut or broken off.", "S": ["bar", "bat", "baton", "cane", "club", "rod", "slab", "stalk", "strip", "wand", "wedge"], "A": []}

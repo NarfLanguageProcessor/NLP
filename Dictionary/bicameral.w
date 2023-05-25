@@ -1,1 +1,1 @@
-{"index": 33355, "D": "having two branches, chambers, or houses, as a legislative body.", "S": ["amphibian ", "binary ", "diploid "], "A": []}
+{"index": 33355, "D": "having two branches, chambers, or houses, as a legislative body.", "S": ["amphibian", "binary", "diploid"], "A": []}

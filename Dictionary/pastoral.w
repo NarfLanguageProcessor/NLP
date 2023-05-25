@@ -1,1 +1,1 @@
-{"index": 227479, "D": "having the simplicity, charm, serenity, or other characteristics generally attributed to rural areas", "S": ["agrarian ", "bucolic ", "idyllic ", "rural ", "rustic "], "A": ["city ", "metropolitan ", "suburban ", "urban "]}
+{"index": 227479, "D": "having the simplicity, charm, serenity, or other characteristics generally attributed to rural areas", "S": ["agrarian", "bucolic", "idyllic", "rural", "rustic"], "A": ["city", "metropolitan", "suburban", "urban"]}

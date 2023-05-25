@@ -1,0 +1,1 @@
+{"index": 4911, "D": "a trapeze artist.", "S": ["clown", "dancer", "gymnast", "performer", "tumbler"], "A": ["clod"]}

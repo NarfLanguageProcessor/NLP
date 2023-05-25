@@ -1,1 +1,1 @@
-{"index": 10225, "D": "to make or become better, more bearable, or more satisfactory; improve", "S": ["alleviate ", "lighten ", "mitigate "], "A": ["aggravate ", "increase ", "intensify ", "decrease ", "harm ", "hurt ", "injure ", "worsen "]}
+{"index": 10225, "D": "to make or become better, more bearable, or more satisfactory; improve", "S": ["alleviate", "lighten", "mitigate"], "A": ["aggravate", "increase", "intensify", "decrease", "harm", "hurt", "injure", "worsen"]}

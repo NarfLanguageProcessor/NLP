@@ -1,1 +1,1 @@
-{"index": 302519, "D": "having a stalk  or stem.", "S": ["chased ", "dogged ", "followed ", "hounded ", "outlawed ", "tailed ", "tracked ", "trailed ", "wanted "], "A": []}
+{"index": 302519, "D": "having a stalk  or stem.", "S": ["chased", "dogged", "followed", "hounded", "outlawed", "tailed", "tracked", "trailed", "wanted"], "A": []}

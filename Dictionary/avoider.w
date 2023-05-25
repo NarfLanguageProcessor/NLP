@@ -1,1 +1,1 @@
-{"index": 24855, "D": "to keep away from; keep clear of; shun", "S": ["deadbeat ", "goldbrick ", "good-for-nothing ", "goof-off ", "idler ", "loafer ", "quitter ", "slouch "], "A": ["hard worker "]}
+{"index": 24855, "D": "to keep away from; keep clear of; shun", "S": ["deadbeat", "goldbrick", "good-for-nothing", "goof-off", "idler", "loafer", "quitter", "slouch"], "A": ["hard worker"]}

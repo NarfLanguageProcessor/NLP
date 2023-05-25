@@ -1,1 +1,1 @@
-{"index": 306018, "D": "a public vehicle running regularly along certain streets,  usually on rails, as a trolley car  or trolley bus.", "S": ["trolley "], "A": []}
+{"index": 306018, "D": "a public vehicle running regularly along certain streets,  usually on rails, as a trolley car  or trolley bus.", "S": ["trolley"], "A": []}

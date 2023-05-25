@@ -1,1 +1,1 @@
-{"index": 183442, "D": "a range of sizes in even and odd numbers for garments made for men. ", "S": ["armed forces ", "army ", "contingent ", "crew ", "delegation ", "gang ", "military ", "party ", "servicemen ", "squad ", "team ", "unit "], "A": ["individual ", "one "]}
+{"index": 183442, "D": "a range of sizes in even and odd numbers for garments made for men. ", "S": ["armed forces", "army", "contingent", "crew", "delegation", "gang", "military", "party", "servicemen", "squad", "team", "unit"], "A": ["individual", "one"]}

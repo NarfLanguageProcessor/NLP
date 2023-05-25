@@ -1,1 +1,1 @@
-{"index": 518, "D": "the act of abjuring. ", "S": ["backdown ", "recantation ", "renunciation ", "withdrawal "], "A": []}
+{"index": 518, "D": "the act of abjuring. ", "S": ["backdown", "recantation", "renunciation", "withdrawal"], "A": []}

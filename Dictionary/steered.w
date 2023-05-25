@@ -1,1 +1,1 @@
-{"index": 303472, "D": "to guide the course of (something in motion) by a rudder, helm, wheel, etc.", "S": ["anticipated ", "calculated ", "designed ", "directed ", "intended ", "marked ", "planned "], "A": []}
+{"index": 303472, "D": "to guide the course of (something in motion) by a rudder, helm, wheel, etc.", "S": ["anticipated", "calculated", "designed", "directed", "intended", "marked", "planned"], "A": []}

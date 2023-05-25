@@ -1,1 +1,1 @@
-{"index": 42890, "D": "a large bin or receptacle; a fixed chest or box", "S": ["dugout ", "fortification ", "shelter "], "A": []}
+{"index": 42890, "D": "a large bin or receptacle; a fixed chest or box", "S": ["dugout", "fortification", "shelter"], "A": []}

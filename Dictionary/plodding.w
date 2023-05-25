@@ -1,1 +1,1 @@
-{"index": 240171, "D": "to walk heavily or move laboriously; trudge", "S": ["boring ", "humdrum ", "monotone ", "pedestrian "], "A": ["exciting ", "interesting "]}
+{"index": 240171, "D": "to walk heavily or move laboriously; trudge", "S": ["boring", "humdrum", "monotone", "pedestrian"], "A": ["exciting", "interesting"]}

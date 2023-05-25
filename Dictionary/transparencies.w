@@ -1,1 +1,1 @@
-{"index": 328187, "D": "the quality or state of being transparent.", "S": ["clarity "], "A": ["opacity ", "opaqueness "]}
+{"index": 328187, "D": "the quality or state of being transparent.", "S": ["clarity"], "A": ["opacity", "opaqueness"]}

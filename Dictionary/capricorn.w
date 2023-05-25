@@ -1,1 +1,1 @@
-{"index": 47067, "D": "the Goat, a zodiacal constellation between Sagittarius and Aquarius.", "S": ["Aquarius ", "Aries ", "Cancer ", "Gemini ", "Libra ", "Pisces ", "Sagittarius ", "Scorpio ", "Taurus ", "Virgo ", "horoscope sign ", "leo ", "zodiac sign "], "A": []}
+{"index": 47067, "D": "the Goat, a zodiacal constellation between Sagittarius and Aquarius.", "S": ["Aquarius", "Aries", "Cancer", "Gemini", "Libra", "Pisces", "Sagittarius", "Scorpio", "Taurus", "Virgo", "horoscope sign", "leo", "zodiac sign"], "A": []}

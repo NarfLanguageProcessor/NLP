@@ -1,1 +1,1 @@
-{"index": 11732, "D": "absence of sense of pain.", "S": ["insentience ", "numbness ", "stupor ", "unconsciousness "], "A": []}
+{"index": 11732, "D": "absence of sense of pain.", "S": ["insentience", "numbness", "stupor", "unconsciousness"], "A": []}

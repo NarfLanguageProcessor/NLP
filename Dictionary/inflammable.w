@@ -1,1 +1,1 @@
-{"index": 152088, "D": "capable of being set on fire; combustible; flammable.", "S": ["burnable ", "combustible ", "dangerous ", "flammable ", "hazardous ", "ignitable ", "incendiary ", "risky ", "unsafe "], "A": ["incombustible "]}
+{"index": 152088, "D": "capable of being set on fire; combustible; flammable.", "S": ["burnable", "combustible", "dangerous", "flammable", "hazardous", "ignitable", "incendiary", "risky", "unsafe"], "A": ["incombustible"]}

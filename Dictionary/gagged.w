@@ -1,1 +1,1 @@
-{"index": 120958, "D": "to stop up the mouth of (a person) by putting something in it, thus preventing speech, shouts, etc.", "S": ["quieted "], "A": []}
+{"index": 120958, "D": "to stop up the mouth of (a person) by putting something in it, thus preventing speech, shouts, etc.", "S": ["quieted"], "A": []}

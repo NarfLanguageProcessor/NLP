@@ -1,1 +1,1 @@
-{"index": 309294, "D": "to make or become substantial or actual", "S": ["appear ", "emerge ", "happen ", "occur ", "realize ", "take place ", "turn up ", "unfold "], "A": ["disappear ", "hide ", "leave ", "lose ", "decrease ", "halt ", "stop "]}
+{"index": 309294, "D": "to make or become substantial or actual", "S": ["appear", "emerge", "happen", "occur", "realize", "take place", "turn up", "unfold"], "A": ["disappear", "hide", "leave", "lose", "decrease", "halt", "stop"]}

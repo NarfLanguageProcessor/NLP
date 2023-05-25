@@ -1,1 +1,1 @@
-{"index": 286354, "D": "having a notched edge or sawlike teeth, especially for cutting; serrate", "S": ["indented ", "notched ", "ragged ", "scored ", "serrate "], "A": ["smooth "]}
+{"index": 286354, "D": "having a notched edge or sawlike teeth, especially for cutting; serrate", "S": ["indented", "notched", "ragged", "scored", "serrate"], "A": ["smooth"]}

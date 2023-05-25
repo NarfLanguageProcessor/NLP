@@ -1,1 +1,1 @@
-{"index": 183558, "D": "the position or services of a wise and trusted counselor or senior sponsor, often in a particular field", "S": ["practice "], "A": []}
+{"index": 183558, "D": "the position or services of a wise and trusted counselor or senior sponsor, often in a particular field", "S": ["practice"], "A": []}

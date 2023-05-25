@@ -1,1 +1,1 @@
-{"index": 2416, "D": "acid (def. 5). ", "S": ["sour "], "A": []}
+{"index": 2416, "D": "acid (def. 5). ", "S": ["sour"], "A": []}

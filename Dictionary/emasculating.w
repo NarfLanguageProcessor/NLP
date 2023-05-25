@@ -1,1 +1,1 @@
-{"index": 97944, "D": "to castrate. ", "S": ["vitiate "], "A": ["aid ", "assist ", "energize ", "help ", "invigorate ", "strengthen "]}
+{"index": 97944, "D": "to castrate. ", "S": ["vitiate"], "A": ["aid", "assist", "energize", "help", "invigorate", "strengthen"]}

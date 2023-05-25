@@ -1,1 +1,1 @@
-{"index": 8148, "D": "a set of rules for solving a problem in a finite number of steps, such as the Euclidean algorithm  for finding the greatest common divisor.", "S": ["breakthrough ", "conclusion ", "data ", "design ", "finding ", "innovation ", "method ", "result "], "A": ["bad fortune "]}
+{"index": 8148, "D": "a set of rules for solving a problem in a finite number of steps, such as the Euclidean algorithm  for finding the greatest common divisor.", "S": ["breakthrough", "conclusion", "data", "design", "finding", "innovation", "method", "result"], "A": ["bad fortune"]}

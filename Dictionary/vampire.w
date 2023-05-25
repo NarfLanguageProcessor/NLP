@@ -1,1 +1,1 @@
-{"index": 356895, "D": "a preternatural being, commonly believed to be a reanimated corpse, that is said to suck the blood of sleeping persons at night.", "S": ["extortioner ", "freeloader ", "leech ", "parasite ", "sponge ", "tick "], "A": []}
+{"index": 356895, "D": "a preternatural being, commonly believed to be a reanimated corpse, that is said to suck the blood of sleeping persons at night.", "S": ["extortioner", "freeloader", "leech", "parasite", "sponge", "tick"], "A": []}

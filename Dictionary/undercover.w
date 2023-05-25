@@ -1,1 +1,1 @@
-{"index": 339040, "D": "working or done out of public sight; secret", "S": ["covert "], "A": ["known ", "open ", "public "]}
+{"index": 339040, "D": "working or done out of public sight; secret", "S": ["covert"], "A": ["known", "open", "public"]}

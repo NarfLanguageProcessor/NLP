@@ -1,1 +1,1 @@
-{"index": 144151, "D": "stockings or socks of any kind.", "S": ["sock ", "tights ", "tube ", "tubing "], "A": []}
+{"index": 144151, "D": "stockings or socks of any kind.", "S": ["sock", "tights", "tube", "tubing"], "A": []}

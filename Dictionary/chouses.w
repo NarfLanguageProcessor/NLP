@@ -1,1 +1,1 @@
-{"index": 55935, "D": "to swindle; cheat (often followed by of or out of).", "S": ["circumvent ", "con ", "deceive ", "dupe ", "embezzle ", "fleece ", "rob ", "swindle ", "victimize "], "A": ["aid ", "assist ", "give ", "help ", "offer ", "fail ", "lose ", "receive ", "refuse "]}
+{"index": 55935, "D": "to swindle; cheat (often followed by of or out of).", "S": ["circumvent", "con", "deceive", "dupe", "embezzle", "fleece", "rob", "swindle", "victimize"], "A": ["aid", "assist", "give", "help", "offer", "fail", "lose", "receive", "refuse"]}

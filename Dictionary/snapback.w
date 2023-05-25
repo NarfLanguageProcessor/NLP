@@ -1,1 +1,1 @@
-{"index": 295281, "D": "a sudden rebound or recovery.", "S": ["bound ", "bump ", "carom ", "hop ", "jump ", "leap ", "rebound ", "ricochet "], "A": []}
+{"index": 295281, "D": "a sudden rebound or recovery.", "S": ["bound", "bump", "carom", "hop", "jump", "leap", "rebound", "ricochet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 127941, "D": "to blunder; make an error, misjudgment, etc.", "S": ["err ", "flub ", "screw up "], "A": ["correct ", "do well ", "fix ", "succeed "]}
+{"index": 127941, "D": "to blunder; make an error, misjudgment, etc.", "S": ["err", "flub", "screw up"], "A": ["correct", "do well", "fix", "succeed"]}

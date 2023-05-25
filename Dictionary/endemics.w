@@ -1,1 +1,1 @@
-{"index": 99645, "D": "natural to or characteristic of a specific people or place; native; indigenous", "S": ["contagion ", "disease ", "endemic ", "infection ", "outbreak ", "plague ", "rash ", "scourge ", "sickness ", "virus "], "A": ["advantage ", "health "]}
+{"index": 99645, "D": "natural to or characteristic of a specific people or place; native; indigenous", "S": ["contagion", "disease", "endemic", "infection", "outbreak", "plague", "rash", "scourge", "sickness", "virus"], "A": ["advantage", "health"]}

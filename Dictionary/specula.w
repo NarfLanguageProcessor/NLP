@@ -1,1 +1,1 @@
-{"index": 298957, "D": "a mirror or reflector, especially one of polished metal, as on a reflecting telescope.", "S": ["reflector "], "A": []}
+{"index": 298957, "D": "a mirror or reflector, especially one of polished metal, as on a reflecting telescope.", "S": ["reflector"], "A": []}

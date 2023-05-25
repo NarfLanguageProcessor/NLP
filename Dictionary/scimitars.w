@@ -1,1 +1,1 @@
-{"index": 280692, "D": "a curved, single-edged sword of Asian, especially Eastern origin.", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}
+{"index": 280692, "D": "a curved, single-edged sword of Asian, especially Eastern origin.", "S": ["bayonet", "blade", "cutter", "dagger", "machete", "scalpel", "sickle", "skewer", "sword"], "A": []}

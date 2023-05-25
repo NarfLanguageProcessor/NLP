@@ -1,0 +1,1 @@
+{"index": 4937, "D": "any of several short, rod-shaped, Gram-negative bacteria of the genus Aerobacter, free living in nature and also normally inhabiting the intestinal tracts of humans and other animals.", "S": [], "A": []}

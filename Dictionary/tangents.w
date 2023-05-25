@@ -1,1 +1,1 @@
-{"index": 316035, "D": "in immediate physical contact; touching.", "S": ["departure ", "digression ", "interpolation ", "interposition ", "parenthesis ", "tangent ", "throwaway "], "A": []}
+{"index": 316035, "D": "in immediate physical contact; touching.", "S": ["departure", "digression", "interpolation", "interposition", "parenthesis", "tangent", "throwaway"], "A": []}

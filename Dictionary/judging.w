@@ -1,1 +1,1 @@
-{"index": 162066, "D": "rendering an authoritative decision, as in a legal case, contest, dispute, or the like", "S": ["deciding ", "judgment "], "A": []}
+{"index": 162066, "D": "rendering an authoritative decision, as in a legal case, contest, dispute, or the like", "S": ["deciding", "judgment"], "A": []}

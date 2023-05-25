@@ -1,1 +1,1 @@
-{"index": 263966, "D": "to furnish or adorn with something ornamental or becoming; embellish", "S": ["fix up ", "redo ", "remodel ", "renovate "], "A": ["damage "]}
+{"index": 263966, "D": "to furnish or adorn with something ornamental or becoming; embellish", "S": ["fix up", "redo", "remodel", "renovate"], "A": ["damage"]}

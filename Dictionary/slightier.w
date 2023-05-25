@@ -1,1 +1,1 @@
-{"index": 294067, "D": [], "S": ["crackerjack ", "smart ", "smooth "], "A": ["gullible ", "kind ", "naive ", "shy ", "unimaginative "]}
+{"index": 294067, "D": [], "S": ["crackerjack", "smart", "smooth"], "A": ["gullible", "kind", "naive", "shy", "unimaginative"]}

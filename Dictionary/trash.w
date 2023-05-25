@@ -1,1 +1,1 @@
-{"index": 328514, "D": "anything worthless, useless, or discarded; rubbish. ", "S": ["debris ", "droppings ", "junk ", "litter ", "residue ", "rubbish ", "rubble ", "sediment ", "waste "], "A": ["possessions "]}
+{"index": 328514, "D": "anything worthless, useless, or discarded; rubbish. ", "S": ["debris", "droppings", "junk", "litter", "residue", "rubbish", "rubble", "sediment", "waste"], "A": ["possessions"]}

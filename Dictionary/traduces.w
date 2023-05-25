@@ -1,1 +1,1 @@
-{"index": 327304, "D": "to speak maliciously and falsely of; slander; defame", "S": ["calumniate ", "defame ", "denigrate ", "disgrace ", "malign ", "slander ", "slur ", "smear ", "vilify "], "A": ["compliment ", "exalt ", "flatter ", "honor ", "praise "]}
+{"index": 327304, "D": "to speak maliciously and falsely of; slander; defame", "S": ["calumniate", "defame", "denigrate", "disgrace", "malign", "slander", "slur", "smear", "vilify"], "A": ["compliment", "exalt", "flatter", "honor", "praise"]}

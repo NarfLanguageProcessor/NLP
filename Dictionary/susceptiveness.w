@@ -1,1 +1,1 @@
-{"index": 313700, "D": "receptive. ", "S": ["disclosure ", "hazard ", "liability ", "publicity ", "risk ", "vulnerability "], "A": ["certainty ", "safety ", "secret ", "surety ", "concealment ", "cover ", "hiding ", "protection "]}
+{"index": 313700, "D": "receptive. ", "S": ["disclosure", "hazard", "liability", "publicity", "risk", "vulnerability"], "A": ["certainty", "safety", "secret", "surety", "concealment", "cover", "hiding", "protection"]}

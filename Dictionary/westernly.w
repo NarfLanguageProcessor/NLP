@@ -1,1 +1,1 @@
-{"index": 364256, "D": [], "S": ["westerly ", "westward "], "A": ["easterly ", "eastern "]}
+{"index": 364256, "D": [], "S": ["westerly", "westward"], "A": ["easterly", "eastern"]}

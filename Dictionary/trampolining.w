@@ -1,1 +1,1 @@
-{"index": 327594, "D": [], "S": ["balance beam ", "horizontal bar ", "pommel horse ", "side horse ", "stationary rings ", "tumbling ", "uneven parallel bars ", "vaulting "], "A": []}
+{"index": 327594, "D": [], "S": ["balance beam", "horizontal bar", "pommel horse", "side horse", "stationary rings", "tumbling", "uneven parallel bars", "vaulting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183262, "D": "the quality of being mendacious;  untruthfulness; tendency to lie.", "S": ["deceit ", "deception ", "prevarication "], "A": ["frankness ", "honesty ", "openness ", "truth ", "truthfulness ", "uprightness "]}
+{"index": 183262, "D": "the quality of being mendacious;  untruthfulness; tendency to lie.", "S": ["deceit", "deception", "prevarication"], "A": ["frankness", "honesty", "openness", "truth", "truthfulness", "uprightness"]}

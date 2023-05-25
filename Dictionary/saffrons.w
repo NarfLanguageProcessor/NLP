@@ -1,1 +1,1 @@
-{"index": 276593, "D": "a crocus, Crocus sativus, having showy purple flowers.", "S": ["amber ", "bisque ", "blond ", "buff ", "chrome ", "cream ", "gold ", "ivory ", "lemon ", "sand "], "A": []}
+{"index": 276593, "D": "a crocus, Crocus sativus, having showy purple flowers.", "S": ["amber", "bisque", "blond", "buff", "chrome", "cream", "gold", "ivory", "lemon", "sand"], "A": []}

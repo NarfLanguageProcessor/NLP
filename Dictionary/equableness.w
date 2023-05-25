@@ -1,1 +1,1 @@
-{"index": 103151, "D": "free from many changes or variations; uniform", "S": ["conformity ", "equality ", "harmony ", "regularity ", "sameness "], "A": ["difference ", "disagreement ", "discord ", "disproportion ", "dissimilarity ", "imbalance "]}
+{"index": 103151, "D": "free from many changes or variations; uniform", "S": ["conformity", "equality", "harmony", "regularity", "sameness"], "A": ["difference", "disagreement", "discord", "disproportion", "dissimilarity", "imbalance"]}

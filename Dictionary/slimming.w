@@ -1,1 +1,1 @@
-{"index": 294102, "D": "slimming aids", "S": ["diet ", "reduce ", "slenderize "], "A": ["gain "]}
+{"index": 294102, "D": "slimming aids", "S": ["diet", "reduce", "slenderize"], "A": ["gain"]}

@@ -1,1 +1,1 @@
-{"index": 191455, "D": "any of various small insectivorous mammals, especially of the family Talpidae, living chiefly underground, and having velvety fur, very small eyes, and strong forefeet", "S": ["freckle "], "A": []}
+{"index": 191455, "D": "any of various small insectivorous mammals, especially of the family Talpidae, living chiefly underground, and having velvety fur, very small eyes, and strong forefeet", "S": ["freckle"], "A": []}

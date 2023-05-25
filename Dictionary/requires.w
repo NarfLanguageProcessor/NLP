@@ -1,1 +1,1 @@
-{"index": 268876, "D": "to have need of; need", "S": ["behooves ", "have to ", "is becoming ", "is fitting ", "is logical ", "is natural ", "is necessary ", "is reasonable ", "is responsible for ", "must "], "A": []}
+{"index": 268876, "D": "to have need of; need", "S": ["behooves", "have to", "is becoming", "is fitting", "is logical", "is natural", "is necessary", "is reasonable", "is responsible for", "must"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 34762, "D": "a box, usually fashioned to resemble a house,  for birds  to live in.", "S": ["columbary ", "volary "], "A": []}
+{"index": 34762, "D": "a box, usually fashioned to resemble a house,  for birds  to live in.", "S": ["columbary", "volary"], "A": []}

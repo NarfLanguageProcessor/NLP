@@ -1,1 +1,1 @@
-{"index": 162103, "D": "the judicial branch of government.", "S": ["assizes ", "bar ", "bench ", "court ", "courts ", "judicature ", "justices ", "tribunal "], "A": []}
+{"index": 162103, "D": "the judicial branch of government.", "S": ["assizes", "bar", "bench", "court", "courts", "judicature", "justices", "tribunal"], "A": []}

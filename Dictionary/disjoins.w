@@ -1,1 +1,1 @@
-{"index": 88512, "D": "to undo or prevent the junction or union of; disunite; separate.", "S": ["detach ", "dislocate ", "luxate "], "A": []}
+{"index": 88512, "D": "to undo or prevent the junction or union of; disunite; separate.", "S": ["detach", "dislocate", "luxate"], "A": []}

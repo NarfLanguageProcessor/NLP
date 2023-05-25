@@ -1,1 +1,1 @@
-{"index": 291359, "D": "synchronization", "S": ["concur ", "correspond ", "jibe "], "A": ["differ ", "disagree ", "dissent ", "oppose ", "protest ", "refuse "]}
+{"index": 291359, "D": "synchronization", "S": ["concur", "correspond", "jibe"], "A": ["differ", "disagree", "dissent", "oppose", "protest", "refuse"]}

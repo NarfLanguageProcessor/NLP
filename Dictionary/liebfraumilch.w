@@ -1,1 +1,1 @@
-{"index": 171805, "D": "a white wine produced chiefly in the region of Hesse in Germany.", "S": ["Gewurztraminer ", "Moselle ", "Orvieto ", "Rhine ", "Riesling ", "asti spumante ", "chablis ", "chardonnay ", "chenin blanc ", "osso buco "], "A": []}
+{"index": 171805, "D": "a white wine produced chiefly in the region of Hesse in Germany.", "S": ["Gewurztraminer", "Moselle", "Orvieto", "Rhine", "Riesling", "asti spumante", "chablis", "chardonnay", "chenin blanc", "osso buco"], "A": []}

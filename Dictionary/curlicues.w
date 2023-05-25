@@ -1,1 +1,1 @@
-{"index": 75350, "D": "an ornamental, fancy curl or twist, as in a signature.", "S": ["braid ", "tendril "], "A": ["line "]}
+{"index": 75350, "D": "an ornamental, fancy curl or twist, as in a signature.", "S": ["braid", "tendril"], "A": ["line"]}

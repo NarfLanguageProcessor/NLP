@@ -1,1 +1,1 @@
-{"index": 359962, "D": "of, resembling, or containing wine. ", "S": ["fermented "], "A": []}
+{"index": 359962, "D": "of, resembling, or containing wine. ", "S": ["fermented"], "A": []}

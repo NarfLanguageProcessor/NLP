@@ -1,1 +1,1 @@
-{"index": 172062, "D": "a brilliant electric spark discharge in the atmosphere, occurring within a thundercloud, between clouds, or between a cloud and the ground.", "S": ["bolt ", "fulmination "], "A": []}
+{"index": 172062, "D": "a brilliant electric spark discharge in the atmosphere, occurring within a thundercloud, between clouds, or between a cloud and the ground.", "S": ["bolt", "fulmination"], "A": []}

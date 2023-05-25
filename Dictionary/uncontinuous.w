@@ -1,1 +1,0 @@
-{"index": 337846, "D": "uninterrupted in time; without cessation", "S": ["detached ", "muddled ", "separated ", "uncoordinated "], "A": ["attached ", "connected ", "united ", "ordered "]}

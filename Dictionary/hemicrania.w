@@ -1,1 +1,1 @@
-{"index": 136133, "D": "pain in one side of the head.", "S": ["cephalalgia ", "megrim ", "migraine ", "misery in the head ", "sinus headache ", "splitting headache "], "A": []}
+{"index": 136133, "D": "pain in one side of the head.", "S": ["cephalalgia", "megrim", "migraine", "misery in the head", "sinus headache", "splitting headache"], "A": []}

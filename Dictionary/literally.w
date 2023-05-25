@@ -1,1 +1,1 @@
-{"index": 173575, "D": "in the literal  or strict sense", "S": ["actually ", "completely ", "directly ", "plainly ", "precisely ", "really ", "simply ", "truly "], "A": ["doubtfully "]}
+{"index": 173575, "D": "in the literal  or strict sense", "S": ["actually", "completely", "directly", "plainly", "precisely", "really", "simply", "truly"], "A": ["doubtfully"]}

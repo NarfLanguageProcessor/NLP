@@ -1,1 +1,1 @@
-{"index": 48340, "D": "a noisy or drunken feast or social gathering; revelry.", "S": ["bacchanals ", "banquet ", "bender ", "binge ", "carouse ", "drunk ", "feast ", "festival ", "frolic ", "jamboree ", "orgy ", "revel ", "romp ", "saturnalia ", "shindy ", "spree ", "wassail "], "A": []}
+{"index": 48340, "D": "a noisy or drunken feast or social gathering; revelry.", "S": ["bacchanals", "banquet", "bender", "binge", "carouse", "drunk", "feast", "festival", "frolic", "jamboree", "orgy", "revel", "romp", "saturnalia", "shindy", "spree", "wassail"], "A": []}

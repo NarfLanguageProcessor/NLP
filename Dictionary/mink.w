@@ -1,1 +1,1 @@
-{"index": 187963, "D": "a semiaquatic weasellike animal of the genus Mustela, especially the North American M. vison.", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}
+{"index": 187963, "D": "a semiaquatic weasellike animal of the genus Mustela, especially the North American M. vison.", "S": ["cloak", "frock", "jacket", "overcoat", "raincoat", "suit", "tuxedo", "windbreaker", "wrap"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 235886, "D": "someone or something that picks. ", "S": ["binder ", "picker "], "A": []}
+{"index": 235886, "D": "someone or something that picks. ", "S": ["binder", "picker"], "A": []}

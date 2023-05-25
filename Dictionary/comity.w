@@ -1,1 +1,1 @@
-{"index": 63854, "D": "mutual courtesy; civility. ", "S": ["amicableness ", "benevolence ", "concord ", "cordiality ", "friendliness ", "goodwill ", "harmony ", "kindliness ", "neighborliness ", "togetherness "], "A": ["aloofness ", "disagreement ", "discord ", "hostility ", "ill will "]}
+{"index": 63854, "D": "mutual courtesy; civility. ", "S": ["amicableness", "benevolence", "concord", "cordiality", "friendliness", "goodwill", "harmony", "kindliness", "neighborliness", "togetherness"], "A": ["aloofness", "disagreement", "discord", "hostility", "ill will"]}

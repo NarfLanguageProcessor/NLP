@@ -1,1 +1,1 @@
-{"index": 70858, "D": "a table or display case on which goods can be shown, business transacted, etc.", "S": ["checking ", "counter to ", "counterproductive ", "interfering ", "opposite "], "A": []}
+{"index": 70858, "D": "a table or display case on which goods can be shown, business transacted, etc.", "S": ["checking", "counter to", "counterproductive", "interfering", "opposite"], "A": []}

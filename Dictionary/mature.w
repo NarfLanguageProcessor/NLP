@@ -1,1 +1,1 @@
-{"index": 181354, "D": "complete in natural growth or development, as plant and animal forms", "S": ["matured ", "sophisticated "], "A": ["ignorant ", "immature ", "inexperienced ", "unprepared ", "unready ", "unripe ", "unsuitable "]}
+{"index": 181354, "D": "complete in natural growth or development, as plant and animal forms", "S": ["matured", "sophisticated"], "A": ["ignorant", "immature", "inexperienced", "unprepared", "unready", "unripe", "unsuitable"]}

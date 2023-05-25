@@ -1,1 +1,1 @@
-{"index": 272608, "D": "the motion of an object or a projectile in rebounding or deflecting from a surface one or more times as a result of a glancing blow.", "S": ["bounce back ", "deflect "], "A": []}
+{"index": 272608, "D": "the motion of an object or a projectile in rebounding or deflecting from a surface one or more times as a result of a glancing blow.", "S": ["bounce back", "deflect"], "A": []}

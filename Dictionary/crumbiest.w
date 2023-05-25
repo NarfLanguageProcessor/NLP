@@ -1,1 +1,1 @@
-{"index": 74170, "D": "full of crumbs. ", "S": ["rough "], "A": ["clean ", "good ", "kind ", "moral ", "nice ", "noble ", "polite ", "sophisticated ", "superior "]}
+{"index": 74170, "D": "full of crumbs. ", "S": ["rough"], "A": ["clean", "good", "kind", "moral", "nice", "noble", "polite", "sophisticated", "superior"]}

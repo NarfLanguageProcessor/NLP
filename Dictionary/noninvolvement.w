@@ -1,1 +1,1 @@
-{"index": 204878, "D": "an act or instance of being included, or of including someone or something, in an action, process, group, etc.", "S": ["balance of trade ", "capitalism ", "managed prices ", "multilateral trade ", "open market ", "reciprocal trade "], "A": []}
+{"index": 204878, "D": "an act or instance of being included, or of including someone or something, in an action, process, group, etc.", "S": ["balance of trade", "capitalism", "managed prices", "multilateral trade", "open market", "reciprocal trade"], "A": []}

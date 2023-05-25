@@ -1,1 +1,1 @@
-{"index": 89900, "D": "affected with or suffering from distress. ", "S": ["afflicted ", "agitated ", "anxious ", "distraught ", "jittery ", "miffed ", "perturbed ", "shaky ", "troubled "], "A": ["calm ", "cool ", "happy ", "peaceful ", "pleased ", "untroubled ", "unworried "]}
+{"index": 89900, "D": "affected with or suffering from distress. ", "S": ["afflicted", "agitated", "anxious", "distraught", "jittery", "miffed", "perturbed", "shaky", "troubled"], "A": ["calm", "cool", "happy", "peaceful", "pleased", "untroubled", "unworried"]}

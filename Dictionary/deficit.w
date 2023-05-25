@@ -1,1 +1,1 @@
-{"index": 79282, "D": "the amount by which a sum of money falls short of the required amount.", "S": ["loss ", "shortfall "], "A": ["abundance ", "adequacy ", "advantage ", "enough ", "perfection ", "plenty ", "satisfaction ", "success ", "sufficiency "]}
+{"index": 79282, "D": "the amount by which a sum of money falls short of the required amount.", "S": ["loss", "shortfall"], "A": ["abundance", "adequacy", "advantage", "enough", "perfection", "plenty", "satisfaction", "success", "sufficiency"]}

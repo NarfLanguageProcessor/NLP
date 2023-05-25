@@ -1,1 +1,1 @@
-{"index": 211628, "D": "to make official;  place under official  authority or control.", "S": ["behave ", "operate ", "react ", "serve "], "A": ["abstain ", "cease ", "discontinue ", "fail ", "halt ", "idle ", "lose ", "stay ", "stop "]}
+{"index": 211628, "D": "to make official;  place under official  authority or control.", "S": ["behave", "operate", "react", "serve"], "A": ["abstain", "cease", "discontinue", "fail", "halt", "idle", "lose", "stay", "stop"]}

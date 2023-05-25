@@ -1,1 +1,1 @@
-{"index": 194249, "D": "a member of the Royal Canadian Mounted Police.", "S": ["squadron "], "A": []}
+{"index": 194249, "D": "a member of the Royal Canadian Mounted Police.", "S": ["squadron"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 185120, "D": "of, relating to, or consisting of meteors. ", "S": ["dazzling ", "ephemeral ", "flashing ", "fleeting ", "momentary ", "overnight ", "rapid ", "spectacular ", "speedy ", "swift ", "transient "], "A": ["slow "]}
+{"index": 185120, "D": "of, relating to, or consisting of meteors. ", "S": ["dazzling", "ephemeral", "flashing", "fleeting", "momentary", "overnight", "rapid", "spectacular", "speedy", "swift", "transient"], "A": ["slow"]}

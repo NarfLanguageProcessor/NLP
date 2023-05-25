@@ -1,1 +1,1 @@
-{"index": 94563, "D": "earth or other matter in fine, dry particles.", "S": ["dirt ", "earth ", "grime ", "lint ", "powder ", "sand ", "soil ", "soot "], "A": []}
+{"index": 94563, "D": "earth or other matter in fine, dry particles.", "S": ["dirt", "earth", "grime", "lint", "powder", "sand", "soil", "soot"], "A": []}

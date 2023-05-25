@@ -1,1 +1,1 @@
-{"index": 162396, "D": "a person addicted to drugs, especially one addicted to heroin.", "S": ["addict ", "drug abuser ", "drug addict ", "drug fiend ", "narcotics addict "], "A": []}
+{"index": 162396, "D": "a person addicted to drugs, especially one addicted to heroin.", "S": ["addict", "drug abuser", "drug addict", "drug fiend", "narcotics addict"], "A": []}

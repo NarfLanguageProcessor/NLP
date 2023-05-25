@@ -1,1 +1,1 @@
-{"index": 303239, "D": "firmly placed or fixed; stable in position or equilibrium", "S": ["calmness ", "composure ", "serenity ", "stability ", "symmetry "], "A": ["agitation ", "excitement "]}
+{"index": 303239, "D": "firmly placed or fixed; stable in position or equilibrium", "S": ["calmness", "composure", "serenity", "stability", "symmetry"], "A": ["agitation", "excitement"]}

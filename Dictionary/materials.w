@@ -1,1 +1,1 @@
-{"index": 181121, "D": "the equipment necessary for a particular activity", "S": ["dossier ", "evidence ", "goods ", "info ", "input ", "knowledge ", "picture ", "statistics ", "testimony "], "A": []}
+{"index": 181121, "D": "the equipment necessary for a particular activity", "S": ["dossier", "evidence", "goods", "info", "input", "knowledge", "picture", "statistics", "testimony"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 208998, "D": "in a way that is generally and usually unfavorably known to the wider public or to a particular group", "S": ["infamously ", "notably ", "spectacularly "], "A": []}
+{"index": 208998, "D": "in a way that is generally and usually unfavorably known to the wider public or to a particular group", "S": ["infamously", "notably", "spectacularly"], "A": []}

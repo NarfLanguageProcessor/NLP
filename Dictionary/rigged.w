@@ -1,1 +1,1 @@
-{"index": 272798, "D": "ketch-rigged; schooner-rigged", "S": ["armed ", "clothed ", "dressed ", "furnished ", "supplied "], "A": ["bare ", "stripped ", "unfurnished "]}
+{"index": 272798, "D": "ketch-rigged; schooner-rigged", "S": ["armed", "clothed", "dressed", "furnished", "supplied"], "A": ["bare", "stripped", "unfurnished"]}

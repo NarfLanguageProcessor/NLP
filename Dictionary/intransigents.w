@@ -1,1 +1,1 @@
-{"index": 156576, "D": "refusing to agree or compromise; uncompromising; inflexible.", "S": ["archconservative ", "conservative ", "right-winger ", "rightist ", "traditionalist "], "A": ["liberal ", "progressive ", "radical "]}
+{"index": 156576, "D": "refusing to agree or compromise; uncompromising; inflexible.", "S": ["archconservative", "conservative", "right-winger", "rightist", "traditionalist"], "A": ["liberal", "progressive", "radical"]}

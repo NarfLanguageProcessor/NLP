@@ -1,1 +1,1 @@
-{"index": 54108, "D": "trickery or deception by quibbling or sophistry", "S": ["dishonesty ", "duplicity ", "machination ", "stratagem "], "A": ["honesty ", "openness ", "truthfulness "]}
+{"index": 54108, "D": "trickery or deception by quibbling or sophistry", "S": ["dishonesty", "duplicity", "machination", "stratagem"], "A": ["honesty", "openness", "truthfulness"]}

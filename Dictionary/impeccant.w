@@ -1,1 +1,1 @@
-{"index": 148394, "D": "not sinning; free from sin", "S": ["honest ", "legitimate ", "pure ", "uninvolved ", "virtuous "], "A": ["guilty ", "immoral ", "sinful ", "stained ", "unvirtuous "]}
+{"index": 148394, "D": "not sinning; free from sin", "S": ["honest", "legitimate", "pure", "uninvolved", "virtuous"], "A": ["guilty", "immoral", "sinful", "stained", "unvirtuous"]}

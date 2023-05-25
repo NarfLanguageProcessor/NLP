@@ -1,1 +1,1 @@
-{"index": 81995, "D": "to cause (a train, streetcar, etc.) to run off the rails of a track.", "S": ["crash ", "hinder ", "thwart ", "wreck "], "A": ["aid ", "assist ", "encourage ", "forward ", "help "]}
+{"index": 81995, "D": "to cause (a train, streetcar, etc.) to run off the rails of a track.", "S": ["crash", "hinder", "thwart", "wreck"], "A": ["aid", "assist", "encourage", "forward", "help"]}

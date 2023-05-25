@@ -1,1 +1,1 @@
-{"index": 62304, "D": "persons who have superior knowledge and understanding of a particular field, especially in the fine arts, literature, and world of fashion.", "S": ["buff ", "expert ", "intellectual ", "philosopher ", "professor ", "scholar ", "thinker "], "A": ["ignoramus "]}
+{"index": 62304, "D": "persons who have superior knowledge and understanding of a particular field, especially in the fine arts, literature, and world of fashion.", "S": ["buff", "expert", "intellectual", "philosopher", "professor", "scholar", "thinker"], "A": ["ignoramus"]}

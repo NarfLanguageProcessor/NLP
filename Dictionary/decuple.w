@@ -1,1 +1,1 @@
-{"index": 78827, "D": "ten times as great; tenfold.", "S": ["decimal "], "A": []}
+{"index": 78827, "D": "ten times as great; tenfold.", "S": ["decimal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 113020, "D": "Brattbakk's finishing is deadly", "S": ["concluding "], "A": []}
+{"index": 113020, "D": "Brattbakk's finishing is deadly", "S": ["concluding"], "A": []}

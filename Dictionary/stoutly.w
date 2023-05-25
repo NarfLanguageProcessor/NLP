@@ -1,1 +1,1 @@
-{"index": 305528, "D": "bulky in figure; heavily built; corpulent; thickset; fat", "S": ["brazenly ", "courageously ", "daringly ", "eagerly ", "fearlessly "], "A": ["cautiously ", "cowardly ", "fearfully "]}
+{"index": 305528, "D": "bulky in figure; heavily built; corpulent; thickset; fat", "S": ["brazenly", "courageously", "daringly", "eagerly", "fearlessly"], "A": ["cautiously", "cowardly", "fearfully"]}

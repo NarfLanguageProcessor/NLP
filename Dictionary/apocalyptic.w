@@ -1,1 +1,1 @@
-{"index": 17101, "D": "of or like an apocalypse;  affording a revelation or prophecy.", "S": ["ominous ", "prophetic "], "A": []}
+{"index": 17101, "D": "of or like an apocalypse;  affording a revelation or prophecy.", "S": ["ominous", "prophetic"], "A": []}

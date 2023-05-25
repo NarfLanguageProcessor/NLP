@@ -1,1 +1,1 @@
-{"index": 297030, "D": "some person.", "S": ["someone ", "whoever "], "A": ["nobody ", "unknown "]}
+{"index": 297030, "D": "some person.", "S": ["someone", "whoever"], "A": ["nobody", "unknown"]}

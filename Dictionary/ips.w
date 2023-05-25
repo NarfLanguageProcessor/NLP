@@ -1,1 +1,1 @@
-{"index": 157846, "D": "inches per second.", "S": ["IP ", "copyright ", "patent ", "trade secret ", "trademark "], "A": []}
+{"index": 157846, "D": "inches per second.", "S": ["IP", "copyright", "patent", "trade secret", "trademark"], "A": []}

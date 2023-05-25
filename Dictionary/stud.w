@@ -1,1 +1,1 @@
-{"index": 306768, "D": "a boss, knob, nailhead, or other protuberance projecting from a surface or part, especially as an ornament.", "S": ["beam ", "framing ", "post ", "scantling "], "A": []}
+{"index": 306768, "D": "a boss, knob, nailhead, or other protuberance projecting from a surface or part, especially as an ornament.", "S": ["beam", "framing", "post", "scantling"], "A": []}

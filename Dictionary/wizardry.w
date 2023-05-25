@@ -1,1 +1,1 @@
-{"index": 366772, "D": "the art, skill, or accomplishments of a wizard. ", "S": ["witchcraft "], "A": []}
+{"index": 366772, "D": "the art, skill, or accomplishments of a wizard. ", "S": ["witchcraft"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 366737, "D": "possessing wit  in speech or writing; amusingly clever in perception and expression", "S": ["intelligently ", "shrewdly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}
+{"index": 366737, "D": "possessing wit  in speech or writing; amusingly clever in perception and expression", "S": ["intelligently", "shrewdly"], "A": ["awkwardly", "clumsily", "unskillfully"]}

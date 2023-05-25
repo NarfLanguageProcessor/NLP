@@ -1,1 +1,1 @@
-{"index": 175147, "D": "to cut off (branches, twigs, etc.) from a tree or other plant.", "S": ["shear "], "A": ["lengthen "]}
+{"index": 175147, "D": "to cut off (branches, twigs, etc.) from a tree or other plant.", "S": ["shear"], "A": ["lengthen"]}

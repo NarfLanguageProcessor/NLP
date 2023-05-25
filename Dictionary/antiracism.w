@@ -1,0 +1,1 @@
+{"index": 16031, "D": "a belief or doctrine that rejects the supremacy of one racial group over another and promotes racial equality in society.", "S": [], "A": []}

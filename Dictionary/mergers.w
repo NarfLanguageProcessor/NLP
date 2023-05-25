@@ -1,1 +1,1 @@
-{"index": 183774, "D": "a statutory combination of two or more corporations by the transfer of the properties to one surviving corporation.", "S": ["combination ", "takeover ", "tie up ", "unification ", "union "], "A": ["division ", "separation "]}
+{"index": 183774, "D": "a statutory combination of two or more corporations by the transfer of the properties to one surviving corporation.", "S": ["combination", "takeover", "tie up", "unification", "union"], "A": ["division", "separation"]}

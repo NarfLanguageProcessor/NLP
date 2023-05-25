@@ -1,1 +1,1 @@
-{"index": 296711, "D": "the state of being solicitous; anxiety or concern.", "S": ["disquiet ", "uneasiness "], "A": ["carelessness ", "disregard ", "disrespect ", "heedlessness ", "ignorance ", "inattention ", "neglect ", "negligence ", "omission ", "thoughtlessness ", "unconcern "]}
+{"index": 296711, "D": "the state of being solicitous; anxiety or concern.", "S": ["disquiet", "uneasiness"], "A": ["carelessness", "disregard", "disrespect", "heedlessness", "ignorance", "inattention", "neglect", "negligence", "omission", "thoughtlessness", "unconcern"]}

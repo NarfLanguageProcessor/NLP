@@ -1,1 +1,1 @@
-{"index": 316005, "D": "baked or cooked in a tandoor", "S": ["kiln ", "microwave ", "microwave oven ", "stove "], "A": []}
+{"index": 316005, "D": "baked or cooked in a tandoor", "S": ["kiln", "microwave", "microwave oven", "stove"], "A": []}

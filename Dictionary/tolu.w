@@ -1,1 +1,0 @@
-{"index": 325337, "D": "a fragrant, yellowish-brown balsam or resin obtained from a South American leguminous tree, Myroxylon balsamum, and used in medicine as a stomachic and expectorant, and in perfumery.", "S": [], "A": []}

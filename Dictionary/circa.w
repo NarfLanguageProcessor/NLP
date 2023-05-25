@@ -1,1 +1,1 @@
-{"index": 57955, "D": "about", "S": ["about ", "around ", "close on ", "in the region of ", "near ", "nearby ", "nigh ", "roughly "], "A": []}
+{"index": 57955, "D": "about", "S": ["about", "around", "close on", "in the region of", "near", "nearby", "nigh", "roughly"], "A": []}

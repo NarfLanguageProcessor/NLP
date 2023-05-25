@@ -1,0 +1,1 @@
+{"index": 14027, "D": "the point exactly opposite in direction to the solar apex;  the point away from which the solar system is moving and toward which the stars appear to be converging, located in the constellation Columba.", "S": [], "A": []}

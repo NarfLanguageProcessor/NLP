@@ -1,1 +1,1 @@
-{"index": 287481, "D": "the full or proper portion or part allotted or belonging to or contributed or owed by an individual or group.", "S": ["contribution ", "dividend ", "division ", "interest ", "part ", "percentage ", "proportion ", "stake "], "A": ["whole ", "entirety ", "total "]}
+{"index": 287481, "D": "the full or proper portion or part allotted or belonging to or contributed or owed by an individual or group.", "S": ["contribution", "dividend", "division", "interest", "part", "percentage", "proportion", "stake"], "A": ["whole", "entirety", "total"]}

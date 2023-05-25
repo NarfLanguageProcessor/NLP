@@ -1,1 +1,1 @@
-{"index": 224011, "D": "a large, rectangular mantle worn by men in ancient Greece and Rome.", "S": ["veil "], "A": []}
+{"index": 224011, "D": "a large, rectangular mantle worn by men in ancient Greece and Rome.", "S": ["veil"], "A": []}

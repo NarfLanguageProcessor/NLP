@@ -1,1 +1,1 @@
-{"index": 360993, "D": "the sound or sounds uttered through the mouth of living creatures, especially of human beings in speaking, shouting, singing, etc.", "S": ["choir ", "ensemble "], "A": []}
+{"index": 360993, "D": "the sound or sounds uttered through the mouth of living creatures, especially of human beings in speaking, shouting, singing, etc.", "S": ["choir", "ensemble"], "A": []}

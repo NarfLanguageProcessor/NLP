@@ -1,1 +1,0 @@
-{"index": 284347, "D": "pertaining to judgment in courts of justice or to the administration of justice", "S": [], "A": []}

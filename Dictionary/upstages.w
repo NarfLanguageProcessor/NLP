@@ -1,1 +1,1 @@
-{"index": 355068, "D": "on or toward the back of the stage. ", "S": ["overshadow "], "A": []}
+{"index": 355068, "D": "on or toward the back of the stage. ", "S": ["overshadow"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 296397, "D": "soaked; thoroughly wet; sodden.", "S": ["humid ", "moist ", "muggy ", "mushy ", "saturated ", "soaked ", "sodden ", "soft ", "spongy ", "sticky ", "sultry ", "waterlogged "], "A": ["arid ", "cool ", "dry ", "hard "]}
+{"index": 296397, "D": "soaked; thoroughly wet; sodden.", "S": ["humid", "moist", "muggy", "mushy", "saturated", "soaked", "sodden", "soft", "spongy", "sticky", "sultry", "waterlogged"], "A": ["arid", "cool", "dry", "hard"]}

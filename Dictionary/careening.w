@@ -1,1 +1,1 @@
-{"index": 47910, "D": "(of a vehicle) to lean, sway, or tip to one side while in motion", "S": ["lurch "], "A": ["straighten "]}
+{"index": 47910, "D": "(of a vehicle) to lean, sway, or tip to one side while in motion", "S": ["lurch"], "A": ["straighten"]}

@@ -1,1 +1,1 @@
-{"index": 115277, "D": "light, downy particles, as of cotton.", "S": ["stumble "], "A": ["correct ", "fix ", "understand "]}
+{"index": 115277, "D": "light, downy particles, as of cotton.", "S": ["stumble"], "A": ["correct", "fix", "understand"]}

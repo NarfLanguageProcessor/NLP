@@ -1,1 +1,1 @@
-{"index": 191467, "D": "to make indecent sexual advances to.", "S": ["accost ", "fondle ", "injure ", "maltreat ", "rape "], "A": ["aid ", "assist ", "calm ", "help ", "leave ", "order ", "organize ", "soothe "]}
+{"index": 191467, "D": "to make indecent sexual advances to.", "S": ["accost", "fondle", "injure", "maltreat", "rape"], "A": ["aid", "assist", "calm", "help", "leave", "order", "organize", "soothe"]}

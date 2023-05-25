@@ -1,1 +1,1 @@
-{"index": 331570, "D": "something without use or value; rubbish; trash; worthless stuff.", "S": ["falsehood ", "malarky ", "nonsense ", "rubbish ", "trash ", "trickery "], "A": ["possessions ", "sense ", "truth "]}
+{"index": 331570, "D": "something without use or value; rubbish; trash; worthless stuff.", "S": ["falsehood", "malarky", "nonsense", "rubbish", "trash", "trickery"], "A": ["possessions", "sense", "truth"]}

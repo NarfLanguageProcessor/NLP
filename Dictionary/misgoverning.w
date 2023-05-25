@@ -1,1 +1,1 @@
-{"index": 189353, "D": "to govern or manage badly.", "S": ["botch ", "bungle ", "err ", "flub ", "fumble ", "misdirect ", "mistreat ", "misuse ", "muff "], "A": ["do well ", "succeed ", "benefit ", "fix ", "help ", "honor ", "respect "]}
+{"index": 189353, "D": "to govern or manage badly.", "S": ["botch", "bungle", "err", "flub", "fumble", "misdirect", "mistreat", "misuse", "muff"], "A": ["do well", "succeed", "benefit", "fix", "help", "honor", "respect"]}

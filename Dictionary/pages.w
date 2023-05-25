@@ -1,1 +1,1 @@
-{"index": 223008, "D": "one side of a leaf of something printed or written, as a book, manuscript, or letter.", "S": ["archive ", "certificate ", "diary ", "evidence ", "form ", "paper ", "record ", "report ", "script ", "testimony "], "A": ["speech "]}
+{"index": 223008, "D": "one side of a leaf of something printed or written, as a book, manuscript, or letter.", "S": ["archive", "certificate", "diary", "evidence", "form", "paper", "record", "report", "script", "testimony"], "A": ["speech"]}

@@ -1,1 +1,1 @@
-{"index": 109249, "D": "to fall short of success or achievement in something expected, attempted, desired, or approved", "S": ["break down ", "decline ", "fall "], "A": ["ascend ", "go up ", "rise ", "accomplish ", "achieve ", "build ", "correct ", "develop ", "do well ", "succeed "]}
+{"index": 109249, "D": "to fall short of success or achievement in something expected, attempted, desired, or approved", "S": ["break down", "decline", "fall"], "A": ["ascend", "go up", "rise", "accomplish", "achieve", "build", "correct", "develop", "do well", "succeed"]}

@@ -1,1 +1,1 @@
-{"index": 39211, "D": "a person who bowl,  especially a participant in a bowling  game, as candlepins or tenpins.", "S": ["fedora ", "headgear ", "helmet "], "A": []}
+{"index": 39211, "D": "a person who bowl,  especially a participant in a bowling  game, as candlepins or tenpins.", "S": ["fedora", "headgear", "helmet"], "A": []}

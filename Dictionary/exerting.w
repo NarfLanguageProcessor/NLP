@@ -1,1 +1,1 @@
-{"index": 107073, "D": "to put forth or into use, as power; exercise, as ability or influence; put into vigorous action", "S": ["advance ", "assault ", "attack ", "drive ", "effort ", "offensive ", "thrust "], "A": ["hesitation ", "idleness ", "laziness "]}
+{"index": 107073, "D": "to put forth or into use, as power; exercise, as ability or influence; put into vigorous action", "S": ["advance", "assault", "attack", "drive", "effort", "offensive", "thrust"], "A": ["hesitation", "idleness", "laziness"]}

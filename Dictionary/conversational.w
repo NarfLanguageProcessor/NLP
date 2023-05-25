@@ -1,1 +1,1 @@
-{"index": 68018, "D": "of, relating to, or characteristic of conversation", "S": ["casual ", "chatty ", "colloquial ", "informal ", "intimate "], "A": ["formal "]}
+{"index": 68018, "D": "of, relating to, or characteristic of conversation", "S": ["casual", "chatty", "colloquial", "informal", "intimate"], "A": ["formal"]}

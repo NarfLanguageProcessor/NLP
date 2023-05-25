@@ -1,1 +1,1 @@
-{"index": 62446, "D": "coiffure (defs. 1, 3). ", "S": ["babushka ", "bonnet ", "capuchin ", "cowl ", "hat ", "kerchief ", "mantilla ", "mantle ", "protector ", "purdah ", "shawl ", "veil ", "wimple ", "yashmak "], "A": []}
+{"index": 62446, "D": "coiffure (defs. 1, 3). ", "S": ["babushka", "bonnet", "capuchin", "cowl", "hat", "kerchief", "mantilla", "mantle", "protector", "purdah", "shawl", "veil", "wimple", "yashmak"], "A": []}

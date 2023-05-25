@@ -1,1 +1,1 @@
-{"index": 123112, "D": "an odd or eccentric man", "S": ["conservative ", "fuddy-duddy ", "square "], "A": []}
+{"index": 123112, "D": "an odd or eccentric man", "S": ["conservative", "fuddy-duddy", "square"], "A": []}

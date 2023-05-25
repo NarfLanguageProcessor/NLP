@@ -1,1 +1,1 @@
-{"index": 184916, "D": "a literal translation.", "S": ["convert ", "decipher ", "put ", "render ", "spell out ", "transcribe ", "turn "], "A": ["remove ", "take ", "complicate ", "confuse ", "mystify ", "obscure "]}
+{"index": 184916, "D": "a literal translation.", "S": ["convert", "decipher", "put", "render", "spell out", "transcribe", "turn"], "A": ["remove", "take", "complicate", "confuse", "mystify", "obscure"]}

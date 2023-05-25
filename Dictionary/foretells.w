@@ -1,1 +1,1 @@
-{"index": 117088, "D": "to tell of beforehand; predict; prophesy.", "S": ["anticipate ", "augur ", "foreshadow ", "portend ", "prefigure ", "presage ", "prophesy ", "signify "], "A": ["conceal ", "estimate ", "guess ", "hide ", "listen ", "suppress ", "withhold "]}
+{"index": 117088, "D": "to tell of beforehand; predict; prophesy.", "S": ["anticipate", "augur", "foreshadow", "portend", "prefigure", "presage", "prophesy", "signify"], "A": ["conceal", "estimate", "guess", "hide", "listen", "suppress", "withhold"]}

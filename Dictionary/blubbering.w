@@ -1,1 +1,1 @@
-{"index": 36673, "D": "the fat layer between the skin and muscle of whales and other cetaceans, from which oil is made.", "S": ["bawling ", "hollering ", "sobbing ", "wailing ", "weeping "], "A": []}
+{"index": 36673, "D": "the fat layer between the skin and muscle of whales and other cetaceans, from which oil is made.", "S": ["bawling", "hollering", "sobbing", "wailing", "weeping"], "A": []}

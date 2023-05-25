@@ -1,1 +1,1 @@
-{"index": 361726, "D": "a person or thing that wades. ", "S": ["footwear "], "A": []}
+{"index": 361726, "D": "a person or thing that wades. ", "S": ["footwear"], "A": []}

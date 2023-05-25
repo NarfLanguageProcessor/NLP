@@ -1,1 +1,0 @@
-{"index": 326826, "D": "a scene or view, either pictorial or natural, of a town  or city.", "S": [], "A": []}

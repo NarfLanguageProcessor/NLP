@@ -1,1 +1,1 @@
-{"index": 135814, "D": "unable to help  oneself; weak or dependent", "S": ["convalescence ", "disorder ", "weakness "], "A": []}
+{"index": 135814, "D": "unable to help  oneself; weak or dependent", "S": ["convalescence", "disorder", "weakness"], "A": []}

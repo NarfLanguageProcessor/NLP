@@ -1,1 +1,0 @@
-{"index": 208341, "D": "of, relating to, or uttered with the voice", "S": ["muted "], "A": ["bold "]}

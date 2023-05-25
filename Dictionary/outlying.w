@@ -1,1 +1,1 @@
-{"index": 216939, "D": "lying  at a distance from the center or the main body; remote; out-of-the-way", "S": ["backwoods ", "far-flung ", "faraway ", "outer "], "A": ["central ", "inner ", "middle "]}
+{"index": 216939, "D": "lying  at a distance from the center or the main body; remote; out-of-the-way", "S": ["backwoods", "far-flung", "faraway", "outer"], "A": ["central", "inner", "middle"]}

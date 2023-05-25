@@ -1,1 +1,1 @@
-{"index": 144761, "D": "to clasp tightly in the arms, especially with affection; embrace.", "S": ["affection ", "caress ", "clasp ", "clinch ", "lock ", "squeeze "], "A": ["push ", "release "]}
+{"index": 144761, "D": "to clasp tightly in the arms, especially with affection; embrace.", "S": ["affection", "caress", "clasp", "clinch", "lock", "squeeze"], "A": ["push", "release"]}

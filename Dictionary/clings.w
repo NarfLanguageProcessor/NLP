@@ -1,1 +1,1 @@
-{"index": 60038, "D": "to adhere closely; stick to", "S": ["adhere ", "clasp ", "fasten "], "A": ["loose ", "loosen ", "unfasten ", "discontinue ", "halt ", "let go ", "release ", "stop "]}
+{"index": 60038, "D": "to adhere closely; stick to", "S": ["adhere", "clasp", "fasten"], "A": ["loose", "loosen", "unfasten", "discontinue", "halt", "let go", "release", "stop"]}

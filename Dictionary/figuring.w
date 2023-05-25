@@ -1,1 +1,1 @@
-{"index": 112492, "D": "a numerical symbol, especially an Arabic numeral.", "S": ["ciphering ", "computation ", "counting ", "reckoning ", "totaling "], "A": []}
+{"index": 112492, "D": "a numerical symbol, especially an Arabic numeral.", "S": ["ciphering", "computation", "counting", "reckoning", "totaling"], "A": []}

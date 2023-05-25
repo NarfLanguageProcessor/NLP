@@ -1,1 +1,1 @@
-{"index": 323249, "D": "sensitive to tickling. ", "S": ["awkward ", "delicate ", "precarious ", "thorny ", "touchy ", "volatile "], "A": ["calm ", "easy ", "firm ", "stable ", "strong "]}
+{"index": 323249, "D": "sensitive to tickling. ", "S": ["awkward", "delicate", "precarious", "thorny", "touchy", "volatile"], "A": ["calm", "easy", "firm", "stable", "strong"]}

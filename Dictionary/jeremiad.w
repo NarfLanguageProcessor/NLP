@@ -1,1 +1,1 @@
-{"index": 160909, "D": "a prolonged lamentation or mournful complaint.", "S": ["diatribe ", "screed "], "A": ["approval ", "compliment ", "flattery ", "praise "]}
+{"index": 160909, "D": "a prolonged lamentation or mournful complaint.", "S": ["diatribe", "screed"], "A": ["approval", "compliment", "flattery", "praise"]}

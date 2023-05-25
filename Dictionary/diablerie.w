@@ -1,1 +1,1 @@
-{"index": 83977, "D": "diabolic magic or art; sorcery; witchcraft. ", "S": ["devilish ", "devilry ", "deviltry ", "satanism ", "sorcery ", "witchcraft "], "A": []}
+{"index": 83977, "D": "diabolic magic or art; sorcery; witchcraft. ", "S": ["devilish", "devilry", "deviltry", "satanism", "sorcery", "witchcraft"], "A": []}

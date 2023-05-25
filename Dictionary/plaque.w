@@ -1,1 +1,1 @@
-{"index": 239129, "D": "a thin, flat plate or tablet of metal, porcelain, etc., intended for ornament, as on a wall, or set in a piece of furniture.", "S": ["badge ", "decoration ", "medal ", "nameplate ", "plate ", "slab "], "A": []}
+{"index": 239129, "D": "a thin, flat plate or tablet of metal, porcelain, etc., intended for ornament, as on a wall, or set in a piece of furniture.", "S": ["badge", "decoration", "medal", "nameplate", "plate", "slab"], "A": []}

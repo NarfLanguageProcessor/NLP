@@ -1,1 +1,1 @@
-{"index": 97695, "D": "pertaining to or having the form of an ellipse. ", "S": ["egg-shaped ", "ellipsoidal ", "oblong ", "ovoid "], "A": []}
+{"index": 97695, "D": "pertaining to or having the form of an ellipse. ", "S": ["egg-shaped", "ellipsoidal", "oblong", "ovoid"], "A": []}

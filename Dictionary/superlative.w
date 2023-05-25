@@ -1,1 +1,1 @@
-{"index": 312179, "D": "of the highest kind, quality, or order; surpassing all else or others; supreme; extreme", "S": ["magnificent ", "outstanding ", "peerless ", "superb ", "transcendent ", "unparalleled "], "A": ["bad ", "inferior ", "ordinary ", "poor ", "second-rate ", "least ", "worst "]}
+{"index": 312179, "D": "of the highest kind, quality, or order; surpassing all else or others; supreme; extreme", "S": ["magnificent", "outstanding", "peerless", "superb", "transcendent", "unparalleled"], "A": ["bad", "inferior", "ordinary", "poor", "second-rate", "least", "worst"]}

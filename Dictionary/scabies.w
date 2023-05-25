@@ -1,1 +1,1 @@
-{"index": 279303, "D": "Compare itch (def. 10), mange. ", "S": ["dermatitis ", "eczema ", "eruption ", "psoriasis ", "scab ", "scales ", "sores "], "A": []}
+{"index": 279303, "D": "Compare itch (def. 10), mange. ", "S": ["dermatitis", "eczema", "eruption", "psoriasis", "scab", "scales", "sores"], "A": []}

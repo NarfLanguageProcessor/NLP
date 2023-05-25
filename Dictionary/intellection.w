@@ -1,1 +1,1 @@
-{"index": 154263, "D": "the action or process of understanding; the exercise of the intellect; reasoning. ", "S": ["approach ", "conception ", "image ", "notion ", "perception ", "theory ", "thought ", "view "], "A": ["concrete ", "proof ", "reality "]}
+{"index": 154263, "D": "the action or process of understanding; the exercise of the intellect; reasoning. ", "S": ["approach", "conception", "image", "notion", "perception", "theory", "thought", "view"], "A": ["concrete", "proof", "reality"]}

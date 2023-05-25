@@ -1,1 +1,1 @@
-{"index": 89593, "D": "the act of dissipating. ", "S": ["bender ", "binge ", "bust ", "celebration ", "circus ", "distraction ", "diversion ", "gratification ", "party ", "recreation ", "self-indulgence ", "tear ", "toot "], "A": ["work "]}
+{"index": 89593, "D": "the act of dissipating. ", "S": ["bender", "binge", "bust", "celebration", "circus", "distraction", "diversion", "gratification", "party", "recreation", "self-indulgence", "tear", "toot"], "A": ["work"]}

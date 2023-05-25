@@ -1,1 +1,1 @@
-{"index": 361272, "D": "full of, characterized by, or ministering to indulgence in luxury, pleasure, and sensuous enjoyment", "S": ["sensuousness ", "sexiness ", "sexuality ", "steaminess "], "A": []}
+{"index": 361272, "D": "full of, characterized by, or ministering to indulgence in luxury, pleasure, and sensuous enjoyment", "S": ["sensuousness", "sexiness", "sexuality", "steaminess"], "A": []}

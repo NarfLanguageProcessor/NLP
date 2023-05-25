@@ -1,1 +1,1 @@
-{"index": 126804, "D": "the wingless female or larva of the European beetle, Lampyris noctiluca, which emits a sustained greenish light.", "S": ["candle fly ", "fire beetle ", "firefly ", "fireworm ", "lampyrid ", "lantern fly ", "noctiluca "], "A": []}
+{"index": 126804, "D": "the wingless female or larva of the European beetle, Lampyris noctiluca, which emits a sustained greenish light.", "S": ["candle fly", "fire beetle", "firefly", "fireworm", "lampyrid", "lantern fly", "noctiluca"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 67195, "D": "a modern movement for the protection of the consumer  against useless, inferior, or dangerous products, misleading advertising, unfair pricing, etc.", "S": ["business ", "capitalism ", "commercialism ", "industrialism ", "merchandising ", "trading "], "A": []}
+{"index": 67195, "D": "a modern movement for the protection of the consumer  against useless, inferior, or dangerous products, misleading advertising, unfair pricing, etc.", "S": ["business", "capitalism", "commercialism", "industrialism", "merchandising", "trading"], "A": []}

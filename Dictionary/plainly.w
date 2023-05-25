@@ -1,1 +1,1 @@
-{"index": 238794, "D": "clear or distinct to the eye or ear", "S": ["apparently ", "evidently ", "manifestly ", "obviously ", "visibly "], "A": ["questionably "]}
+{"index": 238794, "D": "clear or distinct to the eye or ear", "S": ["apparently", "evidently", "manifestly", "obviously", "visibly"], "A": ["questionably"]}

@@ -1,1 +1,1 @@
-{"index": 349990, "D": "not ripe; immature; not fully developed", "S": ["green ", "immature "], "A": ["experienced ", "old "]}
+{"index": 349990, "D": "not ripe; immature; not fully developed", "S": ["green", "immature"], "A": ["experienced", "old"]}

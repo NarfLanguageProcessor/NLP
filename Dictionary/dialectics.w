@@ -1,1 +1,1 @@
-{"index": 84205, "D": "the study of reasoning or of argumentative methodology", "S": ["logic ", "reasoning ", "sense "], "A": ["body ", "disbelief ", "ignorance ", "misinterpretation ", "mistake ", "misunderstanding ", "physicality ", "stupidity ", "unsoundness "]}
+{"index": 84205, "D": "the study of reasoning or of argumentative methodology", "S": ["logic", "reasoning", "sense"], "A": ["body", "disbelief", "ignorance", "misinterpretation", "mistake", "misunderstanding", "physicality", "stupidity", "unsoundness"]}

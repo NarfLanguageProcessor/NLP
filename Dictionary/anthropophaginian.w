@@ -1,1 +1,1 @@
-{"index": 14641, "D": [], "S": ["anthropophagite ", "anthropophagus ", "man-eater ", "people-eater "], "A": []}
+{"index": 14641, "D": [], "S": ["anthropophagite", "anthropophagus", "man-eater", "people-eater"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98091, "D": "to illuminate, as by a blaze. ", "S": ["adorn ", "bedeck ", "dress up ", "embroider ", "exaggerate ", "festoon ", "gild ", "overstate ", "spiff up "], "A": ["decrease ", "harm ", "lessen ", "reduce "]}
+{"index": 98091, "D": "to illuminate, as by a blaze. ", "S": ["adorn", "bedeck", "dress up", "embroider", "exaggerate", "festoon", "gild", "overstate", "spiff up"], "A": ["decrease", "harm", "lessen", "reduce"]}

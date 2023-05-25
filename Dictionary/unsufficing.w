@@ -1,1 +1,0 @@
-{"index": 352336, "D": "to be enough or adequate, as for needs, purposes, etc.", "S": [], "A": []}

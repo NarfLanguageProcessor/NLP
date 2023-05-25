@@ -1,1 +1,1 @@
-{"index": 183592, "D": "(in nontechnical use) a noxious or pestilential exhalation from the earth, as poison gas.", "S": ["fetor ", "fumes ", "gas ", "odor ", "pollution ", "reek ", "smell ", "smog ", "stench ", "stink ", "vapor "], "A": ["perfume ", "sweetness "]}
+{"index": 183592, "D": "(in nontechnical use) a noxious or pestilential exhalation from the earth, as poison gas.", "S": ["fetor", "fumes", "gas", "odor", "pollution", "reek", "smell", "smog", "stench", "stink", "vapor"], "A": ["perfume", "sweetness"]}

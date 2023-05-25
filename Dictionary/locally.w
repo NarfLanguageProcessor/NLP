@@ -1,1 +1,1 @@
-{"index": 174294, "D": "in a particular place, area, location, etc.", "S": ["narrowly "], "A": ["nationally ", "widespread "]}
+{"index": 174294, "D": "in a particular place, area, location, etc.", "S": ["narrowly"], "A": ["nationally", "widespread"]}

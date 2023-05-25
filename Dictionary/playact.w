@@ -1,1 +1,1 @@
-{"index": 238705, "D": "to engage in make-believe.", "S": ["act ", "adopt ", "assume ", "bluff ", "contrive ", "counterfeit ", "fake ", "feign ", "sham ", "simulate "], "A": ["stop ", "tell the truth "]}
+{"index": 238705, "D": "to engage in make-believe.", "S": ["act", "adopt", "assume", "bluff", "contrive", "counterfeit", "fake", "feign", "sham", "simulate"], "A": ["stop", "tell the truth"]}

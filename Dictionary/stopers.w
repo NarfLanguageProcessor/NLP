@@ -1,1 +1,0 @@
-{"index": 305333, "D": "a machine for drilling rock from below.", "S": [], "A": []}

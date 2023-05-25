@@ -1,1 +1,1 @@
-{"index": 216220, "D": [], "S": ["bloom ", "burgeon ", "unfold "], "A": ["shrink "]}
+{"index": 216220, "D": [], "S": ["bloom", "burgeon", "unfold"], "A": ["shrink"]}

@@ -1,1 +1,1 @@
-{"index": 216150, "D": "to outweigh.", "S": ["cancel out ", "counterbalance ", "eclipse ", "exceed ", "offset ", "overcome ", "overshadow ", "prevail ", "surpass "], "A": ["fail ", "fall behind ", "lose ", "surrender "]}
+{"index": 216150, "D": "to outweigh.", "S": ["cancel out", "counterbalance", "eclipse", "exceed", "offset", "overcome", "overshadow", "prevail", "surpass"], "A": ["fail", "fall behind", "lose", "surrender"]}

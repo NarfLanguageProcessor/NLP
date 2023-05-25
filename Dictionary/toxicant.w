@@ -1,1 +1,1 @@
-{"index": 326874, "D": "poisonous; toxic. ", "S": ["bad ", "evil ", "mortal ", "poison "], "A": ["good ", "honest ", "upright ", "virtuous "]}
+{"index": 326874, "D": "poisonous; toxic. ", "S": ["bad", "evil", "mortal", "poison"], "A": ["good", "honest", "upright", "virtuous"]}

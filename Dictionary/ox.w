@@ -1,1 +1,1 @@
-{"index": 222095, "D": "the adult castrated male of the genus Bos, used chiefly as a draft animal.", "S": ["burly ", "hulking ", "sturdy "], "A": ["attenuated ", "skinny ", "slight ", "small ", "thin ", "weak "]}
+{"index": 222095, "D": "the adult castrated male of the genus Bos, used chiefly as a draft animal.", "S": ["burly", "hulking", "sturdy"], "A": ["attenuated", "skinny", "slight", "small", "thin", "weak"]}

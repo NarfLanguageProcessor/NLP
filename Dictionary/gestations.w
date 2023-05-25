@@ -1,1 +1,1 @@
-{"index": 124374, "D": "the process, state, or period of gestating. ", "S": ["evolution ", "fecundation ", "gravidity ", "growth ", "incubation ", "maturation ", "pregnancy ", "reproduction ", "ripening "], "A": ["decrease "]}
+{"index": 124374, "D": "the process, state, or period of gestating. ", "S": ["evolution", "fecundation", "gravidity", "growth", "incubation", "maturation", "pregnancy", "reproduction", "ripening"], "A": ["decrease"]}

@@ -1,1 +1,1 @@
-{"index": 20720, "D": "made by human skill; produced by humans (opposed to natural)", "S": ["unreal "], "A": ["genuine ", "natural ", "real ", "unaffected ", "unpretentious "]}
+{"index": 20720, "D": "made by human skill; produced by humans (opposed to natural)", "S": ["unreal"], "A": ["genuine", "natural", "real", "unaffected", "unpretentious"]}

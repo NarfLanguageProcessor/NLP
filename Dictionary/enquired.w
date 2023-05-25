@@ -1,1 +1,1 @@
-{"index": 100854, "D": "inquire. ", "S": ["analyze ", "check ", "examine ", "explore ", "inquire ", "inspect ", "investigate ", "probe ", "pry ", "query ", "question ", "scrutinize ", "search ", "seek "], "A": ["answer ", "find ", "ignore ", "neglect ", "reply "]}
+{"index": 100854, "D": "inquire. ", "S": ["analyze", "check", "examine", "explore", "inquire", "inspect", "investigate", "probe", "pry", "query", "question", "scrutinize", "search", "seek"], "A": ["answer", "find", "ignore", "neglect", "reply"]}

@@ -1,1 +1,1 @@
-{"index": 320613, "D": "not likely to be appreciated or rewarded; unappreciated", "S": ["fruitless ", "futile ", "unpleasant "], "A": ["fruitful ", "productive ", "profitable "]}
+{"index": 320613, "D": "not likely to be appreciated or rewarded; unappreciated", "S": ["fruitless", "futile", "unpleasant"], "A": ["fruitful", "productive", "profitable"]}

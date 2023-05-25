@@ -1,1 +1,1 @@
-{"index": 299924, "D": "a person or thing that spins. ", "S": ["gyroscope "], "A": []}
+{"index": 299924, "D": "a person or thing that spins. ", "S": ["gyroscope"], "A": []}

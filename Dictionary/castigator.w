@@ -1,1 +1,1 @@
-{"index": 49079, "D": "to criticize or reprimand severely.", "S": ["caviler ", "caviller ", "faultfinder ", "nag ", "nagger ", "niggler ", "nitpicker ", "quibbler ", "scold "], "A": []}
+{"index": 49079, "D": "to criticize or reprimand severely.", "S": ["caviler", "caviller", "faultfinder", "nag", "nagger", "niggler", "nitpicker", "quibbler", "scold"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 74151, "D": "to sail about on a pleasure trip.", "S": ["jaunt ", "journey ", "sailing "], "A": []}
+{"index": 74151, "D": "to sail about on a pleasure trip.", "S": ["jaunt", "journey", "sailing"], "A": []}

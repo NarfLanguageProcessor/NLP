@@ -1,1 +1,1 @@
-{"index": 360030, "D": "Compare violet family. ", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}
+{"index": 360030, "D": "Compare violet family. ", "S": ["color", "lavender", "lilac", "mauve", "periwinkle", "plum", "violet"], "A": []}

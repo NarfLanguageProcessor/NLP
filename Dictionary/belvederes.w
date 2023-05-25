@@ -1,1 +1,1 @@
-{"index": 31332, "D": "a building, or architectural feature of a building, designed and situated to look out upon a pleasing scene.", "S": ["bouquet ", "cheroot ", "claro ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "toby ", "weed "], "A": []}
+{"index": 31332, "D": "a building, or architectural feature of a building, designed and situated to look out upon a pleasing scene.", "S": ["bouquet", "cheroot", "claro", "corona", "havana", "panatela", "smoke", "stogie", "stogy", "tobacco", "toby", "weed"], "A": []}

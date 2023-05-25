@@ -1,1 +1,1 @@
-{"index": 2715, "D": "having personal knowledge as a result of study, experience, etc.; informed (usually followed by with)", "S": ["abreast ", "conversant ", "informed "], "A": ["ignorant "]}
+{"index": 2715, "D": "having personal knowledge as a result of study, experience, etc.; informed (usually followed by with)", "S": ["abreast", "conversant", "informed"], "A": ["ignorant"]}

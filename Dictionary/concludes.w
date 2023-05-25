@@ -1,1 +1,1 @@
-{"index": 65370, "D": "to bring to an end; finish; terminate", "S": ["achieve ", "close ", "complete ", "end ", "halt ", "terminate ", "wind up ", "wrap up "], "A": ["begin ", "commence ", "continue ", "open ", "start ", "go ", "keep on "]}
+{"index": 65370, "D": "to bring to an end; finish; terminate", "S": ["achieve", "close", "complete", "end", "halt", "terminate", "wind up", "wrap up"], "A": ["begin", "commence", "continue", "open", "start", "go", "keep on"]}

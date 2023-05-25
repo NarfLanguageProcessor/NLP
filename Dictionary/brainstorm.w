@@ -1,1 +1,1 @@
-{"index": 39757, "D": "a fit of mental confusion or excitement.", "S": ["deliberate "], "A": []}
+{"index": 39757, "D": "a fit of mental confusion or excitement.", "S": ["deliberate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 193920, "D": "a hotel providing travelers with lodging and free parking facilities, typically a roadside hotel having rooms adjacent to an outside parking area or an urban hotel offering parking within the building.", "S": ["cabin ", "hotel ", "inn ", "lodge ", "resort "], "A": []}
+{"index": 193920, "D": "a hotel providing travelers with lodging and free parking facilities, typically a roadside hotel having rooms adjacent to an outside parking area or an urban hotel offering parking within the building.", "S": ["cabin", "hotel", "inn", "lodge", "resort"], "A": []}

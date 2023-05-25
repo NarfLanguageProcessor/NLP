@@ -1,1 +1,1 @@
-{"index": 144515, "D": "simple past tense and past participle of heave. ", "S": ["fling ", "haul ", "hoist ", "hurl ", "sling ", "tug "], "A": ["decrease ", "depress ", "destroy ", "drop ", "finish ", "keep ", "lessen ", "lower ", "raze ", "receive ", "stop "]}
+{"index": 144515, "D": "simple past tense and past participle of heave. ", "S": ["fling", "haul", "hoist", "hurl", "sling", "tug"], "A": ["decrease", "depress", "destroy", "drop", "finish", "keep", "lessen", "lower", "raze", "receive", "stop"]}

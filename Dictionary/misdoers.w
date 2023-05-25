@@ -1,1 +1,1 @@
-{"index": 189151, "D": "to do badly or wrongly; botch.", "S": ["evildoer ", "reprobate ", "sinner ", "transgressor "], "A": []}
+{"index": 189151, "D": "to do badly or wrongly; botch.", "S": ["evildoer", "reprobate", "sinner", "transgressor"], "A": []}

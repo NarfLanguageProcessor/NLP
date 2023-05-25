@@ -1,1 +1,0 @@
-{"index": 307339, "D": "(of a projectile) having a calibre less than that of the firearm from which it is discharged and therefore either fitted with a disc or fired through a tube inserted into the barrel", "S": [], "A": []}

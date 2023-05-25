@@ -1,1 +1,1 @@
-{"index": 79481, "D": "to bear or pay all or part of (the costs, expenses, etc.)", "S": ["finance ", "fund ", "settle "], "A": ["take "]}
+{"index": 79481, "D": "to bear or pay all or part of (the costs, expenses, etc.)", "S": ["finance", "fund", "settle"], "A": ["take"]}

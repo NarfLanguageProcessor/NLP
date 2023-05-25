@@ -1,1 +1,1 @@
-{"index": 283239, "D": "one who favors, encourages, or practices segregation,  especially racial segregation.", "S": ["dogmatist ", "extremist ", "fanatic ", "true believer ", "zealot "], "A": ["moderate ", "freethinker "]}
+{"index": 283239, "D": "one who favors, encourages, or practices segregation,  especially racial segregation.", "S": ["dogmatist", "extremist", "fanatic", "true believer", "zealot"], "A": ["moderate", "freethinker"]}

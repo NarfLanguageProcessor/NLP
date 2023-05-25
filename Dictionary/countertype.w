@@ -1,1 +1,1 @@
-{"index": 71157, "D": "a corresponding type. ", "S": ["double "], "A": ["ally ", "associate ", "difference ", "helper ", "original ", "supporter "]}
+{"index": 71157, "D": "a corresponding type. ", "S": ["double"], "A": ["ally", "associate", "difference", "helper", "original", "supporter"]}

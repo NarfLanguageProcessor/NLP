@@ -1,1 +1,1 @@
-{"index": 137852, "D": "serving to indicate or point out; stimulating interest as a means of furthering investigation.", "S": ["examining ", "interested ", "interrogative ", "probing ", "prying ", "questioning ", "searching "], "A": ["disinterested ", "incurious ", "unskeptical "]}
+{"index": 137852, "D": "serving to indicate or point out; stimulating interest as a means of furthering investigation.", "S": ["examining", "interested", "interrogative", "probing", "prying", "questioning", "searching"], "A": ["disinterested", "incurious", "unskeptical"]}

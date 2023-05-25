@@ -1,1 +1,1 @@
-{"index": 42525, "D": "to clear, level, or reshape the contours of (land) by or as if by using a bulldozer", "S": ["flatten ", "raze ", "shove "], "A": ["discourage ", "dissuade ", "pull ", "repress "]}
+{"index": 42525, "D": "to clear, level, or reshape the contours of (land) by or as if by using a bulldozer", "S": ["flatten", "raze", "shove"], "A": ["discourage", "dissuade", "pull", "repress"]}

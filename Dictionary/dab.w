@@ -1,1 +1,1 @@
-{"index": 75939, "D": "to pat or tap gently, as with something soft or moist", "S": ["blob ", "dollop ", "fleck ", "speck "], "A": ["lot "]}
+{"index": 75939, "D": "to pat or tap gently, as with something soft or moist", "S": ["blob", "dollop", "fleck", "speck"], "A": ["lot"]}

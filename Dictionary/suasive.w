@@ -1,1 +1,1 @@
-{"index": 307034, "D": "the act of advising, urging, or attempting to persuade; persuasion.", "S": ["compelling ", "convincing ", "forceful ", "persuasive ", "telling ", "weighty "], "A": ["ineffective ", "unimportant "]}
+{"index": 307034, "D": "the act of advising, urging, or attempting to persuade; persuasion.", "S": ["compelling", "convincing", "forceful", "persuasive", "telling", "weighty"], "A": ["ineffective", "unimportant"]}

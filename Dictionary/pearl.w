@@ -1,1 +1,1 @@
-{"index": 228440, "D": "Compare cultured pearl. ", "S": ["jewel ", "nacre ", "seed "], "A": []}
+{"index": 228440, "D": "Compare cultured pearl. ", "S": ["jewel", "nacre", "seed"], "A": []}

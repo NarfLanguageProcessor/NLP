@@ -1,1 +1,1 @@
-{"index": 293547, "D": "to make or become less active, vigorous, intense, etc.", "S": ["gentle ", "laid-back ", "languid ", "lazy ", "relaxed ", "restful "], "A": ["energetic ", "lively "]}
+{"index": 293547, "D": "to make or become less active, vigorous, intense, etc.", "S": ["gentle", "laid-back", "languid", "lazy", "relaxed", "restful"], "A": ["energetic", "lively"]}

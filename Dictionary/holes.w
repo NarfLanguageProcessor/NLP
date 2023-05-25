@@ -1,1 +1,1 @@
-{"index": 142426, "D": "an opening through something; gap; aperture", "S": ["break ", "crack ", "crater ", "cut ", "dent ", "gap ", "mouth ", "pit ", "pocket ", "space ", "tunnel ", "void ", "window "], "A": ["mountain ", "closing ", "closure ", "juncture ", "solid "]}
+{"index": 142426, "D": "an opening through something; gap; aperture", "S": ["break", "crack", "crater", "cut", "dent", "gap", "mouth", "pit", "pocket", "space", "tunnel", "void", "window"], "A": ["mountain", "closing", "closure", "juncture", "solid"]}

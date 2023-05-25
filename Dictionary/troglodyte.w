@@ -1,1 +1,1 @@
-{"index": 330988, "D": "a prehistoric cave dweller.", "S": ["flat ", "leaning ", "loner "], "A": ["sitting ", "standing "]}
+{"index": 330988, "D": "a prehistoric cave dweller.", "S": ["flat", "leaning", "loner"], "A": ["sitting", "standing"]}

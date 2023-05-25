@@ -1,1 +1,1 @@
-{"index": 273625, "D": "strong and healthy; hardy; vigorous", "S": ["actively ", "energetically ", "firmly ", "fully ", "greatly ", "heartily ", "heavily ", "resolutely ", "solidly ", "staunchly ", "steadily ", "vigorously "], "A": []}
+{"index": 273625, "D": "strong and healthy; hardy; vigorous", "S": ["actively", "energetically", "firmly", "fully", "greatly", "heartily", "heavily", "resolutely", "solidly", "staunchly", "steadily", "vigorously"], "A": []}

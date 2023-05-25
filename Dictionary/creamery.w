@@ -1,1 +1,1 @@
-{"index": 72380, "D": "a place where milk and cream  are processed and where butter and cheese are produced.", "S": ["dairy farm "], "A": []}
+{"index": 72380, "D": "a place where milk and cream  are processed and where butter and cheese are produced.", "S": ["dairy farm"], "A": []}

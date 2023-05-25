@@ -1,1 +1,1 @@
-{"index": 260780, "D": "deeply engrossed or absorbed", "S": ["delighted ", "ecstatic ", "enthralled ", "inattentive ", "rapturous ", "spellbound "], "A": ["sorrowful ", "troubled ", "unhappy "]}
+{"index": 260780, "D": "deeply engrossed or absorbed", "S": ["delighted", "ecstatic", "enthralled", "inattentive", "rapturous", "spellbound"], "A": ["sorrowful", "troubled", "unhappy"]}

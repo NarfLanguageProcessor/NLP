@@ -1,1 +1,0 @@
-{"index": 248345, "D": "done deliberately; planned in advance", "S": ["calculatedly ", "callously ", "coldheartedly ", "coldly ", "cruelly ", "deliberately ", "dispassionately ", "heartlessly ", "indifferently ", "intentionally ", "ruthlessly ", "unemotionally ", "unfeelingly ", "with full intent "], "A": []}

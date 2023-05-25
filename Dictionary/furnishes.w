@@ -1,1 +1,1 @@
-{"index": 120467, "D": "to supply (a house, room, etc.) with necessary furniture,  carpets, appliances, etc.", "S": ["equip ", "fix up ", "provide ", "rig "], "A": ["unclothe ", "waste "]}
+{"index": 120467, "D": "to supply (a house, room, etc.) with necessary furniture,  carpets, appliances, etc.", "S": ["equip", "fix up", "provide", "rig"], "A": ["unclothe", "waste"]}

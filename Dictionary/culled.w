@@ -1,1 +1,1 @@
-{"index": 74732, "D": "selected, either as desirable or undesirable, and removed from a larger group", "S": ["bamboozled ", "betrayed ", "conned ", "duped ", "fooled ", "had ", "hoodwinked ", "lured ", "played ", "taken ", "trapped ", "victimized "], "A": ["informed ", "trusted "]}
+{"index": 74732, "D": "selected, either as desirable or undesirable, and removed from a larger group", "S": ["bamboozled", "betrayed", "conned", "duped", "fooled", "had", "hoodwinked", "lured", "played", "taken", "trapped", "victimized"], "A": ["informed", "trusted"]}

@@ -1,1 +1,1 @@
-{"index": 174819, "D": "to loll; lounge.", "S": ["bounce ", "bound ", "dive ", "drop ", "fall ", "hop ", "plummet ", "skip ", "surge ", "take ", "top ", "vault "], "A": ["lose ", "retreat "]}
+{"index": 174819, "D": "to loll; lounge.", "S": ["bounce", "bound", "dive", "drop", "fall", "hop", "plummet", "skip", "surge", "take", "top", "vault"], "A": ["lose", "retreat"]}

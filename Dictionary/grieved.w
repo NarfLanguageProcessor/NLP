@@ -1,1 +1,1 @@
-{"index": 129810, "D": "to feel grief  or great sorrow", "S": ["afflicted ", "concerned ", "damaged ", "distressed ", "impressed ", "overwhelmed ", "stirred ", "touched ", "troubled "], "A": ["calm ", "collected ", "happy ", "sane ", "untroubled ", "hard "]}
+{"index": 129810, "D": "to feel grief  or great sorrow", "S": ["afflicted", "concerned", "damaged", "distressed", "impressed", "overwhelmed", "stirred", "touched", "troubled"], "A": ["calm", "collected", "happy", "sane", "untroubled", "hard"]}

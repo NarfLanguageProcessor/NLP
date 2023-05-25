@@ -1,1 +1,1 @@
-{"index": 117218, "D": "to form by heating and hammering; beat into shape.", "S": ["falsify ", "produce "], "A": ["destroy ", "raze ", "ruin ", "stop ", "tell the truth "]}
+{"index": 117218, "D": "to form by heating and hammering; beat into shape.", "S": ["falsify", "produce"], "A": ["destroy", "raze", "ruin", "stop", "tell the truth"]}

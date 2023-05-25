@@ -1,1 +1,1 @@
-{"index": 67363, "D": "a person or group that competes against others to win something; contestant", "S": ["waiting list "], "A": []}
+{"index": 67363, "D": "a person or group that competes against others to win something; contestant", "S": ["waiting list"], "A": []}

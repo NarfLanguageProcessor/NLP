@@ -1,1 +1,1 @@
-{"index": 177166, "D": "wildly or heedlessly impulsive; reckless; rash", "S": ["clown ", "jokester "], "A": []}
+{"index": 177166, "D": "wildly or heedlessly impulsive; reckless; rash", "S": ["clown", "jokester"], "A": []}

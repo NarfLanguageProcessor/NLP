@@ -1,1 +1,1 @@
-{"index": 320618, "D": "the act of giving thanks; grateful acknowledgment of benefits or favors, especially to God.", "S": ["benediction ", "blessing ", "invocation ", "petition ", "thanks "], "A": []}
+{"index": 320618, "D": "the act of giving thanks; grateful acknowledgment of benefits or favors, especially to God.", "S": ["benediction", "blessing", "invocation", "petition", "thanks"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 123411, "D": "Compare sex1 (def. 1). ", "S": ["common ", "feminine ", "masculine ", "neuter "], "A": []}
+{"index": 123411, "D": "Compare sex1 (def. 1). ", "S": ["common", "feminine", "masculine", "neuter"], "A": []}

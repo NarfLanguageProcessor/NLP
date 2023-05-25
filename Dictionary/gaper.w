@@ -1,1 +1,1 @@
-{"index": 122014, "D": "a person or thing that gapes. ", "S": ["eyewitness ", "observer ", "onlooker ", "passerby ", "spectator "], "A": ["participant "]}
+{"index": 122014, "D": "a person or thing that gapes. ", "S": ["eyewitness", "observer", "onlooker", "passerby", "spectator"], "A": ["participant"]}

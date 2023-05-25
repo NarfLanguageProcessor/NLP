@@ -1,1 +1,1 @@
-{"index": 360243, "D": "for the most part; almost wholly; just about", "S": ["basically ", "essentially ", "nearly ", "practically "], "A": []}
+{"index": 360243, "D": "for the most part; almost wholly; just about", "S": ["basically", "essentially", "nearly", "practically"], "A": []}

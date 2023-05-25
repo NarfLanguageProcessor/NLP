@@ -1,1 +1,1 @@
-{"index": 41716, "D": "a strong, tough person", "S": ["assailant ", "boxer ", "champion ", "combatant ", "mercenary ", "militant ", "opponent ", "soldier ", "tanker ", "warlord ", "warrior "], "A": ["peacemaker "]}
+{"index": 41716, "D": "a strong, tough person", "S": ["assailant", "boxer", "champion", "combatant", "mercenary", "militant", "opponent", "soldier", "tanker", "warlord", "warrior"], "A": ["peacemaker"]}

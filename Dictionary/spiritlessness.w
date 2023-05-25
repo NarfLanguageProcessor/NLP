@@ -1,1 +1,1 @@
-{"index": 300119, "D": "without spirit. ", "S": ["apathy ", "languor ", "melancholy ", "sadness ", "tedium ", "weariness "], "A": ["cheer ", "happiness ", "joy ", "gladness "]}
+{"index": 300119, "D": "without spirit. ", "S": ["apathy", "languor", "melancholy", "sadness", "tedium", "weariness"], "A": ["cheer", "happiness", "joy", "gladness"]}

@@ -1,1 +1,1 @@
-{"index": 83998, "D": "a belief in or worship of devils.", "S": ["charmer ", "genius ", "virtuoso ", "witch ", "wizard "], "A": []}
+{"index": 83998, "D": "a belief in or worship of devils.", "S": ["charmer", "genius", "virtuoso", "witch", "wizard"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 298343, "D": "one of any of several breeds of small or medium-sized dogs, usually having a long, silky coat and long, drooping ears.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 275538, "D": "to chew the cud, as a ruminant. ", "S": ["biting ", "cropping ", "eating ", "feeding ", "foraging ", "gnawing ", "masticating ", "munching ", "nibbling ", "pasturing ", "uprooting "], "A": []}
+{"index": 275538, "D": "to chew the cud, as a ruminant. ", "S": ["biting", "cropping", "eating", "feeding", "foraging", "gnawing", "masticating", "munching", "nibbling", "pasturing", "uprooting"], "A": []}

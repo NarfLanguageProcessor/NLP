@@ -1,1 +1,1 @@
-{"index": 63380, "D": "extraordinarily great in size, extent, or degree; gigantic; huge.", "S": ["enormous ", "gargantuan ", "gigantic ", "huge ", "immense ", "jumbo ", "mammoth ", "monstrous ", "vast "], "A": ["little ", "miniature ", "miniscule ", "minute ", "small ", "teeny ", "tiny "]}
+{"index": 63380, "D": "extraordinarily great in size, extent, or degree; gigantic; huge.", "S": ["enormous", "gargantuan", "gigantic", "huge", "immense", "jumbo", "mammoth", "monstrous", "vast"], "A": ["little", "miniature", "miniscule", "minute", "small", "teeny", "tiny"]}

@@ -1,1 +1,1 @@
-{"index": 153762, "D": "the act of inspecting  or viewing, especially carefully or critically", "S": ["analysis ", "checkup ", "inquiry ", "investigation ", "probe ", "research ", "review ", "scrutiny ", "search ", "supervision ", "surveillance ", "survey "], "A": ["ignorance "]}
+{"index": 153762, "D": "the act of inspecting  or viewing, especially carefully or critically", "S": ["analysis", "checkup", "inquiry", "investigation", "probe", "research", "review", "scrutiny", "search", "supervision", "surveillance", "survey"], "A": ["ignorance"]}

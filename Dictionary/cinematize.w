@@ -1,1 +1,1 @@
-{"index": 57665, "D": "to adapt (a novel, play, etc.) for motion pictures.", "S": ["capture ", "illustrate ", "print ", "reproduce ", "shoot "], "A": ["fail ", "lose ", "misunderstand "]}
+{"index": 57665, "D": "to adapt (a novel, play, etc.) for motion pictures.", "S": ["capture", "illustrate", "print", "reproduce", "shoot"], "A": ["fail", "lose", "misunderstand"]}

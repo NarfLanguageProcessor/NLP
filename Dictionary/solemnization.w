@@ -1,1 +1,1 @@
-{"index": 296622, "D": "to perform the ceremony of (marriage).", "S": ["anniversary ", "bash ", "birthday ", "ceremony ", "festival ", "festivity ", "gala ", "jubilee ", "observance ", "party ", "performance ", "spree ", "triumph "], "A": ["failure ", "sadness "]}
+{"index": 296622, "D": "to perform the ceremony of (marriage).", "S": ["anniversary", "bash", "birthday", "ceremony", "festival", "festivity", "gala", "jubilee", "observance", "party", "performance", "spree", "triumph"], "A": ["failure", "sadness"]}

@@ -1,1 +1,1 @@
-{"index": 41673, "D": "to eat, nibble at, or feed on (leaves, tender shoots, or other soft vegetation).", "S": ["flip through ", "leaf through ", "peruse ", "read ", "scan ", "skim "], "A": []}
+{"index": 41673, "D": "to eat, nibble at, or feed on (leaves, tender shoots, or other soft vegetation).", "S": ["flip through", "leaf through", "peruse", "read", "scan", "skim"], "A": []}

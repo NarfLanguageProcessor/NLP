@@ -1,1 +1,1 @@
-{"index": 280018, "D": "a variant of scepter. ", "S": ["baton ", "cane ", "cylinder ", "ingot ", "shaft ", "slab ", "stick "], "A": []}
+{"index": 280018, "D": "a variant of scepter. ", "S": ["baton", "cane", "cylinder", "ingot", "shaft", "slab", "stick"], "A": []}

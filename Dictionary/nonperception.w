@@ -1,1 +1,0 @@
-{"index": 205838, "D": "the act or faculty of perceiving,  or apprehending by means of the senses or of the mind; cognition; understanding.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 163882, "D": "a French military cap with a flat circular top and a nearly horizontal visor.", "S": ["armor ", "hard hat ", "hat "], "A": []}
+{"index": 163882, "D": "a French military cap with a flat circular top and a nearly horizontal visor.", "S": ["armor", "hard hat", "hat"], "A": []}

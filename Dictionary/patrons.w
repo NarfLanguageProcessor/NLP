@@ -1,1 +1,1 @@
-{"index": 227988, "D": "a person who is a customer, client, or paying guest, especially a regular one, of a store, hotel, or the like.", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}
+{"index": 227988, "D": "a person who is a customer, client, or paying guest, especially a regular one, of a store, hotel, or the like.", "S": ["congregation", "crowd", "gallery", "gathering", "market", "public"], "A": []}

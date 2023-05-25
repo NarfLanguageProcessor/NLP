@@ -1,1 +1,1 @@
-{"index": 263530, "D": "to relate or narrate; tell in detail; give the facts or particulars of.", "S": ["anecdote ", "narrative ", "tale ", "voice-over "], "A": ["concealment ", "suppression "]}
+{"index": 263530, "D": "to relate or narrate; tell in detail; give the facts or particulars of.", "S": ["anecdote", "narrative", "tale", "voice-over"], "A": ["concealment", "suppression"]}

@@ -1,1 +1,1 @@
-{"index": 3080, "D": "anything done, being done, or to be done; deed; performance", "S": ["fictional ", "imaginary ", "simulated "], "A": ["genuine ", "real "]}
+{"index": 3080, "D": "anything done, being done, or to be done; deed; performance", "S": ["fictional", "imaginary", "simulated"], "A": ["genuine", "real"]}

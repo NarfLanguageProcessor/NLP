@@ -1,1 +1,1 @@
-{"index": 110381, "D": "the cavity at the back of the mouth, leading into the pharynx.", "S": ["esophagus ", "larynx "], "A": []}
+{"index": 110381, "D": "the cavity at the back of the mouth, leading into the pharynx.", "S": ["esophagus", "larynx"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 28253, "D": "a four-wheeled carriage with a high front seat outside for the driver, facing seats inside for two couples, and a calash top over the back seat.", "S": ["car ", "caravan ", "carriage ", "cart ", "chariot ", "lorry ", "van "], "A": []}
+{"index": 28253, "D": "a four-wheeled carriage with a high front seat outside for the driver, facing seats inside for two couples, and a calash top over the back seat.", "S": ["car", "caravan", "carriage", "cart", "chariot", "lorry", "van"], "A": []}

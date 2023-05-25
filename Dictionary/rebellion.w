@@ -1,1 +1,1 @@
-{"index": 262292, "D": "open, organized, and armed resistance to one's government or ruler.", "S": ["dissent ", "insurgency ", "insurrection ", "revolution ", "uprising "], "A": ["obedience ", "orthodoxy ", "submission "]}
+{"index": 262292, "D": "open, organized, and armed resistance to one's government or ruler.", "S": ["dissent", "insurgency", "insurrection", "revolution", "uprising"], "A": ["obedience", "orthodoxy", "submission"]}

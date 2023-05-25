@@ -1,1 +1,1 @@
-{"index": 162276, "D": "a very large person, animal, or thing.", "S": ["Hercules ", "behemoth ", "bulk ", "colossus ", "cyclops ", "elephant ", "hulk ", "leviathan ", "mammoth ", "monster ", "mountain ", "ogre ", "titan ", "whale ", "whopper "], "A": []}
+{"index": 162276, "D": "a very large person, animal, or thing.", "S": ["Hercules", "behemoth", "bulk", "colossus", "cyclops", "elephant", "hulk", "leviathan", "mammoth", "monster", "mountain", "ogre", "titan", "whale", "whopper"], "A": []}

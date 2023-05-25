@@ -1,1 +1,1 @@
-{"index": 116431, "D": "done or effected by force", "S": ["coercive ", "compulsory ", "forceful "], "A": ["weak "]}
+{"index": 116431, "D": "done or effected by force", "S": ["coercive", "compulsory", "forceful"], "A": ["weak"]}

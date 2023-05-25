@@ -1,1 +1,1 @@
-{"index": 5373, "D": "the act of affiliating;  state of being affiliated  or associated.", "S": ["connection ", "partnership ", "relationship "], "A": ["detachment ", "dissolution ", "disunion ", "division ", "divorce ", "separation "]}
+{"index": 5373, "D": "the act of affiliating;  state of being affiliated  or associated.", "S": ["connection", "partnership", "relationship"], "A": ["detachment", "dissolution", "disunion", "division", "divorce", "separation"]}

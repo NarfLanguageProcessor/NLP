@@ -1,1 +1,1 @@
-{"index": 70154, "D": "the price paid to acquire, produce, accomplish, or maintain anything", "S": ["amount ", "charge ", "damage ", "expenditure ", "figure ", "outlay ", "payment ", "price ", "price tag ", "rate ", "tariff ", "value ", "worth "], "A": ["repayment ", "retribution "]}
+{"index": 70154, "D": "the price paid to acquire, produce, accomplish, or maintain anything", "S": ["amount", "charge", "damage", "expenditure", "figure", "outlay", "payment", "price", "price tag", "rate", "tariff", "value", "worth"], "A": ["repayment", "retribution"]}

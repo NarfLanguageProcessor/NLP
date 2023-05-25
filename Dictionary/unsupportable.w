@@ -1,1 +1,1 @@
-{"index": 352455, "D": "not able to be supported", "S": ["a bit much ", "enough ", "heavy-handed ", "impossible ", "inadmissible ", "insufferable ", "insupportable ", "intolerable ", "last straw ", "oppressive ", "unacceptable ", "unendurable ", "unsufferable ", "unsurpassable "], "A": []}
+{"index": 352455, "D": "not able to be supported", "S": ["a bit much", "enough", "heavy-handed", "impossible", "inadmissible", "insufferable", "insupportable", "intolerable", "last straw", "oppressive", "unacceptable", "unendurable", "unsufferable", "unsurpassable"], "A": []}

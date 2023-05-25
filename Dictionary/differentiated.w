@@ -1,1 +1,1 @@
-{"index": 85289, "D": "to form or mark differently  from other such things; distinguish.", "S": ["comprehend ", "discern ", "discriminate ", "extricate ", "separate ", "understand "], "A": ["misinterpret ", "mistake ", "misunderstand "]}
+{"index": 85289, "D": "to form or mark differently  from other such things; distinguish.", "S": ["comprehend", "discern", "discriminate", "extricate", "separate", "understand"], "A": ["misinterpret", "mistake", "misunderstand"]}

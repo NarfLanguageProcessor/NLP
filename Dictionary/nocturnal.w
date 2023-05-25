@@ -1,1 +1,1 @@
-{"index": 200662, "D": "of or relating to the night (opposed to diurnal).", "S": ["nightly ", "nighttime "], "A": []}
+{"index": 200662, "D": "of or relating to the night (opposed to diurnal).", "S": ["nightly", "nighttime"], "A": []}

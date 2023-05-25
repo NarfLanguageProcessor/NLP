@@ -1,1 +1,1 @@
-{"index": 282382, "D": "Students for a Democratic Society", "S": ["SD ", "deviation ", "normal deviation ", "predictable error ", "probable error ", "range of error ", "standard error "], "A": []}
+{"index": 282382, "D": "Students for a Democratic Society", "S": ["SD", "deviation", "normal deviation", "predictable error", "probable error", "range of error", "standard error"], "A": []}

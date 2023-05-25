@@ -1,1 +1,1 @@
-{"index": 336956, "D": "not civilized  or cultured; barbarous.", "S": ["atrocity ", "barbarity ", "brutality ", "cruelty ", "inhumanity "], "A": ["kindness ", "niceness "]}
+{"index": 336956, "D": "not civilized  or cultured; barbarous.", "S": ["atrocity", "barbarity", "brutality", "cruelty", "inhumanity"], "A": ["kindness", "niceness"]}

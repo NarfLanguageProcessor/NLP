@@ -1,1 +1,1 @@
-{"index": 108373, "D": "(of a species) the state or condition of having become locally or regionally extinct", "S": ["annihilation ", "destruction ", "extinction "], "A": []}
+{"index": 108373, "D": "(of a species) the state or condition of having become locally or regionally extinct", "S": ["annihilation", "destruction", "extinction"], "A": []}

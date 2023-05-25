@@ -1,1 +1,1 @@
-{"index": 279810, "D": "having a scar left by a healed wound, sore, or burn", "S": ["awry ", "bowed ", "contorted ", "crippled ", "damaged ", "gnarled ", "mangled ", "misshapen ", "twisted ", "warped "], "A": ["OK ", "straight ", "free "]}
+{"index": 279810, "D": "having a scar left by a healed wound, sore, or burn", "S": ["awry", "bowed", "contorted", "crippled", "damaged", "gnarled", "mangled", "misshapen", "twisted", "warped"], "A": ["OK", "straight", "free"]}

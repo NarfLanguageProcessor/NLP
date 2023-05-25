@@ -1,1 +1,1 @@
-{"index": 4501, "D": "a person who is fully grown or developed or of age.", "S": ["developed ", "grown ", "grown-up ", "of age ", "ripe ", "ripened "], "A": ["adolescent ", "infant "]}
+{"index": 4501, "D": "a person who is fully grown or developed or of age.", "S": ["developed", "grown", "grown-up", "of age", "ripe", "ripened"], "A": ["adolescent", "infant"]}

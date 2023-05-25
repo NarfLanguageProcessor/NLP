@@ -1,1 +1,1 @@
-{"index": 118266, "D": "the quality or state of being frail. ", "S": ["defect ", "deficiency ", "failing ", "fallibility ", "foible ", "imperfection ", "infirmity ", "shortcoming "], "A": ["advantage ", "perfection ", "strength ", "strong point ", "ability ", "health ", "soundness "]}
+{"index": 118266, "D": "the quality or state of being frail. ", "S": ["defect", "deficiency", "failing", "fallibility", "foible", "imperfection", "infirmity", "shortcoming"], "A": ["advantage", "perfection", "strength", "strong point", "ability", "health", "soundness"]}

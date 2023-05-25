@@ -1,1 +1,1 @@
-{"index": 197742, "D": "having a neck  of a kind specified (usually used in combination)", "S": ["brush ", "glance ", "graze ", "greet ", "salute "], "A": []}
+{"index": 197742, "D": "having a neck  of a kind specified (usually used in combination)", "S": ["brush", "glance", "graze", "greet", "salute"], "A": []}

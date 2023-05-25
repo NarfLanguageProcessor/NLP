@@ -1,1 +1,1 @@
-{"index": 166137, "D": "adhering to the laws governing such fitness", "S": ["genuine ", "legitimate "], "A": ["illegitimate "]}
+{"index": 166137, "D": "adhering to the laws governing such fitness", "S": ["genuine", "legitimate"], "A": ["illegitimate"]}

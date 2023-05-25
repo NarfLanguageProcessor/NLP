@@ -1,1 +1,1 @@
-{"index": 331812, "D": "an unusually large sea wave produced by a seaquake or undersea volcanic eruption.", "S": ["deluge ", "downpour ", "flow ", "glut ", "spate ", "stream ", "surge ", "tide ", "torrent ", "wave "], "A": ["trickle ", "dearth ", "lack "]}
+{"index": 331812, "D": "an unusually large sea wave produced by a seaquake or undersea volcanic eruption.", "S": ["deluge", "downpour", "flow", "glut", "spate", "stream", "surge", "tide", "torrent", "wave"], "A": ["trickle", "dearth", "lack"]}

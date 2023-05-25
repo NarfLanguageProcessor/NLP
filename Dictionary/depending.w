@@ -1,1 +1,1 @@
-{"index": 81565, "D": "to rely; place trust (usually followed by on or upon)", "S": ["conditional ", "reliant ", "susceptible "], "A": ["free ", "independent ", "mature ", "strong "]}
+{"index": 81565, "D": "to rely; place trust (usually followed by on or upon)", "S": ["conditional", "reliant", "susceptible"], "A": ["free", "independent", "mature", "strong"]}

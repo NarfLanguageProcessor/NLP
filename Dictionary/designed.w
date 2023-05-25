@@ -1,1 +1,1 @@
-{"index": 82586, "D": "made or done intentionally; intended; planned.", "S": ["anticipated ", "calculated ", "directed ", "intended ", "marked ", "planned ", "steered "], "A": []}
+{"index": 82586, "D": "made or done intentionally; intended; planned.", "S": ["anticipated", "calculated", "directed", "intended", "marked", "planned", "steered"], "A": []}

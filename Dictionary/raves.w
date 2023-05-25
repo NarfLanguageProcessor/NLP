@@ -1,1 +1,1 @@
-{"index": 261281, "D": "to talk wildly, as in delirium.", "S": ["applause "], "A": ["condemnation ", "denunciation ", "dishonor ", "disregard ", "disrespect ", "ill repute ", "unimportance "]}
+{"index": 261281, "D": "to talk wildly, as in delirium.", "S": ["applause"], "A": ["condemnation", "denunciation", "dishonor", "disregard", "disrespect", "ill repute", "unimportance"]}

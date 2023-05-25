@@ -1,1 +1,1 @@
-{"index": 321918, "D": "having relatively little extent from one surface or side to the opposite; not thick", "S": ["erosion "], "A": ["building ", "happiness ", "strengthening "]}
+{"index": 321918, "D": "having relatively little extent from one surface or side to the opposite; not thick", "S": ["erosion"], "A": ["building", "happiness", "strengthening"]}

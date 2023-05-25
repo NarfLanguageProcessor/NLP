@@ -1,1 +1,1 @@
-{"index": 180202, "D": "a woman skilled in shooting at a mark; a woman who shoots well.", "S": ["assassin ", "gunman ", "hit woman ", "murderer ", "sniper "], "A": []}
+{"index": 180202, "D": "a woman skilled in shooting at a mark; a woman who shoots well.", "S": ["assassin", "gunman", "hit woman", "murderer", "sniper"], "A": []}

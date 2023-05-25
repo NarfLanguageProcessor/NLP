@@ -1,1 +1,1 @@
-{"index": 357226, "D": "varied in appearance or color; marked with patches or spots of different colors.", "S": ["assorted ", "checkered ", "mixed ", "motley ", "mottled ", "patched ", "spotted ", "streaked ", "striped ", "varied "], "A": ["like ", "same ", "similar ", "unvaried "]}
+{"index": 357226, "D": "varied in appearance or color; marked with patches or spots of different colors.", "S": ["assorted", "checkered", "mixed", "motley", "mottled", "patched", "spotted", "streaked", "striped", "varied"], "A": ["like", "same", "similar", "unvaried"]}

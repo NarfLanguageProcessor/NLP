@@ -1,1 +1,1 @@
-{"index": 365013, "D": "to go, fly, revolve, or otherwise move quickly with a humming or buzzing sound", "S": ["buzz ", "hum ", "murmur ", "purr ", "sound ", "vibration "], "A": ["overachiever ", "quiet ", "silence ", "workaholic "]}
+{"index": 365013, "D": "to go, fly, revolve, or otherwise move quickly with a humming or buzzing sound", "S": ["buzz", "hum", "murmur", "purr", "sound", "vibration"], "A": ["overachiever", "quiet", "silence", "workaholic"]}

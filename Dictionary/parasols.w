@@ -1,1 +1,1 @@
-{"index": 226125, "D": "a lightweight umbrella used, especially by women, as a sunshade.", "S": ["canopy ", "sunshade "], "A": []}
+{"index": 226125, "D": "a lightweight umbrella used, especially by women, as a sunshade.", "S": ["canopy", "sunshade"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 287780, "D": "luster; brightness; radiance.", "S": ["buff ", "furbish ", "glance ", "glaze ", "gloss ", "luster ", "patina ", "rub ", "sheen ", "shine ", "smooth ", "wax "], "A": ["dull "]}
+{"index": 287780, "D": "luster; brightness; radiance.", "S": ["buff", "furbish", "glance", "glaze", "gloss", "luster", "patina", "rub", "sheen", "shine", "smooth", "wax"], "A": ["dull"]}

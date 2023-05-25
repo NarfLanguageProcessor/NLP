@@ -1,1 +1,1 @@
-{"index": 44956, "D": "capable of or made for performing calculations,  especially arithmetical calculations", "S": ["canny ", "considerate ", "devious ", "manipulative ", "scheming ", "shrewd ", "wily "], "A": ["foolish ", "honest ", "open "]}
+{"index": 44956, "D": "capable of or made for performing calculations,  especially arithmetical calculations", "S": ["canny", "considerate", "devious", "manipulative", "scheming", "shrewd", "wily"], "A": ["foolish", "honest", "open"]}

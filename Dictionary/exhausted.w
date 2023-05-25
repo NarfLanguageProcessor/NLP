@@ -1,1 +1,1 @@
-{"index": 107116, "D": " drained of strength or energy; worn-out", "S": ["dead ", "disabled ", "drained ", "weak ", "weakened "], "A": ["able ", "active ", "energized ", "firm ", "strong ", "invigorated "]}
+{"index": 107116, "D": " drained of strength or energy; worn-out", "S": ["dead", "disabled", "drained", "weak", "weakened"], "A": ["able", "active", "energized", "firm", "strong", "invigorated"]}

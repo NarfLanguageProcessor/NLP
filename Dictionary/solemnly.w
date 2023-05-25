@@ -1,1 +1,1 @@
-{"index": 296628, "D": "in a grave, sober, or mirthless fashion", "S": ["earnestly ", "soberly "], "A": []}
+{"index": 296628, "D": "in a grave, sober, or mirthless fashion", "S": ["earnestly", "soberly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 21714, "D": "to estimate officially the value of (property, income, etc.) as a basis for taxation.", "S": ["perceptible ", "quantitative ", "significant "], "A": ["imperceptible ", "insignificant ", "unmeasurable "]}
+{"index": 21714, "D": "to estimate officially the value of (property, income, etc.) as a basis for taxation.", "S": ["perceptible", "quantitative", "significant"], "A": ["imperceptible", "insignificant", "unmeasurable"]}

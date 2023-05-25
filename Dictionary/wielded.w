@@ -1,1 +1,1 @@
-{"index": 365568, "D": "to exercise (power, authority, influence, etc.), as in ruling or dominating.", "S": ["fulfilled ", "managed ", "negotiated ", "regulated "], "A": []}
+{"index": 365568, "D": "to exercise (power, authority, influence, etc.), as in ruling or dominating.", "S": ["fulfilled", "managed", "negotiated", "regulated"], "A": []}

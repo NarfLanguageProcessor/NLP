@@ -1,1 +1,1 @@
-{"index": 301050, "D": "playful or frolicsome; jesting, jocose, or merry", "S": ["boon ", "festive ", "frisky ", "frolicsome ", "game ", "gamesome ", "jocular ", "merry ", "prankish ", "sprightly ", "wanton "], "A": ["solemn ", "staid "]}
+{"index": 301050, "D": "playful or frolicsome; jesting, jocose, or merry", "S": ["boon", "festive", "frisky", "frolicsome", "game", "gamesome", "jocular", "merry", "prankish", "sprightly", "wanton"], "A": ["solemn", "staid"]}

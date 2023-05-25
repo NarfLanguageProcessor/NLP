@@ -1,1 +1,1 @@
-{"index": 145172, "D": "a crabbed, disagreeable person.", "S": ["gob ", "lump ", "morsel ", "slab ", "slice ", "wedge "], "A": ["whole ", "individual "]}
+{"index": 145172, "D": "a crabbed, disagreeable person.", "S": ["gob", "lump", "morsel", "slab", "slice", "wedge"], "A": ["whole", "individual"]}

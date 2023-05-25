@@ -1,1 +1,1 @@
-{"index": 189694, "D": "hatred, dislike, or mistrust of women, manifested in various forms such as physical intimidation and abuse, sexual harassment and rape, social shunning and ostracism, etc.", "S": ["sexism "], "A": ["misandry "]}
+{"index": 189694, "D": "hatred, dislike, or mistrust of women, manifested in various forms such as physical intimidation and abuse, sexual harassment and rape, social shunning and ostracism, etc.", "S": ["sexism"], "A": ["misandry"]}

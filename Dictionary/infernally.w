@@ -1,1 +1,1 @@
-{"index": 151933, "D": "hellish; fiendish; diabolical", "S": ["diabolically ", "extremely ", "fiendishly ", "horribly ", "unbelievably "], "A": []}
+{"index": 151933, "D": "hellish; fiendish; diabolical", "S": ["diabolically", "extremely", "fiendishly", "horribly", "unbelievably"], "A": []}

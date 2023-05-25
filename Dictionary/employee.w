@@ -1,1 +1,1 @@
-{"index": 98836, "D": "a person working for another person or a business firm for pay.", "S": ["agent ", "attendant ", "clerk ", "laborer ", "member ", "operator ", "representative ", "staff member ", "worker "], "A": ["check ", "hindrance ", "master ", "obstruction "]}
+{"index": 98836, "D": "a person working for another person or a business firm for pay.", "S": ["agent", "attendant", "clerk", "laborer", "member", "operator", "representative", "staff member", "worker"], "A": ["check", "hindrance", "master", "obstruction"]}

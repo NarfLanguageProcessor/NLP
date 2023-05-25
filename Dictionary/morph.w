@@ -1,1 +1,1 @@
-{"index": 193551, "D": "Compare allomorph (def. 2). ", "S": ["alter ", "modify ", "transform "], "A": ["maintain ", "stagnate ", "keep ", "preserve ", "sustain "]}
+{"index": 193551, "D": "Compare allomorph (def. 2). ", "S": ["alter", "modify", "transform"], "A": ["maintain", "stagnate", "keep", "preserve", "sustain"]}

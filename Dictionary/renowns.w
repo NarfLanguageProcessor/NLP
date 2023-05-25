@@ -1,1 +1,1 @@
-{"index": 267758, "D": "widespread and high repute; fame.", "S": ["applause "], "A": ["condemnation ", "denunciation ", "dishonor ", "disregard ", "disrespect ", "ill repute ", "unimportance "]}
+{"index": 267758, "D": "widespread and high repute; fame.", "S": ["applause"], "A": ["condemnation", "denunciation", "dishonor", "disregard", "disrespect", "ill repute", "unimportance"]}

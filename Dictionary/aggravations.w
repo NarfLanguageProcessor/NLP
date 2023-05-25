@@ -1,1 +1,1 @@
-{"index": 6112, "D": "an increase in intensity, seriousness, or severity; act of making worse", "S": ["irritation "], "A": ["aid ", "calmness ", "comfort ", "ease ", "happiness ", "health ", "help ", "pleasure "]}
+{"index": 6112, "D": "an increase in intensity, seriousness, or severity; act of making worse", "S": ["irritation"], "A": ["aid", "calmness", "comfort", "ease", "happiness", "health", "help", "pleasure"]}

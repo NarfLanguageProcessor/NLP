@@ -1,1 +1,1 @@
-{"index": 351456, "D": "to bring out of a snarled  condition; disentangle.", "S": ["clear ", "cut through red tape ", "free ", "get to the bottom of ", "resolve ", "solve ", "unravel ", "untangle ", "work out "], "A": []}
+{"index": 351456, "D": "to bring out of a snarled  condition; disentangle.", "S": ["clear", "cut through red tape", "free", "get to the bottom of", "resolve", "solve", "unravel", "untangle", "work out"], "A": []}

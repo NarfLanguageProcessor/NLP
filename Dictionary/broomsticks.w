@@ -1,1 +1,1 @@
-{"index": 41548, "D": "the long slender handle of a broom. ", "S": ["beanstalk ", "broomstick ", "hatrack ", "stick ", "string bean "], "A": []}
+{"index": 41548, "D": "the long slender handle of a broom. ", "S": ["beanstalk", "broomstick", "hatrack", "stick", "string bean"], "A": []}

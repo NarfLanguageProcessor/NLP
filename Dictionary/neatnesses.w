@@ -1,1 +1,1 @@
-{"index": 197641, "D": "in a pleasingly orderly and clean condition", "S": ["cleanliness ", "cleanness ", "orderliness ", "tidiness "], "A": []}
+{"index": 197641, "D": "in a pleasingly orderly and clean condition", "S": ["cleanliness", "cleanness", "orderliness", "tidiness"], "A": []}

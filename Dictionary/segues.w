@@ -1,1 +1,1 @@
-{"index": 283247, "D": "to continue at once with the next musical section or composition (often used as a musical direction).", "S": ["continuation "], "A": ["halt ", "interruption ", "stop "]}
+{"index": 283247, "D": "to continue at once with the next musical section or composition (often used as a musical direction).", "S": ["continuation"], "A": ["halt", "interruption", "stop"]}

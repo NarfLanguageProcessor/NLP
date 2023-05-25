@@ -1,1 +1,0 @@
-{"index": 177830, "D": "the crime of willfully inflicting a bodily injury on another so as to make the victim less capable of self-defense or, under modern statutes, so as to cripple or mutilate the victim.", "S": ["anarchy ", "commotion ", "destruction ", "fracas ", "havoc ", "pandemonium ", "violence "], "A": ["calm ", "peace "]}

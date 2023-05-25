@@ -1,1 +1,1 @@
-{"index": 270369, "D": "the act of retaining. ", "S": ["confinement ", "detainment ", "detention ", "holding ", "reservation ", "withholding "], "A": ["freedom ", "liberation "]}
+{"index": 270369, "D": "the act of retaining. ", "S": ["confinement", "detainment", "detention", "holding", "reservation", "withholding"], "A": ["freedom", "liberation"]}

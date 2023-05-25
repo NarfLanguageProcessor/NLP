@@ -1,1 +1,1 @@
-{"index": 40236, "D": "the act of breaking;  state of being broken. ", "S": ["deterioration ", "ruination ", "wreckage "], "A": []}
+{"index": 40236, "D": "the act of breaking;  state of being broken. ", "S": ["deterioration", "ruination", "wreckage"], "A": []}

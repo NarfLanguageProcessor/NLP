@@ -1,1 +1,1 @@
-{"index": 129120, "D": [], "S": ["carpal tunnel syndrome ", "hand spasm ", "writer's palsy ", "writer's spasm "], "A": []}
+{"index": 129120, "D": [], "S": ["carpal tunnel syndrome", "hand spasm", "writer's palsy", "writer's spasm"], "A": []}

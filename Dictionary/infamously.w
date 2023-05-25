@@ -1,1 +1,1 @@
-{"index": 151797, "D": "having an extremely bad reputation", "S": ["notably ", "spectacularly "], "A": []}
+{"index": 151797, "D": "having an extremely bad reputation", "S": ["notably", "spectacularly"], "A": []}

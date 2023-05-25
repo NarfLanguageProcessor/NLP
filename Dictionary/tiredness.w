@@ -1,1 +1,1 @@
-{"index": 324486, "D": [], "S": ["fatigue ", "weariness "], "A": ["ability ", "health ", "strength "]}
+{"index": 324486, "D": [], "S": ["fatigue", "weariness"], "A": ["ability", "health", "strength"]}

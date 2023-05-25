@@ -1,1 +1,1 @@
-{"index": 97831, "D": "to avoid or escape by speed, cleverness, trickery, etc.; evade", "S": ["ethereal ", "unreal "], "A": ["factual ", "real "]}
+{"index": 97831, "D": "to avoid or escape by speed, cleverness, trickery, etc.; evade", "S": ["ethereal", "unreal"], "A": ["factual", "real"]}

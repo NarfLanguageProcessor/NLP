@@ -1,1 +1,1 @@
-{"index": 61090, "D": "a person or thing that coasts. ", "S": ["plate "], "A": []}
+{"index": 61090, "D": "a person or thing that coasts. ", "S": ["plate"], "A": []}

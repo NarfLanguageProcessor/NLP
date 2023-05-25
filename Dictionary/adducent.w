@@ -1,0 +1,1 @@
+{"index": 3610, "D": "drawing toward, as by the action of a muscle; adducting. ", "S": [], "A": []}

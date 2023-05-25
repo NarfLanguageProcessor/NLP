@@ -1,0 +1,1 @@
+{"index": 26007, "D": "water thrown backward by the motion of oars, propellers, paddle wheels, etc.", "S": [], "A": []}

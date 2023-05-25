@@ -1,1 +1,1 @@
-{"index": 54892, "D": "light conversation; casual talk; gossip.", "S": ["babble ", "bark ", "chat ", "chatter ", "chitchat ", "confabulate ", "converse ", "discourse ", "jabber ", "palaver ", "spit ", "talk "], "A": ["be quiet ", "be silent "]}
+{"index": 54892, "D": "light conversation; casual talk; gossip.", "S": ["babble", "bark", "chat", "chatter", "chitchat", "confabulate", "converse", "discourse", "jabber", "palaver", "spit", "talk"], "A": ["be quiet", "be silent"]}

@@ -1,1 +1,1 @@
-{"index": 256090, "D": "a short, quick blast, as of wind or breath.", "S": ["bloated ", "distended ", "enlarged ", "inflated ", "swollen "], "A": ["contracted ", "deflated ", "shrunken "]}
+{"index": 256090, "D": "a short, quick blast, as of wind or breath.", "S": ["bloated", "distended", "enlarged", "inflated", "swollen"], "A": ["contracted", "deflated", "shrunken"]}

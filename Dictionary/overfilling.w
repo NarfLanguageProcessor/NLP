@@ -1,1 +1,1 @@
-{"index": 219371, "D": "to fill too full, so as to cause overflowing.", "S": ["engorgement ", "feeding ", "filling ", "glut ", "gratification ", "indulgence ", "satiety ", "saturation ", "surfeit "], "A": ["lack ", "need ", "want "]}
+{"index": 219371, "D": "to fill too full, so as to cause overflowing.", "S": ["engorgement", "feeding", "filling", "glut", "gratification", "indulgence", "satiety", "saturation", "surfeit"], "A": ["lack", "need", "want"]}

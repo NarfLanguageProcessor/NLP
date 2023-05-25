@@ -1,1 +1,1 @@
-{"index": 257617, "D": "having four sides.", "S": ["parallelogram ", "rectangle ", "rhombus ", "square "], "A": []}
+{"index": 257617, "D": "having four sides.", "S": ["parallelogram", "rectangle", "rhombus", "square"], "A": []}

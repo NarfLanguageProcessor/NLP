@@ -1,1 +1,0 @@
-{"index": 251336, "D": "the office or term of office of a proconsul. ", "S": [], "A": []}

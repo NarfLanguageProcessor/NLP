@@ -1,1 +1,1 @@
-{"index": 164869, "D": "relatives or kindred.", "S": ["band ", "faction ", "gang ", "mob ", "sect ", "society ", "tribe "], "A": ["individual "]}
+{"index": 164869, "D": "relatives or kindred.", "S": ["band", "faction", "gang", "mob", "sect", "society", "tribe"], "A": ["individual"]}

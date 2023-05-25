@@ -1,1 +1,1 @@
-{"index": 288871, "D": "the land along the edge of a sea, lake, broad river, etc.", "S": ["bank ", "beach ", "border ", "coast ", "riverbank ", "sand ", "seaboard ", "seashore ", "waterfront "], "A": ["center ", "interior ", "middle "]}
+{"index": 288871, "D": "the land along the edge of a sea, lake, broad river, etc.", "S": ["bank", "beach", "border", "coast", "riverbank", "sand", "seaboard", "seashore", "waterfront"], "A": ["center", "interior", "middle"]}

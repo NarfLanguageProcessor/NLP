@@ -1,1 +1,1 @@
-{"index": 262867, "D": "a person or thing that receives; receiver", "S": ["beneficiary "], "A": ["donor ", "giver "]}
+{"index": 262867, "D": "a person or thing that receives; receiver", "S": ["beneficiary"], "A": ["donor", "giver"]}

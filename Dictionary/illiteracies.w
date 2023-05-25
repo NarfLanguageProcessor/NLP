@@ -1,1 +1,1 @@
-{"index": 147414, "D": "a lack of ability to read and write.", "S": ["blindness "], "A": ["cognizance ", "understanding "]}
+{"index": 147414, "D": "a lack of ability to read and write.", "S": ["blindness"], "A": ["cognizance", "understanding"]}

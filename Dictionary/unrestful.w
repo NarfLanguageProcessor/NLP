@@ -1,1 +1,1 @@
-{"index": 349762, "D": "giving or conducive to rest. ", "S": ["apprehensive ", "impatient ", "jittery ", "jumpy ", "restless ", "uneasy "], "A": ["calm ", "composed ", "easygoing ", "laid-back "]}
+{"index": 349762, "D": "giving or conducive to rest. ", "S": ["apprehensive", "impatient", "jittery", "jumpy", "restless", "uneasy"], "A": ["calm", "composed", "easygoing", "laid-back"]}

@@ -1,1 +1,1 @@
-{"index": 45234, "D": "the outermost group of floral parts; the sepals.", "S": ["husk ", "leaf ", "petal ", "sepal "], "A": []}
+{"index": 45234, "D": "the outermost group of floral parts; the sepals.", "S": ["husk", "leaf", "petal", "sepal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 28917, "D": "to immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc.", "S": ["clean ", "dip ", "douse ", "immerse ", "rinse ", "scour ", "scrub ", "soak ", "steep ", "submerge ", "wet "], "A": ["dehydrate ", "dirty ", "dry ", "ignore "]}
+{"index": 28917, "D": "to immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc.", "S": ["clean", "dip", "douse", "immerse", "rinse", "scour", "scrub", "soak", "steep", "submerge", "wet"], "A": ["dehydrate", "dirty", "dry", "ignore"]}

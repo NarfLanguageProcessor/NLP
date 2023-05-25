@@ -1,1 +1,1 @@
-{"index": 198033, "D": "to deny the existence, evidence, or truth of", "S": ["corrective ", "countermeasure ", "cure ", "remedy "], "A": ["disease "]}
+{"index": 198033, "D": "to deny the existence, evidence, or truth of", "S": ["corrective", "countermeasure", "cure", "remedy"], "A": ["disease"]}

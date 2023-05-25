@@ -1,1 +1,1 @@
-{"index": 282188, "D": "the act of cutting the skin and its adhering fat from the body of a seal.", "S": ["sculpt "], "A": []}
+{"index": 282188, "D": "the act of cutting the skin and its adhering fat from the body of a seal.", "S": ["sculpt"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 153576, "D": "unable to be severed or separated", "S": ["indivisible ", "integral "], "A": ["dividable ", "separable "]}
+{"index": 153576, "D": "unable to be severed or separated", "S": ["indivisible", "integral"], "A": ["dividable", "separable"]}

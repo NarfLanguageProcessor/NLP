@@ -1,1 +1,1 @@
-{"index": 147069, "D": "disgrace; dishonor; public contempt.", "S": ["baseness ", "disgrace ", "lowness ", "meanness ", "sordidness "], "A": []}
+{"index": 147069, "D": "disgrace; dishonor; public contempt.", "S": ["baseness", "disgrace", "lowness", "meanness", "sordidness"], "A": []}

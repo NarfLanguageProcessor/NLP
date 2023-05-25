@@ -1,1 +1,1 @@
-{"index": 70591, "D": "a person who counsels; adviser. ", "S": ["advocate ", "instructor ", "mentor ", "teacher "], "A": ["pupil ", "student "]}
+{"index": 70591, "D": "a person who counsels; adviser. ", "S": ["advocate", "instructor", "mentor", "teacher"], "A": ["pupil", "student"]}

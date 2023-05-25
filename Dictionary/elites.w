@@ -1,1 +1,1 @@
-{"index": 97610, "D": "the choice or best of anything considered collectively, as of a group or class of persons.", "S": ["aristocracy ", "celebrity ", "establishment ", "society "], "A": ["proletariat ", "worst "]}
+{"index": 97610, "D": "the choice or best of anything considered collectively, as of a group or class of persons.", "S": ["aristocracy", "celebrity", "establishment", "society"], "A": ["proletariat", "worst"]}

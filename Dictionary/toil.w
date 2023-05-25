@@ -1,1 +1,1 @@
-{"index": 325135, "D": "hard and continuous work; exhausting labor or effort.", "S": ["exertion "], "A": ["entertainment ", "fun ", "idleness ", "laziness "]}
+{"index": 325135, "D": "hard and continuous work; exhausting labor or effort.", "S": ["exertion"], "A": ["entertainment", "fun", "idleness", "laziness"]}

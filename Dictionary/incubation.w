@@ -1,1 +1,1 @@
-{"index": 150520, "D": "the act or process of incubating. ", "S": ["evolution ", "fecundation ", "gravidity ", "growth ", "maturation ", "pregnancy ", "reproduction ", "ripening "], "A": ["decrease "]}
+{"index": 150520, "D": "the act or process of incubating. ", "S": ["evolution", "fecundation", "gravidity", "growth", "maturation", "pregnancy", "reproduction", "ripening"], "A": ["decrease"]}

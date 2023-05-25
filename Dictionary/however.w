@@ -1,1 +1,1 @@
-{"index": 144555, "D": "nevertheless; yet; on the other hand; in spite of that", "S": ["nonetheless ", "notwithstanding ", "withal ", "yet "], "A": []}
+{"index": 144555, "D": "nevertheless; yet; on the other hand; in spite of that", "S": ["nonetheless", "notwithstanding", "withal", "yet"], "A": []}

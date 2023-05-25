@@ -1,1 +1,1 @@
-{"index": 294008, "D": "smooth and glossy; sleek. ", "S": ["glossy ", "greasy ", "icy ", "oily ", "shiny ", "sleek ", "slippery "], "A": ["coarse ", "rough ", "unpolished "]}
+{"index": 294008, "D": "smooth and glossy; sleek. ", "S": ["glossy", "greasy", "icy", "oily", "shiny", "sleek", "slippery"], "A": ["coarse", "rough", "unpolished"]}

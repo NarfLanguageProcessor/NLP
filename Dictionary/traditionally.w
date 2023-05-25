@@ -1,1 +1,1 @@
-{"index": 327278, "D": "of or relating to tradition. ", "S": ["commonly ", "consistently ", "generally ", "habitually ", "normally ", "routinely "], "A": ["differently ", "divergently ", "occasionally ", "rarely ", "sometimes "]}
+{"index": 327278, "D": "of or relating to tradition. ", "S": ["commonly", "consistently", "generally", "habitually", "normally", "routinely"], "A": ["differently", "divergently", "occasionally", "rarely", "sometimes"]}

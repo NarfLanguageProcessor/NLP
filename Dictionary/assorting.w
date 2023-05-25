@@ -1,1 +1,1 @@
-{"index": 21911, "D": "to distribute, place, or arrange according to kind or class; classify; sort.", "S": ["categorize ", "class ", "classify ", "group ", "rank ", "suit ", "type "], "A": ["scatter "]}
+{"index": 21911, "D": "to distribute, place, or arrange according to kind or class; classify; sort.", "S": ["categorize", "class", "classify", "group", "rank", "suit", "type"], "A": ["scatter"]}

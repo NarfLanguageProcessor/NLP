@@ -1,1 +1,1 @@
-{"index": 114168, "D": "to parade or display oneself conspicuously, defiantly, or boldly.", "S": ["advertise ", "brandish ", "proclaim "], "A": ["hide ", "conceal ", "cover ", "secrete ", "suppress ", "withhold "]}
+{"index": 114168, "D": "to parade or display oneself conspicuously, defiantly, or boldly.", "S": ["advertise", "brandish", "proclaim"], "A": ["hide", "conceal", "cover", "secrete", "suppress", "withhold"]}

@@ -1,1 +1,1 @@
-{"index": 293611, "D": "to shut with force and noise", "S": ["bang ", "blast ", "blow ", "boom ", "burst ", "clap ", "crack ", "crash ", "ding ", "pound ", "smack ", "smash ", "whack ", "wham "], "A": ["failure ", "loss "]}
+{"index": 293611, "D": "to shut with force and noise", "S": ["bang", "blast", "blow", "boom", "burst", "clap", "crack", "crash", "ding", "pound", "smack", "smash", "whack", "wham"], "A": ["failure", "loss"]}

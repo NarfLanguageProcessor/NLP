@@ -1,1 +1,1 @@
-{"index": 241721, "D": [], "S": ["glow ", "hue ", "intensity ", "paint "], "A": ["black ", "white "]}
+{"index": 241721, "D": [], "S": ["glow", "hue", "intensity", "paint"], "A": ["black", "white"]}

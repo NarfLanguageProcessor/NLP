@@ -1,1 +1,1 @@
-{"index": 143205, "D": "a word pronounced the same as another but differing in meaning, whether spelled the same way or not, as heir and air.", "S": ["homonym "], "A": []}
+{"index": 143205, "D": "a word pronounced the same as another but differing in meaning, whether spelled the same way or not, as heir and air.", "S": ["homonym"], "A": []}

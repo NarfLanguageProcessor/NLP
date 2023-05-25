@@ -1,1 +1,1 @@
-{"index": 285811, "D": "the act of placing in a sepulcher or tomb; burial.", "S": ["catacomb ", "cinerarium ", "crypt ", "mausoleum ", "mound ", "ossuary ", "sepulcher ", "shrine ", "tomb ", "vault "], "A": []}
+{"index": 285811, "D": "the act of placing in a sepulcher or tomb; burial.", "S": ["catacomb", "cinerarium", "crypt", "mausoleum", "mound", "ossuary", "sepulcher", "shrine", "tomb", "vault"], "A": []}

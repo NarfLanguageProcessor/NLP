@@ -1,1 +1,1 @@
-{"index": 64631, "D": "something that completes or makes perfect", "S": ["achieve ", "integrate "], "A": ["begin ", "commence ", "fail ", "introduce ", "neglect ", "start "]}
+{"index": 64631, "D": "something that completes or makes perfect", "S": ["achieve", "integrate"], "A": ["begin", "commence", "fail", "introduce", "neglect", "start"]}

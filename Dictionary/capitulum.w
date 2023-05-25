@@ -1,1 +1,1 @@
-{"index": 46961, "D": "any globose or knoblike part, as a flower head or the head of a bone.", "S": ["brain ", "skull "], "A": ["bottom ", "conclusion ", "end ", "ending ", "finish ", "follower ", "foot ", "ignorance ", "inability ", "rear ", "stupidity "]}
+{"index": 46961, "D": "any globose or knoblike part, as a flower head or the head of a bone.", "S": ["brain", "skull"], "A": ["bottom", "conclusion", "end", "ending", "finish", "follower", "foot", "ignorance", "inability", "rear", "stupidity"]}

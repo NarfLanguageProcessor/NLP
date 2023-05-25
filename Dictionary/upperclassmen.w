@@ -1,1 +1,1 @@
-{"index": 354861, "D": "a junior or senior in a secondary school or college.", "S": ["freshman ", "junior ", "senior ", "sophomore ", "student "], "A": ["graduate "]}
+{"index": 354861, "D": "a junior or senior in a secondary school or college.", "S": ["freshman", "junior", "senior", "sophomore", "student"], "A": ["graduate"]}

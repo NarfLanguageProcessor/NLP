@@ -1,1 +1,1 @@
-{"index": 264803, "D": "a fight to re-establish his authority", "S": ["renew ", "restore ", "resume ", "return to "], "A": ["finish ", "halt ", "stop "]}
+{"index": 264803, "D": "a fight to re-establish his authority", "S": ["renew", "restore", "resume", "return to"], "A": ["finish", "halt", "stop"]}

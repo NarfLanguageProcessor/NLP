@@ -1,1 +1,0 @@
-{"index": 335840, "D": "presented as a gift or privilege; given or conferred", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 325472, "D": "the day following today", "S": ["afterward ", "again ", "directly ", "ere long ", "immediately ", "presently ", "shortly ", "soon ", "then "], "A": []}
+{"index": 325472, "D": "the day following today", "S": ["afterward", "again", "directly", "ere long", "immediately", "presently", "shortly", "soon", "then"], "A": []}

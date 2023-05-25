@@ -1,1 +1,0 @@
-{"index": 233329, "D": "a crystalline, water-soluble, essential amino acid, C6H5CH2CH(NH2)COOH, necessary to the nutrition of humans and most animals, obtained chiefly from egg white or skim milk. Abbreviation", "S": [], "A": []}

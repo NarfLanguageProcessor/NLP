@@ -1,1 +1,1 @@
-{"index": 289240, "D": "to draw back, as in retreat or avoidance", "S": ["declining ", "retiring ", "timid "], "A": ["extroverted "]}
+{"index": 289240, "D": "to draw back, as in retreat or avoidance", "S": ["declining", "retiring", "timid"], "A": ["extroverted"]}

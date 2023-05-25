@@ -1,1 +1,1 @@
-{"index": 20118, "D": "a network of computers, developed by the U.S. Department of Defense in the 1960s, that pioneered data transfer in packets and the Internet Protocol; a precursor to the internet.", "S": ["WWW ", "cyberspace "], "A": []}
+{"index": 20118, "D": "a network of computers, developed by the U.S. Department of Defense in the 1960s, that pioneered data transfer in packets and the Internet Protocol; a precursor to the internet.", "S": ["WWW", "cyberspace"], "A": []}

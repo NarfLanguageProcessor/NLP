@@ -1,1 +1,1 @@
-{"index": 290248, "D": "fodder preserved through fermentation in a silo; ensilage. ", "S": ["barley ", "corn ", "fodder ", "forage ", "grain ", "hay ", "meal "], "A": []}
+{"index": 290248, "D": "fodder preserved through fermentation in a silo; ensilage. ", "S": ["barley", "corn", "fodder", "forage", "grain", "hay", "meal"], "A": []}

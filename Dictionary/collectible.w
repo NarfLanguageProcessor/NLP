@@ -1,1 +1,1 @@
-{"index": 62898, "D": "capable of being collected. ", "S": ["expected ", "outstanding ", "overdue ", "owed ", "payable ", "scheduled "], "A": ["paid ", "settled "]}
+{"index": 62898, "D": "capable of being collected. ", "S": ["expected", "outstanding", "overdue", "owed", "payable", "scheduled"], "A": ["paid", "settled"]}

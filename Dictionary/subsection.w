@@ -1,1 +1,1 @@
-{"index": 309091, "D": "a part or division of a section. ", "S": ["arm ", "bureau ", "chapter ", "division ", "member ", "office ", "section ", "subsidiary ", "wing "], "A": ["whole "]}
+{"index": 309091, "D": "a part or division of a section. ", "S": ["arm", "bureau", "chapter", "division", "member", "office", "section", "subsidiary", "wing"], "A": ["whole"]}

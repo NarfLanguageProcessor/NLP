@@ -1,1 +1,1 @@
-{"index": 260098, "D": "characterized by rain", "S": ["drizzly ", "stormy ", "wet "], "A": ["dry "]}
+{"index": 260098, "D": "characterized by rain", "S": ["drizzly", "stormy", "wet"], "A": ["dry"]}

@@ -1,1 +1,1 @@
-{"index": 362885, "D": "the act or process of washing down, as in cleaning something completely.", "S": ["consume ", "drain ", "gulp ", "guzzle ", "inhale ", "quaff ", "sip ", "slurp ", "suck "], "A": ["abstain "]}
+{"index": 362885, "D": "the act or process of washing down, as in cleaning something completely.", "S": ["consume", "drain", "gulp", "guzzle", "inhale", "quaff", "sip", "slurp", "suck"], "A": ["abstain"]}

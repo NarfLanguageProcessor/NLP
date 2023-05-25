@@ -1,1 +1,1 @@
-{"index": 81210, "D": "having the component parts closely compacted together; crowded or compact", "S": ["dimly ", "lethargically ", "listlessly ", "obtusely ", "slowly ", "sluggishly "], "A": []}
+{"index": 81210, "D": "having the component parts closely compacted together; crowded or compact", "S": ["dimly", "lethargically", "listlessly", "obtusely", "slowly", "sluggishly"], "A": []}

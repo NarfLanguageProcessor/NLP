@@ -1,1 +1,1 @@
-{"index": 356181, "D": "an act or instance of making practical or profitable use of something", "S": ["application ", "discharge ", "employment ", "usage "], "A": ["dissatisfaction ", "failure ", "idleness "]}
+{"index": 356181, "D": "an act or instance of making practical or profitable use of something", "S": ["application", "discharge", "employment", "usage"], "A": ["dissatisfaction", "failure", "idleness"]}

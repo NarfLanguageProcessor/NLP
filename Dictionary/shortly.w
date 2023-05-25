@@ -1,1 +1,1 @@
-{"index": 288943, "D": "in a short time; soon. ", "S": ["quickly ", "soon "], "A": ["later "]}
+{"index": 288943, "D": "in a short time; soon. ", "S": ["quickly", "soon"], "A": ["later"]}

@@ -1,1 +1,1 @@
-{"index": 214399, "D": "the act or process of organizing. ", "S": ["grouping ", "institution ", "management ", "system "], "A": ["disorganization ", "disproportion ", "imbalance "]}
+{"index": 214399, "D": "the act or process of organizing. ", "S": ["grouping", "institution", "management", "system"], "A": ["disorganization", "disproportion", "imbalance"]}

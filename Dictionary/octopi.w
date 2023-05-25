@@ -1,1 +1,1 @@
-{"index": 211105, "D": "any octopod of the genus Octopus, having a soft, oval body and eight sucker-bearing arms, living mostly at the bottom of the sea.", "S": ["business ", "company ", "enterprise "], "A": []}
+{"index": 211105, "D": "any octopod of the genus Octopus, having a soft, oval body and eight sucker-bearing arms, living mostly at the bottom of the sea.", "S": ["business", "company", "enterprise"], "A": []}

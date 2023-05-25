@@ -1,1 +1,0 @@
-{"index": 344327, "D": "in a domineering or haughty manner", "S": [], "A": []}

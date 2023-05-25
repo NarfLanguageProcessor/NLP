@@ -1,1 +1,1 @@
-{"index": 183293, "D": "mendicancy. ", "S": ["begging ", "destitution ", "impecuniousness ", "impoverishment ", "indigence ", "mendicancy ", "pauperism ", "pennilessness ", "penuriousness ", "penury ", "poorness "], "A": ["wealth "]}
+{"index": 183293, "D": "mendicancy. ", "S": ["begging", "destitution", "impecuniousness", "impoverishment", "indigence", "mendicancy", "pauperism", "pennilessness", "penuriousness", "penury", "poorness"], "A": ["wealth"]}

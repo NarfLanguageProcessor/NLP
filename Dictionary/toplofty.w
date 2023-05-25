@@ -1,1 +1,1 @@
-{"index": 325907, "D": "condescending; haughty. ", "S": ["aloof ", "arrogant ", "averse ", "contemptuous ", "derisive ", "haughty ", "unsympathetic "], "A": ["humble ", "meek ", "shy ", "sympathetic "]}
+{"index": 325907, "D": "condescending; haughty. ", "S": ["aloof", "arrogant", "averse", "contemptuous", "derisive", "haughty", "unsympathetic"], "A": ["humble", "meek", "shy", "sympathetic"]}

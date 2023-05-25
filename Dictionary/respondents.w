@@ -1,1 +1,1 @@
-{"index": 269776, "D": "a person who responds  or makes reply.", "S": ["defendant ", "prisoner "], "A": []}
+{"index": 269776, "D": "a person who responds  or makes reply.", "S": ["defendant", "prisoner"], "A": []}

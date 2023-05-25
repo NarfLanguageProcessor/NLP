@@ -1,1 +1,1 @@
-{"index": 65936, "D": "serving to confirm;  corroborative.", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}
+{"index": 65936, "D": "serving to confirm;  corroborative.", "S": ["affirmatory", "approving", "positive", "supporting"], "A": ["dissenting", "negative"]}

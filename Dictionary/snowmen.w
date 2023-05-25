@@ -1,1 +1,0 @@
-{"index": 295841, "D": "a figure of a person made of packed snow. ", "S": [], "A": []}

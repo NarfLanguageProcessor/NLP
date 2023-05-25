@@ -1,1 +1,1 @@
-{"index": 168018, "D": "an artist who paints landscapes. ", "S": ["animator ", "artisan ", "craftsman ", "illustrator "], "A": []}
+{"index": 168018, "D": "an artist who paints landscapes. ", "S": ["animator", "artisan", "craftsman", "illustrator"], "A": []}

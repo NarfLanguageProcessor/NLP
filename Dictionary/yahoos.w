@@ -1,1 +1,1 @@
-{"index": 145537, "D": [], "S": ["barbarian ", "beast ", "boor ", "brute ", "lout ", "roughneck "], "A": []}
+{"index": 145537, "D": [], "S": ["barbarian", "beast", "boor", "brute", "lout", "roughneck"], "A": []}

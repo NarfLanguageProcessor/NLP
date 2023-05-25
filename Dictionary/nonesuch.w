@@ -1,1 +1,1 @@
-{"index": 203648, "D": "a person or thing without equal; paragon", "S": ["ideal ", "model ", "nonpareil ", "paradigm ", "paragon "], "A": []}
+{"index": 203648, "D": "a person or thing without equal; paragon", "S": ["ideal", "model", "nonpareil", "paradigm", "paragon"], "A": []}

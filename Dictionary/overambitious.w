@@ -1,1 +1,1 @@
-{"index": 218192, "D": "the aims were overambitious, therefore few were achieved", "S": ["arty ", "exaggerated ", "grandiose ", "hollow ", "overblown ", "pompous ", "showy ", "stilted ", "turgid "], "A": ["genuine ", "honest ", "moderate ", "modest ", "plain ", "simple "]}
+{"index": 218192, "D": "the aims were overambitious, therefore few were achieved", "S": ["arty", "exaggerated", "grandiose", "hollow", "overblown", "pompous", "showy", "stilted", "turgid"], "A": ["genuine", "honest", "moderate", "modest", "plain", "simple"]}

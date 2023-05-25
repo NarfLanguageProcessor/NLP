@@ -1,1 +1,1 @@
-{"index": 299151, "D": [], "S": ["disbursement ", "expenditure ", "expense ", "investment ", "price tag ", "spending "], "A": ["savings ", "blessing ", "boon "]}
+{"index": 299151, "D": [], "S": ["disbursement", "expenditure", "expense", "investment", "price tag", "spending"], "A": ["savings", "blessing", "boon"]}

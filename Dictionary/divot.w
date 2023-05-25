@@ -1,1 +1,1 @@
-{"index": 90417, "D": "a piece of turf gouged out with a club in making a stroke.", "S": ["cleft ", "concavity ", "dent ", "depression ", "hollow ", "pit "], "A": ["bulge ", "solid "]}
+{"index": 90417, "D": "a piece of turf gouged out with a club in making a stroke.", "S": ["cleft", "concavity", "dent", "depression", "hollow", "pit"], "A": ["bulge", "solid"]}

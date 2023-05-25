@@ -1,1 +1,1 @@
-{"index": 354702, "D": "an incline going up in the direction of movement.", "S": ["enhanced ", "revised "], "A": ["damaged ", "injured ", "worsened "]}
+{"index": 354702, "D": "an incline going up in the direction of movement.", "S": ["enhanced", "revised"], "A": ["damaged", "injured", "worsened"]}

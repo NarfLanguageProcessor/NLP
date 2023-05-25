@@ -1,1 +1,1 @@
-{"index": 240231, "D": "a secret plan or scheme to accomplish some purpose, especially a hostile, unlawful, or evil purpose", "S": ["acute ", "sharp ", "tricky "], "A": ["aboveboard ", "frank ", "honest "]}
+{"index": 240231, "D": "a secret plan or scheme to accomplish some purpose, especially a hostile, unlawful, or evil purpose", "S": ["acute", "sharp", "tricky"], "A": ["aboveboard", "frank", "honest"]}

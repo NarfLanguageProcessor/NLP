@@ -1,1 +1,1 @@
-{"index": 115267, "D": "a passage or duct for smoke in a chimney.", "S": ["chimney ", "duct "], "A": []}
+{"index": 115267, "D": "a passage or duct for smoke in a chimney.", "S": ["chimney", "duct"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 261515, "D": "a person or thing that reacts. ", "S": ["impetus ", "incentive ", "motivation ", "stimulant "], "A": ["block ", "hindrance "]}
+{"index": 261515, "D": "a person or thing that reacts. ", "S": ["impetus", "incentive", "motivation", "stimulant"], "A": ["block", "hindrance"]}

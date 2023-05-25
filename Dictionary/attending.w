@@ -1,1 +1,1 @@
-{"index": 23018, "D": "having primary responsibility for a patient.", "S": ["attendant ", "ministering ", "ministrant "], "A": []}
+{"index": 23018, "D": "having primary responsibility for a patient.", "S": ["attendant", "ministering", "ministrant"], "A": []}

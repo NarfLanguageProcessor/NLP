@@ -1,1 +1,1 @@
-{"index": 177218, "D": "the state of being mad;  insanity.", "S": ["absurdity ", "craziness ", "delusion ", "foolishness ", "hysteria ", "lunacy ", "mania ", "mental illness ", "stupidity "], "A": ["balance ", "saneness ", "sanity ", "sense "]}
+{"index": 177218, "D": "the state of being mad;  insanity.", "S": ["absurdity", "craziness", "delusion", "foolishness", "hysteria", "lunacy", "mania", "mental illness", "stupidity"], "A": ["balance", "saneness", "sanity", "sense"]}

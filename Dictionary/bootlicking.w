@@ -1,1 +1,1 @@
-{"index": 38273, "D": "to seek the favor or goodwill of in a servile, degraded way; toady to.", "S": ["flattering "], "A": ["aloof ", "cool ", "disinterested ", "proud ", "unfriendly "]}
+{"index": 38273, "D": "to seek the favor or goodwill of in a servile, degraded way; toady to.", "S": ["flattering"], "A": ["aloof", "cool", "disinterested", "proud", "unfriendly"]}

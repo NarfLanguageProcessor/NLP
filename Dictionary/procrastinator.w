@@ -1,1 +1,1 @@
-{"index": 251363, "D": "to defer action; delay", "S": ["dawdler ", "dilly-dallier ", "idler ", "lag ", "lagger ", "lingerer ", "loafer ", "loiterer ", "lounger ", "poke ", "slowpoke ", "straggler "], "A": []}
+{"index": 251363, "D": "to defer action; delay", "S": ["dawdler", "dilly-dallier", "idler", "lag", "lagger", "lingerer", "loafer", "loiterer", "lounger", "poke", "slowpoke", "straggler"], "A": []}

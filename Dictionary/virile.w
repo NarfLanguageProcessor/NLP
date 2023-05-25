@@ -1,1 +1,1 @@
-{"index": 360196, "D": "of, pertaining to, characteristic of, or befitting a man; masculine; manly", "S": ["macho ", "manful ", "manly ", "masculine "], "A": ["effeminate ", "impotent ", "unmanly "]}
+{"index": 360196, "D": "of, pertaining to, characteristic of, or befitting a man; masculine; manly", "S": ["macho", "manful", "manly", "masculine"], "A": ["effeminate", "impotent", "unmanly"]}

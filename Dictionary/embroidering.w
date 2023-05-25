@@ -1,1 +1,1 @@
-{"index": 98368, "D": "to decorate with ornamental needlework.", "S": ["adornment ", "coloring ", "embroidery ", "exaggeration ", "ornamentation "], "A": ["plainness "]}
+{"index": 98368, "D": "to decorate with ornamental needlework.", "S": ["adornment", "coloring", "embroidery", "exaggeration", "ornamentation"], "A": ["plainness"]}

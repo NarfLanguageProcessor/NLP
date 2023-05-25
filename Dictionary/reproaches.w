@@ -1,1 +1,1 @@
-{"index": 268589, "D": "to find fault with (a person, group, etc.); blame; censure.", "S": ["disgrace "], "A": ["approval ", "commendation ", "compliment ", "endorsement ", "esteem ", "exoneration ", "flattery ", "honor ", "praise ", "pride ", "regard ", "respect ", "sanction "]}
+{"index": 268589, "D": "to find fault with (a person, group, etc.); blame; censure.", "S": ["disgrace"], "A": ["approval", "commendation", "compliment", "endorsement", "esteem", "exoneration", "flattery", "honor", "praise", "pride", "regard", "respect", "sanction"]}

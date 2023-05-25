@@ -1,1 +1,1 @@
-{"index": 210579, "D": "not quick or alert in perception, feeling, or intellect; not sensitive or observant; dull.", "S": ["dumbly "], "A": []}
+{"index": 210579, "D": "not quick or alert in perception, feeling, or intellect; not sensitive or observant; dull.", "S": ["dumbly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 29134, "D": "a hostile encounter or engagement between opposing military forces", "S": ["argue ", "clamor ", "contend ", "feud ", "strive ", "wrestle "], "A": ["agree "]}
+{"index": 29134, "D": "a hostile encounter or engagement between opposing military forces", "S": ["argue", "clamor", "contend", "feud", "strive", "wrestle"], "A": ["agree"]}

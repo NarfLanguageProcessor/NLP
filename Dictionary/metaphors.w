@@ -1,1 +1,1 @@
-{"index": 184906, "D": "Compare mixed metaphor, simile (def. 1). ", "S": ["analogy ", "image ", "symbol "], "A": []}
+{"index": 184906, "D": "Compare mixed metaphor, simile (def. 1). ", "S": ["analogy", "image", "symbol"], "A": []}

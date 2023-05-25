@@ -1,1 +1,1 @@
-{"index": 146644, "D": "idolatry. ", "S": ["adoration ", "worship "], "A": []}
+{"index": 146644, "D": "idolatry. ", "S": ["adoration", "worship"], "A": []}

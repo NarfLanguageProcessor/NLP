@@ -1,1 +1,1 @@
-{"index": 336317, "D": "oppressively heavy; onerous.", "S": ["flexible ", "soft "], "A": ["rigid ", "stern ", "unyielding "]}
+{"index": 336317, "D": "oppressively heavy; onerous.", "S": ["flexible", "soft"], "A": ["rigid", "stern", "unyielding"]}

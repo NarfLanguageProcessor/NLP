@@ -1,1 +1,1 @@
-{"index": 130952, "D": "to estimate without substantial basis in facts or statistics.", "S": ["apprize ", "assess ", "audit ", "calculate ", "check out ", "evaluate ", "examine ", "gauge ", "inspect ", "peg "], "A": ["ignore ", "neglect "]}
+{"index": 130952, "D": "to estimate without substantial basis in facts or statistics.", "S": ["apprize", "assess", "audit", "calculate", "check out", "evaluate", "examine", "gauge", "inspect", "peg"], "A": ["ignore", "neglect"]}

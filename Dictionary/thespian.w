@@ -1,1 +1,1 @@
-{"index": 321609, "D": "pertaining to tragedy or to the dramatic art in general.", "S": ["artist ", "character ", "entertainer ", "extra ", "ham ", "headliner ", "idol ", "lead ", "performer ", "playactor ", "player ", "star ", "understudy "], "A": []}
+{"index": 321609, "D": "pertaining to tragedy or to the dramatic art in general.", "S": ["artist", "character", "entertainer", "extra", "ham", "headliner", "idol", "lead", "performer", "playactor", "player", "star", "understudy"], "A": []}

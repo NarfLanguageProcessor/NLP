@@ -1,1 +1,0 @@
-{"index": 264845, "D": "to examine  again.", "S": ["alteration ", "amelioration ", "amendment ", "editing ", "emendation ", "improvement ", "indemnification ", "mending ", "modification ", "rectification ", "redress ", "repair ", "reparation ", "revisal "], "A": ["damage ", "harm ", "hurt ", "injury ", "worsening "]}

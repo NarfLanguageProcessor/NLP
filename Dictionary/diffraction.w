@@ -1,1 +1,1 @@
-{"index": 85332, "D": "the phenomenon exhibited by wave fronts that, passing the edge of an opaque body, are modulated, thereby causing a redistribution of energy within the front", "S": ["emission "], "A": ["collection "]}
+{"index": 85332, "D": "the phenomenon exhibited by wave fronts that, passing the edge of an opaque body, are modulated, thereby causing a redistribution of energy within the front", "S": ["emission"], "A": ["collection"]}

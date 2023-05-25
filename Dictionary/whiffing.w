@@ -1,1 +1,1 @@
-{"index": 364756, "D": "a slight gust or puff of wind, air, vapor, smoke, or the like", "S": ["blow ", "breathe ", "chuff ", "gulp ", "heave ", "huff ", "palpitate ", "puff ", "snort ", "throb ", "wheeze ", "whiff ", "wind "], "A": ["hide ", "secret "]}
+{"index": 364756, "D": "a slight gust or puff of wind, air, vapor, smoke, or the like", "S": ["blow", "breathe", "chuff", "gulp", "heave", "huff", "palpitate", "puff", "snort", "throb", "wheeze", "whiff", "wind"], "A": ["hide", "secret"]}

@@ -1,1 +1,1 @@
-{"index": 147377, "D": "narrowminded; bigoted.", "S": ["cannily ", "greedily ", "meanly ", "miserly ", "parsimoniously ", "stingily ", "ungenerously "], "A": []}
+{"index": 147377, "D": "narrowminded; bigoted.", "S": ["cannily", "greedily", "meanly", "miserly", "parsimoniously", "stingily", "ungenerously"], "A": []}

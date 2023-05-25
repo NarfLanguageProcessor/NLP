@@ -1,1 +1,1 @@
-{"index": 358531, "D": "confirmed as to accuracy or truth by acceptable evidence, action, etc.", "S": ["documented ", "verifiable "], "A": []}
+{"index": 358531, "D": "confirmed as to accuracy or truth by acceptable evidence, action, etc.", "S": ["documented", "verifiable"], "A": []}

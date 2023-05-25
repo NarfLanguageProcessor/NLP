@@ -1,1 +1,1 @@
-{"index": 1031, "D": "extremely interesting; deeply engrossing", "S": ["arresting ", "captivating ", "engrossing ", "enthralling ", "fascinating ", "gripping ", "interesting ", "intriguing ", "riveting ", "spellbinding "], "A": ["boring ", "repulsive ", "uninteresting "]}
+{"index": 1031, "D": "extremely interesting; deeply engrossing", "S": ["arresting", "captivating", "engrossing", "enthralling", "fascinating", "gripping", "interesting", "intriguing", "riveting", "spellbinding"], "A": ["boring", "repulsive", "uninteresting"]}

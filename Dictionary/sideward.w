@@ -1,1 +1,1 @@
-{"index": 289864, "D": "directed or moving toward one side. ", "S": ["oblique "], "A": ["centered ", "central "]}
+{"index": 289864, "D": "directed or moving toward one side. ", "S": ["oblique"], "A": ["centered", "central"]}

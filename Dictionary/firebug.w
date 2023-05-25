@@ -1,1 +1,1 @@
-{"index": 113136, "D": "arsonist; incendiary; pyromaniac. ", "S": ["arsonist ", "incendiary ", "pyromaniac "], "A": []}
+{"index": 113136, "D": "arsonist; incendiary; pyromaniac. ", "S": ["arsonist", "incendiary", "pyromaniac"], "A": []}

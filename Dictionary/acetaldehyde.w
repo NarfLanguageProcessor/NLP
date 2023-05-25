@@ -1,0 +1,1 @@
+{"index": 2005, "D": "a volatile, colorless, water-soluble liquid, C2H4O, having a pungent, fruitlike odor", "S": [], "A": []}

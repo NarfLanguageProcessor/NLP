@@ -1,1 +1,1 @@
-{"index": 285968, "D": "an aptitude for making desirable discoveries by accident.", "S": ["fluke ", "happenstance "], "A": ["bad fortune ", "bad luck ", "misfortune "]}
+{"index": 285968, "D": "an aptitude for making desirable discoveries by accident.", "S": ["fluke", "happenstance"], "A": ["bad fortune", "bad luck", "misfortune"]}

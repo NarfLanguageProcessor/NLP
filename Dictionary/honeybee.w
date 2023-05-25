@@ -1,1 +1,1 @@
-{"index": 143328, "D": "any bee  that collects and stores honey,  especially Apis mellifera.", "S": ["bumblebee ", "drone "], "A": []}
+{"index": 143328, "D": "any bee  that collects and stores honey,  especially Apis mellifera.", "S": ["bumblebee", "drone"], "A": []}

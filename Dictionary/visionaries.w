@@ -1,1 +1,1 @@
-{"index": 360405, "D": "given to or characterized by fanciful, not presently workable, or unpractical ideas, views, or schemes", "S": ["dreamer ", "idealist ", "prophet ", "romantic ", "seer ", "theorist ", "zealot "], "A": ["realist "]}
+{"index": 360405, "D": "given to or characterized by fanciful, not presently workable, or unpractical ideas, views, or schemes", "S": ["dreamer", "idealist", "prophet", "romantic", "seer", "theorist", "zealot"], "A": ["realist"]}

@@ -1,1 +1,1 @@
-{"index": 313678, "D": "a person or thing that survives. ", "S": ["balance ", "debris ", "leftovers ", "legacy ", "oddments ", "remainder ", "remnant ", "remnants ", "residue ", "rest ", "scraps ", "surplus ", "trash "], "A": ["base ", "core "]}
+{"index": 313678, "D": "a person or thing that survives. ", "S": ["balance", "debris", "leftovers", "legacy", "oddments", "remainder", "remnant", "remnants", "residue", "rest", "scraps", "surplus", "trash"], "A": ["base", "core"]}

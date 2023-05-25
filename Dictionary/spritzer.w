@@ -1,1 +1,1 @@
-{"index": 301376, "D": "a tall drink made with chilled wine and soda.", "S": ["alcoholic drink ", "cocktail ", "concoction ", "punch "], "A": []}
+{"index": 301376, "D": "a tall drink made with chilled wine and soda.", "S": ["alcoholic drink", "cocktail", "concoction", "punch"], "A": []}

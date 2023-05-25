@@ -1,1 +1,0 @@
-{"index": 255343, "D": "genesis of the psyche.", "S": [], "A": []}

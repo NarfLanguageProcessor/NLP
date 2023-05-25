@@ -1,1 +1,1 @@
-{"index": 95310, "D": "brilliance of success, reputation, etc.", "S": ["brio ", "dash ", "dynamism ", "flair ", "flourish ", "gusto ", "oomph ", "panache ", "pizzazz ", "stylishness ", "verve ", "vigor ", "vitality ", "vivaciousness ", "vivacity ", "zest ", "zing ", "\u00e9lan "], "A": []}
+{"index": 95310, "D": "brilliance of success, reputation, etc.", "S": ["brio", "dash", "dynamism", "flair", "flourish", "gusto", "oomph", "panache", "pizzazz", "stylishness", "verve", "vigor", "vitality", "vivaciousness", "vivacity", "zest", "zing", "\u00e9lan"], "A": []}

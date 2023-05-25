@@ -1,0 +1,1 @@
+{"index": 20044, "D": "American general in the Revolutionary War who became a traitor.", "S": [], "A": []}

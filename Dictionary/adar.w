@@ -1,0 +1,1 @@
+{"index": 3483, "D": "the sixth month of the Jewish calendar.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 130492, "D": "reluctantly or unwillingly; not generously or with a good will", "S": ["carefully ", "cautiously ", "hesitantly ", "perforce ", "unenthusiastically ", "unwillingly ", "warily ", "willy-nilly "], "A": []}
+{"index": 130492, "D": "reluctantly or unwillingly; not generously or with a good will", "S": ["carefully", "cautiously", "hesitantly", "perforce", "unenthusiastically", "unwillingly", "warily", "willy-nilly"], "A": []}

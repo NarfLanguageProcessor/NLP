@@ -1,1 +1,1 @@
-{"index": 216737, "D": "the act or process of going  out", "S": ["amount ", "consumption ", "cost ", "disbursement ", "expense ", "figure ", "investment ", "outlay ", "output ", "price ", "rate ", "spending ", "value "], "A": ["savings "]}
+{"index": 216737, "D": "the act or process of going  out", "S": ["amount", "consumption", "cost", "disbursement", "expense", "figure", "investment", "outlay", "output", "price", "rate", "spending", "value"], "A": ["savings"]}

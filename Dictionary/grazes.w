@@ -1,1 +1,1 @@
-{"index": 129409, "D": "a city in SE Austria.", "S": ["ricochet ", "rub ", "scrape ", "scratch ", "skim ", "skip "], "A": ["manhandle "]}
+{"index": 129409, "D": "a city in SE Austria.", "S": ["ricochet", "rub", "scrape", "scratch", "skim", "skip"], "A": ["manhandle"]}

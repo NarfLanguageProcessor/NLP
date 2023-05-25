@@ -1,1 +1,1 @@
-{"index": 150717, "D": "not justifiable; inexcusable", "S": ["unforgivable ", "unjustifiable ", "untenable "], "A": ["defensible ", "excusable ", "justifiable ", "justified "]}
+{"index": 150717, "D": "not justifiable; inexcusable", "S": ["unforgivable", "unjustifiable", "untenable"], "A": ["defensible", "excusable", "justifiable", "justified"]}

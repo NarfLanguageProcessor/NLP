@@ -1,1 +1,1 @@
-{"index": 317130, "D": "tightly drawn; tense; not slack.", "S": ["tense "], "A": ["droopy ", "flabby ", "loose ", "slack "]}
+{"index": 317130, "D": "tightly drawn; tense; not slack.", "S": ["tense"], "A": ["droopy", "flabby", "loose", "slack"]}

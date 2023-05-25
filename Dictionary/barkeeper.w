@@ -1,0 +1,1 @@
+{"index": 28051, "D": "a person who owns or manages a bar  where alcoholic beverages are sold.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 277983, "D": "a substance or preparation for killing germs, designed for use especially on food-processing equipment.", "S": ["cleaner ", "cleanser ", "refiner "], "A": []}
+{"index": 277983, "D": "a substance or preparation for killing germs, designed for use especially on food-processing equipment.", "S": ["cleaner", "cleanser", "refiner"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 353848, "D": "of, pertaining to, characteristic of, or befitting a man; masculine; manly", "S": [], "A": []}

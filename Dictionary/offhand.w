@@ -1,1 +1,1 @@
-{"index": 211597, "D": "cavalierly, curtly, or brusquely", "S": ["casual ", "curt ", "easygoing ", "folksy ", "glib ", "perfunctory "], "A": ["calculated ", "careful ", "considered ", "deliberate ", "planned ", "practiced "]}
+{"index": 211597, "D": "cavalierly, curtly, or brusquely", "S": ["casual", "curt", "easygoing", "folksy", "glib", "perfunctory"], "A": ["calculated", "careful", "considered", "deliberate", "planned", "practiced"]}

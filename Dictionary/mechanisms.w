@@ -1,1 +1,1 @@
-{"index": 181883, "D": "an assembly of moving parts performing a complete functional motion, often being part of a large machine; linkage.", "S": ["instrument ", "structure ", "system ", "tool "], "A": []}
+{"index": 181883, "D": "an assembly of moving parts performing a complete functional motion, often being part of a large machine; linkage.", "S": ["instrument", "structure", "system", "tool"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 345803, "D": "feeling neglected and unloved", "S": ["despised ", "unappreciated "], "A": ["beloved ", "liked ", "loved "]}
+{"index": 345803, "D": "feeling neglected and unloved", "S": ["despised", "unappreciated"], "A": ["beloved", "liked", "loved"]}

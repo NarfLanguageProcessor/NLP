@@ -1,1 +1,1 @@
-{"index": 78238, "D": "(of a central authority) having much of the decision-making power vested in teams, divisions, or local branches instead of in a single center of power", "S": ["disperse ", "distribute ", "scatter "], "A": ["assemble ", "centralize ", "concentrate ", "consolidate "]}
+{"index": 78238, "D": "(of a central authority) having much of the decision-making power vested in teams, divisions, or local branches instead of in a single center of power", "S": ["disperse", "distribute", "scatter"], "A": ["assemble", "centralize", "concentrate", "consolidate"]}

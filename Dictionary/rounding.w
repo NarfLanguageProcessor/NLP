@@ -1,1 +1,1 @@
-{"index": 274865, "D": "round  or nearly round. ", "S": ["spin "], "A": ["free ", "let go "]}
+{"index": 274865, "D": "round  or nearly round. ", "S": ["spin"], "A": ["free", "let go"]}

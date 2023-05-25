@@ -1,1 +1,1 @@
-{"index": 1169, "D": "improper use of words; unidiomatic or ungrammatical language.", "S": ["corruption ", "exploitation ", "harm ", "maltreatment ", "mistreatment ", "prostitution ", "squandering ", "waste "], "A": ["praise "]}
+{"index": 1169, "D": "improper use of words; unidiomatic or ungrammatical language.", "S": ["corruption", "exploitation", "harm", "maltreatment", "mistreatment", "prostitution", "squandering", "waste"], "A": ["praise"]}

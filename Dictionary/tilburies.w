@@ -1,1 +1,1 @@
-{"index": 323548, "D": "a light two-wheeled carriage without a top.", "S": ["rickshaw ", "truck ", "wagon "], "A": []}
+{"index": 323548, "D": "a light two-wheeled carriage without a top.", "S": ["rickshaw", "truck", "wagon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183421, "D": "a candelabrum having seven branches (as used in the Biblical tabernacle or the Temple in Jerusalem), or any number of branches (as used in modern synagogues).", "S": ["candelabra ", "sconce "], "A": []}
+{"index": 183421, "D": "a candelabrum having seven branches (as used in the Biblical tabernacle or the Temple in Jerusalem), or any number of branches (as used in modern synagogues).", "S": ["candelabra", "sconce"], "A": []}

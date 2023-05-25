@@ -1,1 +1,1 @@
-{"index": 224160, "D": "plural of palpus. ", "S": ["antenna ", "barbel ", "claw ", "finger ", "hand ", "tentacle ", "vibrissa ", "whisker "], "A": []}
+{"index": 224160, "D": "plural of palpus. ", "S": ["antenna", "barbel", "claw", "finger", "hand", "tentacle", "vibrissa", "whisker"], "A": []}

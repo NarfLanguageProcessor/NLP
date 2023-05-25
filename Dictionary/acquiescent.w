@@ -1,1 +1,1 @@
-{"index": 2728, "D": "disposed to acquiesce  or consent tacitly.", "S": ["acquiescing ", "assentive ", "nonresistant ", "resigned ", "submissive ", "unresistant ", "yielding "], "A": []}
+{"index": 2728, "D": "disposed to acquiesce  or consent tacitly.", "S": ["acquiescing", "assentive", "nonresistant", "resigned", "submissive", "unresistant", "yielding"], "A": []}

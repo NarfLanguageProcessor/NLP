@@ -1,1 +1,1 @@
-{"index": 94848, "D": "a series of vibrations induced in the earth's crust by the abrupt rupture and rebound of rocks in which elastic strain has been slowly accumulating.", "S": ["shock ", "temblor ", "upheaval "], "A": ["perfection "]}
+{"index": 94848, "D": "a series of vibrations induced in the earth's crust by the abrupt rupture and rebound of rocks in which elastic strain has been slowly accumulating.", "S": ["shock", "temblor", "upheaval"], "A": ["perfection"]}

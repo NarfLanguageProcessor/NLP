@@ -1,1 +1,1 @@
-{"index": 97836, "D": "the act of eluding;  evasion.", "S": ["evasion ", "prevention ", "restraint "], "A": ["advance ", "arrival ", "coming ", "continuation ", "stay "]}
+{"index": 97836, "D": "the act of eluding;  evasion.", "S": ["evasion", "prevention", "restraint"], "A": ["advance", "arrival", "coming", "continuation", "stay"]}

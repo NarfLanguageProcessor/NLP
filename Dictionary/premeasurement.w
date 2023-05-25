@@ -1,1 +1,0 @@
-{"index": 248327, "D": "the act of measuring. ", "S": [], "A": []}

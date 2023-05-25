@@ -1,1 +1,1 @@
-{"index": 304878, "D": "a portico, usually a detached portico of considerable length, that is used as a promenade or meeting place.", "S": ["gallery ", "mall ", "walkway "], "A": []}
+{"index": 304878, "D": "a portico, usually a detached portico of considerable length, that is used as a promenade or meeting place.", "S": ["gallery", "mall", "walkway"], "A": []}

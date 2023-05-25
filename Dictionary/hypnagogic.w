@@ -1,1 +1,1 @@
-{"index": 140689, "D": "of or relating to drowsiness.", "S": ["surreal "], "A": ["real "]}
+{"index": 140689, "D": "of or relating to drowsiness.", "S": ["surreal"], "A": ["real"]}

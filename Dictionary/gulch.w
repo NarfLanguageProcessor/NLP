@@ -1,1 +1,1 @@
-{"index": 131168, "D": "a deep, narrow ravine, especially one marking the course of a stream or torrent.", "S": ["arroyo ", "channel ", "cut ", "ditch ", "gap ", "gorge ", "trench ", "valley "], "A": []}
+{"index": 131168, "D": "a deep, narrow ravine, especially one marking the course of a stream or torrent.", "S": ["arroyo", "channel", "cut", "ditch", "gap", "gorge", "trench", "valley"], "A": []}

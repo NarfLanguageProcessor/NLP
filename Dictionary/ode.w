@@ -1,1 +1,1 @@
-{"index": 211217, "D": "a lyric poem typically of elaborate or irregular metrical form and expressive of exalted or enthusiastic emotion.", "S": ["ballad ", "composition ", "limerick ", "lyric ", "poesy ", "rhyme ", "song ", "sonnet ", "verse "], "A": []}
+{"index": 211217, "D": "a lyric poem typically of elaborate or irregular metrical form and expressive of exalted or enthusiastic emotion.", "S": ["ballad", "composition", "limerick", "lyric", "poesy", "rhyme", "song", "sonnet", "verse"], "A": []}

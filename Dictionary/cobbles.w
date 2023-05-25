@@ -1,1 +1,1 @@
-{"index": 61208, "D": "coal in small rounded lumps", "S": ["assemble ", "complete ", "construct ", "create ", "fabricate ", "mass-produce ", "synthesize "], "A": ["break ", "demolish ", "destroy ", "divide ", "ruin ", "separate ", "abandon ", "fail ", "forget ", "neglect ", "raze "]}
+{"index": 61208, "D": "coal in small rounded lumps", "S": ["assemble", "complete", "construct", "create", "fabricate", "mass-produce", "synthesize"], "A": ["break", "demolish", "destroy", "divide", "ruin", "separate", "abandon", "fail", "forget", "neglect", "raze"]}

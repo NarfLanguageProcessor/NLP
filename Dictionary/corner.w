@@ -1,1 +1,1 @@
-{"index": 69265, "D": "the place at which two converging lines or surfaces meet.", "S": ["edge ", "intersection ", "rim "], "A": ["center ", "middle "]}
+{"index": 69265, "D": "the place at which two converging lines or surfaces meet.", "S": ["edge", "intersection", "rim"], "A": ["center", "middle"]}

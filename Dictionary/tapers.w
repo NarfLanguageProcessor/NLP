@@ -1,1 +1,0 @@
-{"index": 316335, "D": "to become smaller or thinner toward one end.", "S": ["abate ", "bate ", "close ", "come to a point ", "die away ", "die out ", "diminish ", "drain ", "dwindle ", "fade ", "lessen ", "narrow ", "recede ", "reduce ", "rescind ", "subside ", "thin ", "thin out ", "wane ", "weaken ", "wind down "], "A": ["go up ", "increase ", "rise "]}

@@ -1,1 +1,1 @@
-{"index": 271229, "D": "feeling, exhibiting, or characterized by reverence;  deeply respectful", "S": ["appreciative ", "deferential ", "gracious ", "polite ", "reverential ", "solemn "], "A": ["impolite ", "rude "]}
+{"index": 271229, "D": "feeling, exhibiting, or characterized by reverence;  deeply respectful", "S": ["appreciative", "deferential", "gracious", "polite", "reverential", "solemn"], "A": ["impolite", "rude"]}

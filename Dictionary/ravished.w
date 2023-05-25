@@ -1,1 +1,1 @@
-{"index": 261302, "D": "to fill with strong emotion, especially joy.", "S": ["besmirched ", "cooked ", "desecrated ", "dirty ", "dishonored ", "exposed ", "polluted ", "profaned ", "spoilt ", "tainted ", "trashed ", "vitiated "], "A": ["clean ", "pure "]}
+{"index": 261302, "D": "to fill with strong emotion, especially joy.", "S": ["besmirched", "cooked", "desecrated", "dirty", "dishonored", "exposed", "polluted", "profaned", "spoilt", "tainted", "trashed", "vitiated"], "A": ["clean", "pure"]}

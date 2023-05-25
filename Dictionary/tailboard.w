@@ -1,1 +1,0 @@
-{"index": 315338, "D": "the tailgate, especially of a wagon or truck.", "S": [], "A": []}

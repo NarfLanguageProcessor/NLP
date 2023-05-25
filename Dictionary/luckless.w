@@ -1,1 +1,1 @@
-{"index": 175850, "D": "having no luck;  unfortunate; hapless; ill-fated; turning out or ending disastrously", "S": ["unlucky "], "A": ["fortunate ", "lucky "]}
+{"index": 175850, "D": "having no luck;  unfortunate; hapless; ill-fated; turning out or ending disastrously", "S": ["unlucky"], "A": ["fortunate", "lucky"]}

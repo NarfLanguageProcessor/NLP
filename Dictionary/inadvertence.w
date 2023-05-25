@@ -1,1 +1,1 @@
-{"index": 149391, "D": "the quality or condition of being inadvertent;  heedlessness.", "S": ["indifference ", "omission ", "oversight "], "A": ["remembrance "]}
+{"index": 149391, "D": "the quality or condition of being inadvertent;  heedlessness.", "S": ["indifference", "omission", "oversight"], "A": ["remembrance"]}

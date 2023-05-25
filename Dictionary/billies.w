@@ -1,0 +1,1 @@
+{"index": 34020, "D": "a male given name, form of William. ", "S": ["cudgel", "mace", "nightstick", "rod", "truncheon", "wand"], "A": []}

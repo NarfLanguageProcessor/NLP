@@ -1,1 +1,1 @@
-{"index": 1830, "D": "a person or thing that accumulates. ", "S": ["connoisseur ", "hobbyist "], "A": []}
+{"index": 1830, "D": "a person or thing that accumulates. ", "S": ["connoisseur", "hobbyist"], "A": []}

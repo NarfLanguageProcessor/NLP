@@ -1,1 +1,1 @@
-{"index": 28923, "D": "displaying or characterized by bathos", "S": ["drippy ", "gushy ", "maudlin ", "mawkish ", "schmaltzy ", "slushy ", "sobby ", "soft ", "soppy "], "A": []}
+{"index": 28923, "D": "displaying or characterized by bathos", "S": ["drippy", "gushy", "maudlin", "mawkish", "schmaltzy", "slushy", "sobby", "soft", "soppy"], "A": []}

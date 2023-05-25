@@ -1,1 +1,1 @@
-{"index": 285433, "D": "a part of the brain or the brain itself regarded as the seat of sensation.", "S": ["nerve system ", "nerves ", "neurology ", "peripheral nervous system ", "sense organs ", "sensory apparatus "], "A": []}
+{"index": 285433, "D": "a part of the brain or the brain itself regarded as the seat of sensation.", "S": ["nerve system", "nerves", "neurology", "peripheral nervous system", "sense organs", "sensory apparatus"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 249130, "D": "required beforehand", "S": ["essential ", "expedient ", "imperative ", "mandatory ", "requisite "], "A": ["inessential ", "optional ", "secondary ", "unnecessary ", "voluntary "]}
+{"index": 249130, "D": "required beforehand", "S": ["essential", "expedient", "imperative", "mandatory", "requisite"], "A": ["inessential", "optional", "secondary", "unnecessary", "voluntary"]}

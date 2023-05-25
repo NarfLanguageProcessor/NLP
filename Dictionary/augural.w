@@ -1,1 +1,1 @@
-{"index": 23391, "D": "the art or practice of an augur;  divination.", "S": ["divinatory ", "fatidic ", "fatidical ", "foreshadowing ", "mantic ", "ominous ", "oracular ", "predictive ", "presaging ", "prophetical ", "sibylline ", "telling ", "vatic ", "vatical ", "visionary "], "A": []}
+{"index": 23391, "D": "the art or practice of an augur;  divination.", "S": ["divinatory", "fatidic", "fatidical", "foreshadowing", "mantic", "ominous", "oracular", "predictive", "presaging", "prophetical", "sibylline", "telling", "vatic", "vatical", "visionary"], "A": []}

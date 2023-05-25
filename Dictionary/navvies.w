@@ -1,1 +1,1 @@
-{"index": 197535, "D": "an unskilled manual laborer.", "S": ["common laborer ", "laborer ", "roustabout ", "unskilled laborer "], "A": []}
+{"index": 197535, "D": "an unskilled manual laborer.", "S": ["common laborer", "laborer", "roustabout", "unskilled laborer"], "A": []}

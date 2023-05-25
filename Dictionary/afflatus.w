@@ -1,1 +1,1 @@
-{"index": 5426, "D": "inspiration; an impelling mental force acting from within.", "S": ["encouragement ", "enthusiasm ", "genius ", "incentive ", "influence ", "insight ", "motivation ", "revelation ", "vision "], "A": ["discouragement ", "depression ", "hindrance ", "reality ", "truth "]}
+{"index": 5426, "D": "inspiration; an impelling mental force acting from within.", "S": ["encouragement", "enthusiasm", "genius", "incentive", "influence", "insight", "motivation", "revelation", "vision"], "A": ["discouragement", "depression", "hindrance", "reality", "truth"]}

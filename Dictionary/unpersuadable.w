@@ -1,1 +1,1 @@
-{"index": 347795, "D": "to prevail on (a person) to do something, as by advising or urging", "S": ["blind ", "closed-minded ", "deaf ", "intolerant ", "narrow-minded ", "obstinate ", "pigheaded ", "resistant ", "rigid ", "shortsighted ", "stubborn "], "A": ["open-minded "]}
+{"index": 347795, "D": "to prevail on (a person) to do something, as by advising or urging", "S": ["blind", "closed-minded", "deaf", "intolerant", "narrow-minded", "obstinate", "pigheaded", "resistant", "rigid", "shortsighted", "stubborn"], "A": ["open-minded"]}

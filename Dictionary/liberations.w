@@ -1,1 +1,1 @@
-{"index": 171503, "D": "the act of liberating  or the state of being liberated. ", "S": ["abolition ", "deliverance ", "democracy ", "emancipation ", "salvation ", "sovereignty "], "A": []}
+{"index": 171503, "D": "the act of liberating  or the state of being liberated. ", "S": ["abolition", "deliverance", "democracy", "emancipation", "salvation", "sovereignty"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 141607, "D": "a person who works only for pay, especially in a menial or boring job, with little or no concern for the value of the work.", "S": ["aide ", "employee ", "laborer ", "worker "], "A": []}
+{"index": 141607, "D": "a person who works only for pay, especially in a menial or boring job, with little or no concern for the value of the work.", "S": ["aide", "employee", "laborer", "worker"], "A": []}

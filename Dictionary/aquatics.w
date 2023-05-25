@@ -1,1 +1,1 @@
-{"index": 18223, "D": "sports or pastimes performed in or on the water", "S": ["floating ", "natation "], "A": []}
+{"index": 18223, "D": "sports or pastimes performed in or on the water", "S": ["floating", "natation"], "A": []}

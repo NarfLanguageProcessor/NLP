@@ -1,1 +1,1 @@
-{"index": 124794, "D": "Compare hypertrophy (def. 1). ", "S": ["bigness ", "enormity ", "vastness "], "A": ["insignificance ", "smallness ", "tininess ", "unimportance "]}
+{"index": 124794, "D": "Compare hypertrophy (def. 1). ", "S": ["bigness", "enormity", "vastness"], "A": ["insignificance", "smallness", "tininess", "unimportance"]}

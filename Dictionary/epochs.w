@@ -1,1 +1,1 @@
-{"index": 103076, "D": "a particular period of time marked by distinctive features, events, etc.", "S": ["age ", "date ", "era ", "span ", "time "], "A": []}
+{"index": 103076, "D": "a particular period of time marked by distinctive features, events, etc.", "S": ["age", "date", "era", "span", "time"], "A": []}

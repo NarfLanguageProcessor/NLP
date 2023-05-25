@@ -1,1 +1,1 @@
-{"index": 31010, "D": "an old woman, especially an ugly one; hag. ", "S": ["fishwife ", "harpy ", "scold ", "scold ", "termagant ", "vixen "], "A": []}
+{"index": 31010, "D": "an old woman, especially an ugly one; hag. ", "S": ["fishwife", "harpy", "scold", "scold", "termagant", "vixen"], "A": []}

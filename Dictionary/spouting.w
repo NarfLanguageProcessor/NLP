@@ -1,1 +1,1 @@
-{"index": 301138, "D": "guttering (defs. 1-3). ", "S": ["falling ", "rolling ", "running ", "sinuous ", "streaming ", "tidal "], "A": ["empty ", "needy ", "solid "]}
+{"index": 301138, "D": "guttering (defs. 1-3). ", "S": ["falling", "rolling", "running", "sinuous", "streaming", "tidal"], "A": ["empty", "needy", "solid"]}

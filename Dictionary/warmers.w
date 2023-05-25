@@ -1,1 +1,1 @@
-{"index": 362684, "D": "having or giving out a moderate degree of heat, as perceived by the senses", "S": ["boiler ", "cooker ", "heater ", "kiln ", "microwave ", "oven "], "A": []}
+{"index": 362684, "D": "having or giving out a moderate degree of heat, as perceived by the senses", "S": ["boiler", "cooker", "heater", "kiln", "microwave", "oven"], "A": []}

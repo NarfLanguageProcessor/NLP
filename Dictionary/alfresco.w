@@ -1,0 +1,1 @@
+{"index": 8016, "D": "outdoors;  in the open air", "S": ["farther", "foreign", "out"], "A": ["central", "interior", "middle"]}

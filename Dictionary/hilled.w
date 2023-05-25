@@ -1,1 +1,1 @@
-{"index": 139451, "D": "a natural elevation of the earth's surface, smaller than a mountain.", "S": ["accumulate ", "assemble ", "collect ", "fill ", "heap ", "load ", "stack "], "A": ["disperse ", "divide ", "scatter ", "spend ", "disburse ", "separate ", "spread ", "squander ", "waste "]}
+{"index": 139451, "D": "a natural elevation of the earth's surface, smaller than a mountain.", "S": ["accumulate", "assemble", "collect", "fill", "heap", "load", "stack"], "A": ["disperse", "divide", "scatter", "spend", "disburse", "separate", "spread", "squander", "waste"]}

@@ -1,1 +1,1 @@
-{"index": 272012, "D": "U.S. psychologist", "S": ["Gewurztraminer ", "Liebfraumilch ", "Moselle ", "Orvieto ", "Riesling ", "asti spumante ", "chablis ", "chardonnay ", "chenin blanc ", "osso buco "], "A": []}
+{"index": 272012, "D": "U.S. psychologist", "S": ["Gewurztraminer", "Liebfraumilch", "Moselle", "Orvieto", "Riesling", "asti spumante", "chablis", "chardonnay", "chenin blanc", "osso buco"], "A": []}

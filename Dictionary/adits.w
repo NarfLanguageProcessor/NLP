@@ -1,1 +1,1 @@
-{"index": 3982, "D": "an entrance or a passage.", "S": ["admission ", "approach ", "channel ", "entrance ", "entry ", "opening ", "passageway ", "tunnel "], "A": ["conclusion ", "departure ", "exit ", "refusal "]}
+{"index": 3982, "D": "an entrance or a passage.", "S": ["admission", "approach", "channel", "entrance", "entry", "opening", "passageway", "tunnel"], "A": ["conclusion", "departure", "exit", "refusal"]}

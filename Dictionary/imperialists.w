@@ -1,1 +1,1 @@
-{"index": 148538, "D": "the policy of extending the rule or authority of an empire  or nation over foreign countries, or of acquiring and holding colonies and dependencies.", "S": ["absolutist ", "colonial "], "A": []}
+{"index": 148538, "D": "the policy of extending the rule or authority of an empire  or nation over foreign countries, or of acquiring and holding colonies and dependencies.", "S": ["absolutist", "colonial"], "A": []}

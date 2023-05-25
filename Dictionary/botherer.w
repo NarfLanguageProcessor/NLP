@@ -1,1 +1,1 @@
-{"index": 38719, "D": [], "S": ["cheap seats ", "hecklers ", "interrupters ", "paradise ", "second balcony ", "the gods ", "upper balcony "], "A": []}
+{"index": 38719, "D": [], "S": ["cheap seats", "hecklers", "interrupters", "paradise", "second balcony", "the gods", "upper balcony"], "A": []}

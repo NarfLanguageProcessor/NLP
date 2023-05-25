@@ -1,1 +1,1 @@
-{"index": 64240, "D": "a person who partakes or is entitled to partake of the Eucharist; a member of a church.", "S": ["adorer ", "churchgoer ", "congregant ", "devotee ", "devout person ", "pious person ", "supplicant ", "votary "], "A": ["agnostic ", "atheist ", "skeptic "]}
+{"index": 64240, "D": "a person who partakes or is entitled to partake of the Eucharist; a member of a church.", "S": ["adorer", "churchgoer", "congregant", "devotee", "devout person", "pious person", "supplicant", "votary"], "A": ["agnostic", "atheist", "skeptic"]}

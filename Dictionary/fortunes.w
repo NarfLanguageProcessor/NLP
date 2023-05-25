@@ -1,1 +1,1 @@
-{"index": 117729, "D": "position in life as determined by wealth", "S": ["affluence ", "capital ", "estate ", "inheritance ", "opulence ", "portion ", "property ", "prosperity ", "resources ", "riches ", "substance ", "treasure ", "worth "], "A": ["debt ", "poverty "]}
+{"index": 117729, "D": "position in life as determined by wealth", "S": ["affluence", "capital", "estate", "inheritance", "opulence", "portion", "property", "prosperity", "resources", "riches", "substance", "treasure", "worth"], "A": ["debt", "poverty"]}

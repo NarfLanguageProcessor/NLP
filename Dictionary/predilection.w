@@ -1,1 +1,1 @@
-{"index": 246961, "D": "a tendency to think favorably of something in particular; partiality; preference", "S": ["fondness ", "leaning ", "penchant ", "predisposition ", "proclivity ", "propensity "], "A": ["disinclination ", "dislike ", "hate ", "hatred ", "fairness ", "impartiality "]}
+{"index": 246961, "D": "a tendency to think favorably of something in particular; partiality; preference", "S": ["fondness", "leaning", "penchant", "predisposition", "proclivity", "propensity"], "A": ["disinclination", "dislike", "hate", "hatred", "fairness", "impartiality"]}

@@ -1,1 +1,1 @@
-{"index": 265374, "D": "a person or thing that refreshes. ", "S": ["pick-me-up ", "restorative "], "A": []}
+{"index": 265374, "D": "a person or thing that refreshes. ", "S": ["pick-me-up", "restorative"], "A": []}
