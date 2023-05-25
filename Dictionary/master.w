@@ -1,0 +1,1 @@
+{"index": 180840, "D": "a person with the ability or power to use, control, or dispose of something", "S": ["adept", "experienced", "skilled", "skillful"], "A": ["green", "ignorant", "inexperienced", "unskilled"]}

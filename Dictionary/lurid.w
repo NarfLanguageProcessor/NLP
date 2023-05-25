@@ -1,0 +1,1 @@
+{"index": 176349, "D": "gruesome; horrible; revolting", "S": ["exaggerated", "ghastly", "gory", "grim", "grisly", "horrifying", "macabre", "obscene", "racy", "revolting", "sensational", "startling", "violent", "vivid"], "A": ["clean", "delightful", "dull", "mild", "moral", "nice", "pleasant", "pleasing", "upright"]}

@@ -1,0 +1,1 @@
+{"index": 306325, "D": "(of a musical direction) progressively quickening in tempo.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208831, "D": "to certify (a document, contract, etc.) or cause to become certified through a notary public. ", "S": ["booking", "certification", "enrollment", "filing", "listing"], "A": []}

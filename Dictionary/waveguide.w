@@ -1,0 +1,1 @@
+{"index": 363340, "D": "a conduit, as a metal tube, coaxial cable, or strand of glass fibers, used as a conductor or directional transmitter for various kinds of electromagnetic waves. ", "S": [], "A": []}

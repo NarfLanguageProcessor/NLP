@@ -1,0 +1,1 @@
+{"index": 365349, "D": "something uncommonly large of its kind.", "S": ["untruth"], "A": ["truth"]}

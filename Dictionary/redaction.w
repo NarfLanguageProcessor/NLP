@@ -1,0 +1,1 @@
+{"index": 263846, "D": "the editing of text so as to hide or remove confidential or sensitive information", "S": ["alteration", "amendment", "improvement", "modification", "reconsideration", "reexamination", "review"], "A": ["worsening"]}

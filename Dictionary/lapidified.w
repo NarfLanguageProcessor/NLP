@@ -1,0 +1,1 @@
+{"index": 168341, "D": "to turn into stone.", "S": ["calcify", "clarify", "fossilize", "harden", "mineralize", "set", "solidify"], "A": ["liquefy", "soften"]}

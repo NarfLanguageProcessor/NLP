@@ -1,0 +1,1 @@
+{"index": 347847, "D": "to convert into stone or a stony substance.", "S": [], "A": []}

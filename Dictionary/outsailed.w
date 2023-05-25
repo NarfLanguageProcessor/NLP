@@ -1,0 +1,1 @@
+{"index": 217342, "D": "to outdo in sailing; sail  farther, more skillfully, or faster than.", "S": [], "A": []}

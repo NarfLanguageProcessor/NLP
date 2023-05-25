@@ -1,0 +1,1 @@
+{"index": 214843, "D": "an aneroid barometer with a scale giving elevations above sea level, used to determine land-surface altitudes.", "S": [], "A": []}

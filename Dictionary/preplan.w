@@ -1,0 +1,1 @@
+{"index": 248830, "D": "a scheme or method of acting, doing, proceeding, making, etc., developed in advance", "S": ["set up"], "A": ["ignore", "neglect"]}

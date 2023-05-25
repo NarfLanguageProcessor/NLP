@@ -1,0 +1,1 @@
+{"index": 316325, "D": "becoming gradually thinner, narrower, or smaller toward one end", "S": ["cone-shaped"], "A": []}

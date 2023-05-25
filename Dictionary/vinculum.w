@@ -1,0 +1,1 @@
+{"index": 359834, "D": "a bond signifying union or unity; tie.", "S": ["band", "binding", "chain", "connection", "cord", "fastening", "fetter", "gunk", "handcuff", "hookup", "irons", "knot", "ligament", "ligature", "link", "linkage", "manacle", "network", "nexus", "rope", "shackle", "stickum", "tie", "tie-in", "wire", "yoke"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351847, "D": "having or protected by a sprinkler system. ", "S": [], "A": []}

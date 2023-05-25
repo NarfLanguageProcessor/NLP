@@ -1,0 +1,1 @@
+{"index": 321843, "D": "a colorless, crystalline, slightly water-soluble solid, C10H14O, having a pungent, aromatic taste and odor, obtained from the oil distilled from thyme  or prepared synthetically", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200849, "D": "the governor of a nome or a nomarchy.", "S": [], "A": []}

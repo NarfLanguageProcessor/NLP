@@ -1,0 +1,1 @@
+{"index": 282848, "D": [], "S": ["adherent", "apostle", "cohort", "devotee", "enthusiast", "fanatic", "learner", "pupil", "zealot"], "A": ["detractor", "enemy", "guru", "leader", "opponent"]}

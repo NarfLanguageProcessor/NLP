@@ -1,0 +1,1 @@
+{"index": 344340, "D": "to beg urgently or piteously, as for aid or mercy; beseech; entreat", "S": [], "A": []}

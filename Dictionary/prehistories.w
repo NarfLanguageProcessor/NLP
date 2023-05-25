@@ -1,0 +1,1 @@
+{"index": 247831, "D": "human history  in the period before recorded events, known mainly through archaeological discoveries, study, research, etc.; history  of prehistoric  humans.", "S": ["antiquity", "bygone days", "distance of time", "distant past", "early history", "protohistory", "remote past", "the past", "time immemorial", "way back when"], "A": []}

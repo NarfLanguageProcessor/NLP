@@ -1,0 +1,1 @@
+{"index": 198335, "D": "a rare-earth, metallic, trivalent element occurring with cerium and other rare-earth metals, and having rose-colored to violet-colored salts. Symbol", "S": [], "A": []}

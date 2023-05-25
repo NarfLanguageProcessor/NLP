@@ -1,0 +1,1 @@
+{"index": 163327, "D": "Compare anabatic (def. 1). ", "S": [], "A": []}

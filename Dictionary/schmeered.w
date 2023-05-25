@@ -1,0 +1,1 @@
+{"index": 280330, "D": "a dab, as of cream cheese, spread on a roll, bagel, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229343, "D": "any of various urticaceous plants of the S and W European genus Parietaria, esp P. diffusa (pellitory-of-the-wall or wall pellitory), that grow in crevices and have long narrow leaves and small pink flowers", "S": [], "A": []}

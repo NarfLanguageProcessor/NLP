@@ -1,0 +1,1 @@
+{"index": 263828, "D": "to reject or challenge (a judge, juror, or attorney) as disqualified to act in a particular case, especially because of potential conflict of interest or bias.", "S": [], "A": []}

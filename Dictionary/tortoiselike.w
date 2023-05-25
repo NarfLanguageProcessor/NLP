@@ -1,0 +1,1 @@
+{"index": 326331, "D": [], "S": ["easy", "gradual", "heavy", "lackadaisical", "leisurely", "lethargic", "moderate", "passive", "quiet", "reluctant", "sluggish", "stagnant"], "A": ["active", "complex", "complicated", "energetic", "enthusiastic", "intricate", "lively", "moving"]}

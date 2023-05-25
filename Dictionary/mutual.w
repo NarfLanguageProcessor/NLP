@@ -1,0 +1,1 @@
+{"index": 196333, "D": "possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal", "S": ["bilateral", "collective", "reciprocal"], "A": ["detached", "distinct", "separate", "unshared"]}

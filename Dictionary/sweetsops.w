@@ -1,0 +1,1 @@
+{"index": 314328, "D": "a sweet,  pulpy fruit having a thin, tuberculate rind, borne by a tropical American tree or shrub, Annona squamosa, of the annona family.", "S": [], "A": []}

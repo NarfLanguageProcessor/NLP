@@ -1,0 +1,1 @@
+{"index": 340825, "D": "to fear greatly; be in extreme apprehension of", "S": [], "A": []}

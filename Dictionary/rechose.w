@@ -1,0 +1,1 @@
+{"index": 262830, "D": "to select from a number of possibilities; pick by preference", "S": [], "A": []}

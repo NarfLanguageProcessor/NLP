@@ -1,0 +1,1 @@
+{"index": 191334, "D": "the religious and ethical teaching of Mo-Zi and his followers, emphasizing universal love, ascetic self-discipline, and obedience to the will of Heaven", "S": [], "A": []}

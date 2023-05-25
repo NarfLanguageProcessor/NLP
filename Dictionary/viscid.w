@@ -1,0 +1,1 @@
+{"index": 360333, "D": "having a glutinous consistency; sticky; adhesive; viscous.", "S": ["adhesive", "clammy", "gelatinous", "gluey", "glutinous", "gooey", "mucilaginous", "ropy", "slimy", "stiff", "syrupy", "tenacious", "thick", "tough", "viscose"], "A": []}

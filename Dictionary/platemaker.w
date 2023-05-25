@@ -1,0 +1,1 @@
+{"index": 239329, "D": "a machine that makes plates  used for reproducing illustrations or printed matter, especially halftone or etched illustrations.", "S": [], "A": []}

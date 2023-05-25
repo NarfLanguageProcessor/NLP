@@ -1,0 +1,1 @@
+{"index": 305336, "D": "something that fills the place of something else that is lacking; temporary substitute; makeshift", "S": ["emergency", "expedient", "impromptu", "makeshift", "rough-and-tumble", "substitute", "temp", "temporary", "throwaway"], "A": ["completed", "finished", "permanent", "solved"]}

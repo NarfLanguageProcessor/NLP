@@ -1,0 +1,1 @@
+{"index": 197339, "D": "imitating nature  or the usual natural  surroundings.", "S": ["down-to-earth", "hard-boiled", "lifelike", "sober", "unsentimental"], "A": ["excited"]}

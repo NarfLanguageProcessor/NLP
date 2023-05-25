@@ -1,0 +1,1 @@
+{"index": 281849, "D": "to avoid one's obligations or share of work, especially in the military; shirk", "S": [], "A": []}

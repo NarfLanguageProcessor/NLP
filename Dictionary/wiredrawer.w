@@ -1,0 +1,1 @@
+{"index": 366336, "D": "to draw (metal) out into wire, especially by pulling forcibly through a series of holes of gradually decreasing diameter in a succession of dies.", "S": [], "A": []}

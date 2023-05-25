@@ -1,0 +1,1 @@
+{"index": 320335, "D": "of or relating to the ancient Teutons. ", "S": [], "A": []}

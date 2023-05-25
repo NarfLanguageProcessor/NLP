@@ -1,0 +1,1 @@
+{"index": 263842, "D": "to put into suitable literary form; revise; edit. ", "S": ["edit", "expurgate"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234827, "D": "a high-energy phosphoric ester that serves as a reservoir of phosphate-bond energy, as phosphocreatine in vertebrates and phosphoarginine in invertebrates.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239336, "D": "a person or thing that plates. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257333, "D": "to strike (a gollf ball) gently so as to make it roll along the green into the hole.", "S": ["buskins", "chaps", "puttees", "stockings"], "A": []}

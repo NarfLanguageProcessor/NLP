@@ -1,0 +1,1 @@
+{"index": 200838, "D": "to live in the manner of a nomad. ", "S": [], "A": []}

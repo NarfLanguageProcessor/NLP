@@ -1,0 +1,1 @@
+{"index": 241828, "D": "the condition of having more than the normal number of teeth.", "S": [], "A": []}

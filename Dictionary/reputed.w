@@ -1,0 +1,1 @@
+{"index": 268837, "D": "reported or supposed to be such", "S": ["alleged", "assumed", "putative", "regarded", "rumored", "supposed"], "A": ["real"]}

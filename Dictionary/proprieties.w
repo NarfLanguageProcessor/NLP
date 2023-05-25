@@ -1,0 +1,1 @@
+{"index": 252843, "D": "conformity to established standards of good or proper behavior or manners.", "S": ["characteristic", "habit", "practice", "procedure", "rule"], "A": ["departure", "deviation", "difference", "divergence", "irregularity"]}

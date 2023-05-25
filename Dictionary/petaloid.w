@@ -1,0 +1,1 @@
+{"index": 232338, "D": "having the form or appearance of a petal. ", "S": [], "A": []}

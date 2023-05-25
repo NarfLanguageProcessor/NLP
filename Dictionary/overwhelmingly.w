@@ -1,0 +1,1 @@
+{"index": 221837, "D": "that overwhelms;  overpowering", "S": ["fiercely", "forcefully", "forcibly", "intensely", "powerfully", "strongly", "vigorously"], "A": ["weakly"]}

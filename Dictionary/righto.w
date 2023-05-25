@@ -1,0 +1,1 @@
+{"index": 272838, "D": "(used to express understanding or assent).", "S": [], "A": []}

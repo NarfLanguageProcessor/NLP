@@ -1,0 +1,1 @@
+{"index": 344335, "D": "shown to be also involved, especially in an incriminating manner", "S": ["independent", "neutral", "nonaligned", "unbiased", "uninvolved"], "A": ["biased", "prejudiced", "partial", "unfair"]}

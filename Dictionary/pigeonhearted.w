@@ -1,0 +1,1 @@
+{"index": 236342, "D": "timid; meek.", "S": ["dastardly"], "A": ["bold", "brave", "courageous", "daring", "dauntless", "unafraid", "undaunted", "unfearful"]}

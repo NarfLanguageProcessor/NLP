@@ -1,0 +1,1 @@
+{"index": 293346, "D": "to go rapidly; fly; scurry.", "S": ["descend", "drift", "flit", "float", "fly", "sail", "skate", "skim", "skip", "slide", "slip", "slither", "soar", "spiral", "waft"], "A": ["face", "land", "walk"]}

@@ -1,0 +1,1 @@
+{"index": 181333, "D": "an instrument for loosening the soil in digging, shaped like a pickax, but having one end broad instead of pointed.", "S": [], "A": []}

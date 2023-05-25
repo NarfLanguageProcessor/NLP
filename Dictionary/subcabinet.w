@@ -1,0 +1,1 @@
+{"index": 307334, "D": "a group of advisers ranking below the cabinet  level, chosen by a chief executive usually from members of the various executive departments.", "S": [], "A": []}

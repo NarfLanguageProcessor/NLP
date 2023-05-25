@@ -1,0 +1,1 @@
+{"index": 259332, "D": "(of a compound) the state of being optically inactive and separable into two other substances of the same chemical composition as the original substance, one of which is dextrorotatory and the other levorotatory, as racemic acid.", "S": [], "A": []}

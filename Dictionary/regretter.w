@@ -1,0 +1,1 @@
+{"index": 265827, "D": "to feel sorrow or remorse for (an act, fault, disappointment, etc.)", "S": [], "A": []}

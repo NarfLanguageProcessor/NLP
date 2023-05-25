@@ -1,0 +1,1 @@
+{"index": 255340, "D": "pertaining to or involving electric changes in the body resulting from reactions to mental or emotional stimuli.", "S": [], "A": []}

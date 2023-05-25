@@ -1,0 +1,1 @@
+{"index": 287329, "D": "causing shame", "S": ["dastardly", "disgraceful", "embarrassing", "flagrant", "heinous", "humiliating", "ignominious", "immoral", "indecent", "outrageous", "reprehensible", "scandalous", "shocking", "sinful", "vile"], "A": ["chaste", "good", "kind", "magnificent", "mild", "moral", "pure", "respectable", "virtuous", "wonderful"]}

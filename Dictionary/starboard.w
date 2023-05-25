@@ -1,0 +1,1 @@
+{"index": 302844, "D": "the right-hand side of or direction from a vessel or aircraft, facing forward.", "S": [], "A": []}

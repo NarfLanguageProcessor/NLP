@@ -1,0 +1,1 @@
+{"index": 181330, "D": "a coarse fabric of rushes, grass, straw, hemp, or the like, used for floor covering, wrapping material, etc.", "S": ["carpeting", "rug", "tapestry"], "A": []}

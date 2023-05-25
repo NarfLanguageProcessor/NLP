@@ -1,0 +1,1 @@
+{"index": 258336, "D": "a yellow, crystalline, slightly water-soluble powder, C15H10O7, obtained from the bark of the quercitron and other vegetable substances, used as a yellow dye; flavin.", "S": [], "A": []}

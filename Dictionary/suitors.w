@@ -1,0 +1,1 @@
+{"index": 310334, "D": "a man who courts or woos a woman.", "S": ["admirer", "beau", "boyfriend", "lover", "paramour"], "A": ["enemy", "girlfriend"]}

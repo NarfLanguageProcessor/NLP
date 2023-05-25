@@ -1,0 +1,1 @@
+{"index": 171841, "D": "a person who has a lien  on particular property.", "S": [], "A": []}

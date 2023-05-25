@@ -1,0 +1,1 @@
+{"index": 256846, "D": "a young dog, especially one less than a year old.", "S": ["brood", "cubs", "family", "kittens", "piglets", "progeny", "school", "young"], "A": ["parent"]}

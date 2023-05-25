@@ -1,0 +1,1 @@
+{"index": 174346, "D": "(in ancient Greece) a subdivision of an army.", "S": [], "A": []}

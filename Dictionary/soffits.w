@@ -1,0 +1,1 @@
+{"index": 296334, "D": "the underside of an architectural feature, as a beam, arch, ceiling, vault, or cornice.", "S": ["rim"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339341, "D": "to make a low, continuous, droning sound.", "S": [], "A": []}

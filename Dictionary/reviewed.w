@@ -1,0 +1,1 @@
+{"index": 271342, "D": "a critical article or report, as in a periodical, on a book, play, recital, or the like; critique; evaluation.", "S": ["abstracted", "analyzed", "considered", "criticized", "critiqued", "examined", "investigated", "judged", "outlined", "studied", "summarized", "surveyed"], "A": ["unplanned"]}

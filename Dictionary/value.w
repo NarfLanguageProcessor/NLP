@@ -1,0 +1,1 @@
+{"index": 356833, "D": "relative worth, merit, or importance", "S": ["amount", "cost", "expense", "price", "profit", "rate"], "A": ["detriment", "disadvantage"]}

@@ -1,0 +1,1 @@
+{"index": 350833, "D": "capable of or being of service;  useful.", "S": ["absurd", "illogical", "impossible", "improbable", "quixotic", "speculative", "unattainable", "unreal", "unusable", "unwise", "unworkable", "useless"], "A": ["logical", "possible", "rational", "reasonable", "sensible", "tenable"]}

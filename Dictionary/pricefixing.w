@@ -1,0 +1,1 @@
+{"index": 250338, "D": "the establishing of prices at a determined level, either by a government or by mutual consent among producers or sellers of a commodity.", "S": ["restraint"], "A": []}

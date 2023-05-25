@@ -1,0 +1,1 @@
+{"index": 356834, "D": "highly regarded or esteemed", "S": ["admired", "appreciated", "expensive", "loved", "priceless", "prized", "respected", "valuable"], "A": ["cheap", "useless", "worthless"]}

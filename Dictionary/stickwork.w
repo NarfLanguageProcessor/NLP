@@ -1,0 +1,1 @@
+{"index": 304338, "D": "a player's degree of competence or proficiency as a baseball batter, hockey or lacrosse player, etc.", "S": [], "A": []}

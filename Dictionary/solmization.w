@@ -1,0 +1,1 @@
+{"index": 296837, "D": "the act, process, or system of using certain syllables, especially the sol-fa syllables, to represent the tones of the scale.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244846, "D": "a bag, sack, or similar receptacle, especially one for small articles or quantities", "S": ["bag", "pocket", "purse"], "A": []}

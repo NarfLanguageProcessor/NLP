@@ -1,0 +1,1 @@
+{"index": 187346, "D": "one thousand millions; equivalent to U.S. billion.", "S": [], "A": []}

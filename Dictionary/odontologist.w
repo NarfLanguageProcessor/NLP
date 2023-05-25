@@ -1,0 +1,1 @@
+{"index": 211325, "D": "the science dealing with the study of the teeth and their surrounding tissues and with the prevention and cure of their diseases.", "S": [], "A": []}

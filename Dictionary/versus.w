@@ -1,0 +1,1 @@
+{"index": 358839, "D": "against (used especially to indicate an action brought by one party against another in a court of law, or to denote competing teams or players in a sports contest)", "S": ["alternative", "contrast", "vs"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336347, "D": "conforming to, attending to, or characteristic of business. ", "S": ["absurd", "illogical", "impossible", "improbable", "quixotic", "speculative", "unattainable", "unreal", "unusable", "unwise", "unworkable", "useless"], "A": ["logical", "possible", "rational", "reasonable", "sensible", "tenable"]}

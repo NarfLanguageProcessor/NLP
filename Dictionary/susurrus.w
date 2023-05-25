@@ -1,0 +1,1 @@
+{"index": 313827, "D": "a soft murmuring or rustling sound; whisper.", "S": ["babble", "buzz", "drone", "grumble", "hum", "humming", "mumble", "murmuration", "mutter", "muttering", "purr", "rumble", "rumor", "sigh", "susurration", "undertone", "whisper", "whispering"], "A": ["quiet"]}

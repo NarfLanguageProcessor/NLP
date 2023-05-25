@@ -1,0 +1,1 @@
+{"index": 176849, "D": "U.S. politician", "S": [], "A": []}

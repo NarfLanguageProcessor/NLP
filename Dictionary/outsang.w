@@ -1,0 +1,1 @@
+{"index": 217349, "D": "simple past tense of outsing. ", "S": [], "A": []}

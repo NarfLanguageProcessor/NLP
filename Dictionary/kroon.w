@@ -1,0 +1,1 @@
+{"index": 166349, "D": "an aluminum bronze coin and monetary unit of Estonia from 1928 to 1940 and from 1992 to 2010, when it was replaced by the euro,  equal to 100 marks or senti.", "S": [], "A": []}

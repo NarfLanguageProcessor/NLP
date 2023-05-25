@@ -1,0 +1,1 @@
+{"index": 240827, "D": "of, relating to, or affecting the lungs; pulmonary.", "S": [], "A": []}

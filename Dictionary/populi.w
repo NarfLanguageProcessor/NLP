@@ -1,0 +1,1 @@
+{"index": 243331, "D": "let the welfare of the people be the supreme law", "S": [], "A": []}

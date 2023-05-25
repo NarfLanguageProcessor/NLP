@@ -1,0 +1,1 @@
+{"index": 268833, "D": "the estimation in which a person or thing is held, especially by the community or the public generally; repute", "S": ["character", "fame", "honor", "influence", "name", "notoriety", "opinion", "position", "prestige", "prominence", "standing", "stature"], "A": ["unimportance", "disapproval", "disbelief", "disfavor", "dislike", "disregard", "disrespect"]}

@@ -1,0 +1,1 @@
+{"index": 311326, "D": "a feeling of wonder, pleasure, or approval.", "S": [], "A": []}

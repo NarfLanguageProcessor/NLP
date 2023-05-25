@@ -1,0 +1,1 @@
+{"index": 356347, "D": "a period of suspension of work, study, or other activity, usually used for rest, recreation, or travel; recess or holiday", "S": ["abide", "dwell", "inhabit", "linger", "lodge", "nest", "perch", "reside", "rest", "roost", "squat", "stay", "stop", "tarry", "vacation"], "A": ["advance", "carry on", "continue", "depart", "go", "leave", "move"]}

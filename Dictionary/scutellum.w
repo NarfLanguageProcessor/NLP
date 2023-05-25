@@ -1,0 +1,1 @@
+{"index": 282338, "D": "the shieldlike cotyledon of certain monocots.", "S": [], "A": []}

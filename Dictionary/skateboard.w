@@ -1,0 +1,1 @@
+{"index": 292833, "D": "a device for riding upon, usually while standing, consisting of a short, oblong piece of wood, plastic, fiberglass, or aluminum mounted on large roller-skate wheels, used on smooth surfaces and requiring better balance on the part of the rider than ordinary roller skates  do", "S": [], "A": []}

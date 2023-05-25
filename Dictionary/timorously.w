@@ -1,0 +1,1 @@
+{"index": 323837, "D": "full of fear; fearful", "S": ["nervously", "timidly"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342840, "D": "to spread or shake out from a furled  state, as a sail or a flag; unfold.", "S": ["unfold", "unroll", "unwind"], "A": ["close", "compress", "conceal", "cover", "end", "hide", "lessen"]}

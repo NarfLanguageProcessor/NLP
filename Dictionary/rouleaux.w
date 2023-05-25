@@ -1,0 +1,1 @@
+{"index": 274829, "D": "a roll or strip of something, as trimming on a hat brim.", "S": [], "A": []}

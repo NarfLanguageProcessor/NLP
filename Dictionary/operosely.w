@@ -1,0 +1,1 @@
+{"index": 213331, "D": "industrious, as a person.", "S": [], "A": []}

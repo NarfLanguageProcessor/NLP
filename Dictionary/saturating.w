@@ -1,0 +1,1 @@
+{"index": 278844, "D": "to cause (a substance) to unite with the greatest possible amount of another substance, through solution, chemical combination, or the like.", "S": ["douse", "imbue", "immerse", "impregnate", "infuse", "penetrate", "permeate", "pervade", "soak", "steep", "suffuse", "wash"], "A": ["dehydrate", "dry", "take out", "deprive", "dissatisfy"]}

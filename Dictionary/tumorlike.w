@@ -1,0 +1,1 @@
+{"index": 332326, "D": "a swollen part; swelling; protuberance. ", "S": [], "A": []}

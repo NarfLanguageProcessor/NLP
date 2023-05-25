@@ -1,0 +1,1 @@
+{"index": 283339, "D": "a scientist who specializes in the study of earthquakes", "S": [], "A": []}

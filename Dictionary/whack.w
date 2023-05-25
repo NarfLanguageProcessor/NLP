@@ -1,0 +1,1 @@
+{"index": 364332, "D": "to strike with a smart, resounding blow or blows.", "S": ["wallop"], "A": []}

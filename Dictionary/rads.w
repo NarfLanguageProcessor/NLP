@@ -1,0 +1,1 @@
+{"index": 259846, "D": "a unit of absorbed dose  of radiation equal to 0.01 gray", "S": [], "A": []}

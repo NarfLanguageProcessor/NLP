@@ -1,0 +1,1 @@
+{"index": 353345, "D": "not tried;  not attempted, proved, or tested", "S": ["unproved", "unproven"], "A": ["established", "tried"]}

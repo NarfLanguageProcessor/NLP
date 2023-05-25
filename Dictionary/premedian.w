@@ -1,0 +1,1 @@
+{"index": 248333, "D": "the middle number in a given sequence of numbers, taken as the average of the two middle numbers when the sequence has an even number of numbers", "S": [], "A": []}

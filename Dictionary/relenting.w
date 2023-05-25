@@ -1,0 +1,1 @@
+{"index": 266836, "D": "to soften in feeling, temper, or determination; become more mild, compassionate, or forgiving.", "S": ["submission", "yielding"], "A": ["defending", "fight", "fighting"]}

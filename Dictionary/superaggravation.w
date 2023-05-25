@@ -1,0 +1,1 @@
+{"index": 311342, "D": "an increase in intensity, seriousness, or severity; act of making worse", "S": [], "A": []}

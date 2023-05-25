@@ -1,0 +1,1 @@
+{"index": 348341, "D": "to show or represent beforehand by a figure or type; foreshadow.", "S": [], "A": []}

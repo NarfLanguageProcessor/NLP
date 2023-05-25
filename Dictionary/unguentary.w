@@ -1,0 +1,1 @@
+{"index": 343345, "D": "an ointment or salve, usually liquid or semiliquid, for application to wounds, sores, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343841, "D": "deceived or tricked", "S": [], "A": []}

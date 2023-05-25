@@ -1,0 +1,1 @@
+{"index": 287333, "D": "lacking any sense of shame", "S": ["openly", "unabashedly"], "A": []}

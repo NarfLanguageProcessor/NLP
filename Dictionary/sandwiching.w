@@ -1,0 +1,1 @@
+{"index": 277836, "D": " two or more slices of bread with a layer of meat, fish, cheese, etc., between them", "S": ["arbitrate"], "A": ["erase", "remove", "subtract"]}

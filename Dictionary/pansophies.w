@@ -1,0 +1,1 @@
+{"index": 224846, "D": "universal wisdom or knowledge.", "S": ["solidity", "sophistication"], "A": ["ignorance", "imprudence", "inability", "ineptness", "instability", "misinterpretation", "mistake", "misunderstanding", "stupidity", "thoughtlessness"]}

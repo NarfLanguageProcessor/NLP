@@ -1,0 +1,1 @@
+{"index": 201841, "D": "broad-mindedness or liberality, as of tastes, interests, or views.", "S": [], "A": []}

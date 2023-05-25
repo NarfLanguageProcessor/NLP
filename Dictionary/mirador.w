@@ -1,0 +1,1 @@
+{"index": 188327, "D": "(in Spanish-speaking countries) any architectural feature, as a loggia or balcony, affording a view of the surroundings.", "S": ["barbican", "beacon", "landmark", "lighthouse", "observatory"], "A": []}

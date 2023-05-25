@@ -1,0 +1,1 @@
+{"index": 219329, "D": "something done or granted out of goodwill, rather than from justice or for remuneration; a kind act", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315826, "D": "a small wild buffalo, Bubalus (Anoa) mindorensis, of Mindoro in the Philippines, having thick, brown hair and short, massive horns.", "S": [], "A": []}

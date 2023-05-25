@@ -1,0 +1,1 @@
+{"index": 201342, "D": "acting in opposition; opposing, especially mutually.", "S": [], "A": []}

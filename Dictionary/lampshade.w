@@ -1,0 +1,1 @@
+{"index": 167834, "D": "a shade,  usually translucent or opaque, for shielding the glare of a light source in a lamp  or for directing the light to a particular area.", "S": [], "A": []}

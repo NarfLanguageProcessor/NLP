@@ -1,0 +1,1 @@
+{"index": 344326, "D": "domineering in a haughty manner; dictatorial; overbearing", "S": [], "A": []}

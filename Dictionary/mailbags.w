@@ -1,0 +1,1 @@
+{"index": 177839, "D": "a large bag  used by mail  carriers for carrying mail,  usually equipped with a shoulder strap.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272827, "D": "somewhat right, esp politically", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363344, "D": "the distance, measured in the direction of propagation of a wave,  between two successive points in the wave  that are characterized by the same phase of oscillation.", "S": ["acumen", "intuition", "judgment", "observation", "understanding", "vision", "wisdom"], "A": ["ignorance", "stupidity"]}

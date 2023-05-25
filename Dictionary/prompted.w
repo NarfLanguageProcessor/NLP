@@ -1,0 +1,1 @@
+{"index": 252346, "D": "uttered, given, or done in response to something, as to a suggestion, cue, event, etc.", "S": ["advised", "cautioned", "forewarned", "notified", "prodded"], "A": []}

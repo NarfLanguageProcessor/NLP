@@ -1,0 +1,1 @@
+{"index": 284330, "D": "a hostile state, condition, or attitude; enmity; antagonism; unfriendliness.", "S": [], "A": []}

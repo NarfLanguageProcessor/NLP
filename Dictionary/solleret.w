@@ -1,0 +1,1 @@
+{"index": 296831, "D": "a protective covering for the foot consisting of riveted plates of armour", "S": [], "A": []}

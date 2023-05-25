@@ -1,0 +1,1 @@
+{"index": 328836, "D": "to travel or migrate slowly or with difficulty, especially to hike through rough terrain", "S": ["expedition", "hike", "odyssey", "trip"], "A": []}

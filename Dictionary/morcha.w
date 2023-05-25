@@ -1,0 +1,1 @@
+{"index": 193349, "D": "(in India) a hostile demonstration against the government", "S": [], "A": []}

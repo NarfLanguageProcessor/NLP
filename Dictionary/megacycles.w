@@ -1,0 +1,1 @@
+{"index": 182342, "D": "a unit of frequency, equal to one million cycles  per second; megahertz. The term megahertz is now preferred in technical use. Abbreviation", "S": [], "A": []}

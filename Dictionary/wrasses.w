@@ -1,0 +1,1 @@
+{"index": 367844, "D": "any of various marine fishes of the family Labridae, especially of the genus Labrus, having thick, fleshy lips, powerful teeth, and usually a brilliant color, certain species being valued as food fishes.", "S": [], "A": []}

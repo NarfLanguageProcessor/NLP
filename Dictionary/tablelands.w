@@ -1,0 +1,1 @@
+{"index": 314840, "D": "an elevated and generally level region of considerable extent; plateau.", "S": ["butte", "elevation", "highland", "plain", "upland"], "A": []}

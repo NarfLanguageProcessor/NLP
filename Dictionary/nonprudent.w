@@ -1,0 +1,1 @@
+{"index": 206349, "D": "wise or judicious in practical affairs; discreet or circumspect; sagacious; sober. ", "S": [], "A": []}

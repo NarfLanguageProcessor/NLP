@@ -1,0 +1,1 @@
+{"index": 180346, "D": "united in wedlock; wedded", "S": ["espoused", "joined", "marital", "mated", "united"], "A": ["separated"]}

@@ -1,0 +1,1 @@
+{"index": 320831, "D": "nominative plural of he, she,  and it1", "S": ["we", "you"], "A": []}

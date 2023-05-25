@@ -1,0 +1,1 @@
+{"index": 361848, "D": "like a wag; roguish in merriment and good humor; jocular", "S": [], "A": []}

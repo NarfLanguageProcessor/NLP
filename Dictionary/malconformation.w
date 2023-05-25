@@ -1,0 +1,1 @@
+{"index": 178325, "D": [], "S": ["abnormality", "defect", "impairment", "malformation"], "A": ["beauty", "benefit", "blessing", "favor", "good", "goodness", "honor", "morality", "purity", "regularity", "virtue"]}

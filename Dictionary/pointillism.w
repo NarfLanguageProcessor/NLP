@@ -1,0 +1,1 @@
+{"index": 241338, "D": "a theory and technique developed by the neo-impressionists, based on the principle that juxtaposed dots of pure color, as blue and yellow, are optically mixed into the resulting hue, as green, by the viewer.", "S": [], "A": []}

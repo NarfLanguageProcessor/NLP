@@ -1,0 +1,1 @@
+{"index": 219345, "D": "to feed  or eat to excess.", "S": ["augment", "broaden", "build up", "swell"], "A": ["decrease", "contract", "deflate", "deplete", "lose", "shrink"]}

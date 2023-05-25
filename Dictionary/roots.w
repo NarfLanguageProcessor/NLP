@@ -1,0 +1,1 @@
+{"index": 274330, "D": "roots rock", "S": ["background", "birthplace", "blood", "breed", "descent", "genealogy", "heritage", "kindred", "line", "lineage", "origin", "parentage", "pedigree", "race"], "A": []}

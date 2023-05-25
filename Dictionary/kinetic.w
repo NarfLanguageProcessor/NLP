@@ -1,0 +1,1 @@
+{"index": 164837, "D": "pertaining to motion.", "S": ["animated", "lively", "peppy"], "A": ["apathetic", "inactive", "lethargic"]}

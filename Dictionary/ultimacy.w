@@ -1,0 +1,1 @@
+{"index": 333832, "D": "the state or quality of being ultimate. ", "S": [], "A": []}

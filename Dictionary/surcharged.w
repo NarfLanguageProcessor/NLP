@@ -1,0 +1,1 @@
+{"index": 313331, "D": "an additional charge, tax, or cost.", "S": ["bloated", "magnified", "overblown", "swollen"], "A": ["shrunken", "abbreviated", "abridged", "compressed", "contracted", "reduced"]}

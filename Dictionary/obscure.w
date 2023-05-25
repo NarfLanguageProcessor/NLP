@@ -1,0 +1,1 @@
+{"index": 210340, "D": "(of meaning) not clear or plain; ambiguous, vague, or uncertain", "S": ["ambiguous", "arcane", "complicated", "confusing", "cryptic", "enigmatic", "esoteric", "mysterious", "vague"], "A": ["clear", "common", "definite", "known", "obvious", "plain", "straightforward", "bare", "exposed", "open"]}

@@ -1,0 +1,1 @@
+{"index": 231826, "D": "the state of being perplexed;  confusion; uncertainty.", "S": ["puzzlement"], "A": ["harmony"]}

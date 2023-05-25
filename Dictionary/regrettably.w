@@ -1,0 +1,1 @@
+{"index": 265825, "D": "unfortunately", "S": ["acutely", "badly", "grievously", "intensely", "severely", "sorely", "very"], "A": ["little"]}

@@ -1,0 +1,1 @@
+{"index": 164328, "D": "an Indo-Iranian language of northwest Pakistan.", "S": [], "A": []}

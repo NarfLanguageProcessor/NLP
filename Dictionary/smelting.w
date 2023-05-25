@@ -1,0 +1,1 @@
+{"index": 294833, "D": "to fuse or melt (ore) in order to separate the metal contained.", "S": ["amalgam", "blend", "blending", "synthesis"], "A": ["division", "separation"]}

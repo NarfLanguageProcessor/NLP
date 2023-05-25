@@ -1,0 +1,1 @@
+{"index": 179831, "D": "to roam or go around in quest of plunder; make a raid for booty", "S": ["despoil", "forage", "foray", "harass", "harry", "loot", "raid", "ransack", "ravage", "sack"], "A": ["aid", "assist", "guard", "help", "protect", "support"]}

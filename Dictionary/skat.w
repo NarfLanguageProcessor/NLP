@@ -1,0 +1,1 @@
+{"index": 292830, "D": "a card game for three players, using a pack of 32 playing cards, sevens through aces, the object being to fulfill any of various contracts, with scoring computed on strategy and on tricks won.", "S": [], "A": []}

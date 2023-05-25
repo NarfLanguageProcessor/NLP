@@ -1,0 +1,1 @@
+{"index": 240344, "D": "a piece of wood or other material used to stop up a hole or aperture, to fill a gap, or to act as a wedge.", "S": ["displayed", "posted", "publicized"], "A": ["forgotten", "suppressed", "unannounced"]}

@@ -1,0 +1,1 @@
+{"index": 274843, "D": "circuitous or indirect, as a road, journey, method, statement or person.", "S": ["circular", "collateral", "oblique"], "A": ["direct"]}

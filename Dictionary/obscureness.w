@@ -1,0 +1,1 @@
+{"index": 210345, "D": "(of meaning) not clear or plain; ambiguous, vague, or uncertain", "S": ["ambiguity", "cloudiness", "equivocalness", "indefiniteness", "obscurity", "uncertainty", "unclearness"], "A": ["certainty", "definiteness"]}

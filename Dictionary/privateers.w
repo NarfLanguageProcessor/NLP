@@ -1,0 +1,1 @@
+{"index": 250841, "D": "an armed ship that is privately  owned and manned, commissioned by a government to fight or harass enemy ships.", "S": ["buccaneer", "corsair", "distress", "freebooter", "lack", "pauperism", "penury", "privation", "ship", "vessel"], "A": []}

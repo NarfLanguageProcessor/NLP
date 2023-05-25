@@ -1,0 +1,1 @@
+{"index": 259837, "D": "a number taken as the base of a system of numbers, logarithms, or the like.", "S": ["essence", "foundation", "heart", "origin", "seed", "soul", "source", "stem", "stuff"], "A": ["effect", "end", "result", "conclusion", "consequence", "exterior", "exteriority", "extra", "outgrowth", "outside", "trivia"]}

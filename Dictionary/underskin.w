@@ -1,0 +1,1 @@
+{"index": 339828, "D": "the external covering or integument of an animal body, especially when soft and flexible.", "S": [], "A": []}

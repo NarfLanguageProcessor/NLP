@@ -1,0 +1,1 @@
+{"index": 221325, "D": "a white, tasteless, solid carbohydrate, (C6H10O5)n, occurring in the form of minute granules in the seeds, tubers, and other parts of plants, and forming an important constituent of rice, corn, wheat, beans, potatoes, and many other vegetable foods.", "S": [], "A": []}

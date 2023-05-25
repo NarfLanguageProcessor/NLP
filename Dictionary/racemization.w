@@ -1,0 +1,1 @@
+{"index": 259334, "D": "the conversion of an optically active substance into an optically inactive mixture of equal amounts of the dextrorotatory and levorotatory forms.", "S": [], "A": []}

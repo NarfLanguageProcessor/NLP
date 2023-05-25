@@ -1,0 +1,1 @@
+{"index": 170844, "D": "a person, group, etc., to whom a lease  is granted.", "S": ["renter", "tenant"], "A": []}

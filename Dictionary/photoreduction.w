@@ -1,0 +1,1 @@
+{"index": 235343, "D": "a reduction  reaction induced by light.", "S": [], "A": []}

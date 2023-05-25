@@ -1,0 +1,1 @@
+{"index": 177340, "D": "the concluding section of the portion of the Torah chanted or read in a Jewish service on the Sabbath and festivals.", "S": [], "A": []}

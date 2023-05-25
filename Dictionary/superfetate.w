@@ -1,0 +1,1 @@
+{"index": 311840, "D": "the fertilization of an ovum in a female mammal already pregnant.", "S": [], "A": []}

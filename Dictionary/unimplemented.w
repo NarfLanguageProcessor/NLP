@@ -1,0 +1,1 @@
+{"index": 344332, "D": "carried out; put into effect, usually by means of a definite plan or procedure", "S": [], "A": []}

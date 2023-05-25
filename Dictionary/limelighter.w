@@ -1,0 +1,1 @@
+{"index": 172346, "D": "a lighting  unit, especially a spotlight.", "S": [], "A": []}

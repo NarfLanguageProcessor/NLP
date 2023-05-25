@@ -1,0 +1,1 @@
+{"index": 232829, "D": "any of numerous arboreal marsupials of the family Phalangeridae, of Australia, having foxlike ears and a long, bushy tail.", "S": [], "A": []}

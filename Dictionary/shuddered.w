@@ -1,0 +1,1 @@
+{"index": 289330, "D": "to tremble with a sudden convulsive movement, as from horror, fear, or cold.", "S": ["gyrate", "shiver", "tremble"], "A": ["steady"]}

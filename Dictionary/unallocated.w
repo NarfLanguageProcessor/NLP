@@ -1,0 +1,1 @@
+{"index": 334834, "D": "set apart for a particular purpose or recipient; assigned or allotted", "S": [], "A": []}

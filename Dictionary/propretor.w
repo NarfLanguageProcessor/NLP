@@ -1,0 +1,1 @@
+{"index": 252829, "D": "an officer who, after having served as praetor in Rome, was sent to govern a province with praetorial authority.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169343, "D": "allowed or permitted by law;  not contrary to law", "S": ["authority", "justice", "legitimacy", "licitness", "permissibility", "right", "validity"], "A": ["injustice", "unfairness"]}

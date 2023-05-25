@@ -1,0 +1,1 @@
+{"index": 257330, "D": "a plotted revolt or attempt to overthrow a government, especially one that depends upon suddenness and speed.", "S": ["coup", "overthrow", "palace revolution", "power play", "putsch", "rebellion", "revolt", "revolution", "takeover"], "A": []}

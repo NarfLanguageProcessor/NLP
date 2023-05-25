@@ -1,0 +1,1 @@
+{"index": 252343, "D": "done, performed, delivered, etc., at once or without delay", "S": ["efficient", "expeditious", "immediate", "instantaneous", "precise", "punctual", "quick", "rapid", "speedy", "swift", "timely"], "A": ["delayed", "late", "later", "slow", "sluggish", "tardy", "apathetic", "lethargic", "unprepared", "unwilling"]}

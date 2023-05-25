@@ -1,0 +1,1 @@
+{"index": 366825, "D": "that wobbles  or causes to wobble. ", "S": ["quaking", "quivering", "staggering", "swaying", "teetering", "trembling", "wiggling"], "A": []}

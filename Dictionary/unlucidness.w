@@ -1,0 +1,1 @@
+{"index": 345826, "D": "easily understood; completely intelligible or comprehensible", "S": [], "A": []}

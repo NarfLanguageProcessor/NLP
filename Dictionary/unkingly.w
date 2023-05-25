@@ -1,0 +1,1 @@
+{"index": 345325, "D": "stately or splendid, as resembling, suggesting, or befitting a king;  regal", "S": [], "A": []}

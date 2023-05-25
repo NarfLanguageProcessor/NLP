@@ -1,0 +1,1 @@
+{"index": 344342, "D": "the quality or state of being important;  consequence; significance.", "S": ["immateriality", "inconsequence", "inessentiality", "pettiness", "triviality", "worthlessness"], "A": ["conceit", "essentiality", "importance", "significance"]}

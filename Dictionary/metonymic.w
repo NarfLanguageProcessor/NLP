@@ -1,0 +1,1 @@
+{"index": 185340, "D": "relating to or having the nature of metonymy;  used as a metonym. ", "S": [], "A": []}

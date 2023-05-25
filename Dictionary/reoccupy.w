@@ -1,0 +1,1 @@
+{"index": 267839, "D": "to occupy (a building, area, etc) again", "S": ["convert", "reassume", "reclaim", "recondition", "recover", "recycle", "redeem", "regenerate", "remodel", "repossess", "rescue", "restore", "retake", "salvage", "take back"], "A": []}

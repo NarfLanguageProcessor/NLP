@@ -1,0 +1,1 @@
+{"index": 330848, "D": "something trivial;  a trivial  matter, affair, remark, etc.", "S": ["baseness", "cheapness", "frivolousness", "inconsequence", "inconsiderableness", "irrelevance", "measliness", "negligibility", "negligible", "negligibleness", "paltriness", "shabbiness", "smallness", "subordination", "trifle", "triviality", "unimportance"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348340, "D": "to set or hold before or above other persons or things in estimation; like better; choose rather than", "S": [], "A": []}

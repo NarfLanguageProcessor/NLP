@@ -1,0 +1,1 @@
+{"index": 267348, "D": "negligent, careless, or slow in performing one's duty, business, etc.", "S": ["disregard", "failure", "forgetfulness", "heedlessness", "inattention", "inattentiveness", "laxity", "laxness", "neglect", "neglectfulness", "oversight", "slackness", "thoughtlessness"], "A": ["accomplishment", "achievement", "attention", "care", "regard", "respect", "success"]}

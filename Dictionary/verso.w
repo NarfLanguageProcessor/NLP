@@ -1,0 +1,1 @@
+{"index": 358830, "D": "a left-hand page of an open book or manuscript (opposed to recto).", "S": ["folio", "leaf", "recto", "side", "signature", "surface"], "A": ["inside", "middle"]}

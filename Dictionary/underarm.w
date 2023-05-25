@@ -1,0 +1,1 @@
+{"index": 338832, "D": "of, situated, or for use under the arm  or in the armpit", "S": [], "A": []}

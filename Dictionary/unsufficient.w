@@ -1,0 +1,1 @@
+{"index": 352334, "D": [], "S": ["declining", "defeated", "faint", "scant", "scanty", "short", "shy", "wanting"], "A": ["adequate", "enough", "sufficient"]}

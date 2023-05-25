@@ -1,0 +1,1 @@
+{"index": 200338, "D": "to be excessively concerned with or critical of inconsequential details.", "S": ["carp", "cavil", "quibble"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275344, "D": "to feel sorrow over; repent of; regret bitterly", "S": [], "A": []}

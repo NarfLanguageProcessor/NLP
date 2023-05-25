@@ -1,0 +1,1 @@
+{"index": 278827, "D": "a former province on S Kyushu, in SW Japan", "S": [], "A": []}

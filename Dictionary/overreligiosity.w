@@ -1,0 +1,1 @@
+{"index": 220831, "D": "the quality of being religious;  piety; devoutness.", "S": [], "A": []}

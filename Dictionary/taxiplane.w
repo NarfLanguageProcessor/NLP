@@ -1,0 +1,1 @@
+{"index": 317333, "D": "an airplane  available for chartered or unscheduled trips.", "S": [], "A": []}

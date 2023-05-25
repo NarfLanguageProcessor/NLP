@@ -1,0 +1,1 @@
+{"index": 225344, "D": "(in ancient Greek drama) a choral ode addressed to the audience, especially of comedy, and independent of the action of the play", "S": [], "A": []}

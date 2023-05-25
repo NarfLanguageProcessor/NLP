@@ -1,0 +1,1 @@
+{"index": 305846, "D": "an expert in strategy,  especially in warfare", "S": ["planner"], "A": []}

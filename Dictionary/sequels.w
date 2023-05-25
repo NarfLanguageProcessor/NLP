@@ -1,0 +1,1 @@
+{"index": 285831, "D": "a literary work, movie, etc., that is complete in itself but continues the narrative of a preceding work.", "S": ["conclusion", "ending", "sequence", "series"], "A": ["beginning", "commencement", "introduction", "start", "cause", "foundation", "initiation", "opening", "origin", "source"]}

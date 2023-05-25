@@ -1,0 +1,1 @@
+{"index": 194332, "D": "of or relating to a Middle Paleolithic culture of Neanderthal man dating to the early upper Pleistocene Epoch (c100,000\u201340,000 b.c.) and consisting of five or more stone-artifact traditions in Europe whose characteristic tools are side scrapers and points.", "S": [], "A": []}

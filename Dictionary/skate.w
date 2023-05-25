@@ -1,0 +1,1 @@
+{"index": 292831, "D": "ice skate (def. 1). ", "S": ["glide"], "A": []}

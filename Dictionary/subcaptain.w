@@ -1,0 +1,1 @@
+{"index": 307349, "D": "a person who is at the head of or in authority over others; chief; leader.", "S": [], "A": []}

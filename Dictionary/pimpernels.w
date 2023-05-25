@@ -1,0 +1,1 @@
+{"index": 236845, "D": "a plant belonging to the genus Anagallis, of the primrose family, especially A. arvensis(scarlet pimpernel ), having scarlet or white flowers that close at the approach of bad weather.", "S": [], "A": []}

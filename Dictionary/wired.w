@@ -1,0 +1,1 @@
+{"index": 366332, "D": "equipped with wires,  as for electricity or telephone service.", "S": ["cabled", "circuited", "lined"], "A": []}

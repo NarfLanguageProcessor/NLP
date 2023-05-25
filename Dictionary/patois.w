@@ -1,0 +1,1 @@
+{"index": 227840, "D": "a regional form of a language, especially of French, differing from the standard, literary form of the language.", "S": ["argot", "dialect", "idiom", "lingo", "slang", "vernacular"], "A": ["standard"]}

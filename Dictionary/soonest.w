@@ -1,0 +1,1 @@
+{"index": 297342, "D": "the superlative of soon", "S": ["directly", "early", "instantly", "promptly", "quickly", "rapidly", "shortly", "speedily"], "A": ["late", "later"]}

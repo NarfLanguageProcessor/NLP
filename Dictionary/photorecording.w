@@ -1,0 +1,1 @@
+{"index": 235342, "D": "the act of making photographic records,  especially of documents.", "S": [], "A": []}

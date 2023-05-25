@@ -1,0 +1,1 @@
+{"index": 280348, "D": "to chat idly; gossip. ", "S": ["chat", "chitchat", "commune", "confer", "discourse", "exchange", "gab", "parley", "rap", "speak", "use", "yak"], "A": ["be quiet"]}

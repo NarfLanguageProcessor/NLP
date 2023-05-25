@@ -1,0 +1,1 @@
+{"index": 295846, "D": "a motor vehicle with a revolving tread in the rear and steerable skis in the front, for traveling over snow. ", "S": [], "A": []}

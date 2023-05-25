@@ -1,0 +1,1 @@
+{"index": 217847, "D": "to surpass in waiting  or expecting; wait  longer than.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316330, "D": "to become smaller or thinner toward one end.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289337, "D": [], "S": ["awful", "disgusting", "disturbing", "eerie", "frightening", "ghoulish", "macabre", "menacing", "ominous", "sinister", "terrifying", "weird"], "A": ["normal", "pleasing"]}

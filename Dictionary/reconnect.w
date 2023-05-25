@@ -1,0 +1,1 @@
+{"index": 263345, "D": "to link or be linked together again", "S": ["reopen", "restore", "resume", "revitalize"], "A": []}

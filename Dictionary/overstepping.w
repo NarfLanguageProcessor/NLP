@@ -1,0 +1,1 @@
+{"index": 221343, "D": "to go beyond; exceed", "S": ["encroachment", "imposition", "incursion", "interference", "intervention", "invasion"], "A": ["aid", "help", "retreat", "obedience"]}

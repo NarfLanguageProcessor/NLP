@@ -1,0 +1,1 @@
+{"index": 306338, "D": "an oblong piece of wood at the lower end of the body of a viol or other stringed instrument  to which the strings  are attached.", "S": [], "A": []}

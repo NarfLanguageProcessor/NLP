@@ -1,0 +1,1 @@
+{"index": 164835, "D": "having to do with movement or sensation, especially within the body", "S": ["bodily", "physical"], "A": []}

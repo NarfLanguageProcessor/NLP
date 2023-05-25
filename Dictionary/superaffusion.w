@@ -1,0 +1,1 @@
+{"index": 311339, "D": "the pouring on of water or other liquid, as in the rite of baptism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315839, "D": "(in the East Indies) a spectacle; entertainment.", "S": [], "A": []}

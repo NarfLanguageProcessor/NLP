@@ -1,0 +1,1 @@
+{"index": 342345, "D": "not easily upset or confused, especially in a crisis; imperturbable.", "S": ["composed", "impassive", "nonchalant", "relaxed", "self-possessed", "unruffled"], "A": ["nervous"]}

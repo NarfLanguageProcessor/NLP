@@ -1,0 +1,1 @@
+{"index": 192341, "D": "a design consisting of two or more alphabetic letters combined or interlaced, commonly one's initials, often printed on stationery, embroidered on clothing, etc.", "S": ["character", "cipher", "design", "identification", "initials"], "A": []}

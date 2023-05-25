@@ -1,0 +1,1 @@
+{"index": 231835, "D": "an incidental payment, benefit, privilege, or advantage over and above regular income, salary, or wages", "S": ["compensation package", "perk", "perquisite"], "A": []}

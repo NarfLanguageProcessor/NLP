@@ -1,0 +1,1 @@
+{"index": 186831, "D": "the position of anything surrounded by other things or parts, or occurring in the middle of a period of time, course of action, etc.", "S": ["bosom", "center", "deep", "depths", "heart", "hub", "interior", "mean", "medium", "midpoint", "nucleus", "thick"], "A": ["exterior", "exteriority", "outside", "periphery"]}

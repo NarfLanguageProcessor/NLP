@@ -1,0 +1,1 @@
+{"index": 239326, "D": "a small platelike body, especially a blood platelet. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214326, "D": "a rich concentration in an orebody.", "S": [], "A": []}

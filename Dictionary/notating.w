@@ -1,0 +1,1 @@
+{"index": 208840, "D": "to note,  mark, or set down in a system of notation", "S": [], "A": []}

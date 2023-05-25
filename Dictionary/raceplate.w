@@ -1,0 +1,1 @@
+{"index": 259349, "D": "a metallic, plastic, or wooden strip directly in front of the reed on the lay of a loom, along which the shuttle travels in its passage through the shed.", "S": [], "A": []}

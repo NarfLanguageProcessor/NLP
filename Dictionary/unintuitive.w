@@ -1,0 +1,1 @@
+{"index": 344830, "D": "perceiving directly by intuition  without rational thought, as a person or the mind.", "S": [], "A": []}

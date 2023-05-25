@@ -1,0 +1,1 @@
+{"index": 248344, "D": "done deliberately; planned in advance", "S": ["calculated", "conscious", "deliberate", "intentional", "willful"], "A": ["unintentional", "unplanned"]}

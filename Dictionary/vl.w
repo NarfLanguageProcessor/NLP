@@ -1,0 +1,1 @@
+{"index": 360843, "D": "Vulgar Latin. ", "S": [], "A": []}

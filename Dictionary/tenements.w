@@ -1,0 +1,1 @@
+{"index": 318841, "D": "a run-down and often overcrowded apartment house, especially in a poor section of a large city.", "S": ["boarding house", "coop", "high-rise", "slum"], "A": []}

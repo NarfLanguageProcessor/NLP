@@ -1,0 +1,1 @@
+{"index": 264833, "D": "an administrative officer of a town or district.", "S": [], "A": []}

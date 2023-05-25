@@ -1,0 +1,1 @@
+{"index": 302836, "D": "a short piece of wire bent so as to bind together papers, sections of a book, or the like, by driving the ends through the sheets and clinching them on the other side.", "S": ["comestibles", "edibles", "foodstuffs", "perishables", "produce", "vegetables", "viands"], "A": []}

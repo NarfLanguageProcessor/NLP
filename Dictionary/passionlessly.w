@@ -1,0 +1,1 @@
+{"index": 227349, "D": "not feeling or moved by passion;  cold or unemotional; calm or detached.", "S": [], "A": []}

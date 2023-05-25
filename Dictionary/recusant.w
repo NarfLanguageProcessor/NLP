@@ -1,0 +1,1 @@
+{"index": 263826, "D": "refusing to submit, comply, etc.", "S": ["adverse", "antithetical", "conflicting", "contradictory", "discordant", "hostile", "inconsistent", "inimical", "negative", "opposed", "paradoxical", "wrongheaded"], "A": ["agreeable", "agreeing", "consistent", "friendly", "harmonious", "kind", "conforming", "equal", "same", "similar"]}

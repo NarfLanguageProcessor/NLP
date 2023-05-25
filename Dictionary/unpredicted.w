@@ -1,0 +1,1 @@
+{"index": 348327, "D": "to declare or tell in advance; prophesy; foretell", "S": ["amazing", "astonishing", "extraordinary", "remarkable", "shocking", "startling", "stunning", "sudden", "unanticipated", "unforeseen", "unpredictable", "wonderful"], "A": ["expected", "normal", "ordinary", "predictable", "usual"]}

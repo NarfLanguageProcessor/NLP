@@ -1,0 +1,1 @@
+{"index": 299335, "D": "to discharge the contents of the stomach through the mouth; vomit.", "S": ["belch", "cascade", "eject", "erupt", "gush", "heave", "scatter", "spit", "vomit"], "A": []}

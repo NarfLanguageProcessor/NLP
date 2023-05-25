@@ -1,0 +1,1 @@
+{"index": 332345, "D": "having mounds; full of mounds; tumular.", "S": [], "A": []}

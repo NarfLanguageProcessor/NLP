@@ -1,0 +1,1 @@
+{"index": 367836, "D": "the covering in which something is wrapped. ", "S": ["bag", "cloth", "gunny", "sacking"], "A": []}

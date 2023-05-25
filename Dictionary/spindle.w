@@ -1,0 +1,1 @@
+{"index": 299849, "D": "a rounded rod, usually of wood, tapering toward each end, used in hand-spinning to twist into thread the fibers drawn from the mass on the distaff, and on which the thread is wound as it is spun.", "S": ["arbor", "axis", "axle", "lance", "pivot", "pole", "rod", "stem"], "A": []}

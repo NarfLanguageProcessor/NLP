@@ -1,0 +1,1 @@
+{"index": 205827, "D": "the act or power of penetrating. ", "S": [], "A": []}

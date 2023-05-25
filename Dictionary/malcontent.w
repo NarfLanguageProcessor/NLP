@@ -1,0 +1,1 @@
+{"index": 178327, "D": "not satisfied or content  with currently prevailing conditions or circumstances.", "S": ["belly-aching", "complaining", "discontented", "disgruntled", "unhappy", "unsatisfied"], "A": []}

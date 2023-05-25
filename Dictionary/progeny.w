@@ -1,0 +1,1 @@
+{"index": 251837, "D": "a descendant or offspring, as a child, plant, or animal.", "S": ["breed", "children", "descendants", "family", "get", "issue", "kids", "lineage", "posterity", "race", "scions", "seed", "stock", "young"], "A": ["parent"]}

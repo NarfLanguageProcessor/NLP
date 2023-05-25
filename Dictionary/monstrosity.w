@@ -1,0 +1,1 @@
+{"index": 192849, "D": "the state or character of being monstrous. ", "S": ["abnormality", "atrocity", "deformity", "dreadfulness", "enormity", "eyesore", "freakishness", "frightfulness", "grotesqueness", "heinousness", "hideousness", "horror", "monster", "mutant", "mutation"], "A": ["beauty"]}

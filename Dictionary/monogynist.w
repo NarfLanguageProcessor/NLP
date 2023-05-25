@@ -1,0 +1,1 @@
+{"index": 192331, "D": "the practice or condition of having only one wife at a time.", "S": ["companion", "partner", "spouse"], "A": ["enemy", "foe", "bride"]}

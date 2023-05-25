@@ -1,0 +1,1 @@
+{"index": 257342, "D": "to busy or occupy oneself in a leisurely, casual, or ineffective manner", "S": ["loiter"], "A": ["leave alone"]}

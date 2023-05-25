@@ -1,0 +1,1 @@
+{"index": 324844, "D": "a member of any of a number of Indigenous peoples of the coastal regions of southern Alaska and northern British Columbia.", "S": [], "A": []}

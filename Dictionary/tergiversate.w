@@ -1,0 +1,1 @@
+{"index": 319328, "D": "to change repeatedly one's attitude or opinions with respect to a cause, subject, etc.; equivocate. ", "S": ["apostatize", "defect", "equivocate", "hedge", "renounce", "shift", "shuffle"], "A": ["face", "meet"]}

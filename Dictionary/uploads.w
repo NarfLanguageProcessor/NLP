@@ -1,0 +1,1 @@
+{"index": 354835, "D": "to transfer (software, data, character sets, etc.) from a smaller to a larger computer.", "S": ["transfer"], "A": ["download"]}

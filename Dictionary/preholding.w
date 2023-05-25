@@ -1,0 +1,1 @@
+{"index": 247835, "D": "the act of a person or thing that holds. ", "S": [], "A": []}

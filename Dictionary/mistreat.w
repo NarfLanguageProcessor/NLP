@@ -1,0 +1,1 @@
+{"index": 190348, "D": "to treat badly or abusively.", "S": ["abuse", "brutalize", "harm", "maltreat", "maul", "misuse", "molest", "rough up"], "A": ["aid", "assist", "benefit", "guard", "help", "protect", "cure", "heal"]}

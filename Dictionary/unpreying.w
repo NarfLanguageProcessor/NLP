@@ -1,0 +1,1 @@
+{"index": 348349, "D": "an animal hunted or seized for food, especially by a carnivorous animal.", "S": [], "A": []}

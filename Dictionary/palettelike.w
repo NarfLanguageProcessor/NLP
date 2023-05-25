@@ -1,0 +1,1 @@
+{"index": 223827, "D": "a thin and usually oval or oblong board or tablet with a thumb hole at one end, used by painters for holding and mixing colors.", "S": [], "A": []}

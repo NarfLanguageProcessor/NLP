@@ -1,0 +1,1 @@
+{"index": 328342, "D": "the middle part of the diencephalon through which sensory impulses pass to reach the cerebral cortex.", "S": [], "A": []}

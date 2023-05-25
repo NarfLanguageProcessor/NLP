@@ -1,0 +1,1 @@
+{"index": 166347, "D": "a silver and cupronickel coin and monetary unit of Sweden, equal to 100 \u00f6re. Abbreviation", "S": [], "A": []}

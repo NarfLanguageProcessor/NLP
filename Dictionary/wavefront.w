@@ -1,0 +1,1 @@
+{"index": 363338, "D": "a surface, real or imaginary, that is the locus of all adjacent points at which the phase of oscillation is the same.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229847, "D": "any of numerous chiefly North American plants belonging to the genus Penstemon, of the figwort family, some species of which are cultivated for their showy, variously colored flowers.", "S": [], "A": []}

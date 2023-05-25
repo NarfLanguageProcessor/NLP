@@ -1,0 +1,1 @@
+{"index": 337840, "D": "one of the main landmasses of the globe, usually reckoned as seven in number (Europe, Asia, Africa, North America, South America, Australia, and Antarctica).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297336, "D": "to incite (a dog) to attack", "S": [], "A": []}

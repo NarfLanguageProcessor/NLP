@@ -1,0 +1,1 @@
+{"index": 275338, "D": "causing sorrow or pity; pitiable; deplorable", "S": ["contrition", "penance", "repentance"], "A": ["approval", "comfort", "contentedness", "elevation", "happiness", "joy", "satisfaction"]}

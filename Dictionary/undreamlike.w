@@ -1,0 +1,1 @@
+{"index": 340829, "D": "a succession of images, thoughts, or emotions passing through the mind during sleep.", "S": [], "A": []}

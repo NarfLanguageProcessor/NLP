@@ -1,0 +1,1 @@
+{"index": 360332, "D": [], "S": ["basic", "interior", "intimate", "natural"], "A": ["outside"]}

@@ -1,0 +1,1 @@
+{"index": 171826, "D": "a vassal; subject.", "S": ["servant"], "A": ["master"]}

@@ -1,0 +1,1 @@
+{"index": 191326, "D": "the Fates. See fate (def. 6). ", "S": ["accident", "action", "case", "cause", "coincidence", "crisis", "detail", "event", "fact", "factor", "fate", "incident", "matter", "occurrence", "status", "thing", "time"], "A": ["plan", "whole"]}

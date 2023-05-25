@@ -1,0 +1,1 @@
+{"index": 215347, "D": "a seaport in and the capital of Norway, in the SE part, at the head of Oslo Fiord.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257845, "D": "a popular name for a member of the Society of Friends. ", "S": [], "A": []}

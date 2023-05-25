@@ -1,0 +1,1 @@
+{"index": 259836, "D": "a straight line extending from the center of a circle or sphere to the circumference or surface", "S": ["ambit", "boundary", "compass", "expanse", "extension", "extent", "interval", "limit", "orbit", "purview", "reach", "semidiameter", "space", "span", "spoke"], "A": []}

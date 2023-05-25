@@ -1,0 +1,1 @@
+{"index": 173327, "D": "composed of molecules that move freely among themselves but do not tend to separate like those of gases; neither gaseous nor solid.", "S": ["aqua", "broth", "elixir", "extract", "flow", "flux", "goo", "goop", "juice", "liquor", "nectar", "sap", "secretion", "slop", "solution", "swill"], "A": ["solid"]}

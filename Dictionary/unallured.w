@@ -1,0 +1,1 @@
+{"index": 334845, "D": "to attract or tempt by something flattering or desirable.", "S": [], "A": []}

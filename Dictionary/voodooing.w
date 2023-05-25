@@ -1,0 +1,1 @@
+{"index": 361344, "D": "Compare Hoodoo (def. 1), Santer\u00eda, Vodun, Vodou. ", "S": ["debase", "pervert"], "A": ["approve", "cherish", "clean", "commend", "exalt", "help", "praise", "protect", "purify"]}

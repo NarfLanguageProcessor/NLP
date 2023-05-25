@@ -1,0 +1,1 @@
+{"index": 363335, "D": "having a form, outline, or appearance resembling waves;  undulating.", "S": ["coiled", "curled", "fuzzy", "kinky", "wavy"], "A": ["straight"]}

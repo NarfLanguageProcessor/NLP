@@ -1,0 +1,1 @@
+{"index": 187844, "D": "a member of a North American Indian people belonging to the Teton branch of the Dakota Indians and originally inhabiting parts of Wyoming, South Dakota, and Nebraska.", "S": [], "A": []}

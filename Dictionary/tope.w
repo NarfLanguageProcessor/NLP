@@ -1,0 +1,1 @@
+{"index": 325839, "D": "to drink alcoholic liquor habitually and to excess.", "S": [], "A": []}

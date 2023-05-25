@@ -1,0 +1,1 @@
+{"index": 247827, "D": "of or relating to the time or a period prior to recorded history", "S": ["ancient", "archaic", "primeval", "primitive", "primordial"], "A": ["current", "modern", "new", "present", "young"]}

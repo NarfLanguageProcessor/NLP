@@ -1,0 +1,1 @@
+{"index": 270833, "D": "backward movement.", "S": ["atavism", "backsliding", "lapse", "regression", "relapse", "retrogression", "reverting", "throwback"], "A": []}

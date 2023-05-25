@@ -1,0 +1,1 @@
+{"index": 366844, "D": "beset with woe;  affected by woe, especially in appearance.", "S": [], "A": []}

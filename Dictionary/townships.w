@@ -1,0 +1,1 @@
+{"index": 326833, "D": "a unit of local government, usually a subdivision of a county, found in most midwestern and northeastern states of the U.S. and in most Canadian provinces.", "S": ["city", "county", "field", "locality", "neighborhood", "section", "sector", "square", "state", "territory", "zone"], "A": ["whole"]}

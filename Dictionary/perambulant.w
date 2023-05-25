@@ -1,0 +1,1 @@
+{"index": 230328, "D": [], "S": ["itinerant", "peripatetic", "roving", "vagabond", "vagrant"], "A": ["settled"]}

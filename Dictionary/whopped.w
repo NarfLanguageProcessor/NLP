@@ -1,0 +1,1 @@
+{"index": 365347, "D": "to strike forcibly.", "S": ["sock"], "A": ["compliment", "flattery", "praise"]}

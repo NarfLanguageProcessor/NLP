@@ -1,0 +1,1 @@
+{"index": 279830, "D": "a fast and agile running back,  often small in stature, skilled at eluding tacklers.", "S": [], "A": []}

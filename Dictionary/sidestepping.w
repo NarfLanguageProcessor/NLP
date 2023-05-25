@@ -1,0 +1,1 @@
+{"index": 289842, "D": "to step to one side.", "S": ["breakout", "departure", "desertion", "disappearance", "flight", "freedom", "liberation", "outbreak", "rescue", "withdrawal"], "A": ["arrival", "coming", "entrance", "stay", "staying", "directness", "meeting"]}

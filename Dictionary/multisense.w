@@ -1,0 +1,1 @@
+{"index": 195333, "D": "having more than one meaning.", "S": [], "A": []}

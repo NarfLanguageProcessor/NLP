@@ -1,0 +1,1 @@
+{"index": 233337, "D": "a potent substance, C19H20N2O2, used to reduce pain and inflammation in rheumatic diseases and gout, and used in veterinary medicine for musculoskeletal disorders.", "S": [], "A": []}

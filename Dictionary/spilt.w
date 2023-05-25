@@ -1,0 +1,1 @@
+{"index": 299825, "D": "a simple past tense and past participle of spill1. ", "S": ["discharge", "dribble", "empty", "flow", "overflow", "pour", "run out", "scatter", "spill over", "splash", "spray", "sprinkle", "squirt", "stream"], "A": ["collect", "gather"]}

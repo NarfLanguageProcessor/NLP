@@ -1,0 +1,1 @@
+{"index": 318348, "D": "a spore of certain rust fungi, which carries the fungus through the winter and which, on germination, produces the promycelium.", "S": [], "A": []}

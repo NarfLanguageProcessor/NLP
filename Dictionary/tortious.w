@@ -1,0 +1,1 @@
+{"index": 326326, "D": "of the nature of or pertaining to a tort.", "S": [], "A": []}

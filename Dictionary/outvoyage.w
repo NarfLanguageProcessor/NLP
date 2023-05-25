@@ -1,0 +1,1 @@
+{"index": 217833, "D": "a course of travel or passage, especially a long journey by water to a distant place.", "S": [], "A": []}

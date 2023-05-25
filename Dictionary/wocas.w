@@ -1,0 +1,1 @@
+{"index": 366831, "D": "a yellow pond lily, Nuphar polysepalum, of northwestern North America, having heart-shaped leaves and cup-shaped flowers.", "S": [], "A": []}

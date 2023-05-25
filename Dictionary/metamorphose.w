@@ -1,0 +1,1 @@
+{"index": 184825, "D": "to change the form or nature of; transform.", "S": ["mutate", "transmute"], "A": ["continue", "keep", "remain", "stay"]}

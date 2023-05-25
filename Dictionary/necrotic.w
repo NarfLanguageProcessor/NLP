@@ -1,0 +1,1 @@
+{"index": 197842, "D": "(of animal or plant tissue) dead or dying", "S": ["dangerous", "destructive", "devastating", "fatal", "harmful", "malignant", "mortal", "murderous", "noxious", "pernicious", "poisonous", "virulent"], "A": ["harmless", "healthy", "helpful", "kind", "wholesome"]}

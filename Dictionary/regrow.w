@@ -1,0 +1,1 @@
+{"index": 265848, "D": "to grow or be grown again after having been cut or having died or withered", "S": ["bosk", "copse", "firth", "forest", "grove", "growth", "thicket", "underwood", "wood", "woodland"], "A": []}

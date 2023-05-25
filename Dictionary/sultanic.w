@@ -1,0 +1,1 @@
+{"index": 310846, "D": "the sovereign of an Islamic country.", "S": [], "A": []}

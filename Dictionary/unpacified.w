@@ -1,0 +1,1 @@
+{"index": 347326, "D": "to bring or restore to a state of peace  or tranquility; quiet; calm", "S": [], "A": []}

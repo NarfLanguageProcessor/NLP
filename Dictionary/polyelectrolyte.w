@@ -1,0 +1,1 @@
+{"index": 241832, "D": "an electrolyte  of high molecular weight, usually polymeric, either natural or synthetic.", "S": [], "A": []}

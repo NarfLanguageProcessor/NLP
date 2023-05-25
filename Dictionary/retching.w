@@ -1,0 +1,1 @@
+{"index": 270343, "D": "to make efforts to vomit.", "S": ["airsickness", "biliousness", "car sickness", "mal de mer", "motion sickness", "nauseousness", "qualms", "queasiness", "regurgitation", "seasickness", "sickness", "squeamishness", "vomiting"], "A": ["relish", "fondness", "liking", "partiality", "predilection", "preference", "taste"]}

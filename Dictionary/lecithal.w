@@ -1,0 +1,1 @@
+{"index": 169828, "D": "having a yolk, as certain eggs or ova.", "S": [], "A": []}

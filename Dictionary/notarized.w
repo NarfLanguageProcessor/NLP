@@ -1,0 +1,1 @@
+{"index": 208834, "D": "to certify (a document, contract, etc.) or cause to become certified through a notary public. ", "S": ["approved", "backed", "ratified", "recommended", "sanctioned", "settled", "supported"], "A": ["disapproved", "discouraged"]}

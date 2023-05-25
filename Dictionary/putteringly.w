@@ -1,0 +1,1 @@
+{"index": 257343, "D": "to busy or occupy oneself in a leisurely, casual, or ineffective manner", "S": [], "A": []}

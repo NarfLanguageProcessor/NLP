@@ -1,0 +1,1 @@
+{"index": 310337, "D": "a set of clothing, armor, or the like, intended for wear together.", "S": ["apparel", "attire", "closet", "dresser", "trunk"], "A": []}

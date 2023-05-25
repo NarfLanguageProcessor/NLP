@@ -1,0 +1,1 @@
+{"index": 308843, "D": "situated under the pleura.", "S": [], "A": []}

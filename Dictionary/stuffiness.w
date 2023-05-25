@@ -1,0 +1,1 @@
+{"index": 306829, "D": "close; poorly ventilated", "S": ["arrogance"], "A": ["humility", "modesty"]}

@@ -1,0 +1,1 @@
+{"index": 227347, "D": "a member of the \u201cCongregation of Barefooted Clerks of the Most Holy Cross and Passion of Our Lord Jesus Christ,\u201d founded in 1720 and engaged chiefly in missionary work.", "S": [], "A": []}

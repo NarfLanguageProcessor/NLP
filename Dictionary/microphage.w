@@ -1,0 +1,1 @@
+{"index": 186348, "D": "a small phagocytic cell in blood or lymph, especially a polymorphonuclear leukocyte.", "S": [], "A": []}

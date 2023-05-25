@@ -1,0 +1,1 @@
+{"index": 252332, "D": "advancement in rank or position.", "S": ["PR", "hype", "image management", "marketing", "propaganda", "publicity"], "A": []}

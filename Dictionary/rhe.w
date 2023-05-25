@@ -1,0 +1,1 @@
+{"index": 271829, "D": "a centimeter-gram-second unit of fluidity, equal to the reciprocal of poise.", "S": [], "A": []}

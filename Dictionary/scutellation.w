@@ -1,0 +1,1 @@
+{"index": 282331, "D": "a scutellate state or formation; a scaly covering, as on a bird's foot.", "S": [], "A": []}

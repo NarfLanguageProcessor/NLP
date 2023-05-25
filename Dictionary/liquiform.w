@@ -1,0 +1,1 @@
+{"index": 173335, "D": [], "S": ["damp", "melted", "running", "smooth", "solvent", "splashing", "succulent", "wet"], "A": ["broken", "dry", "intermittent"]}

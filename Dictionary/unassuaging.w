@@ -1,0 +1,1 @@
+{"index": 335342, "D": "to make milder or less severe; alleviate; ease; mitigate", "S": [], "A": []}

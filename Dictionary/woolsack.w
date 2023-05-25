@@ -1,0 +1,1 @@
+{"index": 367340, "D": "a sack or bag of wool.", "S": ["buffer", "headrest", "mat"], "A": []}

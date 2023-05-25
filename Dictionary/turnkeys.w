@@ -1,0 +1,1 @@
+{"index": 332844, "D": "a person who has charge of the keys  of a prison; jailer.", "S": ["guard", "warden"], "A": []}

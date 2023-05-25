@@ -1,0 +1,1 @@
+{"index": 202834, "D": "capable of being delegated", "S": [], "A": []}

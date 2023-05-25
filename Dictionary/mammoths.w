@@ -1,0 +1,1 @@
+{"index": 178842, "D": "any large, elephantlike mammal of the extinct genus Mammuthus, from the Pleistocene Epoch, having hairy skin and ridged molar teeth.", "S": ["demon", "devil"], "A": []}

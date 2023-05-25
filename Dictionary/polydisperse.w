@@ -1,0 +1,1 @@
+{"index": 241825, "D": "of or noting a sol that contains particles of different sizes.", "S": [], "A": []}

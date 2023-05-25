@@ -1,0 +1,1 @@
+{"index": 239830, "D": "Compare dichroism (def. 1), trichroism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228836, "D": "a person who goes or travels on foot; walker.", "S": ["banal", "humdrum", "mediocre", "mundane", "plodding", "prosaic"], "A": ["exciting", "extraordinary", "unusual", "uncommon"]}

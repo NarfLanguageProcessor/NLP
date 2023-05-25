@@ -1,0 +1,1 @@
+{"index": 190837, "D": "Compare crossjack, spanker (def. 1a). ", "S": ["behind", "following", "hind", "hinder", "last", "posterior", "postern", "rearward", "reverse", "stern", "tail"], "A": ["first", "front", "preceding"]}

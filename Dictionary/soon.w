@@ -1,0 +1,1 @@
+{"index": 297339, "D": "within a short period after this or that time, event, etc.", "S": ["directly", "early", "instantly", "promptly", "quickly", "rapidly", "shortly", "speedily"], "A": ["late", "later"]}

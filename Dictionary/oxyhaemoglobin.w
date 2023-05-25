@@ -1,0 +1,1 @@
+{"index": 222335, "D": "the bright red product formed when oxygen from the lungs combines with haemoglobin in the blood", "S": [], "A": []}

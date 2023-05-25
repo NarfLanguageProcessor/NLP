@@ -1,0 +1,1 @@
+{"index": 335343, "D": "soothing; alleviative.", "S": [], "A": []}

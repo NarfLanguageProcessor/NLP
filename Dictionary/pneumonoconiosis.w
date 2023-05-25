@@ -1,0 +1,1 @@
+{"index": 240835, "D": "pneumoconiosis. ", "S": [], "A": []}

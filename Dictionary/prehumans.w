@@ -1,0 +1,1 @@
+{"index": 247843, "D": "preceding the appearance or existence of human  beings", "S": ["broken thread", "omission", "protohuman"], "A": []}

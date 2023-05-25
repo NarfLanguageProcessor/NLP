@@ -1,0 +1,1 @@
+{"index": 294826, "D": "to fuse or melt (ore) in order to separate the metal contained.", "S": ["blend", "coalesce", "combine", "dissolve", "integrate", "melt", "merge", "mingle", "weld"], "A": ["coagulate", "disconnect", "divide", "part", "separate", "solidify"]}

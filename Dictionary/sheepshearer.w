@@ -1,0 +1,1 @@
+{"index": 287842, "D": "an act or instance of shearing sheep.", "S": [], "A": []}

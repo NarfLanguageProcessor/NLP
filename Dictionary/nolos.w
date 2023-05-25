@@ -1,0 +1,1 @@
+{"index": 200826, "D": "(in a criminal case) a defendant's pleading that does not admit guilt but subjects them to punishment as though a guilty plea had been entered, the determination of guilt remaining open in other proceedings.", "S": [], "A": []}

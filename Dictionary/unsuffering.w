@@ -1,0 +1,1 @@
+{"index": 352330, "D": "the state of a person or thing that suffers. ", "S": [], "A": []}

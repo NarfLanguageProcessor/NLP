@@ -1,0 +1,1 @@
+{"index": 340834, "D": "to take the clothes off (a person); disrobe.", "S": ["disrobe", "unmask"], "A": ["cover"]}

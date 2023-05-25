@@ -1,0 +1,1 @@
+{"index": 193825, "D": "a cooperative community in Israel made up of small farm units.", "S": [], "A": []}

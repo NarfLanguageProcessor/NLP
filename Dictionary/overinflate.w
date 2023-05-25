@@ -1,0 +1,1 @@
+{"index": 219845, "D": "to distend; swell or puff out; dilate", "S": [], "A": []}

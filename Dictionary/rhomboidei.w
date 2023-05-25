@@ -1,0 +1,1 @@
+{"index": 272345, "D": "either of two back muscles that function to move the scapula.", "S": [], "A": []}

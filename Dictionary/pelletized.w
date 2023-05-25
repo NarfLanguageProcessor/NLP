@@ -1,0 +1,1 @@
+{"index": 229328, "D": "to make or form (concentrated ore) into pellets. ", "S": [], "A": []}

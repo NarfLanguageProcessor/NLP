@@ -1,0 +1,1 @@
+{"index": 309328, "D": "an atom or atomic group that takes the place of another atom or group present in the molecule of the original compound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259845, "D": "a chemically inert, radioactive gaseous element produced by the decay of radium", "S": [], "A": []}

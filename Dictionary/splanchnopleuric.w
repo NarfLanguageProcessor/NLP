@@ -1,0 +1,1 @@
+{"index": 300345, "D": "the double layer formed by the association of the lower layer of the lateral plate of mesoderm with the underlying entoderm, which develops into the embryonic viscera.", "S": [], "A": []}

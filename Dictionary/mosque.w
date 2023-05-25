@@ -1,0 +1,1 @@
+{"index": 193842, "D": "a Muslim temple or place of public worship.", "S": ["chapel", "church", "holy place", "house of worship", "place of worship", "sanctuary", "shrine", "synagogue"], "A": []}

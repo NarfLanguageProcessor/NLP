@@ -1,0 +1,1 @@
+{"index": 334326, "D": "to encourage, support, or countenance by aid or approval, usually in wrongdoing", "S": [], "A": []}

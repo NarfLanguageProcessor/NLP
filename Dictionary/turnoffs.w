@@ -1,0 +1,1 @@
+{"index": 332847, "D": "a small road that branches off from a larger one, especially a ramp or exit leading off a major highway", "S": ["bore", "deterrent", "drag", "nuisance", "pain"], "A": []}

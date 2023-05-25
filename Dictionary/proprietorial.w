@@ -1,0 +1,1 @@
+{"index": 252846, "D": "the owner of a business establishment, a hotel, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199829, "D": "a clenched or closed hand; fist.", "S": [], "A": []}

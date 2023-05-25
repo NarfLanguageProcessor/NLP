@@ -1,0 +1,1 @@
+{"index": 210836, "D": "government by the mob; mob rule; mobocracy.", "S": ["criminal syndicalism", "gang rule", "kangaroo court", "mob law", "mob rule", "mobocracy", "reign of terror", "syndicalism"], "A": []}

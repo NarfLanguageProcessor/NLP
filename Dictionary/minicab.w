@@ -1,0 +1,1 @@
+{"index": 187836, "D": "a minicar that serves as a taxicab.", "S": [], "A": []}

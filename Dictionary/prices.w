@@ -1,0 +1,1 @@
+{"index": 250347, "D": "the sum or amount of money or its equivalent for which anything is bought, sold, or offered for sale.", "S": ["amount", "bill", "cost", "demand", "discount", "estimate", "expenditure", "expense", "fare", "fee", "figure", "output", "pay", "payment", "premium", "rate", "return", "tariff", "valuation", "worth"], "A": ["penalty", "punishment"]}

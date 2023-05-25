@@ -1,0 +1,1 @@
+{"index": 304835, "D": "rousing, exciting, or thrilling", "S": ["act", "gesture", "passage"], "A": ["idleness", "stagnation"]}

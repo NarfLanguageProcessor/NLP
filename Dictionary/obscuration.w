@@ -1,0 +1,1 @@
+{"index": 210337, "D": "the act of obscuring. ", "S": ["beard", "blind", "camouflage", "cover", "cover-up", "covering", "curtain", "disguise", "dissimulation", "front", "hideaway", "laundromat", "mask", "obliteration", "occultation", "privacy", "secretion", "veil", "wraps"], "A": ["disclosure", "divulgence", "exposition", "revelation", "showing", "telling"]}

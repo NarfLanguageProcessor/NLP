@@ -1,0 +1,1 @@
+{"index": 269830, "D": "any cautious, defeatist, or cynical attitude based on the belief that the individual and human institutions exist in a hostile or indifferent universe or society.", "S": [], "A": []}

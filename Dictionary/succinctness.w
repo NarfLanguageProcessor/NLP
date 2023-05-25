@@ -1,0 +1,1 @@
+{"index": 309844, "D": "expressed in few words; concise; terse. ", "S": ["conciseness", "concision", "condensation", "crispness", "curtness", "economy", "ephemerality", "impermanence", "pithiness", "pointedness", "terseness", "transience", "transitoriness"], "A": ["lengthiness", "longevity", "permanence"]}

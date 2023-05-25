@@ -1,0 +1,1 @@
+{"index": 356842, "D": "(in Europe) the value of a currency expressed in terms of its rate of exchange with another currency.", "S": [], "A": []}

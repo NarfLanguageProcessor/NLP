@@ -1,0 +1,1 @@
+{"index": 307833, "D": "quiet; inhibited; repressed; controlled", "S": ["hushed", "low-key", "mellow", "muted", "restrained", "sober", "solemn", "unobtrusive"], "A": ["cheerful", "happy"]}

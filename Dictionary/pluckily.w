@@ -1,0 +1,1 @@
+{"index": 240329, "D": "having or showing pluck  or courage; brave", "S": [], "A": []}

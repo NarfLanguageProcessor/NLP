@@ -1,0 +1,1 @@
+{"index": 231329, "D": "the nutritive tissue surrounding the embryo in certain seeds, and developing from the nucellus of the ovule", "S": [], "A": []}

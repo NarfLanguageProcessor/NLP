@@ -1,0 +1,1 @@
+{"index": 265829, "D": "to feel sorrow or remorse for (an act, fault, disappointment, etc.)", "S": ["grumbling", "protesting", "whining"], "A": ["appreciating", "enjoying", "praising"]}

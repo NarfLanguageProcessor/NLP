@@ -1,0 +1,1 @@
+{"index": 289344, "D": "a person who shuffles. ", "S": [], "A": []}

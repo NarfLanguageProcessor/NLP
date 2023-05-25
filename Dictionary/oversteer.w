@@ -1,0 +1,1 @@
+{"index": 221340, "D": "handling of an automotive vehicle that causes turns that are sharper than the driver intends because the rear wheels slide to the outside of the turn before the front wheels lose traction.", "S": [], "A": []}

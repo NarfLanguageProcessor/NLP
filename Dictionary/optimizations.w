@@ -1,0 +1,1 @@
+{"index": 213835, "D": [], "S": ["boost", "development", "escalation", "expansion", "gain", "hike", "increment", "inflation", "merger", "raise", "rise", "surge", "upsurge", "upturn"], "A": ["decline", "decrease", "drop", "loss", "shrinkage", "abridgment", "compression", "reduction"]}

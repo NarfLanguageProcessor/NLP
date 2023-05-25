@@ -1,0 +1,1 @@
+{"index": 219347, "D": "to perceive or examine by touch.", "S": [], "A": []}

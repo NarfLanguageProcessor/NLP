@@ -1,0 +1,1 @@
+{"index": 349844, "D": "to make known; disclose; divulge", "S": ["ambiguous", "careful", "cautious", "circumspect", "discreet", "equivocal", "evasive", "judicious", "neutral", "tactful", "vague", "wary"], "A": ["careless", "certain", "clear", "decisive", "definite", "foolish", "hasty", "heedless", "incautious", "indiscreet", "positive", "rash", "reckless", "sure"]}

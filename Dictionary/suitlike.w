@@ -1,0 +1,1 @@
+{"index": 310331, "D": "a set of clothing, armor, or the like, intended for wear together.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262331, "D": "a new or second birth", "S": ["comeback", "recovery", "rehabilitation", "rejuvenation", "renaissance", "renewal", "restoration", "revival"], "A": ["destruction"]}

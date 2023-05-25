@@ -1,0 +1,1 @@
+{"index": 289834, "D": "something that is uproariously funny, as a joke or a situation.", "S": ["good one", "guffaw", "hoot", "howler", "rib-tickler", "riot", "roar", "scream", "thigh-slapper", "wow"], "A": []}

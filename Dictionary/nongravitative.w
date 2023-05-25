@@ -1,0 +1,1 @@
+{"index": 204344, "D": "of or relating to gravitation. ", "S": [], "A": []}

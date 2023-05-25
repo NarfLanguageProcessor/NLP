@@ -1,0 +1,1 @@
+{"index": 276831, "D": "enrolled among the saints. ", "S": ["divine", "hallowed", "humble", "pure", "revered", "righteous", "spiritual", "sublime"], "A": ["corrupt", "irreligious", "bad", "dishonest", "evil", "immoral", "imprecise", "impure", "inaccurate", "incomplete", "sinful", "uncertain", "unreliable", "unvirtuous", "vile"]}

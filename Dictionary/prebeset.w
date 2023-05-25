@@ -1,0 +1,1 @@
+{"index": 245845, "D": "to attack on all sides; assail. ", "S": [], "A": []}

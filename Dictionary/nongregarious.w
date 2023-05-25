@@ -1,0 +1,1 @@
+{"index": 204349, "D": "fond of the company of others; sociable.", "S": ["humble", "quiet", "reserved", "restrained", "shrinking", "withdrawing", "withdrawn"], "A": ["bold", "extroverted", "friendly", "outgoing", "sociable"]}

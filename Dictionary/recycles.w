@@ -1,0 +1,1 @@
+{"index": 262843, "D": "to treat or process (used or waste materials) so as to make suitable for reuse", "S": ["convert"], "A": ["endanger", "harm", "hurt", "lose", "waste"]}

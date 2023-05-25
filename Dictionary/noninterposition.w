@@ -1,0 +1,1 @@
+{"index": 204825, "D": "the act or fact of interposing  or the condition of being interposed. ", "S": [], "A": []}

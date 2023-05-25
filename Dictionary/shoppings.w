@@ -1,0 +1,1 @@
+{"index": 288843, "D": "the act of a person who shops. ", "S": ["browsing", "e-commerce", "spending"], "A": []}

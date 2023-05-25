@@ -1,0 +1,1 @@
+{"index": 322335, "D": "insertion of a hollow needle or similar instrument into the pleural cavity of the chest in order to drain pleural fluid.", "S": [], "A": []}

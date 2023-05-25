@@ -1,0 +1,1 @@
+{"index": 251333, "D": "an official, usually a former consul, who acted as governor or military commander of a province, and who had powers similar to those of a consul.", "S": [], "A": []}

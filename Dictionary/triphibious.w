@@ -1,0 +1,1 @@
+{"index": 330349, "D": "employing or involving land, naval, and air forces in a combined operation.", "S": [], "A": []}

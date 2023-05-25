@@ -1,0 +1,1 @@
+{"index": 347336, "D": "to undo or remove the contents from (a box, trunk, etc.).", "S": ["take out", "unload"], "A": ["fill", "load", "pack"]}

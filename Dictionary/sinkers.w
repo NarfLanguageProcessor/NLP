@@ -1,0 +1,1 @@
+{"index": 291827, "D": "a person or thing that sinks. ", "S": ["bun", "pastry"], "A": []}

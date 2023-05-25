@@ -1,0 +1,1 @@
+{"index": 187333, "D": "a cereal grass, Setaria italica, extensively cultivated in the East and in southern Europe for its small seed, or grain, used as food for humans and fowls, but in the U.S. grown chiefly for fodder.", "S": [], "A": []}

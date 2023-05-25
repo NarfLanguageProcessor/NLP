@@ -1,0 +1,1 @@
+{"index": 165330, "D": "a Greek or Albanian brigand, exalted in the war of Greek independence as a patriotic robber; guerrilla.", "S": [], "A": []}

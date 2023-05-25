@@ -1,0 +1,1 @@
+{"index": 187838, "D": "a lightweight, handheld television camera.", "S": [], "A": []}

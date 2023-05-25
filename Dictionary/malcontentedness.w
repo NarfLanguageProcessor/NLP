@@ -1,0 +1,1 @@
+{"index": 178330, "D": "not satisfied or content  with currently prevailing conditions or circumstances.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283830, "D": "denoting a weight of typeface between medium and bold face", "S": [], "A": []}

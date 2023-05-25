@@ -1,0 +1,1 @@
+{"index": 246841, "D": "of or relating to predestination. ", "S": ["acceptance", "determinism", "passivity", "predestination", "stoicism"], "A": []}

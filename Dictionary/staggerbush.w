@@ -1,0 +1,1 @@
+{"index": 302328, "D": "an ericaceous deciduous shrub, Lyonia mariana, of E North America, having white or pinkish flowers", "S": [], "A": []}

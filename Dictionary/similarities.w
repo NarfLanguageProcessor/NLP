@@ -1,0 +1,1 @@
+{"index": 290831, "D": "the state of being similar;  likeness; resemblance.", "S": ["affinity", "analogy", "closeness", "coincidence", "comparison", "connection", "correlation", "harmony", "kinship", "parallel", "relationship", "resemblance", "sameness"], "A": ["clash", "difference", "disagreement", "disconnection", "dissimilarity", "divergence", "imbalance", "opposition"]}

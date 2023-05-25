@@ -1,0 +1,1 @@
+{"index": 365847, "D": "to become limp and drooping, as a fading flower; wither. ", "S": ["angled", "arced", "arched", "bowed", "contorted", "crooked", "drooping", "hooked", "humped", "hunched", "inclined", "limp", "looped", "round", "rounded", "slumped", "stooped", "twined", "twisted", "warped"], "A": ["straight"]}

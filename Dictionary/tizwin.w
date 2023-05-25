@@ -1,0 +1,1 @@
+{"index": 324828, "D": "a fermented beverage made by the Apache people.", "S": [], "A": []}

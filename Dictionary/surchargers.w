@@ -1,0 +1,1 @@
+{"index": 313333, "D": "an additional charge, tax, or cost.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220825, "D": "to control or direct by a rule, principle, method, etc.", "S": [], "A": []}

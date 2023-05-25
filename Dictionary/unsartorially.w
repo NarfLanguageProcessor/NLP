@@ -1,0 +1,1 @@
+{"index": 350344, "D": "of or relating to tailors or their trade", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206826, "D": "to revive, especially from apparent death or from unconsciousness.", "S": [], "A": []}

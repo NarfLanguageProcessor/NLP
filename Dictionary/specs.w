@@ -1,0 +1,1 @@
+{"index": 298842, "D": "spectacles; eyeglasses.", "S": ["advice", "advisement", "assignment", "briefing", "directive", "guidelines", "indication", "lowdown", "notification", "plan", "prescription", "recommendation", "regulation", "sealed order", "specification", "steer", "summons", "tip", "word"], "A": []}

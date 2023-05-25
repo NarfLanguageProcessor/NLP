@@ -1,0 +1,1 @@
+{"index": 180836, "D": "the muscular pharynx of a rotifer, containing a chewing apparatus.", "S": [], "A": []}

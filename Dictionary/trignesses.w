@@ -1,0 +1,1 @@
+{"index": 329830, "D": "trigonometry. ", "S": [], "A": []}

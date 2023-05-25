@@ -1,0 +1,1 @@
+{"index": 256826, "D": "Compare hand puppet, marionette. ", "S": ["doll", "figurine", "marionette"], "A": []}

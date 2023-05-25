@@ -1,0 +1,1 @@
+{"index": 215339, "D": "the king and judge of the dead, the husband and brother of Isis, and father (or brother) of Horus, killed by Set but later resurrected (after Horus killed Set)", "S": [], "A": []}

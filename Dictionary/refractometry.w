@@ -1,0 +1,1 @@
+{"index": 265326, "D": [], "S": ["Roentgen rays", "R\u00f6ntgen rays", "radioactivity"], "A": []}

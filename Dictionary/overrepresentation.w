@@ -1,0 +1,1 @@
+{"index": 220843, "D": "to give too much representation to; represent in numbers that are disproportionately high.", "S": [], "A": []}

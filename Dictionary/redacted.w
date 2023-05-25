@@ -1,0 +1,1 @@
+{"index": 263843, "D": "(of a document) with confidential or sensitive information removed or hidden", "S": ["adjusted", "amended", "improved", "updated"], "A": ["kept"]}

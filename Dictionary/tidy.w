@@ -1,0 +1,1 @@
+{"index": 323341, "D": "neat, orderly, or trim, as in appearance or dress", "S": ["orderly", "sleek", "snug", "well-kept"], "A": ["unkempt"]}

@@ -1,0 +1,1 @@
+{"index": 228841, "D": "the exercise or practice of walking.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346826, "D": "in a condition of need or want; extremely poor and not having the basic necessities", "S": [], "A": []}

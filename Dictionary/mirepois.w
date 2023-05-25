@@ -1,0 +1,1 @@
+{"index": 188349, "D": "a flavoring made from diced vegetables, seasonings, herbs, and sometimes meat, often placed in a pan to cook with meat or fish.", "S": [], "A": []}

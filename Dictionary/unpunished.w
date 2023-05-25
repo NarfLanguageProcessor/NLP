@@ -1,0 +1,1 @@
+{"index": 348830, "D": "not receiving or having received a penalty or sanction as punishment for any crime or offence", "S": [], "A": []}

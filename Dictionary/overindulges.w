@@ -1,0 +1,1 @@
+{"index": 219837, "D": "to indulge  to excess", "S": ["cater", "cherish", "coddle", "cosset", "cuddle", "dandle", "foster", "humor", "indulge", "mollycoddle", "nurse", "pamper", "pet", "please", "satisfy", "serve", "spoil"], "A": ["anger", "disappoint", "hurt", "ignore", "neglect", "refuse", "upset"]}

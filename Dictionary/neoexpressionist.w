@@ -1,0 +1,1 @@
+{"index": 198338, "D": "an art movement, chiefly in painting, that developed in Germany, Italy, and the U.S. in the late 1970s, emphasized large heavy forms and thick impasto, and typically dealt with historical narrative in terms of symbolism, allegory, and myth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356348, "D": "Also called", "S": ["globetrotter", "sightseer", "tourer", "traveler", "voyager", "wayfarer"], "A": []}

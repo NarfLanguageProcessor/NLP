@@ -1,0 +1,1 @@
+{"index": 302326, "D": "an adult male deer.", "S": ["discover", "examine", "scrutinize", "snoop"], "A": ["ignore", "miss", "neglect", "overlook"]}

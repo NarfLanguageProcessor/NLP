@@ -1,0 +1,1 @@
+{"index": 250842, "D": "an officer or sailor of a privateer. ", "S": [], "A": []}

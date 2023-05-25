@@ -1,0 +1,1 @@
+{"index": 246339, "D": "a conception  or opinion formed beforehand.", "S": ["assumption", "predisposition", "prejudice"], "A": ["certainty", "fact", "reality", "truth"]}

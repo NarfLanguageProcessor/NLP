@@ -1,0 +1,1 @@
+{"index": 189845, "D": "to despise; undervalue; slight; scorn.", "S": ["abhor", "deride", "detest", "disdain", "eschew", "hate", "loathe", "neglect", "reject", "repudiate", "revile", "scorn", "shun", "snub", "undervalue"], "A": ["accept", "admire", "adore", "approve", "cherish", "like", "love", "praise", "respect"]}

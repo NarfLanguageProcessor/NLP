@@ -1,0 +1,1 @@
+{"index": 312838, "D": "the state of being one; oneness.", "S": [], "A": []}

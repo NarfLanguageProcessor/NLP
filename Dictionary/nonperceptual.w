@@ -1,0 +1,1 @@
+{"index": 205844, "D": "of, relating to, or involving perception. ", "S": [], "A": []}

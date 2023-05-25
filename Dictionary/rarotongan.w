@@ -1,0 +1,1 @@
+{"index": 260844, "D": "one of the Cook Islands, in the S Pacific, 26 sq. mi. (67 sq. km).", "S": [], "A": []}

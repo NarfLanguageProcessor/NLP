@@ -1,0 +1,1 @@
+{"index": 294346, "D": "a person or thing that slopes. ", "S": [], "A": []}

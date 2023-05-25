@@ -1,0 +1,1 @@
+{"index": 305342, "D": "traffic light. ", "S": ["red light", "traffic control", "yellow light"], "A": []}

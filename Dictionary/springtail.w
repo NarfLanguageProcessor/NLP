@@ -1,0 +1,1 @@
+{"index": 301333, "D": "any of numerous minute, wingless primitive insects of the order Collembola, most possessing a special abdominal appendage for jumping that allows for the nearly perpetual springing  pattern characteristic of the group.", "S": [], "A": []}

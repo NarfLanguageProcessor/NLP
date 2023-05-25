@@ -1,0 +1,1 @@
+{"index": 223346, "D": "the study of fossil animals and plants in order to deduce their ecology and the environmental conditions in which they lived", "S": [], "A": []}

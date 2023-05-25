@@ -1,0 +1,1 @@
+{"index": 337334, "D": "of or relating to commutation, exchange, substitution, or interchange.", "S": [], "A": []}

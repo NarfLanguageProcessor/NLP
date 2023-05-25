@@ -1,0 +1,1 @@
+{"index": 204325, "D": "(of a sentence or expression) not conforming to the grammatical  rules of a given language.", "S": [], "A": []}

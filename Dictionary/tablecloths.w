@@ -1,0 +1,1 @@
+{"index": 314829, "D": "a cloth  for covering the top of a table,  especially during a meal.", "S": ["felt", "napery", "napkins", "place mat", "table mat", "table napkin", "table pad", "table runner"], "A": []}

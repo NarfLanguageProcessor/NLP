@@ -1,0 +1,1 @@
+{"index": 289340, "D": "to walk without lifting the feet or with clumsy steps and a shambling gait.", "S": ["drag", "limp", "straggle", "stumble"], "A": ["rush"]}

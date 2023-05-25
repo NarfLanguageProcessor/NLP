@@ -1,0 +1,1 @@
+{"index": 294337, "D": "Compare cutter (def. 3), knockabout (def. 1). ", "S": ["barge", "canoe", "catamaran", "craft", "dinghy", "gondola", "raft", "sailboat", "schooner", "ship", "yacht"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368348, "D": "the influence or effect of pollen on a structure other than the embryo, as the seed or fruit.", "S": [], "A": []}

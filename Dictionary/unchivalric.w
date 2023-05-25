@@ -1,0 +1,1 @@
+{"index": 336826, "D": "pertaining to chivalry; chivalrous. ", "S": [], "A": []}

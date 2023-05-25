@@ -1,0 +1,1 @@
+{"index": 180330, "D": "the practices, principles, or condition characteristic of the Marranos. ", "S": [], "A": []}

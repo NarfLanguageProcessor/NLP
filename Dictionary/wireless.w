@@ -1,0 +1,1 @@
+{"index": 366345, "D": "having no wire. ", "S": ["cellular", "mobile"], "A": ["wired"]}

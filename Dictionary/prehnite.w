@@ -1,0 +1,1 @@
+{"index": 247832, "D": "a mineral, hydrous calcium aluminum silicate, Ca2Al2Si3O10(OH)2, occurring in light-green reniform aggregates or tabular crystals.", "S": [], "A": []}

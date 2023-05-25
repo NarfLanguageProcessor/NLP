@@ -1,0 +1,1 @@
+{"index": 363349, "D": "a small wave;  ripple.", "S": [], "A": []}

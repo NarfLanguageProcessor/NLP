@@ -1,0 +1,1 @@
+{"index": 251841, "D": "capable of having offspring; reproductive.", "S": [], "A": []}

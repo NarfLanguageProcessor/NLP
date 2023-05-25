@@ -1,0 +1,1 @@
+{"index": 333838, "D": "in the end; at last; finally", "S": ["basically", "conclusively", "finally", "someday", "sooner or later"], "A": ["never"]}

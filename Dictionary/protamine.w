@@ -1,0 +1,1 @@
+{"index": 253329, "D": "any of a group of arginine-rich, strongly basic proteins that are not coagulated by heat, occurring primarily in the sperm of fish.", "S": [], "A": []}

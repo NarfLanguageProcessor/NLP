@@ -1,0 +1,1 @@
+{"index": 262341, "D": "a solid mass of wood, stone, etc., usually with one or more flat or approximately flat faces.", "S": [], "A": []}

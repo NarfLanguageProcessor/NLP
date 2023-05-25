@@ -1,0 +1,1 @@
+{"index": 273833, "D": "pertaining to asking or requesting", "S": [], "A": []}

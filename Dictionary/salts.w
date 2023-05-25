@@ -1,0 +1,1 @@
+{"index": 277343, "D": "any of various mineral salts, such as magnesium sulphate or sodium sulphate, for use as a cathartic", "S": ["alkali", "spirits", "vapor"], "A": []}

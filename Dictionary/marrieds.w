@@ -1,0 +1,1 @@
+{"index": 180348, "D": "united in wedlock; wedded", "S": [], "A": []}

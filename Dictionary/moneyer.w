@@ -1,0 +1,1 @@
+{"index": 191836, "D": "a person employed in the authorized coining of money. ", "S": ["budgetary", "economic", "financial"], "A": []}

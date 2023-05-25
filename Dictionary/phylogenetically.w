@@ -1,0 +1,1 @@
+{"index": 233837, "D": "the development or evolution of a particular group of organisms.", "S": [], "A": []}

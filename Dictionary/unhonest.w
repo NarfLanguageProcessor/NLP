@@ -1,0 +1,1 @@
+{"index": 343826, "D": [], "S": ["cagey", "crafty", "shrewd", "slippery", "sneaky", "tricky", "wily"], "A": ["aboveboard", "frank", "honest", "naive"]}

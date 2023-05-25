@@ -1,0 +1,1 @@
+{"index": 250825, "D": "an archaic spelling of prithee. ", "S": [], "A": []}

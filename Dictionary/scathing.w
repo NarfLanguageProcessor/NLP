@@ -1,0 +1,1 @@
+{"index": 279840, "D": "bitterly severe, as a remark", "S": ["biting", "caustic", "harsh", "mordant", "sarcastic", "scorching", "searing", "trenchant", "withering"], "A": ["calm", "gentle", "kind", "mild", "nice"]}

@@ -1,0 +1,1 @@
+{"index": 306849, "D": [], "S": ["BS", "babble", "balderdash", "baloney", "bull", "bunk", "chatter", "crap", "drivel", "foolishness", "gibberish", "hogwash", "hooey", "jive", "palaver", "poppycock", "prattle", "rubbish", "silliness", "trash", "tripe"], "A": ["sense", "truth"]}

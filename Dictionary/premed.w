@@ -1,0 +1,1 @@
+{"index": 248330, "D": "a program of premedical  study or training.", "S": [], "A": []}

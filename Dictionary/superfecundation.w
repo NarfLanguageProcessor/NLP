@@ -1,0 +1,1 @@
+{"index": 311832, "D": "the fertilization of two or more ova discharged at the same ovulation by successive acts of sexual intercourse.", "S": [], "A": []}

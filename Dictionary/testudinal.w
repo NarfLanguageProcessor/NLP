@@ -1,0 +1,1 @@
+{"index": 319841, "D": "pertaining to or resembling a tortoise or tortoise shell.", "S": ["tortoise"], "A": []}

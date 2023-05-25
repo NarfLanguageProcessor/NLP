@@ -1,0 +1,1 @@
+{"index": 322832, "D": "a lever, pedal, handle, etc., for controlling or manipulating a throttle valve. ", "S": ["burke", "control", "gag", "inhibit", "silence", "smother", "stifle", "strangle", "strangulate", "suppress"], "A": ["encourage", "free", "help", "let go"]}

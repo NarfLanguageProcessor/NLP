@@ -1,0 +1,1 @@
+{"index": 346334, "D": "to go from one country, region, or place to another.", "S": [], "A": []}

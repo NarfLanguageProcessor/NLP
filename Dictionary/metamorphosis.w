@@ -1,0 +1,1 @@
+{"index": 184834, "D": "Compare complete metamorphosis. ", "S": ["evolution", "rebirth"], "A": ["stagnation"]}

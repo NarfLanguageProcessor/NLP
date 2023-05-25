@@ -1,0 +1,1 @@
+{"index": 344834, "D": "(of a cell) having one nucleus.", "S": [], "A": []}

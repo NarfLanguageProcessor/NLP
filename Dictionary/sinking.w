@@ -1,0 +1,1 @@
+{"index": 291836, "D": "a sinking feeling", "S": ["dropping", "drowning", "fading", "falling", "immersing", "submerging"], "A": []}

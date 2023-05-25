@@ -1,0 +1,1 @@
+{"index": 302334, "D": "tending to stagger  or overwhelm", "S": ["awfully", "badly", "decidedly", "desperately", "dreadfully", "exceedingly", "extremely", "greatly", "highly", "horribly", "intensely", "mightily", "notoriously", "remarkably", "seriously", "thoroughly", "unbelievably"], "A": ["calmly", "little", "mildly"]}

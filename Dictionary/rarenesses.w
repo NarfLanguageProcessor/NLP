@@ -1,0 +1,1 @@
+{"index": 260826, "D": "coming or occurring far apart in time; unusual; uncommon", "S": ["absence", "deficiency", "inadequacy", "lack", "paucity", "shortage"], "A": ["abundance", "adequacy", "enough", "plenty", "sufficiency", "advantage", "luxury", "perfection", "success", "wealth"]}

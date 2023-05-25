@@ -1,0 +1,1 @@
+{"index": 253349, "D": "Compare apodosis. ", "S": [], "A": []}

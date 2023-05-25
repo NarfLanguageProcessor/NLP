@@ -1,0 +1,1 @@
+{"index": 246840, "D": "of or relating to predestination. ", "S": [], "A": []}

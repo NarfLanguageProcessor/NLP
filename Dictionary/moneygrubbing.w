@@ -1,0 +1,1 @@
+{"index": 191842, "D": "a person who is aggressively engaged in or preoccupied with making or saving money.", "S": ["covetous", "gluttonous", "hoarding", "pleonectic", "predatory", "rapacious", "selfish", "tight"], "A": []}

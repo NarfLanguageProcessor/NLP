@@ -1,0 +1,1 @@
+{"index": 235331, "D": "a proton  emitted from a nucleus during photodisintegration.", "S": [], "A": []}

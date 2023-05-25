@@ -1,0 +1,1 @@
+{"index": 241343, "D": "(in masonry) mortar used as a finishing touch to brickwork.", "S": ["denoting", "designating", "disclosing", "displaying", "evidencing", "guiding", "manifesting", "marking", "placing", "revealing", "showing", "signifying", "specifying", "spotting", "steering"], "A": []}

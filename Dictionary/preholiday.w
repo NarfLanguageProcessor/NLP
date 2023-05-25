@@ -1,0 +1,1 @@
+{"index": 247836, "D": "a day fixed by law or custom on which ordinary business is suspended in commemoration of some event or in honor of some person.", "S": [], "A": []}

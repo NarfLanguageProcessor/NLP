@@ -1,0 +1,1 @@
+{"index": 170338, "D": "a band of fibers, especially of white nerve fibers in the brain.", "S": [], "A": []}

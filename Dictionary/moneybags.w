@@ -1,0 +1,1 @@
+{"index": 191832, "D": "a very rich person", "S": ["banker", "entrepreneur", "financier"], "A": ["communist"]}

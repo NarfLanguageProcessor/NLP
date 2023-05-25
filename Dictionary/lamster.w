@@ -1,0 +1,1 @@
+{"index": 167844, "D": "a fugitive from the law.", "S": ["elusive", "wanted"], "A": ["enduring", "lasting", "lengthy", "long", "permanent"]}

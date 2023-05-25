@@ -1,0 +1,1 @@
+{"index": 209834, "D": "a person who gathers nuts. ", "S": ["dement", "fruitcake", "head case", "lunatic", "madman", "madwoman", "maniac", "mental defective", "neurotic", "non compos", "raving lunatic"], "A": []}

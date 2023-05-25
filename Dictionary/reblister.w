@@ -1,0 +1,1 @@
+{"index": 262340, "D": "a thin vesicle on the skin, containing watery matter or serum, as from a burn or other injury.", "S": [], "A": []}

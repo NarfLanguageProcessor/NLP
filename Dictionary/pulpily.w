@@ -1,0 +1,1 @@
+{"index": 256347, "D": "pertaining to, characteristic of, or resembling pulp;  fleshy or soft.", "S": [], "A": []}

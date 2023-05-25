@@ -1,0 +1,1 @@
+{"index": 179841, "D": "a resort town in northeastern Massachusetts", "S": [], "A": []}

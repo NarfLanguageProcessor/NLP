@@ -1,0 +1,1 @@
+{"index": 237330, "D": "a person who is among those who first enter or settle a region, thus opening it for occupation and development by others.", "S": ["colonist", "colonizer", "developer", "explorer", "founder", "guide", "homesteader", "immigrant", "innovator", "leader", "pathfinder", "pilgrim", "scout", "settler", "squatter", "trailblazer"], "A": []}

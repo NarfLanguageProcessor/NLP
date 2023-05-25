@@ -1,0 +1,1 @@
+{"index": 337347, "D": "in a way that shows a resemblance or similarity; similarly", "S": [], "A": []}

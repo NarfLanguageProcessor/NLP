@@ -1,0 +1,1 @@
+{"index": 305349, "D": "an act or instance of stopping;  cessation of activity", "S": ["blockage", "closure", "cutoff", "interruption", "layoff", "lockout", "shutdown", "walkout"], "A": ["advance", "aid", "assistance", "continuation", "encouragement", "help", "promotion"]}

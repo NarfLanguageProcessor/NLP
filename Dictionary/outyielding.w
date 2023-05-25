@@ -1,0 +1,1 @@
+{"index": 216828, "D": "to give forth or produce by a natural process or in return for cultivation", "S": [], "A": []}

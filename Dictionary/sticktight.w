@@ -1,0 +1,1 @@
+{"index": 304331, "D": "any of several composite plants of the genus Bidens, having barbed achenes that adhere to clothing or fur.", "S": [], "A": []}

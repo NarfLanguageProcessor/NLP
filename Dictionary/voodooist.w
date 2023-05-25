@@ -1,0 +1,1 @@
+{"index": 361346, "D": "the Voodoo  religious rites and folk magic practices.", "S": [], "A": []}

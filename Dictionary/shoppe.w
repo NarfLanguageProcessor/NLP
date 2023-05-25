@@ -1,0 +1,1 @@
+{"index": 288834, "D": "shop (used chiefly for quaint effect).", "S": [], "A": []}

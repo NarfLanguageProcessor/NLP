@@ -1,0 +1,1 @@
+{"index": 335838, "D": "to sprinkle  (something) all over, as with water or a powder.", "S": [], "A": []}

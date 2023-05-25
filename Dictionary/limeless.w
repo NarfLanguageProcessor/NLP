@@ -1,0 +1,1 @@
+{"index": 172344, "D": "the small, greenish-yellow, acid fruit of a citrus tree, Citrus aurantifolia, allied to the lemon.", "S": [], "A": []}

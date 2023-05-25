@@ -1,0 +1,1 @@
+{"index": 323333, "D": "a channel in which a tidal current runs.", "S": ["avenue", "carrier", "means", "medium", "route", "tunnel"], "A": ["closure", "denial", "refusal", "veto"]}

@@ -1,0 +1,1 @@
+{"index": 200336, "D": "a person who nitpicks,  especially habitually.", "S": ["attacker", "carper", "caviler", "censor", "complainant", "complainer", "defamer", "disparager", "doubter", "faultfinder", "maligner", "muckraker", "nagger", "niggler", "quibbler", "scolder", "slanderer", "vilifier", "worrier", "zapper"], "A": []}

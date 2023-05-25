@@ -1,0 +1,1 @@
+{"index": 286348, "D": "a small, green or reddish, extremely hot chile pepper, the fruit of a variety of Capsicum annuum used in cooking.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269331, "D": "to cause or allow to be seen; exhibit; display.", "S": ["repetition", "replay", "rerun"], "A": ["original"]}

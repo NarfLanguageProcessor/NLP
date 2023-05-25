@@ -1,0 +1,1 @@
+{"index": 281345, "D": "to put a definite end to; crush; stamp out; foil", "S": ["bring down curtain", "bring to an end", "crush", "end", "nip in the bud", "put a stop to", "put an end to", "put paid to", "put the lid on", "squelch", "stamp out"], "A": []}

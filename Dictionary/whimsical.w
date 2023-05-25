@@ -1,0 +1,1 @@
+{"index": 364840, "D": "given to whimsy  or fanciful notions; capricious", "S": ["amusing", "comical", "droll", "eccentric", "funny", "mischievous", "odd", "unusual", "weird"], "A": ["boring", "common", "dramatic", "normal", "regular", "sad", "serious", "standard", "tragic", "usual"]}

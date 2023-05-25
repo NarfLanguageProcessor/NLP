@@ -1,0 +1,1 @@
+{"index": 236347, "D": "one of a series of small, open compartments, as in a desk, cabinet, or the like, used for filing or sorting papers, letters, etc.", "S": ["box", "carrel", "chamber", "corner", "cranny", "cubbyhole", "cubicle", "hole", "niche", "nook", "place", "pocket", "recess", "section", "slot", "stall"], "A": []}

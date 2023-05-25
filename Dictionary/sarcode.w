@@ -1,0 +1,1 @@
+{"index": 278343, "D": "protoplasm, especially the semifluid content of a protozoan.", "S": [], "A": []}

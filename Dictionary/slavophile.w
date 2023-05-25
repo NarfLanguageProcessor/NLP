@@ -1,0 +1,1 @@
+{"index": 293826, "D": "a person who greatly admires the Slavs and Slavic ways.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198833, "D": "the oldest and wisest of the Greeks in the Trojan War and a king of Pylos.", "S": ["aide", "coach", "confidant", "consultant", "counselor"], "A": []}

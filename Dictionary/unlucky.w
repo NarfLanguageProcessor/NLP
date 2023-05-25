@@ -1,0 +1,1 @@
+{"index": 345829, "D": "(of a person) not lucky;  lacking good fortune; ill-fated.", "S": ["hapless", "miserable", "tragic", "unhappy"], "A": ["cheerful", "fortunate", "happy", "lucky"]}

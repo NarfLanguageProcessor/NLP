@@ -1,0 +1,1 @@
+{"index": 227846, "D": "a native of any country who, by virtue of the birth of a parent or grandparent in Great Britain, has citizenship and residency rights there.", "S": [], "A": []}

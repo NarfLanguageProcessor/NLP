@@ -1,0 +1,1 @@
+{"index": 165838, "D": "(in India) a person skilled in the art of inlaying steel with gold (koftgari)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198332, "D": "a minor art movement chiefly of the 1960s reviving some of the objectives of dada but placing emphasis on the importance of the work of art produced rather than on the concept generating the work.", "S": [], "A": []}

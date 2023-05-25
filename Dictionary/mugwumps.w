@@ -1,0 +1,1 @@
+{"index": 194827, "D": "a Republican who refused to support the party nominee, James G. Blaine, in the presidential campaign of 1884.", "S": [], "A": []}

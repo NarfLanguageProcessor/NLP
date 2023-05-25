@@ -1,0 +1,1 @@
+{"index": 211830, "D": "a cotton fabric made waterproof by being treated with oil and pigment, for use as tablecloths, shelf coverings, and the like.", "S": ["canvas", "coat", "cover", "sailcloth"], "A": []}

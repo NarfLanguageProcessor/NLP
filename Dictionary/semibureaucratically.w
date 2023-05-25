@@ -1,0 +1,1 @@
+{"index": 283838, "D": "of, relating to, or characteristic of a bureaucrat  or a bureaucracy;  arbitrary and routine.", "S": [], "A": []}

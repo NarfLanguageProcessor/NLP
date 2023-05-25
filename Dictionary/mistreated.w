@@ -1,0 +1,1 @@
+{"index": 190349, "D": "to treat badly or abusively.", "S": ["destitute", "distressed", "exploited", "needy", "oppressed", "persecuted"], "A": ["rich", "wealthy"]}

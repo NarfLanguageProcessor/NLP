@@ -1,0 +1,1 @@
+{"index": 348847, "D": "to make pure; free from anything that debases, pollutes, adulterates, or contaminates", "S": ["crude", "grainy", "harsh"], "A": ["gentle", "nice"]}

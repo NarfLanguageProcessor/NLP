@@ -1,0 +1,1 @@
+{"index": 179349, "D": "a province in central Canada. 246,512 sq. mi. (638,466 sq. km). Abbreviation", "S": [], "A": []}

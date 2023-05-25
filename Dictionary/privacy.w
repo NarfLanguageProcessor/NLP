@@ -1,0 +1,1 @@
+{"index": 250829, "D": "the state of being apart from other people or concealed from their view; solitude; seclusion", "S": ["aloofness", "concealment", "confidentiality", "isolation", "penetralia", "privateness", "quiet", "retirement", "retreat", "seclusion", "separateness", "separation", "sequestration", "solitude"], "A": ["togetherness"]}

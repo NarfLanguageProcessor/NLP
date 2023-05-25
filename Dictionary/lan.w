@@ -1,0 +1,1 @@
+{"index": 167849, "D": "local area network", "S": ["computer network", "workgroup computing"], "A": []}

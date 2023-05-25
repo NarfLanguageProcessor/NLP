@@ -1,0 +1,1 @@
+{"index": 274846, "D": "reduced to simple curves; made round.", "S": ["bowed", "spherical"], "A": []}

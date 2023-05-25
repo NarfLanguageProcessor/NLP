@@ -1,0 +1,1 @@
+{"index": 317328, "D": "wearingly burdensome", "S": ["demanding", "disturbing", "onerous", "stressful", "tedious", "troublesome", "trying"], "A": ["easy", "facile", "trivial"]}

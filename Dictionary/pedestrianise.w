@@ -1,0 +1,1 @@
+{"index": 228838, "D": "to go on foot; walk.", "S": [], "A": []}

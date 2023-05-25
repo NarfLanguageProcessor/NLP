@@ -1,0 +1,1 @@
+{"index": 188839, "D": "to calculate  or judge incorrectly", "S": ["err", "misconstrue", "misinterpret", "misjudge", "misread", "misunderstand", "overestimate", "overrate", "overvalue", "underestimate", "undervalue"], "A": ["get", "perceive", "understand", "attend", "pay attention", "regard", "respect"]}

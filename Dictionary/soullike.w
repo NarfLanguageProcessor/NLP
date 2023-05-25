@@ -1,0 +1,1 @@
+{"index": 297831, "D": "the principle of life, feeling, thought, and action in humans, regarded as a distinct entity separate from the body, and commonly held to be separable in existence from the body; the spiritual part of humans as distinct from the physical part.", "S": [], "A": []}

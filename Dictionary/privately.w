@@ -1,0 +1,1 @@
+{"index": 250843, "D": "belonging to some particular person", "S": ["alone", "secretly"], "A": []}

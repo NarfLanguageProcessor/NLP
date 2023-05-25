@@ -1,0 +1,1 @@
+{"index": 351830, "D": "having no spots or stains; without spots; spotless", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224849, "D": "the theory that life exists and is distributed throughout the universe in the form of germs or spores that develop in the right environment.", "S": [], "A": []}

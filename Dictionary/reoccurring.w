@@ -1,0 +1,1 @@
+{"index": 267847, "D": "to happen; take place; come to pass", "S": ["alternate", "chain", "continued", "cyclic", "cyclical", "frequent", "habitual", "intermittent", "isochronous", "like clockwork", "periodic", "periodical", "recurring", "regular", "repeated", "repetitive", "rolling"], "A": []}

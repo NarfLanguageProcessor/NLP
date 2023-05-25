@@ -1,0 +1,1 @@
+{"index": 172829, "D": "to remain or stay on in a place longer than is usual or expected, as if from reluctance to leave", "S": ["dawdle", "drift", "idle", "remain", "stay", "stick around", "wait"], "A": ["forge", "forward", "go", "leave", "advance", "carry on", "complete", "continue", "finish", "go ahead", "remain", "run", "rush", "tiptoe"]}

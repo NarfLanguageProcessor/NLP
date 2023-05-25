@@ -1,0 +1,1 @@
+{"index": 218835, "D": "of delicate beauty; exquisite", "S": [], "A": []}

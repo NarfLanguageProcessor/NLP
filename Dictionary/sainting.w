@@ -1,0 +1,1 @@
+{"index": 276834, "D": "any of certain persons of exceptional holiness of life, formally recognized as such by the Christian Church, especially by canonization.", "S": ["beatify", "consecrate"], "A": ["condemn", "degrade", "dishonor", "hate", "lower"]}

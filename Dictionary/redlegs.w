@@ -1,0 +1,1 @@
+{"index": 264331, "D": "a member of a secret organization, formed in Kansas in 1862, that engaged in guerrilla activities during the Civil War.", "S": [], "A": []}

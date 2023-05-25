@@ -1,0 +1,1 @@
+{"index": 319332, "D": "to change repeatedly one's attitude or opinions with respect to a cause, subject, etc.; equivocate. ", "S": ["absconder", "apostate", "deserter", "rat", "recreant", "renegade", "runaway", "sellout", "turncoat"], "A": ["adherent"]}

@@ -1,0 +1,1 @@
+{"index": 201843, "D": "of, constituting, or implying a cause. ", "S": [], "A": []}

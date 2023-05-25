@@ -1,0 +1,1 @@
+{"index": 275849, "D": "a person who hates or fears Russia or the Russians.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187843, "D": "a computer with processing and storage capabilities smaller than those of a mainframe but larger than those of a microcomputer.", "S": ["CPU", "PC", "abacus", "analog", "brain", "calculator", "clone", "laptop", "mac", "mainframe", "microcomputer", "mini"], "A": []}

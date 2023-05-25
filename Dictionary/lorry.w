@@ -1,0 +1,1 @@
+{"index": 175330, "D": "a motor truck, especially a large one.", "S": ["car", "crate", "freighter", "jeep", "pickup", "rig", "van", "wagon"], "A": []}

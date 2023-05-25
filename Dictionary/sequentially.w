@@ -1,0 +1,1 @@
+{"index": 285848, "D": "one after the other", "S": ["successively"], "A": []}

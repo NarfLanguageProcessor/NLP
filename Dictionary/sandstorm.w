@@ -1,0 +1,1 @@
+{"index": 277828, "D": "an occurrence of strong winds, especially in a desert, that pick up and carry sand, as from dunes, and typically move along in a series of leaps, effecting the process of saltation", "S": ["black blizzard", "devil", "dust devil", "duster", "harmattan", "khamsin", "peesash", "samiel", "sand column", "sandspout", "shaitan", "simoom", "sirocco"], "A": []}

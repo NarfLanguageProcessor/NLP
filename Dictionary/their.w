@@ -1,0 +1,1 @@
+{"index": 320842, "D": "a form of the possessive case of plural they  used as an attributive adjective, before a noun", "S": ["her", "hir", "his", "its", "my", "our", "vis", "xyr", "your", "zir"], "A": []}

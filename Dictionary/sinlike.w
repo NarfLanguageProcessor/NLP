@@ -1,0 +1,1 @@
+{"index": 291847, "D": "transgression of divine law", "S": [], "A": []}

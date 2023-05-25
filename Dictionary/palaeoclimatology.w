@@ -1,0 +1,1 @@
+{"index": 223325, "D": "the study of climates of the geological past", "S": [], "A": []}

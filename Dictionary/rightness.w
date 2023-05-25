@@ -1,0 +1,1 @@
+{"index": 272837, "D": "correctness or accuracy.", "S": ["goodness", "righteousness"], "A": ["corruption", "disgrace", "dishonesty", "dishonor", "immorality", "impropriety", "wrong"]}

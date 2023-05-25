@@ -1,0 +1,1 @@
+{"index": 353839, "D": "to break, infringe, or transgress (a law, rule, agreement, promise, instructions, etc.).", "S": ["flawless", "perfect", "unblemished", "unbroken", "unharmed", "unhurt", "unscathed", "untouched"], "A": ["broken", "damaged", "flawed", "harmed", "hurt", "imperfect", "injured"]}

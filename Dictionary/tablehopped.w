@@ -1,0 +1,1 @@
+{"index": 314836, "D": "to move about in a restaurant, nightclub, or the like, chatting with people at various tables. ", "S": [], "A": []}

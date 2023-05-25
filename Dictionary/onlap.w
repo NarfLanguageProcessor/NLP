@@ -1,0 +1,1 @@
+{"index": 212845, "D": "the advance of a sea beyond its former shore.", "S": [], "A": []}

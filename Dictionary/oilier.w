@@ -1,0 +1,1 @@
+{"index": 211848, "D": "smeared or covered with oil;  greasy", "S": ["buttery", "creamy", "oiled", "slippery", "waxy"], "A": ["dry", "hateful"]}

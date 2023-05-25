@@ -1,0 +1,1 @@
+{"index": 288344, "D": "to give forth or glow with light; shed or cast light.", "S": ["gleam", "glitz", "gloss", "luster", "sheen", "shimmer", "sparkle"], "A": ["darkness", "dullness", "dark"]}

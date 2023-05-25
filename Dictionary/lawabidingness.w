@@ -1,0 +1,1 @@
+{"index": 169330, "D": "obeying or keeping the law; obedient to law", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219830, "D": "prioritizing the pursuit of individual interests or rights rather than common or collective ones", "S": [], "A": []}

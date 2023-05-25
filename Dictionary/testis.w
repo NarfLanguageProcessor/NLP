@@ -1,0 +1,1 @@
+{"index": 319829, "D": "Compare ovary (def. 1). ", "S": ["family jewels", "testicles"], "A": []}

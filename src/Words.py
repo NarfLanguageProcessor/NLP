@@ -62,8 +62,11 @@ class Words:
 
         self.activity[thread] += 1
 
-        try: Words.collect(self.words[index], 'Dictionary/')
-        except: Words.save_json({'index': index} | Words.compose(self.words[index]), self.words[index] + '.w', 'Dictionary/')
+        try:
+            if not Words.known(self.words[index], 'Dictionary/') or not Words.collect(self.words[index], 'Dictionary/'):
+                Words.save_json({'index': index} | Words.compose(self.words[index]), self.words[index] + '.w', 'Dictionary/')
+        except:
+            Words.save_json({'index': index} | Words.compose(self.words[index]), self.words[index] + '.w', 'Dictionary/')
 
         self.activity[thread] -= 1
 

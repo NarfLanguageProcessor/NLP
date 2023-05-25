@@ -1,0 +1,1 @@
+{"index": 252844, "D": "the owner of a business establishment, a hotel, etc.", "S": ["freeholder", "holder", "owner", "possessor", "proprietary"], "A": ["customer"]}

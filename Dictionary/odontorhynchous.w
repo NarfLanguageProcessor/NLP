@@ -1,0 +1,1 @@
+{"index": 211346, "D": "(of birds) having toothlike ridges inside the beak", "S": [], "A": []}

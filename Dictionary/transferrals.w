@@ -1,0 +1,1 @@
+{"index": 327849, "D": "transference; transfer. ", "S": [], "A": []}

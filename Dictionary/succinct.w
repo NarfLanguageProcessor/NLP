@@ -1,0 +1,1 @@
+{"index": 309840, "D": "expressed in few words; concise; terse. ", "S": ["blunt", "concise", "curt", "pithy", "terse"], "A": ["lengthy", "long-winded", "polite", "wordy"]}

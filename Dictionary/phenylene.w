@@ -1,0 +1,1 @@
+{"index": 233342, "D": "containing a phenylene group. ", "S": [], "A": []}

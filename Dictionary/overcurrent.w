@@ -1,0 +1,1 @@
+{"index": 218829, "D": "a current  of a magnitude that is greater than a limiting value, as the value at which a fuse melts.", "S": [], "A": []}

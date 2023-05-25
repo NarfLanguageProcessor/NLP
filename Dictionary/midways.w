@@ -1,0 +1,1 @@
+{"index": 186846, "D": "in the middle of the way or distance; halfway.", "S": ["average", "center", "central", "intermediary", "intermediate", "mean", "midpoint", "midway", "par"], "A": ["extreme"]}

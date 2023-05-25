@@ -1,0 +1,1 @@
+{"index": 359846, "D": "capable of being vindicated", "S": ["logical", "permissible", "plausible", "tenable", "valid"], "A": ["improbable", "irrational", "unbelievable", "unlikely", "unreasonable"]}

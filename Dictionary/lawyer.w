@@ -1,0 +1,1 @@
+{"index": 169348, "D": "a person whose profession is to represent clients in a court of law  or to advise or act for clients in other legal matters.", "S": ["advocate", "counselor"], "A": []}

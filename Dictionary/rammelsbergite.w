@@ -1,0 +1,1 @@
+{"index": 260342, "D": "a mineral, essentially nickel diarsenide, NiAs2.", "S": [], "A": []}

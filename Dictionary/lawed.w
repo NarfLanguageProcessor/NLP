@@ -1,0 +1,1 @@
+{"index": 169338, "D": "the principles and regulations established in a community by some authority and applicable to its people, whether in the form of legislation or of custom and policies recognized and enforced by judicial decision.", "S": ["arraign", "indict", "litigate", "sue", "summon", "try"], "A": ["exonerate"]}

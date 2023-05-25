@@ -1,0 +1,1 @@
+{"index": 230336, "D": "to walk through, about, or over; travel through; traverse. ", "S": ["itinerant", "peripatetic", "roving", "vagabond", "vagrant"], "A": ["settled"]}

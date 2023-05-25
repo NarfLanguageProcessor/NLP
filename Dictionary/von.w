@@ -1,0 +1,1 @@
+{"index": 361339, "D": "from; of (used in German and Austrian personal names, originally to indicate place of origin and later to indicate nobility)", "S": [], "A": []}

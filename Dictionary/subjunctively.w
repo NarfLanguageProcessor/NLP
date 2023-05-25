@@ -1,0 +1,1 @@
+{"index": 308333, "D": "Compare imperative (def. 3), indicative (def. 2). ", "S": [], "A": []}

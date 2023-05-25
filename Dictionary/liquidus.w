@@ -1,0 +1,1 @@
+{"index": 173328, "D": "(on a graph of temperature versus composition) the curve connecting the temperatures at which a liquid  solution is in equilibrium with its vapor and with the solid solution.", "S": [], "A": []}

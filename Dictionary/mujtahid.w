@@ -1,0 +1,1 @@
+{"index": 194849, "D": "a person who has been certified as capable of interpreting religious law.", "S": [], "A": []}

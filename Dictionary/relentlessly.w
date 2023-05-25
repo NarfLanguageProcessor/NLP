@@ -1,0 +1,1 @@
+{"index": 266839, "D": "without letting up, pausing, or giving up; persistently", "S": ["at length", "continuously", "endlessly", "forever", "having no end", "in perpetuity", "interminably", "never-ending", "on and on", "perpetually", "unlimitedly", "without end", "without limit"], "A": []}

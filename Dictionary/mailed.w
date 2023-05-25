@@ -1,0 +1,1 @@
+{"index": 177846, "D": "clad or armed with mail", "S": ["delivered", "dispatched", "shipped"], "A": []}

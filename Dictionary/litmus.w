@@ -1,0 +1,1 @@
+{"index": 173843, "D": "a blue coloring matter obtained from certain lichens, especially Roccella tinctoria. In alkaline solution litmus turns blue, in acid solution, red", "S": [], "A": []}

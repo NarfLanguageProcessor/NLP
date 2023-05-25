@@ -1,0 +1,1 @@
+{"index": 287325, "D": "modest or bashful.", "S": ["confusion", "contempt", "guilt", "humiliation", "irritation", "remorse", "scandal", "stigma"], "A": ["approval", "esteem", "honor", "meanness", "praise", "respect"]}

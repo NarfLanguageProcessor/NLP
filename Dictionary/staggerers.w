@@ -1,0 +1,1 @@
+{"index": 302331, "D": "to walk, move, or stand unsteadily.", "S": [], "A": []}

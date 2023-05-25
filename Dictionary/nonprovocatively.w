@@ -1,0 +1,1 @@
+{"index": 206345, "D": "tending or serving to provoke;  inciting, stimulating, irritating, or vexing.", "S": [], "A": []}

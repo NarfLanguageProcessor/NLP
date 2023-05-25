@@ -1,0 +1,1 @@
+{"index": 206830, "D": "the act of retaliating;  return of like for like; reprisal.", "S": [], "A": []}

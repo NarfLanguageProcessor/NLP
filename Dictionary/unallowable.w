@@ -1,0 +1,1 @@
+{"index": 334839, "D": "that may be allowed;  legitimate; permissible", "S": ["immaterial", "improper", "inappropriate", "irrelevant", "objectionable", "unacceptable", "undesirable", "unreasonable"], "A": ["OK", "acceptable", "appropriate", "desirable", "fitting", "good", "proper", "relevant", "suitable"]}

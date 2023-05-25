@@ -1,0 +1,1 @@
+{"index": 356831, "D": "a person who estimates the value of objects, paintings, etc; appraiser", "S": [], "A": []}

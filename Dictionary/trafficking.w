@@ -1,0 +1,1 @@
+{"index": 327325, "D": "the practice of dealing or trading in a commodity or service, often an illegal one", "S": ["piracy", "smuggling"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310826, "D": "sulfurous (defs. 1, 2). ", "S": ["demonic", "devilish", "hellish", "malevolent", "wicked"], "A": ["angelic", "godlike", "good", "moral"]}

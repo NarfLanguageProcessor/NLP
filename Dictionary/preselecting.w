@@ -1,0 +1,1 @@
+{"index": 249326, "D": "to select  in advance; choose beforehand.", "S": [], "A": []}

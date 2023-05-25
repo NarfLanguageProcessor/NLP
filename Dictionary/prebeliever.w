@@ -1,0 +1,1 @@
+{"index": 245828, "D": "someone who has confidence in the truth, existence, or reliability of something", "S": [], "A": []}

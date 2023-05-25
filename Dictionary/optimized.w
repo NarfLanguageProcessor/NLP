@@ -1,0 +1,1 @@
+{"index": 213837, "D": "to make as effective, perfect, or useful as possible.", "S": ["advance", "amend", "better", "correct", "develop", "enhance", "help", "hone", "improve", "increase", "lift", "progress", "raise", "reform", "revamp", "revise", "rise", "upgrade"], "A": ["weaken", "worsen", "decline", "decrease", "diminish", "hurt"]}

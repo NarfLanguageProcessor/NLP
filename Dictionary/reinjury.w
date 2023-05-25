@@ -1,0 +1,1 @@
+{"index": 266339, "D": "harm or damage that is done or sustained", "S": [], "A": []}

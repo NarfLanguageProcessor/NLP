@@ -1,0 +1,1 @@
+{"index": 249344, "D": "being, existing, or occurring at this time or now; current", "S": ["current"], "A": ["late", "old"]}

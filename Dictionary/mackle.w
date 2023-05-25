@@ -1,0 +1,1 @@
+{"index": 176832, "D": "a blur in printing, as from a double impression.", "S": [], "A": []}

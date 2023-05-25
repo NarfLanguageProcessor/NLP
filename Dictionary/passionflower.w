@@ -1,0 +1,1 @@
+{"index": 227342, "D": "any chiefly American climbing vine or shrub of the genus Passiflora, having showy flowers and a pulpy berry or fruit that in some species is edible.", "S": [], "A": []}

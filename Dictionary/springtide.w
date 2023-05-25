@@ -1,0 +1,1 @@
+{"index": 301334, "D": "the season of spring. ", "S": ["adolescence", "bloom", "boyhood", "childhood", "girlhood", "ignorance", "immaturity", "inexperience", "innocence", "juvenescence", "juvenility", "minority", "prime", "puberty", "spring", "teens", "youthfulness"], "A": ["adulthood", "end", "experience", "knowledge"]}
