@@ -12,8 +12,9 @@ word = 'arms'
 
 # print(Words.compose('arms'))
 
-a = [1,2,3,4,5]
-
-print([b*2 for b in a])
+if Words.collect('vonxdd'):
+    print('yes')
+else:
+    print('no')
 
 

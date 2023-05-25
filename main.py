@@ -12,7 +12,7 @@ w = Words()
 print(w.known('von'))
 # print(w.compose('von'))
 
-w.compose_dictionary()
+# w.compose_dictionary()
 
 # w.filter_top_words(['Top10k-Short.txt', 'Top10k-Medium.txt', 'Top10k-Long.txt'])
 
