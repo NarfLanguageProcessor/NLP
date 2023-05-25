@@ -1,1 +1,1 @@
-{"index": 127381, "D": "the rank, character, or condition of a god.", "S": ["deity ", "sanctity "], "A": ["devil ", "evil "]}
+{"index": 127381, "D": "the rank, character, or condition of a god.", "S": ["deity", "sanctity"], "A": ["devil", "evil"]}

@@ -1,1 +1,1 @@
-{"index": 71753, "D": "snugly warm and comfortable", "S": ["adequately ", "easily ", "snugly "], "A": ["inadequately ", "insufficiently ", "poorly ", "uncomfortably "]}
+{"index": 71753, "D": "snugly warm and comfortable", "S": ["adequately", "easily", "snugly"], "A": ["inadequately", "insufficiently", "poorly", "uncomfortably"]}

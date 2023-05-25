@@ -1,1 +1,1 @@
-{"index": 21777, "D": "to give or allocate; allot", "S": ["defined ", "precise "], "A": ["imprecise ", "indefinite ", "indeterminate ", "indistinct ", "inexact ", "not clear ", "obscure ", "uncertain ", "unclear ", "undefined ", "unfixed ", "unlimited ", "vague "]}
+{"index": 21777, "D": "to give or allocate; allot", "S": ["defined", "precise"], "A": ["imprecise", "indefinite", "indeterminate", "indistinct", "inexact", "not clear", "obscure", "uncertain", "unclear", "undefined", "unfixed", "unlimited", "vague"]}

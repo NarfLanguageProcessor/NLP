@@ -1,1 +1,1 @@
-{"index": 13965, "D": "liable to be asked to give account; responsible", "S": ["accountable ", "amenable ", "liable ", "obligated ", "obliged "], "A": ["irresponsible ", "unaccountable "]}
+{"index": 13965, "D": "liable to be asked to give account; responsible", "S": ["accountable", "amenable", "liable", "obligated", "obliged"], "A": ["irresponsible", "unaccountable"]}

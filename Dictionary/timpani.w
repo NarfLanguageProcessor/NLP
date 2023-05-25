@@ -1,1 +1,1 @@
-{"index": 323853, "D": "a set of kettledrums, especially as used in an orchestra or band.", "S": ["kettledrum ", "pan ", "steel pan "], "A": []}
+{"index": 323853, "D": "a set of kettledrums, especially as used in an orchestra or band.", "S": ["kettledrum", "pan", "steel pan"], "A": []}

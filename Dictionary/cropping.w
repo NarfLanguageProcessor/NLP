@@ -1,1 +1,1 @@
-{"index": 73728, "D": "the cultivated produce of the ground, while growing or when gathered", "S": ["biting ", "eating ", "feeding ", "foraging ", "gnawing ", "masticating ", "munching ", "nibbling ", "pasturing ", "ruminating ", "uprooting "], "A": []}
+{"index": 73728, "D": "the cultivated produce of the ground, while growing or when gathered", "S": ["biting", "eating", "feeding", "foraging", "gnawing", "masticating", "munching", "nibbling", "pasturing", "ruminating", "uprooting"], "A": []}

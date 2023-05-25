@@ -1,0 +1,1 @@
+{"index": 5563, "D": "said  or mentioned earlier or previously.", "S": ["mentioned earlier", "preceding", "previous", "spoken of earlier"], "A": []}

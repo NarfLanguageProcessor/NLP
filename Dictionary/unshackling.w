@@ -1,1 +1,1 @@
-{"index": 350880, "D": "to free from shackles;  unfetter.", "S": ["abolition ", "deliverance ", "democracy ", "emancipation ", "salvation ", "sovereignty "], "A": []}
+{"index": 350880, "D": "to free from shackles;  unfetter.", "S": ["abolition", "deliverance", "democracy", "emancipation", "salvation", "sovereignty"], "A": []}

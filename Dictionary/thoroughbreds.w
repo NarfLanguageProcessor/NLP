@@ -1,1 +1,1 @@
-{"index": 322429, "D": "of pure or unmixed breed, stock, or lineage, as a horse or other animal; bred  from the purest and best blood.", "S": ["Brahman ", "aristocrat ", "noble ", "nobleman ", "patrician ", "silk-stocking ", "thoroughbred ", "titled person ", "upper-cruster "], "A": []}
+{"index": 322429, "D": "of pure or unmixed breed, stock, or lineage, as a horse or other animal; bred  from the purest and best blood.", "S": ["Brahman", "aristocrat", "noble", "nobleman", "patrician", "silk-stocking", "thoroughbred", "titled person", "upper-cruster"], "A": []}

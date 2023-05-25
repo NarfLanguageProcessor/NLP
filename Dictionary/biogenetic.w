@@ -1,1 +1,1 @@
-{"index": 34368, "D": "the production of living organisms from other living organisms.", "S": ["DNA fingerprinting ", "GM ", "genetic fingerprinting ", "genetic modification ", "recombinant DNA technology "], "A": []}
+{"index": 34368, "D": "the production of living organisms from other living organisms.", "S": ["DNA fingerprinting", "GM", "genetic fingerprinting", "genetic modification", "recombinant DNA technology"], "A": []}

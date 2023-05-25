@@ -1,1 +1,1 @@
-{"index": 104418, "D": "to see at a distance; catch sight of.", "S": ["detected ", "disclosed ", "exposed ", "identified ", "invented "], "A": ["hidden ", "lost "]}
+{"index": 104418, "D": "to see at a distance; catch sight of.", "S": ["detected", "disclosed", "exposed", "identified", "invented"], "A": ["hidden", "lost"]}

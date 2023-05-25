@@ -1,1 +1,1 @@
-{"index": 220889, "D": "too ripe;  more than ripe", "S": ["depraved ", "immoral "], "A": ["good ", "moral ", "noble ", "pure ", "uncorrupt ", "virtuous ", "decent ", "upright "]}
+{"index": 220889, "D": "too ripe;  more than ripe", "S": ["depraved", "immoral"], "A": ["good", "moral", "noble", "pure", "uncorrupt", "virtuous", "decent", "upright"]}

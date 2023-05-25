@@ -1,1 +1,1 @@
-{"index": 210244, "D": "the state of being completely forgotten or unknown", "S": ["unconsciousness "], "A": ["caring ", "concern ", "regard ", "respect "]}
+{"index": 210244, "D": "the state of being completely forgotten or unknown", "S": ["unconsciousness"], "A": ["caring", "concern", "regard", "respect"]}

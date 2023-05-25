@@ -1,1 +1,1 @@
-{"index": 94777, "D": "to gain or get in return for one's labor or service", "S": ["accepting ", "acquiring ", "collecting ", "drawing ", "gathering ", "getting ", "inheriting ", "making "], "A": ["giving "]}
+{"index": 94777, "D": "to gain or get in return for one's labor or service", "S": ["accepting", "acquiring", "collecting", "drawing", "gathering", "getting", "inheriting", "making"], "A": ["giving"]}

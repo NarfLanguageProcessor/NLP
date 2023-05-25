@@ -1,1 +1,1 @@
-{"index": 250150, "D": "coming before; antecedent.", "S": ["fresh ", "initial ", "new ", "previous ", "recent "], "A": ["future ", "old ", "worn "]}
+{"index": 250150, "D": "coming before; antecedent.", "S": ["fresh", "initial", "new", "previous", "recent"], "A": ["future", "old", "worn"]}

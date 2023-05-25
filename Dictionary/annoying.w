@@ -1,1 +1,1 @@
-{"index": 13575, "D": "causing annoyance;  irritatingly bothersome", "S": ["aggravating ", "bothersome ", "disturbing ", "irritating ", "troublesome "], "A": ["helpful "]}
+{"index": 13575, "D": "causing annoyance;  irritatingly bothersome", "S": ["aggravating", "bothersome", "disturbing", "irritating", "troublesome"], "A": ["helpful"]}

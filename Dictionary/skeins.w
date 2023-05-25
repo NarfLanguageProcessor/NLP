@@ -1,1 +1,1 @@
-{"index": 292912, "D": "a length of yarn or thread wound on a reel or swift preparatory for use in manufacturing.", "S": ["knot "], "A": ["benefit ", "ease ", "order ", "organization ", "simplicity "]}
+{"index": 292912, "D": "a length of yarn or thread wound on a reel or swift preparatory for use in manufacturing.", "S": ["knot"], "A": ["benefit", "ease", "order", "organization", "simplicity"]}

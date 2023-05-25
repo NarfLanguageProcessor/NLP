@@ -1,1 +1,1 @@
-{"index": 369550, "D": "a pimple; skin blemish.", "S": ["abscess ", "acne ", "blackhead ", "blemish ", "bump ", "carbuncle ", "excrescence ", "goober ", "papule ", "pustule ", "whitehead "], "A": []}
+{"index": 369550, "D": "a pimple; skin blemish.", "S": ["abscess", "acne", "blackhead", "blemish", "bump", "carbuncle", "excrescence", "goober", "papule", "pustule", "whitehead"], "A": []}

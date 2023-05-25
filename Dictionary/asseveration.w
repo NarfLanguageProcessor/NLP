@@ -1,1 +1,1 @@
-{"index": 21738, "D": "the act of asseverating. ", "S": ["affirmation ", "allegation ", "averment ", "claim ", "contention ", "declaration ", "pronouncement ", "statement "], "A": ["denial "]}
+{"index": 21738, "D": "the act of asseverating. ", "S": ["affirmation", "allegation", "averment", "claim", "contention", "declaration", "pronouncement", "statement"], "A": ["denial"]}

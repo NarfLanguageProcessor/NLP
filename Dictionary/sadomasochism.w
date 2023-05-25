@@ -1,1 +1,1 @@
-{"index": 276525, "D": "interaction, especially sexual activity, in which one person enjoys inflicting physical or mental suffering on another person, who derives pleasure from experiencing pain.", "S": ["malice "], "A": []}
+{"index": 276525, "D": "interaction, especially sexual activity, in which one person enjoys inflicting physical or mental suffering on another person, who derives pleasure from experiencing pain.", "S": ["malice"], "A": []}

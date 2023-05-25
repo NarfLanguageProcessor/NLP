@@ -1,1 +1,1 @@
-{"index": 147529, "D": "something that illustrates,  as a picture in a book or magazine.", "S": ["artwork ", "computer graphics ", "visuals "], "A": []}
+{"index": 147529, "D": "something that illustrates,  as a picture in a book or magazine.", "S": ["artwork", "computer graphics", "visuals"], "A": []}

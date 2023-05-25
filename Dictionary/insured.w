@@ -1,1 +1,1 @@
-{"index": 154116, "D": "the person, group, or organization whose life or property is covered by aninsurance  policy.", "S": ["guaranteed ", "protected "], "A": ["insecure "]}
+{"index": 154116, "D": "the person, group, or organization whose life or property is covered by aninsurance  policy.", "S": ["guaranteed", "protected"], "A": ["insecure"]}

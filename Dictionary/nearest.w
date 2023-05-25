@@ -1,1 +1,1 @@
-{"index": 197608, "D": "close; to a point or place not far away", "S": ["adjacent ", "convenient "], "A": ["distant ", "far ", "remote "]}
+{"index": 197608, "D": "close; to a point or place not far away", "S": ["adjacent", "convenient"], "A": ["distant", "far", "remote"]}

@@ -1,1 +1,1 @@
-{"index": 327459, "D": "a person or thing that trains. ", "S": ["adviser ", "breeder ", "coach ", "handler ", "mentor ", "professor ", "tutor "], "A": ["pupil ", "student "]}
+{"index": 327459, "D": "a person or thing that trains. ", "S": ["adviser", "breeder", "coach", "handler", "mentor", "professor", "tutor"], "A": ["pupil", "student"]}

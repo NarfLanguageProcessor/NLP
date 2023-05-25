@@ -1,1 +1,1 @@
-{"index": 265268, "D": "serving or designed to reform", "S": ["cooler ", "jail ", "penitentiary ", "prison "], "A": []}
+{"index": 265268, "D": "serving or designed to reform", "S": ["cooler", "jail", "penitentiary", "prison"], "A": []}

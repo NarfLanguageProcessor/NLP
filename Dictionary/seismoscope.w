@@ -1,1 +1,0 @@
-{"index": 283349, "D": "an instrument for recording the occurrence or time of an earthquake.", "S": [], "A": []}

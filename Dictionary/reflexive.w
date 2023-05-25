@@ -1,1 +1,1 @@
-{"index": 265156, "D": "(of a pronoun) used as an object to refer to the subject of a verb, as myself in I shave myself.", "S": ["compulsory ", "forced ", "spontaneous ", "uncontrolled ", "unintentional "], "A": ["deliberate ", "intended ", "planned ", "voluntary "]}
+{"index": 265156, "D": "(of a pronoun) used as an object to refer to the subject of a verb, as myself in I shave myself.", "S": ["compulsory", "forced", "spontaneous", "uncontrolled", "unintentional"], "A": ["deliberate", "intended", "planned", "voluntary"]}

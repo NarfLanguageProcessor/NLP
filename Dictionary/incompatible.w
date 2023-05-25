@@ -1,1 +1,1 @@
-{"index": 150102, "D": "not compatible;  unable to exist together in harmony", "S": ["conflicting ", "inappropriate ", "incongruous ", "inconsistent ", "irreconcilable ", "unsuitable ", "unsuited "], "A": ["appropriate ", "consistent ", "fitting ", "harmonious ", "proper ", "suitable "]}
+{"index": 150102, "D": "not compatible;  unable to exist together in harmony", "S": ["conflicting", "inappropriate", "incongruous", "inconsistent", "irreconcilable", "unsuitable", "unsuited"], "A": ["appropriate", "consistent", "fitting", "harmonious", "proper", "suitable"]}

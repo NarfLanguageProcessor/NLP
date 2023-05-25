@@ -1,1 +1,1 @@
-{"index": 227815, "D": "a film or incrustation, usually green, produced by oxidation on the surface of old bronze and often esteemed as being of ornamental value.", "S": ["blanket ", "coat ", "crust ", "glaze ", "layer ", "membrane ", "sheet ", "skin ", "varnish ", "veneer "], "A": []}
+{"index": 227815, "D": "a film or incrustation, usually green, produced by oxidation on the surface of old bronze and often esteemed as being of ornamental value.", "S": ["blanket", "coat", "crust", "glaze", "layer", "membrane", "sheet", "skin", "varnish", "veneer"], "A": []}

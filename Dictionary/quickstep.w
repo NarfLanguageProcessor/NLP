@@ -1,1 +1,1 @@
-{"index": 258521, "D": "(formerly) a lively step  used in marching.", "S": ["double time ", "double-quick time ", "quick march ", "quickstep march "], "A": []}
+{"index": 258521, "D": "(formerly) a lively step  used in marching.", "S": ["double time", "double-quick time", "quick march", "quickstep march"], "A": []}

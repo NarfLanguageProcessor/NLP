@@ -1,1 +1,1 @@
-{"index": 265586, "D": "of, relating to, or characterized by regeneration.", "S": ["artistic ", "developmental "], "A": []}
+{"index": 265586, "D": "of, relating to, or characterized by regeneration.", "S": ["artistic", "developmental"], "A": []}

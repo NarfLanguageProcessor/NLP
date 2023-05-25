@@ -1,1 +1,1 @@
-{"index": 145384, "D": "to proceed or work rapidly or energetically", "S": ["rush "], "A": ["delay ", "dissuade ", "leave alone ", "pull ", "repress ", "slow ", "suppress "]}
+{"index": 145384, "D": "to proceed or work rapidly or energetically", "S": ["rush"], "A": ["delay", "dissuade", "leave alone", "pull", "repress", "slow", "suppress"]}

@@ -1,1 +1,1 @@
-{"index": 103524, "D": "capable of being erected or set upright.", "S": ["cocked ", "elevated ", "firm ", "perpendicular ", "raised ", "standing ", "upright ", "vertical "], "A": ["lowered ", "prone "]}
+{"index": 103524, "D": "capable of being erected or set upright.", "S": ["cocked", "elevated", "firm", "perpendicular", "raised", "standing", "upright", "vertical"], "A": ["lowered", "prone"]}

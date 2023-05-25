@@ -1,1 +1,1 @@
-{"index": 314132, "D": "(of skin color, complexion, etc.) dark.", "S": ["black ", "brown ", "brunet ", "dark ", "dark-hued ", "dark-skinned ", "darkish ", "dusky ", "swart ", "tan ", "tawny "], "A": ["blonde ", "fair ", "light ", "pale "]}
+{"index": 314132, "D": "(of skin color, complexion, etc.) dark.", "S": ["black", "brown", "brunet", "dark", "dark-hued", "dark-skinned", "darkish", "dusky", "swart", "tan", "tawny"], "A": ["blonde", "fair", "light", "pale"]}

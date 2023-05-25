@@ -1,1 +1,1 @@
-{"index": 107680, "D": "capable of being expended. ", "S": ["disposable ", "superfluous ", "unimportant "], "A": ["important "]}
+{"index": 107680, "D": "capable of being expended. ", "S": ["disposable", "superfluous", "unimportant"], "A": ["important"]}

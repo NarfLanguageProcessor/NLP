@@ -1,1 +1,1 @@
-{"index": 252820, "D": "to support, or prevent from falling, with or as if with a prop (often followed by up)", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}
+{"index": 252820, "D": "to support, or prevent from falling, with or as if with a prop (often followed by up)", "S": ["approved", "assisted", "endorsed", "favored"], "A": ["disapproved"]}

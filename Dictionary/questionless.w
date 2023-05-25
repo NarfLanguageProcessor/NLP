@@ -1,1 +1,1 @@
-{"index": 258432, "D": "unquestionable; doubtless", "S": ["convinced ", "positive ", "sure "], "A": ["doubtful ", "uncertain ", "unsure "]}
+{"index": 258432, "D": "unquestionable; doubtless", "S": ["convinced", "positive", "sure"], "A": ["doubtful", "uncertain", "unsure"]}

@@ -1,1 +1,1 @@
-{"index": 317771, "D": "to abound or swarm; be prolific or fertile (usually followed by with).", "S": ["abound ", "annoy ", "assail ", "beset ", "crowd ", "defile ", "fill ", "infect ", "invade ", "overspread ", "overwhelm ", "pester ", "plague ", "swarm ", "teem ", "worry "], "A": []}
+{"index": 317771, "D": "to abound or swarm; be prolific or fertile (usually followed by with).", "S": ["abound", "annoy", "assail", "beset", "crowd", "defile", "fill", "infect", "invade", "overspread", "overwhelm", "pester", "plague", "swarm", "teem", "worry"], "A": []}

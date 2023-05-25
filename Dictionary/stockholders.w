@@ -1,1 +1,1 @@
-{"index": 304924, "D": [], "S": ["banker ", "lender ", "shareholder ", "venture capitalist "], "A": []}
+{"index": 304924, "D": [], "S": ["banker", "lender", "shareholder", "venture capitalist"], "A": []}

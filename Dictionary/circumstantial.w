@@ -1,1 +1,1 @@
-{"index": 58252, "D": "relating to or derived from circumstances", "S": ["coincidental ", "inconclusive ", "indirect "], "A": ["direct "]}
+{"index": 58252, "D": "relating to or derived from circumstances", "S": ["coincidental", "inconclusive", "indirect"], "A": ["direct"]}

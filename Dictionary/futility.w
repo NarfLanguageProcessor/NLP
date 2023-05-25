@@ -1,1 +1,1 @@
-{"index": 120698, "D": "the quality of being futile;  ineffectiveness; uselessness.", "S": ["emptiness ", "ineffectiveness "], "A": []}
+{"index": 120698, "D": "the quality of being futile;  ineffectiveness; uselessness.", "S": ["emptiness", "ineffectiveness"], "A": []}

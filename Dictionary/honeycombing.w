@@ -1,1 +1,1 @@
-{"index": 143339, "D": "a structure of rows of hexagonal wax cells, formed by bees in their hive for the storage of honey, pollen, and their eggs.", "S": ["puncture "], "A": ["close "]}
+{"index": 143339, "D": "a structure of rows of hexagonal wax cells, formed by bees in their hive for the storage of honey, pollen, and their eggs.", "S": ["puncture"], "A": ["close"]}

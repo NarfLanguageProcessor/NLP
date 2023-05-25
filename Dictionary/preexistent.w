@@ -1,1 +1,1 @@
-{"index": 247423, "D": "to exist  beforehand.", "S": ["introductory ", "previous ", "prior "], "A": ["later ", "back ", "inferior ", "last ", "unimportant "]}
+{"index": 247423, "D": "to exist  beforehand.", "S": ["introductory", "previous", "prior"], "A": ["later", "back", "inferior", "last", "unimportant"]}

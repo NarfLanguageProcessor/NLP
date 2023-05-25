@@ -1,1 +1,1 @@
-{"index": 26823, "D": "an elastic, horny substance growing in place of teeth in the upper jaw of certain whales,  and forming a series of thin, parallel plates on each side of the palate; whalebone. ", "S": ["mammal ", "porpoise "], "A": []}
+{"index": 26823, "D": "an elastic, horny substance growing in place of teeth in the upper jaw of certain whales,  and forming a series of thin, parallel plates on each side of the palate; whalebone. ", "S": ["mammal", "porpoise"], "A": []}

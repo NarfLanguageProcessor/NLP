@@ -1,1 +1,1 @@
-{"index": 48409, "D": "characterized by fussy or petulant faultfinding; querulous", "S": ["denunciation ", "objection "], "A": ["approval ", "compliment ", "flattery ", "praise ", "sanction "]}
+{"index": 48409, "D": "characterized by fussy or petulant faultfinding; querulous", "S": ["denunciation", "objection"], "A": ["approval", "compliment", "flattery", "praise", "sanction"]}

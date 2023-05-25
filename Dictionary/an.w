@@ -1,1 +1,1 @@
-{"index": 11449, "D": "the form of a  before an initial vowel sound (an arch; an honor) and sometimes, especially in British English, before an initial unstressed syllable beginning with a silent or weakly pronounced h", "S": ["one "], "A": ["every ", "the "]}
+{"index": 11449, "D": "the form of a  before an initial vowel sound (an arch; an honor) and sometimes, especially in British English, before an initial unstressed syllable beginning with a silent or weakly pronounced h", "S": ["one"], "A": ["every", "the"]}

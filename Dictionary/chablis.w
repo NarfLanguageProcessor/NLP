@@ -1,1 +1,1 @@
-{"index": 51828, "D": "a dry white wine from the Burgundy region in France.", "S": ["Gewurztraminer ", "Liebfraumilch ", "Moselle ", "Orvieto ", "Rhine ", "Riesling ", "asti spumante ", "chardonnay ", "chenin blanc ", "osso buco "], "A": []}
+{"index": 51828, "D": "a dry white wine from the Burgundy region in France.", "S": ["Gewurztraminer", "Liebfraumilch", "Moselle", "Orvieto", "Rhine", "Riesling", "asti spumante", "chardonnay", "chenin blanc", "osso buco"], "A": []}

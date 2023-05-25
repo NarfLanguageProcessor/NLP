@@ -1,1 +1,1 @@
-{"index": 73803, "D": "(of partial derivatives) mixed, especially of order two.", "S": ["blended ", "different ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar ", "uniform ", "separate ", "single "]}
+{"index": 73803, "D": "(of partial derivatives) mixed, especially of order two.", "S": ["blended", "different", "diverse", "varied"], "A": ["alike", "like", "same", "similar", "uniform", "separate", "single"]}

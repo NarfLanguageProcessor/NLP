@@ -1,1 +1,1 @@
-{"index": 219169, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": ["embellish "], "A": ["abridge ", "compress ", "condense ", "contract ", "curtail ", "decrease ", "diminish ", "lessen ", "lower ", "reduce ", "shorten ", "shrink ", "simplify "]}
+{"index": 219169, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": ["embellish"], "A": ["abridge", "compress", "condense", "contract", "curtail", "decrease", "diminish", "lessen", "lower", "reduce", "shorten", "shrink", "simplify"]}

@@ -1,1 +1,1 @@
-{"index": 151319, "D": "to lead or move by persuasion or influence, as to some action or state of mind", "S": ["compelling ", "convincing ", "forceful ", "persuasive ", "telling ", "weighty "], "A": ["ineffective ", "unimportant "]}
+{"index": 151319, "D": "to lead or move by persuasion or influence, as to some action or state of mind", "S": ["compelling", "convincing", "forceful", "persuasive", "telling", "weighty"], "A": ["ineffective", "unimportant"]}

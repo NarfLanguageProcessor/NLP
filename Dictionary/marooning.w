@@ -1,1 +1,1 @@
-{"index": 180291, "D": "dark brownish-red.", "S": ["betrayal "], "A": ["allowance ", "approval ", "arrival ", "coming ", "meeting ", "ratification ", "stay "]}
+{"index": 180291, "D": "dark brownish-red.", "S": ["betrayal"], "A": ["allowance", "approval", "arrival", "coming", "meeting", "ratification", "stay"]}

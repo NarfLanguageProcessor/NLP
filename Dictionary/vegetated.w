@@ -1,1 +1,1 @@
-{"index": 357695, "D": "to grow in, or as in, the manner of a plant.", "S": ["decay ", "deteriorate ", "exist ", "hibernate ", "idle ", "languish ", "loaf ", "stagnate ", "weaken "], "A": ["build ", "develop ", "flourish ", "grow ", "improve ", "strengthen "]}
+{"index": 357695, "D": "to grow in, or as in, the manner of a plant.", "S": ["decay", "deteriorate", "exist", "hibernate", "idle", "languish", "loaf", "stagnate", "weaken"], "A": ["build", "develop", "flourish", "grow", "improve", "strengthen"]}

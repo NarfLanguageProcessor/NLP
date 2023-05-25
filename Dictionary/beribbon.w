@@ -1,0 +1,1 @@
+{"index": 32076, "D": [], "S": ["adorn", "dress", "embroider"], "A": ["deface", "disfigure", "harm", "mar", "spoil"]}

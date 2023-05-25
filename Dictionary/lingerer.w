@@ -1,1 +1,0 @@
-{"index": 172831, "D": "to remain or stay on in a place longer than is usual or expected, as if from reluctance to leave", "S": ["dawdler ", "dilly-dallier ", "idler ", "lag ", "lagger ", "loafer ", "loiterer ", "lounger ", "poke ", "procrastinator ", "slowpoke ", "straggler "], "A": []}

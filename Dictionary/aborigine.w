@@ -1,1 +1,1 @@
-{"index": 716, "D": "from the very beginning; from the source or origin.", "S": ["aboriginal ", "autochthon ", "indigene ", "native "], "A": []}
+{"index": 716, "D": "from the very beginning; from the source or origin.", "S": ["aboriginal", "autochthon", "indigene", "native"], "A": []}

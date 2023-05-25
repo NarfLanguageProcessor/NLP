@@ -1,1 +1,1 @@
-{"index": 265684, "D": "a person who keeps a record; an official recorder.", "S": ["register "], "A": []}
+{"index": 265684, "D": "a person who keeps a record; an official recorder.", "S": ["register"], "A": []}

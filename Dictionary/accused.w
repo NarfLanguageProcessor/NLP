@@ -1,1 +1,1 @@
-{"index": 1868, "D": "charged with a crime, wrongdoing, fault, etc.", "S": ["arraigned ", "implicated ", "incriminated ", "indicted "], "A": ["acquitted ", "clear ", "discharged "]}
+{"index": 1868, "D": "charged with a crime, wrongdoing, fault, etc.", "S": ["arraigned", "implicated", "incriminated", "indicted"], "A": ["acquitted", "clear", "discharged"]}

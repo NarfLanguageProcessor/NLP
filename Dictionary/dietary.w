@@ -1,1 +1,1 @@
-{"index": 85207, "D": "of or relating to diet", "S": ["comestible ", "digestible ", "nourishing ", "nutrient ", "nutritional ", "nutritious ", "nutritive ", "peptic ", "salutary ", "sustaining ", "sustentative "], "A": []}
+{"index": 85207, "D": "of or relating to diet", "S": ["comestible", "digestible", "nourishing", "nutrient", "nutritional", "nutritious", "nutritive", "peptic", "salutary", "sustaining", "sustentative"], "A": []}

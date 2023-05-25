@@ -1,1 +1,1 @@
-{"index": 61058, "D": "composed of relatively large parts or particles", "S": ["rudely "], "A": []}
+{"index": 61058, "D": "composed of relatively large parts or particles", "S": ["rudely"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150105, "D": "not compatible;  unable to exist together in harmony", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}
+{"index": 150105, "D": "not compatible;  unable to exist together in harmony", "S": ["individually", "negatively", "separately", "variously"], "A": ["together"]}

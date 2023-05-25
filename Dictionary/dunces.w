@@ -1,1 +1,1 @@
-{"index": 94127, "D": "a dull-witted, stupid, or ignorant person; dolt.", "S": ["clodpoll "], "A": ["brain ", "genius "]}
+{"index": 94127, "D": "a dull-witted, stupid, or ignorant person; dolt.", "S": ["clodpoll"], "A": ["brain", "genius"]}

@@ -1,1 +1,1 @@
-{"index": 166717, "D": "an intricate combination of paths or passages in which it is difficult to find one's way or to reach the exit.", "S": ["tangle "], "A": ["ease ", "line ", "order ", "organization ", "simplicity "]}
+{"index": 166717, "D": "an intricate combination of paths or passages in which it is difficult to find one's way or to reach the exit.", "S": ["tangle"], "A": ["ease", "line", "order", "organization", "simplicity"]}

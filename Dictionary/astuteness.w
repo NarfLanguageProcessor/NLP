@@ -1,1 +1,1 @@
-{"index": 22353, "D": "the quality of being particularly discerning, clever, cunning, or ingenious", "S": ["acumen ", "brains ", "cleverness ", "intelligence ", "keenness ", "sagacity ", "understanding ", "wisdom "], "A": ["ignorance ", "inability ", "ineptness ", "stupidity "]}
+{"index": 22353, "D": "the quality of being particularly discerning, clever, cunning, or ingenious", "S": ["acumen", "brains", "cleverness", "intelligence", "keenness", "sagacity", "understanding", "wisdom"], "A": ["ignorance", "inability", "ineptness", "stupidity"]}

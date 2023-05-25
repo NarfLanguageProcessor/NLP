@@ -1,1 +1,1 @@
-{"index": 96505, "D": "crazy eights. ", "S": ["octadic ", "octagonal ", "octennial "], "A": []}
+{"index": 96505, "D": "crazy eights. ", "S": ["octadic", "octagonal", "octennial"], "A": []}

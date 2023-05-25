@@ -1,1 +1,1 @@
-{"index": 162269, "D": "to mix in a confused mass; put or throw together without order", "S": ["assortment ", "mishmash ", "pastiche ", "patchwork ", "tangle "], "A": ["arrangement ", "calm ", "harmony ", "method ", "order ", "orderliness ", "organization ", "system ", "tidiness "]}
+{"index": 162269, "D": "to mix in a confused mass; put or throw together without order", "S": ["assortment", "mishmash", "pastiche", "patchwork", "tangle"], "A": ["arrangement", "calm", "harmony", "method", "order", "orderliness", "organization", "system", "tidiness"]}

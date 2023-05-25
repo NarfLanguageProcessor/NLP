@@ -1,1 +1,1 @@
-{"index": 865, "D": "the act or an instance of abrogating,  or repealing", "S": ["annulment ", "repudiation "], "A": []}
+{"index": 865, "D": "the act or an instance of abrogating,  or repealing", "S": ["annulment", "repudiation"], "A": []}

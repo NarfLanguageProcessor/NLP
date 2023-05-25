@@ -1,1 +1,1 @@
-{"index": 119334, "D": "the front  of a building or lot.", "S": ["face ", "front ", "frontal ", "frontispiece "], "A": ["back ", "rear "]}
+{"index": 119334, "D": "the front  of a building or lot.", "S": ["face", "front", "frontal", "frontispiece"], "A": ["back", "rear"]}

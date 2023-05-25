@@ -1,1 +1,1 @@
-{"index": 87078, "D": "to put out of array or order; throw into disorder.", "S": ["disorganize "], "A": ["arrange ", "calm ", "clear up ", "comfort ", "enlighten ", "explain ", "neaten ", "order ", "organize ", "untangle ", "untwist "]}
+{"index": 87078, "D": "to put out of array or order; throw into disorder.", "S": ["disorganize"], "A": ["arrange", "calm", "clear up", "comfort", "enlighten", "explain", "neaten", "order", "organize", "untangle", "untwist"]}

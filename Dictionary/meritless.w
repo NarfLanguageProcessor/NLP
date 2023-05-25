@@ -1,1 +1,0 @@
-{"index": 183838, "D": "claim to respect and praise; excellence; worth.", "S": [], "A": []}

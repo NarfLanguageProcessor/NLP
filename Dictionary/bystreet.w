@@ -1,1 +1,1 @@
-{"index": 35137, "D": "a side street  or a private or obscure street;  byway.", "S": ["alley ", "backstreet ", "by-street ", "bylane ", "bypath ", "byroad ", "byway ", "side road "], "A": []}
+{"index": 35137, "D": "a side street  or a private or obscure street;  byway.", "S": ["alley", "backstreet", "by-street", "bylane", "bypath", "byroad", "byway", "side road"], "A": []}

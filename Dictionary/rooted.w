@@ -1,1 +1,1 @@
-{"index": 274307, "D": "having roots. ", "S": ["entrenched ", "fixed "], "A": []}
+{"index": 274307, "D": "having roots. ", "S": ["entrenched", "fixed"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 313285, "D": "highest in rank or authority; paramount; sovereign; chief.", "S": ["chiefly ", "especially ", "importantly ", "in particular ", "mainly ", "most of all ", "mostly ", "primarily ", "principally "], "A": ["lastly "]}
+{"index": 313285, "D": "highest in rank or authority; paramount; sovereign; chief.", "S": ["chiefly", "especially", "importantly", "in particular", "mainly", "most of all", "mostly", "primarily", "principally"], "A": ["lastly"]}

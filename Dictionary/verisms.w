@@ -1,1 +1,1 @@
-{"index": 358548, "D": "the theory that rigid representation of truth and reality is essential to art and literature, and therefore the ugly and vulgar must be included.", "S": ["faithfulness ", "loyalty "], "A": ["disloyalty ", "imprecision ", "inaccuracy ", "inexactness ", "irregularity "]}
+{"index": 358548, "D": "the theory that rigid representation of truth and reality is essential to art and literature, and therefore the ugly and vulgar must be included.", "S": ["faithfulness", "loyalty"], "A": ["disloyalty", "imprecision", "inaccuracy", "inexactness", "irregularity"]}

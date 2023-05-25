@@ -1,1 +1,1 @@
-{"index": 327302, "D": "to speak maliciously and falsely of; slander; defame", "S": ["assailant ", "mugger ", "raider "], "A": []}
+{"index": 327302, "D": "to speak maliciously and falsely of; slander; defame", "S": ["assailant", "mugger", "raider"], "A": []}

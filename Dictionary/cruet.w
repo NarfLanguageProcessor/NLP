@@ -1,1 +1,1 @@
-{"index": 74143, "D": "a glass bottle, especially one for holding vinegar, oil, etc., for the table.", "S": ["glass ", "jar ", "jug ", "urn ", "vial "], "A": []}
+{"index": 74143, "D": "a glass bottle, especially one for holding vinegar, oil, etc., for the table.", "S": ["glass", "jar", "jug", "urn", "vial"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 28411, "D": "a person who mixes and serves alcoholic drinks at a bar. ", "S": ["butler ", "steward "], "A": []}
+{"index": 28411, "D": "a person who mixes and serves alcoholic drinks at a bar. ", "S": ["butler", "steward"], "A": []}

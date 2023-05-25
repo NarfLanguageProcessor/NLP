@@ -1,1 +1,1 @@
-{"index": 129559, "D": "a building, room, or area, usually chiefly of glass, in which the temperature is maintained within a desired range, used for cultivating tender plants or growing plants out of season.", "S": ["arboretum ", "conservatory ", "nursery "], "A": []}
+{"index": 129559, "D": "a building, room, or area, usually chiefly of glass, in which the temperature is maintained within a desired range, used for cultivating tender plants or growing plants out of season.", "S": ["arboretum", "conservatory", "nursery"], "A": []}

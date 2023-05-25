@@ -1,1 +1,1 @@
-{"index": 230207, "D": "the characteristic fruit of plants of the gourd family, having a fleshy, many-seeded interior and a hard or firm rind, as the gourd, melon, and cucumber.", "S": ["cantaloupe ", "gourd ", "papaya ", "watermelon "], "A": []}
+{"index": 230207, "D": "the characteristic fruit of plants of the gourd family, having a fleshy, many-seeded interior and a hard or firm rind, as the gourd, melon, and cucumber.", "S": ["cantaloupe", "gourd", "papaya", "watermelon"], "A": []}

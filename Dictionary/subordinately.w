@@ -1,1 +1,1 @@
-{"index": 308710, "D": "placed in or belonging to a lower order or rank.", "S": ["casually ", "remotely "], "A": ["purposely "]}
+{"index": 308710, "D": "placed in or belonging to a lower order or rank.", "S": ["casually", "remotely"], "A": ["purposely"]}

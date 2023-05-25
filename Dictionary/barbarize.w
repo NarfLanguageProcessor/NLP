@@ -1,1 +1,1 @@
-{"index": 27731, "D": "to make barbarous;  brutalize; corrupt", "S": ["automate ", "brutalize "], "A": ["humanize "]}
+{"index": 27731, "D": "to make barbarous;  brutalize; corrupt", "S": ["automate", "brutalize"], "A": ["humanize"]}

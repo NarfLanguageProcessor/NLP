@@ -1,1 +1,1 @@
-{"index": 134752, "D": "mental labor; thought.", "S": ["cerebration ", "considering cap "], "A": []}
+{"index": 134752, "D": "mental labor; thought.", "S": ["cerebration", "considering cap"], "A": []}

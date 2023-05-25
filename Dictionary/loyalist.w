@@ -1,1 +1,1 @@
-{"index": 174738, "D": "a person who is loyal;  a supporter of the sovereign or of the existing government, especially in time of revolt.", "S": ["follower "], "A": ["traitor ", "turncoat "]}
+{"index": 174738, "D": "a person who is loyal;  a supporter of the sovereign or of the existing government, especially in time of revolt.", "S": ["follower"], "A": ["traitor", "turncoat"]}

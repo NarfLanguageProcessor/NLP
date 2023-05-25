@@ -1,1 +1,1 @@
-{"index": 259358, "D": "a passage or channel for water, as a millrace.", "S": ["avenue ", "carrier ", "means ", "medium ", "route ", "tunnel "], "A": ["closure ", "denial ", "refusal ", "veto "]}
+{"index": 259358, "D": "a passage or channel for water, as a millrace.", "S": ["avenue", "carrier", "means", "medium", "route", "tunnel"], "A": ["closure", "denial", "refusal", "veto"]}

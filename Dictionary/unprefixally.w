@@ -1,1 +1,0 @@
-{"index": 348344, "D": "an affix  placed before a word, base, or another prefix to modify a term's meaning, as by making the term negative, as un- in unkind, by signaling repetition, as re- in reinvent, or by indicating support, as pro- in proabolition. Compatible prefixes can work together, as un- and re- in unrefundable.", "S": [], "A": []}

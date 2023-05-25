@@ -1,1 +1,1 @@
-{"index": 175820, "D": "a proud, rebellious archangel, identified with Satan, who fell from heaven.", "S": ["Satan "], "A": []}
+{"index": 175820, "D": "a proud, rebellious archangel, identified with Satan, who fell from heaven.", "S": ["Satan"], "A": []}

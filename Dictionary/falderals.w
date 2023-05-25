@@ -1,1 +1,1 @@
-{"index": 109450, "D": "mere nonsense; foolish talk or ideas.", "S": ["absurdity ", "baloney ", "bunk ", "craziness ", "garbage ", "gibberish ", "gobbledygook ", "horse feathers ", "lunacy ", "nonsense ", "stupidity ", "twaddle "], "A": []}
+{"index": 109450, "D": "mere nonsense; foolish talk or ideas.", "S": ["absurdity", "baloney", "bunk", "craziness", "garbage", "gibberish", "gobbledygook", "horse feathers", "lunacy", "nonsense", "stupidity", "twaddle"], "A": []}

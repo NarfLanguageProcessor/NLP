@@ -1,1 +1,1 @@
-{"index": 356900, "D": [], "S": ["extortioner ", "freeloader ", "leech ", "parasite ", "sponge ", "tick "], "A": []}
+{"index": 356900, "D": [], "S": ["extortioner", "freeloader", "leech", "parasite", "sponge", "tick"], "A": []}

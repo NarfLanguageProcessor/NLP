@@ -1,1 +1,1 @@
-{"index": 259350, "D": "a person, animal, or thing that races  or takes part in a race,  as a racehorse, bicycle, yacht, etc.", "S": ["marathoner ", "runner ", "sprinter "], "A": []}
+{"index": 259350, "D": "a person, animal, or thing that races  or takes part in a race,  as a racehorse, bicycle, yacht, etc.", "S": ["marathoner", "runner", "sprinter"], "A": []}

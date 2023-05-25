@@ -1,1 +1,1 @@
-{"index": 117515, "D": "the act or process of formulating", "S": ["establishment ", "formation ", "production "], "A": ["being ", "conclusion ", "end ", "finish "]}
+{"index": 117515, "D": "the act or process of formulating", "S": ["establishment", "formation", "production"], "A": ["being", "conclusion", "end", "finish"]}

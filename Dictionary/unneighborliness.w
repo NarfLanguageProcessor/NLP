@@ -1,1 +1,0 @@
-{"index": 346843, "D": "having or showing qualities befitting a neighbor;  friendly.", "S": [], "A": []}

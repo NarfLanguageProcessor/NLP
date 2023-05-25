@@ -1,1 +1,1 @@
-{"index": 18555, "D": "abounding in trees; wooded.", "S": ["arboraceous ", "jungly ", "lumbering ", "sylvan ", "uncut "], "A": []}
+{"index": 18555, "D": "abounding in trees; wooded.", "S": ["arboraceous", "jungly", "lumbering", "sylvan", "uncut"], "A": []}

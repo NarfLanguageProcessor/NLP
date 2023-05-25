@@ -1,1 +1,1 @@
-{"index": 298994, "D": "to make a speech  or speeches;  harangue.", "S": ["oratory ", "speechmaking "], "A": []}
+{"index": 298994, "D": "to make a speech  or speeches;  harangue.", "S": ["oratory", "speechmaking"], "A": []}

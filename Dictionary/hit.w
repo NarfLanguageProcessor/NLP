@@ -1,1 +1,1 @@
-{"index": 141950, "D": "to deal a blow or stroke to", "S": ["bat ", "blow ", "punch ", "shot ", "swing "], "A": []}
+{"index": 141950, "D": "to deal a blow or stroke to", "S": ["bat", "blow", "punch", "shot", "swing"], "A": []}

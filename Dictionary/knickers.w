@@ -1,1 +1,1 @@
-{"index": 165533, "D": "loose-fitting short trousers gathered in at the knees.", "S": ["shorts ", "slacks ", "trousers ", "underpants "], "A": []}
+{"index": 165533, "D": "loose-fitting short trousers gathered in at the knees.", "S": ["shorts", "slacks", "trousers", "underpants"], "A": []}

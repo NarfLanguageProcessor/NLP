@@ -1,1 +1,1 @@
-{"index": 144452, "D": "a female servant employed in general domestic work in a home, especially to do housework.", "S": ["charwoman ", "cleaning lady ", "cleaning service ", "daily ", "daily woman ", "housecleaner ", "household help ", "housekeeper ", "maid ", "maidservant "], "A": []}
+{"index": 144452, "D": "a female servant employed in general domestic work in a home, especially to do housework.", "S": ["charwoman", "cleaning lady", "cleaning service", "daily", "daily woman", "housecleaner", "household help", "housekeeper", "maid", "maidservant"], "A": []}

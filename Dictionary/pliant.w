@@ -1,1 +1,1 @@
-{"index": 240064, "D": "bending readily; flexible; supple; adaptable", "S": ["compliant ", "docile ", "pliable "], "A": ["inflexible ", "unyielding "]}
+{"index": 240064, "D": "bending readily; flexible; supple; adaptable", "S": ["compliant", "docile", "pliable"], "A": ["inflexible", "unyielding"]}

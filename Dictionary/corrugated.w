@@ -1,1 +1,1 @@
-{"index": 69753, "D": "shaped into wavy folds or alternating furrows and ridges", "S": ["crumpled "], "A": ["flat ", "smooth "]}
+{"index": 69753, "D": "shaped into wavy folds or alternating furrows and ridges", "S": ["crumpled"], "A": ["flat", "smooth"]}

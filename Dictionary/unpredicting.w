@@ -1,1 +1,0 @@
-{"index": 348329, "D": "to declare or tell in advance; prophesy; foretell", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 109633, "D": [], "S": ["craving ", "desire ", "famine ", "greed ", "longing ", "lust ", "starvation ", "yearning "], "A": ["disgust ", "dislike ", "distaste ", "hate ", "hatred ", "fill ", "fullness "]}
+{"index": 109633, "D": [], "S": ["craving", "desire", "famine", "greed", "longing", "lust", "starvation", "yearning"], "A": ["disgust", "dislike", "distaste", "hate", "hatred", "fill", "fullness"]}

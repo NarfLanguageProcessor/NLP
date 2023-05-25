@@ -1,1 +1,1 @@
-{"index": 151072, "D": "not discreet; lacking prudence, good judgment, or circumspection", "S": ["carelessly ", "foolishly ", "inadvisedly ", "injudiciously ", "naively ", "rashly "], "A": []}
+{"index": 151072, "D": "not discreet; lacking prudence, good judgment, or circumspection", "S": ["carelessly", "foolishly", "inadvisedly", "injudiciously", "naively", "rashly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 71316, "D": "a direction or route taken or to be taken.", "S": ["development ", "line ", "plan ", "policy ", "procedure ", "program ", "series ", "system ", "way "], "A": ["disorder ", "disorganization ", "cessation ", "halt ", "stoppage "]}
+{"index": 71316, "D": "a direction or route taken or to be taken.", "S": ["development", "line", "plan", "policy", "procedure", "program", "series", "system", "way"], "A": ["disorder", "disorganization", "cessation", "halt", "stoppage"]}

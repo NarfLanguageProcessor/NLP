@@ -1,1 +1,1 @@
-{"index": 41431, "D": "a range pony or mustang of the western U.S., especially one that is not broken or is imperfectly broken.", "S": ["buckaroo ", "cattleman ", "cowhand ", "cowpoke ", "cowpuncher ", "drover ", "gaucho ", "herdsman ", "rancher ", "stockman ", "vaquero ", "wrangler "], "A": []}
+{"index": 41431, "D": "a range pony or mustang of the western U.S., especially one that is not broken or is imperfectly broken.", "S": ["buckaroo", "cattleman", "cowhand", "cowpoke", "cowpuncher", "drover", "gaucho", "herdsman", "rancher", "stockman", "vaquero", "wrangler"], "A": []}

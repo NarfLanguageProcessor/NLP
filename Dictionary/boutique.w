@@ -1,1 +1,1 @@
-{"index": 39086, "D": "a small shop or a small specialty department within a larger store, especially one that sells fashionable clothes and accessories or a special selection of other merchandise.", "S": ["booth ", "store "], "A": []}
+{"index": 39086, "D": "a small shop or a small specialty department within a larger store, especially one that sells fashionable clothes and accessories or a special selection of other merchandise.", "S": ["booth", "store"], "A": []}

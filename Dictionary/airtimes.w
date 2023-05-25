@@ -1,1 +1,1 @@
-{"index": 7012, "D": "the particular time that a program is broadcast or scheduled for broadcast", "S": ["advertisement ", "announcement ", "newscast ", "performance ", "program ", "publication ", "show ", "simulcast ", "transmission "], "A": []}
+{"index": 7012, "D": "the particular time that a program is broadcast or scheduled for broadcast", "S": ["advertisement", "announcement", "newscast", "performance", "program", "publication", "show", "simulcast", "transmission"], "A": []}

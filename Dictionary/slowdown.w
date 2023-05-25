@@ -1,1 +1,1 @@
-{"index": 294454, "D": "a slowing down or delay in progress, action, etc.", "S": ["deceleration ", "decline ", "delay ", "downtrend ", "downturn ", "drop ", "drop-off ", "falloff ", "slackening ", "stagnation ", "strike "], "A": ["increase ", "rise "]}
+{"index": 294454, "D": "a slowing down or delay in progress, action, etc.", "S": ["deceleration", "decline", "delay", "downtrend", "downturn", "drop", "drop-off", "falloff", "slackening", "stagnation", "strike"], "A": ["increase", "rise"]}

@@ -1,0 +1,1 @@
+{"index": 3419, "D": "utterly unyielding in attitude or opinion in spite of all appeals, urgings, etc.", "S": ["bullheadedness", "contumacy", "doggedness", "indomitability", "inexorability", "inexorableness", "inflexibility", "inflexibleness", "intransigence", "intransigency", "mulishness", "obduracy"], "A": []}

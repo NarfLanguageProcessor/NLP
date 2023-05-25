@@ -1,1 +1,1 @@
-{"index": 297882, "D": "a liquid food made by boiling or simmering meat, fish, or vegetables with various added ingredients.", "S": ["admixture ", "alloy ", "amalgamation "], "A": ["division ", "separation "]}
+{"index": 297882, "D": "a liquid food made by boiling or simmering meat, fish, or vegetables with various added ingredients.", "S": ["admixture", "alloy", "amalgamation"], "A": ["division", "separation"]}

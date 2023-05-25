@@ -1,1 +1,1 @@
-{"index": 93370, "D": "the dung of certain animals, such as rabbits, sheep, and birds", "S": ["dung ", "feces ", "manure ", "poop "], "A": []}
+{"index": 93370, "D": "the dung of certain animals, such as rabbits, sheep, and birds", "S": ["dung", "feces", "manure", "poop"], "A": []}

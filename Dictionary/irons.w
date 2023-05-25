@@ -1,1 +1,1 @@
-{"index": 158101, "D": "English actor.", "S": ["band ", "binding ", "chain ", "connection ", "cord ", "fastening ", "fetter ", "gunk ", "handcuff ", "hookup ", "ligature ", "link ", "linkage ", "manacle ", "network ", "nexus ", "rope ", "shackle ", "tie ", "tie-in ", "wire "], "A": []}
+{"index": 158101, "D": "English actor.", "S": ["band", "binding", "chain", "connection", "cord", "fastening", "fetter", "gunk", "handcuff", "hookup", "ligature", "link", "linkage", "manacle", "network", "nexus", "rope", "shackle", "tie", "tie-in", "wire"], "A": []}

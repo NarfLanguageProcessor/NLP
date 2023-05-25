@@ -1,1 +1,1 @@
-{"index": 364800, "D": "at times.", "S": ["although ", "at the same time ", "during ", "during the time ", "in the time ", "throughout the time ", "whilst "], "A": []}
+{"index": 364800, "D": "at times.", "S": ["although", "at the same time", "during", "during the time", "in the time", "throughout the time", "whilst"], "A": []}

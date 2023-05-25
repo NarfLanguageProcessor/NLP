@@ -1,1 +1,1 @@
-{"index": 150500, "D": "a variant spelling of encrust", "S": ["cover ", "glaze ", "laminate ", "paint ", "smear ", "stain "], "A": ["strip "]}
+{"index": 150500, "D": "a variant spelling of encrust", "S": ["cover", "glaze", "laminate", "paint", "smear", "stain"], "A": ["strip"]}

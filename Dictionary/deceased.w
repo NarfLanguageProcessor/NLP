@@ -1,1 +1,1 @@
-{"index": 78138, "D": "no longer living; dead.", "S": ["departed "], "A": ["current ", "existing ", "present "]}
+{"index": 78138, "D": "no longer living; dead.", "S": ["departed"], "A": ["current", "existing", "present"]}

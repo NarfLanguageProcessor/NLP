@@ -1,1 +1,0 @@
-{"index": 346333, "D": "migrating,  especially of people; migratory.", "S": [], "A": []}

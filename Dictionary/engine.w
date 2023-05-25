@@ -1,1 +1,1 @@
-{"index": 100339, "D": "a machine for converting thermal energy into mechanical energy or power to produce force and motion.", "S": ["appliance ", "diesel ", "generator ", "instrument ", "motor ", "power plant ", "tool ", "transformer ", "turbine ", "weapon "], "A": []}
+{"index": 100339, "D": "a machine for converting thermal energy into mechanical energy or power to produce force and motion.", "S": ["appliance", "diesel", "generator", "instrument", "motor", "power plant", "tool", "transformer", "turbine", "weapon"], "A": []}

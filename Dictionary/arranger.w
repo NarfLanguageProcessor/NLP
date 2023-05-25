@@ -1,1 +1,1 @@
-{"index": 20174, "D": "to place in proper, desired, or convenient order; adjust properly", "S": ["press agent ", "press officer ", "publicist "], "A": []}
+{"index": 20174, "D": "to place in proper, desired, or convenient order; adjust properly", "S": ["press agent", "press officer", "publicist"], "A": []}

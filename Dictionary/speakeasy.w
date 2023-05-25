@@ -1,1 +1,1 @@
-{"index": 298686, "D": "a saloon or nightclub selling alcoholic beverages illegally, especially during Prohibition.", "S": ["disco "], "A": []}
+{"index": 298686, "D": "a saloon or nightclub selling alcoholic beverages illegally, especially during Prohibition.", "S": ["disco"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 315834, "D": "any Old World tropical plant of the genus Tamarix, especially T. gallica, an ornamental Mediterranean shrub or small tree having slender, feathery branches.", "S": [], "A": []}

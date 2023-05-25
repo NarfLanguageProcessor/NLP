@@ -1,1 +1,1 @@
-{"index": 130127, "D": "merchandise, esp foodstuffs, sold by a grocer", "S": ["comestibles ", "edibles ", "foodstuffs ", "perishables ", "produce ", "staples ", "vegetables ", "viands "], "A": []}
+{"index": 130127, "D": "merchandise, esp foodstuffs, sold by a grocer", "S": ["comestibles", "edibles", "foodstuffs", "perishables", "produce", "staples", "vegetables", "viands"], "A": []}

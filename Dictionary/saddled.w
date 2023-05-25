@@ -1,1 +1,1 @@
-{"index": 276468, "D": "a seat for a rider on the back of a horse or other animal.", "S": ["adhered ", "baffled ", "caught ", "fixed ", "frozen ", "glued ", "joined ", "mired ", "perplexed ", "puzzled ", "stumped ", "stymied "], "A": []}
+{"index": 276468, "D": "a seat for a rider on the back of a horse or other animal.", "S": ["adhered", "baffled", "caught", "fixed", "frozen", "glued", "joined", "mired", "perplexed", "puzzled", "stumped", "stymied"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 48528, "D": "dead and putrefying flesh.", "S": ["body ", "corpse ", "remains "], "A": []}
+{"index": 48528, "D": "dead and putrefying flesh.", "S": ["body", "corpse", "remains"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 52685, "D": "a building attached to or a hall forming part of a cathedral or monastery, used as a meeting place for the chapter.", "S": ["nunnery "], "A": []}
+{"index": 52685, "D": "a building attached to or a hall forming part of a cathedral or monastery, used as a meeting place for the chapter.", "S": ["nunnery"], "A": []}

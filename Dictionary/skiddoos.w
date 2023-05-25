@@ -1,1 +1,1 @@
-{"index": 293103, "D": "to go away; get out.", "S": ["away ", "depart ", "hightail ", "leave ", "off ", "out ", "scat ", "scoot ", "scram ", "shoo ", "vamoose "], "A": []}
+{"index": 293103, "D": "to go away; get out.", "S": ["away", "depart", "hightail", "leave", "off", "out", "scat", "scoot", "scram", "shoo", "vamoose"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 152821, "D": "an introductory act or step; leading action", "S": ["action ", "drive ", "leadership ", "push "], "A": ["apathy ", "cowardice ", "idleness ", "inactivity ", "indifference ", "laziness ", "lethargy "]}
+{"index": 152821, "D": "an introductory act or step; leading action", "S": ["action", "drive", "leadership", "push"], "A": ["apathy", "cowardice", "idleness", "inactivity", "indifference", "laziness", "lethargy"]}

@@ -1,1 +1,1 @@
-{"index": 182611, "D": "Compare mitosis. ", "S": ["amitosis ", "cellular division ", "mitosis "], "A": []}
+{"index": 182611, "D": "Compare mitosis. ", "S": ["amitosis", "cellular division", "mitosis"], "A": []}

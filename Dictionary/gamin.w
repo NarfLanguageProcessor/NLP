@@ -1,1 +1,1 @@
-{"index": 121733, "D": "a neglected boy left to run about the streets; street urchin.", "S": ["child ", "fellow ", "guy ", "lad ", "youngster ", "youth "], "A": ["girl "]}
+{"index": 121733, "D": "a neglected boy left to run about the streets; street urchin.", "S": ["child", "fellow", "guy", "lad", "youngster", "youth"], "A": ["girl"]}

@@ -1,1 +1,1 @@
-{"index": 310964, "D": [], "S": ["accretion ", "computing ", "counting ", "reckoning ", "summation "], "A": ["decrease ", "deduction ", "lessening ", "loss ", "reduction ", "shrinkage ", "subtraction ", "withdrawal "]}
+{"index": 310964, "D": [], "S": ["accretion", "computing", "counting", "reckoning", "summation"], "A": ["decrease", "deduction", "lessening", "loss", "reduction", "shrinkage", "subtraction", "withdrawal"]}

@@ -1,1 +1,1 @@
-{"index": 331356, "D": "a company, band, or group of singers, actors, or other performers, especially one that travels about.", "S": ["association ", "band ", "cast ", "crew ", "ensemble ", "gang "], "A": []}
+{"index": 331356, "D": "a company, band, or group of singers, actors, or other performers, especially one that travels about.", "S": ["association", "band", "cast", "crew", "ensemble", "gang"], "A": []}

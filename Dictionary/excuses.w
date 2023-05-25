@@ -1,1 +1,1 @@
-{"index": 106920, "D": "to regard or judge with forgiveness or indulgence; pardon or forgive; overlook (a fault, error, etc.)", "S": ["alibi ", "apology ", "justification ", "pretext ", "rationalization ", "substitute ", "trick "], "A": ["permanent "]}
+{"index": 106920, "D": "to regard or judge with forgiveness or indulgence; pardon or forgive; overlook (a fault, error, etc.)", "S": ["alibi", "apology", "justification", "pretext", "rationalization", "substitute", "trick"], "A": ["permanent"]}

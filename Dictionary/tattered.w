@@ -1,1 +1,1 @@
-{"index": 316998, "D": "torn to tatters;  ragged", "S": ["battered ", "dilapidated ", "frayed ", "ripped ", "shabby ", "threadbare ", "torn "], "A": []}
+{"index": 316998, "D": "torn to tatters;  ragged", "S": ["battered", "dilapidated", "frayed", "ripped", "shabby", "threadbare", "torn"], "A": []}

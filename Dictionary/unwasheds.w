@@ -1,1 +1,1 @@
-{"index": 354063, "D": "not cleaned or purified by or as if by washing", "S": ["curs ", "dregs ", "rabble ", "riffraff ", "rubbish ", "trash ", "vermin "], "A": []}
+{"index": 354063, "D": "not cleaned or purified by or as if by washing", "S": ["curs", "dregs", "rabble", "riffraff", "rubbish", "trash", "vermin"], "A": []}

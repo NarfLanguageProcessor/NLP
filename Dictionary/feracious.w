@@ -1,1 +1,1 @@
-{"index": 111307, "D": [], "S": ["abundant ", "arable ", "fruitful ", "lush ", "productive ", "rich "], "A": ["barren ", "impotent ", "sparse ", "unfruitful ", "unproductive "]}
+{"index": 111307, "D": [], "S": ["abundant", "arable", "fruitful", "lush", "productive", "rich"], "A": ["barren", "impotent", "sparse", "unfruitful", "unproductive"]}

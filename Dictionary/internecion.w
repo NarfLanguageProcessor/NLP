@@ -1,1 +1,1 @@
-{"index": 155485, "D": [], "S": ["assassination ", "bloodbath ", "bloodshed ", "carnage ", "extermination ", "genocide ", "murder ", "slaughter ", "slaying "], "A": []}
+{"index": 155485, "D": [], "S": ["assassination", "bloodbath", "bloodshed", "carnage", "extermination", "genocide", "murder", "slaughter", "slaying"], "A": []}

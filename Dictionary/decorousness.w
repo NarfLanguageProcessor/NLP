@@ -1,1 +1,1 @@
-{"index": 78704, "D": "characterized by dignified propriety in conduct, manners, appearance, character, etc.", "S": ["civility ", "decorum ", "dignity ", "modesty ", "properness ", "propriety ", "respectability "], "A": ["bad manners ", "rudeness "]}
+{"index": 78704, "D": "characterized by dignified propriety in conduct, manners, appearance, character, etc.", "S": ["civility", "decorum", "dignity", "modesty", "properness", "propriety", "respectability"], "A": ["bad manners", "rudeness"]}

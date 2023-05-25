@@ -1,1 +1,1 @@
-{"index": 346456, "D": "to lessen in force or intensity, as wrath, grief, harshness, or pain; moderate. ", "S": ["desperate ", "forlorn ", "helpless ", "impossible ", "pointless ", "sad ", "tragic ", "useless "], "A": ["cheerful ", "good ", "happy ", "hopeful ", "joyful "]}
+{"index": 346456, "D": "to lessen in force or intensity, as wrath, grief, harshness, or pain; moderate. ", "S": ["desperate", "forlorn", "helpless", "impossible", "pointless", "sad", "tragic", "useless"], "A": ["cheerful", "good", "happy", "hopeful", "joyful"]}

@@ -1,1 +1,1 @@
-{"index": 233868, "D": "a person who specializes in philology, the study of literary texts and written records", "S": ["rhetorician "], "A": []}
+{"index": 233868, "D": "a person who specializes in philology, the study of literary texts and written records", "S": ["rhetorician"], "A": []}

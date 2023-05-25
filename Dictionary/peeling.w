@@ -1,1 +1,1 @@
-{"index": 229040, "D": "the act of a person or thing that peels. ", "S": ["crust ", "husk ", "skin "], "A": ["core "]}
+{"index": 229040, "D": "the act of a person or thing that peels. ", "S": ["crust", "husk", "skin"], "A": ["core"]}

@@ -1,1 +1,1 @@
-{"index": 106898, "D": "a detailed discussion of some point in a book, especially one added as an appendix.", "S": ["aside ", "departure ", "detour ", "deviation ", "divagation ", "divergence ", "divergency ", "tangent "], "A": ["sameness "]}
+{"index": 106898, "D": "a detailed discussion of some point in a book, especially one added as an appendix.", "S": ["aside", "departure", "detour", "deviation", "divagation", "divergence", "divergency", "tangent"], "A": ["sameness"]}

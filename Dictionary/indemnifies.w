@@ -1,1 +1,1 @@
-{"index": 150764, "D": "to compensate for damage or loss sustained, expense incurred, etc.", "S": ["compensate ", "pay ", "reimburse ", "remit ", "return "], "A": ["keep ", "lose ", "take "]}
+{"index": 150764, "D": "to compensate for damage or loss sustained, expense incurred, etc.", "S": ["compensate", "pay", "reimburse", "remit", "return"], "A": ["keep", "lose", "take"]}

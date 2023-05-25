@@ -1,1 +1,1 @@
-{"index": 273769, "D": "a person who works with rods,  as in making reinforced concrete.", "S": ["fisher ", "trawler "], "A": []}
+{"index": 273769, "D": "a person who works with rods,  as in making reinforced concrete.", "S": ["fisher", "trawler"], "A": []}

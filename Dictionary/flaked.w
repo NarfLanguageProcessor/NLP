@@ -1,1 +1,1 @@
-{"index": 113819, "D": "a small, flat, thin piece, especially one that has been or become detached from a larger piece or mass", "S": ["flecked ", "mottled ", "sprinkled "], "A": ["plain "]}
+{"index": 113819, "D": "a small, flat, thin piece, especially one that has been or become detached from a larger piece or mass", "S": ["flecked", "mottled", "sprinkled"], "A": ["plain"]}

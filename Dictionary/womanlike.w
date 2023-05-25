@@ -1,1 +1,1 @@
-{"index": 366986, "D": "like a woman;  womanly.", "S": ["feminine "], "A": ["unfeminine ", "unwomanly "]}
+{"index": 366986, "D": "like a woman;  womanly.", "S": ["feminine"], "A": ["unfeminine", "unwomanly"]}

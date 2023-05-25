@@ -1,1 +1,1 @@
-{"index": 325571, "D": "the manipulation of the tongue  in playing a wind instrument to interrupt the tone and produce a staccato effect.", "S": ["caress ", "fondle ", "graze ", "rub ", "soothe ", "wash "], "A": []}
+{"index": 325571, "D": "the manipulation of the tongue  in playing a wind instrument to interrupt the tone and produce a staccato effect.", "S": ["caress", "fondle", "graze", "rub", "soothe", "wash"], "A": []}

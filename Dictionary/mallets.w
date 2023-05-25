@@ -1,1 +1,1 @@
-{"index": 178565, "D": "a hammerlike tool with a head commonly of wood but occasionally of rawhide, plastic, etc., used for driving any tool with a wooden handle, as a chisel, or for striking a surface.", "S": ["business ", "staff "], "A": []}
+{"index": 178565, "D": "a hammerlike tool with a head commonly of wood but occasionally of rawhide, plastic, etc., used for driving any tool with a wooden handle, as a chisel, or for striking a surface.", "S": ["business", "staff"], "A": []}

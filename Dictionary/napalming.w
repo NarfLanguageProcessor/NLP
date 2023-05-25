@@ -1,1 +1,1 @@
-{"index": 196815, "D": "a highly incendiary jellylike substance used in fire bombs, flamethrowers, etc.", "S": ["attack ", "blast ", "blow up ", "bombard ", "destroy ", "raid ", "strafe ", "wipe out "], "A": ["aid ", "build ", "create ", "protect "]}
+{"index": 196815, "D": "a highly incendiary jellylike substance used in fire bombs, flamethrowers, etc.", "S": ["attack", "blast", "blow up", "bombard", "destroy", "raid", "strafe", "wipe out"], "A": ["aid", "build", "create", "protect"]}

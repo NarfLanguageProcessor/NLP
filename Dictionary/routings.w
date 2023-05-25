@@ -1,1 +1,1 @@
-{"index": 274965, "D": "the scheduling of the route  or itinerary of people, freight, etc.", "S": ["annexation ", "invasion ", "occupation ", "rout ", "subjugation ", "takeover "], "A": ["surrender ", "failure ", "forfeit ", "loss "]}
+{"index": 274965, "D": "the scheduling of the route  or itinerary of people, freight, etc.", "S": ["annexation", "invasion", "occupation", "rout", "subjugation", "takeover"], "A": ["surrender", "failure", "forfeit", "loss"]}

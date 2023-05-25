@@ -1,1 +1,1 @@
-{"index": 120225, "D": "a plural of fungus. ", "S": ["affliction ", "canker ", "decay ", "eyesore ", "infestation ", "mildew ", "pest ", "scourge "], "A": ["cleanliness ", "goodness ", "purification "]}
+{"index": 120225, "D": "a plural of fungus. ", "S": ["affliction", "canker", "decay", "eyesore", "infestation", "mildew", "pest", "scourge"], "A": ["cleanliness", "goodness", "purification"]}

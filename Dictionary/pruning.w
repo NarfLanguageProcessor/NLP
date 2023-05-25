@@ -1,1 +1,1 @@
-{"index": 254263, "D": "the act or practice of cutting or lopping off undesired twigs, branches, or roots", "S": ["clipping ", "cropping ", "shortening ", "trim "], "A": ["achievement ", "extending ", "increasing ", "success ", "triumph ", "victory "]}
+{"index": 254263, "D": "the act or practice of cutting or lopping off undesired twigs, branches, or roots", "S": ["clipping", "cropping", "shortening", "trim"], "A": ["achievement", "extending", "increasing", "success", "triumph", "victory"]}

@@ -1,1 +1,1 @@
-{"index": 239226, "D": "drunk. ", "S": ["bashed ", "blitzed ", "bombed ", "buzzed ", "crocked ", "flushed ", "flying ", "fried ", "gone ", "inebriated ", "lit ", "loaded ", "pissed ", "polluted ", "potted ", "sauced ", "sloshed ", "stewed ", "stoned ", "tanked ", "totaled ", "wasted "], "A": []}
+{"index": 239226, "D": "drunk. ", "S": ["bashed", "blitzed", "bombed", "buzzed", "crocked", "flushed", "flying", "fried", "gone", "inebriated", "lit", "loaded", "pissed", "polluted", "potted", "sauced", "sloshed", "stewed", "stoned", "tanked", "totaled", "wasted"], "A": []}

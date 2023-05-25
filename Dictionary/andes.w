@@ -1,1 +1,1 @@
-{"index": 12312, "D": "a mountain range in western South America, extending about 4,500 miles (7,250 kilometers) from northern Colombia and Venezuela south to Cape Horn. Highest peak, Aconcagua, 22,834 feet (6,960 meters).", "S": ["sierra "], "A": []}
+{"index": 12312, "D": "a mountain range in western South America, extending about 4,500 miles (7,250 kilometers) from northern Colombia and Venezuela south to Cape Horn. Highest peak, Aconcagua, 22,834 feet (6,960 meters).", "S": ["sierra"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 107897, "D": "pertaining to or concerned with exploration", "S": ["preparatory ", "prior "], "A": ["additional ", "extra ", "secondary "]}
+{"index": 107897, "D": "pertaining to or concerned with exploration", "S": ["preparatory", "prior"], "A": ["additional", "extra", "secondary"]}

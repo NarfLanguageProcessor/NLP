@@ -1,1 +1,1 @@
-{"index": 260564, "D": "the extent to which or the limits between which variation is possible", "S": ["area ", "dimension ", "field ", "length ", "matter ", "scope ", "space ", "spectrum ", "territory "], "A": ["extreme ", "limitation "]}
+{"index": 260564, "D": "the extent to which or the limits between which variation is possible", "S": ["area", "dimension", "field", "length", "matter", "scope", "space", "spectrum", "territory"], "A": ["extreme", "limitation"]}

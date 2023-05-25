@@ -1,1 +1,1 @@
-{"index": 191549, "D": "to soften in feeling or temper, as a person; pacify; appease. ", "S": ["soft "], "A": ["bitter ", "caustic ", "severe ", "sharp ", "tasty "]}
+{"index": 191549, "D": "to soften in feeling or temper, as a person; pacify; appease. ", "S": ["soft"], "A": ["bitter", "caustic", "severe", "sharp", "tasty"]}

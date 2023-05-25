@@ -1,1 +1,1 @@
-{"index": 357482, "D": "the fact or quality of being very great in extent, size, degree, amount, etc.; immensity or hugeness", "S": ["expanse "], "A": []}
+{"index": 357482, "D": "the fact or quality of being very great in extent, size, degree, amount, etc.; immensity or hugeness", "S": ["expanse"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 348413, "D": [], "S": ["battered ", "broken ", "dilapidated ", "disorganized ", "fragmented ", "frayed ", "frazzled ", "jagged ", "mean ", "notched ", "patched ", "rent ", "rough ", "serrated ", "shredded ", "torn "], "A": ["complete ", "even ", "fixed ", "nice ", "polite ", "smooth "]}
+{"index": 348413, "D": [], "S": ["battered", "broken", "dilapidated", "disorganized", "fragmented", "frayed", "frazzled", "jagged", "mean", "notched", "patched", "rent", "rough", "serrated", "shredded", "torn"], "A": ["complete", "even", "fixed", "nice", "polite", "smooth"]}

@@ -1,1 +1,1 @@
-{"index": 81153, "D": "an inhabitant; resident. ", "S": ["community ", "culture ", "people ", "populace ", "public ", "society ", "state "], "A": []}
+{"index": 81153, "D": "an inhabitant; resident. ", "S": ["community", "culture", "people", "populace", "public", "society", "state"], "A": []}

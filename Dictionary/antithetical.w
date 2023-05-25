@@ -1,1 +1,1 @@
-{"index": 16327, "D": "of the nature of or involving antithesis. ", "S": ["contradictory "], "A": []}
+{"index": 16327, "D": "of the nature of or involving antithesis. ", "S": ["contradictory"], "A": []}

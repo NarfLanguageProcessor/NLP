@@ -1,0 +1,1 @@
+{"index": 8094, "D": "a seaport in and the capital of Algeria, in the N part.", "S": [], "A": []}

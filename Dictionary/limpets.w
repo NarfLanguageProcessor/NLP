@@ -1,1 +1,1 @@
-{"index": 172500, "D": "any of various marine gastropods with a low conical shell open beneath, often browsing on rocks at the shoreline and adhering when disturbed.", "S": ["booby trap ", "mine "], "A": []}
+{"index": 172500, "D": "any of various marine gastropods with a low conical shell open beneath, often browsing on rocks at the shoreline and adhering when disturbed.", "S": ["booby trap", "mine"], "A": []}

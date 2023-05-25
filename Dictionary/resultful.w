@@ -1,1 +1,1 @@
-{"index": 270130, "D": [], "S": ["crucial ", "decisive ", "eventful ", "momentous "], "A": ["insignificant ", "trivial ", "unimportant "]}
+{"index": 270130, "D": [], "S": ["crucial", "decisive", "eventful", "momentous"], "A": ["insignificant", "trivial", "unimportant"]}

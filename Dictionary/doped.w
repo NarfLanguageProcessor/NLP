@@ -1,1 +1,1 @@
-{"index": 91608, "D": "any thick liquid or pasty preparation, as a lubricant, used in preparing a surface.", "S": ["dazed ", "intoxicated ", "narcotized ", "stoned ", "stupefied "], "A": []}
+{"index": 91608, "D": "any thick liquid or pasty preparation, as a lubricant, used in preparing a surface.", "S": ["dazed", "intoxicated", "narcotized", "stoned", "stupefied"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 113229, "D": "wood suitable for fuel.", "S": ["kindling ", "woodpile "], "A": []}
+{"index": 113229, "D": "wood suitable for fuel.", "S": ["kindling", "woodpile"], "A": []}

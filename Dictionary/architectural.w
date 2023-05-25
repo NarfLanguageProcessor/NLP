@@ -1,1 +1,1 @@
-{"index": 19016, "D": "of or relating to architecture", "S": ["architectonic ", "building ", "constructive ", "engineered "], "A": []}
+{"index": 19016, "D": "of or relating to architecture", "S": ["architectonic", "building", "constructive", "engineered"], "A": []}

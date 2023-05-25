@@ -1,1 +1,1 @@
-{"index": 167437, "D": "a person who is not a member of the clergy; one of the laity.", "S": ["believer ", "dilettante ", "follower ", "member ", "neophyte ", "novice ", "outsider ", "parishioner ", "proselyte ", "recruit ", "secular "], "A": ["professional "]}
+{"index": 167437, "D": "a person who is not a member of the clergy; one of the laity.", "S": ["believer", "dilettante", "follower", "member", "neophyte", "novice", "outsider", "parishioner", "proselyte", "recruit", "secular"], "A": ["professional"]}

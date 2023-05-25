@@ -1,1 +1,1 @@
-{"index": 31306, "D": "material for belts. ", "S": ["ribbon ", "ring ", "strap ", "string "], "A": []}
+{"index": 31306, "D": "material for belts. ", "S": ["ribbon", "ring", "strap", "string"], "A": []}

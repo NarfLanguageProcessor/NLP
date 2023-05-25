@@ -1,1 +1,1 @@
-{"index": 177984, "D": "a tall native New Zealand tree, olea cunninghami, with dark brown wood", "S": ["burgomaster ", "first selectman ", "lord mayor ", "mayor ", "supervisor "], "A": []}
+{"index": 177984, "D": "a tall native New Zealand tree, olea cunninghami, with dark brown wood", "S": ["burgomaster", "first selectman", "lord mayor", "mayor", "supervisor"], "A": []}

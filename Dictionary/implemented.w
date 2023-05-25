@@ -1,1 +1,1 @@
-{"index": 148764, "D": "carried out; put into effect, usually by means of a definite plan or procedure", "S": ["armed ", "clothed ", "dressed ", "furnished ", "rigged ", "supplied "], "A": ["bare ", "stripped ", "unfurnished "]}
+{"index": 148764, "D": "carried out; put into effect, usually by means of a definite plan or procedure", "S": ["armed", "clothed", "dressed", "furnished", "rigged", "supplied"], "A": ["bare", "stripped", "unfurnished"]}

@@ -1,1 +1,1 @@
-{"index": 97520, "D": "of or like an elf.", "S": ["fairy ", "gnome ", "pixie "], "A": []}
+{"index": 97520, "D": "of or like an elf.", "S": ["fairy", "gnome", "pixie"], "A": []}

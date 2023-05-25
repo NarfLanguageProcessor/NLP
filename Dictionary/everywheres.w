@@ -1,1 +1,1 @@
-{"index": 106177, "D": "a nonstandard variant of everywhere. ", "S": ["anywhere "], "A": []}
+{"index": 106177, "D": "a nonstandard variant of everywhere. ", "S": ["anywhere"], "A": []}

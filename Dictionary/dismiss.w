@@ -1,1 +1,1 @@
-{"index": 88706, "D": "to direct (an assembly of persons) to disperse or go", "S": ["decline ", "disband ", "dissolve ", "expel ", "let go ", "reject ", "release "], "A": ["accept ", "allow ", "hold ", "keep ", "legalize ", "permit ", "promote ", "retain "]}
+{"index": 88706, "D": "to direct (an assembly of persons) to disperse or go", "S": ["decline", "disband", "dissolve", "expel", "let go", "reject", "release"], "A": ["accept", "allow", "hold", "keep", "legalize", "permit", "promote", "retain"]}

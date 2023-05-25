@@ -1,1 +1,1 @@
-{"index": 266423, "D": "to bring together or incorporate (parts) into a whole.", "S": ["recovered ", "regained ", "reinstated ", "restored ", "retrieved "], "A": []}
+{"index": 266423, "D": "to bring together or incorporate (parts) into a whole.", "S": ["recovered", "regained", "reinstated", "restored", "retrieved"], "A": []}

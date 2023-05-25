@@ -1,1 +1,1 @@
-{"index": 107184, "D": "to urge, advise, or caution earnestly; admonish urgently.", "S": ["admonish ", "advise ", "beseech ", "call upon ", "caution ", "encourage ", "enjoin ", "incite ", "persuade ", "preach ", "prod "], "A": ["deter ", "discourage ", "dissuade ", "answer ", "leave alone "]}
+{"index": 107184, "D": "to urge, advise, or caution earnestly; admonish urgently.", "S": ["admonish", "advise", "beseech", "call upon", "caution", "encourage", "enjoin", "incite", "persuade", "preach", "prod"], "A": ["deter", "discourage", "dissuade", "answer", "leave alone"]}

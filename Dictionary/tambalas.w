@@ -1,1 +1,0 @@
-{"index": 315847, "D": "a bronze coin and monetary unit of Malawi, one 100th of a kwacha.", "S": [], "A": []}

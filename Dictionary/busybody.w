@@ -1,1 +1,1 @@
-{"index": 43466, "D": "a person who pries into or meddles in the affairs of others.", "S": ["buttinsky ", "eavesdropper ", "fink ", "gossip ", "intruder ", "meddler ", "newsmonger ", "rubberneck ", "scandalmonger ", "snoop ", "snooper ", "tattletale ", "troublemaker ", "yenta "], "A": []}
+{"index": 43466, "D": "a person who pries into or meddles in the affairs of others.", "S": ["buttinsky", "eavesdropper", "fink", "gossip", "intruder", "meddler", "newsmonger", "rubberneck", "scandalmonger", "snoop", "snooper", "tattletale", "troublemaker", "yenta"], "A": []}

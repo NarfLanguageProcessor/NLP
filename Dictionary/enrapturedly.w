@@ -1,1 +1,1 @@
-{"index": 100879, "D": "to move to rapture;  delight beyond measure", "S": ["admiringly ", "affectionately ", "earnestly ", "fondly ", "longingly ", "passionately ", "respectfully ", "reverently ", "thoughtfully ", "warmly ", "zealously "], "A": []}
+{"index": 100879, "D": "to move to rapture;  delight beyond measure", "S": ["admiringly", "affectionately", "earnestly", "fondly", "longingly", "passionately", "respectfully", "reverently", "thoughtfully", "warmly", "zealously"], "A": []}

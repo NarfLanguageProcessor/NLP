@@ -1,1 +1,1 @@
-{"index": 132411, "D": "rick1 (def. 1). ", "S": ["hay ", "haycock ", "pile ", "rick ", "sheaf ", "stack "], "A": []}
+{"index": 132411, "D": "rick1 (def. 1). ", "S": ["hay", "haycock", "pile", "rick", "sheaf", "stack"], "A": []}

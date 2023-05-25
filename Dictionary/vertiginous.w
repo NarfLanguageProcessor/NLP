@@ -1,1 +1,1 @@
-{"index": 358906, "D": "whirling; spinning; rotary", "S": ["dizzy ", "giddy ", "revolving ", "rotating ", "spinning ", "turning ", "unstable ", "whirling "], "A": []}
+{"index": 358906, "D": "whirling; spinning; rotary", "S": ["dizzy", "giddy", "revolving", "rotating", "spinning", "turning", "unstable", "whirling"], "A": []}

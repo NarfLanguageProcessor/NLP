@@ -1,1 +1,1 @@
-{"index": 158228, "D": [], "S": ["inattentive ", "reckless "], "A": ["attentive ", "careful ", "caring ", "cautious ", "concerned ", "heedful ", "observant ", "thoughtful "]}
+{"index": 158228, "D": [], "S": ["inattentive", "reckless"], "A": ["attentive", "careful", "caring", "cautious", "concerned", "heedful", "observant", "thoughtful"]}

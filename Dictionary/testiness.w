@@ -1,1 +1,0 @@
-{"index": 319825, "D": "irritably impatient; touchy.", "S": ["annoyance ", "asperity ", "fretfulness ", "peevishness ", "petulance ", "touchiness "], "A": ["happiness "]}

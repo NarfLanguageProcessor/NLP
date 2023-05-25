@@ -1,1 +1,1 @@
-{"index": 64247, "D": "the act or process of communicating; fact of being communicated.", "S": ["connection ", "contact ", "conversation ", "delivery ", "intelligence ", "link ", "transmission "], "A": ["quiet ", "denial ", "disagreement ", "silence "]}
+{"index": 64247, "D": "the act or process of communicating; fact of being communicated.", "S": ["connection", "contact", "conversation", "delivery", "intelligence", "link", "transmission"], "A": ["quiet", "denial", "disagreement", "silence"]}

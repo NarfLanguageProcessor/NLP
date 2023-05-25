@@ -1,1 +1,1 @@
-{"index": 350565, "D": "not scrupulous;  unrestrained by scruples;  conscienceless; unprincipled.", "S": ["cruelly ", "dishonestly ", "perfidiously ", "ruthlessly ", "unconscionably ", "unethically ", "viciously "], "A": []}
+{"index": 350565, "D": "not scrupulous;  unrestrained by scruples;  conscienceless; unprincipled.", "S": ["cruelly", "dishonestly", "perfidiously", "ruthlessly", "unconscionably", "unethically", "viciously"], "A": []}

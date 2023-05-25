@@ -1,1 +1,1 @@
-{"index": 289873, "D": "with a side  foremost.", "S": ["oblique "], "A": ["centered ", "central "]}
+{"index": 289873, "D": "with a side  foremost.", "S": ["oblique"], "A": ["centered", "central"]}

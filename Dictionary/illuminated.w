@@ -1,1 +1,1 @@
-{"index": 147468, "D": "to supply or brighten with light; light up.", "S": ["bright ", "lit up "], "A": []}
+{"index": 147468, "D": "to supply or brighten with light; light up.", "S": ["bright", "lit up"], "A": []}

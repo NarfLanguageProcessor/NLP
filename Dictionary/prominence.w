@@ -1,1 +1,1 @@
-{"index": 252255, "D": "the state of being prominent;  conspicuousness.", "S": ["eminence ", "height "], "A": ["unimportance ", "bottom ", "depression ", "nadir "]}
+{"index": 252255, "D": "the state of being prominent;  conspicuousness.", "S": ["eminence", "height"], "A": ["unimportance", "bottom", "depression", "nadir"]}

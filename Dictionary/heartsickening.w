@@ -1,1 +1,1 @@
-{"index": 134899, "D": "extremely depressed or unhappy.", "S": ["agonizing ", "distressing ", "excruciating ", "harrowing ", "heart-wrenching ", "heartbreaking ", "sad ", "touching ", "tragic "], "A": ["happy ", "pleasant ", "pleasing "]}
+{"index": 134899, "D": "extremely depressed or unhappy.", "S": ["agonizing", "distressing", "excruciating", "harrowing", "heart-wrenching", "heartbreaking", "sad", "touching", "tragic"], "A": ["happy", "pleasant", "pleasing"]}

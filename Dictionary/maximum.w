@@ -1,1 +1,1 @@
-{"index": 181562, "D": "the greatest quantity or amount possible, assignable, allowable, etc.", "S": ["best ", "maximal ", "outside ", "superlative ", "top ", "ultimate "], "A": ["least ", "low ", "lowest ", "worst "]}
+{"index": 181562, "D": "the greatest quantity or amount possible, assignable, allowable, etc.", "S": ["best", "maximal", "outside", "superlative", "top", "ultimate"], "A": ["least", "low", "lowest", "worst"]}

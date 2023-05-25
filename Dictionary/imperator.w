@@ -1,1 +1,1 @@
-{"index": 148477, "D": "an absolute or supreme ruler.", "S": ["emperor ", "monarch ", "sultan "], "A": []}
+{"index": 148477, "D": "an absolute or supreme ruler.", "S": ["emperor", "monarch", "sultan"], "A": []}

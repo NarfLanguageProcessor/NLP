@@ -1,1 +1,1 @@
-{"index": 324702, "D": "to excite or arouse agreeably, often in a sexually suggestive way", "S": ["amuse ", "entertain ", "tantalize ", "tease ", "tickle "], "A": ["bore ", "tire ", "let go ", "release "]}
+{"index": 324702, "D": "to excite or arouse agreeably, often in a sexually suggestive way", "S": ["amuse", "entertain", "tantalize", "tease", "tickle"], "A": ["bore", "tire", "let go", "release"]}

@@ -1,1 +1,1 @@
-{"index": 343028, "D": [], "S": ["distant ", "impassable ", "remote ", "unattainable ", "unavailable ", "unreachable "], "A": ["close ", "friendly ", "near ", "nearby ", "warm "]}
+{"index": 343028, "D": [], "S": ["distant", "impassable", "remote", "unattainable", "unavailable", "unreachable"], "A": ["close", "friendly", "near", "nearby", "warm"]}

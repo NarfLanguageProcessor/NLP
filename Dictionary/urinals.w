@@ -1,1 +1,1 @@
-{"index": 355656, "D": "a flushable wall fixture, as in a public lavatory, used by men for urinating. ", "S": ["latrine ", "lavatory ", "men's room ", "outhouse ", "toilet "], "A": []}
+{"index": 355656, "D": "a flushable wall fixture, as in a public lavatory, used by men for urinating. ", "S": ["latrine", "lavatory", "men's room", "outhouse", "toilet"], "A": []}

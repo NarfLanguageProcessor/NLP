@@ -1,1 +1,1 @@
-{"index": 1661, "D": "something incidental or added for ornament, symmetry, etc.", "S": ["accessory ", "adjunct ", "appurtenance ", "attachment ", "attendant ", "attribute ", "augmentation ", "complement ", "concomitant ", "enhancement ", "enrichment ", "supplement "], "A": []}
+{"index": 1661, "D": "something incidental or added for ornament, symmetry, etc.", "S": ["accessory", "adjunct", "appurtenance", "attachment", "attendant", "attribute", "augmentation", "complement", "concomitant", "enhancement", "enrichment", "supplement"], "A": []}

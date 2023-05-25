@@ -1,1 +1,1 @@
-{"index": 66573, "D": "to signify or suggest (certain meanings, ideas, etc.) in addition to the explicit or primary meaning", "S": ["hint at ", "signify "], "A": ["conceal ", "hide "]}
+{"index": 66573, "D": "to signify or suggest (certain meanings, ideas, etc.) in addition to the explicit or primary meaning", "S": ["hint at", "signify"], "A": ["conceal", "hide"]}

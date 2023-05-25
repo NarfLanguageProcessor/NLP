@@ -1,1 +1,1 @@
-{"index": 127722, "D": "a banner suspended from a crossbar, often with several streamers or tails.", "S": ["emblem ", "headline ", "pennant ", "streamer "], "A": []}
+{"index": 127722, "D": "a banner suspended from a crossbar, often with several streamers or tails.", "S": ["emblem", "headline", "pennant", "streamer"], "A": []}

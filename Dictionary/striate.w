@@ -1,1 +1,1 @@
-{"index": 306179, "D": "to mark with striae;  furrow; stripe; streak.", "S": ["band ", "dapple ", "daub ", "fleck ", "marble ", "slash ", "smear ", "spot ", "stripe ", "variegate ", "vein "], "A": []}
+{"index": 306179, "D": "to mark with striae;  furrow; stripe; streak.", "S": ["band", "dapple", "daub", "fleck", "marble", "slash", "smear", "spot", "stripe", "variegate", "vein"], "A": []}

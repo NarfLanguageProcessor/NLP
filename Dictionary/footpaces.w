@@ -1,1 +1,1 @@
-{"index": 116222, "D": "walking pace. ", "S": ["crawl ", "creep ", "lumbering pace ", "slow motion ", "tortoise's pace ", "turtle's pace "], "A": []}
+{"index": 116222, "D": "walking pace. ", "S": ["crawl", "creep", "lumbering pace", "slow motion", "tortoise's pace", "turtle's pace"], "A": []}

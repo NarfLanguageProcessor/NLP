@@ -1,0 +1,1 @@
+{"index": 26056, "D": "killing bacteria;  capable of or used for killing bacteria", "S": ["hygienic", "sterile"], "A": ["dirty"]}

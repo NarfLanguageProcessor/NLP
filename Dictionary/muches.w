@@ -1,1 +1,1 @@
-{"index": 194515, "D": "great in quantity, measure, or degree", "S": ["enough "], "A": ["little "]}
+{"index": 194515, "D": "great in quantity, measure, or degree", "S": ["enough"], "A": ["little"]}

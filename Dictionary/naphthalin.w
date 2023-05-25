@@ -1,1 +1,0 @@
-{"index": 196836, "D": "a white, crystalline, water-insoluble hydrocarbon, C10H8, usually obtained from coal tar", "S": [], "A": []}

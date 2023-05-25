@@ -1,1 +1,1 @@
-{"index": 32890, "D": "the inclination that one line or surface makes with another when not at right angles.", "S": ["chamfered ", "slanting ", "sloping "], "A": []}
+{"index": 32890, "D": "the inclination that one line or surface makes with another when not at right angles.", "S": ["chamfered", "slanting", "sloping"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 256336, "D": "the soft, juicy, edible part of a fruit.", "S": ["rubbish ", "trash "], "A": ["clean ", "moral ", "nice "]}

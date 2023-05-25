@@ -1,1 +1,0 @@
-{"index": 251830, "D": "a cell that is the precursor of one ovum or many spermatozoa; a spermatocyte or oocyte.", "S": [], "A": []}

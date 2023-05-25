@@ -1,1 +1,1 @@
-{"index": 209063, "D": "promoting or sustaining life, growth, or strength", "S": ["wholesome "], "A": ["bad ", "unhealthy ", "unwholesome "]}
+{"index": 209063, "D": "promoting or sustaining life, growth, or strength", "S": ["wholesome"], "A": ["bad", "unhealthy", "unwholesome"]}

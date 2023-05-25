@@ -1,1 +1,1 @@
-{"index": 192018, "D": "(in Christianity) a man who has withdrawn from the world for religious reasons, especially as a member of an order of cenobites living according to a particular rule and under vows of poverty, chastity, and obedience.", "S": ["abbot ", "friar ", "priest "], "A": []}
+{"index": 192018, "D": "(in Christianity) a man who has withdrawn from the world for religious reasons, especially as a member of an order of cenobites living according to a particular rule and under vows of poverty, chastity, and obedience.", "S": ["abbot", "friar", "priest"], "A": []}

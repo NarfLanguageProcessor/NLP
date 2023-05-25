@@ -1,1 +1,1 @@
-{"index": 101439, "D": "attractive; alluring", "S": ["alluring ", "appealing ", "captivating ", "desirable ", "engaging ", "fascinating ", "inviting ", "tempting "], "A": ["boring ", "disgusting ", "repulsive ", "unattractive ", "undesirable ", "repellent "]}
+{"index": 101439, "D": "attractive; alluring", "S": ["alluring", "appealing", "captivating", "desirable", "engaging", "fascinating", "inviting", "tempting"], "A": ["boring", "disgusting", "repulsive", "unattractive", "undesirable", "repellent"]}

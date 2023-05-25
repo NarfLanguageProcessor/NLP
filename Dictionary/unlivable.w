@@ -1,1 +1,1 @@
-{"index": 345696, "D": "suitable for living in; habitable; comfortable", "S": ["dilapidated ", "run down ", "unoccupiable "], "A": ["inhabitable ", "livable "]}
+{"index": 345696, "D": "suitable for living in; habitable; comfortable", "S": ["dilapidated", "run down", "unoccupiable"], "A": ["inhabitable", "livable"]}

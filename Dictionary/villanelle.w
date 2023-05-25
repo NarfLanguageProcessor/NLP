@@ -1,1 +1,1 @@
-{"index": 359745, "D": "a short poem of fixed form, written in tercets, usually five in number, followed by a final quatrain, all being based on two rhymes.", "S": ["ballad ", "composition ", "epic ", "lyric ", "poetry ", "rhyme ", "sonnet ", "verse ", "writing "], "A": ["prose "]}
+{"index": 359745, "D": "a short poem of fixed form, written in tercets, usually five in number, followed by a final quatrain, all being based on two rhymes.", "S": ["ballad", "composition", "epic", "lyric", "poetry", "rhyme", "sonnet", "verse", "writing"], "A": ["prose"]}

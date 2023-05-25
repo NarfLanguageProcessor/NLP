@@ -1,1 +1,1 @@
-{"index": 30149, "D": "a shallow toilet pan for use by persons confined to bed.", "S": ["chamber ", "jerry ", "jordan ", "pisspot ", "potty ", "thunder mug "], "A": []}
+{"index": 30149, "D": "a shallow toilet pan for use by persons confined to bed.", "S": ["chamber", "jerry", "jordan", "pisspot", "potty", "thunder mug"], "A": []}

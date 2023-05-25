@@ -1,1 +1,1 @@
-{"index": 239231, "D": "the process of working with plaster. ", "S": ["adhesive ", "cement ", "glue ", "lime ", "mortar ", "stucco "], "A": []}
+{"index": 239231, "D": "the process of working with plaster. ", "S": ["adhesive", "cement", "glue", "lime", "mortar", "stucco"], "A": []}

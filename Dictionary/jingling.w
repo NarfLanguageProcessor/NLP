@@ -1,1 +1,1 @@
-{"index": 161302, "D": "to make clinking or tinkling sounds, as do coins, keys, or other light, resonant metal objects when coming into contact or being struck together repeatedly", "S": ["clang ", "clatter ", "clink "], "A": []}
+{"index": 161302, "D": "to make clinking or tinkling sounds, as do coins, keys, or other light, resonant metal objects when coming into contact or being struck together repeatedly", "S": ["clang", "clatter", "clink"], "A": []}

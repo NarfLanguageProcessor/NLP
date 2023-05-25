@@ -1,1 +1,1 @@
-{"index": 131098, "D": "a device for beheading a person by means of a heavy blade that is dropped between two posts serving as guides", "S": ["behead ", "execute ", "lop "], "A": []}
+{"index": 131098, "D": "a device for beheading a person by means of a heavy blade that is dropped between two posts serving as guides", "S": ["behead", "execute", "lop"], "A": []}

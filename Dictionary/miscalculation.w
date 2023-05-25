@@ -1,1 +1,0 @@
-{"index": 188840, "D": "to calculate  or judge incorrectly", "S": ["blunder ", "error ", "misinterpretation ", "misjudgment ", "misunderstanding "], "A": ["accuracy ", "correction ", "success "]}

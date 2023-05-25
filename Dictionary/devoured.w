@@ -1,1 +1,1 @@
-{"index": 83697, "D": "to swallow or eat up hungrily, voraciously, or ravenously.", "S": ["broken ", "demolished ", "devastated ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}
+{"index": 83697, "D": "to swallow or eat up hungrily, voraciously, or ravenously.", "S": ["broken", "demolished", "devastated", "lost", "ravaged", "ruined", "shattered", "smashed", "wrecked"], "A": ["fixed", "repaired", "sober", "successful"]}

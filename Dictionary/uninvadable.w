@@ -1,1 +1,0 @@
-{"index": 344839, "D": "to enter forcefully as an enemy; go into with hostile intent", "S": [], "A": []}

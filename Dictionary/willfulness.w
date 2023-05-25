@@ -1,1 +1,1 @@
-{"index": 365780, "D": "deliberate, voluntary, or intentional", "S": ["doggedness ", "mulishness ", "pertinacity ", "pigheadedness ", "resolve ", "self-will ", "stubbornness ", "tenaciousness ", "tenacity "], "A": ["irresolution "]}
+{"index": 365780, "D": "deliberate, voluntary, or intentional", "S": ["doggedness", "mulishness", "pertinacity", "pigheadedness", "resolve", "self-will", "stubbornness", "tenaciousness", "tenacity"], "A": ["irresolution"]}

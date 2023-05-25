@@ -1,1 +1,1 @@
-{"index": 103079, "D": [], "S": ["anapestic ", "dactylic ", "dramatic ", "elegiac ", "epic ", "epical ", "iambic ", "idyllic ", "imaginative ", "lyric ", "lyrical ", "melodious ", "metrical ", "odic ", "rhythmical ", "romantic ", "songlike ", "tuneful "], "A": ["prosaic "]}
+{"index": 103079, "D": [], "S": ["anapestic", "dactylic", "dramatic", "elegiac", "epic", "epical", "iambic", "idyllic", "imaginative", "lyric", "lyrical", "melodious", "metrical", "odic", "rhythmical", "romantic", "songlike", "tuneful"], "A": ["prosaic"]}

@@ -1,1 +1,1 @@
-{"index": 289698, "D": "an inflammatory disease of the hair follicles, characterized by a pustular eruption.", "S": ["sycosis barbae ", "tinea barbae "], "A": []}
+{"index": 289698, "D": "an inflammatory disease of the hair follicles, characterized by a pustular eruption.", "S": ["sycosis barbae", "tinea barbae"], "A": []}

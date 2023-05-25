@@ -1,1 +1,1 @@
-{"index": 76494, "D": "color blindness, especially the inability to distinguish red from green.", "S": ["achromatic vision ", "achromatopsia ", "color vision deficiency ", "dichromatic vision "], "A": []}
+{"index": 76494, "D": "color blindness, especially the inability to distinguish red from green.", "S": ["achromatic vision", "achromatopsia", "color vision deficiency", "dichromatic vision"], "A": []}

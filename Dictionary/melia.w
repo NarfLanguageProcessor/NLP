@@ -1,1 +1,0 @@
-{"index": 182832, "D": "a combining form occurring in compound words that denote a condition of the limbs, as specified by the initial element", "S": [], "A": []}

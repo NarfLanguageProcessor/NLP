@@ -1,1 +1,1 @@
-{"index": 357057, "D": "production or formation of vapor. ", "S": ["dispersal ", "melting "], "A": ["appearance "]}
+{"index": 357057, "D": "production or formation of vapor. ", "S": ["dispersal", "melting"], "A": ["appearance"]}

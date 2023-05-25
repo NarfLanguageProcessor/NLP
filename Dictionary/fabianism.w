@@ -1,1 +1,1 @@
-{"index": 108877, "D": "the theories of economic and social reform advocated by the Fabian Society. ", "S": ["communism "], "A": []}
+{"index": 108877, "D": "the theories of economic and social reform advocated by the Fabian Society. ", "S": ["communism"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 315097, "D": "equipment; tackle. ", "S": ["conflict ", "intervention ", "intrusion ", "obstruction ", "tampering "], "A": ["encouragement "]}
+{"index": 315097, "D": "equipment; tackle. ", "S": ["conflict", "intervention", "intrusion", "obstruction", "tampering"], "A": ["encouragement"]}

@@ -1,1 +1,1 @@
-{"index": 13527, "D": "to attach, append, or add, especially to something larger or more important.", "S": ["addendum ", "appendix "], "A": ["base ", "lessening ", "subtraction "]}
+{"index": 13527, "D": "to attach, append, or add, especially to something larger or more important.", "S": ["addendum", "appendix"], "A": ["base", "lessening", "subtraction"]}

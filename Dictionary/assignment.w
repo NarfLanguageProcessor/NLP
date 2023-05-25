@@ -1,1 +1,1 @@
-{"index": 21784, "D": "something assigned, as a particular task or duty", "S": ["appointment ", "chore ", "drill ", "duty ", "homework ", "job ", "position ", "post ", "practice ", "stint "], "A": ["unemployment "]}
+{"index": 21784, "D": "something assigned, as a particular task or duty", "S": ["appointment", "chore", "drill", "duty", "homework", "job", "position", "post", "practice", "stint"], "A": ["unemployment"]}

@@ -1,1 +1,1 @@
-{"index": 179541, "D": "a mantle  or cloak, especially one worn by women.", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "dolman ", "fichu ", "gabardine ", "mantilla ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}
+{"index": 179541, "D": "a mantle  or cloak, especially one worn by women.", "S": ["Vandyke", "capote", "cardinal", "cloak", "cope", "dolman", "fichu", "gabardine", "mantilla", "mantle", "pelisse", "poncho", "shawl", "tabard", "tippet", "wrap", "wrapper"], "A": []}

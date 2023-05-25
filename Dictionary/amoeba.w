@@ -1,0 +1,1 @@
+{"index": 10855, "D": "a variant of ameba. ", "S": ["animalcule", "animalculum", "n"], "A": []}

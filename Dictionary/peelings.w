@@ -1,1 +1,1 @@
-{"index": 229041, "D": "the act of a person or thing that peels. ", "S": ["bark ", "cover ", "epicarp ", "exocarp ", "husk ", "peeling ", "pellicle ", "rind ", "shell ", "shuck "], "A": ["innards ", "insides "]}
+{"index": 229041, "D": "the act of a person or thing that peels. ", "S": ["bark", "cover", "epicarp", "exocarp", "husk", "peeling", "pellicle", "rind", "shell", "shuck"], "A": ["innards", "insides"]}

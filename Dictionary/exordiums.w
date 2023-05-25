@@ -1,1 +1,1 @@
-{"index": 107467, "D": "the beginning of anything.", "S": ["preamble ", "preface ", "prologue "], "A": ["conclusion "]}
+{"index": 107467, "D": "the beginning of anything.", "S": ["preamble", "preface", "prologue"], "A": ["conclusion"]}

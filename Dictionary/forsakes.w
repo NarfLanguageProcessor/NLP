@@ -1,1 +1,1 @@
-{"index": 117585, "D": "to quit or leave entirely; abandon; desert", "S": ["disown ", "forgo ", "forswear ", "jettison ", "quit ", "relinquish ", "renounce ", "repudiate ", "set aside ", "spurn "], "A": ["allow ", "approve ", "continue ", "keep ", "claim ", "hold ", "maintain "]}
+{"index": 117585, "D": "to quit or leave entirely; abandon; desert", "S": ["disown", "forgo", "forswear", "jettison", "quit", "relinquish", "renounce", "repudiate", "set aside", "spurn"], "A": ["allow", "approve", "continue", "keep", "claim", "hold", "maintain"]}

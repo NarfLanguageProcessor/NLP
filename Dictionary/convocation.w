@@ -1,1 +1,1 @@
-{"index": 68132, "D": "the act of convoking.", "S": ["confab "], "A": []}
+{"index": 68132, "D": "the act of convoking.", "S": ["confab"], "A": []}

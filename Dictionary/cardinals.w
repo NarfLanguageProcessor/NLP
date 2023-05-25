@@ -1,1 +1,1 @@
-{"index": 47769, "D": [], "S": ["figure ", "statistic ", "sum ", "total "], "A": ["part "]}
+{"index": 47769, "D": [], "S": ["figure", "statistic", "sum", "total"], "A": ["part"]}

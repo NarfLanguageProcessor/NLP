@@ -1,1 +1,1 @@
-{"index": 154809, "D": "occurring between, involving, or common to different religious denominations.", "S": ["blended ", "different ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar ", "uniform ", "separate ", "single "]}
+{"index": 154809, "D": "occurring between, involving, or common to different religious denominations.", "S": ["blended", "different", "diverse", "varied"], "A": ["alike", "like", "same", "similar", "uniform", "separate", "single"]}

@@ -1,1 +1,1 @@
-{"index": 101126, "D": "occurring after something else; subsequent or following", "S": ["coming ", "consequent ", "subsequent "], "A": ["antecedent ", "preceding "]}
+{"index": 101126, "D": "occurring after something else; subsequent or following", "S": ["coming", "consequent", "subsequent"], "A": ["antecedent", "preceding"]}

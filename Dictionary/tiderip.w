@@ -1,1 +1,0 @@
-{"index": 323325, "D": "a rip  caused by conflicting tidal currents or by a tidal current crossing a rough bottom.", "S": [], "A": []}

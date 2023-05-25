@@ -1,1 +1,1 @@
-{"index": 333295, "D": "two times, as in succession", "S": ["double ", "doubly "], "A": []}
+{"index": 333295, "D": "two times, as in succession", "S": ["double", "doubly"], "A": []}

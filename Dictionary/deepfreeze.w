@@ -1,1 +1,1 @@
-{"index": 78995, "D": "a state or period of halted or suspended activity or progress", "S": ["arctic frost ", "big freeze ", "cold ", "cold storage ", "freeze ", "frost ", "hard freeze ", "hard frost ", "sharp freeze "], "A": []}
+{"index": 78995, "D": "a state or period of halted or suspended activity or progress", "S": ["arctic frost", "big freeze", "cold", "cold storage", "freeze", "frost", "hard freeze", "hard frost", "sharp freeze"], "A": []}

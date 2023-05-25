@@ -1,1 +1,1 @@
-{"index": 195204, "D": "a large corporation with operations and subsidiaries in several countries.", "S": ["business ", "commerce ", "corporation ", "management ", "production ", "trade "], "A": ["idleness ", "indolence ", "laziness ", "lethargy ", "unemployment ", "worthlessness "]}
+{"index": 195204, "D": "a large corporation with operations and subsidiaries in several countries.", "S": ["business", "commerce", "corporation", "management", "production", "trade"], "A": ["idleness", "indolence", "laziness", "lethargy", "unemployment", "worthlessness"]}

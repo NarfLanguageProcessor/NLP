@@ -1,1 +1,1 @@
-{"index": 290634, "D": "resembling silver;  of a lustrous grayish-white color", "S": ["silver ", "white "], "A": []}
+{"index": 290634, "D": "resembling silver;  of a lustrous grayish-white color", "S": ["silver", "white"], "A": []}

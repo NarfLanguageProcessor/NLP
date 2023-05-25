@@ -1,1 +1,1 @@
-{"index": 162192, "D": "the natural fluid, fluid content, or liquid part that can be extracted from a plant or one of its parts, especially of a fruit", "S": ["alcohol ", "drink ", "extract ", "liquor ", "milk ", "oil ", "sauce ", "syrup ", "water "], "A": []}
+{"index": 162192, "D": "the natural fluid, fluid content, or liquid part that can be extracted from a plant or one of its parts, especially of a fruit", "S": ["alcohol", "drink", "extract", "liquor", "milk", "oil", "sauce", "syrup", "water"], "A": []}

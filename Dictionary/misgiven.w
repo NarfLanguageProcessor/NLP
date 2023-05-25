@@ -1,1 +1,0 @@
-{"index": 189342, "D": "(of one's mind, heart, etc.) to give  doubt or apprehension to.", "S": ["distrust ", "hesitate ", "impugn ", "suspect "], "A": ["trust ", "agree ", "answer ", "believe ", "go along ", "remain ", "stay "]}

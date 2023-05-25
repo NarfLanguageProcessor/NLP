@@ -1,0 +1,1 @@
+{"index": 10003, "D": [], "S": ["awkward", "clumsy", "dubious", "gauche", "insincere", "maladroit", "sinister", "sinistral", "southpaw"], "A": ["right-handed"]}

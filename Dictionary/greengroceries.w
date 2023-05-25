@@ -1,1 +1,1 @@
-{"index": 129546, "D": "a greengrocer's shop.", "S": ["crop ", "goods ", "production "], "A": []}
+{"index": 129546, "D": "a greengrocer's shop.", "S": ["crop", "goods", "production"], "A": []}

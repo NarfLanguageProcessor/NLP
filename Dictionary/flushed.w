@@ -1,1 +1,1 @@
-{"index": 115521, "D": "having rosy or reddish skin as a result of exertion, cold, embarrassment, fever, etc.", "S": ["embarrassed ", "rosy "], "A": ["depressed ", "sad ", "unhappy "]}
+{"index": 115521, "D": "having rosy or reddish skin as a result of exertion, cold, embarrassment, fever, etc.", "S": ["embarrassed", "rosy"], "A": ["depressed", "sad", "unhappy"]}

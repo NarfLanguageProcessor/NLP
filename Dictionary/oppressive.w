@@ -1,1 +1,1 @@
-{"index": 213715, "D": "burdensome, unjustly harsh, or tyrannical", "S": ["brutal ", "burdensome ", "cruel ", "depressing ", "dictatorial ", "harsh ", "heavy-handed ", "inhuman ", "onerous ", "overbearing ", "tyrannical ", "unjust "], "A": ["easy ", "gentle ", "kind ", "nice "]}
+{"index": 213715, "D": "burdensome, unjustly harsh, or tyrannical", "S": ["brutal", "burdensome", "cruel", "depressing", "dictatorial", "harsh", "heavy-handed", "inhuman", "onerous", "overbearing", "tyrannical", "unjust"], "A": ["easy", "gentle", "kind", "nice"]}

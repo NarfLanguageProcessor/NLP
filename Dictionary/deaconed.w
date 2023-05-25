@@ -1,1 +1,1 @@
-{"index": 77422, "D": "(in hierarchical churches) a member of the clerical order next below that of a priest.", "S": ["add to ", "alter ", "falsify ", "fudge ", "misrepresent ", "tamper with "], "A": ["reveal "]}
+{"index": 77422, "D": "(in hierarchical churches) a member of the clerical order next below that of a priest.", "S": ["add to", "alter", "falsify", "fudge", "misrepresent", "tamper with"], "A": ["reveal"]}

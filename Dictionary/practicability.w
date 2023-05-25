@@ -1,1 +1,1 @@
-{"index": 245074, "D": "capable of being done, effected, or put into practice,  with the available means; feasible", "S": ["action ", "circumstance ", "hazard ", "hope ", "incident ", "opportunity ", "probability ", "prospect ", "risk "], "A": ["certainty ", "safety ", "surety ", "plan "]}
+{"index": 245074, "D": "capable of being done, effected, or put into practice,  with the available means; feasible", "S": ["action", "circumstance", "hazard", "hope", "incident", "opportunity", "probability", "prospect", "risk"], "A": ["certainty", "safety", "surety", "plan"]}

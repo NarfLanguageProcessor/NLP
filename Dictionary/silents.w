@@ -1,1 +1,1 @@
-{"index": 290286, "D": "making no sound; quiet; still", "S": ["cinema ", "feature ", "film ", "flick ", "motion picture ", "picture ", "show ", "videotape "], "A": []}
+{"index": 290286, "D": "making no sound; quiet; still", "S": ["cinema", "feature", "film", "flick", "motion picture", "picture", "show", "videotape"], "A": []}

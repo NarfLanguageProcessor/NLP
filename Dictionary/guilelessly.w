@@ -1,1 +1,1 @@
-{"index": 131076, "D": "free from guile;  sincere; honest; straightforward; frank.", "S": ["commonly ", "directly ", "easily ", "honestly ", "naturally ", "openly ", "quietly "], "A": ["difficultly ", "incompletely ", "indefinitely "]}
+{"index": 131076, "D": "free from guile;  sincere; honest; straightforward; frank.", "S": ["commonly", "directly", "easily", "honestly", "naturally", "openly", "quietly"], "A": ["difficultly", "incompletely", "indefinitely"]}

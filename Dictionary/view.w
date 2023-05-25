@@ -1,1 +1,1 @@
-{"index": 359570, "D": "an instance of seeing or beholding; visual inspection.", "S": ["aspect ", "glimpse ", "look ", "outlook ", "perspective ", "picture ", "prospect ", "scene ", "sight ", "vision ", "way "], "A": ["blindness ", "reality "]}
+{"index": 359570, "D": "an instance of seeing or beholding; visual inspection.", "S": ["aspect", "glimpse", "look", "outlook", "perspective", "picture", "prospect", "scene", "sight", "vision", "way"], "A": ["blindness", "reality"]}

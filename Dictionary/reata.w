@@ -1,1 +1,1 @@
-{"index": 262115, "D": "a lariat.", "S": ["lasso ", "noose ", "riata ", "tether "], "A": []}
+{"index": 262115, "D": "a lariat.", "S": ["lasso", "noose", "riata", "tether"], "A": []}

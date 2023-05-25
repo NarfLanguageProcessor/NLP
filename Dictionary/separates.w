@@ -1,1 +1,1 @@
-{"index": 285552, "D": "Compare coordinates", "S": ["break ", "detach ", "disconnect ", "divide ", "divorce ", "sever ", "split "], "A": ["agree ", "attach ", "combine ", "connect ", "couple ", "join ", "link ", "unite ", "close ", "mend "]}
+{"index": 285552, "D": "Compare coordinates", "S": ["break", "detach", "disconnect", "divide", "divorce", "sever", "split"], "A": ["agree", "attach", "combine", "connect", "couple", "join", "link", "unite", "close", "mend"]}

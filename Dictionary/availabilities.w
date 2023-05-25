@@ -1,1 +1,1 @@
-{"index": 24569, "D": "the fact or quality of being close at hand and ready for use", "S": ["opportunity ", "show ", "time "], "A": ["closing ", "closure ", "conclusion ", "ending ", "finish ", "misfortune ", "solid "]}
+{"index": 24569, "D": "the fact or quality of being close at hand and ready for use", "S": ["opportunity", "show", "time"], "A": ["closing", "closure", "conclusion", "ending", "finish", "misfortune", "solid"]}

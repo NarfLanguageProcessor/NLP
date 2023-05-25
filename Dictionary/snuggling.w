@@ -1,1 +1,1 @@
-{"index": 295944, "D": "to lie or press closely, as for comfort or from affection; nestle; cuddle.", "S": ["intercourse ", "kissing ", "mating ", "sexual intercourse "], "A": []}
+{"index": 295944, "D": "to lie or press closely, as for comfort or from affection; nestle; cuddle.", "S": ["intercourse", "kissing", "mating", "sexual intercourse"], "A": []}

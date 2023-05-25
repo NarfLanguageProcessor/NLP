@@ -1,1 +1,1 @@
-{"index": 137372, "D": "to be reluctant or wait to act because of fear, indecision, or disinclination", "S": ["dubiously "], "A": []}
+{"index": 137372, "D": "to be reluctant or wait to act because of fear, indecision, or disinclination", "S": ["dubiously"], "A": []}

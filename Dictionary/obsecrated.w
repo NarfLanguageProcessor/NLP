@@ -1,1 +1,1 @@
-{"index": 210356, "D": "to entreat solemnly; beseech; supplicate.", "S": ["ask ", "beseech ", "implore ", "plead ", "pray ", "solicit ", "sue ", "urge "], "A": ["answer ", "reply "]}
+{"index": 210356, "D": "to entreat solemnly; beseech; supplicate.", "S": ["ask", "beseech", "implore", "plead", "pray", "solicit", "sue", "urge"], "A": ["answer", "reply"]}

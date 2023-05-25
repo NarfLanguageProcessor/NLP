@@ -1,1 +1,1 @@
-{"index": 99928, "D": "approval or sanction", "S": ["advocacy ", "affirmation ", "approval ", "backing ", "commercial ", "confirmation ", "favor ", "permission ", "ratification ", "recommendation ", "signature "], "A": ["denial ", "disapproval ", "disfavor ", "opposition ", "veto ", "refusal "]}
+{"index": 99928, "D": "approval or sanction", "S": ["advocacy", "affirmation", "approval", "backing", "commercial", "confirmation", "favor", "permission", "ratification", "recommendation", "signature"], "A": ["denial", "disapproval", "disfavor", "opposition", "veto", "refusal"]}

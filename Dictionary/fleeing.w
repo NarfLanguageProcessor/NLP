@@ -1,1 +1,1 @@
-{"index": 114371, "D": "to run away, as from danger or pursuers; take flight. ", "S": ["delinquent ", "escaped ", "uncontrolled "], "A": ["controlled ", "stable ", "staying ", "steady "]}
+{"index": 114371, "D": "to run away, as from danger or pursuers; take flight. ", "S": ["delinquent", "escaped", "uncontrolled"], "A": ["controlled", "stable", "staying", "steady"]}

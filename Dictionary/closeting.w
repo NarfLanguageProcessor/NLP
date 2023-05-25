@@ -1,1 +1,1 @@
-{"index": 60463, "D": "a small room, enclosed recess, or cabinet for storing clothing, food, utensils, etc.", "S": ["complicity ", "conspiracy ", "evasion "], "A": []}
+{"index": 60463, "D": "a small room, enclosed recess, or cabinet for storing clothing, food, utensils, etc.", "S": ["complicity", "conspiracy", "evasion"], "A": []}

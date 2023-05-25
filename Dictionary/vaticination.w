@@ -1,1 +1,1 @@
-{"index": 357511, "D": "an act of prophesying.", "S": ["apocalypse ", "augury ", "cast ", "divination ", "forecast ", "foretelling ", "oracle ", "presage ", "prevision ", "prognosis ", "prognostication ", "revelation ", "soothsaying ", "vision "], "A": []}
+{"index": 357511, "D": "an act of prophesying.", "S": ["apocalypse", "augury", "cast", "divination", "forecast", "foretelling", "oracle", "presage", "prevision", "prognosis", "prognostication", "revelation", "soothsaying", "vision"], "A": []}

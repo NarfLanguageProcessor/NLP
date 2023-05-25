@@ -1,1 +1,1 @@
-{"index": 150617, "D": [], "S": ["arc ", "arch ", "bend ", "bow ", "curve ", "deflection ", "flexure ", "round ", "shape "], "A": ["line "]}
+{"index": 150617, "D": [], "S": ["arc", "arch", "bend", "bow", "curve", "deflection", "flexure", "round", "shape"], "A": ["line"]}

@@ -1,1 +1,1 @@
-{"index": 64934, "D": "controller (def. 1). ", "S": ["accountant ", "administrator "], "A": []}
+{"index": 64934, "D": "controller (def. 1). ", "S": ["accountant", "administrator"], "A": []}

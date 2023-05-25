@@ -1,1 +1,1 @@
-{"index": 368090, "D": "a person who does wrong,  especially a sinner or transgressor.", "S": ["crook ", "culprit ", "miscreant ", "perpetrator ", "trespasser ", "violator "], "A": ["police "]}
+{"index": 368090, "D": "a person who does wrong,  especially a sinner or transgressor.", "S": ["crook", "culprit", "miscreant", "perpetrator", "trespasser", "violator"], "A": ["police"]}

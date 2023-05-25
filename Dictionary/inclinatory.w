@@ -1,1 +1,1 @@
-{"index": 149950, "D": "characterized by inclination.", "S": ["one-sided ", "unbalanced ", "unequal "], "A": ["balanced ", "even "]}
+{"index": 149950, "D": "characterized by inclination.", "S": ["one-sided", "unbalanced", "unequal"], "A": ["balanced", "even"]}

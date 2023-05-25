@@ -1,0 +1,1 @@
+{"index": 14067, "D": "before or existing before a war, especially the American Civil War; prewar", "S": ["pre-Civil War", "prewar", "prior to the war"], "A": []}

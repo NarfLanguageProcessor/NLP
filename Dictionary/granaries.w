@@ -1,1 +1,1 @@
-{"index": 128785, "D": "a storehouse or repository for grain, especially after it has been threshed or husked.", "S": ["repository ", "storehouse "], "A": []}
+{"index": 128785, "D": "a storehouse or repository for grain, especially after it has been threshed or husked.", "S": ["repository", "storehouse"], "A": []}

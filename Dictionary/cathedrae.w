@@ -1,1 +1,1 @@
-{"index": 49660, "D": "the seat or throne of a bishop in the principal church of a diocese.", "S": ["armchair ", "bench ", "recliner "], "A": []}
+{"index": 49660, "D": "the seat or throne of a bishop in the principal church of a diocese.", "S": ["armchair", "bench", "recliner"], "A": []}

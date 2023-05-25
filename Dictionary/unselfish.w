@@ -1,1 +1,1 @@
-{"index": 350728, "D": "not selfish;  disinterested; generous; altruistic.", "S": ["generous ", "noble ", "self-effacing ", "selfless "], "A": ["greedy ", "selfish ", "uncharitable "]}
+{"index": 350728, "D": "not selfish;  disinterested; generous; altruistic.", "S": ["generous", "noble", "self-effacing", "selfless"], "A": ["greedy", "selfish", "uncharitable"]}

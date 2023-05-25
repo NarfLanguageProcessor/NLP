@@ -1,1 +1,1 @@
-{"index": 195488, "D": "to make (a dead body) into a mummy,  as by embalming and drying.", "S": ["diminished ", "gnarled ", "lean ", "macerated ", "old ", "reduced ", "shrunk ", "shrunken ", "wilted ", "withered ", "worn ", "wrinkled "], "A": ["moist ", "smooth ", "unwrinkled "]}
+{"index": 195488, "D": "to make (a dead body) into a mummy,  as by embalming and drying.", "S": ["diminished", "gnarled", "lean", "macerated", "old", "reduced", "shrunk", "shrunken", "wilted", "withered", "worn", "wrinkled"], "A": ["moist", "smooth", "unwrinkled"]}

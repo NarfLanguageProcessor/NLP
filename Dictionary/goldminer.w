@@ -1,1 +1,1 @@
-{"index": 127545, "D": "a person who mines gold  or works in a gold mine. ", "S": ["bloodsucker ", "exploiter ", "forty-niner ", "gold panner ", "leech ", "mineworker ", "parasite ", "sponge ", "user "], "A": []}
+{"index": 127545, "D": "a person who mines gold  or works in a gold mine. ", "S": ["bloodsucker", "exploiter", "forty-niner", "gold panner", "leech", "mineworker", "parasite", "sponge", "user"], "A": []}

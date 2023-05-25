@@ -1,1 +1,1 @@
-{"index": 216323, "D": "a sudden and violent release or outpouring", "S": ["burst ", "eruption ", "explosion ", "flare-up ", "frenzy ", "outbreak ", "outpouring ", "spasm ", "storm ", "surge ", "tantrum ", "upheaval "], "A": ["calm ", "peace ", "dislike "]}
+{"index": 216323, "D": "a sudden and violent release or outpouring", "S": ["burst", "eruption", "explosion", "flare-up", "frenzy", "outbreak", "outpouring", "spasm", "storm", "surge", "tantrum", "upheaval"], "A": ["calm", "peace", "dislike"]}

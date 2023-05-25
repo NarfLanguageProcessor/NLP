@@ -1,1 +1,1 @@
-{"index": 120187, "D": "to collect by fund-raising", "S": ["appeal ", "raise ", "solicit "], "A": []}
+{"index": 120187, "D": "to collect by fund-raising", "S": ["appeal", "raise", "solicit"], "A": []}

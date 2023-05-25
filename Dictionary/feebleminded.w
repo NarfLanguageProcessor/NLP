@@ -1,1 +1,1 @@
-{"index": 110845, "D": "lacking the normal mental powers.", "S": ["dim-witted ", "dull ", "dumb ", "half-witted ", "mentally slow ", "simple ", "simple-minded ", "slow ", "slow-witted ", "soft in the head ", "stupid ", "unintelligent "], "A": []}
+{"index": 110845, "D": "lacking the normal mental powers.", "S": ["dim-witted", "dull", "dumb", "half-witted", "mentally slow", "simple", "simple-minded", "slow", "slow-witted", "soft in the head", "stupid", "unintelligent"], "A": []}

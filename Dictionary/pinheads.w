@@ -1,1 +1,1 @@
-{"index": 237054, "D": "the head  of a pin. ", "S": ["clown ", "dunce ", "fool "], "A": ["brain "]}
+{"index": 237054, "D": "the head  of a pin. ", "S": ["clown", "dunce", "fool"], "A": ["brain"]}

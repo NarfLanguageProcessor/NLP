@@ -1,1 +1,1 @@
-{"index": 352646, "D": [], "S": ["bare ", "deserted ", "idle ", "unemployed ", "unfilled ", "uninhabited ", "unused "], "A": ["busy ", "employed ", "full ", "populated ", "used "]}
+{"index": 352646, "D": [], "S": ["bare", "deserted", "idle", "unemployed", "unfilled", "uninhabited", "unused"], "A": ["busy", "employed", "full", "populated", "used"]}

@@ -1,1 +1,1 @@
-{"index": 75480, "D": "a simple past tense and past participle of curse. ", "S": ["bane ", "expletive ", "obscenity ", "profanity ", "whammy "], "A": ["compliment ", "piety ", "praise ", "reverence "]}
+{"index": 75480, "D": "a simple past tense and past participle of curse. ", "S": ["bane", "expletive", "obscenity", "profanity", "whammy"], "A": ["compliment", "piety", "praise", "reverence"]}

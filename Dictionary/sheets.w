@@ -1,1 +1,1 @@
-{"index": 287879, "D": "a large rectangular piece of cotton, linen, or other material used as an article of bedding, commonly spread in pairs so that one is immediately above and the other immediately below the sleeper.", "S": ["bedding ", "pillowcase "], "A": []}
+{"index": 287879, "D": "a large rectangular piece of cotton, linen, or other material used as an article of bedding, commonly spread in pairs so that one is immediately above and the other immediately below the sleeper.", "S": ["bedding", "pillowcase"], "A": []}

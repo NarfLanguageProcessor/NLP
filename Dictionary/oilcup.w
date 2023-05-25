@@ -1,1 +1,0 @@
-{"index": 211832, "D": "a closed cup  or can supplying lubricant to a bearing or bearings.", "S": [], "A": []}

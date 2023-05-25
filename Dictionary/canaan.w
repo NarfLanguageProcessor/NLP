@@ -1,1 +1,1 @@
-{"index": 45967, "D": "the ancient region lying between the Jordan, the Dead Sea, and the Mediterranean", "S": ["Promised Land ", "immortality ", "nirvana ", "paradise "], "A": ["hell ", "misery ", "sorrow ", "unhappiness "]}
+{"index": 45967, "D": "the ancient region lying between the Jordan, the Dead Sea, and the Mediterranean", "S": ["Promised Land", "immortality", "nirvana", "paradise"], "A": ["hell", "misery", "sorrow", "unhappiness"]}

@@ -1,1 +1,0 @@
-{"index": 221332, "D": "to state  too strongly; exaggerate", "S": ["amplify ", "emphasize ", "heighten ", "inflate ", "magnify ", "misrepresent ", "overdo ", "overemphasize ", "overestimate "], "A": ["compress ", "contract ", "decrease ", "ignore ", "lessen ", "play down ", "abridge ", "deprecate ", "lower ", "reduce ", "shrink ", "simplify ", "tell the truth "]}

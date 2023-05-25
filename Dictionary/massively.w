@@ -1,1 +1,1 @@
-{"index": 180811, "D": "consisting of or forming a large mass; bulky and heavy", "S": ["densely ", "thickly "], "A": ["easily ", "gently ", "lightly "]}
+{"index": 180811, "D": "consisting of or forming a large mass; bulky and heavy", "S": ["densely", "thickly"], "A": ["easily", "gently", "lightly"]}

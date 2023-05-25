@@ -1,1 +1,0 @@
-{"index": 187326, "D": "a mineral, nickel sulfide, NiS, occurring in slender, bronze-colored crystals", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 190237, "D": "a conventional title of respect for a man, prefixed to the name and to certain official designations (usually written as the abbreviation Mr.).", "S": ["Esquire ", "man ", "monsieur ", "signor ", "sir "], "A": []}
+{"index": 190237, "D": "a conventional title of respect for a man, prefixed to the name and to certain official designations (usually written as the abbreviation Mr.).", "S": ["Esquire", "man", "monsieur", "signor", "sir"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 161675, "D": "a person who jokes. ", "S": ["actor ", "banana ", "buffoon ", "card ", "clown ", "comedian ", "comic ", "fool ", "gagster ", "humorist ", "jester ", "jokester ", "prankster ", "punster ", "stooge ", "trickster ", "wag ", "wit "], "A": []}
+{"index": 161675, "D": "a person who jokes. ", "S": ["actor", "banana", "buffoon", "card", "clown", "comedian", "comic", "fool", "gagster", "humorist", "jester", "jokester", "prankster", "punster", "stooge", "trickster", "wag", "wit"], "A": []}

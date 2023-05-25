@@ -1,1 +1,1 @@
-{"index": 89747, "D": "the act of distending  or the state of being distended. ", "S": ["bulge ", "enlargement ", "expansion ", "increase "], "A": ["decrease ", "lessening ", "shrinkage "]}
+{"index": 89747, "D": "the act of distending  or the state of being distended. ", "S": ["bulge", "enlargement", "expansion", "increase"], "A": ["decrease", "lessening", "shrinkage"]}

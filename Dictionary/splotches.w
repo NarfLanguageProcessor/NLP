@@ -1,1 +1,1 @@
-{"index": 300594, "D": "a large, irregular spot; blot; stain; blotch.", "S": ["blotch "], "A": ["blank "]}
+{"index": 300594, "D": "a large, irregular spot; blot; stain; blotch.", "S": ["blotch"], "A": ["blank"]}

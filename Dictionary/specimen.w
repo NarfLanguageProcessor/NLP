@@ -1,1 +1,1 @@
-{"index": 298805, "D": "a part or an individual taken as exemplifying a whole mass or number; a typical animal, plant, mineral, part, etc.", "S": ["copy ", "exhibit ", "variety "], "A": ["whole "]}
+{"index": 298805, "D": "a part or an individual taken as exemplifying a whole mass or number; a typical animal, plant, mineral, part, etc.", "S": ["copy", "exhibit", "variety"], "A": ["whole"]}

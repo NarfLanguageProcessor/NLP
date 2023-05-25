@@ -1,1 +1,1 @@
-{"index": 246941, "D": "of or relating to prediction", "S": ["anticipating ", "auguring ", "conjecturing ", "divining ", "foreboding ", "foretelling ", "guessing ", "portending ", "presaging ", "prognostic ", "prognosticative ", "surmising "], "A": []}
+{"index": 246941, "D": "of or relating to prediction", "S": ["anticipating", "auguring", "conjecturing", "divining", "foreboding", "foretelling", "guessing", "portending", "presaging", "prognostic", "prognosticative", "surmising"], "A": []}

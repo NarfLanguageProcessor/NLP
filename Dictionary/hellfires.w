@@ -1,1 +1,1 @@
-{"index": 135705, "D": "the fire of hell.", "S": ["purgatory "], "A": []}
+{"index": 135705, "D": "the fire of hell.", "S": ["purgatory"], "A": []}

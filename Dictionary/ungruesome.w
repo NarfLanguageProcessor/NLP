@@ -1,1 +1,0 @@
-{"index": 343326, "D": "causing great horror; horribly repugnant; grisly", "S": [], "A": []}

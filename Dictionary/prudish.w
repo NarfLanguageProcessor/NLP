@@ -1,1 +1,1 @@
-{"index": 254226, "D": "excessively proper or modest in speech, conduct, dress, etc.", "S": ["fastidious ", "narrow-minded ", "prissy ", "puritanical ", "squeamish ", "uptight "], "A": ["bold ", "brave ", "extroverted ", "outgoing "]}
+{"index": 254226, "D": "excessively proper or modest in speech, conduct, dress, etc.", "S": ["fastidious", "narrow-minded", "prissy", "puritanical", "squeamish", "uptight"], "A": ["bold", "brave", "extroverted", "outgoing"]}

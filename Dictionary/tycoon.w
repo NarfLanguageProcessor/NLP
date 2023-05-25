@@ -1,1 +1,1 @@
-{"index": 323271, "D": "a person of great wealth, influence, or power; magnate", "S": ["boss ", "capitalist ", "entrepreneur ", "executive ", "financier ", "investor ", "magnate ", "mogul "], "A": ["pauper "]}
+{"index": 323271, "D": "a person of great wealth, influence, or power; magnate", "S": ["boss", "capitalist", "entrepreneur", "executive", "financier", "investor", "magnate", "mogul"], "A": ["pauper"]}

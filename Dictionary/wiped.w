@@ -1,1 +1,1 @@
-{"index": 366314, "D": "completely exhausted.", "S": ["clean ", "dry ", "dust ", "erase ", "mop ", "obliterate ", "remove ", "rub ", "wash "], "A": ["dirty "]}
+{"index": 366314, "D": "completely exhausted.", "S": ["clean", "dry", "dust", "erase", "mop", "obliterate", "remove", "rub", "wash"], "A": ["dirty"]}

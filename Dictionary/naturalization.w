@@ -1,1 +1,0 @@
-{"index": 197343, "D": [], "S": ["acclimatization ", "acculturation ", "conditioning ", "habituation ", "nationalization ", "rooting "], "A": []}

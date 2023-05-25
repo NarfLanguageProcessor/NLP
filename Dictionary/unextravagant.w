@@ -1,1 +1,1 @@
-{"index": 341888, "D": "spending much more than is necessary or wise; wasteful", "S": ["humble ", "inexpensive ", "moderate ", "reasonable ", "simple ", "small "], "A": ["expensive ", "outrageous ", "unreasonable "]}
+{"index": 341888, "D": "spending much more than is necessary or wise; wasteful", "S": ["humble", "inexpensive", "moderate", "reasonable", "simple", "small"], "A": ["expensive", "outrageous", "unreasonable"]}

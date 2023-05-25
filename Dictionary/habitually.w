@@ -1,1 +1,1 @@
-{"index": 131802, "D": "as a habit, or an established way of being or acting; routinely or regularly", "S": ["commonly ", "customarily "], "A": []}
+{"index": 131802, "D": "as a habit, or an established way of being or acting; routinely or regularly", "S": ["commonly", "customarily"], "A": []}

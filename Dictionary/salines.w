@@ -1,1 +1,1 @@
-{"index": 277069, "D": "of, containing, or resembling common table salt; salty or saltlike", "S": ["marinade ", "vinegar "], "A": []}
+{"index": 277069, "D": "of, containing, or resembling common table salt; salty or saltlike", "S": ["marinade", "vinegar"], "A": []}

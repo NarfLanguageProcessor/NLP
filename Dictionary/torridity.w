@@ -1,1 +1,1 @@
-{"index": 326261, "D": "subject to parching or burning heat, especially of the sun, as a geographical area", "S": ["calefaction ", "fervor ", "fever ", "fieriness ", "hotness ", "incalescence ", "incandescence ", "sultriness ", "warmness ", "warmth "], "A": ["chill "]}
+{"index": 326261, "D": "subject to parching or burning heat, especially of the sun, as a geographical area", "S": ["calefaction", "fervor", "fever", "fieriness", "hotness", "incalescence", "incandescence", "sultriness", "warmness", "warmth"], "A": ["chill"]}

@@ -1,1 +1,1 @@
-{"index": 145500, "D": "yak2. ", "S": ["chatty ", "garrulous ", "long-winded ", "voluble "], "A": ["quiet ", "silent ", "untalkative "]}
+{"index": 145500, "D": "yak2. ", "S": ["chatty", "garrulous", "long-winded", "voluble"], "A": ["quiet", "silent", "untalkative"]}

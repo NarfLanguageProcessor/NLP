@@ -1,1 +1,1 @@
-{"index": 117262, "D": "a simple past tense and past participle of forget. ", "S": ["blow ", "obliterate "], "A": ["carry ", "learn ", "recall ", "recollect ", "remember ", "take "]}
+{"index": 117262, "D": "a simple past tense and past participle of forget. ", "S": ["blow", "obliterate"], "A": ["carry", "learn", "recall", "recollect", "remember", "take"]}

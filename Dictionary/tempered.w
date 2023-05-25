@@ -1,1 +1,1 @@
-{"index": 318524, "D": "having a temper  or disposition of a specified character (usually used in combination)", "S": ["adulterated ", "cut ", "dilute ", "impaired ", "impoverished ", "light ", "reduced ", "weakened "], "A": ["strong "]}
+{"index": 318524, "D": "having a temper  or disposition of a specified character (usually used in combination)", "S": ["adulterated", "cut", "dilute", "impaired", "impoverished", "light", "reduced", "weakened"], "A": ["strong"]}

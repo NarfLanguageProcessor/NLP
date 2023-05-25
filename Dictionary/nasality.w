@@ -1,1 +1,1 @@
-{"index": 197092, "D": "of or relating to the nose", "S": ["resonance ", "resound ", "sound ", "vibration "], "A": []}
+{"index": 197092, "D": "of or relating to the nose", "S": ["resonance", "resound", "sound", "vibration"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 359079, "D": "a mark, trace, or visible evidence of something that is no longer present or in existence", "S": ["glimmer ", "relic ", "remnant ", "residue "], "A": ["information ", "lot "]}
+{"index": 359079, "D": "a mark, trace, or visible evidence of something that is no longer present or in existence", "S": ["glimmer", "relic", "remnant", "residue"], "A": ["information", "lot"]}

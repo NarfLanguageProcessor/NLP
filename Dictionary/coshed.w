@@ -1,1 +1,1 @@
-{"index": 69968, "D": "a blackjack; bludgeon. ", "S": ["bash ", "bludgeon ", "clobber ", "pummel ", "whack "], "A": []}
+{"index": 69968, "D": "a blackjack; bludgeon. ", "S": ["bash", "bludgeon", "clobber", "pummel", "whack"], "A": []}

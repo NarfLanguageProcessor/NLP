@@ -1,1 +1,0 @@
-{"index": 188325, "D": "by or by means of a supernatural power or agency", "S": ["admirably ", "amazingly ", "beautifully ", "extraordinarily ", "magnificently ", "marvelously ", "remarkably ", "spectacularly ", "strikingly ", "stunningly "], "A": ["badly ", "poorly "]}

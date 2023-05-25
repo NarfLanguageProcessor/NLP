@@ -1,1 +1,1 @@
-{"index": 63296, "D": "a publisher's or printer's distinctive emblem, used as an identifying device on its books and other works.", "S": ["imprint ", "label ", "logo ", "mark ", "symbol ", "trademark "], "A": []}
+{"index": 63296, "D": "a publisher's or printer's distinctive emblem, used as an identifying device on its books and other works.", "S": ["imprint", "label", "logo", "mark", "symbol", "trademark"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 180418, "D": "a region, area, or district characterized by marshes, swamps, bogs, or the like.", "S": ["bog ", "glade "], "A": []}
+{"index": 180418, "D": "a region, area, or district characterized by marshes, swamps, bogs, or the like.", "S": ["bog", "glade"], "A": []}

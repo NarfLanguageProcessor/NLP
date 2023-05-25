@@ -1,1 +1,1 @@
-{"index": 280397, "D": "of, like, or befitting a scholar", "S": ["erudite ", "intellectual ", "learned "], "A": ["ignorant ", "stupid "]}
+{"index": 280397, "D": "of, like, or befitting a scholar", "S": ["erudite", "intellectual", "learned"], "A": ["ignorant", "stupid"]}

@@ -1,1 +1,1 @@
-{"index": 259913, "D": "angry fury; violent anger (sometimes used in combination)", "S": ["blow up ", "boil over ", "erupt ", "rampage ", "roar ", "seethe ", "tear "], "A": ["be calm ", "be quiet ", "compliment ", "flatter ", "praise "]}
+{"index": 259913, "D": "angry fury; violent anger (sometimes used in combination)", "S": ["blow up", "boil over", "erupt", "rampage", "roar", "seethe", "tear"], "A": ["be calm", "be quiet", "compliment", "flatter", "praise"]}

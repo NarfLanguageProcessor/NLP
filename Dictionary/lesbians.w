@@ -1,1 +1,0 @@
-{"index": 170825, "D": "a woman who is sexually or romantically attracted exclusively to other women; a gay woman.", "S": [], "A": []}

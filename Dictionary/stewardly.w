@@ -1,1 +1,1 @@
-{"index": 304199, "D": [], "S": ["close ", "mean ", "saving "], "A": ["generous "]}
+{"index": 304199, "D": [], "S": ["close", "mean", "saving"], "A": ["generous"]}

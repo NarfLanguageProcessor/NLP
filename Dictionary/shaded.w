@@ -1,1 +1,1 @@
-{"index": 287056, "D": "noting or pertaining to an ornamented type in which a thin white line appears along one edge of each of the main strokes of a character.", "S": ["dusky ", "leafy ", "screened ", "sheltered "], "A": []}
+{"index": 287056, "D": "noting or pertaining to an ornamented type in which a thin white line appears along one edge of each of the main strokes of a character.", "S": ["dusky", "leafy", "screened", "sheltered"], "A": []}

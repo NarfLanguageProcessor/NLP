@@ -1,1 +1,1 @@
-{"index": 134250, "D": "a frame, stand, or post having knobs or hooks for hanging hats. ", "S": ["beanstalk ", "broomstick ", "stick ", "string bean "], "A": []}
+{"index": 134250, "D": "a frame, stand, or post having knobs or hooks for hanging hats. ", "S": ["beanstalk", "broomstick", "stick", "string bean"], "A": []}

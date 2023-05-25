@@ -1,1 +1,1 @@
-{"index": 128155, "D": "to eat greedily or ravenously.", "S": ["Hoover ", "binge ", "devour ", "glut ", "gluttonize ", "gobble ", "gulp ", "guzzle ", "overeat ", "overindulge ", "stuff ", "wolf "], "A": ["abstain ", "diet ", "fast ", "nibble "]}
+{"index": 128155, "D": "to eat greedily or ravenously.", "S": ["Hoover", "binge", "devour", "glut", "gluttonize", "gobble", "gulp", "guzzle", "overeat", "overindulge", "stuff", "wolf"], "A": ["abstain", "diet", "fast", "nibble"]}

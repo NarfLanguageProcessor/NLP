@@ -1,1 +1,1 @@
-{"index": 110533, "D": "most liked; preferred above all others", "S": ["beloved ", "cherished ", "favored ", "main ", "popular ", "prized ", "treasured "], "A": ["disliked ", "unpopular ", "public "]}
+{"index": 110533, "D": "most liked; preferred above all others", "S": ["beloved", "cherished", "favored", "main", "popular", "prized", "treasured"], "A": ["disliked", "unpopular", "public"]}

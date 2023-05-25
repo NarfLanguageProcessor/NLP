@@ -1,1 +1,1 @@
-{"index": 63472, "D": "playful; frolicsome.", "S": ["jumpy ", "lively ", "playful "], "A": ["depressed ", "down ", "lifeless "]}
+{"index": 63472, "D": "playful; frolicsome.", "S": ["jumpy", "lively", "playful"], "A": ["depressed", "down", "lifeless"]}

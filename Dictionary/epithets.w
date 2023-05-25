@@ -1,1 +1,1 @@
-{"index": 102986, "D": "any word or phrase applied to a person or thing to describe an actual or attributed quality", "S": ["appellation ", "description ", "designation ", "name ", "sobriquet ", "tag ", "title "], "A": []}
+{"index": 102986, "D": "any word or phrase applied to a person or thing to describe an actual or attributed quality", "S": ["appellation", "description", "designation", "name", "sobriquet", "tag", "title"], "A": []}

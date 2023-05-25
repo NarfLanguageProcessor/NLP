@@ -1,1 +1,1 @@
-{"index": 108568, "D": "beyond what is usual, ordinary, regular, or established", "S": ["anomaly ", "deformity ", "flaw ", "irregularity "], "A": ["regularity ", "conformity ", "normality ", "sameness ", "standard ", "uniformity ", "usualness "]}
+{"index": 108568, "D": "beyond what is usual, ordinary, regular, or established", "S": ["anomaly", "deformity", "flaw", "irregularity"], "A": ["regularity", "conformity", "normality", "sameness", "standard", "uniformity", "usualness"]}

@@ -1,1 +1,1 @@
-{"index": 83458, "D": "to lay waste; render desolate", "S": ["ravage ", "raze ", "ruin ", "wreck "], "A": ["build ", "construct ", "create ", "guard ", "help ", "improve ", "protect ", "save "]}
+{"index": 83458, "D": "to lay waste; render desolate", "S": ["ravage", "raze", "ruin", "wreck"], "A": ["build", "construct", "create", "guard", "help", "improve", "protect", "save"]}

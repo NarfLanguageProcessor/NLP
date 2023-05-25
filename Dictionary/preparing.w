@@ -1,1 +1,1 @@
-{"index": 248762, "D": "to put in proper condition or readiness", "S": ["adapting ", "qualifying "], "A": []}
+{"index": 248762, "D": "to put in proper condition or readiness", "S": ["adapting", "qualifying"], "A": []}

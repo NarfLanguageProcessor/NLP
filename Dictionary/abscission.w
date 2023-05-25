@@ -1,1 +1,1 @@
-{"index": 914, "D": "the act of cutting off; sudden termination.", "S": ["ablation ", "cutting ", "extirpation ", "removal "], "A": []}
+{"index": 914, "D": "the act of cutting off; sudden termination.", "S": ["ablation", "cutting", "extirpation", "removal"], "A": []}

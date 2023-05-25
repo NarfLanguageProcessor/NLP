@@ -1,1 +1,1 @@
-{"index": 173447, "D": "knit goods, as gloves or hose, made of lisle thread. ", "S": ["cord ", "cotton ", "fiber ", "filament ", "hair ", "ribbon ", "strand ", "string ", "wire ", "wool ", "yarn "], "A": []}
+{"index": 173447, "D": "knit goods, as gloves or hose, made of lisle thread. ", "S": ["cord", "cotton", "fiber", "filament", "hair", "ribbon", "strand", "string", "wire", "wool", "yarn"], "A": []}

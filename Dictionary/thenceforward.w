@@ -1,1 +1,1 @@
-{"index": 320916, "D": "from that time or place on; thence", "S": ["thenceforth "], "A": []}
+{"index": 320916, "D": "from that time or place on; thence", "S": ["thenceforth"], "A": []}

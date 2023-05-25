@@ -1,1 +1,1 @@
-{"index": 46760, "D": "capable of holding much; spacious or roomy", "S": ["abundantly ", "adequately ", "extensively ", "generously ", "lavishly ", "liberally ", "properly ", "richly "], "A": ["illiberal ", "inadequately ", "insufficiently "]}
+{"index": 46760, "D": "capable of holding much; spacious or roomy", "S": ["abundantly", "adequately", "extensively", "generously", "lavishly", "liberally", "properly", "richly"], "A": ["illiberal", "inadequately", "insufficiently"]}

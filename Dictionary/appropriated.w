@@ -1,0 +1,1 @@
+{"index": 18000, "D": "suitable or fitting for a particular purpose, person, occasion, etc.", "S": ["kidnapped", "seized", "snatched", "stolen"], "A": []}

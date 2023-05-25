@@ -1,0 +1,1 @@
+{"index": 18014, "D": "capable of being approved.", "S": [], "A": []}

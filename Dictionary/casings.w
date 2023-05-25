@@ -1,1 +1,1 @@
-{"index": 48903, "D": "a case  or covering; housing.", "S": ["skin ", "wrapper "], "A": []}
+{"index": 48903, "D": "a case  or covering; housing.", "S": ["skin", "wrapper"], "A": []}

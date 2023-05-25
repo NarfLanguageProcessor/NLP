@@ -1,1 +1,1 @@
-{"index": 293246, "D": "to engage in skin diving.", "S": ["deep-sea diving ", "scuba diving ", "snorkeling "], "A": []}
+{"index": 293246, "D": "to engage in skin diving.", "S": ["deep-sea diving", "scuba diving", "snorkeling"], "A": []}

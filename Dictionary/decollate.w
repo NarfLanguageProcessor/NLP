@@ -1,1 +1,1 @@
-{"index": 78553, "D": "to behead; decapitate.", "S": ["decapitate ", "execute "], "A": []}
+{"index": 78553, "D": "to behead; decapitate.", "S": ["decapitate", "execute"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 348381, "D": "properly expectant, organized, or equipped; ready", "S": ["headlong "], "A": []}
+{"index": 348381, "D": "properly expectant, organized, or equipped; ready", "S": ["headlong"], "A": []}

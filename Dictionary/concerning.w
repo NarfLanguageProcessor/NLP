@@ -1,1 +1,1 @@
-{"index": 65187, "D": "relating to; regarding; about", "S": ["regarding ", "respecting ", "touching "], "A": []}
+{"index": 65187, "D": "relating to; regarding; about", "S": ["regarding", "respecting", "touching"], "A": []}

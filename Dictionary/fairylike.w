@@ -1,1 +1,1 @@
-{"index": 109327, "D": [], "S": ["clairvoyant ", "dead ", "elfin ", "otherworldly ", "visionary ", "whimsical "], "A": []}
+{"index": 109327, "D": [], "S": ["clairvoyant", "dead", "elfin", "otherworldly", "visionary", "whimsical"], "A": []}

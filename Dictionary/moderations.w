@@ -1,1 +1,1 @@
-{"index": 191076, "D": "short for Honour Moderations", "S": ["calmness ", "fairness ", "patience ", "restraint "], "A": ["agitation ", "discomposure ", "upset "]}
+{"index": 191076, "D": "short for Honour Moderations", "S": ["calmness", "fairness", "patience", "restraint"], "A": ["agitation", "discomposure", "upset"]}

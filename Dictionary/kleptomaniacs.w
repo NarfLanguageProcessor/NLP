@@ -1,1 +1,0 @@
-{"index": 165339, "D": "a person who has kleptomania. ", "S": ["criminal ", "pilferer ", "shoplifter ", "thief "], "A": []}

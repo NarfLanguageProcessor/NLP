@@ -1,1 +1,1 @@
-{"index": 227450, "D": "of or like paste  in consistency, texture, color, etc.", "S": ["adhesive "], "A": ["blushing ", "flushed ", "healthy ", "smooth ", "vivid "]}
+{"index": 227450, "D": "of or like paste  in consistency, texture, color, etc.", "S": ["adhesive"], "A": ["blushing", "flushed", "healthy", "smooth", "vivid"]}

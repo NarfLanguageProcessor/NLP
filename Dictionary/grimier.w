@@ -1,1 +1,1 @@
-{"index": 129900, "D": "covered with grime;  dirty", "S": ["dingy ", "filthy ", "grubby ", "grungy ", "messy ", "soiled ", "squalid "], "A": ["clean ", "neat ", "pure "]}
+{"index": 129900, "D": "covered with grime;  dirty", "S": ["dingy", "filthy", "grubby", "grungy", "messy", "soiled", "squalid"], "A": ["clean", "neat", "pure"]}

@@ -1,1 +1,1 @@
-{"index": 209925, "D": "a cereal grass, Avena sativa, cultivated for its edible seed.", "S": ["bran ", "corn ", "grain ", "rice ", "wheat "], "A": []}
+{"index": 209925, "D": "a cereal grass, Avena sativa, cultivated for its edible seed.", "S": ["bran", "corn", "grain", "rice", "wheat"], "A": []}

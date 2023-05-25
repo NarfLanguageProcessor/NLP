@@ -1,1 +1,1 @@
-{"index": 359473, "D": "a person who has overcome or defeated an adversary; conqueror.", "S": ["champ ", "champion ", "conqueror ", "first ", "hero ", "king ", "medalist ", "queen ", "subjugator ", "top ", "vanquisher ", "winner "], "A": ["loser "]}
+{"index": 359473, "D": "a person who has overcome or defeated an adversary; conqueror.", "S": ["champ", "champion", "conqueror", "first", "hero", "king", "medalist", "queen", "subjugator", "top", "vanquisher", "winner"], "A": ["loser"]}

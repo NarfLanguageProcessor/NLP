@@ -1,1 +1,1 @@
-{"index": 199980, "D": "nighttime. ", "S": ["midnight "], "A": ["day ", "daybreak ", "daylight ", "daytime ", "light ", "morning "]}
+{"index": 199980, "D": "nighttime. ", "S": ["midnight"], "A": ["day", "daybreak", "daylight", "daytime", "light", "morning"]}

@@ -1,1 +1,0 @@
-{"index": 351342, "D": "having a circumference that is small in proportion to the height or length", "S": [], "A": []}

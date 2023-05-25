@@ -1,1 +1,1 @@
-{"index": 47124, "D": [], "S": ["capstone ", "turning point "], "A": ["base ", "bottom ", "foot ", "nadir "]}
+{"index": 47124, "D": [], "S": ["capstone", "turning point"], "A": ["base", "bottom", "foot", "nadir"]}

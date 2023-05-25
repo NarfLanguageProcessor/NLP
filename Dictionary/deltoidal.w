@@ -1,1 +1,1 @@
-{"index": 80273, "D": "of or relating to a river delta.", "S": ["trilateral "], "A": []}
+{"index": 80273, "D": "of or relating to a river delta.", "S": ["trilateral"], "A": []}

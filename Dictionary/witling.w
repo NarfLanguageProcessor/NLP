@@ -1,1 +1,1 @@
-{"index": 366695, "D": "a person who affects wittiness.", "S": ["dunce "], "A": ["brain "]}
+{"index": 366695, "D": "a person who affects wittiness.", "S": ["dunce"], "A": ["brain"]}

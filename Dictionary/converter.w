@@ -1,1 +1,1 @@
-{"index": 68055, "D": "a person or thing that converts. ", "S": ["proponent "], "A": ["enemy "]}
+{"index": 68055, "D": "a person or thing that converts. ", "S": ["proponent"], "A": ["enemy"]}

@@ -1,1 +1,1 @@
-{"index": 274263, "D": "a portion of space within a building or other structure, separated by walls or partitions from other parts", "S": ["abide ", "reside "], "A": ["depart ", "go ", "leave ", "turn away ", "turn out "]}
+{"index": 274263, "D": "a portion of space within a building or other structure, separated by walls or partitions from other parts", "S": ["abide", "reside"], "A": ["depart", "go", "leave", "turn away", "turn out"]}

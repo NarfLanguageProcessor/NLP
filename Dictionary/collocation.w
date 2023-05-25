@@ -1,1 +1,1 @@
-{"index": 63071, "D": "the act of collocating. ", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "coordination ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}
+{"index": 63071, "D": "the act of collocating. ", "S": ["allocation", "allotment", "analysis", "arrangement", "coordination", "designation", "distribution", "grade", "regulation"], "A": ["disorganization", "keeping", "retention"]}

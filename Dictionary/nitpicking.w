@@ -1,1 +1,0 @@
-{"index": 200337, "D": "a concern with insignificant details, esp with the intention of finding fault", "S": ["captious ", "hairsplitting "], "A": []}

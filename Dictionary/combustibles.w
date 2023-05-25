@@ -1,1 +1,1 @@
-{"index": 63706, "D": "capable of catching fire and burning; inflammable; flammable", "S": ["ammunition ", "electricity ", "food ", "gas ", "material "], "A": []}
+{"index": 63706, "D": "capable of catching fire and burning; inflammable; flammable", "S": ["ammunition", "electricity", "food", "gas", "material"], "A": []}

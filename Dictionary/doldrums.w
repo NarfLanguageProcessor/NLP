@@ -1,1 +1,1 @@
-{"index": 91066, "D": "a state of inactivity or stagnation, as in business or art", "S": ["gloom ", "malaise ", "slump ", "stagnation ", "stupor "], "A": ["concern ", "excitement ", "feeling ", "happiness ", "interest ", "liveliness ", "sympathy "]}
+{"index": 91066, "D": "a state of inactivity or stagnation, as in business or art", "S": ["gloom", "malaise", "slump", "stagnation", "stupor"], "A": ["concern", "excitement", "feeling", "happiness", "interest", "liveliness", "sympathy"]}

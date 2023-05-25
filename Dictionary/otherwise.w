@@ -1,1 +1,1 @@
-{"index": 215859, "D": "under other circumstances", "S": ["differently "], "A": []}
+{"index": 215859, "D": "under other circumstances", "S": ["differently"], "A": []}

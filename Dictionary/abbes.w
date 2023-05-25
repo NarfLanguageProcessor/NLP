@@ -1,1 +1,1 @@
-{"index": 200, "D": "a title of respect for any ecclesiastic or clergyman.", "S": ["minister "], "A": ["mother "]}
+{"index": 200, "D": "a title of respect for any ecclesiastic or clergyman.", "S": ["minister"], "A": ["mother"]}

@@ -1,1 +1,1 @@
-{"index": 244916, "D": "to strike repeatedly with great force, as with an instrument, the fist, heavy missiles, etc.", "S": ["formed ", "hammered ", "milled ", "rolled ", "shaped ", "stamped ", "tamped ", "tramped ", "trodden ", "worked "], "A": []}
+{"index": 244916, "D": "to strike repeatedly with great force, as with an instrument, the fist, heavy missiles, etc.", "S": ["formed", "hammered", "milled", "rolled", "shaped", "stamped", "tamped", "tramped", "trodden", "worked"], "A": []}

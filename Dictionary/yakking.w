@@ -1,1 +1,1 @@
-{"index": 145575, "D": "a large, stocky, shaggy-haired wild ox, Bos grunniens, of the Tibetan highlands, having long, curved horns", "S": ["babble ", "blather ", "chat ", "chitchat ", "gossip "], "A": ["quiet "]}
+{"index": 145575, "D": "a large, stocky, shaggy-haired wild ox, Bos grunniens, of the Tibetan highlands, having long, curved horns", "S": ["babble", "blather", "chat", "chitchat", "gossip"], "A": ["quiet"]}

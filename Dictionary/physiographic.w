@@ -1,1 +1,1 @@
-{"index": 234141, "D": "the science of physical geography.", "S": ["earth science ", "geology ", "geopolitics ", "topography "], "A": []}
+{"index": 234141, "D": "the science of physical geography.", "S": ["earth science", "geology", "geopolitics", "topography"], "A": []}

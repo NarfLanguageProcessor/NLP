@@ -1,1 +1,1 @@
-{"index": 104531, "D": "absolutely necessary; indispensable", "S": ["ABC's ", "elements ", "foundation ", "nitty-gritty ", "principles ", "rudiments "], "A": []}
+{"index": 104531, "D": "absolutely necessary; indispensable", "S": ["ABC's", "elements", "foundation", "nitty-gritty", "principles", "rudiments"], "A": []}

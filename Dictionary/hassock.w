@@ -1,1 +1,1 @@
-{"index": 134118, "D": "a thick, firm cushion used as a footstool or for kneeling.", "S": ["cushion ", "footstool ", "ottoman ", "stool "], "A": []}
+{"index": 134118, "D": "a thick, firm cushion used as a footstool or for kneeling.", "S": ["cushion", "footstool", "ottoman", "stool"], "A": []}

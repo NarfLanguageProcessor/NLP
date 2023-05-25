@@ -1,0 +1,1 @@
+{"index": 10036, "D": "uncertainty or fluctuation, especially when caused by inability to make a choice or by a simultaneous desire to say or do two opposite or conflicting things.", "S": ["doubt", "hesitancy", "hesitation", "indecision", "uncertainty"], "A": ["certainty", "sureness"]}

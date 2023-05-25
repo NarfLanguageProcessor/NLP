@@ -1,1 +1,1 @@
-{"index": 262382, "D": "having undergone rebirth.", "S": ["found ", "reclaimed ", "redeemed ", "rediscovered ", "regained ", "replaced ", "retrieved ", "returned "], "A": ["dropped ", "ill ", "impaired ", "lost ", "missed ", "sicker ", "unhealthy "]}
+{"index": 262382, "D": "having undergone rebirth.", "S": ["found", "reclaimed", "redeemed", "rediscovered", "regained", "replaced", "retrieved", "returned"], "A": ["dropped", "ill", "impaired", "lost", "missed", "sicker", "unhealthy"]}

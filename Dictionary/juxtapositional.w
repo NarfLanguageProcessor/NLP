@@ -1,1 +1,1 @@
-{"index": 162629, "D": "an act or instance of placing close together or side by side, especially for comparison or contrast.", "S": ["adjoining ", "neighboring "], "A": ["divided ", "separated "]}
+{"index": 162629, "D": "an act or instance of placing close together or side by side, especially for comparison or contrast.", "S": ["adjoining", "neighboring"], "A": ["divided", "separated"]}

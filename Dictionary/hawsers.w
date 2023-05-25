@@ -1,1 +1,1 @@
-{"index": 134504, "D": "a heavy rope for mooring or towing.", "S": ["cable ", "strand ", "string ", "tape ", "thread ", "twine "], "A": []}
+{"index": 134504, "D": "a heavy rope for mooring or towing.", "S": ["cable", "strand", "string", "tape", "thread", "twine"], "A": []}

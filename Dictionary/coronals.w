@@ -1,1 +1,1 @@
-{"index": 69444, "D": "a crown; coronet.", "S": ["headdress "], "A": []}
+{"index": 69444, "D": "a crown; coronet.", "S": ["headdress"], "A": []}

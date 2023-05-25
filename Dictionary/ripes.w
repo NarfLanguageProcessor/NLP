@@ -1,1 +1,1 @@
-{"index": 273160, "D": [], "S": ["soften ", "sweeten "], "A": ["trouble ", "worry ", "decline ", "decrease ", "diminish ", "lessen "]}
+{"index": 273160, "D": [], "S": ["soften", "sweeten"], "A": ["trouble", "worry", "decline", "decrease", "diminish", "lessen"]}

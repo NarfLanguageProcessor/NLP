@@ -1,1 +1,1 @@
-{"index": 210213, "D": "willing or eager to do favors, offer one's services, etc.; accommodating", "S": ["accommodatingly "], "A": []}
+{"index": 210213, "D": "willing or eager to do favors, offer one's services, etc.; accommodating", "S": ["accommodatingly"], "A": []}

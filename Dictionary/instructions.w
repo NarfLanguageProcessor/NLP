@@ -1,1 +1,1 @@
-{"index": 153978, "D": "directions, orders, or recommended rules for guidance, use, etc", "S": ["course ", "policy ", "procedure ", "project "], "A": []}
+{"index": 153978, "D": "directions, orders, or recommended rules for guidance, use, etc", "S": ["course", "policy", "procedure", "project"], "A": []}

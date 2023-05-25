@@ -1,1 +1,1 @@
-{"index": 200796, "D": "accompanied by or making little or no noise; silent; quiet", "S": ["hushed ", "hushful ", "inaudible ", "mute ", "muted ", "silent ", "soundless ", "speechless ", "still ", "voiceless ", "wordless "], "A": ["clamorous ", "noisy "]}
+{"index": 200796, "D": "accompanied by or making little or no noise; silent; quiet", "S": ["hushed", "hushful", "inaudible", "mute", "muted", "silent", "soundless", "speechless", "still", "voiceless", "wordless"], "A": ["clamorous", "noisy"]}

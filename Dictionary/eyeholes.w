@@ -1,1 +1,1 @@
-{"index": 96390, "D": "a hole  to look through, as in a mask or a curtain.", "S": ["crevice ", "eyelet ", "opening ", "slit ", "slot "], "A": ["closure "]}
+{"index": 96390, "D": "a hole  to look through, as in a mask or a curtain.", "S": ["crevice", "eyelet", "opening", "slit", "slot"], "A": ["closure"]}

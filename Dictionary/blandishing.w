@@ -1,1 +1,1 @@
-{"index": 35703, "D": "to coax or influence by gentle flattery; cajole", "S": ["allure ", "beguile ", "cajole ", "caress ", "charm ", "coax ", "entice ", "urge ", "wheedle "], "A": ["discourage ", "dissuade ", "repel ", "repulse ", "turn off "]}
+{"index": 35703, "D": "to coax or influence by gentle flattery; cajole", "S": ["allure", "beguile", "cajole", "caress", "charm", "coax", "entice", "urge", "wheedle"], "A": ["discourage", "dissuade", "repel", "repulse", "turn off"]}

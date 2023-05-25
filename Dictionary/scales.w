@@ -1,1 +1,1 @@
-{"index": 279427, "D": "the constellation Libra, the seventh sign of the zodiac", "S": ["dermatitis ", "eczema ", "eruption ", "psoriasis ", "scab ", "scabies ", "sores "], "A": []}
+{"index": 279427, "D": "the constellation Libra, the seventh sign of the zodiac", "S": ["dermatitis", "eczema", "eruption", "psoriasis", "scab", "scabies", "sores"], "A": []}

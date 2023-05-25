@@ -1,0 +1,1 @@
+{"index": 26034, "D": "of or relating to the philosopher Francis Bacon  or his doctrines.", "S": [], "A": []}

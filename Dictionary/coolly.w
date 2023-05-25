@@ -1,1 +1,1 @@
-{"index": 68282, "D": "moderately cold; neither warm nor cold", "S": ["easily ", "peacefully ", "serenely ", "smoothly "], "A": []}
+{"index": 68282, "D": "moderately cold; neither warm nor cold", "S": ["easily", "peacefully", "serenely", "smoothly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 53431, "D": "to chirp; peep.", "S": ["chip ", "chirp ", "chirrup ", "peep ", "tweedle ", "tweet ", "twitter "], "A": []}
+{"index": 53431, "D": "to chirp; peep.", "S": ["chip", "chirp", "chirrup", "peep", "tweedle", "tweet", "twitter"], "A": []}

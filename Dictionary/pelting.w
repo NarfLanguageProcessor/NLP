@@ -1,1 +1,1 @@
-{"index": 229427, "D": "paltry; petty; mean.", "S": ["barrage ", "bombardment ", "hailstorm ", "rain ", "salvo ", "shower ", "storm ", "volley "], "A": []}
+{"index": 229427, "D": "paltry; petty; mean.", "S": ["barrage", "bombardment", "hailstorm", "rain", "salvo", "shower", "storm", "volley"], "A": []}

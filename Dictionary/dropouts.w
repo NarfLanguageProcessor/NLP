@@ -1,1 +1,1 @@
-{"index": 93361, "D": "an act or instance of dropping out.", "S": ["beatnik ", "bohemian ", "flower child ", "free spirit ", "hippie ", "nonconformist "], "A": []}
+{"index": 93361, "D": "an act or instance of dropping out.", "S": ["beatnik", "bohemian", "flower child", "free spirit", "hippie", "nonconformist"], "A": []}

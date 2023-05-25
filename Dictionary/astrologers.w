@@ -1,1 +1,1 @@
-{"index": 22278, "D": "the study that assumes and attempts to interpret the influence of the heavenly bodies on human affairs.", "S": ["fortuneteller ", "soothsayer "], "A": []}
+{"index": 22278, "D": "the study that assumes and attempts to interpret the influence of the heavenly bodies on human affairs.", "S": ["fortuneteller", "soothsayer"], "A": []}

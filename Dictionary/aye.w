@@ -1,1 +1,1 @@
-{"index": 6717, "D": "yes. ", "S": ["affirmative ", "always ", "continually ", "okay ", "vote "], "A": ["nay ", "negative "]}
+{"index": 6717, "D": "yes. ", "S": ["affirmative", "always", "continually", "okay", "vote"], "A": ["nay", "negative"]}

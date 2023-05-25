@@ -1,1 +1,1 @@
-{"index": 11958, "D": "of, like, or tending to anarchy. ", "S": ["disorganized ", "helter-skelter ", "lawless ", "tumultuous ", "turbulent "], "A": ["calm "]}
+{"index": 11958, "D": "of, like, or tending to anarchy. ", "S": ["disorganized", "helter-skelter", "lawless", "tumultuous", "turbulent"], "A": ["calm"]}

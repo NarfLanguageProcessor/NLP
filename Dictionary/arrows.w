@@ -1,1 +1,1 @@
-{"index": 20335, "D": "(functioning as singular) British an informal name for darts", "S": ["cursor ", "dart ", "missile ", "projectile "], "A": []}
+{"index": 20335, "D": "(functioning as singular) British an informal name for darts", "S": ["cursor", "dart", "missile", "projectile"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 367425, "D": "the act or manner of expressing in words; phrasing.", "S": ["language ", "manner ", "phrasing ", "terminology "], "A": []}
+{"index": 367425, "D": "the act or manner of expressing in words; phrasing.", "S": ["language", "manner", "phrasing", "terminology"], "A": []}

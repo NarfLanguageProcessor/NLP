@@ -1,1 +1,1 @@
-{"index": 33753, "D": "the middle part of a rope, as distinguished from the ends.", "S": ["angle ", "bayou ", "gulf ", "inlet ", "loop ", "noose ", "road "], "A": []}
+{"index": 33753, "D": "the middle part of a rope, as distinguished from the ends.", "S": ["angle", "bayou", "gulf", "inlet", "loop", "noose", "road"], "A": []}

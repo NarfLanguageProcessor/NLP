@@ -1,1 +1,1 @@
-{"index": 238228, "D": "to erect or set up (a tent, camp, or the like).", "S": ["bent ", "diagonal ", "inclining ", "sideway ", "sideways ", "sidewise "], "A": []}
+{"index": 238228, "D": "to erect or set up (a tent, camp, or the like).", "S": ["bent", "diagonal", "inclining", "sideway", "sideways", "sidewise"], "A": []}

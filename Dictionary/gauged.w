@@ -1,1 +1,1 @@
-{"index": 122817, "D": "to determine the exact dimensions, capacity, quantity, or force of; measure.", "S": ["careful ", "deliberate ", "restrained "], "A": []}
+{"index": 122817, "D": "to determine the exact dimensions, capacity, quantity, or force of; measure.", "S": ["careful", "deliberate", "restrained"], "A": []}

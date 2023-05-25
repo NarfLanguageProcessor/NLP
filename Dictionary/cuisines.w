@@ -1,1 +1,1 @@
-{"index": 74669, "D": "a style or quality of cooking; cookery", "S": ["cooking ", "fare ", "meal ", "menu "], "A": []}
+{"index": 74669, "D": "a style or quality of cooking; cookery", "S": ["cooking", "fare", "meal", "menu"], "A": []}

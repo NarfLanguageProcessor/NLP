@@ -1,1 +1,0 @@
-{"index": 200340, "D": "any of a class of compounds containing the nitramino group.", "S": [], "A": []}

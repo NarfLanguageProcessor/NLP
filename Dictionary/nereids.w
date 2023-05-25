@@ -1,1 +1,1 @@
-{"index": 198703, "D": "any elongate cylindrical worm of the polychaete family Nereididae, including clamworms.", "S": ["Nereid ", "Oceanid ", "kelpie ", "limniad ", "mermaid ", "naiad ", "nix ", "ocean nymph ", "river nymph ", "sea nymph ", "water elf ", "water sprite "], "A": []}
+{"index": 198703, "D": "any elongate cylindrical worm of the polychaete family Nereididae, including clamworms.", "S": ["Nereid", "Oceanid", "kelpie", "limniad", "mermaid", "naiad", "nix", "ocean nymph", "river nymph", "sea nymph", "water elf", "water sprite"], "A": []}

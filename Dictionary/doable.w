@@ -1,1 +1,1 @@
-{"index": 90532, "D": "capable of being done. ", "S": ["available ", "exploitative ", "exploitatory ", "exploitive ", "feasible ", "fit ", "functional ", "helpful ", "operable ", "useful ", "working "], "A": []}
+{"index": 90532, "D": "capable of being done. ", "S": ["available", "exploitative", "exploitatory", "exploitive", "feasible", "fit", "functional", "helpful", "operable", "useful", "working"], "A": []}

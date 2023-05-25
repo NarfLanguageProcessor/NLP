@@ -1,1 +1,1 @@
-{"index": 188852, "D": "Compare abortion (def. 1). ", "S": ["abortion ", "mishap "], "A": ["accuracy ", "certainty ", "correction ", "good fortune ", "success ", "triumph ", "truth ", "win "]}
+{"index": 188852, "D": "Compare abortion (def. 1). ", "S": ["abortion", "mishap"], "A": ["accuracy", "certainty", "correction", "good fortune", "success", "triumph", "truth", "win"]}

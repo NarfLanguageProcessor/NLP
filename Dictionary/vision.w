@@ -1,1 +1,1 @@
-{"index": 360401, "D": "the act or power of sensing with the eyes; sight.", "S": ["eyesight ", "perception ", "view "], "A": ["actuality ", "blindness ", "fact ", "reality "]}
+{"index": 360401, "D": "the act or power of sensing with the eyes; sight.", "S": ["eyesight", "perception", "view"], "A": ["actuality", "blindness", "fact", "reality"]}

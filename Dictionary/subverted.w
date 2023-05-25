@@ -1,1 +1,1 @@
-{"index": 309735, "D": "to overthrow (something established or existing).", "S": ["collapsed ", "demolished ", "ravaged ", "smashed ", "wrecked "], "A": ["sober "]}
+{"index": 309735, "D": "to overthrow (something established or existing).", "S": ["collapsed", "demolished", "ravaged", "smashed", "wrecked"], "A": ["sober"]}

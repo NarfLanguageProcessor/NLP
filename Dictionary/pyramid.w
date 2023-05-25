@@ -1,1 +1,1 @@
-{"index": 237563, "D": "(in ancient Egypt and pre-Columbian Central America) a quadrilateral masonry mass, stepped and sharply sloping, used as a tomb or a platform for a temple.", "S": ["edifice ", "memorial ", "monolith ", "shrine ", "tomb "], "A": []}
+{"index": 237563, "D": "(in ancient Egypt and pre-Columbian Central America) a quadrilateral masonry mass, stepped and sharply sloping, used as a tomb or a platform for a temple.", "S": ["edifice", "memorial", "monolith", "shrine", "tomb"], "A": []}

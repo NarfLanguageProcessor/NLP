@@ -1,1 +1,1 @@
-{"index": 167436, "D": "stopover. ", "S": ["hiatus ", "respite ", "stopover "], "A": ["continuation "]}
+{"index": 167436, "D": "stopover. ", "S": ["hiatus", "respite", "stopover"], "A": ["continuation"]}

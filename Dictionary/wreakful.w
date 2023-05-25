@@ -1,1 +1,1 @@
-{"index": 367876, "D": [], "S": ["cruel ", "malicious ", "merciless ", "resentful ", "retaliatory ", "ruthless ", "spiteful ", "unforgiving ", "vengeful "], "A": ["compassionate ", "considerate ", "forgiving ", "gentle ", "giving ", "kind ", "merciful ", "nice ", "sympathetic ", "thoughtful "]}
+{"index": 367876, "D": [], "S": ["cruel", "malicious", "merciless", "resentful", "retaliatory", "ruthless", "spiteful", "unforgiving", "vengeful"], "A": ["compassionate", "considerate", "forgiving", "gentle", "giving", "kind", "merciful", "nice", "sympathetic", "thoughtful"]}

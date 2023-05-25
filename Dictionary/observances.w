@@ -1,1 +1,1 @@
-{"index": 210380, "D": "an act or instance of following, obeying, or conforming to", "S": ["acknowledgment ", "adherence ", "celebration ", "compliance ", "fulfillment "], "A": ["disregard ", "heedlessness ", "ignorance ", "inattention ", "indifference ", "neglect ", "thoughtlessness "]}
+{"index": 210380, "D": "an act or instance of following, obeying, or conforming to", "S": ["acknowledgment", "adherence", "celebration", "compliance", "fulfillment"], "A": ["disregard", "heedlessness", "ignorance", "inattention", "indifference", "neglect", "thoughtlessness"]}

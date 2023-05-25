@@ -1,0 +1,1 @@
+{"index": 18069, "D": "the fourth month of the year, containing 30 days. Abbreviation", "S": [], "A": []}

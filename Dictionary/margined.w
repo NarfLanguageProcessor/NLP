@@ -1,1 +1,1 @@
-{"index": 180009, "D": "the space around the printed or written matter on a page.", "S": ["bound ", "define ", "edge ", "flank ", "fringe ", "hem ", "margin ", "rim ", "surround ", "verge "], "A": ["let go "]}
+{"index": 180009, "D": "the space around the printed or written matter on a page.", "S": ["bound", "define", "edge", "flank", "fringe", "hem", "margin", "rim", "surround", "verge"], "A": ["let go"]}

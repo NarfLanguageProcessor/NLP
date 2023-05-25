@@ -1,1 +1,1 @@
-{"index": 317050, "D": "simple past tense and past participle of teach. ", "S": ["coached ", "directed ", "educated ", "informed ", "learned ", "trained "], "A": ["ignorant ", "inexperienced ", "stupid ", "uninformed "]}
+{"index": 317050, "D": "simple past tense and past participle of teach. ", "S": ["coached", "directed", "educated", "informed", "learned", "trained"], "A": ["ignorant", "inexperienced", "stupid", "uninformed"]}

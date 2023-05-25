@@ -1,1 +1,1 @@
-{"index": 3250, "D": "to make active; cause to function or act.", "S": ["bracing ", "brisk ", "exhilarating ", "invigorating ", "invigoration ", "refreshing ", "reinvigorating ", "renewing ", "restorative ", "stimulating "], "A": ["boring ", "depressing "]}
+{"index": 3250, "D": "to make active; cause to function or act.", "S": ["bracing", "brisk", "exhilarating", "invigorating", "invigoration", "refreshing", "reinvigorating", "renewing", "restorative", "stimulating"], "A": ["boring", "depressing"]}

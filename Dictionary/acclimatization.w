@@ -1,1 +1,1 @@
-{"index": 1605, "D": "to acclimate. ", "S": ["acclimation ", "adjustment "], "A": []}
+{"index": 1605, "D": "to acclimate. ", "S": ["acclimation", "adjustment"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 280315, "D": "a dull, colorless person.", "S": ["slattern "], "A": []}
+{"index": 280315, "D": "a dull, colorless person.", "S": ["slattern"], "A": []}

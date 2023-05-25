@@ -1,1 +1,1 @@
-{"index": 78813, "D": "any position assumed by a patient when lying in bed.", "S": ["accumbency ", "decumbency ", "reclination ", "recumbency "], "A": ["standing "]}
+{"index": 78813, "D": "any position assumed by a patient when lying in bed.", "S": ["accumbency", "decumbency", "reclination", "recumbency"], "A": ["standing"]}

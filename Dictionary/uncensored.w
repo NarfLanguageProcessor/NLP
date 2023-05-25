@@ -1,1 +1,1 @@
-{"index": 336635, "D": "(of a publication, film, letter, etc) not having been banned or edited", "S": ["exhaustive ", "uncut "], "A": []}
+{"index": 336635, "D": "(of a publication, film, letter, etc) not having been banned or edited", "S": ["exhaustive", "uncut"], "A": []}

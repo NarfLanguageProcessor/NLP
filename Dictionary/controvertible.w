@@ -1,1 +1,1 @@
-{"index": 67833, "D": "to argue against; dispute; deny; oppose. ", "S": ["contentious ", "disputed ", "dubious ", "questionable "], "A": ["certain ", "definite ", "sure "]}
+{"index": 67833, "D": "to argue against; dispute; deny; oppose. ", "S": ["contentious", "disputed", "dubious", "questionable"], "A": ["certain", "definite", "sure"]}

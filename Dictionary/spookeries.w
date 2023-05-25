@@ -1,1 +1,0 @@
-{"index": 300844, "D": "a ghost; specter. ", "S": [], "A": []}

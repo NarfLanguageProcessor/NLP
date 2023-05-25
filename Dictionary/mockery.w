@@ -1,1 +1,1 @@
-{"index": 191007, "D": "ridicule, contempt, or derision.", "S": ["farce ", "sham ", "travesty "], "A": ["truth "]}
+{"index": 191007, "D": "ridicule, contempt, or derision.", "S": ["farce", "sham", "travesty"], "A": ["truth"]}

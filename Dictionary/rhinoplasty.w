@@ -1,1 +1,1 @@
-{"index": 272083, "D": "plastic surgery of the nose.", "S": ["anaplasty ", "esthetic surgery ", "face-lift ", "reconstructive surgery "], "A": []}
+{"index": 272083, "D": "plastic surgery of the nose.", "S": ["anaplasty", "esthetic surgery", "face-lift", "reconstructive surgery"], "A": []}

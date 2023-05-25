@@ -1,1 +1,1 @@
-{"index": 62434, "D": "(of the hair) arranged or combed in a coiffure;  styled", "S": ["cropped ", "cut ", "shortened ", "trimmed "], "A": []}
+{"index": 62434, "D": "(of the hair) arranged or combed in a coiffure;  styled", "S": ["cropped", "cut", "shortened", "trimmed"], "A": []}

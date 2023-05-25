@@ -1,1 +1,1 @@
-{"index": 145345, "D": [], "S": ["corn dab ", "corn dodger ", "dodger "], "A": []}
+{"index": 145345, "D": [], "S": ["corn dab", "corn dodger", "dodger"], "A": []}

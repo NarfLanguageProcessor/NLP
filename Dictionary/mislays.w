@@ -1,1 +1,1 @@
-{"index": 189547, "D": "to lose temporarily; misplace", "S": ["displace ", "misplace "], "A": ["find ", "keep "]}
+{"index": 189547, "D": "to lose temporarily; misplace", "S": ["displace", "misplace"], "A": ["find", "keep"]}

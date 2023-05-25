@@ -1,1 +1,1 @@
-{"index": 195976, "D": "any of various fleshy fungi including the toadstools, puffballs, coral fungi, morels, etc.", "S": ["blooming ", "burgeoning ", "expanding ", "growing ", "prosperous ", "thriving "], "A": ["declining ", "failing ", "losing "]}
+{"index": 195976, "D": "any of various fleshy fungi including the toadstools, puffballs, coral fungi, morels, etc.", "S": ["blooming", "burgeoning", "expanding", "growing", "prosperous", "thriving"], "A": ["declining", "failing", "losing"]}

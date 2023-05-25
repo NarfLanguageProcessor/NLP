@@ -1,1 +1,1 @@
-{"index": 75735, "D": "to penetrate with or as if with a sharp-edged instrument or object", "S": ["laceration ", "wound "], "A": []}
+{"index": 75735, "D": "to penetrate with or as if with a sharp-edged instrument or object", "S": ["laceration", "wound"], "A": []}

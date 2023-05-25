@@ -1,1 +1,1 @@
-{"index": 210403, "D": "someone or something that observes.", "S": ["bystander ", "onlooker ", "viewer ", "watcher ", "witness "], "A": ["participant "]}
+{"index": 210403, "D": "someone or something that observes.", "S": ["bystander", "onlooker", "viewer", "watcher", "witness"], "A": ["participant"]}

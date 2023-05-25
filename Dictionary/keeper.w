@@ -1,1 +1,1 @@
-{"index": 163581, "D": "a person who guards or watches, as at a prison or gate.", "S": ["attendant ", "caretaker ", "curator ", "custodian ", "defender "], "A": []}
+{"index": 163581, "D": "a person who guards or watches, as at a prison or gate.", "S": ["attendant", "caretaker", "curator", "custodian", "defender"], "A": []}

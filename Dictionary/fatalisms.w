@@ -1,1 +1,1 @@
-{"index": 110233, "D": "the acceptance of all things and events as inevitable; submission to fate", "S": ["acceptance ", "determinism ", "passivity ", "predestinarianism ", "predestination ", "stoicism "], "A": []}
+{"index": 110233, "D": "the acceptance of all things and events as inevitable; submission to fate", "S": ["acceptance", "determinism", "passivity", "predestinarianism", "predestination", "stoicism"], "A": []}

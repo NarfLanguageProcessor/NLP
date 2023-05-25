@@ -1,1 +1,0 @@
-{"index": 317849, "D": "a person who abstains totally from intoxicating drink.", "S": ["abstainer ", "abstinent ", "prohibitionist ", "total abstainer "], "A": ["alcoholic ", "drinker ", "drunk ", "drunkard ", "lush ", "souse ", "wino "]}

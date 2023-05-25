@@ -1,1 +1,1 @@
-{"index": 42714, "D": "liable to make awkward blunders", "S": ["inept "], "A": []}
+{"index": 42714, "D": "liable to make awkward blunders", "S": ["inept"], "A": []}

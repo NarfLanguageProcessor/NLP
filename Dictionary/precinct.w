@@ -1,1 +1,1 @@
-{"index": 246088, "D": "a district, as of a city, marked out for governmental or administrative purposes, or for police protection.", "S": ["district ", "neighborhood ", "ward "], "A": ["whole "]}
+{"index": 246088, "D": "a district, as of a city, marked out for governmental or administrative purposes, or for police protection.", "S": ["district", "neighborhood", "ward"], "A": ["whole"]}

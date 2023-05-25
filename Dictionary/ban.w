@@ -1,1 +1,1 @@
-{"index": 27222, "D": "to prohibit, forbid, or bar; interdict", "S": ["boycott ", "censorship ", "embargo ", "injunction ", "prohibition ", "refusal ", "restriction "], "A": ["approval ", "sanction "]}
+{"index": 27222, "D": "to prohibit, forbid, or bar; interdict", "S": ["boycott", "censorship", "embargo", "injunction", "prohibition", "refusal", "restriction"], "A": ["approval", "sanction"]}

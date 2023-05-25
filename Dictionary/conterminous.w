@@ -1,1 +1,1 @@
-{"index": 67395, "D": "having a common boundary; bordering; contiguous.", "S": ["coextensive ", "coincident ", "commensurate ", "coterminous ", "equal ", "like "], "A": []}
+{"index": 67395, "D": "having a common boundary; bordering; contiguous.", "S": ["coextensive", "coincident", "commensurate", "coterminous", "equal", "like"], "A": []}

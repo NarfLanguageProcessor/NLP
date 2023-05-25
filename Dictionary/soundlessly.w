@@ -1,1 +1,1 @@
-{"index": 297868, "D": "without sound;  silent; quiet.", "S": ["softly "], "A": ["audibly ", "loudly ", "publicly "]}
+{"index": 297868, "D": "without sound;  silent; quiet.", "S": ["softly"], "A": ["audibly", "loudly", "publicly"]}

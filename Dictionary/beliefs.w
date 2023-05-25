@@ -1,1 +1,1 @@
-{"index": 31078, "D": "something believed;  an opinion or conviction", "S": ["ideology ", "mentality ", "mindset ", "spirit "], "A": ["body ", "physicality "]}
+{"index": 31078, "D": "something believed;  an opinion or conviction", "S": ["ideology", "mentality", "mindset", "spirit"], "A": ["body", "physicality"]}

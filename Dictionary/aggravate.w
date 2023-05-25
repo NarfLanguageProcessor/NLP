@@ -1,1 +1,1 @@
-{"index": 6106, "D": "to make worse or more severe; intensify, as anything evil, disorderly, or troublesome", "S": ["bother ", "irritate ", "provoke "], "A": ["aid ", "delight ", "help ", "please ", "calm ", "make happy ", "soothe "]}
+{"index": 6106, "D": "to make worse or more severe; intensify, as anything evil, disorderly, or troublesome", "S": ["bother", "irritate", "provoke"], "A": ["aid", "delight", "help", "please", "calm", "make happy", "soothe"]}

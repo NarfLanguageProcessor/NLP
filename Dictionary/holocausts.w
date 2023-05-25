@@ -1,1 +1,1 @@
-{"index": 142555, "D": "a great or complete devastation or destruction, especially by fire.", "S": ["carnage ", "catastrophe ", "devastation ", "extermination ", "genocide ", "mass murder ", "massacre ", "slaughter "], "A": []}
+{"index": 142555, "D": "a great or complete devastation or destruction, especially by fire.", "S": ["carnage", "catastrophe", "devastation", "extermination", "genocide", "mass murder", "massacre", "slaughter"], "A": []}

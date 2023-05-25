@@ -1,1 +1,0 @@
-{"index": 261838, "D": "to restore to life; resuscitate.", "S": ["few days off ", "leave ", "rest and recreation ", "rest and recuperation ", "rest and relaxation ", "vacation "], "A": []}

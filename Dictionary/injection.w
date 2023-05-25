@@ -1,1 +1,1 @@
-{"index": 152841, "D": "the act of injecting. ", "S": ["dose ", "needle "], "A": []}
+{"index": 152841, "D": "the act of injecting. ", "S": ["dose", "needle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 73018, "D": "deep purplish-red.", "S": ["maroon "], "A": []}
+{"index": 73018, "D": "deep purplish-red.", "S": ["maroon"], "A": []}

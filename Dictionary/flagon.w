@@ -1,1 +1,1 @@
-{"index": 113772, "D": "a large bottle for wine, liquors, etc.", "S": ["bottle ", "cup ", "stein ", "vessel "], "A": []}
+{"index": 113772, "D": "a large bottle for wine, liquors, etc.", "S": ["bottle", "cup", "stein", "vessel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 131513, "D": "the offal of fish or whales; the waste parts left over after cleaning fish.", "S": ["bank ", "dune ", "hill ", "hog ", "mote ", "mound ", "mountain ", "pile ", "tumulus "], "A": ["ditch ", "valley "]}
+{"index": 131513, "D": "the offal of fish or whales; the waste parts left over after cleaning fish.", "S": ["bank", "dune", "hill", "hog", "mote", "mound", "mountain", "pile", "tumulus"], "A": ["ditch", "valley"]}

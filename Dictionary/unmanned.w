@@ -1,1 +1,1 @@
-{"index": 345988, "D": "without the physical presence of a person or people on board; uncrewed", "S": ["altered ", "desexed ", "emasculate ", "fixed "], "A": []}
+{"index": 345988, "D": "without the physical presence of a person or people on board; uncrewed", "S": ["altered", "desexed", "emasculate", "fixed"], "A": []}

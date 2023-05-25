@@ -1,1 +1,1 @@
-{"index": 255882, "D": "a bar or tavern.", "S": ["bar ", "inn ", "lounge ", "saloon ", "tavern "], "A": []}
+{"index": 255882, "D": "a bar or tavern.", "S": ["bar", "inn", "lounge", "saloon", "tavern"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 100858, "D": "the plural of enquiry. ", "S": ["inquiry ", "inquisition ", "query "], "A": ["answer ", "reply ", "ignorance "]}
+{"index": 100858, "D": "the plural of enquiry. ", "S": ["inquiry", "inquisition", "query"], "A": ["answer", "reply", "ignorance"]}

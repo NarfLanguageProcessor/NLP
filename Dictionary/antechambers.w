@@ -1,0 +1,1 @@
+{"index": 14092, "D": "a chamber or room that serves as a waiting room and entrance to a larger room or an apartment; anteroom.", "S": ["apartment", "cage", "chamber", "cubicle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 353465, "D": "to render or cause to become out of tune", "S": ["discordant ", "dissonant "], "A": ["concordant ", "harmonious "]}
+{"index": 353465, "D": "to render or cause to become out of tune", "S": ["discordant", "dissonant"], "A": ["concordant", "harmonious"]}

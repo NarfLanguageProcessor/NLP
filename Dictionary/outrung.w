@@ -1,1 +1,0 @@
-{"index": 217331, "D": "to outdo in ringing; ring  louder than.", "S": [], "A": []}

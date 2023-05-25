@@ -1,1 +1,1 @@
-{"index": 105964, "D": "to determine or set the value  or amount of; appraise", "S": ["authority ", "cartoonist ", "commentator ", "expert ", "judge ", "pundit ", "reviewer "], "A": ["amateur "]}
+{"index": 105964, "D": "to determine or set the value  or amount of; appraise", "S": ["authority", "cartoonist", "commentator", "expert", "judge", "pundit", "reviewer"], "A": ["amateur"]}

@@ -1,1 +1,1 @@
-{"index": 92989, "D": "appropriate to somewhat formal occasions", "S": ["elegance ", "flair ", "grace ", "mode ", "sophistication ", "taste ", "thing "], "A": ["dislike ", "hate ", "hatred ", "ineptness ", "dullness "]}
+{"index": 92989, "D": "appropriate to somewhat formal occasions", "S": ["elegance", "flair", "grace", "mode", "sophistication", "taste", "thing"], "A": ["dislike", "hate", "hatred", "ineptness", "dullness"]}

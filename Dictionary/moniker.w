@@ -1,1 +1,1 @@
-{"index": 191969, "D": "a person's name, especially a nickname or alias.", "S": ["appellation ", "sobriquet "], "A": []}
+{"index": 191969, "D": "a person's name, especially a nickname or alias.", "S": ["appellation", "sobriquet"], "A": []}

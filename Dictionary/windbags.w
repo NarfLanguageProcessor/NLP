@@ -1,1 +1,1 @@
-{"index": 365907, "D": "an empty, voluble, pretentious talker.", "S": ["blowhard ", "boaster ", "braggart ", "bragger ", "gasbag ", "jabberer ", "know-it-all "], "A": []}
+{"index": 365907, "D": "an empty, voluble, pretentious talker.", "S": ["blowhard", "boaster", "braggart", "bragger", "gasbag", "jabberer", "know-it-all"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 59367, "D": "to make a loud, harsh noise", "S": ["discord "], "A": []}
+{"index": 59367, "D": "to make a loud, harsh noise", "S": ["discord"], "A": []}

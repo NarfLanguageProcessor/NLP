@@ -1,1 +1,1 @@
-{"index": 182821, "D": "a confused hand-to-hand fight or struggle among several people.", "S": ["brawl ", "brouhaha ", "clash ", "fracas ", "free-for-all ", "ruckus ", "scrimmage ", "scuffle ", "skirmish ", "tussle "], "A": ["calm ", "harmony ", "peace ", "agreement "]}
+{"index": 182821, "D": "a confused hand-to-hand fight or struggle among several people.", "S": ["brawl", "brouhaha", "clash", "fracas", "free-for-all", "ruckus", "scrimmage", "scuffle", "skirmish", "tussle"], "A": ["calm", "harmony", "peace", "agreement"]}

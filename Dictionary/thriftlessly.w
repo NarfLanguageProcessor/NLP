@@ -1,1 +1,1 @@
-{"index": 322676, "D": "without thrift; improvident; wasteful.", "S": ["prodigally "], "A": []}
+{"index": 322676, "D": "without thrift; improvident; wasteful.", "S": ["prodigally"], "A": []}

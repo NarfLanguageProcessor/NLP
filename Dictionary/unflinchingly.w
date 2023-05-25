@@ -1,1 +1,1 @@
-{"index": 342393, "D": "not flinching;  unshrinking", "S": ["boldly ", "fearlessly ", "gallantly ", "gamely ", "heroically ", "valiantly "], "A": ["fearfully ", "timidly "]}
+{"index": 342393, "D": "not flinching;  unshrinking", "S": ["boldly", "fearlessly", "gallantly", "gamely", "heroically", "valiantly"], "A": ["fearfully", "timidly"]}

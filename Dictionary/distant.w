@@ -1,1 +1,1 @@
-{"index": 89698, "D": "far off or apart in space; not near at hand; remote or removed (often followed by from)", "S": ["far ", "far-flung ", "far-off ", "inaccessible ", "isolated ", "obscure ", "remote ", "removed ", "secluded "], "A": ["approachable ", "mingling ", "public "]}
+{"index": 89698, "D": "far off or apart in space; not near at hand; remote or removed (often followed by from)", "S": ["far", "far-flung", "far-off", "inaccessible", "isolated", "obscure", "remote", "removed", "secluded"], "A": ["approachable", "mingling", "public"]}

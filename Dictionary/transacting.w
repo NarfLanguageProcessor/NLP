@@ -1,1 +1,1 @@
-{"index": 327665, "D": "to carry on or conduct (business, negotiations, activities, etc.) to a conclusion or settlement.", "S": ["performing ", "running "], "A": []}
+{"index": 327665, "D": "to carry on or conduct (business, negotiations, activities, etc.) to a conclusion or settlement.", "S": ["performing", "running"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 310036, "D": "a technical name for sweat", "S": ["diaphoresis ", "excreta ", "exudation ", "sudation ", "transpiration "], "A": []}
+{"index": 310036, "D": "a technical name for sweat", "S": ["diaphoresis", "excreta", "exudation", "sudation", "transpiration"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 67369, "D": "the chapters or other formal divisions of a book or document", "S": ["comfortable ", "contented ", "fulfilled ", "gratified ", "happy ", "pleased ", "satisfied ", "willing "], "A": ["discontented ", "unhappy ", "unsatisfied ", "upset ", "not happy "]}
+{"index": 67369, "D": "the chapters or other formal divisions of a book or document", "S": ["comfortable", "contented", "fulfilled", "gratified", "happy", "pleased", "satisfied", "willing"], "A": ["discontented", "unhappy", "unsatisfied", "upset", "not happy"]}

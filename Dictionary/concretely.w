@@ -1,1 +1,1 @@
-{"index": 65448, "D": "Compare reinforced concrete. ", "S": ["categorically ", "clearly ", "correctly ", "definitely ", "especially ", "exactly ", "explicitly ", "individually ", "pointedly ", "precisely ", "respectively ", "specially "], "A": ["inaccurately ", "indefinitely ", "questionably "]}
+{"index": 65448, "D": "Compare reinforced concrete. ", "S": ["categorically", "clearly", "correctly", "definitely", "especially", "exactly", "explicitly", "individually", "pointedly", "precisely", "respectively", "specially"], "A": ["inaccurately", "indefinitely", "questionably"]}

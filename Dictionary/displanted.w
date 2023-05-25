@@ -1,1 +1,1 @@
-{"index": 89058, "D": "to dislodge.", "S": ["disturb ", "evict ", "expel ", "force out ", "lose ", "uproot "], "A": ["admit ", "take in ", "welcome ", "find ", "hold ", "keep ", "order ", "remain "]}
+{"index": 89058, "D": "to dislodge.", "S": ["disturb", "evict", "expel", "force out", "lose", "uproot"], "A": ["admit", "take in", "welcome", "find", "hold", "keep", "order", "remain"]}

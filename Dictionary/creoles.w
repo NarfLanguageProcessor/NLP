@@ -1,1 +1,1 @@
-{"index": 72661, "D": "a person born in the West Indies or Spanish America but of European, usually Spanish, ancestry.", "S": ["business language ", "diplomatic language ", "jargon ", "language universal ", "lingua franca ", "linguistic universal ", "pidgin "], "A": []}
+{"index": 72661, "D": "a person born in the West Indies or Spanish America but of European, usually Spanish, ancestry.", "S": ["business language", "diplomatic language", "jargon", "language universal", "lingua franca", "linguistic universal", "pidgin"], "A": []}

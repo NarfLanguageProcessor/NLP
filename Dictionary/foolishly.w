@@ -1,1 +1,1 @@
-{"index": 116117, "D": "resulting from or showing a lack of sense; ill-considered", "S": ["mistakenly ", "stupidly ", "unwisely "], "A": ["carefully ", "cautiously ", "sensibly ", "thoughtfully ", "wisely "]}
+{"index": 116117, "D": "resulting from or showing a lack of sense; ill-considered", "S": ["mistakenly", "stupidly", "unwisely"], "A": ["carefully", "cautiously", "sensibly", "thoughtfully", "wisely"]}

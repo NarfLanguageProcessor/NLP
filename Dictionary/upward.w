@@ -1,1 +1,1 @@
-{"index": 355217, "D": "toward a higher place or position", "S": ["higher ", "skyward ", "up "], "A": ["downward "]}
+{"index": 355217, "D": "toward a higher place or position", "S": ["higher", "skyward", "up"], "A": ["downward"]}

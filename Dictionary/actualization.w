@@ -1,1 +1,1 @@
-{"index": 3294, "D": "the act or process of actualizing. ", "S": ["materialization ", "realization "], "A": []}
+{"index": 3294, "D": "the act or process of actualizing. ", "S": ["materialization", "realization"], "A": []}

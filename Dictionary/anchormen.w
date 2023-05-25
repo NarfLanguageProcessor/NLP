@@ -1,1 +1,1 @@
-{"index": 12205, "D": "anchor (def. 11). ", "S": ["announcer ", "commentator "], "A": []}
+{"index": 12205, "D": "anchor (def. 11). ", "S": ["announcer", "commentator"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 242700, "D": "an excessively or blindly optimistic person.", "S": ["dreamer ", "hoper ", "idealist ", "positive thinker "], "A": []}
+{"index": 242700, "D": "an excessively or blindly optimistic person.", "S": ["dreamer", "hoper", "idealist", "positive thinker"], "A": []}

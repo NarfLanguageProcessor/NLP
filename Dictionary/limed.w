@@ -1,1 +1,0 @@
-{"index": 172338, "D": "the small, greenish-yellow, acid fruit of a citrus tree, Citrus aurantifolia, allied to the lemon.", "S": ["compost ", "enrich ", "germinate ", "impregnate ", "inseminate ", "mulch ", "pollinate ", "propagate "], "A": ["deplete ", "ignore ", "lay bare ", "uncover "]}

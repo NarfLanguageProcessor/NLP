@@ -1,1 +1,1 @@
-{"index": 81988, "D": "to cause (a train, streetcar, etc.) to run off the rails of a track.", "S": ["batty ", "distraught "], "A": []}
+{"index": 81988, "D": "to cause (a train, streetcar, etc.) to run off the rails of a track.", "S": ["batty", "distraught"], "A": []}

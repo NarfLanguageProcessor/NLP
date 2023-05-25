@@ -1,1 +1,1 @@
-{"index": 235646, "D": "a wasting away.", "S": ["consumption "], "A": []}
+{"index": 235646, "D": "a wasting away.", "S": ["consumption"], "A": []}

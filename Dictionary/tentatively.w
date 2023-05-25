@@ -1,1 +1,1 @@
-{"index": 319037, "D": "as a trial, experiment, or attempt", "S": ["conditionally ", "provisionally ", "temporarily "], "A": ["certainly ", "definitely ", "surely "]}
+{"index": 319037, "D": "as a trial, experiment, or attempt", "S": ["conditionally", "provisionally", "temporarily"], "A": ["certainly", "definitely", "surely"]}

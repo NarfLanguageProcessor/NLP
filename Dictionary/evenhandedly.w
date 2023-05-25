@@ -1,1 +1,1 @@
-{"index": 106094, "D": "impartial; equitable", "S": ["accurately ", "correctly ", "decently ", "duly ", "equally ", "equitably ", "honestly ", "honorably ", "impartially ", "lawfully ", "legally ", "legitimately ", "properly ", "reasonably ", "rightfully ", "rightly "], "A": ["wrongly "]}
+{"index": 106094, "D": "impartial; equitable", "S": ["accurately", "correctly", "decently", "duly", "equally", "equitably", "honestly", "honorably", "impartially", "lawfully", "legally", "legitimately", "properly", "reasonably", "rightfully", "rightly"], "A": ["wrongly"]}

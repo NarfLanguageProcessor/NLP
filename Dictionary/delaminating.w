@@ -1,1 +1,1 @@
-{"index": 79935, "D": "to split into laminae or thin layers.", "S": ["exfoliate ", "sliver "], "A": []}
+{"index": 79935, "D": "to split into laminae or thin layers.", "S": ["exfoliate", "sliver"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 366210, "D": "the act of a person or thing that wins. ", "S": ["donation ", "earnings ", "gain ", "profit ", "return "], "A": ["debt ", "loss ", "defeat ", "failure ", "forfeit ", "misfortune ", "penalty ", "poverty ", "punishment "]}
+{"index": 366210, "D": "the act of a person or thing that wins. ", "S": ["donation", "earnings", "gain", "profit", "return"], "A": ["debt", "loss", "defeat", "failure", "forfeit", "misfortune", "penalty", "poverty", "punishment"]}

@@ -1,1 +1,1 @@
-{"index": 103170, "D": "to make equal", "S": ["correlative ", "correspondent ", "counterpart ", "equal ", "like ", "parallel ", "same "], "A": ["different ", "dissimilar ", "unlike ", "variable "]}
+{"index": 103170, "D": "to make equal", "S": ["correlative", "correspondent", "counterpart", "equal", "like", "parallel", "same"], "A": ["different", "dissimilar", "unlike", "variable"]}

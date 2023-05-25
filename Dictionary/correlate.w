@@ -1,1 +1,1 @@
-{"index": 69634, "D": "to place in or bring into mutual or reciprocal relation; establish in orderly connection", "S": ["correspond ", "interact ", "tie in "], "A": ["disconnect ", "separate "]}
+{"index": 69634, "D": "to place in or bring into mutual or reciprocal relation; establish in orderly connection", "S": ["correspond", "interact", "tie in"], "A": ["disconnect", "separate"]}

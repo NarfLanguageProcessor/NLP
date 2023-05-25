@@ -1,1 +1,1 @@
-{"index": 134334, "D": "to visit habitually or appear to frequently as a spirit or ghost", "S": ["gathering place ", "hangout ", "meeting place ", "watering hole "], "A": []}
+{"index": 134334, "D": "to visit habitually or appear to frequently as a spirit or ghost", "S": ["gathering place", "hangout", "meeting place", "watering hole"], "A": []}

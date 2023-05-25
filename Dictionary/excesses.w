@@ -1,1 +1,1 @@
-{"index": 106640, "D": "the fact of exceeding  something else in amount or degree", "S": ["exuberance ", "glut ", "overkill ", "surplus ", "waste "], "A": ["insufficiency ", "lack ", "need ", "want ", "base ", "core ", "few ", "little ", "scarcity "]}
+{"index": 106640, "D": "the fact of exceeding  something else in amount or degree", "S": ["exuberance", "glut", "overkill", "surplus", "waste"], "A": ["insufficiency", "lack", "need", "want", "base", "core", "few", "little", "scarcity"]}

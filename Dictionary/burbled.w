@@ -1,1 +1,1 @@
-{"index": 42978, "D": "to make a bubbling sound; bubble.", "S": ["babble "], "A": []}
+{"index": 42978, "D": "to make a bubbling sound; bubble.", "S": ["babble"], "A": []}

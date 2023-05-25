@@ -1,1 +1,1 @@
-{"index": 97402, "D": "pertaining to or dealing with elements,  rudiments, or first principles", "S": ["candor ", "clarity ", "directness ", "integrity ", "modesty ", "purity ", "restraint ", "unity "], "A": ["complexity ", "complication ", "difficulty "]}
+{"index": 97402, "D": "pertaining to or dealing with elements,  rudiments, or first principles", "S": ["candor", "clarity", "directness", "integrity", "modesty", "purity", "restraint", "unity"], "A": ["complexity", "complication", "difficulty"]}

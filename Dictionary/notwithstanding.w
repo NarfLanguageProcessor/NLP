@@ -1,1 +1,1 @@
-{"index": 209020, "D": "in spite of; without being opposed or prevented by", "S": ["nevertheless ", "nonetheless ", "withal ", "yet "], "A": []}
+{"index": 209020, "D": "in spite of; without being opposed or prevented by", "S": ["nevertheless", "nonetheless", "withal", "yet"], "A": []}

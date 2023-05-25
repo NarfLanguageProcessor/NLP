@@ -1,1 +1,1 @@
-{"index": 297280, "D": "little son  (often used as a familiar term of address to a boy).", "S": ["child ", "fellow ", "guy ", "lad ", "youngster ", "youth "], "A": ["girl "]}
+{"index": 297280, "D": "little son  (often used as a familiar term of address to a boy).", "S": ["child", "fellow", "guy", "lad", "youngster", "youth"], "A": ["girl"]}

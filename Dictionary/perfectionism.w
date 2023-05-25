@@ -1,1 +1,1 @@
-{"index": 230602, "D": "any of various doctrines holding that religious, moral, social, or political perfection  is attainable.", "S": ["bickering ", "carping ", "faultfinding ", "pettiness ", "sophistry "], "A": []}
+{"index": 230602, "D": "any of various doctrines holding that religious, moral, social, or political perfection  is attainable.", "S": ["bickering", "carping", "faultfinding", "pettiness", "sophistry"], "A": []}

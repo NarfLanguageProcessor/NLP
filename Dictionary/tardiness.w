@@ -1,1 +1,1 @@
-{"index": 316545, "D": "the state or quality of being later than the usual or proper time, or an instance of this; lateness", "S": ["delay ", "detention ", "slowness "], "A": ["promptness ", "punctuality "]}
+{"index": 316545, "D": "the state or quality of being later than the usual or proper time, or an instance of this; lateness", "S": ["delay", "detention", "slowness"], "A": ["promptness", "punctuality"]}

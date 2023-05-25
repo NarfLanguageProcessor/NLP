@@ -1,1 +1,0 @@
-{"index": 281330, "D": "any of numerous arachnids of the order Scorpionida, widely distributed in warmer parts of the world, having a long, narrow, segmented tail that terminates in a venomous sting.", "S": ["harvestman ", "mite ", "tarantula ", "tick "], "A": []}

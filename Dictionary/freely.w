@@ -1,1 +1,1 @@
-{"index": 118622, "D": "in a free manner.", "S": ["candidly ", "openly ", "voluntarily ", "willingly "], "A": ["bound ", "limited "]}
+{"index": 118622, "D": "in a free manner.", "S": ["candidly", "openly", "voluntarily", "willingly"], "A": ["bound", "limited"]}

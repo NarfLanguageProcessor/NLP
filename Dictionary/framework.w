@@ -1,1 +1,1 @@
-{"index": 118300, "D": "a basic structure, plan, or system, as of concepts, values, customs, or rules", "S": ["groundwork ", "plan ", "scheme ", "structure "], "A": []}
+{"index": 118300, "D": "a basic structure, plan, or system, as of concepts, values, customs, or rules", "S": ["groundwork", "plan", "scheme", "structure"], "A": []}

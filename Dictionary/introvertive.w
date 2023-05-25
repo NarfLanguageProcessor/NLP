@@ -1,1 +1,1 @@
-{"index": 156850, "D": "the act of introverting or the state of being introverted; a turning inward", "S": ["fanciful ", "introspective ", "nightmarish ", "otherworldly ", "pensive ", "quixotic ", "utopian ", "whimsical "], "A": ["real "]}
+{"index": 156850, "D": "the act of introverting or the state of being introverted; a turning inward", "S": ["fanciful", "introspective", "nightmarish", "otherworldly", "pensive", "quixotic", "utopian", "whimsical"], "A": ["real"]}

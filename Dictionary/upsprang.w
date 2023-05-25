@@ -1,1 +1,1 @@
-{"index": 355055, "D": "to spring up.", "S": ["arise ", "be bred ", "be brought about ", "be caused ", "be generated ", "come ", "derive ", "develop ", "emanate ", "flow ", "head ", "issue ", "originate ", "proceed ", "rise ", "spring "], "A": []}
+{"index": 355055, "D": "to spring up.", "S": ["arise", "be bred", "be brought about", "be caused", "be generated", "come", "derive", "develop", "emanate", "flow", "head", "issue", "originate", "proceed", "rise", "spring"], "A": []}

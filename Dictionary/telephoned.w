@@ -1,1 +1,1 @@
-{"index": 318171, "D": "an apparatus, system, or process for transmission of sound or speech to a distant point, especially by an electric device.", "S": ["call up ", "contact ", "dial ", "phone "], "A": []}
+{"index": 318171, "D": "an apparatus, system, or process for transmission of sound or speech to a distant point, especially by an electric device.", "S": ["call up", "contact", "dial", "phone"], "A": []}

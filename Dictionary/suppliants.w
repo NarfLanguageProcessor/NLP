@@ -1,1 +1,1 @@
-{"index": 312992, "D": "a person who supplicates;  petitioner.", "S": ["beggar ", "petitioner ", "seeker ", "solicitor ", "suitor "], "A": []}
+{"index": 312992, "D": "a person who supplicates;  petitioner.", "S": ["beggar", "petitioner", "seeker", "solicitor", "suitor"], "A": []}

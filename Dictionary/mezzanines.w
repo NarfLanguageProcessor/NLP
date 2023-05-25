@@ -1,1 +1,1 @@
-{"index": 185590, "D": "the lowest balcony or forward part of such a balcony in a theater.", "S": ["balcony "], "A": []}
+{"index": 185590, "D": "the lowest balcony or forward part of such a balcony in a theater.", "S": ["balcony"], "A": []}

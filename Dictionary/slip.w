@@ -1,1 +1,1 @@
-{"index": 294143, "D": "to move, flow, pass, or go smoothly or easily; glide; slide", "S": ["blunder ", "error ", "goof ", "lapse ", "misstep ", "mistake "], "A": ["correction "]}
+{"index": 294143, "D": "to move, flow, pass, or go smoothly or easily; glide; slide", "S": ["blunder", "error", "goof", "lapse", "misstep", "mistake"], "A": ["correction"]}

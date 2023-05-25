@@ -1,1 +1,1 @@
-{"index": 175125, "D": "free or released from fastening or attachment", "S": ["atrocity ", "degradation ", "evil "], "A": ["good ", "goodness ", "morality ", "virtue "]}
+{"index": 175125, "D": "free or released from fastening or attachment", "S": ["atrocity", "degradation", "evil"], "A": ["good", "goodness", "morality", "virtue"]}

@@ -1,1 +1,1 @@
-{"index": 145303, "D": "to rush violently; move with great speed", "S": ["collide ", "lunge ", "scoot "], "A": ["slow ", "walk "]}
+{"index": 145303, "D": "to rush violently; move with great speed", "S": ["collide", "lunge", "scoot"], "A": ["slow", "walk"]}

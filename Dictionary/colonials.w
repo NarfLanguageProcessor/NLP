@@ -1,1 +1,1 @@
-{"index": 63243, "D": "of, concerning, or pertaining to a colony or colonies", "S": ["pilgrim "], "A": []}
+{"index": 63243, "D": "of, concerning, or pertaining to a colony or colonies", "S": ["pilgrim"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 80026, "D": "a delicatessen.", "S": ["cafeteria "], "A": []}
+{"index": 80026, "D": "a delicatessen.", "S": ["cafeteria"], "A": []}

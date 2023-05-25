@@ -1,1 +1,1 @@
-{"index": 146163, "D": "made of, full of, or covered with ice", "S": ["chilly ", "cold ", "freezing ", "frigid ", "frosty ", "glacial ", "polar ", "raw "], "A": ["heated ", "hot ", "warm "]}
+{"index": 146163, "D": "made of, full of, or covered with ice", "S": ["chilly", "cold", "freezing", "frigid", "frosty", "glacial", "polar", "raw"], "A": ["heated", "hot", "warm"]}

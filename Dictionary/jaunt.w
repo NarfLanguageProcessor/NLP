@@ -1,1 +1,1 @@
-{"index": 160600, "D": "a short journey, especially one taken for pleasure.", "S": ["excursion ", "jog ", "journey ", "junket ", "picnic ", "ramble ", "safari ", "stroll ", "trek "], "A": []}
+{"index": 160600, "D": "a short journey, especially one taken for pleasure.", "S": ["excursion", "jog", "journey", "junket", "picnic", "ramble", "safari", "stroll", "trek"], "A": []}

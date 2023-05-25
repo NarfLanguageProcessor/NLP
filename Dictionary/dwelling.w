@@ -1,1 +1,1 @@
-{"index": 94645, "D": "a building or place of shelter to live in; place of residence; abode; home.", "S": ["habitat ", "residence "], "A": []}
+{"index": 94645, "D": "a building or place of shelter to live in; place of residence; abode; home.", "S": ["habitat", "residence"], "A": []}

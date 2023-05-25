@@ -1,1 +1,1 @@
-{"index": 221230, "D": [], "S": ["beforehand ", "briefly ", "directly ", "immediately ", "prematurely ", "previous ", "promptly ", "quick ", "shortly ", "soon ", "too soon ", "unexpectedly "], "A": ["late ", "later "]}
+{"index": 221230, "D": [], "S": ["beforehand", "briefly", "directly", "immediately", "prematurely", "previous", "promptly", "quick", "shortly", "soon", "too soon", "unexpectedly"], "A": ["late", "later"]}

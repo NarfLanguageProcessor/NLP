@@ -1,1 +1,1 @@
-{"index": 155232, "D": "to fit into each other, as parts of machinery, so that all action is synchronized.", "S": ["chain ", "continuity ", "integration ", "link ", "nexus ", "series ", "succession ", "uniting "], "A": ["interruption "]}
+{"index": 155232, "D": "to fit into each other, as parts of machinery, so that all action is synchronized.", "S": ["chain", "continuity", "integration", "link", "nexus", "series", "succession", "uniting"], "A": ["interruption"]}

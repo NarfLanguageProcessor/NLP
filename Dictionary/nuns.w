@@ -1,1 +1,1 @@
-{"index": 209680, "D": "a woman member of a religious order, especially one bound by vows of poverty, chastity, and obedience.", "S": ["sister "], "A": ["monk "]}
+{"index": 209680, "D": "a woman member of a religious order, especially one bound by vows of poverty, chastity, and obedience.", "S": ["sister"], "A": ["monk"]}

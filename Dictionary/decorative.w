@@ -1,1 +1,1 @@
-{"index": 78693, "D": "serving or tending to decorate. ", "S": ["fancy ", "ornamental "], "A": ["plain "]}
+{"index": 78693, "D": "serving or tending to decorate. ", "S": ["fancy", "ornamental"], "A": ["plain"]}

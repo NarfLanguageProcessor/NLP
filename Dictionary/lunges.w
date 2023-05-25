@@ -1,1 +1,1 @@
-{"index": 176219, "D": "a sudden forward thrust, as with a sword or knife; stab.", "S": ["charge ", "cut ", "jab ", "jump ", "pass ", "spring ", "stab ", "swing ", "swipe ", "thrust "], "A": ["retreat "]}
+{"index": 176219, "D": "a sudden forward thrust, as with a sword or knife; stab.", "S": ["charge", "cut", "jab", "jump", "pass", "spring", "stab", "swing", "swipe", "thrust"], "A": ["retreat"]}

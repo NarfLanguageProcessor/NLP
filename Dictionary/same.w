@@ -1,1 +1,1 @@
-{"index": 277518, "D": "identical with what is about to be or has just been mentioned", "S": ["Xerox ", "carbon ", "clone ", "ditto ", "double ", "dupe ", "duplicate ", "equal ", "equivalent ", "like ", "look-alike ", "twin "], "A": ["different ", "dissimilar ", "unequal ", "unlike "]}
+{"index": 277518, "D": "identical with what is about to be or has just been mentioned", "S": ["Xerox", "carbon", "clone", "ditto", "double", "dupe", "duplicate", "equal", "equivalent", "like", "look-alike", "twin"], "A": ["different", "dissimilar", "unequal", "unlike"]}

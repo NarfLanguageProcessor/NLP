@@ -1,1 +1,0 @@
-{"index": 364844, "D": "whimsical  quality or character.", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

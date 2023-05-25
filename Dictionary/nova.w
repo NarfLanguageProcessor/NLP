@@ -1,1 +1,1 @@
-{"index": 209079, "D": "a star that suddenly becomes thousands of times brighter and then gradually fades to its original intensity.", "S": ["star "], "A": []}
+{"index": 209079, "D": "a star that suddenly becomes thousands of times brighter and then gradually fades to its original intensity.", "S": ["star"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 213719, "D": "a person or group that exercises authority or power over another in a harsh and burdensome way", "S": ["autocrat ", "despot "], "A": []}
+{"index": 213719, "D": "a person or group that exercises authority or power over another in a harsh and burdensome way", "S": ["autocrat", "despot"], "A": []}

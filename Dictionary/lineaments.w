@@ -1,1 +1,1 @@
-{"index": 172734, "D": "a feature or detail of a face, body, or figure, considered with respect to its outline or contour", "S": ["air ", "aspect ", "light ", "look ", "mask ", "surface ", "top "], "A": ["grin ", "hiding ", "reality ", "smile "]}
+{"index": 172734, "D": "a feature or detail of a face, body, or figure, considered with respect to its outline or contour", "S": ["air", "aspect", "light", "look", "mask", "surface", "top"], "A": ["grin", "hiding", "reality", "smile"]}

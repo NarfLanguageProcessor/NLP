@@ -1,1 +1,1 @@
-{"index": 118584, "D": "to act as a freebooter; plunder; loot.", "S": ["copying ", "hijacking ", "infringement ", "plagiarism ", "theft "], "A": []}
+{"index": 118584, "D": "to act as a freebooter; plunder; loot.", "S": ["copying", "hijacking", "infringement", "plagiarism", "theft"], "A": []}

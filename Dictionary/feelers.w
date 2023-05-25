@@ -1,1 +1,1 @@
-{"index": 110887, "D": "a person or thing that feels. ", "S": ["receiver ", "wire "], "A": []}
+{"index": 110887, "D": "a person or thing that feels. ", "S": ["receiver", "wire"], "A": []}

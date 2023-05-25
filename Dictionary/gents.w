@@ -1,1 +1,1 @@
-{"index": 123762, "D": "a men's room.", "S": ["chap "], "A": []}
+{"index": 123762, "D": "a men's room.", "S": ["chap"], "A": []}

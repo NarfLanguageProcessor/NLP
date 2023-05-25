@@ -1,1 +1,0 @@
-{"index": 177836, "D": "legally acceptable as mail,  as in terms of content, size, or weight.", "S": [], "A": []}

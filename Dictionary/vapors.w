@@ -1,1 +1,1 @@
-{"index": 357098, "D": "a visible exhalation, as fog, mist, steam, smoke, or noxious gas, diffused through or suspended in the air", "S": ["mist "], "A": []}
+{"index": 357098, "D": "a visible exhalation, as fog, mist, steam, smoke, or noxious gas, diffused through or suspended in the air", "S": ["mist"], "A": []}

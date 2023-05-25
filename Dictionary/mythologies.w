@@ -1,1 +1,1 @@
-{"index": 190535, "D": "a body of myths, as that of a particular people or that relating to a particular person", "S": ["belief ", "legend ", "lore ", "tradition "], "A": ["actuality ", "history ", "reality ", "truth "]}
+{"index": 190535, "D": "a body of myths, as that of a particular people or that relating to a particular person", "S": ["belief", "legend", "lore", "tradition"], "A": ["actuality", "history", "reality", "truth"]}

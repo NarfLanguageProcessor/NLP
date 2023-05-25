@@ -1,1 +1,1 @@
-{"index": 168694, "D": "large, flat, rectangular strips of pasta.", "S": ["gnocchi ", "linguine ", "macaroni ", "ravioli ", "spaghetti ", "tortellini "], "A": []}
+{"index": 168694, "D": "large, flat, rectangular strips of pasta.", "S": ["gnocchi", "linguine", "macaroni", "ravioli", "spaghetti", "tortellini"], "A": []}

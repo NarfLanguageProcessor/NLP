@@ -1,1 +1,1 @@
-{"index": 9256, "D": "separate, apart, or isolated from others", "S": ["only ", "unattended "], "A": ["together "]}
+{"index": 9256, "D": "separate, apart, or isolated from others", "S": ["only", "unattended"], "A": ["together"]}

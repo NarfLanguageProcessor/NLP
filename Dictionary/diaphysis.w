@@ -1,1 +1,1 @@
-{"index": 84431, "D": "the shaft of a long bone.", "S": ["beam ", "chimney ", "cylinder ", "duct ", "rod ", "tunnel "], "A": []}
+{"index": 84431, "D": "the shaft of a long bone.", "S": ["beam", "chimney", "cylinder", "duct", "rod", "tunnel"], "A": []}

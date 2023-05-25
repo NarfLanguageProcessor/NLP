@@ -1,0 +1,1 @@
+{"index": 4859, "D": "a round vessel caused to rotate by the force of tangentially escaping steam", "S": [], "A": []}

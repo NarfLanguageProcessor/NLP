@@ -1,1 +1,1 @@
-{"index": 298763, "D": "a special or distinctive quality, mark, state, or condition.", "S": ["hobby ", "major ", "masterpiece ", "profession ", "speciality "], "A": ["entertainment ", "fun ", "pastime ", "surrender "]}
+{"index": 298763, "D": "a special or distinctive quality, mark, state, or condition.", "S": ["hobby", "major", "masterpiece", "profession", "speciality"], "A": ["entertainment", "fun", "pastime", "surrender"]}

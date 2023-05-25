@@ -1,1 +1,1 @@
-{"index": 133919, "D": "wooden members used for strengthening the bow of a vessel", "S": ["belaboring ", "dwelling ", "insisting ", "laboring ", "persisting "], "A": []}
+{"index": 133919, "D": "wooden members used for strengthening the bow of a vessel", "S": ["belaboring", "dwelling", "insisting", "laboring", "persisting"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8083, "D": "pertaining to or causing pain; painful.", "S": [], "A": []}

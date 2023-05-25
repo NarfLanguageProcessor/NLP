@@ -1,1 +1,1 @@
-{"index": 114030, "D": "pieces of sheet metal or the like used to cover and protect certain joints and angles, as where a roof comes in contact with a wall or chimney, especially against leakage.", "S": ["aflame ", "aglow "], "A": ["dark ", "dim ", "dull ", "unexcited "]}
+{"index": 114030, "D": "pieces of sheet metal or the like used to cover and protect certain joints and angles, as where a roof comes in contact with a wall or chimney, especially against leakage.", "S": ["aflame", "aglow"], "A": ["dark", "dim", "dull", "unexcited"]}

@@ -1,1 +1,1 @@
-{"index": 157239, "D": "incapable of being conquered, defeated, or subdued.", "S": ["bulletproof ", "impassable ", "impregnable ", "indomitable ", "invulnerable ", "irresistible ", "unassailable ", "unbeatable ", "untouchable "], "A": ["beatable "]}
+{"index": 157239, "D": "incapable of being conquered, defeated, or subdued.", "S": ["bulletproof", "impassable", "impregnable", "indomitable", "invulnerable", "irresistible", "unassailable", "unbeatable", "untouchable"], "A": ["beatable"]}

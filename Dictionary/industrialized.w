@@ -1,1 +1,1 @@
-{"index": 151422, "D": "to introduce industry  into (an area) on a large scale.", "S": ["mechanical ", "modern ", "technical "], "A": ["domestic "]}
+{"index": 151422, "D": "to introduce industry  into (an area) on a large scale.", "S": ["mechanical", "modern", "technical"], "A": ["domestic"]}

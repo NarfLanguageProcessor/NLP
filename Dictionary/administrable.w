@@ -1,1 +1,1 @@
-{"index": 4142, "D": "capable of being administered", "S": ["controllable ", "manageable "], "A": []}
+{"index": 4142, "D": "capable of being administered", "S": ["controllable", "manageable"], "A": []}

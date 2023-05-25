@@ -1,1 +1,1 @@
-{"index": 15707, "D": [], "S": [], "A": []}
+{"index": 15707, "D": "conforming to the standard or the common type; usual; not abnormal; regular; natural. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 298434, "D": "something that produces sparks. ", "S": ["ball of fire ", "detonator ", "fuse ", "human dynamo ", "ignition system "], "A": []}
+{"index": 298434, "D": "something that produces sparks. ", "S": ["ball of fire", "detonator", "fuse", "human dynamo", "ignition system"], "A": []}

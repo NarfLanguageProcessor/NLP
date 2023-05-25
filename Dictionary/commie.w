@@ -1,1 +1,1 @@
-{"index": 64034, "D": "communist. ", "S": ["Bolshevik ", "Bolshevist ", "Maoist ", "Marxist ", "Stalinist ", "Trotskyite ", "apparatchik ", "comrade ", "leftist ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}
+{"index": 64034, "D": "communist. ", "S": ["Bolshevik", "Bolshevist", "Maoist", "Marxist", "Stalinist", "Trotskyite", "apparatchik", "comrade", "leftist", "red", "socialist", "sympathizer"], "A": ["capitalist", "conservative", "fascist"]}

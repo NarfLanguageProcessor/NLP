@@ -1,1 +1,1 @@
-{"index": 282931, "D": "free from or not exposed to danger or harm; safe.", "S": ["captured ", "collected ", "seized "], "A": ["deprived ", "forfeited ", "lost "]}
+{"index": 282931, "D": "free from or not exposed to danger or harm; safe.", "S": ["captured", "collected", "seized"], "A": ["deprived", "forfeited", "lost"]}

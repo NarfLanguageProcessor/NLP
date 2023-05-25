@@ -1,1 +1,1 @@
-{"index": 161401, "D": "swing music or early jazz.", "S": ["ruse ", "sham ", "subterfuge "], "A": ["frankness ", "honesty ", "openness ", "reality ", "truth "]}
+{"index": 161401, "D": "swing music or early jazz.", "S": ["ruse", "sham", "subterfuge"], "A": ["frankness", "honesty", "openness", "reality", "truth"]}

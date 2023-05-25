@@ -1,1 +1,1 @@
-{"index": 62441, "D": "a style of arranging the hair.", "S": ["DA ", "afro ", "beehive ", "braids ", "dreadlocks ", "dreads ", "flip ", "hair ", "haircut ", "hairdo ", "permanent ", "pigtails ", "plait ", "ponytail ", "tail ", "tease ", "trim ", "wave "], "A": []}
+{"index": 62441, "D": "a style of arranging the hair.", "S": ["DA", "afro", "beehive", "braids", "dreadlocks", "dreads", "flip", "hair", "haircut", "hairdo", "permanent", "pigtails", "plait", "ponytail", "tail", "tease", "trim", "wave"], "A": []}

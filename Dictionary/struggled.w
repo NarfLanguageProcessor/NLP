@@ -1,1 +1,1 @@
-{"index": 306642, "D": "to contend with an adversary or opposing force.", "S": ["cope ", "seek ", "strive ", "tackle ", "toil ", "try "], "A": ["forget ", "idle ", "neglect ", "be lazy ", "ignore ", "laze ", "procrastinate ", "withhold "]}
+{"index": 306642, "D": "to contend with an adversary or opposing force.", "S": ["cope", "seek", "strive", "tackle", "toil", "try"], "A": ["forget", "idle", "neglect", "be lazy", "ignore", "laze", "procrastinate", "withhold"]}

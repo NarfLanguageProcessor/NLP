@@ -1,1 +1,1 @@
-{"index": 252978, "D": "prosaic character or style.", "S": ["platitude "], "A": ["coinage ", "nuance "]}
+{"index": 252978, "D": "prosaic character or style.", "S": ["platitude"], "A": ["coinage", "nuance"]}

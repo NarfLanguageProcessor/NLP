@@ -1,1 +1,1 @@
-{"index": 9271, "D": "the quality or state of being aloof,  distant, or reserved; indifference", "S": ["remoteness "], "A": ["sympathy "]}
+{"index": 9271, "D": "the quality or state of being aloof,  distant, or reserved; indifference", "S": ["remoteness"], "A": ["sympathy"]}

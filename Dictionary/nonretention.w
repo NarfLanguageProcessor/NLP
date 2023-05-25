@@ -1,1 +1,0 @@
-{"index": 206836, "D": "the act of retaining. ", "S": [], "A": []}

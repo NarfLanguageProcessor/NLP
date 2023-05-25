@@ -1,1 +1,1 @@
-{"index": 150946, "D": "an act of indicting. ", "S": ["allegation ", "arraignment ", "bill ", "charge ", "citation ", "detention ", "impeachment ", "prosecution ", "statement ", "summons ", "warrant "], "A": ["praise "]}
+{"index": 150946, "D": "an act of indicting. ", "S": ["allegation", "arraignment", "bill", "charge", "citation", "detention", "impeachment", "prosecution", "statement", "summons", "warrant"], "A": ["praise"]}

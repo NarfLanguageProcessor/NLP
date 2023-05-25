@@ -1,1 +1,0 @@
-{"index": 295848, "D": "the accumulation of winter snowfall, especially in mountain or upland regions.", "S": [], "A": []}

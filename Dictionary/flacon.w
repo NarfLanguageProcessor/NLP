@@ -1,1 +1,1 @@
-{"index": 113697, "D": "a small bottle or flask with a stopper, especially one used for perfume.", "S": ["flask ", "water bottle "], "A": []}
+{"index": 113697, "D": "a small bottle or flask with a stopper, especially one used for perfume.", "S": ["flask", "water bottle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 227409, "D": "a color having a soft, subdued shade.", "S": ["pastel "], "A": []}
+{"index": 227409, "D": "a color having a soft, subdued shade.", "S": ["pastel"], "A": []}

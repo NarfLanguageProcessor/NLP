@@ -1,1 +1,1 @@
-{"index": 307449, "D": "a primary division of a class. ", "S": ["line ", "place ", "position "], "A": []}
+{"index": 307449, "D": "a primary division of a class. ", "S": ["line", "place", "position"], "A": []}

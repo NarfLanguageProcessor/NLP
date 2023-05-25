@@ -1,1 +1,1 @@
-{"index": 129460, "D": "the quality or state of being important, notable, or distinguished", "S": ["intensity ", "potency ", "strength "], "A": ["lethargy ", "weakness ", "inability ", "incompetence ", "insignificance ", "powerlessness ", "smallness ", "tininess "]}
+{"index": 129460, "D": "the quality or state of being important, notable, or distinguished", "S": ["intensity", "potency", "strength"], "A": ["lethargy", "weakness", "inability", "incompetence", "insignificance", "powerlessness", "smallness", "tininess"]}

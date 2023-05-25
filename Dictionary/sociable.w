@@ -1,1 +1,1 @@
-{"index": 296094, "D": "inclined to associate with or be in the company of others.", "S": ["affable ", "approachable ", "clubby ", "convivial ", "cordial ", "genial ", "good-natured ", "gregarious ", "neighborly "], "A": ["aloof ", "cold ", "cool ", "unfriendly ", "unsociable ", "uncommon "]}
+{"index": 296094, "D": "inclined to associate with or be in the company of others.", "S": ["affable", "approachable", "clubby", "convivial", "cordial", "genial", "good-natured", "gregarious", "neighborly"], "A": ["aloof", "cold", "cool", "unfriendly", "unsociable", "uncommon"]}

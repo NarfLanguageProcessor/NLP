@@ -1,1 +1,1 @@
-{"index": 288645, "D": "a sudden and violent blow or impact; collision. ", "S": ["aghast ", "amazed ", "appalled ", "astonished ", "dismayed ", "offended ", "stunned "], "A": []}
+{"index": 288645, "D": "a sudden and violent blow or impact; collision. ", "S": ["aghast", "amazed", "appalled", "astonished", "dismayed", "offended", "stunned"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 213781, "D": [], "S": ["extract ", "glean ", "pluck ", "select ", "sift ", "winnow "], "A": ["insert ", "put in ", "reject "]}
+{"index": 213781, "D": [], "S": ["extract", "glean", "pluck", "select", "sift", "winnow"], "A": ["insert", "put in", "reject"]}

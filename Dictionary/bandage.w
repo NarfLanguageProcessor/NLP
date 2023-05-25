@@ -1,1 +1,1 @@
-{"index": 27260, "D": "a strip of cloth or other material used to bind up a wound, sore, sprain, etc.", "S": ["dressing ", "gauze ", "plaster "], "A": []}
+{"index": 27260, "D": "a strip of cloth or other material used to bind up a wound, sore, sprain, etc.", "S": ["dressing", "gauze", "plaster"], "A": []}

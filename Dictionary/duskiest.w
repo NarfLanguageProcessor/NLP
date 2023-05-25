@@ -1,1 +1,1 @@
-{"index": 94509, "D": "somewhat dark; having little light; dim; shadowy.", "S": ["funereal "], "A": ["bright ", "clear ", "light "]}
+{"index": 94509, "D": "somewhat dark; having little light; dim; shadowy.", "S": ["funereal"], "A": ["bright", "clear", "light"]}

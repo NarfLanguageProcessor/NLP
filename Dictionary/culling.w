@@ -1,1 +1,1 @@
-{"index": 74745, "D": "the act or process of selecting and removing desirable or undesirable individuals from a group", "S": ["bounce ", "chuck ", "disdain ", "eviction ", "heave-ho ", "push ", "riddance ", "scorn ", "shakeout "], "A": []}
+{"index": 74745, "D": "the act or process of selecting and removing desirable or undesirable individuals from a group", "S": ["bounce", "chuck", "disdain", "eviction", "heave-ho", "push", "riddance", "scorn", "shakeout"], "A": []}

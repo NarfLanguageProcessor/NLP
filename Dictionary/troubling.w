@@ -1,1 +1,0 @@
-{"index": 331333, "D": "to disturb the mental calm and contentment of; worry; distress; agitate.", "S": ["grim ", "unfavorable ", "unfortunate ", "unpleasant "], "A": ["good ", "happy "]}

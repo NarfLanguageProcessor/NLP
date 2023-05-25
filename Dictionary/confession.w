@@ -1,1 +1,1 @@
-{"index": 65856, "D": "acknowledgment; avowal; admission", "S": ["acknowledgment ", "admission ", "assertion ", "concession ", "disclosure ", "proclamation ", "revelation ", "statement ", "story "], "A": ["denial ", "refusal ", "repudiation ", "secret ", "concealment ", "silence "]}
+{"index": 65856, "D": "acknowledgment; avowal; admission", "S": ["acknowledgment", "admission", "assertion", "concession", "disclosure", "proclamation", "revelation", "statement", "story"], "A": ["denial", "refusal", "repudiation", "secret", "concealment", "silence"]}

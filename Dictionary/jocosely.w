@@ -1,1 +1,1 @@
-{"index": 161488, "D": "given to or characterized by joking; jesting; humorous; playful", "S": ["amusingly ", "jokingly "], "A": []}
+{"index": 161488, "D": "given to or characterized by joking; jesting; humorous; playful", "S": ["amusingly", "jokingly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 61261, "D": "a web spun by a spider to entrap its prey.", "S": ["fiber ", "gossamer ", "labyrinth ", "mesh ", "net ", "network ", "snare ", "tissue ", "toil ", "web ", "webbing "], "A": []}
+{"index": 61261, "D": "a web spun by a spider to entrap its prey.", "S": ["fiber", "gossamer", "labyrinth", "mesh", "net", "network", "snare", "tissue", "toil", "web", "webbing"], "A": []}

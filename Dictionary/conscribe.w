@@ -1,1 +1,1 @@
-{"index": 66684, "D": "to constrict or limit; circumscribe.", "S": ["call up ", "choose ", "press ", "recruit "], "A": ["avoid ", "dodge ", "neglect ", "reject "]}
+{"index": 66684, "D": "to constrict or limit; circumscribe.", "S": ["call up", "choose", "press", "recruit"], "A": ["avoid", "dodge", "neglect", "reject"]}

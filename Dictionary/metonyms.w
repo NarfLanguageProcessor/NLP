@@ -1,1 +1,0 @@
-{"index": 185346, "D": "a word or phrase used in metonymy,  a figure of speech in which the name of one object or concept is used for that of another to which it is related", "S": ["equivalent "], "A": ["antonym "]}

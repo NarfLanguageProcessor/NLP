@@ -1,1 +1,1 @@
-{"index": 232179, "D": "to become spread throughout all parts of", "S": ["divine ", "everlasting ", "immortal ", "infinite "], "A": ["insignificant ", "lowly ", "powerless ", "weak "]}
+{"index": 232179, "D": "to become spread throughout all parts of", "S": ["divine", "everlasting", "immortal", "infinite"], "A": ["insignificant", "lowly", "powerless", "weak"]}

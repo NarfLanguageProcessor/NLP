@@ -1,1 +1,1 @@
-{"index": 134473, "D": "the sport of hunting with hawks  or other birds of prey; falconry.", "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}
+{"index": 134473, "D": "the sport of hunting with hawks  or other birds of prey; falconry.", "S": ["angling", "fishery", "fishing", "shooting"], "A": []}

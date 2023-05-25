@@ -1,1 +1,1 @@
-{"index": 101434, "D": "the act or practice of enticing,  especially to evil.", "S": ["bait ", "come-on ", "inducement ", "sweetener "], "A": ["repulsion "]}
+{"index": 101434, "D": "the act or practice of enticing,  especially to evil.", "S": ["bait", "come-on", "inducement", "sweetener"], "A": ["repulsion"]}

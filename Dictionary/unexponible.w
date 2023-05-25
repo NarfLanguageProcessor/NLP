@@ -1,1 +1,0 @@
-{"index": 341825, "D": "(of a proposition) requiring an expanded and revised statement to remove some obscurity.", "S": [], "A": []}

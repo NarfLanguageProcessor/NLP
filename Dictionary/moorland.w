@@ -1,1 +1,1 @@
-{"index": 193155, "D": "an area of moors, especially country abounding in heather.", "S": ["farmland ", "garden ", "grassland ", "green ", "ground ", "meadow ", "pasture ", "range ", "terrain ", "territory "], "A": ["sky "]}
+{"index": 193155, "D": "an area of moors, especially country abounding in heather.", "S": ["farmland", "garden", "grassland", "green", "ground", "meadow", "pasture", "range", "terrain", "territory"], "A": ["sky"]}

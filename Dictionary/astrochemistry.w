@@ -1,1 +1,1 @@
-{"index": 22233, "D": "a branch of astronomy and chemistry  dealing with the chemical composition and evolution of the universe and its parts.", "S": ["astrophysics "], "A": []}
+{"index": 22233, "D": "a branch of astronomy and chemistry  dealing with the chemical composition and evolution of the universe and its parts.", "S": ["astrophysics"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 226791, "D": [], "S": ["Second Advent ", "Second Coming of Christ ", "advent "], "A": []}
+{"index": 226791, "D": [], "S": ["Second Advent", "Second Coming of Christ", "advent"], "A": []}

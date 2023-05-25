@@ -1,1 +1,1 @@
-{"index": 282805, "D": "to discharge, generate, or release by the process of secretion. ", "S": ["buried ", "camouflaged ", "covered ", "planted ", "veiled "], "A": ["bare ", "clear ", "disclosed ", "exposed ", "obvious ", "open ", "plain ", "revealed ", "shown ", "told ", "uncovered "]}
+{"index": 282805, "D": "to discharge, generate, or release by the process of secretion. ", "S": ["buried", "camouflaged", "covered", "planted", "veiled"], "A": ["bare", "clear", "disclosed", "exposed", "obvious", "open", "plain", "revealed", "shown", "told", "uncovered"]}

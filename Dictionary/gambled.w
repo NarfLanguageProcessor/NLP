@@ -1,1 +1,1 @@
-{"index": 121634, "D": "to play at any game of chance for money or other stakes.", "S": ["adventured ", "attempted ", "dared ", "experimented ", "tested ", "tried "], "A": []}
+{"index": 121634, "D": "to play at any game of chance for money or other stakes.", "S": ["adventured", "attempted", "dared", "experimented", "tested", "tried"], "A": []}

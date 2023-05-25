@@ -1,1 +1,1 @@
-{"index": 240166, "D": "to walk heavily or move laboriously; trudge", "S": ["lumber ", "slog ", "tramp ", "trudge "], "A": ["tiptoe "]}
+{"index": 240166, "D": "to walk heavily or move laboriously; trudge", "S": ["lumber", "slog", "tramp", "trudge"], "A": ["tiptoe"]}

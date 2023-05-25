@@ -1,1 +1,1 @@
-{"index": 210442, "D": "no longer in general use; fallen into disuse", "S": ["antiquated ", "archaic ", "out-of-date ", "outmoded "], "A": ["current ", "modern ", "new "]}
+{"index": 210442, "D": "no longer in general use; fallen into disuse", "S": ["antiquated", "archaic", "out-of-date", "outmoded"], "A": ["current", "modern", "new"]}

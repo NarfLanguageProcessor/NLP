@@ -1,1 +1,1 @@
-{"index": 254223, "D": "a person who is excessively proper or modest in speech, conduct, dress, etc.", "S": ["Victorian ", "goody-goody ", "prig ", "puritan "], "A": []}
+{"index": 254223, "D": "a person who is excessively proper or modest in speech, conduct, dress, etc.", "S": ["Victorian", "goody-goody", "prig", "puritan"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 323047, "D": "a transient storm  of lightning and thunder,  usually with rain and gusty winds, sometimes with hail or snow, produced by cumulonimbus clouds.", "S": ["deluge ", "downpour ", "drizzle ", "flood ", "hail ", "rain ", "rainstorm ", "sleet ", "storm "], "A": []}
+{"index": 323047, "D": "a transient storm  of lightning and thunder,  usually with rain and gusty winds, sometimes with hail or snow, produced by cumulonimbus clouds.", "S": ["deluge", "downpour", "drizzle", "flood", "hail", "rain", "rainstorm", "sleet", "storm"], "A": []}

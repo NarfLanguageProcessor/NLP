@@ -1,1 +1,1 @@
-{"index": 47210, "D": "to attract and hold the attention or interest of, as by beauty or excellence; enchant", "S": ["concentration "], "A": ["surrender "]}
+{"index": 47210, "D": "to attract and hold the attention or interest of, as by beauty or excellence; enchant", "S": ["concentration"], "A": ["surrender"]}

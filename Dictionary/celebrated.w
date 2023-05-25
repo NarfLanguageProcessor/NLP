@@ -1,1 +1,1 @@
-{"index": 50450, "D": "renowned; well-known", "S": ["acclaimed ", "lionized ", "revered "], "A": ["inglorious ", "obscure ", "plain ", "unknown "]}
+{"index": 50450, "D": "renowned; well-known", "S": ["acclaimed", "lionized", "revered"], "A": ["inglorious", "obscure", "plain", "unknown"]}

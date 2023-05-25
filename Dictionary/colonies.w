@@ -1,1 +1,1 @@
-{"index": 63246, "D": "the subject territories formerly in the British Empire", "S": ["outpost ", "protectorate ", "province ", "territory "], "A": []}
+{"index": 63246, "D": "the subject territories formerly in the British Empire", "S": ["outpost", "protectorate", "province", "territory"], "A": []}

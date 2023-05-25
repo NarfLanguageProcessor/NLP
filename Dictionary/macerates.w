@@ -1,1 +1,1 @@
-{"index": 176707, "D": "to soften or separate into parts by steeping in a liquid.", "S": ["emaciate ", "mash ", "permeate ", "ret ", "saturate ", "soak ", "soften ", "steep "], "A": ["dehydrate ", "dry "]}
+{"index": 176707, "D": "to soften or separate into parts by steeping in a liquid.", "S": ["emaciate", "mash", "permeate", "ret", "saturate", "soak", "soften", "steep"], "A": ["dehydrate", "dry"]}

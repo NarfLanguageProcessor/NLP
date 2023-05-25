@@ -1,1 +1,1 @@
-{"index": 119657, "D": "a person who is dowdy, drab, and unattractive.", "S": ["slattern "], "A": []}
+{"index": 119657, "D": "a person who is dowdy, drab, and unattractive.", "S": ["slattern"], "A": []}

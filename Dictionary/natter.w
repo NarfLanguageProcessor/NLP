@@ -1,1 +1,1 @@
-{"index": 197312, "D": "to talk incessantly; chatter.", "S": ["chatter "], "A": ["conceal ", "hide "]}
+{"index": 197312, "D": "to talk incessantly; chatter.", "S": ["chatter"], "A": ["conceal", "hide"]}

@@ -1,1 +1,1 @@
-{"index": 149784, "D": "to take in; ingest.", "S": ["arising ", "beginning ", "starting ", "stemming "], "A": []}
+{"index": 149784, "D": "to take in; ingest.", "S": ["arising", "beginning", "starting", "stemming"], "A": []}

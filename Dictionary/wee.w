@@ -1,1 +1,1 @@
-{"index": 363732, "D": "little; very small.", "S": ["microscopic ", "teeny "], "A": ["big ", "huge ", "large ", "giant ", "great ", "important ", "significant ", "substantial ", "tall "]}
+{"index": 363732, "D": "little; very small.", "S": ["microscopic", "teeny"], "A": ["big", "huge", "large", "giant", "great", "important", "significant", "substantial", "tall"]}

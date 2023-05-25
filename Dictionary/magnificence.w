@@ -1,1 +1,1 @@
-{"index": 177598, "D": "the quality or state of being magnificent;  splendor; grandeur; sublimity", "S": ["elegance ", "greatness ", "richness ", "splendor "], "A": ["insignificance ", "dullness ", "plainness ", "ugliness ", "unimportance "]}
+{"index": 177598, "D": "the quality or state of being magnificent;  splendor; grandeur; sublimity", "S": ["elegance", "greatness", "richness", "splendor"], "A": ["insignificance", "dullness", "plainness", "ugliness", "unimportance"]}

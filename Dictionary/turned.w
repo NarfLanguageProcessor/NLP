@@ -1,1 +1,1 @@
-{"index": 332809, "D": "to cause to move around on an axis or about a center; rotate", "S": ["cooked ", "corrected ", "modified ", "transformed ", "updated "], "A": ["unqualified "]}
+{"index": 332809, "D": "to cause to move around on an axis or about a center; rotate", "S": ["cooked", "corrected", "modified", "transformed", "updated"], "A": ["unqualified"]}

@@ -1,1 +1,1 @@
-{"index": 99533, "D": "an encrusting  or being encrusted.", "S": ["blanket ", "coat ", "crust ", "glaze ", "layer ", "membrane ", "patina ", "sheet ", "skin ", "varnish ", "veneer "], "A": []}
+{"index": 99533, "D": "an encrusting  or being encrusted.", "S": ["blanket", "coat", "crust", "glaze", "layer", "membrane", "patina", "sheet", "skin", "varnish", "veneer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 17260, "D": "containing an apology  or excuse for a fault, failure, insult, injury, etc.", "S": ["meanly "], "A": ["boastfully ", "haughtily ", "proudly "]}
+{"index": 17260, "D": "containing an apology  or excuse for a fault, failure, insult, injury, etc.", "S": ["meanly"], "A": ["boastfully", "haughtily", "proudly"]}

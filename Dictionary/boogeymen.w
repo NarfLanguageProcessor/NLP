@@ -1,0 +1,1 @@
+{"index": 38024, "D": "bogeyman. ", "S": ["apparition", "bogeyman", "boggle", "bugaboo", "bugbear", "goblin", "hobgoblin", "monster", "phantasm", "phantasma", "phantom", "specter", "spirit", "spook", "visitant", "wraith"], "A": ["being", "reality"]}

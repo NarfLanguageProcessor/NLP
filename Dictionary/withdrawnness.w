@@ -1,1 +1,1 @@
-{"index": 366596, "D": "past participle of withdraw. ", "S": ["remoteness "], "A": ["sympathy "]}
+{"index": 366596, "D": "past participle of withdraw. ", "S": ["remoteness"], "A": ["sympathy"]}

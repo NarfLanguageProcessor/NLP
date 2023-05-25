@@ -1,1 +1,1 @@
-{"index": 151449, "D": "an intoxicant.", "S": ["fermented "], "A": []}
+{"index": 151449, "D": "an intoxicant.", "S": ["fermented"], "A": []}

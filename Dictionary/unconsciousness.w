@@ -1,1 +1,1 @@
-{"index": 337678, "D": "the state of being without normal sensory awareness; insensibility", "S": ["oblivion "], "A": ["cognizance ", "understanding "]}
+{"index": 337678, "D": "the state of being without normal sensory awareness; insensibility", "S": ["oblivion"], "A": ["cognizance", "understanding"]}

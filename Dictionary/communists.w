@@ -1,1 +1,1 @@
-{"index": 64277, "D": "a member of the Communist Party or movement.", "S": ["Bolshevik ", "Bolshevist ", "Commie ", "Maoist ", "Marxist ", "Stalinist ", "Trotskyite ", "apparatchik ", "comrade ", "pinko ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}
+{"index": 64277, "D": "a member of the Communist Party or movement.", "S": ["Bolshevik", "Bolshevist", "Commie", "Maoist", "Marxist", "Stalinist", "Trotskyite", "apparatchik", "comrade", "pinko", "red", "socialist", "sympathizer"], "A": ["capitalist", "conservative", "fascist"]}

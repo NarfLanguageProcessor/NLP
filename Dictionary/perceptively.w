@@ -1,1 +1,1 @@
-{"index": 230398, "D": "having or showing keenness of insight, understanding, or intuition", "S": ["affectionately ", "appreciatively ", "kindly ", "warmly "], "A": []}
+{"index": 230398, "D": "having or showing keenness of insight, understanding, or intuition", "S": ["affectionately", "appreciatively", "kindly", "warmly"], "A": []}

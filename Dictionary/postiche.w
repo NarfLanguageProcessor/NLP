@@ -1,1 +1,1 @@
-{"index": 244202, "D": "superadded, especially inappropriately, as a sculptural or architectural ornament.", "S": ["hairpiece "], "A": []}
+{"index": 244202, "D": "superadded, especially inappropriately, as a sculptural or architectural ornament.", "S": ["hairpiece"], "A": []}

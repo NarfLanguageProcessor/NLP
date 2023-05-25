@@ -1,1 +1,1 @@
-{"index": 161618, "D": "having or provided with joints. ", "S": ["slaughter "], "A": []}
+{"index": 161618, "D": "having or provided with joints. ", "S": ["slaughter"], "A": []}

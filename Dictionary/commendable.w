@@ -1,1 +1,1 @@
-{"index": 63945, "D": "worthy of praise", "S": ["admirable ", "creditable ", "excellent ", "exemplary ", "laudable ", "meritorious "], "A": ["bad ", "unworthy ", "wrong "]}
+{"index": 63945, "D": "worthy of praise", "S": ["admirable", "creditable", "excellent", "exemplary", "laudable", "meritorious"], "A": ["bad", "unworthy", "wrong"]}

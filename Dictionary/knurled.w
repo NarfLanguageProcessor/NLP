@@ -1,1 +1,1 @@
-{"index": 165770, "D": "having small ridges on the edge or surface; milled.", "S": ["bumpy ", "coarse ", "gnarled ", "knobby ", "knotty ", "rough "], "A": []}
+{"index": 165770, "D": "having small ridges on the edge or surface; milled.", "S": ["bumpy", "coarse", "gnarled", "knobby", "knotty", "rough"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 28419, "D": "to trade by exchange of commodities rather than by the use of money.", "S": ["haggle "], "A": ["keep "]}
+{"index": 28419, "D": "to trade by exchange of commodities rather than by the use of money.", "S": ["haggle"], "A": ["keep"]}

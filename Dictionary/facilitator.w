@@ -1,1 +1,1 @@
-{"index": 109002, "D": "a person or thing that facilitates. ", "S": ["coordinator ", "designer ", "developer ", "promoter "], "A": []}
+{"index": 109002, "D": "a person or thing that facilitates. ", "S": ["coordinator", "designer", "developer", "promoter"], "A": []}

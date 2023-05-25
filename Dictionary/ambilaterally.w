@@ -1,0 +1,1 @@
+{"index": 10002, "D": "of, relating to, or affecting both sides.", "S": [], "A": []}

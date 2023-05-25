@@ -1,1 +1,1 @@
-{"index": 173863, "D": "a literary person, especially a writer of literary works.", "S": ["belletrist ", "brain ", "educated person ", "intellectual ", "literary craftsman ", "literary scholar ", "savant ", "scholar ", "walking encyclopedia ", "wordsmith "], "A": []}
+{"index": 173863, "D": "a literary person, especially a writer of literary works.", "S": ["belletrist", "brain", "educated person", "intellectual", "literary craftsman", "literary scholar", "savant", "scholar", "walking encyclopedia", "wordsmith"], "A": []}

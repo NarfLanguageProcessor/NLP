@@ -1,1 +1,1 @@
-{"index": 329311, "D": "a very short time; an instant", "S": ["moment ", "outburst "], "A": []}
+{"index": 329311, "D": "a very short time; an instant", "S": ["moment", "outburst"], "A": []}

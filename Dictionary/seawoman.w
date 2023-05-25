@@ -1,1 +1,1 @@
-{"index": 282648, "D": [], "S": ["bluejacket ", "boater ", "boatman/woman ", "deck hand ", "mariner ", "mate ", "middy ", "midshipman/woman ", "old salt ", "pirate ", "sailorman/woman ", "sea dog ", "seafarer ", "swabbie ", "yachtsman/woman "], "A": []}
+{"index": 282648, "D": [], "S": ["bluejacket", "boater", "boatman/woman", "deck hand", "mariner", "mate", "middy", "midshipman/woman", "old salt", "pirate", "sailorman/woman", "sea dog", "seafarer", "swabbie", "yachtsman/woman"], "A": []}

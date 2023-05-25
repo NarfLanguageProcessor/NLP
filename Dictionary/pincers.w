@@ -1,1 +1,1 @@
-{"index": 236923, "D": "a gripping tool consisting of two pivoted limbs forming a pair of jaws and a pair of handles (usually used with pair of).", "S": ["forceps ", "pliers ", "tongs "], "A": []}
+{"index": 236923, "D": "a gripping tool consisting of two pivoted limbs forming a pair of jaws and a pair of handles (usually used with pair of).", "S": ["forceps", "pliers", "tongs"], "A": []}

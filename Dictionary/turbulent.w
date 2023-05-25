@@ -1,1 +1,1 @@
-{"index": 332644, "D": "being in a state of agitation or tumult; disturbed", "S": ["bitter ", "bumpy ", "choppy ", "fierce ", "rough ", "stormy ", "swirling ", "tempestuous ", "unstable ", "violent "], "A": ["calm ", "gentle ", "kind ", "mild ", "moderate ", "nice ", "peaceful ", "smooth "]}
+{"index": 332644, "D": "being in a state of agitation or tumult; disturbed", "S": ["bitter", "bumpy", "choppy", "fierce", "rough", "stormy", "swirling", "tempestuous", "unstable", "violent"], "A": ["calm", "gentle", "kind", "mild", "moderate", "nice", "peaceful", "smooth"]}

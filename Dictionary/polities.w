@@ -1,1 +1,1 @@
-{"index": 242573, "D": "a particular form or system of government", "S": ["commonwealth ", "community ", "country ", "federation ", "land ", "nation ", "republic ", "sovereignty ", "territory ", "union "], "A": []}
+{"index": 242573, "D": "a particular form or system of government", "S": ["commonwealth", "community", "country", "federation", "land", "nation", "republic", "sovereignty", "territory", "union"], "A": []}

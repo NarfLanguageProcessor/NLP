@@ -1,1 +1,1 @@
-{"index": 61631, "D": "the silky envelope spun by the larvae  of many kinds of insects, as silkworms, serving as a covering for the insect during its stage as a pupa. ", "S": ["swaddle ", "swathe "], "A": ["uncover ", "unwrap "]}
+{"index": 61631, "D": "the silky envelope spun by the larvae  of many kinds of insects, as silkworms, serving as a covering for the insect during its stage as a pupa. ", "S": ["swaddle", "swathe"], "A": ["uncover", "unwrap"]}

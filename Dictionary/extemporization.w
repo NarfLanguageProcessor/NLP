@@ -1,1 +1,1 @@
-{"index": 108204, "D": "to speak extemporaneously", "S": ["ad-lib ", "impromptu ", "spontaneity "], "A": []}
+{"index": 108204, "D": "to speak extemporaneously", "S": ["ad-lib", "impromptu", "spontaneity"], "A": []}

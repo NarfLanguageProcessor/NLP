@@ -1,1 +1,1 @@
-{"index": 101834, "D": "of or relating to the totality of things, conditions, influences, cultural forces, etc., that surround and shape the life of a person or a population", "S": ["coincidental ", "inconclusive ", "indirect "], "A": ["direct "]}
+{"index": 101834, "D": "of or relating to the totality of things, conditions, influences, cultural forces, etc., that surround and shape the life of a person or a population", "S": ["coincidental", "inconclusive", "indirect"], "A": ["direct"]}

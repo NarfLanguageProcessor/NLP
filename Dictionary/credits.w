@@ -1,1 +1,1 @@
-{"index": 72512, "D": "a list of those responsible for the production of a film or television programme", "S": ["attention "], "A": ["blame ", "censure ", "condemnation ", "criticism ", "disapproval ", "disbelief ", "distrust ", "doubt ", "rejection ", "unimportance "]}
+{"index": 72512, "D": "a list of those responsible for the production of a film or television programme", "S": ["attention"], "A": ["blame", "censure", "condemnation", "criticism", "disapproval", "disbelief", "distrust", "doubt", "rejection", "unimportance"]}

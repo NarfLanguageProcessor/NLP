@@ -1,1 +1,1 @@
-{"index": 175774, "D": "a dormer window.", "S": ["aperture ", "casement ", "dormer ", "fanlight ", "fenestella ", "fenestra ", "jalousie ", "lancet ", "lunette ", "oriel ", "porthole ", "skylight "], "A": []}
+{"index": 175774, "D": "a dormer window.", "S": ["aperture", "casement", "dormer", "fanlight", "fenestella", "fenestra", "jalousie", "lancet", "lunette", "oriel", "porthole", "skylight"], "A": []}

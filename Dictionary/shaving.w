@@ -1,1 +1,1 @@
-{"index": 287648, "D": "a very thin piece or slice, especially of wood.", "S": ["dose ", "fragment ", "item ", "part ", "portion ", "sample ", "shard ", "slice ", "sliver ", "snippet ", "taste ", "trace "], "A": ["entirety ", "lot ", "whole ", "agreement ", "glob "]}
+{"index": 287648, "D": "a very thin piece or slice, especially of wood.", "S": ["dose", "fragment", "item", "part", "portion", "sample", "shard", "slice", "sliver", "snippet", "taste", "trace"], "A": ["entirety", "lot", "whole", "agreement", "glob"]}

@@ -1,1 +1,1 @@
-{"index": 38181, "D": "something to be thankful for; blessing; benefit. ", "S": ["blessing ", "godsend ", "windfall "], "A": ["bad fortune ", "bad luck ", "disadvantage ", "forfeit ", "harm ", "hindrance ", "hurt ", "loss ", "misfortune "]}
+{"index": 38181, "D": "something to be thankful for; blessing; benefit. ", "S": ["blessing", "godsend", "windfall"], "A": ["bad fortune", "bad luck", "disadvantage", "forfeit", "harm", "hindrance", "hurt", "loss", "misfortune"]}

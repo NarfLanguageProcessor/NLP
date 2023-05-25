@@ -1,1 +1,1 @@
-{"index": 237074, "D": "a shaft or spindle cut with teeth engaging with a gear.", "S": ["affix ", "bind ", "clasp ", "fasten ", "fix "], "A": ["detach ", "let go ", "loose ", "loosen ", "release ", "unfasten ", "disjoin "]}
+{"index": 237074, "D": "a shaft or spindle cut with teeth engaging with a gear.", "S": ["affix", "bind", "clasp", "fasten", "fix"], "A": ["detach", "let go", "loose", "loosen", "release", "unfasten", "disjoin"]}

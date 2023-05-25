@@ -1,1 +1,1 @@
-{"index": 101641, "D": "a competitor in a contest.", "S": ["aspirant ", "competitor ", "contestant ", "entry ", "newcomer ", "participant "], "A": ["fan ", "spectator ", "expert ", "professional "]}
+{"index": 101641, "D": "a competitor in a contest.", "S": ["aspirant", "competitor", "contestant", "entry", "newcomer", "participant"], "A": ["fan", "spectator", "expert", "professional"]}

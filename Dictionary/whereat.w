@@ -1,1 +1,1 @@
-{"index": 364657, "D": "to which; whereupon", "S": ["so ", "thereupon ", "upon which ", "whereupon "], "A": []}
+{"index": 364657, "D": "to which; whereupon", "S": ["so", "thereupon", "upon which", "whereupon"], "A": []}

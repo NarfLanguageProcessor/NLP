@@ -1,1 +1,1 @@
-{"index": 151539, "D": "without skill or aptitude for a particular task or assignment; maladroit", "S": ["awkward ", "bumbling ", "incompetent ", "inefficient "], "A": ["able ", "capable ", "competent ", "dexterous ", "efficient ", "expert ", "skillful "]}
+{"index": 151539, "D": "without skill or aptitude for a particular task or assignment; maladroit", "S": ["awkward", "bumbling", "incompetent", "inefficient"], "A": ["able", "capable", "competent", "dexterous", "efficient", "expert", "skillful"]}

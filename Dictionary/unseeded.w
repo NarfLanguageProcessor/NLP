@@ -1,1 +1,1 @@
-{"index": 350680, "D": "See seed (def. 18)", "S": ["idle ", "slack ", "virgin "], "A": ["active "]}
+{"index": 350680, "D": "See seed (def. 18)", "S": ["idle", "slack", "virgin"], "A": ["active"]}

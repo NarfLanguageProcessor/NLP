@@ -1,1 +1,1 @@
-{"index": 38972, "D": "an obtrusive, ill-bred man.", "S": ["cad ", "lout "], "A": []}
+{"index": 38972, "D": "an obtrusive, ill-bred man.", "S": ["cad", "lout"], "A": []}

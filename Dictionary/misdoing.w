@@ -1,1 +1,1 @@
-{"index": 189153, "D": "to do badly or wrongly; botch.", "S": ["fault ", "misconduct "], "A": []}
+{"index": 189153, "D": "to do badly or wrongly; botch.", "S": ["fault", "misconduct"], "A": []}

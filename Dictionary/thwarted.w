@@ -1,1 +1,1 @@
-{"index": 323110, "D": "to oppose successfully; prevent from accomplishing a purpose.", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}
+{"index": 323110, "D": "to oppose successfully; prevent from accomplishing a purpose.", "S": ["humbled", "overpowered", "overwhelmed", "routed"], "A": []}

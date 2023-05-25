@@ -1,1 +1,1 @@
-{"index": 294175, "D": [], "S": ["run off "], "A": ["continue ", "face ", "meet ", "remain ", "stay ", "wait "]}
+{"index": 294175, "D": [], "S": ["run off"], "A": ["continue", "face", "meet", "remain", "stay", "wait"]}

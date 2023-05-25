@@ -1,1 +1,1 @@
-{"index": 12227, "D": "in ancient  times; of old.", "S": ["back when ", "eons ago ", "in days of yore ", "long ago ", "of old ", "olden days "], "A": []}
+{"index": 12227, "D": "in ancient  times; of old.", "S": ["back when", "eons ago", "in days of yore", "long ago", "of old", "olden days"], "A": []}

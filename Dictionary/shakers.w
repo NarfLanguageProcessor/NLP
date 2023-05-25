@@ -1,1 +1,1 @@
-{"index": 287211, "D": "an American millenarian sect, founded in 1747 as an offshoot of the Quakers, given to ecstatic shaking, advocating celibacy for its members, and practising common ownership of property", "S": ["bones ", "counters ", "craps ", "ivories ", "tombstones "], "A": []}
+{"index": 287211, "D": "an American millenarian sect, founded in 1747 as an offshoot of the Quakers, given to ecstatic shaking, advocating celibacy for its members, and practising common ownership of property", "S": ["bones", "counters", "craps", "ivories", "tombstones"], "A": []}

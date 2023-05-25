@@ -1,1 +1,1 @@
-{"index": 139459, "D": "full of hills;  having many hills; hilly country.", "S": ["craggy ", "elevated ", "mountainous ", "rocky ", "rolling ", "rugged ", "sloping ", "steep ", "undulating "], "A": ["flat ", "gentle ", "level ", "mild ", "moderate ", "smooth "]}
+{"index": 139459, "D": "full of hills;  having many hills; hilly country.", "S": ["craggy", "elevated", "mountainous", "rocky", "rolling", "rugged", "sloping", "steep", "undulating"], "A": ["flat", "gentle", "level", "mild", "moderate", "smooth"]}

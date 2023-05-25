@@ -1,1 +1,1 @@
-{"index": 199789, "D": [], "S": ["contaminated ", "fetid ", "rancid ", "rotting "], "A": ["sweet "]}
+{"index": 199789, "D": [], "S": ["contaminated", "fetid", "rancid", "rotting"], "A": ["sweet"]}

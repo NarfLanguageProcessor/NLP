@@ -1,1 +1,1 @@
-{"index": 68908, "D": "furnished with, made of, or in the form of cords. ", "S": ["knit "], "A": ["loose ", "loosen ", "unfasten ", "untie "]}
+{"index": 68908, "D": "furnished with, made of, or in the form of cords. ", "S": ["knit"], "A": ["loose", "loosen", "unfasten", "untie"]}

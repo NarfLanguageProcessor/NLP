@@ -1,1 +1,1 @@
-{"index": 224815, "D": "a broad, shallow container of metal, usually having sides flaring outward toward the top, used in various forms for frying, baking, washing, etc.", "S": ["bucket ", "frying pan ", "kettle ", "pot ", "saucepan ", "sheet ", "skillet "], "A": []}
+{"index": 224815, "D": "a broad, shallow container of metal, usually having sides flaring outward toward the top, used in various forms for frying, baking, washing, etc.", "S": ["bucket", "frying pan", "kettle", "pot", "saucepan", "sheet", "skillet"], "A": []}

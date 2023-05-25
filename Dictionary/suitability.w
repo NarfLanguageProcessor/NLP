@@ -1,1 +1,1 @@
-{"index": 310315, "D": "the state or quality of being satisfactory or in accord with what is desired or called for; appropriateness", "S": ["appropriateness ", "fitness ", "propriety "], "A": ["inappropriateness ", "unsuitableness "]}
+{"index": 310315, "D": "the state or quality of being satisfactory or in accord with what is desired or called for; appropriateness", "S": ["appropriateness", "fitness", "propriety"], "A": ["inappropriateness", "unsuitableness"]}

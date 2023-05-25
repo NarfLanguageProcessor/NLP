@@ -1,1 +1,1 @@
-{"index": 205773, "D": "absence of participation", "S": ["evasion ", "prevention ", "restraint "], "A": ["advance ", "arrival ", "coming ", "continuation ", "stay "]}
+{"index": 205773, "D": "absence of participation", "S": ["evasion", "prevention", "restraint"], "A": ["advance", "arrival", "coming", "continuation", "stay"]}

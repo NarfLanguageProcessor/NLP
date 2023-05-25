@@ -1,1 +1,1 @@
-{"index": 179678, "D": "excrement, especially of animals, or other refuse used as fertilizer.", "S": ["compost ", "enrich ", "germinate ", "impregnate ", "inseminate ", "mulch ", "pollinate ", "propagate "], "A": ["deplete ", "ignore ", "lay bare ", "uncover "]}
+{"index": 179678, "D": "excrement, especially of animals, or other refuse used as fertilizer.", "S": ["compost", "enrich", "germinate", "impregnate", "inseminate", "mulch", "pollinate", "propagate"], "A": ["deplete", "ignore", "lay bare", "uncover"]}

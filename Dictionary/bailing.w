@@ -1,1 +1,1 @@
-{"index": 26479, "D": "property or money given as surety that a person released from custody will return at an appointed time.", "S": ["clear away ", "dig ", "dig out ", "gouge ", "lift ", "pick up ", "remove ", "scrape "], "A": ["drop ", "lower ", "fill "]}
+{"index": 26479, "D": "property or money given as surety that a person released from custody will return at an appointed time.", "S": ["clear away", "dig", "dig out", "gouge", "lift", "pick up", "remove", "scrape"], "A": ["drop", "lower", "fill"]}

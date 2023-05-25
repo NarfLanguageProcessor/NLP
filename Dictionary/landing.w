@@ -1,1 +1,1 @@
-{"index": 167951, "D": "the act of a person or thing that lands", "S": ["dock "], "A": []}
+{"index": 167951, "D": "the act of a person or thing that lands", "S": ["dock"], "A": []}

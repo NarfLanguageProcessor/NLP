@@ -1,1 +1,1 @@
-{"index": 57203, "D": "an encyclopedia. ", "S": ["glossary ", "language ", "vocabulary "], "A": []}
+{"index": 57203, "D": "an encyclopedia. ", "S": ["glossary", "language", "vocabulary"], "A": []}

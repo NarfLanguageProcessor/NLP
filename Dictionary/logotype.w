@@ -1,1 +1,1 @@
-{"index": 174703, "D": "a single piece of type  bearing two or more uncombined letters, a syllable, or a word.", "S": ["logo ", "symbol ", "trademark "], "A": []}
+{"index": 174703, "D": "a single piece of type  bearing two or more uncombined letters, a syllable, or a word.", "S": ["logo", "symbol", "trademark"], "A": []}

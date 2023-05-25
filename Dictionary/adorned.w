@@ -1,0 +1,1 @@
+{"index": 4347, "D": "decorated or beautified, as by ornaments", "S": ["decorated", "embellished"], "A": ["marred", "unadorned"]}

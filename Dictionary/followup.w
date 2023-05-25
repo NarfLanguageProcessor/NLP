@@ -1,1 +1,1 @@
-{"index": 116000, "D": "the act of following up.", "S": ["aftermath ", "aftershock ", "consequence ", "fallout ", "hangover ", "offshoot ", "trail ", "wake "], "A": []}
+{"index": 116000, "D": "the act of following up.", "S": ["aftermath", "aftershock", "consequence", "fallout", "hangover", "offshoot", "trail", "wake"], "A": []}

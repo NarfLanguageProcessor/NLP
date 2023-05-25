@@ -1,1 +1,1 @@
-{"index": 35234, "D": "a past participle of bite. ", "S": ["eaten ", "mangled ", "masticated ", "mouthed ", "tasted "], "A": []}
+{"index": 35234, "D": "a past participle of bite. ", "S": ["eaten", "mangled", "masticated", "mouthed", "tasted"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 175582, "D": "a person who is in love  with another.", "S": ["admirer ", "boyfriend ", "companion ", "girlfriend ", "suitor ", "sweetheart "], "A": ["enemy ", "foe ", "opponent ", "hate "]}
+{"index": 175582, "D": "a person who is in love  with another.", "S": ["admirer", "boyfriend", "companion", "girlfriend", "suitor", "sweetheart"], "A": ["enemy", "foe", "opponent", "hate"]}

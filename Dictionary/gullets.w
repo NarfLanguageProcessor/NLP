@@ -1,1 +1,1 @@
-{"index": 131209, "D": "the esophagus.", "S": ["craw ", "esophagus ", "maw ", "throat "], "A": []}
+{"index": 131209, "D": "the esophagus.", "S": ["craw", "esophagus", "maw", "throat"], "A": []}

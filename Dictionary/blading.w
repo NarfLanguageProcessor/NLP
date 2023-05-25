@@ -1,1 +1,1 @@
-{"index": 35619, "D": "the act of skating on in-line skates.", "S": ["Rollerblading\u2122 "], "A": []}
+{"index": 35619, "D": "the act of skating on in-line skates.", "S": ["Rollerblading\u2122"], "A": []}

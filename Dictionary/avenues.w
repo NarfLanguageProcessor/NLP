@@ -1,1 +1,1 @@
-{"index": 24665, "D": "a wide street or main thoroughfare.", "S": ["boulevard ", "channel ", "entrance ", "outlet ", "pathway ", "promenade ", "road ", "route ", "thoroughfare "], "A": ["egress ", "refusal "]}
+{"index": 24665, "D": "a wide street or main thoroughfare.", "S": ["boulevard", "channel", "entrance", "outlet", "pathway", "promenade", "road", "route", "thoroughfare"], "A": ["egress", "refusal"]}

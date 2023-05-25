@@ -1,1 +1,0 @@
-{"index": 245826, "D": "to have confidence in the truth, the existence, or the reliability of something, although without absolute proof that one is right in doing so", "S": [], "A": []}

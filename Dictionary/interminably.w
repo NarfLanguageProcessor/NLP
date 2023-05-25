@@ -1,1 +1,1 @@
-{"index": 155373, "D": "incapable of being terminated; unending", "S": ["endlessly "], "A": []}
+{"index": 155373, "D": "incapable of being terminated; unending", "S": ["endlessly"], "A": []}

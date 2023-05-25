@@ -1,1 +1,1 @@
-{"index": 67562, "D": "an agreement between two or more parties for the doing or not doing of something specified.", "S": ["arrangement ", "bargain ", "bond ", "commitment ", "guarantee ", "obligation ", "pact ", "pledge ", "record ", "settlement "], "A": ["disagreement "]}
+{"index": 67562, "D": "an agreement between two or more parties for the doing or not doing of something specified.", "S": ["arrangement", "bargain", "bond", "commitment", "guarantee", "obligation", "pact", "pledge", "record", "settlement"], "A": ["disagreement"]}

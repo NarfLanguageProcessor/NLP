@@ -1,1 +1,1 @@
-{"index": 333791, "D": "Compare radius (def. 7). ", "S": ["radius "], "A": []}
+{"index": 333791, "D": "Compare radius (def. 7). ", "S": ["radius"], "A": []}

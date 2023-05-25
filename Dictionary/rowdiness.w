@@ -1,1 +1,1 @@
-{"index": 275013, "D": "a rough, disorderly person.", "S": ["fractiousness ", "intractability ", "intractableness ", "obstinacy ", "recalcitrance ", "recalcitrancy ", "refractoriness ", "roughness ", "unmanageableness ", "wildness "], "A": []}
+{"index": 275013, "D": "a rough, disorderly person.", "S": ["fractiousness", "intractability", "intractableness", "obstinacy", "recalcitrance", "recalcitrancy", "refractoriness", "roughness", "unmanageableness", "wildness"], "A": []}

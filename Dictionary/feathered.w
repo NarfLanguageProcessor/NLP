@@ -1,1 +1,1 @@
-{"index": 110655, "D": "clothed, covered, or provided with feathers,  as a bird or an arrow.", "S": ["fluffy "], "A": []}
+{"index": 110655, "D": "clothed, covered, or provided with feathers,  as a bird or an arrow.", "S": ["fluffy"], "A": []}

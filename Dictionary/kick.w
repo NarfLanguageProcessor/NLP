@@ -1,1 +1,1 @@
-{"index": 164415, "D": "to strike with the foot or feet", "S": ["fun "], "A": ["apathy ", "boredom "]}
+{"index": 164415, "D": "to strike with the foot or feet", "S": ["fun"], "A": ["apathy", "boredom"]}

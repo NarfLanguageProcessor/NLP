@@ -1,1 +1,1 @@
-{"index": 137954, "D": "a solid figure having six faces, as a cube.", "S": ["die "], "A": []}
+{"index": 137954, "D": "a solid figure having six faces, as a cube.", "S": ["die"], "A": []}

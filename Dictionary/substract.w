@@ -1,1 +1,1 @@
-{"index": 309350, "D": [], "S": ["inferior ", "insignificant ", "trivial ", "unimportant "], "A": ["consequential ", "important ", "significant ", "useful ", "valuable ", "worthwhile ", "big ", "chief ", "huge ", "large ", "main ", "major ", "necessary ", "primary "]}
+{"index": 309350, "D": [], "S": ["inferior", "insignificant", "trivial", "unimportant"], "A": ["consequential", "important", "significant", "useful", "valuable", "worthwhile", "big", "chief", "huge", "large", "main", "major", "necessary", "primary"]}

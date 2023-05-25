@@ -1,1 +1,1 @@
-{"index": 151870, "D": "an act or fact of infecting;  state of being infected. ", "S": ["bug ", "disease ", "epidemic ", "flu ", "pollution ", "virus "], "A": ["sanitation ", "sterility "]}
+{"index": 151870, "D": "an act or fact of infecting;  state of being infected. ", "S": ["bug", "disease", "epidemic", "flu", "pollution", "virus"], "A": ["sanitation", "sterility"]}

@@ -1,1 +1,1 @@
-{"index": 366704, "D": "to see, hear, or know by personal presence and perception", "S": ["bystander ", "eyewitness ", "observer ", "spectator ", "testimony "], "A": ["participant "]}
+{"index": 366704, "D": "to see, hear, or know by personal presence and perception", "S": ["bystander", "eyewitness", "observer", "spectator", "testimony"], "A": ["participant"]}

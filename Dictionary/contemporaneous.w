@@ -1,1 +1,1 @@
-{"index": 67335, "D": "living or occurring during the same period of time; contemporary. ", "S": ["coetaneous ", "coeval ", "coexistent ", "coexisting ", "concomitant ", "simultaneous ", "synchronic ", "synchronous "], "A": []}
+{"index": 67335, "D": "living or occurring during the same period of time; contemporary. ", "S": ["coetaneous", "coeval", "coexistent", "coexisting", "concomitant", "simultaneous", "synchronic", "synchronous"], "A": []}

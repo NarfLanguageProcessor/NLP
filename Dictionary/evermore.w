@@ -1,1 +1,1 @@
-{"index": 106186, "D": "always; continually; forever.", "S": ["eternally ", "forever "], "A": []}
+{"index": 106186, "D": "always; continually; forever.", "S": ["eternally", "forever"], "A": []}

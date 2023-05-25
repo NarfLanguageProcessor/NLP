@@ -1,1 +1,1 @@
-{"index": 87363, "D": "the act of disclaiming;  the renouncing, repudiating, or denying of a claim; disavowal.", "S": ["clause ", "retraction ", "waiver "], "A": ["approval "]}
+{"index": 87363, "D": "the act of disclaiming;  the renouncing, repudiating, or denying of a claim; disavowal.", "S": ["clause", "retraction", "waiver"], "A": ["approval"]}

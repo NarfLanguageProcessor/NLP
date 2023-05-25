@@ -1,1 +1,1 @@
-{"index": 39164, "D": "containing bowers;  leafy; shady", "S": ["favela ", "ghetto ", "red-light district ", "skid road ", "tenderloin "], "A": []}
+{"index": 39164, "D": "containing bowers;  leafy; shady", "S": ["favela", "ghetto", "red-light district", "skid road", "tenderloin"], "A": []}

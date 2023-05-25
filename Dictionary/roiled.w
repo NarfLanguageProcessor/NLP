@@ -1,1 +1,1 @@
-{"index": 273892, "D": "to render (water, wine, etc.) turbid by stirring up sediment.", "S": ["agitated ", "blustering ", "buffeting ", "dirty ", "dry ", "grating ", "jarring ", "raging ", "rasping "], "A": []}
+{"index": 273892, "D": "to render (water, wine, etc.) turbid by stirring up sediment.", "S": ["agitated", "blustering", "buffeting", "dirty", "dry", "grating", "jarring", "raging", "rasping"], "A": []}

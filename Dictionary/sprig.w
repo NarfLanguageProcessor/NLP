@@ -1,1 +1,1 @@
-{"index": 301262, "D": "a small spray of some plant with its leaves, flowers, etc.", "S": ["sprout ", "twig "], "A": []}
+{"index": 301262, "D": "a small spray of some plant with its leaves, flowers, etc.", "S": ["sprout", "twig"], "A": []}

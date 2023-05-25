@@ -1,1 +1,0 @@
-{"index": 326345, "D": "any of numerous moths of the family Tortricidae, comprising the leaf rollers, having broad, squarish, slightly fringed wings.", "S": [], "A": []}

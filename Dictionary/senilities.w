@@ -1,1 +1,1 @@
-{"index": 285283, "D": "the state of being senile,  especially the weakness or mental infirmity of old age.", "S": ["age ", "decline ", "dotage ", "feebleness ", "senescence "], "A": ["strength "]}
+{"index": 285283, "D": "the state of being senile,  especially the weakness or mental infirmity of old age.", "S": ["age", "decline", "dotage", "feebleness", "senescence"], "A": ["strength"]}

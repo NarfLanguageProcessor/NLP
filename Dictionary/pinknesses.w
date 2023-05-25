@@ -1,1 +1,1 @@
-{"index": 237119, "D": "a color varying from light crimson to pale reddish purple.", "S": ["bloom ", "color ", "freshness ", "glow ", "redness ", "rosiness ", "ruddiness "], "A": ["pale "]}
+{"index": 237119, "D": "a color varying from light crimson to pale reddish purple.", "S": ["bloom", "color", "freshness", "glow", "redness", "rosiness", "ruddiness"], "A": ["pale"]}

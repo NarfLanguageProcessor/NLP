@@ -1,1 +1,1 @@
-{"index": 187133, "D": "amiably gentle or temperate in feeling or behavior toward others.", "S": ["compassion ", "gentleness ", "kindness ", "leniency ", "tenderness "], "A": ["cruelty ", "harshness ", "hatred ", "meanness "]}
+{"index": 187133, "D": "amiably gentle or temperate in feeling or behavior toward others.", "S": ["compassion", "gentleness", "kindness", "leniency", "tenderness"], "A": ["cruelty", "harshness", "hatred", "meanness"]}

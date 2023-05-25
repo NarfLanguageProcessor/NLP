@@ -1,1 +1,1 @@
-{"index": 295532, "D": "a pear-shaped glass, narrowing at the top to intensify the aroma of brandy, liqueur, etc.", "S": ["draft ", "drink ", "drop ", "measure ", "mite ", "nip ", "quantity ", "slug ", "smidgen ", "swig ", "weight "], "A": []}
+{"index": 295532, "D": "a pear-shaped glass, narrowing at the top to intensify the aroma of brandy, liqueur, etc.", "S": ["draft", "drink", "drop", "measure", "mite", "nip", "quantity", "slug", "smidgen", "swig", "weight"], "A": []}

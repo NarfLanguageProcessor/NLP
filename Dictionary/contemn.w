@@ -1,1 +1,1 @@
-{"index": 67300, "D": "to treat or regard with disdain, scorn, or contempt.", "S": ["disdain ", "hate ", "scorn "], "A": ["admire ", "approve ", "like ", "love "]}
+{"index": 67300, "D": "to treat or regard with disdain, scorn, or contempt.", "S": ["disdain", "hate", "scorn"], "A": ["admire", "approve", "like", "love"]}

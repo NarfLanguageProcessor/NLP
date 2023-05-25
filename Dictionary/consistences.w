@@ -1,1 +1,1 @@
-{"index": 66855, "D": "a degree of density, firmness, viscosity, etc.", "S": ["body ", "density ", "feel ", "firmness ", "makeup ", "texture ", "thickness ", "viscosity "], "A": ["thinness "]}
+{"index": 66855, "D": "a degree of density, firmness, viscosity, etc.", "S": ["body", "density", "feel", "firmness", "makeup", "texture", "thickness", "viscosity"], "A": ["thinness"]}

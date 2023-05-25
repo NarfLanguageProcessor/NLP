@@ -1,1 +1,1 @@
-{"index": 159050, "D": "a person who favors or works for isolationism. ", "S": ["isolationist ", "neutralist nation ", "unaligned nation "], "A": []}
+{"index": 159050, "D": "a person who favors or works for isolationism. ", "S": ["isolationist", "neutralist nation", "unaligned nation"], "A": []}

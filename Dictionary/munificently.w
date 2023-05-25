@@ -1,1 +1,1 @@
-{"index": 195596, "D": "extremely liberal in giving; very generous.", "S": ["abundantly ", "amply ", "freely ", "handsomely ", "lavishly ", "liberally "], "A": ["poorly "]}
+{"index": 195596, "D": "extremely liberal in giving; very generous.", "S": ["abundantly", "amply", "freely", "handsomely", "lavishly", "liberally"], "A": ["poorly"]}

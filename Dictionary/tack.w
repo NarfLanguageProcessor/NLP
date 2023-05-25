@@ -1,1 +1,1 @@
-{"index": 315065, "D": "a short, sharp-pointed nail, usually with a flat, broad head.", "S": ["tangent "], "A": ["stagnation "]}
+{"index": 315065, "D": "a short, sharp-pointed nail, usually with a flat, broad head.", "S": ["tangent"], "A": ["stagnation"]}

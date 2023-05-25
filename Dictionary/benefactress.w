@@ -1,1 +1,1 @@
-{"index": 31545, "D": "a woman who confers a benefit, bequest, endowment, or the like.", "S": ["benefactor ", "contributor ", "donor ", "friend ", "giver ", "patron ", "philanthropist ", "sponsor ", "supporter "], "A": ["detractor ", "enemy ", "opponent "]}
+{"index": 31545, "D": "a woman who confers a benefit, bequest, endowment, or the like.", "S": ["benefactor", "contributor", "donor", "friend", "giver", "patron", "philanthropist", "sponsor", "supporter"], "A": ["detractor", "enemy", "opponent"]}

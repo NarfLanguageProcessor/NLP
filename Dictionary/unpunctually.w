@@ -1,1 +1,1 @@
-{"index": 348823, "D": "strictly observant of an appointed or regular time; not late; prompt.", "S": ["erratically ", "fitfully ", "haphazardly ", "infrequently ", "sporadically ", "unevenly "], "A": ["evenly ", "regularly "]}
+{"index": 348823, "D": "strictly observant of an appointed or regular time; not late; prompt.", "S": ["erratically", "fitfully", "haphazardly", "infrequently", "sporadically", "unevenly"], "A": ["evenly", "regularly"]}

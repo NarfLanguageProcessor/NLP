@@ -1,1 +1,1 @@
-{"index": 109982, "D": [], "S": ["drudge ", "grunt ", "hand ", "hireling ", "peon "], "A": []}
+{"index": 109982, "D": [], "S": ["drudge", "grunt", "hand", "hireling", "peon"], "A": []}

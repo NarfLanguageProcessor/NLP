@@ -1,1 +1,0 @@
-{"index": 171331, "D": "a wordbook or dictionary, especially of Greek, Latin, or Hebrew.", "S": [], "A": []}

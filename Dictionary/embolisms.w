@@ -1,1 +1,1 @@
-{"index": 98166, "D": "the occlusion of a blood vessel by an embolus.", "S": ["coagulum ", "crassamentum ", "embolus ", "grume ", "thrombus "], "A": []}
+{"index": 98166, "D": "the occlusion of a blood vessel by an embolus.", "S": ["coagulum", "crassamentum", "embolus", "grume", "thrombus"], "A": []}

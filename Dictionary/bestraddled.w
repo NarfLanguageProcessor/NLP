@@ -1,1 +1,1 @@
-{"index": 32616, "D": "to bestride.", "S": ["mount ", "ride "], "A": []}
+{"index": 32616, "D": "to bestride.", "S": ["mount", "ride"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 163860, "D": "U.S. jurist.", "S": ["appreciate ", "experience ", "have ", "learn ", "notice ", "perceive ", "realize ", "recognize ", "see "], "A": ["ignore ", "miss ", "misunderstand ", "neglect ", "overlook ", "confuse ", "mix up "]}
+{"index": 163860, "D": "U.S. jurist.", "S": ["appreciate", "experience", "have", "learn", "notice", "perceive", "realize", "recognize", "see"], "A": ["ignore", "miss", "misunderstand", "neglect", "overlook", "confuse", "mix up"]}

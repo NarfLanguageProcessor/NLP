@@ -1,1 +1,1 @@
-{"index": 62925, "D": "a person or thing that collects. ", "S": ["representative "], "A": []}
+{"index": 62925, "D": "a person or thing that collects. ", "S": ["representative"], "A": []}

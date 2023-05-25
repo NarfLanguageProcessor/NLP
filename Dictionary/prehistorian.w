@@ -1,1 +1,0 @@
-{"index": 247826, "D": "human history  in the period before recorded events, known mainly through archaeological discoveries, study, research, etc.; history  of prehistoric  humans.", "S": ["paleontologist "], "A": []}

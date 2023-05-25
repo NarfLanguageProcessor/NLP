@@ -1,1 +1,1 @@
-{"index": 76873, "D": "having spots of a different shade, tone, or color from the background; mottled.", "S": ["checkered ", "discolored ", "flecked ", "motley ", "parti-colored ", "speckled ", "spotted ", "stippled ", "variegated "], "A": ["uncolored ", "unspotted "]}
+{"index": 76873, "D": "having spots of a different shade, tone, or color from the background; mottled.", "S": ["checkered", "discolored", "flecked", "motley", "parti-colored", "speckled", "spotted", "stippled", "variegated"], "A": ["uncolored", "unspotted"]}

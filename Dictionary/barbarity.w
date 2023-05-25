@@ -1,1 +1,1 @@
-{"index": 27728, "D": "brutal or inhuman conduct; cruelty.", "S": ["brutality ", "cruelty ", "inhumanity ", "vulgarity "], "A": ["kindness ", "niceness "]}
+{"index": 27728, "D": "brutal or inhuman conduct; cruelty.", "S": ["brutality", "cruelty", "inhumanity", "vulgarity"], "A": ["kindness", "niceness"]}

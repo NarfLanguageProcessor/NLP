@@ -1,1 +1,1 @@
-{"index": 108683, "D": "to wander beyond bounds; roam at will; stray.", "S": ["drift ", "ramble ", "roam ", "snake ", "stray ", "stroll ", "traipse "], "A": ["stay ", "straighten ", "untwist "]}
+{"index": 108683, "D": "to wander beyond bounds; roam at will; stray.", "S": ["drift", "ramble", "roam", "snake", "stray", "stroll", "traipse"], "A": ["stay", "straighten", "untwist"]}

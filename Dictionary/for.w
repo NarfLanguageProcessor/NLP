@@ -1,1 +1,1 @@
-{"index": 116301, "D": "with the object or purpose of", "S": ["as ", "as long as ", "because ", "being ", "considering ", "inasmuch as ", "now ", "since ", "whereas "], "A": []}
+{"index": 116301, "D": "with the object or purpose of", "S": ["as", "as long as", "because", "being", "considering", "inasmuch as", "now", "since", "whereas"], "A": []}

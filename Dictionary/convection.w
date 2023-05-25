@@ -1,1 +1,1 @@
-{"index": 67910, "D": "the transfer of heat by the circulation or movement of the heated parts of a liquid or gas.", "S": ["deportation ", "relocation ", "removal ", "transmission "], "A": ["stagnation "]}
+{"index": 67910, "D": "the transfer of heat by the circulation or movement of the heated parts of a liquid or gas.", "S": ["deportation", "relocation", "removal", "transmission"], "A": ["stagnation"]}

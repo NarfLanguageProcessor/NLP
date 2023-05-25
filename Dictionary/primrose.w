@@ -1,1 +1,1 @@
-{"index": 250591, "D": "Compare primrose family. ", "S": ["lush ", "sensual ", "voluptuous "], "A": ["despicable ", "distasteful "]}
+{"index": 250591, "D": "Compare primrose family. ", "S": ["lush", "sensual", "voluptuous"], "A": ["despicable", "distasteful"]}

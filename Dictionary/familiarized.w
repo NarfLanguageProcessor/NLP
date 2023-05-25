@@ -1,1 +1,1 @@
-{"index": 109608, "D": "to make (onself or another person) well-acquainted or conversant with something.", "S": ["addicted "], "A": ["abnormal ", "unaccustomed ", "unusual "]}
+{"index": 109608, "D": "to make (onself or another person) well-acquainted or conversant with something.", "S": ["addicted"], "A": ["abnormal", "unaccustomed", "unusual"]}

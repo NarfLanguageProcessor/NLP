@@ -1,1 +1,0 @@
-{"index": 243840, "D": "posse comitatus. ", "S": ["detachment "], "A": []}

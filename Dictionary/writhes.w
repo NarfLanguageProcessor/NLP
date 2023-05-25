@@ -1,1 +1,1 @@
-{"index": 368065, "D": "to twist the body about or squirm, as in pain, violent effort, uncontrolled passion, etc.", "S": ["recoil ", "squirm ", "wiggle ", "wince "], "A": ["straighten "]}
+{"index": 368065, "D": "to twist the body about or squirm, as in pain, violent effort, uncontrolled passion, etc.", "S": ["recoil", "squirm", "wiggle", "wince"], "A": ["straighten"]}

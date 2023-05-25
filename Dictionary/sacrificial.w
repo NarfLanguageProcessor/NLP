@@ -1,1 +1,1 @@
-{"index": 276377, "D": "pertaining to or concerned with sacrifice. ", "S": ["conciliatory ", "divine ", "expiatory ", "propitiatory ", "sacrificing "], "A": []}
+{"index": 276377, "D": "pertaining to or concerned with sacrifice. ", "S": ["conciliatory", "divine", "expiatory", "propitiatory", "sacrificing"], "A": []}

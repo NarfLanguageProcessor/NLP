@@ -1,1 +1,1 @@
-{"index": 14471, "D": "a mineral coal containing little of the volatile hydrocarbons and burning almost without flame; hard coal.", "S": ["ash ", "carbon ", "char ", "charcoal ", "cinder ", "culm ", "ember ", "fuel ", "scoria ", "slack ", "smut ", "spark ", "stoke "], "A": []}
+{"index": 14471, "D": "a mineral coal containing little of the volatile hydrocarbons and burning almost without flame; hard coal.", "S": ["ash", "carbon", "char", "charcoal", "cinder", "culm", "ember", "fuel", "scoria", "slack", "smut", "spark", "stoke"], "A": []}

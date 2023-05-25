@@ -1,1 +1,1 @@
-{"index": 169670, "D": "a simple past tense and past participle of learn. ", "S": ["determine ", "enroll ", "gain ", "get ", "grasp ", "master ", "pick up ", "read ", "receive ", "review ", "study "], "A": ["ignore ", "lose ", "miss ", "misunderstand ", "neglect ", "pass ", "release ", "spend "]}
+{"index": 169670, "D": "a simple past tense and past participle of learn. ", "S": ["determine", "enroll", "gain", "get", "grasp", "master", "pick up", "read", "receive", "review", "study"], "A": ["ignore", "lose", "miss", "misunderstand", "neglect", "pass", "release", "spend"]}

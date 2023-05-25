@@ -1,1 +1,1 @@
-{"index": 199378, "D": [], "S": ["ignorant ", "uninformed "], "A": ["accustomed ", "customary ", "normal ", "prepared ", "ready ", "usual "]}
+{"index": 199378, "D": [], "S": ["ignorant", "uninformed"], "A": ["accustomed", "customary", "normal", "prepared", "ready", "usual"]}

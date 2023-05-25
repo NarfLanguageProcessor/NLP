@@ -1,1 +1,1 @@
-{"index": 239697, "D": "(in ancient Rome) the common people, as contrasted with the patricians and later with the senatorial nobility or the equestrian order.", "S": ["proletariat ", "working class "], "A": ["upper class "]}
+{"index": 239697, "D": "(in ancient Rome) the common people, as contrasted with the patricians and later with the senatorial nobility or the equestrian order.", "S": ["proletariat", "working class"], "A": ["upper class"]}

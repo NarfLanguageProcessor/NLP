@@ -1,1 +1,1 @@
-{"index": 289970, "D": "to separate and retain the coarse parts of (flour, ashes, etc.) with a sieve. ", "S": ["analytical ", "nosy "], "A": ["incurious ", "indifferent ", "unconcerned ", "uninterested "]}
+{"index": 289970, "D": "to separate and retain the coarse parts of (flour, ashes, etc.) with a sieve. ", "S": ["analytical", "nosy"], "A": ["incurious", "indifferent", "unconcerned", "uninterested"]}

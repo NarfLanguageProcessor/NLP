@@ -1,1 +1,1 @@
-{"index": 236354, "D": "Compare dove1 (def. 1). ", "S": ["doormat ", "sitting duck "], "A": []}
+{"index": 236354, "D": "Compare dove1 (def. 1). ", "S": ["doormat", "sitting duck"], "A": []}

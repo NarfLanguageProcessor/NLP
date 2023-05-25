@@ -1,1 +1,1 @@
-{"index": 304591, "D": "stiffly dignified or formal, as speech or literary style; pompous.", "S": ["formal ", "labored ", "overblown ", "pompous ", "sonorous "], "A": ["relaxed "]}
+{"index": 304591, "D": "stiffly dignified or formal, as speech or literary style; pompous.", "S": ["formal", "labored", "overblown", "pompous", "sonorous"], "A": ["relaxed"]}

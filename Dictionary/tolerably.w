@@ -1,1 +1,1 @@
-{"index": 325250, "D": "capable of being tolerated;  endurable", "S": ["appropriately ", "competently ", "decently ", "satisfactorily ", "sufficiently "], "A": ["inadequately ", "insufficiently ", "unequally ", "unsatisfactorily ", "unsuitably "]}
+{"index": 325250, "D": "capable of being tolerated;  endurable", "S": ["appropriately", "competently", "decently", "satisfactorily", "sufficiently"], "A": ["inadequately", "insufficiently", "unequally", "unsatisfactorily", "unsuitably"]}

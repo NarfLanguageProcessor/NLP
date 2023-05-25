@@ -1,1 +1,1 @@
-{"index": 255529, "D": "affecting mental activity, behavior, or perception, as a mood-altering drug.", "S": ["hallucinatory ", "kaleidoscopic ", "multicolored "], "A": ["monochrome "]}
+{"index": 255529, "D": "affecting mental activity, behavior, or perception, as a mood-altering drug.", "S": ["hallucinatory", "kaleidoscopic", "multicolored"], "A": ["monochrome"]}

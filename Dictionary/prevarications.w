@@ -1,1 +1,1 @@
-{"index": 250134, "D": "the act of prevaricating,  or lying", "S": ["dishonesty ", "equivocation ", "falsehood "], "A": ["honesty ", "truth "]}
+{"index": 250134, "D": "the act of prevaricating,  or lying", "S": ["dishonesty", "equivocation", "falsehood"], "A": ["honesty", "truth"]}

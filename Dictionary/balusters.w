@@ -1,1 +1,1 @@
-{"index": 27178, "D": "any of a number of closely spaced supports for a railing.", "S": ["balustrade ", "handrail ", "rail ", "support "], "A": []}
+{"index": 27178, "D": "any of a number of closely spaced supports for a railing.", "S": ["balustrade", "handrail", "rail", "support"], "A": []}

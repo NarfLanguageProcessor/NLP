@@ -1,1 +1,1 @@
-{"index": 245015, "D": "unable to produce an effect", "S": ["frailty ", "impotence ", "inadequacy "], "A": ["strong point ", "success "]}
+{"index": 245015, "D": "unable to produce an effect", "S": ["frailty", "impotence", "inadequacy"], "A": ["strong point", "success"]}

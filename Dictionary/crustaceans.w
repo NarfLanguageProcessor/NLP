@@ -1,1 +1,1 @@
-{"index": 74288, "D": "any chiefly aquatic arthropod of the class Crustacea, typically having the body covered with a hard shell or crust, including the lobsters, shrimps, crabs, barnacles, and wood lice.", "S": ["shellfish "], "A": []}
+{"index": 74288, "D": "any chiefly aquatic arthropod of the class Crustacea, typically having the body covered with a hard shell or crust, including the lobsters, shrimps, crabs, barnacles, and wood lice.", "S": ["shellfish"], "A": []}

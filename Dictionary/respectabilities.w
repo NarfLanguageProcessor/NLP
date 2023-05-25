@@ -1,1 +1,1 @@
-{"index": 269694, "D": "the state or quality of being respectable. ", "S": ["decency ", "honesty ", "propriety "], "A": ["immorality ", "impropriety "]}
+{"index": 269694, "D": "the state or quality of being respectable. ", "S": ["decency", "honesty", "propriety"], "A": ["immorality", "impropriety"]}

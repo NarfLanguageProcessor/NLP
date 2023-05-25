@@ -1,1 +1,1 @@
-{"index": 214066, "D": "the curved path, usually elliptical, taken by a planet, satellite, spaceship, etc., around a celestial body, as the sun.", "S": ["revolving "], "A": []}
+{"index": 214066, "D": "the curved path, usually elliptical, taken by a planet, satellite, spaceship, etc., around a celestial body, as the sun.", "S": ["revolving"], "A": []}

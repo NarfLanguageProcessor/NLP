@@ -1,1 +1,1 @@
-{"index": 64797, "D": "a person who sets the type or text for printing.", "S": ["publisher ", "typographer "], "A": []}
+{"index": 64797, "D": "a person who sets the type or text for printing.", "S": ["publisher", "typographer"], "A": []}

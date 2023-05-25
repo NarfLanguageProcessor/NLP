@@ -1,0 +1,1 @@
+{"index": 20005, "D": "a person who makes or mends arms and armour", "S": [], "A": []}

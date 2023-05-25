@@ -1,1 +1,1 @@
-{"index": 25630, "D": "a female bacchant. ", "S": ["merrymaker ", "ranter ", "roisterer "], "A": []}
+{"index": 25630, "D": "a female bacchant. ", "S": ["merrymaker", "ranter", "roisterer"], "A": []}

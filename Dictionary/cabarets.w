@@ -1,1 +1,1 @@
-{"index": 43874, "D": "a restaurant providing food, drink, music, a dance floor, and often a floor show.", "S": ["disco "], "A": []}
+{"index": 43874, "D": "a restaurant providing food, drink, music, a dance floor, and often a floor show.", "S": ["disco"], "A": []}

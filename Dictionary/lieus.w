@@ -1,1 +1,1 @@
-{"index": 171876, "D": "place; stead.", "S": ["stead ", "substitute "], "A": []}
+{"index": 171876, "D": "place; stead.", "S": ["stead", "substitute"], "A": []}

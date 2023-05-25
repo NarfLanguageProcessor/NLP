@@ -1,1 +1,1 @@
-{"index": 156108, "D": "to twine  together.", "S": ["convolute ", "entwine ", "interlace ", "interweave ", "mesh ", "tangle ", "weave "], "A": ["untangle ", "untwist ", "disconnect ", "dissociate ", "divide ", "part ", "separate "]}
+{"index": 156108, "D": "to twine  together.", "S": ["convolute", "entwine", "interlace", "interweave", "mesh", "tangle", "weave"], "A": ["untangle", "untwist", "disconnect", "dissociate", "divide", "part", "separate"]}

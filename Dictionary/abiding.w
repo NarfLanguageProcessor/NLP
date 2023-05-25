@@ -1,1 +1,1 @@
-{"index": 415, "D": "continuing without change; enduring; steadfast", "S": ["continuing ", "enduring ", "eternal ", "everlasting ", "lasting ", "persistent ", "steadfast "], "A": ["ceasing ", "ending ", "ephemeral ", "temporary ", "transient ", "unfixed "]}
+{"index": 415, "D": "continuing without change; enduring; steadfast", "S": ["continuing", "enduring", "eternal", "everlasting", "lasting", "persistent", "steadfast"], "A": ["ceasing", "ending", "ephemeral", "temporary", "transient", "unfixed"]}

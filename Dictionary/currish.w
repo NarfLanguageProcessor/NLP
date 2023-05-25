@@ -1,1 +1,1 @@
-{"index": 75439, "D": "of or relating to a cur.", "S": ["abhorrent ", "abominable ", "disgusting ", "hateful ", "odious ", "vile ", "worthless "], "A": ["delightful ", "kind ", "likeable ", "lovable ", "nice ", "pleasant ", "pleasing "]}
+{"index": 75439, "D": "of or relating to a cur.", "S": ["abhorrent", "abominable", "disgusting", "hateful", "odious", "vile", "worthless"], "A": ["delightful", "kind", "likeable", "lovable", "nice", "pleasant", "pleasing"]}

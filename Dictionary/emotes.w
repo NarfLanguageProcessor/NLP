@@ -1,1 +1,1 @@
-{"index": 98640, "D": "to show or pretend emotion", "S": ["act ", "dramatize ", "exaggerate ", "overact ", "overdramatize ", "overplay "], "A": ["play down "]}
+{"index": 98640, "D": "to show or pretend emotion", "S": ["act", "dramatize", "exaggerate", "overact", "overdramatize", "overplay"], "A": ["play down"]}

@@ -1,1 +1,1 @@
-{"index": 21109, "D": "to make incapable of reproduction, as by castrating.", "S": ["mutilate ", "neuter ", "spay ", "sterilize "], "A": ["aid ", "assist ", "continue ", "help ", "keep ", "remain "]}
+{"index": 21109, "D": "to make incapable of reproduction, as by castrating.", "S": ["mutilate", "neuter", "spay", "sterilize"], "A": ["aid", "assist", "continue", "help", "keep", "remain"]}

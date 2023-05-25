@@ -1,1 +1,1 @@
-{"index": 311529, "D": "haughtily disdainful or contemptuous, as a person or a facial expression.", "S": ["haughtily ", "insolently ", "loftily ", "with one's nose in the air "], "A": []}
+{"index": 311529, "D": "haughtily disdainful or contemptuous, as a person or a facial expression.", "S": ["haughtily", "insolently", "loftily", "with one's nose in the air"], "A": []}

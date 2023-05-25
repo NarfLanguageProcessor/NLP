@@ -1,1 +1,1 @@
-{"index": 93008, "D": "a deity or nymph of the woods.", "S": ["fairy ", "goddess ", "mermaid ", "naiad ", "nymphet ", "spirit ", "sprite ", "sylph "], "A": []}
+{"index": 93008, "D": "a deity or nymph of the woods.", "S": ["fairy", "goddess", "mermaid", "naiad", "nymphet", "spirit", "sprite", "sylph"], "A": []}

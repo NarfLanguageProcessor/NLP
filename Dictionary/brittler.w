@@ -1,1 +1,1 @@
-{"index": 41018, "D": "having hardness and rigidity but little tensile strength; breaking readily with a comparatively smooth fracture, as glass.", "S": ["breakable ", "crisp ", "frail "], "A": ["unbreakable "]}
+{"index": 41018, "D": "having hardness and rigidity but little tensile strength; breaking readily with a comparatively smooth fracture, as glass.", "S": ["breakable", "crisp", "frail"], "A": ["unbreakable"]}

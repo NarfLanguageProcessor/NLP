@@ -1,1 +1,1 @@
-{"index": 247536, "D": "the act of preferring. ", "S": ["choice ", "desire ", "inclination ", "option ", "predilection ", "weakness "], "A": ["dislike ", "hate ", "rejection "]}
+{"index": 247536, "D": "the act of preferring. ", "S": ["choice", "desire", "inclination", "option", "predilection", "weakness"], "A": ["dislike", "hate", "rejection"]}

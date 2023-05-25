@@ -1,1 +1,1 @@
-{"index": 176360, "D": "a lurking suspicion", "S": ["hidden "], "A": []}
+{"index": 176360, "D": "a lurking suspicion", "S": ["hidden"], "A": []}

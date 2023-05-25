@@ -1,1 +1,1 @@
-{"index": 274205, "D": "a person who makes or repairs roofs. ", "S": ["aerial ", "aloft ", "atop ", "skyward ", "upward "], "A": []}
+{"index": 274205, "D": "a person who makes or repairs roofs. ", "S": ["aerial", "aloft", "atop", "skyward", "upward"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 252716, "D": "presenting favorable conditions; favorable", "S": ["advantageous ", "auspicious ", "opportune "], "A": ["inauspicious ", "inopportune ", "unlucky "]}
+{"index": 252716, "D": "presenting favorable conditions; favorable", "S": ["advantageous", "auspicious", "opportune"], "A": ["inauspicious", "inopportune", "unlucky"]}

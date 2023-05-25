@@ -1,1 +1,1 @@
-{"index": 151600, "D": "inertness, especially with regard to effort, motion, action, and the like; inactivity; sluggishness.", "S": ["apathy ", "laziness ", "paralysis ", "passivity ", "sluggishness "], "A": ["action ", "busyness ", "liveliness "]}
+{"index": 151600, "D": "inertness, especially with regard to effort, motion, action, and the like; inactivity; sluggishness.", "S": ["apathy", "laziness", "paralysis", "passivity", "sluggishness"], "A": ["action", "busyness", "liveliness"]}

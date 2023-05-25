@@ -1,1 +1,1 @@
-{"index": 4714, "D": "one who gives advice. ", "S": ["advisory board ", "authorities ", "cabinet ", "council ", "experts ", "high-level advisers ", "inner circle "], "A": []}
+{"index": 4714, "D": "one who gives advice. ", "S": ["advisory board", "authorities", "cabinet", "council", "experts", "high-level advisers", "inner circle"], "A": []}

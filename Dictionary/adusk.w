@@ -1,1 +1,1 @@
-{"index": 4553, "D": [], "S": ["funereal "], "A": ["bright ", "clear ", "light "]}
+{"index": 4553, "D": [], "S": ["funereal"], "A": ["bright", "clear", "light"]}

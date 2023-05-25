@@ -1,1 +1,1 @@
-{"index": 59179, "D": "a device, usually of some rigid material, for strengthening or supporting objects or fastening them together.", "S": ["bracket ", "catch ", "clasp ", "grip ", "hold ", "lock ", "nipper ", "press ", "snap ", "vice "], "A": ["release "]}
+{"index": 59179, "D": "a device, usually of some rigid material, for strengthening or supporting objects or fastening them together.", "S": ["bracket", "catch", "clasp", "grip", "hold", "lock", "nipper", "press", "snap", "vice"], "A": ["release"]}

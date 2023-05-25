@@ -1,1 +1,1 @@
-{"index": 285443, "D": "a person given to the indulgence of the senses or appetites.", "S": ["epicure ", "sybarite ", "voluptuary "], "A": ["puritan "]}
+{"index": 285443, "D": "a person given to the indulgence of the senses or appetites.", "S": ["epicure", "sybarite", "voluptuary"], "A": ["puritan"]}

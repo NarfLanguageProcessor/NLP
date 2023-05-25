@@ -1,1 +1,1 @@
-{"index": 1749, "D": "a clothing accessory or an accessory piece of equipment", "S": ["armaments ", "artillery ", "equipment ", "firearms ", "guns ", "munitions ", "ordnance ", "panoply ", "weapons "], "A": []}
+{"index": 1749, "D": "a clothing accessory or an accessory piece of equipment", "S": ["armaments", "artillery", "equipment", "firearms", "guns", "munitions", "ordnance", "panoply", "weapons"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 41928, "D": "a nearly spherical body of gas contained in a liquid.", "S": ["boil ", "burble ", "churn ", "erupt ", "fester ", "gurgle ", "gush ", "percolate ", "seep ", "seethe ", "simmer ", "smolder ", "sparkle ", "stir ", "trickle "], "A": ["be happy ", "freeze "]}
+{"index": 41928, "D": "a nearly spherical body of gas contained in a liquid.", "S": ["boil", "burble", "churn", "erupt", "fester", "gurgle", "gush", "percolate", "seep", "seethe", "simmer", "smolder", "sparkle", "stir", "trickle"], "A": ["be happy", "freeze"]}

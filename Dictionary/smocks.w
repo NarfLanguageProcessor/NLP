@@ -1,1 +1,1 @@
-{"index": 294978, "D": "a loose, lightweight overgarment worn to protect the clothing while working.", "S": ["cover ", "pinafore ", "shield "], "A": []}
+{"index": 294978, "D": "a loose, lightweight overgarment worn to protect the clothing while working.", "S": ["cover", "pinafore", "shield"], "A": []}

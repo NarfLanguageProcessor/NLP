@@ -1,1 +1,1 @@
-{"index": 41610, "D": "excited public interest, discussion, or the like, as the clamor attending some sensational event; hullabaloo", "S": ["fracas ", "melee "], "A": ["peace "]}
+{"index": 41610, "D": "excited public interest, discussion, or the like, as the clamor attending some sensational event; hullabaloo", "S": ["fracas", "melee"], "A": ["peace"]}

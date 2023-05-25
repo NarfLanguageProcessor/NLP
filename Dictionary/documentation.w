@@ -1,1 +1,1 @@
-{"index": 90704, "D": "the use of documentary evidence.", "S": ["authentication ", "corroboration ", "declaration ", "evidence ", "proof ", "substantiation ", "testament ", "testimonial ", "testimony ", "validation ", "verification "], "A": []}
+{"index": 90704, "D": "the use of documentary evidence.", "S": ["authentication", "corroboration", "declaration", "evidence", "proof", "substantiation", "testament", "testimonial", "testimony", "validation", "verification"], "A": []}

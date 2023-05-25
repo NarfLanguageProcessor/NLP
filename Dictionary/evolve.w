@@ -1,1 +1,1 @@
-{"index": 106327, "D": "to develop gradually", "S": ["derive ", "emerge ", "expand ", "get ", "grow ", "mature ", "unfold "], "A": ["leave ", "lessen ", "stop ", "decrease ", "diminish ", "hide ", "lose "]}
+{"index": 106327, "D": "to develop gradually", "S": ["derive", "emerge", "expand", "get", "grow", "mature", "unfold"], "A": ["leave", "lessen", "stop", "decrease", "diminish", "hide", "lose"]}

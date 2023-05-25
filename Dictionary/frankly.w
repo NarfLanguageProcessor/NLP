@@ -1,1 +1,1 @@
-{"index": 118395, "D": "in a frank  manner; freely; candidly;  openly; plainly", "S": ["candidly "], "A": ["dishonestly "]}
+{"index": 118395, "D": "in a frank  manner; freely; candidly;  openly; plainly", "S": ["candidly"], "A": ["dishonestly"]}

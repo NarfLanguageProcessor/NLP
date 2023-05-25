@@ -1,1 +1,1 @@
-{"index": 151626, "D": "incapable of being estimated or assessed.", "S": ["invaluable ", "precious ", "valuable "], "A": []}
+{"index": 151626, "D": "incapable of being estimated or assessed.", "S": ["invaluable", "precious", "valuable"], "A": []}

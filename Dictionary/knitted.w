@@ -1,1 +1,1 @@
-{"index": 165590, "D": "made by knitting,  as a cloth article", "S": ["crocheted ", "meshed ", "purled ", "sewn ", "spun ", "webbed ", "woven "], "A": []}
+{"index": 165590, "D": "made by knitting,  as a cloth article", "S": ["crocheted", "meshed", "purled", "sewn", "spun", "webbed", "woven"], "A": []}

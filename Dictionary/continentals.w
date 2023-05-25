@@ -1,1 +1,1 @@
-{"index": 67451, "D": "of or of the nature of a continent. ", "S": ["Catalan ", "Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Portuguese ", "Provencal ", "Spanish ", "insular "], "A": []}
+{"index": 67451, "D": "of or of the nature of a continent. ", "S": ["Catalan", "Continental", "French", "Indo-European language", "Italian", "Italic language", "Latin", "Portuguese", "Provencal", "Spanish", "insular"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 67729, "D": "tending to contrast; contrasting. contrastive colors.", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}
+{"index": 67729, "D": "tending to contrast; contrasting. contrastive colors.", "S": ["individually", "negatively", "separately", "variously"], "A": ["together"]}

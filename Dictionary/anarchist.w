@@ -1,1 +1,1 @@
-{"index": 11963, "D": "a person who advocates or believes in anarchy  or anarchism. ", "S": ["agitator ", "revolutionary ", "terrorist "], "A": []}
+{"index": 11963, "D": "a person who advocates or believes in anarchy  or anarchism. ", "S": ["agitator", "revolutionary", "terrorist"], "A": []}

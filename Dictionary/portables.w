@@ -1,1 +1,1 @@
-{"index": 243574, "D": "capable of being transported or conveyed", "S": ["MP3 player ", "boom box ", "box ", "ghetto blaster ", "portable ", "transistor "], "A": []}
+{"index": 243574, "D": "capable of being transported or conveyed", "S": ["MP3 player", "boom box", "box", "ghetto blaster", "portable", "transistor"], "A": []}

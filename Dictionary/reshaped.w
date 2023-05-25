@@ -1,1 +1,1 @@
-{"index": 269281, "D": "to shape  again or into different form.", "S": ["cooked ", "corrected ", "modified ", "transformed ", "updated "], "A": ["unqualified "]}
+{"index": 269281, "D": "to shape  again or into different form.", "S": ["cooked", "corrected", "modified", "transformed", "updated"], "A": ["unqualified"]}

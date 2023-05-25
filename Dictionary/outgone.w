@@ -1,1 +1,1 @@
-{"index": 216743, "D": "the act or process of going  out", "S": ["exceed ", "excel ", "outdistance ", "outdo ", "outgo ", "outshine ", "outstrip ", "surmount ", "top ", "transcend "], "A": ["fail ", "fall behind ", "lose "]}
+{"index": 216743, "D": "the act or process of going  out", "S": ["exceed", "excel", "outdistance", "outdo", "outgo", "outshine", "outstrip", "surmount", "top", "transcend"], "A": ["fail", "fall behind", "lose"]}

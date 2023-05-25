@@ -1,1 +1,1 @@
-{"index": 195964, "D": "resembling mush;  pulpy.", "S": ["muddy ", "spongy ", "squishy "], "A": ["hard ", "stiff ", "unfeeling ", "unromantic "]}
+{"index": 195964, "D": "resembling mush;  pulpy.", "S": ["muddy", "spongy", "squishy"], "A": ["hard", "stiff", "unfeeling", "unromantic"]}

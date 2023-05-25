@@ -1,1 +1,1 @@
-{"index": 44979, "D": "a large, basinlike depression resulting from the explosion or collapse of the center of a volcano.", "S": ["hole ", "mouth ", "pit "], "A": ["solid "]}
+{"index": 44979, "D": "a large, basinlike depression resulting from the explosion or collapse of the center of a volcano.", "S": ["hole", "mouth", "pit"], "A": ["solid"]}

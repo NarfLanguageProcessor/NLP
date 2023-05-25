@@ -1,1 +1,1 @@
-{"index": 81786, "D": "a railroad station.", "S": ["armory ", "garage ", "store ", "storehouse ", "terminal ", "yard "], "A": []}
+{"index": 81786, "D": "a railroad station.", "S": ["armory", "garage", "store", "storehouse", "terminal", "yard"], "A": []}

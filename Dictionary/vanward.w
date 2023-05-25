@@ -1,1 +1,1 @@
-{"index": 357038, "D": "toward or in the van  or front.", "S": ["frontal "], "A": ["inferior ", "last "]}
+{"index": 357038, "D": "toward or in the van  or front.", "S": ["frontal"], "A": ["inferior", "last"]}

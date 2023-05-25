@@ -1,1 +1,1 @@
-{"index": 230106, "D": "a brand of thiopental sodium. ", "S": ["scopolamine ", "sodium pentothal ", "thiopental sodium "], "A": []}
+{"index": 230106, "D": "a brand of thiopental sodium. ", "S": ["scopolamine", "sodium pentothal", "thiopental sodium"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 60032, "D": "apt to cling;  adhesive or tenacious", "S": ["gummy ", "sticky "], "A": ["loose ", "open ", "separated "]}
+{"index": 60032, "D": "apt to cling;  adhesive or tenacious", "S": ["gummy", "sticky"], "A": ["loose", "open", "separated"]}

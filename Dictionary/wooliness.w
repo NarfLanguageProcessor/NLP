@@ -1,1 +1,1 @@
-{"index": 367320, "D": "woolly. ", "S": ["acrimony ", "asperity ", "bumpiness ", "crudity ", "gruffness ", "irregularity ", "unevenness "], "A": ["kindness "]}
+{"index": 367320, "D": "woolly. ", "S": ["acrimony", "asperity", "bumpiness", "crudity", "gruffness", "irregularity", "unevenness"], "A": ["kindness"]}

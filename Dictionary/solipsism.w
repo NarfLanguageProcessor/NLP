@@ -1,1 +1,1 @@
-{"index": 296799, "D": "the theory that only the self exists, or can be proved to exist.", "S": ["egoism ", "subjectivity "], "A": ["objectivity ", "universality ", "empathy ", "self-sacrifice ", "selflessness "]}
+{"index": 296799, "D": "the theory that only the self exists, or can be proved to exist.", "S": ["egoism", "subjectivity"], "A": ["objectivity", "universality", "empathy", "self-sacrifice", "selflessness"]}

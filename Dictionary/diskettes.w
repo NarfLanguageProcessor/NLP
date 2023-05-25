@@ -1,1 +1,1 @@
-{"index": 88539, "D": "floppy disk. ", "S": ["disk ", "floppy "], "A": []}
+{"index": 88539, "D": "floppy disk. ", "S": ["disk", "floppy"], "A": []}

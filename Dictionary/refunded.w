@@ -1,1 +1,1 @@
-{"index": 265444, "D": "to give back or restore (especially money); repay.", "S": ["acquitted ", "discharged ", "paid ", "reimbursed ", "repaid "], "A": []}
+{"index": 265444, "D": "to give back or restore (especially money); repay.", "S": ["acquitted", "discharged", "paid", "reimbursed", "repaid"], "A": []}

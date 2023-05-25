@@ -1,1 +1,1 @@
-{"index": 42523, "D": "a large, powerful tractor having a vertical blade at the front end for moving earth, tree stumps, rocks, etc.", "S": ["harasser ", "ruffian ", "tormentor ", "tyrant "], "A": []}
+{"index": 42523, "D": "a large, powerful tractor having a vertical blade at the front end for moving earth, tree stumps, rocks, etc.", "S": ["harasser", "ruffian", "tormentor", "tyrant"], "A": []}

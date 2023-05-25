@@ -1,1 +1,1 @@
-{"index": 145300, "D": "unhurt; uninjured.", "S": ["gentle ", "innocent ", "innocuous ", "inoffensive ", "naive ", "nontoxic ", "painless ", "powerless ", "simple "], "A": ["bad ", "damaging ", "experienced ", "harmful ", "strong "]}
+{"index": 145300, "D": "unhurt; uninjured.", "S": ["gentle", "innocent", "innocuous", "inoffensive", "naive", "nontoxic", "painless", "powerless", "simple"], "A": ["bad", "damaging", "experienced", "harmful", "strong"]}

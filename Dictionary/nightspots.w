@@ -1,1 +1,1 @@
-{"index": 199974, "D": "a nightclub.", "S": ["dance hall ", "nightclub "], "A": []}
+{"index": 199974, "D": "a nightclub.", "S": ["dance hall", "nightclub"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 280108, "D": "someone who devises plans or plots, especially underhanded ones", "S": ["rascal ", "rogue "], "A": []}
+{"index": 280108, "D": "someone who devises plans or plots, especially underhanded ones", "S": ["rascal", "rogue"], "A": []}

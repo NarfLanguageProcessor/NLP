@@ -1,1 +1,1 @@
-{"index": 50054, "D": "an informal talk or chat.", "S": ["chat ", "chin ", "colloquy ", "confabulation ", "conference ", "deliberation ", "dialogue ", "discourse ", "discussion ", "prose ", "talk ", "ventilation ", "yarn "], "A": ["quiet ", "silence "]}
+{"index": 50054, "D": "an informal talk or chat.", "S": ["chat", "chin", "colloquy", "confabulation", "conference", "deliberation", "dialogue", "discourse", "discussion", "prose", "talk", "ventilation", "yarn"], "A": ["quiet", "silence"]}

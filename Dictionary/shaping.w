@@ -1,1 +1,1 @@
-{"index": 287464, "D": [], "S": ["developmental "], "A": ["destructive "]}
+{"index": 287464, "D": [], "S": ["developmental"], "A": ["destructive"]}

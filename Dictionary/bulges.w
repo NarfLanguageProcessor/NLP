@@ -1,1 +1,1 @@
-{"index": 42448, "D": "a rounded projection, bend, or protruding part; protuberance; hump", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}
+{"index": 42448, "D": "a rounded projection, bend, or protruding part; protuberance; hump", "S": ["lump", "nodule", "wart"], "A": ["depression"]}

@@ -1,1 +1,1 @@
-{"index": 367752, "D": "suffering injury or bodily harm, as a laceration or bullet wound", "S": ["bruised ", "damaged ", "disabled ", "harmed ", "impaired "], "A": ["healthy ", "perfect "]}
+{"index": 367752, "D": "suffering injury or bodily harm, as a laceration or bullet wound", "S": ["bruised", "damaged", "disabled", "harmed", "impaired"], "A": ["healthy", "perfect"]}

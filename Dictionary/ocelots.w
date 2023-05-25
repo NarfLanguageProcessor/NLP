@@ -1,1 +1,1 @@
-{"index": 210820, "D": "a spotted leopardlike cat, Felis pardalis, ranging from Texas through South America", "S": ["kitten ", "kitty ", "tabby "], "A": []}
+{"index": 210820, "D": "a spotted leopardlike cat, Felis pardalis, ranging from Texas through South America", "S": ["kitten", "kitty", "tabby"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 316329, "D": "to become smaller or thinner toward one end.", "S": ["conic ", "pointed ", "sharp ", "tapered "], "A": ["blunt ", "dull ", "mild ", "nice "]}

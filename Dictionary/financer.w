@@ -1,1 +1,1 @@
-{"index": 112860, "D": [], "S": ["advocate ", "backer ", "benefactor ", "fan ", "friend ", "leader ", "philanthropist ", "sponsor ", "supporter ", "well-wisher "], "A": ["antagonist ", "enemy ", "opponent ", "opposer ", "rear "]}
+{"index": 112860, "D": [], "S": ["advocate", "backer", "benefactor", "fan", "friend", "leader", "philanthropist", "sponsor", "supporter", "well-wisher"], "A": ["antagonist", "enemy", "opponent", "opposer", "rear"]}

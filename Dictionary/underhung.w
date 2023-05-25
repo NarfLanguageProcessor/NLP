@@ -1,1 +1,0 @@
-{"index": 339342, "D": "having the lower jaw so projecting.", "S": [], "A": []}

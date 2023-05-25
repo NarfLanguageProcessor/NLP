@@ -1,0 +1,1 @@
+{"index": 10018, "D": "a sphere of operation or influence; range; scope", "S": ["boundary", "bounds", "compass", "extension", "range", "scope", "space", "sphere"], "A": []}

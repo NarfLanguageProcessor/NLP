@@ -1,1 +1,1 @@
-{"index": 231214, "D": "relating to, situated in, or constituting the periphery", "S": ["factor ", "ingredient ", "item ", "peripheral ", "piece ", "segment ", "unit "], "A": ["whole "]}
+{"index": 231214, "D": "relating to, situated in, or constituting the periphery", "S": ["factor", "ingredient", "item", "peripheral", "piece", "segment", "unit"], "A": ["whole"]}

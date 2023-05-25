@@ -1,1 +1,1 @@
-{"index": 148563, "D": "not subject to decay; indestructible; enduring.", "S": ["enduring ", "eternal ", "forever ", "immortal ", "permanent ", "perpetual "], "A": ["perishable "]}
+{"index": 148563, "D": "not subject to decay; indestructible; enduring.", "S": ["enduring", "eternal", "forever", "immortal", "permanent", "perpetual"], "A": ["perishable"]}

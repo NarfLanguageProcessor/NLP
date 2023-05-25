@@ -1,1 +1,1 @@
-{"index": 212662, "D": "(formerly) a one-pound note", "S": ["already ", "before ", "earlier ", "formerly ", "previously "], "A": []}
+{"index": 212662, "D": "(formerly) a one-pound note", "S": ["already", "before", "earlier", "formerly", "previously"], "A": []}

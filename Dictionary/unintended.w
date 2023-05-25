@@ -1,1 +1,1 @@
-{"index": 344702, "D": "not intended; unplanned", "S": ["accidental ", "inadvertent ", "unexpected ", "unforeseen ", "unplanned "], "A": ["expected ", "intentional ", "planned "]}
+{"index": 344702, "D": "not intended; unplanned", "S": ["accidental", "inadvertent", "unexpected", "unforeseen", "unplanned"], "A": ["expected", "intentional", "planned"]}

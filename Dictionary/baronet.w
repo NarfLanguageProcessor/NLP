@@ -1,1 +1,1 @@
-{"index": 28191, "D": "a member of a British hereditary order of honor, ranking below the barons  and made up of commoners, designated by Sir before the name and Baronet, usually abbreviated Bart., after", "S": ["aristocrat ", "blue blood ", "emperor ", "patrician "], "A": ["commoner "]}
+{"index": 28191, "D": "a member of a British hereditary order of honor, ranking below the barons  and made up of commoners, designated by Sir before the name and Baronet, usually abbreviated Bart., after", "S": ["aristocrat", "blue blood", "emperor", "patrician"], "A": ["commoner"]}

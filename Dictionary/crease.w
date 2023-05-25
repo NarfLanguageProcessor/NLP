@@ -1,1 +1,1 @@
-{"index": 72404, "D": "a ridge or groove produced in anything by folding, heat, pressure, etc.; fold; furrow.", "S": ["bend ", "bulge ", "cockle ", "corrugation ", "furrow ", "groove ", "line ", "overlap ", "pleat ", "plica ", "pucker ", "ridge ", "ruck ", "tuck "], "A": []}
+{"index": 72404, "D": "a ridge or groove produced in anything by folding, heat, pressure, etc.; fold; furrow.", "S": ["bend", "bulge", "cockle", "corrugation", "furrow", "groove", "line", "overlap", "pleat", "plica", "pucker", "ridge", "ruck", "tuck"], "A": []}

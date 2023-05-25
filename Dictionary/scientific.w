@@ -1,1 +1,1 @@
-{"index": 280639, "D": "of or relating to science or the sciences", "S": ["experimental ", "mathematical ", "objective "], "A": ["artistic "]}
+{"index": 280639, "D": "of or relating to science or the sciences", "S": ["experimental", "mathematical", "objective"], "A": ["artistic"]}

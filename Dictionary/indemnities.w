@@ -1,1 +1,1 @@
-{"index": 150768, "D": "protection or security against damage or loss.", "S": ["compensation ", "repayment ", "restitution "], "A": ["penalty "]}
+{"index": 150768, "D": "protection or security against damage or loss.", "S": ["compensation", "repayment", "restitution"], "A": ["penalty"]}

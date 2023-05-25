@@ -1,1 +1,1 @@
-{"index": 229709, "D": "a long, tapering flag or burgee of distinctive form and special significance, borne on naval or other vessels and used in signaling or for identification.", "S": ["streamer "], "A": []}
+{"index": 229709, "D": "a long, tapering flag or burgee of distinctive form and special significance, borne on naval or other vessels and used in signaling or for identification.", "S": ["streamer"], "A": []}

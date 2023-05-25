@@ -1,1 +1,1 @@
-{"index": 63659, "D": "combinative. ", "S": ["combinable ", "combinative ", "combinatorial ", "conjunctional ", "connectional ", "connective "], "A": []}
+{"index": 63659, "D": "combinative. ", "S": ["combinable", "combinative", "combinatorial", "conjunctional", "connectional", "connective"], "A": []}

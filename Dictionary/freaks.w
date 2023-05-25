@@ -1,1 +1,1 @@
-{"index": 118542, "D": "any abnormal phenomenon or product or unusual object; anomaly; aberration. ", "S": ["aberration ", "anomaly ", "geek ", "monster ", "mutant ", "weirdo "], "A": []}
+{"index": 118542, "D": "any abnormal phenomenon or product or unusual object; anomaly; aberration. ", "S": ["aberration", "anomaly", "geek", "monster", "mutant", "weirdo"], "A": []}

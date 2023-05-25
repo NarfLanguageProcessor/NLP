@@ -1,1 +1,1 @@
-{"index": 52516, "D": "the bed of a stream, river, or other waterway.", "S": ["augur ", "diviner ", "medium ", "oracle ", "prophet ", "seer ", "sibyl ", "soothsayer ", "telepathist ", "visionary "], "A": []}
+{"index": 52516, "D": "the bed of a stream, river, or other waterway.", "S": ["augur", "diviner", "medium", "oracle", "prophet", "seer", "sibyl", "soothsayer", "telepathist", "visionary"], "A": []}

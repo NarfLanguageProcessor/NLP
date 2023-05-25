@@ -1,1 +1,1 @@
-{"index": 76257, "D": "the interval of light between two successive nights; the time between sunrise and sunset", "S": ["daylight ", "daytime ", "light ", "sunlight ", "sunshine "], "A": ["darkness ", "night "]}
+{"index": 76257, "D": "the interval of light between two successive nights; the time between sunrise and sunset", "S": ["daylight", "daytime", "light", "sunlight", "sunshine"], "A": ["darkness", "night"]}

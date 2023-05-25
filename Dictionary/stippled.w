@@ -1,1 +1,1 @@
-{"index": 304758, "D": "to paint, engrave, or draw by means of dots or small touches.", "S": ["checkered ", "discolored ", "flecked ", "motley ", "parti-colored ", "speckled ", "spotted ", "variegated "], "A": ["uncolored ", "unspotted "]}
+{"index": 304758, "D": "to paint, engrave, or draw by means of dots or small touches.", "S": ["checkered", "discolored", "flecked", "motley", "parti-colored", "speckled", "spotted", "variegated"], "A": ["uncolored", "unspotted"]}

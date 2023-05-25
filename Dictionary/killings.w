@@ -1,1 +1,1 @@
-{"index": 164609, "D": "the act of a person or thing that kills. ", "S": ["assassination ", "bloodshed ", "carnage ", "homicide ", "manslaughter ", "massacre ", "slaughter ", "slaying "], "A": ["birth "]}
+{"index": 164609, "D": "the act of a person or thing that kills. ", "S": ["assassination", "bloodshed", "carnage", "homicide", "manslaughter", "massacre", "slaughter", "slaying"], "A": ["birth"]}

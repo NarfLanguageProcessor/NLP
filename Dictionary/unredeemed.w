@@ -1,1 +1,1 @@
-{"index": 349263, "D": "(in Christianity) having been saved or delivered from sin or its consequences", "S": ["ill-fated ", "wrecked "], "A": ["blessed ", "intact ", "nice ", "protected ", "restored ", "saved ", "successful "]}
+{"index": 349263, "D": "(in Christianity) having been saved or delivered from sin or its consequences", "S": ["ill-fated", "wrecked"], "A": ["blessed", "intact", "nice", "protected", "restored", "saved", "successful"]}

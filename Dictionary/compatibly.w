@@ -1,1 +1,1 @@
-{"index": 64467, "D": "capable of existing or living together in harmony", "S": ["affectionately ", "appreciatively ", "kindly ", "warmly "], "A": []}
+{"index": 64467, "D": "capable of existing or living together in harmony", "S": ["affectionately", "appreciatively", "kindly", "warmly"], "A": []}

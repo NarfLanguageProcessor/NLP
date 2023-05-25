@@ -1,1 +1,1 @@
-{"index": 328948, "D": "emerging as a popular trend", "S": ["bear ", "contribute ", "favor ", "go ", "gravitate ", "influence ", "lean ", "turn "], "A": ["dislike ", "hurt ", "shun ", "take ", "dissuade ", "follow ", "obey "]}
+{"index": 328948, "D": "emerging as a popular trend", "S": ["bear", "contribute", "favor", "go", "gravitate", "influence", "lean", "turn"], "A": ["dislike", "hurt", "shun", "take", "dissuade", "follow", "obey"]}

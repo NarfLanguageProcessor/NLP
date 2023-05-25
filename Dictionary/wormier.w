@@ -1,1 +1,1 @@
-{"index": 367605, "D": "containing a worm  or worms;  contaminated with worms. ", "S": ["ravaged "], "A": []}
+{"index": 367605, "D": "containing a worm  or worms;  contaminated with worms. ", "S": ["ravaged"], "A": []}

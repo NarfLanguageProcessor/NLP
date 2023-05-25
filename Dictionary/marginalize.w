@@ -1,1 +1,1 @@
-{"index": 180002, "D": "to place in a position of minor or marginal  importance, significance, relevance, or effect", "S": ["criticize ", "demean ", "deprecate ", "diminish ", "disparage "], "A": ["elevate ", "praise ", "promote ", "celebrate ", "value "]}
+{"index": 180002, "D": "to place in a position of minor or marginal  importance, significance, relevance, or effect", "S": ["criticize", "demean", "deprecate", "diminish", "disparage"], "A": ["elevate", "praise", "promote", "celebrate", "value"]}

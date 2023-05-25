@@ -1,1 +1,1 @@
-{"index": 282388, "D": [], "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakefront ", "lakeshore ", "lakeside ", "ledge ", "levee ", "oceanfront ", "reef ", "riverside ", "seaboard ", "seafront ", "shore ", "strand ", "waterfront "], "A": []}
+{"index": 282388, "D": [], "S": ["beach", "cay", "cliff", "coast", "edge", "embankment", "lakefront", "lakeshore", "lakeside", "ledge", "levee", "oceanfront", "reef", "riverside", "seaboard", "seafront", "shore", "strand", "waterfront"], "A": []}

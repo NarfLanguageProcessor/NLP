@@ -1,1 +1,1 @@
-{"index": 352593, "D": "not turning aside; constant", "S": ["direct ", "unbending "], "A": ["ambiguous ", "unreliable "]}
+{"index": 352593, "D": "not turning aside; constant", "S": ["direct", "unbending"], "A": ["ambiguous", "unreliable"]}

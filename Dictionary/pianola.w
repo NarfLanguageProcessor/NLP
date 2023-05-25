@@ -1,1 +1,1 @@
-{"index": 235726, "D": "a brand of player piano.", "S": ["grand piano ", "instrument ", "keyboard "], "A": []}
+{"index": 235726, "D": "a brand of player piano.", "S": ["grand piano", "instrument", "keyboard"], "A": []}

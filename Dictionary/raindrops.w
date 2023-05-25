@@ -1,1 +1,1 @@
-{"index": 260087, "D": "a drop of rain.", "S": ["deluge ", "drizzle ", "flood ", "hail ", "mist ", "monsoon ", "precipitation ", "rainfall ", "rainstorm ", "shower ", "showers ", "sleet ", "stream ", "torrent "], "A": ["aridity ", "dryness "]}
+{"index": 260087, "D": "a drop of rain.", "S": ["deluge", "drizzle", "flood", "hail", "mist", "monsoon", "precipitation", "rainfall", "rainstorm", "shower", "showers", "sleet", "stream", "torrent"], "A": ["aridity", "dryness"]}

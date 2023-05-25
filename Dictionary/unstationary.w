@@ -1,1 +1,1 @@
-{"index": 351961, "D": "standing still; not moving.", "S": ["ambulatory ", "fluid ", "free ", "itinerant ", "liquid ", "locomotive ", "migrant ", "motile ", "peripatetic ", "portable ", "roving ", "wandering "], "A": ["settled ", "solid "]}
+{"index": 351961, "D": "standing still; not moving.", "S": ["ambulatory", "fluid", "free", "itinerant", "liquid", "locomotive", "migrant", "motile", "peripatetic", "portable", "roving", "wandering"], "A": ["settled", "solid"]}

@@ -1,1 +1,1 @@
-{"index": 107144, "D": "to offer or expose to view; present for inspection", "S": ["displaying ", "playing "], "A": []}
+{"index": 107144, "D": "to offer or expose to view; present for inspection", "S": ["displaying", "playing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 224205, "D": "to talk or act insincerely or deceitfully; lie or use trickery.", "S": ["babble ", "bargain ", "deceive ", "equivocate ", "falsify ", "fib ", "haggle ", "prevaricate ", "quibble "], "A": ["agree ", "concur ", "tell the truth "]}
+{"index": 224205, "D": "to talk or act insincerely or deceitfully; lie or use trickery.", "S": ["babble", "bargain", "deceive", "equivocate", "falsify", "fib", "haggle", "prevaricate", "quibble"], "A": ["agree", "concur", "tell the truth"]}

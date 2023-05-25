@@ -1,1 +1,1 @@
-{"index": 29427, "D": "a large drinking cup or glass with a wide mouth.", "S": ["chalice "], "A": []}
+{"index": 29427, "D": "a large drinking cup or glass with a wide mouth.", "S": ["chalice"], "A": []}

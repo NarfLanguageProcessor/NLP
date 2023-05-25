@@ -1,1 +1,1 @@
-{"index": 161868, "D": [], "S": ["bumpy ", "crushing ", "disconcerting ", "unsettling "], "A": ["firm ", "smooth ", "steady "]}
+{"index": 161868, "D": [], "S": ["bumpy", "crushing", "disconcerting", "unsettling"], "A": ["firm", "smooth", "steady"]}

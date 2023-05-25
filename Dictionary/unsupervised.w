@@ -1,1 +1,1 @@
-{"index": 352435, "D": "playing unsupervised in the garden", "S": ["freely ", "individually ", "separately "], "A": ["together "]}
+{"index": 352435, "D": "playing unsupervised in the garden", "S": ["freely", "individually", "separately"], "A": ["together"]}

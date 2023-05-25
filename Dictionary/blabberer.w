@@ -1,1 +1,1 @@
-{"index": 35422, "D": [], "S": ["babbler ", "blabber ", "blowhard ", "chatterbox ", "chatterer ", "gasbag ", "gossiper ", "gossipmonger ", "jabberer ", "loudmouth ", "squealer ", "tattletale ", "windbag "], "A": []}
+{"index": 35422, "D": [], "S": ["babbler", "blabber", "blowhard", "chatterbox", "chatterer", "gasbag", "gossiper", "gossipmonger", "jabberer", "loudmouth", "squealer", "tattletale", "windbag"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 41966, "D": "any of the piratical adventurers who raided Spanish colonies and ships along the American coast in the second half of the 17th century.", "S": ["corsair ", "freebooter ", "pirate ", "rover ", "spoiler ", "viking "], "A": []}
+{"index": 41966, "D": "any of the piratical adventurers who raided Spanish colonies and ships along the American coast in the second half of the 17th century.", "S": ["corsair", "freebooter", "pirate", "rover", "spoiler", "viking"], "A": []}

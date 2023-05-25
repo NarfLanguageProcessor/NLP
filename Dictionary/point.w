@@ -1,1 +1,1 @@
-{"index": 241315, "D": "a sharp or tapering end, as of a dagger.", "S": ["mark ", "stop "], "A": ["lot "]}
+{"index": 241315, "D": "a sharp or tapering end, as of a dagger.", "S": ["mark", "stop"], "A": ["lot"]}

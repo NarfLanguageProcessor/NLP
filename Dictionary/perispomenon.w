@@ -1,1 +1,0 @@
-{"index": 231347, "D": "(of a Greek word) bearing a circumflex accent on the last syllable", "S": [], "A": []}

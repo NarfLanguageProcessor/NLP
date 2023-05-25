@@ -1,1 +1,1 @@
-{"index": 39382, "D": "an animal that can progress by means of brachiation, as a gibbon.", "S": ["anthropoid ", "ape ", "baboon ", "chimpanzee ", "gibbon ", "gorilla ", "human ", "lemur ", "man ", "monkey ", "orangutan "], "A": []}
+{"index": 39382, "D": "an animal that can progress by means of brachiation, as a gibbon.", "S": ["anthropoid", "ape", "baboon", "chimpanzee", "gibbon", "gorilla", "human", "lemur", "man", "monkey", "orangutan"], "A": []}

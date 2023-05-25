@@ -1,1 +1,1 @@
-{"index": 251510, "D": "the act of poking or jabbing with or as if with something pointed", "S": ["nudge ", "press "], "A": ["discourage ", "dissuade ", "pull ", "repress "]}
+{"index": 251510, "D": "the act of poking or jabbing with or as if with something pointed", "S": ["nudge", "press"], "A": ["discourage", "dissuade", "pull", "repress"]}

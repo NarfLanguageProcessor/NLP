@@ -1,1 +1,1 @@
-{"index": 49638, "D": "the purging of the emotions or relieving of emotional tensions, especially through certain kinds of art, as tragedy or music.", "S": ["ablution ", "abreaction ", "cleansing ", "expurgation ", "purgation ", "purification ", "release "], "A": ["dirtying "]}
+{"index": 49638, "D": "the purging of the emotions or relieving of emotional tensions, especially through certain kinds of art, as tragedy or music.", "S": ["ablution", "abreaction", "cleansing", "expurgation", "purgation", "purification", "release"], "A": ["dirtying"]}

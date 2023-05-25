@@ -1,1 +1,1 @@
-{"index": 167474, "D": "a woman  who is not a member of the clergy.", "S": ["amateur ", "dabbler ", "dilettante ", "laic ", "laity ", "layman ", "tyro "], "A": ["professional "]}
+{"index": 167474, "D": "a woman  who is not a member of the clergy.", "S": ["amateur", "dabbler", "dilettante", "laic", "laity", "layman", "tyro"], "A": ["professional"]}

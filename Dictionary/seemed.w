@@ -1,1 +1,1 @@
-{"index": 283131, "D": "to appear to be, feel, do, etc.", "S": ["imply ", "look ", "show ", "sound ", "suggest "], "A": []}
+{"index": 283131, "D": "to appear to be, feel, do, etc.", "S": ["imply", "look", "show", "sound", "suggest"], "A": []}

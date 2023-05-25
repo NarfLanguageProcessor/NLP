@@ -1,1 +1,1 @@
-{"index": 228030, "D": "a decorative design, as for wallpaper, china, or textile fabrics, etc.", "S": ["arrangement "], "A": ["disorder ", "disorganization ", "plainness "]}
+{"index": 228030, "D": "a decorative design, as for wallpaper, china, or textile fabrics, etc.", "S": ["arrangement"], "A": ["disorder", "disorganization", "plainness"]}

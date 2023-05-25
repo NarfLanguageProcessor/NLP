@@ -1,1 +1,1 @@
-{"index": 37880, "D": "a dull, resonant sound, as of a large bell.", "S": ["bang ", "chime ", "clang ", "peal ", "strike ", "toll "], "A": ["tap "]}
+{"index": 37880, "D": "a dull, resonant sound, as of a large bell.", "S": ["bang", "chime", "clang", "peal", "strike", "toll"], "A": ["tap"]}

@@ -1,1 +1,1 @@
-{"index": 134114, "D": "a disorderly dispute.", "S": ["annoy ", "pester "], "A": ["make happy ", "please ", "agree ", "aid ", "assist ", "concur ", "give in ", "help "]}
+{"index": 134114, "D": "a disorderly dispute.", "S": ["annoy", "pester"], "A": ["make happy", "please", "agree", "aid", "assist", "concur", "give in", "help"]}

@@ -1,1 +1,1 @@
-{"index": 335010, "D": "of one mind; in complete agreement; agreed.", "S": ["consensus ", "harmony ", "unity "], "A": ["disagreement ", "denial ", "discord ", "dissension ", "opposition ", "refusal "]}
+{"index": 335010, "D": "of one mind; in complete agreement; agreed.", "S": ["consensus", "harmony", "unity"], "A": ["disagreement", "denial", "discord", "dissension", "opposition", "refusal"]}

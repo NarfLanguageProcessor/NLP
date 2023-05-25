@@ -1,1 +1,1 @@
-{"index": 181498, "D": "characterized by sickly sentimentality; weakly emotional; maudlin.", "S": ["bathos ", "melodrama ", "mushiness ", "nostalgia ", "reminiscence ", "sentiment ", "sentimentalism ", "triteness "], "A": []}
+{"index": 181498, "D": "characterized by sickly sentimentality; weakly emotional; maudlin.", "S": ["bathos", "melodrama", "mushiness", "nostalgia", "reminiscence", "sentiment", "sentimentalism", "triteness"], "A": []}

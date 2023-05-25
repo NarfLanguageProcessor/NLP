@@ -1,0 +1,1 @@
+{"index": 16023, "D": "an infectious disease of dogs, cats, and other animals, transmitted to humans by the bite of an infected animal and usually fatal if prophylactic treatment is not administered", "S": [], "A": []}

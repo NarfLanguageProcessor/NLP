@@ -1,1 +1,1 @@
-{"index": 328613, "D": "to pass or move over, along, or through.", "S": ["criss-cross ", "cross ", "cut across ", "pass through ", "span ", "travel over "], "A": ["stay "]}
+{"index": 328613, "D": "to pass or move over, along, or through.", "S": ["criss-cross", "cross", "cut across", "pass through", "span", "travel over"], "A": ["stay"]}

@@ -1,1 +1,1 @@
-{"index": 144202, "D": "a person who receives or entertains guests at home or elsewhere", "S": ["introduce ", "present ", "receive "], "A": []}
+{"index": 144202, "D": "a person who receives or entertains guests at home or elsewhere", "S": ["introduce", "present", "receive"], "A": []}

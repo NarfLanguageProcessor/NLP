@@ -1,1 +1,1 @@
-{"index": 29618, "D": "supreme blessedness; exalted happiness.", "S": ["bliss ", "ecstasy ", "felicity ", "happiness ", "peace ", "serenity "], "A": ["agitation ", "misery ", "sorrow ", "trouble ", "unhappiness ", "upset "]}
+{"index": 29618, "D": "supreme blessedness; exalted happiness.", "S": ["bliss", "ecstasy", "felicity", "happiness", "peace", "serenity"], "A": ["agitation", "misery", "sorrow", "trouble", "unhappiness", "upset"]}

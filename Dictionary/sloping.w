@@ -1,1 +1,1 @@
-{"index": 294352, "D": "to have or take an inclined or oblique direction or angle considered with reference to a vertical or horizontal plane; slant.", "S": ["slanted ", "tilted "], "A": ["level ", "straight "]}
+{"index": 294352, "D": "to have or take an inclined or oblique direction or angle considered with reference to a vertical or horizontal plane; slant.", "S": ["slanted", "tilted"], "A": ["level", "straight"]}

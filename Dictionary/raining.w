@@ -1,1 +1,1 @@
-{"index": 260101, "D": "Compare drizzle (def. 6). ", "S": ["discharging ", "draining ", "flooding ", "flowing ", "gushing ", "running ", "rushing ", "showering ", "spilling ", "spouting "], "A": []}
+{"index": 260101, "D": "Compare drizzle (def. 6). ", "S": ["discharging", "draining", "flooding", "flowing", "gushing", "running", "rushing", "showering", "spilling", "spouting"], "A": []}

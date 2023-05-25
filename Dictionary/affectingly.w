@@ -1,1 +1,1 @@
-{"index": 5311, "D": "moving or exciting the feelings or emotions.", "S": ["acutely ", "genuinely ", "intensely ", "passionately ", "profoundly ", "sadly ", "seriously ", "severely ", "surely ", "thoroughly "], "A": ["lightly "]}
+{"index": 5311, "D": "moving or exciting the feelings or emotions.", "S": ["acutely", "genuinely", "intensely", "passionately", "profoundly", "sadly", "seriously", "severely", "surely", "thoroughly"], "A": ["lightly"]}

@@ -1,1 +1,1 @@
-{"index": 274747, "D": "any of various red cosmetics for coloring the cheeks or lips.", "S": ["colored ", "daubed ", "powdered ", "reddened "], "A": []}
+{"index": 274747, "D": "any of various red cosmetics for coloring the cheeks or lips.", "S": ["colored", "daubed", "powdered", "reddened"], "A": []}

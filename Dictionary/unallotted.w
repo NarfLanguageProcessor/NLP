@@ -1,1 +1,0 @@
-{"index": 334837, "D": "assigned as a portion to some person or group or for some purpose", "S": [], "A": []}

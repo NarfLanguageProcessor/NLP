@@ -1,1 +1,1 @@
-{"index": 91152, "D": "a person having a smooth, unblemished complexion and small, regular features.", "S": ["tomato "], "A": []}
+{"index": 91152, "D": "a person having a smooth, unblemished complexion and small, regular features.", "S": ["tomato"], "A": []}

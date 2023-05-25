@@ -1,1 +1,1 @@
-{"index": 155409, "D": "to mix together; intermingle. ", "S": ["crisscross ", "interlaced ", "interlacing ", "knitted ", "mingled ", "mixed ", "woven "], "A": []}
+{"index": 155409, "D": "to mix together; intermingle. ", "S": ["crisscross", "interlaced", "interlacing", "knitted", "mingled", "mixed", "woven"], "A": []}

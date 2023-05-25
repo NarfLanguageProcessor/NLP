@@ -1,1 +1,1 @@
-{"index": 128488, "D": "lacking grace,  pleasing elegance, or charm.", "S": ["awkwardness ", "clumsiness ", "crudeness ", "gawkiness ", "inelegance ", "ineptitude "], "A": ["coordination ", "experience ", "grace ", "sophistication "]}
+{"index": 128488, "D": "lacking grace,  pleasing elegance, or charm.", "S": ["awkwardness", "clumsiness", "crudeness", "gawkiness", "inelegance", "ineptitude"], "A": ["coordination", "experience", "grace", "sophistication"]}

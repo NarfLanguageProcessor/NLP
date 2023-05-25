@@ -1,1 +1,1 @@
-{"index": 275352, "D": "a neckpiece or collar of lace, lawn, or the like, gathered or drawn into deep, full, regular folds, worn in the 16th and 17th centuries.", "S": ["choker "], "A": []}
+{"index": 275352, "D": "a neckpiece or collar of lace, lawn, or the like, gathered or drawn into deep, full, regular folds, worn in the 16th and 17th centuries.", "S": ["choker"], "A": []}

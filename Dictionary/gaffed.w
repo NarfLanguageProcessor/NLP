@@ -1,1 +1,1 @@
-{"index": 120934, "D": "an iron hook with a handle for landing large fish.", "S": ["able ", "adapted ", "arranged ", "groomed ", "inclined ", "planned ", "processed ", "qualified ", "willing "], "A": ["unable ", "disinclined ", "indefinite ", "unfixed ", "unwilling "]}
+{"index": 120934, "D": "an iron hook with a handle for landing large fish.", "S": ["able", "adapted", "arranged", "groomed", "inclined", "planned", "processed", "qualified", "willing"], "A": ["unable", "disinclined", "indefinite", "unfixed", "unwilling"]}

@@ -1,1 +1,1 @@
-{"index": 31326, "D": "a white sturgeon, Huso huso, of the Black and Caspian seas, valued as a source of caviar and isinglass.", "S": ["dolphin ", "grampus ", "mammal ", "narwal ", "orca ", "porpoise ", "whale "], "A": []}
+{"index": 31326, "D": "a white sturgeon, Huso huso, of the Black and Caspian seas, valued as a source of caviar and isinglass.", "S": ["dolphin", "grampus", "mammal", "narwal", "orca", "porpoise", "whale"], "A": []}

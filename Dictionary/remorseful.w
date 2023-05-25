@@ -1,1 +1,1 @@
-{"index": 267453, "D": "full of remorse. ", "S": ["apologetic ", "contrite ", "regretful ", "repentant ", "sad ", "sorrowful ", "sorry "], "A": ["glad ", "happy ", "joyful ", "unrepentant "]}
+{"index": 267453, "D": "full of remorse. ", "S": ["apologetic", "contrite", "regretful", "repentant", "sad", "sorrowful", "sorry"], "A": ["glad", "happy", "joyful", "unrepentant"]}

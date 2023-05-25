@@ -1,1 +1,1 @@
-{"index": 144294, "D": "having or giving off heat; having a high temperature", "S": ["bitterly ", "fiercely ", "furiously ", "heatedly ", "indignantly ", "madly ", "savagely ", "sharply ", "violently "], "A": ["gently ", "mildly ", "quietly "]}
+{"index": 144294, "D": "having or giving off heat; having a high temperature", "S": ["bitterly", "fiercely", "furiously", "heatedly", "indignantly", "madly", "savagely", "sharply", "violently"], "A": ["gently", "mildly", "quietly"]}

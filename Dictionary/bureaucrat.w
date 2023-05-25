@@ -1,1 +1,1 @@
-{"index": 43017, "D": "an official of a bureaucracy. ", "S": ["administrator ", "civil servant ", "functionary ", "politician ", "public servant "], "A": []}
+{"index": 43017, "D": "an official of a bureaucracy. ", "S": ["administrator", "civil servant", "functionary", "politician", "public servant"], "A": []}

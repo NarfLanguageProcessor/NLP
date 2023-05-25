@@ -1,1 +1,1 @@
-{"index": 354855, "D": "to, toward, or in a more elevated position", "S": ["ascend ", "awake ", "increase ", "jump ", "raise ", "rise "], "A": ["decline ", "decrease ", "descend ", "diminish ", "drop ", "lessen ", "lower "]}
+{"index": 354855, "D": "to, toward, or in a more elevated position", "S": ["ascend", "awake", "increase", "jump", "raise", "rise"], "A": ["decline", "decrease", "descend", "diminish", "drop", "lessen", "lower"]}

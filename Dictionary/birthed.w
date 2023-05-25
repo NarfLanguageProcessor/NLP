@@ -1,1 +1,1 @@
-{"index": 34908, "D": "an act or instance of being born", "S": ["release "], "A": ["hide "]}
+{"index": 34908, "D": "an act or instance of being born", "S": ["release"], "A": ["hide"]}

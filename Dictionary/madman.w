@@ -1,1 +1,1 @@
-{"index": 177214, "D": "a person who is or behaves as if insane; lunatic; maniac.", "S": ["maniac ", "psychopath "], "A": []}
+{"index": 177214, "D": "a person who is or behaves as if insane; lunatic; maniac.", "S": ["maniac", "psychopath"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 118627, "D": "to take advantage of others for free food, entertainment, etc.", "S": ["bumming ", "leeching ", "sponging "], "A": []}
+{"index": 118627, "D": "to take advantage of others for free food, entertainment, etc.", "S": ["bumming", "leeching", "sponging"], "A": []}

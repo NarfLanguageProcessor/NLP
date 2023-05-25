@@ -1,1 +1,1 @@
-{"index": 66906, "D": "an act or instance of combining or consolidating into a single or unified whole; the state of being consolidated; unification", "S": ["merger ", "strengthening ", "unification "], "A": ["division ", "separation ", "antagonism ", "disassociation ", "disunion "]}
+{"index": 66906, "D": "an act or instance of combining or consolidating into a single or unified whole; the state of being consolidated; unification", "S": ["merger", "strengthening", "unification"], "A": ["division", "separation", "antagonism", "disassociation", "disunion"]}

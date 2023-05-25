@@ -1,1 +1,1 @@
-{"index": 170396, "D": "to grant the use of (something) on condition that it or its equivalent will be returned.", "S": ["bank ", "banker "], "A": []}
+{"index": 170396, "D": "to grant the use of (something) on condition that it or its equivalent will be returned.", "S": ["bank", "banker"], "A": []}

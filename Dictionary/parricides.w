@@ -1,1 +1,0 @@
-{"index": 226835, "D": "the act of killing one's father, mother, or other close relative.", "S": [], "A": []}

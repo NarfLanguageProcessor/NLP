@@ -1,1 +1,1 @@
-{"index": 345812, "D": "not feeling or showing love and affection", "S": ["cold ", "detached ", "hard ", "hard-hearted ", "harsh ", "heartless ", "indifferent ", "insensitive ", "stony-hearted ", "uncaring ", "unemotional ", "unfriendly ", "unkind ", "unsympathetic "], "A": ["warm-hearted "]}
+{"index": 345812, "D": "not feeling or showing love and affection", "S": ["cold", "detached", "hard", "hard-hearted", "harsh", "heartless", "indifferent", "insensitive", "stony-hearted", "uncaring", "unemotional", "unfriendly", "unkind", "unsympathetic"], "A": ["warm-hearted"]}

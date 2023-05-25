@@ -1,1 +1,1 @@
-{"index": 26254, "D": "to confuse, bewilder, or perplex", "S": ["bewilderment ", "confusion ", "discombobulation ", "fog ", "obfuscation ", "perplexity ", "puzzlement ", "stupefaction ", "stupor "], "A": []}
+{"index": 26254, "D": "to confuse, bewilder, or perplex", "S": ["bewilderment", "confusion", "discombobulation", "fog", "obfuscation", "perplexity", "puzzlement", "stupefaction", "stupor"], "A": []}

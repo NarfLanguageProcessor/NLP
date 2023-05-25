@@ -1,1 +1,1 @@
-{"index": 227804, "D": "a person who is under medical care or treatment.", "S": ["calm ", "forgiving ", "gentle ", "quiet ", "tolerant "], "A": ["agitated ", "loud ", "rough ", "troubled ", "violent ", "wild "]}
+{"index": 227804, "D": "a person who is under medical care or treatment.", "S": ["calm", "forgiving", "gentle", "quiet", "tolerant"], "A": ["agitated", "loud", "rough", "troubled", "violent", "wild"]}

@@ -1,1 +1,1 @@
-{"index": 145264, "D": "Compare typhoon. ", "S": ["cyclone ", "gale ", "monsoon ", "storm ", "tornado ", "twister "], "A": []}
+{"index": 145264, "D": "Compare typhoon. ", "S": ["cyclone", "gale", "monsoon", "storm", "tornado", "twister"], "A": []}

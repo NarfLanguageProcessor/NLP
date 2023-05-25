@@ -1,1 +1,1 @@
-{"index": 98028, "D": "disposed or prepared for battle.", "S": ["beset ", "crenelated ", "fighting ", "fortified ", "prepared "], "A": []}
+{"index": 98028, "D": "disposed or prepared for battle.", "S": ["beset", "crenelated", "fighting", "fortified", "prepared"], "A": []}

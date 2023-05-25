@@ -1,1 +1,1 @@
-{"index": 151482, "D": "not effectual;  without satisfactory or decisive effect", "S": ["aridity ", "aridness ", "barrenness ", "ineffectiveness ", "unproductiveness ", "unprofitableness ", "uselessness ", "vanity "], "A": []}
+{"index": 151482, "D": "not effectual;  without satisfactory or decisive effect", "S": ["aridity", "aridness", "barrenness", "ineffectiveness", "unproductiveness", "unprofitableness", "uselessness", "vanity"], "A": []}

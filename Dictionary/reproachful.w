@@ -1,1 +1,1 @@
-{"index": 268590, "D": "full of or expressing reproach  or censure", "S": ["insulting ", "offensive ", "rude "], "A": ["kind ", "nice ", "respectful "]}
+{"index": 268590, "D": "full of or expressing reproach  or censure", "S": ["insulting", "offensive", "rude"], "A": ["kind", "nice", "respectful"]}

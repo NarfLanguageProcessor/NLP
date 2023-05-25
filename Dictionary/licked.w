@@ -1,1 +1,1 @@
-{"index": 171718, "D": "to pass the tongue over the surface of, as to moisten, taste, or eat (often followed by up, off, from, etc.)", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}
+{"index": 171718, "D": "to pass the tongue over the surface of, as to moisten, taste, or eat (often followed by up, off, from, etc.)", "S": ["humbled", "overpowered", "overwhelmed", "routed"], "A": []}

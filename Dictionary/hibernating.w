@@ -1,1 +1,1 @@
-{"index": 138222, "D": "Compare estivate (def. 2). ", "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}
+{"index": 138222, "D": "Compare estivate (def. 2). ", "S": ["comatose", "dormant"], "A": ["attentive", "awake", "conscious"]}

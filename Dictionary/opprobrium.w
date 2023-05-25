@@ -1,1 +1,1 @@
-{"index": 213727, "D": "the disgrace or the reproach incurred by conduct considered outrageously shameful; infamy.", "S": ["ignominy ", "infamy "], "A": ["credit ", "elevation ", "esteem ", "honor ", "pride ", "respect "]}
+{"index": 213727, "D": "the disgrace or the reproach incurred by conduct considered outrageously shameful; infamy.", "S": ["ignominy", "infamy"], "A": ["credit", "elevation", "esteem", "honor", "pride", "respect"]}

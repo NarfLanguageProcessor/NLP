@@ -1,1 +1,1 @@
-{"index": 175396, "D": "lots of people; to eat lots", "S": ["oodles "], "A": ["little "]}
+{"index": 175396, "D": "lots of people; to eat lots", "S": ["oodles"], "A": ["little"]}

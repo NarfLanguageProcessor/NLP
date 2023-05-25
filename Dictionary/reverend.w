@@ -1,1 +1,1 @@
-{"index": 271225, "D": "(used as a title of respect applied or prefixed to the name of a member of the clergy or a religious order)", "S": ["clergy ", "clergyman ", "clerical ", "minister ", "monsignor ", "parson ", "priest "], "A": []}
+{"index": 271225, "D": "(used as a title of respect applied or prefixed to the name of a member of the clergy or a religious order)", "S": ["clergy", "clergyman", "clerical", "minister", "monsignor", "parson", "priest"], "A": []}

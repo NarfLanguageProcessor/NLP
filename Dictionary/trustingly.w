@@ -1,1 +1,1 @@
-{"index": 331699, "D": "inclined to trust;  confiding; trustful", "S": ["confidently ", "surely "], "A": ["doubtfully ", "gloomily ", "hopelessly "]}
+{"index": 331699, "D": "inclined to trust;  confiding; trustful", "S": ["confidently", "surely"], "A": ["doubtfully", "gloomily", "hopelessly"]}

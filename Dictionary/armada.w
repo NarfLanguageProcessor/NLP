@@ -1,1 +1,1 @@
-{"index": 19864, "D": "the fleet sent against England by Philip II of Spain in 1588. It was defeated by the English navy and later dispersed and wrecked by storms.", "S": ["fleet ", "flotilla ", "squadron "], "A": []}
+{"index": 19864, "D": "the fleet sent against England by Philip II of Spain in 1588. It was defeated by the English navy and later dispersed and wrecked by storms.", "S": ["fleet", "flotilla", "squadron"], "A": []}

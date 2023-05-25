@@ -1,1 +1,1 @@
-{"index": 289284, "D": "a planting of shrubs", "S": ["underbrush "], "A": []}
+{"index": 289284, "D": "a planting of shrubs", "S": ["underbrush"], "A": []}

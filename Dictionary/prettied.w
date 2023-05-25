@@ -1,1 +1,1 @@
-{"index": 250050, "D": "pleasing or attractive to the eye, as by delicacy or gracefulness", "S": ["beautify ", "clean ", "groom ", "prettify ", "primp ", "prink ", "tidy "], "A": ["dirty "]}
+{"index": 250050, "D": "pleasing or attractive to the eye, as by delicacy or gracefulness", "S": ["beautify", "clean", "groom", "prettify", "primp", "prink", "tidy"], "A": ["dirty"]}

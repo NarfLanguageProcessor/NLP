@@ -1,1 +1,1 @@
-{"index": 82657, "D": "to cease, as from some action or proceeding; stop. ", "S": ["abstain ", "cease ", "relinquish "], "A": ["carry on ", "complete ", "continue ", "finish ", "persist ", "restart "]}
+{"index": 82657, "D": "to cease, as from some action or proceeding; stop. ", "S": ["abstain", "cease", "relinquish"], "A": ["carry on", "complete", "continue", "finish", "persist", "restart"]}

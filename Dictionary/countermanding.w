@@ -1,1 +1,1 @@
-{"index": 70900, "D": "to revoke or cancel (a command, order, etc.).", "S": ["override ", "recall ", "repeal ", "rescind ", "retract ", "retreat ", "reverse ", "revoke "], "A": ["approve ", "enforce ", "meet "]}
+{"index": 70900, "D": "to revoke or cancel (a command, order, etc.).", "S": ["override", "recall", "repeal", "rescind", "retract", "retreat", "reverse", "revoke"], "A": ["approve", "enforce", "meet"]}

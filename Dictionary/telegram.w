@@ -1,1 +1,1 @@
-{"index": 318037, "D": "a message or communication sent by telegraph; a telegraphic dispatch.", "S": ["summons ", "telegraph "], "A": []}
+{"index": 318037, "D": "a message or communication sent by telegraph; a telegraphic dispatch.", "S": ["summons", "telegraph"], "A": []}

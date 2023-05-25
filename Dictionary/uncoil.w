@@ -1,1 +1,1 @@
-{"index": 337183, "D": "to unwind from a coiled  position.", "S": ["acquire ", "evolve ", "form ", "produce ", "realize "], "A": ["destroy ", "fail ", "lose ", "neglect ", "ruin ", "complicate ", "conceal ", "confuse ", "cover ", "hide ", "mystify ", "obscure ", "tangle ", "twist ", "wind "]}
+{"index": 337183, "D": "to unwind from a coiled  position.", "S": ["acquire", "evolve", "form", "produce", "realize"], "A": ["destroy", "fail", "lose", "neglect", "ruin", "complicate", "conceal", "confuse", "cover", "hide", "mystify", "obscure", "tangle", "twist", "wind"]}

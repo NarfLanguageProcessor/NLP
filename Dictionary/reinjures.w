@@ -1,1 +1,0 @@
-{"index": 266338, "D": "to do or cause harm of any kind to; damage; hurt; impair", "S": [], "A": []}

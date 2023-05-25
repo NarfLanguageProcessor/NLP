@@ -1,1 +1,1 @@
-{"index": 109629, "D": "to suffer or cause to suffer extreme hunger; starve.", "S": ["abstain "], "A": ["indulge "]}
+{"index": 109629, "D": "to suffer or cause to suffer extreme hunger; starve.", "S": ["abstain"], "A": ["indulge"]}

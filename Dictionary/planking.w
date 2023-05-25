@@ -1,1 +1,1 @@
-{"index": 239008, "D": "planks  collectively, as in a floor.", "S": ["found ", "insert ", "install "], "A": ["leave ", "move ", "unsettle "]}
+{"index": 239008, "D": "planks  collectively, as in a floor.", "S": ["found", "insert", "install"], "A": ["leave", "move", "unsettle"]}

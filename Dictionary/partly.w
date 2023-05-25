@@ -1,1 +1,1 @@
-{"index": 227111, "D": "in part;  to some extent or degree; not wholly; partially", "S": ["at least ", "partially ", "slightly ", "somewhat "], "A": ["completely ", "totally ", "wholly "]}
+{"index": 227111, "D": "in part;  to some extent or degree; not wholly; partially", "S": ["at least", "partially", "slightly", "somewhat"], "A": ["completely", "totally", "wholly"]}

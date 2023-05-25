@@ -1,1 +1,1 @@
-{"index": 268186, "D": "full of repetition,  especially unnecessary and tedious repetition", "S": ["boring ", "redundant ", "repetitive "], "A": ["concise ", "simple "]}
+{"index": 268186, "D": "full of repetition,  especially unnecessary and tedious repetition", "S": ["boring", "redundant", "repetitive"], "A": ["concise", "simple"]}

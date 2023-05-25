@@ -1,1 +1,1 @@
-{"index": 305180, "D": "stamp (defs. 1-3). ", "S": ["dance ", "jazz ", "music ", "stamp ", "trample ", "tread "], "A": []}
+{"index": 305180, "D": "stamp (defs. 1-3). ", "S": ["dance", "jazz", "music", "stamp", "trample", "tread"], "A": []}

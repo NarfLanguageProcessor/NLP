@@ -1,1 +1,1 @@
-{"index": 120046, "D": "to feel or grope about clumsily", "S": ["botcher ", "bumbler ", "bungler ", "stumbler "], "A": []}
+{"index": 120046, "D": "to feel or grope about clumsily", "S": ["botcher", "bumbler", "bungler", "stumbler"], "A": []}

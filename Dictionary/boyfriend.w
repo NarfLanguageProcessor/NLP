@@ -1,1 +1,1 @@
-{"index": 37411, "D": "a frequent or favorite male companion; beau.", "S": ["beau ", "companion ", "friend ", "partner ", "suitor ", "sweetheart ", "young man "], "A": ["enemy ", "foe ", "opponent "]}
+{"index": 37411, "D": "a frequent or favorite male companion; beau.", "S": ["beau", "companion", "friend", "partner", "suitor", "sweetheart", "young man"], "A": ["enemy", "foe", "opponent"]}

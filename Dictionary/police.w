@@ -1,1 +1,1 @@
-{"index": 241679, "D": "an organized civil force for maintaining order, preventing and detecting crime, and enforcing the laws.", "S": ["detective ", "force ", "law enforcement ", "man "], "A": []}
+{"index": 241679, "D": "an organized civil force for maintaining order, preventing and detecting crime, and enforcing the laws.", "S": ["detective", "force", "law enforcement", "man"], "A": []}

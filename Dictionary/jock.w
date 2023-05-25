@@ -1,1 +1,1 @@
-{"index": 161465, "D": "jockey. ", "S": ["competitor ", "player "], "A": []}
+{"index": 161465, "D": "jockey. ", "S": ["competitor", "player"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293869, "D": "smooth or glossy, as hair, an animal, etc.", "S": ["glistening ", "polished ", "satin ", "shiny ", "silky "], "A": ["dull ", "raised ", "rough ", "ungroomed ", "unkempt "]}
+{"index": 293869, "D": "smooth or glossy, as hair, an animal, etc.", "S": ["glistening", "polished", "satin", "shiny", "silky"], "A": ["dull", "raised", "rough", "ungroomed", "unkempt"]}

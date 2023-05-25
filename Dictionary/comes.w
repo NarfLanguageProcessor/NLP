@@ -1,1 +1,1 @@
-{"index": 63761, "D": "companion1 (def. 6). ", "S": ["appear ", "arrive ", "become ", "enter ", "get ", "happen ", "hit ", "materialize ", "move ", "occur ", "reach ", "show ", "show up "], "A": ["conceal ", "depart ", "disappear ", "go ", "hide ", "leave ", "lose ", "stop "]}
+{"index": 63761, "D": "companion1 (def. 6). ", "S": ["appear", "arrive", "become", "enter", "get", "happen", "hit", "materialize", "move", "occur", "reach", "show", "show up"], "A": ["conceal", "depart", "disappear", "go", "hide", "leave", "lose", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 361405, "D": "a formal expression of opinion or choice made by an individual or body of individuals, especially in an election.", "S": ["ballot ", "choice ", "majority ", "poll ", "referendum ", "tally "], "A": []}
+{"index": 361405, "D": "a formal expression of opinion or choice made by an individual or body of individuals, especially in an election.", "S": ["ballot", "choice", "majority", "poll", "referendum", "tally"], "A": []}

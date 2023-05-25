@@ -1,1 +1,1 @@
-{"index": 97897, "D": "emanating  or issuing from or as if from a source.", "S": ["appearing ", "budding ", "coming ", "developing ", "efflorescent ", "emanating ", "issuing forth ", "outgoing ", "rising "], "A": ["declining ", "dependent "]}
+{"index": 97897, "D": "emanating  or issuing from or as if from a source.", "S": ["appearing", "budding", "coming", "developing", "efflorescent", "emanating", "issuing forth", "outgoing", "rising"], "A": ["declining", "dependent"]}

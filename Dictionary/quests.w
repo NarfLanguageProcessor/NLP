@@ -1,1 +1,1 @@
-{"index": 258448, "D": "a search or pursuit made in order to find or obtain something", "S": ["adventure ", "chase ", "crusade ", "expedition ", "hunt ", "inquiry ", "investigation ", "journey ", "probe ", "pursuit ", "research "], "A": ["retreat "]}
+{"index": 258448, "D": "a search or pursuit made in order to find or obtain something", "S": ["adventure", "chase", "crusade", "expedition", "hunt", "inquiry", "investigation", "journey", "probe", "pursuit", "research"], "A": ["retreat"]}

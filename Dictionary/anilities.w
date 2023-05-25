@@ -1,1 +1,1 @@
-{"index": 13132, "D": "of or like a foolish, doddering old woman.", "S": ["age ", "decline ", "dotage ", "feebleness ", "senescence "], "A": ["strength "]}
+{"index": 13132, "D": "of or like a foolish, doddering old woman.", "S": ["age", "decline", "dotage", "feebleness", "senescence"], "A": ["strength"]}

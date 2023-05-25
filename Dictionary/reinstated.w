@@ -1,1 +1,1 @@
-{"index": 266393, "D": "to put back or establish again, as in a former position or state", "S": ["reelected ", "reestablished ", "reinstalled ", "restored ", "returned "], "A": []}
+{"index": 266393, "D": "to put back or establish again, as in a former position or state", "S": ["reelected", "reestablished", "reinstalled", "restored", "returned"], "A": []}

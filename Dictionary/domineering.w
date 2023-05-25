@@ -1,1 +1,1 @@
-{"index": 91323, "D": "inclined to rule arbitrarily or despotically; overbearing; tyrannical", "S": ["arrogant ", "autocratic ", "bossy ", "dictatorial ", "imperious ", "overbearing ", "tyrannical "], "A": ["democratic ", "humble ", "servile "]}
+{"index": 91323, "D": "inclined to rule arbitrarily or despotically; overbearing; tyrannical", "S": ["arrogant", "autocratic", "bossy", "dictatorial", "imperious", "overbearing", "tyrannical"], "A": ["democratic", "humble", "servile"]}

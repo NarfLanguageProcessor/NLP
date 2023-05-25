@@ -1,1 +1,1 @@
-{"index": 148883, "D": "to bring in (merchandise, commodities, workers, etc.) from a foreign country for use, sale, processing, reexport, or services.", "S": ["foreign buyer ", "international merchant "], "A": []}
+{"index": 148883, "D": "to bring in (merchandise, commodities, workers, etc.) from a foreign country for use, sale, processing, reexport, or services.", "S": ["foreign buyer", "international merchant"], "A": []}

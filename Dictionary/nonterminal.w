@@ -1,1 +1,0 @@
-{"index": 207842, "D": "situated at or forming the end or extremity of something", "S": [], "A": []}

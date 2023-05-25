@@ -1,1 +1,1 @@
-{"index": 25861, "D": "a pack  or knapsack, often of canvas or nylon, to be carried on one's back,  sometimes supported on a lightweight metal frame strapped to the body.", "S": ["knapsack "], "A": []}
+{"index": 25861, "D": "a pack  or knapsack, often of canvas or nylon, to be carried on one's back,  sometimes supported on a lightweight metal frame strapped to the body.", "S": ["knapsack"], "A": []}

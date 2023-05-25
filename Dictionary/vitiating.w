@@ -1,1 +1,1 @@
-{"index": 360575, "D": "to impair the quality of; make faulty; spoil. ", "S": ["annihilate ", "negate ", "quash "], "A": ["allow ", "help ", "permit ", "affirm ", "approve ", "confirm ", "establish ", "institute ", "legalize ", "ratify ", "support ", "validate "]}
+{"index": 360575, "D": "to impair the quality of; make faulty; spoil. ", "S": ["annihilate", "negate", "quash"], "A": ["allow", "help", "permit", "affirm", "approve", "confirm", "establish", "institute", "legalize", "ratify", "support", "validate"]}

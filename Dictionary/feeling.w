@@ -1,1 +1,1 @@
-{"index": 110891, "D": "the function or the power of perceiving by touch.", "S": ["awareness ", "excitement ", "feel ", "pain ", "perception ", "pleasure ", "reaction ", "sense ", "sensitivity "], "A": ["insensitivity "]}
+{"index": 110891, "D": "the function or the power of perceiving by touch.", "S": ["awareness", "excitement", "feel", "pain", "perception", "pleasure", "reaction", "sense", "sensitivity"], "A": ["insensitivity"]}

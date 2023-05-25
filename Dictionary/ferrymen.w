@@ -1,1 +1,1 @@
-{"index": 111507, "D": "a person who owns or operates a ferry. ", "S": ["boatman ", "gondolier ", "oar "], "A": []}
+{"index": 111507, "D": "a person who owns or operates a ferry. ", "S": ["boatman", "gondolier", "oar"], "A": []}

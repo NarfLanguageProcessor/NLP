@@ -1,1 +1,1 @@
-{"index": 154351, "D": "designing or aiming to be; prospective or aspiring", "S": ["determined ", "inclined "], "A": ["unwilling "]}
+{"index": 154351, "D": "designing or aiming to be; prospective or aspiring", "S": ["determined", "inclined"], "A": ["unwilling"]}

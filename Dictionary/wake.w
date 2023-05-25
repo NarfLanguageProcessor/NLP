@@ -1,1 +1,1 @@
-{"index": 362120, "D": "to become roused from sleep; awake; awaken; waken (often followed by up).", "S": ["deathwatch ", "rites ", "vigil ", "watch "], "A": []}
+{"index": 362120, "D": "to become roused from sleep; awake; awaken; waken (often followed by up).", "S": ["deathwatch", "rites", "vigil", "watch"], "A": []}

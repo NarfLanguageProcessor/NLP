@@ -1,1 +1,1 @@
-{"index": 8404, "D": "tending to become alkaline; slightly alkaline.", "S": ["salty ", "soluble "], "A": []}
+{"index": 8404, "D": "tending to become alkaline; slightly alkaline.", "S": ["salty", "soluble"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 228324, "D": "inclined or disposed to avoid strife or dissension; not argumentative or hostile", "S": ["peaceful "], "A": ["belligerent ", "cold ", "cool ", "mean ", "unfriendly "]}
+{"index": 228324, "D": "inclined or disposed to avoid strife or dissension; not argumentative or hostile", "S": ["peaceful"], "A": ["belligerent", "cold", "cool", "mean", "unfriendly"]}

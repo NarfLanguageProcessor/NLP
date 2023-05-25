@@ -1,1 +1,1 @@
-{"index": 239566, "D": "a plot of ground.", "S": ["fortify ", "interweave ", "mix ", "spike ", "strap "], "A": ["detach ", "disconnect ", "disjoin ", "disunite ", "loose ", "loosen ", "release ", "remove ", "unfasten ", "untie "]}
+{"index": 239566, "D": "a plot of ground.", "S": ["fortify", "interweave", "mix", "spike", "strap"], "A": ["detach", "disconnect", "disjoin", "disunite", "loose", "loosen", "release", "remove", "unfasten", "untie"]}

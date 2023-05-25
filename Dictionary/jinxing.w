@@ -1,1 +1,1 @@
-{"index": 161353, "D": "a person, thing, or influence supposed to bring bad luck.", "S": ["hex "], "A": ["advantage ", "benefit ", "boon ", "luck "]}
+{"index": 161353, "D": "a person, thing, or influence supposed to bring bad luck.", "S": ["hex"], "A": ["advantage", "benefit", "boon", "luck"]}

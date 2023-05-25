@@ -1,1 +1,1 @@
-{"index": 133329, "D": "a shed or shelter.", "S": ["garage ", "shed ", "shelter "], "A": []}
+{"index": 133329, "D": "a shed or shelter.", "S": ["garage", "shed", "shelter"], "A": []}

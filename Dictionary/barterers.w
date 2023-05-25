@@ -1,1 +1,1 @@
-{"index": 28417, "D": "to trade by exchange of commodities rather than by the use of money.", "S": ["dealer ", "merchant ", "seller ", "stockbroker ", "trafficker "], "A": ["buyer ", "customer "]}
+{"index": 28417, "D": "to trade by exchange of commodities rather than by the use of money.", "S": ["dealer", "merchant", "seller", "stockbroker", "trafficker"], "A": ["buyer", "customer"]}

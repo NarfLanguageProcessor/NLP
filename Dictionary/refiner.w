@@ -1,1 +1,1 @@
-{"index": 265070, "D": "a person, device, or substance that removes impurities, sediment, or other unwanted matter from something", "S": ["refinery "], "A": []}
+{"index": 265070, "D": "a person, device, or substance that removes impurities, sediment, or other unwanted matter from something", "S": ["refinery"], "A": []}

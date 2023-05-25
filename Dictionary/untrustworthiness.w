@@ -1,1 +1,1 @@
-{"index": 353431, "D": [], "S": ["discrepancy ", "disparity ", "doubtfulness ", "forswearing ", "inconsistency ", "perjury ", "question ", "unreliability ", "untruthfulness "], "A": []}
+{"index": 353431, "D": [], "S": ["discrepancy", "disparity", "doubtfulness", "forswearing", "inconsistency", "perjury", "question", "unreliability", "untruthfulness"], "A": []}

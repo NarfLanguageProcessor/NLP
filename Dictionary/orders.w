@@ -1,1 +1,1 @@
-{"index": 214231, "D": "short for holy orders", "S": ["minister's rank ", "priest's rank ", "rite of ordination ", "sacraments "], "A": []}
+{"index": 214231, "D": "short for holy orders", "S": ["minister's rank", "priest's rank", "rite of ordination", "sacraments"], "A": []}

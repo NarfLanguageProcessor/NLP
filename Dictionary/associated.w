@@ -1,1 +1,1 @@
-{"index": 21864, "D": "connected with something else so as to exist or occur along with it; accompanying or corresponding (often used in combination)", "S": ["identical "], "A": ["different ", "dissimilar ", "unlike "]}
+{"index": 21864, "D": "connected with something else so as to exist or occur along with it; accompanying or corresponding (often used in combination)", "S": ["identical"], "A": ["different", "dissimilar", "unlike"]}

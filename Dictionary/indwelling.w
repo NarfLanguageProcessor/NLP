@@ -1,1 +1,1 @@
-{"index": 151440, "D": [], "S": ["complete ", "ingrained ", "inherited ", "utter "], "A": ["incomplete "]}
+{"index": 151440, "D": [], "S": ["complete", "ingrained", "inherited", "utter"], "A": ["incomplete"]}

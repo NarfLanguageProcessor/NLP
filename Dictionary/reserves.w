@@ -1,1 +1,1 @@
-{"index": 269244, "D": "to keep back or save for future use, disposal, treatment, etc.", "S": ["armed forces ", "army ", "battalion ", "guard ", "patrol ", "squad ", "troop ", "unit "], "A": ["connection "]}
+{"index": 269244, "D": "to keep back or save for future use, disposal, treatment, etc.", "S": ["armed forces", "army", "battalion", "guard", "patrol", "squad", "troop", "unit"], "A": ["connection"]}

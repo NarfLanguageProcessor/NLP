@@ -1,1 +1,1 @@
-{"index": 152743, "D": "to bury; inter.", "S": ["deposit ", "embalm ", "enshrine ", "entomb ", "inter ", "lay ", "mummify ", "plant "], "A": []}
+{"index": 152743, "D": "to bury; inter.", "S": ["deposit", "embalm", "enshrine", "entomb", "inter", "lay", "mummify", "plant"], "A": []}

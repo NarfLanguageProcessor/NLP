@@ -1,1 +1,1 @@
-{"index": 326459, "D": "something that is total  or constitutes a total;  the total  amount; a whole.", "S": ["completeness ", "sum ", "whole "], "A": ["part "]}
+{"index": 326459, "D": "something that is total  or constitutes a total;  the total  amount; a whole.", "S": ["completeness", "sum", "whole"], "A": ["part"]}

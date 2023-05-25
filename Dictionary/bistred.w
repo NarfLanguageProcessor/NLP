@@ -1,1 +1,1 @@
-{"index": 35136, "D": "a brown pigment extracted from the soot of wood, often used in pen and wash drawings.", "S": ["brunet ", "dusky ", "yellowish-brown "], "A": []}
+{"index": 35136, "D": "a brown pigment extracted from the soot of wood, often used in pen and wash drawings.", "S": ["brunet", "dusky", "yellowish-brown"], "A": []}

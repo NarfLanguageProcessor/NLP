@@ -1,1 +1,1 @@
-{"index": 72565, "D": "the act or practice of following someone persistently or stealthily, especially online", "S": ["dragging "], "A": ["standing ", "upright ", "vertical "]}
+{"index": 72565, "D": "the act or practice of following someone persistently or stealthily, especially online", "S": ["dragging"], "A": ["standing", "upright", "vertical"]}

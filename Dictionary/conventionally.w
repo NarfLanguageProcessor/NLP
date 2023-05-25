@@ -1,1 +1,1 @@
-{"index": 67984, "D": "conforming or adhering to accepted standards, as of conduct or taste", "S": ["commonly ", "consistently ", "generally ", "habitually ", "normally ", "routinely ", "traditionally "], "A": ["differently ", "divergently ", "occasionally ", "rarely ", "sometimes "]}
+{"index": 67984, "D": "conforming or adhering to accepted standards, as of conduct or taste", "S": ["commonly", "consistently", "generally", "habitually", "normally", "routinely", "traditionally"], "A": ["differently", "divergently", "occasionally", "rarely", "sometimes"]}

@@ -1,1 +1,1 @@
-{"index": 123540, "D": "pertaining or according to genetics. ", "S": ["ancestral ", "hereditary ", "historical "], "A": ["acquired "]}
+{"index": 123540, "D": "pertaining or according to genetics. ", "S": ["ancestral", "hereditary", "historical"], "A": ["acquired"]}

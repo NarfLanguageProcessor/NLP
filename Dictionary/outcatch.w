@@ -1,1 +1,0 @@
-{"index": 216347, "D": "to seize or capture, especially after pursuit", "S": [], "A": []}

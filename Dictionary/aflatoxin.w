@@ -1,0 +1,1 @@
+{"index": 5543, "D": "any of various related mycotoxins produced by a species of Aspergillus, commonly A. flavus, found as a contaminant in moldy grains and meals, as in rice and peanut meal, and suspected of causing liver cancer in humans and other animals.", "S": [], "A": []}

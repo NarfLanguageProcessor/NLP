@@ -1,1 +1,1 @@
-{"index": 300306, "D": "to spread out, expand, or extend.", "S": ["hulking ", "ungainly ", "unwieldy "], "A": ["agile ", "gliding ", "lithe "]}
+{"index": 300306, "D": "to spread out, expand, or extend.", "S": ["hulking", "ungainly", "unwieldy"], "A": ["agile", "gliding", "lithe"]}

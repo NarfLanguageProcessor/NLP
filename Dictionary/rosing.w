@@ -1,1 +1,1 @@
-{"index": 274539, "D": "Compare rose family. ", "S": ["bloody ", "color ", "crimson ", "dye ", "flush ", "glow ", "incarnadine ", "mantle ", "paint ", "pink ", "rose ", "rouge ", "rubify ", "rubric ", "rubricate ", "ruddle ", "rust ", "suffuse ", "tint "], "A": ["pale ", "whiten "]}
+{"index": 274539, "D": "Compare rose family. ", "S": ["bloody", "color", "crimson", "dye", "flush", "glow", "incarnadine", "mantle", "paint", "pink", "rose", "rouge", "rubify", "rubric", "rubricate", "ruddle", "rust", "suffuse", "tint"], "A": ["pale", "whiten"]}

@@ -1,1 +1,1 @@
-{"index": 188880, "D": "consisting of members or elements of different kinds; of mixed character", "S": ["sundry "], "A": ["alone ", "lone ", "simple ", "single ", "singular "]}
+{"index": 188880, "D": "consisting of members or elements of different kinds; of mixed character", "S": ["sundry"], "A": ["alone", "lone", "simple", "single", "singular"]}

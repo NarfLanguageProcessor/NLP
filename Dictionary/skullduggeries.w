@@ -1,1 +1,1 @@
-{"index": 293497, "D": "dishonorable proceedings; mean dishonesty or trickery", "S": ["chicanery ", "trickery "], "A": []}
+{"index": 293497, "D": "dishonorable proceedings; mean dishonesty or trickery", "S": ["chicanery", "trickery"], "A": []}

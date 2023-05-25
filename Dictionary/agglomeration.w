@@ -1,0 +1,1 @@
+{"index": 6057, "D": "a jumbled cluster or mass of varied parts.", "S": ["cluster", "heap", "jumble", "load", "mass", "pile"], "A": []}

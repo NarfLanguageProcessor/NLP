@@ -1,1 +1,1 @@
-{"index": 134833, "D": "crushed with sorrow or grief.", "S": ["acutely ", "badly ", "greatly ", "sadly ", "severely ", "woefully "], "A": []}
+{"index": 134833, "D": "crushed with sorrow or grief.", "S": ["acutely", "badly", "greatly", "sadly", "severely", "woefully"], "A": []}

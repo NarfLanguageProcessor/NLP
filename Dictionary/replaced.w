@@ -1,1 +1,1 @@
-{"index": 268234, "D": "to assume the former role, position, or function of; substitute for (a person or thing)", "S": ["recovered ", "regained ", "reinstated ", "reintegrated ", "restored ", "retrieved "], "A": []}
+{"index": 268234, "D": "to assume the former role, position, or function of; substitute for (a person or thing)", "S": ["recovered", "regained", "reinstated", "reintegrated", "restored", "retrieved"], "A": []}

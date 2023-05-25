@@ -1,1 +1,1 @@
-{"index": 256487, "D": "cougar. ", "S": ["catamount ", "cougar ", "panther "], "A": []}
+{"index": 256487, "D": "cougar. ", "S": ["catamount", "cougar", "panther"], "A": []}

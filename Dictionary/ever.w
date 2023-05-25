@@ -1,1 +1,1 @@
-{"index": 106143, "D": "at all times; always", "S": ["consistently ", "constantly ", "continually ", "forever ", "regularly ", "usually "], "A": []}
+{"index": 106143, "D": "at all times; always", "S": ["consistently", "constantly", "continually", "forever", "regularly", "usually"], "A": []}

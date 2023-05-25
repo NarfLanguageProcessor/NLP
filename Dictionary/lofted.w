@@ -1,1 +1,1 @@
-{"index": 174534, "D": "a room, storage area, or the like within a sloping roof; attic; garret.", "S": ["begun ", "floated ", "sent "], "A": []}
+{"index": 174534, "D": "a room, storage area, or the like within a sloping roof; attic; garret.", "S": ["begun", "floated", "sent"], "A": []}

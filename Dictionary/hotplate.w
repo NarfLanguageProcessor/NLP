@@ -1,1 +1,1 @@
-{"index": 144300, "D": "a portable appliance for cooking, formerly heated by a gas burner placed underneath it, now heated chiefly by an electrical unit in the appliance.", "S": ["portable stove ", "warmer "], "A": []}
+{"index": 144300, "D": "a portable appliance for cooking, formerly heated by a gas burner placed underneath it, now heated chiefly by an electrical unit in the appliance.", "S": ["portable stove", "warmer"], "A": []}

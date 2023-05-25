@@ -1,1 +1,1 @@
-{"index": 320082, "D": "a series of four related dramas, operas, novels, etc.", "S": ["quadrivium ", "quadrumvirate ", "quadruple ", "quadruplet ", "quadruplets ", "quartet ", "quartette ", "quaternary ", "quaternion ", "quaternity ", "tetrad "], "A": []}
+{"index": 320082, "D": "a series of four related dramas, operas, novels, etc.", "S": ["quadrivium", "quadrumvirate", "quadruple", "quadruplet", "quadruplets", "quartet", "quartette", "quaternary", "quaternion", "quaternity", "tetrad"], "A": []}

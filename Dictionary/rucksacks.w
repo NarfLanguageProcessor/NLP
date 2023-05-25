@@ -1,1 +1,1 @@
-{"index": 275255, "D": "a type of knapsack carried by hikers, bicyclists, etc.", "S": ["knapsack "], "A": []}
+{"index": 275255, "D": "a type of knapsack carried by hikers, bicyclists, etc.", "S": ["knapsack"], "A": []}

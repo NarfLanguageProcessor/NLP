@@ -1,1 +1,1 @@
-{"index": 286420, "D": "a person employed by another, especially to perform domestic duties.", "S": ["assistant ", "attendant ", "helper ", "slave "], "A": ["master "]}
+{"index": 286420, "D": "a person employed by another, especially to perform domestic duties.", "S": ["assistant", "attendant", "helper", "slave"], "A": ["master"]}

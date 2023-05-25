@@ -1,1 +1,0 @@
-{"index": 217841, "D": "to outdo or defeat in voting", "S": ["opposition "], "A": ["majority "]}

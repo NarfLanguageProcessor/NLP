@@ -1,1 +1,1 @@
-{"index": 344586, "D": "to begin, set going, or originate", "S": ["amateur ", "green ", "innocent ", "kid ", "prentice ", "raw ", "rookie ", "tenderfoot ", "young "], "A": ["experienced ", "old "]}
+{"index": 344586, "D": "to begin, set going, or originate", "S": ["amateur", "green", "innocent", "kid", "prentice", "raw", "rookie", "tenderfoot", "young"], "A": ["experienced", "old"]}

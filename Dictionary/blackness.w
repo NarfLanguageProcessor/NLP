@@ -1,1 +1,1 @@
-{"index": 35554, "D": "the quality or state of being black. ", "S": ["dark ", "dimness ", "duskiness ", "gloom ", "murkiness ", "nightfall "], "A": ["brightness ", "light "]}
+{"index": 35554, "D": "the quality or state of being black. ", "S": ["dark", "dimness", "duskiness", "gloom", "murkiness", "nightfall"], "A": ["brightness", "light"]}

@@ -1,1 +1,1 @@
-{"index": 240431, "D": [], "S": ["perpendicular ", "vertical "], "A": ["horizontal ", "prone "]}
+{"index": 240431, "D": [], "S": ["perpendicular", "vertical"], "A": ["horizontal", "prone"]}

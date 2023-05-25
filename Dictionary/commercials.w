@@ -1,1 +1,1 @@
-{"index": 64027, "D": "of, relating to, or characteristic of commerce.", "S": ["advertorial ", "commercial ", "demonstration ", "infotainment "], "A": []}
+{"index": 64027, "D": "of, relating to, or characteristic of commerce.", "S": ["advertorial", "commercial", "demonstration", "infotainment"], "A": []}

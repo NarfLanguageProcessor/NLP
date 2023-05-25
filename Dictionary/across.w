@@ -1,1 +1,1 @@
-{"index": 3037, "D": "from one side to the other of", "S": ["astride ", "athwart ", "beyond ", "over "], "A": []}
+{"index": 3037, "D": "from one side to the other of", "S": ["astride", "athwart", "beyond", "over"], "A": []}

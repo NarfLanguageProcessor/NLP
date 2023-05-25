@@ -1,1 +1,1 @@
-{"index": 13794, "D": "in a short time; soon.", "S": ["afterward ", "again ", "directly ", "ere long ", "immediately ", "presently ", "shortly ", "soon ", "then ", "tomorrow "], "A": []}
+{"index": 13794, "D": "in a short time; soon.", "S": ["afterward", "again", "directly", "ere long", "immediately", "presently", "shortly", "soon", "then", "tomorrow"], "A": []}

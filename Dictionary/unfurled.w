@@ -1,1 +1,0 @@
-{"index": 342838, "D": "to spread or shake out from a furled  state, as a sail or a flag; unfold.", "S": ["continued ", "drawn-out ", "lengthy ", "protracted "], "A": ["abbreviated ", "abridged ", "compressed ", "condensed ", "contracted ", "curtailed ", "cut ", "lessened ", "narrow ", "reduced ", "shortened "]}

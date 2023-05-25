@@ -1,1 +1,1 @@
-{"index": 123371, "D": "the science dealing with natural and artificial gemstones.", "S": ["goldsmith ", "horologist ", "lapidary ", "silversmith ", "watchmaker "], "A": []}
+{"index": 123371, "D": "the science dealing with natural and artificial gemstones.", "S": ["goldsmith", "horologist", "lapidary", "silversmith", "watchmaker"], "A": []}

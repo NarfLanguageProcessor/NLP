@@ -1,1 +1,1 @@
-{"index": 184676, "D": "a person who works the land using tools, seed, etc., furnished by the landlord and who receives a share of the harvest in compensation.", "S": ["crofter ", "peasant farmer ", "sharecropper "], "A": []}
+{"index": 184676, "D": "a person who works the land using tools, seed, etc., furnished by the landlord and who receives a share of the harvest in compensation.", "S": ["crofter", "peasant farmer", "sharecropper"], "A": []}

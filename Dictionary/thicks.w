@@ -1,1 +1,1 @@
-{"index": 321710, "D": "having relatively great extent from one surface or side to the opposite; not thin", "S": ["heart ", "midst "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 321710, "D": "having relatively great extent from one surface or side to the opposite; not thin", "S": ["heart", "midst"], "A": ["exterior", "exteriority", "outside"]}

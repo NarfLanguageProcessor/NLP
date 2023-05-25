@@ -1,1 +1,1 @@
-{"index": 133624, "D": "(of an egg) boiled  in the shell long enough for the yolk and white to solidify.", "S": ["crass ", "heartless ", "uncaring ", "unkind ", "unresponsive "], "A": ["considerate ", "kind ", "nice "]}
+{"index": 133624, "D": "(of an egg) boiled  in the shell long enough for the yolk and white to solidify.", "S": ["crass", "heartless", "uncaring", "unkind", "unresponsive"], "A": ["considerate", "kind", "nice"]}

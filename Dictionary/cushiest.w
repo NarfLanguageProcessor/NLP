@@ -1,1 +1,1 @@
-{"index": 75630, "D": "involving little effort for ample rewards; easy and profitable", "S": ["comfy "], "A": []}
+{"index": 75630, "D": "involving little effort for ample rewards; easy and profitable", "S": ["comfy"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 238826, "D": [], "S": ["crown ", "showdown ", "tournament "], "A": []}

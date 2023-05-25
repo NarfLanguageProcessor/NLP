@@ -1,1 +1,0 @@
-{"index": 229333, "D": "a small, rounded or spherical body, as of food or medicine.", "S": ["bullet ", "pill "], "A": []}

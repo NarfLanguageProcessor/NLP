@@ -1,1 +1,1 @@
-{"index": 107164, "D": "to enliven; invigorate; stimulate", "S": ["animated ", "intoxicated "], "A": ["depressed "]}
+{"index": 107164, "D": "to enliven; invigorate; stimulate", "S": ["animated", "intoxicated"], "A": ["depressed"]}

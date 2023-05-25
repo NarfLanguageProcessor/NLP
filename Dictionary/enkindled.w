@@ -1,1 +1,1 @@
-{"index": 100625, "D": "to kindle  into flame, ardor, activity, etc.", "S": ["fiery ", "flaming ", "gleaming ", "glowing ", "hot ", "scorching ", "searing "], "A": ["cold ", "cool "]}
+{"index": 100625, "D": "to kindle  into flame, ardor, activity, etc.", "S": ["fiery", "flaming", "gleaming", "glowing", "hot", "scorching", "searing"], "A": ["cold", "cool"]}

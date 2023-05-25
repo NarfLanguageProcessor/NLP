@@ -1,1 +1,1 @@
-{"index": 318256, "D": "sensation or perception received at a distance without the normal operation of the recognized sense organs.", "S": ["ESP ", "clairvoyance ", "insight ", "parapsychology ", "premonition ", "presentiment ", "spiritualism "], "A": []}
+{"index": 318256, "D": "sensation or perception received at a distance without the normal operation of the recognized sense organs.", "S": ["ESP", "clairvoyance", "insight", "parapsychology", "premonition", "presentiment", "spiritualism"], "A": []}

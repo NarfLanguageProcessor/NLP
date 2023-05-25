@@ -1,1 +1,1 @@
-{"index": 326034, "D": "a rocky pinnacle; a peak of a bare or rocky mountain or hill.", "S": ["bluff ", "cliff ", "dune ", "highland ", "hillside ", "hilltop ", "ridge ", "slope "], "A": ["bottom ", "decline ", "depression ", "nadir "]}
+{"index": 326034, "D": "a rocky pinnacle; a peak of a bare or rocky mountain or hill.", "S": ["bluff", "cliff", "dune", "highland", "hillside", "hilltop", "ridge", "slope"], "A": ["bottom", "decline", "depression", "nadir"]}

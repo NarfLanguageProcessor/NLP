@@ -1,1 +1,1 @@
-{"index": 121919, "D": "necrosis or death of soft tissue due to obstructed circulation, usually followed by decomposition and putrefaction.", "S": ["addled ", "ruined ", "withered "], "A": ["developing ", "flourishing ", "germinating ", "growing ", "improving ", "ripening "]}
+{"index": 121919, "D": "necrosis or death of soft tissue due to obstructed circulation, usually followed by decomposition and putrefaction.", "S": ["addled", "ruined", "withered"], "A": ["developing", "flourishing", "germinating", "growing", "improving", "ripening"]}

@@ -1,1 +1,1 @@
-{"index": 315153, "D": "a small child, especially a boy.", "S": ["babe ", "chick ", "child ", "kid ", "toddler ", "youngster "], "A": ["adult "]}
+{"index": 315153, "D": "a small child, especially a boy.", "S": ["babe", "chick", "child", "kid", "toddler", "youngster"], "A": ["adult"]}

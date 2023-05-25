@@ -1,1 +1,1 @@
-{"index": 78781, "D": "the name given to various collections of canon law, esp that made by the monk Gratian in the 12th century, which forms the first part of the Corpus Juris Canonici", "S": ["precept ", "tenet "], "A": ["disorganization ", "lawlessness ", "unbelief "]}
+{"index": 78781, "D": "the name given to various collections of canon law, esp that made by the monk Gratian in the 12th century, which forms the first part of the Corpus Juris Canonici", "S": ["precept", "tenet"], "A": ["disorganization", "lawlessness", "unbelief"]}

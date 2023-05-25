@@ -1,1 +1,1 @@
-{"index": 331324, "D": "an expert in discovering and eliminating the cause of problems or malfunctions in software, mechanical equipment, power lines, etc.", "S": ["mender ", "technician "], "A": []}
+{"index": 331324, "D": "an expert in discovering and eliminating the cause of problems or malfunctions in software, mechanical equipment, power lines, etc.", "S": ["mender", "technician"], "A": []}

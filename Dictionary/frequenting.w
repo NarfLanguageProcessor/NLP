@@ -1,1 +1,1 @@
-{"index": 118790, "D": "happening or occurring at short intervals", "S": ["cooperation ", "partnership "], "A": ["aloofness ", "disagreement ", "ignorance ", "incompatibility ", "strangeness ", "unfamiliarity "]}
+{"index": 118790, "D": "happening or occurring at short intervals", "S": ["cooperation", "partnership"], "A": ["aloofness", "disagreement", "ignorance", "incompatibility", "strangeness", "unfamiliarity"]}

@@ -1,1 +1,1 @@
-{"index": 116178, "D": "a place or support for the feet;  a place where a person may stand or walk securely.", "S": ["footing ", "niche ", "perch ", "toehold "], "A": []}
+{"index": 116178, "D": "a place or support for the feet;  a place where a person may stand or walk securely.", "S": ["footing", "niche", "perch", "toehold"], "A": []}

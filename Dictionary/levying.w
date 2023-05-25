@@ -1,1 +1,1 @@
-{"index": 171245, "D": "an imposing or collecting, as of a tax, by authority or force.", "S": ["burden ", "duty ", "excise ", "fee ", "tariff "], "A": []}
+{"index": 171245, "D": "an imposing or collecting, as of a tax, by authority or force.", "S": ["burden", "duty", "excise", "fee", "tariff"], "A": []}

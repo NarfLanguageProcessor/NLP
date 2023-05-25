@@ -1,1 +1,1 @@
-{"index": 135139, "D": "characterized by intense agitation, excitement, confused and rapid movement, etc.", "S": ["desperately ", "excitedly ", "madly ", "uncontrollably ", "wildly "], "A": ["calmly "]}
+{"index": 135139, "D": "characterized by intense agitation, excitement, confused and rapid movement, etc.", "S": ["desperately", "excitedly", "madly", "uncontrollably", "wildly"], "A": ["calmly"]}

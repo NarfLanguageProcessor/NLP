@@ -1,1 +1,1 @@
-{"index": 97772, "D": "the practice or art of using language with fluency and aptness.", "S": ["expressiveness ", "fervor ", "fluency ", "passion ", "poise ", "vigor ", "wit "], "A": ["impotence ", "inability ", "incompetence ", "weakness "]}
+{"index": 97772, "D": "the practice or art of using language with fluency and aptness.", "S": ["expressiveness", "fervor", "fluency", "passion", "poise", "vigor", "wit"], "A": ["impotence", "inability", "incompetence", "weakness"]}

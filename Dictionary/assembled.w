@@ -1,1 +1,1 @@
-{"index": 21648, "D": "noting an artificial gem formed of two or more parts, as a doublet or triplet, at least one of which is a true gemstone.", "S": ["massed "], "A": ["dismantled "]}
+{"index": 21648, "D": "noting an artificial gem formed of two or more parts, as a doublet or triplet, at least one of which is a true gemstone.", "S": ["massed"], "A": ["dismantled"]}

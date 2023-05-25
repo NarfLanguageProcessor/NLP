@@ -1,1 +1,0 @@
-{"index": 277833, "D": " two or more slices of bread with a layer of meat, fish, cheese, etc., between them", "S": ["BLT ", "Reuben ", "hero ", "hoagy ", "sub "], "A": []}

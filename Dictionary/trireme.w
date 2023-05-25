@@ -1,1 +1,1 @@
-{"index": 330530, "D": "a galley with three rows or tiers of oars on each side, one above another, used chiefly as a warship.", "S": ["dinghy ", "galleon ", "rowboat ", "tender "], "A": []}
+{"index": 330530, "D": "a galley with three rows or tiers of oars on each side, one above another, used chiefly as a warship.", "S": ["dinghy", "galleon", "rowboat", "tender"], "A": []}

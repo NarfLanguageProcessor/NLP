@@ -1,1 +1,1 @@
-{"index": 324919, "D": "sliced bread that has been browned by dry heat.", "S": ["salute ", "tribute "], "A": ["censure ", "denunciation "]}
+{"index": 324919, "D": "sliced bread that has been browned by dry heat.", "S": ["salute", "tribute"], "A": ["censure", "denunciation"]}

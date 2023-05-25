@@ -1,1 +1,1 @@
-{"index": 168118, "D": "a body of words and the systems for their use common to a people who are of the same community or nation, the same geographical area, or the same cultural tradition", "S": ["arts ", "belles-lettres ", "letters ", "philosophy "], "A": []}
+{"index": 168118, "D": "a body of words and the systems for their use common to a people who are of the same community or nation, the same geographical area, or the same cultural tradition", "S": ["arts", "belles-lettres", "letters", "philosophy"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 364333, "D": "exhausted; tired out.", "S": ["blip ", "blow ", "pat ", "punch ", "whack "], "A": []}

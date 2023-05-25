@@ -1,1 +1,1 @@
-{"index": 156314, "D": "intended to frighten someone or to force or stop someone\u2019s action through fear", "S": ["aggressive ", "frightening ", "terrifying "], "A": []}
+{"index": 156314, "D": "intended to frighten someone or to force or stop someone\u2019s action through fear", "S": ["aggressive", "frightening", "terrifying"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 289074, "D": "a brief fall of rain or, sometimes, of hail or snow.", "S": ["deluge ", "drizzle ", "flood ", "hail ", "mist ", "monsoon ", "precipitation ", "rainfall ", "rainstorm ", "shower ", "sleet ", "stream ", "torrent "], "A": ["aridity ", "dryness "]}
+{"index": 289074, "D": "a brief fall of rain or, sometimes, of hail or snow.", "S": ["deluge", "drizzle", "flood", "hail", "mist", "monsoon", "precipitation", "rainfall", "rainstorm", "shower", "sleet", "stream", "torrent"], "A": ["aridity", "dryness"]}

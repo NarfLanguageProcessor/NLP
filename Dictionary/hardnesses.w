@@ -1,1 +1,1 @@
-{"index": 133689, "D": "the state or quality of being hard", "S": ["firmness "], "A": ["doubt ", "instability ", "spinelessness ", "uncertainty ", "weakness "]}
+{"index": 133689, "D": "the state or quality of being hard", "S": ["firmness"], "A": ["doubt", "instability", "spinelessness", "uncertainty", "weakness"]}

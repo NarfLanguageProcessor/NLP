@@ -1,1 +1,1 @@
-{"index": 353693, "D": "to remove a veil  or other covering from; display; reveal", "S": ["disclose ", "display ", "open ", "tell "], "A": ["conceal ", "cover ", "hide ", "secrete ", "withhold ", "protect "]}
+{"index": 353693, "D": "to remove a veil  or other covering from; display; reveal", "S": ["disclose", "display", "open", "tell"], "A": ["conceal", "cover", "hide", "secrete", "withhold", "protect"]}

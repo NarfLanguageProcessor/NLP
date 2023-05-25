@@ -1,1 +1,1 @@
-{"index": 10142, "D": "to walk about or move from place to place.", "S": ["amble ", "foot ", "pace ", "perambulate ", "step ", "traipse ", "walk "], "A": ["run "]}
+{"index": 10142, "D": "to walk about or move from place to place.", "S": ["amble", "foot", "pace", "perambulate", "step", "traipse", "walk"], "A": ["run"]}

@@ -1,1 +1,1 @@
-{"index": 70569, "D": "a member of a council,  especially the local legislative body of a city.", "S": ["legislator "], "A": []}
+{"index": 70569, "D": "a member of a council,  especially the local legislative body of a city.", "S": ["legislator"], "A": []}

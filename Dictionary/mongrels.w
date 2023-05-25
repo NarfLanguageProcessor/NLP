@@ -1,1 +1,1 @@
-{"index": 191955, "D": "a dog of mixed or indeterminate breed.", "S": ["cross ", "crossbreed ", "cur ", "hybrid ", "mixture ", "mule ", "mutt "], "A": []}
+{"index": 191955, "D": "a dog of mixed or indeterminate breed.", "S": ["cross", "crossbreed", "cur", "hybrid", "mixture", "mule", "mutt"], "A": []}

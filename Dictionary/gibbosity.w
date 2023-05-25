@@ -1,1 +1,1 @@
-{"index": 124679, "D": "the state of being gibbous. ", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}
+{"index": 124679, "D": "the state of being gibbous. ", "S": ["lump", "nodule", "wart"], "A": ["depression"]}

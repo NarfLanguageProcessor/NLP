@@ -1,1 +1,0 @@
-{"index": 190841, "D": "Compare crossjack, spanker (def. 1a). ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64395, "D": "capable of being compared;  having features in common with something else to permit or suggest comparison", "S": ["commensurate ", "equal ", "proportionate ", "tantamount "], "A": ["different "]}
+{"index": 64395, "D": "capable of being compared;  having features in common with something else to permit or suggest comparison", "S": ["commensurate", "equal", "proportionate", "tantamount"], "A": ["different"]}

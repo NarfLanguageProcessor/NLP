@@ -1,1 +1,1 @@
-{"index": 95724, "D": "nervously irritable; impatient and anxious.", "S": ["anger ", "annoyance ", "anxiety ", "eagerness ", "excitement ", "nervousness ", "restlessness ", "uneasiness "], "A": ["apathy ", "calm ", "calmness ", "contentment ", "enjoyment ", "happiness ", "joy ", "peace "]}
+{"index": 95724, "D": "nervously irritable; impatient and anxious.", "S": ["anger", "annoyance", "anxiety", "eagerness", "excitement", "nervousness", "restlessness", "uneasiness"], "A": ["apathy", "calm", "calmness", "contentment", "enjoyment", "happiness", "joy", "peace"]}

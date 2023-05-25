@@ -1,1 +1,1 @@
-{"index": 310072, "D": "to institute a process in law against; bring a civil action  against", "S": ["accuser ", "claimant ", "plaintiff "], "A": []}
+{"index": 310072, "D": "to institute a process in law against; bring a civil action  against", "S": ["accuser", "claimant", "plaintiff"], "A": []}

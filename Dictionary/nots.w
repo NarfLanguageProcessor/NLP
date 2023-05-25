@@ -1,1 +1,1 @@
-{"index": 209011, "D": "(used to express negation, denial, refusal, or prohibition)", "S": ["nay ", "nix "], "A": []}
+{"index": 209011, "D": "(used to express negation, denial, refusal, or prohibition)", "S": ["nay", "nix"], "A": []}

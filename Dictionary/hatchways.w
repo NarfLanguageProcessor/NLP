@@ -1,1 +1,1 @@
-{"index": 134215, "D": "hatch2 (def. 1a). ", "S": ["hatch ", "scuttle "], "A": []}
+{"index": 134215, "D": "hatch2 (def. 1a). ", "S": ["hatch", "scuttle"], "A": []}

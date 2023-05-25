@@ -1,1 +1,1 @@
-{"index": 190010, "D": "to fail to hit or strike", "S": ["misplaced "], "A": ["existing "]}
+{"index": 190010, "D": "to fail to hit or strike", "S": ["misplaced"], "A": ["existing"]}

@@ -1,1 +1,1 @@
-{"index": 252199, "D": "the act of prolonging", "S": ["continuation "], "A": ["decrease ", "lessening ", "shortening ", "shrinkage ", "stagnation ", "subtraction "]}
+{"index": 252199, "D": "the act of prolonging", "S": ["continuation"], "A": ["decrease", "lessening", "shortening", "shrinkage", "stagnation", "subtraction"]}

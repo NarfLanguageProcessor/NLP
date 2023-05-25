@@ -1,1 +1,1 @@
-{"index": 117492, "D": "made according to a formula;  composed of formulas", "S": ["conventional "], "A": []}
+{"index": 117492, "D": "made according to a formula;  composed of formulas", "S": ["conventional"], "A": []}

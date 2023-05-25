@@ -1,1 +1,1 @@
-{"index": 63667, "D": "made by combining;  joined; united, as in a chemical compound.", "S": ["connected ", "mixed ", "united "], "A": ["uncombined "]}
+{"index": 63667, "D": "made by combining;  joined; united, as in a chemical compound.", "S": ["connected", "mixed", "united"], "A": ["uncombined"]}

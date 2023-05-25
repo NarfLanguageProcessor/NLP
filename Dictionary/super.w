@@ -1,1 +1,1 @@
-{"index": 311250, "D": "supervisor. ", "S": ["great ", "magnificent ", "marvelous ", "outstanding ", "sensational ", "superb ", "terrific ", "topnotch "], "A": ["inferior ", "insignificant ", "ordinary ", "poor ", "unexceptional "]}
+{"index": 311250, "D": "supervisor. ", "S": ["great", "magnificent", "marvelous", "outstanding", "sensational", "superb", "terrific", "topnotch"], "A": ["inferior", "insignificant", "ordinary", "poor", "unexceptional"]}

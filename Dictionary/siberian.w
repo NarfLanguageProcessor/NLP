@@ -1,1 +1,1 @@
-{"index": 289507, "D": "of or relating to Siberia or its inhabitants", "S": ["bitter ", "bleak ", "brisk ", "chilled ", "cool ", "crisp ", "frigid ", "frosty ", "frozen ", "icy ", "intense ", "raw ", "snowy ", "wintry "], "A": ["hot ", "mild ", "nice ", "pleasant ", "temperate ", "warm "]}
+{"index": 289507, "D": "of or relating to Siberia or its inhabitants", "S": ["bitter", "bleak", "brisk", "chilled", "cool", "crisp", "frigid", "frosty", "frozen", "icy", "intense", "raw", "snowy", "wintry"], "A": ["hot", "mild", "nice", "pleasant", "temperate", "warm"]}

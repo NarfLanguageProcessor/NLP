@@ -1,1 +1,1 @@
-{"index": 269902, "D": "giving or conducive to rest. ", "S": ["relaxed ", "relaxing ", "serene ", "tranquil "], "A": []}
+{"index": 269902, "D": "giving or conducive to rest. ", "S": ["relaxed", "relaxing", "serene", "tranquil"], "A": []}

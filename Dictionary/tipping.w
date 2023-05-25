@@ -1,1 +1,1 @@
-{"index": 324364, "D": "a slender or pointed end or extremity, especially of anything long or tapered", "S": ["bent ", "diagonal ", "inclining ", "sideway ", "sideways ", "sidewise "], "A": []}
+{"index": 324364, "D": "a slender or pointed end or extremity, especially of anything long or tapered", "S": ["bent", "diagonal", "inclining", "sideway", "sideways", "sidewise"], "A": []}

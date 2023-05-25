@@ -1,0 +1,1 @@
+{"index": 6029, "D": "any of several composite plants of the genus Ageratum, especially A. houstonianum, having heart-shaped leaves and small, dense, blue, lavender, or white flower heads, often grown in gardens.", "S": [], "A": []}

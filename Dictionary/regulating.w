@@ -1,1 +1,1 @@
-{"index": 265886, "D": "to control or direct by a rule, principle, method, etc.", "S": ["governing ", "supervising "], "A": []}
+{"index": 265886, "D": "to control or direct by a rule, principle, method, etc.", "S": ["governing", "supervising"], "A": []}

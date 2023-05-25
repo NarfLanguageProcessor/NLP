@@ -1,1 +1,1 @@
-{"index": 21585, "D": "to attack vigorously or violently; assault. ", "S": ["aggression ", "assailing ", "assault ", "charge ", "invasion ", "offense ", "offensive ", "onslaught ", "strike "], "A": []}
+{"index": 21585, "D": "to attack vigorously or violently; assault. ", "S": ["aggression", "assailing", "assault", "charge", "invasion", "offense", "offensive", "onslaught", "strike"], "A": []}

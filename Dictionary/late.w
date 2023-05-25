@@ -1,1 +1,1 @@
-{"index": 168810, "D": "occurring, coming, or being after the usual or proper time", "S": ["last-minute ", "slow "], "A": ["antique ", "early ", "live ", "old ", "old-fashioned ", "on time ", "prompt ", "punctual "]}
+{"index": 168810, "D": "occurring, coming, or being after the usual or proper time", "S": ["last-minute", "slow"], "A": ["antique", "early", "live", "old", "old-fashioned", "on time", "prompt", "punctual"]}

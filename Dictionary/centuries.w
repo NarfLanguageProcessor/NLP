@@ -1,1 +1,1 @@
-{"index": 51072, "D": "a period of 100 years.", "S": ["age ", "day ", "hour ", "moment ", "period ", "stage ", "term ", "time ", "year "], "A": []}
+{"index": 51072, "D": "a period of 100 years.", "S": ["age", "day", "hour", "moment", "period", "stage", "term", "time", "year"], "A": []}

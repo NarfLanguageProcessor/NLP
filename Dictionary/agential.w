@@ -1,0 +1,1 @@
+{"index": 6017, "D": "pertaining to an agent  or agency. ", "S": [], "A": []}

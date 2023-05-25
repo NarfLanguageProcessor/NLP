@@ -1,1 +1,1 @@
-{"index": 289690, "D": "a self-seeking, servile flatterer; fawning parasite.", "S": ["subserviently "], "A": []}
+{"index": 289690, "D": "a self-seeking, servile flatterer; fawning parasite.", "S": ["subserviently"], "A": []}

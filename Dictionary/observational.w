@@ -1,1 +1,1 @@
-{"index": 210391, "D": "of, relating to, or founded on observation,  especially founded on observation  rather than experiment.", "S": ["experimental ", "factual "], "A": ["conjectural ", "hypothetical ", "impractical ", "theoretic ", "theoretical ", "unobserved ", "unproved "]}
+{"index": 210391, "D": "of, relating to, or founded on observation,  especially founded on observation  rather than experiment.", "S": ["experimental", "factual"], "A": ["conjectural", "hypothetical", "impractical", "theoretic", "theoretical", "unobserved", "unproved"]}

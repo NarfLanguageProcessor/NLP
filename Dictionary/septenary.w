@@ -1,1 +1,1 @@
-{"index": 285675, "D": "of or relating to the number seven or forming a group of seven.", "S": ["septemviral ", "septennial ", "septuple "], "A": []}
+{"index": 285675, "D": "of or relating to the number seven or forming a group of seven.", "S": ["septemviral", "septennial", "septuple"], "A": []}

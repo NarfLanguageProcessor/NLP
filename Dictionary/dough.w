@@ -1,1 +1,1 @@
-{"index": 92033, "D": "flour or meal combined with water, milk, etc., in a mass for baking into bread, cake, etc.; paste of bread.", "S": ["bread ", "cabbage ", "lettuce "], "A": []}
+{"index": 92033, "D": "flour or meal combined with water, milk, etc., in a mass for baking into bread, cake, etc.; paste of bread.", "S": ["bread", "cabbage", "lettuce"], "A": []}

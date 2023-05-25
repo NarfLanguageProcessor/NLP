@@ -1,1 +1,1 @@
-{"index": 11787, "D": "a similarity between like features of two things, on which a comparison may be based", "S": ["comparison ", "correlation ", "metaphor ", "parallel "], "A": ["difference ", "dissimilarity ", "unlikeness "]}
+{"index": 11787, "D": "a similarity between like features of two things, on which a comparison may be based", "S": ["comparison", "correlation", "metaphor", "parallel"], "A": ["difference", "dissimilarity", "unlikeness"]}

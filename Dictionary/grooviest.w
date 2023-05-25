@@ -1,1 +1,1 @@
-{"index": 130208, "D": "highly stimulating or attractive; excellent", "S": ["fabulous ", "far-out ", "neat ", "nifty "], "A": []}
+{"index": 130208, "D": "highly stimulating or attractive; excellent", "S": ["fabulous", "far-out", "neat", "nifty"], "A": []}

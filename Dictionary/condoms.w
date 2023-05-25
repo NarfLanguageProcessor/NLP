@@ -1,1 +1,1 @@
-{"index": 65660, "D": "a thin sheath, usually of very thin rubber, worn over the penis during sexual intercourse to prevent conception or sexually transmitted disease.", "S": ["contraceptive "], "A": []}
+{"index": 65660, "D": "a thin sheath, usually of very thin rubber, worn over the penis during sexual intercourse to prevent conception or sexually transmitted disease.", "S": ["contraceptive"], "A": []}

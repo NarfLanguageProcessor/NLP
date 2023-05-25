@@ -1,1 +1,1 @@
-{"index": 248686, "D": "to ordain  beforehand; foreordain.", "S": ["destined ", "doomed ", "foreordained ", "impending ", "predestined ", "predetermined "], "A": []}
+{"index": 248686, "D": "to ordain  beforehand; foreordain.", "S": ["destined", "doomed", "foreordained", "impending", "predestined", "predetermined"], "A": []}

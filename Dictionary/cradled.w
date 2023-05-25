@@ -1,1 +1,1 @@
-{"index": 71874, "D": "a small bed for an infant, usually on rockers.", "S": ["crib "], "A": []}
+{"index": 71874, "D": "a small bed for an infant, usually on rockers.", "S": ["crib"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 75322, "D": "the desire to learn or know about anything; inquisitiveness. ", "S": ["concern ", "inquisitiveness ", "interest "], "A": ["incuriosity ", "incuriousness ", "apathy ", "disinterest ", "disregard "]}
+{"index": 75322, "D": "the desire to learn or know about anything; inquisitiveness. ", "S": ["concern", "inquisitiveness", "interest"], "A": ["incuriosity", "incuriousness", "apathy", "disinterest", "disregard"]}

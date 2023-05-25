@@ -1,1 +1,1 @@
-{"index": 80337, "D": "of, relating to, or characteristic of a demagogue. ", "S": ["inflammatory ", "provocative ", "subversive ", "treacherous "], "A": ["loyal "]}
+{"index": 80337, "D": "of, relating to, or characteristic of a demagogue. ", "S": ["inflammatory", "provocative", "subversive", "treacherous"], "A": ["loyal"]}

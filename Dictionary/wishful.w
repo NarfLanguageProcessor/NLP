@@ -1,1 +1,1 @@
-{"index": 366463, "D": "having or showing a wish;  desirous; longing.", "S": ["acquisitive ", "ambitious ", "aspiring ", "craving ", "daydreaming ", "desiring ", "greedy ", "hankering ", "hopeful ", "itchy ", "keen ", "longful ", "longing ", "lustful ", "wishing ", "yearning "], "A": []}
+{"index": 366463, "D": "having or showing a wish;  desirous; longing.", "S": ["acquisitive", "ambitious", "aspiring", "craving", "daydreaming", "desiring", "greedy", "hankering", "hopeful", "itchy", "keen", "longful", "longing", "lustful", "wishing", "yearning"], "A": []}

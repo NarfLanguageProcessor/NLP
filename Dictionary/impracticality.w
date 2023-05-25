@@ -1,1 +1,1 @@
-{"index": 148994, "D": "not practical  or useful.", "S": ["impossibility ", "inapplicability ", "uselessness ", "worthlessness "], "A": []}
+{"index": 148994, "D": "not practical  or useful.", "S": ["impossibility", "inapplicability", "uselessness", "worthlessness"], "A": []}

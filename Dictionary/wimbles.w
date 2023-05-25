@@ -1,1 +1,1 @@
-{"index": 365859, "D": "a device used especially in mining for extracting the rubbish from a bored hole.", "S": ["auger ", "awl ", "bit ", "borer ", "corkscrew ", "countersink ", "dibble ", "gimlet ", "implement ", "jackhammer ", "punch ", "riveter ", "trepan ", "trephine "], "A": []}
+{"index": 365859, "D": "a device used especially in mining for extracting the rubbish from a bored hole.", "S": ["auger", "awl", "bit", "borer", "corkscrew", "countersink", "dibble", "gimlet", "implement", "jackhammer", "punch", "riveter", "trepan", "trephine"], "A": []}

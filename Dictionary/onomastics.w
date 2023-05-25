@@ -1,1 +1,1 @@
-{"index": 212873, "D": "the study of the origin, history, and use of proper names.", "S": ["jargon ", "language ", "lingo ", "phrasing ", "vocabulary "], "A": ["standard "]}
+{"index": 212873, "D": "the study of the origin, history, and use of proper names.", "S": ["jargon", "language", "lingo", "phrasing", "vocabulary"], "A": ["standard"]}

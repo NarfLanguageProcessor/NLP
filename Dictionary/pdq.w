@@ -1,1 +1,1 @@
-{"index": 228315, "D": "immediately; at once", "S": ["agile ", "brisk ", "hot ", "nimble ", "quick ", "rapid ", "swift "], "A": ["clumsy ", "slow ", "dull "]}
+{"index": 228315, "D": "immediately; at once", "S": ["agile", "brisk", "hot", "nimble", "quick", "rapid", "swift"], "A": ["clumsy", "slow", "dull"]}

@@ -1,1 +1,0 @@
-{"index": 271349, "D": "a critical article or report, as in a periodical, on a book, play, recital, or the like; critique; evaluation.", "S": ["analysis ", "audit ", "check ", "inspection ", "report ", "revision ", "scrutiny ", "survey "], "A": ["ignorance ", "neglect "]}

@@ -1,1 +1,1 @@
-{"index": 34169, "D": "to fasten or secure with a band or bond.", "S": ["crunch ", "dilemma ", "pickle ", "predicament ", "quandary "], "A": ["solution "]}
+{"index": 34169, "D": "to fasten or secure with a band or bond.", "S": ["crunch", "dilemma", "pickle", "predicament", "quandary"], "A": ["solution"]}

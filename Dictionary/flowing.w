@@ -1,1 +1,1 @@
-{"index": 115208, "D": "moving in or as in a stream", "S": ["falling ", "rolling ", "running ", "sinuous ", "streaming ", "tidal "], "A": ["empty ", "needy ", "solid "]}
+{"index": 115208, "D": "moving in or as in a stream", "S": ["falling", "rolling", "running", "sinuous", "streaming", "tidal"], "A": ["empty", "needy", "solid"]}

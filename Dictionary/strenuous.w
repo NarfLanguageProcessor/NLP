@@ -1,1 +1,1 @@
-{"index": 306070, "D": "characterized by vigorous exertion, as action, efforts, life, etc.", "S": ["arduous ", "demanding ", "exhausting ", "laborious ", "taxing ", "uphill "], "A": ["easy ", "facile ", "trivial "]}
+{"index": 306070, "D": "characterized by vigorous exertion, as action, efforts, life, etc.", "S": ["arduous", "demanding", "exhausting", "laborious", "taxing", "uphill"], "A": ["easy", "facile", "trivial"]}

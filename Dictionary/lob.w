@@ -1,1 +1,1 @@
-{"index": 174155, "D": "to hit (a ball) in a high arc to the back of the opponent's court.", "S": ["flip ", "hurl ", "loft "], "A": ["hold ", "keep "]}
+{"index": 174155, "D": "to hit (a ball) in a high arc to the back of the opponent's court.", "S": ["flip", "hurl", "loft"], "A": ["hold", "keep"]}

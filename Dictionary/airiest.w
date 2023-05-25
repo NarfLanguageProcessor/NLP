@@ -1,1 +1,1 @@
-{"index": 6919, "D": "open to a free current of fresh air; breezy", "S": ["breezy ", "uncluttered "], "A": ["burdensome ", "close ", "closed ", "heavy ", "oppressive ", "stuffy "]}
+{"index": 6919, "D": "open to a free current of fresh air; breezy", "S": ["breezy", "uncluttered"], "A": ["burdensome", "close", "closed", "heavy", "oppressive", "stuffy"]}

@@ -1,1 +1,1 @@
-{"index": 365458, "D": "material or products consisting of plaited or woven twigs or osiers; articles made of wicker. ", "S": ["straw-plaited "], "A": []}
+{"index": 365458, "D": "material or products consisting of plaited or woven twigs or osiers; articles made of wicker. ", "S": ["straw-plaited"], "A": []}

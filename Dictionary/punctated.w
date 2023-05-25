@@ -1,1 +1,1 @@
-{"index": 256575, "D": "marked with points or dots; having minute spots or depressions.", "S": ["bespeckle ", "besprinkle ", "dapple ", "dot ", "flake ", "fleck ", "freckle ", "mosaic ", "patch ", "pepper ", "speck ", "spot ", "sprinkle ", "stipple ", "variegate "], "A": []}
+{"index": 256575, "D": "marked with points or dots; having minute spots or depressions.", "S": ["bespeckle", "besprinkle", "dapple", "dot", "flake", "fleck", "freckle", "mosaic", "patch", "pepper", "speck", "spot", "sprinkle", "stipple", "variegate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 71844, "D": "to make slight, sudden, sharp noises, rapidly repeated.", "S": ["sparkle "], "A": ["fix "]}
+{"index": 71844, "D": "to make slight, sudden, sharp noises, rapidly repeated.", "S": ["sparkle"], "A": ["fix"]}

@@ -1,1 +1,1 @@
-{"index": 65941, "D": "made certain as to truth, accuracy, validity, availability, etc.", "S": ["absolutely ", "actually ", "definitely ", "exactly ", "genuinely ", "honestly ", "legitimately ", "positively ", "rightly ", "sincerely ", "surely ", "very "], "A": ["doubtfully ", "questionably "]}
+{"index": 65941, "D": "made certain as to truth, accuracy, validity, availability, etc.", "S": ["absolutely", "actually", "definitely", "exactly", "genuinely", "honestly", "legitimately", "positively", "rightly", "sincerely", "surely", "very"], "A": ["doubtfully", "questionably"]}

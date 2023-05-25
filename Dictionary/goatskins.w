@@ -1,1 +1,1 @@
-{"index": 127226, "D": "the skin  or hide of a goat. ", "S": ["skin "], "A": []}
+{"index": 127226, "D": "the skin  or hide of a goat. ", "S": ["skin"], "A": []}

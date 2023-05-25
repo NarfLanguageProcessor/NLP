@@ -1,1 +1,1 @@
-{"index": 67039, "D": "a body of constituents;  the voters or residents in a district represented by an elective officer.", "S": ["county ", "district ", "electorate ", "faction ", "nation ", "precinct "], "A": []}
+{"index": 67039, "D": "a body of constituents;  the voters or residents in a district represented by an elective officer.", "S": ["county", "district", "electorate", "faction", "nation", "precinct"], "A": []}

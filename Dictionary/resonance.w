@@ -1,1 +1,1 @@
-{"index": 269614, "D": "the state or quality of being resonant.", "S": ["fullness ", "plangency ", "sonority ", "vibration "], "A": []}
+{"index": 269614, "D": "the state or quality of being resonant.", "S": ["fullness", "plangency", "sonority", "vibration"], "A": []}

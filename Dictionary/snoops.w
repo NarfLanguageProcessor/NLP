@@ -1,1 +1,1 @@
-{"index": 295696, "D": "to prowl or pry; go about in a sneaking, prying way.", "S": ["busybody ", "detective ", "eavesdropper ", "ferret ", "gumshoe ", "meddler ", "quidnunc ", "scout ", "sleuth ", "snooper "], "A": []}
+{"index": 295696, "D": "to prowl or pry; go about in a sneaking, prying way.", "S": ["busybody", "detective", "eavesdropper", "ferret", "gumshoe", "meddler", "quidnunc", "scout", "sleuth", "snooper"], "A": []}

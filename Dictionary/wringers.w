@@ -1,1 +1,1 @@
-{"index": 367997, "D": "an apparatus or machine for squeezing liquid out of anything wet, such as a pair of rollers between which an article of wet clothing may be squeezed.", "S": ["inquiry ", "investigation ", "query ", "questioning "], "A": ["answer ", "reply "]}
+{"index": 367997, "D": "an apparatus or machine for squeezing liquid out of anything wet, such as a pair of rollers between which an article of wet clothing may be squeezed.", "S": ["inquiry", "investigation", "query", "questioning"], "A": ["answer", "reply"]}

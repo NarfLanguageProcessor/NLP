@@ -1,1 +1,1 @@
-{"index": 67469, "D": "very often; at regular or frequent intervals; habitually.", "S": ["constantly ", "continuously ", "frequently ", "regularly "], "A": []}
+{"index": 67469, "D": "very often; at regular or frequent intervals; habitually.", "S": ["constantly", "continuously", "frequently", "regularly"], "A": []}

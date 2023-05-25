@@ -1,1 +1,1 @@
-{"index": 319482, "D": "earth; land.", "S": ["globe ", "planet "], "A": []}
+{"index": 319482, "D": "earth; land.", "S": ["globe", "planet"], "A": []}

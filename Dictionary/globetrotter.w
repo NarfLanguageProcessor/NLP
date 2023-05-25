@@ -1,1 +1,1 @@
-{"index": 126476, "D": "a person who travels regularly or frequently to countries all over the world.", "S": ["world traveler "], "A": []}
+{"index": 126476, "D": "a person who travels regularly or frequently to countries all over the world.", "S": ["world traveler"], "A": []}

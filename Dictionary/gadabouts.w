@@ -1,1 +1,1 @@
-{"index": 120843, "D": "a person who moves about restlessly or aimlessly, especially from one social activity to another.", "S": ["rover "], "A": []}
+{"index": 120843, "D": "a person who moves about restlessly or aimlessly, especially from one social activity to another.", "S": ["rover"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 117968, "D": [], "S": ["dishonesty ", "duplicity ", "machination ", "stratagem "], "A": ["honesty ", "openness ", "truthfulness "]}
+{"index": 117968, "D": [], "S": ["dishonesty", "duplicity", "machination", "stratagem"], "A": ["honesty", "openness", "truthfulness"]}

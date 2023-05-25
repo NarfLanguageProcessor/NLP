@@ -1,1 +1,1 @@
-{"index": 169249, "D": "the small towel or the basin used.", "S": ["bath ", "bathing ", "laundry ", "soaking "], "A": []}
+{"index": 169249, "D": "the small towel or the basin used.", "S": ["bath", "bathing", "laundry", "soaking"], "A": []}

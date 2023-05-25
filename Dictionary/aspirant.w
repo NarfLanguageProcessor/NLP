@@ -1,1 +1,1 @@
-{"index": 21506, "D": "a person who aspires,  as one who seeks or desires a career, advancement, status, etc.", "S": ["applicant ", "candidate ", "contestant "], "A": []}
+{"index": 21506, "D": "a person who aspires,  as one who seeks or desires a career, advancement, status, etc.", "S": ["applicant", "candidate", "contestant"], "A": []}

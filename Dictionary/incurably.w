@@ -1,1 +1,1 @@
-{"index": 150594, "D": "not curable; that cannot be cured, remedied, or corrected", "S": ["badly ", "desperately ", "fatally ", "impossibly "], "A": ["calmly "]}
+{"index": 150594, "D": "not curable; that cannot be cured, remedied, or corrected", "S": ["badly", "desperately", "fatally", "impossibly"], "A": ["calmly"]}

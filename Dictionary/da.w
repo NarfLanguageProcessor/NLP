@@ -1,1 +1,1 @@
-{"index": 75937, "D": "from; of (used in Italian and Portuguese personal names, originally to indicate place of origin)", "S": ["advocate ", "barrister ", "counsel ", "counselor ", "fixer ", "front ", "lip ", "mouthpiece ", "pleader ", "proxy "], "A": []}
+{"index": 75937, "D": "from; of (used in Italian and Portuguese personal names, originally to indicate place of origin)", "S": ["advocate", "barrister", "counsel", "counselor", "fixer", "front", "lip", "mouthpiece", "pleader", "proxy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 310210, "D": "covered, mixed, or sweetened with sugar. ", "S": ["delicious ", "luscious ", "sweetened ", "syrupy "], "A": ["unsavory "]}
+{"index": 310210, "D": "covered, mixed, or sweetened with sugar. ", "S": ["delicious", "luscious", "sweetened", "syrupy"], "A": ["unsavory"]}

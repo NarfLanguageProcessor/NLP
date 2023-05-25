@@ -1,1 +1,1 @@
-{"index": 67439, "D": "touching; in contact.", "S": ["closeness "], "A": ["distance ", "remoteness "]}
+{"index": 67439, "D": "touching; in contact.", "S": ["closeness"], "A": ["distance", "remoteness"]}

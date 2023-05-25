@@ -1,1 +1,1 @@
-{"index": 71908, "D": "the art or skill of a craftsperson", "S": ["craft ", "profession "], "A": ["avocation ", "entertainment ", "ignorance ", "inability ", "incapacity ", "ineptitude ", "lack ", "want "]}
+{"index": 71908, "D": "the art or skill of a craftsperson", "S": ["craft", "profession"], "A": ["avocation", "entertainment", "ignorance", "inability", "incapacity", "ineptitude", "lack", "want"]}

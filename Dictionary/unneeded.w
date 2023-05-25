@@ -1,1 +1,1 @@
-{"index": 346822, "D": "a requirement, necessary duty, or obligation", "S": ["extraneous ", "nonessential ", "redundant ", "superfluous ", "undesirable ", "useless "], "A": ["essential ", "important ", "necessary ", "needed "]}
+{"index": 346822, "D": "a requirement, necessary duty, or obligation", "S": ["extraneous", "nonessential", "redundant", "superfluous", "undesirable", "useless"], "A": ["essential", "important", "necessary", "needed"]}

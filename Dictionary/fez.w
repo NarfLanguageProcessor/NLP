@@ -1,1 +1,1 @@
-{"index": 111913, "D": "a felt cap, usually of a red color, having the shape of a truncated cone, and ornamented with a long black tassel, worn by men in Egypt and North Africa", "S": ["beret "], "A": []}
+{"index": 111913, "D": "a felt cap, usually of a red color, having the shape of a truncated cone, and ornamented with a long black tassel, worn by men in Egypt and North Africa", "S": ["beret"], "A": []}

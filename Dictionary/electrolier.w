@@ -1,1 +1,1 @@
-{"index": 97092, "D": [], "S": ["candelabrum ", "corona ", "crown ", "luster "], "A": []}
+{"index": 97092, "D": [], "S": ["candelabrum", "corona", "crown", "luster"], "A": []}

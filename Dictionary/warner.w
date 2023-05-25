@@ -1,1 +1,1 @@
-{"index": 362714, "D": "U.S. editor and essayist.", "S": ["radar "], "A": []}
+{"index": 362714, "D": "U.S. editor and essayist.", "S": ["radar"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 117938, "D": "an establishment for producing castings in molten metal.", "S": ["factory ", "forge ", "shop "], "A": []}
+{"index": 117938, "D": "an establishment for producing castings in molten metal.", "S": ["factory", "forge", "shop"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 177212, "D": "insanely or wildly", "S": ["crazily ", "desperately ", "energetically ", "excitedly ", "foolishly ", "frantically ", "furiously ", "hastily ", "hysterically ", "intensely ", "passionately ", "recklessly ", "violently "], "A": ["calmly ", "normally "]}
+{"index": 177212, "D": "insanely or wildly", "S": ["crazily", "desperately", "energetically", "excitedly", "foolishly", "frantically", "furiously", "hastily", "hysterically", "intensely", "passionately", "recklessly", "violently"], "A": ["calmly", "normally"]}

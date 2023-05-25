@@ -1,1 +1,1 @@
-{"index": 131528, "D": "to flow out or issue suddenly, copiously, or forcibly, as a fluid from confinement", "S": ["cascade ", "flush ", "pour ", "spew ", "spout "], "A": ["be quiet ", "trickle "]}
+{"index": 131528, "D": "to flow out or issue suddenly, copiously, or forcibly, as a fluid from confinement", "S": ["cascade", "flush", "pour", "spew", "spout"], "A": ["be quiet", "trickle"]}

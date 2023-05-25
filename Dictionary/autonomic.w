@@ -1,1 +1,1 @@
-{"index": 24255, "D": "autonomous. ", "S": ["autonomous ", "democratic ", "freed ", "independent ", "separate "], "A": ["enslaved ", "occupied ", "restrained ", "suppressed "]}
+{"index": 24255, "D": "autonomous. ", "S": ["autonomous", "democratic", "freed", "independent", "separate"], "A": ["enslaved", "occupied", "restrained", "suppressed"]}

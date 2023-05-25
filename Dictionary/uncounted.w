@@ -1,1 +1,1 @@
-{"index": 338070, "D": "not counted. ", "S": ["countless ", "untold "], "A": ["countable ", "few ", "handful "]}
+{"index": 338070, "D": "not counted. ", "S": ["countless", "untold"], "A": ["countable", "few", "handful"]}

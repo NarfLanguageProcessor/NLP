@@ -1,1 +1,1 @@
-{"index": 69544, "D": "of the nature of the physical body; bodily.", "S": ["palpably ", "physically ", "substantially "], "A": ["slightly ", "unsubstantially "]}
+{"index": 69544, "D": "of the nature of the physical body; bodily.", "S": ["palpably", "physically", "substantially"], "A": ["slightly", "unsubstantially"]}

@@ -1,1 +1,1 @@
-{"index": 305401, "D": "a room  in which stores  are kept.", "S": ["cellar ", "granary ", "silo ", "storehouse "], "A": []}
+{"index": 305401, "D": "a room  in which stores  are kept.", "S": ["cellar", "granary", "silo", "storehouse"], "A": []}

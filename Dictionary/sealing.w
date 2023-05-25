@@ -1,1 +1,1 @@
-{"index": 282472, "D": "an embossed emblem, figure, symbol, word, letter, etc., used as attestation or evidence of authenticity", "S": ["close ", "enclose ", "isolate ", "plug ", "secure ", "shut ", "stop "], "A": ["begin ", "continue ", "let go ", "open ", "release ", "start ", "unplug "]}
+{"index": 282472, "D": "an embossed emblem, figure, symbol, word, letter, etc., used as attestation or evidence of authenticity", "S": ["close", "enclose", "isolate", "plug", "secure", "shut", "stop"], "A": ["begin", "continue", "let go", "open", "release", "start", "unplug"]}

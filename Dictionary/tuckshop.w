@@ -1,1 +1,1 @@
-{"index": 332118, "D": "a shop where pastry, candy, or the like is sold.", "S": ["confectioner's shop ", "confectionery ", "sweet-shop "], "A": []}
+{"index": 332118, "D": "a shop where pastry, candy, or the like is sold.", "S": ["confectioner's shop", "confectionery", "sweet-shop"], "A": []}

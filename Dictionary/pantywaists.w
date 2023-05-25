@@ -1,1 +1,1 @@
-{"index": 224967, "D": "a weak, effeminate man; sissy.", "S": ["baby ", "chicken ", "coward ", "milksop ", "namby-pamby ", "pansy ", "weakling ", "wimp ", "wuss "], "A": []}
+{"index": 224967, "D": "a weak, effeminate man; sissy.", "S": ["baby", "chicken", "coward", "milksop", "namby-pamby", "pansy", "weakling", "wimp", "wuss"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 173705, "D": "a print produced by lithography. ", "S": ["chisel ", "embed ", "etch ", "imprint ", "ingrain ", "inscribe "], "A": ["aid ", "dislodge ", "help ", "neglect "]}
+{"index": 173705, "D": "a print produced by lithography. ", "S": ["chisel", "embed", "etch", "imprint", "ingrain", "inscribe"], "A": ["aid", "dislodge", "help", "neglect"]}

@@ -1,1 +1,1 @@
-{"index": 98899, "D": "containing nothing; having none of the usual or appropriate contents", "S": ["drained ", "reduced ", "vacant ", "weakened "], "A": ["energized ", "full "]}
+{"index": 98899, "D": "containing nothing; having none of the usual or appropriate contents", "S": ["drained", "reduced", "vacant", "weakened"], "A": ["energized", "full"]}

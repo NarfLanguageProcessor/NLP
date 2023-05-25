@@ -1,1 +1,1 @@
-{"index": 282746, "D": "tending to seclude, especially oneself.", "S": ["confinement ", "desolation ", "remoteness ", "segregation ", "solitude "], "A": []}
+{"index": 282746, "D": "tending to seclude, especially oneself.", "S": ["confinement", "desolation", "remoteness", "segregation", "solitude"], "A": []}

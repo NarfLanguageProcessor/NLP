@@ -1,1 +1,1 @@
-{"index": 1181, "D": "to use wrongly or improperly; misuse", "S": ["insult "], "A": []}
+{"index": 1181, "D": "to use wrongly or improperly; misuse", "S": ["insult"], "A": []}

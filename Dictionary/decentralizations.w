@@ -1,1 +1,1 @@
-{"index": 78236, "D": "to distribute the administrative powers or functions of (a central authority) over a less concentrated area", "S": ["dissolution ", "fragmentation "], "A": []}
+{"index": 78236, "D": "to distribute the administrative powers or functions of (a central authority) over a less concentrated area", "S": ["dissolution", "fragmentation"], "A": []}

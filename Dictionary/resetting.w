@@ -1,1 +1,1 @@
-{"index": 269260, "D": "to set  again", "S": ["rehabilitation ", "reorganization ", "repair ", "restoration "], "A": ["neglect "]}
+{"index": 269260, "D": "to set  again", "S": ["rehabilitation", "reorganization", "repair", "restoration"], "A": ["neglect"]}

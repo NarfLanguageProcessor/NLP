@@ -1,1 +1,1 @@
-{"index": 225726, "D": "extending in the same direction, equidistant at all points, and never converging or diverging", "S": ["complement ", "correlate ", "correspond ", "imitate "], "A": ["differ ", "disagree ", "imbalance ", "refuse "]}
+{"index": 225726, "D": "extending in the same direction, equidistant at all points, and never converging or diverging", "S": ["complement", "correlate", "correspond", "imitate"], "A": ["differ", "disagree", "imbalance", "refuse"]}

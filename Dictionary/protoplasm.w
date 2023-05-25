@@ -1,1 +1,1 @@
-{"index": 253795, "D": "(no longer in technical use) the colloidal and liquid substance of which cells are formed, excluding horny, chitinous, and other structural material; the cytoplasm and nucleus.", "S": ["frame ", "torso "], "A": ["head ", "mind ", "soul ", "spirit "]}
+{"index": 253795, "D": "(no longer in technical use) the colloidal and liquid substance of which cells are formed, excluding horny, chitinous, and other structural material; the cytoplasm and nucleus.", "S": ["frame", "torso"], "A": ["head", "mind", "soul", "spirit"]}

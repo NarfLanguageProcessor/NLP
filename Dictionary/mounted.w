@@ -1,1 +1,1 @@
-{"index": 194243, "D": "seated or riding on a horse or other animal.", "S": ["seated "], "A": ["afoot ", "dismounted "]}
+{"index": 194243, "D": "seated or riding on a horse or other animal.", "S": ["seated"], "A": ["afoot", "dismounted"]}

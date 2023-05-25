@@ -1,1 +1,1 @@
-{"index": 64042, "D": "a threat of punishment or vengeance.", "S": ["accusatory ", "comminatory ", "denunciatory "], "A": []}
+{"index": 64042, "D": "a threat of punishment or vengeance.", "S": ["accusatory", "comminatory", "denunciatory"], "A": []}

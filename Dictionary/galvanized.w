@@ -1,1 +1,1 @@
-{"index": 121541, "D": "to stimulate by or as if by a galvanic  current.", "S": ["consumed ", "directed ", "forced ", "guided ", "herded ", "impelled ", "induced ", "motivated ", "obsessed ", "possessed ", "pushed ", "steered "], "A": []}
+{"index": 121541, "D": "to stimulate by or as if by a galvanic  current.", "S": ["consumed", "directed", "forced", "guided", "herded", "impelled", "induced", "motivated", "obsessed", "possessed", "pushed", "steered"], "A": []}

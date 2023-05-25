@@ -1,1 +1,1 @@
-{"index": 208861, "D": "a brief record of something written down to assist the memory or for future reference.", "S": ["character ", "sign ", "tone "], "A": ["heedlessness ", "ignorance ", "neglect "]}
+{"index": 208861, "D": "a brief record of something written down to assist the memory or for future reference.", "S": ["character", "sign", "tone"], "A": ["heedlessness", "ignorance", "neglect"]}

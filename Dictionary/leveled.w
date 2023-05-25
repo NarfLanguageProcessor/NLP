@@ -1,1 +1,1 @@
-{"index": 171193, "D": "having no part higher than another; having a flat or even surface.", "S": ["matched "], "A": ["dissimilar ", "divergent ", "imbalanced ", "inconsistent ", "irregular ", "rough ", "uneven ", "unstable ", "unsteady ", "variable ", "wavering ", "wobbly "]}
+{"index": 171193, "D": "having no part higher than another; having a flat or even surface.", "S": ["matched"], "A": ["dissimilar", "divergent", "imbalanced", "inconsistent", "irregular", "rough", "uneven", "unstable", "unsteady", "variable", "wavering", "wobbly"]}

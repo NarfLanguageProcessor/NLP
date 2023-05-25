@@ -1,1 +1,1 @@
-{"index": 318272, "D": "a television broadcast lasting several hours, especially one soliciting support for a charity.", "S": ["charity event ", "fundraiser ", "philanthropic enterprise ", "pledge campaign ", "pledge drive ", "radiothon "], "A": []}
+{"index": 318272, "D": "a television broadcast lasting several hours, especially one soliciting support for a charity.", "S": ["charity event", "fundraiser", "philanthropic enterprise", "pledge campaign", "pledge drive", "radiothon"], "A": []}

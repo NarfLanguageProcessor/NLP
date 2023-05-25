@@ -1,1 +1,1 @@
-{"index": 232479, "D": "to convert into stone or a stony substance.", "S": ["calcify ", "clarify ", "fossilize ", "harden ", "lapidify ", "mineralize ", "set ", "solidify "], "A": ["liquefy ", "soften "]}
+{"index": 232479, "D": "to convert into stone or a stony substance.", "S": ["calcify", "clarify", "fossilize", "harden", "lapidify", "mineralize", "set", "solidify"], "A": ["liquefy", "soften"]}

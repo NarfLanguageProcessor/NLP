@@ -1,1 +1,0 @@
-{"index": 288337, "D": "the tibia.", "S": ["tibia "], "A": []}

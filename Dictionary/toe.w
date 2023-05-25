@@ -1,1 +1,1 @@
-{"index": 325029, "D": "one of the terminal digits of the human foot.", "S": ["appendage ", "dactyl ", "digit ", "phalanges ", "phalanx "], "A": []}
+{"index": 325029, "D": "one of the terminal digits of the human foot.", "S": ["appendage", "dactyl", "digit", "phalanges", "phalanx"], "A": []}

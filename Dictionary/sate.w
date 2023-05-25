@@ -1,1 +1,1 @@
-{"index": 278673, "D": "to satisfy (any appetite or desire) fully.", "S": ["glut ", "gorge ", "satisfy ", "stuff ", "surfeit "], "A": ["abstain ", "diet ", "fast "]}
+{"index": 278673, "D": "to satisfy (any appetite or desire) fully.", "S": ["glut", "gorge", "satisfy", "stuff", "surfeit"], "A": ["abstain", "diet", "fast"]}

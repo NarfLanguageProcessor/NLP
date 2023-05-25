@@ -1,1 +1,1 @@
-{"index": 126339, "D": "a faint or unsteady light; glimmer. ", "S": ["hunch ", "indication "], "A": ["information "]}
+{"index": 126339, "D": "a faint or unsteady light; glimmer. ", "S": ["hunch", "indication"], "A": ["information"]}

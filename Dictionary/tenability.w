@@ -1,1 +1,1 @@
-{"index": 318666, "D": "capable of being held, maintained, or defended, as against attack or dispute", "S": ["chance ", "integrity ", "prospect ", "reliability ", "soundness ", "trustworthiness ", "validity "], "A": ["unlikelihood "]}
+{"index": 318666, "D": "capable of being held, maintained, or defended, as against attack or dispute", "S": ["chance", "integrity", "prospect", "reliability", "soundness", "trustworthiness", "validity"], "A": ["unlikelihood"]}

@@ -1,1 +1,1 @@
-{"index": 65148, "D": [], "S": ["arrangement ", "chord ", "composition ", "melody ", "tune ", "unity "], "A": ["disagreement ", "discord ", "disharmony "]}
+{"index": 65148, "D": [], "S": ["arrangement", "chord", "composition", "melody", "tune", "unity"], "A": ["disagreement", "discord", "disharmony"]}

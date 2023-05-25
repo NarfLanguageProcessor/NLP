@@ -1,1 +1,1 @@
-{"index": 74610, "D": "a short, thick stick used as a weapon; club.", "S": ["assail ", "berate ", "castigate ", "excoriate ", "scold ", "upbraid "], "A": ["compliment ", "laud ", "praise ", "approve ", "flatter ", "protect "]}
+{"index": 74610, "D": "a short, thick stick used as a weapon; club.", "S": ["assail", "berate", "castigate", "excoriate", "scold", "upbraid"], "A": ["compliment", "laud", "praise", "approve", "flatter", "protect"]}

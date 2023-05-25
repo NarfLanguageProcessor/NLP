@@ -1,1 +1,1 @@
-{"index": 107980, "D": "the act of expostulating;  remonstrance; earnest and kindly protest", "S": ["challenge ", "complaint ", "criticism ", "demur ", "demurral ", "dissuasion ", "protest ", "protestation ", "remonstrance ", "remonstration "], "A": ["acceptance ", "approval ", "praise "]}
+{"index": 107980, "D": "the act of expostulating;  remonstrance; earnest and kindly protest", "S": ["challenge", "complaint", "criticism", "demur", "demurral", "dissuasion", "protest", "protestation", "remonstrance", "remonstration"], "A": ["acceptance", "approval", "praise"]}

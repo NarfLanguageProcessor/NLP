@@ -1,0 +1,1 @@
+{"index": 24094, "D": "a zither having buttons that when depressed damp all strings except those to be sounded, the undamped strings being strummed to produce simple chords.", "S": [], "A": []}

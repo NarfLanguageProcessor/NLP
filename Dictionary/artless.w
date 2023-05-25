@@ -1,1 +1,1 @@
-{"index": 20763, "D": "free from deceit, cunning, or craftiness; ingenuous", "S": ["ingenuous "], "A": ["artful ", "complicated ", "contrived ", "pretentious ", "sophisticated "]}
+{"index": 20763, "D": "free from deceit, cunning, or craftiness; ingenuous", "S": ["ingenuous"], "A": ["artful", "complicated", "contrived", "pretentious", "sophisticated"]}

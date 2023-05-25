@@ -1,1 +1,1 @@
-{"index": 279059, "D": "a person of profound or extensive learning; learned scholar.", "S": ["academe ", "academicians ", "college ", "school "], "A": []}
+{"index": 279059, "D": "a person of profound or extensive learning; learned scholar.", "S": ["academe", "academicians", "college", "school"], "A": []}

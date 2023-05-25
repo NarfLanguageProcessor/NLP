@@ -1,1 +1,1 @@
-{"index": 182006, "D": [], "S": ["attract ", "focus ", "gather ", "intensify ", "meet "], "A": ["divide ", "separate ", "disjoin ", "disperse ", "scatter "]}
+{"index": 182006, "D": [], "S": ["attract", "focus", "gather", "intensify", "meet"], "A": ["divide", "separate", "disjoin", "disperse", "scatter"]}

@@ -1,1 +1,1 @@
-{"index": 21794, "D": "to take in and incorporate as one's own; absorb", "S": ["comprehend ", "grasp ", "incorporate ", "understand "], "A": ["exclude ", "misinterpret ", "mistake ", "misunderstand ", "overlook "]}
+{"index": 21794, "D": "to take in and incorporate as one's own; absorb", "S": ["comprehend", "grasp", "incorporate", "understand"], "A": ["exclude", "misinterpret", "mistake", "misunderstand", "overlook"]}

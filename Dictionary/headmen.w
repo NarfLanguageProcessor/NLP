@@ -1,1 +1,1 @@
-{"index": 134663, "D": "a chief or leader.", "S": ["bigwig ", "boss ", "tribal chief "], "A": ["follower "]}
+{"index": 134663, "D": "a chief or leader.", "S": ["bigwig", "boss", "tribal chief"], "A": ["follower"]}

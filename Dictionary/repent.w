@@ -1,1 +1,1 @@
-{"index": 268120, "D": "to feel sorry, self-reproachful, or contrite for past conduct; regret or be conscience-stricken about a past action, attitude, etc. (often followed by of)", "S": ["apologize ", "atone ", "deplore "], "A": ["be happy ", "praise "]}
+{"index": 268120, "D": "to feel sorry, self-reproachful, or contrite for past conduct; regret or be conscience-stricken about a past action, attitude, etc. (often followed by of)", "S": ["apologize", "atone", "deplore"], "A": ["be happy", "praise"]}

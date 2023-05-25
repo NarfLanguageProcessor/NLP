@@ -1,1 +1,1 @@
-{"index": 243778, "D": "to assume a particular attitude or stance, especially with the hope of impressing others", "S": ["mannerism ", "mien ", "posture "], "A": ["honesty ", "reality ", "truth "]}
+{"index": 243778, "D": "to assume a particular attitude or stance, especially with the hope of impressing others", "S": ["mannerism", "mien", "posture"], "A": ["honesty", "reality", "truth"]}

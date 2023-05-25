@@ -1,1 +1,1 @@
-{"index": 195739, "D": "darkness; gloom", "S": ["dimness ", "dusk ", "gloom ", "murkiness "], "A": []}
+{"index": 195739, "D": "darkness; gloom", "S": ["dimness", "dusk", "gloom", "murkiness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 58581, "D": "a segment of DNA that encodes for the formation of a specific polypeptide chain; a structural gene.", "S": ["operator gene ", "regulatory gene ", "structural gene "], "A": []}
+{"index": 58581, "D": "a segment of DNA that encodes for the formation of a specific polypeptide chain; a structural gene.", "S": ["operator gene", "regulatory gene", "structural gene"], "A": []}

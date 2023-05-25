@@ -1,1 +1,1 @@
-{"index": 70437, "D": "a soft, white, downy substance consisting of the hairs or fibers attached to the seeds of plants belonging to the genus Gossypium, of the mallow family,  used in making fabrics, thread, wadding, etc.", "S": ["comprehend ", "get ", "grasp "], "A": ["misunderstand "]}
+{"index": 70437, "D": "a soft, white, downy substance consisting of the hairs or fibers attached to the seeds of plants belonging to the genus Gossypium, of the mallow family,  used in making fabrics, thread, wadding, etc.", "S": ["comprehend", "get", "grasp"], "A": ["misunderstand"]}

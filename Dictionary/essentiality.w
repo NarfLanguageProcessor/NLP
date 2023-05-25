@@ -1,1 +1,1 @@
-{"index": 104523, "D": "the quality of being essential; essential  character.", "S": ["being ", "embodiment ", "essentialness ", "heart ", "importance ", "meaning ", "nature ", "quintessence ", "significance ", "substance "], "A": ["insignificance "]}
+{"index": 104523, "D": "the quality of being essential; essential  character.", "S": ["being", "embodiment", "essentialness", "heart", "importance", "meaning", "nature", "quintessence", "significance", "substance"], "A": ["insignificance"]}

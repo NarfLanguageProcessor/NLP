@@ -1,1 +1,1 @@
-{"index": 160054, "D": "dulled or satiated by overindulgence", "S": ["apathy ", "disgust ", "ennui ", "fatigue ", "indifference ", "lethargy ", "monotony ", "tedium "], "A": ["concern ", "energy ", "excitement ", "feeling ", "interest ", "liveliness ", "sympathy ", "vigor "]}
+{"index": 160054, "D": "dulled or satiated by overindulgence", "S": ["apathy", "disgust", "ennui", "fatigue", "indifference", "lethargy", "monotony", "tedium"], "A": ["concern", "energy", "excitement", "feeling", "interest", "liveliness", "sympathy", "vigor"]}

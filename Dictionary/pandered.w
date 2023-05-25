@@ -1,1 +1,1 @@
-{"index": 224478, "D": "to cater to or profit from the weaknesses or vices of others", "S": ["cajole ", "gratify ", "massage ", "please ", "satisfy ", "snow ", "soap ", "stroke "], "A": ["anger ", "annoy ", "disappoint ", "disturb ", "frustrate ", "upset "]}
+{"index": 224478, "D": "to cater to or profit from the weaknesses or vices of others", "S": ["cajole", "gratify", "massage", "please", "satisfy", "snow", "soap", "stroke"], "A": ["anger", "annoy", "disappoint", "disturb", "frustrate", "upset"]}

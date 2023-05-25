@@ -1,1 +1,1 @@
-{"index": 114253, "D": "having no defects or faults, especially none that diminish the value of something", "S": ["immaculate ", "impeccable ", "perfect ", "unblemished ", "unbroken "], "A": ["blemished ", "corrupt ", "flawed ", "imperfect ", "wrong "]}
+{"index": 114253, "D": "having no defects or faults, especially none that diminish the value of something", "S": ["immaculate", "impeccable", "perfect", "unblemished", "unbroken"], "A": ["blemished", "corrupt", "flawed", "imperfect", "wrong"]}

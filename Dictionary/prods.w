@@ -1,1 +1,1 @@
-{"index": 251566, "D": "to poke or jab with or as if with something pointed", "S": ["nudge ", "press "], "A": ["discourage ", "dissuade ", "pull ", "repress "]}
+{"index": 251566, "D": "to poke or jab with or as if with something pointed", "S": ["nudge", "press"], "A": ["discourage", "dissuade", "pull", "repress"]}

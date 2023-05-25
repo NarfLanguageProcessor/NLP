@@ -1,1 +1,1 @@
-{"index": 34198, "D": "a heap or pile.", "S": ["hypodermal injection ", "hypodermic ", "hypospray ", "injection ", "intracutaneous injection ", "intramuscular injection ", "intravenous injection ", "jet injection ", "shot "], "A": []}
+{"index": 34198, "D": "a heap or pile.", "S": ["hypodermal injection", "hypodermic", "hypospray", "injection", "intracutaneous injection", "intramuscular injection", "intravenous injection", "jet injection", "shot"], "A": []}

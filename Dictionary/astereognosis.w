@@ -1,0 +1,1 @@
+{"index": 22020, "D": "the inability to determine the shape of an object by touching or feeling it.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 194223, "D": "abounding in mountains", "S": ["highland "], "A": []}
+{"index": 194223, "D": "abounding in mountains", "S": ["highland"], "A": []}

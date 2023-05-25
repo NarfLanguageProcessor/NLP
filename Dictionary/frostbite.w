@@ -1,1 +1,1 @@
-{"index": 119412, "D": "injury to any part of the body after excessive exposure to extreme cold, sometimes progressing from initial redness and tingling to gangrene.", "S": ["chill ", "snow "], "A": ["heat ", "warmth "]}
+{"index": 119412, "D": "injury to any part of the body after excessive exposure to extreme cold, sometimes progressing from initial redness and tingling to gangrene.", "S": ["chill", "snow"], "A": ["heat", "warmth"]}

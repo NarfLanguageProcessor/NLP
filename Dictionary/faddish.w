@@ -1,1 +1,1 @@
-{"index": 109125, "D": "like a fad. ", "S": ["elegant ", "exclusive ", "mod ", "modern ", "stylish ", "swank ", "trendy "], "A": ["old-fashioned ", "unfashionable ", "unstylish ", "dull ", "old "]}
+{"index": 109125, "D": "like a fad. ", "S": ["elegant", "exclusive", "mod", "modern", "stylish", "swank", "trendy"], "A": ["old-fashioned", "unfashionable", "unstylish", "dull", "old"]}

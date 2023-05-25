@@ -1,1 +1,1 @@
-{"index": 128634, "D": "of a color between white and black; having a neutral hue.", "S": ["frosty ", "gray-haired ", "salt and pepper ", "silvery ", "snowy-haired ", "white-haired ", "whitish "], "A": []}
+{"index": 128634, "D": "of a color between white and black; having a neutral hue.", "S": ["frosty", "gray-haired", "salt and pepper", "silvery", "snowy-haired", "white-haired", "whitish"], "A": []}

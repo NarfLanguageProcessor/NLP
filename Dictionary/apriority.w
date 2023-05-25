@@ -1,0 +1,1 @@
+{"index": 18078, "D": "Compare a posteriori (def. 1). ", "S": ["assumption", "axiom", "conclusion", "conjecture", "explanation", "guess", "inference", "interpretation", "premise", "proposition", "rationale", "supposition", "theorem", "thesis"], "A": ["fact", "proof", "reality", "truth"]}

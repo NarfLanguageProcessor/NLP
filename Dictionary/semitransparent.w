@@ -1,1 +1,1 @@
-{"index": 285094, "D": "imperfectly or almost transparent. ", "S": ["crystalline ", "luminous ", "see-through "], "A": ["blocked ", "cloudy ", "opaque "]}
+{"index": 285094, "D": "imperfectly or almost transparent. ", "S": ["crystalline", "luminous", "see-through"], "A": ["blocked", "cloudy", "opaque"]}

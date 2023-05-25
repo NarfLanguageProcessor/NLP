@@ -1,1 +1,1 @@
-{"index": 236082, "D": "to make pictorial;  illustrate or represent with or as if with pictures.", "S": ["design ", "painting "], "A": ["lack ", "science "]}
+{"index": 236082, "D": "to make pictorial;  illustrate or represent with or as if with pictures.", "S": ["design", "painting"], "A": ["lack", "science"]}

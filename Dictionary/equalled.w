@@ -1,1 +1,1 @@
-{"index": 103175, "D": "as great as; the same as (often followed by to or with)", "S": ["amount to ", "break even ", "compare ", "comprise ", "correspond ", "match ", "reach "], "A": ["differ ", "fail ", "disagree ", "disconnect ", "disproportion ", "imbalance ", "separate "]}
+{"index": 103175, "D": "as great as; the same as (often followed by to or with)", "S": ["amount to", "break even", "compare", "comprise", "correspond", "match", "reach"], "A": ["differ", "fail", "disagree", "disconnect", "disproportion", "imbalance", "separate"]}

@@ -1,1 +1,1 @@
-{"index": 169899, "D": "a relatively narrow, projecting part, as a horizontal, shelflike projection on a wall or a raised edge on a tray.", "S": ["berm ", "ridge ", "rim ", "sill "], "A": []}
+{"index": 169899, "D": "a relatively narrow, projecting part, as a horizontal, shelflike projection on a wall or a raised edge on a tray.", "S": ["berm", "ridge", "rim", "sill"], "A": []}

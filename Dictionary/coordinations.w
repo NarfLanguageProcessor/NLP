@@ -1,1 +1,1 @@
-{"index": 68365, "D": "the act or state of coordinating  or of being coordinated. ", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}
+{"index": 68365, "D": "the act or state of coordinating  or of being coordinated. ", "S": ["allocation", "allotment", "analysis", "arrangement", "designation", "distribution", "grade", "regulation"], "A": ["disorganization", "keeping", "retention"]}

@@ -1,1 +1,1 @@
-{"index": 308264, "D": "(as a musical direction) suddenly; abruptly", "S": ["abrupt ", "hasty ", "immediate ", "precipitous ", "quick ", "rapid ", "swift ", "unforeseen ", "unusual "], "A": ["delayed ", "gradual ", "lazy ", "leisurely ", "slow ", "sluggish "]}
+{"index": 308264, "D": "(as a musical direction) suddenly; abruptly", "S": ["abrupt", "hasty", "immediate", "precipitous", "quick", "rapid", "swift", "unforeseen", "unusual"], "A": ["delayed", "gradual", "lazy", "leisurely", "slow", "sluggish"]}

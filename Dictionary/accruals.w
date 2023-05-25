@@ -1,1 +1,1 @@
-{"index": 1788, "D": "the act or process of accruing. ", "S": ["accumulation ", "buildup ", "increase "], "A": ["decrease "]}
+{"index": 1788, "D": "the act or process of accruing. ", "S": ["accumulation", "buildup", "increase"], "A": ["decrease"]}

@@ -1,1 +1,1 @@
-{"index": 151349, "D": "to install in an office, benefice, position, etc., especially with formal ceremonies", "S": ["conscript ", "enlist ", "inaugurate ", "recruit ", "swear in "], "A": ["close ", "end ", "finish ", "take away "]}
+{"index": 151349, "D": "to install in an office, benefice, position, etc., especially with formal ceremonies", "S": ["conscript", "enlist", "inaugurate", "recruit", "swear in"], "A": ["close", "end", "finish", "take away"]}

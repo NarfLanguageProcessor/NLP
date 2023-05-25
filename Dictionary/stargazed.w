@@ -1,1 +1,1 @@
-{"index": 302892, "D": "to gaze at or observe the stars.", "S": ["fantasize ", "hallucinate "], "A": ["dislike ", "hate "]}
+{"index": 302892, "D": "to gaze at or observe the stars.", "S": ["fantasize", "hallucinate"], "A": ["dislike", "hate"]}

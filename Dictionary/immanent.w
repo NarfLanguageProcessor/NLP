@@ -1,1 +1,1 @@
-{"index": 147846, "D": "remaining within; indwelling; inherent.", "S": ["inborn ", "indwelling ", "inherent ", "intrinsic "], "A": []}
+{"index": 147846, "D": "remaining within; indwelling; inherent.", "S": ["inborn", "indwelling", "inherent", "intrinsic"], "A": []}

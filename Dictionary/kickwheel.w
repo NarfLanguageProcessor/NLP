@@ -1,1 +1,1 @@
-{"index": 164448, "D": "a potter's wheel  rotated by kicking. ", "S": ["hand-turned wheel ", "pedal wheel ", "power wheel ", "rotator ", "wheel "], "A": []}
+{"index": 164448, "D": "a potter's wheel  rotated by kicking. ", "S": ["hand-turned wheel", "pedal wheel", "power wheel", "rotator", "wheel"], "A": []}

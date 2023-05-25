@@ -1,1 +1,1 @@
-{"index": 117644, "D": "coming forth,  or about to come forth;  about to appear; approaching in time", "S": ["anticipated ", "approaching ", "awaited ", "coming ", "impending ", "upcoming "], "A": ["remote "]}
+{"index": 117644, "D": "coming forth,  or about to come forth;  about to appear; approaching in time", "S": ["anticipated", "approaching", "awaited", "coming", "impending", "upcoming"], "A": ["remote"]}

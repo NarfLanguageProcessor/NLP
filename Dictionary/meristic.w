@@ -1,1 +1,0 @@
-{"index": 183827, "D": "of, relating to, or divided into segments or somites.", "S": [], "A": []}

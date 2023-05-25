@@ -1,1 +1,1 @@
-{"index": 211213, "D": "the probability that something is so, will occur, or is more likely to occur than something else", "S": ["difference "], "A": ["disadvantage ", "equality ", "likeness ", "sameness ", "similarity "]}
+{"index": 211213, "D": "the probability that something is so, will occur, or is more likely to occur than something else", "S": ["difference"], "A": ["disadvantage", "equality", "likeness", "sameness", "similarity"]}

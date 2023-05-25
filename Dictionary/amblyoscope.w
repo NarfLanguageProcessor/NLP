@@ -1,0 +1,1 @@
+{"index": 10069, "D": "an instrument used to train an amblyopic eye to function properly.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 253015, "D": "involving, imposing, or defining limits or prohibitions", "S": ["excessive ", "exorbitant ", "preposterous ", "steep "], "A": ["cheap ", "inexpensive ", "moderate ", "reasonable ", "sensible "]}
+{"index": 253015, "D": "involving, imposing, or defining limits or prohibitions", "S": ["excessive", "exorbitant", "preposterous", "steep"], "A": ["cheap", "inexpensive", "moderate", "reasonable", "sensible"]}

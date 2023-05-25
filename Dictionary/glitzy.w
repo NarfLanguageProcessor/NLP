@@ -1,1 +1,1 @@
-{"index": 126442, "D": "pretentiously or tastelessly showy", "S": ["conspicuous ", "flagrant ", "glaring ", "outright ", "overt ", "shameless ", "unabashed "], "A": ["concealed ", "hidden ", "moral ", "secret "]}
+{"index": 126442, "D": "pretentiously or tastelessly showy", "S": ["conspicuous", "flagrant", "glaring", "outright", "overt", "shameless", "unabashed"], "A": ["concealed", "hidden", "moral", "secret"]}

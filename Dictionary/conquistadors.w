@@ -1,1 +1,1 @@
-{"index": 66647, "D": "one of the Spanish conquerors of Mexico and Peru in the 16th century.", "S": ["vanquisher ", "victor ", "winner "], "A": ["loser "]}
+{"index": 66647, "D": "one of the Spanish conquerors of Mexico and Peru in the 16th century.", "S": ["vanquisher", "victor", "winner"], "A": ["loser"]}

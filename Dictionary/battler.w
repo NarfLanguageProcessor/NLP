@@ -1,1 +1,1 @@
-{"index": 29151, "D": "a hostile encounter or engagement between opposing military forces", "S": ["adversary ", "antagonist ", "assailant ", "attacker ", "enemy ", "serviceman ", "soldier "], "A": ["ally ", "assistant ", "friend ", "helper ", "supporter "]}
+{"index": 29151, "D": "a hostile encounter or engagement between opposing military forces", "S": ["adversary", "antagonist", "assailant", "attacker", "enemy", "serviceman", "soldier"], "A": ["ally", "assistant", "friend", "helper", "supporter"]}

@@ -1,1 +1,1 @@
-{"index": 103514, "D": "before. ", "S": ["before ", "prior ", "rather "], "A": []}
+{"index": 103514, "D": "before. ", "S": ["before", "prior", "rather"], "A": []}

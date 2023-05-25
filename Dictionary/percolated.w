@@ -1,1 +1,1 @@
-{"index": 230454, "D": "to cause (a liquid) to pass through a porous body; filter.", "S": ["bubble ", "filter ", "ooze ", "permeate ", "pervade "], "A": ["take out "]}
+{"index": 230454, "D": "to cause (a liquid) to pass through a porous body; filter.", "S": ["bubble", "filter", "ooze", "permeate", "pervade"], "A": ["take out"]}

@@ -1,1 +1,1 @@
-{"index": 157691, "D": "time past", "S": ["history "], "A": ["future ", "present "]}
+{"index": 157691, "D": "time past", "S": ["history"], "A": ["future", "present"]}

@@ -1,1 +1,1 @@
-{"index": 107124, "D": "the act or process of exhausting. ", "S": ["collapse ", "consumption ", "debilitation ", "debility ", "enervation ", "expenditure ", "fatigue ", "feebleness ", "lassitude ", "prostration ", "weariness "], "A": ["ability ", "health ", "strength ", "vigor "]}
+{"index": 107124, "D": "the act or process of exhausting. ", "S": ["collapse", "consumption", "debilitation", "debility", "enervation", "expenditure", "fatigue", "feebleness", "lassitude", "prostration", "weariness"], "A": ["ability", "health", "strength", "vigor"]}

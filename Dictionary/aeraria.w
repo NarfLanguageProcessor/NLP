@@ -1,0 +1,1 @@
+{"index": 4896, "D": "the state treasury in ancient Rome.", "S": [], "A": []}

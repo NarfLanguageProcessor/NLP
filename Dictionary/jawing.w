@@ -1,1 +1,1 @@
-{"index": 160660, "D": "either of two bones, the mandible or maxilla, forming the framework of the mouth.", "S": ["bone ", "mouth "], "A": []}
+{"index": 160660, "D": "either of two bones, the mandible or maxilla, forming the framework of the mouth.", "S": ["bone", "mouth"], "A": []}

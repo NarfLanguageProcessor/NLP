@@ -1,1 +1,1 @@
-{"index": 168131, "D": "in a way that lacks vitality or energy; lazily", "S": ["sluggishly "], "A": []}
+{"index": 168131, "D": "in a way that lacks vitality or energy; lazily", "S": ["sluggishly"], "A": []}

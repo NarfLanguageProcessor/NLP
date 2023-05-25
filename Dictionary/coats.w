@@ -1,1 +1,1 @@
-{"index": 61131, "D": "an outer garment with sleeves, covering at least the upper part of the body", "S": ["fur ", "leather ", "skin ", "wool "], "A": []}
+{"index": 61131, "D": "an outer garment with sleeves, covering at least the upper part of the body", "S": ["fur", "leather", "skin", "wool"], "A": []}

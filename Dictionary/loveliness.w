@@ -1,1 +1,1 @@
-{"index": 175559, "D": "charmingly or exquisitely beautiful", "S": ["attractiveness ", "beauty ", "charm ", "comeliness ", "fairness "], "A": []}
+{"index": 175559, "D": "charmingly or exquisitely beautiful", "S": ["attractiveness", "beauty", "charm", "comeliness", "fairness"], "A": []}

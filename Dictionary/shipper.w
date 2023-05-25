@@ -1,1 +1,1 @@
-{"index": 288450, "D": "a person who ships  goods or makes shipments.", "S": ["carrier ", "exporter ", "merchant ", "transporter "], "A": []}
+{"index": 288450, "D": "a person who ships  goods or makes shipments.", "S": ["carrier", "exporter", "merchant", "transporter"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6009, "D": "to bleach (flour) with nitrogen trichloride.", "S": [], "A": []}

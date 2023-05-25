@@ -1,1 +1,1 @@
-{"index": 227872, "D": "a person of noble or high rank; aristocrat.", "S": ["elite ", "gentility ", "gentry ", "nobility ", "upper class ", "upper crust "], "A": ["commoners ", "proletariat "]}
+{"index": 227872, "D": "a person of noble or high rank; aristocrat.", "S": ["elite", "gentility", "gentry", "nobility", "upper class", "upper crust"], "A": ["commoners", "proletariat"]}

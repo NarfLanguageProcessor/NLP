@@ -1,1 +1,1 @@
-{"index": 302048, "D": "to wriggle or writhe.", "S": ["dragging "], "A": ["standing ", "upright ", "vertical "]}
+{"index": 302048, "D": "to wriggle or writhe.", "S": ["dragging"], "A": ["standing", "upright", "vertical"]}

@@ -1,1 +1,1 @@
-{"index": 187779, "D": "mean and stingy; disappointingly meager.", "S": ["tight "], "A": []}
+{"index": 187779, "D": "mean and stingy; disappointingly meager.", "S": ["tight"], "A": []}

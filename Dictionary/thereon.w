@@ -1,1 +1,1 @@
-{"index": 321256, "D": "on or upon that or it.", "S": ["afterwards ", "eventually ", "late ", "later ", "next ", "soon ", "then ", "thereafter "], "A": ["earlier "]}
+{"index": 321256, "D": "on or upon that or it.", "S": ["afterwards", "eventually", "late", "later", "next", "soon", "then", "thereafter"], "A": ["earlier"]}

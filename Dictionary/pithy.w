@@ -1,1 +1,1 @@
-{"index": 238310, "D": "brief, forceful, and meaningful in expression; full of vigor, substance, or meaning; terse; forcible", "S": ["cogent ", "concise ", "laconic ", "succinct ", "terse ", "trenchant "], "A": ["impotent ", "lengthy ", "long-winded ", "weak ", "wordy "]}
+{"index": 238310, "D": "brief, forceful, and meaningful in expression; full of vigor, substance, or meaning; terse; forcible", "S": ["cogent", "concise", "laconic", "succinct", "terse", "trenchant"], "A": ["impotent", "lengthy", "long-winded", "weak", "wordy"]}

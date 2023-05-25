@@ -1,1 +1,1 @@
-{"index": 17754, "D": "a small portion of a food or drink served before or at the beginning of a meal to stimulate the desire to eat.", "S": ["cocktail "], "A": ["dislike ", "hate ", "hatred ", "lot "]}
+{"index": 17754, "D": "a small portion of a food or drink served before or at the beginning of a meal to stimulate the desire to eat.", "S": ["cocktail"], "A": ["dislike", "hate", "hatred", "lot"]}

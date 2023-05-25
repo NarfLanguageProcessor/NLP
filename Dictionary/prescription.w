@@ -1,1 +1,1 @@
-{"index": 249298, "D": "the medicine prescribed", "S": ["drug ", "instruction ", "recipe ", "remedy "], "A": ["lawlessness "]}
+{"index": 249298, "D": "the medicine prescribed", "S": ["drug", "instruction", "recipe", "remedy"], "A": ["lawlessness"]}

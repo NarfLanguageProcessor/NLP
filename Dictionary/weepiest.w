@@ -1,1 +1,1 @@
-{"index": 363807, "D": "weeping  or tending to weep;  tearful; lachrymose.", "S": ["howling ", "teary ", "teary-eyed "], "A": ["unemotional "]}
+{"index": 363807, "D": "weeping  or tending to weep;  tearful; lachrymose.", "S": ["howling", "teary", "teary-eyed"], "A": ["unemotional"]}

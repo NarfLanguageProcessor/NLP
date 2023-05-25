@@ -1,1 +1,1 @@
-{"index": 37506, "D": "type or print that has thick, heavy lines, used for emphasis, headings, etc.", "S": ["font "], "A": []}
+{"index": 37506, "D": "type or print that has thick, heavy lines, used for emphasis, headings, etc.", "S": ["font"], "A": []}

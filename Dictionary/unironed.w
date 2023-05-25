@@ -1,1 +1,1 @@
-{"index": 344981, "D": "Compare cast iron, pig iron, steel, wrought iron. ", "S": ["rumpled "], "A": ["unwrinkled "]}
+{"index": 344981, "D": "Compare cast iron, pig iron, steel, wrought iron. ", "S": ["rumpled"], "A": ["unwrinkled"]}

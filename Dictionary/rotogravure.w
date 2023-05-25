@@ -1,1 +1,1 @@
-{"index": 274667, "D": "a photomechanical process by which pictures, typeset matter, etc., are printed from an intaglio copper cylinder.", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}
+{"index": 274667, "D": "a photomechanical process by which pictures, typeset matter, etc., are printed from an intaglio copper cylinder.", "S": ["etching", "illustration", "inscription", "lithograph", "woodcut"], "A": []}

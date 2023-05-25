@@ -1,1 +1,1 @@
-{"index": 195611, "D": "military equipment and stores, esp ammunition", "S": ["ammo ", "armament ", "arsenal ", "bombs ", "bullets ", "explosives ", "grenades ", "gunpowder ", "missiles ", "shells ", "torpedos ", "weapons "], "A": []}
+{"index": 195611, "D": "military equipment and stores, esp ammunition", "S": ["ammo", "armament", "arsenal", "bombs", "bullets", "explosives", "grenades", "gunpowder", "missiles", "shells", "torpedos", "weapons"], "A": []}

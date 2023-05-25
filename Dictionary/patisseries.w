@@ -1,1 +1,0 @@
-{"index": 227831, "D": "a shop where pastry, especially French pastry,  is made and sold.", "S": ["confectionery "], "A": []}

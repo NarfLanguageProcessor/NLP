@@ -1,1 +1,1 @@
-{"index": 150432, "D": "to make greater, as in number, size, strength, or quality; augment; add to", "S": ["expanded ", "heightened "], "A": []}
+{"index": 150432, "D": "to make greater, as in number, size, strength, or quality; augment; add to", "S": ["expanded", "heightened"], "A": []}

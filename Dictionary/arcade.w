@@ -1,1 +1,1 @@
-{"index": 18620, "D": "Compare colonnade. ", "S": ["gallery ", "mall ", "walkway "], "A": []}
+{"index": 18620, "D": "Compare colonnade. ", "S": ["gallery", "mall", "walkway"], "A": []}

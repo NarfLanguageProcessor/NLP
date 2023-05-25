@@ -1,1 +1,1 @@
-{"index": 150918, "D": "a person or thing that indicates,  signals, or points out.", "S": ["barometer ", "gauge ", "index ", "signal ", "symbol "], "A": []}
+{"index": 150918, "D": "a person or thing that indicates,  signals, or points out.", "S": ["barometer", "gauge", "index", "signal", "symbol"], "A": []}

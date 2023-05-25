@@ -1,1 +1,1 @@
-{"index": 145023, "D": "making a droning sound; buzzing.", "S": ["brisk ", "bustling ", "busy ", "buzzing ", "hopping "], "A": ["inactive "]}
+{"index": 145023, "D": "making a droning sound; buzzing.", "S": ["brisk", "bustling", "busy", "buzzing", "hopping"], "A": ["inactive"]}

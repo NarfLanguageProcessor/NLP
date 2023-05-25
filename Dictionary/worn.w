@@ -1,1 +1,1 @@
-{"index": 367625, "D": "past participle of wear. ", "S": ["frayed ", "shabby ", "tattered ", "threadbare ", "timeworn ", "well-worn "], "A": ["fresh ", "new ", "energetic ", "energized ", "intact ", "invigorated ", "lively ", "refreshed ", "rested ", "restored ", "unused "]}
+{"index": 367625, "D": "past participle of wear. ", "S": ["frayed", "shabby", "tattered", "threadbare", "timeworn", "well-worn"], "A": ["fresh", "new", "energetic", "energized", "intact", "invigorated", "lively", "refreshed", "rested", "restored", "unused"]}

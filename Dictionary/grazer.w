@@ -1,1 +1,1 @@
-{"index": 129407, "D": "to feed on growing grass and pasturage, as do cattle, sheep, etc.", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}
+{"index": 129407, "D": "to feed on growing grass and pasturage, as do cattle, sheep, etc.", "S": ["grower", "laborer", "peasant", "producer", "rancher"], "A": []}

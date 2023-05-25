@@ -1,1 +1,1 @@
-{"index": 47768, "D": "a high ecclesiastic appointed by the pope to the College of Cardinals and ranking above every other ecclesiastic but the pope.", "S": ["automatically ", "naturally ", "no doubt ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "questionably "]}
+{"index": 47768, "D": "a high ecclesiastic appointed by the pope to the College of Cardinals and ranking above every other ecclesiastic but the pope.", "S": ["automatically", "naturally", "no doubt", "undoubtedly", "unquestionably"], "A": ["doubtfully", "questionably"]}

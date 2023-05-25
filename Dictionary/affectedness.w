@@ -1,1 +1,1 @@
-{"index": 5305, "D": "acted upon; influenced.", "S": ["air ", "grandiosity ", "insincerity ", "mannerism ", "pretense ", "pretension ", "pretentiousness "], "A": ["honesty ", "truth "]}
+{"index": 5305, "D": "acted upon; influenced.", "S": ["air", "grandiosity", "insincerity", "mannerism", "pretense", "pretension", "pretentiousness"], "A": ["honesty", "truth"]}

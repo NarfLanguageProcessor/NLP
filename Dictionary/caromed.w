@@ -1,1 +1,1 @@
-{"index": 48310, "D": "a shot in which the cue ball hits two balls in succession.", "S": ["glance ", "ricochet ", "skim "], "A": []}
+{"index": 48310, "D": "a shot in which the cue ball hits two balls in succession.", "S": ["glance", "ricochet", "skim"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 27337, "D": "a robber, especially a member of a gang or marauding band.", "S": ["criminal ", "gangster ", "hooligan ", "marauder ", "mobster ", "outlaw ", "pirate ", "raider ", "robber "], "A": ["lawman ", "policeman "]}
+{"index": 27337, "D": "a robber, especially a member of a gang or marauding band.", "S": ["criminal", "gangster", "hooligan", "marauder", "mobster", "outlaw", "pirate", "raider", "robber"], "A": ["lawman", "policeman"]}

@@ -1,1 +1,1 @@
-{"index": 18625, "D": "of Arcadia. ", "S": ["bucolic ", "country ", "innocent ", "provincial ", "rustic ", "simple "], "A": ["city ", "metropolitan ", "sophisticated ", "urban "]}
+{"index": 18625, "D": "of Arcadia. ", "S": ["bucolic", "country", "innocent", "provincial", "rustic", "simple"], "A": ["city", "metropolitan", "sophisticated", "urban"]}

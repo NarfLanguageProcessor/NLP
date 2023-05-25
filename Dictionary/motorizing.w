@@ -1,1 +1,1 @@
-{"index": 194083, "D": "to furnish with a motor,  as a vehicle.", "S": ["industrialize "], "A": []}
+{"index": 194083, "D": "to furnish with a motor,  as a vehicle.", "S": ["industrialize"], "A": []}

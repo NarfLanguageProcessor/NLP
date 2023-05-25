@@ -1,1 +1,1 @@
-{"index": 88285, "D": "an open, relatively shallow container of pottery, glass, metal, wood, etc., used for various purposes, especially for holding or serving food.", "S": ["blabby ", "prattling ", "repeating ", "taletelling ", "tattling "], "A": []}
+{"index": 88285, "D": "an open, relatively shallow container of pottery, glass, metal, wood, etc., used for various purposes, especially for holding or serving food.", "S": ["blabby", "prattling", "repeating", "taletelling", "tattling"], "A": []}

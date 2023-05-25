@@ -1,1 +1,1 @@
-{"index": 151929, "D": "hellish; fiendish; diabolical", "S": ["demonic ", "devilish ", "hellish ", "malevolent ", "wicked "], "A": ["angelic ", "godlike ", "good ", "moral "]}
+{"index": 151929, "D": "hellish; fiendish; diabolical", "S": ["demonic", "devilish", "hellish", "malevolent", "wicked"], "A": ["angelic", "godlike", "good", "moral"]}

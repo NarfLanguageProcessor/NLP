@@ -1,1 +1,1 @@
-{"index": 259043, "D": "a person who quits  or gives up easily, especially in the face of some difficulty, danger, etc.", "S": ["deserter ", "dropout ", "goldbrick ", "goof-off ", "shirker ", "slacker ", "wimp "], "A": []}
+{"index": 259043, "D": "a person who quits  or gives up easily, especially in the face of some difficulty, danger, etc.", "S": ["deserter", "dropout", "goldbrick", "goof-off", "shirker", "slacker", "wimp"], "A": []}

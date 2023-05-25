@@ -1,1 +1,1 @@
-{"index": 126179, "D": "thoughtlessly or superficially, with pat answers or insincere talk", "S": ["ably ", "adroitly ", "aptly ", "deftly ", "expertly ", "handily ", "ingeniously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}
+{"index": 126179, "D": "thoughtlessly or superficially, with pat answers or insincere talk", "S": ["ably", "adroitly", "aptly", "deftly", "expertly", "handily", "ingeniously", "neatly", "nimbly", "skillfully", "smoothly"], "A": ["awkwardly", "clumsily", "unskillfully"]}

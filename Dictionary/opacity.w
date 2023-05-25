@@ -1,1 +1,1 @@
-{"index": 213168, "D": [], "S": ["darkness ", "murkiness ", "obscurity "], "A": []}
+{"index": 213168, "D": "the state or quality of being opaque. ", "S": ["darkness", "murkiness", "obscurity"], "A": []}

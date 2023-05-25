@@ -1,0 +1,1 @@
+{"index": 34002, "D": "a sheet of paper with a printed heading,  usually giving one's name and address, on which a statement of money due is rendered.", "S": [], "A": []}

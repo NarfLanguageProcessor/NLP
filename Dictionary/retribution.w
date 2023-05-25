@@ -1,1 +1,1 @@
-{"index": 270731, "D": "requital according to merits or deserts, especially for evil.", "S": ["comeuppance ", "compensation ", "punishment ", "reckoning ", "redress ", "reprisal ", "retaliation ", "revenge ", "vengeance "], "A": ["forgiveness ", "pardon ", "sympathy "]}
+{"index": 270731, "D": "requital according to merits or deserts, especially for evil.", "S": ["comeuppance", "compensation", "punishment", "reckoning", "redress", "reprisal", "retaliation", "revenge", "vengeance"], "A": ["forgiveness", "pardon", "sympathy"]}

@@ -1,1 +1,0 @@
-{"index": 367336, "D": "a coarse fabric, usually of jute, in which raw wool  is packed  for transport.", "S": ["darkness ", "fog ", "gloom ", "mist ", "puff ", "smog ", "smoke ", "steam ", "vapor ", "veil "], "A": ["brightness ", "cognizance ", "light ", "understanding "]}

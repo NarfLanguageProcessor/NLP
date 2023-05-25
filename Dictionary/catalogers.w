@@ -1,1 +1,1 @@
-{"index": 49287, "D": "a person who catalogs. ", "S": ["curator "], "A": []}
+{"index": 49287, "D": "a person who catalogs. ", "S": ["curator"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 168499, "D": "to a great extent; in great part; generally; chiefly", "S": ["broadly ", "chiefly ", "generally ", "mostly ", "predominantly ", "principally ", "widely "], "A": []}
+{"index": 168499, "D": "to a great extent; in great part; generally; chiefly", "S": ["broadly", "chiefly", "generally", "mostly", "predominantly", "principally", "widely"], "A": []}

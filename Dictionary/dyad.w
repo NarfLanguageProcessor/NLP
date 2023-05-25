@@ -1,1 +1,1 @@
-{"index": 84078, "D": "a group of two; couple; pair.", "S": ["set ", "team "], "A": ["individual "]}
+{"index": 84078, "D": "a group of two; couple; pair.", "S": ["set", "team"], "A": ["individual"]}

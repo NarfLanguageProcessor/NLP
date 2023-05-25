@@ -1,1 +1,1 @@
-{"index": 209705, "D": "Compare nurse-midwife, nurse-practitioner, physician's assistant, practical nurse, registered nurse. ", "S": ["assistant ", "attendant ", "medic ", "registered nurse ", "therapist "], "A": []}
+{"index": 209705, "D": "Compare nurse-midwife, nurse-practitioner, physician's assistant, practical nurse, registered nurse. ", "S": ["assistant", "attendant", "medic", "registered nurse", "therapist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 312598, "D": "to replace in power, authority, effectiveness, acceptance, use, etc., as by another person or thing.", "S": ["annul ", "overrule ", "repudiate ", "set aside ", "supplant ", "usurp "], "A": ["keep ", "retain ", "stay ", "support "]}
+{"index": 312598, "D": "to replace in power, authority, effectiveness, acceptance, use, etc., as by another person or thing.", "S": ["annul", "overrule", "repudiate", "set aside", "supplant", "usurp"], "A": ["keep", "retain", "stay", "support"]}

@@ -1,1 +1,1 @@
-{"index": 9165, "D": "the act of donating money, food, or other items to people in need of them, especially as a spiritual practice", "S": ["donation ", "endowment ", "fund ", "philanthropy "], "A": ["hindrance ", "hurt ", "injury "]}
+{"index": 9165, "D": "the act of donating money, food, or other items to people in need of them, especially as a spiritual practice", "S": ["donation", "endowment", "fund", "philanthropy"], "A": ["hindrance", "hurt", "injury"]}

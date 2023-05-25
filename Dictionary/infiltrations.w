@@ -1,1 +1,1 @@
-{"index": 152007, "D": "the act or process of infiltrating.", "S": ["aggression ", "attack ", "foray ", "inroad ", "intrusion ", "penetration ", "raid "], "A": ["retreat "]}
+{"index": 152007, "D": "the act or process of infiltrating.", "S": ["aggression", "attack", "foray", "inroad", "intrusion", "penetration", "raid"], "A": ["retreat"]}

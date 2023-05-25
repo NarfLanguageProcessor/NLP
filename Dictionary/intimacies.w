@@ -1,1 +1,1 @@
-{"index": 156294, "D": "the state of being intimate. ", "S": ["affection ", "confidence ", "confidentiality ", "familiarity ", "friendship ", "understanding "], "A": ["enmity ", "hate ", "hatred ", "ignorance "]}
+{"index": 156294, "D": "the state of being intimate. ", "S": ["affection", "confidence", "confidentiality", "familiarity", "friendship", "understanding"], "A": ["enmity", "hate", "hatred", "ignorance"]}

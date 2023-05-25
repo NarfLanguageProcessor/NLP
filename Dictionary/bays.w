@@ -1,1 +1,1 @@
-{"index": 26538, "D": "a body of water forming an indentation of the shoreline, larger than a cove but smaller than a gulf.", "S": ["badge ", "ribbon "], "A": ["criticism "]}
+{"index": 26538, "D": "a body of water forming an indentation of the shoreline, larger than a cove but smaller than a gulf.", "S": ["badge", "ribbon"], "A": ["criticism"]}

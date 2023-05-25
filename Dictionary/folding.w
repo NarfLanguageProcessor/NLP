@@ -1,1 +1,1 @@
-{"index": 115863, "D": "to bend (cloth, paper, etc.) over upon itself.", "S": ["anthesis ", "developing ", "flowering ", "rash ", "redness ", "sprouting "], "A": []}
+{"index": 115863, "D": "to bend (cloth, paper, etc.) over upon itself.", "S": ["anthesis", "developing", "flowering", "rash", "redness", "sprouting"], "A": []}

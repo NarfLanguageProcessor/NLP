@@ -1,1 +1,1 @@
-{"index": 345804, "D": "not lovely;  without beauty or charm.", "S": ["deformed ", "hard on the eyes ", "homely ", "not beautiful ", "not much for looks ", "not much to look at ", "ordinary ", "plain-featured ", "short on looks ", "unattractive ", "uncomely "], "A": []}
+{"index": 345804, "D": "not lovely;  without beauty or charm.", "S": ["deformed", "hard on the eyes", "homely", "not beautiful", "not much for looks", "not much to look at", "ordinary", "plain-featured", "short on looks", "unattractive", "uncomely"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 135910, "D": "of or relating to blood; hemic.", "S": ["blood-soaked ", "bloodstained ", "gory ", "grisly "], "A": ["pleasing ", "closed ", "shut "]}
+{"index": 135910, "D": "of or relating to blood; hemic.", "S": ["blood-soaked", "bloodstained", "gory", "grisly"], "A": ["pleasing", "closed", "shut"]}

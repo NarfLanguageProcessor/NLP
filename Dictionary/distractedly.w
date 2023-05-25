@@ -1,1 +1,1 @@
-{"index": 89869, "D": "inattentive; preoccupied. ", "S": ["crazily ", "desperately ", "energetically ", "excitedly ", "foolishly ", "frantically ", "furiously ", "hastily ", "hysterically ", "intensely ", "passionately ", "recklessly ", "violently "], "A": ["calmly ", "normally "]}
+{"index": 89869, "D": "inattentive; preoccupied. ", "S": ["crazily", "desperately", "energetically", "excitedly", "foolishly", "frantically", "furiously", "hastily", "hysterically", "intensely", "passionately", "recklessly", "violently"], "A": ["calmly", "normally"]}

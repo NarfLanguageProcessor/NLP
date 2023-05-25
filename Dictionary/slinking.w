@@ -1,1 +1,1 @@
-{"index": 294137, "D": "to move or go in a furtive, abject manner, as from fear, cowardice, or shame.", "S": ["dragging "], "A": ["standing ", "upright ", "vertical "]}
+{"index": 294137, "D": "to move or go in a furtive, abject manner, as from fear, cowardice, or shame.", "S": ["dragging"], "A": ["standing", "upright", "vertical"]}

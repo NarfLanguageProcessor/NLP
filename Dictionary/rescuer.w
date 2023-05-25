@@ -1,1 +1,1 @@
-{"index": 269089, "D": "to free or deliver from confinement, danger, or difficulty", "S": ["deliverer ", "redeemer "], "A": []}
+{"index": 269089, "D": "to free or deliver from confinement, danger, or difficulty", "S": ["deliverer", "redeemer"], "A": []}

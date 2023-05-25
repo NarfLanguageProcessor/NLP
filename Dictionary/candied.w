@@ -1,1 +1,1 @@
-{"index": 46177, "D": "impregnated or incrusted with or as if with sugar", "S": ["cajoling ", "flattering ", "ingratiating ", "sugarcoated "], "A": []}
+{"index": 46177, "D": "impregnated or incrusted with or as if with sugar", "S": ["cajoling", "flattering", "ingratiating", "sugarcoated"], "A": []}

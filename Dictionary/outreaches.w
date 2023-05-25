@@ -1,1 +1,1 @@
-{"index": 217249, "D": "to reach  beyond; exceed", "S": ["eclipse ", "outpace ", "outstrip ", "top "], "A": ["fall behind ", "fail ", "lose ", "surrender "]}
+{"index": 217249, "D": "to reach  beyond; exceed", "S": ["eclipse", "outpace", "outstrip", "top"], "A": ["fall behind", "fail", "lose", "surrender"]}

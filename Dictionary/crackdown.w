@@ -1,1 +1,1 @@
-{"index": 71826, "D": "the severe or stern enforcement of regulations, laws, etc., as to root out abuses or correct a problem.", "S": ["clampdown ", "repression ", "strike ", "suppression "], "A": ["beginning ", "start "]}
+{"index": 71826, "D": "the severe or stern enforcement of regulations, laws, etc., as to root out abuses or correct a problem.", "S": ["clampdown", "repression", "strike", "suppression"], "A": ["beginning", "start"]}

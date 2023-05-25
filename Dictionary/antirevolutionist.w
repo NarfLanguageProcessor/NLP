@@ -1,0 +1,1 @@
+{"index": 16093, "D": "a person who advocates or takes part in a revolution. ", "S": [], "A": []}

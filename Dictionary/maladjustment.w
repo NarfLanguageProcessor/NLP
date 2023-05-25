@@ -1,1 +1,1 @@
-{"index": 178205, "D": "bad or unsatisfactory adjustment. ", "S": ["insanity ", "mental disorder ", "personality disorder ", "schizophrenia "], "A": []}
+{"index": 178205, "D": "bad or unsatisfactory adjustment. ", "S": ["insanity", "mental disorder", "personality disorder", "schizophrenia"], "A": []}

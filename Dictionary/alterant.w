@@ -1,1 +1,1 @@
-{"index": 9450, "D": "causing or producing alteration.", "S": ["adjective ", "adverb ", "conditioner ", "transformer "], "A": []}
+{"index": 9450, "D": "causing or producing alteration.", "S": ["adjective", "adverb", "conditioner", "transformer"], "A": []}

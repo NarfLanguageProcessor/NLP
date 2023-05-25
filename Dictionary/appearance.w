@@ -1,1 +1,1 @@
-{"index": 17611, "D": "the act or fact of appearing,  as to the eye or mind or before the public", "S": ["arrival ", "debut ", "display ", "presence ", "presentation "], "A": ["conclusion ", "departure ", "end ", "exit "]}
+{"index": 17611, "D": "the act or fact of appearing,  as to the eye or mind or before the public", "S": ["arrival", "debut", "display", "presence", "presentation"], "A": ["conclusion", "departure", "end", "exit"]}

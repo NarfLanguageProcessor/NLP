@@ -1,1 +1,1 @@
-{"index": 90100, "D": "a trembling; vibration.", "S": ["convulse ", "pulsate ", "shiver ", "shudder ", "throb ", "tremble "], "A": ["steady "]}
+{"index": 90100, "D": "a trembling; vibration.", "S": ["convulse", "pulsate", "shiver", "shudder", "throb", "tremble"], "A": ["steady"]}

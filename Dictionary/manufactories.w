@@ -1,1 +1,1 @@
-{"index": 179648, "D": "a factory.", "S": ["branch ", "cooperative ", "firm ", "industry ", "laboratory ", "mill ", "shop ", "workshop "], "A": []}
+{"index": 179648, "D": "a factory.", "S": ["branch", "cooperative", "firm", "industry", "laboratory", "mill", "shop", "workshop"], "A": []}

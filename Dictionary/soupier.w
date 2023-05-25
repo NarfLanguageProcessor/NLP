@@ -1,1 +1,1 @@
-{"index": 297890, "D": "resembling soup  in consistency", "S": ["maudlin ", "mushy ", "syrupy "], "A": []}
+{"index": 297890, "D": "resembling soup  in consistency", "S": ["maudlin", "mushy", "syrupy"], "A": []}

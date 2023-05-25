@@ -1,1 +1,1 @@
-{"index": 142934, "D": [], "S": ["preachify ", "proclaim ", "proselytize ", "sermonize "], "A": []}
+{"index": 142934, "D": [], "S": ["preachify", "proclaim", "proselytize", "sermonize"], "A": []}

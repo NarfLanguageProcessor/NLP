@@ -1,1 +1,1 @@
-{"index": 85012, "D": "an authoritative pronouncement; judicial assertion.", "S": ["adage ", "aphorism ", "axiom ", "maxim ", "precept "], "A": []}
+{"index": 85012, "D": "an authoritative pronouncement; judicial assertion.", "S": ["adage", "aphorism", "axiom", "maxim", "precept"], "A": []}

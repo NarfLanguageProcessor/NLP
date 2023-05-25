@@ -1,1 +1,1 @@
-{"index": 274618, "D": "to cause to turn around an axis or center point; revolve.", "S": ["pivot ", "revolve ", "spin ", "swivel ", "twirl ", "twist ", "whirl "], "A": ["straighten ", "untwist "]}
+{"index": 274618, "D": "to cause to turn around an axis or center point; revolve.", "S": ["pivot", "revolve", "spin", "swivel", "twirl", "twist", "whirl"], "A": ["straighten", "untwist"]}

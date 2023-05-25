@@ -1,1 +1,1 @@
-{"index": 5890, "D": "with the mouth wide open, as in wonder, surprise, or eagerness", "S": ["open ", "yawning "], "A": []}
+{"index": 5890, "D": "with the mouth wide open, as in wonder, surprise, or eagerness", "S": ["open", "yawning"], "A": []}

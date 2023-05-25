@@ -1,1 +1,1 @@
-{"index": 147337, "D": "forbidden by law or statute.", "S": ["over "], "A": []}
+{"index": 147337, "D": "forbidden by law or statute.", "S": ["over"], "A": []}

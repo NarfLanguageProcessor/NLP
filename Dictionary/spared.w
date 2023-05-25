@@ -1,1 +1,1 @@
-{"index": 298398, "D": "left intact; not damaged, punished, destroyed, killed, etc.", "S": ["crated "], "A": []}
+{"index": 298398, "D": "left intact; not damaged, punished, destroyed, killed, etc.", "S": ["crated"], "A": []}

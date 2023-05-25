@@ -1,1 +1,1 @@
-{"index": 296620, "D": "the state or character of being solemn;  earnestness; gravity; impressiveness", "S": ["burial ", "cremation "], "A": ["baptism ", "christening "]}
+{"index": 296620, "D": "the state or character of being solemn;  earnestness; gravity; impressiveness", "S": ["burial", "cremation"], "A": ["baptism", "christening"]}

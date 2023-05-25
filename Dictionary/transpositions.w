@@ -1,1 +1,1 @@
-{"index": 328294, "D": "an act of transposing. ", "S": ["interchange ", "rotation ", "shift ", "variation "], "A": []}
+{"index": 328294, "D": "an act of transposing. ", "S": ["interchange", "rotation", "shift", "variation"], "A": []}

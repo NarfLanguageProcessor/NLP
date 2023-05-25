@@ -1,1 +1,1 @@
-{"index": 66293, "D": "exhibiting harmony of parts.", "S": ["congruent "], "A": ["disagreeing ", "incongruous ", "unfitting ", "unharmonious ", "unsuitable "]}
+{"index": 66293, "D": "exhibiting harmony of parts.", "S": ["congruent"], "A": ["disagreeing", "incongruous", "unfitting", "unharmonious", "unsuitable"]}

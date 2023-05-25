@@ -1,1 +1,1 @@
-{"index": 167877, "D": [], "S": ["acuminate ", "taper ", "wedged "], "A": ["widening "]}
+{"index": 167877, "D": [], "S": ["acuminate", "taper", "wedged"], "A": ["widening"]}

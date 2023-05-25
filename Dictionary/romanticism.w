@@ -1,1 +1,1 @@
-{"index": 274067, "D": "romantic  spirit or tendency.", "S": ["affectation ", "gush ", "mawkishness ", "schmaltz ", "sentimentalism ", "superficiality "], "A": []}
+{"index": 274067, "D": "romantic  spirit or tendency.", "S": ["affectation", "gush", "mawkishness", "schmaltz", "sentimentalism", "superficiality"], "A": []}

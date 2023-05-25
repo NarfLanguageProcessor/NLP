@@ -1,1 +1,1 @@
-{"index": 81504, "D": "a distinct part of anything arranged in divisions; a division of a complex whole or organized system.", "S": ["administration ", "agency ", "area ", "board ", "branch ", "bureau ", "commission ", "division ", "office ", "staff ", "station ", "unit "], "A": ["whole "]}
+{"index": 81504, "D": "a distinct part of anything arranged in divisions; a division of a complex whole or organized system.", "S": ["administration", "agency", "area", "board", "branch", "bureau", "commission", "division", "office", "staff", "station", "unit"], "A": ["whole"]}

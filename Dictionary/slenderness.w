@@ -1,1 +1,1 @@
-{"index": 293975, "D": "having a circumference that is small in proportion to the height or length", "S": ["elegance ", "fragility ", "lightness ", "subtlety ", "tenderness "], "A": ["strength "]}
+{"index": 293975, "D": "having a circumference that is small in proportion to the height or length", "S": ["elegance", "fragility", "lightness", "subtlety", "tenderness"], "A": ["strength"]}

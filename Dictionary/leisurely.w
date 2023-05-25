@@ -1,1 +1,1 @@
-{"index": 170286, "D": "acting, proceeding, or done without haste; unhurried; deliberate", "S": ["gentle ", "laid-back ", "languid ", "lazy ", "relaxed ", "restful "], "A": ["energetic ", "lively "]}
+{"index": 170286, "D": "acting, proceeding, or done without haste; unhurried; deliberate", "S": ["gentle", "laid-back", "languid", "lazy", "relaxed", "restful"], "A": ["energetic", "lively"]}

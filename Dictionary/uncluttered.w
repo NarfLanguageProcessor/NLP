@@ -1,1 +1,1 @@
-{"index": 337119, "D": "not having too many objects, details, etc", "S": ["breezy "], "A": ["burdensome ", "close ", "closed ", "heavy ", "oppressive ", "stuffy "]}
+{"index": 337119, "D": "not having too many objects, details, etc", "S": ["breezy"], "A": ["burdensome", "close", "closed", "heavy", "oppressive", "stuffy"]}

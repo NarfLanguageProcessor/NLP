@@ -1,1 +1,1 @@
-{"index": 336715, "D": "not altered or different in any way", "S": ["consistent ", "constant ", "stable ", "unaffected ", "uninterrupted ", "untouched "], "A": ["affected ", "inconstant ", "interrupted ", "irregular ", "unstable ", "varying "]}
+{"index": 336715, "D": "not altered or different in any way", "S": ["consistent", "constant", "stable", "unaffected", "uninterrupted", "untouched"], "A": ["affected", "inconstant", "interrupted", "irregular", "unstable", "varying"]}

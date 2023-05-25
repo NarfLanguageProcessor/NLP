@@ -1,1 +1,1 @@
-{"index": 54262, "D": "a large, smooth twist, roll, or knot of hair, worn by women at the nape of the neck or the back of the head.", "S": ["bun ", "knot ", "twist "], "A": []}
+{"index": 54262, "D": "a large, smooth twist, roll, or knot of hair, worn by women at the nape of the neck or the back of the head.", "S": ["bun", "knot", "twist"], "A": []}

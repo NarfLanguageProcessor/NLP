@@ -1,1 +1,1 @@
-{"index": 172679, "D": "to put to death, especially by hanging, by mob action and without legal authority", "S": ["firing squad "], "A": []}
+{"index": 172679, "D": "to put to death, especially by hanging, by mob action and without legal authority", "S": ["firing squad"], "A": []}

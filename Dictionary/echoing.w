@@ -1,1 +1,1 @@
-{"index": 95276, "D": "a repetition of sound produced by the reflection of sound waves from a wall, mountain, or other obstructing surface.", "S": ["gaping ", "huge ", "roomy ", "spacious ", "vast ", "yawning "], "A": ["cramped ", "little ", "narrow ", "small "]}
+{"index": 95276, "D": "a repetition of sound produced by the reflection of sound waves from a wall, mountain, or other obstructing surface.", "S": ["gaping", "huge", "roomy", "spacious", "vast", "yawning"], "A": ["cramped", "little", "narrow", "small"]}

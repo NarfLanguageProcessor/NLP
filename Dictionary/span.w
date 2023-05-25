@@ -1,1 +1,1 @@
-{"index": 298301, "D": "the distance between the tip of the thumb and the tip of the little finger when the hand is fully extended.", "S": ["interval ", "length ", "period ", "space ", "spell ", "stretch ", "term "], "A": ["extreme "]}
+{"index": 298301, "D": "the distance between the tip of the thumb and the tip of the little finger when the hand is fully extended.", "S": ["interval", "length", "period", "space", "spell", "stretch", "term"], "A": ["extreme"]}

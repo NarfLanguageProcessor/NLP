@@ -1,1 +1,1 @@
-{"index": 248857, "D": "the fact or quality of being preponderant;  superiority in weight, power, numbers, etc.", "S": ["predominance ", "prevalence "], "A": ["disadvantage ", "inferiority ", "subordination ", "subservience ", "surrender ", "weakness ", "yielding "]}
+{"index": 248857, "D": "the fact or quality of being preponderant;  superiority in weight, power, numbers, etc.", "S": ["predominance", "prevalence"], "A": ["disadvantage", "inferiority", "subordination", "subservience", "surrender", "weakness", "yielding"]}

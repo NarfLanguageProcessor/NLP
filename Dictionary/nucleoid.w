@@ -1,1 +1,0 @@
-{"index": 209339, "D": "the central region in a prokaryotic cell, as a bacterium, that contains the chromosomes and that has no surrounding membrane.", "S": [], "A": []}

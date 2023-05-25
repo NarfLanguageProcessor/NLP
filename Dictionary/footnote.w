@@ -1,1 +1,1 @@
-{"index": 116217, "D": "an explanatory or documenting note  or comment at the bottom of a page, referring to a specific part of the text on the page.", "S": ["explanation ", "reference "], "A": ["header "]}
+{"index": 116217, "D": "an explanatory or documenting note  or comment at the bottom of a page, referring to a specific part of the text on the page.", "S": ["explanation", "reference"], "A": ["header"]}

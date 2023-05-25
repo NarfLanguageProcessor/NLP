@@ -1,1 +1,1 @@
-{"index": 177940, "D": "to keep in existence or continuance; preserve; retain", "S": ["chronic ", "enduring ", "lasting "], "A": ["temporary "]}
+{"index": 177940, "D": "to keep in existence or continuance; preserve; retain", "S": ["chronic", "enduring", "lasting"], "A": ["temporary"]}

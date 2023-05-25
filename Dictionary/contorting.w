@@ -1,1 +1,1 @@
-{"index": 67522, "D": "to twist, bend, or draw out of shape; distort.", "S": ["deform ", "writhe "], "A": ["straighten "]}
+{"index": 67522, "D": "to twist, bend, or draw out of shape; distort.", "S": ["deform", "writhe"], "A": ["straighten"]}

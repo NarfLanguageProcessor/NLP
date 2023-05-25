@@ -1,1 +1,1 @@
-{"index": 281885, "D": "of, relating to, or in accordance with sacred writings, especially the Scriptures. ", "S": ["canonical ", "divine ", "holy ", "religious ", "sacred "], "A": []}
+{"index": 281885, "D": "of, relating to, or in accordance with sacred writings, especially the Scriptures. ", "S": ["canonical", "divine", "holy", "religious", "sacred"], "A": []}

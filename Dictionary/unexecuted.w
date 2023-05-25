@@ -1,1 +1,1 @@
-{"index": 341687, "D": "carried out or acted on; performed", "S": ["deficient ", "fragmentary ", "inadequate ", "insufficient ", "lacking ", "partial ", "sketchy "], "A": ["adequate ", "ample ", "complete ", "enough ", "sufficient ", "total ", "whole "]}
+{"index": 341687, "D": "carried out or acted on; performed", "S": ["deficient", "fragmentary", "inadequate", "insufficient", "lacking", "partial", "sketchy"], "A": ["adequate", "ample", "complete", "enough", "sufficient", "total", "whole"]}

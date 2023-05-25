@@ -1,1 +1,1 @@
-{"index": 305778, "D": "distemper1 (def. 1b). ", "S": ["gag ", "inhibit ", "kill ", "restrain ", "smother ", "suffocate "], "A": ["free ", "start ", "allow ", "let go ", "release "]}
+{"index": 305778, "D": "distemper1 (def. 1b). ", "S": ["gag", "inhibit", "kill", "restrain", "smother", "suffocate"], "A": ["free", "start", "allow", "let go", "release"]}

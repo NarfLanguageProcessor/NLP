@@ -1,1 +1,1 @@
-{"index": 183273, "D": "the theories of heredity advanced by Gregor Mendel. ", "S": ["Mendelianism ", "law of segregation "], "A": []}
+{"index": 183273, "D": "the theories of heredity advanced by Gregor Mendel. ", "S": ["Mendelianism", "law of segregation"], "A": []}

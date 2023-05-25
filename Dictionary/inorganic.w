@@ -1,1 +1,1 @@
-{"index": 153227, "D": "not having the structure or organization characteristic of living bodies.", "S": ["dead ", "extinct ", "inanimate ", "lifeless ", "manmade ", "mineral ", "not living ", "not natural "], "A": ["organic "]}
+{"index": 153227, "D": "not having the structure or organization characteristic of living bodies.", "S": ["dead", "extinct", "inanimate", "lifeless", "manmade", "mineral", "not living", "not natural"], "A": ["organic"]}

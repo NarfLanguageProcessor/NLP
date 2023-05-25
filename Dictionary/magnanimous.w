@@ -1,1 +1,1 @@
-{"index": 177470, "D": "generous in forgiving an insult or injury; free from petty resentfulness or vindictiveness", "S": ["altruistic ", "charitable ", "considerate ", "forgiving ", "selfless ", "unselfish ", "unstinting "], "A": ["mean ", "selfish ", "uncharitable "]}
+{"index": 177470, "D": "generous in forgiving an insult or injury; free from petty resentfulness or vindictiveness", "S": ["altruistic", "charitable", "considerate", "forgiving", "selfless", "unselfish", "unstinting"], "A": ["mean", "selfish", "uncharitable"]}

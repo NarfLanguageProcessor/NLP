@@ -1,1 +1,1 @@
-{"index": 121519, "D": "to move along heavily and clumsily.", "S": ["clatter ", "clomp ", "scuff ", "stomp ", "stumble ", "thud "], "A": []}
+{"index": 121519, "D": "to move along heavily and clumsily.", "S": ["clatter", "clomp", "scuff", "stomp", "stumble", "thud"], "A": []}

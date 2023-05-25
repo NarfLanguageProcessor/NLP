@@ -1,1 +1,1 @@
-{"index": 196907, "D": [], "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}
+{"index": 196907, "D": [], "S": ["comatose", "dormant"], "A": ["attentive", "awake", "conscious"]}

@@ -1,1 +1,0 @@
-{"index": 268828, "D": "held in good repute;  honorable; respectable; estimable", "S": ["distinguished ", "eminent ", "esteemed ", "illustrious ", "prominent ", "renowned ", "trustworthy ", "well-known "], "A": ["common ", "obscure ", "ordinary ", "unimportant ", "unknown "]}

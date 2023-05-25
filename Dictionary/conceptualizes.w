@@ -1,1 +1,1 @@
-{"index": 65178, "D": "to form into a concept;  make a concept of.", "S": ["gestate "], "A": []}
+{"index": 65178, "D": "to form into a concept;  make a concept of.", "S": ["gestate"], "A": []}

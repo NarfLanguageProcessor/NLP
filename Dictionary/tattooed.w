@@ -1,1 +1,1 @@
-{"index": 317033, "D": "a signal on a drum, bugle, or trumpet at night, for soldiers or sailors to go to their quarters.", "S": ["strum "], "A": []}
+{"index": 317033, "D": "a signal on a drum, bugle, or trumpet at night, for soldiers or sailors to go to their quarters.", "S": ["strum"], "A": []}

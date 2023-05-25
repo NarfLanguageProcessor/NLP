@@ -1,1 +1,1 @@
-{"index": 6226, "D": "a person who stirs up others in order to upset the status quo and further a political, social, or other cause", "S": ["anarchist ", "demagogue ", "firebrand ", "malcontent ", "propagandist ", "protestor ", "radical ", "troublemaker ", "zealot "], "A": ["moderate "]}
+{"index": 6226, "D": "a person who stirs up others in order to upset the status quo and further a political, social, or other cause", "S": ["anarchist", "demagogue", "firebrand", "malcontent", "propagandist", "protestor", "radical", "troublemaker", "zealot"], "A": ["moderate"]}

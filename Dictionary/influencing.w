@@ -1,1 +1,1 @@
-{"index": 152171, "D": "the capacity or power of persons or things to be a compelling force on or produce effects on the actions, behavior, opinions, etc., of others", "S": ["conditioning ", "persuasion "], "A": []}
+{"index": 152171, "D": "the capacity or power of persons or things to be a compelling force on or produce effects on the actions, behavior, opinions, etc., of others", "S": ["conditioning", "persuasion"], "A": []}

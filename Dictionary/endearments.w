@@ -1,1 +1,1 @@
-{"index": 99623, "D": "the act of endearing. ", "S": ["affection ", "fondness ", "love "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 99623, "D": "the act of endearing. ", "S": ["affection", "fondness", "love"], "A": ["dislike", "hate", "hatred"]}

@@ -1,1 +1,1 @@
-{"index": 305620, "D": "to attack (ground troops or installations) by airplanes with machine-gun fire.", "S": ["attack ", "blast ", "blow up ", "bombard ", "destroy ", "raid ", "wipe out "], "A": ["aid ", "build ", "create ", "protect "]}
+{"index": 305620, "D": "to attack (ground troops or installations) by airplanes with machine-gun fire.", "S": ["attack", "blast", "blow up", "bombard", "destroy", "raid", "wipe out"], "A": ["aid", "build", "create", "protect"]}

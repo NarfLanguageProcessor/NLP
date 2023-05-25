@@ -1,1 +1,1 @@
-{"index": 261152, "D": "foolish; flighty; scatterbrained.", "S": ["addle-brained ", "addle-headed ", "addle-pated ", "airheaded ", "empty-headed ", "featherbrained ", "flighty ", "harebrained ", "rattlepated ", "scatterbrained ", "scatty ", "silly "], "A": []}
+{"index": 261152, "D": "foolish; flighty; scatterbrained.", "S": ["addle-brained", "addle-headed", "addle-pated", "airheaded", "empty-headed", "featherbrained", "flighty", "harebrained", "rattlepated", "scatterbrained", "scatty", "silly"], "A": []}

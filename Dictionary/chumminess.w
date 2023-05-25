@@ -1,1 +1,1 @@
-{"index": 56611, "D": "friendly; intimate; sociable.", "S": ["camaraderie ", "closeness ", "companionship ", "comradeship ", "familiarity ", "fellowship ", "nearness ", "neighborliness ", "sociableness "], "A": ["distance "]}
+{"index": 56611, "D": "friendly; intimate; sociable.", "S": ["camaraderie", "closeness", "companionship", "comradeship", "familiarity", "fellowship", "nearness", "neighborliness", "sociableness"], "A": ["distance"]}

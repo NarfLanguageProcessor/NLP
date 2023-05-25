@@ -1,1 +1,1 @@
-{"index": 190609, "D": "the act of mitigating,  or lessening the force or intensity of something unpleasant, as wrath, pain, grief, or extreme circumstances", "S": ["cure ", "extenuation ", "moderation ", "reduction ", "relief ", "remission "], "A": ["increase "]}
+{"index": 190609, "D": "the act of mitigating,  or lessening the force or intensity of something unpleasant, as wrath, pain, grief, or extreme circumstances", "S": ["cure", "extenuation", "moderation", "reduction", "relief", "remission"], "A": ["increase"]}

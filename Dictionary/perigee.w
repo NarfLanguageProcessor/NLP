@@ -1,1 +1,1 @@
-{"index": 230966, "D": "the point in the orbit of a heavenly body, especially the moon, or of an artificial satellite at which it is nearest to the earth.", "S": ["path ", "pattern ", "rotation ", "trajectory "], "A": []}
+{"index": 230966, "D": "the point in the orbit of a heavenly body, especially the moon, or of an artificial satellite at which it is nearest to the earth.", "S": ["path", "pattern", "rotation", "trajectory"], "A": []}

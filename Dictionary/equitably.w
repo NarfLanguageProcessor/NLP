@@ -1,1 +1,1 @@
-{"index": 103400, "D": "in a way that is fair and reasonable; justly", "S": ["fairly ", "justly ", "uniformly "], "A": ["unfairly ", "unjustly "]}
+{"index": 103400, "D": "in a way that is fair and reasonable; justly", "S": ["fairly", "justly", "uniformly"], "A": ["unfairly", "unjustly"]}

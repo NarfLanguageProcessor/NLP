@@ -1,1 +1,1 @@
-{"index": 266670, "D": "to excite, stir up, or rouse anew", "S": ["renew ", "revitalize ", "revive "], "A": ["kill "]}
+{"index": 266670, "D": "to excite, stir up, or rouse anew", "S": ["renew", "revitalize", "revive"], "A": ["kill"]}

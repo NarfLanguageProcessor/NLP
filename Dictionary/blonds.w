@@ -1,1 +1,1 @@
-{"index": 36415, "D": "(of hair, skin, etc.) light-colored", "S": ["amber ", "bisque ", "blond ", "buff ", "chrome ", "cream ", "gold ", "ivory ", "lemon ", "saffron ", "sand "], "A": []}
+{"index": 36415, "D": "(of hair, skin, etc.) light-colored", "S": ["amber", "bisque", "blond", "buff", "chrome", "cream", "gold", "ivory", "lemon", "saffron", "sand"], "A": []}

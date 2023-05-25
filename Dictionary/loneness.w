@@ -1,1 +1,1 @@
-{"index": 174875, "D": "being alone; without company or accompaniment; solitary; unaccompanied", "S": ["friendlessness ", "isolation ", "loneliness ", "lonesomeness ", "solitariness ", "solitude ", "withdrawal "], "A": []}
+{"index": 174875, "D": "being alone; without company or accompaniment; solitary; unaccompanied", "S": ["friendlessness", "isolation", "loneliness", "lonesomeness", "solitariness", "solitude", "withdrawal"], "A": []}

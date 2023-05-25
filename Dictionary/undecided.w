@@ -1,1 +1,1 @@
-{"index": 338475, "D": "not decided  or determined.", "S": ["ambivalent ", "doubtful ", "hesitant ", "uncertain ", "unclear ", "uncommitted ", "undetermined ", "unsure ", "vague ", "wavering "], "A": ["certain ", "clear ", "definite ", "determined ", "resolved ", "secure ", "settled ", "sure "]}
+{"index": 338475, "D": "not decided  or determined.", "S": ["ambivalent", "doubtful", "hesitant", "uncertain", "unclear", "uncommitted", "undetermined", "unsure", "vague", "wavering"], "A": ["certain", "clear", "definite", "determined", "resolved", "secure", "settled", "sure"]}

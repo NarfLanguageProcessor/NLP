@@ -1,1 +1,0 @@
-{"index": 336836, "D": "to free of obstruction or congestion.", "S": [], "A": []}

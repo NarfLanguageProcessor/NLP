@@ -1,1 +1,1 @@
-{"index": 278668, "D": "a small bag, sometimes with a shoulder strap.", "S": ["backpack ", "briefcase ", "carry-on ", "duffel bag ", "handbag ", "knapsack ", "pouch ", "suitcase "], "A": []}
+{"index": 278668, "D": "a small bag, sometimes with a shoulder strap.", "S": ["backpack", "briefcase", "carry-on", "duffel bag", "handbag", "knapsack", "pouch", "suitcase"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 84413, "D": "a piece of cloth or other absorbent material folded and worn as underpants by a baby not yet toilet-trained.", "S": ["nappy "], "A": []}
+{"index": 84413, "D": "a piece of cloth or other absorbent material folded and worn as underpants by a baby not yet toilet-trained.", "S": ["nappy"], "A": []}

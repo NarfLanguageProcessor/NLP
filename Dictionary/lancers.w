@@ -1,1 +1,1 @@
-{"index": 167887, "D": "a set of quadrilles danced in sequence.", "S": ["squadron "], "A": []}
+{"index": 167887, "D": "a set of quadrilles danced in sequence.", "S": ["squadron"], "A": []}

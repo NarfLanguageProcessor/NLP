@@ -1,1 +1,1 @@
-{"index": 236490, "D": "a braid of hair hanging down the back of the head.", "S": ["DA ", "afro ", "beehive ", "braids ", "dreadlocks ", "dreads ", "flip ", "hair ", "haircut ", "hairdo ", "permanent ", "plait ", "ponytail ", "tail ", "tease ", "trim ", "wave "], "A": []}
+{"index": 236490, "D": "a braid of hair hanging down the back of the head.", "S": ["DA", "afro", "beehive", "braids", "dreadlocks", "dreads", "flip", "hair", "haircut", "hairdo", "permanent", "plait", "ponytail", "tail", "tease", "trim", "wave"], "A": []}

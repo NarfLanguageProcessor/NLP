@@ -1,1 +1,1 @@
-{"index": 73915, "D": "a forking or place of forking, as of the human body between the legs.", "S": ["corner ", "curve ", "elbow ", "fork "], "A": []}
+{"index": 73915, "D": "a forking or place of forking, as of the human body between the legs.", "S": ["corner", "curve", "elbow", "fork"], "A": []}

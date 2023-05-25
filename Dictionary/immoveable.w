@@ -1,1 +1,1 @@
-{"index": 148110, "D": "incapable of being moved; fixed; stationary.", "S": ["land "], "A": []}
+{"index": 148110, "D": "incapable of being moved; fixed; stationary.", "S": ["land"], "A": []}

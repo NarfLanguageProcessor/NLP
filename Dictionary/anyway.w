@@ -1,1 +1,1 @@
-{"index": 13379, "D": "in any case; anyhow; nonetheless; regardless", "S": ["anyhow ", "ever ", "once "], "A": []}
+{"index": 13379, "D": "in any case; anyhow; nonetheless; regardless", "S": ["anyhow", "ever", "once"], "A": []}

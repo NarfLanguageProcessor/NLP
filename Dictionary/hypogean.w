@@ -1,1 +1,1 @@
-{"index": 140944, "D": "underground; subterranean", "S": ["below ground ", "buried ", "covered ", "hypogeal ", "hypogeous ", "in the recesses ", "subterranean ", "subterrestrial ", "sunken ", "underfoot "], "A": []}
+{"index": 140944, "D": "underground; subterranean", "S": ["below ground", "buried", "covered", "hypogeal", "hypogeous", "in the recesses", "subterranean", "subterrestrial", "sunken", "underfoot"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 243069, "D": [], "S": ["admonish ", "edify ", "lecture ", "pontificate ", "preachify ", "sermonize ", "teach "], "A": ["praise "]}
+{"index": 243069, "D": [], "S": ["admonish", "edify", "lecture", "pontificate", "preachify", "sermonize", "teach"], "A": ["praise"]}

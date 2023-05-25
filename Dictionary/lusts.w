@@ -1,1 +1,1 @@
-{"index": 176446, "D": "intense sexual desire or appetite.", "S": ["craving ", "desire ", "excitement ", "fervor ", "greed ", "hunger ", "libido ", "longing ", "sensuality ", "thirst "], "A": ["apathy ", "dislike ", "distaste ", "hate ", "hatred "]}
+{"index": 176446, "D": "intense sexual desire or appetite.", "S": ["craving", "desire", "excitement", "fervor", "greed", "hunger", "libido", "longing", "sensuality", "thirst"], "A": ["apathy", "dislike", "distaste", "hate", "hatred"]}

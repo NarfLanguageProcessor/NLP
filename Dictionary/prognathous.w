@@ -1,1 +1,1 @@
-{"index": 251876, "D": "having protrusive jaws; having a gnathic index over 103.", "S": ["noticeable "], "A": ["modest ", "shy ", "unobtrusive "]}
+{"index": 251876, "D": "having protrusive jaws; having a gnathic index over 103.", "S": ["noticeable"], "A": ["modest", "shy", "unobtrusive"]}

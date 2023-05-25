@@ -1,1 +1,1 @@
-{"index": 256377, "D": "spruce or other soft wood  suitable for making paper.", "S": ["paper pulp ", "papier mache ", "pulp ", "rag paper ", "rag pulp "], "A": []}
+{"index": 256377, "D": "spruce or other soft wood  suitable for making paper.", "S": ["paper pulp", "papier mache", "pulp", "rag paper", "rag pulp"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 23523, "D": "Roman emperor 270\u2013275.", "S": ["gilt ", "halcyon "], "A": []}
+{"index": 23523, "D": "Roman emperor 270\u2013275.", "S": ["gilt", "halcyon"], "A": []}

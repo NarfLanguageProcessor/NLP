@@ -1,1 +1,1 @@
-{"index": 68385, "D": "any of several large aquatic turtles of the southern U.S. and northern Mexico.", "S": ["tortoise "], "A": []}
+{"index": 68385, "D": "any of several large aquatic turtles of the southern U.S. and northern Mexico.", "S": ["tortoise"], "A": []}

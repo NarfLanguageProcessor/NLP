@@ -1,1 +1,1 @@
-{"index": 67323, "D": "the act of contemplating;  thoughtful observation.", "S": ["meditation ", "reflection ", "reverie "], "A": ["ignorance "]}
+{"index": 67323, "D": "the act of contemplating;  thoughtful observation.", "S": ["meditation", "reflection", "reverie"], "A": ["ignorance"]}

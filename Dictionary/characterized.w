@@ -1,1 +1,1 @@
-{"index": 52736, "D": "having been described or distinguished", "S": ["defined ", "described ", "expressed ", "pictured "], "A": []}
+{"index": 52736, "D": "having been described or distinguished", "S": ["defined", "described", "expressed", "pictured"], "A": []}

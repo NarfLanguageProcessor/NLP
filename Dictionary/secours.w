@@ -1,1 +1,1 @@
-{"index": 282781, "D": [], "S": ["compassion ", "consolation ", "encouragement ", "relief ", "solace ", "sympathy "], "A": ["discouragement ", "indifference ", "mercilessness ", "hindrance ", "stop "]}
+{"index": 282781, "D": [], "S": ["compassion", "consolation", "encouragement", "relief", "solace", "sympathy"], "A": ["discouragement", "indifference", "mercilessness", "hindrance", "stop"]}

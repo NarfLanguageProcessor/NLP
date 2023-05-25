@@ -1,1 +1,1 @@
-{"index": 360712, "D": "the quality or state of being vivacious. ", "S": ["energy ", "enthusiasm ", "gusto ", "life ", "verve ", "vigor ", "zeal "], "A": ["listlessness "]}
+{"index": 360712, "D": "the quality or state of being vivacious. ", "S": ["energy", "enthusiasm", "gusto", "life", "verve", "vigor", "zeal"], "A": ["listlessness"]}

@@ -1,1 +1,1 @@
-{"index": 83988, "D": "having the qualities of a devil; devilish; fiendish;  outrageously wicked", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}
+{"index": 83988, "D": "having the qualities of a devil; devilish; fiendish;  outrageously wicked", "S": ["ferociously", "fiercely", "mercilessly", "relentlessly", "ruthlessly", "savagely", "viciously"], "A": ["gently", "humanely", "kindly", "nicely"]}

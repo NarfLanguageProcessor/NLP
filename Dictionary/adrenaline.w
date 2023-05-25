@@ -1,0 +1,1 @@
+{"index": 4396, "D": "epinephrine (def. 1). ", "S": ["caffeine", "morphine"], "A": ["calm"]}

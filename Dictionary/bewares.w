@@ -1,1 +1,1 @@
-{"index": 32938, "D": "to be wary, cautious, or careful of (usually used imperatively)", "S": ["heed ", "take care "], "A": ["disregard ", "face ", "ignore ", "meet ", "neglect "]}
+{"index": 32938, "D": "to be wary, cautious, or careful of (usually used imperatively)", "S": ["heed", "take care"], "A": ["disregard", "face", "ignore", "meet", "neglect"]}

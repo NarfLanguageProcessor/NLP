@@ -1,1 +1,1 @@
-{"index": 9486, "D": "to interchange repeatedly and regularly with one another in time or place; rotate (usually followed by with)", "S": ["back up "], "A": ["necessary "]}
+{"index": 9486, "D": "to interchange repeatedly and regularly with one another in time or place; rotate (usually followed by with)", "S": ["back up"], "A": ["necessary"]}

@@ -1,1 +1,1 @@
-{"index": 270217, "D": "to revive, especially from apparent death or from unconsciousness.", "S": ["energize ", "invigorate ", "rejuvenate ", "restore ", "resurrect ", "revitalize "], "A": ["destroy ", "bore "]}
+{"index": 270217, "D": "to revive, especially from apparent death or from unconsciousness.", "S": ["energize", "invigorate", "rejuvenate", "restore", "resurrect", "revitalize"], "A": ["destroy", "bore"]}

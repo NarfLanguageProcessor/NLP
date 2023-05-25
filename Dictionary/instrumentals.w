@@ -1,1 +1,1 @@
-{"index": 153999, "D": "serving or acting as an instrument or means; useful; helpful.", "S": ["melody ", "opera ", "piece ", "rap ", "rock ", "singing ", "soul ", "tune "], "A": ["silence "]}
+{"index": 153999, "D": "serving or acting as an instrument or means; useful; helpful.", "S": ["melody", "opera", "piece", "rap", "rock", "singing", "soul", "tune"], "A": ["silence"]}

@@ -1,1 +1,1 @@
-{"index": 18711, "D": "to give an archaic  appearance or quality to", "S": ["antiquate ", "obsolesce "], "A": []}
+{"index": 18711, "D": "to give an archaic  appearance or quality to", "S": ["antiquate", "obsolesce"], "A": []}

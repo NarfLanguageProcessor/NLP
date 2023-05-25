@@ -1,1 +1,1 @@
-{"index": 209402, "D": "naked or unclothed, as a person or the body.", "S": ["dummy ", "manikin ", "mannequin ", "nude ", "sitter ", "subject "], "A": ["photographer "]}
+{"index": 209402, "D": "naked or unclothed, as a person or the body.", "S": ["dummy", "manikin", "mannequin", "nude", "sitter", "subject"], "A": ["photographer"]}

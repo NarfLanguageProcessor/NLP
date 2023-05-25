@@ -1,0 +1,1 @@
+{"index": 14079, "D": "to go before, in time, order, rank, etc.; precede", "S": ["backdate", "come first", "go before", "misdate", "precede", "predate"], "A": ["come after", "follow", "go after", "postdate"]}

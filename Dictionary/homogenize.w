@@ -1,1 +1,1 @@
-{"index": 143094, "D": "to form by blending unlike elements; make homogeneous. ", "S": ["accommodate ", "adapt ", "blend in "], "A": ["disarrange ", "differ "]}
+{"index": 143094, "D": "to form by blending unlike elements; make homogeneous. ", "S": ["accommodate", "adapt", "blend in"], "A": ["disarrange", "differ"]}

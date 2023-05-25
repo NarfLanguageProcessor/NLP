@@ -1,1 +1,1 @@
-{"index": 134769, "D": "the field concerned with the maintenance or restoration of the health  of the body or mind.", "S": ["health maintenance ", "health protection ", "medical management ", "preventive medicine ", "wellness program "], "A": []}
+{"index": 134769, "D": "the field concerned with the maintenance or restoration of the health  of the body or mind.", "S": ["health maintenance", "health protection", "medical management", "preventive medicine", "wellness program"], "A": []}

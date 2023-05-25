@@ -1,1 +1,1 @@
-{"index": 14111, "D": "to be of older date than; precede in time", "S": ["antecede ", "backdate ", "come first ", "go before ", "misdate ", "precede ", "predate "], "A": ["come after ", "follow ", "go after ", "postdate "]}
+{"index": 14111, "D": "to be of older date than; precede in time", "S": ["antecede", "backdate", "come first", "go before", "misdate", "precede", "predate"], "A": ["come after", "follow", "go after", "postdate"]}

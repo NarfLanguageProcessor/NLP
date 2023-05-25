@@ -1,1 +1,1 @@
-{"index": 244352, "D": "an office or station of a government postal system at which mail is received and sorted, from which it is dispatched and distributed, and at which stamps are sold or other services rendered. Abbreviations", "S": ["postal service "], "A": []}
+{"index": 244352, "D": "an office or station of a government postal system at which mail is received and sorted, from which it is dispatched and distributed, and at which stamps are sold or other services rendered. Abbreviations", "S": ["postal service"], "A": []}

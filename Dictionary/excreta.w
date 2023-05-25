@@ -1,1 +1,1 @@
-{"index": 106837, "D": "excreted matter, as urine, feces, or sweat.", "S": ["droppings ", "dung ", "feces ", "manure ", "urine "], "A": []}
+{"index": 106837, "D": "excreted matter, as urine, feces, or sweat.", "S": ["droppings", "dung", "feces", "manure", "urine"], "A": []}

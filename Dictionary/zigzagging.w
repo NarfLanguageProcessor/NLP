@@ -1,1 +1,1 @@
-{"index": 369311, "D": "a line, course, or progression characterized by sharp turns first to one side and then to the other.", "S": ["amble ", "digress ", "meander ", "roam ", "saunter ", "straggle ", "stroll ", "traipse ", "zigzag "], "A": ["run ", "join ", "stay ", "straighten "]}
+{"index": 369311, "D": "a line, course, or progression characterized by sharp turns first to one side and then to the other.", "S": ["amble", "digress", "meander", "roam", "saunter", "straggle", "stroll", "traipse", "zigzag"], "A": ["run", "join", "stay", "straighten"]}

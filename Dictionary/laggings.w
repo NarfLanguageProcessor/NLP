@@ -1,1 +1,1 @@
-{"index": 167319, "D": "the act of falling or staying behind.", "S": ["delay ", "interval ", "lagging ", "space ", "time gap ", "time warp "], "A": []}
+{"index": 167319, "D": "the act of falling or staying behind.", "S": ["delay", "interval", "lagging", "space", "time gap", "time warp"], "A": []}

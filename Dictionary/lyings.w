@@ -1,1 +1,1 @@
-{"index": 172166, "D": "the telling of lies,  or false statements; untruthfulness", "S": ["defamation "], "A": ["compliment ", "praise "]}
+{"index": 172166, "D": "the telling of lies,  or false statements; untruthfulness", "S": ["defamation"], "A": ["compliment", "praise"]}

@@ -1,1 +1,0 @@
-{"index": 204838, "D": "a place where two or more roads meet, especially when at least one is a major highway; junction.", "S": [], "A": []}

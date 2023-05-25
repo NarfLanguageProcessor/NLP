@@ -1,1 +1,1 @@
-{"index": 42471, "D": "bulk carrier. ", "S": ["extensive ", "indiscriminate ", "large-scale ", "sweeping "], "A": ["narrow ", "incomplete ", "particular ", "specific ", "unfinished "]}
+{"index": 42471, "D": "bulk carrier. ", "S": ["extensive", "indiscriminate", "large-scale", "sweeping"], "A": ["narrow", "incomplete", "particular", "specific", "unfinished"]}

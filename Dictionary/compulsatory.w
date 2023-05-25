@@ -1,1 +1,1 @@
-{"index": 64940, "D": [], "S": ["de rigueur ", "forced ", "imperative ", "mandatory ", "obligatory ", "required "], "A": ["inessential ", "optional ", "unnecessary ", "voluntary "]}
+{"index": 64940, "D": [], "S": ["de rigueur", "forced", "imperative", "mandatory", "obligatory", "required"], "A": ["inessential", "optional", "unnecessary", "voluntary"]}

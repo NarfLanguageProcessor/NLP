@@ -1,1 +1,1 @@
-{"index": 163604, "D": "the buttocks; rump.", "S": ["behind ", "bottom ", "derriere ", "fanny ", "rump ", "tush "], "A": []}
+{"index": 163604, "D": "the buttocks; rump.", "S": ["behind", "bottom", "derriere", "fanny", "rump", "tush"], "A": []}

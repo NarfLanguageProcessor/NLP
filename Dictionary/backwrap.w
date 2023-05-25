@@ -1,0 +1,1 @@
+{"index": 26026, "D": "an article of clothing, as a dress, that overlaps and fastens in the back. ", "S": [], "A": []}

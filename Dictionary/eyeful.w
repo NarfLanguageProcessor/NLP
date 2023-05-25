@@ -1,1 +1,1 @@
-{"index": 96383, "D": "an amount of foreign matter thrown, blown, etc., into the eye", "S": ["beauty ", "knockout ", "looker ", "lovely ", "show ", "spectacle ", "stunner ", "vision "], "A": ["reality "]}
+{"index": 96383, "D": "an amount of foreign matter thrown, blown, etc., into the eye", "S": ["beauty", "knockout", "looker", "lovely", "show", "spectacle", "stunner", "vision"], "A": ["reality"]}

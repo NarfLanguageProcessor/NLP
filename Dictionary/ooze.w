@@ -1,1 +1,1 @@
-{"index": 213144, "D": "(of moisture, liquid, etc.) to flow, percolate, or exude slowly, as through holes or small openings.", "S": ["goo ", "gunk ", "muck ", "silt ", "slime ", "sludge "], "A": []}
+{"index": 213144, "D": "(of moisture, liquid, etc.) to flow, percolate, or exude slowly, as through holes or small openings.", "S": ["goo", "gunk", "muck", "silt", "slime", "sludge"], "A": []}

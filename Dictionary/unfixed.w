@@ -1,1 +1,1 @@
-{"index": 342319, "D": "to render no longer fixed;  unfasten; detach; loosen; free.", "S": ["boundless ", "enormous ", "immense ", "infinite ", "unforeseen ", "untold ", "vast "], "A": ["bounded ", "limited ", "little ", "minute ", "small ", "tiny "]}
+{"index": 342319, "D": "to render no longer fixed;  unfasten; detach; loosen; free.", "S": ["boundless", "enormous", "immense", "infinite", "unforeseen", "untold", "vast"], "A": ["bounded", "limited", "little", "minute", "small", "tiny"]}

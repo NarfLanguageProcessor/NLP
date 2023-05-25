@@ -1,1 +1,1 @@
-{"index": 296558, "D": "a person who serves in an army; a person engaged in military service.", "S": ["commando ", "fighter ", "guard ", "guerrilla ", "marine ", "mercenary ", "officer ", "paratrooper ", "pilot ", "trooper ", "veteran ", "volunteer "], "A": []}
+{"index": 296558, "D": "a person who serves in an army; a person engaged in military service.", "S": ["commando", "fighter", "guard", "guerrilla", "marine", "mercenary", "officer", "paratrooper", "pilot", "trooper", "veteran", "volunteer"], "A": []}

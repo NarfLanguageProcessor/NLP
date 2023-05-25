@@ -1,1 +1,1 @@
-{"index": 143516, "D": "having hoofs;  ungulate.", "S": ["dance ", "go down ", "skip ", "stride ", "tiptoe ", "tread ", "walk "], "A": []}
+{"index": 143516, "D": "having hoofs;  ungulate.", "S": ["dance", "go down", "skip", "stride", "tiptoe", "tread", "walk"], "A": []}

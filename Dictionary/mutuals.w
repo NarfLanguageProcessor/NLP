@@ -1,1 +1,0 @@
-{"index": 196349, "D": "possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal", "S": [], "A": []}

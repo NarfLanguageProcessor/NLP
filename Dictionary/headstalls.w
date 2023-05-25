@@ -1,1 +1,1 @@
-{"index": 134722, "D": "that part of a bridle or halter that encompasses the head of an animal.", "S": ["check ", "control ", "curb ", "deterrent ", "hackamore ", "halter ", "leash ", "rein ", "restraint ", "trammels "], "A": ["encouragement ", "liberation "]}
+{"index": 134722, "D": "that part of a bridle or halter that encompasses the head of an animal.", "S": ["check", "control", "curb", "deterrent", "hackamore", "halter", "leash", "rein", "restraint", "trammels"], "A": ["encouragement", "liberation"]}

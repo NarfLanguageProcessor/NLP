@@ -1,1 +1,1 @@
-{"index": 153994, "D": "a person who plays a musical instrument. ", "S": ["artist ", "composer ", "conductor ", "entertainer ", "performer ", "player ", "soloist ", "virtuoso ", "vocalist "], "A": []}
+{"index": 153994, "D": "a person who plays a musical instrument. ", "S": ["artist", "composer", "conductor", "entertainer", "performer", "player", "soloist", "virtuoso", "vocalist"], "A": []}

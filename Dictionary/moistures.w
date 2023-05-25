@@ -1,1 +1,1 @@
-{"index": 191358, "D": "condensed or diffused liquid, especially water", "S": ["fog ", "humidity ", "mist ", "perspiration ", "precipitation ", "rain ", "sweat ", "water "], "A": ["aridity ", "dryness "]}
+{"index": 191358, "D": "condensed or diffused liquid, especially water", "S": ["fog", "humidity", "mist", "perspiration", "precipitation", "rain", "sweat", "water"], "A": ["aridity", "dryness"]}

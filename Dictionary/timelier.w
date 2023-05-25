@@ -1,1 +1,1 @@
-{"index": 323762, "D": "occurring at a suitable time; opportune; well-timed", "S": ["appropriate ", "convenient ", "prompt ", "proper ", "up-to-date ", "up-to-the-minute "], "A": ["improper ", "unsuitable ", "unsuited "]}
+{"index": 323762, "D": "occurring at a suitable time; opportune; well-timed", "S": ["appropriate", "convenient", "prompt", "proper", "up-to-date", "up-to-the-minute"], "A": ["improper", "unsuitable", "unsuited"]}

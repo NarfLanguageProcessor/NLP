@@ -1,1 +1,1 @@
-{"index": 49205, "D": "an underground cemetery, especially one consisting of tunnels and rooms with recesses dug out for coffins and tombs.", "S": ["cave ", "chamber ", "crypt ", "grotto ", "passageway "], "A": []}
+{"index": 49205, "D": "an underground cemetery, especially one consisting of tunnels and rooms with recesses dug out for coffins and tombs.", "S": ["cave", "chamber", "crypt", "grotto", "passageway"], "A": []}

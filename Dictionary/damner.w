@@ -1,1 +1,1 @@
-{"index": 76582, "D": "to declare (something) to be bad, unfit, invalid, or illegal.", "S": ["accursed ", "blasted ", "blessed ", "bloody ", "confounded ", "cursed ", "damn ", "darn "], "A": []}
+{"index": 76582, "D": "to declare (something) to be bad, unfit, invalid, or illegal.", "S": ["accursed", "blasted", "blessed", "bloody", "confounded", "cursed", "damn", "darn"], "A": []}

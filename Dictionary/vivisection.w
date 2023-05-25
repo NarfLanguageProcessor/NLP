@@ -1,1 +1,1 @@
-{"index": 360789, "D": "the action of cutting into or dissecting a living body.", "S": ["postmortem "], "A": ["connection ", "joining ", "mending ", "sewing "]}
+{"index": 360789, "D": "the action of cutting into or dissecting a living body.", "S": ["postmortem"], "A": ["connection", "joining", "mending", "sewing"]}

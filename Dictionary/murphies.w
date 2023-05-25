@@ -1,1 +1,1 @@
-{"index": 195768, "D": "an Irish or white potato.", "S": ["yam "], "A": []}
+{"index": 195768, "D": "an Irish or white potato.", "S": ["yam"], "A": []}

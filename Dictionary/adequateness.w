@@ -1,0 +1,1 @@
+{"index": 3807, "D": "as much or as good as necessary for some requirement or purpose; fully sufficient, suitable, or fit (often followed by to or for)", "S": ["completeness", "saturation", "totality", "wholeness"], "A": ["lack", "need", "scarcity", "want"]}

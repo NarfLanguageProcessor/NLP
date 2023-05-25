@@ -1,1 +1,1 @@
-{"index": 21049, "D": "to credit or assign, as to a cause or source; attribute; impute", "S": ["attribute ", "impute "], "A": []}
+{"index": 21049, "D": "to credit or assign, as to a cause or source; attribute; impute", "S": ["attribute", "impute"], "A": []}

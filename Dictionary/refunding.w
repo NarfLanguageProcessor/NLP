@@ -1,1 +1,1 @@
-{"index": 265447, "D": "to give back or restore (especially money); repay.", "S": ["allowance ", "compensation ", "discount ", "kickback ", "payment ", "rebate ", "reimbursement ", "repayment ", "restitution "], "A": ["penalty "]}
+{"index": 265447, "D": "to give back or restore (especially money); repay.", "S": ["allowance", "compensation", "discount", "kickback", "payment", "rebate", "reimbursement", "repayment", "restitution"], "A": ["penalty"]}

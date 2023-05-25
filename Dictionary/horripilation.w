@@ -1,1 +1,1 @@
-{"index": 143978, "D": "a bristling of the hair on the skin from cold, fear, etc.; goose bumps. ", "S": ["goose flesh ", "goose pimples ", "gooseflesh "], "A": []}
+{"index": 143978, "D": "a bristling of the hair on the skin from cold, fear, etc.; goose bumps. ", "S": ["goose flesh", "goose pimples", "gooseflesh"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 292545, "D": "of or relating to a system,  especially when affecting the entirety of a thing", "S": ["fundamental ", "integral ", "intrinsic "], "A": ["extrinsic ", "secondary ", "supplemental ", "unnecessary "]}
+{"index": 292545, "D": "of or relating to a system,  especially when affecting the entirety of a thing", "S": ["fundamental", "integral", "intrinsic"], "A": ["extrinsic", "secondary", "supplemental", "unnecessary"]}

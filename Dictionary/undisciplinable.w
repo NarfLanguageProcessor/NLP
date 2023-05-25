@@ -1,1 +1,1 @@
-{"index": 340455, "D": "subject to or meriting disciplinary action", "S": ["fractious ", "obstinate ", "rebellious ", "unruly ", "wayward "], "A": ["agreeable ", "compliant ", "manageable ", "obedient ", "yielding "]}
+{"index": 340455, "D": "subject to or meriting disciplinary action", "S": ["fractious", "obstinate", "rebellious", "unruly", "wayward"], "A": ["agreeable", "compliant", "manageable", "obedient", "yielding"]}

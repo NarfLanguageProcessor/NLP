@@ -1,1 +1,1 @@
-{"index": 365454, "D": "a slender, pliant twig; osier; withe.", "S": ["straw-plaited ", "wicker-work "], "A": []}
+{"index": 365454, "D": "a slender, pliant twig; osier; withe.", "S": ["straw-plaited", "wicker-work"], "A": []}

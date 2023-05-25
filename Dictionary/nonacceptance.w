@@ -1,1 +1,1 @@
-{"index": 201013, "D": "the act or an instance of not accepting or being accepted", "S": ["disapproval ", "rebuttal ", "rejection ", "repudiation ", "retraction ", "veto "], "A": ["allowance ", "approval ", "confirmation ", "ratification ", "sanction ", "agreement ", "permission "]}
+{"index": 201013, "D": "the act or an instance of not accepting or being accepted", "S": ["disapproval", "rebuttal", "rejection", "repudiation", "retraction", "veto"], "A": ["allowance", "approval", "confirmation", "ratification", "sanction", "agreement", "permission"]}

@@ -1,1 +1,1 @@
-{"index": 88834, "D": "to refuse to acknowledge as belonging or pertaining to oneself; deny the ownership of or responsibility for; repudiate; renounce", "S": ["disavow ", "discard ", "disclaim ", "renounce ", "repudiate ", "retract "], "A": ["admit ", "allow ", "approve "]}
+{"index": 88834, "D": "to refuse to acknowledge as belonging or pertaining to oneself; deny the ownership of or responsibility for; repudiate; renounce", "S": ["disavow", "discard", "disclaim", "renounce", "repudiate", "retract"], "A": ["admit", "allow", "approve"]}

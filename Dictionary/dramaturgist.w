@@ -1,1 +1,1 @@
-{"index": 92681, "D": [], "S": ["author ", "dramatist ", "librettist ", "scenarist ", "tragedian ", "writer "], "A": []}
+{"index": 92681, "D": [], "S": ["author", "dramatist", "librettist", "scenarist", "tragedian", "writer"], "A": []}

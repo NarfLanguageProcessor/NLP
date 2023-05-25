@@ -1,1 +1,1 @@
-{"index": 33508, "D": "a past participle of bid1. ", "S": ["propose ", "submit ", "tender "], "A": ["take "]}
+{"index": 33508, "D": "a past participle of bid1. ", "S": ["propose", "submit", "tender"], "A": ["take"]}

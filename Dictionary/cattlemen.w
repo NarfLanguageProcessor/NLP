@@ -1,1 +1,1 @@
-{"index": 49882, "D": "a person who tends or breeds cattle. ", "S": ["bronco "], "A": []}
+{"index": 49882, "D": "a person who tends or breeds cattle. ", "S": ["bronco"], "A": []}

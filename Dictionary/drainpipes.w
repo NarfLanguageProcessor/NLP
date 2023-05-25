@@ -1,1 +1,1 @@
-{"index": 92633, "D": "trousers with very narrow legs", "S": ["gutter ", "septic tank ", "sewage system "], "A": []}
+{"index": 92633, "D": "trousers with very narrow legs", "S": ["gutter", "septic tank", "sewage system"], "A": []}

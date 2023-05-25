@@ -1,1 +1,0 @@
-{"index": 352841, "D": "a raised level with a vertical or sloping front or sides faced with masonry, turf, or the like, especially one of a series of levels rising one above another.", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 363336, "D": "the shape of a wave; a graph obtained by plotting the instantaneous values of a periodic quantity against the time.", "S": [], "A": []}

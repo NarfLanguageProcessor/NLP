@@ -1,1 +1,1 @@
-{"index": 142415, "D": "a forcible stopping and robbing of a person.", "S": ["snag ", "stoppage "], "A": ["advance ", "advantage ", "aid ", "assistance ", "blessing ", "boost ", "contentment ", "help ", "peace "]}
+{"index": 142415, "D": "a forcible stopping and robbing of a person.", "S": ["snag", "stoppage"], "A": ["advance", "advantage", "aid", "assistance", "blessing", "boost", "contentment", "help", "peace"]}

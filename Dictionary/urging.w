@@ -1,1 +1,1 @@
-{"index": 355622, "D": "to push or force along; impel with force or vigor", "S": ["insistence "], "A": ["discouragement "]}
+{"index": 355622, "D": "to push or force along; impel with force or vigor", "S": ["insistence"], "A": ["discouragement"]}

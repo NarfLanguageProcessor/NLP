@@ -1,1 +1,1 @@
-{"index": 347013, "D": "willing or eager to do favors, offer one's services, etc.; accommodating", "S": ["afraid ", "averse ", "compelled ", "evasive ", "forced ", "loath ", "reluctant ", "resistant ", "unenthusiastic "], "A": ["eager ", "enthusiastic ", "ready ", "willing "]}
+{"index": 347013, "D": "willing or eager to do favors, offer one's services, etc.; accommodating", "S": ["afraid", "averse", "compelled", "evasive", "forced", "loath", "reluctant", "resistant", "unenthusiastic"], "A": ["eager", "enthusiastic", "ready", "willing"]}

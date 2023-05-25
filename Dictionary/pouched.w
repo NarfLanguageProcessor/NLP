@@ -1,1 +1,0 @@
-{"index": 244845, "D": "having a pouch,  as the pelicans, gophers, and marsupials.", "S": ["beetle ", "bulge ", "elongate ", "extend ", "impend ", "lengthen ", "overhang ", "poke out ", "pop out ", "pouch ", "project ", "protrude ", "protuberate "], "A": ["cave in ", "depress ", "shorten "]}

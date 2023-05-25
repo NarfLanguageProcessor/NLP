@@ -1,1 +1,1 @@
-{"index": 97886, "D": "to make abnormally lean or thin by a gradual wasting away of flesh.", "S": ["mash ", "permeate ", "ret ", "saturate ", "soak ", "soften ", "steep "], "A": ["dehydrate ", "dry "]}
+{"index": 97886, "D": "to make abnormally lean or thin by a gradual wasting away of flesh.", "S": ["mash", "permeate", "ret", "saturate", "soak", "soften", "steep"], "A": ["dehydrate", "dry"]}

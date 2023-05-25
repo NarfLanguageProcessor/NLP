@@ -1,1 +1,1 @@
-{"index": 297927, "D": "fermented dough  retained from one baking and used as leaven, rather than fresh yeast, to start the next.", "S": ["cake ", "crepe ", "waffle "], "A": []}
+{"index": 297927, "D": "fermented dough  retained from one baking and used as leaven, rather than fresh yeast, to start the next.", "S": ["cake", "crepe", "waffle"], "A": []}

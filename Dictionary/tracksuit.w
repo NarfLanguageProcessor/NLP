@@ -1,1 +1,1 @@
-{"index": 327189, "D": "a sweat suit, usually with a long-sleeved jacket and long pants, worn by athletes, especially runners, before and after actual competition or during workouts.", "S": ["jogging suit ", "running suit "], "A": []}
+{"index": 327189, "D": "a sweat suit, usually with a long-sleeved jacket and long pants, worn by athletes, especially runners, before and after actual competition or during workouts.", "S": ["jogging suit", "running suit"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 21619, "D": "a sudden, violent attack; onslaught", "S": ["assailant "], "A": []}
+{"index": 21619, "D": "a sudden, violent attack; onslaught", "S": ["assailant"], "A": []}

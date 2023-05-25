@@ -1,1 +1,1 @@
-{"index": 53292, "D": "to defraud; swindle", "S": ["deceiving ", "deception ", "defrauding ", "dishonesty "], "A": ["frankness ", "honesty ", "openness ", "truthfulness "]}
+{"index": 53292, "D": "to defraud; swindle", "S": ["deceiving", "deception", "defrauding", "dishonesty"], "A": ["frankness", "honesty", "openness", "truthfulness"]}

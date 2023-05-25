@@ -1,1 +1,1 @@
-{"index": 133770, "D": "to listen attentively; hearken.", "S": ["listen "], "A": []}
+{"index": 133770, "D": "to listen attentively; hearken.", "S": ["listen"], "A": []}

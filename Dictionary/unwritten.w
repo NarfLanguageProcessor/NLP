@@ -1,1 +1,1 @@
-{"index": 354429, "D": "not actually formulated or expressed; customary; traditional. ", "S": ["accepted ", "tacit ", "verbal "], "A": ["explained ", "stated ", "written "]}
+{"index": 354429, "D": "not actually formulated or expressed; customary; traditional. ", "S": ["accepted", "tacit", "verbal"], "A": ["explained", "stated", "written"]}

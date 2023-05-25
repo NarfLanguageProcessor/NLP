@@ -1,1 +1,1 @@
-{"index": 75835, "D": "something cut out from something else, as a pattern or figure cut out or intended to be cut out of paper, cardboard, or other material.", "S": ["broker ", "emissary ", "go-between ", "mediator ", "negotiator "], "A": ["end "]}
+{"index": 75835, "D": "something cut out from something else, as a pattern or figure cut out or intended to be cut out of paper, cardboard, or other material.", "S": ["broker", "emissary", "go-between", "mediator", "negotiator"], "A": ["end"]}

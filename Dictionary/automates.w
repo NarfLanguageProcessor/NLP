@@ -1,1 +1,1 @@
-{"index": 24191, "D": "to apply the principles of automation  to (a mechanical process, industry, office, etc.).", "S": ["brutalize "], "A": ["humanize "]}
+{"index": 24191, "D": "to apply the principles of automation  to (a mechanical process, industry, office, etc.).", "S": ["brutalize"], "A": ["humanize"]}

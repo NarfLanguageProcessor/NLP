@@ -1,1 +1,1 @@
-{"index": 359612, "D": "a member of a vigilance committee.", "S": ["neighborhood watch ", "watch committee "], "A": []}
+{"index": 359612, "D": "a member of a vigilance committee.", "S": ["neighborhood watch", "watch committee"], "A": []}

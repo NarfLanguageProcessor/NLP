@@ -1,1 +1,1 @@
-{"index": 218625, "D": "to overspread with or as if with clouds", "S": ["becloud ", "befog ", "blur ", "dim ", "drizzle ", "film ", "fog ", "haze ", "mizzle ", "murk ", "obscure ", "overcast ", "rain ", "shower ", "sprinkle ", "steam "], "A": ["clear up "]}
+{"index": 218625, "D": "to overspread with or as if with clouds", "S": ["becloud", "befog", "blur", "dim", "drizzle", "film", "fog", "haze", "mizzle", "murk", "obscure", "overcast", "rain", "shower", "sprinkle", "steam"], "A": ["clear up"]}

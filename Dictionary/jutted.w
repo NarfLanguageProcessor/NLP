@@ -1,1 +1,1 @@
-{"index": 162584, "D": "to extend beyond the main body or line; project; protrude (often followed by out)", "S": ["beetle ", "bulge ", "elongate ", "impend ", "lengthen ", "overhang ", "poke ", "pop ", "pouch ", "project ", "protrude ", "protuberate "], "A": ["cave in ", "depress ", "shorten "]}
+{"index": 162584, "D": "to extend beyond the main body or line; project; protrude (often followed by out)", "S": ["beetle", "bulge", "elongate", "impend", "lengthen", "overhang", "poke", "pop", "pouch", "project", "protrude", "protuberate"], "A": ["cave in", "depress", "shorten"]}

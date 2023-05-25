@@ -1,1 +1,1 @@
-{"index": 87317, "D": "variant of disco-. ", "S": ["disc ", "plate ", "platter "], "A": []}
+{"index": 87317, "D": "variant of disco-. ", "S": ["disc", "plate", "platter"], "A": []}

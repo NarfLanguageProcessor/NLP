@@ -1,1 +1,1 @@
-{"index": 107566, "D": "a policy of expansion,  as of territory or currency", "S": ["imperialism "], "A": ["decline ", "decrease "]}
+{"index": 107566, "D": "a policy of expansion,  as of territory or currency", "S": ["imperialism"], "A": ["decline", "decrease"]}

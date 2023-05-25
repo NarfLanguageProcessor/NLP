@@ -1,1 +1,1 @@
-{"index": 53815, "D": "a bill of exchange drawn on a bank by the holder of a current account; payable into a bank account, if crossed, or on demand, if uncrossed", "S": ["bill "], "A": []}
+{"index": 53815, "D": "a bill of exchange drawn on a bank by the holder of a current account; payable into a bank account, if crossed, or on demand, if uncrossed", "S": ["bill"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 152456, "D": "not generated; self-existent.", "S": ["constitutional ", "essential ", "natural "], "A": []}
+{"index": 152456, "D": "not generated; self-existent.", "S": ["constitutional", "essential", "natural"], "A": []}

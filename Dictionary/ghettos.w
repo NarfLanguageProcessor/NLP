@@ -1,1 +1,1 @@
-{"index": 124541, "D": [], "S": ["public squalor ", "rundown section of a city "], "A": []}
+{"index": 124541, "D": [], "S": ["public squalor", "rundown section of a city"], "A": []}

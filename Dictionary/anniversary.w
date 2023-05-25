@@ -1,1 +1,1 @@
-{"index": 13560, "D": "the yearly recurrence of the date of a past event", "S": ["ceremony ", "commemoration ", "festival ", "holiday ", "jubilee "], "A": []}
+{"index": 13560, "D": "the yearly recurrence of the date of a past event", "S": ["ceremony", "commemoration", "festival", "holiday", "jubilee"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 46632, "D": "one of the nonmetrical hymns or chants, chiefly from the Bible, used in church services.", "S": ["chant ", "chorus ", "hymn ", "melody "], "A": []}
+{"index": 46632, "D": "one of the nonmetrical hymns or chants, chiefly from the Bible, used in church services.", "S": ["chant", "chorus", "hymn", "melody"], "A": []}

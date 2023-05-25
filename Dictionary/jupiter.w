@@ -1,1 +1,1 @@
-{"index": 162417, "D": "Compare Zeus. ", "S": ["earth "], "A": []}
+{"index": 162417, "D": "Compare Zeus. ", "S": ["earth"], "A": []}

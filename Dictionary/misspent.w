@@ -1,1 +1,1 @@
-{"index": 190124, "D": "simple past tense and past participle of misspend. ", "S": ["blown ", "dissipated ", "idle ", "misapplied ", "squandered "], "A": ["profitable "]}
+{"index": 190124, "D": "simple past tense and past participle of misspend. ", "S": ["blown", "dissipated", "idle", "misapplied", "squandered"], "A": ["profitable"]}

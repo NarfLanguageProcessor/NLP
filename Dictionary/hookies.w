@@ -1,1 +1,1 @@
-{"index": 143553, "D": "unjustifiable absence from school, work, etc. (usually used in the phrase play hooky)", "S": ["AWOL ", "absenteeism ", "nonappearance ", "nonattendance ", "truancy ", "vacancy "], "A": []}
+{"index": 143553, "D": "unjustifiable absence from school, work, etc. (usually used in the phrase play hooky)", "S": ["AWOL", "absenteeism", "nonappearance", "nonattendance", "truancy", "vacancy"], "A": []}

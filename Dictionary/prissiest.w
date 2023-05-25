@@ -1,1 +1,1 @@
-{"index": 250803, "D": "excessively proper; affectedly correct; prim.", "S": ["prudish ", "squeamish "], "A": ["informal ", "unconcerned "]}
+{"index": 250803, "D": "excessively proper; affectedly correct; prim.", "S": ["prudish", "squeamish"], "A": ["informal", "unconcerned"]}

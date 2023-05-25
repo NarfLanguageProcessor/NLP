@@ -1,1 +1,1 @@
-{"index": 178998, "D": "authorized or decreed, as by the passing of a law", "S": ["assigned ", "authorized ", "charged ", "decreed ", "ordered "], "A": []}
+{"index": 178998, "D": "authorized or decreed, as by the passing of a law", "S": ["assigned", "authorized", "charged", "decreed", "ordered"], "A": []}

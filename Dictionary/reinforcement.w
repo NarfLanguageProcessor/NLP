@@ -1,1 +1,1 @@
-{"index": 266305, "D": "the act of reinforcing.", "S": ["brace ", "buttress ", "coating ", "column ", "pillar ", "prop "], "A": []}
+{"index": 266305, "D": "the act of reinforcing.", "S": ["brace", "buttress", "coating", "column", "pillar", "prop"], "A": []}

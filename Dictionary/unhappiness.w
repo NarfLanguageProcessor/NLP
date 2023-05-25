@@ -1,1 +1,1 @@
-{"index": 343497, "D": "sad; miserable; wretched", "S": ["grief ", "misery ", "sadness ", "woe "], "A": ["cheer ", "delight ", "gladness ", "happiness ", "joy "]}
+{"index": 343497, "D": "sad; miserable; wretched", "S": ["grief", "misery", "sadness", "woe"], "A": ["cheer", "delight", "gladness", "happiness", "joy"]}

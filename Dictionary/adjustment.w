@@ -1,0 +1,1 @@
+{"index": 4074, "D": "the act of adjusting;  adaptation to a particular condition, position, or purpose.", "S": ["alteration", "arrangement", "improvement", "modification", "readjustment", "regulation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293880, "D": "smooth or glossy, as hair, an animal, etc.", "S": ["brighten ", "burnish ", "clean ", "finish ", "furbish ", "glaze ", "gloss ", "rub ", "scour ", "scrub ", "sleek ", "slick ", "smooth ", "wax "], "A": ["dirty ", "dull ", "upset "]}
+{"index": 293880, "D": "smooth or glossy, as hair, an animal, etc.", "S": ["brighten", "burnish", "clean", "finish", "furbish", "glaze", "gloss", "rub", "scour", "scrub", "sleek", "slick", "smooth", "wax"], "A": ["dirty", "dull", "upset"]}

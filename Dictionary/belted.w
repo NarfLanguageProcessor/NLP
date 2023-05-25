@@ -1,1 +1,1 @@
-{"index": 31300, "D": "having or made with a belt", "S": ["bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 31300, "D": "having or made with a belt", "S": ["bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

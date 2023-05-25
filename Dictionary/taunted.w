@@ -1,1 +1,1 @@
-{"index": 317059, "D": "to reproach in a sarcastic, insulting, or jeering manner; mock. ", "S": ["deride ", "insult ", "jeer ", "mock ", "offend ", "ridicule ", "torment "], "A": ["compliment ", "flatter ", "please ", "praise ", "admire ", "approve ", "ignore ", "respect "]}
+{"index": 317059, "D": "to reproach in a sarcastic, insulting, or jeering manner; mock. ", "S": ["deride", "insult", "jeer", "mock", "offend", "ridicule", "torment"], "A": ["compliment", "flatter", "please", "praise", "admire", "approve", "ignore", "respect"]}

@@ -1,1 +1,1 @@
-{"index": 363478, "D": "well-being, prosperity, or happiness", "S": ["bruise ", "contusion ", "injury ", "mouse ", "ridge ", "scar ", "streak ", "stripe ", "wale ", "wheal ", "whelk ", "wound "], "A": []}
+{"index": 363478, "D": "well-being, prosperity, or happiness", "S": ["bruise", "contusion", "injury", "mouse", "ridge", "scar", "streak", "stripe", "wale", "wheal", "whelk", "wound"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 306203, "D": "a past participle of strike. ", "S": ["harmed "], "A": ["unaffected "]}
+{"index": 306203, "D": "a past participle of strike. ", "S": ["harmed"], "A": ["unaffected"]}

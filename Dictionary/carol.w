@@ -1,1 +1,1 @@
-{"index": 48282, "D": "a song, especially of joy.", "S": ["Noel ", "ballad ", "canticle ", "chorus ", "ditty ", "lay ", "madrigal ", "song ", "strain "], "A": []}
+{"index": 48282, "D": "a song, especially of joy.", "S": ["Noel", "ballad", "canticle", "chorus", "ditty", "lay", "madrigal", "song", "strain"], "A": []}

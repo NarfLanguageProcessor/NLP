@@ -1,1 +1,1 @@
-{"index": 333956, "D": "extremism. ", "S": ["agitator ", "anarchist ", "extremist ", "fanatic ", "firebrand ", "insurgent ", "leftist ", "militant ", "progressive ", "rebel ", "reformer ", "renegade ", "revolutionary ", "rioter ", "subversive "], "A": ["conservative ", "moderate "]}
+{"index": 333956, "D": "extremism. ", "S": ["agitator", "anarchist", "extremist", "fanatic", "firebrand", "insurgent", "leftist", "militant", "progressive", "rebel", "reformer", "renegade", "revolutionary", "rioter", "subversive"], "A": ["conservative", "moderate"]}

@@ -1,1 +1,1 @@
-{"index": 114009, "D": "a device in the narrative of a motion picture, novel, etc., by which an event or scene taking place before the present time in the narrative is inserted into the chronological structure of the work.", "S": ["hallucination ", "memory ", "recollection "], "A": []}
+{"index": 114009, "D": "a device in the narrative of a motion picture, novel, etc., by which an event or scene taking place before the present time in the narrative is inserted into the chronological structure of the work.", "S": ["hallucination", "memory", "recollection"], "A": []}

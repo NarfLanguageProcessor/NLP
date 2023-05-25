@@ -1,1 +1,1 @@
-{"index": 18535, "D": "a person chosen to decide a dispute or settle differences, especially one formally empowered to examine the facts and decide the issue.", "S": ["arbiter ", "go-between ", "judge ", "mediator ", "referee ", "umpire "], "A": []}
+{"index": 18535, "D": "a person chosen to decide a dispute or settle differences, especially one formally empowered to examine the facts and decide the issue.", "S": ["arbiter", "go-between", "judge", "mediator", "referee", "umpire"], "A": []}

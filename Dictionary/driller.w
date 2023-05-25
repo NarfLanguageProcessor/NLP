@@ -1,1 +1,1 @@
-{"index": 93101, "D": "a tool, especially a hand tool, for holding and operating such a tool.", "S": ["aquarobics ", "dance workout ", "drill ", "exercise ", "high impact ", "low impact ", "slimnastics ", "step ", "workout "], "A": []}
+{"index": 93101, "D": "a tool, especially a hand tool, for holding and operating such a tool.", "S": ["aquarobics", "dance workout", "drill", "exercise", "high impact", "low impact", "slimnastics", "step", "workout"], "A": []}

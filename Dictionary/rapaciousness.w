@@ -1,1 +1,1 @@
-{"index": 260681, "D": "the quality of being rapacious, or given to seizing things for plunder", "S": ["avidity ", "edacity ", "gluttony ", "greed ", "greediness ", "rapacity ", "ravenousness ", "voraciousness "], "A": ["generosity "]}
+{"index": 260681, "D": "the quality of being rapacious, or given to seizing things for plunder", "S": ["avidity", "edacity", "gluttony", "greed", "greediness", "rapacity", "ravenousness", "voraciousness"], "A": ["generosity"]}

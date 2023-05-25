@@ -1,1 +1,1 @@
-{"index": 250760, "D": "prize3. ", "S": ["crowbar ", "leverage "], "A": []}
+{"index": 250760, "D": "prize3. ", "S": ["crowbar", "leverage"], "A": []}

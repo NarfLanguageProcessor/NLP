@@ -1,1 +1,1 @@
-{"index": 295438, "D": "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "S": ["acerbically ", "acrimoniously ", "bitingly ", "caustically ", "maliciously "], "A": []}
+{"index": 295438, "D": "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "S": ["acerbically", "acrimoniously", "bitingly", "caustically", "maliciously"], "A": []}

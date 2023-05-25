@@ -1,1 +1,1 @@
-{"index": 151309, "D": "brought about, produced, or caused, especially artificially (often used in combination)", "S": ["convinced ", "lured "], "A": []}
+{"index": 151309, "D": "brought about, produced, or caused, especially artificially (often used in combination)", "S": ["convinced", "lured"], "A": []}

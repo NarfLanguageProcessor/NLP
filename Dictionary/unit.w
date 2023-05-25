@@ -1,1 +1,1 @@
-{"index": 345043, "D": "a single thing or person.", "S": ["crew ", "entity ", "group ", "system "], "A": ["fraction ", "part "]}
+{"index": 345043, "D": "a single thing or person.", "S": ["crew", "entity", "group", "system"], "A": ["fraction", "part"]}

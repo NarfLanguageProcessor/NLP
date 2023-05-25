@@ -1,1 +1,0 @@
-{"index": 213329, "D": "a set of two or more adjacent cistrons whose transcription is under the coordinated control of a promoter, an operator, and a regulator gene.", "S": [], "A": []}

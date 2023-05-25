@@ -1,0 +1,1 @@
+{"index": 34091, "D": "having two hands, especially as distinct from feet.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 90670, "D": "a person who tries to apply some doctrine  or theory without sufficient regard for practical considerations; an impractical theorist.", "S": ["authoritarian "], "A": ["amenable ", "flexible ", "manageable ", "obedient ", "submissive "]}
+{"index": 90670, "D": "a person who tries to apply some doctrine  or theory without sufficient regard for practical considerations; an impractical theorist.", "S": ["authoritarian"], "A": ["amenable", "flexible", "manageable", "obedient", "submissive"]}

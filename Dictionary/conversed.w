@@ -1,1 +1,1 @@
-{"index": 68032, "D": "to talk informally with another or others; exchange views, opinions, etc., by talking.", "S": ["chat ", "chitchat ", "commune ", "confer ", "discourse ", "exchange ", "gab ", "parley ", "rap ", "schmooze ", "speak ", "use ", "yak "], "A": ["be quiet "]}
+{"index": 68032, "D": "to talk informally with another or others; exchange views, opinions, etc., by talking.", "S": ["chat", "chitchat", "commune", "confer", "discourse", "exchange", "gab", "parley", "rap", "schmooze", "speak", "use", "yak"], "A": ["be quiet"]}

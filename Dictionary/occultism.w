@@ -1,1 +1,1 @@
-{"index": 210729, "D": "belief in the existence of secret, mysterious, or supernatural agencies.", "S": ["abracadabra ", "black hocus-pocus ", "black magic ", "magic ", "necromancy ", "sorcery ", "spell-casting ", "voodoo ", "witchcraft ", "witchery ", "wizardry "], "A": []}
+{"index": 210729, "D": "belief in the existence of secret, mysterious, or supernatural agencies.", "S": ["abracadabra", "black hocus-pocus", "black magic", "magic", "necromancy", "sorcery", "spell-casting", "voodoo", "witchcraft", "witchery", "wizardry"], "A": []}

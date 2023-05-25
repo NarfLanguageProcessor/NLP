@@ -1,1 +1,1 @@
-{"index": 141977, "D": "up to this time; until now", "S": ["attendant ", "attending ", "hither ", "present "], "A": ["there "]}
+{"index": 141977, "D": "up to this time; until now", "S": ["attendant", "attending", "hither", "present"], "A": ["there"]}

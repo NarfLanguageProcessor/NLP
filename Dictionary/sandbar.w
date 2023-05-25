@@ -1,1 +1,1 @@
-{"index": 277726, "D": "a bar of sand formed in a river or sea by the action of tides or currents.", "S": ["reef ", "shoal "], "A": []}
+{"index": 277726, "D": "a bar of sand formed in a river or sea by the action of tides or currents.", "S": ["reef", "shoal"], "A": []}

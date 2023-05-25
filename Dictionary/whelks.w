@@ -1,1 +1,1 @@
-{"index": 364617, "D": "any of several large, spiral-shelled, marine gastropods of the family Buccinidae, especially Buccinum undatum, that is used for food in Europe.", "S": ["abalone ", "clam ", "snail "], "A": []}
+{"index": 364617, "D": "any of several large, spiral-shelled, marine gastropods of the family Buccinidae, especially Buccinum undatum, that is used for food in Europe.", "S": ["abalone", "clam", "snail"], "A": []}

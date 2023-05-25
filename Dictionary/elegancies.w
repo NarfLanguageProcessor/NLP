@@ -1,1 +1,1 @@
-{"index": 97356, "D": "elegance. ", "S": ["breeding ", "civility ", "consideration ", "courtesy ", "decorum ", "etiquette ", "formalities ", "manners ", "mores ", "polished manners ", "politeness ", "proper conduct ", "protocol ", "savoir vivre ", "table manners ", "tact "], "A": []}
+{"index": 97356, "D": "elegance. ", "S": ["breeding", "civility", "consideration", "courtesy", "decorum", "etiquette", "formalities", "manners", "mores", "polished manners", "politeness", "proper conduct", "protocol", "savoir vivre", "table manners", "tact"], "A": []}

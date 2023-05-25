@@ -1,1 +1,1 @@
-{"index": 117741, "D": "the marketplace or public square of an ancient Roman city, the center of judicial and business affairs and a place of assembly for the people.", "S": ["conference ", "convention ", "gathering ", "seminar ", "symposium "], "A": []}
+{"index": 117741, "D": "the marketplace or public square of an ancient Roman city, the center of judicial and business affairs and a place of assembly for the people.", "S": ["conference", "convention", "gathering", "seminar", "symposium"], "A": []}

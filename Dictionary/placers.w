@@ -1,1 +1,1 @@
-{"index": 238579, "D": "a surficial mineral deposit formed by the concentration of small particles of heavy minerals, as gold, rutile, or platinum, in gravel or small sands.", "S": ["double ", "runner-up "], "A": ["opponent "]}
+{"index": 238579, "D": "a surficial mineral deposit formed by the concentration of small particles of heavy minerals, as gold, rutile, or platinum, in gravel or small sands.", "S": ["double", "runner-up"], "A": ["opponent"]}

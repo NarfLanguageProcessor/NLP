@@ -1,1 +1,1 @@
-{"index": 160606, "D": "in an easy and lively manner", "S": ["briskly ", "cheerfully ", "gaily ", "happily "], "A": []}
+{"index": 160606, "D": "in an easy and lively manner", "S": ["briskly", "cheerfully", "gaily", "happily"], "A": []}

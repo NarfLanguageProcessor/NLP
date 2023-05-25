@@ -1,1 +1,1 @@
-{"index": 283033, "D": "to lead astray, as from duty, rectitude, or the like; corrupt.", "S": ["beguile ", "betray ", "deceive ", "delude ", "entice ", "persuade "], "A": ["dissuade ", "disenchant ", "disgust ", "push ", "reject ", "release ", "repel ", "repulse ", "turn off "]}
+{"index": 283033, "D": "to lead astray, as from duty, rectitude, or the like; corrupt.", "S": ["beguile", "betray", "deceive", "delude", "entice", "persuade"], "A": ["dissuade", "disenchant", "disgust", "push", "reject", "release", "repel", "repulse", "turn off"]}

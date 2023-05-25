@@ -1,1 +1,1 @@
-{"index": 158852, "D": "an isochronal character or action.", "S": ["course ", "period ", "revolution ", "rhythm ", "round ", "series "], "A": []}
+{"index": 158852, "D": "an isochronal character or action.", "S": ["course", "period", "revolution", "rhythm", "round", "series"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 47059, "D": "a composition in a free, irregular style.", "S": ["roulade "], "A": []}
+{"index": 47059, "D": "a composition in a free, irregular style.", "S": ["roulade"], "A": []}

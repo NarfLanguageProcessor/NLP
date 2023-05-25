@@ -1,1 +1,1 @@
-{"index": 249888, "D": [], "S": ["candid ", "earnest ", "for real ", "forthright ", "genuine ", "heartfelt ", "outspoken ", "real ", "serious ", "true ", "trustworthy "], "A": ["counterfeit ", "deceitful ", "devious ", "dishonest ", "false ", "flippant ", "insincere ", "invalid ", "untrustworthy "]}
+{"index": 249888, "D": [], "S": ["candid", "earnest", "for real", "forthright", "genuine", "heartfelt", "outspoken", "real", "serious", "true", "trustworthy"], "A": ["counterfeit", "deceitful", "devious", "dishonest", "false", "flippant", "insincere", "invalid", "untrustworthy"]}

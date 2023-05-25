@@ -1,1 +1,1 @@
-{"index": 71592, "D": "a person employed on a cattle ranch; cowboy or cowgirl.", "S": ["bronco "], "A": []}
+{"index": 71592, "D": "a person employed on a cattle ranch; cowboy or cowgirl.", "S": ["bronco"], "A": []}

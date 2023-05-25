@@ -1,1 +1,1 @@
-{"index": 37791, "D": "a fondant, fruit, or nut center dipped in fondant or chocolate; a chocolate.", "S": ["candy ", "comfit ", "confection ", "confectionery ", "dessert ", "pastries ", "pie ", "preserves ", "pudding ", "sweetmeats "], "A": []}
+{"index": 37791, "D": "a fondant, fruit, or nut center dipped in fondant or chocolate; a chocolate.", "S": ["candy", "comfit", "confection", "confectionery", "dessert", "pastries", "pie", "preserves", "pudding", "sweetmeats"], "A": []}

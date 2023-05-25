@@ -1,1 +1,1 @@
-{"index": 60507, "D": "a receptacle for clothes,  as a chest, wardrobe, or closet.", "S": ["wardrobe "], "A": []}
+{"index": 60507, "D": "a receptacle for clothes,  as a chest, wardrobe, or closet.", "S": ["wardrobe"], "A": []}

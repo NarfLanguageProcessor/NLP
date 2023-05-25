@@ -1,1 +1,1 @@
-{"index": 93647, "D": "the state of being dual or consisting of two parts; division into two.", "S": ["polarity "], "A": []}
+{"index": 93647, "D": "the state of being dual or consisting of two parts; division into two.", "S": ["polarity"], "A": []}

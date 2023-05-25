@@ -1,1 +1,0 @@
-{"index": 227331, "D": "going by or past; elapsing", "S": ["cursory ", "fleeting ", "superficial "], "A": ["thorough ", "enduring ", "large ", "lasting ", "long ", "permanent ", "tall ", "thick "]}

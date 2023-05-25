@@ -1,1 +1,1 @@
-{"index": 198047, "D": "to pay no attention or too little attention to; disregard or slight", "S": ["ignoring ", "omitting ", "overlooking ", "slighting "], "A": []}
+{"index": 198047, "D": "to pay no attention or too little attention to; disregard or slight", "S": ["ignoring", "omitting", "overlooking", "slighting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 247476, "D": "to fabricate  or construct beforehand.", "S": ["built ", "instant ", "off-the-rack "], "A": []}
+{"index": 247476, "D": "to fabricate  or construct beforehand.", "S": ["built", "instant", "off-the-rack"], "A": []}

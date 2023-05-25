@@ -1,1 +1,1 @@
-{"index": 275774, "D": "to move, act, or progress with speed, impetuosity, or violence.", "S": ["blitz ", "dash ", "flood ", "flow ", "scramble ", "stream ", "surge "], "A": ["delay ", "slowing "]}
+{"index": 275774, "D": "to move, act, or progress with speed, impetuosity, or violence.", "S": ["blitz", "dash", "flood", "flow", "scramble", "stream", "surge"], "A": ["delay", "slowing"]}

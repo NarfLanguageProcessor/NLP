@@ -1,1 +1,1 @@
-{"index": 148359, "D": "not patient; not accepting delay, opposition, pain, etc., with calm or patience.", "S": ["anxious ", "eager ", "irritable ", "keen ", "restless ", "testy ", "thirsty "], "A": ["happy ", "unconcerned ", "unenthusiastic "]}
+{"index": 148359, "D": "not patient; not accepting delay, opposition, pain, etc., with calm or patience.", "S": ["anxious", "eager", "irritable", "keen", "restless", "testy", "thirsty"], "A": ["happy", "unconcerned", "unenthusiastic"]}

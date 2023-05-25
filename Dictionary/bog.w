@@ -1,1 +1,1 @@
-{"index": 37275, "D": "wet, spongy ground with soil composed mainly of decayed vegetable matter.", "S": ["lowland ", "marshland ", "wetlands "], "A": []}
+{"index": 37275, "D": "wet, spongy ground with soil composed mainly of decayed vegetable matter.", "S": ["lowland", "marshland", "wetlands"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 107717, "D": "pertaining to or derived from experience. ", "S": ["experimental ", "factual ", "observational "], "A": ["conjectural ", "hypothetical ", "impractical ", "theoretic ", "theoretical ", "unobserved ", "unproved "]}
+{"index": 107717, "D": "pertaining to or derived from experience. ", "S": ["experimental", "factual", "observational"], "A": ["conjectural", "hypothetical", "impractical", "theoretic", "theoretical", "unobserved", "unproved"]}

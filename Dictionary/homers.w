@@ -1,1 +1,1 @@
-{"index": 142881, "D": "home run. ", "S": ["accomplishment ", "coup ", "feat ", "gain ", "grand slam ", "success ", "win "], "A": ["failure ", "forfeit ", "loss "]}
+{"index": 142881, "D": "home run. ", "S": ["accomplishment", "coup", "feat", "gain", "grand slam", "success", "win"], "A": ["failure", "forfeit", "loss"]}

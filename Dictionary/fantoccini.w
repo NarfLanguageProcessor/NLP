@@ -1,1 +1,1 @@
-{"index": 109814, "D": "puppets or marionettes manipulated by strings, wires, or mechanical devices.", "S": ["doll ", "dummy ", "figurine ", "manikin ", "moppet "], "A": []}
+{"index": 109814, "D": "puppets or marionettes manipulated by strings, wires, or mechanical devices.", "S": ["doll", "dummy", "figurine", "manikin", "moppet"], "A": []}

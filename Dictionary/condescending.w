@@ -1,1 +1,1 @@
-{"index": 65564, "D": "showing or implying a usually patronizing descent from dignity or superiority", "S": ["arrogant ", "highfalutin ", "patronizing ", "snooty "], "A": ["approachable ", "friendly ", "humble "]}
+{"index": 65564, "D": "showing or implying a usually patronizing descent from dignity or superiority", "S": ["arrogant", "highfalutin", "patronizing", "snooty"], "A": ["approachable", "friendly", "humble"]}

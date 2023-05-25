@@ -1,1 +1,1 @@
-{"index": 112156, "D": "likely to change, especially due to caprice, irresolution, or instability; casually changeable", "S": ["capricious ", "changeable ", "flighty ", "temperamental ", "unpredictable ", "unstable ", "volatile "], "A": ["constant ", "stable ", "steadfast ", "steady "]}
+{"index": 112156, "D": "likely to change, especially due to caprice, irresolution, or instability; casually changeable", "S": ["capricious", "changeable", "flighty", "temperamental", "unpredictable", "unstable", "volatile"], "A": ["constant", "stable", "steadfast", "steady"]}

@@ -1,1 +1,1 @@
-{"index": 254182, "D": [], "S": ["replace ", "supplant ", "swap "], "A": ["continue ", "keep "]}
+{"index": 254182, "D": [], "S": ["replace", "supplant", "swap"], "A": ["continue", "keep"]}

@@ -1,1 +1,0 @@
-{"index": 197349, "D": "to confer upon (an alien) the rights and privileges of a citizen.", "S": ["acclimate ", "accustom ", "adapt ", "adopt ", "conform "], "A": []}

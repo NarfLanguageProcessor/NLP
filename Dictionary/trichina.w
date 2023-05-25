@@ -1,1 +1,0 @@
-{"index": 329348, "D": "a nematode, Trichinella spiralis, the adults of which live in the intestine and produce larvae that encyst in the muscle tissue, especially in pigs, rats, and humans.", "S": [], "A": []}

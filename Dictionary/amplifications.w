@@ -1,1 +1,1 @@
-{"index": 11332, "D": "the act of amplifying  or the state of being amplified. ", "S": ["elaboration "], "A": ["abridgment ", "compression ", "decrease ", "lessening ", "reduction ", "shrinkage "]}
+{"index": 11332, "D": "the act of amplifying  or the state of being amplified. ", "S": ["elaboration"], "A": ["abridgment", "compression", "decrease", "lessening", "reduction", "shrinkage"]}

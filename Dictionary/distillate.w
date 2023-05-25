@@ -1,1 +1,1 @@
-{"index": 89777, "D": "the product obtained from the condensation of vapors in distillation. ", "S": ["excerpt ", "juice ", "quotation "], "A": ["refusal "]}
+{"index": 89777, "D": "the product obtained from the condensation of vapors in distillation. ", "S": ["excerpt", "juice", "quotation"], "A": ["refusal"]}

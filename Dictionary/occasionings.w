@@ -1,1 +1,1 @@
-{"index": 210656, "D": [], "S": ["formulation "], "A": ["destruction ", "ruin "]}
+{"index": 210656, "D": [], "S": ["formulation"], "A": ["destruction", "ruin"]}

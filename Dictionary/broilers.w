@@ -1,1 +1,1 @@
-{"index": 41188, "D": "any device for broiling  meat or fish; a grate, pan, or compartment in a stove for broiling.", "S": ["fireplace ", "griddle ", "hibachi ", "roaster ", "spit "], "A": []}
+{"index": 41188, "D": "any device for broiling  meat or fish; a grate, pan, or compartment in a stove for broiling.", "S": ["fireplace", "griddle", "hibachi", "roaster", "spit"], "A": []}

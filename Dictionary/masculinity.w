@@ -1,1 +1,1 @@
-{"index": 180639, "D": [], "S": ["machismo ", "virility "], "A": ["femininity "]}
+{"index": 180639, "D": [], "S": ["machismo", "virility"], "A": ["femininity"]}

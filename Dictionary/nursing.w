@@ -1,1 +1,1 @@
-{"index": 209730, "D": "a nursing home", "S": ["attending ", "cherishing ", "fostering ", "tending "], "A": []}
+{"index": 209730, "D": "a nursing home", "S": ["attending", "cherishing", "fostering", "tending"], "A": []}

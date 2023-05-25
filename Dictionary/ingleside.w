@@ -1,1 +1,1 @@
-{"index": 152506, "D": "a fireside.", "S": ["chimney ", "furnace ", "stove "], "A": []}
+{"index": 152506, "D": "a fireside.", "S": ["chimney", "furnace", "stove"], "A": []}

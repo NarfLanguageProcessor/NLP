@@ -1,1 +1,1 @@
-{"index": 159868, "D": "any of several nocturnal wild dogs of the genus Canis, especially C. aureus, of Asia and Africa, that scavenge or hunt in packs.", "S": ["brush wolf ", "dingo ", "hyena ", "lobo ", "medicine wolf ", "timber wolf "], "A": []}
+{"index": 159868, "D": "any of several nocturnal wild dogs of the genus Canis, especially C. aureus, of Asia and Africa, that scavenge or hunt in packs.", "S": ["brush wolf", "dingo", "hyena", "lobo", "medicine wolf", "timber wolf"], "A": []}

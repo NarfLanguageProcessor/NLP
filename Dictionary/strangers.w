@@ -1,1 +1,1 @@
-{"index": 305767, "D": "a person with whom one has had no personal acquaintance", "S": ["alien ", "foreigner ", "guest ", "immigrant ", "intruder ", "newcomer ", "outsider ", "visitor "], "A": ["citizen ", "local ", "national ", "native "]}
+{"index": 305767, "D": "a person with whom one has had no personal acquaintance", "S": ["alien", "foreigner", "guest", "immigrant", "intruder", "newcomer", "outsider", "visitor"], "A": ["citizen", "local", "national", "native"]}

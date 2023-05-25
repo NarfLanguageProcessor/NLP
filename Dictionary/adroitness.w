@@ -1,1 +1,1 @@
-{"index": 4433, "D": "dexterity, flexibility, ease, and speed in the use of the hands or body", "S": ["ability ", "cleverness ", "deftness ", "dexterity ", "skill "], "A": ["clumsiness ", "ignorance ", "inability ", "stupidity "]}
+{"index": 4433, "D": "dexterity, flexibility, ease, and speed in the use of the hands or body", "S": ["ability", "cleverness", "deftness", "dexterity", "skill"], "A": ["clumsiness", "ignorance", "inability", "stupidity"]}

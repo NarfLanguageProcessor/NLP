@@ -1,0 +1,1 @@
+{"index": 10867, "D": "a variant of amebic. ", "S": ["biological", "nuclear"], "A": ["accessory", "auxiliary", "extra", "inessential", "minor", "secondary", "trivial", "unimportant", "unnecessary"]}

@@ -1,1 +1,1 @@
-{"index": 330458, "D": "a person or thing that trips.", "S": ["excursionist ", "globetrotter ", "journeyer ", "rubberneck ", "sightseer ", "stranger ", "traveler ", "vacationist ", "visitor ", "voyager ", "wayfarer "], "A": []}
+{"index": 330458, "D": "a person or thing that trips.", "S": ["excursionist", "globetrotter", "journeyer", "rubberneck", "sightseer", "stranger", "traveler", "vacationist", "visitor", "voyager", "wayfarer"], "A": []}

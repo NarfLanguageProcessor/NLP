@@ -1,1 +1,1 @@
-{"index": 66998, "D": "an officer of the peace, having police and minor judicial functions, usually in a small town, rural district, etc.", "S": ["detective ", "patrolman ", "policeman ", "policewoman "], "A": []}
+{"index": 66998, "D": "an officer of the peace, having police and minor judicial functions, usually in a small town, rural district, etc.", "S": ["detective", "patrolman", "policeman", "policewoman"], "A": []}

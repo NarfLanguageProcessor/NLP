@@ -1,1 +1,1 @@
-{"index": 160962, "D": "to build cheaply and flimsily.", "S": ["build overnight ", "knock together ", "patch ", "put together ", "roughcast ", "roughhew ", "run up ", "slap together ", "throw together "], "A": ["destroy ", "raze ", "tear down "]}
+{"index": 160962, "D": "to build cheaply and flimsily.", "S": ["build overnight", "knock together", "patch", "put together", "roughcast", "roughhew", "run up", "slap together", "throw together"], "A": ["destroy", "raze", "tear down"]}

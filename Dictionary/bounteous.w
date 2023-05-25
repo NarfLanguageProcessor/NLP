@@ -1,1 +1,1 @@
-{"index": 38985, "D": "giving or disposed to give freely; generous; liberal. ", "S": ["beneficent ", "bighearted ", "bountiful ", "charitable ", "giving ", "magnanimous ", "munificent ", "philanthropic ", "substantial "], "A": []}
+{"index": 38985, "D": "giving or disposed to give freely; generous; liberal. ", "S": ["beneficent", "bighearted", "bountiful", "charitable", "giving", "magnanimous", "munificent", "philanthropic", "substantial"], "A": []}

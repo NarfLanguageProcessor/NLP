@@ -1,1 +1,1 @@
-{"index": 65201, "D": "contrived or arranged by agreement; planned or devised together", "S": ["united "], "A": ["disarranged ", "disordered ", "disorganized ", "separate ", "uncoordinated "]}
+{"index": 65201, "D": "contrived or arranged by agreement; planned or devised together", "S": ["united"], "A": ["disarranged", "disordered", "disorganized", "separate", "uncoordinated"]}

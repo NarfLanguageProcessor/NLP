@@ -1,1 +1,1 @@
-{"index": 357969, "D": "the act of vending;  sale.", "S": ["auction ", "business ", "buying ", "deal ", "demand ", "marketing ", "purchase ", "reduction ", "selling ", "trade ", "transaction "], "A": []}
+{"index": 357969, "D": "the act of vending;  sale.", "S": ["auction", "business", "buying", "deal", "demand", "marketing", "purchase", "reduction", "selling", "trade", "transaction"], "A": []}

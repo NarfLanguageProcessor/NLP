@@ -1,1 +1,1 @@
-{"index": 90004, "D": "to destroy the unity of.", "S": ["alienate ", "antagonize ", "repel "], "A": ["calm ", "hold ", "order ", "please ", "quiet ", "soothe ", "unite "]}
+{"index": 90004, "D": "to destroy the unity of.", "S": ["alienate", "antagonize", "repel"], "A": ["calm", "hold", "order", "please", "quiet", "soothe", "unite"]}

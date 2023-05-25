@@ -1,1 +1,1 @@
-{"index": 69079, "D": "frenzied; agitated; unrestrained.", "S": ["delighted ", "ecstatic ", "frantic ", "frenzied ", "hysterical ", "intoxicated ", "mad ", "rabid ", "rapturous "], "A": ["calm ", "collected ", "controlled ", "happy ", "sorrowful ", "troubled ", "unhappy "]}
+{"index": 69079, "D": "frenzied; agitated; unrestrained.", "S": ["delighted", "ecstatic", "frantic", "frenzied", "hysterical", "intoxicated", "mad", "rabid", "rapturous"], "A": ["calm", "collected", "controlled", "happy", "sorrowful", "troubled", "unhappy"]}

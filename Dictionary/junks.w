@@ -1,1 +1,1 @@
-{"index": 162403, "D": "any old or discarded material, as metal, paper, or rags.", "S": ["clutter ", "debris ", "rubbish ", "rubble ", "trash "], "A": ["neatness ", "possessions ", "sense ", "cleanliness ", "sterility "]}
+{"index": 162403, "D": "any old or discarded material, as metal, paper, or rags.", "S": ["clutter", "debris", "rubbish", "rubble", "trash"], "A": ["neatness", "possessions", "sense", "cleanliness", "sterility"]}

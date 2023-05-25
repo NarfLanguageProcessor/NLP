@@ -1,1 +1,1 @@
-{"index": 100643, "D": "to make larger;  increase in extent, bulk, or quantity; add to", "S": ["expanded ", "extended ", "inflated ", "intensified ", "magnified ", "swollen "], "A": ["compressed ", "contracted ", "shrunken "]}
+{"index": 100643, "D": "to make larger;  increase in extent, bulk, or quantity; add to", "S": ["expanded", "extended", "inflated", "intensified", "magnified", "swollen"], "A": ["compressed", "contracted", "shrunken"]}

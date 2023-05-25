@@ -1,1 +1,1 @@
-{"index": 64579, "D": "a feeling of quiet pleasure or security, often while unaware of some potential danger, defect, or the like; self-satisfaction or smug satisfaction with an existing situation, condition, etc.", "S": ["satisfaction ", "smugness "], "A": []}
+{"index": 64579, "D": "a feeling of quiet pleasure or security, often while unaware of some potential danger, defect, or the like; self-satisfaction or smug satisfaction with an existing situation, condition, etc.", "S": ["satisfaction", "smugness"], "A": []}

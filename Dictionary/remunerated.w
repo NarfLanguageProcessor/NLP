@@ -1,1 +1,1 @@
-{"index": 267510, "D": "to pay, recompense, or reward for work, trouble, etc.", "S": ["compensated ", "salaried "], "A": ["unpaid "]}
+{"index": 267510, "D": "to pay, recompense, or reward for work, trouble, etc.", "S": ["compensated", "salaried"], "A": ["unpaid"]}

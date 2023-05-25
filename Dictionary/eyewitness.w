@@ -1,1 +1,1 @@
-{"index": 96467, "D": "a person who actually sees some act, occurrence, or thing and can give a firsthand account of it", "S": ["bystander ", "observer ", "witness "], "A": ["participant "]}
+{"index": 96467, "D": "a person who actually sees some act, occurrence, or thing and can give a firsthand account of it", "S": ["bystander", "observer", "witness"], "A": ["participant"]}

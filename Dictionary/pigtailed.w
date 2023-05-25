@@ -1,1 +1,1 @@
-{"index": 236489, "D": [], "S": ["complect ", "cue ", "entwine ", "interlace ", "intertwine ", "lace ", "mesh ", "pigtail ", "plait ", "ravel ", "twine ", "twist ", "weave "], "A": ["straighten ", "untwist "]}
+{"index": 236489, "D": [], "S": ["complect", "cue", "entwine", "interlace", "intertwine", "lace", "mesh", "pigtail", "plait", "ravel", "twine", "twist", "weave"], "A": ["straighten", "untwist"]}

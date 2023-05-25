@@ -1,1 +1,1 @@
-{"index": 119984, "D": "a violent denunciation or censure", "S": ["blast ", "curse ", "denunciation ", "diatribe ", "discharge ", "explosion ", "intimidation ", "invective ", "obloquy ", "outburst ", "philippic ", "reprobation ", "warning "], "A": ["compliment ", "praise "]}
+{"index": 119984, "D": "a violent denunciation or censure", "S": ["blast", "curse", "denunciation", "diatribe", "discharge", "explosion", "intimidation", "invective", "obloquy", "outburst", "philippic", "reprobation", "warning"], "A": ["compliment", "praise"]}

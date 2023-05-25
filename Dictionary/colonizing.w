@@ -1,1 +1,1 @@
-{"index": 63269, "D": "to establish a colony  in; settle", "S": ["authorizing ", "endowing ", "instituting ", "originating ", "planting "], "A": []}
+{"index": 63269, "D": "to establish a colony  in; settle", "S": ["authorizing", "endowing", "instituting", "originating", "planting"], "A": []}

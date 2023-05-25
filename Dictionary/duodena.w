@@ -1,1 +1,1 @@
-{"index": 94263, "D": "the first portion of the small intestine, from the stomach to the jejunum.", "S": ["belly ", "innards "], "A": []}
+{"index": 94263, "D": "the first portion of the small intestine, from the stomach to the jejunum.", "S": ["belly", "innards"], "A": []}

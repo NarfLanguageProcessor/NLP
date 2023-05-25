@@ -1,1 +1,1 @@
-{"index": 361062, "D": [], "S": ["agitation ", "dissolving ", "ebullition ", "evaporation ", "leavening ", "souring ", "turbulence "], "A": []}
+{"index": 361062, "D": [], "S": ["agitation", "dissolving", "ebullition", "evaporation", "leavening", "souring", "turbulence"], "A": []}

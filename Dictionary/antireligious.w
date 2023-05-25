@@ -1,0 +1,1 @@
+{"index": 16074, "D": "antireligious propaganda", "S": [], "A": []}

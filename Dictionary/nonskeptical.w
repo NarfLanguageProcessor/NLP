@@ -1,1 +1,0 @@
-{"index": 207340, "D": "inclined to skepticism;  having an attitude of doubt", "S": [], "A": []}

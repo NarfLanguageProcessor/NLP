@@ -1,1 +1,1 @@
-{"index": 149602, "D": "inward bound", "S": ["entering ", "incoming ", "infiltrating ", "inflowing ", "inpouring ", "penetrating ", "through "], "A": ["outgoing ", "outward ", "public "]}
+{"index": 149602, "D": "inward bound", "S": ["entering", "incoming", "infiltrating", "inflowing", "inpouring", "penetrating", "through"], "A": ["outgoing", "outward", "public"]}

@@ -1,1 +1,1 @@
-{"index": 16956, "D": "of, at, or forming the apex. ", "S": ["acuminate ", "barbed ", "edged ", "fine ", "honed ", "horned ", "jagged ", "keen ", "peaked ", "piercing ", "pointed "], "A": ["blunt ", "dull "]}
+{"index": 16956, "D": "of, at, or forming the apex. ", "S": ["acuminate", "barbed", "edged", "fine", "honed", "horned", "jagged", "keen", "peaked", "piercing", "pointed"], "A": ["blunt", "dull"]}

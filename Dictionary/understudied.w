@@ -1,1 +1,1 @@
-{"index": 339940, "D": "to learn (a role) in order to replace the regular actor or actress when necessary.", "S": ["replace "], "A": []}
+{"index": 339940, "D": "to learn (a role) in order to replace the regular actor or actress when necessary.", "S": ["replace"], "A": []}

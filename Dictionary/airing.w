@@ -1,1 +1,1 @@
-{"index": 6926, "D": "an exposure to the air, as for drying.", "S": ["fumigation ", "ventilation "], "A": []}
+{"index": 6926, "D": "an exposure to the air, as for drying.", "S": ["fumigation", "ventilation"], "A": []}

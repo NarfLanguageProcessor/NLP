@@ -1,1 +1,1 @@
-{"index": 355316, "D": "uranography. ", "S": ["astrophysics "], "A": []}
+{"index": 355316, "D": "uranography. ", "S": ["astrophysics"], "A": []}

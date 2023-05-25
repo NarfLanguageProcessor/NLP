@@ -1,1 +1,1 @@
-{"index": 194203, "D": "a natural elevation of earth; a hillock or knoll.", "S": ["anthill ", "bank ", "drift ", "dune ", "embankment ", "hillock ", "knoll ", "mass ", "molehill ", "mountain ", "pile ", "rise ", "shock ", "stack ", "tumulus "], "A": ["depression ", "ditch ", "valley "]}
+{"index": 194203, "D": "a natural elevation of earth; a hillock or knoll.", "S": ["anthill", "bank", "drift", "dune", "embankment", "hillock", "knoll", "mass", "molehill", "mountain", "pile", "rise", "shock", "stack", "tumulus"], "A": ["depression", "ditch", "valley"]}

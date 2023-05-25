@@ -1,1 +1,1 @@
-{"index": 47509, "D": "a salt or ester of carbonic acid. ", "S": ["ebullient ", "effervescent ", "effusive ", "exuberant ", "yeasty "], "A": ["dull "]}
+{"index": 47509, "D": "a salt or ester of carbonic acid. ", "S": ["ebullient", "effervescent", "effusive", "exuberant", "yeasty"], "A": ["dull"]}

@@ -1,1 +1,1 @@
-{"index": 260887, "D": "too hastily or thoughtlessly; in a foolhardy or ill-advised way", "S": ["headlong "], "A": []}
+{"index": 260887, "D": "too hastily or thoughtlessly; in a foolhardy or ill-advised way", "S": ["headlong"], "A": []}

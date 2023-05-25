@@ -1,1 +1,1 @@
-{"index": 86969, "D": "to fail to agree; differ", "S": ["dissenting ", "quarreling "], "A": []}
+{"index": 86969, "D": "to fail to agree; differ", "S": ["dissenting", "quarreling"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 294828, "D": "a person or thing that smelts. ", "S": [], "A": []}

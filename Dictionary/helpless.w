@@ -1,1 +1,1 @@
-{"index": 135812, "D": "unable to help  oneself; weak or dependent", "S": ["defenseless ", "destitute ", "disabled ", "forlorn ", "impotent ", "paralyzed ", "powerless ", "unable ", "unprotected ", "weak "], "A": ["able ", "capable ", "fit ", "potent ", "powerful ", "secure ", "strong "]}
+{"index": 135812, "D": "unable to help  oneself; weak or dependent", "S": ["defenseless", "destitute", "disabled", "forlorn", "impotent", "paralyzed", "powerless", "unable", "unprotected", "weak"], "A": ["able", "capable", "fit", "potent", "powerful", "secure", "strong"]}

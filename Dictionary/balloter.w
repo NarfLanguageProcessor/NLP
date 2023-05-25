@@ -1,1 +1,1 @@
-{"index": 27039, "D": "a slip or sheet of paper on which a person's vote is marked.", "S": ["citizen ", "official "], "A": ["whole "]}
+{"index": 27039, "D": "a slip or sheet of paper on which a person's vote is marked.", "S": ["citizen", "official"], "A": ["whole"]}

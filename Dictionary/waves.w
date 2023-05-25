@@ -1,1 +1,1 @@
-{"index": 363371, "D": "the Women's Reserve of the U.S. Naval Reserve, the distinct force of women enlistees in the U.S. Navy, organized during World War II.", "S": ["chain reaction ", "impact ", "outcome "], "A": ["cause ", "origin ", "source ", "start "]}
+{"index": 363371, "D": "the Women's Reserve of the U.S. Naval Reserve, the distinct force of women enlistees in the U.S. Navy, organized during World War II.", "S": ["chain reaction", "impact", "outcome"], "A": ["cause", "origin", "source", "start"]}

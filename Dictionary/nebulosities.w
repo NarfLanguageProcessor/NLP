@@ -1,1 +1,1 @@
-{"index": 197699, "D": "nebulous or nebular matter.", "S": ["darkness ", "fog ", "gloom ", "mist ", "puff ", "smog ", "smoke ", "steam ", "vapor ", "veil "], "A": ["brightness ", "cognizance ", "light ", "understanding "]}
+{"index": 197699, "D": "nebulous or nebular matter.", "S": ["darkness", "fog", "gloom", "mist", "puff", "smog", "smoke", "steam", "vapor", "veil"], "A": ["brightness", "cognizance", "light", "understanding"]}

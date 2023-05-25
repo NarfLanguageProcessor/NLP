@@ -1,1 +1,1 @@
-{"index": 259673, "D": "a message transmitted by radiotelegraphy.", "S": ["summons ", "telegraph "], "A": []}
+{"index": 259673, "D": "a message transmitted by radiotelegraphy.", "S": ["summons", "telegraph"], "A": []}

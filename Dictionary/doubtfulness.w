@@ -1,1 +1,1 @@
-{"index": 92004, "D": "of uncertain outcome or result.", "S": ["dubiety ", "dubiousness ", "indecision ", "mistrust ", "question ", "skepticism ", "suspicion ", "uncertainty "], "A": ["certainty ", "trust "]}
+{"index": 92004, "D": "of uncertain outcome or result.", "S": ["dubiety", "dubiousness", "indecision", "mistrust", "question", "skepticism", "suspicion", "uncertainty"], "A": ["certainty", "trust"]}

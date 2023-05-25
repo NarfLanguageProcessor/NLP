@@ -1,1 +1,1 @@
-{"index": 75702, "D": "a habitual practice; the usual way of acting in given circumstances.", "S": ["characteristic ", "habit ", "practice ", "procedure ", "rule "], "A": ["departure ", "deviation ", "difference ", "divergence ", "irregularity "]}
+{"index": 75702, "D": "a habitual practice; the usual way of acting in given circumstances.", "S": ["characteristic", "habit", "practice", "procedure", "rule"], "A": ["departure", "deviation", "difference", "divergence", "irregularity"]}

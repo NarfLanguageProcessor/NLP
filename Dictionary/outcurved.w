@@ -1,1 +1,1 @@
-{"index": 216442, "D": [], "S": ["bulging "], "A": ["concave ", "depressed ", "sinking "]}
+{"index": 216442, "D": [], "S": ["bulging"], "A": ["concave", "depressed", "sinking"]}

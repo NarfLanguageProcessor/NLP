@@ -1,1 +1,1 @@
-{"index": 103992, "D": "going astray; in error; wrong.", "S": ["blundering ", "deviating ", "sinning ", "straying ", "wrong "], "A": []}
+{"index": 103992, "D": "going astray; in error; wrong.", "S": ["blundering", "deviating", "sinning", "straying", "wrong"], "A": []}

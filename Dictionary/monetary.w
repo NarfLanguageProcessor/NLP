@@ -1,1 +1,1 @@
-{"index": 191889, "D": "of or relating to the coinage or currency of a country.", "S": ["budgetary ", "financial ", "fiscal "], "A": []}
+{"index": 191889, "D": "of or relating to the coinage or currency of a country.", "S": ["budgetary", "financial", "fiscal"], "A": []}

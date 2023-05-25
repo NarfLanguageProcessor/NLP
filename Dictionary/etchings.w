@@ -1,1 +1,1 @@
-{"index": 104822, "D": "the act or process of making designs or pictures on a metal plate, glass, etc., by the corrosive action of an acid instead of by a burin.", "S": ["engraving ", "inscription ", "reproduction "], "A": []}
+{"index": 104822, "D": "the act or process of making designs or pictures on a metal plate, glass, etc., by the corrosive action of an acid instead of by a burin.", "S": ["engraving", "inscription", "reproduction"], "A": []}

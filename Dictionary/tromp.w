@@ -1,1 +1,1 @@
-{"index": 331085, "D": "to tramp or trample.", "S": ["bruise ", "crush ", "encroach ", "flatten ", "grind ", "hurt ", "infringe ", "injure ", "override ", "overwhelm ", "pound ", "ride roughshod over ", "run over ", "squash ", "stamp ", "step on ", "stomp ", "tramp ", "tread ", "violate "], "A": []}
+{"index": 331085, "D": "to tramp or trample.", "S": ["bruise", "crush", "encroach", "flatten", "grind", "hurt", "infringe", "injure", "override", "overwhelm", "pound", "ride roughshod over", "run over", "squash", "stamp", "step on", "stomp", "tramp", "tread", "violate"], "A": []}

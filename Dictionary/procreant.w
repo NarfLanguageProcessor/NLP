@@ -1,1 +1,1 @@
-{"index": 251366, "D": "procreating or generating", "S": ["fertile ", "fruitful ", "procreative "], "A": ["barren ", "infertile "]}
+{"index": 251366, "D": "procreating or generating", "S": ["fertile", "fruitful", "procreative"], "A": ["barren", "infertile"]}

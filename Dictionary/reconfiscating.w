@@ -1,1 +1,0 @@
-{"index": 263325, "D": "to seize as forfeited to the public domain; appropriate, by way of penalty, for public use.", "S": [], "A": []}

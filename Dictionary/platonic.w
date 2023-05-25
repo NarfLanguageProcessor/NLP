@@ -1,1 +1,1 @@
-{"index": 239536, "D": "of, relating to, or characteristic of Plato  or his doctrines", "S": ["transcendent ", "utopian "], "A": ["physical "]}
+{"index": 239536, "D": "of, relating to, or characteristic of Plato  or his doctrines", "S": ["transcendent", "utopian"], "A": ["physical"]}

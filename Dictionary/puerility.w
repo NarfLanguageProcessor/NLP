@@ -1,1 +1,1 @@
-{"index": 256072, "D": "the state or quality of being a child.", "S": ["levity "], "A": ["sadness ", "seriousness ", "understanding ", "work "]}
+{"index": 256072, "D": "the state or quality of being a child.", "S": ["levity"], "A": ["sadness", "seriousness", "understanding", "work"]}

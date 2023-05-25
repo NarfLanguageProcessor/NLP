@@ -1,1 +1,1 @@
-{"index": 231645, "D": "the act of permuting or permutating; alteration; transformation.", "S": ["alteration ", "modification ", "shift ", "transformation "], "A": ["stagnation "]}
+{"index": 231645, "D": "the act of permuting or permutating; alteration; transformation.", "S": ["alteration", "modification", "shift", "transformation"], "A": ["stagnation"]}

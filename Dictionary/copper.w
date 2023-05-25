@@ -1,1 +1,1 @@
-{"index": 68591, "D": "a malleable, ductile, metallic element having a characteristic reddish-brown color", "S": ["burnished ", "chestnut ", "russet ", "rust ", "tan "], "A": []}
+{"index": 68591, "D": "a malleable, ductile, metallic element having a characteristic reddish-brown color", "S": ["burnished", "chestnut", "russet", "rust", "tan"], "A": []}

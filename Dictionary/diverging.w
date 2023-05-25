@@ -1,1 +1,1 @@
-{"index": 90241, "D": "to move, lie, or extend in different directions from a common point; branch off.", "S": ["deviating ", "diffusive ", "divergent ", "eccentric ", "efferent ", "outward ", "radial ", "spiral ", "spreading "], "A": ["centripetal "]}
+{"index": 90241, "D": "to move, lie, or extend in different directions from a common point; branch off.", "S": ["deviating", "diffusive", "divergent", "eccentric", "efferent", "outward", "radial", "spiral", "spreading"], "A": ["centripetal"]}

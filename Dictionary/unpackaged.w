@@ -1,1 +1,0 @@
-{"index": 347332, "D": "a bundle of something, usually of small or medium size, that is packed  and wrapped or boxed; parcel.", "S": ["bulk "], "A": ["boxed ", "packaged ", "packed ", "wrapped "]}

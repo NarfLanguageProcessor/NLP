@@ -1,1 +1,1 @@
-{"index": 63390, "D": "Compare Seven Wonders of the World. ", "S": ["Gargantua ", "Hercules ", "Samson ", "behemoth ", "cyclops ", "giant ", "goliath ", "leviathan ", "mammoth ", "titan "], "A": []}
+{"index": 63390, "D": "Compare Seven Wonders of the World. ", "S": ["Gargantua", "Hercules", "Samson", "behemoth", "cyclops", "giant", "goliath", "leviathan", "mammoth", "titan"], "A": []}

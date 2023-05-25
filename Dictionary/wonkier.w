@@ -1,1 +1,1 @@
-{"index": 367072, "D": "(of a person) shaky, groggy, or unsteady.", "S": ["rickety ", "unstable ", "unsteady ", "wobbly "], "A": []}
+{"index": 367072, "D": "(of a person) shaky, groggy, or unsteady.", "S": ["rickety", "unstable", "unsteady", "wobbly"], "A": []}

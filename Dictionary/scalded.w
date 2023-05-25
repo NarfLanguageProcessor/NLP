@@ -1,1 +1,1 @@
-{"index": 279387, "D": "to burn or affect painfully with or as if with hot liquid or steam.", "S": ["charred ", "scorched "], "A": []}
+{"index": 279387, "D": "to burn or affect painfully with or as if with hot liquid or steam.", "S": ["charred", "scorched"], "A": []}

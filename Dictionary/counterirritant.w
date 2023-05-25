@@ -1,1 +1,1 @@
-{"index": 70872, "D": "an agent for producing inflammation in superficial tissues to relieve pain or inflammation in deeper structures.", "S": ["balm ", "lotion "], "A": ["blockage ", "disease ", "hindrance ", "injury ", "obstruction "]}
+{"index": 70872, "D": "an agent for producing inflammation in superficial tissues to relieve pain or inflammation in deeper structures.", "S": ["balm", "lotion"], "A": ["blockage", "disease", "hindrance", "injury", "obstruction"]}

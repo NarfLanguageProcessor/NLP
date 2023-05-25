@@ -1,1 +1,1 @@
-{"index": 132282, "D": "grass, clover, alfalfa, etc., cut and dried for use as forage.", "S": ["fodder ", "grass "], "A": []}
+{"index": 132282, "D": "grass, clover, alfalfa, etc., cut and dried for use as forage.", "S": ["fodder", "grass"], "A": []}

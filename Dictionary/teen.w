@@ -1,1 +1,1 @@
-{"index": 317780, "D": "teenage. ", "S": ["juvenile ", "youngster "], "A": ["adult "]}
+{"index": 317780, "D": "teenage. ", "S": ["juvenile", "youngster"], "A": ["adult"]}

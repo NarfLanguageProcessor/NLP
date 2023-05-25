@@ -1,1 +1,1 @@
-{"index": 43936, "D": "a piece of furniture with shelves, drawers, etc., for holding or displaying items", "S": ["case ", "chiffonier ", "closet ", "commode ", "container ", "depository ", "dresser ", "escritoire ", "locker ", "repository ", "wardrobe "], "A": []}
+{"index": 43936, "D": "a piece of furniture with shelves, drawers, etc., for holding or displaying items", "S": ["case", "chiffonier", "closet", "commode", "container", "depository", "dresser", "escritoire", "locker", "repository", "wardrobe"], "A": []}

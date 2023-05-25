@@ -1,1 +1,1 @@
-{"index": 27962, "D": "a straight stitch worked in a high and low relief pattern to form a variety of zigzag or oblique designs.", "S": ["brocade ", "decoration ", "lace ", "needlepoint ", "quilting ", "tapestry "], "A": []}
+{"index": 27962, "D": "a straight stitch worked in a high and low relief pattern to form a variety of zigzag or oblique designs.", "S": ["brocade", "decoration", "lace", "needlepoint", "quilting", "tapestry"], "A": []}

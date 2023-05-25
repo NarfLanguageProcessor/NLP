@@ -1,1 +1,1 @@
-{"index": 175202, "D": "a person or thing that lops. ", "S": ["congeal ", "curdle ", "thicken "], "A": ["melt ", "thin "]}
+{"index": 175202, "D": "a person or thing that lops. ", "S": ["congeal", "curdle", "thicken"], "A": ["melt", "thin"]}

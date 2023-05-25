@@ -1,1 +1,1 @@
-{"index": 106372, "D": [], "S": ["aggravation ", "worsening "], "A": []}
+{"index": 106372, "D": [], "S": ["aggravation", "worsening"], "A": []}

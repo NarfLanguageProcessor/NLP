@@ -1,1 +1,1 @@
-{"index": 361280, "D": "a spiral or twisted formation or object.", "S": ["ball ", "barrel ", "bobbin ", "cartouche ", "coil ", "cone ", "convolution ", "cornucopia ", "cylinder ", "fold ", "reel ", "rundle ", "scroll ", "shell ", "spiral ", "spool ", "trundle ", "wheel ", "whorl "], "A": []}
+{"index": 361280, "D": "a spiral or twisted formation or object.", "S": ["ball", "barrel", "bobbin", "cartouche", "coil", "cone", "convolution", "cornucopia", "cylinder", "fold", "reel", "rundle", "scroll", "shell", "spiral", "spool", "trundle", "wheel", "whorl"], "A": []}

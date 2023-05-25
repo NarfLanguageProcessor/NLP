@@ -1,1 +1,1 @@
-{"index": 18798, "D": "a title of the sovereign princes of the former ruling house of Austria.", "S": ["aristocrat "], "A": []}
+{"index": 18798, "D": "a title of the sovereign princes of the former ruling house of Austria.", "S": ["aristocrat"], "A": []}

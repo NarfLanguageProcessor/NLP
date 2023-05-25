@@ -1,1 +1,1 @@
-{"index": 287717, "D": "a case or covering for the blade of a sword, dagger, or the like.", "S": ["arrayed ", "attired ", "clothed ", "covered ", "dressed ", "face ", "garbed ", "robed "], "A": ["exposed "]}
+{"index": 287717, "D": "a case or covering for the blade of a sword, dagger, or the like.", "S": ["arrayed", "attired", "clothed", "covered", "dressed", "face", "garbed", "robed"], "A": ["exposed"]}

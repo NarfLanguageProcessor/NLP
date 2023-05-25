@@ -1,1 +1,1 @@
-{"index": 196897, "D": "to sleep for a short time; doze. ", "S": ["furry ", "hairy "], "A": ["smooth "]}
+{"index": 196897, "D": "to sleep for a short time; doze. ", "S": ["furry", "hairy"], "A": ["smooth"]}

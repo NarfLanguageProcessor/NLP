@@ -1,1 +1,1 @@
-{"index": 211891, "D": "to make the characteristic sound of a pig; grunt.", "S": ["detective ", "force ", "law enforcement ", "man "], "A": []}
+{"index": 211891, "D": "to make the characteristic sound of a pig; grunt.", "S": ["detective", "force", "law enforcement", "man"], "A": []}

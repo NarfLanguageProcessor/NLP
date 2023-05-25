@@ -1,1 +1,1 @@
-{"index": 306639, "D": "a pastry, usually consisting of a fruit, cheese, or other mixture, rolled in a paper-thin sheet of dough and baked.", "S": ["bread ", "cake ", "croissant ", "doughnut ", "phyllo ", "pie "], "A": []}
+{"index": 306639, "D": "a pastry, usually consisting of a fruit, cheese, or other mixture, rolled in a paper-thin sheet of dough and baked.", "S": ["bread", "cake", "croissant", "doughnut", "phyllo", "pie"], "A": []}

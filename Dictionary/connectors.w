@@ -1,1 +1,1 @@
-{"index": 66518, "D": "a person or thing that connects. ", "S": ["connection "], "A": ["alienation ", "animosity ", "aversion ", "dislike ", "divorce ", "enmity ", "estrangement ", "hate ", "hatred ", "opposition "]}
+{"index": 66518, "D": "a person or thing that connects. ", "S": ["connection"], "A": ["alienation", "animosity", "aversion", "dislike", "divorce", "enmity", "estrangement", "hate", "hatred", "opposition"]}

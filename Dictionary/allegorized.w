@@ -1,1 +1,1 @@
-{"index": 8614, "D": "to make into an allegory;  narrate allegorically. ", "S": ["connect ", "correlate ", "equal ", "link ", "match ", "relate "], "A": ["disconnect ", "imbalance ", "differ ", "disagree "]}
+{"index": 8614, "D": "to make into an allegory;  narrate allegorically. ", "S": ["connect", "correlate", "equal", "link", "match", "relate"], "A": ["disconnect", "imbalance", "differ", "disagree"]}

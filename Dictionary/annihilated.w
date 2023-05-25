@@ -1,1 +1,1 @@
-{"index": 13544, "D": "to reduce to utter ruin or nonexistence; destroy utterly", "S": ["broken ", "demolished ", "devastated ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}
+{"index": 13544, "D": "to reduce to utter ruin or nonexistence; destroy utterly", "S": ["broken", "demolished", "devastated", "lost", "ravaged", "ruined", "shattered", "smashed", "wrecked"], "A": ["fixed", "repaired", "sober", "successful"]}

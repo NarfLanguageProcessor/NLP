@@ -1,1 +1,1 @@
-{"index": 144204, "D": "an inexpensive, supervised lodging place for young people on bicycle trips, hikes, etc.", "S": ["abide ", "reside "], "A": ["depart ", "go ", "leave ", "turn away ", "turn out "]}
+{"index": 144204, "D": "an inexpensive, supervised lodging place for young people on bicycle trips, hikes, etc.", "S": ["abide", "reside"], "A": ["depart", "go", "leave", "turn away", "turn out"]}

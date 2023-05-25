@@ -1,1 +1,1 @@
-{"index": 64402, "D": "of or relating to comparison. ", "S": ["provisional "], "A": ["different ", "dissimilar ", "separate ", "unequal ", "unlike "]}
+{"index": 64402, "D": "of or relating to comparison. ", "S": ["provisional"], "A": ["different", "dissimilar", "separate", "unequal", "unlike"]}

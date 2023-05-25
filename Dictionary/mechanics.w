@@ -1,1 +1,1 @@
-{"index": 181880, "D": "the branch of physics that deals with the action of forces on bodies and with motion, comprised of kinetics, statics, and kinematics.", "S": ["logistics ", "mechanism ", "nitty-gritty ", "procedures ", "workings "], "A": []}
+{"index": 181880, "D": "the branch of physics that deals with the action of forces on bodies and with motion, comprised of kinetics, statics, and kinematics.", "S": ["logistics", "mechanism", "nitty-gritty", "procedures", "workings"], "A": []}

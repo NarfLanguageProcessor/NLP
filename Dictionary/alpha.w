@@ -1,1 +1,1 @@
-{"index": 9315, "D": "the first letter of the Greek alphabet (A, \u03b1).", "S": ["first ", "start "], "A": []}
+{"index": 9315, "D": "the first letter of the Greek alphabet (A, \u03b1).", "S": ["first", "start"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 16171, "D": "to treat with antiseptics. ", "S": ["cleanse ", "decontaminate ", "sanitize ", "sterilize "], "A": ["dirty "]}
+{"index": 16171, "D": "to treat with antiseptics. ", "S": ["cleanse", "decontaminate", "sanitize", "sterilize"], "A": ["dirty"]}

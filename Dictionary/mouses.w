@@ -1,1 +1,1 @@
-{"index": 194298, "D": "any of numerous small Old World rodents of the family Muridae, especially of the genus Mus, introduced widely in other parts of the world.", "S": ["pry ", "sniff ", "snoop "], "A": ["ignore "]}
+{"index": 194298, "D": "any of numerous small Old World rodents of the family Muridae, especially of the genus Mus, introduced widely in other parts of the world.", "S": ["pry", "sniff", "snoop"], "A": ["ignore"]}

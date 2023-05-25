@@ -1,1 +1,1 @@
-{"index": 62146, "D": "a public place that specializes in serving coffee  and other refreshments and that sometimes provides informal entertainment.", "S": ["coffee bar "], "A": []}
+{"index": 62146, "D": "a public place that specializes in serving coffee  and other refreshments and that sometimes provides informal entertainment.", "S": ["coffee bar"], "A": []}

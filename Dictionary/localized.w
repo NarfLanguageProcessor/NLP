@@ -1,1 +1,1 @@
-{"index": 174289, "D": [], "S": ["sectarian "], "A": ["free ", "unbounded ", "unconfined ", "unlimited ", "unrestricted "]}
+{"index": 174289, "D": [], "S": ["sectarian"], "A": ["free", "unbounded", "unconfined", "unlimited", "unrestricted"]}

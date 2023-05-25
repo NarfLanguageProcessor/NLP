@@ -1,1 +1,1 @@
-{"index": 100479, "D": "to chase (letters, designs, etc.) on a hard surface, as of metal, stone, or the end grain of wood", "S": ["artist ", "carver ", "cutter ", "etcher ", "lapidary ", "lithographer ", "sculptor "], "A": []}
+{"index": 100479, "D": "to chase (letters, designs, etc.) on a hard surface, as of metal, stone, or the end grain of wood", "S": ["artist", "carver", "cutter", "etcher", "lapidary", "lithographer", "sculptor"], "A": []}

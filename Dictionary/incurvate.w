@@ -1,1 +1,1 @@
-{"index": 150614, "D": "curved, especially inward.", "S": ["biconcave ", "cupped ", "dented ", "dimpled ", "dipped ", "excavated ", "hollow ", "hollowed ", "incurvated ", "incurved ", "indented ", "round ", "rounded ", "sagging ", "sinking ", "sunken "], "A": ["convex ", "distended "]}
+{"index": 150614, "D": "curved, especially inward.", "S": ["biconcave", "cupped", "dented", "dimpled", "dipped", "excavated", "hollow", "hollowed", "incurvated", "incurved", "indented", "round", "rounded", "sagging", "sinking", "sunken"], "A": ["convex", "distended"]}

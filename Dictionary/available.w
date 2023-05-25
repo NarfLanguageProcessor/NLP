@@ -1,1 +1,1 @@
-{"index": 24570, "D": "suitable or ready for use; of use or service; at hand", "S": ["accessible ", "applicable ", "convenient ", "feasible ", "free ", "handy ", "possible ", "usable ", "vacant "], "A": ["inconvenient ", "limited ", "occupied "]}
+{"index": 24570, "D": "suitable or ready for use; of use or service; at hand", "S": ["accessible", "applicable", "convenient", "feasible", "free", "handy", "possible", "usable", "vacant"], "A": ["inconvenient", "limited", "occupied"]}

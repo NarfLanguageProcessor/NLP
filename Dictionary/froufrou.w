@@ -1,1 +1,1 @@
-{"index": 119465, "D": "elaborate decoration, as frills, ribbons, or ruffles, especially on women's clothing.", "S": ["accessory ", "adornment ", "art ", "bauble ", "embroidery ", "flower ", "jewel ", "knickknack ", "treasure ", "trinket "], "A": []}
+{"index": 119465, "D": "elaborate decoration, as frills, ribbons, or ruffles, especially on women's clothing.", "S": ["accessory", "adornment", "art", "bauble", "embroidery", "flower", "jewel", "knickknack", "treasure", "trinket"], "A": []}

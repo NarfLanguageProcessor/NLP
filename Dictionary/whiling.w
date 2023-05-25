@@ -1,1 +1,1 @@
-{"index": 364802, "D": "a period or interval of time", "S": ["although ", "at the same time ", "during ", "during the time ", "in the time ", "throughout the time ", "whilst "], "A": []}
+{"index": 364802, "D": "a period or interval of time", "S": ["although", "at the same time", "during", "during the time", "in the time", "throughout the time", "whilst"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12049, "D": "to pronounce an anathema  against; denounce; curse.", "S": [], "A": []}

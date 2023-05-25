@@ -1,1 +1,1 @@
-{"index": 209133, "D": "to put into the form of a novel", "S": ["fabricate "], "A": []}
+{"index": 209133, "D": "to put into the form of a novel", "S": ["fabricate"], "A": []}

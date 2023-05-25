@@ -1,1 +1,1 @@
-{"index": 36337, "D": "to expand or distend, as with air, water, etc.; cause to swell", "S": ["inflate ", "swell "], "A": ["compress ", "contract ", "shrink ", "abridge ", "lessen ", "lower ", "reduce "]}
+{"index": 36337, "D": "to expand or distend, as with air, water, etc.; cause to swell", "S": ["inflate", "swell"], "A": ["compress", "contract", "shrink", "abridge", "lessen", "lower", "reduce"]}

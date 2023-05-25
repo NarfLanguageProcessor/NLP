@@ -1,1 +1,0 @@
-{"index": 257830, "D": "designed or built to withstand the destructive forces of an earthquake.", "S": [], "A": []}

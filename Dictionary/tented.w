@@ -1,1 +1,1 @@
-{"index": 319039, "D": "covered with or living in a tent  or tents.", "S": ["billet ", "bivouac ", "quarter ", "settle ", "tent "], "A": []}
+{"index": 319039, "D": "covered with or living in a tent  or tents.", "S": ["billet", "bivouac", "quarter", "settle", "tent"], "A": []}

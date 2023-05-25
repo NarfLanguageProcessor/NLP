@@ -1,1 +1,1 @@
-{"index": 209562, "D": "Compare denominator (def. 1). ", "S": ["common divisor ", "common measure ", "denominator "], "A": []}
+{"index": 209562, "D": "Compare denominator (def. 1). ", "S": ["common divisor", "common measure", "denominator"], "A": []}

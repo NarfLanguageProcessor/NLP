@@ -1,1 +1,1 @@
-{"index": 287495, "D": "a holder  or owner of shares,  especially in a company or corporation.", "S": ["bondholder ", "investor "], "A": []}
+{"index": 287495, "D": "a holder  or owner of shares,  especially in a company or corporation.", "S": ["bondholder", "investor"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 299961, "D": "the spinning out of control into a rotating skid of a car or other vehicle.", "S": ["continue ", "draw out ", "endure ", "extend ", "go on slowly ", "keep going ", "lengthen ", "persist ", "prolong ", "protract ", "stretch out "], "A": ["complete "]}
+{"index": 299961, "D": "the spinning out of control into a rotating skid of a car or other vehicle.", "S": ["continue", "draw out", "endure", "extend", "go on slowly", "keep going", "lengthen", "persist", "prolong", "protract", "stretch out"], "A": ["complete"]}

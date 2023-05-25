@@ -1,1 +1,1 @@
-{"index": 10291, "D": "to punish by imposing a fine not fixed by statute.", "S": ["damages ", "forfeiture ", "mulct ", "penalty ", "punishment "], "A": ["reward "]}
+{"index": 10291, "D": "to punish by imposing a fine not fixed by statute.", "S": ["damages", "forfeiture", "mulct", "penalty", "punishment"], "A": ["reward"]}

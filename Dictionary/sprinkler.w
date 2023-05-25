@@ -1,1 +1,0 @@
-{"index": 301346, "D": "any of various devices for sprinkling,  as a watering pot, a container of water with a perforated top used to sprinkle  clothes before ironing, or especially a perforated ring or small stand with a revolving nozzle to which a hose is attached for watering a lawn with a fine, even spray.", "S": ["aerosol ", "sprayer "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 18714, "D": "Compare angel (def. 1). ", "S": ["celestial ", "ethereal ", "heavenly ", "lovely ", "otherworldly ", "radiant ", "saintly ", "virtuous "], "A": ["bad ", "earthly ", "hellish ", "sinful ", "wicked "]}
+{"index": 18714, "D": "Compare angel (def. 1). ", "S": ["celestial", "ethereal", "heavenly", "lovely", "otherworldly", "radiant", "saintly", "virtuous"], "A": ["bad", "earthly", "hellish", "sinful", "wicked"]}

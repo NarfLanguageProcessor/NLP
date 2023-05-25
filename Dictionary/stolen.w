@@ -1,1 +1,1 @@
-{"index": 305054, "D": "past participle of steal. ", "S": ["hijacked ", "lifted ", "pinched ", "purloined ", "robbed ", "snatched "], "A": []}
+{"index": 305054, "D": "past participle of steal. ", "S": ["hijacked", "lifted", "pinched", "purloined", "robbed", "snatched"], "A": []}

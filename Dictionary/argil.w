@@ -1,1 +1,1 @@
-{"index": 19499, "D": "clay, especially potter's clay.", "S": ["brick ", "earth ", "mud ", "terra cotta "], "A": []}
+{"index": 19499, "D": "clay, especially potter's clay.", "S": ["brick", "earth", "mud", "terra cotta"], "A": []}

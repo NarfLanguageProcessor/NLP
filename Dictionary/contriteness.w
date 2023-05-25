@@ -1,1 +1,1 @@
-{"index": 67783, "D": "caused by or showing sincere remorse.", "S": ["attrition ", "compunction ", "guilt ", "penitence ", "regret ", "remorse ", "repentance ", "shame "], "A": ["happiness ", "satisfaction "]}
+{"index": 67783, "D": "caused by or showing sincere remorse.", "S": ["attrition", "compunction", "guilt", "penitence", "regret", "remorse", "repentance", "shame"], "A": ["happiness", "satisfaction"]}

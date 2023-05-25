@@ -1,1 +1,1 @@
-{"index": 362058, "D": "vest (def. 1). ", "S": ["balmoral ", "clothes ", "kilt ", "slip ", "undercoat ", "underskirt "], "A": []}
+{"index": 362058, "D": "vest (def. 1). ", "S": ["balmoral", "clothes", "kilt", "slip", "undercoat", "underskirt"], "A": []}

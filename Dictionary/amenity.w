@@ -1,1 +1,1 @@
-{"index": 10262, "D": "an agreeable way or manner; courtesy; civility", "S": ["comfort ", "convenience ", "enhancement ", "facility ", "improvement ", "luxury ", "quality "], "A": ["hurt ", "injury ", "disadvantage "]}
+{"index": 10262, "D": "an agreeable way or manner; courtesy; civility", "S": ["comfort", "convenience", "enhancement", "facility", "improvement", "luxury", "quality"], "A": ["hurt", "injury", "disadvantage"]}

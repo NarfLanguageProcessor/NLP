@@ -1,1 +1,1 @@
-{"index": 13202, "D": "to give life to; make alive", "S": ["body ", "existence ", "growth ", "living ", "man ", "person ", "soul ", "survival ", "woman "], "A": ["abstract ", "concept ", "inanimate "]}
+{"index": 13202, "D": "to give life to; make alive", "S": ["body", "existence", "growth", "living", "man", "person", "soul", "survival", "woman"], "A": ["abstract", "concept", "inanimate"]}

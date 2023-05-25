@@ -1,1 +1,1 @@
-{"index": 88305, "D": "lack or loss of honor;  disgraceful or dishonest character or conduct.", "S": ["defamatory ", "degrading ", "demeaning ", "disparaging ", "sarcastic ", "slanderous ", "unflattering "], "A": ["complimentary "]}
+{"index": 88305, "D": "lack or loss of honor;  disgraceful or dishonest character or conduct.", "S": ["defamatory", "degrading", "demeaning", "disparaging", "sarcastic", "slanderous", "unflattering"], "A": ["complimentary"]}

@@ -1,1 +1,1 @@
-{"index": 225148, "D": "a substance made from wood pulp, rags, straw, or other fibrous material, usually in thin sheets, used to bear writing or printing, for wrapping things, etc.", "S": ["cardboard ", "disposable "], "A": ["thick "]}
+{"index": 225148, "D": "a substance made from wood pulp, rags, straw, or other fibrous material, usually in thin sheets, used to bear writing or printing, for wrapping things, etc.", "S": ["cardboard", "disposable"], "A": ["thick"]}

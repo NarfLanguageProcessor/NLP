@@ -1,1 +1,1 @@
-{"index": 136885, "D": "of, relating to, or characteristic of an herb; herblike.", "S": ["decorative "], "A": []}
+{"index": 136885, "D": "of, relating to, or characteristic of an herb; herblike.", "S": ["decorative"], "A": []}

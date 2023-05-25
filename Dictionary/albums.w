@@ -1,1 +1,1 @@
-{"index": 7565, "D": "a digital collection of photographs, stored on a computer or mobile device for viewing, displaying, or sharing.", "S": ["collection ", "scrapbook "], "A": []}
+{"index": 7565, "D": "a digital collection of photographs, stored on a computer or mobile device for viewing, displaying, or sharing.", "S": ["collection", "scrapbook"], "A": []}

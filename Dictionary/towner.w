@@ -1,1 +1,1 @@
-{"index": 326794, "D": "a person who lives in a town  or city.", "S": ["provincial ", "regional "], "A": ["broad ", "broad-minded ", "liberal ", "unrestricted "]}
+{"index": 326794, "D": "a person who lives in a town  or city.", "S": ["provincial", "regional"], "A": ["broad", "broad-minded", "liberal", "unrestricted"]}

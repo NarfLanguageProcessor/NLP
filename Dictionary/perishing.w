@@ -1,1 +1,1 @@
-{"index": 231313, "D": "causing destruction, ruin, extreme discomfort, or death", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}
+{"index": 231313, "D": "causing destruction, ruin, extreme discomfort, or death", "S": ["powdery", "soft"], "A": ["flexible", "pliable"]}

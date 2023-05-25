@@ -1,1 +1,1 @@
-{"index": 302705, "D": "the point or place at which a person stands to view something.", "S": ["angle ", "point of view ", "viewpoint "], "A": []}
+{"index": 302705, "D": "the point or place at which a person stands to view something.", "S": ["angle", "point of view", "viewpoint"], "A": []}

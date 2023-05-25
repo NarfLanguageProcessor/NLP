@@ -1,1 +1,1 @@
-{"index": 294003, "D": "a thin, flat piece cut from something", "S": ["portion ", "sliver ", "wedge "], "A": ["whole "]}
+{"index": 294003, "D": "a thin, flat piece cut from something", "S": ["portion", "sliver", "wedge"], "A": ["whole"]}

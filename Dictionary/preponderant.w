@@ -1,1 +1,1 @@
-{"index": 248859, "D": "superior in weight, force, influence, numbers, etc.; prevailing", "S": ["dominant ", "dominating ", "overpowering ", "overriding ", "powerful ", "predominant ", "significant ", "superior "], "A": []}
+{"index": 248859, "D": "superior in weight, force, influence, numbers, etc.; prevailing", "S": ["dominant", "dominating", "overpowering", "overriding", "powerful", "predominant", "significant", "superior"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 304700, "D": "that smells foul;  foul-smelling.", "S": ["fetid ", "foul-smelling ", "funky ", "putrid "], "A": ["sweet ", "clean "]}
+{"index": 304700, "D": "that smells foul;  foul-smelling.", "S": ["fetid", "foul-smelling", "funky", "putrid"], "A": ["sweet", "clean"]}

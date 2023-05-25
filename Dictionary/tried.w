@@ -1,1 +1,1 @@
-{"index": 329691, "D": "simple past tense and past participle of try. ", "S": ["approved ", "proved ", "tested "], "A": ["unreliable ", "untried "]}
+{"index": 329691, "D": "simple past tense and past participle of try. ", "S": ["approved", "proved", "tested"], "A": ["unreliable", "untried"]}

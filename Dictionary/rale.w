@@ -1,1 +1,1 @@
-{"index": 260205, "D": "an abnormal crackling or rattling sound heard upon auscultation of the chest, caused by disease or congestion of the lungs.", "S": ["death groan "], "A": []}
+{"index": 260205, "D": "an abnormal crackling or rattling sound heard upon auscultation of the chest, caused by disease or congestion of the lungs.", "S": ["death groan"], "A": []}

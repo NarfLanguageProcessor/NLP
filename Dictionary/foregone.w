@@ -1,1 +1,1 @@
-{"index": 116682, "D": "that has gone  before; previous; past.", "S": ["destined "], "A": []}
+{"index": 116682, "D": "that has gone  before; previous; past.", "S": ["destined"], "A": []}

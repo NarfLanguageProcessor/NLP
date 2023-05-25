@@ -1,1 +1,1 @@
-{"index": 296706, "D": "anxious or concerned (usually followed by about, for, etc., or a clause)", "S": ["TLC ", "concern ", "politeness ", "regard ", "respect ", "solicitude ", "thoughtfulness "], "A": ["disrespect "]}
+{"index": 296706, "D": "anxious or concerned (usually followed by about, for, etc., or a clause)", "S": ["TLC", "concern", "politeness", "regard", "respect", "solicitude", "thoughtfulness"], "A": ["disrespect"]}

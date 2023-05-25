@@ -1,1 +1,1 @@
-{"index": 91238, "D": "a field of action, thought, influence, etc.", "S": ["realm ", "sphere ", "territory "], "A": ["sky ", "surrender ", "yielding "]}
+{"index": 91238, "D": "a field of action, thought, influence, etc.", "S": ["realm", "sphere", "territory"], "A": ["sky", "surrender", "yielding"]}

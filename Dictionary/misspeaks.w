@@ -1,1 +1,1 @@
-{"index": 190111, "D": "to speak, utter, or pronounce incorrectly.", "S": ["error ", "gaffe ", "lapse ", "miscue ", "misjudgment ", "recklessness "], "A": ["correction ", "judgment ", "seriousness ", "thoughtfulness ", "wisdom "]}
+{"index": 190111, "D": "to speak, utter, or pronounce incorrectly.", "S": ["error", "gaffe", "lapse", "miscue", "misjudgment", "recklessness"], "A": ["correction", "judgment", "seriousness", "thoughtfulness", "wisdom"]}

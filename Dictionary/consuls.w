@@ -1,1 +1,1 @@
-{"index": 67158, "D": "an official appointed by the government of one country to look after its commercial interests and the welfare of its citizens in another country.", "S": ["envoy "], "A": []}
+{"index": 67158, "D": "an official appointed by the government of one country to look after its commercial interests and the welfare of its citizens in another country.", "S": ["envoy"], "A": []}

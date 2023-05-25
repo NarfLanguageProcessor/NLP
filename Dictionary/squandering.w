@@ -1,1 +1,1 @@
-{"index": 301720, "D": "to spend or use (money, time, etc.) extravagantly or wastefully (often followed by away).", "S": ["profligate ", "spendthrift ", "wanton "], "A": ["careful ", "moral ", "nice "]}
+{"index": 301720, "D": "to spend or use (money, time, etc.) extravagantly or wastefully (often followed by away).", "S": ["profligate", "spendthrift", "wanton"], "A": ["careful", "moral", "nice"]}

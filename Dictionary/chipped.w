@@ -1,1 +1,1 @@
-{"index": 54699, "D": "a small, slender piece, as of wood, separated by chopping, cutting, or breaking.", "S": ["chop ", "crack ", "hack ", "nick ", "splinter ", "whack "], "A": ["fix ", "mend ", "build ", "combine ", "increase ", "join ", "put together "]}
+{"index": 54699, "D": "a small, slender piece, as of wood, separated by chopping, cutting, or breaking.", "S": ["chop", "crack", "hack", "nick", "splinter", "whack"], "A": ["fix", "mend", "build", "combine", "increase", "join", "put together"]}

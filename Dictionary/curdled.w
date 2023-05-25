@@ -1,1 +1,1 @@
-{"index": 75254, "D": "to change into curd;  coagulate; congeal.", "S": ["contaminated ", "disagreeable ", "fetid ", "moldy ", "musty ", "polluted ", "putrid ", "smelly ", "soured ", "stale ", "tainted "], "A": ["clean ", "fresh ", "new ", "perfumed ", "pure ", "sweet "]}
+{"index": 75254, "D": "to change into curd;  coagulate; congeal.", "S": ["contaminated", "disagreeable", "fetid", "moldy", "musty", "polluted", "putrid", "smelly", "soured", "stale", "tainted"], "A": ["clean", "fresh", "new", "perfumed", "pure", "sweet"]}

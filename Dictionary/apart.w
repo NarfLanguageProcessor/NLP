@@ -1,1 +1,1 @@
-{"index": 16663, "D": "into pieces or parts; to pieces", "S": ["aside "], "A": ["together "]}
+{"index": 16663, "D": "into pieces or parts; to pieces", "S": ["aside"], "A": ["together"]}

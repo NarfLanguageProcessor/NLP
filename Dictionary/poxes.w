@@ -1,1 +1,1 @@
-{"index": 245041, "D": "a disease characterized by multiple skin pustules, as smallpox. ", "S": ["gonorrhea ", "herpes ", "syphilis "], "A": []}
+{"index": 245041, "D": "a disease characterized by multiple skin pustules, as smallpox. ", "S": ["gonorrhea", "herpes", "syphilis"], "A": []}

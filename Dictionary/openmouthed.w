@@ -1,1 +1,1 @@
-{"index": 213246, "D": "having the mouth open.", "S": ["agog ", "anxious ", "avid ", "eager ", "excited ", "flabbergasted ", "thunderstruck ", "with bated breath "], "A": ["breathy ", "calm "]}
+{"index": 213246, "D": "having the mouth open.", "S": ["agog", "anxious", "avid", "eager", "excited", "flabbergasted", "thunderstruck", "with bated breath"], "A": ["breathy", "calm"]}

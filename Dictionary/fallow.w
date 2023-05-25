@@ -1,1 +1,1 @@
-{"index": 109509, "D": "(of land) plowed and left unseeded for a season or more; uncultivated.", "S": ["idle ", "slack ", "virgin "], "A": ["active "]}
+{"index": 109509, "D": "(of land) plowed and left unseeded for a season or more; uncultivated.", "S": ["idle", "slack", "virgin"], "A": ["active"]}

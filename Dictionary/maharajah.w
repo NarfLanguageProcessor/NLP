@@ -1,1 +1,1 @@
-{"index": 177664, "D": "(formerly) a ruling prince in India, especially of one of the major states.", "S": ["emperor ", "monarch ", "sultan "], "A": []}
+{"index": 177664, "D": "(formerly) a ruling prince in India, especially of one of the major states.", "S": ["emperor", "monarch", "sultan"], "A": []}

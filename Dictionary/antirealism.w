@@ -1,0 +1,1 @@
+{"index": 16053, "D": "interest in or concern for the actual or real, as distinguished from the abstract, speculative, etc.", "S": [], "A": []}

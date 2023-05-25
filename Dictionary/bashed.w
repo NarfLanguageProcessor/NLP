@@ -1,1 +1,1 @@
-{"index": 28541, "D": "to strike with a crushing or smashing blow.", "S": ["intoxicated "], "A": ["clear ", "clearheaded ", "sober ", "straight "]}
+{"index": 28541, "D": "to strike with a crushing or smashing blow.", "S": ["intoxicated"], "A": ["clear", "clearheaded", "sober", "straight"]}

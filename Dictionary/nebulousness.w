@@ -1,1 +1,1 @@
-{"index": 197703, "D": "hazy, vague, indistinct, or confused", "S": ["ambiguity ", "ambiguousness ", "cloudiness ", "equivocalness ", "indefiniteness ", "obscureness ", "obscurity ", "uncertainty ", "unclearness "], "A": []}
+{"index": 197703, "D": "hazy, vague, indistinct, or confused", "S": ["ambiguity", "ambiguousness", "cloudiness", "equivocalness", "indefiniteness", "obscureness", "obscurity", "uncertainty", "unclearness"], "A": []}

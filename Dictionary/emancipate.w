@@ -1,1 +1,1 @@
-{"index": 97916, "D": "to free from restraint, influence, or the like.", "S": ["liberate ", "loosen "], "A": ["detain ", "hold ", "imprison ", "keep "]}
+{"index": 97916, "D": "to free from restraint, influence, or the like.", "S": ["liberate", "loosen"], "A": ["detain", "hold", "imprison", "keep"]}

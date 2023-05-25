@@ -1,1 +1,1 @@
-{"index": 20948, "D": "to find out definitely; learn with certainty or assurance; determine", "S": ["detection ", "determination ", "find ", "finding ", "uncovering ", "unearthing "], "A": []}
+{"index": 20948, "D": "to find out definitely; learn with certainty or assurance; determine", "S": ["detection", "determination", "find", "finding", "uncovering", "unearthing"], "A": []}

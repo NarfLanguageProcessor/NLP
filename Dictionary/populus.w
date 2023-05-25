@@ -1,1 +1,0 @@
-{"index": 243343, "D": "let the people rule", "S": [], "A": []}

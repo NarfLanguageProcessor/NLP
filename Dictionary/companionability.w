@@ -1,1 +1,1 @@
-{"index": 64377, "D": "possessing the qualities of a good companion;  pleasant to be with; congenial.", "S": ["companionship ", "intimacy ", "togetherness "], "A": ["gloom "]}
+{"index": 64377, "D": "possessing the qualities of a good companion;  pleasant to be with; congenial.", "S": ["companionship", "intimacy", "togetherness"], "A": ["gloom"]}

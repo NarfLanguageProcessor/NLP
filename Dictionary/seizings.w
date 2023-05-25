@@ -1,1 +1,1 @@
-{"index": 283370, "D": "the act of a person or thing that seizes. ", "S": ["abduction ", "arrest ", "confiscation "], "A": ["letting go ", "liberation ", "release "]}
+{"index": 283370, "D": "the act of a person or thing that seizes. ", "S": ["abduction", "arrest", "confiscation"], "A": ["letting go", "liberation", "release"]}

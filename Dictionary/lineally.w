@@ -1,1 +1,1 @@
-{"index": 172730, "D": "being in the direct line,  as a descendant or ancestor, or in a direct line,  as descent or succession.", "S": ["away ", "dead ", "right away "], "A": ["indirectly "]}
+{"index": 172730, "D": "being in the direct line,  as a descendant or ancestor, or in a direct line,  as descent or succession.", "S": ["away", "dead", "right away"], "A": ["indirectly"]}

@@ -1,1 +1,1 @@
-{"index": 129519, "D": "a U.S. legal-tender note, printed in green  on the back  since the Civil War, originally issued against the credit of the country and not against gold or silver on deposit.", "S": ["cabbage ", "dough "], "A": []}
+{"index": 129519, "D": "a U.S. legal-tender note, printed in green  on the back  since the Civil War, originally issued against the credit of the country and not against gold or silver on deposit.", "S": ["cabbage", "dough"], "A": []}

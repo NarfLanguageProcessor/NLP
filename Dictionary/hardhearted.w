@@ -1,1 +1,1 @@
-{"index": 133664, "D": "unfeeling; unmerciful; pitiless.", "S": ["heartless "], "A": ["compassionate ", "kind ", "nice ", "softhearted ", "warm "]}
+{"index": 133664, "D": "unfeeling; unmerciful; pitiless.", "S": ["heartless"], "A": ["compassionate", "kind", "nice", "softhearted", "warm"]}

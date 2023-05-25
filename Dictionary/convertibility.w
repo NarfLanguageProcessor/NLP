@@ -1,1 +1,1 @@
-{"index": 68057, "D": "capable of being converted. ", "S": ["FX ", "Forex ", "negotiable bills "], "A": []}
+{"index": 68057, "D": "capable of being converted. ", "S": ["FX", "Forex", "negotiable bills"], "A": []}

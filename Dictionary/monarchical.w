@@ -1,1 +1,1 @@
-{"index": 191752, "D": "of, like, or pertaining to a monarch  or monarchy. ", "S": ["autarchical "], "A": []}
+{"index": 191752, "D": "of, like, or pertaining to a monarch  or monarchy. ", "S": ["autarchical"], "A": []}

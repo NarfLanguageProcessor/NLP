@@ -1,1 +1,1 @@
-{"index": 83078, "D": "to keep from proceeding; keep waiting; delay. ", "S": ["apprehend ", "confine ", "delay ", "jail "], "A": ["free ", "liberate ", "advance ", "aid ", "allow ", "assist ", "facilitate ", "forward ", "give ", "help ", "let go ", "offer ", "permit ", "push ", "release "]}
+{"index": 83078, "D": "to keep from proceeding; keep waiting; delay. ", "S": ["apprehend", "confine", "delay", "jail"], "A": ["free", "liberate", "advance", "aid", "allow", "assist", "facilitate", "forward", "give", "help", "let go", "offer", "permit", "push", "release"]}

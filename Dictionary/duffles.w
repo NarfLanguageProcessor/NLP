@@ -1,1 +1,1 @@
-{"index": 93892, "D": "a camper's clothing and equipment.", "S": ["carry-on bag ", "small suitcase ", "weekender "], "A": []}
+{"index": 93892, "D": "a camper's clothing and equipment.", "S": ["carry-on bag", "small suitcase", "weekender"], "A": []}

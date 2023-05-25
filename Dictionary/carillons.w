@@ -1,1 +1,1 @@
-{"index": 48056, "D": "a set of stationary bells hung in a tower and sounded by manual or pedal action, or by machinery.", "S": ["angelus ", "chimes ", "glockenspiel ", "gong ", "lyra ", "peal ", "tintinnabulation ", "tocsin "], "A": []}
+{"index": 48056, "D": "a set of stationary bells hung in a tower and sounded by manual or pedal action, or by machinery.", "S": ["angelus", "chimes", "glockenspiel", "gong", "lyra", "peal", "tintinnabulation", "tocsin"], "A": []}

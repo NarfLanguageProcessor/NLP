@@ -1,1 +1,1 @@
-{"index": 359456, "D": "a success or triumph over an enemy in battle or war.", "S": ["achievement ", "advantage ", "defeat ", "gain ", "grand slam ", "hit ", "sweep ", "triumph ", "winning "], "A": ["failure ", "forfeit ", "loss ", "inferiority ", "subservience ", "weakness "]}
+{"index": 359456, "D": "a success or triumph over an enemy in battle or war.", "S": ["achievement", "advantage", "defeat", "gain", "grand slam", "hit", "sweep", "triumph", "winning"], "A": ["failure", "forfeit", "loss", "inferiority", "subservience", "weakness"]}

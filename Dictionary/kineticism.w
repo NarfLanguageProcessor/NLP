@@ -1,1 +1,0 @@
-{"index": 164840, "D": "the quality or state of being kinetic. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 145324, "D": "a married man, especially when considered in relation to his partner in marriage.", "S": ["companion ", "partner ", "spouse "], "A": ["enemy ", "foe ", "bride "]}
+{"index": 145324, "D": "a married man, especially when considered in relation to his partner in marriage.", "S": ["companion", "partner", "spouse"], "A": ["enemy", "foe", "bride"]}

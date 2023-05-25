@@ -1,1 +1,1 @@
-{"index": 77454, "D": "no longer living; deprived of life", "S": ["buried ", "deceased ", "late ", "lifeless "], "A": ["alive ", "living "]}
+{"index": 77454, "D": "no longer living; deprived of life", "S": ["buried", "deceased", "late", "lifeless"], "A": ["alive", "living"]}

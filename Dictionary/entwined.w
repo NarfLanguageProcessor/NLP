@@ -1,1 +1,1 @@
-{"index": 101729, "D": "twisted, laced, or wound together", "S": ["indivisible ", "integral "], "A": ["dividable ", "separable "]}
+{"index": 101729, "D": "twisted, laced, or wound together", "S": ["indivisible", "integral"], "A": ["dividable", "separable"]}

@@ -1,1 +1,1 @@
-{"index": 313531, "D": "of a large amount or high degree; exceeding, excelling, or extraordinary", "S": ["extremely ", "highly ", "remarkably "], "A": []}
+{"index": 313531, "D": "of a large amount or high degree; exceeding, excelling, or extraordinary", "S": ["extremely", "highly", "remarkably"], "A": []}

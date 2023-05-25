@@ -1,1 +1,1 @@
-{"index": 65666, "D": "to disregard or overlook (something illegal, objectionable, or the like)", "S": ["excuse ", "forget ", "forgive ", "ignore ", "wink at "], "A": ["attend ", "deny ", "refuse ", "regard ", "respect ", "veto "]}
+{"index": 65666, "D": "to disregard or overlook (something illegal, objectionable, or the like)", "S": ["excuse", "forget", "forgive", "ignore", "wink at"], "A": ["attend", "deny", "refuse", "regard", "respect", "veto"]}

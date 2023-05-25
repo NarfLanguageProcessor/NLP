@@ -1,1 +1,1 @@
-{"index": 121292, "D": "impudence; effrontery. ", "S": ["chutzpah "], "A": ["fear ", "friendliness ", "humility ", "manners ", "meekness ", "modesty ", "politeness ", "respect ", "shyness ", "timidity "]}
+{"index": 121292, "D": "impudence; effrontery. ", "S": ["chutzpah"], "A": ["fear", "friendliness", "humility", "manners", "meekness", "modesty", "politeness", "respect", "shyness", "timidity"]}

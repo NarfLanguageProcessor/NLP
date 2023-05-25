@@ -1,1 +1,1 @@
-{"index": 256980, "D": [], "S": ["Victorian ", "goody-goody ", "prig ", "puritan "], "A": []}
+{"index": 256980, "D": [], "S": ["Victorian", "goody-goody", "prig", "puritan"], "A": []}

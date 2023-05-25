@@ -1,1 +1,1 @@
-{"index": 186421, "D": "an integrated computer circuit that performs all the functions of a CPU.", "S": ["chip ", "circuitry ", "microchip ", "silicon chip "], "A": []}
+{"index": 186421, "D": "an integrated computer circuit that performs all the functions of a CPU.", "S": ["chip", "circuitry", "microchip", "silicon chip"], "A": []}

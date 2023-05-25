@@ -1,1 +1,1 @@
-{"index": 265881, "D": "usual; normal; customary", "S": ["audience ", "constituency "], "A": ["management ", "ownership "]}
+{"index": 265881, "D": "usual; normal; customary", "S": ["audience", "constituency"], "A": ["management", "ownership"]}

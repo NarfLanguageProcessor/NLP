@@ -1,0 +1,1 @@
+{"index": 18055, "D": "appertaining  or belonging; pertaining. ", "S": ["additional"], "A": ["necessary", "needed"]}

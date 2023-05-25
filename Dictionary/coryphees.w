@@ -1,1 +1,1 @@
-{"index": 69155, "D": "a member of a ballet company who dances usually as part of a small group and who ranks below the soloists.", "S": ["chorine ", "chorus line ", "coryph\u00e9e ", "showgirl "], "A": []}
+{"index": 69155, "D": "a member of a ballet company who dances usually as part of a small group and who ranks below the soloists.", "S": ["chorine", "chorus line", "coryph\u00e9e", "showgirl"], "A": []}

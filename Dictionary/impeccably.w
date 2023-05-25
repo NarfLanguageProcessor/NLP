@@ -1,1 +1,1 @@
-{"index": 148391, "D": "in a way that is without fault or flaw", "S": ["admirably ", "correctly ", "exquisitely ", "flawlessly ", "superbly ", "supremely ", "wonderfully "], "A": ["flawed ", "imperfectly ", "partially "]}
+{"index": 148391, "D": "in a way that is without fault or flaw", "S": ["admirably", "correctly", "exquisitely", "flawlessly", "superbly", "supremely", "wonderfully"], "A": ["flawed", "imperfectly", "partially"]}

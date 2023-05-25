@@ -1,1 +1,0 @@
-{"index": 185335, "D": "the period in the oestrous cycle following oestrus, characterized by lack of sexual activity", "S": [], "A": []}

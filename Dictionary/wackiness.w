@@ -1,1 +1,1 @@
-{"index": 361695, "D": "odd or irrational; crazy", "S": ["absurdity ", "idiocy ", "insanity ", "lunacy ", "madness ", "nonsense ", "nuttiness ", "silliness "], "A": ["sense "]}
+{"index": 361695, "D": "odd or irrational; crazy", "S": ["absurdity", "idiocy", "insanity", "lunacy", "madness", "nonsense", "nuttiness", "silliness"], "A": ["sense"]}

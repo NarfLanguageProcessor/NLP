@@ -1,1 +1,1 @@
-{"index": 85859, "D": "a cupronickel-clad coin of the U.S. and Canada, the 10th part of a dollar, equal to 10 cents.", "S": ["coins ", "copper ", "nickels ", "pennies ", "quarters ", "silver "], "A": ["bill ", "dollar "]}
+{"index": 85859, "D": "a cupronickel-clad coin of the U.S. and Canada, the 10th part of a dollar, equal to 10 cents.", "S": ["coins", "copper", "nickels", "pennies", "quarters", "silver"], "A": ["bill", "dollar"]}

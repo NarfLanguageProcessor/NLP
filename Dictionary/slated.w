@@ -1,1 +1,1 @@
-{"index": 293711, "D": "nominated or appointed", "S": ["contracted ", "engaged ", "reserved "], "A": ["free ", "liberated "]}
+{"index": 293711, "D": "nominated or appointed", "S": ["contracted", "engaged", "reserved"], "A": ["free", "liberated"]}

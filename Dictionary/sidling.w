@@ -1,1 +1,1 @@
-{"index": 289886, "D": "to move sideways or obliquely.", "S": ["saunter "], "A": []}
+{"index": 289886, "D": "to move sideways or obliquely.", "S": ["saunter"], "A": []}

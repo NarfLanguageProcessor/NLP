@@ -1,1 +1,1 @@
-{"index": 287155, "D": "rough, matted hair, wool, or the like.", "S": ["down ", "feel ", "fiber ", "grit ", "outside ", "pile ", "roughness ", "shag ", "smoothness ", "surface ", "tooth ", "wale ", "warp ", "weave ", "weft ", "woof "], "A": ["inside ", "interior ", "middle "]}
+{"index": 287155, "D": "rough, matted hair, wool, or the like.", "S": ["down", "feel", "fiber", "grit", "outside", "pile", "roughness", "shag", "smoothness", "surface", "tooth", "wale", "warp", "weave", "weft", "woof"], "A": ["inside", "interior", "middle"]}

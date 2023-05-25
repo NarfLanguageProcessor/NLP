@@ -1,1 +1,1 @@
-{"index": 136865, "D": "proclaimed or announced; publicized", "S": ["announced ", "attended ", "directed ", "guided ", "introduced ", "led ", "presented ", "shown ", "supervised "], "A": []}
+{"index": 136865, "D": "proclaimed or announced; publicized", "S": ["announced", "attended", "directed", "guided", "introduced", "led", "presented", "shown", "supervised"], "A": []}

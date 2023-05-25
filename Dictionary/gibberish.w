@@ -1,1 +1,1 @@
-{"index": 124652, "D": "meaningless or unintelligible talk or writing.", "S": ["babble ", "drivel "], "A": ["sense "]}
+{"index": 124652, "D": "meaningless or unintelligible talk or writing.", "S": ["babble", "drivel"], "A": ["sense"]}

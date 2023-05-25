@@ -1,1 +1,1 @@
-{"index": 160052, "D": "dulled or satiated by overindulgence", "S": ["bored ", "tired ", "weary "], "A": ["fresh "]}
+{"index": 160052, "D": "dulled or satiated by overindulgence", "S": ["bored", "tired", "weary"], "A": ["fresh"]}

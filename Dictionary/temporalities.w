@@ -1,1 +1,1 @@
-{"index": 318581, "D": "temporal  character or nature; temporariness.", "S": ["being ", "ephemerality ", "flesh ", "humanity ", "humankind ", "impermanence ", "transience "], "A": ["animal life ", "inhumanness ", "plant life "]}
+{"index": 318581, "D": "temporal  character or nature; temporariness.", "S": ["being", "ephemerality", "flesh", "humanity", "humankind", "impermanence", "transience"], "A": ["animal life", "inhumanness", "plant life"]}

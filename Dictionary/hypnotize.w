@@ -1,1 +1,1 @@
-{"index": 140751, "D": "to put in the hypnotic  state.", "S": ["anesthetize ", "captivate ", "fascinate ", "mesmerize ", "stupefy "], "A": ["disenchant "]}
+{"index": 140751, "D": "to put in the hypnotic  state.", "S": ["anesthetize", "captivate", "fascinate", "mesmerize", "stupefy"], "A": ["disenchant"]}

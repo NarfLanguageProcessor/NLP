@@ -1,1 +1,0 @@
-{"index": 341349, "D": "to hold the attention of pleasantly or agreeably; divert; amuse.", "S": [], "A": []}

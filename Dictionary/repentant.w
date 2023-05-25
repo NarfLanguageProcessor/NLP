@@ -1,1 +1,1 @@
-{"index": 268123, "D": "repenting;  penitent; experiencing repentance. ", "S": ["apologetic ", "contrite ", "regretful ", "remorseful "], "A": ["impenitent ", "unrepentant "]}
+{"index": 268123, "D": "repenting;  penitent; experiencing repentance. ", "S": ["apologetic", "contrite", "regretful", "remorseful"], "A": ["impenitent", "unrepentant"]}

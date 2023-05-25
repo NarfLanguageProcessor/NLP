@@ -1,1 +1,1 @@
-{"index": 262601, "D": "the act of recapitulating  or the state of being recapitulated. ", "S": ["boring ", "redundant ", "repetitive "], "A": ["concise ", "simple "]}
+{"index": 262601, "D": "the act of recapitulating  or the state of being recapitulated. ", "S": ["boring", "redundant", "repetitive"], "A": ["concise", "simple"]}

@@ -1,1 +1,1 @@
-{"index": 62532, "D": "a piece of metal stamped and issued by the authority of a government for use as money.", "S": ["copper ", "dimes ", "nickels ", "pennies ", "quarters ", "silver "], "A": ["bill ", "dollar "]}
+{"index": 62532, "D": "a piece of metal stamped and issued by the authority of a government for use as money.", "S": ["copper", "dimes", "nickels", "pennies", "quarters", "silver"], "A": ["bill", "dollar"]}

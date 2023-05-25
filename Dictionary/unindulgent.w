@@ -1,1 +1,1 @@
-{"index": 344474, "D": "characterized by or showing indulgence;  benignly lenient or permissive", "S": ["anxious ", "eager ", "irritable ", "keen ", "restless ", "testy ", "thirsty "], "A": ["happy ", "unconcerned ", "unenthusiastic "]}
+{"index": 344474, "D": "characterized by or showing indulgence;  benignly lenient or permissive", "S": ["anxious", "eager", "irritable", "keen", "restless", "testy", "thirsty"], "A": ["happy", "unconcerned", "unenthusiastic"]}

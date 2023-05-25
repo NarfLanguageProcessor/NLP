@@ -1,1 +1,1 @@
-{"index": 117851, "D": "promoted or cultivated", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}
+{"index": 117851, "D": "promoted or cultivated", "S": ["approved", "assisted", "endorsed", "favored"], "A": ["disapproved"]}

@@ -1,1 +1,1 @@
-{"index": 52710, "D": "the aggregate of features and traits that form the individual nature of some person or thing.", "S": ["aspect ", "cast ", "humor ", "kind ", "nature ", "personality ", "quality ", "sense ", "spirit ", "style ", "tone ", "type "], "A": []}
+{"index": 52710, "D": "the aggregate of features and traits that form the individual nature of some person or thing.", "S": ["aspect", "cast", "humor", "kind", "nature", "personality", "quality", "sense", "spirit", "style", "tone", "type"], "A": []}

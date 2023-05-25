@@ -1,1 +1,1 @@
-{"index": 90193, "D": "to wander; stray.", "S": ["deviate ", "digress ", "drift ", "ramble ", "wander "], "A": ["stay "]}
+{"index": 90193, "D": "to wander; stray.", "S": ["deviate", "digress", "drift", "ramble", "wander"], "A": ["stay"]}

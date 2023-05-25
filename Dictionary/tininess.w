@@ -1,1 +1,1 @@
-{"index": 324014, "D": "very small; minute; wee.", "S": ["narrowness "], "A": []}
+{"index": 324014, "D": "very small; minute; wee.", "S": ["narrowness"], "A": []}

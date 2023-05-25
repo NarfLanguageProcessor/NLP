@@ -1,1 +1,1 @@
-{"index": 62871, "D": "the act of collating. ", "S": ["comparison ", "examination ", "relation ", "relationship "], "A": []}
+{"index": 62871, "D": "the act of collating. ", "S": ["comparison", "examination", "relation", "relationship"], "A": []}

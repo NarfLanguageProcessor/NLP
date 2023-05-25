@@ -1,1 +1,1 @@
-{"index": 62743, "D": "paroxysmal pain in the abdomen or bowels.", "S": ["bellyache ", "gripe ", "pain ", "stomachache "], "A": []}
+{"index": 62743, "D": "paroxysmal pain in the abdomen or bowels.", "S": ["bellyache", "gripe", "pain", "stomachache"], "A": []}

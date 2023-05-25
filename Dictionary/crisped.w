@@ -1,1 +1,1 @@
-{"index": 73344, "D": "(especially of food) hard but easily breakable; brittle", "S": ["baked ", "boiled ", "broiled ", "browned ", "fried ", "ready ", "stewed "], "A": ["rare ", "raw ", "undone ", "unfinished "]}
+{"index": 73344, "D": "(especially of food) hard but easily breakable; brittle", "S": ["baked", "boiled", "broiled", "browned", "fried", "ready", "stewed"], "A": ["rare", "raw", "undone", "unfinished"]}

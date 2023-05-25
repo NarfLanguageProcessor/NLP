@@ -1,1 +1,1 @@
-{"index": 269498, "D": "exhibiting or offering resistance; resisting (often used in combination)", "S": ["contrary ", "defiant ", "disobedient ", "opposing ", "rebellious ", "unyielding "], "A": ["receptive ", "susceptible "]}
+{"index": 269498, "D": "exhibiting or offering resistance; resisting (often used in combination)", "S": ["contrary", "defiant", "disobedient", "opposing", "rebellious", "unyielding"], "A": ["receptive", "susceptible"]}

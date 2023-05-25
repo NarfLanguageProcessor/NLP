@@ -1,1 +1,1 @@
-{"index": 46349, "D": "morally corrupt.", "S": ["blight ", "corrosion ", "scourge "], "A": ["blessing ", "boon "]}
+{"index": 46349, "D": "morally corrupt.", "S": ["blight", "corrosion", "scourge"], "A": ["blessing", "boon"]}

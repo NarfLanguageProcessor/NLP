@@ -1,1 +1,1 @@
-{"index": 65984, "D": "to fuse into one entity; merge", "S": ["amalgamate ", "consolidate ", "converge ", "fuse ", "meld ", "unify ", "unite "], "A": ["divide ", "separate ", "cleave ", "dissolve ", "part ", "rupture ", "sever "]}
+{"index": 65984, "D": "to fuse into one entity; merge", "S": ["amalgamate", "consolidate", "converge", "fuse", "meld", "unify", "unite"], "A": ["divide", "separate", "cleave", "dissolve", "part", "rupture", "sever"]}

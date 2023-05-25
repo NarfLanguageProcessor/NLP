@@ -1,1 +1,1 @@
-{"index": 300133, "D": "an adherent of spiritualism. ", "S": ["augur ", "clairvoyant ", "crystal ball gazer ", "diviner ", "medium ", "mind reader ", "oracle ", "palm reader ", "palmist ", "predicter ", "prophet ", "psychic ", "seer ", "soothsayer ", "tarot reader ", "tea-leaf reader "], "A": []}
+{"index": 300133, "D": "an adherent of spiritualism. ", "S": ["augur", "clairvoyant", "crystal ball gazer", "diviner", "medium", "mind reader", "oracle", "palm reader", "palmist", "predicter", "prophet", "psychic", "seer", "soothsayer", "tarot reader", "tea-leaf reader"], "A": []}

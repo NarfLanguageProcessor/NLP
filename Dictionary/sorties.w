@@ -1,1 +1,1 @@
-{"index": 297691, "D": "a rapid movement of troops from a besieged place to attack the besiegers.", "S": ["raid "], "A": ["retreat "]}
+{"index": 297691, "D": "a rapid movement of troops from a besieged place to attack the besiegers.", "S": ["raid"], "A": ["retreat"]}

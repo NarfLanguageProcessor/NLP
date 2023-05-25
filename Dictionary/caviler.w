@@ -1,1 +1,1 @@
-{"index": 50223, "D": "to raise irritating and trivial objections; find fault with unnecessarily (usually followed by at or about)", "S": ["carper ", "caviller ", "complainer ", "faultfinder ", "niggler ", "nitpicker ", "pettifogger ", "quibbler ", "whiner "], "A": []}
+{"index": 50223, "D": "to raise irritating and trivial objections; find fault with unnecessarily (usually followed by at or about)", "S": ["carper", "caviller", "complainer", "faultfinder", "niggler", "nitpicker", "pettifogger", "quibbler", "whiner"], "A": []}

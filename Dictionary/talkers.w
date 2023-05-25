@@ -1,1 +1,1 @@
-{"index": 315646, "D": "to communicate or exchange ideas, information, etc., by speaking", "S": ["debater ", "orator ", "raconteur "], "A": ["listener "]}
+{"index": 315646, "D": "to communicate or exchange ideas, information, etc., by speaking", "S": ["debater", "orator", "raconteur"], "A": ["listener"]}

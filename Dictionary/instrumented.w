@@ -1,1 +1,1 @@
-{"index": 154005, "D": "equipped with instruments  to perform specified functions, as testing, measurement, or control", "S": ["orchestrate "], "A": ["confuse ", "derange ", "disarrange ", "disorder ", "disorganize ", "disperse ", "disturb ", "mix up ", "scatter "]}
+{"index": 154005, "D": "equipped with instruments  to perform specified functions, as testing, measurement, or control", "S": ["orchestrate"], "A": ["confuse", "derange", "disarrange", "disorder", "disorganize", "disperse", "disturb", "mix up", "scatter"]}

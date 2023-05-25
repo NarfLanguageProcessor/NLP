@@ -1,1 +1,1 @@
-{"index": 83317, "D": "to thrust out or away.", "S": ["depress ", "drop ", "reduce ", "sink "], "A": ["raise ", "rise "]}
+{"index": 83317, "D": "to thrust out or away.", "S": ["depress", "drop", "reduce", "sink"], "A": ["raise", "rise"]}

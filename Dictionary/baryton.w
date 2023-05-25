@@ -1,0 +1,1 @@
+{"index": 28031, "D": "an 18th-century stringed instrument with six bowed strings and several additional strings that vibrate sympathetically.", "S": [], "A": []}

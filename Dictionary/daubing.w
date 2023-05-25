@@ -1,1 +1,1 @@
-{"index": 77230, "D": "to cover or coat with soft, adhesive matter, as plaster or mud", "S": ["dab ", "deface ", "smear ", "smudge ", "spatter "], "A": ["clean ", "cleanse ", "purify ", "strip "]}
+{"index": 77230, "D": "to cover or coat with soft, adhesive matter, as plaster or mud", "S": ["dab", "deface", "smear", "smudge", "spatter"], "A": ["clean", "cleanse", "purify", "strip"]}

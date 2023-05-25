@@ -1,1 +1,1 @@
-{"index": 274743, "D": "a dissolute and licentious man; rake.", "S": ["debauchee ", "degenerate ", "good-for-nothing ", "lecher ", "libertine ", "nighthawk ", "operator ", "prodigal ", "rake ", "reprobate ", "swinger ", "waster ", "wastrel "], "A": []}
+{"index": 274743, "D": "a dissolute and licentious man; rake.", "S": ["debauchee", "degenerate", "good-for-nothing", "lecher", "libertine", "nighthawk", "operator", "prodigal", "rake", "reprobate", "swinger", "waster", "wastrel"], "A": []}

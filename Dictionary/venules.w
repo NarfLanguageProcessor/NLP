@@ -1,1 +1,1 @@
-{"index": 358293, "D": "a small vein.", "S": ["artery ", "capillary ", "vein "], "A": []}
+{"index": 358293, "D": "a small vein.", "S": ["artery", "capillary", "vein"], "A": []}

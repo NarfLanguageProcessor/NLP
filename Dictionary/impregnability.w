@@ -1,1 +1,1 @@
-{"index": 149019, "D": "strong enough to resist or withstand attack; not to be taken by force, unconquerable", "S": ["freedom ", "security "], "A": ["danger ", "exposure ", "jeopardy ", "vulnerability "]}
+{"index": 149019, "D": "strong enough to resist or withstand attack; not to be taken by force, unconquerable", "S": ["freedom", "security"], "A": ["danger", "exposure", "jeopardy", "vulnerability"]}

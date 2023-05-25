@@ -1,1 +1,1 @@
-{"index": 18240, "D": "a bridgelike structure that carries a water conduit or canal across a valley or over a river.", "S": ["channel ", "conduit ", "course ", "duct ", "pipeline ", "waterworks "], "A": []}
+{"index": 18240, "D": "a bridgelike structure that carries a water conduit or canal across a valley or over a river.", "S": ["channel", "conduit", "course", "duct", "pipeline", "waterworks"], "A": []}

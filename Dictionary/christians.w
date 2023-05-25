@@ -1,1 +1,1 @@
-{"index": 56152, "D": "of, relating to, or derived from Jesus Christ  or His teachings", "S": ["God-fearing ", "faithful ", "godly ", "pious ", "religious "], "A": ["impious ", "irreligious ", "ungodly "]}
+{"index": 56152, "D": "of, relating to, or derived from Jesus Christ  or His teachings", "S": ["God-fearing", "faithful", "godly", "pious", "religious"], "A": ["impious", "irreligious", "ungodly"]}

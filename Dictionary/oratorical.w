@@ -1,1 +1,1 @@
-{"index": 214008, "D": "of, relating to, or characteristic of an orator  or oratory", "S": ["stylistic "], "A": ["natural ", "simple "]}
+{"index": 214008, "D": "of, relating to, or characteristic of an orator  or oratory", "S": ["stylistic"], "A": ["natural", "simple"]}

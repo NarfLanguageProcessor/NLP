@@ -1,1 +1,1 @@
-{"index": 16465, "D": "Compare synonym (def. 1). ", "S": ["antipodal ", "antipodean ", "antithetical ", "antonymous ", "contradictory ", "contrary ", "converse ", "diametric ", "diametrical ", "opposed ", "opposing ", "polar ", "reverse "], "A": []}
+{"index": 16465, "D": "Compare synonym (def. 1). ", "S": ["antipodal", "antipodean", "antithetical", "antonymous", "contradictory", "contrary", "converse", "diametric", "diametrical", "opposed", "opposing", "polar", "reverse"], "A": []}

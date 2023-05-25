@@ -1,1 +1,1 @@
-{"index": 65561, "D": "condescension. ", "S": ["airs ", "disdain ", "loftiness ", "patronization ", "superiority "], "A": []}
+{"index": 65561, "D": "condescension. ", "S": ["airs", "disdain", "loftiness", "patronization", "superiority"], "A": []}

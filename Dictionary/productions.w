@@ -1,1 +1,1 @@
-{"index": 251592, "D": "the act of producing;  creation; manufacture.", "S": ["construction ", "management ", "manufacture ", "manufacturing "], "A": ["destruction ", "taking "]}
+{"index": 251592, "D": "the act of producing;  creation; manufacture.", "S": ["construction", "management", "manufacture", "manufacturing"], "A": ["destruction", "taking"]}

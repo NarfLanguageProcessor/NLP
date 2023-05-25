@@ -1,1 +1,1 @@
-{"index": 71512, "D": "to desire wrongfully, inordinately, or without due regard for the rights of others", "S": ["beautiful ", "enticing ", "fascinating "], "A": ["repulsive "]}
+{"index": 71512, "D": "to desire wrongfully, inordinately, or without due regard for the rights of others", "S": ["beautiful", "enticing", "fascinating"], "A": ["repulsive"]}

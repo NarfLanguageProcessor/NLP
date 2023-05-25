@@ -1,1 +1,1 @@
-{"index": 74780, "D": "guilt or blame that is deserved; blameworthiness.", "S": ["accountability ", "guilt "], "A": []}
+{"index": 74780, "D": "guilt or blame that is deserved; blameworthiness.", "S": ["accountability", "guilt"], "A": []}

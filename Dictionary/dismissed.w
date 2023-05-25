@@ -1,1 +1,1 @@
-{"index": 88710, "D": "to direct (an assembly of persons) to disperse or go", "S": ["discharged ", "ousted ", "removed "], "A": []}
+{"index": 88710, "D": "to direct (an assembly of persons) to disperse or go", "S": ["discharged", "ousted", "removed"], "A": []}

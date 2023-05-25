@@ -1,1 +1,1 @@
-{"index": 141701, "D": "to make or emit a sharp sound like that of the letter s prolonged, as a snake does, or as steam does when forced under pressure through a small opening.", "S": ["owned "], "A": []}
+{"index": 141701, "D": "to make or emit a sharp sound like that of the letter s prolonged, as a snake does, or as steam does when forced under pressure through a small opening.", "S": ["owned"], "A": []}

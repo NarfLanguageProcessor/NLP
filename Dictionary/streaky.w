@@ -1,1 +1,1 @@
-{"index": 305964, "D": "occurring in streaks  or a streak. ", "S": ["smudgy ", "striped ", "veined "], "A": []}
+{"index": 305964, "D": "occurring in streaks  or a streak. ", "S": ["smudgy", "striped", "veined"], "A": []}

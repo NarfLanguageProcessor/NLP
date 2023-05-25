@@ -1,1 +1,1 @@
-{"index": 147210, "D": "Inner London Education Authority", "S": ["duodenum ", "jejunum ", "villus "], "A": []}
+{"index": 147210, "D": "Inner London Education Authority", "S": ["duodenum", "jejunum", "villus"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 137213, "D": "to protrude abnormally from an enclosed cavity or from the body so as to constitute a hernia. ", "S": ["breach ", "fissure ", "fracture ", "hernia ", "schism "], "A": ["agreement ", "closing ", "closure ", "harmony ", "peace "]}
+{"index": 137213, "D": "to protrude abnormally from an enclosed cavity or from the body so as to constitute a hernia. ", "S": ["breach", "fissure", "fracture", "hernia", "schism"], "A": ["agreement", "closing", "closure", "harmony", "peace"]}

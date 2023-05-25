@@ -1,1 +1,1 @@
-{"index": 154267, "D": "appealing to or engaging the intellect", "S": ["cerebral ", "creative ", "highbrow ", "mental ", "psychological ", "rational ", "scholarly ", "thoughtful "], "A": ["body ", "physical "]}
+{"index": 154267, "D": "appealing to or engaging the intellect", "S": ["cerebral", "creative", "highbrow", "mental", "psychological", "rational", "scholarly", "thoughtful"], "A": ["body", "physical"]}

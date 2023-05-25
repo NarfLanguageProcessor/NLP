@@ -1,1 +1,1 @@
-{"index": 107123, "D": "producing or tending to produce fatigue, weariness, or the like", "S": ["burdensomely ", "difficultly ", "heavily ", "laboriously ", "onerously ", "troublesomely "], "A": []}
+{"index": 107123, "D": "producing or tending to produce fatigue, weariness, or the like", "S": ["burdensomely", "difficultly", "heavily", "laboriously", "onerously", "troublesomely"], "A": []}

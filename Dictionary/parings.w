@@ -1,1 +1,1 @@
-{"index": 226516, "D": "the act of a person or thing that pares. ", "S": ["debris ", "silt ", "slag "], "A": ["base ", "core ", "lack ", "necessity ", "need ", "want "]}
+{"index": 226516, "D": "the act of a person or thing that pares. ", "S": ["debris", "silt", "slag"], "A": ["base", "core", "lack", "necessity", "need", "want"]}

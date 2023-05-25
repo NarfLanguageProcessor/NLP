@@ -1,1 +1,1 @@
-{"index": 182065, "D": "a U.S. government program, financed by federal, state, and local funds, of hospitalization and medical  insurance for persons of all ages within certain income limits.", "S": ["Medicare "], "A": []}
+{"index": 182065, "D": "a U.S. government program, financed by federal, state, and local funds, of hospitalization and medical  insurance for persons of all ages within certain income limits.", "S": ["Medicare"], "A": []}

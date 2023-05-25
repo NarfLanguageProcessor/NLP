@@ -1,1 +1,1 @@
-{"index": 110918, "D": "(used as an exclamation expressing disgust, repugnance, scorn, etc.)", "S": ["depressed ", "doleful ", "melancholic ", "melancholy ", "sad ", "sorrowful ", "unhappy "], "A": ["cheerful ", "lighthearted "]}
+{"index": 110918, "D": "(used as an exclamation expressing disgust, repugnance, scorn, etc.)", "S": ["depressed", "doleful", "melancholic", "melancholy", "sad", "sorrowful", "unhappy"], "A": ["cheerful", "lighthearted"]}

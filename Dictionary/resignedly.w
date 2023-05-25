@@ -1,1 +1,1 @@
-{"index": 269402, "D": "in a way that expresses giving in to the insistence of another or to circumstances beyond one\u2019s control", "S": ["bravely ", "calmly ", "meekly ", "quietly "], "A": []}
+{"index": 269402, "D": "in a way that expresses giving in to the insistence of another or to circumstances beyond one\u2019s control", "S": ["bravely", "calmly", "meekly", "quietly"], "A": []}

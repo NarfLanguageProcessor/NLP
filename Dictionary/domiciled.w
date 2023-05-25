@@ -1,1 +1,1 @@
-{"index": 91286, "D": "a place of residence; house or home; abode. ", "S": ["abide ", "reside "], "A": ["depart ", "go ", "leave ", "turn away ", "turn out "]}
+{"index": 91286, "D": "a place of residence; house or home; abode. ", "S": ["abide", "reside"], "A": ["depart", "go", "leave", "turn away", "turn out"]}

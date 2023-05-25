@@ -1,1 +1,1 @@
-{"index": 273667, "D": "a large mass of stone forming a hill, cliff, promontory, or the like.", "S": ["convulse ", "jolt ", "shake ", "shock ", "sway ", "swing "], "A": ["calm ", "remain ", "stay ", "steady "]}
+{"index": 273667, "D": "a large mass of stone forming a hill, cliff, promontory, or the like.", "S": ["convulse", "jolt", "shake", "shock", "sway", "swing"], "A": ["calm", "remain", "stay", "steady"]}

@@ -1,1 +1,1 @@
-{"index": 348545, "D": "having the power of producing; generative; creative", "S": ["badly ", "carelessly ", "inadequately ", "wastefully "], "A": []}
+{"index": 348545, "D": "having the power of producing; generative; creative", "S": ["badly", "carelessly", "inadequately", "wastefully"], "A": []}

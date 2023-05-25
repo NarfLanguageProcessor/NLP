@@ -1,0 +1,1 @@
+{"index": 10039, "D": "having mixed feelings about someone or something; being unable to choose between two (usually opposing) courses of action", "S": [], "A": []}

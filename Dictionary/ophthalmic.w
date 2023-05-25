@@ -1,1 +1,1 @@
-{"index": 213434, "D": "of or relating to the eye; ocular.", "S": ["eye ", "optic ", "sight ", "visual "], "A": []}
+{"index": 213434, "D": "of or relating to the eye; ocular.", "S": ["eye", "optic", "sight", "visual"], "A": []}

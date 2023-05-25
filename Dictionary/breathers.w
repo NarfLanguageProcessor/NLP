@@ -1,1 +1,1 @@
-{"index": 40329, "D": "a pause, as for breath. ", "S": ["lull ", "respite "], "A": ["continuation "]}
+{"index": 40329, "D": "a pause, as for breath. ", "S": ["lull", "respite"], "A": ["continuation"]}

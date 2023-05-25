@@ -1,1 +1,1 @@
-{"index": 262184, "D": "rousing; quickening", "S": ["comeback ", "recovery ", "rehabilitation ", "rejuvenation ", "renaissance ", "renewal ", "restoration ", "revival "], "A": ["destruction "]}
+{"index": 262184, "D": "rousing; quickening", "S": ["comeback", "recovery", "rehabilitation", "rejuvenation", "renaissance", "renewal", "restoration", "revival"], "A": ["destruction"]}

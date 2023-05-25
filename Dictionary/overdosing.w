@@ -1,1 +1,1 @@
-{"index": 219056, "D": "OD. ", "S": ["gratify ", "indulge ", "nauseate ", "sate ", "slake "], "A": ["disappoint ", "abstain ", "deplete ", "diet ", "fast "]}
+{"index": 219056, "D": "OD. ", "S": ["gratify", "indulge", "nauseate", "sate", "slake"], "A": ["disappoint", "abstain", "deplete", "diet", "fast"]}

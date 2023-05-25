@@ -1,1 +1,1 @@
-{"index": 303865, "D": "stereoscopic photography.", "S": ["audio system ", "radio ", "sound system "], "A": []}
+{"index": 303865, "D": "stereoscopic photography.", "S": ["audio system", "radio", "sound system"], "A": []}

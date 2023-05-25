@@ -1,1 +1,1 @@
-{"index": 251535, "D": "a person, especially a child or young person, having extraordinary talent or ability", "S": ["genius ", "sensation ", "whiz ", "wizard ", "wunderkind "], "A": ["imbecile ", "expectation ", "normality ", "regularity "]}
+{"index": 251535, "D": "a person, especially a child or young person, having extraordinary talent or ability", "S": ["genius", "sensation", "whiz", "wizard", "wunderkind"], "A": ["imbecile", "expectation", "normality", "regularity"]}

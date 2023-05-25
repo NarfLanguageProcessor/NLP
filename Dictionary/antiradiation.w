@@ -1,0 +1,1 @@
+{"index": 16034, "D": "the energy transferred by these processes.", "S": [], "A": []}

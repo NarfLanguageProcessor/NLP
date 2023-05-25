@@ -1,1 +1,1 @@
-{"index": 364014, "D": "(used to express sorrow.)", "S": ["distant ", "far-flung ", "far-off ", "outlying "], "A": ["close ", "near "]}
+{"index": 364014, "D": "(used to express sorrow.)", "S": ["distant", "far-flung", "far-off", "outlying"], "A": ["close", "near"]}

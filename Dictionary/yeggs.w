@@ -1,1 +1,1 @@
-{"index": 146776, "D": "a safecracker. ", "S": ["cat man ", "cracksman ", "housebreaker ", "second-story man ", "second-story thief "], "A": []}
+{"index": 146776, "D": "a safecracker. ", "S": ["cat man", "cracksman", "housebreaker", "second-story man", "second-story thief"], "A": []}

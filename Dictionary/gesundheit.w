@@ -1,1 +1,1 @@
-{"index": 124417, "D": "(used to wish good health, especially to a person who has just sneezed.)", "S": ["dear me ", "gee whiz ", "golly ", "good gracious ", "goodness gracious ", "gosh ", "gracious sakes ", "oh dear ", "phew ", "well "], "A": []}
+{"index": 124417, "D": "(used to wish good health, especially to a person who has just sneezed.)", "S": ["dear me", "gee whiz", "golly", "good gracious", "goodness gracious", "gosh", "gracious sakes", "oh dear", "phew", "well"], "A": []}

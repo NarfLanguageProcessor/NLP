@@ -1,1 +1,1 @@
-{"index": 364070, "D": "speaking well, fittingly, or pleasingly", "S": ["coherent ", "eloquent ", "expressive ", "fluent ", "well-spoken "], "A": ["inarticulate "]}
+{"index": 364070, "D": "speaking well, fittingly, or pleasingly", "S": ["coherent", "eloquent", "expressive", "fluent", "well-spoken"], "A": ["inarticulate"]}

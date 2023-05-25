@@ -1,1 +1,1 @@
-{"index": 159888, "D": "a sturdy leather boot  reaching up over the knee, worn especially by soldiers.", "S": ["army boot ", "buskin ", "chukka boot ", "top boot "], "A": []}
+{"index": 159888, "D": "a sturdy leather boot  reaching up over the knee, worn especially by soldiers.", "S": ["army boot", "buskin", "chukka boot", "top boot"], "A": []}

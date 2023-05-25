@@ -1,1 +1,1 @@
-{"index": 95303, "D": "a finger-shaped cream puff, filled with whipped cream, custard, or pastry cream, often coated with icing.", "S": ["bread ", "doughnut ", "muffin ", "pastry ", "scone "], "A": []}
+{"index": 95303, "D": "a finger-shaped cream puff, filled with whipped cream, custard, or pastry cream, often coated with icing.", "S": ["bread", "doughnut", "muffin", "pastry", "scone"], "A": []}

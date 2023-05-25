@@ -1,1 +1,1 @@
-{"index": 224212, "D": "of or relating to marshes.", "S": ["soggy "], "A": []}
+{"index": 224212, "D": "of or relating to marshes.", "S": ["soggy"], "A": []}

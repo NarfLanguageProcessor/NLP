@@ -1,1 +1,1 @@
-{"index": 36806, "D": "good-naturedly direct, blunt, or frank; heartily outspoken", "S": ["deceiver ", "hypocrite ", "pretender "], "A": []}
+{"index": 36806, "D": "good-naturedly direct, blunt, or frank; heartily outspoken", "S": ["deceiver", "hypocrite", "pretender"], "A": []}

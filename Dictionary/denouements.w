@@ -1,1 +1,1 @@
-{"index": 81197, "D": "the final resolution of the intricacies of a plot, as of a drama or novel.", "S": ["climax ", "culmination ", "finale "], "A": ["beginning ", "opening ", "start ", "commencement "]}
+{"index": 81197, "D": "the final resolution of the intricacies of a plot, as of a drama or novel.", "S": ["climax", "culmination", "finale"], "A": ["beginning", "opening", "start", "commencement"]}

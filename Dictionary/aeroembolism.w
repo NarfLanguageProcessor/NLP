@@ -1,1 +1,1 @@
-{"index": 5006, "D": "an obstruction of the circulatory system caused by air, as may arise during surgery.", "S": ["bends ", "caisson disease ", "divers' palsy ", "divers' paralysis "], "A": []}
+{"index": 5006, "D": "an obstruction of the circulatory system caused by air, as may arise during surgery.", "S": ["bends", "caisson disease", "divers' palsy", "divers' paralysis"], "A": []}

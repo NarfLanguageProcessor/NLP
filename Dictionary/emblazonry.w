@@ -1,1 +1,1 @@
-{"index": 98103, "D": "the act or art of emblazoning; heraldic decoration.", "S": ["blazonry ", "coat ", "emblem ", "ensign ", "escutcheon ", "heraldry ", "insignia ", "shield ", "signet "], "A": []}
+{"index": 98103, "D": "the act or art of emblazoning; heraldic decoration.", "S": ["blazonry", "coat", "emblem", "ensign", "escutcheon", "heraldry", "insignia", "shield", "signet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 275688, "D": "the amount of type matter for a given article, story, etc., that is carried over to another page, column, or line.", "S": ["fill ", "fill up ", "overflow ", "swell ", "teem "], "A": []}
+{"index": 275688, "D": "the amount of type matter for a given article, story, etc., that is carried over to another page, column, or line.", "S": ["fill", "fill up", "overflow", "swell", "teem"], "A": []}

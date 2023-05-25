@@ -1,1 +1,1 @@
-{"index": 356074, "D": "to seize and hold (a position, office, power, etc.) by force or without legal right", "S": ["annex ", "preempt ", "supplant ", "wrest "], "A": ["give ", "keep ", "leave ", "let go ", "offer ", "refuse ", "reject ", "release "]}
+{"index": 356074, "D": "to seize and hold (a position, office, power, etc.) by force or without legal right", "S": ["annex", "preempt", "supplant", "wrest"], "A": ["give", "keep", "leave", "let go", "offer", "refuse", "reject", "release"]}

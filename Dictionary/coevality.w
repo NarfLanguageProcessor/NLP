@@ -1,1 +1,1 @@
-{"index": 62082, "D": "of the same age, date, or duration; equally old", "S": ["harmony ", "peace "], "A": ["disagreement ", "fighting ", "difference ", "refusal "]}
+{"index": 62082, "D": "of the same age, date, or duration; equally old", "S": ["harmony", "peace"], "A": ["disagreement", "fighting", "difference", "refusal"]}

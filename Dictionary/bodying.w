@@ -1,1 +1,1 @@
-{"index": 37201, "D": "the physical structure and material substance of an animal or plant, living or dead.", "S": ["mean ", "perform ", "produce ", "serve ", "serve as ", "show ", "speak for "], "A": ["refuse ", "differ ", "imbalance ", "oppose ", "reverse ", "stop "]}
+{"index": 37201, "D": "the physical structure and material substance of an animal or plant, living or dead.", "S": ["mean", "perform", "produce", "serve", "serve as", "show", "speak for"], "A": ["refuse", "differ", "imbalance", "oppose", "reverse", "stop"]}

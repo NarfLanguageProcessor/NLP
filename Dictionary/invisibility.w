@@ -1,1 +1,1 @@
-{"index": 157262, "D": "not visible; not perceptible by the eye", "S": ["inconspicuousness ", "namelessness "], "A": []}
+{"index": 157262, "D": "not visible; not perceptible by the eye", "S": ["inconspicuousness", "namelessness"], "A": []}

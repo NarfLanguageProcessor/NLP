@@ -1,1 +1,1 @@
-{"index": 333506, "D": "a cardinal number, 1 plus 1.", "S": ["amphibian ", "binary ", "diploid "], "A": []}
+{"index": 333506, "D": "a cardinal number, 1 plus 1.", "S": ["amphibian", "binary", "diploid"], "A": []}

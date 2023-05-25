@@ -1,1 +1,1 @@
-{"index": 174415, "D": "to move about, especially under one's own power.", "S": ["bend "], "A": ["discourage ", "dissuade ", "fix ", "hinder ", "hold ", "keep ", "leave alone ", "prevent ", "remain ", "repress ", "stay ", "steady ", "stop ", "suppress "]}
+{"index": 174415, "D": "to move about, especially under one's own power.", "S": ["bend"], "A": ["discourage", "dissuade", "fix", "hinder", "hold", "keep", "leave alone", "prevent", "remain", "repress", "stay", "steady", "stop", "suppress"]}

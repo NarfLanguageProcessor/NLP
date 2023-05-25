@@ -1,1 +1,1 @@
-{"index": 195681, "D": "of the nature of or involving murder", "S": ["brutally ", "savagely ", "viciously ", "violently ", "wickedly "], "A": []}
+{"index": 195681, "D": "of the nature of or involving murder", "S": ["brutally", "savagely", "viciously", "violently", "wickedly"], "A": []}

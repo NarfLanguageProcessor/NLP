@@ -1,1 +1,0 @@
-{"index": 272341, "D": "a solid bounded by six rhombic planes.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 94156, "D": "a sand hill or sand ridge formed by the wind, usually in desert regions or near lakes and oceans.", "S": ["knoll ", "ridge ", "sand dune "], "A": []}
+{"index": 94156, "D": "a sand hill or sand ridge formed by the wind, usually in desert regions or near lakes and oceans.", "S": ["knoll", "ridge", "sand dune"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 257307, "D": "to render putrid;  cause to rot or decay with an offensive odor.", "S": ["addled ", "ruined ", "withered "], "A": ["developing ", "flourishing ", "germinating ", "growing ", "improving ", "ripening "]}
+{"index": 257307, "D": "to render putrid;  cause to rot or decay with an offensive odor.", "S": ["addled", "ruined", "withered"], "A": ["developing", "flourishing", "germinating", "growing", "improving", "ripening"]}

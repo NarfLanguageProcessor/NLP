@@ -1,1 +1,1 @@
-{"index": 349813, "D": "to return to the workforce after having been retired.", "S": ["indefatigable ", "inexhaustible ", "staunch ", "tireless ", "unceasing ", "unfailing ", "unrelenting ", "unremitting "], "A": ["tired ", "weary "]}
+{"index": 349813, "D": "to return to the workforce after having been retired.", "S": ["indefatigable", "inexhaustible", "staunch", "tireless", "unceasing", "unfailing", "unrelenting", "unremitting"], "A": ["tired", "weary"]}

@@ -1,1 +1,1 @@
-{"index": 258036, "D": "the act of providing troops with living accommodations.", "S": ["construction ", "digs ", "dwelling ", "habitation ", "home ", "house ", "lodgment ", "quarter ", "residence ", "roof ", "shelter ", "sheltering "], "A": ["office "]}
+{"index": 258036, "D": "the act of providing troops with living accommodations.", "S": ["construction", "digs", "dwelling", "habitation", "home", "house", "lodgment", "quarter", "residence", "roof", "shelter", "sheltering"], "A": ["office"]}

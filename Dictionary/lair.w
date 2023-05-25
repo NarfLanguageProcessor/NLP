@@ -1,1 +1,1 @@
-{"index": 167438, "D": "a den or resting place of a wild animal", "S": ["hideaway "], "A": []}
+{"index": 167438, "D": "a den or resting place of a wild animal", "S": ["hideaway"], "A": []}

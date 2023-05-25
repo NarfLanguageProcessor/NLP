@@ -1,1 +1,1 @@
-{"index": 364914, "D": "having received a whipping. ", "S": ["lashed ", "punished ", "strapped "], "A": []}
+{"index": 364914, "D": "having received a whipping. ", "S": ["lashed", "punished", "strapped"], "A": []}

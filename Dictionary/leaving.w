@@ -1,1 +1,1 @@
-{"index": 169766, "D": "something that is left;  residue.", "S": ["betrayal "], "A": ["allowance ", "approval ", "arrival ", "coming ", "meeting ", "ratification ", "stay "]}
+{"index": 169766, "D": "something that is left;  residue.", "S": ["betrayal"], "A": ["allowance", "approval", "arrival", "coming", "meeting", "ratification", "stay"]}

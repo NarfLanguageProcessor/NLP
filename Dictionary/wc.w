@@ -1,1 +1,1 @@
-{"index": 363445, "D": "water closet.", "S": ["latrine ", "restroom ", "toilet "], "A": []}
+{"index": 363445, "D": "water closet.", "S": ["latrine", "restroom", "toilet"], "A": []}

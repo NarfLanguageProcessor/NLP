@@ -1,1 +1,1 @@
-{"index": 154041, "D": "not sufficient; lacking in what is necessary or required", "S": ["deficient ", "faulty ", "inadequate ", "incomplete ", "meager ", "poor ", "scant ", "scarce ", "unsatisfactory "], "A": ["adequate ", "enough ", "perfect ", "satisfactory ", "strong ", "sufficient "]}
+{"index": 154041, "D": "not sufficient; lacking in what is necessary or required", "S": ["deficient", "faulty", "inadequate", "incomplete", "meager", "poor", "scant", "scarce", "unsatisfactory"], "A": ["adequate", "enough", "perfect", "satisfactory", "strong", "sufficient"]}

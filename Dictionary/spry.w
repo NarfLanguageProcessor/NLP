@@ -1,1 +1,1 @@
-{"index": 301255, "D": "active; nimble; agile; energetic; brisk.", "S": ["agile ", "brisk ", "energetic ", "lithe ", "robust ", "sprightly "], "A": ["inactive ", "lazy ", "lethargic ", "slow ", "sluggish ", "stiff "]}
+{"index": 301255, "D": "active; nimble; agile; energetic; brisk.", "S": ["agile", "brisk", "energetic", "lithe", "robust", "sprightly"], "A": ["inactive", "lazy", "lethargic", "slow", "sluggish", "stiff"]}

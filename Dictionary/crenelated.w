@@ -1,1 +1,1 @@
-{"index": 72627, "D": "furnished with crenelations, as a parapet or molding, in the manner of a battlement.", "S": ["broken ", "cloven ", "cracked ", "parted ", "perforated ", "pierced ", "rent ", "riven ", "ruptured ", "separated ", "sundered ", "torn "], "A": ["connected ", "fixed ", "whole "]}
+{"index": 72627, "D": "furnished with crenelations, as a parapet or molding, in the manner of a battlement.", "S": ["broken", "cloven", "cracked", "parted", "perforated", "pierced", "rent", "riven", "ruptured", "separated", "sundered", "torn"], "A": ["connected", "fixed", "whole"]}

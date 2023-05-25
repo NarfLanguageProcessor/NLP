@@ -1,1 +1,1 @@
-{"index": 13594, "D": "a critical or explanatory note or body of notes added to a text.", "S": ["glossary "], "A": ["heedlessness ", "neglect "]}
+{"index": 13594, "D": "a critical or explanatory note or body of notes added to a text.", "S": ["glossary"], "A": ["heedlessness", "neglect"]}

@@ -1,1 +1,1 @@
-{"index": 313278, "D": "the state of being supreme. ", "S": ["dominance ", "preeminence ", "primacy ", "sovereignty ", "superiority "], "A": ["inferiority ", "subordination ", "weakness "]}
+{"index": 313278, "D": "the state of being supreme. ", "S": ["dominance", "preeminence", "primacy", "sovereignty", "superiority"], "A": ["inferiority", "subordination", "weakness"]}

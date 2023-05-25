@@ -1,1 +1,1 @@
-{"index": 110903, "D": "a charge or payment for professional services", "S": ["account ", "bill ", "commission ", "compensation ", "cost ", "cut ", "expense ", "pay ", "payment ", "price ", "reward ", "salary ", "share ", "stipend ", "wage "], "A": ["penalty ", "debt ", "whole "]}
+{"index": 110903, "D": "a charge or payment for professional services", "S": ["account", "bill", "commission", "compensation", "cost", "cut", "expense", "pay", "payment", "price", "reward", "salary", "share", "stipend", "wage"], "A": ["penalty", "debt", "whole"]}

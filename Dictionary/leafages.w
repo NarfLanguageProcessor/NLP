@@ -1,1 +1,1 @@
-{"index": 169557, "D": "foliage. ", "S": ["vegetation "], "A": []}
+{"index": 169557, "D": "foliage. ", "S": ["vegetation"], "A": []}

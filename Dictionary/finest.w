@@ -1,1 +1,1 @@
-{"index": 112924, "D": "the police", "S": ["bluecoat ", "bobby ", "cop ", "detective ", "officer ", "patrolman ", "patrolwoman ", "peace officer ", "police ", "policeman ", "policewoman "], "A": []}
+{"index": 112924, "D": "the police", "S": ["bluecoat", "bobby", "cop", "detective", "officer", "patrolman", "patrolwoman", "peace officer", "police", "policeman", "policewoman"], "A": []}

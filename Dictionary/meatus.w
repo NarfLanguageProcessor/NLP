@@ -1,1 +1,0 @@
-{"index": 181844, "D": "an opening or foramen, especially in a bone or bony structure, as the opening of the ear or nose.", "S": [], "A": []}

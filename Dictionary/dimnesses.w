@@ -1,1 +1,1 @@
-{"index": 85955, "D": "not bright; obscure from lack of light or emitted light", "S": ["blackness ", "dark ", "duskiness ", "gloom ", "murk ", "murkiness ", "shade "], "A": ["brightness ", "light ", "lightness "]}
+{"index": 85955, "D": "not bright; obscure from lack of light or emitted light", "S": ["blackness", "dark", "duskiness", "gloom", "murk", "murkiness", "shade"], "A": ["brightness", "light", "lightness"]}

@@ -1,1 +1,1 @@
-{"index": 251013, "D": "in all likelihood; very likely", "S": ["apparently ", "doubtless ", "no doubt ", "perhaps ", "possibly ", "presumably ", "seemingly "], "A": ["improbably ", "uncertain ", "unlikely "]}
+{"index": 251013, "D": "in all likelihood; very likely", "S": ["apparently", "doubtless", "no doubt", "perhaps", "possibly", "presumably", "seemingly"], "A": ["improbably", "uncertain", "unlikely"]}

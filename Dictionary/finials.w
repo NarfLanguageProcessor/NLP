@@ -1,1 +1,1 @@
-{"index": 112989, "D": "a relatively small, ornamental, terminal feature at the top of a gable, pinnacle, etc.", "S": ["cap ", "ceiling ", "cover ", "face ", "head ", "height ", "lid ", "peak ", "point ", "roof ", "surface ", "tip "], "A": ["bottom ", "nadir ", "personality ", "rear ", "base "]}
+{"index": 112989, "D": "a relatively small, ornamental, terminal feature at the top of a gable, pinnacle, etc.", "S": ["cap", "ceiling", "cover", "face", "head", "height", "lid", "peak", "point", "roof", "surface", "tip"], "A": ["bottom", "nadir", "personality", "rear", "base"]}

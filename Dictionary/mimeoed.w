@@ -1,1 +1,1 @@
-{"index": 187567, "D": "mimeograph. ", "S": ["clone ", "copy ", "duplicate ", "emulate ", "imitate ", "mirror ", "photocopy ", "portray ", "print ", "recreate ", "reflect ", "repeat ", "replicate ", "reprint "], "A": ["abort ", "destroy ", "kill ", "stop "]}
+{"index": 187567, "D": "mimeograph. ", "S": ["clone", "copy", "duplicate", "emulate", "imitate", "mirror", "photocopy", "portray", "print", "recreate", "reflect", "repeat", "replicate", "reprint"], "A": ["abort", "destroy", "kill", "stop"]}

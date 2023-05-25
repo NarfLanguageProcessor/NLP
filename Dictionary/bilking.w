@@ -1,1 +1,1 @@
-{"index": 33966, "D": "to defraud; cheat", "S": ["con ", "deceive ", "defraud ", "fleece ", "swindle "], "A": ["give ", "aid ", "assist ", "encourage ", "help ", "lose "]}
+{"index": 33966, "D": "to defraud; cheat", "S": ["con", "deceive", "defraud", "fleece", "swindle"], "A": ["give", "aid", "assist", "encourage", "help", "lose"]}

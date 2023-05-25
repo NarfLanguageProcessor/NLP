@@ -1,1 +1,1 @@
-{"index": 71696, "D": "a conceited, foolish dandy; pretentious fop.", "S": ["buck ", "cap ", "dandy ", "dude ", "fob ", "fool ", "hinge ", "popinjay "], "A": []}
+{"index": 71696, "D": "a conceited, foolish dandy; pretentious fop.", "S": ["buck", "cap", "dandy", "dude", "fob", "fool", "hinge", "popinjay"], "A": []}

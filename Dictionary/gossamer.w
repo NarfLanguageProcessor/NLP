@@ -1,1 +1,1 @@
-{"index": 128216, "D": "a fine, filmy cobweb seen on grass or bushes or floating in the air in calm weather, especially in autumn.", "S": ["fibrous ", "silky ", "translucent "], "A": ["dark ", "heavy ", "serious ", "thick "]}
+{"index": 128216, "D": "a fine, filmy cobweb seen on grass or bushes or floating in the air in calm weather, especially in autumn.", "S": ["fibrous", "silky", "translucent"], "A": ["dark", "heavy", "serious", "thick"]}

@@ -1,1 +1,0 @@
-{"index": 232327, "D": "one of the often colored segments of the corolla of a flower.", "S": [], "A": []}

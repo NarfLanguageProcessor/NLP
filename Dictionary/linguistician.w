@@ -1,1 +1,1 @@
-{"index": 172889, "D": "linguist (def. 1). ", "S": ["grammarian ", "interpreter ", "lexicographer ", "philologist ", "polyglot "], "A": []}
+{"index": 172889, "D": "linguist (def. 1). ", "S": ["grammarian", "interpreter", "lexicographer", "philologist", "polyglot"], "A": []}

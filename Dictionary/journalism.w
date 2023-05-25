@@ -1,1 +1,1 @@
-{"index": 161883, "D": "the occupation of reporting, writing, editing, photographing, or broadcasting news or of conducting any news organization as a business.", "S": ["news ", "reporting ", "writing "], "A": []}
+{"index": 161883, "D": "the occupation of reporting, writing, editing, photographing, or broadcasting news or of conducting any news organization as a business.", "S": ["news", "reporting", "writing"], "A": []}

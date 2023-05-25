@@ -1,1 +1,1 @@
-{"index": 294691, "D": [], "S": ["narrowness "], "A": []}
+{"index": 294691, "D": [], "S": ["narrowness"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 335348, "D": "modest; unpretentious.", "S": ["diffident ", "humble ", "meek ", "modest ", "quiet ", "self-effacing ", "unobtrusive ", "unpretentious "], "A": ["bold ", "brave ", "conceited ", "egotistical ", "flaunting ", "immodest ", "obtrusive ", "pretentious ", "proud "]}

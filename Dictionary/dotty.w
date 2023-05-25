@@ -1,1 +1,1 @@
-{"index": 91932, "D": "crazy or eccentric.", "S": ["absurd ", "daft ", "demented ", "disturbed ", "eccentric ", "foolish ", "goofy ", "loony ", "mentally unbalanced ", "nuts ", "nutty ", "odd ", "peculiar ", "queer ", "ridiculous ", "strange ", "twisted ", "unconventional ", "weird "], "A": []}
+{"index": 91932, "D": "crazy or eccentric.", "S": ["absurd", "daft", "demented", "disturbed", "eccentric", "foolish", "goofy", "loony", "mentally unbalanced", "nuts", "nutty", "odd", "peculiar", "queer", "ridiculous", "strange", "twisted", "unconventional", "weird"], "A": []}

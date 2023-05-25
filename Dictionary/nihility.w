@@ -1,1 +1,1 @@
-{"index": 200032, "D": "nothingness; nonexistence.", "S": ["nonexistence ", "nothing ", "pettiness ", "smallness ", "unimportance ", "worthlessness "], "A": []}
+{"index": 200032, "D": "nothingness; nonexistence.", "S": ["nonexistence", "nothing", "pettiness", "smallness", "unimportance", "worthlessness"], "A": []}

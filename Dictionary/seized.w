@@ -1,1 +1,1 @@
-{"index": 283364, "D": "taken hold, possession, or control of, as by force or legal authority; confiscated, captured, or appropriated", "S": ["captured "], "A": []}
+{"index": 283364, "D": "taken hold, possession, or control of, as by force or legal authority; confiscated, captured, or appropriated", "S": ["captured"], "A": []}

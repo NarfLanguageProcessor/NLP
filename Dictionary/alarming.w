@@ -1,1 +1,1 @@
-{"index": 7337, "D": "causing alarm  or fear", "S": ["dangerous ", "disquieting ", "distressing ", "disturbing ", "frightening ", "startling "], "A": ["comforting "]}
+{"index": 7337, "D": "causing alarm  or fear", "S": ["dangerous", "disquieting", "distressing", "disturbing", "frightening", "startling"], "A": ["comforting"]}

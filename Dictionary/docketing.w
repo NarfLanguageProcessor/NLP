@@ -1,1 +1,1 @@
-{"index": 90617, "D": "a list of cases in court for trial, or the names of the parties who have cases pending.", "S": ["alphabetize ", "catalogue ", "docket ", "file ", "list ", "record ", "tabulate "], "A": ["disarrange ", "disorder ", "disorganize "]}
+{"index": 90617, "D": "a list of cases in court for trial, or the names of the parties who have cases pending.", "S": ["alphabetize", "catalogue", "docket", "file", "list", "record", "tabulate"], "A": ["disarrange", "disorder", "disorganize"]}

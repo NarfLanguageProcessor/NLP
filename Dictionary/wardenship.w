@@ -1,1 +1,1 @@
-{"index": 362561, "D": "a person charged with the care or custody of persons, animals, or things; keeper.", "S": ["custody "], "A": []}
+{"index": 362561, "D": "a person charged with the care or custody of persons, animals, or things; keeper.", "S": ["custody"], "A": []}

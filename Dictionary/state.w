@@ -1,1 +1,1 @@
-{"index": 303026, "D": "the condition of a person or thing, as with respect to circumstances or attributes", "S": ["case "], "A": []}
+{"index": 303026, "D": "the condition of a person or thing, as with respect to circumstances or attributes", "S": ["case"], "A": []}

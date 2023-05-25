@@ -1,1 +1,1 @@
-{"index": 289762, "D": "sidelong or sideways; obliquely.", "S": ["steep "], "A": ["sloping ", "horizontal "]}
+{"index": 289762, "D": "sidelong or sideways; obliquely.", "S": ["steep"], "A": ["sloping", "horizontal"]}

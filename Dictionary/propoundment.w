@@ -1,1 +1,1 @@
-{"index": 252815, "D": [], "S": ["action ", "attempt ", "bid ", "overture "], "A": ["denial ", "idleness ", "refusal "]}
+{"index": 252815, "D": [], "S": ["action", "attempt", "bid", "overture"], "A": ["denial", "idleness", "refusal"]}

@@ -1,1 +1,1 @@
-{"index": 289212, "D": [], "S": ["insufficient ", "limited ", "meager ", "scant ", "slight "], "A": ["adequate ", "big ", "fat ", "large ", "sufficient ", "giant ", "huge ", "lengthy ", "long ", "older ", "substantial ", "tall "]}
+{"index": 289212, "D": [], "S": ["insufficient", "limited", "meager", "scant", "slight"], "A": ["adequate", "big", "fat", "large", "sufficient", "giant", "huge", "lengthy", "long", "older", "substantial", "tall"]}

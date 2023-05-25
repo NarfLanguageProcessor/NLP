@@ -1,1 +1,1 @@
-{"index": 282772, "D": "in the second  place; second. ", "S": ["second "], "A": []}
+{"index": 282772, "D": "in the second  place; second. ", "S": ["second"], "A": []}

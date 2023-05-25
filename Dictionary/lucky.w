@@ -1,1 +1,0 @@
-{"index": 175842, "D": "having or marked by good luck; fortunate", "S": ["fortuitous ", "happy ", "hot ", "successful "], "A": ["unlucky "]}

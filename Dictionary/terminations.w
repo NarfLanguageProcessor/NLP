@@ -1,1 +1,1 @@
-{"index": 319380, "D": "the act of terminating ", "S": ["completion ", "expiry "], "A": ["beginning ", "cause ", "commencement ", "continuation ", "introduction ", "opening ", "origin ", "source ", "start "]}
+{"index": 319380, "D": "the act of terminating ", "S": ["completion", "expiry"], "A": ["beginning", "cause", "commencement", "continuation", "introduction", "opening", "origin", "source", "start"]}

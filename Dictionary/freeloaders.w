@@ -1,1 +1,1 @@
-{"index": 118626, "D": "to take advantage of others for free food, entertainment, etc.", "S": ["barnacle ", "leech ", "moocher ", "parasite ", "sponge "], "A": []}
+{"index": 118626, "D": "to take advantage of others for free food, entertainment, etc.", "S": ["barnacle", "leech", "moocher", "parasite", "sponge"], "A": []}

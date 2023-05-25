@@ -1,1 +1,0 @@
-{"index": 236334, "D": "Compare dove1 (def. 1). ", "S": ["helpless ", "unarmed ", "unprotected "], "A": ["powerful ", "strong "]}

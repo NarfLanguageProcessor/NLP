@@ -1,1 +1,1 @@
-{"index": 163513, "D": "to warp or pull (a ship) along by hauling on the cable of an anchor carried out from the ship and dropped.", "S": ["mainstay "], "A": ["release "]}
+{"index": 163513, "D": "to warp or pull (a ship) along by hauling on the cable of an anchor carried out from the ship and dropped.", "S": ["mainstay"], "A": ["release"]}

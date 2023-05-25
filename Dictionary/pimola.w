@@ -1,1 +1,0 @@
-{"index": 236839, "D": "an olive stuffed with red sweet pepper; stuffed olive.", "S": [], "A": []}

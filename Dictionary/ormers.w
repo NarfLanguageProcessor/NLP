@@ -1,1 +1,1 @@
-{"index": 214682, "D": "an abalone, Haliotis tuberculata, living in waters of the Channel Islands.", "S": ["mollusk "], "A": []}
+{"index": 214682, "D": "an abalone, Haliotis tuberculata, living in waters of the Channel Islands.", "S": ["mollusk"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 309080, "D": "written below (distinguished from adscript, superscript).", "S": ["addendum ", "appendix ", "index "], "A": []}
+{"index": 309080, "D": "written below (distinguished from adscript, superscript).", "S": ["addendum", "appendix", "index"], "A": []}

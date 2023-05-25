@@ -1,1 +1,1 @@
-{"index": 68111, "D": "to move by argument or evidence to belief, agreement, consent, or a course of action", "S": ["assure ", "get ", "persuade ", "prompt ", "prove ", "satisfy ", "sway "], "A": ["discourage ", "dissuade ", "fail ", "prevent ", "stop ", "confuse "]}
+{"index": 68111, "D": "to move by argument or evidence to belief, agreement, consent, or a course of action", "S": ["assure", "get", "persuade", "prompt", "prove", "satisfy", "sway"], "A": ["discourage", "dissuade", "fail", "prevent", "stop", "confuse"]}

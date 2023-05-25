@@ -1,1 +1,1 @@
-{"index": 190032, "D": "badly shaped; deformed.", "S": ["abnormality ", "defect ", "impairment ", "malformation "], "A": ["beauty ", "benefit ", "blessing ", "favor ", "good ", "goodness ", "honor ", "morality ", "purity ", "regularity ", "virtue "]}
+{"index": 190032, "D": "badly shaped; deformed.", "S": ["abnormality", "defect", "impairment", "malformation"], "A": ["beauty", "benefit", "blessing", "favor", "good", "goodness", "honor", "morality", "purity", "regularity", "virtue"]}

@@ -1,1 +1,1 @@
-{"index": 196694, "D": "having no name. ", "S": ["ambiguity ", "anonymity ", "darkness ", "dimness ", "fuzziness ", "indistinctness ", "obscureness ", "uncertainty "], "A": ["certainty ", "definiteness "]}
+{"index": 196694, "D": "having no name. ", "S": ["ambiguity", "anonymity", "darkness", "dimness", "fuzziness", "indistinctness", "obscureness", "uncertainty"], "A": ["certainty", "definiteness"]}

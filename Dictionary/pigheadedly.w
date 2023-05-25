@@ -1,1 +1,1 @@
-{"index": 236387, "D": "stupidly obstinate; stubborn", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}
+{"index": 236387, "D": "stupidly obstinate; stubborn", "S": ["mulishly", "obdurately"], "A": ["graciously", "obediently"]}

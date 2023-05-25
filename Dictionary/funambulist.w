@@ -1,1 +1,1 @@
-{"index": 120121, "D": "a tightrope walker.", "S": ["clown ", "dancer ", "gymnast ", "performer ", "tumbler "], "A": ["clod "]}
+{"index": 120121, "D": "a tightrope walker.", "S": ["clown", "dancer", "gymnast", "performer", "tumbler"], "A": ["clod"]}

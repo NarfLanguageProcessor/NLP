@@ -1,1 +1,1 @@
-{"index": 276693, "D": "the Archer, a zodiacal constellation between Scorpius and Capricorn.", "S": ["Aquarius ", "Aries ", "Cancer ", "Capricorn ", "Gemini ", "Libra ", "Pisces ", "Scorpio ", "Taurus ", "Virgo ", "horoscope sign ", "leo ", "zodiac sign "], "A": []}
+{"index": 276693, "D": "the Archer, a zodiacal constellation between Scorpius and Capricorn.", "S": ["Aquarius", "Aries", "Cancer", "Capricorn", "Gemini", "Libra", "Pisces", "Scorpio", "Taurus", "Virgo", "horoscope sign", "leo", "zodiac sign"], "A": []}

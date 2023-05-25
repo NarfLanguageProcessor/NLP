@@ -1,1 +1,1 @@
-{"index": 282112, "D": "to examine in detail with careful or critical attention.", "S": ["appraiser ", "auditor ", "inspector ", "investigator "], "A": []}
+{"index": 282112, "D": "to examine in detail with careful or critical attention.", "S": ["appraiser", "auditor", "inspector", "investigator"], "A": []}

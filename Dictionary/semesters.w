@@ -1,1 +1,1 @@
-{"index": 283693, "D": "(in many educational institutions) a division constituting half of the regular academic year, lasting typically from 15 to 18 weeks.", "S": ["course ", "period ", "quarter ", "session "], "A": []}
+{"index": 283693, "D": "(in many educational institutions) a division constituting half of the regular academic year, lasting typically from 15 to 18 weeks.", "S": ["course", "period", "quarter", "session"], "A": []}

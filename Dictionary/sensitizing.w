@@ -1,1 +1,1 @@
-{"index": 285408, "D": "to render sensitive. ", "S": ["sharpen "], "A": ["deaden "]}
+{"index": 285408, "D": "to render sensitive. ", "S": ["sharpen"], "A": ["deaden"]}

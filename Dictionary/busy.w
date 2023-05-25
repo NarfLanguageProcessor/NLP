@@ -1,1 +1,1 @@
-{"index": 43465, "D": "actively and attentively engaged in work or a pastime", "S": ["active ", "unavailable ", "working "], "A": ["idle ", "inactive ", "unoccupied "]}
+{"index": 43465, "D": "actively and attentively engaged in work or a pastime", "S": ["active", "unavailable", "working"], "A": ["idle", "inactive", "unoccupied"]}

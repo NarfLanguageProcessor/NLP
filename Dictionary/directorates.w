@@ -1,1 +1,1 @@
-{"index": 86786, "D": "the office of a director. ", "S": ["cabinet ", "committee ", "jury ", "panel "], "A": ["individual ", "one "]}
+{"index": 86786, "D": "the office of a director. ", "S": ["cabinet", "committee", "jury", "panel"], "A": ["individual", "one"]}

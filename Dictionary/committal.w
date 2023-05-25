@@ -1,1 +1,1 @@
-{"index": 64109, "D": "an act or instance of committing; commitment. ", "S": ["bondage ", "confinement ", "custody ", "imprisonment ", "incarceration ", "slavery "], "A": ["freedom ", "liberation ", "liberty "]}
+{"index": 64109, "D": "an act or instance of committing; commitment. ", "S": ["bondage", "confinement", "custody", "imprisonment", "incarceration", "slavery"], "A": ["freedom", "liberation", "liberty"]}

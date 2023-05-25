@@ -1,1 +1,1 @@
-{"index": 344587, "D": "the uninitiated", "S": ["ignorant ", "inexperienced ", "na\u00efve ", "unenlightened ", "unskilled ", "untrained ", "unversed "], "A": ["experienced ", "skilled ", "trained ", "versed "]}
+{"index": 344587, "D": "the uninitiated", "S": ["ignorant", "inexperienced", "na\u00efve", "unenlightened", "unskilled", "untrained", "unversed"], "A": ["experienced", "skilled", "trained", "versed"]}

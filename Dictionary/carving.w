@@ -1,1 +1,1 @@
-{"index": 48721, "D": "the act of fashioning or producing by cutting into or shaping solid material, as wood.", "S": ["design ", "painting "], "A": ["lack ", "science "]}
+{"index": 48721, "D": "the act of fashioning or producing by cutting into or shaping solid material, as wood.", "S": ["design", "painting"], "A": ["lack", "science"]}

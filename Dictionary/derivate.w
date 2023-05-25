@@ -1,1 +1,1 @@
-{"index": 82097, "D": "derived. ", "S": ["auxiliary ", "dependent ", "resultant ", "subordinate ", "subsidiary "], "A": ["chief ", "important ", "necessary "]}
+{"index": 82097, "D": "derived. ", "S": ["auxiliary", "dependent", "resultant", "subordinate", "subsidiary"], "A": ["chief", "important", "necessary"]}

@@ -1,1 +1,1 @@
-{"index": 258583, "D": "a finishing stroke; anything that effectually ends or settles", "S": ["death ", "decease ", "dying "], "A": []}
+{"index": 258583, "D": "a finishing stroke; anything that effectually ends or settles", "S": ["death", "decease", "dying"], "A": []}

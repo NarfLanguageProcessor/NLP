@@ -1,1 +1,0 @@
-{"index": 280340, "D": "a foolish, boring, or stupid person; a jerk.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 288925, "D": "a method of rapid handwriting using simple strokes, abbreviations, or symbols that designate letters, words, or phrases (distinguished from longhand).", "S": ["transcription "], "A": []}
+{"index": 288925, "D": "a method of rapid handwriting using simple strokes, abbreviations, or symbols that designate letters, words, or phrases (distinguished from longhand).", "S": ["transcription"], "A": []}

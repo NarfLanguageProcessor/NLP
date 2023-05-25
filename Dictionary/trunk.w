@@ -1,1 +1,1 @@
-{"index": 331630, "D": "the main stem of a tree, as distinct from the branches and roots.", "S": ["stalk ", "stem ", "torso "], "A": ["extremities "]}
+{"index": 331630, "D": "the main stem of a tree, as distinct from the branches and roots.", "S": ["stalk", "stem", "torso"], "A": ["extremities"]}

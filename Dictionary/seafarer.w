@@ -1,1 +1,1 @@
-{"index": 282424, "D": "a sailor.", "S": ["bluejacket ", "boater ", "mariner ", "mate ", "middy ", "pirate "], "A": []}
+{"index": 282424, "D": "a sailor.", "S": ["bluejacket", "boater", "mariner", "mate", "middy", "pirate"], "A": []}

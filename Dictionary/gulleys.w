@@ -1,1 +1,1 @@
-{"index": 131203, "D": "gully1 (defs. 1, 2). ", "S": ["chasm ", "crevasse ", "culvert ", "trench "], "A": []}
+{"index": 131203, "D": "gully1 (defs. 1, 2). ", "S": ["chasm", "crevasse", "culvert", "trench"], "A": []}

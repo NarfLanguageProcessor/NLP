@@ -1,0 +1,1 @@
+{"index": 4184, "D": "displaying or feeling admiration", "S": ["approbatory", "approving", "commendatory", "congratulatory", "extolling", "laudatory", "praising"], "A": []}

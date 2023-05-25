@@ -1,1 +1,0 @@
-{"index": 342842, "D": "(of a room, property, etc) not having any furniture", "S": ["arid ", "barren ", "bleak ", "desolate ", "empty ", "stark ", "vacant "], "A": ["filled ", "full "]}

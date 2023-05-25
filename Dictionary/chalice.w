@@ -1,1 +1,1 @@
-{"index": 52145, "D": "the wine contained in it.", "S": ["cup ", "goblet ", "vessel "], "A": []}
+{"index": 52145, "D": "the wine contained in it.", "S": ["cup", "goblet", "vessel"], "A": []}

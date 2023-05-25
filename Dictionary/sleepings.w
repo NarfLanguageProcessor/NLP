@@ -1,1 +1,1 @@
-{"index": 293902, "D": "the condition of being asleep.", "S": ["unconscious "], "A": ["waking "]}
+{"index": 293902, "D": "the condition of being asleep.", "S": ["unconscious"], "A": ["waking"]}

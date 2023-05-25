@@ -1,1 +1,1 @@
-{"index": 32777, "D": [], "S": ["encourage ", "persuade ", "reassure ", "satisfy "], "A": ["discourage ", "dissuade ", "distress "]}
+{"index": 32777, "D": [], "S": ["encourage", "persuade", "reassure", "satisfy"], "A": ["discourage", "dissuade", "distress"]}

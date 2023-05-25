@@ -1,1 +1,1 @@
-{"index": 44436, "D": "Roman general, statesman, and historian.", "S": ["despot ", "fascist ", "tyrant "], "A": []}
+{"index": 44436, "D": "Roman general, statesman, and historian.", "S": ["despot", "fascist", "tyrant"], "A": []}

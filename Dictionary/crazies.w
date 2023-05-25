@@ -1,1 +1,1 @@
-{"index": 72345, "D": "mentally deranged; demented; insane. ", "S": ["crackpot ", "crank ", "crazy ", "dingbat ", "flake ", "fruitcake ", "lunatic ", "nut ", "screwball ", "wacko ", "weirdo "], "A": []}
+{"index": 72345, "D": "mentally deranged; demented; insane. ", "S": ["crackpot", "crank", "crazy", "dingbat", "flake", "fruitcake", "lunatic", "nut", "screwball", "wacko", "weirdo"], "A": []}

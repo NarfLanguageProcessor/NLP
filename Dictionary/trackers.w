@@ -1,1 +1,1 @@
-{"index": 327169, "D": "a structure consisting of a pair of parallel lines of rails with their crossties, on which a railroad train, trolley, or the like runs.", "S": ["gumshoe ", "private detective ", "private eye "], "A": []}
+{"index": 327169, "D": "a structure consisting of a pair of parallel lines of rails with their crossties, on which a railroad train, trolley, or the like runs.", "S": ["gumshoe", "private detective", "private eye"], "A": []}

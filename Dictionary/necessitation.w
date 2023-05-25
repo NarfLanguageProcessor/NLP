@@ -1,1 +1,1 @@
-{"index": 197726, "D": "to make necessary or unavoidable", "S": ["administration ", "application ", "imposition ", "prosecution "], "A": ["abandon ", "disregard ", "forgetfulness ", "neglect ", "renunciation ", "slight "]}
+{"index": 197726, "D": "to make necessary or unavoidable", "S": ["administration", "application", "imposition", "prosecution"], "A": ["abandon", "disregard", "forgetfulness", "neglect", "renunciation", "slight"]}

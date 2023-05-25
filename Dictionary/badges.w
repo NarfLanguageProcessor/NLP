@@ -1,1 +1,1 @@
-{"index": 26199, "D": "a special or distinctive mark, token, or device worn as a sign of allegiance, membership, authority, achievement, etc.", "S": ["identification ", "insignia ", "marker ", "medallion ", "pin ", "ribbon ", "stamp ", "symbol ", "token "], "A": []}
+{"index": 26199, "D": "a special or distinctive mark, token, or device worn as a sign of allegiance, membership, authority, achievement, etc.", "S": ["identification", "insignia", "marker", "medallion", "pin", "ribbon", "stamp", "symbol", "token"], "A": []}

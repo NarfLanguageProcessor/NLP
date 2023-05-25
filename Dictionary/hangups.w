@@ -1,1 +1,1 @@
-{"index": 133368, "D": [], "S": ["inhibition "], "A": ["calm ", "peace ", "solution ", "tranquility "]}
+{"index": 133368, "D": [], "S": ["inhibition"], "A": ["calm", "peace", "solution", "tranquility"]}

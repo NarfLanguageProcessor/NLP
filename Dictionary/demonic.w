@@ -1,1 +1,1 @@
-{"index": 80798, "D": "inspired as if by a demon,  indwelling spirit, or genius.", "S": ["crazed ", "devilish ", "infernal ", "maniacal ", "manic ", "satanic "], "A": ["sane "]}
+{"index": 80798, "D": "inspired as if by a demon,  indwelling spirit, or genius.", "S": ["crazed", "devilish", "infernal", "maniacal", "manic", "satanic"], "A": ["sane"]}

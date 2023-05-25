@@ -1,1 +1,1 @@
-{"index": 81392, "D": "an act or instance of denouncing;  public censure or condemnation.", "S": ["accusation ", "censure ", "denouncement ", "indictment ", "invective ", "reprimand "], "A": ["compliment ", "praise ", "exculpation ", "exoneration ", "flattery "]}
+{"index": 81392, "D": "an act or instance of denouncing;  public censure or condemnation.", "S": ["accusation", "censure", "denouncement", "indictment", "invective", "reprimand"], "A": ["compliment", "praise", "exculpation", "exoneration", "flattery"]}

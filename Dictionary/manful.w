@@ -1,1 +1,1 @@
-{"index": 179114, "D": "having or showing boldness, courage, or strength; resolute.", "S": ["manlike "], "A": []}
+{"index": 179114, "D": "having or showing boldness, courage, or strength; resolute.", "S": ["manlike"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150307, "D": "the inability to restrain natural discharges or evacuations of urine or feces.", "S": ["dissoluteness ", "indulgence ", "lechery ", "lewdness ", "unrestraint "], "A": []}
+{"index": 150307, "D": "the inability to restrain natural discharges or evacuations of urine or feces.", "S": ["dissoluteness", "indulgence", "lechery", "lewdness", "unrestraint"], "A": []}

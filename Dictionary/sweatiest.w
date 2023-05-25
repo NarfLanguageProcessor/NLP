@@ -1,1 +1,1 @@
-{"index": 314221, "D": "covered, moist, or stained with sweat.", "S": ["moist ", "sticky ", "stinky ", "wet "], "A": ["dry "]}
+{"index": 314221, "D": "covered, moist, or stained with sweat.", "S": ["moist", "sticky", "stinky", "wet"], "A": ["dry"]}

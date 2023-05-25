@@ -1,1 +1,1 @@
-{"index": 305776, "D": "a person or thing that strangles", "S": ["firing squad "], "A": []}
+{"index": 305776, "D": "a person or thing that strangles", "S": ["firing squad"], "A": []}

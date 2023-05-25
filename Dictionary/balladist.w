@@ -1,1 +1,1 @@
-{"index": 26906, "D": "a person who writes, composes, or sings ballads. ", "S": ["artist ", "author ", "dramatist ", "lyricist ", "writer "], "A": []}
+{"index": 26906, "D": "a person who writes, composes, or sings ballads. ", "S": ["artist", "author", "dramatist", "lyricist", "writer"], "A": []}

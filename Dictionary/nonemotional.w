@@ -1,1 +1,1 @@
-{"index": 203470, "D": "pertaining to or involving emotion  or the emotions. ", "S": ["deadpan ", "detached ", "dispassionate ", "impassive ", "matter-of-fact ", "unemotional "], "A": ["biased ", "emotional ", "feeling ", "passionate ", "responsive "]}
+{"index": 203470, "D": "pertaining to or involving emotion  or the emotions. ", "S": ["deadpan", "detached", "dispassionate", "impassive", "matter-of-fact", "unemotional"], "A": ["biased", "emotional", "feeling", "passionate", "responsive"]}

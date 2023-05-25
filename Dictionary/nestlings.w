@@ -1,1 +1,0 @@
-{"index": 198832, "D": "a young bird not yet old enough to leave the nest. ", "S": ["juvenile ", "kid ", "minor ", "offspring ", "youngster ", "youth "], "A": ["adult ", "parent "]}

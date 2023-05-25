@@ -1,1 +1,1 @@
-{"index": 153608, "D": [], "S": ["astute ", "insightful ", "knowledgeable ", "penetrating ", "perceptive ", "piercing "], "A": ["idiotic ", "ignorant ", "stupid ", "unaware ", "unintelligent "]}
+{"index": 153608, "D": [], "S": ["astute", "insightful", "knowledgeable", "penetrating", "perceptive", "piercing"], "A": ["idiotic", "ignorant", "stupid", "unaware", "unintelligent"]}

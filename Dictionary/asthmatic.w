@@ -1,0 +1,1 @@
+{"index": 22090, "D": "having or experiencing asthma. ", "S": ["blown", "choking", "emphysematous", "exhausted", "gasping", "gulping", "out of breath", "panting", "short of breath", "short-winded", "spent", "stertorous", "wheezing", "winded"], "A": ["breathy", "calm"]}

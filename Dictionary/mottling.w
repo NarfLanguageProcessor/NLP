@@ -1,1 +1,1 @@
-{"index": 194116, "D": "to mark or diversify with spots or blotches of a different color or shade.", "S": ["bespeckle ", "besprinkle ", "dapple ", "dot ", "flake ", "fleck ", "freckle ", "mosaic ", "patch ", "pepper ", "speck ", "spot ", "sprinkle ", "stipple ", "variegate "], "A": []}
+{"index": 194116, "D": "to mark or diversify with spots or blotches of a different color or shade.", "S": ["bespeckle", "besprinkle", "dapple", "dot", "flake", "fleck", "freckle", "mosaic", "patch", "pepper", "speck", "spot", "sprinkle", "stipple", "variegate"], "A": []}

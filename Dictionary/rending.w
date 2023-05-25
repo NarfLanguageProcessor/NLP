@@ -1,1 +1,1 @@
-{"index": 267583, "D": "to separate into parts with force or violence", "S": ["acute ", "agonizing ", "exquisite ", "grueling ", "harrowing ", "intense ", "searing ", "severe ", "unbearable "], "A": ["calm ", "dull ", "easy ", "facile ", "mild "]}
+{"index": 267583, "D": "to separate into parts with force or violence", "S": ["acute", "agonizing", "exquisite", "grueling", "harrowing", "intense", "searing", "severe", "unbearable"], "A": ["calm", "dull", "easy", "facile", "mild"]}

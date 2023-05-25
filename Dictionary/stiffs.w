@@ -1,1 +1,1 @@
-{"index": 304374, "D": "rigid or firm; difficult or impossible to bend or flex", "S": ["Scrooge ", "cheapskate ", "harpy ", "hoarder ", "moneygrubber ", "stiff ", "tightwad "], "A": ["spender ", "spendthrift ", "waster ", "wastrel "]}
+{"index": 304374, "D": "rigid or firm; difficult or impossible to bend or flex", "S": ["Scrooge", "cheapskate", "harpy", "hoarder", "moneygrubber", "stiff", "tightwad"], "A": ["spender", "spendthrift", "waster", "wastrel"]}

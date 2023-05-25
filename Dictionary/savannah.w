@@ -1,1 +1,1 @@
-{"index": 279055, "D": "a seaport in E Georgia, near the mouth of the Savannah River.", "S": ["grassland ", "plain "], "A": []}
+{"index": 279055, "D": "a seaport in E Georgia, near the mouth of the Savannah River.", "S": ["grassland", "plain"], "A": []}

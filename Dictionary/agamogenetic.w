@@ -1,1 +1,1 @@
-{"index": 5873, "D": "asexual reproduction by buds, offshoots, cell division, etc.", "S": ["abiogenetic ", "agamic ", "agamous ", "parthenogenetic "], "A": []}
+{"index": 5873, "D": "asexual reproduction by buds, offshoots, cell division, etc.", "S": ["abiogenetic", "agamic", "agamous", "parthenogenetic"], "A": []}

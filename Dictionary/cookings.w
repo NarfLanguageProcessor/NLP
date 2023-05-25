@@ -1,1 +1,1 @@
-{"index": 68240, "D": "the act of a person or thing that cooks. ", "S": ["cooking ", "melting ", "warming "], "A": ["cooling ", "freezing ", "refrigeration "]}
+{"index": 68240, "D": "the act of a person or thing that cooks. ", "S": ["cooking", "melting", "warming"], "A": ["cooling", "freezing", "refrigeration"]}

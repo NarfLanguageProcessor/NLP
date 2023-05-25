@@ -1,1 +1,1 @@
-{"index": 62477, "D": "the act, process, or right of making coins. ", "S": ["coining "], "A": []}
+{"index": 62477, "D": "the act, process, or right of making coins. ", "S": ["coining"], "A": []}

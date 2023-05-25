@@ -1,1 +1,0 @@
-{"index": 186333, "D": "a parasitic microorganism.", "S": [], "A": []}

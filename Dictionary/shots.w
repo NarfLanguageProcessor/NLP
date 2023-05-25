@@ -1,1 +1,1 @@
-{"index": 288976, "D": "a discharge of a firearm, bow, etc.", "S": ["artillery ", "barrage ", "blast ", "bombardment ", "burst ", "detonation ", "firing ", "shooting ", "thunder ", "volley "], "A": []}
+{"index": 288976, "D": "a discharge of a firearm, bow, etc.", "S": ["artillery", "barrage", "blast", "bombardment", "burst", "detonation", "firing", "shooting", "thunder", "volley"], "A": []}

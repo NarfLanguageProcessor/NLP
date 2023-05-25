@@ -1,1 +1,1 @@
-{"index": 345704, "D": "full or suggestive of life  or vital energy; active, vigorous, or brisk", "S": ["dull ", "halfhearted ", "mild ", "unenthusiastic ", "warm "], "A": ["enthusiastic ", "keen "]}
+{"index": 345704, "D": "full or suggestive of life  or vital energy; active, vigorous, or brisk", "S": ["dull", "halfhearted", "mild", "unenthusiastic", "warm"], "A": ["enthusiastic", "keen"]}

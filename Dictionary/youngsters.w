@@ -1,1 +1,1 @@
-{"index": 157745, "D": "a child.", "S": ["boy ", "chick ", "cub ", "fledgling ", "girl ", "junior ", "juvenile ", "juvenile delinquent ", "kid ", "lad ", "lass ", "pup ", "pupil ", "student ", "teenager ", "young person "], "A": ["adult "]}
+{"index": 157745, "D": "a child.", "S": ["boy", "chick", "cub", "fledgling", "girl", "junior", "juvenile", "juvenile delinquent", "kid", "lad", "lass", "pup", "pupil", "student", "teenager", "young person"], "A": ["adult"]}

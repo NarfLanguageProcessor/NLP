@@ -1,1 +1,1 @@
-{"index": 110984, "D": "well-suited for the occasion, as an action, manner, or expression; apt; appropriate", "S": ["apt ", "opportune ", "propitious ", "telling "], "A": ["inauspicious ", "unsuitable "]}
+{"index": 110984, "D": "well-suited for the occasion, as an action, manner, or expression; apt; appropriate", "S": ["apt", "opportune", "propitious", "telling"], "A": ["inauspicious", "unsuitable"]}

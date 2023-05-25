@@ -1,1 +1,1 @@
-{"index": 49507, "D": "to instruct orally by means of questions and answers, especially in Christian doctrine.", "S": ["ask ", "drill ", "educate ", "examine ", "grill ", "inquire ", "interrogate ", "query ", "quiz ", "teach ", "train "], "A": ["answer ", "learn ", "reply "]}
+{"index": 49507, "D": "to instruct orally by means of questions and answers, especially in Christian doctrine.", "S": ["ask", "drill", "educate", "examine", "grill", "inquire", "interrogate", "query", "quiz", "teach", "train"], "A": ["answer", "learn", "reply"]}

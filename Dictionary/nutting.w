@@ -1,1 +1,0 @@
-{"index": 209840, "D": "the act of seeking or gathering nuts. ", "S": [], "A": []}

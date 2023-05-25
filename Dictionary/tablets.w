@@ -1,1 +1,1 @@
-{"index": 314864, "D": "a number of sheets of writing paper, business forms, etc., fastened together at the edge; pad.", "S": ["book ", "folder ", "notebook ", "pad ", "quire ", "ream ", "scratch ", "sheets "], "A": []}
+{"index": 314864, "D": "a number of sheets of writing paper, business forms, etc., fastened together at the edge; pad.", "S": ["book", "folder", "notebook", "pad", "quire", "ream", "scratch", "sheets"], "A": []}

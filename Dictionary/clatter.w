@@ -1,1 +1,1 @@
-{"index": 59464, "D": "to make a loud, rattling sound, as that produced by hard objects striking rapidly one against the other", "S": ["clack "], "A": ["peace "]}
+{"index": 59464, "D": "to make a loud, rattling sound, as that produced by hard objects striking rapidly one against the other", "S": ["clack"], "A": ["peace"]}

@@ -1,1 +1,1 @@
-{"index": 221881, "D": "to cause to work too hard, too much, or too long; weary or exhaust with work (often used reflexively)", "S": ["exhausted ", "fatigued ", "overburdened ", "strained "], "A": ["lively ", "refreshed "]}
+{"index": 221881, "D": "to cause to work too hard, too much, or too long; weary or exhaust with work (often used reflexively)", "S": ["exhausted", "fatigued", "overburdened", "strained"], "A": ["lively", "refreshed"]}

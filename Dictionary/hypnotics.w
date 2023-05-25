@@ -1,1 +1,1 @@
-{"index": 140736, "D": "of or relating to hypnosis  or hypnotism. ", "S": ["anesthetic ", "dope ", "hard drug ", "heroin ", "merchandise ", "opiate ", "opium ", "painkiller ", "sedative ", "tranquilizer "], "A": []}
+{"index": 140736, "D": "of or relating to hypnosis  or hypnotism. ", "S": ["anesthetic", "dope", "hard drug", "heroin", "merchandise", "opiate", "opium", "painkiller", "sedative", "tranquilizer"], "A": []}

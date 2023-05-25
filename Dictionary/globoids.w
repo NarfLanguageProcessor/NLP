@@ -1,1 +1,1 @@
-{"index": 126493, "D": "approximately globular.", "S": ["apple ", "balloon ", "drop ", "globule ", "orb ", "pellet ", "pill ", "round ", "spheroid "], "A": []}
+{"index": 126493, "D": "approximately globular.", "S": ["apple", "balloon", "drop", "globule", "orb", "pellet", "pill", "round", "spheroid"], "A": []}

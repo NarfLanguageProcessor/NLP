@@ -1,1 +1,1 @@
-{"index": 52630, "D": "a person, usually a married or older woman, who, for propriety, accompanies a young unmarried woman in public or who attends a party of young unmarried men and women.", "S": ["babysitter ", "companion ", "escort "], "A": []}
+{"index": 52630, "D": "a person, usually a married or older woman, who, for propriety, accompanies a young unmarried woman in public or who attends a party of young unmarried men and women.", "S": ["babysitter", "companion", "escort"], "A": []}

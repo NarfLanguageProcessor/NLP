@@ -1,1 +1,1 @@
-{"index": 189463, "D": "to give false or misleading information to.", "S": ["deceive ", "misguide ", "mislead "], "A": ["straighten "]}
+{"index": 189463, "D": "to give false or misleading information to.", "S": ["deceive", "misguide", "mislead"], "A": ["straighten"]}

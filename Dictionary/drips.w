@@ -1,1 +1,1 @@
-{"index": 93162, "D": "to let drops fall; shed drops", "S": ["dribble ", "drizzle ", "exude ", "filter ", "plop ", "rain ", "splash ", "sprinkle ", "trill ", "weep "], "A": ["collect "]}
+{"index": 93162, "D": "to let drops fall; shed drops", "S": ["dribble", "drizzle", "exude", "filter", "plop", "rain", "splash", "sprinkle", "trill", "weep"], "A": ["collect"]}

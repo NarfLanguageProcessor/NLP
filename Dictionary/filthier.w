@@ -1,1 +1,1 @@
-{"index": 112790, "D": "foul with, characterized by, or having the nature of filth;  disgustingly or completely dirty.", "S": ["disheveled ", "grimy ", "grubby ", "grungy ", "muddy ", "nasty ", "soiled ", "squalid "], "A": ["clean ", "pure "]}
+{"index": 112790, "D": "foul with, characterized by, or having the nature of filth;  disgustingly or completely dirty.", "S": ["disheveled", "grimy", "grubby", "grungy", "muddy", "nasty", "soiled", "squalid"], "A": ["clean", "pure"]}

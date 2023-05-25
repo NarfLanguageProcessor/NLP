@@ -1,1 +1,1 @@
-{"index": 29264, "D": "indecent; lewd; obscene", "S": ["lewd ", "obscene ", "off-color ", "ribald ", "rude "], "A": ["clean ", "decent ", "moral ", "nice "]}
+{"index": 29264, "D": "indecent; lewd; obscene", "S": ["lewd", "obscene", "off-color", "ribald", "rude"], "A": ["clean", "decent", "moral", "nice"]}

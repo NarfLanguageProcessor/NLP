@@ -1,1 +1,1 @@
-{"index": 328223, "D": "an action or instance of transpiring. ", "S": ["change ", "issue ", "outcome ", "result ", "situation "], "A": ["cause ", "origin ", "source "]}
+{"index": 328223, "D": "an action or instance of transpiring. ", "S": ["change", "issue", "outcome", "result", "situation"], "A": ["cause", "origin", "source"]}

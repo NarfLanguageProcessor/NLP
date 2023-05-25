@@ -1,1 +1,1 @@
-{"index": 123740, "D": "the quality of being gentle", "S": ["kindness ", "tenderness "], "A": ["hardness ", "imperviousness ", "roughness "]}
+{"index": 123740, "D": "the quality of being gentle", "S": ["kindness", "tenderness"], "A": ["hardness", "imperviousness", "roughness"]}

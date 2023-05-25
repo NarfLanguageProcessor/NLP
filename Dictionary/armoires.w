@@ -1,1 +1,1 @@
-{"index": 19973, "D": "a large wardrobe or movable cupboard, with doors and shelves.", "S": ["wardrobe "], "A": []}
+{"index": 19973, "D": "a large wardrobe or movable cupboard, with doors and shelves.", "S": ["wardrobe"], "A": []}

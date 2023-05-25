@@ -1,1 +1,1 @@
-{"index": 187603, "D": "to imitate or copy in action, speech, etc., often playfully or derisively.", "S": ["counterfeit ", "echoic ", "onomatopoeic "], "A": ["different ", "genuine ", "original "]}
+{"index": 187603, "D": "to imitate or copy in action, speech, etc., often playfully or derisively.", "S": ["counterfeit", "echoic", "onomatopoeic"], "A": ["different", "genuine", "original"]}

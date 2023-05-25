@@ -1,1 +1,1 @@
-{"index": 69589, "D": "an enclosure or pen for horses, cattle, etc.", "S": ["paddock "], "A": []}
+{"index": 69589, "D": "an enclosure or pen for horses, cattle, etc.", "S": ["paddock"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 31267, "D": "the things that a person owns or has with him; possessions; effects", "S": ["accouterments ", "appurtenances ", "assets ", "chattels ", "effects ", "gear ", "goods ", "paraphernalia ", "property ", "stuff ", "things "], "A": []}
+{"index": 31267, "D": "the things that a person owns or has with him; possessions; effects", "S": ["accouterments", "appurtenances", "assets", "chattels", "effects", "gear", "goods", "paraphernalia", "property", "stuff", "things"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 29550, "D": "the manner in which one conducts or carries oneself, including posture and gestures", "S": ["demeanor ", "manner "], "A": []}
+{"index": 29550, "D": "the manner in which one conducts or carries oneself, including posture and gestures", "S": ["demeanor", "manner"], "A": []}

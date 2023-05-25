@@ -1,1 +1,1 @@
-{"index": 42629, "D": "the relief pitchers on a team.", "S": ["apartment ", "box ", "building ", "condo ", "condominium ", "dwelling ", "home ", "mansion ", "residence ", "shack "], "A": ["office "]}
+{"index": 42629, "D": "the relief pitchers on a team.", "S": ["apartment", "box", "building", "condo", "condominium", "dwelling", "home", "mansion", "residence", "shack"], "A": ["office"]}

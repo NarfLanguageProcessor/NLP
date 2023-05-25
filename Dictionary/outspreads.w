@@ -1,1 +1,1 @@
-{"index": 217572, "D": "to spread out; extend", "S": ["spread ", "stretch out ", "unfurl ", "unravel "], "A": ["abridge ", "close ", "contract ", "cover ", "hide ", "hold ", "keep ", "lessen ", "lower ", "maintain ", "shorten ", "shrink ", "twist ", "wind "]}
+{"index": 217572, "D": "to spread out; extend", "S": ["spread", "stretch out", "unfurl", "unravel"], "A": ["abridge", "close", "contract", "cover", "hide", "hold", "keep", "lessen", "lower", "maintain", "shorten", "shrink", "twist", "wind"]}

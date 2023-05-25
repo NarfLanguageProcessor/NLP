@@ -1,1 +1,1 @@
-{"index": 252687, "D": "nearness in place; proximity. ", "S": ["adjacency ", "closeness ", "contiguity ", "nearness "], "A": []}
+{"index": 252687, "D": "nearness in place; proximity. ", "S": ["adjacency", "closeness", "contiguity", "nearness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 103172, "D": "a person or thing that equalizes. ", "S": ["cannon ", "handgun ", "hardware ", "mortar ", "piece ", "pistol ", "revolver ", "rifle ", "shotgun "], "A": []}
+{"index": 103172, "D": "a person or thing that equalizes. ", "S": ["cannon", "handgun", "hardware", "mortar", "piece", "pistol", "revolver", "rifle", "shotgun"], "A": []}

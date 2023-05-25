@@ -1,1 +1,1 @@
-{"index": 67994, "D": "a community of persons devoted to religious life under a superior.", "S": ["abbey ", "cloister ", "monastery ", "retreat ", "school "], "A": []}
+{"index": 67994, "D": "a community of persons devoted to religious life under a superior.", "S": ["abbey", "cloister", "monastery", "retreat", "school"], "A": []}

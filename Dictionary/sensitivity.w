@@ -1,1 +1,1 @@
-{"index": 285401, "D": "the state or quality of being sensitive; sensitiveness.", "S": ["awareness ", "feeling ", "nervousness ", "sense ", "subtlety ", "sympathy "], "A": ["unconsciousness "]}
+{"index": 285401, "D": "the state or quality of being sensitive; sensitiveness.", "S": ["awareness", "feeling", "nervousness", "sense", "subtlety", "sympathy"], "A": ["unconsciousness"]}

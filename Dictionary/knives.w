@@ -1,1 +1,1 @@
-{"index": 165604, "D": "plural of knife. ", "S": ["glassware ", "silverware "], "A": []}
+{"index": 165604, "D": "plural of knife. ", "S": ["glassware", "silverware"], "A": []}

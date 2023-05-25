@@ -1,1 +1,1 @@
-{"index": 244405, "D": "to put off to a later time; defer", "S": ["delayed ", "suspended "], "A": []}
+{"index": 244405, "D": "to put off to a later time; defer", "S": ["delayed", "suspended"], "A": []}

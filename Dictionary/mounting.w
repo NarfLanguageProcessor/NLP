@@ -1,1 +1,1 @@
-{"index": 194250, "D": "the act of a person or thing that mounts. ", "S": ["ascending ", "climbing ", "moving up ", "rising ", "soaring "], "A": []}
+{"index": 194250, "D": "the act of a person or thing that mounts. ", "S": ["ascending", "climbing", "moving up", "rising", "soaring"], "A": []}

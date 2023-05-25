@@ -1,1 +1,1 @@
-{"index": 190389, "D": "to take (words, statements, etc.) in a wrong sense; understand wrongly.", "S": ["confuse ", "miscalculate ", "misconstrue ", "misinterpret ", "misjudge ", "misread "], "A": ["understand ", "comprehend ", "succeed "]}
+{"index": 190389, "D": "to take (words, statements, etc.) in a wrong sense; understand wrongly.", "S": ["confuse", "miscalculate", "misconstrue", "misinterpret", "misjudge", "misread"], "A": ["understand", "comprehend", "succeed"]}

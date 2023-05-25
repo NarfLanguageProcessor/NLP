@@ -1,1 +1,1 @@
-{"index": 118171, "D": "refractory or unruly", "S": ["irritable ", "recalcitrant ", "restive ", "testy ", "unmanageable ", "unruly "], "A": ["happy ", "obedient "]}
+{"index": 118171, "D": "refractory or unruly", "S": ["irritable", "recalcitrant", "restive", "testy", "unmanageable", "unruly"], "A": ["happy", "obedient"]}

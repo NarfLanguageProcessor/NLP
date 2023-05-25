@@ -1,1 +1,1 @@
-{"index": 126084, "D": "giving off or appearing to give off light or brightness; radiant; shining", "S": ["brilliantly ", "splendidly "], "A": ["darkly ", "dully ", "miserably ", "sadly "]}
+{"index": 126084, "D": "giving off or appearing to give off light or brightness; radiant; shining", "S": ["brilliantly", "splendidly"], "A": ["darkly", "dully", "miserably", "sadly"]}

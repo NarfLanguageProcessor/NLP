@@ -1,1 +1,1 @@
-{"index": 281798, "D": "to write hastily or carelessly", "S": ["cacography ", "graffiti ", "graffito ", "griffonage ", "hieroglyphics "], "A": []}
+{"index": 281798, "D": "to write hastily or carelessly", "S": ["cacography", "graffiti", "graffito", "griffonage", "hieroglyphics"], "A": []}

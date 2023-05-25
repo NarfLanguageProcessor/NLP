@@ -1,1 +1,1 @@
-{"index": 101841, "D": "to contemplate; visualize", "S": ["confront ", "consider ", "image ", "picture ", "regard ", "visualize "], "A": ["disregard ", "ignore "]}
+{"index": 101841, "D": "to contemplate; visualize", "S": ["confront", "consider", "image", "picture", "regard", "visualize"], "A": ["disregard", "ignore"]}

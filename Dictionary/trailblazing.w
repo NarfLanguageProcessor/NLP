@@ -1,1 +1,1 @@
-{"index": 327409, "D": "to blaze a trail through (a forest, wilderness, or the like) for others to follow.", "S": ["innovative ", "revolutionary "], "A": ["conservative "]}
+{"index": 327409, "D": "to blaze a trail through (a forest, wilderness, or the like) for others to follow.", "S": ["innovative", "revolutionary"], "A": ["conservative"]}

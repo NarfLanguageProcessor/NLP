@@ -1,1 +1,1 @@
-{"index": 21930, "D": [], "S": ["acclimatization ", "agreement ", "compliance ", "correspondence ", "familiarization ", "habituation ", "naturalization "], "A": ["disagreement "]}
+{"index": 21930, "D": [], "S": ["acclimatization", "agreement", "compliance", "correspondence", "familiarization", "habituation", "naturalization"], "A": ["disagreement"]}

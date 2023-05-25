@@ -1,0 +1,1 @@
+{"index": 26065, "D": "a vaccine prepared from killed bacteria. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 44952, "D": "arrived at or determined by mathematical calculation;  ascertained mathematically.", "S": ["determined "], "A": []}
+{"index": 44952, "D": "arrived at or determined by mathematical calculation;  ascertained mathematically.", "S": ["determined"], "A": []}

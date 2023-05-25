@@ -1,1 +1,1 @@
-{"index": 79681, "D": "to deprive (a chemical compound) of water or the elements of water.", "S": ["arid ", "bone-dry ", "dry ", "evaporated ", "moistureless ", "parched ", "waterless "], "A": []}
+{"index": 79681, "D": "to deprive (a chemical compound) of water or the elements of water.", "S": ["arid", "bone-dry", "dry", "evaporated", "moistureless", "parched", "waterless"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 224559, "D": "wood or other material made into panels. ", "S": ["bar ", "barricade ", "barrier ", "block ", "dam ", "embankment ", "facade ", "fence ", "screen ", "side ", "surface "], "A": ["door ", "opening ", "window "]}
+{"index": 224559, "D": "wood or other material made into panels. ", "S": ["bar", "barricade", "barrier", "block", "dam", "embankment", "facade", "fence", "screen", "side", "surface"], "A": ["door", "opening", "window"]}

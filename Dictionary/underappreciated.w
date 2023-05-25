@@ -1,1 +1,0 @@
-{"index": 338829, "D": "not sufficiently valued or recognized", "S": [], "A": []}

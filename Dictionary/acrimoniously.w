@@ -1,1 +1,1 @@
-{"index": 2844, "D": "caustic, stinging, or bitter in nature, speech, behavior, etc.", "S": ["acerbically ", "bitingly ", "caustically ", "maliciously ", "sneeringly "], "A": []}
+{"index": 2844, "D": "caustic, stinging, or bitter in nature, speech, behavior, etc.", "S": ["acerbically", "bitingly", "caustically", "maliciously", "sneeringly"], "A": []}

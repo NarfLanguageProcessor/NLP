@@ -1,1 +1,1 @@
-{"index": 36972, "D": "given to or characterized by boasting. ", "S": ["arrogant ", "bombastic ", "cocky ", "exultant ", "pompous ", "pretentious "], "A": ["humble ", "modest "]}
+{"index": 36972, "D": "given to or characterized by boasting. ", "S": ["arrogant", "bombastic", "cocky", "exultant", "pompous", "pretentious"], "A": ["humble", "modest"]}

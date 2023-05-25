@@ -1,1 +1,1 @@
-{"index": 151186, "D": "one at a time; separately", "S": ["alone ", "independently ", "personally "], "A": ["together "]}
+{"index": 151186, "D": "one at a time; separately", "S": ["alone", "independently", "personally"], "A": ["together"]}

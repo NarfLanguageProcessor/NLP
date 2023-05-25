@@ -1,1 +1,1 @@
-{"index": 152827, "D": "to begin, set going, or originate", "S": ["assailant ", "intruder ", "invader ", "trespasser "], "A": []}
+{"index": 152827, "D": "to begin, set going, or originate", "S": ["assailant", "intruder", "invader", "trespasser"], "A": []}

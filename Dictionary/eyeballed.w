@@ -1,1 +1,1 @@
-{"index": 96354, "D": "the ball or globe of the eye.", "S": ["followed "], "A": []}
+{"index": 96354, "D": "the ball or globe of the eye.", "S": ["followed"], "A": []}

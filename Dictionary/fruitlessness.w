@@ -1,1 +1,1 @@
-{"index": 119621, "D": "useless; unproductive; without results or success", "S": ["aridity ", "aridness ", "barrenness ", "ineffectiveness ", "ineffectuality ", "unproductiveness ", "unprofitableness ", "uselessness ", "vanity "], "A": []}
+{"index": 119621, "D": "useless; unproductive; without results or success", "S": ["aridity", "aridness", "barrenness", "ineffectiveness", "ineffectuality", "unproductiveness", "unprofitableness", "uselessness", "vanity"], "A": []}

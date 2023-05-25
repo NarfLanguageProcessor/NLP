@@ -1,1 +1,1 @@
-{"index": 106784, "D": "to think out; devise; invent. ", "S": ["cogitative ", "contemplative ", "contrivable ", "deliberative ", "devisable ", "meditative ", "probing ", "reflective ", "ruminative ", "speculative ", "thinking "], "A": []}
+{"index": 106784, "D": "to think out; devise; invent. ", "S": ["cogitative", "contemplative", "contrivable", "deliberative", "devisable", "meditative", "probing", "reflective", "ruminative", "speculative", "thinking"], "A": []}

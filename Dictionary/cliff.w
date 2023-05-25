@@ -1,1 +1,1 @@
-{"index": 59923, "D": "a high steep face of a rock.", "S": ["bluff ", "crag ", "precipice ", "wall "], "A": []}
+{"index": 59923, "D": "a high steep face of a rock.", "S": ["bluff", "crag", "precipice", "wall"], "A": []}

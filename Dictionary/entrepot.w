@@ -1,1 +1,1 @@
-{"index": 101688, "D": "a warehouse.", "S": ["cache ", "depot ", "repository ", "stockpile ", "storehouse "], "A": []}
+{"index": 101688, "D": "a warehouse.", "S": ["cache", "depot", "repository", "stockpile", "storehouse"], "A": []}

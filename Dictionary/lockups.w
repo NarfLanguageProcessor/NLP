@@ -1,1 +1,1 @@
-{"index": 174399, "D": "a jail, especially a local one for temporary detention.", "S": ["penitentiary "], "A": []}
+{"index": 174399, "D": "a jail, especially a local one for temporary detention.", "S": ["penitentiary"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 103961, "D": "to go astray in thought or belief; be mistaken; be incorrect.", "S": ["misbehave ", "miscalculate ", "stray ", "stumble "], "A": ["behave ", "obey ", "stay ", "understand "]}
+{"index": 103961, "D": "to go astray in thought or belief; be mistaken; be incorrect.", "S": ["misbehave", "miscalculate", "stray", "stumble"], "A": ["behave", "obey", "stay", "understand"]}

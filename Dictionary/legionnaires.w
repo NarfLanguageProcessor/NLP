@@ -1,1 +1,1 @@
-{"index": 170112, "D": "a member of the American Legion.", "S": ["warrior "], "A": []}
+{"index": 170112, "D": "a member of the American Legion.", "S": ["warrior"], "A": []}

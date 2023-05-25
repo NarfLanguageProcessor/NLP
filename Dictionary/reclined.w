@@ -1,1 +1,1 @@
-{"index": 263001, "D": "to lean or lie back; rest in a recumbent position.", "S": ["loll ", "lounge ", "sprawl ", "stretch out "], "A": ["energize ", "even ", "forget ", "level ", "stand ", "straighten "]}
+{"index": 263001, "D": "to lean or lie back; rest in a recumbent position.", "S": ["loll", "lounge", "sprawl", "stretch out"], "A": ["energize", "even", "forget", "level", "stand", "straighten"]}

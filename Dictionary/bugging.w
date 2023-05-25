@@ -1,1 +1,1 @@
-{"index": 42313, "D": "a hemipterous insect.", "S": ["aggravation ", "disturbance ", "exasperation ", "harassment ", "hassle ", "headache ", "inconvenience ", "irritation ", "nuisance ", "problem ", "vexation "], "A": ["peace "]}
+{"index": 42313, "D": "a hemipterous insect.", "S": ["aggravation", "disturbance", "exasperation", "harassment", "hassle", "headache", "inconvenience", "irritation", "nuisance", "problem", "vexation"], "A": ["peace"]}

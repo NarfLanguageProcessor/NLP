@@ -1,1 +1,1 @@
-{"index": 105664, "D": "a state of intense happiness and self-confidence", "S": ["elation ", "exhilaration ", "frenzy ", "glee ", "joy ", "jubilation ", "relaxation "], "A": ["depression ", "discouragement ", "sadness ", "sorrow ", "unhappiness ", "dislike ", "misery "]}
+{"index": 105664, "D": "a state of intense happiness and self-confidence", "S": ["elation", "exhilaration", "frenzy", "glee", "joy", "jubilation", "relaxation"], "A": ["depression", "discouragement", "sadness", "sorrow", "unhappiness", "dislike", "misery"]}

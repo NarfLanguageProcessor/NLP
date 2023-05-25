@@ -1,1 +1,1 @@
-{"index": 321438, "D": "phosphorescence produced by the heating of a substance.", "S": ["carbon dating ", "carbon-15 dating ", "dating ", "half-life dating ", "radiometric dating "], "A": []}
+{"index": 321438, "D": "phosphorescence produced by the heating of a substance.", "S": ["carbon dating", "carbon-15 dating", "dating", "half-life dating", "radiometric dating"], "A": []}

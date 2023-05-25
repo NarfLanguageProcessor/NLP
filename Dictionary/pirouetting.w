@@ -1,1 +1,1 @@
-{"index": 237973, "D": "a whirling about on one foot or on the points of the toes, as in ballet dancing.", "S": ["orbiting ", "spinning ", "swirling ", "whirling "], "A": []}
+{"index": 237973, "D": "a whirling about on one foot or on the points of the toes, as in ballet dancing.", "S": ["orbiting", "spinning", "swirling", "whirling"], "A": []}

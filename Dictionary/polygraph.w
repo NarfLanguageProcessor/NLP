@@ -1,1 +1,1 @@
-{"index": 241958, "D": "an instrument for receiving and recording simultaneously tracings of variations in certain body activities.", "S": ["polygraph machine ", "psychogalvanic skin response ", "psychogalvanometer "], "A": []}
+{"index": 241958, "D": "an instrument for receiving and recording simultaneously tracings of variations in certain body activities.", "S": ["polygraph machine", "psychogalvanic skin response", "psychogalvanometer"], "A": []}

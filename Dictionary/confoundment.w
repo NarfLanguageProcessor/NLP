@@ -1,1 +1,1 @@
-{"index": 66047, "D": [], "S": ["admiration ", "astonishment ", "awe ", "bewilderment ", "confusion ", "perplexity ", "wonderment "], "A": ["expectation "]}
+{"index": 66047, "D": [], "S": ["admiration", "astonishment", "awe", "bewilderment", "confusion", "perplexity", "wonderment"], "A": ["expectation"]}

@@ -1,1 +1,1 @@
-{"index": 30396, "D": "Compare sugar beet. ", "S": ["chard "], "A": []}
+{"index": 30396, "D": "Compare sugar beet. ", "S": ["chard"], "A": []}

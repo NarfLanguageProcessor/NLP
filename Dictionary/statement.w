@@ -1,1 +1,1 @@
-{"index": 303046, "D": "something stated. ", "S": ["account ", "affidavit ", "allegation ", "announcement ", "assurance ", "charge ", "comment ", "description ", "explanation ", "presentation ", "proclamation ", "remark ", "report ", "testimony ", "word "], "A": ["quiet ", "silence "]}
+{"index": 303046, "D": "something stated. ", "S": ["account", "affidavit", "allegation", "announcement", "assurance", "charge", "comment", "description", "explanation", "presentation", "proclamation", "remark", "report", "testimony", "word"], "A": ["quiet", "silence"]}

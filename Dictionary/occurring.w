@@ -1,1 +1,1 @@
-{"index": 210760, "D": "to happen; take place; come to pass", "S": ["appear ", "arise ", "crop up ", "develop ", "ensue ", "exist ", "follow ", "go ", "materialize ", "result ", "show ", "take place ", "transpire "], "A": ["hide ", "precede ", "stop "]}
+{"index": 210760, "D": "to happen; take place; come to pass", "S": ["appear", "arise", "crop up", "develop", "ensue", "exist", "follow", "go", "materialize", "result", "show", "take place", "transpire"], "A": ["hide", "precede", "stop"]}

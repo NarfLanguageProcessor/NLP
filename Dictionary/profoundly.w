@@ -1,1 +1,1 @@
-{"index": 251808, "D": "to a thorough or very great extent or degree; deeply", "S": ["completely ", "extremely ", "greatly ", "thoroughly ", "totally ", "very "], "A": ["incompletely ", "partially "]}
+{"index": 251808, "D": "to a thorough or very great extent or degree; deeply", "S": ["completely", "extremely", "greatly", "thoroughly", "totally", "very"], "A": ["incompletely", "partially"]}

@@ -1,1 +1,0 @@
-{"index": 258343, "D": "of or relating to an oak.", "S": [], "A": []}

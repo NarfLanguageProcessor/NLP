@@ -1,1 +1,1 @@
-{"index": 175648, "D": "a low generally flat region of central Scotland, around the Forth and Clyde valleys, separating the Southern Uplands from the Highlands", "S": ["marshland ", "wetlands "], "A": []}
+{"index": 175648, "D": "a low generally flat region of central Scotland, around the Forth and Clyde valleys, separating the Southern Uplands from the Highlands", "S": ["marshland", "wetlands"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 169274, "D": "the molten, fluid rock that issues from a volcano or volcanic vent.", "S": ["basalt ", "magma ", "slag "], "A": []}
+{"index": 169274, "D": "the molten, fluid rock that issues from a volcano or volcanic vent.", "S": ["basalt", "magma", "slag"], "A": []}

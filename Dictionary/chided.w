@@ -1,1 +1,1 @@
-{"index": 54197, "D": "to express disapproval of; scold; reproach", "S": ["rebuked "], "A": ["complimented ", "praised "]}
+{"index": 54197, "D": "to express disapproval of; scold; reproach", "S": ["rebuked"], "A": ["complimented", "praised"]}

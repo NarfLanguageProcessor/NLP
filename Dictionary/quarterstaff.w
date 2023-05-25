@@ -1,1 +1,1 @@
-{"index": 258072, "D": "a former English weapon consisting of a stout pole 6 to 8 feet (1.8 to 2.4 meters) long, tipped with iron.", "S": ["business ", "staff "], "A": []}
+{"index": 258072, "D": "a former English weapon consisting of a stout pole 6 to 8 feet (1.8 to 2.4 meters) long, tipped with iron.", "S": ["business", "staff"], "A": []}

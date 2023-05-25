@@ -1,1 +1,1 @@
-{"index": 34207, "D": "base hit. ", "S": ["single "], "A": []}
+{"index": 34207, "D": "base hit. ", "S": ["single"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 231612, "D": "habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.", "S": ["indulgent ", "lax ", "open-minded ", "tolerant "], "A": ["strict "]}
+{"index": 231612, "D": "habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.", "S": ["indulgent", "lax", "open-minded", "tolerant"], "A": ["strict"]}

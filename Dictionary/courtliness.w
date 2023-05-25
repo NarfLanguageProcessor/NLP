@@ -1,1 +1,1 @@
-{"index": 71368, "D": "polite, refined, or elegant", "S": ["courage ", "courtesy ", "fairness ", "politeness ", "valiance "], "A": ["impoliteness ", "rudeness "]}
+{"index": 71368, "D": "polite, refined, or elegant", "S": ["courage", "courtesy", "fairness", "politeness", "valiance"], "A": ["impoliteness", "rudeness"]}

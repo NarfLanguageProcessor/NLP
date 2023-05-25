@@ -1,1 +1,1 @@
-{"index": 107702, "D": "entailing great expense;  very high-priced; costly", "S": ["costly ", "extravagant ", "fancy ", "high ", "lavish ", "overpriced ", "pricey ", "upscale ", "valuable "], "A": ["economical ", "reasonable ", "unimportant ", "worthless "]}
+{"index": 107702, "D": "entailing great expense;  very high-priced; costly", "S": ["costly", "extravagant", "fancy", "high", "lavish", "overpriced", "pricey", "upscale", "valuable"], "A": ["economical", "reasonable", "unimportant", "worthless"]}

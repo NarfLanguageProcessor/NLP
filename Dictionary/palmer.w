@@ -1,1 +1,1 @@
-{"index": 224054, "D": "a pilgrim, especially of the Middle Ages, who had returned from the Holy Land bearing a palm  branch as a token.", "S": ["wreath "], "A": []}
+{"index": 224054, "D": "a pilgrim, especially of the Middle Ages, who had returned from the Holy Land bearing a palm  branch as a token.", "S": ["wreath"], "A": []}

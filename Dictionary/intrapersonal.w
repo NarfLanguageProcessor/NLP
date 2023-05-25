@@ -1,1 +1,1 @@
-{"index": 156616, "D": "existing or occurring within the self or within one's mind", "S": ["internal "], "A": ["external ", "interpersonal "]}
+{"index": 156616, "D": "existing or occurring within the self or within one's mind", "S": ["internal"], "A": ["external", "interpersonal"]}

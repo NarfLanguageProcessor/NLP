@@ -1,1 +1,1 @@
-{"index": 15998, "D": "pertaining to antiquaries or to the study of antiquities.", "S": ["connoisseur ", "hobbyist "], "A": []}
+{"index": 15998, "D": "pertaining to antiquaries or to the study of antiquities.", "S": ["connoisseur", "hobbyist"], "A": []}

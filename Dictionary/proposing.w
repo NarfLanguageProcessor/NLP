@@ -1,1 +1,1 @@
-{"index": 252797, "D": "to offer or suggest (a matter, subject, case, etc.) for consideration, acceptance, or action", "S": ["advancing ", "counseling ", "moving ", "offering ", "prompting ", "recommending ", "submitting ", "tendering "], "A": []}
+{"index": 252797, "D": "to offer or suggest (a matter, subject, case, etc.) for consideration, acceptance, or action", "S": ["advancing", "counseling", "moving", "offering", "prompting", "recommending", "submitting", "tendering"], "A": []}

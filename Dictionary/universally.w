@@ -1,1 +1,1 @@
-{"index": 345130, "D": "in a universal  manner; in every instance or place; without exception.", "S": ["astronomically ", "celestially ", "cosmically "], "A": ["especially ", "sometimes ", "specifically "]}
+{"index": 345130, "D": "in a universal  manner; in every instance or place; without exception.", "S": ["astronomically", "celestially", "cosmically"], "A": ["especially", "sometimes", "specifically"]}

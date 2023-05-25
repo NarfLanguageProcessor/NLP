@@ -1,1 +1,1 @@
-{"index": 227302, "D": "a person who is traveling in an automobile, bus, train, airplane, or other conveyance, especially one who is not the driver, pilot, or the like.", "S": ["commuter ", "customer ", "fare ", "patron ", "pilgrim ", "rider ", "tourist ", "traveler "], "A": ["owner "]}
+{"index": 227302, "D": "a person who is traveling in an automobile, bus, train, airplane, or other conveyance, especially one who is not the driver, pilot, or the like.", "S": ["commuter", "customer", "fare", "patron", "pilgrim", "rider", "tourist", "traveler"], "A": ["owner"]}

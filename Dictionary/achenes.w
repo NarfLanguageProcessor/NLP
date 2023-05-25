@@ -1,1 +1,1 @@
-{"index": 2228, "D": "any small, dry, hard, one-seeded, indehiscent fruit.", "S": ["kernel "], "A": []}
+{"index": 2228, "D": "any small, dry, hard, one-seeded, indehiscent fruit.", "S": ["kernel"], "A": []}

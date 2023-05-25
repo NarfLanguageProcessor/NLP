@@ -1,1 +1,1 @@
-{"index": 155861, "D": "to place (a dead body) in a grave or tomb; bury. ", "S": ["entomb ", "inhume "], "A": ["dig up ", "exhume "]}
+{"index": 155861, "D": "to place (a dead body) in a grave or tomb; bury. ", "S": ["entomb", "inhume"], "A": ["dig up", "exhume"]}

@@ -1,1 +1,1 @@
-{"index": 24579, "D": "to be of use or value to; profit; advantage", "S": ["cash ", "compensation ", "earnings ", "interest ", "livelihood ", "pay ", "proceeds ", "profit ", "revenue ", "royalty ", "salary ", "wage "], "A": ["debt ", "loss "]}
+{"index": 24579, "D": "to be of use or value to; profit; advantage", "S": ["cash", "compensation", "earnings", "interest", "livelihood", "pay", "proceeds", "profit", "revenue", "royalty", "salary", "wage"], "A": ["debt", "loss"]}

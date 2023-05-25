@@ -1,1 +1,1 @@
-{"index": 271448, "D": "the act or state of being revived; revival; reanimation.", "S": ["few days off ", "leave ", "rest and recreation ", "rest and recuperation ", "rest and relaxation ", "vacation "], "A": []}
+{"index": 271448, "D": "the act or state of being revived; revival; reanimation.", "S": ["few days off", "leave", "rest and recreation", "rest and recuperation", "rest and relaxation", "vacation"], "A": []}

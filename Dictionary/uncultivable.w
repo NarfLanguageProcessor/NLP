@@ -1,1 +1,1 @@
-{"index": 338289, "D": "capable of being cultivated. ", "S": ["arid ", "desolate ", "empty ", "impoverished ", "infertile ", "parched ", "sterile "], "A": ["damp ", "fruitful ", "full ", "moist ", "productive ", "wet ", "cultivated "]}
+{"index": 338289, "D": "capable of being cultivated. ", "S": ["arid", "desolate", "empty", "impoverished", "infertile", "parched", "sterile"], "A": ["damp", "fruitful", "full", "moist", "productive", "wet", "cultivated"]}

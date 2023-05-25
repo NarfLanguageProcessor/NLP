@@ -1,1 +1,1 @@
-{"index": 215223, "D": "a white wine, from dry to sweet, from Umbria, Italy.", "S": ["Gewurztraminer ", "Liebfraumilch ", "Moselle ", "Rhine ", "Riesling ", "asti spumante ", "chablis ", "chardonnay ", "chenin blanc ", "osso buco "], "A": []}
+{"index": 215223, "D": "a white wine, from dry to sweet, from Umbria, Italy.", "S": ["Gewurztraminer", "Liebfraumilch", "Moselle", "Rhine", "Riesling", "asti spumante", "chablis", "chardonnay", "chenin blanc", "osso buco"], "A": []}

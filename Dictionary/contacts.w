@@ -1,1 +1,1 @@
-{"index": 67238, "D": "the act or state of touching; a touching or meeting, as of two things or people.", "S": ["disposable lenses ", "extended-wear lenses ", "hard lenses ", "soft lenses "], "A": []}
+{"index": 67238, "D": "the act or state of touching; a touching or meeting, as of two things or people.", "S": ["disposable lenses", "extended-wear lenses", "hard lenses", "soft lenses"], "A": []}

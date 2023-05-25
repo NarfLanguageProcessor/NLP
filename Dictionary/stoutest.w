@@ -1,1 +1,1 @@
-{"index": 305520, "D": "bulky in figure; heavily built; corpulent; thickset; fat", "S": ["burly ", "portly "], "A": ["thin ", "lean ", "skinny ", "slight "]}
+{"index": 305520, "D": "bulky in figure; heavily built; corpulent; thickset; fat", "S": ["burly", "portly"], "A": ["thin", "lean", "skinny", "slight"]}

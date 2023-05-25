@@ -1,0 +1,1 @@
+{"index": 6097, "D": "to widen in scope; increase in size or intensity; enlarge; extend.", "S": ["expanded", "extended", "inflated", "intensified", "magnified", "swollen"], "A": ["compressed", "contracted", "shrunken"]}

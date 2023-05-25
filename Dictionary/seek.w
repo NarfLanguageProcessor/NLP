@@ -1,1 +1,1 @@
-{"index": 283114, "D": "to go in search or quest of", "S": ["explore ", "follow ", "investigate ", "pursue "], "A": ["ignore ", "shun "]}
+{"index": 283114, "D": "to go in search or quest of", "S": ["explore", "follow", "investigate", "pursue"], "A": ["ignore", "shun"]}

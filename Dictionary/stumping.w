@@ -1,1 +1,1 @@
-{"index": 306885, "D": "the lower end of a tree or plant left after the main part falls or is cut off; a standing tree trunk from which the upper part and branches have been removed.", "S": ["ambiguous ", "cryptic ", "obscure "], "A": ["clear ", "explicit ", "obvious "]}
+{"index": 306885, "D": "the lower end of a tree or plant left after the main part falls or is cut off; a standing tree trunk from which the upper part and branches have been removed.", "S": ["ambiguous", "cryptic", "obscure"], "A": ["clear", "explicit", "obvious"]}

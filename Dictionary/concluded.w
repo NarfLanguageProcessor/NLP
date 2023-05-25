@@ -1,1 +1,1 @@
-{"index": 65362, "D": "brought to an end; finished", "S": ["definite ", "sure "], "A": ["indefinite ", "uncertain "]}
+{"index": 65362, "D": "brought to an end; finished", "S": ["definite", "sure"], "A": ["indefinite", "uncertain"]}

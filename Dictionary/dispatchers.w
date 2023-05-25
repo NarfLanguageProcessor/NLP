@@ -1,1 +1,1 @@
-{"index": 88894, "D": "a person who dispatches. ", "S": ["bearer ", "carrier ", "emissary ", "envoy ", "express ", "go-between ", "gofer ", "gopher ", "herald ", "internuncio ", "runner "], "A": ["receiver ", "sender "]}
+{"index": 88894, "D": "a person who dispatches. ", "S": ["bearer", "carrier", "emissary", "envoy", "express", "go-between", "gofer", "gopher", "herald", "internuncio", "runner"], "A": ["receiver", "sender"]}

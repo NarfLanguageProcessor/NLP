@@ -1,1 +1,1 @@
-{"index": 32506, "D": "a simple past tense and past participle of bespeak. ", "S": ["sewn "], "A": []}
+{"index": 32506, "D": "a simple past tense and past participle of bespeak. ", "S": ["sewn"], "A": []}

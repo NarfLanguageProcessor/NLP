@@ -1,1 +1,1 @@
-{"index": 69065, "D": "of or like leather.", "S": ["rugged ", "wrinkled "], "A": ["smooth "]}
+{"index": 69065, "D": "of or like leather.", "S": ["rugged", "wrinkled"], "A": ["smooth"]}

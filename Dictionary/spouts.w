@@ -1,1 +1,1 @@
-{"index": 301142, "D": "to emit or discharge forcibly (a liquid, granulated substance, etc.) in a stream or jet.", "S": ["gush "], "A": ["collect ", "conceal ", "gather ", "hide ", "take in "]}
+{"index": 301142, "D": "to emit or discharge forcibly (a liquid, granulated substance, etc.) in a stream or jet.", "S": ["gush"], "A": ["collect", "conceal", "gather", "hide", "take in"]}

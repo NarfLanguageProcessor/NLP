@@ -1,1 +1,1 @@
-{"index": 190165, "D": "a variant of missis. ", "S": ["female ", "girl "], "A": []}
+{"index": 190165, "D": "a variant of missis. ", "S": ["female", "girl"], "A": []}

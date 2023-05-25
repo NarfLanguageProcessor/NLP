@@ -1,1 +1,1 @@
-{"index": 56726, "D": "like a churl; boorish; rude", "S": ["grumpy ", "ornery ", "rude ", "sullen ", "uncivilized "], "A": ["happy ", "nice ", "polished ", "refined ", "sophisticated "]}
+{"index": 56726, "D": "like a churl; boorish; rude", "S": ["grumpy", "ornery", "rude", "sullen", "uncivilized"], "A": ["happy", "nice", "polished", "refined", "sophisticated"]}

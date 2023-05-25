@@ -1,1 +1,1 @@
-{"index": 177319, "D": "an eminent composer, teacher, or conductor of music", "S": ["composer ", "conductor "], "A": []}
+{"index": 177319, "D": "an eminent composer, teacher, or conductor of music", "S": ["composer", "conductor"], "A": []}

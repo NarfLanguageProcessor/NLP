@@ -1,1 +1,1 @@
-{"index": 299807, "D": "to cause or allow to run or fall from a container, especially accidentally or wastefully", "S": ["gone ", "lost ", "squandered "], "A": ["existing "]}
+{"index": 299807, "D": "to cause or allow to run or fall from a container, especially accidentally or wastefully", "S": ["gone", "lost", "squandered"], "A": ["existing"]}

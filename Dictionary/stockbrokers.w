@@ -1,1 +1,1 @@
-{"index": 304913, "D": "a broker,  especially one employed by a member firm of a stock exchange,  who buys and sells stocks  and other securities for customers.", "S": ["agent ", "dealer ", "entrepreneur ", "financier ", "intermediary ", "mediator ", "merchant "], "A": ["customer "]}
+{"index": 304913, "D": "a broker,  especially one employed by a member firm of a stock exchange,  who buys and sells stocks  and other securities for customers.", "S": ["agent", "dealer", "entrepreneur", "financier", "intermediary", "mediator", "merchant"], "A": ["customer"]}

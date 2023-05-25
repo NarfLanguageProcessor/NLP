@@ -1,1 +1,1 @@
-{"index": 51979, "D": [], "S": ["frequent ", "intermittent ", "periodic ", "recurring ", "repeated ", "repetitive "], "A": ["constant ", "continual ", "irregular ", "sporadic "]}
+{"index": 51979, "D": [], "S": ["frequent", "intermittent", "periodic", "recurring", "repeated", "repetitive"], "A": ["constant", "continual", "irregular", "sporadic"]}

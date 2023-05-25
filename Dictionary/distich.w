@@ -1,1 +1,1 @@
-{"index": 89761, "D": "a unit of two lines of verse, usually a self-contained statement; couplet.", "S": ["verse "], "A": []}
+{"index": 89761, "D": "a unit of two lines of verse, usually a self-contained statement; couplet.", "S": ["verse"], "A": []}

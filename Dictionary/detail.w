@@ -1,1 +1,1 @@
-{"index": 83068, "D": "an individual or minute part; an item or particular.", "S": ["article ", "design ", "element ", "fact ", "part ", "plan ", "schedule ", "structure ", "thing "], "A": ["entirety ", "generality ", "generalization ", "whole "]}
+{"index": 83068, "D": "an individual or minute part; an item or particular.", "S": ["article", "design", "element", "fact", "part", "plan", "schedule", "structure", "thing"], "A": ["entirety", "generality", "generalization", "whole"]}

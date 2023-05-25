@@ -1,1 +1,1 @@
-{"index": 288179, "D": "simple past tense and past participle of shy1. ", "S": ["avert ", "bypass ", "dodge ", "escape ", "evade ", "fend off ", "shun ", "sidestep ", "ward off "], "A": ["face ", "meet ", "allow ", "help ", "permit ", "stay ", "take on "]}
+{"index": 288179, "D": "simple past tense and past participle of shy1. ", "S": ["avert", "bypass", "dodge", "escape", "evade", "fend off", "shun", "sidestep", "ward off"], "A": ["face", "meet", "allow", "help", "permit", "stay", "take on"]}

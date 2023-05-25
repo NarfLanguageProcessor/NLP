@@ -1,1 +1,1 @@
-{"index": 100517, "D": "the state or quality of being elevated, heightened, or increased, as in quality, degree, intensity, or value", "S": ["improvement "], "A": []}
+{"index": 100517, "D": "the state or quality of being elevated, heightened, or increased, as in quality, degree, intensity, or value", "S": ["improvement"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 86686, "D": "to plunge (something, as a cloth or sponge) temporarily into a liquid, so as to moisten it, dye it, or cause it to take up some of the liquid", "S": ["dive ", "plunge "], "A": []}
+{"index": 86686, "D": "to plunge (something, as a cloth or sponge) temporarily into a liquid, so as to moisten it, dye it, or cause it to take up some of the liquid", "S": ["dive", "plunge"], "A": []}

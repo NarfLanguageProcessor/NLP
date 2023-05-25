@@ -1,1 +1,1 @@
-{"index": 112916, "D": "fine  or showy dress, ornaments, etc.", "S": ["apparel ", "regalia "], "A": ["rags "]}
+{"index": 112916, "D": "fine  or showy dress, ornaments, etc.", "S": ["apparel", "regalia"], "A": ["rags"]}

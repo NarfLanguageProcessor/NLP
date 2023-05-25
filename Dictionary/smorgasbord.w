@@ -1,1 +1,1 @@
-{"index": 295087, "D": "a buffet meal of various hot and cold hors d'oeuvres, salads, casserole dishes, meats, cheeses, etc.", "S": ["buffet "], "A": []}
+{"index": 295087, "D": "a buffet meal of various hot and cold hors d'oeuvres, salads, casserole dishes, meats, cheeses, etc.", "S": ["buffet"], "A": []}

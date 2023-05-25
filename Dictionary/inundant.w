@@ -1,1 +1,1 @@
-{"index": 156955, "D": "flooding or overflowing.", "S": ["teeming "], "A": []}
+{"index": 156955, "D": "flooding or overflowing.", "S": ["teeming"], "A": []}

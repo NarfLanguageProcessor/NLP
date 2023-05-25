@@ -1,1 +1,1 @@
-{"index": 1685, "D": "to be in agreement or harmony; agree. ", "S": ["deal ", "pact ", "reconciliation "], "A": ["disagreement ", "difference ", "discord ", "disunity ", "refusal "]}
+{"index": 1685, "D": "to be in agreement or harmony; agree. ", "S": ["deal", "pact", "reconciliation"], "A": ["disagreement", "difference", "discord", "disunity", "refusal"]}

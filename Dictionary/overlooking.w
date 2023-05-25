@@ -1,1 +1,1 @@
-{"index": 220128, "D": "to fail to notice, perceive, or consider", "S": ["ignoring ", "omitting ", "slighting "], "A": []}
+{"index": 220128, "D": "to fail to notice, perceive, or consider", "S": ["ignoring", "omitting", "slighting"], "A": []}

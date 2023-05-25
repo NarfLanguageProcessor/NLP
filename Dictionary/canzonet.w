@@ -1,1 +1,1 @@
-{"index": 46736, "D": "an early polyphonic song of dancelike character.", "S": ["Noel ", "ballad ", "canticle ", "chorus ", "ditty ", "lay ", "madrigal ", "song ", "strain "], "A": []}
+{"index": 46736, "D": "an early polyphonic song of dancelike character.", "S": ["Noel", "ballad", "canticle", "chorus", "ditty", "lay", "madrigal", "song", "strain"], "A": []}

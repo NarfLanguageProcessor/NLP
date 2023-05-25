@@ -1,1 +1,1 @@
-{"index": 154021, "D": "not substantial or real; lacking substance", "S": ["fanciful ", "flimsy ", "illusory ", "puny ", "tenuous ", "unreal "], "A": ["genuine ", "real ", "serious ", "strong ", "substantial ", "thick "]}
+{"index": 154021, "D": "not substantial or real; lacking substance", "S": ["fanciful", "flimsy", "illusory", "puny", "tenuous", "unreal"], "A": ["genuine", "real", "serious", "strong", "substantial", "thick"]}

@@ -1,1 +1,1 @@
-{"index": 172886, "D": "of or belonging to language", "S": ["grammatical "], "A": []}
+{"index": 172886, "D": "of or belonging to language", "S": ["grammatical"], "A": []}

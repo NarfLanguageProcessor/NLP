@@ -1,1 +1,1 @@
-{"index": 142867, "D": "of, relating to, or suggestive of Homer  or his poetry.", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}
+{"index": 142867, "D": "of, relating to, or suggestive of Homer  or his poetry.", "S": ["classic", "humanistic"], "A": ["complicated", "modern"]}

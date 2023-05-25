@@ -1,1 +1,1 @@
-{"index": 364873, "D": "complaining; fretful; cranky", "S": ["obnoxious ", "rude ", "unpleasant "], "A": ["agreeable ", "delightful ", "kind ", "nice ", "pleasant "]}
+{"index": 364873, "D": "complaining; fretful; cranky", "S": ["obnoxious", "rude", "unpleasant"], "A": ["agreeable", "delightful", "kind", "nice", "pleasant"]}

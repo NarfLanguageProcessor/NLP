@@ -1,1 +1,1 @@
-{"index": 244904, "D": "to swoop down suddenly and grasp, as a bird does in seizing its prey.", "S": ["leap "], "A": []}
+{"index": 244904, "D": "to swoop down suddenly and grasp, as a bird does in seizing its prey.", "S": ["leap"], "A": []}

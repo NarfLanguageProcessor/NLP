@@ -1,1 +1,1 @@
-{"index": 7631, "D": "a person who is versed in or practices alchemy. ", "S": ["charmer ", "clairvoyant ", "conjurer ", "diviner ", "enchanter ", "magician ", "medium ", "necromancer ", "occultist ", "seer ", "shaman ", "soothsayer ", "sorceress ", "thaumaturge ", "warlock ", "witch "], "A": []}
+{"index": 7631, "D": "a person who is versed in or practices alchemy. ", "S": ["charmer", "clairvoyant", "conjurer", "diviner", "enchanter", "magician", "medium", "necromancer", "occultist", "seer", "shaman", "soothsayer", "sorceress", "thaumaturge", "warlock", "witch"], "A": []}

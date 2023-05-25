@@ -1,1 +1,1 @@
-{"index": 11772, "D": "a person, machine, or device that analyzes. ", "S": ["authority ", "cartoonist ", "commentator ", "expert ", "judge ", "pundit ", "reviewer "], "A": ["amateur "]}
+{"index": 11772, "D": "a person, machine, or device that analyzes. ", "S": ["authority", "cartoonist", "commentator", "expert", "judge", "pundit", "reviewer"], "A": ["amateur"]}

@@ -1,1 +1,1 @@
-{"index": 328115, "D": "transmission. ", "S": ["distribution "], "A": ["holding ", "keeping ", "retention "]}
+{"index": 328115, "D": "transmission. ", "S": ["distribution"], "A": ["holding", "keeping", "retention"]}

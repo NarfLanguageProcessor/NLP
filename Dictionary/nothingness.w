@@ -1,1 +1,1 @@
-{"index": 208906, "D": "the state of being nothing. ", "S": ["pettiness ", "smallness ", "unimportance ", "worthlessness "], "A": ["eminence ", "importance ", "significance "]}
+{"index": 208906, "D": "the state of being nothing. ", "S": ["pettiness", "smallness", "unimportance", "worthlessness"], "A": ["eminence", "importance", "significance"]}

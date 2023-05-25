@@ -1,1 +1,1 @@
-{"index": 89350, "D": "to undress.", "S": ["bare ", "exposed ", "in one's birthday suit ", "in the buff ", "in the raw ", "naked ", "naked as a jaybird ", "natural ", "nude ", "stark naked ", "stripped ", "unclad ", "unclothed ", "undressed ", "without a stitch "], "A": []}
+{"index": 89350, "D": "to undress.", "S": ["bare", "exposed", "in one's birthday suit", "in the buff", "in the raw", "naked", "naked as a jaybird", "natural", "nude", "stark naked", "stripped", "unclad", "unclothed", "undressed", "without a stitch"], "A": []}

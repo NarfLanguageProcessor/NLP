@@ -1,1 +1,1 @@
-{"index": 42189, "D": "an estimate, often itemized, of expected income and expense for a given period in the future.", "S": ["commercial ", "economic ", "fiscal ", "monetary "], "A": []}
+{"index": 42189, "D": "an estimate, often itemized, of expected income and expense for a given period in the future.", "S": ["commercial", "economic", "fiscal", "monetary"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 131108, "D": "free from guilt;  innocent.", "S": ["innocent "], "A": ["blameful ", "corrupt ", "guilty ", "immoral ", "sinful ", "wrong "]}
+{"index": 131108, "D": "free from guilt;  innocent.", "S": ["innocent"], "A": ["blameful", "corrupt", "guilty", "immoral", "sinful", "wrong"]}

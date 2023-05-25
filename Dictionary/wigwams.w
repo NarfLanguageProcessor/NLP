@@ -1,1 +1,1 @@
-{"index": 365664, "D": "Compare lodge (def. 9), teepee. ", "S": ["dwelling ", "home ", "lodge ", "shelter ", "tent ", "tepee ", "wickiup "], "A": []}
+{"index": 365664, "D": "Compare lodge (def. 9), teepee. ", "S": ["dwelling", "home", "lodge", "shelter", "tent", "tepee", "wickiup"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 111033, "D": "simple past tense of fall. ", "S": ["brutal ", "cold-blooded ", "cruel ", "heartless ", "merciless ", "pitiless ", "remorseless ", "ruthless ", "uncompassionate ", "unfeeling ", "unsympathetic "], "A": ["compassionate ", "humane ", "kind "]}
+{"index": 111033, "D": "simple past tense of fall. ", "S": ["brutal", "cold-blooded", "cruel", "heartless", "merciless", "pitiless", "remorseless", "ruthless", "uncompassionate", "unfeeling", "unsympathetic"], "A": ["compassionate", "humane", "kind"]}

@@ -1,1 +1,1 @@
-{"index": 73710, "D": "a popular singer who sings in an evenly modulated, slightly exaggerated manner", "S": ["artist ", "diva ", "musician ", "soloist ", "vocalist ", "voice "], "A": []}
+{"index": 73710, "D": "a popular singer who sings in an evenly modulated, slightly exaggerated manner", "S": ["artist", "diva", "musician", "soloist", "vocalist", "voice"], "A": []}

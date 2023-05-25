@@ -1,1 +1,1 @@
-{"index": 151643, "D": "unable to be avoided, evaded, or escaped; certain; fated", "S": ["imminent ", "impending ", "inescapable ", "inexorable ", "irresistible ", "necessary ", "unavoidable ", "undeniable "], "A": ["avoidable ", "distant ", "escapable ", "later "]}
+{"index": 151643, "D": "unable to be avoided, evaded, or escaped; certain; fated", "S": ["imminent", "impending", "inescapable", "inexorable", "irresistible", "necessary", "unavoidable", "undeniable"], "A": ["avoidable", "distant", "escapable", "later"]}

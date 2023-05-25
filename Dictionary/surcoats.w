@@ -1,1 +1,0 @@
-{"index": 313343, "D": "a garment worn over medieval armor, often embroidered with heraldic arms.", "S": ["blouse ", "coat ", "jacket ", "robe "], "A": []}

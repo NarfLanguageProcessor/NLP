@@ -1,1 +1,1 @@
-{"index": 64823, "D": "composed of two or more parts, elements, or ingredients", "S": ["complicated ", "convoluted "], "A": ["simple ", "single ", "uniform ", "unmixed "]}
+{"index": 64823, "D": "composed of two or more parts, elements, or ingredients", "S": ["complicated", "convoluted"], "A": ["simple", "single", "uniform", "unmixed"]}

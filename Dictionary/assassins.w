@@ -1,1 +1,1 @@
-{"index": 21611, "D": "a murderer, especially one who kills a politically prominent person for fanatical or monetary reasons.", "S": ["butcher ", "dropper ", "eliminator ", "enforcer ", "executioner ", "gun ", "killer ", "liquidator ", "plugger ", "slayer ", "torpedo "], "A": ["victim "]}
+{"index": 21611, "D": "a murderer, especially one who kills a politically prominent person for fanatical or monetary reasons.", "S": ["butcher", "dropper", "eliminator", "enforcer", "executioner", "gun", "killer", "liquidator", "plugger", "slayer", "torpedo"], "A": ["victim"]}

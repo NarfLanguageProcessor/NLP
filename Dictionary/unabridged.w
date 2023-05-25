@@ -1,1 +1,1 @@
-{"index": 334358, "D": "not abridged or shortened, as a book.", "S": ["entire ", "total ", "whole "], "A": ["incomplete ", "part ", "partial "]}
+{"index": 334358, "D": "not abridged or shortened, as a book.", "S": ["entire", "total", "whole"], "A": ["incomplete", "part", "partial"]}

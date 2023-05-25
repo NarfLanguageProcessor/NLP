@@ -1,1 +1,1 @@
-{"index": 39190, "D": "the act or art of playing a stringed instrument with a bow. ", "S": ["arching ", "curving ", "spiraling ", "twisting ", "veering ", "winding "], "A": ["straight ", "unbent ", "unbowed "]}
+{"index": 39190, "D": "the act or art of playing a stringed instrument with a bow. ", "S": ["arching", "curving", "spiraling", "twisting", "veering", "winding"], "A": ["straight", "unbent", "unbowed"]}

@@ -1,1 +1,1 @@
-{"index": 182082, "D": "to treat with medicine  or medicaments.", "S": ["anesthetize ", "desensitize ", "sedate "], "A": ["enliven ", "ignore ", "increase ", "neglect "]}
+{"index": 182082, "D": "to treat with medicine  or medicaments.", "S": ["anesthetize", "desensitize", "sedate"], "A": ["enliven", "ignore", "increase", "neglect"]}

@@ -1,1 +1,1 @@
-{"index": 319968, "D": "an antibiotic, C22H24H2O8, derived from chlortetracycline,  used in medicine to treat a broad variety of infections.", "S": ["penicillin "], "A": []}
+{"index": 319968, "D": "an antibiotic, C22H24H2O8, derived from chlortetracycline,  used in medicine to treat a broad variety of infections.", "S": ["penicillin"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 19586, "D": "to argue,  dispute, or wrangle.", "S": ["annoy ", "pester "], "A": ["make happy ", "please ", "aid ", "assist ", "help "]}
+{"index": 19586, "D": "to argue,  dispute, or wrangle.", "S": ["annoy", "pester"], "A": ["make happy", "please", "aid", "assist", "help"]}

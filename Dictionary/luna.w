@@ -1,1 +1,1 @@
-{"index": 176154, "D": "the ancient Roman goddess personifying the moon, sometimes identified with Diana.", "S": ["asteroid ", "moon ", "rocket ", "spacecraft ", "sputnik "], "A": []}
+{"index": 176154, "D": "the ancient Roman goddess personifying the moon, sometimes identified with Diana.", "S": ["asteroid", "moon", "rocket", "spacecraft", "sputnik"], "A": []}

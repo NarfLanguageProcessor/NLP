@@ -1,1 +1,1 @@
-{"index": 112573, "D": "a folder, cabinet, or other container in which papers, letters, etc., are arranged in convenient order for storage or reference.", "S": ["documented ", "listed ", "registered ", "reported ", "taped "], "A": []}
+{"index": 112573, "D": "a folder, cabinet, or other container in which papers, letters, etc., are arranged in convenient order for storage or reference.", "S": ["documented", "listed", "registered", "reported", "taped"], "A": []}

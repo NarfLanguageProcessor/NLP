@@ -1,1 +1,1 @@
-{"index": 125658, "D": "the main or essential part of a matter", "S": ["summary ", "tenor ", "upshot "], "A": ["exterior ", "exteriority ", "insignificance ", "meaninglessness ", "surface "]}
+{"index": 125658, "D": "the main or essential part of a matter", "S": ["summary", "tenor", "upshot"], "A": ["exterior", "exteriority", "insignificance", "meaninglessness", "surface"]}

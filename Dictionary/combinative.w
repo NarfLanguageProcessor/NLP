@@ -1,1 +1,1 @@
-{"index": 63657, "D": "tending or serving to combine. ", "S": ["combinatory "], "A": []}
+{"index": 63657, "D": "tending or serving to combine. ", "S": ["combinatory"], "A": []}

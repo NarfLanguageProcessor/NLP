@@ -1,1 +1,1 @@
-{"index": 332013, "D": "material in the form of a tube", "S": ["hosiery ", "sock ", "tights ", "tube "], "A": []}
+{"index": 332013, "D": "material in the form of a tube", "S": ["hosiery", "sock", "tights", "tube"], "A": []}

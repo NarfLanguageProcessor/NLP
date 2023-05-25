@@ -1,1 +1,1 @@
-{"index": 17990, "D": "approving;  expressing approbation. ", "S": ["acclamatory ", "affirmative ", "applauding ", "approbative ", "approving ", "commendatory ", "congratulatory ", "laudatory ", "plauditory ", "praiseful ", "praising "], "A": []}
+{"index": 17990, "D": "approving;  expressing approbation. ", "S": ["acclamatory", "affirmative", "applauding", "approbative", "approving", "commendatory", "congratulatory", "laudatory", "plauditory", "praiseful", "praising"], "A": []}

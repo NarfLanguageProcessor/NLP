@@ -1,1 +1,1 @@
-{"index": 257922, "D": "to determine, indicate, or express the quantity  of.", "S": ["appraise ", "assess ", "calibrate ", "compute ", "evaluate ", "gauge ", "specify "], "A": ["guess ", "estimate ", "ignore "]}
+{"index": 257922, "D": "to determine, indicate, or express the quantity  of.", "S": ["appraise", "assess", "calibrate", "compute", "evaluate", "gauge", "specify"], "A": ["guess", "estimate", "ignore"]}

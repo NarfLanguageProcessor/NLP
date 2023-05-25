@@ -1,1 +1,1 @@
-{"index": 199920, "D": "nightclothes. ", "S": ["camisole ", "dishabille ", "nightie ", "peignoir ", "robe ", "teddy ", "wrap ", "wrapper "], "A": []}
+{"index": 199920, "D": "nightclothes. ", "S": ["camisole", "dishabille", "nightie", "peignoir", "robe", "teddy", "wrap", "wrapper"], "A": []}

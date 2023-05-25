@@ -1,1 +1,1 @@
-{"index": 21723, "D": "the act of assessing;  appraisal; evaluation.", "S": ["appraisal ", "estimate ", "judgment "], "A": []}
+{"index": 21723, "D": "the act of assessing;  appraisal; evaluation.", "S": ["appraisal", "estimate", "judgment"], "A": []}

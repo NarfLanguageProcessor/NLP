@@ -1,1 +1,1 @@
-{"index": 48856, "D": "money in the form of coins or banknotes, especially that issued by a government.", "S": ["accepted ", "approved ", "certified ", "endorsed ", "passed "], "A": ["disapproved "]}
+{"index": 48856, "D": "money in the form of coins or banknotes, especially that issued by a government.", "S": ["accepted", "approved", "certified", "endorsed", "passed"], "A": ["disapproved"]}

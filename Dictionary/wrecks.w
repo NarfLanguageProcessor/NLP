@@ -1,1 +1,1 @@
-{"index": 367913, "D": "any building, structure, or thing reduced to a state of ruin.", "S": ["collapse ", "crash ", "debacle ", "debris ", "destruction ", "devastation ", "hulk ", "mess ", "ruin ", "shipwreck ", "wreckage "], "A": ["building ", "construction ", "creation "]}
+{"index": 367913, "D": "any building, structure, or thing reduced to a state of ruin.", "S": ["collapse", "crash", "debacle", "debris", "destruction", "devastation", "hulk", "mess", "ruin", "shipwreck", "wreckage"], "A": ["building", "construction", "creation"]}

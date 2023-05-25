@@ -1,1 +1,1 @@
-{"index": 283354, "D": "an earthquake.", "S": ["quake ", "tremor "], "A": []}
+{"index": 283354, "D": "an earthquake.", "S": ["quake", "tremor"], "A": []}

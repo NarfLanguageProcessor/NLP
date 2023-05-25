@@ -1,1 +1,1 @@
-{"index": 48610, "D": "Compare \u00e0 la carte. ", "S": ["card ", "carte du jour "], "A": []}
+{"index": 48610, "D": "Compare \u00e0 la carte. ", "S": ["card", "carte du jour"], "A": []}

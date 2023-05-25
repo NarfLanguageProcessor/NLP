@@ -1,1 +1,1 @@
-{"index": 130977, "D": "empty or foolish talk; nonsense.", "S": ["baloney ", "bull ", "bunk ", "bunkum ", "crap ", "drivel ", "foolishness ", "garbage ", "hogwash ", "hooey ", "poppycock ", "rubbish "], "A": ["sense ", "truth "]}
+{"index": 130977, "D": "empty or foolish talk; nonsense.", "S": ["baloney", "bull", "bunk", "bunkum", "crap", "drivel", "foolishness", "garbage", "hogwash", "hooey", "poppycock", "rubbish"], "A": ["sense", "truth"]}

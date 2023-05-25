@@ -1,1 +1,1 @@
-{"index": 210649, "D": "at times; from time to time; now and then.", "S": ["hardly ", "infrequently ", "periodically ", "seldom ", "sometimes ", "sporadically "], "A": ["always ", "constantly ", "frequently ", "regularly ", "steadily ", "usually "]}
+{"index": 210649, "D": "at times; from time to time; now and then.", "S": ["hardly", "infrequently", "periodically", "seldom", "sometimes", "sporadically"], "A": ["always", "constantly", "frequently", "regularly", "steadily", "usually"]}

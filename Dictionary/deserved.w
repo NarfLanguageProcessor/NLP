@@ -1,1 +1,1 @@
-{"index": 82520, "D": "justly or rightly earned; merited", "S": ["earned ", "proper ", "rightful "], "A": ["incorrect ", "improper ", "inappropriate ", "unfit ", "unfitting ", "unseemly ", "unsuitable ", "unsuited "]}
+{"index": 82520, "D": "justly or rightly earned; merited", "S": ["earned", "proper", "rightful"], "A": ["incorrect", "improper", "inappropriate", "unfit", "unfitting", "unseemly", "unsuitable", "unsuited"]}

@@ -1,1 +1,1 @@
-{"index": 71626, "D": "a tuft of hair that grows in a direction different from that of the rest of the hair.", "S": ["eyebrow ", "fiber ", "fur ", "grass ", "haircut ", "hairstyle ", "mane ", "sideburn ", "strand ", "wig ", "wool "], "A": []}
+{"index": 71626, "D": "a tuft of hair that grows in a direction different from that of the rest of the hair.", "S": ["eyebrow", "fiber", "fur", "grass", "haircut", "hairstyle", "mane", "sideburn", "strand", "wig", "wool"], "A": []}

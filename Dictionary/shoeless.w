@@ -1,1 +1,1 @@
-{"index": 288699, "D": "an external covering for the human foot, usually of leather and consisting of a more or less stiff or heavy sole and a lighter upper part ending a short distance above, at, or below the ankle.", "S": ["barefooted "], "A": ["shod "]}
+{"index": 288699, "D": "an external covering for the human foot, usually of leather and consisting of a more or less stiff or heavy sole and a lighter upper part ending a short distance above, at, or below the ankle.", "S": ["barefooted"], "A": ["shod"]}

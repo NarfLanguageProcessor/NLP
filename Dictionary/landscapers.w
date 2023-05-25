@@ -1,1 +1,1 @@
-{"index": 168015, "D": "a gardener who does landscape gardening. ", "S": ["grower ", "horticulturist "], "A": []}
+{"index": 168015, "D": "a gardener who does landscape gardening. ", "S": ["grower", "horticulturist"], "A": []}

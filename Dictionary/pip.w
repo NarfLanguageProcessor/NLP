@@ -1,1 +1,1 @@
-{"index": 237391, "D": "one of the spots on dice, playing cards, or dominoes", "S": ["kernel ", "pit ", "seed "], "A": []}
+{"index": 237391, "D": "one of the spots on dice, playing cards, or dominoes", "S": ["kernel", "pit", "seed"], "A": []}

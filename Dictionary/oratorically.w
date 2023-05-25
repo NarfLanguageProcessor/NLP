@@ -1,1 +1,1 @@
-{"index": 214009, "D": "of, relating to, or characteristic of an orator  or oratory", "S": ["extravagantly ", "grandiloquently ", "lengthily ", "longwindedly ", "talkatively "], "A": []}
+{"index": 214009, "D": "of, relating to, or characteristic of an orator  or oratory", "S": ["extravagantly", "grandiloquently", "lengthily", "longwindedly", "talkatively"], "A": []}

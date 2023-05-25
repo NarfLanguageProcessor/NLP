@@ -1,1 +1,1 @@
-{"index": 269741, "D": "to inhale and exhale air for the purpose of maintaining life; breathe.", "S": ["exhale ", "inhale ", "oxidate "], "A": []}
+{"index": 269741, "D": "to inhale and exhale air for the purpose of maintaining life; breathe.", "S": ["exhale", "inhale", "oxidate"], "A": []}

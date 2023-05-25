@@ -1,1 +1,1 @@
-{"index": 251672, "D": "characterized by irreverence or contempt for God or sacred principles or things; irreligious.", "S": ["agnostic ", "cynic ", "dissenter ", "doubter ", "pessimist ", "questioner "], "A": ["believer ", "optimist "]}
+{"index": 251672, "D": "characterized by irreverence or contempt for God or sacred principles or things; irreligious.", "S": ["agnostic", "cynic", "dissenter", "doubter", "pessimist", "questioner"], "A": ["believer", "optimist"]}

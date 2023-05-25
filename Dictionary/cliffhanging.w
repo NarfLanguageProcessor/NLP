@@ -1,1 +1,1 @@
-{"index": 59928, "D": "to wait eagerly for the outcome of a suspenseful situation or contest.", "S": ["breathtaking ", "chilling ", "electrifying ", "frightening ", "shocking ", "suspenseful ", "terrifying "], "A": ["comforting "]}
+{"index": 59928, "D": "to wait eagerly for the outcome of a suspenseful situation or contest.", "S": ["breathtaking", "chilling", "electrifying", "frightening", "shocking", "suspenseful", "terrifying"], "A": ["comforting"]}

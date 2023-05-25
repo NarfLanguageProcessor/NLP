@@ -1,1 +1,0 @@
-{"index": 197340, "D": "imitating nature  or the usual natural  surroundings.", "S": [], "A": []}

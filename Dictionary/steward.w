@@ -1,1 +1,1 @@
-{"index": 304194, "D": "a person who manages another's property or financial affairs; one who administers anything as the agent of another or others.", "S": ["administrator "], "A": []}
+{"index": 304194, "D": "a person who manages another's property or financial affairs; one who administers anything as the agent of another or others.", "S": ["administrator"], "A": []}

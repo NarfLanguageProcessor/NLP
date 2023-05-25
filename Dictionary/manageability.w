@@ -1,1 +1,1 @@
-{"index": 178874, "D": "that can be managed; tractable;  governable; achievable.", "S": ["acquiescence ", "conformity ", "deference ", "orderliness ", "reverence "], "A": ["disagreement ", "disregard ", "fight "]}
+{"index": 178874, "D": "that can be managed; tractable;  governable; achievable.", "S": ["acquiescence", "conformity", "deference", "orderliness", "reverence"], "A": ["disagreement", "disregard", "fight"]}

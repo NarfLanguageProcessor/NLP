@@ -1,1 +1,1 @@
-{"index": 43815, "D": "a low, vibrating, humming sound, as of bees, machinery, or people talking.", "S": ["brisk ", "bustling ", "busy ", "hopping "], "A": ["inactive "]}
+{"index": 43815, "D": "a low, vibrating, humming sound, as of bees, machinery, or people talking.", "S": ["brisk", "bustling", "busy", "hopping"], "A": ["inactive"]}

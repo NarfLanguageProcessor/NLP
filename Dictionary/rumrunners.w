@@ -1,1 +1,1 @@
-{"index": 275606, "D": "a person or ship engaged in smuggling liquor.", "S": ["moonshiner "], "A": []}
+{"index": 275606, "D": "a person or ship engaged in smuggling liquor.", "S": ["moonshiner"], "A": []}

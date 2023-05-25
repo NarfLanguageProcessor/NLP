@@ -1,1 +1,1 @@
-{"index": 33488, "D": "having or terminating in two cusps or points, as certain teeth.", "S": ["canine ", "cuspid ", "denticle ", "eyetooth ", "fang ", "grinder ", "incisor ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}
+{"index": 33488, "D": "having or terminating in two cusps or points, as certain teeth.", "S": ["canine", "cuspid", "denticle", "eyetooth", "fang", "grinder", "incisor", "ivory", "molar", "premolar", "tusk"], "A": []}

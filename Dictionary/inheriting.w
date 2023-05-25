@@ -1,1 +1,1 @@
-{"index": 152684, "D": "to take or receive (property, a right, a title, etc.) by succession or will, as an heir", "S": ["acquiring ", "clearing ", "gaining ", "getting ", "making ", "netting ", "obtaining ", "receiving "], "A": []}
+{"index": 152684, "D": "to take or receive (property, a right, a title, etc.) by succession or will, as an heir", "S": ["acquiring", "clearing", "gaining", "getting", "making", "netting", "obtaining", "receiving"], "A": []}

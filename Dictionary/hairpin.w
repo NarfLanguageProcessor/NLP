@@ -1,1 +1,1 @@
-{"index": 132434, "D": "a slender U-shaped piece of wire, shell, etc., used by women to fasten up the hair  or hold a headdress.", "S": ["barrette ", "clasp ", "fastener ", "pin "], "A": []}
+{"index": 132434, "D": "a slender U-shaped piece of wire, shell, etc., used by women to fasten up the hair  or hold a headdress.", "S": ["barrette", "clasp", "fastener", "pin"], "A": []}

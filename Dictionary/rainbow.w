@@ -1,1 +1,1 @@
-{"index": 260077, "D": "Compare primary rainbow, secondary rainbow. ", "S": ["arc ", "bow ", "crescent ", "curve ", "prism ", "variegation "], "A": []}
+{"index": 260077, "D": "Compare primary rainbow, secondary rainbow. ", "S": ["arc", "bow", "crescent", "curve", "prism", "variegation"], "A": []}

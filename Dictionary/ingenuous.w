@@ -1,1 +1,1 @@
-{"index": 152481, "D": "free from reserve, restraint, or dissimulation; candid; sincere. ", "S": ["artless "], "A": ["deceitful ", "dishonest ", "sly "]}
+{"index": 152481, "D": "free from reserve, restraint, or dissimulation; candid; sincere. ", "S": ["artless"], "A": ["deceitful", "dishonest", "sly"]}

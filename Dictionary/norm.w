@@ -1,1 +1,1 @@
-{"index": 208532, "D": "a standard, model, or pattern.", "S": ["benchmark ", "criterion ", "measure ", "model ", "pattern ", "rule "], "A": ["extreme "]}
+{"index": 208532, "D": "a standard, model, or pattern.", "S": ["benchmark", "criterion", "measure", "model", "pattern", "rule"], "A": ["extreme"]}

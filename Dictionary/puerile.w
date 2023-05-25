@@ -1,1 +1,1 @@
-{"index": 256068, "D": "of or relating to a child or to childhood.", "S": ["callow ", "infantile "], "A": ["mature "]}
+{"index": 256068, "D": "of or relating to a child or to childhood.", "S": ["callow", "infantile"], "A": ["mature"]}

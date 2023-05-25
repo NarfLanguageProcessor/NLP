@@ -1,1 +1,1 @@
-{"index": 118478, "D": "being or relating to the act of killing one\u2019s brother or a member of one\u2019s own tribe or group", "S": ["civil ", "domestic ", "internal "], "A": []}
+{"index": 118478, "D": "being or relating to the act of killing one\u2019s brother or a member of one\u2019s own tribe or group", "S": ["civil", "domestic", "internal"], "A": []}

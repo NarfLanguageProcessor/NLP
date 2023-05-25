@@ -1,1 +1,1 @@
-{"index": 3279, "D": "a woman who acts  in stage plays, motion pictures, television broadcasts, etc., especially professionally.", "S": ["diva ", "leading lady ", "starlet "], "A": []}
+{"index": 3279, "D": "a woman who acts  in stage plays, motion pictures, television broadcasts, etc., especially professionally.", "S": ["diva", "leading lady", "starlet"], "A": []}

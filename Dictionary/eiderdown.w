@@ -1,1 +1,1 @@
-{"index": 96336, "D": "down,  or soft feathers, from the breast of the female eider duck. ", "S": ["bed linen ", "bedspread ", "blanket ", "comforter ", "linen ", "pillow ", "pillowcase ", "quilt ", "sheet "], "A": []}
+{"index": 96336, "D": "down,  or soft feathers, from the breast of the female eider duck. ", "S": ["bed linen", "bedspread", "blanket", "comforter", "linen", "pillow", "pillowcase", "quilt", "sheet"], "A": []}

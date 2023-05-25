@@ -1,1 +1,1 @@
-{"index": 56643, "D": "thick or stout; stocky.", "S": ["chubby ", "stocky ", "stout "], "A": ["skinny ", "thin ", "underweight "]}
+{"index": 56643, "D": "thick or stout; stocky.", "S": ["chubby", "stocky", "stout"], "A": ["skinny", "thin", "underweight"]}

@@ -1,1 +1,1 @@
-{"index": 203746, "D": "a nonexclusive deal", "S": ["universal "], "A": ["exclusive "]}
+{"index": 203746, "D": "a nonexclusive deal", "S": ["universal"], "A": ["exclusive"]}

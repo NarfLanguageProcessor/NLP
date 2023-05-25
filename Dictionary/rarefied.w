@@ -1,1 +1,1 @@
-{"index": 260818, "D": "extremely high or elevated; lofty; exalted", "S": ["esoteric ", "exalted ", "lofty "], "A": ["commonplace "]}
+{"index": 260818, "D": "extremely high or elevated; lofty; exalted", "S": ["esoteric", "exalted", "lofty"], "A": ["commonplace"]}

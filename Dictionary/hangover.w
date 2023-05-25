@@ -1,1 +1,1 @@
-{"index": 133361, "D": "the disagreeable physical aftereffects of drunkenness, such as a headache or stomach disorder, usually felt several hours after cessation of drinking.", "S": ["aftereffect ", "headache "], "A": ["sobriety "]}
+{"index": 133361, "D": "the disagreeable physical aftereffects of drunkenness, such as a headache or stomach disorder, usually felt several hours after cessation of drinking.", "S": ["aftereffect", "headache"], "A": ["sobriety"]}

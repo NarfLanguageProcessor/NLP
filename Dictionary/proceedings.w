@@ -1,1 +1,1 @@
-{"index": 251164, "D": "a particular action or course or manner of action.", "S": ["affairs ", "annals ", "archives ", "business ", "dealings ", "documents ", "doings ", "matters ", "minutes ", "records ", "transactions "], "A": []}
+{"index": 251164, "D": "a particular action or course or manner of action.", "S": ["affairs", "annals", "archives", "business", "dealings", "documents", "doings", "matters", "minutes", "records", "transactions"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 48714, "D": "U.S. botanist and chemist.", "S": ["artist ", "cutter ", "etcher ", "lapidary ", "lithographer ", "sculptor "], "A": []}
+{"index": 48714, "D": "U.S. botanist and chemist.", "S": ["artist", "cutter", "etcher", "lapidary", "lithographer", "sculptor"], "A": []}

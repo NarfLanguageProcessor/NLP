@@ -1,1 +1,1 @@
-{"index": 170471, "D": "simple past tense and past participle of lend. ", "S": ["borrowed ", "given "], "A": []}
+{"index": 170471, "D": "simple past tense and past participle of lend. ", "S": ["borrowed", "given"], "A": []}

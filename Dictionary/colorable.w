@@ -1,1 +1,1 @@
-{"index": 63307, "D": "capable of being colored. ", "S": ["believable ", "convincing ", "credible ", "creditable ", "probable ", "specious "], "A": []}
+{"index": 63307, "D": "capable of being colored. ", "S": ["believable", "convincing", "credible", "creditable", "probable", "specious"], "A": []}

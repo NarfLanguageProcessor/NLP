@@ -1,1 +1,1 @@
-{"index": 18563, "D": "a plot of land on which many different trees or shrubs are grown for study or display.", "S": ["botanic garden "], "A": []}
+{"index": 18563, "D": "a plot of land on which many different trees or shrubs are grown for study or display.", "S": ["botanic garden"], "A": []}

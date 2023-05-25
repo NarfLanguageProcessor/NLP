@@ -1,1 +1,1 @@
-{"index": 145873, "D": "a ship's small boat, rowed by a crew of four or six.", "S": ["dandy ", "sailboat ", "vessel "], "A": []}
+{"index": 145873, "D": "a ship's small boat, rowed by a crew of four or six.", "S": ["dandy", "sailboat", "vessel"], "A": []}

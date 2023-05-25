@@ -1,1 +1,1 @@
-{"index": 279118, "D": "the quality in a substance that affects the sense of taste or of smell.", "S": ["appreciate ", "luxuriate in ", "relish ", "revel in ", "sip ", "smell ", "taste "], "A": ["dislike ", "refuse ", "shun "]}
+{"index": 279118, "D": "the quality in a substance that affects the sense of taste or of smell.", "S": ["appreciate", "luxuriate in", "relish", "revel in", "sip", "smell", "taste"], "A": ["dislike", "refuse", "shun"]}

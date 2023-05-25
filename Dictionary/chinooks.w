@@ -1,1 +1,1 @@
-{"index": 54645, "D": "a member of a formerly numerous North American Indian people originally inhabiting the northern shore of the mouth of the Columbia River and the adjacent territory.", "S": ["cyclone ", "hurricane ", "monsoon ", "squall ", "tornado ", "wind ", "windstorm "], "A": []}
+{"index": 54645, "D": "a member of a formerly numerous North American Indian people originally inhabiting the northern shore of the mouth of the Columbia River and the adjacent territory.", "S": ["cyclone", "hurricane", "monsoon", "squall", "tornado", "wind", "windstorm"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 187942, "D": "ministering. ", "S": ["attendant ", "ministering "], "A": []}
+{"index": 187942, "D": "ministering. ", "S": ["attendant", "ministering"], "A": []}

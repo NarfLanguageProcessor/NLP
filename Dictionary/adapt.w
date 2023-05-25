@@ -1,0 +1,1 @@
+{"index": 3454, "D": "to make suitable to requirements or conditions; adjust or modify fittingly", "S": ["acclimate", "accommodate", "accustom", "alter", "comply", "conform", "fit", "modify", "prepare", "readjust", "revise", "shape", "suit", "tailor"], "A": ["neglect", "refuse", "reject", "disagree"]}

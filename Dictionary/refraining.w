@@ -1,1 +1,0 @@
-{"index": 265348, "D": "to abstain from an impulse to say or do something (often followed by from)", "S": ["chastity ", "fasting ", "frugality ", "moderation ", "self-restraint "], "A": ["drunkenness ", "excess ", "indulgence ", "intemperance ", "intoxication ", "revelry ", "self-indulgence "]}

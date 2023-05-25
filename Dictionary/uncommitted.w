@@ -1,1 +1,1 @@
-{"index": 337309, "D": "not committed, especially not pledged or bound to a specific cause, candidate, or course of action", "S": ["neutral ", "unaffiliated ", "uninvolved "], "A": ["aligned ", "attached ", "committed ", "involved ", "united "]}
+{"index": 337309, "D": "not committed, especially not pledged or bound to a specific cause, candidate, or course of action", "S": ["neutral", "unaffiliated", "uninvolved"], "A": ["aligned", "attached", "committed", "involved", "united"]}

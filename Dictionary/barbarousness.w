@@ -1,1 +1,1 @@
-{"index": 27737, "D": "uncivilized; wild; savage; crude.", "S": ["atrocity ", "barbarity ", "depravity ", "evilness ", "heinousness ", "vileness ", "wickedness "], "A": ["kindness "]}
+{"index": 27737, "D": "uncivilized; wild; savage; crude.", "S": ["atrocity", "barbarity", "depravity", "evilness", "heinousness", "vileness", "wickedness"], "A": ["kindness"]}

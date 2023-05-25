@@ -1,1 +1,1 @@
-{"index": 234152, "D": "of or relating to physiology. ", "S": ["corporal ", "corporeal ", "physical "], "A": ["cerebral ", "psychological "]}
+{"index": 234152, "D": "of or relating to physiology. ", "S": ["corporal", "corporeal", "physical"], "A": ["cerebral", "psychological"]}

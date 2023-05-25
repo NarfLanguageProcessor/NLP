@@ -1,1 +1,1 @@
-{"index": 151526, "D": "incapable of being evaded; inescapable", "S": ["automatically ", "naturally ", "no doubt ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "questionably "]}
+{"index": 151526, "D": "incapable of being evaded; inescapable", "S": ["automatically", "naturally", "no doubt", "undoubtedly", "unquestionably"], "A": ["doubtfully", "questionably"]}

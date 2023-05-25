@@ -1,1 +1,1 @@
-{"index": 114959, "D": "a gaudily dressed, usually immoral or sexually promiscuous woman (now often used facetiously).", "S": ["bimbo ", "doxy ", "hooker ", "moll ", "nympho ", "prostitute ", "tramp ", "whore "], "A": []}
+{"index": 114959, "D": "a gaudily dressed, usually immoral or sexually promiscuous woman (now often used facetiously).", "S": ["bimbo", "doxy", "hooker", "moll", "nympho", "prostitute", "tramp", "whore"], "A": []}

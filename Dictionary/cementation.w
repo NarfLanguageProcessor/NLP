@@ -1,1 +1,1 @@
-{"index": 50679, "D": "the act, process, or result of cementing. ", "S": ["consistency ", "continuity ", "integrity ", "rationality ", "solidarity ", "unity "], "A": ["difference ", "disagreement ", "discord ", "divorce ", "nonconformity "]}
+{"index": 50679, "D": "the act, process, or result of cementing. ", "S": ["consistency", "continuity", "integrity", "rationality", "solidarity", "unity"], "A": ["difference", "disagreement", "discord", "divorce", "nonconformity"]}

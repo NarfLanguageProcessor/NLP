@@ -1,1 +1,0 @@
-{"index": 333333, "D": "the soft, diffused light  from the sky when the sun is below the horizon, either from daybreak to sunrise or, more commonly, from sunset to nightfall.", "S": ["dusk ", "sunset "], "A": ["dawn ", "daybreak ", "sunrise "]}

@@ -1,1 +1,1 @@
-{"index": 81110, "D": "held or declared to be untrue", "S": ["banned ", "blocked ", "dismissed ", "disowned ", "forbidden ", "forsaken ", "prohibited ", "rebuffed ", "rejected ", "repelled ", "repudiated ", "spurned ", "vetoed "], "A": ["allowed ", "permitted "]}
+{"index": 81110, "D": "held or declared to be untrue", "S": ["banned", "blocked", "dismissed", "disowned", "forbidden", "forsaken", "prohibited", "rebuffed", "rejected", "repelled", "repudiated", "spurned", "vetoed"], "A": ["allowed", "permitted"]}

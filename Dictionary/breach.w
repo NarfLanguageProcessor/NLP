@@ -1,1 +1,1 @@
-{"index": 40180, "D": "the act or a result of breaking; break or rupture.", "S": ["crack ", "rift ", "rupture "], "A": ["agreement ", "closing ", "closure ", "juncture ", "misfortune ", "solid "]}
+{"index": 40180, "D": "the act or a result of breaking; break or rupture.", "S": ["crack", "rift", "rupture"], "A": ["agreement", "closing", "closure", "juncture", "misfortune", "solid"]}

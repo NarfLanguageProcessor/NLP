@@ -1,1 +1,1 @@
-{"index": 226552, "D": "equality, as in amount, status, or character.", "S": ["consistency ", "uniformity ", "unity "], "A": ["variation ", "difference ", "disagreement ", "dissimilarity ", "unlikeness "]}
+{"index": 226552, "D": "equality, as in amount, status, or character.", "S": ["consistency", "uniformity", "unity"], "A": ["variation", "difference", "disagreement", "dissimilarity", "unlikeness"]}

@@ -1,1 +1,1 @@
-{"index": 240400, "D": "the system of pipes and other apparatus for conveying water, liquid wastes, etc., as in a building.", "S": ["housewares "], "A": []}
+{"index": 240400, "D": "the system of pipes and other apparatus for conveying water, liquid wastes, etc., as in a building.", "S": ["housewares"], "A": []}

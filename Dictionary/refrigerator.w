@@ -1,1 +1,1 @@
-{"index": 265396, "D": "a box, room, or cabinet in which food, drink, etc., are kept cool by means of ice or mechanical refrigeration. ", "S": ["cooler "], "A": []}
+{"index": 265396, "D": "a box, room, or cabinet in which food, drink, etc., are kept cool by means of ice or mechanical refrigeration. ", "S": ["cooler"], "A": []}

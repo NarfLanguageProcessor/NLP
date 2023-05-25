@@ -1,1 +1,1 @@
-{"index": 111159, "D": "the quality of being feminine;  womanliness.", "S": ["gentleness ", "womanhood "], "A": ["maleness ", "masculinity "]}
+{"index": 111159, "D": "the quality of being feminine;  womanliness.", "S": ["gentleness", "womanhood"], "A": ["maleness", "masculinity"]}

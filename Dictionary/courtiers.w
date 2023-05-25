@@ -1,1 +1,1 @@
-{"index": 71358, "D": "a person who is often in attendance at the court of a king or other royal personage.", "S": ["retinue "], "A": ["leader "]}
+{"index": 71358, "D": "a person who is often in attendance at the court of a king or other royal personage.", "S": ["retinue"], "A": ["leader"]}

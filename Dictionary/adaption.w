@@ -1,0 +1,1 @@
+{"index": 3469, "D": "another word for adaptation", "S": ["accommodation", "adjustment", "alteration", "conversion", "modification", "revision"], "A": []}

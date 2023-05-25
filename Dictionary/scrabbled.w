@@ -1,1 +1,1 @@
-{"index": 281499, "D": "to scratch or scrape, as with the claws or hands.", "S": ["clamber ", "climb ", "contend ", "crawl ", "jostle ", "push ", "rush ", "scurry ", "vie "], "A": ["retreat ", "rest ", "stay ", "stop "]}
+{"index": 281499, "D": "to scratch or scrape, as with the claws or hands.", "S": ["clamber", "climb", "contend", "crawl", "jostle", "push", "rush", "scurry", "vie"], "A": ["retreat", "rest", "stay", "stop"]}

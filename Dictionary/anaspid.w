@@ -1,0 +1,1 @@
+{"index": 12004, "D": "any member of an extinct order, Anaspida, of small, freshwater jawless fishes of the Silurian and Devonian periods, characterized by a single nostril, narrow rows of scales, and, usually, an armor-plated head.", "S": [], "A": []}

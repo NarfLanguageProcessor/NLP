@@ -1,1 +1,1 @@
-{"index": 303050, "D": "any of various gold or silver or electrum coin units or coins of the ancient Greek states  or cities.", "S": ["civil ", "communal ", "domestic ", "ethnic ", "governmental ", "internal ", "interstate ", "nationwide ", "public ", "social "], "A": ["private "]}
+{"index": 303050, "D": "any of various gold or silver or electrum coin units or coins of the ancient Greek states  or cities.", "S": ["civil", "communal", "domestic", "ethnic", "governmental", "internal", "interstate", "nationwide", "public", "social"], "A": ["private"]}

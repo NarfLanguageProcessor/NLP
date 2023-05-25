@@ -1,1 +1,1 @@
-{"index": 366592, "D": "to draw back, away, or aside; take back; remove", "S": ["humble "], "A": ["higher ", "lofty ", "noble ", "pretentious ", "superior "]}
+{"index": 366592, "D": "to draw back, away, or aside; take back; remove", "S": ["humble"], "A": ["higher", "lofty", "noble", "pretentious", "superior"]}

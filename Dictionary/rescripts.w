@@ -1,1 +1,1 @@
-{"index": 269076, "D": "a written answer, as of a Roman emperor or a pope, to a query or petition in writing.", "S": ["alteration ", "amendment ", "improvement ", "modification ", "reconsideration ", "reexamination ", "review "], "A": ["worsening "]}
+{"index": 269076, "D": "a written answer, as of a Roman emperor or a pope, to a query or petition in writing.", "S": ["alteration", "amendment", "improvement", "modification", "reconsideration", "reexamination", "review"], "A": ["worsening"]}

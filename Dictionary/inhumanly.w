@@ -1,1 +1,1 @@
-{"index": 152733, "D": "lacking qualities of sympathy, pity, warmth, compassion, or the like; cruel; brutal", "S": ["ferociously ", "fiercely ", "mercilessly ", "relentlessly ", "ruthlessly ", "savagely ", "viciously "], "A": ["gently ", "humanely ", "kindly ", "nicely "]}
+{"index": 152733, "D": "lacking qualities of sympathy, pity, warmth, compassion, or the like; cruel; brutal", "S": ["ferociously", "fiercely", "mercilessly", "relentlessly", "ruthlessly", "savagely", "viciously"], "A": ["gently", "humanely", "kindly", "nicely"]}

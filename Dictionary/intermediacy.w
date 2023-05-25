@@ -1,1 +1,1 @@
-{"index": 155314, "D": "the state of being intermediate  or of acting intermediately.", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 155314, "D": "the state of being intermediate  or of acting intermediately.", "S": ["heart", "hub", "place"], "A": ["exterior", "exteriority", "outside"]}

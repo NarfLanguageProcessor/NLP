@@ -1,1 +1,1 @@
-{"index": 109496, "D": "liability to be deceived or mistaken", "S": ["frailty "], "A": []}
+{"index": 109496, "D": "liability to be deceived or mistaken", "S": ["frailty"], "A": []}

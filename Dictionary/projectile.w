@@ -1,1 +1,1 @@
-{"index": 252007, "D": "an object fired from a gun with an explosive propelling charge, such as a bullet, shell, rocket, or grenade.", "S": ["missile ", "rocket "], "A": []}
+{"index": 252007, "D": "an object fired from a gun with an explosive propelling charge, such as a bullet, shell, rocket, or grenade.", "S": ["missile", "rocket"], "A": []}

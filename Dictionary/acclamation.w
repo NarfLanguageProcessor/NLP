@@ -1,1 +1,1 @@
-{"index": 1586, "D": "a loud shout or other demonstration of welcome, goodwill, or approval.", "S": ["ovation ", "salutation "], "A": ["criticism ", "silence "]}
+{"index": 1586, "D": "a loud shout or other demonstration of welcome, goodwill, or approval.", "S": ["ovation", "salutation"], "A": ["criticism", "silence"]}

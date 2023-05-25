@@ -1,1 +1,1 @@
-{"index": 220927, "D": "to rove over (a country, region, etc.); invade; ravage", "S": ["avalanche ", "barrage ", "cataclysm ", "inundation ", "spate ", "torrent "], "A": []}
+{"index": 220927, "D": "to rove over (a country, region, etc.); invade; ravage", "S": ["avalanche", "barrage", "cataclysm", "inundation", "spate", "torrent"], "A": []}

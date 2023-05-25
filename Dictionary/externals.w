@@ -1,1 +1,1 @@
-{"index": 108313, "D": "of or relating to the outside or outer part; outer", "S": ["coating ", "facade ", "skin ", "surface "], "A": ["core ", "interior ", "middle ", "center ", "inside "]}
+{"index": 108313, "D": "of or relating to the outside or outer part; outer", "S": ["coating", "facade", "skin", "surface"], "A": ["core", "interior", "middle", "center", "inside"]}

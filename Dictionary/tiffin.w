@@ -1,1 +1,1 @@
-{"index": 323415, "D": "a light midday meal; lunch ", "S": ["light meal "], "A": []}
+{"index": 323415, "D": "a light midday meal; lunch ", "S": ["light meal"], "A": []}

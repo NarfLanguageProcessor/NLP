@@ -1,1 +1,1 @@
-{"index": 93341, "D": "a sheet of cloth, paper, plastic, or the like laid over furniture and floors for protection while a room is being painted or laid over shrubbery while the exterior of a house is being painted.", "S": ["canvas ", "coat ", "cover ", "oilcloth ", "sailcloth "], "A": []}
+{"index": 93341, "D": "a sheet of cloth, paper, plastic, or the like laid over furniture and floors for protection while a room is being painted or laid over shrubbery while the exterior of a house is being painted.", "S": ["canvas", "coat", "cover", "oilcloth", "sailcloth"], "A": []}

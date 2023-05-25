@@ -1,1 +1,1 @@
-{"index": 127359, "D": "the quality or practice of conforming to the laws and wishes of God; devoutness and moral uprightness", "S": ["piety ", "sanctity ", "virtue "], "A": []}
+{"index": 127359, "D": "the quality or practice of conforming to the laws and wishes of God; devoutness and moral uprightness", "S": ["piety", "sanctity", "virtue"], "A": []}

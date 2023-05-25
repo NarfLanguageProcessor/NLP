@@ -1,1 +1,1 @@
-{"index": 101625, "D": "to go aboard a train. ", "S": ["appropriated ", "booked "], "A": ["avoidable "]}
+{"index": 101625, "D": "to go aboard a train. ", "S": ["appropriated", "booked"], "A": ["avoidable"]}

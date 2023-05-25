@@ -1,1 +1,1 @@
-{"index": 187269, "D": "a factory for certain kinds of manufacture, as paper, steel, or textiles.", "S": ["foundry ", "plant ", "shop "], "A": []}
+{"index": 187269, "D": "a factory for certain kinds of manufacture, as paper, steel, or textiles.", "S": ["foundry", "plant", "shop"], "A": []}

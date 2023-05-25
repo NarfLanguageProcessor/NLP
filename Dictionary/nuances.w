@@ -1,1 +1,1 @@
-{"index": 209255, "D": "a subtle difference or distinction in expression, meaning, response, etc.", "S": ["distinction ", "gradation ", "hint ", "implication ", "nicety ", "refinement ", "subtlety "], "A": ["brightness ", "information ", "light ", "lot "]}
+{"index": 209255, "D": "a subtle difference or distinction in expression, meaning, response, etc.", "S": ["distinction", "gradation", "hint", "implication", "nicety", "refinement", "subtlety"], "A": ["brightness", "information", "light", "lot"]}

@@ -1,1 +1,1 @@
-{"index": 232067, "D": "able, fitted, or intended to persuade", "S": ["adequately ", "completely ", "definitely ", "dramatically ", "energetically ", "finally ", "forcefully ", "productively "], "A": ["doubtfully ", "dubiously "]}
+{"index": 232067, "D": "able, fitted, or intended to persuade", "S": ["adequately", "completely", "definitely", "dramatically", "energetically", "finally", "forcefully", "productively"], "A": ["doubtfully", "dubiously"]}

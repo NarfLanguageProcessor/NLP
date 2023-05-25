@@ -1,1 +1,1 @@
-{"index": 290156, "D": "important and deserving of attention; of consequence", "S": ["indicator ", "ratio "], "A": []}
+{"index": 290156, "D": "important and deserving of attention; of consequence", "S": ["indicator", "ratio"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 70009, "D": "a powder, lotion, lipstick, rouge, or other preparation for beautifying the face, skin, hair, nails, etc.", "S": ["corrective ", "superficial "], "A": []}
+{"index": 70009, "D": "a powder, lotion, lipstick, rouge, or other preparation for beautifying the face, skin, hair, nails, etc.", "S": ["corrective", "superficial"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 194531, "D": "any of various, usually liquid, preparations of gum, glue, or the like, used as an adhesive.", "S": ["adhesive ", "glue ", "gum ", "paste ", "substance "], "A": []}
+{"index": 194531, "D": "any of various, usually liquid, preparations of gum, glue, or the like, used as an adhesive.", "S": ["adhesive", "glue", "gum", "paste", "substance"], "A": []}

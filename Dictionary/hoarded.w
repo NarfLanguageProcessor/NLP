@@ -1,1 +1,1 @@
-{"index": 142028, "D": "a supply or accumulation that is hidden or carefully guarded for preservation, future use, etc.", "S": ["concerted ", "corporate ", "cumulative ", "mutual ", "shared ", "unified "], "A": ["separate ", "unshared ", "disjoint "]}
+{"index": 142028, "D": "a supply or accumulation that is hidden or carefully guarded for preservation, future use, etc.", "S": ["concerted", "corporate", "cumulative", "mutual", "shared", "unified"], "A": ["separate", "unshared", "disjoint"]}

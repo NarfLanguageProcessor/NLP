@@ -1,1 +1,0 @@
-{"index": 252842, "D": "conformity to established standards of good or proper behavior or manners.", "S": ["correctness ", "decorum ", "legitimacy ", "morality ", "rectitude ", "respectability ", "suitability "], "A": ["dishonesty ", "disagreement ", "discord ", "incompatibility ", "lawlessness ", "unsuitability "]}

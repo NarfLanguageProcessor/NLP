@@ -1,1 +1,1 @@
-{"index": 251498, "D": "to obtain or get by care, effort, or the use of special means", "S": ["acquiring ", "gaining "], "A": []}
+{"index": 251498, "D": "to obtain or get by care, effort, or the use of special means", "S": ["acquiring", "gaining"], "A": []}

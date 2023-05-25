@@ -1,1 +1,1 @@
-{"index": 245238, "D": "a devout petition to God or an object of worship.", "S": ["Book of Common Prayer ", "Mass book ", "breviary ", "canon ", "lectionary ", "missal book ", "psalmbook ", "psalter ", "scripture "], "A": []}
+{"index": 245238, "D": "a devout petition to God or an object of worship.", "S": ["Book of Common Prayer", "Mass book", "breviary", "canon", "lectionary", "missal book", "psalmbook", "psalter", "scripture"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 266729, "D": "to fall or slip back into a former state, practice, etc.", "S": ["receding "], "A": ["dominant ", "overbalancing ", "prevailing "]}
+{"index": 266729, "D": "to fall or slip back into a former state, practice, etc.", "S": ["receding"], "A": ["dominant", "overbalancing", "prevailing"]}

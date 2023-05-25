@@ -1,1 +1,1 @@
-{"index": 308297, "D": "the state or quality of being subjective; subjectiveness. ", "S": ["individuality "], "A": ["detachment ", "impartiality ", "neutrality ", "objectivity "]}
+{"index": 308297, "D": "the state or quality of being subjective; subjectiveness. ", "S": ["individuality"], "A": ["detachment", "impartiality", "neutrality", "objectivity"]}

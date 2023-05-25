@@ -1,0 +1,1 @@
+{"index": 8069, "D": "of or relating to Algeria  or its inhabitants.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 52195, "D": "offering a challenge;  testing one's ability, endurance, etc", "S": ["arduous ", "bold ", "demanding ", "difficult ", "energetic ", "grandiose ", "impressive ", "visionary "], "A": ["calm ", "easy ", "facile ", "weak "]}
+{"index": 52195, "D": "offering a challenge;  testing one's ability, endurance, etc", "S": ["arduous", "bold", "demanding", "difficult", "energetic", "grandiose", "impressive", "visionary"], "A": ["calm", "easy", "facile", "weak"]}

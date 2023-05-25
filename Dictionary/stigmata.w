@@ -1,1 +1,1 @@
-{"index": 304399, "D": "a mark of disgrace or infamy; a stain or reproach, as on one's reputation.", "S": ["scar ", "stain "], "A": ["approval ", "benefit ", "esteem ", "exaltation ", "honor ", "praise ", "respect "]}
+{"index": 304399, "D": "a mark of disgrace or infamy; a stain or reproach, as on one's reputation.", "S": ["scar", "stain"], "A": ["approval", "benefit", "esteem", "exaltation", "honor", "praise", "respect"]}

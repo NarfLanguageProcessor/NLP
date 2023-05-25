@@ -1,1 +1,1 @@
-{"index": 311026, "D": "to take a sunbath.", "S": ["laze ", "loll ", "lounge ", "relax "], "A": ["cover ", "hide "]}
+{"index": 311026, "D": "to take a sunbath.", "S": ["laze", "loll", "lounge", "relax"], "A": ["cover", "hide"]}

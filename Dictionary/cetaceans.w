@@ -1,1 +1,1 @@
-{"index": 51758, "D": "belonging to the Cetacea, an order of aquatic, chiefly marine mammals, including the whales and dolphins.", "S": ["beluga ", "dolphin ", "grampus ", "mammal ", "narwal ", "orca ", "porpoise ", "whale "], "A": []}
+{"index": 51758, "D": "belonging to the Cetacea, an order of aquatic, chiefly marine mammals, including the whales and dolphins.", "S": ["beluga", "dolphin", "grampus", "mammal", "narwal", "orca", "porpoise", "whale"], "A": []}

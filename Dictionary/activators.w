@@ -1,1 +1,1 @@
-{"index": 3253, "D": "a person or thing that activates. ", "S": ["catalyst "], "A": []}
+{"index": 3253, "D": "a person or thing that activates. ", "S": ["catalyst"], "A": []}

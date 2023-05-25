@@ -1,1 +1,1 @@
-{"index": 262614, "D": "to capture  again; recover by capture;  retake.", "S": ["reclaim ", "recover ", "retake ", "take back "], "A": ["forget "]}
+{"index": 262614, "D": "to capture  again; recover by capture;  retake.", "S": ["reclaim", "recover", "retake", "take back"], "A": ["forget"]}

@@ -1,1 +1,1 @@
-{"index": 131389, "D": "three-gunned", "S": ["haul ", "lug ", "ride ", "tote "], "A": ["refuse ", "stay "]}
+{"index": 131389, "D": "three-gunned", "S": ["haul", "lug", "ride", "tote"], "A": ["refuse", "stay"]}

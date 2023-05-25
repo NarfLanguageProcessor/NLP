@@ -1,1 +1,1 @@
-{"index": 256574, "D": "marked with points or dots; having minute spots or depressions.", "S": ["stippled "], "A": []}
+{"index": 256574, "D": "marked with points or dots; having minute spots or depressions.", "S": ["stippled"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 176714, "D": "a clublike armor-breaking weapon of war, often with a flanged or spiked metal head, used chiefly in the Middle Ages.", "S": ["baton "], "A": []}
+{"index": 176714, "D": "a clublike armor-breaking weapon of war, often with a flanged or spiked metal head, used chiefly in the Middle Ages.", "S": ["baton"], "A": []}

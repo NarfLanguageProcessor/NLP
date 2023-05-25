@@ -1,1 +1,1 @@
-{"index": 34459, "D": "ecology (def. 1). ", "S": ["conservation ", "preservation "], "A": ["destruction "]}
+{"index": 34459, "D": "ecology (def. 1). ", "S": ["conservation", "preservation"], "A": ["destruction"]}

@@ -1,1 +1,1 @@
-{"index": 239682, "D": [], "S": ["indigenous ", "vulgar "], "A": ["abnormal ", "different ", "extraordinary ", "refined ", "uncommon "]}
+{"index": 239682, "D": [], "S": ["indigenous", "vulgar"], "A": ["abnormal", "different", "extraordinary", "refined", "uncommon"]}

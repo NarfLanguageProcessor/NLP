@@ -1,1 +1,1 @@
-{"index": 143358, "D": "a sweet, viscid fluid produced by bees from the nectar collected from flowers, and stored in nests or hives as food.", "S": ["alveolate ", "faveolate ", "melliferous ", "nectariferous ", "nectarous "], "A": []}
+{"index": 143358, "D": "a sweet, viscid fluid produced by bees from the nectar collected from flowers, and stored in nests or hives as food.", "S": ["alveolate", "faveolate", "melliferous", "nectariferous", "nectarous"], "A": []}

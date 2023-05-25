@@ -1,1 +1,1 @@
-{"index": 59620, "D": "free from wrongdoing; guiltless.", "S": ["honest ", "legitimate ", "pure ", "uninvolved ", "virtuous "], "A": ["guilty ", "immoral ", "sinful ", "stained ", "unvirtuous "]}
+{"index": 59620, "D": "free from wrongdoing; guiltless.", "S": ["honest", "legitimate", "pure", "uninvolved", "virtuous"], "A": ["guilty", "immoral", "sinful", "stained", "unvirtuous"]}

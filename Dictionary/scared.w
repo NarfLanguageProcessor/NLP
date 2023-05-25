@@ -1,1 +1,1 @@
-{"index": 279731, "D": "filled with fear, terror, or dread, often suddenly; frightened;  alarmed", "S": ["afraid ", "anxious ", "fearful ", "panicked ", "panicky ", "startled "], "A": ["bold ", "brave ", "cool ", "courageous ", "happy ", "unafraid "]}
+{"index": 279731, "D": "filled with fear, terror, or dread, often suddenly; frightened;  alarmed", "S": ["afraid", "anxious", "fearful", "panicked", "panicky", "startled"], "A": ["bold", "brave", "cool", "courageous", "happy", "unafraid"]}

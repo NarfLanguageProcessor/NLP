@@ -1,1 +1,1 @@
-{"index": 116378, "D": "grim; unfriendly; hostile; sinister", "S": ["frightening ", "grim ", "menacing ", "off-putting ", "sinister ", "threatening "], "A": ["nice ", "agreeable ", "gentle ", "kind "]}
+{"index": 116378, "D": "grim; unfriendly; hostile; sinister", "S": ["frightening", "grim", "menacing", "off-putting", "sinister", "threatening"], "A": ["nice", "agreeable", "gentle", "kind"]}

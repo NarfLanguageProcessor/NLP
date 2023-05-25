@@ -1,1 +1,0 @@
-{"index": 170826, "D": "an arcade or other public place in ancient Greece.", "S": [], "A": []}

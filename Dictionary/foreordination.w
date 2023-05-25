@@ -1,1 +1,1 @@
-{"index": 116837, "D": "previous ordination  or appointment.", "S": ["circumstance ", "future ", "inevitability ", "intention ", "objective ", "prospect "], "A": ["concept ", "continuity ", "misfortune ", "theory ", "whole "]}
+{"index": 116837, "D": "previous ordination  or appointment.", "S": ["circumstance", "future", "inevitability", "intention", "objective", "prospect"], "A": ["concept", "continuity", "misfortune", "theory", "whole"]}

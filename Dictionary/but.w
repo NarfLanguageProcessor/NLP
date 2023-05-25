@@ -1,1 +1,1 @@
-{"index": 43551, "D": "on the contrary; yet", "S": ["although ", "however ", "nevertheless ", "on the other hand ", "still ", "though ", "yet "], "A": []}
+{"index": 43551, "D": "on the contrary; yet", "S": ["although", "however", "nevertheless", "on the other hand", "still", "though", "yet"], "A": []}

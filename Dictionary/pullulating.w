@@ -1,1 +1,1 @@
-{"index": 256288, "D": "to send forth sprouts, buds, etc.; germinate; sprout.", "S": ["burgeoning ", "fledgling ", "growing ", "incipient ", "nascent ", "promising "], "A": ["dying ", "shrinking ", "withering "]}
+{"index": 256288, "D": "to send forth sprouts, buds, etc.; germinate; sprout.", "S": ["burgeoning", "fledgling", "growing", "incipient", "nascent", "promising"], "A": ["dying", "shrinking", "withering"]}

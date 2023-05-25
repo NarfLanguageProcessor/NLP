@@ -1,1 +1,1 @@
-{"index": 78985, "D": "extending far down from the top or surface", "S": ["broad ", "buried ", "deep-seated ", "far ", "profound ", "rooted ", "wide "], "A": ["shallow ", "superficial "]}
+{"index": 78985, "D": "extending far down from the top or surface", "S": ["broad", "buried", "deep-seated", "far", "profound", "rooted", "wide"], "A": ["shallow", "superficial"]}

@@ -1,1 +1,1 @@
-{"index": 66749, "D": "following as an effect or result; resulting (often followed by on, upon, or to)", "S": ["ensuing ", "indirect ", "subsequent "], "A": ["beginning ", "causal ", "commencing ", "originating ", "preparatory ", "starting "]}
+{"index": 66749, "D": "following as an effect or result; resulting (often followed by on, upon, or to)", "S": ["ensuing", "indirect", "subsequent"], "A": ["beginning", "causal", "commencing", "originating", "preparatory", "starting"]}

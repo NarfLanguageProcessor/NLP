@@ -1,1 +1,1 @@
-{"index": 104530, "D": "absolutely necessary; indispensable", "S": ["being ", "embodiment ", "heart ", "importance ", "meaning ", "nature ", "quintessence ", "significance ", "substance "], "A": ["insignificance "]}
+{"index": 104530, "D": "absolutely necessary; indispensable", "S": ["being", "embodiment", "heart", "importance", "meaning", "nature", "quintessence", "significance", "substance"], "A": ["insignificance"]}

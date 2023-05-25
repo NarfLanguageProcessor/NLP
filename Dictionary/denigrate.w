@@ -1,1 +1,1 @@
-{"index": 81117, "D": "to speak damagingly of; criticize in a derogatory manner; sully; defame", "S": ["besmirch ", "defame ", "disparage ", "impugn ", "slander ", "vilify "], "A": ["approve ", "commend ", "compliment ", "flatter ", "praise ", "laud "]}
+{"index": 81117, "D": "to speak damagingly of; criticize in a derogatory manner; sully; defame", "S": ["besmirch", "defame", "disparage", "impugn", "slander", "vilify"], "A": ["approve", "commend", "compliment", "flatter", "praise", "laud"]}

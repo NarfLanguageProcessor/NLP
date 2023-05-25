@@ -1,1 +1,1 @@
-{"index": 295139, "D": "to import or export (goods) secretly, in violation of the law, especially without payment of legal duty.", "S": ["banned ", "bootleg ", "bootlegged ", "contraband ", "forbidden ", "illegal ", "illicit ", "outlawed ", "prohibited ", "proscribed "], "A": []}
+{"index": 295139, "D": "to import or export (goods) secretly, in violation of the law, especially without payment of legal duty.", "S": ["banned", "bootleg", "bootlegged", "contraband", "forbidden", "illegal", "illicit", "outlawed", "prohibited", "proscribed"], "A": []}

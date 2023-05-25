@@ -1,1 +1,1 @@
-{"index": 173868, "D": "objects strewn or scattered about; scattered rubbish.", "S": ["chaotic ", "confused ", "sloppy "], "A": ["ordered ", "organized ", "systematic "]}
+{"index": 173868, "D": "objects strewn or scattered about; scattered rubbish.", "S": ["chaotic", "confused", "sloppy"], "A": ["ordered", "organized", "systematic"]}

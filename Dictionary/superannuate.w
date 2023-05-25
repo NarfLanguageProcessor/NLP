@@ -1,1 +1,1 @@
-{"index": 311367, "D": "to allow to retire from service or office on a pension because of age or infirmity.", "S": ["date "], "A": []}
+{"index": 311367, "D": "to allow to retire from service or office on a pension because of age or infirmity.", "S": ["date"], "A": []}

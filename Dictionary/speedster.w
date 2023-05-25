@@ -1,1 +1,1 @@
-{"index": 299035, "D": "a person who travels at high speed. ", "S": ["stock car "], "A": []}
+{"index": 299035, "D": "a person who travels at high speed. ", "S": ["stock car"], "A": []}

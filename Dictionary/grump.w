@@ -1,1 +1,1 @@
-{"index": 130570, "D": "a person given to constant complaining.", "S": ["bear ", "complainer ", "crab ", "curmudgeon ", "grouch ", "malcontent ", "sorehead ", "sourpuss ", "whiner "], "A": []}
+{"index": 130570, "D": "a person given to constant complaining.", "S": ["bear", "complainer", "crab", "curmudgeon", "grouch", "malcontent", "sorehead", "sourpuss", "whiner"], "A": []}

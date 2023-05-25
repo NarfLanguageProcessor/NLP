@@ -1,1 +1,1 @@
-{"index": 302572, "D": "the pollen-bearing organ of a flower, consisting of the filament and the anther.", "S": ["cord ", "cotton ", "filament ", "silk ", "strand ", "string ", "wire ", "wool ", "yarn "], "A": []}
+{"index": 302572, "D": "the pollen-bearing organ of a flower, consisting of the filament and the anther.", "S": ["cord", "cotton", "filament", "silk", "strand", "string", "wire", "wool", "yarn"], "A": []}

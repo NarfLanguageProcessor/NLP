@@ -1,1 +1,1 @@
-{"index": 295896, "D": "a past participle and simple past tense of sneak. ", "S": ["ambush ", "crawl ", "creep ", "evade ", "hide ", "slink ", "slip ", "slither ", "smuggle ", "steal "], "A": ["come out "]}
+{"index": 295896, "D": "a past participle and simple past tense of sneak. ", "S": ["ambush", "crawl", "creep", "evade", "hide", "slink", "slip", "slither", "smuggle", "steal"], "A": ["come out"]}

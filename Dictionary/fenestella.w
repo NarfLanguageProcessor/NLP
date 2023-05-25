@@ -1,1 +1,1 @@
-{"index": 111239, "D": "a small aperture in the front of an altar, containing relics", "S": ["aperture ", "casement ", "dormer ", "fanlight ", "fenestra ", "jalousie ", "lancet ", "lunette ", "oriel ", "porthole ", "skylight "], "A": []}
+{"index": 111239, "D": "a small aperture in the front of an altar, containing relics", "S": ["aperture", "casement", "dormer", "fanlight", "fenestra", "jalousie", "lancet", "lunette", "oriel", "porthole", "skylight"], "A": []}

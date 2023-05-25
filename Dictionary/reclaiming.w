@@ -1,1 +1,1 @@
-{"index": 262960, "D": "to bring (uncultivated areas or wasteland) into a condition for cultivation or other use.", "S": ["convert ", "recover ", "rescue ", "restore ", "salvage "], "A": ["harm ", "hurt ", "injure ", "lose "]}
+{"index": 262960, "D": "to bring (uncultivated areas or wasteland) into a condition for cultivation or other use.", "S": ["convert", "recover", "rescue", "restore", "salvage"], "A": ["harm", "hurt", "injure", "lose"]}

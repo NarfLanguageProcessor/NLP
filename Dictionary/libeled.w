@@ -1,1 +1,1 @@
-{"index": 171443, "D": "a formal written declaration or statement, as one containing the allegations of a plaintiff or the grounds of a charge.", "S": ["defamation "], "A": ["compliment ", "praise "]}
+{"index": 171443, "D": "a formal written declaration or statement, as one containing the allegations of a plaintiff or the grounds of a charge.", "S": ["defamation"], "A": ["compliment", "praise"]}

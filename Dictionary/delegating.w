@@ -1,1 +1,1 @@
-{"index": 79993, "D": "a person designated to act for or represent another or others; deputy; representative, as in a political convention.", "S": ["accredit ", "assign ", "authorize ", "designate ", "elect "], "A": ["deny ", "reject ", "ignore ", "refuse ", "retract "]}
+{"index": 79993, "D": "a person designated to act for or represent another or others; deputy; representative, as in a political convention.", "S": ["accredit", "assign", "authorize", "designate", "elect"], "A": ["deny", "reject", "ignore", "refuse", "retract"]}

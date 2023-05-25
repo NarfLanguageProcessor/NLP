@@ -1,1 +1,1 @@
-{"index": 275117, "D": "an act or action of a person or thing that rubs. ", "S": ["image ", "model ", "photocopy ", "photograph ", "portrait ", "print ", "replica ", "reproduction ", "transcript ", "type "], "A": ["original ", "difference ", "dissimilarity ", "opposite ", "unlikeness "]}
+{"index": 275117, "D": "an act or action of a person or thing that rubs. ", "S": ["image", "model", "photocopy", "photograph", "portrait", "print", "replica", "reproduction", "transcript", "type"], "A": ["original", "difference", "dissimilarity", "opposite", "unlikeness"]}

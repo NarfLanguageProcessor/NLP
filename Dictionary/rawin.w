@@ -1,1 +1,0 @@
-{"index": 261326, "D": "a method of observation of upper-air winds conducted by means of a weather balloon tracked by radar or a radio direction finder.", "S": [], "A": []}

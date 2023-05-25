@@ -1,1 +1,1 @@
-{"index": 76693, "D": "loose scales formed on the skin and shed from the coat or feathers of various animals, often causing allergic reactions in susceptible persons.", "S": ["dudgeon ", "ire ", "resentment ", "scurf ", "temper ", "wrath "], "A": ["happiness ", "love "]}
+{"index": 76693, "D": "loose scales formed on the skin and shed from the coat or feathers of various animals, often causing allergic reactions in susceptible persons.", "S": ["dudgeon", "ire", "resentment", "scurf", "temper", "wrath"], "A": ["happiness", "love"]}

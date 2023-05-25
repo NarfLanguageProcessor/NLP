@@ -1,1 +1,1 @@
-{"index": 40327, "D": "not phonated; unvoiced; voiceless.", "S": ["exhale ", "inhale ", "sigh "], "A": ["hide ", "secret "]}
+{"index": 40327, "D": "not phonated; unvoiced; voiceless.", "S": ["exhale", "inhale", "sigh"], "A": ["hide", "secret"]}

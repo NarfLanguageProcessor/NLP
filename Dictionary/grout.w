@@ -1,1 +1,1 @@
-{"index": 130378, "D": "a thin, coarse mortar poured into various narrow cavities, as masonry joints or rock fissures, to fill them and consolidate the adjoining objects into a solid mass.", "S": ["adhesive ", "mud ", "plaster ", "sand "], "A": []}
+{"index": 130378, "D": "a thin, coarse mortar poured into various narrow cavities, as masonry joints or rock fissures, to fill them and consolidate the adjoining objects into a solid mass.", "S": ["adhesive", "mud", "plaster", "sand"], "A": []}

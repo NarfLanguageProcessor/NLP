@@ -1,1 +1,1 @@
-{"index": 108311, "D": "of or relating to the outside or outer part; outer", "S": ["apparently ", "clearly ", "evidently ", "on the face of it ", "ostensibly ", "seemingly ", "superficially ", "visibly "], "A": []}
+{"index": 108311, "D": "of or relating to the outside or outer part; outer", "S": ["apparently", "clearly", "evidently", "on the face of it", "ostensibly", "seemingly", "superficially", "visibly"], "A": []}

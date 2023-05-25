@@ -1,1 +1,1 @@
-{"index": 148429, "D": "to drive or urge forward; press on; incite or constrain to action.", "S": ["constrained ", "enslaved ", "obligated ", "restrained "], "A": ["irresolute "]}
+{"index": 148429, "D": "to drive or urge forward; press on; incite or constrain to action.", "S": ["constrained", "enslaved", "obligated", "restrained"], "A": ["irresolute"]}

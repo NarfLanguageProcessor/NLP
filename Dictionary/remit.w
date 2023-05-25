@@ -1,1 +1,1 @@
-{"index": 267351, "D": "to transmit or send (money, a check, etc.) to a person or place, usually in payment.", "S": ["address ", "consign ", "dispatch ", "forward ", "mail ", "pay ", "post ", "route ", "settle ", "ship ", "square ", "transmit "], "A": ["hold ", "keep ", "receive ", "retain "]}
+{"index": 267351, "D": "to transmit or send (money, a check, etc.) to a person or place, usually in payment.", "S": ["address", "consign", "dispatch", "forward", "mail", "pay", "post", "route", "settle", "ship", "square", "transmit"], "A": ["hold", "keep", "receive", "retain"]}

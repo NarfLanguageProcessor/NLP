@@ -1,1 +1,1 @@
-{"index": 126087, "D": "to gather slowly and laboriously, bit by bit.", "S": ["cull ", "deduce ", "extract ", "garner ", "gather ", "learn ", "reap ", "sift "], "A": ["disperse ", "divide ", "plant ", "put in ", "separate ", "spread ", "dissipate ", "refuse ", "reject ", "spend "]}
+{"index": 126087, "D": "to gather slowly and laboriously, bit by bit.", "S": ["cull", "deduce", "extract", "garner", "gather", "learn", "reap", "sift"], "A": ["disperse", "divide", "plant", "put in", "separate", "spread", "dissipate", "refuse", "reject", "spend"]}

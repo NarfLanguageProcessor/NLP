@@ -1,1 +1,1 @@
-{"index": 301456, "D": "foamy; foamlike; frothy.", "S": ["barmy ", "boiling ", "burbling ", "carbonated ", "creamy ", "ebullient ", "effervescent ", "fermented ", "fizzy ", "frothy ", "lathery ", "scummy ", "seething ", "simmering ", "spumous ", "spumy ", "sudsy ", "yeasty "], "A": ["flat "]}
+{"index": 301456, "D": "foamy; foamlike; frothy.", "S": ["barmy", "boiling", "burbling", "carbonated", "creamy", "ebullient", "effervescent", "fermented", "fizzy", "frothy", "lathery", "scummy", "seething", "simmering", "spumous", "spumy", "sudsy", "yeasty"], "A": ["flat"]}

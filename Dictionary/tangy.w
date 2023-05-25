@@ -1,1 +1,1 @@
-{"index": 316047, "D": "having a tang. ", "S": ["appetizing ", "aromatic ", "flavorful ", "peppery ", "piquant ", "pungent ", "salty ", "seasoned ", "sweet ", "tasty ", "zesty "], "A": ["blah ", "bland ", "dull ", "tasteless ", "unappetizing ", "unsavory "]}
+{"index": 316047, "D": "having a tang. ", "S": ["appetizing", "aromatic", "flavorful", "peppery", "piquant", "pungent", "salty", "seasoned", "sweet", "tasty", "zesty"], "A": ["blah", "bland", "dull", "tasteless", "unappetizing", "unsavory"]}

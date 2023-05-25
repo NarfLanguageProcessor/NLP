@@ -1,1 +1,1 @@
-{"index": 192977, "D": "to utter the characteristic deep sound of a cow; low.", "S": ["chatter ", "cheer ", "clamor ", "groan ", "grunt ", "howl ", "outcry ", "roar ", "scream ", "shout ", "shriek ", "wail ", "whine ", "whistle "], "A": ["quiet ", "seriousness ", "silence ", "calm ", "peace "]}
+{"index": 192977, "D": "to utter the characteristic deep sound of a cow; low.", "S": ["chatter", "cheer", "clamor", "groan", "grunt", "howl", "outcry", "roar", "scream", "shout", "shriek", "wail", "whine", "whistle"], "A": ["quiet", "seriousness", "silence", "calm", "peace"]}

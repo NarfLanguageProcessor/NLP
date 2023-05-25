@@ -1,1 +1,1 @@
-{"index": 63957, "D": "presented, mentioned, or praised as worthy of confidence, notice, kindness, etc.; recommended", "S": ["approved ", "backed ", "ratified ", "recommended ", "sanctioned ", "settled ", "supported "], "A": ["disapproved ", "discouraged "]}
+{"index": 63957, "D": "presented, mentioned, or praised as worthy of confidence, notice, kindness, etc.; recommended", "S": ["approved", "backed", "ratified", "recommended", "sanctioned", "settled", "supported"], "A": ["disapproved", "discouraged"]}

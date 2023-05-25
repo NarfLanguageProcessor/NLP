@@ -1,1 +1,1 @@
-{"index": 176022, "D": "any remarkable or outstanding person or thing", "S": ["beauty ", "humdinger ", "killer ", "lulu ", "smash hit ", "something "], "A": []}
+{"index": 176022, "D": "any remarkable or outstanding person or thing", "S": ["beauty", "humdinger", "killer", "lulu", "smash hit", "something"], "A": []}

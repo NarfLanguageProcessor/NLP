@@ -1,1 +1,1 @@
-{"index": 319449, "D": "a set or group of three; triad.", "S": ["ternary ", "third ", "triad ", "trichotomy ", "trilogy ", "trinity ", "trio ", "triplet ", "triplets ", "triplicate ", "triplicity ", "triumvirate ", "trivium ", "troika "], "A": []}
+{"index": 319449, "D": "a set or group of three; triad.", "S": ["ternary", "third", "triad", "trichotomy", "trilogy", "trinity", "trio", "triplet", "triplets", "triplicate", "triplicity", "triumvirate", "trivium", "troika"], "A": []}

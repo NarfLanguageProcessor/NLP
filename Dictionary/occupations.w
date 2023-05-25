@@ -1,1 +1,1 @@
-{"index": 210746, "D": "a person's usual or principal work or business, especially as a means of earning a living; vocation", "S": ["activity ", "affair "], "A": ["avocation ", "entertainment ", "fun ", "pastime ", "recreation ", "unemployment "]}
+{"index": 210746, "D": "a person's usual or principal work or business, especially as a means of earning a living; vocation", "S": ["activity", "affair"], "A": ["avocation", "entertainment", "fun", "pastime", "recreation", "unemployment"]}

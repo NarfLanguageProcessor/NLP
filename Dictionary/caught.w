@@ -1,1 +1,1 @@
-{"index": 49946, "D": "simple past tense and past participle of catch. ", "S": ["arrested ", "captured ", "entangled ", "seized "], "A": []}
+{"index": 49946, "D": "simple past tense and past participle of catch. ", "S": ["arrested", "captured", "entangled", "seized"], "A": []}

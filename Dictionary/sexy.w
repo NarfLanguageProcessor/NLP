@@ -1,1 +1,1 @@
-{"index": 286852, "D": "concerned predominantly or excessively with sex;  risqu\u00e9", "S": ["hot ", "inviting ", "mature ", "provocative ", "racy ", "seductive ", "sensual ", "sensuous "], "A": ["distasteful "]}
+{"index": 286852, "D": "concerned predominantly or excessively with sex;  risqu\u00e9", "S": ["hot", "inviting", "mature", "provocative", "racy", "seductive", "sensual", "sensuous"], "A": ["distasteful"]}

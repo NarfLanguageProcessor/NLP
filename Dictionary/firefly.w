@@ -1,1 +1,1 @@
-{"index": 113162, "D": "any nocturnal beetle of the family Lampyridae, characterized by a soft body with a light-producing organ at the rear of the abdomen.", "S": ["candle fly ", "fire beetle ", "fireworm ", "glowworm ", "lampyrid ", "lantern fly ", "noctiluca "], "A": []}
+{"index": 113162, "D": "any nocturnal beetle of the family Lampyridae, characterized by a soft body with a light-producing organ at the rear of the abdomen.", "S": ["candle fly", "fire beetle", "fireworm", "glowworm", "lampyrid", "lantern fly", "noctiluca"], "A": []}

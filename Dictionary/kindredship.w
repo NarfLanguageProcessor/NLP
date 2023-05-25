@@ -1,1 +1,1 @@
-{"index": 164790, "D": "a person's relatives collectively; kinfolk; kin. ", "S": ["affiliation ", "affinity ", "agnate ", "brotherhood ", "cognate ", "connection ", "filiation ", "kin ", "kindred ", "kinship ", "lineage ", "race ", "sisterhood ", "strain "], "A": []}
+{"index": 164790, "D": "a person's relatives collectively; kinfolk; kin. ", "S": ["affiliation", "affinity", "agnate", "brotherhood", "cognate", "connection", "filiation", "kin", "kindred", "kinship", "lineage", "race", "sisterhood", "strain"], "A": []}

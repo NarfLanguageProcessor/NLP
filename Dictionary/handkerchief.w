@@ -1,1 +1,1 @@
-{"index": 133202, "D": "a small piece of linen, silk, or other fabric, usually square, and used especially for wiping one's nose, eyes, face, etc., or for decorative purposes.", "S": ["bandana ", "scarf "], "A": []}
+{"index": 133202, "D": "a small piece of linen, silk, or other fabric, usually square, and used especially for wiping one's nose, eyes, face, etc., or for decorative purposes.", "S": ["bandana", "scarf"], "A": []}

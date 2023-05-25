@@ -1,1 +1,1 @@
-{"index": 338708, "D": "not characterized by, derived from, or relating to the principles of democracy", "S": ["authoritarian ", "autocratic ", "monolithic ", "oppressive ", "tyrannical "], "A": ["democratic ", "partial "]}
+{"index": 338708, "D": "not characterized by, derived from, or relating to the principles of democracy", "S": ["authoritarian", "autocratic", "monolithic", "oppressive", "tyrannical"], "A": ["democratic", "partial"]}

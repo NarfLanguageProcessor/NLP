@@ -1,1 +1,1 @@
-{"index": 14415, "D": "to compile an anthology. ", "S": ["disparate ", "divergent ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar "]}
+{"index": 14415, "D": "to compile an anthology. ", "S": ["disparate", "divergent", "diverse", "varied"], "A": ["alike", "like", "same", "similar"]}

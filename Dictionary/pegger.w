@@ -1,1 +1,1 @@
-{"index": 229129, "D": [], "S": ["board ", "clapboard ", "frame ", "ligneous ", "log ", "peg ", "plant ", "slab ", "timber ", "timbered ", "woody "], "A": ["bending ", "flexible ", "pliable "]}
+{"index": 229129, "D": [], "S": ["board", "clapboard", "frame", "ligneous", "log", "peg", "plant", "slab", "timber", "timbered", "woody"], "A": ["bending", "flexible", "pliable"]}

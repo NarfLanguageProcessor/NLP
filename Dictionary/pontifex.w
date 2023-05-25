@@ -1,1 +1,1 @@
-{"index": 243066, "D": "a member of the Pontifical College, which was presided over by a chief priest (Pontifex Maximus ).", "S": ["pope "], "A": []}
+{"index": 243066, "D": "a member of the Pontifical College, which was presided over by a chief priest (Pontifex Maximus ).", "S": ["pope"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 221904, "D": "too zealous", "S": ["demonstrative ", "fidgety ", "fiery ", "high-strung ", "hysterical ", "impulsive ", "restless ", "skittish ", "temperamental "], "A": ["calm ", "cold ", "cool ", "laid-back "]}
+{"index": 221904, "D": "too zealous", "S": ["demonstrative", "fidgety", "fiery", "high-strung", "hysterical", "impulsive", "restless", "skittish", "temperamental"], "A": ["calm", "cold", "cool", "laid-back"]}

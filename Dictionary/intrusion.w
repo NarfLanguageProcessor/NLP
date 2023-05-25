@@ -1,1 +1,1 @@
-{"index": 156866, "D": "an act or instance of intruding.", "S": ["encroachment ", "imposition ", "incursion ", "interference ", "intervention ", "invasion "], "A": ["aid ", "help ", "retreat ", "obedience "]}
+{"index": 156866, "D": "an act or instance of intruding.", "S": ["encroachment", "imposition", "incursion", "interference", "intervention", "invasion"], "A": ["aid", "help", "retreat", "obedience"]}

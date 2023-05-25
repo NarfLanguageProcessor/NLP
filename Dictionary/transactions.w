@@ -1,1 +1,1 @@
-{"index": 327671, "D": "the act of transacting  or the fact of being transacted.", "S": ["business ", "commerce ", "sale ", "trade "], "A": []}
+{"index": 327671, "D": "the act of transacting  or the fact of being transacted.", "S": ["business", "commerce", "sale", "trade"], "A": []}

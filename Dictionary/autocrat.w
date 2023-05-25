@@ -1,1 +1,1 @@
-{"index": 23980, "D": "an absolute ruler, especially a monarch who holds and exercises the powers of government as by inherent right, not subject to restrictions.", "S": ["despot ", "fascist ", "tyrant "], "A": []}
+{"index": 23980, "D": "an absolute ruler, especially a monarch who holds and exercises the powers of government as by inherent right, not subject to restrictions.", "S": ["despot", "fascist", "tyrant"], "A": []}

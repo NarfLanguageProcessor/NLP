@@ -1,1 +1,1 @@
-{"index": 96111, "D": "to pour out or forth; shed; disseminate", "S": ["decant ", "diffuse ", "discharge ", "dispense ", "emanate ", "emit ", "gush ", "pour ", "radiate "], "A": ["take "]}
+{"index": 96111, "D": "to pour out or forth; shed; disseminate", "S": ["decant", "diffuse", "discharge", "dispense", "emanate", "emit", "gush", "pour", "radiate"], "A": ["take"]}

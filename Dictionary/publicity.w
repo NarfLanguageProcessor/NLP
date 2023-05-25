@@ -1,1 +1,1 @@
-{"index": 255920, "D": "extensive mention in the news media or by word of mouth or other means of communication.", "S": ["attention ", "clout ", "commercial ", "distribution ", "fame ", "hoopla ", "hype ", "noise ", "notoriety ", "propaganda "], "A": ["obscurity "]}
+{"index": 255920, "D": "extensive mention in the news media or by word of mouth or other means of communication.", "S": ["attention", "clout", "commercial", "distribution", "fame", "hoopla", "hype", "noise", "notoriety", "propaganda"], "A": ["obscurity"]}

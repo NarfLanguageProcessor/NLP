@@ -1,1 +1,1 @@
-{"index": 101763, "D": "an act or manner of enunciating. ", "S": ["articulation ", "elocution ", "fluency ", "phonation ", "phraseology ", "pronunciation ", "utterance ", "vocalization ", "voicing "], "A": []}
+{"index": 101763, "D": "an act or manner of enunciating. ", "S": ["articulation", "elocution", "fluency", "phonation", "phraseology", "pronunciation", "utterance", "vocalization", "voicing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 332275, "D": "a person who performs leaps, somersaults, and other bodily feats.", "S": ["clown ", "dancer ", "gymnast ", "performer "], "A": ["clod "]}
+{"index": 332275, "D": "a person who performs leaps, somersaults, and other bodily feats.", "S": ["clown", "dancer", "gymnast", "performer"], "A": ["clod"]}

@@ -1,1 +1,1 @@
-{"index": 289630, "D": "somewhat sick  or ill.", "S": ["ailing ", "cranky ", "feeble ", "infirm ", "lackluster "], "A": ["healthy ", "hearty ", "sound ", "strong "]}
+{"index": 289630, "D": "somewhat sick  or ill.", "S": ["ailing", "cranky", "feeble", "infirm", "lackluster"], "A": ["healthy", "hearty", "sound", "strong"]}

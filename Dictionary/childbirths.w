@@ -1,1 +1,1 @@
-{"index": 54293, "D": "an act or instance of bringing forth a child;  parturition", "S": ["accouchement ", "childbed ", "confinement ", "delivery ", "labor ", "lying-in ", "nativity ", "parturition ", "procreation ", "propagation ", "reproduction ", "travail "], "A": []}
+{"index": 54293, "D": "an act or instance of bringing forth a child;  parturition", "S": ["accouchement", "childbed", "confinement", "delivery", "labor", "lying-in", "nativity", "parturition", "procreation", "propagation", "reproduction", "travail"], "A": []}

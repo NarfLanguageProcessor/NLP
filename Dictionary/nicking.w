@@ -1,1 +1,1 @@
-{"index": 199649, "D": [], "S": ["cut ", "damage ", "dent ", "dint ", "indent ", "jag ", "knock ", "mark ", "mill ", "notch ", "scar ", "score ", "slit "], "A": ["compliment ", "praise "]}
+{"index": 199649, "D": [], "S": ["cut", "damage", "dent", "dint", "indent", "jag", "knock", "mark", "mill", "notch", "scar", "score", "slit"], "A": ["compliment", "praise"]}

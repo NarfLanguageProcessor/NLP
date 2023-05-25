@@ -1,1 +1,1 @@
-{"index": 221034, "D": "to sell  more of (a stock, product, etc.) than can be delivered.", "S": ["exaggerate ", "magnify ", "overestimate ", "overvalue "], "A": ["play down "]}
+{"index": 221034, "D": "to sell  more of (a stock, product, etc.) than can be delivered.", "S": ["exaggerate", "magnify", "overestimate", "overvalue"], "A": ["play down"]}

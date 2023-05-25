@@ -1,1 +1,1 @@
-{"index": 194016, "D": "exhibiting great diversity of elements", "S": ["disparate ", "kaleidoscopic "], "A": ["single "]}
+{"index": 194016, "D": "exhibiting great diversity of elements", "S": ["disparate", "kaleidoscopic"], "A": ["single"]}

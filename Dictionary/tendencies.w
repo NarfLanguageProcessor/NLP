@@ -1,1 +1,1 @@
-{"index": 318720, "D": "a natural or prevailing disposition to move, proceed, or act in some direction or toward some point, end, or result", "S": ["bias ", "inclination ", "leaning ", "movement ", "shift ", "trend "], "A": []}
+{"index": 318720, "D": "a natural or prevailing disposition to move, proceed, or act in some direction or toward some point, end, or result", "S": ["bias", "inclination", "leaning", "movement", "shift", "trend"], "A": []}

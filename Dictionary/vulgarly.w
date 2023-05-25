@@ -1,1 +1,1 @@
-{"index": 361573, "D": "characterized by ignorance of or lack of good breeding or taste", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}
+{"index": 361573, "D": "characterized by ignorance of or lack of good breeding or taste", "S": ["aloud", "emphatically", "noisily", "powerfully", "vehemently", "vociferously"], "A": ["inaudibly", "quietly", "silently"]}

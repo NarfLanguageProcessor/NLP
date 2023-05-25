@@ -1,1 +1,0 @@
-{"index": 206333, "D": "having or showing foresight; providing  carefully for the future.", "S": [], "A": []}

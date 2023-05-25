@@ -1,1 +1,1 @@
-{"index": 259163, "D": "to repeat (a passage, phrase, etc.) from a book, speech, or the like, as by way of authority, illustration, etc.", "S": ["citation ", "citing ", "cutting ", "excerpt ", "extract ", "passage ", "quote ", "recitation ", "reference ", "saying ", "selection "], "A": []}
+{"index": 259163, "D": "to repeat (a passage, phrase, etc.) from a book, speech, or the like, as by way of authority, illustration, etc.", "S": ["citation", "citing", "cutting", "excerpt", "extract", "passage", "quote", "recitation", "reference", "saying", "selection"], "A": []}

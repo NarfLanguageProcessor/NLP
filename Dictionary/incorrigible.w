@@ -1,1 +1,1 @@
-{"index": 150400, "D": "not corrigible; bad beyond correction or reform", "S": ["hardened "], "A": ["good ", "manageable ", "nice ", "obedient "]}
+{"index": 150400, "D": "not corrigible; bad beyond correction or reform", "S": ["hardened"], "A": ["good", "manageable", "nice", "obedient"]}

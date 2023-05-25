@@ -1,1 +1,0 @@
-{"index": 172845, "D": "a metal weight attached to the cords of a Jacquard harness, for lowering the warp threads after they have been raised and for keeping the harness cords taut.", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 353843, "D": "in a way that involves uncontrolled or destructive force", "S": [], "A": []}

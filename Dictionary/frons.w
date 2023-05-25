@@ -1,1 +1,1 @@
-{"index": 119329, "D": "the upper anterior portion of the head of an insect, above or behind the clypeus.", "S": ["eyebrow "], "A": ["back ", "rear "]}
+{"index": 119329, "D": "the upper anterior portion of the head of an insect, above or behind the clypeus.", "S": ["eyebrow"], "A": ["back", "rear"]}

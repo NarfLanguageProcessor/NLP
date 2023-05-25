@@ -1,1 +1,1 @@
-{"index": 249210, "D": "a presentiment or foreboding.", "S": ["divinatory ", "fatidic ", "fatidical ", "foreshadowing ", "mantic ", "ominous ", "oracular ", "predictive ", "prophetical ", "sibylline ", "telling ", "vatic ", "vatical ", "visionary "], "A": []}
+{"index": 249210, "D": "a presentiment or foreboding.", "S": ["divinatory", "fatidic", "fatidical", "foreshadowing", "mantic", "ominous", "oracular", "predictive", "prophetical", "sibylline", "telling", "vatic", "vatical", "visionary"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 236836, "D": "the ripe, red, mild-flavored fruit of the sweet or bell pepper, Capsicum annuum, used as a vegetable, relish, to stuff olives, etc.", "S": [], "A": []}

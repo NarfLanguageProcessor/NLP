@@ -1,1 +1,1 @@
-{"index": 164917, "D": "either of two books of the Bible, 1 Kings or 2 Kings, which contain the history of the kings of Israel and Judah. Abbreviation", "S": ["emperor ", "monarch ", "sultan "], "A": []}
+{"index": 164917, "D": "either of two books of the Bible, 1 Kings or 2 Kings, which contain the history of the kings of Israel and Judah. Abbreviation", "S": ["emperor", "monarch", "sultan"], "A": []}

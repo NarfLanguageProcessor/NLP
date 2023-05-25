@@ -1,1 +1,1 @@
-{"index": 75832, "D": "an act or instance of cutting off.", "S": ["meantime "], "A": ["continuation ", "continuity "]}
+{"index": 75832, "D": "an act or instance of cutting off.", "S": ["meantime"], "A": ["continuation", "continuity"]}

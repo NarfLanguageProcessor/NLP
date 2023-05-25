@@ -1,1 +1,1 @@
-{"index": 242538, "D": "of, relating to, or concerned with politics", "S": ["bureaucratic ", "civic ", "constitutional ", "economical ", "legislative ", "official "], "A": []}
+{"index": 242538, "D": "of, relating to, or concerned with politics", "S": ["bureaucratic", "civic", "constitutional", "economical", "legislative", "official"], "A": []}

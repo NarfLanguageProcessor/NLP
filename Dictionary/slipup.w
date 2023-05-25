@@ -1,1 +1,1 @@
-{"index": 294226, "D": "a mistake, blunder, or oversight", "S": ["blooper ", "blunder ", "error ", "goof ", "miscalculation ", "miscue ", "misjudgment ", "misstep ", "transgression "], "A": []}
+{"index": 294226, "D": "a mistake, blunder, or oversight", "S": ["blooper", "blunder", "error", "goof", "miscalculation", "miscue", "misjudgment", "misstep", "transgression"], "A": []}

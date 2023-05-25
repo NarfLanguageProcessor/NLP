@@ -1,1 +1,1 @@
-{"index": 331435, "D": "the act or state of being truant. ", "S": ["AWOL ", "cut ", "cutting ", "hooky "], "A": []}
+{"index": 331435, "D": "the act or state of being truant. ", "S": ["AWOL", "cut", "cutting", "hooky"], "A": []}

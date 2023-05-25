@@ -1,1 +1,0 @@
-{"index": 367837, "D": "the covering in which something is wrapped. ", "S": ["coat ", "fur ", "parka ", "sheath ", "tunic "], "A": []}

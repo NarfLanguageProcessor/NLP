@@ -1,1 +1,1 @@
-{"index": 92375, "D": "divining rod. ", "S": ["divining stick ", "doodlebug ", "dowsing rod ", "wand ", "wiggle stick ", "witching stick "], "A": []}
+{"index": 92375, "D": "divining rod. ", "S": ["divining stick", "doodlebug", "dowsing rod", "wand", "wiggle stick", "witching stick"], "A": []}

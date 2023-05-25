@@ -1,1 +1,1 @@
-{"index": 107650, "D": "to speed up the progress of; hasten", "S": ["accelerate ", "assist ", "facilitate ", "hasten ", "promote ", "quicken ", "speed ", "urge "], "A": ["delay ", "hinder ", "hurt ", "retard ", "slow ", "stop ", "halt ", "hold ", "keep ", "wait "]}
+{"index": 107650, "D": "to speed up the progress of; hasten", "S": ["accelerate", "assist", "facilitate", "hasten", "promote", "quicken", "speed", "urge"], "A": ["delay", "hinder", "hurt", "retard", "slow", "stop", "halt", "hold", "keep", "wait"]}

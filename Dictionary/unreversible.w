@@ -1,1 +1,1 @@
-{"index": 349874, "D": "capable of reversing  or of being reversed. ", "S": ["inevitable ", "permanent "], "A": []}
+{"index": 349874, "D": "capable of reversing  or of being reversed. ", "S": ["inevitable", "permanent"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 303143, "D": "like or suggesting a statue,  as in massive or majestic dignity, grace, or beauty.", "S": ["beautiful ", "graceful ", "grand ", "imposing ", "majestic ", "regal ", "shapely ", "stately ", "trim ", "well-proportioned "], "A": ["short ", "small "]}
+{"index": 303143, "D": "like or suggesting a statue,  as in massive or majestic dignity, grace, or beauty.", "S": ["beautiful", "graceful", "grand", "imposing", "majestic", "regal", "shapely", "stately", "trim", "well-proportioned"], "A": ["short", "small"]}

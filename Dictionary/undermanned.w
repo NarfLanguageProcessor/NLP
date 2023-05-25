@@ -1,1 +1,1 @@
-{"index": 339461, "D": "lacking a normal or sufficient workforce, complement of troops, or the like; understaffed; short-handed. ", "S": ["shorthanded "], "A": []}
+{"index": 339461, "D": "lacking a normal or sufficient workforce, complement of troops, or the like; understaffed; short-handed. ", "S": ["shorthanded"], "A": []}

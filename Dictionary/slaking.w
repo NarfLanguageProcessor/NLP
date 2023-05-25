@@ -1,1 +1,1 @@
-{"index": 293606, "D": "to allay (thirst, desire, wrath, etc.) by satisfying.", "S": ["engorgement ", "feeding ", "filling ", "glut ", "gratification ", "indulgence ", "satiety ", "saturation ", "surfeit "], "A": ["lack ", "need ", "want "]}
+{"index": 293606, "D": "to allay (thirst, desire, wrath, etc.) by satisfying.", "S": ["engorgement", "feeding", "filling", "glut", "gratification", "indulgence", "satiety", "saturation", "surfeit"], "A": ["lack", "need", "want"]}

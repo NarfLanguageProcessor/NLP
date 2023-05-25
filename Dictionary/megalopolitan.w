@@ -1,1 +1,1 @@
-{"index": 182442, "D": "of, relating to, or characteristic of a megalopolis. ", "S": ["burghal ", "citified ", "civic ", "civil ", "interurban ", "intraurban ", "municipal ", "urban "], "A": ["rural "]}
+{"index": 182442, "D": "of, relating to, or characteristic of a megalopolis. ", "S": ["burghal", "citified", "civic", "civil", "interurban", "intraurban", "municipal", "urban"], "A": ["rural"]}

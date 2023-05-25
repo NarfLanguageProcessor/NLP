@@ -1,1 +1,0 @@
-{"index": 350342, "D": "in a way that is characterized by bitter or scornful derision; mockingly", "S": [], "A": []}

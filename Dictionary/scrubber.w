@@ -1,1 +1,1 @@
-{"index": 282021, "D": "a person who scrubs. ", "S": ["dwarf ", "dwarfed ", "scrub ", "short ", "shot ", "shrimp ", "wee "], "A": ["large "]}
+{"index": 282021, "D": "a person who scrubs. ", "S": ["dwarf", "dwarfed", "scrub", "short", "shot", "shrimp", "wee"], "A": ["large"]}

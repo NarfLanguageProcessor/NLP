@@ -1,1 +1,1 @@
-{"index": 36625, "D": "the sound of any vapor or gas issuing from a vent under pressure.", "S": ["bluster "], "A": ["cowardice ", "fear ", "fearfulness ", "modesty ", "restraint "]}
+{"index": 36625, "D": "the sound of any vapor or gas issuing from a vent under pressure.", "S": ["bluster"], "A": ["cowardice", "fear", "fearfulness", "modesty", "restraint"]}

@@ -1,1 +1,1 @@
-{"index": 118412, "D": "in a desperate, wild, or frenzied way, out of extreme excitement, pain, fear, etc.", "S": ["desperately ", "excitedly ", "madly ", "uncontrollably ", "wildly "], "A": ["calmly "]}
+{"index": 118412, "D": "in a desperate, wild, or frenzied way, out of extreme excitement, pain, fear, etc.", "S": ["desperately", "excitedly", "madly", "uncontrollably", "wildly"], "A": ["calmly"]}

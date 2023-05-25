@@ -1,1 +1,1 @@
-{"index": 321644, "D": "muscle or sinew.", "S": ["beef ", "fat ", "meat ", "muscle "], "A": ["skinniness ", "thinness "]}
+{"index": 321644, "D": "muscle or sinew.", "S": ["beef", "fat", "meat", "muscle"], "A": ["skinniness", "thinness"]}

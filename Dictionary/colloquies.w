@@ -1,1 +1,1 @@
-{"index": 63122, "D": "a conversational exchange; dialogue.", "S": ["chitchat ", "parley "], "A": ["quiet ", "silence "]}
+{"index": 63122, "D": "a conversational exchange; dialogue.", "S": ["chitchat", "parley"], "A": ["quiet", "silence"]}

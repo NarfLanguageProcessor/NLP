@@ -1,1 +1,1 @@
-{"index": 284080, "D": "half of a diameter;  radius.", "S": ["ambit ", "boundary ", "compass ", "expanse ", "extension ", "extent ", "interval ", "limit ", "orbit ", "purview ", "reach ", "space ", "span ", "spoke "], "A": []}
+{"index": 284080, "D": "half of a diameter;  radius.", "S": ["ambit", "boundary", "compass", "expanse", "extension", "extent", "interval", "limit", "orbit", "purview", "reach", "space", "span", "spoke"], "A": []}

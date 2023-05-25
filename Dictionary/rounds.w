@@ -1,1 +1,1 @@
-{"index": 274879, "D": "having a flat, circular surface, as a disk.", "S": ["circuit ", "course ", "path ", "patrol ", "precinct ", "route ", "walk ", "way "], "A": []}
+{"index": 274879, "D": "having a flat, circular surface, as a disk.", "S": ["circuit", "course", "path", "patrol", "precinct", "route", "walk", "way"], "A": []}

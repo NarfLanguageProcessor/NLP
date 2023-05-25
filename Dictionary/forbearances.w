@@ -1,1 +1,1 @@
-{"index": 116356, "D": "the act of forbearing;  a refraining from something.", "S": ["fortitude ", "self-control "], "A": ["agitation ", "excess ", "impatience ", "indulgence ", "intemperance ", "intolerance ", "wildness "]}
+{"index": 116356, "D": "the act of forbearing;  a refraining from something.", "S": ["fortitude", "self-control"], "A": ["agitation", "excess", "impatience", "indulgence", "intemperance", "intolerance", "wildness"]}

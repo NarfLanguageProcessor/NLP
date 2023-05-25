@@ -1,1 +1,1 @@
-{"index": 112530, "D": "composed of or containing filaments. ", "S": ["capillaceous ", "capilliform ", "filar ", "ropy "], "A": []}
+{"index": 112530, "D": "composed of or containing filaments. ", "S": ["capillaceous", "capilliform", "filar", "ropy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 59926, "D": "a melodramatic or adventure serial in which each installment ends in suspense in order to interest the reader or viewer in the next installment.", "S": ["close call ", "shocker "], "A": []}
+{"index": 59926, "D": "a melodramatic or adventure serial in which each installment ends in suspense in order to interest the reader or viewer in the next installment.", "S": ["close call", "shocker"], "A": []}

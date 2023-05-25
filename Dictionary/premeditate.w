@@ -1,1 +1,0 @@
-{"index": 248343, "D": "to meditate, consider, or plan beforehand", "S": ["aim ", "consider ", "intend ", "plan ", "plot "], "A": ["forget ", "ignore ", "neglect "]}

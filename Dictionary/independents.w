@@ -1,1 +1,1 @@
-{"index": 150808, "D": "not influenced or controlled by others in matters of opinion, conduct, etc.; thinking or acting for oneself", "S": ["guerrilla ", "insurgent ", "opponent ", "rioter ", "secessionist ", "separatist "], "A": ["adherent ", "loyalist "]}
+{"index": 150808, "D": "not influenced or controlled by others in matters of opinion, conduct, etc.; thinking or acting for oneself", "S": ["guerrilla", "insurgent", "opponent", "rioter", "secessionist", "separatist"], "A": ["adherent", "loyalist"]}

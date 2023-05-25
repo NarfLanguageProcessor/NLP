@@ -1,1 +1,1 @@
-{"index": 309962, "D": "not weaned.", "S": ["aspiratory ", "paratrophic ", "suctorial "], "A": []}
+{"index": 309962, "D": "not weaned.", "S": ["aspiratory", "paratrophic", "suctorial"], "A": []}

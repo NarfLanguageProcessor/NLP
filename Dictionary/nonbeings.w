@@ -1,1 +1,1 @@
-{"index": 201628, "D": "the fact of existing; existence (as opposed to nonexistence).", "S": ["nobody "], "A": ["something "]}
+{"index": 201628, "D": "the fact of existing; existence (as opposed to nonexistence).", "S": ["nobody"], "A": ["something"]}

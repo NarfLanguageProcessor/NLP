@@ -1,1 +1,1 @@
-{"index": 252358, "D": "done, performed, delivered, etc., at once or without delay", "S": ["cue ", "help ", "jog ", "jolt ", "mnemonic ", "prod ", "reminder ", "spur ", "stimulus ", "twit "], "A": ["hindrance "]}
+{"index": 252358, "D": "done, performed, delivered, etc., at once or without delay", "S": ["cue", "help", "jog", "jolt", "mnemonic", "prod", "reminder", "spur", "stimulus", "twit"], "A": ["hindrance"]}

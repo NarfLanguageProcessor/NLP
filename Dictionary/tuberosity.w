@@ -1,1 +1,1 @@
-{"index": 331969, "D": "a rough projection or protuberance of a bone, as for the attachment of a muscle.", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}
+{"index": 331969, "D": "a rough projection or protuberance of a bone, as for the attachment of a muscle.", "S": ["lump", "nodule", "wart"], "A": ["depression"]}

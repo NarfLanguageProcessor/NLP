@@ -1,1 +1,1 @@
-{"index": 282064, "D": "to crunch, crush, or crumple.", "S": ["compress ", "crunch ", "rumple ", "squash ", "squeeze "], "A": ["expand "]}
+{"index": 282064, "D": "to crunch, crush, or crumple.", "S": ["compress", "crunch", "rumple", "squash", "squeeze"], "A": ["expand"]}

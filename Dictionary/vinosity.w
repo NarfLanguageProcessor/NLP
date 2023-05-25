@@ -1,1 +1,1 @@
-{"index": 359959, "D": "the collective characteristics of a wine, especially its distinctive taste.", "S": ["addiction ", "crapulence ", "dipsomania ", "drunkenness "], "A": []}
+{"index": 359959, "D": "the collective characteristics of a wine, especially its distinctive taste.", "S": ["addiction", "crapulence", "dipsomania", "drunkenness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 290820, "D": "See also haplorhine. ", "S": ["anthropoid ", "chimpanzee ", "gorilla ", "monkey ", "orangutan ", "primate "], "A": []}
+{"index": 290820, "D": "See also haplorhine. ", "S": ["anthropoid", "chimpanzee", "gorilla", "monkey", "orangutan", "primate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 171131, "D": "white blood cell. ", "S": ["red blood cell ", "white blood cell "], "A": []}
+{"index": 171131, "D": "white blood cell. ", "S": ["red blood cell", "white blood cell"], "A": []}

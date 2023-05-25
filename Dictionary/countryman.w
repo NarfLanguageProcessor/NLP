@@ -1,1 +1,1 @@
-{"index": 71243, "D": "a native or inhabitant of one's own country.", "S": ["compatriot "], "A": []}
+{"index": 71243, "D": "a native or inhabitant of one's own country.", "S": ["compatriot"], "A": []}

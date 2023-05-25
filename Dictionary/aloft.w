@@ -1,1 +1,1 @@
-{"index": 9236, "D": "high up; far above the ground.", "S": ["above ", "over ", "overhead ", "up "], "A": ["below ", "under "]}
+{"index": 9236, "D": "high up; far above the ground.", "S": ["above", "over", "overhead", "up"], "A": ["below", "under"]}

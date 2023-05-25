@@ -1,1 +1,1 @@
-{"index": 273298, "D": "a formal or ceremonial act or procedure prescribed or customary in religious or other solemn use", "S": ["Sacrament ", "celebration ", "custom ", "formality ", "liturgy ", "observance ", "occasion ", "procedure ", "ritual "], "A": []}
+{"index": 273298, "D": "a formal or ceremonial act or procedure prescribed or customary in religious or other solemn use", "S": ["Sacrament", "celebration", "custom", "formality", "liturgy", "observance", "occasion", "procedure", "ritual"], "A": []}

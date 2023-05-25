@@ -1,1 +1,1 @@
-{"index": 175498, "D": "infested with lice.", "S": ["awful ", "horrible ", "miserable ", "poor ", "rotten ", "second-rate ", "shoddy ", "terrible "], "A": ["good ", "great ", "happy ", "nice ", "pleasant ", "rich ", "superior ", "wealthy "]}
+{"index": 175498, "D": "infested with lice.", "S": ["awful", "horrible", "miserable", "poor", "rotten", "second-rate", "shoddy", "terrible"], "A": ["good", "great", "happy", "nice", "pleasant", "rich", "superior", "wealthy"]}

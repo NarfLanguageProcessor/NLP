@@ -1,1 +1,1 @@
-{"index": 152406, "D": "to introduce, as if by pouring; cause to penetrate; instill (usually followed by into)", "S": ["added ", "interpolated "], "A": []}
+{"index": 152406, "D": "to introduce, as if by pouring; cause to penetrate; instill (usually followed by into)", "S": ["added", "interpolated"], "A": []}

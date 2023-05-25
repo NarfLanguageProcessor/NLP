@@ -1,1 +1,1 @@
-{"index": 130789, "D": "a building used for housing  military personnel on guard duty. ", "S": ["prison ", "slammer ", "stockade "], "A": []}
+{"index": 130789, "D": "a building used for housing  military personnel on guard duty. ", "S": ["prison", "slammer", "stockade"], "A": []}

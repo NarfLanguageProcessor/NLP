@@ -1,1 +1,1 @@
-{"index": 357721, "D": "the quality of being vehement;  ardor; fervor.", "S": ["fervor "], "A": ["peace ", "peacefulness "]}
+{"index": 357721, "D": "the quality of being vehement;  ardor; fervor.", "S": ["fervor"], "A": ["peace", "peacefulness"]}

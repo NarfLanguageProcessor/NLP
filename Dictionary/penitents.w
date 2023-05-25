@@ -1,1 +1,1 @@
-{"index": 229682, "D": "feeling or expressing sorrow for sin or wrongdoing and disposed to atonement and amendment; repentant; contrite.", "S": ["lost lamb ", "magdalen ", "penitent ", "prodigal ", "prodigal returned ", "returnee "], "A": []}
+{"index": 229682, "D": "feeling or expressing sorrow for sin or wrongdoing and disposed to atonement and amendment; repentant; contrite.", "S": ["lost lamb", "magdalen", "penitent", "prodigal", "prodigal returned", "returnee"], "A": []}

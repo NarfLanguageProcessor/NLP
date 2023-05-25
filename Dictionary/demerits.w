@@ -1,1 +1,1 @@
-{"index": 80444, "D": "a mark against a person for misconduct or deficiency", "S": ["punishment "], "A": []}
+{"index": 80444, "D": "a mark against a person for misconduct or deficiency", "S": ["punishment"], "A": []}

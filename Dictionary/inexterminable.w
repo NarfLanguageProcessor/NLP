@@ -1,1 +1,1 @@
-{"index": 151755, "D": [], "S": ["durable ", "immortal ", "perpetual "], "A": ["ephemeral ", "temporary "]}
+{"index": 151755, "D": [], "S": ["durable", "immortal", "perpetual"], "A": ["ephemeral", "temporary"]}

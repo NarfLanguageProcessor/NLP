@@ -1,1 +1,1 @@
-{"index": 109501, "D": [], "S": ["altercation ", "bickering ", "brawl ", "clash ", "controversy ", "debate ", "disagreement ", "dispute ", "exchange ", "feud ", "quarrel ", "squabble "], "A": ["agreement ", "harmony ", "peace ", "calm "]}
+{"index": 109501, "D": [], "S": ["altercation", "bickering", "brawl", "clash", "controversy", "debate", "disagreement", "dispute", "exchange", "feud", "quarrel", "squabble"], "A": ["agreement", "harmony", "peace", "calm"]}

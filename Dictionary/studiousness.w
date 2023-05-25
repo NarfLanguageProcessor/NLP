@@ -1,1 +1,1 @@
-{"index": 306809, "D": "disposed or given to diligent study", "S": ["refinement "], "A": ["ignorance "]}
+{"index": 306809, "D": "disposed or given to diligent study", "S": ["refinement"], "A": ["ignorance"]}

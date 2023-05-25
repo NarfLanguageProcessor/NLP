@@ -1,1 +1,1 @@
-{"index": 60622, "D": "a person or thing that clubs. ", "S": ["accomplice ", "ally ", "assistant ", "buddy ", "co-worker ", "cohort ", "collaborator ", "companion ", "comrade ", "crony ", "fellow ", "friend ", "partner "], "A": ["enemy ", "foe ", "opponent "]}
+{"index": 60622, "D": "a person or thing that clubs. ", "S": ["accomplice", "ally", "assistant", "buddy", "co-worker", "cohort", "collaborator", "companion", "comrade", "crony", "fellow", "friend", "partner"], "A": ["enemy", "foe", "opponent"]}

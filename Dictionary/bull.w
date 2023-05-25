@@ -1,1 +1,1 @@
-{"index": 42485, "D": "the male of a bovine animal, especially of the genus Bos, with sexual organs intact and capable of reproduction.", "S": ["balderdash ", "baloney ", "bilge ", "bunkum ", "claptrap ", "crap ", "hogwash ", "rubbish ", "trash "], "A": ["sense ", "truth "]}
+{"index": 42485, "D": "the male of a bovine animal, especially of the genus Bos, with sexual organs intact and capable of reproduction.", "S": ["balderdash", "baloney", "bilge", "bunkum", "claptrap", "crap", "hogwash", "rubbish", "trash"], "A": ["sense", "truth"]}

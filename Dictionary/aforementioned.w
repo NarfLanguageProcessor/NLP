@@ -1,0 +1,1 @@
+{"index": 5561, "D": "cited or mentioned  earlier or previously.", "S": ["preceding"], "A": ["after"]}

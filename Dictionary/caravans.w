@@ -1,1 +1,1 @@
-{"index": 47396, "D": "a group of travelers, as merchants or pilgrims, journeying together for safety in passing through deserts, hostile territory, etc.", "S": ["cavalcade ", "convoy ", "expedition ", "procession "], "A": ["individual "]}
+{"index": 47396, "D": "a group of travelers, as merchants or pilgrims, journeying together for safety in passing through deserts, hostile territory, etc.", "S": ["cavalcade", "convoy", "expedition", "procession"], "A": ["individual"]}

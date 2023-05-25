@@ -1,1 +1,0 @@
-{"index": 319838, "D": "the sex hormone, C19H28O2, secreted by the testes, that stimulates the development of male sex organs, secondary sexual traits, and sperm.", "S": [], "A": []}

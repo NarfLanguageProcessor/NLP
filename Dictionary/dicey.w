@@ -1,1 +1,1 @@
-{"index": 84754, "D": "unpredictable; risky; uncertain.", "S": ["ticklish ", "tricky ", "uncertain ", "unpredictable "], "A": ["easy ", "unchanging "]}
+{"index": 84754, "D": "unpredictable; risky; uncertain.", "S": ["ticklish", "tricky", "uncertain", "unpredictable"], "A": ["easy", "unchanging"]}

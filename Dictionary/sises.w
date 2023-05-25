@@ -1,1 +1,1 @@
-{"index": 292467, "D": "sister. ", "S": ["buddy ", "comrade ", "crony ", "playmate "], "A": ["enemy ", "foe ", "opponent ", "stranger "]}
+{"index": 292467, "D": "sister. ", "S": ["buddy", "comrade", "crony", "playmate"], "A": ["enemy", "foe", "opponent", "stranger"]}

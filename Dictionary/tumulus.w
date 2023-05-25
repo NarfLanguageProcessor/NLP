@@ -1,1 +1,1 @@
-{"index": 332360, "D": "an artificial mound, especially over a grave; barrow.", "S": ["bank ", "dune ", "hill ", "hog ", "mote ", "mound ", "mountain ", "pile "], "A": ["ditch ", "valley "]}
+{"index": 332360, "D": "an artificial mound, especially over a grave; barrow.", "S": ["bank", "dune", "hill", "hog", "mote", "mound", "mountain", "pile"], "A": ["ditch", "valley"]}

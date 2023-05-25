@@ -1,1 +1,1 @@
-{"index": 202295, "D": [], "S": ["bohemian ", "dissident ", "oddball ", "offbeat ", "original ", "rebel ", "sectarian ", "weird "], "A": ["conforming ", "conformist ", "conventional ", "normal ", "straight ", "usual "]}
+{"index": 202295, "D": [], "S": ["bohemian", "dissident", "oddball", "offbeat", "original", "rebel", "sectarian", "weird"], "A": ["conforming", "conformist", "conventional", "normal", "straight", "usual"]}

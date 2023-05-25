@@ -1,1 +1,1 @@
-{"index": 96187, "D": "of or befitting an egghead. ", "S": ["brilliant ", "sharp ", "smart "], "A": ["dull ", "slow ", "stupid ", "unintelligent ", "unstylish "]}
+{"index": 96187, "D": "of or befitting an egghead. ", "S": ["brilliant", "sharp", "smart"], "A": ["dull", "slow", "stupid", "unintelligent", "unstylish"]}

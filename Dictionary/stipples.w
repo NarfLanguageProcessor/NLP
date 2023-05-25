@@ -1,1 +1,1 @@
-{"index": 304762, "D": "to paint, engrave, or draw by means of dots or small touches.", "S": ["carve ", "dab ", "dot ", "draw ", "engrave ", "paint "], "A": []}
+{"index": 304762, "D": "to paint, engrave, or draw by means of dots or small touches.", "S": ["carve", "dab", "dot", "draw", "engrave", "paint"], "A": []}

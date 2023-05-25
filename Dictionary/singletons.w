@@ -1,1 +1,1 @@
-{"index": 291722, "D": "a person or thing occurring singly, especially an individual set apart from others.", "S": ["body ", "individual "], "A": ["abstract ", "inanimate "]}
+{"index": 291722, "D": "a person or thing occurring singly, especially an individual set apart from others.", "S": ["body", "individual"], "A": ["abstract", "inanimate"]}

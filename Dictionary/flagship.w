@@ -1,1 +1,1 @@
-{"index": 113787, "D": "a ship  carrying the flag officer  or the commander of a fleet, squadron, or the like, and displaying the officer's flag. ", "S": ["bellwether ", "crown jewel "], "A": []}
+{"index": 113787, "D": "a ship  carrying the flag officer  or the commander of a fleet, squadron, or the like, and displaying the officer's flag. ", "S": ["bellwether", "crown jewel"], "A": []}

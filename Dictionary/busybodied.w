@@ -1,1 +1,1 @@
-{"index": 43467, "D": [], "S": ["hamper ", "hinder ", "impede ", "inhibit ", "intrude ", "obstruct ", "prevent "], "A": ["advance ", "aid ", "allow ", "assist ", "encourage ", "facilitate ", "forward ", "help ", "permit ", "promote ", "support ", "abet ", "benefit ", "continue ", "go "]}
+{"index": 43467, "D": [], "S": ["hamper", "hinder", "impede", "inhibit", "intrude", "obstruct", "prevent"], "A": ["advance", "aid", "allow", "assist", "encourage", "facilitate", "forward", "help", "permit", "promote", "support", "abet", "benefit", "continue", "go"]}

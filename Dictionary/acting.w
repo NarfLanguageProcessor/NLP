@@ -1,1 +1,1 @@
-{"index": 3094, "D": "serving temporarily, especially as a substitute during another's absence; not permanent; temporary", "S": ["adjutant ", "alternate ", "assistant ", "delegated ", "deputy ", "interim ", "surrogate ", "temporary "], "A": ["permanent "]}
+{"index": 3094, "D": "serving temporarily, especially as a substitute during another's absence; not permanent; temporary", "S": ["adjutant", "alternate", "assistant", "delegated", "deputy", "interim", "surrogate", "temporary"], "A": ["permanent"]}

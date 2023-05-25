@@ -1,1 +1,1 @@
-{"index": 296928, "D": "solvent  condition; ability to pay all just debts.", "S": ["richness ", "wealth "], "A": []}
+{"index": 296928, "D": "solvent  condition; ability to pay all just debts.", "S": ["richness", "wealth"], "A": []}

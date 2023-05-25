@@ -1,1 +1,1 @@
-{"index": 110776, "D": "to make prolific or fruitful.", "S": ["conceive ", "enrich ", "fertilize ", "fructify ", "inseminate ", "nourish "], "A": []}
+{"index": 110776, "D": "to make prolific or fruitful.", "S": ["conceive", "enrich", "fertilize", "fructify", "inseminate", "nourish"], "A": []}

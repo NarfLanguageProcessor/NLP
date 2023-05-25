@@ -1,1 +1,1 @@
-{"index": 20312, "D": [], "S": ["arched ", "crooked ", "curvaceous ", "elliptical ", "rounded ", "serpentine ", "twisted ", "twisting "], "A": ["straight "]}
+{"index": 20312, "D": [], "S": ["arched", "crooked", "curvaceous", "elliptical", "rounded", "serpentine", "twisted", "twisting"], "A": ["straight"]}

@@ -1,1 +1,1 @@
-{"index": 67146, "D": "custom, especially as having legal force.", "S": ["familiarity ", "habit ", "habitude ", "manner ", "practice ", "praxis ", "tradition ", "usage ", "usance "], "A": ["ignorance "]}
+{"index": 67146, "D": "custom, especially as having legal force.", "S": ["familiarity", "habit", "habitude", "manner", "practice", "praxis", "tradition", "usage", "usance"], "A": ["ignorance"]}

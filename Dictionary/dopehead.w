@@ -1,1 +1,1 @@
-{"index": 91609, "D": "a person addicted to drugs.", "S": ["addict ", "drug user ", "junkie ", "user "], "A": []}
+{"index": 91609, "D": "a person addicted to drugs.", "S": ["addict", "drug user", "junkie", "user"], "A": []}

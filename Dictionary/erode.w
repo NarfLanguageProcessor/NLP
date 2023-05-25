@@ -1,1 +1,1 @@
-{"index": 103889, "D": "to eat into or away; destroy by slow consumption or disintegration", "S": ["corrode ", "destroy "], "A": ["build ", "ignore ", "neglect ", "preserve "]}
+{"index": 103889, "D": "to eat into or away; destroy by slow consumption or disintegration", "S": ["corrode", "destroy"], "A": ["build", "ignore", "neglect", "preserve"]}

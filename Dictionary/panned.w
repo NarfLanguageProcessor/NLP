@@ -1,1 +1,1 @@
-{"index": 224734, "D": "a broad, shallow container of metal, usually having sides flaring outward toward the top, used in various forms for frying, baking, washing, etc.", "S": ["scenic "], "A": []}
+{"index": 224734, "D": "a broad, shallow container of metal, usually having sides flaring outward toward the top, used in various forms for frying, baking, washing, etc.", "S": ["scenic"], "A": []}

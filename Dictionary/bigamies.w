@@ -1,1 +1,1 @@
-{"index": 33687, "D": "the crime of marrying while one has a spouse still living, from whom no valid divorce has been effected.", "S": ["polyandry ", "polygyny "], "A": []}
+{"index": 33687, "D": "the crime of marrying while one has a spouse still living, from whom no valid divorce has been effected.", "S": ["polyandry", "polygyny"], "A": []}

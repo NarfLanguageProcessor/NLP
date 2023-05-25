@@ -1,1 +1,1 @@
-{"index": 42592, "D": "the male of a bovine animal, especially of the genus Bos, with sexual organs intact and capable of reproduction.", "S": ["deceive ", "mislead ", "misrepresent ", "promote "], "A": ["tell the truth "]}
+{"index": 42592, "D": "the male of a bovine animal, especially of the genus Bos, with sexual organs intact and capable of reproduction.", "S": ["deceive", "mislead", "misrepresent", "promote"], "A": ["tell the truth"]}

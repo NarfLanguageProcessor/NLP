@@ -1,1 +1,1 @@
-{"index": 160286, "D": "crowded, packed, or filled to capacity", "S": ["busy ", "crammed ", "crowded ", "filled ", "full ", "jammed ", "mobbed ", "overcrowded ", "overflowing ", "packed "], "A": ["empty "]}
+{"index": 160286, "D": "crowded, packed, or filled to capacity", "S": ["busy", "crammed", "crowded", "filled", "full", "jammed", "mobbed", "overcrowded", "overflowing", "packed"], "A": ["empty"]}

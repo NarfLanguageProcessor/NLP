@@ -1,1 +1,1 @@
-{"index": 81194, "D": "being a name or designation for something; meaning or referring to something", "S": ["denotive "], "A": []}
+{"index": 81194, "D": "being a name or designation for something; meaning or referring to something", "S": ["denotive"], "A": []}

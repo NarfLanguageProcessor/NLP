@@ -1,1 +1,1 @@
-{"index": 266786, "D": "abatement or relief from bodily or mental work, effort, application, etc.", "S": ["enjoyment ", "leisure ", "loosening ", "mitigation ", "pleasure ", "recreation ", "relief "], "A": ["pain ", "sorrow ", "unhappiness ", "work "]}
+{"index": 266786, "D": "abatement or relief from bodily or mental work, effort, application, etc.", "S": ["enjoyment", "leisure", "loosening", "mitigation", "pleasure", "recreation", "relief"], "A": ["pain", "sorrow", "unhappiness", "work"]}

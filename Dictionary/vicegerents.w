@@ -1,1 +1,1 @@
-{"index": 359372, "D": "an officer appointed as deputy by and to a sovereign or supreme chief.", "S": ["pontiff "], "A": []}
+{"index": 359372, "D": "an officer appointed as deputy by and to a sovereign or supreme chief.", "S": ["pontiff"], "A": []}

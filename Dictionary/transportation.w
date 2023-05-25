@@ -1,1 +1,1 @@
-{"index": 328268, "D": "the act of transporting. ", "S": ["shipment ", "shipping ", "transit ", "transport "], "A": []}
+{"index": 328268, "D": "the act of transporting. ", "S": ["shipment", "shipping", "transit", "transport"], "A": []}

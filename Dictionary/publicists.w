@@ -1,1 +1,1 @@
-{"index": 255919, "D": "a person who publicizes,  especially a press agent or public-relations consultant.", "S": ["agent ", "press agent "], "A": []}
+{"index": 255919, "D": "a person who publicizes,  especially a press agent or public-relations consultant.", "S": ["agent", "press agent"], "A": []}

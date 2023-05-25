@@ -1,1 +1,1 @@
-{"index": 227375, "D": "to become unconscious; faint", "S": ["faint ", "lose consciousness ", "swoon "], "A": []}
+{"index": 227375, "D": "to become unconscious; faint", "S": ["faint", "lose consciousness", "swoon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 253193, "D": "the outlook for the future", "S": ["delve ", "dig ", "explore ", "inquire ", "investigate ", "look ", "probe ", "search ", "sift ", "survey "], "A": ["ignore "]}
+{"index": 253193, "D": "the outlook for the future", "S": ["delve", "dig", "explore", "inquire", "investigate", "look", "probe", "search", "sift", "survey"], "A": ["ignore"]}

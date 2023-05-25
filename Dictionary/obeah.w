@@ -1,1 +1,1 @@
-{"index": 209989, "D": "a form of belief involving sorcery, practiced in parts of the West Indies, South America, the southern U.S., and Africa.", "S": ["witchcraft "], "A": ["reality "]}
+{"index": 209989, "D": "a form of belief involving sorcery, practiced in parts of the West Indies, South America, the southern U.S., and Africa.", "S": ["witchcraft"], "A": ["reality"]}

@@ -1,1 +1,1 @@
-{"index": 162148, "D": "a person who performs juggling  feats, as with balls or knives.", "S": ["conjurer "], "A": []}
+{"index": 162148, "D": "a person who performs juggling  feats, as with balls or knives.", "S": ["conjurer"], "A": []}

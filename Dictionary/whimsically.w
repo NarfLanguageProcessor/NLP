@@ -1,1 +1,0 @@
-{"index": 364843, "D": "given to whimsy  or fanciful notions; capricious", "S": ["a few times ", "hardly ", "occasionally ", "rarely ", "scarcely ", "sometimes ", "sporadically "], "A": ["frequently ", "regularly "]}

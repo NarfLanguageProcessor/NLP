@@ -1,1 +1,1 @@
-{"index": 134673, "D": "a headset designed for use with a stereo system.", "S": ["bug ", "handset ", "radio ", "telephone ", "television "], "A": ["donor ", "giver "]}
+{"index": 134673, "D": "a headset designed for use with a stereo system.", "S": ["bug", "handset", "radio", "telephone", "television"], "A": ["donor", "giver"]}

@@ -1,1 +1,1 @@
-{"index": 74022, "D": "characterized by or having a crown  (often used in combination)", "S": ["realized ", "satisfied "], "A": ["disappointed ", "incomplete ", "unfinished ", "unfulfilled ", "unsatisfied "]}
+{"index": 74022, "D": "characterized by or having a crown  (often used in combination)", "S": ["realized", "satisfied"], "A": ["disappointed", "incomplete", "unfinished", "unfulfilled", "unsatisfied"]}

@@ -1,1 +1,1 @@
-{"index": 252324, "D": "to help or encourage to exist or flourish; further", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}
+{"index": 252324, "D": "to help or encourage to exist or flourish; further", "S": ["approved", "assisted", "endorsed", "favored"], "A": ["disapproved"]}

@@ -1,1 +1,1 @@
-{"index": 58644, "D": "to make into a city;  urbanize.", "S": ["urbanize "], "A": []}
+{"index": 58644, "D": "to make into a city;  urbanize.", "S": ["urbanize"], "A": []}

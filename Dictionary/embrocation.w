@@ -1,1 +1,1 @@
-{"index": 98356, "D": "the act of embrocating  a bruised or diseased part of the body.", "S": ["lotion ", "ointment ", "potion ", "salve "], "A": []}
+{"index": 98356, "D": "the act of embrocating  a bruised or diseased part of the body.", "S": ["lotion", "ointment", "potion", "salve"], "A": []}

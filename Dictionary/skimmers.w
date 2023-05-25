@@ -1,1 +1,1 @@
-{"index": 293218, "D": "a person or thing that skims", "S": ["fedora ", "headgear ", "helmet "], "A": []}
+{"index": 293218, "D": "a person or thing that skims", "S": ["fedora", "headgear", "helmet"], "A": []}

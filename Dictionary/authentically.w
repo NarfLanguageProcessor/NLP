@@ -1,1 +1,1 @@
-{"index": 23790, "D": "not false or copied; genuine; real", "S": ["absolutely ", "actually ", "certainly ", "fairly ", "honestly ", "indeed "], "A": []}
+{"index": 23790, "D": "not false or copied; genuine; real", "S": ["absolutely", "actually", "certainly", "fairly", "honestly", "indeed"], "A": []}

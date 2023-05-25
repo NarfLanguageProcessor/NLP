@@ -1,1 +1,1 @@
-{"index": 109565, "D": "to hesitate or waver in action, purpose, intent, etc.; give way", "S": ["floundering ", "tottering ", "trembling "], "A": ["agile ", "young ", "youthful "]}
+{"index": 109565, "D": "to hesitate or waver in action, purpose, intent, etc.; give way", "S": ["floundering", "tottering", "trembling"], "A": ["agile", "young", "youthful"]}

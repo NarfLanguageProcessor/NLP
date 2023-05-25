@@ -1,1 +1,1 @@
-{"index": 136280, "D": "to cut into two equal parts; to bisect, especially along a medial longitudinal plane.", "S": ["cut across "], "A": ["combine ", "join ", "unite "]}
+{"index": 136280, "D": "to cut into two equal parts; to bisect, especially along a medial longitudinal plane.", "S": ["cut across"], "A": ["combine", "join", "unite"]}

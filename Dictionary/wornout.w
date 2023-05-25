@@ -1,1 +1,1 @@
-{"index": 367629, "D": "worn or used beyond repair.", "S": ["confined ", "crippled ", "debilitated ", "handicapped ", "hurt ", "immobilized ", "impaired ", "lame ", "maimed ", "paralyzed ", "sidelined ", "weakened "], "A": ["healthy ", "invigorated ", "strong "]}
+{"index": 367629, "D": "worn or used beyond repair.", "S": ["confined", "crippled", "debilitated", "handicapped", "hurt", "immobilized", "impaired", "lame", "maimed", "paralyzed", "sidelined", "weakened"], "A": ["healthy", "invigorated", "strong"]}

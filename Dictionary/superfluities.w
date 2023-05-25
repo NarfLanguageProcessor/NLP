@@ -1,1 +1,1 @@
-{"index": 311883, "D": "the state of being superfluous. ", "S": ["abundance ", "excess ", "overabundance ", "overplus ", "plenty ", "plethora "], "A": ["dearth ", "deficiency ", "few ", "lack ", "little ", "need ", "scarcity ", "want "]}
+{"index": 311883, "D": "the state of being superfluous. ", "S": ["abundance", "excess", "overabundance", "overplus", "plenty", "plethora"], "A": ["dearth", "deficiency", "few", "lack", "little", "need", "scarcity", "want"]}

@@ -1,1 +1,1 @@
-{"index": 93211, "D": "demanding a high or unreasonable rate of work from subordinates.", "S": ["propulsive "], "A": ["inactive "]}
+{"index": 93211, "D": "demanding a high or unreasonable rate of work from subordinates.", "S": ["propulsive"], "A": ["inactive"]}

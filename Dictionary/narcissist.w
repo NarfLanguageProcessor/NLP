@@ -1,1 +1,1 @@
-{"index": 196931, "D": "a person who is overly self-involved, and often vain and selfish.", "S": ["boaster ", "braggart ", "egocentric ", "egoist ", "egomaniac "], "A": []}
+{"index": 196931, "D": "a person who is overly self-involved, and often vain and selfish.", "S": ["boaster", "braggart", "egocentric", "egoist", "egomaniac"], "A": []}

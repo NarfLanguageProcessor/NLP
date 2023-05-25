@@ -1,0 +1,1 @@
+{"index": 38073, "D": "given or devoted to reading or study.", "S": ["refinement"], "A": ["ignorance"]}

@@ -1,1 +1,1 @@
-{"index": 19413, "D": "the aggregate of qualities, as valor and virtue, making up good character", "S": ["crag ", "crest "], "A": []}
+{"index": 19413, "D": "the aggregate of qualities, as valor and virtue, making up good character", "S": ["crag", "crest"], "A": []}

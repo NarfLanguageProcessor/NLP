@@ -1,1 +1,1 @@
-{"index": 286169, "D": "to deliver or compose a sermon;  preach.", "S": ["admonish ", "edify ", "evangelize ", "lecture ", "pontificate ", "preach ", "preachify ", "teach "], "A": ["praise "]}
+{"index": 286169, "D": "to deliver or compose a sermon;  preach.", "S": ["admonish", "edify", "evangelize", "lecture", "pontificate", "preach", "preachify", "teach"], "A": ["praise"]}

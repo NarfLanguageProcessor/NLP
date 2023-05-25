@@ -1,1 +1,1 @@
-{"index": 232312, "D": "any domesticated or tamed animal that is kept as a companion and cared for affectionately.", "S": ["cherished ", "darling ", "dear ", "dearest ", "endearing ", "favored ", "loved ", "preferred ", "special "], "A": ["common "]}
+{"index": 232312, "D": "any domesticated or tamed animal that is kept as a companion and cared for affectionately.", "S": ["cherished", "darling", "dear", "dearest", "endearing", "favored", "loved", "preferred", "special"], "A": ["common"]}

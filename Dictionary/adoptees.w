@@ -1,0 +1,1 @@
+{"index": 4310, "D": "a person who is adopted. ", "S": [], "A": []}

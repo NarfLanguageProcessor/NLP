@@ -1,1 +1,0 @@
-{"index": 273325, "D": "to practice ritualism. ", "S": [], "A": []}

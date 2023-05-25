@@ -1,1 +1,1 @@
-{"index": 135026, "D": "with a great weight or burden", "S": ["densely ", "massively ", "thickly "], "A": ["easily ", "gently ", "lightly "]}
+{"index": 135026, "D": "with a great weight or burden", "S": ["densely", "massively", "thickly"], "A": ["easily", "gently", "lightly"]}

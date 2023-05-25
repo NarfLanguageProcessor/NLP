@@ -1,1 +1,1 @@
-{"index": 118617, "D": "Compare full-time (def. 2). ", "S": ["self-employed "], "A": []}
+{"index": 118617, "D": "Compare full-time (def. 2). ", "S": ["self-employed"], "A": []}

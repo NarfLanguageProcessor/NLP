@@ -1,1 +1,1 @@
-{"index": 94056, "D": "temporarily deprived of the power of speech, as by surprise or confusion; dumbfounded. ", "S": ["amazed ", "astonished ", "astounded ", "blown-away ", "dumbfounded ", "flabbergasted ", "jolted ", "rendered speechless ", "startled ", "stunned ", "stupefied "], "A": []}
+{"index": 94056, "D": "temporarily deprived of the power of speech, as by surprise or confusion; dumbfounded. ", "S": ["amazed", "astonished", "astounded", "blown-away", "dumbfounded", "flabbergasted", "jolted", "rendered speechless", "startled", "stunned", "stupefied"], "A": []}

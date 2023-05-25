@@ -1,1 +1,1 @@
-{"index": 274312, "D": "a person, animal, or thing that roots,  as with the snout.", "S": ["backer ", "enthusiast ", "patron ", "promoter "], "A": ["detractor ", "opponent "]}
+{"index": 274312, "D": "a person, animal, or thing that roots,  as with the snout.", "S": ["backer", "enthusiast", "patron", "promoter"], "A": ["detractor", "opponent"]}

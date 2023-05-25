@@ -1,1 +1,1 @@
-{"index": 313515, "D": "the name that a person has in common with other family members, as distinguished from a first name or given name; family name.", "S": ["last name "], "A": []}
+{"index": 313515, "D": "the name that a person has in common with other family members, as distinguished from a first name or given name; family name.", "S": ["last name"], "A": []}

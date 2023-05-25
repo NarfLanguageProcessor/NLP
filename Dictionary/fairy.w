@@ -1,1 +1,1 @@
-{"index": 109315, "D": "(in folklore) one of a class of supernatural beings, generally conceived as having a diminutive human form and possessing magical powers with which they intervene in human affairs.", "S": ["gnome ", "goblin ", "imp ", "leprechaun "], "A": []}
+{"index": 109315, "D": "(in folklore) one of a class of supernatural beings, generally conceived as having a diminutive human form and possessing magical powers with which they intervene in human affairs.", "S": ["gnome", "goblin", "imp", "leprechaun"], "A": []}

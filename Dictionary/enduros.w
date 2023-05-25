@@ -1,1 +1,1 @@
-{"index": 100105, "D": "an endurance race  for automobiles or sometimes motorcycles.", "S": ["chopper ", "hog ", "minibike ", "moped ", "scooter "], "A": []}
+{"index": 100105, "D": "an endurance race  for automobiles or sometimes motorcycles.", "S": ["chopper", "hog", "minibike", "moped", "scooter"], "A": []}

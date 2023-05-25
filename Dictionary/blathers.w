@@ -1,1 +1,1 @@
-{"index": 35882, "D": "foolish, voluble talk", "S": ["babble ", "chatter ", "nonsense "], "A": ["sense "]}
+{"index": 35882, "D": "foolish, voluble talk", "S": ["babble", "chatter", "nonsense"], "A": ["sense"]}

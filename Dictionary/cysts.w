@@ -1,1 +1,1 @@
-{"index": 58585, "D": "a closed, bladderlike sac formed in animal tissues, containing fluid or semifluid matter.", "S": ["blister ", "sac ", "sore "], "A": []}
+{"index": 58585, "D": "a closed, bladderlike sac formed in animal tissues, containing fluid or semifluid matter.", "S": ["blister", "sac", "sore"], "A": []}

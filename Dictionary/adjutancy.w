@@ -1,0 +1,1 @@
+{"index": 4083, "D": "the office or rank of an adjutant", "S": [], "A": []}

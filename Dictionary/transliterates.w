@@ -1,1 +1,1 @@
-{"index": 328043, "D": "to change (letters, words, etc.) into corresponding characters of another alphabet or language", "S": ["resolve ", "work out "], "A": ["defer ", "destroy ", "fail ", "idle ", "lose ", "miss ", "neglect ", "pass ", "put off ", "undo "]}
+{"index": 328043, "D": "to change (letters, words, etc.) into corresponding characters of another alphabet or language", "S": ["resolve", "work out"], "A": ["defer", "destroy", "fail", "idle", "lose", "miss", "neglect", "pass", "put off", "undo"]}

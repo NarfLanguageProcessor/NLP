@@ -1,1 +1,1 @@
-{"index": 37308, "D": "to overwhelm or bewilder, as with magnitude, complexity, or strangeness", "S": ["astound ", "flabbergast ", "startle "], "A": ["expect "]}
+{"index": 37308, "D": "to overwhelm or bewilder, as with magnitude, complexity, or strangeness", "S": ["astound", "flabbergast", "startle"], "A": ["expect"]}

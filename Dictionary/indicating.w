@@ -1,1 +1,1 @@
-{"index": 150906, "D": "to be a sign of; betoken; evidence; show", "S": ["attributing ", "citing ", "hinting ", "implying ", "mentioning ", "quoting ", "remarking ", "suggesting "], "A": []}
+{"index": 150906, "D": "to be a sign of; betoken; evidence; show", "S": ["attributing", "citing", "hinting", "implying", "mentioning", "quoting", "remarking", "suggesting"], "A": []}

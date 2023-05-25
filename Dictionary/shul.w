@@ -1,1 +1,1 @@
-{"index": 289356, "D": "a synagogue.", "S": ["bethel ", "church house ", "house of prayer ", "house of worship ", "meetinghouse ", "mosque ", "place of worship ", "synagogue ", "tabernacle ", "temple "], "A": []}
+{"index": 289356, "D": "a synagogue.", "S": ["bethel", "church house", "house of prayer", "house of worship", "meetinghouse", "mosque", "place of worship", "synagogue", "tabernacle", "temple"], "A": []}

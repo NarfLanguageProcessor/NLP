@@ -1,1 +1,1 @@
-{"index": 30600, "D": "3rd person singular present indicative of beget. ", "S": ["bring about ", "engender ", "sire "], "A": ["halt ", "kill ", "stop ", "destroy ", "fail ", "leave "]}
+{"index": 30600, "D": "3rd person singular present indicative of beget. ", "S": ["bring about", "engender", "sire"], "A": ["halt", "kill", "stop", "destroy", "fail", "leave"]}

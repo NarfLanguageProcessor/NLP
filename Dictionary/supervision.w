@@ -1,1 +1,1 @@
-{"index": 312883, "D": "the act or function of supervising;  superintendence.", "S": ["administration ", "care ", "control ", "guidance ", "instruction ", "oversight ", "surveillance "], "A": ["neglect "]}
+{"index": 312883, "D": "the act or function of supervising;  superintendence.", "S": ["administration", "care", "control", "guidance", "instruction", "oversight", "surveillance"], "A": ["neglect"]}

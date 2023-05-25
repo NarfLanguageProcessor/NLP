@@ -1,1 +1,1 @@
-{"index": 330457, "D": "a journey or voyage", "S": ["skip ", "slide ", "slip ", "slip on ", "stumble ", "topple ", "tumble "], "A": ["order ", "succeed "]}
+{"index": 330457, "D": "a journey or voyage", "S": ["skip", "slide", "slip", "slip on", "stumble", "topple", "tumble"], "A": ["order", "succeed"]}

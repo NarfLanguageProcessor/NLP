@@ -1,1 +1,1 @@
-{"index": 333590, "D": "existing or being everywhere, especially at the same time; omnipresent", "S": ["pervasiveness "], "A": []}
+{"index": 333590, "D": "existing or being everywhere, especially at the same time; omnipresent", "S": ["pervasiveness"], "A": []}

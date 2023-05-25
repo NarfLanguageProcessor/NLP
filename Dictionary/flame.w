@@ -1,1 +1,1 @@
-{"index": 113855, "D": "burning gas or vapor, as from wood or coal, that is undergoing combustion; a portion of ignited gas or vapor.", "S": ["blaze ", "conflagration ", "flare ", "flash ", "light ", "spark ", "wildfire "], "A": []}
+{"index": 113855, "D": "burning gas or vapor, as from wood or coal, that is undergoing combustion; a portion of ignited gas or vapor.", "S": ["blaze", "conflagration", "flare", "flash", "light", "spark", "wildfire"], "A": []}

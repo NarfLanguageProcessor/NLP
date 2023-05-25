@@ -1,1 +1,1 @@
-{"index": 300279, "D": "saliva; spit.", "S": ["drivel ", "expectoration ", "salivation ", "slaver ", "slobber ", "spit "], "A": []}
+{"index": 300279, "D": "saliva; spit.", "S": ["drivel", "expectoration", "salivation", "slaver", "slobber", "spit"], "A": []}

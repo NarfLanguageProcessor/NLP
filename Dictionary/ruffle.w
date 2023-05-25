@@ -1,1 +1,1 @@
-{"index": 275371, "D": "to destroy the smoothness or evenness of", "S": ["dishevel ", "rumple "], "A": ["calm ", "open ", "order ", "organize ", "smooth ", "straighten "]}
+{"index": 275371, "D": "to destroy the smoothness or evenness of", "S": ["dishevel", "rumple"], "A": ["calm", "open", "order", "organize", "smooth", "straighten"]}

@@ -1,1 +1,1 @@
-{"index": 33374, "D": "either of two colors, bice blue  or bice green. ", "S": ["blue-green ", "olive "], "A": []}
+{"index": 33374, "D": "either of two colors, bice blue  or bice green. ", "S": ["blue-green", "olive"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 113543, "D": "adapted or suited; appropriate", "S": ["able ", "apt ", "capable ", "competent ", "happy ", "prepared ", "qualified ", "wise "], "A": ["improper ", "inappropriate ", "incorrect ", "unbecoming ", "unfit ", "unfitting ", "unseemly ", "unsuitable ", "unworthy ", "wrong "]}
+{"index": 113543, "D": "adapted or suited; appropriate", "S": ["able", "apt", "capable", "competent", "happy", "prepared", "qualified", "wise"], "A": ["improper", "inappropriate", "incorrect", "unbecoming", "unfit", "unfitting", "unseemly", "unsuitable", "unworthy", "wrong"]}

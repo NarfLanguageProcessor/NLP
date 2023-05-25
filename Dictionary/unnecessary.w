@@ -1,1 +1,1 @@
-{"index": 346810, "D": "not necessary  or essential; needless; unessential.", "S": ["avoidable ", "futile ", "gratuitous ", "irrelevant ", "needless ", "redundant ", "superfluous ", "unneeded ", "useless ", "worthless "], "A": ["necessary ", "needed ", "valuable ", "worthwhile "]}
+{"index": 346810, "D": "not necessary  or essential; needless; unessential.", "S": ["avoidable", "futile", "gratuitous", "irrelevant", "needless", "redundant", "superfluous", "unneeded", "useless", "worthless"], "A": ["necessary", "needed", "valuable", "worthwhile"]}

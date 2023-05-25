@@ -1,1 +1,1 @@
-{"index": 329797, "D": "started, set in motion, or released by a specified thing or in a specified way", "S": ["bring about ", "cause ", "generate ", "produce ", "prompt ", "provoke ", "set off ", "spark ", "start "], "A": ["destroy ", "end ", "halt ", "prevent ", "stop "]}
+{"index": 329797, "D": "started, set in motion, or released by a specified thing or in a specified way", "S": ["bring about", "cause", "generate", "produce", "prompt", "provoke", "set off", "spark", "start"], "A": ["destroy", "end", "halt", "prevent", "stop"]}

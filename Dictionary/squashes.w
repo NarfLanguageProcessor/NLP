@@ -1,1 +1,1 @@
-{"index": 301766, "D": "to press into a flat mass or pulp; crush", "S": ["crush ", "extinguish ", "flatten ", "quash ", "quell ", "squish ", "suppress ", "trample "], "A": ["encourage ", "let go ", "release ", "pull "]}
+{"index": 301766, "D": "to press into a flat mass or pulp; crush", "S": ["crush", "extinguish", "flatten", "quash", "quell", "squish", "suppress", "trample"], "A": ["encourage", "let go", "release", "pull"]}

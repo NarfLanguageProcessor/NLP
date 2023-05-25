@@ -1,1 +1,1 @@
-{"index": 305976, "D": "something that streams", "S": ["flag ", "pennant "], "A": []}
+{"index": 305976, "D": "something that streams", "S": ["flag", "pennant"], "A": []}

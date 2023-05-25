@@ -1,0 +1,1 @@
+{"index": 4335, "D": "the act of paying honor, as to a divine being; worship.", "S": ["admiration", "devotion", "esteem", "reverence", "veneration"], "A": ["disregard", "disrespect", "condemnation", "debasement", "denunciation", "dislike", "hate", "hatred", "humiliation", "indifference"]}

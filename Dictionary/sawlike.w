@@ -1,1 +1,1 @@
-{"index": 279182, "D": "a tool or device for cutting, typically a thin blade of metal with a series of sharp teeth.", "S": ["indented ", "notched ", "ragged ", "scored ", "serrate "], "A": ["smooth "]}
+{"index": 279182, "D": "a tool or device for cutting, typically a thin blade of metal with a series of sharp teeth.", "S": ["indented", "notched", "ragged", "scored", "serrate"], "A": ["smooth"]}

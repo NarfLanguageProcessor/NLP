@@ -1,1 +1,1 @@
-{"index": 85292, "D": "the act or process of differentiating,  or the state of being differentiated.", "S": ["contrast ", "discernment ", "discrimination ", "separation "], "A": []}
+{"index": 85292, "D": "the act or process of differentiating,  or the state of being differentiated.", "S": ["contrast", "discernment", "discrimination", "separation"], "A": []}

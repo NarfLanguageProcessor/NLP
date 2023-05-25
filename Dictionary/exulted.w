@@ -1,1 +1,1 @@
-{"index": 108823, "D": "to show or feel a lively or triumphant joy; rejoice exceedingly; be highly elated or jubilant", "S": ["rejoice "], "A": ["be sad ", "conceal ", "grieve ", "hide ", "mourn "]}
+{"index": 108823, "D": "to show or feel a lively or triumphant joy; rejoice exceedingly; be highly elated or jubilant", "S": ["rejoice"], "A": ["be sad", "conceal", "grieve", "hide", "mourn"]}

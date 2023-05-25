@@ -1,1 +1,1 @@
-{"index": 243993, "D": "an official code  used by the post office,  similar to the U.S. zip code,  that adds numbers and letters to addresses to expedite mail delivery.", "S": ["ZIP code ", "ZIP plus four ", "zip "], "A": []}
+{"index": 243993, "D": "an official code  used by the post office,  similar to the U.S. zip code,  that adds numbers and letters to addresses to expedite mail delivery.", "S": ["ZIP code", "ZIP plus four", "zip"], "A": []}

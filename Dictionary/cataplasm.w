@@ -1,1 +1,1 @@
-{"index": 49362, "D": "poultice. ", "S": ["compress ", "dressing ", "fomentation ", "plaster "], "A": []}
+{"index": 49362, "D": "poultice. ", "S": ["compress", "dressing", "fomentation", "plaster"], "A": []}

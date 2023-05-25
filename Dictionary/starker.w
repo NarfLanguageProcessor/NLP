@@ -1,1 +1,1 @@
-{"index": 302903, "D": "U.S. cellist, born in Hungary.", "S": ["blunt ", "simple "], "A": ["clothed ", "covered ", "indefinite "]}
+{"index": 302903, "D": "U.S. cellist, born in Hungary.", "S": ["blunt", "simple"], "A": ["clothed", "covered", "indefinite"]}

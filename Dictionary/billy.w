@@ -1,0 +1,1 @@
+{"index": 34008, "D": "a police officer's club or baton.", "S": ["cudgel", "mace", "nightstick", "rod", "truncheon", "wand"], "A": []}

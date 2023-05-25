@@ -1,1 +1,1 @@
-{"index": 30829, "D": "obligated; indebted", "S": ["grateful ", "obligated ", "obliged "], "A": []}
+{"index": 30829, "D": "obligated; indebted", "S": ["grateful", "obligated", "obliged"], "A": []}

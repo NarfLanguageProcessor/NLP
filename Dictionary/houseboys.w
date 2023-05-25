@@ -1,1 +1,1 @@
-{"index": 144386, "D": "houseman (def. 1). ", "S": ["man ", "manservant ", "steward ", "valet "], "A": ["boss ", "master "]}
+{"index": 144386, "D": "houseman (def. 1). ", "S": ["man", "manservant", "steward", "valet"], "A": ["boss", "master"]}

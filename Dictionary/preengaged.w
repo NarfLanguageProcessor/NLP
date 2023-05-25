@@ -1,1 +1,1 @@
-{"index": 247285, "D": "to engage  beforehand.", "S": ["enter ", "hire ", "line up ", "organize ", "schedule ", "set up "], "A": ["cancel ", "dismiss ", "let go ", "reject "]}
+{"index": 247285, "D": "to engage  beforehand.", "S": ["enter", "hire", "line up", "organize", "schedule", "set up"], "A": ["cancel", "dismiss", "let go", "reject"]}

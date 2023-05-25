@@ -1,1 +1,1 @@
-{"index": 148300, "D": "the state or process of having been told, given, or granted something", "S": ["acknowledgment ", "admission ", "confession ", "discovery ", "exposure ", "leak ", "publication "], "A": ["concealment ", "denial "]}
+{"index": 148300, "D": "the state or process of having been told, given, or granted something", "S": ["acknowledgment", "admission", "confession", "discovery", "exposure", "leak", "publication"], "A": ["concealment", "denial"]}

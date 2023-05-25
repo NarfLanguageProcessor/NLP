@@ -1,1 +1,1 @@
-{"index": 69685, "D": "an error to be corrected, especially an error in print.", "S": ["correction "], "A": []}
+{"index": 69685, "D": "an error to be corrected, especially an error in print.", "S": ["correction"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 53213, "D": "zealous and aggressive patriotism or blind enthusiasm for military glory.", "S": ["fanaticism ", "jingoism ", "nationalism "], "A": []}
+{"index": 53213, "D": "zealous and aggressive patriotism or blind enthusiasm for military glory.", "S": ["fanaticism", "jingoism", "nationalism"], "A": []}

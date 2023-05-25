@@ -1,1 +1,1 @@
-{"index": 21771, "D": "capable of being specified", "S": ["debatable ", "transferable "], "A": []}
+{"index": 21771, "D": "capable of being specified", "S": ["debatable", "transferable"], "A": []}

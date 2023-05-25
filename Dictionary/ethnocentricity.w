@@ -1,1 +1,1 @@
-{"index": 105076, "D": "demonstrating a belief in the inherent superiority of one\u2019s own ethnic group or culture", "S": ["fanaticism ", "jingoism ", "nationalism "], "A": []}
+{"index": 105076, "D": "demonstrating a belief in the inherent superiority of one\u2019s own ethnic group or culture", "S": ["fanaticism", "jingoism", "nationalism"], "A": []}

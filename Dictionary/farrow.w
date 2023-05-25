@@ -1,1 +1,1 @@
-{"index": 110039, "D": "a litter of pigs.", "S": ["anteater ", "edentate "], "A": []}
+{"index": 110039, "D": "a litter of pigs.", "S": ["anteater", "edentate"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 197828, "D": "a cemetery, especially one of large size and usually of an ancient city.", "S": ["catacomb ", "charnel ", "churchyard ", "crypt ", "graveyard ", "sepulcher ", "tomb ", "vault "], "A": []}

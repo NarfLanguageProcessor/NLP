@@ -1,1 +1,1 @@
-{"index": 369542, "D": "a common mineral, zirconium  silicate, ZrSiO4, occurring in small tetragonal crystals or grains of various colors, usually opaque", "S": ["gem ", "jewel ", "rhinestone "], "A": []}
+{"index": 369542, "D": "a common mineral, zirconium  silicate, ZrSiO4, occurring in small tetragonal crystals or grains of various colors, usually opaque", "S": ["gem", "jewel", "rhinestone"], "A": []}

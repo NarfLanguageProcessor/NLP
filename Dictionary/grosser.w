@@ -1,1 +1,1 @@
-{"index": 130236, "D": "a commercial production, as a motion picture or record, that generates a large amount of income.", "S": ["before deductions ", "before tax "], "A": ["net ", "incomplete ", "part "]}
+{"index": 130236, "D": "a commercial production, as a motion picture or record, that generates a large amount of income.", "S": ["before deductions", "before tax"], "A": ["net", "incomplete", "part"]}

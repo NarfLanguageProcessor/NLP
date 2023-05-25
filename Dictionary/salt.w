@@ -1,1 +1,1 @@
-{"index": 277249, "D": "a crystalline compound, sodium chloride, NaCl, occurring as a mineral, a constituent of seawater, etc., and used for seasoning food, as a preservative, etc.", "S": ["flavoring ", "spice "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 277249, "D": "a crystalline compound, sodium chloride, NaCl, occurring as a mineral, a constituent of seawater, etc., and used for seasoning food, as a preservative, etc.", "S": ["flavoring", "spice"], "A": ["dislike", "hate", "hatred"]}

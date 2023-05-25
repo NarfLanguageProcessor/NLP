@@ -1,1 +1,1 @@
-{"index": 293179, "D": "an opening in a roof or ceiling, fitted with glass, for admitting daylight.", "S": ["aperture ", "casement ", "dormer ", "fanlight ", "fenestella ", "fenestra ", "jalousie ", "lancet ", "lunette ", "oriel ", "porthole "], "A": []}
+{"index": 293179, "D": "an opening in a roof or ceiling, fitted with glass, for admitting daylight.", "S": ["aperture", "casement", "dormer", "fanlight", "fenestella", "fenestra", "jalousie", "lancet", "lunette", "oriel", "porthole"], "A": []}

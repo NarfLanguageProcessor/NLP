@@ -1,1 +1,1 @@
-{"index": 305202, "D": "intoxicated or dazed from drugs; high (sometimes followed by out)", "S": ["intoxicated ", "ripped ", "tipsy ", "wasted "], "A": ["sober ", "straight "]}
+{"index": 305202, "D": "intoxicated or dazed from drugs; high (sometimes followed by out)", "S": ["intoxicated", "ripped", "tipsy", "wasted"], "A": ["sober", "straight"]}

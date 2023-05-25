@@ -1,1 +1,1 @@
-{"index": 232582, "D": "an underskirt, especially one that is full and often trimmed and ruffled and of a decorative fabric.", "S": ["balmoral ", "clothes ", "kilt ", "slip ", "undercoat ", "underskirt ", "waistcoat "], "A": []}
+{"index": 232582, "D": "an underskirt, especially one that is full and often trimmed and ruffled and of a decorative fabric.", "S": ["balmoral", "clothes", "kilt", "slip", "undercoat", "underskirt", "waistcoat"], "A": []}

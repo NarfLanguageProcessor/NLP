@@ -1,1 +1,1 @@
-{"index": 191086, "D": "of or relating to present and recent time; not ancient or remote", "S": ["contemporary ", "current ", "modernized ", "present-day ", "state-of-the-art ", "stylish "], "A": ["old ", "old-fashioned ", "past "]}
+{"index": 191086, "D": "of or relating to present and recent time; not ancient or remote", "S": ["contemporary", "current", "modernized", "present-day", "state-of-the-art", "stylish"], "A": ["old", "old-fashioned", "past"]}

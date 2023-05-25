@@ -1,1 +1,1 @@
-{"index": 292300, "D": "side impact protection system", "S": ["imbibe ", "quaff ", "savor "], "A": ["abstain ", "refrain "]}
+{"index": 292300, "D": "side impact protection system", "S": ["imbibe", "quaff", "savor"], "A": ["abstain", "refrain"]}

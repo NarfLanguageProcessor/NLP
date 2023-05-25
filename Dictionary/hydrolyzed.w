@@ -1,1 +1,1 @@
-{"index": 138738, "D": "to subject or be subjected to hydrolysis. ", "S": ["determine ", "dissect ", "parse ", "resolve "], "A": ["waver ", "combine ", "connect ", "join ", "marry ", "put together ", "unite "]}
+{"index": 138738, "D": "to subject or be subjected to hydrolysis. ", "S": ["determine", "dissect", "parse", "resolve"], "A": ["waver", "combine", "connect", "join", "marry", "put together", "unite"]}

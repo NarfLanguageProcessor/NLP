@@ -1,1 +1,1 @@
-{"index": 65381, "D": "serving to settle or decide a question; decisive; convincing", "S": ["assurance ", "certainty ", "certitude ", "confidence ", "positiveness ", "surety "], "A": ["distrust ", "doubt ", "fear ", "uncertainty "]}
+{"index": 65381, "D": "serving to settle or decide a question; decisive; convincing", "S": ["assurance", "certainty", "certitude", "confidence", "positiveness", "surety"], "A": ["distrust", "doubt", "fear", "uncertainty"]}

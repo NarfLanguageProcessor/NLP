@@ -1,1 +1,1 @@
-{"index": 21574, "D": "to examine or analyze", "S": ["appraisal ", "assessment ", "estimation ", "evaluation ", "examination ", "inspection ", "investigation ", "measurement ", "rating ", "survey ", "test ", "trial ", "valuation "], "A": ["ignorance ", "neglect "]}
+{"index": 21574, "D": "to examine or analyze", "S": ["appraisal", "assessment", "estimation", "evaluation", "examination", "inspection", "investigation", "measurement", "rating", "survey", "test", "trial", "valuation"], "A": ["ignorance", "neglect"]}

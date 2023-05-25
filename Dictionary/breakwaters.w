@@ -1,1 +1,1 @@
-{"index": 40278, "D": "a barrier that breaks  the force of waves, as before a harbor.", "S": ["barrier ", "embankment ", "levee ", "pier ", "seawall ", "wharf "], "A": []}
+{"index": 40278, "D": "a barrier that breaks  the force of waves, as before a harbor.", "S": ["barrier", "embankment", "levee", "pier", "seawall", "wharf"], "A": []}

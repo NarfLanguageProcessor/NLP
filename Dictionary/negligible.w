@@ -1,1 +1,1 @@
-{"index": 198066, "D": "so small, trifling, or unimportant that it may safely be neglected or disregarded", "S": ["imperceptible ", "inconsequential ", "slight ", "slim ", "trivial ", "unimportant "], "A": ["big ", "important ", "significant ", "useful ", "worthwhile "]}
+{"index": 198066, "D": "so small, trifling, or unimportant that it may safely be neglected or disregarded", "S": ["imperceptible", "inconsequential", "slight", "slim", "trivial", "unimportant"], "A": ["big", "important", "significant", "useful", "worthwhile"]}

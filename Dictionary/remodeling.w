@@ -1,1 +1,1 @@
-{"index": 267392, "D": [], "S": ["refitting ", "refurnishing ", "reshaping ", "reworking "], "A": []}
+{"index": 267392, "D": [], "S": ["refitting", "refurnishing", "reshaping", "reworking"], "A": []}

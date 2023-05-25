@@ -1,1 +1,1 @@
-{"index": 228472, "D": [], "S": ["choker ", "necklace ", "pendant ", "rosary "], "A": []}
+{"index": 228472, "D": [], "S": ["choker", "necklace", "pendant", "rosary"], "A": []}

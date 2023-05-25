@@ -1,1 +1,1 @@
-{"index": 363285, "D": "a number of rods or stakes interwoven with twigs or tree branches for making fences, walls, etc.", "S": ["fence ", "gill ", "roof ", "wall "], "A": []}
+{"index": 363285, "D": "a number of rods or stakes interwoven with twigs or tree branches for making fences, walls, etc.", "S": ["fence", "gill", "roof", "wall"], "A": []}

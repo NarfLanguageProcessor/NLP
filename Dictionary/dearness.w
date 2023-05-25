@@ -1,1 +1,1 @@
-{"index": 77614, "D": "beloved or loved", "S": ["affection ", "familiarity ", "friendship ", "intimacy "], "A": ["enmity ", "hate ", "hatred "]}
+{"index": 77614, "D": "beloved or loved", "S": ["affection", "familiarity", "friendship", "intimacy"], "A": ["enmity", "hate", "hatred"]}

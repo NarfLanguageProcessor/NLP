@@ -1,1 +1,1 @@
-{"index": 249398, "D": "something that preserves  or tends to preserve. ", "S": ["conservative ", "conservatory ", "defensive "], "A": []}
+{"index": 249398, "D": "something that preserves  or tends to preserve. ", "S": ["conservative", "conservatory", "defensive"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 323792, "D": [], "S": ["apartment ", "co-op ", "condo ", "townhouse "], "A": []}
+{"index": 323792, "D": [], "S": ["apartment", "co-op", "condo", "townhouse"], "A": []}

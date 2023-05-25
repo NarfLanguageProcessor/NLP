@@ -1,1 +1,1 @@
-{"index": 152060, "D": "a physical weakness or ailment", "S": ["affliction ", "ailment ", "deficiency ", "frailty ", "ill health ", "imperfection ", "malady "], "A": ["health ", "perfection ", "ability ", "advantage ", "improvement ", "soundness ", "strength ", "strong point "]}
+{"index": 152060, "D": "a physical weakness or ailment", "S": ["affliction", "ailment", "deficiency", "frailty", "ill health", "imperfection", "malady"], "A": ["health", "perfection", "ability", "advantage", "improvement", "soundness", "strength", "strong point"]}

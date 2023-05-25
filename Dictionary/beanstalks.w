@@ -1,1 +1,1 @@
-{"index": 29503, "D": "the stem of a bean  plant.", "S": ["beanstalk ", "broomstick ", "hatrack ", "stick ", "string bean "], "A": []}
+{"index": 29503, "D": "the stem of a bean  plant.", "S": ["beanstalk", "broomstick", "hatrack", "stick", "string bean"], "A": []}

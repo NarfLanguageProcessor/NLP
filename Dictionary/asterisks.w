@@ -1,0 +1,1 @@
+{"index": 22041, "D": "a small starlike symbol (*), used in writing and printing as a reference mark or to indicate omission, doubtful matter, etc.", "S": ["bullet", "caret", "dagger", "diacritical mark", "ditto", "double dagger", "leaders", "punctuation", "punctuation mark", "reference"], "A": []}

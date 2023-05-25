@@ -1,1 +1,1 @@
-{"index": 230531, "D": "to travel or journey, especially to walk on foot.", "S": ["cruise ", "fare ", "fly ", "go ", "hie ", "hop ", "jet ", "proceed ", "ramble ", "range ", "roam ", "rove ", "tour ", "travel ", "traverse ", "trek ", "trip ", "wander ", "wend "], "A": ["remain ", "stay "]}
+{"index": 230531, "D": "to travel or journey, especially to walk on foot.", "S": ["cruise", "fare", "fly", "go", "hie", "hop", "jet", "proceed", "ramble", "range", "roam", "rove", "tour", "travel", "traverse", "trek", "trip", "wander", "wend"], "A": ["remain", "stay"]}

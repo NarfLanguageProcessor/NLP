@@ -1,1 +1,1 @@
-{"index": 147684, "D": "to consume (liquids) by drinking; drink", "S": ["assimilate ", "guzzle ", "ingest ", "quaff "], "A": ["abstain ", "fast "]}
+{"index": 147684, "D": "to consume (liquids) by drinking; drink", "S": ["assimilate", "guzzle", "ingest", "quaff"], "A": ["abstain", "fast"]}

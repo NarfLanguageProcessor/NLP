@@ -1,1 +1,1 @@
-{"index": 212761, "D": "being or amounting to a single unit or individual or entire thing, item, or object rather than two or more; a single", "S": ["someone ", "whoever "], "A": ["nobody ", "unknown "]}
+{"index": 212761, "D": "being or amounting to a single unit or individual or entire thing, item, or object rather than two or more; a single", "S": ["someone", "whoever"], "A": ["nobody", "unknown"]}

@@ -1,1 +1,1 @@
-{"index": 180289, "D": "abandoned on a desolate island or coast by way of punishment or the like, as was done by buccaneers", "S": ["abandoned ", "deserted ", "stranded ", "wrecked "], "A": ["at sea "]}
+{"index": 180289, "D": "abandoned on a desolate island or coast by way of punishment or the like, as was done by buccaneers", "S": ["abandoned", "deserted", "stranded", "wrecked"], "A": ["at sea"]}

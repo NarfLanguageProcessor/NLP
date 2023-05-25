@@ -1,1 +1,1 @@
-{"index": 98810, "D": "to put in place or position", "S": ["arrange ", "install ", "locate ", "place ", "put ", "set ", "situate "], "A": ["disarrange ", "disorder ", "displace ", "lose ", "remove "]}
+{"index": 98810, "D": "to put in place or position", "S": ["arrange", "install", "locate", "place", "put", "set", "situate"], "A": ["disarrange", "disorder", "displace", "lose", "remove"]}

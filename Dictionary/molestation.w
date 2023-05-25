@@ -1,1 +1,1 @@
-{"index": 191459, "D": "See also sexual abuse. ", "S": ["aggravation "], "A": ["advantage ", "calm ", "calmness ", "comfort ", "contentment ", "delight ", "ease ", "good health ", "happiness ", "health ", "joy ", "peace ", "pleasure ", "tranquility "]}
+{"index": 191459, "D": "See also sexual abuse. ", "S": ["aggravation"], "A": ["advantage", "calm", "calmness", "comfort", "contentment", "delight", "ease", "good health", "happiness", "health", "joy", "peace", "pleasure", "tranquility"]}

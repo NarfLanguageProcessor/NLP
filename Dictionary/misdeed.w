@@ -1,1 +1,1 @@
-{"index": 189080, "D": "an immoral or wicked deed.", "S": ["infringement ", "misbehavior ", "misconduct ", "offense ", "peccadillo ", "sin ", "transgression ", "violation "], "A": ["behavior ", "manners ", "obedience "]}
+{"index": 189080, "D": "an immoral or wicked deed.", "S": ["infringement", "misbehavior", "misconduct", "offense", "peccadillo", "sin", "transgression", "violation"], "A": ["behavior", "manners", "obedience"]}

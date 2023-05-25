@@ -1,1 +1,1 @@
-{"index": 115811, "D": "the lobby of a theater, hotel, or apartment house.", "S": ["lobby ", "vestibule "], "A": []}
+{"index": 115811, "D": "the lobby of a theater, hotel, or apartment house.", "S": ["lobby", "vestibule"], "A": []}

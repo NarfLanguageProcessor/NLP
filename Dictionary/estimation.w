@@ -1,1 +1,1 @@
-{"index": 104672, "D": "judgment or opinion", "S": ["appraisal ", "assessment ", "evaluation ", "reckoning "], "A": ["disapproval ", "disdain ", "dishonor ", "dislike ", "disregard ", "disrespect ", "hate ", "ignorance ", "neglect ", "truth "]}
+{"index": 104672, "D": "judgment or opinion", "S": ["appraisal", "assessment", "evaluation", "reckoning"], "A": ["disapproval", "disdain", "dishonor", "dislike", "disregard", "disrespect", "hate", "ignorance", "neglect", "truth"]}

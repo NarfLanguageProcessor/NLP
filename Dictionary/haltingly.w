@@ -1,1 +1,1 @@
-{"index": 132873, "D": "faltering or hesitating, especially in speech.", "S": ["calmly ", "casually ", "deliberately ", "gently ", "gradually ", "lazily ", "nonchalantly "], "A": ["fast ", "quickly ", "rapidly "]}
+{"index": 132873, "D": "faltering or hesitating, especially in speech.", "S": ["calmly", "casually", "deliberately", "gently", "gradually", "lazily", "nonchalantly"], "A": ["fast", "quickly", "rapidly"]}

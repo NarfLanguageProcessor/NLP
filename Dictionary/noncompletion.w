@@ -1,1 +1,1 @@
-{"index": 202155, "D": "the act of completing. ", "S": ["job half-done ", "work undone "], "A": []}
+{"index": 202155, "D": "the act of completing. ", "S": ["job half-done", "work undone"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 24756, "D": "a woman who is a pilot; aviator. ", "S": ["aviator "], "A": []}
+{"index": 24756, "D": "a woman who is a pilot; aviator. ", "S": ["aviator"], "A": []}

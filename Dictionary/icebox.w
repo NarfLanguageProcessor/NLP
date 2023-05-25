@@ -1,1 +1,1 @@
-{"index": 145974, "D": "an insulated cabinet or chest with a partition for ice,  used for preserving or cooling food, beverages, etc.", "S": ["breezy ", "brisk ", "cool ", "crisp ", "freezing ", "frosty ", "icy ", "wintry "], "A": ["friendly ", "heated ", "hot ", "temperate "]}
+{"index": 145974, "D": "an insulated cabinet or chest with a partition for ice,  used for preserving or cooling food, beverages, etc.", "S": ["breezy", "brisk", "cool", "crisp", "freezing", "frosty", "icy", "wintry"], "A": ["friendly", "heated", "hot", "temperate"]}

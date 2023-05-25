@@ -1,1 +1,1 @@
-{"index": 293687, "D": "a sharp blow or smack, especially with the open hand or with something flat.", "S": ["beating ", "punishing ", "slamming ", "smacking ", "thumping ", "whacking ", "whipping "], "A": []}
+{"index": 293687, "D": "a sharp blow or smack, especially with the open hand or with something flat.", "S": ["beating", "punishing", "slamming", "smacking", "thumping", "whacking", "whipping"], "A": []}

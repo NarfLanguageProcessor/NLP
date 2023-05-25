@@ -1,1 +1,1 @@
-{"index": 246656, "D": "the state of living as a predator or by predation. ", "S": ["predacity ", "predation ", "rapaciousness ", "rapacity "], "A": []}
+{"index": 246656, "D": "the state of living as a predator or by predation. ", "S": ["predacity", "predation", "rapaciousness", "rapacity"], "A": []}

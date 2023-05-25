@@ -1,1 +1,1 @@
-{"index": 125114, "D": "a flat trimming of silk, wool, or other cord, sometimes stiffened with wire, for garments, curtains, etc.", "S": ["falter ", "hobble ", "hop ", "shuffle ", "stagger ", "stumble ", "waddle "], "A": ["run "]}
+{"index": 125114, "D": "a flat trimming of silk, wool, or other cord, sometimes stiffened with wire, for garments, curtains, etc.", "S": ["falter", "hobble", "hop", "shuffle", "stagger", "stumble", "waddle"], "A": ["run"]}

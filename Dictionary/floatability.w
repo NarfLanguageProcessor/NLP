@@ -1,1 +1,1 @@
-{"index": 114797, "D": "capable of floating;  that can be floated. ", "S": ["airiness ", "ethereality ", "levity ", "weightlessness "], "A": ["blues ", "depression ", "heaviness "]}
+{"index": 114797, "D": "capable of floating;  that can be floated. ", "S": ["airiness", "ethereality", "levity", "weightlessness"], "A": ["blues", "depression", "heaviness"]}

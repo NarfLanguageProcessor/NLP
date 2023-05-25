@@ -1,1 +1,1 @@
-{"index": 118600, "D": "generous; liberal.", "S": ["altruistic ", "beneficent ", "benevolent ", "bighearted ", "bountiful ", "charitable ", "handsome ", "lavish ", "liberal ", "munificent ", "openhanded ", "philanthropic ", "unselfish ", "unsparing "], "A": []}
+{"index": 118600, "D": "generous; liberal.", "S": ["altruistic", "beneficent", "benevolent", "bighearted", "bountiful", "charitable", "handsome", "lavish", "liberal", "munificent", "openhanded", "philanthropic", "unselfish", "unsparing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 131896, "D": "made commonplace or trite; stale; banal", "S": ["banal ", "corny ", "stale ", "threadbare ", "timeworn ", "trite ", "well-worn "], "A": ["fresh ", "new ", "original "]}
+{"index": 131896, "D": "made commonplace or trite; stale; banal", "S": ["banal", "corny", "stale", "threadbare", "timeworn", "trite", "well-worn"], "A": ["fresh", "new", "original"]}

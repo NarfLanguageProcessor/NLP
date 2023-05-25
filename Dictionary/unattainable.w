@@ -1,1 +1,1 @@
-{"index": 335378, "D": "an unattainable goal", "S": ["distant ", "elusive ", "impassable ", "impervious ", "insurmountable ", "unreachable ", "unworkable "], "A": ["open "]}
+{"index": 335378, "D": "an unattainable goal", "S": ["distant", "elusive", "impassable", "impervious", "insurmountable", "unreachable", "unworkable"], "A": ["open"]}

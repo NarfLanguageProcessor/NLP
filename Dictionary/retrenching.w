@@ -1,1 +1,1 @@
-{"index": 270722, "D": "to cut down, reduce, or diminish; curtail (expenses).", "S": ["conserve ", "curtail ", "cut down "], "A": []}
+{"index": 270722, "D": "to cut down, reduce, or diminish; curtail (expenses).", "S": ["conserve", "curtail", "cut down"], "A": []}

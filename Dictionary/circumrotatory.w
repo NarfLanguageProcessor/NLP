@@ -1,1 +1,1 @@
-{"index": 58214, "D": "to rotate like a wheel.", "S": ["whirling "], "A": []}
+{"index": 58214, "D": "to rotate like a wheel.", "S": ["whirling"], "A": []}

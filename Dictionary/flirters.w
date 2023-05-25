@@ -1,1 +1,1 @@
-{"index": 114714, "D": "to court triflingly or act amorously without serious intentions; play at love; coquet.", "S": ["seducer ", "siren ", "tease ", "vamp "], "A": []}
+{"index": 114714, "D": "to court triflingly or act amorously without serious intentions; play at love; coquet.", "S": ["seducer", "siren", "tease", "vamp"], "A": []}

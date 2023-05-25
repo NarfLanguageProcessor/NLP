@@ -1,1 +1,1 @@
-{"index": 11532, "D": "pertaining to or containing an anachronism. ", "S": ["antiquated ", "archaic ", "out-of-date ", "outmoded "], "A": ["current ", "modern ", "new "]}
+{"index": 11532, "D": "pertaining to or containing an anachronism. ", "S": ["antiquated", "archaic", "out-of-date", "outmoded"], "A": ["current", "modern", "new"]}

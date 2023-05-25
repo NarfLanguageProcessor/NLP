@@ -1,1 +1,1 @@
-{"index": 261300, "D": "small cases of pasta, often square, stuffed with a filling, usually of meat or cheese, and often served with a tomato sauce.", "S": ["gnocchi ", "linguine ", "macaroni ", "spaghetti ", "tortellini "], "A": []}
+{"index": 261300, "D": "small cases of pasta, often square, stuffed with a filling, usually of meat or cheese, and often served with a tomato sauce.", "S": ["gnocchi", "linguine", "macaroni", "spaghetti", "tortellini"], "A": []}

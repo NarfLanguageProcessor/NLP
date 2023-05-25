@@ -1,1 +1,1 @@
-{"index": 336720, "D": "an unchanging nature", "S": ["abiding ", "enduring ", "eternal ", "immutable ", "rigid "], "A": ["changeable ", "ephemeral ", "flexible ", "transient "]}
+{"index": 336720, "D": "an unchanging nature", "S": ["abiding", "enduring", "eternal", "immutable", "rigid"], "A": ["changeable", "ephemeral", "flexible", "transient"]}

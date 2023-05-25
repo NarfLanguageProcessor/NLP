@@ -1,1 +1,1 @@
-{"index": 58680, "D": [], "S": ["emancipate ", "empower ", "free ", "liberate ", "manumit ", "naturalize ", "release "], "A": ["hold ", "incarcerate ", "limit ", "restrain "]}
+{"index": 58680, "D": [], "S": ["emancipate", "empower", "free", "liberate", "manumit", "naturalize", "release"], "A": ["hold", "incarcerate", "limit", "restrain"]}

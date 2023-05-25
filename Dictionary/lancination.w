@@ -1,1 +1,1 @@
-{"index": 167905, "D": "to stab or pierce.", "S": ["ache ", "pang ", "shiver ", "spasm "], "A": ["advantage ", "blessing ", "good fortune "]}
+{"index": 167905, "D": "to stab or pierce.", "S": ["ache", "pang", "shiver", "spasm"], "A": ["advantage", "blessing", "good fortune"]}

@@ -1,1 +1,1 @@
-{"index": 78423, "D": "Compare superstructure (def. 4). ", "S": ["box ", "camp ", "chalet ", "compartment ", "cottage ", "home ", "hut ", "lodge ", "room ", "shack ", "shanty ", "shed ", "shelter "], "A": []}
+{"index": 78423, "D": "Compare superstructure (def. 4). ", "S": ["box", "camp", "chalet", "compartment", "cottage", "home", "hut", "lodge", "room", "shack", "shanty", "shed", "shelter"], "A": []}

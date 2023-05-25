@@ -1,1 +1,1 @@
-{"index": 261037, "D": "to confirm by expressing consent, approval, or formal sanction", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}
+{"index": 261037, "D": "to confirm by expressing consent, approval, or formal sanction", "S": ["affirmatory", "approving", "positive", "supporting"], "A": ["dissenting", "negative"]}

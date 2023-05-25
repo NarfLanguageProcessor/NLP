@@ -1,1 +1,1 @@
-{"index": 340969, "D": "not easy in body or mind; uncomfortable; restless; disturbed; perturbed. ", "S": ["agonizingly ", "awkwardly ", "disturbingly ", "excruciatingly ", "restlessly "], "A": []}
+{"index": 340969, "D": "not easy in body or mind; uncomfortable; restless; disturbed; perturbed. ", "S": ["agonizingly", "awkwardly", "disturbingly", "excruciatingly", "restlessly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 298823, "D": "specification (def. 2). ", "S": ["daub ", "mottle ", "smudge ", "speckle "], "A": ["clean ", "collect ", "dry ", "gather "]}
+{"index": 298823, "D": "specification (def. 2). ", "S": ["daub", "mottle", "smudge", "speckle"], "A": ["clean", "collect", "dry", "gather"]}

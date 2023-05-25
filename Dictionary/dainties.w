@@ -1,1 +1,1 @@
-{"index": 76353, "D": "of delicate beauty; exquisite", "S": ["bread ", "cake ", "croissant ", "doughnut ", "phyllo ", "pie "], "A": []}
+{"index": 76353, "D": "of delicate beauty; exquisite", "S": ["bread", "cake", "croissant", "doughnut", "phyllo", "pie"], "A": []}

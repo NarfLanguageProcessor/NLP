@@ -1,1 +1,0 @@
-{"index": 302345, "D": "a piece of a stag's  antler, especially when used to form objects, decorations, or the like.", "S": [], "A": []}

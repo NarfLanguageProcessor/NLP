@@ -1,1 +1,1 @@
-{"index": 277306, "D": "tasting of or containing salt; saline. ", "S": ["alkaline ", "briny ", "pungent ", "saline ", "salted ", "sour "], "A": ["blah ", "bland ", "dull "]}
+{"index": 277306, "D": "tasting of or containing salt; saline. ", "S": ["alkaline", "briny", "pungent", "saline", "salted", "sour"], "A": ["blah", "bland", "dull"]}

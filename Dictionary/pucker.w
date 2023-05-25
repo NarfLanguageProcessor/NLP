@@ -1,1 +1,1 @@
-{"index": 255977, "D": "to draw or gather into wrinkles or irregular folds, as material or a part of the face; constrict", "S": ["crease ", "crinkle ", "crumple ", "fold ", "furrow ", "plait ", "ruck ", "ruckle "], "A": ["smoothness "]}
+{"index": 255977, "D": "to draw or gather into wrinkles or irregular folds, as material or a part of the face; constrict", "S": ["crease", "crinkle", "crumple", "fold", "furrow", "plait", "ruck", "ruckle"], "A": ["smoothness"]}

@@ -1,1 +1,1 @@
-{"index": 20472, "D": "a blood vessel that conveys blood from the heart to any part of the body.", "S": ["avenue ", "boulevard ", "corridor ", "duct ", "highway ", "passage ", "pathway ", "road ", "route ", "sewer ", "thoroughfare ", "tube "], "A": []}
+{"index": 20472, "D": "a blood vessel that conveys blood from the heart to any part of the body.", "S": ["avenue", "boulevard", "corridor", "duct", "highway", "passage", "pathway", "road", "route", "sewer", "thoroughfare", "tube"], "A": []}

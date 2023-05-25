@@ -1,1 +1,1 @@
-{"index": 174433, "D": "any of various leguminous plants of the genera Astragalus and Oxytropis, of the southwestern U.S. and Mexico, causing locoism in sheep, horses, etc.", "S": ["bhang ", "cannabis ", "dope ", "hashish ", "hemp ", "herb ", "tea "], "A": []}
+{"index": 174433, "D": "any of various leguminous plants of the genera Astragalus and Oxytropis, of the southwestern U.S. and Mexico, causing locoism in sheep, horses, etc.", "S": ["bhang", "cannabis", "dope", "hashish", "hemp", "herb", "tea"], "A": []}

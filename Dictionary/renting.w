@@ -1,1 +1,1 @@
-{"index": 267776, "D": "a payment made periodically by a tenant to a landlord in return for the use of land, a building, an apartment, an office, or other property.", "S": ["financing "], "A": []}
+{"index": 267776, "D": "a payment made periodically by a tenant to a landlord in return for the use of land, a building, an apartment, an office, or other property.", "S": ["financing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 125467, "D": "the act of gyrating;  circular or spiral motion; revolution; rotation; whirling.", "S": ["whirling "], "A": []}
+{"index": 125467, "D": "the act of gyrating;  circular or spiral motion; revolution; rotation; whirling.", "S": ["whirling"], "A": []}

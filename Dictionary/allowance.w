@@ -1,1 +1,1 @@
-{"index": 9011, "D": "the act of allowing. ", "S": ["aid ", "alimony ", "allocation ", "allotment ", "annuity ", "contribution ", "fee ", "gift ", "grant ", "pension ", "quota ", "ration ", "salary ", "scholarship ", "stipend ", "subsidy ", "wage "], "A": ["forfeit ", "loss ", "whole "]}
+{"index": 9011, "D": "the act of allowing. ", "S": ["aid", "alimony", "allocation", "allotment", "annuity", "contribution", "fee", "gift", "grant", "pension", "quota", "ration", "salary", "scholarship", "stipend", "subsidy", "wage"], "A": ["forfeit", "loss", "whole"]}

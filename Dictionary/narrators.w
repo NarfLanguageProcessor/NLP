@@ -1,1 +1,1 @@
-{"index": 197050, "D": "a person who gives an account or tells the story of events, experiences, etc.", "S": ["author ", "chronicler ", "novelist ", "writer "], "A": []}
+{"index": 197050, "D": "a person who gives an account or tells the story of events, experiences, etc.", "S": ["author", "chronicler", "novelist", "writer"], "A": []}

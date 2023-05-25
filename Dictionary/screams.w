@@ -1,1 +1,1 @@
-{"index": 281679, "D": "to utter a loud, sharp, piercing cry.", "S": ["cry ", "howl ", "screech ", "shriek ", "wail ", "yelp "], "A": ["seriousness "]}
+{"index": 281679, "D": "to utter a loud, sharp, piercing cry.", "S": ["cry", "howl", "screech", "shriek", "wail", "yelp"], "A": ["seriousness"]}

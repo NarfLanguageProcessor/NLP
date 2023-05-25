@@ -1,1 +1,1 @@
-{"index": 70876, "D": "a clerk in a retail store.", "S": ["agent ", "auditor ", "bookkeeper ", "cashier ", "employee ", "operator ", "receptionist ", "salesperson ", "secretary ", "teller ", "worker "], "A": []}
+{"index": 70876, "D": "a clerk in a retail store.", "S": ["agent", "auditor", "bookkeeper", "cashier", "employee", "operator", "receptionist", "salesperson", "secretary", "teller", "worker"], "A": []}

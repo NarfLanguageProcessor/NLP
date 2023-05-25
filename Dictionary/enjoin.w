@@ -1,1 +1,1 @@
-{"index": 100609, "D": "to prescribe (a course of action) with authority or emphasis", "S": ["admonish "], "A": ["ask "]}
+{"index": 100609, "D": "to prescribe (a course of action) with authority or emphasis", "S": ["admonish"], "A": ["ask"]}

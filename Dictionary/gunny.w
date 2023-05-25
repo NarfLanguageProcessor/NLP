@@ -1,1 +1,1 @@
-{"index": 131401, "D": "a strong, coarse material made commonly from jute, especially for bags or sacks; burlap.", "S": ["bag ", "cloth ", "sacking ", "wrapping "], "A": []}
+{"index": 131401, "D": "a strong, coarse material made commonly from jute, especially for bags or sacks; burlap.", "S": ["bag", "cloth", "sacking", "wrapping"], "A": []}

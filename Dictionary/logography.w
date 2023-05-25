@@ -1,1 +1,1 @@
-{"index": 174668, "D": "printing with logotypes.", "S": ["orthographic study "], "A": []}
+{"index": 174668, "D": "printing with logotypes.", "S": ["orthographic study"], "A": []}

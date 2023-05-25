@@ -1,1 +1,1 @@
-{"index": 25013, "D": "very; extremely", "S": ["dreadfully ", "wickedly "], "A": []}
+{"index": 25013, "D": "very; extremely", "S": ["dreadfully", "wickedly"], "A": []}

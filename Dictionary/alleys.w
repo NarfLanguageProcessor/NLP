@@ -1,1 +1,1 @@
-{"index": 8625, "D": "a passage, as through a continuous row of houses, permitting access from the street to backyards, garages, etc.", "S": ["alleyway ", "lane ", "passageway ", "path ", "pathway ", "walk "], "A": []}
+{"index": 8625, "D": "a passage, as through a continuous row of houses, permitting access from the street to backyards, garages, etc.", "S": ["alleyway", "lane", "passageway", "path", "pathway", "walk"], "A": []}

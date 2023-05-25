@@ -1,1 +1,1 @@
-{"index": 357178, "D": "tending to change or alter; exhibiting variety or diversity; varying", "S": ["alternative "], "A": ["agreeing ", "same ", "similar "]}
+{"index": 357178, "D": "tending to change or alter; exhibiting variety or diversity; varying", "S": ["alternative"], "A": ["agreeing", "same", "similar"]}

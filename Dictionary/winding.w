@@ -1,1 +1,1 @@
-{"index": 365965, "D": "the act of a person or thing that winds.", "S": ["bending ", "curving ", "meandering ", "serpentine ", "sinuous ", "snaking ", "tortuous ", "turning ", "twisting ", "twisty ", "windy ", "zigzag "], "A": ["direct ", "simple ", "straight ", "straightforward "]}
+{"index": 365965, "D": "the act of a person or thing that winds.", "S": ["bending", "curving", "meandering", "serpentine", "sinuous", "snaking", "tortuous", "turning", "twisting", "twisty", "windy", "zigzag"], "A": ["direct", "simple", "straight", "straightforward"]}

@@ -1,1 +1,1 @@
-{"index": 287130, "D": "rough, matted hair, wool, or the like.", "S": ["only ", "unattended "], "A": ["together "]}
+{"index": 287130, "D": "rough, matted hair, wool, or the like.", "S": ["only", "unattended"], "A": ["together"]}

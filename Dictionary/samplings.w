@@ -1,1 +1,1 @@
-{"index": 277596, "D": "the act or process of selecting a sample  for testing, analyzing, etc.", "S": ["detail ", "example ", "item ", "occasion ", "occurrence ", "particular ", "precedent ", "proof ", "reason "], "A": []}
+{"index": 277596, "D": "the act or process of selecting a sample  for testing, analyzing, etc.", "S": ["detail", "example", "item", "occasion", "occurrence", "particular", "precedent", "proof", "reason"], "A": []}

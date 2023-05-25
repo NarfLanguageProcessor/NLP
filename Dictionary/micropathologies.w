@@ -1,1 +1,0 @@
-{"index": 186337, "D": "the branch of pathology  dealing with the microscopic study of changes that occur in tissues and cells during disease.", "S": [], "A": []}

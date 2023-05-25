@@ -1,1 +1,1 @@
-{"index": 122339, "D": "extravagant boasting; boastful talk.", "S": ["advertise ", "aggrandize ", "blow ", "bluster ", "brag ", "bully ", "cock-a-doodle-doo ", "con ", "crow ", "exaggerate ", "exult ", "fake ", "flaunt ", "flourish ", "gloat "], "A": ["be sad ", "conceal ", "hide "]}
+{"index": 122339, "D": "extravagant boasting; boastful talk.", "S": ["advertise", "aggrandize", "blow", "bluster", "brag", "bully", "cock-a-doodle-doo", "con", "crow", "exaggerate", "exult", "fake", "flaunt", "flourish", "gloat"], "A": ["be sad", "conceal", "hide"]}

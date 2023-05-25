@@ -1,1 +1,1 @@
-{"index": 359511, "D": "a cassette  enclosing a length of tape for video  recording or reproduction.", "S": ["cartridge ", "videotape "], "A": []}
+{"index": 359511, "D": "a cassette  enclosing a length of tape for video  recording or reproduction.", "S": ["cartridge", "videotape"], "A": []}

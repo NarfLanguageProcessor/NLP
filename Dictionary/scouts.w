@@ -1,1 +1,1 @@
-{"index": 281468, "D": "a soldier, warship, airplane, etc., employed in reconnoitering.", "S": ["detective ", "recruiter "], "A": ["target "]}
+{"index": 281468, "D": "a soldier, warship, airplane, etc., employed in reconnoitering.", "S": ["detective", "recruiter"], "A": ["target"]}

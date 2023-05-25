@@ -1,1 +1,1 @@
-{"index": 149253, "D": "lacking strength; feeble; weak.", "S": ["helpless ", "impotent ", "inadequate ", "incapable ", "not able ", "powerless ", "sidelined ", "unfit ", "weak "], "A": ["able ", "capable ", "competent ", "fit ", "potent ", "qualified ", "strong ", "sufficient "]}
+{"index": 149253, "D": "lacking strength; feeble; weak.", "S": ["helpless", "impotent", "inadequate", "incapable", "not able", "powerless", "sidelined", "unfit", "weak"], "A": ["able", "capable", "competent", "fit", "potent", "qualified", "strong", "sufficient"]}

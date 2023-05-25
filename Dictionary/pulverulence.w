@@ -1,1 +1,1 @@
-{"index": 256459, "D": "consisting of dust or fine powder.", "S": ["crumb ", "dust "], "A": ["solid "]}
+{"index": 256459, "D": "consisting of dust or fine powder.", "S": ["crumb", "dust"], "A": ["solid"]}

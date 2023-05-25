@@ -1,1 +1,1 @@
-{"index": 151192, "D": "the act of individuating. ", "S": ["answer ", "explanation ", "interpretation ", "rationale ", "solution ", "translation "], "A": ["question "]}
+{"index": 151192, "D": "the act of individuating. ", "S": ["answer", "explanation", "interpretation", "rationale", "solution", "translation"], "A": ["question"]}

@@ -1,1 +1,1 @@
-{"index": 301801, "D": "short and thick; low and broad.", "S": ["below ", "depressed ", "flat ", "little ", "small "], "A": ["big ", "enormous ", "huge ", "immense ", "important ", "large ", "raised "]}
+{"index": 301801, "D": "short and thick; low and broad.", "S": ["below", "depressed", "flat", "little", "small"], "A": ["big", "enormous", "huge", "immense", "important", "large", "raised"]}

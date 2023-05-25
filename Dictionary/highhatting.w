@@ -1,1 +1,1 @@
-{"index": 139259, "D": "top hat. ", "S": ["condescending ", "derisive ", "disdainful ", "disrespectful ", "haughty ", "insulting ", "scornful "], "A": ["flattering ", "humble ", "praising ", "respectful "]}
+{"index": 139259, "D": "top hat. ", "S": ["condescending", "derisive", "disdainful", "disrespectful", "haughty", "insulting", "scornful"], "A": ["flattering", "humble", "praising", "respectful"]}

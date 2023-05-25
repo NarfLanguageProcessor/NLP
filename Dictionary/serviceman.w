@@ -1,1 +1,1 @@
-{"index": 286454, "D": "a member of the armed forces of a country.", "S": ["adversary ", "antagonist ", "assailant ", "attacker ", "enemy ", "soldier "], "A": ["ally ", "assistant ", "friend ", "helper ", "supporter "]}
+{"index": 286454, "D": "a member of the armed forces of a country.", "S": ["adversary", "antagonist", "assailant", "attacker", "enemy", "soldier"], "A": ["ally", "assistant", "friend", "helper", "supporter"]}

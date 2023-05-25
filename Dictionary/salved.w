@@ -1,1 +1,1 @@
-{"index": 277428, "D": "a medicinal ointment for healing or relieving wounds and sores.", "S": ["creamy ", "fatty ", "slick "], "A": ["dry "]}
+{"index": 277428, "D": "a medicinal ointment for healing or relieving wounds and sores.", "S": ["creamy", "fatty", "slick"], "A": ["dry"]}

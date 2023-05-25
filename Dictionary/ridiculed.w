@@ -1,1 +1,1 @@
-{"index": 272688, "D": "speech or action intended to cause contemptuous laughter at a person or thing; derision.", "S": ["aggrieved ", "disgraced ", "humiliated ", "outraged ", "shamed "], "A": ["complimented ", "flattered ", "praised "]}
+{"index": 272688, "D": "speech or action intended to cause contemptuous laughter at a person or thing; derision.", "S": ["aggrieved", "disgraced", "humiliated", "outraged", "shamed"], "A": ["complimented", "flattered", "praised"]}

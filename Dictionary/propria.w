@@ -1,1 +1,0 @@
-{"index": 252832, "D": "a nonessential property common to all the members of a class; attribute.", "S": ["character ", "ego ", "identity ", "individuality ", "myself ", "person ", "personality "], "A": ["other "]}

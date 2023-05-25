@@ -1,1 +1,1 @@
-{"index": 313824, "D": "a soft murmur; whisper. ", "S": ["babble ", "buzz ", "drone ", "grumble ", "hum ", "humming ", "mumble ", "murmuration ", "mutter ", "muttering ", "purr ", "rumble ", "rumor ", "sigh ", "susurrus ", "undertone ", "whisper ", "whispering "], "A": ["quiet "]}
+{"index": 313824, "D": "a soft murmur; whisper. ", "S": ["babble", "buzz", "drone", "grumble", "hum", "humming", "mumble", "murmuration", "mutter", "muttering", "purr", "rumble", "rumor", "sigh", "susurrus", "undertone", "whisper", "whispering"], "A": ["quiet"]}

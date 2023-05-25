@@ -1,1 +1,1 @@
-{"index": 106676, "D": "having been cut out, expunged, or cut away", "S": ["detached ", "evacuated "], "A": ["established ", "ignored ", "left "]}
+{"index": 106676, "D": "having been cut out, expunged, or cut away", "S": ["detached", "evacuated"], "A": ["established", "ignored", "left"]}

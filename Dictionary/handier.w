@@ -1,1 +1,1 @@
-{"index": 133186, "D": "within easy reach; conveniently available; accessible", "S": ["accessible ", "available ", "close-by ", "convenient "], "A": ["unavailable ", "unhandy "]}
+{"index": 133186, "D": "within easy reach; conveniently available; accessible", "S": ["accessible", "available", "close-by", "convenient"], "A": ["unavailable", "unhandy"]}

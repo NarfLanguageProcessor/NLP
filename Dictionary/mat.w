@@ -1,1 +1,1 @@
-{"index": 181000, "D": "a piece of fabric made of plaited or woven rushes, straw, hemp, or similar fiber, or of some other pliant material, as rubber, used as a protective covering on a floor or other surface, to wipe the shoes on, etc.", "S": ["place mat "], "A": []}
+{"index": 181000, "D": "a piece of fabric made of plaited or woven rushes, straw, hemp, or similar fiber, or of some other pliant material, as rubber, used as a protective covering on a floor or other surface, to wipe the shoes on, etc.", "S": ["place mat"], "A": []}

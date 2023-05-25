@@ -1,1 +1,1 @@
-{"index": 153514, "D": "to inject semen  into (the female reproductive tract); impregnate. ", "S": ["fertilize "], "A": []}
+{"index": 153514, "D": "to inject semen  into (the female reproductive tract); impregnate. ", "S": ["fertilize"], "A": []}

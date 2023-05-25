@@ -1,1 +1,1 @@
-{"index": 272701, "D": "the act of a person or thing that rides. ", "S": ["driving ", "excursion ", "flying ", "movement ", "navigation ", "ride ", "sailing ", "sightseeing ", "tour ", "transit ", "trek ", "trip "], "A": []}
+{"index": 272701, "D": "the act of a person or thing that rides. ", "S": ["driving", "excursion", "flying", "movement", "navigation", "ride", "sailing", "sightseeing", "tour", "transit", "trek", "trip"], "A": []}

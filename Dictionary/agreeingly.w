@@ -1,1 +1,1 @@
-{"index": 6453, "D": "to have the same views, emotions, etc.; harmonize in opinion or feeling (often followed by with)", "S": ["collectively ", "commonly ", "consistently ", "universally "], "A": ["differently ", "divergently ", "opposite "]}
+{"index": 6453, "D": "to have the same views, emotions, etc.; harmonize in opinion or feeling (often followed by with)", "S": ["collectively", "commonly", "consistently", "universally"], "A": ["differently", "divergently", "opposite"]}

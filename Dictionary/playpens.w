@@ -1,1 +1,0 @@
-{"index": 238828, "D": "a small enclosure, usually portable, in which a young child can play  safely alone without constant supervision.", "S": [], "A": []}

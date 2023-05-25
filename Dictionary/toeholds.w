@@ -1,1 +1,1 @@
-{"index": 325037, "D": "a small ledge or niche just large enough to support the toes,  as in climbing.", "S": ["footing ", "niche ", "perch "], "A": []}
+{"index": 325037, "D": "a small ledge or niche just large enough to support the toes,  as in climbing.", "S": ["footing", "niche", "perch"], "A": []}

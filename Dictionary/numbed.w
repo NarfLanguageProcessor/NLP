@@ -1,1 +1,1 @@
-{"index": 209513, "D": "deprived of physical sensation or the ability to move", "S": ["bitter ", "bleak ", "brisk ", "chilled ", "cool ", "crisp ", "frigid ", "frosty ", "frozen ", "icy ", "intense ", "raw ", "snowy ", "wintry "], "A": ["hot ", "mild ", "nice ", "pleasant ", "temperate ", "warm "]}
+{"index": 209513, "D": "deprived of physical sensation or the ability to move", "S": ["bitter", "bleak", "brisk", "chilled", "cool", "crisp", "frigid", "frosty", "frozen", "icy", "intense", "raw", "snowy", "wintry"], "A": ["hot", "mild", "nice", "pleasant", "temperate", "warm"]}

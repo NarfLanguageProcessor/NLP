@@ -1,1 +1,1 @@
-{"index": 293034, "D": "(especially of horses) having patches of brown and white.", "S": ["marbled ", "streaked "], "A": ["plain "]}
+{"index": 293034, "D": "(especially of horses) having patches of brown and white.", "S": ["marbled", "streaked"], "A": ["plain"]}

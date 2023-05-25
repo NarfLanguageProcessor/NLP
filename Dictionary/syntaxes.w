@@ -1,1 +1,1 @@
-{"index": 292019, "D": "an instance of these", "S": ["order ", "pattern ", "structure ", "system "], "A": ["disorder ", "disorganization "]}
+{"index": 292019, "D": "an instance of these", "S": ["order", "pattern", "structure", "system"], "A": ["disorder", "disorganization"]}

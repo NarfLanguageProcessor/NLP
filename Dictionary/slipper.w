@@ -1,1 +1,1 @@
-{"index": 294182, "D": "Compare bedroom slipper, house slipper. ", "S": ["mule ", "sandal "], "A": []}
+{"index": 294182, "D": "Compare bedroom slipper, house slipper. ", "S": ["mule", "sandal"], "A": []}

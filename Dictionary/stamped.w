@@ -1,1 +1,1 @@
-{"index": 302607, "D": "to strike or beat with a forcible, downward thrust of the foot.", "S": ["approved ", "branded ", "imprinted ", "okayed "], "A": []}
+{"index": 302607, "D": "to strike or beat with a forcible, downward thrust of the foot.", "S": ["approved", "branded", "imprinted", "okayed"], "A": []}

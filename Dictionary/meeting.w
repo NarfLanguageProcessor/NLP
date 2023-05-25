@@ -1,1 +1,1 @@
-{"index": 182309, "D": "the act of coming together", "S": ["competition ", "confrontation ", "contest ", "convention ", "date ", "encounter ", "reunion ", "session ", "showdown ", "talk "], "A": ["agreement ", "calm ", "peace "]}
+{"index": 182309, "D": "the act of coming together", "S": ["competition", "confrontation", "contest", "convention", "date", "encounter", "reunion", "session", "showdown", "talk"], "A": ["agreement", "calm", "peace"]}

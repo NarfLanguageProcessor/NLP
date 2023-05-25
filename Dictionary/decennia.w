@@ -1,1 +1,1 @@
-{"index": 78212, "D": "a period of ten years; a decade.", "S": ["decade ", "decagon ", "decapod ", "decennary "], "A": []}
+{"index": 78212, "D": "a period of ten years; a decade.", "S": ["decade", "decagon", "decapod", "decennary"], "A": []}

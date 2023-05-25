@@ -1,1 +1,1 @@
-{"index": 358154, "D": "a bellylike protuberance.", "S": ["belly ", "gut ", "midriff ", "midsection ", "tummy "], "A": []}
+{"index": 358154, "D": "a bellylike protuberance.", "S": ["belly", "gut", "midriff", "midsection", "tummy"], "A": []}

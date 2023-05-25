@@ -1,1 +1,1 @@
-{"index": 72593, "D": "the act of reducing a dead body to ashes by fire, especially as a funeral rite", "S": ["incineration "], "A": []}
+{"index": 72593, "D": "the act of reducing a dead body to ashes by fire, especially as a funeral rite", "S": ["incineration"], "A": []}

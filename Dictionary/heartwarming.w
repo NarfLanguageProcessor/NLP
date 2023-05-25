@@ -1,1 +1,1 @@
-{"index": 134912, "D": "gratifying; rewarding; satisfying", "S": ["exhilarating ", "heartening ", "heartfelt ", "inspiring ", "pleasing ", "stirring ", "uplifting "], "A": ["heart-wrenching "]}
+{"index": 134912, "D": "gratifying; rewarding; satisfying", "S": ["exhilarating", "heartening", "heartfelt", "inspiring", "pleasing", "stirring", "uplifting"], "A": ["heart-wrenching"]}

@@ -1,1 +1,1 @@
-{"index": 315237, "D": "a person or thing that follows the lead or initiative of another.", "S": ["attend ", "escort ", "follow ", "guide ", "lead "], "A": ["abandon ", "disregard ", "leave ", "lose ", "neglect ", "ignore "]}
+{"index": 315237, "D": "a person or thing that follows the lead or initiative of another.", "S": ["attend", "escort", "follow", "guide", "lead"], "A": ["abandon", "disregard", "leave", "lose", "neglect", "ignore"]}

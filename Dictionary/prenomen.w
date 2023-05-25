@@ -1,1 +1,1 @@
-{"index": 248552, "D": "a variant of praenomen. ", "S": ["brand ", "flag ", "label ", "nickname ", "sign ", "signature ", "style ", "term "], "A": ["unknown "]}
+{"index": 248552, "D": "a variant of praenomen. ", "S": [], "A": []}

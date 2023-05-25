@@ -1,1 +1,0 @@
-{"index": 190835, "D": "a decorative figure, usually bearing an inscription, that is hung on the eastern wall in Jewish homes or synagogues to indicate the direction to face in prayer.", "S": [], "A": []}

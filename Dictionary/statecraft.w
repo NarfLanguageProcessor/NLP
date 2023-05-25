@@ -1,1 +1,1 @@
-{"index": 303028, "D": "the art of government and diplomacy.", "S": ["negotiation ", "politics "], "A": ["ignorance "]}
+{"index": 303028, "D": "the art of government and diplomacy.", "S": ["negotiation", "politics"], "A": ["ignorance"]}

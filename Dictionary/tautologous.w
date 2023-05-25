@@ -1,1 +1,1 @@
-{"index": 317158, "D": "(of a phrase) needlessly repetitive without adding information or clarity", "S": ["pleonastic ", "roundabout "], "A": []}
+{"index": 317158, "D": "(of a phrase) needlessly repetitive without adding information or clarity", "S": ["pleonastic", "roundabout"], "A": []}

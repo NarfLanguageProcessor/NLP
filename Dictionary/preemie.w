@@ -1,1 +1,1 @@
-{"index": 247231, "D": "an infant born prematurely; a preterm.", "S": ["babe ", "chick ", "child ", "kid ", "toddler ", "youngster "], "A": ["adult "]}
+{"index": 247231, "D": "an infant born prematurely; a preterm.", "S": ["babe", "chick", "child", "kid", "toddler", "youngster"], "A": ["adult"]}

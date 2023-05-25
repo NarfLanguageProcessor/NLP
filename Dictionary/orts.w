@@ -1,1 +1,1 @@
-{"index": 215216, "D": "scraps or leavings", "S": ["balance ", "debris ", "leftovers ", "legacy ", "oddments ", "remainder ", "remnant ", "remnants ", "residue ", "rest ", "scraps ", "surplus ", "survivor ", "trash "], "A": ["base ", "core "]}
+{"index": 215216, "D": "scraps or leavings", "S": ["balance", "debris", "leftovers", "legacy", "oddments", "remainder", "remnant", "remnants", "residue", "rest", "scraps", "surplus", "survivor", "trash"], "A": ["base", "core"]}

@@ -1,1 +1,1 @@
-{"index": 333728, "D": "to form an ulcer;  become ulcerous", "S": ["aching ", "bruised ", "hurting ", "inflamed ", "painful ", "sharp ", "tender ", "uncomfortable "], "A": ["painless "]}
+{"index": 333728, "D": "to form an ulcer;  become ulcerous", "S": ["aching", "bruised", "hurting", "inflamed", "painful", "sharp", "tender", "uncomfortable"], "A": ["painless"]}

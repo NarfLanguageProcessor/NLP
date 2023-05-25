@@ -1,1 +1,1 @@
-{"index": 362025, "D": "paneling or woodwork with which rooms, hallways, etc., are wainscoted. ", "S": ["covering "], "A": []}
+{"index": 362025, "D": "paneling or woodwork with which rooms, hallways, etc., are wainscoted. ", "S": ["covering"], "A": []}

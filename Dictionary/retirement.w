@@ -1,1 +1,1 @@
-{"index": 270560, "D": "the act of retiring or of leaving one's job, career, or occupation permanently, usually because of age", "S": ["evacuation ", "pullout ", "withdrawal "], "A": []}
+{"index": 270560, "D": "the act of retiring or of leaving one's job, career, or occupation permanently, usually because of age", "S": ["evacuation", "pullout", "withdrawal"], "A": []}

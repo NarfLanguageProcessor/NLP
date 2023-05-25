@@ -1,1 +1,1 @@
-{"index": 18624, "D": "a mountainous region of ancient Greece, traditionally known for the contented pastoral innocence of its people.", "S": ["Shangri-la ", "garden ", "heaven ", "utopia "], "A": ["hell "]}
+{"index": 18624, "D": "a mountainous region of ancient Greece, traditionally known for the contented pastoral innocence of its people.", "S": ["Shangri-la", "garden", "heaven", "utopia"], "A": ["hell"]}

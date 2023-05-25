@@ -1,1 +1,1 @@
-{"index": 97770, "D": "to run off secretly to be married, usually without the consent or knowledge of one's parents.", "S": ["run off "], "A": ["continue ", "face ", "meet ", "remain ", "stay ", "wait "]}
+{"index": 97770, "D": "to run off secretly to be married, usually without the consent or knowledge of one's parents.", "S": ["run off"], "A": ["continue", "face", "meet", "remain", "stay", "wait"]}

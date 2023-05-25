@@ -1,1 +1,1 @@
-{"index": 117514, "D": "to express in precise form; state definitely or systematically", "S": ["codify ", "define ", "develop ", "devise ", "draft ", "draw up ", "forge ", "map ", "prepare ", "work out "], "A": ["disorganize ", "destroy ", "halt ", "raze ", "ruin ", "stop "]}
+{"index": 117514, "D": "to express in precise form; state definitely or systematically", "S": ["codify", "define", "develop", "devise", "draft", "draw up", "forge", "map", "prepare", "work out"], "A": ["disorganize", "destroy", "halt", "raze", "ruin", "stop"]}

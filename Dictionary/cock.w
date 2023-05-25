@@ -1,1 +1,1 @@
-{"index": 61441, "D": "a male chicken; rooster. ", "S": ["capon ", "chicken ", "cock-a-doodle-doo ", "cockerel "], "A": []}
+{"index": 61441, "D": "a male chicken; rooster. ", "S": ["capon", "chicken", "cock-a-doodle-doo", "cockerel"], "A": []}

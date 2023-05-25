@@ -1,1 +1,1 @@
-{"index": 130391, "D": "a small wood or forested area, usually with no undergrowth", "S": ["brake ", "coppice ", "copse ", "covert ", "forest ", "orchard ", "plantation ", "spinney ", "stand ", "thicket ", "wood ", "woodland "], "A": []}
+{"index": 130391, "D": "a small wood or forested area, usually with no undergrowth", "S": ["brake", "coppice", "copse", "covert", "forest", "orchard", "plantation", "spinney", "stand", "thicket", "wood", "woodland"], "A": []}

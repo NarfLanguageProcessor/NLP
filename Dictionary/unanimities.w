@@ -1,1 +1,1 @@
-{"index": 335007, "D": "the state or quality of being unanimous;  a consensus or undivided opinion", "S": ["consensus ", "harmony ", "unity "], "A": ["disagreement ", "denial ", "discord ", "dissension ", "opposition ", "refusal "]}
+{"index": 335007, "D": "the state or quality of being unanimous;  a consensus or undivided opinion", "S": ["consensus", "harmony", "unity"], "A": ["disagreement", "denial", "discord", "dissension", "opposition", "refusal"]}

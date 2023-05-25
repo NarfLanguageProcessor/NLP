@@ -1,1 +1,1 @@
-{"index": 114962, "D": "to fall or plump down suddenly, especially with noise; drop or turn with a sudden bump or thud (sometimes followed by down)", "S": ["bust ", "debacle ", "disaster ", "dud ", "fiasco ", "washout "], "A": ["success ", "triumph ", "wonder "]}
+{"index": 114962, "D": "to fall or plump down suddenly, especially with noise; drop or turn with a sudden bump or thud (sometimes followed by down)", "S": ["bust", "debacle", "disaster", "dud", "fiasco", "washout"], "A": ["success", "triumph", "wonder"]}

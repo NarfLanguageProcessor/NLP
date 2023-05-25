@@ -1,1 +1,1 @@
-{"index": 40974, "D": "covered or rough with bristles. ", "S": ["aristate ", "barbellate ", "chaetophorous ", "echinate ", "hispid ", "setaceous ", "setal ", "setarious ", "setiferous ", "setose ", "spiny "], "A": ["clean-shaven ", "smooth "]}
+{"index": 40974, "D": "covered or rough with bristles. ", "S": ["aristate", "barbellate", "chaetophorous", "echinate", "hispid", "setaceous", "setal", "setarious", "setiferous", "setose", "spiny"], "A": ["clean-shaven", "smooth"]}

@@ -1,0 +1,1 @@
+{"index": 14035, "D": "the three angas pertaining to the mind", "S": [], "A": []}

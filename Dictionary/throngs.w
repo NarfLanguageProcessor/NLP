@@ -1,1 +1,1 @@
-{"index": 322814, "D": "a multitude of people crowded or assembled together; crowd.", "S": ["bunch ", "congregation ", "crush ", "flock ", "gathering ", "horde ", "mass ", "mob ", "multitude ", "sellout ", "swarm "], "A": []}
+{"index": 322814, "D": "a multitude of people crowded or assembled together; crowd.", "S": ["bunch", "congregation", "crush", "flock", "gathering", "horde", "mass", "mob", "multitude", "sellout", "swarm"], "A": []}

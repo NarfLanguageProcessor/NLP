@@ -1,1 +1,1 @@
-{"index": 141693, "D": "rough with stiff hairs, bristles, or minute spines.", "S": ["bristliness ", "downiness ", "fluffiness ", "hirsuteness ", "pilosity ", "pubescence "], "A": []}
+{"index": 141693, "D": "rough with stiff hairs, bristles, or minute spines.", "S": ["bristliness", "downiness", "fluffiness", "hirsuteness", "pilosity", "pubescence"], "A": []}

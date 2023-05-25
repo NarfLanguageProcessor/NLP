@@ -1,1 +1,1 @@
-{"index": 153149, "D": "capable of being inoculated. ", "S": ["deadly ", "endemic ", "infectious ", "poisonous ", "spreading "], "A": ["harmless "]}
+{"index": 153149, "D": "capable of being inoculated. ", "S": ["deadly", "endemic", "infectious", "poisonous", "spreading"], "A": ["harmless"]}

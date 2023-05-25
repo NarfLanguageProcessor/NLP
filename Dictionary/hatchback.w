@@ -1,1 +1,1 @@
-{"index": 134174, "D": "a style of automobile in which the rear deck lid and window lift open as a unit.", "S": ["auto ", "bus ", "convertible ", "limousine ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "taxi ", "transportation ", "truck ", "van "], "A": []}
+{"index": 134174, "D": "a style of automobile in which the rear deck lid and window lift open as a unit.", "S": ["auto", "bus", "convertible", "limousine", "passenger car", "pickup truck", "sports car", "station wagon", "taxi", "transportation", "truck", "van"], "A": []}

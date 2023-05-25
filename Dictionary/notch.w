@@ -1,1 +1,0 @@
-{"index": 208847, "D": "an angular or V-shaped cut, indentation, or slit in an object, surface, or edge.", "S": ["cleft ", "cut ", "gap ", "gash ", "groove ", "incision ", "indent ", "indenture ", "mark ", "mill ", "nick ", "nock ", "rabbet ", "rut ", "score ", "scratch "], "A": ["closing ", "closure "]}

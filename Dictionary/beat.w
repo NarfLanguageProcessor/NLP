@@ -1,1 +1,1 @@
-{"index": 29591, "D": "to strike violently or forcefully and repeatedly.", "S": ["exhausted ", "fatigued ", "wearied ", "weary "], "A": ["energetic ", "fresh ", "lively ", "refreshed "]}
+{"index": 29591, "D": "to strike violently or forcefully and repeatedly.", "S": ["exhausted", "fatigued", "wearied", "weary"], "A": ["energetic", "fresh", "lively", "refreshed"]}

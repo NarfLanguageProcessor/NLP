@@ -1,1 +1,1 @@
-{"index": 263149, "D": "to begin; start. ", "S": ["proceed ", "renew ", "restore ", "return to "], "A": ["halt ", "stop "]}
+{"index": 263149, "D": "to begin; start. ", "S": ["proceed", "renew", "restore", "return to"], "A": ["halt", "stop"]}

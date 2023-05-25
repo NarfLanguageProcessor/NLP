@@ -1,1 +1,1 @@
-{"index": 106247, "D": "morally wrong or bad; immoral; wicked", "S": ["naughtily "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}
+{"index": 106247, "D": "morally wrong or bad; immoral; wicked", "S": ["naughtily"], "A": ["adequately", "calmly", "little", "mildly", "morally"]}

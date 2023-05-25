@@ -1,1 +1,1 @@
-{"index": 59714, "D": "a large hook, especially one fixed to the inside walls of a house to hold clothing, pots, or food.", "S": ["brassie ", "driver ", "iron ", "mashie ", "midiron ", "niblick ", "putter ", "spoon ", "stick ", "wedge ", "wood "], "A": []}
+{"index": 59714, "D": "a large hook, especially one fixed to the inside walls of a house to hold clothing, pots, or food.", "S": ["brassie", "driver", "iron", "mashie", "midiron", "niblick", "putter", "spoon", "stick", "wedge", "wood"], "A": []}

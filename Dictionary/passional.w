@@ -1,1 +1,0 @@
-{"index": 227333, "D": "of, relating to, or marked by passion.", "S": [], "A": []}

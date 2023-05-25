@@ -1,1 +1,1 @@
-{"index": 348388, "D": "not creating a favourable impression; unattractive", "S": ["awful ", "grisly ", "grotesque ", "hideous ", "horrid ", "unseemly ", "unsightly "], "A": ["attractive ", "beautiful ", "good-looking ", "gorgeous ", "handsome ", "pretty ", "lovely "]}
+{"index": 348388, "D": "not creating a favourable impression; unattractive", "S": ["awful", "grisly", "grotesque", "hideous", "horrid", "unseemly", "unsightly"], "A": ["attractive", "beautiful", "good-looking", "gorgeous", "handsome", "pretty", "lovely"]}

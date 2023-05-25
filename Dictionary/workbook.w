@@ -1,1 +1,1 @@
-{"index": 367482, "D": "a manual of operating instructions.", "S": ["cookbook ", "guide ", "guidebook ", "handbook ", "reference book ", "text ", "textbook "], "A": []}
+{"index": 367482, "D": "a manual of operating instructions.", "S": ["cookbook", "guide", "guidebook", "handbook", "reference book", "text", "textbook"], "A": []}

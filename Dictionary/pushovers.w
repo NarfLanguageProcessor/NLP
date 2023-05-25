@@ -1,1 +1,1 @@
-{"index": 257207, "D": "anything done easily.", "S": ["cinch ", "piece of cake ", "sucker "], "A": ["difficulty "]}
+{"index": 257207, "D": "anything done easily.", "S": ["cinch", "piece of cake", "sucker"], "A": ["difficulty"]}

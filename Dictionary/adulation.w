@@ -1,1 +1,1 @@
-{"index": 4493, "D": "excessive devotion to someone; servile flattery.", "S": ["applause ", "commendation "], "A": ["abuse ", "criticism "]}
+{"index": 4493, "D": "excessive devotion to someone; servile flattery.", "S": ["applause", "commendation"], "A": ["abuse", "criticism"]}

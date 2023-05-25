@@ -1,1 +1,1 @@
-{"index": 144582, "D": "in what way or manner; by what means?", "S": ["cause ", "motive ", "mystery ", "proof "], "A": []}
+{"index": 144582, "D": "in what way or manner; by what means?", "S": ["cause", "motive", "mystery", "proof"], "A": []}

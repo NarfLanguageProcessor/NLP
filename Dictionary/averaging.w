@@ -1,1 +1,1 @@
-{"index": 24674, "D": "a quantity, rating, or the like that represents or approximates an arithmetic mean", "S": ["aligning ", "calculating ", "calibrating ", "checking ", "gauging ", "grading ", "leveling ", "mapping ", "rhyming ", "scaling ", "surveying "], "A": []}
+{"index": 24674, "D": "a quantity, rating, or the like that represents or approximates an arithmetic mean", "S": ["aligning", "calculating", "calibrating", "checking", "gauging", "grading", "leveling", "mapping", "rhyming", "scaling", "surveying"], "A": []}

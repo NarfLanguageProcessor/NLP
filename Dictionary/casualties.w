@@ -1,1 +1,1 @@
-{"index": 49144, "D": "loss in numerical strength through any cause, as death, wounds, sickness, capture, or desertion.", "S": ["cost ", "expense ", "loss ", "price "], "A": []}
+{"index": 49144, "D": "loss in numerical strength through any cause, as death, wounds, sickness, capture, or desertion.", "S": ["cost", "expense", "loss", "price"], "A": []}

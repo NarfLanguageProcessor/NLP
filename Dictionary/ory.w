@@ -1,1 +1,1 @@
-{"index": 214512, "D": "an adjective-forming suffix, joined to bases of Latin origin in imitation of borrowed Latin words containing the suffix -tory1  (and its alternant -sory)", "S": ["golden ", "silvery "], "A": []}
+{"index": 214512, "D": "an adjective-forming suffix, joined to bases of Latin origin in imitation of borrowed Latin words containing the suffix -tory1  (and its alternant -sory)", "S": ["golden", "silvery"], "A": []}

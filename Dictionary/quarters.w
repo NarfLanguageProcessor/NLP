@@ -1,1 +1,1 @@
-{"index": 258066, "D": "housing or accommodation, esp as provided for military personnel and their families", "S": ["cabin ", "cottage ", "dorm "], "A": ["office ", "unemployment "]}
+{"index": 258066, "D": "housing or accommodation, esp as provided for military personnel and their families", "S": ["cabin", "cottage", "dorm"], "A": ["office", "unemployment"]}

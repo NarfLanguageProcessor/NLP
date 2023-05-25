@@ -1,1 +1,1 @@
-{"index": 144876, "D": [], "S": ["arts ", "belles-lettres ", "languages ", "letters ", "philosophy "], "A": []}
+{"index": 144876, "D": [], "S": ["arts", "belles-lettres", "languages", "letters", "philosophy"], "A": []}

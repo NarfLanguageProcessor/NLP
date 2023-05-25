@@ -1,1 +1,1 @@
-{"index": 118536, "D": "queer; odd; unusual; grotesque", "S": ["aberrant ", "bizarre ", "freaky ", "grotesque ", "odd ", "strange ", "unconventional ", "weird "], "A": ["normal ", "regular ", "standard ", "usual "]}
+{"index": 118536, "D": "queer; odd; unusual; grotesque", "S": ["aberrant", "bizarre", "freaky", "grotesque", "odd", "strange", "unconventional", "weird"], "A": ["normal", "regular", "standard", "usual"]}

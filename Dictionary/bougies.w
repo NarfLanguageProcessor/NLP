@@ -1,1 +1,1 @@
-{"index": 38907, "D": "relating to or characteristic of a person who indulges in some of the luxuries and comforts of a fancy lifestyle", "S": ["torch "], "A": []}
+{"index": 38907, "D": "relating to or characteristic of a person who indulges in some of the luxuries and comforts of a fancy lifestyle", "S": ["torch"], "A": []}

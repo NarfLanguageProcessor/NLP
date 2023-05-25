@@ -1,1 +1,1 @@
-{"index": 118976, "D": "any decorative band on an outside wall, broader than a stringcourse and bearing lettering, sculpture, etc.", "S": ["decoration ", "embellishment "], "A": []}
+{"index": 118976, "D": "any decorative band on an outside wall, broader than a stringcourse and bearing lettering, sculpture, etc.", "S": ["decoration", "embellishment"], "A": []}

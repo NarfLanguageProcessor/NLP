@@ -1,1 +1,1 @@
-{"index": 103183, "D": "having or showing equanimity;  even-tempered", "S": ["composed ", "cool ", "stable ", "steady "], "A": ["agitated ", "annoyed ", "excited ", "unfixed ", "unstable ", "upset ", "wobbly "]}
+{"index": 103183, "D": "having or showing equanimity;  even-tempered", "S": ["composed", "cool", "stable", "steady"], "A": ["agitated", "annoyed", "excited", "unfixed", "unstable", "upset", "wobbly"]}

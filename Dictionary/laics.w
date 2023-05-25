@@ -1,1 +1,1 @@
-{"index": 167396, "D": "lay; secular.", "S": ["believer ", "dilettante ", "follower ", "member ", "neophyte ", "novice ", "outsider ", "parishioner ", "proselyte ", "recruit ", "secular "], "A": ["professional "]}
+{"index": 167396, "D": "lay; secular.", "S": ["believer", "dilettante", "follower", "member", "neophyte", "novice", "outsider", "parishioner", "proselyte", "recruit", "secular"], "A": ["professional"]}

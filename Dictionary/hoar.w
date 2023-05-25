@@ -1,1 +1,1 @@
-{"index": 142026, "D": "hoarfrost; rime.", "S": ["chilly ", "frigid ", "glacial ", "icy ", "wintry "], "A": ["amicable ", "friendly ", "hot ", "responsive ", "warm "]}
+{"index": 142026, "D": "hoarfrost; rime.", "S": ["chilly", "frigid", "glacial", "icy", "wintry"], "A": ["amicable", "friendly", "hot", "responsive", "warm"]}

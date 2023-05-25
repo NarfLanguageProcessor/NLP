@@ -1,1 +1,1 @@
-{"index": 182312, "D": "the act of coming together", "S": ["agenda ", "business ", "calendar ", "record ", "schedule ", "slate "], "A": []}
+{"index": 182312, "D": "the act of coming together", "S": ["agenda", "business", "calendar", "record", "schedule", "slate"], "A": []}

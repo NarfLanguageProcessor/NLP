@@ -1,1 +1,1 @@
-{"index": 130501, "D": "exhausting; very tiring; arduously severe", "S": ["badly ", "vigorously "], "A": ["easily "]}
+{"index": 130501, "D": "exhausting; very tiring; arduously severe", "S": ["badly", "vigorously"], "A": ["easily"]}

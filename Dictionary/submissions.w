@@ -1,1 +1,1 @@
-{"index": 308557, "D": "an act or instance of submitting,  or yielding control to a more powerful or authoritative entity", "S": ["capitulation ", "resignation "], "A": ["disagreement ", "disobedience ", "rebellion "]}
+{"index": 308557, "D": "an act or instance of submitting,  or yielding control to a more powerful or authoritative entity", "S": ["capitulation", "resignation"], "A": ["disagreement", "disobedience", "rebellion"]}

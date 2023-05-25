@@ -1,1 +1,1 @@
-{"index": 130346, "D": "foundation or basis", "S": ["preparation "], "A": []}
+{"index": 130346, "D": "foundation or basis", "S": ["preparation"], "A": []}

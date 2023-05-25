@@ -1,1 +1,1 @@
-{"index": 309931, "D": "to shake up; shake.", "S": ["bump ", "clash ", "collision ", "concussion ", "crash ", "impact ", "jolt ", "jounce ", "rock ", "smash ", "thud ", "thump "], "A": []}
+{"index": 309931, "D": "to shake up; shake.", "S": ["bump", "clash", "collision", "concussion", "crash", "impact", "jolt", "jounce", "rock", "smash", "thud", "thump"], "A": []}

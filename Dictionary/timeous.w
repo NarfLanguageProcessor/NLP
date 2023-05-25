@@ -1,1 +1,1 @@
-{"index": 323770, "D": "timely;  sufficiently early.", "S": ["apt ", "auspicious ", "convenient ", "felicitous ", "fortuitous ", "fortunate ", "propitious ", "timely "], "A": ["inappropriate ", "inauspicious ", "inopportune ", "unfortunate ", "unhappy ", "unlucky ", "unsuitable ", "untimely "]}
+{"index": 323770, "D": "timely;  sufficiently early.", "S": ["apt", "auspicious", "convenient", "felicitous", "fortuitous", "fortunate", "propitious", "timely"], "A": ["inappropriate", "inauspicious", "inopportune", "unfortunate", "unhappy", "unlucky", "unsuitable", "untimely"]}

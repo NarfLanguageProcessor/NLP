@@ -1,1 +1,1 @@
-{"index": 68942, "D": "a mountain system in western South America", "S": ["sierra "], "A": []}
+{"index": 68942, "D": "a mountain system in western South America", "S": ["sierra"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 153449, "D": "incapable of being investigated, analyzed, or scrutinized; impenetrable.", "S": ["concealment ", "denseness ", "seclusion ", "secrecy ", "thickness "], "A": ["revelation "]}
+{"index": 153449, "D": "incapable of being investigated, analyzed, or scrutinized; impenetrable.", "S": ["concealment", "denseness", "seclusion", "secrecy", "thickness"], "A": ["revelation"]}

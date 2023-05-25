@@ -1,1 +1,1 @@
-{"index": 265544, "D": "to look upon or think of with a particular feeling", "S": ["commendations ", "compliments ", "deference ", "devoirs ", "greeting ", "love ", "remembrances ", "respects ", "salutation ", "salutations "], "A": []}
+{"index": 265544, "D": "to look upon or think of with a particular feeling", "S": ["commendations", "compliments", "deference", "devoirs", "greeting", "love", "remembrances", "respects", "salutation", "salutations"], "A": []}

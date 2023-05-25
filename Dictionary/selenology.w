@@ -1,1 +1,1 @@
-{"index": 283500, "D": "the branch of astronomy that deals with the nature and origin of the physical features of the moon.", "S": ["astrophysics "], "A": []}
+{"index": 283500, "D": "the branch of astronomy that deals with the nature and origin of the physical features of the moon.", "S": ["astrophysics"], "A": []}

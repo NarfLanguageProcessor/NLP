@@ -1,1 +1,1 @@
-{"index": 108596, "D": "to infer (an unknown) from something that is known; conjecture.", "S": ["deduce ", "hypothesize "], "A": ["doubt "]}
+{"index": 108596, "D": "to infer (an unknown) from something that is known; conjecture.", "S": ["deduce", "hypothesize"], "A": ["doubt"]}

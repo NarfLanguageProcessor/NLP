@@ -1,1 +1,1 @@
-{"index": 309117, "D": "the state or fact of being subsequent. ", "S": ["arrangement ", "array ", "progression ", "string "], "A": ["interruption ", "stoppage "]}
+{"index": 309117, "D": "the state or fact of being subsequent. ", "S": ["arrangement", "array", "progression", "string"], "A": ["interruption", "stoppage"]}

@@ -1,1 +1,1 @@
-{"index": 287276, "D": "of little depth; not deep", "S": ["empty ", "flat ", "hollow ", "trivial "], "A": ["full ", "raised ", "important ", "significant "]}
+{"index": 287276, "D": "of little depth; not deep", "S": ["empty", "flat", "hollow", "trivial"], "A": ["full", "raised", "important", "significant"]}

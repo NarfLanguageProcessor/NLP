@@ -1,1 +1,1 @@
-{"index": 109679, "D": "ornamental; decorative;  not plain", "S": ["appreciation ", "conceit ", "concept ", "impression ", "interpretation ", "notion ", "perception ", "realization "], "A": ["concrete ", "fact ", "ignorance ", "misunderstanding ", "reality ", "truth "]}
+{"index": 109679, "D": "ornamental; decorative;  not plain", "S": ["appreciation", "conceit", "concept", "impression", "interpretation", "notion", "perception", "realization"], "A": ["concrete", "fact", "ignorance", "misunderstanding", "reality", "truth"]}

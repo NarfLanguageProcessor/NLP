@@ -1,1 +1,0 @@
-{"index": 247330, "D": "anything kept, furnished, or provided for a specific purpose.", "S": [], "A": []}

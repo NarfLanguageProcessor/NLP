@@ -1,1 +1,1 @@
-{"index": 129938, "D": [], "S": ["erosion "], "A": ["building ", "happiness ", "strengthening "]}
+{"index": 129938, "D": [], "S": ["erosion"], "A": ["building", "happiness", "strengthening"]}

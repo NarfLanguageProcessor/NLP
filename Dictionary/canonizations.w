@@ -1,1 +1,1 @@
-{"index": 46509, "D": "to place in the canon  of saints.", "S": ["anointing ", "blessing ", "dedication ", "devotion ", "exaltation ", "glorification ", "ordination "], "A": ["apathy ", "condemnation "]}
+{"index": 46509, "D": "to place in the canon  of saints.", "S": ["anointing", "blessing", "dedication", "devotion", "exaltation", "glorification", "ordination"], "A": ["apathy", "condemnation"]}

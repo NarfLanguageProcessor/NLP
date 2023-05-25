@@ -1,1 +1,1 @@
-{"index": 63623, "D": "a nation engaged in active fighting with enemy forces.", "S": ["armed forces ", "army ", "contingent ", "crew ", "delegation ", "gang ", "military ", "party ", "servicemen ", "squad ", "team ", "unit "], "A": ["individual ", "one "]}
+{"index": 63623, "D": "a nation engaged in active fighting with enemy forces.", "S": ["armed forces", "army", "contingent", "crew", "delegation", "gang", "military", "party", "servicemen", "squad", "team", "unit"], "A": ["individual", "one"]}

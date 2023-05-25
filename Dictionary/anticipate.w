@@ -1,1 +1,1 @@
-{"index": 14910, "D": "to realize beforehand; foretaste or foresee", "S": ["assume ", "await ", "count on ", "forecast ", "foresee ", "prepare for ", "see "], "A": ["doubt "]}
+{"index": 14910, "D": "to realize beforehand; foretaste or foresee", "S": ["assume", "await", "count on", "forecast", "foresee", "prepare for", "see"], "A": ["doubt"]}

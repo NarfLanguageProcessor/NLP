@@ -1,1 +1,1 @@
-{"index": 263, "D": "of, in, on, or for the abdomen", "S": ["intestinal ", "visceral "], "A": []}
+{"index": 263, "D": "of, in, on, or for the abdomen", "S": ["intestinal", "visceral"], "A": []}

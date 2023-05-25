@@ -1,1 +1,1 @@
-{"index": 48529, "D": "of a size and shape suitable for being carried onto and stowed in the passenger compartment of an airplane", "S": ["continue "], "A": ["discontinue ", "stop "]}
+{"index": 48529, "D": "of a size and shape suitable for being carried onto and stowed in the passenger compartment of an airplane", "S": ["continue"], "A": ["discontinue", "stop"]}

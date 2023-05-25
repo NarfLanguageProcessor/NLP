@@ -1,1 +1,1 @@
-{"index": 75264, "D": "a means of healing or restoring to health; remedy.", "S": ["improving ", "well "], "A": ["sicker ", "smaller ", "unhealthy ", "worse "]}
+{"index": 75264, "D": "a means of healing or restoring to health; remedy.", "S": ["improving", "well"], "A": ["sicker", "smaller", "unhealthy", "worse"]}

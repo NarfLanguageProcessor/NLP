@@ -1,1 +1,1 @@
-{"index": 92591, "D": "(especially formerly) a European cavalryman of a heavily armed troop.", "S": ["squadron "], "A": []}
+{"index": 92591, "D": "(especially formerly) a European cavalryman of a heavily armed troop.", "S": ["squadron"], "A": []}

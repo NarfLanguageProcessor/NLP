@@ -1,1 +1,1 @@
-{"index": 59186, "D": "a group of families or households, as among the Scottish Highlanders, the heads of which claim descent from a common ancestor", "S": ["band ", "faction ", "gang ", "mob ", "sect ", "society ", "tribe "], "A": ["individual "]}
+{"index": 59186, "D": "a group of families or households, as among the Scottish Highlanders, the heads of which claim descent from a common ancestor", "S": ["band", "faction", "gang", "mob", "sect", "society", "tribe"], "A": ["individual"]}

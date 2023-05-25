@@ -1,1 +1,1 @@
-{"index": 55719, "D": "of a chorus  or a choir", "S": ["chant ", "ditty ", "oratorio ", "paean ", "psalm "], "A": []}
+{"index": 55719, "D": "of a chorus  or a choir", "S": ["chant", "ditty", "oratorio", "paean", "psalm"], "A": []}

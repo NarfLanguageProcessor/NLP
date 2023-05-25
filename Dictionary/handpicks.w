@@ -1,1 +1,1 @@
-{"index": 133243, "D": "to pick  by hand. ", "S": ["elect ", "name ", "prefer ", "take "], "A": ["ignore ", "reject "]}
+{"index": 133243, "D": "to pick  by hand. ", "S": ["elect", "name", "prefer", "take"], "A": ["ignore", "reject"]}

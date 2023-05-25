@@ -1,1 +1,0 @@
-{"index": 296839, "D": "a musical composition or a passage or section in a musical composition written for performance by one singer or instrumentalist, with or without accompaniment", "S": ["individual ", "single ", "solitary ", "stag ", "unaccompanied "], "A": ["accompanied ", "combined ", "together "]}

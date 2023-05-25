@@ -1,1 +1,1 @@
-{"index": 271290, "D": "to return to a former habit, practice, belief, condition, etc.", "S": ["degenerate ", "go back ", "hark back ", "react ", "regress ", "turn back "], "A": ["develop ", "continue ", "get better ", "halt ", "improve ", "keep ", "stop "]}
+{"index": 271290, "D": "to return to a former habit, practice, belief, condition, etc.", "S": ["degenerate", "go back", "hark back", "react", "regress", "turn back"], "A": ["develop", "continue", "get better", "halt", "improve", "keep", "stop"]}

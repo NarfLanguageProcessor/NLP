@@ -1,1 +1,1 @@
-{"index": 221025, "D": "to direct (work or workers); supervise; manage", "S": ["administrative ", "dominant ", "guiding ", "ruling "], "A": ["inferior ", "subordinate "]}
+{"index": 221025, "D": "to direct (work or workers); supervise; manage", "S": ["administrative", "dominant", "guiding", "ruling"], "A": ["inferior", "subordinate"]}

@@ -1,1 +1,1 @@
-{"index": 286651, "D": "a thread or the like inserted beneath the skin to provide drainage or to guide subsequent passage of a tube.", "S": ["bound ", "dead set on ", "determined ", "determined upon ", "fixed ", "fixed upon ", "intent ", "intent on ", "out to "], "A": []}
+{"index": 286651, "D": "a thread or the like inserted beneath the skin to provide drainage or to guide subsequent passage of a tube.", "S": ["bound", "dead set on", "determined", "determined upon", "fixed", "fixed upon", "intent", "intent on", "out to"], "A": []}

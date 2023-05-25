@@ -1,1 +1,1 @@
-{"index": 286427, "D": "a person employed by another, especially to perform domestic duties.", "S": ["cadre ", "crew ", "faculty ", "force ", "organization ", "personnel ", "team ", "work force "], "A": ["incompetence "]}
+{"index": 286427, "D": "a person employed by another, especially to perform domestic duties.", "S": ["cadre", "crew", "faculty", "force", "organization", "personnel", "team", "work force"], "A": ["incompetence"]}

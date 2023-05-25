@@ -1,1 +1,1 @@
-{"index": 245017, "D": "a plant, including engines, dynamos, etc., and the building or buildings necessary for the generation of power, as electric or nuclear power.", "S": ["power station ", "station "], "A": []}
+{"index": 245017, "D": "a plant, including engines, dynamos, etc., and the building or buildings necessary for the generation of power, as electric or nuclear power.", "S": ["power station", "station"], "A": []}

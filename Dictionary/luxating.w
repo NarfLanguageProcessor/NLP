@@ -1,1 +1,1 @@
-{"index": 176546, "D": "to put out of joint; dislocate", "S": ["detach ", "dislocate "], "A": []}
+{"index": 176546, "D": "to put out of joint; dislocate", "S": ["detach", "dislocate"], "A": []}

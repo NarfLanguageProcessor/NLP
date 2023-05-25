@@ -1,1 +1,1 @@
-{"index": 228701, "D": "a trait, manner, characteristic, or habit that is odd or unusual.", "S": ["distinctiveness ", "eccentricity ", "foible ", "idiosyncrasy ", "particularity ", "quirk ", "trait "], "A": ["simplicity "]}
+{"index": 228701, "D": "a trait, manner, characteristic, or habit that is odd or unusual.", "S": ["distinctiveness", "eccentricity", "foible", "idiosyncrasy", "particularity", "quirk", "trait"], "A": ["simplicity"]}

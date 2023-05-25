@@ -1,1 +1,1 @@
-{"index": 106563, "D": "a person or thing that excavates. ", "S": ["backhoe ", "bulldozer ", "digger "], "A": []}
+{"index": 106563, "D": "a person or thing that excavates. ", "S": ["backhoe", "bulldozer", "digger"], "A": []}

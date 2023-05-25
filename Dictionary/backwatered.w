@@ -1,0 +1,1 @@
+{"index": 26011, "D": [], "S": ["abolish", "abrogate", "annul", "cancel", "dismantle", "invalidate", "lift", "overturn", "quash", "renege", "repeal", "retract", "reverse", "revoke", "set aside", "void"], "A": ["allow", "approve", "enact", "enforce", "establish", "institute", "keep", "legalize", "permit", "ratify", "sanction", "support", "uphold", "validate"]}

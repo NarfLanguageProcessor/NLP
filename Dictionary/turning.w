@@ -1,1 +1,0 @@
-{"index": 332832, "D": "the act of a person or thing that turns. ", "S": ["alive ", "effective ", "operating "], "A": ["fixed ", "inoperative ", "unmovable "]}

@@ -1,1 +1,1 @@
-{"index": 365368, "D": "a person who engages in sex acts for money; prostitute. ", "S": ["hustler ", "slut ", "tramp "], "A": []}
+{"index": 365368, "D": "a person who engages in sex acts for money; prostitute. ", "S": ["hustler", "slut", "tramp"], "A": []}

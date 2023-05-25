@@ -1,1 +1,1 @@
-{"index": 96778, "D": "very happy or proud; jubilant; in high spirits", "S": ["animation ", "ecstasy ", "euphoria ", "exaltation ", "exhilaration ", "happiness ", "inspiration ", "joy ", "joyousness ", "rapture ", "uplift "], "A": []}
+{"index": 96778, "D": "very happy or proud; jubilant; in high spirits", "S": ["animation", "ecstasy", "euphoria", "exaltation", "exhilaration", "happiness", "inspiration", "joy", "joyousness", "rapture", "uplift"], "A": []}

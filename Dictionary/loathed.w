@@ -1,1 +1,1 @@
-{"index": 174135, "D": "to feel disgust or intense aversion for; abhor", "S": ["abhorred ", "anathematized ", "avoided ", "condemned ", "cursed ", "detested ", "disliked ", "execrated ", "shunned "], "A": []}
+{"index": 174135, "D": "to feel disgust or intense aversion for; abhor", "S": ["abhorred", "anathematized", "avoided", "condemned", "cursed", "detested", "disliked", "execrated", "shunned"], "A": []}

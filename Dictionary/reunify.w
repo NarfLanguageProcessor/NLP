@@ -1,1 +1,1 @@
-{"index": 271004, "D": "to bring together again (something, esp a country, previously divided)", "S": ["join ", "reconcile ", "reconvene ", "rejoin "], "A": ["estrange ", "go separate ways ", "separate "]}
+{"index": 271004, "D": "to bring together again (something, esp a country, previously divided)", "S": ["join", "reconcile", "reconvene", "rejoin"], "A": ["estrange", "go separate ways", "separate"]}

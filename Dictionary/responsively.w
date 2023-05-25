@@ -1,1 +1,1 @@
-{"index": 269798, "D": "responding  especially readily and sympathetically to appeals, efforts, influences, etc.", "S": ["admiringly "], "A": ["rudely "]}
+{"index": 269798, "D": "responding  especially readily and sympathetically to appeals, efforts, influences, etc.", "S": ["admiringly"], "A": ["rudely"]}

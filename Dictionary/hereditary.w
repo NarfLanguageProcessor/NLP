@@ -1,1 +1,1 @@
-{"index": 137016, "D": "Compare congenital. ", "S": ["genetic ", "inborn ", "transmitted "], "A": ["acquired "]}
+{"index": 137016, "D": "Compare congenital. ", "S": ["genetic", "inborn", "transmitted"], "A": ["acquired"]}

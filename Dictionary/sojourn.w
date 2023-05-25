@@ -1,1 +1,1 @@
-{"index": 296438, "D": "a temporary stay", "S": ["layover ", "stopover "], "A": ["go "]}
+{"index": 296438, "D": "a temporary stay", "S": ["layover", "stopover"], "A": ["go"]}

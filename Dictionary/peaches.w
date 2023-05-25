@@ -1,1 +1,1 @@
-{"index": 228361, "D": "the subacid, juicy, drupaceous fruit of a tree, Prunus persica, of the rose family.", "S": ["apricot ", "cantaloupe ", "carrot ", "coral ", "peach ", "salmon ", "tangerine ", "titian "], "A": []}
+{"index": 228361, "D": "the subacid, juicy, drupaceous fruit of a tree, Prunus persica, of the rose family.", "S": ["apricot", "cantaloupe", "carrot", "coral", "peach", "salmon", "tangerine", "titian"], "A": []}

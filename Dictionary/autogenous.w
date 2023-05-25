@@ -1,0 +1,1 @@
+{"index": 24068, "D": "self-produced; self-generated.", "S": ["domestic", "endogenous", "gut", "home", "in-house", "inland", "innermost", "inside", "interior", "internal", "intimate", "inward", "private", "remote", "secret", "visceral", "viscerous"], "A": []}

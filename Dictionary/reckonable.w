@@ -1,1 +1,1 @@
-{"index": 262943, "D": "to count, compute, or calculate, as in number or amount.", "S": ["accountable ", "ascertainable ", "computable ", "countable ", "discoverable ", "estimable ", "foreseeable ", "measurable ", "predictable "], "A": ["incalculable ", "inestimable "]}
+{"index": 262943, "D": "to count, compute, or calculate, as in number or amount.", "S": ["accountable", "ascertainable", "computable", "countable", "discoverable", "estimable", "foreseeable", "measurable", "predictable"], "A": ["incalculable", "inestimable"]}

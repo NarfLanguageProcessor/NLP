@@ -1,1 +1,1 @@
-{"index": 164389, "D": "to grind or divide into particles or pellets, as coarse-ground meal or prepared dry dog food.", "S": ["grate ", "pulverize ", "reduce ", "scrape "], "A": []}
+{"index": 164389, "D": "to grind or divide into particles or pellets, as coarse-ground meal or prepared dry dog food.", "S": ["grate", "pulverize", "reduce", "scrape"], "A": []}

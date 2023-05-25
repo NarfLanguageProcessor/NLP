@@ -1,1 +1,1 @@
-{"index": 50461, "D": "relating to or being the commemoration of an event with ceremonies or festivities", "S": ["memorial "], "A": ["dishonoring ", "forgetful ", "neglectful ", "neglecting "]}
+{"index": 50461, "D": "relating to or being the commemoration of an event with ceremonies or festivities", "S": ["memorial"], "A": ["dishonoring", "forgetful", "neglectful", "neglecting"]}

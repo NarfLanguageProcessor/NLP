@@ -1,1 +1,1 @@
-{"index": 209521, "D": "a numeral or group of numerals.", "S": ["calculation ", "poll ", "result ", "toll ", "total "], "A": ["part "]}
+{"index": 209521, "D": "a numeral or group of numerals.", "S": ["calculation", "poll", "result", "toll", "total"], "A": ["part"]}

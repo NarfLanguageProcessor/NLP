@@ -1,1 +1,1 @@
-{"index": 282950, "D": "freedom from danger, risk, etc.; safety. ", "S": ["bond ", "care ", "freedom ", "guarantee ", "insurance ", "preservation ", "surveillance "], "A": ["break ", "disagreement ", "endangerment ", "harm ", "hurt ", "injury "]}
+{"index": 282950, "D": "freedom from danger, risk, etc.; safety. ", "S": ["bond", "care", "freedom", "guarantee", "insurance", "preservation", "surveillance"], "A": ["break", "disagreement", "endangerment", "harm", "hurt", "injury"]}

@@ -1,1 +1,1 @@
-{"index": 322864, "D": [], "S": ["abuse ", "deceive ", "evade ", "get away from ", "give the slip ", "leave behind ", "lose ", "outdistance ", "outrun ", "shake off ", "trick "], "A": ["face ", "meet "]}
+{"index": 322864, "D": [], "S": ["abuse", "deceive", "evade", "get away from", "give the slip", "leave behind", "lose", "outdistance", "outrun", "shake off", "trick"], "A": ["face", "meet"]}

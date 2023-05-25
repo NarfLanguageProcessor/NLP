@@ -1,1 +1,1 @@
-{"index": 354566, "D": "to vomit.", "S": ["regurgitate "], "A": []}
+{"index": 354566, "D": "to vomit.", "S": ["regurgitate"], "A": []}

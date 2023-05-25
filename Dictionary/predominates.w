@@ -1,1 +1,1 @@
-{"index": 247131, "D": "to be the stronger or leading element or force.", "S": ["hold sway "], "A": ["follow ", "serve ", "submit ", "surrender ", "yield "]}
+{"index": 247131, "D": "to be the stronger or leading element or force.", "S": ["hold sway"], "A": ["follow", "serve", "submit", "surrender", "yield"]}

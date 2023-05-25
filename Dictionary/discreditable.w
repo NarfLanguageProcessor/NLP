@@ -1,1 +1,1 @@
-{"index": 87695, "D": "bringing or liable to bring discredit. ", "S": ["appalling ", "blameworthy ", "disgraceful ", "dishonorable ", "ignominious ", "shameful "], "A": []}
+{"index": 87695, "D": "bringing or liable to bring discredit. ", "S": ["appalling", "blameworthy", "disgraceful", "dishonorable", "ignominious", "shameful"], "A": []}

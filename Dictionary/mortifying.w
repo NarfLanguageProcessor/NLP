@@ -1,1 +1,1 @@
-{"index": 193744, "D": "to humiliate or shame, as by injury to one's pride or self-respect.", "S": ["calamitous ", "destructive ", "disastrous ", "overwhelming "], "A": ["blessed ", "fortunate "]}
+{"index": 193744, "D": "to humiliate or shame, as by injury to one's pride or self-respect.", "S": ["calamitous", "destructive", "disastrous", "overwhelming"], "A": ["blessed", "fortunate"]}

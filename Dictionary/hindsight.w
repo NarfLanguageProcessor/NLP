@@ -1,1 +1,1 @@
-{"index": 139688, "D": "recognition of the realities, possibilities, or requirements of a situation, event, decision etc., after its occurrence.", "S": ["experience ", "knowledge ", "recollection ", "remembering ", "wisdom "], "A": ["ignorance "]}
+{"index": 139688, "D": "recognition of the realities, possibilities, or requirements of a situation, event, decision etc., after its occurrence.", "S": ["experience", "knowledge", "recollection", "remembering", "wisdom"], "A": ["ignorance"]}

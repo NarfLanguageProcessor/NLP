@@ -1,1 +1,1 @@
-{"index": 232477, "D": "having been numbed or paralyzed with astonishment, horror, or other strong emotion", "S": ["calcified ", "fossilized ", "frozen ", "ossified ", "solidified "], "A": []}
+{"index": 232477, "D": "having been numbed or paralyzed with astonishment, horror, or other strong emotion", "S": ["calcified", "fossilized", "frozen", "ossified", "solidified"], "A": []}

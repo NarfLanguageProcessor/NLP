@@ -1,1 +1,1 @@
-{"index": 302552, "D": "an uncastrated adult male horse, especially one used for breeding.", "S": ["colt ", "filly ", "mare ", "stallion "], "A": []}
+{"index": 302552, "D": "an uncastrated adult male horse, especially one used for breeding.", "S": ["colt", "filly", "mare", "stallion"], "A": []}

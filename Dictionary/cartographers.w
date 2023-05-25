@@ -1,1 +1,1 @@
-{"index": 48645, "D": "a person engaged in cartography,  or the production of maps.", "S": ["assessor "], "A": []}
+{"index": 48645, "D": "a person engaged in cartography,  or the production of maps.", "S": ["assessor"], "A": []}

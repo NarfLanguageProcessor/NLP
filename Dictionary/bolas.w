@@ -1,1 +1,1 @@
-{"index": 37494, "D": "bola (def. 1). ", "S": ["halter ", "rope ", "snare "], "A": []}
+{"index": 37494, "D": "bola (def. 1). ", "S": ["halter", "rope", "snare"], "A": []}

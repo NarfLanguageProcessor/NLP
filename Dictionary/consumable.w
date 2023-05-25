@@ -1,1 +1,1 @@
-{"index": 67184, "D": "able or meant to be consumed,  as by eating, drinking, or using", "S": ["comestible ", "digestible ", "eatable ", "edible ", "palatable "], "A": []}
+{"index": 67184, "D": "able or meant to be consumed,  as by eating, drinking, or using", "S": ["comestible", "digestible", "eatable", "edible", "palatable"], "A": []}

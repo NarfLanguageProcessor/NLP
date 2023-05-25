@@ -1,1 +1,1 @@
-{"index": 132496, "D": "a variant of hajji. ", "S": ["wanderer "], "A": ["inhabitant "]}
+{"index": 132496, "D": "a variant of hajji. ", "S": ["wanderer"], "A": ["inhabitant"]}

@@ -1,1 +1,1 @@
-{"index": 23848, "D": "origin, especially with reference to an author,  creator, producer, etc., of a work", "S": ["composition ", "creation ", "initiation ", "invention ", "origination ", "writing "], "A": []}
+{"index": 23848, "D": "origin, especially with reference to an author,  creator, producer, etc., of a work", "S": ["composition", "creation", "initiation", "invention", "origination", "writing"], "A": []}

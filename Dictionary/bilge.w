@@ -1,1 +1,1 @@
-{"index": 33894, "D": "seepage accumulated in bilges.", "S": ["balderdash ", "bull ", "malarky ", "rot ", "trash "], "A": ["truth "]}
+{"index": 33894, "D": "seepage accumulated in bilges.", "S": ["balderdash", "bull", "malarky", "rot", "trash"], "A": ["truth"]}

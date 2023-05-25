@@ -1,1 +1,1 @@
-{"index": 51394, "D": "the act of thinking; consideration; thought", "S": ["cogitation ", "contemplation ", "deliberation ", "excogitation ", "judgment ", "meditation ", "reflection ", "rumination ", "thinking "], "A": ["ignorance "]}
+{"index": 51394, "D": "the act of thinking; consideration; thought", "S": ["cogitation", "contemplation", "deliberation", "excogitation", "judgment", "meditation", "reflection", "rumination", "thinking"], "A": ["ignorance"]}

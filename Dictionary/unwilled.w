@@ -1,1 +1,1 @@
-{"index": 354240, "D": "not willed;  involuntary; unintentional", "S": ["mechanical ", "natural "], "A": ["by hand ", "manual ", "stilted ", "thought-out ", "unnatural "]}
+{"index": 354240, "D": "not willed;  involuntary; unintentional", "S": ["mechanical", "natural"], "A": ["by hand", "manual", "stilted", "thought-out", "unnatural"]}

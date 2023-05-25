@@ -1,1 +1,1 @@
-{"index": 360496, "D": "curriculum vitae (def. 1). ", "S": ["autobiography ", "diary ", "journal ", "life ", "life story ", "memoir ", "picture ", "profile ", "sketch "], "A": []}
+{"index": 360496, "D": "curriculum vitae (def. 1). ", "S": ["autobiography", "diary", "journal", "life", "life story", "memoir", "picture", "profile", "sketch"], "A": []}

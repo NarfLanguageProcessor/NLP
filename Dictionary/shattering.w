@@ -1,1 +1,1 @@
-{"index": 287607, "D": "to break (something) into pieces, as by a blow.", "S": ["collapsing ", "cracking ", "crumbling ", "fracturing ", "smashing ", "splintering ", "splitting ", "tearing "], "A": ["enduring ", "strong "]}
+{"index": 287607, "D": "to break (something) into pieces, as by a blow.", "S": ["collapsing", "cracking", "crumbling", "fracturing", "smashing", "splintering", "splitting", "tearing"], "A": ["enduring", "strong"]}

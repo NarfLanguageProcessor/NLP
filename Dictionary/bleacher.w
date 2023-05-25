@@ -1,1 +1,1 @@
-{"index": 35943, "D": "a typically roofless section of inexpensive and unreserved seats in tiers, especially at an open-air athletic stadium.", "S": ["benches ", "boxes ", "grandstand ", "seats ", "stands "], "A": []}
+{"index": 35943, "D": "a typically roofless section of inexpensive and unreserved seats in tiers, especially at an open-air athletic stadium.", "S": ["benches", "boxes", "grandstand", "seats", "stands"], "A": []}

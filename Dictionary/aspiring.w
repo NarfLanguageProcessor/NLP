@@ -1,1 +1,1 @@
-{"index": 21526, "D": "eagerly or ambitiously aiming for a particular career, title, social status, etc.", "S": ["eager ", "would-be "], "A": []}
+{"index": 21526, "D": "eagerly or ambitiously aiming for a particular career, title, social status, etc.", "S": ["eager", "would-be"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 149105, "D": "Compare nihil obstat. ", "S": ["charter ", "permission ", "permit ", "sanction "], "A": ["prohibition ", "veto "]}
+{"index": 149105, "D": "Compare nihil obstat. ", "S": ["charter", "permission", "permit", "sanction"], "A": ["prohibition", "veto"]}

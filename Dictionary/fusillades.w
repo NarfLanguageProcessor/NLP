@@ -1,1 +1,1 @@
-{"index": 120602, "D": "a simultaneous or continuous discharge of firearms.", "S": ["barrage ", "broadside ", "salvo ", "volley "], "A": []}
+{"index": 120602, "D": "a simultaneous or continuous discharge of firearms.", "S": ["barrage", "broadside", "salvo", "volley"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 363081, "D": "a person whose occupation it is to make and repair watches. ", "S": ["goldsmith ", "horologist ", "lapidary ", "silversmith "], "A": []}
+{"index": 363081, "D": "a person whose occupation it is to make and repair watches. ", "S": ["goldsmith", "horologist", "lapidary", "silversmith"], "A": []}

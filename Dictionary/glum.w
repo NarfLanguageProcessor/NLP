@@ -1,1 +1,1 @@
-{"index": 126901, "D": "sullenly or silently gloomy; dejected.", "S": ["depressed ", "dismal ", "gloomy ", "melancholy ", "morose ", "sad "], "A": ["bright ", "cheerful ", "encouraged ", "glad ", "happy ", "joyful "]}
+{"index": 126901, "D": "sullenly or silently gloomy; dejected.", "S": ["depressed", "dismal", "gloomy", "melancholy", "morose", "sad"], "A": ["bright", "cheerful", "encouraged", "glad", "happy", "joyful"]}

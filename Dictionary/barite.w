@@ -1,0 +1,1 @@
+{"index": 28020, "D": "a common mineral, barium sulfate, BaSO4, occurring in white, yellow, or colorless tabular crystals", "S": [], "A": []}

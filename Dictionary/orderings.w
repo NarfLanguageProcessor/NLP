@@ -1,1 +1,1 @@
-{"index": 214225, "D": [], "S": ["composition ", "design ", "distribution ", "form ", "method ", "pattern ", "structure ", "system "], "A": ["disorder ", "disorganization "]}
+{"index": 214225, "D": [], "S": ["composition", "design", "distribution", "form", "method", "pattern", "structure", "system"], "A": ["disorder", "disorganization"]}

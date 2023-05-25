@@ -1,1 +1,1 @@
-{"index": 107914, "D": "tending or serving to explode", "S": ["unpredictability "], "A": []}
+{"index": 107914, "D": "tending or serving to explode", "S": ["unpredictability"], "A": []}

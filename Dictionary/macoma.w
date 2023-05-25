@@ -1,1 +1,0 @@
-{"index": 176848, "D": "any marine bivalve mollusk of the genus Macoma, having a glossy, thin, usually white shell.", "S": [], "A": []}

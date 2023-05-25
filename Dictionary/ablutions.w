@@ -1,1 +1,1 @@
-{"index": 594, "D": "a cleansing with water or other liquid, especially as a religious ritual.", "S": ["attire ", "dressing ", "grooming ", "makeup ", "toilette "], "A": []}
+{"index": 594, "D": "a cleansing with water or other liquid, especially as a religious ritual.", "S": ["attire", "dressing", "grooming", "makeup", "toilette"], "A": []}

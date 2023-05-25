@@ -1,1 +1,1 @@
-{"index": 76983, "D": "a person very dear to another; one dearly loved.", "S": ["angel ", "baby ", "beloved ", "boyfriend ", "dear ", "dearest ", "dearie ", "flame ", "friend ", "girlfriend ", "love ", "lover ", "pet ", "sugar ", "sweetie ", "treasure ", "truelove "], "A": []}
+{"index": 76983, "D": "a person very dear to another; one dearly loved.", "S": ["angel", "baby", "beloved", "boyfriend", "dear", "dearest", "dearie", "flame", "friend", "girlfriend", "love", "lover", "pet", "sugar", "sweetie", "treasure", "truelove"], "A": []}

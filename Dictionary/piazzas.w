@@ -1,1 +1,1 @@
-{"index": 235765, "D": "an open square or public place in a city or town, especially in Italy.", "S": ["balcony ", "colonnade ", "patio ", "portico ", "square ", "stoop ", "veranda "], "A": []}
+{"index": 235765, "D": "an open square or public place in a city or town, especially in Italy.", "S": ["balcony", "colonnade", "patio", "portico", "square", "stoop", "veranda"], "A": []}

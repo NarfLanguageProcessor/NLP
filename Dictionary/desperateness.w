@@ -1,1 +1,1 @@
-{"index": 82816, "D": "reckless or dangerous because ofdespair,  hopelessness, or urgency", "S": ["desperation ", "despond ", "despondence ", "despondency ", "discouragement ", "gloom ", "hopelessness "], "A": []}
+{"index": 82816, "D": "reckless or dangerous because ofdespair,  hopelessness, or urgency", "S": ["desperation", "despond", "despondence", "despondency", "discouragement", "gloom", "hopelessness"], "A": []}

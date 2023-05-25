@@ -1,1 +1,1 @@
-{"index": 243624, "D": "an indication or omen of something about to happen, especially something momentous.", "S": ["harbinger ", "omen ", "premonition "], "A": ["doom "]}
+{"index": 243624, "D": "an indication or omen of something about to happen, especially something momentous.", "S": ["harbinger", "omen", "premonition"], "A": ["doom"]}

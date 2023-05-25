@@ -1,1 +1,1 @@
-{"index": 358471, "D": "bashful; modest.", "S": ["confused ", "coy ", "diffident ", "embarrassed ", "reticent ", "self-conscious ", "sheepish ", "timid "], "A": ["aggressive ", "bold ", "forward "]}
+{"index": 358471, "D": "bashful; modest.", "S": ["confused", "coy", "diffident", "embarrassed", "reticent", "self-conscious", "sheepish", "timid"], "A": ["aggressive", "bold", "forward"]}

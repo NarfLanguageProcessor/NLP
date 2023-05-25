@@ -1,1 +1,1 @@
-{"index": 304594, "D": [], "S": ["angular ", "gangly ", "gaunt ", "rangy ", "scrawny ", "slender ", "spindly "], "A": ["chubby ", "fat ", "plump ", "thick "]}
+{"index": 304594, "D": [], "S": ["angular", "gangly", "gaunt", "rangy", "scrawny", "slender", "spindly"], "A": ["chubby", "fat", "plump", "thick"]}

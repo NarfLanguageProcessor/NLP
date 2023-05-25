@@ -1,1 +1,0 @@
-{"index": 321326, "D": "to undergo or cause to undergo a process in which neutrons lose energy in a moderator and become thermal neutrons", "S": [], "A": []}

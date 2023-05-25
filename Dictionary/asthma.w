@@ -1,0 +1,1 @@
+{"index": 22088, "D": "a paroxysmal, often allergic disorder of respiration, characterized by bronchospasm, wheezing, and difficulty in expiration, often accompanied by coughing and a feeling of constriction in the chest.", "S": [], "A": []}

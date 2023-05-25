@@ -1,1 +1,1 @@
-{"index": 154404, "D": "in a firmly or steadfastly fixed or directed way, as with the eyes, ears, or mind", "S": ["attentively ", "closely ", "keenly "], "A": ["distractedly "]}
+{"index": 154404, "D": "in a firmly or steadfastly fixed or directed way, as with the eyes, ears, or mind", "S": ["attentively", "closely", "keenly"], "A": ["distractedly"]}

@@ -1,1 +1,0 @@
-{"index": 331844, "D": "having or forming a tube  or tubes;  tubular.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 90509, "D": "jinn. ", "S": ["Beelzebub ", "Lucifer ", "Mephistopheles ", "Satan ", "adversary ", "dastard ", "fiend ", "genie ", "hellion ", "imp ", "monster ", "ogre ", "rogue ", "villain "], "A": ["angel ", "god "]}
+{"index": 90509, "D": "jinn. ", "S": ["Beelzebub", "Lucifer", "Mephistopheles", "Satan", "adversary", "dastard", "fiend", "genie", "hellion", "imp", "monster", "ogre", "rogue", "villain"], "A": ["angel", "god"]}

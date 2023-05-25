@@ -1,1 +1,1 @@
-{"index": 343201, "D": "lacking charm or elegance; awkward.", "S": ["awkwardness ", "inability ", "incompetence ", "ineptness "], "A": ["skill "]}
+{"index": 343201, "D": "lacking charm or elegance; awkward.", "S": ["awkwardness", "inability", "incompetence", "ineptness"], "A": ["skill"]}

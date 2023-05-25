@@ -1,1 +1,1 @@
-{"index": 260495, "D": "full of or showing rancor. ", "S": ["acrimonious ", "bitter ", "resentful ", "spiteful "], "A": ["kind "]}
+{"index": 260495, "D": "full of or showing rancor. ", "S": ["acrimonious", "bitter", "resentful", "spiteful"], "A": ["kind"]}

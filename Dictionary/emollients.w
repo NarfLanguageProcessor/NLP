@@ -1,1 +1,1 @@
-{"index": 98626, "D": "having the power of softening or relaxing, as a medicinal substance; soothing, especially to the skin", "S": ["demulcent ", "healing ", "lenitive ", "palliative ", "softening "], "A": []}
+{"index": 98626, "D": "having the power of softening or relaxing, as a medicinal substance; soothing, especially to the skin", "S": ["demulcent", "healing", "lenitive", "palliative", "softening"], "A": []}

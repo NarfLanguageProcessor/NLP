@@ -1,1 +1,1 @@
-{"index": 91178, "D": "a small figure representing a baby or other human being, especially for use as a child's toy.", "S": ["figurine ", "model ", "puppet "], "A": []}
+{"index": 91178, "D": "a small figure representing a baby or other human being, especially for use as a child's toy.", "S": ["figurine", "model", "puppet"], "A": []}

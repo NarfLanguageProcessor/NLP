@@ -1,1 +1,0 @@
-{"index": 308346, "D": "woolly; covered with something resembling wool.", "S": [], "A": []}

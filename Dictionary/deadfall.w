@@ -1,1 +1,1 @@
-{"index": 77456, "D": "a trap, especially for large game, in which a weight falls  on and crushes the prey.", "S": ["land mine "], "A": []}
+{"index": 77456, "D": "a trap, especially for large game, in which a weight falls  on and crushes the prey.", "S": ["land mine"], "A": []}

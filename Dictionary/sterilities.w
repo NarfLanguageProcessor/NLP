@@ -1,1 +1,1 @@
-{"index": 304033, "D": "the fact or condition of being free from living germs or microorganisms", "S": ["impotence ", "infertility "], "A": ["fecundity "]}
+{"index": 304033, "D": "the fact or condition of being free from living germs or microorganisms", "S": ["impotence", "infertility"], "A": ["fecundity"]}

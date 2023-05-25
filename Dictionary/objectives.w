@@ -1,1 +1,1 @@
-{"index": 210118, "D": "something that one's efforts or actions are intended to attain or accomplish; purpose; goal; target", "S": ["manifesto ", "plank ", "policy ", "principle ", "program "], "A": []}
+{"index": 210118, "D": "something that one's efforts or actions are intended to attain or accomplish; purpose; goal; target", "S": ["manifesto", "plank", "policy", "principle", "program"], "A": []}

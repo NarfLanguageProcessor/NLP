@@ -1,1 +1,1 @@
-{"index": 42593, "D": "gold or silver considered in mass rather than in value.", "S": ["buck ", "currency ", "investment ", "note ", "payment ", "refund ", "reserve ", "security ", "stock ", "supply "], "A": ["debt "]}
+{"index": 42593, "D": "gold or silver considered in mass rather than in value.", "S": ["buck", "currency", "investment", "note", "payment", "refund", "reserve", "security", "stock", "supply"], "A": ["debt"]}

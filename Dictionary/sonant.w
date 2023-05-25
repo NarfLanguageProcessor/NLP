@@ -1,1 +1,1 @@
-{"index": 297162, "D": "sounding;  having sound. ", "S": ["choral ", "lyric ", "oral ", "singing ", "sung ", "voiced ", "vowel "], "A": []}
+{"index": 297162, "D": "sounding;  having sound. ", "S": ["choral", "lyric", "oral", "singing", "sung", "voiced", "vowel"], "A": []}

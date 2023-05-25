@@ -1,1 +1,1 @@
-{"index": 26302, "D": "baglike; hanging loosely.", "S": ["billowing ", "floppy ", "oversize ", "roomy "], "A": ["firm ", "fitting ", "tight "]}
+{"index": 26302, "D": "baglike; hanging loosely.", "S": ["billowing", "floppy", "oversize", "roomy"], "A": ["firm", "fitting", "tight"]}

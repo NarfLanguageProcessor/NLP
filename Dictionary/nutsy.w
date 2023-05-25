@@ -1,1 +1,0 @@
-{"index": 209827, "D": "nutty (defs. 3, 4). ", "S": ["boisterous ", "chaotic ", "exciting ", "frenetic ", "frenzied ", "heated ", "tumultuous ", "unsettled "], "A": ["calm ", "peaceful ", "quiet "]}

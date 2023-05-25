@@ -1,1 +1,1 @@
-{"index": 282741, "D": [], "S": ["reclusive ", "sheltered "], "A": ["seen "]}
+{"index": 282741, "D": [], "S": ["reclusive", "sheltered"], "A": ["seen"]}

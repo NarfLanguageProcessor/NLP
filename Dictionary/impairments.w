@@ -1,1 +1,1 @@
-{"index": 148235, "D": "the state of being diminished, weakened, or damaged, especially mentally or physically", "S": ["deterioration "], "A": ["improvement "]}
+{"index": 148235, "D": "the state of being diminished, weakened, or damaged, especially mentally or physically", "S": ["deterioration"], "A": ["improvement"]}

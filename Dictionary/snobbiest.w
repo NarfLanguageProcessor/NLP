@@ -1,1 +1,1 @@
-{"index": 295635, "D": "condescending, patronizing, or socially exclusive; snobbish.", "S": ["arrogant ", "pretentious ", "snobbish "], "A": ["humble "]}
+{"index": 295635, "D": "condescending, patronizing, or socially exclusive; snobbish.", "S": ["arrogant", "pretentious", "snobbish"], "A": ["humble"]}

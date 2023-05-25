@@ -1,1 +1,1 @@
-{"index": 88836, "D": "to refuse to acknowledge as belonging or pertaining to oneself; deny the ownership of or responsibility for; repudiate; renounce", "S": ["deserted ", "desolate ", "ignored ", "isolated ", "jilted ", "marooned "], "A": ["populated "]}
+{"index": 88836, "D": "to refuse to acknowledge as belonging or pertaining to oneself; deny the ownership of or responsibility for; repudiate; renounce", "S": ["deserted", "desolate", "ignored", "isolated", "jilted", "marooned"], "A": ["populated"]}

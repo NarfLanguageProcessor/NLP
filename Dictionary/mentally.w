@@ -1,1 +1,1 @@
-{"index": 183506, "D": "in or with the mind or intellect; intellectually.", "S": ["intellectually ", "psychologically "], "A": []}
+{"index": 183506, "D": "in or with the mind or intellect; intellectually.", "S": ["intellectually", "psychologically"], "A": []}

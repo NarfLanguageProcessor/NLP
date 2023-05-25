@@ -1,1 +1,1 @@
-{"index": 165238, "D": "coyly playful.", "S": ["childish ", "coquettish ", "coy ", "elvish ", "flirtatious ", "frolicsome ", "fun-loving ", "impish ", "jaunty ", "mischievous ", "sportive "], "A": ["lethargic ", "stiff "]}
+{"index": 165238, "D": "coyly playful.", "S": ["childish", "coquettish", "coy", "elvish", "flirtatious", "frolicsome", "fun-loving", "impish", "jaunty", "mischievous", "sportive"], "A": ["lethargic", "stiff"]}

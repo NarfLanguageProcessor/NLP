@@ -1,1 +1,1 @@
-{"index": 1748, "D": "equipment worn by soldiers in addition to their clothing and weapons", "S": ["accessory ", "trappings "], "A": []}
+{"index": 1748, "D": "equipment worn by soldiers in addition to their clothing and weapons", "S": ["accessory", "trappings"], "A": []}

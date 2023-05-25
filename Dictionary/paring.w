@@ -1,1 +1,1 @@
-{"index": 226515, "D": "the act of a person or thing that pares. ", "S": ["slice ", "wafer "], "A": ["whole "]}
+{"index": 226515, "D": "the act of a person or thing that pares. ", "S": ["slice", "wafer"], "A": ["whole"]}

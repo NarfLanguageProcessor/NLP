@@ -1,1 +1,1 @@
-{"index": 182288, "D": "in a humbly patient or quiet manner", "S": ["delicately ", "indifferently ", "lightly ", "moderately ", "quietly "], "A": ["harshly ", "roughly ", "violently "]}
+{"index": 182288, "D": "in a humbly patient or quiet manner", "S": ["delicately", "indifferently", "lightly", "moderately", "quietly"], "A": ["harshly", "roughly", "violently"]}

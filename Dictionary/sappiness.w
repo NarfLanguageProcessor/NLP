@@ -1,1 +1,1 @@
-{"index": 278202, "D": "abounding in sap,  as a plant.", "S": ["bathos ", "emotionalness ", "gushiness ", "maudlinism ", "maudlinness ", "mawkishness ", "melodrama ", "melodramatics ", "mushiness ", "nostalgia ", "reminiscence ", "sentiment ", "sentimentalism ", "triteness "], "A": []}
+{"index": 278202, "D": "abounding in sap,  as a plant.", "S": ["bathos", "emotionalness", "gushiness", "maudlinism", "maudlinness", "mawkishness", "melodrama", "melodramatics", "mushiness", "nostalgia", "reminiscence", "sentiment", "sentimentalism", "triteness"], "A": []}

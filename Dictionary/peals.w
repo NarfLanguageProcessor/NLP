@@ -1,1 +1,1 @@
-{"index": 228428, "D": "a loud, prolonged ringing of bells.", "S": ["blast ", "carillon ", "clamor ", "clap ", "crash ", "resounding ", "reverberation ", "ring ", "ringing ", "roar ", "rumble ", "sound ", "thunder ", "tintinnabulation "], "A": ["quiet ", "silence "]}
+{"index": 228428, "D": "a loud, prolonged ringing of bells.", "S": ["blast", "carillon", "clamor", "clap", "crash", "resounding", "reverberation", "ring", "ringing", "roar", "rumble", "sound", "thunder", "tintinnabulation"], "A": ["quiet", "silence"]}

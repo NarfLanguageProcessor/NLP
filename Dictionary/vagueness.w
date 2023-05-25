@@ -1,1 +1,1 @@
-{"index": 356571, "D": "not clearly or explicitly stated or expressed", "S": ["ambiguity "], "A": []}
+{"index": 356571, "D": "not clearly or explicitly stated or expressed", "S": ["ambiguity"], "A": []}

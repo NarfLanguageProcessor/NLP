@@ -1,1 +1,1 @@
-{"index": 263789, "D": "that recurs;  occurring or appearing again, especially repeatedly or periodically.", "S": ["frequent ", "intermittent ", "periodic ", "recurring ", "repeated ", "repetitive "], "A": ["constant ", "continual ", "irregular ", "sporadic "]}
+{"index": 263789, "D": "that recurs;  occurring or appearing again, especially repeatedly or periodically.", "S": ["frequent", "intermittent", "periodic", "recurring", "repeated", "repetitive"], "A": ["constant", "continual", "irregular", "sporadic"]}

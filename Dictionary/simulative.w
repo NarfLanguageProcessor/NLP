@@ -1,1 +1,1 @@
-{"index": 291183, "D": "to create a simulation,  likeness, or model of (a situation, system, or the like)", "S": ["apish ", "copied ", "duplicated ", "mimetic ", "mimic ", "simulated "], "A": []}
+{"index": 291183, "D": "to create a simulation,  likeness, or model of (a situation, system, or the like)", "S": ["apish", "copied", "duplicated", "mimetic", "mimic", "simulated"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 66498, "D": "united, joined, or linked.", "S": ["accordingly ", "collectively ", "cooperatively ", "in tandem ", "mutually ", "simultaneously ", "together ", "unitedly "], "A": ["singly "]}
+{"index": 66498, "D": "united, joined, or linked.", "S": ["accordingly", "collectively", "cooperatively", "in tandem", "mutually", "simultaneously", "together", "unitedly"], "A": ["singly"]}

@@ -1,1 +1,1 @@
-{"index": 257698, "D": "having four ways or roads meeting in a point.", "S": ["quadruple ", "quadruplicate ", "quaternary ", "tetrad "], "A": []}
+{"index": 257698, "D": "having four ways or roads meeting in a point.", "S": ["quadruple", "quadruplicate", "quaternary", "tetrad"], "A": []}

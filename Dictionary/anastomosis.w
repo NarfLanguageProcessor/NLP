@@ -1,0 +1,1 @@
+{"index": 12028, "D": "communication between blood vessels by means of collateral channels, especially when usual routes are obstructed.", "S": [], "A": []}

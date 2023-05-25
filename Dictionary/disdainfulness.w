@@ -1,1 +1,1 @@
-{"index": 87815, "D": "full of or showing disdain; scornful. ", "S": ["aloofness ", "chutzpah ", "disdain ", "ego ", "egotism ", "hubris ", "pretension ", "pride ", "smugness ", "vanity "], "A": ["humility ", "modesty ", "carefulness ", "caution ", "meekness ", "shyness ", "timidity "]}
+{"index": 87815, "D": "full of or showing disdain; scornful. ", "S": ["aloofness", "chutzpah", "disdain", "ego", "egotism", "hubris", "pretension", "pride", "smugness", "vanity"], "A": ["humility", "modesty", "carefulness", "caution", "meekness", "shyness", "timidity"]}

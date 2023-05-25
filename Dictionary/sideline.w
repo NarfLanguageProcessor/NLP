@@ -1,1 +1,1 @@
-{"index": 289758, "D": "a line at the side of something.", "S": ["distraction ", "diversion ", "hobby ", "moonlighting ", "recreation ", "subsidiary "], "A": ["profession ", "vocation ", "work "]}
+{"index": 289758, "D": "a line at the side of something.", "S": ["distraction", "diversion", "hobby", "moonlighting", "recreation", "subsidiary"], "A": ["profession", "vocation", "work"]}

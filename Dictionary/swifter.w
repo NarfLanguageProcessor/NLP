@@ -1,1 +1,1 @@
-{"index": 314394, "D": "a line run around the ends of capstan bars to prevent their falling out of their sockets", "S": ["abrupt ", "expeditious ", "hasty ", "nimble ", "quick ", "rapid ", "speedy ", "sudden ", "unexpected "], "A": ["delayed ", "expected ", "lazy ", "leisurely ", "slow "]}
+{"index": 314394, "D": "a line run around the ends of capstan bars to prevent their falling out of their sockets", "S": ["abrupt", "expeditious", "hasty", "nimble", "quick", "rapid", "speedy", "sudden", "unexpected"], "A": ["delayed", "expected", "lazy", "leisurely", "slow"]}

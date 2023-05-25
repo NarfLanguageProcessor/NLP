@@ -1,1 +1,1 @@
-{"index": 242364, "D": "an ancient Greek city-state.", "S": ["capital ", "center ", "downtown ", "metropolis ", "municipality ", "place ", "port "], "A": []}
+{"index": 242364, "D": "an ancient Greek city-state.", "S": ["capital", "center", "downtown", "metropolis", "municipality", "place", "port"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 261011, "D": "in a measure; to a certain extent; somewhat", "S": ["a bit ", "a little ", "comparatively ", "fairly ", "kind of ", "pretty ", "quite ", "relatively ", "slightly ", "somewhat "], "A": ["extremely ", "insignificantly ", "little ", "violently "]}
+{"index": 261011, "D": "in a measure; to a certain extent; somewhat", "S": ["a bit", "a little", "comparatively", "fairly", "kind of", "pretty", "quite", "relatively", "slightly", "somewhat"], "A": ["extremely", "insignificantly", "little", "violently"]}

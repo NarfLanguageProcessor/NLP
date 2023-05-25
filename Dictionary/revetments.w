@@ -1,1 +1,1 @@
-{"index": 271312, "D": "a facing of masonry or the like, especially for protecting an embankment.", "S": ["covering ", "front ", "siding ", "surface "], "A": []}
+{"index": 271312, "D": "a facing of masonry or the like, especially for protecting an embankment.", "S": ["covering", "front", "siding", "surface"], "A": []}

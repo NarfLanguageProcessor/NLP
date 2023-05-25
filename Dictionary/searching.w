@@ -1,1 +1,1 @@
-{"index": 282547, "D": "examining carefully or thoroughly", "S": ["curious ", "seeking "], "A": []}
+{"index": 282547, "D": "examining carefully or thoroughly", "S": ["curious", "seeking"], "A": []}

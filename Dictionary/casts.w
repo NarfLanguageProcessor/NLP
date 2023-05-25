@@ -1,1 +1,1 @@
-{"index": 49134, "D": "to throw or hurl; fling", "S": ["casting "], "A": ["catch ", "keeping ", "retention "]}
+{"index": 49134, "D": "to throw or hurl; fling", "S": ["casting"], "A": ["catch", "keeping", "retention"]}

@@ -1,1 +1,1 @@
-{"index": 37520, "D": "lack of hesitation or fear in the face of risk or danger; courage", "S": ["bravery ", "chutzpah ", "courage ", "daring ", "determination ", "fearlessness ", "recklessness "], "A": ["cowardice ", "timidity "]}
+{"index": 37520, "D": "lack of hesitation or fear in the face of risk or danger; courage", "S": ["bravery", "chutzpah", "courage", "daring", "determination", "fearlessness", "recklessness"], "A": ["cowardice", "timidity"]}

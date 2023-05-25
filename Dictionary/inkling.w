@@ -1,1 +1,1 @@
-{"index": 152917, "D": "a slight suggestion or indication; hint; intimation", "S": ["hunch ", "indication "], "A": ["information "]}
+{"index": 152917, "D": "a slight suggestion or indication; hint; intimation", "S": ["hunch", "indication"], "A": ["information"]}

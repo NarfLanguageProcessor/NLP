@@ -1,1 +1,1 @@
-{"index": 41774, "D": "(of hair, eyes, skin, etc.) of a dark color or tone.", "S": ["brown ", "brunet "], "A": ["blond ", "blonde "]}
+{"index": 41774, "D": "(of hair, eyes, skin, etc.) of a dark color or tone.", "S": ["brown", "brunet"], "A": ["blond", "blonde"]}

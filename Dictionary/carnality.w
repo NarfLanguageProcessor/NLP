@@ -1,1 +1,1 @@
-{"index": 48191, "D": "preoccupation with, or indulgence in, the flesh or the body and its passions and appetites; sensuality", "S": ["lasciviousness ", "lubricity ", "prurience ", "pruriency "], "A": []}
+{"index": 48191, "D": "preoccupation with, or indulgence in, the flesh or the body and its passions and appetites; sensuality", "S": ["lasciviousness", "lubricity", "prurience", "pruriency"], "A": []}

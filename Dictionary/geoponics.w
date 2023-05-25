@@ -1,1 +1,1 @@
-{"index": 124024, "D": "the art or science of agriculture.", "S": ["agriculture ", "breeding ", "cultivation ", "culture ", "gardening ", "grazing ", "production ", "ranching "], "A": ["destruction "]}
+{"index": 124024, "D": "the art or science of agriculture.", "S": ["agriculture", "breeding", "cultivation", "culture", "gardening", "grazing", "production", "ranching"], "A": ["destruction"]}

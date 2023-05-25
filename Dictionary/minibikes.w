@@ -1,1 +1,0 @@
-{"index": 187832, "D": "a small, lightweight motorcycle with a low frame and designed generally for off-highway use.", "S": ["chopper ", "hog ", "moped ", "scooter "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 206785, "D": "to withstand, strive against, or oppose", "S": ["satisfied "], "A": ["agitated ", "boisterous ", "excited ", "loud ", "rough ", "roused ", "troubled ", "unprepared ", "unwilling ", "violent ", "wild "]}
+{"index": 206785, "D": "to withstand, strive against, or oppose", "S": ["satisfied"], "A": ["agitated", "boisterous", "excited", "loud", "rough", "roused", "troubled", "unprepared", "unwilling", "violent", "wild"]}

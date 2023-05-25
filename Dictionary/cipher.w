@@ -1,1 +1,1 @@
-{"index": 57864, "D": "zero. ", "S": ["nonentity "], "A": []}
+{"index": 57864, "D": "zero. ", "S": ["nonentity"], "A": []}

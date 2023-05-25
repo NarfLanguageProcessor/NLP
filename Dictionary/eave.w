@@ -1,1 +1,1 @@
-{"index": 94974, "D": "the overhanging lower edge of a roof.", "S": ["band ", "crown ", "drip ", "frame ", "furnish "], "A": []}
+{"index": 94974, "D": "the overhanging lower edge of a roof.", "S": ["band", "crown", "drip", "frame", "furnish"], "A": []}

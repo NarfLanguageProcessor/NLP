@@ -1,1 +1,1 @@
-{"index": 324192, "D": "a person who sets or composes type;  compositor.", "S": ["composer ", "composing room ", "pressroom ", "printer ", "printery ", "printing office ", "printing shop "], "A": []}
+{"index": 324192, "D": "a person who sets or composes type;  compositor.", "S": ["composer", "composing room", "pressroom", "printer", "printery", "printing office", "printing shop"], "A": []}

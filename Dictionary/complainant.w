@@ -1,1 +1,1 @@
-{"index": 64587, "D": "a person, group, or company that makes a complaint,  as in a legal action.", "S": ["accuser ", "claimant ", "plaintiff "], "A": []}
+{"index": 64587, "D": "a person, group, or company that makes a complaint,  as in a legal action.", "S": ["accuser", "claimant", "plaintiff"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26000, "D": "toward the back or rear.", "S": ["back", "rearward"], "A": ["ahead", "forward"]}

@@ -1,1 +1,1 @@
-{"index": 150124, "D": "not complete; lacking some part.", "S": ["ignorance "], "A": []}
+{"index": 150124, "D": "not complete; lacking some part.", "S": ["ignorance"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 155090, "D": "to throw or hurl (a dart, javelin, etc.).", "S": ["add ", "implant ", "infuse ", "insert ", "instill ", "interject "], "A": ["remove ", "withdraw ", "take out "]}
+{"index": 155090, "D": "to throw or hurl (a dart, javelin, etc.).", "S": ["add", "implant", "infuse", "insert", "instill", "interject"], "A": ["remove", "withdraw", "take out"]}

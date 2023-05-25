@@ -1,1 +1,1 @@
-{"index": 21570, "D": "to examine or analyze", "S": ["ascertainable ", "deductive ", "discoverable ", "judicable ", "measurable ", "provable "], "A": []}
+{"index": 21570, "D": "to examine or analyze", "S": ["ascertainable", "deductive", "discoverable", "judicable", "measurable", "provable"], "A": []}

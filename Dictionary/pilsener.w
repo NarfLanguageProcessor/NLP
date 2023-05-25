@@ -1,1 +1,1 @@
-{"index": 236800, "D": "a pale, light lager beer.", "S": ["bottle ", "cup ", "jar ", "jug "], "A": []}
+{"index": 236800, "D": "a pale, light lager beer.", "S": ["bottle", "cup", "jar", "jug"], "A": []}

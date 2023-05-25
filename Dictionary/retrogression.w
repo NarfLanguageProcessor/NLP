@@ -1,1 +1,0 @@
-{"index": 270848, "D": "the act of retrogressing;  movement backward.", "S": ["recession ", "regression ", "retreat ", "reverse ", "throwback "], "A": ["advance "]}

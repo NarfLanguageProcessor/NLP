@@ -1,1 +1,1 @@
-{"index": 333379, "D": "U.S. Air Force general", "S": ["yarn "], "A": ["line ", "order "]}
+{"index": 333379, "D": "U.S. Air Force general", "S": ["yarn"], "A": ["line", "order"]}

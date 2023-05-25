@@ -1,1 +1,1 @@
-{"index": 239577, "D": "having an appearance of truth or reason; seemingly worthy of approval or acceptance; credible; believable", "S": ["believability ", "soundness ", "validity "], "A": ["improbability ", "unlikelihood "]}
+{"index": 239577, "D": "having an appearance of truth or reason; seemingly worthy of approval or acceptance; credible; believable", "S": ["believability", "soundness", "validity"], "A": ["improbability", "unlikelihood"]}

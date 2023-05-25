@@ -1,1 +1,1 @@
-{"index": 305664, "D": "going or directed straight ahead", "S": ["candidly "], "A": ["dishonestly "]}
+{"index": 305664, "D": "going or directed straight ahead", "S": ["candidly"], "A": ["dishonestly"]}

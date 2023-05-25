@@ -1,1 +1,1 @@
-{"index": 324679, "D": "a tithe. ", "S": ["assess ", "enact ", "impose "], "A": ["give "]}
+{"index": 324679, "D": "a tithe. ", "S": ["assess", "enact", "impose"], "A": ["give"]}

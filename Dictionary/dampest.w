@@ -1,1 +1,1 @@
-{"index": 76630, "D": "slightly wet; moist", "S": ["cloudy ", "dank ", "drizzly ", "misty ", "moist ", "muggy ", "saturated ", "soaked ", "sodden ", "soggy ", "steamy ", "sticky ", "waterlogged "], "A": ["dry "]}
+{"index": 76630, "D": "slightly wet; moist", "S": ["cloudy", "dank", "drizzly", "misty", "moist", "muggy", "saturated", "soaked", "sodden", "soggy", "steamy", "sticky", "waterlogged"], "A": ["dry"]}

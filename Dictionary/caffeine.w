@@ -1,1 +1,1 @@
-{"index": 44482, "D": "a white, crystalline, bitter alkaloid,  C8H10N4O2, usually derived from coffee or tea", "S": ["cappuccino ", "espresso "], "A": []}
+{"index": 44482, "D": "a white, crystalline, bitter alkaloid,  C8H10N4O2, usually derived from coffee or tea", "S": ["cappuccino", "espresso"], "A": []}

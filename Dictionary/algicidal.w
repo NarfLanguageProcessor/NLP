@@ -1,0 +1,1 @@
+{"index": 8086, "D": "a substance or preparation for killing algae. ", "S": [], "A": []}

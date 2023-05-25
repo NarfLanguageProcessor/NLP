@@ -1,1 +1,1 @@
-{"index": 52824, "D": "carefully; warily. ", "S": ["cautiously ", "delicately ", "discreetly ", "hesitantly ", "reluctantly ", "safely ", "timidly ", "warily "], "A": ["carelessly ", "rashly ", "roughly "]}
+{"index": 52824, "D": "carefully; warily. ", "S": ["cautiously", "delicately", "discreetly", "hesitantly", "reluctantly", "safely", "timidly", "warily"], "A": ["carelessly", "rashly", "roughly"]}

@@ -1,1 +1,1 @@
-{"index": 152637, "D": "an apparatus designed to mix carbon dioxide and oxygen, especially for use in artificial respiration.", "S": ["iron lung ", "respirator "], "A": []}
+{"index": 152637, "D": "an apparatus designed to mix carbon dioxide and oxygen, especially for use in artificial respiration.", "S": ["iron lung", "respirator"], "A": []}

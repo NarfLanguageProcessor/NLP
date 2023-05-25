@@ -1,1 +1,1 @@
-{"index": 92126, "D": "(especially of a person in public office) advocating peace, compromise, or a conciliatory national attitude", "S": ["green ", "inexperienced ", "naive ", "pure ", "sinless ", "uncorrupted ", "undefiled ", "unworldly ", "wide-eyed "], "A": []}
+{"index": 92126, "D": "(especially of a person in public office) advocating peace, compromise, or a conciliatory national attitude", "S": ["green", "inexperienced", "naive", "pure", "sinless", "uncorrupted", "undefiled", "unworldly", "wide-eyed"], "A": []}

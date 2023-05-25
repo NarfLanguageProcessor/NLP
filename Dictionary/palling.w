@@ -1,1 +1,1 @@
-{"index": 224002, "D": "a friend or close associate; chum; comrade. ", "S": ["cloak ", "shroud ", "veil "], "A": ["happiness "]}
+{"index": 224002, "D": "a friend or close associate; chum; comrade. ", "S": ["cloak", "shroud", "veil"], "A": ["happiness"]}

@@ -1,1 +1,1 @@
-{"index": 89694, "D": "the extent or amount of space between two things, points, lines, etc.", "S": ["area ", "gap ", "length ", "orbit ", "radius ", "scope ", "separation ", "size ", "space ", "span ", "stretch ", "width "], "A": ["height "]}
+{"index": 89694, "D": "the extent or amount of space between two things, points, lines, etc.", "S": ["area", "gap", "length", "orbit", "radius", "scope", "separation", "size", "space", "span", "stretch", "width"], "A": ["height"]}

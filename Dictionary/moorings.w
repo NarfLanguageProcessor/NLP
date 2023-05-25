@@ -1,1 +1,1 @@
-{"index": 193151, "D": "the ropes, anchors, etc, used in mooring a vessel", "S": ["berth ", "boatyard ", "harbor ", "landing ", "pier ", "port ", "quay ", "slip ", "wharf "], "A": []}
+{"index": 193151, "D": "the ropes, anchors, etc, used in mooring a vessel", "S": ["berth", "boatyard", "harbor", "landing", "pier", "port", "quay", "slip", "wharf"], "A": []}

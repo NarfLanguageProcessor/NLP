@@ -1,1 +1,1 @@
-{"index": 11321, "D": "in an ample  manner; sufficiently or abundantly", "S": ["abundantly ", "adequately ", "extensively ", "generously ", "lavishly ", "liberally ", "properly ", "richly "], "A": ["illiberal ", "inadequately ", "insufficiently "]}
+{"index": 11321, "D": "in an ample  manner; sufficiently or abundantly", "S": ["abundantly", "adequately", "extensively", "generously", "lavishly", "liberally", "properly", "richly"], "A": ["illiberal", "inadequately", "insufficiently"]}

@@ -1,1 +1,1 @@
-{"index": 153629, "D": "the quality of being insincere;  lack of sincerity;  hypocrisy; deceitfulness.", "S": ["falsity ", "hypocrisy "], "A": ["honesty ", "truth ", "frankness ", "openness ", "truthfulness "]}
+{"index": 153629, "D": "the quality of being insincere;  lack of sincerity;  hypocrisy; deceitfulness.", "S": ["falsity", "hypocrisy"], "A": ["honesty", "truth", "frankness", "openness", "truthfulness"]}

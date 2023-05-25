@@ -1,1 +1,1 @@
-{"index": 366738, "D": "the quality or condition of being amusingly clever", "S": ["farce ", "fun ", "humor ", "satire ", "sitcom "], "A": ["sadness ", "tragedy ", "seriousness "]}
+{"index": 366738, "D": "the quality or condition of being amusingly clever", "S": ["farce", "fun", "humor", "satire", "sitcom"], "A": ["sadness", "tragedy", "seriousness"]}

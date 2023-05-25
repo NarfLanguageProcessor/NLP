@@ -1,1 +1,1 @@
-{"index": 67952, "D": "the quality of being convenient;  suitability.", "S": ["luxuries ", "niceties "], "A": []}
+{"index": 67952, "D": "the quality of being convenient;  suitability.", "S": ["luxuries", "niceties"], "A": []}

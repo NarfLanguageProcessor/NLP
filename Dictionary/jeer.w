@@ -1,1 +1,1 @@
-{"index": 160740, "D": "to speak or shout derisively; scoff or gibe rudely", "S": ["hoot ", "quip ", "ridicule ", "scoff ", "sneer ", "snipe ", "taunt "], "A": ["compliment ", "praise ", "commend ", "flatter "]}
+{"index": 160740, "D": "to speak or shout derisively; scoff or gibe rudely", "S": ["hoot", "quip", "ridicule", "scoff", "sneer", "snipe", "taunt"], "A": ["compliment", "praise", "commend", "flatter"]}

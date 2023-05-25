@@ -1,1 +1,1 @@
-{"index": 12673, "D": "of or belonging to angels", "S": ["angelic "], "A": []}
+{"index": 12673, "D": "of or belonging to angels", "S": ["angelic"], "A": []}

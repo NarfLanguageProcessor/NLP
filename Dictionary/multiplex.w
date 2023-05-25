@@ -1,1 +1,1 @@
-{"index": 195254, "D": "having many parts or aspects", "S": ["complicated ", "convoluted "], "A": ["simple ", "single ", "uniform ", "unmixed "]}
+{"index": 195254, "D": "having many parts or aspects", "S": ["complicated", "convoluted"], "A": ["simple", "single", "uniform", "unmixed"]}

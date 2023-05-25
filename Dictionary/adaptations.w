@@ -1,1 +1,1 @@
-{"index": 3462, "D": "the act of adapting.", "S": ["reworking ", "transformation ", "variation "], "A": []}
+{"index": 3462, "D": "the act of adapting.", "S": ["reworking", "transformation", "variation"], "A": []}

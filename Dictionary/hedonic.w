@@ -1,1 +1,1 @@
-{"index": 135237, "D": "of, characterizing, or pertaining to pleasure", "S": ["decadent ", "effete ", "epicurean ", "greedy ", "hedonistic ", "miserly ", "parsimonious ", "voluptuary ", "voluptuous "], "A": []}
+{"index": 135237, "D": "of, characterizing, or pertaining to pleasure", "S": ["decadent", "effete", "epicurean", "greedy", "hedonistic", "miserly", "parsimonious", "voluptuary", "voluptuous"], "A": []}

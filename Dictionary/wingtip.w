@@ -1,1 +1,1 @@
-{"index": 366165, "D": "the extreme outer edge of an airplane wing.", "S": ["boot ", "cleat ", "cowboy boot ", "loafer ", "pump ", "running shoe ", "slipper ", "sneaker ", "tennis shoe "], "A": []}
+{"index": 366165, "D": "the extreme outer edge of an airplane wing.", "S": ["boot", "cleat", "cowboy boot", "loafer", "pump", "running shoe", "slipper", "sneaker", "tennis shoe"], "A": []}

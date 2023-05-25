@@ -1,1 +1,1 @@
-{"index": 73059, "D": "to wrinkle; crimple; ripple.", "S": ["pucker ", "scrunch "], "A": ["flatten ", "smooth ", "straighten ", "untwist "]}
+{"index": 73059, "D": "to wrinkle; crimple; ripple.", "S": ["pucker", "scrunch"], "A": ["flatten", "smooth", "straighten", "untwist"]}

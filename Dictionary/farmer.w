@@ -1,1 +1,1 @@
-{"index": 109971, "D": "a person who farms; person who operates a farm or cultivates land.", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}
+{"index": 109971, "D": "a person who farms; person who operates a farm or cultivates land.", "S": ["grower", "laborer", "peasant", "producer", "rancher"], "A": []}

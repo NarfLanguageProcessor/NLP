@@ -1,1 +1,1 @@
-{"index": 1711, "D": "to confront boldly", "S": ["annoy ", "buttonhole ", "confront "], "A": ["aid ", "help ", "ignore ", "refrain ", "slight ", "turn away "]}
+{"index": 1711, "D": "to confront boldly", "S": ["annoy", "buttonhole", "confront"], "A": ["aid", "help", "ignore", "refrain", "slight", "turn away"]}

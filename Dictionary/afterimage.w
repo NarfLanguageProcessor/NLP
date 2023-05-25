@@ -1,1 +1,1 @@
-{"index": 5700, "D": "a visual image or other sense impression that persists after the stimulus that caused it is no longer operative.", "S": ["appearance ", "eye ", "perception ", "view ", "vision "], "A": ["blindness "]}
+{"index": 5700, "D": "a visual image or other sense impression that persists after the stimulus that caused it is no longer operative.", "S": ["appearance", "eye", "perception", "view", "vision"], "A": ["blindness"]}

@@ -1,1 +1,1 @@
-{"index": 73476, "D": "a person who judges, evaluates, or criticizes", "S": ["authority ", "cartoonist ", "commentator ", "expert ", "judge ", "pundit ", "reviewer "], "A": ["amateur "]}
+{"index": 73476, "D": "a person who judges, evaluates, or criticizes", "S": ["authority", "cartoonist", "commentator", "expert", "judge", "pundit", "reviewer"], "A": ["amateur"]}

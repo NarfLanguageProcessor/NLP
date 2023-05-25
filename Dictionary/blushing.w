@@ -1,1 +1,1 @@
-{"index": 36900, "D": "to redden, as from embarrassment or shame", "S": ["embarrassed ", "flushed ", "flushing ", "humiliated ", "reddening "], "A": ["arrogant ", "bold ", "immodest "]}
+{"index": 36900, "D": "to redden, as from embarrassment or shame", "S": ["embarrassed", "flushed", "flushing", "humiliated", "reddening"], "A": ["arrogant", "bold", "immodest"]}

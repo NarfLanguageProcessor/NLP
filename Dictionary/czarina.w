@@ -1,1 +1,1 @@
-{"index": 75910, "D": "the wife of a czar; Russian empress.", "S": ["monarch ", "ruler "], "A": ["king "]}
+{"index": 75910, "D": "the wife of a czar; Russian empress.", "S": ["monarch", "ruler"], "A": ["king"]}

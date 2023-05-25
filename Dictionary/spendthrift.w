@@ -1,1 +1,1 @@
-{"index": 299154, "D": "a person who spends  possessions or money extravagantly or wastefully; prodigal.", "S": ["prodigal ", "profligate ", "spender ", "sport ", "squanderer ", "waster ", "wastrel "], "A": ["miser ", "saver "]}
+{"index": 299154, "D": "a person who spends  possessions or money extravagantly or wastefully; prodigal.", "S": ["prodigal", "profligate", "spender", "sport", "squanderer", "waster", "wastrel"], "A": ["miser", "saver"]}

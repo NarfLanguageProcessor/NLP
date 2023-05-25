@@ -1,1 +1,1 @@
-{"index": 45929, "D": "a city in E Brazil, near Rio de Janeiro.", "S": ["pasture ", "plain ", "prairie ", "savanna ", "steppe "], "A": []}
+{"index": 45929, "D": "a city in E Brazil, near Rio de Janeiro.", "S": ["pasture", "plain", "prairie", "savanna", "steppe"], "A": []}

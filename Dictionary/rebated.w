@@ -1,1 +1,1 @@
-{"index": 262244, "D": "cut off or abridged in some way, as a cross potent formed as a swastika.", "S": ["abate ", "die out ", "ebb ", "evaporate ", "fade ", "recede ", "tail away ", "tail off ", "taper off ", "wane "], "A": ["increase ", "rise "]}
+{"index": 262244, "D": "cut off or abridged in some way, as a cross potent formed as a swastika.", "S": ["abate", "die out", "ebb", "evaporate", "fade", "recede", "tail away", "tail off", "taper off", "wane"], "A": ["increase", "rise"]}

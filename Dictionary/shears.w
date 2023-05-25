@@ -1,1 +1,1 @@
-{"index": 287705, "D": "a large scissor-like and usually hand-held cutting tool with flat blades, as for cutting hedges", "S": ["clippers ", "nippers ", "scissors ", "snips "], "A": []}
+{"index": 287705, "D": "a large scissor-like and usually hand-held cutting tool with flat blades, as for cutting hedges", "S": ["clippers", "nippers", "scissors", "snips"], "A": []}

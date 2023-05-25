@@ -1,1 +1,1 @@
-{"index": 343394, "D": "having hoofs.", "S": ["buffalo ", "camel ", "cattle ", "cow ", "deer ", "elephant ", "giraffe ", "hippopotamus ", "hog ", "horse ", "llama ", "pig ", "rhinoceros ", "swine ", "tapir "], "A": []}
+{"index": 343394, "D": "having hoofs.", "S": ["buffalo", "camel", "cattle", "cow", "deer", "elephant", "giraffe", "hippopotamus", "hog", "horse", "llama", "pig", "rhinoceros", "swine", "tapir"], "A": []}

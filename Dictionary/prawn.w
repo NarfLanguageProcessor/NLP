@@ -1,1 +1,1 @@
-{"index": 245387, "D": "any of various shrimplike decapod crustaceans of the genera Palaemon, Penaeus, etc., certain of which are used as food.", "S": ["clam ", "conch ", "crawfish ", "crustacean ", "lobster ", "mollusk ", "mussel ", "oyster ", "scallop ", "shrimp ", "snail "], "A": []}
+{"index": 245387, "D": "any of various shrimplike decapod crustaceans of the genera Palaemon, Penaeus, etc., certain of which are used as food.", "S": ["clam", "conch", "crawfish", "crustacean", "lobster", "mollusk", "mussel", "oyster", "scallop", "shrimp", "snail"], "A": []}

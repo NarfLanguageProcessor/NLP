@@ -1,1 +1,1 @@
-{"index": 75680, "D": "to use profanity; curse; swear. ", "S": ["blasphemy ", "curse ", "expletive ", "obscenity "], "A": []}
+{"index": 75680, "D": "to use profanity; curse; swear. ", "S": ["blasphemy", "curse", "expletive", "obscenity"], "A": []}

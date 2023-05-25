@@ -1,1 +1,1 @@
-{"index": 47398, "D": "(in the Middle East and North Africa) an inn, usually with a large courtyard, for the overnight accommodation of caravans.", "S": ["hostelry ", "hotel ", "inn ", "khan ", "lodge "], "A": []}
+{"index": 47398, "D": "(in the Middle East and North Africa) an inn, usually with a large courtyard, for the overnight accommodation of caravans.", "S": ["hostelry", "hotel", "inn", "khan", "lodge"], "A": []}

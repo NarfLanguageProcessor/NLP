@@ -1,1 +1,1 @@
-{"index": 50135, "D": "a procession of persons riding on horses, in horsedrawn carriages, in cars, etc.", "S": ["array ", "drill ", "procession ", "promenade ", "review ", "spectacle ", "train "], "A": []}
+{"index": 50135, "D": "a procession of persons riding on horses, in horsedrawn carriages, in cars, etc.", "S": ["array", "drill", "procession", "promenade", "review", "spectacle", "train"], "A": []}

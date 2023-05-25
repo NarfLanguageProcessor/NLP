@@ -1,1 +1,1 @@
-{"index": 29142, "D": "the extreme forward area of a battlefield, where troops are in direct contact with the enemy.", "S": ["battle zone ", "combat area ", "communications zone ", "firing line ", "theater ", "theater of operations ", "war zone "], "A": []}
+{"index": 29142, "D": "the extreme forward area of a battlefield, where troops are in direct contact with the enemy.", "S": ["battle zone", "combat area", "communications zone", "firing line", "theater", "theater of operations", "war zone"], "A": []}

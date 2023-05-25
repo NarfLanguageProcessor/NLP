@@ -1,1 +1,1 @@
-{"index": 208769, "D": "experiencing or exhibiting nostalgia,  a sentimental or wistful yearning for the happiness felt in a former place, time, or situation.", "S": ["regretful ", "sentimental ", "wistful "], "A": []}
+{"index": 208769, "D": "experiencing or exhibiting nostalgia,  a sentimental or wistful yearning for the happiness felt in a former place, time, or situation.", "S": ["regretful", "sentimental", "wistful"], "A": []}

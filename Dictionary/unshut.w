@@ -1,1 +1,1 @@
-{"index": 351086, "D": "to put (a door, cover, etc.) in position to close or obstruct.", "S": ["accessible ", "clear ", "free ", "susceptible ", "wide "], "A": ["hindered ", "limited ", "restricted ", "concealed "]}
+{"index": 351086, "D": "to put (a door, cover, etc.) in position to close or obstruct.", "S": ["accessible", "clear", "free", "susceptible", "wide"], "A": ["hindered", "limited", "restricted", "concealed"]}

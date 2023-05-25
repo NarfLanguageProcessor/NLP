@@ -1,1 +1,1 @@
-{"index": 279785, "D": "a bright-red color inclining toward orange.", "S": ["broad ", "floozy ", "harlot ", "hooker ", "hussy ", "jade ", "scarlet ", "slut ", "strumpet ", "tart ", "trollop ", "vamp ", "whore "], "A": []}
+{"index": 279785, "D": "a bright-red color inclining toward orange.", "S": ["broad", "floozy", "harlot", "hooker", "hussy", "jade", "scarlet", "slut", "strumpet", "tart", "trollop", "vamp", "whore"], "A": []}

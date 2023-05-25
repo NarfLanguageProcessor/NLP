@@ -1,1 +1,1 @@
-{"index": 299820, "D": "a passageway through which surplus water escapes from a reservoir, lake, or the like.", "S": ["channel ", "conduit ", "run ", "sluice "], "A": []}
+{"index": 299820, "D": "a passageway through which surplus water escapes from a reservoir, lake, or the like.", "S": ["channel", "conduit", "run", "sluice"], "A": []}

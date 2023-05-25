@@ -1,1 +1,1 @@
-{"index": 72333, "D": "the crop of a bird or insect.", "S": ["abdomen ", "crop ", "intestines ", "stomach "], "A": []}
+{"index": 72333, "D": "the crop of a bird or insect.", "S": ["abdomen", "crop", "intestines", "stomach"], "A": []}

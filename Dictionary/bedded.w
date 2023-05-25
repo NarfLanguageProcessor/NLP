@@ -1,0 +1,1 @@
+{"index": 30006, "D": "of or relating to rocks that exhibit bedding. ", "S": ["base", "embed", "establish", "fix", "found", "implant", "insert", "settle"], "A": ["confuse", "destroy", "unsettle"]}

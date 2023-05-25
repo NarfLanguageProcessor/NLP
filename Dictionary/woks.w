@@ -1,1 +1,1 @@
-{"index": 366882, "D": "a large bowl-shaped pan used in cooking Chinese food.", "S": ["fry pan ", "gridiron ", "spider "], "A": []}
+{"index": 366882, "D": "a large bowl-shaped pan used in cooking Chinese food.", "S": ["fry pan", "gridiron", "spider"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 5623, "D": "the placenta and fetal membranes expelled from the uterus after  childbirth.", "S": ["amnion ", "arachnoid membrane ", "placenta ", "water bag "], "A": []}
+{"index": 5623, "D": "the placenta and fetal membranes expelled from the uterus after  childbirth.", "S": ["amnion", "arachnoid membrane", "placenta", "water bag"], "A": []}

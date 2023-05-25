@@ -1,1 +1,0 @@
-{"index": 361835, "D": "a blanket or bed covering made out of sacks stitched together", "S": [], "A": []}

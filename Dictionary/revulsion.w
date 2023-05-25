@@ -1,1 +1,1 @@
-{"index": 271544, "D": "a strong feeling of repugnance, distaste, or dislike", "S": ["disgust ", "dislike ", "distaste ", "hatred ", "horror ", "loathing ", "repulsion "], "A": ["liking ", "fondness ", "partiality ", "predilection ", "preference ", "taste "]}
+{"index": 271544, "D": "a strong feeling of repugnance, distaste, or dislike", "S": ["disgust", "dislike", "distaste", "hatred", "horror", "loathing", "repulsion"], "A": ["liking", "fondness", "partiality", "predilection", "preference", "taste"]}

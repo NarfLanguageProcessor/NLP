@@ -1,1 +1,1 @@
-{"index": 78628, "D": "the act or process of decomposing. ", "S": ["decay ", "disintegration "], "A": ["connection ", "unification "]}
+{"index": 78628, "D": "the act or process of decomposing. ", "S": ["decay", "disintegration"], "A": ["connection", "unification"]}

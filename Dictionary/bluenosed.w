@@ -1,1 +1,1 @@
-{"index": 36763, "D": [], "S": ["Victorian ", "priggish ", "prim ", "prim and proper ", "prissy ", "proper ", "prudish ", "puritanical ", "strait-laced "], "A": []}
+{"index": 36763, "D": [], "S": ["Victorian", "priggish", "prim", "prim and proper", "prissy", "proper", "prudish", "puritanical", "strait-laced"], "A": []}

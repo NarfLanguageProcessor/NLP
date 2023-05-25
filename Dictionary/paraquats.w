@@ -1,1 +1,1 @@
-{"index": 226028, "D": "a toxic herbicide, C12H14N2\u22c52CH3SO4, applied to food and flower crops and to highway borders as a defoliant and weed-killer.", "S": ["defoliant ", "fungicide ", "insecticide ", "pesticide "], "A": []}
+{"index": 226028, "D": "a toxic herbicide, C12H14N2\u22c52CH3SO4, applied to food and flower crops and to highway borders as a defoliant and weed-killer.", "S": ["defoliant", "fungicide", "insecticide", "pesticide"], "A": []}

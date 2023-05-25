@@ -1,0 +1,1 @@
+{"index": 12079, "D": "of or relating to anatomy. ", "S": ["skeletal"], "A": ["beefy", "fat", "heavy", "overweight", "plump"]}

@@ -1,1 +1,1 @@
-{"index": 174614, "D": "a person who is skilled in logic. ", "S": ["philosopher ", "sophist ", "syllogist "], "A": []}
+{"index": 174614, "D": "a person who is skilled in logic. ", "S": ["philosopher", "sophist", "syllogist"], "A": []}

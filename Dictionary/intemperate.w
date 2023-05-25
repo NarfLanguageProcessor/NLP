@@ -1,1 +1,1 @@
-{"index": 154318, "D": "given to or characterized by excessive or immoderate indulgence in alcoholic beverages.", "S": ["alcoholic ", "dissipated ", "drunk ", "inebriated "], "A": []}
+{"index": 154318, "D": "given to or characterized by excessive or immoderate indulgence in alcoholic beverages.", "S": ["alcoholic", "dissipated", "drunk", "inebriated"], "A": []}

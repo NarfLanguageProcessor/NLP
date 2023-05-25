@@ -1,1 +1,1 @@
-{"index": 334707, "D": "free from affectation; sincere; genuine", "S": ["guileless ", "sincere ", "straightforward "], "A": ["deceitful ", "dishonest ", "tricky "]}
+{"index": 334707, "D": "free from affectation; sincere; genuine", "S": ["guileless", "sincere", "straightforward"], "A": ["deceitful", "dishonest", "tricky"]}

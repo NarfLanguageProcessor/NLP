@@ -1,1 +1,1 @@
-{"index": 97424, "D": "a logical refutation; an argument that refutes another argument by proving the contrary of its conclusion.", "S": ["rebuttal "], "A": ["confirmation "]}
+{"index": 97424, "D": "a logical refutation; an argument that refutes another argument by proving the contrary of its conclusion.", "S": ["rebuttal"], "A": ["confirmation"]}

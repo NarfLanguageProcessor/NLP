@@ -1,1 +1,1 @@
-{"index": 87438, "D": "confused, disconcerted, or upset", "S": ["addled ", "shaken ", "thrown ", "undone "], "A": []}
+{"index": 87438, "D": "confused, disconcerted, or upset", "S": ["addled", "shaken", "thrown", "undone"], "A": []}

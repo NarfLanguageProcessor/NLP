@@ -1,1 +1,1 @@
-{"index": 169983, "D": "being, relating to, or located on or nearest to the side where a person\u2019s heart normally is (opposed to right)", "S": ["larboard ", "port ", "south "], "A": ["right "]}
+{"index": 169983, "D": "being, relating to, or located on or nearest to the side where a person\u2019s heart normally is (opposed to right)", "S": ["larboard", "port", "south"], "A": ["right"]}

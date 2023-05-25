@@ -1,1 +1,1 @@
-{"index": 271969, "D": "identity in sound of some part, especially the end, of words or lines of verse.", "S": ["aligning ", "averaging ", "calculating ", "calibrating ", "checking ", "gauging ", "grading ", "leveling ", "mapping ", "scaling ", "surveying "], "A": []}
+{"index": 271969, "D": "identity in sound of some part, especially the end, of words or lines of verse.", "S": ["aligning", "averaging", "calculating", "calibrating", "checking", "gauging", "grading", "leveling", "mapping", "scaling", "surveying"], "A": []}

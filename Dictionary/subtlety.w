@@ -1,1 +1,1 @@
-{"index": 309540, "D": "the state or quality of being subtle. ", "S": ["nuance "], "A": []}
+{"index": 309540, "D": "the state or quality of being subtle. ", "S": ["nuance"], "A": []}

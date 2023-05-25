@@ -1,1 +1,1 @@
-{"index": 133864, "D": "the act of harmonizing", "S": ["accession ", "adjustment ", "compatibility ", "compliance "], "A": ["disagreement ", "antagonism ", "discord ", "dislike ", "dissension ", "hatred ", "hostility "]}
+{"index": 133864, "D": "the act of harmonizing", "S": ["accession", "adjustment", "compatibility", "compliance"], "A": ["disagreement", "antagonism", "discord", "dislike", "dissension", "hatred", "hostility"]}

@@ -1,1 +1,1 @@
-{"index": 210082, "D": "a notice of the death of a person, often with a biographical sketch, as in a newspaper.", "S": ["eulogy ", "obit "], "A": []}
+{"index": 210082, "D": "a notice of the death of a person, often with a biographical sketch, as in a newspaper.", "S": ["eulogy", "obit"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 270558, "D": "a person who has retired  from an occupation or profession.", "S": ["pensioner ", "senior "], "A": []}
+{"index": 270558, "D": "a person who has retired  from an occupation or profession.", "S": ["pensioner", "senior"], "A": []}

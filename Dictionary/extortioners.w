@@ -1,1 +1,1 @@
-{"index": 108411, "D": "a person who engages in extortion. ", "S": ["freeloader ", "leech ", "parasite ", "sponge ", "tick ", "vampire "], "A": []}
+{"index": 108411, "D": "a person who engages in extortion. ", "S": ["freeloader", "leech", "parasite", "sponge", "tick", "vampire"], "A": []}

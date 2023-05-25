@@ -1,1 +1,1 @@
-{"index": 130363, "D": "any collection or assemblage of persons or things; cluster; aggregation", "S": ["association ", "band ", "body ", "class ", "club ", "company ", "crowd ", "faction ", "gang ", "organization ", "party ", "society ", "troop "], "A": ["individual ", "one ", "whole "]}
+{"index": 130363, "D": "any collection or assemblage of persons or things; cluster; aggregation", "S": ["association", "band", "body", "class", "club", "company", "crowd", "faction", "gang", "organization", "party", "society", "troop"], "A": ["individual", "one", "whole"]}

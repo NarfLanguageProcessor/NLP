@@ -1,1 +1,1 @@
-{"index": 135256, "D": "to give careful attention to", "S": ["audience "], "A": ["talker "]}
+{"index": 135256, "D": "to give careful attention to", "S": ["audience"], "A": ["talker"]}

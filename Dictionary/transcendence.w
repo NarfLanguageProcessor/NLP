@@ -1,1 +1,1 @@
-{"index": 327708, "D": "the quality or state of being transcendent. ", "S": ["greatness ", "merit ", "perfection ", "purity ", "quality ", "supremacy ", "virtue "], "A": ["unimportance "]}
+{"index": 327708, "D": "the quality or state of being transcendent. ", "S": ["greatness", "merit", "perfection", "purity", "quality", "supremacy", "virtue"], "A": ["unimportance"]}

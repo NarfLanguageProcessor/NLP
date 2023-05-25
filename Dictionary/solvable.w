@@ -1,1 +1,1 @@
-{"index": 296916, "D": "capable of being solved,  as a problem.", "S": ["dissoluble ", "dissolvable ", "solvent "], "A": []}
+{"index": 296916, "D": "capable of being solved,  as a problem.", "S": ["dissoluble", "dissolvable", "solvent"], "A": []}

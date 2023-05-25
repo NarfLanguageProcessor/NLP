@@ -1,1 +1,1 @@
-{"index": 254220, "D": "in a wise, judicious, discreet, or careful manner", "S": ["deliberately ", "intentionally "], "A": ["unintentionally "]}
+{"index": 254220, "D": "in a wise, judicious, discreet, or careful manner", "S": ["deliberately", "intentionally"], "A": ["unintentionally"]}

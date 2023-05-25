@@ -1,1 +1,1 @@
-{"index": 129432, "D": "a person or thing that greases. ", "S": ["lard ", "lubricant ", "oil ", "vegetable oil "], "A": []}
+{"index": 129432, "D": "a person or thing that greases. ", "S": ["lard", "lubricant", "oil", "vegetable oil"], "A": []}

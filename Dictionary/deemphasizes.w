@@ -1,1 +1,1 @@
-{"index": 78977, "D": [], "S": ["minimize ", "understate "], "A": ["overestimate "]}
+{"index": 78977, "D": [], "S": ["minimize", "understate"], "A": ["overestimate"]}

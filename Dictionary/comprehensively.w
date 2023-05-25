@@ -1,1 +1,1 @@
-{"index": 64851, "D": "of large scope; covering or involving much; inclusive", "S": ["assiduously ", "completely ", "from A to Z ", "from top to bottom ", "fully ", "in and out ", "inside out ", "thoroughly ", "through and through ", "up and down ", "whole hog "], "A": []}
+{"index": 64851, "D": "of large scope; covering or involving much; inclusive", "S": ["assiduously", "completely", "from A to Z", "from top to bottom", "fully", "in and out", "inside out", "thoroughly", "through and through", "up and down", "whole hog"], "A": []}

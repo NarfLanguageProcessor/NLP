@@ -1,1 +1,1 @@
-{"index": 289491, "D": "pertaining to or characteristic of a sybarite; characterized by or loving luxury or sensuous pleasure", "S": ["epicurean ", "hedonic ", "hedonistic ", "pleasure-seeking ", "voluptuary ", "voluptuous "], "A": []}
+{"index": 289491, "D": "pertaining to or characteristic of a sybarite; characterized by or loving luxury or sensuous pleasure", "S": ["epicurean", "hedonic", "hedonistic", "pleasure-seeking", "voluptuary", "voluptuous"], "A": []}

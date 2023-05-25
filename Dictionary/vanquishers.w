@@ -1,1 +1,1 @@
-{"index": 357025, "D": "to conquer or subdue by superior force, as in battle.", "S": ["challenger ", "champ ", "defender ", "hero ", "medalist ", "number one ", "winner "], "A": ["antagonist ", "enemy ", "loser ", "opponent ", "opposition "]}
+{"index": 357025, "D": "to conquer or subdue by superior force, as in battle.", "S": ["challenger", "champ", "defender", "hero", "medalist", "number one", "winner"], "A": ["antagonist", "enemy", "loser", "opponent", "opposition"]}

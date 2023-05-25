@@ -1,1 +1,1 @@
-{"index": 10820, "D": "a general pardon for offenses, especially political offenses, against a government, often granted before any trial or conviction.", "S": ["forgiveness ", "immunity ", "reprieve "], "A": []}
+{"index": 10820, "D": "a general pardon for offenses, especially political offenses, against a government, often granted before any trial or conviction.", "S": ["forgiveness", "immunity", "reprieve"], "A": []}

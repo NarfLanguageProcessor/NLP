@@ -1,1 +1,1 @@
-{"index": 366732, "D": "a witty  remark or sentence.", "S": ["gibe ", "wisecrack "], "A": []}
+{"index": 366732, "D": "a witty  remark or sentence.", "S": ["gibe", "wisecrack"], "A": []}

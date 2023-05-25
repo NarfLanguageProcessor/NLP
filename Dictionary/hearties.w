@@ -1,1 +1,1 @@
-{"index": 134869, "D": "warm-hearted; affectionate; cordial; jovial", "S": ["boater ", "cadet ", "diver ", "marine ", "pilot "], "A": []}
+{"index": 134869, "D": "warm-hearted; affectionate; cordial; jovial", "S": ["boater", "cadet", "diver", "marine", "pilot"], "A": []}

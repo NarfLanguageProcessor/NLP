@@ -1,1 +1,1 @@
-{"index": 184584, "D": "the part of a hand or forelimb, especially of its bony structure, included between the wrist, or carpus, and the fingers, or phalanges.", "S": ["appendage ", "fist ", "grip ", "palm "], "A": ["foot "]}
+{"index": 184584, "D": "the part of a hand or forelimb, especially of its bony structure, included between the wrist, or carpus, and the fingers, or phalanges.", "S": ["appendage", "fist", "grip", "palm"], "A": ["foot"]}

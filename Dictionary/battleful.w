@@ -1,1 +1,1 @@
-{"index": 29143, "D": [], "S": ["antagonistic ", "combative ", "threatening "], "A": ["agreeable "]}
+{"index": 29143, "D": [], "S": ["antagonistic", "combative", "threatening"], "A": ["agreeable"]}

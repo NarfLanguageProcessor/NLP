@@ -1,1 +1,1 @@
-{"index": 87779, "D": "an instance of discursive writing, speech, etc.; a wandering or logically unconnected statement.", "S": ["departure ", "digression ", "interpolation ", "interposition ", "parenthesis ", "tangent ", "throwaway "], "A": []}
+{"index": 87779, "D": "an instance of discursive writing, speech, etc.; a wandering or logically unconnected statement.", "S": ["departure", "digression", "interpolation", "interposition", "parenthesis", "tangent", "throwaway"], "A": []}

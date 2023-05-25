@@ -1,1 +1,1 @@
-{"index": 196995, "D": "narcotics officer. ", "S": ["deceiver ", "double-crosser ", "fink ", "nark ", "rat ", "snitch ", "spy ", "traitor ", "turncoat ", "weasel "], "A": []}
+{"index": 196995, "D": "narcotics officer. ", "S": ["deceiver", "double-crosser", "fink", "nark", "rat", "snitch", "spy", "traitor", "turncoat", "weasel"], "A": []}

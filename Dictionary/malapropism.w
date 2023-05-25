@@ -1,1 +1,1 @@
-{"index": 178271, "D": "an act or habit of misusing words ridiculously, especially by the confusion of words that are similar in sound.", "S": ["atrocity ", "barbarity ", "brutality ", "cruelty ", "inhumanity "], "A": ["kindness ", "niceness "]}
+{"index": 178271, "D": "an act or habit of misusing words ridiculously, especially by the confusion of words that are similar in sound.", "S": ["atrocity", "barbarity", "brutality", "cruelty", "inhumanity"], "A": ["kindness", "niceness"]}

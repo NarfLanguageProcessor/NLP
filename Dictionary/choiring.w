@@ -1,1 +1,1 @@
-{"index": 55326, "D": "a company of singers, especially an organized group employed in church service.", "S": ["belt out ", "chant ", "croon ", "hum ", "intone ", "serenade ", "shout ", "wait ", "warble ", "whistle "], "A": ["be quiet "]}
+{"index": 55326, "D": "a company of singers, especially an organized group employed in church service.", "S": ["belt out", "chant", "croon", "hum", "intone", "serenade", "shout", "wait", "warble", "whistle"], "A": ["be quiet"]}

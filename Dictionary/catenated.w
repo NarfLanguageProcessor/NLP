@@ -1,1 +1,1 @@
-{"index": 49565, "D": "to link together; form into a connected series", "S": ["accompany ", "attend ", "seek ", "track "], "A": ["neglect ", "ignore ", "leave alone ", "let go ", "run away "]}
+{"index": 49565, "D": "to link together; form into a connected series", "S": ["accompany", "attend", "seek", "track"], "A": ["neglect", "ignore", "leave alone", "let go", "run away"]}

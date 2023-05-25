@@ -1,1 +1,1 @@
-{"index": 121592, "D": "a person's leg, especially an attractive female leg.", "S": ["chitchat ", "parley "], "A": ["quiet ", "silence "]}
+{"index": 121592, "D": "a person's leg, especially an attractive female leg.", "S": ["chitchat", "parley"], "A": ["quiet", "silence"]}

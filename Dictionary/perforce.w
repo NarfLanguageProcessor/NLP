@@ -1,1 +1,1 @@
-{"index": 230666, "D": "of necessity; necessarily; by force of circumstance", "S": ["abandonedly ", "defenselessly ", "dependently ", "feebly ", "involuntarily ", "powerlessly ", "weakly ", "willy-nilly "], "A": []}
+{"index": 230666, "D": "of necessity; necessarily; by force of circumstance", "S": ["abandonedly", "defenselessly", "dependently", "feebly", "involuntarily", "powerlessly", "weakly", "willy-nilly"], "A": []}

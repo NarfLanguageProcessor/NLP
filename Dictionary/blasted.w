@@ -1,1 +1,1 @@
-{"index": 35780, "D": "withered; shriveled; blighted;  ruined.", "S": ["accursed ", "blamed ", "blessed ", "bloody ", "confounded ", "cursed ", "damn ", "darn "], "A": []}
+{"index": 35780, "D": "withered; shriveled; blighted;  ruined.", "S": ["accursed", "blamed", "blessed", "bloody", "confounded", "cursed", "damn", "darn"], "A": []}

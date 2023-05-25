@@ -1,1 +1,1 @@
-{"index": 217179, "D": "the act of turning out; production", "S": ["amount ", "crop ", "gain ", "harvest ", "manufacturing ", "product ", "production ", "productivity ", "profit ", "yield "], "A": ["loss "]}
+{"index": 217179, "D": "the act of turning out; production", "S": ["amount", "crop", "gain", "harvest", "manufacturing", "product", "production", "productivity", "profit", "yield"], "A": ["loss"]}

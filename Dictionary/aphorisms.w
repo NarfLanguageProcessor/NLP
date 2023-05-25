@@ -1,1 +1,1 @@
-{"index": 16887, "D": "a terse saying embodying a general truth, or astute observation, as \u201cPower tends to corrupt, and absolute power corrupts absolutely\u201d (Lord Acton).", "S": ["adage ", "axiom ", "dictum ", "maxim ", "proverb "], "A": []}
+{"index": 16887, "D": "a terse saying embodying a general truth, or astute observation, as \u201cPower tends to corrupt, and absolute power corrupts absolutely\u201d (Lord Acton).", "S": ["adage", "axiom", "dictum", "maxim", "proverb"], "A": []}

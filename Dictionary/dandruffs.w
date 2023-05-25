@@ -1,1 +1,1 @@
-{"index": 76737, "D": "a seborrheic scurf that forms on the scalp and comes off in small scales.", "S": ["flakes ", "seborrhea "], "A": []}
+{"index": 76737, "D": "a seborrheic scurf that forms on the scalp and comes off in small scales.", "S": ["flakes", "seborrhea"], "A": []}

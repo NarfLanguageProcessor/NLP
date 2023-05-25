@@ -1,1 +1,1 @@
-{"index": 250872, "D": "in a privy  manner; secretly. ", "S": ["clandestinely ", "covertly ", "furtively ", "personally ", "privately ", "quietly ", "stealthily ", "surreptitiously "], "A": ["publicly "]}
+{"index": 250872, "D": "in a privy  manner; secretly. ", "S": ["clandestinely", "covertly", "furtively", "personally", "privately", "quietly", "stealthily", "surreptitiously"], "A": ["publicly"]}

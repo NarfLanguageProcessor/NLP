@@ -1,1 +1,1 @@
-{"index": 6467, "D": "of or relating to plants growing wild in fields and uncultivated areas.", "S": ["pure ", "raw "], "A": ["formal ", "gentle "]}
+{"index": 6467, "D": "of or relating to plants growing wild in fields and uncultivated areas.", "S": ["pure", "raw"], "A": ["formal", "gentle"]}

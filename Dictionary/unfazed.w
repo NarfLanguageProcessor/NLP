@@ -1,1 +1,1 @@
-{"index": 342075, "D": "not dismayed or disconcerted; undaunted", "S": ["undaunted ", "unperturbed "], "A": ["anxious ", "perturbed ", "upset ", "worried ", "disoriented ", "frazzled "]}
+{"index": 342075, "D": "not dismayed or disconcerted; undaunted", "S": ["undaunted", "unperturbed"], "A": ["anxious", "perturbed", "upset", "worried", "disoriented", "frazzled"]}

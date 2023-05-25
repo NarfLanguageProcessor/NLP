@@ -1,1 +1,1 @@
-{"index": 0, "D": "not any particular or certain one of a class or group", "S": ["an "], "A": ["every ", "the "]}
+{"index": 0, "D": "not any particular or certain one of a class or group", "S": ["an"], "A": ["every", "the"]}

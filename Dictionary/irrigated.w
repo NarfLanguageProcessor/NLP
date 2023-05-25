@@ -1,1 +1,1 @@
-{"index": 158452, "D": "to supply (land) with water by artificial means, as by diverting streams, flooding, or spraying.", "S": ["addled ", "dazed ", "intoxicated ", "unsteady ", "woozy "], "A": ["clearheaded ", "sober "]}
+{"index": 158452, "D": "to supply (land) with water by artificial means, as by diverting streams, flooding, or spraying.", "S": ["addled", "dazed", "intoxicated", "unsteady", "woozy"], "A": ["clearheaded", "sober"]}

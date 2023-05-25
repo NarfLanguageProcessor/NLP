@@ -1,1 +1,1 @@
-{"index": 77272, "D": "to overcome with fear; intimidate", "S": ["anxious ", "apprehensive ", "frightened ", "nervous ", "scared ", "shocked ", "suspicious ", "timid "], "A": ["brave ", "calm ", "happy ", "unafraid ", "unworried "]}
+{"index": 77272, "D": "to overcome with fear; intimidate", "S": ["anxious", "apprehensive", "frightened", "nervous", "scared", "shocked", "suspicious", "timid"], "A": ["brave", "calm", "happy", "unafraid", "unworried"]}

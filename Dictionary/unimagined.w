@@ -1,1 +1,1 @@
-{"index": 344238, "D": "a hitherto unimagined scale", "S": ["inconceivable ", "surprising ", "unanticipated ", "undreamt-of ", "unexpected ", "unforeseen "], "A": []}
+{"index": 344238, "D": "a hitherto unimagined scale", "S": ["inconceivable", "surprising", "unanticipated", "undreamt-of", "unexpected", "unforeseen"], "A": []}

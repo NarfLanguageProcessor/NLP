@@ -1,1 +1,1 @@
-{"index": 133847, "D": "marked by agreement in feeling, attitude, or action", "S": ["adroitly ", "beautifully ", "delicately ", "easily ", "elegantly ", "graciously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "gracelessly ", "grotesquely "]}
+{"index": 133847, "D": "marked by agreement in feeling, attitude, or action", "S": ["adroitly", "beautifully", "delicately", "easily", "elegantly", "graciously", "neatly", "nimbly", "skillfully", "smoothly"], "A": ["awkwardly", "gracelessly", "grotesquely"]}

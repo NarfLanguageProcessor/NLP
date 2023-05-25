@@ -1,1 +1,1 @@
-{"index": 193214, "D": "a motorized bicycle that has pedals in addition to a low-powered gasoline engine designed for low-speed operation.", "S": ["chopper ", "hog ", "minibike ", "moped ", "scooter "], "A": []}
+{"index": 193214, "D": "a motorized bicycle that has pedals in addition to a low-powered gasoline engine designed for low-speed operation.", "S": ["chopper", "hog", "minibike", "moped", "scooter"], "A": []}

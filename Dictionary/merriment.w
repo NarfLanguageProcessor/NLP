@@ -1,1 +1,1 @@
-{"index": 183967, "D": "cheerful or joyful gaiety; mirth; hilarity; laughter.", "S": ["hilarity ", "revelry "], "A": ["depression ", "gloom ", "misery ", "sadness ", "seriousness ", "sorrow ", "unhappiness ", "woe ", "work "]}
+{"index": 183967, "D": "cheerful or joyful gaiety; mirth; hilarity; laughter.", "S": ["hilarity", "revelry"], "A": ["depression", "gloom", "misery", "sadness", "seriousness", "sorrow", "unhappiness", "woe", "work"]}

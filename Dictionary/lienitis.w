@@ -1,1 +1,0 @@
-{"index": 171843, "D": "inflammation of the spleen; splenitis.", "S": [], "A": []}

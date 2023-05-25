@@ -1,1 +1,1 @@
-{"index": 240131, "D": "to shoot, as with a rifle, at targets selected at whim", "S": ["chime ", "chink ", "clink ", "ding ", "jangle ", "sound ", "ting ", "tingle ", "tintinnabulate "], "A": []}
+{"index": 240131, "D": "to shoot, as with a rifle, at targets selected at whim", "S": ["chime", "chink", "clink", "ding", "jangle", "sound", "ting", "tingle", "tintinnabulate"], "A": []}

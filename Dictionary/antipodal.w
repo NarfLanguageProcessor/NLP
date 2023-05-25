@@ -1,1 +1,1 @@
-{"index": 15902, "D": "on the opposite side of the globe; pertaining to the antipodes. ", "S": ["contrary ", "counter ", "opposite "], "A": ["agreeing ", "like ", "similar "]}
+{"index": 15902, "D": "on the opposite side of the globe; pertaining to the antipodes. ", "S": ["contrary", "counter", "opposite"], "A": ["agreeing", "like", "similar"]}

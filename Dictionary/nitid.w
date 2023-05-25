@@ -1,1 +1,1 @@
-{"index": 200324, "D": "bright; lustrous.", "S": ["bright ", "glossy ", "glowing ", "lustrous ", "radiant ", "resplendent ", "shiny ", "spruce "], "A": []}
+{"index": 200324, "D": "bright; lustrous.", "S": ["bright", "glossy", "glowing", "lustrous", "radiant", "resplendent", "shiny", "spruce"], "A": []}

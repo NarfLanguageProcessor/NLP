@@ -1,1 +1,1 @@
-{"index": 360984, "D": "having no voice; mute.", "S": ["dumb ", "inarticulate ", "mute ", "speechless ", "wordless "], "A": []}
+{"index": 360984, "D": "having no voice; mute.", "S": ["dumb", "inarticulate", "mute", "speechless", "wordless"], "A": []}

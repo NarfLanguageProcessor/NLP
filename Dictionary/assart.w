@@ -1,1 +1,1 @@
-{"index": 21599, "D": [], "S": ["allowance ", "expanse ", "gap ", "headroom ", "margin ", "opening "], "A": ["closure "]}
+{"index": 21599, "D": [], "S": ["allowance", "expanse", "gap", "headroom", "margin", "opening"], "A": ["closure"]}

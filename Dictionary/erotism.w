@@ -1,1 +1,1 @@
-{"index": 103938, "D": [], "S": ["amativeness ", "amorousness ", "arousal ", "concupiscence ", "eroticism ", "lust ", "lustfulness ", "passion ", "prurience ", "pruriency ", "titillation "], "A": []}
+{"index": 103938, "D": [], "S": ["amativeness", "amorousness", "arousal", "concupiscence", "eroticism", "lust", "lustfulness", "passion", "prurience", "pruriency", "titillation"], "A": []}

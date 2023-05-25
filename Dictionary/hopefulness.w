@@ -1,1 +1,1 @@
-{"index": 143678, "D": "full of hope;  expressing hope", "S": ["delight ", "encouragement ", "glee ", "joy ", "optimism "], "A": ["discouragement ", "sadness ", "sorrow ", "unhappiness ", "depression ", "distress ", "gloom ", "irritation "]}
+{"index": 143678, "D": "full of hope;  expressing hope", "S": ["delight", "encouragement", "glee", "joy", "optimism"], "A": ["discouragement", "sadness", "sorrow", "unhappiness", "depression", "distress", "gloom", "irritation"]}

@@ -1,1 +1,1 @@
-{"index": 260946, "D": "capable of being rated  or appraised.", "S": ["payable "], "A": ["deductible ", "exempt ", "free "]}
+{"index": 260946, "D": "capable of being rated  or appraised.", "S": ["payable"], "A": ["deductible", "exempt", "free"]}

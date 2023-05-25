@@ -1,1 +1,1 @@
-{"index": 64288, "D": "to impose Communist  principles or systems of government on (a country or people).", "S": ["adjust ", "even up "], "A": ["aid ", "assist ", "differ ", "disagree ", "help ", "imbalance ", "roughen ", "vary "]}
+{"index": 64288, "D": "to impose Communist  principles or systems of government on (a country or people).", "S": ["adjust", "even up"], "A": ["aid", "assist", "differ", "disagree", "help", "imbalance", "roughen", "vary"]}

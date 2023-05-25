@@ -1,1 +1,1 @@
-{"index": 154835, "D": "any prohibitory act or decree of a court or an administrative officer.", "S": ["bootleg ", "illicit ", "prohibited ", "smuggled ", "unauthorized "], "A": ["legal ", "permitted "]}
+{"index": 154835, "D": "any prohibitory act or decree of a court or an administrative officer.", "S": ["bootleg", "illicit", "prohibited", "smuggled", "unauthorized"], "A": ["legal", "permitted"]}

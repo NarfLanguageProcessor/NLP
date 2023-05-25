@@ -1,0 +1,1 @@
+{"index": 2066, "D": "an enzyme that hydrolyzes the neurotransmitter acetylcholine", "S": [], "A": []}

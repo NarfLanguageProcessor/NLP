@@ -1,1 +1,1 @@
-{"index": 17825, "D": "to make use of as relevant, suitable, or pertinent", "S": ["accepting ", "adopting ", "employing ", "practicing ", "proving ", "testing ", "working "], "A": []}
+{"index": 17825, "D": "to make use of as relevant, suitable, or pertinent", "S": ["accepting", "adopting", "employing", "practicing", "proving", "testing", "working"], "A": []}

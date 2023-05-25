@@ -1,1 +1,1 @@
-{"index": 1717, "D": "a female obstetrician or midwife", "S": ["obstetrician "], "A": []}
+{"index": 1717, "D": "a female obstetrician or midwife", "S": ["obstetrician"], "A": []}

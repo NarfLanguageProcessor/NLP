@@ -1,1 +1,1 @@
-{"index": 52524, "D": "a Japanese ceremony at which tea is prepared, served, and taken with an ancient and involved ritual.", "S": ["tea and crumpets ", "tea ceremony ", "tea ritual "], "A": []}
+{"index": 52524, "D": "a Japanese ceremony at which tea is prepared, served, and taken with an ancient and involved ritual.", "S": ["tea and crumpets", "tea ceremony", "tea ritual"], "A": []}

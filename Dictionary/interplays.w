@@ -1,1 +1,1 @@
-{"index": 155631, "D": "reciprocal relationship, action, or influence", "S": ["give-and-take "], "A": []}
+{"index": 155631, "D": "reciprocal relationship, action, or influence", "S": ["give-and-take"], "A": []}

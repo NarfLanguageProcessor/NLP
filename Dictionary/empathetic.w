@@ -1,1 +1,1 @@
-{"index": 98705, "D": "relating to or characterized by empathy,  the psychological identification with the emotions, thoughts, or attitudes of others", "S": ["compassionate ", "sensitive ", "sympathetic "], "A": ["indifferent ", "merciless ", "unfeeling "]}
+{"index": 98705, "D": "relating to or characterized by empathy,  the psychological identification with the emotions, thoughts, or attitudes of others", "S": ["compassionate", "sensitive", "sympathetic"], "A": ["indifferent", "merciless", "unfeeling"]}

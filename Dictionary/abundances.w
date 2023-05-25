@@ -1,1 +1,1 @@
-{"index": 1156, "D": "an extremely plentiful or oversufficient quantity or supply", "S": ["affluence ", "bounty ", "myriad ", "plenty ", "plethora ", "profusion ", "prosperity ", "riches ", "wealth "], "A": ["few ", "lack ", "little ", "need ", "poverty ", "scarcity ", "want "]}
+{"index": 1156, "D": "an extremely plentiful or oversufficient quantity or supply", "S": ["affluence", "bounty", "myriad", "plenty", "plethora", "profusion", "prosperity", "riches", "wealth"], "A": ["few", "lack", "little", "need", "poverty", "scarcity", "want"]}

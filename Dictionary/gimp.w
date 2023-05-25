@@ -1,1 +1,1 @@
-{"index": 125113, "D": "a flat trimming of silk, wool, or other cord, sometimes stiffened with wire, for garments, curtains, etc.", "S": ["cord ", "gasket ", "line ", "string "], "A": []}
+{"index": 125113, "D": "a flat trimming of silk, wool, or other cord, sometimes stiffened with wire, for garments, curtains, etc.", "S": ["cord", "gasket", "line", "string"], "A": []}

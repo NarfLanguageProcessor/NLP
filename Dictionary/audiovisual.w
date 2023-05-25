@@ -1,1 +1,1 @@
-{"index": 23313, "D": "of, pertaining to, involving, or directed at both hearing and sight", "S": ["auditory ", "aural ", "neural ", "neurological ", "olfactory ", "sensual ", "sonic ", "tactile ", "visual "], "A": []}
+{"index": 23313, "D": "of, pertaining to, involving, or directed at both hearing and sight", "S": ["auditory", "aural", "neural", "neurological", "olfactory", "sensual", "sonic", "tactile", "visual"], "A": []}

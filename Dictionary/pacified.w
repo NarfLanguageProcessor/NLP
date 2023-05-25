@@ -1,1 +1,1 @@
-{"index": 222706, "D": "to bring or restore to a state of peace  or tranquility; quiet; calm", "S": ["reassured ", "relaxed ", "satisfied "], "A": ["distraught ", "sad ", "worried "]}
+{"index": 222706, "D": "to bring or restore to a state of peace  or tranquility; quiet; calm", "S": ["reassured", "relaxed", "satisfied"], "A": ["distraught", "sad", "worried"]}

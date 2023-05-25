@@ -1,1 +1,1 @@
-{"index": 301051, "D": "playful or frolicsome; jesting, jocose, or merry", "S": ["blithely ", "brightly ", "gaily ", "genially ", "gladly ", "gleefully ", "happily ", "joyfully ", "merrily ", "optimistically ", "playfully ", "pleasantly ", "readily ", "willingly "], "A": ["sadly ", "unhappily "]}
+{"index": 301051, "D": "playful or frolicsome; jesting, jocose, or merry", "S": ["blithely", "brightly", "gaily", "genially", "gladly", "gleefully", "happily", "joyfully", "merrily", "optimistically", "playfully", "pleasantly", "readily", "willingly"], "A": ["sadly", "unhappily"]}

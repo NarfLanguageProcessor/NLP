@@ -1,1 +1,1 @@
-{"index": 89068, "D": "to incur the dissatisfaction, dislike, or disapproval of; offend; annoy", "S": ["discontented ", "disgruntled "], "A": ["gratified ", "happy ", "pleased ", "satisfied "]}
+{"index": 89068, "D": "to incur the dissatisfaction, dislike, or disapproval of; offend; annoy", "S": ["discontented", "disgruntled"], "A": ["gratified", "happy", "pleased", "satisfied"]}

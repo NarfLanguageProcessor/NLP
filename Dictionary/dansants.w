@@ -1,1 +1,1 @@
-{"index": 76812, "D": "th\u00e9 dansant. ", "S": ["dinner dance "], "A": []}
+{"index": 76812, "D": "th\u00e9 dansant. ", "S": ["dinner dance"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 300826, "D": "coming or resulting from a natural impulse or tendency; without effort or premeditation; natural and unconstrained; unplanned", "S": ["casual ", "impromptu ", "instinctive ", "offhand ", "simple ", "unplanned ", "voluntary "], "A": ["deliberate ", "planned "]}

@@ -1,1 +1,1 @@
-{"index": 252794, "D": "to offer or suggest (a matter, subject, case, etc.) for consideration, acceptance, or action", "S": ["backer ", "campaigner ", "defender ", "lawyer ", "promoter ", "proponent ", "supporter "], "A": ["opponent "]}
+{"index": 252794, "D": "to offer or suggest (a matter, subject, case, etc.) for consideration, acceptance, or action", "S": ["backer", "campaigner", "defender", "lawyer", "promoter", "proponent", "supporter"], "A": ["opponent"]}

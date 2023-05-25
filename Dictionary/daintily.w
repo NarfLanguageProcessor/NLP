@@ -1,1 +1,1 @@
-{"index": 76359, "D": "in a way that shows fine or delicate manners or tastes", "S": ["beautifully ", "cautiously ", "deftly ", "elegantly ", "exquisitely ", "finely ", "gracefully ", "lightly ", "sensitively ", "skillfully ", "softly ", "subtly ", "tactfully "], "A": ["strongly "]}
+{"index": 76359, "D": "in a way that shows fine or delicate manners or tastes", "S": ["beautifully", "cautiously", "deftly", "elegantly", "exquisitely", "finely", "gracefully", "lightly", "sensitively", "skillfully", "softly", "subtly", "tactfully"], "A": ["strongly"]}

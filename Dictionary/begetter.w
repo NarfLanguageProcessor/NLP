@@ -1,1 +1,1 @@
-{"index": 30602, "D": "(especially of a male parent) to procreate or generate (offspring).", "S": ["architect ", "author ", "designer ", "founder ", "maker ", "producer "], "A": ["destroyer "]}
+{"index": 30602, "D": "(especially of a male parent) to procreate or generate (offspring).", "S": ["architect", "author", "designer", "founder", "maker", "producer"], "A": ["destroyer"]}

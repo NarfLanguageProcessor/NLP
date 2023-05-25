@@ -1,1 +1,1 @@
-{"index": 151136, "D": "not distinct; not clearly marked or defined", "S": ["obscurely ", "unintelligibly "], "A": []}
+{"index": 151136, "D": "not distinct; not clearly marked or defined", "S": ["obscurely", "unintelligibly"], "A": []}

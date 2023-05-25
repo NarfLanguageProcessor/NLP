@@ -1,1 +1,0 @@
-{"index": 291335, "D": "a summary of the life of a saint or of the particulars of a feast, read at the orthros.", "S": [], "A": []}

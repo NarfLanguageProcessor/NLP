@@ -1,1 +1,1 @@
-{"index": 258661, "D": "arranged in groups of five.", "S": ["quintuple "], "A": []}
+{"index": 258661, "D": "arranged in groups of five.", "S": ["quintuple"], "A": []}

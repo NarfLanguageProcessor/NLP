@@ -1,1 +1,1 @@
-{"index": 304721, "D": "to be frugal; get along on a scanty allowance", "S": ["assignment ", "duty ", "job ", "spell ", "stretch ", "tour "], "A": ["entertainment ", "failure ", "fun ", "pastime ", "stagnation ", "whole "]}
+{"index": 304721, "D": "to be frugal; get along on a scanty allowance", "S": ["assignment", "duty", "job", "spell", "stretch", "tour"], "A": ["entertainment", "failure", "fun", "pastime", "stagnation", "whole"]}

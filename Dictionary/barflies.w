@@ -1,1 +1,1 @@
-{"index": 27937, "D": "a person who frequents barrooms.", "S": ["substance abuser "], "A": []}
+{"index": 27937, "D": "a person who frequents barrooms.", "S": ["substance abuser"], "A": []}

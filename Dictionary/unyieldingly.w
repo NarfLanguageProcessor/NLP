@@ -1,1 +1,1 @@
-{"index": 344180, "D": "unable to bend or be penetrated under pressure; hard", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}
+{"index": 344180, "D": "unable to bend or be penetrated under pressure; hard", "S": ["mulishly", "obdurately"], "A": ["graciously", "obediently"]}

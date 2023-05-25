@@ -1,1 +1,1 @@
-{"index": 85940, "D": "not bright; obscure from lack of light or emitted light", "S": ["densely ", "lethargically ", "listlessly ", "obtusely ", "slowly ", "sluggishly "], "A": []}
+{"index": 85940, "D": "not bright; obscure from lack of light or emitted light", "S": ["densely", "lethargically", "listlessly", "obtusely", "slowly", "sluggishly"], "A": []}

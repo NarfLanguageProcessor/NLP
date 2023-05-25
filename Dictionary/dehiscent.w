@@ -1,1 +1,1 @@
-{"index": 79724, "D": "(of fruits, anthers, etc) opening spontaneously to release seeds or pollen", "S": ["accessible ", "clear ", "free ", "susceptible ", "wide "], "A": ["hindered ", "limited ", "restricted ", "concealed "]}
+{"index": 79724, "D": "(of fruits, anthers, etc) opening spontaneously to release seeds or pollen", "S": ["accessible", "clear", "free", "susceptible", "wide"], "A": ["hindered", "limited", "restricted", "concealed"]}

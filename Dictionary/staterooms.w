@@ -1,1 +1,1 @@
-{"index": 303053, "D": "a private room  or compartment on a ship, train, etc.", "S": ["amphitheater ", "arena ", "auditorium ", "ballroom ", "chamber ", "church ", "gallery ", "gym ", "gymnasium ", "lounge ", "theater "], "A": []}
+{"index": 303053, "D": "a private room  or compartment on a ship, train, etc.", "S": ["amphitheater", "arena", "auditorium", "ballroom", "chamber", "church", "gallery", "gym", "gymnasium", "lounge", "theater"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 322722, "D": "prospering or doing well; highly successful", "S": ["booming ", "burgeoning ", "developing ", "flourishing ", "growing ", "healthy ", "prosperous ", "robust ", "wealthy "], "A": ["failing ", "infirm ", "poor ", "unhealthy "]}
+{"index": 322722, "D": "prospering or doing well; highly successful", "S": ["booming", "burgeoning", "developing", "flourishing", "growing", "healthy", "prosperous", "robust", "wealthy"], "A": ["failing", "infirm", "poor", "unhealthy"]}

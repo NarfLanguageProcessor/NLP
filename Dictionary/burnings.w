@@ -1,1 +1,1 @@
-{"index": 43226, "D": "aflame; on fire.", "S": ["infection ", "irritation ", "pain ", "rash ", "sore ", "tenderness "], "A": []}
+{"index": 43226, "D": "aflame; on fire.", "S": ["infection", "irritation", "pain", "rash", "sore", "tenderness"], "A": []}

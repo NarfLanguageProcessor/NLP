@@ -1,1 +1,1 @@
-{"index": 35920, "D": "something that blazes  or shines brightly.", "S": ["coat ", "jacket "], "A": []}
+{"index": 35920, "D": "something that blazes  or shines brightly.", "S": ["coat", "jacket"], "A": []}

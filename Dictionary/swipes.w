@@ -1,1 +1,1 @@
-{"index": 314527, "D": "poor, watery, or spoiled beer.", "S": ["slap "], "A": ["praise "]}
+{"index": 314527, "D": "poor, watery, or spoiled beer.", "S": ["slap"], "A": ["praise"]}

@@ -1,1 +1,1 @@
-{"index": 79316, "D": "to state or set forth the meaning of (a word, phrase, etc.)", "S": ["linguist "], "A": []}
+{"index": 79316, "D": "to state or set forth the meaning of (a word, phrase, etc.)", "S": ["linguist"], "A": []}

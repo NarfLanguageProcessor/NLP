@@ -1,1 +1,1 @@
-{"index": 23060, "D": "an act of attesting. ", "S": ["authentication ", "corroboration ", "declaration ", "documentation ", "evidence ", "proof ", "substantiation ", "testament ", "testimonial ", "testimony ", "validation ", "verification "], "A": []}
+{"index": 23060, "D": "an act of attesting. ", "S": ["authentication", "corroboration", "declaration", "documentation", "evidence", "proof", "substantiation", "testament", "testimonial", "testimony", "validation", "verification"], "A": []}

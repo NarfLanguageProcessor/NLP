@@ -1,1 +1,1 @@
-{"index": 257905, "D": "a state of perplexity or uncertainty, especially as to what to do; dilemma.", "S": ["difficulty ", "dilemma ", "embarrassment ", "impasse ", "plight ", "predicament ", "puzzle ", "uncertainty "], "A": ["good fortune ", "solution ", "boon ", "success "]}
+{"index": 257905, "D": "a state of perplexity or uncertainty, especially as to what to do; dilemma.", "S": ["difficulty", "dilemma", "embarrassment", "impasse", "plight", "predicament", "puzzle", "uncertainty"], "A": ["good fortune", "solution", "boon", "success"]}

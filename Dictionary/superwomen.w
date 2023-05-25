@@ -1,1 +1,1 @@
-{"index": 312908, "D": "a woman  of extraordinary or superhuman powers.", "S": ["diva ", "first lady ", "headliner ", "lead vocalist ", "leading lady ", "opera singer ", "singer ", "soloist ", "star ", "superstar ", "topliner "], "A": []}
+{"index": 312908, "D": "a woman  of extraordinary or superhuman powers.", "S": ["diva", "first lady", "headliner", "lead vocalist", "leading lady", "opera singer", "singer", "soloist", "star", "superstar", "topliner"], "A": []}

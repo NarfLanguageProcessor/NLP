@@ -1,1 +1,1 @@
-{"index": 271416, "D": "to give new life to.", "S": ["energetic ", "recovered ", "refreshed ", "relaxed "], "A": ["asleep "]}
+{"index": 271416, "D": "to give new life to.", "S": ["energetic", "recovered", "refreshed", "relaxed"], "A": ["asleep"]}

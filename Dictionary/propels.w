@@ -1,1 +1,1 @@
-{"index": 252571, "D": "to drive, or cause to move, forward or onward", "S": ["drive ", "push ", "send ", "shoot ", "thrust "], "A": ["discourage ", "dissuade ", "pull ", "repress ", "end ", "finish ", "stop "]}
+{"index": 252571, "D": "to drive, or cause to move, forward or onward", "S": ["drive", "push", "send", "shoot", "thrust"], "A": ["discourage", "dissuade", "pull", "repress", "end", "finish", "stop"]}

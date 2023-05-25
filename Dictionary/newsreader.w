@@ -1,1 +1,1 @@
-{"index": 199474, "D": "a person who presents the news  on a radio or television news  broadcast; newscaster.", "S": ["commentator ", "newscaster "], "A": []}
+{"index": 199474, "D": "a person who presents the news  on a radio or television news  broadcast; newscaster.", "S": ["commentator", "newscaster"], "A": []}

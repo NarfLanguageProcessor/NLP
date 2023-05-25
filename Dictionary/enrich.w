@@ -1,1 +1,1 @@
-{"index": 100897, "D": "to supply with riches, wealth, abundant or valuable possessions, etc.", "S": ["augment ", "cultivate ", "develop ", "endow ", "enhance ", "refine ", "supplement ", "upgrade "], "A": ["decrease ", "disgrace ", "worsen "]}
+{"index": 100897, "D": "to supply with riches, wealth, abundant or valuable possessions, etc.", "S": ["augment", "cultivate", "develop", "endow", "enhance", "refine", "supplement", "upgrade"], "A": ["decrease", "disgrace", "worsen"]}

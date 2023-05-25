@@ -1,1 +1,1 @@
-{"index": 32631, "D": "to get or be astride of; have or place the legs on both sides of.", "S": ["overlie ", "overlook ", "overtop ", "survey "], "A": ["follow ", "go along ", "submit ", "surrender ", "yield "]}
+{"index": 32631, "D": "to get or be astride of; have or place the legs on both sides of.", "S": ["overlie", "overlook", "overtop", "survey"], "A": ["follow", "go along", "submit", "surrender", "yield"]}

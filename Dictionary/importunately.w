@@ -1,1 +1,1 @@
-{"index": 148895, "D": "urgent or persistent in solicitation, sometimes annoyingly so.", "S": ["compellingly ", "eagerly ", "earnestly ", "frantically ", "hastily ", "vigorously "], "A": []}
+{"index": 148895, "D": "urgent or persistent in solicitation, sometimes annoyingly so.", "S": ["compellingly", "eagerly", "earnestly", "frantically", "hastily", "vigorously"], "A": []}

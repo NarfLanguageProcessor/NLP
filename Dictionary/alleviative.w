@@ -1,1 +1,1 @@
-{"index": 8689, "D": "serving to alleviate;  palliative.", "S": ["corrective ", "healthful ", "invigorating ", "medicinal ", "remedial ", "salutary ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}
+{"index": 8689, "D": "serving to alleviate;  palliative.", "S": ["corrective", "healthful", "invigorating", "medicinal", "remedial", "salutary", "therapeutic"], "A": ["damaging", "harmful", "hurtful", "injurious"]}

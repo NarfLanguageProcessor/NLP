@@ -1,1 +1,1 @@
-{"index": 17960, "D": "to give notice to; inform; advise  (often followed by of)", "S": ["advise ", "apprize ", "brief ", "inform ", "notify "], "A": ["conceal ", "hide ", "secret "]}
+{"index": 17960, "D": "to give notice to; inform; advise  (often followed by of)", "S": ["advise", "apprize", "brief", "inform", "notify"], "A": ["conceal", "hide", "secret"]}

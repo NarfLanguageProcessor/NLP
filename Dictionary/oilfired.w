@@ -1,1 +1,0 @@
-{"index": 211841, "D": "(of central heating) using oil as fuel", "S": [], "A": []}

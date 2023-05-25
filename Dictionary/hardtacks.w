@@ -1,1 +1,1 @@
-{"index": 133705, "D": "a hard,  saltless biscuit, formerly much used aboard ships and for army rations.", "S": ["biscuit ", "cookie ", "pretzel "], "A": []}
+{"index": 133705, "D": "a hard,  saltless biscuit, formerly much used aboard ships and for army rations.", "S": ["biscuit", "cookie", "pretzel"], "A": []}

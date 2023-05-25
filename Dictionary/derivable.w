@@ -1,1 +1,1 @@
-{"index": 82093, "D": "to receive or obtain from a source or origin (usually followed by from).", "S": ["a priori ", "attributable ", "available ", "determinable ", "dogmatic ", "extractable ", "inferable ", "likely ", "obtainable ", "reasoned ", "resultant ", "traceable "], "A": []}
+{"index": 82093, "D": "to receive or obtain from a source or origin (usually followed by from).", "S": ["a priori", "attributable", "available", "determinable", "dogmatic", "extractable", "inferable", "likely", "obtainable", "reasoned", "resultant", "traceable"], "A": []}

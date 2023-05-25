@@ -1,1 +1,1 @@
-{"index": 147907, "D": "occurring or accomplished without delay; instant", "S": ["actual ", "prompt ", "urgent "], "A": ["away ", "distant ", "eventually ", "far ", "later ", "never "]}
+{"index": 147907, "D": "occurring or accomplished without delay; instant", "S": ["actual", "prompt", "urgent"], "A": ["away", "distant", "eventually", "far", "later", "never"]}

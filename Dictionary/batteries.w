@@ -1,1 +1,1 @@
-{"index": 29116, "D": "a beating together of the calves or feet during a leap.", "S": ["array ", "batch ", "body ", "bunch ", "bundle ", "chain ", "clot ", "clump ", "cluster ", "group ", "lot ", "ring ", "sequence ", "set ", "suite "], "A": ["individual ", "one "]}
+{"index": 29116, "D": "a beating together of the calves or feet during a leap.", "S": ["array", "batch", "body", "bunch", "bundle", "chain", "clot", "clump", "cluster", "group", "lot", "ring", "sequence", "set", "suite"], "A": ["individual", "one"]}

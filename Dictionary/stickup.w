@@ -1,1 +1,0 @@
-{"index": 304334, "D": "a holdup; robbery.", "S": ["burglary ", "crime ", "mugging ", "robbery ", "stealing ", "theft "], "A": []}

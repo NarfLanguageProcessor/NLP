@@ -1,1 +1,1 @@
-{"index": 269661, "D": "to echo or ring with sound, as a place.", "S": ["echo ", "reverberate ", "vibrate "], "A": []}
+{"index": 269661, "D": "to echo or ring with sound, as a place.", "S": ["echo", "reverberate", "vibrate"], "A": []}

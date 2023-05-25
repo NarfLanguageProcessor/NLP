@@ -1,1 +1,1 @@
-{"index": 131215, "D": "a small valley or ravine originally worn away by running water and serving as a drainageway after prolonged heavy rains.", "S": ["chasm ", "crevasse ", "culvert ", "trench "], "A": []}
+{"index": 131215, "D": "a small valley or ravine originally worn away by running water and serving as a drainageway after prolonged heavy rains.", "S": ["chasm", "crevasse", "culvert", "trench"], "A": []}

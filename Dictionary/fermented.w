@@ -1,1 +1,1 @@
-{"index": 111387, "D": "any of a group of living organisms, as yeasts, molds, and certain bacteria, that cause fermentation. ", "S": ["inebriant "], "A": []}
+{"index": 111387, "D": "any of a group of living organisms, as yeasts, molds, and certain bacteria, that cause fermentation. ", "S": ["inebriant"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 159673, "D": "Christmas, or the Christmas season.", "S": ["Christmastide ", "Christmastime ", "Noel ", "Yule ", "Yuletide ", "nativity "], "A": []}
+{"index": 159673, "D": "Christmas, or the Christmas season.", "S": ["Christmastide", "Christmastime", "Noel", "Yule", "Yuletide", "nativity"], "A": []}

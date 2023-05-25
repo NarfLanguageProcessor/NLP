@@ -1,1 +1,1 @@
-{"index": 60539, "D": "a sudden and very heavy rainfall.", "S": ["deluge ", "downpour ", "storm ", "torrent "], "A": []}
+{"index": 60539, "D": "a sudden and very heavy rainfall.", "S": ["deluge", "downpour", "storm", "torrent"], "A": []}

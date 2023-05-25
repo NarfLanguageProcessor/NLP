@@ -1,1 +1,1 @@
-{"index": 27460, "D": "to expel from or relegate to a country or place by authoritative decree; condemn to exile", "S": ["destitute ", "displaced ", "dispossessed "], "A": ["settled "]}
+{"index": 27460, "D": "to expel from or relegate to a country or place by authoritative decree; condemn to exile", "S": ["destitute", "displaced", "dispossessed"], "A": ["settled"]}

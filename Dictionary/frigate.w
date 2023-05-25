@@ -1,1 +1,1 @@
-{"index": 118981, "D": "a fast naval vessel of the late 18th and early 19th centuries, generally having a lofty ship rig and heavily armed on one or two decks.", "S": ["sailboat ", "ship ", "vessel ", "warship "], "A": []}
+{"index": 118981, "D": "a fast naval vessel of the late 18th and early 19th centuries, generally having a lofty ship rig and heavily armed on one or two decks.", "S": ["sailboat", "ship", "vessel", "warship"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 118640, "D": "a person who is free;  a person who enjoys personal, civil, or political liberty.", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "taxpayer ", "townswoman "], "A": ["alien ", "foreigner "]}
+{"index": 118640, "D": "a person who is free;  a person who enjoys personal, civil, or political liberty.", "S": ["autochthon", "inhabitant", "national", "native", "resident", "taxpayer", "townswoman"], "A": ["alien", "foreigner"]}

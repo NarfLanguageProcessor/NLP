@@ -1,1 +1,1 @@
-{"index": 114375, "D": "to grin or laugh coarsely or mockingly.", "S": ["hoot ", "quip ", "ridicule ", "scoff ", "sneer ", "snipe ", "taunt "], "A": ["compliment ", "praise ", "commend ", "flatter "]}
+{"index": 114375, "D": "to grin or laugh coarsely or mockingly.", "S": ["hoot", "quip", "ridicule", "scoff", "sneer", "snipe", "taunt"], "A": ["compliment", "praise", "commend", "flatter"]}

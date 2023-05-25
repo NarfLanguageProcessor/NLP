@@ -1,1 +1,1 @@
-{"index": 212007, "D": "a comparative of old. ", "S": ["earlier "], "A": ["younger "]}
+{"index": 212007, "D": "a comparative of old. ", "S": ["earlier"], "A": ["younger"]}

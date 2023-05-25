@@ -1,1 +1,1 @@
-{"index": 288185, "D": "a broad piece of armor, varying widely in form and size, carried apart from the body, usually on the left arm, as a defense against swords, lances, arrows, etc.", "S": ["bulletproof "], "A": ["breakable ", "unprotected ", "weak "]}
+{"index": 288185, "D": "a broad piece of armor, varying widely in form and size, carried apart from the body, usually on the left arm, as a defense against swords, lances, arrows, etc.", "S": ["bulletproof"], "A": ["breakable", "unprotected", "weak"]}

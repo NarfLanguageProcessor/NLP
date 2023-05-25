@@ -1,1 +1,1 @@
-{"index": 230223, "D": "a pungent condiment obtained from various plants of the genus Piper, especially from the dried berries, used whole or ground, of the tropical climbing shrub P. nigrum.", "S": ["infuse ", "pepper ", "sprinkle "], "A": ["collect ", "gather "]}
+{"index": 230223, "D": "a pungent condiment obtained from various plants of the genus Piper, especially from the dried berries, used whole or ground, of the tropical climbing shrub P. nigrum.", "S": ["infuse", "pepper", "sprinkle"], "A": ["collect", "gather"]}

@@ -1,1 +1,1 @@
-{"index": 66130, "D": "to change from a soft or fluid state to a rigid or solid state, as by cooling or freezing", "S": ["curdle ", "thicken "], "A": ["heat ", "liquefy ", "melt ", "soften "]}
+{"index": 66130, "D": "to change from a soft or fluid state to a rigid or solid state, as by cooling or freezing", "S": ["curdle", "thicken"], "A": ["heat", "liquefy", "melt", "soften"]}

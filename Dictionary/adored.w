@@ -1,0 +1,1 @@
+{"index": 4338, "D": "to regard with the utmost esteem, love, and respect; honor.", "S": ["beatified", "consecrated", "divine", "enthroned", "exalted", "glorified", "hallowed", "redeemed", "resurrected", "revered", "rewarded", "saved"], "A": ["cursed"]}

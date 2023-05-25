@@ -1,1 +1,1 @@
-{"index": 332292, "D": "an act of making or becoming swollen or tumid.", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}
+{"index": 332292, "D": "an act of making or becoming swollen or tumid.", "S": ["lump", "nodule", "wart"], "A": ["depression"]}

@@ -1,1 +1,1 @@
-{"index": 317800, "D": "teeny;  tiny.", "S": ["Lilliputian ", "diminutive ", "microscopic ", "miniature ", "minuscule ", "minute ", "teensy-weensy ", "teeny-weeny ", "tiny ", "wee ", "weeny "], "A": ["big ", "enormous ", "huge ", "large "]}
+{"index": 317800, "D": "teeny;  tiny.", "S": ["Lilliputian", "diminutive", "microscopic", "miniature", "minuscule", "minute", "teensy-weensy", "teeny-weeny", "tiny", "wee", "weeny"], "A": ["big", "enormous", "huge", "large"]}

@@ -1,1 +1,1 @@
-{"index": 122440, "D": "full of or containing gas. ", "S": ["carbonated ", "effervescent "], "A": ["dull ", "flat ", "listless ", "still "]}
+{"index": 122440, "D": "full of or containing gas. ", "S": ["carbonated", "effervescent"], "A": ["dull", "flat", "listless", "still"]}

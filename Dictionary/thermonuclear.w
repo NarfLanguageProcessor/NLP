@@ -1,1 +1,1 @@
-{"index": 321463, "D": "of, relating to, or involving a thermonuclear reaction", "S": ["atom-powered ", "fissionable "], "A": []}
+{"index": 321463, "D": "of, relating to, or involving a thermonuclear reaction", "S": ["atom-powered", "fissionable"], "A": []}

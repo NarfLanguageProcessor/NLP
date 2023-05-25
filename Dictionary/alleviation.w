@@ -1,1 +1,1 @@
-{"index": 8687, "D": "the act of alleviating. ", "S": ["mitigation "], "A": ["injury "]}
+{"index": 8687, "D": "the act of alleviating. ", "S": ["mitigation"], "A": ["injury"]}

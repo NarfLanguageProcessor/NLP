@@ -1,1 +1,0 @@
-{"index": 243848, "D": "to have as belonging to one; have as property; own", "S": ["commanding ", "controlling ", "covering ", "holding ", "maintaining ", "obtaining ", "owning ", "permeating ", "pervading ", "placed ", "posted ", "remaining ", "residing ", "resting ", "sitting ", "situated ", "staying ", "tenanting "], "A": ["gone ", "leaving ", "removing "]}

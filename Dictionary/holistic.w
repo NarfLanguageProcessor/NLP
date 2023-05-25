@@ -1,1 +1,1 @@
-{"index": 142460, "D": "incorporating the concept of holism,  or the idea that the whole is more than merely the sum of its parts, in theory or practice", "S": ["comprehensive ", "integrated "], "A": []}
+{"index": 142460, "D": "incorporating the concept of holism,  or the idea that the whole is more than merely the sum of its parts, in theory or practice", "S": ["comprehensive", "integrated"], "A": []}

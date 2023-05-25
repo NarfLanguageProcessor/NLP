@@ -1,1 +1,1 @@
-{"index": 243319, "D": "to inhabit; live in; be the inhabitants of", "S": ["developed ", "owned ", "populous ", "settled "], "A": []}
+{"index": 243319, "D": "to inhabit; live in; be the inhabitants of", "S": ["developed", "owned", "populous", "settled"], "A": []}

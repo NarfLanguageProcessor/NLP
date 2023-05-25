@@ -1,1 +1,1 @@
-{"index": 319627, "D": "a person, usually a member of a group, who uses or advocates terrorism. ", "S": ["anarchist ", "assassin ", "bomber ", "fanatic ", "guerrilla ", "gunman ", "hijacker ", "insurgent ", "radical ", "rebel ", "revolutionary ", "sniper ", "zealot "], "A": []}
+{"index": 319627, "D": "a person, usually a member of a group, who uses or advocates terrorism. ", "S": ["anarchist", "assassin", "bomber", "fanatic", "guerrilla", "gunman", "hijacker", "insurgent", "radical", "rebel", "revolutionary", "sniper", "zealot"], "A": []}

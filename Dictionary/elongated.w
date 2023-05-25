@@ -1,1 +1,1 @@
-{"index": 97755, "D": "to draw out to greater length; lengthen; extend.", "S": ["stretched "], "A": ["shortened "]}
+{"index": 97755, "D": "to draw out to greater length; lengthen; extend.", "S": ["stretched"], "A": ["shortened"]}

@@ -1,1 +1,1 @@
-{"index": 349782, "D": "confined; limited.", "S": ["freely ", "individually ", "separately "], "A": ["together "]}
+{"index": 349782, "D": "confined; limited.", "S": ["freely", "individually", "separately"], "A": ["together"]}

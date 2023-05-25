@@ -1,1 +1,0 @@
-{"index": 327833, "D": "to convey or remove from one place, person, etc., to another", "S": ["interchangeable ", "negotiable "], "A": ["fixed ", "nontransferable "]}

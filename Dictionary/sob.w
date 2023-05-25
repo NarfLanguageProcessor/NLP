@@ -1,1 +1,1 @@
-{"index": 296036, "D": "to weep with a convulsive catching of the breath.", "S": ["bawl ", "break down ", "howl ", "wail ", "weep ", "whimper "], "A": []}
+{"index": 296036, "D": "to weep with a convulsive catching of the breath.", "S": ["bawl", "break down", "howl", "wail", "weep", "whimper"], "A": []}

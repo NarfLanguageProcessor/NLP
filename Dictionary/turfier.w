@@ -1,1 +1,1 @@
-{"index": 332676, "D": "covered with or consisting of grassy turf. ", "S": ["carpeted ", "lush ", "verdant "], "A": []}
+{"index": 332676, "D": "covered with or consisting of grassy turf. ", "S": ["carpeted", "lush", "verdant"], "A": []}

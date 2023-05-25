@@ -1,1 +1,1 @@
-{"index": 303675, "D": "a person who specializes in taking dictation in shorthand.", "S": ["agent ", "auditor ", "bookkeeper ", "cashier ", "employee ", "operator ", "receptionist ", "salesperson ", "secretary ", "teller ", "worker "], "A": []}
+{"index": 303675, "D": "a person who specializes in taking dictation in shorthand.", "S": ["agent", "auditor", "bookkeeper", "cashier", "employee", "operator", "receptionist", "salesperson", "secretary", "teller", "worker"], "A": []}

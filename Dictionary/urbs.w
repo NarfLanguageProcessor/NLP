@@ -1,1 +1,1 @@
-{"index": 355414, "D": "an urban area.", "S": ["capital ", "center ", "downtown ", "metropolis ", "municipality ", "place ", "port "], "A": []}
+{"index": 355414, "D": "an urban area.", "S": ["capital", "center", "downtown", "metropolis", "municipality", "place", "port"], "A": []}

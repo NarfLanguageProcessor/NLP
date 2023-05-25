@@ -1,1 +1,1 @@
-{"index": 249884, "D": "pretending or feigning; make-believe", "S": ["candid ", "forthright ", "genuine ", "sincere ", "truthful ", "unequivocal "], "A": ["devious ", "dishonest ", "insincere ", "lying ", "tricky ", "untruthful "]}
+{"index": 249884, "D": "pretending or feigning; make-believe", "S": ["candid", "forthright", "genuine", "sincere", "truthful", "unequivocal"], "A": ["devious", "dishonest", "insincere", "lying", "tricky", "untruthful"]}

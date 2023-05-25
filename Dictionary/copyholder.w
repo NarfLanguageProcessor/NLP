@@ -1,1 +1,1 @@
-{"index": 68518, "D": "a person or thing that holds copy.", "S": ["copyreader ", "deskman ", "newspaperman ", "newspaperwoman ", "proofreader ", "reviser ", "rewriter "], "A": []}
+{"index": 68518, "D": "a person or thing that holds copy.", "S": ["copyreader", "deskman", "newspaperman", "newspaperwoman", "proofreader", "reviser", "rewriter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 129988, "D": "to complain naggingly or constantly; grumble.", "S": ["bellyaching ", "caviling ", "criticizing ", "disparaging ", "grousing ", "grumbling ", "kvetching ", "moaning ", "nagging ", "niggling ", "quibbling ", "whining "], "A": ["complimentary ", "forgiving "]}
+{"index": 129988, "D": "to complain naggingly or constantly; grumble.", "S": ["bellyaching", "caviling", "criticizing", "disparaging", "grousing", "grumbling", "kvetching", "moaning", "nagging", "niggling", "quibbling", "whining"], "A": ["complimentary", "forgiving"]}

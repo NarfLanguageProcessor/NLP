@@ -1,1 +1,1 @@
-{"index": 114052, "D": "a bottle, usually of glass, having a rounded body and a narrow neck, used especially in laboratory experimentation.", "S": ["beaker ", "canteen ", "carafe ", "chalice ", "decanter ", "jug ", "urn ", "vial "], "A": []}
+{"index": 114052, "D": "a bottle, usually of glass, having a rounded body and a narrow neck, used especially in laboratory experimentation.", "S": ["beaker", "canteen", "carafe", "chalice", "decanter", "jug", "urn", "vial"], "A": []}

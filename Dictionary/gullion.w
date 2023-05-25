@@ -1,1 +1,1 @@
-{"index": 131220, "D": [], "S": ["bauble ", "bead ", "gem ", "gemstone ", "ornament ", "stone ", "trinket "], "A": []}
+{"index": 131220, "D": [], "S": ["bauble", "bead", "gem", "gemstone", "ornament", "stone", "trinket"], "A": []}

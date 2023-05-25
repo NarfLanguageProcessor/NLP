@@ -1,0 +1,1 @@
+{"index": 16076, "D": "a member or supporter of that party in the Dutch Calvinistic Church which opposed the Remonstrants or Arminians.", "S": [], "A": []}

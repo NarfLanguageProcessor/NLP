@@ -1,1 +1,1 @@
-{"index": 74253, "D": "the part of the leg or hind limb between the femur or thigh and the ankle or tarsus; shank.", "S": ["leg ", "meat ", "shin ", "stalk ", "stem "], "A": []}
+{"index": 74253, "D": "the part of the leg or hind limb between the femur or thigh and the ankle or tarsus; shank.", "S": ["leg", "meat", "shin", "stalk", "stem"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 33773, "D": [], "S": ["days gone by ", "past ", "times past ", "yesterday "], "A": []}
+{"index": 33773, "D": [], "S": ["days gone by", "past", "times past", "yesterday"], "A": []}

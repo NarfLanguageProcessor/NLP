@@ -1,1 +1,0 @@
-{"index": 227848, "D": "of or relating to a patriarch,  the male head of a family, tribe, community, church, order, etc.", "S": ["affectionate ", "benevolent ", "benign ", "forbearing ", "indulgent ", "kind ", "kindly ", "parental ", "paternal ", "protective ", "supportive ", "tender "], "A": []}

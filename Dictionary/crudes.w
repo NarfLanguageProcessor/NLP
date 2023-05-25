@@ -1,1 +1,1 @@
-{"index": 74118, "D": "in a raw or unprepared state; unrefined or natural", "S": ["crude ", "oil ", "petrol ", "petroleum "], "A": []}
+{"index": 74118, "D": "in a raw or unprepared state; unrefined or natural", "S": ["crude", "oil", "petrol", "petroleum"], "A": []}

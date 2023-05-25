@@ -1,1 +1,1 @@
-{"index": 33234, "D": "of or in the Bible", "S": ["doctrinal ", "ecclesiastical ", "scriptural ", "theological "], "A": []}
+{"index": 33234, "D": "of or in the Bible", "S": ["doctrinal", "ecclesiastical", "scriptural", "theological"], "A": []}

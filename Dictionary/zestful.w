@@ -1,1 +1,1 @@
-{"index": 369121, "D": "full of zest. ", "S": ["awake ", "eager ", "ready ", "rife "], "A": ["unanimated "]}
+{"index": 369121, "D": "full of zest. ", "S": ["awake", "eager", "ready", "rife"], "A": ["unanimated"]}

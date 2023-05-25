@@ -1,1 +1,1 @@
-{"index": 302652, "D": "(of a person) to be in an upright position on the feet.", "S": ["attitude ", "belief ", "determination ", "sentiment ", "stance ", "view "], "A": []}
+{"index": 302652, "D": "(of a person) to be in an upright position on the feet.", "S": ["attitude", "belief", "determination", "sentiment", "stance", "view"], "A": []}

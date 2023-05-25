@@ -1,1 +1,1 @@
-{"index": 38290, "D": "a person who is fond of drinking", "S": ["alcoholic ", "drunk ", "drunkard ", "lush ", "sot ", "sponge ", "toper ", "wino "], "A": []}
+{"index": 38290, "D": "a person who is fond of drinking", "S": ["alcoholic", "drunk", "drunkard", "lush", "sot", "sponge", "toper", "wino"], "A": []}

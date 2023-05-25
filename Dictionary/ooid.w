@@ -1,1 +1,1 @@
-{"index": 213017, "D": [], "S": ["elliptical "], "A": []}
+{"index": 213017, "D": [], "S": ["elliptical"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 345747, "D": "all those unlocked cars", "S": ["free ", "open ", "unbarred ", "unbolted ", "unfastened "], "A": ["locked "]}
+{"index": 345747, "D": "all those unlocked cars", "S": ["free", "open", "unbarred", "unbolted", "unfastened"], "A": ["locked"]}

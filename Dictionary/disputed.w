@@ -1,1 +1,1 @@
-{"index": 89248, "D": "argued or debated about", "S": ["contentious ", "dubious ", "questionable "], "A": ["certain ", "definite ", "sure "]}
+{"index": 89248, "D": "argued or debated about", "S": ["contentious", "dubious", "questionable"], "A": ["certain", "definite", "sure"]}

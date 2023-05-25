@@ -1,1 +1,1 @@
-{"index": 303095, "D": "writing paper.", "S": ["letterhead "], "A": []}
+{"index": 303095, "D": "writing paper.", "S": ["letterhead"], "A": []}

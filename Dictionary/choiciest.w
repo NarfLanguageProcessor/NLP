@@ -1,1 +1,1 @@
-{"index": 55317, "D": [], "S": ["astute ", "choosy ", "discerning ", "eclectic ", "fastidious ", "finicky ", "fussy ", "refined ", "selective "], "A": ["open ", "uncritical ", "undemanding ", "undiscriminating ", "unfussy "]}
+{"index": 55317, "D": [], "S": ["astute", "choosy", "discerning", "eclectic", "fastidious", "finicky", "fussy", "refined", "selective"], "A": ["open", "uncritical", "undemanding", "undiscriminating", "unfussy"]}

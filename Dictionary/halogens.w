@@ -1,1 +1,1 @@
-{"index": 132816, "D": "any of the electronegative elements, fluorine, chlorine, iodine, bromine, and astatine, that form binary salts by direct union with metals.", "S": ["bleach ", "disinfectant "], "A": []}
+{"index": 132816, "D": "any of the electronegative elements, fluorine, chlorine, iodine, bromine, and astatine, that form binary salts by direct union with metals.", "S": ["bleach", "disinfectant"], "A": []}

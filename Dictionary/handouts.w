@@ -1,1 +1,1 @@
-{"index": 133239, "D": "a portion of food or the like given to a needy person, as a beggar.", "S": ["aid ", "alms ", "assistance ", "charity ", "contribution ", "donation ", "gift ", "grant ", "relief ", "subsidy "], "A": ["forfeit ", "loss "]}
+{"index": 133239, "D": "a portion of food or the like given to a needy person, as a beggar.", "S": ["aid", "alms", "assistance", "charity", "contribution", "donation", "gift", "grant", "relief", "subsidy"], "A": ["forfeit", "loss"]}

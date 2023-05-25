@@ -1,1 +1,1 @@
-{"index": 179402, "D": "a way of doing, being done, or happening; mode of action, occurrence, etc.", "S": ["appearance ", "aspect ", "demeanor ", "look ", "presence ", "style ", "tone ", "way "], "A": ["absence ", "reality "]}
+{"index": 179402, "D": "a way of doing, being done, or happening; mode of action, occurrence, etc.", "S": ["appearance", "aspect", "demeanor", "look", "presence", "style", "tone", "way"], "A": ["absence", "reality"]}

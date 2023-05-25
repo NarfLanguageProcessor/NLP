@@ -1,1 +1,1 @@
-{"index": 21963, "D": "definitely or certainly", "S": ["undoubtedly "], "A": ["doubtfully ", "questionably "]}
+{"index": 21963, "D": "definitely or certainly", "S": ["undoubtedly"], "A": ["doubtfully", "questionably"]}

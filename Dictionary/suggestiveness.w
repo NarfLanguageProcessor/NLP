@@ -1,1 +1,1 @@
-{"index": 310258, "D": "that suggests;  referring to other thoughts, persons, etc.", "S": ["provocativeness ", "sexiness ", "sexuality ", "steaminess ", "voluptuousness "], "A": []}
+{"index": 310258, "D": "that suggests;  referring to other thoughts, persons, etc.", "S": ["provocativeness", "sexiness", "sexuality", "steaminess", "voluptuousness"], "A": []}

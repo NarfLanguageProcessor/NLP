@@ -1,1 +1,1 @@
-{"index": 274647, "D": "cheap and inferior liquor.", "S": ["booze ", "drink ", "ethanol ", "liquor ", "methanol ", "smoke "], "A": []}
+{"index": 274647, "D": "cheap and inferior liquor.", "S": ["booze", "drink", "ethanol", "liquor", "methanol", "smoke"], "A": []}

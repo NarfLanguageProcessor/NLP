@@ -1,1 +1,1 @@
-{"index": 39837, "D": [], "S": ["ancillary ", "supplementary "], "A": ["chief ", "main ", "major "]}
+{"index": 39837, "D": [], "S": ["ancillary", "supplementary"], "A": ["chief", "main", "major"]}

@@ -1,1 +1,1 @@
-{"index": 82304, "D": "the act or process of weakening, lessening, or taking away power or authority", "S": ["aspersion ", "denigration ", "deprecation ", "detraction ", "disparagement ", "put down ", "ridicule ", "scorn "], "A": ["approval ", "flattery ", "praise "]}
+{"index": 82304, "D": "the act or process of weakening, lessening, or taking away power or authority", "S": ["aspersion", "denigration", "deprecation", "detraction", "disparagement", "put down", "ridicule", "scorn"], "A": ["approval", "flattery", "praise"]}

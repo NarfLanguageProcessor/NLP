@@ -1,1 +1,1 @@
-{"index": 143448, "D": "honesty, fairness, or integrity in one's beliefs and actions", "S": ["appreciative ", "congratulatory ", "polite ", "respectful "], "A": ["unmannerly "]}
+{"index": 143448, "D": "honesty, fairness, or integrity in one's beliefs and actions", "S": ["appreciative", "congratulatory", "polite", "respectful"], "A": ["unmannerly"]}

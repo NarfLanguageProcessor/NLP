@@ -1,1 +1,1 @@
-{"index": 37798, "D": "slavery or involuntary servitude; serfdom. ", "S": ["enslavement ", "serfdom ", "servitude ", "subjugation ", "yoke "], "A": ["freedom ", "independence "]}
+{"index": 37798, "D": "slavery or involuntary servitude; serfdom. ", "S": ["enslavement", "serfdom", "servitude", "subjugation", "yoke"], "A": ["freedom", "independence"]}

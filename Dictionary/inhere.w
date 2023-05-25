@@ -1,1 +1,1 @@
-{"index": 152665, "D": "to exist permanently and inseparably in, as a quality, attribute, or element; belong intrinsically; be inherent", "S": ["abide ", "be ", "dwell ", "exist ", "lie ", "repose ", "reside ", "rest ", "subsist "], "A": ["energize ", "move ", "stand "]}
+{"index": 152665, "D": "to exist permanently and inseparably in, as a quality, attribute, or element; belong intrinsically; be inherent", "S": ["abide", "be", "dwell", "exist", "lie", "repose", "reside", "rest", "subsist"], "A": ["energize", "move", "stand"]}

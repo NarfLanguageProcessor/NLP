@@ -1,1 +1,1 @@
-{"index": 68747, "D": "to try to attract the attention and admiration of men for mere self-gratification; flirt.", "S": ["levity "], "A": ["sadness ", "seriousness ", "understanding ", "work "]}
+{"index": 68747, "D": "to try to attract the attention and admiration of men for mere self-gratification; flirt.", "S": ["levity"], "A": ["sadness", "seriousness", "understanding", "work"]}

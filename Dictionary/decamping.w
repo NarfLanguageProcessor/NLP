@@ -1,1 +1,1 @@
-{"index": 77988, "D": "to depart from a camp; to pack up equipment and leave a camping ground", "S": ["bolt ", "depart ", "disappear ", "escape ", "evacuate ", "flee ", "hightail ", "scram ", "skedaddle ", "vamoose "], "A": ["arrive ", "come in ", "enter ", "stay ", "wait "]}
+{"index": 77988, "D": "to depart from a camp; to pack up equipment and leave a camping ground", "S": ["bolt", "depart", "disappear", "escape", "evacuate", "flee", "hightail", "scram", "skedaddle", "vamoose"], "A": ["arrive", "come in", "enter", "stay", "wait"]}

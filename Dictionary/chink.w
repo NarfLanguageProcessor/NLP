@@ -1,1 +1,1 @@
-{"index": 54608, "D": "a crack, cleft, or fissure", "S": ["crevice ", "fissure "], "A": []}
+{"index": 54608, "D": "a crack, cleft, or fissure", "S": ["crevice", "fissure"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 326806, "D": "plural of townie. ", "S": ["big-city person ", "city boy ", "city dweller ", "metropolitan ", "urbanite "], "A": []}
+{"index": 326806, "D": "plural of townie. ", "S": ["big-city person", "city boy", "city dweller", "metropolitan", "urbanite"], "A": []}

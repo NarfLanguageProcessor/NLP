@@ -1,1 +1,1 @@
-{"index": 257360, "D": "a representation of a cherubic infant, often shown winged.", "S": ["block ", "shut ", "shutter "], "A": ["open ", "allow ", "free ", "let go ", "liberate ", "loose ", "loosen ", "permit ", "release ", "unblock ", "unclog ", "unfasten ", "unlock "]}
+{"index": 257360, "D": "a representation of a cherubic infant, often shown winged.", "S": ["block", "shut", "shutter"], "A": ["open", "allow", "free", "let go", "liberate", "loose", "loosen", "permit", "release", "unblock", "unclog", "unfasten", "unlock"]}

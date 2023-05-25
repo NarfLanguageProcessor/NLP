@@ -1,1 +1,1 @@
-{"index": 300551, "D": "liable to produce or break into splinters", "S": ["brittle ", "crisp ", "flimsy ", "frail "], "A": ["firm ", "flexible ", "strong "]}
+{"index": 300551, "D": "liable to produce or break into splinters", "S": ["brittle", "crisp", "flimsy", "frail"], "A": ["firm", "flexible", "strong"]}

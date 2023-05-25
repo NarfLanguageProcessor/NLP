@@ -1,1 +1,1 @@
-{"index": 191317, "D": "to work hard; drudge. ", "S": ["bitter ", "bumpy ", "choppy ", "fierce ", "rough ", "stormy ", "swirling ", "tempestuous ", "unstable ", "violent "], "A": ["calm ", "gentle ", "kind ", "mild ", "moderate ", "nice ", "peaceful ", "smooth "]}
+{"index": 191317, "D": "to work hard; drudge. ", "S": ["bitter", "bumpy", "choppy", "fierce", "rough", "stormy", "swirling", "tempestuous", "unstable", "violent"], "A": ["calm", "gentle", "kind", "mild", "moderate", "nice", "peaceful", "smooth"]}

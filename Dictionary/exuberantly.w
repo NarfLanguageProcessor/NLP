@@ -1,1 +1,1 @@
-{"index": 108789, "D": "effusively and almost uninhibitedly enthusiastic; lavishly abundant", "S": ["energetically ", "enthusiastically "], "A": []}
+{"index": 108789, "D": "effusively and almost uninhibitedly enthusiastic; lavishly abundant", "S": ["energetically", "enthusiastically"], "A": []}

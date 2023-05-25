@@ -1,1 +1,1 @@
-{"index": 139230, "D": "a swindler; confidence man; cheat.", "S": ["accomplice ", "collaborator ", "plotter ", "traitor "], "A": []}
+{"index": 139230, "D": "a swindler; confidence man; cheat.", "S": ["accomplice", "collaborator", "plotter", "traitor"], "A": []}

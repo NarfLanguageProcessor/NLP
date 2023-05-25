@@ -1,1 +1,1 @@
-{"index": 107277, "D": "a way or passage out", "S": ["door ", "gate ", "opening "], "A": ["closure ", "entrance "]}
+{"index": 107277, "D": "a way or passage out", "S": ["door", "gate", "opening"], "A": ["closure", "entrance"]}

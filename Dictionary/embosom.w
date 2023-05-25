@@ -1,1 +1,1 @@
-{"index": 98193, "D": "to enfold, envelop, or enclose.", "S": ["embrace ", "enclose ", "envelope ", "surround "], "A": []}
+{"index": 98193, "D": "to enfold, envelop, or enclose.", "S": ["embrace", "enclose", "envelope", "surround"], "A": []}

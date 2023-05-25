@@ -1,1 +1,1 @@
-{"index": 160083, "D": "variants of jaeger (defs. 2, 3). ", "S": ["gem ", "jewel ", "rhinestone "], "A": []}
+{"index": 160083, "D": "variants of jaeger (defs. 2, 3). ", "S": ["gem", "jewel", "rhinestone"], "A": []}

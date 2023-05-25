@@ -1,1 +1,1 @@
-{"index": 822, "D": "release of emotional tension achieved through recalling a repressed traumatic experience.", "S": ["ablution ", "cleansing ", "expurgation ", "purgation ", "purification ", "release "], "A": ["dirtying "]}
+{"index": 822, "D": "release of emotional tension achieved through recalling a repressed traumatic experience.", "S": ["ablution", "cleansing", "expurgation", "purgation", "purification", "release"], "A": ["dirtying"]}

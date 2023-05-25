@@ -1,1 +1,1 @@
-{"index": 11670, "D": "of or relating to an anagoge. ", "S": ["mystical ", "symbolical "], "A": []}
+{"index": 11670, "D": "of or relating to an anagoge. ", "S": ["mystical", "symbolical"], "A": []}

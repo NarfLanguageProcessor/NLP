@@ -1,1 +1,1 @@
-{"index": 124084, "D": [], "S": ["carnal ", "mundane ", "physical ", "temporal ", "terrestrial ", "worldly "], "A": ["heavenly ", "immaterial ", "mental ", "otherworldly ", "spiritual "]}
+{"index": 124084, "D": [], "S": ["carnal", "mundane", "physical", "temporal", "terrestrial", "worldly"], "A": ["heavenly", "immaterial", "mental", "otherworldly", "spiritual"]}

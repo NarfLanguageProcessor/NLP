@@ -1,1 +1,1 @@
-{"index": 268899, "D": "to make repayment or return for (service, benefits, etc.).", "S": ["bilateral ", "collective ", "reciprocal "], "A": ["detached ", "distinct ", "separate ", "unshared "]}
+{"index": 268899, "D": "to make repayment or return for (service, benefits, etc.).", "S": ["bilateral", "collective", "reciprocal"], "A": ["detached", "distinct", "separate", "unshared"]}

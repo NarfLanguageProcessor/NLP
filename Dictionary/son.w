@@ -1,1 +1,1 @@
-{"index": 297156, "D": "a male child or person in relation to his parents.", "S": ["boy ", "descendant ", "heir ", "offspring "], "A": ["daughter "]}
+{"index": 297156, "D": "a male child or person in relation to his parents.", "S": ["boy", "descendant", "heir", "offspring"], "A": ["daughter"]}

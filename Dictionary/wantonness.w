@@ -1,1 +1,1 @@
-{"index": 362485, "D": "done, shown, used, etc., maliciously or unjustifiably", "S": ["abandonment ", "disregard ", "freedom ", "impulse ", "incontinence ", "licentiousness ", "recklessness ", "spontaneity ", "thoughtlessness ", "unrestraint ", "wildness "], "A": []}
+{"index": 362485, "D": "done, shown, used, etc., maliciously or unjustifiably", "S": ["abandonment", "disregard", "freedom", "impulse", "incontinence", "licentiousness", "recklessness", "spontaneity", "thoughtlessness", "unrestraint", "wildness"], "A": []}

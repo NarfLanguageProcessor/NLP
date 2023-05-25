@@ -1,1 +1,1 @@
-{"index": 133746, "D": "the part of a Muslim palace or house reserved for the residence of women.", "S": ["concubines ", "purdah ", "seraglio ", "serail "], "A": []}
+{"index": 133746, "D": "the part of a Muslim palace or house reserved for the residence of women.", "S": ["concubines", "purdah", "seraglio", "serail"], "A": []}

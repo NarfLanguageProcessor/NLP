@@ -1,1 +1,1 @@
-{"index": 50604, "D": "a minute cell.", "S": ["bacterium ", "egg ", "germ ", "unit "], "A": []}
+{"index": 50604, "D": "a minute cell.", "S": ["bacterium", "egg", "germ", "unit"], "A": []}

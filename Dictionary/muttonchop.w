@@ -1,1 +1,1 @@
-{"index": 196320, "D": "side whiskers that are narrow at the temples and broad and trimmed short at the jawline, the chin being shaved both in front and beneath.", "S": ["Vandyke ", "bristles ", "brush ", "fuzz ", "goatee ", "imperial ", "stubble "], "A": []}
+{"index": 196320, "D": "side whiskers that are narrow at the temples and broad and trimmed short at the jawline, the chin being shaved both in front and beneath.", "S": ["Vandyke", "bristles", "brush", "fuzz", "goatee", "imperial", "stubble"], "A": []}

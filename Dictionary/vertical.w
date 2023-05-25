@@ -1,1 +1,1 @@
-{"index": 358876, "D": "being in a position or direction perpendicular to the plane of the horizon; upright; plumb.", "S": ["perpendicular ", "steep "], "A": ["horizontal ", "level "]}
+{"index": 358876, "D": "being in a position or direction perpendicular to the plane of the horizon; upright; plumb.", "S": ["perpendicular", "steep"], "A": ["horizontal", "level"]}

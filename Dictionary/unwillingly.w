@@ -1,1 +1,1 @@
-{"index": 354246, "D": "not willing; reluctant; loath; averse", "S": ["grudgingly ", "involuntarily ", "obstinately ", "protestingly ", "refractorily ", "resentfully ", "stubbornly "], "A": []}
+{"index": 354246, "D": "not willing; reluctant; loath; averse", "S": ["grudgingly", "involuntarily", "obstinately", "protestingly", "refractorily", "resentfully", "stubbornly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 256974, "D": "the principles and practices of the Puritans. ", "S": ["prudishness ", "strictness "], "A": []}
+{"index": 256974, "D": "the principles and practices of the Puritans. ", "S": ["prudishness", "strictness"], "A": []}

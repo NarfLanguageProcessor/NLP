@@ -1,1 +1,1 @@
-{"index": 153802, "D": "to fill with an animating, quickening, or exalting influence", "S": ["encouraging ", "exciting ", "exhilarating ", "heartening ", "inspirational ", "moving ", "stirring ", "uplifting "], "A": ["boring ", "unexciting "]}
+{"index": 153802, "D": "to fill with an animating, quickening, or exalting influence", "S": ["encouraging", "exciting", "exhilarating", "heartening", "inspirational", "moving", "stirring", "uplifting"], "A": ["boring", "unexciting"]}

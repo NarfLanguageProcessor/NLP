@@ -1,1 +1,1 @@
-{"index": 339442, "D": "to mark with a line or lines underneath; underscore.", "S": ["impression ", "imprint ", "line ", "point ", "record ", "scar ", "score ", "signature ", "spot ", "stain ", "stamp ", "streak ", "symbol "], "A": ["blank "]}
+{"index": 339442, "D": "to mark with a line or lines underneath; underscore.", "S": ["impression", "imprint", "line", "point", "record", "scar", "score", "signature", "spot", "stain", "stamp", "streak", "symbol"], "A": ["blank"]}

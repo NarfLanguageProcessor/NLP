@@ -1,1 +1,1 @@
-{"index": 281273, "D": "the record of points or strokes made by the competitors in a game or match.", "S": ["flag ", "gravestone ", "indicator ", "pole ", "stone ", "tombstone "], "A": []}
+{"index": 281273, "D": "the record of points or strokes made by the competitors in a game or match.", "S": ["flag", "gravestone", "indicator", "pole", "stone", "tombstone"], "A": []}

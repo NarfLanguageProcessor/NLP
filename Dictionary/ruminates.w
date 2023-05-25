@@ -1,1 +1,1 @@
-{"index": 275537, "D": "to chew the cud, as a ruminant. ", "S": ["brainstorm ", "brood ", "meditate ", "ponder "], "A": ["ignore ", "neglect ", "discard ", "disregard ", "forget "]}
+{"index": 275537, "D": "to chew the cud, as a ruminant. ", "S": ["brainstorm", "brood", "meditate", "ponder"], "A": ["ignore", "neglect", "discard", "disregard", "forget"]}

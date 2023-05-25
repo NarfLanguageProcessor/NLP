@@ -1,1 +1,1 @@
-{"index": 14911, "D": "predicted, foreseen, or expected", "S": ["foreseen "], "A": []}
+{"index": 14911, "D": "predicted, foreseen, or expected", "S": ["foreseen"], "A": []}

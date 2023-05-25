@@ -1,1 +1,1 @@
-{"index": 144269, "D": "a manager or owner of a hotel or inn.", "S": ["property owner ", "proprietor "], "A": ["boarder ", "renter "]}
+{"index": 144269, "D": "a manager or owner of a hotel or inn.", "S": ["property owner", "proprietor"], "A": ["boarder", "renter"]}

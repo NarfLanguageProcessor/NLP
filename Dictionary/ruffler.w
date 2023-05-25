@@ -1,1 +1,1 @@
-{"index": 275375, "D": "a person or thing that ruffles", "S": ["blowhard ", "blusterer ", "bouncer ", "braggadocio ", "egotist ", "vaunter "], "A": []}
+{"index": 275375, "D": "a person or thing that ruffles", "S": ["blowhard", "blusterer", "bouncer", "braggadocio", "egotist", "vaunter"], "A": []}

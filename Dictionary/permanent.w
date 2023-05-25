@@ -1,1 +1,1 @@
-{"index": 231571, "D": "existing perpetually; everlasting, especially without significant change.", "S": ["durable ", "enduring ", "long-lasting ", "perpetual ", "stable "], "A": ["temporary ", "changing "]}
+{"index": 231571, "D": "existing perpetually; everlasting, especially without significant change.", "S": ["durable", "enduring", "long-lasting", "perpetual", "stable"], "A": ["temporary", "changing"]}

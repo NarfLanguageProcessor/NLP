@@ -1,1 +1,1 @@
-{"index": 142891, "D": "spun  or made at home", "S": ["byword ", "common speech ", "homespun ", "plain English ", "vernacular "], "A": []}
+{"index": 142891, "D": "spun  or made at home", "S": ["byword", "common speech", "homespun", "plain English", "vernacular"], "A": []}

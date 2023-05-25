@@ -1,1 +1,1 @@
-{"index": 84823, "D": "to divide or separate into two parts, kinds, etc.", "S": ["double ", "mated "], "A": []}
+{"index": 84823, "D": "to divide or separate into two parts, kinds, etc.", "S": ["double", "mated"], "A": []}

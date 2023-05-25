@@ -1,1 +1,1 @@
-{"index": 231621, "D": "allowed or tolerated", "S": ["acceptable ", "allowable ", "allowed ", "approved ", "authorized ", "licensed ", "sanctioned "], "A": ["denied ", "prohibited ", "refused ", "unacceptable "]}
+{"index": 231621, "D": "allowed or tolerated", "S": ["acceptable", "allowable", "allowed", "approved", "authorized", "licensed", "sanctioned"], "A": ["denied", "prohibited", "refused", "unacceptable"]}

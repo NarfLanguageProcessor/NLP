@@ -1,1 +1,1 @@
-{"index": 260263, "D": [], "S": ["avenue ", "course ", "direction ", "itinerary ", "journey ", "line ", "passage ", "road ", "track ", "trail ", "way "], "A": []}
+{"index": 260263, "D": [], "S": ["avenue", "course", "direction", "itinerary", "journey", "line", "passage", "road", "track", "trail", "way"], "A": []}

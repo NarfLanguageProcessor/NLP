@@ -1,1 +1,1 @@
-{"index": 369436, "D": "a ductile, bluish-white metallic element", "S": ["gold ", "iron ", "metal ", "mineral ", "platinum "], "A": []}
+{"index": 369436, "D": "a ductile, bluish-white metallic element", "S": ["gold", "iron", "metal", "mineral", "platinum"], "A": []}

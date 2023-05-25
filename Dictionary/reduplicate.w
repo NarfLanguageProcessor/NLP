@@ -1,1 +1,1 @@
-{"index": 264504, "D": "to double; repeat.", "S": ["imitate ", "paint ", "photocopy ", "plagiarize ", "repeat ", "replicate ", "reproduce ", "rewrite ", "simulate ", "transcribe "], "A": []}
+{"index": 264504, "D": "to double; repeat.", "S": ["imitate", "paint", "photocopy", "plagiarize", "repeat", "replicate", "reproduce", "rewrite", "simulate", "transcribe"], "A": []}

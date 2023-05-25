@@ -1,1 +1,1 @@
-{"index": 77722, "D": "a discussion, as of a public question in an assembly, involving opposing viewpoints", "S": ["argued ", "challenged ", "impugned ", "questioned "], "A": []}
+{"index": 77722, "D": "a discussion, as of a public question in an assembly, involving opposing viewpoints", "S": ["argued", "challenged", "impugned", "questioned"], "A": []}

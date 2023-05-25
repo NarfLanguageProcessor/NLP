@@ -1,1 +1,0 @@
-{"index": 235834, "D": "of, relating to, or resembling pitch.", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}

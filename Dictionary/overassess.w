@@ -1,1 +1,1 @@
-{"index": 218255, "D": "to estimate officially the value of (property, income, etc.) as a basis for taxation.", "S": ["exaggerate ", "magnify ", "overestimate ", "oversell ", "overvalue "], "A": ["play down "]}
+{"index": 218255, "D": "to estimate officially the value of (property, income, etc.) as a basis for taxation.", "S": ["exaggerate", "magnify", "overestimate", "oversell", "overvalue"], "A": ["play down"]}

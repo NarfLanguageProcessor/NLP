@@ -1,1 +1,1 @@
-{"index": 15140, "D": "a medicine or other remedy for counteracting the effects of poison, disease, etc.", "S": ["corrective ", "countermeasure ", "cure ", "remedy "], "A": ["disease "]}
+{"index": 15140, "D": "a medicine or other remedy for counteracting the effects of poison, disease, etc.", "S": ["corrective", "countermeasure", "cure", "remedy"], "A": ["disease"]}

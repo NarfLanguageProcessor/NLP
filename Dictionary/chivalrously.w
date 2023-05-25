@@ -1,1 +1,1 @@
-{"index": 54952, "D": "having the qualities of chivalry,  as courage, courtesy, and loyalty.", "S": ["boldly ", "fearlessly ", "gallantly ", "gamely ", "heroically ", "valiantly "], "A": ["fearfully ", "timidly "]}
+{"index": 54952, "D": "having the qualities of chivalry,  as courage, courtesy, and loyalty.", "S": ["boldly", "fearlessly", "gallantly", "gamely", "heroically", "valiantly"], "A": ["fearfully", "timidly"]}

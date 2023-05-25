@@ -1,1 +1,1 @@
-{"index": 30630, "D": "to ask for as a gift, as charity, or as a favor", "S": ["craving ", "imploring "], "A": []}
+{"index": 30630, "D": "to ask for as a gift, as charity, or as a favor", "S": ["craving", "imploring"], "A": []}

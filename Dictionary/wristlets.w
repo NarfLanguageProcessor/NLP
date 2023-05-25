@@ -1,1 +1,1 @@
-{"index": 368031, "D": "a band worn around the wrist,  especially to protect it from cold.", "S": ["bracelets ", "braces ", "chains ", "clamps ", "cuffs ", "fetters ", "shackles ", "snaps "], "A": []}
+{"index": 368031, "D": "a band worn around the wrist,  especially to protect it from cold.", "S": ["bracelets", "braces", "chains", "clamps", "cuffs", "fetters", "shackles", "snaps"], "A": []}

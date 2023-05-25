@@ -1,1 +1,1 @@
-{"index": 59595, "D": "having claws  (sometimes used in combination)", "S": ["fingernail ", "paw ", "tentacle "], "A": []}
+{"index": 59595, "D": "having claws  (sometimes used in combination)", "S": ["fingernail", "paw", "tentacle"], "A": []}

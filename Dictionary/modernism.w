@@ -1,1 +1,1 @@
-{"index": 191097, "D": "modern character, tendencies, or values; adherence to or sympathy with what is modern.", "S": ["modernization "], "A": ["stagnation "]}
+{"index": 191097, "D": "modern character, tendencies, or values; adherence to or sympathy with what is modern.", "S": ["modernization"], "A": ["stagnation"]}

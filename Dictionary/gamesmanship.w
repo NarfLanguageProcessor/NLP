@@ -1,1 +1,1 @@
-{"index": 121694, "D": "the use of methods, especially in a sports contest, that are dubious or seemingly improper but not strictly illegal.", "S": ["artfulness ", "competition ", "cunning ", "cutthroat "], "A": []}
+{"index": 121694, "D": "the use of methods, especially in a sports contest, that are dubious or seemingly improper but not strictly illegal.", "S": ["artfulness", "competition", "cunning", "cutthroat"], "A": []}

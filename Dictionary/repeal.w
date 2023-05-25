@@ -1,1 +1,1 @@
-{"index": 268070, "D": "to revoke or withdraw formally or officially", "S": ["abolition ", "abrogation ", "annulment ", "nullification ", "revocation ", "withdrawal "], "A": ["approval ", "enactment ", "passage ", "sanction ", "validation "]}
+{"index": 268070, "D": "to revoke or withdraw formally or officially", "S": ["abolition", "abrogation", "annulment", "nullification", "revocation", "withdrawal"], "A": ["approval", "enactment", "passage", "sanction", "validation"]}

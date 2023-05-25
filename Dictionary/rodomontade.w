@@ -1,1 +1,1 @@
-{"index": 273775, "D": "vainglorious boasting or bragging; pretentious, blustering talk.", "S": ["bluster ", "boast ", "bombast ", "braggart ", "grandiloquence ", "pretension ", "pride ", "rant "], "A": ["humility ", "modesty "]}
+{"index": 273775, "D": "vainglorious boasting or bragging; pretentious, blustering talk.", "S": ["bluster", "boast", "bombast", "braggart", "grandiloquence", "pretension", "pride", "rant"], "A": ["humility", "modesty"]}

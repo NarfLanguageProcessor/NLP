@@ -1,1 +1,1 @@
-{"index": 44995, "D": "the act of heating.", "S": ["fever ", "hot weather ", "warmth "], "A": ["chill "]}
+{"index": 44995, "D": "the act of heating.", "S": ["fever", "hot weather", "warmth"], "A": ["chill"]}

@@ -1,1 +1,1 @@
-{"index": 229821, "D": "hanging, as the nests of certain birds.", "S": ["beetling ", "dangly ", "drooping ", "fastened to ", "jutting ", "overhanging ", "pendent ", "pendulous ", "projecting ", "suspended ", "swaying ", "swinging "], "A": []}
+{"index": 229821, "D": "hanging, as the nests of certain birds.", "S": ["beetling", "dangly", "drooping", "fastened to", "jutting", "overhanging", "pendent", "pendulous", "projecting", "suspended", "swaying", "swinging"], "A": []}

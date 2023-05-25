@@ -1,1 +1,1 @@
-{"index": 169808, "D": "unrestrained or excessive indulgence of sexual desire.", "S": ["carnality ", "debauchery ", "lasciviousness ", "licentiousness ", "lust ", "lustfulness ", "salaciousness ", "wantonness "], "A": []}
+{"index": 169808, "D": "unrestrained or excessive indulgence of sexual desire.", "S": ["carnality", "debauchery", "lasciviousness", "licentiousness", "lust", "lustfulness", "salaciousness", "wantonness"], "A": []}

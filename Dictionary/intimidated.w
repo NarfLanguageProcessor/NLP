@@ -1,1 +1,1 @@
-{"index": 156312, "D": "made afraid; frightened, especially by the threats or aggression of another", "S": ["browbeaten ", "bullied ", "cowed ", "daunted ", "terrified "], "A": []}
+{"index": 156312, "D": "made afraid; frightened, especially by the threats or aggression of another", "S": ["browbeaten", "bullied", "cowed", "daunted", "terrified"], "A": []}

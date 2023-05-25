@@ -1,1 +1,1 @@
-{"index": 36161, "D": "blather. ", "S": ["buzz ", "chatter ", "chitchat ", "conversation ", "hearsay ", "news ", "scandal ", "slander ", "tale "], "A": ["quiet ", "silence "]}
+{"index": 36161, "D": "blather. ", "S": ["buzz", "chatter", "chitchat", "conversation", "hearsay", "news", "scandal", "slander", "tale"], "A": ["quiet", "silence"]}

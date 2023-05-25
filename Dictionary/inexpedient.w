@@ -1,1 +1,1 @@
-{"index": 151699, "D": "not expedient;  not suitable, judicious, or advisable.", "S": ["detrimental ", "impolitic ", "imprudent ", "inadvisable ", "injudicious ", "inopportune ", "unwise "], "A": ["expedient "]}
+{"index": 151699, "D": "not expedient;  not suitable, judicious, or advisable.", "S": ["detrimental", "impolitic", "imprudent", "inadvisable", "injudicious", "inopportune", "unwise"], "A": ["expedient"]}

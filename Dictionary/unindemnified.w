@@ -1,1 +1,1 @@
-{"index": 344443, "D": "to compensate for damage or loss sustained, expense incurred, etc.", "S": ["contributed ", "donated ", "due ", "freewilled ", "gratuitous ", "honorary ", "unrecompensed ", "unremunerated ", "unrewarded ", "unsalaried ", "voluntary ", "volunteer "], "A": []}
+{"index": 344443, "D": "to compensate for damage or loss sustained, expense incurred, etc.", "S": ["contributed", "donated", "due", "freewilled", "gratuitous", "honorary", "unrecompensed", "unremunerated", "unrewarded", "unsalaried", "voluntary", "volunteer"], "A": []}

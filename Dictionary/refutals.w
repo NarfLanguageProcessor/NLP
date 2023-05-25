@@ -1,1 +1,1 @@
-{"index": 265479, "D": "an act of refuting  a statement, charge, etc.; disproof.", "S": ["disapproval ", "rebuttal ", "rejection ", "repudiation ", "retraction ", "veto "], "A": ["allowance ", "approval ", "confirmation ", "ratification ", "sanction ", "agreement ", "permission "]}
+{"index": 265479, "D": "an act of refuting  a statement, charge, etc.; disproof.", "S": ["disapproval", "rebuttal", "rejection", "repudiation", "retraction", "veto"], "A": ["allowance", "approval", "confirmation", "ratification", "sanction", "agreement", "permission"]}

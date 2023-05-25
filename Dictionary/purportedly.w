@@ -1,1 +1,1 @@
-{"index": 257036, "D": "according to what is or has been claimed, reputed, or asserted; allegedly", "S": ["supposedly "], "A": []}
+{"index": 257036, "D": "according to what is or has been claimed, reputed, or asserted; allegedly", "S": ["supposedly"], "A": []}

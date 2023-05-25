@@ -1,1 +1,1 @@
-{"index": 250167, "D": "the act of preventing;  effectual hindrance.", "S": ["avoidance "], "A": ["aid ", "assistance ", "clearance ", "continuation ", "go ", "help ", "promotion ", "start ", "support "]}
+{"index": 250167, "D": "the act of preventing;  effectual hindrance.", "S": ["avoidance"], "A": ["aid", "assistance", "clearance", "continuation", "go", "help", "promotion", "start", "support"]}

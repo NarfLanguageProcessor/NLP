@@ -1,1 +1,1 @@
-{"index": 63323, "D": "runs, trills, and other florid decorations in vocal music.", "S": ["singer "], "A": []}
+{"index": 63323, "D": "runs, trills, and other florid decorations in vocal music.", "S": ["singer"], "A": []}

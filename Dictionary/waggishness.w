@@ -1,1 +1,0 @@
-{"index": 361849, "D": "like a wag; roguish in merriment and good humor; jocular", "S": ["antics ", "friskiness ", "frolicsomeness ", "gaiety ", "impishness ", "jauntiness ", "lightheartedness ", "liveliness ", "merrymaking ", "mirth ", "spiritedness ", "sportiveness ", "vivacity "], "A": ["sadness ", "unhappiness "]}

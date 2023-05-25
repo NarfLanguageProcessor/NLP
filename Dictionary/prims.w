@@ -1,1 +1,1 @@
-{"index": 250597, "D": "formally precise or proper, as persons or behavior; stiffly neat.", "S": ["dress up ", "fix up ", "primp ", "tidy "], "A": ["dirty ", "mess up "]}
+{"index": 250597, "D": "formally precise or proper, as persons or behavior; stiffly neat.", "S": ["dress up", "fix up", "primp", "tidy"], "A": ["dirty", "mess up"]}

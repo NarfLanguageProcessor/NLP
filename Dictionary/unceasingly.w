@@ -1,1 +1,1 @@
-{"index": 336620, "D": "without stopping; continuously", "S": ["consistently ", "constantly ", "ever ", "invariably ", "regularly ", "repeatedly "], "A": ["at no time ", "never "]}
+{"index": 336620, "D": "without stopping; continuously", "S": ["consistently", "constantly", "ever", "invariably", "regularly", "repeatedly"], "A": ["at no time", "never"]}

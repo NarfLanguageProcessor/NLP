@@ -1,1 +1,1 @@
-{"index": 93596, "D": "being in a temporary state in which one's physical and mental faculties are impaired by an excess of alcohol; intoxicated", "S": ["alcoholic ", "boozer ", "carouser ", "dipsomaniac ", "drinker ", "guzzler ", "inebriate ", "lush ", "sot ", "sponge ", "wino "], "A": []}
+{"index": 93596, "D": "being in a temporary state in which one's physical and mental faculties are impaired by an excess of alcohol; intoxicated", "S": ["alcoholic", "boozer", "carouser", "dipsomaniac", "drinker", "guzzler", "inebriate", "lush", "sot", "sponge", "wino"], "A": []}

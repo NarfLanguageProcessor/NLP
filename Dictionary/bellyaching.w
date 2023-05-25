@@ -1,1 +1,1 @@
-{"index": 31167, "D": "a pain in the abdomen or bowels.", "S": ["caviling ", "criticizing ", "disparaging ", "griping ", "grousing ", "grumbling ", "kvetching ", "moaning ", "nagging ", "niggling ", "quibbling ", "whining "], "A": ["complimentary ", "forgiving "]}
+{"index": 31167, "D": "a pain in the abdomen or bowels.", "S": ["caviling", "criticizing", "disparaging", "griping", "grousing", "grumbling", "kvetching", "moaning", "nagging", "niggling", "quibbling", "whining"], "A": ["complimentary", "forgiving"]}

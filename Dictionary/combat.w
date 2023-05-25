@@ -1,1 +1,1 @@
-{"index": 63620, "D": "to fight or contend against; oppose vigorously", "S": ["action ", "conflict ", "contest ", "encounter ", "engagement ", "fight ", "fray ", "shootout ", "skirmish ", "struggle ", "war ", "warfare "], "A": ["agreement ", "calm ", "harmony ", "peace ", "surrender "]}
+{"index": 63620, "D": "to fight or contend against; oppose vigorously", "S": ["action", "conflict", "contest", "encounter", "engagement", "fight", "fray", "shootout", "skirmish", "struggle", "war", "warfare"], "A": ["agreement", "calm", "harmony", "peace", "surrender"]}

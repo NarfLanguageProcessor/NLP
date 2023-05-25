@@ -1,1 +1,1 @@
-{"index": 120358, "D": "forked; branching.", "S": ["angled ", "bifurcate ", "bifurcated ", "branched ", "branching ", "divaricate ", "divided ", "split ", "tined ", "zigzag "], "A": ["joined "]}
+{"index": 120358, "D": "forked; branching.", "S": ["angled", "bifurcate", "bifurcated", "branched", "branching", "divaricate", "divided", "split", "tined", "zigzag"], "A": ["joined"]}

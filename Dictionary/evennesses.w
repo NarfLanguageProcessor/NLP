@@ -1,1 +1,1 @@
-{"index": 106106, "D": "level; flat; smooth;  without surface irregularities", "S": ["equality ", "likeness ", "regularity ", "uniformity "], "A": ["difference ", "dissimilarity "]}
+{"index": 106106, "D": "level; flat; smooth;  without surface irregularities", "S": ["equality", "likeness", "regularity", "uniformity"], "A": ["difference", "dissimilarity"]}

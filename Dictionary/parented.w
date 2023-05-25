@@ -1,1 +1,1 @@
-{"index": 226379, "D": "a father or a mother.", "S": ["cause ", "compose ", "form ", "generate ", "manufacture ", "prepare ", "produce "], "A": ["break ", "destroy ", "neglect ", "ruin ", "demolish ", "derange ", "disarrange ", "dismantle ", "disorder ", "disorganize ", "raze "]}
+{"index": 226379, "D": "a father or a mother.", "S": ["cause", "compose", "form", "generate", "manufacture", "prepare", "produce"], "A": ["break", "destroy", "neglect", "ruin", "demolish", "derange", "disarrange", "dismantle", "disorder", "disorganize", "raze"]}

@@ -1,1 +1,1 @@
-{"index": 285712, "D": "pertaining to or of the nature of sepsis;  infected.", "S": ["fevered ", "infected ", "irritated ", "sore ", "swollen "], "A": []}
+{"index": 285712, "D": "pertaining to or of the nature of sepsis;  infected.", "S": ["fevered", "infected", "irritated", "sore", "swollen"], "A": []}

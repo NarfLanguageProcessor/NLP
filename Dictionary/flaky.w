@@ -1,1 +1,1 @@
-{"index": 113825, "D": "of or like flakes. ", "S": ["crazy ", "eccentric ", "goofy ", "nutty ", "odd ", "unconventional ", "wacky ", "whacky "], "A": ["sane "]}
+{"index": 113825, "D": "of or like flakes. ", "S": ["crazy", "eccentric", "goofy", "nutty", "odd", "unconventional", "wacky", "whacky"], "A": ["sane"]}

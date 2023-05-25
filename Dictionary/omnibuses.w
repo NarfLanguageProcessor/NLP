@@ -1,1 +1,1 @@
-{"index": 212479, "D": "bus1 (def. 1). ", "S": ["anthology ", "vehicle ", "whole "], "A": []}
+{"index": 212479, "D": "bus1 (def. 1). ", "S": ["anthology", "vehicle", "whole"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 193008, "D": "money. ", "S": ["cash "], "A": []}
+{"index": 193008, "D": "money. ", "S": ["cash"], "A": []}

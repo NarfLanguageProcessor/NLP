@@ -1,1 +1,1 @@
-{"index": 124117, "D": "any of numerous plants of the genus Geranium, which comprises the crane's-bills.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}
+{"index": 124117, "D": "any of numerous plants of the genus Geranium, which comprises the crane's-bills.", "S": ["cardinal", "coral", "crimson", "flaming", "glowing", "maroon", "rose", "wine"], "A": []}

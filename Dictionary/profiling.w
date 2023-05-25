@@ -1,1 +1,1 @@
-{"index": 251759, "D": "the use of personal characteristics or behavior patterns to make generalizations about a person, as in gender profiling.", "S": ["mark ", "paint ", "write "], "A": []}
+{"index": 251759, "D": "the use of personal characteristics or behavior patterns to make generalizations about a person, as in gender profiling.", "S": ["mark", "paint", "write"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 115364, "D": "simple past tense and past participle of fling. ", "S": ["launched ", "pitched ", "propelled ", "tossed "], "A": []}
+{"index": 115364, "D": "simple past tense and past participle of fling. ", "S": ["launched", "pitched", "propelled", "tossed"], "A": []}

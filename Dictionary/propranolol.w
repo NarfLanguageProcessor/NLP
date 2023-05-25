@@ -1,1 +1,0 @@
-{"index": 252827, "D": "a beta-blocking drug, C16H21NO2, used in the treatment of hypertension, angina pectoris, and cardiac arrhythmias.", "S": [], "A": []}

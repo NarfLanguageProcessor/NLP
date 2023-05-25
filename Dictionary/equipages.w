@@ -1,1 +1,1 @@
-{"index": 103323, "D": "a carriage.", "S": ["equipment ", "gear ", "materiel ", "outfit "], "A": []}
+{"index": 103323, "D": "a carriage.", "S": ["equipment", "gear", "materiel", "outfit"], "A": []}

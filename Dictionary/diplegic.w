@@ -1,1 +1,1 @@
-{"index": 86503, "D": "paralysis of the identical part on both sides of the body.", "S": ["disabled ", "lame ", "paraplegic ", "quadriplegic "], "A": ["able "]}
+{"index": 86503, "D": "paralysis of the identical part on both sides of the body.", "S": ["disabled", "lame", "paraplegic", "quadriplegic"], "A": ["able"]}

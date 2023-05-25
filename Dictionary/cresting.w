@@ -1,1 +1,1 @@
-{"index": 72785, "D": "a decorative coping, balustrade, etc., usually designed to give an interesting skyline.", "S": ["climax ", "crest ", "culminate "], "A": ["fall ", "hit bottom ", "plunge "]}
+{"index": 72785, "D": "a decorative coping, balustrade, etc., usually designed to give an interesting skyline.", "S": ["climax", "crest", "culminate"], "A": ["fall", "hit bottom", "plunge"]}

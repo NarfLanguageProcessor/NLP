@@ -1,1 +1,1 @@
-{"index": 311978, "D": "Compare expressway. ", "S": ["artery ", "expressway ", "freeway ", "pathway ", "roadway ", "subway ", "thoroughfare ", "turnpike ", "viaduct "], "A": []}
+{"index": 311978, "D": "Compare expressway. ", "S": ["artery", "expressway", "freeway", "pathway", "roadway", "subway", "thoroughfare", "turnpike", "viaduct"], "A": []}

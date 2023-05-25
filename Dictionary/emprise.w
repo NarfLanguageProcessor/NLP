@@ -1,1 +1,1 @@
-{"index": 98888, "D": "an adventurous enterprise.", "S": ["endeavor ", "enterprise ", "feat ", "quest ", "undertaking ", "venture "], "A": []}
+{"index": 98888, "D": "an adventurous enterprise.", "S": ["endeavor", "enterprise", "feat", "quest", "undertaking", "venture"], "A": []}

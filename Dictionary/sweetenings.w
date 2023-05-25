@@ -1,1 +1,1 @@
-{"index": 314288, "D": "something that sweetens  food, beverages, etc., as sugar, saccharine, etc.", "S": ["blackmail ", "compensation ", "gift ", "graft ", "gratuity ", "hush money ", "incentive ", "inducement ", "kickback ", "perk ", "reward "], "A": ["hindrance ", "loss ", "penalty "]}
+{"index": 314288, "D": "something that sweetens  food, beverages, etc., as sugar, saccharine, etc.", "S": ["blackmail", "compensation", "gift", "graft", "gratuity", "hush money", "incentive", "inducement", "kickback", "perk", "reward"], "A": ["hindrance", "loss", "penalty"]}

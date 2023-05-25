@@ -1,1 +1,1 @@
-{"index": 151050, "D": "in a roundabout way; not by the shortest or straightest path", "S": ["circumlocutorily ", "diffusely ", "discursively ", "in a roundabout way ", "not immediately ", "periphrastically ", "secondhand "], "A": ["directly ", "immediately ", "primarily "]}
+{"index": 151050, "D": "in a roundabout way; not by the shortest or straightest path", "S": ["circumlocutorily", "diffusely", "discursively", "in a roundabout way", "not immediately", "periphrastically", "secondhand"], "A": ["directly", "immediately", "primarily"]}

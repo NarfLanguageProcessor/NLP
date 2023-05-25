@@ -1,1 +1,1 @@
-{"index": 219061, "D": "an act or instance of overdrawing  a checking account.", "S": ["default ", "disaster ", "failure ", "insolvency ", "liquidation ", "loss "], "A": ["accomplishment ", "achievement ", "success ", "win "]}
+{"index": 219061, "D": "an act or instance of overdrawing  a checking account.", "S": ["default", "disaster", "failure", "insolvency", "liquidation", "loss"], "A": ["accomplishment", "achievement", "success", "win"]}

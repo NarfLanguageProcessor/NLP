@@ -1,1 +1,1 @@
-{"index": 261822, "D": "a standard quantity of paper, consisting of 20 quires or 500 sheets (formerly 480 sheets), or 516 sheets (printer's ream,  or perfect ream ).", "S": ["gobs ", "heap ", "loads ", "lot ", "million ", "pile ", "scads ", "trillion ", "wad "], "A": []}
+{"index": 261822, "D": "a standard quantity of paper, consisting of 20 quires or 500 sheets (formerly 480 sheets), or 516 sheets (printer's ream,  or perfect ream ).", "S": ["gobs", "heap", "loads", "lot", "million", "pile", "scads", "trillion", "wad"], "A": []}

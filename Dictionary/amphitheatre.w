@@ -1,1 +1,1 @@
-{"index": 11238, "D": "a building, usually circular or oval, in which tiers of seats rise from a central open arena, as in those of ancient Rome", "S": ["field ", "gym ", "gymnasium ", "park ", "ring ", "rink ", "square ", "stadium ", "stage "], "A": []}
+{"index": 11238, "D": "a building, usually circular or oval, in which tiers of seats rise from a central open arena, as in those of ancient Rome", "S": ["field", "gym", "gymnasium", "park", "ring", "rink", "square", "stadium", "stage"], "A": []}

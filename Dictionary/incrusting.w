@@ -1,1 +1,1 @@
-{"index": 150510, "D": "to cover or line with a crust or hard coating.", "S": ["cover ", "glaze ", "laminate ", "paint ", "smear ", "stain "], "A": ["strip "]}
+{"index": 150510, "D": "to cover or line with a crust or hard coating.", "S": ["cover", "glaze", "laminate", "paint", "smear", "stain"], "A": ["strip"]}

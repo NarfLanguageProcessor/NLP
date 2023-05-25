@@ -1,1 +1,1 @@
-{"index": 309665, "D": "pertaining to, inhabiting, or being in a suburb or the suburbs of a city or town.", "S": ["rural "], "A": ["cosmopolitan ", "metropolitan ", "urban "]}
+{"index": 309665, "D": "pertaining to, inhabiting, or being in a suburb or the suburbs of a city or town.", "S": ["rural"], "A": ["cosmopolitan", "metropolitan", "urban"]}

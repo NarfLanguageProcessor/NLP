@@ -1,1 +1,1 @@
-{"index": 37863, "D": "a person or thing that bones. ", "S": ["blooper ", "blunder ", "boo-boo ", "bungle ", "error ", "flub ", "gaffe ", "miscalculation ", "miscue ", "misstep ", "muddle ", "muff ", "oversight ", "snafu ", "whoops "], "A": ["accuracy ", "correction ", "success "]}
+{"index": 37863, "D": "a person or thing that bones. ", "S": ["blooper", "blunder", "boo-boo", "bungle", "error", "flub", "gaffe", "miscalculation", "miscue", "misstep", "muddle", "muff", "oversight", "snafu", "whoops"], "A": ["accuracy", "correction", "success"]}

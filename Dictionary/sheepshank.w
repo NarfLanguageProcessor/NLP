@@ -1,1 +1,0 @@
-{"index": 287837, "D": "a kind of knot, hitch, or bend made on a rope to shorten it temporarily.", "S": [], "A": []}

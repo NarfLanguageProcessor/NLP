@@ -1,1 +1,1 @@
-{"index": 259314, "D": "racetrack. ", "S": ["course ", "court ", "golf course ", "green ", "park ", "range ", "stadium ", "terrain ", "track ", "turf "], "A": []}
+{"index": 259314, "D": "racetrack. ", "S": ["course", "court", "golf course", "green", "park", "range", "stadium", "terrain", "track", "turf"], "A": []}

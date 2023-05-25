@@ -1,1 +1,1 @@
-{"index": 161715, "D": "a party or celebration", "S": ["cheer ", "festivity ", "frolic ", "fun ", "gaiety ", "glee ", "hilarity ", "jocundity ", "joviality ", "merriment ", "merrymaking ", "mirth ", "revel ", "revelry ", "whoopee "], "A": ["depression ", "gloom ", "sadness ", "unhappiness "]}
+{"index": 161715, "D": "a party or celebration", "S": ["cheer", "festivity", "frolic", "fun", "gaiety", "glee", "hilarity", "jocundity", "joviality", "merriment", "merrymaking", "mirth", "revel", "revelry", "whoopee"], "A": ["depression", "gloom", "sadness", "unhappiness"]}

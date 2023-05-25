@@ -1,1 +1,1 @@
-{"index": 175023, "D": "longwise. ", "S": ["diagonal "], "A": ["head-on ", "lengthwise ", "longways "]}
+{"index": 175023, "D": "longwise. ", "S": ["diagonal"], "A": ["head-on", "lengthwise", "longways"]}

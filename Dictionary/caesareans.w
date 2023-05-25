@@ -1,1 +1,1 @@
-{"index": 44440, "D": "pertaining to Caesar  or the Caesars", "S": ["C-section ", "Cesarean section ", "abdominal delivery ", "caesarian ", "cesarean ", "surgical birth ", "surgical delivery "], "A": []}
+{"index": 44440, "D": "pertaining to Caesar  or the Caesars", "S": ["C-section", "Cesarean section", "abdominal delivery", "caesarian", "cesarean", "surgical birth", "surgical delivery"], "A": []}

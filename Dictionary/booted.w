@@ -1,1 +1,1 @@
-{"index": 38226, "D": "equipped with or wearing boots. ", "S": ["footwear "], "A": []}
+{"index": 38226, "D": "equipped with or wearing boots. ", "S": ["footwear"], "A": []}

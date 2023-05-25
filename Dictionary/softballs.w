@@ -1,1 +1,0 @@
-{"index": 296346, "D": "a form of baseball played on a smaller diamond with a ball  that is larger and softer  than a baseball. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 323464, "D": [], "S": ["contraction "], "A": ["broadening ", "enlargement ", "opening "]}
+{"index": 323464, "D": [], "S": ["contraction"], "A": ["broadening", "enlargement", "opening"]}

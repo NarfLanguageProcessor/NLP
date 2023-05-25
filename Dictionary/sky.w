@@ -1,1 +1,1 @@
-{"index": 293055, "D": "the region of the clouds or the upper air; the upper atmosphere of the earth", "S": ["azure ", "empyrean ", "firmament ", "heavens ", "lid ", "vault ", "welkin "], "A": ["earth ", "ocean "]}
+{"index": 293055, "D": "the region of the clouds or the upper air; the upper atmosphere of the earth", "S": ["azure", "empyrean", "firmament", "heavens", "lid", "vault", "welkin"], "A": ["earth", "ocean"]}

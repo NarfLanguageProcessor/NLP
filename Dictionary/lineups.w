@@ -1,1 +1,1 @@
-{"index": 172808, "D": "a particular order or disposition of persons or things as arranged or drawn up for action, inspection, etc.", "S": ["rank ", "structure ", "system "], "A": ["disarrangement ", "disorder ", "disorganization "]}
+{"index": 172808, "D": "a particular order or disposition of persons or things as arranged or drawn up for action, inspection, etc.", "S": ["rank", "structure", "system"], "A": ["disarrangement", "disorder", "disorganization"]}

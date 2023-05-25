@@ -1,1 +1,1 @@
-{"index": 294282, "D": "to let saliva or liquid run from the mouth; slaver; drivel.", "S": ["dribble ", "drip ", "drivel ", "froth ", "salivate ", "slabber ", "slaver "], "A": ["pour "]}
+{"index": 294282, "D": "to let saliva or liquid run from the mouth; slaver; drivel.", "S": ["dribble", "drip", "drivel", "froth", "salivate", "slabber", "slaver"], "A": ["pour"]}

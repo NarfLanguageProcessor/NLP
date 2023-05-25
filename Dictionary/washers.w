@@ -1,1 +1,1 @@
-{"index": 362896, "D": "a person or thing that washes. ", "S": ["accent ", "briar ", "circle ", "cut ", "halo ", "knob ", "notch ", "ring ", "sticker ", "washer ", "whetstone "], "A": []}
+{"index": 362896, "D": "a person or thing that washes. ", "S": ["accent", "briar", "circle", "cut", "halo", "knob", "notch", "ring", "sticker", "washer", "whetstone"], "A": []}

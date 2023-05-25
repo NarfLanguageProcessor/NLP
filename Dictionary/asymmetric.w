@@ -1,1 +1,1 @@
-{"index": 21242, "D": "not identical on both sides of a central line; unsymmetrical; lacking symmetry", "S": ["asymmetrical "], "A": []}
+{"index": 21242, "D": "not identical on both sides of a central line; unsymmetrical; lacking symmetry", "S": ["asymmetrical"], "A": []}

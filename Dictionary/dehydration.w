@@ -1,1 +1,1 @@
-{"index": 79684, "D": "the act or process of dehydrating. ", "S": ["lack ", "scarcity "], "A": ["abundance ", "excess ", "surplus ", "plenty ", "sufficiency "]}
+{"index": 79684, "D": "the act or process of dehydrating. ", "S": ["lack", "scarcity"], "A": ["abundance", "excess", "surplus", "plenty", "sufficiency"]}

@@ -1,1 +1,1 @@
-{"index": 59400, "D": "the principles or styles characteristic of the literature and art of ancient Greece and Rome.", "S": ["grandeur "], "A": ["bad manners ", "crudeness ", "disproportion ", "imbalance ", "unevenness "]}
+{"index": 59400, "D": "the principles or styles characteristic of the literature and art of ancient Greece and Rome.", "S": ["grandeur"], "A": ["bad manners", "crudeness", "disproportion", "imbalance", "unevenness"]}

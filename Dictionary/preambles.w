@@ -1,1 +1,1 @@
-{"index": 245687, "D": "an introductory statement; preface; introduction. ", "S": ["preface "], "A": []}
+{"index": 245687, "D": "an introductory statement; preface; introduction. ", "S": ["preface"], "A": []}

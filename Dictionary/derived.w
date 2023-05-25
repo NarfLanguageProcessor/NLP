@@ -1,1 +1,1 @@
-{"index": 82111, "D": "received, obtained, or arising from a particular source or in a particular way", "S": ["borrowed ", "copied "], "A": []}
+{"index": 82111, "D": "received, obtained, or arising from a particular source or in a particular way", "S": ["borrowed", "copied"], "A": []}

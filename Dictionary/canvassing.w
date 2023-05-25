@@ -1,1 +1,1 @@
-{"index": 46729, "D": "the act or process of soliciting votes, subscriptions, opinions, etc., especially from individuals", "S": ["polling ", "voting "], "A": []}
+{"index": 46729, "D": "the act or process of soliciting votes, subscriptions, opinions, etc., especially from individuals", "S": ["polling", "voting"], "A": []}

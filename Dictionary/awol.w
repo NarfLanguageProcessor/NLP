@@ -1,1 +1,1 @@
-{"index": 25059, "D": "away from military duties without permission, but without the intention of deserting.", "S": ["away ", "missing ", "removed ", "vanished "], "A": ["attending ", "existing ", "present ", "sufficient "]}
+{"index": 25059, "D": "away from military duties without permission, but without the intention of deserting.", "S": ["away", "missing", "removed", "vanished"], "A": ["attending", "existing", "present", "sufficient"]}

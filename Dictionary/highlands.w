@@ -1,1 +1,1 @@
-{"index": 139277, "D": "a mountainous region in N Scotland, N of the Grampians.", "S": ["bluff ", "cliff ", "dune ", "hilltop ", "promontory ", "ridge "], "A": ["decline ", "depression "]}
+{"index": 139277, "D": "a mountainous region in N Scotland, N of the Grampians.", "S": ["bluff", "cliff", "dune", "hilltop", "promontory", "ridge"], "A": ["decline", "depression"]}

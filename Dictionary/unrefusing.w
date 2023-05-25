@@ -1,1 +1,0 @@
-{"index": 349332, "D": "to decline to accept (something offered)", "S": [], "A": []}

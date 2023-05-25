@@ -1,1 +1,1 @@
-{"index": 195897, "D": "of or relating to muscle  or the muscles", "S": ["athletic ", "brawny ", "burly ", "powerful ", "robust ", "sinewy ", "stout ", "strapping ", "sturdy ", "vigorous ", "wiry "], "A": ["impotent ", "skinny ", "slight ", "small ", "thin ", "weak "]}
+{"index": 195897, "D": "of or relating to muscle  or the muscles", "S": ["athletic", "brawny", "burly", "powerful", "robust", "sinewy", "stout", "strapping", "sturdy", "vigorous", "wiry"], "A": ["impotent", "skinny", "slight", "small", "thin", "weak"]}

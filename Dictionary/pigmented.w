@@ -1,1 +1,1 @@
-{"index": 236421, "D": [], "S": ["bistered ", "brown ", "dusky ", "swart ", "swarthy ", "tanned ", "tawny "], "A": ["blond/blonde "]}
+{"index": 236421, "D": [], "S": ["bistered", "brown", "dusky", "swart", "swarthy", "tanned", "tawny"], "A": ["blond/blonde"]}

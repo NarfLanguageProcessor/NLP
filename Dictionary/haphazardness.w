@@ -1,1 +1,1 @@
-{"index": 133452, "D": "characterized by lack of order or planning, by irregularity, or by randomness; determined by or dependent on chance; aimless.", "S": ["inattention ", "neglect ", "negligence ", "nonchalance ", "sloppiness "], "A": ["caution "]}
+{"index": 133452, "D": "characterized by lack of order or planning, by irregularity, or by randomness; determined by or dependent on chance; aimless.", "S": ["inattention", "neglect", "negligence", "nonchalance", "sloppiness"], "A": ["caution"]}

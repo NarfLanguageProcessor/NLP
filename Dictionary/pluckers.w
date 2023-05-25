@@ -1,1 +1,0 @@
-{"index": 240325, "D": "to pull off or out from the place of growth, as fruit, flowers, feathers, etc.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 331660, "D": "the members that form a truss. ", "S": ["bracket ", "prop ", "reinforcement ", "support ", "supporter "], "A": []}
+{"index": 331660, "D": "the members that form a truss. ", "S": ["bracket", "prop", "reinforcement", "support", "supporter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150795, "D": "a deed or agreement executed in two or more copies with edges correspondingly indented  as a means of identification.", "S": ["arrangement ", "compact ", "contract ", "deed "], "A": ["disagreement "]}
+{"index": 150795, "D": "a deed or agreement executed in two or more copies with edges correspondingly indented  as a means of identification.", "S": ["arrangement", "compact", "contract", "deed"], "A": ["disagreement"]}

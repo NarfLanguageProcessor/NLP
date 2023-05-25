@@ -1,1 +1,1 @@
-{"index": 59771, "D": "to close (the hands, teeth, etc.) tightly.", "S": ["clamp ", "clasp ", "clutch "], "A": ["let go ", "unfasten ", "expand ", "release "]}
+{"index": 59771, "D": "to close (the hands, teeth, etc.) tightly.", "S": ["clamp", "clasp", "clutch"], "A": ["let go", "unfasten", "expand", "release"]}

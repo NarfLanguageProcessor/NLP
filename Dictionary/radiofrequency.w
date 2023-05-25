@@ -1,1 +1,1 @@
-{"index": 259667, "D": "the frequency  of the transmitting waves of a given radio message or broadcast.", "S": ["high frequency "], "A": []}
+{"index": 259667, "D": "the frequency  of the transmitting waves of a given radio message or broadcast.", "S": ["high frequency"], "A": []}

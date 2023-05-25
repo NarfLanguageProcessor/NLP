@@ -1,1 +1,1 @@
-{"index": 309972, "D": "an expression of disappointment", "S": ["absorb ", "drink ", "inhale "], "A": []}
+{"index": 309972, "D": "an expression of disappointment", "S": ["absorb", "drink", "inhale"], "A": []}

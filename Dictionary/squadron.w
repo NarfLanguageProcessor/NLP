@@ -1,1 +1,1 @@
-{"index": 301611, "D": "a portion of a naval fleet or a detachment of warships; a subdivision of a fleet.", "S": ["armada ", "battalion ", "fleet ", "squad "], "A": []}
+{"index": 301611, "D": "a portion of a naval fleet or a detachment of warships; a subdivision of a fleet.", "S": ["armada", "battalion", "fleet", "squad"], "A": []}

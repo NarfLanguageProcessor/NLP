@@ -1,1 +1,1 @@
-{"index": 274621, "D": "the act of rotating; a turning around as on an axis.", "S": ["whirling "], "A": []}
+{"index": 274621, "D": "the act of rotating; a turning around as on an axis.", "S": ["whirling"], "A": []}

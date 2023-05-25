@@ -1,1 +1,1 @@
-{"index": 42644, "D": "nonsense, lies, or exaggeration.", "S": ["bull ", "crap "], "A": ["truth "]}
+{"index": 42644, "D": "nonsense, lies, or exaggeration.", "S": ["bull", "crap"], "A": ["truth"]}

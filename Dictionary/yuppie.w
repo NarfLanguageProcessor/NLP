@@ -1,1 +1,1 @@
-{"index": 159694, "D": "a young, ambitious, and well-educated city-dweller who has a professional career and an affluent lifestyle.", "S": ["clone ", "suit "], "A": []}
+{"index": 159694, "D": "a young, ambitious, and well-educated city-dweller who has a professional career and an affluent lifestyle.", "S": ["clone", "suit"], "A": []}

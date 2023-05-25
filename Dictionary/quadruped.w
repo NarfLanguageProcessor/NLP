@@ -1,1 +1,1 @@
-{"index": 257714, "D": "four-footed. ", "S": ["animal ", "creature ", "wild animal "], "A": []}
+{"index": 257714, "D": "four-footed. ", "S": ["animal", "creature", "wild animal"], "A": []}

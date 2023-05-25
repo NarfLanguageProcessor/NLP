@@ -1,1 +1,1 @@
-{"index": 119870, "D": "the support, or point of rest, on which a lever turns in moving a body.", "S": ["blueprint ", "clue ", "code ", "core ", "guide ", "indicator ", "means ", "passport ", "password ", "sign ", "ticket "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 119870, "D": "the support, or point of rest, on which a lever turns in moving a body.", "S": ["blueprint", "clue", "code", "core", "guide", "indicator", "means", "passport", "password", "sign", "ticket"], "A": ["exterior", "exteriority", "outside"]}

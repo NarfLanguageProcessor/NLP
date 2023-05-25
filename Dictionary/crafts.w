@@ -1,1 +1,1 @@
-{"index": 71904, "D": "an art, trade, or occupation requiring special skill, especially manual skill", "S": ["art ", "technique "], "A": ["clumsiness ", "ignorance ", "inability ", "inadequacy ", "incapacity ", "incompetence ", "ineptitude ", "ineptness ", "lack ", "stupidity ", "want "]}
+{"index": 71904, "D": "an art, trade, or occupation requiring special skill, especially manual skill", "S": ["art", "technique"], "A": ["clumsiness", "ignorance", "inability", "inadequacy", "incapacity", "incompetence", "ineptitude", "ineptness", "lack", "stupidity", "want"]}

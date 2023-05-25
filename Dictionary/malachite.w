@@ -1,1 +1,1 @@
-{"index": 178156, "D": "a green mineral, basic copper carbonate, Cu2CO3(OH)2, an ore of copper, used for making ornamental articles.", "S": ["blue-green ", "olive "], "A": []}
+{"index": 178156, "D": "a green mineral, basic copper carbonate, Cu2CO3(OH)2, an ore of copper, used for making ornamental articles.", "S": ["blue-green", "olive"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5534, "D": "an ardent devotee; fan, enthusiast.", "S": ["energumen", "extremists", "fanatical group", "fanaticos", "fanatics", "nuts", "nympholepts", "zealots"], "A": []}

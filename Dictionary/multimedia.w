@@ -1,1 +1,1 @@
-{"index": 195185, "D": "the combined use of several media,  as sound and full-motion video in computer applications.", "S": ["interactive media ", "intermedia ", "mixed media "], "A": []}
+{"index": 195185, "D": "the combined use of several media,  as sound and full-motion video in computer applications.", "S": ["interactive media", "intermedia", "mixed media"], "A": []}

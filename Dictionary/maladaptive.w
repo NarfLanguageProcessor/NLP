@@ -1,1 +1,1 @@
-{"index": 178196, "D": "of, relating to, or characterized by maladaptation  or incomplete, inadequate, or faulty adaptation", "S": ["maladjusted "], "A": ["adaptive ", "adjusting ", "flexible ", "robust "]}
+{"index": 178196, "D": "of, relating to, or characterized by maladaptation  or incomplete, inadequate, or faulty adaptation", "S": ["maladjusted"], "A": ["adaptive", "adjusting", "flexible", "robust"]}

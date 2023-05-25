@@ -1,1 +1,1 @@
-{"index": 255249, "D": [], "S": ["mental ", "metaphysical ", "psychological ", "spiritual ", "supernatural "], "A": ["body ", "physical ", "real "]}
+{"index": 255249, "D": [], "S": ["mental", "metaphysical", "psychological", "spiritual", "supernatural"], "A": ["body", "physical", "real"]}

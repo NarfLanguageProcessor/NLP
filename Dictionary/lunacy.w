@@ -1,1 +1,1 @@
-{"index": 176155, "D": "insanity; mental disorder.", "S": ["absurdity ", "folly ", "foolishness ", "idiocy ", "insanity ", "mania ", "silliness ", "stupidity "], "A": ["intelligence ", "judgment ", "sense ", "seriousness ", "wisdom "]}
+{"index": 176155, "D": "insanity; mental disorder.", "S": ["absurdity", "folly", "foolishness", "idiocy", "insanity", "mania", "silliness", "stupidity"], "A": ["intelligence", "judgment", "sense", "seriousness", "wisdom"]}

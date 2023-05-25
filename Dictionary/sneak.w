@@ -1,1 +1,1 @@
-{"index": 295389, "D": "to go in a stealthy or furtive manner; slink; skulk.", "S": ["cheater ", "coward ", "cur ", "dastard ", "heel ", "informer ", "louse ", "rascal ", "reptile ", "scoundrel ", "skunk ", "slink ", "snake ", "toad ", "weasel ", "wretch "], "A": []}
+{"index": 295389, "D": "to go in a stealthy or furtive manner; slink; skulk.", "S": ["cheater", "coward", "cur", "dastard", "heel", "informer", "louse", "rascal", "reptile", "scoundrel", "skunk", "slink", "snake", "toad", "weasel", "wretch"], "A": []}

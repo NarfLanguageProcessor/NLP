@@ -1,1 +1,1 @@
-{"index": 85453, "D": "displaying a readout in numerical digits rather than by a pointer or hands on a dial", "S": ["CPU ", "PC ", "abacus ", "analog ", "brain ", "calculator ", "clone ", "laptop ", "mac ", "mainframe ", "microcomputer ", "mini ", "minicomputer "], "A": []}
+{"index": 85453, "D": "displaying a readout in numerical digits rather than by a pointer or hands on a dial", "S": ["CPU", "PC", "abacus", "analog", "brain", "calculator", "clone", "laptop", "mac", "mainframe", "microcomputer", "mini", "minicomputer"], "A": []}

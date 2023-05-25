@@ -1,1 +1,1 @@
-{"index": 72286, "D": "to long for; want greatly; desire eagerly", "S": ["desired ", "needed ", "wanted "], "A": ["disliked ", "found ", "hated ", "located ", "remembered ", "unwanted "]}
+{"index": 72286, "D": "to long for; want greatly; desire eagerly", "S": ["desired", "needed", "wanted"], "A": ["disliked", "found", "hated", "located", "remembered", "unwanted"]}

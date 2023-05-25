@@ -1,1 +1,1 @@
-{"index": 292618, "D": "the position or location of a town, building, etc., especially as to its environment", "S": ["ground ", "home ", "location ", "scene ", "section ", "spot ", "station "], "A": ["unemployment "]}
+{"index": 292618, "D": "the position or location of a town, building, etc., especially as to its environment", "S": ["ground", "home", "location", "scene", "section", "spot", "station"], "A": ["unemployment"]}

@@ -1,1 +1,1 @@
-{"index": 170885, "D": "the capacity to cause great harm, destruction, or death", "S": ["accident ", "casualty ", "deadliness ", "destructiveness ", "disaster ", "dying ", "inevitability ", "mortality ", "necrosis ", "noxiousness ", "virulence "], "A": []}
+{"index": 170885, "D": "the capacity to cause great harm, destruction, or death", "S": ["accident", "casualty", "deadliness", "destructiveness", "disaster", "dying", "inevitability", "mortality", "necrosis", "noxiousness", "virulence"], "A": []}

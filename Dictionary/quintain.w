@@ -1,1 +1,1 @@
-{"index": 258878, "D": "an object mounted on a post or attached to a movable crossbar mounted on a post, used as a target in the medieval sport of tilting.", "S": ["center ", "dead center ", "omphalos "], "A": []}
+{"index": 258878, "D": "an object mounted on a post or attached to a movable crossbar mounted on a post, used as a target in the medieval sport of tilting.", "S": ["center", "dead center", "omphalos"], "A": []}

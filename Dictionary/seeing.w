@@ -1,1 +1,1 @@
-{"index": 283110, "D": "in view of the fact that; considering; inasmuch as.", "S": ["alert ", "awake ", "inspecting ", "looking ", "noticing ", "perceiving ", "regarding ", "surveying ", "viewing ", "witnessing "], "A": ["asleep "]}
+{"index": 283110, "D": "in view of the fact that; considering; inasmuch as.", "S": ["alert", "awake", "inspecting", "looking", "noticing", "perceiving", "regarding", "surveying", "viewing", "witnessing"], "A": ["asleep"]}

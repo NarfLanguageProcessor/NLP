@@ -1,1 +1,1 @@
-{"index": 345384, "D": "done or made with difficulty; heavy", "S": ["easy ", "genuine ", "instinctive ", "real ", "simple "], "A": ["complex ", "complicated ", "difficult ", "dishonest ", "false ", "intricate ", "cultured ", "metropolitan ", "modern ", "sophisticated "]}
+{"index": 345384, "D": "done or made with difficulty; heavy", "S": ["easy", "genuine", "instinctive", "real", "simple"], "A": ["complex", "complicated", "difficult", "dishonest", "false", "intricate", "cultured", "metropolitan", "modern", "sophisticated"]}

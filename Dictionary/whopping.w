@@ -1,1 +1,1 @@
-{"index": 365350, "D": "very large of its kind; thumping", "S": ["colossal ", "massive "], "A": ["small ", "tiny "]}
+{"index": 365350, "D": "very large of its kind; thumping", "S": ["colossal", "massive"], "A": ["small", "tiny"]}

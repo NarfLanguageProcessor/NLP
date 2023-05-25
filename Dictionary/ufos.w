@@ -1,1 +1,1 @@
-{"index": 333636, "D": "Compare UAP, flying saucer. ", "S": ["rocket ", "spaceship "], "A": []}
+{"index": 333636, "D": "Compare UAP, flying saucer. ", "S": ["rocket", "spaceship"], "A": []}

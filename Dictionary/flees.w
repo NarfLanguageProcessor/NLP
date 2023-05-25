@@ -1,1 +1,1 @@
-{"index": 114379, "D": "to run away, as from danger or pursuers; take flight. ", "S": ["depart ", "desert ", "fly ", "get ", "jump ", "leave ", "retreat ", "take off ", "vanish "], "A": ["arrive ", "come ", "continue ", "face ", "stay ", "dawdle ", "join ", "meet ", "take on ", "wait "]}
+{"index": 114379, "D": "to run away, as from danger or pursuers; take flight. ", "S": ["depart", "desert", "fly", "get", "jump", "leave", "retreat", "take off", "vanish"], "A": ["arrive", "come", "continue", "face", "stay", "dawdle", "join", "meet", "take on", "wait"]}

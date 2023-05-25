@@ -1,1 +1,0 @@
-{"index": 307342, "D": "of spongy or porous structure, as bone.", "S": [], "A": []}

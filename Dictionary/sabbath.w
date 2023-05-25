@@ -1,1 +1,1 @@
-{"index": 276012, "D": "the seventh day of the week, Saturday, as the day of rest and religious observance among Jews and some Christians. Exodus 20", "S": ["day off ", "rest day "], "A": []}
+{"index": 276012, "D": "the seventh day of the week, Saturday, as the day of rest and religious observance among Jews and some Christians. Exodus 20", "S": ["day off", "rest day"], "A": []}

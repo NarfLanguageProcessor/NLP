@@ -1,1 +1,1 @@
-{"index": 236061, "D": "a movie.", "S": ["image ", "likeness ", "photo ", "picture ", "portrait ", "print ", "snapshot "], "A": []}
+{"index": 236061, "D": "a movie.", "S": ["image", "likeness", "photo", "picture", "portrait", "print", "snapshot"], "A": []}

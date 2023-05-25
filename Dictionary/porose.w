@@ -1,1 +1,1 @@
-{"index": 243498, "D": [], "S": ["absorptive ", "accessible ", "enterable ", "passable ", "pervious ", "porous ", "spongelike ", "spongy "], "A": []}
+{"index": 243498, "D": [], "S": ["absorptive", "accessible", "enterable", "passable", "pervious", "porous", "spongelike", "spongy"], "A": []}

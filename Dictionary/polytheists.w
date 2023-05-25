@@ -1,1 +1,1 @@
-{"index": 242529, "D": "the doctrine of or belief in more than one god or in many gods.", "S": ["agnostic ", "atheist "], "A": ["believer "]}
+{"index": 242529, "D": "the doctrine of or belief in more than one god or in many gods.", "S": ["agnostic", "atheist"], "A": ["believer"]}

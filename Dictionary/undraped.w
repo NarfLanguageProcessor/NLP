@@ -1,1 +1,1 @@
-{"index": 340813, "D": "to strip of drapery; uncover.", "S": ["bare ", "defenseless ", "exposed ", "helpless ", "nude "], "A": ["clothed ", "covered "]}
+{"index": 340813, "D": "to strip of drapery; uncover.", "S": ["bare", "defenseless", "exposed", "helpless", "nude"], "A": ["clothed", "covered"]}

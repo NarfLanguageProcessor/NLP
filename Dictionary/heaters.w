@@ -1,1 +1,1 @@
-{"index": 134930, "D": "any of various apparatus for heating,  especially for heating  water or the air in a room.", "S": ["boiler ", "fastball ", "furnace ", "oven ", "radiator ", "stove "], "A": []}
+{"index": 134930, "D": "any of various apparatus for heating,  especially for heating  water or the air in a room.", "S": ["boiler", "fastball", "furnace", "oven", "radiator", "stove"], "A": []}

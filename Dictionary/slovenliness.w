@@ -1,1 +1,1 @@
-{"index": 294443, "D": "the state or quality of being untidy or unclean in appearance or habits; the character of a slob", "S": ["disorganization ", "messiness ", "sloppiness ", "untidiness "], "A": []}
+{"index": 294443, "D": "the state or quality of being untidy or unclean in appearance or habits; the character of a slob", "S": ["disorganization", "messiness", "sloppiness", "untidiness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 205856, "D": "failure or neglect to perform.", "S": ["evasion ", "negligence "], "A": []}
+{"index": 205856, "D": "failure or neglect to perform.", "S": ["evasion", "negligence"], "A": []}

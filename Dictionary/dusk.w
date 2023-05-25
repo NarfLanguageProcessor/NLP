@@ -1,1 +1,1 @@
-{"index": 94504, "D": "the state or period of partial darkness between day and night; the dark part of twilight.", "S": ["nightfall ", "sundown ", "sunset ", "twilight "], "A": ["daybreak ", "sunrise ", "brightness ", "day ", "light "]}
+{"index": 94504, "D": "the state or period of partial darkness between day and night; the dark part of twilight.", "S": ["nightfall", "sundown", "sunset", "twilight"], "A": ["daybreak", "sunrise", "brightness", "day", "light"]}

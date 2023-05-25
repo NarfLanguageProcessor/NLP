@@ -1,1 +1,1 @@
-{"index": 93491, "D": "a person who does menial, distasteful, dull, or hard work.", "S": ["factotum ", "grind ", "laborer ", "menial ", "peon ", "plodder ", "servant ", "toiler ", "workaholic ", "worker ", "workhorse "], "A": ["idler ", "lazy person "]}
+{"index": 93491, "D": "a person who does menial, distasteful, dull, or hard work.", "S": ["factotum", "grind", "laborer", "menial", "peon", "plodder", "servant", "toiler", "workaholic", "worker", "workhorse"], "A": ["idler", "lazy person"]}

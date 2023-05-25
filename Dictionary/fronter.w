@@ -1,1 +1,1 @@
-{"index": 119345, "D": "a person who belongs to a group or organization, especially a political one, that is or is presumed to be a cover or disguise for another activity", "S": ["frontal "], "A": ["inferior ", "last "]}
+{"index": 119345, "D": "a person who belongs to a group or organization, especially a political one, that is or is presumed to be a cover or disguise for another activity", "S": ["frontal"], "A": ["inferior", "last"]}

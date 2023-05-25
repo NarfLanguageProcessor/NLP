@@ -1,1 +1,1 @@
-{"index": 305418, "D": "a narrative, either true or fictitious, in prose or verse, designed to interest, amuse, or instruct the hearer or reader; tale.", "S": ["belief ", "legend ", "lore ", "tradition "], "A": ["actuality ", "history ", "reality ", "truth "]}
+{"index": 305418, "D": "a narrative, either true or fictitious, in prose or verse, designed to interest, amuse, or instruct the hearer or reader; tale.", "S": ["belief", "legend", "lore", "tradition"], "A": ["actuality", "history", "reality", "truth"]}

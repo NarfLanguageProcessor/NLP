@@ -1,1 +1,1 @@
-{"index": 112857, "D": "the deciding part or parts of a sports or other competition", "S": ["analysis ", "approval ", "assessment ", "attempt ", "check ", "evaluation ", "experiment ", "final ", "inquiry ", "inspection ", "investigation ", "search ", "standard ", "trial "], "A": ["conclusion "]}
+{"index": 112857, "D": "the deciding part or parts of a sports or other competition", "S": ["analysis", "approval", "assessment", "attempt", "check", "evaluation", "experiment", "final", "inquiry", "inspection", "investigation", "search", "standard", "trial"], "A": ["conclusion"]}

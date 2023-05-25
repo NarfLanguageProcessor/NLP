@@ -1,1 +1,1 @@
-{"index": 267470, "D": "far apart; far distant in space; situated at some distance away", "S": ["at the end ", "farthest ", "furthest ", "hindermost ", "hindmost ", "last ", "lattermost ", "rearmost ", "tailing "], "A": []}
+{"index": 267470, "D": "far apart; far distant in space; situated at some distance away", "S": ["at the end", "farthest", "furthest", "hindermost", "hindmost", "last", "lattermost", "rearmost", "tailing"], "A": []}

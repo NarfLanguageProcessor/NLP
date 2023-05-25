@@ -1,1 +1,1 @@
-{"index": 46326, "D": "the act of providing chairs or the like with seats made of woven cane. ", "S": ["whipping "], "A": []}
+{"index": 46326, "D": "the act of providing chairs or the like with seats made of woven cane. ", "S": ["whipping"], "A": []}

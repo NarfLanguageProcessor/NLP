@@ -1,1 +1,1 @@
-{"index": 19299, "D": "any particular extent of space or surface; part", "S": ["field ", "operation ", "range ", "space "], "A": []}
+{"index": 19299, "D": "any particular extent of space or surface; part", "S": ["field", "operation", "range", "space"], "A": []}

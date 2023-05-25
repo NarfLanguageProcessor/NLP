@@ -1,1 +1,1 @@
-{"index": 137947, "D": "a six-pointed starlike figure formed of two equilateral triangles placed concentrically with each side of a triangle parallel to a side of the other and on opposite sides of the center.", "S": ["hexad ", "hexagon ", "semester ", "sextet ", "sextuplet "], "A": []}
+{"index": 137947, "D": "a six-pointed starlike figure formed of two equilateral triangles placed concentrically with each side of a triangle parallel to a side of the other and on opposite sides of the center.", "S": ["hexad", "hexagon", "semester", "sextet", "sextuplet"], "A": []}

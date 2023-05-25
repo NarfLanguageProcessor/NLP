@@ -1,1 +1,1 @@
-{"index": 189796, "D": "to put in a wrong place. ", "S": ["confuse ", "disorganize ", "disturb ", "unsettle "], "A": ["compose ", "order ", "organize "]}
+{"index": 189796, "D": "to put in a wrong place. ", "S": ["confuse", "disorganize", "disturb", "unsettle"], "A": ["compose", "order", "organize"]}

@@ -1,1 +1,1 @@
-{"index": 177126, "D": "spotted; stained.", "S": ["besmirch ", "contaminate ", "debase ", "degrade ", "muddy ", "pollute ", "smear ", "smudge ", "sully ", "taint ", "tar ", "tarnish "], "A": ["clean ", "elevate ", "honor ", "laud ", "purify ", "upgrade ", "respect ", "sterilize "]}
+{"index": 177126, "D": "spotted; stained.", "S": ["besmirch", "contaminate", "debase", "degrade", "muddy", "pollute", "smear", "smudge", "sully", "taint", "tar", "tarnish"], "A": ["clean", "elevate", "honor", "laud", "purify", "upgrade", "respect", "sterilize"]}

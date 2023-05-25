@@ -1,1 +1,0 @@
-{"index": 256333, "D": "the removal of all the pulp  tissue in a tooth in the course of endodontic therapy.", "S": [], "A": []}

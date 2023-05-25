@@ -1,1 +1,1 @@
-{"index": 362100, "D": "turned or turning away from what is right or proper; willful; disobedient", "S": ["capricious ", "delinquent ", "errant ", "erratic ", "headstrong ", "rebellious ", "recalcitrant ", "unruly "], "A": ["compliant ", "dependable ", "obedient ", "steady "]}
+{"index": 362100, "D": "turned or turning away from what is right or proper; willful; disobedient", "S": ["capricious", "delinquent", "errant", "erratic", "headstrong", "rebellious", "recalcitrant", "unruly"], "A": ["compliant", "dependable", "obedient", "steady"]}

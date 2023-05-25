@@ -1,1 +1,0 @@
-{"index": 213832, "D": "an optimistic  person.", "S": ["dreamer ", "idealist "], "A": []}

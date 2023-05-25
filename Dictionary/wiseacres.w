@@ -1,1 +1,1 @@
-{"index": 366421, "D": "a person who possesses or affects to possess great wisdom.", "S": ["smart aleck ", "wise guy "], "A": []}
+{"index": 366421, "D": "a person who possesses or affects to possess great wisdom.", "S": ["smart aleck", "wise guy"], "A": []}

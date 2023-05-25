@@ -1,1 +1,1 @@
-{"index": 262067, "D": "the act of assessing;  appraisal; evaluation.", "S": ["analysis ", "audit ", "check ", "inspection ", "report ", "revision ", "scrutiny ", "survey "], "A": ["ignorance ", "neglect "]}
+{"index": 262067, "D": "the act of assessing;  appraisal; evaluation.", "S": ["analysis", "audit", "check", "inspection", "report", "revision", "scrutiny", "survey"], "A": ["ignorance", "neglect"]}

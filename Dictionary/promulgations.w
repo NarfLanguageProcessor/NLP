@@ -1,1 +1,1 @@
-{"index": 252367, "D": "the act of making a law or decree known, or formally putting it into effect, by public declaration", "S": ["dissemination ", "proclamation "], "A": ["concealment ", "quiet ", "secret ", "suppression "]}
+{"index": 252367, "D": "the act of making a law or decree known, or formally putting it into effect, by public declaration", "S": ["dissemination", "proclamation"], "A": ["concealment", "quiet", "secret", "suppression"]}

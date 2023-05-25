@@ -1,1 +1,1 @@
-{"index": 51094, "D": "headache (def. 1). ", "S": ["megrim "], "A": []}
+{"index": 51094, "D": "headache (def. 1). ", "S": ["megrim"], "A": []}

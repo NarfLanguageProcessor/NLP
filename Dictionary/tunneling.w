@@ -1,1 +1,1 @@
-{"index": 332471, "D": " See  quantum tunneling.", "S": ["channel ", "hole ", "mine ", "pit ", "shaft ", "subway ", "underpass "], "A": []}
+{"index": 332471, "D": " See  quantum tunneling.", "S": ["channel", "hole", "mine", "pit", "shaft", "subway", "underpass"], "A": []}

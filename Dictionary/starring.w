@@ -1,1 +1,1 @@
-{"index": 302944, "D": "featured or celebrated as a star in a movie, on a sports team, etc.", "S": ["displaying ", "headlining ", "highlighting ", "presenting ", "promoting ", "pushing ", "recommending ", "showing ", "turning "], "A": []}
+{"index": 302944, "D": "featured or celebrated as a star in a movie, on a sports team, etc.", "S": ["displaying", "headlining", "highlighting", "presenting", "promoting", "pushing", "recommending", "showing", "turning"], "A": []}

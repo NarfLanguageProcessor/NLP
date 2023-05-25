@@ -1,1 +1,1 @@
-{"index": 280493, "D": "a companion or associate at school. ", "S": ["acquaintance ", "chum ", "classmate ", "comrade "], "A": ["enemy "]}
+{"index": 280493, "D": "a companion or associate at school. ", "S": ["acquaintance", "chum", "classmate", "comrade"], "A": ["enemy"]}

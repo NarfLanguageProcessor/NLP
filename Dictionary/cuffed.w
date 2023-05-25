@@ -1,1 +1,1 @@
-{"index": 74634, "D": "a fold or band serving as a trimming or finish for the bottom of a sleeve.", "S": ["bat ", "belt ", "biff ", "box ", "buffet ", "clap ", "clobber ", "clout ", "hit ", "knock ", "pummel ", "punch ", "slap ", "smack ", "spank ", "thump ", "whack "], "A": []}
+{"index": 74634, "D": "a fold or band serving as a trimming or finish for the bottom of a sleeve.", "S": ["bat", "belt", "biff", "box", "buffet", "clap", "clobber", "clout", "hit", "knock", "pummel", "punch", "slap", "smack", "spank", "thump", "whack"], "A": []}

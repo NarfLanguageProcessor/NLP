@@ -1,1 +1,1 @@
-{"index": 9813, "D": "of or like the amaranth. ", "S": ["ceaseless ", "continual ", "continuous ", "deathless ", "eternal ", "everlasting ", "immortal ", "infinite ", "never-ending ", "perpetual ", "undying ", "unending ", "unfading "], "A": []}
+{"index": 9813, "D": "of or like the amaranth. ", "S": ["ceaseless", "continual", "continuous", "deathless", "eternal", "everlasting", "immortal", "infinite", "never-ending", "perpetual", "undying", "unending", "unfading"], "A": []}

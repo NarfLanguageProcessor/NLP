@@ -1,1 +1,1 @@
-{"index": 36948, "D": "a room  set aside for meetings of a board,  as of a corporation.", "S": ["meeting room "], "A": []}
+{"index": 36948, "D": "a room  set aside for meetings of a board,  as of a corporation.", "S": ["meeting room"], "A": []}

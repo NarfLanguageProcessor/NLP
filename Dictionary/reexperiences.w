@@ -1,1 +1,1 @@
-{"index": 264879, "D": "a particular instance of personally encountering or undergoing something", "S": ["reclaim ", "recover ", "retake ", "take back "], "A": ["forget "]}
+{"index": 264879, "D": "a particular instance of personally encountering or undergoing something", "S": ["reclaim", "recover", "retake", "take back"], "A": ["forget"]}

@@ -1,0 +1,1 @@
+{"index": 24006, "D": "a service feature whereby a telephone call is automatically made in response to a brief input signal from the user, as the pressing of a button", "S": [], "A": []}

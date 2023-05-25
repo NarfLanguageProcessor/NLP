@@ -1,1 +1,1 @@
-{"index": 175214, "D": "heavier, larger, or more developed on one side than on the other; unevenly balanced; unsymmetrical.", "S": ["imbalance ", "inequality "], "A": []}
+{"index": 175214, "D": "heavier, larger, or more developed on one side than on the other; unevenly balanced; unsymmetrical.", "S": ["imbalance", "inequality"], "A": []}

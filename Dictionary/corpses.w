@@ -1,1 +1,1 @@
-{"index": 69558, "D": "a dead body, usually of a human being.", "S": ["band ", "body ", "contingent ", "crew ", "detachment ", "division ", "squad ", "squadron ", "troop ", "troupe ", "unit "], "A": ["connection ", "whole ", "individual "]}
+{"index": 69558, "D": "a dead body, usually of a human being.", "S": ["band", "body", "contingent", "crew", "detachment", "division", "squad", "squadron", "troop", "troupe", "unit"], "A": ["connection", "whole", "individual"]}

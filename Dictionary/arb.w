@@ -1,1 +1,1 @@
-{"index": 18491, "D": "an arbitrager.", "S": ["anti-sway bar ", "roll bar ", "stabilizer bar ", "sway bar "], "A": []}
+{"index": 18491, "D": "an arbitrager.", "S": ["anti-sway bar", "roll bar", "stabilizer bar", "sway bar"], "A": []}

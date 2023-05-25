@@ -1,1 +1,1 @@
-{"index": 63654, "D": "the act of combining or the state of being combined.", "S": ["combo ", "consolidation ", "merger ", "mix ", "sequence ", "solution "], "A": ["division ", "parting ", "separation ", "disconnection "]}
+{"index": 63654, "D": "the act of combining or the state of being combined.", "S": ["combo", "consolidation", "merger", "mix", "sequence", "solution"], "A": ["division", "parting", "separation", "disconnection"]}

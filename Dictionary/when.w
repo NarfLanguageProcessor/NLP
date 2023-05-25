@@ -1,1 +1,1 @@
-{"index": 364633, "D": "at what time or period? how long ago? how soon?", "S": ["albeit ", "although ", "at ", "at the same time ", "during ", "howbeit ", "immediately upon ", "just after ", "just as ", "meanwhile ", "much as ", "whereas ", "while "], "A": []}
+{"index": 364633, "D": "at what time or period? how long ago? how soon?", "S": ["albeit", "although", "at", "at the same time", "during", "howbeit", "immediately upon", "just after", "just as", "meanwhile", "much as", "whereas", "while"], "A": []}

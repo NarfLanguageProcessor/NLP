@@ -1,1 +1,0 @@
-{"index": 206844, "D": "withdrawn from or no longer occupied with one's business or profession", "S": [], "A": []}

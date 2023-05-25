@@ -1,1 +1,1 @@
-{"index": 260889, "D": "the state or quality of acting or tending to act hastily or without due consideration", "S": ["carelessness ", "foolhardiness ", "haste ", "hastiness ", "heedlessness ", "indiscretion "], "A": []}
+{"index": 260889, "D": "the state or quality of acting or tending to act hastily or without due consideration", "S": ["carelessness", "foolhardiness", "haste", "hastiness", "heedlessness", "indiscretion"], "A": []}

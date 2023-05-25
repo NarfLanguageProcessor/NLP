@@ -1,1 +1,1 @@
-{"index": 74265, "D": "an earthen pot, bottle, etc., for liquids.", "S": ["leg ", "meat ", "shin ", "stalk ", "stem "], "A": []}
+{"index": 74265, "D": "an earthen pot, bottle, etc., for liquids.", "S": ["leg", "meat", "shin", "stalk", "stem"], "A": []}

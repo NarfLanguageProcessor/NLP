@@ -1,1 +1,1 @@
-{"index": 7255, "D": "cheerful readiness, promptness, or willingness", "S": ["accelerated ", "brisk ", "expeditious ", "hasty ", "hurried ", "immediate ", "prompt ", "rapid ", "swift "], "A": ["delayed ", "leisurely ", "slow ", "sluggish "]}
+{"index": 7255, "D": "cheerful readiness, promptness, or willingness", "S": ["accelerated", "brisk", "expeditious", "hasty", "hurried", "immediate", "prompt", "rapid", "swift"], "A": ["delayed", "leisurely", "slow", "sluggish"]}

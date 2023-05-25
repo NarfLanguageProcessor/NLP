@@ -1,1 +1,1 @@
-{"index": 252266, "D": "characterized by or involving indiscriminate mingling or association, especially having sexual relations with a number of partners on a casual basis.", "S": ["immoral ", "profligate ", "wanton "], "A": ["careful ", "good ", "moral ", "nice "]}
+{"index": 252266, "D": "characterized by or involving indiscriminate mingling or association, especially having sexual relations with a number of partners on a casual basis.", "S": ["immoral", "profligate", "wanton"], "A": ["careful", "good", "moral", "nice"]}

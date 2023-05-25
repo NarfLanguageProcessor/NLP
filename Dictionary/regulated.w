@@ -1,1 +1,1 @@
-{"index": 265884, "D": "to control or direct by a rule, principle, method, etc.", "S": ["coordinated ", "managed ", "monitored ", "organized ", "standardized ", "supervised "], "A": ["indefinite ", "unfixed "]}
+{"index": 265884, "D": "to control or direct by a rule, principle, method, etc.", "S": ["coordinated", "managed", "monitored", "organized", "standardized", "supervised"], "A": ["indefinite", "unfixed"]}

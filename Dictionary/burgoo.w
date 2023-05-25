@@ -1,1 +1,1 @@
-{"index": 43113, "D": "a thick oatmeal gruel, especially as eaten by sailors.", "S": ["gruel ", "oatmeal ", "polenta "], "A": []}
+{"index": 43113, "D": "a thick oatmeal gruel, especially as eaten by sailors.", "S": ["gruel", "oatmeal", "polenta"], "A": []}

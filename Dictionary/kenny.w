@@ -1,1 +1,0 @@
-{"index": 163829, "D": "Australian nurse", "S": [], "A": []}

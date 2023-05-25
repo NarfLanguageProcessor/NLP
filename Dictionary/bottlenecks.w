@@ -1,1 +1,1 @@
-{"index": 38812, "D": "a narrow entrance or passageway.", "S": ["barrier ", "blockage ", "congestion ", "hindrance ", "impediment ", "snag ", "traffic jam "], "A": ["aid ", "assistance ", "help ", "opening "]}
+{"index": 38812, "D": "a narrow entrance or passageway.", "S": ["barrier", "blockage", "congestion", "hindrance", "impediment", "snag", "traffic jam"], "A": ["aid", "assistance", "help", "opening"]}

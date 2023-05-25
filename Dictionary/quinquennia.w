@@ -1,1 +1,1 @@
-{"index": 258823, "D": "a period of five years.", "S": ["cinque ", "cinquefoil ", "limerick ", "lustrum ", "pentacle ", "pentad ", "pentagon ", "pentagram ", "pentangle ", "quintette ", "quintuple ", "quintuplet "], "A": []}
+{"index": 258823, "D": "a period of five years.", "S": ["cinque", "cinquefoil", "limerick", "lustrum", "pentacle", "pentad", "pentagon", "pentagram", "pentangle", "quintette", "quintuple", "quintuplet"], "A": []}

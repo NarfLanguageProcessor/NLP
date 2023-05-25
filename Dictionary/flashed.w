@@ -1,1 +1,1 @@
-{"index": 114015, "D": "a brief, sudden burst of bright light", "S": ["beam ", "blaze ", "burst ", "flame ", "flare ", "glare ", "gleam ", "glimmer ", "glint ", "glitter ", "glow ", "radiation ", "ray ", "reflection ", "spark ", "sparkle ", "vision "], "A": ["dullness ", "darkness "]}
+{"index": 114015, "D": "a brief, sudden burst of bright light", "S": ["beam", "blaze", "burst", "flame", "flare", "glare", "gleam", "glimmer", "glint", "glitter", "glow", "radiation", "ray", "reflection", "spark", "sparkle", "vision"], "A": ["dullness", "darkness"]}

@@ -1,1 +1,1 @@
-{"index": 88059, "D": "unfavorable regard; displeasure; disesteem; dislike", "S": ["disapprobation ", "disapproval ", "dislike ", "displeasure ", "dissatisfaction "], "A": ["esteem ", "honor ", "love ", "regard ", "respect ", "satisfaction "]}
+{"index": 88059, "D": "unfavorable regard; displeasure; disesteem; dislike", "S": ["disapprobation", "disapproval", "dislike", "displeasure", "dissatisfaction"], "A": ["esteem", "honor", "love", "regard", "respect", "satisfaction"]}

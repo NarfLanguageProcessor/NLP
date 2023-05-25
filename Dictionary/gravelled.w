@@ -1,1 +1,1 @@
-{"index": 129320, "D": "small stones and pebbles, or a mixture of these with sand.", "S": ["brick ", "cobblestone ", "flagstone ", "gravel ", "macadamize ", "surface ", "tar ", "tile "], "A": ["dig up ", "strip "]}
+{"index": 129320, "D": "small stones and pebbles, or a mixture of these with sand.", "S": ["brick", "cobblestone", "flagstone", "gravel", "macadamize", "surface", "tar", "tile"], "A": ["dig up", "strip"]}

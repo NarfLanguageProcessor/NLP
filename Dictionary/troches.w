@@ -1,1 +1,1 @@
-{"index": 330907, "D": "a small tablet or lozenge, usually a circular one, made of medicinal substance worked into a paste with sugar and mucilage or the like, and dried.", "S": ["dose ", "pellet ", "pill "], "A": []}
+{"index": 330907, "D": "a small tablet or lozenge, usually a circular one, made of medicinal substance worked into a paste with sugar and mucilage or the like, and dried.", "S": ["dose", "pellet", "pill"], "A": []}

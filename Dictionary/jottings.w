@@ -1,1 +1,1 @@
-{"index": 161842, "D": "the act of a person who jots. ", "S": ["annotation ", "draft ", "impressions ", "marginalia ", "record ", "report ", "summary ", "synopsis "], "A": []}
+{"index": 161842, "D": "the act of a person who jots. ", "S": ["annotation", "draft", "impressions", "marginalia", "record", "report", "summary", "synopsis"], "A": []}

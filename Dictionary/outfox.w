@@ -1,1 +1,1 @@
-{"index": 216673, "D": "to outwit; outsmart; outmaneuver", "S": ["outdo ", "outwit "], "A": ["fail ", "fall behind ", "give up ", "lose ", "surrender "]}
+{"index": 216673, "D": "to outwit; outsmart; outmaneuver", "S": ["outdo", "outwit"], "A": ["fail", "fall behind", "give up", "lose", "surrender"]}

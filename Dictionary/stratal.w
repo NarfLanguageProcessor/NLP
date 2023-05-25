@@ -1,1 +1,0 @@
-{"index": 305830, "D": "of a stratum  or strata. ", "S": [], "A": []}

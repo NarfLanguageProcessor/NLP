@@ -1,1 +1,1 @@
-{"index": 88336, "D": "water  in which dishes  are, or have been, washed.", "S": ["bouillon ", "chowder ", "porridge ", "puree "], "A": []}
+{"index": 88336, "D": "water  in which dishes  are, or have been, washed.", "S": ["bouillon", "chowder", "porridge", "puree"], "A": []}

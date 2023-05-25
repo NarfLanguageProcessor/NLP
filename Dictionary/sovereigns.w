@@ -1,1 +1,1 @@
-{"index": 298061, "D": "a monarch; a king, queen, or other supreme ruler.", "S": ["absolute ", "autonomous ", "unlimited "], "A": ["dependent ", "limited ", "restricted ", "minor ", "secondary ", "subordinate ", "unimportant "]}
+{"index": 298061, "D": "a monarch; a king, queen, or other supreme ruler.", "S": ["absolute", "autonomous", "unlimited"], "A": ["dependent", "limited", "restricted", "minor", "secondary", "subordinate", "unimportant"]}

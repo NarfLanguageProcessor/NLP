@@ -1,1 +1,1 @@
-{"index": 257162, "D": "to provide, furnish, or supply (especially food or provisions) usually as a business or service.", "S": ["vend "], "A": ["take "]}
+{"index": 257162, "D": "to provide, furnish, or supply (especially food or provisions) usually as a business or service.", "S": ["vend"], "A": ["take"]}

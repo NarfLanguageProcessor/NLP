@@ -1,1 +1,1 @@
-{"index": 133961, "D": "harassed, agitated, or troubled by or as if by repeated attacks; beleaguered", "S": ["agitated ", "beset ", "bothered ", "distressed ", "harassed ", "stressed ", "troubled ", "worried "], "A": ["calm ", "collected ", "happy ", "untroubled "]}
+{"index": 133961, "D": "harassed, agitated, or troubled by or as if by repeated attacks; beleaguered", "S": ["agitated", "beset", "bothered", "distressed", "harassed", "stressed", "troubled", "worried"], "A": ["calm", "collected", "happy", "untroubled"]}

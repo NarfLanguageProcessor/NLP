@@ -1,1 +1,1 @@
-{"index": 106158, "D": "being one of a group or series taken collectively; each", "S": ["all "], "A": ["none "]}
+{"index": 106158, "D": "being one of a group or series taken collectively; each", "S": ["all"], "A": ["none"]}

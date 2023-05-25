@@ -1,1 +1,1 @@
-{"index": 98783, "D": "the highest heaven, supposed by the ancients to contain the pure element of fire.", "S": ["azure ", "empyrean ", "firmament ", "heavens ", "lid ", "vault ", "welkin "], "A": ["earth ", "ocean "]}
+{"index": 98783, "D": "the highest heaven, supposed by the ancients to contain the pure element of fire.", "S": ["azure", "empyrean", "firmament", "heavens", "lid", "vault", "welkin"], "A": ["earth", "ocean"]}

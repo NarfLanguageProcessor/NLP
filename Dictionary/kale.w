@@ -1,1 +1,1 @@
-{"index": 162868, "D": "a cabbagelike cultivated plant, Brassica oleracea acephala, of the mustard family, having curled or wrinkled leaves", "S": ["cabbage ", "cole ", "colewort ", "collard "], "A": []}
+{"index": 162868, "D": "a cabbagelike cultivated plant, Brassica oleracea acephala, of the mustard family, having curled or wrinkled leaves", "S": ["cabbage", "cole", "colewort", "collard"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 317763, "D": "the letter T or t.", "S": ["certainly ", "easily ", "emphatically ", "firmly ", "undoubtedly "], "A": ["doubtfully ", "questionably "]}
+{"index": 317763, "D": "the letter T or t.", "S": ["certainly", "easily", "emphatically", "firmly", "undoubtedly"], "A": ["doubtfully", "questionably"]}

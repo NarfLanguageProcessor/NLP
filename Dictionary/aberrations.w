@@ -1,1 +1,1 @@
-{"index": 359, "D": "the act of departing from the right, normal, or usual course.", "S": ["oddity ", "peculiarity ", "quirk "], "A": ["normality ", "usualness "]}
+{"index": 359, "D": "the act of departing from the right, normal, or usual course.", "S": ["oddity", "peculiarity", "quirk"], "A": ["normality", "usualness"]}

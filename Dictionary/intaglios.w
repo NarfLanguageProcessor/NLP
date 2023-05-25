@@ -1,1 +1,1 @@
-{"index": 154190, "D": "incised carving, as opposed to carving in relief.", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}
+{"index": 154190, "D": "incised carving, as opposed to carving in relief.", "S": ["etching", "illustration", "inscription", "lithograph", "woodcut"], "A": []}

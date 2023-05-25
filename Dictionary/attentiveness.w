@@ -1,1 +1,1 @@
-{"index": 23033, "D": "characterized by or giving attention;  observant", "S": ["alertness ", "concentration ", "consideration ", "diligence ", "heedfulness ", "vigilance ", "watchfulness "], "A": ["neglect ", "negligence "]}
+{"index": 23033, "D": "characterized by or giving attention;  observant", "S": ["alertness", "concentration", "consideration", "diligence", "heedfulness", "vigilance", "watchfulness"], "A": ["neglect", "negligence"]}

@@ -1,1 +1,1 @@
-{"index": 94396, "D": "able to resist wear, decay, etc., well; lasting; enduring. ", "S": ["dependable ", "enduring ", "lasting ", "permanent ", "reliable ", "stable ", "strong ", "tenacious "], "A": ["ephemeral ", "irresponsible ", "temporary ", "unreliable ", "weak "]}
+{"index": 94396, "D": "able to resist wear, decay, etc., well; lasting; enduring. ", "S": ["dependable", "enduring", "lasting", "permanent", "reliable", "stable", "strong", "tenacious"], "A": ["ephemeral", "irresponsible", "temporary", "unreliable", "weak"]}

@@ -1,1 +1,1 @@
-{"index": 66104, "D": "the act of confuting. ", "S": ["conflict ", "difference ", "disagreement ", "discrepancy ", "dispute ", "inconsistency "], "A": ["accord ", "agreement ", "concurrence ", "consistency ", "harmony ", "likeness ", "peace ", "sameness ", "similarity ", "approval "]}
+{"index": 66104, "D": "the act of confuting. ", "S": ["conflict", "difference", "disagreement", "discrepancy", "dispute", "inconsistency"], "A": ["accord", "agreement", "concurrence", "consistency", "harmony", "likeness", "peace", "sameness", "similarity", "approval"]}

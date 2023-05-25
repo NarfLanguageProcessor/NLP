@@ -1,1 +1,1 @@
-{"index": 129651, "D": "fond of the company of others; sociable.", "S": ["affable ", "sociable "], "A": ["unfriendly "]}
+{"index": 129651, "D": "fond of the company of others; sociable.", "S": ["affable", "sociable"], "A": ["unfriendly"]}

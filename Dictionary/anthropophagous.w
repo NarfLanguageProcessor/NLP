@@ -1,1 +1,1 @@
-{"index": 14648, "D": "the eating of human flesh; cannibalism. ", "S": ["primitive ", "savage "], "A": []}
+{"index": 14648, "D": "the eating of human flesh; cannibalism. ", "S": ["primitive", "savage"], "A": []}

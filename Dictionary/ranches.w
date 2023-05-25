@@ -1,1 +1,1 @@
-{"index": 260474, "D": "an establishment maintained for raising livestock under range conditions.", "S": ["dairy farm ", "estate ", "homestead ", "land ", "plantation "], "A": []}
+{"index": 260474, "D": "an establishment maintained for raising livestock under range conditions.", "S": ["dairy farm", "estate", "homestead", "land", "plantation"], "A": []}

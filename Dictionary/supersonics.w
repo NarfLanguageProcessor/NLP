@@ -1,1 +1,1 @@
-{"index": 312692, "D": "the branch of science that deals with supersonic  phenomena.", "S": ["airplane ", "plane "], "A": []}
+{"index": 312692, "D": "the branch of science that deals with supersonic  phenomena.", "S": ["airplane", "plane"], "A": []}

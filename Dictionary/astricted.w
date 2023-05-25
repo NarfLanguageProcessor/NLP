@@ -1,1 +1,1 @@
-{"index": 22198, "D": "to bind fast; constrain.", "S": ["constrain ", "oblige "], "A": ["free ", "let go ", "release "]}
+{"index": 22198, "D": "to bind fast; constrain.", "S": ["constrain", "oblige"], "A": ["free", "let go", "release"]}

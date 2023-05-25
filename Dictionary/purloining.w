@@ -1,1 +1,1 @@
-{"index": 257005, "D": "to take dishonestly; steal; filch; pilfer.", "S": ["fraud ", "larceny ", "misappropriation ", "misuse ", "theft "], "A": ["compensation ", "pay ", "reimbursement ", "return "]}
+{"index": 257005, "D": "to take dishonestly; steal; filch; pilfer.", "S": ["fraud", "larceny", "misappropriation", "misuse", "theft"], "A": ["compensation", "pay", "reimbursement", "return"]}

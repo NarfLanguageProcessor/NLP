@@ -1,1 +1,1 @@
-{"index": 261270, "D": "extremely hungry; famished; voracious", "S": ["ferocious ", "greedy ", "insatiable ", "rapacious ", "voracious "], "A": ["satisfied "]}
+{"index": 261270, "D": "extremely hungry; famished; voracious", "S": ["ferocious", "greedy", "insatiable", "rapacious", "voracious"], "A": ["satisfied"]}

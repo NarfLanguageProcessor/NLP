@@ -1,1 +1,1 @@
-{"index": 291094, "D": "to make less complex or complicated; make plainer or easier", "S": ["abridged ", "clear ", "interpreted ", "reduced "], "A": ["complicated "]}
+{"index": 291094, "D": "to make less complex or complicated; make plainer or easier", "S": ["abridged", "clear", "interpreted", "reduced"], "A": ["complicated"]}

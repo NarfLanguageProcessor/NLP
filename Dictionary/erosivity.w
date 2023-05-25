@@ -1,1 +1,1 @@
-{"index": 103917, "D": "serving to erode;  causing erosion. ", "S": ["corrosity ", "corrosive ", "disintegrating "], "A": []}
+{"index": 103917, "D": "serving to erode;  causing erosion. ", "S": ["corrosity", "corrosive", "disintegrating"], "A": []}

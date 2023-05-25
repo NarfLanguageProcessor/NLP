@@ -1,1 +1,1 @@
-{"index": 157404, "D": "worked in or closely combined with something.", "S": ["endemic ", "indigenous ", "natural "], "A": ["auxiliary ", "minor ", "secondary ", "unimportant "]}
+{"index": 157404, "D": "worked in or closely combined with something.", "S": ["endemic", "indigenous", "natural"], "A": ["auxiliary", "minor", "secondary", "unimportant"]}

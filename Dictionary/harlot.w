@@ -1,1 +1,1 @@
-{"index": 133800, "D": "a prostitute or sexually promiscuous woman.", "S": ["concubine ", "courtesan ", "floozy ", "hooker ", "hussy ", "nymphomaniac ", "slut ", "streetwalker ", "strumpet ", "tramp ", "whore "], "A": []}
+{"index": 133800, "D": "a prostitute or sexually promiscuous woman.", "S": ["concubine", "courtesan", "floozy", "hooker", "hussy", "nymphomaniac", "slut", "streetwalker", "strumpet", "tramp", "whore"], "A": []}

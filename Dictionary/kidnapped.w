@@ -1,1 +1,1 @@
-{"index": 164483, "D": "a novel (1886) by Robert Louis Stevenson.", "S": ["captured ", "seized ", "shanghaied ", "snatched "], "A": ["free ", "released ", "rescued "]}
+{"index": 164483, "D": "a novel (1886) by Robert Louis Stevenson.", "S": ["captured", "seized", "shanghaied", "snatched"], "A": ["free", "released", "rescued"]}

@@ -1,1 +1,1 @@
-{"index": 178077, "D": "(of letters) capital.", "S": ["cap ", "uncial "], "A": ["small "]}
+{"index": 178077, "D": "(of letters) capital.", "S": ["cap", "uncial"], "A": ["small"]}

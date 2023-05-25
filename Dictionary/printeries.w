@@ -1,1 +1,1 @@
-{"index": 250693, "D": "(formerly) an establishment for typographic printing. ", "S": ["composer ", "composing room ", "pressroom ", "printer ", "printing office ", "printing shop ", "typesetter "], "A": []}
+{"index": 250693, "D": "(formerly) an establishment for typographic printing. ", "S": ["composer", "composing room", "pressroom", "printer", "printing office", "printing shop", "typesetter"], "A": []}

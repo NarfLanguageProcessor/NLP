@@ -1,1 +1,1 @@
-{"index": 294, "D": "act of abducting. ", "S": ["kidnapping ", "rape ", "seizure ", "theft "], "A": []}
+{"index": 294, "D": "act of abducting. ", "S": ["kidnapping", "rape", "seizure", "theft"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 144548, "D": "hello; how do you do (used as an expression of greeting).", "S": ["greetings ", "hi ", "welcome "], "A": ["adios ", "au revoir ", "goodbye "]}
+{"index": 144548, "D": "hello; how do you do (used as an expression of greeting).", "S": ["greetings", "hi", "welcome"], "A": ["adios", "au revoir", "goodbye"]}

@@ -1,0 +1,1 @@
+{"index": 4371, "D": "Also called a\u00b7de\u00b7no\u00b7sine\u00b7di\u00b7phos\u00b7phor\u00b7ic ac\u00b7id  [uh-den-uh-seen-dahy-fos-fawr-ik as-id]  /\u0259\u02c8d\u025bn \u0259\u02ccsin da\u026a f\u0252s\u02c8f\u0254r \u026ak \u02c8\u00e6s \u026ad/ .", "S": [], "A": []}

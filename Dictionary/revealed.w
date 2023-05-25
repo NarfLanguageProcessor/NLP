@@ -1,1 +1,1 @@
-{"index": 271114, "D": "to make known; disclose; divulge", "S": ["disclosed ", "voiced "], "A": ["closed ", "concealed ", "secret ", "stuffy ", "undisclosed "]}
+{"index": 271114, "D": "to make known; disclose; divulge", "S": ["disclosed", "voiced"], "A": ["closed", "concealed", "secret", "stuffy", "undisclosed"]}

@@ -1,1 +1,1 @@
-{"index": 66817, "D": "to hand over or deliver formally or officially; commit (often followed by to).", "S": ["interchangeable ", "negotiable "], "A": ["fixed ", "nontransferable "]}
+{"index": 66817, "D": "to hand over or deliver formally or officially; commit (often followed by to).", "S": ["interchangeable", "negotiable"], "A": ["fixed", "nontransferable"]}

@@ -1,1 +1,1 @@
-{"index": 350648, "D": "not secured, especially not insured against loss, as by a bond or pledge", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}
+{"index": 350648, "D": "not secured, especially not insured against loss, as by a bond or pledge", "S": ["baggy", "lax", "relaxed", "sloppy"], "A": ["strict", "tight", "hindered", "rigid", "stiff"]}

@@ -1,1 +1,0 @@
-{"index": 207339, "D": "a person who questions the validity or authenticity of something purporting to be factual.", "S": [], "A": []}

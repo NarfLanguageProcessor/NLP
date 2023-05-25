@@ -1,1 +1,1 @@
-{"index": 181465, "D": "a pale bluish purple.", "S": ["lavender ", "lilac ", "plum ", "violet "], "A": []}
+{"index": 181465, "D": "a pale bluish purple.", "S": ["lavender", "lilac", "plum", "violet"], "A": []}

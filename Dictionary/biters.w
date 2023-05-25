@@ -1,1 +1,1 @@
-{"index": 35189, "D": "a person or animal that bites,  especially habitually or viciously", "S": ["biter ", "boy ", "child ", "lad ", "youngster "], "A": []}
+{"index": 35189, "D": "a person or animal that bites,  especially habitually or viciously", "S": ["biter", "boy", "child", "lad", "youngster"], "A": []}

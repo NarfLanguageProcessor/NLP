@@ -1,1 +1,1 @@
-{"index": 197719, "D": "the doctrine that all events, including acts of the will, are determined by antecedent causes; determinism.", "S": ["acceptance ", "determinism ", "passivity ", "predestinarianism ", "predestination ", "stoicism "], "A": []}
+{"index": 197719, "D": "the doctrine that all events, including acts of the will, are determined by antecedent causes; determinism.", "S": ["acceptance", "determinism", "passivity", "predestinarianism", "predestination", "stoicism"], "A": []}

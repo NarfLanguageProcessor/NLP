@@ -1,1 +1,1 @@
-{"index": 47278, "D": "a slender, catlike mammal, Lynx caracal, with a reddish-brown coat and long tufted ears, inhabiting northern Africa and India.", "S": ["bobcat ", "wildcat "], "A": []}
+{"index": 47278, "D": "a slender, catlike mammal, Lynx caracal, with a reddish-brown coat and long tufted ears, inhabiting northern Africa and India.", "S": ["bobcat", "wildcat"], "A": []}

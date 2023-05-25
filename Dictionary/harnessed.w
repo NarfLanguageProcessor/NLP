@@ -1,1 +1,1 @@
-{"index": 133884, "D": "Compare yoke1 (def. 1). ", "S": ["armed ", "clothed ", "dressed ", "furnished ", "rigged ", "supplied "], "A": ["bare ", "stripped ", "unfurnished "]}
+{"index": 133884, "D": "Compare yoke1 (def. 1). ", "S": ["armed", "clothed", "dressed", "furnished", "rigged", "supplied"], "A": ["bare", "stripped", "unfurnished"]}

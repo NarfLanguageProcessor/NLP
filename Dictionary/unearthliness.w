@@ -1,1 +1,1 @@
-{"index": 340960, "D": "seeming not to belong to this earth or world", "S": ["incorporeality ", "otherworldliness "], "A": []}
+{"index": 340960, "D": "seeming not to belong to this earth or world", "S": ["incorporeality", "otherworldliness"], "A": []}

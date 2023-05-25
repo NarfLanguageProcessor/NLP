@@ -1,1 +1,1 @@
-{"index": 93834, "D": "clothes, especially a suit of clothes.", "S": ["frock ", "garb ", "sportswear "], "A": []}
+{"index": 93834, "D": "clothes, especially a suit of clothes.", "S": ["frock", "garb", "sportswear"], "A": []}

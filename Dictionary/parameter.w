@@ -1,1 +1,1 @@
-{"index": 225814, "D": "one of the independent variables in a set of parametric equations.", "S": ["criterion ", "framework ", "guideline ", "restriction ", "specification "], "A": []}
+{"index": 225814, "D": "one of the independent variables in a set of parametric equations.", "S": ["criterion", "framework", "guideline", "restriction", "specification"], "A": []}

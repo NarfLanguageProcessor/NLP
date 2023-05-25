@@ -1,1 +1,1 @@
-{"index": 199901, "D": "near  in space, time, or relation", "S": ["close ", "nearly "], "A": []}
+{"index": 199901, "D": "near  in space, time, or relation", "S": ["close", "nearly"], "A": []}

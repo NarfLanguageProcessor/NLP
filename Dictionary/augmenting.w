@@ -1,1 +1,1 @@
-{"index": 23385, "D": "to make larger; enlarge in size, number, strength, or extent; increase", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}
+{"index": 23385, "D": "to make larger; enlarge in size, number, strength, or extent; increase", "S": ["aggregate", "increasing"], "A": ["decreasing", "subtracting"]}

@@ -1,1 +1,1 @@
-{"index": 326158, "D": "Compare waterspout (def. 3). ", "S": ["twister ", "whirlwind ", "windstorm "], "A": []}
+{"index": 326158, "D": "Compare waterspout (def. 3). ", "S": ["twister", "whirlwind", "windstorm"], "A": []}

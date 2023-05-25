@@ -1,1 +1,1 @@
-{"index": 36157, "D": "the act or words of a person who blesses. ", "S": ["dedication ", "grace "], "A": ["criticism "]}
+{"index": 36157, "D": "the act or words of a person who blesses. ", "S": ["dedication", "grace"], "A": ["criticism"]}

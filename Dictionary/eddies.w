@@ -1,1 +1,1 @@
-{"index": 95662, "D": "a current at variance with the main current in a stream of liquid or gas, especially one having a rotary or whirling motion.", "S": ["whirlpool "], "A": []}
+{"index": 95662, "D": "a current at variance with the main current in a stream of liquid or gas, especially one having a rotary or whirling motion.", "S": ["whirlpool"], "A": []}

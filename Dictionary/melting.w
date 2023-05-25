@@ -1,1 +1,1 @@
-{"index": 183096, "D": "to become liquefied by warmth or heat, as ice, snow, butter, or metal.", "S": ["reducing ", "thawed "], "A": []}
+{"index": 183096, "D": "to become liquefied by warmth or heat, as ice, snow, butter, or metal.", "S": ["reducing", "thawed"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 239319, "D": "coated with a thin film of gold, silver, etc., as for ornamental purposes.", "S": ["gaudy ", "gleaming ", "glittering ", "golden ", "lustrous ", "painted ", "sparkling "], "A": ["dull ", "matte "]}
+{"index": 239319, "D": "coated with a thin film of gold, silver, etc., as for ornamental purposes.", "S": ["gaudy", "gleaming", "glittering", "golden", "lustrous", "painted", "sparkling"], "A": ["dull", "matte"]}

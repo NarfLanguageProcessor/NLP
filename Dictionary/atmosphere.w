@@ -1,1 +1,1 @@
-{"index": 22711, "D": "the gaseous envelope surrounding the earth; the air", "S": ["air ", "pressure "], "A": []}
+{"index": 22711, "D": "the gaseous envelope surrounding the earth; the air", "S": ["air", "pressure"], "A": []}

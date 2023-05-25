@@ -1,1 +1,1 @@
-{"index": 333135, "D": "television. ", "S": ["audio ", "baby-sitter ", "box ", "eye ", "receiver ", "station ", "telly ", "tube ", "video "], "A": []}
+{"index": 333135, "D": "television. ", "S": ["audio", "baby-sitter", "box", "eye", "receiver", "station", "telly", "tube", "video"], "A": []}

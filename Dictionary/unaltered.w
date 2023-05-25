@@ -1,1 +1,1 @@
-{"index": 334865, "D": "not altered,  changed, or modified", "S": ["constant ", "invariable ", "uniform "], "A": ["changeable ", "changing ", "varying "]}
+{"index": 334865, "D": "not altered,  changed, or modified", "S": ["constant", "invariable", "uniform"], "A": ["changeable", "changing", "varying"]}

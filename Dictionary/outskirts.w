@@ -1,1 +1,1 @@
-{"index": 217477, "D": "outlying or bordering areas, districts, etc, as of a city", "S": ["periphery "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 217477, "D": "outlying or bordering areas, districts, etc, as of a city", "S": ["periphery"], "A": ["center", "inside", "interior", "middle"]}

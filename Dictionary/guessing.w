@@ -1,1 +1,1 @@
-{"index": 130946, "D": "to arrive at or commit oneself to an opinion about (something) without having sufficient evidence to support the opinion fully", "S": ["guesswork ", "hunch "], "A": ["fact ", "knowledge ", "reality ", "truth "]}
+{"index": 130946, "D": "to arrive at or commit oneself to an opinion about (something) without having sufficient evidence to support the opinion fully", "S": ["guesswork", "hunch"], "A": ["fact", "knowledge", "reality", "truth"]}

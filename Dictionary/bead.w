@@ -1,1 +1,1 @@
-{"index": 29382, "D": "a small, usually round object of glass, wood, stone, or the like with a hole through it, often strung with others of its kind in necklaces, rosaries, etc.", "S": ["dot ", "pellet ", "stone "], "A": []}
+{"index": 29382, "D": "a small, usually round object of glass, wood, stone, or the like with a hole through it, often strung with others of its kind in necklaces, rosaries, etc.", "S": ["dot", "pellet", "stone"], "A": []}

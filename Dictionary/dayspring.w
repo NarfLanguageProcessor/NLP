@@ -1,1 +1,1 @@
-{"index": 76400, "D": "dawn; daybreak.", "S": ["dawn "], "A": ["sunset "]}
+{"index": 76400, "D": "dawn; daybreak.", "S": ["dawn"], "A": ["sunset"]}

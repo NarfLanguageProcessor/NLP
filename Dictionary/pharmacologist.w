@@ -1,1 +1,1 @@
-{"index": 233144, "D": "the science dealing with the preparation, uses, and especially the effects of drugs.", "S": ["apothecary "], "A": []}
+{"index": 233144, "D": "the science dealing with the preparation, uses, and especially the effects of drugs.", "S": ["apothecary"], "A": []}

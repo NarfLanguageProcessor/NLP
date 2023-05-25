@@ -1,1 +1,1 @@
-{"index": 94326, "D": "deceived, fooled, or tricked", "S": ["bamboozled ", "beguiled ", "bilked ", "burned ", "conned ", "deceived ", "gypped ", "hoodwinked ", "swindled ", "tricked ", "victimized "], "A": []}
+{"index": 94326, "D": "deceived, fooled, or tricked", "S": ["bamboozled", "beguiled", "bilked", "burned", "conned", "deceived", "gypped", "hoodwinked", "swindled", "tricked", "victimized"], "A": []}

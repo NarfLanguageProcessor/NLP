@@ -1,1 +1,1 @@
-{"index": 39356, "D": "See handcuff (def. 2)", "S": ["braces ", "chains ", "clamps ", "cuffs ", "fetters ", "shackles ", "snaps ", "wristlets "], "A": []}
+{"index": 39356, "D": "See handcuff (def. 2)", "S": ["braces", "chains", "clamps", "cuffs", "fetters", "shackles", "snaps", "wristlets"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 147373, "D": "narrowminded; bigoted.", "S": ["bias ", "discrimination ", "fanaticism ", "injustice ", "racism ", "sexism ", "unfairness "], "A": ["fairness ", "impartiality "]}
+{"index": 147373, "D": "narrowminded; bigoted.", "S": ["bias", "discrimination", "fanaticism", "injustice", "racism", "sexism", "unfairness"], "A": ["fairness", "impartiality"]}

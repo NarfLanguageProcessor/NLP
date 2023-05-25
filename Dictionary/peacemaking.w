@@ -1,1 +1,0 @@
-{"index": 228344, "D": "a person, group, or nation that tries to make peace,  especially by reconciling parties who disagree, quarrel, or fight.", "S": ["calm ", "friendly ", "neutral ", "quiet "], "A": ["agitated ", "loud "]}

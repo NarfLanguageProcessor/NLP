@@ -1,1 +1,1 @@
-{"index": 47755, "D": "the body of cardinals. ", "S": ["priesthood "], "A": []}
+{"index": 47755, "D": "the body of cardinals. ", "S": ["priesthood"], "A": []}

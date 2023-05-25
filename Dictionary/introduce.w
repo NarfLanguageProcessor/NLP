@@ -1,1 +1,1 @@
-{"index": 156756, "D": "to present (a person) to another so as to make acquainted.", "S": ["announce ", "offer ", "open ", "propose ", "recommend ", "submit ", "suggest "], "A": ["conceal ", "deny ", "dissuade ", "hide ", "refuse ", "withhold ", "close ", "close up ", "end ", "finish "]}
+{"index": 156756, "D": "to present (a person) to another so as to make acquainted.", "S": ["announce", "offer", "open", "propose", "recommend", "submit", "suggest"], "A": ["conceal", "deny", "dissuade", "hide", "refuse", "withhold", "close", "close up", "end", "finish"]}

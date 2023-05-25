@@ -1,1 +1,0 @@
-{"index": 331829, "D": "a eucalyptus tree, Eucalyptus gomphocephala, of Australia, yielding a very durable light-coloured timber", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 32795, "D": "delivered or exposed to an enemy by treachery or disloyalty", "S": ["bamboozled ", "conned ", "culled ", "duped ", "fooled ", "had ", "hoodwinked ", "lured ", "played ", "taken ", "trapped ", "victimized "], "A": ["informed ", "trusted "]}
+{"index": 32795, "D": "delivered or exposed to an enemy by treachery or disloyalty", "S": ["bamboozled", "conned", "culled", "duped", "fooled", "had", "hoodwinked", "lured", "played", "taken", "trapped", "victimized"], "A": ["informed", "trusted"]}

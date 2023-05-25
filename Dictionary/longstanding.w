@@ -1,1 +1,1 @@
-{"index": 175011, "D": "existing or occurring for a long  time", "S": ["abiding ", "continuing ", "deep-rooted ", "durable ", "eternal ", "everlasting ", "indelible ", "lifelong ", "long-term ", "permanent ", "stable "], "A": ["ending ", "ephemeral ", "impermanent ", "temporary ", "transient "]}
+{"index": 175011, "D": "existing or occurring for a long  time", "S": ["abiding", "continuing", "deep-rooted", "durable", "eternal", "everlasting", "indelible", "lifelong", "long-term", "permanent", "stable"], "A": ["ending", "ephemeral", "impermanent", "temporary", "transient"]}

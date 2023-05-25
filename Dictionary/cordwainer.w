@@ -1,1 +1,1 @@
-{"index": 68974, "D": "a person who makes shoes from cordovan leather.", "S": ["bootmaker "], "A": []}
+{"index": 68974, "D": "a person who makes shoes from cordovan leather.", "S": ["bootmaker"], "A": []}

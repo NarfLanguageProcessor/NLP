@@ -1,1 +1,1 @@
-{"index": 178274, "D": "inappropriate; out of place; inopportune; untimely", "S": ["inapposite ", "inapt ", "infelicitous ", "inopportune ", "tactless ", "uncalled for ", "unseemly ", "unsuitable ", "untimely "], "A": []}
+{"index": 178274, "D": "inappropriate; out of place; inopportune; untimely", "S": ["inapposite", "inapt", "infelicitous", "inopportune", "tactless", "uncalled for", "unseemly", "unsuitable", "untimely"], "A": []}

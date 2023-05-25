@@ -1,1 +1,1 @@
-{"index": 223604, "D": "a conference or discussion.", "S": ["dull ", "lavish ", "long ", "loose ", "meandering ", "rambling ", "waffling "], "A": ["clear "]}
+{"index": 223604, "D": "a conference or discussion.", "S": ["dull", "lavish", "long", "loose", "meandering", "rambling", "waffling"], "A": ["clear"]}

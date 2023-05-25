@@ -1,1 +1,1 @@
-{"index": 212534, "D": "almighty or infinite in power, as God.", "S": ["almighty ", "divine ", "godlike ", "mighty ", "supreme ", "unlimited ", "unrestricted "], "A": ["impotent ", "weak "]}
+{"index": 212534, "D": "almighty or infinite in power, as God.", "S": ["almighty", "divine", "godlike", "mighty", "supreme", "unlimited", "unrestricted"], "A": ["impotent", "weak"]}

@@ -1,1 +1,1 @@
-{"index": 354282, "D": "not wise; lacking in good sense or judgment; foolish; imprudent", "S": ["foolishly ", "impulsively "], "A": ["sagely ", "wisely "]}
+{"index": 354282, "D": "not wise; lacking in good sense or judgment; foolish; imprudent", "S": ["foolishly", "impulsively"], "A": ["sagely", "wisely"]}

@@ -1,1 +1,1 @@
-{"index": 38724, "D": "causing annoyance or worry; troublesome.", "S": ["aggravating ", "annoying ", "distressing ", "disturbing ", "inconvenient ", "irritating ", "troublesome ", "vexing "], "A": ["helpful "]}
+{"index": 38724, "D": "causing annoyance or worry; troublesome.", "S": ["aggravating", "annoying", "distressing", "disturbing", "inconvenient", "irritating", "troublesome", "vexing"], "A": ["helpful"]}

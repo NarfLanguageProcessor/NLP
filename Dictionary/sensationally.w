@@ -1,1 +1,0 @@
-{"index": 285340, "D": "producing or designed to produce a startling effect, strong reaction, intense interest, etc., especially by exaggerated, superficial, or lurid elements", "S": ["famously ", "magnificently ", "splendidly "], "A": ["awkwardly ", "badly ", "poorly "]}

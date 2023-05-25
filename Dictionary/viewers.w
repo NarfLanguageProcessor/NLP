@@ -1,1 +1,1 @@
-{"index": 359575, "D": "a person or thing that views. ", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}
+{"index": 359575, "D": "a person or thing that views. ", "S": ["congregation", "crowd", "gallery", "gathering", "market", "public"], "A": []}

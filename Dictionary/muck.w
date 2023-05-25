@@ -1,1 +1,1 @@
-{"index": 194545, "D": "moist farmyard dung, decaying vegetable matter, etc.; manure.", "S": ["manure ", "mud ", "slime ", "trash "], "A": []}
+{"index": 194545, "D": "moist farmyard dung, decaying vegetable matter, etc.; manure.", "S": ["manure", "mud", "slime", "trash"], "A": []}

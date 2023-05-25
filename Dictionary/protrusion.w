@@ -1,1 +1,1 @@
-{"index": 253958, "D": "the act of protruding  or the state of being protruded. ", "S": ["projection ", "protuberance ", "swelling "], "A": ["depression "]}
+{"index": 253958, "D": "the act of protruding  or the state of being protruded. ", "S": ["projection", "protuberance", "swelling"], "A": ["depression"]}

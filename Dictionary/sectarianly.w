@@ -1,1 +1,0 @@
-{"index": 282843, "D": "of or relating to sectaries  or sects. ", "S": [], "A": []}

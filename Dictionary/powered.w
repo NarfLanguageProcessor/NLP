@@ -1,1 +1,1 @@
-{"index": 245006, "D": "(of a machine, vehicle, etc.) having a specified fuel or prime mover", "S": ["mechanized "], "A": []}
+{"index": 245006, "D": "(of a machine, vehicle, etc.) having a specified fuel or prime mover", "S": ["mechanized"], "A": []}

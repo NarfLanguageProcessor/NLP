@@ -1,1 +1,1 @@
-{"index": 172675, "D": "to put to death, especially by hanging, by mob action and without legal authority", "S": ["execute ", "hang ", "kill ", "murder "], "A": ["bear ", "create "]}
+{"index": 172675, "D": "to put to death, especially by hanging, by mob action and without legal authority", "S": ["execute", "hang", "kill", "murder"], "A": ["bear", "create"]}

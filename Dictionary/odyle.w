@@ -1,1 +1,1 @@
-{"index": 211234, "D": "od. ", "S": ["attractiveness ", "aura ", "beguilement ", "bewitchery ", "charisma ", "charm ", "hypnotic attraction ", "it ", "magnetism ", "mesmerism ", "odyl ", "odylic force ", "personal appeal ", "pizazz ", "sex appeal ", "sexiness ", "sexual attraction "], "A": []}
+{"index": 211234, "D": "od. ", "S": ["attractiveness", "aura", "beguilement", "bewitchery", "charisma", "charm", "hypnotic attraction", "it", "magnetism", "mesmerism", "odyl", "odylic force", "personal appeal", "pizazz", "sex appeal", "sexiness", "sexual attraction"], "A": []}

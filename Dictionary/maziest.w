@@ -1,1 +1,1 @@
-{"index": 181611, "D": "full of confusing turns, passages, etc.; like a maze;  labyrinthine.", "S": ["complicated ", "convoluted ", "disturbing ", "intricate ", "obscure ", "perplexing ", "sophisticated "], "A": ["easy ", "simple "]}
+{"index": 181611, "D": "full of confusing turns, passages, etc.; like a maze;  labyrinthine.", "S": ["complicated", "convoluted", "disturbing", "intricate", "obscure", "perplexing", "sophisticated"], "A": ["easy", "simple"]}

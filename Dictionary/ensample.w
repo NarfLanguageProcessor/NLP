@@ -1,1 +1,1 @@
-{"index": 100950, "D": "example. ", "S": ["archetype ", "chart ", "criterion ", "exemplar ", "ideal ", "mirror ", "model ", "original ", "pattern ", "prototype ", "sample ", "standard "], "A": []}
+{"index": 100950, "D": "example. ", "S": ["archetype", "chart", "criterion", "exemplar", "ideal", "mirror", "model", "original", "pattern", "prototype", "sample", "standard"], "A": []}

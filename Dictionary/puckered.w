@@ -1,1 +1,1 @@
-{"index": 255979, "D": "to draw or gather into wrinkles or irregular folds, as material or a part of the face; constrict", "S": ["crumpled "], "A": ["flat ", "smooth "]}
+{"index": 255979, "D": "to draw or gather into wrinkles or irregular folds, as material or a part of the face; constrict", "S": ["crumpled"], "A": ["flat", "smooth"]}

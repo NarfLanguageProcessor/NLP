@@ -1,1 +1,1 @@
-{"index": 59917, "D": "a person or group that uses the professional advice or services of a lawyer, accountant, advertising agency, architect, etc.", "S": ["audience ", "constituency "], "A": ["management ", "ownership "]}
+{"index": 59917, "D": "a person or group that uses the professional advice or services of a lawyer, accountant, advertising agency, architect, etc.", "S": ["audience", "constituency"], "A": ["management", "ownership"]}

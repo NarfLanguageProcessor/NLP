@@ -1,1 +1,1 @@
-{"index": 26307, "D": "woven material, as of hemp or jute, for bags.", "S": ["backpack ", "briefcase ", "gear ", "handbag ", "kit ", "pack ", "packet ", "pocket ", "pouch ", "purse ", "sack ", "suitcase "], "A": []}
+{"index": 26307, "D": "woven material, as of hemp or jute, for bags.", "S": ["backpack", "briefcase", "gear", "handbag", "kit", "pack", "packet", "pocket", "pouch", "purse", "sack", "suitcase"], "A": []}

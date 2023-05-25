@@ -1,0 +1,1 @@
+{"index": 26019, "D": "wooded or partially uncleared and unsettled districts.", "S": [], "A": []}

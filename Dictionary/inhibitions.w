@@ -1,1 +1,1 @@
-{"index": 152705, "D": "the act of inhibiting.", "S": ["reticence ", "self-consciousness ", "shyness "], "A": ["advantage ", "aid ", "allowance ", "assistance ", "clearance ", "help ", "liberation ", "permission "]}
+{"index": 152705, "D": "the act of inhibiting.", "S": ["reticence", "self-consciousness", "shyness"], "A": ["advantage", "aid", "allowance", "assistance", "clearance", "help", "liberation", "permission"]}

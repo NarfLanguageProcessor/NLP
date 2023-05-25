@@ -1,0 +1,1 @@
+{"index": 36006, "D": "(used as a substitute word for one regarded as objectionable)", "S": ["abrogate", "annul", "dissolve", "invalidate", "rescind", "vacate"], "A": ["approve", "permit", "validate"]}

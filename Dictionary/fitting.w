@@ -1,1 +1,1 @@
-{"index": 113560, "D": "suitable or appropriate; proper or becoming.", "S": ["apt ", "felicitous ", "proper "], "A": ["improper ", "incorrect ", "unsuitable ", "imprecise ", "inaccurate ", "inappropriate ", "unfitting ", "unseemly ", "wrong "]}
+{"index": 113560, "D": "suitable or appropriate; proper or becoming.", "S": ["apt", "felicitous", "proper"], "A": ["improper", "incorrect", "unsuitable", "imprecise", "inaccurate", "inappropriate", "unfitting", "unseemly", "wrong"]}

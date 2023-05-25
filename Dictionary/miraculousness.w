@@ -1,1 +1,0 @@
-{"index": 188326, "D": "performed by or involving a supernatural power or agency", "S": [], "A": []}

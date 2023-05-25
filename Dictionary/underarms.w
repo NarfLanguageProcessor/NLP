@@ -1,1 +1,0 @@
-{"index": 338834, "D": "of, situated, or for use under the arm  or in the armpit", "S": ["battling ", "belligerent ", "boxing ", "brawling ", "contending ", "determined ", "fencing ", "hostile ", "jousting ", "martial ", "militant ", "sparring ", "tilting ", "warmongering ", "wrestling "], "A": ["kind ", "nice ", "peaceful "]}

@@ -1,1 +1,1 @@
-{"index": 74097, "D": "a cross with the figure of Jesus crucified  upon it.", "S": ["X ", "rood "], "A": []}
+{"index": 74097, "D": "a cross with the figure of Jesus crucified  upon it.", "S": ["X", "rood"], "A": []}

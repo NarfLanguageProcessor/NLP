@@ -1,1 +1,0 @@
-{"index": 339346, "D": "insurance  purchased against damage or loss of property in an amount less than its true value, sometimes bought intentionally by the insured with full knowledge of the risk.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110356, "D": "consisting of, containing, or resembling fat", "S": ["greasy ", "oily "], "A": ["dry "]}
+{"index": 110356, "D": "consisting of, containing, or resembling fat", "S": ["greasy", "oily"], "A": ["dry"]}

@@ -1,1 +1,1 @@
-{"index": 348132, "D": "impolite. ", "S": ["bad-mannered ", "disrespectful ", "ill-mannered ", "impolite ", "inelegant ", "rude ", "uncouth ", "unmannerly "], "A": ["agreeable ", "elegant ", "gracious ", "pleasant ", "pleasing ", "polite ", "respectful "]}
+{"index": 348132, "D": "impolite. ", "S": ["bad-mannered", "disrespectful", "ill-mannered", "impolite", "inelegant", "rude", "uncouth", "unmannerly"], "A": ["agreeable", "elegant", "gracious", "pleasant", "pleasing", "polite", "respectful"]}

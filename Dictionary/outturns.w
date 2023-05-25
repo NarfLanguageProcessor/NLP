@@ -1,1 +1,1 @@
-{"index": 217808, "D": "a quantity produced; output.", "S": ["crop ", "goods ", "production "], "A": []}
+{"index": 217808, "D": "a quantity produced; output.", "S": ["crop", "goods", "production"], "A": []}

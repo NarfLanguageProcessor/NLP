@@ -1,1 +1,1 @@
-{"index": 77721, "D": [], "S": ["contentious ", "disputed ", "dubious ", "questionable "], "A": ["certain ", "definite ", "sure "]}
+{"index": 77721, "D": [], "S": ["contentious", "disputed", "dubious", "questionable"], "A": ["certain", "definite", "sure"]}

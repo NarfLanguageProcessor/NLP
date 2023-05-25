@@ -1,1 +1,1 @@
-{"index": 252602, "D": "owning property", "S": ["affluent ", "easy ", "fat ", "prosperous ", "wealthy ", "well-heeled ", "well-off ", "well-to-do "], "A": ["destitute ", "impoverished ", "lacking ", "needy ", "poor ", "wanting "]}
+{"index": 252602, "D": "owning property", "S": ["affluent", "easy", "fat", "prosperous", "wealthy", "well-heeled", "well-off", "well-to-do"], "A": ["destitute", "impoverished", "lacking", "needy", "poor", "wanting"]}

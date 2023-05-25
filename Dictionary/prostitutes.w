@@ -1,1 +1,1 @@
-{"index": 253290, "D": "a person who engages in sexual intercourse or other sex acts for money; sex worker. ", "S": ["call girl ", "gigolo ", "hooker ", "streetwalker ", "whore "], "A": []}
+{"index": 253290, "D": "a person who engages in sexual intercourse or other sex acts for money; sex worker. ", "S": ["call girl", "gigolo", "hooker", "streetwalker", "whore"], "A": []}

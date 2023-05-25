@@ -1,1 +1,1 @@
-{"index": 27717, "D": "without civilizing influences; uncivilized; primitive", "S": ["barbarous ", "brutal ", "cruel ", "inhuman ", "uncivilized "], "A": ["civilized ", "cultured ", "gentle ", "kind ", "nice ", "refined ", "sophisticated "]}
+{"index": 27717, "D": "without civilizing influences; uncivilized; primitive", "S": ["barbarous", "brutal", "cruel", "inhuman", "uncivilized"], "A": ["civilized", "cultured", "gentle", "kind", "nice", "refined", "sophisticated"]}

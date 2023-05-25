@@ -1,1 +1,1 @@
-{"index": 86961, "D": "to fail to agree; differ", "S": ["clash ", "contradict ", "differ ", "dissent ", "diverge "], "A": ["agree ", "approve ", "concur ", "consent ", "stay "]}
+{"index": 86961, "D": "to fail to agree; differ", "S": ["clash", "contradict", "differ", "dissent", "diverge"], "A": ["agree", "approve", "concur", "consent", "stay"]}

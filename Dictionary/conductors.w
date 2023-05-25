@@ -1,1 +1,1 @@
-{"index": 65719, "D": "a person who conducts;  a leader, guide, director, or manager.", "S": ["director ", "maestro ", "manager ", "master ", "supervisor "], "A": ["employee "]}
+{"index": 65719, "D": "a person who conducts;  a leader, guide, director, or manager.", "S": ["director", "maestro", "manager", "master", "supervisor"], "A": ["employee"]}

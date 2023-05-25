@@ -1,1 +1,0 @@
-{"index": 351332, "D": "the killing or butchering of cattle, sheep, etc., especially for food.", "S": [], "A": []}

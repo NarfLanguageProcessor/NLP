@@ -1,1 +1,1 @@
-{"index": 331716, "D": "the quality of being deserving of trust or confidence; dependability; reliability", "S": ["accuracy ", "correctness ", "credibility ", "legitimacy ", "purity ", "reliability ", "truthfulness ", "validity "], "A": ["inaccuracy "]}
+{"index": 331716, "D": "the quality of being deserving of trust or confidence; dependability; reliability", "S": ["accuracy", "correctness", "credibility", "legitimacy", "purity", "reliability", "truthfulness", "validity"], "A": ["inaccuracy"]}

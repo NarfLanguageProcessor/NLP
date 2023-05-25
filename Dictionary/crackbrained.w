@@ -1,1 +1,1 @@
-{"index": 71824, "D": "foolish, senseless, or insane.", "S": ["deranged ", "hysterical ", "mad ", "maniacal ", "manic ", "psychotic ", "unhinged "], "A": ["OK ", "balanced ", "calm ", "sane "]}
+{"index": 71824, "D": "foolish, senseless, or insane.", "S": ["deranged", "hysterical", "mad", "maniacal", "manic", "psychotic", "unhinged"], "A": ["OK", "balanced", "calm", "sane"]}

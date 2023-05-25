@@ -1,1 +1,1 @@
-{"index": 291617, "D": "the interaction of elements that when combined produce a total effect that is greater than the sum of the individual elements, contributions, etc.; synergism.", "S": ["teamwork "], "A": ["discord ", "divorce ", "separation "]}
+{"index": 291617, "D": "the interaction of elements that when combined produce a total effect that is greater than the sum of the individual elements, contributions, etc.; synergism.", "S": ["teamwork"], "A": ["discord", "divorce", "separation"]}

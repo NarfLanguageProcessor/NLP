@@ -1,1 +1,1 @@
-{"index": 260655, "D": "to speak or declaim extravagantly or violently; talk in a wild or vehement way; rave", "S": ["raving "], "A": []}
+{"index": 260655, "D": "to speak or declaim extravagantly or violently; talk in a wild or vehement way; rave", "S": ["raving"], "A": []}

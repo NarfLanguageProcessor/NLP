@@ -1,1 +1,1 @@
-{"index": 294700, "D": "a circuit of minor theaters giving three or more shows daily.", "S": ["petty "], "A": []}
+{"index": 294700, "D": "a circuit of minor theaters giving three or more shows daily.", "S": ["petty"], "A": []}

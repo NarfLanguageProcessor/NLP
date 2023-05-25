@@ -1,1 +1,1 @@
-{"index": 109996, "D": "an act or instance of farming out or leasing, as land for oil exploration.", "S": ["hire out ", "rent out ", "subcontract ", "sublet "], "A": []}
+{"index": 109996, "D": "an act or instance of farming out or leasing, as land for oil exploration.", "S": ["hire out", "rent out", "subcontract", "sublet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197504, "D": "a certificate specifying the contents of a neutral ship's cargo, issued esp in time of war by a blockading power", "S": ["bill of health ", "full pratique ", "pink ", "pratique "], "A": []}
+{"index": 197504, "D": "a certificate specifying the contents of a neutral ship's cargo, issued esp in time of war by a blockading power", "S": ["bill of health", "full pratique", "pink", "pratique"], "A": []}

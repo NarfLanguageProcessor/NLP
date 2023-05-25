@@ -1,1 +1,1 @@
-{"index": 55901, "D": "a part of a song that recurs at intervals, usually following each verse; refrain.", "S": ["intone ", "recite ", "shout "], "A": []}
+{"index": 55901, "D": "a part of a song that recurs at intervals, usually following each verse; refrain.", "S": ["intone", "recite", "shout"], "A": []}

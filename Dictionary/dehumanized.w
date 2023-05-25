@@ -1,1 +1,1 @@
-{"index": 79754, "D": "to regard, represent, or treat (a person or group) as less than human", "S": ["automate ", "brutalize "], "A": ["humanize "]}
+{"index": 79754, "D": "to regard, represent, or treat (a person or group) as less than human", "S": ["automate", "brutalize"], "A": ["humanize"]}

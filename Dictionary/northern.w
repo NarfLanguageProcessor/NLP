@@ -1,1 +1,1 @@
-{"index": 208626, "D": "lying toward or situated in the north. ", "S": ["arctic ", "north ", "northward "], "A": ["southern "]}
+{"index": 208626, "D": "lying toward or situated in the north. ", "S": ["arctic", "north", "northward"], "A": ["southern"]}

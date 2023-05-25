@@ -1,1 +1,1 @@
-{"index": 290010, "D": "unable to see; blind.", "S": ["eyeless ", "unseeing ", "visionless "], "A": []}
+{"index": 290010, "D": "unable to see; blind.", "S": ["eyeless", "unseeing", "visionless"], "A": []}

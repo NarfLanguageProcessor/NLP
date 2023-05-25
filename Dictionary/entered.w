@@ -1,1 +1,1 @@
-{"index": 101227, "D": "to come or go in", "S": ["enrolled ", "listed ", "posted ", "recorded "], "A": []}
+{"index": 101227, "D": "to come or go in", "S": ["enrolled", "listed", "posted", "recorded"], "A": []}

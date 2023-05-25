@@ -1,1 +1,1 @@
-{"index": 121278, "D": "a small galley propelled by both sails and oars.", "S": ["dinghy ", "galleon ", "rowboat ", "tender ", "trireme "], "A": []}
+{"index": 121278, "D": "a small galley propelled by both sails and oars.", "S": ["dinghy", "galleon", "rowboat", "tender", "trireme"], "A": []}

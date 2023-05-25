@@ -1,1 +1,1 @@
-{"index": 60743, "D": "a number of things of the same kind, growing or held together; a bunch", "S": ["array ", "assemblage ", "band ", "batch ", "bunch ", "bundle ", "chunk ", "clump ", "collection ", "knot "], "A": ["individual ", "one "]}
+{"index": 60743, "D": "a number of things of the same kind, growing or held together; a bunch", "S": ["array", "assemblage", "band", "batch", "bunch", "bundle", "chunk", "clump", "collection", "knot"], "A": ["individual", "one"]}

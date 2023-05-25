@@ -1,1 +1,1 @@
-{"index": 224997, "D": "a systematic view of all human knowledge.", "S": ["factotum ", "handyman ", "proteus ", "tinker "], "A": []}
+{"index": 224997, "D": "a systematic view of all human knowledge.", "S": ["factotum", "handyman", "proteus", "tinker"], "A": []}

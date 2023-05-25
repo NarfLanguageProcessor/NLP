@@ -1,1 +1,1 @@
-{"index": 178719, "D": "mother1. ", "S": ["female ", "girl "], "A": []}
+{"index": 178719, "D": "mother1. ", "S": ["female", "girl"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 43301, "D": "a protruding, ragged edge raised on the surface of metal during drilling, shearing, punching, or engraving.", "S": ["accent ", "briar ", "circle ", "cut ", "halo ", "knob ", "notch ", "ring ", "sticker ", "washer ", "whetstone "], "A": []}
+{"index": 43301, "D": "a protruding, ragged edge raised on the surface of metal during drilling, shearing, punching, or engraving.", "S": ["accent", "briar", "circle", "cut", "halo", "knob", "notch", "ring", "sticker", "washer", "whetstone"], "A": []}

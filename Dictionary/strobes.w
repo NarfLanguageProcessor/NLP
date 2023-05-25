@@ -1,1 +1,1 @@
-{"index": 306414, "D": "stroboscope (def. 2a). ", "S": ["blinking light ", "searchlight ", "sodium light ", "stroboscope ", "stroboscopic light "], "A": []}
+{"index": 306414, "D": "stroboscope (def. 2a). ", "S": [], "A": []}

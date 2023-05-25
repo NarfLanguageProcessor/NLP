@@ -1,1 +1,1 @@
-{"index": 289140, "D": "a piece cut or torn off, especially in a narrow strip.", "S": ["fragment ", "iota ", "modicum ", "ounce ", "sliver ", "smidgen ", "snippet ", "speck ", "whit "], "A": ["lot ", "whole "]}
+{"index": 289140, "D": "a piece cut or torn off, especially in a narrow strip.", "S": ["fragment", "iota", "modicum", "ounce", "sliver", "smidgen", "snippet", "speck", "whit"], "A": ["lot", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 192960, "D": "to establish an enduring memorial or record of.", "S": ["celebration ", "ceremony ", "remembrance ", "tribute "], "A": ["forgetting ", "neglect ", "negligence "]}
+{"index": 192960, "D": "to establish an enduring memorial or record of.", "S": ["celebration", "ceremony", "remembrance", "tribute"], "A": ["forgetting", "neglect", "negligence"]}

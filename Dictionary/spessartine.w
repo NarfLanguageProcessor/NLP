@@ -1,1 +1,0 @@
-{"index": 299325, "D": "a yellow or red manganese-aluminum garnet, used as a semiprecious gem.", "S": [], "A": []}

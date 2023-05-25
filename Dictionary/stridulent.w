@@ -1,1 +1,1 @@
-{"index": 306255, "D": [], "S": ["annoying ", "displeasing ", "dry ", "grinding ", "jarring ", "offensive ", "rasping ", "rough ", "shrill "], "A": ["agreeable ", "nice ", "pleasing ", "smooth "]}
+{"index": 306255, "D": [], "S": ["annoying", "displeasing", "dry", "grinding", "jarring", "offensive", "rasping", "rough", "shrill"], "A": ["agreeable", "nice", "pleasing", "smooth"]}

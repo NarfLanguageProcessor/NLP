@@ -1,1 +1,1 @@
-{"index": 128952, "D": "Granny Smith apples", "S": ["dotard ", "fogy ", "fusspot ", "square ", "stick-in-the-mud "], "A": []}
+{"index": 128952, "D": "Granny Smith apples", "S": ["dotard", "fogy", "fusspot", "square", "stick-in-the-mud"], "A": []}

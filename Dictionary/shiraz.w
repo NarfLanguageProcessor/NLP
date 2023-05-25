@@ -1,1 +1,1 @@
-{"index": 288487, "D": "a city in SW Iran.", "S": ["merlot "], "A": []}
+{"index": 288487, "D": "a city in SW Iran.", "S": ["merlot"], "A": []}

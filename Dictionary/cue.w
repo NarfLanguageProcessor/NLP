@@ -1,1 +1,1 @@
-{"index": 74617, "D": "anything said or done, on or off stage, that is followed by a specific line or action", "S": ["clue ", "hint ", "suggestion "], "A": []}
+{"index": 74617, "D": "anything said or done, on or off stage, that is followed by a specific line or action", "S": ["clue", "hint", "suggestion"], "A": []}

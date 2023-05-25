@@ -1,1 +1,1 @@
-{"index": 238914, "D": "a power machine for removing the rough or excess surface from a board.", "S": ["borer ", "broaching machine ", "drill ", "facing machine ", "grinder ", "lathe ", "mill ", "planer ", "press drill ", "saw ", "shaper ", "tapping machine ", "threading machine "], "A": []}
+{"index": 238914, "D": "a power machine for removing the rough or excess surface from a board.", "S": ["borer", "broaching machine", "drill", "facing machine", "grinder", "lathe", "mill", "planer", "press drill", "saw", "shaper", "tapping machine", "threading machine"], "A": []}

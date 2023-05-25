@@ -1,1 +1,1 @@
-{"index": 1339, "D": " without instrumental accompaniment.", "S": ["choral ", "without accompaniment "], "A": []}
+{"index": 1339, "D": " without instrumental accompaniment.", "S": ["choral", "without accompaniment"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 132557, "D": "calm; peaceful; tranquil", "S": ["bucolic ", "pastoral ", "quiet ", "still "], "A": ["agitated "]}
+{"index": 132557, "D": "calm; peaceful; tranquil", "S": ["bucolic", "pastoral", "quiet", "still"], "A": ["agitated"]}

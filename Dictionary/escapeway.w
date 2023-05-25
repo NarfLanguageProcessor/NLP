@@ -1,1 +1,1 @@
-{"index": 104140, "D": "a passage designed for the purpose of escape  or through which escape is possible.", "S": ["clause ", "escalator clause ", "escape hatch ", "fine print ", "hole to creep out of ", "loophole ", "saving clause ", "technicality ", "way of escape ", "way-out "], "A": []}
+{"index": 104140, "D": "a passage designed for the purpose of escape  or through which escape is possible.", "S": ["clause", "escalator clause", "escape hatch", "fine print", "hole to creep out of", "loophole", "saving clause", "technicality", "way of escape", "way-out"], "A": []}

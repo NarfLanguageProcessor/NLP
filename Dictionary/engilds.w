@@ -1,1 +1,1 @@
-{"index": 100337, "D": "to brighten with or as with golden light", "S": ["adorn ", "bedeck "], "A": ["decrease ", "harm ", "reduce ", "reveal ", "strip "]}
+{"index": 100337, "D": "to brighten with or as with golden light", "S": ["adorn", "bedeck"], "A": ["decrease", "harm", "reduce", "reveal", "strip"]}

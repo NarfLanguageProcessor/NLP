@@ -1,1 +1,0 @@
-{"index": 369334, "D": "a cassock with a small cape attached.", "S": [], "A": []}

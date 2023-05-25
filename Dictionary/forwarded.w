@@ -1,1 +1,1 @@
-{"index": 117750, "D": "toward or at a place, point, or time in advance; onward; ahead", "S": ["delivered ", "dispatched ", "expressed "], "A": []}
+{"index": 117750, "D": "toward or at a place, point, or time in advance; onward; ahead", "S": ["delivered", "dispatched", "expressed"], "A": []}

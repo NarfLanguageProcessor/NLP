@@ -1,1 +1,1 @@
-{"index": 145243, "D": "the act of throwing or casting, especially with great force or strength.", "S": ["bandy ", "banty ", "hurley ", "hurling ", "shinny ", "shinty ", "street hockey "], "A": []}
+{"index": 145243, "D": "the act of throwing or casting, especially with great force or strength.", "S": ["bandy", "banty", "hurley", "hurling", "shinny", "shinty", "street hockey"], "A": []}

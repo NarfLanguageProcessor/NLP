@@ -1,1 +1,1 @@
-{"index": 353432, "D": "the state or character of being untrue.", "S": ["distortion ", "misrepresentation ", "whopper "], "A": ["honesty ", "truth "]}
+{"index": 353432, "D": "the state or character of being untrue.", "S": ["distortion", "misrepresentation", "whopper"], "A": ["honesty", "truth"]}

@@ -1,1 +1,0 @@
-{"index": 218344, "D": "occlusion in which the upper incisor teeth overlap the lower ones.", "S": [], "A": []}

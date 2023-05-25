@@ -1,1 +1,1 @@
-{"index": 32507, "D": "a past participle of bespeak. ", "S": ["imply "], "A": ["answer ", "avoid ", "be quiet ", "conceal ", "deny ", "hide ", "ignore ", "let go ", "overlook ", "refuse ", "reply ", "shun "]}
+{"index": 32507, "D": "a past participle of bespeak. ", "S": ["imply"], "A": ["answer", "avoid", "be quiet", "conceal", "deny", "hide", "ignore", "let go", "overlook", "refuse", "reply", "shun"]}

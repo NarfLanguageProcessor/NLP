@@ -1,1 +1,1 @@
-{"index": 236420, "D": "coloration, especially of the skin.", "S": ["glow ", "hue ", "intensity ", "paint "], "A": ["black ", "white "]}
+{"index": 236420, "D": "coloration, especially of the skin.", "S": ["glow", "hue", "intensity", "paint"], "A": ["black", "white"]}

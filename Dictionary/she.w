@@ -1,1 +1,1 @@
-{"index": 287675, "D": "the female person or animal being discussed or last mentioned; that female.", "S": ["I ", "he ", "it ", "sie ", "they ", "ve ", "xe ", "you ", "ze ", "zie "], "A": []}
+{"index": 287675, "D": "the female person or animal being discussed or last mentioned; that female.", "S": ["I", "he", "it", "sie", "they", "ve", "xe", "you", "ze", "zie"], "A": []}

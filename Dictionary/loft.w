@@ -1,1 +1,1 @@
-{"index": 174533, "D": "a room, storage area, or the like within a sloping roof; attic; garret.", "S": ["apartment ", "studio "], "A": []}
+{"index": 174533, "D": "a room, storage area, or the like within a sloping roof; attic; garret.", "S": ["apartment", "studio"], "A": []}

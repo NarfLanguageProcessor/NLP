@@ -1,0 +1,1 @@
+{"index": 20013, "D": "a small cushion forming part of the arm  of a chair, sofa, or the like.", "S": [], "A": []}

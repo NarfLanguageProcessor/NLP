@@ -1,1 +1,0 @@
-{"index": 241346, "D": "without a point", "S": [], "A": []}

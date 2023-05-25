@@ -1,1 +1,1 @@
-{"index": 67151, "D": "of or relating to a consul  appointed by one country to look after its interests and its citizens\u2019 welfare in another", "S": ["diplomatic "], "A": []}
+{"index": 67151, "D": "of or relating to a consul  appointed by one country to look after its interests and its citizens\u2019 welfare in another", "S": ["diplomatic"], "A": []}

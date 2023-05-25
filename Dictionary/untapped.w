@@ -1,1 +1,1 @@
-{"index": 352691, "D": "previously untapped resources", "S": ["inaugural ", "introductory "], "A": ["final ", "last "]}
+{"index": 352691, "D": "previously untapped resources", "S": ["inaugural", "introductory"], "A": ["final", "last"]}

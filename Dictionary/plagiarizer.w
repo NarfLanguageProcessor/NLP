@@ -1,1 +1,1 @@
-{"index": 238653, "D": "to take and use by plagiarism. ", "S": ["marauder ", "plagiarist ", "privateer ", "stealer "], "A": []}
+{"index": 238653, "D": "to take and use by plagiarism. ", "S": ["marauder", "plagiarist", "privateer", "stealer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 173986, "D": "the horses, cattle, sheep, and other useful animals kept or raised on a farm or ranch.", "S": ["herd ", "oxen "], "A": []}
+{"index": 173986, "D": "the horses, cattle, sheep, and other useful animals kept or raised on a farm or ranch.", "S": ["herd", "oxen"], "A": []}

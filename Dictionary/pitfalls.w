@@ -1,1 +1,1 @@
-{"index": 238266, "D": "a lightly covered and unnoticeable pit prepared as a trap for people or animals.", "S": ["danger ", "difficulty ", "drawback ", "peril ", "risk ", "snag "], "A": ["advantage ", "safety ", "security "]}
+{"index": 238266, "D": "a lightly covered and unnoticeable pit prepared as a trap for people or animals.", "S": ["danger", "difficulty", "drawback", "peril", "risk", "snag"], "A": ["advantage", "safety", "security"]}

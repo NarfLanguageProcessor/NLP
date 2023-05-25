@@ -1,1 +1,1 @@
-{"index": 143469, "D": "alcoholic liquor.", "S": ["bootleg ", "firewater ", "home brew ", "homemade spirit ", "moonshine ", "mountain dew ", "white lightning "], "A": []}
+{"index": 143469, "D": "alcoholic liquor.", "S": ["bootleg", "firewater", "home brew", "homemade spirit", "moonshine", "mountain dew", "white lightning"], "A": []}

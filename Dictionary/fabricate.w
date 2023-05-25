@@ -1,1 +1,1 @@
-{"index": 108898, "D": "to make by art or skill and labor; construct", "S": ["assemble ", "concoct ", "construct ", "contrive ", "dream up ", "formulate ", "invent "], "A": ["demolish ", "destroy ", "ruin ", "disarrange ", "divide ", "neglect ", "raze ", "separate "]}
+{"index": 108898, "D": "to make by art or skill and labor; construct", "S": ["assemble", "concoct", "construct", "contrive", "dream up", "formulate", "invent"], "A": ["demolish", "destroy", "ruin", "disarrange", "divide", "neglect", "raze", "separate"]}

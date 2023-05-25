@@ -1,1 +1,1 @@
-{"index": 80642, "D": "abdication. ", "S": ["abandonment "], "A": []}
+{"index": 80642, "D": "abdication. ", "S": ["abandonment"], "A": []}

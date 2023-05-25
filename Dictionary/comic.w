@@ -1,1 +1,1 @@
-{"index": 63817, "D": "of, relating to, or characterized by comedy", "S": ["clown ", "comedian ", "humorist ", "stooge "], "A": ["tragedian "]}
+{"index": 63817, "D": "of, relating to, or characterized by comedy", "S": ["clown", "comedian", "humorist", "stooge"], "A": ["tragedian"]}

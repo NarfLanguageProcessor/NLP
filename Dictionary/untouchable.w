@@ -1,1 +1,1 @@
-{"index": 353150, "D": "that may not be touched; of a nature such that it cannot be touched; not palpable; intangible. ", "S": ["forbidden "], "A": []}
+{"index": 353150, "D": "that may not be touched; of a nature such that it cannot be touched; not palpable; intangible. ", "S": ["forbidden"], "A": []}

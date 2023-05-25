@@ -1,1 +1,1 @@
-{"index": 295432, "D": "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "S": ["detractor ", "doubter ", "pessimist ", "skeptic "], "A": ["believer "]}
+{"index": 295432, "D": "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "S": ["detractor", "doubter", "pessimist", "skeptic"], "A": ["believer"]}

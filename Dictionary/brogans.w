@@ -1,1 +1,1 @@
-{"index": 41158, "D": "a heavy, sturdy shoe, especially an ankle-high work shoe.", "S": ["brogues "], "A": []}
+{"index": 41158, "D": "a heavy, sturdy shoe, especially an ankle-high work shoe.", "S": ["brogues"], "A": []}

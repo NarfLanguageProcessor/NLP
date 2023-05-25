@@ -1,1 +1,1 @@
-{"index": 304786, "D": "a condition, demand, or promise in an agreement or contract.", "S": ["arrangement ", "clause ", "obligation ", "precondition ", "provision ", "qualification ", "requirement ", "restriction ", "specification "], "A": ["disagreement "]}
+{"index": 304786, "D": "a condition, demand, or promise in an agreement or contract.", "S": ["arrangement", "clause", "obligation", "precondition", "provision", "qualification", "requirement", "restriction", "specification"], "A": ["disagreement"]}

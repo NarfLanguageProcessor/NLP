@@ -1,1 +1,1 @@
-{"index": 49497, "D": "the contents of such a book.", "S": ["exam ", "examination ", "questioning "], "A": []}
+{"index": 49497, "D": "the contents of such a book.", "S": ["exam", "examination", "questioning"], "A": []}

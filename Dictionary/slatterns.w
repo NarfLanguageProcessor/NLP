@@ -1,1 +1,1 @@
-{"index": 293747, "D": "a slovenly, untidy woman or girl.", "S": ["baggage ", "floozy ", "harlot ", "hooker ", "hussy ", "jade ", "prostitute ", "slob ", "tart ", "tramp ", "vamp ", "wanton ", "wench ", "whore "], "A": []}
+{"index": 293747, "D": "a slovenly, untidy woman or girl.", "S": ["baggage", "floozy", "harlot", "hooker", "hussy", "jade", "prostitute", "slob", "tart", "tramp", "vamp", "wanton", "wench", "whore"], "A": []}

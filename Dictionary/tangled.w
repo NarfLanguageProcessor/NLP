@@ -1,1 +1,1 @@
-{"index": 316067, "D": "snarled, interlaced, or mixed up", "S": ["chaotic ", "knotted ", "muddled ", "trapped ", "twisted "], "A": ["apparent ", "clear ", "obvious ", "ordered ", "organized ", "simple ", "unraveled "]}
+{"index": 316067, "D": "snarled, interlaced, or mixed up", "S": ["chaotic", "knotted", "muddled", "trapped", "twisted"], "A": ["apparent", "clear", "obvious", "ordered", "organized", "simple", "unraveled"]}

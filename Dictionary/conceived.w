@@ -1,1 +1,1 @@
-{"index": 65109, "D": "having been formed, originated, or expressed", "S": ["chartered ", "completed ", "founded ", "incorporated ", "initiated ", "organized ", "ratified ", "set up ", "settled "], "A": ["incomplete ", "unfinished "]}
+{"index": 65109, "D": "having been formed, originated, or expressed", "S": ["chartered", "completed", "founded", "incorporated", "initiated", "organized", "ratified", "set up", "settled"], "A": ["incomplete", "unfinished"]}

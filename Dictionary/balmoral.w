@@ -1,1 +1,1 @@
-{"index": 27080, "D": "a colored woolen petticoat, formerly worn under a skirt and draped so that portions of it could be seen.", "S": ["clothes ", "kilt ", "slip ", "undercoat ", "underskirt ", "waistcoat "], "A": []}
+{"index": 27080, "D": "a colored woolen petticoat, formerly worn under a skirt and draped so that portions of it could be seen.", "S": ["clothes", "kilt", "slip", "undercoat", "underskirt", "waistcoat"], "A": []}

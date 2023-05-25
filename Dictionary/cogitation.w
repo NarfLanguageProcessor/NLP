@@ -1,1 +1,1 @@
-{"index": 62236, "D": "concerted thought or reflection; meditation; contemplation", "S": ["cerebration ", "consideration ", "contemplation ", "deliberation ", "meditation ", "reflection ", "rumination ", "speculation "], "A": ["disdain ", "disregard ", "neglect "]}
+{"index": 62236, "D": "concerted thought or reflection; meditation; contemplation", "S": ["cerebration", "consideration", "contemplation", "deliberation", "meditation", "reflection", "rumination", "speculation"], "A": ["disdain", "disregard", "neglect"]}

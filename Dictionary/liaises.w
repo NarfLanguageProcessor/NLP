@@ -1,1 +1,1 @@
-{"index": 171384, "D": "to form a liaison. ", "S": ["communicate ", "connect ", "contact ", "network "], "A": []}
+{"index": 171384, "D": "to form a liaison. ", "S": ["communicate", "connect", "contact", "network"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 206948, "D": "of, relating to, or characteristic of the country, country life, or country people; rustic", "S": ["civic ", "civil ", "downtown ", "metropolitan "], "A": ["country ", "rural ", "suburban "]}
+{"index": 206948, "D": "of, relating to, or characteristic of the country, country life, or country people; rustic", "S": ["civic", "civil", "downtown", "metropolitan"], "A": ["country", "rural", "suburban"]}

@@ -1,1 +1,1 @@
-{"index": 4649, "D": "in a negative, contrary, or unfavorable way or direction", "S": ["negatively ", "skeptically "], "A": []}
+{"index": 4649, "D": "in a negative, contrary, or unfavorable way or direction", "S": ["negatively", "skeptically"], "A": []}

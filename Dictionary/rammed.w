@@ -1,1 +1,0 @@
-{"index": 260340, "D": "a male sheep.", "S": ["cram ", "crash ", "run into ", "sink ", "slam ", "smash ", "stab ", "thrust "], "A": ["aid ", "assist ", "halt ", "help ", "let go ", "lose ", "retreat ", "stop ", "surrender "]}

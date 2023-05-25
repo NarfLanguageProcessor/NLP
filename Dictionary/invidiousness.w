@@ -1,1 +1,1 @@
-{"index": 157212, "D": "calculated to create ill will or resentment or give offense; hateful", "S": ["begrudging ", "bitterness ", "hatred ", "ill will ", "jealousy ", "malice ", "prejudice ", "resentment ", "rivalry "], "A": ["friendliness ", "liking ", "love ", "loving "]}
+{"index": 157212, "D": "calculated to create ill will or resentment or give offense; hateful", "S": ["begrudging", "bitterness", "hatred", "ill will", "jealousy", "malice", "prejudice", "resentment", "rivalry"], "A": ["friendliness", "liking", "love", "loving"]}

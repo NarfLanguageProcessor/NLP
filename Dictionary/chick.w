@@ -1,1 +1,1 @@
-{"index": 54134, "D": "a young chicken or other bird.", "S": ["chicken ", "fledgling ", "nestling "], "A": []}
+{"index": 54134, "D": "a young chicken or other bird.", "S": ["chicken", "fledgling", "nestling"], "A": []}

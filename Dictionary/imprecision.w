@@ -1,1 +1,1 @@
-{"index": 149013, "D": "not precise;  not exact; vague or ill-defined.", "S": ["ambiguity ", "cloudiness ", "doubtfulness ", "equivocation ", "inconclusiveness ", "murkiness ", "nebulousness ", "obscureness ", "obscurity ", "uncertainty ", "unclearness "], "A": []}
+{"index": 149013, "D": "not precise;  not exact; vague or ill-defined.", "S": ["ambiguity", "cloudiness", "doubtfulness", "equivocation", "inconclusiveness", "murkiness", "nebulousness", "obscureness", "obscurity", "uncertainty", "unclearness"], "A": []}

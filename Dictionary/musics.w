@@ -1,1 +1,1 @@
-{"index": 196027, "D": "an art of sound in time that expresses ideas and emotions in significant forms through the elements of rhythm, melody, harmony, and color.", "S": ["melody ", "opera ", "piece ", "rap ", "rock ", "singing ", "soul ", "tune "], "A": ["silence "]}
+{"index": 196027, "D": "an art of sound in time that expresses ideas and emotions in significant forms through the elements of rhythm, melody, harmony, and color.", "S": ["melody", "opera", "piece", "rap", "rock", "singing", "soul", "tune"], "A": ["silence"]}

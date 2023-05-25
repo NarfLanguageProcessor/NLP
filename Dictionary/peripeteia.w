@@ -1,1 +1,1 @@
-{"index": 231203, "D": "a sudden turn of events or an unexpected reversal, especially in a literary work.", "S": ["climax ", "critical point ", "crux ", "culmination ", "juncture ", "twist "], "A": []}
+{"index": 231203, "D": "a sudden turn of events or an unexpected reversal, especially in a literary work.", "S": ["climax", "critical point", "crux", "culmination", "juncture", "twist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 178363, "D": "a curse; imprecation.", "S": ["anathema ", "commination ", "cuss ", "damn ", "damnation ", "darn ", "denunciation ", "execration ", "expletive ", "imprecation ", "jinx ", "oath ", "whammy "], "A": ["blessing "]}
+{"index": 178363, "D": "a curse; imprecation.", "S": ["anathema", "commination", "cuss", "damn", "damnation", "darn", "denunciation", "execration", "expletive", "imprecation", "jinx", "oath", "whammy"], "A": ["blessing"]}

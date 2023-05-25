@@ -1,1 +1,1 @@
-{"index": 182806, "D": "to merge; blend. ", "S": ["complex ", "compound ", "conglomerate "], "A": ["homogeneous ", "simple ", "unblended ", "uncombined ", "uniform ", "unmixed "]}
+{"index": 182806, "D": "to merge; blend. ", "S": ["complex", "compound", "conglomerate"], "A": ["homogeneous", "simple", "unblended", "uncombined", "uniform", "unmixed"]}

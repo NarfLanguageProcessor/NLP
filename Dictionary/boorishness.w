@@ -1,1 +1,1 @@
-{"index": 38207, "D": "of or like a boor;  unmannered; crude; insensitive.", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}
+{"index": 38207, "D": "of or like a boor;  unmannered; crude; insensitive.", "S": ["ignorance", "ineptitude"], "A": ["politeness", "sophistication"]}

@@ -1,1 +1,1 @@
-{"index": 264506, "D": "to double; repeat.", "S": ["copying ", "duplicating ", "echoing ", "imitating ", "reproducing "], "A": []}
+{"index": 264506, "D": "to double; repeat.", "S": ["copying", "duplicating", "echoing", "imitating", "reproducing"], "A": []}

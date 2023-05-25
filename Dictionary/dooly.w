@@ -1,1 +1,1 @@
-{"index": 91512, "D": "(in India) a simple litter, often used to transport sick or wounded persons.", "S": ["bed ", "cot ", "gurney ", "litter "], "A": []}
+{"index": 91512, "D": "(in India) a simple litter, often used to transport sick or wounded persons.", "S": ["bed", "cot", "gurney", "litter"], "A": []}

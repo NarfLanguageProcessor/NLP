@@ -1,1 +1,1 @@
-{"index": 309792, "D": [], "S": ["backup ", "replacement ", "stand-in ", "surrogate "], "A": ["being ", "entity ", "permanent "]}
+{"index": 309792, "D": [], "S": ["backup", "replacement", "stand-in", "surrogate"], "A": ["being", "entity", "permanent"]}

@@ -1,1 +1,0 @@
-{"index": 214335, "D": "Technical name", "S": [], "A": []}

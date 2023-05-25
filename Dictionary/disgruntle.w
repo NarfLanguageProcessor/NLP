@@ -1,1 +1,1 @@
-{"index": 88181, "D": "to put into a state of sulky dissatisfaction; make discontent.", "S": ["anger ", "annoy ", "discontent ", "displease ", "dissatisfy ", "irk ", "irritate "], "A": ["aid ", "calm ", "delight ", "make happy ", "please ", "soothe "]}
+{"index": 88181, "D": "to put into a state of sulky dissatisfaction; make discontent.", "S": ["anger", "annoy", "discontent", "displease", "dissatisfy", "irk", "irritate"], "A": ["aid", "calm", "delight", "make happy", "please", "soothe"]}

@@ -1,1 +1,1 @@
-{"index": 181228, "D": "Compare patriclinous", "S": ["ancestral ", "hereditary ", "historical "], "A": ["acquired "]}
+{"index": 181228, "D": "Compare patriclinous", "S": ["ancestral", "hereditary", "historical"], "A": ["acquired"]}

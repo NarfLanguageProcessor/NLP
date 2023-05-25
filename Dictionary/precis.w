@@ -1,1 +1,1 @@
-{"index": 246134, "D": "a concise summary.", "S": ["abridgement ", "abstract ", "condensation ", "digest ", "epitome ", "synopsis "], "A": ["addition ", "enlargement ", "expansion ", "extension ", "increase "]}
+{"index": 246134, "D": "a concise summary.", "S": ["abridgement", "abstract", "condensation", "digest", "epitome", "synopsis"], "A": ["addition", "enlargement", "expansion", "extension", "increase"]}

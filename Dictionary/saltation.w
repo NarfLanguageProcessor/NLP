@@ -1,1 +1,1 @@
-{"index": 277259, "D": "a dancing, hopping, or leaping movement.", "S": ["bounce ", "dive ", "drop ", "fall ", "hurdle ", "plunge ", "rise ", "upsurge ", "vault "], "A": []}
+{"index": 277259, "D": "a dancing, hopping, or leaping movement.", "S": ["bounce", "dive", "drop", "fall", "hurdle", "plunge", "rise", "upsurge", "vault"], "A": []}

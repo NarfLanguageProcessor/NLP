@@ -1,1 +1,1 @@
-{"index": 344313, "D": "not impeded; unhindered", "S": ["unhampered ", "unlimited "], "A": []}
+{"index": 344313, "D": "not impeded; unhindered", "S": ["unhampered", "unlimited"], "A": []}

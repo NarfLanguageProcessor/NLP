@@ -1,1 +1,1 @@
-{"index": 359733, "D": "having a cruel, wicked, malicious nature or character.", "S": ["nefarious ", "shady ", "vile ", "wicked "], "A": ["good ", "honorable ", "nice ", "respectable "]}
+{"index": 359733, "D": "having a cruel, wicked, malicious nature or character.", "S": ["nefarious", "shady", "vile", "wicked"], "A": ["good", "honorable", "nice", "respectable"]}

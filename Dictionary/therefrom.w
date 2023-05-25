@@ -1,1 +1,1 @@
-{"index": 321241, "D": "from  that place, thing, etc.", "S": ["accordingly ", "so ", "then ", "thus "], "A": []}
+{"index": 321241, "D": "from  that place, thing, etc.", "S": ["accordingly", "so", "then", "thus"], "A": []}

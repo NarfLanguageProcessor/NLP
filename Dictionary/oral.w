@@ -1,1 +1,1 @@
-{"index": 213930, "D": "uttered by the mouth; spoken", "S": ["lingual ", "sonant ", "vocal "], "A": ["printed ", "written "]}
+{"index": 213930, "D": "uttered by the mouth; spoken", "S": ["lingual", "sonant", "vocal"], "A": ["printed", "written"]}

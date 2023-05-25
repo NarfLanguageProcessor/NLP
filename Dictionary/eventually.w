@@ -1,1 +1,1 @@
-{"index": 106133, "D": "finally; ultimately; at some later time", "S": ["finally ", "in the course of time ", "one day ", "someday ", "sooner or later ", "ultimately "], "A": ["never "]}
+{"index": 106133, "D": "finally; ultimately; at some later time", "S": ["finally", "in the course of time", "one day", "someday", "sooner or later", "ultimately"], "A": ["never"]}

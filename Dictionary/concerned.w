@@ -1,1 +1,1 @@
-{"index": 65184, "D": "interested or affected", "S": ["anxious ", "distressed ", "disturbed ", "troubled ", "uneasy ", "uptight "], "A": ["calm ", "collected ", "composed ", "cool ", "happy ", "peaceful "]}
+{"index": 65184, "D": "interested or affected", "S": ["anxious", "distressed", "disturbed", "troubled", "uneasy", "uptight"], "A": ["calm", "collected", "composed", "cool", "happy", "peaceful"]}

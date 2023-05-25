@@ -1,1 +1,0 @@
-{"index": 320843, "D": "contraction of they are.", "S": [], "A": []}

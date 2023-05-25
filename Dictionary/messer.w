@@ -1,1 +1,1 @@
-{"index": 184478, "D": [], "S": ["bedraggled ", "jumbled ", "messy ", "sloppy ", "tangled "], "A": ["clean ", "neat ", "ordered ", "organized ", "tidy "]}
+{"index": 184478, "D": [], "S": ["bedraggled", "jumbled", "messy", "sloppy", "tangled"], "A": ["clean", "neat", "ordered", "organized", "tidy"]}

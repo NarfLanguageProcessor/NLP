@@ -1,1 +1,1 @@
-{"index": 42940, "D": "the power to float or rise in a fluid; relative lightness.", "S": ["airiness ", "ethereality ", "floatability ", "levity ", "weightlessness "], "A": ["blues ", "depression ", "heaviness "]}
+{"index": 42940, "D": "the power to float or rise in a fluid; relative lightness.", "S": ["airiness", "ethereality", "floatability", "levity", "weightlessness"], "A": ["blues", "depression", "heaviness"]}

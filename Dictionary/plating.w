@@ -1,1 +1,1 @@
-{"index": 239431, "D": "a thin coating of gold, silver, etc.", "S": ["anodize ", "bronze ", "chrome ", "cover ", "electroplate ", "enamel ", "encrust ", "face ", "flake ", "foil ", "gild ", "laminate ", "layer ", "nickel ", "overlay ", "platinize ", "scale ", "silver ", "stratify "], "A": []}
+{"index": 239431, "D": "a thin coating of gold, silver, etc.", "S": ["anodize", "bronze", "chrome", "cover", "electroplate", "enamel", "encrust", "face", "flake", "foil", "gild", "laminate", "layer", "nickel", "overlay", "platinize", "scale", "silver", "stratify"], "A": []}

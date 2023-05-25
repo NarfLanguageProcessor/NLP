@@ -1,1 +1,1 @@
-{"index": 121889, "D": "any of certain masses of gray matter in the brain, as the basal ganglia.", "S": ["command post ", "focal point ", "headquarters ", "hotbed "], "A": []}
+{"index": 121889, "D": "any of certain masses of gray matter in the brain, as the basal ganglia.", "S": ["command post", "focal point", "headquarters", "hotbed"], "A": []}

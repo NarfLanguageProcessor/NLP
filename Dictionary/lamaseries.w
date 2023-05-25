@@ -1,1 +1,1 @@
-{"index": 167562, "D": "a monastery of lamas.", "S": ["nunnery "], "A": []}
+{"index": 167562, "D": "a monastery of lamas.", "S": ["nunnery"], "A": []}

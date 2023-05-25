@@ -1,1 +1,1 @@
-{"index": 112914, "D": "of or relating to a topology or a topological space whose open sets include all the open sets of a second specified topology on the space.", "S": ["exceptional ", "improved ", "superior "], "A": ["inferior "]}
+{"index": 112914, "D": "of or relating to a topology or a topological space whose open sets include all the open sets of a second specified topology on the space.", "S": ["exceptional", "improved", "superior"], "A": ["inferior"]}

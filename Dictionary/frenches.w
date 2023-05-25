@@ -1,1 +1,1 @@
-{"index": 118738, "D": "of, relating to, or characteristic of France or its inhabitants, language, or culture", "S": ["Catalan ", "Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Portuguese ", "Provencal ", "Spanish ", "insular "], "A": []}
+{"index": 118738, "D": "of, relating to, or characteristic of France or its inhabitants, language, or culture", "S": ["Catalan", "Continental", "French", "Indo-European language", "Italian", "Italic language", "Latin", "Portuguese", "Provencal", "Spanish", "insular"], "A": []}

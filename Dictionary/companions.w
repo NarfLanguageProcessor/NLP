@@ -1,1 +1,1 @@
-{"index": 64389, "D": "a person who is frequently in the company of, associates with, or accompanies another", "S": ["camp ", "class ", "clique ", "club ", "company ", "crowd ", "fraternity ", "party ", "ring ", "school ", "society "], "A": ["individual "]}
+{"index": 64389, "D": "a person who is frequently in the company of, associates with, or accompanies another", "S": ["camp", "class", "clique", "club", "company", "crowd", "fraternity", "party", "ring", "school", "society"], "A": ["individual"]}

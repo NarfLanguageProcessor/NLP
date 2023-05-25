@@ -1,1 +1,1 @@
-{"index": 195533, "D": "common; ordinary; banal; unimaginative.", "S": ["banal ", "day-to-day ", "everyday ", "humdrum ", "normal ", "prosaic ", "workaday "], "A": ["abnormal ", "uncommon ", "unusual "]}
+{"index": 195533, "D": "common; ordinary; banal; unimaginative.", "S": ["banal", "day-to-day", "everyday", "humdrum", "normal", "prosaic", "workaday"], "A": ["abnormal", "uncommon", "unusual"]}

@@ -1,1 +1,1 @@
-{"index": 272437, "D": "ribs  collectively.", "S": ["banter ", "taunt ", "taunting "], "A": []}
+{"index": 272437, "D": "ribs  collectively.", "S": ["banter", "taunt", "taunting"], "A": []}

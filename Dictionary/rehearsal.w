@@ -1,1 +1,1 @@
-{"index": 265975, "D": "a session of exercise, drill, or practice, usually private, in preparation for a public performance, ceremony, etc.", "S": ["drill ", "practice session ", "reading ", "recital ", "tryout ", "workout "], "A": ["cold turkey "]}
+{"index": 265975, "D": "a session of exercise, drill, or practice, usually private, in preparation for a public performance, ceremony, etc.", "S": ["drill", "practice session", "reading", "recital", "tryout", "workout"], "A": ["cold turkey"]}

@@ -1,1 +1,1 @@
-{"index": 84156, "D": "a figure, usually consisting of a line drawing, made to accompany and illustrate a geometrical theorem, mathematical demonstration, etc.", "S": ["epitomized ", "generalized ", "graphed ", "mapped ", "profiled ", "summarized "], "A": []}
+{"index": 84156, "D": "a figure, usually consisting of a line drawing, made to accompany and illustrate a geometrical theorem, mathematical demonstration, etc.", "S": ["epitomized", "generalized", "graphed", "mapped", "profiled", "summarized"], "A": []}

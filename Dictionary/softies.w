@@ -1,1 +1,1 @@
-{"index": 296370, "D": "a person easily stirred to sentiment or tender emotion.", "S": ["easy mark "], "A": []}
+{"index": 296370, "D": "a person easily stirred to sentiment or tender emotion.", "S": ["easy mark"], "A": []}

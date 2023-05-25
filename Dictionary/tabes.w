@@ -1,1 +1,1 @@
-{"index": 314800, "D": "a gradually progressive emaciation.", "S": ["anorexia ", "atrophy ", "attenuation ", "boniness ", "consumption ", "malnutrition ", "marasmus ", "skinniness ", "starvation ", "thinness ", "undernourishment ", "wasting ", "withering "], "A": []}
+{"index": 314800, "D": "a gradually progressive emaciation.", "S": ["anorexia", "atrophy", "attenuation", "boniness", "consumption", "malnutrition", "marasmus", "skinniness", "starvation", "thinness", "undernourishment", "wasting", "withering"], "A": []}

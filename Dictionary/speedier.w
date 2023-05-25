@@ -1,1 +1,1 @@
-{"index": 299020, "D": "characterized by speed;  rapid; swift; fast.", "S": ["accelerated ", "brisk ", "expeditious ", "hasty ", "hurried ", "immediate ", "prompt ", "rapid ", "swift "], "A": ["delayed ", "leisurely ", "slow ", "sluggish "]}
+{"index": 299020, "D": "characterized by speed;  rapid; swift; fast.", "S": ["accelerated", "brisk", "expeditious", "hasty", "hurried", "immediate", "prompt", "rapid", "swift"], "A": ["delayed", "leisurely", "slow", "sluggish"]}

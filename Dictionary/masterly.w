@@ -1,1 +1,1 @@
-{"index": 180857, "D": "like or befitting a master,  as in skill or art; worthy of a a master; very skillful", "S": ["excellent ", "masterful ", "skillful ", "superb "], "A": ["bad ", "ignorant ", "inferior ", "poor ", "second-rate ", "unskilled "]}
+{"index": 180857, "D": "like or befitting a master,  as in skill or art; worthy of a a master; very skillful", "S": ["excellent", "masterful", "skillful", "superb"], "A": ["bad", "ignorant", "inferior", "poor", "second-rate", "unskilled"]}

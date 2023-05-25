@@ -1,1 +1,1 @@
-{"index": 97877, "D": "elfish. ", "S": ["devilish ", "jaunty ", "naughty ", "playful "], "A": ["good ", "moral "]}
+{"index": 97877, "D": "elfish. ", "S": ["devilish", "jaunty", "naughty", "playful"], "A": ["good", "moral"]}

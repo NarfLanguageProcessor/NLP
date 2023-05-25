@@ -1,1 +1,1 @@
-{"index": 222310, "D": "to treat, combine, or enrich with oxygen", "S": ["opened "], "A": ["closed ", "concealed ", "secret ", "stuffy ", "undisclosed "]}
+{"index": 222310, "D": "to treat, combine, or enrich with oxygen", "S": ["opened"], "A": ["closed", "concealed", "secret", "stuffy", "undisclosed"]}

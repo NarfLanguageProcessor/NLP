@@ -1,1 +1,1 @@
-{"index": 50303, "D": "stopped or ended; discontinued", "S": ["closed ", "concluded ", "decided ", "ended ", "full ", "realized ", "resolved ", "satisfied ", "settled ", "stopped "], "A": ["incomplete "]}
+{"index": 50303, "D": "stopped or ended; discontinued", "S": ["closed", "concluded", "decided", "ended", "full", "realized", "resolved", "satisfied", "settled", "stopped"], "A": ["incomplete"]}

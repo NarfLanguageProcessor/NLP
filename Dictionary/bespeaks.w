@@ -1,1 +1,1 @@
-{"index": 32483, "D": "to ask for in advance", "S": ["imply "], "A": ["answer ", "avoid ", "be quiet ", "conceal ", "deny ", "hide ", "ignore ", "let go ", "overlook ", "refuse ", "reply ", "shun "]}
+{"index": 32483, "D": "to ask for in advance", "S": ["imply"], "A": ["answer", "avoid", "be quiet", "conceal", "deny", "hide", "ignore", "let go", "overlook", "refuse", "reply", "shun"]}

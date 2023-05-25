@@ -1,1 +1,1 @@
-{"index": 245373, "D": "to talk in a foolish or simple-minded way; chatter; babble.", "S": ["babble ", "blather ", "chat ", "chatter ", "clack ", "confabulate ", "gab ", "gossip ", "jabber ", "jaw ", "prate ", "prattle ", "run on ", "tattle ", "yammer "], "A": []}
+{"index": 245373, "D": "to talk in a foolish or simple-minded way; chatter; babble.", "S": ["babble", "blather", "chat", "chatter", "clack", "confabulate", "gab", "gossip", "jabber", "jaw", "prate", "prattle", "run on", "tattle", "yammer"], "A": []}

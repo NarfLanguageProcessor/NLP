@@ -1,1 +1,1 @@
-{"index": 180864, "D": "to plan and direct (a usually complex project or activity), especially skillfully", "S": ["organize "], "A": []}
+{"index": 180864, "D": "to plan and direct (a usually complex project or activity), especially skillfully", "S": ["organize"], "A": []}

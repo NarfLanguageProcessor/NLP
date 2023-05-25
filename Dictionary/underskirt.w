@@ -1,1 +1,0 @@
-{"index": 339829, "D": "a skirt,  as a petticoat, worn under another skirt  or a dress.", "S": ["balmoral ", "clothes ", "kilt ", "slip ", "undercoat ", "waistcoat "], "A": []}

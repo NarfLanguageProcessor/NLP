@@ -1,1 +1,1 @@
-{"index": 364622, "D": "the young of a carnivore, as a dog, bear, lion, seal, etc.", "S": ["cub ", "dog ", "pup ", "puppy "], "A": []}
+{"index": 364622, "D": "the young of a carnivore, as a dog, bear, lion, seal, etc.", "S": ["cub", "dog", "pup", "puppy"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 241277, "D": [], "S": ["emotion ", "passion ", "poignancy "], "A": ["cheer ", "glee ", "happiness ", "joy "]}
+{"index": 241277, "D": [], "S": ["emotion", "passion", "poignancy"], "A": ["cheer", "glee", "happiness", "joy"]}

@@ -1,1 +1,0 @@
-{"index": 262849, "D": [], "S": ["backslide ", "backsliding ", "decadence ", "declension ", "decline ", "degeneration ", "descent ", "deterioration ", "devolution ", "drop ", "fall ", "recession ", "recidivism ", "regression ", "relapse ", "retrogradation ", "retrogression "], "A": []}

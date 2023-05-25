@@ -1,1 +1,1 @@
-{"index": 25898, "D": "the rear or back part or view of an object, person, scene, etc.; that part which is opposite the front.", "S": ["butt ", "posterior ", "rump "], "A": []}
+{"index": 25898, "D": "the rear or back part or view of an object, person, scene, etc.; that part which is opposite the front.", "S": ["butt", "posterior", "rump"], "A": []}

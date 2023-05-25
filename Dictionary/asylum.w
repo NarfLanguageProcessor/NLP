@@ -1,1 +1,1 @@
-{"index": 21229, "D": "(especially formerly) an institution for the maintenance and care of the mentally ill, orphans, or other persons requiring specialized assistance.", "S": ["haven ", "refuge ", "sanctuary ", "shelter "], "A": ["danger "]}
+{"index": 21229, "D": "(especially formerly) an institution for the maintenance and care of the mentally ill, orphans, or other persons requiring specialized assistance.", "S": ["haven", "refuge", "sanctuary", "shelter"], "A": ["danger"]}

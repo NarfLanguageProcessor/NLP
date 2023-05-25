@@ -1,1 +1,1 @@
-{"index": 365001, "D": "a relatively small mass of air rotating rapidly around a more or less vertical axis and simultaneously advancing over land or sea", "S": ["furor ", "fuss ", "uproar "], "A": ["calm ", "peace ", "calmness ", "harmony ", "order ", "quiet "]}
+{"index": 365001, "D": "a relatively small mass of air rotating rapidly around a more or less vertical axis and simultaneously advancing over land or sea", "S": ["furor", "fuss", "uproar"], "A": ["calm", "peace", "calmness", "harmony", "order", "quiet"]}

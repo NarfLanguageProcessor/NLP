@@ -1,1 +1,1 @@
-{"index": 327024, "D": "capable of being traced. ", "S": ["attributable ", "detectable ", "identifiable "], "A": []}
+{"index": 327024, "D": "capable of being traced. ", "S": ["attributable", "detectable", "identifiable"], "A": []}

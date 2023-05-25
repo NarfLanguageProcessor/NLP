@@ -1,1 +1,1 @@
-{"index": 118703, "D": "goods, cargo, or lading transported for pay, whether by water, land, or air.", "S": ["carried ", "conveyed ", "mobile ", "moving ", "passing ", "shipped "], "A": ["fixed ", "immobile ", "permanent ", "stationary "]}
+{"index": 118703, "D": "goods, cargo, or lading transported for pay, whether by water, land, or air.", "S": ["carried", "conveyed", "mobile", "moving", "passing", "shipped"], "A": ["fixed", "immobile", "permanent", "stationary"]}

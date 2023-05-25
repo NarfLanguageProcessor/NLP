@@ -1,1 +1,1 @@
-{"index": 153722, "D": "not solvent;  unable to satisfy creditors or discharge liabilities, either because liabilities exceed assets or because of inability to pay debts as they mature.", "S": ["bankrupt ", "broke ", "failed ", "indebted ", "strapped "], "A": ["rich ", "solvent ", "wealthy "]}
+{"index": 153722, "D": "not solvent;  unable to satisfy creditors or discharge liabilities, either because liabilities exceed assets or because of inability to pay debts as they mature.", "S": ["bankrupt", "broke", "failed", "indebted", "strapped"], "A": ["rich", "solvent", "wealthy"]}

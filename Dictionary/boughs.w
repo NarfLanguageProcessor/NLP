@@ -1,1 +1,1 @@
-{"index": 38903, "D": "a branch of a tree, especially one of the larger or main branches.", "S": ["sprig "], "A": []}
+{"index": 38903, "D": "a branch of a tree, especially one of the larger or main branches.", "S": ["sprig"], "A": []}

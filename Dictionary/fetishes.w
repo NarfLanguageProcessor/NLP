@@ -1,1 +1,1 @@
-{"index": 111769, "D": "an object regarded with awe as being the embodiment or habitation of a potent spirit or as having magical potency.", "S": ["predilection ", "proclivity "], "A": ["dislike ", "fairness ", "hate ", "hatred ", "impartiality ", "justice "]}
+{"index": 111769, "D": "an object regarded with awe as being the embodiment or habitation of a potent spirit or as having magical potency.", "S": ["predilection", "proclivity"], "A": ["dislike", "fairness", "hate", "hatred", "impartiality", "justice"]}

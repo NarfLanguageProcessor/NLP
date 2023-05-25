@@ -1,1 +1,1 @@
-{"index": 102482, "D": "of or like an epigram;  terse and ingenious in expression.", "S": ["aphoristic ", "compact ", "concise ", "crisp ", "epigrammatic ", "piquant ", "pointed ", "succinct ", "terse ", "to the point ", "witty "], "A": []}
+{"index": 102482, "D": "of or like an epigram;  terse and ingenious in expression.", "S": ["aphoristic", "compact", "concise", "crisp", "epigrammatic", "piquant", "pointed", "succinct", "terse", "to the point", "witty"], "A": []}

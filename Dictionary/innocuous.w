@@ -1,1 +1,1 @@
-{"index": 153071, "D": "not harmful or injurious; harmless", "S": ["banal ", "bland ", "inoffensive ", "insipid ", "painless "], "A": ["delicious ", "tasty ", "yummy "]}
+{"index": 153071, "D": "not harmful or injurious; harmless", "S": ["banal", "bland", "inoffensive", "insipid", "painless"], "A": ["delicious", "tasty", "yummy"]}

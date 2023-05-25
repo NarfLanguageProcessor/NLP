@@ -1,1 +1,1 @@
-{"index": 215495, "D": "the act or process of ossifying. ", "S": ["calcification ", "coagulation ", "concretion ", "crystallization ", "fossilization ", "freezing ", "ossification ", "petrification ", "setting ", "solidifying ", "stiffening "], "A": []}
+{"index": 215495, "D": "the act or process of ossifying. ", "S": ["calcification", "coagulation", "concretion", "crystallization", "fossilization", "freezing", "ossification", "petrification", "setting", "solidifying", "stiffening"], "A": []}

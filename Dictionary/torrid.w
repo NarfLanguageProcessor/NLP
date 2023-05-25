@@ -1,1 +1,1 @@
-{"index": 326258, "D": "subject to parching or burning heat, especially of the sun, as a geographical area", "S": ["arid ", "blazing ", "blistering ", "parched ", "red-hot ", "scorching ", "sizzling ", "stifling ", "sultry ", "sweltering "], "A": ["cold ", "cool ", "damp ", "moist ", "wet "]}
+{"index": 326258, "D": "subject to parching or burning heat, especially of the sun, as a geographical area", "S": ["arid", "blazing", "blistering", "parched", "red-hot", "scorching", "sizzling", "stifling", "sultry", "sweltering"], "A": ["cold", "cool", "damp", "moist", "wet"]}

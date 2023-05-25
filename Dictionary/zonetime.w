@@ -1,1 +1,1 @@
-{"index": 369701, "D": "standard time as applied at sea, reckoned according to the system of time zones.", "S": ["mean solar time "], "A": []}
+{"index": 369701, "D": "standard time as applied at sea, reckoned according to the system of time zones.", "S": ["mean solar time"], "A": []}

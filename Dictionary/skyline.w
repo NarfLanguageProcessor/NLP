@@ -1,1 +1,1 @@
-{"index": 293181, "D": "the boundary line  between earth and sky;  the apparent horizon", "S": ["horizon "], "A": []}
+{"index": 293181, "D": "the boundary line  between earth and sky;  the apparent horizon", "S": ["horizon"], "A": []}

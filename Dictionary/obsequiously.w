@@ -1,1 +1,1 @@
-{"index": 210371, "D": "characterized by or showing servile obedience and excessive eagerness to please; fawning; ingratiating", "S": ["subserviently "], "A": []}
+{"index": 210371, "D": "characterized by or showing servile obedience and excessive eagerness to please; fawning; ingratiating", "S": ["subserviently"], "A": []}

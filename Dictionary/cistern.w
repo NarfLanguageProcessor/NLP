@@ -1,1 +1,1 @@
-{"index": 58460, "D": "a reservoir, tank, or container for storing or holding water or other liquid.", "S": ["cisterna ", "pond ", "tank ", "well "], "A": []}
+{"index": 58460, "D": "a reservoir, tank, or container for storing or holding water or other liquid.", "S": ["cisterna", "pond", "tank", "well"], "A": []}

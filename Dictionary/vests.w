@@ -1,1 +1,1 @@
-{"index": 359119, "D": "a close-fitting, waist-length, sleeveless garment that buttons down the front, designed to be worn under a jacket.", "S": ["bestow ", "confer ", "empower ", "endow "], "A": ["refuse ", "take ", "dislodge ", "leave "]}
+{"index": 359119, "D": "a close-fitting, waist-length, sleeveless garment that buttons down the front, designed to be worn under a jacket.", "S": ["bestow", "confer", "empower", "endow"], "A": ["refuse", "take", "dislodge", "leave"]}

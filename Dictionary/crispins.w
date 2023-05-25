@@ -1,1 +1,1 @@
-{"index": 73360, "D": "with his brother (Saint Crispinian ) martyred a.d. c285, Roman Christian missionaries in Gaul", "S": ["cobbler "], "A": []}
+{"index": 73360, "D": "with his brother (Saint Crispinian ) martyred a.d. c285, Roman Christian missionaries in Gaul", "S": ["cobbler"], "A": []}

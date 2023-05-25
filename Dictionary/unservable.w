@@ -1,1 +1,0 @@
-{"index": 350829, "D": "to act as a servant. ", "S": [], "A": []}

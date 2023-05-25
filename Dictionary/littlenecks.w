@@ -1,1 +1,1 @@
-{"index": 173879, "D": "the quahog clam, Venus mercenaria, when young and small.", "S": ["mollusk "], "A": []}
+{"index": 173879, "D": "the quahog clam, Venus mercenaria, when young and small.", "S": ["mollusk"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 116458, "D": "a place where a river or other body of water is shallow enough to be crossed by wading.", "S": ["cruise ", "cut across ", "navigate ", "pass over ", "ply ", "sail ", "span ", "traverse "], "A": ["remain ", "stay "]}
+{"index": 116458, "D": "a place where a river or other body of water is shallow enough to be crossed by wading.", "S": ["cruise", "cut across", "navigate", "pass over", "ply", "sail", "span", "traverse"], "A": ["remain", "stay"]}

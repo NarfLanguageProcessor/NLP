@@ -1,1 +1,0 @@
-{"index": 299833, "D": "a plant, Spinacia oleracea, cultivated for its edible, crinkly or flat leaves.", "S": ["blue-green ", "olive "], "A": []}

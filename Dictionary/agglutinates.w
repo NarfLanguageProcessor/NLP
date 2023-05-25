@@ -1,0 +1,1 @@
+{"index": 6066, "D": "to unite or cause to adhere, as with glue.", "S": ["blend", "coalesce", "combine", "dissolve", "integrate", "melt", "merge", "mingle", "weld"], "A": ["coagulate", "disconnect", "divide", "part", "separate", "solidify"]}

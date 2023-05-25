@@ -1,1 +1,1 @@
-{"index": 314660, "D": "to move with or make a rustling, swirling, or brushing sound.", "S": ["boil ", "churn ", "roil ", "twirl ", "whirl "], "A": ["straighten "]}
+{"index": 314660, "D": "to move with or make a rustling, swirling, or brushing sound.", "S": ["boil", "churn", "roil", "twirl", "whirl"], "A": ["straighten"]}

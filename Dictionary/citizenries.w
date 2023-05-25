@@ -1,1 +1,1 @@
-{"index": 58684, "D": "citizens  collectively.", "S": ["federation ", "society "], "A": []}
+{"index": 58684, "D": "citizens  collectively.", "S": ["federation", "society"], "A": []}

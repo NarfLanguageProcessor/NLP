@@ -1,1 +1,1 @@
-{"index": 296609, "D": "as the only one or ones", "S": ["completely ", "entirely ", "exclusively ", "individually ", "merely ", "purely ", "simply ", "single-handedly ", "totally ", "wholly "], "A": ["incompletely ", "indefinitely ", "partially "]}
+{"index": 296609, "D": "as the only one or ones", "S": ["completely", "entirely", "exclusively", "individually", "merely", "purely", "simply", "single-handedly", "totally", "wholly"], "A": ["incompletely", "indefinitely", "partially"]}

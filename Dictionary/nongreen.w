@@ -1,1 +1,0 @@
-{"index": 204348, "D": "of the color of growing foliage, between yellow and blue in the spectrum", "S": [], "A": []}

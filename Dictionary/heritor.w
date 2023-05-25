@@ -1,1 +1,1 @@
-{"index": 137117, "D": "inheritor. ", "S": ["beneficiary ", "inheritor ", "scion ", "successor "], "A": ["heiress "]}
+{"index": 137117, "D": "inheritor. ", "S": ["beneficiary", "inheritor", "scion", "successor"], "A": ["heiress"]}

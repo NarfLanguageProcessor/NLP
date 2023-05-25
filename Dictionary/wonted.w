@@ -1,1 +1,1 @@
-{"index": 367082, "D": "accustomed; habituated; used.", "S": ["accustomed ", "common ", "conventional ", "customary ", "familiar ", "habitual ", "habituated ", "regular ", "typical "], "A": ["unaccustomed ", "uncommon ", "unfamiliar ", "unused "]}
+{"index": 367082, "D": "accustomed; habituated; used.", "S": ["accustomed", "common", "conventional", "customary", "familiar", "habitual", "habituated", "regular", "typical"], "A": ["unaccustomed", "uncommon", "unfamiliar", "unused"]}

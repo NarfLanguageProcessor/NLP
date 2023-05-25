@@ -1,1 +1,1 @@
-{"index": 338098, "D": "not courtly;  rude.", "S": ["awkward ", "clumsy ", "coarse ", "gawky ", "inelegant ", "lumbering ", "rusty ", "uncouth ", "ungainly ", "vulgar ", "wooden "], "A": ["graceful "]}
+{"index": 338098, "D": "not courtly;  rude.", "S": ["awkward", "clumsy", "coarse", "gawky", "inelegant", "lumbering", "rusty", "uncouth", "ungainly", "vulgar", "wooden"], "A": ["graceful"]}

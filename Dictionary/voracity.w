@@ -1,1 +1,1 @@
-{"index": 361355, "D": "the condition or quality of being voracious. ", "S": ["edacity ", "gluttony ", "greed ", "greediness ", "rapaciousness ", "rapacity ", "voraciousness "], "A": ["generosity "]}
+{"index": 361355, "D": "the condition or quality of being voracious. ", "S": ["edacity", "gluttony", "greed", "greediness", "rapaciousness", "rapacity", "voraciousness"], "A": ["generosity"]}

@@ -1,1 +1,1 @@
-{"index": 232173, "D": "to become spread throughout all parts of", "S": ["infuse ", "penetrate ", "permeate ", "suffuse "], "A": ["deplete ", "drain ", "take out "]}
+{"index": 232173, "D": "to become spread throughout all parts of", "S": ["infuse", "penetrate", "permeate", "suffuse"], "A": ["deplete", "drain", "take out"]}

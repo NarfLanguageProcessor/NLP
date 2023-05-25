@@ -1,1 +1,1 @@
-{"index": 110156, "D": "observant of or conforming to the fashion;  stylish", "S": ["acceptance ", "acclaim ", "demand ", "fame ", "following ", "reputation "], "A": ["disapproval ", "disfavor ", "dislike ", "disrespect ", "hate "]}
+{"index": 110156, "D": "observant of or conforming to the fashion;  stylish", "S": ["acceptance", "acclaim", "demand", "fame", "following", "reputation"], "A": ["disapproval", "disfavor", "dislike", "disrespect", "hate"]}

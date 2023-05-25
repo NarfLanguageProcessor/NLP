@@ -1,1 +1,0 @@
-{"index": 353349, "D": "started, set in motion, or released by a specified thing or in a specified way", "S": [], "A": []}

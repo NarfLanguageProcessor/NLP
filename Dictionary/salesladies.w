@@ -1,1 +1,1 @@
-{"index": 276992, "D": "a saleswoman.", "S": ["clerk "], "A": ["customer "]}
+{"index": 276992, "D": "a saleswoman.", "S": ["clerk"], "A": ["customer"]}

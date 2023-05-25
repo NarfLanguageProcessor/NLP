@@ -1,1 +1,1 @@
-{"index": 33277, "D": "excessive fondness for acquiring and possessing books.", "S": ["bibliophile ", "bookworm ", "editor ", "proofreader "], "A": []}
+{"index": 33277, "D": "excessive fondness for acquiring and possessing books.", "S": ["bibliophile", "bookworm", "editor", "proofreader"], "A": []}

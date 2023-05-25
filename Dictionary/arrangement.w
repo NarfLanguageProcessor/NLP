@@ -1,1 +1,1 @@
-{"index": 20172, "D": "an act of arranging; state of being arranged.", "S": ["adjustment ", "agreement ", "compromise ", "deal ", "package ", "plan ", "preparation ", "provision ", "schedule ", "settlement "], "A": ["disagreement "]}
+{"index": 20172, "D": "an act of arranging; state of being arranged.", "S": ["adjustment", "agreement", "compromise", "deal", "package", "plan", "preparation", "provision", "schedule", "settlement"], "A": ["disagreement"]}

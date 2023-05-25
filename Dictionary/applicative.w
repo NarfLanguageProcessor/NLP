@@ -1,1 +1,1 @@
-{"index": 17814, "D": "usable or capable of being used; practical; applicatory.", "S": ["germane ", "pertinent ", "relevant ", "suitable ", "suited ", "useful "], "A": ["improper ", "inappropriate ", "irrelevant ", "unfitting ", "unsuitable "]}
+{"index": 17814, "D": "usable or capable of being used; practical; applicatory.", "S": ["germane", "pertinent", "relevant", "suitable", "suited", "useful"], "A": ["improper", "inappropriate", "irrelevant", "unfitting", "unsuitable"]}

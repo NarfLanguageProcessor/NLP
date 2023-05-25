@@ -1,1 +1,1 @@
-{"index": 269401, "D": "submissive or acquiescent.", "S": ["satisfied "], "A": ["agitated ", "boisterous ", "excited ", "loud ", "rough ", "roused ", "troubled ", "unprepared ", "unwilling ", "violent ", "wild "]}
+{"index": 269401, "D": "submissive or acquiescent.", "S": ["satisfied"], "A": ["agitated", "boisterous", "excited", "loud", "rough", "roused", "troubled", "unprepared", "unwilling", "violent", "wild"]}

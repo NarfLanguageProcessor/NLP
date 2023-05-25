@@ -1,1 +1,1 @@
-{"index": 90672, "D": "of, relating to, or concerned with doctrine", "S": ["rigid "], "A": ["abnormal ", "different ", "exotic ", "foreign ", "irregular ", "new ", "original ", "strange ", "uncommon ", "unconventional ", "uncustomary ", "unique ", "unusual "]}
+{"index": 90672, "D": "of, relating to, or concerned with doctrine", "S": ["rigid"], "A": ["abnormal", "different", "exotic", "foreign", "irregular", "new", "original", "strange", "uncommon", "unconventional", "uncustomary", "unique", "unusual"]}

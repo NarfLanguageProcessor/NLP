@@ -1,1 +1,1 @@
-{"index": 64653, "D": "composed of many interconnected parts; compound; composite", "S": ["complicated ", "convoluted "], "A": ["simple ", "single ", "uniform ", "unmixed "]}
+{"index": 64653, "D": "composed of many interconnected parts; compound; composite", "S": ["complicated", "convoluted"], "A": ["simple", "single", "uniform", "unmixed"]}

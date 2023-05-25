@@ -1,1 +1,1 @@
-{"index": 368408, "D": "a person who fears or hates foreigners, people from different cultures, or strangers.", "S": ["bigot ", "chauvinist "], "A": []}
+{"index": 368408, "D": "a person who fears or hates foreigners, people from different cultures, or strangers.", "S": ["bigot", "chauvinist"], "A": []}

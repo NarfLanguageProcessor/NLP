@@ -1,1 +1,1 @@
-{"index": 151923, "D": "the quality or state of being lesser or lower in rank, position, quality, etc.", "S": ["inadequacy "], "A": []}
+{"index": 151923, "D": "the quality or state of being lesser or lower in rank, position, quality, etc.", "S": ["inadequacy"], "A": []}

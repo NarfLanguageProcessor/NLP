@@ -1,1 +1,1 @@
-{"index": 122821, "D": "to determine the exact dimensions, capacity, quantity, or force of; measure.", "S": ["barometer ", "benchmark ", "criterion ", "indicator ", "meter ", "pattern ", "yardstick "], "A": ["extreme ", "unimportance "]}
+{"index": 122821, "D": "to determine the exact dimensions, capacity, quantity, or force of; measure.", "S": ["barometer", "benchmark", "criterion", "indicator", "meter", "pattern", "yardstick"], "A": ["extreme", "unimportance"]}

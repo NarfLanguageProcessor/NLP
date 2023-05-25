@@ -1,1 +1,1 @@
-{"index": 167424, "D": "past participle of lie2. ", "S": ["deceive ", "mislead ", "misrepresent ", "promote "], "A": ["destroy "]}
+{"index": 167424, "D": "past participle of lie2. ", "S": ["deceive", "mislead", "misrepresent", "promote"], "A": ["destroy"]}

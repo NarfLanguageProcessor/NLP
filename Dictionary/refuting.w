@@ -1,1 +1,1 @@
-{"index": 265489, "D": "to prove to be false or erroneous, as an opinion or charge.", "S": ["argument ", "contest ", "controversy ", "deliberation ", "dispute ", "match "], "A": ["agreement ", "peace ", "quiet ", "harmony "]}
+{"index": 265489, "D": "to prove to be false or erroneous, as an opinion or charge.", "S": ["argument", "contest", "controversy", "deliberation", "dispute", "match"], "A": ["agreement", "peace", "quiet", "harmony"]}

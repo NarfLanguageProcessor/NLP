@@ -1,1 +1,1 @@
-{"index": 251967, "D": "a person who favors or advocates prohibition. ", "S": ["nondrinker ", "teetotaler ", "teetotalist "], "A": ["drinker "]}
+{"index": 251967, "D": "a person who favors or advocates prohibition. ", "S": ["nondrinker", "teetotaler", "teetotalist"], "A": ["drinker"]}

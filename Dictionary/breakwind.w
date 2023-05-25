@@ -1,1 +1,1 @@
-{"index": 40280, "D": [], "S": ["cut one ", "cut the cheese ", "fart ", "let her rip ", "rip one "], "A": []}
+{"index": 40280, "D": [], "S": ["cut one", "cut the cheese", "fart", "let her rip", "rip one"], "A": []}

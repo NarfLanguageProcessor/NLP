@@ -1,0 +1,1 @@
+{"index": 4316, "D": "to choose or take as one's own; make one's own by selection or assent", "S": ["accepting", "applying", "employing", "practicing", "proving", "testing", "working"], "A": []}

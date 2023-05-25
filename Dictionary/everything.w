@@ -1,1 +1,1 @@
-{"index": 106171, "D": "every single thing  or every particular of an aggregate or total; all.", "S": ["all ", "business ", "lot "], "A": ["nothing "]}
+{"index": 106171, "D": "every single thing  or every particular of an aggregate or total; all.", "S": ["all", "business", "lot"], "A": ["nothing"]}

@@ -1,1 +1,1 @@
-{"index": 33585, "D": "happening every two years", "S": ["flower ", "grass ", "herb ", "seedling ", "shrub ", "tree ", "vine ", "weed "], "A": []}
+{"index": 33585, "D": "happening every two years", "S": ["flower", "grass", "herb", "seedling", "shrub", "tree", "vine", "weed"], "A": []}

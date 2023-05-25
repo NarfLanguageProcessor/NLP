@@ -1,1 +1,1 @@
-{"index": 83169, "D": "serving to determine; determining. ", "S": ["determinant ", "final "], "A": []}
+{"index": 83169, "D": "serving to determine; determining. ", "S": ["determinant", "final"], "A": []}

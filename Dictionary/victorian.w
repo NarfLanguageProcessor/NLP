@@ -1,1 +1,1 @@
-{"index": 359458, "D": "of or relating to Queen Victoria or the period of her reign", "S": ["conservative ", "square ", "stiff "], "A": []}
+{"index": 359458, "D": "of or relating to Queen Victoria or the period of her reign", "S": ["conservative", "square", "stiff"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 151789, "D": "extremely bad reputation, public reproach, or strong condemnation as the result of a shameful, criminal, or outrageous act", "S": ["notoriety ", "opprobrium "], "A": ["credit ", "esteem ", "goodness ", "honor ", "pride ", "respect "]}
+{"index": 151789, "D": "extremely bad reputation, public reproach, or strong condemnation as the result of a shameful, criminal, or outrageous act", "S": ["notoriety", "opprobrium"], "A": ["credit", "esteem", "goodness", "honor", "pride", "respect"]}

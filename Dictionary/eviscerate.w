@@ -1,1 +1,1 @@
-{"index": 106270, "D": "to remove the entrails from; disembowel", "S": ["devitalize ", "gut ", "weaken "], "A": []}
+{"index": 106270, "D": "to remove the entrails from; disembowel", "S": ["devitalize", "gut", "weaken"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 109538, "D": "pads of soft material, such as foam rubber, worn to exaggerate the size of or simulate the appearance of a woman's breasts", "S": ["props "], "A": []}
+{"index": 109538, "D": "pads of soft material, such as foam rubber, worn to exaggerate the size of or simulate the appearance of a woman's breasts", "S": ["props"], "A": []}

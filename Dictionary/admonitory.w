@@ -1,1 +1,1 @@
-{"index": 4234, "D": "tending or serving to admonish;  warning", "S": ["admonishing ", "exemplary ", "monitory ", "reproachful ", "warning "], "A": []}
+{"index": 4234, "D": "tending or serving to admonish;  warning", "S": ["admonishing", "exemplary", "monitory", "reproachful", "warning"], "A": []}

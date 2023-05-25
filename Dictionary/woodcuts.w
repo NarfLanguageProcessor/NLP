@@ -1,1 +1,1 @@
-{"index": 367135, "D": "a carved block of wood  from which prints are made.", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}
+{"index": 367135, "D": "a carved block of wood  from which prints are made.", "S": ["etching", "illustration", "inscription", "lithograph", "woodcut"], "A": []}

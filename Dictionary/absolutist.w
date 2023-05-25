@@ -1,1 +1,1 @@
-{"index": 993, "D": "the principle or the exercise of complete and unrestricted power in government.", "S": ["arbitrary ", "dictatorial ", "full "], "A": ["democratic "]}
+{"index": 993, "D": "the principle or the exercise of complete and unrestricted power in government.", "S": ["arbitrary", "dictatorial", "full"], "A": ["democratic"]}

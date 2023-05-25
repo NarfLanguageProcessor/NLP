@@ -1,1 +1,1 @@
-{"index": 162130, "D": "having the leaflets in pairs, as a pinnate leaf.", "S": ["imbricated "], "A": []}
+{"index": 162130, "D": "having the leaflets in pairs, as a pinnate leaf.", "S": ["imbricated"], "A": []}

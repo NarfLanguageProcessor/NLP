@@ -1,1 +1,1 @@
-{"index": 262688, "D": "a person or thing that receives. ", "S": ["acceptor ", "assignee ", "beneficiary ", "cashier ", "collector ", "consignee ", "creditor ", "customer ", "grantee ", "heir ", "recipient ", "subject ", "target ", "teller ", "trustee "], "A": ["giver "]}
+{"index": 262688, "D": "a person or thing that receives. ", "S": ["acceptor", "assignee", "beneficiary", "cashier", "collector", "consignee", "creditor", "customer", "grantee", "heir", "recipient", "subject", "target", "teller", "trustee"], "A": ["giver"]}

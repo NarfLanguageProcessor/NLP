@@ -1,1 +1,1 @@
-{"index": 89480, "D": "to differ in sentiment or opinion, especially from the majority; withhold assent; disagree (often followed by from)", "S": ["grumbling ", "protesting ", "whining "], "A": ["appreciating ", "enjoying ", "praising "]}
+{"index": 89480, "D": "to differ in sentiment or opinion, especially from the majority; withhold assent; disagree (often followed by from)", "S": ["grumbling", "protesting", "whining"], "A": ["appreciating", "enjoying", "praising"]}

@@ -1,1 +1,1 @@
-{"index": 85413, "D": "a drink of brandy, liqueur, etc., taken after a meal to aid the digestion.", "S": ["dessert wine ", "nightcap "], "A": ["aperitif "]}
+{"index": 85413, "D": "a drink of brandy, liqueur, etc., taken after a meal to aid the digestion.", "S": ["dessert wine", "nightcap"], "A": ["aperitif"]}

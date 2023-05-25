@@ -1,1 +1,1 @@
-{"index": 79128, "D": "relating to or being the loser in a contest, election, battle, etc.; overcome or vanquished", "S": ["conquered ", "crushed "], "A": []}
+{"index": 79128, "D": "relating to or being the loser in a contest, election, battle, etc.; overcome or vanquished", "S": ["conquered", "crushed"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 109287, "D": "person who lacks courage; coward.", "S": ["wimp "], "A": ["aggressor ", "hero "]}
+{"index": 109287, "D": "person who lacks courage; coward.", "S": ["wimp"], "A": ["aggressor", "hero"]}

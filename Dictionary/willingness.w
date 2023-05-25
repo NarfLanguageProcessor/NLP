@@ -1,1 +1,1 @@
-{"index": 365805, "D": "consent or readiness to do something", "S": ["eagerness ", "enthusiasm "], "A": ["apathy ", "denial ", "disagreement ", "dissension ", "indifference ", "refusal "]}
+{"index": 365805, "D": "consent or readiness to do something", "S": ["eagerness", "enthusiasm"], "A": ["apathy", "denial", "disagreement", "dissension", "indifference", "refusal"]}

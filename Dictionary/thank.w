@@ -1,1 +1,1 @@
-{"index": 320601, "D": "to express gratitude, appreciation, or acknowledgment to", "S": ["acknowledge ", "kiss ", "praise "], "A": []}
+{"index": 320601, "D": "to express gratitude, appreciation, or acknowledgment to", "S": ["acknowledge", "kiss", "praise"], "A": []}

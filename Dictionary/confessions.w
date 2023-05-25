@@ -1,1 +1,1 @@
-{"index": 65866, "D": [], "S": ["autobiography ", "diary ", "journal ", "life ", "life story ", "memoir ", "picture ", "profile ", "sketch "], "A": []}
+{"index": 65866, "D": [], "S": ["autobiography", "diary", "journal", "life", "life story", "memoir", "picture", "profile", "sketch"], "A": []}

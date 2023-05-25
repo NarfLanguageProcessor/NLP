@@ -1,1 +1,1 @@
-{"index": 59577, "D": [], "S": ["curator ", "keeper ", "overseer ", "protector ", "steward ", "superintendent ", "supervisor ", "warden ", "watchdog "], "A": []}
+{"index": 59577, "D": [], "S": ["curator", "keeper", "overseer", "protector", "steward", "superintendent", "supervisor", "warden", "watchdog"], "A": []}

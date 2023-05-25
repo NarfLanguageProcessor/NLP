@@ -1,1 +1,1 @@
-{"index": 53015, "D": "to pursue in order to seize, overtake, etc.", "S": ["chiseled ", "engraved ", "sculpted ", "sculptured "], "A": []}
+{"index": 53015, "D": "to pursue in order to seize, overtake, etc.", "S": ["chiseled", "engraved", "sculpted", "sculptured"], "A": []}

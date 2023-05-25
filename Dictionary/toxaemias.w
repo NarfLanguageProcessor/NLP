@@ -1,1 +1,1 @@
-{"index": 326857, "D": "blood poisoning resulting from the presence of toxins, as bacterial toxins, in the blood.", "S": ["pyemia ", "sepsis ", "septic infection ", "septic poisoning ", "septicemia ", "septicopyemia ", "toxemia "], "A": []}
+{"index": 326857, "D": "blood poisoning resulting from the presence of toxins, as bacterial toxins, in the blood.", "S": ["pyemia", "sepsis", "septic infection", "septic poisoning", "septicemia", "septicopyemia", "toxemia"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 214386, "D": "a form of life composed of mutually interdependent parts that maintain various vital processes.", "S": ["bacilli ", "germs ", "microbes ", "pathogens "], "A": []}
+{"index": 214386, "D": "a form of life composed of mutually interdependent parts that maintain various vital processes.", "S": ["bacilli", "germs", "microbes", "pathogens"], "A": []}

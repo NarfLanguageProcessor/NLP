@@ -1,1 +1,1 @@
-{"index": 56418, "D": "a chronological record of events; a history.", "S": ["narrate ", "relate "], "A": ["conceal ", "hide ", "erase "]}
+{"index": 56418, "D": "a chronological record of events; a history.", "S": ["narrate", "relate"], "A": ["conceal", "hide", "erase"]}

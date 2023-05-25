@@ -1,1 +1,1 @@
-{"index": 249384, "D": "know all men by these presents", "S": ["now ", "today "], "A": ["future ", "past "]}
+{"index": 249384, "D": "know all men by these presents", "S": ["now", "today"], "A": ["future", "past"]}

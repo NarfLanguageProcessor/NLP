@@ -1,1 +1,1 @@
-{"index": 119126, "D": "to dance, leap, skip, or gambol; frolic", "S": ["exploration ", "hunting ", "inquiry ", "interrogation ", "investigation ", "probe ", "prosecution ", "pursuit ", "quest ", "race ", "raid "], "A": []}
+{"index": 119126, "D": "to dance, leap, skip, or gambol; frolic", "S": ["exploration", "hunting", "inquiry", "interrogation", "investigation", "probe", "prosecution", "pursuit", "quest", "race", "raid"], "A": []}

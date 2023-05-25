@@ -1,1 +1,1 @@
-{"index": 305544, "D": "a pipe,  as of sheet metal, serving as a stove  chimney or to connect a stove  with a chimney flue.", "S": ["battery ", "cannon ", "ordnance "], "A": []}
+{"index": 305544, "D": "a pipe,  as of sheet metal, serving as a stove  chimney or to connect a stove  with a chimney flue.", "S": ["battery", "cannon", "ordnance"], "A": []}

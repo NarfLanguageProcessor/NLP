@@ -1,1 +1,1 @@
-{"index": 42776, "D": "offensively self-assertive", "S": ["arrogant ", "cocksure ", "conceited ", "egotistic ", "egotistical ", "forward ", "full of oneself ", "loud ", "obnoxious ", "pushy "], "A": ["humble ", "modest ", "uncertain "]}
+{"index": 42776, "D": "offensively self-assertive", "S": ["arrogant", "cocksure", "conceited", "egotistic", "egotistical", "forward", "full of oneself", "loud", "obnoxious", "pushy"], "A": ["humble", "modest", "uncertain"]}

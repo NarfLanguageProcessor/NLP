@@ -1,1 +1,1 @@
-{"index": 172257, "D": "rhythmic swing or cadence.", "S": ["choral ", "emotional ", "expressive ", "melodic ", "operatic ", "passionate ", "rhapsodic ", "rhythmic ", "soulful "], "A": []}
+{"index": 172257, "D": "rhythmic swing or cadence.", "S": ["choral", "emotional", "expressive", "melodic", "operatic", "passionate", "rhapsodic", "rhythmic", "soulful"], "A": []}

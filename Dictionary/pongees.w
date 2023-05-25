@@ -1,1 +1,1 @@
-{"index": 243024, "D": "silk of a slightly uneven weave made from filaments of wild silk woven in natural tan color.", "S": ["fiber ", "taffeta ", "thread ", "tulle "], "A": []}
+{"index": 243024, "D": "silk of a slightly uneven weave made from filaments of wild silk woven in natural tan color.", "S": ["fiber", "taffeta", "thread", "tulle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 40264, "D": "an escape, often with the use of force, as from a prison or mental institution.", "S": ["decampment ", "escapement ", "flight ", "getaway ", "jailbreak "], "A": []}
+{"index": 40264, "D": "an escape, often with the use of force, as from a prison or mental institution.", "S": ["decampment", "escapement", "flight", "getaway", "jailbreak"], "A": []}

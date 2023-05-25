@@ -1,1 +1,1 @@
-{"index": 25993, "D": "a person or thing that supports or reinforces another.", "S": ["substitute "], "A": []}
+{"index": 25993, "D": "a person or thing that supports or reinforces another.", "S": ["substitute"], "A": []}

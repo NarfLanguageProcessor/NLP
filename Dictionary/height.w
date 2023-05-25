@@ -1,1 +1,1 @@
-{"index": 135361, "D": "extent or distance upward", "S": ["ceiling ", "crest ", "elevation ", "extent ", "peak ", "pinnacle ", "prominence ", "stature "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 135361, "D": "extent or distance upward", "S": ["ceiling", "crest", "elevation", "extent", "peak", "pinnacle", "prominence", "stature"], "A": ["base", "bottom", "nadir"]}

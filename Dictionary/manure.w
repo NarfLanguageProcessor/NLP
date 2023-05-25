@@ -1,1 +1,1 @@
-{"index": 179677, "D": "excrement, especially of animals, or other refuse used as fertilizer.", "S": ["compost ", "droppings ", "dung ", "excrement ", "mulch "], "A": []}
+{"index": 179677, "D": "excrement, especially of animals, or other refuse used as fertilizer.", "S": ["compost", "droppings", "dung", "excrement", "mulch"], "A": []}

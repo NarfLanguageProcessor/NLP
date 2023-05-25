@@ -1,1 +1,1 @@
-{"index": 149487, "D": "not appreciative;  lacking in appreciation.", "S": ["ungrateful ", "unthankful "], "A": ["appreciated ", "appreciative ", "considerate ", "contented ", "grateful ", "rewarded ", "satisfied ", "thankful "]}
+{"index": 149487, "D": "not appreciative;  lacking in appreciation.", "S": ["ungrateful", "unthankful"], "A": ["appreciated", "appreciative", "considerate", "contented", "grateful", "rewarded", "satisfied", "thankful"]}

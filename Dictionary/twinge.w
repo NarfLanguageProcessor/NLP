@@ -1,1 +1,1 @@
-{"index": 333366, "D": "a sudden, sharp pain", "S": ["ache ", "pang ", "shiver ", "spasm "], "A": ["advantage ", "blessing ", "good fortune "]}
+{"index": 333366, "D": "a sudden, sharp pain", "S": ["ache", "pang", "shiver", "spasm"], "A": ["advantage", "blessing", "good fortune"]}

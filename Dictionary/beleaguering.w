@@ -1,1 +1,1 @@
-{"index": 31020, "D": "to surround with military forces.", "S": ["annoy ", "bedevil ", "beset ", "plague "], "A": ["aid ", "make happy ", "please ", "assist ", "help ", "soothe "]}
+{"index": 31020, "D": "to surround with military forces.", "S": ["annoy", "bedevil", "beset", "plague"], "A": ["aid", "make happy", "please", "assist", "help", "soothe"]}

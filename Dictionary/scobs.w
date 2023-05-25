@@ -1,1 +1,1 @@
-{"index": 281045, "D": [], "S": ["dregs ", "impurity ", "lees ", "refuse ", "scoria ", "scum ", "sediment ", "slag ", "trash ", "waste "], "A": ["assets ", "possessions "]}
+{"index": 281045, "D": [], "S": ["dregs", "impurity", "lees", "refuse", "scoria", "scum", "sediment", "slag", "trash", "waste"], "A": ["assets", "possessions"]}

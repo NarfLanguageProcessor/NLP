@@ -1,1 +1,1 @@
-{"index": 271230, "D": "of the nature of or characterized by reverence; reverent", "S": ["admiring ", "deferential ", "polite ", "solemn ", "worshipful "], "A": ["impolite "]}
+{"index": 271230, "D": "of the nature of or characterized by reverence; reverent", "S": ["admiring", "deferential", "polite", "solemn", "worshipful"], "A": ["impolite"]}

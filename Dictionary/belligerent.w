@@ -1,1 +1,1 @@
-{"index": 31194, "D": "warlike; given to waging war.", "S": ["aggressive ", "antagonistic ", "bellicose ", "combative ", "contentious ", "hostile ", "ornery ", "quarrelsome "], "A": ["agreeable ", "calm ", "friendly ", "kind ", "peaceful "]}
+{"index": 31194, "D": "warlike; given to waging war.", "S": ["aggressive", "antagonistic", "bellicose", "combative", "contentious", "hostile", "ornery", "quarrelsome"], "A": ["agreeable", "calm", "friendly", "kind", "peaceful"]}

@@ -1,1 +1,1 @@
-{"index": 318477, "D": "a tremor; earthquake. ", "S": ["earthquake ", "upheaval "], "A": ["stillness "]}
+{"index": 318477, "D": "a tremor; earthquake. ", "S": ["earthquake", "upheaval"], "A": ["stillness"]}

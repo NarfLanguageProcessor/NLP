@@ -1,1 +1,1 @@
-{"index": 293234, "D": "lacking in size, fullness, etc.; scanty", "S": ["barely ", "inadequately ", "not much "], "A": []}
+{"index": 293234, "D": "lacking in size, fullness, etc.; scanty", "S": ["barely", "inadequately", "not much"], "A": []}

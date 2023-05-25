@@ -1,1 +1,1 @@
-{"index": 289879, "D": "a short railroad track, opening onto a main track at one or both ends, on which one of two meeting trains is switched until the other has passed.", "S": ["cladding ", "covering "], "A": []}
+{"index": 289879, "D": "a short railroad track, opening onto a main track at one or both ends, on which one of two meeting trains is switched until the other has passed.", "S": ["cladding", "covering"], "A": []}

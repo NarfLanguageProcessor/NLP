@@ -1,1 +1,1 @@
-{"index": 123495, "D": "capable of producing or creating.", "S": ["abundant ", "arable ", "fruitful ", "lush ", "productive ", "rich "], "A": ["barren ", "impotent ", "sparse ", "unfruitful ", "unproductive "]}
+{"index": 123495, "D": "capable of producing or creating.", "S": ["abundant", "arable", "fruitful", "lush", "productive", "rich"], "A": ["barren", "impotent", "sparse", "unfruitful", "unproductive"]}

@@ -1,1 +1,1 @@
-{"index": 302689, "D": "rank or status, especially with respect to social, economic, or personal position, reputation, etc.", "S": ["place ", "prestige ", "reputation ", "stature ", "status "], "A": ["disbelief ", "unimportance "]}
+{"index": 302689, "D": "rank or status, especially with respect to social, economic, or personal position, reputation, etc.", "S": ["place", "prestige", "reputation", "stature", "status"], "A": ["disbelief", "unimportance"]}

@@ -1,1 +1,1 @@
-{"index": 322695, "D": "to affect with a sudden wave of keen emotion or excitement, as to produce a tremor or tingling sensation through the body.", "S": ["adventure ", "fun ", "inspiration ", "pleasure ", "wallop "], "A": ["sadness "]}
+{"index": 322695, "D": "to affect with a sudden wave of keen emotion or excitement, as to produce a tremor or tingling sensation through the body.", "S": ["adventure", "fun", "inspiration", "pleasure", "wallop"], "A": ["sadness"]}

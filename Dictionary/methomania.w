@@ -1,1 +1,1 @@
-{"index": 185303, "D": [], "S": ["addiction ", "crapulence ", "dipsomania ", "drunkenness "], "A": []}
+{"index": 185303, "D": [], "S": ["addiction", "crapulence", "dipsomania", "drunkenness"], "A": []}

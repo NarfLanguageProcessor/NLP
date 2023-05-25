@@ -1,1 +1,1 @@
-{"index": 187713, "D": "attentive, aware, or careful (usually followed by of)", "S": ["firmly ", "hard ", "intently ", "intimately ", "jointly ", "meticulously ", "scrupulously ", "sharply ", "strictly ", "thoughtfully "], "A": []}
+{"index": 187713, "D": "attentive, aware, or careful (usually followed by of)", "S": ["firmly", "hard", "intently", "intimately", "jointly", "meticulously", "scrupulously", "sharply", "strictly", "thoughtfully"], "A": []}

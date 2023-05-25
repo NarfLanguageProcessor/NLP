@@ -1,1 +1,1 @@
-{"index": 308043, "D": "slightly dark, dusky, or somber.", "S": ["disgusting ", "dreary ", "ugly ", "unappetizing ", "unattractive ", "unpleasant "], "A": ["agreeable ", "attractive ", "good ", "pleasant ", "pleasing "]}
+{"index": 308043, "D": "slightly dark, dusky, or somber.", "S": ["disgusting", "dreary", "ugly", "unappetizing", "unattractive", "unpleasant"], "A": ["agreeable", "attractive", "good", "pleasant", "pleasing"]}

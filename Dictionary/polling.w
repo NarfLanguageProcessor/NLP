@@ -1,1 +1,1 @@
-{"index": 242720, "D": "polling day", "S": ["election ", "plebiscite ", "poll ", "referendum ", "slate ", "tally ", "ticket "], "A": []}
+{"index": 242720, "D": "polling day", "S": ["election", "plebiscite", "poll", "referendum", "slate", "tally", "ticket"], "A": []}

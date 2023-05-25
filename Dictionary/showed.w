@@ -1,1 +1,1 @@
-{"index": 289060, "D": "an archaic spelling of show. ", "S": ["air ", "demonstrate ", "display ", "exhibit ", "offer ", "present ", "produce ", "reveal ", "sell "], "A": ["conceal ", "cover ", "hide ", "suppress ", "take ", "withhold ", "close ", "dissuade "]}
+{"index": 289060, "D": "an archaic spelling of show. ", "S": ["air", "demonstrate", "display", "exhibit", "offer", "present", "produce", "reveal", "sell"], "A": ["conceal", "cover", "hide", "suppress", "take", "withhold", "close", "dissuade"]}

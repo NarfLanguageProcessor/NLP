@@ -1,1 +1,1 @@
-{"index": 364184, "D": "(in folklore and superstition) a human being who has changed into a wolf, or is capable of assuming the form of a wolf, while retaining human intelligence.", "S": ["behemoth ", "freak ", "giant ", "whale "], "A": ["angel ", "god "]}
+{"index": 364184, "D": "(in folklore and superstition) a human being who has changed into a wolf, or is capable of assuming the form of a wolf, while retaining human intelligence.", "S": ["behemoth", "freak", "giant", "whale"], "A": ["angel", "god"]}

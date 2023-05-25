@@ -1,1 +1,1 @@
-{"index": 180305, "D": "a tall rooflike projection above a theater entrance, usually containing the name of a currently featured play or film and its stars.", "S": ["awning ", "canopy ", "signboard ", "tent "], "A": []}
+{"index": 180305, "D": "a tall rooflike projection above a theater entrance, usually containing the name of a currently featured play or film and its stars.", "S": ["awning", "canopy", "signboard", "tent"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 129881, "D": "material so formed as to function as or to have the appearance of a grille.", "S": ["chain ", "grid ", "net ", "organization ", "structure ", "system ", "web "], "A": []}
+{"index": 129881, "D": "material so formed as to function as or to have the appearance of a grille.", "S": ["chain", "grid", "net", "organization", "structure", "system", "web"], "A": []}

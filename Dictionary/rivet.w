@@ -1,1 +1,1 @@
-{"index": 273415, "D": "a metal pin for passing through holes in two or more plates or pieces to hold them together, usually made with a head at one end, the other end being hammered into a head after insertion.", "S": ["fastener ", "latch ", "pipe ", "rod ", "spike "], "A": ["key "]}
+{"index": 273415, "D": "a metal pin for passing through holes in two or more plates or pieces to hold them together, usually made with a head at one end, the other end being hammered into a head after insertion.", "S": ["fastener", "latch", "pipe", "rod", "spike"], "A": ["key"]}

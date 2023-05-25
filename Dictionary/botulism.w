@@ -1,1 +1,1 @@
-{"index": 38848, "D": "a sometimes fatal disease of the nervous system acquired from spoiled foods in which botulin is present, especially improperly canned or marinated foods.", "S": ["salmonella "], "A": []}
+{"index": 38848, "D": "a sometimes fatal disease of the nervous system acquired from spoiled foods in which botulin is present, especially improperly canned or marinated foods.", "S": ["salmonella"], "A": []}

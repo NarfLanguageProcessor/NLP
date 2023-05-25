@@ -1,0 +1,1 @@
+{"index": 18030, "D": "near or adjacent.", "S": ["adjacent", "contiguous", "neighboring"], "A": ["detached", "divided", "separate"]}

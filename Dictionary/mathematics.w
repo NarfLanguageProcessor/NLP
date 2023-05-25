@@ -1,1 +1,1 @@
-{"index": 181160, "D": "the systematic treatment of magnitude, relationships between figures and forms, and relations between quantities expressed symbolically.", "S": ["algebra ", "calculation ", "calculus ", "geometry ", "math "], "A": ["decrease ", "reduction ", "subtraction "]}
+{"index": 181160, "D": "the systematic treatment of magnitude, relationships between figures and forms, and relations between quantities expressed symbolically.", "S": ["algebra", "calculation", "calculus", "geometry", "math"], "A": ["decrease", "reduction", "subtraction"]}

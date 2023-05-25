@@ -1,1 +1,1 @@
-{"index": 248717, "D": "preparatory school. ", "S": ["preliminary ", "previous "], "A": ["auxiliary ", "supplementary "]}
+{"index": 248717, "D": "preparatory school. ", "S": ["preliminary", "previous"], "A": ["auxiliary", "supplementary"]}

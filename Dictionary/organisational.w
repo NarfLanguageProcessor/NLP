@@ -1,1 +1,1 @@
-{"index": 214376, "D": [], "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "policy-making ", "regulatory ", "supervisory "], "A": []}
+{"index": 214376, "D": [], "S": ["bureaucratic", "departmental", "governmental", "legislative", "managerial", "policy-making", "regulatory", "supervisory"], "A": []}

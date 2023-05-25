@@ -1,1 +1,1 @@
-{"index": 207463, "D": "of, relating to, or consisting of spirit;  incorporeal.", "S": ["carnal ", "mundane ", "physical ", "temporal ", "terrestrial ", "worldly "], "A": ["heavenly ", "immaterial ", "mental ", "otherworldly ", "spiritual "]}
+{"index": 207463, "D": "of, relating to, or consisting of spirit;  incorporeal.", "S": ["carnal", "mundane", "physical", "temporal", "terrestrial", "worldly"], "A": ["heavenly", "immaterial", "mental", "otherworldly", "spiritual"]}

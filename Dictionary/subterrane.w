@@ -1,1 +1,1 @@
-{"index": 309464, "D": "a cave or subterranean room.", "S": ["cavern ", "grotto "], "A": []}
+{"index": 309464, "D": "a cave or subterranean room.", "S": ["cavern", "grotto"], "A": []}

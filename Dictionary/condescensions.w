@@ -1,1 +1,1 @@
-{"index": 65569, "D": "an act or instance of condescending. ", "S": ["airs ", "civility ", "deference ", "haughtiness ", "loftiness ", "lordliness ", "patronage ", "superciliousness ", "toleration "], "A": ["humility "]}
+{"index": 65569, "D": "an act or instance of condescending. ", "S": ["airs", "civility", "deference", "haughtiness", "loftiness", "lordliness", "patronage", "superciliousness", "toleration"], "A": ["humility"]}

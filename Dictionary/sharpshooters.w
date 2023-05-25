@@ -1,1 +1,1 @@
-{"index": 287572, "D": "a person skilled in shooting, especially with a rifle.", "S": ["marksman ", "sniper "], "A": []}
+{"index": 287572, "D": "a person skilled in shooting, especially with a rifle.", "S": ["marksman", "sniper"], "A": []}

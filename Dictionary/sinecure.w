@@ -1,1 +1,1 @@
-{"index": 291588, "D": "an office or position requiring little or no work, especially one yielding profitable returns.", "S": ["pushover "], "A": []}
+{"index": 291588, "D": "an office or position requiring little or no work, especially one yielding profitable returns.", "S": ["pushover"], "A": []}

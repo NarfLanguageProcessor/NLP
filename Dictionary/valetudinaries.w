@@ -1,1 +1,1 @@
-{"index": 356699, "D": "valetudinarian. ", "S": ["neurotic "], "A": []}
+{"index": 356699, "D": "valetudinarian. ", "S": ["neurotic"], "A": []}

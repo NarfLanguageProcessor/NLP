@@ -1,1 +1,1 @@
-{"index": 154736, "D": "between or among continents; involving two or more continents", "S": ["foreign ", "global ", "universal "], "A": ["local "]}
+{"index": 154736, "D": "between or among continents; involving two or more continents", "S": ["foreign", "global", "universal"], "A": ["local"]}

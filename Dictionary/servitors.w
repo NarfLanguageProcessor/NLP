@@ -1,1 +1,1 @@
-{"index": 286484, "D": "a person who is in or at the service of another; attendant.", "S": ["attendant ", "servant ", "steward ", "waitress "], "A": []}
+{"index": 286484, "D": "a person who is in or at the service of another; attendant.", "S": ["attendant", "servant", "steward", "waitress"], "A": []}

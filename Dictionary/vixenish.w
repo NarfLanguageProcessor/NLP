@@ -1,1 +1,1 @@
-{"index": 360804, "D": "a female fox.", "S": ["hot ", "seductive ", "sexy ", "steamy ", "voluptuous "], "A": ["cold ", "cool ", "dry ", "frigid ", "ugly ", "unappealing "]}
+{"index": 360804, "D": "a female fox.", "S": ["hot", "seductive", "sexy", "steamy", "voluptuous"], "A": ["cold", "cool", "dry", "frigid", "ugly", "unappealing"]}

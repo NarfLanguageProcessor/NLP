@@ -1,1 +1,1 @@
-{"index": 311065, "D": "the first day of the week, observed as the Sabbath by most Christian sects.", "S": ["day off ", "rest day "], "A": []}
+{"index": 311065, "D": "the first day of the week, observed as the Sabbath by most Christian sects.", "S": ["day off", "rest day"], "A": []}

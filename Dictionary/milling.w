@@ -1,1 +1,1 @@
-{"index": 187412, "D": "an act or instance of subjecting something to the operation of a mill.", "S": ["crumbling ", "crunching ", "crushing ", "disintegrating ", "eroding ", "grating ", "powdering ", "rubbing ", "scraping ", "shivering ", "smashing "], "A": []}
+{"index": 187412, "D": "an act or instance of subjecting something to the operation of a mill.", "S": ["crumbling", "crunching", "crushing", "disintegrating", "eroding", "grating", "powdering", "rubbing", "scraping", "shivering", "smashing"], "A": []}

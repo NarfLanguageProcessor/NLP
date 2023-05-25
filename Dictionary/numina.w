@@ -1,1 +1,1 @@
-{"index": 209585, "D": "the plural of numen. ", "S": ["ability ", "accomplishment ", "endowment "], "A": ["failing ", "shortcoming ", "weakness ", "inability ", "incapacity ", "incompetence ", "ineptitude ", "ineptness ", "lack "]}
+{"index": 209585, "D": "the plural of numen. ", "S": ["ability", "accomplishment", "endowment"], "A": ["failing", "shortcoming", "weakness", "inability", "incapacity", "incompetence", "ineptitude", "ineptness", "lack"]}

@@ -1,1 +1,1 @@
-{"index": 88062, "D": "unfavorable regard; displeasure; disesteem; dislike", "S": ["deprecate ", "discountenance ", "disfavor ", "dislike ", "disrespect ", "slight "], "A": ["approve ", "compliment ", "praise "]}
+{"index": 88062, "D": "unfavorable regard; displeasure; disesteem; dislike", "S": ["deprecate", "discountenance", "disfavor", "dislike", "disrespect", "slight"], "A": ["approve", "compliment", "praise"]}

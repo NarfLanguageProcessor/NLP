@@ -1,1 +1,1 @@
-{"index": 265505, "D": "to entertain lavishly or agreeably; delight. ", "S": ["honored "], "A": ["bored ", "depressed ", "ignored ", "irritated ", "neglected ", "spurned "]}
+{"index": 265505, "D": "to entertain lavishly or agreeably; delight. ", "S": ["honored"], "A": ["bored", "depressed", "ignored", "irritated", "neglected", "spurned"]}

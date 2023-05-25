@@ -1,1 +1,1 @@
-{"index": 169520, "D": "a person or thing that leads.", "S": ["chief ", "commander ", "director ", "head ", "manager ", "officer ", "ruler "], "A": ["employee ", "follower "]}
+{"index": 169520, "D": "a person or thing that leads.", "S": ["chief", "commander", "director", "head", "manager", "officer", "ruler"], "A": ["employee", "follower"]}

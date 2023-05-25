@@ -1,1 +1,1 @@
-{"index": 75709, "D": "according to or depending on custom;  usual; habitual.", "S": ["commonly ", "consistently ", "generally ", "habitually ", "normally ", "routinely ", "traditionally "], "A": ["differently ", "divergently ", "occasionally ", "rarely ", "sometimes "]}
+{"index": 75709, "D": "according to or depending on custom;  usual; habitual.", "S": ["commonly", "consistently", "generally", "habitually", "normally", "routinely", "traditionally"], "A": ["differently", "divergently", "occasionally", "rarely", "sometimes"]}

@@ -1,1 +1,1 @@
-{"index": 145336, "D": "(used as a command to be silent or quiet.)", "S": ["hushed ", "mum ", "mute ", "restrained ", "reticent "], "A": ["clamorous ", "communicative ", "explicit ", "noisy ", "talkative ", "tangible "]}
+{"index": 145336, "D": "(used as a command to be silent or quiet.)", "S": ["hushed", "mum", "mute", "restrained", "reticent"], "A": ["clamorous", "communicative", "explicit", "noisy", "talkative", "tangible"]}

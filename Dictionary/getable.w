@@ -1,1 +1,1 @@
-{"index": 124421, "D": "to receive or come to have possession, use, or enjoyment of", "S": ["convenient "], "A": ["formal ", "inaccessible ", "unapproachable ", "uncongenial ", "unfriendly ", "unreachable ", "unsociable "]}
+{"index": 124421, "D": "to receive or come to have possession, use, or enjoyment of", "S": ["convenient"], "A": ["formal", "inaccessible", "unapproachable", "uncongenial", "unfriendly", "unreachable", "unsociable"]}

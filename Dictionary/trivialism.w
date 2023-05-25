@@ -1,1 +1,0 @@
-{"index": 330840, "D": "trivial  character.", "S": [], "A": []}

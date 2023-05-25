@@ -1,1 +1,1 @@
-{"index": 176544, "D": "to put out of joint; dislocate", "S": ["deranged ", "removed ", "uprooted "], "A": ["reinstated "]}
+{"index": 176544, "D": "to put out of joint; dislocate", "S": ["deranged", "removed", "uprooted"], "A": ["reinstated"]}

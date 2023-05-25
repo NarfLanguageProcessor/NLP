@@ -1,1 +1,1 @@
-{"index": 71468, "D": "an agreement, usually formal, between two or more persons to do or not do something specified.", "S": ["compact ", "convention ", "stipulation "], "A": ["disagreement ", "denial ", "misunderstanding ", "refusal "]}
+{"index": 71468, "D": "an agreement, usually formal, between two or more persons to do or not do something specified.", "S": ["compact", "convention", "stipulation"], "A": ["disagreement", "denial", "misunderstanding", "refusal"]}

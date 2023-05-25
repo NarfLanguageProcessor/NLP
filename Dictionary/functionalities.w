@@ -1,1 +1,1 @@
-{"index": 120134, "D": "of or relating to a function  or functions", "S": ["performance ", "process ", "purpose ", "service ", "use "], "A": []}
+{"index": 120134, "D": "of or relating to a function  or functions", "S": ["performance", "process", "purpose", "service", "use"], "A": []}

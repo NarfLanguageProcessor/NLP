@@ -1,1 +1,1 @@
-{"index": 9740, "D": "with full force.", "S": ["ASAP ", "apace ", "at once ", "immediately ", "increasingly ", "instantly ", "speedily "], "A": []}
+{"index": 9740, "D": "with full force.", "S": ["ASAP", "apace", "at once", "immediately", "increasingly", "instantly", "speedily"], "A": []}

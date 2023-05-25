@@ -1,1 +1,1 @@
-{"index": 211583, "D": "to present for acceptance or rejection; proffer", "S": ["acted ", "performed ", "staged "], "A": []}
+{"index": 211583, "D": "to present for acceptance or rejection; proffer", "S": ["acted", "performed", "staged"], "A": []}

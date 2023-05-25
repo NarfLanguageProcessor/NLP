@@ -1,0 +1,1 @@
+{"index": 2030, "D": "a salt or ester of acetic acid. ", "S": [], "A": []}

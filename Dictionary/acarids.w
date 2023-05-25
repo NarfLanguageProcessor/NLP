@@ -1,1 +1,1 @@
-{"index": 1364, "D": "an acarine, especially a mite of the family Acaridae.", "S": ["bug ", "insect "], "A": []}
+{"index": 1364, "D": "an acarine, especially a mite of the family Acaridae.", "S": ["bug", "insect"], "A": []}

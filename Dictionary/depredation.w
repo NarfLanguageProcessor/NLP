@@ -1,1 +1,1 @@
-{"index": 81839, "D": "the act of preying upon or plundering; robbery; ravage.", "S": ["wasting "], "A": ["boon ", "construction ", "goodness ", "miracle ", "wonder "]}
+{"index": 81839, "D": "the act of preying upon or plundering; robbery; ravage.", "S": ["wasting"], "A": ["boon", "construction", "goodness", "miracle", "wonder"]}

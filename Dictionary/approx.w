@@ -1,0 +1,1 @@
+{"index": 18028, "D": "approximate.", "S": [], "A": []}

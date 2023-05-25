@@ -1,1 +1,1 @@
-{"index": 291425, "D": "a type of cyclotron consisting of magnetic sections alternately spaced with sections in which particles are electrostatically accelerated.", "S": ["accelerator "], "A": []}
+{"index": 291425, "D": "a type of cyclotron consisting of magnetic sections alternately spaced with sections in which particles are electrostatically accelerated.", "S": ["accelerator"], "A": []}

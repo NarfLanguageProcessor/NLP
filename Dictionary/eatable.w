@@ -1,1 +1,1 @@
-{"index": 94955, "D": "edible. ", "S": ["comestible ", "delicious ", "dietary ", "edible ", "fit ", "good ", "kosher ", "safe ", "savory ", "succulent "], "A": ["disagreeable ", "distasteful ", "harmful ", "inadequate ", "poisonous ", "unpleasant ", "unsuitable "]}
+{"index": 94955, "D": "edible. ", "S": ["comestible", "delicious", "dietary", "edible", "fit", "good", "kosher", "safe", "savory", "succulent"], "A": ["disagreeable", "distasteful", "harmful", "inadequate", "poisonous", "unpleasant", "unsuitable"]}

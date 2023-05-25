@@ -1,1 +1,1 @@
-{"index": 241353, "D": [], "S": ["explorer ", "guide ", "leader ", "pathfinder ", "player ", "playmaker ", "point ", "scout ", "trailblazer ", "trailbreaker "], "A": []}
+{"index": 241353, "D": [], "S": ["explorer", "guide", "leader", "pathfinder", "player", "playmaker", "point", "scout", "trailblazer", "trailbreaker"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 36553, "D": "a large, irregular spot or blot.", "S": ["blemish ", "blot "], "A": ["blank ", "clarity ", "cleanness "]}
+{"index": 36553, "D": "a large, irregular spot or blot.", "S": ["blemish", "blot"], "A": ["blank", "clarity", "cleanness"]}

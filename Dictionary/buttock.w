@@ -1,1 +1,1 @@
-{"index": 43734, "D": "(in animals) the rump.", "S": ["backside ", "butt ", "cheek ", "derriere ", "rear end ", "rump "], "A": ["front "]}
+{"index": 43734, "D": "(in animals) the rump.", "S": ["backside", "butt", "cheek", "derriere", "rear end", "rump"], "A": ["front"]}

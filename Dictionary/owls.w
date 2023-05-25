@@ -1,1 +1,1 @@
-{"index": 222070, "D": "any of numerous, chiefly nocturnal birds of prey, of the order Strigiformes, having a broad head with large, forward-directed eyes that are usually surrounded by disks of modified feathers", "S": ["crook ", "robber ", "thief "], "A": []}
+{"index": 222070, "D": "any of numerous, chiefly nocturnal birds of prey, of the order Strigiformes, having a broad head with large, forward-directed eyes that are usually surrounded by disks of modified feathers", "S": ["crook", "robber", "thief"], "A": []}

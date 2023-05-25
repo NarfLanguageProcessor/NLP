@@ -1,1 +1,1 @@
-{"index": 66674, "D": "governed by conscience;  controlled by or done according to one's inner sense of what is right; principled", "S": ["diligent ", "fastidious ", "fussy ", "meticulous ", "painstaking "], "A": ["careless ", "indifferent ", "uncritical ", "undemanding "]}
+{"index": 66674, "D": "governed by conscience;  controlled by or done according to one's inner sense of what is right; principled", "S": ["diligent", "fastidious", "fussy", "meticulous", "painstaking"], "A": ["careless", "indifferent", "uncritical", "undemanding"]}

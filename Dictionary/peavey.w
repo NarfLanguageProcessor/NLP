@@ -1,1 +1,1 @@
-{"index": 228532, "D": "a cant hook with a sharply pointed end, used in handling logs.", "S": ["crowbar ", "pedal ", "tool "], "A": []}
+{"index": 228532, "D": "a cant hook with a sharply pointed end, used in handling logs.", "S": ["crowbar", "pedal", "tool"], "A": []}

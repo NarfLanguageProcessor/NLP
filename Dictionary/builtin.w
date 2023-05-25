@@ -1,1 +1,1 @@
-{"index": 42378, "D": "built so as to be an integral and permanent part of a larger construction", "S": ["deep-seated ", "fixed ", "implanted ", "inbred ", "inherent ", "innate ", "intrinsic ", "rooted "], "A": ["acquired ", "extrinsic ", "incidental ", "learned "]}
+{"index": 42378, "D": "built so as to be an integral and permanent part of a larger construction", "S": ["deep-seated", "fixed", "implanted", "inbred", "inherent", "innate", "intrinsic", "rooted"], "A": ["acquired", "extrinsic", "incidental", "learned"]}

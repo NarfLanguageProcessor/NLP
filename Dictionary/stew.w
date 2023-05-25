@@ -1,1 +1,1 @@
-{"index": 304192, "D": "to cook (food) by simmering or slow boiling.", "S": ["brew ", "pie ", "soup "], "A": ["calm ", "control ", "ease ", "element ", "happiness "]}
+{"index": 304192, "D": "to cook (food) by simmering or slow boiling.", "S": ["brew", "pie", "soup"], "A": ["calm", "control", "ease", "element", "happiness"]}

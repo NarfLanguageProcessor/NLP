@@ -1,1 +1,1 @@
-{"index": 64250, "D": "inclined to communicate  or impart; talkative", "S": ["candid ", "chatty ", "conversational ", "demonstrative ", "expansive ", "talkative "], "A": ["quiet ", "reserved ", "silent ", "uncommunicative "]}
+{"index": 64250, "D": "inclined to communicate  or impart; talkative", "S": ["candid", "chatty", "conversational", "demonstrative", "expansive", "talkative"], "A": ["quiet", "reserved", "silent", "uncommunicative"]}

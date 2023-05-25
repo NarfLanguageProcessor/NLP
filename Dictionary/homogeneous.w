@@ -1,1 +1,1 @@
-{"index": 143083, "D": "composed of parts or elements that are all of the same kind; not heterogeneous", "S": ["alike ", "comparable ", "compatible ", "consistent ", "equal ", "same ", "solid ", "uniform "], "A": ["different ", "dissimilar "]}
+{"index": 143083, "D": "composed of parts or elements that are all of the same kind; not heterogeneous", "S": ["alike", "comparable", "compatible", "consistent", "equal", "same", "solid", "uniform"], "A": ["different", "dissimilar"]}

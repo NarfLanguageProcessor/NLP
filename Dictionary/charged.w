@@ -1,1 +1,1 @@
-{"index": 52804, "D": "intense; impassioned", "S": ["debited ", "owed ", "owing "], "A": []}
+{"index": 52804, "D": "intense; impassioned", "S": ["debited", "owed", "owing"], "A": []}

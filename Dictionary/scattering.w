@@ -1,1 +1,1 @@
-{"index": 279882, "D": "distributed or occurring here and there at irregular intervals; scattered. ", "S": ["few ", "irregular ", "scattered "], "A": []}
+{"index": 279882, "D": "distributed or occurring here and there at irregular intervals; scattered. ", "S": ["few", "irregular", "scattered"], "A": []}

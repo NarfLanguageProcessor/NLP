@@ -1,1 +1,1 @@
-{"index": 13213, "D": [], "S": ["breathtaking ", "exciting ", "inspiring ", "intoxicating ", "invigorating ", "rousing ", "stirring ", "thrilling ", "uplifting "], "A": ["boring ", "depressing ", "unstimulating "]}
+{"index": 13213, "D": [], "S": ["breathtaking", "exciting", "inspiring", "intoxicating", "invigorating", "rousing", "stirring", "thrilling", "uplifting"], "A": ["boring", "depressing", "unstimulating"]}

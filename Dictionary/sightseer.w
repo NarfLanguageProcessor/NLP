@@ -1,1 +1,1 @@
-{"index": 290025, "D": "to go about seeing places and things of interest", "S": ["traveler "], "A": []}
+{"index": 290025, "D": "to go about seeing places and things of interest", "S": ["traveler"], "A": []}

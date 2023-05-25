@@ -1,1 +1,1 @@
-{"index": 25754, "D": "Also called", "S": ["act curtain ", "act drop ", "backdrop ", "cloth ", "drop ", "drop scene ", "scrim ", "tab ", "tableau curtain "], "A": []}
+{"index": 25754, "D": "Also called", "S": ["act curtain", "act drop", "backdrop", "cloth", "drop", "drop scene", "scrim", "tab", "tableau curtain"], "A": []}

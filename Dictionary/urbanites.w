@@ -1,1 +1,1 @@
-{"index": 355393, "D": "a resident of a city or urban  community.", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "taxpayer ", "townswoman "], "A": ["alien ", "foreigner "]}
+{"index": 355393, "D": "a resident of a city or urban  community.", "S": ["autochthon", "inhabitant", "national", "native", "resident", "taxpayer", "townswoman"], "A": ["alien", "foreigner"]}

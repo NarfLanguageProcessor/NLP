@@ -1,1 +1,1 @@
-{"index": 284899, "D": "a copper coin of ancient Rome, the half part of an as.", "S": ["car ", "crate ", "freighter ", "jeep ", "lorry ", "pickup ", "rig ", "van ", "wagon "], "A": []}
+{"index": 284899, "D": "a copper coin of ancient Rome, the half part of an as.", "S": ["car", "crate", "freighter", "jeep", "lorry", "pickup", "rig", "van", "wagon"], "A": []}

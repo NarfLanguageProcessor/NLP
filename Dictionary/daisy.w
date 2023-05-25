@@ -1,1 +1,1 @@
-{"index": 76390, "D": "any of various composite plants the flowers of which have a yellow disk and white rays, as the English daisy  and the oxeye daisy. ", "S": ["blemish ", "blotch ", "mole "], "A": []}
+{"index": 76390, "D": "any of various composite plants the flowers of which have a yellow disk and white rays, as the English daisy  and the oxeye daisy. ", "S": ["blemish", "blotch", "mole"], "A": []}

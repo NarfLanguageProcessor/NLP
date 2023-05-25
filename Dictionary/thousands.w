@@ -1,1 +1,1 @@
-{"index": 322489, "D": "a cardinal number, 10 times 100.", "S": ["gobs ", "heaps ", "horde ", "jillion ", "large numbers ", "mass ", "multitude ", "oodles ", "piles ", "plenty ", "scads ", "scores ", "throng ", "tons ", "umpteen ", "whole slew "], "A": ["few "]}
+{"index": 322489, "D": "a cardinal number, 10 times 100.", "S": ["gobs", "heaps", "horde", "jillion", "large numbers", "mass", "multitude", "oodles", "piles", "plenty", "scads", "scores", "throng", "tons", "umpteen", "whole slew"], "A": ["few"]}

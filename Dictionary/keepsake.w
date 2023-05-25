@@ -1,1 +1,1 @@
-{"index": 163591, "D": "anything kept, or given to be kept, as a token of friendship or affection; remembrance.", "S": ["memento ", "relic ", "souvenir ", "trophy "], "A": []}
+{"index": 163591, "D": "anything kept, or given to be kept, as a token of friendship or affection; remembrance.", "S": ["memento", "relic", "souvenir", "trophy"], "A": []}

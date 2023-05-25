@@ -1,1 +1,1 @@
-{"index": 64530, "D": "a host, master of ceremonies, or the like, especially of a stage revue or television program.", "S": ["emcee ", "moderator ", "ringmaster "], "A": []}
+{"index": 64530, "D": "a host, master of ceremonies, or the like, especially of a stage revue or television program.", "S": ["emcee", "moderator", "ringmaster"], "A": []}

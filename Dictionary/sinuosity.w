@@ -1,1 +1,1 @@
-{"index": 292126, "D": "a curve, bend, or turn", "S": ["coil ", "complexity ", "contortion ", "curlicue ", "gyration ", "helix ", "intricacy ", "involution ", "sinuousness ", "swirl ", "tortuousness ", "twist ", "undulation ", "winding "], "A": ["line ", "straightness "]}
+{"index": 292126, "D": "a curve, bend, or turn", "S": ["coil", "complexity", "contortion", "curlicue", "gyration", "helix", "intricacy", "involution", "sinuousness", "swirl", "tortuousness", "twist", "undulation", "winding"], "A": ["line", "straightness"]}

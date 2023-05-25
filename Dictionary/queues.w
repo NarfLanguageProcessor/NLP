@@ -1,1 +1,1 @@
-{"index": 258463, "D": "a braid of hair worn hanging down behind.", "S": ["chain ", "concatenation ", "echelon ", "file ", "line ", "order ", "progression ", "rank ", "row ", "series ", "string ", "succession ", "tail ", "tier ", "train "], "A": ["disorder ", "disorganization "]}
+{"index": 258463, "D": "a braid of hair worn hanging down behind.", "S": ["chain", "concatenation", "echelon", "file", "line", "order", "progression", "rank", "row", "series", "string", "succession", "tail", "tier", "train"], "A": ["disorder", "disorganization"]}

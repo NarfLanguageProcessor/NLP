@@ -1,1 +1,1 @@
-{"index": 248907, "D": "preparatory school. ", "S": ["able ", "adapted ", "arranged ", "groomed ", "inclined ", "planned ", "processed ", "qualified ", "willing "], "A": ["unable ", "disinclined ", "indefinite ", "unfixed ", "unwilling "]}
+{"index": 248907, "D": "preparatory school. ", "S": ["able", "adapted", "arranged", "groomed", "inclined", "planned", "processed", "qualified", "willing"], "A": ["unable", "disinclined", "indefinite", "unfixed", "unwilling"]}

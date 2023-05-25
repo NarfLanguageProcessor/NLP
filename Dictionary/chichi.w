@@ -1,1 +1,1 @@
-{"index": 54124, "D": "showily or affectedly elegant or trendy; pretentious.", "S": ["flamboyant ", "swank "], "A": []}
+{"index": 54124, "D": "showily or affectedly elegant or trendy; pretentious.", "S": ["flamboyant", "swank"], "A": []}

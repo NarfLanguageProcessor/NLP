@@ -1,1 +1,1 @@
-{"index": 88233, "D": "to make or be inharmonious.", "S": ["differ "], "A": ["agree "]}
+{"index": 88233, "D": "to make or be inharmonious.", "S": ["differ"], "A": ["agree"]}

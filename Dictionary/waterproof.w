@@ -1,1 +1,1 @@
-{"index": 363217, "D": "impervious to water. ", "S": ["rainproof "], "A": ["leaky "]}
+{"index": 363217, "D": "impervious to water. ", "S": ["rainproof"], "A": ["leaky"]}

@@ -1,1 +1,1 @@
-{"index": 248753, "D": "properly expectant, organized, or equipped; ready", "S": ["able ", "adapted ", "arranged ", "groomed ", "inclined ", "planned ", "processed ", "qualified ", "willing "], "A": ["unable ", "disinclined ", "indefinite ", "unfixed ", "unwilling "]}
+{"index": 248753, "D": "properly expectant, organized, or equipped; ready", "S": ["able", "adapted", "arranged", "groomed", "inclined", "planned", "processed", "qualified", "willing"], "A": ["unable", "disinclined", "indefinite", "unfixed", "unwilling"]}

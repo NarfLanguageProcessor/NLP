@@ -1,1 +1,1 @@
-{"index": 226722, "D": "an official document authorizing such a release.", "S": ["let out ", "liberate ", "pardon "], "A": ["hold "]}
+{"index": 226722, "D": "an official document authorizing such a release.", "S": ["let out", "liberate", "pardon"], "A": ["hold"]}

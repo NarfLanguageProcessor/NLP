@@ -1,0 +1,1 @@
+{"index": 4358, "D": "a tool used in the diagnosis and assessment of autism spectrum disorder,  comprising a graduated series of structured interactive tasks scored against a set of standardized rubrics.", "S": [], "A": []}

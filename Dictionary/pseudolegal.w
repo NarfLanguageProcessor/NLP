@@ -1,1 +1,0 @@
-{"index": 254847, "D": "permitted by law; lawful", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 40071, "D": "a sausage made of pork, spices, and herbs, sometimes without a casing, usually served saut\u00e9ed or broiled.", "S": ["banger ", "frankfurter ", "liverwurst ", "pepperoni ", "wienerwurst "], "A": []}
+{"index": 40071, "D": "a sausage made of pork, spices, and herbs, sometimes without a casing, usually served saut\u00e9ed or broiled.", "S": ["banger", "frankfurter", "liverwurst", "pepperoni", "wienerwurst"], "A": []}

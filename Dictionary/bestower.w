@@ -1,1 +1,1 @@
-{"index": 32611, "D": [], "S": ["backer ", "benefactor ", "contributor ", "patron "], "A": ["antagonist ", "opponent ", "opposer "]}
+{"index": 32611, "D": [], "S": ["backer", "benefactor", "contributor", "patron"], "A": ["antagonist", "opponent", "opposer"]}

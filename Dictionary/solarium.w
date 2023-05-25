@@ -1,1 +1,1 @@
-{"index": 296519, "D": "a glass-enclosed room, porch, or the like, exposed to the sun's rays, as at a seaside hotel or for convalescents in a hospital.", "S": ["conservatory ", "lounge ", "sun lounge ", "sunporch ", "sunroom "], "A": []}
+{"index": 296519, "D": "a glass-enclosed room, porch, or the like, exposed to the sun's rays, as at a seaside hotel or for convalescents in a hospital.", "S": ["conservatory", "lounge", "sun lounge", "sunporch", "sunroom"], "A": []}

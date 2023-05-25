@@ -1,1 +1,1 @@
-{"index": 336789, "D": "full of cheer;  in good spirits", "S": ["afraid ", "averse ", "compelled ", "evasive ", "forced ", "loath ", "reluctant ", "resistant ", "unenthusiastic "], "A": ["eager ", "enthusiastic ", "ready ", "willing "]}
+{"index": 336789, "D": "full of cheer;  in good spirits", "S": ["afraid", "averse", "compelled", "evasive", "forced", "loath", "reluctant", "resistant", "unenthusiastic"], "A": ["eager", "enthusiastic", "ready", "willing"]}

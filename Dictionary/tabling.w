@@ -1,1 +1,1 @@
-{"index": 314871, "D": "an article of furniture consisting of a flat, slablike top supported on one or more legs or other supports", "S": ["bar ", "bench ", "board ", "buffet ", "counter ", "desk ", "dinner table ", "stand "], "A": []}
+{"index": 314871, "D": "an article of furniture consisting of a flat, slablike top supported on one or more legs or other supports", "S": ["bar", "bench", "board", "buffet", "counter", "desk", "dinner table", "stand"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64714, "D": "to act or be in accordance with wishes, requests, demands, requirements, conditions, etc.; agree (sometimes followed by with)", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}
+{"index": 64714, "D": "to act or be in accordance with wishes, requests, demands, requirements, conditions, etc.; agree (sometimes followed by with)", "S": ["affirmatory", "approving", "positive", "supporting"], "A": ["dissenting", "negative"]}

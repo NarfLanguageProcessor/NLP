@@ -1,1 +1,1 @@
-{"index": 272735, "D": "of common or frequent occurrence; prevalent; in widespread existence, activity, or use", "S": ["abundant ", "alive ", "plentiful ", "popular ", "prevalent ", "rampant ", "replete "], "A": ["limited ", "scarce ", "uncommon "]}
+{"index": 272735, "D": "of common or frequent occurrence; prevalent; in widespread existence, activity, or use", "S": ["abundant", "alive", "plentiful", "popular", "prevalent", "rampant", "replete"], "A": ["limited", "scarce", "uncommon"]}

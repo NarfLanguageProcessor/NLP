@@ -1,1 +1,1 @@
-{"index": 200259, "D": "sharp or biting, as cold.", "S": ["bitter ", "bleak ", "harsh ", "penetrating "], "A": ["kind ", "mild ", "nice ", "pleasant "]}
+{"index": 200259, "D": "sharp or biting, as cold.", "S": ["bitter", "bleak", "harsh", "penetrating"], "A": ["kind", "mild", "nice", "pleasant"]}

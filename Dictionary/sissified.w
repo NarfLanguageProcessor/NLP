@@ -1,1 +1,1 @@
-{"index": 292501, "D": "sissy. ", "S": ["epicene ", "feminine ", "sissyish ", "unmanly ", "womanish ", "womanlike ", "womanly "], "A": []}
+{"index": 292501, "D": "sissy. ", "S": ["epicene", "feminine", "sissyish", "unmanly", "womanish", "womanlike", "womanly"], "A": []}

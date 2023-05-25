@@ -1,0 +1,1 @@
+{"index": 4339, "D": "to regard with the utmost esteem, love, and respect; honor.", "S": ["churchgoer", "devotee"], "A": []}

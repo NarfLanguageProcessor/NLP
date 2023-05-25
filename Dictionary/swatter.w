@@ -1,1 +1,1 @@
-{"index": 314193, "D": "a person or thing that swats. ", "S": ["business ", "staff "], "A": []}
+{"index": 314193, "D": "a person or thing that swats. ", "S": ["business", "staff"], "A": []}

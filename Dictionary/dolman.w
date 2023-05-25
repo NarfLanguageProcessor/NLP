@@ -1,1 +1,1 @@
-{"index": 91180, "D": "a woman's mantle with capelike arm pieces instead of sleeves.", "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "fichu ", "gabardine ", "mantilla ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}
+{"index": 91180, "D": "a woman's mantle with capelike arm pieces instead of sleeves.", "S": ["Vandyke", "capote", "cardinal", "cloak", "cope", "fichu", "gabardine", "mantilla", "mantle", "pelisse", "poncho", "shawl", "tabard", "tippet", "wrap", "wrapper"], "A": []}

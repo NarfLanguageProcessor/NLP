@@ -1,1 +1,1 @@
-{"index": 323370, "D": [], "S": ["scarfpin ", "tie tac ", "tie tack ", "tiepin "], "A": []}
+{"index": 323370, "D": [], "S": ["scarfpin", "tie tac", "tie tack", "tiepin"], "A": []}

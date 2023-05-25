@@ -1,1 +1,1 @@
-{"index": 25476, "D": "foolish or meaningless chatter; prattle", "S": ["blabbering ", "blathering ", "blithering ", "chitchatting ", "driveling ", "gibbering ", "jabbering ", "prattling "], "A": []}
+{"index": 25476, "D": "foolish or meaningless chatter; prattle", "S": ["blabbering", "blathering", "blithering", "chitchatting", "driveling", "gibbering", "jabbering", "prattling"], "A": []}

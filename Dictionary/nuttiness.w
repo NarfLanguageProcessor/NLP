@@ -1,1 +1,0 @@
-{"index": 209839, "D": "abounding in or producing nuts.", "S": ["absurdity ", "idiocy ", "insanity ", "lunacy ", "madness ", "nonsense ", "silliness "], "A": ["sense "]}

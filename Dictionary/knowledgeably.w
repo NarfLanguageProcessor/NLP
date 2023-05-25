@@ -1,1 +1,1 @@
-{"index": 165725, "D": "possessing or exhibiting knowledge,  insight, or understanding; intelligent; well-informed; discerning; perceptive.", "S": ["cleverly ", "intelligently "], "A": ["unintelligently "]}
+{"index": 165725, "D": "possessing or exhibiting knowledge,  insight, or understanding; intelligent; well-informed; discerning; perceptive.", "S": ["cleverly", "intelligently"], "A": ["unintelligently"]}

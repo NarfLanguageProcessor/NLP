@@ -1,0 +1,1 @@
+{"index": 18026, "D": "to speak or think favorably of; pronounce or consider agreeable or good; judge favorably", "S": ["admiring", "approbatory", "commendatory", "congratulatory", "extolling", "laudatory", "praising"], "A": []}

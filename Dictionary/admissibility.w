@@ -1,0 +1,1 @@
+{"index": 4188, "D": "that may be allowed or conceded; allowable", "S": ["adequacy", "compatibility", "competence", "consistency", "eligibility", "preparedness", "qualification", "readiness", "suitability"], "A": ["inability", "inadequacy", "bad manners", "disagreement", "discord", "immorality", "impropriety", "indecency"]}

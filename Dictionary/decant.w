@@ -1,1 +1,1 @@
-{"index": 78014, "D": "to pour (wine or other liquid) gently so as not to disturb the sediment.", "S": ["draft ", "empty "], "A": []}
+{"index": 78014, "D": "to pour (wine or other liquid) gently so as not to disturb the sediment.", "S": ["draft", "empty"], "A": []}

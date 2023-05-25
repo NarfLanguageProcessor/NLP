@@ -1,1 +1,1 @@
-{"index": 344645, "D": "not inspired;  not creative or spirited", "S": ["ponderous ", "unimpressed ", "uninspiring "], "A": ["creative ", "inspired ", "original "]}
+{"index": 344645, "D": "not inspired;  not creative or spirited", "S": ["ponderous", "unimpressed", "uninspiring"], "A": ["creative", "inspired", "original"]}

@@ -1,1 +1,1 @@
-{"index": 229497, "D": "to subject to a penalty, as a person.", "S": ["castigate ", "chastise ", "discipline ", "fine "], "A": ["compliment ", "aid ", "assist ", "help "]}
+{"index": 229497, "D": "to subject to a penalty, as a person.", "S": ["castigate", "chastise", "discipline", "fine"], "A": ["compliment", "aid", "assist", "help"]}

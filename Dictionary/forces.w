@@ -1,1 +1,1 @@
-{"index": 116424, "D": "the armed services of a nation", "S": ["HR ", "personnel ", "staff "], "A": []}
+{"index": 116424, "D": "the armed services of a nation", "S": ["HR", "personnel", "staff"], "A": []}

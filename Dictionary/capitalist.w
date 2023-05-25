@@ -1,1 +1,1 @@
-{"index": 46899, "D": "a person who has capital,  especially extensive capital,  invested in business enterprises.", "S": ["banker ", "entrepreneur ", "financier "], "A": ["communist "]}
+{"index": 46899, "D": "a person who has capital,  especially extensive capital,  invested in business enterprises.", "S": ["banker", "entrepreneur", "financier"], "A": ["communist"]}

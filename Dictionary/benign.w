@@ -1,1 +1,1 @@
-{"index": 31627, "D": "not malignant; self-limiting", "S": ["benevolent ", "favorable ", "friendly ", "gentle ", "mild "], "A": ["harsh ", "rough ", "unfriendly ", "unkind ", "violent "]}
+{"index": 31627, "D": "not malignant; self-limiting", "S": ["benevolent", "favorable", "friendly", "gentle", "mild"], "A": ["harsh", "rough", "unfriendly", "unkind", "violent"]}

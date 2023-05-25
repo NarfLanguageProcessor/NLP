@@ -1,1 +1,1 @@
-{"index": 77738, "D": "to corrupt by sensuality, intemperance, etc.; seduce.", "S": ["Lothario ", "cad ", "degenerate ", "libertine ", "ravisher ", "rounder ", "scoundrel "], "A": []}
+{"index": 77738, "D": "to corrupt by sensuality, intemperance, etc.; seduce.", "S": ["Lothario", "cad", "degenerate", "libertine", "ravisher", "rounder", "scoundrel"], "A": []}

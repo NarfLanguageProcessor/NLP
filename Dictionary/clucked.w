@@ -1,1 +1,1 @@
-{"index": 60670, "D": "to utter the cry of a hen brooding or calling her chicks.", "S": ["coo "], "A": []}
+{"index": 60670, "D": "to utter the cry of a hen brooding or calling her chicks.", "S": ["coo"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64700, "D": "the act of complicating. ", "S": ["complexity ", "confusion ", "difficulty ", "obstacle ", "problem ", "snag "], "A": ["advantage ", "calm ", "clarity ", "ease "]}
+{"index": 64700, "D": "the act of complicating. ", "S": ["complexity", "confusion", "difficulty", "obstacle", "problem", "snag"], "A": ["advantage", "calm", "clarity", "ease"]}

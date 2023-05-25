@@ -1,1 +1,1 @@
-{"index": 183235, "D": "expressing or serving as a menace  or threat", "S": ["alarming ", "dangerous ", "frightening ", "threatening "], "A": ["remote "]}
+{"index": 183235, "D": "expressing or serving as a menace  or threat", "S": ["alarming", "dangerous", "frightening", "threatening"], "A": ["remote"]}

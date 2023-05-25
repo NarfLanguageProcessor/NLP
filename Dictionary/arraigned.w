@@ -1,1 +1,1 @@
-{"index": 20158, "D": "called or brought before a court to answer to an indictment", "S": ["implicated ", "incriminated ", "indicted "], "A": ["acquitted ", "clear ", "discharged "]}
+{"index": 20158, "D": "called or brought before a court to answer to an indictment", "S": ["implicated", "incriminated", "indicted"], "A": ["acquitted", "clear", "discharged"]}

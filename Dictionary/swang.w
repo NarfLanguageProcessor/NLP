@@ -1,1 +1,1 @@
-{"index": 314053, "D": "simple past tense of swing1. ", "S": ["fluctuation ", "rhythm ", "stroke "], "A": []}
+{"index": 314053, "D": "simple past tense of swing1. ", "S": ["fluctuation", "rhythm", "stroke"], "A": []}

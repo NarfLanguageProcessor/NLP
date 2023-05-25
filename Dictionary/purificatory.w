@@ -1,1 +1,1 @@
-{"index": 256946, "D": "to make pure; free from anything that debases, pollutes, adulterates, or contaminates", "S": ["aperient ", "aperitive ", "emetic ", "expiatory ", "laxative ", "lustral ", "lustrative ", "physic ", "purgatorial ", "purging "], "A": []}
+{"index": 256946, "D": "to make pure; free from anything that debases, pollutes, adulterates, or contaminates", "S": ["aperient", "aperitive", "emetic", "expiatory", "laxative", "lustral", "lustrative", "physic", "purgatorial", "purging"], "A": []}

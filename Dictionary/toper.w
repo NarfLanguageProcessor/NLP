@@ -1,1 +1,1 @@
-{"index": 325850, "D": "a habitual drinker of alcohol who is frequently intoxicated; a heavy drinker.", "S": ["alcoholic ", "drunk ", "drunkard ", "lush ", "sot ", "sponge ", "wino "], "A": []}
+{"index": 325850, "D": "a habitual drinker of alcohol who is frequently intoxicated; a heavy drinker.", "S": ["alcoholic", "drunk", "drunkard", "lush", "sot", "sponge", "wino"], "A": []}

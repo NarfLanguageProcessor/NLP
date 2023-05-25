@@ -1,1 +1,1 @@
-{"index": 261244, "D": "something raveled  out, as a thread drawn or separated from a knitted or woven fabric.", "S": ["cord ", "cotton ", "filament ", "silk ", "strand ", "string ", "wire ", "wool ", "yarn "], "A": []}
+{"index": 261244, "D": "something raveled  out, as a thread drawn or separated from a knitted or woven fabric.", "S": ["cord", "cotton", "filament", "silk", "strand", "string", "wire", "wool", "yarn"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 154153, "D": "an act or instance of rising in revolt, rebellion, or resistance against civil authority or an established government.", "S": ["coup ", "insurgency ", "mutiny ", "revolt ", "revolution ", "riot ", "sedition ", "uprising "], "A": ["calm ", "peace "]}
+{"index": 154153, "D": "an act or instance of rising in revolt, rebellion, or resistance against civil authority or an established government.", "S": ["coup", "insurgency", "mutiny", "revolt", "revolution", "riot", "sedition", "uprising"], "A": ["calm", "peace"]}

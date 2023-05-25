@@ -1,1 +1,1 @@
-{"index": 89610, "D": "to sever the association of (oneself); separate", "S": ["alienate ", "detach ", "disband ", "disconnect ", "disengage "], "A": ["attach ", "connect ", "couple ", "join ", "link ", "unite ", "arrange ", "collect ", "combine ", "complete ", "gather ", "marry "]}
+{"index": 89610, "D": "to sever the association of (oneself); separate", "S": ["alienate", "detach", "disband", "disconnect", "disengage"], "A": ["attach", "connect", "couple", "join", "link", "unite", "arrange", "collect", "combine", "complete", "gather", "marry"]}

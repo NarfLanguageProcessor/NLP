@@ -1,1 +1,1 @@
-{"index": 128840, "D": "speech that is lofty in tone, often to the point of being pompous or bombastic.", "S": ["claptrap ", "eloquence ", "fustian ", "grandiosity ", "magniloquence ", "rant ", "turgidity "], "A": []}
+{"index": 128840, "D": "speech that is lofty in tone, often to the point of being pompous or bombastic.", "S": ["claptrap", "eloquence", "fustian", "grandiosity", "magniloquence", "rant", "turgidity"], "A": []}

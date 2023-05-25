@@ -1,0 +1,1 @@
+{"index": 18006, "D": "the act of appropriating  or taking possession of something, often without permission or consent.", "S": ["allotment", "allowance", "donation", "funding", "grant", "provision", "stipend", "subsidy"], "A": ["bestowal", "keeping", "refusal", "rejection", "return"]}

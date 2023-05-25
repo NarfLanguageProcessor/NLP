@@ -1,1 +1,1 @@
-{"index": 304793, "D": "one of a pair of lateral appendages, often leaflike, at the base of a leaf petiole in many plants.", "S": ["frond ", "needle ", "petal ", "stalk "], "A": []}
+{"index": 304793, "D": "one of a pair of lateral appendages, often leaflike, at the base of a leaf petiole in many plants.", "S": ["frond", "needle", "petal", "stalk"], "A": []}

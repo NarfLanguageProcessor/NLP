@@ -1,1 +1,1 @@
-{"index": 77031, "D": "to dart  or shoot forth repeatedly.", "S": ["bar ", "glow ", "laser ", "radiation ", "ray ", "shaft "], "A": ["dullness "]}
+{"index": 77031, "D": "to dart  or shoot forth repeatedly.", "S": ["bar", "glow", "laser", "radiation", "ray", "shaft"], "A": ["dullness"]}

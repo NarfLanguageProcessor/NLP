@@ -1,1 +1,1 @@
-{"index": 279532, "D": "to glance at or over or read hastily", "S": ["browse ", "check ", "examine ", "flash ", "flip through ", "leaf through ", "look through ", "scour ", "search ", "skim ", "thumb through "], "A": ["discard ", "disregard ", "forget ", "ignore ", "look away ", "neglect "]}
+{"index": 279532, "D": "to glance at or over or read hastily", "S": ["browse", "check", "examine", "flash", "flip through", "leaf through", "look through", "scour", "search", "skim", "thumb through"], "A": ["discard", "disregard", "forget", "ignore", "look away", "neglect"]}

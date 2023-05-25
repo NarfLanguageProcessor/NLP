@@ -1,1 +1,1 @@
-{"index": 200807, "D": "making much noise", "S": ["boisterous ", "cacophonous ", "clamorous ", "rambunctious ", "riotous ", "rowdy ", "strident ", "vociferous "], "A": ["calm ", "moderate ", "quiet ", "restrained ", "silent "]}
+{"index": 200807, "D": "making much noise", "S": ["boisterous", "cacophonous", "clamorous", "rambunctious", "riotous", "rowdy", "strident", "vociferous"], "A": ["calm", "moderate", "quiet", "restrained", "silent"]}

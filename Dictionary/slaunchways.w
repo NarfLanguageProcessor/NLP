@@ -1,1 +1,1 @@
-{"index": 293765, "D": [], "S": ["cater-corner ", "cater-cornered ", "catercorner ", "catty-corner ", "catty-cornered ", "crosswise ", "kitty-corner ", "kitty-cornered "], "A": []}
+{"index": 293765, "D": [], "S": ["cater-corner", "cater-cornered", "catercorner", "catty-corner", "catty-cornered", "crosswise", "kitty-corner", "kitty-cornered"], "A": []}

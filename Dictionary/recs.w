@@ -1,1 +1,1 @@
-{"index": 263659, "D": "recreation. ", "S": ["amusement ", "diversion ", "enjoyment ", "fun ", "hobby ", "pleasure ", "relaxation "], "A": ["sadness ", "sorrow ", "unhappiness ", "vocation ", "work ", "difficulty ", "drudgery ", "profession ", "task "]}
+{"index": 263659, "D": "recreation. ", "S": ["amusement", "diversion", "enjoyment", "fun", "hobby", "pleasure", "relaxation"], "A": ["sadness", "sorrow", "unhappiness", "vocation", "work", "difficulty", "drudgery", "profession", "task"]}

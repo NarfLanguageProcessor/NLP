@@ -1,1 +1,1 @@
-{"index": 148085, "D": "to bestow unending fame upon; perpetuate.", "S": ["commemorate "], "A": []}
+{"index": 148085, "D": "to bestow unending fame upon; perpetuate.", "S": ["commemorate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 226614, "D": "a person who is expert in the formal rules and procedures of deliberative assemblies and other formal organizations.", "S": ["administrator ", "council member ", "deputy ", "lawmaker ", "leader ", "member ", "parliamentarian ", "representative ", "senator "], "A": []}
+{"index": 226614, "D": "a person who is expert in the formal rules and procedures of deliberative assemblies and other formal organizations.", "S": ["administrator", "council member", "deputy", "lawmaker", "leader", "member", "parliamentarian", "representative", "senator"], "A": []}

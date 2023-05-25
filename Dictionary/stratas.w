@@ -1,1 +1,0 @@
-{"index": 305832, "D": "a plural of stratum. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 27344, "D": "the leader  of a musical band,  especially a dance band. ", "S": ["composer ", "conductor "], "A": []}
+{"index": 27344, "D": "the leader  of a musical band,  especially a dance band. ", "S": ["composer", "conductor"], "A": []}

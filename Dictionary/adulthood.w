@@ -1,1 +1,1 @@
-{"index": 4525, "D": "the state or period of being fully grown, fully developed, or of age", "S": ["life ", "maturity ", "old age ", "youth "], "A": ["childhood ", "youth ", "adolescence ", "infancy "]}
+{"index": 4525, "D": "the state or period of being fully grown, fully developed, or of age", "S": ["life", "maturity", "old age", "youth"], "A": ["childhood", "youth", "adolescence", "infancy"]}

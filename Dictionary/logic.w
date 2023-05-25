@@ -1,1 +1,1 @@
-{"index": 174603, "D": "the science that investigates the principles governing correct or reliable inference.", "S": ["philosophy ", "rationale ", "sanity ", "sense "], "A": ["unreasonableness "]}
+{"index": 174603, "D": "the science that investigates the principles governing correct or reliable inference.", "S": ["philosophy", "rationale", "sanity", "sense"], "A": ["unreasonableness"]}

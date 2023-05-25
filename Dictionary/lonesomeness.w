@@ -1,1 +1,1 @@
-{"index": 174881, "D": "depressed or sad because of the lack of friends, companionship, etc.; lonely", "S": ["friendlessness ", "isolation ", "loneliness ", "solitariness ", "solitude ", "withdrawal "], "A": []}
+{"index": 174881, "D": "depressed or sad because of the lack of friends, companionship, etc.; lonely", "S": ["friendlessness", "isolation", "loneliness", "solitariness", "solitude", "withdrawal"], "A": []}

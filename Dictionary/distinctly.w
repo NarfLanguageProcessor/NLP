@@ -1,1 +1,1 @@
-{"index": 89807, "D": "in a distinct manner; clearly", "S": ["plainly ", "precisely ", "sharply ", "unmistakably "], "A": []}
+{"index": 89807, "D": "in a distinct manner; clearly", "S": ["plainly", "precisely", "sharply", "unmistakably"], "A": []}

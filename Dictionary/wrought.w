@@ -1,1 +1,1 @@
-{"index": 368133, "D": "a simple past tense and past participle of work. ", "S": ["constructed ", "elaborated ", "fashioned ", "formed ", "made ", "manufactured ", "molded ", "processed ", "shaped ", "worked "], "A": []}
+{"index": 368133, "D": "a simple past tense and past participle of work. ", "S": ["constructed", "elaborated", "fashioned", "formed", "made", "manufactured", "molded", "processed", "shaped", "worked"], "A": []}

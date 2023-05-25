@@ -1,1 +1,1 @@
-{"index": 331508, "D": "to walk, especially laboriously or wearily", "S": ["lumber ", "plod ", "slog ", "stumble ", "traipse ", "tramp ", "trek ", "wade "], "A": ["tiptoe "]}
+{"index": 331508, "D": "to walk, especially laboriously or wearily", "S": ["lumber", "plod", "slog", "stumble", "traipse", "tramp", "trek", "wade"], "A": ["tiptoe"]}

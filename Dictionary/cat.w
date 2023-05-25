@@ -1,1 +1,1 @@
-{"index": 49167, "D": "a small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties.", "S": ["kitten ", "kitty ", "tabby "], "A": []}
+{"index": 49167, "D": "a small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties.", "S": ["kitten", "kitty", "tabby"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 335829, "D": "to smear all over; bedaub.", "S": [], "A": []}

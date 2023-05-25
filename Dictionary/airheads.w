@@ -1,1 +1,1 @@
-{"index": 6916, "D": "a scatterbrained, stupid, or simple-minded person; dolt", "S": ["airbrain ", "birdbrain ", "dingbat ", "fluffhead ", "ninny ", "rattlebrain ", "silly person ", "space case "], "A": []}
+{"index": 6916, "D": "a scatterbrained, stupid, or simple-minded person; dolt", "S": ["airbrain", "birdbrain", "dingbat", "fluffhead", "ninny", "rattlebrain", "silly person", "space case"], "A": []}

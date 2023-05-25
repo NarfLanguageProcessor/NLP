@@ -1,1 +1,1 @@
-{"index": 152654, "D": "not harmonious;  discordant; unmelodious.", "S": ["dissension ", "friction "], "A": ["agreement ", "peace ", "accord "]}
+{"index": 152654, "D": "not harmonious;  discordant; unmelodious.", "S": ["dissension", "friction"], "A": ["agreement", "peace", "accord"]}

@@ -1,1 +1,1 @@
-{"index": 355427, "D": "a mischievous boy.", "S": ["brat ", "cub ", "dickens ", "gamin ", "imp ", "punk ", "pup ", "ragamuffin ", "waif "], "A": []}
+{"index": 355427, "D": "a mischievous boy.", "S": ["brat", "cub", "dickens", "gamin", "imp", "punk", "pup", "ragamuffin", "waif"], "A": []}

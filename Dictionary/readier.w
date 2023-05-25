@@ -1,1 +1,1 @@
-{"index": 261589, "D": "completely prepared or in fit condition for immediate action or use", "S": ["accessible ", "apt ", "handy ", "qualified ", "ripe "], "A": ["incapable ", "unskilled "]}
+{"index": 261589, "D": "completely prepared or in fit condition for immediate action or use", "S": ["accessible", "apt", "handy", "qualified", "ripe"], "A": ["incapable", "unskilled"]}

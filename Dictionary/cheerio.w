@@ -1,1 +1,1 @@
-{"index": 53460, "D": "goodbye; goodbye and good luck.", "S": ["Godspeed ", "adieu ", "adios ", "bye-bye ", "farewell ", "gluckliche Reise ", "goodbye ", "happy landing ", "pleasant journey ", "tsetchem leshalom "], "A": []}
+{"index": 53460, "D": "goodbye; goodbye and good luck.", "S": ["Godspeed", "adieu", "adios", "bye-bye", "farewell", "gluckliche Reise", "goodbye", "happy landing", "pleasant journey", "tsetchem leshalom"], "A": []}

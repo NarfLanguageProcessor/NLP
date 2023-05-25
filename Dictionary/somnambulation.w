@@ -1,1 +1,1 @@
-{"index": 297099, "D": "to walk during sleep; engage in sleepwalking. ", "S": ["noctambulation ", "noctambulism ", "somnambulism "], "A": []}
+{"index": 297099, "D": "to walk during sleep; engage in sleepwalking. ", "S": ["noctambulation", "noctambulism", "somnambulism"], "A": []}

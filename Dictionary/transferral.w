@@ -1,1 +1,0 @@
-{"index": 327848, "D": "the act or an instance of transferring or being transferred", "S": [], "A": []}

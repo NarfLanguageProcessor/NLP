@@ -1,0 +1,1 @@
+{"index": 16006, "D": "to make obsolete, old-fashioned, or out of date by replacing with something newer or better", "S": ["archaize", "obsolesce"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 340421, "D": "not directed;  not guided", "S": ["desultory ", "erratic ", "frivolous ", "haphazard ", "indiscriminate ", "pointless ", "random "], "A": ["definite ", "methodical ", "particular ", "sensible ", "specific ", "systematic "]}
+{"index": 340421, "D": "not directed;  not guided", "S": ["desultory", "erratic", "frivolous", "haphazard", "indiscriminate", "pointless", "random"], "A": ["definite", "methodical", "particular", "sensible", "specific", "systematic"]}

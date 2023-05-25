@@ -1,1 +1,1 @@
-{"index": 120491, "D": "consisting of or resembling fur", "S": ["fuzzy ", "shaggy ", "woolly "], "A": ["smooth "]}
+{"index": 120491, "D": "consisting of or resembling fur", "S": ["fuzzy", "shaggy", "woolly"], "A": ["smooth"]}

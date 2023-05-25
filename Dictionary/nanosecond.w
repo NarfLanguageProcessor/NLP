@@ -1,1 +1,1 @@
-{"index": 196782, "D": "one billionth of a second. Abbreviation", "S": ["blink of an eye ", "millisecond "], "A": []}
+{"index": 196782, "D": "one billionth of a second. Abbreviation", "S": ["blink of an eye", "millisecond"], "A": []}

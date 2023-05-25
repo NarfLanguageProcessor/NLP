@@ -1,1 +1,1 @@
-{"index": 175276, "D": "a quasilegendary nymph of the Rhine who lured sailors to shipwreck on her rock by singing", "S": ["jezebel ", "seducer ", "siren ", "temptress ", "vamp "], "A": []}
+{"index": 175276, "D": "a quasilegendary nymph of the Rhine who lured sailors to shipwreck on her rock by singing", "S": ["jezebel", "seducer", "siren", "temptress", "vamp"], "A": []}

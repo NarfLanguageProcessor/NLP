@@ -1,1 +1,1 @@
-{"index": 107999, "D": "to put (thought) into words; utter or state", "S": ["conveyed ", "deposited ", "dispatched ", "forwarded ", "mailed ", "sent ", "shipped ", "transported ", "trucked "], "A": []}
+{"index": 107999, "D": "to put (thought) into words; utter or state", "S": ["conveyed", "deposited", "dispatched", "forwarded", "mailed", "sent", "shipped", "transported", "trucked"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 328394, "D": "transverse. ", "S": ["across ", "cross "], "A": []}
+{"index": 328394, "D": "transverse. ", "S": ["across", "cross"], "A": []}

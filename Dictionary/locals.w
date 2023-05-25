@@ -1,1 +1,1 @@
-{"index": 174297, "D": "pertaining to or characterized by place or position in space; spatial.", "S": ["resident "], "A": ["alien ", "foreigner ", "nonnative "]}
+{"index": 174297, "D": "pertaining to or characterized by place or position in space; spatial.", "S": ["resident"], "A": ["alien", "foreigner", "nonnative"]}

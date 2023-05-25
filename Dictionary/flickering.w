@@ -1,1 +1,1 @@
-{"index": 114565, "D": "to burn unsteadily; shine with a wavering light; blink on and off", "S": ["fulgurating ", "lambent ", "meteoric ", "uncertain "], "A": []}
+{"index": 114565, "D": "to burn unsteadily; shine with a wavering light; blink on and off", "S": ["fulgurating", "lambent", "meteoric", "uncertain"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110382, "D": "any device for controlling the flow of liquid from a pipe or the like by opening or closing an orifice; tap; cock.", "S": ["nozzle ", "valve "], "A": []}
+{"index": 110382, "D": "any device for controlling the flow of liquid from a pipe or the like by opening or closing an orifice; tap; cock.", "S": ["nozzle", "valve"], "A": []}

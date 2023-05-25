@@ -1,1 +1,1 @@
-{"index": 69530, "D": "See also municipal corporation, public corporation. ", "S": ["association ", "business ", "company ", "enterprise ", "partnership ", "society "], "A": ["unemployment "]}
+{"index": 69530, "D": "See also municipal corporation, public corporation. ", "S": ["association", "business", "company", "enterprise", "partnership", "society"], "A": ["unemployment"]}

@@ -1,1 +1,1 @@
-{"index": 152135, "D": "not flexible; incapable of or resistant to being bent; rigid", "S": ["firmly ", "obstinately ", "unalterably ", "unchangeably "], "A": []}
+{"index": 152135, "D": "not flexible; incapable of or resistant to being bent; rigid", "S": ["firmly", "obstinately", "unalterably", "unchangeably"], "A": []}

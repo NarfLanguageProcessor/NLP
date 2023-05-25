@@ -1,1 +1,1 @@
-{"index": 346060, "D": "to strip a mask  or disguise from.", "S": ["disclosure "], "A": ["failure ", "miss ", "mistake "]}
+{"index": 346060, "D": "to strip a mask  or disguise from.", "S": ["disclosure"], "A": ["failure", "miss", "mistake"]}

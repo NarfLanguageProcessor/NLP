@@ -1,1 +1,1 @@
-{"index": 286161, "D": [], "S": ["chalk talk ", "discourse ", "dissertation ", "lecture ", "oration ", "pep talk ", "pitch ", "sermon ", "soapbox ", "speak ", "spiel ", "talk "], "A": []}
+{"index": 286161, "D": [], "S": ["chalk talk", "discourse", "dissertation", "lecture", "oration", "pep talk", "pitch", "sermon", "soapbox", "speak", "spiel", "talk"], "A": []}

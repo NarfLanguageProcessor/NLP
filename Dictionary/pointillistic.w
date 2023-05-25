@@ -1,1 +1,0 @@
-{"index": 241341, "D": "pertaining to or characteristic of pointillism  or pointillists.", "S": [], "A": []}

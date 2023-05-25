@@ -1,1 +1,1 @@
-{"index": 104812, "D": "miscellaneous extra things or persons", "S": ["extras ", "stuff ", "sundries "], "A": []}
+{"index": 104812, "D": "miscellaneous extra things or persons", "S": ["extras", "stuff", "sundries"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 359146, "D": "a person who has had long service or experience in an occupation, office, or the like", "S": ["old-time ", "skilled ", "trained "], "A": ["unskilled "]}
+{"index": 359146, "D": "a person who has had long service or experience in an occupation, office, or the like", "S": ["old-time", "skilled", "trained"], "A": ["unskilled"]}

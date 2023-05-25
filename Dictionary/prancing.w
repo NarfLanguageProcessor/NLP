@@ -1,1 +1,1 @@
-{"index": 245296, "D": "to spring from the hind legs; to move by springing, as a horse.", "S": ["gambol ", "sashay ", "strut ", "swagger "], "A": ["face "]}
+{"index": 245296, "D": "to spring from the hind legs; to move by springing, as a horse.", "S": ["gambol", "sashay", "strut", "swagger"], "A": ["face"]}

@@ -1,1 +1,1 @@
-{"index": 40529, "D": "the act of a person who brews. ", "S": ["astir ", "cooking ", "forthcoming ", "getting ready ", "going on ", "in preparation "], "A": ["completed ", "ended ", "finished "]}
+{"index": 40529, "D": "the act of a person who brews. ", "S": ["astir", "cooking", "forthcoming", "getting ready", "going on", "in preparation"], "A": ["completed", "ended", "finished"]}

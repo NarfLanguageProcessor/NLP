@@ -1,1 +1,1 @@
-{"index": 350226, "D": "having or showing acute mental discernment and keen practical sense; shrewd", "S": ["foolish ", "ill-advised ", "ill-considered ", "impractical ", "imprudent ", "myopic ", "stupid "], "A": ["careful ", "cautious ", "prudent ", "sensible ", "wise "]}
+{"index": 350226, "D": "having or showing acute mental discernment and keen practical sense; shrewd", "S": ["foolish", "ill-advised", "ill-considered", "impractical", "imprudent", "myopic", "stupid"], "A": ["careful", "cautious", "prudent", "sensible", "wise"]}

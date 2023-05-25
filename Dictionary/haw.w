@@ -1,1 +1,1 @@
-{"index": 134443, "D": "to utter a sound representing a hesitation or pause in speech.", "S": ["bean ", "grain ", "kernel "], "A": []}
+{"index": 134443, "D": "to utter a sound representing a hesitation or pause in speech.", "S": ["bean", "grain", "kernel"], "A": []}

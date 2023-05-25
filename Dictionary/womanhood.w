@@ -1,1 +1,1 @@
-{"index": 366960, "D": "the state of being a woman;  womanly character or qualities.", "S": ["effeminate ", "effete ", "fertile ", "gender ", "gynic ", "womanish ", "womanliness "], "A": ["masculinity "]}
+{"index": 366960, "D": "the state of being a woman;  womanly character or qualities.", "S": ["effeminate", "effete", "fertile", "gender", "gynic", "womanish", "womanliness"], "A": ["masculinity"]}

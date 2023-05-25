@@ -1,1 +1,1 @@
-{"index": 319801, "D": "to bear witness;  give or afford evidence.", "S": ["announce ", "argue ", "assert ", "declare ", "depose ", "indicate ", "swear "], "A": ["conceal ", "deny ", "hide ", "contradict ", "discredit ", "refute ", "reject ", "veto "]}
+{"index": 319801, "D": "to bear witness;  give or afford evidence.", "S": ["announce", "argue", "assert", "declare", "depose", "indicate", "swear"], "A": ["conceal", "deny", "hide", "contradict", "discredit", "refute", "reject", "veto"]}

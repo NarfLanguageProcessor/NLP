@@ -1,1 +1,1 @@
-{"index": 12980, "D": "having an angle  or angles.", "S": ["jagged "], "A": ["straight "]}
+{"index": 12980, "D": "having an angle  or angles.", "S": ["jagged"], "A": ["straight"]}

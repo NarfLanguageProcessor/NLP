@@ -1,1 +1,1 @@
-{"index": 369109, "D": "the figure or symbol 0, which in the Arabic notation for numbers stands for the absence of quantity; cipher.", "S": ["nil "], "A": ["VIP ", "somebody "]}
+{"index": 369109, "D": "the figure or symbol 0, which in the Arabic notation for numbers stands for the absence of quantity; cipher.", "S": ["nil"], "A": ["VIP", "somebody"]}

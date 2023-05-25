@@ -1,1 +1,1 @@
-{"index": 99278, "D": "to place (gems) in an ornamental setting.", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}
+{"index": 99278, "D": "to place (gems) in an ornamental setting.", "S": ["etching", "illustration", "inscription", "lithograph", "woodcut"], "A": []}

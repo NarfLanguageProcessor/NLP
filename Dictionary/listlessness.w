@@ -1,1 +1,1 @@
-{"index": 173533, "D": "the state or condition of having little or no interest in anything", "S": ["disinterest ", "inactivity ", "indifference ", "languor ", "laziness ", "lethargy ", "passivity "], "A": ["activity ", "liveliness "]}
+{"index": 173533, "D": "the state or condition of having little or no interest in anything", "S": ["disinterest", "inactivity", "indifference", "languor", "laziness", "lethargy", "passivity"], "A": ["activity", "liveliness"]}

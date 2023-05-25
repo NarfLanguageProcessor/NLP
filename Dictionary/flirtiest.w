@@ -1,1 +1,1 @@
-{"index": 114717, "D": "pleasantly flirtatious;  playful", "S": ["amorous ", "coquettish ", "coy ", "dallying ", "frisky ", "kittenish ", "teasing "], "A": []}
+{"index": 114717, "D": "pleasantly flirtatious;  playful", "S": ["amorous", "coquettish", "coy", "dallying", "frisky", "kittenish", "teasing"], "A": []}

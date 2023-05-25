@@ -1,1 +1,1 @@
-{"index": 111325, "D": "a container for the relics of a saint; reliquary. ", "S": ["arca "], "A": []}
+{"index": 111325, "D": "a container for the relics of a saint; reliquary. ", "S": ["arca"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 104529, "D": "in a fundamental or basic way; in essence", "S": ["actually ", "approximately ", "necessarily ", "originally ", "permanently ", "quite ", "really ", "substantially ", "truly ", "typically ", "virtually "], "A": ["doubtfully "]}
+{"index": 104529, "D": "in a fundamental or basic way; in essence", "S": ["actually", "approximately", "necessarily", "originally", "permanently", "quite", "really", "substantially", "truly", "typically", "virtually"], "A": ["doubtfully"]}

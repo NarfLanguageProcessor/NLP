@@ -1,1 +1,1 @@
-{"index": 81166, "D": "to give a name to; denote; designate.", "S": ["call ", "christen ", "designate ", "dub ", "entitle ", "label ", "title "], "A": []}
+{"index": 81166, "D": "to give a name to; denote; designate.", "S": ["call", "christen", "designate", "dub", "entitle", "label", "title"], "A": []}

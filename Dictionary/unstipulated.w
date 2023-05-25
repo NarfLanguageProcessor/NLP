@@ -1,1 +1,1 @@
-{"index": 352064, "D": "specified as a condition of an agreement", "S": ["undetermined "], "A": ["certain ", "definite ", "determined ", "exact ", "fixed ", "measurable ", "sure "]}
+{"index": 352064, "D": "specified as a condition of an agreement", "S": ["undetermined"], "A": ["certain", "definite", "determined", "exact", "fixed", "measurable", "sure"]}

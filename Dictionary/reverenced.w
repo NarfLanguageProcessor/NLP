@@ -1,1 +1,1 @@
-{"index": 271220, "D": "a feeling or attitude of deep respect tinged with awe; veneration.", "S": ["remembered "], "A": ["dishonored "]}
+{"index": 271220, "D": "a feeling or attitude of deep respect tinged with awe; veneration.", "S": ["remembered"], "A": ["dishonored"]}

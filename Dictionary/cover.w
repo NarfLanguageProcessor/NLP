@@ -1,1 +1,1 @@
-{"index": 71477, "D": "to be or serve as a covering for; extend over; rest on the surface of", "S": ["canvas ", "cap ", "dress ", "envelope ", "jacket ", "lid ", "roof ", "screen ", "sheet ", "tent ", "top ", "umbrella "], "A": []}
+{"index": 71477, "D": "to be or serve as a covering for; extend over; rest on the surface of", "S": ["canvas", "cap", "dress", "envelope", "jacket", "lid", "roof", "screen", "sheet", "tent", "top", "umbrella"], "A": []}

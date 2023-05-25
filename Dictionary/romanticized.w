@@ -1,1 +1,1 @@
-{"index": 274074, "D": "to make romantic;  invest with a romantic  character", "S": ["glamorize ", "idealize ", "sentimentalize "], "A": []}
+{"index": 274074, "D": "to make romantic;  invest with a romantic  character", "S": ["glamorize", "idealize", "sentimentalize"], "A": []}

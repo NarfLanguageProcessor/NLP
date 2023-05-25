@@ -1,1 +1,1 @@
-{"index": 27601, "D": "an exchange of light, playful, teasing remarks; good-natured raillery.", "S": ["clown ", "jokester "], "A": []}
+{"index": 27601, "D": "an exchange of light, playful, teasing remarks; good-natured raillery.", "S": ["clown", "jokester"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 309843, "D": "in a concise or verbally brief manner", "S": ["shortly "], "A": ["at length ", "long-windedly ", "permanently ", "verbosely "]}

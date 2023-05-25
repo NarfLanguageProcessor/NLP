@@ -1,1 +1,1 @@
-{"index": 289540, "D": "a brother or sister.", "S": ["clan ", "folk ", "group ", "house ", "household ", "people ", "tribe "], "A": ["parent "]}
+{"index": 289540, "D": "a brother or sister.", "S": ["clan", "folk", "group", "house", "household", "people", "tribe"], "A": ["parent"]}

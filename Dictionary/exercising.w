@@ -1,1 +1,1 @@
-{"index": 107059, "D": "bodily or mental exertion, especially for the sake of training or improvement of health", "S": ["function ", "operation ", "utilization "], "A": ["misuse "]}
+{"index": 107059, "D": "bodily or mental exertion, especially for the sake of training or improvement of health", "S": ["function", "operation", "utilization"], "A": ["misuse"]}

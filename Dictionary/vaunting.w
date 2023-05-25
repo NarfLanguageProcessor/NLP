@@ -1,1 +1,1 @@
-{"index": 357566, "D": "having a boastfully proud disposition", "S": ["arrogant ", "bombastic ", "cocky ", "exultant ", "pompous ", "pretentious "], "A": ["humble ", "modest "]}
+{"index": 357566, "D": "having a boastfully proud disposition", "S": ["arrogant", "bombastic", "cocky", "exultant", "pompous", "pretentious"], "A": ["humble", "modest"]}

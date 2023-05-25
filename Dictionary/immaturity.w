@@ -1,1 +1,1 @@
-{"index": 147894, "D": "a state or condition of being immature", "S": ["adolescence ", "infancy ", "youth ", "youthfulness "], "A": ["adulthood "]}
+{"index": 147894, "D": "a state or condition of being immature", "S": ["adolescence", "infancy", "youth", "youthfulness"], "A": ["adulthood"]}

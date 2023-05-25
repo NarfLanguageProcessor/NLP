@@ -1,1 +1,1 @@
-{"index": 273210, "D": "to cut or tear apart in a rough or vigorous manner", "S": ["slit "], "A": ["closure "]}
+{"index": 273210, "D": "to cut or tear apart in a rough or vigorous manner", "S": ["slit"], "A": ["closure"]}

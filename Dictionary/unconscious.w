@@ -1,1 +1,1 @@
-{"index": 337676, "D": "not conscious;  without awareness, sensation, or cognition.", "S": ["comatose ", "paralyzed ", "senseless "], "A": ["awake ", "aware ", "conscious ", "decided ", "intended ", "intentional ", "knowing "]}
+{"index": 337676, "D": "not conscious;  without awareness, sensation, or cognition.", "S": ["comatose", "paralyzed", "senseless"], "A": ["awake", "aware", "conscious", "decided", "intended", "intentional", "knowing"]}

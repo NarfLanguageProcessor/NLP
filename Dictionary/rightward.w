@@ -1,1 +1,0 @@
-{"index": 272841, "D": "toward or on the right. ", "S": [], "A": []}

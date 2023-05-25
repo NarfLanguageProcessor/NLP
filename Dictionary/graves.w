@@ -1,1 +1,1 @@
-{"index": 129344, "D": "a wine-growing district in Gironde department, in SW France.", "S": ["dignified ", "dull ", "earnest ", "heavy ", "muted ", "quiet ", "sage ", "sedate ", "sober ", "subdued "], "A": ["agitated ", "boisterous ", "excited ", "light ", "lively ", "trivial ", "unimportant "]}
+{"index": 129344, "D": "a wine-growing district in Gironde department, in SW France.", "S": ["dignified", "dull", "earnest", "heavy", "muted", "quiet", "sage", "sedate", "sober", "subdued"], "A": ["agitated", "boisterous", "excited", "light", "lively", "trivial", "unimportant"]}

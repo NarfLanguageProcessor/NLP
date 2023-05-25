@@ -1,1 +1,1 @@
-{"index": 215009, "D": "orthodox belief or practice.", "S": ["belief ", "doctrine ", "tradition "], "A": ["disbelief ", "agnosticism "]}
+{"index": 215009, "D": "orthodox belief or practice.", "S": ["belief", "doctrine", "tradition"], "A": ["disbelief", "agnosticism"]}

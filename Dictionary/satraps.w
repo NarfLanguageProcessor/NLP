@@ -1,1 +1,1 @@
-{"index": 278824, "D": "a governor of a province under the ancient Persian monarchy.", "S": ["governor ", "nabob ", "representative "], "A": []}
+{"index": 278824, "D": "a governor of a province under the ancient Persian monarchy.", "S": ["governor", "nabob", "representative"], "A": []}

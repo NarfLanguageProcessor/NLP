@@ -1,1 +1,1 @@
-{"index": 325859, "D": "full  to the utmost; brimful.", "S": ["filled "], "A": ["empty "]}
+{"index": 325859, "D": "full  to the utmost; brimful.", "S": ["filled"], "A": ["empty"]}

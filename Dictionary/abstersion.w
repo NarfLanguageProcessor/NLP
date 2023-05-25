@@ -1,1 +1,1 @@
-{"index": 1070, "D": [], "S": ["coup ", "evacuation ", "expulsion ", "extermination ", "liquidation ", "suppression "], "A": ["dirtying "]}
+{"index": 1070, "D": [], "S": ["coup", "evacuation", "expulsion", "extermination", "liquidation", "suppression"], "A": ["dirtying"]}

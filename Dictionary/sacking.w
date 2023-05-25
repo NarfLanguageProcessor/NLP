@@ -1,1 +1,1 @@
-{"index": 276310, "D": "stout, coarse woven material of hemp, jute, or the like, chiefly for sacks. ", "S": ["bag ", "cloth ", "gunny ", "wrapping "], "A": []}
+{"index": 276310, "D": "stout, coarse woven material of hemp, jute, or the like, chiefly for sacks. ", "S": ["bag", "cloth", "gunny", "wrapping"], "A": []}

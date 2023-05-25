@@ -1,1 +1,1 @@
-{"index": 58077, "D": "a roundabout way; circumlocution.", "S": ["deviation ", "diversion "], "A": []}
+{"index": 58077, "D": "a roundabout way; circumlocution.", "S": ["deviation", "diversion"], "A": []}

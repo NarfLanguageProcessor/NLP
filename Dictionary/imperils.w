@@ -1,1 +1,1 @@
-{"index": 148557, "D": "to put in peril  or danger; endanger.", "S": ["compromise ", "endanger ", "jeopardize ", "menace "], "A": ["aid ", "assist ", "help ", "save "]}
+{"index": 148557, "D": "to put in peril  or danger; endanger.", "S": ["compromise", "endanger", "jeopardize", "menace"], "A": ["aid", "assist", "help", "save"]}

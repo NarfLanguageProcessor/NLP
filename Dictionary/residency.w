@@ -1,1 +1,1 @@
-{"index": 269355, "D": "residence (def. 3). ", "S": ["abode ", "accommodation ", "apartment ", "castle ", "co-op ", "condo ", "condominium ", "dump ", "dwelling ", "habitation ", "home ", "house ", "joint ", "mansion ", "pad ", "rack ", "residence ", "roost ", "settlement "], "A": ["office "]}
+{"index": 269355, "D": "residence (def. 3). ", "S": ["abode", "accommodation", "apartment", "castle", "co-op", "condo", "condominium", "dump", "dwelling", "habitation", "home", "house", "joint", "mansion", "pad", "rack", "residence", "roost", "settlement"], "A": ["office"]}

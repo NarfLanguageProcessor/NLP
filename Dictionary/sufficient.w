@@ -1,1 +1,1 @@
-{"index": 310115, "D": "adequate for the purpose; enough", "S": ["acceptable ", "ample ", "plentiful ", "satisfactory ", "tolerable "], "A": ["insufficient ", "meager ", "unacceptable ", "unsatisfactory "]}
+{"index": 310115, "D": "adequate for the purpose; enough", "S": ["acceptable", "ample", "plentiful", "satisfactory", "tolerable"], "A": ["insufficient", "meager", "unacceptable", "unsatisfactory"]}

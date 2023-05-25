@@ -1,1 +1,1 @@
-{"index": 251594, "D": "having the power of producing; generative; creative", "S": ["adequately ", "completely ", "definitely ", "dramatically ", "energetically ", "finally ", "forcefully "], "A": ["doubtfully ", "dubiously "]}
+{"index": 251594, "D": "having the power of producing; generative; creative", "S": ["adequately", "completely", "definitely", "dramatically", "energetically", "finally", "forcefully"], "A": ["doubtfully", "dubiously"]}

@@ -1,0 +1,1 @@
+{"index": 30055, "D": "to wet with or as if with dew.", "S": ["besprinkle", "dabble", "humidify", "moisten", "rinse", "spray", "sprinkle", "water", "wet"], "A": ["collect", "dehydrate", "dry", "gather"]}

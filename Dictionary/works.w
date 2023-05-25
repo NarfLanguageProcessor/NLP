@@ -1,1 +1,1 @@
-{"index": 367537, "D": "a place where a number of people are employed, such as a factory", "S": ["entirety "], "A": []}
+{"index": 367537, "D": "a place where a number of people are employed, such as a factory", "S": ["entirety"], "A": []}

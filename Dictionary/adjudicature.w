@@ -1,0 +1,1 @@
+{"index": 4043, "D": [], "S": ["accord", "agreement", "arrangement", "choice", "compromise", "determination", "finding", "judgment", "opinion", "outcome", "resolution", "result", "ruling", "selection", "settlement", "verdict"], "A": ["beginning", "cause", "disagreement", "dissension", "indecision", "refusal", "source"]}

@@ -1,1 +1,1 @@
-{"index": 304458, "D": "a stiletto or dagger.", "S": ["bayonet ", "blade ", "sword "], "A": []}
+{"index": 304458, "D": "a stiletto or dagger.", "S": ["bayonet", "blade", "sword"], "A": []}

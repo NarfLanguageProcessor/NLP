@@ -1,1 +1,1 @@
-{"index": 167185, "D": "a women's public lavatory", "S": ["female ", "girl "], "A": []}
+{"index": 167185, "D": "a women's public lavatory", "S": ["female", "girl"], "A": []}

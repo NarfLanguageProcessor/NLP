@@ -1,1 +1,1 @@
-{"index": 295450, "D": "to emit air or breath suddenly, forcibly, and audibly through the nose and mouth by involuntary, spasmodic action.", "S": ["beak ", "snout "], "A": []}
+{"index": 295450, "D": "to emit air or breath suddenly, forcibly, and audibly through the nose and mouth by involuntary, spasmodic action.", "S": ["beak", "snout"], "A": []}

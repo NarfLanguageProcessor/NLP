@@ -1,1 +1,1 @@
-{"index": 352499, "D": "of an unsurpassed quality", "S": ["excellent ", "incomparable ", "unequaled ", "unmatched ", "unparalleled ", "unrivaled "], "A": ["inferior ", "poor ", "second-rate "]}
+{"index": 352499, "D": "of an unsurpassed quality", "S": ["excellent", "incomparable", "unequaled", "unmatched", "unparalleled", "unrivaled"], "A": ["inferior", "poor", "second-rate"]}

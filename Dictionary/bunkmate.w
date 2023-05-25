@@ -1,1 +1,1 @@
-{"index": 42896, "D": "a person who shares sleeping quarters with another, especially one who sleeps in a neighboring bed.", "S": ["friend ", "mate "], "A": []}
+{"index": 42896, "D": "a person who shares sleeping quarters with another, especially one who sleeps in a neighboring bed.", "S": ["friend", "mate"], "A": []}

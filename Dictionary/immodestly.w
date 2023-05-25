@@ -1,1 +1,1 @@
-{"index": 148043, "D": "not modest in conduct, utterance, etc.; indecent; shameless.", "S": ["openly ", "unabashedly "], "A": []}
+{"index": 148043, "D": "not modest in conduct, utterance, etc.; indecent; shameless.", "S": ["openly", "unabashedly"], "A": []}

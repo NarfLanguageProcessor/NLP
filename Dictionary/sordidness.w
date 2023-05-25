@@ -1,1 +1,1 @@
-{"index": 297554, "D": "morally ignoble or base; vile", "S": ["baseness ", "disgrace ", "lowness ", "meanness "], "A": []}
+{"index": 297554, "D": "morally ignoble or base; vile", "S": ["baseness", "disgrace", "lowness", "meanness"], "A": []}

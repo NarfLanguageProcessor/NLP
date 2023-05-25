@@ -1,1 +1,1 @@
-{"index": 361046, "D": "a large cage for confining birds; aviary.", "S": ["birdhouse ", "columbary "], "A": []}
+{"index": 361046, "D": "a large cage for confining birds; aviary.", "S": ["birdhouse", "columbary"], "A": []}

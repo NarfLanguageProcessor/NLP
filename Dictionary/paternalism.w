@@ -1,1 +1,1 @@
-{"index": 227660, "D": "the system, principle, or practice of managing or governing individuals, businesses, nations, etc., in an outwardly benevolent, but often condescending or controlling way", "S": ["condescendence "], "A": ["friendly ", "humble "]}
+{"index": 227660, "D": "the system, principle, or practice of managing or governing individuals, businesses, nations, etc., in an outwardly benevolent, but often condescending or controlling way", "S": ["condescendence"], "A": ["friendly", "humble"]}

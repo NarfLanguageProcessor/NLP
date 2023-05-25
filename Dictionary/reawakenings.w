@@ -1,1 +1,1 @@
-{"index": 262185, "D": "rousing; quickening", "S": ["rejuvenation ", "renewal ", "resurgence ", "revitalization ", "revival "], "A": ["destruction "]}
+{"index": 262185, "D": "rousing; quickening", "S": ["rejuvenation", "renewal", "resurgence", "revitalization", "revival"], "A": ["destruction"]}

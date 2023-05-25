@@ -1,1 +1,1 @@
-{"index": 335025, "D": "an unannounced visit", "S": ["undisclosed ", "unheralded ", "unpublished "], "A": ["announced "]}
+{"index": 335025, "D": "an unannounced visit", "S": ["undisclosed", "unheralded", "unpublished"], "A": ["announced"]}

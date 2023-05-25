@@ -1,1 +1,1 @@
-{"index": 307512, "D": "an automobile that is smaller than a compact. ", "S": ["auto ", "bus ", "convertible ", "limousine ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "taxi ", "transportation ", "truck ", "van "], "A": []}
+{"index": 307512, "D": "an automobile that is smaller than a compact. ", "S": ["auto", "bus", "convertible", "limousine", "passenger car", "pickup truck", "sports car", "station wagon", "taxi", "transportation", "truck", "van"], "A": []}

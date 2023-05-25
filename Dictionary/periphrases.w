@@ -1,1 +1,1 @@
-{"index": 231236, "D": "the use of an unnecessarily long or roundabout form of expression; circumlocution.", "S": ["diffuseness ", "discursiveness ", "euphemism ", "indirectness ", "pleonasm ", "prolixity ", "roundabout ", "tautology ", "verbiage ", "wordiness "], "A": ["conciseness "]}
+{"index": 231236, "D": "the use of an unnecessarily long or roundabout form of expression; circumlocution.", "S": ["diffuseness", "discursiveness", "euphemism", "indirectness", "pleonasm", "prolixity", "roundabout", "tautology", "verbiage", "wordiness"], "A": ["conciseness"]}

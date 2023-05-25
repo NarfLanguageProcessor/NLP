@@ -1,1 +1,1 @@
-{"index": 139392, "D": "to walk or march a great distance, especially through rural areas, for pleasure, exercise, military training, or the like.", "S": ["backpacking ", "exploring ", "marching ", "rambling ", "walking ", "wandering "], "A": []}
+{"index": 139392, "D": "to walk or march a great distance, especially through rural areas, for pleasure, exercise, military training, or the like.", "S": ["backpacking", "exploring", "marching", "rambling", "walking", "wandering"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197740, "D": "a band of cloth at the neck of a garment.", "S": ["choker "], "A": []}
+{"index": 197740, "D": "a band of cloth at the neck of a garment.", "S": ["choker"], "A": []}

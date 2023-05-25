@@ -1,1 +1,1 @@
-{"index": 157232, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["analeptic ", "boost ", "bracer ", "conditioner ", "cordial ", "drug ", "fillip ", "pick-me-up ", "pickup ", "refresher ", "restorative ", "stimulant ", "strengthener "], "A": []}
+{"index": 157232, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["analeptic", "boost", "bracer", "conditioner", "cordial", "drug", "fillip", "pick-me-up", "pickup", "refresher", "restorative", "stimulant", "strengthener"], "A": []}

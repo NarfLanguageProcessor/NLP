@@ -1,1 +1,1 @@
-{"index": 11031, "D": "a racemic drug, C9H13N, that stimulates the central nervous system", "S": ["stimulant "], "A": []}
+{"index": 11031, "D": "a racemic drug, C9H13N, that stimulates the central nervous system", "S": ["stimulant"], "A": []}

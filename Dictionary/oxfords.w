@@ -1,1 +1,1 @@
-{"index": 222180, "D": "a low shoe laced over the instep.", "S": ["footwear "], "A": []}
+{"index": 222180, "D": "a low shoe laced over the instep.", "S": ["footwear"], "A": []}

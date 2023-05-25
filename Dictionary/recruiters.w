@@ -1,1 +1,1 @@
-{"index": 263650, "D": "someone who engages in finding, attracting, or enlisting employees, new members, students, athletes, etc.", "S": ["canvasser ", "detective ", "private eye ", "scout ", "talent scout "], "A": []}
+{"index": 263650, "D": "someone who engages in finding, attracting, or enlisting employees, new members, students, athletes, etc.", "S": ["canvasser", "detective", "private eye", "scout", "talent scout"], "A": []}

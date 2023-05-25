@@ -1,1 +1,1 @@
-{"index": 324120, "D": "the ringing or sound of bells.", "S": ["chime ", "clangor ", "jingle ", "noise ", "ringing ", "sound "], "A": ["silence "]}
+{"index": 324120, "D": "the ringing or sound of bells.", "S": ["chime", "clangor", "jingle", "noise", "ringing", "sound"], "A": ["silence"]}

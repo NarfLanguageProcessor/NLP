@@ -1,1 +1,1 @@
-{"index": 95409, "D": "the part of the atmosphere in which it is possible to breathe normally without aid", "S": ["atmosphere ", "ecosystem "], "A": []}
+{"index": 95409, "D": "the part of the atmosphere in which it is possible to breathe normally without aid", "S": ["atmosphere", "ecosystem"], "A": []}

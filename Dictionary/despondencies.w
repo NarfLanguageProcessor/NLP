@@ -1,1 +1,1 @@
-{"index": 82863, "D": "state of being despondent;  depression of spirits from loss of courage or hope; dejection.", "S": ["depression ", "despair ", "gloom ", "grief ", "sadness "], "A": ["cheer ", "cheerfulness ", "encouragement ", "happiness ", "hopefulness ", "joy "]}
+{"index": 82863, "D": "state of being despondent;  depression of spirits from loss of courage or hope; dejection.", "S": ["depression", "despair", "gloom", "grief", "sadness"], "A": ["cheer", "cheerfulness", "encouragement", "happiness", "hopefulness", "joy"]}

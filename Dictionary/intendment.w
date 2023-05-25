@@ -1,1 +1,1 @@
-{"index": 154354, "D": "the true or correct meaning of something.", "S": ["picture ", "plan ", "project ", "recipe ", "scheme ", "setup ", "story "], "A": ["idleness ", "inactivity "]}
+{"index": 154354, "D": "the true or correct meaning of something.", "S": ["picture", "plan", "project", "recipe", "scheme", "setup", "story"], "A": ["idleness", "inactivity"]}

@@ -1,1 +1,1 @@
-{"index": 298360, "D": "moving rapidly and smartly.", "S": ["brisk ", "dashing ", "swift "], "A": ["slow ", "sluggish "]}
+{"index": 298360, "D": "moving rapidly and smartly.", "S": ["brisk", "dashing", "swift"], "A": ["slow", "sluggish"]}

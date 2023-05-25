@@ -1,1 +1,1 @@
-{"index": 217286, "D": "complete or total", "S": ["absolute ", "downright ", "pure ", "unequivocal ", "unmitigated ", "utter ", "wholesale "], "A": ["imperfect ", "indefinite ", "mixed ", "partial ", "uncertain "]}
+{"index": 217286, "D": "complete or total", "S": ["absolute", "downright", "pure", "unequivocal", "unmitigated", "utter", "wholesale"], "A": ["imperfect", "indefinite", "mixed", "partial", "uncertain"]}

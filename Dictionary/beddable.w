@@ -1,0 +1,1 @@
+{"index": 30005, "D": "willing or easily persuaded to have sexual relations; seduceable", "S": [], "A": []}

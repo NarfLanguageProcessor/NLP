@@ -1,1 +1,0 @@
-{"index": 302346, "D": "a hound  trained to hunt stags  and other large animals.", "S": [], "A": []}

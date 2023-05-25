@@ -1,1 +1,1 @@
-{"index": 314793, "D": "Judaism an English name for Sukkoth", "S": ["habitation ", "niche ", "reliquary ", "sanctuary ", "shelter ", "shrine ", "temple ", "tent "], "A": []}
+{"index": 314793, "D": "Judaism an English name for Sukkoth", "S": ["habitation", "niche", "reliquary", "sanctuary", "shelter", "shrine", "temple", "tent"], "A": []}

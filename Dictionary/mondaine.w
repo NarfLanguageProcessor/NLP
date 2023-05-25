@@ -1,1 +1,1 @@
-{"index": 191815, "D": "a woman who moves in fashionable society", "S": ["disillusioned ", "embittered "], "A": ["enchanted ", "encouraged "]}
+{"index": 191815, "D": "a woman who moves in fashionable society", "S": ["disillusioned", "embittered"], "A": ["enchanted", "encouraged"]}

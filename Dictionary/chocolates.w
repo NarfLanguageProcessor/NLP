@@ -1,1 +1,1 @@
-{"index": 55288, "D": "a preparation of the seeds of cacao, roasted, husked, and ground, often sweetened and flavored, as with vanilla.", "S": ["candy ", "chocolate ", "confection ", "dessert ", "snack "], "A": []}
+{"index": 55288, "D": "a preparation of the seeds of cacao, roasted, husked, and ground, often sweetened and flavored, as with vanilla.", "S": ["candy", "chocolate", "confection", "dessert", "snack"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 340130, "D": "a person or company that underwrites  policies of insurance or carries on insurance as a business.", "S": ["backer ", "benefactor ", "guarantor ", "promoter "], "A": ["antagonist ", "opponent ", "opposer ", "enemy ", "opposition "]}
+{"index": 340130, "D": "a person or company that underwrites  policies of insurance or carries on insurance as a business.", "S": ["backer", "benefactor", "guarantor", "promoter"], "A": ["antagonist", "opponent", "opposer", "enemy", "opposition"]}

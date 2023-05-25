@@ -1,1 +1,1 @@
-{"index": 333370, "D": "a sudden, sharp pain", "S": ["nibble ", "snap "], "A": ["expand ", "free ", "give ", "let go ", "release "]}
+{"index": 333370, "D": "a sudden, sharp pain", "S": ["nibble", "snap"], "A": ["expand", "free", "give", "let go", "release"]}

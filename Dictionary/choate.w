@@ -1,1 +1,1 @@
-{"index": 55264, "D": "U.S. lawyer and diplomat.", "S": ["full ", "integrated ", "unified "], "A": ["flawed ", "imperfect ", "incomplete ", "part ", "partial ", "unfinished "]}
+{"index": 55264, "D": "U.S. lawyer and diplomat.", "S": ["full", "integrated", "unified"], "A": ["flawed", "imperfect", "incomplete", "part", "partial", "unfinished"]}

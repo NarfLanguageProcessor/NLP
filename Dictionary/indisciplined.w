@@ -1,1 +1,1 @@
-{"index": 151066, "D": "lack of discipline  or control", "S": ["disruptive ", "fractious ", "raucous ", "rebellious ", "rowdy ", "unruly "], "A": ["calm ", "compliant ", "obedient ", "quiet "]}
+{"index": 151066, "D": "lack of discipline  or control", "S": ["disruptive", "fractious", "raucous", "rebellious", "rowdy", "unruly"], "A": ["calm", "compliant", "obedient", "quiet"]}

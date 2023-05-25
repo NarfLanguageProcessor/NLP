@@ -1,1 +1,1 @@
-{"index": 26880, "D": "given to balking;  stubborn; obstinate", "S": ["unruly "], "A": ["cooperative "]}
+{"index": 26880, "D": "given to balking;  stubborn; obstinate", "S": ["unruly"], "A": ["cooperative"]}

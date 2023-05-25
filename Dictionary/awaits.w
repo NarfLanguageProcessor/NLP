@@ -1,1 +1,1 @@
-{"index": 24934, "D": "to wait  for; expect; look for", "S": ["anticipate ", "attend ", "count on ", "stay "], "A": ["doubt "]}
+{"index": 24934, "D": "to wait  for; expect; look for", "S": ["anticipate", "attend", "count on", "stay"], "A": ["doubt"]}

@@ -1,1 +1,1 @@
-{"index": 9048, "D": "to attract or tempt by something flattering or desirable.", "S": ["attraction ", "charisma ", "charm ", "enticement ", "glamor ", "magnetism ", "temptation "], "A": ["repulsion "]}
+{"index": 9048, "D": "to attract or tempt by something flattering or desirable.", "S": ["attraction", "charisma", "charm", "enticement", "glamor", "magnetism", "temptation"], "A": ["repulsion"]}

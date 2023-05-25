@@ -1,1 +1,0 @@
-{"index": 292349, "D": "a republic in SW Asia at the E end of the Mediterranean. 71,227 sq. mi. (184,478 sq. km). Capital", "S": [], "A": []}

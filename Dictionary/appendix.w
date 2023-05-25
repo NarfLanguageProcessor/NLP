@@ -1,1 +1,1 @@
-{"index": 17693, "D": "supplementary material at the end of a book, article, document, or other text, usually of an explanatory, statistical, or bibliographic nature.", "S": ["addendum ", "postscript "], "A": ["lessening ", "subtraction "]}
+{"index": 17693, "D": "supplementary material at the end of a book, article, document, or other text, usually of an explanatory, statistical, or bibliographic nature.", "S": ["addendum", "postscript"], "A": ["lessening", "subtraction"]}

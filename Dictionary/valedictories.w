@@ -1,1 +1,1 @@
-{"index": 356636, "D": "bidding goodbye; saying farewell", "S": ["address ", "appeal ", "commentary ", "debate ", "lecture ", "paper ", "rhetoric ", "sermon "], "A": ["listening ", "quiet ", "silence "]}
+{"index": 356636, "D": "bidding goodbye; saying farewell", "S": ["address", "appeal", "commentary", "debate", "lecture", "paper", "rhetoric", "sermon"], "A": ["listening", "quiet", "silence"]}

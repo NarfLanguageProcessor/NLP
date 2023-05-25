@@ -1,1 +1,1 @@
-{"index": 66068, "D": "tending toward or ready for confrontation", "S": ["adversarial ", "antagonistic ", "bellicose ", "combative "], "A": ["agreeable ", "compromising ", "passive ", "gentle ", "peaceful "]}
+{"index": 66068, "D": "tending toward or ready for confrontation", "S": ["adversarial", "antagonistic", "bellicose", "combative"], "A": ["agreeable", "compromising", "passive", "gentle", "peaceful"]}

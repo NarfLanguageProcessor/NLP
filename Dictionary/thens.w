@@ -1,1 +1,1 @@
-{"index": 320923, "D": "at that time", "S": ["again ", "formerly ", "later ", "next ", "suddenly "], "A": ["earlier "]}
+{"index": 320923, "D": "at that time", "S": ["again", "formerly", "later", "next", "suddenly"], "A": ["earlier"]}

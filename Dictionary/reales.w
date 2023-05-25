@@ -1,1 +1,1 @@
-{"index": 261713, "D": "true; not merely ostensible, nominal, or apparent", "S": ["genuine ", "legitimate "], "A": ["illegitimate "]}
+{"index": 261713, "D": "true; not merely ostensible, nominal, or apparent", "S": ["genuine", "legitimate"], "A": ["illegitimate"]}

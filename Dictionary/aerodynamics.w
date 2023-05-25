@@ -1,1 +1,1 @@
-{"index": 4989, "D": "Compare aerostatics (def. 1). ", "S": ["aeronautics ", "navigation "], "A": []}
+{"index": 4989, "D": "Compare aerostatics (def. 1). ", "S": ["aeronautics", "navigation"], "A": []}

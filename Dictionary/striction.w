@@ -1,1 +1,1 @@
-{"index": 306217, "D": "the act of constricting.", "S": ["contraction ", "cutback ", "decline ", "discount ", "downturn ", "loss ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "rise ", "markup "]}
+{"index": 306217, "D": "the act of constricting.", "S": ["contraction", "cutback", "decline", "discount", "downturn", "loss", "reduction", "shrinkage"], "A": ["enlargement", "increase", "rise", "markup"]}

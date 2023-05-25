@@ -1,1 +1,1 @@
-{"index": 118960, "D": "a person attached to another by feelings of affection or personal regard.", "S": ["Bobbsey twins ", "close friends ", "compadres ", "comrades ", "couple ", "matching set ", "pair ", "peas in a pod ", "two minds thinking as one ", "two of a kind "], "A": []}
+{"index": 118960, "D": "a person attached to another by feelings of affection or personal regard.", "S": ["Bobbsey twins", "close friends", "compadres", "comrades", "couple", "matching set", "pair", "peas in a pod", "two minds thinking as one", "two of a kind"], "A": []}

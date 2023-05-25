@@ -1,1 +1,1 @@
-{"index": 223140, "D": "hurt; injured.", "S": ["anguished ", "distressed ", "troubled "], "A": ["calm ", "collected "]}
+{"index": 223140, "D": "hurt; injured.", "S": ["anguished", "distressed", "troubled"], "A": ["calm", "collected"]}

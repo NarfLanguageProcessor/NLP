@@ -1,1 +1,1 @@
-{"index": 294531, "D": "a person who strikes hard, especially a boxer noted for the ability to deliver hard punches.", "S": ["fighter ", "prizefighter "], "A": []}
+{"index": 294531, "D": "a person who strikes hard, especially a boxer noted for the ability to deliver hard punches.", "S": ["fighter", "prizefighter"], "A": []}

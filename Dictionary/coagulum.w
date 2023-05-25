@@ -1,1 +1,1 @@
-{"index": 60944, "D": "any coagulated  mass; precipitate; clump; clot.", "S": ["crassamentum ", "embolism ", "embolus ", "grume ", "thrombus "], "A": []}
+{"index": 60944, "D": "any coagulated  mass; precipitate; clump; clot.", "S": ["crassamentum", "embolism", "embolus", "grume", "thrombus"], "A": []}

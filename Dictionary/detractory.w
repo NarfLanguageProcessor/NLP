@@ -1,1 +1,1 @@
-{"index": 83282, "D": "tending or seeking to detract. ", "S": ["defamatory ", "derogatory ", "snide ", "unfavorable "], "A": ["complimentary ", "favorable ", "nice ", "praising "]}
+{"index": 83282, "D": "tending or seeking to detract. ", "S": ["defamatory", "derogatory", "snide", "unfavorable"], "A": ["complimentary", "favorable", "nice", "praising"]}

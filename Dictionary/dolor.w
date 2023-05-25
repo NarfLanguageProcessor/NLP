@@ -1,1 +1,1 @@
-{"index": 91199, "D": "sorrow; grief.", "S": ["agony ", "distress ", "grief ", "heartache ", "heartbreak ", "passion ", "ruth ", "sadness ", "sorrow ", "suffering "], "A": ["comfort ", "happiness ", "health ", "joy "]}
+{"index": 91199, "D": "sorrow; grief.", "S": ["agony", "distress", "grief", "heartache", "heartbreak", "passion", "ruth", "sadness", "sorrow", "suffering"], "A": ["comfort", "happiness", "health", "joy"]}

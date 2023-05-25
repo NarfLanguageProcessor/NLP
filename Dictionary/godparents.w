@@ -1,1 +1,1 @@
-{"index": 127373, "D": "a godfather or godmother.", "S": ["advocate ", "backer ", "benefactor ", "patron ", "promoter ", "supporter ", "underwriter "], "A": ["antagonist ", "enemy ", "opponent ", "opposer ", "opposition "]}
+{"index": 127373, "D": "a godfather or godmother.", "S": ["advocate", "backer", "benefactor", "patron", "promoter", "supporter", "underwriter"], "A": ["antagonist", "enemy", "opponent", "opposer", "opposition"]}

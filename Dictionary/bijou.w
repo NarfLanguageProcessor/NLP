@@ -1,1 +1,1 @@
-{"index": 33814, "D": "a jewel.", "S": ["film ", "movie house ", "movie theater "], "A": []}
+{"index": 33814, "D": "a jewel.", "S": ["film", "movie house", "movie theater"], "A": []}

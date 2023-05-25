@@ -1,1 +1,1 @@
-{"index": 191183, "D": "the act of modulating.", "S": ["inflection ", "intonation ", "pitch ", "tone "], "A": []}
+{"index": 191183, "D": "the act of modulating.", "S": ["inflection", "intonation", "pitch", "tone"], "A": []}

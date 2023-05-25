@@ -1,1 +1,1 @@
-{"index": 236666, "D": "to strip ruthlessly of money or goods by open violence, as in war; plunder", "S": ["criminal ", "gangster ", "hooligan ", "marauder ", "mobster ", "outlaw ", "pirate ", "raider ", "robber "], "A": ["lawman ", "policeman "]}
+{"index": 236666, "D": "to strip ruthlessly of money or goods by open violence, as in war; plunder", "S": ["criminal", "gangster", "hooligan", "marauder", "mobster", "outlaw", "pirate", "raider", "robber"], "A": ["lawman", "policeman"]}

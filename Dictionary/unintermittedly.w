@@ -1,1 +1,1 @@
-{"index": 344743, "D": [], "S": ["consecutively ", "continuously ", "night and day ", "successively ", "together ", "uninterruptedly "], "A": ["broken ", "intermittently ", "occasionally "]}
+{"index": 344743, "D": [], "S": ["consecutively", "continuously", "night and day", "successively", "together", "uninterruptedly"], "A": ["broken", "intermittently", "occasionally"]}

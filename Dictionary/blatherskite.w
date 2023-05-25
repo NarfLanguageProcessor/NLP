@@ -1,1 +1,1 @@
-{"index": 35883, "D": "a person given to voluble, empty talk.", "S": ["babble ", "balderdash ", "gabble ", "gibberish ", "jabber ", "jabberwocky ", "nonsense ", "prate ", "prattle "], "A": ["sense "]}
+{"index": 35883, "D": "a person given to voluble, empty talk.", "S": ["babble", "balderdash", "gabble", "gibberish", "jabber", "jabberwocky", "nonsense", "prate", "prattle"], "A": ["sense"]}

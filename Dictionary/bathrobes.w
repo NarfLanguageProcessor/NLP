@@ -1,1 +1,1 @@
-{"index": 29002, "D": "a long, loose, coat-like garment, often tied with a belt of the same material, worn before and after a bath,  over sleepwear, or as leisure wear at home.", "S": ["kimono ", "smock "], "A": []}
+{"index": 29002, "D": "a long, loose, coat-like garment, often tied with a belt of the same material, worn before and after a bath,  over sleepwear, or as leisure wear at home.", "S": ["kimono", "smock"], "A": []}

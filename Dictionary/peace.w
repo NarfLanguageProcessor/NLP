@@ -1,1 +1,1 @@
-{"index": 228323, "D": "the nonwarring condition of a nation, group of nations, or the world.", "S": ["accord ", "friendship ", "love ", "reconciliation ", "truce ", "unity "], "A": ["disagreement ", "hate ", "hatred ", "discord "]}
+{"index": 228323, "D": "the nonwarring condition of a nation, group of nations, or the world.", "S": ["accord", "friendship", "love", "reconciliation", "truce", "unity"], "A": ["disagreement", "hate", "hatred", "discord"]}

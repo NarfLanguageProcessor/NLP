@@ -1,1 +1,1 @@
-{"index": 169571, "D": "having, abounding in, or covered with leaves  or foliage", "S": ["shaded ", "shady ", "verdant ", "wooded "], "A": ["leafless "]}
+{"index": 169571, "D": "having, abounding in, or covered with leaves  or foliage", "S": ["shaded", "shady", "verdant", "wooded"], "A": ["leafless"]}

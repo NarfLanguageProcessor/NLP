@@ -1,1 +1,1 @@
-{"index": 319542, "D": "earthly; worldly. ", "S": ["asteroid ", "earth ", "globe ", "sphere ", "world "], "A": []}
+{"index": 319542, "D": "earthly; worldly. ", "S": ["asteroid", "earth", "globe", "sphere", "world"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 3047, "D": "a series of lines or verses in which the first, last, or other particular letters when taken in order spell out a word, phrase, etc.", "S": ["acronym ", "cipher ", "composition ", "phrase ", "wordplay "], "A": []}
+{"index": 3047, "D": "a series of lines or verses in which the first, last, or other particular letters when taken in order spell out a word, phrase, etc.", "S": ["acronym", "cipher", "composition", "phrase", "wordplay"], "A": []}

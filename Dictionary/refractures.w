@@ -1,1 +1,0 @@
-{"index": 265338, "D": "Compare comminuted fracture, complete fracture, compound fracture, greenstick fracture, simple fracture. ", "S": [], "A": []}

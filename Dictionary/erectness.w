@@ -1,1 +1,1 @@
-{"index": 103532, "D": "upright in position or posture", "S": ["honesty ", "honor ", "integrity ", "perpendicularity ", "verticality ", "virtue "], "A": ["disgrace ", "dishonesty ", "dishonor "]}
+{"index": 103532, "D": "upright in position or posture", "S": ["honesty", "honor", "integrity", "perpendicularity", "verticality", "virtue"], "A": ["disgrace", "dishonesty", "dishonor"]}

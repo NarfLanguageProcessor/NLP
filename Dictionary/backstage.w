@@ -1,1 +1,1 @@
-{"index": 25943, "D": "behind the proscenium in a theater, especially in the wings or dressing rooms.", "S": ["behind the curtain ", "in a corner ", "in the background ", "in the dark ", "sub-rosa ", "under-the-table "], "A": []}
+{"index": 25943, "D": "behind the proscenium in a theater, especially in the wings or dressing rooms.", "S": ["behind the curtain", "in a corner", "in the background", "in the dark", "sub-rosa", "under-the-table"], "A": []}

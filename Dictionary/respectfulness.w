@@ -1,1 +1,1 @@
-{"index": 269705, "D": "full of, characterized by, or showing politeness or deference", "S": ["graciousness ", "politeness "], "A": ["bad manners ", "discourtesy ", "rudeness "]}
+{"index": 269705, "D": "full of, characterized by, or showing politeness or deference", "S": ["graciousness", "politeness"], "A": ["bad manners", "discourtesy", "rudeness"]}

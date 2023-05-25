@@ -1,1 +1,1 @@
-{"index": 168375, "D": "the front part of the human body from the waist to the knees when in a sitting position.", "S": ["lick ", "splash "], "A": []}
+{"index": 168375, "D": "the front part of the human body from the waist to the knees when in a sitting position.", "S": ["lick", "splash"], "A": []}

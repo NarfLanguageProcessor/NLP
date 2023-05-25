@@ -1,1 +1,1 @@
-{"index": 95705, "D": "a line or border at which a surface terminates", "S": ["dull ", "dulled ", "round ", "rounded "], "A": ["needled ", "pointed ", "polite ", "sharp ", "subtle ", "tactful "]}
+{"index": 95705, "D": "a line or border at which a surface terminates", "S": ["dull", "dulled", "round", "rounded"], "A": ["needled", "pointed", "polite", "sharp", "subtle", "tactful"]}

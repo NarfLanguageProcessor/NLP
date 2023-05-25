@@ -1,1 +1,1 @@
-{"index": 269955, "D": "reparation made by giving an equivalent or compensation for loss, damage, or injury caused; indemnification.", "S": ["corrective ", "therapeutic "], "A": ["harmful ", "hurtful ", "injurious "]}
+{"index": 269955, "D": "reparation made by giving an equivalent or compensation for loss, damage, or injury caused; indemnification.", "S": ["corrective", "therapeutic"], "A": ["harmful", "hurtful", "injurious"]}

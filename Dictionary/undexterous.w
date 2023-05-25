@@ -1,1 +1,1 @@
-{"index": 340288, "D": "skillful or adroit in the use of the hands or body.", "S": ["bulky ", "heavy-handed ", "inept ", "ponderous ", "ungainly ", "unwieldy "], "A": ["adroit ", "agile ", "athletic ", "clever ", "coordinated ", "couth ", "dexterous ", "expert ", "graceful "]}
+{"index": 340288, "D": "skillful or adroit in the use of the hands or body.", "S": ["bulky", "heavy-handed", "inept", "ponderous", "ungainly", "unwieldy"], "A": ["adroit", "agile", "athletic", "clever", "coordinated", "couth", "dexterous", "expert", "graceful"]}

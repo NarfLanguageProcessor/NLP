@@ -1,1 +1,1 @@
-{"index": 9984, "D": "ambiance. ", "S": ["atmosphere ", "surroundings "], "A": []}
+{"index": 9984, "D": "ambiance. ", "S": ["atmosphere", "surroundings"], "A": []}

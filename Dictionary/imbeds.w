@@ -1,1 +1,1 @@
-{"index": 147677, "D": "a variant of embed. ", "S": ["attach ", "dock ", "fasten ", "fix ", "moor ", "secure ", "tie up "], "A": ["detach ", "disconnect ", "loose ", "loosen ", "unfasten ", "lose "]}
+{"index": 147677, "D": "a variant of embed. ", "S": ["attach", "dock", "fasten", "fix", "moor", "secure", "tie up"], "A": ["detach", "disconnect", "loose", "loosen", "unfasten", "lose"]}

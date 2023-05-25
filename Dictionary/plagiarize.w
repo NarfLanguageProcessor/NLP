@@ -1,1 +1,1 @@
-{"index": 238651, "D": "to take and use by plagiarism. ", "S": ["paraphrase "], "A": ["give "]}
+{"index": 238651, "D": "to take and use by plagiarism. ", "S": ["paraphrase"], "A": ["give"]}

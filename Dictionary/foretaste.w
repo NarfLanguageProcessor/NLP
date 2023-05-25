@@ -1,1 +1,1 @@
-{"index": 117075, "D": "a slight and partial experience, knowledge, or taste of something to come in the future; anticipation.", "S": ["apprehension ", "awareness "], "A": ["hindsight ", "ignorance ", "thoughtlessness "]}
+{"index": 117075, "D": "a slight and partial experience, knowledge, or taste of something to come in the future; anticipation.", "S": ["apprehension", "awareness"], "A": ["hindsight", "ignorance", "thoughtlessness"]}

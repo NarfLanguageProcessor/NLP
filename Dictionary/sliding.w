@@ -1,1 +1,1 @@
-{"index": 294051, "D": "rising or falling, increasing or decreasing, according to a standard or to a set of conditions.", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}
+{"index": 294051, "D": "rising or falling, increasing or decreasing, according to a standard or to a set of conditions.", "S": ["downward"], "A": ["above", "cheerful", "cheery", "happy", "heartened", "higher"]}

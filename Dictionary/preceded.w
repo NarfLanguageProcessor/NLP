@@ -1,1 +1,1 @@
-{"index": 245969, "D": "the simple past tense and past participle of precede. ", "S": ["anticipate ", "foreshadow ", "predate ", "presage "], "A": ["end ", "finish ", "follow ", "obey "]}
+{"index": 245969, "D": "the simple past tense and past participle of precede. ", "S": ["anticipate", "foreshadow", "predate", "presage"], "A": ["end", "finish", "follow", "obey"]}

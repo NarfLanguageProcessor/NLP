@@ -1,1 +1,1 @@
-{"index": 303796, "D": "an extensive plain, especially one without trees.", "S": ["grassland ", "prairie ", "savanna "], "A": []}
+{"index": 303796, "D": "an extensive plain, especially one without trees.", "S": ["grassland", "prairie", "savanna"], "A": []}

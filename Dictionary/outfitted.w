@@ -1,1 +1,1 @@
-{"index": 216620, "D": "an assemblage of articles that equip a person for a particular task, role, trade, etc.", "S": ["equipped ", "furnished ", "supplied "], "A": []}
+{"index": 216620, "D": "an assemblage of articles that equip a person for a particular task, role, trade, etc.", "S": ["equipped", "furnished", "supplied"], "A": []}

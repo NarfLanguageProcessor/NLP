@@ -1,1 +1,1 @@
-{"index": 128538, "D": "a degree or step in a scale, as of rank, advancement, quality, value, or intensity", "S": ["GPA ", "QPA ", "quality point average "], "A": []}
+{"index": 128538, "D": "a degree or step in a scale, as of rank, advancement, quality, value, or intensity", "S": ["GPA", "QPA", "quality point average"], "A": []}

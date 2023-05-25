@@ -1,1 +1,1 @@
-{"index": 107391, "D": "having been cleared of an accusation or freed from blame", "S": ["clean "], "A": ["culpable ", "guilty ", "responsible "]}
+{"index": 107391, "D": "having been cleared of an accusation or freed from blame", "S": ["clean"], "A": ["culpable", "guilty", "responsible"]}

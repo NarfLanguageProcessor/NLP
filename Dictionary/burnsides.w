@@ -1,1 +1,1 @@
-{"index": 43247, "D": "full whiskers and a mustache worn with the chin clean-shaven.", "S": ["bristles ", "goatee ", "mustache ", "sideburns ", "stubble "], "A": []}
+{"index": 43247, "D": "full whiskers and a mustache worn with the chin clean-shaven.", "S": ["bristles", "goatee", "mustache", "sideburns", "stubble"], "A": []}

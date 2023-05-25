@@ -1,0 +1,1 @@
+{"index": 6027, "D": "a person living in a certain historical age", "S": [], "A": []}

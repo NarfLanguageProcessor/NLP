@@ -1,1 +1,1 @@
-{"index": 171281, "D": "lightness of mind, character, or behavior; lack of appropriate seriousness or earnestness.", "S": ["frivolity ", "giddiness ", "hilarity ", "mirth ", "repartee "], "A": ["depression ", "gloom ", "sense ", "seriousness "]}
+{"index": 171281, "D": "lightness of mind, character, or behavior; lack of appropriate seriousness or earnestness.", "S": ["frivolity", "giddiness", "hilarity", "mirth", "repartee"], "A": ["depression", "gloom", "sense", "seriousness"]}

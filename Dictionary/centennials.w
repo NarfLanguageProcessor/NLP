@@ -1,1 +1,1 @@
-{"index": 50829, "D": "pertaining to, or marking the completion of, a period of 100 years.", "S": ["bazaar ", "celebration ", "display ", "exhibit ", "festival ", "gala ", "market ", "pageant ", "show "], "A": []}
+{"index": 50829, "D": "pertaining to, or marking the completion of, a period of 100 years.", "S": ["bazaar", "celebration", "display", "exhibit", "festival", "gala", "market", "pageant", "show"], "A": []}

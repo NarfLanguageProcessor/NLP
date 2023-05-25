@@ -1,1 +1,1 @@
-{"index": 76382, "D": "a raised platform, as at the front of a room, for a lectern, throne, seats of honor, etc.", "S": ["podium ", "rostrum ", "terrace "], "A": []}
+{"index": 76382, "D": "a raised platform, as at the front of a room, for a lectern, throne, seats of honor, etc.", "S": ["podium", "rostrum", "terrace"], "A": []}

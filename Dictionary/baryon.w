@@ -1,0 +1,1 @@
+{"index": 28007, "D": "a proton, neutron, or any elementary particle that decays into a set of particles that includes a proton.", "S": [], "A": []}

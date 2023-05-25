@@ -1,0 +1,1 @@
+{"index": 30077, "D": "to deck out; array.", "S": [], "A": []}

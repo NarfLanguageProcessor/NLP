@@ -1,1 +1,1 @@
-{"index": 75047, "D": "the vulva or vagina.", "S": ["muff ", "snatch "], "A": []}
+{"index": 75047, "D": "the vulva or vagina.", "S": ["muff", "snatch"], "A": []}

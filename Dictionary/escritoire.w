@@ -1,1 +1,1 @@
-{"index": 104245, "D": "writing desk (def. 1). ", "S": ["davenport ", "secretary "], "A": []}
+{"index": 104245, "D": "writing desk (def. 1). ", "S": ["davenport", "secretary"], "A": []}

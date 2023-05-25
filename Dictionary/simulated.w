@@ -1,1 +1,1 @@
-{"index": 291178, "D": "(of fur, leather, pearls, etc) being an imitation of the genuine article, usually made from cheaper material", "S": ["assumed ", "counterfeit ", "imitated ", "sham "], "A": ["genuine ", "real ", "true "]}
+{"index": 291178, "D": "(of fur, leather, pearls, etc) being an imitation of the genuine article, usually made from cheaper material", "S": ["assumed", "counterfeit", "imitated", "sham"], "A": ["genuine", "real", "true"]}

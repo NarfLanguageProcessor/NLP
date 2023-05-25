@@ -1,1 +1,1 @@
-{"index": 150078, "D": "(especially of a prisoner) deprived of any communication with others.", "S": ["isolated ", "secluded ", "sequestered "], "A": []}
+{"index": 150078, "D": "(especially of a prisoner) deprived of any communication with others.", "S": ["isolated", "secluded", "sequestered"], "A": []}

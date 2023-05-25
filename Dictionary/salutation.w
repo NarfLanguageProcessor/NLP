@@ -1,1 +1,1 @@
-{"index": 277375, "D": "the act of saluting. ", "S": ["address ", "aloha ", "bow ", "curtsy ", "hail ", "hello ", "howdy ", "kiss ", "salaam ", "salute ", "toast "], "A": []}
+{"index": 277375, "D": "the act of saluting. ", "S": ["address", "aloha", "bow", "curtsy", "hail", "hello", "howdy", "kiss", "salaam", "salute", "toast"], "A": []}

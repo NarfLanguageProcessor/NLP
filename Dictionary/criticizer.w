@@ -1,1 +1,1 @@
-{"index": 73497, "D": "to censure or find fault with.", "S": ["carper ", "caviler ", "censor ", "faultfinder ", "hypercritic ", "knocker ", "nitpicker ", "quibbler "], "A": []}
+{"index": 73497, "D": "to censure or find fault with.", "S": ["carper", "caviler", "censor", "faultfinder", "hypercritic", "knocker", "nitpicker", "quibbler"], "A": []}

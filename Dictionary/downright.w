@@ -1,1 +1,1 @@
-{"index": 92292, "D": "thorough; absolute; out-and-out", "S": ["damned ", "outright "], "A": []}
+{"index": 92292, "D": "thorough; absolute; out-and-out", "S": ["damned", "outright"], "A": []}

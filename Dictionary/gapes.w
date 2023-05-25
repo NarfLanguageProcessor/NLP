@@ -1,1 +1,1 @@
-{"index": 122016, "D": "a parasitic disease of poultry and other birds, characterized by frequent gaping  due to infestation of the trachea and bronchi with gapeworms.", "S": ["glare ", "gloat ", "stare "], "A": ["ignore "]}
+{"index": 122016, "D": "a parasitic disease of poultry and other birds, characterized by frequent gaping  due to infestation of the trachea and bronchi with gapeworms.", "S": ["glare", "gloat", "stare"], "A": ["ignore"]}

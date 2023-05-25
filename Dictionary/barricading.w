@@ -1,1 +1,1 @@
-{"index": 28361, "D": "a defensive barrier hastily constructed, as in a street, to stop an enemy.", "S": ["barrier ", "blockade ", "fence ", "rampart ", "roadblock ", "wall "], "A": ["opening ", "aid ", "help "]}
+{"index": 28361, "D": "a defensive barrier hastily constructed, as in a street, to stop an enemy.", "S": ["barrier", "blockade", "fence", "rampart", "roadblock", "wall"], "A": ["opening", "aid", "help"]}

@@ -1,1 +1,1 @@
-{"index": 49598, "D": "to utter long wailing cries, as cats in rutting time.", "S": ["bawl ", "bicker ", "howl ", "quarrel ", "scream ", "screech ", "shriek ", "squall ", "wail ", "yell ", "yowl "], "A": ["agree "]}
+{"index": 49598, "D": "to utter long wailing cries, as cats in rutting time.", "S": ["bawl", "bicker", "howl", "quarrel", "scream", "screech", "shriek", "squall", "wail", "yell", "yowl"], "A": ["agree"]}

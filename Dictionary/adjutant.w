@@ -1,0 +1,1 @@
+{"index": 4085, "D": "a staff officer who assists the commanding officer in issuing orders.", "S": ["aide", "auxiliary", "helper"], "A": []}

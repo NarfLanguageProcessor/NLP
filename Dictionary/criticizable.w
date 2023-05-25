@@ -1,1 +1,1 @@
-{"index": 73494, "D": "to censure or find fault with.", "S": ["impermissible ", "indefensible ", "intolerable ", "outrageous ", "reprehensible ", "unforgivable ", "unjustifiable ", "untenable "], "A": ["acceptable ", "good "]}
+{"index": 73494, "D": "to censure or find fault with.", "S": ["impermissible", "indefensible", "intolerable", "outrageous", "reprehensible", "unforgivable", "unjustifiable", "untenable"], "A": ["acceptable", "good"]}

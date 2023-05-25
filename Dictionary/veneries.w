@@ -1,1 +1,1 @@
-{"index": 358046, "D": "the gratification of sexual desire.", "S": ["hunt ", "quest ", "race "], "A": ["escape ", "retreat "]}
+{"index": 358046, "D": "the gratification of sexual desire.", "S": ["hunt", "quest", "race"], "A": ["escape", "retreat"]}

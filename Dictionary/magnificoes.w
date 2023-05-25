@@ -1,1 +1,1 @@
-{"index": 177603, "D": "a Venetian nobleman.", "S": ["aristocrat ", "blue blood ", "emperor ", "patrician "], "A": ["commoner "]}
+{"index": 177603, "D": "a Venetian nobleman.", "S": ["aristocrat", "blue blood", "emperor", "patrician"], "A": ["commoner"]}

@@ -1,1 +1,1 @@
-{"index": 291098, "D": "to make less complex or complicated; make plainer or easier", "S": ["clarify ", "cut down ", "facilitate ", "reduce ", "shorten ", "streamline "], "A": ["grow ", "increase ", "confuse ", "mix up ", "mystify ", "obscure "]}
+{"index": 291098, "D": "to make less complex or complicated; make plainer or easier", "S": ["clarify", "cut down", "facilitate", "reduce", "shorten", "streamline"], "A": ["grow", "increase", "confuse", "mix up", "mystify", "obscure"]}

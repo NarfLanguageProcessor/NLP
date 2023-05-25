@@ -1,1 +1,1 @@
-{"index": 115571, "D": "something having ornamental grooves, as a Greek column.", "S": ["avenue ", "carrier ", "means ", "medium ", "route ", "tunnel "], "A": ["closure ", "denial ", "refusal ", "veto "]}
+{"index": 115571, "D": "something having ornamental grooves, as a Greek column.", "S": ["avenue", "carrier", "means", "medium", "route", "tunnel"], "A": ["closure", "denial", "refusal", "veto"]}

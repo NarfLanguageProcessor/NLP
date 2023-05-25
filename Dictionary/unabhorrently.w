@@ -1,1 +1,0 @@
-{"index": 334330, "D": "causing repugnance; detestable; loathsome", "S": [], "A": []}

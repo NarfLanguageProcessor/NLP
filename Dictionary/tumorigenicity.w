@@ -1,1 +1,0 @@
-{"index": 332325, "D": "(of cells or a substance) capable of producing tumors. ", "S": [], "A": []}

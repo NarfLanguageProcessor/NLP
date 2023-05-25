@@ -1,1 +1,1 @@
-{"index": 123641, "D": "the deliberate and systematic extermination of a national, racial, political, or cultural group.", "S": ["carnage ", "holocaust ", "mass murder ", "massacre ", "slaughter "], "A": []}
+{"index": 123641, "D": "the deliberate and systematic extermination of a national, racial, political, or cultural group.", "S": ["carnage", "holocaust", "mass murder", "massacre", "slaughter"], "A": []}

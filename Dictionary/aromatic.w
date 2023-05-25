@@ -1,0 +1,1 @@
+{"index": 20078, "D": "having an aroma;  fragrant or sweet-scented; odoriferous.", "S": ["fragrant", "perfumed", "pungent", "savory", "scented", "spicy", "sweet"], "A": ["bland", "dull", "flavorless", "stinking", "tasteless"]}

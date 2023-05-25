@@ -1,1 +1,1 @@
-{"index": 26253, "D": "bewildered or perplexed; puzzled", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}
+{"index": 26253, "D": "bewildered or perplexed; puzzled", "S": ["humbled", "overpowered", "overwhelmed", "routed"], "A": []}

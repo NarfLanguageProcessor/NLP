@@ -1,1 +1,1 @@
-{"index": 251263, "D": "something that is proclaimed;  a public and official announcement.", "S": ["decree ", "edict ", "manifesto ", "notification ", "promulgation ", "pronouncement ", "publication "], "A": ["secret "]}
+{"index": 251263, "D": "something that is proclaimed;  a public and official announcement.", "S": ["decree", "edict", "manifesto", "notification", "promulgation", "pronouncement", "publication"], "A": ["secret"]}

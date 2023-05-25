@@ -1,1 +1,1 @@
-{"index": 313014, "D": "to furnish or provide (a person, establishment, place, etc.) with what is lacking or requisite", "S": ["food ", "foodstuffs ", "items ", "material ", "materials ", "necessities ", "provender ", "rations ", "replenishments ", "stock ", "store ", "stores "], "A": []}
+{"index": 313014, "D": "to furnish or provide (a person, establishment, place, etc.) with what is lacking or requisite", "S": ["food", "foodstuffs", "items", "material", "materials", "necessities", "provender", "rations", "replenishments", "stock", "store", "stores"], "A": []}

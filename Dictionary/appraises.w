@@ -1,1 +1,1 @@
-{"index": 17896, "D": "to estimate the monetary value of; determine the worth of; assess", "S": ["assess ", "audit ", "calculate ", "check out ", "evaluate ", "examine ", "gauge ", "inspect ", "peg "], "A": ["ignore ", "neglect "]}
+{"index": 17896, "D": "to estimate the monetary value of; determine the worth of; assess", "S": ["assess", "audit", "calculate", "check out", "evaluate", "examine", "gauge", "inspect", "peg"], "A": ["ignore", "neglect"]}

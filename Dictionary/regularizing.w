@@ -1,1 +1,1 @@
-{"index": 265878, "D": "to make regular. ", "S": ["regulating ", "standardizing "], "A": []}
+{"index": 265878, "D": "to make regular. ", "S": ["regulating", "standardizing"], "A": []}

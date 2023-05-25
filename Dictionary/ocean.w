@@ -1,1 +1,1 @@
-{"index": 210765, "D": "Compare World Ocean. ", "S": ["sea ", "tide "], "A": []}
+{"index": 210765, "D": "Compare World Ocean. ", "S": ["sea", "tide"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 322863, "D": "a past participle of throw. ", "S": ["flung ", "launched ", "pitched ", "propelled ", "tossed "], "A": []}
+{"index": 322863, "D": "a past participle of throw. ", "S": ["flung", "launched", "pitched", "propelled", "tossed"], "A": []}

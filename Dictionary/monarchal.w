@@ -1,1 +1,1 @@
-{"index": 191742, "D": "pertaining to, characteristic of, or befitting a monarch", "S": ["absolute ", "autonomous ", "unlimited "], "A": ["dependent ", "limited ", "restricted ", "minor ", "secondary ", "subordinate ", "unimportant "]}
+{"index": 191742, "D": "pertaining to, characteristic of, or befitting a monarch", "S": ["absolute", "autonomous", "unlimited"], "A": ["dependent", "limited", "restricted", "minor", "secondary", "subordinate", "unimportant"]}

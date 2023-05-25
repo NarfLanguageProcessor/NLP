@@ -1,1 +1,1 @@
-{"index": 263357, "D": "reconnoiter. ", "S": ["analyze ", "delve into ", "examine ", "probe ", "research ", "scrutinize ", "search ", "seek ", "test ", "try "], "A": ["find ", "neglect ", "ignore ", "overlook "]}
+{"index": 263357, "D": "reconnoiter. ", "S": ["analyze", "delve into", "examine", "probe", "research", "scrutinize", "search", "seek", "test", "try"], "A": ["find", "neglect", "ignore", "overlook"]}

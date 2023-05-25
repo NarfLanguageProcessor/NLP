@@ -1,1 +1,1 @@
-{"index": 175128, "D": "free or released from fastening or attachment", "S": ["rascal "], "A": []}
+{"index": 175128, "D": "free or released from fastening or attachment", "S": ["rascal"], "A": []}

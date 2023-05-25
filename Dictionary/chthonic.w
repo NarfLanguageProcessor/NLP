@@ -1,1 +1,1 @@
-{"index": 56497, "D": "of or relating to the deities, spirits, and other beings dwelling under the earth.", "S": ["domestic ", "endemic ", "homegrown ", "primitive "], "A": ["alien ", "foreign "]}
+{"index": 56497, "D": "of or relating to the deities, spirits, and other beings dwelling under the earth.", "S": ["domestic", "endemic", "homegrown", "primitive"], "A": ["alien", "foreign"]}

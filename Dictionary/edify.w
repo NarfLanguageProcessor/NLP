@@ -1,1 +1,1 @@
-{"index": 95745, "D": "to instruct or benefit, especially morally or spiritually; uplift", "S": ["enlighten ", "uplift "], "A": ["learn "]}
+{"index": 95745, "D": "to instruct or benefit, especially morally or spiritually; uplift", "S": ["enlighten", "uplift"], "A": ["learn"]}

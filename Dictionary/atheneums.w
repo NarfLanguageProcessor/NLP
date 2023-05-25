@@ -1,1 +1,1 @@
-{"index": 22538, "D": "an institution for the promotion of literary or scientific learning.", "S": ["athenaeum ", "bibliotheca ", "study "], "A": []}
+{"index": 22538, "D": "an institution for the promotion of literary or scientific learning.", "S": ["athenaeum", "bibliotheca", "study"], "A": []}

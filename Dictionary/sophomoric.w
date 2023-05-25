@@ -1,1 +1,1 @@
-{"index": 297443, "D": "of or relating to a sophomore  or sophomores. ", "S": ["foolish "], "A": ["experienced ", "expert ", "knowledgeable ", "professional "]}
+{"index": 297443, "D": "of or relating to a sophomore  or sophomores. ", "S": ["foolish"], "A": ["experienced", "expert", "knowledgeable", "professional"]}

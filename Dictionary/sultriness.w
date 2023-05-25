@@ -1,1 +1,1 @@
-{"index": 310860, "D": "oppressively hot and close or moist; sweltering", "S": ["dampness ", "humidity ", "humidness ", "oppressiveness "], "A": []}
+{"index": 310860, "D": "oppressively hot and close or moist; sweltering", "S": ["dampness", "humidity", "humidness", "oppressiveness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 13073, "D": "with all water removed, especially water of crystallization.", "S": ["arid ", "bone-dry ", "dehydrated ", "dry ", "evaporated ", "moistureless ", "parched ", "waterless "], "A": []}
+{"index": 13073, "D": "with all water removed, especially water of crystallization.", "S": ["arid", "bone-dry", "dehydrated", "dry", "evaporated", "moistureless", "parched", "waterless"], "A": []}

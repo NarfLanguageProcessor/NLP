@@ -1,1 +1,1 @@
-{"index": 147136, "D": "to give forth or produce by a natural process or in return for cultivation", "S": ["allow ", "bring in ", "earn ", "generate ", "give ", "offer ", "pay ", "provide ", "supply "], "A": ["deny ", "hold ", "keep ", "lose ", "refuse ", "take ", "withhold ", "withstand "]}
+{"index": 147136, "D": "to give forth or produce by a natural process or in return for cultivation", "S": [], "A": []}

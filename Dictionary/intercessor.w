@@ -1,1 +1,1 @@
-{"index": 154596, "D": "a person who intercedes.", "S": ["arbitrator ", "judge ", "negotiator "], "A": []}
+{"index": 154596, "D": "a person who intercedes.", "S": ["arbitrator", "judge", "negotiator"], "A": []}

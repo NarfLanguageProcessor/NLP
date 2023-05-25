@@ -1,1 +1,1 @@
-{"index": 71911, "D": "craftsmen and craftswomen collectively.", "S": ["artificer ", "artisan ", "blacksmith ", "journeyperson ", "machinist ", "maker ", "manufacturer ", "mechanic ", "skilled worker ", "smith ", "specialist ", "technician ", "wright "], "A": ["bumbler ", "unskilled "]}
+{"index": 71911, "D": "craftsmen and craftswomen collectively.", "S": ["artificer", "artisan", "blacksmith", "journeyperson", "machinist", "maker", "manufacturer", "mechanic", "skilled worker", "smith", "specialist", "technician", "wright"], "A": ["bumbler", "unskilled"]}

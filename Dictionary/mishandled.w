@@ -1,1 +1,1 @@
-{"index": 189395, "D": "to handle  badly; maltreat", "S": ["amiss ", "awry ", "bad ", "erroneous ", "false ", "inaccurate ", "misguided ", "mistaken ", "unsound ", "untrue "], "A": ["OK ", "accurate ", "correct ", "good ", "honest ", "just ", "precise ", "right ", "sound ", "true ", "valid "]}
+{"index": 189395, "D": "to handle  badly; maltreat", "S": ["amiss", "awry", "bad", "erroneous", "false", "inaccurate", "misguided", "mistaken", "unsound", "untrue"], "A": ["OK", "accurate", "correct", "good", "honest", "just", "precise", "right", "sound", "true", "valid"]}

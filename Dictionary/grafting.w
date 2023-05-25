@@ -1,1 +1,1 @@
-{"index": 128607, "D": "graft1 (def. 2). ", "S": ["affix ", "implant ", "propagate "], "A": ["divide ", "separate ", "withdraw "]}
+{"index": 128607, "D": "graft1 (def. 2). ", "S": ["affix", "implant", "propagate"], "A": ["divide", "separate", "withdraw"]}

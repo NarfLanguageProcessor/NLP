@@ -1,1 +1,1 @@
-{"index": 90227, "D": "a person or thing that dives. ", "S": ["bluejacket ", "boater ", "cadet ", "jack-tar ", "lascar ", "marine ", "mariner ", "mate ", "middy ", "navigator ", "pilot ", "pirate ", "salt ", "seafarer ", "seaman ", "shipmate ", "swab ", "tar ", "tarpaulin ", "windjammer "], "A": []}
+{"index": 90227, "D": "a person or thing that dives. ", "S": ["bluejacket", "boater", "cadet", "jack-tar", "lascar", "marine", "mariner", "mate", "middy", "navigator", "pilot", "pirate", "salt", "seafarer", "seaman", "shipmate", "swab", "tar", "tarpaulin", "windjammer"], "A": []}

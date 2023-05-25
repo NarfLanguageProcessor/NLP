@@ -1,1 +1,1 @@
-{"index": 358770, "D": "experienced; practiced; skilled; learned (usually followed by in)", "S": ["acquainted ", "competent ", "conversant ", "knowledgeable ", "practiced ", "proficient ", "skilled "], "A": ["ignorant ", "incompetent ", "inept ", "unable ", "inexperienced ", "unskilled "]}
+{"index": 358770, "D": "experienced; practiced; skilled; learned (usually followed by in)", "S": ["acquainted", "competent", "conversant", "knowledgeable", "practiced", "proficient", "skilled"], "A": ["ignorant", "incompetent", "inept", "unable", "inexperienced", "unskilled"]}

@@ -1,1 +1,1 @@
-{"index": 102488, "D": "to express in epigrams. ", "S": ["card ", "comedian ", "comic ", "humorist ", "jester ", "joker ", "jokester ", "punster ", "trickster ", "wag "], "A": []}
+{"index": 102488, "D": "to express in epigrams. ", "S": ["card", "comedian", "comic", "humorist", "jester", "joker", "jokester", "punster", "trickster", "wag"], "A": []}

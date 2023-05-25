@@ -1,1 +1,1 @@
-{"index": 363902, "D": "having considerable weight;  heavy; ponderous", "S": ["densely ", "massively ", "thickly "], "A": ["easily ", "gently ", "lightly "]}
+{"index": 363902, "D": "having considerable weight;  heavy; ponderous", "S": ["densely", "massively", "thickly"], "A": ["easily", "gently", "lightly"]}

@@ -1,1 +1,1 @@
-{"index": 238857, "D": "anything that is braided or pleated.", "S": ["crease ", "flute ", "fold ", "interweave ", "knit ", "pigtail ", "plat ", "pleach ", "pleat ", "tress ", "tuck ", "twine ", "weave "], "A": []}
+{"index": 238857, "D": "anything that is braided or pleated.", "S": ["crease", "flute", "fold", "interweave", "knit", "pigtail", "plat", "pleach", "pleat", "tress", "tuck", "twine", "weave"], "A": []}

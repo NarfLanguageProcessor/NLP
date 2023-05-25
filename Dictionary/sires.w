@@ -1,1 +1,0 @@
-{"index": 292343, "D": "the male parent of a quadruped.", "S": ["ancestor ", "begetter ", "creator ", "forefather ", "lord ", "parent ", "pater "], "A": []}

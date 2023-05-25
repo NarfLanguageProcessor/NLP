@@ -1,1 +1,1 @@
-{"index": 222805, "D": "a cushionlike mass of soft material used for comfort, protection, or stuffing.", "S": ["cushioned ", "quilted "], "A": []}
+{"index": 222805, "D": "a cushionlike mass of soft material used for comfort, protection, or stuffing.", "S": ["cushioned", "quilted"], "A": []}

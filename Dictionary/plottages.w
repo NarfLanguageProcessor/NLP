@@ -1,1 +1,1 @@
-{"index": 240222, "D": "the area within or comprising a plot  of land.", "S": ["area ", "field ", "part ", "piece ", "portion ", "property "], "A": ["whole "]}
+{"index": 240222, "D": "the area within or comprising a plot  of land.", "S": ["area", "field", "part", "piece", "portion", "property"], "A": ["whole"]}

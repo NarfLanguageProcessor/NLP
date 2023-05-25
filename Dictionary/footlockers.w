@@ -1,1 +1,1 @@
-{"index": 116205, "D": "a small trunk designed to be kept at the foot  of a bed, especially to contain a soldier's personal effects.", "S": ["bag ", "chest ", "coffin ", "crate ", "locker ", "luggage ", "suitcase "], "A": ["extremities "]}
+{"index": 116205, "D": "a small trunk designed to be kept at the foot  of a bed, especially to contain a soldier's personal effects.", "S": ["bag", "chest", "coffin", "crate", "locker", "luggage", "suitcase"], "A": ["extremities"]}

@@ -1,1 +1,0 @@
-{"index": 170834, "D": "an injury; hurt; wound.", "S": ["abrasion ", "bruise ", "contusion ", "laceration ", "sore "], "A": []}

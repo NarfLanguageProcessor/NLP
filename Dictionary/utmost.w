@@ -1,1 +1,1 @@
-{"index": 356191, "D": "of the greatest or highest degree, quantity, or the like; greatest", "S": ["absolute ", "all-out ", "sheer ", "ultimate ", "unconditional "], "A": ["limited ", "beginning ", "first ", "introductory ", "middle ", "starting ", "unimportant "]}
+{"index": 356191, "D": "of the greatest or highest degree, quantity, or the like; greatest", "S": ["absolute", "all-out", "sheer", "ultimate", "unconditional"], "A": ["limited", "beginning", "first", "introductory", "middle", "starting", "unimportant"]}

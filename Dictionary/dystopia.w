@@ -1,1 +1,1 @@
-{"index": 89848, "D": "a society characterized by human misery, as squalor, oppression, disease, and overcrowding.", "S": ["apocalypse "], "A": ["utopia "]}
+{"index": 89848, "D": "a society characterized by human misery, as squalor, oppression, disease, and overcrowding.", "S": ["apocalypse"], "A": ["utopia"]}

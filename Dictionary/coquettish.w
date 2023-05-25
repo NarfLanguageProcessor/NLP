@@ -1,1 +1,1 @@
-{"index": 68748, "D": "(of a woman) characteristically flirtatious, especially in a teasing, lighthearted manner.", "S": ["coy ", "flirting ", "flirty ", "kittenish ", "teasing "], "A": []}
+{"index": 68748, "D": "(of a woman) characteristically flirtatious, especially in a teasing, lighthearted manner.", "S": ["coy", "flirting", "flirty", "kittenish", "teasing"], "A": []}

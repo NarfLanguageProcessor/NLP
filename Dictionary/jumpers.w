@@ -1,1 +1,1 @@
-{"index": 162290, "D": "a person or thing that jumps. ", "S": ["battery cable ", "jump leads ", "jumper lead "], "A": []}
+{"index": 162290, "D": "a person or thing that jumps. ", "S": ["battery cable", "jump leads", "jumper lead"], "A": []}

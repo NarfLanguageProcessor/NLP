@@ -1,1 +1,1 @@
-{"index": 107220, "D": "expulsion from one's native land by authoritative decree.", "S": ["alien ", "different ", "external ", "offshore ", "overseas ", "unfamiliar "], "A": ["characteristic ", "familiar ", "known ", "local ", "national ", "native ", "regular ", "relevant "]}
+{"index": 107220, "D": "expulsion from one's native land by authoritative decree.", "S": ["alien", "different", "external", "offshore", "overseas", "unfamiliar"], "A": ["characteristic", "familiar", "known", "local", "national", "native", "regular", "relevant"]}

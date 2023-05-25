@@ -1,1 +1,0 @@
-{"index": 323335, "D": "a customs officer who checks goods upon a vessel's landing, to secure the payment of duties.", "S": [], "A": []}

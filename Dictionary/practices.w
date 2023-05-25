@@ -1,1 +1,1 @@
-{"index": 245094, "D": "habitual or customary performance; operation", "S": ["attitude ", "codes ", "etiquette ", "formalities ", "manners ", "morals ", "policies ", "principles ", "protocol ", "rites ", "rituals ", "routines ", "rules ", "standards "], "A": ["bad manners "]}
+{"index": 245094, "D": "habitual or customary performance; operation", "S": ["attitude", "codes", "etiquette", "formalities", "manners", "morals", "policies", "principles", "protocol", "rites", "rituals", "routines", "rules", "standards"], "A": ["bad manners"]}

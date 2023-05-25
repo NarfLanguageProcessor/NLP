@@ -1,1 +1,1 @@
-{"index": 279285, "D": "covered with scabs;  having many scabs. ", "S": ["blotchy ", "coarse ", "encrusted ", "lepidote ", "notched ", "scaly ", "unsmooth "], "A": []}
+{"index": 279285, "D": "covered with scabs;  having many scabs. ", "S": ["blotchy", "coarse", "encrusted", "lepidote", "notched", "scaly", "unsmooth"], "A": []}

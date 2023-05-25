@@ -1,1 +1,1 @@
-{"index": 177057, "D": "Compare microscopic (def. 1). ", "S": ["apparent ", "comprehensive ", "observable ", "obvious ", "perceptible "], "A": []}
+{"index": 177057, "D": "Compare microscopic (def. 1). ", "S": ["apparent", "comprehensive", "observable", "obvious", "perceptible"], "A": []}

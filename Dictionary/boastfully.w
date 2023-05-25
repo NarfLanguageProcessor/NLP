@@ -1,1 +1,1 @@
-{"index": 36973, "D": "given to or characterized by boasting. ", "S": ["selfishly "], "A": []}
+{"index": 36973, "D": "given to or characterized by boasting. ", "S": ["selfishly"], "A": []}

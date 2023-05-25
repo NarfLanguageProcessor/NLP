@@ -1,1 +1,0 @@
-{"index": 317341, "D": "any surface area of an airport used for taxiing airplanes to and from a runway, parking apron, terminal, etc.", "S": ["air base ", "airfield ", "airstrip "], "A": []}

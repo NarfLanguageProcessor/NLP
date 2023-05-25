@@ -1,1 +1,1 @@
-{"index": 3424, "D": "with an utterly unyielding attitude, in spite of all appeals, urgings, challenges, etc.", "S": ["decisively ", "doggedly ", "persistently ", "resolutely ", "staunchly ", "steadfastly ", "strictly ", "stubbornly ", "tenaciously "], "A": ["indefinitely ", "weakly "]}
+{"index": 3424, "D": "with an utterly unyielding attitude, in spite of all appeals, urgings, challenges, etc.", "S": ["decisively", "doggedly", "persistently", "resolutely", "staunchly", "steadfastly", "strictly", "stubbornly", "tenaciously"], "A": ["indefinitely", "weakly"]}

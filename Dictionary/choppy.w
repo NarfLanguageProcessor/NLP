@@ -1,1 +1,1 @@
-{"index": 55692, "D": "(of the sea, a lake, etc.) forming short, irregular, broken waves.", "S": ["rough ", "uneven "], "A": ["even ", "level ", "smooth "]}
+{"index": 55692, "D": "(of the sea, a lake, etc.) forming short, irregular, broken waves.", "S": ["rough", "uneven"], "A": ["even", "level", "smooth"]}

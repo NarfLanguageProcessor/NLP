@@ -1,1 +1,1 @@
-{"index": 318161, "D": "a person who is telepathic", "S": ["augur ", "diviner ", "medium ", "oracle ", "prophet ", "seer ", "sibyl ", "soothsayer ", "telepathist ", "visionary "], "A": []}
+{"index": 318161, "D": "a person who is telepathic", "S": ["augur", "diviner", "medium", "oracle", "prophet", "seer", "sibyl", "soothsayer", "telepathist", "visionary"], "A": []}

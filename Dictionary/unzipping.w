@@ -1,1 +1,1 @@
-{"index": 354448, "D": "to open the zipper  of.", "S": ["free ", "undo ", "unfasten "], "A": ["fasten "]}
+{"index": 354448, "D": "to open the zipper  of.", "S": ["free", "undo", "unfasten"], "A": ["fasten"]}

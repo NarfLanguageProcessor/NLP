@@ -1,1 +1,1 @@
-{"index": 139235, "D": "of high  rank by birth.", "S": ["aristocratic ", "blue-blooded ", "elite ", "gentle ", "highbred ", "imperial ", "kingly ", "patrician ", "queenly ", "silk-stocking ", "thoroughbred ", "titled ", "upper-class ", "wellborn "], "A": []}
+{"index": 139235, "D": "of high  rank by birth.", "S": ["aristocratic", "blue-blooded", "elite", "gentle", "highbred", "imperial", "kingly", "patrician", "queenly", "silk-stocking", "thoroughbred", "titled", "upper-class", "wellborn"], "A": []}

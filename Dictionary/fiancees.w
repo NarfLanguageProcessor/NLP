@@ -1,1 +1,1 @@
-{"index": 111935, "D": "a woman engaged to be married.", "S": ["affianced person ", "betrothed ", "engaged person ", "future ", "husband-to-be ", "intended ", "prospective spouse ", "steady ", "wife-to-be "], "A": []}
+{"index": 111935, "D": "a woman engaged to be married.", "S": ["affianced person", "betrothed", "engaged person", "future", "husband-to-be", "intended", "prospective spouse", "steady", "wife-to-be"], "A": []}

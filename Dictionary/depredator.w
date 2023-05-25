@@ -1,1 +1,1 @@
-{"index": 81842, "D": "to plunder or lay waste to; prey upon; pillage; ravage.", "S": ["bandit ", "freebooter ", "looter ", "marauder ", "pillager ", "raider ", "spoiler ", "thief ", "vandal "], "A": []}
+{"index": 81842, "D": "to plunder or lay waste to; prey upon; pillage; ravage.", "S": ["bandit", "freebooter", "looter", "marauder", "pillager", "raider", "spoiler", "thief", "vandal"], "A": []}

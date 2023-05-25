@@ -1,1 +1,1 @@
-{"index": 68062, "D": "to change (something) into a different form or properties; transmute; transform. ", "S": ["apply ", "download ", "modify ", "remodel ", "reorganize ", "switch ", "transform ", "translate ", "turn "], "A": ["leave alone ", "stagnate ", "keep ", "refuse "]}
+{"index": 68062, "D": "to change (something) into a different form or properties; transmute; transform. ", "S": ["apply", "download", "modify", "remodel", "reorganize", "switch", "transform", "translate", "turn"], "A": ["leave alone", "stagnate", "keep", "refuse"]}

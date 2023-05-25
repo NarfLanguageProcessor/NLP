@@ -1,1 +1,1 @@
-{"index": 181742, "D": "to proceed by or take a winding or indirect course", "S": ["drift ", "ramble ", "roam ", "snake ", "stray ", "stroll ", "traipse "], "A": ["stay ", "straighten ", "untwist "]}
+{"index": 181742, "D": "to proceed by or take a winding or indirect course", "S": ["drift", "ramble", "roam", "snake", "stray", "stroll", "traipse"], "A": ["stay", "straighten", "untwist"]}

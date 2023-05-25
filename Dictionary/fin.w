@@ -1,1 +1,1 @@
-{"index": 112831, "D": "a membranous, winglike or paddlelike organ attached to any of various parts of the body of fishes and certain other aquatic animals, used for propulsion, steering, or balancing.", "S": ["appendage ", "flipper ", "pinna "], "A": []}
+{"index": 112831, "D": "a membranous, winglike or paddlelike organ attached to any of various parts of the body of fishes and certain other aquatic animals, used for propulsion, steering, or balancing.", "S": ["appendage", "flipper", "pinna"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 79571, "D": "the process of degenerating.", "S": ["decay ", "worsening "], "A": ["improvement ", "morality "]}
+{"index": 79571, "D": "the process of degenerating.", "S": ["decay", "worsening"], "A": ["improvement", "morality"]}

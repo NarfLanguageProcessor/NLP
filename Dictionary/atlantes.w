@@ -1,1 +1,1 @@
-{"index": 22656, "D": "plural of atlas (def. 5). ", "S": ["album ", "booklet ", "brochure ", "copy ", "dictionary ", "edition ", "essay ", "fiction ", "magazine ", "manual ", "novel ", "pamphlet ", "paperback ", "publication ", "text ", "textbook ", "tome ", "volume ", "work ", "writing "], "A": []}
+{"index": 22656, "D": "plural of atlas (def. 5). ", "S": ["album", "booklet", "brochure", "copy", "dictionary", "edition", "essay", "fiction", "magazine", "manual", "novel", "pamphlet", "paperback", "publication", "text", "textbook", "tome", "volume", "work", "writing"], "A": []}

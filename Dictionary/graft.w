@@ -1,1 +1,1 @@
-{"index": 128600, "D": "the place where the scion is inserted.", "S": ["bud ", "hybridization ", "implant ", "jointure ", "scion ", "shoot ", "slip ", "splice ", "sprout ", "union "], "A": []}
+{"index": 128600, "D": "the place where the scion is inserted.", "S": ["bud", "hybridization", "implant", "jointure", "scion", "shoot", "slip", "splice", "sprout", "union"], "A": []}

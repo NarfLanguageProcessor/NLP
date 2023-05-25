@@ -1,1 +1,1 @@
-{"index": 366122, "D": "either of the two forelimbs of most birds and of bats, corresponding to the human arms, that are specialized for flight.", "S": ["aileron ", "airfoil ", "appendage ", "feather ", "pennon ", "pinion "], "A": ["base ", "headquarters "]}
+{"index": 366122, "D": "either of the two forelimbs of most birds and of bats, corresponding to the human arms, that are specialized for flight.", "S": ["aileron", "airfoil", "appendage", "feather", "pennon", "pinion"], "A": ["base", "headquarters"]}

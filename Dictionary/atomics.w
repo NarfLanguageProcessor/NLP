@@ -1,1 +1,1 @@
-{"index": 22745, "D": "the branch of physics that deals with atoms, especially atomic energy. ", "S": ["particle physics ", "quantum mechanics "], "A": []}
+{"index": 22745, "D": "the branch of physics that deals with atoms, especially atomic energy. ", "S": ["particle physics", "quantum mechanics"], "A": []}

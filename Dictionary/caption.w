@@ -1,1 +1,1 @@
-{"index": 47195, "D": "a title or explanation for a picture or illustration, as in a magazine, newspaper, or book.", "S": ["inscription ", "subtitle "], "A": []}
+{"index": 47195, "D": "a title or explanation for a picture or illustration, as in a magazine, newspaper, or book.", "S": ["inscription", "subtitle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 362904, "D": "diluted too much; weak", "S": ["bland ", "distasteful ", "flat ", "flavorless ", "innocuous ", "jejune ", "mild ", "namby-pamby ", "savorless ", "stale ", "unappetizing ", "unpalatable ", "unsavory ", "vapid ", "watered-down ", "waterish ", "watery "], "A": []}
+{"index": 362904, "D": "diluted too much; weak", "S": ["bland", "distasteful", "flat", "flavorless", "innocuous", "jejune", "mild", "namby-pamby", "savorless", "stale", "unappetizing", "unpalatable", "unsavory", "vapid", "watered-down", "waterish", "watery"], "A": []}

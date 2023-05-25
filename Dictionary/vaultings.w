@@ -1,1 +1,1 @@
-{"index": 357551, "D": "the act or process of constructing vaults. ", "S": ["balance beam ", "horizontal bar ", "pommel horse ", "side horse ", "stationary rings ", "trampolining ", "tumbling ", "uneven parallel bars ", "vaulting "], "A": []}
+{"index": 357551, "D": "the act or process of constructing vaults. ", "S": ["balance beam", "horizontal bar", "pommel horse", "side horse", "stationary rings", "trampolining", "tumbling", "uneven parallel bars", "vaulting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 35640, "D": "an inflammatory swelling or sore.", "S": ["abscess ", "cyst ", "pimple ", "sore ", "ulcer ", "welt "], "A": []}
+{"index": 35640, "D": "an inflammatory swelling or sore.", "S": ["abscess", "cyst", "pimple", "sore", "ulcer", "welt"], "A": []}

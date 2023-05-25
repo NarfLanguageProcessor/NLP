@@ -1,1 +1,1 @@
-{"index": 110291, "D": "impossible to measure the depth of; bottomless.", "S": ["bottomless ", "plumbless ", "plummetless "], "A": ["infinite ", "low "]}
+{"index": 110291, "D": "impossible to measure the depth of; bottomless.", "S": ["bottomless", "plumbless", "plummetless"], "A": ["infinite", "low"]}

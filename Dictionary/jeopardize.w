@@ -1,1 +1,1 @@
-{"index": 160886, "D": "to put in jeopardy;  hazard; risk; imperil", "S": ["imperil ", "threaten "], "A": ["guard ", "protect ", "save ", "design ", "plan "]}
+{"index": 160886, "D": "to put in jeopardy;  hazard; risk; imperil", "S": ["imperil", "threaten"], "A": ["guard", "protect", "save", "design", "plan"]}

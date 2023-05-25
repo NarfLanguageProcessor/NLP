@@ -1,1 +1,1 @@
-{"index": 162063, "D": "a book of the Bible containing the history of Israel under the judges and covering the period between the death of Joshua and the accession to the throne by Saul. Abbreviations", "S": ["board ", "tribunal "], "A": []}
+{"index": 162063, "D": "a book of the Bible containing the history of Israel under the judges and covering the period between the death of Joshua and the accession to the throne by Saul. Abbreviations", "S": ["board", "tribunal"], "A": []}

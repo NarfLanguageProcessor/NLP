@@ -1,1 +1,1 @@
-{"index": 136993, "D": "in this region or neighbourhood; near this place", "S": ["attendant ", "attending ", "hither ", "present "], "A": ["there "]}
+{"index": 136993, "D": "in this region or neighbourhood; near this place", "S": ["attendant", "attending", "hither", "present"], "A": ["there"]}

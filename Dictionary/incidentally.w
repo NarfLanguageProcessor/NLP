@@ -1,1 +1,1 @@
-{"index": 149848, "D": "apart or aside from the main subject of attention, discussion, etc.; by the way; parenthetically", "S": ["casually ", "remotely "], "A": ["purposely "]}
+{"index": 149848, "D": "apart or aside from the main subject of attention, discussion, etc.; by the way; parenthetically", "S": ["casually", "remotely"], "A": ["purposely"]}

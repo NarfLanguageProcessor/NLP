@@ -1,1 +1,1 @@
-{"index": 11764, "D": "the science of logical analysis.", "S": ["data "], "A": []}
+{"index": 11764, "D": "the science of logical analysis.", "S": ["data"], "A": []}

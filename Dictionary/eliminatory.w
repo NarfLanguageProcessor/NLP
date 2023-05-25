@@ -1,1 +1,1 @@
-{"index": 97580, "D": "a person or thing that eliminates. ", "S": ["aperient ", "cathartic ", "evacuant ", "evacuative ", "excretory ", "expulsive ", "purgative "], "A": []}
+{"index": 97580, "D": "a person or thing that eliminates. ", "S": ["aperient", "cathartic", "evacuant", "evacuative", "excretory", "expulsive", "purgative"], "A": []}

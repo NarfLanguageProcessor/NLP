@@ -1,1 +1,1 @@
-{"index": 356070, "D": "the lending or practice of lending money at an exorbitant interest.", "S": ["exploitation ", "stealing "], "A": []}
+{"index": 356070, "D": "the lending or practice of lending money at an exorbitant interest.", "S": ["exploitation", "stealing"], "A": []}

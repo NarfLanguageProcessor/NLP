@@ -1,1 +1,1 @@
-{"index": 91887, "D": "a person exhibiting a decline in mental faculties, especially as a result of aging.", "S": ["wimp "], "A": ["strongman "]}
+{"index": 91887, "D": "a person exhibiting a decline in mental faculties, especially as a result of aging.", "S": ["wimp"], "A": ["strongman"]}

@@ -1,1 +1,1 @@
-{"index": 276543, "D": "a journey or expedition, for hunting, exploration, or investigation, especially in eastern Africa.", "S": ["fly ", "proceed ", "ramble ", "roam ", "traverse ", "trek ", "wander ", "wend "], "A": ["stay ", "break "]}
+{"index": 276543, "D": "a journey or expedition, for hunting, exploration, or investigation, especially in eastern Africa.", "S": ["fly", "proceed", "ramble", "roam", "traverse", "trek", "wander", "wend"], "A": ["stay", "break"]}

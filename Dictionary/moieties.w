@@ -1,1 +1,1 @@
-{"index": 191306, "D": "a half.", "S": ["affiliation ", "component ", "element ", "fraction ", "half ", "part ", "piece ", "portion ", "share "], "A": ["entirety ", "whole "]}
+{"index": 191306, "D": "a half.", "S": ["affiliation", "component", "element", "fraction", "half", "part", "piece", "portion", "share"], "A": ["entirety", "whole"]}

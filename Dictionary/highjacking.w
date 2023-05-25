@@ -1,1 +1,1 @@
-{"index": 139269, "D": "to steal (cargo) from a truck or other vehicle after forcing it to stop", "S": ["aircraft piracy ", "airplane hijacking ", "hijacking ", "skyjacking "], "A": []}
+{"index": 139269, "D": "to steal (cargo) from a truck or other vehicle after forcing it to stop", "S": ["aircraft piracy", "airplane hijacking", "hijacking", "skyjacking"], "A": []}

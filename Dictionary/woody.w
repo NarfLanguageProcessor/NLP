@@ -1,1 +1,1 @@
-{"index": 367169, "D": "abounding with woods; wooded. ", "S": ["arboraceous ", "ligneous ", "sylvan ", "wooded ", "wooden ", "xyloid "], "A": []}
+{"index": 367169, "D": "abounding with woods; wooded. ", "S": ["arboraceous", "ligneous", "sylvan", "wooded", "wooden", "xyloid"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 305044, "D": "to poke, stir up, and feed (a fire).", "S": ["feed ", "stir "], "A": []}
+{"index": 305044, "D": "to poke, stir up, and feed (a fire).", "S": ["feed", "stir"], "A": []}

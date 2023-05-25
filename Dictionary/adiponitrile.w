@@ -1,0 +1,1 @@
+{"index": 3958, "D": "a colorless liquid, C6H8N2, used chiefly as an intermediate in the manufacture of nylon.", "S": [], "A": []}

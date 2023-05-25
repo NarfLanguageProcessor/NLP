@@ -1,1 +1,1 @@
-{"index": 232412, "D": "relating to or being a woman who is short and has a small, trim figure; diminutive", "S": ["dainty ", "diminutive "], "A": ["big ", "giant ", "great ", "huge ", "important ", "large "]}
+{"index": 232412, "D": "relating to or being a woman who is short and has a small, trim figure; diminutive", "S": ["dainty", "diminutive"], "A": ["big", "giant", "great", "huge", "important", "large"]}

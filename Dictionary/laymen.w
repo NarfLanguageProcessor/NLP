@@ -1,1 +1,1 @@
-{"index": 167423, "D": "a person who is not a member of the clergy; one of the laity.", "S": ["congregation ", "parish "], "A": []}
+{"index": 167423, "D": "a person who is not a member of the clergy; one of the laity.", "S": ["congregation", "parish"], "A": []}

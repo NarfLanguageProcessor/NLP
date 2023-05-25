@@ -1,1 +1,1 @@
-{"index": 777, "D": "to wear off or down by scraping or rubbing.", "S": ["chafe ", "erode ", "grate ", "rub ", "scuff ", "wear "], "A": ["make happy ", "please ", "rebuild "]}
+{"index": 777, "D": "to wear off or down by scraping or rubbing.", "S": ["chafe", "erode", "grate", "rub", "scuff", "wear"], "A": ["make happy", "please", "rebuild"]}

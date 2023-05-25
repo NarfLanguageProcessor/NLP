@@ -1,1 +1,1 @@
-{"index": 112875, "D": "any baleen whale  of the genus Balaenoptera, having a prominent dorsal fin,  especially B. physalus, of the Atlantic and Pacific coasts; rorqual", "S": ["mammal ", "porpoise "], "A": []}
+{"index": 112875, "D": "any baleen whale  of the genus Balaenoptera, having a prominent dorsal fin,  especially B. physalus, of the Atlantic and Pacific coasts; rorqual", "S": ["mammal", "porpoise"], "A": []}

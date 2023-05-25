@@ -1,1 +1,0 @@
-{"index": 284340, "D": "semiannual (def. 1). ", "S": ["biannual "], "A": []}

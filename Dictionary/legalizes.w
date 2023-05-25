@@ -1,1 +1,1 @@
-{"index": 170026, "D": "to make legal;  authorize.", "S": ["approve ", "authorize ", "codify ", "constitute ", "decriminalize ", "enact ", "permit ", "regulate "], "A": ["deny ", "disallow ", "disorganize ", "refuse ", "reject "]}
+{"index": 170026, "D": "to make legal;  authorize.", "S": ["approve", "authorize", "codify", "constitute", "decriminalize", "enact", "permit", "regulate"], "A": ["deny", "disallow", "disorganize", "refuse", "reject"]}

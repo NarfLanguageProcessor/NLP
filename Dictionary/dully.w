@@ -1,1 +1,1 @@
-{"index": 94000, "D": "not sharp; blunt", "S": ["densely ", "dimly ", "lethargically ", "listlessly ", "obtusely ", "slowly ", "sluggishly "], "A": []}
+{"index": 94000, "D": "not sharp; blunt", "S": ["densely", "dimly", "lethargically", "listlessly", "obtusely", "slowly", "sluggishly"], "A": []}

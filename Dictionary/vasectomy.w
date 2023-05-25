@@ -1,1 +1,1 @@
-{"index": 357372, "D": "excision of the vas deferens, or of a portion of it", "S": ["abstinence ", "condom ", "contraceptive ", "diaphragm ", "family planning ", "pill "], "A": []}
+{"index": 357372, "D": "excision of the vas deferens, or of a portion of it", "S": ["abstinence", "condom", "contraceptive", "diaphragm", "family planning", "pill"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 124718, "D": "affected with vertigo; dizzy. ", "S": ["bemused ", "dizzy ", "gaga ", "skittish ", "woozy "], "A": ["calm ", "careful ", "level-headed ", "sensible ", "serious "]}
+{"index": 124718, "D": "affected with vertigo; dizzy. ", "S": ["bemused", "dizzy", "gaga", "skittish", "woozy"], "A": ["calm", "careful", "level-headed", "sensible", "serious"]}

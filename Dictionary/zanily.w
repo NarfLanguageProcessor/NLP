@@ -1,1 +1,0 @@
-{"index": 368835, "D": "ludicrously or whimsically comical; clownish.", "S": [], "A": []}

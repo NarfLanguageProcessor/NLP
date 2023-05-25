@@ -1,1 +1,1 @@
-{"index": 329094, "D": "the process of sorting victims, as of a battle or disaster, to determine medical priority in order to increase the number of survivors.", "S": ["emphasize ", "prioritize ", "sort "], "A": ["ignore "]}
+{"index": 329094, "D": "the process of sorting victims, as of a battle or disaster, to determine medical priority in order to increase the number of survivors.", "S": ["emphasize", "prioritize", "sort"], "A": ["ignore"]}

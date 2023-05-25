@@ -1,1 +1,1 @@
-{"index": 72867, "D": "a child's bed with enclosed sides.", "S": ["take "], "A": []}
+{"index": 72867, "D": "a child's bed with enclosed sides.", "S": ["take"], "A": []}

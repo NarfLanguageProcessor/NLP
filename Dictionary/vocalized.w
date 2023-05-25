@@ -1,1 +1,1 @@
-{"index": 360889, "D": "to make vocal; utter; articulate; sing.", "S": ["choral ", "lyric ", "oral ", "singing ", "sung ", "voiced ", "vowel "], "A": []}
+{"index": 360889, "D": "to make vocal; utter; articulate; sing.", "S": ["choral", "lyric", "oral", "singing", "sung", "voiced", "vowel"], "A": []}

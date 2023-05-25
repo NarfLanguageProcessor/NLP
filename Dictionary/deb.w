@@ -1,1 +1,1 @@
-{"index": 77682, "D": "a debutante.", "S": ["teenage girl ", "young girl ", "young lady "], "A": []}
+{"index": 77682, "D": "a debutante.", "S": ["teenage girl", "young girl", "young lady"], "A": []}

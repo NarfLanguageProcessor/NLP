@@ -1,1 +1,1 @@
-{"index": 121932, "D": "a passageway, especially a narrow walkway.", "S": ["corridor ", "gangplank ", "passageway ", "walkway "], "A": []}
+{"index": 121932, "D": "a passageway, especially a narrow walkway.", "S": ["corridor", "gangplank", "passageway", "walkway"], "A": []}

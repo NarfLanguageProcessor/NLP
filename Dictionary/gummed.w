@@ -1,1 +1,1 @@
-{"index": 131281, "D": "covered with a gummy substance.", "S": ["gummy ", "sticky "], "A": ["loose ", "open ", "separated "]}
+{"index": 131281, "D": "covered with a gummy substance.", "S": ["gummy", "sticky"], "A": ["loose", "open", "separated"]}

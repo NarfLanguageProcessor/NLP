@@ -1,1 +1,1 @@
-{"index": 357541, "D": "an arched structure, usually made of stones, concrete, or bricks, forming a ceiling or roof over a hall, room, sewer, or other wholly or partially enclosed construction.", "S": ["basement ", "box ", "cellar ", "mausoleum ", "pit ", "safe ", "tomb "], "A": ["attic "]}
+{"index": 357541, "D": "an arched structure, usually made of stones, concrete, or bricks, forming a ceiling or roof over a hall, room, sewer, or other wholly or partially enclosed construction.", "S": ["basement", "box", "cellar", "mausoleum", "pit", "safe", "tomb"], "A": ["attic"]}

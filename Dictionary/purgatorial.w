@@ -1,1 +1,1 @@
-{"index": 256927, "D": "removing or purging  sin; expiatory", "S": ["purging "], "A": []}
+{"index": 256927, "D": "removing or purging  sin; expiatory", "S": ["purging"], "A": []}

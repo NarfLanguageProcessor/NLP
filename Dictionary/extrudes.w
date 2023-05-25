@@ -1,1 +1,1 @@
-{"index": 108769, "D": "to thrust out; force or press out; expel", "S": ["boot ", "chase ", "dismiss ", "eject ", "evict ", "expel ", "press ", "project ", "squeeze ", "thrust "], "A": ["admit ", "keep ", "pull ", "take in ", "welcome "]}
+{"index": 108769, "D": "to thrust out; force or press out; expel", "S": ["boot", "chase", "dismiss", "eject", "evict", "expel", "press", "project", "squeeze", "thrust"], "A": ["admit", "keep", "pull", "take in", "welcome"]}

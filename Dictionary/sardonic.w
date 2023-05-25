@@ -1,1 +1,1 @@
-{"index": 278458, "D": "characterized by bitter or scornful derision; mocking;  sneering; cynical; a sardonic grin.", "S": ["acerbic ", "biting ", "caustic ", "derisive ", "mocking ", "mordant ", "satirical "], "A": ["calm ", "kind ", "mild ", "nice "]}
+{"index": 278458, "D": "characterized by bitter or scornful derision; mocking;  sneering; cynical; a sardonic grin.", "S": ["acerbic", "biting", "caustic", "derisive", "mocking", "mordant", "satirical"], "A": ["calm", "kind", "mild", "nice"]}

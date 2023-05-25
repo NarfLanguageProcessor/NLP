@@ -1,1 +1,1 @@
-{"index": 249406, "D": "to keep alive or in existence; make lasting", "S": ["right-winger ", "traditionalist "], "A": ["left-winger ", "liberal ", "progressive ", "radical "]}
+{"index": 249406, "D": "to keep alive or in existence; make lasting", "S": ["right-winger", "traditionalist"], "A": ["left-winger", "liberal", "progressive", "radical"]}

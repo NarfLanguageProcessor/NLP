@@ -1,1 +1,1 @@
-{"index": 273379, "D": "a natural stream of water of fairly large size flowing in a definite course or channel or series of diverging and converging channels.", "S": ["estuary ", "stream ", "tributary "], "A": []}
+{"index": 273379, "D": "a natural stream of water of fairly large size flowing in a definite course or channel or series of diverging and converging channels.", "S": ["estuary", "stream", "tributary"], "A": []}

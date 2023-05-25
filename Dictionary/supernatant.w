@@ -1,1 +1,1 @@
-{"index": 312272, "D": "floating above or on the surface.", "S": ["bouncy ", "resilient "], "A": ["depressed ", "down ", "heavy ", "heavy-hearted ", "weighted "]}
+{"index": 312272, "D": "floating above or on the surface.", "S": ["bouncy", "resilient"], "A": ["depressed", "down", "heavy", "heavy-hearted", "weighted"]}

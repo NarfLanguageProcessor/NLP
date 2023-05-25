@@ -1,1 +1,1 @@
-{"index": 117124, "D": "without ever ending; eternally", "S": ["always ", "endlessly ", "eternally ", "permanently "], "A": ["briefly ", "never ", "temporarily "]}
+{"index": 117124, "D": "without ever ending; eternally", "S": ["always", "endlessly", "eternally", "permanently"], "A": ["briefly", "never", "temporarily"]}

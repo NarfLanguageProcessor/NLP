@@ -1,1 +1,1 @@
-{"index": 144517, "D": "a small, very humble dwelling house; a wretched hut.", "S": ["cottage ", "hut ", "lean-to ", "shack ", "shanty "], "A": []}
+{"index": 144517, "D": "a small, very humble dwelling house; a wretched hut.", "S": ["cottage", "hut", "lean-to", "shack", "shanty"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 191538, "D": [], "S": ["demulcent ", "emollient ", "lenitive ", "mollifying ", "pianissimo "], "A": []}
+{"index": 191538, "D": [], "S": ["demulcent", "emollient", "lenitive", "mollifying", "pianissimo"], "A": []}

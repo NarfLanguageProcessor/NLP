@@ -1,1 +1,1 @@
-{"index": 120362, "D": "forked; branching.", "S": ["cut across "], "A": ["combine ", "join ", "unite "]}
+{"index": 120362, "D": "forked; branching.", "S": ["cut across"], "A": ["combine", "join", "unite"]}

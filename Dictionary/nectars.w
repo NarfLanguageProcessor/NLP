@@ -1,1 +1,1 @@
-{"index": 197887, "D": "the saccharine secretion of a plant, which attracts the insects or birds that pollinate the flower.", "S": ["honey "], "A": []}
+{"index": 197887, "D": "the saccharine secretion of a plant, which attracts the insects or birds that pollinate the flower.", "S": ["honey"], "A": []}

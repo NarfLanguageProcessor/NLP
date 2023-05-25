@@ -1,1 +1,1 @@
-{"index": 256702, "D": [], "S": ["no-see-um ", "punk ", "punkie ", "punky "], "A": []}
+{"index": 256702, "D": [], "S": ["no-see-um", "punk", "punkie", "punky"], "A": []}

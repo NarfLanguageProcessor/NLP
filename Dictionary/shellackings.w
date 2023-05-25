@@ -1,1 +1,1 @@
-{"index": 287944, "D": "an utter defeat", "S": ["annihilation ", "beating ", "collapse ", "conquest ", "drubbing ", "failure ", "fall ", "licking ", "massacre ", "overthrow ", "rout ", "slaughter ", "thrashing ", "trouncing ", "waxing ", "whipping "], "A": ["rise ", "success ", "win "]}
+{"index": 287944, "D": "an utter defeat", "S": ["annihilation", "beating", "collapse", "conquest", "drubbing", "failure", "fall", "licking", "massacre", "overthrow", "rout", "slaughter", "thrashing", "trouncing", "waxing", "whipping"], "A": ["rise", "success", "win"]}

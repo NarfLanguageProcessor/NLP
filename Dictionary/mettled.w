@@ -1,1 +1,1 @@
-{"index": 185526, "D": "spirited, courageous, or valiant", "S": ["ardent ", "fiery ", "peppery ", "plucky ", "spirited ", "spunky ", "valiant "], "A": []}
+{"index": 185526, "D": "spirited, courageous, or valiant", "S": ["ardent", "fiery", "peppery", "plucky", "spirited", "spunky", "valiant"], "A": []}

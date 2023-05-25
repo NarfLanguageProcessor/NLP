@@ -1,1 +1,1 @@
-{"index": 169761, "D": "the plural of leaf. ", "S": ["frond ", "needle ", "petal ", "stalk "], "A": []}
+{"index": 169761, "D": "the plural of leaf. ", "S": ["frond", "needle", "petal", "stalk"], "A": []}

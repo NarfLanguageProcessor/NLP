@@ -1,1 +1,1 @@
-{"index": 81561, "D": "relying on someone or something else for aid, support, etc.", "S": ["defenseless ", "poor ", "reliant ", "vulnerable "], "A": ["strong ", "first-class ", "first-rate ", "important ", "major ", "superior "]}
+{"index": 81561, "D": "relying on someone or something else for aid, support, etc.", "S": ["defenseless", "poor", "reliant", "vulnerable"], "A": ["strong", "first-class", "first-rate", "important", "major", "superior"]}

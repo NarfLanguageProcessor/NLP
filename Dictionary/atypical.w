@@ -1,1 +1,1 @@
-{"index": 22646, "D": "not typical;  not conforming to the type; irregular; abnormal", "S": ["abnormal ", "anomalous ", "divergent ", "odd ", "peculiar ", "strange ", "unnatural "], "A": ["normal ", "regular ", "similar ", "standard ", "usual "]}
+{"index": 22646, "D": "not typical;  not conforming to the type; irregular; abnormal", "S": ["abnormal", "anomalous", "divergent", "odd", "peculiar", "strange", "unnatural"], "A": ["normal", "regular", "similar", "standard", "usual"]}

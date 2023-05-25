@@ -1,1 +1,0 @@
-{"index": 274842, "D": "having a flat, circular surface, as a disk.", "S": ["bulbous ", "curled ", "curved ", "cylindrical ", "elliptical ", "oval ", "rounded ", "spherical "], "A": ["straight "]}

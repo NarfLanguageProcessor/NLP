@@ -1,1 +1,1 @@
-{"index": 107782, "D": "a coming to an end; termination; close", "S": ["expiry ", "termination "], "A": ["beginning ", "birth ", "commencement ", "living ", "opening ", "start "]}
+{"index": 107782, "D": "a coming to an end; termination; close", "S": ["expiry", "termination"], "A": ["beginning", "birth", "commencement", "living", "opening", "start"]}

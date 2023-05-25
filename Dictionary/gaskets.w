@@ -1,1 +1,1 @@
-{"index": 122378, "D": "a rubber, metal, or rope ring, for packing a piston or placing around a joint to make it watertight.", "S": ["stopper "], "A": []}
+{"index": 122378, "D": "a rubber, metal, or rope ring, for packing a piston or placing around a joint to make it watertight.", "S": ["stopper"], "A": []}

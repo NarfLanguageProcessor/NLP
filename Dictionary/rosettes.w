@@ -1,1 +1,1 @@
-{"index": 274511, "D": "any arrangement, part, object, or formation more or less resembling a rose.", "S": ["screw ", "tangle "], "A": []}
+{"index": 274511, "D": "any arrangement, part, object, or formation more or less resembling a rose.", "S": ["screw", "tangle"], "A": []}

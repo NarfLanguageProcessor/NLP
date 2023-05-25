@@ -1,1 +1,1 @@
-{"index": 122801, "D": "a showy ornament or trinket.", "S": ["bauble ", "trifle ", "trinket "], "A": []}
+{"index": 122801, "D": "a showy ornament or trinket.", "S": ["bauble", "trifle", "trinket"], "A": []}

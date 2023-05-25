@@ -1,1 +1,1 @@
-{"index": 66571, "D": "to signify or suggest (certain meanings, ideas, etc.) in addition to the explicit or primary meaning", "S": ["accepted ", "granted ", "presumed "], "A": ["genuine ", "natural ", "real ", "unassumed ", "unexpected "]}
+{"index": 66571, "D": "to signify or suggest (certain meanings, ideas, etc.) in addition to the explicit or primary meaning", "S": ["accepted", "granted", "presumed"], "A": ["genuine", "natural", "real", "unassumed", "unexpected"]}

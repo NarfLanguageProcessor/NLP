@@ -1,1 +1,0 @@
-{"index": 249340, "D": "pertaining to or exhibiting the characteristics of presenility; prematurely old.", "S": [], "A": []}

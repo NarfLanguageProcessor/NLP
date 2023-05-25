@@ -1,1 +1,1 @@
-{"index": 317793, "D": "a teenage girl, especially a young one.", "S": ["juvenile ", "minor ", "teenager ", "youngster ", "youth "], "A": ["adult "]}
+{"index": 317793, "D": "a teenage girl, especially a young one.", "S": ["juvenile", "minor", "teenager", "youngster", "youth"], "A": ["adult"]}

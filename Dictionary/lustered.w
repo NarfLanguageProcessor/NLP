@@ -1,1 +1,1 @@
-{"index": 176398, "D": "having or finished with a luster. ", "S": ["gild ", "lacquer "], "A": ["dull ", "reveal ", "strip ", "uncover "]}
+{"index": 176398, "D": "having or finished with a luster. ", "S": ["gild", "lacquer"], "A": ["dull", "reveal", "strip", "uncover"]}

@@ -1,0 +1,1 @@
+{"index": 34053, "D": "a statement of money owed for goods or services supplied", "S": ["cash"], "A": []}

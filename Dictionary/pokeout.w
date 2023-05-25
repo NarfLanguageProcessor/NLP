@@ -1,1 +1,1 @@
-{"index": 241417, "D": [], "S": ["bloat ", "protrude ", "swell "], "A": ["shrink ", "tighten ", "abridge ", "compress ", "contract ", "lessen ", "lower ", "reduce "]}
+{"index": 241417, "D": [], "S": ["bloat", "protrude", "swell"], "A": ["shrink", "tighten", "abridge", "compress", "contract", "lessen", "lower", "reduce"]}

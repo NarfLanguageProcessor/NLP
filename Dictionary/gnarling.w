@@ -1,1 +1,1 @@
-{"index": 127020, "D": "a knotty protuberance on a tree; knot.", "S": ["grunt ", "howl ", "moan ", "rumble "], "A": []}
+{"index": 127020, "D": "a knotty protuberance on a tree; knot.", "S": ["grunt", "howl", "moan", "rumble"], "A": []}

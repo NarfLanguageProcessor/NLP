@@ -1,1 +1,1 @@
-{"index": 328941, "D": "the general course or prevailing tendency; drift", "S": ["bear ", "contribute ", "favor ", "go ", "gravitate ", "influence ", "lean ", "turn "], "A": ["dislike ", "hurt ", "shun ", "take ", "dissuade ", "follow ", "obey "]}
+{"index": 328941, "D": "the general course or prevailing tendency; drift", "S": ["bear", "contribute", "favor", "go", "gravitate", "influence", "lean", "turn"], "A": ["dislike", "hurt", "shun", "take", "dissuade", "follow", "obey"]}

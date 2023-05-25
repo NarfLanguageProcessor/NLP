@@ -1,1 +1,1 @@
-{"index": 18509, "D": "a person empowered to decide matters at issue; judge; umpire.", "S": ["arbitrator ", "go-between ", "mediator ", "moderator ", "referee "], "A": []}
+{"index": 18509, "D": "a person empowered to decide matters at issue; judge; umpire.", "S": ["arbitrator", "go-between", "mediator", "moderator", "referee"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 256085, "D": "a short, quick blast, as of wind or breath.", "S": ["whiff ", "wisp "], "A": []}
+{"index": 256085, "D": "a short, quick blast, as of wind or breath.", "S": ["whiff", "wisp"], "A": []}

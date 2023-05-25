@@ -1,1 +1,1 @@
-{"index": 356889, "D": "the portion of a shoe or boot upper that covers the instep and toes.", "S": ["offhand ", "spontaneous ", "unscripted "], "A": ["deliberate ", "planned "]}
+{"index": 356889, "D": "the portion of a shoe or boot upper that covers the instep and toes.", "S": ["offhand", "spontaneous", "unscripted"], "A": ["deliberate", "planned"]}

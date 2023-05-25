@@ -1,1 +1,1 @@
-{"index": 120624, "D": "an excessive display of anxious attention or activity; needless or useless bustle", "S": ["curse "], "A": ["accept ", "agree ", "approve ", "compliment ", "comply ", "go along ", "laud ", "praise ", "support "]}
+{"index": 120624, "D": "an excessive display of anxious attention or activity; needless or useless bustle", "S": ["curse"], "A": ["accept", "agree", "approve", "compliment", "comply", "go along", "laud", "praise", "support"]}

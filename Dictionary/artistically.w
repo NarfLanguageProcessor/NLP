@@ -1,1 +1,1 @@
-{"index": 20758, "D": "conforming to the standards of art;  satisfying aesthetic requirements", "S": ["adroitly ", "beautifully ", "delicately ", "easily ", "elegantly ", "graciously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "gracelessly ", "grotesquely "]}
+{"index": 20758, "D": "conforming to the standards of art;  satisfying aesthetic requirements", "S": ["adroitly", "beautifully", "delicately", "easily", "elegantly", "graciously", "neatly", "nimbly", "skillfully", "smoothly"], "A": ["awkwardly", "gracelessly", "grotesquely"]}

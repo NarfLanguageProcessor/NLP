@@ -1,1 +1,1 @@
-{"index": 145242, "D": "the act of throwing or casting, especially with great force or strength.", "S": ["casting "], "A": ["catch ", "keeping ", "retention "]}
+{"index": 145242, "D": "the act of throwing or casting, especially with great force or strength.", "S": ["casting"], "A": ["catch", "keeping", "retention"]}

@@ -1,1 +1,1 @@
-{"index": 324321, "D": "the art or process of printing with type.", "S": ["composition "], "A": []}
+{"index": 324321, "D": "the art or process of printing with type.", "S": ["composition"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 239928, "D": [], "S": ["alveolus ", "bronchi "], "A": []}
+{"index": 239928, "D": [], "S": ["alveolus", "bronchi"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 149919, "D": [], "S": ["incendiary ", "intemperate ", "provocative "], "A": ["calming ", "mitigating ", "placating ", "pleasing ", "tranquilizing "]}
+{"index": 149919, "D": [], "S": ["incendiary", "intemperate", "provocative"], "A": ["calming", "mitigating", "placating", "pleasing", "tranquilizing"]}

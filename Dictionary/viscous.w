@@ -1,1 +1,1 @@
-{"index": 360369, "D": "of a glutinous nature or consistency; sticky; thick; adhesive.", "S": ["gooey ", "slimy ", "syrupy "], "A": ["dry "]}
+{"index": 360369, "D": "of a glutinous nature or consistency; sticky; thick; adhesive.", "S": ["gooey", "slimy", "syrupy"], "A": ["dry"]}

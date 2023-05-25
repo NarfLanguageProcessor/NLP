@@ -1,1 +1,1 @@
-{"index": 38924, "D": "pavement made with small boulders. ", "S": ["mountaineering ", "rock climbing "], "A": []}
+{"index": 38924, "D": "pavement made with small boulders. ", "S": ["mountaineering", "rock climbing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 1823, "D": "to gather or collect, often in gradual degrees; heap up", "S": ["developing ", "expanding ", "growing ", "rising "], "A": []}
+{"index": 1823, "D": "to gather or collect, often in gradual degrees; heap up", "S": ["developing", "expanding", "growing", "rising"], "A": []}

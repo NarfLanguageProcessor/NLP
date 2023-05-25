@@ -1,1 +1,1 @@
-{"index": 86846, "D": "a woman's dress with a close-fitting bodice and full skirt, commonly of colorful and strikingly patterned material, fashioned after Tyrolean peasant wear.", "S": ["dress ", "kilt ", "petticoat ", "sarong "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 86846, "D": "a woman's dress with a close-fitting bodice and full skirt, commonly of colorful and strikingly patterned material, fashioned after Tyrolean peasant wear.", "S": ["dress", "kilt", "petticoat", "sarong"], "A": ["center", "inside", "interior", "middle"]}

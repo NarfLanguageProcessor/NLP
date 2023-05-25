@@ -1,1 +1,1 @@
-{"index": 35528, "D": "(in the game of blackjack) an ace together with a ten or a face card as the first two cards dealt.", "S": ["force ", "influence ", "intimidate ", "pressure ", "threaten "], "A": ["help "]}
+{"index": 35528, "D": "(in the game of blackjack) an ace together with a ten or a face card as the first two cards dealt.", "S": ["force", "influence", "intimidate", "pressure", "threaten"], "A": ["help"]}

@@ -1,0 +1,1 @@
+{"index": 34067, "D": "divided into two chambers or containing two compartments internally.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 67112, "D": "helping to improve; promoting further development or advancement (opposed to destructive)", "S": ["effective ", "positive ", "practical ", "productive ", "useful ", "valuable "], "A": ["fruitless ", "impotent ", "incapable ", "unproductive ", "useless ", "worthless "]}
+{"index": 67112, "D": "helping to improve; promoting further development or advancement (opposed to destructive)", "S": ["effective", "positive", "practical", "productive", "useful", "valuable"], "A": ["fruitless", "impotent", "incapable", "unproductive", "useless", "worthless"]}

@@ -1,1 +1,1 @@
-{"index": 64161, "D": "the ordinary people, as distinguished from those with authority, rank, station, etc.; the common people.", "S": ["common ", "commonality ", "commoner ", "pleb ", "plebeian ", "populace ", "public "], "A": []}
+{"index": 64161, "D": "the ordinary people, as distinguished from those with authority, rank, station, etc.; the common people.", "S": ["common", "commonality", "commoner", "pleb", "plebeian", "populace", "public"], "A": []}

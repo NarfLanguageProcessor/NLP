@@ -1,1 +1,1 @@
-{"index": 154115, "D": "to guarantee against loss or harm.", "S": ["assure ", "cover ", "guarantee ", "hedge ", "safeguard ", "shield ", "underwrite "], "A": ["endanger ", "lay bare ", "uncover "]}
+{"index": 154115, "D": "to guarantee against loss or harm.", "S": ["assure", "cover", "guarantee", "hedge", "safeguard", "shield", "underwrite"], "A": ["endanger", "lay bare", "uncover"]}

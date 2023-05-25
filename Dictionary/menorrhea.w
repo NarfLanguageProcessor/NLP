@@ -1,1 +1,1 @@
-{"index": 183427, "D": "menstrual flow.", "S": ["catamenia ", "menses "], "A": []}
+{"index": 183427, "D": "menstrual flow.", "S": ["catamenia", "menses"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 136533, "D": "from now on; from this point forward.", "S": ["from this point forward ", "from this time forth ", "hence ", "hereafter ", "in the future "], "A": []}
+{"index": 136533, "D": "from now on; from this point forward.", "S": ["from this point forward", "from this time forth", "hence", "hereafter", "in the future"], "A": []}

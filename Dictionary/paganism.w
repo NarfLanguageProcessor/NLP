@@ -1,1 +1,1 @@
-{"index": 222974, "D": "pagan  spirit or attitude in religious or moral questions.", "S": ["nihilism "], "A": ["belief ", "trust "]}
+{"index": 222974, "D": "pagan  spirit or attitude in religious or moral questions.", "S": ["nihilism"], "A": ["belief", "trust"]}

@@ -1,1 +1,1 @@
-{"index": 154394, "D": "done with intention  or on purpose; intended", "S": ["calculated ", "premeditated ", "voluntary ", "willful "], "A": ["involuntary ", "unwilling "]}
+{"index": 154394, "D": "done with intention  or on purpose; intended", "S": ["calculated", "premeditated", "voluntary", "willful"], "A": ["involuntary", "unwilling"]}

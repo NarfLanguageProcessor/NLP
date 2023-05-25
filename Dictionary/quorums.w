@@ -1,1 +1,1 @@
-{"index": 259141, "D": "the number of members of a group or organization required to be present to transact business legally, usually a majority.", "S": ["attendance ", "plenum "], "A": []}
+{"index": 259141, "D": "the number of members of a group or organization required to be present to transact business legally, usually a majority.", "S": ["attendance", "plenum"], "A": []}

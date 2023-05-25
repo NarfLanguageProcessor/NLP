@@ -1,1 +1,1 @@
-{"index": 173286, "D": "to make or become liquid. ", "S": ["deliquesce ", "dissolve ", "thaw "], "A": []}
+{"index": 173286, "D": "to make or become liquid. ", "S": ["deliquesce", "dissolve", "thaw"], "A": []}

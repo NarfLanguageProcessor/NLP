@@ -1,1 +1,1 @@
-{"index": 70247, "D": "costumer (def. 1). ", "S": ["architect ", "author ", "engineer ", "fashion designer ", "inventor ", "maker ", "planner ", "producer "], "A": []}
+{"index": 70247, "D": "costumer (def. 1). ", "S": ["architect", "author", "engineer", "fashion designer", "inventor", "maker", "planner", "producer"], "A": []}

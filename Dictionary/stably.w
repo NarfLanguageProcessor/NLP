@@ -1,1 +1,1 @@
-{"index": 302186, "D": "a building for the lodging and feeding of horses, cattle, etc.", "S": ["rigidly ", "securely ", "solidly ", "soundly ", "strongly ", "thoroughly ", "tightly "], "A": ["indefinitely ", "weakly "]}
+{"index": 302186, "D": "a building for the lodging and feeding of horses, cattle, etc.", "S": ["rigidly", "securely", "solidly", "soundly", "strongly", "thoroughly", "tightly"], "A": ["indefinitely", "weakly"]}

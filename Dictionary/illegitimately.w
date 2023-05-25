@@ -1,1 +1,1 @@
-{"index": 147347, "D": "born of parents who are not married to each other; born out of wedlock", "S": ["illicitly ", "unjustifiably ", "unjustly ", "wrongly "], "A": ["justly ", "rightly "]}
+{"index": 147347, "D": "born of parents who are not married to each other; born out of wedlock", "S": ["illicitly", "unjustifiably", "unjustly", "wrongly"], "A": ["justly", "rightly"]}

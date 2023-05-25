@@ -1,1 +1,1 @@
-{"index": 63641, "D": "a person or thing that combs. ", "S": ["swell ", "wave "], "A": []}
+{"index": 63641, "D": "a person or thing that combs. ", "S": ["swell", "wave"], "A": []}

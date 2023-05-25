@@ -1,1 +1,1 @@
-{"index": 227049, "D": "the quality or state of being particular. ", "S": ["idiosyncrasy ", "peculiarity ", "singularity ", "uniqueness "], "A": ["likeness ", "normality ", "sameness ", "similarity ", "standard ", "uniformity ", "usualness "]}
+{"index": 227049, "D": "the quality or state of being particular. ", "S": ["idiosyncrasy", "peculiarity", "singularity", "uniqueness"], "A": ["likeness", "normality", "sameness", "similarity", "standard", "uniformity", "usualness"]}

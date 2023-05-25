@@ -1,1 +1,0 @@
-{"index": 291349, "D": "of the nature of or pertaining to a syncarp. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 295739, "D": "the sport of swimming with a snorkel  and face mask.", "S": ["deep-sea diving ", "scuba diving "], "A": []}
+{"index": 295739, "D": "the sport of swimming with a snorkel  and face mask.", "S": ["deep-sea diving", "scuba diving"], "A": []}

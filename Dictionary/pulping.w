@@ -1,1 +1,0 @@
-{"index": 256349, "D": "the process of making pulp,  especially from wood, for use in the manufacture of paper, cardboard, etc.", "S": ["rubbish ", "trash "], "A": ["clean ", "moral ", "nice "]}

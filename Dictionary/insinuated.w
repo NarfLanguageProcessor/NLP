@@ -1,1 +1,1 @@
-{"index": 153634, "D": "to suggest or hint slyly", "S": ["hidden ", "implicit ", "indirect ", "latent ", "lurking ", "tacit ", "unspoken "], "A": ["explicit ", "open "]}
+{"index": 153634, "D": "to suggest or hint slyly", "S": ["hidden", "implicit", "indirect", "latent", "lurking", "tacit", "unspoken"], "A": ["explicit", "open"]}

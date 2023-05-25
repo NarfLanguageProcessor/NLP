@@ -1,1 +1,1 @@
-{"index": 292657, "D": "the act of a person or thing that sits.", "S": ["situated "], "A": ["standing "]}
+{"index": 292657, "D": "the act of a person or thing that sits.", "S": ["situated"], "A": ["standing"]}

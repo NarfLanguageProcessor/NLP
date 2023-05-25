@@ -1,1 +1,1 @@
-{"index": 111721, "D": "of, relating to, or having the character of a fetus. ", "S": ["during pregnancy "], "A": []}
+{"index": 111721, "D": "of, relating to, or having the character of a fetus. ", "S": ["during pregnancy"], "A": []}

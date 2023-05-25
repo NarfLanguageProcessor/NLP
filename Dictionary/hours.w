@@ -1,1 +1,1 @@
-{"index": 144376, "D": "a period regularly or customarily appointed for work, business, etc", "S": ["freedom ", "opportunity "], "A": ["inconvenience ", "inutility ", "unsuitability ", "uselessness ", "waste "]}
+{"index": 144376, "D": "a period regularly or customarily appointed for work, business, etc", "S": ["freedom", "opportunity"], "A": ["inconvenience", "inutility", "unsuitability", "uselessness", "waste"]}

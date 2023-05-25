@@ -1,1 +1,1 @@
-{"index": 122782, "D": "a cowboy of the South American pampas, usually of mixed Spanish and Indigenous ancestry.", "S": ["bronco "], "A": []}
+{"index": 122782, "D": "a cowboy of the South American pampas, usually of mixed Spanish and Indigenous ancestry.", "S": ["bronco"], "A": []}

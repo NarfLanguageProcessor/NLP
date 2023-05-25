@@ -1,1 +1,1 @@
-{"index": 116519, "D": "a prediction; portent.", "S": ["apprehension ", "dread ", "premonition "], "A": ["fortune ", "good omen ", "luck ", "providence "]}
+{"index": 116519, "D": "a prediction; portent.", "S": ["apprehension", "dread", "premonition"], "A": ["fortune", "good omen", "luck", "providence"]}

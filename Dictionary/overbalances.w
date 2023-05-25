@@ -1,1 +1,1 @@
-{"index": 218291, "D": "to outweigh", "S": ["bump ", "collapse ", "collide ", "ditch ", "dive ", "drop ", "hurtle ", "meet ", "overturn ", "plunge ", "slip ", "smash ", "topple ", "tumble "], "A": ["ascend ", "rise "]}
+{"index": 218291, "D": "to outweigh", "S": ["bump", "collapse", "collide", "ditch", "dive", "drop", "hurtle", "meet", "overturn", "plunge", "slip", "smash", "topple", "tumble"], "A": ["ascend", "rise"]}

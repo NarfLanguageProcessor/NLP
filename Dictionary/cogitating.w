@@ -1,1 +1,1 @@
-{"index": 62234, "D": "to think hard; ponder; meditate", "S": ["contemplative ", "deliberate ", "meditative ", "studious "], "A": ["ignorant ", "unthoughtful "]}
+{"index": 62234, "D": "to think hard; ponder; meditate", "S": ["contemplative", "deliberate", "meditative", "studious"], "A": ["ignorant", "unthoughtful"]}

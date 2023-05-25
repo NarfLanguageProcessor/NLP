@@ -1,1 +1,1 @@
-{"index": 364099, "D": "a ridge or wale on the surface of the body, as from a blow of a stick or whip.", "S": ["chastise ", "clobber ", "flog ", "smack ", "thrash "], "A": ["lose ", "praise ", "surrender "]}
+{"index": 364099, "D": "a ridge or wale on the surface of the body, as from a blow of a stick or whip.", "S": ["chastise", "clobber", "flog", "smack", "thrash"], "A": ["lose", "praise", "surrender"]}

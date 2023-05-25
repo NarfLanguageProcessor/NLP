@@ -1,1 +1,1 @@
-{"index": 247073, "D": "the fact or condition of being predisposed", "S": ["disposition ", "predilection ", "proclivity ", "propensity ", "susceptibility "], "A": ["antipathy ", "disinclination ", "dislike ", "hate ", "fairness ", "hatred ", "impartiality "]}
+{"index": 247073, "D": "the fact or condition of being predisposed", "S": ["disposition", "predilection", "proclivity", "propensity", "susceptibility"], "A": ["antipathy", "disinclination", "dislike", "hate", "fairness", "hatred", "impartiality"]}

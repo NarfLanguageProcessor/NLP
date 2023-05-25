@@ -1,1 +1,1 @@
-{"index": 72209, "D": "absolute; complete; utter", "S": ["complete ", "plain ", "sheer ", "total ", "utter "], "A": ["incomplete ", "uncertain ", "unfinished "]}
+{"index": 72209, "D": "absolute; complete; utter", "S": ["complete", "plain", "sheer", "total", "utter"], "A": ["incomplete", "uncertain", "unfinished"]}

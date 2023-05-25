@@ -1,1 +1,1 @@
-{"index": 38103, "D": "a studious or learned man; scholar.", "S": ["bibliophile ", "bookwoman ", "brain ", "erudite person ", "intellectual ", "know-it-all ", "man or woman of learning ", "man or woman of letters ", "sage ", "savant ", "scholar ", "walking encyclopedia "], "A": ["ignoramus "]}
+{"index": 38103, "D": "a studious or learned man; scholar.", "S": ["bibliophile", "bookwoman", "brain", "erudite person", "intellectual", "know-it-all", "man or woman of learning", "man or woman of letters", "sage", "savant", "scholar", "walking encyclopedia"], "A": ["ignoramus"]}

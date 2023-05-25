@@ -1,1 +1,1 @@
-{"index": 363890, "D": "to determine or ascertain the force that gravitation exerts upon (a person or thing) by use of a balance, scale, or other mechanical device", "S": ["counterbalance ", "heft ", "measure ", "scale "], "A": ["ignore ", "neglect "]}
+{"index": 363890, "D": "to determine or ascertain the force that gravitation exerts upon (a person or thing) by use of a balance, scale, or other mechanical device", "S": ["counterbalance", "heft", "measure", "scale"], "A": ["ignore", "neglect"]}

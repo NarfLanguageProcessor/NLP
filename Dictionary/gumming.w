@@ -1,1 +1,1 @@
-{"index": 131290, "D": "any of various viscid, amorphous exudations from plants, hardening on exposure to air and soluble in or forming a viscid mass with water.", "S": ["cement ", "fasten ", "fix ", "gum ", "mucilage ", "patch ", "plaster ", "spit ", "stick "], "A": []}
+{"index": 131290, "D": "any of various viscid, amorphous exudations from plants, hardening on exposure to air and soluble in or forming a viscid mass with water.", "S": ["cement", "fasten", "fix", "gum", "mucilage", "patch", "plaster", "spit", "stick"], "A": []}

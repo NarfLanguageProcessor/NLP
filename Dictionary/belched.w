@@ -1,1 +1,1 @@
-{"index": 31002, "D": "to eject gas spasmodically and noisily from the stomach through the mouth; eruct.", "S": ["emit ", "gush "], "A": []}
+{"index": 31002, "D": "to eject gas spasmodically and noisily from the stomach through the mouth; eruct.", "S": ["emit", "gush"], "A": []}

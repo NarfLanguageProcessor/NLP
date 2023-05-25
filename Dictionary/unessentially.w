@@ -1,1 +1,1 @@
-{"index": 341505, "D": "not of prime importance; not indispensable.", "S": ["avoidably ", "optionally ", "uselessly "], "A": ["indispensably ", "necessarily "]}
+{"index": 341505, "D": "not of prime importance; not indispensable.", "S": ["avoidably", "optionally", "uselessly"], "A": ["indispensably", "necessarily"]}

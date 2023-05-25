@@ -1,1 +1,1 @@
-{"index": 347805, "D": "able, fitted, or intended to persuade", "S": ["baseless ", "false ", "feeble ", "frivolous ", "groundless ", "lame ", "thin "], "A": ["solid ", "strong "]}
+{"index": 347805, "D": "able, fitted, or intended to persuade", "S": ["baseless", "false", "feeble", "frivolous", "groundless", "lame", "thin"], "A": ["solid", "strong"]}

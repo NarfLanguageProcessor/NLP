@@ -1,1 +1,1 @@
-{"index": 269267, "D": [], "S": ["emigrate ", "graft ", "immigrate ", "remove ", "uproot "], "A": ["plant ", "remain ", "sow ", "stay "]}
+{"index": 269267, "D": [], "S": ["emigrate", "graft", "immigrate", "remove", "uproot"], "A": ["plant", "remain", "sow", "stay"]}

@@ -1,1 +1,1 @@
-{"index": 29122, "D": "insane; crazy; eccentric.", "S": ["nuts ", "wacky "], "A": ["sane "]}
+{"index": 29122, "D": "insane; crazy; eccentric.", "S": ["nuts", "wacky"], "A": ["sane"]}

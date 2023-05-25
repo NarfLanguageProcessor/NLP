@@ -1,1 +1,1 @@
-{"index": 337087, "D": "not closed", "S": ["open ", "unlatched ", "unshut "], "A": []}
+{"index": 337087, "D": "not closed", "S": ["open", "unlatched", "unshut"], "A": []}

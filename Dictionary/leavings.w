@@ -1,1 +1,1 @@
-{"index": 169767, "D": "something remaining, such as food on a plate, residue, refuse, etc", "S": ["balance ", "debris ", "leftovers ", "legacy ", "oddments ", "remainder ", "remnant ", "remnants ", "residue ", "rest ", "scraps ", "surplus ", "survivor ", "trash "], "A": ["base ", "core "]}
+{"index": 169767, "D": "something remaining, such as food on a plate, residue, refuse, etc", "S": ["balance", "debris", "leftovers", "legacy", "oddments", "remainder", "remnant", "remnants", "residue", "rest", "scraps", "surplus", "survivor", "trash"], "A": ["base", "core"]}

@@ -1,1 +1,1 @@
-{"index": 85824, "D": "a cupronickel-clad coin of the U.S. and Canada, the 10th part of a dollar, equal to 10 cents.", "S": ["reveal "], "A": ["conceal ", "cover ", "hide ", "withhold "]}
+{"index": 85824, "D": "a cupronickel-clad coin of the U.S. and Canada, the 10th part of a dollar, equal to 10 cents.", "S": ["reveal"], "A": ["conceal", "cover", "hide", "withhold"]}

@@ -1,1 +1,1 @@
-{"index": 101854, "D": "a diplomatic agent.", "S": ["commission ", "contingent ", "embassy ", "gathering ", "organization "], "A": ["keeping "]}
+{"index": 101854, "D": "a diplomatic agent.", "S": ["commission", "contingent", "embassy", "gathering", "organization"], "A": ["keeping"]}

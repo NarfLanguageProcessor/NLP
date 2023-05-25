@@ -1,1 +1,1 @@
-{"index": 162107, "D": "in a way that shows good judgment or discernment; wisely or prudently", "S": ["accordingly ", "aptly ", "duly ", "justly ", "properly "], "A": ["unsuitably "]}
+{"index": 162107, "D": "in a way that shows good judgment or discernment; wisely or prudently", "S": ["accordingly", "aptly", "duly", "justly", "properly"], "A": ["unsuitably"]}

@@ -1,1 +1,1 @@
-{"index": 354529, "D": "the care and training of young children or a particular type of such care and training", "S": ["childhood ", "instruction ", "training "], "A": []}
+{"index": 354529, "D": "the care and training of young children or a particular type of such care and training", "S": ["childhood", "instruction", "training"], "A": []}

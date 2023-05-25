@@ -1,1 +1,1 @@
-{"index": 327404, "D": "to drag or let drag along the ground or other surface; draw or drag along behind.", "S": ["aisle ", "pathway ", "road ", "route ", "stream ", "train "], "A": []}
+{"index": 327404, "D": "to drag or let drag along the ground or other surface; draw or drag along behind.", "S": ["aisle", "pathway", "road", "route", "stream", "train"], "A": []}

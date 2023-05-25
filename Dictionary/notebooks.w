@@ -1,1 +1,1 @@
-{"index": 208863, "D": "a book  of notes", "S": ["binder ", "diary ", "journal ", "pad "], "A": []}
+{"index": 208863, "D": "a book  of notes", "S": ["binder", "diary", "journal", "pad"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 214250, "D": "of no special quality or interest; commonplace; unexceptional", "S": ["normalcy ", "normality "], "A": []}
+{"index": 214250, "D": "of no special quality or interest; commonplace; unexceptional", "S": ["normalcy", "normality"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 33835, "D": "a very brief, close-fitting, two-piece bathing suit for women or girls.", "S": ["swimsuit "], "A": []}
+{"index": 33835, "D": "a very brief, close-fitting, two-piece bathing suit for women or girls.", "S": ["swimsuit"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150622, "D": "to curve or cause to curve inward.", "S": ["curved ", "curving ", "devious ", "errant ", "gnarled ", "meandering ", "serpentine ", "sinuous ", "twisted ", "twisting ", "winding "], "A": ["straight ", "unbent "]}
+{"index": 150622, "D": "to curve or cause to curve inward.", "S": ["curved", "curving", "devious", "errant", "gnarled", "meandering", "serpentine", "sinuous", "twisted", "twisting", "winding"], "A": ["straight", "unbent"]}

@@ -1,1 +1,1 @@
-{"index": 187181, "D": "aggressive activism or combativeness in supporting or agitating for a cause", "S": ["adamancy ", "aggressiveness ", "assertiveness ", "combativeness ", "fierceness ", "pushiness "], "A": []}
+{"index": 187181, "D": "aggressive activism or combativeness in supporting or agitating for a cause", "S": ["adamancy", "aggressiveness", "assertiveness", "combativeness", "fierceness", "pushiness"], "A": []}

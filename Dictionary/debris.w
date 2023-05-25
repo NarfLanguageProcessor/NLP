@@ -1,1 +1,1 @@
-{"index": 77842, "D": "the remains of anything broken down or destroyed; ruins; rubble", "S": ["detritus ", "junk ", "remains ", "rubbish ", "rubble ", "trash ", "wreck ", "wreckage "], "A": ["belongings ", "possessions "]}
+{"index": 77842, "D": "the remains of anything broken down or destroyed; ruins; rubble", "S": ["detritus", "junk", "remains", "rubbish", "rubble", "trash", "wreck", "wreckage"], "A": ["belongings", "possessions"]}

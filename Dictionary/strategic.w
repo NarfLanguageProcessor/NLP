@@ -1,1 +1,0 @@
-{"index": 305841, "D": "pertaining to, characterized by, or of the nature of strategy", "S": ["critical ", "important ", "key ", "vital "], "A": ["inessential ", "insignificant ", "nonessential ", "trivial ", "unimportant "]}

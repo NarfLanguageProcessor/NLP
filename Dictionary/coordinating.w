@@ -1,1 +1,1 @@
-{"index": 68363, "D": "of the same order or degree; equal in rank or importance.", "S": ["identical "], "A": ["different ", "dissimilar ", "unlike "]}
+{"index": 68363, "D": "of the same order or degree; equal in rank or importance.", "S": ["identical"], "A": ["different", "dissimilar", "unlike"]}

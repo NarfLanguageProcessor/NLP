@@ -1,1 +1,1 @@
-{"index": 239144, "D": "variant of plasmo-  before a vowel", "S": ["beef ", "fat ", "meat ", "muscle "], "A": ["skinniness ", "thinness "]}
+{"index": 239144, "D": "variant of plasmo-  before a vowel", "S": ["beef", "fat", "meat", "muscle"], "A": ["skinniness", "thinness"]}

@@ -1,1 +1,1 @@
-{"index": 361563, "D": "the state or quality of being vulgar", "S": ["obscenity ", "profanity "], "A": ["decency ", "modesty ", "politeness "]}
+{"index": 361563, "D": "the state or quality of being vulgar", "S": ["obscenity", "profanity"], "A": ["decency", "modesty", "politeness"]}

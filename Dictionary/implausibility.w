@@ -1,1 +1,1 @@
-{"index": 148741, "D": "not plausible;  not having the appearance of truth or credibility", "S": ["implausibleness ", "improbableness ", "unlikeliness "], "A": []}
+{"index": 148741, "D": "not plausible;  not having the appearance of truth or credibility", "S": ["implausibleness", "improbableness", "unlikeliness"], "A": []}

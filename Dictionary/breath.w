@@ -1,1 +1,1 @@
-{"index": 40320, "D": "the air inhaled and exhaled in respiration.", "S": ["breathing ", "gasp "], "A": []}
+{"index": 40320, "D": "the air inhaled and exhaled in respiration.", "S": ["breathing", "gasp"], "A": []}

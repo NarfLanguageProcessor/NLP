@@ -1,1 +1,1 @@
-{"index": 266489, "D": "to put back profits from a previous investment into the same enterprise", "S": ["bring back ", "reelect ", "reestablish ", "reintroduce ", "renew ", "replace ", "restore ", "revive "], "A": ["destroy ", "kill "]}
+{"index": 266489, "D": "to put back profits from a previous investment into the same enterprise", "S": ["bring back", "reelect", "reestablish", "reintroduce", "renew", "replace", "restore", "revive"], "A": ["destroy", "kill"]}

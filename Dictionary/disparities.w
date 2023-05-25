@@ -1,1 +1,1 @@
-{"index": 88874, "D": "lack of similarity or equality; inequality; difference", "S": ["discrepancy ", "distinction ", "divergence ", "gap ", "imbalance ", "inequality ", "variation "], "A": ["agreement ", "harmony ", "similarity ", "equality "]}
+{"index": 88874, "D": "lack of similarity or equality; inequality; difference", "S": ["discrepancy", "distinction", "divergence", "gap", "imbalance", "inequality", "variation"], "A": ["agreement", "harmony", "similarity", "equality"]}

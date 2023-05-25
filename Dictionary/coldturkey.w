@@ -1,1 +1,1 @@
-{"index": 62678, "D": "abrupt and complete withdrawal from the use of an addictive substance, as a narcotic drug, alcohol, or tobacco.", "S": ["abrupt withdrawal ", "crash ", "detox ", "detoxification ", "on the wagon ", "sudden withdrawal ", "taking the cure "], "A": []}
+{"index": 62678, "D": "abrupt and complete withdrawal from the use of an addictive substance, as a narcotic drug, alcohol, or tobacco.", "S": ["abrupt withdrawal", "crash", "detox", "detoxification", "on the wagon", "sudden withdrawal", "taking the cure"], "A": []}

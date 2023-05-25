@@ -1,1 +1,1 @@
-{"index": 293359, "D": "fabric for making skirts. ", "S": ["adjacent ", "adjoining ", "neighboring "], "A": ["detached ", "separate "]}
+{"index": 293359, "D": "fabric for making skirts. ", "S": ["adjacent", "adjoining", "neighboring"], "A": ["detached", "separate"]}

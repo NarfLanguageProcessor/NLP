@@ -1,1 +1,1 @@
-{"index": 341821, "D": "not having been explored", "S": ["uncharted "], "A": ["explored "]}
+{"index": 341821, "D": "not having been explored", "S": ["uncharted"], "A": ["explored"]}

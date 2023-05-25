@@ -1,1 +1,1 @@
-{"index": 122944, "D": "awkward; ungainly; clumsy.", "S": ["awkward ", "bumbling ", "clownish ", "gauche ", "loutish ", "lumbering ", "lumpish ", "lumpy ", "maladroit ", "oafish ", "rude ", "rustic ", "splay ", "uncouth ", "ungainly "], "A": ["athletic ", "graceful ", "lithe "]}
+{"index": 122944, "D": "awkward; ungainly; clumsy.", "S": ["awkward", "bumbling", "clownish", "gauche", "loutish", "lumbering", "lumpish", "lumpy", "maladroit", "oafish", "rude", "rustic", "splay", "uncouth", "ungainly"], "A": ["athletic", "graceful", "lithe"]}

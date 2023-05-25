@@ -1,1 +1,1 @@
-{"index": 257191, "D": "to press upon or against (a thing) with force in order to move it away.", "S": ["advance ", "assault ", "attack ", "drive ", "effort ", "offensive ", "thrust "], "A": ["hesitation ", "idleness ", "laziness "]}
+{"index": 257191, "D": "to press upon or against (a thing) with force in order to move it away.", "S": ["advance", "assault", "attack", "drive", "effort", "offensive", "thrust"], "A": ["hesitation", "idleness", "laziness"]}

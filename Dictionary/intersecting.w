@@ -1,1 +1,1 @@
-{"index": 155885, "D": "to cut or divide by passing through or across", "S": ["cross ", "interlaced ", "interwoven ", "woven "], "A": []}
+{"index": 155885, "D": "to cut or divide by passing through or across", "S": ["cross", "interlaced", "interwoven", "woven"], "A": []}

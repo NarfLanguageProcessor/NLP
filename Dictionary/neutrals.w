@@ -1,1 +1,1 @@
-{"index": 199318, "D": "not taking part or giving assistance in a dispute or war between others", "S": ["camel ", "cream ", "khaki ", "off-white ", "tan ", "taupe "], "A": []}
+{"index": 199318, "D": "not taking part or giving assistance in a dispute or war between others", "S": ["camel", "cream", "khaki", "off-white", "tan", "taupe"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 81944, "D": "the act of appointing a person or persons to represent or act for another or others.", "S": ["committee ", "delegation "], "A": []}
+{"index": 81944, "D": "the act of appointing a person or persons to represent or act for another or others.", "S": ["committee", "delegation"], "A": []}

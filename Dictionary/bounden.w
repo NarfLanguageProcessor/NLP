@@ -1,1 +1,1 @@
-{"index": 38971, "D": "obligatory; compulsory", "S": ["beholden ", "binding ", "bound ", "committed ", "indebted ", "obligated ", "obligatory ", "pledged ", "under obligation "], "A": []}
+{"index": 38971, "D": "obligatory; compulsory", "S": ["beholden", "binding", "bound", "committed", "indebted", "obligated", "obligatory", "pledged", "under obligation"], "A": []}

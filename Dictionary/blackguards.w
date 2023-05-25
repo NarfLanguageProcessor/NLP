@@ -1,1 +1,1 @@
-{"index": 35507, "D": "a low, contemptible person; scoundrel.", "S": ["bum ", "cad ", "knave ", "lowlife ", "miscreant ", "riffraff ", "rogue ", "skunk ", "snake ", "villain "], "A": []}
+{"index": 35507, "D": "a low, contemptible person; scoundrel.", "S": ["bum", "cad", "knave", "lowlife", "miscreant", "riffraff", "rogue", "skunk", "snake", "villain"], "A": []}

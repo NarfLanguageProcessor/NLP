@@ -1,1 +1,1 @@
-{"index": 13637, "D": "formed of ringlike segments, as an annelid worm.", "S": ["annulated ", "circular ", "globular ", "ring-shaped ", "ringed ", "rounded ", "spherical "], "A": []}
+{"index": 13637, "D": "formed of ringlike segments, as an annelid worm.", "S": ["annulated", "circular", "globular", "ring-shaped", "ringed", "rounded", "spherical"], "A": []}

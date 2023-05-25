@@ -1,1 +1,1 @@
-{"index": 63983, "D": "a series of comments,  explanations, or annotations", "S": ["comment ", "criticism ", "critique ", "description ", "explanation ", "narration ", "observation ", "remark ", "review ", "treatise "], "A": ["compliment ", "praise ", "silence ", "disregard ", "neglect "]}
+{"index": 63983, "D": "a series of comments,  explanations, or annotations", "S": ["comment", "criticism", "critique", "description", "explanation", "narration", "observation", "remark", "review", "treatise"], "A": ["compliment", "praise", "silence", "disregard", "neglect"]}

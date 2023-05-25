@@ -1,1 +1,1 @@
-{"index": 213287, "D": "able to function or be used; functional", "S": ["practical ", "ready ", "useful ", "viable ", "working "], "A": ["impossible ", "unskilled ", "untrained ", "useless ", "worthless "]}
+{"index": 213287, "D": "able to function or be used; functional", "S": ["practical", "ready", "useful", "viable", "working"], "A": ["impossible", "unskilled", "untrained", "useless", "worthless"]}

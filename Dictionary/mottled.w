@@ -1,1 +1,1 @@
-{"index": 194110, "D": "spotted or blotched in coloring.", "S": ["marbled ", "streaked "], "A": ["plain "]}
+{"index": 194110, "D": "spotted or blotched in coloring.", "S": ["marbled", "streaked"], "A": ["plain"]}

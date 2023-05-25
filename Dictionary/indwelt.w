@@ -1,1 +1,1 @@
-{"index": 151443, "D": "to inhabit.", "S": ["locate ", "occupy ", "populate ", "possess ", "reside "], "A": ["lose ", "miss ", "depart ", "go ", "leave ", "move "]}
+{"index": 151443, "D": "to inhabit.", "S": ["locate", "occupy", "populate", "possess", "reside"], "A": ["lose", "miss", "depart", "go", "leave", "move"]}

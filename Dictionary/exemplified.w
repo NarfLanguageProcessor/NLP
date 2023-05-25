@@ -1,1 +1,1 @@
-{"index": 107019, "D": "shown or demonstrated by or as an example", "S": ["adorned ", "decorated ", "embellished ", "illuminated "], "A": []}
+{"index": 107019, "D": "shown or demonstrated by or as an example", "S": ["adorned", "decorated", "embellished", "illuminated"], "A": []}

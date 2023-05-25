@@ -1,1 +1,1 @@
-{"index": 97516, "D": [], "S": ["dwarfs ", "elves ", "fairies ", "fairyfolk ", "laborers ", "leprechauns ", "midgets ", "the unremarkable "], "A": []}
+{"index": 97516, "D": [], "S": ["dwarfs", "elves", "fairies", "fairyfolk", "laborers", "leprechauns", "midgets", "the unremarkable"], "A": []}

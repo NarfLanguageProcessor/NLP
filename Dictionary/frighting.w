@@ -1,1 +1,1 @@
-{"index": 119008, "D": "sudden and extreme fear; a sudden terror.", "S": ["agitate ", "alarm ", "amaze ", "astonish ", "astound ", "awe ", "scare ", "shake up ", "shock ", "stagger ", "stun ", "terrify "], "A": ["bore ", "calm ", "expect ", "reassure ", "soothe "]}
+{"index": 119008, "D": "sudden and extreme fear; a sudden terror.", "S": ["agitate", "alarm", "amaze", "astonish", "astound", "awe", "scare", "shake up", "shock", "stagger", "stun", "terrify"], "A": ["bore", "calm", "expect", "reassure", "soothe"]}

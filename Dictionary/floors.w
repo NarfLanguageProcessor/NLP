@@ -1,1 +1,1 @@
-{"index": 114947, "D": "that part of a room, hallway, or the like, that forms its lower enclosing surface and upon which one walks.", "S": ["carpet ", "carpeting ", "linoleum ", "tile ", "woodwork "], "A": []}
+{"index": 114947, "D": "that part of a room, hallway, or the like, that forms its lower enclosing surface and upon which one walks.", "S": ["carpet", "carpeting", "linoleum", "tile", "woodwork"], "A": []}

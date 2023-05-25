@@ -1,1 +1,1 @@
-{"index": 116822, "D": "pertaining to, connected with, or used in courts of law or public discussion and debate.", "S": ["argumentative ", "debatable ", "dialectic ", "dialectical ", "disputative ", "juridical ", "juristic ", "moot ", "polemical ", "rhetorical "], "A": []}
+{"index": 116822, "D": "pertaining to, connected with, or used in courts of law or public discussion and debate.", "S": ["argumentative", "debatable", "dialectic", "dialectical", "disputative", "juridical", "juristic", "moot", "polemical", "rhetorical"], "A": []}

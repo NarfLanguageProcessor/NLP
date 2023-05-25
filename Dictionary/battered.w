@@ -1,1 +1,1 @@
-{"index": 29110, "D": "a battered baby", "S": ["decrepit ", "ramshackle ", "run down "], "A": ["good ", "healthy "]}
+{"index": 29110, "D": "a battered baby", "S": ["decrepit", "ramshackle", "run down"], "A": ["good", "healthy"]}

@@ -1,1 +1,1 @@
-{"index": 72232, "D": "gross ignorance or stupidity.", "S": ["consistency ", "density ", "diameter ", "dimension ", "girth ", "layer ", "sheet ", "width "], "A": ["slenderness ", "slimness ", "thinness "]}
+{"index": 72232, "D": "gross ignorance or stupidity.", "S": ["consistency", "density", "diameter", "dimension", "girth", "layer", "sheet", "width"], "A": ["slenderness", "slimness", "thinness"]}

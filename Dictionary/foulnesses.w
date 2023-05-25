@@ -1,1 +1,1 @@
-{"index": 117910, "D": "the state or quality of being foul", "S": ["bawdiness ", "coarseness ", "dirtiness ", "filthiness ", "indecency ", "lewdness ", "profaneness ", "profanity ", "salaciousness ", "smuttiness ", "vulgarity "], "A": ["decency ", "modesty "]}
+{"index": 117910, "D": "the state or quality of being foul", "S": ["bawdiness", "coarseness", "dirtiness", "filthiness", "indecency", "lewdness", "profaneness", "profanity", "salaciousness", "smuttiness", "vulgarity"], "A": ["decency", "modesty"]}

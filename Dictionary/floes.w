@@ -1,1 +1,1 @@
-{"index": 114877, "D": "a sheet of floating ice, chiefly on the surface of the sea, smaller than an ice field.", "S": ["ice floe ", "iceberg "], "A": []}
+{"index": 114877, "D": "a sheet of floating ice, chiefly on the surface of the sea, smaller than an ice field.", "S": ["ice floe", "iceberg"], "A": []}

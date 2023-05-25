@@ -1,1 +1,1 @@
-{"index": 210786, "D": "the branch of physical geography dealing with the ocean. ", "S": ["aquatic ", "coastal ", "deep-sea ", "maritime ", "naval ", "saltwater ", "seagoing "], "A": []}
+{"index": 210786, "D": "the branch of physical geography dealing with the ocean. ", "S": ["aquatic", "coastal", "deep-sea", "maritime", "naval", "saltwater", "seagoing"], "A": []}

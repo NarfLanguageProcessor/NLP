@@ -1,1 +1,1 @@
-{"index": 53263, "D": "to make cheap or cheaper.", "S": ["demeaning ", "derogatory ", "disgraceful ", "humiliating "], "A": []}
+{"index": 53263, "D": "to make cheap or cheaper.", "S": ["demeaning", "derogatory", "disgraceful", "humiliating"], "A": []}

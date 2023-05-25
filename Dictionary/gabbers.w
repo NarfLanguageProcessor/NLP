@@ -1,1 +1,1 @@
-{"index": 120776, "D": "to talk or chat idly; chatter. ", "S": ["babbler ", "blabber ", "blowhard ", "chatterbox ", "chatterer ", "gasbag ", "gossiper ", "gossipmonger ", "jabberer ", "loudmouth ", "squealer ", "tattletale ", "windbag "], "A": []}
+{"index": 120776, "D": "to talk or chat idly; chatter. ", "S": ["babbler", "blabber", "blowhard", "chatterbox", "chatterer", "gasbag", "gossiper", "gossipmonger", "jabberer", "loudmouth", "squealer", "tattletale", "windbag"], "A": []}

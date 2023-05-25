@@ -1,1 +1,1 @@
-{"index": 153156, "D": "the act or process of inoculating. ", "S": ["injection ", "prevention ", "shot ", "vaccination "], "A": []}
+{"index": 153156, "D": "the act or process of inoculating. ", "S": ["injection", "prevention", "shot", "vaccination"], "A": []}

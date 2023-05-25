@@ -1,1 +1,1 @@
-{"index": 161904, "D": "a person who has served an apprenticeship at a trade or handicraft and is certified to work at it assisting or under another person.", "S": ["artisan ", "craftsman ", "tradesman ", "worker "], "A": []}
+{"index": 161904, "D": "a person who has served an apprenticeship at a trade or handicraft and is certified to work at it assisting or under another person.", "S": ["artisan", "craftsman", "tradesman", "worker"], "A": []}

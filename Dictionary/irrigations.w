@@ -1,1 +1,1 @@
-{"index": 158458, "D": "the artificial application of water to land to assist in the production of crops.", "S": ["flooding ", "inundation ", "soaking ", "sprinkling "], "A": []}
+{"index": 158458, "D": "the artificial application of water to land to assist in the production of crops.", "S": ["flooding", "inundation", "soaking", "sprinkling"], "A": []}

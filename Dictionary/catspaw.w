@@ -1,1 +1,1 @@
-{"index": 49834, "D": "a person used to serve the purposes of another; tool. ", "S": ["cat's-paw ", "cooling breeze ", "ocean breeze ", "onshore breeze "], "A": []}
+{"index": 49834, "D": "a person used to serve the purposes of another; tool. ", "S": ["cat's-paw", "cooling breeze", "ocean breeze", "onshore breeze"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 251943, "D": "the act of progressing;  forward or onward movement.", "S": ["advancement ", "breakthrough ", "evolution "], "A": ["halt ", "stoppage ", "block ", "decline ", "decrease ", "failure ", "hindrance ", "impediment ", "stagnation ", "worsening "]}
+{"index": 251943, "D": "the act of progressing;  forward or onward movement.", "S": ["advancement", "breakthrough", "evolution"], "A": ["halt", "stoppage", "block", "decline", "decrease", "failure", "hindrance", "impediment", "stagnation", "worsening"]}

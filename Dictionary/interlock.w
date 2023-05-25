@@ -1,1 +1,1 @@
-{"index": 155229, "D": "to fit into each other, as parts of machinery, so that all action is synchronized.", "S": ["interlace ", "interlink ", "intertwine "], "A": []}
+{"index": 155229, "D": "to fit into each other, as parts of machinery, so that all action is synchronized.", "S": ["interlace", "interlink", "intertwine"], "A": []}

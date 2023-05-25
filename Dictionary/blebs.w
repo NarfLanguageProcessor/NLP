@@ -1,1 +1,1 @@
-{"index": 35991, "D": "a blister or vesicle.", "S": ["abscess ", "cyst ", "pimple ", "sore ", "ulcer ", "welt "], "A": []}
+{"index": 35991, "D": "a blister or vesicle.", "S": ["abscess", "cyst", "pimple", "sore", "ulcer", "welt"], "A": []}

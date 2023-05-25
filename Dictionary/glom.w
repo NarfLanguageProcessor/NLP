@@ -1,1 +1,1 @@
-{"index": 126558, "D": "to steal.", "S": ["capture ", "detention ", "imprisonment ", "incarceration ", "jailing "], "A": ["freedom ", "release ", "liberation ", "refusal ", "rise "]}
+{"index": 126558, "D": "to steal.", "S": ["capture", "detention", "imprisonment", "incarceration", "jailing"], "A": ["freedom", "release", "liberation", "refusal", "rise"]}

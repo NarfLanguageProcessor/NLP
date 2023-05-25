@@ -1,1 +1,1 @@
-{"index": 2251, "D": "to bring to a successful end; carry through; accomplish", "S": ["attainable ", "feasible ", "obtainable "], "A": []}
+{"index": 2251, "D": "to bring to a successful end; carry through; accomplish", "S": ["attainable", "feasible", "obtainable"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 329095, "D": [], "S": ["trilateral "], "A": []}
+{"index": 329095, "D": [], "S": ["trilateral"], "A": []}

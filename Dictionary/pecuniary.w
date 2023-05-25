@@ -1,1 +1,1 @@
-{"index": 228714, "D": "of or relating to money", "S": ["monetary "], "A": []}
+{"index": 228714, "D": "of or relating to money", "S": ["monetary"], "A": []}

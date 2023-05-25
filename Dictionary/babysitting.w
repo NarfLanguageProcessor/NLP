@@ -1,1 +1,1 @@
-{"index": 25550, "D": "to take charge of a child while the parents are temporarily away.", "S": ["day care ", "governance "], "A": []}
+{"index": 25550, "D": "to take charge of a child while the parents are temporarily away.", "S": ["day care", "governance"], "A": []}

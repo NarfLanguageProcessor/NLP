@@ -1,1 +1,1 @@
-{"index": 82576, "D": "(of a truth value) corresponding to truth in a two-valued logic, or having one of the analogous values in a many-valued logic", "S": ["appropriated ", "booked "], "A": ["avoidable "]}
+{"index": 82576, "D": "(of a truth value) corresponding to truth in a two-valued logic, or having one of the analogous values in a many-valued logic", "S": ["appropriated", "booked"], "A": ["avoidable"]}

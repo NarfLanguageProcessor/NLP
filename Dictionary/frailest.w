@@ -1,1 +1,1 @@
-{"index": 118260, "D": "having delicate health; not robust; weak", "S": ["decrepit ", "feeble ", "fragile ", "infirm ", "sickly ", "slender ", "slim ", "thin ", "vulnerable "], "A": ["fat ", "firm ", "healthy ", "hearty ", "solid ", "sound ", "strong ", "heavy ", "rough ", "thick ", "tough "]}
+{"index": 118260, "D": "having delicate health; not robust; weak", "S": ["decrepit", "feeble", "fragile", "infirm", "sickly", "slender", "slim", "thin", "vulnerable"], "A": ["fat", "firm", "healthy", "hearty", "solid", "sound", "strong", "heavy", "rough", "thick", "tough"]}

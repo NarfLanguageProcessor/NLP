@@ -1,1 +1,0 @@
-{"index": 300830, "D": "a shafted weapon having a pointed blade with crossbar at its base, used by infantry officers in the 17th and 18th centuries.", "S": ["nightstick ", "truncheon "], "A": []}

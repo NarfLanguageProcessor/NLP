@@ -1,1 +1,1 @@
-{"index": 155490, "D": "a person who is or has been interned,  as a prisoner of war.", "S": ["detainee ", "hostage ", "prisoner ", "prisoner of war ", "slave "], "A": ["independent "]}
+{"index": 155490, "D": "a person who is or has been interned,  as a prisoner of war.", "S": ["detainee", "hostage", "prisoner", "prisoner of war", "slave"], "A": ["independent"]}

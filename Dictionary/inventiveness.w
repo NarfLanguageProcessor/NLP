@@ -1,1 +1,1 @@
-{"index": 157102, "D": "apt at inventing or thinking up new machines or devices, methods, solutions, etc., or at improvising from what is at hand; innovative or ingenious", "S": ["creativeness ", "imagination ", "ingenuity ", "innovation ", "originality ", "resourcefulness "], "A": []}
+{"index": 157102, "D": "apt at inventing or thinking up new machines or devices, methods, solutions, etc., or at improvising from what is at hand; innovative or ingenious", "S": ["creativeness", "imagination", "ingenuity", "innovation", "originality", "resourcefulness"], "A": []}

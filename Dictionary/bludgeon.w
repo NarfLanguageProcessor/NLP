@@ -1,1 +1,1 @@
-{"index": 36683, "D": "a short, heavy club with one end weighted, or thicker and heavier than the other.", "S": ["bat ", "club ", "stick ", "truncheon "], "A": []}
+{"index": 36683, "D": "a short, heavy club with one end weighted, or thicker and heavier than the other.", "S": ["bat", "club", "stick", "truncheon"], "A": []}

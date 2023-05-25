@@ -1,1 +1,1 @@
-{"index": 285215, "D": "of, pertaining to, characteristic of, or befitting a senator  or senate", "S": ["congressional ", "parliamentary "], "A": []}
+{"index": 285215, "D": "of, pertaining to, characteristic of, or befitting a senator  or senate", "S": ["congressional", "parliamentary"], "A": []}

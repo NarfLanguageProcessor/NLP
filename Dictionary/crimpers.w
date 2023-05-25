@@ -1,1 +1,1 @@
-{"index": 73000, "D": "to press into small regular folds; make wavy.", "S": ["crimping iron ", "curler ", "curling tongs ", "hot iron ", "hot rollers ", "straightening iron "], "A": []}
+{"index": 73000, "D": "to press into small regular folds; make wavy.", "S": ["crimping iron", "curler", "curling tongs", "hot iron", "hot rollers", "straightening iron"], "A": []}

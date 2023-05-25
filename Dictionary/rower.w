@@ -1,1 +1,1 @@
-{"index": 275026, "D": "a number of persons or things arranged in a line, especially a straight line", "S": ["line ", "succession ", "tier "], "A": []}
+{"index": 275026, "D": "a number of persons or things arranged in a line, especially a straight line", "S": ["line", "succession", "tier"], "A": []}

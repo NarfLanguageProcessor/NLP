@@ -1,1 +1,1 @@
-{"index": 1659, "D": "to go along or in company with; join in action", "S": ["concomitant ", "with "], "A": []}
+{"index": 1659, "D": "to go along or in company with; join in action", "S": ["concomitant", "with"], "A": []}

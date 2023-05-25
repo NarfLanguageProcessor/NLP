@@ -1,1 +1,1 @@
-{"index": 177803, "D": "(used to express possibility)", "S": ["can "], "A": []}
+{"index": 177803, "D": "(used to express possibility)", "S": ["can"], "A": []}

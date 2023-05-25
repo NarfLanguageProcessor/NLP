@@ -1,1 +1,1 @@
-{"index": 214611, "D": "to take its origin  or rise; begin; start; arise", "S": ["arising ", "beginning ", "starting ", "stemming "], "A": []}
+{"index": 214611, "D": "to take its origin  or rise; begin; start; arise", "S": ["arising", "beginning", "starting", "stemming"], "A": []}

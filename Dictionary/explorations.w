@@ -1,1 +1,1 @@
-{"index": 107892, "D": "an act or instance of exploring  or investigating; examination.", "S": ["analysis ", "examination ", "expedition ", "inspection ", "research ", "search ", "study ", "travel "], "A": ["ignorance "]}
+{"index": 107892, "D": "an act or instance of exploring  or investigating; examination.", "S": ["analysis", "examination", "expedition", "inspection", "research", "search", "study", "travel"], "A": ["ignorance"]}

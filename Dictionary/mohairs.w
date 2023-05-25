@@ -1,1 +1,1 @@
-{"index": 191253, "D": "the coat or fleece of an Angora goat.", "S": ["cashmere ", "fleece ", "fur ", "hair ", "tweed ", "yarn "], "A": []}
+{"index": 191253, "D": "the coat or fleece of an Angora goat.", "S": ["cashmere", "fleece", "fur", "hair", "tweed", "yarn"], "A": []}

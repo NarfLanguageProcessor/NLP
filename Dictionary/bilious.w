@@ -1,1 +1,1 @@
-{"index": 33945, "D": "relating to bile  or to an excess secretion of bile.", "S": ["ailing ", "emaciated ", "wan "], "A": ["blushing ", "colorful ", "flushed ", "healthy "]}
+{"index": 33945, "D": "relating to bile  or to an excess secretion of bile.", "S": ["ailing", "emaciated", "wan"], "A": ["blushing", "colorful", "flushed", "healthy"]}

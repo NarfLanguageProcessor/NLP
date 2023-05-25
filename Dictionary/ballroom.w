@@ -1,1 +1,1 @@
-{"index": 27057, "D": "a large room, as in a hotel or resort, with a polished floor for dancing.", "S": ["amphitheater ", "arena ", "auditorium ", "chamber ", "church ", "gallery ", "gym ", "gymnasium ", "lounge ", "theater "], "A": []}
+{"index": 27057, "D": "a large room, as in a hotel or resort, with a polished floor for dancing.", "S": ["amphitheater", "arena", "auditorium", "chamber", "church", "gallery", "gym", "gymnasium", "lounge", "theater"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 34552, "D": "the part of the earth's crust, waters, and atmosphere that supports life.", "S": ["atmosphere ", "ecosystem "], "A": []}
+{"index": 34552, "D": "the part of the earth's crust, waters, and atmosphere that supports life.", "S": ["atmosphere", "ecosystem"], "A": []}

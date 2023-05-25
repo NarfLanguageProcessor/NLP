@@ -1,0 +1,1 @@
+{"index": 14054, "D": "relieving or preventing asthma or an asthmatic  paroxysm.", "S": [], "A": []}

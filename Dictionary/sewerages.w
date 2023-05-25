@@ -1,1 +1,1 @@
-{"index": 286797, "D": "the removal of waste water and refuse by means of sewers. ", "S": ["bilge ", "effluent ", "effluvium ", "waste "], "A": []}
+{"index": 286797, "D": "the removal of waste water and refuse by means of sewers. ", "S": ["bilge", "effluent", "effluvium", "waste"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 169545, "D": "to go before or with to show the way; conduct or escort", "S": ["advantage ", "edge ", "margin ", "point ", "start ", "supremacy ", "top "], "A": ["center ", "disadvantage ", "interior ", "rear "]}
+{"index": 169545, "D": "to go before or with to show the way; conduct or escort", "S": ["advantage", "edge", "margin", "point", "start", "supremacy", "top"], "A": ["center", "disadvantage", "interior", "rear"]}

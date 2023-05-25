@@ -1,1 +1,1 @@
-{"index": 214539, "D": "a bay window, especially one cantilevered or corbeled out from a wall.", "S": ["compartment ", "niche ", "nook ", "opening ", "recess "], "A": []}
+{"index": 214539, "D": "a bay window, especially one cantilevered or corbeled out from a wall.", "S": ["compartment", "niche", "nook", "opening", "recess"], "A": []}

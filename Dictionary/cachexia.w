@@ -1,1 +1,1 @@
-{"index": 44089, "D": "general ill health with emaciation, usually occurring in association with cancer or a chronic infectious disease.", "S": ["affliction ", "ailment ", "disease ", "malady ", "sickness "], "A": ["health ", "happiness "]}
+{"index": 44089, "D": "general ill health with emaciation, usually occurring in association with cancer or a chronic infectious disease.", "S": ["affliction", "ailment", "disease", "malady", "sickness"], "A": ["health", "happiness"]}

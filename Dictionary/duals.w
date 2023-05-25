@@ -1,1 +1,1 @@
-{"index": 93662, "D": "of, relating to, or noting two.", "S": ["couple ", "double ", "pair ", "team "], "A": []}
+{"index": 93662, "D": "of, relating to, or noting two.", "S": ["couple", "double", "pair", "team"], "A": []}

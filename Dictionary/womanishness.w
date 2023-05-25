@@ -1,1 +1,1 @@
-{"index": 366968, "D": "womanlike or feminine.", "S": ["femaleness ", "feminineness ", "femininity ", "sissiness ", "unmanliness "], "A": []}
+{"index": 366968, "D": "womanlike or feminine.", "S": ["femaleness", "feminineness", "femininity", "sissiness", "unmanliness"], "A": []}

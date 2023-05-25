@@ -1,1 +1,1 @@
-{"index": 84825, "D": "divided or dividing into two parts.", "S": ["angled ", "bifurcate ", "bifurcated ", "branched ", "branching ", "divaricate ", "divided ", "furcate ", "split ", "tined ", "zigzag "], "A": ["joined "]}
+{"index": 84825, "D": "divided or dividing into two parts.", "S": ["angled", "bifurcate", "bifurcated", "branched", "branching", "divaricate", "divided", "furcate", "split", "tined", "zigzag"], "A": ["joined"]}

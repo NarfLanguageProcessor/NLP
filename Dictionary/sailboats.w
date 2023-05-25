@@ -1,1 +1,1 @@
-{"index": 276779, "D": "aboat  having sails  as its principal means of propulsion.", "S": ["catamaran ", "craft ", "cutter ", "schooner ", "ship ", "skiff ", "sloop ", "vessel ", "yacht "], "A": []}
+{"index": 276779, "D": "aboat  having sails  as its principal means of propulsion.", "S": ["catamaran", "craft", "cutter", "schooner", "ship", "skiff", "sloop", "vessel", "yacht"], "A": []}

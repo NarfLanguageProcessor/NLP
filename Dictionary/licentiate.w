@@ -1,1 +1,1 @@
-{"index": 171633, "D": "a person who has received a license, as from a university, to practice an art or profession.", "S": ["alum ", "alumna ", "alumnus ", "doctor ", "grad ", "recipient "], "A": ["undergraduate "]}
+{"index": 171633, "D": "a person who has received a license, as from a university, to practice an art or profession.", "S": ["alum", "alumna", "alumnus", "doctor", "grad", "recipient"], "A": ["undergraduate"]}

@@ -1,1 +1,1 @@
-{"index": 151456, "D": "drunkenness; intoxication.", "S": ["alcoholism ", "boozing ", "crapulence ", "dipsomania ", "inebriation ", "insobriety ", "intemperance ", "intoxication ", "tipsiness "], "A": []}
+{"index": 151456, "D": "drunkenness; intoxication.", "S": ["alcoholism", "boozing", "crapulence", "dipsomania", "inebriation", "insobriety", "intemperance", "intoxication", "tipsiness"], "A": []}

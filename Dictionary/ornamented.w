@@ -1,1 +1,1 @@
-{"index": 214698, "D": "(of a character) highly embellished or ornate; altered by embellishment.", "S": ["florid ", "ornate ", "rococo "], "A": ["plain "]}
+{"index": 214698, "D": "(of a character) highly embellished or ornate; altered by embellishment.", "S": ["florid", "ornate", "rococo"], "A": ["plain"]}

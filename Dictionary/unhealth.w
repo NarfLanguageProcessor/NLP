@@ -1,1 +1,1 @@
-{"index": 343591, "D": [], "S": ["affliction ", "ailment ", "disease ", "malady ", "sickness "], "A": ["health ", "happiness "]}
+{"index": 343591, "D": [], "S": ["affliction", "ailment", "disease", "malady", "sickness"], "A": ["health", "happiness"]}

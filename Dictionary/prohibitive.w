@@ -1,1 +1,1 @@
-{"index": 251970, "D": "serving or tending to prohibit  or forbid something", "S": ["excessive ", "exorbitant ", "preposterous ", "steep "], "A": ["cheap ", "inexpensive ", "moderate ", "reasonable ", "sensible "]}
+{"index": 251970, "D": "serving or tending to prohibit  or forbid something", "S": ["excessive", "exorbitant", "preposterous", "steep"], "A": ["cheap", "inexpensive", "moderate", "reasonable", "sensible"]}

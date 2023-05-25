@@ -1,1 +1,1 @@
-{"index": 306514, "D": "having, showing, or able to exert great bodily or muscular power; physically vigorous or robust", "S": ["improving ", "well "], "A": ["sicker ", "smaller ", "unhealthy ", "worse "]}
+{"index": 306514, "D": "having, showing, or able to exert great bodily or muscular power; physically vigorous or robust", "S": ["improving", "well"], "A": ["sicker", "smaller", "unhealthy", "worse"]}

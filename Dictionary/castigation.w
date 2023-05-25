@@ -1,1 +1,1 @@
-{"index": 49076, "D": "severe criticism or harsh scolding; censure", "S": ["chastisement ", "discipline ", "penalty ", "reproof ", "retribution ", "scolding "], "A": ["award ", "forgiveness ", "pardon ", "reward "]}
+{"index": 49076, "D": "severe criticism or harsh scolding; censure", "S": ["chastisement", "discipline", "penalty", "reproof", "retribution", "scolding"], "A": ["award", "forgiveness", "pardon", "reward"]}

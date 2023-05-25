@@ -1,1 +1,1 @@
-{"index": 152855, "D": "not judicious;  showing lack of judgment; unwise; imprudent; indiscreet", "S": ["absurdity ", "apathy ", "idiocy ", "ignorance ", "lunacy ", "nonsense ", "silliness "], "A": ["intelligence ", "sense "]}
+{"index": 152855, "D": "not judicious;  showing lack of judgment; unwise; imprudent; indiscreet", "S": ["absurdity", "apathy", "idiocy", "ignorance", "lunacy", "nonsense", "silliness"], "A": ["intelligence", "sense"]}

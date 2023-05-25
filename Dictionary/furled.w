@@ -1,1 +1,1 @@
-{"index": 120428, "D": "to gather into a compact roll and bind securely, as a sail against a spar or a flag against its staff.", "S": ["coiled ", "curled ", "curved ", "folded ", "twisted "], "A": ["straight "]}
+{"index": 120428, "D": "to gather into a compact roll and bind securely, as a sail against a spar or a flag against its staff.", "S": ["coiled", "curled", "curved", "folded", "twisted"], "A": ["straight"]}

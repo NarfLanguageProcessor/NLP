@@ -1,1 +1,1 @@
-{"index": 65321, "D": "to overcome the distrust or hostility of; placate; win over", "S": ["appeasement ", "rapprochement "], "A": []}
+{"index": 65321, "D": "to overcome the distrust or hostility of; placate; win over", "S": ["appeasement", "rapprochement"], "A": []}

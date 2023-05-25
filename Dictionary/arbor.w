@@ -1,1 +1,1 @@
-{"index": 18545, "D": "a leafy, shady recess formed by tree branches, shrubs, etc.", "S": ["axle ", "hinge ", "pivot ", "pole ", "shaft ", "spindle ", "stalk ", "stem ", "support "], "A": []}
+{"index": 18545, "D": "a leafy, shady recess formed by tree branches, shrubs, etc.", "S": ["axle", "hinge", "pivot", "pole", "shaft", "spindle", "stalk", "stem", "support"], "A": []}

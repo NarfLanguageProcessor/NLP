@@ -1,0 +1,1 @@
+{"index": 12069, "D": "of or relating to the family Anatidae, comprising the swans, geese, and ducks.", "S": [], "A": []}

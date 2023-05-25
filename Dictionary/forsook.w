@@ -1,1 +1,1 @@
-{"index": 117600, "D": "the simple past tense of forsake. ", "S": ["disown ", "forgo ", "forswear ", "jettison ", "quit ", "relinquish ", "renounce ", "repudiate ", "set aside ", "spurn "], "A": ["allow ", "approve ", "continue ", "keep ", "claim ", "hold ", "maintain "]}
+{"index": 117600, "D": "the simple past tense of forsake. ", "S": ["disown", "forgo", "forswear", "jettison", "quit", "relinquish", "renounce", "repudiate", "set aside", "spurn"], "A": ["allow", "approve", "continue", "keep", "claim", "hold", "maintain"]}

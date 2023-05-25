@@ -1,0 +1,1 @@
+{"index": 38066, "D": "bookmaker (def. 1). ", "S": ["bettor", "bookmaker"], "A": []}

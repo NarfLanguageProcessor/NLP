@@ -1,1 +1,1 @@
-{"index": 134846, "D": "causing cheerfulness; encouraging", "S": ["reassuring "], "A": []}
+{"index": 134846, "D": "causing cheerfulness; encouraging", "S": ["reassuring"], "A": []}

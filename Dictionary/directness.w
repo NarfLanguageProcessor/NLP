@@ -1,1 +1,1 @@
-{"index": 86781, "D": "to manage or guide by advice, helpful information, instruction, etc.", "S": ["fairness ", "frankness ", "honesty ", "outspokenness ", "probity ", "simplicity ", "sincerity ", "truthfulness "], "A": ["deceit ", "dishonesty ", "lying ", "unfairness "]}
+{"index": 86781, "D": "to manage or guide by advice, helpful information, instruction, etc.", "S": ["fairness", "frankness", "honesty", "outspokenness", "probity", "simplicity", "sincerity", "truthfulness"], "A": ["deceit", "dishonesty", "lying", "unfairness"]}

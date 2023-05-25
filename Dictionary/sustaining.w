@@ -1,1 +1,1 @@
-{"index": 313794, "D": "to support, hold, or bear up from below; bear the weight of, as a structure.", "S": ["comestible ", "dietary ", "digestible ", "nourishing ", "nutrient ", "nutritional ", "nutritious ", "nutritive ", "peptic ", "salutary ", "sustentative "], "A": []}
+{"index": 313794, "D": "to support, hold, or bear up from below; bear the weight of, as a structure.", "S": ["comestible", "dietary", "digestible", "nourishing", "nutrient", "nutritional", "nutritious", "nutritive", "peptic", "salutary", "sustentative"], "A": []}

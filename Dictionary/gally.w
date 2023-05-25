@@ -1,1 +1,1 @@
-{"index": 121352, "D": "to frighten or scare.", "S": ["cheeky ", "disdainful ", "insulting ", "mocking ", "rude ", "sarcastic ", "scornful "], "A": ["kind ", "nice ", "polite ", "respectful "]}
+{"index": 121352, "D": "to frighten or scare.", "S": ["cheeky", "disdainful", "insulting", "mocking", "rude", "sarcastic", "scornful"], "A": ["kind", "nice", "polite", "respectful"]}

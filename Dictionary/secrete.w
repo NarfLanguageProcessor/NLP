@@ -1,1 +1,1 @@
-{"index": 282804, "D": "to discharge, generate, or release by the process of secretion. ", "S": ["stash ", "stow "], "A": ["disregard ", "expose ", "ignore ", "lay bare ", "let go ", "let out ", "open ", "reveal ", "take out ", "uncover "]}
+{"index": 282804, "D": "to discharge, generate, or release by the process of secretion. ", "S": ["stash", "stow"], "A": ["disregard", "expose", "ignore", "lay bare", "let go", "let out", "open", "reveal", "take out", "uncover"]}

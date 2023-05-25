@@ -1,1 +1,1 @@
-{"index": 89335, "D": "lack of respect;  discourtesy; rudeness.", "S": ["contempt "], "A": ["courtesy ", "humility ", "manners ", "politeness ", "respect ", "reverence "]}
+{"index": 89335, "D": "lack of respect;  discourtesy; rudeness.", "S": ["contempt"], "A": ["courtesy", "humility", "manners", "politeness", "respect", "reverence"]}

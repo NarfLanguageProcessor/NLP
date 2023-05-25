@@ -1,1 +1,0 @@
-{"index": 343337, "D": "not guarded;  unprotected; undefended.", "S": ["candid ", "indiscreet ", "offhand ", "spontaneous "], "A": ["deliberate ", "planned "]}

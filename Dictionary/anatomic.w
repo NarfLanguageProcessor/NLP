@@ -1,0 +1,1 @@
+{"index": 12078, "D": "of or relating to anatomy. ", "S": ["anatomical", "architectural", "basic", "constitutional", "skeletal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183229, "D": "something that threatens to cause evil, harm, injury, etc.; a threat", "S": ["ill-fated ", "wrecked "], "A": ["blessed ", "intact ", "nice ", "protected ", "restored ", "saved ", "successful "]}
+{"index": 183229, "D": "something that threatens to cause evil, harm, injury, etc.; a threat", "S": ["ill-fated", "wrecked"], "A": ["blessed", "intact", "nice", "protected", "restored", "saved", "successful"]}

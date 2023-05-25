@@ -1,1 +1,1 @@
-{"index": 125868, "D": "a sword or broadsword.", "S": ["blade ", "dagger ", "saber "], "A": []}
+{"index": 125868, "D": "a sword or broadsword.", "S": ["blade", "dagger", "saber"], "A": []}

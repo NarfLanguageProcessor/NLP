@@ -1,1 +1,1 @@
-{"index": 272390, "D": "a long, narrow inlet of a river that gradually decreases in depth from mouth to head.", "S": ["inlet "], "A": []}
+{"index": 272390, "D": "a long, narrow inlet of a river that gradually decreases in depth from mouth to head.", "S": ["inlet"], "A": []}

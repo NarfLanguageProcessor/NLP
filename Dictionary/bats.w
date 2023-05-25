@@ -1,1 +1,1 @@
-{"index": 29071, "D": "insane; crazy", "S": ["bananas ", "crazy ", "gaga ", "loony "], "A": ["sane "]}
+{"index": 29071, "D": "insane; crazy", "S": ["bananas", "crazy", "gaga", "loony"], "A": ["sane"]}

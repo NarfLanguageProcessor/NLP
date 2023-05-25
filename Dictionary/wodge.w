@@ -1,1 +1,0 @@
-{"index": 366840, "D": "a lump, chunk, or wad.", "S": [], "A": []}

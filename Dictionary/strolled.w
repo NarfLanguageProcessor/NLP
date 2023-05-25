@@ -1,1 +1,1 @@
-{"index": 306467, "D": "to walk leisurely as inclination directs; ramble; saunter; take a walk", "S": ["amble ", "cruise ", "drift ", "mope ", "mosey ", "ramble ", "roam ", "sashay ", "saunter ", "traipse ", "tramp ", "wander "], "A": ["run ", "stay "]}
+{"index": 306467, "D": "to walk leisurely as inclination directs; ramble; saunter; take a walk", "S": ["amble", "cruise", "drift", "mope", "mosey", "ramble", "roam", "sashay", "saunter", "traipse", "tramp", "wander"], "A": ["run", "stay"]}

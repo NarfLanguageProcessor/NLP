@@ -1,1 +1,1 @@
-{"index": 66548, "D": "to cooperate secretly; conspire (often followed by with)", "S": ["collude ", "conspire "], "A": []}
+{"index": 66548, "D": "to cooperate secretly; conspire (often followed by with)", "S": ["collude", "conspire"], "A": []}

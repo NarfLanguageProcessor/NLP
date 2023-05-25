@@ -1,1 +1,1 @@
-{"index": 282361, "D": "a drinking fountain for use by the crew of a vessel.", "S": ["babble ", "blather ", "chatter ", "chitchat ", "grapevine ", "hearsay ", "meddling ", "prattle ", "rumor ", "talk "], "A": ["truth "]}
+{"index": 282361, "D": "a drinking fountain for use by the crew of a vessel.", "S": ["babble", "blather", "chatter", "chitchat", "grapevine", "hearsay", "meddling", "prattle", "rumor", "talk"], "A": ["truth"]}

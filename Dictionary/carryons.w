@@ -1,1 +1,1 @@
-{"index": 48531, "D": [], "S": ["continue "], "A": ["discontinue ", "stop "]}
+{"index": 48531, "D": [], "S": ["continue"], "A": ["discontinue", "stop"]}

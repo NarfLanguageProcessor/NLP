@@ -1,1 +1,1 @@
-{"index": 296074, "D": "the state or quality of being sober  rather than intoxicated.", "S": ["abstemiousness ", "continence ", "moderation ", "self-restraint ", "soberness ", "teetotalism ", "temperance "], "A": ["intemperance ", "wildness "]}
+{"index": 296074, "D": "the state or quality of being sober  rather than intoxicated.", "S": ["abstemiousness", "continence", "moderation", "self-restraint", "soberness", "teetotalism", "temperance"], "A": ["intemperance", "wildness"]}

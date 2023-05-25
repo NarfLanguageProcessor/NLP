@@ -1,1 +1,1 @@
-{"index": 354881, "D": [], "S": ["enhancement ", "enlargement "], "A": ["compression ", "contraction ", "decline ", "decrease ", "deduction ", "diminishment ", "drop ", "fall ", "lessening ", "loss ", "reduction ", "shortening ", "shrinkage ", "stagnation ", "subtraction "]}
+{"index": 354881, "D": [], "S": ["enhancement", "enlargement"], "A": ["compression", "contraction", "decline", "decrease", "deduction", "diminishment", "drop", "fall", "lessening", "loss", "reduction", "shortening", "shrinkage", "stagnation", "subtraction"]}

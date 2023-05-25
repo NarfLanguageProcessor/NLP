@@ -1,1 +1,1 @@
-{"index": 54037, "D": "to crush or grind with the teeth; masticate.", "S": ["consumption ", "dining "], "A": []}
+{"index": 54037, "D": "to crush or grind with the teeth; masticate.", "S": ["consumption", "dining"], "A": []}

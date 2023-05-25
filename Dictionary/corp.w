@@ -1,1 +1,1 @@
-{"index": 69506, "D": "corporal.", "S": ["band ", "body ", "contingent ", "crew ", "detachment ", "division ", "squad ", "squadron ", "troop ", "troupe ", "unit "], "A": ["connection ", "whole ", "individual "]}
+{"index": 69506, "D": "corporal.", "S": ["band", "body", "contingent", "crew", "detachment", "division", "squad", "squadron", "troop", "troupe", "unit"], "A": ["connection", "whole", "individual"]}

@@ -1,1 +1,1 @@
-{"index": 267381, "D": "the plural of remnant. ", "S": ["debris ", "relics ", "remains ", "rubble ", "vestiges "], "A": []}
+{"index": 267381, "D": "the plural of remnant. ", "S": ["debris", "relics", "remains", "rubble", "vestiges"], "A": []}

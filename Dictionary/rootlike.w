@@ -1,1 +1,0 @@
-{"index": 274328, "D": "a part of the body of a plant that develops, typically, from the radicle and grows downward into the soil, anchoring the plant and absorbing nutriment and moisture.", "S": [], "A": []}

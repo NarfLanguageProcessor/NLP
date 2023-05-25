@@ -1,1 +1,1 @@
-{"index": 188217, "D": "a condition of the eye in which parallel rays are focused in front of the retina, objects being seen distinctly only when near to the eye; nearsightedness (opposed to hyperopia).", "S": ["narrow-mindedness "], "A": []}
+{"index": 188217, "D": "a condition of the eye in which parallel rays are focused in front of the retina, objects being seen distinctly only when near to the eye; nearsightedness (opposed to hyperopia).", "S": ["narrow-mindedness"], "A": []}

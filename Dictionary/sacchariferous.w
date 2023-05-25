@@ -1,1 +1,1 @@
-{"index": 276164, "D": "containing or yielding sugar.", "S": ["sticky ", "sweet ", "syrupy "], "A": []}
+{"index": 276164, "D": "containing or yielding sugar.", "S": ["sticky", "sweet", "syrupy"], "A": []}

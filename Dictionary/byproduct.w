@@ -1,1 +1,1 @@
-{"index": 34700, "D": "a secondary or incidental product, as in a process of manufacture.", "S": ["outgrowth "], "A": ["cause ", "origin ", "source "]}
+{"index": 34700, "D": "a secondary or incidental product, as in a process of manufacture.", "S": ["outgrowth"], "A": ["cause", "origin", "source"]}

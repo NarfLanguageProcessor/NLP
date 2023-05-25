@@ -1,1 +1,1 @@
-{"index": 49562, "D": "the curve assumed approximately by a heavy uniform cord or chain hanging freely from two points not in the same vertical line. Equation", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}
+{"index": 49562, "D": "the curve assumed approximately by a heavy uniform cord or chain hanging freely from two points not in the same vertical line. Equation", "S": ["arc", "arch", "contour", "loop", "trajectory"], "A": ["line"]}

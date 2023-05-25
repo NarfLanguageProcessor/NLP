@@ -1,1 +1,1 @@
-{"index": 129422, "D": "the melted or rendered fat of animals, especially when in a soft state.", "S": ["lard ", "lubricant ", "oil ", "vegetable oil "], "A": []}
+{"index": 129422, "D": "the melted or rendered fat of animals, especially when in a soft state.", "S": ["lard", "lubricant", "oil", "vegetable oil"], "A": []}

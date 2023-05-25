@@ -1,1 +1,1 @@
-{"index": 107527, "D": "tendency to adopt what is exotic. ", "S": ["curio ", "novelty ", "rarity "], "A": ["norm "]}
+{"index": 107527, "D": "tendency to adopt what is exotic. ", "S": ["curio", "novelty", "rarity"], "A": ["norm"]}

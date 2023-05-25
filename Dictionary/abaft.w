@@ -1,1 +1,1 @@
-{"index": 64, "D": "to the rear of; aft of", "S": ["astern "], "A": []}
+{"index": 64, "D": "to the rear of; aft of", "S": ["astern"], "A": []}

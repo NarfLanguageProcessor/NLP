@@ -1,1 +1,1 @@
-{"index": 77711, "D": "the act of reducing the quality or value of something", "S": ["corruption ", "degradation ", "depravation "], "A": ["honor "]}
+{"index": 77711, "D": "the act of reducing the quality or value of something", "S": ["corruption", "degradation", "depravation"], "A": ["honor"]}

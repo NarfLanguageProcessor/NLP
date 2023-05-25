@@ -1,1 +1,1 @@
-{"index": 224087, "D": "the part of the inner surface of the hand that extends from the wrist to the bases of the fingers.", "S": ["eject ", "foist ", "make a pretense of ", "palm ", "palm off ", "send forth ", "work off "], "A": ["keep ", "maintain "]}
+{"index": 224087, "D": "the part of the inner surface of the hand that extends from the wrist to the bases of the fingers.", "S": ["eject", "foist", "make a pretense of", "palm", "palm off", "send forth", "work off"], "A": ["keep", "maintain"]}

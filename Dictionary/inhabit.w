@@ -1,1 +1,1 @@
-{"index": 152613, "D": "to live or dwell in (a place), as people or animals", "S": ["locate ", "occupy ", "populate ", "possess ", "reside "], "A": ["lose ", "miss ", "depart ", "go ", "leave ", "move "]}
+{"index": 152613, "D": "to live or dwell in (a place), as people or animals", "S": ["locate", "occupy", "populate", "possess", "reside"], "A": ["lose", "miss", "depart", "go", "leave", "move"]}

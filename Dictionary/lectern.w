@@ -1,1 +1,1 @@
-{"index": 169851, "D": "a reading desk in a church on which the Bible rests and from which the lessons are read during the church service.", "S": ["pulpit ", "rostrum "], "A": []}
+{"index": 169851, "D": "a reading desk in a church on which the Bible rests and from which the lessons are read during the church service.", "S": ["pulpit", "rostrum"], "A": []}

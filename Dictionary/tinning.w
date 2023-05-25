@@ -1,1 +1,1 @@
-{"index": 324063, "D": "the act or technique of coating with tin. ", "S": ["bottling ", "conserving ", "keeping ", "storing "], "A": []}
+{"index": 324063, "D": "the act or technique of coating with tin. ", "S": ["bottling", "conserving", "keeping", "storing"], "A": []}

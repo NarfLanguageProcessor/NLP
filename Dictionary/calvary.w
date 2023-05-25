@@ -1,1 +1,1 @@
-{"index": 45505, "D": "Golgotha, the place where Jesus was crucified. Luke 23", "S": ["agony ", "anguish ", "calamity ", "difficulty ", "nightmare ", "torment ", "torture ", "trial "], "A": ["comfort ", "contentment ", "happiness ", "joy ", "peace ", "health "]}
+{"index": 45505, "D": "Golgotha, the place where Jesus was crucified. Luke 23", "S": ["agony", "anguish", "calamity", "difficulty", "nightmare", "torment", "torture", "trial"], "A": ["comfort", "contentment", "happiness", "joy", "peace", "health"]}

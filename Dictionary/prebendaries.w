@@ -1,1 +1,0 @@
-{"index": 245835, "D": "a canon or member of the clergy who is entitled to a prebend for special services at a cathedral or collegiate church.", "S": [], "A": []}

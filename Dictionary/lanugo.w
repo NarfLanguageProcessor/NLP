@@ -1,1 +1,1 @@
-{"index": 168244, "D": "a coat of delicate, downy hairs, especially that with which the human fetus or a newborn infant is covered.", "S": ["lint "], "A": ["smoothness "]}
+{"index": 168244, "D": "a coat of delicate, downy hairs, especially that with which the human fetus or a newborn infant is covered.", "S": ["lint"], "A": ["smoothness"]}

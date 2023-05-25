@@ -1,1 +1,1 @@
-{"index": 132440, "D": "the making of unnecessarily fine distinctions.", "S": ["nicety "], "A": ["approval ", "directness ", "facing ", "honesty ", "meeting ", "openness ", "praise ", "reality "]}
+{"index": 132440, "D": "the making of unnecessarily fine distinctions.", "S": ["nicety"], "A": ["approval", "directness", "facing", "honesty", "meeting", "openness", "praise", "reality"]}

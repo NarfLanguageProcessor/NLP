@@ -1,1 +1,1 @@
-{"index": 40231, "D": "capable of being broken", "S": ["brittle ", "crisp ", "flimsy ", "frail "], "A": ["firm ", "flexible ", "strong "]}
+{"index": 40231, "D": "capable of being broken", "S": ["brittle", "crisp", "flimsy", "frail"], "A": ["firm", "flexible", "strong"]}

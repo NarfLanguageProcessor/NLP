@@ -1,1 +1,1 @@
-{"index": 84957, "D": "the act or manner of dictating  for reproduction in writing.", "S": ["transcription "], "A": []}
+{"index": 84957, "D": "the act or manner of dictating  for reproduction in writing.", "S": ["transcription"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 59806, "D": "of, pertaining to, appropriate for, or assigned to an office clerk  or clerks", "S": ["accounting ", "bookkeeping ", "clerkish ", "clerkly ", "office ", "pink collar ", "scribal ", "stenographic ", "subordinate ", "typing ", "white collar ", "written "], "A": []}
+{"index": 59806, "D": "of, pertaining to, appropriate for, or assigned to an office clerk  or clerks", "S": ["accounting", "bookkeeping", "clerkish", "clerkly", "office", "pink collar", "scribal", "stenographic", "subordinate", "typing", "white collar", "written"], "A": []}

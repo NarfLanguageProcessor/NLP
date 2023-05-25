@@ -1,1 +1,1 @@
-{"index": 141296, "D": "to form a hypothesis. ", "S": ["brainstorm ", "cerebrate ", "cogitate ", "conjecture ", "consider ", "contemplate ", "deliberate ", "dope ", "excogitate ", "figure ", "guess ", "guesstimate "], "A": ["discard ", "disregard ", "forget ", "ignore ", "neglect "]}
+{"index": 141296, "D": "to form a hypothesis. ", "S": ["brainstorm", "cerebrate", "cogitate", "conjecture", "consider", "contemplate", "deliberate", "dope", "excogitate", "figure", "guess", "guesstimate"], "A": ["discard", "disregard", "forget", "ignore", "neglect"]}

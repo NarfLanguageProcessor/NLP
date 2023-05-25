@@ -1,1 +1,1 @@
-{"index": 282567, "D": "the salt waters that cover the greater part of the earth's surface.", "S": ["expanse ", "lake ", "ocean ", "pond ", "surf "], "A": ["lack "]}
+{"index": 282567, "D": "the salt waters that cover the greater part of the earth's surface.", "S": ["expanse", "lake", "ocean", "pond", "surf"], "A": ["lack"]}

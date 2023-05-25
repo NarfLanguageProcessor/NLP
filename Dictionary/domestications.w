@@ -1,1 +1,1 @@
-{"index": 91270, "D": "the act or process of taming an animal for human use or companionship", "S": ["control ", "development ", "education ", "method ", "practice ", "preparation ", "regulation ", "restraint ", "self-control ", "self-restraint ", "will "], "A": ["agitation ", "ignorance "]}
+{"index": 91270, "D": "the act or process of taming an animal for human use or companionship", "S": ["control", "development", "education", "method", "practice", "preparation", "regulation", "restraint", "self-control", "self-restraint", "will"], "A": ["agitation", "ignorance"]}

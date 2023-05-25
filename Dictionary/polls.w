@@ -1,1 +1,1 @@
-{"index": 242748, "D": "a sampling or collection of opinions on a subject, taken from either a selected or a random group of persons, as for the purpose of analysis.", "S": ["appointment ", "ballot ", "balloting ", "decision ", "poll ", "primary ", "referendum ", "selection "], "A": []}
+{"index": 242748, "D": "a sampling or collection of opinions on a subject, taken from either a selected or a random group of persons, as for the purpose of analysis.", "S": ["appointment", "ballot", "balloting", "decision", "poll", "primary", "referendum", "selection"], "A": []}

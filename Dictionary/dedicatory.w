@@ -1,1 +1,1 @@
-{"index": 78895, "D": "of or relating to dedication; serving as a dedication.", "S": ["celebratory "], "A": ["dishonoring ", "forgetful ", "neglectful ", "neglecting "]}
+{"index": 78895, "D": "of or relating to dedication; serving as a dedication.", "S": ["celebratory"], "A": ["dishonoring", "forgetful", "neglectful", "neglecting"]}

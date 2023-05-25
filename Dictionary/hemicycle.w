@@ -1,1 +1,1 @@
-{"index": 136123, "D": "a semicircle.", "S": ["arc "], "A": []}
+{"index": 136123, "D": "a semicircle.", "S": ["arc"], "A": []}

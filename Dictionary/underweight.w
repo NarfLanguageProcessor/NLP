@@ -1,1 +1,1 @@
-{"index": 340101, "D": "weighing less than is usual, required, or proper.", "S": ["malnourished ", "starved ", "undernourished "], "A": ["chubby ", "fat ", "overweight ", "plump ", "thick "]}
+{"index": 340101, "D": "weighing less than is usual, required, or proper.", "S": ["malnourished", "starved", "undernourished"], "A": ["chubby", "fat", "overweight", "plump", "thick"]}

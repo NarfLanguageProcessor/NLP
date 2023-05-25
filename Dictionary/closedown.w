@@ -1,1 +1,1 @@
-{"index": 60438, "D": "a termination or suspension of operations; shutdown", "S": ["closure ", "stoppage "], "A": ["beginning ", "start "]}
+{"index": 60438, "D": "a termination or suspension of operations; shutdown", "S": ["closure", "stoppage"], "A": ["beginning", "start"]}

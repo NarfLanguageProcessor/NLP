@@ -1,1 +1,1 @@
-{"index": 332948, "D": "any reptile of the order Testudines, comprising aquatic and terrestrial species having the trunk enclosed in a shell consisting of a dorsal carapace and a ventral plastron.", "S": ["tortoise "], "A": []}
+{"index": 332948, "D": "any reptile of the order Testudines, comprising aquatic and terrestrial species having the trunk enclosed in a shell consisting of a dorsal carapace and a ventral plastron.", "S": ["tortoise"], "A": []}

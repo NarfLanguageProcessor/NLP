@@ -1,0 +1,1 @@
+{"index": 16081, "D": "noting or pertaining to a political party (1839\u201347) in New York that opposed the payment of rents  to patroons.", "S": [], "A": []}

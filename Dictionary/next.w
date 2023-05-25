@@ -1,1 +1,1 @@
-{"index": 199504, "D": "immediately following in time, order, importance, etc.", "S": ["later "], "A": ["earlier ", "preceding ", "previous "]}
+{"index": 199504, "D": "immediately following in time, order, importance, etc.", "S": ["later"], "A": ["earlier", "preceding", "previous"]}

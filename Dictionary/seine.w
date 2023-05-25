@@ -1,1 +1,1 @@
-{"index": 283294, "D": "a fishing net that hangs vertically in the water, having floats at the upper edge and sinkers at the lower.", "S": ["angle ", "bait ", "bob ", "cast ", "chum ", "extract ", "extricate ", "find ", "net ", "produce ", "trawl ", "troll "], "A": []}
+{"index": 283294, "D": "a fishing net that hangs vertically in the water, having floats at the upper edge and sinkers at the lower.", "S": ["angle", "bait", "bob", "cast", "chum", "extract", "extricate", "find", "net", "produce", "trawl", "troll"], "A": []}

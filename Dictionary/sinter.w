@@ -1,1 +1,1 @@
-{"index": 292027, "D": "siliceous or calcareous matter deposited by springs, as that formed around the vent of a geyser.", "S": ["dregs ", "impurity ", "lees ", "refuse ", "scoria ", "scum ", "sediment ", "slag ", "trash ", "waste "], "A": ["assets ", "possessions "]}
+{"index": 292027, "D": "siliceous or calcareous matter deposited by springs, as that formed around the vent of a geyser.", "S": ["dregs", "impurity", "lees", "refuse", "scoria", "scum", "sediment", "slag", "trash", "waste"], "A": ["assets", "possessions"]}

@@ -1,1 +1,1 @@
-{"index": 216393, "D": [], "S": ["break ", "chance ", "cup ", "destine ", "doom ", "effect ", "end ", "ending ", "foreordain ", "issue ", "lot ", "portion ", "predestine ", "predetermine ", "preordain ", "stars "], "A": ["join "]}
+{"index": 216393, "D": [], "S": ["break", "chance", "cup", "destine", "doom", "effect", "end", "ending", "foreordain", "issue", "lot", "portion", "predestine", "predetermine", "preordain", "stars"], "A": ["join"]}

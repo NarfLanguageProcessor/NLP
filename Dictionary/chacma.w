@@ -1,1 +1,1 @@
-{"index": 51849, "D": "a large, brownish-gray baboon, Papio ursinus, of southern Africa.", "S": ["monkey "], "A": []}
+{"index": 51849, "D": "a large, brownish-gray baboon, Papio ursinus, of southern Africa.", "S": ["monkey"], "A": []}

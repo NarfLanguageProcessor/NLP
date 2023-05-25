@@ -1,1 +1,1 @@
-{"index": 74766, "D": "being or nearing the highest point or final stage", "S": ["crowning ", "peak "], "A": []}
+{"index": 74766, "D": "being or nearing the highest point or final stage", "S": ["crowning", "peak"], "A": []}

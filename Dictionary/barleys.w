@@ -1,0 +1,1 @@
+{"index": 28093, "D": "a widely distributed cereal plant belonging to the genus Hordeum, of the grass family, having awned flowers that grow in tightly bunched spikes, with three small additional spikes at each node.", "S": ["corn", "fodder", "forage", "grain", "hay", "meal"], "A": []}

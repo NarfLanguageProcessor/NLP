@@ -1,1 +1,1 @@
-{"index": 93264, "D": "amusing in an odd way; whimsically humorous; waggish.", "S": ["clown ", "jokester "], "A": []}
+{"index": 93264, "D": "amusing in an odd way; whimsically humorous; waggish.", "S": ["clown", "jokester"], "A": []}

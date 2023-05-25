@@ -1,1 +1,1 @@
-{"index": 130341, "D": "the solid surface of the earth; firm or dry land", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}
+{"index": 130341, "D": "the solid surface of the earth; firm or dry land", "S": ["downward"], "A": ["above", "cheerful", "cheery", "happy", "heartened", "higher"]}

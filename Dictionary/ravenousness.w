@@ -1,1 +1,1 @@
-{"index": 261272, "D": "extremely hungry; famished; voracious", "S": ["avidity ", "edacity ", "gluttony ", "greed ", "greediness ", "rapaciousness ", "rapacity ", "voraciousness "], "A": ["generosity "]}
+{"index": 261272, "D": "extremely hungry; famished; voracious", "S": ["avidity", "edacity", "gluttony", "greed", "greediness", "rapaciousness", "rapacity", "voraciousness"], "A": ["generosity"]}

@@ -1,1 +1,1 @@
-{"index": 179159, "D": "a variety of the beet Beta vulgaris, cultivated as food for livestock.", "S": ["chard "], "A": []}
+{"index": 179159, "D": "a variety of the beet Beta vulgaris, cultivated as food for livestock.", "S": ["chard"], "A": []}

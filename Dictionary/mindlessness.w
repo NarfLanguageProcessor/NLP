@@ -1,1 +1,1 @@
-{"index": 187718, "D": "without intelligence; senseless", "S": ["denseness ", "foolishness ", "simpleness ", "slow-wittedness ", "slowness "], "A": []}
+{"index": 187718, "D": "without intelligence; senseless", "S": ["denseness", "foolishness", "simpleness", "slow-wittedness", "slowness"], "A": []}

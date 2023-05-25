@@ -1,1 +1,1 @@
-{"index": 91565, "D": "the door  attendant of an apartment house, nightclub, etc., who acts as doorkeeper and may perform minor services for entering and departing residents or guests.", "S": ["concierge "], "A": []}
+{"index": 91565, "D": "the door  attendant of an apartment house, nightclub, etc., who acts as doorkeeper and may perform minor services for entering and departing residents or guests.", "S": ["concierge"], "A": []}

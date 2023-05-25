@@ -1,1 +1,1 @@
-{"index": 171516, "D": "a person who advocates liberty,  especially with regard to thought or conduct.", "S": ["autonomous ", "constitutional ", "egalitarian ", "free ", "orderly ", "popular "], "A": []}
+{"index": 171516, "D": "a person who advocates liberty,  especially with regard to thought or conduct.", "S": ["autonomous", "constitutional", "egalitarian", "free", "orderly", "popular"], "A": []}

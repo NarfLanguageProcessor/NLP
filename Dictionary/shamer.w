@@ -1,1 +1,0 @@
-{"index": 287336, "D": [], "S": ["bogus ", "fictitious ", "fraudulent ", "phony "], "A": ["authentic ", "genuine ", "real ", "honest ", "natural ", "true ", "truthful "]}

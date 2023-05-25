@@ -1,1 +1,1 @@
-{"index": 302956, "D": "to begin or set out, as on a journey or activity.", "S": ["initiated "], "A": []}
+{"index": 302956, "D": "to begin or set out, as on a journey or activity.", "S": ["initiated"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 209527, "D": "the fourth book of the Old Testament, containing the census of the Israelites after the Exodus from Egypt. Abbreviation", "S": ["commercial ", "economic ", "fiscal ", "monetary "], "A": []}
+{"index": 209527, "D": "the fourth book of the Old Testament, containing the census of the Israelites after the Exodus from Egypt. Abbreviation", "S": ["commercial", "economic", "fiscal", "monetary"], "A": []}

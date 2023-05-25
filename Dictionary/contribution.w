@@ -1,1 +1,1 @@
-{"index": 67767, "D": "the act of contributing. ", "S": ["addition ", "donation ", "grant ", "improvement ", "increase ", "input "], "A": ["decrease ", "loss ", "subtraction "]}
+{"index": 67767, "D": "the act of contributing. ", "S": ["addition", "donation", "grant", "improvement", "increase", "input"], "A": ["decrease", "loss", "subtraction"]}

@@ -1,1 +1,1 @@
-{"index": 301357, "D": "to race or move at full speed, especially for a short distance, as in running, rowing, etc.", "S": ["dart ", "dash ", "rush ", "scamper ", "scoot ", "scurry "], "A": ["walk "]}
+{"index": 301357, "D": "to race or move at full speed, especially for a short distance, as in running, rowing, etc.", "S": ["dart", "dash", "rush", "scamper", "scoot", "scurry"], "A": ["walk"]}

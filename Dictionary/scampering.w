@@ -1,1 +1,1 @@
-{"index": 279519, "D": "to run or go hastily or quickly.", "S": ["bolt ", "dart ", "hurry ", "romp ", "scoot ", "scurry ", "scuttle ", "skip ", "sprint ", "trot ", "zip "], "A": ["dawdle ", "slow ", "wait ", "walk ", "face ", "stay "]}
+{"index": 279519, "D": "to run or go hastily or quickly.", "S": ["bolt", "dart", "hurry", "romp", "scoot", "scurry", "scuttle", "skip", "sprint", "trot", "zip"], "A": ["dawdle", "slow", "wait", "walk", "face", "stay"]}

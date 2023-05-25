@@ -1,1 +1,1 @@
-{"index": 116132, "D": "length or extent in feet", "S": ["cinema ", "flick ", "motion picture ", "picture ", "show "], "A": []}
+{"index": 116132, "D": "length or extent in feet", "S": ["cinema", "flick", "motion picture", "picture", "show"], "A": []}

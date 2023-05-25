@@ -1,1 +1,1 @@
-{"index": 194311, "D": "a wrapping of several turns of small stuff around the shank end of a hook.", "S": ["pry ", "sniff ", "snoop "], "A": ["ignore "]}
+{"index": 194311, "D": "a wrapping of several turns of small stuff around the shank end of a hook.", "S": ["pry", "sniff", "snoop"], "A": ["ignore"]}

@@ -1,1 +1,1 @@
-{"index": 131581, "D": "a sudden, strong blast of wind.", "S": ["blast ", "breeze ", "burst ", "explosion ", "flurry ", "gale ", "squall ", "storm "], "A": ["calm ", "quiet "]}
+{"index": 131581, "D": "a sudden, strong blast of wind.", "S": ["blast", "breeze", "burst", "explosion", "flurry", "gale", "squall", "storm"], "A": ["calm", "quiet"]}

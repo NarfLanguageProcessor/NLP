@@ -1,1 +1,1 @@
-{"index": 313765, "D": "act of suspecting. ", "S": ["distrust "], "A": ["answer ", "trust "]}
+{"index": 313765, "D": "act of suspecting. ", "S": ["distrust"], "A": ["answer", "trust"]}

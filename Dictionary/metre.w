@@ -1,1 +1,1 @@
-{"index": 185376, "D": "a metric unit of length equal to approximately 1.094 yards", "S": ["cadence ", "flow ", "movement ", "pattern ", "pulse ", "swing ", "tempo "], "A": []}
+{"index": 185376, "D": "a metric unit of length equal to approximately 1.094 yards", "S": ["cadence", "flow", "movement", "pattern", "pulse", "swing", "tempo"], "A": []}

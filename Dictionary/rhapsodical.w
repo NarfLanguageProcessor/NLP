@@ -1,1 +1,1 @@
-{"index": 271807, "D": "extravagantly enthusiastic; ecstatic.", "S": ["bloated ", "magnified ", "overblown ", "swollen "], "A": ["shrunken ", "abbreviated ", "abridged ", "compressed ", "contracted ", "reduced "]}
+{"index": 271807, "D": "extravagantly enthusiastic; ecstatic.", "S": ["bloated", "magnified", "overblown", "swollen"], "A": ["shrunken", "abbreviated", "abridged", "compressed", "contracted", "reduced"]}

@@ -1,1 +1,1 @@
-{"index": 242713, "D": "to convey pollen  to the stigma of (a flower).", "S": ["breed ", "cross-fertilize ", "crossbreed ", "pollenate "], "A": []}
+{"index": 242713, "D": "to convey pollen  to the stigma of (a flower).", "S": ["breed", "cross-fertilize", "crossbreed", "pollenate"], "A": []}

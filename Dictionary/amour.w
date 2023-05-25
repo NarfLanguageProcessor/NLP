@@ -1,1 +1,1 @@
-{"index": 10981, "D": "a love affair.", "S": ["affair ", "entanglement ", "liaison ", "love ", "passion ", "relationship "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 10981, "D": "a love affair.", "S": ["affair", "entanglement", "liaison", "love", "passion", "relationship"], "A": ["dislike", "hate", "hatred"]}

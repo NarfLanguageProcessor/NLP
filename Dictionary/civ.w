@@ -1,1 +1,1 @@
-{"index": 58897, "D": "civil.", "S": ["citizen ", "noncombatant "], "A": []}
+{"index": 58897, "D": "civil.", "S": ["citizen", "noncombatant"], "A": []}

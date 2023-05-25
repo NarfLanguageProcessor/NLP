@@ -1,1 +1,1 @@
-{"index": 155350, "D": "any knit, woven, or knotted fabric of open texture.", "S": ["join ", "lock "], "A": ["detach ", "disconnect ", "disunite ", "unfasten ", "unlink "]}
+{"index": 155350, "D": "any knit, woven, or knotted fabric of open texture.", "S": ["join", "lock"], "A": ["detach", "disconnect", "disunite", "unfasten", "unlink"]}

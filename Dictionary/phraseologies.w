@@ -1,1 +1,1 @@
-{"index": 235513, "D": "manner or style of verbal expression; characteristic language", "S": ["diction ", "language ", "locution ", "manner ", "parlance ", "style ", "syntax ", "wording "], "A": []}
+{"index": 235513, "D": "manner or style of verbal expression; characteristic language", "S": ["diction", "language", "locution", "manner", "parlance", "style", "syntax", "wording"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 202286, "D": [], "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}
+{"index": 202286, "D": [], "S": ["individually", "negatively", "separately", "variously"], "A": ["together"]}

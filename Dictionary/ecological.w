@@ -1,1 +1,1 @@
-{"index": 95360, "D": "of or relating to ecology", "S": ["eco-friendly ", "green "], "A": []}
+{"index": 95360, "D": "of or relating to ecology", "S": ["eco-friendly", "green"], "A": []}

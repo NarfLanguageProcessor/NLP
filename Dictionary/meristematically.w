@@ -1,1 +1,0 @@
-{"index": 183825, "D": "consisting of or having the properties of meristem.", "S": [], "A": []}

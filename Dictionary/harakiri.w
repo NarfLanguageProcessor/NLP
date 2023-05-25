@@ -1,1 +1,1 @@
-{"index": 133551, "D": "ceremonial suicide by ripping open the abdomen with a dagger or knife", "S": ["hara-kiri ", "m\u00e9lange ", "self-destruction ", "self-immolation ", "seppuku "], "A": []}
+{"index": 133551, "D": "ceremonial suicide by ripping open the abdomen with a dagger or knife", "S": ["hara-kiri", "m\u00e9lange", "self-destruction", "self-immolation", "seppuku"], "A": []}

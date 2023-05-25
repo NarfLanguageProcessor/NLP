@@ -1,1 +1,1 @@
-{"index": 144978, "D": "containing a high amount of water or water vapor; noticeably moist", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}
+{"index": 144978, "D": "containing a high amount of water or water vapor; noticeably moist", "S": ["evaporation", "moisture"], "A": ["aridity", "dryness"]}

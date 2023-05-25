@@ -1,1 +1,1 @@
-{"index": 264505, "D": "to double; repeat.", "S": ["added ", "aggregated ", "amplified ", "augmented ", "compounded ", "duplicated ", "increased ", "repeated ", "reproduced "], "A": ["decreased ", "divided ", "reduced "]}
+{"index": 264505, "D": "to double; repeat.", "S": ["added", "aggregated", "amplified", "augmented", "compounded", "duplicated", "increased", "repeated", "reproduced"], "A": ["decreased", "divided", "reduced"]}

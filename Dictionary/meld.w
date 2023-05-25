@@ -1,1 +1,1 @@
-{"index": 182805, "D": "to merge; blend. ", "S": ["fuse ", "merge ", "mingle "], "A": ["divide ", "separate ", "disconnect ", "dissociate ", "divorce ", "sever "]}
+{"index": 182805, "D": "to merge; blend. ", "S": ["fuse", "merge", "mingle"], "A": ["divide", "separate", "disconnect", "dissociate", "divorce", "sever"]}

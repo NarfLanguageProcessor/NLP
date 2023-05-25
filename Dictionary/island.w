@@ -1,1 +1,1 @@
-{"index": 158694, "D": "a tract of land completely surrounded by water, and not large enough to be called a continent.", "S": ["archipelago ", "enclave ", "isle ", "islet ", "peninsula ", "reef "], "A": []}
+{"index": 158694, "D": "a tract of land completely surrounded by water, and not large enough to be called a continent.", "S": ["archipelago", "enclave", "isle", "islet", "peninsula", "reef"], "A": []}

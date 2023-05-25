@@ -1,1 +1,1 @@
-{"index": 104071, "D": "to burst forth", "S": ["appear ", "blow up ", "break out ", "burst ", "detonate ", "explode ", "flare up ", "go off ", "spew "], "A": ["be quiet "]}
+{"index": 104071, "D": "to burst forth", "S": ["appear", "blow up", "break out", "burst", "detonate", "explode", "flare up", "go off", "spew"], "A": ["be quiet"]}

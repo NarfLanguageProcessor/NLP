@@ -1,1 +1,1 @@
-{"index": 88080, "D": "an act or instance of disfiguring. ", "S": ["deformation ", "malformation "], "A": ["perfection ", "strength "]}
+{"index": 88080, "D": "an act or instance of disfiguring. ", "S": ["deformation", "malformation"], "A": ["perfection", "strength"]}

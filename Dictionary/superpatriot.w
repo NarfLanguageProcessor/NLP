@@ -1,1 +1,1 @@
-{"index": 312391, "D": "a person who is patriotic to an extreme.", "S": ["dogmatist ", "extremist ", "fanatic ", "true believer ", "zealot "], "A": ["moderate ", "freethinker "]}
+{"index": 312391, "D": "a person who is patriotic to an extreme.", "S": ["dogmatist", "extremist", "fanatic", "true believer", "zealot"], "A": ["moderate", "freethinker"]}

@@ -1,1 +1,1 @@
-{"index": 258420, "D": "of doubtful propriety, honesty, morality, respectability, etc.", "S": ["dubiously "], "A": []}
+{"index": 258420, "D": "of doubtful propriety, honesty, morality, respectability, etc.", "S": ["dubiously"], "A": []}

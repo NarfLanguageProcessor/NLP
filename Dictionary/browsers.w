@@ -1,1 +1,1 @@
-{"index": 41676, "D": "a person or thing that browses. ", "S": ["gateway ", "portal "], "A": []}
+{"index": 41676, "D": "a person or thing that browses. ", "S": ["gateway", "portal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 282720, "D": "an act or instance of seceding. ", "S": ["breakaway ", "breakup ", "separation "], "A": ["agreement ", "closing ", "closure ", "juncture ", "peace "]}
+{"index": 282720, "D": "an act or instance of seceding. ", "S": ["breakaway", "breakup", "separation"], "A": ["agreement", "closing", "closure", "juncture", "peace"]}

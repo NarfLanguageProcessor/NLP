@@ -1,1 +1,1 @@
-{"index": 295550, "D": "to fish for eels by thrusting a baited hook into their lurking places.", "S": ["chortle ", "chuckle ", "giggle ", "guffaw ", "hee-haw ", "smirk ", "sneer ", "teehee ", "titter "], "A": []}
+{"index": 295550, "D": "to fish for eels by thrusting a baited hook into their lurking places.", "S": ["chortle", "chuckle", "giggle", "guffaw", "hee-haw", "smirk", "sneer", "teehee", "titter"], "A": []}

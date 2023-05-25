@@ -1,1 +1,1 @@
-{"index": 156969, "D": "not urbane;  lacking in courtesy, refinement, etc.", "S": ["brusqueness ", "contumely ", "impoliteness ", "incivility ", "profanation ", "rudeness "], "A": ["courtesy ", "politeness "]}
+{"index": 156969, "D": "not urbane;  lacking in courtesy, refinement, etc.", "S": ["brusqueness", "contumely", "impoliteness", "incivility", "profanation", "rudeness"], "A": ["courtesy", "politeness"]}

@@ -1,1 +1,1 @@
-{"index": 248444, "D": "situated in front of the molar  teeth.", "S": ["bicuspid ", "canine ", "cuspid ", "denticle ", "eyetooth ", "fang ", "grinder ", "incisor ", "ivory ", "molar ", "tusk "], "A": []}
+{"index": 248444, "D": "situated in front of the molar  teeth.", "S": ["bicuspid", "canine", "cuspid", "denticle", "eyetooth", "fang", "grinder", "incisor", "ivory", "molar", "tusk"], "A": []}

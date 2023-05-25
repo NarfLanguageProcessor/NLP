@@ -1,1 +1,1 @@
-{"index": 288923, "D": "the quantity or extent by which something falls short; deficiency; shortage.", "S": ["deficiency ", "flaw ", "lack ", "loss ", "shortage ", "shortcoming "], "A": ["abundance ", "enough ", "perfection ", "plenty ", "success ", "sufficiency "]}
+{"index": 288923, "D": "the quantity or extent by which something falls short; deficiency; shortage.", "S": ["deficiency", "flaw", "lack", "loss", "shortage", "shortcoming"], "A": ["abundance", "enough", "perfection", "plenty", "success", "sufficiency"]}

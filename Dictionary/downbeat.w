@@ -1,1 +1,1 @@
-{"index": 92200, "D": "the downward stroke of a conductor's arm or baton indicating the first or accented beat of a measure.", "S": ["defeatist ", "negative "], "A": []}
+{"index": 92200, "D": "the downward stroke of a conductor's arm or baton indicating the first or accented beat of a measure.", "S": ["defeatist", "negative"], "A": []}

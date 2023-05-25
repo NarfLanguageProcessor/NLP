@@ -1,1 +1,1 @@
-{"index": 338563, "D": "the undefeated champion", "S": ["reigning ", "unbeaten "], "A": ["beaten ", "defeated ", "losing "]}
+{"index": 338563, "D": "the undefeated champion", "S": ["reigning", "unbeaten"], "A": ["beaten", "defeated", "losing"]}

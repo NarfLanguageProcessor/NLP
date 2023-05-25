@@ -1,1 +1,1 @@
-{"index": 39701, "D": "braids  collectively.", "S": ["cable ", "strand ", "string ", "tape ", "thread ", "twine "], "A": []}
+{"index": 39701, "D": "braids  collectively.", "S": ["cable", "strand", "string", "tape", "thread", "twine"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 156541, "D": "involving only students at the same school or college", "S": ["indigenous ", "internal ", "national "], "A": ["alien ", "business ", "foreign ", "industrial ", "office "]}
+{"index": 156541, "D": "involving only students at the same school or college", "S": ["indigenous", "internal", "national"], "A": ["alien", "business", "foreign", "industrial", "office"]}

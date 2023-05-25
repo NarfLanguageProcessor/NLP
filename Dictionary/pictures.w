@@ -1,1 +1,1 @@
-{"index": 236112, "D": "a visual representation of a person, object, or scene, as a painting, drawing, photograph, etc.", "S": ["film ", "movie house ", "movie theater "], "A": []}
+{"index": 236112, "D": "a visual representation of a person, object, or scene, as a painting, drawing, photograph, etc.", "S": ["film", "movie house", "movie theater"], "A": []}

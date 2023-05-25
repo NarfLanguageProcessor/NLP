@@ -1,1 +1,1 @@
-{"index": 67261, "D": "to package (freight) in uniform, sealed containers  for shipment.", "S": ["carry ", "cram ", "fill ", "lade ", "pack ", "pile ", "stack ", "store ", "stuff "], "A": ["use ", "abstain ", "diet ", "disarrange ", "disorder ", "fast ", "lose "]}
+{"index": 67261, "D": "to package (freight) in uniform, sealed containers  for shipment.", "S": ["carry", "cram", "fill", "lade", "pack", "pile", "stack", "store", "stuff"], "A": ["use", "abstain", "diet", "disarrange", "disorder", "fast", "lose"]}

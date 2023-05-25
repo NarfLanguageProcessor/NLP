@@ -1,1 +1,1 @@
-{"index": 131813, "D": "a frequent or habitual visitor to a place", "S": ["client ", "customer ", "frequenter ", "patron ", "regular "], "A": []}
+{"index": 131813, "D": "a frequent or habitual visitor to a place", "S": ["client", "customer", "frequenter", "patron", "regular"], "A": []}

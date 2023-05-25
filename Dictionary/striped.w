@@ -1,1 +1,1 @@
-{"index": 306367, "D": "having stripes  or bands.", "S": ["banded ", "barred ", "ruled "], "A": []}
+{"index": 306367, "D": "having stripes  or bands.", "S": ["banded", "barred", "ruled"], "A": []}

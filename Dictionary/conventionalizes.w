@@ -1,1 +1,1 @@
-{"index": 67982, "D": "to make conventional. ", "S": ["pigeonhole "], "A": ["confuse ", "disorganize "]}
+{"index": 67982, "D": "to make conventional. ", "S": ["pigeonhole"], "A": ["confuse", "disorganize"]}

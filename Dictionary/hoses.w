@@ -1,1 +1,1 @@
-{"index": 144149, "D": "a flexible tube for conveying a liquid, as water, to a desired point", "S": ["hosiery ", "sock ", "tights ", "tube ", "tubing "], "A": []}
+{"index": 144149, "D": "a flexible tube for conveying a liquid, as water, to a desired point", "S": ["hosiery", "sock", "tights", "tube", "tubing"], "A": []}

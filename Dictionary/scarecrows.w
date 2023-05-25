@@ -1,1 +1,1 @@
-{"index": 279730, "D": "an object, usually a figure of a person in old clothes, set up to frighten crows  or other birds away from crops.", "S": ["alarm ", "bogey ", "bogeyman ", "bogy ", "bugbear ", "fright ", "goblin ", "hobgoblin ", "ogre ", "scare ", "specter "], "A": ["calmness "]}
+{"index": 279730, "D": "an object, usually a figure of a person in old clothes, set up to frighten crows  or other birds away from crops.", "S": ["alarm", "bogey", "bogeyman", "bogy", "bugbear", "fright", "goblin", "hobgoblin", "ogre", "scare", "specter"], "A": ["calmness"]}

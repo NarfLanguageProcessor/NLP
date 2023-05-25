@@ -1,1 +1,1 @@
-{"index": 134991, "D": "to raise or lift with effort or force; hoist", "S": ["fling ", "haul ", "hoist ", "hurl ", "sling ", "tug "], "A": ["decrease ", "depress ", "destroy ", "drop ", "finish ", "keep ", "lessen ", "lower ", "raze ", "receive ", "stop "]}
+{"index": 134991, "D": "to raise or lift with effort or force; hoist", "S": ["fling", "haul", "hoist", "hurl", "sling", "tug"], "A": ["decrease", "depress", "destroy", "drop", "finish", "keep", "lessen", "lower", "raze", "receive", "stop"]}

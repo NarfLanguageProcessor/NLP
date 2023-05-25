@@ -1,1 +1,1 @@
-{"index": 264499, "D": "the state of being redundant.", "S": ["repetition "], "A": ["lack ", "need ", "want "]}
+{"index": 264499, "D": "the state of being redundant.", "S": ["repetition"], "A": ["lack", "need", "want"]}

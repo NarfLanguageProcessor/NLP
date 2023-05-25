@@ -1,1 +1,1 @@
-{"index": 95292, "D": [], "S": ["imitation ", "parallel ", "reflection ", "repetition ", "reverberation "], "A": ["difference ", "opposite ", "reverse ", "question "]}
+{"index": 95292, "D": [], "S": ["imitation", "parallel", "reflection", "repetition", "reverberation"], "A": ["difference", "opposite", "reverse", "question"]}

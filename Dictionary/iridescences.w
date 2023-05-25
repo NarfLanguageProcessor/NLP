@@ -1,1 +1,1 @@
-{"index": 157952, "D": "iridescent  quality; a play of lustrous, changing colors.", "S": ["light ", "opalescence ", "phosphorescence ", "radiance "], "A": ["dark "]}
+{"index": 157952, "D": "iridescent  quality; a play of lustrous, changing colors.", "S": ["light", "opalescence", "phosphorescence", "radiance"], "A": ["dark"]}

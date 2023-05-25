@@ -1,1 +1,1 @@
-{"index": 901, "D": "to sever.", "S": ["break ", "break down ", "carve ", "cut ", "isolate ", "partition ", "segregate ", "split ", "subdivide ", "tear "], "A": ["attach ", "combine ", "fix ", "join ", "mend ", "stay ", "unite ", "wait ", "associate ", "close ", "connect ", "fasten ", "marry "]}
+{"index": 901, "D": "to sever.", "S": ["break", "break down", "carve", "cut", "isolate", "partition", "segregate", "split", "subdivide", "tear"], "A": ["attach", "combine", "fix", "join", "mend", "stay", "unite", "wait", "associate", "close", "connect", "fasten", "marry"]}

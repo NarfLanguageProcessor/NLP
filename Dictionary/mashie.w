@@ -1,1 +1,1 @@
-{"index": 180669, "D": "a club with an iron head, the face having more slope than a mashie iron  but less slope than a mashie niblick. ", "S": ["brassie ", "driver ", "iron ", "midiron ", "niblick ", "putter ", "spoon ", "stick ", "wedge ", "wood "], "A": []}
+{"index": 180669, "D": "a club with an iron head, the face having more slope than a mashie iron  but less slope than a mashie niblick. ", "S": ["brassie", "driver", "iron", "midiron", "niblick", "putter", "spoon", "stick", "wedge", "wood"], "A": []}

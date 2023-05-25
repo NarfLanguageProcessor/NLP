@@ -1,1 +1,1 @@
-{"index": 120170, "D": "serving as, or being an essential part of, a foundation or basis; basic; underlying", "S": ["basics ", "basis ", "foundation "], "A": []}
+{"index": 120170, "D": "serving as, or being an essential part of, a foundation or basis; basic; underlying", "S": ["basics", "basis", "foundation"], "A": []}

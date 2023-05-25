@@ -1,1 +1,1 @@
-{"index": 281629, "D": "a percussive effect obtained by rotating a gramophone record manually", "S": ["abrading ", "abrasive ", "rasping ", "rough "], "A": ["smooth "]}
+{"index": 281629, "D": "a percussive effect obtained by rotating a gramophone record manually", "S": ["abrading", "abrasive", "rasping", "rough"], "A": ["smooth"]}

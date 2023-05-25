@@ -1,1 +1,1 @@
-{"index": 65130, "D": "to bring or draw to a common center or point of union; converge; direct toward one point; focus", "S": ["apply ", "establish ", "fixate ", "focus ", "intensify ", "put ", "settle "], "A": ["confuse ", "unsettle ", "disregard ", "forget ", "ignore ", "neglect "]}
+{"index": 65130, "D": "to bring or draw to a common center or point of union; converge; direct toward one point; focus", "S": ["apply", "establish", "fixate", "focus", "intensify", "put", "settle"], "A": ["confuse", "unsettle", "disregard", "forget", "ignore", "neglect"]}

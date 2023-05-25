@@ -1,0 +1,1 @@
+{"index": 14081, "D": "the act of going before; precedence.", "S": ["antecedency", "anteriority", "importance", "precedency", "priority"], "A": []}

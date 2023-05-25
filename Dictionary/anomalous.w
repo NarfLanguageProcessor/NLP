@@ -1,1 +1,1 @@
-{"index": 13763, "D": "deviating from or inconsistent with the common order, form, or rule; irregular; abnormal", "S": ["abnormal ", "atypical ", "divergent ", "incongruous ", "peculiar ", "unnatural "], "A": ["normal ", "ordinary ", "standard ", "usual "]}
+{"index": 13763, "D": "deviating from or inconsistent with the common order, form, or rule; irregular; abnormal", "S": ["abnormal", "atypical", "divergent", "incongruous", "peculiar", "unnatural"], "A": ["normal", "ordinary", "standard", "usual"]}

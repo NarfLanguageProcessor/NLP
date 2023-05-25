@@ -1,1 +1,0 @@
-{"index": 296835, "D": "force; momentum. ", "S": [], "A": []}

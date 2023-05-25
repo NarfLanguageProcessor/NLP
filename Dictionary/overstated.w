@@ -1,1 +1,0 @@
-{"index": 221328, "D": "to state  too strongly; exaggerate", "S": ["elaborate ", "exaggerated "], "A": []}

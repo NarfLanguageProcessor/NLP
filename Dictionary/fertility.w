@@ -1,1 +1,1 @@
-{"index": 111606, "D": "the state or quality of being fertile. ", "S": ["potency ", "pregnancy ", "productivity ", "virility "], "A": ["lack "]}
+{"index": 111606, "D": "the state or quality of being fertile. ", "S": ["potency", "pregnancy", "productivity", "virility"], "A": ["lack"]}

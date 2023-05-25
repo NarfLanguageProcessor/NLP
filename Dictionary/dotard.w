@@ -1,1 +1,1 @@
-{"index": 91883, "D": "a person exhibiting a decline in mental faculties, especially as a result of aging.", "S": ["faltering ", "floundering ", "tottering ", "trembling "], "A": ["agile ", "young ", "youthful "]}
+{"index": 91883, "D": "a person exhibiting a decline in mental faculties, especially as a result of aging.", "S": ["faltering", "floundering", "tottering", "trembling"], "A": ["agile", "young", "youthful"]}

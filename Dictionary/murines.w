@@ -1,1 +1,1 @@
-{"index": 195722, "D": "belonging or pertaining to the rodent subfamily Murinae, which includes more than 500 species of mice and rats", "S": ["vermin "], "A": []}
+{"index": 195722, "D": "belonging or pertaining to the rodent subfamily Murinae, which includes more than 500 species of mice and rats", "S": ["vermin"], "A": []}

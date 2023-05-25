@@ -1,1 +1,1 @@
-{"index": 213717, "D": "burdensome, unjustly harsh, or tyrannical", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}
+{"index": 213717, "D": "burdensome, unjustly harsh, or tyrannical", "S": ["evaporation", "moisture"], "A": ["aridity", "dryness"]}

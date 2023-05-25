@@ -1,1 +1,0 @@
-{"index": 186828, "D": "the middle of a stream.", "S": [], "A": []}

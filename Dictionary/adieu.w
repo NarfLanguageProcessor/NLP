@@ -1,1 +1,1 @@
-{"index": 3917, "D": "goodbye; farewell.", "S": ["farewell ", "goodbye "], "A": ["hello "]}
+{"index": 3917, "D": "goodbye; farewell.", "S": ["farewell", "goodbye"], "A": ["hello"]}

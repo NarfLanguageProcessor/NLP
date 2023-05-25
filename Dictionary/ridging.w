@@ -1,1 +1,1 @@
-{"index": 272682, "D": "a long, narrow elevation of land; a chain of hills or mountains.", "S": ["bulldoze ", "cultivate ", "rake ", "reap ", "shove ", "smash "], "A": ["hide ", "plant "]}
+{"index": 272682, "D": "a long, narrow elevation of land; a chain of hills or mountains.", "S": ["bulldoze", "cultivate", "rake", "reap", "shove", "smash"], "A": ["hide", "plant"]}

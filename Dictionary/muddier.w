@@ -1,1 +1,1 @@
-{"index": 194665, "D": "abounding in or covered with mud. ", "S": ["dirty ", "dull ", "filthy ", "flat ", "gloomy ", "marshy ", "sloppy ", "sodden ", "soggy ", "swampy "], "A": ["bright ", "clean ", "dry ", "light ", "pure ", "sharp ", "sterile ", "vivacious ", "clear ", "good ", "understanding "]}
+{"index": 194665, "D": "abounding in or covered with mud. ", "S": ["dirty", "dull", "filthy", "flat", "gloomy", "marshy", "sloppy", "sodden", "soggy", "swampy"], "A": ["bright", "clean", "dry", "light", "pure", "sharp", "sterile", "vivacious", "clear", "good", "understanding"]}

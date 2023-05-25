@@ -1,1 +1,1 @@
-{"index": 240484, "D": "well filled out or rounded in form; somewhat fleshy or fat.", "S": ["plop "], "A": []}
+{"index": 240484, "D": "well filled out or rounded in form; somewhat fleshy or fat.", "S": ["plop"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 59801, "D": "a member of the clergy. ", "S": ["clergy ", "clerics ", "ecclesiastics ", "prelacy ", "priesthood ", "vicarage "], "A": []}
+{"index": 59801, "D": "a member of the clergy. ", "S": ["clergy", "clerics", "ecclesiastics", "prelacy", "priesthood", "vicarage"], "A": []}

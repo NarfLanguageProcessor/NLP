@@ -1,1 +1,1 @@
-{"index": 131883, "D": "the hairs on the back of the neck and the back of a dog, cat, etc, which rise when the animal is angry or afraid", "S": ["chop ", "clip ", "fell ", "gash ", "hew ", "lacerate ", "mangle ", "mutilate ", "notch ", "slash ", "whack "], "A": []}
+{"index": 131883, "D": "the hairs on the back of the neck and the back of a dog, cat, etc, which rise when the animal is angry or afraid", "S": ["chop", "clip", "fell", "gash", "hew", "lacerate", "mangle", "mutilate", "notch", "slash", "whack"], "A": []}

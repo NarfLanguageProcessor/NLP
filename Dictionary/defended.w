@@ -1,1 +1,1 @@
-{"index": 79191, "D": "to ward off attack from; guard against assault or injury (usually followed by from or against)", "S": ["guarded ", "safeguarded "], "A": []}
+{"index": 79191, "D": "to ward off attack from; guard against assault or injury (usually followed by from or against)", "S": ["guarded", "safeguarded"], "A": []}

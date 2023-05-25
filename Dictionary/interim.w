@@ -1,1 +1,1 @@
-{"index": 155046, "D": "an intervening time; interval; meantime", "S": ["provisional "], "A": ["finished ", "permanent "]}
+{"index": 155046, "D": "an intervening time; interval; meantime", "S": ["provisional"], "A": ["finished", "permanent"]}

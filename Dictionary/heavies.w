@@ -1,1 +1,1 @@
-{"index": 135018, "D": "of great weight; hard to lift or carry", "S": ["advantage ", "edge ", "margin ", "point ", "start ", "supremacy ", "top "], "A": ["center ", "disadvantage ", "interior ", "rear "]}
+{"index": 135018, "D": "of great weight; hard to lift or carry", "S": ["advantage", "edge", "margin", "point", "start", "supremacy", "top"], "A": ["center", "disadvantage", "interior", "rear"]}

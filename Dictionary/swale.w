@@ -1,1 +1,1 @@
-{"index": 314003, "D": "a low place in a tract of land, usually moister and often having ranker vegetation than the adjacent higher land.", "S": ["bog ", "glade "], "A": []}
+{"index": 314003, "D": "a low place in a tract of land, usually moister and often having ranker vegetation than the adjacent higher land.", "S": ["bog", "glade"], "A": []}

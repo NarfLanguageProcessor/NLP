@@ -1,1 +1,1 @@
-{"index": 149715, "D": "embodied in flesh; given a bodily, especially a human, form", "S": ["embodied ", "manifested ", "materialized ", "personified ", "substantiated ", "typified "], "A": []}
+{"index": 149715, "D": "embodied in flesh; given a bodily, especially a human, form", "S": ["embodied", "manifested", "materialized", "personified", "substantiated", "typified"], "A": []}

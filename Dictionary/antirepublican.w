@@ -1,0 +1,1 @@
+{"index": 16082, "D": "opposed to the principles or practice of republicanism", "S": [], "A": []}

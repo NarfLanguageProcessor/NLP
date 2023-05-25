@@ -1,1 +1,1 @@
-{"index": 41621, "D": "to intimidate by overbearing looks or words; bully", "S": ["beaten ", "crippled ", "crushed "], "A": ["encouraged "]}
+{"index": 41621, "D": "to intimidate by overbearing looks or words; bully", "S": ["beaten", "crippled", "crushed"], "A": ["encouraged"]}

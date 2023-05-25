@@ -1,1 +1,1 @@
-{"index": 214697, "D": "the act of ornamenting. ", "S": ["embellishment "], "A": []}
+{"index": 214697, "D": "the act of ornamenting. ", "S": ["embellishment"], "A": []}

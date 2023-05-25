@@ -1,1 +1,1 @@
-{"index": 260120, "D": "water fallen as rain.", "S": ["drink ", "rain "], "A": []}
+{"index": 260120, "D": "water fallen as rain.", "S": ["drink", "rain"], "A": []}

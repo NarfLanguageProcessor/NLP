@@ -1,1 +1,1 @@
-{"index": 220429, "D": "to pay  more than (an amount due)", "S": ["exaggerated ", "overpriced "], "A": []}
+{"index": 220429, "D": "to pay  more than (an amount due)", "S": ["exaggerated", "overpriced"], "A": []}

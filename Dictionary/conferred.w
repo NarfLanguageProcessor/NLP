@@ -1,1 +1,1 @@
-{"index": 65825, "D": "(of a gift, award, or honor) bestowed or awarded", "S": ["given ", "granted "], "A": []}
+{"index": 65825, "D": "(of a gift, award, or honor) bestowed or awarded", "S": ["given", "granted"], "A": []}

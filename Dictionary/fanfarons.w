@@ -1,1 +1,1 @@
-{"index": 109704, "D": "a braggart.", "S": ["blowhard ", "blusterer ", "bouncer ", "braggadocio ", "egotist ", "vaunter "], "A": []}
+{"index": 109704, "D": "a braggart.", "S": ["blowhard", "blusterer", "bouncer", "braggadocio", "egotist", "vaunter"], "A": []}

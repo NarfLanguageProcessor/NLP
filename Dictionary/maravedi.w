@@ -1,1 +1,0 @@
-{"index": 179832, "D": "a former gold coin issued by the Moors in Spain.", "S": [], "A": []}

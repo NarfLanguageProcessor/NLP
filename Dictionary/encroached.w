@@ -1,1 +1,1 @@
-{"index": 99521, "D": "to advance beyond proper, established, or usual limits; make gradual inroads", "S": ["horn in ", "impinge ", "infringe ", "intrude ", "trespass ", "usurp "], "A": ["give ", "ignore "]}
+{"index": 99521, "D": "to advance beyond proper, established, or usual limits; make gradual inroads", "S": ["horn in", "impinge", "infringe", "intrude", "trespass", "usurp"], "A": ["give", "ignore"]}

@@ -1,1 +1,1 @@
-{"index": 366578, "D": "accompanied by; accompanying", "S": ["along ", "alongside ", "amidst ", "among ", "beside ", "by ", "for ", "including ", "near ", "plus ", "upon "], "A": []}
+{"index": 366578, "D": "accompanied by; accompanying", "S": ["along", "alongside", "amidst", "among", "beside", "by", "for", "including", "near", "plus", "upon"], "A": []}

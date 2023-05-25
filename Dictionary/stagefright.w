@@ -1,1 +1,1 @@
-{"index": 302302, "D": [], "S": ["aphonia ", "aphonia clericorum ", "aphonia paralytica ", "aphonia paranoica ", "bashfulness ", "buck fever ", "butterflies ", "flop sweat ", "freeze ", "hysterical aphonia ", "loss of speech ", "mike fright ", "mutism ", "spastic aphonia "], "A": []}
+{"index": 302302, "D": [], "S": ["aphonia", "aphonia clericorum", "aphonia paralytica", "aphonia paranoica", "bashfulness", "buck fever", "butterflies", "flop sweat", "freeze", "hysterical aphonia", "loss of speech", "mike fright", "mutism", "spastic aphonia"], "A": []}

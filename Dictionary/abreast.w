@@ -1,1 +1,1 @@
-{"index": 824, "D": "side by side; beside each other in a line", "S": ["beside ", "equal ", "in alignment ", "in line ", "level ", "opposite ", "shoulder to shoulder ", "side by side "], "A": ["lost ", "out of touch ", "unaware "]}
+{"index": 824, "D": "side by side; beside each other in a line", "S": ["beside", "equal", "in alignment", "in line", "level", "opposite", "shoulder to shoulder", "side by side"], "A": ["lost", "out of touch", "unaware"]}

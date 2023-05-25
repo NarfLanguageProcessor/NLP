@@ -1,1 +1,1 @@
-{"index": 29318, "D": "bulletin board system. See bulletin board (def. 2). ", "S": ["board ", "bulletin board ", "bulletin board system "], "A": []}
+{"index": 29318, "D": "bulletin board system. See bulletin board (def. 2). ", "S": ["board", "bulletin board", "bulletin board system"], "A": []}

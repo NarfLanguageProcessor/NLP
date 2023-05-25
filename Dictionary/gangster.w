@@ -1,1 +1,1 @@
-{"index": 121924, "D": "a member of a gang  of criminals, especially a racketeer in an organized crime syndicate.", "S": ["bandit ", "criminal ", "crook ", "hoodlum ", "hooligan ", "mobster ", "racketeer ", "robber ", "soldier ", "thug "], "A": ["law ", "police "]}
+{"index": 121924, "D": "a member of a gang  of criminals, especially a racketeer in an organized crime syndicate.", "S": ["bandit", "criminal", "crook", "hoodlum", "hooligan", "mobster", "racketeer", "robber", "soldier", "thug"], "A": ["law", "police"]}

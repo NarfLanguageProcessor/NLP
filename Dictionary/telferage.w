@@ -1,1 +1,0 @@
-{"index": 318326, "D": "a variant spelling of telpherage", "S": [], "A": []}

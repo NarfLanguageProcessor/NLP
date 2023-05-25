@@ -1,1 +1,1 @@
-{"index": 161517, "D": "riding breeches, loose-fitting around the hips and tight-fitting from the thighs to the ankles", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}
+{"index": 161517, "D": "riding breeches, loose-fitting around the hips and tight-fitting from the thighs to the ankles", "S": ["knickers", "shorts", "slacks", "trousers", "underpants"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 368238, "D": "wife of Socrates.", "S": ["hag ", "nag ", "shrew ", "virago ", "vixen "], "A": []}
+{"index": 368238, "D": "wife of Socrates.", "S": ["hag", "nag", "shrew", "virago", "vixen"], "A": []}

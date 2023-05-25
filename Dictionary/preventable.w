@@ -1,1 +1,1 @@
-{"index": 250155, "D": "to keep from occurring; avert; hinder", "S": ["avertible ", "avoidable ", "escapable ", "stoppable "], "A": ["inescapable ", "inevitable ", "unavoidable "]}
+{"index": 250155, "D": "to keep from occurring; avert; hinder", "S": ["avertible", "avoidable", "escapable", "stoppable"], "A": ["inescapable", "inevitable", "unavoidable"]}

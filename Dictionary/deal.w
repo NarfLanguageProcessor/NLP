@@ -1,1 +1,1 @@
-{"index": 77534, "D": "a business transaction", "S": ["accord ", "arrangement ", "compromise ", "contract ", "pact ", "pledge ", "transaction "], "A": ["denial ", "disagreement ", "dissension ", "refusal "]}
+{"index": 77534, "D": "a business transaction", "S": ["accord", "arrangement", "compromise", "contract", "pact", "pledge", "transaction"], "A": ["denial", "disagreement", "dissension", "refusal"]}

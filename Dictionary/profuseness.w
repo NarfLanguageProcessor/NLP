@@ -1,1 +1,1 @@
-{"index": 251822, "D": "spending or giving freely and in large amount, often to excess; extravagant (often followed by in)", "S": ["abundance ", "affluence ", "copiousness ", "luxury ", "profusion ", "surplus "], "A": ["lack ", "need ", "want "]}
+{"index": 251822, "D": "spending or giving freely and in large amount, often to excess; extravagant (often followed by in)", "S": ["abundance", "affluence", "copiousness", "luxury", "profusion", "surplus"], "A": ["lack", "need", "want"]}

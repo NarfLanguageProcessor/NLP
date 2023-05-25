@@ -1,1 +1,1 @@
-{"index": 82403, "D": "descending;  going or coming down.", "S": ["down ", "sinking "], "A": []}
+{"index": 82403, "D": "descending;  going or coming down.", "S": ["down", "sinking"], "A": []}

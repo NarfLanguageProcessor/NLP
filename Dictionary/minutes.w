@@ -1,1 +1,1 @@
-{"index": 188065, "D": "an official record of the proceedings of a meeting, conference, convention, etc", "S": ["notes ", "proceedings ", "record ", "summary "], "A": []}
+{"index": 188065, "D": "an official record of the proceedings of a meeting, conference, convention, etc", "S": ["notes", "proceedings", "record", "summary"], "A": []}

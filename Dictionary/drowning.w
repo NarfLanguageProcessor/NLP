@@ -1,1 +1,1 @@
-{"index": 93457, "D": "to die under water or other liquid of suffocation.", "S": ["dropping ", "fading ", "falling ", "immersing ", "submerging "], "A": []}
+{"index": 93457, "D": "to die under water or other liquid of suffocation.", "S": ["dropping", "fading", "falling", "immersing", "submerging"], "A": []}

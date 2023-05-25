@@ -1,1 +1,1 @@
-{"index": 359415, "D": "a change or variation occurring in the course of something.", "S": ["fluctuation ", "permutation "], "A": ["similarity ", "stagnation ", "uniformity "]}
+{"index": 359415, "D": "a change or variation occurring in the course of something.", "S": ["fluctuation", "permutation"], "A": ["similarity", "stagnation", "uniformity"]}

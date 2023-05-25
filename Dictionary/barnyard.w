@@ -1,1 +1,1 @@
-{"index": 28140, "D": "a yard  next to or surrounding a barn. ", "S": ["corral ", "feedlot ", "pen "], "A": []}
+{"index": 28140, "D": "a yard  next to or surrounding a barn. ", "S": ["corral", "feedlot", "pen"], "A": []}

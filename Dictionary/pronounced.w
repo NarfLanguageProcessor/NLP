@@ -1,1 +1,1 @@
-{"index": 252437, "D": "strongly marked", "S": ["clear-cut ", "conspicuous ", "decided ", "definite ", "marked ", "noticeable ", "obvious ", "unmistakable "], "A": ["ambiguous ", "inconspicuous ", "indefinite ", "indistinct ", "obscure ", "uncertain ", "unclear ", "unnoticeable ", "vague "]}
+{"index": 252437, "D": "strongly marked", "S": ["clear-cut", "conspicuous", "decided", "definite", "marked", "noticeable", "obvious", "unmistakable"], "A": ["ambiguous", "inconspicuous", "indefinite", "indistinct", "obscure", "uncertain", "unclear", "unnoticeable", "vague"]}

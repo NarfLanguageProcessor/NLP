@@ -1,1 +1,1 @@
-{"index": 190904, "D": "a prolonged, low, inarticulate sound uttered from or as if from physical or mental suffering.", "S": ["gripe ", "sigh ", "sob ", "wail ", "whine "], "A": []}
+{"index": 190904, "D": "a prolonged, low, inarticulate sound uttered from or as if from physical or mental suffering.", "S": ["gripe", "sigh", "sob", "wail", "whine"], "A": []}

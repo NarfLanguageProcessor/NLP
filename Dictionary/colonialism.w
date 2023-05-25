@@ -1,1 +1,1 @@
-{"index": 63233, "D": "the control or governing influence of a nation over a dependent country, territory, or people.", "S": ["expansionism ", "imperialism ", "neocolonialism "], "A": []}
+{"index": 63233, "D": "the control or governing influence of a nation over a dependent country, territory, or people.", "S": ["expansionism", "imperialism", "neocolonialism"], "A": []}

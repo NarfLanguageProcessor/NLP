@@ -1,1 +1,1 @@
-{"index": 4727, "D": "to speak or write in favor of; support or urge by argument; recommend publicly", "S": ["activist ", "apostle ", "missionary ", "proponent "], "A": []}
+{"index": 4727, "D": "to speak or write in favor of; support or urge by argument; recommend publicly", "S": ["activist", "apostle", "missionary", "proponent"], "A": []}

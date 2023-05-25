@@ -1,1 +1,1 @@
-{"index": 117488, "D": "external appearance of a clearly defined area, as distinguished from color or material;configuration", "S": ["design ", "fashion ", "mode ", "model ", "pattern ", "plan ", "scheme ", "structure ", "style ", "system "], "A": ["disorder ", "disorganization "]}
+{"index": 117488, "D": "external appearance of a clearly defined area, as distinguished from color or material;configuration", "S": ["design", "fashion", "mode", "model", "pattern", "plan", "scheme", "structure", "style", "system"], "A": ["disorder", "disorganization"]}

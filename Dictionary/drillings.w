@@ -1,1 +1,1 @@
-{"index": 93105, "D": "the act of a person or thing that drills. ", "S": ["direction ", "discipline ", "guidance ", "information ", "lesson ", "preparation ", "schooling ", "teaching ", "training "], "A": ["question "]}
+{"index": 93105, "D": "the act of a person or thing that drills. ", "S": ["direction", "discipline", "guidance", "information", "lesson", "preparation", "schooling", "teaching", "training"], "A": ["question"]}

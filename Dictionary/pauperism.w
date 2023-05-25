@@ -1,1 +1,1 @@
-{"index": 228141, "D": "the state or condition of utter poverty.", "S": ["default ", "disaster ", "failure ", "insolvency ", "liquidation ", "loss "], "A": ["accomplishment ", "achievement ", "success ", "win "]}
+{"index": 228141, "D": "the state or condition of utter poverty.", "S": ["default", "disaster", "failure", "insolvency", "liquidation", "loss"], "A": ["accomplishment", "achievement", "success", "win"]}

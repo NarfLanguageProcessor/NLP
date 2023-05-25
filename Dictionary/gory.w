@@ -1,1 +1,1 @@
-{"index": 128126, "D": "covered or stained with gore;  bloody.", "S": ["murderous "], "A": ["mild ", "pleasant ", "pleasing "]}
+{"index": 128126, "D": "covered or stained with gore;  bloody.", "S": ["murderous"], "A": ["mild", "pleasant", "pleasing"]}

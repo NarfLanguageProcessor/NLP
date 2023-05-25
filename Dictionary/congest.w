@@ -1,1 +1,1 @@
-{"index": 66170, "D": "to fill to excess; overcrowd or overburden; clog", "S": ["choke ", "overburden ", "overcrowd "], "A": ["let go ", "unblock "]}
+{"index": 66170, "D": "to fill to excess; overcrowd or overburden; clog", "S": ["choke", "overburden", "overcrowd"], "A": ["let go", "unblock"]}

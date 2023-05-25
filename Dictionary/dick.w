@@ -1,1 +1,1 @@
-{"index": 84880, "D": "a detective.", "S": ["agent ", "informer ", "police officer ", "private eye ", "private investigator ", "prosecutor ", "reporter ", "sleuth ", "spy "], "A": []}
+{"index": 84880, "D": "a detective.", "S": ["agent", "informer", "police officer", "private eye", "private investigator", "prosecutor", "reporter", "sleuth", "spy"], "A": []}

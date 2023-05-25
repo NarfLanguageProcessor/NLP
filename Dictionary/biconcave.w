@@ -1,1 +1,1 @@
-{"index": 33452, "D": "concave  on both sides, as a lens.", "S": ["cupped ", "dented ", "dimpled ", "dipped ", "excavated ", "hollow ", "hollowed ", "incurvate ", "incurvated ", "incurved ", "indented ", "round ", "rounded ", "sagging ", "sinking ", "sunken "], "A": ["convex ", "distended "]}
+{"index": 33452, "D": "concave  on both sides, as a lens.", "S": ["cupped", "dented", "dimpled", "dipped", "excavated", "hollow", "hollowed", "incurvate", "incurvated", "incurved", "indented", "round", "rounded", "sagging", "sinking", "sunken"], "A": ["convex", "distended"]}

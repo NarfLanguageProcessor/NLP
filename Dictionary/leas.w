@@ -1,1 +1,1 @@
-{"index": 169673, "D": "a tract of open ground, especially grassland; meadow.", "S": ["farmland ", "garden ", "grassland ", "green ", "ground ", "meadow ", "pasture ", "range ", "terrain ", "territory "], "A": ["sky "]}
+{"index": 169673, "D": "a tract of open ground, especially grassland; meadow.", "S": ["farmland", "garden", "grassland", "green", "ground", "meadow", "pasture", "range", "terrain", "territory"], "A": ["sky"]}

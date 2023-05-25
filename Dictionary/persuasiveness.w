@@ -1,1 +1,1 @@
-{"index": 232068, "D": "able, fitted, or intended to persuade", "S": ["forcefulness ", "inducement ", "influence ", "power ", "strength "], "A": ["impotence ", "incapacity ", "weakness "]}
+{"index": 232068, "D": "able, fitted, or intended to persuade", "S": ["forcefulness", "inducement", "influence", "power", "strength"], "A": ["impotence", "incapacity", "weakness"]}

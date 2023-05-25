@@ -1,1 +1,1 @@
-{"index": 38955, "D": "a person or thing that bounces. ", "S": ["blowhard ", "blusterer ", "braggadocio ", "egotist ", "vaunter "], "A": []}
+{"index": 38955, "D": "a person or thing that bounces. ", "S": ["blowhard", "blusterer", "braggadocio", "egotist", "vaunter"], "A": []}

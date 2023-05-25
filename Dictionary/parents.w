@@ -1,1 +1,1 @@
-{"index": 226402, "D": "a father or a mother.", "S": ["brood ", "clan ", "horde ", "household ", "kin ", "people ", "relatives ", "tribe "], "A": []}
+{"index": 226402, "D": "a father or a mother.", "S": ["brood", "clan", "horde", "household", "kin", "people", "relatives", "tribe"], "A": []}

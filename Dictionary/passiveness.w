@@ -1,1 +1,1 @@
-{"index": 227364, "D": "the state or condition of being passive. ", "S": ["disinterest ", "emotionlessness ", "indifference ", "passivity ", "resignation ", "unconcern "], "A": ["concern "]}
+{"index": 227364, "D": "the state or condition of being passive. ", "S": ["disinterest", "emotionlessness", "indifference", "passivity", "resignation", "unconcern"], "A": ["concern"]}

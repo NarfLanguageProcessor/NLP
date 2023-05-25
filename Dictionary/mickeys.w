@@ -1,1 +1,1 @@
-{"index": 185780, "D": "a drink, usually alcoholic, to which a drug, purgative, or the like, has been secretly added, that renders the unsuspecting drinker helpless.", "S": ["Mickey Finn ", "chloral hydrate ", "joy juice "], "A": []}
+{"index": 185780, "D": "a drink, usually alcoholic, to which a drug, purgative, or the like, has been secretly added, that renders the unsuspecting drinker helpless.", "S": ["Mickey Finn", "chloral hydrate", "joy juice"], "A": []}

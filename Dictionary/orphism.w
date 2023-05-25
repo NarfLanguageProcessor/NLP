@@ -1,1 +1,1 @@
-{"index": 214887, "D": "the religious or philosophical system of the Orphic school.", "S": ["cabala ", "cabalism ", "kabala ", "kabbalism ", "pietism ", "quietism ", "spiritualism "], "A": []}
+{"index": 214887, "D": "the religious or philosophical system of the Orphic school.", "S": ["cabala", "cabalism", "kabala", "kabbalism", "pietism", "quietism", "spiritualism"], "A": []}

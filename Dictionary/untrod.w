@@ -1,1 +1,1 @@
-{"index": 353378, "D": "not trod;  not traversed", "S": ["pathless ", "trackless ", "untracked ", "untraversed "], "A": []}
+{"index": 353378, "D": "not trod;  not traversed", "S": ["pathless", "trackless", "untracked", "untraversed"], "A": []}

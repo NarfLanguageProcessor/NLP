@@ -1,1 +1,1 @@
-{"index": 110932, "D": "the act of pretending or putting on a show in order to deceive", "S": ["deceptive ", "duplicitous ", "false ", "insincere ", "sanctimonious ", "self-righteous ", "unnatural "], "A": ["forthright ", "frank ", "genuine ", "honest ", "humble ", "open ", "real ", "truthful "]}
+{"index": 110932, "D": "the act of pretending or putting on a show in order to deceive", "S": ["deceptive", "duplicitous", "false", "insincere", "sanctimonious", "self-righteous", "unnatural"], "A": ["forthright", "frank", "genuine", "honest", "humble", "open", "real", "truthful"]}

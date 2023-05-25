@@ -1,1 +1,1 @@
-{"index": 145778, "D": "thread made of natural or synthetic fibers and used for knitting and weaving.", "S": ["fleece ", "thread ", "wool "], "A": []}
+{"index": 145778, "D": "thread made of natural or synthetic fibers and used for knitting and weaving.", "S": ["fleece", "thread", "wool"], "A": []}

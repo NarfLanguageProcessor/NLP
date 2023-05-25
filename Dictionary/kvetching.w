@@ -1,1 +1,1 @@
-{"index": 166564, "D": "to complain, especially chronically.", "S": ["bellyaching ", "caviling ", "criticizing ", "disparaging ", "griping ", "grousing ", "grumbling ", "moaning ", "nagging ", "niggling ", "quibbling ", "whining "], "A": ["complimentary ", "forgiving "]}
+{"index": 166564, "D": "to complain, especially chronically.", "S": ["bellyaching", "caviling", "criticizing", "disparaging", "griping", "grousing", "grumbling", "moaning", "nagging", "niggling", "quibbling", "whining"], "A": ["complimentary", "forgiving"]}

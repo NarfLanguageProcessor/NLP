@@ -1,0 +1,1 @@
+{"index": 4923, "D": "the nest of a bird of prey, as an eagle or a hawk.", "S": ["brood", "penthouse"], "A": []}

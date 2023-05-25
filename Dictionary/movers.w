@@ -1,1 +1,1 @@
-{"index": 194397, "D": "a person or thing that moves. ", "S": ["assistant ", "broker ", "commissioner ", "deputy ", "handler ", "lawyer ", "minister ", "officer ", "operative ", "operator ", "promoter ", "representative ", "worker "], "A": []}
+{"index": 194397, "D": "a person or thing that moves. ", "S": ["assistant", "broker", "commissioner", "deputy", "handler", "lawyer", "minister", "officer", "operative", "operator", "promoter", "representative", "worker"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 5370, "D": "being in close formal or informal association; related", "S": ["connected "], "A": ["separated "]}
+{"index": 5370, "D": "being in close formal or informal association; related", "S": ["connected"], "A": ["separated"]}

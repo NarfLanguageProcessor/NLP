@@ -1,1 +1,1 @@
-{"index": 317029, "D": "to let out secrets.", "S": ["blabby ", "dishing ", "prattling ", "repeating ", "taletelling "], "A": []}
+{"index": 317029, "D": "to let out secrets.", "S": ["blabby", "dishing", "prattling", "repeating", "taletelling"], "A": []}

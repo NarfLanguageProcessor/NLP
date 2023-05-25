@@ -1,1 +1,1 @@
-{"index": 36520, "D": "women's or girls' baggy knickers", "S": ["panties ", "pants ", "shorts ", "underwear "], "A": []}
+{"index": 36520, "D": "women's or girls' baggy knickers", "S": ["panties", "pants", "shorts", "underwear"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92010, "D": "without doubt; certainly; surely; unquestionably.", "S": ["doubtless ", "undoubtedly "], "A": []}
+{"index": 92010, "D": "without doubt; certainly; surely; unquestionably.", "S": ["doubtless", "undoubtedly"], "A": []}

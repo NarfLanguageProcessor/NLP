@@ -1,1 +1,1 @@
-{"index": 33776, "D": "a person who is utterly intolerant of any differing creed, belief, or opinion.", "S": ["dogmatist ", "extremist ", "fanatic ", "true believer ", "zealot "], "A": ["moderate ", "freethinker "]}
+{"index": 33776, "D": "a person who is utterly intolerant of any differing creed, belief, or opinion.", "S": ["dogmatist", "extremist", "fanatic", "true believer", "zealot"], "A": ["moderate", "freethinker"]}

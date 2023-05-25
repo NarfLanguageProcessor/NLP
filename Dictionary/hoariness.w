@@ -1,1 +1,1 @@
-{"index": 142046, "D": "gray or white with age", "S": ["age ", "ancientness ", "archaicism ", "archaism ", "venerableness "], "A": ["convention ", "modernity ", "newness ", "now "]}
+{"index": 142046, "D": "gray or white with age", "S": ["age", "ancientness", "archaicism", "archaism", "venerableness"], "A": ["convention", "modernity", "newness", "now"]}

@@ -1,1 +1,1 @@
-{"index": 6189, "D": "the process of becoming old or older", "S": ["crumbling ", "declining ", "developing ", "fading ", "fermenting ", "maturing ", "mellowing ", "slumping ", "stale ", "waning "], "A": []}
+{"index": 6189, "D": "the process of becoming old or older", "S": ["crumbling", "declining", "developing", "fading", "fermenting", "maturing", "mellowing", "slumping", "stale", "waning"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 63893, "D": "Compare ranger (def. 3). ", "S": ["Green Berets ", "elite troops ", "guerrilla troops ", "paratroops ", "rangers ", "rapid deployment force ", "shock troops ", "storm troops "], "A": []}
+{"index": 63893, "D": "Compare ranger (def. 3). ", "S": ["Green Berets", "elite troops", "guerrilla troops", "paratroops", "rangers", "rapid deployment force", "shock troops", "storm troops"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 307830, "D": "an act or instance of subducting;  subtraction or withdrawal.", "S": ["decrease ", "diminution ", "discount ", "reduction "], "A": ["development ", "enlargement ", "expansion ", "growth ", "increase "]}

@@ -1,1 +1,1 @@
-{"index": 34627, "D": "divided into or consisting of two parts.", "S": ["amphibian ", "binary ", "diploid "], "A": []}
+{"index": 34627, "D": "divided into or consisting of two parts.", "S": ["amphibian", "binary", "diploid"], "A": []}

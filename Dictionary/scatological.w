@@ -1,1 +1,0 @@
-{"index": 279847, "D": "characterized by obscenity or preoccupation with obscenity, esp in the form of references to excrement", "S": ["bawdy ", "coarse ", "lewd ", "obscene "], "A": ["clean ", "decent ", "moral "]}

@@ -1,1 +1,1 @@
-{"index": 274896, "D": "any catarrhal inflammation of the eyes and nasal passages of poultry.", "S": ["Dutch auction ", "auctioneering ", "sale by auction ", "venue "], "A": []}
+{"index": 274896, "D": "any catarrhal inflammation of the eyes and nasal passages of poultry.", "S": ["Dutch auction", "auctioneering", "sale by auction", "venue"], "A": []}

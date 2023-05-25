@@ -1,1 +1,1 @@
-{"index": 81206, "D": "a tooth or toothlike part.", "S": ["cave ", "hotbed ", "nest ", "sanctuary "], "A": []}
+{"index": 81206, "D": "a tooth or toothlike part.", "S": ["cave", "hotbed", "nest", "sanctuary"], "A": []}

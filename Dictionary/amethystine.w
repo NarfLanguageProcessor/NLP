@@ -1,0 +1,1 @@
+{"index": 10348, "D": "a purple or violet quartz, used as a gem.", "S": [], "A": []}

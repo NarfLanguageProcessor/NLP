@@ -1,1 +1,1 @@
-{"index": 310976, "D": "to call upon to do something specified.", "S": ["catchpole ", "law officer ", "messenger ", "pursuivant "], "A": []}
+{"index": 310976, "D": "to call upon to do something specified.", "S": ["catchpole", "law officer", "messenger", "pursuivant"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92256, "D": "of the nature of or resembling down;  fluffy; soft.", "S": ["featherlike ", "feathery ", "fleecy ", "fuzzy ", "light ", "plumate ", "plumose ", "pubescent ", "silky ", "soft ", "velutinous ", "velvety ", "woolly "], "A": []}
+{"index": 92256, "D": "of the nature of or resembling down;  fluffy; soft.", "S": ["featherlike", "feathery", "fleecy", "fuzzy", "light", "plumate", "plumose", "pubescent", "silky", "soft", "velutinous", "velvety", "woolly"], "A": []}

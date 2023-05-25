@@ -1,1 +1,1 @@
-{"index": 57623, "D": "a belt or girdle.", "S": ["belt ", "collar ", "enclosure ", "girdle ", "girth "], "A": []}
+{"index": 57623, "D": "a belt or girdle.", "S": ["belt", "collar", "enclosure", "girdle", "girth"], "A": []}

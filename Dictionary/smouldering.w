@@ -1,1 +1,1 @@
-{"index": 295107, "D": "smolder. ", "S": ["fiery ", "flaming ", "gleaming ", "glowing ", "hot ", "scorching ", "searing "], "A": ["cold ", "cool "]}
+{"index": 295107, "D": "smolder. ", "S": ["fiery", "flaming", "gleaming", "glowing", "hot", "scorching", "searing"], "A": ["cold", "cool"]}

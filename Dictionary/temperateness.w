@@ -1,1 +1,1 @@
-{"index": 318520, "D": "moderate or self-restrained; not extreme in opinion, statement, etc.", "S": ["abstinence ", "ascetic ", "moderation ", "restraint ", "self-denial "], "A": ["indulgence ", "intemperance ", "self-indulgence ", "wildness "]}
+{"index": 318520, "D": "moderate or self-restrained; not extreme in opinion, statement, etc.", "S": ["abstinence", "ascetic", "moderation", "restraint", "self-denial"], "A": ["indulgence", "intemperance", "self-indulgence", "wildness"]}

@@ -1,1 +1,1 @@
-{"index": 121316, "D": "a fighting galley, lateen-rigged on three masts, used in the Mediterranean Sea from the 15th to the 18th centuries.", "S": ["dinghy ", "galleon ", "rowboat ", "tender ", "trireme "], "A": []}
+{"index": 121316, "D": "a fighting galley, lateen-rigged on three masts, used in the Mediterranean Sea from the 15th to the 18th centuries.", "S": ["dinghy", "galleon", "rowboat", "tender", "trireme"], "A": []}

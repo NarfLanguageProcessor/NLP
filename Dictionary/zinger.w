@@ -1,1 +1,1 @@
-{"index": 369455, "D": "a quick, witty, or pointed remark or retort", "S": ["bat ", "blow ", "punch ", "shot ", "swing "], "A": []}
+{"index": 369455, "D": "a quick, witty, or pointed remark or retort", "S": ["bat", "blow", "punch", "shot", "swing"], "A": []}

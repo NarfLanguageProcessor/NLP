@@ -1,1 +1,1 @@
-{"index": 199447, "D": "full of news", "S": ["detailed ", "elaborate ", "informative ", "instructive "], "A": []}
+{"index": 199447, "D": "full of news", "S": ["detailed", "elaborate", "informative", "instructive"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 77065, "D": "(in an automobile or similar vehicle) a panel beneath the front window having various gauges and accessories for the use of the driver; instrument panel.", "S": ["control panel ", "indicator panel ", "instrument board "], "A": []}
+{"index": 77065, "D": "(in an automobile or similar vehicle) a panel beneath the front window having various gauges and accessories for the use of the driver; instrument panel.", "S": ["control panel", "indicator panel", "instrument board"], "A": []}

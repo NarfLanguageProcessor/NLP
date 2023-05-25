@@ -1,1 +1,0 @@
-{"index": 246333, "D": "to bring or draw to a common center or point of union; converge; direct toward one point; focus", "S": [], "A": []}

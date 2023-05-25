@@ -1,1 +1,1 @@
-{"index": 100480, "D": "to chase (letters, designs, etc.) on a hard surface, as of metal, stone, or the end grain of wood", "S": ["chisel ", "embed ", "etch ", "imprint ", "ingrain ", "inscribe "], "A": ["aid ", "dislodge ", "help ", "neglect "]}
+{"index": 100480, "D": "to chase (letters, designs, etc.) on a hard surface, as of metal, stone, or the end grain of wood", "S": ["chisel", "embed", "etch", "imprint", "ingrain", "inscribe"], "A": ["aid", "dislodge", "help", "neglect"]}

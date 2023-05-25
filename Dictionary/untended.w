@@ -1,1 +1,1 @@
-{"index": 352806, "D": "not cared for or attended to", "S": ["dilapidated "], "A": ["cared for ", "considered ", "heeded ", "used "]}
+{"index": 352806, "D": "not cared for or attended to", "S": ["dilapidated"], "A": ["cared for", "considered", "heeded", "used"]}

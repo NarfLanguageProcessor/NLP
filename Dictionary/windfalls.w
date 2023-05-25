@@ -1,1 +1,1 @@
-{"index": 365943, "D": "an unexpected gain, piece of good fortune, or the like.", "S": ["bonanza ", "bonus "], "A": []}
+{"index": 365943, "D": "an unexpected gain, piece of good fortune, or the like.", "S": ["bonanza", "bonus"], "A": []}

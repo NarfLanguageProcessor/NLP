@@ -1,1 +1,1 @@
-{"index": 278180, "D": "the juice or vital circulating fluid of a plant, especially of a woody plant.", "S": ["enervated ", "enfeebled ", "incapacitated ", "weakened "], "A": ["active ", "energized ", "invigorated "]}
+{"index": 278180, "D": "the juice or vital circulating fluid of a plant, especially of a woody plant.", "S": ["enervated", "enfeebled", "incapacitated", "weakened"], "A": ["active", "energized", "invigorated"]}

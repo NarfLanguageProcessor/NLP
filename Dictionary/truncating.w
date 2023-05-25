@@ -1,1 +1,1 @@
-{"index": 331604, "D": "to shorten by cutting off a part; cut short", "S": ["abbreviate ", "abridge ", "curtail ", "cut short "], "A": ["enlarge ", "expand ", "extend ", "increase ", "lengthen ", "prolong ", "lose "]}
+{"index": 331604, "D": "to shorten by cutting off a part; cut short", "S": ["abbreviate", "abridge", "curtail", "cut short"], "A": ["enlarge", "expand", "extend", "increase", "lengthen", "prolong", "lose"]}

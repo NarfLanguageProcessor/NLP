@@ -1,1 +1,1 @@
-{"index": 316027, "D": "the state of being tangent. ", "S": ["joining ", "touch ", "touching "], "A": []}
+{"index": 316027, "D": "the state of being tangent. ", "S": ["joining", "touch", "touching"], "A": []}

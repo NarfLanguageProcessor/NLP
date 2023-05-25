@@ -1,1 +1,1 @@
-{"index": 38956, "D": "to spring back from a surface in a lively manner", "S": ["rebound "], "A": ["apathy ", "enervation ", "idleness ", "inactivity ", "laziness ", "lethargy "]}
+{"index": 38956, "D": "to spring back from a surface in a lively manner", "S": ["rebound"], "A": ["apathy", "enervation", "idleness", "inactivity", "laziness", "lethargy"]}

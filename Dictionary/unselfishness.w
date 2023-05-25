@@ -1,1 +1,1 @@
-{"index": 350730, "D": "not selfish;  disinterested; generous; altruistic.", "S": ["altruism "], "A": ["malevolence ", "meanness ", "selfishness ", "unkindness "]}
+{"index": 350730, "D": "not selfish;  disinterested; generous; altruistic.", "S": ["altruism"], "A": ["malevolence", "meanness", "selfishness", "unkindness"]}

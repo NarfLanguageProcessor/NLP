@@ -1,1 +1,1 @@
-{"index": 60510, "D": "a retailer of clothing.", "S": ["costumer ", "couturier ", "seamstress ", "tailor "], "A": []}
+{"index": 60510, "D": "a retailer of clothing.", "S": ["costumer", "couturier", "seamstress", "tailor"], "A": []}

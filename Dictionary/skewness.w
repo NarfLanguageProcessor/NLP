@@ -1,1 +1,1 @@
-{"index": 293048, "D": "asymmetry in a frequency distribution.", "S": ["imbalance ", "inequality "], "A": []}
+{"index": 293048, "D": "asymmetry in a frequency distribution.", "S": ["imbalance", "inequality"], "A": []}

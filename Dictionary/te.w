@@ -1,1 +1,1 @@
-{"index": 317407, "D": "ti1. ", "S": ["fierce ", "intense ", "intensive ", "profound "], "A": ["calm ", "mild ", "moderate ", "easy ", "facile "]}
+{"index": 317407, "D": "ti1. ", "S": ["fierce", "intense", "intensive", "profound"], "A": ["calm", "mild", "moderate", "easy", "facile"]}

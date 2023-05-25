@@ -1,1 +1,1 @@
-{"index": 161226, "D": "a holy war undertaken as a sacred duty by Muslims.", "S": ["demonstration ", "expedition ", "movement "], "A": ["halt ", "stoppage "]}
+{"index": 161226, "D": "a holy war undertaken as a sacred duty by Muslims.", "S": ["demonstration", "expedition", "movement"], "A": ["halt", "stoppage"]}

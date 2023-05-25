@@ -1,1 +1,1 @@
-{"index": 319636, "D": "to fill or overcome with terror. ", "S": ["aggressive ", "frightening ", "terrifying "], "A": []}
+{"index": 319636, "D": "to fill or overcome with terror. ", "S": ["aggressive", "frightening", "terrifying"], "A": []}

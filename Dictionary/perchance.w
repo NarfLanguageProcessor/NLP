@@ -1,1 +1,1 @@
-{"index": 230411, "D": "perhaps; maybe; possibly.", "S": ["mayhap ", "perhaps "], "A": []}
+{"index": 230411, "D": "perhaps; maybe; possibly.", "S": ["mayhap", "perhaps"], "A": []}

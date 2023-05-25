@@ -1,1 +1,1 @@
-{"index": 171199, "D": "having no part higher than another; having a flat or even surface.", "S": ["annihilation ", "explosion "], "A": ["building ", "construction ", "fixing ", "production ", "repair "]}
+{"index": 171199, "D": "having no part higher than another; having a flat or even surface.", "S": ["annihilation", "explosion"], "A": ["building", "construction", "fixing", "production", "repair"]}

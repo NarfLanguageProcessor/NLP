@@ -1,1 +1,1 @@
-{"index": 118319, "D": "a privilege of a public nature conferred on an individual, group, or company by a government", "S": ["authorization ", "ballot ", "charter ", "exemption ", "freedom ", "immunity ", "patent ", "prerogative ", "privilege ", "suffrage ", "vote "], "A": ["responsibility "]}
+{"index": 118319, "D": "a privilege of a public nature conferred on an individual, group, or company by a government", "S": ["authorization", "ballot", "charter", "exemption", "freedom", "immunity", "patent", "prerogative", "privilege", "suffrage", "vote"], "A": ["responsibility"]}

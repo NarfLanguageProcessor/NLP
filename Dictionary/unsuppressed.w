@@ -1,1 +1,1 @@
-{"index": 352466, "D": "stopped or kept from carrying on normal activity", "S": ["extensive ", "far-reaching ", "inclusive ", "wide-ranging "], "A": ["narrow "]}
+{"index": 352466, "D": "stopped or kept from carrying on normal activity", "S": ["extensive", "far-reaching", "inclusive", "wide-ranging"], "A": ["narrow"]}

@@ -1,1 +1,1 @@
-{"index": 227592, "D": "characterized by or made up of patches. ", "S": ["unequally "], "A": ["equally ", "evenly "]}
+{"index": 227592, "D": "characterized by or made up of patches. ", "S": ["unequally"], "A": ["equally", "evenly"]}

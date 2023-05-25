@@ -1,1 +1,1 @@
-{"index": 349379, "D": "not regulated; uncontrolled", "S": ["unchecked ", "uncontrolled "], "A": ["restrained "]}
+{"index": 349379, "D": "not regulated; uncontrolled", "S": ["unchecked", "uncontrolled"], "A": ["restrained"]}

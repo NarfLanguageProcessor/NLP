@@ -1,1 +1,1 @@
-{"index": 134466, "D": "a person who hunts with hawks  or other birds of prey.", "S": ["costermonger ", "huckster ", "salesperson ", "seller "], "A": []}
+{"index": 134466, "D": "a person who hunts with hawks  or other birds of prey.", "S": ["costermonger", "huckster", "salesperson", "seller"], "A": []}

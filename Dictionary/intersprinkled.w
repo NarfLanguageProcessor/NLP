@@ -1,1 +1,1 @@
-{"index": 155974, "D": "to scatter (a liquid, powder, etc.) in drops or particles", "S": ["infuse ", "pepper ", "sprinkle "], "A": ["collect ", "gather "]}
+{"index": 155974, "D": "to scatter (a liquid, powder, etc.) in drops or particles", "S": ["infuse", "pepper", "sprinkle"], "A": ["collect", "gather"]}

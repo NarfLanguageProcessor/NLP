@@ -1,1 +1,1 @@
-{"index": 366013, "D": "any of several personal computer operating systems or environments featuring a graphical user interface.", "S": ["MS-DOS ", "MacOS ", "OS ", "OS/2 ", "UNIX ", "disk operating system ", "dos ", "executive ", "system software ", "systems program "], "A": []}
+{"index": 366013, "D": "any of several personal computer operating systems or environments featuring a graphical user interface.", "S": ["MS-DOS", "MacOS", "OS", "OS/2", "UNIX", "disk operating system", "dos", "executive", "system software", "systems program"], "A": []}

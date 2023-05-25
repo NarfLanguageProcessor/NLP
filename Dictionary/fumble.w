@@ -1,1 +1,1 @@
-{"index": 120044, "D": "to feel or grope about clumsily", "S": ["botch ", "flub ", "mishandle ", "screw up ", "stumble "], "A": ["succeed ", "do well "]}
+{"index": 120044, "D": "to feel or grope about clumsily", "S": ["botch", "flub", "mishandle", "screw up", "stumble"], "A": ["succeed", "do well"]}

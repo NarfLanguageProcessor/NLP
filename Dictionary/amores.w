@@ -1,1 +1,1 @@
-{"index": 10914, "D": [], "S": ["admiration ", "devotion ", "esteem ", "reverence ", "veneration "], "A": ["disregard ", "disrespect ", "condemnation ", "debasement ", "denunciation ", "dislike ", "hate ", "hatred ", "humiliation ", "indifference "]}
+{"index": 10914, "D": [], "S": ["admiration", "devotion", "esteem", "reverence", "veneration"], "A": ["disregard", "disrespect", "condemnation", "debasement", "denunciation", "dislike", "hate", "hatred", "humiliation", "indifference"]}

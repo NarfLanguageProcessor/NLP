@@ -1,1 +1,1 @@
-{"index": 22213, "D": "contracting; constrictive; styptic.", "S": ["acidity ", "asperity ", "sourness ", "tartness "], "A": ["kindness ", "mellowness ", "mildness ", "sweetness "]}
+{"index": 22213, "D": "contracting; constrictive; styptic.", "S": ["acidity", "asperity", "sourness", "tartness"], "A": ["kindness", "mellowness", "mildness", "sweetness"]}

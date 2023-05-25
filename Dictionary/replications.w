@@ -1,1 +1,1 @@
-{"index": 268314, "D": "a reply; answer. ", "S": ["reproduction "], "A": ["difference ", "dissimilarity ", "entity ", "opposite ", "original ", "unlikeness "]}
+{"index": 268314, "D": "a reply; answer. ", "S": ["reproduction"], "A": ["difference", "dissimilarity", "entity", "opposite", "original", "unlikeness"]}

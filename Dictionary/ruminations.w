@@ -1,1 +1,1 @@
-{"index": 275541, "D": "the act of pondering or musing on something", "S": ["meditation ", "reflection "], "A": ["disbelief ", "disdain ", "disregard ", "disrespect ", "heedlessness ", "ignorance ", "neglect ", "negligence ", "thoughtlessness "]}
+{"index": 275541, "D": "the act of pondering or musing on something", "S": ["meditation", "reflection"], "A": ["disbelief", "disdain", "disregard", "disrespect", "heedlessness", "ignorance", "neglect", "negligence", "thoughtlessness"]}

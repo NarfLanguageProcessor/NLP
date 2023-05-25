@@ -1,1 +1,1 @@
-{"index": 251257, "D": "to announce or declare in an official or formal manner", "S": ["announcer ", "bellman ", "crier ", "publicizer ", "stentor "], "A": []}
+{"index": 251257, "D": "to announce or declare in an official or formal manner", "S": ["announcer", "bellman", "crier", "publicizer", "stentor"], "A": []}

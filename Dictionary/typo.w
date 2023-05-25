@@ -1,1 +1,1 @@
-{"index": 324313, "D": "typographical error. ", "S": ["error ", "mistake "], "A": ["accuracy ", "certainty ", "correction ", "truth "]}
+{"index": 324313, "D": "typographical error. ", "S": ["error", "mistake"], "A": ["accuracy", "certainty", "correction", "truth"]}

@@ -1,1 +1,1 @@
-{"index": 20790, "D": "a mechanical; paste-up.", "S": ["art ", "picture ", "piece ", "portrait ", "watercolor "], "A": []}
+{"index": 20790, "D": "a mechanical; paste-up.", "S": ["art", "picture", "piece", "portrait", "watercolor"], "A": []}

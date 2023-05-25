@@ -1,1 +1,1 @@
-{"index": 36124, "D": "plastic surgery of the eyelid, used to remove epicanthic folds, sagging tissue, or wrinkles around the eyes or to repair injury to the eyelid.", "S": ["breast implant ", "cosmetic surgery ", "liposuction "], "A": []}
+{"index": 36124, "D": "plastic surgery of the eyelid, used to remove epicanthic folds, sagging tissue, or wrinkles around the eyes or to repair injury to the eyelid.", "S": ["breast implant", "cosmetic surgery", "liposuction"], "A": []}

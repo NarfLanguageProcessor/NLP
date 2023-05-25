@@ -1,1 +1,1 @@
-{"index": 105062, "D": "an ethnic  group; a social group that shares a common and distinctive culture, religion, language, or the like", "S": ["nationality ", "race "], "A": []}
+{"index": 105062, "D": "an ethnic  group; a social group that shares a common and distinctive culture, religion, language, or the like", "S": ["nationality", "race"], "A": []}

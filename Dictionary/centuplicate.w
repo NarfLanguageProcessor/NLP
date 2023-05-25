@@ -1,1 +1,1 @@
-{"index": 51059, "D": "to increase 100 times; centuple.", "S": ["centenary ", "centennial ", "century ", "hundredth "], "A": []}
+{"index": 51059, "D": "to increase 100 times; centuple.", "S": ["centenary", "centennial", "century", "hundredth"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 251507, "D": "to poke or jab with or as if with something pointed", "S": ["advised ", "cautioned ", "forewarned ", "notified ", "prompted "], "A": []}
+{"index": 251507, "D": "to poke or jab with or as if with something pointed", "S": ["advised", "cautioned", "forewarned", "notified", "prompted"], "A": []}

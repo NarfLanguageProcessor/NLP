@@ -1,1 +1,1 @@
-{"index": 82969, "D": "to reduce (an object) to useless fragments, a useless form, or remains, as by rending, burning, or dissolving; injure beyond repair or renewal; demolish; ruin; annihilate. ", "S": ["spoiling ", "wrecking "], "A": []}
+{"index": 82969, "D": "to reduce (an object) to useless fragments, a useless form, or remains, as by rending, burning, or dissolving; injure beyond repair or renewal; demolish; ruin; annihilate. ", "S": ["spoiling", "wrecking"], "A": []}

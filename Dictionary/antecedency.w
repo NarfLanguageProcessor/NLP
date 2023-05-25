@@ -1,0 +1,1 @@
+{"index": 14082, "D": "the quality or condition of being antecedent. ", "S": ["anteriority", "importance", "precedency", "priority"], "A": []}

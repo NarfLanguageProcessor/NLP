@@ -1,1 +1,1 @@
-{"index": 365898, "D": "air in natural motion, as that moving horizontally at any velocity along the earth's surface", "S": ["air ", "blast ", "breeze ", "cyclone ", "gale ", "gust "], "A": ["calm "]}
+{"index": 365898, "D": "air in natural motion, as that moving horizontally at any velocity along the earth's surface", "S": ["air", "blast", "breeze", "cyclone", "gale", "gust"], "A": ["calm"]}

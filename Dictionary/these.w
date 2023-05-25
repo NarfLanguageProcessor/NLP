@@ -1,1 +1,1 @@
-{"index": 321591, "D": "plural of this. ", "S": ["the above-mentioned ", "the particular "], "A": []}
+{"index": 321591, "D": "plural of this. ", "S": ["the above-mentioned", "the particular"], "A": []}

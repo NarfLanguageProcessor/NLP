@@ -1,1 +1,1 @@
-{"index": 155212, "D": "an inner lining placed between the ordinary lining and the outer fabric of a garment.", "S": ["cover ", "fill ", "stuff "], "A": ["strip "]}
+{"index": 155212, "D": "an inner lining placed between the ordinary lining and the outer fabric of a garment.", "S": ["cover", "fill", "stuff"], "A": ["strip"]}

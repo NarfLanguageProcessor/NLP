@@ -1,1 +1,1 @@
-{"index": 123285, "D": "a cut and polished precious stone or pearl fine enough for use in jewelry.", "S": ["hardware ", "jewel ", "jewelry ", "masterpiece ", "ornament ", "stone "], "A": []}
+{"index": 123285, "D": "a cut and polished precious stone or pearl fine enough for use in jewelry.", "S": ["hardware", "jewel", "jewelry", "masterpiece", "ornament", "stone"], "A": []}

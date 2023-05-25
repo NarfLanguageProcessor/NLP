@@ -1,1 +1,1 @@
-{"index": 90430, "D": "to disclose or reveal (something private, secret, or previously unknown).", "S": ["declared ", "disclosed ", "issued ", "released ", "reported "], "A": ["hidden ", "suppressed ", "unannounced "]}
+{"index": 90430, "D": "to disclose or reveal (something private, secret, or previously unknown).", "S": ["declared", "disclosed", "issued", "released", "reported"], "A": ["hidden", "suppressed", "unannounced"]}

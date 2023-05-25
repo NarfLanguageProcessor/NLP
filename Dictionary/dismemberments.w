@@ -1,1 +1,1 @@
-{"index": 88683, "D": "to deprive of limbs; divide limb from limb", "S": ["postmortem "], "A": ["connection ", "joining ", "mending ", "sewing "]}
+{"index": 88683, "D": "to deprive of limbs; divide limb from limb", "S": ["postmortem"], "A": ["connection", "joining", "mending", "sewing"]}

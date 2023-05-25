@@ -1,1 +1,1 @@
-{"index": 367561, "D": "a female worker. ", "S": ["drudge ", "farmhand ", "grunt ", "hand ", "hireling ", "operative ", "peon ", "worker ", "workingman ", "workman "], "A": []}
+{"index": 367561, "D": "a female worker. ", "S": ["drudge", "farmhand", "grunt", "hand", "hireling", "operative", "peon", "worker", "workingman", "workman"], "A": []}

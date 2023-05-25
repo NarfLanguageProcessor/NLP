@@ -1,1 +1,1 @@
-{"index": 130066, "D": "grain to be ground.", "S": ["cereal ", "corn "], "A": ["lot ", "whole "]}
+{"index": 130066, "D": "grain to be ground.", "S": ["cereal", "corn"], "A": ["lot", "whole"]}

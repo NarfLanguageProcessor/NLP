@@ -1,1 +1,1 @@
-{"index": 229806, "D": "pencil pusher. ", "S": ["agent ", "auditor ", "bookkeeper ", "cashier ", "employee ", "operator ", "receptionist ", "salesperson ", "secretary ", "teller ", "worker "], "A": []}
+{"index": 229806, "D": "pencil pusher. ", "S": ["agent", "auditor", "bookkeeper", "cashier", "employee", "operator", "receptionist", "salesperson", "secretary", "teller", "worker"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 250435, "D": "of or relating to a priest;  sacerdotal", "S": ["ecclesiastical ", "ministerial ", "monastic ", "pastoral ", "rabbinical "], "A": []}
+{"index": 250435, "D": "of or relating to a priest;  sacerdotal", "S": ["ecclesiastical", "ministerial", "monastic", "pastoral", "rabbinical"], "A": []}

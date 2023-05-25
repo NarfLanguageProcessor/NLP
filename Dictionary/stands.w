@@ -1,1 +1,1 @@
-{"index": 302708, "D": "(of a person) to be in an upright position on the feet.", "S": ["benches ", "boxes ", "grandstand ", "seats "], "A": []}
+{"index": 302708, "D": "(of a person) to be in an upright position on the feet.", "S": ["benches", "boxes", "grandstand", "seats"], "A": []}

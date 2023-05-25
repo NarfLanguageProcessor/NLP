@@ -1,1 +1,1 @@
-{"index": 191436, "D": "of or relating to or caused by molecules", "S": ["atomic "], "A": []}
+{"index": 191436, "D": "of or relating to or caused by molecules", "S": ["atomic"], "A": []}

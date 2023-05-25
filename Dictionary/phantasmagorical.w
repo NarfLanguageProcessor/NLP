@@ -1,1 +1,1 @@
-{"index": 232969, "D": "having a fantastic or deceptive appearance, as something in a dream or created by the imagination.", "S": ["fanciful ", "introspective ", "nightmarish ", "otherworldly ", "pensive ", "quixotic ", "utopian ", "whimsical "], "A": ["real "]}
+{"index": 232969, "D": "having a fantastic or deceptive appearance, as something in a dream or created by the imagination.", "S": ["fanciful", "introspective", "nightmarish", "otherworldly", "pensive", "quixotic", "utopian", "whimsical"], "A": ["real"]}

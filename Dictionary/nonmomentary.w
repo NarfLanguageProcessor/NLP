@@ -1,1 +1,0 @@
-{"index": 205343, "D": "lasting but a moment;  very brief; fleeting", "S": [], "A": []}

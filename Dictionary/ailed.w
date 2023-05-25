@@ -1,1 +1,1 @@
-{"index": 6767, "D": "to cause pain, uneasiness, or trouble to", "S": ["afflict ", "bother "], "A": ["aid ", "help ", "assist ", "make happy ", "please ", "soothe "]}
+{"index": 6767, "D": "to cause pain, uneasiness, or trouble to", "S": ["afflict", "bother"], "A": ["aid", "help", "assist", "make happy", "please", "soothe"]}

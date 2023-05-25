@@ -1,1 +1,1 @@
-{"index": 262926, "D": "to repeat the words of, as from memory, especially in a formal manner", "S": ["cited ", "copied "], "A": []}
+{"index": 262926, "D": "to repeat the words of, as from memory, especially in a formal manner", "S": ["cited", "copied"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 71834, "D": "a person or thing that shows marked ability or excellence.", "S": ["adept ", "expert ", "fine ", "super "], "A": []}
+{"index": 71834, "D": "a person or thing that shows marked ability or excellence.", "S": ["adept", "expert", "fine", "super"], "A": []}

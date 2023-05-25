@@ -1,1 +1,1 @@
-{"index": 109912, "D": "a bundle; burden.", "S": ["carriage ", "consignment ", "merchandise ", "payload ", "shipment ", "shipping ", "transportation "], "A": ["benefit "]}
+{"index": 109912, "D": "a bundle; burden.", "S": ["carriage", "consignment", "merchandise", "payload", "shipment", "shipping", "transportation"], "A": ["benefit"]}

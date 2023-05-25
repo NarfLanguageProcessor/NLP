@@ -1,1 +1,1 @@
-{"index": 23900, "D": "a procession or parade of automobiles; motorcade.", "S": ["ceremony ", "demonstration ", "procession ", "ritual ", "show ", "spectacle "], "A": ["concealment ", "hiding ", "dullness ", "plainness "]}
+{"index": 23900, "D": "a procession or parade of automobiles; motorcade.", "S": ["ceremony", "demonstration", "procession", "ritual", "show", "spectacle"], "A": ["concealment", "hiding", "dullness", "plainness"]}

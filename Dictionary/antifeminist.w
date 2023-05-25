@@ -1,1 +1,1 @@
-{"index": 15247, "D": "advocating social, political, legal, and economic rights for women equal to those of men.", "S": ["misanthrope ", "sexist "], "A": []}
+{"index": 15247, "D": "advocating social, political, legal, and economic rights for women equal to those of men.", "S": ["misanthrope", "sexist"], "A": []}

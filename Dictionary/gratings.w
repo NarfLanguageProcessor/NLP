@@ -1,1 +1,1 @@
-{"index": 129261, "D": "a fixed frame of bars or the like covering an opening to exclude persons, animals, coarse material, or objects while admitting light, air, or fine material.", "S": ["filigree "], "A": ["solid "]}
+{"index": 129261, "D": "a fixed frame of bars or the like covering an opening to exclude persons, animals, coarse material, or objects while admitting light, air, or fine material.", "S": ["filigree"], "A": ["solid"]}

@@ -1,1 +1,1 @@
-{"index": 167036, "D": "to produce milk.", "S": ["cradle ", "feed ", "nourish "], "A": ["starve "]}
+{"index": 167036, "D": "to produce milk.", "S": ["cradle", "feed", "nourish"], "A": ["starve"]}

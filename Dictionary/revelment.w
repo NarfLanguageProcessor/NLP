@@ -1,1 +1,1 @@
-{"index": 271154, "D": "to take great pleasure or delight (usually followed by in)", "S": ["bash ", "festival ", "hoopla "], "A": ["depression ", "gloom ", "misery ", "pain ", "sadness ", "seriousness ", "sorrow ", "unhappiness ", "work "]}
+{"index": 271154, "D": "to take great pleasure or delight (usually followed by in)", "S": ["bash", "festival", "hoopla"], "A": ["depression", "gloom", "misery", "pain", "sadness", "seriousness", "sorrow", "unhappiness", "work"]}

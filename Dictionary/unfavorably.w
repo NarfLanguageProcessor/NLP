@@ -1,1 +1,1 @@
-{"index": 342064, "D": "not favorable;  contrary; adverse", "S": ["adversely ", "critically "], "A": ["agreeably ", "approvingly ", "favorably ", "positively "]}
+{"index": 342064, "D": "not favorable;  contrary; adverse", "S": ["adversely", "critically"], "A": ["agreeably", "approvingly", "favorably", "positively"]}

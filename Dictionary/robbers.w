@@ -1,1 +1,1 @@
-{"index": 273556, "D": "a person who robs. ", "S": ["bandit ", "burglar ", "con artist ", "crook ", "looter ", "marauder ", "mugger ", "pickpocket ", "pirate ", "raider ", "rustler ", "shoplifter ", "swindler ", "thief ", "thug "], "A": ["law ", "police "]}
+{"index": 273556, "D": "a person who robs. ", "S": ["bandit", "burglar", "con artist", "crook", "looter", "marauder", "mugger", "pickpocket", "pirate", "raider", "rustler", "shoplifter", "swindler", "thief", "thug"], "A": ["law", "police"]}

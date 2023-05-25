@@ -1,1 +1,1 @@
-{"index": 336372, "D": "not confined in a cage.", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}
+{"index": 336372, "D": "not confined in a cage.", "S": ["baggy", "lax", "relaxed", "sloppy"], "A": ["strict", "tight", "hindered", "rigid", "stiff"]}

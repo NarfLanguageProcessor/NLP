@@ -1,1 +1,1 @@
-{"index": 178056, "D": "a man in charge of a great household, as that of a sovereign; a chief steward.", "S": ["administrator ", "attendant ", "curator ", "waiter "], "A": []}
+{"index": 178056, "D": "a man in charge of a great household, as that of a sovereign; a chief steward.", "S": ["administrator", "attendant", "curator", "waiter"], "A": []}

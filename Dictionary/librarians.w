@@ -1,1 +1,1 @@
-{"index": 171564, "D": "a person trained in library science  and engaged in library  service.", "S": ["curator "], "A": []}
+{"index": 171564, "D": "a person trained in library science  and engaged in library  service.", "S": ["curator"], "A": []}

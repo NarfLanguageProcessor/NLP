@@ -1,1 +1,1 @@
-{"index": 265851, "D": "to increase by natural development, as any living organism or part by assimilation of nutriment; increase in size or substance.", "S": ["bosk ", "copse ", "firth ", "forest ", "grove ", "growth ", "thicket ", "underwood ", "wood ", "woodland "], "A": []}
+{"index": 265851, "D": "to increase by natural development, as any living organism or part by assimilation of nutriment; increase in size or substance.", "S": ["bosk", "copse", "firth", "forest", "grove", "growth", "thicket", "underwood", "wood", "woodland"], "A": []}

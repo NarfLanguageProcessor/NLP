@@ -1,1 +1,1 @@
-{"index": 225183, "D": "written or clerical work,  as records or reports, forming a necessary but often a routine and secondary part of some work  or job.", "S": ["filing "], "A": []}
+{"index": 225183, "D": "written or clerical work,  as records or reports, forming a necessary but often a routine and secondary part of some work  or job.", "S": ["filing"], "A": []}

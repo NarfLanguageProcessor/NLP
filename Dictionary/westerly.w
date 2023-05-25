@@ -1,1 +1,1 @@
-{"index": 364238, "D": "moving, directed, or situated toward the west", "S": ["westward "], "A": ["easterly ", "eastern "]}
+{"index": 364238, "D": "moving, directed, or situated toward the west", "S": ["westward"], "A": ["easterly", "eastern"]}

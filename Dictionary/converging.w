@@ -1,1 +1,1 @@
-{"index": 68008, "D": "to tend to meet in a point or line; incline toward each other, as lines that are not parallel.", "S": ["anticipated ", "expected ", "forthcoming ", "impending ", "subsequent "], "A": ["distant ", "away ", "far ", "gone ", "past "]}
+{"index": 68008, "D": "to tend to meet in a point or line; incline toward each other, as lines that are not parallel.", "S": ["anticipated", "expected", "forthcoming", "impending", "subsequent"], "A": ["distant", "away", "far", "gone", "past"]}

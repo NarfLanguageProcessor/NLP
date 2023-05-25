@@ -1,1 +1,1 @@
-{"index": 67578, "D": "an act or instance of contracting  or the quality or state of being contracted", "S": ["decrease ", "deflation ", "recession ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "expansion ", "opening "]}
+{"index": 67578, "D": "an act or instance of contracting  or the quality or state of being contracted", "S": ["decrease", "deflation", "recession", "reduction", "shrinkage"], "A": ["enlargement", "increase", "expansion", "opening"]}

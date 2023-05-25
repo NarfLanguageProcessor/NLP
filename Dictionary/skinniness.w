@@ -1,1 +1,1 @@
-{"index": 293274, "D": "very lean or thin; emaciated", "S": ["anorexia ", "atrophy ", "attenuation ", "boniness ", "consumption ", "malnutrition ", "marasmus ", "starvation ", "tabes ", "thinness ", "undernourishment ", "wasting ", "withering "], "A": []}
+{"index": 293274, "D": "very lean or thin; emaciated", "S": ["anorexia", "atrophy", "attenuation", "boniness", "consumption", "malnutrition", "marasmus", "starvation", "tabes", "thinness", "undernourishment", "wasting", "withering"], "A": []}

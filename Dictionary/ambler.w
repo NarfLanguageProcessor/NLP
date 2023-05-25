@@ -1,0 +1,1 @@
+{"index": 10047, "D": "English suspense novelist.", "S": ["hiker", "passerby", "stroller", "walker"], "A": []}

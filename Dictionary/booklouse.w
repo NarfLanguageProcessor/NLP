@@ -1,0 +1,1 @@
+{"index": 38093, "D": "any of numerous minute, wingless insects of the order Psocoptera, often living among books  or papers.", "S": [], "A": []}

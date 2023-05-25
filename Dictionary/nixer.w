@@ -1,1 +1,1 @@
-{"index": 200507, "D": "a spare-time job", "S": ["naught ", "nihil ", "nix ", "none ", "nothing ", "nought ", "zero "], "A": ["existent ", "existing "]}
+{"index": 200507, "D": "a spare-time job", "S": ["naught", "nihil", "nix", "none", "nothing", "nought", "zero"], "A": ["existent", "existing"]}

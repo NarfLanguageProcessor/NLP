@@ -1,0 +1,1 @@
+{"index": 18001, "D": "in a way that is suitable or fitting", "S": ["accordingly", "aptly", "duly", "judiciously", "justly", "properly"], "A": ["unsuitably"]}

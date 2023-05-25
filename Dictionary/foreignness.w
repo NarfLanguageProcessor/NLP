@@ -1,1 +1,1 @@
-{"index": 116732, "D": "of, relating to, or derived from another country or nation; not native", "S": ["newness ", "weirdness "], "A": ["normality ", "standard ", "usualness "]}
+{"index": 116732, "D": "of, relating to, or derived from another country or nation; not native", "S": ["newness", "weirdness"], "A": ["normality", "standard", "usualness"]}

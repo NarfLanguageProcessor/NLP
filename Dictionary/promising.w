@@ -1,1 +1,1 @@
-{"index": 252280, "D": "giving favorable promise;  likely to turn out well", "S": ["auspicious ", "bright ", "encouraging ", "gifted ", "talented ", "up-and-coming "], "A": ["dull ", "unhappy ", "unintelligent "]}
+{"index": 252280, "D": "giving favorable promise;  likely to turn out well", "S": ["auspicious", "bright", "encouraging", "gifted", "talented", "up-and-coming"], "A": ["dull", "unhappy", "unintelligent"]}

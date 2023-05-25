@@ -1,1 +1,1 @@
-{"index": 256962, "D": "a person who advocates the strictest application of the principles or standards in any field, or who insists on purity  in language, style, etc.", "S": ["fusspot ", "idealist ", "quibbler "], "A": []}
+{"index": 256962, "D": "a person who advocates the strictest application of the principles or standards in any field, or who insists on purity  in language, style, etc.", "S": ["fusspot", "idealist", "quibbler"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 252363, "D": "(of a law, court decree, etc.) publicly declared; formally proclaimed or put into effect", "S": ["expressed "], "A": []}
+{"index": 252363, "D": "(of a law, court decree, etc.) publicly declared; formally proclaimed or put into effect", "S": ["expressed"], "A": []}

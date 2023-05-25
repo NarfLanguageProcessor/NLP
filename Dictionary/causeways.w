@@ -1,1 +1,1 @@
-{"index": 50064, "D": "a raised road or path, as across low or wet ground.", "S": ["barrier ", "ditch ", "levee "], "A": []}
+{"index": 50064, "D": "a raised road or path, as across low or wet ground.", "S": ["barrier", "ditch", "levee"], "A": []}

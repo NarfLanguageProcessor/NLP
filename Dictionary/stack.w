@@ -1,1 +1,1 @@
-{"index": 302217, "D": "a more or less orderly pile or heap", "S": ["bundle ", "heap ", "mountain ", "pyramid ", "sheaf "], "A": ["ditch "]}
+{"index": 302217, "D": "a more or less orderly pile or heap", "S": ["bundle", "heap", "mountain", "pyramid", "sheaf"], "A": ["ditch"]}

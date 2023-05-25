@@ -1,1 +1,1 @@
-{"index": 35655, "D": "confounded", "S": ["accursed ", "blasted ", "blessed ", "bloody ", "confounded ", "cursed ", "damn ", "darn "], "A": []}
+{"index": 35655, "D": "confounded", "S": ["accursed", "blasted", "blessed", "bloody", "confounded", "cursed", "damn", "darn"], "A": []}

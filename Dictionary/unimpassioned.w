@@ -1,1 +1,1 @@
-{"index": 344300, "D": "filled with intense feeling or passion; passionate; ardent.", "S": ["cool ", "distant ", "frigid ", "frosty ", "icy ", "inhospitable ", "lukewarm "], "A": ["excited ", "friendly ", "kind ", "responsive ", "warm "]}
+{"index": 344300, "D": "filled with intense feeling or passion; passionate; ardent.", "S": ["cool", "distant", "frigid", "frosty", "icy", "inhospitable", "lukewarm"], "A": ["excited", "friendly", "kind", "responsive", "warm"]}

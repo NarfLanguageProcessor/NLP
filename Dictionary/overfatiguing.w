@@ -1,1 +1,0 @@
-{"index": 219325, "D": [], "S": ["cripple ", "disable ", "drain ", "fatigue ", "frazzle ", "impoverish ", "overwork ", "sap ", "use up ", "weaken ", "weary "], "A": ["aid ", "assist ", "enable ", "energize ", "help ", "strengthen ", "invigorate "]}

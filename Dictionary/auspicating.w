@@ -1,1 +1,1 @@
-{"index": 23680, "D": "to initiate with ceremonies calculated to ensure good luck; inaugurate.", "S": ["anticipate ", "augur ", "foreshadow ", "portend ", "prefigure ", "presage ", "prophesy ", "signify "], "A": ["conceal ", "estimate ", "guess ", "hide ", "listen ", "suppress ", "withhold "]}
+{"index": 23680, "D": "to initiate with ceremonies calculated to ensure good luck; inaugurate.", "S": ["anticipate", "augur", "foreshadow", "portend", "prefigure", "presage", "prophesy", "signify"], "A": ["conceal", "estimate", "guess", "hide", "listen", "suppress", "withhold"]}

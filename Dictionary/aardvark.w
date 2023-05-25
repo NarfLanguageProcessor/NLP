@@ -1,1 +1,1 @@
-{"index": 13, "D": "a large, nocturnal, burrowing mammal, Orycteropus afer, of central and southern Africa, feeding on ants and termites and having a long, extensile tongue, strong claws, and long ears.", "S": ["anteater ", "edentate ", "farrow "], "A": []}
+{"index": 13, "D": "a large, nocturnal, burrowing mammal, Orycteropus afer, of central and southern Africa, feeding on ants and termites and having a long, extensile tongue, strong claws, and long ears.", "S": ["anteater", "edentate", "farrow"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 65895, "D": "to impart secrets trustfully; discuss private matters or problems (usually followed by in)", "S": ["admit ", "confess ", "disclose ", "impart ", "reveal ", "suggest ", "whisper "], "A": ["conceal ", "deny ", "hide ", "secrete "]}
+{"index": 65895, "D": "to impart secrets trustfully; discuss private matters or problems (usually followed by in)", "S": ["admit", "confess", "disclose", "impart", "reveal", "suggest", "whisper"], "A": ["conceal", "deny", "hide", "secrete"]}

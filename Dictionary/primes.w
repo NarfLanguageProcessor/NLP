@@ -1,1 +1,1 @@
-{"index": 250511, "D": "of the first importance; demanding the fullest consideration", "S": ["heyday "], "A": ["downfall "]}
+{"index": 250511, "D": "of the first importance; demanding the fullest consideration", "S": ["heyday"], "A": ["downfall"]}

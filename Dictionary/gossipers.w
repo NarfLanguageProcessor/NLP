@@ -1,1 +1,1 @@
-{"index": 128233, "D": "idle talk or rumor, especially about the personal or private affairs of others", "S": ["busybody ", "quidnunc ", "tattletale ", "yenta "], "A": []}
+{"index": 128233, "D": "idle talk or rumor, especially about the personal or private affairs of others", "S": ["busybody", "quidnunc", "tattletale", "yenta"], "A": []}

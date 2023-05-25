@@ -1,1 +1,1 @@
-{"index": 347811, "D": "to disturb or disquiet greatly in mind; agitate. ", "S": ["cool ", "poised ", "possessed ", "quiet ", "still "], "A": ["agitated "]}
+{"index": 347811, "D": "to disturb or disquiet greatly in mind; agitate. ", "S": ["cool", "poised", "possessed", "quiet", "still"], "A": ["agitated"]}

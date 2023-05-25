@@ -1,0 +1,1 @@
+{"index": 28062, "D": "an animal or person that barks. ", "S": ["debater", "orator", "raconteur"], "A": ["listener"]}

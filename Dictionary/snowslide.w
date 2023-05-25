@@ -1,1 +1,1 @@
-{"index": 295867, "D": "an avalanche consisting largely or entirely of snow. ", "S": ["barrage ", "deluge ", "flood ", "landslide ", "torrent "], "A": []}
+{"index": 295867, "D": "an avalanche consisting largely or entirely of snow. ", "S": ["barrage", "deluge", "flood", "landslide", "torrent"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 118467, "D": "to associate in a fraternal  or friendly way.", "S": ["hobnob "], "A": ["disagree ", "ignore "]}
+{"index": 118467, "D": "to associate in a fraternal  or friendly way.", "S": ["hobnob"], "A": ["disagree", "ignore"]}

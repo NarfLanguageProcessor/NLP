@@ -1,1 +1,1 @@
-{"index": 326730, "D": "in the direction of", "S": ["against ", "anent ", "apropos ", "beneficial ", "coming ", "concerning ", "facing ", "favoring ", "forward ", "into ", "near ", "obliging ", "propitious ", "regarding ", "willing "], "A": ["away from "]}
+{"index": 326730, "D": "in the direction of", "S": ["against", "anent", "apropos", "beneficial", "coming", "concerning", "facing", "favoring", "forward", "into", "near", "obliging", "propitious", "regarding", "willing"], "A": ["away from"]}

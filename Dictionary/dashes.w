@@ -1,1 +1,1 @@
-{"index": 77075, "D": "to strike or smash violently, especially so as to break to pieces", "S": ["sprint "], "A": ["slowness "]}
+{"index": 77075, "D": "to strike or smash violently, especially so as to break to pieces", "S": ["sprint"], "A": ["slowness"]}

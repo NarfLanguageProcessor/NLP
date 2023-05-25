@@ -1,1 +1,1 @@
-{"index": 64118, "D": "a person or group of persons elected or appointed to perform some service or function, as to investigate, report on, or act upon a particular matter.", "S": ["board ", "bureau ", "cabinet ", "chamber ", "commission ", "jury ", "panel ", "task force "], "A": []}
+{"index": 64118, "D": "a person or group of persons elected or appointed to perform some service or function, as to investigate, report on, or act upon a particular matter.", "S": ["board", "bureau", "cabinet", "chamber", "commission", "jury", "panel", "task force"], "A": []}

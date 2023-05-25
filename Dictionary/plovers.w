@@ -1,1 +1,1 @@
-{"index": 240273, "D": "Compare dotterel (def. 1), killdeer, lapwing. ", "S": ["anvil ", "farrier ", "horseshoer ", "smithy "], "A": []}
+{"index": 240273, "D": "Compare dotterel (def. 1), killdeer, lapwing. ", "S": ["anvil", "farrier", "horseshoer", "smithy"], "A": []}

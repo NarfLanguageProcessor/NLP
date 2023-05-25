@@ -1,1 +1,1 @@
-{"index": 151187, "D": "a single human being, as distinguished from a group.", "S": ["child ", "entity ", "human being ", "man ", "party ", "person ", "woman "], "A": ["abstract ", "inanimate ", "nothing ", "nothingness ", "one "]}
+{"index": 151187, "D": "a single human being, as distinguished from a group.", "S": ["child", "entity", "human being", "man", "party", "person", "woman"], "A": ["abstract", "inanimate", "nothing", "nothingness", "one"]}

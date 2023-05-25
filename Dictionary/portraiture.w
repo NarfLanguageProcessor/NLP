@@ -1,1 +1,1 @@
-{"index": 243725, "D": "the art or an instance of making portraits. ", "S": ["drawing ", "illustration ", "image ", "likeness ", "picture ", "portrayal ", "representation ", "sketch "], "A": []}
+{"index": 243725, "D": "the art or an instance of making portraits. ", "S": ["drawing", "illustration", "image", "likeness", "picture", "portrayal", "representation", "sketch"], "A": []}

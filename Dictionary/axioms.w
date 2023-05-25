@@ -1,1 +1,1 @@
-{"index": 25141, "D": "a self-evident truth that requires no proof.", "S": ["adage ", "aphorism ", "dictum ", "maxim ", "precept ", "proverb ", "theorem "], "A": ["absurdity ", "ambiguity ", "foolishness ", "nonsense ", "paradox "]}
+{"index": 25141, "D": "a self-evident truth that requires no proof.", "S": ["adage", "aphorism", "dictum", "maxim", "precept", "proverb", "theorem"], "A": ["absurdity", "ambiguity", "foolishness", "nonsense", "paradox"]}

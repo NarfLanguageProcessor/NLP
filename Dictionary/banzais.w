@@ -1,1 +1,1 @@
-{"index": 27621, "D": [], "S": ["banzai ", "call to arms ", "rallying cry ", "rebel yell ", "war dance ", "war song ", "war whoop "], "A": []}
+{"index": 27621, "D": [], "S": ["banzai", "call to arms", "rallying cry", "rebel yell", "war dance", "war song", "war whoop"], "A": []}

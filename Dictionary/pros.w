@@ -1,1 +1,1 @@
-{"index": 252968, "D": "in favor of a proposition, opinion, etc.", "S": ["administrator ", "boss ", "commander ", "director ", "guru ", "instructor ", "judge ", "manager ", "owner ", "ruler ", "teacher "], "A": ["employee ", "follower ", "pupil ", "student ", "worker "]}
+{"index": 252968, "D": "in favor of a proposition, opinion, etc.", "S": ["administrator", "boss", "commander", "director", "guru", "instructor", "judge", "manager", "owner", "ruler", "teacher"], "A": ["employee", "follower", "pupil", "student", "worker"]}

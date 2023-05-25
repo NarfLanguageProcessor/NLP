@@ -1,1 +1,1 @@
-{"index": 6380, "D": "to suffer extreme pain or anguish; be in agony. ", "S": ["disturb ", "excruciate ", "harrow ", "lament "], "A": ["aid ", "assist ", "assuage ", "calm ", "comfort ", "delight ", "help ", "idle ", "laze ", "make happy ", "placate ", "please ", "relieve ", "rest ", "soothe "]}
+{"index": 6380, "D": "to suffer extreme pain or anguish; be in agony. ", "S": ["disturb", "excruciate", "harrow", "lament"], "A": ["aid", "assist", "assuage", "calm", "comfort", "delight", "help", "idle", "laze", "make happy", "placate", "please", "relieve", "rest", "soothe"]}

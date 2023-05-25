@@ -1,1 +1,1 @@
-{"index": 101714, "D": "(in statistical mechanics) a measure of the randomness of the microscopic constituents of a thermodynamic system. Symbol", "S": ["breakup ", "collapse ", "decay ", "decline ", "degeneration ", "destruction ", "worsening "], "A": ["improvement ", "increase ", "rise "]}
+{"index": 101714, "D": "(in statistical mechanics) a measure of the randomness of the microscopic constituents of a thermodynamic system. Symbol", "S": ["breakup", "collapse", "decay", "decline", "degeneration", "destruction", "worsening"], "A": ["improvement", "increase", "rise"]}

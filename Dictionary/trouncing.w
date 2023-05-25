@@ -1,1 +1,1 @@
-{"index": 331354, "D": "to beat severely; thrash.", "S": ["defeat ", "drubbing ", "slaughter ", "whipping "], "A": ["triumph ", "victory ", "win "]}
+{"index": 331354, "D": "to beat severely; thrash.", "S": ["defeat", "drubbing", "slaughter", "whipping"], "A": ["triumph", "victory", "win"]}

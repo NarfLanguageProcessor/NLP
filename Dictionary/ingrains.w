@@ -1,1 +1,1 @@
-{"index": 152545, "D": "to implant or fix deeply and firmly, as in the nature or mind.", "S": ["instill "], "A": []}
+{"index": 152545, "D": "to implant or fix deeply and firmly, as in the nature or mind.", "S": ["instill"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 134052, "D": "the gathering of crops.", "S": ["accumulation ", "collecting ", "collection ", "harvest ", "reaping "], "A": []}
+{"index": 134052, "D": "the gathering of crops.", "S": ["accumulation", "collecting", "collection", "harvest", "reaping"], "A": []}

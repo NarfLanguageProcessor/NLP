@@ -1,1 +1,1 @@
-{"index": 77169, "D": "having or showing a date", "S": ["archaic ", "old-fashioned ", "outdated "], "A": ["current ", "modern ", "new "]}
+{"index": 77169, "D": "having or showing a date", "S": ["archaic", "old-fashioned", "outdated"], "A": ["current", "modern", "new"]}

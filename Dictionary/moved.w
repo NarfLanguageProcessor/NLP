@@ -1,1 +1,1 @@
-{"index": 194389, "D": "(of the mind or feelings) affected with emotion or passion; touched", "S": ["lifted "], "A": ["kept "]}
+{"index": 194389, "D": "(of the mind or feelings) affected with emotion or passion; touched", "S": ["lifted"], "A": ["kept"]}

@@ -1,1 +1,1 @@
-{"index": 183201, "D": "having a memory  (usually used in combination)", "S": ["memorized "], "A": ["forgetting ", "overlooking "]}
+{"index": 183201, "D": "having a memory  (usually used in combination)", "S": ["memorized"], "A": ["forgetting", "overlooking"]}

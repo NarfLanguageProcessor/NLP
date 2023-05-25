@@ -1,1 +1,1 @@
-{"index": 290008, "D": "an occasion on which something is seen", "S": ["adjustment "], "A": []}
+{"index": 290008, "D": "an occasion on which something is seen", "S": ["adjustment"], "A": []}

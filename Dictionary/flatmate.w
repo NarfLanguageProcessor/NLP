@@ -1,1 +1,1 @@
-{"index": 114097, "D": "a person with whom one shares a flat", "S": ["friend ", "mate "], "A": []}
+{"index": 114097, "D": "a person with whom one shares a flat", "S": ["friend", "mate"], "A": []}

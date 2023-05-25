@@ -1,1 +1,1 @@
-{"index": 40393, "D": "the producing of offspring.", "S": ["development ", "rearing ", "training "], "A": ["bad manners ", "crudeness ", "discourtesy ", "rudeness "]}
+{"index": 40393, "D": "the producing of offspring.", "S": ["development", "rearing", "training"], "A": ["bad manners", "crudeness", "discourtesy", "rudeness"]}

@@ -1,1 +1,1 @@
-{"index": 262071, "D": "to give or allocate; allot", "S": ["lifted "], "A": ["kept "]}
+{"index": 262071, "D": "to give or allocate; allot", "S": ["lifted"], "A": ["kept"]}

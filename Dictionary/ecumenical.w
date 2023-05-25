@@ -1,1 +1,1 @@
-{"index": 95618, "D": "general; universal.", "S": ["comprehensive "], "A": []}
+{"index": 95618, "D": "general; universal.", "S": ["comprehensive"], "A": []}

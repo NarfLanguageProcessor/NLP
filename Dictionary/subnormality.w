@@ -1,1 +1,1 @@
-{"index": 308629, "D": "below the normal;  less than or inferior to the normal", "S": ["amentia ", "brain damage ", "mental defect ", "mental deficiency "], "A": []}
+{"index": 308629, "D": "below the normal;  less than or inferior to the normal", "S": ["amentia", "brain damage", "mental defect", "mental deficiency"], "A": []}

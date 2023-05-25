@@ -1,1 +1,1 @@
-{"index": 241538, "D": "the plural of polis 1", "S": ["capital ", "center ", "downtown ", "metropolis ", "municipality ", "place ", "port "], "A": []}
+{"index": 241538, "D": "the plural of polis 1", "S": ["capital", "center", "downtown", "metropolis", "municipality", "place", "port"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 73115, "D": "the deep-freezing of human bodies at death for preservation and possible revival in the future; cryostasis (def. 1). ", "S": ["deathlike state ", "deep-freezing ", "freeze-drying ", "motionlessness ", "suspension "], "A": []}
+{"index": 73115, "D": "the deep-freezing of human bodies at death for preservation and possible revival in the future; cryostasis (def. 1). ", "S": ["deathlike state", "deep-freezing", "freeze-drying", "motionlessness", "suspension"], "A": []}

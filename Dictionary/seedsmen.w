@@ -1,1 +1,1 @@
-{"index": 283104, "D": "a sower of seed.", "S": ["grower ", "horticulturist "], "A": []}
+{"index": 283104, "D": "a sower of seed.", "S": ["grower", "horticulturist"], "A": []}

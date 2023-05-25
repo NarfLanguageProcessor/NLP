@@ -1,1 +1,1 @@
-{"index": 107807, "D": "a person, document, video, etc., that explains something (often used attributively)", "S": ["linguist "], "A": []}
+{"index": 107807, "D": "a person, document, video, etc., that explains something (often used attributively)", "S": ["linguist"], "A": []}

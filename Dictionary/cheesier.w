@@ -1,1 +1,1 @@
-{"index": 53502, "D": "of or like cheese", "S": ["inferior ", "poor ", "shabby ", "sleazy ", "trashy ", "worthless "], "A": []}
+{"index": 53502, "D": "of or like cheese", "S": ["inferior", "poor", "shabby", "sleazy", "trashy", "worthless"], "A": []}

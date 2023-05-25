@@ -1,1 +1,1 @@
-{"index": 146735, "D": "Compare common year, leap year. ", "S": ["agedness ", "dotage ", "generation ", "lifespan ", "lifetime ", "oldness ", "senescence ", "senility "], "A": ["childhood ", "youth "]}
+{"index": 146735, "D": "Compare common year, leap year. ", "S": ["agedness", "dotage", "generation", "lifespan", "lifetime", "oldness", "senescence", "senility"], "A": ["childhood", "youth"]}

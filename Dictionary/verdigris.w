@@ -1,1 +1,1 @@
-{"index": 358451, "D": "a green or bluish patina formed on copper, brass, or bronze surfaces exposed to the atmosphere for long periods of time, consisting principally of basic copper sulfate.", "S": ["blue-green ", "olive "], "A": []}
+{"index": 358451, "D": "a green or bluish patina formed on copper, brass, or bronze surfaces exposed to the atmosphere for long periods of time, consisting principally of basic copper sulfate.", "S": ["blue-green", "olive"], "A": []}

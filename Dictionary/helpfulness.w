@@ -1,1 +1,1 @@
-{"index": 135808, "D": "giving or rendering aid or assistance; of service", "S": ["aid ", "convenience ", "help ", "usefulness "], "A": ["blockage ", "hindrance ", "injury ", "obstruction ", "uselessness "]}
+{"index": 135808, "D": "giving or rendering aid or assistance; of service", "S": ["aid", "convenience", "help", "usefulness"], "A": ["blockage", "hindrance", "injury", "obstruction", "uselessness"]}

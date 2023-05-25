@@ -1,1 +1,0 @@
-{"index": 250849, "D": "lack of the usual comforts or necessaries of life", "S": ["hardship "], "A": ["abundance ", "luxury ", "plenty ", "wealth "]}

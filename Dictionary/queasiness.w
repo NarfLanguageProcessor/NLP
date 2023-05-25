@@ -1,1 +1,1 @@
-{"index": 258224, "D": "inclined to or feeling nausea, as the stomach, a person, etc.; nauseous; nauseated. ", "S": ["airsickness ", "car sickness ", "mal de mer ", "nausea ", "seasickness ", "travel sickness ", "vomiting "], "A": []}
+{"index": 258224, "D": "inclined to or feeling nausea, as the stomach, a person, etc.; nauseous; nauseated. ", "S": ["airsickness", "car sickness", "mal de mer", "nausea", "seasickness", "travel sickness", "vomiting"], "A": []}

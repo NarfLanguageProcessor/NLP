@@ -1,1 +1,1 @@
-{"index": 159485, "D": "having or causing an itching  sensation.", "S": ["tingling "], "A": []}
+{"index": 159485, "D": "having or causing an itching  sensation.", "S": ["tingling"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 323806, "D": "worn  or impaired by time. ", "S": ["hoary ", "trite "], "A": ["fresh ", "new ", "pristine "]}
+{"index": 323806, "D": "worn  or impaired by time. ", "S": ["hoary", "trite"], "A": ["fresh", "new", "pristine"]}

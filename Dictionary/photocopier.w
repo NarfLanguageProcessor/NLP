@@ -1,1 +1,1 @@
-{"index": 235053, "D": "any electrically operated machine using a photographic method, as the electrostatic process, for making instant copies of written, drawn, or printed material.", "S": ["Xerox ", "copier ", "copying machine ", "duplicator ", "photocopy machine "], "A": []}
+{"index": 235053, "D": "any electrically operated machine using a photographic method, as the electrostatic process, for making instant copies of written, drawn, or printed material.", "S": ["Xerox", "copier", "copying machine", "duplicator", "photocopy machine"], "A": []}

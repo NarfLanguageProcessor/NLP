@@ -1,1 +1,1 @@
-{"index": 60490, "D": "to dress; attire.", "S": ["attired ", "cloaked ", "covered ", "draped ", "dressed ", "veiled "], "A": ["exposed ", "naked ", "unclothed ", "undressed "]}
+{"index": 60490, "D": "to dress; attire.", "S": ["attired", "cloaked", "covered", "draped", "dressed", "veiled"], "A": ["exposed", "naked", "unclothed", "undressed"]}

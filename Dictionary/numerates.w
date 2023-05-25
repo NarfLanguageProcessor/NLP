@@ -1,1 +1,1 @@
-{"index": 209556, "D": "to represent numbers by symbols.", "S": ["calculate ", "cipher ", "count ", "enumerate ", "measure ", "tally ", "total "], "A": ["estimate ", "guess ", "subtract "]}
+{"index": 209556, "D": "to represent numbers by symbols.", "S": ["calculate", "cipher", "count", "enumerate", "measure", "tally", "total"], "A": ["estimate", "guess", "subtract"]}

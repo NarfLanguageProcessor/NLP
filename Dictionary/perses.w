@@ -1,1 +1,1 @@
-{"index": 231895, "D": "a son of Perseus and Andromeda and the ancestor of the kings of Persia.", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}
+{"index": 231895, "D": "a son of Perseus and Andromeda and the ancestor of the kings of Persia.", "S": ["color", "lavender", "lilac", "mauve", "periwinkle", "plum", "violet"], "A": []}

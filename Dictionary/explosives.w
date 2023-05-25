@@ -1,1 +1,1 @@
-{"index": 107915, "D": "tending or serving to explode", "S": ["ammo ", "armament ", "arsenal ", "bombs ", "bullets ", "grenades ", "gunpowder ", "missiles ", "shells ", "torpedos ", "weapons "], "A": []}
+{"index": 107915, "D": "tending or serving to explode", "S": ["ammo", "armament", "arsenal", "bombs", "bullets", "grenades", "gunpowder", "missiles", "shells", "torpedos", "weapons"], "A": []}

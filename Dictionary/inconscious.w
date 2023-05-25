@@ -1,1 +1,1 @@
-{"index": 150242, "D": [], "S": ["senseless "], "A": ["alert ", "awake ", "conscious "]}
+{"index": 150242, "D": [], "S": ["senseless"], "A": ["alert", "awake", "conscious"]}

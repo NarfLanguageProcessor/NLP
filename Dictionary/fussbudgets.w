@@ -1,1 +1,1 @@
-{"index": 120623, "D": "a fussy or needlessly fault-finding person.", "S": ["fusspot ", "idealist ", "purist ", "quibbler "], "A": []}
+{"index": 120623, "D": "a fussy or needlessly fault-finding person.", "S": ["fusspot", "idealist", "purist", "quibbler"], "A": []}

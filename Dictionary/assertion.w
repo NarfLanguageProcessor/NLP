@@ -1,1 +1,1 @@
-{"index": 21691, "D": "a positive statement or declaration, often without support or reason", "S": ["affirmation ", "allegation ", "contention ", "insistence ", "pronouncement "], "A": ["denial ", "rejection "]}
+{"index": 21691, "D": "a positive statement or declaration, often without support or reason", "S": ["affirmation", "allegation", "contention", "insistence", "pronouncement"], "A": ["denial", "rejection"]}

@@ -1,1 +1,1 @@
-{"index": 131234, "D": "to gasp or choke, as when taking large drafts of a liquid.", "S": ["consume ", "gobble ", "guzzle ", "imbibe ", "inhale ", "quaff ", "swallow ", "swig ", "swill "], "A": ["nibble "]}
+{"index": 131234, "D": "to gasp or choke, as when taking large drafts of a liquid.", "S": ["consume", "gobble", "guzzle", "imbibe", "inhale", "quaff", "swallow", "swig", "swill"], "A": ["nibble"]}

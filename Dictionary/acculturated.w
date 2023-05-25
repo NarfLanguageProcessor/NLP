@@ -1,1 +1,1 @@
-{"index": 1804, "D": "to alter by acculturation,  through sharing and learning the cultural traits or social patterns of another group", "S": ["assimilate ", "civilize ", "cultivate "], "A": []}
+{"index": 1804, "D": "to alter by acculturation,  through sharing and learning the cultural traits or social patterns of another group", "S": ["assimilate", "civilize", "cultivate"], "A": []}

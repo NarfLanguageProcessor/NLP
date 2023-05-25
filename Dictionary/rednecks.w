@@ -1,1 +1,0 @@
-{"index": 264339, "D": "an uneducated white farm laborer, especially from the South.", "S": ["hick ", "hillbilly "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 356941, "D": "to destroy or deface by vandalism", "S": ["deface ", "demolish ", "raze ", "smash ", "trash ", "wreck "], "A": ["build ", "construct ", "fix ", "mend ", "repair ", "aid ", "assist ", "help ", "improve "]}
+{"index": 356941, "D": "to destroy or deface by vandalism", "S": ["deface", "demolish", "raze", "smash", "trash", "wreck"], "A": ["build", "construct", "fix", "mend", "repair", "aid", "assist", "help", "improve"]}

@@ -1,1 +1,1 @@
-{"index": 117725, "D": "position in life as determined by wealth", "S": ["break ", "chance ", "cup ", "destine ", "doom ", "effect ", "end ", "ending ", "foreordain ", "issue ", "lot ", "portion ", "predestine ", "predetermine ", "preordain ", "stars "], "A": ["join "]}
+{"index": 117725, "D": "position in life as determined by wealth", "S": ["break", "chance", "cup", "destine", "doom", "effect", "end", "ending", "foreordain", "issue", "lot", "portion", "predestine", "predetermine", "preordain", "stars"], "A": ["join"]}

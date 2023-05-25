@@ -1,1 +1,1 @@
-{"index": 169103, "D": "containing or expressing praise", "S": ["acclamatory ", "adulatory ", "approbative ", "approbatory ", "approving ", "commendatory ", "encomiastic ", "eulogistic ", "flattering ", "laudative ", "panegyrical ", "praiseful "], "A": ["blaming ", "castigating ", "critical "]}
+{"index": 169103, "D": "containing or expressing praise", "S": ["acclamatory", "adulatory", "approbative", "approbatory", "approving", "commendatory", "encomiastic", "eulogistic", "flattering", "laudative", "panegyrical", "praiseful"], "A": ["blaming", "castigating", "critical"]}

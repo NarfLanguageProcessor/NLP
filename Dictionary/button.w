@@ -1,1 +1,1 @@
-{"index": 43738, "D": "a small disk, knob, or the like for sewing or otherwise attaching to an article, as of clothing, serving as a fastening when passed through a buttonhole or loop.", "S": ["knob "], "A": []}
+{"index": 43738, "D": "a small disk, knob, or the like for sewing or otherwise attaching to an article, as of clothing, serving as a fastening when passed through a buttonhole or loop.", "S": ["knob"], "A": []}

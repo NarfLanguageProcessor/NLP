@@ -1,1 +1,1 @@
-{"index": 191023, "D": [], "S": ["copy ", "figure ", "image ", "painting ", "photograph ", "picture ", "portrait "], "A": ["being ", "entity ", "original "]}
+{"index": 191023, "D": [], "S": ["copy", "figure", "image", "painting", "photograph", "picture", "portrait"], "A": ["being", "entity", "original"]}

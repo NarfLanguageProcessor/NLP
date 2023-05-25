@@ -1,1 +1,1 @@
-{"index": 99545, "D": "to impede or hinder; hamper", "S": ["balked ", "blocked ", "burdened ", "checked ", "curbed ", "deterred ", "disadvantaged ", "foiled ", "hampered ", "impeded ", "obstructed ", "restrained ", "restricted ", "stymied "], "A": ["aided ", "helped ", "supported "]}
+{"index": 99545, "D": "to impede or hinder; hamper", "S": ["balked", "blocked", "burdened", "checked", "curbed", "deterred", "disadvantaged", "foiled", "hampered", "impeded", "obstructed", "restrained", "restricted", "stymied"], "A": ["aided", "helped", "supported"]}

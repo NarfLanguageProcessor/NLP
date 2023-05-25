@@ -1,1 +1,1 @@
-{"index": 80301, "D": "an act or instance of deluding. ", "S": ["insanity ", "mental disorder ", "personality disorder ", "schizophrenia "], "A": []}
+{"index": 80301, "D": "an act or instance of deluding. ", "S": ["insanity", "mental disorder", "personality disorder", "schizophrenia"], "A": []}

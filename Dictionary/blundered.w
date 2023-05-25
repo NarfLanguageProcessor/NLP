@@ -1,1 +1,1 @@
-{"index": 36829, "D": "a gross, stupid, or careless mistake", "S": ["blooper ", "error ", "fault ", "gaffe ", "goof ", "inaccuracy ", "indiscretion ", "lapse ", "oversight "], "A": ["accuracy ", "care ", "correction ", "correctness ", "perfection ", "right ", "success "]}
+{"index": 36829, "D": "a gross, stupid, or careless mistake", "S": ["blooper", "error", "fault", "gaffe", "goof", "inaccuracy", "indiscretion", "lapse", "oversight"], "A": ["accuracy", "care", "correction", "correctness", "perfection", "right", "success"]}

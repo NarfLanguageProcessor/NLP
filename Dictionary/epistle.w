@@ -1,1 +1,1 @@
-{"index": 102865, "D": "a letter, especially a formal or didactic one; written communication.", "S": ["card ", "communication ", "dispatch ", "invite ", "kite ", "line ", "memo ", "message ", "missive ", "note ", "postcard ", "scratch ", "tab "], "A": []}
+{"index": 102865, "D": "a letter, especially a formal or didactic one; written communication.", "S": ["card", "communication", "dispatch", "invite", "kite", "line", "memo", "message", "missive", "note", "postcard", "scratch", "tab"], "A": []}

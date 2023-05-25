@@ -1,1 +1,1 @@
-{"index": 144209, "D": "the practice of staying at youth hostels when travelling", "S": ["abide ", "reside "], "A": ["depart ", "go ", "leave ", "turn away ", "turn out "]}
+{"index": 144209, "D": "the practice of staying at youth hostels when travelling", "S": ["abide", "reside"], "A": ["depart", "go", "leave", "turn away", "turn out"]}

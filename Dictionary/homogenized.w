@@ -1,1 +1,1 @@
-{"index": 143095, "D": "to form by blending unlike elements; make homogeneous. ", "S": ["buttermilk ", "cream ", "half-and-half "], "A": []}
+{"index": 143095, "D": "to form by blending unlike elements; make homogeneous. ", "S": ["buttermilk", "cream", "half-and-half"], "A": []}

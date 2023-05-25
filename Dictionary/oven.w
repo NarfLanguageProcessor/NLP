@@ -1,1 +1,1 @@
-{"index": 218073, "D": "a chamber or compartment, as in a stove, for baking, roasting, heating, drying, etc.", "S": ["kiln ", "microwave ", "microwave oven ", "stove "], "A": []}
+{"index": 218073, "D": "a chamber or compartment, as in a stove, for baking, roasting, heating, drying, etc.", "S": ["kiln", "microwave", "microwave oven", "stove"], "A": []}

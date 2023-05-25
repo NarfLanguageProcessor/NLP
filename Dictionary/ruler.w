@@ -1,1 +1,1 @@
-{"index": 275464, "D": "a person who rules  or governs; sovereign.", "S": ["czar ", "emperor ", "king ", "monarch ", "shah ", "sultan "], "A": ["commoner ", "subject "]}
+{"index": 275464, "D": "a person who rules  or governs; sovereign.", "S": ["czar", "emperor", "king", "monarch", "shah", "sultan"], "A": ["commoner", "subject"]}

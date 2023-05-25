@@ -1,1 +1,1 @@
-{"index": 120093, "D": [], "S": ["afire "], "A": ["dark ", "dim ", "dull ", "unexcited "]}
+{"index": 120093, "D": [], "S": ["afire"], "A": ["dark", "dim", "dull", "unexcited"]}

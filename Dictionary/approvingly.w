@@ -1,0 +1,1 @@
+{"index": 18027, "D": "to speak or think favorably of; pronounce or consider agreeable or good; judge favorably", "S": ["cordially", "enthusiastically", "fairly", "generously", "positively"], "A": ["unfavorably", "unfriendly"]}

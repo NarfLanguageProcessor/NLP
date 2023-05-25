@@ -1,1 +1,1 @@
-{"index": 89649, "D": "disagreeing or harsh in sound; discordant.", "S": ["differing ", "discordant ", "incongruous "], "A": ["harmonious "]}
+{"index": 89649, "D": "disagreeing or harsh in sound; discordant.", "S": ["differing", "discordant", "incongruous"], "A": ["harmonious"]}

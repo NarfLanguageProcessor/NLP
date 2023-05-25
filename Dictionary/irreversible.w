@@ -1,1 +1,1 @@
-{"index": 158434, "D": "not reversible;  incapable of being changed", "S": ["inevitable ", "permanent "], "A": []}
+{"index": 158434, "D": "not reversible;  incapable of being changed", "S": ["inevitable", "permanent"], "A": []}

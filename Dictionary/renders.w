@@ -1,1 +1,1 @@
-{"index": 267575, "D": "to cause to be or become; make", "S": ["deliver ", "distribute ", "give ", "provide ", "restore "], "A": ["hold ", "keep ", "take ", "withhold ", "conceal ", "deny ", "fight ", "hide ", "leave alone ", "refuse ", "seize ", "veto ", "win "]}
+{"index": 267575, "D": "to cause to be or become; make", "S": ["deliver", "distribute", "give", "provide", "restore"], "A": ["hold", "keep", "take", "withhold", "conceal", "deny", "fight", "hide", "leave alone", "refuse", "seize", "veto", "win"]}

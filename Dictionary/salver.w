@@ -1,1 +1,1 @@
-{"index": 277431, "D": "a tray, especially one used for serving food or beverages.", "S": ["bowl ", "container ", "cup ", "plate ", "platter ", "pot ", "tray "], "A": []}
+{"index": 277431, "D": "a tray, especially one used for serving food or beverages.", "S": ["bowl", "container", "cup", "plate", "platter", "pot", "tray"], "A": []}

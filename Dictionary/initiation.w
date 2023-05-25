@@ -1,1 +1,1 @@
-{"index": 152819, "D": "formal admission or acceptance into an organization or club, adult status in one's community or society, etc.", "S": ["baptism ", "commencement ", "inauguration ", "inception ", "induction "], "A": ["end ", "ending ", "finish ", "conclusion "]}
+{"index": 152819, "D": "formal admission or acceptance into an organization or club, adult status in one's community or society, etc.", "S": ["baptism", "commencement", "inauguration", "inception", "induction"], "A": ["end", "ending", "finish", "conclusion"]}

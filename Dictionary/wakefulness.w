@@ -1,1 +1,1 @@
-{"index": 362125, "D": "unable to sleep; not sleeping; indisposed to sleep", "S": ["alertness ", "attention ", "vigilance "], "A": ["negligence "]}
+{"index": 362125, "D": "unable to sleep; not sleeping; indisposed to sleep", "S": ["alertness", "attention", "vigilance"], "A": ["negligence"]}

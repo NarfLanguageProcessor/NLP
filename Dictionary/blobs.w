@@ -1,1 +1,1 @@
-{"index": 36346, "D": "a globule of liquid; bubble.", "S": ["bead ", "blotch ", "droplet ", "glob ", "splotch "], "A": []}
+{"index": 36346, "D": "a globule of liquid; bubble.", "S": ["bead", "blotch", "droplet", "glob", "splotch"], "A": []}

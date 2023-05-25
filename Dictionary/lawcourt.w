@@ -1,1 +1,0 @@
-{"index": 169336, "D": [], "S": ["court ", "court of justice ", "court of law ", "judicature ", "tribunal "], "A": []}

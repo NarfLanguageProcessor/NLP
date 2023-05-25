@@ -1,1 +1,1 @@
-{"index": 311180, "D": "the rise or ascent of the sun above the horizon in the morning.", "S": ["aurora ", "cockcrow ", "dawn ", "dawning ", "daybreak ", "daylight ", "light ", "morn ", "morning ", "sunup "], "A": ["darkness ", "evening ", "eventide ", "night ", "sundown ", "sunset "]}
+{"index": 311180, "D": "the rise or ascent of the sun above the horizon in the morning.", "S": ["aurora", "cockcrow", "dawn", "dawning", "daybreak", "daylight", "light", "morn", "morning", "sunup"], "A": ["darkness", "evening", "eventide", "night", "sundown", "sunset"]}

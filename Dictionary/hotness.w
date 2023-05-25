@@ -1,1 +1,1 @@
-{"index": 144298, "D": "having or giving off heat; having a high temperature", "S": ["calefaction ", "fervor ", "fever ", "fieriness ", "incalescence ", "incandescence ", "sultriness ", "torridity ", "warmness ", "warmth "], "A": ["chill "]}
+{"index": 144298, "D": "having or giving off heat; having a high temperature", "S": ["calefaction", "fervor", "fever", "fieriness", "incalescence", "incandescence", "sultriness", "torridity", "warmness", "warmth"], "A": ["chill"]}

@@ -1,1 +1,1 @@
-{"index": 187481, "D": "U.S. sociologist.", "S": ["foundry ", "plant ", "shop "], "A": []}
+{"index": 187481, "D": "U.S. sociologist.", "S": ["foundry", "plant", "shop"], "A": []}

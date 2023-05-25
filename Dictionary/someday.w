@@ -1,1 +1,1 @@
-{"index": 297033, "D": "at an indefinite future time.", "S": ["finally ", "one day ", "sometime ", "sooner or later ", "subsequently ", "ultimately "], "A": ["never "]}
+{"index": 297033, "D": "at an indefinite future time.", "S": ["finally", "one day", "sometime", "sooner or later", "subsequently", "ultimately"], "A": ["never"]}

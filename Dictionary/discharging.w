@@ -1,1 +1,1 @@
-{"index": 87305, "D": "to relieve of a charge or load; unload", "S": ["draining ", "flooding ", "flowing ", "gushing ", "raining ", "running ", "rushing ", "showering ", "spilling ", "spouting "], "A": []}
+{"index": 87305, "D": "to relieve of a charge or load; unload", "S": ["draining", "flooding", "flowing", "gushing", "raining", "running", "rushing", "showering", "spilling", "spouting"], "A": []}

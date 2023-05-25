@@ -1,1 +1,1 @@
-{"index": 311203, "D": "the shining of the sun; direct light of the sun.", "S": ["fair ", "sunny "], "A": ["cloudy ", "rainy ", "stormy ", "dark ", "gloomy "]}
+{"index": 311203, "D": "the shining of the sun; direct light of the sun.", "S": ["fair", "sunny"], "A": ["cloudy", "rainy", "stormy", "dark", "gloomy"]}

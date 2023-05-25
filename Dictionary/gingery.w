@@ -1,1 +1,1 @@
-{"index": 125239, "D": "having the flavor or pungence of ginger;  spicy", "S": ["animated ", "entertaining ", "lively ", "poignant ", "saucy "], "A": ["dull "]}
+{"index": 125239, "D": "having the flavor or pungence of ginger;  spicy", "S": ["animated", "entertaining", "lively", "poignant", "saucy"], "A": ["dull"]}

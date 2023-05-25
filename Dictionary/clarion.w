@@ -1,1 +1,1 @@
-{"index": 59326, "D": "clear and shrill", "S": ["blaring ", "inspiring ", "ringing ", "sharp ", "shrill "], "A": ["low "]}
+{"index": 59326, "D": "clear and shrill", "S": ["blaring", "inspiring", "ringing", "sharp", "shrill"], "A": ["low"]}

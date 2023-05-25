@@ -1,1 +1,1 @@
-{"index": 33202, "D": "any of several brackets or timbers bolted to the hounds of a mast to give additional support to the trestletrees.", "S": ["nozzle ", "valve "], "A": []}
+{"index": 33202, "D": "any of several brackets or timbers bolted to the hounds of a mast to give additional support to the trestletrees.", "S": ["nozzle", "valve"], "A": []}

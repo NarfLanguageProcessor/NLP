@@ -1,1 +1,1 @@
-{"index": 7676, "D": "Compare denatured alcohol, methyl alcohol. ", "S": ["booze ", "drink ", "ethanol ", "liquor ", "methanol ", "smoke "], "A": []}
+{"index": 7676, "D": "Compare denatured alcohol, methyl alcohol. ", "S": ["booze", "drink", "ethanol", "liquor", "methanol", "smoke"], "A": []}

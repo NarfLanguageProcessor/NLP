@@ -1,1 +1,1 @@
-{"index": 124992, "D": "a showy, useless trifle; gewgaw.", "S": ["color ", "design ", "finery ", "ornament ", "plaque ", "ribbon ", "trinket ", "wreath "], "A": ["plainness "]}
+{"index": 124992, "D": "a showy, useless trifle; gewgaw.", "S": [], "A": []}

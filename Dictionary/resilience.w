@@ -1,1 +1,1 @@
-{"index": 269418, "D": "the power or ability of a material to return to its original form, position, etc., after being bent, compressed, or stretched; elasticity. ", "S": ["flexibility "], "A": []}
+{"index": 269418, "D": "the power or ability of a material to return to its original form, position, etc., after being bent, compressed, or stretched; elasticity. ", "S": ["flexibility"], "A": []}

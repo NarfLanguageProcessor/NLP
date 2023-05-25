@@ -1,1 +1,0 @@
-{"index": 310839, "D": "the office or rule of a sultan. ", "S": [], "A": []}

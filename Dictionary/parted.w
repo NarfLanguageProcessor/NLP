@@ -1,1 +1,1 @@
-{"index": 226944, "D": "divided into parts;  cleft.", "S": ["broken ", "cloven ", "cracked ", "crenelated ", "perforated ", "pierced ", "rent ", "riven ", "ruptured ", "separated ", "sundered ", "torn "], "A": ["connected ", "fixed ", "whole "]}
+{"index": 226944, "D": "divided into parts;  cleft.", "S": ["broken", "cloven", "cracked", "crenelated", "perforated", "pierced", "rent", "riven", "ruptured", "separated", "sundered", "torn"], "A": ["connected", "fixed", "whole"]}

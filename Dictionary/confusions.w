@@ -1,1 +1,1 @@
-{"index": 66098, "D": "the act of confusing. ", "S": ["bewilderment ", "disorientation ", "distraction ", "embarrassment ", "turbulence ", "turmoil "], "A": ["calm ", "peace ", "calmness ", "happiness "]}
+{"index": 66098, "D": "the act of confusing. ", "S": ["bewilderment", "disorientation", "distraction", "embarrassment", "turbulence", "turmoil"], "A": ["calm", "peace", "calmness", "happiness"]}

@@ -1,1 +1,1 @@
-{"index": 173529, "D": "a list;  record; catalog.", "S": ["agenda ", "card ", "program "], "A": []}
+{"index": 173529, "D": "a list;  record; catalog.", "S": ["agenda", "card", "program"], "A": []}

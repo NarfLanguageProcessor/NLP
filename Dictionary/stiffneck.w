@@ -1,1 +1,1 @@
-{"index": 304369, "D": [], "S": ["braggart ", "highbrow ", "parvenu ", "pretender ", "upstart "], "A": []}
+{"index": 304369, "D": [], "S": ["braggart", "highbrow", "parvenu", "pretender", "upstart"], "A": []}

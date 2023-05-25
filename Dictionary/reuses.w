@@ -1,1 +1,1 @@
-{"index": 271045, "D": "a city in Catalonia, NE Spain, on the Mediterranean Sea.", "S": ["restate "], "A": ["deny ", "refuse "]}
+{"index": 271045, "D": "a city in Catalonia, NE Spain, on the Mediterranean Sea.", "S": ["restate"], "A": ["deny", "refuse"]}

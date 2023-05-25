@@ -1,1 +1,1 @@
-{"index": 37633, "D": "a movable bar or rod that when slid into a socket fastens a door, gate, etc.", "S": ["fastener ", "latch ", "pipe ", "rivet ", "rod ", "spike "], "A": ["key "]}
+{"index": 37633, "D": "a movable bar or rod that when slid into a socket fastens a door, gate, etc.", "S": ["fastener", "latch", "pipe", "rivet", "rod", "spike"], "A": ["key"]}

@@ -1,1 +1,1 @@
-{"index": 301058, "D": "a television or radio broadcaster who reports sports news or provides a running description of a sports event", "S": ["analyst ", "announcer ", "correspondent ", "critic ", "observer ", "pundit ", "reviewer ", "writer "], "A": []}
+{"index": 301058, "D": "a television or radio broadcaster who reports sports news or provides a running description of a sports event", "S": ["analyst", "announcer", "correspondent", "critic", "observer", "pundit", "reviewer", "writer"], "A": []}

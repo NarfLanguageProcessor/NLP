@@ -1,1 +1,1 @@
-{"index": 257963, "D": "quantity or amount", "S": ["amount ", "measure ", "portion ", "sum ", "total ", "unit "], "A": ["part ", "whole "]}
+{"index": 257963, "D": "quantity or amount", "S": ["amount", "measure", "portion", "sum", "total", "unit"], "A": ["part", "whole"]}

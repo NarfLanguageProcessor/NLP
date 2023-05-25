@@ -1,1 +1,1 @@
-{"index": 151920, "D": "lower in station, rank, degree, or grade (often followed by to)", "S": ["lesser ", "secondary "], "A": ["superior ", "chief ", "important "]}
+{"index": 151920, "D": "lower in station, rank, degree, or grade (often followed by to)", "S": ["lesser", "secondary"], "A": ["superior", "chief", "important"]}

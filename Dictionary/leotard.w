@@ -1,1 +1,1 @@
-{"index": 170569, "D": "a skintight, one-piece garment for the torso, having a high or low neck, long or short sleeves, and a lower portion resembling either briefs or tights, worn by acrobats, dancers, etc.", "S": ["hosiery ", "pantyhose "], "A": []}
+{"index": 170569, "D": "a skintight, one-piece garment for the torso, having a high or low neck, long or short sleeves, and a lower portion resembling either briefs or tights, worn by acrobats, dancers, etc.", "S": ["hosiery", "pantyhose"], "A": []}

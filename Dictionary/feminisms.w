@@ -1,1 +1,1 @@
-{"index": 111166, "D": "the doctrine advocating social, political, and all other rights of women equal to those of men.", "S": ["feminist movement "], "A": []}
+{"index": 111166, "D": "the doctrine advocating social, political, and all other rights of women equal to those of men.", "S": ["feminist movement"], "A": []}

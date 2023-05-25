@@ -1,1 +1,1 @@
-{"index": 348075, "D": "not plumbed;  not tested or measured with a plumb line. ", "S": ["uncharted "], "A": ["explored "]}
+{"index": 348075, "D": "not plumbed;  not tested or measured with a plumb line. ", "S": ["uncharted"], "A": ["explored"]}

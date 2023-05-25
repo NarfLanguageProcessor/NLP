@@ -1,1 +1,1 @@
-{"index": 150310, "D": "unable to restrain natural discharges or evacuations of urine or feces.", "S": ["unchecked ", "uncontrollable ", "uncontrolled ", "ungovernable ", "unsuppressed "], "A": ["continent ", "restrained "]}
+{"index": 150310, "D": "unable to restrain natural discharges or evacuations of urine or feces.", "S": ["unchecked", "uncontrollable", "uncontrolled", "ungovernable", "unsuppressed"], "A": ["continent", "restrained"]}

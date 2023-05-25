@@ -1,1 +1,1 @@
-{"index": 195490, "D": "to make (a dead body) into a mummy,  as by embalming and drying.", "S": ["preserve "], "A": []}
+{"index": 195490, "D": "to make (a dead body) into a mummy,  as by embalming and drying.", "S": ["preserve"], "A": []}

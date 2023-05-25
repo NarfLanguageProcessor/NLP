@@ -1,1 +1,1 @@
-{"index": 295511, "D": "a person or thing that sniffs. ", "S": ["beak ", "snout "], "A": []}
+{"index": 295511, "D": "a person or thing that sniffs. ", "S": ["beak", "snout"], "A": []}

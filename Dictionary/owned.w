@@ -1,1 +1,1 @@
-{"index": 222074, "D": "of, relating to, or belonging to oneself or itself (usually used after a possessive to emphasize the idea of ownership, interest, or relation conveyed by the possessive)", "S": ["purchased "], "A": ["lost "]}
+{"index": 222074, "D": "of, relating to, or belonging to oneself or itself (usually used after a possessive to emphasize the idea of ownership, interest, or relation conveyed by the possessive)", "S": ["purchased"], "A": ["lost"]}

@@ -1,1 +1,1 @@
-{"index": 101711, "D": "a passage for affording entrance.", "S": ["stoop "], "A": ["exit "]}
+{"index": 101711, "D": "a passage for affording entrance.", "S": ["stoop"], "A": ["exit"]}

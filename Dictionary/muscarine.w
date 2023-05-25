@@ -1,1 +1,0 @@
-{"index": 195838, "D": "a poisonous compound, C8H19NO3, found in certain mushrooms, especially fly agaric, and in decaying fish.", "S": [], "A": []}

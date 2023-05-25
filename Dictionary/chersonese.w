@@ -1,1 +1,1 @@
-{"index": 53878, "D": "a peninsula.", "S": ["arm ", "beak ", "bill ", "finger ", "foreland ", "head ", "headland ", "jetty ", "mole ", "naze ", "neck ", "ness ", "peninsula ", "point ", "tongue "], "A": []}
+{"index": 53878, "D": "a peninsula.", "S": ["arm", "beak", "bill", "finger", "foreland", "head", "headland", "jetty", "mole", "naze", "neck", "ness", "peninsula", "point", "tongue"], "A": []}

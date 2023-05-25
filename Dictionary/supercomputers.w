@@ -1,1 +1,1 @@
-{"index": 311569, "D": "a very fast, powerful mainframe computer,  used in advanced military and scientific applications.", "S": ["disk drive ", "hardware ", "modem ", "personal computer "], "A": []}
+{"index": 311569, "D": "a very fast, powerful mainframe computer,  used in advanced military and scientific applications.", "S": ["disk drive", "hardware", "modem", "personal computer"], "A": []}

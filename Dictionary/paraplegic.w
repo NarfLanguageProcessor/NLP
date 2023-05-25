@@ -1,1 +1,1 @@
-{"index": 225991, "D": "having paraplegia;  paralyzed in the lower half of the body or in both lower limbs as a result of spinal disease or injury.", "S": ["disabled ", "lame ", "quadriplegic "], "A": ["able "]}
+{"index": 225991, "D": "having paraplegia;  paralyzed in the lower half of the body or in both lower limbs as a result of spinal disease or injury.", "S": ["disabled", "lame", "quadriplegic"], "A": ["able"]}

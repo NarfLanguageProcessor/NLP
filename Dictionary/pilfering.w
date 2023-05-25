@@ -1,1 +1,1 @@
-{"index": 236613, "D": "to steal, especially in small quantities.", "S": ["crooked ", "rapacious "], "A": []}
+{"index": 236613, "D": "to steal, especially in small quantities.", "S": ["crooked", "rapacious"], "A": []}

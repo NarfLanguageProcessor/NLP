@@ -1,1 +1,1 @@
-{"index": 260779, "D": "a rascal; rogue; scamp.", "S": ["knave ", "miscreant ", "rogue ", "rouge ", "scamp ", "scoundrel ", "villain "], "A": []}
+{"index": 260779, "D": "a rascal; rogue; scamp.", "S": ["knave", "miscreant", "rogue", "rouge", "scamp", "scoundrel", "villain"], "A": []}

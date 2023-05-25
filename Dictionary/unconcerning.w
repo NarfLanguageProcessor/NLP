@@ -1,1 +1,1 @@
-{"index": 337490, "D": [], "S": ["apathy ", "indifference ", "insouciance ", "nonchalance "], "A": ["concern ", "feeling ", "interest ", "sympathy "]}
+{"index": 337490, "D": [], "S": ["apathy", "indifference", "insouciance", "nonchalance"], "A": ["concern", "feeling", "interest", "sympathy"]}

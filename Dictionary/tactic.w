@@ -1,1 +1,1 @@
-{"index": 315121, "D": "tactics (def. 1). ", "S": ["ploy "], "A": []}
+{"index": 315121, "D": "tactics (def. 1). ", "S": ["ploy"], "A": []}

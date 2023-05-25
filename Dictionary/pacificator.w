@@ -1,1 +1,1 @@
-{"index": 222697, "D": "to pacify.", "S": ["arbitrator ", "conciliator ", "diplomat ", "mediator ", "negotiator ", "pacifist ", "peacekeeper "], "A": ["agitator ", "instigator "]}
+{"index": 222697, "D": "to pacify.", "S": ["arbitrator", "conciliator", "diplomat", "mediator", "negotiator", "pacifist", "peacekeeper"], "A": ["agitator", "instigator"]}

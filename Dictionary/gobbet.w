@@ -1,1 +1,1 @@
-{"index": 127241, "D": "a fragment or piece, especially of raw flesh.", "S": ["slice ", "wafer "], "A": ["whole "]}
+{"index": 127241, "D": "a fragment or piece, especially of raw flesh.", "S": ["slice", "wafer"], "A": ["whole"]}

@@ -1,1 +1,1 @@
-{"index": 179736, "D": "a person who makes maps;  cartographer.", "S": ["mapper ", "surveyor ", "topographer "], "A": []}
+{"index": 179736, "D": "a person who makes maps;  cartographer.", "S": ["mapper", "surveyor", "topographer"], "A": []}

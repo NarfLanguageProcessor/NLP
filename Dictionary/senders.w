@@ -1,1 +1,1 @@
-{"index": 285234, "D": "a person or thing that sends. ", "S": ["broker ", "dealer ", "exporter ", "operator ", "retailer ", "seller ", "shipper ", "shopkeeper ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}
+{"index": 285234, "D": "a person or thing that sends. ", "S": ["broker", "dealer", "exporter", "operator", "retailer", "seller", "shipper", "shopkeeper", "trader", "trafficker", "vendor", "wholesaler"], "A": ["customer"]}

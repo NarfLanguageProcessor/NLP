@@ -1,1 +1,1 @@
-{"index": 45665, "D": "Compare Bactrian camel, dromedary. ", "S": ["cream ", "khaki ", "off-white ", "tan ", "taupe "], "A": []}
+{"index": 45665, "D": "Compare Bactrian camel, dromedary. ", "S": ["cream", "khaki", "off-white", "tan", "taupe"], "A": []}

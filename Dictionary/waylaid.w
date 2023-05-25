@@ -1,1 +1,1 @@
-{"index": 361985, "D": "simple past tense and past participle of waylay. ", "S": ["accost "], "A": ["allow ", "forward "]}
+{"index": 361985, "D": "simple past tense and past participle of waylay. ", "S": ["accost"], "A": ["allow", "forward"]}

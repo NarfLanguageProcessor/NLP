@@ -1,1 +1,1 @@
-{"index": 80712, "D": "to disband (troops, an army, etc.).", "S": ["disarm ", "disband ", "withdraw "], "A": []}
+{"index": 80712, "D": "to disband (troops, an army, etc.).", "S": ["disarm", "disband", "withdraw"], "A": []}

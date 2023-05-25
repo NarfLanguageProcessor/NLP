@@ -1,1 +1,1 @@
-{"index": 138304, "D": "U.S. painter.", "S": ["backwoodsman ", "boor ", "bumpkin ", "clodhopper ", "hayseed ", "hillbilly ", "redneck ", "rube ", "yokel "], "A": []}
+{"index": 138304, "D": "U.S. painter.", "S": ["backwoodsman", "boor", "bumpkin", "clodhopper", "hayseed", "hillbilly", "redneck", "rube", "yokel"], "A": []}

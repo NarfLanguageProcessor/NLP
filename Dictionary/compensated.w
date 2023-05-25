@@ -1,1 +1,1 @@
-{"index": 64513, "D": "to recompense for something", "S": ["salaried "], "A": ["unpaid "]}
+{"index": 64513, "D": "to recompense for something", "S": ["salaried"], "A": ["unpaid"]}

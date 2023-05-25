@@ -1,1 +1,1 @@
-{"index": 131301, "D": "initiative; aggressiveness; resourcefulness", "S": ["acumen ", "cleverness ", "courage ", "good sense ", "initiative ", "resourcefulness ", "savvy ", "shrewdness "], "A": ["ignorance ", "stupidity ", "idleness ", "inanity ", "indolence ", "unemployment "]}
+{"index": 131301, "D": "initiative; aggressiveness; resourcefulness", "S": ["acumen", "cleverness", "courage", "good sense", "initiative", "resourcefulness", "savvy", "shrewdness"], "A": ["ignorance", "stupidity", "idleness", "inanity", "indolence", "unemployment"]}

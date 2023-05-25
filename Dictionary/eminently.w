@@ -1,1 +1,1 @@
-{"index": 98559, "D": "highly; very", "S": ["extremely ", "highly ", "remarkably "], "A": []}
+{"index": 98559, "D": "highly; very", "S": ["extremely", "highly", "remarkably"], "A": []}

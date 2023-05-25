@@ -1,1 +1,1 @@
-{"index": 327960, "D": "leaping or passing from one thing or state to another.", "S": ["abrupt change ", "advance ", "breakthrough ", "giant strides ", "inspiration ", "jump ", "leaps and bounds ", "quantum jump ", "radical change "], "A": []}
+{"index": 327960, "D": "leaping or passing from one thing or state to another.", "S": ["abrupt change", "advance", "breakthrough", "giant strides", "inspiration", "jump", "leaps and bounds", "quantum jump", "radical change"], "A": []}

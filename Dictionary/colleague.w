@@ -1,1 +1,1 @@
-{"index": 62882, "D": "an associate.", "S": ["aide ", "ally ", "assistant ", "buddy ", "co-worker ", "companion ", "comrade ", "friend ", "partner ", "teammate "], "A": ["enemy ", "foe ", "opponent "]}
+{"index": 62882, "D": "an associate.", "S": ["aide", "ally", "assistant", "buddy", "co-worker", "companion", "comrade", "friend", "partner", "teammate"], "A": ["enemy", "foe", "opponent"]}

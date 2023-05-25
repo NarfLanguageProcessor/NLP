@@ -1,1 +1,1 @@
-{"index": 245364, "D": "to talk excessively and pointlessly; babble", "S": ["chatty ", "glib ", "loquacious ", "voluble "], "A": ["quiet ", "silent "]}
+{"index": 245364, "D": "to talk excessively and pointlessly; babble", "S": ["chatty", "glib", "loquacious", "voluble"], "A": ["quiet", "silent"]}

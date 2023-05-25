@@ -1,1 +1,1 @@
-{"index": 287055, "D": "the comparative darkness caused by the interception or screening of rays of light from an object, place, or area.", "S": ["shadow "], "A": ["light ", "lightness "]}
+{"index": 287055, "D": "the comparative darkness caused by the interception or screening of rays of light from an object, place, or area.", "S": ["shadow"], "A": ["light", "lightness"]}

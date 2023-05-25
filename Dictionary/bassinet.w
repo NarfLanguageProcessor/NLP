@@ -1,1 +1,1 @@
-{"index": 28781, "D": "a basket with a hood over one end, for use as a baby's cradle.", "S": ["cradle ", "crib ", "perambulator ", "pram "], "A": []}
+{"index": 28781, "D": "a basket with a hood over one end, for use as a baby's cradle.", "S": ["cradle", "crib", "perambulator", "pram"], "A": []}

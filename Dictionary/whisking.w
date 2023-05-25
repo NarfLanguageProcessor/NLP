@@ -1,1 +1,1 @@
-{"index": 365051, "D": "to move with a rapid, sweeping stroke", "S": ["blasting "], "A": []}
+{"index": 365051, "D": "to move with a rapid, sweeping stroke", "S": ["blasting"], "A": []}

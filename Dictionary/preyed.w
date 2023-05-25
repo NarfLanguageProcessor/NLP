@@ -1,1 +1,1 @@
-{"index": 247854, "D": "an animal hunted or seized for food, especially by a carnivorous animal.", "S": ["devastate ", "liberate ", "loot ", "pillage ", "ransack ", "requisition ", "rob ", "salvage "], "A": ["give ", "aid ", "guard ", "help ", "protect ", "receive "]}
+{"index": 247854, "D": "an animal hunted or seized for food, especially by a carnivorous animal.", "S": ["devastate", "liberate", "loot", "pillage", "ransack", "requisition", "rob", "salvage"], "A": ["give", "aid", "guard", "help", "protect", "receive"]}

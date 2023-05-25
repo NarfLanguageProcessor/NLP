@@ -1,1 +1,1 @@
-{"index": 80051, "D": "fineness of texture, quality, etc.; softness; daintiness", "S": ["elegance ", "fragility ", "lightness ", "subtlety ", "tenderness "], "A": ["strength "]}
+{"index": 80051, "D": "fineness of texture, quality, etc.; softness; daintiness", "S": ["elegance", "fragility", "lightness", "subtlety", "tenderness"], "A": ["strength"]}

@@ -1,1 +1,1 @@
-{"index": 54712, "D": "another name for chip (def. 1)", "S": ["chop ", "crack ", "hack ", "nick ", "splinter ", "whack "], "A": ["fix ", "mend ", "build ", "combine ", "increase ", "join ", "put together "]}
+{"index": 54712, "D": "another name for chip (def. 1)", "S": ["chop", "crack", "hack", "nick", "splinter", "whack"], "A": ["fix", "mend", "build", "combine", "increase", "join", "put together"]}

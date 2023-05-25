@@ -1,1 +1,1 @@
-{"index": 1757, "D": "the act of giving official authority or approval, or the resulting status; certification", "S": ["diploma "], "A": ["disapproval ", "refusal "]}
+{"index": 1757, "D": "the act of giving official authority or approval, or the resulting status; certification", "S": ["diploma"], "A": ["disapproval", "refusal"]}

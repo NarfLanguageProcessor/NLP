@@ -1,1 +1,1 @@
-{"index": 24226, "D": "See also hybrid (def. 5b). ", "S": ["auto ", "bus ", "convertible ", "limousine ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "taxi ", "transportation ", "truck ", "van "], "A": []}
+{"index": 24226, "D": "See also hybrid (def. 5b). ", "S": ["auto", "bus", "convertible", "limousine", "passenger car", "pickup truck", "sports car", "station wagon", "taxi", "transportation", "truck", "van"], "A": []}

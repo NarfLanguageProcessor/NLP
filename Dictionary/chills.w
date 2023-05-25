@@ -1,1 +1,1 @@
-{"index": 54401, "D": "coldness, especially a moderate but uncomfortably penetrating coldness", "S": ["coldness "], "A": ["heat ", "warmth "]}
+{"index": 54401, "D": "coldness, especially a moderate but uncomfortably penetrating coldness", "S": ["coldness"], "A": ["heat", "warmth"]}

@@ -1,1 +1,1 @@
-{"index": 114131, "D": "an aircraft carrier.", "S": ["carrier ", "warship "], "A": []}
+{"index": 114131, "D": "an aircraft carrier.", "S": ["carrier", "warship"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 116983, "D": "care or provision for the future; provident care; prudence.", "S": ["farsighted ", "foreseeing ", "perceptive ", "prescient ", "provident ", "sagacious "], "A": []}
+{"index": 116983, "D": "care or provision for the future; provident care; prudence.", "S": ["farsighted", "foreseeing", "perceptive", "prescient", "provident", "sagacious"], "A": []}

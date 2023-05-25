@@ -1,1 +1,1 @@
-{"index": 214133, "D": "to compose or arrange (music) for performance by an orchestra. ", "S": ["chieftain ", "instigator ", "mastermind ", "troublemaker "], "A": ["employee ", "follower ", "worker "]}
+{"index": 214133, "D": "to compose or arrange (music) for performance by an orchestra. ", "S": ["chieftain", "instigator", "mastermind", "troublemaker"], "A": ["employee", "follower", "worker"]}

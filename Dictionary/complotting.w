@@ -1,1 +1,1 @@
-{"index": 64742, "D": "a plot involving several participants; conspiracy.", "S": ["cooperate ", "tend "], "A": ["divide ", "separate ", "withdraw "]}
+{"index": 64742, "D": "a plot involving several participants; conspiracy.", "S": ["cooperate", "tend"], "A": ["divide", "separate", "withdraw"]}

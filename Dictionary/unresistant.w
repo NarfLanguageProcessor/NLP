@@ -1,1 +1,1 @@
-{"index": 349706, "D": "exhibiting or offering resistance; resisting (often used in combination)", "S": ["acquiescing ", "assentive ", "nonresistant ", "resigned ", "submissive ", "yielding "], "A": []}
+{"index": 349706, "D": "exhibiting or offering resistance; resisting (often used in combination)", "S": ["acquiescing", "assentive", "nonresistant", "resigned", "submissive", "yielding"], "A": []}

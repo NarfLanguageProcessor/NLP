@@ -1,1 +1,1 @@
-{"index": 276884, "D": "cause, account, interest, or benefit", "S": ["well-being "], "A": ["disadvantage ", "disregard ", "disrespect ", "loss ", "neglect "]}
+{"index": 276884, "D": "cause, account, interest, or benefit", "S": ["well-being"], "A": ["disadvantage", "disregard", "disrespect", "loss", "neglect"]}

@@ -1,1 +1,0 @@
-{"index": 333325, "D": "a slender shoot of a tree or other plant.", "S": ["accept ", "assume ", "believe ", "perceive ", "realize "], "A": ["neglect ", "avoid ", "disbelieve ", "dislike ", "disregard ", "fail ", "know ", "let go ", "lose ", "miss ", "misunderstand ", "release "]}

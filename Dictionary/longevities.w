@@ -1,1 +1,1 @@
-{"index": 174916, "D": "a long individual life; great duration of individual life", "S": ["durability ", "endurance "], "A": []}
+{"index": 174916, "D": "a long individual life; great duration of individual life", "S": ["durability", "endurance"], "A": []}

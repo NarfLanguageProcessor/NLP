@@ -1,1 +1,0 @@
-{"index": 174836, "D": "of or relating to the doctrine propounded by the Italian criminologist Cesare Lombroso (1836\u20131909) that criminals are a product of hereditary and atavistic factors and can be classified as a definite abnormal type", "S": [], "A": []}

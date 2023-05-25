@@ -1,1 +1,1 @@
-{"index": 41635, "D": "a dark tertiary color with a yellowish or reddish hue.", "S": ["baked ", "boiled ", "broiled ", "crisped ", "fried ", "ready ", "stewed "], "A": ["rare ", "raw ", "undone ", "unfinished "]}
+{"index": 41635, "D": "a dark tertiary color with a yellowish or reddish hue.", "S": ["baked", "boiled", "broiled", "crisped", "fried", "ready", "stewed"], "A": ["rare", "raw", "undone", "unfinished"]}

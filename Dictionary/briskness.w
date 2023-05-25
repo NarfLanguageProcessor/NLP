@@ -1,1 +1,1 @@
-{"index": 40950, "D": "quick and active; lively", "S": ["cleverness ", "dexterity ", "quickness ", "sharpness ", "swiftness "], "A": ["slowing ", "slowness ", "sluggishness "]}
+{"index": 40950, "D": "quick and active; lively", "S": ["cleverness", "dexterity", "quickness", "sharpness", "swiftness"], "A": ["slowing", "slowness", "sluggishness"]}

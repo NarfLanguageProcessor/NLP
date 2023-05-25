@@ -1,1 +1,1 @@
-{"index": 3256, "D": "engaged in action;  characterized by energetic work, participation, etc.; busy", "S": ["action ", "enterprise ", "exercise ", "life ", "movement "], "A": ["cessation ", "idleness ", "inaction ", "inactivity ", "stoppage ", "laziness "]}
+{"index": 3256, "D": "engaged in action;  characterized by energetic work, participation, etc.; busy", "S": ["action", "enterprise", "exercise", "life", "movement"], "A": ["cessation", "idleness", "inaction", "inactivity", "stoppage", "laziness"]}

@@ -1,1 +1,1 @@
-{"index": 152370, "D": "to commit a breach or infraction of; violate or transgress", "S": ["anarchic ", "barbarous ", "chaotic ", "turbulent ", "unruly ", "violent "], "A": ["calm ", "mild ", "moderate ", "obedient "]}
+{"index": 152370, "D": "to commit a breach or infraction of; violate or transgress", "S": ["anarchic", "barbarous", "chaotic", "turbulent", "unruly", "violent"], "A": ["calm", "mild", "moderate", "obedient"]}

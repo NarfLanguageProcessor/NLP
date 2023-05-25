@@ -1,1 +1,1 @@
-{"index": 14108, "D": "a fixed but arbitrary stake put into the pot by each player before the deal.", "S": ["compensated "], "A": ["unpaid "]}
+{"index": 14108, "D": "a fixed but arbitrary stake put into the pot by each player before the deal.", "S": ["compensated"], "A": ["unpaid"]}

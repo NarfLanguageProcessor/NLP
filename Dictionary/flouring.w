@@ -1,1 +1,1 @@
-{"index": 115148, "D": "the finely ground meal of grain, especially the finer meal separated by bolting.", "S": ["grate "], "A": ["build "]}
+{"index": 115148, "D": "the finely ground meal of grain, especially the finer meal separated by bolting.", "S": ["grate"], "A": ["build"]}

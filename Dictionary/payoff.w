@@ -1,1 +1,1 @@
-{"index": 223203, "D": "the payment of a salary, debt, wager, etc.", "S": ["consequence ", "outcome ", "payment ", "reward ", "settlement "], "A": ["beginning ", "cause ", "origin ", "source ", "opening ", "start "]}
+{"index": 223203, "D": "the payment of a salary, debt, wager, etc.", "S": ["consequence", "outcome", "payment", "reward", "settlement"], "A": ["beginning", "cause", "origin", "source", "opening", "start"]}

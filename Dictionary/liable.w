@@ -1,1 +1,1 @@
-{"index": 171380, "D": "legally responsible", "S": ["accountable ", "amenable "], "A": ["irresponsible ", "unaccountable "]}
+{"index": 171380, "D": "legally responsible", "S": ["accountable", "amenable"], "A": ["irresponsible", "unaccountable"]}

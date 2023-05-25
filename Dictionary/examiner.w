@@ -1,1 +1,1 @@
-{"index": 106465, "D": "one who examines or inspects", "S": ["appraiser ", "auditor ", "inspector ", "investigator "], "A": []}
+{"index": 106465, "D": "one who examines or inspects", "S": ["appraiser", "auditor", "inspector", "investigator"], "A": []}

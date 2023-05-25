@@ -1,1 +1,1 @@
-{"index": 361586, "D": "openness or susceptibility to attack or harm", "S": ["susceptibility "], "A": ["aid ", "asset ", "help ", "irresponsibility "]}
+{"index": 361586, "D": "openness or susceptibility to attack or harm", "S": ["susceptibility"], "A": ["aid", "asset", "help", "irresponsibility"]}

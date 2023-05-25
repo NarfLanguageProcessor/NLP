@@ -1,1 +1,1 @@
-{"index": 196, "D": "a monastery under the supervision of an abbot or a convent under the supervision of an abbess.", "S": ["nunnery "], "A": []}
+{"index": 196, "D": "a monastery under the supervision of an abbot or a convent under the supervision of an abbess.", "S": ["nunnery"], "A": []}

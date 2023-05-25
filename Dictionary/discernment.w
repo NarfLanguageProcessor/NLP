@@ -1,1 +1,1 @@
-{"index": 87283, "D": "the faculty of discerning;  discrimination; acuteness of judgment and understanding.", "S": ["acumen ", "insight ", "judgment ", "understanding "], "A": ["ignorance ", "stupidity "]}
+{"index": 87283, "D": "the faculty of discerning;  discrimination; acuteness of judgment and understanding.", "S": ["acumen", "insight", "judgment", "understanding"], "A": ["ignorance", "stupidity"]}

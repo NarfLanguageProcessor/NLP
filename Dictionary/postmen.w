@@ -1,1 +1,1 @@
-{"index": 244297, "D": "a postal employee who carries and delivers mail; mail carrier. ", "S": ["mailman "], "A": []}
+{"index": 244297, "D": "a postal employee who carries and delivers mail; mail carrier. ", "S": ["mailman"], "A": []}

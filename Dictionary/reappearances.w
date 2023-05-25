@@ -1,1 +1,1 @@
-{"index": 261886, "D": "the act or fact of appearing,  as to the eye or mind or before the public", "S": ["frequency ", "habituation ", "intermittence ", "regularity ", "repetition ", "repetitiveness ", "return "], "A": []}
+{"index": 261886, "D": "the act or fact of appearing,  as to the eye or mind or before the public", "S": ["frequency", "habituation", "intermittence", "regularity", "repetition", "repetitiveness", "return"], "A": []}

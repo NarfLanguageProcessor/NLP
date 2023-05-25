@@ -1,1 +1,1 @@
-{"index": 113330, "D": "a glass bowl  for goldfish, snails, etc.", "S": ["aquatic museum ", "marine exhibit "], "A": []}
+{"index": 113330, "D": "a glass bowl  for goldfish, snails, etc.", "S": ["aquatic museum", "marine exhibit"], "A": []}

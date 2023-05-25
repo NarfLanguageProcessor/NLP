@@ -1,1 +1,1 @@
-{"index": 100151, "D": "to give energy  to; rouse into activity", "S": ["activated ", "alert ", "animated ", "spirited "], "A": ["lethargic "]}
+{"index": 100151, "D": "to give energy  to; rouse into activity", "S": ["activated", "alert", "animated", "spirited"], "A": ["lethargic"]}

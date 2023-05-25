@@ -1,1 +1,1 @@
-{"index": 117674, "D": "the act of fortifying  or strengthening.", "S": ["barricade ", "citadel ", "fortress ", "reinforcement "], "A": ["opening "]}
+{"index": 117674, "D": "the act of fortifying  or strengthening.", "S": ["barricade", "citadel", "fortress", "reinforcement"], "A": ["opening"]}

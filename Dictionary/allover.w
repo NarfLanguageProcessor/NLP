@@ -1,1 +1,1 @@
-{"index": 9005, "D": "extending or repeated over  the entire surface, as a decorative pattern.", "S": ["fidget ", "jump ", "nervousness ", "tremble ", "uneasiness "], "A": []}
+{"index": 9005, "D": "extending or repeated over  the entire surface, as a decorative pattern.", "S": ["fidget", "jump", "nervousness", "tremble", "uneasiness"], "A": []}

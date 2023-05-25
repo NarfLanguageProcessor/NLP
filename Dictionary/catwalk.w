@@ -1,1 +1,1 @@
-{"index": 49887, "D": "a narrow walkway, especially one high above the surrounding area, used to provide access or allow workers to stand or move, as over the stage in a theater, outside the roadway of a bridge, along the top of a railroad car, etc.", "S": ["bridge "], "A": []}
+{"index": 49887, "D": "a narrow walkway, especially one high above the surrounding area, used to provide access or allow workers to stand or move, as over the stage in a theater, outside the roadway of a bridge, along the top of a railroad car, etc.", "S": ["bridge"], "A": []}

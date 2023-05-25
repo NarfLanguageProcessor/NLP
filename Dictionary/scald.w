@@ -1,1 +1,1 @@
-{"index": 279385, "D": "to burn or affect painfully with or as if with hot liquid or steam.", "S": ["blanch ", "char ", "criticize ", "excoriate ", "heat ", "parboil ", "scorch "], "A": ["compliment ", "freeze ", "laud ", "praise "]}
+{"index": 279385, "D": "to burn or affect painfully with or as if with hot liquid or steam.", "S": ["blanch", "char", "criticize", "excoriate", "heat", "parboil", "scorch"], "A": ["compliment", "freeze", "laud", "praise"]}

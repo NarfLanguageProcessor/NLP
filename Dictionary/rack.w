@@ -1,1 +1,1 @@
-{"index": 259432, "D": "a framework of bars, wires, or pegs on which articles are arranged or deposited", "S": ["bed ", "box ", "counter ", "furniture ", "shelf "], "A": []}
+{"index": 259432, "D": "a framework of bars, wires, or pegs on which articles are arranged or deposited", "S": ["bed", "box", "counter", "furniture", "shelf"], "A": []}

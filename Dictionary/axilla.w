@@ -1,1 +1,1 @@
-{"index": 25109, "D": "the armpit. ", "S": ["oxter "], "A": []}
+{"index": 25109, "D": "the armpit. ", "S": ["oxter"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 267840, "D": "to take or fill up (space, time, etc.)", "S": ["convert ", "reassume ", "reclaim ", "recondition ", "recover ", "recycle ", "redeem ", "regenerate ", "remodel ", "repossess ", "rescue ", "restore ", "retake ", "salvage ", "take back "], "A": []}

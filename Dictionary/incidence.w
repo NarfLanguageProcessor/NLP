@@ -1,1 +1,1 @@
-{"index": 149843, "D": "the rate or range of occurrence or influence of something, especially of something unwanted", "S": ["extent ", "frequency ", "percentage ", "prevalence ", "proportion ", "rate "], "A": ["whole "]}
+{"index": 149843, "D": "the rate or range of occurrence or influence of something, especially of something unwanted", "S": ["extent", "frequency", "percentage", "prevalence", "proportion", "rate"], "A": ["whole"]}

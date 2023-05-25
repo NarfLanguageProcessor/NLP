@@ -1,1 +1,1 @@
-{"index": 156306, "D": "associated in close personal relations", "S": ["camp ", "class ", "clique ", "club ", "company ", "crowd ", "fraternity ", "party ", "ring ", "school ", "society "], "A": ["individual "]}
+{"index": 156306, "D": "associated in close personal relations", "S": ["camp", "class", "clique", "club", "company", "crowd", "fraternity", "party", "ring", "school", "society"], "A": ["individual"]}

@@ -1,1 +1,1 @@
-{"index": 98065, "D": [], "S": ["fraud ", "larceny ", "misappropriation ", "misuse ", "theft "], "A": ["compensation ", "pay ", "reimbursement ", "return "]}
+{"index": 98065, "D": [], "S": ["fraud", "larceny", "misappropriation", "misuse", "theft"], "A": ["compensation", "pay", "reimbursement", "return"]}

@@ -1,1 +1,1 @@
-{"index": 284040, "D": "partial darkness. ", "S": ["darkness ", "dusk ", "shade "], "A": ["brightness ", "light ", "daybreak "]}
+{"index": 284040, "D": "partial darkness. ", "S": ["darkness", "dusk", "shade"], "A": ["brightness", "light", "daybreak"]}

@@ -1,1 +1,1 @@
-{"index": 145884, "D": "a person who yawns. ", "S": ["banal ", "drab ", "everyday ", "humdrum ", "mundane ", "workaday "], "A": ["exciting ", "unusual "]}
+{"index": 145884, "D": "a person who yawns. ", "S": ["banal", "drab", "everyday", "humdrum", "mundane", "workaday"], "A": ["exciting", "unusual"]}

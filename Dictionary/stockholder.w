@@ -1,1 +1,1 @@
-{"index": 304923, "D": "a holder  or owner of stock  in a corporation.", "S": ["banker ", "lender ", "shareholder ", "venture capitalist "], "A": []}
+{"index": 304923, "D": "a holder  or owner of stock  in a corporation.", "S": ["banker", "lender", "shareholder", "venture capitalist"], "A": []}

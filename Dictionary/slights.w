@@ -1,1 +1,1 @@
-{"index": 294076, "D": "small in amount, degree, etc.", "S": ["meager ", "minor ", "modest ", "negligible ", "slender ", "slim ", "superficial ", "trivial "], "A": ["important ", "large ", "major ", "significant ", "likely ", "useful "]}
+{"index": 294076, "D": "small in amount, degree, etc.", "S": ["meager", "minor", "modest", "negligible", "slender", "slim", "superficial", "trivial"], "A": ["important", "large", "major", "significant", "likely", "useful"]}

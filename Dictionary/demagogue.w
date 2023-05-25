@@ -1,1 +1,1 @@
-{"index": 80343, "D": "a person, especially an orator or political leader, who gains power and popularity by arousing the emotions, passions, and prejudices of the people.", "S": ["agitator ", "firebrand "], "A": []}
+{"index": 80343, "D": "a person, especially an orator or political leader, who gains power and popularity by arousing the emotions, passions, and prejudices of the people.", "S": ["agitator", "firebrand"], "A": []}

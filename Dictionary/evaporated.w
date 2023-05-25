@@ -1,1 +1,1 @@
-{"index": 106036, "D": "to change from a liquid or solid state into vapor;  pass off in vapor.", "S": ["arid ", "bone-dry ", "dehydrated ", "dry ", "moistureless ", "parched ", "waterless "], "A": []}
+{"index": 106036, "D": "to change from a liquid or solid state into vapor;  pass off in vapor.", "S": ["arid", "bone-dry", "dehydrated", "dry", "moistureless", "parched", "waterless"], "A": []}

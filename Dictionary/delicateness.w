@@ -1,1 +1,1 @@
-{"index": 80055, "D": "fine in texture, quality, construction, etc.", "S": ["debility ", "decrepitude ", "delicacy ", "feebleness ", "fragileness ", "fragility ", "frailty ", "unsoundness ", "weakliness ", "weakness "], "A": []}
+{"index": 80055, "D": "fine in texture, quality, construction, etc.", "S": ["debility", "decrepitude", "delicacy", "feebleness", "fragileness", "fragility", "frailty", "unsoundness", "weakliness", "weakness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 35607, "D": "the flat cutting part of a sword, knife, etc.", "S": ["knife ", "sword "], "A": []}
+{"index": 35607, "D": "the flat cutting part of a sword, knife, etc.", "S": ["knife", "sword"], "A": []}

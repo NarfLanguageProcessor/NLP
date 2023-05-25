@@ -1,1 +1,0 @@
-{"index": 350836, "D": "an act of helpful activity; help; aid", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 70592, "D": "a person who counsels; adviser. ", "S": ["courtroom "], "A": ["advantage ", "aid ", "help "]}
+{"index": 70592, "D": "a person who counsels; adviser. ", "S": ["courtroom"], "A": ["advantage", "aid", "help"]}

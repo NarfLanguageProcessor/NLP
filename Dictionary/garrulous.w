@@ -1,1 +1,1 @@
-{"index": 122299, "D": "excessively talkative in a rambling, roundabout manner, especially about trivial matters.", "S": ["chatty ", "glib ", "loquacious ", "voluble "], "A": ["quiet ", "silent "]}
+{"index": 122299, "D": "excessively talkative in a rambling, roundabout manner, especially about trivial matters.", "S": ["chatty", "glib", "loquacious", "voluble"], "A": ["quiet", "silent"]}

@@ -1,1 +1,0 @@
-{"index": 302834, "D": "a machine for fastening together sheets of paper or the like, with wire staples. ", "S": ["fastener ", "staple gun "], "A": []}

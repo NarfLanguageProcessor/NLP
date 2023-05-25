@@ -1,1 +1,1 @@
-{"index": 73888, "D": "across; transversely.", "S": ["diagonal "], "A": ["head-on ", "lengthwise ", "longways "]}
+{"index": 73888, "D": "across; transversely.", "S": ["diagonal"], "A": ["head-on", "lengthwise", "longways"]}

@@ -1,1 +1,1 @@
-{"index": 211762, "D": "a monster in fairy tales and popular legend, usually represented as a hideous giant who feeds on human flesh.", "S": ["beast ", "giant ", "hulk ", "monster ", "monstrosity ", "specter ", "troll "], "A": ["good guy ", "nice guy "]}
+{"index": 211762, "D": "a monster in fairy tales and popular legend, usually represented as a hideous giant who feeds on human flesh.", "S": ["beast", "giant", "hulk", "monster", "monstrosity", "specter", "troll"], "A": ["good guy", "nice guy"]}

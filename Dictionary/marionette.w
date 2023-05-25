@@ -1,1 +1,1 @@
-{"index": 180109, "D": "a puppet manipulated from above by strings attached to its jointed limbs.", "S": ["doll ", "dummy ", "figurine ", "manikin ", "moppet "], "A": []}
+{"index": 180109, "D": "a puppet manipulated from above by strings attached to its jointed limbs.", "S": ["doll", "dummy", "figurine", "manikin", "moppet"], "A": []}

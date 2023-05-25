@@ -1,1 +1,1 @@
-{"index": 342996, "D": "possessing the claimed or attributed character, quality, or origin; not counterfeit; authentic; real", "S": ["fictitious ", "inaccurate ", "mythical ", "unsubstantiated ", "untrue "], "A": ["true "]}
+{"index": 342996, "D": "possessing the claimed or attributed character, quality, or origin; not counterfeit; authentic; real", "S": ["fictitious", "inaccurate", "mythical", "unsubstantiated", "untrue"], "A": ["true"]}

@@ -1,1 +1,1 @@
-{"index": 53050, "D": "refraining from sexual intercourse that is regarded as contrary to morality or religion; virtuous. ", "S": ["humbly ", "plainly ", "quietly ", "simply "], "A": ["boastfully ", "boldly ", "immodestly ", "pretentiously "]}
+{"index": 53050, "D": "refraining from sexual intercourse that is regarded as contrary to morality or religion; virtuous. ", "S": ["humbly", "plainly", "quietly", "simply"], "A": ["boastfully", "boldly", "immodestly", "pretentiously"]}

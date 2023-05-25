@@ -1,1 +1,1 @@
-{"index": 71865, "D": "a crash; collision.", "S": ["destruction "], "A": []}
+{"index": 71865, "D": "a crash; collision.", "S": ["destruction"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 46420, "D": "to subject to cannibalism. ", "S": ["disassemble ", "dismantle "], "A": []}
+{"index": 46420, "D": "to subject to cannibalism. ", "S": ["disassemble", "dismantle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 10257, "D": "reparation or compensation for a loss, damage, or injury of any kind; recompense.", "S": ["apology ", "redress ", "reparation ", "restitution "], "A": ["penalty "]}
+{"index": 10257, "D": "reparation or compensation for a loss, damage, or injury of any kind; recompense.", "S": ["apology", "redress", "reparation", "restitution"], "A": ["penalty"]}

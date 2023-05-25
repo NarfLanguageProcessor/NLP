@@ -1,1 +1,1 @@
-{"index": 160188, "D": "to cross a street at a place other than a regular crossing or in a heedless manner, as diagonally or against a traffic light.", "S": ["hiker ", "passerby ", "stroller ", "walker "], "A": []}
+{"index": 160188, "D": "to cross a street at a place other than a regular crossing or in a heedless manner, as diagonally or against a traffic light.", "S": ["hiker", "passerby", "stroller", "walker"], "A": []}

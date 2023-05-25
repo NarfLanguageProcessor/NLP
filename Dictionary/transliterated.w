@@ -1,1 +1,1 @@
-{"index": 328042, "D": "to change (letters, words, etc.) into corresponding characters of another alphabet or language", "S": ["adapted ", "rendered ", "reworded ", "rewritten "], "A": []}
+{"index": 328042, "D": "to change (letters, words, etc.) into corresponding characters of another alphabet or language", "S": ["adapted", "rendered", "reworded", "rewritten"], "A": []}

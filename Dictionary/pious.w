@@ -1,1 +1,1 @@
-{"index": 237385, "D": "having or showing a dutiful spirit of reverence for God or an earnest wish to fulfill religious obligations.", "S": ["born-again ", "devout ", "righteous ", "saintly ", "sanctimonious "], "A": ["bad "]}
+{"index": 237385, "D": "having or showing a dutiful spirit of reverence for God or an earnest wish to fulfill religious obligations.", "S": ["born-again", "devout", "righteous", "saintly", "sanctimonious"], "A": ["bad"]}

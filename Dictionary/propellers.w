@@ -1,1 +1,1 @@
-{"index": 252567, "D": "a device having a revolving hub with radiating blades, for propelling  an airplane, ship, etc.", "S": ["screw "], "A": []}
+{"index": 252567, "D": "a device having a revolving hub with radiating blades, for propelling  an airplane, ship, etc.", "S": ["screw"], "A": []}

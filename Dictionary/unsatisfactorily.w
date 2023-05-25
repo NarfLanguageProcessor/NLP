@@ -1,1 +1,1 @@
-{"index": 350377, "D": "not satisfactory;  not satisfying or meeting one's demands; inadequate.", "S": ["badly ", "crudely "], "A": []}
+{"index": 350377, "D": "not satisfactory;  not satisfying or meeting one's demands; inadequate.", "S": ["badly", "crudely"], "A": []}

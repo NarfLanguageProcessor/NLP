@@ -1,1 +1,1 @@
-{"index": 57730, "D": "distrusting or disparaging the motives of others; like or characteristic of a cynic. ", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}
+{"index": 57730, "D": "distrusting or disparaging the motives of others; like or characteristic of a cynic. ", "S": ["desperately", "sadly"], "A": ["confidently", "expectantly", "hopefully"]}

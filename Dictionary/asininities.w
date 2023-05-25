@@ -1,1 +1,1 @@
-{"index": 21284, "D": "foolish, unintelligent, or silly; stupid", "S": ["absurdity ", "foolishness ", "idiocy ", "stupidity "], "A": ["intelligence ", "sense "]}
+{"index": 21284, "D": "foolish, unintelligent, or silly; stupid", "S": ["absurdity", "foolishness", "idiocy", "stupidity"], "A": ["intelligence", "sense"]}

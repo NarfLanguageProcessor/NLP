@@ -1,1 +1,1 @@
-{"index": 158244, "D": "not capable of being refuted  or disproved", "S": ["indisputable ", "ironclad ", "unassailable ", "undeniable "], "A": ["disputable ", "indefinite "]}
+{"index": 158244, "D": "not capable of being refuted  or disproved", "S": ["indisputable", "ironclad", "unassailable", "undeniable"], "A": ["disputable", "indefinite"]}

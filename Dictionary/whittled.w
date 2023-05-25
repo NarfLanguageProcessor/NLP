@@ -1,1 +1,1 @@
-{"index": 365249, "D": "to cut, trim, or shape (a stick, piece of wood, etc.) by carving off bits with a knife.", "S": ["diminish ", "erode ", "lessen ", "pare ", "shave ", "trim "], "A": ["develop ", "enlarge ", "extend ", "increase ", "destroy ", "neglect "]}
+{"index": 365249, "D": "to cut, trim, or shape (a stick, piece of wood, etc.) by carving off bits with a knife.", "S": ["diminish", "erode", "lessen", "pare", "shave", "trim"], "A": ["develop", "enlarge", "extend", "increase", "destroy", "neglect"]}

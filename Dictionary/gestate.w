@@ -1,1 +1,1 @@
-{"index": 124368, "D": "to carry in the womb during the period from conception to delivery.", "S": ["expecting ", "fortification "], "A": []}
+{"index": 124368, "D": "to carry in the womb during the period from conception to delivery.", "S": ["expecting", "fortification"], "A": []}

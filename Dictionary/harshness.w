@@ -1,1 +1,1 @@
-{"index": 133997, "D": "ungentle and unpleasant in action or effect", "S": ["brutality ", "cruelty "], "A": ["kindness ", "niceness "]}
+{"index": 133997, "D": "ungentle and unpleasant in action or effect", "S": ["brutality", "cruelty"], "A": ["kindness", "niceness"]}

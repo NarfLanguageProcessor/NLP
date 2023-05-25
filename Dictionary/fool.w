@@ -1,1 +1,1 @@
-{"index": 116092, "D": "a silly or stupid person; a person who lacks judgment or sense.", "S": ["ass ", "boob ", "buffoon ", "idiot ", "jerk ", "moron ", "nitwit ", "stooge ", "sucker ", "twit "], "A": ["brain ", "genius "]}
+{"index": 116092, "D": "a silly or stupid person; a person who lacks judgment or sense.", "S": ["ass", "boob", "buffoon", "idiot", "jerk", "moron", "nitwit", "stooge", "sucker", "twit"], "A": ["brain", "genius"]}

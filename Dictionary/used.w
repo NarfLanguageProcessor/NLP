@@ -1,1 +1,1 @@
-{"index": 355958, "D": "previously used or owned;secondhand", "S": ["recycled ", "worn "], "A": []}
+{"index": 355958, "D": "previously used or owned;secondhand", "S": ["recycled", "worn"], "A": []}

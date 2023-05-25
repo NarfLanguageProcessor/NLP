@@ -1,1 +1,0 @@
-{"index": 307338, "D": "noting or pertaining to ammunition of smaller caliber than the gun in which it is used.", "S": [], "A": []}

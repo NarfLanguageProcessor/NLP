@@ -1,1 +1,1 @@
-{"index": 93107, "D": "a person who trains others in something, especially routinely or mechanically.", "S": ["authoritarian ", "bully ", "despot ", "enforcer ", "stickler ", "taskmaster ", "tyrant "], "A": []}
+{"index": 93107, "D": "a person who trains others in something, especially routinely or mechanically.", "S": ["authoritarian", "bully", "despot", "enforcer", "stickler", "taskmaster", "tyrant"], "A": []}

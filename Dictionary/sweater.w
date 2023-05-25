@@ -1,1 +1,1 @@
-{"index": 314214, "D": "a knitted jacket or jersey, in pullover or cardigan style, with or without sleeves.", "S": ["jersey ", "jumper ", "pullover "], "A": []}
+{"index": 314214, "D": "a knitted jacket or jersey, in pullover or cardigan style, with or without sleeves.", "S": ["jersey", "jumper", "pullover"], "A": []}

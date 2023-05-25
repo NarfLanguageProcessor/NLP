@@ -1,1 +1,1 @@
-{"index": 124628, "D": "(in folklore) a being with human form but superhuman size, strength, etc.", "S": ["behemoth ", "titan "], "A": ["dwarf ", "midget ", "runt "]}
+{"index": 124628, "D": "(in folklore) a being with human form but superhuman size, strength, etc.", "S": ["behemoth", "titan"], "A": ["dwarf", "midget", "runt"]}

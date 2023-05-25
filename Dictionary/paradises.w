@@ -1,1 +1,1 @@
-{"index": 225513, "D": "heaven, as the final abode of the righteous.", "S": ["bliss ", "heaven ", "utopia ", "wonderland "], "A": ["hell "]}
+{"index": 225513, "D": "heaven, as the final abode of the righteous.", "S": ["bliss", "heaven", "utopia", "wonderland"], "A": ["hell"]}

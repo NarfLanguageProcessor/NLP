@@ -1,1 +1,1 @@
-{"index": 303035, "D": "the building in which the legislature of a state  sits; the capitol of a state. ", "S": ["center ", "dome "], "A": []}
+{"index": 303035, "D": "the building in which the legislature of a state  sits; the capitol of a state. ", "S": ["center", "dome"], "A": []}

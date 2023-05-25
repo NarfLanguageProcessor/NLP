@@ -1,1 +1,1 @@
-{"index": 107667, "D": "to drive or force out or away; discharge or eject", "S": ["dislodge ", "drive out ", "evacuate ", "remove "], "A": ["absorb ", "admit ", "allow ", "permit ", "take in ", "welcome "]}
+{"index": 107667, "D": "to drive or force out or away; discharge or eject", "S": ["dislodge", "drive out", "evacuate", "remove"], "A": ["absorb", "admit", "allow", "permit", "take in", "welcome"]}

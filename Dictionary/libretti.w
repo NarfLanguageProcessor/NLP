@@ -1,1 +1,1 @@
-{"index": 171580, "D": "the text or words of an opera or similar extended musical composition.", "S": ["book ", "lines ", "text ", "theme ", "verse ", "words "], "A": []}
+{"index": 171580, "D": "the text or words of an opera or similar extended musical composition.", "S": ["book", "lines", "text", "theme", "verse", "words"], "A": []}

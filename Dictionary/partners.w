@@ -1,1 +1,1 @@
-{"index": 227116, "D": "a wooden construction around an opening in a deck, as to support a mast", "S": ["club ", "company ", "lineup ", "organization ", "party ", "side ", "squad ", "unit "], "A": ["individual ", "one ", "single "]}
+{"index": 227116, "D": "a wooden construction around an opening in a deck, as to support a mast", "S": ["club", "company", "lineup", "organization", "party", "side", "squad", "unit"], "A": ["individual", "one", "single"]}

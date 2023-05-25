@@ -1,1 +1,1 @@
-{"index": 82583, "D": "to mark or point out; indicate; show; specify.", "S": ["denotative ", "denoting ", "denotive ", "expressed ", "implying ", "indicative ", "indicatory ", "referring ", "signifying "], "A": []}
+{"index": 82583, "D": "to mark or point out; indicate; show; specify.", "S": ["denotative", "denoting", "denotive", "expressed", "implying", "indicative", "indicatory", "referring", "signifying"], "A": []}

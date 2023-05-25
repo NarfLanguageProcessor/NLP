@@ -1,1 +1,1 @@
-{"index": 76788, "D": "of or relating to the Danes, their country, or their language.", "S": ["bread ", "doughnut ", "muffin ", "pastry ", "scone "], "A": []}
+{"index": 76788, "D": "of or relating to the Danes, their country, or their language.", "S": ["bread", "doughnut", "muffin", "pastry", "scone"], "A": []}

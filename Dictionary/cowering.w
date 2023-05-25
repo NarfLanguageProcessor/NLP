@@ -1,1 +1,1 @@
-{"index": 71580, "D": "to crouch, as in fear or shame.", "S": ["dastardly "], "A": ["bold ", "brave ", "courageous ", "daring ", "dauntless ", "unafraid ", "undaunted ", "unfearful "]}
+{"index": 71580, "D": "to crouch, as in fear or shame.", "S": ["dastardly"], "A": ["bold", "brave", "courageous", "daring", "dauntless", "unafraid", "undaunted", "unfearful"]}

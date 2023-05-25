@@ -1,1 +1,1 @@
-{"index": 341956, "D": "not faithful; false to duty, obligation, or promises; disloyal", "S": ["cheating ", "untrue "], "A": ["faithful ", "loyal ", "trustworthy "]}
+{"index": 341956, "D": "not faithful; false to duty, obligation, or promises; disloyal", "S": ["cheating", "untrue"], "A": ["faithful", "loyal", "trustworthy"]}

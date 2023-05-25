@@ -1,1 +1,1 @@
-{"index": 290195, "D": "a conventional Italian term of address or title of respect for a married woman, either used separately or prefixed to the name.", "S": ["madame "], "A": ["sir "]}
+{"index": 290195, "D": "a conventional Italian term of address or title of respect for a married woman, either used separately or prefixed to the name.", "S": ["madame"], "A": ["sir"]}

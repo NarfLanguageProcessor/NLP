@@ -1,1 +1,1 @@
-{"index": 304682, "D": "stinkpot (def. 1). ", "S": ["odorous bomb ", "stinkpot "], "A": []}
+{"index": 304682, "D": "stinkpot (def. 1). ", "S": ["odorous bomb", "stinkpot"], "A": []}

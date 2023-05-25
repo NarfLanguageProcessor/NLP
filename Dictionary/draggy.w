@@ -1,1 +1,1 @@
-{"index": 92532, "D": "moving or developing very slowly.", "S": ["callous ", "indifferent ", "laid-back ", "passive ", "stoic ", "uninterested "], "A": ["caring ", "compassionate ", "concerned ", "feeling ", "interested ", "sympathetic "]}
+{"index": 92532, "D": "moving or developing very slowly.", "S": ["callous", "indifferent", "laid-back", "passive", "stoic", "uninterested"], "A": ["caring", "compassionate", "concerned", "feeling", "interested", "sympathetic"]}

@@ -1,1 +1,1 @@
-{"index": 22672, "D": "spear-thrower (def. 2). ", "S": ["ammunition ", "bomb ", "cannon ", "firearm ", "gun ", "knife ", "machete ", "machine gun ", "missile ", "nerve gas ", "pistol ", "revolver ", "rifle ", "shotgun ", "sword ", "tear gas "], "A": []}
+{"index": 22672, "D": "spear-thrower (def. 2). ", "S": ["ammunition", "bomb", "cannon", "firearm", "gun", "knife", "machete", "machine gun", "missile", "nerve gas", "pistol", "revolver", "rifle", "shotgun", "sword", "tear gas"], "A": []}

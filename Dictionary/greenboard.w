@@ -1,1 +1,1 @@
-{"index": 129522, "D": "a green  chalkboard or blackboard.", "S": ["slate "], "A": []}
+{"index": 129522, "D": "a green  chalkboard or blackboard.", "S": ["slate"], "A": []}

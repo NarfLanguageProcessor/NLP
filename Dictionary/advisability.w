@@ -1,1 +1,1 @@
-{"index": 4687, "D": "proper to be suggested or recommended; desirable or wise, as a course of action", "S": [], "A": []}
+{"index": 4687, "D": "proper to be suggested or recommended; desirable or wise, as a course of action", "S": ["sensibility", "suitability"], "A": ["inadvisability"]}

@@ -1,1 +1,1 @@
-{"index": 277972, "D": "the state of being sane;  soundness of mind.", "S": ["common-sense ", "normality ", "prudence ", "rationality ", "soundness ", "stability ", "wit "], "A": ["ignorance ", "inability ", "ineptness ", "misinterpretation ", "mistake ", "misunderstanding "]}
+{"index": 277972, "D": "the state of being sane;  soundness of mind.", "S": ["common-sense", "normality", "prudence", "rationality", "soundness", "stability", "wit"], "A": ["ignorance", "inability", "ineptness", "misinterpretation", "mistake", "misunderstanding"]}

@@ -1,1 +1,1 @@
-{"index": 52843, "D": "of, having, or characteristic of charisma", "S": ["appealing "], "A": []}
+{"index": 52843, "D": "of, having, or characteristic of charisma", "S": ["appealing"], "A": []}

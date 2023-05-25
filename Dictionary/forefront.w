@@ -1,1 +1,1 @@
-{"index": 116662, "D": "the foremost part or place.", "S": ["cutting edge ", "fore ", "front line ", "leading edge ", "limelight ", "vanguard "], "A": ["unimportance "]}
+{"index": 116662, "D": "the foremost part or place.", "S": ["cutting edge", "fore", "front line", "leading edge", "limelight", "vanguard"], "A": ["unimportance"]}

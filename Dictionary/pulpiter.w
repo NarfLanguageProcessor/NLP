@@ -1,1 +1,1 @@
-{"index": 256354, "D": "a preacher by profession.", "S": ["clergy ", "cleric ", "evangelist ", "missionary "], "A": []}
+{"index": 256354, "D": "a preacher by profession.", "S": ["clergy", "cleric", "evangelist", "missionary"], "A": []}

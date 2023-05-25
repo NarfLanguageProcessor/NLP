@@ -1,0 +1,1 @@
+{"index": 28041, "D": "a whitish, malleable, active, divalent, metallic element, occurring in combination chiefly as barite or as witherite. Symbol", "S": [], "A": []}

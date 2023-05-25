@@ -1,1 +1,0 @@
-{"index": 259849, "D": "a chitinous band in the mouth of most mollusks, set with numerous, minute, horny teeth and drawn backward and forward over the floor of the mouth in the process of breaking up food.", "S": [], "A": []}

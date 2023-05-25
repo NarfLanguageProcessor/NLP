@@ -1,0 +1,1 @@
+{"index": 12071, "D": "the doctrine asserting the nonexistence of a personal and immortal soul.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 114133, "D": "the condition of having an accumulation of gas in the alimentary canal", "S": ["babble ", "boasting ", "bombast ", "claptrap ", "fustian ", "turgidity ", "twaddle ", "windiness "], "A": []}
+{"index": 114133, "D": "the condition of having an accumulation of gas in the alimentary canal", "S": ["babble", "boasting", "bombast", "claptrap", "fustian", "turgidity", "twaddle", "windiness"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22085, "D": "a fatigue or tiring of the eyes, usually characterized by discomfort, dimness of vision, and headache, caused by overuse of the visual organs, dysfunction of the ocular muscles, and incorrect refraction.", "S": [], "A": []}

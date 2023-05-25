@@ -1,1 +1,1 @@
-{"index": 67090, "D": "to constrict; compress; cause to contract.", "S": ["compact ", "constrict ", "narrow ", "shrink ", "squeeze ", "tighten "], "A": ["enlarge ", "expand ", "free ", "let go ", "loosen ", "release "]}
+{"index": 67090, "D": "to constrict; compress; cause to contract.", "S": ["compact", "constrict", "narrow", "shrink", "squeeze", "tighten"], "A": ["enlarge", "expand", "free", "let go", "loosen", "release"]}

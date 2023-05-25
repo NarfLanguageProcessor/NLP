@@ -1,1 +1,1 @@
-{"index": 70798, "D": "a conditional statement the first clause of which expresses something contrary to fact, as \u201cIf I had known.\u201d", "S": ["false ", "incorrect ", "made up ", "truthless ", "untrue ", "untruthful ", "wrong "], "A": []}
+{"index": 70798, "D": "a conditional statement the first clause of which expresses something contrary to fact, as \u201cIf I had known.\u201d", "S": ["false", "incorrect", "made up", "truthless", "untrue", "untruthful", "wrong"], "A": []}

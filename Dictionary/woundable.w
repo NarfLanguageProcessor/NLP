@@ -1,1 +1,1 @@
-{"index": 367750, "D": [], "S": ["accessible ", "assailable ", "defenseless ", "helpless ", "indefensible ", "unguarded ", "unprotected ", "unsafe ", "untenable ", "wide-open "], "A": ["able ", "fit ", "guarded ", "potent ", "protected ", "safe ", "secure "]}
+{"index": 367750, "D": [], "S": ["accessible", "assailable", "defenseless", "helpless", "indefensible", "unguarded", "unprotected", "unsafe", "untenable", "wide-open"], "A": ["able", "fit", "guarded", "potent", "protected", "safe", "secure"]}

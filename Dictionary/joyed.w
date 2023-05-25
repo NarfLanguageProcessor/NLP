@@ -1,1 +1,1 @@
-{"index": 161585, "D": "the emotion of great delight or happiness caused by something exceptionally good or satisfying; keen pleasure; elation", "S": ["exult ", "revel "], "A": ["be sad "]}
+{"index": 161585, "D": "the emotion of great delight or happiness caused by something exceptionally good or satisfying; keen pleasure; elation", "S": ["exult", "revel"], "A": ["be sad"]}

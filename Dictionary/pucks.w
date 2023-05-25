@@ -1,1 +1,1 @@
-{"index": 255999, "D": "a black disk of vulcanized rubber that is to be hit into the goal.", "S": ["fairy ", "fay ", "goblin ", "hobgoblin ", "imp ", "prankster ", "sprite "], "A": []}
+{"index": 255999, "D": "a black disk of vulcanized rubber that is to be hit into the goal.", "S": ["fairy", "fay", "goblin", "hobgoblin", "imp", "prankster", "sprite"], "A": []}

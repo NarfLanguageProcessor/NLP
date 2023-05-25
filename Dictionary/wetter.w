@@ -1,1 +1,1 @@
-{"index": 364314, "D": "moistened, covered, or soaked with water or some other liquid", "S": ["dank ", "foggy ", "humid ", "misty ", "muggy ", "rainy ", "slippery ", "snowy ", "soaked ", "sodden ", "soggy ", "stormy "], "A": ["arid ", "clear ", "dry "]}
+{"index": 364314, "D": "moistened, covered, or soaked with water or some other liquid", "S": ["dank", "foggy", "humid", "misty", "muggy", "rainy", "slippery", "snowy", "soaked", "sodden", "soggy", "stormy"], "A": ["arid", "clear", "dry"]}

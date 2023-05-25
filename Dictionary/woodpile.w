@@ -1,1 +1,1 @@
-{"index": 367214, "D": "a pile  or stack  of firewood. ", "S": ["kindling "], "A": []}
+{"index": 367214, "D": "a pile  or stack  of firewood. ", "S": ["kindling"], "A": []}

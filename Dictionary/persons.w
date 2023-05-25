@@ -1,1 +1,1 @@
-{"index": 232005, "D": "a human being, whether an adult or child", "S": ["community ", "crowd ", "family ", "folk ", "nation ", "population ", "public ", "society "], "A": ["animals ", "plants "]}
+{"index": 232005, "D": "a human being, whether an adult or child", "S": ["community", "crowd", "family", "folk", "nation", "population", "public", "society"], "A": ["animals", "plants"]}

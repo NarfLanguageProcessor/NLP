@@ -1,1 +1,1 @@
-{"index": 365532, "D": "a small mechanical device, as a knob or switch, especially one whose name is not known or cannot be recalled; gadget", "S": ["gizmo "], "A": []}
+{"index": 365532, "D": "a small mechanical device, as a knob or switch, especially one whose name is not known or cannot be recalled; gadget", "S": ["gizmo"], "A": []}

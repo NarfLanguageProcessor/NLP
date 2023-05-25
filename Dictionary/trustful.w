@@ -1,1 +1,1 @@
-{"index": 331684, "D": "full of trust;  free of distrust, suspicion, or the like; confiding", "S": ["childish ", "guileless "], "A": ["complicated ", "untrusting "]}
+{"index": 331684, "D": "full of trust;  free of distrust, suspicion, or the like; confiding", "S": ["childish", "guileless"], "A": ["complicated", "untrusting"]}

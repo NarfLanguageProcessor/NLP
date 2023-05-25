@@ -1,1 +1,1 @@
-{"index": 363183, "D": "devoid of water;  dry.", "S": ["arid ", "bone-dry ", "dehydrated ", "dry ", "evaporated ", "moistureless ", "parched "], "A": []}
+{"index": 363183, "D": "devoid of water;  dry.", "S": ["arid", "bone-dry", "dehydrated", "dry", "evaporated", "moistureless", "parched"], "A": []}

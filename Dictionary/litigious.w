@@ -1,1 +1,0 @@
-{"index": 173836, "D": "of or relating to litigation. ", "S": ["belligerent ", "combative ", "contentious "], "A": []}

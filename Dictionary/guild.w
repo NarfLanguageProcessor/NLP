@@ -1,1 +1,1 @@
-{"index": 131059, "D": "an organization of persons with related interests, goals, etc., especially one formed for mutual aid or protection.", "S": ["federation "], "A": ["disorganization ", "entertainment ", "fun "]}
+{"index": 131059, "D": "an organization of persons with related interests, goals, etc., especially one formed for mutual aid or protection.", "S": ["federation"], "A": ["disorganization", "entertainment", "fun"]}

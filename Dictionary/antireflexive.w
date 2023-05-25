@@ -1,0 +1,1 @@
+{"index": 16066, "D": "noting a relation in which no element is in relation to itself, as \u201cless than.\u201d", "S": [], "A": []}

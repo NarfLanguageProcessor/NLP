@@ -1,1 +1,1 @@
-{"index": 161640, "D": "joyful; happy; jubilant", "S": ["cheerful ", "ecstatic ", "exuberant ", "festive ", "heartwarming ", "joyful ", "jubilant ", "merry ", "upbeat ", "wonderful "], "A": ["depressed ", "gloomy ", "grave ", "sad ", "serious ", "sorrowful ", "unhappy "]}
+{"index": 161640, "D": "joyful; happy; jubilant", "S": ["cheerful", "ecstatic", "exuberant", "festive", "heartwarming", "joyful", "jubilant", "merry", "upbeat", "wonderful"], "A": ["depressed", "gloomy", "grave", "sad", "serious", "sorrowful", "unhappy"]}

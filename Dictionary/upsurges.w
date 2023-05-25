@@ -1,1 +1,1 @@
-{"index": 355126, "D": "to surge  up; increase; rise", "S": ["boom ", "improvement ", "recovery ", "upswing ", "upturn "], "A": ["downturn "]}
+{"index": 355126, "D": "to surge  up; increase; rise", "S": ["boom", "improvement", "recovery", "upswing", "upturn"], "A": ["downturn"]}

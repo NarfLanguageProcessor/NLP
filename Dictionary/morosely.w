@@ -1,1 +1,1 @@
-{"index": 193544, "D": "in a sullen, gloomy, or ill-humored way", "S": ["wistfully "], "A": ["happily "]}
+{"index": 193544, "D": "in a sullen, gloomy, or ill-humored way", "S": ["wistfully"], "A": ["happily"]}

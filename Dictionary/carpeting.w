@@ -1,1 +1,1 @@
-{"index": 48387, "D": "material for carpets. ", "S": ["rug ", "tapestry "], "A": []}
+{"index": 48387, "D": "material for carpets. ", "S": ["rug", "tapestry"], "A": []}

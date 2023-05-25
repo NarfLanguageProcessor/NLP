@@ -1,1 +1,0 @@
-{"index": 284841, "D": "defying or resisting some established authority, government, or tradition; insubordinate; inclined to rebel.", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 304836, "D": "a loop, ring, or other contrivance of metal, wood, leather, etc., suspended from the saddle of a horse to support the rider's foot.", "S": ["clamp ", "splint "], "A": []}

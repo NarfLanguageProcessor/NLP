@@ -1,1 +1,1 @@
-{"index": 295157, "D": "a particle of soot; sooty matter.", "S": ["erotica ", "filth ", "obscenity "], "A": ["purity "]}
+{"index": 295157, "D": "a particle of soot; sooty matter.", "S": ["erotica", "filth", "obscenity"], "A": ["purity"]}

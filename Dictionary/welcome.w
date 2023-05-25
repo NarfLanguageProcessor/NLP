@@ -1,1 +1,1 @@
-{"index": 363971, "D": "(a word of kindly greeting, as to one whose arrival gives pleasure)", "S": ["appreciated ", "desirable ", "gratifying ", "pleasant ", "pleasing ", "refreshing ", "satisfying "], "A": ["disagreeable ", "bad ", "unpleasant "]}
+{"index": 363971, "D": "(a word of kindly greeting, as to one whose arrival gives pleasure)", "S": ["appreciated", "desirable", "gratifying", "pleasant", "pleasing", "refreshing", "satisfying"], "A": ["disagreeable", "bad", "unpleasant"]}

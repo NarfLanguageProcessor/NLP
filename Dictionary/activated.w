@@ -1,1 +1,1 @@
-{"index": 3247, "D": "to make active; cause to function or act.", "S": ["alert ", "animated ", "energized ", "spirited "], "A": ["lethargic "]}
+{"index": 3247, "D": "to make active; cause to function or act.", "S": ["alert", "animated", "energized", "spirited"], "A": ["lethargic"]}

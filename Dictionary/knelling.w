@@ -1,1 +1,1 @@
-{"index": 165513, "D": "the sound made by a bell rung slowly, especially for a death or a funeral.", "S": ["bell ", "proclaim ", "ring ", "signal ", "sound ", "summon ", "toll ", "warning "], "A": []}
+{"index": 165513, "D": "the sound made by a bell rung slowly, especially for a death or a funeral.", "S": ["bell", "proclaim", "ring", "signal", "sound", "summon", "toll", "warning"], "A": []}

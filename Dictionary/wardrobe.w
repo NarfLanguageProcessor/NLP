@@ -1,1 +1,1 @@
-{"index": 362578, "D": "a stock of clothes or costumes, as of a person or of a theatrical company.", "S": ["apparel ", "attire ", "closet ", "dresser ", "trunk "], "A": []}
+{"index": 362578, "D": "a stock of clothes or costumes, as of a person or of a theatrical company.", "S": ["apparel", "attire", "closet", "dresser", "trunk"], "A": []}

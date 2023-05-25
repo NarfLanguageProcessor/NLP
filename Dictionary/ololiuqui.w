@@ -1,1 +1,0 @@
-{"index": 212339, "D": "a woody vine, Turbina corymbosa, of the morning glory family, native to Central America, having seeds that are hallucinogenic and are used in some Indian rituals.", "S": [], "A": []}

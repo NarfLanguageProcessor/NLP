@@ -1,1 +1,1 @@
-{"index": 92007, "D": "to be uncertain about; consider questionable or unlikely; hesitate to believe", "S": ["dubiously "], "A": []}
+{"index": 92007, "D": "to be uncertain about; consider questionable or unlikely; hesitate to believe", "S": ["dubiously"], "A": []}

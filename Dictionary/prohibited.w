@@ -1,1 +1,1 @@
-{"index": 251961, "D": "forbidden by authority or law", "S": ["banned ", "barred ", "contraband ", "illegal ", "illicit ", "restricted "], "A": ["allowed ", "lawful ", "legal ", "legitimate "]}
+{"index": 251961, "D": "forbidden by authority or law", "S": ["banned", "barred", "contraband", "illegal", "illicit", "restricted"], "A": ["allowed", "lawful", "legal", "legitimate"]}

@@ -1,1 +1,1 @@
-{"index": 146717, "D": "pertaining to a year  or to each year. ", "S": ["annual ", "annually ", "regularly ", "yearlong "], "A": []}
+{"index": 146717, "D": "pertaining to a year  or to each year. ", "S": ["annual", "annually", "regularly", "yearlong"], "A": []}

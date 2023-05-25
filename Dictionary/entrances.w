@@ -1,1 +1,1 @@
-{"index": 101637, "D": "an act of entering, as into a place or upon new duties.", "S": ["access ", "avenue ", "corridor ", "door ", "doorway ", "entry ", "entryway ", "gate ", "hall ", "hallway ", "lobby ", "opening ", "passageway ", "porch ", "port ", "staircase "], "A": ["egress ", "exit "]}
+{"index": 101637, "D": "an act of entering, as into a place or upon new duties.", "S": ["access", "avenue", "corridor", "door", "doorway", "entry", "entryway", "gate", "hall", "hallway", "lobby", "opening", "passageway", "porch", "port", "staircase"], "A": ["egress", "exit"]}

@@ -1,1 +1,1 @@
-{"index": 288660, "D": "a simple past tense and past participle of shoe. ", "S": ["attired ", "cloaked ", "covered ", "draped ", "dressed ", "veiled "], "A": ["exposed ", "naked ", "unclothed ", "undressed "]}
+{"index": 288660, "D": "a simple past tense and past participle of shoe. ", "S": ["attired", "cloaked", "covered", "draped", "dressed", "veiled"], "A": ["exposed", "naked", "unclothed", "undressed"]}

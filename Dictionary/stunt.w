@@ -1,1 +1,1 @@
-{"index": 306912, "D": "to stop, slow down, or hinder the growth or development of; dwarf", "S": ["antic ", "feat ", "sketch ", "skit "], "A": ["failure "]}
+{"index": 306912, "D": "to stop, slow down, or hinder the growth or development of; dwarf", "S": ["antic", "feat", "sketch", "skit"], "A": ["failure"]}

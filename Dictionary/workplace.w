@@ -1,1 +1,1 @@
-{"index": 367534, "D": "a person's place  of employment.", "S": ["building ", "company ", "enterprise ", "organization ", "structure ", "system "], "A": []}
+{"index": 367534, "D": "a person's place  of employment.", "S": ["building", "company", "enterprise", "organization", "structure", "system"], "A": []}

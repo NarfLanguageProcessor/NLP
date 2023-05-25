@@ -1,1 +1,1 @@
-{"index": 213666, "D": "adhering to a policy of opportunism; practicing opportunism.", "S": ["conciliatory ", "gracious ", "polite ", "strategic "], "A": ["rude "]}
+{"index": 213666, "D": "adhering to a policy of opportunism; practicing opportunism.", "S": ["conciliatory", "gracious", "polite", "strategic"], "A": ["rude"]}

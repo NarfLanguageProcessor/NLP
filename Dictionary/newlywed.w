@@ -1,1 +1,1 @@
-{"index": 199411, "D": "a person who has recently married.", "S": ["mate ", "old woman ", "spouse ", "wife "], "A": ["bridegroom ", "groom "]}
+{"index": 199411, "D": "a person who has recently married.", "S": ["mate", "old woman", "spouse", "wife"], "A": ["bridegroom", "groom"]}

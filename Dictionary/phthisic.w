@@ -1,1 +1,1 @@
-{"index": 235647, "D": "a wasting disease of the lungs; phthisis. ", "S": ["consumptive "], "A": []}
+{"index": 235647, "D": "a wasting disease of the lungs; phthisis. ", "S": ["consumptive"], "A": []}

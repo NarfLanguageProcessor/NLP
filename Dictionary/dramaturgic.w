@@ -1,1 +1,1 @@
-{"index": 92678, "D": "of or relating to playwriting or dramaturgy,  the craft and techniques of dramatic composition", "S": ["dramaturgical "], "A": []}
+{"index": 92678, "D": "of or relating to playwriting or dramaturgy,  the craft and techniques of dramatic composition", "S": ["dramaturgical"], "A": []}

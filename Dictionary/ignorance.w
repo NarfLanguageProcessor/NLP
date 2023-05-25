@@ -1,1 +1,1 @@
-{"index": 147078, "D": "the state or fact of being ignorant;  lack of knowledge, learning, information, etc.", "S": ["bewilderment ", "disregard ", "illiteracy ", "insensitivity "], "A": ["cognizance ", "understanding "]}
+{"index": 147078, "D": "the state or fact of being ignorant;  lack of knowledge, learning, information, etc.", "S": ["bewilderment", "disregard", "illiteracy", "insensitivity"], "A": ["cognizance", "understanding"]}

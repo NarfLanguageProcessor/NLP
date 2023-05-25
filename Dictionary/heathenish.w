@@ -1,1 +1,1 @@
-{"index": 134944, "D": "of or relating to heathens", "S": ["fanatical ", "heathen ", "heretical ", "impious "], "A": []}
+{"index": 134944, "D": "of or relating to heathens", "S": ["fanatical", "heathen", "heretical", "impious"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 51452, "D": "the formal activities conducted on some solemn or important public or state occasion", "S": ["commemoration ", "function ", "observance ", "parade ", "rite ", "service ", "show "], "A": ["neglect "]}
+{"index": 51452, "D": "the formal activities conducted on some solemn or important public or state occasion", "S": ["commemoration", "function", "observance", "parade", "rite", "service", "show"], "A": ["neglect"]}

@@ -1,1 +1,1 @@
-{"index": 50846, "D": "an ornamental object used in a central position, especially on the center  of a dining-room table.", "S": ["climax ", "focal point "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 50846, "D": "an ornamental object used in a central position, especially on the center  of a dining-room table.", "S": ["climax", "focal point"], "A": ["exterior", "exteriority", "outside"]}

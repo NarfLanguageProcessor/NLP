@@ -1,1 +1,1 @@
-{"index": 242978, "D": "to consider something deeply and thoroughly; meditate (often followed by over or upon).", "S": ["introspective ", "meditative ", "pensive ", "reflective ", "thoughtful "], "A": ["ignorant ", "unthoughtful "]}
+{"index": 242978, "D": "to consider something deeply and thoroughly; meditate (often followed by over or upon).", "S": ["introspective", "meditative", "pensive", "reflective", "thoughtful"], "A": ["ignorant", "unthoughtful"]}

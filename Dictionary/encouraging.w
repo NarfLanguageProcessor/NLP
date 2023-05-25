@@ -1,1 +1,1 @@
-{"index": 99489, "D": "to inspire with courage, spirit, or confidence", "S": ["hopeful ", "promising ", "reassuring ", "supportive "], "A": ["hopeless ", "unpromising "]}
+{"index": 99489, "D": "to inspire with courage, spirit, or confidence", "S": ["hopeful", "promising", "reassuring", "supportive"], "A": ["hopeless", "unpromising"]}

@@ -1,1 +1,1 @@
-{"index": 7406, "D": "Compare wandering albatross. ", "S": ["millstone "], "A": ["benefit ", "blessing ", "happiness ", "joy "]}
+{"index": 7406, "D": "Compare wandering albatross. ", "S": ["millstone"], "A": ["benefit", "blessing", "happiness", "joy"]}

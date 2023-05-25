@@ -1,1 +1,1 @@
-{"index": 114616, "D": "a trick or deception, especially a swindle or confidence game involving skillful persuasion or clever manipulation of the victim.", "S": ["con man ", "crook ", "hustler ", "swindler "], "A": []}
+{"index": 114616, "D": "a trick or deception, especially a swindle or confidence game involving skillful persuasion or clever manipulation of the victim.", "S": ["con man", "crook", "hustler", "swindler"], "A": []}

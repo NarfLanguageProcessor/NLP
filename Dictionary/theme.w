@@ -1,1 +1,1 @@
-{"index": 320892, "D": "a subject of discourse, discussion, meditation, or composition; topic", "S": ["argument ", "line ", "matter ", "motif ", "point ", "problem ", "question ", "stuff ", "subject ", "text ", "thought ", "topic "], "A": []}
+{"index": 320892, "D": "a subject of discourse, discussion, meditation, or composition; topic", "S": ["argument", "line", "matter", "motif", "point", "problem", "question", "stuff", "subject", "text", "thought", "topic"], "A": []}

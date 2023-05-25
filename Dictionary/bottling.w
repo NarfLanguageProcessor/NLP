@@ -1,1 +1,1 @@
-{"index": 38820, "D": "a portable container for holding liquids, characteristically having a neck and mouth and made of glass or plastic.", "S": ["conserving ", "keeping ", "storing ", "tinning "], "A": []}
+{"index": 38820, "D": "a portable container for holding liquids, characteristically having a neck and mouth and made of glass or plastic.", "S": ["conserving", "keeping", "storing", "tinning"], "A": []}

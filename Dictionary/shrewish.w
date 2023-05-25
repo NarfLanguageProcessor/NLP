@@ -1,1 +1,1 @@
-{"index": 289157, "D": "having the disposition of a shrew. ", "S": ["ill-tempered ", "irritable ", "nagging ", "peevish ", "petulant ", "quarrelsome "], "A": []}
+{"index": 289157, "D": "having the disposition of a shrew. ", "S": ["ill-tempered", "irritable", "nagging", "peevish", "petulant", "quarrelsome"], "A": []}

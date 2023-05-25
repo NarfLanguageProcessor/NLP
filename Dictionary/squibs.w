@@ -1,1 +1,1 @@
-{"index": 301924, "D": "a short and witty or sarcastic saying or writing.", "S": ["announcement ", "broadcast ", "commercial ", "display ", "endorsement ", "exhibit ", "literature ", "notice ", "placard ", "poster ", "propaganda ", "publication ", "publicity "], "A": ["hiding "]}
+{"index": 301924, "D": "a short and witty or sarcastic saying or writing.", "S": ["announcement", "broadcast", "commercial", "display", "endorsement", "exhibit", "literature", "notice", "placard", "poster", "propaganda", "publication", "publicity"], "A": ["hiding"]}

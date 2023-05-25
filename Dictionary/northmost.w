@@ -1,1 +1,1 @@
-{"index": 208643, "D": "northernmost. ", "S": ["northward "], "A": []}
+{"index": 208643, "D": "northernmost. ", "S": ["northward"], "A": []}

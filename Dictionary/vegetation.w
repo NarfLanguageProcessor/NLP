@@ -1,1 +1,1 @@
-{"index": 357698, "D": "all the plants or plant life of a place, taken as a whole", "S": ["flora ", "greenery "], "A": []}
+{"index": 357698, "D": "all the plants or plant life of a place, taken as a whole", "S": ["flora", "greenery"], "A": []}

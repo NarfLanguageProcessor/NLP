@@ -1,1 +1,1 @@
-{"index": 279477, "D": "a small, light, usually straight knife used in surgical and anatomical operations and dissections.", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "sickle ", "skewer ", "sword "], "A": []}
+{"index": 279477, "D": "a small, light, usually straight knife used in surgical and anatomical operations and dissections.", "S": ["bayonet", "blade", "cutter", "dagger", "machete", "sickle", "skewer", "sword"], "A": []}

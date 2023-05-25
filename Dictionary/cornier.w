@@ -1,1 +1,1 @@
-{"index": 69329, "D": "of or abounding in corn.", "S": ["banal ", "dull ", "hackneyed ", "kitschy ", "mawkish ", "melodramatic ", "old-fashioned ", "sentimental ", "stale "], "A": ["calm ", "current ", "fresh ", "intelligent ", "new "]}
+{"index": 69329, "D": "of or abounding in corn.", "S": ["banal", "dull", "hackneyed", "kitschy", "mawkish", "melodramatic", "old-fashioned", "sentimental", "stale"], "A": ["calm", "current", "fresh", "intelligent", "new"]}

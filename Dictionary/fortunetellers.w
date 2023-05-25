@@ -1,1 +1,1 @@
-{"index": 117732, "D": [], "S": ["augur ", "clairvoyant ", "diviner ", "medium ", "oracle ", "palmist ", "predictor ", "prophet ", "seer ", "soothsayer ", "spiritualist "], "A": []}
+{"index": 117732, "D": [], "S": ["augur", "clairvoyant", "diviner", "medium", "oracle", "palmist", "predictor", "prophet", "seer", "soothsayer", "spiritualist"], "A": []}

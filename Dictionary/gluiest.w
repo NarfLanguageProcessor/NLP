@@ -1,1 +1,1 @@
-{"index": 126895, "D": "like glue;  viscid; sticky.", "S": ["glutinous ", "gummy ", "jelled ", "jellied ", "jelly-like ", "mucilaginous ", "pudding ", "sticky ", "thick ", "viscid ", "viscous "], "A": ["liquid "]}
+{"index": 126895, "D": "like glue;  viscid; sticky.", "S": ["glutinous", "gummy", "jelled", "jellied", "jelly-like", "mucilaginous", "pudding", "sticky", "thick", "viscid", "viscous"], "A": ["liquid"]}

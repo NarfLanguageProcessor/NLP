@@ -1,1 +1,1 @@
-{"index": 121244, "D": "a very strong wind.", "S": ["cyclone ", "hurricane ", "monsoon ", "squall ", "tornado ", "wind ", "windstorm "], "A": []}
+{"index": 121244, "D": "a very strong wind.", "S": ["cyclone", "hurricane", "monsoon", "squall", "tornado", "wind", "windstorm"], "A": []}

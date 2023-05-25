@@ -1,1 +1,1 @@
-{"index": 66393, "D": "to join together; unite; combine; associate.", "S": ["combinable ", "combinative ", "combinatorial ", "conjugable ", "conjugative ", "conjunctional ", "connective "], "A": []}
+{"index": 66393, "D": "to join together; unite; combine; associate.", "S": ["combinable", "combinative", "combinatorial", "conjugable", "conjugative", "conjunctional", "connective"], "A": []}

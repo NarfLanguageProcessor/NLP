@@ -1,1 +1,1 @@
-{"index": 64554, "D": "a person, team, company, etc., that competes;  rival.", "S": ["adversary ", "challenger ", "competition ", "contestant ", "favorite ", "opponent ", "rival "], "A": ["ally ", "associate ", "helper "]}
+{"index": 64554, "D": "a person, team, company, etc., that competes;  rival.", "S": ["adversary", "challenger", "competition", "contestant", "favorite", "opponent", "rival"], "A": ["ally", "associate", "helper"]}

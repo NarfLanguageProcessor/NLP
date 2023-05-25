@@ -1,1 +1,1 @@
-{"index": 12480, "D": "a collector or teller of anecdotes. ", "S": ["storyteller "], "A": []}
+{"index": 12480, "D": "a collector or teller of anecdotes. ", "S": ["storyteller"], "A": []}

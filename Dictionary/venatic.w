@@ -1,1 +1,1 @@
-{"index": 357930, "D": "of or relating to hunting.", "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}
+{"index": 357930, "D": "of or relating to hunting.", "S": ["angling", "fishery", "fishing", "shooting"], "A": []}

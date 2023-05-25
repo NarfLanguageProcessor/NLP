@@ -1,1 +1,1 @@
-{"index": 106232, "D": "noting, pertaining to, serving as, or based on evidence. ", "S": ["emblematic ", "ominous ", "suggestive ", "symbolic ", "symptomatic "], "A": []}
+{"index": 106232, "D": "noting, pertaining to, serving as, or based on evidence. ", "S": ["emblematic", "ominous", "suggestive", "symbolic", "symptomatic"], "A": []}

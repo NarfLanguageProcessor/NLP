@@ -1,1 +1,1 @@
-{"index": 3519, "D": "the common European viper, Vipera berus.", "S": ["cobra "], "A": []}
+{"index": 3519, "D": "the common European viper, Vipera berus.", "S": ["cobra"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 27489, "D": [], "S": ["charge card "], "A": []}
+{"index": 27489, "D": [], "S": ["charge card"], "A": []}

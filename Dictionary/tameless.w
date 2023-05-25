@@ -1,1 +1,1 @@
-{"index": 315889, "D": "untamed or untamable.", "S": ["ferocious "], "A": []}
+{"index": 315889, "D": "untamed or untamable.", "S": ["ferocious"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 41761, "D": "a meal that serves as both breakfast  and lunch. ", "S": ["morsel ", "mouthful ", "taste "], "A": ["lot "]}
+{"index": 41761, "D": "a meal that serves as both breakfast  and lunch. ", "S": ["morsel", "mouthful", "taste"], "A": ["lot"]}

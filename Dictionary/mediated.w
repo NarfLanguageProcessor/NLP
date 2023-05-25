@@ -1,1 +1,1 @@
-{"index": 182029, "D": "(of disputes, strikes, etc.) settled or resolved with the help of an intermediary", "S": ["studied ", "treated "], "A": ["disregarded ", "forgotten ", "neglected ", "unplanned ", "unstudied "]}
+{"index": 182029, "D": "(of disputes, strikes, etc.) settled or resolved with the help of an intermediary", "S": ["studied", "treated"], "A": ["disregarded", "forgotten", "neglected", "unplanned", "unstudied"]}

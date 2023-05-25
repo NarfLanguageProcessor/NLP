@@ -1,1 +1,1 @@
-{"index": 21952, "D": "taken for granted.", "S": ["assumed ", "likely ", "possible ", "presumable ", "presumed ", "probable ", "prospective ", "supposed ", "suppositive ", "taken for granted "], "A": []}
+{"index": 21952, "D": "taken for granted.", "S": ["assumed", "likely", "possible", "presumable", "presumed", "probable", "prospective", "supposed", "suppositive", "taken for granted"], "A": []}

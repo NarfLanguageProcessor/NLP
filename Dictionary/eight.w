@@ -1,1 +1,1 @@
-{"index": 96480, "D": "a cardinal number, seven plus one.", "S": ["octadic ", "octagonal ", "octennial "], "A": []}
+{"index": 96480, "D": "a cardinal number, seven plus one.", "S": ["octadic", "octagonal", "octennial"], "A": []}

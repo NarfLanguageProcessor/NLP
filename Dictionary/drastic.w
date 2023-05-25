@@ -1,1 +1,1 @@
-{"index": 92719, "D": "extremely severe or extensive", "S": ["dire ", "forceful ", "harsh ", "radical "], "A": ["nice "]}
+{"index": 92719, "D": "extremely severe or extensive", "S": ["dire", "forceful", "harsh", "radical"], "A": ["nice"]}

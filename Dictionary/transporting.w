@@ -1,1 +1,1 @@
-{"index": 328278, "D": "to carry, move, or convey from one place to another.", "S": ["freighting ", "trucking "], "A": []}
+{"index": 328278, "D": "to carry, move, or convey from one place to another.", "S": ["freighting", "trucking"], "A": []}

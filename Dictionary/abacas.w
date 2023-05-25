@@ -1,1 +1,1 @@
-{"index": 36, "D": "a Philippine plant, Musa textilis.", "S": ["bhang ", "cannabis ", "fiber ", "flax ", "hashish ", "jute ", "marijuana "], "A": []}
+{"index": 36, "D": "a Philippine plant, Musa textilis.", "S": ["bhang", "cannabis", "fiber", "flax", "hashish", "jute", "marijuana"], "A": []}

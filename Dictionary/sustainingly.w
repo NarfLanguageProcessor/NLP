@@ -1,1 +1,1 @@
-{"index": 313795, "D": "to support, hold, or bear up from below; bear the weight of, as a structure.", "S": ["effectively ", "productively ", "successfully ", "usefully "], "A": []}
+{"index": 313795, "D": "to support, hold, or bear up from below; bear the weight of, as a structure.", "S": ["effectively", "productively", "successfully", "usefully"], "A": []}

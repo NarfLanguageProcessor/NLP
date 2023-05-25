@@ -1,1 +1,1 @@
-{"index": 212027, "D": "an old or elderly person.", "S": ["ancient ", "doyen ", "doyenne ", "elder ", "grandfather ", "grandmother ", "head ", "matriarch ", "old-timer ", "patriarch ", "pensioner "], "A": []}
+{"index": 212027, "D": "an old or elderly person.", "S": ["ancient", "doyen", "doyenne", "elder", "grandfather", "grandmother", "head", "matriarch", "old-timer", "patriarch", "pensioner"], "A": []}

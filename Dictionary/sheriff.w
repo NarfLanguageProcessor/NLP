@@ -1,1 +1,1 @@
-{"index": 288094, "D": "the law-enforcement officer of a county or other civil subdivision of a state.", "S": ["constable ", "marshal ", "officer "], "A": []}
+{"index": 288094, "D": "the law-enforcement officer of a county or other civil subdivision of a state.", "S": ["constable", "marshal", "officer"], "A": []}

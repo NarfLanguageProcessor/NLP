@@ -1,1 +1,0 @@
-{"index": 297332, "D": "a timid, cowardly person, especially a young person; crybaby.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 181306, "D": "covered with a dense growth or a tangled mass", "S": ["disordered ", "knotted ", "rumpled ", "snarled ", "tousled ", "twisted "], "A": ["neat ", "ordered "]}
+{"index": 181306, "D": "covered with a dense growth or a tangled mass", "S": ["disordered", "knotted", "rumpled", "snarled", "tousled", "twisted"], "A": ["neat", "ordered"]}

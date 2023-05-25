@@ -1,1 +1,1 @@
-{"index": 327184, "D": "marks, such as footprints, tyre impressions, etc, left by someone or something that has passed", "S": ["chain ", "grid ", "net ", "organization ", "structure ", "system ", "web "], "A": []}
+{"index": 327184, "D": "marks, such as footprints, tyre impressions, etc, left by someone or something that has passed", "S": ["chain", "grid", "net", "organization", "structure", "system", "web"], "A": []}

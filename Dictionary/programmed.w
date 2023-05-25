@@ -1,1 +1,1 @@
-{"index": 251920, "D": "a plan of action to accomplish a specified end", "S": ["automatic ", "computerized ", "electrical ", "electronic ", "mechanical ", "mechanized ", "robotic "], "A": ["by hand ", "manual "]}
+{"index": 251920, "D": "a plan of action to accomplish a specified end", "S": ["automatic", "computerized", "electrical", "electronic", "mechanical", "mechanized", "robotic"], "A": ["by hand", "manual"]}

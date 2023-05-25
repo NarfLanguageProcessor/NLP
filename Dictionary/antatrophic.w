@@ -1,0 +1,1 @@
+{"index": 14055, "D": "preventing or curing atrophy.", "S": [], "A": []}

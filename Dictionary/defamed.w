@@ -1,1 +1,1 @@
-{"index": 79093, "D": "to attack the good name or reputation of, as by uttering or publishing maliciously or falsely anything injurious; slander or libel; calumniate", "S": ["aggrieved ", "disgraced ", "humiliated ", "outraged ", "shamed "], "A": ["complimented ", "flattered ", "praised "]}
+{"index": 79093, "D": "to attack the good name or reputation of, as by uttering or publishing maliciously or falsely anything injurious; slander or libel; calumniate", "S": ["aggrieved", "disgraced", "humiliated", "outraged", "shamed"], "A": ["complimented", "flattered", "praised"]}

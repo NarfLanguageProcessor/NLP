@@ -1,1 +1,1 @@
-{"index": 44614, "D": "a small low island; key.", "S": ["isle ", "islet "], "A": []}
+{"index": 44614, "D": "a small low island; key.", "S": ["isle", "islet"], "A": []}

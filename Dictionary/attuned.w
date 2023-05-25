@@ -1,1 +1,1 @@
-{"index": 23190, "D": "aware of and in harmony with some principle, ideal, or state of affairs", "S": ["aware of ", "hep ", "knowledgeable "], "A": []}
+{"index": 23190, "D": "aware of and in harmony with some principle, ideal, or state of affairs", "S": ["aware of", "hep", "knowledgeable"], "A": []}

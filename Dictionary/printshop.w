@@ -1,1 +1,1 @@
-{"index": 250707, "D": [], "S": ["composer ", "composing room ", "pressroom ", "printer ", "printery ", "printing office ", "printing shop ", "typesetter "], "A": []}
+{"index": 250707, "D": [], "S": ["composer", "composing room", "pressroom", "printer", "printery", "printing office", "printing shop", "typesetter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 181150, "D": "mathematics. ", "S": ["analytical ", "numerical ", "scientific "], "A": []}
+{"index": 181150, "D": "mathematics. ", "S": ["analytical", "numerical", "scientific"], "A": []}

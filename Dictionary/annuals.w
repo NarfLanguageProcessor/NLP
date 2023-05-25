@@ -1,1 +1,1 @@
-{"index": 13619, "D": "of, for, or pertaining to a year; yearly", "S": ["anniversary "], "A": []}
+{"index": 13619, "D": "of, for, or pertaining to a year; yearly", "S": ["anniversary"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 11063, "D": "ambiguity of speech, especially from uncertainty of the grammatical construction rather than of the meaning of the words, as in The Duke yet lives that Henry shall depose.", "S": ["innuendo ", "pun "], "A": []}
+{"index": 11063, "D": "ambiguity of speech, especially from uncertainty of the grammatical construction rather than of the meaning of the words, as in The Duke yet lives that Henry shall depose.", "S": ["innuendo", "pun"], "A": []}

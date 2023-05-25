@@ -1,1 +1,0 @@
-{"index": 337344, "D": "a person who is frequently in the company of, associates with, or accompanies another", "S": [], "A": []}

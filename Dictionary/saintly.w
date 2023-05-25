@@ -1,1 +1,0 @@
-{"index": 276838, "D": "pertaining to, like, or befitting a saint", "S": ["angelic ", "pious ", "upstanding "], "A": ["bad ", "sinful ", "unholy ", "unrighteous ", "wicked "]}

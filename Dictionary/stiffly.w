@@ -1,1 +1,1 @@
-{"index": 304367, "D": "rigid or firm; difficult or impossible to bend or flex", "S": ["clumsily "], "A": ["adroitly ", "gracefully ", "skillfully "]}
+{"index": 304367, "D": "rigid or firm; difficult or impossible to bend or flex", "S": ["clumsily"], "A": ["adroitly", "gracefully", "skillfully"]}

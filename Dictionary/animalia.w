@@ -1,1 +1,1 @@
-{"index": 13167, "D": "the taxonomic kingdom comprising all animals, including humans.", "S": ["animal group ", "animal life ", "animality ", "animals ", "brute creation ", "fauna ", "kingdom Animalia "], "A": []}
+{"index": 13167, "D": "the taxonomic kingdom comprising all animals, including humans.", "S": ["animal group", "animal life", "animality", "animals", "brute creation", "fauna", "kingdom Animalia"], "A": []}

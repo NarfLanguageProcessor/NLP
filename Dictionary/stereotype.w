@@ -1,1 +1,1 @@
-{"index": 303986, "D": "a simplified and standardized conception or image invested with special meaning and held in common by members of a group", "S": ["pattern "], "A": ["difference "]}
+{"index": 303986, "D": "a simplified and standardized conception or image invested with special meaning and held in common by members of a group", "S": ["pattern"], "A": ["difference"]}

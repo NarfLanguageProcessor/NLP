@@ -1,1 +1,1 @@
-{"index": 176100, "D": "emitting light that is not caused by incandescence and that occurs at a temperature below that of incandescent bodies", "S": ["bright ", "effulgent ", "fluorescent ", "luminous ", "phosphorescent ", "radiant "], "A": ["dull ", "obscured "]}
+{"index": 176100, "D": "emitting light that is not caused by incandescence and that occurs at a temperature below that of incandescent bodies", "S": ["bright", "effulgent", "fluorescent", "luminous", "phosphorescent", "radiant"], "A": ["dull", "obscured"]}

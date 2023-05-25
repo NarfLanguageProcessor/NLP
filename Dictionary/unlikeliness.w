@@ -1,1 +1,1 @@
-{"index": 345625, "D": "not likely to be or occur; improbable; marked by doubt.", "S": ["implausibility ", "implausibleness ", "improbableness "], "A": []}
+{"index": 345625, "D": "not likely to be or occur; improbable; marked by doubt.", "S": ["implausibility", "implausibleness", "improbableness"], "A": []}

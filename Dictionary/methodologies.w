@@ -1,1 +1,1 @@
-{"index": 185298, "D": "a set or system of methods, principles, and rules for regulating a given discipline, as in the arts or sciences.", "S": ["mode ", "procedure ", "technique "], "A": []}
+{"index": 185298, "D": "a set or system of methods, principles, and rules for regulating a given discipline, as in the arts or sciences.", "S": ["mode", "procedure", "technique"], "A": []}

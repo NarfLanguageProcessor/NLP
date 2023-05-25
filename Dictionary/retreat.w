@@ -1,1 +1,1 @@
-{"index": 270703, "D": "the forced or strategic withdrawal of an army or an armed force before an enemy, or the withdrawing of a naval force from action.", "S": ["evacuation ", "flight ", "withdrawal "], "A": ["advance ", "arrival ", "coming "]}
+{"index": 270703, "D": "the forced or strategic withdrawal of an army or an armed force before an enemy, or the withdrawing of a naval force from action.", "S": ["evacuation", "flight", "withdrawal"], "A": ["advance", "arrival", "coming"]}

@@ -1,1 +1,1 @@
-{"index": 67927, "D": "the act or process of carrying or bringing something from one location to another", "S": ["freight "], "A": []}
+{"index": 67927, "D": "the act or process of carrying or bringing something from one location to another", "S": ["freight"], "A": []}

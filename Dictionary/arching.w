@@ -1,1 +1,1 @@
-{"index": 18981, "D": "arched  work or formation.", "S": ["arched ", "bending ", "bowed ", "curved ", "rounded ", "vaulted "], "A": ["straight "]}
+{"index": 18981, "D": "arched  work or formation.", "S": ["arched", "bending", "bowed", "curved", "rounded", "vaulted"], "A": ["straight"]}

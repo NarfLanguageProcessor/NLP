@@ -1,1 +1,1 @@
-{"index": 172199, "D": "of the same form, appearance, kind, character, amount, etc.", "S": ["brand ", "strain ", "type ", "variety "], "A": []}
+{"index": 172199, "D": "of the same form, appearance, kind, character, amount, etc.", "S": ["brand", "strain", "type", "variety"], "A": []}

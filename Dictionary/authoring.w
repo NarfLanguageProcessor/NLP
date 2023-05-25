@@ -1,1 +1,1 @@
-{"index": 23817, "D": "the writing of an electronic document or software program, especially a hypertext or multimedia application (often used attributively)", "S": ["formulation "], "A": ["destruction ", "ruin "]}
+{"index": 23817, "D": "the writing of an electronic document or software program, especially a hypertext or multimedia application (often used attributively)", "S": ["formulation"], "A": ["destruction", "ruin"]}

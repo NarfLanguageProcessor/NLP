@@ -1,1 +1,1 @@
-{"index": 303311, "D": "a heavy steam-powered vehicle having a roller  for crushing, compacting, or leveling materials used for a road or the like.", "S": ["defeat ", "force ", "overpower ", "overwhelm "], "A": ["surrender ", "yield "]}
+{"index": 303311, "D": "a heavy steam-powered vehicle having a roller  for crushing, compacting, or leveling materials used for a road or the like.", "S": ["defeat", "force", "overpower", "overwhelm"], "A": ["surrender", "yield"]}

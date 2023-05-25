@@ -1,1 +1,0 @@
-{"index": 315336, "D": "the offensive back  who lines up farthest behind the line of scrimmage, as in a single wingback or double wingback formation.", "S": ["fullback ", "halfback "], "A": []}

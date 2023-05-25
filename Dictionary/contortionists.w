@@ -1,1 +1,1 @@
-{"index": 67529, "D": "a person who performs gymnastic feats involving contorted postures.", "S": ["gymnast ", "tumbler "], "A": []}
+{"index": 67529, "D": "a person who performs gymnastic feats involving contorted postures.", "S": ["gymnast", "tumbler"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 54909, "D": "a variant of chitterlings. ", "S": ["brains ", "chitterlings ", "giblets ", "gizzard ", "heart ", "kidneys ", "liver ", "marrow ", "mountain oyster ", "pancreas ", "prairie oyster ", "stomach ", "sweetbread ", "thymus ", "tongue ", "tripe "], "A": []}
+{"index": 54909, "D": "a variant of chitterlings. ", "S": ["brains", "chitterlings", "giblets", "gizzard", "heart", "kidneys", "liver", "marrow", "mountain oyster", "pancreas", "prairie oyster", "stomach", "sweetbread", "thymus", "tongue", "tripe"], "A": []}

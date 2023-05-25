@@ -1,1 +1,1 @@
-{"index": 288211, "D": "to put (something) aside and replace it by another or others; change or exchange", "S": ["about-face ", "alteration ", "change ", "conversion ", "deviation ", "move ", "transfer ", "transformation ", "variation "], "A": ["idleness ", "sameness ", "stagnation "]}
+{"index": 288211, "D": "to put (something) aside and replace it by another or others; change or exchange", "S": ["about-face", "alteration", "change", "conversion", "deviation", "move", "transfer", "transformation", "variation"], "A": ["idleness", "sameness", "stagnation"]}

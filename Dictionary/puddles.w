@@ -1,1 +1,1 @@
-{"index": 256026, "D": "a small pool of water, as of rainwater on the ground.", "S": ["pond "], "A": []}
+{"index": 256026, "D": "a small pool of water, as of rainwater on the ground.", "S": ["pond"], "A": []}

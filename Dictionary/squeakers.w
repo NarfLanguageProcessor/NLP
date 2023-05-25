@@ -1,1 +1,0 @@
-{"index": 301845, "D": "a person or thing that squeaks. ", "S": ["close call ", "shocker "], "A": []}

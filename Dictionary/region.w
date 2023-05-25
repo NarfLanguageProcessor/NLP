@@ -1,1 +1,1 @@
-{"index": 265653, "D": "an extensive, continuous part of a surface, space, or body", "S": ["country ", "district ", "field ", "land ", "locality ", "neighborhood ", "part ", "place ", "province ", "sector ", "suburb ", "territory ", "world ", "zone "], "A": ["metropolis ", "whole ", "sky "]}
+{"index": 265653, "D": "an extensive, continuous part of a surface, space, or body", "S": ["country", "district", "field", "land", "locality", "neighborhood", "part", "place", "province", "sector", "suburb", "territory", "world", "zone"], "A": ["metropolis", "whole", "sky"]}

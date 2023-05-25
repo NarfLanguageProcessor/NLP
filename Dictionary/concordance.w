@@ -1,1 +1,1 @@
-{"index": 65411, "D": "agreement; concord;  harmony", "S": ["accord ", "accordance ", "concord ", "concurrence ", "consonance ", "harmony ", "similarity ", "unity "], "A": ["disagreement ", "discord ", "opposition "]}
+{"index": 65411, "D": "agreement; concord;  harmony", "S": ["accord", "accordance", "concord", "concurrence", "consonance", "harmony", "similarity", "unity"], "A": ["disagreement", "discord", "opposition"]}

@@ -1,1 +1,1 @@
-{"index": 112564, "D": "to steal (especially something of small value); pilfer", "S": ["crook ", "robber ", "thief "], "A": []}
+{"index": 112564, "D": "to steal (especially something of small value); pilfer", "S": ["crook", "robber", "thief"], "A": []}

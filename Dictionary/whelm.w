@@ -1,1 +1,1 @@
-{"index": 364618, "D": "to submerge; engulf.", "S": ["douse ", "drench ", "engulf ", "flood ", "overflow ", "overrun ", "overwhelm ", "soak ", "submerge ", "swamp "], "A": ["dry ", "dehydrate "]}
+{"index": 364618, "D": "to submerge; engulf.", "S": ["douse", "drench", "engulf", "flood", "overflow", "overrun", "overwhelm", "soak", "submerge", "swamp"], "A": ["dry", "dehydrate"]}

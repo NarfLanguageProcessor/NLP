@@ -1,1 +1,1 @@
-{"index": 106960, "D": "to carry out; accomplish", "S": ["accomplishing ", "building ", "composing ", "constructing ", "creating ", "effecting ", "fabricating ", "fashioning ", "forging ", "forming ", "generating ", "manufacturing ", "originating ", "producing ", "shaping "], "A": []}
+{"index": 106960, "D": "to carry out; accomplish", "S": ["accomplishing", "building", "composing", "constructing", "creating", "effecting", "fabricating", "fashioning", "forging", "forming", "generating", "manufacturing", "originating", "producing", "shaping"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293187, "D": "having skill;  trained or experienced in work that requires skill. ", "S": ["able ", "adept ", "experienced ", "proficient "], "A": ["clumsy ", "incompetent ", "inept ", "unable ", "unskilled "]}
+{"index": 293187, "D": "having skill;  trained or experienced in work that requires skill. ", "S": ["able", "adept", "experienced", "proficient"], "A": ["clumsy", "incompetent", "inept", "unable", "unskilled"]}

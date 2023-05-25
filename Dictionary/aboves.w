@@ -1,1 +1,1 @@
-{"index": 764, "D": "in, at, or to a higher place.", "S": ["likewise ", "the aforesaid ", "the very words "], "A": []}
+{"index": 764, "D": "in, at, or to a higher place.", "S": ["likewise", "the aforesaid", "the very words"], "A": []}

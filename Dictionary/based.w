@@ -1,1 +1,1 @@
-{"index": 28498, "D": "having a specified object or material as its base or foundation or as its primary constituent (often used in combination)", "S": ["established ", "occupying ", "placed ", "planted ", "positioned ", "situated ", "stationed "], "A": []}
+{"index": 28498, "D": "having a specified object or material as its base or foundation or as its primary constituent (often used in combination)", "S": ["established", "occupying", "placed", "planted", "positioned", "situated", "stationed"], "A": []}

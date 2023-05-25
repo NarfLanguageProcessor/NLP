@@ -1,0 +1,1 @@
+{"index": 18051, "D": "energetic motion toward a point.", "S": [], "A": []}

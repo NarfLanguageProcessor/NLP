@@ -1,1 +1,1 @@
-{"index": 296462, "D": "comfort in sorrow, misfortune, or trouble; alleviation of distress or discomfort.", "S": ["condolence ", "consolation ", "pity "], "A": ["discord ", "disharmony "]}
+{"index": 296462, "D": "comfort in sorrow, misfortune, or trouble; alleviation of distress or discomfort.", "S": ["condolence", "consolation", "pity"], "A": ["discord", "disharmony"]}

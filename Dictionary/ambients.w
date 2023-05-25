@@ -1,1 +1,1 @@
-{"index": 9988, "D": "of the surrounding area or environment", "S": ["climate ", "element "], "A": []}
+{"index": 9988, "D": "of the surrounding area or environment", "S": ["climate", "element"], "A": []}

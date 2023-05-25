@@ -1,1 +1,1 @@
-{"index": 186366, "D": "an instrument capable of transforming sound waves into changes in electric currents or voltage, used in recording or transmitting sound.", "S": ["bug ", "wire "], "A": []}
+{"index": 186366, "D": "an instrument capable of transforming sound waves into changes in electric currents or voltage, used in recording or transmitting sound.", "S": ["bug", "wire"], "A": []}

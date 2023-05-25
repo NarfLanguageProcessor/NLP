@@ -1,1 +1,1 @@
-{"index": 4702, "D": "one who gives advice. ", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}
+{"index": 4702, "D": "one who gives advice. ", "S": ["board", "bureau", "cabinet", "committee", "department", "executive", "legislature", "management", "ministry", "presidency"], "A": []}

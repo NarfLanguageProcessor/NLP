@@ -1,1 +1,1 @@
-{"index": 266804, "D": [], "S": ["clean up ", "cram ", "go over ", "look over ", "polish up ", "read up ", "refresh one's memory ", "refurbish ", "renovate ", "reread ", "retouch ", "review ", "revise ", "study ", "touch up "], "A": ["forget "]}
+{"index": 266804, "D": [], "S": ["clean up", "cram", "go over", "look over", "polish up", "read up", "refresh one's memory", "refurbish", "renovate", "reread", "retouch", "review", "revise", "study", "touch up"], "A": ["forget"]}

@@ -1,1 +1,1 @@
-{"index": 316134, "D": "a ship, airplane, or truck designed for bulk shipment of liquids or gases.", "S": ["assailant ", "boxer ", "champion ", "combatant ", "mercenary ", "militant ", "opponent ", "soldier ", "warlord ", "warrior "], "A": ["peacemaker "]}
+{"index": 316134, "D": "a ship, airplane, or truck designed for bulk shipment of liquids or gases.", "S": ["assailant", "boxer", "champion", "combatant", "mercenary", "militant", "opponent", "soldier", "warlord", "warrior"], "A": ["peacemaker"]}

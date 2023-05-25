@@ -1,1 +1,1 @@
-{"index": 313819, "D": "softly murmuring; whispering.", "S": ["sough ", "susurration ", "susurrus "], "A": []}
+{"index": 313819, "D": "softly murmuring; whispering.", "S": ["sough", "susurration", "susurrus"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 91423, "D": "a deep sound like that of a large bell.", "S": ["bell ", "bong ", "boom ", "clang ", "jingle ", "knell ", "sound ", "strike ", "tinkle ", "tintinnabulate ", "toll "], "A": ["lose "]}
+{"index": 91423, "D": "a deep sound like that of a large bell.", "S": ["bell", "bong", "boom", "clang", "jingle", "knell", "sound", "strike", "tinkle", "tintinnabulate", "toll"], "A": ["lose"]}

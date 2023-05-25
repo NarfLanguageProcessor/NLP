@@ -1,1 +1,1 @@
-{"index": 68377, "D": "a language of a group of American Indians indigenous to the coast of Oregon.", "S": ["murmur "], "A": []}
+{"index": 68377, "D": "a language of a group of American Indians indigenous to the coast of Oregon.", "S": ["murmur"], "A": []}

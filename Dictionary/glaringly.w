@@ -1,1 +1,1 @@
-{"index": 125953, "D": "shining with or reflecting a harshly bright or brilliant light.", "S": ["brilliantly ", "splendidly "], "A": ["darkly ", "dully ", "miserably ", "sadly "]}
+{"index": 125953, "D": "shining with or reflecting a harshly bright or brilliant light.", "S": ["brilliantly", "splendidly"], "A": ["darkly", "dully", "miserably", "sadly"]}

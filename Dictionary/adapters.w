@@ -1,0 +1,1 @@
+{"index": 3467, "D": "a person or thing that adapts. ", "S": ["connection"], "A": ["alienation", "animosity", "aversion", "dislike", "divorce", "enmity", "estrangement", "hate", "hatred", "opposition"]}

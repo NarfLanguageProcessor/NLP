@@ -1,1 +1,1 @@
-{"index": 202291, "D": [], "S": ["discord ", "dissension ", "disunity ", "objection ", "opposition ", "protest ", "resistance ", "schism ", "strife "], "A": ["acceptance ", "agreement ", "approval ", "concurrence ", "harmony ", "peace ", "accord ", "conformity ", "orthodoxy "]}
+{"index": 202291, "D": [], "S": ["discord", "dissension", "disunity", "objection", "opposition", "protest", "resistance", "schism", "strife"], "A": ["acceptance", "agreement", "approval", "concurrence", "harmony", "peace", "accord", "conformity", "orthodoxy"]}

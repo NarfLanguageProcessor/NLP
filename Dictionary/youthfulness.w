@@ -1,1 +1,1 @@
-{"index": 157774, "D": "characterized byyouth;  young.", "S": ["boyhood ", "teens "], "A": ["adulthood ", "infancy "]}
+{"index": 157774, "D": "characterized byyouth;  young.", "S": ["boyhood", "teens"], "A": ["adulthood", "infancy"]}

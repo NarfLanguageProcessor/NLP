@@ -1,1 +1,1 @@
-{"index": 5429, "D": "greatly distressed or troubled by bodily or mental pain", "S": ["depressed ", "stricken "], "A": []}
+{"index": 5429, "D": "greatly distressed or troubled by bodily or mental pain", "S": ["depressed", "stricken"], "A": []}

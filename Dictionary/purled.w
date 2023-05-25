@@ -1,1 +1,1 @@
-{"index": 256986, "D": "to knit with a reverse stitch.", "S": ["crocheted ", "meshed ", "sewn ", "spun ", "webbed ", "woven "], "A": []}
+{"index": 256986, "D": "to knit with a reverse stitch.", "S": ["crocheted", "meshed", "sewn", "spun", "webbed", "woven"], "A": []}

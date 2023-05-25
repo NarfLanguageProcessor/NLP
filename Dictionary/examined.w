@@ -1,1 +1,1 @@
-{"index": 106462, "D": "to inspect or scrutinize carefully", "S": ["inspected ", "investigated ", "tested "], "A": []}
+{"index": 106462, "D": "to inspect or scrutinize carefully", "S": ["inspected", "investigated", "tested"], "A": []}

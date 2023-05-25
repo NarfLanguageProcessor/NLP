@@ -1,1 +1,1 @@
-{"index": 101731, "D": "to twine  with, about, around, or together.", "S": ["coil ", "enmesh ", "entangle ", "intertwine ", "interweave ", "weave "], "A": ["exclude ", "let go ", "release ", "straighten "]}
+{"index": 101731, "D": "to twine  with, about, around, or together.", "S": ["coil", "enmesh", "entangle", "intertwine", "interweave", "weave"], "A": ["exclude", "let go", "release", "straighten"]}

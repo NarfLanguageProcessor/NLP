@@ -1,1 +1,1 @@
-{"index": 36265, "D": "(loosely) any small spot of light on a display screen.", "S": ["glitch "], "A": []}
+{"index": 36265, "D": "(loosely) any small spot of light on a display screen.", "S": ["glitch"], "A": []}

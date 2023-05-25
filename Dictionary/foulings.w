@@ -1,1 +1,1 @@
-{"index": 117900, "D": "an encrusted deposit, especially on a submerged object, as the hull of a ship.", "S": ["abuse ", "corruption ", "deterioration ", "infection "], "A": ["sterility "]}
+{"index": 117900, "D": "an encrusted deposit, especially on a submerged object, as the hull of a ship.", "S": ["abuse", "corruption", "deterioration", "infection"], "A": ["sterility"]}

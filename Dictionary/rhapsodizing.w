@@ -1,1 +1,1 @@
-{"index": 271818, "D": "to talk with extravagant enthusiasm.", "S": ["freak out ", "go crazy "], "A": ["be happy ", "be quiet "]}
+{"index": 271818, "D": "to talk with extravagant enthusiasm.", "S": ["freak out", "go crazy"], "A": ["be happy", "be quiet"]}

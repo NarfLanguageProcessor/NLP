@@ -1,1 +1,1 @@
-{"index": 295350, "D": "to growl threateningly or viciously, especially with a raised upper lip to bare the teeth, as a dog.", "S": ["brusque ", "cranky ", "gruff ", "irascible ", "prickly ", "sarcastic "], "A": ["cheerful ", "happy ", "kind ", "nice ", "pleasant ", "polite "]}
+{"index": 295350, "D": "to growl threateningly or viciously, especially with a raised upper lip to bare the teeth, as a dog.", "S": ["brusque", "cranky", "gruff", "irascible", "prickly", "sarcastic"], "A": ["cheerful", "happy", "kind", "nice", "pleasant", "polite"]}

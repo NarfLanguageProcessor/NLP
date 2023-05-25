@@ -1,1 +1,1 @@
-{"index": 93213, "D": "a material, as wallboard or plasterboard, used for such a wall.", "S": ["Sheetrock ", "gyp board ", "plasterboard ", "wallboard "], "A": []}
+{"index": 93213, "D": "a material, as wallboard or plasterboard, used for such a wall.", "S": ["Sheetrock", "gyp board", "plasterboard", "wallboard"], "A": []}

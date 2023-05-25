@@ -1,1 +1,1 @@
-{"index": 239693, "D": "a direct vote of the qualified voters of a state in regard to some important public question.", "S": ["election ", "poll ", "polling ", "referendum ", "slate ", "tally ", "ticket "], "A": []}
+{"index": 239693, "D": "a direct vote of the qualified voters of a state in regard to some important public question.", "S": ["election", "poll", "polling", "referendum", "slate", "tally", "ticket"], "A": []}

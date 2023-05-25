@@ -1,1 +1,1 @@
-{"index": 198142, "D": "the area or region around or near some place or thing; vicinity", "S": ["area ", "block ", "district ", "ghetto ", "parish ", "part ", "precinct ", "region ", "section ", "slum ", "street ", "suburb ", "territory ", "zone "], "A": ["whole ", "distance ", "remoteness "]}
+{"index": 198142, "D": "the area or region around or near some place or thing; vicinity", "S": ["area", "block", "district", "ghetto", "parish", "part", "precinct", "region", "section", "slum", "street", "suburb", "territory", "zone"], "A": ["whole", "distance", "remoteness"]}

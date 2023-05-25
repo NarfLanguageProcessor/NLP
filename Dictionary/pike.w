@@ -1,1 +1,1 @@
-{"index": 236511, "D": "any of several large, slender, voracious freshwater fishes of the genus Esox, having a long, flat snout.", "S": ["drive ", "expressway ", "freeway ", "lance ", "parkway ", "point ", "road ", "thruway ", "tollgate "], "A": []}
+{"index": 236511, "D": "any of several large, slender, voracious freshwater fishes of the genus Esox, having a long, flat snout.", "S": ["drive", "expressway", "freeway", "lance", "parkway", "point", "road", "thruway", "tollgate"], "A": []}

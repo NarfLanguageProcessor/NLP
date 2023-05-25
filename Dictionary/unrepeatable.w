@@ -1,1 +1,1 @@
-{"index": 349544, "D": "not capable of being repeated", "S": ["particular ", "unique "], "A": ["common ", "usual ", "combined ", "shared ", "together "]}
+{"index": 349544, "D": "not capable of being repeated", "S": ["particular", "unique"], "A": ["common", "usual", "combined", "shared", "together"]}

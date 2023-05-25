@@ -1,1 +1,1 @@
-{"index": 181355, "D": "complete in natural growth or development, as plant and animal forms", "S": ["cultivated ", "cultured "], "A": ["ignorant "]}
+{"index": 181355, "D": "complete in natural growth or development, as plant and animal forms", "S": ["cultivated", "cultured"], "A": ["ignorant"]}

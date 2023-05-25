@@ -1,1 +1,1 @@
-{"index": 4504, "D": "a substance that adulterates. ", "S": ["adulteration ", "adulterator ", "contamination ", "defilement ", "impurity ", "pollutant "], "A": []}
+{"index": 4504, "D": "a substance that adulterates. ", "S": ["adulteration", "adulterator", "contamination", "defilement", "impurity", "pollutant"], "A": []}

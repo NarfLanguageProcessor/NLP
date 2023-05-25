@@ -1,1 +1,1 @@
-{"index": 299815, "D": "the act of spilling over.", "S": ["deluge ", "flash flood ", "overabundance ", "torrent "], "A": ["discouragement ", "insufficiency ", "lack ", "necessity ", "need ", "want "]}
+{"index": 299815, "D": "the act of spilling over.", "S": ["deluge", "flash flood", "overabundance", "torrent"], "A": ["discouragement", "insufficiency", "lack", "necessity", "need", "want"]}

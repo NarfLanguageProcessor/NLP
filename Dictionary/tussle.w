@@ -1,1 +1,1 @@
-{"index": 333030, "D": "to struggle or fight roughly or vigorously; wrestle; scuffle.", "S": ["brawl ", "fray ", "free-for-all ", "scuffle ", "skirmish ", "strife "], "A": ["agreement ", "harmony ", "peace ", "accord ", "calm ", "retreat ", "surrender ", "truce "]}
+{"index": 333030, "D": "to struggle or fight roughly or vigorously; wrestle; scuffle.", "S": ["brawl", "fray", "free-for-all", "scuffle", "skirmish", "strife"], "A": ["agreement", "harmony", "peace", "accord", "calm", "retreat", "surrender", "truce"]}

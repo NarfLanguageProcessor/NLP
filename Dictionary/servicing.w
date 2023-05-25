@@ -1,1 +1,1 @@
-{"index": 286461, "D": "an act of helpful activity; help; aid", "S": ["business ", "contracting ", "enrollment ", "hiring ", "job ", "recruitment ", "service ", "trade "], "A": ["fun ", "unemployment ", "avocation ", "entertainment ", "hobby ", "pastime ", "recreation ", "surrender "]}
+{"index": 286461, "D": "an act of helpful activity; help; aid", "S": ["business", "contracting", "enrollment", "hiring", "job", "recruitment", "service", "trade"], "A": ["fun", "unemployment", "avocation", "entertainment", "hobby", "pastime", "recreation", "surrender"]}

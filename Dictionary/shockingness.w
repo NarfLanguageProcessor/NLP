@@ -1,1 +1,1 @@
-{"index": 288654, "D": "causing intense surprise, disgust, horror, etc.", "S": ["barbarity ", "horror "], "A": ["good behavior ", "kindness ", "pleasantness ", "pleasantry "]}
+{"index": 288654, "D": "causing intense surprise, disgust, horror, etc.", "S": ["barbarity", "horror"], "A": ["good behavior", "kindness", "pleasantness", "pleasantry"]}

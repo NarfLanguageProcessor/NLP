@@ -1,1 +1,1 @@
-{"index": 267314, "D": "the act or process of recalling past experiences, events, etc.", "S": ["biography ", "confession ", "diary ", "journal ", "letter ", "life story ", "memoir "], "A": []}
+{"index": 267314, "D": "the act or process of recalling past experiences, events, etc.", "S": ["biography", "confession", "diary", "journal", "letter", "life story", "memoir"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 223955, "D": "one of several persons who carry or attend the coffin at a funeral.", "S": ["griever ", "sorrower ", "wailer ", "weeper "], "A": []}
+{"index": 223955, "D": "one of several persons who carry or attend the coffin at a funeral.", "S": ["griever", "sorrower", "wailer", "weeper"], "A": []}

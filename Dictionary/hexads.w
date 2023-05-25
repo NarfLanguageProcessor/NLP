@@ -1,1 +1,1 @@
-{"index": 137930, "D": "the number six.", "S": ["hexagon ", "hexagram ", "semester ", "sextet ", "sextuplet "], "A": []}
+{"index": 137930, "D": "the number six.", "S": ["hexagon", "hexagram", "semester", "sextet", "sextuplet"], "A": []}

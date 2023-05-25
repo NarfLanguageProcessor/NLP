@@ -1,1 +1,1 @@
-{"index": 250790, "D": "a person who is confined in prison  or kept in custody, especially as the result of legal process.", "S": ["captive ", "convict ", "detainee ", "hostage "], "A": []}
+{"index": 250790, "D": "a person who is confined in prison  or kept in custody, especially as the result of legal process.", "S": ["captive", "convict", "detainee", "hostage"], "A": []}

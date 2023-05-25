@@ -1,1 +1,1 @@
-{"index": 134514, "D": "a cantor of a synagogue.", "S": ["chanter ", "leader ", "precentor ", "singer ", "soloist ", "vocalist "], "A": []}
+{"index": 134514, "D": "a cantor of a synagogue.", "S": ["chanter", "leader", "precentor", "singer", "soloist", "vocalist"], "A": []}

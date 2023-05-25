@@ -1,1 +1,0 @@
-{"index": 358333, "D": "a yellowish-white, amorphous, water-soluble, poisonous alkaloid,  C36H51NO11, occurring as a component of veratrine. ", "S": [], "A": []}

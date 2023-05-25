@@ -1,1 +1,1 @@
-{"index": 130126, "D": "a store that sells perishable and nonperishable food supplies and certain nonedible household items, such as soaps and paper products.", "S": ["bodega ", "greengrocery ", "supermarket "], "A": []}
+{"index": 130126, "D": "a store that sells perishable and nonperishable food supplies and certain nonedible household items, such as soaps and paper products.", "S": ["bodega", "greengrocery", "supermarket"], "A": []}

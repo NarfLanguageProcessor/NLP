@@ -1,1 +1,0 @@
-{"index": 175331, "D": "a female given name, form of Laura. ", "S": ["car ", "crate ", "freighter ", "jeep ", "pickup ", "rig ", "van ", "wagon "], "A": []}

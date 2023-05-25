@@ -1,1 +1,1 @@
-{"index": 219676, "D": "over one's head;  aloft; up in the air or sky, especially near the zenith", "S": ["aerial ", "aloft ", "atop ", "skyward ", "upward "], "A": []}
+{"index": 219676, "D": "over one's head;  aloft; up in the air or sky, especially near the zenith", "S": ["aerial", "aloft", "atop", "skyward", "upward"], "A": []}

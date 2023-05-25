@@ -1,1 +1,1 @@
-{"index": 289820, "D": "one of the surfaces forming the outside of or bounding a thing, or one of the lines bounding a geometric figure.", "S": ["communication ", "conference ", "conversation ", "dialog ", "discourse ", "discussion ", "exchange "], "A": ["quiet ", "silence "]}
+{"index": 289820, "D": "one of the surfaces forming the outside of or bounding a thing, or one of the lines bounding a geometric figure.", "S": ["communication", "conference", "conversation", "dialog", "discourse", "discussion", "exchange"], "A": ["quiet", "silence"]}

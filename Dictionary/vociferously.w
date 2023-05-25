@@ -1,1 +1,1 @@
-{"index": 360931, "D": "in a noisy, clamorous way", "S": ["loudly "], "A": ["inaudibly ", "silently "]}
+{"index": 360931, "D": "in a noisy, clamorous way", "S": ["loudly"], "A": ["inaudibly", "silently"]}

@@ -1,1 +1,1 @@
-{"index": 97000, "D": "to kill by electricity.", "S": ["fry "], "A": []}
+{"index": 97000, "D": "to kill by electricity.", "S": ["fry"], "A": []}

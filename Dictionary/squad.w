@@ -1,1 +1,1 @@
-{"index": 301602, "D": "a small number of soldiers, commonly 10 privates, a staff sergeant, and a corporal; the smallest military unit.", "S": ["band ", "battalion ", "division ", "force ", "gang ", "group ", "squadron ", "troop "], "A": []}
+{"index": 301602, "D": "a small number of soldiers, commonly 10 privates, a staff sergeant, and a corporal; the smallest military unit.", "S": ["band", "battalion", "division", "force", "gang", "group", "squadron", "troop"], "A": []}

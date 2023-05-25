@@ -1,1 +1,1 @@
-{"index": 80110, "D": "delimit. ", "S": ["encircle ", "hem in "], "A": ["begin ", "free ", "let go ", "liberate ", "open ", "release ", "start "]}
+{"index": 80110, "D": "delimit. ", "S": ["encircle", "hem in"], "A": ["begin", "free", "let go", "liberate", "open", "release", "start"]}

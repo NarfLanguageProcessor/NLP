@@ -1,1 +1,1 @@
-{"index": 107734, "D": "a test, trial, or tentative procedure; an act or operation for the purpose of discovering something unknown or of testing a principle, supposition, etc.", "S": ["adventured ", "attempted ", "dared ", "gambled ", "tested ", "tried "], "A": []}
+{"index": 107734, "D": "a test, trial, or tentative procedure; an act or operation for the purpose of discovering something unknown or of testing a principle, supposition, etc.", "S": ["adventured", "attempted", "dared", "gambled", "tested", "tried"], "A": []}

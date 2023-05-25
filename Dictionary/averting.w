@@ -1,1 +1,1 @@
-{"index": 24715, "D": "to turn away or aside", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}
+{"index": 24715, "D": "to turn away or aside", "S": ["opposing"], "A": ["unwary", "unwatchful"]}

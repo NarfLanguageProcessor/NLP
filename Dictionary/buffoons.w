@@ -1,1 +1,1 @@
-{"index": 42266, "D": "a person who amuses others by tricks, jokes, odd gestures and postures, etc.", "S": ["clown "], "A": []}
+{"index": 42266, "D": "a person who amuses others by tricks, jokes, odd gestures and postures, etc.", "S": ["clown"], "A": []}

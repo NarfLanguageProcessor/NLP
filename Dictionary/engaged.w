@@ -1,1 +1,1 @@
-{"index": 100295, "D": "busy or occupied; involved", "S": ["committed ", "hooked ", "matched "], "A": ["available ", "disengaged ", "inoperable ", "not working ", "uninvolved "]}
+{"index": 100295, "D": "busy or occupied; involved", "S": ["committed", "hooked", "matched"], "A": ["available", "disengaged", "inoperable", "not working", "uninvolved"]}

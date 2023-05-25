@@ -1,1 +1,1 @@
-{"index": 23152, "D": "the quality of being pleasing, charming, or alluring, especially in appearance or manner", "S": ["allure "], "A": ["repulsion ", "ugliness "]}
+{"index": 23152, "D": "the quality of being pleasing, charming, or alluring, especially in appearance or manner", "S": ["allure"], "A": ["repulsion", "ugliness"]}

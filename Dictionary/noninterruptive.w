@@ -1,1 +1,0 @@
-{"index": 204836, "D": "to cause or make a break in the continuity or uniformity of (a course, process, condition, etc.).", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 161961, "D": "a jaw, especially the lower jaw.", "S": ["cheek ", "dewlap ", "mandible "], "A": []}
+{"index": 161961, "D": "a jaw, especially the lower jaw.", "S": ["cheek", "dewlap", "mandible"], "A": []}

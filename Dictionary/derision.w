@@ -1,1 +1,1 @@
-{"index": 82085, "D": "ridicule; mockery", "S": ["contempt ", "disdain ", "disrespect ", "laughter ", "mockery ", "ridicule ", "scorn "], "A": ["admiration ", "approval ", "flattery ", "love ", "praise ", "respect ", "compliment "]}
+{"index": 82085, "D": "ridicule; mockery", "S": ["contempt", "disdain", "disrespect", "laughter", "mockery", "ridicule", "scorn"], "A": ["admiration", "approval", "flattery", "love", "praise", "respect", "compliment"]}

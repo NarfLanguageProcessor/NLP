@@ -1,1 +1,1 @@
-{"index": 36360, "D": "an aerial bomb containing high explosives and weighing from four to eight tons, used as a large-scale demolition bomb.", "S": ["ash can ", "depth bomb "], "A": []}
+{"index": 36360, "D": "an aerial bomb containing high explosives and weighing from four to eight tons, used as a large-scale demolition bomb.", "S": ["ash can", "depth bomb"], "A": []}

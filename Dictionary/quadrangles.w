@@ -1,1 +1,1 @@
-{"index": 257493, "D": "a plane figure having four angles and four sides, as a square.", "S": ["parallelogram ", "quadrilateral ", "rectangle ", "rhombus ", "square "], "A": []}
+{"index": 257493, "D": "a plane figure having four angles and four sides, as a square.", "S": ["parallelogram", "quadrilateral", "rectangle", "rhombus", "square"], "A": []}

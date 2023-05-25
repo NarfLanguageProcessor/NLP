@@ -1,1 +1,1 @@
-{"index": 88190, "D": "to change the appearance or guise of so as to conceal identity or mislead, as by means of deceptive garb", "S": ["camouflaged "], "A": ["bare ", "exposed ", "genuine ", "open ", "real "]}
+{"index": 88190, "D": "to change the appearance or guise of so as to conceal identity or mislead, as by means of deceptive garb", "S": ["camouflaged"], "A": ["bare", "exposed", "genuine", "open", "real"]}

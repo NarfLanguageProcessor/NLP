@@ -1,1 +1,1 @@
-{"index": 339556, "D": "drawers or shorts worn under outer clothing, usually next to the skin.", "S": ["boxers ", "briefs ", "drawers ", "shorts ", "undershorts ", "underwear "], "A": []}
+{"index": 339556, "D": "drawers or shorts worn under outer clothing, usually next to the skin.", "S": ["boxers", "briefs", "drawers", "shorts", "undershorts", "underwear"], "A": []}

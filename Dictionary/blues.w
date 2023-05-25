@@ -1,1 +1,1 @@
-{"index": 36774, "D": "depressed spirits; despondency; melancholy", "S": ["dejection ", "despondency ", "doldrums ", "dumps ", "gloom ", "gloominess ", "glumness ", "melancholy ", "moodiness ", "mournfulness ", "sadness ", "unhappiness "], "A": ["cheer ", "gladness ", "happiness ", "joy "]}
+{"index": 36774, "D": "depressed spirits; despondency; melancholy", "S": ["dejection", "despondency", "doldrums", "dumps", "gloom", "gloominess", "glumness", "melancholy", "moodiness", "mournfulness", "sadness", "unhappiness"], "A": ["cheer", "gladness", "happiness", "joy"]}

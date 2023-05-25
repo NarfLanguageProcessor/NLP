@@ -1,1 +1,1 @@
-{"index": 278107, "D": "great wisdom or sound judgment", "S": ["erudition ", "insight ", "judgment ", "knowledge ", "wisdom "], "A": ["ignorance ", "stupidity "]}
+{"index": 278107, "D": "great wisdom or sound judgment", "S": ["erudition", "insight", "judgment", "knowledge", "wisdom"], "A": ["ignorance", "stupidity"]}

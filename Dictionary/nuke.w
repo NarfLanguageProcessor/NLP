@@ -1,1 +1,1 @@
-{"index": 209458, "D": "a nuclear or thermonuclear weapon.", "S": ["A-bomb ", "H-bomb "], "A": []}
+{"index": 209458, "D": "a nuclear or thermonuclear weapon.", "S": ["A-bomb", "H-bomb"], "A": []}

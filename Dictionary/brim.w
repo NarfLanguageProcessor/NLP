@@ -1,1 +1,1 @@
-{"index": 40811, "D": "the upper edge of anything hollow; rim; brink", "S": ["border ", "brink ", "circumference ", "fringe ", "hem ", "lip ", "margin ", "perimeter ", "periphery ", "rim ", "skirt ", "verge "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 40811, "D": "the upper edge of anything hollow; rim; brink", "S": ["border", "brink", "circumference", "fringe", "hem", "lip", "margin", "perimeter", "periphery", "rim", "skirt", "verge"], "A": ["center", "inside", "interior", "middle"]}

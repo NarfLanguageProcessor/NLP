@@ -1,1 +1,1 @@
-{"index": 293276, "D": "the external covering or integument of an animal body, especially when soft and flexible.", "S": ["buck ", "currency ", "investment ", "note ", "payment ", "refund ", "reserve ", "security ", "stock ", "supply "], "A": ["debt "]}
+{"index": 293276, "D": "the external covering or integument of an animal body, especially when soft and flexible.", "S": ["buck", "currency", "investment", "note", "payment", "refund", "reserve", "security", "stock", "supply"], "A": ["debt"]}

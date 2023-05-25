@@ -1,1 +1,1 @@
-{"index": 30912, "D": "to adorn with or as if with jewels. ", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}
+{"index": 30912, "D": "to adorn with or as if with jewels. ", "S": ["carpeted", "dotted", "overgrown"], "A": ["bare", "empty", "exposed", "open", "passed over", "revealed", "unfurnished", "unheeded", "unnoticed"]}

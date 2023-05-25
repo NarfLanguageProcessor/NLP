@@ -1,1 +1,1 @@
-{"index": 165501, "D": "to go down or rest on the knees or a knee.", "S": ["bow "], "A": []}
+{"index": 165501, "D": "to go down or rest on the knees or a knee.", "S": ["bow"], "A": []}

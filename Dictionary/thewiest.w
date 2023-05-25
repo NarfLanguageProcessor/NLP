@@ -1,1 +1,1 @@
-{"index": 321639, "D": "muscle or sinew.", "S": ["beefy ", "bulky ", "burly ", "sinewy ", "strapping ", "sturdy "], "A": ["skinny ", "slight ", "slim ", "small ", "thin ", "tiny ", "weak "]}
+{"index": 321639, "D": "muscle or sinew.", "S": ["beefy", "bulky", "burly", "sinewy", "strapping", "sturdy"], "A": ["skinny", "slight", "slim", "small", "thin", "tiny", "weak"]}

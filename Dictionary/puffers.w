@@ -1,1 +1,1 @@
-{"index": 256094, "D": "a person or thing that puffs. ", "S": ["booster ", "bootlicker ", "charmer ", "fawner ", "flunky ", "lackey ", "sycophant ", "toady "], "A": []}
+{"index": 256094, "D": "a person or thing that puffs. ", "S": ["booster", "bootlicker", "charmer", "fawner", "flunky", "lackey", "sycophant", "toady"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 66857, "D": "a degree of density, firmness, viscosity, etc.", "S": ["firmness ", "flexibility ", "texture "], "A": ["incongruity ", "inconsistency ", "inconstancy ", "irregularity ", "variation "]}
+{"index": 66857, "D": "a degree of density, firmness, viscosity, etc.", "S": ["firmness", "flexibility", "texture"], "A": ["incongruity", "inconsistency", "inconstancy", "irregularity", "variation"]}

@@ -1,1 +1,1 @@
-{"index": 214259, "D": "the act or ceremony of ordaining. ", "S": ["appointment ", "consecration ", "coronation ", "installation ", "investiture ", "naming "], "A": []}
+{"index": 214259, "D": "the act or ceremony of ordaining. ", "S": ["appointment", "consecration", "coronation", "installation", "investiture", "naming"], "A": []}

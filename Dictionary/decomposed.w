@@ -1,1 +1,1 @@
-{"index": 78622, "D": "having undergone decomposition. ", "S": ["addled ", "ruined ", "withered "], "A": ["developing ", "flourishing ", "germinating ", "growing ", "improving ", "ripening "]}
+{"index": 78622, "D": "having undergone decomposition. ", "S": ["addled", "ruined", "withered"], "A": ["developing", "flourishing", "germinating", "growing", "improving", "ripening"]}

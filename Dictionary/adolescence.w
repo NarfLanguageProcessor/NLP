@@ -1,1 +1,1 @@
-{"index": 4271, "D": "the transitional period between puberty and adulthood in human development, extending mainly over the teen years and terminating legally when the age of majority is reached; youth. ", "S": ["boyhood ", "teens "], "A": ["adulthood ", "infancy "]}
+{"index": 4271, "D": "the transitional period between puberty and adulthood in human development, extending mainly over the teen years and terminating legally when the age of majority is reached; youth. ", "S": ["boyhood", "teens"], "A": ["adulthood", "infancy"]}

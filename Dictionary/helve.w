@@ -1,1 +1,1 @@
-{"index": 135826, "D": "the handle of an ax, hatchet, hammer, or the like.", "S": ["knob ", "shaft ", "stem "], "A": ["release "]}
+{"index": 135826, "D": "the handle of an ax, hatchet, hammer, or the like.", "S": ["knob", "shaft", "stem"], "A": ["release"]}

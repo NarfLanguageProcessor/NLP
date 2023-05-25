@@ -1,1 +1,1 @@
-{"index": 173350, "D": "the Lyre, a northern constellation between Cygnus and Hercules, containing the bright star Vega.", "S": ["angelus ", "chimes ", "glockenspiel ", "gong ", "peal ", "tintinnabulation ", "tocsin "], "A": []}
+{"index": 173350, "D": "the Lyre, a northern constellation between Cygnus and Hercules, containing the bright star Vega.", "S": ["angelus", "chimes", "glockenspiel", "gong", "peal", "tintinnabulation", "tocsin"], "A": []}

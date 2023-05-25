@@ -1,1 +1,1 @@
-{"index": 297692, "D": "the drawing of lots for divination; divination by lot.", "S": ["augury ", "enchantment ", "witchcraft ", "witchery "], "A": []}
+{"index": 297692, "D": "the drawing of lots for divination; divination by lot.", "S": ["augury", "enchantment", "witchcraft", "witchery"], "A": []}

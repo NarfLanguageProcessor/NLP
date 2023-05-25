@@ -1,1 +1,1 @@
-{"index": 302181, "D": "a building for the lodging and feeding of horses, cattle, etc.", "S": ["bank ", "box ", "depot ", "magazine "], "A": []}
+{"index": 302181, "D": "a building for the lodging and feeding of horses, cattle, etc.", "S": ["bank", "box", "depot", "magazine"], "A": []}

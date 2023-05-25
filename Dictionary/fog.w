@@ -1,1 +1,1 @@
-{"index": 115745, "D": "Compare ice fog, mist (def. 1), smog (def. 1). ", "S": ["cloud ", "gloom ", "smog ", "smoke ", "steam ", "vapor "], "A": []}
+{"index": 115745, "D": "Compare ice fog, mist (def. 1), smog (def. 1). ", "S": ["cloud", "gloom", "smog", "smoke", "steam", "vapor"], "A": []}

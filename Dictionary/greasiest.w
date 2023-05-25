@@ -1,1 +1,1 @@
-{"index": 129438, "D": "smeared, covered, or soiled with grease. ", "S": ["creamy ", "fatty ", "slick "], "A": ["dry "]}
+{"index": 129438, "D": "smeared, covered, or soiled with grease. ", "S": ["creamy", "fatty", "slick"], "A": ["dry"]}

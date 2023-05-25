@@ -1,1 +1,1 @@
-{"index": 59409, "D": "a body of literature regarded as great or lasting, esp that of ancient Greece or Rome", "S": ["oeuvre "], "A": []}
+{"index": 59409, "D": "a body of literature regarded as great or lasting, esp that of ancient Greece or Rome", "S": ["oeuvre"], "A": []}

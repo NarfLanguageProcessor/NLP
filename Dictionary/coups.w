@@ -1,1 +1,1 @@
-{"index": 71279, "D": "a highly successful, unexpected stroke, act, or move; a clever action or accomplishment.", "S": ["action ", "overthrow ", "plot ", "revolution "], "A": ["failure "]}
+{"index": 71279, "D": "a highly successful, unexpected stroke, act, or move; a clever action or accomplishment.", "S": ["action", "overthrow", "plot", "revolution"], "A": ["failure"]}

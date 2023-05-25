@@ -1,1 +1,1 @@
-{"index": 315433, "D": "a trace of something bad, offensive, or harmful.", "S": ["blemish ", "stigma "], "A": ["advantage ", "benefit ", "blank ", "cleanliness ", "esteem ", "honor ", "perfection ", "respect ", "strength "]}
+{"index": 315433, "D": "a trace of something bad, offensive, or harmful.", "S": ["blemish", "stigma"], "A": ["advantage", "benefit", "blank", "cleanliness", "esteem", "honor", "perfection", "respect", "strength"]}

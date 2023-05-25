@@ -1,1 +1,1 @@
-{"index": 51719, "D": "a pit  for receiving wastes, as sewage, or other refuse.", "S": ["sump "], "A": []}
+{"index": 51719, "D": "a pit  for receiving wastes, as sewage, or other refuse.", "S": ["sump"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 195464, "D": "to speak in a low indistinct manner, almost to an unintelligible extent; mutter.", "S": ["incoherent "], "A": ["articulate ", "communicative "]}
+{"index": 195464, "D": "to speak in a low indistinct manner, almost to an unintelligible extent; mutter.", "S": ["incoherent"], "A": ["articulate", "communicative"]}

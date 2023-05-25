@@ -1,1 +1,1 @@
-{"index": 65956, "D": "to seize as forfeited to the public domain; appropriate, by way of penalty, for public use.", "S": ["appropriate ", "expropriate ", "impound "], "A": ["give "]}
+{"index": 65956, "D": "to seize as forfeited to the public domain; appropriate, by way of penalty, for public use.", "S": ["appropriate", "expropriate", "impound"], "A": ["give"]}

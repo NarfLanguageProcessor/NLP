@@ -1,1 +1,1 @@
-{"index": 36830, "D": "a gross, stupid, or careless mistake", "S": ["botcher ", "bumbler ", "bungler ", "fumbler ", "stumbler "], "A": []}
+{"index": 36830, "D": "a gross, stupid, or careless mistake", "S": ["botcher", "bumbler", "bungler", "fumbler", "stumbler"], "A": []}

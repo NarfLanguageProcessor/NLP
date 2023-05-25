@@ -1,0 +1,1 @@
+{"index": 26016, "D": "wooded or partially uncleared and unsettled districts.", "S": ["backcountry", "outback"], "A": []}

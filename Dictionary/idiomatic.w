@@ -1,1 +1,1 @@
-{"index": 146499, "D": "peculiar to or characteristic of a particular language or dialect", "S": ["colloquial ", "dialectal ", "local ", "natural ", "vernacular "], "A": []}
+{"index": 146499, "D": "peculiar to or characteristic of a particular language or dialect", "S": ["colloquial", "dialectal", "local", "natural", "vernacular"], "A": []}

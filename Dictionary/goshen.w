@@ -1,1 +1,1 @@
-{"index": 128190, "D": "a pastoral region in Lower Egypt, occupied by the Israelites before the Exodus. Genesis 45", "S": ["heaven "], "A": []}
+{"index": 128190, "D": "a pastoral region in Lower Egypt, occupied by the Israelites before the Exodus. Genesis 45", "S": ["heaven"], "A": []}

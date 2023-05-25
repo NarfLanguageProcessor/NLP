@@ -1,1 +1,1 @@
-{"index": 11489, "D": "constructive metabolism;  the synthesis in living organisms of more complex substances from simpler ones (opposed to catabolism).", "S": ["catabolism ", "consumption ", "digestion ", "ingestion ", "inhalation ", "metabolism "], "A": []}
+{"index": 11489, "D": "constructive metabolism;  the synthesis in living organisms of more complex substances from simpler ones (opposed to catabolism).", "S": ["catabolism", "consumption", "digestion", "ingestion", "inhalation", "metabolism"], "A": []}

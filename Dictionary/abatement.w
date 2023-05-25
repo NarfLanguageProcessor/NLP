@@ -1,1 +1,1 @@
-{"index": 148, "D": "the act or state of abating or the state of being abated; reduction; decrease; alleviation; mitigation.", "S": ["decline ", "decrease ", "discount ", "reduction "], "A": ["enlargement ", "increase ", "rise "]}
+{"index": 148, "D": "the act or state of abating or the state of being abated; reduction; decrease; alleviation; mitigation.", "S": ["decline", "decrease", "discount", "reduction"], "A": ["enlargement", "increase", "rise"]}

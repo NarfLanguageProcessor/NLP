@@ -1,1 +1,1 @@
-{"index": 162007, "D": "the celebration of any of certain anniversaries, as the twenty-fifth (silver jubilee ), fiftieth (golden jubilee ), or sixtieth or seventy-fifth (diamond jubilee ).", "S": ["ceremony ", "commemoration ", "festival ", "holiday "], "A": []}
+{"index": 162007, "D": "the celebration of any of certain anniversaries, as the twenty-fifth (silver jubilee ), fiftieth (golden jubilee ), or sixtieth or seventy-fifth (diamond jubilee ).", "S": ["ceremony", "commemoration", "festival", "holiday"], "A": []}

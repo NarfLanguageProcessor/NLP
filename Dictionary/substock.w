@@ -1,1 +1,0 @@
-{"index": 309345, "D": "a supply of goods kept on hand for sale to customers by a merchant, distributor, manufacturer, etc.; inventory.", "S": [], "A": []}

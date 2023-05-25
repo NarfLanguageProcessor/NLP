@@ -1,1 +1,1 @@
-{"index": 6743, "D": "a needlelike rock mass or mountain peak.", "S": ["crest ", "hill ", "mountain ", "pinnacle ", "roof ", "spike ", "summit "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 6743, "D": "a needlelike rock mass or mountain peak.", "S": ["crest", "hill", "mountain", "pinnacle", "roof", "spike", "summit"], "A": ["base", "bottom", "nadir"]}

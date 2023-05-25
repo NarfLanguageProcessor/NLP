@@ -1,1 +1,1 @@
-{"index": 108775, "D": "tending to extrude. ", "S": ["outstanding "], "A": ["depressed ", "inconspicuous ", "invisible ", "obscure ", "obscured ", "ordinary ", "sunken "]}
+{"index": 108775, "D": "tending to extrude. ", "S": ["outstanding"], "A": ["depressed", "inconspicuous", "invisible", "obscure", "obscured", "ordinary", "sunken"]}

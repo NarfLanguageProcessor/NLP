@@ -1,1 +1,1 @@
-{"index": 129588, "D": "of the color of growing foliage, between yellow and blue in the spectrum", "S": ["potato salad "], "A": []}
+{"index": 129588, "D": "of the color of growing foliage, between yellow and blue in the spectrum", "S": ["potato salad"], "A": []}

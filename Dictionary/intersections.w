@@ -1,1 +1,1 @@
-{"index": 155888, "D": "a place where two or more roads meet, especially when at least one is a major highway; junction.", "S": ["crossing ", "interchange ", "junction "], "A": []}
+{"index": 155888, "D": "a place where two or more roads meet, especially when at least one is a major highway; junction.", "S": ["crossing", "interchange", "junction"], "A": []}

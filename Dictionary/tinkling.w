@@ -1,1 +1,1 @@
-{"index": 324041, "D": "to give forth or make a succession of short, light, ringing sounds, as a small bell.", "S": ["chiming ", "ringing "], "A": []}
+{"index": 324041, "D": "to give forth or make a succession of short, light, ringing sounds, as a small bell.", "S": ["chiming", "ringing"], "A": []}

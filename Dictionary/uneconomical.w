@@ -1,1 +1,1 @@
-{"index": 341000, "D": "not economical; wasteful", "S": ["costly ", "extravagant ", "fancy ", "high ", "lavish ", "overpriced ", "pricey ", "upscale ", "valuable "], "A": ["economical ", "reasonable ", "unimportant ", "worthless "]}
+{"index": 341000, "D": "not economical; wasteful", "S": ["costly", "extravagant", "fancy", "high", "lavish", "overpriced", "pricey", "upscale", "valuable"], "A": ["economical", "reasonable", "unimportant", "worthless"]}

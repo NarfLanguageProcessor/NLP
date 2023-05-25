@@ -1,1 +1,1 @@
-{"index": 311034, "D": "a beam or ray of sunlight.", "S": ["buoyant ", "cheerful ", "cheery ", "genial ", "lighthearted ", "pleasant "], "A": ["depressed ", "heavy-hearted "]}
+{"index": 311034, "D": "a beam or ray of sunlight.", "S": ["buoyant", "cheerful", "cheery", "genial", "lighthearted", "pleasant"], "A": ["depressed", "heavy-hearted"]}

@@ -1,1 +1,1 @@
-{"index": 341625, "D": "to surpass others or be superior in some respect or area; do extremely well", "S": ["magnificent ", "outstanding ", "peerless ", "superb ", "transcendent ", "unparalleled "], "A": ["bad ", "inferior ", "ordinary ", "poor ", "second-rate ", "least ", "worst "]}
+{"index": 341625, "D": "to surpass others or be superior in some respect or area; do extremely well", "S": ["magnificent", "outstanding", "peerless", "superb", "transcendent", "unparalleled"], "A": ["bad", "inferior", "ordinary", "poor", "second-rate", "least", "worst"]}

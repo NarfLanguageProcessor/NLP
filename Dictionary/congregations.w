@@ -1,1 +1,1 @@
-{"index": 66254, "D": "an assembly of persons brought together for common religious worship.", "S": ["audience ", "crowd ", "flock ", "gathering ", "parish ", "throng "], "A": ["division ", "separation "]}
+{"index": 66254, "D": "an assembly of persons brought together for common religious worship.", "S": ["audience", "crowd", "flock", "gathering", "parish", "throng"], "A": ["division", "separation"]}

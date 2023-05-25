@@ -1,1 +1,1 @@
-{"index": 196265, "D": "to injure, disfigure, or make imperfect by removing or irreparably damaging parts", "S": ["disfigured ", "mangled "], "A": []}
+{"index": 196265, "D": "to injure, disfigure, or make imperfect by removing or irreparably damaging parts", "S": ["disfigured", "mangled"], "A": []}

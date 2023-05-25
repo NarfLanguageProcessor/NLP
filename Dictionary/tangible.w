@@ -1,1 +1,1 @@
-{"index": 316050, "D": "capable of being touched; discernible by the touch; material or substantial.", "S": ["palpable ", "touchable "], "A": ["abstract ", "conceptual ", "imperceptible ", "intangible ", "unreal "]}
+{"index": 316050, "D": "capable of being touched; discernible by the touch; material or substantial.", "S": ["palpable", "touchable"], "A": ["abstract", "conceptual", "imperceptible", "intangible", "unreal"]}

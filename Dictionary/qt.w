@@ -1,1 +1,1 @@
-{"index": 257440, "D": "quantity.", "S": ["cutie "], "A": []}
+{"index": 257440, "D": "quantity.", "S": ["cutie"], "A": []}

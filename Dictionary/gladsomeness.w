@@ -1,1 +1,1 @@
-{"index": 125831, "D": "giving or causing joy; delightful.", "S": ["gaiety "], "A": ["depression ", "sobriety "]}
+{"index": 125831, "D": "giving or causing joy; delightful.", "S": ["gaiety"], "A": ["depression", "sobriety"]}

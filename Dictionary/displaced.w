@@ -1,1 +1,1 @@
-{"index": 89044, "D": "lacking a home, country, etc.", "S": ["deranged ", "luxated ", "removed ", "uprooted "], "A": ["reinstated "]}
+{"index": 89044, "D": "lacking a home, country, etc.", "S": ["deranged", "luxated", "removed", "uprooted"], "A": ["reinstated"]}

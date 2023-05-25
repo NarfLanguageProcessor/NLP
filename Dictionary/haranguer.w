@@ -1,1 +1,1 @@
-{"index": 133558, "D": [], "S": ["discourser ", "lecturer ", "orator ", "speechmaker "], "A": []}
+{"index": 133558, "D": [], "S": ["discourser", "lecturer", "orator", "speechmaker"], "A": []}

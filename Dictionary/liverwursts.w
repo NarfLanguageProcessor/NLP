@@ -1,1 +1,1 @@
-{"index": 173983, "D": "a sausage made with a large percentage of liver, especially one made with pork liver and pork meat.", "S": ["bratwurst "], "A": []}
+{"index": 173983, "D": "a sausage made with a large percentage of liver, especially one made with pork liver and pork meat.", "S": ["bratwurst"], "A": []}

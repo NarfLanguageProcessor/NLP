@@ -1,1 +1,1 @@
-{"index": 323023, "D": "incus (def. 2). ", "S": ["darkness ", "fog ", "gloom ", "mist ", "puff ", "smog ", "smoke ", "steam ", "vapor ", "veil "], "A": ["brightness ", "cognizance ", "light ", "understanding "]}
+{"index": 323023, "D": "incus (def. 2). ", "S": ["darkness", "fog", "gloom", "mist", "puff", "smog", "smoke", "steam", "vapor", "veil"], "A": ["brightness", "cognizance", "light", "understanding"]}

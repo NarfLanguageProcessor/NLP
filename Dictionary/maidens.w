@@ -1,1 +1,1 @@
-{"index": 177782, "D": "a girl or young unmarried woman; maid.", "S": ["colleen ", "maid ", "maiden "], "A": []}
+{"index": 177782, "D": "a girl or young unmarried woman; maid.", "S": ["colleen", "maid", "maiden"], "A": []}

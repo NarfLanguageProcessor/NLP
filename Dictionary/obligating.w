@@ -1,1 +1,1 @@
-{"index": 210188, "D": "to bind or oblige  morally or legally", "S": ["constrain ", "oblige "], "A": ["free ", "let go ", "release "]}
+{"index": 210188, "D": "to bind or oblige  morally or legally", "S": ["constrain", "oblige"], "A": ["free", "let go", "release"]}

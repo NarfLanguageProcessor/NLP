@@ -1,1 +1,1 @@
-{"index": 59180, "D": "a device, usually of some rigid material, for strengthening or supporting objects or fastening them together.", "S": ["bracelets ", "braces ", "chains ", "cuffs ", "fetters ", "shackles ", "snaps ", "wristlets "], "A": []}
+{"index": 59180, "D": "a device, usually of some rigid material, for strengthening or supporting objects or fastening them together.", "S": ["bracelets", "braces", "chains", "cuffs", "fetters", "shackles", "snaps", "wristlets"], "A": []}

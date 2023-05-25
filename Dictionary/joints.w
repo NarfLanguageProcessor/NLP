@@ -1,1 +1,1 @@
-{"index": 161630, "D": "the place at which two things, or separate parts of one thing, are joined or united, either rigidly or in such a way as to permit motion; juncture.", "S": ["elbow ", "seam "], "A": ["disconnection ", "division ", "divorce ", "line ", "separation ", "whole "]}
+{"index": 161630, "D": "the place at which two things, or separate parts of one thing, are joined or united, either rigidly or in such a way as to permit motion; juncture.", "S": ["elbow", "seam"], "A": ["disconnection", "division", "divorce", "line", "separation", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 134892, "D": "Also called", "S": ["character ", "feeling ", "love ", "nature ", "soul "], "A": ["animosity ", "apathy ", "disdain ", "dislike ", "hate ", "hatred ", "ill will ", "indifference ", "malevolence ", "meanness ", "mercilessness "]}
+{"index": 134892, "D": "Also called", "S": ["character", "feeling", "love", "nature", "soul"], "A": ["animosity", "apathy", "disdain", "dislike", "hate", "hatred", "ill will", "indifference", "malevolence", "meanness", "mercilessness"]}

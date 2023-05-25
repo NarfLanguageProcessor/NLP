@@ -1,1 +1,1 @@
-{"index": 17484, "D": "a druggist; a pharmacist.", "S": ["dispenser ", "druggist "], "A": []}
+{"index": 17484, "D": "a druggist; a pharmacist.", "S": ["dispenser", "druggist"], "A": []}

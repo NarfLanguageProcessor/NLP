@@ -1,1 +1,1 @@
-{"index": 66803, "D": "showing kindly awareness or regard for another's feelings, circumstances, etc.", "S": ["tenderly "], "A": []}
+{"index": 66803, "D": "showing kindly awareness or regard for another's feelings, circumstances, etc.", "S": ["tenderly"], "A": []}

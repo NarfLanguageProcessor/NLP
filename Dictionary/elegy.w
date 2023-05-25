@@ -1,1 +1,1 @@
-{"index": 97361, "D": "a mournful, melancholy, or plaintive poem, especially a funeral song or a lament for the dead.", "S": ["knell ", "lament ", "plaint ", "requiem ", "threnody "], "A": []}
+{"index": 97361, "D": "a mournful, melancholy, or plaintive poem, especially a funeral song or a lament for the dead.", "S": ["knell", "lament", "plaint", "requiem", "threnody"], "A": []}

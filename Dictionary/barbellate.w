@@ -1,1 +1,1 @@
-{"index": 27762, "D": "having short, stiff hairs.", "S": ["aristate ", "chaetophorous ", "echinate ", "hispid ", "setaceous ", "setal ", "setarious ", "setiferous ", "setose ", "spiny "], "A": ["clean-shaven ", "smooth "]}
+{"index": 27762, "D": "having short, stiff hairs.", "S": ["aristate", "chaetophorous", "echinate", "hispid", "setaceous", "setal", "setarious", "setiferous", "setose", "spiny"], "A": ["clean-shaven", "smooth"]}

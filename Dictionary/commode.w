@@ -1,1 +1,1 @@
-{"index": 64142, "D": "a low cabinet or similar piece of furniture, often highly ornamental, containing drawers or shelves.", "S": ["dresser "], "A": []}
+{"index": 64142, "D": "a low cabinet or similar piece of furniture, often highly ornamental, containing drawers or shelves.", "S": ["dresser"], "A": []}

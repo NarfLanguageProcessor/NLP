@@ -1,1 +1,1 @@
-{"index": 283583, "D": "Peter. 1925\u201380, English radio, stage, and film actor and comedian", "S": ["agent ", "auctioneer ", "dealer ", "marketer ", "merchant ", "peddler ", "retailer ", "trader ", "vendor "], "A": ["customer "]}
+{"index": 283583, "D": "Peter. 1925\u201380, English radio, stage, and film actor and comedian", "S": ["agent", "auctioneer", "dealer", "marketer", "merchant", "peddler", "retailer", "trader", "vendor"], "A": ["customer"]}

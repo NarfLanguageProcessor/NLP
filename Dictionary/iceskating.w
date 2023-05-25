@@ -1,1 +1,1 @@
-{"index": 146009, "D": "a shoe fitted with a metal blade for skating  on ice.", "S": ["glide "], "A": []}
+{"index": 146009, "D": "a shoe fitted with a metal blade for skating  on ice.", "S": ["glide"], "A": []}

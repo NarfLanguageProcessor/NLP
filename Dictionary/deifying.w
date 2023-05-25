@@ -1,1 +1,1 @@
-{"index": 79794, "D": "to make a god of; exalt to the rank of a deity;  personify as a deity", "S": ["godlike ", "godly ", "heavenly ", "holy ", "religious ", "reverent ", "sacred ", "spiritual "], "A": []}
+{"index": 79794, "D": "to make a god of; exalt to the rank of a deity;  personify as a deity", "S": ["godlike", "godly", "heavenly", "holy", "religious", "reverent", "sacred", "spiritual"], "A": []}

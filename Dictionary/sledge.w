@@ -1,1 +1,1 @@
-{"index": 293854, "D": "a vehicle of various forms, mounted on runners and often drawn by draft animals, used for traveling or for conveying loads over snow, ice, rough ground, etc.", "S": ["bobsled ", "luge "], "A": []}
+{"index": 293854, "D": "a vehicle of various forms, mounted on runners and often drawn by draft animals, used for traveling or for conveying loads over snow, ice, rough ground, etc.", "S": ["bobsled", "luge"], "A": []}

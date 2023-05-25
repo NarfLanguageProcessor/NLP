@@ -1,1 +1,1 @@
-{"index": 133630, "D": "copy, as computer output printed on paper, that can be read without using a special device (opposed to soft copy).", "S": ["printout "], "A": []}
+{"index": 133630, "D": "copy, as computer output printed on paper, that can be read without using a special device (opposed to soft copy).", "S": ["printout"], "A": []}

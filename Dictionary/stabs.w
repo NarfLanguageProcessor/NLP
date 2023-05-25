@@ -1,1 +1,1 @@
-{"index": 302196, "D": "to pierce or wound with or as if with a pointed weapon", "S": ["jab ", "twinge "], "A": []}
+{"index": 302196, "D": "to pierce or wound with or as if with a pointed weapon", "S": ["jab", "twinge"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 261724, "D": "to arrange in a straight line; adjust according to a line.", "S": ["readjust ", "reorganize ", "reorient "], "A": []}
+{"index": 261724, "D": "to arrange in a straight line; adjust according to a line.", "S": ["readjust", "reorganize", "reorient"], "A": []}

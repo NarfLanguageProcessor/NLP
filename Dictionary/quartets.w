@@ -1,1 +1,1 @@
-{"index": 258077, "D": "any group of four persons or things.", "S": ["assemblage ", "band ", "cast ", "choir ", "chorus ", "orchestra ", "quintet ", "sextet ", "trio ", "troupe "], "A": ["fraction ", "individual ", "part "]}
+{"index": 258077, "D": "any group of four persons or things.", "S": ["assemblage", "band", "cast", "choir", "chorus", "orchestra", "quintet", "sextet", "trio", "troupe"], "A": ["fraction", "individual", "part"]}

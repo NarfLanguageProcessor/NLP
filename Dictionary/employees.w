@@ -1,1 +1,1 @@
-{"index": 98837, "D": "a person working for another person or a business firm for pay.", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}
+{"index": 98837, "D": "a person working for another person or a business firm for pay.", "S": ["department", "institute", "personnel", "staff", "university"], "A": ["inability", "incompetence", "ineptness", "lack", "need", "students"]}

@@ -1,1 +1,1 @@
-{"index": 351008, "D": "to put or take off from a ship, as persons or goods.", "S": ["empty ", "remove ", "send "], "A": ["assign ", "dam ", "delegate ", "detain ", "employ ", "engage ", "hire ", "hold ", "imprison ", "keep ", "load ", "owe "]}
+{"index": 351008, "D": "to put or take off from a ship, as persons or goods.", "S": ["empty", "remove", "send"], "A": ["assign", "dam", "delegate", "detain", "employ", "engage", "hire", "hold", "imprison", "keep", "load", "owe"]}

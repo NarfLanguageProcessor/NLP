@@ -1,1 +1,1 @@
-{"index": 305822, "D": "a plan, scheme, or trick for surprising or deceiving an enemy.", "S": ["gimmick ", "one-upmanship ", "ploy ", "ruse ", "subterfuge ", "wile "], "A": ["frankness ", "honesty ", "honor ", "inactivity ", "openness ", "reality ", "stagnation ", "truth ", "truthfulness "]}
+{"index": 305822, "D": "a plan, scheme, or trick for surprising or deceiving an enemy.", "S": ["gimmick", "one-upmanship", "ploy", "ruse", "subterfuge", "wile"], "A": ["frankness", "honesty", "honor", "inactivity", "openness", "reality", "stagnation", "truth", "truthfulness"]}

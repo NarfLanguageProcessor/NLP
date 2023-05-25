@@ -1,1 +1,1 @@
-{"index": 75406, "D": "at the presenttime; now", "S": ["directly ", "presently "], "A": []}
+{"index": 75406, "D": "at the presenttime; now", "S": ["directly", "presently"], "A": []}

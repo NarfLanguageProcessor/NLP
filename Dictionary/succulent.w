@@ -1,1 +1,1 @@
-{"index": 309908, "D": "full of juice; juicy.", "S": ["luscious ", "moist ", "tasty ", "yummy "], "A": ["unappetizing "]}
+{"index": 309908, "D": "full of juice; juicy.", "S": ["luscious", "moist", "tasty", "yummy"], "A": ["unappetizing"]}

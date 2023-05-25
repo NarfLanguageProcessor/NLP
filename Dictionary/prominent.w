@@ -1,1 +1,1 @@
-{"index": 252258, "D": "standing out so as to be seen easily; particularly noticeable; conspicuous", "S": ["outstanding "], "A": ["depressed ", "inconspicuous ", "invisible ", "obscure ", "obscured ", "ordinary ", "sunken "]}
+{"index": 252258, "D": "standing out so as to be seen easily; particularly noticeable; conspicuous", "S": ["outstanding"], "A": ["depressed", "inconspicuous", "invisible", "obscure", "obscured", "ordinary", "sunken"]}

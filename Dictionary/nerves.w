@@ -1,1 +1,1 @@
-{"index": 198744, "D": "my nerves won't stand it", "S": ["fretfulness ", "hysteria ", "imbalance ", "irritation ", "nervousness ", "neurasthenia ", "sleeplessness ", "strain ", "stress ", "tenseness ", "tension "], "A": ["calm ", "calmness ", "relaxation "]}
+{"index": 198744, "D": "my nerves won't stand it", "S": ["fretfulness", "hysteria", "imbalance", "irritation", "nervousness", "neurasthenia", "sleeplessness", "strain", "stress", "tenseness", "tension"], "A": ["calm", "calmness", "relaxation"]}

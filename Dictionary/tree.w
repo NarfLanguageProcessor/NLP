@@ -1,1 +1,1 @@
-{"index": 328765, "D": "a plant having a permanently woody main stem or trunk, ordinarily growing to a considerable height, and usually developing branches at some distance from the ground.", "S": ["forest ", "sapling ", "seedling ", "shrub ", "timber ", "wood "], "A": []}
+{"index": 328765, "D": "a plant having a permanently woody main stem or trunk, ordinarily growing to a considerable height, and usually developing branches at some distance from the ground.", "S": ["forest", "sapling", "seedling", "shrub", "timber", "wood"], "A": []}

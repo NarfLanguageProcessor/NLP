@@ -1,1 +1,1 @@
-{"index": 118817, "D": "a freshwater stream flowing into the sea.", "S": ["alluvion ", "cataclysm ", "cataract ", "deluge ", "downpour ", "flux ", "gush ", "inundation ", "outpouring ", "overflow ", "spate ", "stream ", "surge ", "torrent "], "A": []}
+{"index": 118817, "D": "a freshwater stream flowing into the sea.", "S": ["alluvion", "cataclysm", "cataract", "deluge", "downpour", "flux", "gush", "inundation", "outpouring", "overflow", "spate", "stream", "surge", "torrent"], "A": []}

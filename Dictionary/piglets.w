@@ -1,1 +1,1 @@
-{"index": 236402, "D": "a little pig. ", "S": ["brood ", "cubs ", "family ", "kittens ", "progeny ", "puppies ", "school ", "young "], "A": ["parent "]}
+{"index": 236402, "D": "a little pig. ", "S": ["brood", "cubs", "family", "kittens", "progeny", "puppies", "school", "young"], "A": ["parent"]}

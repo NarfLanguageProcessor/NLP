@@ -1,1 +1,1 @@
-{"index": 28961, "D": "a navigable, submersible vessel for exploring the depths of the ocean, having a separate, overhead chamber filled with gasoline for buoyancy and iron or steel weights for ballast.", "S": ["bathysphere ", "diving chamber "], "A": []}
+{"index": 28961, "D": "a navigable, submersible vessel for exploring the depths of the ocean, having a separate, overhead chamber filled with gasoline for buoyancy and iron or steel weights for ballast.", "S": ["bathysphere", "diving chamber"], "A": []}

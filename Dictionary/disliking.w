@@ -1,1 +1,1 @@
-{"index": 88582, "D": "to regard with displeasure, antipathy, or aversion", "S": ["allergic ", "antagonistic ", "hesitant ", "hostile ", "loath ", "reluctant ", "unwilling "], "A": ["agreeable ", "friendly ", "kind ", "ready ", "willing "]}
+{"index": 88582, "D": "to regard with displeasure, antipathy, or aversion", "S": ["allergic", "antagonistic", "hesitant", "hostile", "loath", "reluctant", "unwilling"], "A": ["agreeable", "friendly", "kind", "ready", "willing"]}

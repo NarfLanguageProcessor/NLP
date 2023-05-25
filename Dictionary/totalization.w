@@ -1,1 +1,1 @@
-{"index": 326462, "D": "to make total;  combine into a total.", "S": ["accretion ", "accruing ", "adding ", "computing ", "counting ", "enlarging ", "expanding ", "increasing ", "reckoning ", "summation ", "summing ", "tabulating ", "totaling ", "toting "], "A": []}
+{"index": 326462, "D": "to make total;  combine into a total.", "S": ["accretion", "accruing", "adding", "computing", "counting", "enlarging", "expanding", "increasing", "reckoning", "summation", "summing", "tabulating", "totaling", "toting"], "A": []}

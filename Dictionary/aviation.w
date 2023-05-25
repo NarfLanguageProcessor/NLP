@@ -1,1 +1,1 @@
-{"index": 24746, "D": "the design, development, production, operation, and use of aircraft, especially heavier-than-air aircraft.", "S": ["aeronautics ", "navigation "], "A": []}
+{"index": 24746, "D": "the design, development, production, operation, and use of aircraft, especially heavier-than-air aircraft.", "S": ["aeronautics", "navigation"], "A": []}

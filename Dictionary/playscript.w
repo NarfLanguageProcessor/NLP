@@ -1,1 +1,0 @@
-{"index": 238836, "D": "the manuscript of a play,  especially as prepared for use by actors in rehearsals.", "S": [], "A": []}

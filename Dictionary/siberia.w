@@ -1,1 +1,1 @@
-{"index": 289506, "D": "an extensive region in the Russian Federation in N Asia, extending from the Ural Mountains to the Pacific.", "S": ["oblivion "], "A": ["certainty ", "certitude ", "sureness ", "surety "]}
+{"index": 289506, "D": "an extensive region in the Russian Federation in N Asia, extending from the Ural Mountains to the Pacific.", "S": ["oblivion"], "A": ["certainty", "certitude", "sureness", "surety"]}

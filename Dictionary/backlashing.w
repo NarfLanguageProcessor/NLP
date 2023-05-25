@@ -1,1 +1,1 @@
-{"index": 25836, "D": "a sudden, forceful backward movement; recoil.", "S": ["fail ", "flop "], "A": ["accomplish ", "achieve ", "succeed "]}
+{"index": 25836, "D": "a sudden, forceful backward movement; recoil.", "S": ["fail", "flop"], "A": ["accomplish", "achieve", "succeed"]}

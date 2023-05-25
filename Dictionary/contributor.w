@@ -1,1 +1,1 @@
-{"index": 67773, "D": "a person who contributes  money, assistance, etc.", "S": ["donor ", "giver ", "patron "], "A": []}
+{"index": 67773, "D": "a person who contributes  money, assistance, etc.", "S": ["donor", "giver", "patron"], "A": []}

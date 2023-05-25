@@ -1,1 +1,1 @@
-{"index": 37051, "D": "a policeman.", "S": ["bluecoat ", "cop ", "detective ", "flatfoot ", "officer ", "patrolman ", "police ", "policeman ", "policewoman "], "A": []}
+{"index": 37051, "D": "a policeman.", "S": ["bluecoat", "cop", "detective", "flatfoot", "officer", "patrolman", "police", "policeman", "policewoman"], "A": []}

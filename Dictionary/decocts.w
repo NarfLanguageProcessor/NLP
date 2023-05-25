@@ -1,1 +1,1 @@
-{"index": 78527, "D": "to extract the flavor or essence of by boiling.", "S": ["bubble ", "evaporate ", "poach ", "simmer ", "steam ", "stew "], "A": ["be happy ", "freeze "]}
+{"index": 78527, "D": "to extract the flavor or essence of by boiling.", "S": ["bubble", "evaporate", "poach", "simmer", "steam", "stew"], "A": ["be happy", "freeze"]}

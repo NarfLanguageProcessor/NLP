@@ -1,1 +1,1 @@
-{"index": 135308, "D": "weight; heaviness", "S": ["bulk ", "bulkiness ", "fat ", "fatness ", "heftiness ", "ponderosity ", "ponderousness ", "weight ", "weightiness "], "A": []}
+{"index": 135308, "D": "weight; heaviness", "S": ["bulk", "bulkiness", "fat", "fatness", "heftiness", "ponderosity", "ponderousness", "weight", "weightiness"], "A": []}

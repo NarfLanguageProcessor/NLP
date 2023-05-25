@@ -1,1 +1,1 @@
-{"index": 227202, "D": "an infatuation for another person; crush. ", "S": ["admiration ", "devotion ", "esteem ", "reverence ", "veneration "], "A": ["disregard ", "disrespect ", "condemnation ", "debasement ", "denunciation ", "dislike ", "hate ", "hatred ", "humiliation ", "indifference "]}
+{"index": 227202, "D": "an infatuation for another person; crush. ", "S": ["admiration", "devotion", "esteem", "reverence", "veneration"], "A": ["disregard", "disrespect", "condemnation", "debasement", "denunciation", "dislike", "hate", "hatred", "humiliation", "indifference"]}

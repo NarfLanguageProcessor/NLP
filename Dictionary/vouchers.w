@@ -1,1 +1,1 @@
-{"index": 361434, "D": "a person or thing that vouches.", "S": ["certificate ", "coupon ", "receipt ", "ticket "], "A": []}
+{"index": 361434, "D": "a person or thing that vouches.", "S": ["certificate", "coupon", "receipt", "ticket"], "A": []}

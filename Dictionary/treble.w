@@ -1,1 +1,1 @@
-{"index": 328736, "D": "threefold; triple.", "S": ["acute ", "penetrating ", "piercing ", "piping ", "rank ", "reeking ", "sharp ", "shrill ", "soprano "], "A": ["blunt ", "dull ", "indefinite ", "low ", "slow ", "soft ", "stupid ", "unintelligent "]}
+{"index": 328736, "D": "threefold; triple.", "S": ["acute", "penetrating", "piercing", "piping", "rank", "reeking", "sharp", "shrill", "soprano"], "A": ["blunt", "dull", "indefinite", "low", "slow", "soft", "stupid", "unintelligent"]}

@@ -1,0 +1,1 @@
+{"index": 6077, "D": "an antigen that causes the production of agglutinins.", "S": ["antibody"], "A": []}

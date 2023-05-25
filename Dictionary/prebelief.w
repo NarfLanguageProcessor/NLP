@@ -1,1 +1,0 @@
-{"index": 245825, "D": "something believed;  an opinion or conviction", "S": [], "A": []}

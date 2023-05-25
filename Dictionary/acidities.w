@@ -1,1 +1,1 @@
-{"index": 2436, "D": "the quality or state of being acid. ", "S": ["acerbity ", "acridness ", "astringency ", "pungency ", "sourness ", "tartness "], "A": []}
+{"index": 2436, "D": "the quality or state of being acid. ", "S": ["acerbity", "acridness", "astringency", "pungency", "sourness", "tartness"], "A": []}

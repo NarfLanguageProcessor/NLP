@@ -1,1 +1,1 @@
-{"index": 144928, "D": "a person, thing, action, or statement of remarkable excellence or effect.", "S": ["ace ", "beauty ", "champ ", "champion ", "crackerjack ", "hit ", "knockout ", "lulu ", "pip ", "pistol ", "whopper ", "winner "], "A": ["failure ", "loser "]}
+{"index": 144928, "D": "a person, thing, action, or statement of remarkable excellence or effect.", "S": ["ace", "beauty", "champ", "champion", "crackerjack", "hit", "knockout", "lulu", "pip", "pistol", "whopper", "winner"], "A": ["failure", "loser"]}

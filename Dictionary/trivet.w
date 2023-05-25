@@ -1,1 +1,0 @@
-{"index": 330830, "D": "a small metal plate with short legs, especially one put under a hot platter or dish to protect a table.", "S": [], "A": []}

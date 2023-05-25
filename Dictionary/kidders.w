@@ -1,1 +1,1 @@
-{"index": 164457, "D": "a child or young person.", "S": ["actor ", "banana ", "buffoon ", "card ", "clown ", "comedian ", "comic ", "fool ", "gagster ", "humorist ", "jester ", "jokester ", "prankster ", "punster ", "stooge ", "trickster ", "wag ", "wit "], "A": []}
+{"index": 164457, "D": "a child or young person.", "S": ["actor", "banana", "buffoon", "card", "clown", "comedian", "comic", "fool", "gagster", "humorist", "jester", "jokester", "prankster", "punster", "stooge", "trickster", "wag", "wit"], "A": []}

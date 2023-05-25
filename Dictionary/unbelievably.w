@@ -1,1 +1,1 @@
-{"index": 335755, "D": "it gets unbelievably hot", "S": ["extraordinarily ", "remarkably "], "A": ["ordinarily ", "plausibly "]}
+{"index": 335755, "D": "it gets unbelievably hot", "S": ["extraordinarily", "remarkably"], "A": ["ordinarily", "plausibly"]}

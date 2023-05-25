@@ -1,1 +1,1 @@
-{"index": 137875, "D": "to bewitch; practice witchcraft on", "S": ["jinx ", "whammy "], "A": ["reality "]}
+{"index": 137875, "D": "to bewitch; practice witchcraft on", "S": ["jinx", "whammy"], "A": ["reality"]}

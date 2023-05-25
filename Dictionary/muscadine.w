@@ -1,1 +1,0 @@
-{"index": 195829, "D": "a grape, Vitis rotundifolia, of the southern U.S., having dull purple, thick-skinned musky fruit and being the origin of many grape varieties.", "S": [], "A": []}

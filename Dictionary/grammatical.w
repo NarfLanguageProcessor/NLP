@@ -1,1 +1,1 @@
-{"index": 128740, "D": "of or relating to grammar", "S": ["linguistic ", "semantic "], "A": ["solecistic ", "ungrammatical "]}
+{"index": 128740, "D": "of or relating to grammar", "S": ["linguistic", "semantic"], "A": ["solecistic", "ungrammatical"]}

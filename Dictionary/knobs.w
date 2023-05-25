@@ -1,1 +1,1 @@
-{"index": 165623, "D": "a projecting part, usually rounded, forming the handle of a door, drawer, or the like.", "S": ["doorknob ", "latch ", "lever "], "A": ["depression "]}
+{"index": 165623, "D": "a projecting part, usually rounded, forming the handle of a door, drawer, or the like.", "S": ["doorknob", "latch", "lever"], "A": ["depression"]}

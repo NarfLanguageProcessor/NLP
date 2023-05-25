@@ -1,1 +1,1 @@
-{"index": 183456, "D": "the periodic flow of blood and mucosal tissue from the uterus; menstrual flow.", "S": ["catamenia ", "menorrhea "], "A": []}
+{"index": 183456, "D": "the periodic flow of blood and mucosal tissue from the uterus; menstrual flow.", "S": ["catamenia", "menorrhea"], "A": []}

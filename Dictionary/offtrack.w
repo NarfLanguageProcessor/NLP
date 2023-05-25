@@ -1,1 +1,1 @@
-{"index": 211692, "D": "occurring or carried on away from a racetrack", "S": ["confounded ", "confused ", "deceived ", "deluded ", "duped ", "fooled ", "misguided ", "misinformed ", "misled ", "tricked "], "A": ["accurate ", "correct ", "honest ", "right ", "substantiated ", "true ", "valid "]}
+{"index": 211692, "D": "occurring or carried on away from a racetrack", "S": ["confounded", "confused", "deceived", "deluded", "duped", "fooled", "misguided", "misinformed", "misled", "tricked"], "A": ["accurate", "correct", "honest", "right", "substantiated", "true", "valid"]}

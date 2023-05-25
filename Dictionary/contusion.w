@@ -1,1 +1,1 @@
-{"index": 67864, "D": "an injury, as from a blow with a blunt instrument, in which the subsurface tissue is injured but the skin is not broken; bruise.", "S": ["swelling "], "A": ["compliment ", "praise "]}
+{"index": 67864, "D": "an injury, as from a blow with a blunt instrument, in which the subsurface tissue is injured but the skin is not broken; bruise.", "S": ["swelling"], "A": ["compliment", "praise"]}

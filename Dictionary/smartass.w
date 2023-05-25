@@ -1,1 +1,1 @@
-{"index": 294730, "D": "a wise guy; know-it-all.", "S": ["bold ", "brazen "], "A": ["meek ", "shy "]}
+{"index": 294730, "D": "a wise guy; know-it-all.", "S": ["bold", "brazen"], "A": ["meek", "shy"]}

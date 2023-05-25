@@ -1,1 +1,1 @@
-{"index": 165224, "D": "a set or collection of tools, supplies, instructional matter, etc., for a specific purpose", "S": ["apparatus ", "bag ", "container ", "gear ", "material "], "A": []}
+{"index": 165224, "D": "a set or collection of tools, supplies, instructional matter, etc., for a specific purpose", "S": ["apparatus", "bag", "container", "gear", "material"], "A": []}

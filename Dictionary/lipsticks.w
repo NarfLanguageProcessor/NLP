@@ -1,1 +1,1 @@
-{"index": 173264, "D": "a crayonlike oil-based cosmetic used in coloring the lips,  usually in a tubular container.", "S": ["paint "], "A": []}
+{"index": 173264, "D": "a crayonlike oil-based cosmetic used in coloring the lips,  usually in a tubular container.", "S": ["paint"], "A": []}

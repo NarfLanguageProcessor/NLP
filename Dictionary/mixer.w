@@ -1,1 +1,1 @@
-{"index": 190708, "D": "a person or thing that mixes. ", "S": ["blender ", "food processor "], "A": []}
+{"index": 190708, "D": "a person or thing that mixes. ", "S": ["blender", "food processor"], "A": []}

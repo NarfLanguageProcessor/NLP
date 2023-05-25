@@ -1,0 +1,1 @@
+{"index": 14001, "D": "to make hostile or unfriendly; make an enemy or antagonist  of", "S": ["annoyed", "bitter", "enraged", "exasperated", "furious", "heated", "impassioned", "indignant", "irate", "irritable", "irritated", "offended", "outraged", "resentful", "sullen", "uptight"], "A": ["calm", "happy", "mild", "peaceful", "pleased"]}

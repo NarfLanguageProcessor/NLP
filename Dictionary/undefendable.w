@@ -1,1 +1,1 @@
-{"index": 338571, "D": "to ward off attack from; guard against assault or injury (usually followed by from or against)", "S": ["conquerable ", "defenseless ", "exposed ", "in danger ", "vulnerable ", "weak "], "A": ["guarded ", "protected ", "safe ", "secure "]}
+{"index": 338571, "D": "to ward off attack from; guard against assault or injury (usually followed by from or against)", "S": ["conquerable", "defenseless", "exposed", "in danger", "vulnerable", "weak"], "A": ["guarded", "protected", "safe", "secure"]}

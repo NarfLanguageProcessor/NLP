@@ -1,1 +1,1 @@
-{"index": 50623, "D": "an inert carbohydrate, (C6H10O5)n, the chief constituent of the cell walls of plants and of wood, cotton, hemp, paper, etc.", "S": ["glucose ", "lactose ", "starch ", "sugar "], "A": []}
+{"index": 50623, "D": "an inert carbohydrate, (C6H10O5)n, the chief constituent of the cell walls of plants and of wood, cotton, hemp, paper, etc.", "S": ["glucose", "lactose", "starch", "sugar"], "A": []}

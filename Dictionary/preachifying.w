@@ -1,1 +1,1 @@
-{"index": 245468, "D": "to preach  in an obtrusive or tedious way.", "S": ["proclaim ", "proselytize ", "sermonize "], "A": []}
+{"index": 245468, "D": "to preach  in an obtrusive or tedious way.", "S": ["proclaim", "proselytize", "sermonize"], "A": []}

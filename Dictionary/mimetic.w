@@ -1,1 +1,1 @@
-{"index": 187586, "D": "characterized by, exhibiting, or of the nature of imitation or mimicry", "S": ["apish ", "copied ", "duplicated ", "mimic ", "simulated ", "simulative "], "A": []}
+{"index": 187586, "D": "characterized by, exhibiting, or of the nature of imitation or mimicry", "S": ["apish", "copied", "duplicated", "mimic", "simulated", "simulative"], "A": []}

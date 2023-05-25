@@ -1,1 +1,1 @@
-{"index": 290518, "D": "the quality of lacking good sense; foolishness", "S": ["absurdity ", "craziness ", "foolishness ", "goofiness ", "stupidity "], "A": ["sense "]}
+{"index": 290518, "D": "the quality of lacking good sense; foolishness", "S": ["absurdity", "craziness", "foolishness", "goofiness", "stupidity"], "A": ["sense"]}

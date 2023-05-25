@@ -1,1 +1,1 @@
-{"index": 101058, "D": "made a slave; held in slavery or bondage", "S": ["attached ", "fastened ", "indentured ", "limiting ", "restraining ", "tied ", "tying "], "A": ["alterable ", "breakable ", "revocable ", "unbinding ", "unnecessary "]}
+{"index": 101058, "D": "made a slave; held in slavery or bondage", "S": ["attached", "fastened", "indentured", "limiting", "restraining", "tied", "tying"], "A": ["alterable", "breakable", "revocable", "unbinding", "unnecessary"]}

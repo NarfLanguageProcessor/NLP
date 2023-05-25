@@ -1,1 +1,1 @@
-{"index": 40372, "D": "the lower, rear part of the trunk of the body; buttocks. ", "S": ["backside ", "bottom ", "can ", "fanny ", "fundament ", "posterior ", "rear ", "rump ", "seat ", "tail ", "tush "], "A": []}
+{"index": 40372, "D": "the lower, rear part of the trunk of the body; buttocks. ", "S": ["backside", "bottom", "can", "fanny", "fundament", "posterior", "rear", "rump", "seat", "tail", "tush"], "A": []}

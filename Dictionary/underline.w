@@ -1,1 +1,1 @@
-{"index": 339430, "D": "to mark with a line or lines underneath; underscore.", "S": ["accentuate ", "highlight ", "indicate ", "point up ", "stress ", "underscore "], "A": []}
+{"index": 339430, "D": "to mark with a line or lines underneath; underscore.", "S": ["accentuate", "highlight", "indicate", "point up", "stress", "underscore"], "A": []}

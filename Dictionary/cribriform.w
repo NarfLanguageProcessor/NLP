@@ -1,1 +1,1 @@
-{"index": 72886, "D": "sievelike. ", "S": ["mushy ", "porous ", "rubbery ", "soft ", "springy ", "squishy "], "A": ["hard "]}
+{"index": 72886, "D": "sievelike. ", "S": ["mushy", "porous", "rubbery", "soft", "springy", "squishy"], "A": ["hard"]}

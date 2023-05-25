@@ -1,1 +1,1 @@
-{"index": 109796, "D": "extraordinarily good; excellent", "S": ["bizarre ", "fantastic ", "outlandish ", "weird ", "wondrous "], "A": ["common ", "familiar ", "normal ", "ordinary ", "usual "]}
+{"index": 109796, "D": "extraordinarily good; excellent", "S": ["bizarre", "fantastic", "outlandish", "weird", "wondrous"], "A": ["common", "familiar", "normal", "ordinary", "usual"]}

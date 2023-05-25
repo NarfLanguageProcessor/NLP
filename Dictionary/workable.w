@@ -1,1 +1,1 @@
-{"index": 367466, "D": "practicable or feasible", "S": ["applicable ", "doable ", "practicable ", "practical ", "useful ", "viable "], "A": ["impossible ", "unreasonable ", "unworkable ", "useless ", "worthless "]}
+{"index": 367466, "D": "practicable or feasible", "S": ["applicable", "doable", "practicable", "practical", "useful", "viable"], "A": ["impossible", "unreasonable", "unworkable", "useless", "worthless"]}

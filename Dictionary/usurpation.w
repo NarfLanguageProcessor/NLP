@@ -1,1 +1,1 @@
-{"index": 356075, "D": "an act of usurping;  wrongful or illegal encroachment, infringement, or seizure.", "S": ["annexation ", "confiscation "], "A": ["letting go ", "release "]}
+{"index": 356075, "D": "an act of usurping;  wrongful or illegal encroachment, infringement, or seizure.", "S": ["annexation", "confiscation"], "A": ["letting go", "release"]}

@@ -1,1 +1,1 @@
-{"index": 5572, "D": "feeling fear; filled with apprehension", "S": ["anxious ", "apprehensive ", "frightened ", "nervous ", "scared ", "shocked ", "suspicious ", "timid "], "A": ["brave ", "calm ", "happy ", "unafraid ", "unworried "]}
+{"index": 5572, "D": "feeling fear; filled with apprehension", "S": ["anxious", "apprehensive", "frightened", "nervous", "scared", "shocked", "suspicious", "timid"], "A": ["brave", "calm", "happy", "unafraid", "unworried"]}

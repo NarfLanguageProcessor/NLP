@@ -1,1 +1,1 @@
-{"index": 258222, "D": "inclined to or feeling nausea, as the stomach, a person, etc.; nauseous; nauseated. ", "S": ["anxious ", "fidgety ", "groggy ", "restless ", "sickly ", "squeamish ", "uncomfortable ", "uneasy "], "A": ["comfortable ", "content ", "happy "]}
+{"index": 258222, "D": "inclined to or feeling nausea, as the stomach, a person, etc.; nauseous; nauseated. ", "S": ["anxious", "fidgety", "groggy", "restless", "sickly", "squeamish", "uncomfortable", "uneasy"], "A": ["comfortable", "content", "happy"]}

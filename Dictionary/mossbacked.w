@@ -1,1 +1,1 @@
-{"index": 193861, "D": [], "S": ["Tory ", "counterrevolutionary ", "die-hard ", "old-line ", "orthodox ", "regressive ", "retrogressive ", "right ", "rightist ", "rigid ", "standpat ", "traditional ", "traditionalistic ", "ultraconservative/ultra-conservative "], "A": []}
+{"index": 193861, "D": [], "S": ["Tory", "counterrevolutionary", "die-hard", "old-line", "orthodox", "regressive", "retrogressive", "right", "rightist", "rigid", "standpat", "traditional", "traditionalistic", "ultraconservative/ultra-conservative"], "A": []}

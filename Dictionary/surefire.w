@@ -1,1 +1,1 @@
-{"index": 313361, "D": "sure  to work; foolproof", "S": ["foolproof "], "A": []}
+{"index": 313361, "D": "sure  to work; foolproof", "S": ["foolproof"], "A": []}

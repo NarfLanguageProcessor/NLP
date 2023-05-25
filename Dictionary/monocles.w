@@ -1,1 +1,1 @@
-{"index": 192191, "D": "an eyeglass for one eye.", "S": ["eyeglass ", "pince-nez "], "A": []}
+{"index": 192191, "D": "an eyeglass for one eye.", "S": ["eyeglass", "pince-nez"], "A": []}

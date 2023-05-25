@@ -1,1 +1,1 @@
-{"index": 241754, "D": "an organized civil force for maintaining order, preventing and detecting crime, and enforcing the laws.", "S": ["checking ", "filing ", "hiking ", "pacing ", "parading ", "patrolling ", "proceeding ", "stepping ", "walking "], "A": []}
+{"index": 241754, "D": "an organized civil force for maintaining order, preventing and detecting crime, and enforcing the laws.", "S": ["checking", "filing", "hiking", "pacing", "parading", "patrolling", "proceeding", "stepping", "walking"], "A": []}

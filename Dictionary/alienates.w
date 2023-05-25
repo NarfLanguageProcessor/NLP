@@ -1,1 +1,1 @@
-{"index": 8216, "D": "to make indifferent or hostile", "S": ["disaffect ", "divide ", "estrange ", "separate ", "turn off "], "A": ["combine ", "join ", "marry ", "unite "]}
+{"index": 8216, "D": "to make indifferent or hostile", "S": ["disaffect", "divide", "estrange", "separate", "turn off"], "A": ["combine", "join", "marry", "unite"]}

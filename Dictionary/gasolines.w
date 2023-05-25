@@ -1,1 +1,1 @@
-{"index": 122409, "D": "a volatile, flammable liquid mixture of hydrocarbons, obtained from petroleum, and used as fuel for internal-combustion engines, as a solvent, etc.", "S": ["diesel fuel ", "juice ", "oil ", "petrol "], "A": []}
+{"index": 122409, "D": "a volatile, flammable liquid mixture of hydrocarbons, obtained from petroleum, and used as fuel for internal-combustion engines, as a solvent, etc.", "S": ["diesel fuel", "juice", "oil", "petrol"], "A": []}

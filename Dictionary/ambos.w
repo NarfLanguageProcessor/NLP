@@ -1,0 +1,1 @@
+{"index": 10094, "D": "(in an early Christian church) a raised desk, or either of two such desks, from which the Gospels or Epistles were read or chanted.", "S": ["pulpit", "rostrum"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18033, "D": "near or approaching a certain state, condition, goal, or standard.", "S": ["close", "near", "rough"], "A": ["away", "far"]}

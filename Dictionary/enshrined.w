@@ -1,1 +1,1 @@
-{"index": 101013, "D": "to enclose in or as in a shrine", "S": ["holy ", "sacred "], "A": ["irreligious ", "unholy ", "unsacred "]}
+{"index": 101013, "D": "to enclose in or as in a shrine", "S": ["holy", "sacred"], "A": ["irreligious", "unholy", "unsacred"]}

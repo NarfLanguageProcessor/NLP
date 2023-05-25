@@ -1,1 +1,1 @@
-{"index": 297929, "D": "having an acid taste, resembling that of vinegar, lemon juice, etc.; tart. ", "S": ["disillusioned ", "embittered "], "A": ["enchanted ", "encouraged "]}
+{"index": 297929, "D": "having an acid taste, resembling that of vinegar, lemon juice, etc.; tart. ", "S": ["disillusioned", "embittered"], "A": ["enchanted", "encouraged"]}

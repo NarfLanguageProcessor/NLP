@@ -1,1 +1,1 @@
-{"index": 66858, "D": "agreeing or accordant; compatible; not self-contradictory", "S": ["dependable ", "logical ", "persistent ", "rational ", "steady ", "true "], "A": ["dishonest ", "irrational ", "unreasonable ", "unsteady ", "untrustworthy "]}
+{"index": 66858, "D": "agreeing or accordant; compatible; not self-contradictory", "S": ["dependable", "logical", "persistent", "rational", "steady", "true"], "A": ["dishonest", "irrational", "unreasonable", "unsteady", "untrustworthy"]}

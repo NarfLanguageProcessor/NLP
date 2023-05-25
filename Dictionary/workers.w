@@ -1,1 +1,1 @@
-{"index": 367491, "D": "a person or thing that works.", "S": ["band ", "company ", "corps ", "crowd ", "gang ", "squad ", "team ", "troop "], "A": ["individual ", "one "]}
+{"index": 367491, "D": "a person or thing that works.", "S": ["band", "company", "corps", "crowd", "gang", "squad", "team", "troop"], "A": ["individual", "one"]}

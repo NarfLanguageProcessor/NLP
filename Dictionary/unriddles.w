@@ -1,1 +1,1 @@
-{"index": 349934, "D": "to solve (a riddle,  mystery, etc.).", "S": ["analyze ", "break down ", "decode ", "deduce ", "elucidate ", "interpret ", "solve ", "translate ", "unravel "], "A": ["conceal ", "confuse ", "fix ", "hide ", "mend ", "obscure ", "suppress "]}
+{"index": 349934, "D": "to solve (a riddle,  mystery, etc.).", "S": ["analyze", "break down", "decode", "deduce", "elucidate", "interpret", "solve", "translate", "unravel"], "A": ["conceal", "confuse", "fix", "hide", "mend", "obscure", "suppress"]}

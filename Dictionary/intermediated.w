@@ -1,1 +1,1 @@
-{"index": 155320, "D": "being, situated, or acting between two points, stages, things, persons, etc.", "S": ["arbitrate ", "intervene ", "intrude ", "plead "], "A": ["leave alone "]}
+{"index": 155320, "D": "being, situated, or acting between two points, stages, things, persons, etc.", "S": ["arbitrate", "intervene", "intrude", "plead"], "A": ["leave alone"]}

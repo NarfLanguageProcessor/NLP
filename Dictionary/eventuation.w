@@ -1,1 +1,1 @@
-{"index": 106138, "D": "to have issue; result.", "S": ["change ", "issue ", "outcome ", "result ", "situation "], "A": ["cause ", "origin ", "source "]}
+{"index": 106138, "D": "to have issue; result.", "S": ["change", "issue", "outcome", "result", "situation"], "A": ["cause", "origin", "source"]}

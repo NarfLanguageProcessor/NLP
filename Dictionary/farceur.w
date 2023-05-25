@@ -1,1 +1,1 @@
-{"index": 109884, "D": "a writer or director of or actor in farce.", "S": ["card ", "clown ", "comedian ", "comic ", "gagster ", "humorist ", "jester ", "jokester ", "quipster ", "wag ", "wisecracker ", "wit "], "A": []}
+{"index": 109884, "D": "a writer or director of or actor in farce.", "S": ["card", "clown", "comedian", "comic", "gagster", "humorist", "jester", "jokester", "quipster", "wag", "wisecracker", "wit"], "A": []}

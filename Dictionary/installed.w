@@ -1,1 +1,1 @@
-{"index": 153831, "D": "to place in position or connect for service or use", "S": ["equipped "], "A": []}
+{"index": 153831, "D": "to place in position or connect for service or use", "S": ["equipped"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 286488, "D": "slavery or bondage of any kind", "S": ["bondage ", "enslavement ", "serfdom ", "subjugation "], "A": ["mastery "]}
+{"index": 286488, "D": "slavery or bondage of any kind", "S": ["bondage", "enslavement", "serfdom", "subjugation"], "A": ["mastery"]}

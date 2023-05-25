@@ -1,1 +1,1 @@
-{"index": 299722, "D": "a usually high-flown talk or speech, especially for the purpose of luring people to a movie, a sale, etc.; pitch.", "S": ["song and dance "], "A": []}
+{"index": 299722, "D": "a usually high-flown talk or speech, especially for the purpose of luring people to a movie, a sale, etc.; pitch.", "S": ["song and dance"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 129653, "D": "fond of the company of others; sociable.", "S": ["companionship ", "intimacy ", "togetherness "], "A": ["gloom "]}
+{"index": 129653, "D": "fond of the company of others; sociable.", "S": ["companionship", "intimacy", "togetherness"], "A": ["gloom"]}

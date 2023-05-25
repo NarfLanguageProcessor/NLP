@@ -1,1 +1,1 @@
-{"index": 63147, "D": "working together secretively with fraudulent or harmful intent", "S": ["connive "], "A": ["forget ", "neglect "]}
+{"index": 63147, "D": "working together secretively with fraudulent or harmful intent", "S": ["connive"], "A": ["forget", "neglect"]}

@@ -1,1 +1,0 @@
-{"index": 365333, "D": "hoopla. ", "S": ["debauchery ", "festivity "], "A": ["sadness ", "work "]}

@@ -1,1 +1,1 @@
-{"index": 171491, "D": "to make or become liberal. ", "S": ["artistic ", "developmental "], "A": []}
+{"index": 171491, "D": "to make or become liberal. ", "S": ["artistic", "developmental"], "A": []}

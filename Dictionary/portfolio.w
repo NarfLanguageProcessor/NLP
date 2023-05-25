@@ -1,1 +1,1 @@
-{"index": 243638, "D": "a flat, portable case for carrying loose papers, drawings, etc.", "S": ["bag ", "briefcase ", "case ", "container ", "envelope ", "folder ", "notebook ", "valise "], "A": []}
+{"index": 243638, "D": "a flat, portable case for carrying loose papers, drawings, etc.", "S": ["bag", "briefcase", "case", "container", "envelope", "folder", "notebook", "valise"], "A": []}

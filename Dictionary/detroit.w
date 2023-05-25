@@ -1,1 +1,1 @@
-{"index": 83311, "D": "a city in SE Michigan, on the Detroit River.", "S": ["Motown "], "A": []}
+{"index": 83311, "D": "a city in SE Michigan, on the Detroit River.", "S": ["Motown"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 292556, "D": "systematize. ", "S": ["arrangement ", "classification ", "design ", "form ", "order ", "orderliness ", "organization ", "pattern ", "plan ", "planning ", "purpose ", "regularity ", "structure ", "system ", "systematization "], "A": []}
+{"index": 292556, "D": "systematize. ", "S": ["arrangement", "classification", "design", "form", "order", "orderliness", "organization", "pattern", "plan", "planning", "purpose", "regularity", "structure", "system", "systematization"], "A": []}

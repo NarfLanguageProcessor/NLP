@@ -1,1 +1,1 @@
-{"index": 142947, "D": [], "S": ["act out ", "embody ", "epitomize ", "exemplify ", "illustrate ", "incarnate ", "manifest ", "symbolize ", "typify "], "A": ["obscure ", "differ ", "oppose ", "reverse "]}
+{"index": 142947, "D": [], "S": ["act out", "embody", "epitomize", "exemplify", "illustrate", "incarnate", "manifest", "symbolize", "typify"], "A": ["obscure", "differ", "oppose", "reverse"]}

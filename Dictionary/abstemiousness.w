@@ -1,1 +1,1 @@
-{"index": 1058, "D": "sparing or moderate in eating and drinking; temperate in diet.", "S": ["abstinence ", "ascetic ", "moderation ", "restraint ", "self-denial ", "temperateness "], "A": ["indulgence ", "intemperance ", "self-indulgence ", "wildness "]}
+{"index": 1058, "D": "sparing or moderate in eating and drinking; temperate in diet.", "S": ["abstinence", "ascetic", "moderation", "restraint", "self-denial", "temperateness"], "A": ["indulgence", "intemperance", "self-indulgence", "wildness"]}

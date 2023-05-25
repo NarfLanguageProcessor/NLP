@@ -1,1 +1,0 @@
-{"index": 248341, "D": "prior to the Middle Ages.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 223145, "D": "affected with, causing, or characterized by pain", "S": ["discomfort "], "A": ["advantage ", "contentment ", "peace "]}
+{"index": 223145, "D": "affected with, causing, or characterized by pain", "S": ["discomfort"], "A": ["advantage", "contentment", "peace"]}

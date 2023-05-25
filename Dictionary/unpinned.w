@@ -1,1 +1,1 @@
-{"index": 347939, "D": "to remove pins from.", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}
+{"index": 347939, "D": "to remove pins from.", "S": ["baggy", "lax", "relaxed", "sloppy"], "A": ["strict", "tight", "hindered", "rigid", "stiff"]}

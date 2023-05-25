@@ -1,1 +1,1 @@
-{"index": 259607, "D": "wireless telegraphy or telephony", "S": ["transmission ", "wireless "], "A": []}
+{"index": 259607, "D": "wireless telegraphy or telephony", "S": ["transmission", "wireless"], "A": []}

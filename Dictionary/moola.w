@@ -1,1 +1,1 @@
-{"index": 193006, "D": "money. ", "S": ["bread ", "clams ", "gelt ", "gravy ", "greenbacks ", "kale "], "A": []}
+{"index": 193006, "D": "money. ", "S": ["bread", "clams", "gelt", "gravy", "greenbacks", "kale"], "A": []}

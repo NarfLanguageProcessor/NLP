@@ -1,1 +1,1 @@
-{"index": 229053, "D": "to look through a small opening or from a concealed location.", "S": ["blink ", "glance ", "glimpse ", "have a gander ", "look ", "peer ", "snatch ", "snoop ", "spy ", "squint ", "stare ", "take a look "], "A": []}
+{"index": 229053, "D": "to look through a small opening or from a concealed location.", "S": ["blink", "glance", "glimpse", "have a gander", "look", "peer", "snatch", "snoop", "spy", "squint", "stare", "take a look"], "A": []}

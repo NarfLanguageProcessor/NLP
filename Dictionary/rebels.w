@@ -1,1 +1,1 @@
-{"index": 262301, "D": "a person who refuses allegiance to, resists, or rises in arms against the government or ruler of their country.", "S": ["guerrilla ", "insurgent ", "opponent ", "rioter ", "secessionist ", "separatist "], "A": ["adherent ", "loyalist "]}
+{"index": 262301, "D": "a person who refuses allegiance to, resists, or rises in arms against the government or ruler of their country.", "S": ["guerrilla", "insurgent", "opponent", "rioter", "secessionist", "separatist"], "A": ["adherent", "loyalist"]}

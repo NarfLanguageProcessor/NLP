@@ -1,1 +1,1 @@
-{"index": 114016, "D": "a person or thing that flashes. ", "S": ["braggart ", "grandstander ", "pervert "], "A": []}
+{"index": 114016, "D": "a person or thing that flashes. ", "S": ["braggart", "grandstander", "pervert"], "A": []}

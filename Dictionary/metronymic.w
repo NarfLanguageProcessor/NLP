@@ -1,1 +1,1 @@
-{"index": 185468, "D": "derived from the name of a mother or other female ancestor.", "S": ["last name "], "A": []}
+{"index": 185468, "D": "derived from the name of a mother or other female ancestor.", "S": ["last name"], "A": []}

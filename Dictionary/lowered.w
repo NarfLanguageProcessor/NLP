@@ -1,1 +1,1 @@
-{"index": 175628, "D": "to cause to descend; let or put down", "S": ["competitive ", "economical ", "low-cost ", "low-priced ", "reasonable "], "A": ["expensive ", "unreasonable "]}
+{"index": 175628, "D": "to cause to descend; let or put down", "S": ["competitive", "economical", "low-cost", "low-priced", "reasonable"], "A": ["expensive", "unreasonable"]}

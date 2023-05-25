@@ -1,1 +1,1 @@
-{"index": 298539, "D": "a mineral spring, or a locality in which such springs exist.", "S": ["hotel ", "lodge ", "sanitarium ", "sauna ", "whirlpool "], "A": []}
+{"index": 298539, "D": "a mineral spring, or a locality in which such springs exist.", "S": ["hotel", "lodge", "sanitarium", "sauna", "whirlpool"], "A": []}

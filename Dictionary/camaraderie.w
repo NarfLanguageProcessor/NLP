@@ -1,1 +1,1 @@
-{"index": 45566, "D": "a spirit of trust and goodwill among people closely associated in an activity or endeavor", "S": ["companionship ", "intimacy ", "togetherness "], "A": ["gloom "]}
+{"index": 45566, "D": "a spirit of trust and goodwill among people closely associated in an activity or endeavor", "S": ["companionship", "intimacy", "togetherness"], "A": ["gloom"]}

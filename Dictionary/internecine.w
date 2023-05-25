@@ -1,1 +1,1 @@
-{"index": 155484, "D": "of or relating to conflict or struggle within a group", "S": ["civil ", "domestic ", "fratricidal ", "internal "], "A": []}
+{"index": 155484, "D": "of or relating to conflict or struggle within a group", "S": ["civil", "domestic", "fratricidal", "internal"], "A": []}

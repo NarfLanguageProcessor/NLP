@@ -1,1 +1,1 @@
-{"index": 356996, "D": "to disappear from sight, especially quickly; become invisible", "S": ["fading ", "fleeting ", "going "], "A": []}
+{"index": 356996, "D": "to disappear from sight, especially quickly; become invisible", "S": ["fading", "fleeting", "going"], "A": []}

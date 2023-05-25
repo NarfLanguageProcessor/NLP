@@ -1,1 +1,1 @@
-{"index": 286437, "D": "to act as a servant. ", "S": ["deliver ", "distribute ", "give ", "handle ", "present ", "provide "], "A": ["hold ", "keep ", "refrain ", "take ", "withhold "]}
+{"index": 286437, "D": "to act as a servant. ", "S": ["deliver", "distribute", "give", "handle", "present", "provide"], "A": ["hold", "keep", "refrain", "take", "withhold"]}

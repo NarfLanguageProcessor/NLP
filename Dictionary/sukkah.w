@@ -1,1 +1,0 @@
-{"index": 310345, "D": "a booth or hut roofed with branches, built against or near a house or synagogue and used during the Jewish festival of Sukkoth as a temporary dining or living area.", "S": [], "A": []}

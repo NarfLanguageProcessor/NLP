@@ -1,1 +1,1 @@
-{"index": 127616, "D": [], "S": ["coup ", "innovation ", "insurgency ", "mutiny ", "rebellion ", "revolt ", "shift ", "strike ", "transformation ", "turmoil ", "unrest ", "upheaval ", "uprising ", "violence "], "A": ["calm ", "harmony ", "peace ", "stagnation ", "calmness ", "order "]}
+{"index": 127616, "D": [], "S": ["coup", "innovation", "insurgency", "mutiny", "rebellion", "revolt", "shift", "strike", "transformation", "turmoil", "unrest", "upheaval", "uprising", "violence"], "A": ["calm", "harmony", "peace", "stagnation", "calmness", "order"]}

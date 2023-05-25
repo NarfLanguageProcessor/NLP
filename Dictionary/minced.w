@@ -1,1 +1,1 @@
-{"index": 187683, "D": "to cut or chop into very small pieces.", "S": ["crumble ", "grind "], "A": ["reveal ", "tell all "]}
+{"index": 187683, "D": "to cut or chop into very small pieces.", "S": ["crumble", "grind"], "A": ["reveal", "tell all"]}

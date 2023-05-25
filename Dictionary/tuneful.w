@@ -1,1 +1,1 @@
-{"index": 332390, "D": "full of melody; melodious", "S": ["catchy ", "symphonic "], "A": []}
+{"index": 332390, "D": "full of melody; melodious", "S": ["catchy", "symphonic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64462, "D": "the natural ability to live or work together in harmony because of well-matched characteristics", "S": ["rapport ", "unity "], "A": ["disagreement ", "discord ", "dislike ", "hatred ", "incompatibility "]}
+{"index": 64462, "D": "the natural ability to live or work together in harmony because of well-matched characteristics", "S": ["rapport", "unity"], "A": ["disagreement", "discord", "dislike", "hatred", "incompatibility"]}

@@ -1,1 +1,1 @@
-{"index": 236643, "D": "having or producing hair.", "S": ["furry ", "fuzzy ", "shaggy ", "unshaven ", "woolly "], "A": ["smooth "]}
+{"index": 236643, "D": "having or producing hair.", "S": ["furry", "fuzzy", "shaggy", "unshaven", "woolly"], "A": ["smooth"]}

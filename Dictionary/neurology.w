@@ -1,1 +1,1 @@
-{"index": 199118, "D": "the science of the nerves and the nervous system, especially of the diseases affecting them.", "S": ["nerve system ", "nerves ", "peripheral nervous system ", "sense organs ", "sensorium ", "sensory apparatus "], "A": []}
+{"index": 199118, "D": "the science of the nerves and the nervous system, especially of the diseases affecting them.", "S": ["nerve system", "nerves", "peripheral nervous system", "sense organs", "sensorium", "sensory apparatus"], "A": []}

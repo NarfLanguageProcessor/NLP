@@ -1,1 +1,1 @@
-{"index": 64806, "D": "a mixture of various decaying organic substances, as dead leaves or manure, used for fertilizing soil.", "S": ["compost ", "enrich ", "germinate ", "impregnate ", "inseminate ", "mulch ", "pollinate ", "propagate "], "A": ["deplete ", "ignore ", "lay bare ", "uncover "]}
+{"index": 64806, "D": "a mixture of various decaying organic substances, as dead leaves or manure, used for fertilizing soil.", "S": ["compost", "enrich", "germinate", "impregnate", "inseminate", "mulch", "pollinate", "propagate"], "A": ["deplete", "ignore", "lay bare", "uncover"]}

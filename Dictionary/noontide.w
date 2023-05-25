@@ -1,1 +1,1 @@
-{"index": 208460, "D": "the time of noon; midday.", "S": ["1200 hours ", "eight bells ", "meridian ", "meridiem ", "midday ", "noon ", "noonday ", "nooning ", "noontime ", "peak "], "A": []}
+{"index": 208460, "D": "the time of noon; midday.", "S": ["1200 hours", "eight bells", "meridian", "meridiem", "midday", "noon", "noonday", "nooning", "noontime", "peak"], "A": []}

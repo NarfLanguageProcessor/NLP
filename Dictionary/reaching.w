@@ -1,1 +1,1 @@
-{"index": 261492, "D": "to get to or get as far as in moving, going, traveling, etc.", "S": ["embracing ", "encompassing ", "joining ", "meeting ", "spanning ", "stretching ", "touching "], "A": []}
+{"index": 261492, "D": "to get to or get as far as in moving, going, traveling, etc.", "S": ["embracing", "encompassing", "joining", "meeting", "spanning", "stretching", "touching"], "A": []}

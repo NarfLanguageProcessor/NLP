@@ -1,1 +1,1 @@
-{"index": 260132, "D": "a narrow beam of light.", "S": ["dynamism ", "electricity ", "heat ", "potential ", "service ", "strength "], "A": ["lack ", "peace ", "question "]}
+{"index": 260132, "D": "a narrow beam of light.", "S": ["dynamism", "electricity", "heat", "potential", "service", "strength"], "A": ["lack", "peace", "question"]}

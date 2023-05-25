@@ -1,1 +1,0 @@
-{"index": 197337, "D": "the depiction of the physical environment, especially landscape or the rural environment.", "S": ["faithfulness ", "loyalty "], "A": ["disloyalty ", "imprecision ", "inaccuracy ", "inexactness ", "irregularity "]}

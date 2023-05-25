@@ -1,1 +1,1 @@
-{"index": 133391, "D": "U.S. film actor.", "S": ["curve ", "flourish "], "A": ["line "]}
+{"index": 133391, "D": "U.S. film actor.", "S": ["curve", "flourish"], "A": ["line"]}

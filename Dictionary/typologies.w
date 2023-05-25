@@ -1,1 +1,0 @@
-{"index": 324334, "D": "the doctrine or study of types or prefigurative symbols, especially in scriptural literature.", "S": ["categorization ", "classification "], "A": []}

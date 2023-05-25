@@ -1,1 +1,1 @@
-{"index": 104224, "D": "a group of persons, or a single person, accompanying another or others for protection, guidance, or courtesy", "S": ["attendant ", "bodyguard ", "companion ", "convoy ", "entourage "], "A": ["enemy ", "foe "]}
+{"index": 104224, "D": "a group of persons, or a single person, accompanying another or others for protection, guidance, or courtesy", "S": ["attendant", "bodyguard", "companion", "convoy", "entourage"], "A": ["enemy", "foe"]}

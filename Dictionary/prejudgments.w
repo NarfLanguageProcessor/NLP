@@ -1,1 +1,1 @@
-{"index": 248110, "D": "to judge beforehand.", "S": ["preconception "], "A": []}
+{"index": 248110, "D": "to judge beforehand.", "S": ["preconception"], "A": []}

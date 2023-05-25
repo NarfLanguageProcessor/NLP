@@ -1,1 +1,1 @@
-{"index": 80799, "D": "inspired as if by a demon,  indwelling spirit, or genius.", "S": ["brutish ", "nefarious "], "A": []}
+{"index": 80799, "D": "inspired as if by a demon,  indwelling spirit, or genius.", "S": ["brutish", "nefarious"], "A": []}

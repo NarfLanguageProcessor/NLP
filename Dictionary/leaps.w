@@ -1,1 +1,1 @@
-{"index": 169652, "D": "to spring through the air from one point or position to another; jump", "S": ["surge ", "upsurge ", "upswing "], "A": []}
+{"index": 169652, "D": "to spring through the air from one point or position to another; jump", "S": ["surge", "upsurge", "upswing"], "A": []}

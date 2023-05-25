@@ -1,1 +1,1 @@
-{"index": 37199, "D": "a person or group of persons employed to guard  an individual, as a high official, from bodily harm.", "S": ["escort ", "security guard "], "A": []}
+{"index": 37199, "D": "a person or group of persons employed to guard  an individual, as a high official, from bodily harm.", "S": ["escort", "security guard"], "A": []}

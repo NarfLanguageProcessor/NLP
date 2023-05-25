@@ -1,1 +1,1 @@
-{"index": 356022, "D": "(in Scotland and Ireland) whiskey.", "S": ["alcohol ", "drink ", "liquor ", "spirits "], "A": []}
+{"index": 356022, "D": "(in Scotland and Ireland) whiskey.", "S": ["alcohol", "drink", "liquor", "spirits"], "A": []}

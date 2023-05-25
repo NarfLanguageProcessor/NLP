@@ -1,1 +1,1 @@
-{"index": 189193, "D": "(used as an intensive of me  or I)", "S": ["I personally ", "me personally ", "personally ", "the author ", "the speaker ", "the writer ", "yours truly "], "A": []}
+{"index": 189193, "D": "(used as an intensive of me  or I)", "S": ["I personally", "me personally", "personally", "the author", "the speaker", "the writer", "yours truly"], "A": []}

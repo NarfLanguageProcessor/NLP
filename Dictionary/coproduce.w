@@ -1,1 +1,1 @@
-{"index": 68664, "D": "to produce  (a motion picture, play, etc.) in collaboration with others.", "S": ["collude ", "conspire ", "cooperate ", "hook up ", "participate "], "A": ["disagree ", "divorce ", "part "]}
+{"index": 68664, "D": "to produce  (a motion picture, play, etc.) in collaboration with others.", "S": ["collude", "conspire", "cooperate", "hook up", "participate"], "A": ["disagree", "divorce", "part"]}

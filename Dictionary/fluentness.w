@@ -1,1 +1,1 @@
-{"index": 115263, "D": "spoken or written with ease", "S": ["articulateness ", "eloquentness ", "expressiveness ", "expressivity ", "fluency ", "oratory ", "volubility ", "volubleness "], "A": []}
+{"index": 115263, "D": "spoken or written with ease", "S": ["articulateness", "eloquentness", "expressiveness", "expressivity", "fluency", "oratory", "volubility", "volubleness"], "A": []}

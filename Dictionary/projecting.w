@@ -1,1 +1,1 @@
-{"index": 252009, "D": "something that is contemplated, devised, or planned; plan; scheme", "S": ["extruding ", "protruding "], "A": []}
+{"index": 252009, "D": "something that is contemplated, devised, or planned; plan; scheme", "S": ["extruding", "protruding"], "A": []}

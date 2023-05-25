@@ -1,1 +1,1 @@
-{"index": 114694, "D": "to toss or put in motion with a sudden impulse, as with a snap of a finger and thumb, especially so as to cause to turn over in the air", "S": ["inverted ", "overturned ", "upended ", "upset "], "A": []}
+{"index": 114694, "D": "to toss or put in motion with a sudden impulse, as with a snap of a finger and thumb, especially so as to cause to turn over in the air", "S": ["inverted", "overturned", "upended", "upset"], "A": []}

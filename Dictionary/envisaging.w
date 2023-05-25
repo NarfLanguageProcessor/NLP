@@ -1,1 +1,1 @@
-{"index": 101845, "D": "to contemplate; visualize", "S": ["appreciation ", "conceit ", "concept ", "impression ", "interpretation ", "notion ", "perception ", "realization "], "A": ["concrete ", "fact ", "ignorance ", "misunderstanding ", "reality ", "truth "]}
+{"index": 101845, "D": "to contemplate; visualize", "S": ["appreciation", "conceit", "concept", "impression", "interpretation", "notion", "perception", "realization"], "A": ["concrete", "fact", "ignorance", "misunderstanding", "reality", "truth"]}

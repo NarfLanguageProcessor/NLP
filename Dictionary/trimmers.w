@@ -1,1 +1,1 @@
-{"index": 330072, "D": "a person or thing that trims.", "S": ["hedge clippers ", "hedge trimmers "], "A": []}
+{"index": 330072, "D": "a person or thing that trims.", "S": ["hedge clippers", "hedge trimmers"], "A": []}

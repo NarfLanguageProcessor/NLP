@@ -1,1 +1,1 @@
-{"index": 168509, "D": "the generous bestowal of gifts, favours, or money", "S": ["donation ", "endowment ", "fund ", "philanthropy "], "A": ["hindrance ", "hurt ", "injury "]}
+{"index": 168509, "D": "the generous bestowal of gifts, favours, or money", "S": ["donation", "endowment", "fund", "philanthropy"], "A": ["hindrance", "hurt", "injury"]}

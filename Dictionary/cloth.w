@@ -1,1 +1,1 @@
-{"index": 60487, "D": "a fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items.", "S": ["cotton ", "goods ", "material ", "stuff "], "A": []}
+{"index": 60487, "D": "a fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items.", "S": ["cotton", "goods", "material", "stuff"], "A": []}

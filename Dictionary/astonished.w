@@ -1,1 +1,1 @@
-{"index": 22142, "D": "filled with sudden and overpowering surprise or wonder; amazed", "S": ["agog ", "amazed ", "anxious ", "appalled ", "awestruck ", "dismayed ", "shocked ", "stunned "], "A": ["unsurprised "]}
+{"index": 22142, "D": "filled with sudden and overpowering surprise or wonder; amazed", "S": ["agog", "amazed", "anxious", "appalled", "awestruck", "dismayed", "shocked", "stunned"], "A": ["unsurprised"]}

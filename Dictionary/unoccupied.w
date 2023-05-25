@@ -1,1 +1,1 @@
-{"index": 347081, "D": "without occupants; empty; vacant.", "S": ["deserted ", "unfilled ", "uninhabited ", "unused ", "vacant "], "A": ["full ", "overflowing ", "populated "]}
+{"index": 347081, "D": "without occupants; empty; vacant.", "S": ["deserted", "unfilled", "uninhabited", "unused", "vacant"], "A": ["full", "overflowing", "populated"]}

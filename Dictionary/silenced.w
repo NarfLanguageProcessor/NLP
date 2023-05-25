@@ -1,1 +1,1 @@
-{"index": 290265, "D": "a silenced priest", "S": ["calmed ", "censored ", "gagged ", "muted ", "repressed ", "restrained ", "restricted ", "stilled ", "subdued ", "suppressed "], "A": []}
+{"index": 290265, "D": "a silenced priest", "S": ["calmed", "censored", "gagged", "muted", "repressed", "restrained", "restricted", "stilled", "subdued", "suppressed"], "A": []}

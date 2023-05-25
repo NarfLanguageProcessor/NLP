@@ -1,1 +1,1 @@
-{"index": 106580, "D": "the fact or state of excelling;  superiority; eminence", "S": ["greatness ", "merit ", "perfection ", "purity ", "quality ", "supremacy ", "virtue "], "A": ["unimportance "]}
+{"index": 106580, "D": "the fact or state of excelling;  superiority; eminence", "S": ["greatness", "merit", "perfection", "purity", "quality", "supremacy", "virtue"], "A": ["unimportance"]}

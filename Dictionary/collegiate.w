@@ -1,1 +1,1 @@
-{"index": 62946, "D": "of or relating to a college", "S": ["intellectual ", "scholarly ", "scholastic "], "A": ["ignorant ", "ordinary ", "plain ", "practical ", "simple ", "untaught "]}
+{"index": 62946, "D": "of or relating to a college", "S": ["intellectual", "scholarly", "scholastic"], "A": ["ignorant", "ordinary", "plain", "practical", "simple", "untaught"]}

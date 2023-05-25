@@ -1,1 +1,1 @@
-{"index": 185146, "D": "the science dealing with the atmosphere and its phenomena, including weather and climate.", "S": ["weather forecasting "], "A": []}
+{"index": 185146, "D": "the science dealing with the atmosphere and its phenomena, including weather and climate.", "S": ["weather forecasting"], "A": []}

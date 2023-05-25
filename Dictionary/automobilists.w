@@ -1,1 +1,1 @@
-{"index": 24231, "D": "See also hybrid (def. 5b). ", "S": ["chauffeur ", "jockey ", "motorist ", "operator ", "trainer "], "A": ["passenger "]}
+{"index": 24231, "D": "See also hybrid (def. 5b). ", "S": ["chauffeur", "jockey", "motorist", "operator", "trainer"], "A": ["passenger"]}

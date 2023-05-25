@@ -1,1 +1,1 @@
-{"index": 346786, "D": "contrary to the laws or course of nature.", "S": ["abnormally ", "peculiarly ", "perversely ", "strangely ", "uncommonly "], "A": ["naturally "]}
+{"index": 346786, "D": "contrary to the laws or course of nature.", "S": ["abnormally", "peculiarly", "perversely", "strangely", "uncommonly"], "A": ["naturally"]}

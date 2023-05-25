@@ -1,1 +1,1 @@
-{"index": 288510, "D": "to draw up or gather (cloth or the like) on three or more parallel threads.", "S": ["pleat "], "A": ["line "]}
+{"index": 288510, "D": "to draw up or gather (cloth or the like) on three or more parallel threads.", "S": ["pleat"], "A": ["line"]}

@@ -1,1 +1,1 @@
-{"index": 303803, "D": "a stone, or one of a line of stones, in shallow water, a marshy place, or the like, that is stepped on in crossing.", "S": ["apparatus ", "instrument "], "A": ["blockage ", "disorganization ", "ignorance "]}
+{"index": 303803, "D": "a stone, or one of a line of stones, in shallow water, a marshy place, or the like, that is stepped on in crossing.", "S": ["apparatus", "instrument"], "A": ["blockage", "disorganization", "ignorance"]}

@@ -1,1 +1,1 @@
-{"index": 240414, "D": "containing bivalent lead.", "S": ["galena ", "lead ", "pewter ", "plumbean ", "plumbic ", "plumbiferous "], "A": []}
+{"index": 240414, "D": "containing bivalent lead.", "S": ["galena", "lead", "pewter", "plumbean", "plumbic", "plumbiferous"], "A": []}

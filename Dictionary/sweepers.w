@@ -1,1 +1,1 @@
-{"index": 314253, "D": "a person or thing that sweeps. ", "S": ["mop "], "A": []}
+{"index": 314253, "D": "a person or thing that sweeps. ", "S": ["mop"], "A": []}

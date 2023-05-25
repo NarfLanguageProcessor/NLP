@@ -1,1 +1,1 @@
-{"index": 142335, "D": "a boisterous, bold, and carefree girl; a tomboy.", "S": ["gamine ", "meg ", "romp ", "spitfire "], "A": []}
+{"index": 142335, "D": "a boisterous, bold, and carefree girl; a tomboy.", "S": ["gamine", "meg", "romp", "spitfire"], "A": []}

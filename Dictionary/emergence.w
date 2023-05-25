@@ -1,1 +1,1 @@
-{"index": 98449, "D": "the act or process of emerging. ", "S": ["development ", "evolution "], "A": ["decrease ", "stoppage "]}
+{"index": 98449, "D": "the act or process of emerging. ", "S": ["development", "evolution"], "A": ["decrease", "stoppage"]}

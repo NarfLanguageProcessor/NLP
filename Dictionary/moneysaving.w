@@ -1,1 +1,1 @@
-{"index": 191858, "D": [], "S": ["cost-effective ", "efficient ", "practical ", "prudent "], "A": ["inefficient "]}
+{"index": 191858, "D": [], "S": ["cost-effective", "efficient", "practical", "prudent"], "A": ["inefficient"]}

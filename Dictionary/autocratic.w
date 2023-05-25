@@ -1,1 +1,1 @@
-{"index": 23981, "D": "pertaining to or of the nature of autocracy  or of an autocrat; absolute autocratic government.", "S": ["arbitrary ", "dictatorial ", "domineering ", "imperious ", "tyrannical "], "A": ["democratic "]}
+{"index": 23981, "D": "pertaining to or of the nature of autocracy  or of an autocrat; absolute autocratic government.", "S": ["arbitrary", "dictatorial", "domineering", "imperious", "tyrannical"], "A": ["democratic"]}

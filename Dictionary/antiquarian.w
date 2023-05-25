@@ -1,1 +1,1 @@
-{"index": 15994, "D": "pertaining to antiquaries or to the study of antiquities.", "S": ["aged ", "antique ", "primitive "], "A": ["current ", "modern ", "new "]}
+{"index": 15994, "D": "pertaining to antiquaries or to the study of antiquities.", "S": ["aged", "antique", "primitive"], "A": ["current", "modern", "new"]}

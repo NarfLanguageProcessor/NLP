@@ -1,1 +1,1 @@
-{"index": 242395, "D": "to make smooth and glossy, especially by rubbing or friction", "S": ["broom ", "toothbrush "], "A": []}
+{"index": 242395, "D": "to make smooth and glossy, especially by rubbing or friction", "S": ["broom", "toothbrush"], "A": []}

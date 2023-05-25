@@ -1,1 +1,1 @@
-{"index": 18864, "D": "of or having the nature of an archetype,  or original model or prototype", "S": ["quintessential ", "stereotypical "], "A": ["atypical ", "unique "]}
+{"index": 18864, "D": "of or having the nature of an archetype,  or original model or prototype", "S": ["quintessential", "stereotypical"], "A": ["atypical", "unique"]}

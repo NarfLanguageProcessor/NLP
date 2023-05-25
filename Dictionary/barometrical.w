@@ -1,1 +1,1 @@
-{"index": 28179, "D": "Compare aneroid barometer, mercury barometer. ", "S": ["climatic ", "meteorological "], "A": ["down-to-earth ", "grounded "]}
+{"index": 28179, "D": "Compare aneroid barometer, mercury barometer. ", "S": ["climatic", "meteorological"], "A": ["down-to-earth", "grounded"]}

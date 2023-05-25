@@ -1,1 +1,0 @@
-{"index": 201326, "D": "full of life, action, or spirit; lively; vigorous", "S": [], "A": []}

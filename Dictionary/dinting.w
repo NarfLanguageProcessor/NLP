@@ -1,1 +1,1 @@
-{"index": 86218, "D": "force; power", "S": ["cut ", "damage ", "dent ", "dint ", "indent ", "jag ", "knock ", "mark ", "mill ", "notch ", "scar ", "score ", "slit "], "A": ["compliment ", "praise "]}
+{"index": 86218, "D": "force; power", "S": ["cut", "damage", "dent", "dint", "indent", "jag", "knock", "mark", "mill", "notch", "scar", "score", "slit"], "A": ["compliment", "praise"]}

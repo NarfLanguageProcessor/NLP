@@ -1,1 +1,1 @@
-{"index": 303728, "D": "stentorian. ", "S": ["biting ", "blaring ", "earsplitting ", "fierce ", "high-pitched ", "painful ", "penetrating ", "shrill "], "A": ["calm ", "kind ", "pleasant "]}
+{"index": 303728, "D": "stentorian. ", "S": ["biting", "blaring", "earsplitting", "fierce", "high-pitched", "painful", "penetrating", "shrill"], "A": ["calm", "kind", "pleasant"]}

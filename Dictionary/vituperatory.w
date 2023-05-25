@@ -1,1 +1,1 @@
-{"index": 360700, "D": [], "S": ["defamatory ", "indecent ", "insulting ", "lewd ", "obscene ", "offending ", "outrageous ", "salacious ", "scandalous ", "slanderous "], "A": ["clean ", "decent ", "moral ", "pure "]}
+{"index": 360700, "D": [], "S": ["defamatory", "indecent", "insulting", "lewd", "obscene", "offending", "outrageous", "salacious", "scandalous", "slanderous"], "A": ["clean", "decent", "moral", "pure"]}

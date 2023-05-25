@@ -1,1 +1,1 @@
-{"index": 316483, "D": "any of several large, hairy spiders of the family Theraphosidae, as Aphonopelma chalcodes, of the southwestern U.S., having a painful but not highly venomous bite.", "S": ["harvestman ", "mite ", "scorpion ", "tick "], "A": []}
+{"index": 316483, "D": "any of several large, hairy spiders of the family Theraphosidae, as Aphonopelma chalcodes, of the southwestern U.S., having a painful but not highly venomous bite.", "S": ["harvestman", "mite", "scorpion", "tick"], "A": []}

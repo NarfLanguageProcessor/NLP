@@ -1,1 +1,1 @@
-{"index": 93121, "D": "suitable for drinking. ", "S": ["beverage ", "libation ", "liquor ", "potation ", "refreshment "], "A": []}
+{"index": 93121, "D": "suitable for drinking. ", "S": ["beverage", "libation", "liquor", "potation", "refreshment"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 282637, "D": "toward the sea", "S": ["asea "], "A": ["onshore "]}
+{"index": 282637, "D": "toward the sea", "S": ["asea"], "A": ["onshore"]}

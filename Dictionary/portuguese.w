@@ -1,1 +1,1 @@
-{"index": 243742, "D": "of, relating to, or characteristic of Portugal, its inhabitants, or their language.", "S": ["Catalan ", "Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Provencal ", "Spanish ", "insular "], "A": []}
+{"index": 243742, "D": "of, relating to, or characteristic of Portugal, its inhabitants, or their language.", "S": ["Catalan", "Continental", "French", "Indo-European language", "Italian", "Italic language", "Latin", "Provencal", "Spanish", "insular"], "A": []}

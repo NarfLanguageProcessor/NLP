@@ -1,1 +1,1 @@
-{"index": 274630, "D": "a person or thing that rotates.", "S": ["hand-turned wheel ", "kick wheel ", "pedal wheel ", "power wheel ", "wheel "], "A": []}
+{"index": 274630, "D": "a person or thing that rotates.", "S": ["hand-turned wheel", "kick wheel", "pedal wheel", "power wheel", "wheel"], "A": []}

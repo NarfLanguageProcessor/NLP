@@ -1,1 +1,1 @@
-{"index": 198677, "D": "patronage bestowed or favoritism shown on the basis of family relationship, as in business and politics", "S": ["bias ", "discrimination ", "inequity ", "partisanship "], "A": ["fairness "]}
+{"index": 198677, "D": "patronage bestowed or favoritism shown on the basis of family relationship, as in business and politics", "S": ["bias", "discrimination", "inequity", "partisanship"], "A": ["fairness"]}

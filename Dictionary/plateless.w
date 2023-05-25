@@ -1,1 +1,0 @@
-{"index": 239325, "D": "a shallow, usually circular dish, often of earthenware or porcelain, from which food is eaten.", "S": [], "A": []}

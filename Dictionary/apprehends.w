@@ -1,1 +1,1 @@
-{"index": 17927, "D": "to take into custody; arrest by legal warrant or authority", "S": ["bust ", "capture ", "seize "], "A": ["free ", "let go ", "liberate ", "release ", "lose "]}
+{"index": 17927, "D": "to take into custody; arrest by legal warrant or authority", "S": ["bust", "capture", "seize"], "A": ["free", "let go", "liberate", "release", "lose"]}

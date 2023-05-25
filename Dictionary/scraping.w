@@ -1,1 +1,1 @@
-{"index": 281584, "D": "the act of a person or thing that scrapes. ", "S": ["flattering "], "A": ["aloof ", "cool ", "disinterested ", "proud ", "unfriendly "]}
+{"index": 281584, "D": "the act of a person or thing that scrapes. ", "S": ["flattering"], "A": ["aloof", "cool", "disinterested", "proud", "unfriendly"]}

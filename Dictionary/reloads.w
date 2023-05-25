@@ -1,1 +1,1 @@
-{"index": 267025, "D": "anything put in or on something for conveyance or transportation; freight; cargo", "S": ["refill ", "refresh ", "restock ", "restore "], "A": ["damage "]}
+{"index": 267025, "D": "anything put in or on something for conveyance or transportation; freight; cargo", "S": ["refill", "refresh", "restock", "restore"], "A": ["damage"]}

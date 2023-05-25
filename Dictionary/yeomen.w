@@ -1,1 +1,1 @@
-{"index": 146888, "D": "a petty officer in a navy, having chiefly clerical duties in the U.S. Navy.", "S": ["assistant ", "attendant ", "churl ", "clerk ", "commoner ", "farmer ", "freeholder ", "servant ", "subordinate "], "A": ["boss ", "manager ", "master "]}
+{"index": 146888, "D": "a petty officer in a navy, having chiefly clerical duties in the U.S. Navy.", "S": ["assistant", "attendant", "churl", "clerk", "commoner", "farmer", "freeholder", "servant", "subordinate"], "A": ["boss", "manager", "master"]}

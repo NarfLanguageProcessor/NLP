@@ -1,1 +1,0 @@
-{"index": 368846, "D": "a Greek island, off the W coast of Greece", "S": [], "A": []}

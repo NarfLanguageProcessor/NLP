@@ -1,1 +1,1 @@
-{"index": 67977, "D": "conventional  quality or character.", "S": ["obedience "], "A": ["disagreement ", "resistance "]}
+{"index": 67977, "D": "conventional  quality or character.", "S": ["obedience"], "A": ["disagreement", "resistance"]}

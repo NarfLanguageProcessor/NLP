@@ -1,1 +1,1 @@
-{"index": 90162, "D": "Compare ditto mark. ", "S": ["ape ", "look like ", "mirror ", "resemble ", "simulate "], "A": ["direct ", "fail ", "halt ", "idle ", "prevent ", "stop "]}
+{"index": 90162, "D": "Compare ditto mark. ", "S": ["ape", "look like", "mirror", "resemble", "simulate"], "A": ["direct", "fail", "halt", "idle", "prevent", "stop"]}

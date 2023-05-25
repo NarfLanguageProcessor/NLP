@@ -1,1 +1,1 @@
-{"index": 77928, "D": "a polygon having ten angles and ten sides.", "S": ["decimal "], "A": []}
+{"index": 77928, "D": "a polygon having ten angles and ten sides.", "S": ["decimal"], "A": []}

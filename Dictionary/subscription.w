@@ -1,1 +1,1 @@
-{"index": 309075, "D": "a sum of money given or pledged as a contribution, payment, investment, etc.", "S": ["contribution "], "A": ["disagreement ", "disapproval ", "opposition ", "refusal "]}
+{"index": 309075, "D": "a sum of money given or pledged as a contribution, payment, investment, etc.", "S": ["contribution"], "A": ["disagreement", "disapproval", "opposition", "refusal"]}

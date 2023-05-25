@@ -1,1 +1,1 @@
-{"index": 240883, "D": "a chamber pot.", "S": ["collection ", "delivery ", "mail "], "A": []}
+{"index": 240883, "D": "a chamber pot.", "S": ["collection", "delivery", "mail"], "A": []}

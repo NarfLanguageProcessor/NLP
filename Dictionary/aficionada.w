@@ -1,0 +1,1 @@
+{"index": 5531, "D": "a woman who is an ardent devotee; fan; enthusiast.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 364611, "D": "ridged like the shell of a snail", "S": ["barred ", "grooved ", "marked ", "ridged ", "striate ", "striated ", "striped ", "tore ", "variegated ", "veined "], "A": []}
+{"index": 364611, "D": "ridged like the shell of a snail", "S": ["barred", "grooved", "marked", "ridged", "striate", "striated", "striped", "tore", "variegated", "veined"], "A": []}

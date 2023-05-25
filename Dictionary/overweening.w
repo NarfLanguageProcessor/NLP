@@ -1,1 +1,1 @@
-{"index": 221810, "D": "presumptuously conceited, overconfident, or proud", "S": ["brash ", "cavalier ", "conceited ", "egotistical ", "haughty ", "highhanded ", "insolent ", "lordly ", "pompous ", "presumptuous ", "pushy ", "supercilious ", "vain "], "A": ["modest ", "unassuming "]}
+{"index": 221810, "D": "presumptuously conceited, overconfident, or proud", "S": ["brash", "cavalier", "conceited", "egotistical", "haughty", "highhanded", "insolent", "lordly", "pompous", "presumptuous", "pushy", "supercilious", "vain"], "A": ["modest", "unassuming"]}

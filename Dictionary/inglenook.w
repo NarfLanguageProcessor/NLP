@@ -1,1 +1,1 @@
-{"index": 152503, "D": "a corner or nook  near a fireplace; chimney corner.", "S": ["chimney ", "furnace ", "stove "], "A": []}
+{"index": 152503, "D": "a corner or nook  near a fireplace; chimney corner.", "S": ["chimney", "furnace", "stove"], "A": []}

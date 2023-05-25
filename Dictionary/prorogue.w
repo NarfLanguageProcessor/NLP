@@ -1,1 +1,1 @@
-{"index": 252952, "D": "to discontinue a session of (the British Parliament or a similar body).", "S": ["defer ", "delay ", "discontinue ", "postpone ", "put off ", "recess ", "shelve ", "suspend "], "A": ["advance ", "carry out ", "continue ", "do ", "expedite ", "forward ", "hasten ", "hurry "]}
+{"index": 252952, "D": "to discontinue a session of (the British Parliament or a similar body).", "S": ["defer", "delay", "discontinue", "postpone", "put off", "recess", "shelve", "suspend"], "A": ["advance", "carry out", "continue", "do", "expedite", "forward", "hasten", "hurry"]}

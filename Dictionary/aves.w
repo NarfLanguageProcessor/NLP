@@ -1,1 +1,1 @@
-{"index": 24718, "D": "a class of vertebrates comprising the birds.", "S": ["Ave Maria ", "Hail Mary pass ", "Hail Mary play ", "last-minute pass "], "A": []}
+{"index": 24718, "D": "a class of vertebrates comprising the birds.", "S": ["Ave Maria", "Hail Mary pass", "Hail Mary play", "last-minute pass"], "A": []}

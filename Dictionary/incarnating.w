@@ -1,1 +1,1 @@
-{"index": 149718, "D": "embodied in flesh; given a bodily, especially a human, form", "S": ["demonstrate ", "embody ", "illustrate ", "prove ", "reveal ", "signify "], "A": ["conceal ", "hide ", "contradict ", "cover ", "deny ", "destroy ", "disprove ", "invalidate ", "veto "]}
+{"index": 149718, "D": "embodied in flesh; given a bodily, especially a human, form", "S": ["demonstrate", "embody", "illustrate", "prove", "reveal", "signify"], "A": ["conceal", "hide", "contradict", "cover", "deny", "destroy", "disprove", "invalidate", "veto"]}

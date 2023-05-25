@@ -1,1 +1,1 @@
-{"index": 113159, "D": "a person who fights destructive fires. ", "S": ["engineman ", "ladderman ", "smoke jumper "], "A": []}
+{"index": 113159, "D": "a person who fights destructive fires. ", "S": ["engineman", "ladderman", "smoke jumper"], "A": []}

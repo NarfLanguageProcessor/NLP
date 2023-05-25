@@ -1,1 +1,1 @@
-{"index": 74060, "D": "cathode-ray tube. ", "S": ["monitor "], "A": []}
+{"index": 74060, "D": "cathode-ray tube. ", "S": ["monitor"], "A": []}

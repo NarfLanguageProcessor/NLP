@@ -1,1 +1,1 @@
-{"index": 176158, "D": "of or relating to the moon", "S": ["moony "], "A": []}
+{"index": 176158, "D": "of or relating to the moon", "S": ["moony"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 322555, "D": "interwoven or ornamented with threads", "S": ["fortify ", "interweave ", "mix ", "spike ", "strap "], "A": ["detach ", "disconnect ", "disjoin ", "disunite ", "loose ", "loosen ", "release ", "remove ", "unfasten ", "untie "]}
+{"index": 322555, "D": "interwoven or ornamented with threads", "S": ["fortify", "interweave", "mix", "spike", "strap"], "A": ["detach", "disconnect", "disjoin", "disunite", "loose", "loosen", "release", "remove", "unfasten", "untie"]}

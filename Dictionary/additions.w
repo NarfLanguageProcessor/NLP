@@ -1,1 +1,1 @@
-{"index": 3558, "D": "the act or process of adding  or uniting.", "S": ["adornments ", "attachments ", "decorations ", "doodads ", "embellishments ", "extras ", "frills ", "ornaments ", "trimmings "], "A": []}
+{"index": 3558, "D": "the act or process of adding  or uniting.", "S": ["adornments", "attachments", "decorations", "doodads", "embellishments", "extras", "frills", "ornaments", "trimmings"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 10350, "D": "a purple or violet quartz, used as a gem.", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}
+{"index": 10350, "D": "a purple or violet quartz, used as a gem.", "S": ["color", "lavender", "lilac", "mauve", "periwinkle", "plum", "violet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 157331, "D": "curving or curling inward.", "S": ["hilly ", "undulating "], "A": []}
+{"index": 157331, "D": "curving or curling inward.", "S": ["hilly", "undulating"], "A": []}

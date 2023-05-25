@@ -1,1 +1,1 @@
-{"index": 153208, "D": "not opportune; inappropriate; inconvenient; untimely or unseasonable", "S": ["awkwardly ", "ineptly ", "unsuitably "], "A": ["appropriately ", "favorably ", "fortunately ", "happily ", "luckily "]}
+{"index": 153208, "D": "not opportune; inappropriate; inconvenient; untimely or unseasonable", "S": ["awkwardly", "ineptly", "unsuitably"], "A": ["appropriately", "favorably", "fortunately", "happily", "luckily"]}

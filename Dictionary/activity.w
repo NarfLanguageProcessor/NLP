@@ -1,1 +1,1 @@
-{"index": 3265, "D": "the state or quality of being active", "S": ["action ", "enterprise ", "exercise ", "life ", "movement "], "A": ["cessation ", "idleness ", "inaction ", "inactivity ", "stoppage ", "laziness "]}
+{"index": 3265, "D": "the state or quality of being active", "S": ["action", "enterprise", "exercise", "life", "movement"], "A": ["cessation", "idleness", "inaction", "inactivity", "stoppage", "laziness"]}

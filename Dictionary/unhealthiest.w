@@ -1,1 +1,1 @@
-{"index": 343597, "D": "not in a state of good or normal health; in an unsound, weak, or morbid condition.", "S": ["delicate ", "unsound "], "A": ["strong "]}
+{"index": 343597, "D": "not in a state of good or normal health; in an unsound, weak, or morbid condition.", "S": ["delicate", "unsound"], "A": ["strong"]}

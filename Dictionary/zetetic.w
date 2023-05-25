@@ -1,1 +1,1 @@
-{"index": 369134, "D": "believing in or based on the theory that the earth is a flat plane and the sun, moon, and other heavenly bodies are only a few thousand feet above it", "S": ["cynic ", "questioner ", "skeptic "], "A": ["believer "]}
+{"index": 369134, "D": "believing in or based on the theory that the earth is a flat plane and the sun, moon, and other heavenly bodies are only a few thousand feet above it", "S": ["cynic", "questioner", "skeptic"], "A": ["believer"]}

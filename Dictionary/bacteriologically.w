@@ -1,0 +1,1 @@
+{"index": 26087, "D": "a branch of microbiology dealing with the identification, study, and cultivation of bacteria and with their applications in medicine, agriculture, industry, and biotechnology.", "S": [], "A": []}

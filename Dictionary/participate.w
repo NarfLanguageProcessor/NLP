@@ -1,1 +1,1 @@
-{"index": 227015, "D": "to take or have a part or share, as with others; partake; share (usually followed by in)", "S": ["aid ", "compete ", "cooperate ", "engage ", "engage in ", "perform ", "play ", "share "], "A": ["block ", "direct ", "hinder ", "impede ", "obstruct ", "prevent ", "stop "]}
+{"index": 227015, "D": "to take or have a part or share, as with others; partake; share (usually followed by in)", "S": ["aid", "compete", "cooperate", "engage", "engage in", "perform", "play", "share"], "A": ["block", "direct", "hinder", "impede", "obstruct", "prevent", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 50251, "D": "any hollow place; hollow.", "S": ["crater "], "A": ["bulge ", "closure ", "mountain ", "solid "]}
+{"index": 50251, "D": "any hollow place; hollow.", "S": ["crater"], "A": ["bulge", "closure", "mountain", "solid"]}

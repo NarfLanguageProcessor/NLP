@@ -1,1 +1,1 @@
-{"index": 17844, "D": "by, through, or as a result of an appointment  (often in contrast with elected)", "S": ["selected "], "A": ["elected "]}
+{"index": 17844, "D": "by, through, or as a result of an appointment  (often in contrast with elected)", "S": ["selected"], "A": ["elected"]}

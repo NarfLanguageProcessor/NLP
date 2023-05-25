@@ -1,1 +1,1 @@
-{"index": 103180, "D": "as great as; the same as (often followed by to or with)", "S": ["equivalent "], "A": ["difference ", "opposite ", "original "]}
+{"index": 103180, "D": "as great as; the same as (often followed by to or with)", "S": ["equivalent"], "A": ["difference", "opposite", "original"]}

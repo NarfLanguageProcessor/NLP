@@ -1,1 +1,1 @@
-{"index": 227897, "D": "an estate inherited from one's father or ancestors.", "S": ["ancestry ", "endowment ", "estate ", "heritage ", "legacy "], "A": []}
+{"index": 227897, "D": "an estate inherited from one's father or ancestors.", "S": ["ancestry", "endowment", "estate", "heritage", "legacy"], "A": []}

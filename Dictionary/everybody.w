@@ -1,1 +1,1 @@
-{"index": 106159, "D": "every person.", "S": ["all ", "all and sundry ", "anybody ", "each one ", "each person ", "every person ", "generality ", "masses ", "people ", "populace ", "the public ", "the whole ", "young and old "], "A": []}
+{"index": 106159, "D": "every person.", "S": ["all", "all and sundry", "anybody", "each one", "each person", "every person", "generality", "masses", "people", "populace", "the public", "the whole", "young and old"], "A": []}

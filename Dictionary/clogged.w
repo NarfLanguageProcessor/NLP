@@ -1,1 +1,1 @@
-{"index": 60330, "D": "to hinder or obstruct with thick or sticky matter; choke up", "S": ["blocked ", "obstructed ", "plugged "], "A": []}
+{"index": 60330, "D": "to hinder or obstruct with thick or sticky matter; choke up", "S": ["blocked", "obstructed", "plugged"], "A": []}

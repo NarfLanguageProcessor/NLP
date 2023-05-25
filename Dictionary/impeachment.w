@@ -1,1 +1,1 @@
-{"index": 148382, "D": "the impeaching  of a public official before an appropriate tribunal.", "S": ["allegation ", "complaint ", "denunciation ", "indictment ", "recrimination "], "A": ["approval ", "commendation ", "praise ", "compliment ", "flattery "]}
+{"index": 148382, "D": "the impeaching  of a public official before an appropriate tribunal.", "S": ["allegation", "complaint", "denunciation", "indictment", "recrimination"], "A": ["approval", "commendation", "praise", "compliment", "flattery"]}

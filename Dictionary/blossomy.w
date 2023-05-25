@@ -1,1 +1,1 @@
-{"index": 36546, "D": "the flower of a plant, especially of one producing an edible fruit.", "S": ["decorative "], "A": []}
+{"index": 36546, "D": "the flower of a plant, especially of one producing an edible fruit.", "S": ["decorative"], "A": []}

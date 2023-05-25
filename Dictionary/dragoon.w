@@ -1,1 +1,1 @@
-{"index": 92584, "D": "(especially formerly) a European cavalryman of a heavily armed troop.", "S": ["broncobuster ", "buckaroo ", "cavalryman ", "cowboy ", "equerry ", "equestrian ", "gaucho ", "jockey ", "postilion ", "pricker ", "roughrider "], "A": []}
+{"index": 92584, "D": "(especially formerly) a European cavalryman of a heavily armed troop.", "S": ["broncobuster", "buckaroo", "cavalryman", "cowboy", "equerry", "equestrian", "gaucho", "jockey", "postilion", "pricker", "roughrider"], "A": []}

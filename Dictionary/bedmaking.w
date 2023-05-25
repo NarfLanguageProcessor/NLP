@@ -1,1 +1,1 @@
-{"index": 30129, "D": "a person who makes up beds. ", "S": ["housekeeping ", "sewing "], "A": []}
+{"index": 30129, "D": "a person who makes up beds. ", "S": ["housekeeping", "sewing"], "A": []}

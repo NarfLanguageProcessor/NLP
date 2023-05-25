@@ -1,1 +1,1 @@
-{"index": 123124, "D": "the valley of Hinnom, near Jerusalem, where propitiatory sacrifices were made to Moloch. 2 Kings 23", "S": ["inferno ", "misery ", "nightmare ", "purgatory "], "A": ["comfort ", "contentment ", "happiness ", "health ", "joy ", "peace ", "pleasure "]}
+{"index": 123124, "D": "the valley of Hinnom, near Jerusalem, where propitiatory sacrifices were made to Moloch. 2 Kings 23", "S": ["inferno", "misery", "nightmare", "purgatory"], "A": ["comfort", "contentment", "happiness", "health", "joy", "peace", "pleasure"]}

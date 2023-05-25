@@ -1,1 +1,1 @@
-{"index": 110871, "D": "the act of a person or thing that feeds. ", "S": ["grass ", "grazing ", "meadow "], "A": []}
+{"index": 110871, "D": "the act of a person or thing that feeds. ", "S": ["grass", "grazing", "meadow"], "A": []}

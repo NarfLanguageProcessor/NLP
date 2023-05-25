@@ -1,1 +1,1 @@
-{"index": 351127, "D": "an unsigned typewritten note", "S": ["nameless ", "undisclosed ", "unidentified ", "unnamed "], "A": ["known ", "named "]}
+{"index": 351127, "D": "an unsigned typewritten note", "S": ["nameless", "undisclosed", "unidentified", "unnamed"], "A": ["known", "named"]}

@@ -1,1 +1,1 @@
-{"index": 197322, "D": "neatly or trimly smart in dress or appearance; spruce", "S": ["freshness ", "purity ", "sanitation "], "A": ["dirtiness ", "filth ", "griminess "]}
+{"index": 197322, "D": "neatly or trimly smart in dress or appearance; spruce", "S": ["freshness", "purity", "sanitation"], "A": ["dirtiness", "filth", "griminess"]}

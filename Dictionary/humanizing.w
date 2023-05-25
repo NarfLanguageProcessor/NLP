@@ -1,1 +1,1 @@
-{"index": 144884, "D": "to make humane,  kind, or gentle.", "S": ["refining ", "uplifting "], "A": []}
+{"index": 144884, "D": "to make humane,  kind, or gentle.", "S": ["refining", "uplifting"], "A": []}

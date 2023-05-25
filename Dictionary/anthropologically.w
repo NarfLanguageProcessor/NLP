@@ -1,1 +1,1 @@
-{"index": 14584, "D": "the science that deals with the origins, physical and cultural development, biological characteristics, and social customs and beliefs of humankind.", "S": ["culturally ", "philosophically ", "politically ", "psychologically "], "A": []}
+{"index": 14584, "D": "the science that deals with the origins, physical and cultural development, biological characteristics, and social customs and beliefs of humankind.", "S": ["culturally", "philosophically", "politically", "psychologically"], "A": []}

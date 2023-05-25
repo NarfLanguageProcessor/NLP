@@ -1,1 +1,1 @@
-{"index": 249407, "D": "to keep alive or in existence; make lasting", "S": ["gelatin ", "jelly ", "marmalade "], "A": []}
+{"index": 249407, "D": "to keep alive or in existence; make lasting", "S": ["gelatin", "jelly", "marmalade"], "A": []}

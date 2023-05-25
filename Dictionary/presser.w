@@ -1,1 +1,1 @@
-{"index": 249571, "D": "a person or thing that presses  or applies pressure.", "S": ["abound ", "annoy ", "assail ", "beset ", "crowd ", "defile ", "fill ", "infect ", "invade ", "overspread ", "overwhelm ", "pester ", "plague ", "swarm ", "teem ", "worry "], "A": []}
+{"index": 249571, "D": "a person or thing that presses  or applies pressure.", "S": ["abound", "annoy", "assail", "beset", "crowd", "defile", "fill", "infect", "invade", "overspread", "overwhelm", "pester", "plague", "swarm", "teem", "worry"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 133118, "D": "a small cart  drawn or pushed by hand. ", "S": ["rickshaw ", "truck ", "wagon "], "A": []}
+{"index": 133118, "D": "a small cart  drawn or pushed by hand. ", "S": ["rickshaw", "truck", "wagon"], "A": []}

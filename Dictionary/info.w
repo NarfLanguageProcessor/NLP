@@ -1,1 +1,1 @@
-{"index": 152193, "D": "information. ", "S": ["conversation ", "information ", "intelligence "], "A": ["ignorance ", "question ", "quiet ", "secret ", "silence "]}
+{"index": 152193, "D": "information. ", "S": ["conversation", "information", "intelligence"], "A": ["ignorance", "question", "quiet", "secret", "silence"]}

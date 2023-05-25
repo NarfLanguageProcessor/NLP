@@ -1,1 +1,1 @@
-{"index": 112735, "D": "of, relating to, or characteristic of motion pictures", "S": ["cinematic ", "pictorial ", "visual ", "vivid "], "A": []}
+{"index": 112735, "D": "of, relating to, or characteristic of motion pictures", "S": ["cinematic", "pictorial", "visual", "vivid"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 151073, "D": "not discreet; lacking prudence, good judgment, or circumspection", "S": ["error ", "gaffe ", "lapse ", "miscue ", "misjudgment ", "recklessness "], "A": ["correction ", "judgment ", "seriousness ", "thoughtfulness ", "wisdom "]}
+{"index": 151073, "D": "not discreet; lacking prudence, good judgment, or circumspection", "S": ["error", "gaffe", "lapse", "miscue", "misjudgment", "recklessness"], "A": ["correction", "judgment", "seriousness", "thoughtfulness", "wisdom"]}

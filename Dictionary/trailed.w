@@ -1,1 +1,1 @@
-{"index": 327412, "D": "to drag or let drag along the ground or other surface; draw or drag along behind.", "S": ["chased ", "dogged ", "followed ", "hounded ", "outlawed ", "stalked ", "tailed ", "tracked ", "wanted "], "A": []}
+{"index": 327412, "D": "to drag or let drag along the ground or other surface; draw or drag along behind.", "S": ["chased", "dogged", "followed", "hounded", "outlawed", "stalked", "tailed", "tracked", "wanted"], "A": []}

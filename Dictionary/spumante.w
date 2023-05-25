@@ -1,1 +1,1 @@
-{"index": 301451, "D": "any sparkling wine.", "S": ["carbonated ", "effervescent "], "A": ["dull ", "flat ", "listless ", "still "]}
+{"index": 301451, "D": "any sparkling wine.", "S": ["carbonated", "effervescent"], "A": ["dull", "flat", "listless", "still"]}

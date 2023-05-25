@@ -1,1 +1,1 @@
-{"index": 33432, "D": "arguing petulantly or peevishly; wrangling or quarreling", "S": ["conflicting ", "differing ", "fighting ", "squabbling "], "A": []}
+{"index": 33432, "D": "arguing petulantly or peevishly; wrangling or quarreling", "S": ["conflicting", "differing", "fighting", "squabbling"], "A": []}

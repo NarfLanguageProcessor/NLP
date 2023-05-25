@@ -1,1 +1,1 @@
-{"index": 230478, "D": "to strike or tap for diagnostic or therapeutic purposes.", "S": ["blip ", "blow ", "pat ", "punch ", "whack "], "A": []}
+{"index": 230478, "D": "to strike or tap for diagnostic or therapeutic purposes.", "S": ["blip", "blow", "pat", "punch", "whack"], "A": []}

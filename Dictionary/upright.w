@@ -1,1 +1,1 @@
-{"index": 354927, "D": "erect or vertical, as in position or posture.", "S": ["erect ", "perpendicular ", "vertical "], "A": ["horizontal ", "level ", "sitting "]}
+{"index": 354927, "D": "erect or vertical, as in position or posture.", "S": ["erect", "perpendicular", "vertical"], "A": ["horizontal", "level", "sitting"]}

@@ -1,1 +1,0 @@
-{"index": 323847, "D": "a padlike device interposed between the platen or its equivalent and the sheet to be printed, in order to soften and equalize the pressure.", "S": [], "A": []}

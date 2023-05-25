@@ -1,1 +1,1 @@
-{"index": 101347, "D": "a project undertaken or to be undertaken, especially one that is important or difficult or that requires boldness or energy", "S": ["activity ", "business ", "company ", "firm ", "operation ", "program ", "project ", "trade ", "venture "], "A": ["pastime "]}
+{"index": 101347, "D": "a project undertaken or to be undertaken, especially one that is important or difficult or that requires boldness or energy", "S": ["activity", "business", "company", "firm", "operation", "program", "project", "trade", "venture"], "A": ["pastime"]}

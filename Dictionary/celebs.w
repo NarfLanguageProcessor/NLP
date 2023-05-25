@@ -1,1 +1,1 @@
-{"index": 50469, "D": "a celebrity.", "S": ["celebrity ", "dignitary ", "notable ", "personage ", "superstar "], "A": ["nobody "]}
+{"index": 50469, "D": "a celebrity.", "S": ["celebrity", "dignitary", "notable", "personage", "superstar"], "A": ["nobody"]}

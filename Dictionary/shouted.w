@@ -1,1 +1,1 @@
-{"index": 289006, "D": "to call or cry out loudly and vigorously.", "S": ["call out ", "cheer ", "clamor ", "exclaim ", "holler ", "roar ", "scream ", "screech ", "shriek ", "whoop ", "yell "], "A": ["be quiet "]}
+{"index": 289006, "D": "to call or cry out loudly and vigorously.", "S": ["call out", "cheer", "clamor", "exclaim", "holler", "roar", "scream", "screech", "shriek", "whoop", "yell"], "A": ["be quiet"]}

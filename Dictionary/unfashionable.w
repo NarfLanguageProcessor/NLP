@@ -1,1 +1,1 @@
-{"index": 342019, "D": "dull unfashionable clothes; an unfashionable view", "S": ["outdated ", "pass\u00e9 ", "tacky "], "A": ["chic ", "elegant ", "fashionable ", "mod ", "stylish ", "trendy ", "up-to-date "]}
+{"index": 342019, "D": "dull unfashionable clothes; an unfashionable view", "S": ["outdated", "pass\u00e9", "tacky"], "A": ["chic", "elegant", "fashionable", "mod", "stylish", "trendy", "up-to-date"]}

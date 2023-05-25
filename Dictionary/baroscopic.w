@@ -1,1 +1,1 @@
-{"index": 28230, "D": "an instrument showing roughly the variations in atmospheric pressure.", "S": ["climatic ", "meteorological "], "A": ["down-to-earth ", "grounded "]}
+{"index": 28230, "D": "an instrument showing roughly the variations in atmospheric pressure.", "S": ["climatic", "meteorological"], "A": ["down-to-earth", "grounded"]}

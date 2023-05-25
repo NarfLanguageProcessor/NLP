@@ -1,1 +1,1 @@
-{"index": 46910, "D": "to write or print in capital letters  letters or with an initial capital letter.", "S": ["exploit ", "take advantage of "], "A": ["forfeit ", "lose "]}
+{"index": 46910, "D": "to write or print in capital letters  letters or with an initial capital letter.", "S": ["exploit", "take advantage of"], "A": ["forfeit", "lose"]}

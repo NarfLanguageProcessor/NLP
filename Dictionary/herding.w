@@ -1,1 +1,1 @@
-{"index": 136980, "D": "a number of animals kept, feeding, or traveling together; drove; flock", "S": ["feeding ", "pasturing ", "ranging "], "A": []}
+{"index": 136980, "D": "a number of animals kept, feeding, or traveling together; drove; flock", "S": ["feeding", "pasturing", "ranging"], "A": []}

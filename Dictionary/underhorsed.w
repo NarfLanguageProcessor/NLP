@@ -1,1 +1,0 @@
-{"index": 339335, "D": "a large, solid-hoofed, herbivorous quadruped, Equus caballus, domesticated since prehistoric times, bred in a number of varieties, and used for carrying or pulling loads, for riding, and for racing.", "S": [], "A": []}

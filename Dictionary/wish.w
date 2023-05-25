@@ -1,1 +1,1 @@
-{"index": 366453, "D": "to want; desire; long for (usually followed by an infinitive or a clause)", "S": ["ambition ", "aspiration ", "choice ", "hope ", "inclination ", "intention ", "longing ", "prayer ", "preference ", "request ", "will ", "yearning "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 366453, "D": "to want; desire; long for (usually followed by an infinitive or a clause)", "S": ["ambition", "aspiration", "choice", "hope", "inclination", "intention", "longing", "prayer", "preference", "request", "will", "yearning"], "A": ["dislike", "hate", "hatred"]}

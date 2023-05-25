@@ -1,1 +1,1 @@
-{"index": 183702, "D": "a heavy, silver-white, highly toxic metallic element, the only one that is liquid at room temperature; quicksilver", "S": ["earth "], "A": []}
+{"index": 183702, "D": "a heavy, silver-white, highly toxic metallic element, the only one that is liquid at room temperature; quicksilver", "S": ["earth"], "A": []}

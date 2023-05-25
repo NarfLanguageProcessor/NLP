@@ -1,1 +1,1 @@
-{"index": 322892, "D": "to push forcibly; shove; put or drive with force", "S": ["core ", "gist ", "upshot "], "A": ["pull "]}
+{"index": 322892, "D": "to push forcibly; shove; put or drive with force", "S": ["core", "gist", "upshot"], "A": ["pull"]}

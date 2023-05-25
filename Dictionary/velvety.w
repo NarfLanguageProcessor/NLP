@@ -1,1 +1,1 @@
-{"index": 357905, "D": "suggestive of or resembling velvet;  smooth; soft", "S": ["creamed ", "fluffy ", "gooey ", "greasy ", "luscious ", "lush ", "milky ", "oily ", "rich ", "soft "], "A": ["dry ", "poor ", "rough "]}
+{"index": 357905, "D": "suggestive of or resembling velvet;  smooth; soft", "S": ["creamed", "fluffy", "gooey", "greasy", "luscious", "lush", "milky", "oily", "rich", "soft"], "A": ["dry", "poor", "rough"]}

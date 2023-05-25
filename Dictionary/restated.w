@@ -1,1 +1,1 @@
-{"index": 269873, "D": "to state  again or in a new way.", "S": ["echoed ", "paraphrased ", "quoted ", "recapitulated ", "recited ", "rehashed ", "reiterated ", "retold "], "A": []}
+{"index": 269873, "D": "to state  again or in a new way.", "S": ["echoed", "paraphrased", "quoted", "recapitulated", "recited", "rehashed", "reiterated", "retold"], "A": []}

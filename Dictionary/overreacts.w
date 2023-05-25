@@ -1,1 +1,1 @@
-{"index": 220790, "D": "to react  or respond more strongly than is necessary or appropriate.", "S": ["lose it ", "scare "], "A": ["calm "]}
+{"index": 220790, "D": "to react  or respond more strongly than is necessary or appropriate.", "S": ["lose it", "scare"], "A": ["calm"]}

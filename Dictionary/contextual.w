@@ -1,1 +1,1 @@
-{"index": 67424, "D": "of, relating to, or depending on the context. ", "S": ["circumstantial ", "dependent "], "A": ["unrelated "]}
+{"index": 67424, "D": "of, relating to, or depending on the context. ", "S": ["circumstantial", "dependent"], "A": ["unrelated"]}

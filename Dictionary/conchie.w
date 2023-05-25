@@ -1,1 +1,1 @@
-{"index": 65265, "D": "informal short for conscientious objector", "S": ["C.O. ", "nonviolent person ", "peacenik ", "war-hater "], "A": []}
+{"index": 65265, "D": "informal short for conscientious objector", "S": ["C.O.", "nonviolent person", "peacenik", "war-hater"], "A": []}

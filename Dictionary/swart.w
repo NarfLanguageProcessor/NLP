@@ -1,1 +1,1 @@
-{"index": 314129, "D": "swarthy. ", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}
+{"index": 314129, "D": "swarthy. ", "S": ["sunless", "unlighted", "unlit"], "A": ["bright", "sunny"]}

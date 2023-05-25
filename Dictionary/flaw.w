@@ -1,1 +1,1 @@
-{"index": 114244, "D": "a feature that mars the perfection of something; defect; fault", "S": ["blemish ", "bug ", "defect ", "failing ", "fault ", "foible ", "glitch ", "pitfall ", "weakness "], "A": ["advantage ", "blessing ", "perfection ", "strength ", "strong point "]}
+{"index": 114244, "D": "a feature that mars the perfection of something; defect; fault", "S": ["blemish", "bug", "defect", "failing", "fault", "foible", "glitch", "pitfall", "weakness"], "A": ["advantage", "blessing", "perfection", "strength", "strong point"]}

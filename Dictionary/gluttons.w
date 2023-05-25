@@ -1,1 +1,1 @@
-{"index": 127002, "D": "a person who eats and drinks excessively or voraciously.", "S": ["gorger ", "gourmand ", "hog ", "pig ", "stuffer "], "A": []}
+{"index": 127002, "D": "a person who eats and drinks excessively or voraciously.", "S": ["gorger", "gourmand", "hog", "pig", "stuffer"], "A": []}

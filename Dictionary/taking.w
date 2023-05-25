@@ -1,1 +1,1 @@
-{"index": 315515, "D": "the act of a person or thing that takes. ", "S": ["catching ", "pandemic "], "A": []}
+{"index": 315515, "D": "the act of a person or thing that takes. ", "S": ["catching", "pandemic"], "A": []}

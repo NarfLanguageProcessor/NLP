@@ -1,1 +1,1 @@
-{"index": 192565, "D": "Compare duopoly, oligopoly. ", "S": ["cartel ", "holding ", "ownership ", "patent ", "trust "], "A": ["distribution ", "scattering ", "sharing "]}
+{"index": 192565, "D": "Compare duopoly, oligopoly. ", "S": ["cartel", "holding", "ownership", "patent", "trust"], "A": ["distribution", "scattering", "sharing"]}

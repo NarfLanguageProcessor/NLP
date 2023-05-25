@@ -1,1 +1,1 @@
-{"index": 256961, "D": "strict observance of or insistence on purity in language, style, etc.", "S": ["circumlocution ", "delicacy ", "floridness ", "grandiloquence ", "inflation ", "pomposity ", "pretense "], "A": []}
+{"index": 256961, "D": "strict observance of or insistence on purity in language, style, etc.", "S": ["circumlocution", "delicacy", "floridness", "grandiloquence", "inflation", "pomposity", "pretense"], "A": []}

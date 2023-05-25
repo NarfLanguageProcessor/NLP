@@ -1,1 +1,1 @@
-{"index": 164781, "D": "material that can be readily ignited, used in starting a fire.", "S": ["coals ", "firewood ", "lightwood ", "tinder ", "twigs ", "wood "], "A": []}
+{"index": 164781, "D": "material that can be readily ignited, used in starting a fire.", "S": ["coals", "firewood", "lightwood", "tinder", "twigs", "wood"], "A": []}

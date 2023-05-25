@@ -1,1 +1,1 @@
-{"index": 209539, "D": "deprived of physical sensation or the ability to move", "S": ["dazed ", "indifferent "], "A": ["compassionate ", "sympathetic "]}
+{"index": 209539, "D": "deprived of physical sensation or the ability to move", "S": ["dazed", "indifferent"], "A": ["compassionate", "sympathetic"]}

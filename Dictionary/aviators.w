@@ -1,1 +1,1 @@
-{"index": 24753, "D": "a pilot of an airplane or other heavier-than-air aircraft.", "S": ["flier ", "navigator ", "pilot "], "A": []}
+{"index": 24753, "D": "a pilot of an airplane or other heavier-than-air aircraft.", "S": ["flier", "navigator", "pilot"], "A": []}

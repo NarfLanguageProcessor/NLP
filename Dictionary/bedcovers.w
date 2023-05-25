@@ -1,0 +1,1 @@
+{"index": 30004, "D": "a bedspread.", "S": ["blanket", "counterpane", "cover", "coverlet", "spread"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 363092, "D": "a tower  on which a sentinel keeps watch. ", "S": ["barbican ", "beacon ", "landmark ", "lighthouse ", "observatory "], "A": []}
+{"index": 363092, "D": "a tower  on which a sentinel keeps watch. ", "S": ["barbican", "beacon", "landmark", "lighthouse", "observatory"], "A": []}

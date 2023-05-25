@@ -1,1 +1,1 @@
-{"index": 349756, "D": "not reacting or responding to an action, question, suggestion, etc", "S": ["insensitive ", "passive "], "A": ["responsive "]}
+{"index": 349756, "D": "not reacting or responding to an action, question, suggestion, etc", "S": ["insensitive", "passive"], "A": ["responsive"]}

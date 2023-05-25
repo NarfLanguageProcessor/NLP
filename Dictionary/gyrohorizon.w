@@ -1,1 +1,1 @@
-{"index": 125566, "D": [], "S": ["attitude gyro ", "attitude indicator "], "A": []}
+{"index": 125566, "D": [], "S": ["attitude gyro", "attitude indicator"], "A": []}

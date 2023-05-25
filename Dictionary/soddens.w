@@ -1,1 +1,1 @@
-{"index": 296285, "D": "soaked with liquid or moisture; saturated.", "S": ["drench ", "fertilize ", "inseminate ", "permeate ", "saturate ", "suffuse "], "A": ["dry ", "abort ", "dehydrate ", "destroy ", "kill "]}
+{"index": 296285, "D": "soaked with liquid or moisture; saturated.", "S": ["drench", "fertilize", "inseminate", "permeate", "saturate", "suffuse"], "A": ["dry", "abort", "dehydrate", "destroy", "kill"]}

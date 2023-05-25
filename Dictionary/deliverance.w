@@ -1,1 +1,1 @@
-{"index": 80187, "D": "an act or instance of delivering. ", "S": ["emancipation ", "salvation "], "A": ["hold "]}
+{"index": 80187, "D": "an act or instance of delivering. ", "S": ["emancipation", "salvation"], "A": ["hold"]}

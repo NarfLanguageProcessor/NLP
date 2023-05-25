@@ -1,1 +1,1 @@
-{"index": 114392, "D": "the largest organized unit of naval ships grouped for tactical or other purposes.", "S": ["armada ", "flotilla ", "navy ", "squadron "], "A": []}
+{"index": 114392, "D": "the largest organized unit of naval ships grouped for tactical or other purposes.", "S": ["armada", "flotilla", "navy", "squadron"], "A": []}

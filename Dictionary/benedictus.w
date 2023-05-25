@@ -1,1 +1,1 @@
-{"index": 31535, "D": "the short canticle or hymn beginning in Latin Benedictus qui venit in nomine Domini, and in English \u201cBlessed is he that cometh in the name of the Lord.\u201d", "S": ["invocation "], "A": ["condemnation ", "criticism ", "disapproval ", "disfavor ", "refusal "]}
+{"index": 31535, "D": "the short canticle or hymn beginning in Latin Benedictus qui venit in nomine Domini, and in English \u201cBlessed is he that cometh in the name of the Lord.\u201d", "S": ["invocation"], "A": ["condemnation", "criticism", "disapproval", "disfavor", "refusal"]}

@@ -1,1 +1,0 @@
-{"index": 231837, "D": [], "S": ["anomaly ", "exemption ", "oddity ", "privilege "], "A": ["normality ", "regularity ", "standard ", "usualness ", "commonality ", "conformity ", "sameness ", "similarity ", "uniformity "]}

@@ -1,1 +1,1 @@
-{"index": 15995, "D": "pertaining to antiquaries or to the study of antiquities.", "S": ["excavation ", "paleontology "], "A": []}
+{"index": 15995, "D": "pertaining to antiquaries or to the study of antiquities.", "S": ["excavation", "paleontology"], "A": []}

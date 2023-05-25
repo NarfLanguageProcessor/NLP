@@ -1,1 +1,1 @@
-{"index": 367058, "D": "wonderful; marvelous. ", "S": ["magically ", "unusually "], "A": []}
+{"index": 367058, "D": "wonderful; marvelous. ", "S": ["magically", "unusually"], "A": []}

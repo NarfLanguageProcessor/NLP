@@ -1,1 +1,1 @@
-{"index": 60442, "D": "(of a garment) fitting tightly or snugly to the body", "S": ["hugging ", "snug ", "tight "], "A": []}
+{"index": 60442, "D": "(of a garment) fitting tightly or snugly to the body", "S": ["hugging", "snug", "tight"], "A": []}

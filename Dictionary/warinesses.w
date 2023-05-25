@@ -1,1 +1,1 @@
-{"index": 362642, "D": "the state or quality of being wary. ", "S": ["alertness ", "vigilance "], "A": ["carelessness ", "disregard ", "ignorance ", "inattention ", "neglect ", "negligence ", "thoughtlessness "]}
+{"index": 362642, "D": "the state or quality of being wary. ", "S": ["alertness", "vigilance"], "A": ["carelessness", "disregard", "ignorance", "inattention", "neglect", "negligence", "thoughtlessness"]}

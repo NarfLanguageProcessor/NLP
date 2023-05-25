@@ -1,1 +1,1 @@
-{"index": 35541, "D": "a list  of persons under suspicion, disfavor, censure, etc.", "S": ["banish ", "blackball ", "expel ", "ostracize ", "snub "], "A": ["allow ", "welcome ", "accept ", "admit ", "approve ", "include ", "permit ", "support "]}
+{"index": 35541, "D": "a list  of persons under suspicion, disfavor, censure, etc.", "S": ["banish", "blackball", "expel", "ostracize", "snub"], "A": ["allow", "welcome", "accept", "admit", "approve", "include", "permit", "support"]}

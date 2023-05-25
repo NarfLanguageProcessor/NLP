@@ -1,1 +1,1 @@
-{"index": 180034, "D": "the mother of Jesus.", "S": ["Blessed Virgin Mary ", "Mother of our Lord ", "Virgin Mary ", "madonna ", "the Virgin "], "A": []}
+{"index": 180034, "D": "the mother of Jesus.", "S": ["Blessed Virgin Mary", "Mother of our Lord", "Virgin Mary", "madonna", "the Virgin"], "A": []}

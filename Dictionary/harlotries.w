@@ -1,1 +1,1 @@
-{"index": 133802, "D": "prostitution. ", "S": ["adultery "], "A": []}
+{"index": 133802, "D": "prostitution. ", "S": ["adultery"], "A": []}

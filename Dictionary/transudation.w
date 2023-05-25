@@ -1,1 +1,1 @@
-{"index": 328358, "D": "the act or process of transuding. ", "S": ["perspiration ", "steam "], "A": []}
+{"index": 328358, "D": "the act or process of transuding. ", "S": ["perspiration", "steam"], "A": []}

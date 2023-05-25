@@ -1,1 +1,1 @@
-{"index": 65678, "D": "a leader of a private band of mercenary soldiers in Italy, especially in the 14th and 15th centuries.", "S": ["free companion ", "freelance ", "hired gun ", "hireling ", "legionnaire ", "mercenary ", "professional soldier ", "soldier for hire "], "A": []}
+{"index": 65678, "D": "a leader of a private band of mercenary soldiers in Italy, especially in the 14th and 15th centuries.", "S": ["free companion", "freelance", "hired gun", "hireling", "legionnaire", "mercenary", "professional soldier", "soldier for hire"], "A": []}

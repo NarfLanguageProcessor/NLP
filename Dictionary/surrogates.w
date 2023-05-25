@@ -1,1 +1,1 @@
-{"index": 313612, "D": "a person appointed to act for another; deputy.", "S": ["proxy ", "stand-in "], "A": ["permanent "]}
+{"index": 313612, "D": "a person appointed to act for another; deputy.", "S": ["proxy", "stand-in"], "A": ["permanent"]}

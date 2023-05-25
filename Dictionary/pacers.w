@@ -1,1 +1,1 @@
-{"index": 222581, "D": "a person or thing that paces. ", "S": ["bellwether ", "forerunner ", "leader ", "pioneer "], "A": []}
+{"index": 222581, "D": "a person or thing that paces. ", "S": ["bellwether", "forerunner", "leader", "pioneer"], "A": []}

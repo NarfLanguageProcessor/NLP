@@ -1,1 +1,1 @@
-{"index": 358011, "D": "commanding respect because of great age or impressive dignity; worthy of veneration  or reverence, as because of high office or noble character", "S": ["esteemed ", "grand ", "revered ", "stately ", "venerated "], "A": ["common ", "unimpressive "]}
+{"index": 358011, "D": "commanding respect because of great age or impressive dignity; worthy of veneration  or reverence, as because of high office or noble character", "S": ["esteemed", "grand", "revered", "stately", "venerated"], "A": ["common", "unimpressive"]}

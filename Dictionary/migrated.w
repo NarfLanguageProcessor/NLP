@@ -1,1 +1,1 @@
-{"index": 187038, "D": "to go from one country, region, or place to another.", "S": ["relocated ", "removed "], "A": ["remaining ", "resident "]}
+{"index": 187038, "D": "to go from one country, region, or place to another.", "S": ["relocated", "removed"], "A": ["remaining", "resident"]}

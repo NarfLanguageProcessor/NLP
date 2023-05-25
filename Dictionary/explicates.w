@@ -1,1 +1,1 @@
-{"index": 107849, "D": "to make plain or clear; explain; interpret.", "S": ["amplify ", "elucidate ", "expound ", "untangle "], "A": ["compress ", "conceal ", "confuse ", "hide ", "lessen ", "obscure ", "stop "]}
+{"index": 107849, "D": "to make plain or clear; explain; interpret.", "S": ["amplify", "elucidate", "expound", "untangle"], "A": ["compress", "conceal", "confuse", "hide", "lessen", "obscure", "stop"]}

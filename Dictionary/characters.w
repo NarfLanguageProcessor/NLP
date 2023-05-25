@@ -1,1 +1,1 @@
-{"index": 52747, "D": "the plural of character. ", "S": ["ABCs ", "elements ", "fundamentals ", "hieroglyphs ", "ideograph ", "morphemes ", "phonemes ", "pictograph ", "rune ", "signs ", "syllabary ", "symbols "], "A": []}
+{"index": 52747, "D": "the plural of character. ", "S": ["ABCs", "elements", "fundamentals", "hieroglyphs", "ideograph", "morphemes", "phonemes", "pictograph", "rune", "signs", "syllabary", "symbols"], "A": []}

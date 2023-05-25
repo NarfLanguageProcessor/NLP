@@ -1,1 +1,1 @@
-{"index": 302381, "D": "an adult male deer.", "S": ["celibate ", "single ", "stag "], "A": ["groom ", "husband ", "spouse "]}
+{"index": 302381, "D": "an adult male deer.", "S": ["celibate", "single", "stag"], "A": ["groom", "husband", "spouse"]}

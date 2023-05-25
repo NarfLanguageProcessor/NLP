@@ -1,1 +1,1 @@
-{"index": 281294, "D": "a person who treats someone or something with contempt or mockery; scoffer", "S": ["con artist ", "hypocrite "], "A": []}
+{"index": 281294, "D": "a person who treats someone or something with contempt or mockery; scoffer", "S": ["con artist", "hypocrite"], "A": []}

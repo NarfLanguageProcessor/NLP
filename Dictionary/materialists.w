@@ -1,1 +1,1 @@
-{"index": 181106, "D": "a person who is markedly more concerned with material  things than with spiritual, intellectual, or cultural values.", "S": ["skeptic "], "A": ["believer "]}
+{"index": 181106, "D": "a person who is markedly more concerned with material  things than with spiritual, intellectual, or cultural values.", "S": ["skeptic"], "A": ["believer"]}

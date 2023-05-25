@@ -1,1 +1,1 @@
-{"index": 105109, "D": "a branch of anthropology that analyzes cultures, especially in regard to their historical development and the similarities and dissimilarities between them.", "S": ["animal ", "anthropoid ", "biped ", "hominid ", "humanoid ", "mortal "], "A": []}
+{"index": 105109, "D": "a branch of anthropology that analyzes cultures, especially in regard to their historical development and the similarities and dissimilarities between them.", "S": ["animal", "anthropoid", "biped", "hominid", "humanoid", "mortal"], "A": []}

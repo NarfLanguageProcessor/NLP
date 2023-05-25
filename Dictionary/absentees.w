@@ -1,1 +1,1 @@
-{"index": 941, "D": "a person who is absent,  especially from work or school.", "S": ["absentee ", "escapee ", "quitter ", "truant "], "A": []}
+{"index": 941, "D": "a person who is absent,  especially from work or school.", "S": ["absentee", "escapee", "quitter", "truant"], "A": []}

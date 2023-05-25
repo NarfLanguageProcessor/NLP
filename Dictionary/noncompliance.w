@@ -1,1 +1,1 @@
-{"index": 202156, "D": "failure or refusal to comply, as with a law, regulation, or term of a contract.", "S": ["refusal "], "A": ["acceptance ", "agreement ", "approval ", "concurrence "]}
+{"index": 202156, "D": "failure or refusal to comply, as with a law, regulation, or term of a contract.", "S": ["refusal"], "A": ["acceptance", "agreement", "approval", "concurrence"]}

@@ -1,1 +1,1 @@
-{"index": 134555, "D": "subjection to harassment or ridicule.", "S": ["initiation ", "martyrdom ", "ordeal ", "rite of passage ", "rude introduction ", "test of courage ", "trial by fire "], "A": []}
+{"index": 134555, "D": "subjection to harassment or ridicule.", "S": ["initiation", "martyrdom", "ordeal", "rite of passage", "rude introduction", "test of courage", "trial by fire"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 9049, "D": "to attract or tempt by something flattering or desirable.", "S": ["impelled ", "influenced ", "inveigled ", "led ", "lured ", "motivated ", "seduced ", "wheedled "], "A": []}
+{"index": 9049, "D": "to attract or tempt by something flattering or desirable.", "S": ["impelled", "influenced", "inveigled", "led", "lured", "motivated", "seduced", "wheedled"], "A": []}

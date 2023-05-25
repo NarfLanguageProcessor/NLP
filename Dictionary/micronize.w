@@ -1,1 +1,1 @@
-{"index": 186314, "D": "to reduce (a material) to a very fine powder, esp to particles only a few microns in diameter", "S": ["shatter "], "A": ["lose ", "surrender "]}
+{"index": 186314, "D": "to reduce (a material) to a very fine powder, esp to particles only a few microns in diameter", "S": ["shatter"], "A": ["lose", "surrender"]}

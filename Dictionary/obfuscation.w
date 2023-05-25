@@ -1,1 +1,1 @@
-{"index": 210059, "D": "the act or an instance of making something obscure, dark, or difficult to understand", "S": ["bafflement ", "bewilderment ", "confusion ", "discombobulation ", "fog ", "perplexity ", "puzzlement ", "stupefaction ", "stupor "], "A": []}
+{"index": 210059, "D": "the act or an instance of making something obscure, dark, or difficult to understand", "S": ["bafflement", "bewilderment", "confusion", "discombobulation", "fog", "perplexity", "puzzlement", "stupefaction", "stupor"], "A": []}

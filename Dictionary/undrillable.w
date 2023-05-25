@@ -1,1 +1,0 @@
-{"index": 340845, "D": "a tool, especially a hand tool, for holding and operating such a tool.", "S": [], "A": []}

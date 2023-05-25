@@ -1,1 +1,1 @@
-{"index": 180160, "D": "readily salable.", "S": ["bankability ", "marketability ", "merchandisableness ", "profitableness ", "salability "], "A": []}
+{"index": 180160, "D": "readily salable.", "S": ["bankability", "marketability", "merchandisableness", "profitableness", "salability"], "A": []}

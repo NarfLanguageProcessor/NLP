@@ -1,1 +1,1 @@
-{"index": 96457, "D": "a canine tooth  of the upper jaw", "S": ["bicuspid ", "canine ", "cuspid ", "denticle ", "fang ", "grinder ", "incisor ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}
+{"index": 96457, "D": "a canine tooth  of the upper jaw", "S": ["bicuspid", "canine", "cuspid", "denticle", "fang", "grinder", "incisor", "ivory", "molar", "premolar", "tusk"], "A": []}

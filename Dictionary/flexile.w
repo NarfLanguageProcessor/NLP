@@ -1,1 +1,1 @@
-{"index": 114496, "D": "flexible; pliant; tractable; adaptable.", "S": ["flexible "], "A": []}
+{"index": 114496, "D": "flexible; pliant; tractable; adaptable.", "S": ["flexible"], "A": []}

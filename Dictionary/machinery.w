@@ -1,1 +1,1 @@
-{"index": 176776, "D": "an assemblage of machines  or mechanical apparatuses", "S": ["apparatus ", "appliance ", "engine ", "equipment ", "gear ", "instrument ", "motor ", "system ", "tool ", "utensil ", "vehicle "], "A": ["end "]}
+{"index": 176776, "D": "an assemblage of machines  or mechanical apparatuses", "S": ["apparatus", "appliance", "engine", "equipment", "gear", "instrument", "motor", "system", "tool", "utensil", "vehicle"], "A": ["end"]}

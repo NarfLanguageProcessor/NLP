@@ -1,1 +1,1 @@
-{"index": 82436, "D": "to tell or depict in written or spoken words; give an account of", "S": ["author ", "chronicler ", "novelist ", "writer "], "A": []}
+{"index": 82436, "D": "to tell or depict in written or spoken words; give an account of", "S": ["author", "chronicler", "novelist", "writer"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 208344, "D": "to make vocal; utter; articulate; sing.", "S": [], "A": []}

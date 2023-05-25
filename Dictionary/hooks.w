@@ -1,1 +1,1 @@
-{"index": 143567, "D": "U.S. lawyer, clergyman, and civil rights advocate", "S": ["curve "], "A": []}
+{"index": 143567, "D": "U.S. lawyer, clergyman, and civil rights advocate", "S": ["curve"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 24175, "D": "from the same organism", "S": ["alike ", "analogous ", "correspondent ", "corresponding ", "homologized ", "related "], "A": ["dissimilar ", "unrelated "]}
+{"index": 24175, "D": "from the same organism", "S": ["alike", "analogous", "correspondent", "corresponding", "homologized", "related"], "A": ["dissimilar", "unrelated"]}

@@ -1,1 +1,1 @@
-{"index": 64648, "D": "the act of completing. ", "S": ["accomplishment ", "achievement ", "conclusion ", "culmination ", "expiration ", "finalization ", "fulfillment ", "integration ", "realization "], "A": ["beginning ", "commencement ", "failure ", "start ", "opening ", "unfulfillment "]}
+{"index": 64648, "D": "the act of completing. ", "S": ["accomplishment", "achievement", "conclusion", "culmination", "expiration", "finalization", "fulfillment", "integration", "realization"], "A": ["beginning", "commencement", "failure", "start", "opening", "unfulfillment"]}

@@ -1,1 +1,1 @@
-{"index": 295091, "D": "a simple past tense of smite. ", "S": ["afflict "], "A": ["aid ", "assist ", "boost ", "cheer ", "comfort ", "compliment ", "encourage ", "fail ", "help ", "inspirit ", "lose ", "praise ", "surrender ", "tap "]}
+{"index": 295091, "D": "a simple past tense of smite. ", "S": ["afflict"], "A": ["aid", "assist", "boost", "cheer", "comfort", "compliment", "encourage", "fail", "help", "inspirit", "lose", "praise", "surrender", "tap"]}

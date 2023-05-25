@@ -1,1 +1,1 @@
-{"index": 2253, "D": "to bring to a successful end; carry through; accomplish", "S": ["entire ", "full ", "perfect ", "sweeping "], "A": ["incomplete ", "part ", "unfinished "]}
+{"index": 2253, "D": "to bring to a successful end; carry through; accomplish", "S": ["entire", "full", "perfect", "sweeping"], "A": ["incomplete", "part", "unfinished"]}

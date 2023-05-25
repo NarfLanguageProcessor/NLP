@@ -1,1 +1,1 @@
-{"index": 142296, "D": "to tie  (an animal) with all four feet together.", "S": ["cripple ", "disable ", "immobilize ", "maim ", "paralyze "], "A": ["aid ", "assist ", "enable ", "help ", "allow ", "assuage ", "permit ", "please ", "soothe ", "strengthen "]}
+{"index": 142296, "D": "to tie  (an animal) with all four feet together.", "S": ["cripple", "disable", "immobilize", "maim", "paralyze"], "A": ["aid", "assist", "enable", "help", "allow", "assuage", "permit", "please", "soothe", "strengthen"]}

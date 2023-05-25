@@ -1,1 +1,1 @@
-{"index": 267771, "D": "a person or organization that holds, or has the use of, property by payment of rent. ", "S": ["occupant "], "A": []}
+{"index": 267771, "D": "a person or organization that holds, or has the use of, property by payment of rent. ", "S": ["occupant"], "A": []}

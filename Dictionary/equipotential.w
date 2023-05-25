@@ -1,1 +1,1 @@
-{"index": 103359, "D": "of the same or exhibiting uniform potential  at every point", "S": ["commensurate ", "equal ", "proportionate ", "tantamount "], "A": ["different "]}
+{"index": 103359, "D": "of the same or exhibiting uniform potential  at every point", "S": ["commensurate", "equal", "proportionate", "tantamount"], "A": ["different"]}

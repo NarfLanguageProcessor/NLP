@@ -1,1 +1,1 @@
-{"index": 54336, "D": "a group of 1000.", "S": ["millenary ", "millennium "], "A": []}
+{"index": 54336, "D": "a group of 1000.", "S": ["millenary", "millennium"], "A": []}

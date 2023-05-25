@@ -1,1 +1,1 @@
-{"index": 311370, "D": "the act of superannuating. ", "S": ["emeritus status ", "golden handcuffs ", "golden parachute ", "pensioning off ", "putting out to pasture "], "A": []}
+{"index": 311370, "D": "the act of superannuating. ", "S": ["emeritus status", "golden handcuffs", "golden parachute", "pensioning off", "putting out to pasture"], "A": []}

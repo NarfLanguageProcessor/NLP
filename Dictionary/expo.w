@@ -1,1 +1,1 @@
-{"index": 107916, "D": "a world's fair or international exposition", "S": ["act ", "array ", "demonstration ", "example ", "exhibit ", "parade ", "presentation "], "A": ["concealment ", "hiding ", "dullness ", "modesty ", "plainness ", "simplicity "]}
+{"index": 107916, "D": "a world's fair or international exposition", "S": ["act", "array", "demonstration", "example", "exhibit", "parade", "presentation"], "A": ["concealment", "hiding", "dullness", "modesty", "plainness", "simplicity"]}

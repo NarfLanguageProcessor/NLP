@@ -1,1 +1,1 @@
-{"index": 93254, "D": "something whimsically amusing or funny.", "S": ["buffoonery ", "facetiousness ", "foolishness ", "jest ", "pleasantry ", "raillery ", "waggery ", "whimsicality ", "whimsy "], "A": ["seriousness "]}
+{"index": 93254, "D": "something whimsically amusing or funny.", "S": ["buffoonery", "facetiousness", "foolishness", "jest", "pleasantry", "raillery", "waggery", "whimsicality", "whimsy"], "A": ["seriousness"]}

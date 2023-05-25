@@ -1,1 +1,1 @@
-{"index": 300393, "D": "full of or displaying spleen. ", "S": ["barbed ", "catty ", "cruel ", "hateful ", "malicious ", "ornery ", "snide ", "venomous ", "vicious ", "vindictive "], "A": ["friendly ", "gentle ", "good ", "kind ", "lovable ", "nice ", "pleasant ", "sympathetic ", "thoughtful "]}
+{"index": 300393, "D": "full of or displaying spleen. ", "S": ["barbed", "catty", "cruel", "hateful", "malicious", "ornery", "snide", "venomous", "vicious", "vindictive"], "A": ["friendly", "gentle", "good", "kind", "lovable", "nice", "pleasant", "sympathetic", "thoughtful"]}

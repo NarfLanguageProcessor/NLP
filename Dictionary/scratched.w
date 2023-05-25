@@ -1,1 +1,1 @@
-{"index": 281619, "D": "to break, mar, or mark the surface of by rubbing, scraping, or tearing with something sharp or rough", "S": ["decorated ", "embossed ", "minted "], "A": []}
+{"index": 281619, "D": "to break, mar, or mark the surface of by rubbing, scraping, or tearing with something sharp or rough", "S": ["decorated", "embossed", "minted"], "A": []}

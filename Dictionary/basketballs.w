@@ -1,1 +1,1 @@
-{"index": 28709, "D": "a game played by two teams of usually five players each on a rectangular court having a raised basket  or goal at each end, points being scored by tossing the ball  through the opponent's basket.", "S": ["ball "], "A": []}
+{"index": 28709, "D": "a game played by two teams of usually five players each on a rectangular court having a raised basket  or goal at each end, points being scored by tossing the ball  through the opponent's basket.", "S": ["ball"], "A": []}

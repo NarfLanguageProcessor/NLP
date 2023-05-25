@@ -1,1 +1,1 @@
-{"index": 343856, "D": "full of hope;  expressing hope", "S": ["defeatist ", "negative "], "A": []}
+{"index": 343856, "D": "full of hope;  expressing hope", "S": ["defeatist", "negative"], "A": []}

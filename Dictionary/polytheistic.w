@@ -1,1 +1,1 @@
-{"index": 242526, "D": "pertaining to, characterized by, or adhering to polytheism,  the doctrine that there is more than one god or many gods", "S": ["agnostic ", "heathen "], "A": ["believing ", "religious "]}
+{"index": 242526, "D": "pertaining to, characterized by, or adhering to polytheism,  the doctrine that there is more than one god or many gods", "S": ["agnostic", "heathen"], "A": ["believing", "religious"]}

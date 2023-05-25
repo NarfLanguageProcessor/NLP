@@ -1,1 +1,1 @@
-{"index": 67113, "D": "helping to improve; promoting further development or advancement (opposed to destructive)", "S": ["kindly "], "A": []}
+{"index": 67113, "D": "helping to improve; promoting further development or advancement (opposed to destructive)", "S": ["kindly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 63704, "D": "capable of catching fire and burning; inflammable; flammable", "S": ["fiery ", "flammable ", "incendiary ", "volatile "], "A": ["noncombustible "]}
+{"index": 63704, "D": "capable of catching fire and burning; inflammable; flammable", "S": ["fiery", "flammable", "incendiary", "volatile"], "A": ["noncombustible"]}

@@ -1,1 +1,1 @@
-{"index": 330651, "D": "an appointment to meet at a certain time and place, especially one made somewhat secretly by lovers.", "S": ["assignation ", "rendezvous "], "A": ["division ", "separation "]}
+{"index": 330651, "D": "an appointment to meet at a certain time and place, especially one made somewhat secretly by lovers.", "S": ["assignation", "rendezvous"], "A": ["division", "separation"]}

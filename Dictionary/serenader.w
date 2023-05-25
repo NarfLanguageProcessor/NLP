@@ -1,1 +1,1 @@
-{"index": 285959, "D": "a complimentary performance of vocal or instrumental music in the open air at night, as by a lover under the window of his lady.", "S": ["artist ", "crooner ", "diva ", "musician ", "soloist ", "vocalist ", "voice "], "A": []}
+{"index": 285959, "D": "a complimentary performance of vocal or instrumental music in the open air at night, as by a lover under the window of his lady.", "S": ["artist", "crooner", "diva", "musician", "soloist", "vocalist", "voice"], "A": []}

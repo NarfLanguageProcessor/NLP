@@ -1,1 +1,1 @@
-{"index": 244194, "D": "arising, occurring, or continuing after one's death", "S": ["post mortem ", "post-obit ", "post-obituary "], "A": []}
+{"index": 244194, "D": "arising, occurring, or continuing after one's death", "S": ["post mortem", "post-obit", "post-obituary"], "A": []}

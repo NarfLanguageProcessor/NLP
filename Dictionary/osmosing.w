@@ -1,1 +1,1 @@
-{"index": 215402, "D": "to undergo osmosis. ", "S": ["consume ", "ingest ", "swallow ", "take in "], "A": ["abstain "]}
+{"index": 215402, "D": "to undergo osmosis. ", "S": ["consume", "ingest", "swallow", "take in"], "A": ["abstain"]}

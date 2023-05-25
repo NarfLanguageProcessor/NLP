@@ -1,1 +1,1 @@
-{"index": 27379, "D": "a company of persons or, sometimes, animals or things, joined, acting, or functioning together; aggregation; party; troop", "S": ["braces ", "garters "], "A": []}
+{"index": 27379, "D": "a company of persons or, sometimes, animals or things, joined, acting, or functioning together; aggregation; party; troop", "S": ["braces", "garters"], "A": []}

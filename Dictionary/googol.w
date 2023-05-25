@@ -1,1 +1,1 @@
-{"index": 127945, "D": "a number that is equal to 1 followed by 100 zeros and expressed as 10100.", "S": ["figure ", "statistic ", "sum ", "total "], "A": ["part "]}
+{"index": 127945, "D": "a number that is equal to 1 followed by 100 zeros and expressed as 10100.", "S": ["figure", "statistic", "sum", "total"], "A": ["part"]}

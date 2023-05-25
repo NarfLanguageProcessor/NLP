@@ -1,1 +1,1 @@
-{"index": 2259, "D": "to bring to a successful end; carry through; accomplish", "S": ["effective ", "efficacious "], "A": ["incapable ", "unproductive ", "useless "]}
+{"index": 2259, "D": "to bring to a successful end; carry through; accomplish", "S": ["effective", "efficacious"], "A": ["incapable", "unproductive", "useless"]}

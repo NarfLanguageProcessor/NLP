@@ -1,1 +1,1 @@
-{"index": 40727, "D": "lasting or taking a short time; of short duration", "S": ["pithiness ", "succinctness ", "terseness "], "A": []}
+{"index": 40727, "D": "lasting or taking a short time; of short duration", "S": ["pithiness", "succinctness", "terseness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 133194, "D": "a person hired to do various small jobs, especially in the maintenance of an apartment building, office building, or the like.", "S": ["helper "], "A": []}
+{"index": 133194, "D": "a person hired to do various small jobs, especially in the maintenance of an apartment building, office building, or the like.", "S": ["helper"], "A": []}

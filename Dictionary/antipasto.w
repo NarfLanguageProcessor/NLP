@@ -1,1 +1,1 @@
-{"index": 15788, "D": "a course of appetizers consisting of an assortment of foods, as olives, anchovies, sliced sausage, peppers, and artichoke hearts.", "S": ["dip ", "hors d'oeuvre ", "spread ", "taste ", "tidbit "], "A": ["meal "]}
+{"index": 15788, "D": "a course of appetizers consisting of an assortment of foods, as olives, anchovies, sliced sausage, peppers, and artichoke hearts.", "S": ["dip", "hors d'oeuvre", "spread", "taste", "tidbit"], "A": ["meal"]}

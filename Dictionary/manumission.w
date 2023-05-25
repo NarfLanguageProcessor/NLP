@@ -1,1 +1,1 @@
-{"index": 179664, "D": "the act of manumitting. ", "S": ["emancipation ", "liberation ", "release ", "rescue "], "A": []}
+{"index": 179664, "D": "the act of manumitting. ", "S": ["emancipation", "liberation", "release", "rescue"], "A": []}

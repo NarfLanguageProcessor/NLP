@@ -1,1 +1,1 @@
-{"index": 87739, "D": "to make a distinction in favor of or against a person or thing on the basis of the group, class, or category to which the person or thing belongs rather than according to actual merit; show partiality", "S": ["segregate ", "single out "], "A": ["confuse ", "mix up "]}
+{"index": 87739, "D": "to make a distinction in favor of or against a person or thing on the basis of the group, class, or category to which the person or thing belongs rather than according to actual merit; show partiality", "S": ["segregate", "single out"], "A": ["confuse", "mix up"]}

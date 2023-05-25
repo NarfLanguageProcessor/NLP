@@ -1,1 +1,1 @@
-{"index": 151172, "D": "a social theory advocating the liberty, rights, or independent action of the individual.", "S": ["individuality "], "A": []}
+{"index": 151172, "D": "a social theory advocating the liberty, rights, or independent action of the individual.", "S": ["individuality"], "A": []}

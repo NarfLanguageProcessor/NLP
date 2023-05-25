@@ -1,1 +1,1 @@
-{"index": 17493, "D": "a short, pithy, instructive saying; a terse remark or aphorism.", "S": ["compact ", "concise ", "crisp ", "epigrammatic ", "epigrammatical ", "sententious ", "succinct ", "to the point "], "A": []}
+{"index": 17493, "D": "a short, pithy, instructive saying; a terse remark or aphorism.", "S": ["compact", "concise", "crisp", "epigrammatic", "epigrammatical", "sententious", "succinct", "to the point"], "A": []}

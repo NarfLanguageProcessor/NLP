@@ -1,1 +1,1 @@
-{"index": 112657, "D": "delicate ornamental work of fine silver, gold, or other metal wires, especially lacy jewelers' work of scrolls and arabesques.", "S": ["lattice "], "A": []}
+{"index": 112657, "D": "delicate ornamental work of fine silver, gold, or other metal wires, especially lacy jewelers' work of scrolls and arabesques.", "S": ["lattice"], "A": []}

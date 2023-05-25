@@ -1,1 +1,1 @@
-{"index": 263502, "D": "the act or practice of a person or thing that records. ", "S": ["documentation ", "recounting ", "registration ", "reporting "], "A": []}
+{"index": 263502, "D": "the act or practice of a person or thing that records. ", "S": ["documentation", "recounting", "registration", "reporting"], "A": []}

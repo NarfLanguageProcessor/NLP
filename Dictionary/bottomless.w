@@ -1,1 +1,1 @@
-{"index": 38828, "D": "lacking a bottom.", "S": ["boundless ", "endless ", "infinite ", "unending ", "unfathomable ", "unlimited ", "vast "], "A": ["bounded ", "ending ", "limited ", "restricted "]}
+{"index": 38828, "D": "lacking a bottom.", "S": ["boundless", "endless", "infinite", "unending", "unfathomable", "unlimited", "vast"], "A": ["bounded", "ending", "limited", "restricted"]}

@@ -1,1 +1,1 @@
-{"index": 109782, "D": "to conceive fanciful or extravagant notions, ideas, suppositions, or the like (often followed by about)", "S": ["daydream ", "hallucinate "], "A": []}
+{"index": 109782, "D": "to conceive fanciful or extravagant notions, ideas, suppositions, or the like (often followed by about)", "S": ["daydream", "hallucinate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 80776, "D": "an evil spirit; devil or fiend.", "S": ["monster ", "vampire ", "villain "], "A": ["angel ", "god "]}
+{"index": 80776, "D": "an evil spirit; devil or fiend.", "S": ["monster", "vampire", "villain"], "A": ["angel", "god"]}

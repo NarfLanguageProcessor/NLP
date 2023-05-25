@@ -1,1 +1,1 @@
-{"index": 365729, "D": "a wood growing in the wild or natural state; forest.", "S": ["jungle ", "park ", "thicket ", "timber ", "wood ", "woodland "], "A": []}
+{"index": 365729, "D": "a wood growing in the wild or natural state; forest.", "S": ["jungle", "park", "thicket", "timber", "wood", "woodland"], "A": []}

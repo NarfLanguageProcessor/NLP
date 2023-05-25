@@ -1,1 +1,1 @@
-{"index": 263917, "D": "to make or cause to become red. ", "S": ["embarrassed ", "flushed ", "flushing ", "humiliated "], "A": ["arrogant ", "bold ", "immodest "]}
+{"index": 263917, "D": "to make or cause to become red. ", "S": ["embarrassed", "flushed", "flushing", "humiliated"], "A": ["arrogant", "bold", "immodest"]}

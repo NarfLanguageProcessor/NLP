@@ -1,1 +1,1 @@
-{"index": 315649, "D": "having or containing superfluous or purposeless talk,  conversation, or dialogue, especially so as to impede action or progress", "S": ["wordy "], "A": []}
+{"index": 315649, "D": "having or containing superfluous or purposeless talk,  conversation, or dialogue, especially so as to impede action or progress", "S": ["wordy"], "A": []}

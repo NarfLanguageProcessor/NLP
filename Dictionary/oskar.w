@@ -1,1 +1,0 @@
-{"index": 215346, "D": "king of Sweden 1872\u20131907; king of Norway 1872\u20131905.", "S": [], "A": []}

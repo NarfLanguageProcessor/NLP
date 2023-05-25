@@ -1,1 +1,1 @@
-{"index": 79358, "D": "to release the air or gas from (something inflated, as a balloon)", "S": ["decrease ", "deflation ", "recession ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "expansion ", "opening "]}
+{"index": 79358, "D": "to release the air or gas from (something inflated, as a balloon)", "S": ["decrease", "deflation", "recession", "reduction", "shrinkage"], "A": ["enlargement", "increase", "expansion", "opening"]}

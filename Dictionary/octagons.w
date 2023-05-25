@@ -1,1 +1,1 @@
-{"index": 210939, "D": "a polygon having eight angles and eight sides.", "S": ["octad ", "octave ", "octet "], "A": []}
+{"index": 210939, "D": "a polygon having eight angles and eight sides.", "S": ["octad", "octave", "octet"], "A": []}

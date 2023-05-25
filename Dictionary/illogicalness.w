@@ -1,1 +1,1 @@
-{"index": 147438, "D": "not logical;  contrary to or disregardful of the rules of logic; unreasoning", "S": ["foolishness ", "illogicality ", "impracticality ", "insanity ", "irrationality "], "A": []}
+{"index": 147438, "D": "not logical;  contrary to or disregardful of the rules of logic; unreasoning", "S": ["foolishness", "illogicality", "impracticality", "insanity", "irrationality"], "A": []}

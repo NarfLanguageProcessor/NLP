@@ -1,1 +1,1 @@
-{"index": 17915, "D": "feeling or showing appreciation", "S": ["acknowledgment ", "obligation ", "recognition ", "thanks "], "A": ["censure ", "condemnation "]}
+{"index": 17915, "D": "feeling or showing appreciation", "S": ["acknowledgment", "obligation", "recognition", "thanks"], "A": ["censure", "condemnation"]}

@@ -1,1 +1,1 @@
-{"index": 184472, "D": "a dirty, untidy, or disordered condition", "S": ["fool ", "interfere ", "interlope ", "make ", "meddle ", "mess ", "play ", "pry ", "tinker ", "trifle "], "A": ["leave alone "]}
+{"index": 184472, "D": "a dirty, untidy, or disordered condition", "S": ["fool", "interfere", "interlope", "make", "meddle", "mess", "play", "pry", "tinker", "trifle"], "A": ["leave alone"]}

@@ -1,1 +1,1 @@
-{"index": 36895, "D": "to redden, as from embarrassment or shame", "S": ["confused ", "coy ", "diffident ", "embarrassed ", "reticent ", "self-conscious ", "sheepish ", "timid "], "A": ["aggressive ", "bold ", "forward "]}
+{"index": 36895, "D": "to redden, as from embarrassment or shame", "S": ["confused", "coy", "diffident", "embarrassed", "reticent", "self-conscious", "sheepish", "timid"], "A": ["aggressive", "bold", "forward"]}

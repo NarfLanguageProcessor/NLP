@@ -1,1 +1,1 @@
-{"index": 268242, "D": "to play  again, as a record or tape.", "S": ["recap ", "rehash "], "A": ["take back "]}
+{"index": 268242, "D": "to play  again, as a record or tape.", "S": ["recap", "rehash"], "A": ["take back"]}

@@ -1,1 +1,1 @@
-{"index": 96429, "D": "the part of the bows of a ship that are furthest forward at the level of the main deck", "S": ["depression ", "downheartedness ", "dumps ", "heaviness of heart ", "low spirits ", "lowness ", "melancholy ", "peepers ", "postpartum depression "], "A": []}
+{"index": 96429, "D": "the part of the bows of a ship that are furthest forward at the level of the main deck", "S": ["depression", "downheartedness", "dumps", "heaviness of heart", "low spirits", "lowness", "melancholy", "peepers", "postpartum depression"], "A": []}

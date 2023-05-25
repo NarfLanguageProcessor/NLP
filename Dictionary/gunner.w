@@ -1,1 +1,1 @@
-{"index": 131393, "D": "a person who operates a gun or cannon.", "S": ["shooter "], "A": []}
+{"index": 131393, "D": "a person who operates a gun or cannon.", "S": ["shooter"], "A": []}

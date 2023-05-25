@@ -1,1 +1,1 @@
-{"index": 211595, "D": [], "S": ["demise ", "departure ", "evacuation ", "exodus ", "farewell ", "retirement ", "retreat ", "withdrawal "], "A": ["arrival ", "coming ", "entrance ", "stay ", "birth ", "hello "]}
+{"index": 211595, "D": [], "S": ["demise", "departure", "evacuation", "exodus", "farewell", "retirement", "retreat", "withdrawal"], "A": ["arrival", "coming", "entrance", "stay", "birth", "hello"]}

@@ -1,1 +1,1 @@
-{"index": 55909, "D": "a past participle of choose. ", "S": ["called ", "conscript ", "elect ", "exclusive ", "named ", "pegged ", "pick ", "picked ", "select ", "selected "], "A": ["ignored ", "inferior "]}
+{"index": 55909, "D": "a past participle of choose. ", "S": ["called", "conscript", "elect", "exclusive", "named", "pegged", "pick", "picked", "select", "selected"], "A": ["ignored", "inferior"]}

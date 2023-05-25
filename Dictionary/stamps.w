@@ -1,1 +1,1 @@
-{"index": 302627, "D": "to strike or beat with a forcible, downward thrust of the foot.", "S": ["emblem ", "print ", "signature ", "sticker "], "A": []}
+{"index": 302627, "D": "to strike or beat with a forcible, downward thrust of the foot.", "S": ["emblem", "print", "signature", "sticker"], "A": []}

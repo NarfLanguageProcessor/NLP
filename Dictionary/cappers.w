@@ -1,1 +1,1 @@
-{"index": 47032, "D": "a person or thing that caps. ", "S": ["closer ", "culmination ", "deathblow ", "finisher "], "A": []}
+{"index": 47032, "D": "a person or thing that caps. ", "S": ["closer", "culmination", "deathblow", "finisher"], "A": []}

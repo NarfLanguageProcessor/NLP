@@ -1,1 +1,1 @@
-{"index": 333005, "D": "an animal with tusks,  as an elephant or a wild boar.", "S": ["boar "], "A": []}
+{"index": 333005, "D": "an animal with tusks,  as an elephant or a wild boar.", "S": ["boar"], "A": []}

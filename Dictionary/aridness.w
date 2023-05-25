@@ -1,1 +1,1 @@
-{"index": 19668, "D": "the state or quality of being extremely dry", "S": ["aridity ", "bleakness ", "emptiness ", "underdevelopment "], "A": ["fecundity ", "fertility ", "fruitfulness "]}
+{"index": 19668, "D": "the state or quality of being extremely dry", "S": ["aridity", "bleakness", "emptiness", "underdevelopment"], "A": ["fecundity", "fertility", "fruitfulness"]}

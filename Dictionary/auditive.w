@@ -1,1 +1,1 @@
-{"index": 23324, "D": "auditory. ", "S": ["audible ", "aural "], "A": []}
+{"index": 23324, "D": "auditory. ", "S": ["audible", "aural"], "A": []}

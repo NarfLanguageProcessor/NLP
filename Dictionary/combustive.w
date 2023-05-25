@@ -1,1 +1,1 @@
-{"index": 63711, "D": "the act or process of burning.", "S": ["fiery ", "flammable ", "incendiary ", "volatile "], "A": ["noncombustible "]}
+{"index": 63711, "D": "the act or process of burning.", "S": ["fiery", "flammable", "incendiary", "volatile"], "A": ["noncombustible"]}

@@ -1,1 +1,1 @@
-{"index": 123498, "D": "a machine that converts one form of energy into another, especially mechanical energy into electrical energy, as a dynamo, or electrical energy into sound, as an acoustic generator.", "S": ["alternator ", "dynamo "], "A": []}
+{"index": 123498, "D": "a machine that converts one form of energy into another, especially mechanical energy into electrical energy, as a dynamo, or electrical energy into sound, as an acoustic generator.", "S": ["alternator", "dynamo"], "A": []}

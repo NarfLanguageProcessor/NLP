@@ -1,1 +1,1 @@
-{"index": 52493, "D": "a person or thing that changes  something.", "S": ["banker ", "merchant ", "retailer ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}
+{"index": 52493, "D": "a person or thing that changes  something.", "S": ["banker", "merchant", "retailer", "trader", "trafficker", "vendor", "wholesaler"], "A": ["customer"]}

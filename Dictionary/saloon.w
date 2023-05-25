@@ -1,1 +1,1 @@
-{"index": 277181, "D": "a place for the sale and consumption of alcoholic drinks.", "S": ["barroom ", "hangout ", "nightclub ", "pub ", "speakeasy ", "tavern ", "watering hole "], "A": []}
+{"index": 277181, "D": "a place for the sale and consumption of alcoholic drinks.", "S": ["barroom", "hangout", "nightclub", "pub", "speakeasy", "tavern", "watering hole"], "A": []}

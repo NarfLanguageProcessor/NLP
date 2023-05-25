@@ -1,1 +1,0 @@
-{"index": 350338, "D": "of, relating to, or characterized by sarcasm", "S": [], "A": []}

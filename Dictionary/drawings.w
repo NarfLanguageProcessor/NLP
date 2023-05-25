@@ -1,1 +1,1 @@
-{"index": 92790, "D": "the act of a person or thing that draws.", "S": ["cash ", "compensation ", "earnings ", "interest ", "livelihood ", "pay ", "proceeds ", "profit ", "revenue ", "royalty ", "salary ", "wage "], "A": ["debt ", "loss "]}
+{"index": 92790, "D": "the act of a person or thing that draws.", "S": ["cash", "compensation", "earnings", "interest", "livelihood", "pay", "proceeds", "profit", "revenue", "royalty", "salary", "wage"], "A": ["debt", "loss"]}

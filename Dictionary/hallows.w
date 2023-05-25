@@ -1,1 +1,1 @@
-{"index": 132762, "D": "to make holy; sanctify; consecrate.", "S": ["sanctify "], "A": ["condemn ", "curse ", "damn "]}
+{"index": 132762, "D": "to make holy; sanctify; consecrate.", "S": ["sanctify"], "A": ["condemn", "curse", "damn"]}

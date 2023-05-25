@@ -1,1 +1,1 @@
-{"index": 87092, "D": "to make or become disjointed, as the bones of a body or stems of a plant.", "S": ["disarrange ", "dislocate ", "dismember ", "luxate "], "A": []}
+{"index": 87092, "D": "to make or become disjointed, as the bones of a body or stems of a plant.", "S": ["disarrange", "dislocate", "dismember", "luxate"], "A": []}

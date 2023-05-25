@@ -1,0 +1,1 @@
+{"index": 28065, "D": "variant spellings of barchan", "S": [], "A": []}

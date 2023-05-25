@@ -1,1 +1,1 @@
-{"index": 198176, "D": "not either, as of persons or things specified (usually followed by nor)", "S": ["no more ", "not ", "not at all ", "not either "], "A": []}
+{"index": 198176, "D": "not either, as of persons or things specified (usually followed by nor)", "S": ["no more", "not", "not at all", "not either"], "A": []}

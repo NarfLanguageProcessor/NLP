@@ -1,1 +1,0 @@
-{"index": 261343, "D": "a ship, especially a warship, reduced in height by the removal of the upper deck.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 189414, "D": "a confused mess; hodgepodge; jumble.", "S": ["jumble ", "patchwork "], "A": []}
+{"index": 189414, "D": "a confused mess; hodgepodge; jumble.", "S": ["jumble", "patchwork"], "A": []}

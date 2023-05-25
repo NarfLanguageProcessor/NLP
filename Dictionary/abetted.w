@@ -1,1 +1,1 @@
-{"index": 374, "D": "to encourage, support, or countenance by aid or approval, usually in wrongdoing", "S": ["accompanied ", "advised ", "assisted ", "backed ", "befriended ", "bolstered ", "encouraged ", "maintained ", "nursed ", "relieved ", "supported ", "sustained "], "A": ["discouraged "]}
+{"index": 374, "D": "to encourage, support, or countenance by aid or approval, usually in wrongdoing", "S": ["accompanied", "advised", "assisted", "backed", "befriended", "bolstered", "encouraged", "maintained", "nursed", "relieved", "supported", "sustained"], "A": ["discouraged"]}

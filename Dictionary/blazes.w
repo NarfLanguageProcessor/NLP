@@ -1,1 +1,1 @@
-{"index": 35921, "D": "slang a euphemistic word for hell", "S": ["inferno ", "misery ", "nightmare ", "purgatory "], "A": ["comfort ", "contentment ", "happiness ", "health ", "joy ", "peace ", "pleasure "]}
+{"index": 35921, "D": "slang a euphemistic word for hell", "S": ["inferno", "misery", "nightmare", "purgatory"], "A": ["comfort", "contentment", "happiness", "health", "joy", "peace", "pleasure"]}

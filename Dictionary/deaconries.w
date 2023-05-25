@@ -1,1 +1,1 @@
-{"index": 77429, "D": "the office of a deacon.", "S": ["priesthood "], "A": []}
+{"index": 77429, "D": "the office of a deacon.", "S": ["priesthood"], "A": []}

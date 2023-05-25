@@ -1,1 +1,1 @@
-{"index": 108310, "D": "to make external;  embody in an outward form.", "S": ["convey ", "exemplify ", "express ", "exteriorize ", "incarnate ", "manifest ", "materialize ", "objectify ", "personify ", "project ", "represent ", "substantiate ", "symbolize "], "A": ["keep ", "withhold "]}
+{"index": 108310, "D": "to make external;  embody in an outward form.", "S": ["convey", "exemplify", "express", "exteriorize", "incarnate", "manifest", "materialize", "objectify", "personify", "project", "represent", "substantiate", "symbolize"], "A": ["keep", "withhold"]}

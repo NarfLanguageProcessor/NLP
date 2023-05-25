@@ -1,1 +1,1 @@
-{"index": 80148, "D": "to become liquid by absorbing moisture from the air, as certain salts.", "S": ["dissolve ", "flux ", "liquefy ", "thaw "], "A": []}
+{"index": 80148, "D": "to become liquid by absorbing moisture from the air, as certain salts.", "S": ["dissolve", "flux", "liquefy", "thaw"], "A": []}

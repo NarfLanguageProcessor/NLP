@@ -1,1 +1,1 @@
-{"index": 249569, "D": "to act upon with steadily applied weight or force.", "S": ["pressured ", "pushed ", "rushing ", "urged "], "A": []}
+{"index": 249569, "D": "to act upon with steadily applied weight or force.", "S": ["pressured", "pushed", "rushing", "urged"], "A": []}

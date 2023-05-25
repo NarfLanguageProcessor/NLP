@@ -1,1 +1,1 @@
-{"index": 146619, "D": "the religious worship of idols. ", "S": ["adoration ", "worship "], "A": []}
+{"index": 146619, "D": "the religious worship of idols. ", "S": ["adoration", "worship"], "A": []}

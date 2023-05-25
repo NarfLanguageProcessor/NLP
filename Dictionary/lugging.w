@@ -1,1 +1,1 @@
-{"index": 175955, "D": "to pull or carry with force or effort", "S": ["carry ", "ferry ", "haul ", "heave ", "tote ", "tow "], "A": ["hold ", "keep ", "maintain ", "push ", "repel ", "repulse ", "turn off "]}
+{"index": 175955, "D": "to pull or carry with force or effort", "S": ["carry", "ferry", "haul", "heave", "tote", "tow"], "A": ["hold", "keep", "maintain", "push", "repel", "repulse", "turn off"]}

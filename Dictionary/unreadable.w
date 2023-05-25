@@ -1,1 +1,1 @@
-{"index": 349091, "D": "not readable;  undecipherable; scribbled", "S": ["incomprehensible ", "indecipherable "], "A": []}
+{"index": 349091, "D": "not readable;  undecipherable; scribbled", "S": ["incomprehensible", "indecipherable"], "A": []}

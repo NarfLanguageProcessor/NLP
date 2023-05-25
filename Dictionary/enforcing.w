@@ -1,1 +1,1 @@
-{"index": 100260, "D": "to put or keep in force; compel obedience to", "S": ["administration ", "application ", "imposition ", "prosecution "], "A": ["abandon ", "disregard ", "forgetfulness ", "neglect ", "renunciation ", "slight "]}
+{"index": 100260, "D": "to put or keep in force; compel obedience to", "S": ["administration", "application", "imposition", "prosecution"], "A": ["abandon", "disregard", "forgetfulness", "neglect", "renunciation", "slight"]}

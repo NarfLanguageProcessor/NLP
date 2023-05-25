@@ -1,1 +1,1 @@
-{"index": 47947, "D": "an act or gesture expressing affection, as an embrace or kiss, especially a light stroking or touching.", "S": ["cuddle ", "embrace ", "endearment ", "feel ", "fondling ", "hug ", "kiss ", "pat ", "pet ", "petting ", "snuggle ", "squeeze ", "stroke "], "A": []}
+{"index": 47947, "D": "an act or gesture expressing affection, as an embrace or kiss, especially a light stroking or touching.", "S": ["cuddle", "embrace", "endearment", "feel", "fondling", "hug", "kiss", "pat", "pet", "petting", "snuggle", "squeeze", "stroke"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 366172, "D": "to close and open one eye quickly as a hint or signal or with some sly meaning (often followed by at)", "S": ["gleam ", "glimmer ", "twinkle "], "A": ["dullness "]}
+{"index": 366172, "D": "to close and open one eye quickly as a hint or signal or with some sly meaning (often followed by at)", "S": ["gleam", "glimmer", "twinkle"], "A": ["dullness"]}

@@ -1,1 +1,1 @@
-{"index": 93910, "D": "a boat made by hollowing out a log.", "S": ["cave ", "cellar "], "A": []}
+{"index": 93910, "D": "a boat made by hollowing out a log.", "S": ["cave", "cellar"], "A": []}

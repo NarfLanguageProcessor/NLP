@@ -1,1 +1,0 @@
-{"index": 357827, "D": "a variant spelling of valeta", "S": [], "A": []}

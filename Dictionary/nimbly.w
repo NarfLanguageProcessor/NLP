@@ -1,1 +1,1 @@
-{"index": 200096, "D": "with quick, light, easy movement", "S": ["gracefully "], "A": []}
+{"index": 200096, "D": "with quick, light, easy movement", "S": ["gracefully"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 367887, "D": "to encircle or adorn with or as with a wreath. ", "S": ["convolute "], "A": ["straighten ", "untwist "]}
+{"index": 367887, "D": "to encircle or adorn with or as with a wreath. ", "S": ["convolute"], "A": ["straighten", "untwist"]}

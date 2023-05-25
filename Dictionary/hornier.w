@@ -1,1 +1,1 @@
-{"index": 143861, "D": "consisting of a horn or a hornlike substance; corneous.", "S": ["concupiscent ", "desiring ", "hard up ", "hot ", "hot to trot ", "lascivious ", "libidinous ", "lustful ", "oversexed ", "passionate ", "randy ", "turned on "], "A": []}
+{"index": 143861, "D": "consisting of a horn or a hornlike substance; corneous.", "S": ["concupiscent", "desiring", "hard up", "hot", "hot to trot", "lascivious", "libidinous", "lustful", "oversexed", "passionate", "randy", "turned on"], "A": []}

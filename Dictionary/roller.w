@@ -1,1 +1,1 @@
-{"index": 273955, "D": "a person or thing that rolls. ", "S": ["beachcomber ", "breaker ", "crest ", "surge ", "swell ", "tide ", "wave "], "A": []}
+{"index": 273955, "D": "a person or thing that rolls. ", "S": ["beachcomber", "breaker", "crest", "surge", "swell", "tide", "wave"], "A": []}

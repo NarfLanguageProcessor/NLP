@@ -1,1 +1,1 @@
-{"index": 358022, "D": "to regard or treat with reverence; revere.", "S": ["admired ", "cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "revered ", "treasured ", "well-liked "], "A": ["disliked "]}
+{"index": 358022, "D": "to regard or treat with reverence; revere.", "S": ["admired", "cherished", "dear", "esteemed", "favorite", "hallowed", "loved", "popular", "prized", "respected", "revered", "treasured", "well-liked"], "A": ["disliked"]}

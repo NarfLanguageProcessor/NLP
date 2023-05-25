@@ -1,1 +1,1 @@
-{"index": 328652, "D": "characterized by faithlessness or readiness to betray trust; traitorous. ", "S": ["slippery ", "tricky ", "unreliable "], "A": ["honest ", "reliable "]}
+{"index": 328652, "D": "characterized by faithlessness or readiness to betray trust; traitorous. ", "S": ["slippery", "tricky", "unreliable"], "A": ["honest", "reliable"]}

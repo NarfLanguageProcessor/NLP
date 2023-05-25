@@ -1,1 +1,1 @@
-{"index": 167571, "D": "having been strongly or severely criticized", "S": ["assail ", "berate ", "castigate ", "excoriate ", "scold ", "upbraid "], "A": ["compliment ", "laud ", "praise ", "approve ", "flatter ", "protect "]}
+{"index": 167571, "D": "having been strongly or severely criticized", "S": ["assail", "berate", "castigate", "excoriate", "scold", "upbraid"], "A": ["compliment", "laud", "praise", "approve", "flatter", "protect"]}

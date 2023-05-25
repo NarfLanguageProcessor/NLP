@@ -1,1 +1,1 @@
-{"index": 51913, "D": "to wear or abrade by rubbing", "S": ["irritate "], "A": ["aid ", "assist ", "build ", "calm ", "cheer ", "cover ", "fix ", "heal ", "help ", "make happy ", "mend ", "placate ", "please ", "rebuild ", "smooth ", "soothe "]}
+{"index": 51913, "D": "to wear or abrade by rubbing", "S": ["irritate"], "A": ["aid", "assist", "build", "calm", "cheer", "cover", "fix", "heal", "help", "make happy", "mend", "placate", "please", "rebuild", "smooth", "soothe"]}

@@ -1,1 +1,1 @@
-{"index": 107771, "D": [], "S": ["propitiatory "], "A": []}
+{"index": 107771, "D": [], "S": ["propitiatory"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 27061, "D": "boldly aggressive or courageous", "S": ["bold ", "brash ", "saucy "], "A": ["courteous ", "polite ", "well-behaved "]}
+{"index": 27061, "D": "boldly aggressive or courageous", "S": ["bold", "brash", "saucy"], "A": ["courteous", "polite", "well-behaved"]}

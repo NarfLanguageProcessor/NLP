@@ -1,1 +1,1 @@
-{"index": 367543, "D": "a room, group of rooms, or building in which work,  especially mechanical work, is carried on.", "S": ["factory ", "laboratory ", "mill ", "plant ", "studio "], "A": []}
+{"index": 367543, "D": "a room, group of rooms, or building in which work,  especially mechanical work, is carried on.", "S": ["factory", "laboratory", "mill", "plant", "studio"], "A": []}

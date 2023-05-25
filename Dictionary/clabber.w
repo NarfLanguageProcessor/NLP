@@ -1,1 +1,1 @@
-{"index": 58971, "D": "milk that has soured and thickened; curdled milk.", "S": ["acerbate ", "acidify ", "acidulate ", "clot ", "coagulate ", "condense ", "congeal ", "ferment ", "spoil ", "thicken ", "turn "], "A": []}
+{"index": 58971, "D": "milk that has soured and thickened; curdled milk.", "S": ["acerbate", "acidify", "acidulate", "clot", "coagulate", "condense", "congeal", "ferment", "spoil", "thicken", "turn"], "A": []}

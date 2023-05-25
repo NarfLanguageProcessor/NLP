@@ -1,1 +1,1 @@
-{"index": 261723, "D": "to change or put back to a new or former place or position", "S": ["readjust ", "reorganize ", "reorient "], "A": []}
+{"index": 261723, "D": "to change or put back to a new or former place or position", "S": ["readjust", "reorganize", "reorient"], "A": []}

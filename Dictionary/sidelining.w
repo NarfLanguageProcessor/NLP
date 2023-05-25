@@ -1,1 +1,1 @@
-{"index": 289765, "D": "a line at the side of something.", "S": ["hesitate ", "interrupt ", "shake ", "waver "], "A": ["carry on ", "continue ", "do ", "go ", "keep on ", "restart ", "rise "]}
+{"index": 289765, "D": "a line at the side of something.", "S": ["hesitate", "interrupt", "shake", "waver"], "A": ["carry on", "continue", "do", "go", "keep on", "restart", "rise"]}

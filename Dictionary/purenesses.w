@@ -1,1 +1,1 @@
-{"index": 256909, "D": "free from anything of a different, inferior, or contaminating kind; free from extraneous matter", "S": ["clarity ", "cleanliness ", "cleanness ", "immaculateness ", "whiteness "], "A": ["dirtiness "]}
+{"index": 256909, "D": "free from anything of a different, inferior, or contaminating kind; free from extraneous matter", "S": ["clarity", "cleanliness", "cleanness", "immaculateness", "whiteness"], "A": ["dirtiness"]}

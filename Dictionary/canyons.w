@@ -1,1 +1,1 @@
-{"index": 46335, "D": "a deep valley with steep sides, often with a stream flowing through it.", "S": ["gorge ", "gully ", "ravine ", "valley "], "A": ["mountain "]}
+{"index": 46335, "D": "a deep valley with steep sides, often with a stream flowing through it.", "S": ["gorge", "gully", "ravine", "valley"], "A": ["mountain"]}

@@ -1,1 +1,1 @@
-{"index": 117700, "D": "occurring or appearing once a fortnight. ", "S": ["once every two weeks ", "twice monthly "], "A": []}
+{"index": 117700, "D": "occurring or appearing once a fortnight. ", "S": ["once every two weeks", "twice monthly"], "A": []}

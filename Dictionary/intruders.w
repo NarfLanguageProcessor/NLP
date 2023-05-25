@@ -1,1 +1,1 @@
-{"index": 156858, "D": "to thrust or bring in without invitation, permission, or welcome.", "S": ["burglar ", "criminal ", "infiltrator ", "interloper ", "invader ", "raider ", "squatter ", "thief ", "trespasser "], "A": []}
+{"index": 156858, "D": "to thrust or bring in without invitation, permission, or welcome.", "S": ["burglar", "criminal", "infiltrator", "interloper", "invader", "raider", "squatter", "thief", "trespasser"], "A": []}

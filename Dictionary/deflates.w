@@ -1,1 +1,1 @@
-{"index": 79357, "D": "to release the air or gas from (something inflated, as a balloon)", "S": ["depress ", "diminish ", "exhaust "], "A": ["increase ", "develop ", "enlarge ", "expand ", "grow ", "raise "]}
+{"index": 79357, "D": "to release the air or gas from (something inflated, as a balloon)", "S": ["depress", "diminish", "exhaust"], "A": ["increase", "develop", "enlarge", "expand", "grow", "raise"]}

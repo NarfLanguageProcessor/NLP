@@ -1,1 +1,1 @@
-{"index": 5200, "D": "the acceptance of artistic beauty and taste as a fundamental standard, ethical and other standards being secondary.", "S": ["breeding ", "improvement "], "A": ["coarseness ", "crudeness ", "decline ", "ignorance ", "retreat ", "retrogression ", "roughness ", "rudeness "]}
+{"index": 5200, "D": "the acceptance of artistic beauty and taste as a fundamental standard, ethical and other standards being secondary.", "S": ["breeding", "improvement"], "A": ["coarseness", "crudeness", "decline", "ignorance", "retreat", "retrogression", "roughness", "rudeness"]}

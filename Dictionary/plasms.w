@@ -1,1 +1,1 @@
-{"index": 239218, "D": "the liquid part of blood or lymph, as distinguished from the suspended elements.", "S": ["beef ", "fat ", "meat ", "muscle "], "A": ["skinniness ", "thinness "]}
+{"index": 239218, "D": "the liquid part of blood or lymph, as distinguished from the suspended elements.", "S": ["beef", "fat", "meat", "muscle"], "A": ["skinniness", "thinness"]}

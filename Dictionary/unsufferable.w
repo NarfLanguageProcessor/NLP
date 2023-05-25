@@ -1,1 +1,0 @@
-{"index": 352326, "D": "to undergo or feel pain or distress", "S": ["a bit much ", "enough ", "heavy-handed ", "impossible ", "inadmissible ", "insufferable ", "insupportable ", "intolerable ", "last straw ", "oppressive ", "unacceptable ", "unendurable ", "unsupportable ", "unsurpassable "], "A": []}

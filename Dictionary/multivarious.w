@@ -1,1 +1,1 @@
-{"index": 195421, "D": [], "S": ["assorted ", "complex ", "diversified ", "multiple ", "multiplied ", "varied "], "A": ["same "]}
+{"index": 195421, "D": [], "S": ["assorted", "complex", "diversified", "multiple", "multiplied", "varied"], "A": ["same"]}

@@ -1,1 +1,1 @@
-{"index": 128868, "D": "the mother of one's father or mother. ", "S": ["ancestor ", "grandma ", "granny ", "matriarch "], "A": []}
+{"index": 128868, "D": "the mother of one's father or mother. ", "S": ["ancestor", "grandma", "granny", "matriarch"], "A": []}

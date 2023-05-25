@@ -1,1 +1,1 @@
-{"index": 66750, "D": "following as an effect, result, or outcome; resultant; consequent. ", "S": ["far-reaching ", "meaningful ", "momentous ", "substantial ", "weighty "], "A": ["insignificant ", "small ", "trivial ", "unimportant ", "unsubstantial "]}
+{"index": 66750, "D": "following as an effect, result, or outcome; resultant; consequent. ", "S": ["far-reaching", "meaningful", "momentous", "substantial", "weighty"], "A": ["insignificant", "small", "trivial", "unimportant", "unsubstantial"]}

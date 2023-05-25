@@ -1,1 +1,1 @@
-{"index": 67835, "D": "to argue against; dispute; deny; oppose. ", "S": ["anti ", "antithetical ", "averse ", "disputed ", "hostile ", "inimical ", "opposing "], "A": ["friendly ", "kind "]}
+{"index": 67835, "D": "to argue against; dispute; deny; oppose. ", "S": ["anti", "antithetical", "averse", "disputed", "hostile", "inimical", "opposing"], "A": ["friendly", "kind"]}

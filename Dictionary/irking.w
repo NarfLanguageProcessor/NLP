@@ -1,1 +1,1 @@
-{"index": 158038, "D": "to irritate, annoy, or exasperate", "S": ["molestation ", "persecution ", "provocation "], "A": ["aid ", "comfort ", "contentment ", "delight ", "happiness ", "help ", "joy ", "peace ", "pleasure "]}
+{"index": 158038, "D": "to irritate, annoy, or exasperate", "S": ["molestation", "persecution", "provocation"], "A": ["aid", "comfort", "contentment", "delight", "happiness", "help", "joy", "peace", "pleasure"]}

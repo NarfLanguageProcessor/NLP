@@ -1,1 +1,1 @@
-{"index": 343633, "D": "taking heed;  attentive; mindful; thoughtful; careful", "S": ["inadvertent ", "inattentive ", "lax ", "sloppy "], "A": ["attentive "]}
+{"index": 343633, "D": "taking heed;  attentive; mindful; thoughtful; careful", "S": ["inadvertent", "inattentive", "lax", "sloppy"], "A": ["attentive"]}

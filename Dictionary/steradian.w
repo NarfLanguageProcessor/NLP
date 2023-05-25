@@ -1,1 +1,0 @@
-{"index": 303825, "D": "a solid angle at the center of a sphere subtending a section on the surface equal in area to the square of the radius of the sphere. Abbreviation", "S": [], "A": []}

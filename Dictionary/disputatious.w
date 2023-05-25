@@ -1,1 +1,1 @@
-{"index": 89240, "D": "fond of or given to disputation;  argumentative; contentious", "S": ["cantankerous ", "captious ", "caviling ", "contentious ", "controversial ", "dissentious ", "litigious ", "polemical ", "pugnacious ", "quarrelsome "], "A": ["agreeable ", "calm ", "peaceful "]}
+{"index": 89240, "D": "fond of or given to disputation;  argumentative; contentious", "S": ["cantankerous", "captious", "caviling", "contentious", "controversial", "dissentious", "litigious", "polemical", "pugnacious", "quarrelsome"], "A": ["agreeable", "calm", "peaceful"]}

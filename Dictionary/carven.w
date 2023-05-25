@@ -1,1 +1,1 @@
-{"index": 48712, "D": "carved. ", "S": ["chiseled ", "engraved ", "sculpted ", "sculptured "], "A": []}
+{"index": 48712, "D": "carved. ", "S": ["chiseled", "engraved", "sculpted", "sculptured"], "A": []}

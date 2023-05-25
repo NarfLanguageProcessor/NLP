@@ -1,1 +1,1 @@
-{"index": 150544, "D": "to implant by repeated statement or admonition; teach persistently and earnestly (usually followed by upon or in)", "S": ["impart ", "indoctrinate ", "instill "], "A": ["learn ", "neglect "]}
+{"index": 150544, "D": "to implant by repeated statement or admonition; teach persistently and earnestly (usually followed by upon or in)", "S": ["impart", "indoctrinate", "instill"], "A": ["learn", "neglect"]}

@@ -1,1 +1,0 @@
-{"index": 252329, "D": "to help or encourage to exist or flourish; further", "S": ["artistic ", "developmental "], "A": []}

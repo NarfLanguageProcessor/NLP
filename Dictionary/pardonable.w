@@ -1,1 +1,1 @@
-{"index": 226311, "D": "kind indulgence, as in forgiveness of an offense or discourtesy or in tolerance of a distraction or inconvenience", "S": ["defendable ", "defensible ", "excusable ", "justifiable ", "passable ", "venial "], "A": []}
+{"index": 226311, "D": "kind indulgence, as in forgiveness of an offense or discourtesy or in tolerance of a distraction or inconvenience", "S": ["defendable", "defensible", "excusable", "justifiable", "passable", "venial"], "A": []}

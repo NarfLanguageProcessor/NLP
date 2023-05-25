@@ -1,1 +1,1 @@
-{"index": 101018, "D": "to shroud;  conceal.", "S": ["cloak ", "conceal ", "hide ", "mask ", "pall ", "shroud "], "A": ["disclose ", "divulge ", "expose ", "lay bare ", "let out ", "open ", "reveal ", "show ", "tell ", "uncover ", "unmask "]}
+{"index": 101018, "D": "to shroud;  conceal.", "S": ["cloak", "conceal", "hide", "mask", "pall", "shroud"], "A": ["disclose", "divulge", "expose", "lay bare", "let out", "open", "reveal", "show", "tell", "uncover", "unmask"]}

@@ -1,1 +1,1 @@
-{"index": 82519, "D": "to merit, be qualified for, or have a claim to (reward, assistance, punishment, etc.) because of actions, qualities, or situation", "S": ["earn ", "gain ", "get ", "justify ", "merit ", "warrant ", "win "], "A": ["fail ", "forfeit ", "lose ", "miss ", "pass ", "spend "]}
+{"index": 82519, "D": "to merit, be qualified for, or have a claim to (reward, assistance, punishment, etc.) because of actions, qualities, or situation", "S": ["earn", "gain", "get", "justify", "merit", "warrant", "win"], "A": ["fail", "forfeit", "lose", "miss", "pass", "spend"]}

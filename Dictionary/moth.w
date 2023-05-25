@@ -1,1 +1,1 @@
-{"index": 193927, "D": "any of numerous insects of the order Lepidoptera, generally distinguished from the butterflies by having feathery antennae and by having crepuscular or nocturnal habits.", "S": ["butterfly ", "canker ", "larva ", "tractor "], "A": []}
+{"index": 193927, "D": "any of numerous insects of the order Lepidoptera, generally distinguished from the butterflies by having feathery antennae and by having crepuscular or nocturnal habits.", "S": ["butterfly", "canker", "larva", "tractor"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 72490, "D": "a sideboard or buffet, especially one without legs.", "S": ["cupboard "], "A": []}
+{"index": 72490, "D": "a sideboard or buffet, especially one without legs.", "S": ["cupboard"], "A": []}

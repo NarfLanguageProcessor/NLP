@@ -1,1 +1,1 @@
-{"index": 287074, "D": "a slight variation or difference of color, character, etc.", "S": ["complexion ", "shading "], "A": []}
+{"index": 287074, "D": "a slight variation or difference of color, character, etc.", "S": ["complexion", "shading"], "A": []}

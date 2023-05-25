@@ -1,1 +1,1 @@
-{"index": 112683, "D": "to make full; put as much as can be held into", "S": ["enough ", "filler ", "padding ", "plenty ", "satiety ", "stuffing ", "sufficiency "], "A": ["emptiness "]}
+{"index": 112683, "D": "to make full; put as much as can be held into", "S": ["enough", "filler", "padding", "plenty", "satiety", "stuffing", "sufficiency"], "A": ["emptiness"]}

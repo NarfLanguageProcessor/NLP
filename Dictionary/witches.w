@@ -1,1 +1,1 @@
-{"index": 366542, "D": "Compare warlock. ", "S": ["magician "], "A": []}
+{"index": 366542, "D": "Compare warlock. ", "S": ["magician"], "A": []}

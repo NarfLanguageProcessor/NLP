@@ -1,1 +1,1 @@
-{"index": 211197, "D": "differing in nature from what is ordinary, usual, or expected", "S": ["different ", "miscellaneous ", "unusual "], "A": ["common ", "conventional ", "habitual ", "like ", "normal ", "ordinary ", "regular ", "similar ", "standard ", "unvaried ", "usual "]}
+{"index": 211197, "D": "differing in nature from what is ordinary, usual, or expected", "S": ["different", "miscellaneous", "unusual"], "A": ["common", "conventional", "habitual", "like", "normal", "ordinary", "regular", "similar", "standard", "unvaried", "usual"]}

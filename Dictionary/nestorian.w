@@ -1,1 +1,0 @@
-{"index": 198834, "D": "one of a sect of followers of Nestorius  who denied the hypostatic union and were represented as maintaining the existence of two distinct persons in Christ.", "S": [], "A": []}

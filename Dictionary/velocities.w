@@ -1,1 +1,1 @@
-{"index": 357875, "D": "rapidity of motion or operation; swiftness; speed", "S": ["acceleration ", "momentum ", "pace ", "quickness ", "tempo "], "A": ["block ", "delay ", "hindrance ", "rest ", "slowing ", "slowness ", "stoppage "]}
+{"index": 357875, "D": "rapidity of motion or operation; swiftness; speed", "S": ["acceleration", "momentum", "pace", "quickness", "tempo"], "A": ["block", "delay", "hindrance", "rest", "slowing", "slowness", "stoppage"]}

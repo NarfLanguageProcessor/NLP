@@ -1,1 +1,1 @@
-{"index": 366014, "D": [], "S": ["Venetian blind ", "blind ", "jalousie ", "shade ", "shutter "], "A": []}
+{"index": 366014, "D": [], "S": ["Venetian blind", "blind", "jalousie", "shade", "shutter"], "A": []}

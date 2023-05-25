@@ -1,1 +1,1 @@
-{"index": 180152, "D": "in a strikingly noticeable or conspicuous way", "S": ["considerably ", "conspicuously ", "decidedly ", "greatly ", "notably ", "noticeably ", "obviously ", "remarkably ", "strikingly "], "A": ["insignificantly "]}
+{"index": 180152, "D": "in a strikingly noticeable or conspicuous way", "S": ["considerably", "conspicuously", "decidedly", "greatly", "notably", "noticeably", "obviously", "remarkably", "strikingly"], "A": ["insignificantly"]}

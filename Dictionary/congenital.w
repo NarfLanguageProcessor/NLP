@@ -1,1 +1,1 @@
-{"index": 66157, "D": "of or relating to a condition present at birth, whether inherited or caused by the environment, especially the uterine environment.", "S": ["ingrained ", "inveterate "], "A": ["contracted "]}
+{"index": 66157, "D": "of or relating to a condition present at birth, whether inherited or caused by the environment, especially the uterine environment.", "S": ["ingrained", "inveterate"], "A": ["contracted"]}

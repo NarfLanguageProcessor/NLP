@@ -1,1 +1,1 @@
-{"index": 145973, "D": "held fast or hemmed in by ice;  frozen in", "S": ["chilled ", "frigid ", "ice-cold ", "iced ", "icy "], "A": ["hot ", "warm "]}
+{"index": 145973, "D": "held fast or hemmed in by ice;  frozen in", "S": ["chilled", "frigid", "ice-cold", "iced", "icy"], "A": ["hot", "warm"]}

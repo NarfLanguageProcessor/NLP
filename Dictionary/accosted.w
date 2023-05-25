@@ -1,1 +1,1 @@
-{"index": 1709, "D": "(of animals) represented as side by side", "S": ["annoy ", "buttonhole ", "confront "], "A": ["aid ", "help ", "ignore ", "refrain ", "slight ", "turn away "]}
+{"index": 1709, "D": "(of animals) represented as side by side", "S": ["annoy", "buttonhole", "confront"], "A": ["aid", "help", "ignore", "refrain", "slight", "turn away"]}

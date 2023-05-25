@@ -1,1 +1,1 @@
-{"index": 226088, "D": "of, relating to, or characteristic of parasites. ", "S": ["parasitical "], "A": []}
+{"index": 226088, "D": "of, relating to, or characteristic of parasites. ", "S": ["parasitical"], "A": []}

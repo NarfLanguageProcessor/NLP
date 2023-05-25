@@ -1,1 +1,1 @@
-{"index": 32608, "D": "to present as a gift; give; confer  (usually followed by on or upon)", "S": ["accordance ", "bestowment ", "conferral ", "disposal ", "grant ", "present ", "presentation "], "A": []}
+{"index": 32608, "D": "to present as a gift; give; confer  (usually followed by on or upon)", "S": ["accordance", "bestowment", "conferral", "disposal", "grant", "present", "presentation"], "A": []}

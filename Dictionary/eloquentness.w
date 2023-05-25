@@ -1,1 +1,1 @@
-{"index": 97776, "D": "having or exercising the power of fluent, forceful, and appropriate speech", "S": ["articulacy ", "articulateness ", "articulation ", "diction ", "expressiveness ", "expressivity ", "facundity ", "fluency ", "loquacity ", "oration ", "oratory ", "rhetoric "], "A": []}
+{"index": 97776, "D": "having or exercising the power of fluent, forceful, and appropriate speech", "S": ["articulacy", "articulateness", "articulation", "diction", "expressiveness", "expressivity", "facundity", "fluency", "loquacity", "oration", "oratory", "rhetoric"], "A": []}

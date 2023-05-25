@@ -1,1 +1,1 @@
-{"index": 245258, "D": "the act of expressing approval or admiration; commendation; laudation.", "S": ["acclamatory ", "affirmative ", "applauding ", "approbative ", "approving ", "commendatory ", "congratulatory ", "laudatory ", "plauditory ", "praising "], "A": []}
+{"index": 245258, "D": "the act of expressing approval or admiration; commendation; laudation.", "S": ["acclamatory", "affirmative", "applauding", "approbative", "approving", "commendatory", "congratulatory", "laudatory", "plauditory", "praising"], "A": []}

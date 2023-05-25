@@ -1,1 +1,1 @@
-{"index": 13571, "D": "irritated, disturbed, or bothered", "S": ["bothered ", "miffed ", "upset "], "A": ["gratified ", "pleased "]}
+{"index": 13571, "D": "irritated, disturbed, or bothered", "S": ["bothered", "miffed", "upset"], "A": ["gratified", "pleased"]}

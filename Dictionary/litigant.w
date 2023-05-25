@@ -1,1 +1,1 @@
-{"index": 173823, "D": "a person engaged in a lawsuit.", "S": ["offender ", "prisoner ", "suspect "], "A": []}
+{"index": 173823, "D": "a person engaged in a lawsuit.", "S": ["offender", "prisoner", "suspect"], "A": []}

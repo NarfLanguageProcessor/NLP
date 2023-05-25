@@ -1,1 +1,1 @@
-{"index": 265518, "D": "of or relating to a king; royal", "S": ["wonderfully "], "A": []}
+{"index": 265518, "D": "of or relating to a king; royal", "S": ["wonderfully"], "A": []}

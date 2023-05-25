@@ -1,1 +1,1 @@
-{"index": 354906, "D": "to raise up; lift or elevate.", "S": ["raised "], "A": ["dwarfed ", "little ", "low ", "short ", "small "]}
+{"index": 354906, "D": "to raise up; lift or elevate.", "S": ["raised"], "A": ["dwarfed", "little", "low", "short", "small"]}

@@ -1,1 +1,1 @@
-{"index": 91936, "D": "crazy or eccentric.", "S": ["absurdity ", "craziness ", "foolishness ", "idiocy ", "indiscretion ", "lunacy ", "madness ", "recklessness ", "silliness ", "stupidity "], "A": ["care ", "carefulness ", "intelligence ", "sense "]}
+{"index": 91936, "D": "crazy or eccentric.", "S": ["absurdity", "craziness", "foolishness", "idiocy", "indiscretion", "lunacy", "madness", "recklessness", "silliness", "stupidity"], "A": ["care", "carefulness", "intelligence", "sense"]}

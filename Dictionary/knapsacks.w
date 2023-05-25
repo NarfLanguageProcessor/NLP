@@ -1,1 +1,1 @@
-{"index": 165446, "D": "a canvas, nylon, or leather bag for clothes, food, and other supplies, carried on the back by soldiers, hikers, etc.", "S": ["duffel bag ", "satchel "], "A": []}
+{"index": 165446, "D": "a canvas, nylon, or leather bag for clothes, food, and other supplies, carried on the back by soldiers, hikers, etc.", "S": ["duffel bag", "satchel"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 68078, "D": "Compare concave (def. 1). ", "S": ["bend ", "buckle ", "bulge ", "coil ", "crumple ", "curl ", "loop ", "skew ", "spiral ", "swerve ", "twist ", "veer "], "A": ["straighten ", "stay "]}
+{"index": 68078, "D": "Compare concave (def. 1). ", "S": ["bend", "buckle", "bulge", "coil", "crumple", "curl", "loop", "skew", "spiral", "swerve", "twist", "veer"], "A": ["straighten", "stay"]}

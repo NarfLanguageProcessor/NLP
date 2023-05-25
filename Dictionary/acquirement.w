@@ -1,1 +1,1 @@
-{"index": 2740, "D": "the act of acquiring,  especially the gaining of knowledge or mental attributes.", "S": ["achievement ", "acquisition ", "attainment ", "feat ", "gain ", "skill "], "A": ["failure ", "forfeit ", "loss "]}
+{"index": 2740, "D": "the act of acquiring,  especially the gaining of knowledge or mental attributes.", "S": ["achievement", "acquisition", "attainment", "feat", "gain", "skill"], "A": ["failure", "forfeit", "loss"]}

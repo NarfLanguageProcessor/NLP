@@ -1,1 +1,1 @@
-{"index": 153973, "D": "to furnish with knowledge, especially by a systematic method; teach; train; educate. ", "S": ["docile ", "teachable ", "trainable "], "A": []}
+{"index": 153973, "D": "to furnish with knowledge, especially by a systematic method; teach; train; educate. ", "S": ["docile", "teachable", "trainable"], "A": []}

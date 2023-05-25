@@ -1,1 +1,1 @@
-{"index": 245014, "D": "unable to produce an effect", "S": ["abandonedly ", "defenselessly ", "dependently ", "feebly ", "involuntarily ", "weakly ", "willy-nilly "], "A": []}
+{"index": 245014, "D": "unable to produce an effect", "S": ["abandonedly", "defenselessly", "dependently", "feebly", "involuntarily", "weakly", "willy-nilly"], "A": []}

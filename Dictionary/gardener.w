@@ -1,1 +1,1 @@
-{"index": 122100, "D": "a person who is employed to cultivate or care for a garden,  lawn, etc.", "S": ["grower ", "horticulturist "], "A": []}
+{"index": 122100, "D": "a person who is employed to cultivate or care for a garden,  lawn, etc.", "S": ["grower", "horticulturist"], "A": []}

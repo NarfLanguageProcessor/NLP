@@ -1,1 +1,1 @@
-{"index": 317528, "D": [], "S": ["poison gas "], "A": []}
+{"index": 317528, "D": [], "S": ["poison gas"], "A": []}

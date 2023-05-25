@@ -1,1 +1,1 @@
-{"index": 216403, "D": "a remote area or region; hinterland.", "S": ["agrarian ", "bucolic ", "homey ", "provincial ", "rustic "], "A": ["metropolitan "]}
+{"index": 216403, "D": "a remote area or region; hinterland.", "S": ["agrarian", "bucolic", "homey", "provincial", "rustic"], "A": ["metropolitan"]}

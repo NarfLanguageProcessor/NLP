@@ -1,1 +1,1 @@
-{"index": 81127, "D": "to state that (something declared or believed to be true) is not true", "S": ["adverse ", "gloomy ", "pessimistic ", "unfavorable ", "weak "], "A": ["confident ", "favorable "]}
+{"index": 81127, "D": "to state that (something declared or believed to be true) is not true", "S": ["adverse", "gloomy", "pessimistic", "unfavorable", "weak"], "A": ["confident", "favorable"]}

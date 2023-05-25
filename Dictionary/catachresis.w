@@ -1,1 +1,1 @@
-{"index": 49185, "D": "misuse or strained use of words, as in a mixed metaphor, occurring either in error or for rhetorical effect.", "S": ["atrocity ", "barbarity ", "brutality ", "cruelty ", "inhumanity "], "A": ["kindness ", "niceness "]}
+{"index": 49185, "D": "misuse or strained use of words, as in a mixed metaphor, occurring either in error or for rhetorical effect.", "S": ["atrocity", "barbarity", "brutality", "cruelty", "inhumanity"], "A": ["kindness", "niceness"]}

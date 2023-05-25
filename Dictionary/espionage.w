@@ -1,1 +1,1 @@
-{"index": 104434, "D": "the act or practice of spying.", "S": ["intelligence "], "A": []}
+{"index": 104434, "D": "the act or practice of spying.", "S": ["intelligence"], "A": []}

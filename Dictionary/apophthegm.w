@@ -1,1 +1,1 @@
-{"index": 17346, "D": "apothegm. ", "S": ["adage ", "aphorism ", "axiom ", "catchphrase ", "catchword ", "dictum ", "epithet ", "gnome ", "handle ", "maxim ", "motto ", "nickname ", "precept ", "proverb ", "saw ", "shibboleth ", "slogan "], "A": []}
+{"index": 17346, "D": "apothegm. ", "S": ["adage", "aphorism", "axiom", "catchphrase", "catchword", "dictum", "epithet", "gnome", "handle", "maxim", "motto", "nickname", "precept", "proverb", "saw", "shibboleth", "slogan"], "A": []}

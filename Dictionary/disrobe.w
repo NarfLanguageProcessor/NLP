@@ -1,1 +1,1 @@
-{"index": 89349, "D": "to undress.", "S": ["undress "], "A": ["clothe ", "cover ", "hide "]}
+{"index": 89349, "D": "to undress.", "S": ["undress"], "A": ["clothe", "cover", "hide"]}

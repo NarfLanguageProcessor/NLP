@@ -1,1 +1,1 @@
-{"index": 41655, "D": "to curry favor; behave obsequiously.", "S": ["apple-polish ", "back-scratch ", "bootlick ", "curry favor ", "fawn on ", "flatter ", "get on the right side of ", "kiss ass ", "scratch one's back ", "suck up to ", "toady "], "A": []}
+{"index": 41655, "D": "to curry favor; behave obsequiously.", "S": ["apple-polish", "back-scratch", "bootlick", "curry favor", "fawn on", "flatter", "get on the right side of", "kiss ass", "scratch one's back", "suck up to", "toady"], "A": []}

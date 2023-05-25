@@ -1,1 +1,1 @@
-{"index": 127478, "D": "a ruined city in S India, near the modern city of Hyderabad", "S": ["El Dorado ", "Golconda ", "end of the rainbow ", "good sum ", "land of milk and honey ", "large sum ", "pot of gold ", "pretty penny ", "riches of Solomon ", "tidy sum ", "weight in gold "], "A": []}
+{"index": 127478, "D": "a ruined city in S India, near the modern city of Hyderabad", "S": ["El Dorado", "Golconda", "end of the rainbow", "good sum", "land of milk and honey", "large sum", "pot of gold", "pretty penny", "riches of Solomon", "tidy sum", "weight in gold"], "A": []}

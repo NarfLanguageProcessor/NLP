@@ -1,1 +1,1 @@
-{"index": 328272, "D": "emotionally moved; ecstatic", "S": ["carried ", "conveyed ", "shifted ", "transferred "], "A": []}
+{"index": 328272, "D": "emotionally moved; ecstatic", "S": ["carried", "conveyed", "shifted", "transferred"], "A": []}

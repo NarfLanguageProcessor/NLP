@@ -1,1 +1,1 @@
-{"index": 158711, "D": "the islands of the South Pacific", "S": ["archipelago ", "enclave ", "isle ", "islet ", "peninsula ", "reef "], "A": []}
+{"index": 158711, "D": "the islands of the South Pacific", "S": ["archipelago", "enclave", "isle", "islet", "peninsula", "reef"], "A": []}

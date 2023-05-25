@@ -1,1 +1,1 @@
-{"index": 110886, "D": "a person or thing that feels. ", "S": ["antenna ", "barbel ", "claw ", "finger ", "hand ", "tentacle ", "vibrissa ", "whisker "], "A": []}
+{"index": 110886, "D": "a person or thing that feels. ", "S": ["antenna", "barbel", "claw", "finger", "hand", "tentacle", "vibrissa", "whisker"], "A": []}

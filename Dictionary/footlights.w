@@ -1,1 +1,1 @@
-{"index": 116199, "D": "lights set in a row along the front of the stage floor and shielded on the audience side", "S": ["comedy ", "farce ", "melodrama ", "play ", "production ", "scene ", "show ", "theater ", "tragedy "], "A": ["tragedy "]}
+{"index": 116199, "D": "lights set in a row along the front of the stage floor and shielded on the audience side", "S": ["comedy", "farce", "melodrama", "play", "production", "scene", "show", "theater", "tragedy"], "A": ["tragedy"]}

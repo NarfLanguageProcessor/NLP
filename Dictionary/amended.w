@@ -1,1 +1,1 @@
-{"index": 10251, "D": "(of a motion, regulation, bill, etc.) altered, rephrased, etc., by a formal procedure", "S": ["cooked ", "corrected ", "modified ", "transformed ", "updated "], "A": ["unqualified "]}
+{"index": 10251, "D": "(of a motion, regulation, bill, etc.) altered, rephrased, etc., by a formal procedure", "S": ["cooked", "corrected", "modified", "transformed", "updated"], "A": ["unqualified"]}

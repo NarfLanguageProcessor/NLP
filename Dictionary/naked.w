@@ -1,1 +1,1 @@
-{"index": 196643, "D": "being without clothing or covering; nude", "S": ["bare ", "defenseless ", "exposed ", "helpless ", "nude "], "A": ["clothed ", "covered "]}
+{"index": 196643, "D": "being without clothing or covering; nude", "S": ["bare", "defenseless", "exposed", "helpless", "nude"], "A": ["clothed", "covered"]}

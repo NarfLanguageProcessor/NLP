@@ -1,1 +1,1 @@
-{"index": 86702, "D": "(no longer in technical use) a person with alcoholism or alcohol use disorder, especially characterized by an irresistible, typically periodic craving for alcoholic drinks.", "S": ["substance abuser "], "A": []}
+{"index": 86702, "D": "(no longer in technical use) a person with alcoholism or alcohol use disorder, especially characterized by an irresistible, typically periodic craving for alcoholic drinks.", "S": ["substance abuser"], "A": []}

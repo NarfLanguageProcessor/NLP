@@ -1,1 +1,1 @@
-{"index": 28112, "D": "containing or resembling barm; frothy.", "S": ["flighty ", "foamy ", "foolish ", "frothy ", "loco ", "screwy "], "A": []}
+{"index": 28112, "D": "containing or resembling barm; frothy.", "S": ["flighty", "foamy", "foolish", "frothy", "loco", "screwy"], "A": []}

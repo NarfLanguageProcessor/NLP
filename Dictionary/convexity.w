@@ -1,1 +1,1 @@
-{"index": 68079, "D": "the state of being convex. ", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}
+{"index": 68079, "D": "the state of being convex. ", "S": ["lump", "nodule", "wart"], "A": ["depression"]}

@@ -1,1 +1,1 @@
-{"index": 280741, "D": "superficial knowledge.", "S": ["dilettante ", "inexperienced ", "inexpert ", "nonprofessional ", "unskilled ", "unskillful "], "A": []}
+{"index": 280741, "D": "superficial knowledge.", "S": ["dilettante", "inexperienced", "inexpert", "nonprofessional", "unskilled", "unskillful"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 300663, "D": "a simple past tense of speak. ", "S": ["spiral ", "spreading "], "A": []}
+{"index": 300663, "D": "a simple past tense of speak. ", "S": ["spiral", "spreading"], "A": []}

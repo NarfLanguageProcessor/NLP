@@ -1,0 +1,1 @@
+{"index": 4355, "D": "relief ornament applied to a piece.", "S": [], "A": []}

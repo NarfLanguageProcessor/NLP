@@ -1,1 +1,1 @@
-{"index": 209579, "D": "very many; being or existing in great quantity", "S": ["advantage ", "bulk ", "lead ", "majority ", "mass ", "multiplicity ", "preponderance ", "profusion ", "variety "], "A": ["minority "]}
+{"index": 209579, "D": "very many; being or existing in great quantity", "S": ["advantage", "bulk", "lead", "majority", "mass", "multiplicity", "preponderance", "profusion", "variety"], "A": ["minority"]}

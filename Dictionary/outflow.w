@@ -1,1 +1,1 @@
-{"index": 216649, "D": "the act of flowing  out", "S": ["discharge "], "A": []}
+{"index": 216649, "D": "the act of flowing  out", "S": ["discharge"], "A": []}

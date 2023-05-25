@@ -1,1 +1,1 @@
-{"index": 333363, "D": "a strong thread or string composed of two or more strands twisted together.", "S": ["yarn "], "A": ["line ", "order "]}
+{"index": 333363, "D": "a strong thread or string composed of two or more strands twisted together.", "S": ["yarn"], "A": ["line", "order"]}

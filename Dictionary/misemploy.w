@@ -1,1 +1,1 @@
-{"index": 189199, "D": "to use for the wrong purpose; use wrongly or improperly; misuse.", "S": ["misuse ", "squander "], "A": ["hoard ", "save "]}
+{"index": 189199, "D": "to use for the wrong purpose; use wrongly or improperly; misuse.", "S": ["misuse", "squander"], "A": ["hoard", "save"]}

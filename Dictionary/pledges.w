@@ -1,1 +1,1 @@
-{"index": 239739, "D": "a solemn promise or agreement to do or refrain from doing something", "S": ["agreement ", "assurance ", "guarantee ", "oath ", "promise ", "vow ", "word "], "A": ["breach ", "break "]}
+{"index": 239739, "D": "a solemn promise or agreement to do or refrain from doing something", "S": ["agreement", "assurance", "guarantee", "oath", "promise", "vow", "word"], "A": ["breach", "break"]}

@@ -1,1 +1,1 @@
-{"index": 286265, "D": "resembling serum;  of a watery nature.", "S": ["flowing "], "A": ["inflexible ", "solid ", "stable ", "unchangeable "]}
+{"index": 286265, "D": "resembling serum;  of a watery nature.", "S": ["flowing"], "A": ["inflexible", "solid", "stable", "unchangeable"]}

@@ -1,1 +1,1 @@
-{"index": 75371, "D": "like or characteristic of a bad-tempered, difficult, cantankerous person", "S": ["cantankerous ", "crusty ", "grouchy ", "grumpy ", "ornery "], "A": ["happy ", "nice ", "pleasant "]}
+{"index": 75371, "D": "like or characteristic of a bad-tempered, difficult, cantankerous person", "S": ["cantankerous", "crusty", "grouchy", "grumpy", "ornery"], "A": ["happy", "nice", "pleasant"]}

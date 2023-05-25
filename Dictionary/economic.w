@@ -1,1 +1,1 @@
-{"index": 95376, "D": "pertaining to the production, distribution, and use of income, wealth, and commodities.", "S": ["budgetary ", "commercial ", "fiscal ", "industrial ", "monetary "], "A": []}
+{"index": 95376, "D": "pertaining to the production, distribution, and use of income, wealth, and commodities.", "S": ["budgetary", "commercial", "fiscal", "industrial", "monetary"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 266762, "D": "a person who is connected with another or others by blood or marriage.", "S": ["clan ", "folk ", "group ", "house ", "household ", "people ", "tribe "], "A": ["parent "]}
+{"index": 266762, "D": "a person who is connected with another or others by blood or marriage.", "S": ["clan", "folk", "group", "house", "household", "people", "tribe"], "A": ["parent"]}

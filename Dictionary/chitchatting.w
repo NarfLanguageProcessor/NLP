@@ -1,1 +1,1 @@
-{"index": 54894, "D": "light conversation; casual talk; gossip.", "S": ["blabbering ", "blathering ", "blithering ", "driveling ", "gibbering ", "jabbering ", "prattling "], "A": []}
+{"index": 54894, "D": "light conversation; casual talk; gossip.", "S": ["blabbering", "blathering", "blithering", "driveling", "gibbering", "jabbering", "prattling"], "A": []}

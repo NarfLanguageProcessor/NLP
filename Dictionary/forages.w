@@ -1,1 +1,1 @@
-{"index": 116308, "D": "food for horses or cattle; fodder; provender. ", "S": ["comb ", "rummage ", "scour ", "scrounge "], "A": ["aid ", "assist ", "give ", "guard ", "help ", "neglect ", "protect ", "receive "]}
+{"index": 116308, "D": "food for horses or cattle; fodder; provender. ", "S": ["comb", "rummage", "scour", "scrounge"], "A": ["aid", "assist", "give", "guard", "help", "neglect", "protect", "receive"]}

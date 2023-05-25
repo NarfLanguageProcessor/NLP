@@ -1,1 +1,1 @@
-{"index": 359078, "D": [], "S": ["continuing ", "enduring ", "lingering "], "A": ["essential ", "necessary "]}
+{"index": 359078, "D": [], "S": ["continuing", "enduring", "lingering"], "A": ["essential", "necessary"]}

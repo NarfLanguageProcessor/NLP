@@ -1,1 +1,0 @@
-{"index": 209844, "D": "any of various nutbearing trees, as the hickory or walnut.", "S": [], "A": []}

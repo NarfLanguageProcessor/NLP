@@ -1,1 +1,0 @@
-{"index": 312326, "D": "a reason or argument offered in disagreement, opposition, refusal, or disapproval.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 41042, "D": "of great breadth", "S": ["deep ", "expansive ", "full ", "large ", "vast "], "A": ["narrow ", "thin "]}
+{"index": 41042, "D": "of great breadth", "S": ["deep", "expansive", "full", "large", "vast"], "A": ["narrow", "thin"]}

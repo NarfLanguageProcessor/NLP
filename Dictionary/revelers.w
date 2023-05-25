@@ -1,1 +1,1 @@
-{"index": 271145, "D": "to take great pleasure or delight (usually followed by in)", "S": ["bacchant ", "merrymaker ", "ranter ", "roisterer "], "A": []}
+{"index": 271145, "D": "to take great pleasure or delight (usually followed by in)", "S": ["bacchant", "merrymaker", "ranter", "roisterer"], "A": []}

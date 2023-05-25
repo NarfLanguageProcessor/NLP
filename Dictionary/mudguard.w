@@ -1,1 +1,1 @@
-{"index": 194697, "D": "splash guard (def. 1). ", "S": ["bumper "], "A": []}
+{"index": 194697, "D": "splash guard (def. 1). ", "S": ["bumper"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 216832, "D": "a pleasure trip, excursion, picnic, or the like", "S": ["excursion ", "expedition ", "picnic ", "vacation "], "A": []}

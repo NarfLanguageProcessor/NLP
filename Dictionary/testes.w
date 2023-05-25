@@ -1,1 +1,1 @@
-{"index": 319785, "D": "Compare ovary (def. 1). ", "S": ["family jewels ", "testicles "], "A": []}
+{"index": 319785, "D": "Compare ovary (def. 1). ", "S": ["family jewels", "testicles"], "A": []}

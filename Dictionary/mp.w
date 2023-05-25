@@ -1,1 +1,1 @@
-{"index": 194465, "D": "mezzo piano.", "S": ["gendarmerie "], "A": []}
+{"index": 194465, "D": "mezzo piano.", "S": ["gendarmerie"], "A": []}

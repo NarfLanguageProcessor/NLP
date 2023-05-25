@@ -1,1 +1,1 @@
-{"index": 133648, "D": "not soft; solid and firm to the touch; unyielding to pressure and impenetrable or almost impenetrable.", "S": ["utmost "], "A": ["worst "]}
+{"index": 133648, "D": "not soft; solid and firm to the touch; unyielding to pressure and impenetrable or almost impenetrable.", "S": ["utmost"], "A": ["worst"]}

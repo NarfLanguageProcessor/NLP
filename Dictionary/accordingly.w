@@ -1,1 +1,1 @@
-{"index": 1699, "D": "therefore; so; in due course.", "S": ["appropriately ", "correspondingly ", "properly ", "proportionately ", "respectively ", "subsequently ", "therefore ", "thus "], "A": ["inappropriately ", "unsuitably "]}
+{"index": 1699, "D": "therefore; so; in due course.", "S": ["appropriately", "correspondingly", "properly", "proportionately", "respectively", "subsequently", "therefore", "thus"], "A": ["inappropriately", "unsuitably"]}

@@ -1,1 +1,1 @@
-{"index": 113770, "D": "a person who signals with a flag  or lantern, as at a railroad crossing.", "S": ["caretaker ", "custodian ", "patrolman ", "policeman ", "warden "], "A": []}
+{"index": 113770, "D": "a person who signals with a flag  or lantern, as at a railroad crossing.", "S": ["caretaker", "custodian", "patrolman", "policeman", "warden"], "A": []}

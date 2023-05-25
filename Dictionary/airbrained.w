@@ -1,1 +1,1 @@
-{"index": 6853, "D": [], "S": ["airheaded ", "daffy ", "dippy ", "dipsy ", "dizzy ", "dopey ", "eccentric ", "empty ", "giddy ", "goofy ", "inane ", "kooky ", "rattlebrained ", "scatterbrained "], "A": []}
+{"index": 6853, "D": [], "S": ["airheaded", "daffy", "dippy", "dipsy", "dizzy", "dopey", "eccentric", "empty", "giddy", "goofy", "inane", "kooky", "rattlebrained", "scatterbrained"], "A": []}

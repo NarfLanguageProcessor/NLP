@@ -1,1 +1,1 @@
-{"index": 39223, "D": "Compare boccie, candlepins (def. 2), duckpins (def. 2), lawn bowling, ninepins (def. 1), tenpins (def. 1). ", "S": ["bowls ", "candlepins ", "duckpins ", "ninepins ", "skittles "], "A": []}
+{"index": 39223, "D": "Compare boccie, candlepins (def. 2), duckpins (def. 2), lawn bowling, ninepins (def. 1), tenpins (def. 1). ", "S": ["bowls", "candlepins", "duckpins", "ninepins", "skittles"], "A": []}

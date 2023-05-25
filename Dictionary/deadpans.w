@@ -1,1 +1,1 @@
-{"index": 77498, "D": "marked by or accomplished with a careful pretense of seriousness or calm detachment; impassive or expressionless", "S": ["deadpan ", "deadpan expression ", "impassivity ", "inscrutability ", "mask ", "seriousness ", "straight face "], "A": []}
+{"index": 77498, "D": "marked by or accomplished with a careful pretense of seriousness or calm detachment; impassive or expressionless", "S": ["deadpan", "deadpan expression", "impassivity", "inscrutability", "mask", "seriousness", "straight face"], "A": []}

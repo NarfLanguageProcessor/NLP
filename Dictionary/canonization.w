@@ -1,1 +1,1 @@
-{"index": 46508, "D": [], "S": ["anointing ", "blessing ", "dedication ", "devotion ", "exaltation ", "glorification ", "ordination "], "A": ["apathy ", "condemnation "]}
+{"index": 46508, "D": [], "S": ["anointing", "blessing", "dedication", "devotion", "exaltation", "glorification", "ordination"], "A": ["apathy", "condemnation"]}

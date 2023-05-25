@@ -1,1 +1,1 @@
-{"index": 140732, "D": "treatment of a symptom, disease, or addiction by means of hypnotism.", "S": ["fascination ", "hypnosis ", "mesmerism ", "suggestion "], "A": []}
+{"index": 140732, "D": "treatment of a symptom, disease, or addiction by means of hypnotism.", "S": ["fascination", "hypnosis", "mesmerism", "suggestion"], "A": []}

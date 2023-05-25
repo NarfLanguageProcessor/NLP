@@ -1,1 +1,1 @@
-{"index": 283086, "D": "the fertilized, matured ovule of a flowering plant, containing an embryo or rudimentary plant.", "S": ["artificial nucleation ", "nucleation ", "rainmaking "], "A": []}
+{"index": 283086, "D": "the fertilized, matured ovule of a flowering plant, containing an embryo or rudimentary plant.", "S": ["artificial nucleation", "nucleation", "rainmaking"], "A": []}

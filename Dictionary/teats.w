@@ -1,1 +1,1 @@
-{"index": 317604, "D": "the protuberance on the breast or udder in female mammals, except the monotremes, through which the milk ducts discharge; nipple or mammilla.", "S": ["bust ", "chest "], "A": ["exteriority ", "outside "]}
+{"index": 317604, "D": "the protuberance on the breast or udder in female mammals, except the monotremes, through which the milk ducts discharge; nipple or mammilla.", "S": ["bust", "chest"], "A": ["exteriority", "outside"]}

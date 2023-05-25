@@ -1,1 +1,1 @@
-{"index": 267297, "D": "to cause (a person) to remember; cause (a person) to think (of someone or something)", "S": ["advised ", "cautioned ", "forewarned ", "notified ", "prodded ", "prompted "], "A": []}
+{"index": 267297, "D": "to cause (a person) to remember; cause (a person) to think (of someone or something)", "S": ["advised", "cautioned", "forewarned", "notified", "prodded", "prompted"], "A": []}

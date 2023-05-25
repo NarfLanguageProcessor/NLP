@@ -1,1 +1,1 @@
-{"index": 11752, "D": "the plural of analysis. ", "S": ["inquiry ", "investigation ", "reasoning ", "scrutiny ", "search ", "study ", "test "], "A": ["connection ", "juncture ", "unification ", "unity ", "whole "]}
+{"index": 11752, "D": "the plural of analysis. ", "S": ["inquiry", "investigation", "reasoning", "scrutiny", "search", "study", "test"], "A": ["connection", "juncture", "unification", "unity", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 298718, "D": "the sharp-pointed head  that forms the piercing end of a spear. ", "S": ["initiate ", "launch ", "prompt ", "spur "], "A": ["end ", "finish ", "stop ", "discourage ", "dissuade ", "leave ", "misguide ", "mislead ", "neglect ", "result "]}
+{"index": 298718, "D": "the sharp-pointed head  that forms the piercing end of a spear. ", "S": ["initiate", "launch", "prompt", "spur"], "A": ["end", "finish", "stop", "discourage", "dissuade", "leave", "misguide", "mislead", "neglect", "result"]}

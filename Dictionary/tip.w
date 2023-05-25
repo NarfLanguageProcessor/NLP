@@ -1,1 +1,1 @@
-{"index": 324150, "D": "a slender or pointed end or extremity, especially of anything long or tapered", "S": ["edge "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 324150, "D": "a slender or pointed end or extremity, especially of anything long or tapered", "S": ["edge"], "A": ["base", "bottom", "nadir"]}

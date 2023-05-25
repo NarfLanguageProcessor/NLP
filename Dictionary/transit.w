@@ -1,1 +1,1 @@
-{"index": 327983, "D": "the act or fact of passing across or through; passage from one place to another.", "S": ["passage ", "shipment ", "transport ", "travel "], "A": ["hold ", "stagnation "]}
+{"index": 327983, "D": "the act or fact of passing across or through; passage from one place to another.", "S": ["passage", "shipment", "transport", "travel"], "A": ["hold", "stagnation"]}

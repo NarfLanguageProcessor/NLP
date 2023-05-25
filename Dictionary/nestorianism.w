@@ -1,1 +1,0 @@
-{"index": 198835, "D": "the doctrine that Christ was two distinct persons, divine and human, implying a denial that the Virgin Mary was the mother of God. It is attributed to Nestorius and survives in the Iraqi Church", "S": [], "A": []}

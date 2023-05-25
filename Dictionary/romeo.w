@@ -1,1 +1,1 @@
-{"index": 274092, "D": "the romantic lover of Juliet in Shakespeare's Romeo and Juliet.", "S": ["gallant ", "lover ", "wooer "], "A": []}
+{"index": 274092, "D": "the romantic lover of Juliet in Shakespeare's Romeo and Juliet.", "S": ["gallant", "lover", "wooer"], "A": []}

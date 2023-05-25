@@ -1,1 +1,1 @@
-{"index": 12948, "D": "a feeling of dread, anxiety, or anguish.", "S": ["agony ", "apprehension ", "dread ", "misgiving ", "nervousness ", "uneasiness "], "A": ["calmness ", "confidence ", "happiness "]}
+{"index": 12948, "D": "a feeling of dread, anxiety, or anguish.", "S": ["agony", "apprehension", "dread", "misgiving", "nervousness", "uneasiness"], "A": ["calmness", "confidence", "happiness"]}

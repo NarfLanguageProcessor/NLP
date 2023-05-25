@@ -1,1 +1,0 @@
-{"index": 280327, "D": "an old ragged garment; tattered article of clothing.", "S": [], "A": []}

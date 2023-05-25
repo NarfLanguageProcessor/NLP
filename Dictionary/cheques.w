@@ -1,1 +1,1 @@
-{"index": 53825, "D": "to stop or arrest the motion of suddenly or forcibly", "S": ["bill "], "A": []}
+{"index": 53825, "D": "to stop or arrest the motion of suddenly or forcibly", "S": ["bill"], "A": []}

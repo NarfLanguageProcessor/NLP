@@ -1,1 +1,1 @@
-{"index": 109354, "D": "a fairy.", "S": ["brownie ", "fairy ", "leprechaun ", "pixie "], "A": ["giant "]}
+{"index": 109354, "D": "a fairy.", "S": ["brownie", "fairy", "leprechaun", "pixie"], "A": ["giant"]}

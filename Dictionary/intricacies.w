@@ -1,1 +1,1 @@
-{"index": 156716, "D": "intricate  character or state.", "S": ["complexity "], "A": ["calm "]}
+{"index": 156716, "D": "intricate  character or state.", "S": ["complexity"], "A": ["calm"]}

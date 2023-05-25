@@ -1,1 +1,1 @@
-{"index": 131530, "D": "a flowing oil well, usually of large capacity.", "S": ["hot spring "], "A": []}
+{"index": 131530, "D": "a flowing oil well, usually of large capacity.", "S": ["hot spring"], "A": []}

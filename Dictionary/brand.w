@@ -1,1 +1,1 @@
-{"index": 39898, "D": "the kind, grade, or make of a product or service, as indicated by a stamp, trademark, or the like", "S": ["character ", "quality ", "variety "], "A": []}
+{"index": 39898, "D": "the kind, grade, or make of a product or service, as indicated by a stamp, trademark, or the like", "S": ["character", "quality", "variety"], "A": []}

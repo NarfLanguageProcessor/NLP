@@ -1,1 +1,1 @@
-{"index": 348293, "D": "definitely or strictly stated, defined, or fixed", "S": ["estimated "], "A": ["definite ", "precise "]}
+{"index": 348293, "D": "definitely or strictly stated, defined, or fixed", "S": ["estimated"], "A": ["definite", "precise"]}

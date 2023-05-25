@@ -1,1 +1,1 @@
-{"index": 94344, "D": "duplex apartment. ", "S": ["duplex ", "duplex house "], "A": []}
+{"index": 94344, "D": "duplex apartment. ", "S": ["duplex", "duplex house"], "A": []}

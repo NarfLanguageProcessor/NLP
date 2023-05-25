@@ -1,1 +1,1 @@
-{"index": 57816, "D": "something that strongly attracts attention by its brilliance,  interest, etc.", "S": ["figure ", "hero ", "luminary ", "personage ", "personality ", "someone ", "star ", "superstar "], "A": ["commoner ", "nobody ", "nonentity ", "unknown "]}
+{"index": 57816, "D": "something that strongly attracts attention by its brilliance,  interest, etc.", "S": ["figure", "hero", "luminary", "personage", "personality", "someone", "star", "superstar"], "A": ["commoner", "nobody", "nonentity", "unknown"]}

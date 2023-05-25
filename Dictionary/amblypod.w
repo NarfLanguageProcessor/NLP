@@ -1,0 +1,1 @@
+{"index": 10070, "D": "one of the primitive ungulate mammals of the extinct order Pantodonta, from the Paleocene and Eocene epochs, having a massive body and short legs.", "S": [], "A": []}

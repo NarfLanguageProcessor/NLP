@@ -1,1 +1,1 @@
-{"index": 56413, "D": "a chronological record of events; a history.", "S": ["annals ", "diary ", "journal "], "A": []}
+{"index": 56413, "D": "a chronological record of events; a history.", "S": ["annals", "diary", "journal"], "A": []}

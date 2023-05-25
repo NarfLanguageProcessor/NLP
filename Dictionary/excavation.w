@@ -1,1 +1,1 @@
-{"index": 106556, "D": "a hole or cavity made by excavating. ", "S": ["dig ", "mining ", "removal "], "A": ["solid "]}
+{"index": 106556, "D": "a hole or cavity made by excavating. ", "S": ["dig", "mining", "removal"], "A": ["solid"]}

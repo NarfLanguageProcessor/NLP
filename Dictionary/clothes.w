@@ -1,1 +1,1 @@
-{"index": 60491, "D": "garments for the body; articles of dress; wearing apparel.", "S": ["attire ", "garb ", "regalia ", "sportswear ", "wardrobe "], "A": []}
+{"index": 60491, "D": "garments for the body; articles of dress; wearing apparel.", "S": ["attire", "garb", "regalia", "sportswear", "wardrobe"], "A": []}

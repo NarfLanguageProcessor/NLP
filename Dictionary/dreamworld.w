@@ -1,1 +1,1 @@
-{"index": 92891, "D": "the world of imagination or illusion rather than of objective reality.", "S": ["bliss ", "paradise "], "A": ["hell "]}
+{"index": 92891, "D": "the world of imagination or illusion rather than of objective reality.", "S": ["bliss", "paradise"], "A": ["hell"]}

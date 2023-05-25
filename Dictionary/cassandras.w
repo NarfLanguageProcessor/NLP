@@ -1,1 +1,1 @@
-{"index": 48942, "D": "a daughter of Priam and Hecuba, a prophet cursed by Apollo so that her prophecies, though true, were fated never to be believed.", "S": ["worrywart "], "A": []}
+{"index": 48942, "D": "a daughter of Priam and Hecuba, a prophet cursed by Apollo so that her prophecies, though true, were fated never to be believed.", "S": ["worrywart"], "A": []}

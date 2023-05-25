@@ -1,1 +1,1 @@
-{"index": 113633, "D": "to make a hissing or sputtering sound; effervesce.", "S": ["buzz ", "effervesce ", "fizzle ", "froth ", "hiss ", "seethe ", "sibilate ", "simmer ", "sparkle ", "sputter ", "whisper ", "whoosh "], "A": []}
+{"index": 113633, "D": "to make a hissing or sputtering sound; effervesce.", "S": ["buzz", "effervesce", "fizzle", "froth", "hiss", "seethe", "sibilate", "simmer", "sparkle", "sputter", "whisper", "whoosh"], "A": []}

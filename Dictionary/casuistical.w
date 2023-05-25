@@ -1,1 +1,1 @@
-{"index": 49156, "D": "pertaining to casuists  or casuistry. ", "S": ["ambiguous ", "cagey ", "deceptive ", "false ", "misleading ", "unclear ", "vague "], "A": ["clear ", "definite ", "honest ", "truthful "]}
+{"index": 49156, "D": "pertaining to casuists  or casuistry. ", "S": ["ambiguous", "cagey", "deceptive", "false", "misleading", "unclear", "vague"], "A": ["clear", "definite", "honest", "truthful"]}

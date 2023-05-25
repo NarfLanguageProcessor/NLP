@@ -1,1 +1,1 @@
-{"index": 40871, "D": "water saturated or strongly impregnated with salt.", "S": ["bathe ", "brine ", "immerse ", "pickle ", "steep "], "A": ["dry "]}
+{"index": 40871, "D": "water saturated or strongly impregnated with salt.", "S": ["bathe", "brine", "immerse", "pickle", "steep"], "A": ["dry"]}

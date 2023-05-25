@@ -1,1 +1,1 @@
-{"index": 161469, "D": "a person who rides horses professionally in races.", "S": ["direct ", "guide ", "handle ", "move ", "navigate ", "negotiate ", "pilot ", "position ", "ride ", "steer ", "turn ", "twist "], "A": ["misguide ", "mislead ", "mismanage ", "neglect ", "remain ", "stay "]}
+{"index": 161469, "D": "a person who rides horses professionally in races.", "S": ["direct", "guide", "handle", "move", "navigate", "negotiate", "pilot", "position", "ride", "steer", "turn", "twist"], "A": ["misguide", "mislead", "mismanage", "neglect", "remain", "stay"]}

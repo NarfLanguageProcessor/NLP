@@ -1,1 +1,1 @@
-{"index": 96894, "D": "pertaining to electors  or election. ", "S": ["elective "], "A": []}
+{"index": 96894, "D": "pertaining to electors  or election. ", "S": ["elective"], "A": []}

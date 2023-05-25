@@ -1,1 +1,1 @@
-{"index": 50933, "D": "a central  position or state", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 50933, "D": "a central  position or state", "S": ["heart", "hub", "place"], "A": ["exterior", "exteriority", "outside"]}

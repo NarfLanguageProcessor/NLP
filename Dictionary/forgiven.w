@@ -1,1 +1,1 @@
-{"index": 117247, "D": "to grant pardon for or remission of (an offense, debt, etc.); absolve.", "S": ["pardoned ", "reinstated "], "A": []}
+{"index": 117247, "D": "to grant pardon for or remission of (an offense, debt, etc.); absolve.", "S": ["pardoned", "reinstated"], "A": []}

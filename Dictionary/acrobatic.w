@@ -1,1 +1,1 @@
-{"index": 2878, "D": "of, relating to, or like an acrobat  or acrobatics. ", "S": ["balancing ", "feats ", "gymnastics ", "somersaults ", "stunts ", "tumbling "], "A": []}
+{"index": 2878, "D": "of, relating to, or like an acrobat  or acrobatics. ", "S": ["balancing", "feats", "gymnastics", "somersaults", "stunts", "tumbling"], "A": []}

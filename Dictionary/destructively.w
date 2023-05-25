@@ -1,1 +1,1 @@
-{"index": 82984, "D": "tending to destroy;  causing destruction  or much damage (often followed by of or to)", "S": ["murderously "], "A": []}
+{"index": 82984, "D": "tending to destroy;  causing destruction  or much damage (often followed by of or to)", "S": ["murderously"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 212539, "D": "present everywhere at the same time", "S": ["infinite ", "pervasive ", "ubiquitous "], "A": ["limited "]}
+{"index": 212539, "D": "present everywhere at the same time", "S": ["infinite", "pervasive", "ubiquitous"], "A": ["limited"]}

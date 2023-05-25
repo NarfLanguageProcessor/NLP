@@ -1,1 +1,1 @@
-{"index": 313507, "D": "to mount upon; get on the top of; mount upon and cross over", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}
+{"index": 313507, "D": "to mount upon; get on the top of; mount upon and cross over", "S": ["humbled", "overpowered", "overwhelmed", "routed"], "A": []}

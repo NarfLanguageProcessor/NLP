@@ -1,1 +1,1 @@
-{"index": 162384, "D": "a sweet, custardlike food of flavored milk curdled with rennet.", "S": ["excursion "], "A": []}
+{"index": 162384, "D": "a sweet, custardlike food of flavored milk curdled with rennet.", "S": ["excursion"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 73730, "D": "the cultivated produce of the ground, while growing or when gathered", "S": ["flora ", "greenery "], "A": []}
+{"index": 73730, "D": "the cultivated produce of the ground, while growing or when gathered", "S": ["flora", "greenery"], "A": []}

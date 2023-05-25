@@ -1,1 +1,1 @@
-{"index": 99221, "D": "the brain.", "S": ["head ", "intellect ", "mind "], "A": ["body "]}
+{"index": 99221, "D": "the brain.", "S": ["head", "intellect", "mind"], "A": ["body"]}

@@ -1,1 +1,1 @@
-{"index": 89808, "D": "distinguished as not being the same; not identical; separate  (sometimes followed by from)", "S": ["detachment ", "dissimilarity ", "dissociation ", "individuality ", "separation "], "A": ["attachment ", "connection "]}
+{"index": 89808, "D": "distinguished as not being the same; not identical; separate  (sometimes followed by from)", "S": ["detachment", "dissimilarity", "dissociation", "individuality", "separation"], "A": ["attachment", "connection"]}

@@ -1,1 +1,0 @@
-{"index": 330345, "D": "a colorless, crystalline, solid compound containing three benzene rings, C19H16, from which many dyes are derived.", "S": [], "A": []}

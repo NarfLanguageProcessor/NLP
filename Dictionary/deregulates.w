@@ -1,1 +1,1 @@
-{"index": 82036, "D": "to remove government regulatory controls from (an industry, a commodity, etc.)", "S": ["decontrol ", "denationalize "], "A": []}
+{"index": 82036, "D": "to remove government regulatory controls from (an industry, a commodity, etc.)", "S": ["decontrol", "denationalize"], "A": []}

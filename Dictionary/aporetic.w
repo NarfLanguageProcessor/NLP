@@ -1,1 +1,1 @@
-{"index": 17364, "D": [], "S": ["questioning "], "A": ["believing ", "trusting ", "unquestioning ", "unsuspicious "]}
+{"index": 17364, "D": [], "S": ["questioning"], "A": ["believing", "trusting", "unquestioning", "unsuspicious"]}

@@ -1,0 +1,1 @@
+{"index": 18076, "D": "belief in, or reliance upon, a priori reasoning, arguments, or principles.", "S": [], "A": []}

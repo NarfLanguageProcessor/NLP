@@ -1,1 +1,1 @@
-{"index": 301650, "D": "the condition of being squalid; filth and misery.", "S": ["decay ", "destitution ", "starvation "], "A": []}
+{"index": 301650, "D": "the condition of being squalid; filth and misery.", "S": ["decay", "destitution", "starvation"], "A": []}

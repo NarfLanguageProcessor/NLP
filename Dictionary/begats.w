@@ -1,1 +1,1 @@
-{"index": 30587, "D": "genealogical lists, especially those in the Old Testament.", "S": ["offspring "], "A": ["parent "]}
+{"index": 30587, "D": "genealogical lists, especially those in the Old Testament.", "S": ["offspring"], "A": ["parent"]}

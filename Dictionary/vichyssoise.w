@@ -1,1 +1,1 @@
-{"index": 359398, "D": "a cream soup of potatoes and leeks, usually served chilled and often garnished with chopped chives.", "S": ["bouillon ", "chowder ", "porridge ", "puree "], "A": []}
+{"index": 359398, "D": "a cream soup of potatoes and leeks, usually served chilled and often garnished with chopped chives.", "S": ["bouillon", "chowder", "porridge", "puree"], "A": []}

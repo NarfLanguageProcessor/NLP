@@ -1,1 +1,1 @@
-{"index": 165173, "D": "a very small, compact kitchen. ", "S": ["gallery "], "A": []}
+{"index": 165173, "D": "a very small, compact kitchen. ", "S": ["gallery"], "A": []}

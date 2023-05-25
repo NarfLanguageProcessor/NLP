@@ -1,1 +1,1 @@
-{"index": 70396, "D": "a light portable bed, especially one of canvas on a folding frame.", "S": ["bunk "], "A": []}
+{"index": 70396, "D": "a light portable bed, especially one of canvas on a folding frame.", "S": ["bunk"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 359319, "D": "one of the stiff, bristly hairs growing about the mouth of certain animals, as a whisker of a cat.", "S": ["barb ", "feeler ", "fiber ", "point ", "prickle ", "quill ", "spine ", "stubble ", "thorn ", "whisker "], "A": []}
+{"index": 359319, "D": "one of the stiff, bristly hairs growing about the mouth of certain animals, as a whisker of a cat.", "S": ["barb", "feeler", "fiber", "point", "prickle", "quill", "spine", "stubble", "thorn", "whisker"], "A": []}

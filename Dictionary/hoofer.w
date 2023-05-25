@@ -1,1 +1,1 @@
-{"index": 143517, "D": "a professional dancer, especially a tap dancer.", "S": ["dancer "], "A": []}
+{"index": 143517, "D": "a professional dancer, especially a tap dancer.", "S": ["dancer"], "A": []}

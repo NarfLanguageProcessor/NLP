@@ -1,1 +1,1 @@
-{"index": 170148, "D": "according to law; lawful", "S": ["approve ", "authorize ", "codify ", "constitute ", "decriminalize ", "enact ", "permit ", "regulate "], "A": ["deny ", "disallow ", "disorganize ", "refuse ", "reject "]}
+{"index": 170148, "D": "according to law; lawful", "S": ["approve", "authorize", "codify", "constitute", "decriminalize", "enact", "permit", "regulate"], "A": ["deny", "disallow", "disorganize", "refuse", "reject"]}

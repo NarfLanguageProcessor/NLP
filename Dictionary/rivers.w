@@ -1,1 +1,1 @@
-{"index": 273404, "D": "U.S. painter.", "S": ["estuary ", "stream ", "tributary "], "A": []}
+{"index": 273404, "D": "U.S. painter.", "S": ["estuary", "stream", "tributary"], "A": []}

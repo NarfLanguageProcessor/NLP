@@ -1,0 +1,1 @@
+{"index": 4047, "D": "addition of an adjunct. ", "S": [], "A": []}

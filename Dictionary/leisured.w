@@ -1,1 +1,1 @@
-{"index": 170283, "D": "having leisure", "S": ["idle ", "inactive ", "jobless ", "underemployed "], "A": ["active ", "busy ", "working "]}
+{"index": 170283, "D": "having leisure", "S": ["idle", "inactive", "jobless", "underemployed"], "A": ["active", "busy", "working"]}

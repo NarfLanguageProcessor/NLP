@@ -1,1 +1,1 @@
-{"index": 106293, "D": "tending to evoke", "S": ["expressive ", "reminiscent "], "A": []}
+{"index": 106293, "D": "tending to evoke", "S": ["expressive", "reminiscent"], "A": []}

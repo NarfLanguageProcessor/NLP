@@ -1,1 +1,1 @@
-{"index": 31974, "D": "to scold; rebuke", "S": ["castigate ", "chide ", "rebuke ", "reprimand ", "reproach ", "revile ", "scold ", "upbraid "], "A": ["compliment ", "flatter ", "laud ", "praise "]}
+{"index": 31974, "D": "to scold; rebuke", "S": ["castigate", "chide", "rebuke", "reprimand", "reproach", "revile", "scold", "upbraid"], "A": ["compliment", "flatter", "laud", "praise"]}

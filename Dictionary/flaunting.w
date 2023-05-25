@@ -1,1 +1,1 @@
-{"index": 114176, "D": "to parade or display oneself conspicuously, defiantly, or boldly.", "S": ["ornate ", "ostentatious ", "pretentious "], "A": []}
+{"index": 114176, "D": "to parade or display oneself conspicuously, defiantly, or boldly.", "S": ["ornate", "ostentatious", "pretentious"], "A": []}

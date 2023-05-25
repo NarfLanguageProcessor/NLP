@@ -1,1 +1,1 @@
-{"index": 297021, "D": "a broad-brimmed hat of straw or felt, usually tall-crowned, worn especially in Spain, Mexico, and the southwestern United States.", "S": ["fedora ", "headgear ", "helmet "], "A": []}
+{"index": 297021, "D": "a broad-brimmed hat of straw or felt, usually tall-crowned, worn especially in Spain, Mexico, and the southwestern United States.", "S": ["fedora", "headgear", "helmet"], "A": []}

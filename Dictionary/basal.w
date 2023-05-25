@@ -1,1 +1,1 @@
-{"index": 28463, "D": "of, at, or forming the base.", "S": ["beginning ", "easy ", "elementary ", "fundamental ", "initial ", "lowest ", "necessary "], "A": []}
+{"index": 28463, "D": "of, at, or forming the base.", "S": ["beginning", "easy", "elementary", "fundamental", "initial", "lowest", "necessary"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 297583, "D": "in a painful manner.", "S": ["acutely ", "badly ", "greatly ", "sadly ", "severely ", "woefully "], "A": []}
+{"index": 297583, "D": "in a painful manner.", "S": ["acutely", "badly", "greatly", "sadly", "severely", "woefully"], "A": []}

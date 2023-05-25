@@ -1,1 +1,1 @@
-{"index": 46154, "D": "glowing; incandescent.", "S": ["dazzling ", "glowing ", "hot ", "lit ", "luminescent ", "white "], "A": []}
+{"index": 46154, "D": "glowing; incandescent.", "S": ["dazzling", "glowing", "hot", "lit", "luminescent", "white"], "A": []}

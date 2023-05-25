@@ -1,1 +1,1 @@
-{"index": 297167, "D": "sounding;  having sound. ", "S": ["affricate ", "click ", "consonant ", "diphthong ", "fricative ", "implosive ", "liquid ", "phone ", "phonetic entity ", "phonetic unit ", "plosive ", "sibilant ", "sonant ", "spirant ", "syllable ", "vocable "], "A": []}
+{"index": 297167, "D": "sounding;  having sound. ", "S": ["affricate", "click", "consonant", "diphthong", "fricative", "implosive", "liquid", "phone", "phonetic entity", "phonetic unit", "plosive", "sibilant", "sonant", "spirant", "syllable", "vocable"], "A": []}

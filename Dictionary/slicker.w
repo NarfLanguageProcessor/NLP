@@ -1,1 +1,1 @@
-{"index": 294014, "D": "a long, loose oilskin raincoat.", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}
+{"index": 294014, "D": "a long, loose oilskin raincoat.", "S": ["cloak", "frock", "jacket", "overcoat", "raincoat", "suit", "tuxedo", "windbreaker", "wrap"], "A": []}

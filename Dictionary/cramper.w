@@ -1,1 +1,1 @@
-{"index": 71993, "D": "a spiked metal plate used as a brace for the feet in throwing the stone", "S": ["circumscribed ", "cramped ", "imprisoned ", "restrained ", "restricted "], "A": ["healthy ", "well "]}
+{"index": 71993, "D": "a spiked metal plate used as a brace for the feet in throwing the stone", "S": ["circumscribed", "cramped", "imprisoned", "restrained", "restricted"], "A": ["healthy", "well"]}

@@ -1,1 +1,1 @@
-{"index": 293736, "D": "a long thin, narrow strip of wood, metal, etc., used as a support for a bed, as one of the horizontal laths of a Venetian blind, etc.", "S": ["bulk ", "chunk ", "extent ", "load ", "lot ", "measure ", "number ", "supply ", "ton ", "volume "], "A": []}
+{"index": 293736, "D": "a long thin, narrow strip of wood, metal, etc., used as a support for a bed, as one of the horizontal laths of a Venetian blind, etc.", "S": ["bulk", "chunk", "extent", "load", "lot", "measure", "number", "supply", "ton", "volume"], "A": []}

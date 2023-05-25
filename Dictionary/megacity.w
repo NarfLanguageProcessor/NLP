@@ -1,1 +1,0 @@
-{"index": 182343, "D": "a city  having a population of one million or more.", "S": [], "A": []}

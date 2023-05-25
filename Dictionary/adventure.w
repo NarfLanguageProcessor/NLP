@@ -1,1 +1,1 @@
-{"index": 4607, "D": "an exciting or very unusual experience.", "S": ["experience ", "exploit ", "feat ", "scene ", "trip "], "A": ["abstention ", "assurance ", "certainty ", "fact ", "plan ", "protection ", "reality ", "safety ", "surety ", "truth "]}
+{"index": 4607, "D": "an exciting or very unusual experience.", "S": ["experience", "exploit", "feat", "scene", "trip"], "A": ["abstention", "assurance", "certainty", "fact", "plan", "protection", "reality", "safety", "surety", "truth"]}

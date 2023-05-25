@@ -1,1 +1,1 @@
-{"index": 157002, "D": "to enter forcefully as an enemy; go into with hostile intent", "S": ["combative ", "contentious ", "destructive ", "intrusive ", "threatening "], "A": ["calm ", "complaisant ", "easygoing ", "laid-back "]}
+{"index": 157002, "D": "to enter forcefully as an enemy; go into with hostile intent", "S": ["combative", "contentious", "destructive", "intrusive", "threatening"], "A": ["calm", "complaisant", "easygoing", "laid-back"]}

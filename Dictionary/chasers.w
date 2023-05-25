@@ -1,1 +1,1 @@
-{"index": 53017, "D": "a person or thing that chases or pursues.", "S": ["adulterer ", "chaser ", "cruiser ", "dallier ", "debaucher ", "flirt ", "gallant ", "lover ", "operator ", "swinger "], "A": ["faithful "]}
+{"index": 53017, "D": "a person or thing that chases or pursues.", "S": ["adulterer", "chaser", "cruiser", "dallier", "debaucher", "flirt", "gallant", "lover", "operator", "swinger"], "A": ["faithful"]}

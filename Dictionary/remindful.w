@@ -1,1 +1,1 @@
-{"index": 267300, "D": "reviving memory of something; reminiscent.", "S": ["connotative ", "evocative ", "implied ", "impressionistic ", "indirect ", "inferred "], "A": []}
+{"index": 267300, "D": "reviving memory of something; reminiscent.", "S": ["connotative", "evocative", "implied", "impressionistic", "indirect", "inferred"], "A": []}

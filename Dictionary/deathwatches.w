@@ -1,1 +1,1 @@
-{"index": 77673, "D": "a vigil beside a dying or dead person.", "S": ["rites ", "vigil ", "watch "], "A": []}
+{"index": 77673, "D": "a vigil beside a dying or dead person.", "S": ["rites", "vigil", "watch"], "A": []}

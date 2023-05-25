@@ -1,1 +1,1 @@
-{"index": 100344, "D": "the art or science of making practical application of the knowledge of pure sciences, as physics or chemistry, as in the construction of engines,  bridges, buildings, mines, ships, and chemical plants.", "S": ["construction ", "manufacturing "], "A": []}
+{"index": 100344, "D": "the art or science of making practical application of the knowledge of pure sciences, as physics or chemistry, as in the construction of engines,  bridges, buildings, mines, ships, and chemical plants.", "S": ["construction", "manufacturing"], "A": []}

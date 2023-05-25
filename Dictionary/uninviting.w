@@ -1,1 +1,1 @@
-{"index": 344874, "D": "not inviting;  unpleasant", "S": ["awful ", "bad ", "disgusting ", "displeasing ", "distasteful ", "nasty ", "nauseating ", "offensive ", "repulsive ", "rotten ", "sickening ", "sour ", "unappealing ", "unappetizing ", "unpalatable ", "unpleasant "], "A": []}
+{"index": 344874, "D": "not inviting;  unpleasant", "S": ["awful", "bad", "disgusting", "displeasing", "distasteful", "nasty", "nauseating", "offensive", "repulsive", "rotten", "sickening", "sour", "unappealing", "unappetizing", "unpalatable", "unpleasant"], "A": []}

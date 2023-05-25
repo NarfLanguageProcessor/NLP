@@ -1,1 +1,1 @@
-{"index": 301175, "D": "to overstrain or wrench (the ligaments of an ankle, wrist, or other joint) so as to injure without fracture or dislocation.", "S": ["strain "], "A": []}
+{"index": 301175, "D": "to overstrain or wrench (the ligaments of an ankle, wrist, or other joint) so as to injure without fracture or dislocation.", "S": ["strain"], "A": []}

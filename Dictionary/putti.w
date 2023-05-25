@@ -1,1 +1,0 @@
-{"index": 257345, "D": "a representation of a cherubic infant, often shown winged.", "S": [], "A": []}

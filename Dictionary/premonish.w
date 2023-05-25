@@ -1,1 +1,1 @@
-{"index": 248455, "D": "to warn beforehand.", "S": ["presage "], "A": []}
+{"index": 248455, "D": "to warn beforehand.", "S": ["presage"], "A": []}

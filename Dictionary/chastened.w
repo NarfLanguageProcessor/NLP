@@ -1,1 +1,1 @@
-{"index": 53052, "D": "to inflict suffering upon for purposes of moral improvement; chastise. ", "S": ["guilt-ridden ", "repentant ", "sorry "], "A": []}
+{"index": 53052, "D": "to inflict suffering upon for purposes of moral improvement; chastise. ", "S": ["guilt-ridden", "repentant", "sorry"], "A": []}

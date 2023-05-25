@@ -1,1 +1,0 @@
-{"index": 201347, "D": "of, showing, or expressing anticipation. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197269, "D": "to bring under the ownership or control of a nation,  as industries and land", "S": ["acclimatization ", "assimilation ", "naturalization "], "A": []}
+{"index": 197269, "D": "to bring under the ownership or control of a nation,  as industries and land", "S": ["acclimatization", "assimilation", "naturalization"], "A": []}

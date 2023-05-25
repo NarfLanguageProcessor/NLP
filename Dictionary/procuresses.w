@@ -1,1 +1,1 @@
-{"index": 251496, "D": "a woman who procures prostitutes.", "S": ["whore "], "A": []}
+{"index": 251496, "D": "a woman who procures prostitutes.", "S": ["whore"], "A": []}

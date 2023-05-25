@@ -1,1 +1,1 @@
-{"index": 151736, "D": "not expressive;  lacking in expression.", "S": ["devoid ", "dull ", "empty ", "flat ", "impassive ", "vacant "], "A": ["expressive "]}
+{"index": 151736, "D": "not expressive;  lacking in expression.", "S": ["devoid", "dull", "empty", "flat", "impassive", "vacant"], "A": ["expressive"]}

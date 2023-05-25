@@ -1,1 +1,1 @@
-{"index": 326356, "D": "full of twists, turns, or bends; twisting, winding, or crooked", "S": ["circuitous ", "convoluted ", "indirect ", "labyrinthine ", "meandering ", "serpentine ", "twisting ", "winding "], "A": ["direct ", "simple ", "straight ", "straightforward "]}
+{"index": 326356, "D": "full of twists, turns, or bends; twisting, winding, or crooked", "S": ["circuitous", "convoluted", "indirect", "labyrinthine", "meandering", "serpentine", "twisting", "winding"], "A": ["direct", "simple", "straight", "straightforward"]}

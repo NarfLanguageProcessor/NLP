@@ -1,1 +1,0 @@
-{"index": 298331, "D": "a small, thin, often circular piece of glittering metal or other material, used especially for decorating garments.", "S": [], "A": []}

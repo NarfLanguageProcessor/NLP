@@ -1,1 +1,1 @@
-{"index": 117982, "D": "a long covered wagon for carrying baggage, goods, military supplies, etc.; a van or tumbril.", "S": ["car ", "caravan ", "carriage ", "cart ", "chariot ", "lorry ", "van "], "A": []}
+{"index": 117982, "D": "a long covered wagon for carrying baggage, goods, military supplies, etc.; a van or tumbril.", "S": ["car", "caravan", "carriage", "cart", "chariot", "lorry", "van"], "A": []}

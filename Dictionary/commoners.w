@@ -1,1 +1,1 @@
-{"index": 64167, "D": "a common person, as distinguished from one with rank, status, etc.", "S": ["masses ", "rabble ", "riffraff ", "unwashed "], "A": []}
+{"index": 64167, "D": "a common person, as distinguished from one with rank, status, etc.", "S": ["masses", "rabble", "riffraff", "unwashed"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 39280, "D": "a person who fights as a sport, usually with gloved fists, according to set rules; prize-fighter; pugilist.", "S": ["briefs ", "drawers ", "shorts ", "underpants ", "undershorts ", "underwear "], "A": []}
+{"index": 39280, "D": "a person who fights as a sport, usually with gloved fists, according to set rules; prize-fighter; pugilist.", "S": ["briefs", "drawers", "shorts", "underpants", "undershorts", "underwear"], "A": []}

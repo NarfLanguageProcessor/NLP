@@ -1,1 +1,1 @@
-{"index": 98708, "D": "of or relating to empathy", "S": ["compassionate ", "empathetic ", "feeling ", "sensitive ", "sympathetic "], "A": []}
+{"index": 98708, "D": "of or relating to empathy", "S": ["compassionate", "empathetic", "feeling", "sensitive", "sympathetic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 322765, "D": "a fibrinous clot that forms in and obstructs a blood vessel, or that forms in one of the chambers of the heart.", "S": ["coagulum ", "crassamentum ", "embolism ", "embolus ", "grume "], "A": []}
+{"index": 322765, "D": "a fibrinous clot that forms in and obstructs a blood vessel, or that forms in one of the chambers of the heart.", "S": ["coagulum", "crassamentum", "embolism", "embolus", "grume"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 44736, "D": "the sweet flag, Acorus calamus.", "S": ["fringe ", "plume "], "A": []}
+{"index": 44736, "D": "the sweet flag, Acorus calamus.", "S": ["fringe", "plume"], "A": []}

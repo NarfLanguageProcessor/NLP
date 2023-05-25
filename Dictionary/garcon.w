@@ -1,1 +1,1 @@
-{"index": 122088, "D": "(usually in direct address) a waiter in a restaurant.", "S": ["attendant ", "servant ", "steward ", "waitress "], "A": []}
+{"index": 122088, "D": "(usually in direct address) a waiter in a restaurant.", "S": ["attendant", "servant", "steward", "waitress"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 252279, "D": "a declaration that something will or will not be done, given, etc., by one", "S": ["agreement ", "assurance ", "commitment ", "guarantee ", "obligation ", "pact ", "pledge ", "vow ", "word "], "A": ["breach ", "break ", "disagreement ", "denial ", "divorce "]}
+{"index": 252279, "D": "a declaration that something will or will not be done, given, etc., by one", "S": ["agreement", "assurance", "commitment", "guarantee", "obligation", "pact", "pledge", "vow", "word"], "A": ["breach", "break", "disagreement", "denial", "divorce"]}

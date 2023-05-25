@@ -1,1 +1,1 @@
-{"index": 62667, "D": "lacking sympathy or feeling; indifferent; unkind.", "S": ["crass ", "heartless ", "uncaring ", "unkind ", "unresponsive "], "A": ["considerate ", "kind ", "nice "]}
+{"index": 62667, "D": "lacking sympathy or feeling; indifferent; unkind.", "S": ["crass", "heartless", "uncaring", "unkind", "unresponsive"], "A": ["considerate", "kind", "nice"]}

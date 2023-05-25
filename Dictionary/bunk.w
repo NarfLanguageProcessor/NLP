@@ -1,1 +1,1 @@
-{"index": 42881, "D": "a built-in platform bed, as on a ship.", "S": ["baloney ", "rubbish "], "A": ["sense ", "truth "]}
+{"index": 42881, "D": "a built-in platform bed, as on a ship.", "S": ["baloney", "rubbish"], "A": ["sense", "truth"]}

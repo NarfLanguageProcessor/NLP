@@ -1,1 +1,1 @@
-{"index": 159385, "D": "the act of sending out or putting forth; promulgation; distribution", "S": ["appearing ", "deriving ", "emanating ", "emerging ", "ensuing ", "flowing ", "following ", "originating ", "proceeding ", "resulting ", "springing ", "stemming "], "A": []}
+{"index": 159385, "D": "the act of sending out or putting forth; promulgation; distribution", "S": ["appearing", "deriving", "emanating", "emerging", "ensuing", "flowing", "following", "originating", "proceeding", "resulting", "springing", "stemming"], "A": []}

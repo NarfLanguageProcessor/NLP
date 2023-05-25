@@ -1,1 +1,1 @@
-{"index": 198919, "D": "a supportive system of sharing information and services among individuals and groups having a common interest", "S": ["head start "], "A": []}
+{"index": 198919, "D": "a supportive system of sharing information and services among individuals and groups having a common interest", "S": ["head start"], "A": []}

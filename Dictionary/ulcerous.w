@@ -1,1 +1,1 @@
-{"index": 333738, "D": "of the nature of an ulcer;  characterized by the formation of ulcers. ", "S": ["cankerous ", "helcoid ", "ulcerated "], "A": []}
+{"index": 333738, "D": "of the nature of an ulcer;  characterized by the formation of ulcers. ", "S": ["cankerous", "helcoid", "ulcerated"], "A": []}

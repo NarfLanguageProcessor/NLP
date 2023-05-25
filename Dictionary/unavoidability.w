@@ -1,1 +1,1 @@
-{"index": 335490, "D": "unable to be avoided; inevitable", "S": ["certitude ", "completeness ", "decisiveness ", "entirety ", "finish ", "inevitableness ", "intactness ", "integrity ", "perfection ", "resolution ", "totality ", "wholeness "], "A": ["fraction ", "incompleteness ", "part "]}
+{"index": 335490, "D": "unable to be avoided; inevitable", "S": ["certitude", "completeness", "decisiveness", "entirety", "finish", "inevitableness", "intactness", "integrity", "perfection", "resolution", "totality", "wholeness"], "A": ["fraction", "incompleteness", "part"]}

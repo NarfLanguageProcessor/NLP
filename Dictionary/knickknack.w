@@ -1,1 +1,1 @@
-{"index": 165534, "D": "an ornamental trinket or gimcrack; a bit of bric-a-brac.", "S": ["bauble ", "bric-a-brac ", "curio ", "ornament ", "souvenir ", "trinket "], "A": []}
+{"index": 165534, "D": "an ornamental trinket or gimcrack; a bit of bric-a-brac.", "S": ["bauble", "bric-a-brac", "curio", "ornament", "souvenir", "trinket"], "A": []}

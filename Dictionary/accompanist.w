@@ -1,1 +1,1 @@
-{"index": 1664, "D": "a person who plays an accompaniment. ", "S": ["artist ", "crooner ", "diva ", "musician ", "soloist ", "vocalist ", "voice "], "A": []}
+{"index": 1664, "D": "a person who plays an accompaniment. ", "S": ["artist", "crooner", "diva", "musician", "soloist", "vocalist", "voice"], "A": []}

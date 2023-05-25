@@ -1,1 +1,1 @@
-{"index": 278378, "D": "any of various malignant tumors composed of neoplastic cells resembling embryonic connective tissue.", "S": ["Cancer ", "carcinoma ", "cyst ", "lump ", "swelling "], "A": []}
+{"index": 278378, "D": "any of various malignant tumors composed of neoplastic cells resembling embryonic connective tissue.", "S": ["Cancer", "carcinoma", "cyst", "lump", "swelling"], "A": []}

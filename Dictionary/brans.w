@@ -1,1 +1,1 @@
-{"index": 39960, "D": "the partly ground husk of wheat or other grain, separated from flour meal by sifting.", "S": ["corn ", "grain ", "rice ", "wheat "], "A": []}
+{"index": 39960, "D": "the partly ground husk of wheat or other grain, separated from flour meal by sifting.", "S": ["corn", "grain", "rice", "wheat"], "A": []}

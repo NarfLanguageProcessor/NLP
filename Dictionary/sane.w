@@ -1,1 +1,0 @@
-{"index": 277842, "D": "free from mental derangement; having a sound, healthy mind", "S": ["balanced ", "fair-minded ", "healthy ", "intelligent ", "levelheaded ", "logical ", "lucid ", "normal ", "prudent ", "rational ", "sensible ", "sober ", "wise "], "A": ["foolish ", "irrational ", "stupid ", "unbalanced ", "unintelligent ", "unrealistic ", "unreasonable ", "unwise "]}

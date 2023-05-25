@@ -1,1 +1,1 @@
-{"index": 35547, "D": "any payment extorted by intimidation, as by threats of injurious revelations or accusations.", "S": ["convict ", "crook ", "culprit ", "felon ", "fugitive ", "gangster ", "hoodlum ", "hooligan ", "lawbreaker ", "mobster ", "offender ", "thug "], "A": ["police "]}
+{"index": 35547, "D": "any payment extorted by intimidation, as by threats of injurious revelations or accusations.", "S": ["convict", "crook", "culprit", "felon", "fugitive", "gangster", "hoodlum", "hooligan", "lawbreaker", "mobster", "offender", "thug"], "A": ["police"]}

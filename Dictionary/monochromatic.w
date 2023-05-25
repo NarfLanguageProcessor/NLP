@@ -1,1 +1,1 @@
-{"index": 192156, "D": "of or having one color.", "S": ["monochrome "], "A": ["colorful "]}
+{"index": 192156, "D": "of or having one color.", "S": ["monochrome"], "A": ["colorful"]}

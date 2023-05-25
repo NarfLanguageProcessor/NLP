@@ -1,1 +1,1 @@
-{"index": 318544, "D": "characterized by or subject to tempests", "S": ["heated ", "impassioned ", "passionate ", "turbulent "], "A": ["apathetic ", "calm ", "cool ", "indifferent ", "unexcited "]}
+{"index": 318544, "D": "characterized by or subject to tempests", "S": ["heated", "impassioned", "passionate", "turbulent"], "A": ["apathetic", "calm", "cool", "indifferent", "unexcited"]}

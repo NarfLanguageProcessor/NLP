@@ -1,1 +1,1 @@
-{"index": 275700, "D": "stunted; dwarfish", "S": ["low ", "small ", "thick ", "tiny "], "A": ["big ", "enormous ", "huge ", "large ", "tall "]}
+{"index": 275700, "D": "stunted; dwarfish", "S": ["low", "small", "thick", "tiny"], "A": ["big", "enormous", "huge", "large", "tall"]}

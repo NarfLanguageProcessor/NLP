@@ -1,1 +1,1 @@
-{"index": 241322, "D": "in a marked, emphasized, or particularly directed fashion", "S": ["consciously ", "knowingly ", "purposely ", "studiously ", "voluntarily ", "willfully "], "A": ["unintentionally ", "unwittingly "]}
+{"index": 241322, "D": "in a marked, emphasized, or particularly directed fashion", "S": ["consciously", "knowingly", "purposely", "studiously", "voluntarily", "willfully"], "A": ["unintentionally", "unwittingly"]}

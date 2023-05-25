@@ -1,1 +1,1 @@
-{"index": 40506, "D": "speaking or expressed in a concise or terse style; using brevity of speech", "S": ["blunt ", "blustering ", "brief ", "direct ", "frank ", "open ", "rough ", "short ", "tart "], "A": ["courteous ", "devious ", "dishonest ", "lengthy ", "long ", "polite "]}
+{"index": 40506, "D": "speaking or expressed in a concise or terse style; using brevity of speech", "S": ["blunt", "blustering", "brief", "direct", "frank", "open", "rough", "short", "tart"], "A": ["courteous", "devious", "dishonest", "lengthy", "long", "polite"]}

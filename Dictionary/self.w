@@ -1,1 +1,1 @@
-{"index": 283523, "D": "a person or thing referred to with respect to complete individuality", "S": ["ascetic ", "automatic "], "A": ["other "]}
+{"index": 283523, "D": "a person or thing referred to with respect to complete individuality", "S": ["ascetic", "automatic"], "A": ["other"]}

@@ -1,1 +1,1 @@
-{"index": 115816, "D": "to prevent the success of; frustrate; balk", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}
+{"index": 115816, "D": "to prevent the success of; frustrate; balk", "S": ["opposing"], "A": ["unwary", "unwatchful"]}

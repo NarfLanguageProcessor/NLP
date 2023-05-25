@@ -1,1 +1,1 @@
-{"index": 114074, "D": "having flatfeet. ", "S": ["asleep ", "asleep on the job ", "daydreaming ", "inattentive ", "napping ", "spaced out ", "unalert ", "unready ", "unsuspecting ", "unvigilant ", "unwatchful ", "zoned out "], "A": []}
+{"index": 114074, "D": "having flatfeet. ", "S": ["asleep", "asleep on the job", "daydreaming", "inattentive", "napping", "spaced out", "unalert", "unready", "unsuspecting", "unvigilant", "unwatchful", "zoned out"], "A": []}

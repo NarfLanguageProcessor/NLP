@@ -1,1 +1,1 @@
-{"index": 67122, "D": "to give the meaning or intention of; explain; interpret. ", "S": ["define ", "infer ", "interpret ", "parse ", "translate "], "A": ["misunderstand ", "cloud ", "confuse ", "fail ", "obscure "]}
+{"index": 67122, "D": "to give the meaning or intention of; explain; interpret. ", "S": ["define", "infer", "interpret", "parse", "translate"], "A": ["misunderstand", "cloud", "confuse", "fail", "obscure"]}

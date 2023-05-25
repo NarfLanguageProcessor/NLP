@@ -1,1 +1,1 @@
-{"index": 147990, "D": "likely to occur at any moment; impending", "S": ["forthcoming ", "immediate ", "impending ", "inevitable ", "likely ", "looming ", "possible ", "probable ", "unavoidable "], "A": ["avoidable ", "distant ", "escapable ", "later ", "never ", "unlikely "]}
+{"index": 147990, "D": "likely to occur at any moment; impending", "S": ["forthcoming", "immediate", "impending", "inevitable", "likely", "looming", "possible", "probable", "unavoidable"], "A": ["avoidable", "distant", "escapable", "later", "never", "unlikely"]}

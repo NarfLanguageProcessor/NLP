@@ -1,1 +1,0 @@
-{"index": 296825, "D": "the state of being or living alone; seclusion", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 67755, "D": "a variation of the quadrille in which the dancers face each other.", "S": ["contra dance ", "folk dance ", "hoedown ", "square dance "], "A": []}
+{"index": 67755, "D": "a variation of the quadrille in which the dancers face each other.", "S": ["contra dance", "folk dance", "hoedown", "square dance"], "A": []}

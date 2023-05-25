@@ -1,1 +1,1 @@
-{"index": 108257, "D": "the act of extenuating. ", "S": ["apology ", "explanation ", "justification ", "vindication "], "A": ["charge ", "indictment "]}
+{"index": 108257, "D": "the act of extenuating. ", "S": ["apology", "explanation", "justification", "vindication"], "A": ["charge", "indictment"]}

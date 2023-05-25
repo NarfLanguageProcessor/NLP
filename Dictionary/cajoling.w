@@ -1,1 +1,1 @@
-{"index": 44656, "D": "to persuade by flattery or promises; wheedle; coax.", "S": ["candied ", "flattering ", "ingratiating ", "sugarcoated "], "A": []}
+{"index": 44656, "D": "to persuade by flattery or promises; wheedle; coax.", "S": ["candied", "flattering", "ingratiating", "sugarcoated"], "A": []}

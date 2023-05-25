@@ -1,1 +1,1 @@
-{"index": 48512, "D": "a large bag, basket, etc., especially a large, lightweight piece of luggage with soft sides.", "S": ["backpack ", "briefcase ", "gear ", "handbag ", "kit ", "pack ", "packet ", "pocket ", "pouch ", "purse ", "sack ", "suitcase "], "A": []}
+{"index": 48512, "D": "a large bag, basket, etc., especially a large, lightweight piece of luggage with soft sides.", "S": ["backpack", "briefcase", "gear", "handbag", "kit", "pack", "packet", "pocket", "pouch", "purse", "sack", "suitcase"], "A": []}

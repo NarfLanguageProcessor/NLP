@@ -1,1 +1,1 @@
-{"index": 159043, "D": "Compare agglutinative (def. 2), inflectional (def. 2). ", "S": ["covering ", "cushioning ", "lining ", "padding "], "A": []}
+{"index": 159043, "D": "Compare agglutinative (def. 2), inflectional (def. 2). ", "S": ["covering", "cushioning", "lining", "padding"], "A": []}

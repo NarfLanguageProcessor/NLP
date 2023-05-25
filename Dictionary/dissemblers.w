@@ -1,1 +1,1 @@
-{"index": 89446, "D": "a person who gives a false or misleading appearance, or who feigns or pretends something; a fraud or phony", "S": ["bigot ", "charlatan ", "crook ", "impostor ", "phony ", "trickster "], "A": []}
+{"index": 89446, "D": "a person who gives a false or misleading appearance, or who feigns or pretends something; a fraud or phony", "S": ["bigot", "charlatan", "crook", "impostor", "phony", "trickster"], "A": []}

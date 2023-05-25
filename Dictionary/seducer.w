@@ -1,1 +1,1 @@
-{"index": 283031, "D": "a person who entices, allures, or seduces, esp one who entices another to engage in sexual intercourse", "S": ["Casanova ", "Lothario ", "Romeo ", "philanderer ", "playboy ", "rake ", "seductress ", "womanizer "], "A": []}
+{"index": 283031, "D": "a person who entices, allures, or seduces, esp one who entices another to engage in sexual intercourse", "S": ["Casanova", "Lothario", "Romeo", "philanderer", "playboy", "rake", "seductress", "womanizer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 364155, "D": "simple past tense of go1. ", "S": ["flee ", "fly ", "leave ", "move ", "pass ", "progress ", "retire ", "travel "], "A": ["face ", "remain ", "stay ", "stop ", "arrive ", "come ", "continue ", "enter ", "wait "]}
+{"index": 364155, "D": "simple past tense of go1. ", "S": ["flee", "fly", "leave", "move", "pass", "progress", "retire", "travel"], "A": ["face", "remain", "stay", "stop", "arrive", "come", "continue", "enter", "wait"]}

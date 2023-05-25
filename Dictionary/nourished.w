@@ -1,1 +1,1 @@
-{"index": 209059, "D": "to sustain with food or nutriment; supply with what is necessary for life, health, and growth.", "S": ["bred ", "educated ", "trained "], "A": ["inexperienced "]}
+{"index": 209059, "D": "to sustain with food or nutriment; supply with what is necessary for life, health, and growth.", "S": ["bred", "educated", "trained"], "A": ["inexperienced"]}

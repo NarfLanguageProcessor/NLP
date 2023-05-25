@@ -1,1 +1,1 @@
-{"index": 253305, "D": "the act of prostrating. ", "S": ["collapse ", "fatigue ", "lassitude ", "tiredness ", "weariness "], "A": []}
+{"index": 253305, "D": "the act of prostrating. ", "S": ["collapse", "fatigue", "lassitude", "tiredness", "weariness"], "A": []}

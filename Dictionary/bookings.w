@@ -1,0 +1,1 @@
+{"index": 38070, "D": "a contract, engagement, or scheduled performance of a professional entertainer.", "S": ["gig"], "A": []}

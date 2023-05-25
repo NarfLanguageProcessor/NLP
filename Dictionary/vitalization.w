@@ -1,1 +1,1 @@
-{"index": 360515, "D": "to give life to; make vital. ", "S": ["elation ", "euphoria ", "high spirits ", "hilarity ", "joy "], "A": ["depression ", "sadness ", "sorrow ", "unhappiness ", "woe ", "discouragement ", "misery "]}
+{"index": 360515, "D": "to give life to; make vital. ", "S": ["elation", "euphoria", "high spirits", "hilarity", "joy"], "A": ["depression", "sadness", "sorrow", "unhappiness", "woe", "discouragement", "misery"]}

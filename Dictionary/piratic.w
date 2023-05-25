@@ -1,1 +1,1 @@
-{"index": 237624, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["crooked ", "rapacious "], "A": []}
+{"index": 237624, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["crooked", "rapacious"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 229077, "D": "to look narrowly or searchingly, as in the effort to discern clearly.", "S": ["inquisitive ", "interested "], "A": ["incurious ", "unconcerned "]}
+{"index": 229077, "D": "to look narrowly or searchingly, as in the effort to discern clearly.", "S": ["inquisitive", "interested"], "A": ["incurious", "unconcerned"]}

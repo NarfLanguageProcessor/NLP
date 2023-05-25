@@ -1,1 +1,1 @@
-{"index": 42484, "D": "magnitude in three dimensions, especially great size or extent", "S": ["amount ", "extent ", "quantity ", "total ", "volume ", "weight "], "A": ["insignificance ", "part ", "tininess "]}
+{"index": 42484, "D": "magnitude in three dimensions, especially great size or extent", "S": ["amount", "extent", "quantity", "total", "volume", "weight"], "A": ["insignificance", "part", "tininess"]}

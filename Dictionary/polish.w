@@ -1,1 +1,1 @@
-{"index": 242390, "D": "to make smooth and glossy, especially by rubbing or friction", "S": ["brilliance ", "burnish ", "finish ", "glaze ", "glint ", "gloss ", "luster ", "sheen ", "smoothness ", "sparkle ", "varnish ", "veneer ", "wax "], "A": ["darkness ", "dullness "]}
+{"index": 242390, "D": "to make smooth and glossy, especially by rubbing or friction", "S": ["brilliance", "burnish", "finish", "glaze", "glint", "gloss", "luster", "sheen", "smoothness", "sparkle", "varnish", "veneer", "wax"], "A": ["darkness", "dullness"]}

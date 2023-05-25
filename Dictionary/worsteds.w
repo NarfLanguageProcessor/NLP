@@ -1,1 +1,1 @@
-{"index": 367695, "D": "Compare woolen. ", "S": ["cashmere ", "fleece ", "fur ", "hair ", "mohair ", "tweed ", "yarn "], "A": []}
+{"index": 367695, "D": "Compare woolen. ", "S": ["cashmere", "fleece", "fur", "hair", "mohair", "tweed", "yarn"], "A": []}

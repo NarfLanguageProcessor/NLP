@@ -1,1 +1,1 @@
-{"index": 108240, "D": "of great extent; wide, broad", "S": ["comprehensiveness ", "dimension ", "fullness ", "magnitude ", "range ", "scale ", "scope ", "size "], "A": []}
+{"index": 108240, "D": "of great extent; wide, broad", "S": ["comprehensiveness", "dimension", "fullness", "magnitude", "range", "scale", "scope", "size"], "A": []}

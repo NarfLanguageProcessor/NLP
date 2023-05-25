@@ -1,1 +1,1 @@
-{"index": 65003, "D": "a spirit of trust and goodwill among people closely associated in an activity or endeavor", "S": ["camaraderie ", "comity ", "cordiality ", "goodwill ", "kindness ", "neighborliness ", "warmth "], "A": ["hostility ", "hatred "]}
+{"index": 65003, "D": "a spirit of trust and goodwill among people closely associated in an activity or endeavor", "S": ["camaraderie", "comity", "cordiality", "goodwill", "kindness", "neighborliness", "warmth"], "A": ["hostility", "hatred"]}

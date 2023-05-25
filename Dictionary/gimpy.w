@@ -1,1 +1,1 @@
-{"index": 125116, "D": "the US equivalent of gammy", "S": ["sore "], "A": ["able ", "graceful ", "healthy "]}
+{"index": 125116, "D": "the US equivalent of gammy", "S": ["sore"], "A": ["able", "graceful", "healthy"]}

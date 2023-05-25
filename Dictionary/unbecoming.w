@@ -1,1 +1,1 @@
-{"index": 335689, "D": "detracting from one's appearance, character, or reputation; unattractive or unseemly", "S": ["indecent ", "unflattering ", "unseemly ", "untoward "], "A": ["proper "]}
+{"index": 335689, "D": "detracting from one's appearance, character, or reputation; unattractive or unseemly", "S": ["indecent", "unflattering", "unseemly", "untoward"], "A": ["proper"]}

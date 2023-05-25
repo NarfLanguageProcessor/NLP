@@ -1,1 +1,1 @@
-{"index": 355699, "D": "a large or decorative vase, especially one with an ornamental foot or pedestal.", "S": ["container ", "jar ", "pot ", "vase "], "A": []}
+{"index": 355699, "D": "a large or decorative vase, especially one with an ornamental foot or pedestal.", "S": ["container", "jar", "pot", "vase"], "A": []}

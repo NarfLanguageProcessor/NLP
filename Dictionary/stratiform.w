@@ -1,1 +1,1 @@
-{"index": 305867, "D": "occurring as a bed or beds; arranged in strata.", "S": ["laminated "], "A": []}
+{"index": 305867, "D": "occurring as a bed or beds; arranged in strata.", "S": ["laminated"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 222294, "D": "to convert (an element) into an oxide;  combine with oxygen.", "S": ["burn ", "corrode ", "heat ", "rust "], "A": ["aid ", "cool ", "help "]}
+{"index": 222294, "D": "to convert (an element) into an oxide;  combine with oxygen.", "S": ["burn", "corrode", "heat", "rust"], "A": ["aid", "cool", "help"]}

@@ -1,1 +1,1 @@
-{"index": 11346, "D": "a small glass vessel in which liquids for injection are hermetically sealed", "S": ["bottle ", "flask "], "A": []}
+{"index": 11346, "D": "a small glass vessel in which liquids for injection are hermetically sealed", "S": ["bottle", "flask"], "A": []}

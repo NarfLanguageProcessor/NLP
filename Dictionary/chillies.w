@@ -1,1 +1,1 @@
-{"index": 54388, "D": "variant of chili. ", "S": ["chilly ", "cold ", "frozen ", "iced ", "icy "], "A": []}
+{"index": 54388, "D": "variant of chili. ", "S": ["chilly", "cold", "frozen", "iced", "icy"], "A": []}

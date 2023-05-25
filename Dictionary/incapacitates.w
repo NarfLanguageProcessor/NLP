@@ -1,1 +1,1 @@
-{"index": 149677, "D": "to deprive of ability, qualification, or strength; make incapable or unfit; disable. ", "S": ["cripple ", "disable ", "immobilize ", "maim ", "paralyze "], "A": ["aid ", "assist ", "enable ", "help ", "allow ", "assuage ", "permit ", "please ", "soothe ", "strengthen "]}
+{"index": 149677, "D": "to deprive of ability, qualification, or strength; make incapable or unfit; disable. ", "S": ["cripple", "disable", "immobilize", "maim", "paralyze"], "A": ["aid", "assist", "enable", "help", "allow", "assuage", "permit", "please", "soothe", "strengthen"]}

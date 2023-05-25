@@ -1,1 +1,1 @@
-{"index": 302510, "D": "Soviet political leader", "S": ["autocrat ", "bully ", "despot ", "dictator ", "oppressor "], "A": ["democrat "]}
+{"index": 302510, "D": "Soviet political leader", "S": ["autocrat", "bully", "despot", "dictator", "oppressor"], "A": ["democrat"]}

@@ -1,1 +1,1 @@
-{"index": 67278, "D": "something that contaminates. ", "S": ["contamination ", "impurity ", "poison ", "pollutant ", "toxin "], "A": []}
+{"index": 67278, "D": "something that contaminates. ", "S": ["contamination", "impurity", "poison", "pollutant", "toxin"], "A": []}

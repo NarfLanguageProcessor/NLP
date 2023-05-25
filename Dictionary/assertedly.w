@@ -1,1 +1,1 @@
-{"index": 21685, "D": "resting on a statement or claim unsupported by evidence or proof; alleged", "S": ["purportedly ", "supposedly "], "A": []}
+{"index": 21685, "D": "resting on a statement or claim unsupported by evidence or proof; alleged", "S": ["purportedly", "supposedly"], "A": []}

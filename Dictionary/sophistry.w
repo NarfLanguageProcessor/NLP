@@ -1,1 +1,1 @@
-{"index": 297436, "D": "a subtle, tricky, superficially plausible, but generally fallacious method of reasoning.", "S": ["deception ", "fallacy ", "misconception "], "A": ["honesty ", "truth "]}
+{"index": 297436, "D": "a subtle, tricky, superficially plausible, but generally fallacious method of reasoning.", "S": ["deception", "fallacy", "misconception"], "A": ["honesty", "truth"]}

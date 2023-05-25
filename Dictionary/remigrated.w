@@ -1,1 +1,1 @@
-{"index": 267281, "D": "to go from one country, region, or place to another.", "S": ["recover ", "resume "], "A": ["depart ", "go ", "leave "]}
+{"index": 267281, "D": "to go from one country, region, or place to another.", "S": ["recover", "resume"], "A": ["depart", "go", "leave"]}

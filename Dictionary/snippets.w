@@ -1,1 +1,1 @@
-{"index": 295584, "D": "a small piece snipped  off; a small bit, scrap, or fragment", "S": ["bit ", "fragment ", "morsel ", "smidgen "], "A": ["whole "]}
+{"index": 295584, "D": "a small piece snipped  off; a small bit, scrap, or fragment", "S": ["bit", "fragment", "morsel", "smidgen"], "A": ["whole"]}

@@ -1,1 +1,1 @@
-{"index": 290770, "D": "serving as a symbol  of something (often followed by of).", "S": ["allegorical ", "emblematic ", "figurative ", "significant ", "symptomatic ", "token ", "typical "], "A": []}
+{"index": 290770, "D": "serving as a symbol  of something (often followed by of).", "S": ["allegorical", "emblematic", "figurative", "significant", "symptomatic", "token", "typical"], "A": []}

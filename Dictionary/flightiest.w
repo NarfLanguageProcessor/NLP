@@ -1,1 +1,1 @@
-{"index": 114598, "D": "given to flights  of fancy; capricious; frivolous.", "S": ["capricious ", "giddy ", "unstable "], "A": ["sensible ", "steady "]}
+{"index": 114598, "D": "given to flights  of fancy; capricious; frivolous.", "S": ["capricious", "giddy", "unstable"], "A": ["sensible", "steady"]}

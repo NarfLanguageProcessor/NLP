@@ -1,1 +1,1 @@
-{"index": 19804, "D": "the method or process of computation with figures", "S": ["analytical ", "numerical ", "scientific "], "A": []}
+{"index": 19804, "D": "the method or process of computation with figures", "S": ["analytical", "numerical", "scientific"], "A": []}

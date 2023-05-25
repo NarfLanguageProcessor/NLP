@@ -1,1 +1,1 @@
-{"index": 212408, "D": "anything perceived or happening that is believed to portend a good or evil event or circumstance in the future; portent.", "S": ["augur ", "bespeak ", "foretell ", "predict ", "presage "], "A": []}
+{"index": 212408, "D": "anything perceived or happening that is believed to portend a good or evil event or circumstance in the future; portent.", "S": ["augur", "bespeak", "foretell", "predict", "presage"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 6596, "D": [], "S": ["fevered ", "fiery ", "hectic "], "A": ["calm ", "chilled ", "chilly ", "cold ", "cool ", "freezing "]}
+{"index": 6596, "D": [], "S": ["fevered", "fiery", "hectic"], "A": ["calm", "chilled", "chilly", "cold", "cool", "freezing"]}

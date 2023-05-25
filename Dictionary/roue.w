@@ -1,1 +1,1 @@
-{"index": 274738, "D": "a dissolute and licentious man; rake.", "S": ["Casanova ", "Lothario ", "Romeo ", "debaucher ", "gigolo ", "libertine ", "philanderer ", "playboy ", "rake ", "reprobate ", "satyr ", "stud ", "swinger ", "womanizer "], "A": []}
+{"index": 274738, "D": "a dissolute and licentious man; rake.", "S": ["Casanova", "Lothario", "Romeo", "debaucher", "gigolo", "libertine", "philanderer", "playboy", "rake", "reprobate", "satyr", "stud", "swinger", "womanizer"], "A": []}

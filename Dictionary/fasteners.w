@@ -1,1 +1,1 @@
-{"index": 110188, "D": "any of various devices for fastening. ", "S": ["housewares ", "plumbing "], "A": []}
+{"index": 110188, "D": "any of various devices for fastening. ", "S": ["housewares", "plumbing"], "A": []}

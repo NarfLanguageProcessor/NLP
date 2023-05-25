@@ -1,1 +1,1 @@
-{"index": 145963, "D": "the solid form of water, produced by freezing; frozen water.", "S": ["chunk ", "crystal ", "diamonds ", "floe ", "glacier ", "glaze ", "hail ", "hailstone ", "iceberg ", "icicle ", "permafrost ", "sleet "], "A": ["water "]}
+{"index": 145963, "D": "the solid form of water, produced by freezing; frozen water.", "S": ["chunk", "crystal", "diamonds", "floe", "glacier", "glaze", "hail", "hailstone", "iceberg", "icicle", "permafrost", "sleet"], "A": ["water"]}

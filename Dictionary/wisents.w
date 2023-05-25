@@ -1,1 +1,1 @@
-{"index": 366446, "D": "bison (def. 2). ", "S": ["wisent "], "A": []}
+{"index": 366446, "D": "bison (def. 2). ", "S": ["wisent"], "A": []}

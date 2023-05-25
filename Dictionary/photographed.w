@@ -1,1 +1,1 @@
-{"index": 235160, "D": "a picture produced by photography. ", "S": ["blueprinted ", "dittoed ", "duplicated ", "manufactured ", "mimeographed ", "multiplied ", "photocopied ", "printed ", "recorded ", "repeated ", "replicated ", "reprinted ", "traced ", "transcribed ", "typed "], "A": []}
+{"index": 235160, "D": "a picture produced by photography. ", "S": ["blueprinted", "dittoed", "duplicated", "manufactured", "mimeographed", "multiplied", "photocopied", "printed", "recorded", "repeated", "replicated", "reprinted", "traced", "transcribed", "typed"], "A": []}

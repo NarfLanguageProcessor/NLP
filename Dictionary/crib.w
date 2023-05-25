@@ -1,1 +1,1 @@
-{"index": 72862, "D": "a child's bed with enclosed sides.", "S": ["bunk ", "cot ", "rack "], "A": []}
+{"index": 72862, "D": "a child's bed with enclosed sides.", "S": ["bunk", "cot", "rack"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 256971, "D": "very strict in moral or religious matters, often excessively so; rigidly austere.", "S": ["prudish ", "rigid "], "A": []}
+{"index": 256971, "D": "very strict in moral or religious matters, often excessively so; rigidly austere.", "S": ["prudish", "rigid"], "A": []}

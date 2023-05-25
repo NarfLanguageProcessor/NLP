@@ -1,1 +1,1 @@
-{"index": 292648, "D": "to rest with the body supported by the buttocks or thighs; be seated.", "S": ["cover ", "install ", "lie ", "park ", "perch ", "relax ", "remain ", "rest ", "seat ", "squat "], "A": ["depart ", "move ", "stand ", "straighten "]}
+{"index": 292648, "D": "to rest with the body supported by the buttocks or thighs; be seated.", "S": ["cover", "install", "lie", "park", "perch", "relax", "remain", "rest", "seat", "squat"], "A": ["depart", "move", "stand", "straighten"]}

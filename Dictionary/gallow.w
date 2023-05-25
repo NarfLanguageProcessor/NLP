@@ -1,1 +1,1 @@
-{"index": 121470, "D": [], "S": ["gibbet ", "hanging ", "noose ", "potence ", "rope ", "scaffold "], "A": []}
+{"index": 121470, "D": [], "S": ["gibbet", "hanging", "noose", "potence", "rope", "scaffold"], "A": []}

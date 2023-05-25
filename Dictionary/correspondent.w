@@ -1,1 +1,1 @@
-{"index": 69662, "D": "a person who communicates by letters.", "S": ["contributor ", "journalist ", "reporter ", "writer "], "A": []}
+{"index": 69662, "D": "a person who communicates by letters.", "S": ["contributor", "journalist", "reporter", "writer"], "A": []}

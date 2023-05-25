@@ -1,1 +1,1 @@
-{"index": 164430, "D": "to strike with the foot or feet", "S": ["annoyed ", "irritated ", "testy "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}
+{"index": 164430, "D": "to strike with the foot or feet", "S": ["annoyed", "irritated", "testy"], "A": ["contented", "happy", "pleased", "satisfied"]}

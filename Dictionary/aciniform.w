@@ -1,1 +1,1 @@
-{"index": 2528, "D": "clustered like grapes.", "S": ["botryose ", "racemose "], "A": []}
+{"index": 2528, "D": "clustered like grapes.", "S": ["botryose", "racemose"], "A": []}

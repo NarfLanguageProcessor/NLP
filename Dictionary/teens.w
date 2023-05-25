@@ -1,1 +1,1 @@
-{"index": 317798, "D": "the numbers 13 through 19, especially in a progression, as the 13th through the 19th years of a lifetime or of a given or implied century.", "S": ["boyhood "], "A": ["adulthood ", "infancy "]}
+{"index": 317798, "D": "the numbers 13 through 19, especially in a progression, as the 13th through the 19th years of a lifetime or of a given or implied century.", "S": ["boyhood"], "A": ["adulthood", "infancy"]}

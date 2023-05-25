@@ -1,1 +1,1 @@
-{"index": 358870, "D": "the highest point of something; apex; summit; top", "S": ["acme ", "apex ", "apogee ", "cap ", "cope ", "crest ", "crown ", "culmination ", "extremity ", "height ", "peak ", "pinnacle ", "roof ", "summit ", "tip ", "zenith "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 358870, "D": "the highest point of something; apex; summit; top", "S": ["acme", "apex", "apogee", "cap", "cope", "crest", "crown", "culmination", "extremity", "height", "peak", "pinnacle", "roof", "summit", "tip", "zenith"], "A": ["base", "bottom", "nadir"]}

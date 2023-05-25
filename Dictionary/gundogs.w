@@ -1,1 +1,1 @@
-{"index": 131343, "D": "a dog trained to help a hunter, as by pointing or retrieving game.", "S": ["chaser ", "courser ", "foxhound ", "hound "], "A": []}
+{"index": 131343, "D": "a dog trained to help a hunter, as by pointing or retrieving game.", "S": ["chaser", "courser", "foxhound", "hound"], "A": []}

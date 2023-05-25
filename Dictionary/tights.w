@@ -1,1 +1,1 @@
-{"index": 323483, "D": "a skin-tight, one-piece garment for the lower part of the body and the legs, now often made of stretch fabric, originally worn by dancers, acrobats, gymnasts, etc., and later made for general wear for adults and children.", "S": ["hosiery ", "pantyhose "], "A": []}
+{"index": 323483, "D": "a skin-tight, one-piece garment for the lower part of the body and the legs, now often made of stretch fabric, originally worn by dancers, acrobats, gymnasts, etc., and later made for general wear for adults and children.", "S": ["hosiery", "pantyhose"], "A": []}

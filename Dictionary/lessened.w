@@ -1,1 +1,0 @@
-{"index": 170847, "D": "to become less.", "S": ["drained ", "reduced ", "vacant ", "weakened "], "A": ["energized ", "full "]}

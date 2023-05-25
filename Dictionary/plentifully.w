@@ -1,1 +1,1 @@
-{"index": 239824, "D": "existing in great plenty", "S": ["abundantly ", "adequately ", "extensively ", "generously ", "lavishly ", "liberally ", "properly ", "richly "], "A": ["illiberal ", "inadequately ", "insufficiently "]}
+{"index": 239824, "D": "existing in great plenty", "S": ["abundantly", "adequately", "extensively", "generously", "lavishly", "liberally", "properly", "richly"], "A": ["illiberal", "inadequately", "insufficiently"]}

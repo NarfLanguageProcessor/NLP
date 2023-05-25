@@ -1,1 +1,1 @@
-{"index": 54980, "D": "to chase; run after.", "S": ["annoy ", "badger ", "bait ", "bother ", "chase ", "harass ", "hound ", "hunt ", "pursue ", "tease ", "torment "], "A": ["aid ", "help ", "ignore ", "make happy ", "neglect ", "please ", "retreat ", "run away "]}
+{"index": 54980, "D": "to chase; run after.", "S": ["annoy", "badger", "bait", "bother", "chase", "harass", "hound", "hunt", "pursue", "tease", "torment"], "A": ["aid", "help", "ignore", "make happy", "neglect", "please", "retreat", "run away"]}

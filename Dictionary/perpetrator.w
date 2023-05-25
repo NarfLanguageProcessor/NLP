@@ -1,1 +1,1 @@
-{"index": 231790, "D": "a person who perpetrates,  or commits, an illegal, criminal, or evil act", "S": ["assassin ", "butcher ", "cut-throat ", "enforcer ", "executioner ", "killer ", "murderess ", "slaughterer ", "slayer ", "triggerman "], "A": []}
+{"index": 231790, "D": "a person who perpetrates,  or commits, an illegal, criminal, or evil act", "S": ["assassin", "butcher", "cut-throat", "enforcer", "executioner", "killer", "murderess", "slaughterer", "slayer", "triggerman"], "A": []}

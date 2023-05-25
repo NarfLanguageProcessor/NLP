@@ -1,1 +1,1 @@
-{"index": 342594, "D": "to express in precise form; state definitely or systematically", "S": ["accepted ", "tacit ", "verbal "], "A": ["explained ", "stated ", "written "]}
+{"index": 342594, "D": "to express in precise form; state definitely or systematically", "S": ["accepted", "tacit", "verbal"], "A": ["explained", "stated", "written"]}

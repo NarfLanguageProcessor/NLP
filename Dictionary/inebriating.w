@@ -1,1 +1,1 @@
-{"index": 151453, "D": "to make drunk; intoxicate. ", "S": ["fermented "], "A": []}
+{"index": 151453, "D": "to make drunk; intoxicate. ", "S": ["fermented"], "A": []}

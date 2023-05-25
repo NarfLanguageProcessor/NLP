@@ -1,1 +1,1 @@
-{"index": 251613, "D": "an introductory discourse; introduction; preface; preamble.", "S": ["foreword ", "opening ", "preface ", "prelude ", "prologue "], "A": []}
+{"index": 251613, "D": "an introductory discourse; introduction; preface; preamble.", "S": ["foreword", "opening", "preface", "prelude", "prologue"], "A": []}

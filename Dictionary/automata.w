@@ -1,1 +1,1 @@
-{"index": 24187, "D": "a plural of automaton. ", "S": ["agent ", "clone ", "drudge ", "grind ", "laborer ", "puppet ", "robot ", "zombie "], "A": []}
+{"index": 24187, "D": "a plural of automaton. ", "S": ["agent", "clone", "drudge", "grind", "laborer", "puppet", "robot", "zombie"], "A": []}

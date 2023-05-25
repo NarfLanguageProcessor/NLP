@@ -1,1 +1,1 @@
-{"index": 173373, "D": "another word for lyric (def. 1), lyric (def. 2), lyric (def. 3), lyric (def. 4)", "S": ["choral ", "emotional ", "expressive ", "lilting ", "melodic ", "operatic ", "passionate ", "rhapsodic ", "rhythmic ", "soulful "], "A": []}
+{"index": 173373, "D": "another word for lyric (def. 1), lyric (def. 2), lyric (def. 3), lyric (def. 4)", "S": ["choral", "emotional", "expressive", "lilting", "melodic", "operatic", "passionate", "rhapsodic", "rhythmic", "soulful"], "A": []}

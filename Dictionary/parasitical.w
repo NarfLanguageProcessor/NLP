@@ -1,1 +1,1 @@
-{"index": 226090, "D": "of, relating to, or characteristic of parasites. ", "S": ["leechlike "], "A": []}
+{"index": 226090, "D": "of, relating to, or characteristic of parasites. ", "S": ["leechlike"], "A": []}

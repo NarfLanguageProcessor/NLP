@@ -1,1 +1,1 @@
-{"index": 251738, "D": "to put before a person for acceptance; offer. ", "S": ["propound "], "A": ["conceal ", "fight ", "hold ", "keep ", "refrain ", "take ", "withhold "]}
+{"index": 251738, "D": "to put before a person for acceptance; offer. ", "S": ["propound"], "A": ["conceal", "fight", "hold", "keep", "refrain", "take", "withhold"]}

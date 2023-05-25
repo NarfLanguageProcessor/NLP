@@ -1,1 +1,1 @@
-{"index": 228188, "D": "to cover or lay (a road, walk, etc.) with concrete, stones, bricks, tiles, wood, or the like, so as to make a firm, level surface.", "S": ["brick ", "cobblestone ", "flagstone ", "gravel ", "macadamize ", "surface ", "tar ", "tile "], "A": ["dig up ", "strip "]}
+{"index": 228188, "D": "to cover or lay (a road, walk, etc.) with concrete, stones, bricks, tiles, wood, or the like, so as to make a firm, level surface.", "S": ["brick", "cobblestone", "flagstone", "gravel", "macadamize", "surface", "tar", "tile"], "A": ["dig up", "strip"]}

@@ -1,1 +1,1 @@
-{"index": 72550, "D": "to move slowly with the body close to the ground, as a reptile or an insect, or a person on hands and knees.", "S": ["glide ", "inch ", "lurk ", "slink ", "slither ", "snake ", "sneak ", "tiptoe ", "wriggle "], "A": []}
+{"index": 72550, "D": "to move slowly with the body close to the ground, as a reptile or an insect, or a person on hands and knees.", "S": ["glide", "inch", "lurk", "slink", "slither", "snake", "sneak", "tiptoe", "wriggle"], "A": []}

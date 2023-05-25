@@ -1,1 +1,1 @@
-{"index": 221648, "D": "to rise over or above the top  of", "S": ["off ", "upstairs "], "A": ["under "]}
+{"index": 221648, "D": "to rise over or above the top  of", "S": ["off", "upstairs"], "A": ["under"]}

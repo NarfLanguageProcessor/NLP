@@ -1,1 +1,1 @@
-{"index": 75851, "D": "a person who cuts, especially as a job, as one who cuts fabric for garments.", "S": ["artist ", "carver ", "etcher ", "lapidary ", "lithographer ", "sculptor "], "A": []}
+{"index": 75851, "D": "a person who cuts, especially as a job, as one who cuts fabric for garments.", "S": ["artist", "carver", "etcher", "lapidary", "lithographer", "sculptor"], "A": []}

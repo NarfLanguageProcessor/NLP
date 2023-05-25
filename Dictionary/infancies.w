@@ -1,1 +1,1 @@
-{"index": 151800, "D": "the state or period of being an infant;  very early childhood, usually the period before being able to walk; babyhood.", "S": ["inception "], "A": ["completion ", "conclusion ", "end ", "ending ", "finish "]}
+{"index": 151800, "D": "the state or period of being an infant;  very early childhood, usually the period before being able to walk; babyhood.", "S": ["inception"], "A": ["completion", "conclusion", "end", "ending", "finish"]}

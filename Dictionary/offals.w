@@ -1,1 +1,1 @@
-{"index": 211542, "D": "Compare muscle meat. ", "S": ["carrion ", "debris ", "junk ", "leaving ", "refuse ", "remains ", "rubbish ", "trash ", "waste "], "A": ["assets ", "possessions ", "property ", "sense "]}
+{"index": 211542, "D": "Compare muscle meat. ", "S": ["carrion", "debris", "junk", "leaving", "refuse", "remains", "rubbish", "trash", "waste"], "A": ["assets", "possessions", "property", "sense"]}

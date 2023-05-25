@@ -1,1 +1,1 @@
-{"index": 194549, "D": "a vulgar, illbred person.", "S": ["beast ", "clodhopper ", "oaf ", "provincial ", "rustic "], "A": []}
+{"index": 194549, "D": "a vulgar, illbred person.", "S": ["beast", "clodhopper", "oaf", "provincial", "rustic"], "A": []}

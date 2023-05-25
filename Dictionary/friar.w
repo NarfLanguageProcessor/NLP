@@ -1,1 +1,1 @@
-{"index": 118881, "D": "a member of a religious order, especially the mendicant orders of Franciscans, Dominicans, Carmelites, and Augustinians.", "S": ["monk "], "A": []}
+{"index": 118881, "D": "a member of a religious order, especially the mendicant orders of Franciscans, Dominicans, Carmelites, and Augustinians.", "S": ["monk"], "A": []}

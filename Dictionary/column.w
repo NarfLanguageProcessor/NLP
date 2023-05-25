@@ -1,1 +1,1 @@
-{"index": 63539, "D": "a decorative pillar, most often composed of stone and typically having a cylindrical or polygonal shaft with a capital and usually a base.", "S": ["file ", "list "], "A": []}
+{"index": 63539, "D": "a decorative pillar, most often composed of stone and typically having a cylindrical or polygonal shaft with a capital and usually a base.", "S": ["file", "list"], "A": []}

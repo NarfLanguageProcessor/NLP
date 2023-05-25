@@ -1,1 +1,1 @@
-{"index": 34327, "D": "capable of decaying through the action of living organisms", "S": ["ecological ", "environment-friendly ", "environmental ", "environmentally-safe "], "A": []}
+{"index": 34327, "D": "capable of decaying through the action of living organisms", "S": ["ecological", "environment-friendly", "environmental", "environmentally-safe"], "A": []}

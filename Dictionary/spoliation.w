@@ -1,1 +1,1 @@
-{"index": 300688, "D": "the act or an instance of plundering or despoiling.", "S": ["contagion ", "corruption ", "disease ", "epidemic ", "infection ", "poisoning ", "pollution "], "A": ["cleanliness ", "purification ", "sterility "]}
+{"index": 300688, "D": "the act or an instance of plundering or despoiling.", "S": ["contagion", "corruption", "disease", "epidemic", "infection", "poisoning", "pollution"], "A": ["cleanliness", "purification", "sterility"]}

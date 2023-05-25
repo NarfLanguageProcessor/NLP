@@ -1,1 +1,1 @@
-{"index": 283439, "D": "to choose in preference to another or others; pick out.", "S": ["choosing ", "electing ", "recruiting "], "A": []}
+{"index": 283439, "D": "to choose in preference to another or others; pick out.", "S": ["choosing", "electing", "recruiting"], "A": []}

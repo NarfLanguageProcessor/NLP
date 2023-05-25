@@ -1,1 +1,1 @@
-{"index": 208430, "D": "a corner, as in a room.", "S": ["alcove ", "crevice ", "den "], "A": ["closure ", "solid "]}
+{"index": 208430, "D": "a corner, as in a room.", "S": ["alcove", "crevice", "den"], "A": ["closure", "solid"]}

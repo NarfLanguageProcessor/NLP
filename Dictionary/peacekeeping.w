@@ -1,1 +1,0 @@
-{"index": 228337, "D": "the maintenance of international peace  and security by the deployment of military forces in a particular area", "S": [], "A": []}

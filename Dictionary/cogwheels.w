@@ -1,1 +1,1 @@
-{"index": 62333, "D": "(not in technical use) a gearwheel, especially one having teeth of hardwood or metal inserted into slots.", "S": ["prong "], "A": []}
+{"index": 62333, "D": "(not in technical use) a gearwheel, especially one having teeth of hardwood or metal inserted into slots.", "S": ["prong"], "A": []}

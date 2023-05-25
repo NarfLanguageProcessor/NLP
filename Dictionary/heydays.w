@@ -1,1 +1,1 @@
-{"index": 135349, "D": "the stage or period of greatest vigor, strength, success, etc.; prime", "S": ["acme ", "culmination ", "day ", "height ", "peak ", "pinnacle ", "time ", "zenith "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 135349, "D": "the stage or period of greatest vigor, strength, success, etc.; prime", "S": ["acme", "culmination", "day", "height", "peak", "pinnacle", "time", "zenith"], "A": ["base", "bottom", "nadir"]}

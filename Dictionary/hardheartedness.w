@@ -1,1 +1,1 @@
-{"index": 133666, "D": "unfeeling; unmerciful; pitiless.", "S": ["sharpness "], "A": ["gentility ", "kindness ", "mildness "]}
+{"index": 133666, "D": "unfeeling; unmerciful; pitiless.", "S": ["sharpness"], "A": ["gentility", "kindness", "mildness"]}

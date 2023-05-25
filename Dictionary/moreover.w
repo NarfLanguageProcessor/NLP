@@ -1,1 +1,1 @@
-{"index": 193402, "D": "in addition to what has been said; further; besides.", "S": ["furthermore "], "A": []}
+{"index": 193402, "D": "in addition to what has been said; further; besides.", "S": ["furthermore"], "A": []}

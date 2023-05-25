@@ -1,1 +1,1 @@
-{"index": 58282, "D": "the act of bypassing or going around something", "S": ["avoidance ", "bypass ", "dodging ", "eluding ", "evasion "], "A": ["meeting "]}
+{"index": 58282, "D": "the act of bypassing or going around something", "S": ["avoidance", "bypass", "dodging", "eluding", "evasion"], "A": ["meeting"]}

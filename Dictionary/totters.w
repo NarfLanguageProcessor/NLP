@@ -1,1 +1,1 @@
-{"index": 326540, "D": "to walk or go with faltering, unsteady steps", "S": ["careen ", "lurch ", "teeter ", "wobble "], "A": ["calm ", "continue ", "correct ", "fix ", "stabilize ", "stay ", "steady "]}
+{"index": 326540, "D": "to walk or go with faltering, unsteady steps", "S": ["careen", "lurch", "teeter", "wobble"], "A": ["calm", "continue", "correct", "fix", "stabilize", "stay", "steady"]}

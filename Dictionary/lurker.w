@@ -1,1 +1,1 @@
-{"index": 176357, "D": "to lie or wait in concealment, as a person in ambush; remain in or around a place secretly or furtively.", "S": ["burglar ", "crook ", "housebreaker ", "pilferer ", "robber "], "A": []}
+{"index": 176357, "D": "to lie or wait in concealment, as a person in ambush; remain in or around a place secretly or furtively.", "S": ["burglar", "crook", "housebreaker", "pilferer", "robber"], "A": []}

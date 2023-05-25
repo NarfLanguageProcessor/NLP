@@ -1,1 +1,1 @@
-{"index": 122232, "D": "to provide or supply with something ornamental; adorn; decorate", "S": ["adornment ", "decoration ", "enhancement ", "furbelow ", "gingerbread ", "ornament ", "ornamentation ", "tinsel ", "trim ", "trimming "], "A": ["decrease ", "divestment ", "plainness "]}
+{"index": 122232, "D": "to provide or supply with something ornamental; adorn; decorate", "S": ["adornment", "decoration", "enhancement", "furbelow", "gingerbread", "ornament", "ornamentation", "tinsel", "trim", "trimming"], "A": ["decrease", "divestment", "plainness"]}

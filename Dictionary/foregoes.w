@@ -1,1 +1,1 @@
-{"index": 116680, "D": "to go before; precede.", "S": ["eschew ", "forfeit ", "forsake ", "refrain ", "relinquish ", "renounce ", "waive "], "A": ["complete ", "deny ", "do ", "finish ", "refuse ", "veto "]}
+{"index": 116680, "D": "to go before; precede.", "S": ["eschew", "forfeit", "forsake", "refrain", "relinquish", "renounce", "waive"], "A": ["complete", "deny", "do", "finish", "refuse", "veto"]}

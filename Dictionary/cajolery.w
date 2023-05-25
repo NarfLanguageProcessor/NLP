@@ -1,1 +1,1 @@
-{"index": 44652, "D": "persuasion by flattery or promises; wheedling; coaxing.", "S": ["adulation ", "allurement ", "blarney ", "coaxing ", "enticement ", "praise ", "sycophancy ", "wheedling "], "A": ["criticism "]}
+{"index": 44652, "D": "persuasion by flattery or promises; wheedling; coaxing.", "S": ["adulation", "allurement", "blarney", "coaxing", "enticement", "praise", "sycophancy", "wheedling"], "A": ["criticism"]}

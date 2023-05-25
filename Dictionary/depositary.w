@@ -1,1 +1,1 @@
-{"index": 81767, "D": "one to whom anything is given in trust.", "S": ["curator ", "guardian ", "trustee "], "A": []}
+{"index": 81767, "D": "one to whom anything is given in trust.", "S": ["curator", "guardian", "trustee"], "A": []}

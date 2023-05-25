@@ -1,1 +1,1 @@
-{"index": 362941, "D": "an act of washing", "S": ["absorb ", "deplete ", "devour ", "dominate ", "drain ", "eat up ", "employ ", "exhaust ", "expend ", "obsess ", "preoccupy ", "spend ", "waste "], "A": ["fill ", "save ", "appear ", "create ", "hoard "]}
+{"index": 362941, "D": "an act of washing", "S": ["absorb", "deplete", "devour", "dominate", "drain", "eat up", "employ", "exhaust", "expend", "obsess", "preoccupy", "spend", "waste"], "A": ["fill", "save", "appear", "create", "hoard"]}

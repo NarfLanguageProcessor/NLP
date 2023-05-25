@@ -1,1 +1,1 @@
-{"index": 323767, "D": "the fact or quality of occurring at a suitable or opportune time", "S": ["opportunity ", "seasonableness "], "A": ["inopportuneness "]}
+{"index": 323767, "D": "the fact or quality of occurring at a suitable or opportune time", "S": ["opportunity", "seasonableness"], "A": ["inopportuneness"]}

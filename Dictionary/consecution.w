@@ -1,1 +1,1 @@
-{"index": 66711, "D": "succession; sequence.", "S": ["arrangement ", "concatenation ", "order ", "procession ", "progression ", "run ", "series ", "string ", "succession ", "train "], "A": []}
+{"index": 66711, "D": "succession; sequence.", "S": ["arrangement", "concatenation", "order", "procession", "progression", "run", "series", "string", "succession", "train"], "A": []}

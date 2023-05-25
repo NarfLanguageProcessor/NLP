@@ -1,1 +1,1 @@
-{"index": 289096, "D": "a past participle of show. ", "S": ["advertised ", "delineated ", "demonstrated ", "displayed ", "exhibited ", "exposed ", "presented "], "A": ["concealed ", "covered ", "withdrawn "]}
+{"index": 289096, "D": "a past participle of show. ", "S": ["advertised", "delineated", "demonstrated", "displayed", "exhibited", "exposed", "presented"], "A": ["concealed", "covered", "withdrawn"]}

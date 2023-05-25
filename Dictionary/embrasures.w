@@ -1,1 +1,1 @@
-{"index": 98267, "D": "(in fortification) an opening, as a loophole or crenel, through which missiles may be discharged.", "S": ["incision ", "indentation "], "A": ["increase "]}
+{"index": 98267, "D": "(in fortification) an opening, as a loophole or crenel, through which missiles may be discharged.", "S": ["incision", "indentation"], "A": ["increase"]}

@@ -1,1 +1,1 @@
-{"index": 282488, "D": "knowledge and skill pertaining to the operation, navigation, management, safety, and maintenance of a ship.", "S": ["boating ", "exploration ", "shipping "], "A": []}
+{"index": 282488, "D": "knowledge and skill pertaining to the operation, navigation, management, safety, and maintenance of a ship.", "S": ["boating", "exploration", "shipping"], "A": []}

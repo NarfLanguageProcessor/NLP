@@ -1,1 +1,1 @@
-{"index": 48916, "D": "a coffin.", "S": ["bin ", "carton ", "case ", "chest ", "coffer ", "crate ", "pinto ", "sarcophagus "], "A": []}
+{"index": 48916, "D": "a coffin.", "S": ["bin", "carton", "case", "chest", "coffer", "crate", "pinto", "sarcophagus"], "A": []}

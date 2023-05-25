@@ -1,1 +1,1 @@
-{"index": 360394, "D": "that can be seen; perceptible to the eye", "S": ["apparently ", "clearly ", "evidently ", "on the face of it ", "ostensibly ", "seemingly ", "superficially "], "A": []}
+{"index": 360394, "D": "that can be seen; perceptible to the eye", "S": ["apparently", "clearly", "evidently", "on the face of it", "ostensibly", "seemingly", "superficially"], "A": []}

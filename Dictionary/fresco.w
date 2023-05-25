@@ -1,1 +1,1 @@
-{"index": 118797, "D": "Compare fresco secco. ", "S": ["darken ", "dye ", "embellish ", "enliven ", "illuminate ", "infuse ", "paint ", "stain ", "tint ", "wash "], "A": ["discolor ", "fade ", "lighten ", "pale ", "whiten "]}
+{"index": 118797, "D": "Compare fresco secco. ", "S": ["darken", "dye", "embellish", "enliven", "illuminate", "infuse", "paint", "stain", "tint", "wash"], "A": ["discolor", "fade", "lighten", "pale", "whiten"]}

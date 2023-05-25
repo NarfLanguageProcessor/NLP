@@ -1,1 +1,1 @@
-{"index": 108082, "D": "to amend by removing words, passages, etc., deemed offensive or objectionable", "S": ["ablution ", "abreaction ", "cleansing ", "purgation ", "purification ", "release "], "A": ["dirtying "]}
+{"index": 108082, "D": "to amend by removing words, passages, etc., deemed offensive or objectionable", "S": ["ablution", "abreaction", "cleansing", "purgation", "purification", "release"], "A": ["dirtying"]}

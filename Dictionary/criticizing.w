@@ -1,1 +1,1 @@
-{"index": 73500, "D": "to censure or find fault with.", "S": ["bellyaching ", "caviling ", "disparaging ", "griping ", "grousing ", "grumbling ", "kvetching ", "moaning ", "nagging ", "niggling ", "quibbling ", "whining "], "A": ["complimentary ", "forgiving "]}
+{"index": 73500, "D": "to censure or find fault with.", "S": ["bellyaching", "caviling", "disparaging", "griping", "grousing", "grumbling", "kvetching", "moaning", "nagging", "niggling", "quibbling", "whining"], "A": ["complimentary", "forgiving"]}

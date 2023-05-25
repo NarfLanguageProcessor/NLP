@@ -1,1 +1,1 @@
-{"index": 347080, "D": [], "S": ["dilapidated ", "run down ", "unlivable "], "A": ["inhabitable ", "livable "]}
+{"index": 347080, "D": [], "S": ["dilapidated", "run down", "unlivable"], "A": ["inhabitable", "livable"]}

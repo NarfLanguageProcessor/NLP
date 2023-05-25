@@ -1,1 +1,1 @@
-{"index": 351665, "D": "not sparing;  liberal or profuse; excessive.", "S": ["abundantly ", "amply ", "freely ", "handsomely ", "lavishly ", "liberally "], "A": ["poorly "]}
+{"index": 351665, "D": "not sparing;  liberal or profuse; excessive.", "S": ["abundantly", "amply", "freely", "handsomely", "lavishly", "liberally"], "A": ["poorly"]}

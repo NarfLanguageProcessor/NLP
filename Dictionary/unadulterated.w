@@ -1,1 +1,1 @@
-{"index": 334658, "D": "not diluted or made impure by adulterating;  pure", "S": ["purified ", "unsullied "], "A": []}
+{"index": 334658, "D": "not diluted or made impure by adulterating;  pure", "S": ["purified", "unsullied"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 163587, "D": "agreement or conformity in things or elements associated together", "S": ["care ", "charge ", "guardianship ", "observance ", "preservation ", "protection ", "safekeeping "], "A": ["carelessness ", "neglect ", "thoughtlessness "]}
+{"index": 163587, "D": "agreement or conformity in things or elements associated together", "S": ["care", "charge", "guardianship", "observance", "preservation", "protection", "safekeeping"], "A": ["carelessness", "neglect", "thoughtlessness"]}

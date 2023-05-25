@@ -1,0 +1,1 @@
+{"index": 4049, "D": "forming an adjunct. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 88898, "D": "antipathy. ", "S": ["hypersensitive ", "susceptible "], "A": []}
+{"index": 88898, "D": "antipathy. ", "S": ["hypersensitive", "susceptible"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 243841, "D": "to have as belonging to one; have as property; own", "S": ["acquire ", "carry ", "enjoy ", "maintain ", "occupy ", "own ", "retain ", "seize "], "A": ["fail ", "free ", "lack ", "let go ", "lose ", "need ", "release ", "surrender ", "yield ", "abandon ", "forsake "]}

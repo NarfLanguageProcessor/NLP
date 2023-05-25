@@ -1,1 +1,1 @@
-{"index": 267467, "D": "to a very small degree; slightly or faintly", "S": ["casually "], "A": ["purposely "]}
+{"index": 267467, "D": "to a very small degree; slightly or faintly", "S": ["casually"], "A": ["purposely"]}

@@ -1,1 +1,1 @@
-{"index": 241385, "D": "the condition produced by a poison  or by a toxic substance.", "S": ["contamination ", "grime ", "pollutant ", "scum "], "A": ["cleanliness ", "pureness ", "purification ", "purity ", "sterility "]}
+{"index": 241385, "D": "the condition produced by a poison  or by a toxic substance.", "S": ["contamination", "grime", "pollutant", "scum"], "A": ["cleanliness", "pureness", "purification", "purity", "sterility"]}

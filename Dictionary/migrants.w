@@ -1,1 +1,1 @@
-{"index": 187036, "D": "migrating,  especially of people; migratory.", "S": ["emigrant ", "evacuee ", "expatriate ", "immigrant ", "traveler "], "A": ["native "]}
+{"index": 187036, "D": "migrating,  especially of people; migratory.", "S": ["emigrant", "evacuee", "expatriate", "immigrant", "traveler"], "A": ["native"]}

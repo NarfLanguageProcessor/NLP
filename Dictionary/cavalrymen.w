@@ -1,1 +1,1 @@
-{"index": 50160, "D": "a soldier in the cavalry. ", "S": ["broncobuster ", "buckaroo ", "cowboy ", "dragoon ", "equerry ", "equestrian ", "gaucho ", "jockey ", "postilion ", "pricker ", "roughrider "], "A": []}
+{"index": 50160, "D": "a soldier in the cavalry. ", "S": ["broncobuster", "buckaroo", "cowboy", "dragoon", "equerry", "equestrian", "gaucho", "jockey", "postilion", "pricker", "roughrider"], "A": []}

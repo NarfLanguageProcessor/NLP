@@ -1,1 +1,1 @@
-{"index": 350682, "D": "with one's eyes open but not noticing or perceiving anything", "S": ["amaurotic ", "blind as a bat ", "dark ", "destitute of vision ", "eyeless ", "groping ", "in darkness ", "purblind ", "sightless ", "typhlotic ", "undiscerning ", "unsighted ", "visionless "], "A": []}
+{"index": 350682, "D": "with one's eyes open but not noticing or perceiving anything", "S": ["amaurotic", "blind as a bat", "dark", "destitute of vision", "eyeless", "groping", "in darkness", "purblind", "sightless", "typhlotic", "undiscerning", "unsighted", "visionless"], "A": []}

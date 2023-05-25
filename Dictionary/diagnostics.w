@@ -1,1 +1,1 @@
-{"index": 84143, "D": "the discipline or practice of diagnosis. ", "S": ["ailment ", "disorder ", "malady ", "problem ", "sickness "], "A": ["health "]}
+{"index": 84143, "D": "the discipline or practice of diagnosis. ", "S": ["ailment", "disorder", "malady", "problem", "sickness"], "A": ["health"]}

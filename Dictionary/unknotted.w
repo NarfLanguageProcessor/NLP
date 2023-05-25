@@ -1,1 +1,1 @@
-{"index": 345352, "D": "to untie by or as if by undoing a knot", "S": ["undo "], "A": ["twist ", "wind "]}
+{"index": 345352, "D": "to untie by or as if by undoing a knot", "S": ["undo"], "A": ["twist", "wind"]}

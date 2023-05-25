@@ -1,1 +1,1 @@
-{"index": 328121, "D": "to send or forward, as to a recipient or destination; dispatch; convey.", "S": ["accrued ", "bequeathed ", "endowed ", "given ", "granted ", "inherited "], "A": ["deprived ", "forfeited ", "lost "]}
+{"index": 328121, "D": "to send or forward, as to a recipient or destination; dispatch; convey.", "S": ["accrued", "bequeathed", "endowed", "given", "granted", "inherited"], "A": ["deprived", "forfeited", "lost"]}

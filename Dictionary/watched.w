@@ -1,1 +1,1 @@
-{"index": 363058, "D": "to be alertly on the lookout, look attentively, or observe, as to see what comes, is done, or happens", "S": ["minded "], "A": []}
+{"index": 363058, "D": "to be alertly on the lookout, look attentively, or observe, as to see what comes, is done, or happens", "S": ["minded"], "A": []}

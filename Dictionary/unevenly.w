@@ -1,1 +1,1 @@
-{"index": 341572, "D": "not level or flat; rough; rugged", "S": ["haphazardly "], "A": ["equally ", "evenly "]}
+{"index": 341572, "D": "not level or flat; rough; rugged", "S": ["haphazardly"], "A": ["equally", "evenly"]}

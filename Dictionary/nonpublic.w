@@ -1,1 +1,1 @@
-{"index": 206366, "D": "of, relating to, or affecting a population or a community as a whole", "S": ["confidential ", "exclusive ", "independent ", "individual ", "secret ", "separate ", "special "], "A": ["common ", "known ", "public "]}
+{"index": 206366, "D": "of, relating to, or affecting a population or a community as a whole", "S": ["confidential", "exclusive", "independent", "individual", "secret", "separate", "special"], "A": ["common", "known", "public"]}

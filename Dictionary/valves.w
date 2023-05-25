@@ -1,1 +1,1 @@
-{"index": 356859, "D": "any device for halting or controlling the flow of a liquid, gas, or other material through a passage, pipe, inlet, outlet, etc.", "S": ["faucet ", "pipe ", "spigot "], "A": []}
+{"index": 356859, "D": "any device for halting or controlling the flow of a liquid, gas, or other material through a passage, pipe, inlet, outlet, etc.", "S": ["faucet", "pipe", "spigot"], "A": []}

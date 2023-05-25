@@ -1,1 +1,1 @@
-{"index": 315386, "D": "the business or work of a tailor. ", "S": ["Seventh Avenue ", "dressmaking ", "fashion design ", "garment industry ", "garment making ", "haute couture "], "A": []}
+{"index": 315386, "D": "the business or work of a tailor. ", "S": ["Seventh Avenue", "dressmaking", "fashion design", "garment industry", "garment making", "haute couture"], "A": []}

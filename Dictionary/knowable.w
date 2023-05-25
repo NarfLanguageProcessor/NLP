@@ -1,1 +1,1 @@
-{"index": 165704, "D": "capable of being known. ", "S": ["clear ", "comprehensible ", "obvious ", "perceptible ", "plain ", "understandable ", "visible "], "A": []}
+{"index": 165704, "D": "capable of being known. ", "S": ["clear", "comprehensible", "obvious", "perceptible", "plain", "understandable", "visible"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 152052, "D": "a place for the care of the infirm,  sick, or injured; hospital or facility serving as a hospital", "S": ["dispensary "], "A": []}
+{"index": 152052, "D": "a place for the care of the infirm,  sick, or injured; hospital or facility serving as a hospital", "S": ["dispensary"], "A": []}

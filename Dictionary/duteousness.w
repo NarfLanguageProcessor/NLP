@@ -1,1 +1,1 @@
-{"index": 94584, "D": "dutiful; obedient.", "S": ["acquiescence ", "conformity ", "deference ", "orderliness ", "reverence "], "A": ["disagreement ", "disregard ", "fight "]}
+{"index": 94584, "D": "dutiful; obedient.", "S": ["acquiescence", "conformity", "deference", "orderliness", "reverence"], "A": ["disagreement", "disregard", "fight"]}

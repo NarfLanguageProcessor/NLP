@@ -1,1 +1,1 @@
-{"index": 89055, "D": "to show or exhibit; make visible", "S": ["headlining ", "highlighting ", "presenting ", "promoting ", "pushing ", "recommending ", "showing ", "starring ", "turning "], "A": []}
+{"index": 89055, "D": "to show or exhibit; make visible", "S": ["headlining", "highlighting", "presenting", "promoting", "pushing", "recommending", "showing", "starring", "turning"], "A": []}

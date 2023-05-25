@@ -1,1 +1,1 @@
-{"index": 146576, "D": "an utterly foolish or senseless person", "S": ["fool ", "jerk ", "moron ", "nitwit ", "stupid ", "twit "], "A": ["brain ", "genius "]}
+{"index": 146576, "D": "an utterly foolish or senseless person", "S": ["fool", "jerk", "moron", "nitwit", "stupid", "twit"], "A": ["brain", "genius"]}

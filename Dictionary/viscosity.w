@@ -1,1 +1,1 @@
-{"index": 360359, "D": "the state or quality of being viscous.", "S": ["adhesiveness ", "glutinousness ", "thickness ", "viscidity "], "A": []}
+{"index": 360359, "D": "the state or quality of being viscous.", "S": ["adhesiveness", "glutinousness", "thickness", "viscidity"], "A": []}

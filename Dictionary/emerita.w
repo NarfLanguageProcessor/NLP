@@ -1,1 +1,1 @@
-{"index": 98467, "D": "(of a woman) retired or honorably discharged from active professional duty, but retaining the title of one's office or position", "S": ["elderly ", "resigned "], "A": ["active ", "employed ", "working "]}
+{"index": 98467, "D": "(of a woman) retired or honorably discharged from active professional duty, but retaining the title of one's office or position", "S": ["elderly", "resigned"], "A": ["active", "employed", "working"]}

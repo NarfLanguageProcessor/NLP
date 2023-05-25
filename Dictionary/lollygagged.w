@@ -1,1 +1,1 @@
-{"index": 174806, "D": "to spend time idly; loaf.", "S": ["clamber ", "creep ", "drag ", "inch ", "plod ", "poke ", "slide ", "slither ", "squirm ", "wriggle "], "A": ["run ", "rush "]}
+{"index": 174806, "D": "to spend time idly; loaf.", "S": ["clamber", "creep", "drag", "inch", "plod", "poke", "slide", "slither", "squirm", "wriggle"], "A": ["run", "rush"]}

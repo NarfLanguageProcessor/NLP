@@ -1,1 +1,1 @@
-{"index": 64236, "D": "capable of being easily communicated  or transmitted", "S": ["bug ", "disease ", "epidemic ", "flu ", "pollution ", "virus "], "A": ["sanitation ", "sterility "]}
+{"index": 64236, "D": "capable of being easily communicated  or transmitted", "S": ["bug", "disease", "epidemic", "flu", "pollution", "virus"], "A": ["sanitation", "sterility"]}

@@ -1,1 +1,1 @@
-{"index": 324077, "D": "a glittering metallic substance, as copper or brass, in thin sheets, used in pieces, strips, threads, etc., to produce a sparkling effect cheaply.", "S": ["adorn ", "bedeck "], "A": ["decrease ", "harm ", "reduce ", "reveal ", "strip "]}
+{"index": 324077, "D": "a glittering metallic substance, as copper or brass, in thin sheets, used in pieces, strips, threads, etc., to produce a sparkling effect cheaply.", "S": ["adorn", "bedeck"], "A": ["decrease", "harm", "reduce", "reveal", "strip"]}

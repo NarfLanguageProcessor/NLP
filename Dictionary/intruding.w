@@ -1,1 +1,1 @@
-{"index": 156860, "D": "to thrust or bring in without invitation, permission, or welcome.", "S": ["combative ", "contentious ", "destructive ", "intrusive ", "threatening "], "A": ["calm ", "complaisant ", "easygoing ", "laid-back "]}
+{"index": 156860, "D": "to thrust or bring in without invitation, permission, or welcome.", "S": ["combative", "contentious", "destructive", "intrusive", "threatening"], "A": ["calm", "complaisant", "easygoing", "laid-back"]}

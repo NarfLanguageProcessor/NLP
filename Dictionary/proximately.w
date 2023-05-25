@@ -1,1 +1,1 @@
-{"index": 254190, "D": "next; nearest; immediately before or after in order, place, occurrence, etc.", "S": ["almost ", "generally ", "relatively ", "roughly "], "A": ["accurately ", "clearly ", "definitely ", "exactly ", "precisely "]}
+{"index": 254190, "D": "next; nearest; immediately before or after in order, place, occurrence, etc.", "S": ["almost", "generally", "relatively", "roughly"], "A": ["accurately", "clearly", "definitely", "exactly", "precisely"]}

@@ -1,1 +1,1 @@
-{"index": 361507, "D": "Vermont  (approved especially for use with zip code).", "S": ["electron tube ", "thermionic tube "], "A": []}
+{"index": 361507, "D": "Vermont  (approved especially for use with zip code).", "S": ["electron tube", "thermionic tube"], "A": []}

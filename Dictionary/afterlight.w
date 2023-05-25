@@ -1,1 +1,1 @@
-{"index": 5708, "D": "the light  visible in the sky after  sunset; afterglow.", "S": ["alteration ", "amendment ", "improvement ", "modification ", "reconsideration ", "reexamination ", "review "], "A": ["worsening "]}
+{"index": 5708, "D": "the light  visible in the sky after  sunset; afterglow.", "S": ["alteration", "amendment", "improvement", "modification", "reconsideration", "reexamination", "review"], "A": ["worsening"]}

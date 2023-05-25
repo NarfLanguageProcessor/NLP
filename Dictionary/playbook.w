@@ -1,1 +1,1 @@
-{"index": 238718, "D": "(in Elizabethan drama) the script of a play,  used by the actors as an acting text.", "S": ["article ", "book ", "copy ", "dialogue ", "libretto ", "manuscript ", "scenario ", "text "], "A": []}
+{"index": 238718, "D": "(in Elizabethan drama) the script of a play,  used by the actors as an acting text.", "S": ["article", "book", "copy", "dialogue", "libretto", "manuscript", "scenario", "text"], "A": []}

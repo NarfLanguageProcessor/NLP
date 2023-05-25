@@ -1,1 +1,0 @@
-{"index": 247341, "D": "to slip or get away, as from confinement or restraint; gain or regain liberty", "S": [], "A": []}

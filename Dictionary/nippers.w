@@ -1,1 +1,1 @@
-{"index": 200253, "D": "an instrument or tool, such as a pair of pliers, for snipping, pinching, or squeezing", "S": ["clippers ", "scissors ", "snips "], "A": []}
+{"index": 200253, "D": "an instrument or tool, such as a pair of pliers, for snipping, pinching, or squeezing", "S": ["clippers", "scissors", "snips"], "A": []}

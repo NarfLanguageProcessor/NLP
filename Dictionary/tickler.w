@@ -1,1 +1,1 @@
-{"index": 323239, "D": "a person or thing that tickles. ", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}
+{"index": 323239, "D": "a person or thing that tickles. ", "S": ["bayonet", "blade", "cutter", "dagger", "machete", "scalpel", "sickle", "skewer", "sword"], "A": []}

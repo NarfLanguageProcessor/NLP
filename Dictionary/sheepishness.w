@@ -1,1 +1,1 @@
-{"index": 287821, "D": "embarrassed or bashful, as by having done something wrong or foolish.", "S": ["abashment ", "humility ", "reservation ", "reserve ", "shyness ", "timidity "], "A": ["boldness ", "confidence ", "pride "]}
+{"index": 287821, "D": "embarrassed or bashful, as by having done something wrong or foolish.", "S": ["abashment", "humility", "reservation", "reserve", "shyness", "timidity"], "A": ["boldness", "confidence", "pride"]}

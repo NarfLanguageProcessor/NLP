@@ -1,1 +1,1 @@
-{"index": 172061, "D": "the state or quality of being light  in weight", "S": ["brightness ", "sparkle "], "A": ["dullness ", "darkness "]}
+{"index": 172061, "D": "the state or quality of being light  in weight", "S": ["brightness", "sparkle"], "A": ["dullness", "darkness"]}

@@ -1,1 +1,1 @@
-{"index": 109427, "D": "a person who hunts with falcons  or follows the sport of hawking.", "S": ["chaser ", "deerstalker ", "fisherman ", "hawker ", "huntress ", "huntsman ", "pursuer ", "sportsman ", "stalker ", "trapper "], "A": []}
+{"index": 109427, "D": "a person who hunts with falcons  or follows the sport of hawking.", "S": ["chaser", "deerstalker", "fisherman", "hawker", "huntress", "huntsman", "pursuer", "sportsman", "stalker", "trapper"], "A": []}

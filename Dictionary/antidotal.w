@@ -1,1 +1,1 @@
-{"index": 15135, "D": "a medicine or other remedy for counteracting the effects of poison, disease, etc.", "S": ["curative ", "disciplinary ", "punitive ", "remedial ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}
+{"index": 15135, "D": "a medicine or other remedy for counteracting the effects of poison, disease, etc.", "S": ["curative", "disciplinary", "punitive", "remedial", "therapeutic"], "A": ["damaging", "harmful", "hurtful", "injurious"]}

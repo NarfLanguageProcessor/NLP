@@ -1,1 +1,1 @@
-{"index": 227466, "D": "the quality of being pasty. ", "S": ["colorlessness ", "etiolation ", "pallidity ", "sallowness ", "wanness ", "whiteness "], "A": []}
+{"index": 227466, "D": "the quality of being pasty. ", "S": ["colorlessness", "etiolation", "pallidity", "sallowness", "wanness", "whiteness"], "A": []}

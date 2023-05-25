@@ -1,1 +1,1 @@
-{"index": 268554, "D": "a severe reproof or rebuke, especially a formal one by a person in authority.", "S": ["cautioned ", "reproved "], "A": []}
+{"index": 268554, "D": "a severe reproof or rebuke, especially a formal one by a person in authority.", "S": ["cautioned", "reproved"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150047, "D": "a person who comes in. ", "S": ["foreigner ", "immigrant ", "intruder ", "migrant ", "outsider ", "refugee ", "settler ", "stranger ", "visitor "], "A": ["local ", "national ", "native "]}
+{"index": 150047, "D": "a person who comes in. ", "S": ["foreigner", "immigrant", "intruder", "migrant", "outsider", "refugee", "settler", "stranger", "visitor"], "A": ["local", "national", "native"]}

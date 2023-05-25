@@ -1,1 +1,0 @@
-{"index": 361833, "D": "a member of the laboring class; wage earner. ", "S": ["blue collar ", "blue-collar worker ", "breadwinner "], "A": []}

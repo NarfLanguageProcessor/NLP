@@ -1,1 +1,1 @@
-{"index": 90308, "D": "the act of divesting. ", "S": ["disinvestment ", "divestment "], "A": []}
+{"index": 90308, "D": "the act of divesting. ", "S": ["disinvestment", "divestment"], "A": []}

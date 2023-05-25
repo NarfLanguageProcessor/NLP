@@ -1,1 +1,1 @@
-{"index": 107965, "D": "a person who expounds or gives an exposition.", "S": ["analyst ", "announcer ", "correspondent ", "critic ", "observer ", "pundit ", "reviewer ", "sportscaster ", "writer "], "A": []}
+{"index": 107965, "D": "a person who expounds or gives an exposition.", "S": ["analyst", "announcer", "correspondent", "critic", "observer", "pundit", "reviewer", "sportscaster", "writer"], "A": []}

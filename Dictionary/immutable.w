@@ -1,1 +1,1 @@
-{"index": 148191, "D": "not mutable; unchangeable; changeless. ", "S": ["abiding ", "enduring ", "immovable ", "inflexible ", "sacrosanct "], "A": ["alterable ", "changeable ", "flexible ", "mutable ", "variable "]}
+{"index": 148191, "D": "not mutable; unchangeable; changeless. ", "S": ["abiding", "enduring", "immovable", "inflexible", "sacrosanct"], "A": ["alterable", "changeable", "flexible", "mutable", "variable"]}

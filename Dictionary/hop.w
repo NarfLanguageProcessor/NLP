@@ -1,1 +1,1 @@
-{"index": 143667, "D": "to make a short, bouncing leap; move by leaping with all feet off the ground.", "S": ["bounce ", "bound ", "caper ", "dance ", "hurdle ", "leap ", "lop ", "lope ", "skip ", "skitter ", "spring ", "step ", "trip ", "vault "], "A": []}
+{"index": 143667, "D": "to make a short, bouncing leap; move by leaping with all feet off the ground.", "S": ["bounce", "bound", "caper", "dance", "hurdle", "leap", "lop", "lope", "skip", "skitter", "spring", "step", "trip", "vault"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 288894, "D": "a past participle of shear. ", "S": ["bald ", "exposed ", "naked ", "uncovered "], "A": ["clothed ", "covered ", "robed "]}
+{"index": 288894, "D": "a past participle of shear. ", "S": ["bald", "exposed", "naked", "uncovered"], "A": ["clothed", "covered", "robed"]}

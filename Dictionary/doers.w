@@ -1,1 +1,1 @@
-{"index": 90822, "D": "a person or thing that does  something, especially a person who gets things done  with vigor and efficiency.", "S": ["achiever ", "motivator "], "A": []}
+{"index": 90822, "D": "a person or thing that does  something, especially a person who gets things done  with vigor and efficiency.", "S": ["achiever", "motivator"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36085, "D": "a simple past tense and past participle of blend. ", "S": [], "A": []}

@@ -1,1 +1,0 @@
-{"index": 348835, "D": "serving for, concerned with, or inflicting punishment", "S": [], "A": []}

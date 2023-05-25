@@ -1,1 +1,1 @@
-{"index": 281509, "D": "a lean or scrawny person or animal.", "S": ["execute ", "hoist ", "stretch ", "swing "], "A": []}
+{"index": 281509, "D": "a lean or scrawny person or animal.", "S": ["execute", "hoist", "stretch", "swing"], "A": []}

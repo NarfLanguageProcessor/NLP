@@ -1,1 +1,1 @@
-{"index": 88946, "D": "a person or thing that dispenses. ", "S": ["druggist "], "A": []}
+{"index": 88946, "D": "a person or thing that dispenses. ", "S": ["druggist"], "A": []}

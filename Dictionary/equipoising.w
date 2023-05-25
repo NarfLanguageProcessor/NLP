@@ -1,1 +1,1 @@
-{"index": 103342, "D": "an equal distribution of weight; even balance; equilibrium.", "S": ["balance ", "cancel out ", "counteract ", "equal ", "negate ", "neutralize ", "outweigh "], "A": ["approve ", "disproportion "]}
+{"index": 103342, "D": "an equal distribution of weight; even balance; equilibrium.", "S": ["balance", "cancel out", "counteract", "equal", "negate", "neutralize", "outweigh"], "A": ["approve", "disproportion"]}

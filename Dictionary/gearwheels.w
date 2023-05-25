@@ -1,1 +1,1 @@
-{"index": 123044, "D": "a wheel  having teeth or cogs that engage with those of another wheel  or part; cogwheel.", "S": ["cog ", "cogwheel ", "pinion ", "sprocket "], "A": []}
+{"index": 123044, "D": "a wheel  having teeth or cogs that engage with those of another wheel  or part; cogwheel.", "S": ["cog", "cogwheel", "pinion", "sprocket"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 68122, "D": "friendly; agreeable", "S": ["cheerful ", "clubby ", "festive ", "genial ", "hearty ", "jolly ", "jovial ", "lively ", "pleasant ", "sociable "], "A": ["apathetic ", "depressed ", "gloomy ", "lethargic ", "sad ", "unfriendly ", "unhappy "]}
+{"index": 68122, "D": "friendly; agreeable", "S": ["cheerful", "clubby", "festive", "genial", "hearty", "jolly", "jovial", "lively", "pleasant", "sociable"], "A": ["apathetic", "depressed", "gloomy", "lethargic", "sad", "unfriendly", "unhappy"]}

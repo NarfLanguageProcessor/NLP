@@ -1,1 +1,1 @@
-{"index": 6146, "D": "a person, group, or nation that attacks first or initiates hostilities; an assailant or invader.", "S": ["assailant ", "intruder ", "invader ", "trespasser "], "A": []}
+{"index": 6146, "D": "a person, group, or nation that attacks first or initiates hostilities; an assailant or invader.", "S": ["assailant", "intruder", "invader", "trespasser"], "A": []}

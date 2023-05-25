@@ -1,1 +1,1 @@
-{"index": 53694, "D": "a woman's loose-fitting, shirtlike undergarment.", "S": ["camisole ", "dress ", "lingerie ", "shift ", "shirt ", "smock "], "A": []}
+{"index": 53694, "D": "a woman's loose-fitting, shirtlike undergarment.", "S": ["camisole", "dress", "lingerie", "shift", "shirt", "smock"], "A": []}

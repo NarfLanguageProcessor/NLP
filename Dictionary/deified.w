@@ -1,1 +1,1 @@
-{"index": 79790, "D": "to make a god of; exalt to the rank of a deity;  personify as a deity", "S": ["idealize "], "A": ["condemn ", "criticize ", "despise ", "hate "]}
+{"index": 79790, "D": "to make a god of; exalt to the rank of a deity;  personify as a deity", "S": ["idealize"], "A": ["condemn", "criticize", "despise", "hate"]}

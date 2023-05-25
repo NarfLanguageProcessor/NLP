@@ -1,1 +1,1 @@
-{"index": 101132, "D": "to secure or guarantee", "S": ["guaranteed ", "settled ", "sure "], "A": ["indefinite ", "uncertain ", "unsure ", "undecided ", "vague "]}
+{"index": 101132, "D": "to secure or guarantee", "S": ["guaranteed", "settled", "sure"], "A": ["indefinite", "uncertain", "unsure", "undecided", "vague"]}

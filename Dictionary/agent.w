@@ -1,0 +1,1 @@
+{"index": 6015, "D": "a person or business authorized to act on another's behalf", "S": ["assistant", "broker", "commissioner", "deputy", "handler", "lawyer", "minister", "officer", "operative", "operator", "promoter", "representative", "worker"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197283, "D": "being the place or environment in which a person was born or a thing came into being", "S": ["endemic ", "indigenous ", "natural "], "A": ["auxiliary ", "minor ", "secondary ", "unimportant "]}
+{"index": 197283, "D": "being the place or environment in which a person was born or a thing came into being", "S": ["endemic", "indigenous", "natural"], "A": ["auxiliary", "minor", "secondary", "unimportant"]}

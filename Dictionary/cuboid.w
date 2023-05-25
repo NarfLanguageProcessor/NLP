@@ -1,1 +1,1 @@
-{"index": 74504, "D": "resembling a cube in form.", "S": ["cuboidal "], "A": []}
+{"index": 74504, "D": "resembling a cube in form.", "S": ["cuboidal"], "A": []}

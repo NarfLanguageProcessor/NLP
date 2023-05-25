@@ -1,1 +1,1 @@
-{"index": 239665, "D": "belonging or pertaining to the common people.", "S": ["common ", "low ", "mean ", "ordinary ", "pedestrian ", "proletarian "], "A": ["abnormal ", "different ", "extraordinary ", "high ", "noble ", "uncommon "]}
+{"index": 239665, "D": "belonging or pertaining to the common people.", "S": ["common", "low", "mean", "ordinary", "pedestrian", "proletarian"], "A": ["abnormal", "different", "extraordinary", "high", "noble", "uncommon"]}

@@ -1,1 +1,1 @@
-{"index": 260732, "D": "within a short period of time", "S": ["briskly ", "expeditiously ", "fast ", "immediately ", "promptly ", "speedily ", "swiftly "], "A": ["slowly ", "sluggishly "]}
+{"index": 260732, "D": "within a short period of time", "S": ["briskly", "expeditiously", "fast", "immediately", "promptly", "speedily", "swiftly"], "A": ["slowly", "sluggishly"]}

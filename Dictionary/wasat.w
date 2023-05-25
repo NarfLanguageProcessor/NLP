@@ -1,1 +1,1 @@
-{"index": 362860, "D": [], "S": ["bother ", "irritate ", "provoke "], "A": ["aid ", "delight ", "help ", "please ", "calm ", "make happy ", "soothe "]}
+{"index": 362860, "D": [], "S": ["bother", "irritate", "provoke"], "A": ["aid", "delight", "help", "please", "calm", "make happy", "soothe"]}

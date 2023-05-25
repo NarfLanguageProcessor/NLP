@@ -1,1 +1,1 @@
-{"index": 250884, "D": "a contest between boxers for a prize, a sum of money, etc.; a professional boxing match.", "S": ["battle ", "mill ", "prelim ", "pugilism ", "slugfest ", "sparring "], "A": []}
+{"index": 250884, "D": "a contest between boxers for a prize, a sum of money, etc.; a professional boxing match.", "S": ["battle", "mill", "prelim", "pugilism", "slugfest", "sparring"], "A": []}

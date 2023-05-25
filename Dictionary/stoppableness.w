@@ -1,1 +1,0 @@
-{"index": 305347, "D": "capable of being stopped. ", "S": [], "A": []}

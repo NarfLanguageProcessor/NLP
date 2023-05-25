@@ -1,1 +1,1 @@
-{"index": 279719, "D": "insufficient to satisfy the need or demand; not abundant", "S": ["deficient ", "limited ", "rare ", "scant ", "scanty ", "sparse ", "sporadic "], "A": ["adequate ", "ample ", "plentiful ", "satisfactory ", "sufficient "]}
+{"index": 279719, "D": "insufficient to satisfy the need or demand; not abundant", "S": ["deficient", "limited", "rare", "scant", "scanty", "sparse", "sporadic"], "A": ["adequate", "ample", "plentiful", "satisfactory", "sufficient"]}

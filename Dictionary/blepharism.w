@@ -1,0 +1,1 @@
+{"index": 36096, "D": "spasm of the eyelids, causing rapid involuntary blinking", "S": [], "A": []}

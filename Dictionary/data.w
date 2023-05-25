@@ -1,1 +1,1 @@
-{"index": 77138, "D": "information in digital format, as encoded text or numbers, or multimedia images, audio, or video", "S": ["dossier ", "evidence ", "goods ", "info ", "input ", "knowledge ", "picture ", "statistics ", "testimony "], "A": []}
+{"index": 77138, "D": "information in digital format, as encoded text or numbers, or multimedia images, audio, or video", "S": ["dossier", "evidence", "goods", "info", "input", "knowledge", "picture", "statistics", "testimony"], "A": []}

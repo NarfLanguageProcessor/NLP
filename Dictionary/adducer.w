@@ -1,0 +1,1 @@
+{"index": 3611, "D": "to bring forward in argument or as evidence; cite as pertinent or conclusive", "S": [], "A": []}

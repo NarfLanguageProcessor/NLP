@@ -1,1 +1,1 @@
-{"index": 115005, "D": "the act, state, or period of flowering; bloom.", "S": ["blossoming ", "development "], "A": []}
+{"index": 115005, "D": "the act, state, or period of flowering; bloom.", "S": ["blossoming", "development"], "A": []}

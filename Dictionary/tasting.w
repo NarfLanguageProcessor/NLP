@@ -1,1 +1,1 @@
-{"index": 316954, "D": "the act of one who tastes  food or drink", "S": ["bite ", "chew ", "eat ", "enjoy ", "sample ", "savor ", "sip "], "A": ["dislike ", "neglect ", "overlook "]}
+{"index": 316954, "D": "the act of one who tastes  food or drink", "S": ["bite", "chew", "eat", "enjoy", "sample", "savor", "sip"], "A": ["dislike", "neglect", "overlook"]}

@@ -1,1 +1,1 @@
-{"index": 306126, "D": "full of stress  or tension", "S": ["annoying ", "trying "], "A": []}
+{"index": 306126, "D": "full of stress  or tension", "S": ["annoying", "trying"], "A": []}

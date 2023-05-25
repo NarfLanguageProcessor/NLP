@@ -1,1 +1,1 @@
-{"index": 333608, "D": "a mamma or mammary gland, especially when baggy and with more than one teat, as in cows.", "S": ["bosom ", "chest ", "nipple "], "A": []}
+{"index": 333608, "D": "a mamma or mammary gland, especially when baggy and with more than one teat, as in cows.", "S": ["bosom", "chest", "nipple"], "A": []}

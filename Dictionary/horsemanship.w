@@ -1,1 +1,1 @@
-{"index": 144051, "D": "the art, ability, skill, or manner of a horseman. ", "S": ["equitation "], "A": []}
+{"index": 144051, "D": "the art, ability, skill, or manner of a horseman. ", "S": ["equitation"], "A": []}

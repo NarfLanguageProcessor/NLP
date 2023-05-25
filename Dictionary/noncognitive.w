@@ -1,1 +1,1 @@
-{"index": 202019, "D": "of or relating to cognition;  concerned with the act or process of knowing, perceiving, etc. ", "S": ["emotional ", "emotive ", "feeling ", "intuitive ", "perceptual ", "visceral "], "A": []}
+{"index": 202019, "D": "of or relating to cognition;  concerned with the act or process of knowing, perceiving, etc. ", "S": ["emotional", "emotive", "feeling", "intuitive", "perceptual", "visceral"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 2468, "D": "slightly sour.", "S": ["acerb ", "acerbic ", "acetose ", "dry ", "piquant ", "sharp ", "tart "], "A": ["kind ", "nice ", "sugary ", "sweet "]}
+{"index": 2468, "D": "slightly sour.", "S": ["acerb", "acerbic", "acetose", "dry", "piquant", "sharp", "tart"], "A": ["kind", "nice", "sugary", "sweet"]}

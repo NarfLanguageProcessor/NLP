@@ -1,1 +1,1 @@
-{"index": 36644, "D": "having a coarse, ruddy complexion.", "S": ["antiquated ", "dingy ", "drab ", "frumpy ", "run down ", "shabby ", "unkempt "], "A": ["bright ", "good ", "neat "]}
+{"index": 36644, "D": "having a coarse, ruddy complexion.", "S": ["antiquated", "dingy", "drab", "frumpy", "run down", "shabby", "unkempt"], "A": ["bright", "good", "neat"]}

@@ -1,1 +1,1 @@
-{"index": 194730, "D": "an attempt to discredit one's competitor, opponent, etc., by malicious or scandalous attacks.", "S": ["character assassination ", "defamation ", "dirty politics ", "dragging one's name through the mud ", "negative campaign ", "slander "], "A": []}
+{"index": 194730, "D": "an attempt to discredit one's competitor, opponent, etc., by malicious or scandalous attacks.", "S": ["character assassination", "defamation", "dirty politics", "dragging one's name through the mud", "negative campaign", "slander"], "A": []}

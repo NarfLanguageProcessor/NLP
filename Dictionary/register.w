@@ -1,1 +1,1 @@
-{"index": 265670, "D": "a book in which records of acts, events, names, etc., are kept.", "S": ["registry ", "roster "], "A": []}
+{"index": 265670, "D": "a book in which records of acts, events, names, etc., are kept.", "S": ["registry", "roster"], "A": []}

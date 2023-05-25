@@ -1,1 +1,1 @@
-{"index": 152078, "D": "to kindle or excite (passions, desires, etc.).", "S": ["aroused "], "A": []}
+{"index": 152078, "D": "to kindle or excite (passions, desires, etc.).", "S": ["aroused"], "A": []}

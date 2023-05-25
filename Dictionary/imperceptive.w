@@ -1,1 +1,1 @@
-{"index": 148497, "D": "not perceptive;  lacking perception.", "S": ["ignorant ", "insensitive ", "nearsighted ", "oblivious ", "unconscious "], "A": ["aware ", "concerned ", "conscious ", "mindful ", "sensitive "]}
+{"index": 148497, "D": "not perceptive;  lacking perception.", "S": ["ignorant", "insensitive", "nearsighted", "oblivious", "unconscious"], "A": ["aware", "concerned", "conscious", "mindful", "sensitive"]}

@@ -1,1 +1,1 @@
-{"index": 259356, "D": "a plot of ground, usually oval, laid out for horse racing.", "S": ["oval ", "paddock ", "track "], "A": []}
+{"index": 259356, "D": "a plot of ground, usually oval, laid out for horse racing.", "S": ["oval", "paddock", "track"], "A": []}

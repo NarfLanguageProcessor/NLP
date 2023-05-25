@@ -1,1 +1,1 @@
-{"index": 220765, "D": "too highly rated or praised", "S": ["exaggerated ", "overpriced "], "A": []}
+{"index": 220765, "D": "too highly rated or praised", "S": ["exaggerated", "overpriced"], "A": []}

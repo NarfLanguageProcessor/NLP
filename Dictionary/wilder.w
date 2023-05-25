@@ -1,1 +1,1 @@
-{"index": 365694, "D": "to cause to lose one's way.", "S": ["barbarian ", "desert ", "free ", "lush ", "native ", "natural ", "overrun ", "primitive ", "savage ", "waste "], "A": ["civilized ", "cultured ", "kind ", "nice ", "refined ", "sophisticated "]}
+{"index": 365694, "D": "to cause to lose one's way.", "S": ["barbarian", "desert", "free", "lush", "native", "natural", "overrun", "primitive", "savage", "waste"], "A": ["civilized", "cultured", "kind", "nice", "refined", "sophisticated"]}

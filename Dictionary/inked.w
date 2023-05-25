@@ -1,1 +1,1 @@
-{"index": 152888, "D": "a fluid or viscous substance used for writing or printing.", "S": ["engaged ", "hired ", "occupied "], "A": ["idle ", "inactive ", "unemployed ", "unengaged ", "unoccupied "]}
+{"index": 152888, "D": "a fluid or viscous substance used for writing or printing.", "S": ["engaged", "hired", "occupied"], "A": ["idle", "inactive", "unemployed", "unengaged", "unoccupied"]}

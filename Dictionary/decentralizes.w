@@ -1,1 +1,1 @@
-{"index": 78239, "D": "to distribute the administrative powers or functions of (a central authority) over a less concentrated area", "S": ["disperse ", "distribute ", "scatter "], "A": ["assemble ", "centralize ", "concentrate ", "consolidate "]}
+{"index": 78239, "D": "to distribute the administrative powers or functions of (a central authority) over a less concentrated area", "S": ["disperse", "distribute", "scatter"], "A": ["assemble", "centralize", "concentrate", "consolidate"]}

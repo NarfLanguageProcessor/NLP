@@ -1,1 +1,0 @@
-{"index": 283336, "D": "the science or study of earthquakes and their phenomena.", "S": [], "A": []}

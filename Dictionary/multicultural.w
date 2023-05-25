@@ -1,1 +1,1 @@
-{"index": 195051, "D": "of, relating to, or representing several different cultures or cultural  elements", "S": ["open "], "A": []}
+{"index": 195051, "D": "of, relating to, or representing several different cultures or cultural  elements", "S": ["open"], "A": []}

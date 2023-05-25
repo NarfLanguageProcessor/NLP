@@ -1,1 +1,1 @@
-{"index": 129924, "D": "a person or thing that spoils or dampens the pleasure of others.", "S": ["complainer ", "dampener ", "grouch ", "moaner ", "pessimist ", "whiner "], "A": []}
+{"index": 129924, "D": "a person or thing that spoils or dampens the pleasure of others.", "S": ["complainer", "dampener", "grouch", "moaner", "pessimist", "whiner"], "A": []}

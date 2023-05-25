@@ -1,1 +1,1 @@
-{"index": 197720, "D": "to make necessary or unavoidable", "S": ["constrain ", "entail ", "require "], "A": ["calculate ", "check ", "delay ", "disallow ", "discourage ", "dissuade ", "fail ", "give ", "halt ", "lose ", "offer ", "refuse ", "reply ", "repress ", "stop "]}
+{"index": 197720, "D": "to make necessary or unavoidable", "S": ["constrain", "entail", "require"], "A": ["calculate", "check", "delay", "disallow", "discourage", "dissuade", "fail", "give", "halt", "lose", "offer", "refuse", "reply", "repress", "stop"]}

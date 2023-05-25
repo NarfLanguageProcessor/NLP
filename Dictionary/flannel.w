@@ -1,1 +1,1 @@
-{"index": 113948, "D": "a soft, slightly napped fabric of wool or wool and another fiber, used for trousers, jackets, shirts, etc.", "S": ["thermal underwear ", "thermals ", "woolens "], "A": []}
+{"index": 113948, "D": "a soft, slightly napped fabric of wool or wool and another fiber, used for trousers, jackets, shirts, etc.", "S": ["thermal underwear", "thermals", "woolens"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64827, "D": "composed of two or more parts, elements, or ingredients", "S": ["amplification "], "A": ["decrease ", "loss ", "subtraction "]}
+{"index": 64827, "D": "composed of two or more parts, elements, or ingredients", "S": ["amplification"], "A": ["decrease", "loss", "subtraction"]}

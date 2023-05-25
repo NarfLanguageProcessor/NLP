@@ -1,1 +1,1 @@
-{"index": 295598, "D": "an agitated or irritated state.", "S": ["agitation ", "anger ", "enragement ", "exasperation ", "fume ", "furiousness ", "lividness ", "upset "], "A": ["calmness ", "happiness ", "peace "]}
+{"index": 295598, "D": "an agitated or irritated state.", "S": ["agitation", "anger", "enragement", "exasperation", "fume", "furiousness", "lividness", "upset"], "A": ["calmness", "happiness", "peace"]}

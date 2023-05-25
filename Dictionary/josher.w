@@ -1,1 +1,1 @@
-{"index": 161808, "D": "to chaff; banter in a teasing way.", "S": ["actor ", "banana ", "buffoon ", "card ", "clown ", "comedian ", "comic ", "fool ", "gagster ", "humorist ", "jester ", "jokester ", "prankster ", "punster ", "stooge ", "trickster ", "wag ", "wit "], "A": []}
+{"index": 161808, "D": "to chaff; banter in a teasing way.", "S": ["actor", "banana", "buffoon", "card", "clown", "comedian", "comic", "fool", "gagster", "humorist", "jester", "jokester", "prankster", "punster", "stooge", "trickster", "wag", "wit"], "A": []}

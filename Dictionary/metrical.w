@@ -1,1 +1,1 @@
-{"index": 185396, "D": "pertaining to meter  or poetic measure.", "S": ["balanced ", "cadenced ", "measured ", "musical ", "rhythmic "], "A": []}
+{"index": 185396, "D": "pertaining to meter  or poetic measure.", "S": ["balanced", "cadenced", "measured", "musical", "rhythmic"], "A": []}

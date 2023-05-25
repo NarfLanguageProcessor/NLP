@@ -1,1 +1,1 @@
-{"index": 4568, "D": "personal overtures made in an attempt to become friendly, gain a favour, etc", "S": ["approach ", "move ", "overture ", "proposal ", "proposition ", "suggestion "], "A": ["disinterest ", "ignorance "]}
+{"index": 4568, "D": "personal overtures made in an attempt to become friendly, gain a favour, etc", "S": ["approach", "move", "overture", "proposal", "proposition", "suggestion"], "A": ["disinterest", "ignorance"]}

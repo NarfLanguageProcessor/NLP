@@ -1,1 +1,1 @@
-{"index": 212024, "D": "U.S. automobile pioneer and manufacturer.", "S": ["aged ", "ancient ", "decrepit ", "elderly ", "gray ", "mature ", "tired ", "venerable "], "A": ["new ", "young ", "youthful ", "green ", "inexperienced "]}
+{"index": 212024, "D": "U.S. automobile pioneer and manufacturer.", "S": ["aged", "ancient", "decrepit", "elderly", "gray", "mature", "tired", "venerable"], "A": ["new", "young", "youthful", "green", "inexperienced"]}

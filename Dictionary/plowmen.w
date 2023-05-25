@@ -1,1 +1,1 @@
-{"index": 240302, "D": "a man who plows. ", "S": ["bumpkin ", "clown ", "hick ", "hind ", "lout ", "oaf ", "redneck ", "rustic ", "shoe ", "yokel "], "A": []}
+{"index": 240302, "D": "a man who plows. ", "S": ["bumpkin", "clown", "hick", "hind", "lout", "oaf", "redneck", "rustic", "shoe", "yokel"], "A": []}

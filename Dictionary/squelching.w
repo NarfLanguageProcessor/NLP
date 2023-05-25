@@ -1,1 +1,1 @@
-{"index": 301906, "D": "to strike or press with crushing force; crush down; squash.", "S": ["crush ", "extinguish ", "muffle ", "oppress ", "repress ", "smother ", "squash ", "stifle ", "thwart "], "A": ["aid ", "encourage ", "help ", "let go ", "light ", "start "]}
+{"index": 301906, "D": "to strike or press with crushing force; crush down; squash.", "S": ["crush", "extinguish", "muffle", "oppress", "repress", "smother", "squash", "stifle", "thwart"], "A": ["aid", "encourage", "help", "let go", "light", "start"]}

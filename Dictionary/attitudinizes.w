@@ -1,1 +1,1 @@
-{"index": 23111, "D": "to assume attitudes;  pose for effect.", "S": ["masquerade ", "pose "], "A": []}
+{"index": 23111, "D": "to assume attitudes;  pose for effect.", "S": ["masquerade", "pose"], "A": []}

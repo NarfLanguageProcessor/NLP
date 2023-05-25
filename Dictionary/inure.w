@@ -1,1 +1,1 @@
-{"index": 156970, "D": "to accustom to hardship, difficulty, pain, etc.; toughen or harden; habituate  (usually followed by to)", "S": ["acclimate ", "familiarize ", "habituate ", "harden ", "season ", "toughen ", "train "], "A": ["neglect ", "soften "]}
+{"index": 156970, "D": "to accustom to hardship, difficulty, pain, etc.; toughen or harden; habituate  (usually followed by to)", "S": ["acclimate", "familiarize", "habituate", "harden", "season", "toughen", "train"], "A": ["neglect", "soften"]}

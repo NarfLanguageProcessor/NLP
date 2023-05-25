@@ -1,1 +1,1 @@
-{"index": 268279, "D": "to make full or complete again, as by supplying what is lacking, used up, etc.", "S": ["refill ", "refresh ", "restock ", "restore "], "A": ["damage "]}
+{"index": 268279, "D": "to make full or complete again, as by supplying what is lacking, used up, etc.", "S": ["refill", "refresh", "restock", "restore"], "A": ["damage"]}

@@ -1,1 +1,1 @@
-{"index": 5828, "D": "once more; another time; anew;  in addition", "S": ["anew ", "over ", "repeatedly "], "A": []}
+{"index": 5828, "D": "once more; another time; anew;  in addition", "S": ["anew", "over", "repeatedly"], "A": []}

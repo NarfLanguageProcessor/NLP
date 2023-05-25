@@ -1,1 +1,1 @@
-{"index": 310543, "D": "to remain silent or hold oneself aloof in a sullen, ill-humored, or offended mood", "S": ["bellyacher ", "crab ", "crank ", "crosspatch ", "curmudgeon ", "faultfinder ", "growler ", "grumbler ", "grump ", "killjoy ", "moaner ", "sorehead ", "whiner "], "A": []}
+{"index": 310543, "D": "to remain silent or hold oneself aloof in a sullen, ill-humored, or offended mood", "S": ["bellyacher", "crab", "crank", "crosspatch", "curmudgeon", "faultfinder", "growler", "grumbler", "grump", "killjoy", "moaner", "sorehead", "whiner"], "A": []}

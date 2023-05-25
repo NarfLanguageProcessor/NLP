@@ -1,1 +1,1 @@
-{"index": 293692, "D": "broad comedy characterized by boisterous action, as the throwing of pies in actors' faces, mugging, and obvious farcical situations and jokes.", "S": ["burlesque ", "farce ", "horseplay ", "light comedy ", "slapstick "], "A": []}
+{"index": 293692, "D": "broad comedy characterized by boisterous action, as the throwing of pies in actors' faces, mugging, and obvious farcical situations and jokes.", "S": ["burlesque", "farce", "horseplay", "light comedy", "slapstick"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 243852, "D": "the act or fact of possessing.", "S": ["custody "], "A": ["lack ", "need ", "want "]}
+{"index": 243852, "D": "the act or fact of possessing.", "S": ["custody"], "A": ["lack", "need", "want"]}

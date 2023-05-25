@@ -1,1 +1,1 @@
-{"index": 358182, "D": "of or relating to the venter  or belly; abdominal.", "S": ["intestinal ", "visceral "], "A": []}
+{"index": 358182, "D": "of or relating to the venter  or belly; abdominal.", "S": ["intestinal", "visceral"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 267833, "D": "to come into possession of; get, acquire, or procure, as through an effort or by a request", "S": [], "A": []}

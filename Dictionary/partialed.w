@@ -1,1 +1,1 @@
-{"index": 226990, "D": [], "S": ["limited "], "A": ["complete ", "entire ", "fair ", "just ", "total ", "unbiased ", "unprejudiced ", "whole "]}
+{"index": 226990, "D": [], "S": ["limited"], "A": ["complete", "entire", "fair", "just", "total", "unbiased", "unprejudiced", "whole"]}

@@ -1,0 +1,1 @@
+{"index": 34064, "D": "the state of being or the ability to be in two places at the same time.", "S": [], "A": []}

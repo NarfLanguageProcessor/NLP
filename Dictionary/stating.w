@@ -1,1 +1,1 @@
-{"index": 303084, "D": "the present participle of state. ", "S": ["announcing ", "citing ", "copying ", "naming ", "reciting "], "A": []}
+{"index": 303084, "D": "the present participle of state. ", "S": ["announcing", "citing", "copying", "naming", "reciting"], "A": []}

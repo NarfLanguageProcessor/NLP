@@ -1,1 +1,1 @@
-{"index": 151768, "D": "in a way that is unable to be separated or disentangled", "S": ["inevitably "], "A": []}
+{"index": 151768, "D": "in a way that is unable to be separated or disentangled", "S": ["inevitably"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 357887, "D": "any of various veillike or curtainlike membranous partitions.", "S": ["membrane ", "palate ", "veil "], "A": []}
+{"index": 357887, "D": "any of various veillike or curtainlike membranous partitions.", "S": ["membrane", "palate", "veil"], "A": []}

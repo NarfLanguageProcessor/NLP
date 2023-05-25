@@ -1,1 +1,1 @@
-{"index": 106759, "D": "excepting", "S": ["bar ", "discounting ", "excepting "], "A": []}
+{"index": 106759, "D": "excepting", "S": ["bar", "discounting", "excepting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 271261, "D": [], "S": ["reversal "], "A": ["front ", "same "]}
+{"index": 271261, "D": [], "S": ["reversal"], "A": ["front", "same"]}

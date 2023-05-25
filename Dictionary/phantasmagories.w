@@ -1,1 +1,1 @@
-{"index": 232971, "D": "phantasmagoria. ", "S": ["aberration ", "apparition ", "fantasy ", "figment of the imagination ", "head trip ", "illusion ", "mirage ", "phantasm ", "phantasmagoria ", "phantom ", "trip ", "vision ", "wraith "], "A": []}
+{"index": 232971, "D": "phantasmagoria. ", "S": ["aberration", "apparition", "fantasy", "figment of the imagination", "head trip", "illusion", "mirage", "phantasm", "phantasmagoria", "phantom", "trip", "vision", "wraith"], "A": []}

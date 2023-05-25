@@ -1,1 +1,1 @@
-{"index": 39982, "D": "impertinent; impudent; tactless", "S": ["debris "], "A": []}
+{"index": 39982, "D": "impertinent; impudent; tactless", "S": ["debris"], "A": []}

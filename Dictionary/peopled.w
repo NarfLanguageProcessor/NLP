@@ -1,1 +1,1 @@
-{"index": 230163, "D": "persons indefinitely or collectively; persons in general", "S": ["developed ", "owned ", "populated ", "populous ", "settled "], "A": []}
+{"index": 230163, "D": "persons indefinitely or collectively; persons in general", "S": ["developed", "owned", "populated", "populous", "settled"], "A": []}

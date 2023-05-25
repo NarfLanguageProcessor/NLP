@@ -1,1 +1,1 @@
-{"index": 87455, "D": "an absence of comfort or ease; uneasiness, hardship, or mild pain.", "S": ["disquiet ", "distress ", "nettle ", "upset "], "A": ["calm ", "please ", "soothe "]}
+{"index": 87455, "D": "an absence of comfort or ease; uneasiness, hardship, or mild pain.", "S": ["disquiet", "distress", "nettle", "upset"], "A": ["calm", "please", "soothe"]}

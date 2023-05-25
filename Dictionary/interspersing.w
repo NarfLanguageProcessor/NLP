@@ -1,1 +1,1 @@
-{"index": 155960, "D": "to scatter here and there or place at intervals among other things", "S": ["infuse ", "pepper ", "sprinkle "], "A": ["collect ", "gather "]}
+{"index": 155960, "D": "to scatter here and there or place at intervals among other things", "S": ["infuse", "pepper", "sprinkle"], "A": ["collect", "gather"]}

@@ -1,1 +1,1 @@
-{"index": 92339, "D": "to or in the main business section of a city.", "S": ["central ", "main ", "metropolitan ", "urban "], "A": ["country ", "minor ", "secondary "]}
+{"index": 92339, "D": "to or in the main business section of a city.", "S": ["central", "main", "metropolitan", "urban"], "A": ["country", "minor", "secondary"]}

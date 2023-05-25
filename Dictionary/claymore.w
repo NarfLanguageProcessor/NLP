@@ -1,1 +1,1 @@
-{"index": 59076, "D": "a two-handed sword with a double-edged blade, used by Scottish Highlanders in the 16th century.", "S": ["blade ", "dagger ", "saber "], "A": []}
+{"index": 59076, "D": "a two-handed sword with a double-edged blade, used by Scottish Highlanders in the 16th century.", "S": ["blade", "dagger", "saber"], "A": []}

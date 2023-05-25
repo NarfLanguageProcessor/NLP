@@ -1,1 +1,1 @@
-{"index": 95942, "D": "to wipe out; do away with; expunge", "S": ["blue pencil ", "cancel ", "delete ", "destroy ", "edit ", "eliminate ", "expunge ", "fade ", "obliterate "], "A": ["build ", "construct ", "create ", "improve "]}
+{"index": 95942, "D": "to wipe out; do away with; expunge", "S": ["blue pencil", "cancel", "delete", "destroy", "edit", "eliminate", "expunge", "fade", "obliterate"], "A": ["build", "construct", "create", "improve"]}

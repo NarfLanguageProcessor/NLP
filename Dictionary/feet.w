@@ -1,1 +1,1 @@
-{"index": 110905, "D": "a plural of foot. ", "S": ["dogs ", "hoof ", "hooves "], "A": []}
+{"index": 110905, "D": "a plural of foot. ", "S": ["dogs", "hoof", "hooves"], "A": []}

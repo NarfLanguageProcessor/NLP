@@ -1,1 +1,1 @@
-{"index": 235192, "D": [], "S": ["capture ", "illustrate ", "print ", "reproduce ", "shoot "], "A": ["fail ", "lose ", "misunderstand "]}
+{"index": 235192, "D": [], "S": ["capture", "illustrate", "print", "reproduce", "shoot"], "A": ["fail", "lose", "misunderstand"]}

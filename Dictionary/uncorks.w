@@ -1,1 +1,1 @@
-{"index": 338000, "D": "to draw the cork  from.", "S": ["begin ", "crack ", "decant ", "puncture ", "start ", "tap "], "A": ["complete ", "conclude ", "die ", "end ", "finish "]}
+{"index": 338000, "D": "to draw the cork  from.", "S": ["begin", "crack", "decant", "puncture", "start", "tap"], "A": ["complete", "conclude", "die", "end", "finish"]}

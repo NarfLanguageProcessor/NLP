@@ -1,1 +1,1 @@
-{"index": 171268, "D": "the act or phenomenon of levitating. ", "S": ["altitude ", "ascent ", "mountain "], "A": ["decrease ", "flat "]}
+{"index": 171268, "D": "the act or phenomenon of levitating. ", "S": ["altitude", "ascent", "mountain"], "A": ["decrease", "flat"]}

@@ -1,1 +1,1 @@
-{"index": 100098, "D": "to hold out against; sustain without impairment or yielding; undergo", "S": ["narrow ", "produced ", "rode ", "tolerated ", "toted "], "A": []}
+{"index": 100098, "D": "to hold out against; sustain without impairment or yielding; undergo", "S": ["narrow", "produced", "rode", "tolerated", "toted"], "A": []}

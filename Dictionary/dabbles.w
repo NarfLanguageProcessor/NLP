@@ -1,1 +1,1 @@
-{"index": 75951, "D": "to play and splash in or as if in water, especially with the hands.", "S": ["dally ", "dilly-dally ", "idle ", "monkey ", "play ", "trifle "], "A": []}
+{"index": 75951, "D": "to play and splash in or as if in water, especially with the hands.", "S": ["dally", "dilly-dally", "idle", "monkey", "play", "trifle"], "A": []}

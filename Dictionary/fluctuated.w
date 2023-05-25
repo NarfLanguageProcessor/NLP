@@ -1,1 +1,1 @@
-{"index": 115240, "D": "to change continually; shift back and forth; vary irregularly", "S": ["oscillate ", "seesaw ", "vary ", "veer ", "waver "], "A": ["remain ", "stay ", "continue "]}
+{"index": 115240, "D": "to change continually; shift back and forth; vary irregularly", "S": ["oscillate", "seesaw", "vary", "veer", "waver"], "A": ["remain", "stay", "continue"]}

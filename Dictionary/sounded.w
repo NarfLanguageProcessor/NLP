@@ -1,1 +1,1 @@
-{"index": 297853, "D": "the sensation produced by stimulation of the organs of hearing by vibrations transmitted through the air or other medium.", "S": ["lingual ", "sonant ", "vocal "], "A": ["printed ", "written "]}
+{"index": 297853, "D": "the sensation produced by stimulation of the organs of hearing by vibrations transmitted through the air or other medium.", "S": ["lingual", "sonant", "vocal"], "A": ["printed", "written"]}

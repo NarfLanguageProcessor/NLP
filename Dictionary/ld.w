@@ -1,1 +1,1 @@
-{"index": 169488, "D": "praise (be) to God.", "S": ["learning deficit ", "learning disorder ", "learning impairment "], "A": []}
+{"index": 169488, "D": "praise (be) to God.", "S": ["learning deficit", "learning disorder", "learning impairment"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 260828, "D": "ripening early.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 13433, "D": "the talus.", "S": ["bone "], "A": []}
+{"index": 13433, "D": "the talus.", "S": ["bone"], "A": []}

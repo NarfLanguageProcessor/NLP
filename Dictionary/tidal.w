@@ -1,1 +1,1 @@
-{"index": 323289, "D": "of, pertaining to, characterized by, or subject to tides", "S": ["falling ", "rolling ", "running ", "sinuous ", "streaming "], "A": ["empty ", "needy ", "solid "]}
+{"index": 323289, "D": "of, pertaining to, characterized by, or subject to tides", "S": ["falling", "rolling", "running", "sinuous", "streaming"], "A": ["empty", "needy", "solid"]}

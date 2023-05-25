@@ -1,1 +1,1 @@
-{"index": 66568, "D": "(of a word or expression) signifying or suggestive of an associative or secondary meaning in addition to the primary meaning", "S": ["hinting ", "implying ", "meaning ", "referring ", "suggesting "], "A": []}
+{"index": 66568, "D": "(of a word or expression) signifying or suggestive of an associative or secondary meaning in addition to the primary meaning", "S": ["hinting", "implying", "meaning", "referring", "suggesting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 199313, "D": "to make neutral;  cause to undergo neutralization. ", "S": ["corrective ", "countermeasure ", "cure ", "remedy "], "A": ["disease "]}
+{"index": 199313, "D": "to make neutral;  cause to undergo neutralization. ", "S": ["corrective", "countermeasure", "cure", "remedy"], "A": ["disease"]}

@@ -1,1 +1,1 @@
-{"index": 20178, "D": "downright; thorough; unmitigated; notorious", "S": ["absolute ", "blatant ", "glaring ", "notorious ", "out-and-out ", "unmitigated ", "unregenerate "], "A": []}
+{"index": 20178, "D": "downright; thorough; unmitigated; notorious", "S": ["absolute", "blatant", "glaring", "notorious", "out-and-out", "unmitigated", "unregenerate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 135241, "D": "the doctrine that pleasure or happiness is the highest good.", "S": ["debauchery ", "enjoyment ", "epicureanism ", "gratification ", "indulgence ", "pleasure "], "A": ["dissatisfaction ", "sorrow ", "unhappiness "]}
+{"index": 135241, "D": "the doctrine that pleasure or happiness is the highest good.", "S": ["debauchery", "enjoyment", "epicureanism", "gratification", "indulgence", "pleasure"], "A": ["dissatisfaction", "sorrow", "unhappiness"]}

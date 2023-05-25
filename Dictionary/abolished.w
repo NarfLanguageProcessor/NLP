@@ -1,1 +1,1 @@
-{"index": 661, "D": "to do away with; put an end to; annul; make void", "S": ["broken ", "demolished ", "devastated ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}
+{"index": 661, "D": "to do away with; put an end to; annul; make void", "S": ["broken", "demolished", "devastated", "lost", "ravaged", "ruined", "shattered", "smashed", "wrecked"], "A": ["fixed", "repaired", "sober", "successful"]}

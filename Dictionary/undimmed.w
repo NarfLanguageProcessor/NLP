@@ -1,1 +1,1 @@
-{"index": 340405, "D": "(of eyes, light, etc) still bright or shining", "S": ["fair ", "sunny "], "A": ["cloudy ", "rainy ", "stormy ", "dark ", "gloomy "]}
+{"index": 340405, "D": "(of eyes, light, etc) still bright or shining", "S": ["fair", "sunny"], "A": ["cloudy", "rainy", "stormy", "dark", "gloomy"]}

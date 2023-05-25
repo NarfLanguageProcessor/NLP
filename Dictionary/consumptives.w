@@ -1,1 +1,1 @@
-{"index": 67225, "D": "tending to consume; destructive; wasteful. ", "S": ["consumptive ", "convalescent ", "incurable ", "patient ", "shut-in ", "sufferer "], "A": []}
+{"index": 67225, "D": "tending to consume; destructive; wasteful. ", "S": ["consumptive", "convalescent", "incurable", "patient", "shut-in", "sufferer"], "A": []}

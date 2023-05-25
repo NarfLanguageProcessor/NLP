@@ -1,1 +1,1 @@
-{"index": 294185, "D": "tending or liable to cause slipping  or sliding, as ice, oil, a wet surface, etc.", "S": ["glistening ", "greasy ", "icy ", "perilous ", "polished ", "silky ", "unsafe ", "unstable ", "wet "], "A": ["dry ", "safe ", "secure "]}
+{"index": 294185, "D": "tending or liable to cause slipping  or sliding, as ice, oil, a wet surface, etc.", "S": ["glistening", "greasy", "icy", "perilous", "polished", "silky", "unsafe", "unstable", "wet"], "A": ["dry", "safe", "secure"]}

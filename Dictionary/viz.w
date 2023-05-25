@@ -1,1 +1,1 @@
-{"index": 360810, "D": "that is to say; namely (used especially to introduce examples, details, etc.)", "S": ["especially ", "i.e. ", "particularly ", "specially ", "specifically "], "A": ["broadly ", "commonly ", "generally ", "usually "]}
+{"index": 360810, "D": "that is to say; namely (used especially to introduce examples, details, etc.)", "S": ["especially", "i.e.", "particularly", "specially", "specifically"], "A": ["broadly", "commonly", "generally", "usually"]}

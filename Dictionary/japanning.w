@@ -1,1 +1,1 @@
-{"index": 160383, "D": "any of various hard, durable, black varnishes, originally from Japan, for coating wood, metal, or other surfaces.", "S": ["gild ", "lacquer "], "A": ["dull ", "reveal ", "strip ", "uncover "]}
+{"index": 160383, "D": "any of various hard, durable, black varnishes, originally from Japan, for coating wood, metal, or other surfaces.", "S": ["gild", "lacquer"], "A": ["dull", "reveal", "strip", "uncover"]}

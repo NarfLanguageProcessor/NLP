@@ -1,1 +1,0 @@
-{"index": 239847, "D": "of, relating to, or characterized by pleomorphism;  polymorphous.", "S": [], "A": []}

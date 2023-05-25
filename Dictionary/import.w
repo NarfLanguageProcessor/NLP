@@ -1,1 +1,1 @@
-{"index": 148870, "D": "to bring in (merchandise, commodities, workers, etc.) from a foreign country for use, sale, processing, reexport, or services.", "S": ["construction "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 148870, "D": "to bring in (merchandise, commodities, workers, etc.) from a foreign country for use, sale, processing, reexport, or services.", "S": ["construction"], "A": ["exterior", "exteriority", "outside"]}

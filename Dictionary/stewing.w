@@ -1,1 +1,1 @@
-{"index": 304212, "D": "to cook (food) by simmering or slow boiling.", "S": ["baking ", "boiling ", "brewing ", "broiling ", "browning ", "grilling ", "heating ", "roasting ", "simmering ", "sizzling ", "steaming "], "A": []}
+{"index": 304212, "D": "to cook (food) by simmering or slow boiling.", "S": ["baking", "boiling", "brewing", "broiling", "browning", "grilling", "heating", "roasting", "simmering", "sizzling", "steaming"], "A": []}

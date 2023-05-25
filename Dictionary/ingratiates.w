@@ -1,1 +1,1 @@
-{"index": 152559, "D": "to establish (oneself or another person) in the favor or good graces of someone, especially by deliberate effort (usually followed by with)", "S": ["flatter "], "A": ["offend ", "repel ", "repulse "]}
+{"index": 152559, "D": "to establish (oneself or another person) in the favor or good graces of someone, especially by deliberate effort (usually followed by with)", "S": ["flatter"], "A": ["offend", "repel", "repulse"]}

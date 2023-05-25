@@ -1,1 +1,1 @@
-{"index": 256789, "D": "a person, usually young, who is learning under the close supervision of a teacher at school, a private tutor, or the like; student.", "S": ["graduate student ", "learner ", "senior ", "student ", "undergraduate "], "A": ["expert ", "professional "]}
+{"index": 256789, "D": "a person, usually young, who is learning under the close supervision of a teacher at school, a private tutor, or the like; student.", "S": ["graduate student", "learner", "senior", "student", "undergraduate"], "A": ["expert", "professional"]}

@@ -1,1 +1,1 @@
-{"index": 26306, "D": "baglike; hanging loosely.", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}
+{"index": 26306, "D": "baglike; hanging loosely.", "S": ["lump", "nodule", "wart"], "A": ["depression"]}

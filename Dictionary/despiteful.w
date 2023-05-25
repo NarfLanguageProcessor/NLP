@@ -1,1 +1,1 @@
-{"index": 82841, "D": "malicious; spiteful.", "S": ["disdainful ", "hateful ", "malevolent ", "malign ", "malignant ", "mean ", "nasty ", "scornful ", "spiteful ", "vicious ", "vindictive ", "wicked "], "A": []}
+{"index": 82841, "D": "malicious; spiteful.", "S": ["disdainful", "hateful", "malevolent", "malign", "malignant", "mean", "nasty", "scornful", "spiteful", "vicious", "vindictive", "wicked"], "A": []}

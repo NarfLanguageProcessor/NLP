@@ -1,1 +1,1 @@
-{"index": 114390, "D": "the largest organized unit of naval ships grouped for tactical or other purposes.", "S": ["quick ", "quickly ", "rapidly ", "soon ", "swift ", "swiftly "], "A": ["slowly "]}
+{"index": 114390, "D": "the largest organized unit of naval ships grouped for tactical or other purposes.", "S": ["quick", "quickly", "rapidly", "soon", "swift", "swiftly"], "A": ["slowly"]}

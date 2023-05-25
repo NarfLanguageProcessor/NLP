@@ -1,1 +1,1 @@
-{"index": 136986, "D": "a herder; the keeper of a herd, especially of cattle or sheep.", "S": ["herder ", "rancher "], "A": []}
+{"index": 136986, "D": "a herder; the keeper of a herd, especially of cattle or sheep.", "S": ["herder", "rancher"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 110058, "D": "a release of intestinal gas through the anus; a flatus.", "S": ["gas ", "vapors ", "wind "], "A": []}
+{"index": 110058, "D": "a release of intestinal gas through the anus; a flatus.", "S": ["gas", "vapors", "wind"], "A": []}

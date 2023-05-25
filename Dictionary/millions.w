@@ -1,1 +1,1 @@
-{"index": 187437, "D": "a cardinal number, a thousand times one thousand.", "S": ["considerable ", "countless ", "infinite ", "innumerable ", "lots of ", "many ", "numerous ", "umteen ", "zillion "], "A": []}
+{"index": 187437, "D": "a cardinal number, a thousand times one thousand.", "S": ["considerable", "countless", "infinite", "innumerable", "lots of", "many", "numerous", "umteen", "zillion"], "A": []}

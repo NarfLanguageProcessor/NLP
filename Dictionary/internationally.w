@@ -1,1 +1,1 @@
-{"index": 155478, "D": "in a way that involves or relates to two or more nations or their citizens or territories", "S": ["universally "], "A": []}
+{"index": 155478, "D": "in a way that involves or relates to two or more nations or their citizens or territories", "S": ["universally"], "A": []}

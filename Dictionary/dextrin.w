@@ -1,1 +1,1 @@
-{"index": 83812, "D": "a soluble, gummy substance, formed from starch by the action of heat, acids, or ferments, occurring in various forms and having dextrorotatory properties", "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}
+{"index": 83812, "D": "a soluble, gummy substance, formed from starch by the action of heat, acids, or ferments, occurring in various forms and having dextrorotatory properties", "S": ["cellulose", "glucose", "lactose", "starch", "sugar"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 106955, "D": "to carry out; accomplish", "S": ["assassinate ", "behead ", "hang ", "murder ", "shoot "], "A": []}
+{"index": 106955, "D": "to carry out; accomplish", "S": ["assassinate", "behead", "hang", "murder", "shoot"], "A": []}

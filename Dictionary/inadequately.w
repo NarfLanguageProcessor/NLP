@@ -1,1 +1,1 @@
-{"index": 149372, "D": "not good enough for the purpose; inept or unsuitable", "S": ["partially "], "A": []}
+{"index": 149372, "D": "not good enough for the purpose; inept or unsuitable", "S": ["partially"], "A": []}

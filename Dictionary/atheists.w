@@ -1,1 +1,1 @@
-{"index": 22524, "D": "a person who denies or disbelieves the existence of a supreme being  or beings.", "S": ["agnostic ", "doubting Thomas ", "skeptic ", "unbeliever "], "A": ["believer "]}
+{"index": 22524, "D": "a person who denies or disbelieves the existence of a supreme being  or beings.", "S": ["agnostic", "doubting Thomas", "skeptic", "unbeliever"], "A": ["believer"]}

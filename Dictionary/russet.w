@@ -1,1 +1,1 @@
-{"index": 275816, "D": "yellowish brown, light brown, or reddish brown.", "S": ["burnished ", "chestnut ", "copper ", "rust ", "tan "], "A": []}
+{"index": 275816, "D": "yellowish brown, light brown, or reddish brown.", "S": ["burnished", "chestnut", "copper", "rust", "tan"], "A": []}

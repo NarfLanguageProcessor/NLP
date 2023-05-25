@@ -1,1 +1,1 @@
-{"index": 91025, "D": "any small, ornamental mat, as of embroidery or lace.", "S": ["place mat "], "A": []}
+{"index": 91025, "D": "any small, ornamental mat, as of embroidery or lace.", "S": ["place mat"], "A": []}

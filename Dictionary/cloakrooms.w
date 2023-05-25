@@ -1,1 +1,1 @@
-{"index": 60253, "D": "a room in which outer garments, hats, umbrellas, etc., may be left temporarily, as in a club, restaurant, etc.; checkroom.", "S": ["armoire ", "closet ", "clothespress ", "linen closet ", "wardrobe "], "A": []}
+{"index": 60253, "D": "a room in which outer garments, hats, umbrellas, etc., may be left temporarily, as in a club, restaurant, etc.; checkroom.", "S": ["armoire", "closet", "clothespress", "linen closet", "wardrobe"], "A": []}

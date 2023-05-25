@@ -1,1 +1,1 @@
-{"index": 283237, "D": "the act or practice of segregating;  a setting apart or separation of people or things from others or from the main body or group", "S": ["apartheid ", "discrimination ", "isolation ", "partition "], "A": ["connection "]}
+{"index": 283237, "D": "the act or practice of segregating;  a setting apart or separation of people or things from others or from the main body or group", "S": ["apartheid", "discrimination", "isolation", "partition"], "A": ["connection"]}

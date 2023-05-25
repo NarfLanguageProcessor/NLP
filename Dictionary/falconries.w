@@ -1,1 +1,1 @@
-{"index": 109440, "D": "the sport of hunting with falcons,  hawks, eagles, etc.; hawking.", "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}
+{"index": 109440, "D": "the sport of hunting with falcons,  hawks, eagles, etc.; hawking.", "S": ["angling", "fishery", "fishing", "shooting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 181140, "D": "the state of being a mother; motherhood.", "S": ["gestation ", "motherhood ", "parenthood "], "A": ["paternity "]}
+{"index": 181140, "D": "the state of being a mother; motherhood.", "S": ["gestation", "motherhood", "parenthood"], "A": ["paternity"]}

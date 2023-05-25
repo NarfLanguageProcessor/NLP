@@ -1,1 +1,1 @@
-{"index": 248898, "D": "completely contrary to nature, reason, or common sense; utterly foolish; absurd; senseless", "S": ["comically ", "extremely ", "insanely ", "laughably "], "A": []}
+{"index": 248898, "D": "completely contrary to nature, reason, or common sense; utterly foolish; absurd; senseless", "S": ["comically", "extremely", "insanely", "laughably"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 351952, "D": "not having been articulated or uttered", "S": ["implicit ", "implied ", "indirect ", "unspoken "], "A": ["stated "]}
+{"index": 351952, "D": "not having been articulated or uttered", "S": ["implicit", "implied", "indirect", "unspoken"], "A": ["stated"]}

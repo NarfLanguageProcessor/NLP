@@ -1,1 +1,1 @@
-{"index": 240474, "D": "well filled out or rounded in form; somewhat fleshy or fat.", "S": ["chunky ", "fleshy ", "pudgy ", "well-fed "], "A": ["skinny ", "thin ", "incomplete ", "weak "]}
+{"index": 240474, "D": "well filled out or rounded in form; somewhat fleshy or fat.", "S": ["chunky", "fleshy", "pudgy", "well-fed"], "A": ["skinny", "thin", "incomplete", "weak"]}

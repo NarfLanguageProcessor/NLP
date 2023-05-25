@@ -1,1 +1,1 @@
-{"index": 23934, "D": "an aboriginal inhabitant.", "S": ["aboriginal ", "indigene ", "native "], "A": []}
+{"index": 23934, "D": "an aboriginal inhabitant.", "S": ["aboriginal", "indigene", "native"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 28915, "D": "a washing or immersion of something, especially the body, in water, steam, etc., as for cleansing or medical treatment", "S": ["shower ", "tub "], "A": []}
+{"index": 28915, "D": "a washing or immersion of something, especially the body, in water, steam, etc., as for cleansing or medical treatment", "S": ["shower", "tub"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 276924, "D": "a usually cold dish consisting of vegetables, as lettuce, tomatoes, and cucumbers, covered with a dressing and sometimes containing seafood, meat, or eggs.", "S": ["potato salad "], "A": []}
+{"index": 276924, "D": "a usually cold dish consisting of vegetables, as lettuce, tomatoes, and cucumbers, covered with a dressing and sometimes containing seafood, meat, or eggs.", "S": ["potato salad"], "A": []}

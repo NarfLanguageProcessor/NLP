@@ -1,1 +1,1 @@
-{"index": 93820, "D": "a man excessively concerned with his clothes, grooming, and manners.", "S": ["buddy ", "chap ", "fellow "], "A": ["enemy "]}
+{"index": 93820, "D": "a man excessively concerned with his clothes, grooming, and manners.", "S": ["buddy", "chap", "fellow"], "A": ["enemy"]}

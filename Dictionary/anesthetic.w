@@ -1,1 +1,1 @@
-{"index": 12587, "D": "a substance that produces anesthesia,  as halothane, procaine, or ether.", "S": ["opiate "], "A": ["analeptic ", "stimulant "]}
+{"index": 12587, "D": "a substance that produces anesthesia,  as halothane, procaine, or ether.", "S": ["opiate"], "A": ["analeptic", "stimulant"]}

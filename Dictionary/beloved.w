@@ -1,1 +1,1 @@
-{"index": 31284, "D": "greatly loved; dear to the heart.", "S": ["admired ", "cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "revered ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}
+{"index": 31284, "D": "greatly loved; dear to the heart.", "S": ["admired", "cherished", "dear", "esteemed", "favorite", "hallowed", "loved", "popular", "prized", "respected", "revered", "treasured", "venerated", "well-liked"], "A": ["disliked"]}

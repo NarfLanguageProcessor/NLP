@@ -1,1 +1,1 @@
-{"index": 149457, "D": "lack of sense, significance, or ideas; silliness. ", "S": ["asininity ", "foolishness ", "stupidity "], "A": []}
+{"index": 149457, "D": "lack of sense, significance, or ideas; silliness. ", "S": ["asininity", "foolishness", "stupidity"], "A": []}

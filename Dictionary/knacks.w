@@ -1,1 +1,1 @@
-{"index": 165418, "D": "a special skill, talent, or aptitude", "S": ["aptitude ", "dexterity ", "flair ", "genius ", "ingenuity ", "propensity ", "quickness ", "savvy ", "skill "], "A": ["disinclination ", "inability ", "incapacity ", "ineptness ", "ignorance ", "incompetence ", "lack "]}
+{"index": 165418, "D": "a special skill, talent, or aptitude", "S": ["aptitude", "dexterity", "flair", "genius", "ingenuity", "propensity", "quickness", "savvy", "skill"], "A": ["disinclination", "inability", "incapacity", "ineptness", "ignorance", "incompetence", "lack"]}

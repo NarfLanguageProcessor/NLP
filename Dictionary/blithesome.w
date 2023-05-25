@@ -1,1 +1,1 @@
-{"index": 36307, "D": "lighthearted; merry; cheerful", "S": ["blithe ", "carefree ", "cheerful ", "cheery ", "convivial ", "gladsome ", "gleeful ", "happy ", "jocund ", "jolly ", "jovial ", "joyful ", "joyous ", "lighthearted ", "lightsome ", "merry ", "mirthful ", "sunny "], "A": []}
+{"index": 36307, "D": "lighthearted; merry; cheerful", "S": ["blithe", "carefree", "cheerful", "cheery", "convivial", "gladsome", "gleeful", "happy", "jocund", "jolly", "jovial", "joyful", "joyous", "lighthearted", "lightsome", "merry", "mirthful", "sunny"], "A": []}

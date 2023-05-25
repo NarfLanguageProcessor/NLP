@@ -1,1 +1,1 @@
-{"index": 147484, "D": "to illuminate. ", "S": ["brighten ", "illuminate ", "irradiate ", "light "], "A": ["darken ", "dull ", "obscure "]}
+{"index": 147484, "D": "to illuminate. ", "S": ["brighten", "illuminate", "irradiate", "light"], "A": ["darken", "dull", "obscure"]}

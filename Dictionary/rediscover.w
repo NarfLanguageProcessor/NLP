@@ -1,1 +1,1 @@
-{"index": 264233, "D": "rediscover the joys of life", "S": ["get back ", "reclaim ", "recoup ", "regain ", "repair ", "rescue ", "restore ", "resume ", "retrieve ", "salvage "], "A": ["break ", "damage ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "lose "]}
+{"index": 264233, "D": "rediscover the joys of life", "S": ["get back", "reclaim", "recoup", "regain", "repair", "rescue", "restore", "resume", "retrieve", "salvage"], "A": ["break", "damage", "destroy", "forfeit", "harm", "hurt", "injure", "lose"]}

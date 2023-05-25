@@ -1,1 +1,1 @@
-{"index": 4721, "D": "to speak or write in favor of; support or urge by argument; recommend publicly", "S": ["backer ", "campaigner ", "defender ", "lawyer ", "promoter ", "proponent ", "supporter "], "A": ["opponent "]}
+{"index": 4721, "D": "to speak or write in favor of; support or urge by argument; recommend publicly", "S": ["backer", "campaigner", "defender", "lawyer", "promoter", "proponent", "supporter"], "A": ["opponent"]}

@@ -1,1 +1,1 @@
-{"index": 188510, "D": "an aromatic resinous exudation from certain plants of the genus Myrrhis, especially M. odorata, a small spiny tree", "S": ["aroma ", "odor ", "perfume ", "scent "], "A": ["odor ", "stench ", "stink "]}
+{"index": 188510, "D": "an aromatic resinous exudation from certain plants of the genus Myrrhis, especially M. odorata, a small spiny tree", "S": ["aroma", "odor", "perfume", "scent"], "A": ["odor", "stench", "stink"]}

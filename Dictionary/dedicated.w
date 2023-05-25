@@ -1,1 +1,1 @@
-{"index": 78885, "D": "wholly committed to something, as to an ideal, political cause, or personal goal", "S": ["committed ", "devoted ", "enthusiastic ", "faithful ", "zealous "], "A": ["apathetic ", "disloyal ", "inconstant ", "indifferent ", "lethargic ", "unenthusiastic ", "unfaithful "]}
+{"index": 78885, "D": "wholly committed to something, as to an ideal, political cause, or personal goal", "S": ["committed", "devoted", "enthusiastic", "faithful", "zealous"], "A": ["apathetic", "disloyal", "inconstant", "indifferent", "lethargic", "unenthusiastic", "unfaithful"]}

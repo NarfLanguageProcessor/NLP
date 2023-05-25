@@ -1,1 +1,1 @@
-{"index": 336085, "D": "to disclose (a confidence, secret, etc.).", "S": ["disclose ", "display ", "open ", "tell "], "A": ["conceal ", "cover ", "hide ", "secrete ", "withhold ", "protect "]}
+{"index": 336085, "D": "to disclose (a confidence, secret, etc.).", "S": ["disclose", "display", "open", "tell"], "A": ["conceal", "cover", "hide", "secrete", "withhold", "protect"]}

@@ -1,1 +1,1 @@
-{"index": 214883, "D": "of or relating to Orpheus. ", "S": ["acute ", "complex ", "difficult ", "heavy ", "hidden ", "profound ", "serious "], "A": ["simple ", "stupid ", "trivial ", "unimportant "]}
+{"index": 214883, "D": "of or relating to Orpheus. ", "S": ["acute", "complex", "difficult", "heavy", "hidden", "profound", "serious"], "A": ["simple", "stupid", "trivial", "unimportant"]}

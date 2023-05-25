@@ -1,1 +1,1 @@
-{"index": 115771, "D": [], "S": ["cloud ", "gloom ", "smog ", "smoke ", "steam ", "vapor "], "A": []}
+{"index": 115771, "D": [], "S": ["cloud", "gloom", "smog", "smoke", "steam", "vapor"], "A": []}

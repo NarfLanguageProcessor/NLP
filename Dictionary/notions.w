@@ -1,1 +1,1 @@
-{"index": 208960, "D": "pins, cotton, ribbon, and similar wares used for sewing; haberdashery", "S": ["odds and ends "], "A": ["base ", "cleanliness ", "core ", "possessions ", "property ", "singularity "]}
+{"index": 208960, "D": "pins, cotton, ribbon, and similar wares used for sewing; haberdashery", "S": ["odds and ends"], "A": ["base", "cleanliness", "core", "possessions", "property", "singularity"]}

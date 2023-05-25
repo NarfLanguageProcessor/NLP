@@ -1,1 +1,1 @@
-{"index": 92151, "D": "a woman who holds some title or property from her deceased husband, especially the widow of a king, duke, etc. (often used as an additional title to differentiate her from the wife of the present king, duke, etc.)", "S": ["matron "], "A": []}
+{"index": 92151, "D": "a woman who holds some title or property from her deceased husband, especially the widow of a king, duke, etc. (often used as an additional title to differentiate her from the wife of the present king, duke, etc.)", "S": ["matron"], "A": []}

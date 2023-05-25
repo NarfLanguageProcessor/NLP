@@ -1,1 +1,1 @@
-{"index": 150507, "D": "an encrusting  or being encrusted.", "S": ["layer ", "skin ", "surface "], "A": ["core ", "interior ", "middle ", "center ", "inside "]}
+{"index": 150507, "D": "an encrusting  or being encrusted.", "S": ["layer", "skin", "surface"], "A": ["core", "interior", "middle", "center", "inside"]}

@@ -1,1 +1,1 @@
-{"index": 303596, "D": [], "S": ["ancestral tree ", "ancestry ", "bloodline ", "descent ", "family history ", "genealogical chart ", "genealogical tree ", "genealogy ", "heredity ", "line ", "lineage ", "pedigree ", "tree "], "A": []}
+{"index": 303596, "D": [], "S": ["ancestral tree", "ancestry", "bloodline", "descent", "family history", "genealogical chart", "genealogical tree", "genealogy", "heredity", "line", "lineage", "pedigree", "tree"], "A": []}

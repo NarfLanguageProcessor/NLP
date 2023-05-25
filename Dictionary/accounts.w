@@ -1,1 +1,1 @@
-{"index": 1735, "D": "an oral or written description of particular events or situations; narrative", "S": ["account ", "arrears ", "bills ", "charge ", "collectible ", "debt ", "deficit ", "indebtedness ", "liability ", "obligation "], "A": ["asset ", "excess "]}
+{"index": 1735, "D": "an oral or written description of particular events or situations; narrative", "S": ["account", "arrears", "bills", "charge", "collectible", "debt", "deficit", "indebtedness", "liability", "obligation"], "A": ["asset", "excess"]}

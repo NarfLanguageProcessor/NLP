@@ -1,1 +1,1 @@
-{"index": 346077, "D": "a landscape of unmatched beauty", "S": ["incomparable ", "unequaled ", "unparalleled ", "unrivaled "], "A": ["inferior ", "second-rate "]}
+{"index": 346077, "D": "a landscape of unmatched beauty", "S": ["incomparable", "unequaled", "unparalleled", "unrivaled"], "A": ["inferior", "second-rate"]}

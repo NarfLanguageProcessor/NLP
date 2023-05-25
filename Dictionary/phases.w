@@ -1,1 +1,1 @@
-{"index": 233208, "D": "any of the major appearances or aspects in which a thing of varying modes or conditions manifests itself to the eye or mind.", "S": ["aspect ", "chapter ", "development ", "point ", "stage ", "state ", "step ", "time "], "A": ["whole "]}
+{"index": 233208, "D": "any of the major appearances or aspects in which a thing of varying modes or conditions manifests itself to the eye or mind.", "S": ["aspect", "chapter", "development", "point", "stage", "state", "step", "time"], "A": ["whole"]}

@@ -1,1 +1,1 @@
-{"index": 109087, "D": "the plural of factor. ", "S": ["aspect ", "cause ", "circumstance ", "component ", "consideration ", "element ", "influence ", "ingredient ", "part ", "point ", "thing "], "A": ["whole "]}
+{"index": 109087, "D": "the plural of factor. ", "S": ["aspect", "cause", "circumstance", "component", "consideration", "element", "influence", "ingredient", "part", "point", "thing"], "A": ["whole"]}

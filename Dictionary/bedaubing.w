@@ -1,1 +1,1 @@
-{"index": 29979, "D": "to smear all over; besmear; soil.", "S": ["anoint ", "besmear ", "daub ", "smirch ", "smudge ", "soil ", "spread ", "stain ", "sully "], "A": ["clean "]}
+{"index": 29979, "D": "to smear all over; besmear; soil.", "S": ["anoint", "besmear", "daub", "smirch", "smudge", "soil", "spread", "stain", "sully"], "A": ["clean"]}

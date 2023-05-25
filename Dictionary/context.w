@@ -1,1 +1,1 @@
-{"index": 67421, "D": "the parts of a written or spoken statement that precede or follow a specific word or passage, usually influencing its meaning or effect", "S": ["background ", "situation ", "text "], "A": []}
+{"index": 67421, "D": "the parts of a written or spoken statement that precede or follow a specific word or passage, usually influencing its meaning or effect", "S": ["background", "situation", "text"], "A": []}

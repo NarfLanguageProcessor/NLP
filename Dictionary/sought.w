@@ -1,1 +1,1 @@
-{"index": 297810, "D": "simple past tense and past participle of seek. ", "S": ["desired ", "hunted ", "needed "], "A": []}
+{"index": 297810, "D": "simple past tense and past participle of seek. ", "S": ["desired", "hunted", "needed"], "A": []}

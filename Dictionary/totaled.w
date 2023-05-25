@@ -1,1 +1,1 @@
-{"index": 326443, "D": "constituting or comprising the whole; entire; whole", "S": ["flawed ", "impaired ", "injured ", "run-down "], "A": ["healthy "]}
+{"index": 326443, "D": "constituting or comprising the whole; entire; whole", "S": ["flawed", "impaired", "injured", "run-down"], "A": ["healthy"]}

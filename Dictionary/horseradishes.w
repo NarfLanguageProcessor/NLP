@@ -1,1 +1,1 @@
-{"index": 144068, "D": "a cultivated plant, Armoracia rusticana, of the mustard family, having small, white flowers.", "S": ["dressing ", "gravy ", "ketchup ", "mustard ", "pepper ", "relish ", "salsa ", "salt ", "sauce ", "seasoning ", "spice "], "A": []}
+{"index": 144068, "D": "a cultivated plant, Armoracia rusticana, of the mustard family, having small, white flowers.", "S": ["dressing", "gravy", "ketchup", "mustard", "pepper", "relish", "salsa", "salt", "sauce", "seasoning", "spice"], "A": []}

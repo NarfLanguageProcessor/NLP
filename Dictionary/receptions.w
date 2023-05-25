@@ -1,1 +1,1 @@
-{"index": 262739, "D": "the act of receiving  or the state of being received. ", "S": ["encounter ", "gathering ", "greeting ", "meeting ", "reaction ", "receiving ", "response ", "welcome "], "A": ["goodbye ", "question ", "expulsion ", "repudiation "]}
+{"index": 262739, "D": "the act of receiving  or the state of being received. ", "S": ["encounter", "gathering", "greeting", "meeting", "reaction", "receiving", "response", "welcome"], "A": ["goodbye", "question", "expulsion", "repudiation"]}

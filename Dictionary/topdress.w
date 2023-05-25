@@ -1,1 +1,0 @@
-{"index": 325837, "D": "to manure (land) on the surface.", "S": ["compost ", "enrich ", "germinate ", "impregnate ", "inseminate ", "mulch ", "pollinate ", "propagate "], "A": ["deplete ", "ignore ", "lay bare ", "uncover "]}

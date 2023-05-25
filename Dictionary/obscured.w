@@ -1,1 +1,0 @@
-{"index": 210341, "D": "(of meaning) not clear or plain; ambiguous, vague, or uncertain", "S": ["buried ", "concealed ", "cover ", "guarded ", "hidden ", "implied ", "obscure ", "shrouded ", "unsaid "], "A": ["bare ", "clear ", "exposed ", "expressed ", "obvious ", "open ", "stated ", "uncovered "]}

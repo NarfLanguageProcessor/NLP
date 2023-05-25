@@ -1,1 +1,1 @@
-{"index": 151417, "D": "an economic organization of society built largely on mechanized industry  rather than agriculture, craftsmanship, or commerce.", "S": ["deal ", "industry ", "manufacturing ", "market ", "trading ", "transaction "], "A": []}
+{"index": 151417, "D": "an economic organization of society built largely on mechanized industry  rather than agriculture, craftsmanship, or commerce.", "S": ["deal", "industry", "manufacturing", "market", "trading", "transaction"], "A": []}

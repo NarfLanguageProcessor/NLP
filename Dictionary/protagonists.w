@@ -1,1 +1,1 @@
-{"index": 253324, "D": "the leading character, hero, or heroine of a drama or other literary work.", "S": ["combatant ", "hero ", "idol "], "A": ["antagonist "]}
+{"index": 253324, "D": "the leading character, hero, or heroine of a drama or other literary work.", "S": ["combatant", "hero", "idol"], "A": ["antagonist"]}

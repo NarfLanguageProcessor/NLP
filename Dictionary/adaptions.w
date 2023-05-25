@@ -1,0 +1,1 @@
+{"index": 3472, "D": "the act of adapting.", "S": ["accommodation", "adjustment", "alteration", "conversion", "modification", "revision"], "A": []}

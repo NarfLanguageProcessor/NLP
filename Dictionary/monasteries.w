@@ -1,1 +1,1 @@
-{"index": 191782, "D": "a house or place of residence occupied by a community of persons, especially monks, living in seclusion under religious vows.", "S": ["abbey ", "cloister ", "friary ", "house ", "lamasery ", "priory "], "A": []}
+{"index": 191782, "D": "a house or place of residence occupied by a community of persons, especially monks, living in seclusion under religious vows.", "S": ["abbey", "cloister", "friary", "house", "lamasery", "priory"], "A": []}

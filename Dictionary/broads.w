@@ -1,1 +1,1 @@
-{"index": 41083, "D": "a low-lying region in E England, in Norfolk and Suffolk", "S": ["deep ", "expansive ", "full ", "large ", "vast "], "A": ["narrow ", "thin "]}
+{"index": 41083, "D": "a low-lying region in E England, in Norfolk and Suffolk", "S": ["deep", "expansive", "full", "large", "vast"], "A": ["narrow", "thin"]}

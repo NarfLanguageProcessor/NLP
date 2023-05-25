@@ -1,1 +1,1 @@
-{"index": 158525, "D": "yoctosecond.", "S": ["edge ", "intersection ", "rim "], "A": ["center ", "middle "]}
+{"index": 158525, "D": "yoctosecond.", "S": ["edge", "intersection", "rim"], "A": ["center", "middle"]}

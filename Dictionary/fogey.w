@@ -1,1 +1,1 @@
-{"index": 115756, "D": "a variant of fogy. ", "S": ["dodo ", "fossil ", "fuddy-duddy ", "stick-in-the-mud "], "A": []}
+{"index": 115756, "D": "a variant of fogy. ", "S": ["dodo", "fossil", "fuddy-duddy", "stick-in-the-mud"], "A": []}

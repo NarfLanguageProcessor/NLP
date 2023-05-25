@@ -1,1 +1,1 @@
-{"index": 178110, "D": "facial cosmetics, as eye shadow or lipstick.", "S": ["lipstick ", "paint "], "A": []}
+{"index": 178110, "D": "facial cosmetics, as eye shadow or lipstick.", "S": ["lipstick", "paint"], "A": []}

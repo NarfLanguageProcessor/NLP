@@ -1,1 +1,1 @@
-{"index": 56478, "D": "an electronic instrument for measuring accurately very brief intervals of time, as in determining the velocity of projectiles.", "S": ["historical ", "sequential "], "A": []}
+{"index": 56478, "D": "an electronic instrument for measuring accurately very brief intervals of time, as in determining the velocity of projectiles.", "S": ["historical", "sequential"], "A": []}

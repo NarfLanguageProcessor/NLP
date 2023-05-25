@@ -1,1 +1,0 @@
-{"index": 365849, "D": "to become limp and drooping, as a fading flower; wither. ", "S": ["bent ", "drooping ", "flabby ", "floppy ", "languid ", "languorous ", "lassitudinous ", "pendulous ", "sagging ", "saggy ", "slouchy ", "stooped "], "A": ["full ", "inflated ", "raised "]}

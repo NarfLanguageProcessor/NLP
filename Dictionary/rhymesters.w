@@ -1,1 +1,1 @@
-{"index": 271965, "D": "a writer of inferior verse; poetaster.", "S": ["artist ", "author ", "bard ", "dilettante ", "dramatist ", "librettist ", "lyricist ", "lyrist ", "maker ", "muse ", "odist ", "parodist ", "poetess ", "rhymer ", "versifier ", "writer "], "A": []}
+{"index": 271965, "D": "a writer of inferior verse; poetaster.", "S": ["artist", "author", "bard", "dilettante", "dramatist", "librettist", "lyricist", "lyrist", "maker", "muse", "odist", "parodist", "poetess", "rhymer", "versifier", "writer"], "A": []}

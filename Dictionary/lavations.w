@@ -1,1 +1,1 @@
-{"index": 169280, "D": "the process of washing.", "S": ["bath ", "cleansing ", "decontamination ", "purification ", "shower "], "A": []}
+{"index": 169280, "D": "the process of washing.", "S": ["bath", "cleansing", "decontamination", "purification", "shower"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 51588, "D": "to attest as certain; give reliable information of; confirm", "S": ["endorser ", "recorder ", "registrar ", "scrivener ", "signatory ", "witness "], "A": []}
+{"index": 51588, "D": "to attest as certain; give reliable information of; confirm", "S": ["endorser", "recorder", "registrar", "scrivener", "signatory", "witness"], "A": []}

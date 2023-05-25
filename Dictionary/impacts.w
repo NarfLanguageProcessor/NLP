@@ -1,1 +1,1 @@
-{"index": 148220, "D": "the striking of one thing against another; forceful contact; collision", "S": ["brunt ", "shock "], "A": ["avoidance ", "failure ", "loss ", "praise ", "stillness "]}
+{"index": 148220, "D": "the striking of one thing against another; forceful contact; collision", "S": ["brunt", "shock"], "A": ["avoidance", "failure", "loss", "praise", "stillness"]}

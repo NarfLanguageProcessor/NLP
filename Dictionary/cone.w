@@ -1,1 +1,1 @@
-{"index": 65733, "D": "a plane surface resembling the cross section of a solid cone.", "S": ["conoid ", "pyramid ", "raceme ", "strobile "], "A": []}
+{"index": 65733, "D": "a plane surface resembling the cross section of a solid cone.", "S": ["conoid", "pyramid", "raceme", "strobile"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 318165, "D": "communication between minds by some means other than sensory perception.", "S": ["ESP ", "clairvoyance ", "insight ", "parapsychology ", "premonition ", "presentiment ", "spiritualism "], "A": []}
+{"index": 318165, "D": "communication between minds by some means other than sensory perception.", "S": ["ESP", "clairvoyance", "insight", "parapsychology", "premonition", "presentiment", "spiritualism"], "A": []}

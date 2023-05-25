@@ -1,1 +1,1 @@
-{"index": 283611, "D": "the plural of self. ", "S": ["character ", "ego ", "identity ", "individuality ", "myself ", "person ", "personality "], "A": ["other "]}
+{"index": 283611, "D": "the plural of self. ", "S": ["character", "ego", "identity", "individuality", "myself", "person", "personality"], "A": ["other"]}

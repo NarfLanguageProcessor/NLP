@@ -1,1 +1,1 @@
-{"index": 63629, "D": "ready or inclined to fight; pugnacious", "S": ["fiercely ", "forcefully ", "forcibly ", "intensely ", "powerfully ", "strongly ", "vigorously "], "A": ["weakly "]}
+{"index": 63629, "D": "ready or inclined to fight; pugnacious", "S": ["fiercely", "forcefully", "forcibly", "intensely", "powerfully", "strongly", "vigorously"], "A": ["weakly"]}

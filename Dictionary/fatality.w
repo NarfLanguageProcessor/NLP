@@ -1,1 +1,1 @@
-{"index": 110238, "D": "a disaster resulting in death.", "S": ["accident ", "casualty ", "disaster ", "mortality "], "A": ["birth "]}
+{"index": 110238, "D": "a disaster resulting in death.", "S": ["accident", "casualty", "disaster", "mortality"], "A": ["birth"]}

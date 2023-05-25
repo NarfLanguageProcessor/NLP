@@ -1,1 +1,1 @@
-{"index": 305821, "D": "a plural of stratum. ", "S": ["bed ", "gradation ", "grade ", "lamina ", "level ", "lode ", "seam ", "sheet ", "stratification ", "thickness ", "vein "], "A": []}
+{"index": 305821, "D": "a plural of stratum. ", "S": ["bed", "gradation", "grade", "lamina", "level", "lode", "seam", "sheet", "stratification", "thickness", "vein"], "A": []}

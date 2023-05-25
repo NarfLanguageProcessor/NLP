@@ -1,1 +1,1 @@
-{"index": 64264, "D": "an official bulletin or communication, usually to the press or public.", "S": ["directive ", "information ", "letter ", "memo ", "memorandum ", "news ", "note ", "notice ", "report ", "word "], "A": ["heedlessness ", "ignorance ", "neglect ", "silence "]}
+{"index": 64264, "D": "an official bulletin or communication, usually to the press or public.", "S": ["directive", "information", "letter", "memo", "memorandum", "news", "note", "notice", "report", "word"], "A": ["heedlessness", "ignorance", "neglect", "silence"]}

@@ -1,1 +1,1 @@
-{"index": 88274, "D": "(esp of hair) hanging loosely", "S": ["muss ", "tousle "], "A": []}
+{"index": 88274, "D": "(esp of hair) hanging loosely", "S": ["muss", "tousle"], "A": []}

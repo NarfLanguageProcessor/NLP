@@ -1,1 +1,1 @@
-{"index": 281420, "D": "having the character of a scoundrel;  unscrupulous; villainous.", "S": ["deceitful ", "deceptive ", "malicious ", "misleading "], "A": ["frank ", "honest ", "open ", "truthful ", "upright "]}
+{"index": 281420, "D": "having the character of a scoundrel;  unscrupulous; villainous.", "S": ["deceitful", "deceptive", "malicious", "misleading"], "A": ["frank", "honest", "open", "truthful", "upright"]}

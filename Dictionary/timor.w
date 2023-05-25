@@ -1,1 +1,0 @@
-{"index": 323833, "D": "the largest and easternmost of the Lesser Sunda Islands, comprising East Timor on the E half and part of the Republic of Indonesia on the W half. 13,095 sq. mi. (33,913 sq. km).", "S": [], "A": []}

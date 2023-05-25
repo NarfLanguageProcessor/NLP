@@ -1,1 +1,1 @@
-{"index": 155310, "D": "to take part in a matter, especially officiously; meddle.", "S": ["intrusive ", "meddling ", "nosy ", "pushy "], "A": ["avoiding ", "dodging ", "ignorant "]}
+{"index": 155310, "D": "to take part in a matter, especially officiously; meddle.", "S": ["intrusive", "meddling", "nosy", "pushy"], "A": ["avoiding", "dodging", "ignorant"]}

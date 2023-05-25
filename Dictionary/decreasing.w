@@ -1,1 +1,1 @@
-{"index": 78732, "D": "becoming less or fewer; diminishing.", "S": ["collapsing ", "descending ", "lowering ", "plunging ", "sliding ", "tumbling ", "weakening "], "A": ["improving ", "increasing ", "rising "]}
+{"index": 78732, "D": "becoming less or fewer; diminishing.", "S": ["collapsing", "descending", "lowering", "plunging", "sliding", "tumbling", "weakening"], "A": ["improving", "increasing", "rising"]}

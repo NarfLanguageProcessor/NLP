@@ -1,1 +1,0 @@
-{"index": 177343, "D": "magazine. ", "S": ["journal ", "magazine ", "monthly ", "quarterly ", "weekly "], "A": []}

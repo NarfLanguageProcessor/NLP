@@ -1,1 +1,1 @@
-{"index": 71325, "D": "a session of a judicial assembly.", "S": ["street "], "A": []}
+{"index": 71325, "D": "a session of a judicial assembly.", "S": ["street"], "A": []}

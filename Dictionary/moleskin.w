@@ -1,1 +1,1 @@
-{"index": 191456, "D": "the soft, deep-gray, fragile fur of the mole. ", "S": ["oval ", "peanut ", "pigskin ", "pineapple ", "porker ", "sphere ", "watermelon "], "A": []}
+{"index": 191456, "D": "the soft, deep-gray, fragile fur of the mole. ", "S": ["oval", "peanut", "pigskin", "pineapple", "porker", "sphere", "watermelon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 79873, "D": "depression or lowness of spirits.", "S": ["depression ", "grief ", "melancholy ", "sadness ", "sorrow "], "A": ["cheer ", "happiness ", "joy "]}
+{"index": 79873, "D": "depression or lowness of spirits.", "S": ["depression", "grief", "melancholy", "sadness", "sorrow"], "A": ["cheer", "happiness", "joy"]}

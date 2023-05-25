@@ -1,1 +1,1 @@
-{"index": 53872, "D": "the fruit of any of various trees belonging to the genus Prunus, of the rose family, consisting of a pulpy, globular drupe enclosing a one-seeded smooth stone.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}
+{"index": 53872, "D": "the fruit of any of various trees belonging to the genus Prunus, of the rose family, consisting of a pulpy, globular drupe enclosing a one-seeded smooth stone.", "S": ["cardinal", "coral", "crimson", "flaming", "glowing", "maroon", "rose", "wine"], "A": []}

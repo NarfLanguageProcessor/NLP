@@ -1,1 +1,1 @@
-{"index": 89378, "D": "causing, tending to cause, or caused by disruption; disrupting", "S": ["hooliganism "], "A": []}
+{"index": 89378, "D": "causing, tending to cause, or caused by disruption; disrupting", "S": ["hooliganism"], "A": []}

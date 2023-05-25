@@ -1,1 +1,1 @@
-{"index": 263507, "D": "to set down in writing or the like, as for the purpose of preserving evidence.", "S": ["journal "], "A": []}
+{"index": 263507, "D": "to set down in writing or the like, as for the purpose of preserving evidence.", "S": ["journal"], "A": []}

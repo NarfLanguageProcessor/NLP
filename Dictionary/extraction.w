@@ -1,1 +1,1 @@
-{"index": 108465, "D": "an act or instance ofextracting", "S": ["eradication "], "A": ["addition ", "insertion ", "introduction "]}
+{"index": 108465, "D": "an act or instance ofextracting", "S": ["eradication"], "A": ["addition", "insertion", "introduction"]}

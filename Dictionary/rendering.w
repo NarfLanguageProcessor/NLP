@@ -1,1 +1,1 @@
-{"index": 267573, "D": "the execution of loading and displaying objects, textures, geometry, lighting, etc., in a video game", "S": ["reading ", "rendition ", "translation "], "A": ["complication ", "failure ", "ignorance ", "misconception ", "misunderstanding ", "release ", "stupidity "]}
+{"index": 267573, "D": "the execution of loading and displaying objects, textures, geometry, lighting, etc., in a video game", "S": ["reading", "rendition", "translation"], "A": ["complication", "failure", "ignorance", "misconception", "misunderstanding", "release", "stupidity"]}

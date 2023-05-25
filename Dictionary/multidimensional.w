@@ -1,1 +1,1 @@
-{"index": 195061, "D": "having many different facets, elements, or factors", "S": ["complex ", "intricate ", "involved ", "multifaceted "], "A": ["simple ", "straightforward ", "basic ", "flat "]}
+{"index": 195061, "D": "having many different facets, elements, or factors", "S": ["complex", "intricate", "involved", "multifaceted"], "A": ["simple", "straightforward", "basic", "flat"]}

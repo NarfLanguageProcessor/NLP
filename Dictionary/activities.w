@@ -1,1 +1,1 @@
-{"index": 3266, "D": "the plural of activity. ", "S": ["action ", "enterprise ", "exercise ", "life ", "movement "], "A": ["cessation ", "idleness ", "inaction ", "inactivity ", "stoppage ", "laziness "]}
+{"index": 3266, "D": "the plural of activity. ", "S": ["action", "enterprise", "exercise", "life", "movement"], "A": ["cessation", "idleness", "inaction", "inactivity", "stoppage", "laziness"]}

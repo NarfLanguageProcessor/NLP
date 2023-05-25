@@ -1,1 +1,1 @@
-{"index": 19599, "D": "fond of or given to argument  and dispute; disputatious; contentious", "S": ["belligerent ", "combative ", "contentious ", "opinionated "], "A": ["compromising "]}
+{"index": 19599, "D": "fond of or given to argument  and dispute; disputatious; contentious", "S": ["belligerent", "combative", "contentious", "opinionated"], "A": ["compromising"]}

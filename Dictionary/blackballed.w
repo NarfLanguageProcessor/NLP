@@ -1,1 +1,1 @@
-{"index": 35439, "D": "to vote against (a candidate, applicant, etc.).", "S": ["ignored ", "shunned "], "A": []}
+{"index": 35439, "D": "to vote against (a candidate, applicant, etc.).", "S": ["ignored", "shunned"], "A": []}

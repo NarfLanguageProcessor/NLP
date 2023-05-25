@@ -1,1 +1,0 @@
-{"index": 208338, "D": "bringing forth living young rather than eggs, as most mammals and some reptiles and fishes.", "S": [], "A": []}

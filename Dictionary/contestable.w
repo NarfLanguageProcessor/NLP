@@ -1,1 +1,1 @@
-{"index": 67404, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": ["contentious ", "disputed ", "dubious ", "questionable "], "A": ["certain ", "definite ", "sure "]}
+{"index": 67404, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": ["contentious", "disputed", "dubious", "questionable"], "A": ["certain", "definite", "sure"]}

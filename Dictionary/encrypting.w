@@ -1,1 +1,1 @@
-{"index": 99515, "D": "to encipher  or encode. ", "S": ["encipher "], "A": ["decipher ", "decode ", "decrypt "]}
+{"index": 99515, "D": "to encipher  or encode. ", "S": ["encipher"], "A": ["decipher", "decode", "decrypt"]}

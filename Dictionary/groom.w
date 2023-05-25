@@ -1,1 +1,1 @@
-{"index": 130180, "D": "a bridegroom.", "S": ["bridegroom ", "suitor "], "A": ["bride "]}
+{"index": 130180, "D": "a bridegroom.", "S": ["bridegroom", "suitor"], "A": ["bride"]}

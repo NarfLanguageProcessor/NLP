@@ -1,1 +1,1 @@
-{"index": 64515, "D": "to recompense for something", "S": ["adjusting ", "atoning ", "balanced ", "balancing ", "settling "], "A": []}
+{"index": 64515, "D": "to recompense for something", "S": ["adjusting", "atoning", "balanced", "balancing", "settling"], "A": []}

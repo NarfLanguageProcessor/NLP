@@ -1,1 +1,1 @@
-{"index": 323555, "D": "covered or furnished with tiles. ", "S": ["brick ", "cobblestone ", "flagstone ", "gravel ", "macadamize ", "surface ", "tar ", "tile "], "A": ["dig up ", "strip "]}
+{"index": 323555, "D": "covered or furnished with tiles. ", "S": ["brick", "cobblestone", "flagstone", "gravel", "macadamize", "surface", "tar", "tile"], "A": ["dig up", "strip"]}

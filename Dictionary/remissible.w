@@ -1,1 +1,0 @@
-{"index": 267339, "D": "that may be remitted.", "S": ["acceptable ", "admissible ", "allowable ", "defensible ", "lawful ", "legitimate ", "logical ", "probable ", "proper ", "reasonable ", "understandable ", "valid "], "A": ["illegal ", "illegitimate ", "improbable ", "invalid ", "prohibited ", "unacceptable ", "unlawful ", "unlikely ", "unreasonable ", "unsuitable ", "wrong "]}

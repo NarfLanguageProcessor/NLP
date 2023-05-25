@@ -1,1 +1,1 @@
-{"index": 35386, "D": "markedly unusual in appearance, style, or general character and often involving incongruous or unexpected elements; outrageously or whimsically strange; odd", "S": ["curiously ", "strangely "], "A": []}
+{"index": 35386, "D": "markedly unusual in appearance, style, or general character and often involving incongruous or unexpected elements; outrageously or whimsically strange; odd", "S": ["curiously", "strangely"], "A": []}

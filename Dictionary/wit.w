@@ -1,1 +1,1 @@
-{"index": 366527, "D": "the keen perception and cleverly apt expression of those connections between ideas that awaken amusement and pleasure.", "S": ["fun ", "joke ", "satire "], "A": ["seriousness "]}
+{"index": 366527, "D": "the keen perception and cleverly apt expression of those connections between ideas that awaken amusement and pleasure.", "S": ["fun", "joke", "satire"], "A": ["seriousness"]}

@@ -1,1 +1,1 @@
-{"index": 108722, "D": "a person who goes to extremes,  especially in political matters.", "S": ["aficionados ", "energumen ", "fanatical group ", "fanaticos ", "fanatics ", "nuts ", "nympholepts ", "zealots "], "A": []}
+{"index": 108722, "D": "a person who goes to extremes,  especially in political matters.", "S": ["aficionados", "energumen", "fanatical group", "fanaticos", "fanatics", "nuts", "nympholepts", "zealots"], "A": []}

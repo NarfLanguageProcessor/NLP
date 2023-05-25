@@ -1,1 +1,1 @@
-{"index": 305008, "D": "a long, slender, roughly made, inexpensive cigar.", "S": ["belvedere ", "bouquet ", "cheroot ", "claro ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "tobacco ", "toby ", "weed "], "A": []}
+{"index": 305008, "D": "a long, slender, roughly made, inexpensive cigar.", "S": ["belvedere", "bouquet", "cheroot", "claro", "corona", "havana", "panatela", "smoke", "stogie", "tobacco", "toby", "weed"], "A": []}

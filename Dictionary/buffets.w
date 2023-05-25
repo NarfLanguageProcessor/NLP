@@ -1,1 +1,1 @@
-{"index": 42245, "D": "a restaurant where food is presented in this way", "S": ["cafeteria ", "smorgasbord "], "A": []}
+{"index": 42245, "D": "a restaurant where food is presented in this way", "S": ["cafeteria", "smorgasbord"], "A": []}

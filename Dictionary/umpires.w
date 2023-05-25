@@ -1,1 +1,1 @@
-{"index": 334284, "D": "a person selected to rule on the plays in a game.", "S": ["arbitrator ", "judge ", "ref ", "referee ", "ump "], "A": []}
+{"index": 334284, "D": "a person selected to rule on the plays in a game.", "S": ["arbitrator", "judge", "ref", "referee", "ump"], "A": []}

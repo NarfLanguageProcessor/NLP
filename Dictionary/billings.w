@@ -1,0 +1,1 @@
+{"index": 34025, "D": "pen name of Henry Wheeler Shaw. ", "S": ["attention", "clout", "commercial", "distribution", "fame", "hoopla", "hype", "noise", "notoriety", "propaganda"], "A": ["obscurity"]}

@@ -1,1 +1,1 @@
-{"index": 125904, "D": "striking obliquely and bouncing off at an angle", "S": ["cursory ", "fleeting ", "superficial "], "A": ["thorough ", "enduring ", "large ", "lasting ", "long ", "permanent ", "tall ", "thick "]}
+{"index": 125904, "D": "striking obliquely and bouncing off at an angle", "S": ["cursory", "fleeting", "superficial"], "A": ["thorough", "enduring", "large", "lasting", "long", "permanent", "tall", "thick"]}

@@ -1,1 +1,1 @@
-{"index": 151051, "D": "not in a direct course or path; deviating from a straight line; roundabout", "S": ["diffuseness ", "discursiveness ", "euphemism ", "periphrasis ", "pleonasm ", "prolixity ", "roundabout ", "tautology ", "verbiage ", "wordiness "], "A": ["conciseness "]}
+{"index": 151051, "D": "not in a direct course or path; deviating from a straight line; roundabout", "S": ["diffuseness", "discursiveness", "euphemism", "periphrasis", "pleonasm", "prolixity", "roundabout", "tautology", "verbiage", "wordiness"], "A": ["conciseness"]}

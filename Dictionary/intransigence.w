@@ -1,1 +1,1 @@
-{"index": 156570, "D": "the state or quality of being intransigent,  or refusing to compromise or agree; inflexibility", "S": ["inflexibility ", "obstinacy "], "A": []}
+{"index": 156570, "D": "the state or quality of being intransigent,  or refusing to compromise or agree; inflexibility", "S": ["inflexibility", "obstinacy"], "A": []}

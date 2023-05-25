@@ -1,1 +1,0 @@
-{"index": 194347, "D": "the amount a mouth  can hold.", "S": ["chunk ", "crumb ", "hunk ", "mouthful ", "snack ", "tidbit "], "A": ["entirety ", "increase ", "lot ", "total ", "whole "]}

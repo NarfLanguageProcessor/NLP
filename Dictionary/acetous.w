@@ -1,1 +1,1 @@
-{"index": 2170, "D": "containing or producing acetic acid. ", "S": ["acerb ", "acerbic ", "acidulous ", "acrid ", "bitter ", "harsh ", "tangy ", "tart ", "vinegarish ", "vinegary "], "A": []}
+{"index": 2170, "D": "containing or producing acetic acid. ", "S": ["acerb", "acerbic", "acidulous", "acrid", "bitter", "harsh", "tangy", "tart", "vinegarish", "vinegary"], "A": []}

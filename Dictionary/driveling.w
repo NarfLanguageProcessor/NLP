@@ -1,1 +1,1 @@
-{"index": 93191, "D": "saliva flowing from the mouth, or mucus from the nose; slaver.", "S": ["blabbering ", "blathering ", "blithering ", "chitchatting ", "gibbering ", "jabbering ", "prattling "], "A": []}
+{"index": 93191, "D": "saliva flowing from the mouth, or mucus from the nose; slaver.", "S": ["blabbering", "blathering", "blithering", "chitchatting", "gibbering", "jabbering", "prattling"], "A": []}

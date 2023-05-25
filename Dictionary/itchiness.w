@@ -1,1 +1,1 @@
-{"index": 159486, "D": "having or causing an itching  sensation.", "S": ["crawling ", "creeping ", "irritation ", "prickling ", "psoriasis ", "rawness ", "tickle "], "A": ["dislike ", "hate ", "hatred "]}
+{"index": 159486, "D": "having or causing an itching  sensation.", "S": ["crawling", "creeping", "irritation", "prickling", "psoriasis", "rawness", "tickle"], "A": ["dislike", "hate", "hatred"]}

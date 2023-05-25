@@ -1,1 +1,1 @@
-{"index": 295369, "D": "to make a sudden effort to seize something, as with the hand; grab (usually followed by at).", "S": ["abduction ", "apprehension ", "arrest ", "confiscation ", "imprisonment ", "occupation ", "seizure ", "taking "], "A": ["letting go ", "release ", "rise "]}
+{"index": 295369, "D": "to make a sudden effort to seize something, as with the hand; grab (usually followed by at).", "S": ["abduction", "apprehension", "arrest", "confiscation", "imprisonment", "occupation", "seizure", "taking"], "A": ["letting go", "release", "rise"]}

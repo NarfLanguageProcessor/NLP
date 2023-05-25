@@ -1,1 +1,1 @@
-{"index": 356169, "D": "to put to use; turn to profitable account", "S": ["apply ", "appropriate ", "employ ", "exploit ", "handle ", "promote ", "resort to ", "take advantage of "], "A": ["misuse ", "cease ", "halt ", "hinder ", "impede ", "stop "]}
+{"index": 356169, "D": "to put to use; turn to profitable account", "S": ["apply", "appropriate", "employ", "exploit", "handle", "promote", "resort to", "take advantage of"], "A": ["misuse", "cease", "halt", "hinder", "impede", "stop"]}

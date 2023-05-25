@@ -1,1 +1,1 @@
-{"index": 315364, "D": "waste left over after certain processes, such as from an ore-crushing plant or in milling grain", "S": ["sand ", "shale "], "A": []}
+{"index": 315364, "D": "waste left over after certain processes, such as from an ore-crushing plant or in milling grain", "S": ["sand", "shale"], "A": []}

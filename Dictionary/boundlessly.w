@@ -1,1 +1,1 @@
-{"index": 38979, "D": "having no bounds;  infinite or vast; unlimited", "S": ["unbelievably "], "A": []}
+{"index": 38979, "D": "having no bounds;  infinite or vast; unlimited", "S": ["unbelievably"], "A": []}

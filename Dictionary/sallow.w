@@ -1,1 +1,1 @@
-{"index": 277128, "D": "of a sickly, yellowish or lightish brown color", "S": ["dull ", "jaundiced ", "muddy ", "pasty ", "wan "], "A": ["bright ", "clean ", "clear ", "flushed "]}
+{"index": 277128, "D": "of a sickly, yellowish or lightish brown color", "S": ["dull", "jaundiced", "muddy", "pasty", "wan"], "A": ["bright", "clean", "clear", "flushed"]}

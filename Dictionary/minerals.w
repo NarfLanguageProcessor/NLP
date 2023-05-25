@@ -1,1 +1,1 @@
-{"index": 187756, "D": [], "S": ["alloy ", "hardware ", "ingot ", "mineral ", "ore "], "A": []}
+{"index": 187756, "D": [], "S": ["alloy", "hardware", "ingot", "mineral", "ore"], "A": []}

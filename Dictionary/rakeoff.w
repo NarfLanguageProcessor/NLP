@@ -1,1 +1,1 @@
-{"index": 260182, "D": "a share or amount taken or received illicitly, as in connection with a public enterprise.", "S": ["allocation ", "allowance ", "appropriation ", "quota ", "ration "], "A": ["whole "]}
+{"index": 260182, "D": "a share or amount taken or received illicitly, as in connection with a public enterprise.", "S": ["allocation", "allowance", "appropriation", "quota", "ration"], "A": ["whole"]}

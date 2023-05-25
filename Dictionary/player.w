@@ -1,1 +1,1 @@
-{"index": 238740, "D": "a person or thing that plays. ", "S": ["athlete ", "competitor ", "member ", "opponent ", "participant ", "pro ", "professional ", "rookie "], "A": ["conductor ", "director ", "fan ", "spectator "]}
+{"index": 238740, "D": "a person or thing that plays. ", "S": ["athlete", "competitor", "member", "opponent", "participant", "pro", "professional", "rookie"], "A": ["conductor", "director", "fan", "spectator"]}

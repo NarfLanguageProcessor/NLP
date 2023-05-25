@@ -1,1 +1,1 @@
-{"index": 125492, "D": "to encircle or bind with a belt or band.", "S": ["brace "], "A": ["free ", "hurt ", "injure ", "let down ", "let go ", "loose ", "loosen ", "neglect ", "open ", "release ", "undermine ", "unfasten ", "untie ", "weaken "]}
+{"index": 125492, "D": "to encircle or bind with a belt or band.", "S": ["brace"], "A": ["free", "hurt", "injure", "let down", "let go", "loose", "loosen", "neglect", "open", "release", "undermine", "unfasten", "untie", "weaken"]}

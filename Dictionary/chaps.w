@@ -1,1 +1,1 @@
-{"index": 52674, "D": "a pair of joined leather leggings, often widely flared, worn over trousers, especially by cowboys, as protection against burs, rope burns, etc., while on horseback.", "S": ["denims ", "pants ", "trousers "], "A": []}
+{"index": 52674, "D": "a pair of joined leather leggings, often widely flared, worn over trousers, especially by cowboys, as protection against burs, rope burns, etc., while on horseback.", "S": ["denims", "pants", "trousers"], "A": []}

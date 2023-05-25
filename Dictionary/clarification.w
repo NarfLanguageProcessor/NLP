@@ -1,1 +1,1 @@
-{"index": 59303, "D": "the act or an instance of making an idea or statement clear", "S": ["description ", "interpretation ", "resolution ", "simplification "], "A": ["complication ", "misunderstanding ", "muddle "]}
+{"index": 59303, "D": "the act or an instance of making an idea or statement clear", "S": ["description", "interpretation", "resolution", "simplification"], "A": ["complication", "misunderstanding", "muddle"]}

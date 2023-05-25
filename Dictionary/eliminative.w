@@ -1,1 +1,1 @@
-{"index": 97578, "D": "to remove or get rid of, especially as being in some way undesirable", "S": ["aperient ", "cathartic ", "eliminatory ", "evacuant ", "evacuative ", "excretory ", "expulsive ", "purgative "], "A": []}
+{"index": 97578, "D": "to remove or get rid of, especially as being in some way undesirable", "S": ["aperient", "cathartic", "eliminatory", "evacuant", "evacuative", "excretory", "expulsive", "purgative"], "A": []}

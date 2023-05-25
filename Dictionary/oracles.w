@@ -1,1 +1,1 @@
-{"index": 213913, "D": "another term for Scripture (def. 1)", "S": ["answer ", "apocalypse ", "augury ", "canon ", "commandment ", "divination ", "edict ", "fortune ", "law ", "prediction ", "prognostication ", "revelation ", "vision "], "A": []}
+{"index": 213913, "D": "another term for Scripture (def. 1)", "S": ["answer", "apocalypse", "augury", "canon", "commandment", "divination", "edict", "fortune", "law", "prediction", "prognostication", "revelation", "vision"], "A": []}

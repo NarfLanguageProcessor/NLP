@@ -1,1 +1,1 @@
-{"index": 3555, "D": "added;  more; supplementary", "S": ["also ", "and ", "plus "], "A": []}
+{"index": 3555, "D": "added;  more; supplementary", "S": ["also", "and", "plus"], "A": []}

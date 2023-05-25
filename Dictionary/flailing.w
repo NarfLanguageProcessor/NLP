@@ -1,1 +1,1 @@
-{"index": 113804, "D": "the act of moving one\u2019s limbs or body about randomly and wildly (often followed by around or about)", "S": ["whipping "], "A": []}
+{"index": 113804, "D": "the act of moving one\u2019s limbs or body about randomly and wildly (often followed by around or about)", "S": ["whipping"], "A": []}

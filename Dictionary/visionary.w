@@ -1,1 +1,1 @@
-{"index": 360404, "D": "given to or characterized by fanciful, not presently workable, or unpractical ideas, views, or schemes", "S": ["ambitious ", "grandiose ", "idealistic ", "introspective ", "lofty ", "noble ", "quixotic ", "radical ", "starry-eyed "], "A": ["moderate ", "real "]}
+{"index": 360404, "D": "given to or characterized by fanciful, not presently workable, or unpractical ideas, views, or schemes", "S": ["ambitious", "grandiose", "idealistic", "introspective", "lofty", "noble", "quixotic", "radical", "starry-eyed"], "A": ["moderate", "real"]}

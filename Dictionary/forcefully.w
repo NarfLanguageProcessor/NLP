@@ -1,1 +1,1 @@
-{"index": 116410, "D": "full of force;  powerful; vigorous; effective", "S": ["emphatically ", "energetically ", "strenuously ", "vigorously "], "A": []}
+{"index": 116410, "D": "full of force;  powerful; vigorous; effective", "S": ["emphatically", "energetically", "strenuously", "vigorously"], "A": []}

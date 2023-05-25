@@ -1,1 +1,1 @@
-{"index": 153726, "D": "inability to obtain sufficient sleep, especially when chronic; difficulty in falling or staying asleep; sleeplessness.", "S": ["restlessness "], "A": ["relaxation "]}
+{"index": 153726, "D": "inability to obtain sufficient sleep, especially when chronic; difficulty in falling or staying asleep; sleeplessness.", "S": ["restlessness"], "A": ["relaxation"]}

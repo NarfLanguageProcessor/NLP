@@ -1,1 +1,1 @@
-{"index": 4701, "D": "one who gives advice. ", "S": ["aide ", "coach ", "confidant ", "consultant ", "counselor "], "A": []}
+{"index": 4701, "D": "one who gives advice. ", "S": ["aide", "coach", "confidant", "consultant", "counselor"], "A": []}

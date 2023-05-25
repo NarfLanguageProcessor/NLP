@@ -1,1 +1,1 @@
-{"index": 717, "D": "the plural form of Aborigine. ", "S": ["aboriginal ", "autochthon ", "indigene ", "native "], "A": []}
+{"index": 717, "D": "the plural form of Aborigine. ", "S": ["aboriginal", "autochthon", "indigene", "native"], "A": []}

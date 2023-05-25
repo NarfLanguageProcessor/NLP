@@ -1,1 +1,1 @@
-{"index": 31197, "D": "the front or under part of a vertebrate body from the breastbone to the pelvis, containing the abdominal viscera; the abdomen.", "S": ["enlarge ", "expand ", "inflate ", "swell "], "A": ["abridge ", "compress ", "contract ", "lessen ", "lower ", "shrink ", "cave in "]}
+{"index": 31197, "D": "the front or under part of a vertebrate body from the breastbone to the pelvis, containing the abdominal viscera; the abdomen.", "S": ["enlarge", "expand", "inflate", "swell"], "A": ["abridge", "compress", "contract", "lessen", "lower", "shrink", "cave in"]}

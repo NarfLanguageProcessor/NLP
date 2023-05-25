@@ -1,1 +1,1 @@
-{"index": 337021, "D": [], "S": ["ambiguity ", "cloudiness ", "equivocalness ", "indefiniteness ", "obscureness ", "obscurity ", "uncertainty "], "A": ["certainty ", "definiteness "]}
+{"index": 337021, "D": [], "S": ["ambiguity", "cloudiness", "equivocalness", "indefiniteness", "obscureness", "obscurity", "uncertainty"], "A": ["certainty", "definiteness"]}

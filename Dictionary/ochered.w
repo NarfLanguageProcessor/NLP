@@ -1,1 +1,0 @@
-{"index": 210825, "D": "any of a class of natural earths, mixtures of hydrated oxide of iron with various earthy materials, ranging in color from pale yellow to orange and red, and used as pigments.", "S": [], "A": []}

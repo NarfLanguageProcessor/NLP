@@ -1,1 +1,1 @@
-{"index": 155243, "D": "a person who takes part in a conversation or dialogue.", "S": ["interrogator ", "interviewer ", "questioner ", "speaker ", "talker "], "A": []}
+{"index": 155243, "D": "a person who takes part in a conversation or dialogue.", "S": ["interrogator", "interviewer", "questioner", "speaker", "talker"], "A": []}

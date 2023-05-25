@@ -1,1 +1,1 @@
-{"index": 107594, "D": [], "S": ["banishment ", "deportation ", "expulsion ", "extradition ", "ostracism ", "proscription "], "A": ["welcoming "]}
+{"index": 107594, "D": [], "S": ["banishment", "deportation", "expulsion", "extradition", "ostracism", "proscription"], "A": ["welcoming"]}

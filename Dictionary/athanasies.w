@@ -1,1 +1,1 @@
-{"index": 22506, "D": "deathlessness; immortality.", "S": ["athanasia ", "eternity ", "everlasting life ", "everlastingness "], "A": []}
+{"index": 22506, "D": "deathlessness; immortality.", "S": ["athanasia", "eternity", "everlasting life", "everlastingness"], "A": []}

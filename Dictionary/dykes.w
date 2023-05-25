@@ -1,1 +1,1 @@
-{"index": 85648, "D": "dike1. ", "S": ["barrier ", "ditch ", "levee "], "A": []}
+{"index": 85648, "D": "dike1. ", "S": ["barrier", "ditch", "levee"], "A": []}

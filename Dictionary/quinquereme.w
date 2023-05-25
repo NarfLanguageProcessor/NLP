@@ -1,1 +1,0 @@
-{"index": 258839, "D": "an ancient Roman galley with five banks of oars on each side", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 71760, "D": "characters per inch.", "S": ["price index ", "retail price index "], "A": []}
+{"index": 71760, "D": "characters per inch.", "S": ["price index", "retail price index"], "A": []}

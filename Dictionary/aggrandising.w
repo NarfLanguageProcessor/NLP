@@ -1,0 +1,1 @@
+{"index": 6094, "D": "to widen in scope; increase in size or intensity; enlarge; extend.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 314209, "D": "to perspire, especially freely or profusely.", "S": ["perspiration ", "steam "], "A": []}
+{"index": 314209, "D": "to perspire, especially freely or profusely.", "S": ["perspiration", "steam"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 352557, "D": "swaybacked. ", "S": ["fair ", "firm ", "impartial ", "unmoved "], "A": []}
+{"index": 352557, "D": "swaybacked. ", "S": ["fair", "firm", "impartial", "unmoved"], "A": []}

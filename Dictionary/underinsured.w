@@ -1,1 +1,0 @@
-{"index": 339347, "D": "not having enough insurance to cover the cost of a loss", "S": [], "A": []}

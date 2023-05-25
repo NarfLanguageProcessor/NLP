@@ -1,1 +1,1 @@
-{"index": 274457, "D": "Compare rose family. ", "S": ["red "], "A": []}
+{"index": 274457, "D": "Compare rose family. ", "S": ["red"], "A": []}

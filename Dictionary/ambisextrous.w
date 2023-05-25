@@ -1,0 +1,1 @@
+{"index": 10008, "D": "used by or suitable for any gender; unisex", "S": [], "A": []}

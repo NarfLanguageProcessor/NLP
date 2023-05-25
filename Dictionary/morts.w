@@ -1,1 +1,1 @@
-{"index": 193764, "D": "the note played on a hunting horn signifying that the animal hunted has been killed.", "S": ["death ", "decease ", "demise ", "end ", "expiration ", "loss of life ", "passing "], "A": []}
+{"index": 193764, "D": "the note played on a hunting horn signifying that the animal hunted has been killed.", "S": ["death", "decease", "demise", "end", "expiration", "loss of life", "passing"], "A": []}

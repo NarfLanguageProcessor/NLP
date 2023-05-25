@@ -1,1 +1,1 @@
-{"index": 258971, "D": "a set of 24 uniform sheets of paper.", "S": ["notebook ", "notepad ", "paper "], "A": []}
+{"index": 258971, "D": "a set of 24 uniform sheets of paper.", "S": ["notebook", "notepad", "paper"], "A": []}

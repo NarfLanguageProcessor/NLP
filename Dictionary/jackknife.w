@@ -1,1 +1,1 @@
-{"index": 159922, "D": "a large pocketknife.", "S": ["cannonball ", "gainer ", "plunge ", "swallow dive "], "A": []}
+{"index": 159922, "D": "a large pocketknife.", "S": ["cannonball", "gainer", "plunge", "swallow dive"], "A": []}

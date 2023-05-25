@@ -1,1 +1,1 @@
-{"index": 221759, "D": "a general outline of a subject or situation; survey or summary.", "S": ["analysis ", "audit ", "critique ", "examination ", "sketch ", "synopsis "], "A": []}
+{"index": 221759, "D": "a general outline of a subject or situation; survey or summary.", "S": ["analysis", "audit", "critique", "examination", "sketch", "synopsis"], "A": []}

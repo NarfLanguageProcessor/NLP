@@ -1,1 +1,1 @@
-{"index": 323984, "D": "to make or cause to make a high, clear, ringing sound.", "S": ["coloration ", "hue ", "tint ", "tone "], "A": ["information ", "white "]}
+{"index": 323984, "D": "to make or cause to make a high, clear, ringing sound.", "S": ["coloration", "hue", "tint", "tone"], "A": ["information", "white"]}

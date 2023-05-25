@@ -1,1 +1,1 @@
-{"index": 101843, "D": "to contemplate; visualize", "S": ["clairvoyance ", "divination ", "forward look ", "prediction ", "prevenience "], "A": []}
+{"index": 101843, "D": "to contemplate; visualize", "S": ["clairvoyance", "divination", "forward look", "prediction", "prevenience"], "A": []}

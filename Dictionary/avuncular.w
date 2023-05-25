@@ -1,1 +1,1 @@
-{"index": 24913, "D": "of or relating to an uncle", "S": ["counseling ", "helping "], "A": []}
+{"index": 24913, "D": "of or relating to an uncle", "S": ["counseling", "helping"], "A": []}

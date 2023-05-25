@@ -1,1 +1,1 @@
-{"index": 20785, "D": "an arts degree", "S": ["belles-lettres ", "languages ", "letters ", "philosophy "], "A": []}
+{"index": 20785, "D": "an arts degree", "S": ["belles-lettres", "languages", "letters", "philosophy"], "A": []}

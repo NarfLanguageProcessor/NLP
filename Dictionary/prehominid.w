@@ -1,1 +1,0 @@
-{"index": 247837, "D": "any of the extinct humanlike primates classified in the former family Prehominidae.", "S": [], "A": []}

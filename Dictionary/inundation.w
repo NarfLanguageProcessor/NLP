@@ -1,1 +1,1 @@
-{"index": 156960, "D": "the condition of being flooded", "S": ["flood ", "tide ", "torrent "], "A": []}
+{"index": 156960, "D": "the condition of being flooded", "S": ["flood", "tide", "torrent"], "A": []}

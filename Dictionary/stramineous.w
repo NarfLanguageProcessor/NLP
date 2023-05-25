@@ -1,1 +1,1 @@
-{"index": 305736, "D": "of or resembling straw.", "S": ["blond "], "A": ["brunet ", "brunette "]}
+{"index": 305736, "D": "of or resembling straw.", "S": ["blond"], "A": ["brunet", "brunette"]}

@@ -1,1 +1,1 @@
-{"index": 232512, "D": "gasoline. ", "S": ["Texas Tea ", "oil ", "petroleum "], "A": []}
+{"index": 232512, "D": "gasoline. ", "S": ["Texas Tea", "oil", "petroleum"], "A": []}

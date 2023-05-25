@@ -1,1 +1,1 @@
-{"index": 298461, "D": "to lead, inspire, or animate something or someone.", "S": ["anarchist ", "demagogue ", "firebrand ", "malcontent ", "propagandist ", "protestor ", "radical ", "troublemaker ", "zealot "], "A": ["moderate "]}
+{"index": 298461, "D": "to lead, inspire, or animate something or someone.", "S": ["anarchist", "demagogue", "firebrand", "malcontent", "propagandist", "protestor", "radical", "troublemaker", "zealot"], "A": ["moderate"]}

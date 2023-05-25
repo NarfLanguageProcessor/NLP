@@ -1,1 +1,1 @@
-{"index": 211499, "D": "Office of Economic Stabilization.", "S": ["Anglian ", "OE ", "early English "], "A": []}
+{"index": 211499, "D": "Office of Economic Stabilization.", "S": ["Anglian", "OE", "early English"], "A": []}

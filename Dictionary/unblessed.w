@@ -1,1 +1,1 @@
-{"index": 335958, "D": "excluded from or lacking a blessing.", "S": ["deconsecrated "], "A": ["blessed ", "devout ", "godly ", "holy ", "pious ", "religious ", "respectful ", "reverent "]}
+{"index": 335958, "D": "excluded from or lacking a blessing.", "S": ["deconsecrated"], "A": ["blessed", "devout", "godly", "holy", "pious", "religious", "respectful", "reverent"]}

@@ -1,1 +1,1 @@
-{"index": 157284, "D": "attractive, alluring, or tempting", "S": ["charmingly ", "politely ", "winsomely "], "A": ["badly ", "incorrectly ", "mistakenly ", "unfortunately ", "unsuccessfully ", "wrongly "]}
+{"index": 157284, "D": "attractive, alluring, or tempting", "S": ["charmingly", "politely", "winsomely"], "A": ["badly", "incorrectly", "mistakenly", "unfortunately", "unsuccessfully", "wrongly"]}

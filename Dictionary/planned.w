@@ -1,1 +1,1 @@
-{"index": 239027, "D": "arranged, organized, or done in accordance with a plan", "S": ["prepared "], "A": []}
+{"index": 239027, "D": "arranged, organized, or done in accordance with a plan", "S": ["prepared"], "A": []}

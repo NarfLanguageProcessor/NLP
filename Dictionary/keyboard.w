@@ -1,1 +1,1 @@
-{"index": 163639, "D": "the row or set of keys  on a piano, organ, or the like", "S": ["console ", "manual ", "piano "], "A": []}
+{"index": 163639, "D": "the row or set of keys  on a piano, organ, or the like", "S": ["console", "manual", "piano"], "A": []}

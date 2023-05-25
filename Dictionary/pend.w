@@ -1,1 +1,1 @@
-{"index": 229542, "D": "to remain undecided or unsettled.", "S": ["await ", "hang "], "A": []}
+{"index": 229542, "D": "to remain undecided or unsettled.", "S": ["await", "hang"], "A": []}

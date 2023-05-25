@@ -1,1 +1,1 @@
-{"index": 81792, "D": "to make morally bad or evil; vitiate; corrupt.", "S": ["corruption ", "degradation "], "A": ["honor "]}
+{"index": 81792, "D": "to make morally bad or evil; vitiate; corrupt.", "S": ["corruption", "degradation"], "A": ["honor"]}

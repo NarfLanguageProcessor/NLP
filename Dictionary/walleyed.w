@@ -1,1 +1,1 @@
-{"index": 362238, "D": "having eyes in which there is an abnormal amount of the white showing, because of divergent strabismus.", "S": ["boss-eyed ", "squint-eyed ", "strabismal ", "strabismic ", "strabismical "], "A": []}
+{"index": 362238, "D": "having eyes in which there is an abnormal amount of the white showing, because of divergent strabismus.", "S": ["boss-eyed", "squint-eyed", "strabismal", "strabismic", "strabismical"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 33520, "D": "to endure; bear.", "S": ["dwell ", "sit tight ", "stick around "], "A": ["carry on ", "cease ", "complete ", "depart ", "finish ", "go ", "halt ", "leave ", "move ", "stop "]}
+{"index": 33520, "D": "to endure; bear.", "S": ["dwell", "sit tight", "stick around"], "A": ["carry on", "cease", "complete", "depart", "finish", "go", "halt", "leave", "move", "stop"]}

@@ -1,1 +1,1 @@
-{"index": 59975, "D": "the science that deals with the phenomena of climates  or climatic conditions.", "S": ["weather forecasting "], "A": []}
+{"index": 59975, "D": "the science that deals with the phenomena of climates  or climatic conditions.", "S": ["weather forecasting"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 178831, "D": "the greedy pursuit of riches.", "S": [], "A": []}

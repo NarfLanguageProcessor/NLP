@@ -1,1 +1,1 @@
-{"index": 81087, "D": "a bare, sandy tract or low sand hill near the sea.", "S": ["dell ", "dingle ", "glen ", "ravine ", "spout ", "trough ", "vale "], "A": []}
+{"index": 81087, "D": "a bare, sandy tract or low sand hill near the sea.", "S": ["dell", "dingle", "glen", "ravine", "spout", "trough", "vale"], "A": []}

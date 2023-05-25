@@ -1,1 +1,1 @@
-{"index": 231998, "D": "(of an inanimate object or abstraction) spoken or written of as having the nature or character of a person", "S": ["embodied ", "manifested ", "materialized ", "substantiated ", "typified "], "A": []}
+{"index": 231998, "D": "(of an inanimate object or abstraction) spoken or written of as having the nature or character of a person", "S": ["embodied", "manifested", "materialized", "substantiated", "typified"], "A": []}

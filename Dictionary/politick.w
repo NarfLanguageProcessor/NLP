@@ -1,1 +1,1 @@
-{"index": 242559, "D": "to engage in politicking.", "S": ["barnstorm ", "lobby ", "stump "], "A": []}
+{"index": 242559, "D": "to engage in politicking.", "S": ["barnstorm", "lobby", "stump"], "A": []}

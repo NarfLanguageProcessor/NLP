@@ -1,1 +1,1 @@
-{"index": 32672, "D": "the second letter of the Greek alphabet (\u03b2, B).", "S": ["suspect ", "testing "], "A": []}
+{"index": 32672, "D": "the second letter of the Greek alphabet (\u03b2, B).", "S": ["suspect", "testing"], "A": []}

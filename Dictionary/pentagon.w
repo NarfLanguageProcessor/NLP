@@ -1,1 +1,1 @@
-{"index": 229921, "D": "a polygon having five angles and five sides.", "S": ["cinque ", "cinquefoil ", "limerick ", "lustrum ", "pentacle ", "pentad ", "pentagram ", "pentangle ", "quinquennium ", "quintette ", "quintuple ", "quintuplet "], "A": []}
+{"index": 229921, "D": "a polygon having five angles and five sides.", "S": ["cinque", "cinquefoil", "limerick", "lustrum", "pentacle", "pentad", "pentagram", "pentangle", "quinquennium", "quintette", "quintuple", "quintuplet"], "A": []}

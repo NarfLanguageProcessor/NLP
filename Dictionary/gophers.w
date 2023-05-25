@@ -1,1 +1,1 @@
-{"index": 128031, "D": "any of several ground squirrels of the genus Citellus, of the prairie regions of North America.", "S": ["grunt ", "peon "], "A": []}
+{"index": 128031, "D": "any of several ground squirrels of the genus Citellus, of the prairie regions of North America.", "S": ["grunt", "peon"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 308328, "D": "to bring under complete control or subjection; conquer; master.", "S": ["conquistador "], "A": ["loser "]}

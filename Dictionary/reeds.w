@@ -1,1 +1,1 @@
-{"index": 264576, "D": "the straight stalk of any of various tall grasses, especially of the genera Phragmites and Arundo, growing in marshy places.", "S": ["fountain pen ", "marker ", "stick "], "A": ["open space ", "pencil "]}
+{"index": 264576, "D": "the straight stalk of any of various tall grasses, especially of the genera Phragmites and Arundo, growing in marshy places.", "S": ["fountain pen", "marker", "stick"], "A": ["open space", "pencil"]}

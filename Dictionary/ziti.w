@@ -1,1 +1,1 @@
-{"index": 369560, "D": "a tubular pasta in short pieces, similar to rigatoni, often baked in a tomato sauce.", "S": ["gnocchi ", "linguine ", "macaroni ", "ravioli ", "spaghetti ", "tortellini "], "A": []}
+{"index": 369560, "D": "a tubular pasta in short pieces, similar to rigatoni, often baked in a tomato sauce.", "S": ["gnocchi", "linguine", "macaroni", "ravioli", "spaghetti", "tortellini"], "A": []}

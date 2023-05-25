@@ -1,1 +1,1 @@
-{"index": 11151, "D": "a meaningless or nonsensical piece of writing, especially one intended as a parody.", "S": ["balderdash ", "baloney ", "bosh ", "bull ", "bunk ", "cant ", "drivel ", "gibberish ", "hooey ", "rigmarole ", "rubbish "], "A": ["sense ", "truth "]}
+{"index": 11151, "D": "a meaningless or nonsensical piece of writing, especially one intended as a parody.", "S": ["balderdash", "baloney", "bosh", "bull", "bunk", "cant", "drivel", "gibberish", "hooey", "rigmarole", "rubbish"], "A": ["sense", "truth"]}

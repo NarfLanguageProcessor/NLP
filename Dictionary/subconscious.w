@@ -1,1 +1,1 @@
-{"index": 307560, "D": "Compare preconscious, unconscious. ", "S": ["unconscious "], "A": ["conscious ", "outer "]}
+{"index": 307560, "D": "Compare preconscious, unconscious. ", "S": ["unconscious"], "A": ["conscious", "outer"]}

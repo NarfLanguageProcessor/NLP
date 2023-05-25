@@ -1,1 +1,0 @@
-{"index": 173829, "D": "the act or process of litigating", "S": ["action ", "case ", "dispute ", "lawsuit ", "process ", "prosecution ", "suit ", "trial "], "A": []}

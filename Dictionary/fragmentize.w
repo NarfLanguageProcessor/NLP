@@ -1,1 +1,1 @@
-{"index": 118229, "D": "to break (something) into fragments;  break (something) apart.", "S": ["crumble ", "dissolve ", "disunite ", "divide ", "fragment ", "separate ", "shatter ", "splinter ", "split "], "A": ["combine ", "fix ", "join ", "marry ", "mend ", "put together ", "unite "]}
+{"index": 118229, "D": "to break (something) into fragments;  break (something) apart.", "S": ["crumble", "dissolve", "disunite", "divide", "fragment", "separate", "shatter", "splinter", "split"], "A": ["combine", "fix", "join", "marry", "mend", "put together", "unite"]}

@@ -1,1 +1,1 @@
-{"index": 8998, "D": "assigned as a portion to some person or group or for some purpose", "S": ["appropriated ", "assigned ", "dispersed ", "scattered ", "shared "], "A": []}
+{"index": 8998, "D": "assigned as a portion to some person or group or for some purpose", "S": ["appropriated", "assigned", "dispersed", "scattered", "shared"], "A": []}

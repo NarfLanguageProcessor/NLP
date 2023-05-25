@@ -1,1 +1,1 @@
-{"index": 144683, "D": "to gather or crowd together in a close mass.", "S": ["cramped ", "full ", "jam-packed ", "jammed ", "loaded ", "packed ", "populous ", "teeming "], "A": ["deserted ", "empty ", "imprecise ", "loose "]}
+{"index": 144683, "D": "to gather or crowd together in a close mass.", "S": ["cramped", "full", "jam-packed", "jammed", "loaded", "packed", "populous", "teeming"], "A": ["deserted", "empty", "imprecise", "loose"]}

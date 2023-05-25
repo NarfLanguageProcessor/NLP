@@ -1,1 +1,1 @@
-{"index": 92400, "D": "to sleep lightly or fitfully.", "S": ["catnap ", "drowse ", "nap ", "siesta ", "slumber ", "snooze "], "A": ["awakening ", "consciousness ", "wakefulness "]}
+{"index": 92400, "D": "to sleep lightly or fitfully.", "S": ["catnap", "drowse", "nap", "siesta", "slumber", "snooze"], "A": ["awakening", "consciousness", "wakefulness"]}

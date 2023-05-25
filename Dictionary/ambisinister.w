@@ -1,0 +1,1 @@
+{"index": 10013, "D": "clumsy or unskillful with both hands.", "S": [], "A": []}

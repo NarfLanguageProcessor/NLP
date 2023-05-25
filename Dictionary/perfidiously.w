@@ -1,1 +1,1 @@
-{"index": 230639, "D": "deliberately faithless; treacherous; deceitful", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}
+{"index": 230639, "D": "deliberately faithless; treacherous; deceitful", "S": ["maliciously"], "A": ["honestly", "truthfully"]}

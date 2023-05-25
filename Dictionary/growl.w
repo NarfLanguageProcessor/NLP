@@ -1,1 +1,1 @@
-{"index": 130421, "D": "to utter a deep guttural sound of anger or hostility", "S": ["grunt ", "howl ", "moan ", "rumble "], "A": []}
+{"index": 130421, "D": "to utter a deep guttural sound of anger or hostility", "S": ["grunt", "howl", "moan", "rumble"], "A": []}

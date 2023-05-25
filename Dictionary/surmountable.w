@@ -1,1 +1,1 @@
-{"index": 313504, "D": "(of a difficulty or challenge) able to be overcome; manageable", "S": ["achievable ", "attainable ", "beatable "], "A": []}
+{"index": 313504, "D": "(of a difficulty or challenge) able to be overcome; manageable", "S": ["achievable", "attainable", "beatable"], "A": []}

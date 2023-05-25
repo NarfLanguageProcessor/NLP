@@ -1,1 +1,1 @@
-{"index": 286465, "D": "a table napkin.", "S": ["cloth ", "towel "], "A": []}
+{"index": 286465, "D": "a table napkin.", "S": ["cloth", "towel"], "A": []}

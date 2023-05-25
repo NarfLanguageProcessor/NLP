@@ -1,1 +1,0 @@
-{"index": 313335, "D": "an additional charge, tax, or cost.", "S": ["augment ", "bloat ", "boost ", "enlarge ", "escalate ", "exaggerate ", "expand ", "magnify ", "maximize ", "overestimate ", "pad ", "widen "], "A": ["abridge ", "decrease ", "diminish ", "lessen ", "lower ", "play down ", "reduce ", "shrink ", "weaken ", "compress ", "contract ", "debase ", "depress "]}

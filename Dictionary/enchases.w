@@ -1,1 +1,1 @@
-{"index": 99277, "D": "to place (gems) in an ornamental setting.", "S": ["chisel ", "embed ", "etch ", "imprint ", "ingrain ", "inscribe "], "A": ["aid ", "dislodge ", "help ", "neglect "]}
+{"index": 99277, "D": "to place (gems) in an ornamental setting.", "S": ["chisel", "embed", "etch", "imprint", "ingrain", "inscribe"], "A": ["aid", "dislodge", "help", "neglect"]}

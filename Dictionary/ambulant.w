@@ -1,1 +1,1 @@
-{"index": 10137, "D": "moving from place to place; itinerant; shifting.", "S": ["itinerant ", "peripatetic ", "roving ", "vagabond ", "vagrant "], "A": ["settled "]}
+{"index": 10137, "D": "moving from place to place; itinerant; shifting.", "S": ["itinerant", "peripatetic", "roving", "vagabond", "vagrant"], "A": ["settled"]}

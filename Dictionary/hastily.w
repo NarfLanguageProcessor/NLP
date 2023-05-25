@@ -1,1 +1,1 @@
-{"index": 134153, "D": "with haste; rapidly;  speedily", "S": ["carelessly ", "hurriedly ", "nimbly ", "prematurely ", "promptly ", "quickly ", "speedily ", "suddenly ", "swiftly "], "A": ["slowly "]}
+{"index": 134153, "D": "with haste; rapidly;  speedily", "S": ["carelessly", "hurriedly", "nimbly", "prematurely", "promptly", "quickly", "speedily", "suddenly", "swiftly"], "A": ["slowly"]}

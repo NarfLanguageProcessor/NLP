@@ -1,1 +1,1 @@
-{"index": 64050, "D": "to mix or mingle  together; combine.", "S": ["amalgam ", "blend ", "blending ", "synthesis "], "A": ["division ", "separation "]}
+{"index": 64050, "D": "to mix or mingle  together; combine.", "S": ["amalgam", "blend", "blending", "synthesis"], "A": ["division", "separation"]}

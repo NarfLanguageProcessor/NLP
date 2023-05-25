@@ -1,1 +1,1 @@
-{"index": 310280, "D": "pertaining to, involving, or suggesting suicide. ", "S": ["dangerous ", "deadly ", "depressed ", "destructive ", "fatal ", "lethal "], "A": ["harmless ", "healthful ", "helpful ", "life-giving ", "wholesome "]}
+{"index": 310280, "D": "pertaining to, involving, or suggesting suicide. ", "S": ["dangerous", "deadly", "depressed", "destructive", "fatal", "lethal"], "A": ["harmless", "healthful", "helpful", "life-giving", "wholesome"]}

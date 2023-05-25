@@ -1,1 +1,1 @@
-{"index": 134872, "D": "in a hearty manner; cordially", "S": ["cordially "], "A": []}
+{"index": 134872, "D": "in a hearty manner; cordially", "S": ["cordially"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4046, "D": "something added to another thing but not essential to it.", "S": ["accessory", "addendum", "appendix", "appurtenance", "associate", "auxiliary", "complement", "detail", "partner", "subordinate", "supplement"], "A": ["enemy", "foe"]}

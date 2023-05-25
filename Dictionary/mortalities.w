@@ -1,1 +1,1 @@
-{"index": 193686, "D": "the state or condition of being subject to death; mortal  character, nature, or existence.", "S": ["fatality "], "A": ["immortality ", "permanence "]}
+{"index": 193686, "D": "the state or condition of being subject to death; mortal  character, nature, or existence.", "S": ["fatality"], "A": ["immortality", "permanence"]}

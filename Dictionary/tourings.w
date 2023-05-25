@@ -1,1 +1,1 @@
-{"index": 326636, "D": [], "S": ["driving ", "excursion ", "flying ", "movement ", "navigation ", "ride ", "sailing ", "sightseeing ", "tour ", "transit ", "trek ", "trip "], "A": []}
+{"index": 326636, "D": [], "S": ["driving", "excursion", "flying", "movement", "navigation", "ride", "sailing", "sightseeing", "tour", "transit", "trek", "trip"], "A": []}

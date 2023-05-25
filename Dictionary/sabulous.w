@@ -1,1 +1,1 @@
-{"index": 276126, "D": "sandy; gritty", "S": ["dusty ", "grainy ", "rough "], "A": ["afraid ", "cowardly ", "fine ", "smooth ", "spineless "]}
+{"index": 276126, "D": "sandy; gritty", "S": ["dusty", "grainy", "rough"], "A": ["afraid", "cowardly", "fine", "smooth", "spineless"]}

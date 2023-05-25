@@ -1,1 +1,1 @@
-{"index": 355661, "D": "to pass or discharge urine. ", "S": ["pee "], "A": []}
+{"index": 355661, "D": "to pass or discharge urine. ", "S": ["pee"], "A": []}

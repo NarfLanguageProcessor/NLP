@@ -1,1 +1,0 @@
-{"index": 249845, "D": "prior to the payment of taxes", "S": [], "A": []}

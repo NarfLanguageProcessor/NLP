@@ -1,0 +1,1 @@
+{"index": 12035, "D": "a liquid alkaloid, C10H12N2, obtained from tobacco.", "S": [], "A": []}

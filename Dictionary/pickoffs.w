@@ -1,1 +1,1 @@
-{"index": 235920, "D": [], "S": ["hit-and-run play ", "pickoff play ", "pitch-out "], "A": []}
+{"index": 235920, "D": [], "S": ["hit-and-run play", "pickoff play", "pitch-out"], "A": []}

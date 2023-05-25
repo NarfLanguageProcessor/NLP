@@ -1,0 +1,1 @@
+{"index": 10027, "D": "an earnest desire for some type of achievement or distinction, as power, honor, fame, or wealth, and the willingness to strive for its attainment", "S": [], "A": []}

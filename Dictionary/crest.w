@@ -1,1 +1,1 @@
-{"index": 72778, "D": "the highest part of a hill or mountain range; summit.", "S": ["height ", "peak ", "ridge "], "A": ["bottom ", "nadir ", "base ", "foot "]}
+{"index": 72778, "D": "the highest part of a hill or mountain range; summit.", "S": ["height", "peak", "ridge"], "A": ["bottom", "nadir", "base", "foot"]}

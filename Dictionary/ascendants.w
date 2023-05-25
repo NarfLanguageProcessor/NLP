@@ -1,1 +1,1 @@
-{"index": 20919, "D": "a position of dominance or controlling influence", "S": ["predominant "], "A": ["humble ", "inferior "]}
+{"index": 20919, "D": "a position of dominance or controlling influence", "S": ["predominant"], "A": ["humble", "inferior"]}

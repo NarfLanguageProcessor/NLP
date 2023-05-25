@@ -1,1 +1,1 @@
-{"index": 66713, "D": "one after another, or one part after another, without interruption; in succession", "S": ["successively "], "A": []}
+{"index": 66713, "D": "one after another, or one part after another, without interruption; in succession", "S": ["successively"], "A": []}

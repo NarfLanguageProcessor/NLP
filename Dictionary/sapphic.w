@@ -1,1 +1,1 @@
-{"index": 278183, "D": "of, relating to, or being a woman who is sexually or romantically attracted to other women, used especially as an umbrella term for all women who are attracted to women.", "S": ["homoerotic ", "homosexual "], "A": []}
+{"index": 278183, "D": "of, relating to, or being a woman who is sexually or romantically attracted to other women, used especially as an umbrella term for all women who are attracted to women.", "S": ["homoerotic", "homosexual"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 306903, "D": "a person or thing that stuns. ", "S": ["looker "], "A": ["actuality ", "eyesore ", "fact ", "reality "]}
+{"index": 306903, "D": "a person or thing that stuns. ", "S": ["looker"], "A": ["actuality", "eyesore", "fact", "reality"]}

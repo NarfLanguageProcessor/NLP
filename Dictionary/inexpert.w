@@ -1,1 +1,1 @@
-{"index": 151706, "D": "not expert; unskilled.", "S": ["awkward ", "bungling ", "crude ", "green ", "maladroit ", "unpracticed ", "unskilled ", "unskillful ", "untrained "], "A": ["expert "]}
+{"index": 151706, "D": "not expert; unskilled.", "S": ["awkward", "bungling", "crude", "green", "maladroit", "unpracticed", "unskilled", "unskillful", "untrained"], "A": ["expert"]}

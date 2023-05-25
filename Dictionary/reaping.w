@@ -1,1 +1,1 @@
-{"index": 261875, "D": "to cut (wheat, rye, etc.) with a sickle or other implement or a machine, as in harvest.", "S": ["fulfillment ", "realization "], "A": ["failure ", "forfeit ", "loss ", "miss ", "surrender "]}
+{"index": 261875, "D": "to cut (wheat, rye, etc.) with a sickle or other implement or a machine, as in harvest.", "S": ["fulfillment", "realization"], "A": ["failure", "forfeit", "loss", "miss", "surrender"]}

@@ -1,1 +1,1 @@
-{"index": 22352, "D": "keenly perceptive or discerning; sagacious", "S": ["intelligently ", "shrewdly ", "wittily "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}
+{"index": 22352, "D": "keenly perceptive or discerning; sagacious", "S": ["intelligently", "shrewdly", "wittily"], "A": ["awkwardly", "clumsily", "unskillfully"]}

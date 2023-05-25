@@ -1,1 +1,1 @@
-{"index": 282116, "D": "to examine in detail with careful or critical attention.", "S": ["barely ", "carefully "], "A": ["carelessly "]}
+{"index": 282116, "D": "to examine in detail with careful or critical attention.", "S": ["barely", "carefully"], "A": ["carelessly"]}

@@ -1,1 +1,1 @@
-{"index": 31187, "D": "all that a person can tolerate", "S": ["abundant ", "adequate ", "ample ", "full ", "sufficient ", "suitable "], "A": ["inadequate ", "insufficient ", "lacking ", "unsuitable "]}
+{"index": 31187, "D": "all that a person can tolerate", "S": ["abundant", "adequate", "ample", "full", "sufficient", "suitable"], "A": ["inadequate", "insufficient", "lacking", "unsuitable"]}

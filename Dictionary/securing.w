@@ -1,1 +1,1 @@
-{"index": 282947, "D": "free from or not exposed to danger or harm; safe.", "S": ["attaining ", "procuring ", "winning "], "A": []}
+{"index": 282947, "D": "free from or not exposed to danger or harm; safe.", "S": ["attaining", "procuring", "winning"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 250513, "D": "of or relating to the first age or ages, especially of the world", "S": ["prehistoric ", "primal ", "primitive ", "primordial ", "pristine "], "A": ["modern ", "new "]}
+{"index": 250513, "D": "of or relating to the first age or ages, especially of the world", "S": ["prehistoric", "primal", "primitive", "primordial", "pristine"], "A": ["modern", "new"]}

@@ -1,0 +1,1 @@
+{"index": 20021, "D": "See also small arms", "S": ["accoutrements", "armaments", "artillery", "equipment", "firearms", "guns", "munitions", "ordnance", "panoply", "weapons"], "A": []}

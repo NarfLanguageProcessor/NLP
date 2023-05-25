@@ -1,1 +1,1 @@
-{"index": 41753, "D": "mist; fog.", "S": ["mist ", "vapors "], "A": []}
+{"index": 41753, "D": "mist; fog.", "S": ["mist", "vapors"], "A": []}

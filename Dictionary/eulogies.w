@@ -1,1 +1,1 @@
-{"index": 105492, "D": "a speech or writing in praise of a person or thing, especially a set oration in honor of a deceased person.", "S": ["citation ", "paean ", "tribute "], "A": ["blame ", "censure ", "criticism ", "denunciation ", "disapproval "]}
+{"index": 105492, "D": "a speech or writing in praise of a person or thing, especially a set oration in honor of a deceased person.", "S": ["citation", "paean", "tribute"], "A": ["blame", "censure", "criticism", "denunciation", "disapproval"]}

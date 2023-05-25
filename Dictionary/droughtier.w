@@ -1,1 +1,1 @@
-{"index": 93423, "D": "dry. ", "S": ["arid ", "dehydrated ", "dry ", "parched "], "A": []}
+{"index": 93423, "D": "dry. ", "S": ["arid", "dehydrated", "dry", "parched"], "A": []}

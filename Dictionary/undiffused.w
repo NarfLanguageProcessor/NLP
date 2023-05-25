@@ -1,1 +1,0 @@
-{"index": 340349, "D": "to pour out and spread, as a fluid.", "S": ["fixed ", "full-bodied ", "potent ", "rich ", "robust "], "A": ["weak ", "incomplete ", "unfinished "]}

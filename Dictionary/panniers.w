@@ -1,1 +1,1 @@
-{"index": 224749, "D": "a basket, especially a large one, for carrying goods, provisions, etc.", "S": ["box ", "crate "], "A": []}
+{"index": 224749, "D": "a basket, especially a large one, for carrying goods, provisions, etc.", "S": ["box", "crate"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 265989, "D": "the state of a body perceived as having or generating a relatively high degree of warmth.", "S": ["bake ", "boil ", "broil ", "grill ", "ignite ", "melt ", "roast ", "sear ", "steam ", "thaw ", "toast ", "warm "], "A": ["freeze ", "put out "]}
+{"index": 265989, "D": "the state of a body perceived as having or generating a relatively high degree of warmth.", "S": ["bake", "boil", "broil", "grill", "ignite", "melt", "roast", "sear", "steam", "thaw", "toast", "warm"], "A": ["freeze", "put out"]}

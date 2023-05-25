@@ -1,1 +1,1 @@
-{"index": 288807, "D": "shofar. ", "S": ["clarion ", "cornet ", "horn ", "instrument "], "A": []}
+{"index": 288807, "D": "shofar. ", "S": ["clarion", "cornet", "horn", "instrument"], "A": []}

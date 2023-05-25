@@ -1,1 +1,1 @@
-{"index": 170561, "D": "a large, spotted Asian or African carnivore, Panthera pardus, of the cat family, usually tawny with black markings; the Old World panther", "S": ["cheetah ", "panther "], "A": []}
+{"index": 170561, "D": "a large, spotted Asian or African carnivore, Panthera pardus, of the cat family, usually tawny with black markings; the Old World panther", "S": ["cheetah", "panther"], "A": []}

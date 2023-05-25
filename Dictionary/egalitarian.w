@@ -1,1 +1,1 @@
-{"index": 96143, "D": "asserting, resulting from, or characterized by belief in the equality of all people, especially in political, economic, or social life.", "S": ["democratic ", "equitable "], "A": []}
+{"index": 96143, "D": "asserting, resulting from, or characterized by belief in the equality of all people, especially in political, economic, or social life.", "S": ["democratic", "equitable"], "A": []}

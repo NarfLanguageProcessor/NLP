@@ -1,1 +1,1 @@
-{"index": 28108, "D": "giving only the illusion of plenty; illusory", "S": ["false ", "hallucinatory ", "misleading ", "unreal ", "whimsical "], "A": ["genuine ", "honest ", "real ", "truthful "]}
+{"index": 28108, "D": "giving only the illusion of plenty; illusory", "S": ["false", "hallucinatory", "misleading", "unreal", "whimsical"], "A": ["genuine", "honest", "real", "truthful"]}

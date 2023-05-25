@@ -1,1 +1,1 @@
-{"index": 157293, "D": "invoke. ", "S": ["ask ", "beseech ", "recite ", "urge "], "A": ["answer ", "refuse "]}
+{"index": 157293, "D": "invoke. ", "S": ["ask", "beseech", "recite", "urge"], "A": ["answer", "refuse"]}

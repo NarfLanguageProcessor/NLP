@@ -1,1 +1,1 @@
-{"index": 367463, "D": "simple past tense of wear. ", "S": ["bear ", "carry ", "cover ", "display ", "don ", "get into ", "get on ", "put on ", "show ", "slip on ", "sport ", "wrap "], "A": ["abandon ", "conceal ", "hide ", "leave alone ", "refuse ", "uncover ", "unwrap "]}
+{"index": 367463, "D": "simple past tense of wear. ", "S": ["bear", "carry", "cover", "display", "don", "get into", "get on", "put on", "show", "slip on", "sport", "wrap"], "A": ["abandon", "conceal", "hide", "leave alone", "refuse", "uncover", "unwrap"]}

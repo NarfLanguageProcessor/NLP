@@ -1,1 +1,1 @@
-{"index": 297980, "D": "a cardinal point of the compass lying directly opposite north. Abbreviation", "S": ["larboard ", "port "], "A": ["right "]}
+{"index": 297980, "D": "a cardinal point of the compass lying directly opposite north. Abbreviation", "S": ["larboard", "port"], "A": ["right"]}

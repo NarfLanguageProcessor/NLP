@@ -1,1 +1,1 @@
-{"index": 144171, "D": "the act, process, or state of being hospitalized. ", "S": ["regimen ", "rehabilitation ", "therapy "], "A": []}
+{"index": 144171, "D": "the act, process, or state of being hospitalized. ", "S": ["regimen", "rehabilitation", "therapy"], "A": []}

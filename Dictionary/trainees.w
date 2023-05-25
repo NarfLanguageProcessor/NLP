@@ -1,1 +1,1 @@
-{"index": 327456, "D": "a person being trained,  especially in a vocation; apprentice.", "S": ["apprentice ", "cadet ", "learner ", "pupil "], "A": ["teacher ", "expert ", "professional "]}
+{"index": 327456, "D": "a person being trained,  especially in a vocation; apprentice.", "S": ["apprentice", "cadet", "learner", "pupil"], "A": ["teacher", "expert", "professional"]}

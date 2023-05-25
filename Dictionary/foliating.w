@@ -1,1 +1,1 @@
-{"index": 115889, "D": "covered with or having leaves.", "S": ["coat ", "exfoliate ", "face ", "flake ", "foil ", "foliate ", "layer ", "overlayer ", "plate ", "separate ", "split ", "stratify ", "veneer "], "A": ["combine ", "join ", "uncover "]}
+{"index": 115889, "D": "covered with or having leaves.", "S": ["coat", "exfoliate", "face", "flake", "foil", "foliate", "layer", "overlayer", "plate", "separate", "split", "stratify", "veneer"], "A": ["combine", "join", "uncover"]}

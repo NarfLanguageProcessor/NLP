@@ -1,1 +1,1 @@
-{"index": 59656, "D": "having or showing an alert mind.", "S": ["composed ", "perceptive ", "sensible ", "unconfused "], "A": []}
+{"index": 59656, "D": "having or showing an alert mind.", "S": ["composed", "perceptive", "sensible", "unconfused"], "A": []}

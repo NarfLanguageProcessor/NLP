@@ -1,1 +1,1 @@
-{"index": 81727, "D": "(of a verb) appearing only in the passive or Greek middle-voice forms, but with active meaning.", "S": ["affiant ", "attestant ", "attester ", "attestor ", "deposer ", "testifier "], "A": []}
+{"index": 81727, "D": "(of a verb) appearing only in the passive or Greek middle-voice forms, but with active meaning.", "S": ["affiant", "attestant", "attester", "attestor", "deposer", "testifier"], "A": []}

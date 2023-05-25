@@ -1,1 +1,1 @@
-{"index": 348660, "D": "proportioned;  being in due proportion; proportional. ", "S": ["disproportionate ", "inequitable ", "one-sided ", "unbalanced ", "uneven "], "A": ["balanced ", "even "]}
+{"index": 348660, "D": "proportioned;  being in due proportion; proportional. ", "S": ["disproportionate", "inequitable", "one-sided", "unbalanced", "uneven"], "A": ["balanced", "even"]}

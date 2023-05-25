@@ -1,1 +1,1 @@
-{"index": 343594, "D": "not conducive to good health; unwholesome", "S": ["ailment ", "disease ", "disorder ", "ill health ", "illness ", "infirmity ", "malady ", "nausea ", "syndrome "], "A": ["good health ", "health ", "happiness "]}
+{"index": 343594, "D": "not conducive to good health; unwholesome", "S": ["ailment", "disease", "disorder", "ill health", "illness", "infirmity", "malady", "nausea", "syndrome"], "A": ["good health", "health", "happiness"]}

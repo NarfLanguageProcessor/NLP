@@ -1,1 +1,1 @@
-{"index": 72932, "D": "a person who cries. ", "S": ["adviser ", "bearer ", "courier ", "forerunner ", "harbinger ", "indication ", "outrider ", "precursor ", "prophet ", "reporter ", "runner ", "sign ", "signal ", "token "], "A": []}
+{"index": 72932, "D": "a person who cries. ", "S": ["adviser", "bearer", "courier", "forerunner", "harbinger", "indication", "outrider", "precursor", "prophet", "reporter", "runner", "sign", "signal", "token"], "A": []}

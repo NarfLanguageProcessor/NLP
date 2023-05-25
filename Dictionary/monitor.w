@@ -1,1 +1,1 @@
-{"index": 192006, "D": "(especially formerly) a student appointed to assist in the conduct of a class or school, as to help take attendance or keep order.", "S": ["auditor "], "A": []}
+{"index": 192006, "D": "(especially formerly) a student appointed to assist in the conduct of a class or school, as to help take attendance or keep order.", "S": ["auditor"], "A": []}

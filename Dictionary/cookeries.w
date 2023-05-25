@@ -1,1 +1,1 @@
-{"index": 68232, "D": "the art or practice of cooking. ", "S": ["cooking ", "cuisine ", "culinary science ", "gastronomy "], "A": []}
+{"index": 68232, "D": "the art or practice of cooking. ", "S": ["cooking", "cuisine", "culinary science", "gastronomy"], "A": []}

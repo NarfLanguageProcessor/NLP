@@ -1,1 +1,1 @@
-{"index": 171496, "D": "given liberty; freed; released", "S": ["free "], "A": []}
+{"index": 171496, "D": "given liberty; freed; released", "S": ["free"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293229, "D": "to scrimp.", "S": ["scrimp "], "A": ["release ", "spend ", "squander ", "waste "]}
+{"index": 293229, "D": "to scrimp.", "S": ["scrimp"], "A": ["release", "spend", "squander", "waste"]}

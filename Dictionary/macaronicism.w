@@ -1,1 +1,1 @@
-{"index": 176657, "D": [], "S": ["Fescennine verse ", "Hudibrastic verse ", "cento ", "macaronics "], "A": []}
+{"index": 176657, "D": [], "S": ["Fescennine verse", "Hudibrastic verse", "cento", "macaronics"], "A": []}

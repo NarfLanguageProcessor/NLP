@@ -1,1 +1,1 @@
-{"index": 36975, "D": "to speak with exaggeration and excessive pride, especially about oneself.", "S": ["braggadocio ", "gasconade ", "rodomontade "], "A": []}
+{"index": 36975, "D": "to speak with exaggeration and excessive pride, especially about oneself.", "S": ["braggadocio", "gasconade", "rodomontade"], "A": []}

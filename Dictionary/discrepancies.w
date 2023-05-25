@@ -1,1 +1,1 @@
-{"index": 87708, "D": "the plural of discrepancy. ", "S": ["difference ", "disparity ", "distinction ", "divergence ", "error ", "inconsistency ", "miscalculation ", "variation "], "A": ["accord ", "agreement ", "alikeness ", "likeness ", "sameness ", "similarity "]}
+{"index": 87708, "D": "the plural of discrepancy. ", "S": ["difference", "disparity", "distinction", "divergence", "error", "inconsistency", "miscalculation", "variation"], "A": ["accord", "agreement", "alikeness", "likeness", "sameness", "similarity"]}

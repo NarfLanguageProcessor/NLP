@@ -1,1 +1,1 @@
-{"index": 62730, "D": "cole. ", "S": ["sauerkraut "], "A": []}
+{"index": 62730, "D": "cole. ", "S": ["sauerkraut"], "A": []}

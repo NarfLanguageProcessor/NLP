@@ -1,1 +1,1 @@
-{"index": 362631, "D": "a horse  used in war; charger. ", "S": ["old-timer "], "A": ["amateur ", "greenhorn ", "rookie "]}
+{"index": 362631, "D": "a horse  used in war; charger. ", "S": ["old-timer"], "A": ["amateur", "greenhorn", "rookie"]}

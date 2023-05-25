@@ -1,1 +1,1 @@
-{"index": 349203, "D": "to identify as something or someone previously seen, known, etc.", "S": ["blind ", "deaf ", "inattentive ", "unconcerned ", "unfamiliar ", "uninformed "], "A": ["attentive ", "aware "]}
+{"index": 349203, "D": "to identify as something or someone previously seen, known, etc.", "S": ["blind", "deaf", "inattentive", "unconcerned", "unfamiliar", "uninformed"], "A": ["attentive", "aware"]}

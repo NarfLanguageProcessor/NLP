@@ -1,1 +1,1 @@
-{"index": 305984, "D": "an act or instance of flowing.", "S": ["alive ", "effective ", "operating "], "A": ["fixed ", "inoperative ", "unmovable "]}
+{"index": 305984, "D": "an act or instance of flowing.", "S": ["alive", "effective", "operating"], "A": ["fixed", "inoperative", "unmovable"]}

@@ -1,1 +1,1 @@
-{"index": 315884, "D": "(of animals) changed from the wild or savage state, so as to be gentle and unafraid of humans; domesticated", "S": ["beaten ", "crippled ", "crushed "], "A": ["encouraged "]}
+{"index": 315884, "D": "(of animals) changed from the wild or savage state, so as to be gentle and unafraid of humans; domesticated", "S": ["beaten", "crippled", "crushed"], "A": ["encouraged"]}

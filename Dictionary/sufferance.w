@@ -1,1 +1,1 @@
-{"index": 310095, "D": "passive permission resulting from lack of interference; tolerance,  especially of something wrong or illegal (usually preceded by on or by).", "S": ["accommodation ", "adjustment ", "deduction ", "rebate ", "reduction "], "A": ["increase ", "refusal "]}
+{"index": 310095, "D": "passive permission resulting from lack of interference; tolerance,  especially of something wrong or illegal (usually preceded by on or by).", "S": ["accommodation", "adjustment", "deduction", "rebate", "reduction"], "A": ["increase", "refusal"]}

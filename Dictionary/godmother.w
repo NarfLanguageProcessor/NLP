@@ -1,1 +1,1 @@
-{"index": 127365, "D": "a woman who serves as sponsor for a child at baptism.", "S": ["elder ", "patroness "], "A": []}
+{"index": 127365, "D": "a woman who serves as sponsor for a child at baptism.", "S": ["elder", "patroness"], "A": []}

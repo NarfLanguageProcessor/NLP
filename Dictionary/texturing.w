@@ -1,1 +1,1 @@
-{"index": 320406, "D": "the visual and especially tactile quality of a surface", "S": ["compose ", "form ", "organize ", "represent "], "A": ["break ", "divide ", "exclude ", "separate "]}
+{"index": 320406, "D": "the visual and especially tactile quality of a surface", "S": ["compose", "form", "organize", "represent"], "A": ["break", "divide", "exclude", "separate"]}

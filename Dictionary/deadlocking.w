@@ -1,1 +1,1 @@
-{"index": 77486, "D": "a state in which progress is impossible, as in a dispute, produced by the counteraction of opposing forces; standstill; stalemate", "S": ["draw ", "match ", "meet "], "A": ["fall behind ", "go ahead ", "lose ", "surpass "]}
+{"index": 77486, "D": "a state in which progress is impossible, as in a dispute, produced by the counteraction of opposing forces; standstill; stalemate", "S": ["draw", "match", "meet"], "A": ["fall behind", "go ahead", "lose", "surpass"]}

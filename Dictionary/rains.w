@@ -1,1 +1,1 @@
-{"index": 260112, "D": "the season of heavy rainfall, esp in the tropics", "S": ["clamminess ", "condensation ", "damp ", "drizzle ", "humidity ", "liquid ", "rain ", "water ", "wetness "], "A": ["aridity ", "dryness "]}
+{"index": 260112, "D": "the season of heavy rainfall, esp in the tropics", "S": ["clamminess", "condensation", "damp", "drizzle", "humidity", "liquid", "rain", "water", "wetness"], "A": ["aridity", "dryness"]}

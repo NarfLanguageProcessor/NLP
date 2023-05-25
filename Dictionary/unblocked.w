@@ -1,1 +1,1 @@
-{"index": 335980, "D": "to remove a block  or obstruction from", "S": ["bare ", "empty ", "free ", "open ", "smooth ", "void "], "A": ["filled ", "full ", "occupied "]}
+{"index": 335980, "D": "to remove a block  or obstruction from", "S": ["bare", "empty", "free", "open", "smooth", "void"], "A": ["filled", "full", "occupied"]}

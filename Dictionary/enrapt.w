@@ -1,1 +1,1 @@
-{"index": 100873, "D": "rapt;  transported; enraptured", "S": ["aware ", "conscientious ", "interested ", "observant ", "vigilant ", "watchful "], "A": ["careless ", "inattentive ", "negligent ", "unaware "]}
+{"index": 100873, "D": "rapt;  transported; enraptured", "S": ["aware", "conscientious", "interested", "observant", "vigilant", "watchful"], "A": ["careless", "inattentive", "negligent", "unaware"]}

@@ -1,0 +1,1 @@
+{"index": 30023, "D": "to deck  out; adorn, especially in a showy or gaudy manner.", "S": ["adorn", "decorate", "embellish"], "A": ["mar"]}

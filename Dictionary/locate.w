@@ -1,1 +1,1 @@
-{"index": 174304, "D": "to identify or discover the place or location  of", "S": ["detect ", "discover ", "establish ", "pinpoint ", "spot ", "station ", "strike ", "uncover ", "unearth "], "A": ["lose ", "miss ", "overlook ", "pass by ", "displace "]}
+{"index": 174304, "D": "to identify or discover the place or location  of", "S": ["detect", "discover", "establish", "pinpoint", "spot", "station", "strike", "uncover", "unearth"], "A": ["lose", "miss", "overlook", "pass by", "displace"]}

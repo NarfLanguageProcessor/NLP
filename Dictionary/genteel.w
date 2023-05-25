@@ -1,1 +1,1 @@
-{"index": 123673, "D": "belonging or suited to polite society.", "S": ["aristocratic ", "elegant ", "noble ", "ostentatious ", "polite ", "refined ", "stylish "], "A": ["uncivilized ", "unfashionable ", "unrefined ", "unsophisticated "]}
+{"index": 123673, "D": "belonging or suited to polite society.", "S": ["aristocratic", "elegant", "noble", "ostentatious", "polite", "refined", "stylish"], "A": ["uncivilized", "unfashionable", "unrefined", "unsophisticated"]}

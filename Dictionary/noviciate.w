@@ -1,1 +1,1 @@
-{"index": 209179, "D": "the state or period of being a novice of a religious order or congregation.", "S": ["trial "], "A": []}
+{"index": 209179, "D": "the state or period of being a novice of a religious order or congregation.", "S": ["trial"], "A": []}

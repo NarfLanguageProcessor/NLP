@@ -1,1 +1,1 @@
-{"index": 354937, "D": "erect or vertical, as in position or posture.", "S": ["lap ", "limb ", "part ", "pole ", "stage "], "A": []}
+{"index": 354937, "D": "erect or vertical, as in position or posture.", "S": ["lap", "limb", "part", "pole", "stage"], "A": []}

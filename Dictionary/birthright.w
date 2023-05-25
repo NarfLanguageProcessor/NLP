@@ -1,1 +1,1 @@
-{"index": 34922, "D": "any right  or privilege to which a person is entitled by birth", "S": ["bequest ", "claim ", "due ", "inheritance ", "legacy ", "patrimony ", "primogeniture ", "right ", "share "], "A": []}
+{"index": 34922, "D": "any right  or privilege to which a person is entitled by birth", "S": ["bequest", "claim", "due", "inheritance", "legacy", "patrimony", "primogeniture", "right", "share"], "A": []}

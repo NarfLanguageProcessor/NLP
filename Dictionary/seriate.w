@@ -1,1 +1,1 @@
-{"index": 286058, "D": "arranged or occurring in one or more series.", "S": ["ensuing ", "successive "], "A": ["broken ", "discontinuous ", "infrequent ", "intermittent ", "interrupted "]}
+{"index": 286058, "D": "arranged or occurring in one or more series.", "S": ["ensuing", "successive"], "A": ["broken", "discontinuous", "infrequent", "intermittent", "interrupted"]}

@@ -1,1 +1,1 @@
-{"index": 169653, "D": "a simple past tense and past participle of leap. ", "S": ["ascend ", "bounce ", "bound ", "hop ", "rise ", "rocket ", "skip ", "soar ", "surge ", "vault "], "A": ["allow ", "decline ", "descend ", "lower ", "permit ", "decrease "]}
+{"index": 169653, "D": "a simple past tense and past participle of leap. ", "S": ["ascend", "bounce", "bound", "hop", "rise", "rocket", "skip", "soar", "surge", "vault"], "A": ["allow", "decline", "descend", "lower", "permit", "decrease"]}

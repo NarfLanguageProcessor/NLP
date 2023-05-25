@@ -1,1 +1,1 @@
-{"index": 161212, "D": "tending to jiggle  or marked by a jiggling  movement.", "S": ["bumpy ", "crushing ", "disconcerting ", "unsettling "], "A": ["firm ", "smooth ", "steady "]}
+{"index": 161212, "D": "tending to jiggle  or marked by a jiggling  movement.", "S": ["bumpy", "crushing", "disconcerting", "unsettling"], "A": ["firm", "smooth", "steady"]}

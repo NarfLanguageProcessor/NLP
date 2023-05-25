@@ -1,1 +1,1 @@
-{"index": 236856, "D": "having many pimples. ", "S": ["erratic ", "patchy ", "sporadic ", "uneven "], "A": ["consistent ", "continuous ", "dependable ", "regular "]}
+{"index": 236856, "D": "having many pimples. ", "S": ["erratic", "patchy", "sporadic", "uneven"], "A": ["consistent", "continuous", "dependable", "regular"]}

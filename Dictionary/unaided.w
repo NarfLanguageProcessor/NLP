@@ -1,1 +1,1 @@
-{"index": 334769, "D": "without having received any help", "S": ["only ", "unattended "], "A": ["together "]}
+{"index": 334769, "D": "without having received any help", "S": ["only", "unattended"], "A": ["together"]}

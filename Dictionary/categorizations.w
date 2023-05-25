@@ -1,1 +1,1 @@
-{"index": 49544, "D": "to arrange in categories  or classes; classify.", "S": ["arrangement ", "category ", "distribution ", "grouping ", "layout ", "lineup ", "order ", "organization ", "placement ", "sequence ", "sorting "], "A": ["disorganization "]}
+{"index": 49544, "D": "to arrange in categories  or classes; classify.", "S": ["arrangement", "category", "distribution", "grouping", "layout", "lineup", "order", "organization", "placement", "sequence", "sorting"], "A": ["disorganization"]}

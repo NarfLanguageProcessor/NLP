@@ -1,1 +1,1 @@
-{"index": 142087, "D": "a stick with a horse's  head, or a rocking horse,  ridden by children.", "S": ["cockhorse ", "hobby ", "hobby horse "], "A": []}
+{"index": 142087, "D": "a stick with a horse's  head, or a rocking horse,  ridden by children.", "S": ["cockhorse", "hobby", "hobby horse"], "A": []}

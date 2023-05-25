@@ -1,1 +1,1 @@
-{"index": 39310, "D": [], "S": ["advertisement ", "card ", "certificate ", "voucher "], "A": []}
+{"index": 39310, "D": [], "S": ["advertisement", "card", "certificate", "voucher"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 263456, "D": "to come together or assemble, usually for some public purpose.", "S": ["reconcile ", "rejoin "], "A": ["estrange ", "go separate ways ", "separate "]}
+{"index": 263456, "D": "to come together or assemble, usually for some public purpose.", "S": ["reconcile", "rejoin"], "A": ["estrange", "go separate ways", "separate"]}

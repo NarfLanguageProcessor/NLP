@@ -1,1 +1,1 @@
-{"index": 131844, "D": "one of a series of short parallel lines drawn on a map to indicate topographic relief.", "S": ["contour ", "isoheight ", "isohypse ", "isoline ", "layer tint ", "level curve ", "level line "], "A": []}
+{"index": 131844, "D": "one of a series of short parallel lines drawn on a map to indicate topographic relief.", "S": ["contour", "isoheight", "isohypse", "isoline", "layer tint", "level curve", "level line"], "A": []}

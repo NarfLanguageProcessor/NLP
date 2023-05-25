@@ -1,1 +1,0 @@
-{"index": 221335, "D": "in a way that is fixed, steady, or firm", "S": [], "A": []}

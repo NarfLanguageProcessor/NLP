@@ -1,1 +1,1 @@
-{"index": 67425, "D": "to put (a linguistic element, an action, etc.) in a context,  especially one that is characteristic or appropriate, as for purposes of study.", "S": ["inspect ", "investigate ", "parse ", "ponder ", "review ", "scrutinize "], "A": ["isolate "]}
+{"index": 67425, "D": "to put (a linguistic element, an action, etc.) in a context,  especially one that is characteristic or appropriate, as for purposes of study.", "S": ["inspect", "investigate", "parse", "ponder", "review", "scrutinize"], "A": ["isolate"]}

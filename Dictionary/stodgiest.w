@@ -1,1 +1,1 @@
-{"index": 304991, "D": "heavy, dull, or uninteresting; tediously commonplace; boring", "S": ["boring ", "monotonous ", "pedantic ", "plodding ", "ponderous ", "staid ", "tedious "], "A": ["exciting ", "fun ", "interesting "]}
+{"index": 304991, "D": "heavy, dull, or uninteresting; tediously commonplace; boring", "S": ["boring", "monotonous", "pedantic", "plodding", "ponderous", "staid", "tedious"], "A": ["exciting", "fun", "interesting"]}

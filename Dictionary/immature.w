@@ -1,1 +1,1 @@
-{"index": 147889, "D": "not mature, ripe, developed, perfected, etc.", "S": ["childish ", "premature "], "A": ["mature "]}
+{"index": 147889, "D": "not mature, ripe, developed, perfected, etc.", "S": ["childish", "premature"], "A": ["mature"]}

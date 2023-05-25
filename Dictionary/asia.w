@@ -1,1 +1,1 @@
-{"index": 21197, "D": "a continent bounded by Europe and the Arctic, Pacific,  and Indian  Oceans. About 16,000,000 square miles (41,440,000 square kilometers).", "S": ["the East "], "A": []}
+{"index": 21197, "D": "a continent bounded by Europe and the Arctic, Pacific,  and Indian  Oceans. About 16,000,000 square miles (41,440,000 square kilometers).", "S": ["the East"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 315251, "D": "a piece or strip of strong paper, plastic, metal, leather, etc., for attaching by one end to something as a mark or label", "S": ["titled "], "A": []}
+{"index": 315251, "D": "a piece or strip of strong paper, plastic, metal, leather, etc., for attaching by one end to something as a mark or label", "S": ["titled"], "A": []}

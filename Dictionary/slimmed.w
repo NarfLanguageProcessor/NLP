@@ -1,1 +1,1 @@
-{"index": 294099, "D": "slender, as in girth or form; slight in build or structure.", "S": ["diet ", "reduce ", "slenderize "], "A": ["gain "]}
+{"index": 294099, "D": "slender, as in girth or form; slight in build or structure.", "S": ["diet", "reduce", "slenderize"], "A": ["gain"]}

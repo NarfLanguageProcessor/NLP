@@ -1,1 +1,1 @@
-{"index": 71866, "D": "a crash; collision.", "S": ["amusement ", "chuckle ", "giggle ", "glee ", "guffaw ", "hilarity ", "laugh ", "mirth ", "roar ", "shout ", "shriek ", "snicker "], "A": ["crying ", "sadness ", "unhappiness "]}
+{"index": 71866, "D": "a crash; collision.", "S": ["amusement", "chuckle", "giggle", "glee", "guffaw", "hilarity", "laugh", "mirth", "roar", "shout", "shriek", "snicker"], "A": ["crying", "sadness", "unhappiness"]}

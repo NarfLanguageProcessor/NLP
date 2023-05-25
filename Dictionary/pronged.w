@@ -1,1 +1,1 @@
-{"index": 252410, "D": "having prongs  (often used in combination)", "S": ["angled ", "bifurcate ", "bifurcated ", "branched ", "branching ", "divaricate ", "divided ", "furcate ", "split ", "tined ", "zigzag "], "A": ["joined "]}
+{"index": 252410, "D": "having prongs  (often used in combination)", "S": ["angled", "bifurcate", "bifurcated", "branched", "branching", "divaricate", "divided", "furcate", "split", "tined", "zigzag"], "A": ["joined"]}

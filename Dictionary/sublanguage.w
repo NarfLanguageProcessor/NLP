@@ -1,1 +1,0 @@
-{"index": 308348, "D": "a subvariety of language  used in a particular field or by a particular social group and characterized especially by distinctive vocabulary.", "S": [], "A": []}

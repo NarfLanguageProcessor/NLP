@@ -1,1 +1,1 @@
-{"index": 356894, "D": "the portion of a shoe or boot upper that covers the instep and toes.", "S": ["enchantress ", "seductress ", "temptress "], "A": []}
+{"index": 356894, "D": "the portion of a shoe or boot upper that covers the instep and toes.", "S": ["enchantress", "seductress", "temptress"], "A": []}

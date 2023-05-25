@@ -1,1 +1,1 @@
-{"index": 61275, "D": "a bitter, crystalline alkaloid, C17H21NO4, obtained from coca  leaves, used as a local anesthetic and also widely used as an illicit drug for its stimulant and euphorigenic properties.", "S": ["coke ", "crack ", "dope ", "poison ", "stimulant "], "A": []}
+{"index": 61275, "D": "a bitter, crystalline alkaloid, C17H21NO4, obtained from coca  leaves, used as a local anesthetic and also widely used as an illicit drug for its stimulant and euphorigenic properties.", "S": ["coke", "crack", "dope", "poison", "stimulant"], "A": []}

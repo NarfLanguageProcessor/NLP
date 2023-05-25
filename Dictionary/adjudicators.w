@@ -1,0 +1,1 @@
+{"index": 4042, "D": "to pronounce or decree by judicial sentence.", "S": ["arbitrator", "go-between", "mediator", "moderator", "referee"], "A": []}

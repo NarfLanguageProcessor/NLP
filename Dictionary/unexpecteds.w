@@ -1,1 +1,1 @@
-{"index": 341761, "D": [], "S": ["amazement ", "astonishment ", "awe ", "bewilderment ", "consternation ", "curiosity ", "disappointment ", "jolt ", "miracle ", "revelation ", "shock ", "wonder "], "A": ["calmness ", "composure ", "coolness ", "expectation ", "happiness ", "indifference "]}
+{"index": 341761, "D": [], "S": ["amazement", "astonishment", "awe", "bewilderment", "consternation", "curiosity", "disappointment", "jolt", "miracle", "revelation", "shock", "wonder"], "A": ["calmness", "composure", "coolness", "expectation", "happiness", "indifference"]}

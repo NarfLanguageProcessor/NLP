@@ -1,1 +1,1 @@
-{"index": 87594, "D": "lack of concord or harmony between persons or things", "S": ["disharmony ", "dissonance ", "tumult "], "A": ["accord ", "agreement ", "concord ", "harmony "]}
+{"index": 87594, "D": "lack of concord or harmony between persons or things", "S": ["disharmony", "dissonance", "tumult"], "A": ["accord", "agreement", "concord", "harmony"]}

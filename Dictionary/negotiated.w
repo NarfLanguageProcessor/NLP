@@ -1,1 +1,1 @@
-{"index": 198077, "D": "to deal or bargain with another or others, as in the preparation of a treaty or contract or in preliminaries to a business deal.", "S": ["delayed ", "postponed "], "A": ["advanced ", "forwarded ", "furthered ", "hastened ", "hurried "]}
+{"index": 198077, "D": "to deal or bargain with another or others, as in the preparation of a treaty or contract or in preliminaries to a business deal.", "S": ["delayed", "postponed"], "A": ["advanced", "forwarded", "furthered", "hastened", "hurried"]}

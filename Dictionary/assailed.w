@@ -1,1 +1,1 @@
-{"index": 21581, "D": "to attack vigorously or violently; assault. ", "S": ["bombarded ", "bombed ", "invaded ", "stormed "], "A": []}
+{"index": 21581, "D": "to attack vigorously or violently; assault. ", "S": ["bombarded", "bombed", "invaded", "stormed"], "A": []}

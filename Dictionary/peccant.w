@@ -1,1 +1,1 @@
-{"index": 228561, "D": "sinning; guilty of a moral offense.", "S": ["corrupt ", "erring ", "guilty ", "sinful "], "A": []}
+{"index": 228561, "D": "sinning; guilty of a moral offense.", "S": ["corrupt", "erring", "guilty", "sinful"], "A": []}

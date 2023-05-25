@@ -1,1 +1,1 @@
-{"index": 300232, "D": "to eject saliva from the mouth; expectorate. ", "S": ["discharge ", "dribble ", "drool ", "slaver ", "spittle ", "sputum ", "water "], "A": []}
+{"index": 300232, "D": "to eject saliva from the mouth; expectorate. ", "S": ["discharge", "dribble", "drool", "slaver", "spittle", "sputum", "water"], "A": []}

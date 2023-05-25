@@ -1,1 +1,1 @@
-{"index": 258554, "D": "making no noise or sound, especially no disturbing sound", "S": ["muted ", "peaceful ", "reticent ", "silent ", "soft "], "A": ["clamorous ", "communicative ", "noisy ", "unreserved "]}
+{"index": 258554, "D": "making no noise or sound, especially no disturbing sound", "S": ["muted", "peaceful", "reticent", "silent", "soft"], "A": ["clamorous", "communicative", "noisy", "unreserved"]}

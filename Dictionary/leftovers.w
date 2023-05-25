@@ -1,1 +1,1 @@
-{"index": 169997, "D": "food remaining uneaten at the end of a meal, especially when saved for later use.", "S": ["doggie bag ", "tidbit bag "], "A": []}
+{"index": 169997, "D": "food remaining uneaten at the end of a meal, especially when saved for later use.", "S": ["doggie bag", "tidbit bag"], "A": []}

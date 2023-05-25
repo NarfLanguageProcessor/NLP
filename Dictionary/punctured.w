@@ -1,1 +1,1 @@
-{"index": 256617, "D": "the act of piercing or perforating, as with a pointed instrument or object.", "S": ["drained ", "exhausted ", "sagging "], "A": ["lively "]}
+{"index": 256617, "D": "the act of piercing or perforating, as with a pointed instrument or object.", "S": ["drained", "exhausted", "sagging"], "A": ["lively"]}

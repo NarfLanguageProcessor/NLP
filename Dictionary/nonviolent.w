@@ -1,1 +1,1 @@
-{"index": 208291, "D": "not violent;  free of violence.", "S": ["pacifist ", "passive "], "A": ["hateful ", "mean ", "violent ", "wicked ", "wild "]}
+{"index": 208291, "D": "not violent;  free of violence.", "S": ["pacifist", "passive"], "A": ["hateful", "mean", "violent", "wicked", "wild"]}

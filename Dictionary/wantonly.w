@@ -1,1 +1,1 @@
-{"index": 362483, "D": "willfully and thoughtlessly; recklessly", "S": ["blatantly ", "brazenly ", "candidly ", "flagrantly ", "forthrightly ", "fully ", "honestly ", "plainly ", "publicly ", "readily ", "simply ", "unabashedly ", "unashamedly ", "willingly "], "A": ["incompletely "]}
+{"index": 362483, "D": "willfully and thoughtlessly; recklessly", "S": ["blatantly", "brazenly", "candidly", "flagrantly", "forthrightly", "fully", "honestly", "plainly", "publicly", "readily", "simply", "unabashedly", "unashamedly", "willingly"], "A": ["incompletely"]}

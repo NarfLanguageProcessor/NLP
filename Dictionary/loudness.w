@@ -1,1 +1,1 @@
-{"index": 175432, "D": "exceptional volume or intensity of sound; the fact or quality of being strongly audible", "S": ["accent ", "harmony ", "melody ", "music ", "noise ", "note ", "tone ", "vibration ", "voice "], "A": ["cacophony ", "silence "]}
+{"index": 175432, "D": "exceptional volume or intensity of sound; the fact or quality of being strongly audible", "S": ["accent", "harmony", "melody", "music", "noise", "note", "tone", "vibration", "voice"], "A": ["cacophony", "silence"]}

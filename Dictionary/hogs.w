@@ -1,1 +1,1 @@
-{"index": 142287, "D": "a hoofed mammal of the Old World family Suidae, order Artiodactyla, comprising boars and swine.", "S": ["animals ", "beasts ", "cattle ", "cows ", "domestic ", "flock ", "fowl ", "herd ", "horses ", "livestock ", "pigs ", "sheep ", "swine "], "A": ["fact ", "truth "]}
+{"index": 142287, "D": "a hoofed mammal of the Old World family Suidae, order Artiodactyla, comprising boars and swine.", "S": ["animals", "beasts", "cattle", "cows", "domestic", "flock", "fowl", "herd", "horses", "livestock", "pigs", "sheep", "swine"], "A": ["fact", "truth"]}

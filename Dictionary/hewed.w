@@ -1,1 +1,1 @@
-{"index": 137862, "D": "to strike forcibly with an ax, sword, or other cutting instrument; chop; hack.", "S": ["clung ", "held "], "A": []}
+{"index": 137862, "D": "to strike forcibly with an ax, sword, or other cutting instrument; chop; hack.", "S": ["clung", "held"], "A": []}

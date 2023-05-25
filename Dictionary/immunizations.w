@@ -1,1 +1,1 @@
-{"index": 148131, "D": "the fact or process of becoming immune,  as against a disease.", "S": ["booster ", "booster dose ", "booster injection ", "recall dose ", "vaccine "], "A": []}
+{"index": 148131, "D": "the fact or process of becoming immune,  as against a disease.", "S": ["booster", "booster dose", "booster injection", "recall dose", "vaccine"], "A": []}

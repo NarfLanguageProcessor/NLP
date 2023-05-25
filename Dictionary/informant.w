@@ -1,1 +1,1 @@
-{"index": 152213, "D": "a person who informs  or gives information; informer. ", "S": ["canary ", "fink ", "nark ", "rat ", "sneak ", "snitch ", "source ", "stoolie ", "tattletale ", "tipster "], "A": []}
+{"index": 152213, "D": "a person who informs  or gives information; informer. ", "S": ["canary", "fink", "nark", "rat", "sneak", "snitch", "source", "stoolie", "tattletale", "tipster"], "A": []}

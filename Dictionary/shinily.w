@@ -1,1 +1,1 @@
-{"index": 288366, "D": "bright or glossy in appearance.", "S": ["brilliantly ", "splendidly "], "A": ["darkly ", "dully ", "miserably ", "sadly "]}
+{"index": 288366, "D": "bright or glossy in appearance.", "S": ["brilliantly", "splendidly"], "A": ["darkly", "dully", "miserably", "sadly"]}

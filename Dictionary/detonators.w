@@ -1,1 +1,1 @@
-{"index": 83250, "D": "a device, as a percussion cap, used to make another substance explode.", "S": ["ammunition ", "bomb ", "booby trap ", "dynamite ", "gunpowder ", "mine ", "missile ", "munition ", "powder "], "A": []}
+{"index": 83250, "D": "a device, as a percussion cap, used to make another substance explode.", "S": ["ammunition", "bomb", "booby trap", "dynamite", "gunpowder", "mine", "missile", "munition", "powder"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 116118, "D": "lack of wisdom or good judgment; foolish quality", "S": ["absurdity ", "bunk ", "craziness ", "folly ", "indiscretion ", "insanity ", "irrationality ", "irresponsibility ", "lunacy ", "rubbish ", "silliness ", "stupidity "], "A": ["judgment ", "sense ", "wisdom "]}
+{"index": 116118, "D": "lack of wisdom or good judgment; foolish quality", "S": ["absurdity", "bunk", "craziness", "folly", "indiscretion", "insanity", "irrationality", "irresponsibility", "lunacy", "rubbish", "silliness", "stupidity"], "A": ["judgment", "sense", "wisdom"]}

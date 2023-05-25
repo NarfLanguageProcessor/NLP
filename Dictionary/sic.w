@@ -1,1 +1,1 @@
-{"index": 289552, "D": "to attack (used especially in commanding a dog)", "S": ["accurately ", "direct ", "directly ", "literally ", "literatim ", "precisely ", "to the letter ", "word-for-word "], "A": ["different "]}
+{"index": 289552, "D": "to attack (used especially in commanding a dog)", "S": ["accurately", "direct", "directly", "literally", "literatim", "precisely", "to the letter", "word-for-word"], "A": ["different"]}

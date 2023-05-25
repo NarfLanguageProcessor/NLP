@@ -1,1 +1,1 @@
-{"index": 109272, "D": "idle; indolent. ", "S": ["idle ", "inactive ", "indolent ", "slothful ", "sluggard ", "sluggish "], "A": []}
+{"index": 109272, "D": "idle; indolent. ", "S": ["idle", "inactive", "indolent", "slothful", "sluggard", "sluggish"], "A": []}

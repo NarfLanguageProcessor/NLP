@@ -1,1 +1,1 @@
-{"index": 274886, "D": "the driving together of cattle, horses, etc., for inspection, branding, shipping to market, or the like, as in the western U.S.", "S": ["assembly ", "branding ", "gathering ", "muster ", "rally ", "summary ", "survey "], "A": ["dispersal ", "scattering "]}
+{"index": 274886, "D": "the driving together of cattle, horses, etc., for inspection, branding, shipping to market, or the like, as in the western U.S.", "S": ["assembly", "branding", "gathering", "muster", "rally", "summary", "survey"], "A": ["dispersal", "scattering"]}

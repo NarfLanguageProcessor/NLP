@@ -1,1 +1,1 @@
-{"index": 88928, "D": "a place where something is dispensed,  especially medicines.", "S": ["box ", "corner ", "counter ", "cubicle ", "hut ", "pew ", "stall "], "A": []}
+{"index": 88928, "D": "a place where something is dispensed,  especially medicines.", "S": ["box", "corner", "counter", "cubicle", "hut", "pew", "stall"], "A": []}

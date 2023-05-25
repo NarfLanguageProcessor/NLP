@@ -1,1 +1,1 @@
-{"index": 90608, "D": "a landing pier.", "S": ["berth ", "harbor ", "jetty ", "pier ", "wharf "], "A": []}
+{"index": 90608, "D": "a landing pier.", "S": ["berth", "harbor", "jetty", "pier", "wharf"], "A": []}

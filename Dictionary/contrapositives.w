@@ -1,1 +1,1 @@
-{"index": 67678, "D": "of or relating to contraposition. ", "S": ["antipode ", "antithesis ", "contrary ", "converse ", "counter ", "inverse ", "reverse "], "A": []}
+{"index": 67678, "D": "of or relating to contraposition. ", "S": ["antipode", "antithesis", "contrary", "converse", "counter", "inverse", "reverse"], "A": []}

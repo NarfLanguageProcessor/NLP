@@ -1,0 +1,1 @@
+{"index": 3803, "D": "the state or quality of being adequate;  sufficiency for a particular purpose.", "S": ["competence", "fairness", "sufficiency"], "A": ["inadequacy", "inadequateness", "insufficiency"]}

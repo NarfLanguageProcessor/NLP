@@ -1,1 +1,1 @@
-{"index": 168506, "D": "of more than average size, quantity, degree, etc.; exceeding that which is common to a kind or class; big; great", "S": ["bigger ", "largest "], "A": []}
+{"index": 168506, "D": "of more than average size, quantity, degree, etc.; exceeding that which is common to a kind or class; big; great", "S": ["bigger", "largest"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 64355, "D": "a friend, companion, or close associate.", "S": ["Bobbsey twins ", "close friends ", "comrades ", "couple ", "friends ", "matching set ", "pair ", "peas in a pod ", "two minds thinking as one ", "two of a kind "], "A": []}
+{"index": 64355, "D": "a friend, companion, or close associate.", "S": ["Bobbsey twins", "close friends", "comrades", "couple", "friends", "matching set", "pair", "peas in a pod", "two minds thinking as one", "two of a kind"], "A": []}

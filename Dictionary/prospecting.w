@@ -1,1 +1,1 @@
-{"index": 253194, "D": "the activity of searching for valuable natural resources, as gold or oil", "S": ["drilling "], "A": []}
+{"index": 253194, "D": "the activity of searching for valuable natural resources, as gold or oil", "S": ["drilling"], "A": []}

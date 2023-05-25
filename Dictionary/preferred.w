@@ -1,1 +1,1 @@
-{"index": 247547, "D": "to set or hold before or above other persons or things in estimation; like better; choose rather than", "S": ["approved ", "favored "], "A": ["ill-favored ", "rejected ", "undesirable "]}
+{"index": 247547, "D": "to set or hold before or above other persons or things in estimation; like better; choose rather than", "S": ["approved", "favored"], "A": ["ill-favored", "rejected", "undesirable"]}

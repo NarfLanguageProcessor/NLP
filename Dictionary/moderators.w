@@ -1,1 +1,1 @@
-{"index": 191082, "D": "a person or thing that moderates. ", "S": ["mediator ", "referee "], "A": []}
+{"index": 191082, "D": "a person or thing that moderates. ", "S": ["mediator", "referee"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4329, "D": "very attractive or delightful; charming", "S": ["allure", "artistry", "charm", "delicacy", "elegance", "good looks", "grace", "refinement", "style"], "A": ["crudeness", "inelegance", "roughness"]}

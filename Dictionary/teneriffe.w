@@ -1,1 +1,0 @@
-{"index": 318849, "D": "the largest of the Canary Islands, off the northwestern coast of Africa. 794 sq. mi. (2,055 sq. km). Capital", "S": [], "A": []}

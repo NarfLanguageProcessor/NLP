@@ -1,1 +1,0 @@
-{"index": 180827, "D": "an ancient Egyptian tomb made of mud brick, rectangular in plan with sloping sides and a flat roof.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 336128, "D": "to remove from a box.", "S": ["take out ", "unload "], "A": ["fill ", "load ", "pack "]}
+{"index": 336128, "D": "to remove from a box.", "S": ["take out", "unload"], "A": ["fill", "load", "pack"]}

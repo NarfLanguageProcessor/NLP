@@ -1,1 +1,1 @@
-{"index": 335377, "D": "capable of being attained. ", "S": ["futility "], "A": ["feasibility ", "possibility ", "practicality ", "probability "]}
+{"index": 335377, "D": "capable of being attained. ", "S": ["futility"], "A": ["feasibility", "possibility", "practicality", "probability"]}

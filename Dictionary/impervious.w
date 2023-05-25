@@ -1,1 +1,1 @@
-{"index": 148655, "D": "not permitting penetration or passage; impenetrable", "S": ["immune ", "impassable ", "impenetrable ", "inaccessible ", "invulnerable ", "resistant ", "unaffected ", "unmoved "], "A": ["affected ", "moved ", "susceptible "]}
+{"index": 148655, "D": "not permitting penetration or passage; impenetrable", "S": ["immune", "impassable", "impenetrable", "inaccessible", "invulnerable", "resistant", "unaffected", "unmoved"], "A": ["affected", "moved", "susceptible"]}

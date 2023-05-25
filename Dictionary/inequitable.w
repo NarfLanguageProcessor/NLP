@@ -1,1 +1,1 @@
-{"index": 151562, "D": "not equitable;  unjust or unfair", "S": ["arbitrary ", "biased ", "discriminatory ", "one-sided ", "prejudiced ", "unbalanced ", "unequal ", "unethical ", "unjust "], "A": ["balanced ", "even ", "fair ", "impartial ", "just ", "unbiased ", "unprejudiced "]}
+{"index": 151562, "D": "not equitable;  unjust or unfair", "S": ["arbitrary", "biased", "discriminatory", "one-sided", "prejudiced", "unbalanced", "unequal", "unethical", "unjust"], "A": ["balanced", "even", "fair", "impartial", "just", "unbiased", "unprejudiced"]}

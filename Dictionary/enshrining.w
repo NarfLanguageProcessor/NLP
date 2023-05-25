@@ -1,1 +1,1 @@
-{"index": 101017, "D": "to enclose in or as in a shrine", "S": ["cherish ", "consecrate ", "preserve ", "revere "], "A": ["condemn ", "desecrate "]}
+{"index": 101017, "D": "to enclose in or as in a shrine", "S": ["cherish", "consecrate", "preserve", "revere"], "A": ["condemn", "desecrate"]}

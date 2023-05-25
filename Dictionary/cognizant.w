@@ -1,1 +1,1 @@
-{"index": 62284, "D": "having cognizance;  aware (usually followed by of)", "S": ["apprehensive ", "conscious ", "informed ", "judicious ", "knowledgeable ", "observant "], "A": ["ignorant ", "indifferent ", "senseless ", "thoughtless ", "unaware ", "uninformed ", "unmindful "]}
+{"index": 62284, "D": "having cognizance;  aware (usually followed by of)", "S": ["apprehensive", "conscious", "informed", "judicious", "knowledgeable", "observant"], "A": ["ignorant", "indifferent", "senseless", "thoughtless", "unaware", "uninformed", "unmindful"]}

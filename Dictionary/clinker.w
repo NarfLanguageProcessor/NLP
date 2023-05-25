@@ -1,1 +1,1 @@
-{"index": 60057, "D": "any mistake or error.", "S": ["discordant ", "dissonant "], "A": ["concordant ", "harmonious "]}
+{"index": 60057, "D": "any mistake or error.", "S": ["discordant", "dissonant"], "A": ["concordant", "harmonious"]}

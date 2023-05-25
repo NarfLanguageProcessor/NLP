@@ -1,1 +1,1 @@
-{"index": 296676, "D": "being the only one; only", "S": ["basement ", "bed ", "floor ", "ground ", "seat ", "underside "], "A": ["ceiling ", "top "]}
+{"index": 296676, "D": "being the only one; only", "S": ["basement", "bed", "floor", "ground", "seat", "underside"], "A": ["ceiling", "top"]}

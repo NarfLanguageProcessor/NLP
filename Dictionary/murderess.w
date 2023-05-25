@@ -1,1 +1,1 @@
-{"index": 195674, "D": "a woman who commits murder.", "S": ["assassin ", "butcher ", "cut-throat ", "enforcer ", "executioner ", "killer ", "manslayer ", "slaughterer ", "slayer ", "triggerman "], "A": []}
+{"index": 195674, "D": "a woman who commits murder.", "S": ["assassin", "butcher", "cut-throat", "enforcer", "executioner", "killer", "manslayer", "slaughterer", "slayer", "triggerman"], "A": []}

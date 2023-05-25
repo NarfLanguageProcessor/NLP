@@ -1,1 +1,1 @@
-{"index": 123753, "D": "in a kind and amiable manner", "S": ["lightly ", "mildly ", "smoothly "], "A": []}
+{"index": 123753, "D": "in a kind and amiable manner", "S": ["lightly", "mildly", "smoothly"], "A": []}

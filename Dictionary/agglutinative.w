@@ -1,0 +1,1 @@
+{"index": 6071, "D": "tending or having power to agglutinate  or unite", "S": ["syrupy", "tacky", "viscous"], "A": ["dry", "smooth"]}

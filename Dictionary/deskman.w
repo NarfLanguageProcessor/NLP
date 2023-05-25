@@ -1,1 +1,1 @@
-{"index": 82671, "D": "a member of a newspaper staff who processes news and prepares copy, usually from information telephoned in by reporters.", "S": ["copyholder ", "copyreader ", "newspaperman ", "newspaperwoman ", "proofreader ", "reviser ", "rewriter "], "A": []}
+{"index": 82671, "D": "a member of a newspaper staff who processes news and prepares copy, usually from information telephoned in by reporters.", "S": ["copyholder", "copyreader", "newspaperman", "newspaperwoman", "proofreader", "reviser", "rewriter"], "A": []}

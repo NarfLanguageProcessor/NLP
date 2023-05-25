@@ -1,1 +1,1 @@
-{"index": 89251, "D": "to engage in argument or debate", "S": ["contender "], "A": []}
+{"index": 89251, "D": "to engage in argument or debate", "S": ["contender"], "A": []}

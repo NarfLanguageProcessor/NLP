@@ -1,1 +1,1 @@
-{"index": 218391, "D": "overcome; crushed; oppressed. ", "S": ["badger ", "bully ", "coerce ", "harass ", "hector ", "intimidate ", "lean on ", "oppress "], "A": ["aid ", "assist ", "help ", "leave alone "]}
+{"index": 218391, "D": "overcome; crushed; oppressed. ", "S": ["badger", "bully", "coerce", "harass", "hector", "intimidate", "lean on", "oppress"], "A": ["aid", "assist", "help", "leave alone"]}

@@ -1,1 +1,1 @@
-{"index": 64257, "D": "the antiphon sung at a Eucharistic service.", "S": ["intimacy ", "rapport ", "togetherness "], "A": ["unfriendliness ", "antagonism ", "disagreement ", "discord ", "opposition "]}
+{"index": 64257, "D": "the antiphon sung at a Eucharistic service.", "S": ["intimacy", "rapport", "togetherness"], "A": ["unfriendliness", "antagonism", "disagreement", "discord", "opposition"]}

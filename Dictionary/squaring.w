@@ -1,1 +1,1 @@
-{"index": 301750, "D": "a rectangle having all four sides of equal length.", "S": ["equal ", "even ", "fair ", "nonpartisan ", "objective ", "sporting ", "straight ", "upright "], "A": ["biased ", "dishonest ", "partial ", "prejudiced ", "unequal ", "unfair ", "unjust "]}
+{"index": 301750, "D": "a rectangle having all four sides of equal length.", "S": ["equal", "even", "fair", "nonpartisan", "objective", "sporting", "straight", "upright"], "A": ["biased", "dishonest", "partial", "prejudiced", "unequal", "unfair", "unjust"]}

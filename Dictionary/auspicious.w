@@ -1,1 +1,1 @@
-{"index": 23685, "D": "promising success; propitious; opportune; favorable", "S": ["advantageous ", "felicitous ", "opportune ", "promising ", "propitious "], "A": ["inauspicious ", "inopportune ", "unpromising ", "unsuitable "]}
+{"index": 23685, "D": "promising success; propitious; opportune; favorable", "S": ["advantageous", "felicitous", "opportune", "promising", "propitious"], "A": ["inauspicious", "inopportune", "unpromising", "unsuitable"]}

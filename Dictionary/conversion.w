@@ -1,1 +1,1 @@
-{"index": 68040, "D": "the act or process of converting; state of being converted.", "S": ["alteration ", "changeover ", "growth ", "modification ", "reconstruction ", "reorganization ", "switch ", "transformation "], "A": ["stagnation "]}
+{"index": 68040, "D": "the act or process of converting; state of being converted.", "S": ["alteration", "changeover", "growth", "modification", "reconstruction", "reorganization", "switch", "transformation"], "A": ["stagnation"]}

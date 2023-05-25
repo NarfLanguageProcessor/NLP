@@ -1,1 +1,1 @@
-{"index": 300665, "D": "a past participle of speak. ", "S": ["announced ", "articulate ", "communicated ", "expressed ", "mentioned ", "said ", "told ", "uttered ", "voiced "], "A": ["suppressed "]}
+{"index": 300665, "D": "a past participle of speak. ", "S": ["announced", "articulate", "communicated", "expressed", "mentioned", "said", "told", "uttered", "voiced"], "A": ["suppressed"]}

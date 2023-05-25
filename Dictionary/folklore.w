@@ -1,1 +1,1 @@
-{"index": 115927, "D": "the traditional beliefs, legends, customs, etc., of a people; lore  of a people.", "S": ["custom ", "fable ", "legend ", "myth ", "mythology ", "superstition ", "tradition ", "wisdom "], "A": ["fact ", "reality ", "truth "]}
+{"index": 115927, "D": "the traditional beliefs, legends, customs, etc., of a people; lore  of a people.", "S": ["custom", "fable", "legend", "myth", "mythology", "superstition", "tradition", "wisdom"], "A": ["fact", "reality", "truth"]}

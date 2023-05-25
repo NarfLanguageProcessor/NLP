@@ -1,1 +1,1 @@
-{"index": 252568, "D": "to drive, or cause to move, forward or onward", "S": ["darting ", "dashing ", "expediting ", "flying ", "hastening ", "racing ", "running ", "rushing ", "scurrying ", "speeding "], "A": ["crawling ", "creeping "]}
+{"index": 252568, "D": "to drive, or cause to move, forward or onward", "S": ["darting", "dashing", "expediting", "flying", "hastening", "racing", "running", "rushing", "scurrying", "speeding"], "A": ["crawling", "creeping"]}

@@ -1,1 +1,0 @@
-{"index": 240829, "D": "inflammation of the lung caused by a virus or exposure to irritating substances.", "S": [], "A": []}

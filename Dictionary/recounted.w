@@ -1,1 +1,1 @@
-{"index": 263527, "D": "to relate or narrate; tell in detail; give the facts or particulars of.", "S": ["historical "], "A": ["rambling "]}
+{"index": 263527, "D": "to relate or narrate; tell in detail; give the facts or particulars of.", "S": ["historical"], "A": ["rambling"]}

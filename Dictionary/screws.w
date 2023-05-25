@@ -1,1 +1,1 @@
-{"index": 281764, "D": "a metal fastener having a tapered shank with a helical thread, and topped with a slotted head, driven into wood or the like by rotating, especially by means of a screwdriver.", "S": ["tighten "], "A": ["straighten "]}
+{"index": 281764, "D": "a metal fastener having a tapered shank with a helical thread, and topped with a slotted head, driven into wood or the like by rotating, especially by means of a screwdriver.", "S": ["tighten"], "A": ["straighten"]}

@@ -1,1 +1,1 @@
-{"index": 40051, "D": "a child, especially an annoying, spoiled, or impolite child (usually used in contempt or irritation).", "S": ["punk ", "rascal "], "A": ["angel "]}
+{"index": 40051, "D": "a child, especially an annoying, spoiled, or impolite child (usually used in contempt or irritation).", "S": ["punk", "rascal"], "A": ["angel"]}

@@ -1,1 +1,1 @@
-{"index": 125534, "D": "of, like, or befitting a girl  or girlhood", "S": ["fresh ", "hoydenish ", "mincing ", "na\u00efve ", "teenage ", "unsophisticated ", "young "], "A": ["matronly ", "mature ", "sophisticated "]}
+{"index": 125534, "D": "of, like, or befitting a girl  or girlhood", "S": ["fresh", "hoydenish", "mincing", "na\u00efve", "teenage", "unsophisticated", "young"], "A": ["matronly", "mature", "sophisticated"]}

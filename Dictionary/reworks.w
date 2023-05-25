@@ -1,1 +1,1 @@
-{"index": 271662, "D": "to work  or form again", "S": ["adapt ", "alter ", "edit ", "modify ", "redraw ", "reshape ", "revamp ", "revise ", "rewrite "], "A": []}
+{"index": 271662, "D": "to work  or form again", "S": ["adapt", "alter", "edit", "modify", "redraw", "reshape", "revamp", "revise", "rewrite"], "A": []}

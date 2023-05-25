@@ -1,1 +1,1 @@
-{"index": 74276, "D": "to press or squeeze with a force that destroys or deforms.", "S": ["demanding ", "difficult ", "onerous ", "oppressive ", "taxing "], "A": ["calm ", "easy ", "trivial "]}
+{"index": 74276, "D": "to press or squeeze with a force that destroys or deforms.", "S": ["demanding", "difficult", "onerous", "oppressive", "taxing"], "A": ["calm", "easy", "trivial"]}

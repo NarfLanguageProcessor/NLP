@@ -1,1 +1,1 @@
-{"index": 936, "D": "not in a certain place at a given time; away, missing (opposed to present)", "S": ["away ", "missing ", "removed ", "vanished "], "A": ["attending ", "existing ", "present ", "sufficient "]}
+{"index": 936, "D": "not in a certain place at a given time; away, missing (opposed to present)", "S": ["away", "missing", "removed", "vanished"], "A": ["attending", "existing", "present", "sufficient"]}

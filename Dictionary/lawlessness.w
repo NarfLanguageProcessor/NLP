@@ -1,1 +1,1 @@
-{"index": 169369, "D": "the quality or condition of being without regard for the law; behavior that is contrary to or shows indifference to the law", "S": ["chaos ", "confusion ", "disorder ", "terrorism "], "A": ["calm ", "method ", "order ", "organization ", "system "]}
+{"index": 169369, "D": "the quality or condition of being without regard for the law; behavior that is contrary to or shows indifference to the law", "S": ["chaos", "confusion", "disorder", "terrorism"], "A": ["calm", "method", "order", "organization", "system"]}

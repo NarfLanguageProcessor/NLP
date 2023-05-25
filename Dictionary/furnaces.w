@@ -1,1 +1,1 @@
-{"index": 120454, "D": "a structure or apparatus in which heat may be generated, as for heating houses, smelting ores, or producing steam.", "S": ["boiler ", "heater ", "heating system ", "incinerator ", "kiln ", "stove "], "A": ["freezer "]}
+{"index": 120454, "D": "a structure or apparatus in which heat may be generated, as for heating houses, smelting ores, or producing steam.", "S": ["boiler", "heater", "heating system", "incinerator", "kiln", "stove"], "A": ["freezer"]}

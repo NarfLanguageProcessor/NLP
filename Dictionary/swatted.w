@@ -1,1 +1,1 @@
-{"index": 314192, "D": "to hit; slap; smack. ", "S": ["clobber ", "knock ", "slap ", "slug ", "smack ", "smash ", "whack "], "A": ["lose ", "surrender ", "tap "]}
+{"index": 314192, "D": "to hit; slap; smack. ", "S": ["clobber", "knock", "slap", "slug", "smack", "smash", "whack"], "A": ["lose", "surrender", "tap"]}

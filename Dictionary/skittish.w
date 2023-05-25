@@ -1,1 +1,1 @@
-{"index": 293401, "D": "apt to start or shy", "S": ["edgy ", "excited ", "fearful ", "fickle ", "giddy ", "jumpy ", "restive "], "A": ["calm ", "collected ", "composed ", "easygoing ", "laid-back "]}
+{"index": 293401, "D": "apt to start or shy", "S": ["edgy", "excited", "fearful", "fickle", "giddy", "jumpy", "restive"], "A": ["calm", "collected", "composed", "easygoing", "laid-back"]}

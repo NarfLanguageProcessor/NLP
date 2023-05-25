@@ -1,1 +1,0 @@
-{"index": 296326, "D": "a system for determining a position at sea by exploding a charge under water and measuring the time the shock waves take to reach three widely separated shore stations at known distances from each other.", "S": ["up to now "], "A": []}

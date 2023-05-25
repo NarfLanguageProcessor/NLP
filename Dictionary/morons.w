@@ -1,1 +1,1 @@
-{"index": 193537, "D": "a person who is notably stupid or lacking in good judgment", "S": ["boob ", "idiot ", "nerd "], "A": ["brain ", "genius "]}
+{"index": 193537, "D": "a person who is notably stupid or lacking in good judgment", "S": ["boob", "idiot", "nerd"], "A": ["brain", "genius"]}

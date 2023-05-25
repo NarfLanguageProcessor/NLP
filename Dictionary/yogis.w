@@ -1,1 +1,1 @@
-{"index": 157551, "D": "a person who practices yoga.", "S": ["fakir ", "mystic "], "A": []}
+{"index": 157551, "D": "a person who practices yoga.", "S": ["fakir", "mystic"], "A": []}

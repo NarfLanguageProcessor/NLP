@@ -1,1 +1,1 @@
-{"index": 78768, "D": "diminishing; decreasing.", "S": ["abating ", "ebbing ", "lessening "], "A": ["waxing "]}
+{"index": 78768, "D": "diminishing; decreasing.", "S": ["abating", "ebbing", "lessening"], "A": ["waxing"]}

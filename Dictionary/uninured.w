@@ -1,1 +1,0 @@
-{"index": 344837, "D": "hardened by frequent exposure, especially to something bad; accustomed", "S": [], "A": []}

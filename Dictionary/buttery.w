@@ -1,1 +1,1 @@
-{"index": 43691, "D": "like, containing, or spread with butter. ", "S": ["butyraceous ", "rancid "], "A": []}
+{"index": 43691, "D": "like, containing, or spread with butter. ", "S": ["butyraceous", "rancid"], "A": []}

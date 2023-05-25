@@ -1,1 +1,1 @@
-{"index": 176634, "D": "to pave by laying and compacting successive layers of broken stone, often with asphalt or hot tar.", "S": ["brick ", "cobblestone ", "flagstone ", "gravel ", "surface ", "tar ", "tile "], "A": ["dig up ", "strip "]}
+{"index": 176634, "D": "to pave by laying and compacting successive layers of broken stone, often with asphalt or hot tar.", "S": ["brick", "cobblestone", "flagstone", "gravel", "surface", "tar", "tile"], "A": ["dig up", "strip"]}

@@ -1,1 +1,1 @@
-{"index": 100865, "D": "to make extremely angry; put into a rage; infuriate", "S": ["agitation ", "anger ", "exasperation ", "fume ", "furiousness ", "lividness ", "upset "], "A": ["calmness ", "happiness ", "peace "]}
+{"index": 100865, "D": "to make extremely angry; put into a rage; infuriate", "S": ["agitation", "anger", "exasperation", "fume", "furiousness", "lividness", "upset"], "A": ["calmness", "happiness", "peace"]}

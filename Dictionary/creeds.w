@@ -1,1 +1,1 @@
-{"index": 72533, "D": "any system, doctrine, or formula of religious belief, as of a denomination.", "S": ["doctrine ", "dogma ", "faith ", "ideology ", "persuasion ", "profession ", "religion ", "tenet "], "A": ["agnosticism ", "atheism ", "disbelief ", "doubt ", "skepticism ", "unbelief "]}
+{"index": 72533, "D": "any system, doctrine, or formula of religious belief, as of a denomination.", "S": ["doctrine", "dogma", "faith", "ideology", "persuasion", "profession", "religion", "tenet"], "A": ["agnosticism", "atheism", "disbelief", "doubt", "skepticism", "unbelief"]}

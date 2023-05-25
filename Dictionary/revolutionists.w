@@ -1,1 +1,1 @@
-{"index": 271512, "D": "a person who advocates or takes part in a revolution. ", "S": ["agitator ", "fanatic ", "radical ", "revolutionary ", "zealot "], "A": ["moderate "]}
+{"index": 271512, "D": "a person who advocates or takes part in a revolution. ", "S": ["agitator", "fanatic", "radical", "revolutionary", "zealot"], "A": ["moderate"]}

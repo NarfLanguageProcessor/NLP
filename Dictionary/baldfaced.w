@@ -1,1 +1,1 @@
-{"index": 26785, "D": "barefaced (def. 2). ", "S": ["barefaced ", "blatant ", "bold ", "brash ", "brazen ", "brazenfaced ", "impudent ", "open ", "transparent ", "unabashed ", "unconcealed ", "undisguised "], "A": []}
+{"index": 26785, "D": "barefaced (def. 2). ", "S": ["barefaced", "blatant", "bold", "brash", "brazen", "brazenfaced", "impudent", "open", "transparent", "unabashed", "unconcealed", "undisguised"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 134937, "D": "(in historical contexts) a member of a people that do not acknowledge the God of the Bible; a pagan. ", "S": ["agnostic ", "barbarian ", "infidel ", "nonbeliever ", "pagan ", "skeptic "], "A": ["godly ", "religious "]}
+{"index": 134937, "D": "(in historical contexts) a member of a people that do not acknowledge the God of the Bible; a pagan. ", "S": ["agnostic", "barbarian", "infidel", "nonbeliever", "pagan", "skeptic"], "A": ["godly", "religious"]}

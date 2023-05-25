@@ -1,0 +1,1 @@
+{"index": 10038, "D": "having mixed feelings about someone or something; being unable to choose between two (usually opposing) courses of action", "S": ["contradictory", "doubtful", "equivocal", "hesitant", "mixed", "uncertain", "undecided", "unsure"], "A": ["certain", "clear", "decided", "definite", "determined", "secure", "settled", "sure", "undoubted", "unquestionable"]}

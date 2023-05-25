@@ -1,1 +1,1 @@
-{"index": 36334, "D": "a herring cured by being salted and briefly smoked and dried.", "S": ["oversize "], "A": []}
+{"index": 36334, "D": "a herring cured by being salted and briefly smoked and dried.", "S": ["oversize"], "A": []}

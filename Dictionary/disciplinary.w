@@ -1,1 +1,1 @@
-{"index": 87340, "D": "of, for, or constituting discipline;  enforcing or administering discipline", "S": ["punitive "], "A": []}
+{"index": 87340, "D": "of, for, or constituting discipline;  enforcing or administering discipline", "S": ["punitive"], "A": []}

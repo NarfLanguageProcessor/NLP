@@ -1,1 +1,1 @@
-{"index": 346157, "D": "to engage in thought or contemplation; reflect.", "S": ["mechanical ", "natural "], "A": ["by hand ", "manual ", "stilted ", "thought-out ", "unnatural "]}
+{"index": 346157, "D": "to engage in thought or contemplation; reflect.", "S": ["mechanical", "natural"], "A": ["by hand", "manual", "stilted", "thought-out", "unnatural"]}

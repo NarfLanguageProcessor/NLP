@@ -1,1 +1,1 @@
-{"index": 146721, "D": "lasting for a year. ", "S": ["a year's worth "], "A": []}
+{"index": 146721, "D": "lasting for a year. ", "S": ["a year's worth"], "A": []}

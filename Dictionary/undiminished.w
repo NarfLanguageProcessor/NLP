@@ -1,1 +1,1 @@
-{"index": 340401, "D": "not reduced or lessened", "S": ["entire ", "exhaustive ", "full ", "outright ", "thorough "], "A": ["incomplete "]}
+{"index": 340401, "D": "not reduced or lessened", "S": ["entire", "exhaustive", "full", "outright", "thorough"], "A": ["incomplete"]}

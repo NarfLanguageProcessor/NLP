@@ -1,1 +1,1 @@
-{"index": 106773, "D": "the fact of shutting out some other thing; incompatibility", "S": ["difference ", "individuality ", "oneness ", "particularity ", "rarity ", "singularity ", "uncommonness "], "A": []}
+{"index": 106773, "D": "the fact of shutting out some other thing; incompatibility", "S": ["difference", "individuality", "oneness", "particularity", "rarity", "singularity", "uncommonness"], "A": []}

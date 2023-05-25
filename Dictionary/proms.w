@@ -1,1 +1,1 @@
-{"index": 252361, "D": "a formal dance, especially one held by a high school or college class at the end of an academic year.", "S": ["gala "], "A": []}
+{"index": 252361, "D": "a formal dance, especially one held by a high school or college class at the end of an academic year.", "S": ["gala"], "A": []}

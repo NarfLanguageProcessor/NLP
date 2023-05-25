@@ -1,1 +1,1 @@
-{"index": 98535, "D": "a person who emigrates,  such as from their native country or region", "S": ["alien ", "colonist ", "displaced person ", "evacuee ", "expatriate ", "migrant ", "pilgrim ", "refugee ", "traveler "], "A": ["nationalist ", "native "]}
+{"index": 98535, "D": "a person who emigrates,  such as from their native country or region", "S": ["alien", "colonist", "displaced person", "evacuee", "expatriate", "migrant", "pilgrim", "refugee", "traveler"], "A": ["nationalist", "native"]}

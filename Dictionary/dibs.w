@@ -1,1 +1,1 @@
-{"index": 84718, "D": "money in small amounts.", "S": ["entitlement ", "privilege ", "request ", "rights "], "A": []}
+{"index": 84718, "D": "money in small amounts.", "S": ["entitlement", "privilege", "request", "rights"], "A": []}

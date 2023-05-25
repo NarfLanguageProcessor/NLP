@@ -1,1 +1,1 @@
-{"index": 64778, "D": "a person or thing that composes. ", "S": ["writer "], "A": []}
+{"index": 64778, "D": "a person or thing that composes. ", "S": ["writer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 139141, "D": "a form of writing, esp as used in ancient Egypt, in which pictures or symbols are used to represent objects, concepts, or sounds", "S": ["calligraphy ", "longhand ", "manuscript ", "scrawl ", "script ", "writing "], "A": []}
+{"index": 139141, "D": "a form of writing, esp as used in ancient Egypt, in which pictures or symbols are used to represent objects, concepts, or sounds", "S": ["calligraphy", "longhand", "manuscript", "scrawl", "script", "writing"], "A": []}

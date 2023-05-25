@@ -1,1 +1,1 @@
-{"index": 282987, "D": "any rushlike or grasslike plant of the sedge family,  predominantly of the genus Carex, most species of which grow in wetlands.", "S": ["scrub ", "thicket "], "A": []}
+{"index": 282987, "D": "any rushlike or grasslike plant of the sedge family,  predominantly of the genus Carex, most species of which grow in wetlands.", "S": ["scrub", "thicket"], "A": []}

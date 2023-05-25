@@ -1,1 +1,1 @@
-{"index": 361209, "D": "characterized by a ready and continuous flow of words; fluent; glib; talkative", "S": ["articulateness ", "eloquentness ", "expressiveness ", "expressivity ", "fluency ", "fluentness ", "oratory ", "volubleness "], "A": []}
+{"index": 361209, "D": "characterized by a ready and continuous flow of words; fluent; glib; talkative", "S": ["articulateness", "eloquentness", "expressiveness", "expressivity", "fluency", "fluentness", "oratory", "volubleness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 314697, "D": "a person who uses or is skilled in the use of a sword. ", "S": ["swordplay "], "A": []}
+{"index": 314697, "D": "a person who uses or is skilled in the use of a sword. ", "S": ["swordplay"], "A": []}

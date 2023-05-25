@@ -1,1 +1,1 @@
-{"index": 88046, "D": "to hold in low regard; think unfavorably of.", "S": ["disapprobation ", "disapproval ", "disfavor ", "dislike ", "displeasure ", "disregard ", "disrespect "], "A": ["approval ", "esteem ", "honor ", "regard ", "respect "]}
+{"index": 88046, "D": "to hold in low regard; think unfavorably of.", "S": ["disapprobation", "disapproval", "disfavor", "dislike", "displeasure", "disregard", "disrespect"], "A": ["approval", "esteem", "honor", "regard", "respect"]}

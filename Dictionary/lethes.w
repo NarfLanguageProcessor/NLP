@@ -1,1 +1,1 @@
-{"index": 170904, "D": "a river in Hades whose water caused forgetfulness of the past in those who drank of it.", "S": ["unconsciousness "], "A": ["caring ", "concern ", "regard ", "respect "]}
+{"index": 170904, "D": "a river in Hades whose water caused forgetfulness of the past in those who drank of it.", "S": ["unconsciousness"], "A": ["caring", "concern", "regard", "respect"]}

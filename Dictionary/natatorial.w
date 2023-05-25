@@ -1,1 +1,1 @@
-{"index": 197230, "D": "pertaining to, adapted for, or characterized by swimming", "S": ["aquatic ", "coastal ", "deep-sea ", "maritime ", "naval ", "saltwater ", "seagoing "], "A": []}
+{"index": 197230, "D": "pertaining to, adapted for, or characterized by swimming", "S": ["aquatic", "coastal", "deep-sea", "maritime", "naval", "saltwater", "seagoing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183754, "D": "being nothing more nor better than", "S": ["basin ", "lagoon ", "pond ", "pool ", "reservoir "], "A": []}
+{"index": 183754, "D": "being nothing more nor better than", "S": ["basin", "lagoon", "pond", "pool", "reservoir"], "A": []}

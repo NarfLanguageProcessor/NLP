@@ -1,1 +1,1 @@
-{"index": 116681, "D": "previously stated, written, or occurring; preceding", "S": ["preceding "], "A": ["after "]}
+{"index": 116681, "D": "previously stated, written, or occurring; preceding", "S": ["preceding"], "A": ["after"]}

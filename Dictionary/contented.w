@@ -1,1 +1,1 @@
-{"index": 67372, "D": "satisfied; feeling comfortable and at peace with one's circumstances.", "S": ["content ", "fulfilled ", "glad ", "happy ", "pleased ", "satisfied ", "serene ", "thankful "], "A": ["sad ", "unfulfilled ", "unhappy "]}
+{"index": 67372, "D": "satisfied; feeling comfortable and at peace with one's circumstances.", "S": ["content", "fulfilled", "glad", "happy", "pleased", "satisfied", "serene", "thankful"], "A": ["sad", "unfulfilled", "unhappy"]}

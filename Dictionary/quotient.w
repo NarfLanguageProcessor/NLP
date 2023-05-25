@@ -1,1 +1,1 @@
-{"index": 259171, "D": "the result of division; the number of times one quantity is contained in another.", "S": ["computation ", "remainder ", "result "], "A": []}
+{"index": 259171, "D": "the result of division; the number of times one quantity is contained in another.", "S": ["computation", "remainder", "result"], "A": []}

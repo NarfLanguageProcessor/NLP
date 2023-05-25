@@ -1,1 +1,1 @@
-{"index": 51582, "D": "the act of certifying. ", "S": ["acceptance ", "access ", "admittance ", "confirmation ", "entrance ", "introduction ", "recognition "], "A": ["conclusion ", "prohibition "]}
+{"index": 51582, "D": "the act of certifying. ", "S": ["acceptance", "access", "admittance", "confirmation", "entrance", "introduction", "recognition"], "A": ["conclusion", "prohibition"]}

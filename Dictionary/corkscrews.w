@@ -1,1 +1,1 @@
-{"index": 69195, "D": "an instrument typically consisting of a metal spiral with a sharp point at one end and a transverse handle at the other, used for drawingcorks  from bottles.", "S": ["crimp ", "wrinkle "], "A": ["line "]}
+{"index": 69195, "D": "an instrument typically consisting of a metal spiral with a sharp point at one end and a transverse handle at the other, used for drawingcorks  from bottles.", "S": ["crimp", "wrinkle"], "A": ["line"]}

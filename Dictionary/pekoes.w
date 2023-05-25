@@ -1,1 +1,1 @@
-{"index": 229217, "D": "a superior kind of black tea from Sri Lanka, India, and Java, made from leaves coarser than those used for orange pekoe.", "S": ["drink "], "A": []}
+{"index": 229217, "D": "a superior kind of black tea from Sri Lanka, India, and Java, made from leaves coarser than those used for orange pekoe.", "S": ["drink"], "A": []}

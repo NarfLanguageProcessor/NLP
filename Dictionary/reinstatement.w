@@ -1,1 +1,1 @@
-{"index": 266394, "D": "an act or instance of being restored to a former position or state; reestablishment", "S": ["improvement ", "readjustment ", "reconstruction ", "rehabilitation ", "restoration ", "resumption ", "return "], "A": ["deterioration ", "relapse "]}
+{"index": 266394, "D": "an act or instance of being restored to a former position or state; reestablishment", "S": ["improvement", "readjustment", "reconstruction", "rehabilitation", "restoration", "resumption", "return"], "A": ["deterioration", "relapse"]}

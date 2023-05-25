@@ -1,1 +1,1 @@
-{"index": 350895, "D": [], "S": ["rigidly ", "securely ", "solidly ", "soundly ", "strongly ", "thoroughly ", "tightly "], "A": ["indefinitely ", "weakly "]}
+{"index": 350895, "D": [], "S": ["rigidly", "securely", "solidly", "soundly", "strongly", "thoroughly", "tightly"], "A": ["indefinitely", "weakly"]}

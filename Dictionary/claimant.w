@@ -1,1 +1,1 @@
-{"index": 59069, "D": "a person who makes a claim. ", "S": ["applicant "], "A": []}
+{"index": 59069, "D": "a person who makes a claim. ", "S": ["applicant"], "A": []}

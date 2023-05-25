@@ -1,1 +1,1 @@
-{"index": 109389, "D": "prepare or make (something specious, deceptive, or fraudulent)", "S": ["bogus ", "counterfeit ", "fabricated ", "fictitious ", "forged ", "fraudulent ", "mock ", "phony ", "spurious "], "A": ["actual ", "authentic ", "genuine ", "real "]}
+{"index": 109389, "D": "prepare or make (something specious, deceptive, or fraudulent)", "S": ["bogus", "counterfeit", "fabricated", "fictitious", "forged", "fraudulent", "mock", "phony", "spurious"], "A": ["actual", "authentic", "genuine", "real"]}

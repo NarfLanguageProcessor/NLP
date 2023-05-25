@@ -1,1 +1,1 @@
-{"index": 152764, "D": "incapable of being imitated or copied; surpassing imitation; matchless.", "S": ["characteristically ", "distinctively ", "matchlessly "], "A": []}
+{"index": 152764, "D": "incapable of being imitated or copied; surpassing imitation; matchless.", "S": ["characteristically", "distinctively", "matchlessly"], "A": []}

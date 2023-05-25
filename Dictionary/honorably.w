@@ -1,1 +1,1 @@
-{"index": 143427, "D": "in accordance with or characterized by principles of honor; upright", "S": ["justly "], "A": []}
+{"index": 143427, "D": "in accordance with or characterized by principles of honor; upright", "S": ["justly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 162577, "D": "a strong, coarse fiber used for making burlap, gunny, cordage, etc., obtained from two East Indian plants, Corchorus capsularis and C. olitorius, of the linden family.", "S": ["bhang ", "cannabis ", "fiber ", "flax ", "hashish ", "jute ", "marijuana "], "A": []}
+{"index": 162577, "D": "a strong, coarse fiber used for making burlap, gunny, cordage, etc., obtained from two East Indian plants, Corchorus capsularis and C. olitorius, of the linden family.", "S": ["bhang", "cannabis", "fiber", "flax", "hashish", "jute", "marijuana"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 199466, "D": "a person employed by a newspaper  or wire service as a reporter, writer, editor, etc.", "S": ["copyholder ", "copyreader ", "deskman ", "newspaperwoman ", "proofreader ", "reviser ", "rewriter "], "A": []}
+{"index": 199466, "D": "a person employed by a newspaper  or wire service as a reporter, writer, editor, etc.", "S": ["copyholder", "copyreader", "deskman", "newspaperwoman", "proofreader", "reviser", "rewriter"], "A": []}

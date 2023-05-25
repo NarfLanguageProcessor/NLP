@@ -1,1 +1,1 @@
-{"index": 279209, "D": "one of the cutting teeth  of a saw. ", "S": ["indented ", "notched ", "ragged ", "scored ", "serrate "], "A": ["smooth "]}
+{"index": 279209, "D": "one of the cutting teeth  of a saw. ", "S": ["indented", "notched", "ragged", "scored", "serrate"], "A": ["smooth"]}

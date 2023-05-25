@@ -1,1 +1,1 @@
-{"index": 340601, "D": "to give a false or misleading appearance to; conceal the truth or real nature of", "S": ["candid ", "forthright ", "genuine ", "sincere ", "truthful ", "unequivocal "], "A": ["devious ", "dishonest ", "insincere ", "lying ", "tricky ", "untruthful "]}
+{"index": 340601, "D": "to give a false or misleading appearance to; conceal the truth or real nature of", "S": ["candid", "forthright", "genuine", "sincere", "truthful", "unequivocal"], "A": ["devious", "dishonest", "insincere", "lying", "tricky", "untruthful"]}

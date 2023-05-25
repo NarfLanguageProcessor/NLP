@@ -1,1 +1,1 @@
-{"index": 136995, "D": "after this in time or order; at some future time; farther along.", "S": ["after this ", "eventually ", "hence ", "henceforth ", "henceforward ", "hereupon ", "in the course of time ", "in the future ", "ultimately "], "A": []}
+{"index": 136995, "D": "after this in time or order; at some future time; farther along.", "S": ["after this", "eventually", "hence", "henceforth", "henceforward", "hereupon", "in the course of time", "in the future", "ultimately"], "A": []}

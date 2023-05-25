@@ -1,1 +1,1 @@
-{"index": 55890, "D": "to chuckle gleefully.", "S": ["cackle ", "chuckle ", "giggle ", "laugh ", "snicker "], "A": []}
+{"index": 55890, "D": "to chuckle gleefully.", "S": ["cackle", "chuckle", "giggle", "laugh", "snicker"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 131073, "D": "insidiously cunning; artfully deceptive; wily.", "S": ["ably ", "adroitly ", "artfully ", "carefully ", "cleverly ", "coolly ", "deftly ", "deliberately ", "intelligently ", "judiciously ", "keenly ", "knowingly ", "skillfully ", "slyly ", "smartly "], "A": []}
+{"index": 131073, "D": "insidiously cunning; artfully deceptive; wily.", "S": ["ably", "adroitly", "artfully", "carefully", "cleverly", "coolly", "deftly", "deliberately", "intelligently", "judiciously", "keenly", "knowingly", "skillfully", "slyly", "smartly"], "A": []}

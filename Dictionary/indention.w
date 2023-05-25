@@ -1,1 +1,1 @@
-{"index": 150789, "D": "the indenting  of a line or lines in writing or printing.", "S": ["arrangement ", "paragraph ", "section "], "A": []}
+{"index": 150789, "D": "the indenting  of a line or lines in writing or printing.", "S": ["arrangement", "paragraph", "section"], "A": []}

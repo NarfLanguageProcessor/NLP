@@ -1,1 +1,1 @@
-{"index": 160594, "D": "Compare physiologic jaundice. ", "S": ["bias ", "distort ", "predispose ", "prejudice ", "prepossess "], "A": []}
+{"index": 160594, "D": "Compare physiologic jaundice. ", "S": ["bias", "distort", "predispose", "prejudice", "prepossess"], "A": []}

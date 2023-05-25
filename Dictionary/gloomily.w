@@ -1,1 +1,1 @@
-{"index": 126590, "D": "dark or dim; deeply shaded", "S": ["densely ", "massively ", "thickly "], "A": ["easily ", "gently ", "lightly "]}
+{"index": 126590, "D": "dark or dim; deeply shaded", "S": ["densely", "massively", "thickly"], "A": ["easily", "gently", "lightly"]}

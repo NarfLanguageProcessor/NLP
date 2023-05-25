@@ -1,1 +1,1 @@
-{"index": 200630, "D": "a dinoflagellate of the genus Noctiluca, capable of producing light and, in groups, of causing a luminous appearance of the sea.", "S": ["candle fly ", "fire beetle ", "firefly ", "fireworm ", "glowworm ", "lampyrid ", "lantern fly "], "A": []}
+{"index": 200630, "D": "a dinoflagellate of the genus Noctiluca, capable of producing light and, in groups, of causing a luminous appearance of the sea.", "S": ["candle fly", "fire beetle", "firefly", "fireworm", "glowworm", "lampyrid", "lantern fly"], "A": []}

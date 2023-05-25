@@ -1,1 +1,1 @@
-{"index": 296692, "D": "to seek for (something) by entreaty, earnest or respectful request, formal application, etc.", "S": ["ask ", "canvass ", "drum up ", "promote ", "require ", "seek "], "A": ["answer ", "reply ", "avoid ", "conceal ", "dodge ", "give ", "ignore ", "offer ", "stop "]}
+{"index": 296692, "D": "to seek for (something) by entreaty, earnest or respectful request, formal application, etc.", "S": ["ask", "canvass", "drum up", "promote", "require", "seek"], "A": ["answer", "reply", "avoid", "conceal", "dodge", "give", "ignore", "offer", "stop"]}

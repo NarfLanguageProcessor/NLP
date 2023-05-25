@@ -1,1 +1,1 @@
-{"index": 97301, "D": "treatment of diseases by means of electricity; electrotherapeutics.", "S": ["ECT ", "EST ", "convulsive therapy ", "electroconvulsive therapy ", "psychosurgery ", "shock treatment "], "A": []}
+{"index": 97301, "D": "treatment of diseases by means of electricity; electrotherapeutics.", "S": ["ECT", "EST", "convulsive therapy", "electroconvulsive therapy", "psychosurgery", "shock treatment"], "A": []}

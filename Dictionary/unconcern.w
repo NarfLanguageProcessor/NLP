@@ -1,1 +1,1 @@
-{"index": 337486, "D": "absence of feeling or concern;  indifference.", "S": ["apathy ", "indifference ", "insouciance ", "nonchalance "], "A": ["concern ", "feeling ", "interest ", "sympathy "]}
+{"index": 337486, "D": "absence of feeling or concern;  indifference.", "S": ["apathy", "indifference", "insouciance", "nonchalance"], "A": ["concern", "feeling", "interest", "sympathy"]}

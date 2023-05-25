@@ -1,1 +1,1 @@
-{"index": 17707, "D": "conscious perception ", "S": ["apprehension ", "awareness "], "A": ["ignorance ", "inability "]}
+{"index": 17707, "D": "conscious perception ", "S": ["apprehension", "awareness"], "A": ["ignorance", "inability"]}

@@ -1,1 +1,1 @@
-{"index": 60547, "D": "full of or overcast by clouds", "S": ["ambiguity ", "equivocalness ", "muddiness ", "murkiness ", "obscureness ", "obscurity ", "opaqueness ", "uncertainty ", "unclearness "], "A": ["certainty ", "definiteness "]}
+{"index": 60547, "D": "full of or overcast by clouds", "S": ["ambiguity", "equivocalness", "muddiness", "murkiness", "obscureness", "obscurity", "opaqueness", "uncertainty", "unclearness"], "A": ["certainty", "definiteness"]}

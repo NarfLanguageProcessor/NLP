@@ -1,1 +1,1 @@
-{"index": 71264, "D": "being one of the partners in a permanent sexual relationship", "S": ["biformed ", "binary ", "dual ", "duplicate ", "geminate ", "geminated ", "twin ", "twofold "], "A": []}
+{"index": 71264, "D": "being one of the partners in a permanent sexual relationship", "S": ["biformed", "binary", "dual", "duplicate", "geminate", "geminated", "twin", "twofold"], "A": []}

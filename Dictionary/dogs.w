@@ -1,1 +1,1 @@
-{"index": 90983, "D": "greyhound racing", "S": ["hoof ", "hooves "], "A": []}
+{"index": 90983, "D": "greyhound racing", "S": ["hoof", "hooves"], "A": []}

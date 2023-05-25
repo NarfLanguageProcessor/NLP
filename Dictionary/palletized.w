@@ -1,1 +1,1 @@
-{"index": 223964, "D": "to place (materials) upon pallets  for handling or moving.", "S": ["clothe ", "pack ", "wrap "], "A": ["uncover ", "detach ", "disconnect ", "loose ", "loosen ", "release ", "unfasten ", "untie "]}
+{"index": 223964, "D": "to place (materials) upon pallets  for handling or moving.", "S": ["clothe", "pack", "wrap"], "A": ["uncover", "detach", "disconnect", "loose", "loosen", "release", "unfasten", "untie"]}

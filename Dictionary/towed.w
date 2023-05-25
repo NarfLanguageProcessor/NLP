@@ -1,1 +1,1 @@
-{"index": 326743, "D": "to pull or haul (a car, barge, trailer, etc.) by a rope, chain, or other device", "S": ["drag ", "ferry ", "haul ", "lug ", "tug "], "A": []}
+{"index": 326743, "D": "to pull or haul (a car, barge, trailer, etc.) by a rope, chain, or other device", "S": ["drag", "ferry", "haul", "lug", "tug"], "A": []}

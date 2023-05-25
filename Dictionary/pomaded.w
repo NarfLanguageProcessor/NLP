@@ -1,1 +1,0 @@
-{"index": 242827, "D": "a scented ointment, especially one used for the scalp or for dressing the hair.", "S": ["creamy ", "fatty ", "slick "], "A": ["dry "]}

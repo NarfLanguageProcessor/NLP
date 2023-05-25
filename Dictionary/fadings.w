@@ -1,1 +1,1 @@
-{"index": 109155, "D": [], "S": ["depletion ", "devitalization ", "enfeeblement ", "exhaustion ", "fading ", "impoverishment ", "weakening ", "weakness "], "A": []}
+{"index": 109155, "D": [], "S": ["depletion", "devitalization", "enfeeblement", "exhaustion", "fading", "impoverishment", "weakening", "weakness"], "A": []}

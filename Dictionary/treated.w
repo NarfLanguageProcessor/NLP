@@ -1,1 +1,1 @@
-{"index": 328718, "D": "to act or behave toward (a person) in some specified way", "S": ["studied "], "A": ["disregarded ", "forgotten ", "neglected ", "unplanned ", "unstudied "]}
+{"index": 328718, "D": "to act or behave toward (a person) in some specified way", "S": ["studied"], "A": ["disregarded", "forgotten", "neglected", "unplanned", "unstudied"]}

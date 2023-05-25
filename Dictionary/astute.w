@@ -1,1 +1,1 @@
-{"index": 22351, "D": "keenly perceptive or discerning; sagacious", "S": ["adroit ", "canny ", "crafty ", "discerning ", "insightful ", "intelligent ", "keen ", "shrewd "], "A": ["foolish ", "idiotic ", "inept ", "naive ", "stupid "]}
+{"index": 22351, "D": "keenly perceptive or discerning; sagacious", "S": ["adroit", "canny", "crafty", "discerning", "insightful", "intelligent", "keen", "shrewd"], "A": ["foolish", "idiotic", "inept", "naive", "stupid"]}

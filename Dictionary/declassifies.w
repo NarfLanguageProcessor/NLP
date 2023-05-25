@@ -1,1 +1,1 @@
-{"index": 78478, "D": "Compare classification (def. 5). ", "S": ["publicize "], "A": ["conceal ", "cover ", "hide "]}
+{"index": 78478, "D": "Compare classification (def. 5). ", "S": ["publicize"], "A": ["conceal", "cover", "hide"]}

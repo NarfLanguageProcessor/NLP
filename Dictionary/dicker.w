@@ -1,1 +1,1 @@
-{"index": 84889, "D": "to deal, swap, or trade with petty bargaining; bargain; haggle.", "S": ["haggle "], "A": ["agree "]}
+{"index": 84889, "D": "to deal, swap, or trade with petty bargaining; bargain; haggle.", "S": ["haggle"], "A": ["agree"]}

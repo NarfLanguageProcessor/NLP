@@ -1,1 +1,0 @@
-{"index": 197344, "D": "to confer upon (an alien) the rights and privileges of a citizen.", "S": ["acclimatization ", "acculturation ", "conditioning ", "habituation ", "nationalization ", "rooting "], "A": []}

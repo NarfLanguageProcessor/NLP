@@ -1,1 +1,1 @@
-{"index": 180159, "D": "readily salable.", "S": ["bankable ", "profitable "], "A": []}
+{"index": 180159, "D": "readily salable.", "S": ["bankable", "profitable"], "A": []}

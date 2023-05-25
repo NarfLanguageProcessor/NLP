@@ -1,1 +1,0 @@
-{"index": 230833, "D": "denoting the leaves in mosses that surround the archegonia and, later, the base of the sporophyte", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 27905, "D": "with the feet bare", "S": ["barefooted "], "A": ["shod "]}
+{"index": 27905, "D": "with the feet bare", "S": ["barefooted"], "A": ["shod"]}

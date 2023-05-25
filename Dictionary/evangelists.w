@@ -1,1 +1,1 @@
-{"index": 106012, "D": "a Protestant minister or layperson who serves as an itinerant or special preacher, especially a revivalist.", "S": ["missionary ", "pastor ", "televangelist "], "A": []}
+{"index": 106012, "D": "a Protestant minister or layperson who serves as an itinerant or special preacher, especially a revivalist.", "S": ["missionary", "pastor", "televangelist"], "A": []}

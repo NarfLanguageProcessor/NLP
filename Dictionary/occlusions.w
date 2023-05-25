@@ -1,1 +1,1 @@
-{"index": 210714, "D": "the act of closing, blocking, or shutting something, or the state of being closed or blocked", "S": ["barricade ", "barrier ", "block ", "blockage ", "blocking ", "closure ", "stoppage "], "A": ["beginning ", "opening ", "start "]}
+{"index": 210714, "D": "the act of closing, blocking, or shutting something, or the state of being closed or blocked", "S": ["barricade", "barrier", "block", "blockage", "blocking", "closure", "stoppage"], "A": ["beginning", "opening", "start"]}

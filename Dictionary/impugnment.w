@@ -1,1 +1,1 @@
-{"index": 149250, "D": "to challenge as false (another's statements, motives, etc.); cast doubt upon.", "S": ["abuse ", "aggression ", "criticism "], "A": ["approval ", "praise ", "commendation ", "compliment "]}
+{"index": 149250, "D": "to challenge as false (another's statements, motives, etc.); cast doubt upon.", "S": ["abuse", "aggression", "criticism"], "A": ["approval", "praise", "commendation", "compliment"]}

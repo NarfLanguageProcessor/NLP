@@ -1,1 +1,1 @@
-{"index": 68284, "D": "moderately cold; neither warm nor cold", "S": ["calmness ", "composure ", "nonchalance ", "serenity "], "A": ["agitation ", "excitement ", "fear ", "modesty ", "shyness ", "timidity "]}
+{"index": 68284, "D": "moderately cold; neither warm nor cold", "S": ["calmness", "composure", "nonchalance", "serenity"], "A": ["agitation", "excitement", "fear", "modesty", "shyness", "timidity"]}

@@ -1,1 +1,1 @@
-{"index": 160450, "D": "the language, especially the vocabulary, peculiar to a particular trade, profession, or group", "S": ["argot ", "idiom ", "lingo ", "parlance ", "patois ", "slang ", "vernacular ", "vocabulary "], "A": ["standard ", "quiet ", "sense ", "silence "]}
+{"index": 160450, "D": "the language, especially the vocabulary, peculiar to a particular trade, profession, or group", "S": ["argot", "idiom", "lingo", "parlance", "patois", "slang", "vernacular", "vocabulary"], "A": ["standard", "quiet", "sense", "silence"]}

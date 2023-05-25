@@ -1,1 +1,1 @@
-{"index": 153087, "D": "something new or different introduced", "S": ["modernization "], "A": ["stagnation "]}
+{"index": 153087, "D": "something new or different introduced", "S": ["modernization"], "A": ["stagnation"]}

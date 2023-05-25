@@ -1,1 +1,1 @@
-{"index": 213899, "D": "a small or minor work.", "S": ["album ", "booklet ", "brochure ", "copy ", "dictionary ", "edition ", "essay ", "fiction ", "magazine ", "manual ", "novel ", "pamphlet ", "paperback ", "publication ", "text ", "textbook ", "tome ", "volume ", "work ", "writing "], "A": []}
+{"index": 213899, "D": "a small or minor work.", "S": ["album", "booklet", "brochure", "copy", "dictionary", "edition", "essay", "fiction", "magazine", "manual", "novel", "pamphlet", "paperback", "publication", "text", "textbook", "tome", "volume", "work", "writing"], "A": []}

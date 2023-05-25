@@ -1,1 +1,1 @@
-{"index": 108939, "D": "with the face or the front or upper surface downward", "S": ["decumbent ", "flat ", "horizontal ", "level ", "procumbent ", "prostrate ", "reclining ", "recumbent ", "resupine ", "supine "], "A": ["improbably ", "sitting ", "straight ", "unlikely ", "upright "]}
+{"index": 108939, "D": "with the face or the front or upper surface downward", "S": ["decumbent", "flat", "horizontal", "level", "procumbent", "prostrate", "reclining", "recumbent", "resupine", "supine"], "A": ["improbably", "sitting", "straight", "unlikely", "upright"]}

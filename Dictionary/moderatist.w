@@ -1,1 +1,1 @@
-{"index": 191078, "D": [], "S": ["centrist ", "mainstreamer ", "middle-of-the-roader "], "A": ["extremist ", "radical ", "revolutionary ", "revolutionist ", "ultraist "]}
+{"index": 191078, "D": [], "S": ["centrist", "mainstreamer", "middle-of-the-roader"], "A": ["extremist", "radical", "revolutionary", "revolutionist", "ultraist"]}

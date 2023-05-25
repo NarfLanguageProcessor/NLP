@@ -1,1 +1,1 @@
-{"index": 344646, "D": "an uninspiring performance", "S": ["flat "], "A": ["developing ", "fecund ", "fertile ", "filled ", "full ", "growing ", "productive ", "profitable ", "useful "]}
+{"index": 344646, "D": "an uninspiring performance", "S": ["flat"], "A": ["developing", "fecund", "fertile", "filled", "full", "growing", "productive", "profitable", "useful"]}

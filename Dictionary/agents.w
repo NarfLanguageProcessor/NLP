@@ -1,0 +1,1 @@
+{"index": 6024, "D": "a person or business authorized to act on another's behalf", "S": ["cadre", "crew", "faculty", "force", "organization", "personnel", "team", "work force"], "A": ["incompetence"]}

@@ -1,1 +1,0 @@
-{"index": 212331, "D": "any science or branch of knowledge.", "S": [], "A": []}

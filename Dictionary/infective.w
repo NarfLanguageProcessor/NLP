@@ -1,1 +1,1 @@
-{"index": 151874, "D": "infectious. ", "S": ["endemic ", "epidemic ", "pandemic ", "taking "], "A": []}
+{"index": 151874, "D": "infectious. ", "S": ["endemic", "epidemic", "pandemic", "taking"], "A": []}

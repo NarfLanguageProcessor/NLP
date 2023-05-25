@@ -1,1 +1,1 @@
-{"index": 105174, "D": "the derivation of a word.", "S": ["linguist ", "wordsmith "], "A": []}
+{"index": 105174, "D": "the derivation of a word.", "S": ["linguist", "wordsmith"], "A": []}

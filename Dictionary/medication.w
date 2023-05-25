@@ -1,1 +1,1 @@
-{"index": 182086, "D": "the use or application of medicine.", "S": ["aid ", "assistance ", "drug ", "medicine ", "placebo ", "remedy ", "treatment "], "A": ["hindrance ", "hurt ", "injury "]}
+{"index": 182086, "D": "the use or application of medicine.", "S": ["aid", "assistance", "drug", "medicine", "placebo", "remedy", "treatment"], "A": ["hindrance", "hurt", "injury"]}

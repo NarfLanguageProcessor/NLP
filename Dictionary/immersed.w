@@ -1,1 +1,1 @@
-{"index": 147949, "D": "plunged or sunk in or as if in a liquid.", "S": ["absorbed ", "buried ", "busy ", "consumed ", "engaged ", "engrossed ", "mesmerized ", "occupied ", "preoccupied ", "spellbound "], "A": ["bored ", "disinterested ", "idle ", "inactive ", "uninterested ", "unoccupied "]}
+{"index": 147949, "D": "plunged or sunk in or as if in a liquid.", "S": ["absorbed", "buried", "busy", "consumed", "engaged", "engrossed", "mesmerized", "occupied", "preoccupied", "spellbound"], "A": ["bored", "disinterested", "idle", "inactive", "uninterested", "unoccupied"]}

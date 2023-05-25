@@ -1,1 +1,1 @@
-{"index": 365738, "D": "a trick, artifice, or stratagem meant to fool, trap, or entice; device.", "S": ["dishonesty ", "duplicity ", "machination ", "stratagem "], "A": ["honesty ", "openness ", "truthfulness "]}
+{"index": 365738, "D": "a trick, artifice, or stratagem meant to fool, trap, or entice; device.", "S": ["dishonesty", "duplicity", "machination", "stratagem"], "A": ["honesty", "openness", "truthfulness"]}

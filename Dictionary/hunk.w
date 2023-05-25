@@ -1,1 +1,1 @@
-{"index": 145161, "D": "a large piece or lump; chunk.", "S": ["gob ", "lump ", "morsel ", "slab ", "slice ", "wedge "], "A": ["whole ", "individual "]}
+{"index": 145161, "D": "a large piece or lump; chunk.", "S": ["gob", "lump", "morsel", "slab", "slice", "wedge"], "A": ["whole", "individual"]}

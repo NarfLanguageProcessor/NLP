@@ -1,1 +1,1 @@
-{"index": 125041, "D": "gymnastic  exercises.", "S": ["aerobatics ", "bars ", "calisthenics ", "gym ", "horse ", "rings ", "trampoline ", "trapeze ", "tumbling ", "vaulting ", "workout "], "A": []}
+{"index": 125041, "D": "gymnastic  exercises.", "S": ["aerobatics", "bars", "calisthenics", "gym", "horse", "rings", "trampoline", "trapeze", "tumbling", "vaulting", "workout"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 251896, "D": "a person who forecasts or predicts something future from present indications or signs; prophet", "S": ["prophet ", "seer ", "soothsayer "], "A": []}
+{"index": 251896, "D": "a person who forecasts or predicts something future from present indications or signs; prophet", "S": ["prophet", "seer", "soothsayer"], "A": []}

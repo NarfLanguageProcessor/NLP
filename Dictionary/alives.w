@@ -1,1 +1,1 @@
-{"index": 8378, "D": [], "S": ["slam "], "A": ["approve ", "build up ", "commend ", "compliment ", "endorse ", "exonerate ", "laud ", "praise ", "sanction "]}
+{"index": 8378, "D": [], "S": ["slam"], "A": ["approve", "build up", "commend", "compliment", "endorse", "exonerate", "laud", "praise", "sanction"]}

@@ -1,1 +1,1 @@
-{"index": 35255, "D": "having a harsh, disagreeably acrid taste, like that of aspirin, quinine, wormwood, or aloes.", "S": ["fiercely ", "furiously ", "heatedly ", "hotly ", "indignantly ", "madly ", "savagely ", "sharply ", "violently "], "A": ["gently ", "mildly ", "quietly "]}
+{"index": 35255, "D": "having a harsh, disagreeably acrid taste, like that of aspirin, quinine, wormwood, or aloes.", "S": ["fiercely", "furiously", "heatedly", "hotly", "indignantly", "madly", "savagely", "sharply", "violently"], "A": ["gently", "mildly", "quietly"]}

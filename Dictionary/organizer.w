@@ -1,1 +1,1 @@
-{"index": 214403, "D": "a person who organizes,  especially one who forms and organizes a group.", "S": ["coordinator ", "designer ", "developer ", "promoter "], "A": []}
+{"index": 214403, "D": "a person who organizes,  especially one who forms and organizes a group.", "S": ["coordinator", "designer", "developer", "promoter"], "A": []}

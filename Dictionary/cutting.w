@@ -1,1 +1,1 @@
-{"index": 75858, "D": "the act of a person or thing that cuts.", "S": ["acerbic ", "barbed ", "biting ", "caustic ", "piercing ", "pointed ", "sarcastic ", "sardonic ", "scathing ", "stinging ", "trenchant "], "A": ["calm ", "gentle ", "kind ", "mild ", "nice ", "soothing ", "bland "]}
+{"index": 75858, "D": "the act of a person or thing that cuts.", "S": ["acerbic", "barbed", "biting", "caustic", "piercing", "pointed", "sarcastic", "sardonic", "scathing", "stinging", "trenchant"], "A": ["calm", "gentle", "kind", "mild", "nice", "soothing", "bland"]}

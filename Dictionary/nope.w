@@ -1,1 +1,1 @@
-{"index": 208479, "D": "no1 (def. 1). ", "S": ["absolutely not ", "by no means ", "nay ", "negative ", "never ", "nix ", "no way ", "not at all ", "not by any means ", "nothing doing "], "A": []}
+{"index": 208479, "D": "no1 (def. 1). ", "S": ["absolutely not", "by no means", "nay", "negative", "never", "nix", "no way", "not at all", "not by any means", "nothing doing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 367659, "D": "bad  or ill  in a greater or higher degree; inferior in excellence, quality, or character.", "S": ["bad ", "poor "], "A": []}
+{"index": 367659, "D": "bad  or ill  in a greater or higher degree; inferior in excellence, quality, or character.", "S": ["bad", "poor"], "A": []}

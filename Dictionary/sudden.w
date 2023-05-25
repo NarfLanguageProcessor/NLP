@@ -1,1 +1,1 @@
-{"index": 310023, "D": "happening, coming, made, or done quickly, without warning, or unexpectedly", "S": ["abrupt ", "hasty ", "immediate ", "precipitous ", "quick ", "rapid ", "swift ", "unforeseen ", "unusual "], "A": ["delayed ", "gradual ", "lazy ", "leisurely ", "slow ", "sluggish "]}
+{"index": 310023, "D": "happening, coming, made, or done quickly, without warning, or unexpectedly", "S": ["abrupt", "hasty", "immediate", "precipitous", "quick", "rapid", "swift", "unforeseen", "unusual"], "A": ["delayed", "gradual", "lazy", "leisurely", "slow", "sluggish"]}

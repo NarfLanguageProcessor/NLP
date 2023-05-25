@@ -1,1 +1,1 @@
-{"index": 327510, "D": "to transport, transmit, or transpose.", "S": ["siphon ", "transmit "], "A": []}
+{"index": 327510, "D": "to transport, transmit, or transpose.", "S": ["siphon", "transmit"], "A": []}

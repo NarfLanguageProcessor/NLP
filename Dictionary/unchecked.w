@@ -1,1 +1,1 @@
-{"index": 336784, "D": "unchecked population growth", "S": ["rampant ", "unbridled ", "unhampered "], "A": ["checked ", "restrained "]}
+{"index": 336784, "D": "unchecked population growth", "S": ["rampant", "unbridled", "unhampered"], "A": ["checked", "restrained"]}

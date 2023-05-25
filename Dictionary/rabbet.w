@@ -1,1 +1,1 @@
-{"index": 259211, "D": "a deep notch formed in or near one edge of a board, framing timber, etc., so that something else can be fitted into it or so that a door or the like can be closed against it.", "S": ["laceration ", "wound "], "A": []}
+{"index": 259211, "D": "a deep notch formed in or near one edge of a board, framing timber, etc., so that something else can be fitted into it or so that a door or the like can be closed against it.", "S": ["laceration", "wound"], "A": []}

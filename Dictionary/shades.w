@@ -1,1 +1,1 @@
-{"index": 287062, "D": "gathering darkness at nightfall", "S": ["specs ", "sunglasses "], "A": []}
+{"index": 287062, "D": "gathering darkness at nightfall", "S": ["specs", "sunglasses"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 299890, "D": "a small upright piano.", "S": ["grand piano ", "instrument ", "keyboard "], "A": []}
+{"index": 299890, "D": "a small upright piano.", "S": ["grand piano", "instrument", "keyboard"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 85354, "D": "to pour out and spread, as a fluid.", "S": ["diffuse ", "disseminate ", "engender ", "imbue ", "impart ", "inculcate ", "inject ", "inspire "], "A": ["take out ", "leave alone ", "neglect "]}
+{"index": 85354, "D": "to pour out and spread, as a fluid.", "S": ["diffuse", "disseminate", "engender", "imbue", "impart", "inculcate", "inject", "inspire"], "A": ["take out", "leave alone", "neglect"]}

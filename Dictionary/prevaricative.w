@@ -1,1 +1,1 @@
-{"index": 250135, "D": "to speak falsely or misleadingly; deliberately misstate or create an incorrect impression; lie.", "S": ["caviling "], "A": []}
+{"index": 250135, "D": "to speak falsely or misleadingly; deliberately misstate or create an incorrect impression; lie.", "S": ["caviling"], "A": []}

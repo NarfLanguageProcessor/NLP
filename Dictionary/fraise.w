@@ -1,1 +1,1 @@
-{"index": 118272, "D": "a defense consisting of pointed stakes projecting from the ramparts in a horizontal or an inclined position.", "S": ["choker "], "A": []}
+{"index": 118272, "D": "a defense consisting of pointed stakes projecting from the ramparts in a horizontal or an inclined position.", "S": ["choker"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 270835, "D": "moving backward; having a backward motion or direction; retiring or retreating.", "S": ["declining ", "deteriorating ", "inverted ", "lapsing ", "receding ", "reversed ", "sinking ", "slipping ", "worsening "], "A": ["forward ", "positive "]}

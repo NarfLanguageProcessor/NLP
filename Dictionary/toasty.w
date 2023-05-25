@@ -1,1 +1,1 @@
-{"index": 324909, "D": "comfortably or cozily warm.", "S": ["melting ", "roasting ", "snug ", "thermic "], "A": []}
+{"index": 324909, "D": "comfortably or cozily warm.", "S": ["melting", "roasting", "snug", "thermic"], "A": []}

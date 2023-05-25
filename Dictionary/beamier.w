@@ -1,1 +1,1 @@
-{"index": 29455, "D": "emitting beams  of or as of light; radiant.", "S": ["beaming ", "bright ", "brilliant ", "dazzling ", "effulgent ", "gleaming ", "gleamy ", "glowing ", "incandescent ", "irradiant ", "lucent ", "luminous ", "lustrous ", "refulgent ", "resplendent ", "shiny "], "A": []}
+{"index": 29455, "D": "emitting beams  of or as of light; radiant.", "S": ["beaming", "bright", "brilliant", "dazzling", "effulgent", "gleaming", "gleamy", "glowing", "incandescent", "irradiant", "lucent", "luminous", "lustrous", "refulgent", "resplendent", "shiny"], "A": []}

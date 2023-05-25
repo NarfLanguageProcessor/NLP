@@ -1,1 +1,1 @@
-{"index": 114352, "D": "the coat of wool that covers a sheep or a similar animal.", "S": ["flexible ", "soft "], "A": ["rigid ", "stern ", "unyielding "]}
+{"index": 114352, "D": "the coat of wool that covers a sheep or a similar animal.", "S": ["flexible", "soft"], "A": ["rigid", "stern", "unyielding"]}

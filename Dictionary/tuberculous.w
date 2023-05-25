@@ -1,1 +1,1 @@
-{"index": 331956, "D": "tubercular. ", "S": ["consumptive "], "A": []}
+{"index": 331956, "D": "tubercular. ", "S": ["consumptive"], "A": []}

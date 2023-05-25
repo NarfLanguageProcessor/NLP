@@ -1,1 +1,1 @@
-{"index": 70069, "D": "the branch of philosophy dealing with the origin and general structure of the universe, with its parts, elements, and laws, and especially with such of its characteristics as space, time, causality, and freedom.", "S": ["astrophysicist "], "A": []}
+{"index": 70069, "D": "the branch of philosophy dealing with the origin and general structure of the universe, with its parts, elements, and laws, and especially with such of its characteristics as space, time, causality, and freedom.", "S": ["astrophysicist"], "A": []}

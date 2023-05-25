@@ -1,1 +1,1 @@
-{"index": 39521, "D": [], "S": ["brace ", "cantilever ", "girder ", "joint ", "reinforcement ", "strut "], "A": []}
+{"index": 39521, "D": [], "S": ["brace", "cantilever", "girder", "joint", "reinforcement", "strut"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 102810, "D": "an incident in the course of a series of events, in a person's life or experience, etc.", "S": ["chapter ", "event ", "experience ", "incident ", "installment ", "matter ", "thing "], "A": ["whole "]}
+{"index": 102810, "D": "an incident in the course of a series of events, in a person's life or experience, etc.", "S": ["chapter", "event", "experience", "incident", "installment", "matter", "thing"], "A": ["whole"]}

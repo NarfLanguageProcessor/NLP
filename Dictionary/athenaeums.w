@@ -1,1 +1,1 @@
-{"index": 22535, "D": "an institution for the promotion of literary or scientific learning.", "S": ["library ", "museum ", "office ", "registry ", "repository ", "storage ", "treasury ", "vault "], "A": []}
+{"index": 22535, "D": "an institution for the promotion of literary or scientific learning.", "S": ["library", "museum", "office", "registry", "repository", "storage", "treasury", "vault"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 153114, "D": "very numerous.", "S": ["endless ", "myriad ", "uncounted ", "untold "], "A": ["few ", "limited "]}
+{"index": 153114, "D": "very numerous.", "S": ["endless", "myriad", "uncounted", "untold"], "A": ["few", "limited"]}

@@ -1,1 +1,1 @@
-{"index": 98733, "D": "the male sovereign or supreme ruler of an empire", "S": ["czar ", "dictator ", "empress ", "king ", "monarch ", "sultan "], "A": []}
+{"index": 98733, "D": "the male sovereign or supreme ruler of an empire", "S": ["czar", "dictator", "empress", "king", "monarch", "sultan"], "A": []}

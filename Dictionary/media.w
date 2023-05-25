@@ -1,1 +1,1 @@
-{"index": 181993, "D": "a plural of medium. ", "S": ["news ", "publishing ", "radio ", "television "], "A": []}
+{"index": 181993, "D": "a plural of medium. ", "S": ["news", "publishing", "radio", "television"], "A": []}

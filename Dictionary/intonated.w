@@ -1,1 +1,1 @@
-{"index": 156368, "D": "to utter with a particular tone  or modulation of voice.", "S": ["choral ", "lyric ", "oral ", "singing ", "sung ", "voiced ", "vowel "], "A": []}
+{"index": 156368, "D": "to utter with a particular tone  or modulation of voice.", "S": ["choral", "lyric", "oral", "singing", "sung", "voiced", "vowel"], "A": []}

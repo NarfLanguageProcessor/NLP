@@ -1,1 +1,1 @@
-{"index": 259968, "D": "torn, old, or shabby clothing", "S": ["duds ", "scraps ", "tatters "], "A": []}
+{"index": 259968, "D": "torn, old, or shabby clothing", "S": ["duds", "scraps", "tatters"], "A": []}

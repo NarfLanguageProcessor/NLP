@@ -1,1 +1,1 @@
-{"index": 255244, "D": "to intimidate or frighten psychologically, or make nervous (often followed by out)", "S": ["attitude ", "ethos ", "mentality ", "psyche "], "A": ["physicality "]}
+{"index": 255244, "D": "to intimidate or frighten psychologically, or make nervous (often followed by out)", "S": ["attitude", "ethos", "mentality", "psyche"], "A": ["physicality"]}

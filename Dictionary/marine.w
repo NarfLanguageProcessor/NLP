@@ -1,1 +1,1 @@
-{"index": 180092, "D": "of or relating to the sea; existing in or produced by the sea", "S": ["aquatic ", "coastal ", "deep-sea ", "maritime ", "naval ", "saltwater ", "seagoing "], "A": []}
+{"index": 180092, "D": "of or relating to the sea; existing in or produced by the sea", "S": ["aquatic", "coastal", "deep-sea", "maritime", "naval", "saltwater", "seagoing"], "A": []}

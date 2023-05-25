@@ -1,1 +1,1 @@
-{"index": 11536, "D": "misplaced in time; anachronistic.", "S": ["antiquated ", "archaic ", "obsolete ", "old ", "out-of-date ", "outmoded "], "A": ["contemporary ", "current ", "modern ", "new ", "present ", "recent ", "up-to-date ", "young "]}
+{"index": 11536, "D": "misplaced in time; anachronistic.", "S": ["antiquated", "archaic", "obsolete", "old", "out-of-date", "outmoded"], "A": ["contemporary", "current", "modern", "new", "present", "recent", "up-to-date", "young"]}

@@ -1,1 +1,1 @@
-{"index": 166743, "D": "productive activity, especially for the sake of economic gain.", "S": ["engaged ", "hired ", "occupied "], "A": ["idle ", "inactive ", "unemployed ", "unengaged ", "unoccupied "]}
+{"index": 166743, "D": "productive activity, especially for the sake of economic gain.", "S": ["engaged", "hired", "occupied"], "A": ["idle", "inactive", "unemployed", "unengaged", "unoccupied"]}

@@ -1,1 +1,1 @@
-{"index": 335680, "D": "to make or become beautiful. ", "S": ["folksy ", "homey ", "humble ", "laid-back ", "modest ", "simple ", "straightforward ", "unassuming "], "A": ["bold ", "brave ", "conceited ", "egotistical ", "presumptuous ", "proud "]}
+{"index": 335680, "D": "to make or become beautiful. ", "S": ["folksy", "homey", "humble", "laid-back", "modest", "simple", "straightforward", "unassuming"], "A": ["bold", "brave", "conceited", "egotistical", "presumptuous", "proud"]}

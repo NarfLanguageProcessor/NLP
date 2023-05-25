@@ -1,1 +1,1 @@
-{"index": 147475, "D": "an act or instance of illuminating. ", "S": ["bursts ", "pyrotechnics ", "rockets ", "sparklers "], "A": []}
+{"index": 147475, "D": "an act or instance of illuminating. ", "S": ["bursts", "pyrotechnics", "rockets", "sparklers"], "A": []}

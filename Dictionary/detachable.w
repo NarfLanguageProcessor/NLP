@@ -1,1 +1,1 @@
-{"index": 83053, "D": "to unfasten and separate; disengage; disunite.", "S": ["breakable ", "dissoluble ", "dissolvable ", "distinct ", "distinguishable ", "dividable ", "divided ", "partible ", "separated ", "severable "], "A": ["indivisible ", "inseparable "]}
+{"index": 83053, "D": "to unfasten and separate; disengage; disunite.", "S": ["breakable", "dissoluble", "dissolvable", "distinct", "distinguishable", "dividable", "divided", "partible", "separated", "severable"], "A": ["indivisible", "inseparable"]}

@@ -1,1 +1,1 @@
-{"index": 41870, "D": "to make brutal. ", "S": ["dehumanize ", "demoralize "], "A": ["clean ", "improve ", "purify ", "straighten ", "upgrade "]}
+{"index": 41870, "D": "to make brutal. ", "S": ["dehumanize", "demoralize"], "A": ["clean", "improve", "purify", "straighten", "upgrade"]}

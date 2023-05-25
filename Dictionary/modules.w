@@ -1,1 +1,1 @@
-{"index": 191189, "D": "a separable component, frequently one that is interchangeable with others, for assembly into units of differing size, complexity, or function.", "S": ["educational program ", "syllabus "], "A": []}
+{"index": 191189, "D": "a separable component, frequently one that is interchangeable with others, for assembly into units of differing size, complexity, or function.", "S": ["educational program", "syllabus"], "A": []}

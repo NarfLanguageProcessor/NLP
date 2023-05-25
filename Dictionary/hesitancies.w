@@ -1,1 +1,1 @@
-{"index": 137363, "D": "hesitation;  indecision or disinclination.", "S": ["indecision ", "reluctance ", "skepticism "], "A": []}
+{"index": 137363, "D": "hesitation;  indecision or disinclination.", "S": ["indecision", "reluctance", "skepticism"], "A": []}

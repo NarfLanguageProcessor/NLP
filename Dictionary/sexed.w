@@ -1,1 +1,0 @@
-{"index": 286841, "D": "being of a particular sex  or having sexual characteristics.", "S": [], "A": []}

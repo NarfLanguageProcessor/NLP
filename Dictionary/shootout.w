@@ -1,1 +1,1 @@
-{"index": 288790, "D": "a gunfight that must end in defeat for one side or the other, as between gunfighters in the Old West, criminal groups, or law-enforcement officers and criminals.", "S": ["bout "], "A": []}
+{"index": 288790, "D": "a gunfight that must end in defeat for one side or the other, as between gunfighters in the Old West, criminal groups, or law-enforcement officers and criminals.", "S": ["bout"], "A": []}

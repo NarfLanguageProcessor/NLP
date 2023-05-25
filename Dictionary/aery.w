@@ -1,0 +1,1 @@
+{"index": 4909, "D": "ethereal; aerial.", "S": ["aerial", "airy", "bleary", "blurred", "cloudy", "diaphanous", "dim", "ethereal", "gauzy", "gossamer", "gossamery", "hazy", "membranous", "milky", "misty", "opalescent", "opaque", "pearly", "sheer", "transparent", "vaporous"], "A": []}

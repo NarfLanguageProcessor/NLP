@@ -1,0 +1,1 @@
+{"index": 36029, "D": "to shrink; flinch; quail", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 54716, "D": "a small, slender piece, as of wood, separated by chopping, cutting, or breaking.", "S": ["coin ", "currency ", "markers ", "scratch "], "A": []}
+{"index": 54716, "D": "a small, slender piece, as of wood, separated by chopping, cutting, or breaking.", "S": ["coin", "currency", "markers", "scratch"], "A": []}

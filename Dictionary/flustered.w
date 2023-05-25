@@ -1,1 +1,1 @@
-{"index": 115540, "D": "in a state of agitated or nervous confusion", "S": ["aroused ", "excited "], "A": []}
+{"index": 115540, "D": "in a state of agitated or nervous confusion", "S": ["aroused", "excited"], "A": []}

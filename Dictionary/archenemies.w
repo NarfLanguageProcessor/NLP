@@ -1,1 +1,1 @@
-{"index": 18831, "D": "a chief enemy. ", "S": ["antagonist "], "A": []}
+{"index": 18831, "D": "a chief enemy. ", "S": ["antagonist"], "A": []}

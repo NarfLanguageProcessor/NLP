@@ -1,1 +1,1 @@
-{"index": 46764, "D": "to make capable; enable.", "S": ["allow ", "entitle ", "entrust ", "grant ", "legitimize ", "permit ", "vest "], "A": ["deny ", "disallow ", "disapprove ", "refuse ", "reject ", "veto "]}
+{"index": 46764, "D": "to make capable; enable.", "S": ["allow", "entitle", "entrust", "grant", "legitimize", "permit", "vest"], "A": ["deny", "disallow", "disapprove", "refuse", "reject", "veto"]}

@@ -1,1 +1,1 @@
-{"index": 143573, "D": "an act or instance of hooking up.", "S": ["connection ", "interconnection ", "linkage "], "A": ["antagonism ", "difference ", "disassociation ", "dissimilarity ", "disunion ", "opposition ", "separation "]}
+{"index": 143573, "D": "an act or instance of hooking up.", "S": ["connection", "interconnection", "linkage"], "A": ["antagonism", "difference", "disassociation", "dissimilarity", "disunion", "opposition", "separation"]}

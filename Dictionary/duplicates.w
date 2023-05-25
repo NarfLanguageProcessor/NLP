@@ -1,1 +1,1 @@
-{"index": 94356, "D": "a copy exactly like an original.", "S": ["corresponding ", "duplex ", "equal ", "equivalent ", "same ", "twin "], "A": ["different ", "dissimilar ", "mismatched ", "unequal ", "unlike ", "variable "]}
+{"index": 94356, "D": "a copy exactly like an original.", "S": ["corresponding", "duplex", "equal", "equivalent", "same", "twin"], "A": ["different", "dissimilar", "mismatched", "unequal", "unlike", "variable"]}

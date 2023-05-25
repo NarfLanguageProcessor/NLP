@@ -1,1 +1,1 @@
-{"index": 48523, "D": "to take or support from one place to another; convey; transport", "S": ["childbearing ", "expectant ", "in a family way ", "with child "], "A": []}
+{"index": 48523, "D": "to take or support from one place to another; convey; transport", "S": ["childbearing", "expectant", "in a family way", "with child"], "A": []}

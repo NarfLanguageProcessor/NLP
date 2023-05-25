@@ -1,1 +1,1 @@
-{"index": 80272, "D": "a large, triangular muscle covering the joint of the shoulder, the action of which raises the arm away from the side of the body.", "S": ["trilateral "], "A": []}
+{"index": 80272, "D": "a large, triangular muscle covering the joint of the shoulder, the action of which raises the arm away from the side of the body.", "S": ["trilateral"], "A": []}

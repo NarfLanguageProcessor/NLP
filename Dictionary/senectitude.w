@@ -1,1 +1,1 @@
-{"index": 285247, "D": "the last stage of life; old age.", "S": ["advanced age ", "agedness ", "decrepitude ", "elderliness ", "fatuity ", "imbecility ", "infirmity ", "second childhood ", "senescence ", "senility ", "weakness ", "year "], "A": []}
+{"index": 285247, "D": "the last stage of life; old age.", "S": ["advanced age", "agedness", "decrepitude", "elderliness", "fatuity", "imbecility", "infirmity", "second childhood", "senescence", "senility", "weakness", "year"], "A": []}

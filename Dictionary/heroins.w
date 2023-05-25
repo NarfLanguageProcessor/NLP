@@ -1,1 +1,1 @@
-{"index": 137259, "D": "a white, crystalline, narcotic powder, C21H23NO5, derived from morphine, formerly used as an analgesic and sedative", "S": ["dope ", "drug ", "narcotic ", "smack "], "A": []}
+{"index": 137259, "D": "a white, crystalline, narcotic powder, C21H23NO5, derived from morphine, formerly used as an analgesic and sedative", "S": ["dope", "drug", "narcotic", "smack"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 75517, "D": "rudely brief in speech or abrupt in manner.", "S": ["blunt ", "brusque ", "concise ", "offhand ", "pithy ", "succinct ", "terse "], "A": ["lengthy ", "long-winded ", "polite ", "tactful ", "wordy "]}
+{"index": 75517, "D": "rudely brief in speech or abrupt in manner.", "S": ["blunt", "brusque", "concise", "offhand", "pithy", "succinct", "terse"], "A": ["lengthy", "long-winded", "polite", "tactful", "wordy"]}

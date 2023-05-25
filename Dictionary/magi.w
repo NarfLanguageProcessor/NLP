@@ -1,1 +1,1 @@
-{"index": 177398, "D": "Compare Balthazar (def. 1), Caspar (def. 1), Melchior (def. 1). ", "S": ["magician ", "sage ", "seer ", "wizard "], "A": []}
+{"index": 177398, "D": "Compare Balthazar (def. 1), Caspar (def. 1), Melchior (def. 1). ", "S": ["magician", "sage", "seer", "wizard"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 68238, "D": "the plural of cookie. ", "S": ["biscuit ", "wafer "], "A": []}
+{"index": 68238, "D": "the plural of cookie. ", "S": ["biscuit", "wafer"], "A": []}

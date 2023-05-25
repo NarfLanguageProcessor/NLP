@@ -1,1 +1,1 @@
-{"index": 246922, "D": "an act or instance of asserting something", "S": ["affirmation ", "allegation ", "contention ", "insistence ", "pronouncement "], "A": ["denial ", "rejection "]}
+{"index": 246922, "D": "an act or instance of asserting something", "S": ["affirmation", "allegation", "contention", "insistence", "pronouncement"], "A": ["denial", "rejection"]}

@@ -1,0 +1,1 @@
+{"index": 18010, "D": "suitable or fitting for a particular purpose, person, occasion, etc.", "S": ["acquirer", "claimant", "discoverer", "spotter"], "A": ["loser", "owner", "stray"]}

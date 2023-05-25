@@ -1,1 +1,1 @@
-{"index": 92206, "D": "directed downward, as the eyes.", "S": ["discouraged ", "forlorn "], "A": ["above ", "cheerful ", "decent ", "gay ", "happy ", "honest ", "upright "]}
+{"index": 92206, "D": "directed downward, as the eyes.", "S": ["discouraged", "forlorn"], "A": ["above", "cheerful", "decent", "gay", "happy", "honest", "upright"]}

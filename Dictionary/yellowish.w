@@ -1,1 +1,1 @@
-{"index": 146816, "D": "somewhat yellow;  tinged with yellow;  yellowy.", "S": ["creamy "], "A": []}
+{"index": 146816, "D": "somewhat yellow;  tinged with yellow;  yellowy.", "S": ["creamy"], "A": []}

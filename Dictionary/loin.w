@@ -1,1 +1,1 @@
-{"index": 174750, "D": "the part or parts of the human body or of a quadruped animal on either side of the spinal column, between the false ribs and hipbone.", "S": ["ham ", "hand ", "hip ", "quarter ", "side ", "thigh ", "wing "], "A": []}
+{"index": 174750, "D": "the part or parts of the human body or of a quadruped animal on either side of the spinal column, between the false ribs and hipbone.", "S": ["ham", "hand", "hip", "quarter", "side", "thigh", "wing"], "A": []}

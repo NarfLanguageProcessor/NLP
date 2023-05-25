@@ -1,1 +1,1 @@
-{"index": 85552, "D": [], "S": ["circuitous ", "misleading "], "A": ["artless ", "direct ", "frank ", "honest ", "open ", "straight ", "straightforward ", "trustworthy ", "truthful "]}
+{"index": 85552, "D": [], "S": ["circuitous", "misleading"], "A": ["artless", "direct", "frank", "honest", "open", "straight", "straightforward", "trustworthy", "truthful"]}

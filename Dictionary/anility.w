@@ -1,1 +1,1 @@
-{"index": 13131, "D": [], "S": ["age ", "decline ", "dotage ", "feebleness ", "senescence "], "A": ["strength "]}
+{"index": 13131, "D": [], "S": ["age", "decline", "dotage", "feebleness", "senescence"], "A": ["strength"]}

@@ -1,1 +1,1 @@
-{"index": 92854, "D": "a highly attractive or desirable person", "S": ["vision "], "A": ["frump ", "schlump "]}
+{"index": 92854, "D": "a highly attractive or desirable person", "S": ["vision"], "A": ["frump", "schlump"]}

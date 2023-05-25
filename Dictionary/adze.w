@@ -1,1 +1,1 @@
-{"index": 4745, "D": "an axlike tool, for dressing timbers roughly, with a curved, chisel-like steel head mounted at a right angle to the wooden handle.", "S": ["blade ", "knife "], "A": []}
+{"index": 4745, "D": "an axlike tool, for dressing timbers roughly, with a curved, chisel-like steel head mounted at a right angle to the wooden handle.", "S": ["blade", "knife"], "A": []}

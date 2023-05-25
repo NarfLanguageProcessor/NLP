@@ -1,1 +1,1 @@
-{"index": 28809, "D": "the state or condition of being a bastard; illegitimacy.", "S": ["baton sinister ", "bend sinister ", "illegitimacy ", "out of wedlock "], "A": []}
+{"index": 28809, "D": "the state or condition of being a bastard; illegitimacy.", "S": ["baton sinister", "bend sinister", "illegitimacy", "out of wedlock"], "A": []}

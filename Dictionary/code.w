@@ -1,1 +1,1 @@
-{"index": 61688, "D": "a system for communication by telegraph, heliograph, etc., in which long and short sounds, light flashes, etc., are used to symbolize the content of a message", "S": ["cipher ", "cryptograph "], "A": []}
+{"index": 61688, "D": "a system for communication by telegraph, heliograph, etc., in which long and short sounds, light flashes, etc., are used to symbolize the content of a message", "S": ["cipher", "cryptograph"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16035, "D": "opposed to radicalism or radicals. ", "S": [], "A": []}

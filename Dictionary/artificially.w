@@ -1,1 +1,1 @@
-{"index": 20725, "D": "made by human skill; produced by humans (opposed to natural)", "S": ["synthetically "], "A": ["naturally "]}
+{"index": 20725, "D": "made by human skill; produced by humans (opposed to natural)", "S": ["synthetically"], "A": ["naturally"]}

@@ -1,1 +1,1 @@
-{"index": 313551, "D": "the act of surprising. ", "S": ["Pearl Harbor ", "ambush ", "shock tactics ", "unforeseen attack "], "A": []}
+{"index": 313551, "D": "the act of surprising. ", "S": ["Pearl Harbor", "ambush", "shock tactics", "unforeseen attack"], "A": []}

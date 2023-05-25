@@ -1,1 +1,1 @@
-{"index": 116250, "D": "to go on foot  through or as if through mud.", "S": ["gallop ", "plod ", "ramble ", "roam ", "slog ", "traipse ", "trample ", "trudge "], "A": ["tiptoe "]}
+{"index": 116250, "D": "to go on foot  through or as if through mud.", "S": ["gallop", "plod", "ramble", "roam", "slog", "traipse", "trample", "trudge"], "A": ["tiptoe"]}

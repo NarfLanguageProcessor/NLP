@@ -1,1 +1,1 @@
-{"index": 322607, "D": "comprising three parts, members, or aspects; triple", "S": ["ternary ", "treble ", "trinal ", "trine ", "triple "], "A": []}
+{"index": 322607, "D": "comprising three parts, members, or aspects; triple", "S": ["ternary", "treble", "trinal", "trine", "triple"], "A": []}

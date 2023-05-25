@@ -1,1 +1,1 @@
-{"index": 124366, "D": "the German state secret police during the Nazi regime, organized in 1933 and notorious for its brutal methods and operations.", "S": ["posse ", "posse comitatus ", "swat "], "A": []}
+{"index": 124366, "D": "the German state secret police during the Nazi regime, organized in 1933 and notorious for its brutal methods and operations.", "S": ["posse", "posse comitatus", "swat"], "A": []}

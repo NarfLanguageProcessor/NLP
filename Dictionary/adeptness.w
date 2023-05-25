@@ -1,0 +1,1 @@
+{"index": 3800, "D": "the quality or fact of being highly skilled or expert at something; proficiency", "S": ["adroitness", "artfulness", "artistry", "command", "craft", "deftness", "expertise", "expertness", "knack", "mastery", "proficiency", "skill", "skillfulness"], "A": ["inability", "incapacity", "ineptitude", "lack"]}

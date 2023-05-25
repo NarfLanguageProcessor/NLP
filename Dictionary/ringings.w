@@ -1,1 +1,1 @@
-{"index": 273047, "D": [], "S": ["blast ", "carillon ", "clamor ", "clap ", "crash ", "resounding ", "reverberation ", "ring ", "ringing ", "roar ", "rumble ", "sound ", "thunder ", "tintinnabulation "], "A": ["quiet ", "silence "]}
+{"index": 273047, "D": [], "S": ["blast", "carillon", "clamor", "clap", "crash", "resounding", "reverberation", "ring", "ringing", "roar", "rumble", "sound", "thunder", "tintinnabulation"], "A": ["quiet", "silence"]}

@@ -1,1 +1,1 @@
-{"index": 35522, "D": "being a color that lacks hue and brightness and absorbs light without reflecting any of the rays composing it", "S": ["black ", "dark ", "dusky ", "inky "], "A": []}
+{"index": 35522, "D": "being a color that lacks hue and brightness and absorbs light without reflecting any of the rays composing it", "S": ["black", "dark", "dusky", "inky"], "A": []}

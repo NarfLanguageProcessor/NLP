@@ -1,1 +1,0 @@
-{"index": 204843, "D": "abstention by a nation from interference in the affairs of other nations or in those of its own political subdivisions.", "S": [], "A": []}

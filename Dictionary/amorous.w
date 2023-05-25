@@ -1,1 +1,1 @@
-{"index": 10933, "D": "inclined or disposed to love, especially sexual love", "S": ["erotic ", "romantic "], "A": ["cold ", "cool ", "frigid ", "hateful ", "indifferent ", "unfriendly "]}
+{"index": 10933, "D": "inclined or disposed to love, especially sexual love", "S": ["erotic", "romantic"], "A": ["cold", "cool", "frigid", "hateful", "indifferent", "unfriendly"]}

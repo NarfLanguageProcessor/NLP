@@ -1,1 +1,1 @@
-{"index": 192386, "D": "an obelisk, column, large statue, etc., formed of a single block of stone.", "S": ["block ", "column ", "menhir ", "monument ", "pillar ", "statue ", "stone "], "A": []}
+{"index": 192386, "D": "an obelisk, column, large statue, etc., formed of a single block of stone.", "S": ["block", "column", "menhir", "monument", "pillar", "statue", "stone"], "A": []}

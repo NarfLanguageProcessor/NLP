@@ -1,1 +1,1 @@
-{"index": 122067, "D": "a fashion or mode of dress, especially of a distinctive, uniform kind", "S": ["apparel ", "attire ", "costume ", "dress ", "duds ", "garment ", "uniform "], "A": ["reality "]}
+{"index": 122067, "D": "a fashion or mode of dress, especially of a distinctive, uniform kind", "S": ["apparel", "attire", "costume", "dress", "duds", "garment", "uniform"], "A": ["reality"]}

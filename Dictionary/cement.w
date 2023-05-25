@@ -1,1 +1,1 @@
-{"index": 50676, "D": "any of various calcined mixtures of clay and limestone, usually mixed with water and sand, gravel, etc., to form concrete, that are used as a building material.", "S": ["adhesive ", "mud ", "plaster ", "sand "], "A": []}
+{"index": 50676, "D": "any of various calcined mixtures of clay and limestone, usually mixed with water and sand, gravel, etc., to form concrete, that are used as a building material.", "S": ["adhesive", "mud", "plaster", "sand"], "A": []}

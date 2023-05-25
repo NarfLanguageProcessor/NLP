@@ -1,1 +1,1 @@
-{"index": 31952, "D": "a disposition in a will.", "S": ["endowment ", "inheritance "], "A": []}
+{"index": 31952, "D": "a disposition in a will.", "S": ["endowment", "inheritance"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 244593, "D": "soup, especially any thick soup made with cream.", "S": ["bouillon ", "chowder ", "porridge ", "puree "], "A": []}
+{"index": 244593, "D": "soup, especially any thick soup made with cream.", "S": ["bouillon", "chowder", "porridge", "puree"], "A": []}

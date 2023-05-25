@@ -1,1 +1,1 @@
-{"index": 42532, "D": "a small metal projectile, part of a cartridge, for firing from small arms.", "S": ["dart ", "dash ", "hurry ", "whip ", "wipe "], "A": ["decelerate ", "slow ", "walk "]}
+{"index": 42532, "D": "a small metal projectile, part of a cartridge, for firing from small arms.", "S": ["dart", "dash", "hurry", "whip", "wipe"], "A": ["decelerate", "slow", "walk"]}

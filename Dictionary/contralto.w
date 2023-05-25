@@ -1,1 +1,1 @@
-{"index": 67654, "D": "the lowest female voice or voice part, intermediate between soprano and tenor.", "S": ["deep ", "low "], "A": []}
+{"index": 67654, "D": "the lowest female voice or voice part, intermediate between soprano and tenor.", "S": ["deep", "low"], "A": []}

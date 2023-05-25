@@ -1,1 +1,1 @@
-{"index": 301133, "D": "fitted with a spout", "S": ["gush "], "A": ["collect ", "conceal ", "gather ", "hide ", "take in "]}
+{"index": 301133, "D": "fitted with a spout", "S": ["gush"], "A": ["collect", "conceal", "gather", "hide", "take in"]}

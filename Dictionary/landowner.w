@@ -1,1 +1,1 @@
-{"index": 167999, "D": "an owner  or proprietor of land. ", "S": ["banker ", "entrepreneur ", "financier "], "A": ["communist "]}
+{"index": 167999, "D": "an owner  or proprietor of land. ", "S": ["banker", "entrepreneur", "financier"], "A": ["communist"]}

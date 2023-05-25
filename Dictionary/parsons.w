@@ -1,1 +1,1 @@
-{"index": 226925, "D": "U.S. sociologist and author.", "S": ["chaplain ", "ecclesiastic ", "minister ", "padre ", "pastor ", "preacher ", "priest ", "rector ", "reverend ", "vicar "], "A": []}
+{"index": 226925, "D": "U.S. sociologist and author.", "S": ["chaplain", "ecclesiastic", "minister", "padre", "pastor", "preacher", "priest", "rector", "reverend", "vicar"], "A": []}

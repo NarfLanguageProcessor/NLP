@@ -1,1 +1,1 @@
-{"index": 232052, "D": "to prevail on (a person) to do something, as by advising or urging", "S": ["allured ", "impelled ", "influenced ", "inveigled ", "led ", "lured ", "motivated ", "seduced ", "wheedled "], "A": []}
+{"index": 232052, "D": "to prevail on (a person) to do something, as by advising or urging", "S": ["allured", "impelled", "influenced", "inveigled", "led", "lured", "motivated", "seduced", "wheedled"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 96249, "D": "pertaining to or of the nature of egoism. ", "S": ["egocentric ", "egoistical ", "self-centered "], "A": []}
+{"index": 96249, "D": "pertaining to or of the nature of egoism. ", "S": ["egocentric", "egoistical", "self-centered"], "A": []}

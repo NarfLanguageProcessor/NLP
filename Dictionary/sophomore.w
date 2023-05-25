@@ -1,1 +1,1 @@
-{"index": 297441, "D": "a student in the second year of high school or college.", "S": ["inexperienced "], "A": ["experienced ", "initiated ", "mature ", "sophisticated "]}
+{"index": 297441, "D": "a student in the second year of high school or college.", "S": ["inexperienced"], "A": ["experienced", "initiated", "mature", "sophisticated"]}

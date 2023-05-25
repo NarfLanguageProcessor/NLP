@@ -1,1 +1,1 @@
-{"index": 16872, "D": "mouthed but not spoken; noiseless; silent.", "S": ["dumb ", "inarticulate ", "mute ", "silent ", "speechless ", "unarticulate "], "A": []}
+{"index": 16872, "D": "mouthed but not spoken; noiseless; silent.", "S": ["dumb", "inarticulate", "mute", "silent", "speechless", "unarticulate"], "A": []}

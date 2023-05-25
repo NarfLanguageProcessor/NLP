@@ -1,1 +1,1 @@
-{"index": 125036, "D": "a building or room designed and equipped for indoor sports, exercise, or physical education.", "S": ["amphitheater ", "gym ", "rink ", "stadium ", "theater "], "A": []}
+{"index": 125036, "D": "a building or room designed and equipped for indoor sports, exercise, or physical education.", "S": ["amphitheater", "gym", "rink", "stadium", "theater"], "A": []}

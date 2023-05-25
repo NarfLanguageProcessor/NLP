@@ -1,1 +1,1 @@
-{"index": 295733, "D": "to breathe during sleep with hoarse or harsh sounds caused by the vibrating of the soft palate.", "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}
+{"index": 295733, "D": "to breathe during sleep with hoarse or harsh sounds caused by the vibrating of the soft palate.", "S": ["comatose", "dormant"], "A": ["attentive", "awake", "conscious"]}

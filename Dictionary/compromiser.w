@@ -1,1 +1,1 @@
-{"index": 64902, "D": "a settlement of differences by mutual concessions; an agreement reached by adjustment of conflicting or opposing claims, principles, etc., by reciprocal modification of demands.", "S": ["arbitrator ", "judge ", "ref ", "referee ", "ump "], "A": []}
+{"index": 64902, "D": "a settlement of differences by mutual concessions; an agreement reached by adjustment of conflicting or opposing claims, principles, etc., by reciprocal modification of demands.", "S": ["arbitrator", "judge", "ref", "referee", "ump"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 94799, "D": "ear-piercing", "S": ["blaring ", "deafening ", "noisy ", "piercing ", "ringing ", "shrill ", "thunderous "], "A": ["low ", "soft "]}
+{"index": 94799, "D": "ear-piercing", "S": ["blaring", "deafening", "noisy", "piercing", "ringing", "shrill", "thunderous"], "A": ["low", "soft"]}

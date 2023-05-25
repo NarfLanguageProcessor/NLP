@@ -1,1 +1,1 @@
-{"index": 77640, "D": "a blow  causing death. ", "S": ["coup de grace ", "decisive stroke ", "finishing blow "], "A": []}
+{"index": 77640, "D": "a blow  causing death. ", "S": ["coup de grace", "decisive stroke", "finishing blow"], "A": []}

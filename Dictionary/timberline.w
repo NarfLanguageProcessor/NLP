@@ -1,1 +1,1 @@
-{"index": 323710, "D": "the altitude above sea level at which timber  ceases to grow.", "S": ["tree zone ", "upper reaches ", "upper slopes "], "A": []}
+{"index": 323710, "D": "the altitude above sea level at which timber  ceases to grow.", "S": ["tree zone", "upper reaches", "upper slopes"], "A": []}

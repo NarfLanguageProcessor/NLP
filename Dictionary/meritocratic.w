@@ -1,1 +1,0 @@
-{"index": 183846, "D": "based on ability and talent rather than class, privilege, or wealth", "S": [], "A": []}

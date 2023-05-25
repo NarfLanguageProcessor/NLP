@@ -1,1 +1,1 @@
-{"index": 149057, "D": [], "S": ["administrator ", "contractor ", "executive ", "manager ", "producer "], "A": ["employee "]}
+{"index": 149057, "D": [], "S": ["administrator", "contractor", "executive", "manager", "producer"], "A": ["employee"]}

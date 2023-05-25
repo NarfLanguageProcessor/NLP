@@ -1,1 +1,1 @@
-{"index": 118373, "D": "a person who creates a monster or a destructive agency that cannot be controlled or that brings about the creator's ruin.", "S": ["behemoth ", "freak ", "giant ", "whale "], "A": ["angel ", "god "]}
+{"index": 118373, "D": "a person who creates a monster or a destructive agency that cannot be controlled or that brings about the creator's ruin.", "S": ["behemoth", "freak", "giant", "whale"], "A": ["angel", "god"]}

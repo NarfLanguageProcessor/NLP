@@ -1,1 +1,1 @@
-{"index": 257789, "D": "a landing place, especially one of solid masonry, constructed along the edge of a body of water; wharf.", "S": ["berth ", "jetty ", "key ", "landing ", "levee ", "slip ", "wharf "], "A": []}
+{"index": 257789, "D": "a landing place, especially one of solid masonry, constructed along the edge of a body of water; wharf.", "S": ["berth", "jetty", "key", "landing", "levee", "slip", "wharf"], "A": []}

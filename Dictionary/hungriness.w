@@ -1,1 +1,1 @@
-{"index": 145158, "D": "having a desire, craving, or need for food; feeling hunger. ", "S": ["craving ", "desire ", "famine ", "greed ", "longing ", "lust ", "starvation ", "yearning "], "A": ["disgust ", "dislike ", "distaste ", "hate ", "hatred ", "fill ", "fullness "]}
+{"index": 145158, "D": "having a desire, craving, or need for food; feeling hunger. ", "S": ["craving", "desire", "famine", "greed", "longing", "lust", "starvation", "yearning"], "A": ["disgust", "dislike", "distaste", "hate", "hatred", "fill", "fullness"]}

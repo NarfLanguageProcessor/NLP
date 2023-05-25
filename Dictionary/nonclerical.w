@@ -1,1 +1,1 @@
-{"index": 201984, "D": "of, pertaining to, appropriate for, or assigned to an office clerk  or clerks", "S": ["secular "], "A": ["ordained ", "professional "]}
+{"index": 201984, "D": "of, pertaining to, appropriate for, or assigned to an office clerk  or clerks", "S": ["secular"], "A": ["ordained", "professional"]}

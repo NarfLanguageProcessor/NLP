@@ -1,0 +1,1 @@
+{"index": 4070, "D": "a person or thing that adjusts. ", "S": ["dial", "knob", "switch"], "A": []}

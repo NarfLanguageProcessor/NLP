@@ -1,1 +1,1 @@
-{"index": 71513, "D": "wrongfully or inordinately desired", "S": ["crave ", "envy ", "lust after "], "A": ["dislike ", "hate "]}
+{"index": 71513, "D": "wrongfully or inordinately desired", "S": ["crave", "envy", "lust after"], "A": ["dislike", "hate"]}

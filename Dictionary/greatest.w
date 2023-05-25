@@ -1,1 +1,1 @@
-{"index": 129451, "D": "the superlative of great", "S": ["attractive ", "commendable ", "excellent ", "exquisite ", "great ", "laudable ", "praiseworthy ", "unreal ", "valuable ", "wonderful "], "A": ["bad ", "imperfect ", "inferior ", "unimportant ", "unworthy "]}
+{"index": 129451, "D": "the superlative of great", "S": ["attractive", "commendable", "excellent", "exquisite", "great", "laudable", "praiseworthy", "unreal", "valuable", "wonderful"], "A": ["bad", "imperfect", "inferior", "unimportant", "unworthy"]}

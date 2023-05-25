@@ -1,1 +1,1 @@
-{"index": 114301, "D": "a shabby public place, especially a run-down movie theater. ", "S": ["cinema ", "movie house ", "multiplex "], "A": []}
+{"index": 114301, "D": "a shabby public place, especially a run-down movie theater. ", "S": ["cinema", "movie house", "multiplex"], "A": []}

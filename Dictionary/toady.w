@@ -1,1 +1,1 @@
-{"index": 324875, "D": "an obsequious flatterer; sycophant.", "S": ["adulator ", "ass-kisser ", "bootlicker ", "doormat ", "fan ", "fawner ", "flatterer ", "flunky ", "groupie ", "hanger-on ", "lackey ", "minion "], "A": []}
+{"index": 324875, "D": "an obsequious flatterer; sycophant.", "S": ["adulator", "ass-kisser", "bootlicker", "doormat", "fan", "fawner", "flatterer", "flunky", "groupie", "hanger-on", "lackey", "minion"], "A": []}

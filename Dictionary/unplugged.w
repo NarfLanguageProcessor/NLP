@@ -1,1 +1,1 @@
-{"index": 348071, "D": "Eric Clapton unplugged; an unplugged version of the song", "S": ["accessible ", "clear ", "free ", "susceptible ", "wide "], "A": ["hindered ", "limited ", "restricted ", "concealed "]}
+{"index": 348071, "D": "Eric Clapton unplugged; an unplugged version of the song", "S": ["accessible", "clear", "free", "susceptible", "wide"], "A": ["hindered", "limited", "restricted", "concealed"]}

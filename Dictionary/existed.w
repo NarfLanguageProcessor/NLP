@@ -1,1 +1,1 @@
-{"index": 107247, "D": "to have actual being; be", "S": ["continue ", "endure ", "happen ", "lie ", "live ", "occur ", "prevail ", "remain ", "stand ", "stay ", "survive "], "A": ["cease ", "depart ", "die ", "discontinue ", "go ", "leave ", "stop "]}
+{"index": 107247, "D": "to have actual being; be", "S": ["continue", "endure", "happen", "lie", "live", "occur", "prevail", "remain", "stand", "stay", "survive"], "A": ["cease", "depart", "die", "discontinue", "go", "leave", "stop"]}

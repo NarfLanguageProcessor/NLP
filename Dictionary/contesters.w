@@ -1,1 +1,1 @@
-{"index": 67414, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": ["aspirant ", "candidate ", "challenger ", "contender ", "entrant ", "participant "], "A": ["fan ", "spectator ", "ally ", "supporter "]}
+{"index": 67414, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": ["aspirant", "candidate", "challenger", "contender", "entrant", "participant"], "A": ["fan", "spectator", "ally", "supporter"]}

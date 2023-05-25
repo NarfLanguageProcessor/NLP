@@ -1,1 +1,1 @@
-{"index": 51224, "D": "waxlike; waxy", "S": ["lustrous "], "A": ["unimpressionable "]}
+{"index": 51224, "D": "waxlike; waxy", "S": ["lustrous"], "A": ["unimpressionable"]}

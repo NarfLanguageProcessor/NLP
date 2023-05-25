@@ -1,1 +1,1 @@
-{"index": 90719, "D": "to shake; tremble; totter.", "S": ["quiver ", "shiver ", "shudder ", "stagger ", "sway ", "teeter ", "totter ", "tremble ", "wobble "], "A": ["steady "]}
+{"index": 90719, "D": "to shake; tremble; totter.", "S": ["quiver", "shiver", "shudder", "stagger", "sway", "teeter", "totter", "tremble", "wobble"], "A": ["steady"]}

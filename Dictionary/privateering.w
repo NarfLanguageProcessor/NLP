@@ -1,1 +1,0 @@
-{"index": 250840, "D": "an armed ship that is privately  owned and manned, commissioned by a government to fight or harass enemy ships.", "S": [], "A": []}

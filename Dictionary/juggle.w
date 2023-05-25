@@ -1,1 +1,1 @@
-{"index": 162145, "D": "to keep (several objects, as balls, plates, tenpins, or knives) in continuous motion in the air simultaneously by tossing and catching.", "S": ["alter ", "shuffle "], "A": ["leave alone ", "neglect ", "reveal "]}
+{"index": 162145, "D": "to keep (several objects, as balls, plates, tenpins, or knives) in continuous motion in the air simultaneously by tossing and catching.", "S": ["alter", "shuffle"], "A": ["leave alone", "neglect", "reveal"]}

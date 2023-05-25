@@ -1,1 +1,1 @@
-{"index": 158428, "D": "not reverent; manifesting or characterized by irreverence;  deficient in veneration or respect", "S": ["cheeky ", "derisive ", "flippant ", "mocking ", "profane ", "rude ", "tongue-in-cheek "], "A": ["respectful "]}
+{"index": 158428, "D": "not reverent; manifesting or characterized by irreverence;  deficient in veneration or respect", "S": ["cheeky", "derisive", "flippant", "mocking", "profane", "rude", "tongue-in-cheek"], "A": ["respectful"]}

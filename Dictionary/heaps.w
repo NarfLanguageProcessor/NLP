@@ -1,1 +1,1 @@
-{"index": 134792, "D": "a group of things placed, thrown, or lying one on another; pile", "S": ["enough "], "A": ["little "]}
+{"index": 134792, "D": "a group of things placed, thrown, or lying one on another; pile", "S": ["enough"], "A": ["little"]}

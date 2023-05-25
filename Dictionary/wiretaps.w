@@ -1,1 +1,1 @@
-{"index": 366376, "D": "an act or instance of tapping telephone or telegraph wires for evidence or other information.", "S": ["care ", "control ", "examination ", "inspection ", "scrutiny ", "supervision ", "vigilance "], "A": ["carelessness ", "ignorance ", "neglect ", "negligence "]}
+{"index": 366376, "D": "an act or instance of tapping telephone or telegraph wires for evidence or other information.", "S": ["care", "control", "examination", "inspection", "scrutiny", "supervision", "vigilance"], "A": ["carelessness", "ignorance", "neglect", "negligence"]}

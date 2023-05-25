@@ -1,1 +1,1 @@
-{"index": 13971, "D": "a spoken or written reply or response to a question, request, letter, etc.", "S": ["analogous ", "comparable ", "reciprocal "], "A": ["dissimilar ", "unalike ", "unlike ", "different "]}
+{"index": 13971, "D": "a spoken or written reply or response to a question, request, letter, etc.", "S": ["analogous", "comparable", "reciprocal"], "A": ["dissimilar", "unalike", "unlike", "different"]}

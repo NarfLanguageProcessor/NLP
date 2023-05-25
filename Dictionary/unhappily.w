@@ -1,1 +1,1 @@
-{"index": 343496, "D": "sad; miserable; wretched", "S": ["sadly "], "A": ["blithely ", "happily ", "luckily ", "merrily "]}
+{"index": 343496, "D": "sad; miserable; wretched", "S": ["sadly"], "A": ["blithely", "happily", "luckily", "merrily"]}

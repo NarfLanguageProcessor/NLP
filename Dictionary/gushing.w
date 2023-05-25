@@ -1,1 +1,1 @@
-{"index": 131538, "D": "flowing out suddenly, forcefully, or in large volume, as fluid that has been confined", "S": ["spouting "], "A": []}
+{"index": 131538, "D": "flowing out suddenly, forcefully, or in large volume, as fluid that has been confined", "S": ["spouting"], "A": []}

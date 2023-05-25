@@ -1,1 +1,1 @@
-{"index": 65418, "D": "an agreement or compact, especially an official one.", "S": ["covenant ", "pact "], "A": ["disagreement ", "discord ", "misunderstanding "]}
+{"index": 65418, "D": "an agreement or compact, especially an official one.", "S": ["covenant", "pact"], "A": ["disagreement", "discord", "misunderstanding"]}

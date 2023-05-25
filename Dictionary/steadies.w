@@ -1,1 +1,1 @@
-{"index": 303237, "D": "firmly placed or fixed; stable in position or equilibrium", "S": ["admirer ", "boyfriend ", "companion ", "girlfriend ", "suitor ", "sweetheart "], "A": []}
+{"index": 303237, "D": "firmly placed or fixed; stable in position or equilibrium", "S": ["admirer", "boyfriend", "companion", "girlfriend", "suitor", "sweetheart"], "A": []}

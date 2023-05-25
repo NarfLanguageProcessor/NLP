@@ -1,1 +1,1 @@
-{"index": 333014, "D": "(in certain animals) a tooth developed to great length, usually one of a pair, as in the elephant, walrus, and wild boar, but singly in the narwhal.", "S": ["choppers ", "fangs ", "tooth "], "A": []}
+{"index": 333014, "D": "(in certain animals) a tooth developed to great length, usually one of a pair, as in the elephant, walrus, and wild boar, but singly in the narwhal.", "S": ["choppers", "fangs", "tooth"], "A": []}

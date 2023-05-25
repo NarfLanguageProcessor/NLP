@@ -1,1 +1,1 @@
-{"index": 149868, "D": "beginning to exist or appear; in an initial stage", "S": ["basically ", "formerly "], "A": []}
+{"index": 149868, "D": "beginning to exist or appear; in an initial stage", "S": ["basically", "formerly"], "A": []}

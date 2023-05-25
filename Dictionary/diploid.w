@@ -1,1 +1,1 @@
-{"index": 86557, "D": "double; twofold.", "S": ["amphibian ", "binary "], "A": []}
+{"index": 86557, "D": "double; twofold.", "S": ["amphibian", "binary"], "A": []}

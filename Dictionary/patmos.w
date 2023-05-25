@@ -1,1 +1,0 @@
-{"index": 227835, "D": "one of the Dodecanese Islands, off the southwestern coast of Asia Minor", "S": [], "A": []}

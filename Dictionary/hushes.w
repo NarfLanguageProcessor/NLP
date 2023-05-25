@@ -1,1 +1,1 @@
-{"index": 145337, "D": "(used as a command to be silent or quiet.)", "S": ["stillness "], "A": ["agitation ", "disturbance ", "noise ", "turbulence ", "violence "]}
+{"index": 145337, "D": "(used as a command to be silent or quiet.)", "S": ["stillness"], "A": ["agitation", "disturbance", "noise", "turbulence", "violence"]}

@@ -1,1 +1,1 @@
-{"index": 317484, "D": "a number of persons forming one of the sides in a game or contest", "S": ["combine ", "marry ", "mate "], "A": ["disconnect ", "disjoin ", "divide ", "separate "]}
+{"index": 317484, "D": "a number of persons forming one of the sides in a game or contest", "S": ["combine", "marry", "mate"], "A": ["disconnect", "disjoin", "divide", "separate"]}

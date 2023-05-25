@@ -1,1 +1,1 @@
-{"index": 12230, "D": "of or in time long past, especially before the end of the Western Roman Empire a.d. 476", "S": ["citizen ", "inhabitant ", "national "], "A": ["alien ", "foreigner ", "immigrant ", "stranger "]}
+{"index": 12230, "D": "of or in time long past, especially before the end of the Western Roman Empire a.d. 476", "S": ["citizen", "inhabitant", "national"], "A": ["alien", "foreigner", "immigrant", "stranger"]}

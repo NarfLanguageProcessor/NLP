@@ -1,1 +1,1 @@
-{"index": 302082, "D": "soft and wet", "S": ["flabby ", "fleshy ", "mushy ", "spongy "], "A": ["hard ", "thin "]}
+{"index": 302082, "D": "soft and wet", "S": ["flabby", "fleshy", "mushy", "spongy"], "A": ["hard", "thin"]}

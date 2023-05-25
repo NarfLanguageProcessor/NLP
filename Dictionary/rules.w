@@ -1,1 +1,1 @@
-{"index": 275467, "D": "short for Australian Rules", "S": ["customs ", "established ways ", "etiquette ", "method ", "mode ", "practice ", "regulations ", "system ", "traditional action "], "A": []}
+{"index": 275467, "D": "short for Australian Rules", "S": ["customs", "established ways", "etiquette", "method", "mode", "practice", "regulations", "system", "traditional action"], "A": []}

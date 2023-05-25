@@ -1,1 +1,1 @@
-{"index": 100570, "D": "resembling an enigma,  or a puzzling occurrence, situation, statement, person, etc.; perplexing; mysterious", "S": ["ambiguous ", "cryptic ", "obscure "], "A": ["clear ", "explicit ", "obvious "]}
+{"index": 100570, "D": "resembling an enigma,  or a puzzling occurrence, situation, statement, person, etc.; perplexing; mysterious", "S": ["ambiguous", "cryptic", "obscure"], "A": ["clear", "explicit", "obvious"]}

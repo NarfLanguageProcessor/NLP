@@ -1,1 +1,1 @@
-{"index": 132342, "D": "a pellet of hail.", "S": ["chunk ", "crystal ", "diamonds ", "floe ", "glacier ", "glaze ", "hail ", "iceberg ", "icicle ", "permafrost ", "sleet "], "A": ["water "]}
+{"index": 132342, "D": "a pellet of hail.", "S": ["chunk", "crystal", "diamonds", "floe", "glacier", "glaze", "hail", "iceberg", "icicle", "permafrost", "sleet"], "A": ["water"]}

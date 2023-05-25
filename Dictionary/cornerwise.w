@@ -1,1 +1,1 @@
-{"index": 69278, "D": "with the corner  in front.", "S": ["sideways "], "A": []}
+{"index": 69278, "D": "with the corner  in front.", "S": ["sideways"], "A": []}

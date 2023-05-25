@@ -1,1 +1,1 @@
-{"index": 359969, "D": "the wine from a particular harvest or crop.", "S": ["best ", "choice ", "classic ", "classical ", "old ", "prime "], "A": ["modern ", "worst "]}
+{"index": 359969, "D": "the wine from a particular harvest or crop.", "S": ["best", "choice", "classic", "classical", "old", "prime"], "A": ["modern", "worst"]}

@@ -1,1 +1,1 @@
-{"index": 94054, "D": [], "S": ["cut off ", "gag ", "muffle ", "mute ", "muzzle ", "quash ", "quell ", "squelch ", "stifle ", "subdue ", "suppress "], "A": ["allow ", "encourage ", "help ", "let go ", "permit ", "release ", "start "]}
+{"index": 94054, "D": [], "S": ["cut off", "gag", "muffle", "mute", "muzzle", "quash", "quell", "squelch", "stifle", "subdue", "suppress"], "A": ["allow", "encourage", "help", "let go", "permit", "release", "start"]}

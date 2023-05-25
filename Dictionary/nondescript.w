@@ -1,1 +1,1 @@
-{"index": 202956, "D": "of no recognized, definite, or particular type or kind", "S": ["uninspiring ", "unremarkable "], "A": ["abnormal ", "extraordinary ", "uncommon "]}
+{"index": 202956, "D": "of no recognized, definite, or particular type or kind", "S": ["uninspiring", "unremarkable"], "A": ["abnormal", "extraordinary", "uncommon"]}

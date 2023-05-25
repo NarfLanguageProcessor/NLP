@@ -1,1 +1,1 @@
-{"index": 156380, "D": "to utter with a particular tone or voice modulation.", "S": ["articulate ", "chant ", "croon ", "recite ", "sing "], "A": []}
+{"index": 156380, "D": "to utter with a particular tone or voice modulation.", "S": ["articulate", "chant", "croon", "recite", "sing"], "A": []}

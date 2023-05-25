@@ -1,1 +1,1 @@
-{"index": 365450, "D": "evil or morally bad in principle or practice; sinful; iniquitous", "S": ["cruelly ", "viciously "], "A": ["decently ", "morally "]}
+{"index": 365450, "D": "evil or morally bad in principle or practice; sinful; iniquitous", "S": ["cruelly", "viciously"], "A": ["decently", "morally"]}

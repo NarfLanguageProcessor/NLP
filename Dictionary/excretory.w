@@ -1,1 +1,1 @@
-{"index": 106851, "D": "pertaining to or concerned in excretion; having the function of excreting", "S": ["aperient ", "cathartic ", "eliminatory ", "evacuant ", "evacuative ", "expulsive ", "purgative "], "A": []}
+{"index": 106851, "D": "pertaining to or concerned in excretion; having the function of excreting", "S": ["aperient", "cathartic", "eliminatory", "evacuant", "evacuative", "expulsive", "purgative"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 244550, "D": "speech or action that is artificial, hypocritical, or calculated to mislead", "S": ["affected ", "arch ", "avant-garde ", "in ", "mod ", "pop ", "wild "], "A": ["approved ", "boring ", "common ", "customary ", "normal ", "ordinary ", "standard "]}
+{"index": 244550, "D": "speech or action that is artificial, hypocritical, or calculated to mislead", "S": ["affected", "arch", "avant-garde", "in", "mod", "pop", "wild"], "A": ["approved", "boring", "common", "customary", "normal", "ordinary", "standard"]}

@@ -1,1 +1,1 @@
-{"index": 38372, "D": "the part or edge of a surface or area that forms its outer boundary.", "S": ["belted ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 38372, "D": "the part or edge of a surface or area that forms its outer boundary.", "S": ["belted", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

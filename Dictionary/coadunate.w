@@ -1,1 +1,1 @@
-{"index": 60891, "D": "united by growth.", "S": ["concerted ", "consolidated ", "cooperative ", "homogeneous ", "integrated ", "linked ", "unanimous ", "undivided ", "unified "], "A": ["divided ", "separate ", "uncoordinated "]}
+{"index": 60891, "D": "united by growth.", "S": ["concerted", "consolidated", "cooperative", "homogeneous", "integrated", "linked", "unanimous", "undivided", "unified"], "A": ["divided", "separate", "uncoordinated"]}

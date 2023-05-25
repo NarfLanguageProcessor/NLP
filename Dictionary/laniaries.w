@@ -1,1 +1,1 @@
-{"index": 168154, "D": "(of teeth) adapted for tearing.", "S": ["bicuspid ", "canine ", "cuspid ", "denticle ", "eyetooth ", "fang ", "grinder ", "incisor ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}
+{"index": 168154, "D": "(of teeth) adapted for tearing.", "S": ["bicuspid", "canine", "cuspid", "denticle", "eyetooth", "fang", "grinder", "incisor", "ivory", "molar", "premolar", "tusk"], "A": []}

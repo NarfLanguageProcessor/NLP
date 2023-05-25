@@ -1,1 +1,0 @@
-{"index": 178344, "D": "of or relating to the Maldives or their inhabitants", "S": [], "A": []}

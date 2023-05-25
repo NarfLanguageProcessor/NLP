@@ -1,1 +1,1 @@
-{"index": 130326, "D": "a twining, North American plant, Apios americana (or A. tuberosa), of the legume family, having clusters of fragrant brownish flowers and an edible tuber.", "S": ["earth ", "goober ", "seed "], "A": []}
+{"index": 130326, "D": "a twining, North American plant, Apios americana (or A. tuberosa), of the legume family, having clusters of fragrant brownish flowers and an edible tuber.", "S": ["earth", "goober", "seed"], "A": []}

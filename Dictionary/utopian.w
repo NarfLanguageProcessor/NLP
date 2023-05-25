@@ -1,1 +1,1 @@
-{"index": 356195, "D": "of, relating to, or resembling Utopia,  an idealized imaginary island described in Sir Thomas More's Utopia (1516).", "S": ["abstract ", "fanciful ", "grandiose ", "idealistic ", "illusory ", "lofty ", "quixotic ", "romantic "], "A": ["real ", "unromantic "]}
+{"index": 356195, "D": "of, relating to, or resembling Utopia,  an idealized imaginary island described in Sir Thomas More's Utopia (1516).", "S": ["abstract", "fanciful", "grandiose", "idealistic", "illusory", "lofty", "quixotic", "romantic"], "A": ["real", "unromantic"]}

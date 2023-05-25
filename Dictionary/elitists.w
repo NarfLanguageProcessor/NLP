@@ -1,1 +1,1 @@
-{"index": 97614, "D": "(of a person or class of persons) considered superior by others or by themselves, as in intellect, talent, power, wealth, or position in society", "S": ["highbrow ", "stiff "], "A": []}
+{"index": 97614, "D": "(of a person or class of persons) considered superior by others or by themselves, as in intellect, talent, power, wealth, or position in society", "S": ["highbrow", "stiff"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 324607, "D": "any of the offspring of the children of Uranus and Gaia.", "S": ["behemoth "], "A": []}
+{"index": 324607, "D": "any of the offspring of the children of Uranus and Gaia.", "S": ["behemoth"], "A": []}

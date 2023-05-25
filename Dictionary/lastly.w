@@ -1,1 +1,1 @@
-{"index": 168783, "D": "in conclusion; in the last place; finally.", "S": ["finally ", "last "], "A": ["firstly "]}
+{"index": 168783, "D": "in conclusion; in the last place; finally.", "S": ["finally", "last"], "A": ["firstly"]}

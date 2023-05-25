@@ -1,1 +1,1 @@
-{"index": 38657, "D": "a wine bag of Spain made of untanned goatskin and usually holding 1\u20132 liters (1.1\u20132.2 quarts).", "S": ["flask ", "water bottle "], "A": []}
+{"index": 38657, "D": "a wine bag of Spain made of untanned goatskin and usually holding 1\u20132 liters (1.1\u20132.2 quarts).", "S": ["flask", "water bottle"], "A": []}

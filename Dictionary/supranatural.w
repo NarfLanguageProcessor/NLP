@@ -1,1 +1,1 @@
-{"index": 313195, "D": "beyond what is natural;  supernatural.", "S": ["abstract ", "abstruse ", "esoteric ", "mystical ", "philosophical ", "spiritual ", "supernatural ", "theoretical "], "A": ["concrete ", "factual ", "obvious ", "physical ", "real "]}
+{"index": 313195, "D": "beyond what is natural;  supernatural.", "S": ["abstract", "abstruse", "esoteric", "mystical", "philosophical", "spiritual", "supernatural", "theoretical"], "A": ["concrete", "factual", "obvious", "physical", "real"]}

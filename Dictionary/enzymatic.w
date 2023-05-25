@@ -1,1 +1,1 @@
-{"index": 101902, "D": "of or relating to an enzyme. ", "S": ["synthetic "], "A": []}
+{"index": 101902, "D": "of or relating to an enzyme. ", "S": ["synthetic"], "A": []}

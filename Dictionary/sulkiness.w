@@ -1,1 +1,1 @@
-{"index": 310550, "D": "marked by or given to sulking;  sullen.", "S": ["anger ", "gloominess ", "glumness ", "sullenness "], "A": []}
+{"index": 310550, "D": "marked by or given to sulking;  sullen.", "S": ["anger", "gloominess", "glumness", "sullenness"], "A": []}

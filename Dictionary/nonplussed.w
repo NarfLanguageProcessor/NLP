@@ -1,1 +1,1 @@
-{"index": 206019, "D": "completely puzzled or perplexed by something unexpected", "S": ["dazed "], "A": ["clear ", "oriented ", "understanding "]}
+{"index": 206019, "D": "completely puzzled or perplexed by something unexpected", "S": ["dazed"], "A": ["clear", "oriented", "understanding"]}

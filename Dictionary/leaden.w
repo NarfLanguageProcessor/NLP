@@ -1,1 +1,1 @@
-{"index": 169514, "D": "inertly heavy like lead;  hard to lift or move", "S": ["galena ", "lead ", "pewter ", "plumbean ", "plumbic ", "plumbiferous ", "plumbous "], "A": []}
+{"index": 169514, "D": "inertly heavy like lead;  hard to lift or move", "S": ["galena", "lead", "pewter", "plumbean", "plumbic", "plumbiferous", "plumbous"], "A": []}

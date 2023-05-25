@@ -1,1 +1,1 @@
-{"index": 127912, "D": "possessions and personal property", "S": ["equipment ", "furnishings ", "furniture ", "property "], "A": []}
+{"index": 127912, "D": "possessions and personal property", "S": ["equipment", "furnishings", "furniture", "property"], "A": []}

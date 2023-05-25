@@ -1,1 +1,1 @@
-{"index": 252440, "D": "a formal or authoritative statement.", "S": ["advertisement ", "announcement ", "decree ", "edict ", "judgment ", "proclamation "], "A": ["concealment "]}
+{"index": 252440, "D": "a formal or authoritative statement.", "S": ["advertisement", "announcement", "decree", "edict", "judgment", "proclamation"], "A": ["concealment"]}

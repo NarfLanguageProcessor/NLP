@@ -1,1 +1,1 @@
-{"index": 116858, "D": "sexual stimulation of one's partner, usually as a prelude to sexual intercourse.", "S": ["kissing "], "A": []}
+{"index": 116858, "D": "sexual stimulation of one's partner, usually as a prelude to sexual intercourse.", "S": ["kissing"], "A": []}

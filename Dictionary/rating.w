@@ -1,1 +1,1 @@
-{"index": 261041, "D": "classification according to grade or rank.", "S": ["appraisal ", "assessment ", "category ", "valuation "], "A": []}
+{"index": 261041, "D": "classification according to grade or rank.", "S": ["appraisal", "assessment", "category", "valuation"], "A": []}

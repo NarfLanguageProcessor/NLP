@@ -1,1 +1,1 @@
-{"index": 126801, "D": "incandescent. ", "S": ["flaming ", "florid ", "flushed ", "gleaming ", "luminous ", "vibrant ", "vivid "], "A": ["dull ", "pale ", "pallid ", "sad ", "unhappy "]}
+{"index": 126801, "D": "incandescent. ", "S": ["flaming", "florid", "flushed", "gleaming", "luminous", "vibrant", "vivid"], "A": ["dull", "pale", "pallid", "sad", "unhappy"]}

@@ -1,1 +1,0 @@
-{"index": 343838, "D": "to divest of a hood  or covering.", "S": [], "A": []}

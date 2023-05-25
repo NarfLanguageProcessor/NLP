@@ -1,1 +1,1 @@
-{"index": 295773, "D": "the part of an animal's head projecting forward and containing the nose and jaws; muzzle.", "S": ["beak ", "nose ", "trunk "], "A": []}
+{"index": 295773, "D": "the part of an animal's head projecting forward and containing the nose and jaws; muzzle.", "S": ["beak", "nose", "trunk"], "A": []}

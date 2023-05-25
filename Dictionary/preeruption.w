@@ -1,1 +1,0 @@
-{"index": 247337, "D": "an issuing forth suddenly and violently; outburst; outbreak.", "S": [], "A": []}

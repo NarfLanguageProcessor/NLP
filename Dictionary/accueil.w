@@ -1,1 +1,1 @@
-{"index": 1801, "D": [], "S": ["cordial welcome ", "open arms ", "pleasant reception ", "welcome "], "A": []}
+{"index": 1801, "D": [], "S": ["cordial welcome", "open arms", "pleasant reception", "welcome"], "A": []}

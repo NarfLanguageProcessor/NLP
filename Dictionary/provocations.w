@@ -1,1 +1,1 @@
-{"index": 254122, "D": "the act of provoking. ", "S": ["affront ", "harassment ", "indignity ", "insult "], "A": ["compliment ", "discouragement ", "happiness ", "hindrance ", "pleasure ", "praise "]}
+{"index": 254122, "D": "the act of provoking. ", "S": ["affront", "harassment", "indignity", "insult"], "A": ["compliment", "discouragement", "happiness", "hindrance", "pleasure", "praise"]}

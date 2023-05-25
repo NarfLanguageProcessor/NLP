@@ -1,1 +1,1 @@
-{"index": 43515, "D": "kiss. ", "S": ["integrate "], "A": []}
+{"index": 43515, "D": "kiss. ", "S": ["integrate"], "A": []}

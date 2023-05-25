@@ -1,1 +1,1 @@
-{"index": 264931, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": ["copied ", "duplicated ", "imitated ", "recast ", "reciprocated ", "redone ", "reduplicated ", "remade ", "replicated ", "reproduced ", "reworked "], "A": []}
+{"index": 264931, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": ["copied", "duplicated", "imitated", "recast", "reciprocated", "redone", "reduplicated", "remade", "replicated", "reproduced", "reworked"], "A": []}

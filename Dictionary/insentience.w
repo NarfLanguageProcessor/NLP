@@ -1,1 +1,1 @@
-{"index": 153540, "D": "not sentient;  without sensation or feeling; inanimate.", "S": ["analgesia "], "A": []}
+{"index": 153540, "D": "not sentient;  without sensation or feeling; inanimate.", "S": ["analgesia"], "A": []}

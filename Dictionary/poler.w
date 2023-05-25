@@ -1,1 +1,1 @@
-{"index": 241564, "D": "a person or thing that poles. ", "S": ["beam ", "flagpole ", "leg ", "mast ", "rod ", "stick "], "A": []}
+{"index": 241564, "D": "a person or thing that poles. ", "S": ["beam", "flagpole", "leg", "mast", "rod", "stick"], "A": []}

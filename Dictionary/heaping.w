@@ -1,1 +1,1 @@
-{"index": 134791, "D": "(of a spoonful) heaped", "S": ["full "], "A": []}
+{"index": 134791, "D": "(of a spoonful) heaped", "S": ["full"], "A": []}

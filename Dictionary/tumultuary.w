@@ -1,1 +1,0 @@
-{"index": 332349, "D": "tumultuous; turbulent.", "S": [], "A": []}

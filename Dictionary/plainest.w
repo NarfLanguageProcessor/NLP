@@ -1,1 +1,1 @@
-{"index": 238787, "D": "clear or distinct to the eye or ear", "S": ["transparent "], "A": ["ambiguous ", "concealed ", "unclear ", "vague "]}
+{"index": 238787, "D": "clear or distinct to the eye or ear", "S": ["transparent"], "A": ["ambiguous", "concealed", "unclear", "vague"]}

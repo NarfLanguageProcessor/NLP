@@ -1,1 +1,1 @@
-{"index": 302443, "D": "a flight of steps leading from one storey or level to another, esp indoors", "S": ["companionway ", "escalator ", "staircase ", "steps "], "A": []}
+{"index": 302443, "D": "a flight of steps leading from one storey or level to another, esp indoors", "S": ["companionway", "escalator", "staircase", "steps"], "A": []}

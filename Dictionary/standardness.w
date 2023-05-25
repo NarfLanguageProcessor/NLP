@@ -1,1 +1,1 @@
-{"index": 302668, "D": [], "S": ["normality ", "ordinariness ", "uniformity "], "A": []}
+{"index": 302668, "D": [], "S": ["normality", "ordinariness", "uniformity"], "A": []}

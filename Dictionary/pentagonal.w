@@ -1,1 +1,1 @@
-{"index": 229922, "D": "a polygon having five angles and five sides.", "S": ["quintuple "], "A": []}
+{"index": 229922, "D": "a polygon having five angles and five sides.", "S": ["quintuple"], "A": []}

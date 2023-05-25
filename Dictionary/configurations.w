@@ -1,1 +1,1 @@
-{"index": 65909, "D": "the relative disposition or arrangement of the parts or elements of a thing.", "S": ["composition ", "contour ", "shape ", "structure "], "A": ["disarrangement "]}
+{"index": 65909, "D": "the relative disposition or arrangement of the parts or elements of a thing.", "S": ["composition", "contour", "shape", "structure"], "A": ["disarrangement"]}

@@ -1,1 +1,1 @@
-{"index": 147159, "D": "to bark sharply, as a young dog.", "S": ["bay ", "growl ", "grunt ", "howl ", "roar ", "snarl ", "woof ", "yap "], "A": []}
+{"index": 147159, "D": "to bark sharply, as a young dog.", "S": ["bay", "growl", "grunt", "howl", "roar", "snarl", "woof", "yap"], "A": []}

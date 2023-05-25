@@ -1,1 +1,1 @@
-{"index": 359686, "D": "to speak ill of; defame; slander.", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "maligner ", "muckraker ", "nagger ", "quibbler ", "scolder ", "slanderer ", "worrier ", "zapper "], "A": []}
+{"index": 359686, "D": "to speak ill of; defame; slander.", "S": ["attacker", "carper", "caviler", "censor", "complainant", "complainer", "defamer", "disparager", "doubter", "maligner", "muckraker", "nagger", "quibbler", "scolder", "slanderer", "worrier", "zapper"], "A": []}

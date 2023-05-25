@@ -1,1 +1,1 @@
-{"index": 275612, "D": "to go quickly by moving the legs more rapidly than at a walk and in such a manner that for an instant in each step all or both feet are off the ground.", "S": ["break ", "race ", "rush ", "spurt "], "A": ["continuity "]}
+{"index": 275612, "D": "to go quickly by moving the legs more rapidly than at a walk and in such a manner that for an instant in each step all or both feet are off the ground.", "S": ["break", "race", "rush", "spurt"], "A": ["continuity"]}

@@ -1,1 +1,1 @@
-{"index": 163797, "D": "a Japanese form of fencing using bamboo staves, with the contestants wearing head guards and protective garments.", "S": ["judo ", "karate ", "wrestling "], "A": []}
+{"index": 163797, "D": "a Japanese form of fencing using bamboo staves, with the contestants wearing head guards and protective garments.", "S": ["judo", "karate", "wrestling"], "A": []}

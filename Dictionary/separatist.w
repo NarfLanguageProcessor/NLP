@@ -1,1 +1,1 @@
-{"index": 285560, "D": "a person who separates,  withdraws, or secedes, as from an established church.", "S": ["dissident ", "protester ", "rebel "], "A": []}
+{"index": 285560, "D": "a person who separates,  withdraws, or secedes, as from an established church.", "S": ["dissident", "protester", "rebel"], "A": []}

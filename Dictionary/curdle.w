@@ -1,1 +1,1 @@
-{"index": 75253, "D": "to change into curd;  coagulate; congeal.", "S": ["acerbate ", "acidify ", "acidulate ", "clabber ", "clot ", "coagulate ", "condense ", "congeal ", "ferment ", "spoil ", "thicken ", "turn "], "A": []}
+{"index": 75253, "D": "to change into curd;  coagulate; congeal.", "S": ["acerbate", "acidify", "acidulate", "clabber", "clot", "coagulate", "condense", "congeal", "ferment", "spoil", "thicken", "turn"], "A": []}

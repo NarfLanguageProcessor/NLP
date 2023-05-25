@@ -1,1 +1,0 @@
-{"index": 241827, "D": "living in more than one nest, as certain ant colonies.", "S": [], "A": []}

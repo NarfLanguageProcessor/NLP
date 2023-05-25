@@ -1,1 +1,1 @@
-{"index": 169061, "D": "being the second mentioned of two (distinguished from former)", "S": ["recent "], "A": ["beginning ", "first ", "initial ", "introductory ", "opening ", "starting "]}
+{"index": 169061, "D": "being the second mentioned of two (distinguished from former)", "S": ["recent"], "A": ["beginning", "first", "initial", "introductory", "opening", "starting"]}

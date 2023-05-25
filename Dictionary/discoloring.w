@@ -1,1 +1,1 @@
-{"index": 87429, "D": "to change or spoil the color of; fade or stain.", "S": ["defile ", "rust ", "sully "], "A": ["clean "]}
+{"index": 87429, "D": "to change or spoil the color of; fade or stain.", "S": ["defile", "rust", "sully"], "A": ["clean"]}

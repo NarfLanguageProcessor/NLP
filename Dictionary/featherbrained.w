@@ -1,1 +1,1 @@
-{"index": 110652, "D": "a foolish or giddy person; scatterbrain.", "S": ["brainless ", "empty-headed ", "flighty ", "foolish ", "giddy ", "silly ", "simple "], "A": []}
+{"index": 110652, "D": "a foolish or giddy person; scatterbrain.", "S": ["brainless", "empty-headed", "flighty", "foolish", "giddy", "silly", "simple"], "A": []}

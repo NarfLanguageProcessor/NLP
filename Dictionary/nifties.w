@@ -1,1 +1,0 @@
-{"index": 199846, "D": "attractively stylish or smart", "S": ["adept ", "expert ", "fine ", "super "], "A": []}

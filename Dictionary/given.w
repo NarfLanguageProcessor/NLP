@@ -1,1 +1,1 @@
-{"index": 125699, "D": "past participle of give. ", "S": ["accustomed ", "addicted ", "disposed ", "habituated ", "inclined ", "inured ", "obsessed "], "A": ["unaccustomed "]}
+{"index": 125699, "D": "past participle of give. ", "S": ["accustomed", "addicted", "disposed", "habituated", "inclined", "inured", "obsessed"], "A": ["unaccustomed"]}

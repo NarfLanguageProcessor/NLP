@@ -1,1 +1,1 @@
-{"index": 98453, "D": "coming into view or notice; issuing.", "S": ["appearing ", "budding ", "coming ", "developing ", "efflorescent ", "emanant ", "emanating ", "issuing forth ", "outgoing ", "rising "], "A": ["declining ", "dependent "]}
+{"index": 98453, "D": "coming into view or notice; issuing.", "S": ["appearing", "budding", "coming", "developing", "efflorescent", "emanant", "emanating", "issuing forth", "outgoing", "rising"], "A": ["declining", "dependent"]}

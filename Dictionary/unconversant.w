@@ -1,1 +1,1 @@
-{"index": 337929, "D": "familiar by use or study (usually followed by with)", "S": ["fresh ", "new ", "raw "], "A": ["experienced ", "old ", "worn ", "mature "]}
+{"index": 337929, "D": "familiar by use or study (usually followed by with)", "S": ["fresh", "new", "raw"], "A": ["experienced", "old", "worn", "mature"]}

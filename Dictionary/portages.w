@@ -1,1 +1,1 @@
-{"index": 243578, "D": "the act of carrying; carriage.", "S": ["consignment ", "distribution ", "shipment ", "transmission "], "A": ["capture ", "confinement ", "hold ", "imprisonment ", "keeping ", "quiet ", "restraint ", "retention ", "secrecy "]}
+{"index": 243578, "D": "the act of carrying; carriage.", "S": ["consignment", "distribution", "shipment", "transmission"], "A": ["capture", "confinement", "hold", "imprisonment", "keeping", "quiet", "restraint", "retention", "secrecy"]}

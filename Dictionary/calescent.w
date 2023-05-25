@@ -1,1 +1,1 @@
-{"index": 45040, "D": "growing warm; increasing in heat.", "S": ["blazing ", "boiling ", "heated ", "humid ", "red ", "scorching ", "sizzling ", "sultry ", "sweltering ", "torrid ", "tropical ", "warm ", "white "], "A": ["arctic ", "cold ", "cool ", "dry ", "freezing ", "frigid "]}
+{"index": 45040, "D": "growing warm; increasing in heat.", "S": ["blazing", "boiling", "heated", "humid", "red", "scorching", "sizzling", "sultry", "sweltering", "torrid", "tropical", "warm", "white"], "A": ["arctic", "cold", "cool", "dry", "freezing", "frigid"]}

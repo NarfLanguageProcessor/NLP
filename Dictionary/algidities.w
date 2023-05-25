@@ -1,0 +1,1 @@
+{"index": 8091, "D": "cold; chilly.", "S": ["chill", "snow"], "A": ["heat", "warmth"]}

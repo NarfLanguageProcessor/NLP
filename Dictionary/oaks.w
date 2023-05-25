@@ -1,1 +1,1 @@
-{"index": 209876, "D": "a horse race for fillies held annually at Epsom since 1779", "S": ["bobber ", "close ", "float ", "phellem ", "plug ", "seal ", "spike ", "stop ", "stopper ", "stopple "], "A": ["beginning ", "opening ", "start "]}
+{"index": 209876, "D": "a horse race for fillies held annually at Epsom since 1779", "S": ["bobber", "close", "float", "phellem", "plug", "seal", "spike", "stop", "stopper", "stopple"], "A": ["beginning", "opening", "start"]}

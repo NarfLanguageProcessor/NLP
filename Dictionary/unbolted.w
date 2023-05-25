@@ -1,1 +1,1 @@
-{"index": 336049, "D": "not fastened or secured, as with a bolt  or bolts. ", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}
+{"index": 336049, "D": "not fastened or secured, as with a bolt  or bolts. ", "S": ["baggy", "lax", "relaxed", "sloppy"], "A": ["strict", "tight", "hindered", "rigid", "stiff"]}

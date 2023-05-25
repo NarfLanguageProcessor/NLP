@@ -1,1 +1,1 @@
-{"index": 68235, "D": "a building or place for cooking,  especially a camp kitchen.", "S": ["cookshack ", "lunch wagon "], "A": []}
+{"index": 68235, "D": "a building or place for cooking,  especially a camp kitchen.", "S": ["cookshack", "lunch wagon"], "A": []}

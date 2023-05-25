@@ -1,1 +1,1 @@
-{"index": 59102, "D": [], "S": ["augury ", "horoscopy ", "occultism ", "palmistry ", "prediction ", "premonition ", "prognostication ", "prophecy ", "soothsaying "], "A": []}
+{"index": 59102, "D": [], "S": ["augury", "horoscopy", "occultism", "palmistry", "prediction", "premonition", "prognostication", "prophecy", "soothsaying"], "A": []}

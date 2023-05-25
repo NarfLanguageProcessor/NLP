@@ -1,1 +1,1 @@
-{"index": 200500, "D": "resembling snow, especially in whiteness; snowy.", "S": ["stormy ", "wintry "], "A": []}
+{"index": 200500, "D": "resembling snow, especially in whiteness; snowy.", "S": ["stormy", "wintry"], "A": []}

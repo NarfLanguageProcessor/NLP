@@ -1,1 +1,1 @@
-{"index": 108260, "D": "tending to extenuate; characterized by extenuation; extenuating.", "S": ["compensating ", "extenuating ", "qualifying ", "saving "], "A": []}
+{"index": 108260, "D": "tending to extenuate; characterized by extenuation; extenuating.", "S": ["compensating", "extenuating", "qualifying", "saving"], "A": []}

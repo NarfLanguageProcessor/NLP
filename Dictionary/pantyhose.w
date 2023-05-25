@@ -1,1 +1,1 @@
-{"index": 224953, "D": "a one-piece, skintight garment worn by women, combining panties and stockings.", "S": ["hosiery "], "A": []}
+{"index": 224953, "D": "a one-piece, skintight garment worn by women, combining panties and stockings.", "S": ["hosiery"], "A": []}

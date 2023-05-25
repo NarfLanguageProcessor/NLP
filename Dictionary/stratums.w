@@ -1,1 +1,1 @@
-{"index": 305906, "D": "a layer of material, naturally or artificially formed, often one of a number of parallel layers one upon another", "S": ["bed ", "gradation ", "grade ", "lamina ", "level ", "lode ", "seam ", "sheet ", "stratification ", "thickness ", "vein "], "A": []}
+{"index": 305906, "D": "a layer of material, naturally or artificially formed, often one of a number of parallel layers one upon another", "S": ["bed", "gradation", "grade", "lamina", "level", "lode", "seam", "sheet", "stratification", "thickness", "vein"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 341831, "D": "to reason earnestly with someone against something that person intends to do or has done; remonstrate", "S": [], "A": []}

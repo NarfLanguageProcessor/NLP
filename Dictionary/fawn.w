@@ -1,1 +1,1 @@
-{"index": 110542, "D": "a young deer, especially an unweaned one.", "S": ["yearling "], "A": []}
+{"index": 110542, "D": "a young deer, especially an unweaned one.", "S": ["yearling"], "A": []}

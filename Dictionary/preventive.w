@@ -1,1 +1,1 @@
-{"index": 250168, "D": "of or noting a drug, vaccine, etc., for preventing  disease; prophylactic.", "S": ["precautionary "], "A": []}
+{"index": 250168, "D": "of or noting a drug, vaccine, etc., for preventing  disease; prophylactic.", "S": ["precautionary"], "A": []}

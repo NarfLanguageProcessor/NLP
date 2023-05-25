@@ -1,1 +1,1 @@
-{"index": 34777, "D": "a sticky material prepared from holly, mistletoe, or other plants, and smeared on twigs to catch small birds that light on it.", "S": ["adhesive ", "mud ", "plaster ", "sand "], "A": []}
+{"index": 34777, "D": "a sticky material prepared from holly, mistletoe, or other plants, and smeared on twigs to catch small birds that light on it.", "S": ["adhesive", "mud", "plaster", "sand"], "A": []}

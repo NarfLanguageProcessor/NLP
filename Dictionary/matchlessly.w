@@ -1,1 +1,1 @@
-{"index": 181056, "D": "having no equal; peerless; unequaled; incomparable", "S": ["characteristically ", "distinctively "], "A": []}
+{"index": 181056, "D": "having no equal; peerless; unequaled; incomparable", "S": ["characteristically", "distinctively"], "A": []}

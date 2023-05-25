@@ -1,1 +1,1 @@
-{"index": 313439, "D": "a strong, wavelike, forward movement, rush, or sweep", "S": ["climb ", "flow ", "grow ", "rise ", "stream ", "swell "], "A": ["decline ", "decrease ", "descend ", "lessen "]}
+{"index": 313439, "D": "a strong, wavelike, forward movement, rush, or sweep", "S": ["climb", "flow", "grow", "rise", "stream", "swell"], "A": ["decline", "decrease", "descend", "lessen"]}

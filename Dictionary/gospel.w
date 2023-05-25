@@ -1,1 +1,1 @@
-{"index": 128197, "D": "the teachings of Jesus and the apostles; the Christian revelation.", "S": ["dogma ", "faith ", "truth "], "A": ["doubt ", "unbelief "]}
+{"index": 128197, "D": "the teachings of Jesus and the apostles; the Christian revelation.", "S": ["dogma", "faith", "truth"], "A": ["doubt", "unbelief"]}

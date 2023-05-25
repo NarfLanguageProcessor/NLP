@@ -1,1 +1,1 @@
-{"index": 223906, "D": "a fence of pales or stakes set firmly in the ground, as for enclosure or defense.", "S": ["barrier ", "bluff ", "cliff ", "defense ", "enclosure ", "fence ", "slope ", "stockade "], "A": []}
+{"index": 223906, "D": "a fence of pales or stakes set firmly in the ground, as for enclosure or defense.", "S": ["barrier", "bluff", "cliff", "defense", "enclosure", "fence", "slope", "stockade"], "A": []}

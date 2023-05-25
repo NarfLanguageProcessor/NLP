@@ -1,1 +1,1 @@
-{"index": 359233, "D": "a small container, as of glass, for holding liquids", "S": ["bottle ", "flask "], "A": []}
+{"index": 359233, "D": "a small container, as of glass, for holding liquids", "S": ["bottle", "flask"], "A": []}

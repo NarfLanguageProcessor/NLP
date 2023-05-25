@@ -1,1 +1,1 @@
-{"index": 287188, "D": "Ash-Shayt\u0101n. ", "S": ["sandstorm "], "A": []}
+{"index": 287188, "D": "Ash-Shayt\u0101n. ", "S": ["sandstorm"], "A": []}

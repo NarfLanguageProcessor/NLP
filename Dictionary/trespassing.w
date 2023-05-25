@@ -1,1 +1,1 @@
-{"index": 329016, "D": "the action to recover damages for such an injury.", "S": ["conflict ", "intervention ", "intrusion ", "obstruction ", "tampering "], "A": ["encouragement "]}
+{"index": 329016, "D": "the action to recover damages for such an injury.", "S": ["conflict", "intervention", "intrusion", "obstruction", "tampering"], "A": ["encouragement"]}

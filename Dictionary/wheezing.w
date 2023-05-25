@@ -1,1 +1,1 @@
-{"index": 364587, "D": "to breathe with difficulty and with a whistling sound", "S": ["respiratory "], "A": ["breathless ", "dead ", "deceased ", "lifeless "]}
+{"index": 364587, "D": "to breathe with difficulty and with a whistling sound", "S": ["respiratory"], "A": ["breathless", "dead", "deceased", "lifeless"]}

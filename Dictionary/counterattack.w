@@ -1,1 +1,1 @@
-{"index": 70653, "D": "an attack  made as an offset or reply to another attack. ", "S": ["reprisal ", "retribution ", "revenge "], "A": ["forgiveness ", "pardon ", "sympathy "]}
+{"index": 70653, "D": "an attack  made as an offset or reply to another attack. ", "S": ["reprisal", "retribution", "revenge"], "A": ["forgiveness", "pardon", "sympathy"]}

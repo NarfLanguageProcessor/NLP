@@ -1,1 +1,0 @@
-{"index": 233835, "D": [], "S": ["genetic ", "national ", "tribal "], "A": []}

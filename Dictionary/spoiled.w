@@ -1,1 +1,1 @@
-{"index": 300645, "D": "(of a person, especially a child) indulged excessively or pampered, with a harmful effect on character", "S": ["rotten "], "A": ["unspoiled "]}
+{"index": 300645, "D": "(of a person, especially a child) indulged excessively or pampered, with a harmful effect on character", "S": ["rotten"], "A": ["unspoiled"]}

@@ -1,1 +1,1 @@
-{"index": 93323, "D": "to water at the mouth, as in anticipation of food; salivate; drivel.", "S": ["salivate "], "A": []}
+{"index": 93323, "D": "to water at the mouth, as in anticipation of food; salivate; drivel.", "S": ["salivate"], "A": []}

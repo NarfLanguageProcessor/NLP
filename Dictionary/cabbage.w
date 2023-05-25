@@ -1,1 +1,1 @@
-{"index": 43879, "D": "any of several cultivated varieties of a plant, Brassica oleracea capitata, of the mustard family, having a short stem and leaves formed into a compact, edible head.", "S": ["sauerkraut "], "A": []}
+{"index": 43879, "D": "any of several cultivated varieties of a plant, Brassica oleracea capitata, of the mustard family, having a short stem and leaves formed into a compact, edible head.", "S": ["sauerkraut"], "A": []}

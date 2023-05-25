@@ -1,0 +1,1 @@
+{"index": 20007, "D": "a secure place for the storage of weapons", "S": [], "A": []}

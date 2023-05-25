@@ -1,1 +1,1 @@
-{"index": 130469, "D": "the thick-bodied, sluggish larva of several insects, as of a scarab beetle.", "S": ["maggot ", "worm "], "A": []}
+{"index": 130469, "D": "the thick-bodied, sluggish larva of several insects, as of a scarab beetle.", "S": ["maggot", "worm"], "A": []}

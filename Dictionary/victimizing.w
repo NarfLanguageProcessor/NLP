@@ -1,1 +1,1 @@
-{"index": 359447, "D": "to make a victim  of.", "S": ["deceive ", "discriminate against ", "dupe ", "exploit ", "persecute ", "pick on ", "prey on ", "sting "], "A": ["give ", "help "]}
+{"index": 359447, "D": "to make a victim  of.", "S": ["deceive", "discriminate against", "dupe", "exploit", "persecute", "pick on", "prey on", "sting"], "A": ["give", "help"]}

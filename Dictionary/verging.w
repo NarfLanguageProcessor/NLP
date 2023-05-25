@@ -1,1 +1,1 @@
-{"index": 358503, "D": "the edge, rim, or margin of something", "S": ["adjacent ", "contiguous ", "neighboring "], "A": ["detached ", "divided ", "separate "]}
+{"index": 358503, "D": "the edge, rim, or margin of something", "S": ["adjacent", "contiguous", "neighboring"], "A": ["detached", "divided", "separate"]}

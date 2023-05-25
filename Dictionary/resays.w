@@ -1,1 +1,1 @@
-{"index": 269005, "D": [], "S": ["echo ", "renew ", "repeat ", "restate "], "A": ["take back "]}
+{"index": 269005, "D": [], "S": ["echo", "renew", "repeat", "restate"], "A": ["take back"]}

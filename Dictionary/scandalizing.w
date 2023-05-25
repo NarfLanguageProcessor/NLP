@@ -1,1 +1,1 @@
-{"index": 279548, "D": "to shock or horrify by something considered immoral or improper.", "S": ["defame ", "offend ", "slander "], "A": ["compliment ", "praise ", "applaud ", "approve ", "build up ", "commend ", "esteem ", "exalt ", "honor ", "laud ", "please ", "respect "]}
+{"index": 279548, "D": "to shock or horrify by something considered immoral or improper.", "S": ["defame", "offend", "slander"], "A": ["compliment", "praise", "applaud", "approve", "build up", "commend", "esteem", "exalt", "honor", "laud", "please", "respect"]}

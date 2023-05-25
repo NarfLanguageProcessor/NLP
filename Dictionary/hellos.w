@@ -1,1 +1,1 @@
-{"index": 135731, "D": [], "S": ["acceptance ", "handshake ", "hello ", "hospitality ", "ovation ", "reception ", "salute "], "A": ["goodbye "]}
+{"index": 135731, "D": "(used to express a greeting, answer a telephone, or attract attention.)", "S": ["acceptance", "handshake", "hello", "hospitality", "ovation", "reception", "salute"], "A": ["goodbye"]}

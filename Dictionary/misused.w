@@ -1,1 +1,1 @@
-{"index": 190405, "D": "wrong or improper use;  misapplication.", "S": ["dead ", "obsolete ", "wasted "], "A": ["current ", "present ", "repaired ", "saved "]}
+{"index": 190405, "D": "wrong or improper use;  misapplication.", "S": ["dead", "obsolete", "wasted"], "A": ["current", "present", "repaired", "saved"]}

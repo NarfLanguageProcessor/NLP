@@ -1,1 +1,1 @@
-{"index": 146959, "D": "Abominable Snowman. ", "S": ["rakshasa "], "A": []}
+{"index": 146959, "D": "Abominable Snowman. ", "S": ["rakshasa"], "A": []}

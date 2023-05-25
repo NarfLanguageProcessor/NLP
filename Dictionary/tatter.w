@@ -1,1 +1,1 @@
-{"index": 316993, "D": "a torn piece hanging loose from the main part, as of a garment or flag.", "S": ["accessory ", "adjunct ", "appendage ", "apron ", "cover ", "drop ", "fold ", "lapel ", "lobe ", "pendant ", "queue ", "skirt ", "strip ", "tab ", "tag ", "tail ", "tippet "], "A": []}
+{"index": 316993, "D": "a torn piece hanging loose from the main part, as of a garment or flag.", "S": ["accessory", "adjunct", "appendage", "apron", "cover", "drop", "fold", "lapel", "lobe", "pendant", "queue", "skirt", "strip", "tab", "tag", "tail", "tippet"], "A": []}

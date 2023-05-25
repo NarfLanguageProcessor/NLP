@@ -1,1 +1,1 @@
-{"index": 93483, "D": "to beat with a stick or the like; cudgel; flog; thrash.", "S": ["clobber ", "spank ", "trounce ", "wallop "], "A": ["fail ", "lose ", "aid ", "give up ", "help ", "surrender "]}
+{"index": 93483, "D": "to beat with a stick or the like; cudgel; flog; thrash.", "S": ["clobber", "spank", "trounce", "wallop"], "A": ["fail", "lose", "aid", "give up", "help", "surrender"]}

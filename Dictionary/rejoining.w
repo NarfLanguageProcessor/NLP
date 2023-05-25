@@ -1,1 +1,1 @@
-{"index": 266623, "D": "to come again into the company of", "S": ["reunite "], "A": ["ask ", "question ", "request "]}
+{"index": 266623, "D": "to come again into the company of", "S": ["reunite"], "A": ["ask", "question", "request"]}

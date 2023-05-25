@@ -1,1 +1,1 @@
-{"index": 109944, "D": "consisting or made of flour or meal, as food.", "S": ["gritty ", "mealy ", "starchlike ", "starchy "], "A": []}
+{"index": 109944, "D": "consisting or made of flour or meal, as food.", "S": ["gritty", "mealy", "starchlike", "starchy"], "A": []}

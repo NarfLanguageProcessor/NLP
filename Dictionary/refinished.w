@@ -1,1 +1,1 @@
-{"index": 265079, "D": "to give a new surface to (wood, furniture, etc.).", "S": ["repaired ", "resurfaced "], "A": []}
+{"index": 265079, "D": "to give a new surface to (wood, furniture, etc.).", "S": ["repaired", "resurfaced"], "A": []}

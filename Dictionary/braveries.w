@@ -1,1 +1,1 @@
-{"index": 40097, "D": "brave  spirit or conduct; courage; valor.", "S": ["courage ", "daring ", "fearlessness ", "fortitude ", "gallantry ", "grit ", "heroism ", "mettle ", "spirit ", "spunk ", "valor "], "A": ["cowardice ", "fear ", "meekness ", "timidity ", "weakness "]}
+{"index": 40097, "D": "brave  spirit or conduct; courage; valor.", "S": ["courage", "daring", "fearlessness", "fortitude", "gallantry", "grit", "heroism", "mettle", "spirit", "spunk", "valor"], "A": ["cowardice", "fear", "meekness", "timidity", "weakness"]}

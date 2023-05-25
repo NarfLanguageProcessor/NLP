@@ -1,1 +1,1 @@
-{"index": 165559, "D": [], "S": ["assassination ", "bloodshed ", "crime ", "destruction ", "felony ", "homicide ", "lynching ", "manslaughter ", "massacre ", "shooting ", "slaying ", "terrorism "], "A": []}
+{"index": 165559, "D": [], "S": ["assassination", "bloodshed", "crime", "destruction", "felony", "homicide", "lynching", "manslaughter", "massacre", "shooting", "slaying", "terrorism"], "A": []}

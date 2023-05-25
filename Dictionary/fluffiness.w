@@ -1,1 +1,1 @@
-{"index": 115276, "D": "of, resembling, or covered with fluff. ", "S": ["bristliness ", "downiness ", "hirsuteness ", "pilosity ", "pubescence "], "A": []}
+{"index": 115276, "D": "of, resembling, or covered with fluff. ", "S": ["bristliness", "downiness", "hirsuteness", "pilosity", "pubescence"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183793, "D": "the half of such a circle included between the poles.", "S": ["acme ", "apex ", "apogee ", "crest ", "culmination ", "extremity ", "peak ", "pinnacle ", "zenith "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 183793, "D": "the half of such a circle included between the poles.", "S": ["acme", "apex", "apogee", "crest", "culmination", "extremity", "peak", "pinnacle", "zenith"], "A": ["base", "bottom", "nadir"]}

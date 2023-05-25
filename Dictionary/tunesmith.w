@@ -1,1 +1,1 @@
-{"index": 332401, "D": "a person who composes popular music or songs.", "S": ["writer "], "A": []}
+{"index": 332401, "D": "a person who composes popular music or songs.", "S": ["writer"], "A": []}

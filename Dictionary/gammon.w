@@ -1,1 +1,1 @@
-{"index": 121766, "D": "the game of backgammon. ", "S": ["pancetta ", "pork "], "A": []}
+{"index": 121766, "D": "the game of backgammon. ", "S": ["pancetta", "pork"], "A": []}

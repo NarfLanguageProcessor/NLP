@@ -1,1 +1,1 @@
-{"index": 289373, "D": "to keep away from (a place, person, object, etc.), from motives of dislike, caution, etc.; take pains to avoid.", "S": ["evasion ", "prevention ", "restraint "], "A": ["advance ", "arrival ", "coming ", "continuation ", "stay "]}
+{"index": 289373, "D": "to keep away from (a place, person, object, etc.), from motives of dislike, caution, etc.; take pains to avoid.", "S": ["evasion", "prevention", "restraint"], "A": ["advance", "arrival", "coming", "continuation", "stay"]}

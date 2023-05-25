@@ -1,1 +1,1 @@
-{"index": 309970, "D": "an infant or a young animal that is not yet weaned.", "S": ["babe ", "infant "], "A": ["adult "]}
+{"index": 309970, "D": "an infant or a young animal that is not yet weaned.", "S": ["babe", "infant"], "A": ["adult"]}

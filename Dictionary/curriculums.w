@@ -1,1 +1,1 @@
-{"index": 75425, "D": "the aggregate of courses of study given in a school, college, university, etc.", "S": ["educational program ", "syllabus "], "A": []}
+{"index": 75425, "D": "the aggregate of courses of study given in a school, college, university, etc.", "S": ["educational program", "syllabus"], "A": []}

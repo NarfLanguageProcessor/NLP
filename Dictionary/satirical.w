@@ -1,1 +1,1 @@
-{"index": 278749, "D": "of, pertaining to, containing, or characterized by satire", "S": ["biting ", "caustic ", "incisive ", "mordant ", "sarcastic ", "sardonic ", "satiric "], "A": ["calm ", "kind ", "mild ", "nice "]}
+{"index": 278749, "D": "of, pertaining to, containing, or characterized by satire", "S": ["biting", "caustic", "incisive", "mordant", "sarcastic", "sardonic", "satiric"], "A": ["calm", "kind", "mild", "nice"]}

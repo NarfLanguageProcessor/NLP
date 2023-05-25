@@ -1,1 +1,1 @@
-{"index": 153844, "D": "quality of being instant;  urgency; pressing nature.", "S": ["desperation ", "necessity ", "pressure ", "seriousness "], "A": ["peace "]}
+{"index": 153844, "D": "quality of being instant;  urgency; pressing nature.", "S": ["desperation", "necessity", "pressure", "seriousness"], "A": ["peace"]}

@@ -1,1 +1,1 @@
-{"index": 185884, "D": "extremely small.", "S": ["CPU ", "PC ", "abacus ", "analog ", "brain ", "calculator ", "clone ", "laptop ", "mac ", "mainframe ", "microcomputer ", "mini ", "minicomputer "], "A": []}
+{"index": 185884, "D": "extremely small.", "S": ["CPU", "PC", "abacus", "analog", "brain", "calculator", "clone", "laptop", "mac", "mainframe", "microcomputer", "mini", "minicomputer"], "A": []}

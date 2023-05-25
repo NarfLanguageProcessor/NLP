@@ -1,1 +1,1 @@
-{"index": 278248, "D": "South African Police Service", "S": ["chump ", "dolt ", "dupe ", "fool ", "idiot ", "jerk ", "nitwit ", "patsy ", "pigeon ", "simpleton ", "sucker ", "weakling "], "A": ["brain "]}
+{"index": 278248, "D": "South African Police Service", "S": ["chump", "dolt", "dupe", "fool", "idiot", "jerk", "nitwit", "patsy", "pigeon", "simpleton", "sucker", "weakling"], "A": ["brain"]}

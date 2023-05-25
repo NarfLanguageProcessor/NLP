@@ -1,1 +1,1 @@
-{"index": 27508, "D": "the person or organization that provides the finance for a project, business, etc", "S": ["backer ", "banker ", "broker ", "capitalist ", "entrepreneur ", "merchant ", "operator ", "speculator ", "stockbroker ", "tycoon "], "A": []}
+{"index": 27508, "D": "the person or organization that provides the finance for a project, business, etc", "S": ["backer", "banker", "broker", "capitalist", "entrepreneur", "merchant", "operator", "speculator", "stockbroker", "tycoon"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 11074, "D": "amphiboly. ", "S": ["innuendo ", "pun "], "A": []}
+{"index": 11074, "D": "amphiboly. ", "S": ["innuendo", "pun"], "A": []}

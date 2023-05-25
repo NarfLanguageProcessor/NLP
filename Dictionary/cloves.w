@@ -1,1 +1,1 @@
-{"index": 60592, "D": "the dried flower bud of a tropical tree, Syzygium aromaticum, of the myrtle family,  used whole or ground as a spice.", "S": ["abyss ", "canyon ", "chasm ", "crevasse ", "crevice ", "ditch ", "gorge ", "gully ", "valley "], "A": ["plain "]}
+{"index": 60592, "D": "the dried flower bud of a tropical tree, Syzygium aromaticum, of the myrtle family,  used whole or ground as a spice.", "S": ["abyss", "canyon", "chasm", "crevasse", "crevice", "ditch", "gorge", "gully", "valley"], "A": ["plain"]}

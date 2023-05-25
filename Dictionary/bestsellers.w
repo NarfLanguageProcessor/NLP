@@ -1,1 +1,1 @@
-{"index": 32646, "D": "a book that is among those having the largest sales during a given period.", "S": ["a top ten ", "chart-buster ", "favorite ", "hit ", "hot item ", "hot seller ", "mover ", "number one ", "record-breaker ", "success ", "winner "], "A": ["failure ", "flop "]}
+{"index": 32646, "D": "a book that is among those having the largest sales during a given period.", "S": ["a top ten", "chart-buster", "favorite", "hit", "hot item", "hot seller", "mover", "number one", "record-breaker", "success", "winner"], "A": ["failure", "flop"]}

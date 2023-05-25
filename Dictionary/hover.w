@@ -1,1 +1,1 @@
-{"index": 144527, "D": "to hang fluttering or suspended in the air", "S": ["drift ", "flicker ", "flutter ", "fly ", "linger ", "poise ", "waver "], "A": ["lie ", "rest ", "settle "]}
+{"index": 144527, "D": "to hang fluttering or suspended in the air", "S": ["drift", "flicker", "flutter", "fly", "linger", "poise", "waver"], "A": ["lie", "rest", "settle"]}

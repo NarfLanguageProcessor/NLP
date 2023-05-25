@@ -1,1 +1,1 @@
-{"index": 269285, "D": "to shape  again or into different form.", "S": ["accommodation ", "adjustment ", "alteration ", "conversion ", "modification ", "revision "], "A": []}
+{"index": 269285, "D": "to shape  again or into different form.", "S": ["accommodation", "adjustment", "alteration", "conversion", "modification", "revision"], "A": []}

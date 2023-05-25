@@ -1,1 +1,1 @@
-{"index": 28521, "D": "the state or quality of being dishonorable, cowardly, selfish, or mean-spirited; morally despicable character", "S": ["debasement ", "degeneracy ", "depravity ", "immorality ", "rudeness ", "wickedness "], "A": ["morality "]}
+{"index": 28521, "D": "the state or quality of being dishonorable, cowardly, selfish, or mean-spirited; morally despicable character", "S": ["debasement", "degeneracy", "depravity", "immorality", "rudeness", "wickedness"], "A": ["morality"]}

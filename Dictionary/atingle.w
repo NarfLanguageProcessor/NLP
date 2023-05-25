@@ -1,1 +1,1 @@
-{"index": 22641, "D": "tingling;  stimulated.", "S": ["excited ", "stimulated ", "tingling ", "tingly "], "A": []}
+{"index": 22641, "D": "tingling;  stimulated.", "S": ["excited", "stimulated", "tingling", "tingly"], "A": []}

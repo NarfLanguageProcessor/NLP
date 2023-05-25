@@ -1,1 +1,1 @@
-{"index": 95405, "D": "a system, or a group of interconnected elements, formed by the interaction of a community of organisms with their environment", "S": ["environs "], "A": []}
+{"index": 95405, "D": "a system, or a group of interconnected elements, formed by the interaction of a community of organisms with their environment", "S": ["environs"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 315639, "D": "an unusually long speech or discussion, especially on a matter of public interest, as a Congressional filibuster or a televised question-and-answer session with a political candidate.", "S": ["delaying tactic ", "obstruction ", "procrastination "], "A": []}
+{"index": 315639, "D": "an unusually long speech or discussion, especially on a matter of public interest, as a Congressional filibuster or a televised question-and-answer session with a political candidate.", "S": ["delaying tactic", "obstruction", "procrastination"], "A": []}

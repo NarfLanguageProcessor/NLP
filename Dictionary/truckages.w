@@ -1,1 +1,1 @@
-{"index": 331466, "D": "conveyance by a truck  or trucks. ", "S": ["freight ", "gridlock ", "influx ", "movement ", "service ", "shipment ", "transit ", "transport ", "transportation ", "travel "], "A": ["indifference "]}
+{"index": 331466, "D": "conveyance by a truck  or trucks. ", "S": ["freight", "gridlock", "influx", "movement", "service", "shipment", "transit", "transport", "transportation", "travel"], "A": ["indifference"]}

@@ -1,1 +1,1 @@
-{"index": 134805, "D": "to give heed or attention to what is said; listen.", "S": ["accepting ", "attending ", "concentrating ", "heeding ", "interested ", "receiving "], "A": ["inattentive ", "indifferent "]}
+{"index": 134805, "D": "to give heed or attention to what is said; listen.", "S": ["accepting", "attending", "concentrating", "heeding", "interested", "receiving"], "A": ["inattentive", "indifferent"]}

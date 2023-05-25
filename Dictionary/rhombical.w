@@ -1,1 +1,0 @@
-{"index": 272328, "D": "having the form of a rhombus. ", "S": [], "A": []}

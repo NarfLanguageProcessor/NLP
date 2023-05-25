@@ -1,0 +1,1 @@
+{"index": 30026, "D": "a gall on roses, especially the sweetbrier, produced by a gall wasp.", "S": [], "A": []}

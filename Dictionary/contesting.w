@@ -1,1 +1,1 @@
-{"index": 67415, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": ["competitive ", "recreational "], "A": []}
+{"index": 67415, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": ["competitive", "recreational"], "A": []}

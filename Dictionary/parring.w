@@ -1,1 +1,0 @@
-{"index": 226845, "D": "the state of the shares of any business, undertaking, loan, etc., when they may be purchased at the original price (issue par ) or at their face value (nominal par ).", "S": [], "A": []}

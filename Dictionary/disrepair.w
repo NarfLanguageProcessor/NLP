@@ -1,1 +1,1 @@
-{"index": 89326, "D": "the condition of needing repair;  an impaired or neglected state.", "S": ["decay "], "A": ["good condition ", "repair "]}
+{"index": 89326, "D": "the condition of needing repair;  an impaired or neglected state.", "S": ["decay"], "A": ["good condition", "repair"]}

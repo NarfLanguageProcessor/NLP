@@ -1,1 +1,1 @@
-{"index": 275071, "D": "to reply to an invitation", "S": ["RRSP ", "please answer ", "reply ", "r\u00e9pondez s'il vous pla\u00eet "], "A": []}
+{"index": 275071, "D": "to reply to an invitation", "S": ["RRSP", "please answer", "reply", "r\u00e9pondez s'il vous pla\u00eet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92886, "D": "a simple past tense and past participle of dream. ", "S": ["conceive ", "crave ", "daydream ", "fantasize ", "invent ", "think ", "visualize "], "A": ["despise ", "dislike ", "hate "]}
+{"index": 92886, "D": "a simple past tense and past participle of dream. ", "S": ["conceive", "crave", "daydream", "fantasize", "invent", "think", "visualize"], "A": ["despise", "dislike", "hate"]}

@@ -1,1 +1,1 @@
-{"index": 86932, "D": "discontented and disloyal, as toward the government or toward authority.", "S": ["rebellious "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}
+{"index": 86932, "D": "discontented and disloyal, as toward the government or toward authority.", "S": ["rebellious"], "A": ["contented", "happy", "pleased", "satisfied"]}

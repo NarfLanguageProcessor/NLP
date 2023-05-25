@@ -1,1 +1,1 @@
-{"index": 10815, "D": "a person affected by amnesia.", "S": ["amnesic "], "A": []}
+{"index": 10815, "D": "a person affected by amnesia.", "S": ["amnesic"], "A": []}

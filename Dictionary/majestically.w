@@ -1,1 +1,1 @@
-{"index": 178036, "D": "characterized by or possessing majesty;  of lofty dignity or imposing aspect; stately; grand", "S": ["regally ", "royally ", "wonderfully "], "A": []}
+{"index": 178036, "D": "characterized by or possessing majesty;  of lofty dignity or imposing aspect; stately; grand", "S": ["regally", "royally", "wonderfully"], "A": []}

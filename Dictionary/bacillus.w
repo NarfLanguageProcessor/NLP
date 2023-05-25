@@ -1,1 +1,1 @@
-{"index": 25702, "D": "any rod-shaped or cylindrical bacterium of the genus Bacillus, comprising spore-producing bacteria.", "S": ["disease ", "germ ", "infection ", "microbe ", "virus "], "A": []}
+{"index": 25702, "D": "any rod-shaped or cylindrical bacterium of the genus Bacillus, comprising spore-producing bacteria.", "S": ["disease", "germ", "infection", "microbe", "virus"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 238758, "D": "an area used for outdoor play  or recreation, especially by children, and often containing recreational equipment such as slides and swings.", "S": ["park "], "A": []}
+{"index": 238758, "D": "an area used for outdoor play  or recreation, especially by children, and often containing recreational equipment such as slides and swings.", "S": ["park"], "A": []}

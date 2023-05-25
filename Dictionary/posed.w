@@ -1,1 +1,1 @@
-{"index": 243771, "D": "(of a photograph, portrait, etc.) taken or made by first placing the subjects in a particular position or attitude", "S": ["awkward ", "mannered ", "stiff ", "unnatural "], "A": []}
+{"index": 243771, "D": "(of a photograph, portrait, etc.) taken or made by first placing the subjects in a particular position or attitude", "S": ["awkward", "mannered", "stiff", "unnatural"], "A": []}

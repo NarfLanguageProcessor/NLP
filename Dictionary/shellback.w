@@ -1,1 +1,1 @@
-{"index": 287949, "D": "an old sailor.", "S": ["bluejacket ", "boater ", "cadet ", "diver ", "jack-tar ", "lascar ", "marine ", "mariner ", "mate ", "middy ", "navigator ", "pilot ", "pirate ", "salt ", "seafarer ", "seaman ", "shipmate ", "swab ", "tar ", "tarpaulin ", "windjammer "], "A": []}
+{"index": 287949, "D": "an old sailor.", "S": ["bluejacket", "boater", "cadet", "diver", "jack-tar", "lascar", "marine", "mariner", "mate", "middy", "navigator", "pilot", "pirate", "salt", "seafarer", "seaman", "shipmate", "swab", "tar", "tarpaulin", "windjammer"], "A": []}

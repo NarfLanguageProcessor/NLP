@@ -1,1 +1,1 @@
-{"index": 101789, "D": "to wrap up in or as in a covering", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 101789, "D": "to wrap up in or as in a covering", "S": ["belted", "bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

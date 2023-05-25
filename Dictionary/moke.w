@@ -1,1 +1,1 @@
-{"index": 191377, "D": "a contemptuous term used to refer to a Black person.", "S": ["burro ", "horse ", "mule "], "A": []}
+{"index": 191377, "D": "a contemptuous term used to refer to a Black person.", "S": ["burro", "horse", "mule"], "A": []}

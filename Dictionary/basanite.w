@@ -1,1 +1,1 @@
-{"index": 28476, "D": "a basaltic rock composed chiefly of plagioclase, olivine, and augite.", "S": ["barometer ", "criterion "], "A": []}
+{"index": 28476, "D": "a basaltic rock composed chiefly of plagioclase, olivine, and augite.", "S": ["barometer", "criterion"], "A": []}

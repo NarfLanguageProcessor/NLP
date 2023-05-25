@@ -1,1 +1,1 @@
-{"index": 307584, "D": "a contract  by which one agrees to render services or to provide materials necessary for the performance of another contract. ", "S": ["hire out ", "rent out ", "sublet "], "A": []}
+{"index": 307584, "D": "a contract  by which one agrees to render services or to provide materials necessary for the performance of another contract. ", "S": ["hire out", "rent out", "sublet"], "A": []}

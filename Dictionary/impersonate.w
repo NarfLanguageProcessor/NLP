@@ -1,1 +1,1 @@
-{"index": 148606, "D": "to assume the character or appearance of; pretend to be", "S": ["act like ", "imitate ", "masquerade as ", "mimic ", "portray ", "pose as "], "A": ["direct ", "fail ", "halt ", "idle ", "prevent ", "stop "]}
+{"index": 148606, "D": "to assume the character or appearance of; pretend to be", "S": ["act like", "imitate", "masquerade as", "mimic", "portray", "pose as"], "A": ["direct", "fail", "halt", "idle", "prevent", "stop"]}

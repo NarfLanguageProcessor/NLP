@@ -1,1 +1,1 @@
-{"index": 289275, "D": "a simple past tense of shrive. ", "S": ["absolve ", "acquit ", "atone ", "forgive ", "free ", "pardon ", "purge ", "repent "], "A": ["blame ", "censure ", "charge ", "condemn ", "convict ", "damn ", "hold ", "punish ", "sentence "]}
+{"index": 289275, "D": "a simple past tense of shrive. ", "S": ["absolve", "acquit", "atone", "forgive", "free", "pardon", "purge", "repent"], "A": ["blame", "censure", "charge", "condemn", "convict", "damn", "hold", "punish", "sentence"]}

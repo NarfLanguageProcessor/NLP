@@ -1,1 +1,0 @@
-{"index": 201844, "D": "the relation of cause and effect", "S": [], "A": []}

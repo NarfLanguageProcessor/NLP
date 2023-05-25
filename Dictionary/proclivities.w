@@ -1,1 +1,1 @@
-{"index": 251278, "D": "natural or habitual inclination or tendency; propensity; predisposition", "S": ["penchant ", "predilection ", "predisposition ", "propensity "], "A": ["antipathy ", "disinclination ", "dislike ", "hate "]}
+{"index": 251278, "D": "natural or habitual inclination or tendency; propensity; predisposition", "S": ["penchant", "predilection", "predisposition", "propensity"], "A": ["antipathy", "disinclination", "dislike", "hate"]}

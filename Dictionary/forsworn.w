@@ -1,1 +1,1 @@
-{"index": 117622, "D": "past participle of forswear. ", "S": ["deceitful ", "deceptive ", "malicious ", "misleading "], "A": ["frank ", "honest ", "open ", "truthful ", "upright "]}
+{"index": 117622, "D": "past participle of forswear. ", "S": ["deceitful", "deceptive", "malicious", "misleading"], "A": ["frank", "honest", "open", "truthful", "upright"]}

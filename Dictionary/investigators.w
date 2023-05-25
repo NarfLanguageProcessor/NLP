@@ -1,1 +1,1 @@
-{"index": 157184, "D": "to examine, study, or inquire into systematically; search or examine into the particulars of; examine in detail.", "S": ["board ", "bureau ", "cabinet ", "chamber ", "commission ", "jury ", "panel ", "task force "], "A": []}
+{"index": 157184, "D": "to examine, study, or inquire into systematically; search or examine into the particulars of; examine in detail.", "S": ["board", "bureau", "cabinet", "chamber", "commission", "jury", "panel", "task force"], "A": []}

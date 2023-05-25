@@ -1,1 +1,1 @@
-{"index": 48625, "D": "a firm, elastic, flexible type of connective tissue of a translucent whitish or yellowish color; gristle.", "S": ["bony process ", "ossein ", "osseous matter "], "A": []}
+{"index": 48625, "D": "a firm, elastic, flexible type of connective tissue of a translucent whitish or yellowish color; gristle.", "S": ["bony process", "ossein", "osseous matter"], "A": []}

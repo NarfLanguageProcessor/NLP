@@ -1,1 +1,1 @@
-{"index": 292989, "D": "inclined to skepticism;  having an attitude of doubt", "S": ["suspiciously "], "A": []}
+{"index": 292989, "D": "inclined to skepticism;  having an attitude of doubt", "S": ["suspiciously"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 117619, "D": "to reject or renounce under oath", "S": ["discrepancy ", "disparity ", "doubtfulness ", "inconsistency ", "perjury ", "question ", "unreliability ", "untrustworthiness ", "untruthfulness "], "A": []}
+{"index": 117619, "D": "to reject or renounce under oath", "S": ["discrepancy", "disparity", "doubtfulness", "inconsistency", "perjury", "question", "unreliability", "untrustworthiness", "untruthfulness"], "A": []}

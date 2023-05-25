@@ -1,1 +1,1 @@
-{"index": 289109, "D": [], "S": ["appear ", "come ", "get ", "get in ", "turn up "], "A": ["depart ", "go ", "leave ", "lose ", "miss "]}
+{"index": 289109, "D": [], "S": ["appear", "come", "get", "get in", "turn up"], "A": ["depart", "go", "leave", "lose", "miss"]}

@@ -1,1 +1,0 @@
-{"index": 251834, "D": [], "S": ["bring about ", "engender ", "sire "], "A": ["halt ", "kill ", "stop ", "destroy ", "fail ", "leave "]}

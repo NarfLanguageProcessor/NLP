@@ -1,1 +1,1 @@
-{"index": 70084, "D": "free from local, provincial, or national ideas, prejudices, or attachments; at home all over the world.", "S": ["cultured ", "metropolitan ", "sophisticated ", "urbane ", "worldly "], "A": ["unrefined ", "unsophisticated ", "particular ", "specific "]}
+{"index": 70084, "D": "free from local, provincial, or national ideas, prejudices, or attachments; at home all over the world.", "S": ["cultured", "metropolitan", "sophisticated", "urbane", "worldly"], "A": ["unrefined", "unsophisticated", "particular", "specific"]}

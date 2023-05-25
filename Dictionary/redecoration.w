@@ -1,1 +1,1 @@
-{"index": 263969, "D": "something used for decorating;  adornment; embellishment", "S": ["refitting ", "refurnishing ", "reshaping ", "reworking "], "A": []}
+{"index": 263969, "D": "something used for decorating;  adornment; embellishment", "S": ["refitting", "refurnishing", "reshaping", "reworking"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 197997, "D": "extremely wicked or villainous; iniquitous", "S": ["barbarity ", "horror "], "A": ["good behavior ", "kindness ", "pleasantness ", "pleasantry "]}
+{"index": 197997, "D": "extremely wicked or villainous; iniquitous", "S": ["barbarity", "horror"], "A": ["good behavior", "kindness", "pleasantness", "pleasantry"]}

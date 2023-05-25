@@ -1,1 +1,1 @@
-{"index": 261147, "D": "to give out or cause a rapid succession of short, sharp sounds, as in consequence of agitation and repeated concussions", "S": ["bounce ", "jar ", "jolt ", "knock ", "shake ", "shatter ", "vibrate "], "A": ["appease ", "placate ", "soothe "]}
+{"index": 261147, "D": "to give out or cause a rapid succession of short, sharp sounds, as in consequence of agitation and repeated concussions", "S": ["bounce", "jar", "jolt", "knock", "shake", "shatter", "vibrate"], "A": ["appease", "placate", "soothe"]}

@@ -1,1 +1,1 @@
-{"index": 52165, "D": "of or like chalk. ", "S": ["milky "], "A": []}
+{"index": 52165, "D": "of or like chalk. ", "S": ["milky"], "A": []}

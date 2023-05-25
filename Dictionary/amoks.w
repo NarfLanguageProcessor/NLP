@@ -1,0 +1,1 @@
+{"index": 10889, "D": "(among members of certain Southeast Asian cultures) a psychic disturbance characterized by depression followed by a manic urge to murder.", "S": [], "A": []}

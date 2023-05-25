@@ -1,1 +1,1 @@
-{"index": 283041, "D": "an act or instance of seducing,  especially sexually.", "S": ["persuasion "], "A": ["discouragement ", "repulsion "]}
+{"index": 283041, "D": "an act or instance of seducing,  especially sexually.", "S": ["persuasion"], "A": ["discouragement", "repulsion"]}

@@ -1,1 +1,0 @@
-{"index": 237837, "D": "the subjection of organic compounds to very high temperatures.", "S": [], "A": []}

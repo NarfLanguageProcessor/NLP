@@ -1,1 +1,1 @@
-{"index": 120188, "D": "the act or process of raising funds, as for nonprofit organizations or for a political cause.", "S": ["appeal ", "raise ", "solicit "], "A": []}
+{"index": 120188, "D": "the act or process of raising funds, as for nonprofit organizations or for a political cause.", "S": ["appeal", "raise", "solicit"], "A": []}

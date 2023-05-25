@@ -1,1 +1,1 @@
-{"index": 299011, "D": "a motorboat designed for high speeds.", "S": ["cigarette boat ", "hydrofoil ", "hydroplane "], "A": []}
+{"index": 299011, "D": "a motorboat designed for high speeds.", "S": ["cigarette boat", "hydrofoil", "hydroplane"], "A": []}

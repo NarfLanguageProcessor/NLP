@@ -1,1 +1,1 @@
-{"index": 31563, "D": "conferring benefit; advantageous; helpful", "S": ["kindly "], "A": []}
+{"index": 31563, "D": "conferring benefit; advantageous; helpful", "S": ["kindly"], "A": []}

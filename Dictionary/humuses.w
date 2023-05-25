@@ -1,1 +1,1 @@
-{"index": 145103, "D": "the dark organic material in soils, produced by the decomposition of vegetable or animal matter and essential to the fertility of the earth.", "S": ["fertilizer "], "A": []}
+{"index": 145103, "D": "the dark organic material in soils, produced by the decomposition of vegetable or animal matter and essential to the fertility of the earth.", "S": ["fertilizer"], "A": []}

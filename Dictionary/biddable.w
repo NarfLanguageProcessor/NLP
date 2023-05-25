@@ -1,1 +1,1 @@
-{"index": 33503, "D": "adequate to bid  upon", "S": ["acquiescent ", "amenable ", "compliant ", "docile ", "obliging ", "pliable ", "submissive ", "tractable ", "yielding "], "A": []}
+{"index": 33503, "D": "adequate to bid  upon", "S": ["acquiescent", "amenable", "compliant", "docile", "obliging", "pliable", "submissive", "tractable", "yielding"], "A": []}

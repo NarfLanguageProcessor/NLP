@@ -1,1 +1,1 @@
-{"index": 353673, "D": "to change or alter, as in form, appearance, character, or substance", "S": ["uniform "], "A": ["varying "]}
+{"index": 353673, "D": "to change or alter, as in form, appearance, character, or substance", "S": ["uniform"], "A": ["varying"]}

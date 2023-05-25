@@ -1,1 +1,1 @@
-{"index": 141427, "D": "an arena or structure for equestrian and other spectacles.", "S": ["coliseum ", "stadium "], "A": []}
+{"index": 141427, "D": "an arena or structure for equestrian and other spectacles.", "S": ["coliseum", "stadium"], "A": []}

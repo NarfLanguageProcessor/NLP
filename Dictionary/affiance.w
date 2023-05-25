@@ -1,1 +1,1 @@
-{"index": 5347, "D": "to pledge by promise of marriage; betroth.", "S": ["agreement ", "assurance ", "commitment ", "guarantee ", "obligation ", "pact ", "pledge ", "vow ", "word "], "A": ["breach ", "break ", "disagreement ", "denial ", "divorce "]}
+{"index": 5347, "D": "to pledge by promise of marriage; betroth.", "S": ["agreement", "assurance", "commitment", "guarantee", "obligation", "pact", "pledge", "vow", "word"], "A": ["breach", "break", "disagreement", "denial", "divorce"]}

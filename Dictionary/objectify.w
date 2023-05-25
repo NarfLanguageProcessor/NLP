@@ -1,1 +1,1 @@
-{"index": 210096, "D": "to present as an object,  especially of sight, touch, or other physical sense; make objective; externalize. ", "S": ["embody ", "exteriorize ", "externalize ", "materialize ", "substantiate "], "A": []}
+{"index": 210096, "D": "to present as an object,  especially of sight, touch, or other physical sense; make objective; externalize. ", "S": ["embody", "exteriorize", "externalize", "materialize", "substantiate"], "A": []}

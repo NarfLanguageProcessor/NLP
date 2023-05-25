@@ -1,1 +1,1 @@
-{"index": 110874, "D": "a plot of ground, often near a stockyard, where livestock are gathered to be fattened for market.", "S": ["corral ", "pen "], "A": []}
+{"index": 110874, "D": "a plot of ground, often near a stockyard, where livestock are gathered to be fattened for market.", "S": ["corral", "pen"], "A": []}

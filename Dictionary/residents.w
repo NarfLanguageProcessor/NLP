@@ -1,1 +1,1 @@
-{"index": 269366, "D": "a person who resides  in a place.", "S": ["association ", "center ", "company ", "district ", "nation ", "neighborhood ", "people ", "public ", "society ", "state "], "A": ["disagreement ", "dissimilarity "]}
+{"index": 269366, "D": "a person who resides  in a place.", "S": ["association", "center", "company", "district", "nation", "neighborhood", "people", "public", "society", "state"], "A": ["disagreement", "dissimilarity"]}

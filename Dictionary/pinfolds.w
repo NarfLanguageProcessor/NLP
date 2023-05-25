@@ -1,1 +1,1 @@
-{"index": 237018, "D": "a pound for stray animals.", "S": ["crate ", "enclosure ", "jail ", "pen "], "A": []}
+{"index": 237018, "D": "a pound for stray animals.", "S": ["crate", "enclosure", "jail", "pen"], "A": []}

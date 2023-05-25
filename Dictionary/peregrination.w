@@ -1,1 +1,1 @@
-{"index": 230532, "D": "travel from one place to another, especially on foot.", "S": ["expedition ", "hiking ", "jaunt ", "journey ", "roving ", "travels ", "trip "], "A": []}
+{"index": 230532, "D": "travel from one place to another, especially on foot.", "S": ["expedition", "hiking", "jaunt", "journey", "roving", "travels", "trip"], "A": []}

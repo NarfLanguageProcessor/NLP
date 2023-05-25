@@ -1,1 +1,1 @@
-{"index": 33720, "D": "a prominent or influential person, especially a journalist or news analyst.", "S": ["sasquatch ", "yeti "], "A": []}
+{"index": 33720, "D": "a prominent or influential person, especially a journalist or news analyst.", "S": ["sasquatch", "yeti"], "A": []}

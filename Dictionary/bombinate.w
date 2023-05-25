@@ -1,1 +1,1 @@
-{"index": 37734, "D": "to make a humming or buzzing noise.", "S": ["hum ", "reverberate ", "whisper "], "A": []}
+{"index": 37734, "D": "to make a humming or buzzing noise.", "S": ["hum", "reverberate", "whisper"], "A": []}

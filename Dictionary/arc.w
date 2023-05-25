@@ -1,1 +1,1 @@
-{"index": 18616, "D": "any unbroken part of the circumference of a circle or other curved line.", "S": ["arch "], "A": []}
+{"index": 18616, "D": "any unbroken part of the circumference of a circle or other curved line.", "S": ["arch"], "A": []}

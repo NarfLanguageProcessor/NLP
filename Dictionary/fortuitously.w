@@ -1,1 +1,1 @@
-{"index": 117717, "D": "happening or produced by chance; accidental", "S": ["unintentionally ", "unwittingly "], "A": []}
+{"index": 117717, "D": "happening or produced by chance; accidental", "S": ["unintentionally", "unwittingly"], "A": []}

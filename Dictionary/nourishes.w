@@ -1,1 +1,1 @@
-{"index": 209062, "D": "to sustain with food or nutriment; supply with what is necessary for life, health, and growth.", "S": ["cherish ", "cultivate ", "sustain ", "tend "], "A": ["abandon ", "ignore ", "neglect ", "condemn ", "deprive ", "discourage ", "hurt ", "take "]}
+{"index": 209062, "D": "to sustain with food or nutriment; supply with what is necessary for life, health, and growth.", "S": ["cherish", "cultivate", "sustain", "tend"], "A": ["abandon", "ignore", "neglect", "condemn", "deprive", "discourage", "hurt", "take"]}

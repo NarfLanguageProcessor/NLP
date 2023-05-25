@@ -1,1 +1,1 @@
-{"index": 198686, "D": "any whelk of the genus Neptunea, especially N. decemcostata, common along the eastern coast of North America and having a shell with seven to ten raised reddish-brown spiral ridges on a pale beige or yellow background.", "S": ["earth "], "A": []}
+{"index": 198686, "D": "any whelk of the genus Neptunea, especially N. decemcostata, common along the eastern coast of North America and having a shell with seven to ten raised reddish-brown spiral ridges on a pale beige or yellow background.", "S": ["earth"], "A": []}

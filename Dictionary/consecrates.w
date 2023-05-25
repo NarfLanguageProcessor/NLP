@@ -1,1 +1,1 @@
-{"index": 66702, "D": "to make or declare sacred; set apart or dedicate to the service of a deity", "S": ["beatify ", "bless ", "dedicate ", "ordain ", "sanctify "], "A": ["condemn ", "curse ", "damn ", "desecrate ", "disallow ", "denounce "]}
+{"index": 66702, "D": "to make or declare sacred; set apart or dedicate to the service of a deity", "S": ["beatify", "bless", "dedicate", "ordain", "sanctify"], "A": ["condemn", "curse", "damn", "desecrate", "disallow", "denounce"]}

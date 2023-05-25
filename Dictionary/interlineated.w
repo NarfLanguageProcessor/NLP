@@ -1,1 +1,1 @@
-{"index": 155200, "D": "interline1 (defs. 1, 2). ", "S": ["accentuate ", "highlight ", "indicate ", "point up ", "stress ", "underscore "], "A": []}
+{"index": 155200, "D": "interline1 (defs. 1, 2). ", "S": ["accentuate", "highlight", "indicate", "point up", "stress", "underscore"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 127165, "D": "the act of pricking, prodding, driving, or inciting with or as if with a goad", "S": ["challenging ", "disturbing ", "exciting ", "inspirational ", "insulting ", "offensive ", "outrageous "], "A": ["pleasing "]}
+{"index": 127165, "D": "the act of pricking, prodding, driving, or inciting with or as if with a goad", "S": ["challenging", "disturbing", "exciting", "inspirational", "insulting", "offensive", "outrageous"], "A": ["pleasing"]}

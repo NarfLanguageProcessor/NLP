@@ -1,1 +1,1 @@
-{"index": 306807, "D": "disposed or given to diligent study", "S": ["bookish ", "contemplative ", "diligent ", "earnest ", "industrious ", "reflective ", "thoughtful "], "A": ["ignorant ", "inactive ", "lazy ", "lethargic ", "negligent ", "stupid ", "thoughtless ", "unthoughtful "]}
+{"index": 306807, "D": "disposed or given to diligent study", "S": ["bookish", "contemplative", "diligent", "earnest", "industrious", "reflective", "thoughtful"], "A": ["ignorant", "inactive", "lazy", "lethargic", "negligent", "stupid", "thoughtless", "unthoughtful"]}

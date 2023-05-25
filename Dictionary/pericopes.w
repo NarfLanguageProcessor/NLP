@@ -1,1 +1,1 @@
-{"index": 230882, "D": "a selection or extract from a book.", "S": ["extract ", "fragment ", "passage ", "piece ", "portion ", "quotation ", "selection "], "A": ["entirety ", "refusal ", "whole "]}
+{"index": 230882, "D": "a selection or extract from a book.", "S": ["extract", "fragment", "passage", "piece", "portion", "quotation", "selection"], "A": ["entirety", "refusal", "whole"]}

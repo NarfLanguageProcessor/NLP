@@ -1,1 +1,1 @@
-{"index": 288995, "D": "the part of each side of the body in humans, at the top of the trunk, extending from each side of the base of the neck to the region where the arm articulates with the trunk.", "S": ["acceptance "], "A": ["rejection "]}
+{"index": 288995, "D": "the part of each side of the body in humans, at the top of the trunk, extending from each side of the base of the neck to the region where the arm articulates with the trunk.", "S": ["acceptance"], "A": ["rejection"]}

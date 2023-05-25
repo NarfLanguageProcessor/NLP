@@ -1,1 +1,1 @@
-{"index": 136462, "D": "a profuse discharge of blood, as from a ruptured blood vessel; bleeding.", "S": ["ooze "], "A": ["pour "]}
+{"index": 136462, "D": "a profuse discharge of blood, as from a ruptured blood vessel; bleeding.", "S": ["ooze"], "A": ["pour"]}

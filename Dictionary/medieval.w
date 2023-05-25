@@ -1,1 +1,1 @@
-{"index": 182133, "D": "Compare Middle Ages. ", "S": ["Gothic ", "antique ", "archaic ", "feudal ", "primitive "], "A": ["current ", "modern ", "new ", "present "]}
+{"index": 182133, "D": "Compare Middle Ages. ", "S": ["Gothic", "antique", "archaic", "feudal", "primitive"], "A": ["current", "modern", "new", "present"]}

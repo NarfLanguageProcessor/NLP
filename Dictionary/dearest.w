@@ -1,1 +1,1 @@
-{"index": 77607, "D": "beloved or loved", "S": ["admired ", "cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "revered ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}
+{"index": 77607, "D": "beloved or loved", "S": ["admired", "cherished", "dear", "esteemed", "favorite", "hallowed", "loved", "popular", "prized", "respected", "revered", "treasured", "venerated", "well-liked"], "A": ["disliked"]}

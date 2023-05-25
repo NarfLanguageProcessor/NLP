@@ -1,1 +1,1 @@
-{"index": 67385, "D": "the state of being contented;  satisfaction; ease of mind.", "S": ["complacency ", "fulfillment ", "gratification ", "pleasure ", "satisfaction ", "serenity "], "A": ["disappointment ", "dissatisfaction ", "trouble ", "unhappiness ", "agitation ", "upset ", "worry "]}
+{"index": 67385, "D": "the state of being contented;  satisfaction; ease of mind.", "S": ["complacency", "fulfillment", "gratification", "pleasure", "satisfaction", "serenity"], "A": ["disappointment", "dissatisfaction", "trouble", "unhappiness", "agitation", "upset", "worry"]}

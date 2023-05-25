@@ -1,1 +1,1 @@
-{"index": 83571, "D": "devilish action or conduct; deviltry.", "S": ["deviltry ", "mischief-making ", "mischievousness ", "naughtiness ", "prankishness ", "rascality ", "roguery ", "roguishness ", "shenanigans ", "trouble ", "wickedness "], "A": []}
+{"index": 83571, "D": "devilish action or conduct; deviltry.", "S": ["deviltry", "mischief-making", "mischievousness", "naughtiness", "prankishness", "rascality", "roguery", "roguishness", "shenanigans", "trouble", "wickedness"], "A": []}

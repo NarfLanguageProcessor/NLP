@@ -1,1 +1,1 @@
-{"index": 91277, "D": "of or relating to the home, the household, household affairs, or the family", "S": ["attendant ", "butler ", "domestic ", "drudge ", "factotum ", "flunky ", "retainer ", "steward ", "subordinate ", "underling ", "valet "], "A": ["boss ", "master "]}
+{"index": 91277, "D": "of or relating to the home, the household, household affairs, or the family", "S": ["attendant", "butler", "domestic", "drudge", "factotum", "flunky", "retainer", "steward", "subordinate", "underling", "valet"], "A": ["boss", "master"]}

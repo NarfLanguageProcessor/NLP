@@ -1,1 +1,1 @@
-{"index": 160808, "D": "a food preparation of a soft, elastic consistency due to the presence of gelatin, pectin, etc., especially fruit juice boiled down with sugar and used as a sweet spread for bread and toast, as a filling for cakes or doughnuts, etc.", "S": ["gelatin "], "A": []}
+{"index": 160808, "D": "a food preparation of a soft, elastic consistency due to the presence of gelatin, pectin, etc., especially fruit juice boiled down with sugar and used as a sweet spread for bread and toast, as a filling for cakes or doughnuts, etc.", "S": ["gelatin"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 157806, "D": "to utter a long, distressful or dismal cry, as an animal or a person; howl.", "S": ["bawl ", "bay ", "caterwaul ", "cry ", "holler ", "howl ", "mewl ", "scream ", "screech ", "squall ", "squeal ", "ululate ", "wail ", "whine ", "yell ", "yelp ", "yip "], "A": []}
+{"index": 157806, "D": "to utter a long, distressful or dismal cry, as an animal or a person; howl.", "S": ["bawl", "bay", "caterwaul", "cry", "holler", "howl", "mewl", "scream", "screech", "squall", "squeal", "ululate", "wail", "whine", "yell", "yelp", "yip"], "A": []}

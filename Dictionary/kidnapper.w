@@ -1,1 +1,1 @@
-{"index": 164485, "D": "to steal, carry off, or abduct by force or fraud, especially for use as a hostage or to extract ransom.", "S": ["hijacker ", "shanghaier "], "A": []}
+{"index": 164485, "D": "to steal, carry off, or abduct by force or fraud, especially for use as a hostage or to extract ransom.", "S": ["hijacker", "shanghaier"], "A": []}

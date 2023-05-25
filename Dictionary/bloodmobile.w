@@ -1,1 +1,1 @@
-{"index": 36462, "D": "a small truck with medical equipment for receiving blood  donations.", "S": ["blood donor center "], "A": []}
+{"index": 36462, "D": "a small truck with medical equipment for receiving blood  donations.", "S": ["blood donor center"], "A": []}

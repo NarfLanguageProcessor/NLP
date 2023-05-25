@@ -1,1 +1,1 @@
-{"index": 209138, "D": "a tale or short story of the type contained in the Decameron of Boccaccio.", "S": ["fiction ", "narrative ", "paperback ", "prose ", "story ", "tale ", "yarn "], "A": ["nonfiction ", "truth "]}
+{"index": 209138, "D": "a tale or short story of the type contained in the Decameron of Boccaccio.", "S": ["fiction", "narrative", "paperback", "prose", "story", "tale", "yarn"], "A": ["nonfiction", "truth"]}

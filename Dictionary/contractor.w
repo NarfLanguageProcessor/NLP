@@ -1,1 +1,1 @@
-{"index": 67586, "D": "a person who contracts  to furnish supplies or perform work at a certain price or rate.", "S": ["constructor "], "A": []}
+{"index": 67586, "D": "a person who contracts  to furnish supplies or perform work at a certain price or rate.", "S": ["constructor"], "A": []}

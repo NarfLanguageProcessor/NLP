@@ -1,1 +1,1 @@
-{"index": 273949, "D": "a heavy steel transverse bar in the form of an inverted U rising from the framework of an automobile to prevent its occupants from being crushed if the vehicle rolls over.", "S": ["ARB ", "anti-sway bar ", "stabilizer bar ", "sway bar "], "A": []}
+{"index": 273949, "D": "a heavy steel transverse bar in the form of an inverted U rising from the framework of an automobile to prevent its occupants from being crushed if the vehicle rolls over.", "S": ["ARB", "anti-sway bar", "stabilizer bar", "sway bar"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 186109, "D": [], "S": ["micronutrient ", "minute amount ", "trace mineral "], "A": []}
+{"index": 186109, "D": [], "S": ["micronutrient", "minute amount", "trace mineral"], "A": []}

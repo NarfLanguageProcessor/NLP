@@ -1,1 +1,1 @@
-{"index": 251921, "D": "a person who writes code for computer programs. ", "S": ["computer specialist ", "engineer ", "guru ", "hacker ", "techie "], "A": []}
+{"index": 251921, "D": "a person who writes code for computer programs. ", "S": ["computer specialist", "engineer", "guru", "hacker", "techie"], "A": []}

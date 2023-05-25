@@ -1,1 +1,1 @@
-{"index": 35665, "D": "deserving blame;  blameful", "S": ["at fault ", "blamable ", "blameful ", "censurable ", "culpable ", "guilty ", "responsible "], "A": ["blameless ", "inculpable ", "innocent "]}
+{"index": 35665, "D": "deserving blame;  blameful", "S": ["at fault", "blamable", "blameful", "censurable", "culpable", "guilty", "responsible"], "A": ["blameless", "inculpable", "innocent"]}

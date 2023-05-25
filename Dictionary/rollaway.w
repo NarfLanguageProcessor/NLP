@@ -1,1 +1,1 @@
-{"index": 273946, "D": "designed to be rolled out of the way or out of sight when not in use", "S": ["Murphy bed ", "cot ", "folding bed ", "truckle bed ", "trundle bed "], "A": []}
+{"index": 273946, "D": "designed to be rolled out of the way or out of sight when not in use", "S": ["Murphy bed", "cot", "folding bed", "truckle bed", "trundle bed"], "A": []}

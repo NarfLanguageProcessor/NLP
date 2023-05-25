@@ -1,1 +1,1 @@
-{"index": 30604, "D": "(especially of a male parent) to procreate or generate (offspring).", "S": ["bearing ", "breeding ", "formation ", "genesis ", "origination ", "procreation ", "propagation ", "reproduction "], "A": ["destruction "]}
+{"index": 30604, "D": "(especially of a male parent) to procreate or generate (offspring).", "S": ["bearing", "breeding", "formation", "genesis", "origination", "procreation", "propagation", "reproduction"], "A": ["destruction"]}

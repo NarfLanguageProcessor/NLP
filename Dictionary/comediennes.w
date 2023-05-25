@@ -1,1 +1,1 @@
-{"index": 63739, "D": "a woman who is a comic entertainer or actress.", "S": ["entertainer ", "satirist "], "A": []}
+{"index": 63739, "D": "a woman who is a comic entertainer or actress.", "S": ["entertainer", "satirist"], "A": []}

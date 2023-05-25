@@ -1,1 +1,1 @@
-{"index": 303532, "D": "a mug, usually earthenware, especially for beer.", "S": ["chalice "], "A": []}
+{"index": 303532, "D": "a mug, usually earthenware, especially for beer.", "S": ["chalice"], "A": []}

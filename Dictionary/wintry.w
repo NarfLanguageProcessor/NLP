@@ -1,1 +1,1 @@
-{"index": 366297, "D": "of or characteristic of winter", "S": ["bleak ", "chilly ", "desolate ", "freezing ", "frigid ", "frosty ", "frozen ", "icy "], "A": ["cheerful ", "friendly ", "heated ", "hot ", "responsive ", "warm "]}
+{"index": 366297, "D": "of or characteristic of winter", "S": ["bleak", "chilly", "desolate", "freezing", "frigid", "frosty", "frozen", "icy"], "A": ["cheerful", "friendly", "heated", "hot", "responsive", "warm"]}

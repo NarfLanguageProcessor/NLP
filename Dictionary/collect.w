@@ -1,1 +1,1 @@
-{"index": 62888, "D": "to gather together; assemble", "S": ["amass ", "assemble ", "compile ", "gather ", "save "], "A": ["disperse ", "divide ", "scatter ", "separate ", "dissemble ", "spread ", "throw away "]}
+{"index": 62888, "D": "to gather together; assemble", "S": ["amass", "assemble", "compile", "gather", "save"], "A": ["disperse", "divide", "scatter", "separate", "dissemble", "spread", "throw away"]}

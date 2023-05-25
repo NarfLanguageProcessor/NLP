@@ -1,1 +1,1 @@
-{"index": 153534, "D": "deficient in human sensibility, acuteness of feeling, or consideration; unfeeling; callous", "S": ["crass ", "heartless ", "uncaring ", "unkind ", "unresponsive "], "A": ["considerate ", "kind ", "nice "]}
+{"index": 153534, "D": "deficient in human sensibility, acuteness of feeling, or consideration; unfeeling; callous", "S": ["crass", "heartless", "uncaring", "unkind", "unresponsive"], "A": ["considerate", "kind", "nice"]}

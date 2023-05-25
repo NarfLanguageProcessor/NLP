@@ -1,1 +1,1 @@
-{"index": 363130, "D": "a pigment for which water  and not oil is used as the vehicle.", "S": ["art ", "artwork ", "picture ", "piece ", "portrait "], "A": []}
+{"index": 363130, "D": "a pigment for which water  and not oil is used as the vehicle.", "S": ["art", "artwork", "picture", "piece", "portrait"], "A": []}

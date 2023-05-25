@@ -1,1 +1,1 @@
-{"index": 113234, "D": "a show in which large numbers of fireworks are let off simultaneously", "S": ["bursts ", "firecrackers ", "illuminations ", "rockets ", "sparklers "], "A": []}
+{"index": 113234, "D": "a show in which large numbers of fireworks are let off simultaneously", "S": ["bursts", "firecrackers", "illuminations", "rockets", "sparklers"], "A": []}

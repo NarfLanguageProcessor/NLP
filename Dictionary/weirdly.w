@@ -1,1 +1,1 @@
-{"index": 363934, "D": "strange; odd; bizarre", "S": ["gruesomely ", "insanely ", "unwholesomely "], "A": []}
+{"index": 363934, "D": "strange; odd; bizarre", "S": ["gruesomely", "insanely", "unwholesomely"], "A": []}

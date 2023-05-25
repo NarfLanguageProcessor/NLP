@@ -1,1 +1,1 @@
-{"index": 153360, "D": [], "S": ["wear and tear "], "A": ["building ", "construction ", "development ", "improvement ", "strengthening "]}
+{"index": 153360, "D": [], "S": ["wear and tear"], "A": ["building", "construction", "development", "improvement", "strengthening"]}

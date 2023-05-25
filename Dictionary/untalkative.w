@@ -1,1 +1,1 @@
-{"index": 352649, "D": "inclined to talk  a great deal", "S": ["reticent ", "taciturn "], "A": ["talkative "]}
+{"index": 352649, "D": "inclined to talk  a great deal", "S": ["reticent", "taciturn"], "A": ["talkative"]}

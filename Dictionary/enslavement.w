@@ -1,1 +1,1 @@
-{"index": 101060, "D": "the act of taking or holding someone as a slave", "S": ["servitude ", "slavery "], "A": ["mastery "]}
+{"index": 101060, "D": "the act of taking or holding someone as a slave", "S": ["servitude", "slavery"], "A": ["mastery"]}

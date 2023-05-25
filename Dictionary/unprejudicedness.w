@@ -1,1 +1,1 @@
-{"index": 348355, "D": "not prejudiced; without preconception; unbiased; impartial", "S": ["equity ", "honesty ", "impartiality ", "justice ", "justness ", "nonpartisanship ", "objectiveness ", "objectivity ", "righteousness ", "rightfulness ", "rightness "], "A": ["partiality ", "unfairness "]}
+{"index": 348355, "D": "not prejudiced; without preconception; unbiased; impartial", "S": ["equity", "honesty", "impartiality", "justice", "justness", "nonpartisanship", "objectiveness", "objectivity", "righteousness", "rightfulness", "rightness"], "A": ["partiality", "unfairness"]}

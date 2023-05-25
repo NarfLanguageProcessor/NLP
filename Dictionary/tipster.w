@@ -1,1 +1,1 @@
-{"index": 324389, "D": "a person who makes a business of furnishing tips,  as for betting or speculation.", "S": ["aide ", "coach ", "confidant ", "consultant ", "counselor "], "A": []}
+{"index": 324389, "D": "a person who makes a business of furnishing tips,  as for betting or speculation.", "S": ["aide", "coach", "confidant", "consultant", "counselor"], "A": []}

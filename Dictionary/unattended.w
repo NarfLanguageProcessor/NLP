@@ -1,1 +1,1 @@
-{"index": 335393, "D": "without attendance; lacking an audience, spectators, etc.", "S": ["neglected "], "A": []}
+{"index": 335393, "D": "without attendance; lacking an audience, spectators, etc.", "S": ["neglected"], "A": []}

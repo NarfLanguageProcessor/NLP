@@ -1,1 +1,1 @@
-{"index": 5458, "D": "offered or made available; provided", "S": ["allow ", "manage "], "A": ["refuse ", "reject "]}
+{"index": 5458, "D": "offered or made available; provided", "S": ["allow", "manage"], "A": ["refuse", "reject"]}

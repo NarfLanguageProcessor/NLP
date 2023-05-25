@@ -1,1 +1,0 @@
-{"index": 366344, "D": "a fox terrier having a wiry coat.", "S": [], "A": []}

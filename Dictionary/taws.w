@@ -1,1 +1,1 @@
-{"index": 317263, "D": "a whip or leather thong used to drive a spinning top.", "S": ["skin "], "A": []}
+{"index": 317263, "D": "a whip or leather thong used to drive a spinning top.", "S": ["skin"], "A": []}

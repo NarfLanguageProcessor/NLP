@@ -1,1 +1,1 @@
-{"index": 101438, "D": "to lead on by exciting hope or desire; allure; inveigle", "S": ["attract ", "beguile ", "cajole ", "coax ", "seduce ", "tempt "], "A": ["repel ", "repulse ", "turn off ", "disenchant ", "disgust "]}
+{"index": 101438, "D": "to lead on by exciting hope or desire; allure; inveigle", "S": ["attract", "beguile", "cajole", "coax", "seduce", "tempt"], "A": ["repel", "repulse", "turn off", "disenchant", "disgust"]}

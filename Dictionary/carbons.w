@@ -1,1 +1,1 @@
-{"index": 47560, "D": "a widely distributed element that forms organic compounds in combination with hydrogen, oxygen, etc., and that occurs in a pure state as diamond and graphite, and in an impure state as charcoal. Symbol", "S": ["graphite ", "soot "], "A": ["original "]}
+{"index": 47560, "D": "a widely distributed element that forms organic compounds in combination with hydrogen, oxygen, etc., and that occurs in a pure state as diamond and graphite, and in an impure state as charcoal. Symbol", "S": ["graphite", "soot"], "A": ["original"]}

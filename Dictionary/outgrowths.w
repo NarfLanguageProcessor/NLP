@@ -1,1 +1,1 @@
-{"index": 216758, "D": "a natural development, product, or result", "S": ["offshoot "], "A": ["depression "]}
+{"index": 216758, "D": "a natural development, product, or result", "S": ["offshoot"], "A": ["depression"]}

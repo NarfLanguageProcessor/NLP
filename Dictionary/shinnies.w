@@ -1,1 +1,1 @@
-{"index": 288384, "D": "a simple variety of hockey, played with a ball, block of wood, or the like, and clubs curved at one end.", "S": ["bandy ", "banty ", "hurley ", "hurling ", "shinty ", "street hockey "], "A": []}
+{"index": 288384, "D": "a simple variety of hockey, played with a ball, block of wood, or the like, and clubs curved at one end.", "S": ["bandy", "banty", "hurley", "hurling", "shinty", "street hockey"], "A": []}

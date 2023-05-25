@@ -1,1 +1,1 @@
-{"index": 143964, "D": "such as to cause horror; shockingly dreadful; abominable.", "S": ["atrocity ", "awfulness ", "dreadfulness ", "frightfulness ", "ghastliness ", "gruesomeness ", "monstrosity ", "rankness ", "repulsiveness "], "A": []}
+{"index": 143964, "D": "such as to cause horror; shockingly dreadful; abominable.", "S": ["atrocity", "awfulness", "dreadfulness", "frightfulness", "ghastliness", "gruesomeness", "monstrosity", "rankness", "repulsiveness"], "A": []}

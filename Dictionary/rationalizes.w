@@ -1,1 +1,1 @@
-{"index": 261083, "D": "to ascribe (one's acts, opinions, etc.) to causes that superficially seem reasonable and valid but that actually are unrelated to the true, possibly unconscious and often less creditable or agreeable causes.", "S": ["justify "], "A": []}
+{"index": 261083, "D": "to ascribe (one's acts, opinions, etc.) to causes that superficially seem reasonable and valid but that actually are unrelated to the true, possibly unconscious and often less creditable or agreeable causes.", "S": ["justify"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92337, "D": "a time  during a regular working period when an employee is not actively productive.", "S": ["free time ", "spare time "], "A": ["continuation ", "disturbance ", "energy ", "go ", "persistence "]}
+{"index": 92337, "D": "a time  during a regular working period when an employee is not actively productive.", "S": ["free time", "spare time"], "A": ["continuation", "disturbance", "energy", "go", "persistence"]}

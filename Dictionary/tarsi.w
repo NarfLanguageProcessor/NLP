@@ -1,1 +1,1 @@
-{"index": 316729, "D": "the bones of the proximal segment of the foot; the bones between the tibia and the metatarsus,  contributing to the construction of the ankle joint.", "S": ["bone "], "A": []}
+{"index": 316729, "D": "the bones of the proximal segment of the foot; the bones between the tibia and the metatarsus,  contributing to the construction of the ankle joint.", "S": ["bone"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 18164, "D": "the cultivation of aquatic animals and plants, especially fish, shellfish, and seaweed, in natural or controlled marine or freshwater environments; underwater agriculture. ", "S": ["hydroponics ", "tray agriculture "], "A": []}
+{"index": 18164, "D": "the cultivation of aquatic animals and plants, especially fish, shellfish, and seaweed, in natural or controlled marine or freshwater environments; underwater agriculture. ", "S": ["hydroponics", "tray agriculture"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 156404, "D": "causing or capable of causing intoxication", "S": ["exciting ", "exhilarating ", "heady ", "stimulating "], "A": ["boring "]}
+{"index": 156404, "D": "causing or capable of causing intoxication", "S": ["exciting", "exhilarating", "heady", "stimulating"], "A": ["boring"]}

@@ -1,1 +1,1 @@
-{"index": 35557, "D": "the extinguishing or concealment of all visible lights in a city, military post, etc., usually as a precaution against air raids.", "S": ["collapse "], "A": []}
+{"index": 35557, "D": "the extinguishing or concealment of all visible lights in a city, military post, etc., usually as a precaution against air raids.", "S": ["collapse"], "A": []}

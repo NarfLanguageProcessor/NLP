@@ -1,1 +1,0 @@
-{"index": 200830, "D": "a member of a people or tribe that has no permanent abode but moves about from place to place, usually seasonally and often following a traditional route or circuit according to the state of the pasturage or food supply.", "S": ["migrant ", "pilgrim ", "vagabond ", "wanderer "], "A": []}

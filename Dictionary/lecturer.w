@@ -1,1 +1,1 @@
-{"index": 169874, "D": "a person who lectures. ", "S": ["instructor ", "professor "], "A": ["pupil ", "student "]}
+{"index": 169874, "D": "a person who lectures. ", "S": ["instructor", "professor"], "A": ["pupil", "student"]}

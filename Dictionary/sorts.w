@@ -1,1 +1,1 @@
-{"index": 297706, "D": "a particular kind, species, variety, class, or group, distinguished by a common character or nature", "S": ["array ", "character ", "description ", "kind ", "lot ", "nature ", "number ", "quality ", "set ", "style "], "A": ["individual ", "one "]}
+{"index": 297706, "D": "a particular kind, species, variety, class, or group, distinguished by a common character or nature", "S": ["array", "character", "description", "kind", "lot", "nature", "number", "quality", "set", "style"], "A": ["individual", "one"]}

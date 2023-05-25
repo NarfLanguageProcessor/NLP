@@ -1,1 +1,1 @@
-{"index": 263550, "D": "to get back or regain (something lost or taken away)", "S": ["get back ", "reclaim ", "recoup ", "regain ", "repair ", "rescue ", "restore ", "resume ", "retrieve ", "salvage "], "A": ["break ", "damage ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "lose "]}
+{"index": 263550, "D": "to get back or regain (something lost or taken away)", "S": ["get back", "reclaim", "recoup", "regain", "repair", "rescue", "restore", "resume", "retrieve", "salvage"], "A": ["break", "damage", "destroy", "forfeit", "harm", "hurt", "injure", "lose"]}

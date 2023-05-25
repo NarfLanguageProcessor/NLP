@@ -1,1 +1,1 @@
-{"index": 37910, "D": "of or like bone. ", "S": ["anorexia ", "atrophy ", "attenuation ", "consumption ", "malnutrition ", "marasmus ", "skinniness ", "starvation ", "tabes ", "thinness ", "undernourishment ", "wasting ", "withering "], "A": []}
+{"index": 37910, "D": "of or like bone. ", "S": ["anorexia", "atrophy", "attenuation", "consumption", "malnutrition", "marasmus", "skinniness", "starvation", "tabes", "thinness", "undernourishment", "wasting", "withering"], "A": []}

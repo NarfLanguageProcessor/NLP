@@ -1,1 +1,1 @@
-{"index": 194795, "D": "(of the atmosphere, weather, etc.) oppressively humid; damp and close.", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}
+{"index": 194795, "D": "(of the atmosphere, weather, etc.) oppressively humid; damp and close.", "S": ["evaporation", "moisture"], "A": ["aridity", "dryness"]}

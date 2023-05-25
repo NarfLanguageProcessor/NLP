@@ -1,1 +1,1 @@
-{"index": 311368, "D": "retired because of age or infirmity.", "S": ["antiquated ", "dated ", "outmoded "], "A": ["modern ", "new "]}
+{"index": 311368, "D": "retired because of age or infirmity.", "S": ["antiquated", "dated", "outmoded"], "A": ["modern", "new"]}

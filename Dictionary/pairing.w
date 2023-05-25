@@ -1,1 +1,1 @@
-{"index": 223217, "D": "a coupling.", "S": ["associating ", "attaching ", "bridging ", "combining ", "coupling ", "fastening ", "fusing ", "interlacing ", "intertwining ", "joined ", "linking ", "mingling ", "mixing ", "relating ", "uniting ", "welding "], "A": []}
+{"index": 223217, "D": "a coupling.", "S": ["associating", "attaching", "bridging", "combining", "coupling", "fastening", "fusing", "interlacing", "intertwining", "joined", "linking", "mingling", "mixing", "relating", "uniting", "welding"], "A": []}

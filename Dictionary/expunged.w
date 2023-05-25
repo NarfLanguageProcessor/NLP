@@ -1,1 +1,1 @@
-{"index": 108070, "D": "to strike or blot out; erase; obliterate.", "S": ["absent ", "deleted ", "erased ", "forgotten ", "missing ", "neglected ", "overlooked ", "precluded "], "A": ["present "]}
+{"index": 108070, "D": "to strike or blot out; erase; obliterate.", "S": ["absent", "deleted", "erased", "forgotten", "missing", "neglected", "overlooked", "precluded"], "A": ["present"]}

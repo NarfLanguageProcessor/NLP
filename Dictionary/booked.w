@@ -1,0 +1,1 @@
+{"index": 38054, "D": "a handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers.", "S": ["contracted", "engaged", "reserved"], "A": ["free", "liberated"]}

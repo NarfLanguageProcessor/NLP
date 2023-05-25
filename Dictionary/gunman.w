@@ -1,1 +1,1 @@
-{"index": 131381, "D": "a person armed with or expert in the use of a gun,  especially one ready to use a gun  unlawfully.", "S": ["assassin ", "hit man ", "hit woman ", "sniper "], "A": []}
+{"index": 131381, "D": "a person armed with or expert in the use of a gun,  especially one ready to use a gun  unlawfully.", "S": ["assassin", "hit man", "hit woman", "sniper"], "A": []}

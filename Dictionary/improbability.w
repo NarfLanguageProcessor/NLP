@@ -1,1 +1,1 @@
-{"index": 149128, "D": "the quality or condition of being improbable;  unlikelihood.", "S": ["doubtfulness ", "implausibility ", "impossibility ", "rarity ", "uncertainty "], "A": []}
+{"index": 149128, "D": "the quality or condition of being improbable;  unlikelihood.", "S": ["doubtfulness", "implausibility", "impossibility", "rarity", "uncertainty"], "A": []}

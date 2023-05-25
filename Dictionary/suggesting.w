@@ -1,1 +1,1 @@
-{"index": 310247, "D": "to mention or introduce (an idea, proposition, plan, etc.) for consideration or possible action", "S": ["implying ", "saying "], "A": []}
+{"index": 310247, "D": "to mention or introduce (an idea, proposition, plan, etc.) for consideration or possible action", "S": ["implying", "saying"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 173336, "D": "a distilled or spirituous beverage, as brandy or whiskey, as distinguished from a fermented beverage, as wine or beer.", "S": ["alcohol ", "booze ", "whiskey "], "A": ["solid "]}

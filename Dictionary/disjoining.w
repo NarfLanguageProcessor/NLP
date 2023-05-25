@@ -1,1 +1,1 @@
-{"index": 88511, "D": "to undo or prevent the junction or union of; disunite; separate.", "S": ["disengagement "], "A": ["connection ", "juncture ", "unification ", "unity "]}
+{"index": 88511, "D": "to undo or prevent the junction or union of; disunite; separate.", "S": ["disengagement"], "A": ["connection", "juncture", "unification", "unity"]}

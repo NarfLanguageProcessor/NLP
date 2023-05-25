@@ -1,1 +1,1 @@
-{"index": 110710, "D": "without distinctive features;  uninteresting, plain, or drab", "S": ["forgettable ", "nameless "], "A": []}
+{"index": 110710, "D": "without distinctive features;  uninteresting, plain, or drab", "S": ["forgettable", "nameless"], "A": []}

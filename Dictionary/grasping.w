@@ -1,1 +1,1 @@
-{"index": 129165, "D": "greedy; avaricious", "S": ["mean ", "penny-pinching "], "A": ["generous "]}
+{"index": 129165, "D": "greedy; avaricious", "S": ["mean", "penny-pinching"], "A": ["generous"]}

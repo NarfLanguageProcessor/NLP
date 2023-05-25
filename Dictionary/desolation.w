@@ -1,1 +1,1 @@
-{"index": 82757, "D": "an act or instance of destroying or devastating land, population, community, etc", "S": ["bleakness ", "devastation ", "isolation ", "loneliness ", "solitude "], "A": ["construction ", "creation ", "development "]}
+{"index": 82757, "D": "an act or instance of destroying or devastating land, population, community, etc", "S": ["bleakness", "devastation", "isolation", "loneliness", "solitude"], "A": ["construction", "creation", "development"]}

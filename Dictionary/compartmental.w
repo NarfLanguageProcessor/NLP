@@ -1,1 +1,1 @@
-{"index": 64428, "D": "divided into compartments", "S": ["apportioned ", "compartmented ", "constituent ", "dismembered ", "dispersed ", "divided ", "fragmentary ", "frationary ", "incomplete ", "parceled ", "part ", "piecemeal ", "sectional ", "segmented "], "A": ["all ", "entire ", "total "]}
+{"index": 64428, "D": "divided into compartments", "S": ["apportioned", "compartmented", "constituent", "dismembered", "dispersed", "divided", "fragmentary", "frationary", "incomplete", "parceled", "part", "piecemeal", "sectional", "segmented"], "A": ["all", "entire", "total"]}

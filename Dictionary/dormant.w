@@ -1,1 +1,1 @@
-{"index": 91690, "D": "lying asleep or as if asleep; inactive, as in sleep; torpid", "S": ["asleep ", "comatose ", "inert ", "inoperative ", "latent ", "passive ", "sidelined ", "sluggish "], "A": ["active ", "alert ", "awake ", "conscious ", "lively "]}
+{"index": 91690, "D": "lying asleep or as if asleep; inactive, as in sleep; torpid", "S": ["asleep", "comatose", "inert", "inoperative", "latent", "passive", "sidelined", "sluggish"], "A": ["active", "alert", "awake", "conscious", "lively"]}

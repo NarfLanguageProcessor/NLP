@@ -1,1 +1,1 @@
-{"index": 241563, "D": "Compare grits (def. 1). ", "S": ["gruel ", "oatmeal "], "A": []}
+{"index": 241563, "D": "Compare grits (def. 1). ", "S": ["gruel", "oatmeal"], "A": []}

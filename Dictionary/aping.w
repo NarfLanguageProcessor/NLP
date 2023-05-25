@@ -1,1 +1,1 @@
-{"index": 16997, "D": "See also catarrhine. ", "S": ["caricature ", "parody "], "A": []}
+{"index": 16997, "D": "See also catarrhine. ", "S": ["caricature", "parody"], "A": []}

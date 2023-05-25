@@ -1,1 +1,1 @@
-{"index": 70622, "D": "to act  in opposition to; frustrate by contrary action.", "S": ["checking ", "counter to ", "countering ", "counterproductive ", "interfering ", "opposite "], "A": []}
+{"index": 70622, "D": "to act  in opposition to; frustrate by contrary action.", "S": ["checking", "counter to", "countering", "counterproductive", "interfering", "opposite"], "A": []}

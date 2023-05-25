@@ -1,1 +1,1 @@
-{"index": 213231, "D": "not closed or barred at the time, as a doorway by a door, a window by a sash, or a gateway by a gate", "S": ["free "], "A": []}
+{"index": 213231, "D": "not closed or barred at the time, as a doorway by a door, a window by a sash, or a gateway by a gate", "S": ["free"], "A": []}

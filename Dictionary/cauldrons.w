@@ -1,1 +1,1 @@
-{"index": 49955, "D": "a large kettle or boiler.", "S": ["boiler ", "kettle ", "pot ", "vat "], "A": []}
+{"index": 49955, "D": "a large kettle or boiler.", "S": ["boiler", "kettle", "pot", "vat"], "A": []}

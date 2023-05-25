@@ -1,1 +1,0 @@
-{"index": 351826, "D": "a strong, focused light  thrown upon a particular spot,  as on a small area of a stage or in a television studio, for making some object, person, or group especially conspicuous.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 244791, "D": "a shot  fired at game merely for food, with little regard to skill or the rules of sport.", "S": ["animadversion ", "aspersion ", "jab ", "obloquy ", "slap ", "slur ", "stricture ", "swipe "], "A": ["compliment ", "flattery ", "praise "]}
+{"index": 244791, "D": "a shot  fired at game merely for food, with little regard to skill or the rules of sport.", "S": ["animadversion", "aspersion", "jab", "obloquy", "slap", "slur", "stricture", "swipe"], "A": ["compliment", "flattery", "praise"]}

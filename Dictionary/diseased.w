@@ -1,1 +1,1 @@
-{"index": 87834, "D": "having or affected with disease. ", "S": ["afflicted ", "ailing ", "infected ", "infirm ", "rotten ", "sickly "], "A": ["healthy ", "hearty ", "nice "]}
+{"index": 87834, "D": "having or affected with disease. ", "S": ["afflicted", "ailing", "infected", "infirm", "rotten", "sickly"], "A": ["healthy", "hearty", "nice"]}

@@ -1,1 +1,1 @@
-{"index": 52368, "D": "a person who has defeated all opponents in a competition or series of competitions, so as to hold first place", "S": ["advocacy ", "involvement ", "militancy "], "A": []}
+{"index": 52368, "D": "a person who has defeated all opponents in a competition or series of competitions, so as to hold first place", "S": ["advocacy", "involvement", "militancy"], "A": []}

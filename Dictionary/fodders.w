@@ -1,1 +1,1 @@
-{"index": 115704, "D": "coarse food for livestock, composed of entire plants, including leaves, stalks, and grain, of such forages as corn and sorghum.", "S": ["barley ", "corn ", "food ", "forage ", "grain ", "hay "], "A": []}
+{"index": 115704, "D": "coarse food for livestock, composed of entire plants, including leaves, stalks, and grain, of such forages as corn and sorghum.", "S": ["barley", "corn", "food", "forage", "grain", "hay"], "A": []}

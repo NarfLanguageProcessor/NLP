@@ -1,0 +1,1 @@
+{"index": 24077, "D": "a tissue or organ that is grafted  into a new position on the body of the individual from which it was removed.", "S": [], "A": []}

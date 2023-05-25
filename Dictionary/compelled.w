@@ -1,1 +1,1 @@
-{"index": 64489, "D": "secured or brought about by force", "S": ["accountable ", "amenable ", "liable ", "obligated ", "obliged "], "A": ["irresponsible ", "unaccountable "]}
+{"index": 64489, "D": "secured or brought about by force", "S": ["accountable", "amenable", "liable", "obligated", "obliged"], "A": ["irresponsible", "unaccountable"]}

@@ -1,1 +1,1 @@
-{"index": 213506, "D": "a drug containing opium or its derivatives, used in medicine for inducing sleep and relieving pain", "S": ["anesthetize ", "desensitize ", "sedate "], "A": ["enliven ", "ignore ", "increase ", "neglect "]}
+{"index": 213506, "D": "a drug containing opium or its derivatives, used in medicine for inducing sleep and relieving pain", "S": ["anesthetize", "desensitize", "sedate"], "A": ["enliven", "ignore", "increase", "neglect"]}

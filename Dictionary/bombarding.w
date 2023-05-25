@@ -1,1 +1,1 @@
-{"index": 37685, "D": "to attack or batter with artillery fire.", "S": ["attack ", "bombardment ", "bombing ", "explosion ", "shelling "], "A": []}
+{"index": 37685, "D": "to attack or batter with artillery fire.", "S": ["attack", "bombardment", "bombing", "explosion", "shelling"], "A": []}

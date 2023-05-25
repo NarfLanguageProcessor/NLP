@@ -1,1 +1,1 @@
-{"index": 113992, "D": "to swing or sway back and forth loosely, especially with noise", "S": ["tumbling ", "whirling "], "A": []}
+{"index": 113992, "D": "to swing or sway back and forth loosely, especially with noise", "S": ["tumbling", "whirling"], "A": []}

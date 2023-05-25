@@ -1,1 +1,1 @@
-{"index": 288304, "D": "a relentless and revengeful moneylender in Shakespeare's Merchant of Venice.", "S": ["shark ", "swindler "], "A": []}
+{"index": 288304, "D": "a relentless and revengeful moneylender in Shakespeare's Merchant of Venice.", "S": ["shark", "swindler"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 98968, "D": "any colloidal suspension of a liquid in another liquid.", "S": ["demulcent ", "emollient ", "lenitive ", "mollifying ", "pianissimo "], "A": []}
+{"index": 98968, "D": "any colloidal suspension of a liquid in another liquid.", "S": ["demulcent", "emollient", "lenitive", "mollifying", "pianissimo"], "A": []}

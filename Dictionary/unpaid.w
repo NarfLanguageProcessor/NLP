@@ -1,1 +1,1 @@
-{"index": 347351, "D": "(of a bill, debt, etc) not yet paid", "S": ["contributed ", "donated ", "due ", "freewilled ", "gratuitous ", "honorary ", "unindemnified ", "unrewarded ", "unsalaried ", "volunteer "], "A": ["paid ", "settled "]}
+{"index": 347351, "D": "(of a bill, debt, etc) not yet paid", "S": ["contributed", "donated", "due", "freewilled", "gratuitous", "honorary", "unindemnified", "unrewarded", "unsalaried", "volunteer"], "A": ["paid", "settled"]}

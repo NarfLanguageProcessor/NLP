@@ -1,0 +1,1 @@
+{"index": 26047, "D": "ubiquitous one-celled organisms, spherical, spiral, or rod-shaped and appearing singly or in chains, comprising numerous and variously classified phyla", "S": ["bacilli", "germs", "microbes", "organisms", "pathogens"], "A": []}

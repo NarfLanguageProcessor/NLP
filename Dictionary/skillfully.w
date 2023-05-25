@@ -1,1 +1,1 @@
-{"index": 293196, "D": "having or exercising skill", "S": ["ably ", "adroitly ", "aptly ", "deftly ", "expertly ", "handily ", "ingeniously ", "neatly ", "nimbly ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}
+{"index": 293196, "D": "having or exercising skill", "S": ["ably", "adroitly", "aptly", "deftly", "expertly", "handily", "ingeniously", "neatly", "nimbly", "smoothly"], "A": ["awkwardly", "clumsily", "unskillfully"]}

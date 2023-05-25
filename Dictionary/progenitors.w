@@ -1,1 +1,0 @@
-{"index": 251845, "D": "a biologically related ancestor", "S": ["clan ", "folk ", "group ", "house ", "household ", "people ", "tribe "], "A": ["parent "]}

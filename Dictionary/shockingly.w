@@ -1,1 +1,1 @@
-{"index": 288653, "D": "causing intense surprise, disgust, horror, etc.", "S": ["fearfully ", "hopelessly "], "A": ["calmly ", "easily "]}
+{"index": 288653, "D": "causing intense surprise, disgust, horror, etc.", "S": ["fearfully", "hopelessly"], "A": ["calmly", "easily"]}

@@ -1,1 +1,1 @@
-{"index": 31503, "D": "tending to bend;  flexible or resilient.", "S": ["flexible "], "A": []}
+{"index": 31503, "D": "tending to bend;  flexible or resilient.", "S": ["flexible"], "A": []}

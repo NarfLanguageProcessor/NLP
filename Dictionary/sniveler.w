@@ -1,1 +1,1 @@
-{"index": 295617, "D": "to weep or cry with sniffling.", "S": ["crab ", "crybaby ", "faultfinder ", "grouch ", "growler ", "grumbler ", "grump ", "moaner ", "whiner "], "A": []}
+{"index": 295617, "D": "to weep or cry with sniffling.", "S": ["crab", "crybaby", "faultfinder", "grouch", "growler", "grumbler", "grump", "moaner", "whiner"], "A": []}

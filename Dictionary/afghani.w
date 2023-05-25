@@ -1,0 +1,1 @@
+{"index": 5525, "D": "a coin and monetary unit of Afghanistan, equal to 100 puls. Abbreviation", "S": [], "A": []}

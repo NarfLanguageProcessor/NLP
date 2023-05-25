@@ -1,1 +1,1 @@
-{"index": 331720, "D": "telling the truth,  especially habitually", "S": ["accurately ", "candidly ", "openly ", "sincerely "], "A": ["dishonestly ", "dishonorably ", "falsely ", "mendaciously ", "untruthfully "]}
+{"index": 331720, "D": "telling the truth,  especially habitually", "S": ["accurately", "candidly", "openly", "sincerely"], "A": ["dishonestly", "dishonorably", "falsely", "mendaciously", "untruthfully"]}

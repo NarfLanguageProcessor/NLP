@@ -1,1 +1,1 @@
-{"index": 197433, "D": "affected with nausea; nauseated", "S": ["antipathy ", "aversion ", "dislike ", "distaste ", "hatred ", "loathing ", "repulsion ", "revulsion "], "A": ["approval ", "liking ", "love ", "loving "]}
+{"index": 197433, "D": "affected with nausea; nauseated", "S": ["antipathy", "aversion", "dislike", "distaste", "hatred", "loathing", "repulsion", "revulsion"], "A": ["approval", "liking", "love", "loving"]}

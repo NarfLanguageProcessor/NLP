@@ -1,1 +1,1 @@
-{"index": 19040, "D": "a person responsible for preserving, organizing, or servicing archival material.", "S": ["curator ", "librarian "], "A": []}
+{"index": 19040, "D": "a person responsible for preserving, organizing, or servicing archival material.", "S": ["curator", "librarian"], "A": []}

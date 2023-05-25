@@ -1,1 +1,1 @@
-{"index": 110313, "D": "a soldier's uniform for fatigue duty.", "S": ["combat fatigues ", "military uniform "], "A": []}
+{"index": 110313, "D": "a soldier's uniform for fatigue duty.", "S": ["combat fatigues", "military uniform"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 260071, "D": "Compare drizzle (def. 6). ", "S": ["deluge ", "drizzle ", "flood ", "hail ", "mist ", "monsoon ", "precipitation ", "rainfall ", "rainstorm ", "shower ", "showers ", "sleet ", "stream ", "torrent "], "A": ["aridity ", "dryness "]}
+{"index": 260071, "D": "Compare drizzle (def. 6). ", "S": ["deluge", "drizzle", "flood", "hail", "mist", "monsoon", "precipitation", "rainfall", "rainstorm", "shower", "showers", "sleet", "stream", "torrent"], "A": ["aridity", "dryness"]}

@@ -1,1 +1,1 @@
-{"index": 261556, "D": "to make suitable to requirements or conditions; adjust or modify fittingly", "S": ["emigrate ", "graft ", "immigrate ", "remove ", "uproot "], "A": ["plant ", "remain ", "sow ", "stay "]}
+{"index": 261556, "D": "to make suitable to requirements or conditions; adjust or modify fittingly", "S": ["emigrate", "graft", "immigrate", "remove", "uproot"], "A": ["plant", "remain", "sow", "stay"]}

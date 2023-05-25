@@ -1,1 +1,1 @@
-{"index": 286956, "D": "sexual  character; possession of the structural and functional traits of sex.", "S": ["desire ", "lust ", "passion ", "sensuality "], "A": ["disgust ", "dislike ", "hate ", "hatred "]}
+{"index": 286956, "D": "sexual  character; possession of the structural and functional traits of sex.", "S": ["desire", "lust", "passion", "sensuality"], "A": ["disgust", "dislike", "hate", "hatred"]}

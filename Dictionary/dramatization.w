@@ -1,1 +1,1 @@
-{"index": 92669, "D": "the act of dramatizing. ", "S": ["dramatics ", "entertainment ", "melodrama "], "A": []}
+{"index": 92669, "D": "the act of dramatizing. ", "S": ["dramatics", "entertainment", "melodrama"], "A": []}

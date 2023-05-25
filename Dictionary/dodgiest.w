@@ -1,1 +1,1 @@
-{"index": 90788, "D": "inclined to dodge. ", "S": ["evasive ", "shifty "], "A": ["direct ", "forthright ", "honest ", "straightforward "]}
+{"index": 90788, "D": "inclined to dodge. ", "S": ["evasive", "shifty"], "A": ["direct", "forthright", "honest", "straightforward"]}

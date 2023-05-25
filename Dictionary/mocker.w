@@ -1,1 +1,1 @@
-{"index": 191006, "D": "clothing", "S": ["detractor ", "doubter ", "pessimist ", "skeptic "], "A": ["believer "]}
+{"index": 191006, "D": "clothing", "S": ["detractor", "doubter", "pessimist", "skeptic"], "A": ["believer"]}

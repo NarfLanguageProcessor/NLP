@@ -1,1 +1,1 @@
-{"index": 219317, "D": "excessively particular, critical, or demanding; hard to please", "S": ["choosy ", "conscientious ", "discriminating ", "finicky ", "scrupulous ", "squeamish "], "A": ["careless ", "uncritical ", "unscrupulous "]}
+{"index": 219317, "D": "excessively particular, critical, or demanding; hard to please", "S": ["choosy", "conscientious", "discriminating", "finicky", "scrupulous", "squeamish"], "A": ["careless", "uncritical", "unscrupulous"]}

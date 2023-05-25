@@ -1,1 +1,1 @@
-{"index": 282776, "D": "of lesser or minor quality, importance, or the like", "S": ["assistant ", "chorus ", "deputy ", "runnerup ", "second fiddle ", "second string ", "substitute ", "supporting role "], "A": []}
+{"index": 282776, "D": "of lesser or minor quality, importance, or the like", "S": ["assistant", "chorus", "deputy", "runnerup", "second fiddle", "second string", "substitute", "supporting role"], "A": []}

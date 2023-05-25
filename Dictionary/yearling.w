@@ -1,1 +1,1 @@
-{"index": 146719, "D": "an animal in its second year.", "S": ["calf ", "colt "], "A": []}
+{"index": 146719, "D": "an animal in its second year.", "S": ["calf", "colt"], "A": []}

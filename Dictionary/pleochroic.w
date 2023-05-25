@@ -1,1 +1,0 @@
-{"index": 239829, "D": "(of a biaxial crystal) characterized by pleochroism. ", "S": [], "A": []}

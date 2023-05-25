@@ -1,1 +1,1 @@
-{"index": 73389, "D": "of or like crystal;  clear; transparent.", "S": ["lucid ", "sparkling ", "translucent "], "A": ["cloudy "]}
+{"index": 73389, "D": "of or like crystal;  clear; transparent.", "S": ["lucid", "sparkling", "translucent"], "A": ["cloudy"]}

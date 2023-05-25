@@ -1,1 +1,1 @@
-{"index": 356969, "D": "the foremost division or the front part of an army; advance guard; van.", "S": ["front ", "lead ", "leaders ", "leading "], "A": ["followers ", "rear "]}
+{"index": 356969, "D": "the foremost division or the front part of an army; advance guard; van.", "S": ["front", "lead", "leaders", "leading"], "A": ["followers", "rear"]}

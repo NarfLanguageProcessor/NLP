@@ -1,1 +1,0 @@
-{"index": 237339, "D": "the first meson to be discovered", "S": [], "A": []}

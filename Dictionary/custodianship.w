@@ -1,1 +1,1 @@
-{"index": 75699, "D": "the condition of being a custodian", "S": ["care ", "guardianship ", "protection "], "A": ["destruction ", "neglect ", "waste "]}
+{"index": 75699, "D": "the condition of being a custodian", "S": ["care", "guardianship", "protection"], "A": ["destruction", "neglect", "waste"]}

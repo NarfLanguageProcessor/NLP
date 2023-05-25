@@ -1,1 +1,1 @@
-{"index": 87112, "D": "to dissociate. ", "S": ["disconnect ", "divorce ", "part ", "separate ", "uncouple "], "A": ["connect ", "join ", "marry "]}
+{"index": 87112, "D": "to dissociate. ", "S": ["disconnect", "divorce", "part", "separate", "uncouple"], "A": ["connect", "join", "marry"]}

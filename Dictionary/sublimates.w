@@ -1,1 +1,1 @@
-{"index": 308407, "D": "to divert the energy of (a sexual or other biological impulse) from its immediate goal to one of a more acceptable social, moral, or aesthetic nature or use.", "S": ["clean ", "cleanse ", "rarefy ", "refine ", "uphold "], "A": ["dirty ", "soil "]}
+{"index": 308407, "D": "to divert the energy of (a sexual or other biological impulse) from its immediate goal to one of a more acceptable social, moral, or aesthetic nature or use.", "S": ["clean", "cleanse", "rarefy", "refine", "uphold"], "A": ["dirty", "soil"]}

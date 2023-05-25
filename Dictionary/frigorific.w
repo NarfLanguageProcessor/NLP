@@ -1,1 +1,1 @@
-{"index": 119028, "D": "causing or producing cold.", "S": ["chilly ", "cold ", "freezing ", "frigid ", "frosty ", "glacial ", "polar ", "raw "], "A": ["heated ", "hot ", "warm "]}
+{"index": 119028, "D": "causing or producing cold.", "S": ["chilly", "cold", "freezing", "frigid", "frosty", "glacial", "polar", "raw"], "A": ["heated", "hot", "warm"]}

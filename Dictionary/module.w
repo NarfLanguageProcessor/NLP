@@ -1,1 +1,1 @@
-{"index": 191188, "D": "a separable component, frequently one that is interchangeable with others, for assembly into units of differing size, complexity, or function.", "S": ["width "], "A": []}
+{"index": 191188, "D": "a separable component, frequently one that is interchangeable with others, for assembly into units of differing size, complexity, or function.", "S": ["width"], "A": []}

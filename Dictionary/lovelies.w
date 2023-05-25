@@ -1,1 +1,1 @@
-{"index": 175555, "D": "charmingly or exquisitely beautiful", "S": ["apotheosis ", "epitome ", "exemplar "], "A": ["flaw ", "imperfection ", "worst "]}
+{"index": 175555, "D": "charmingly or exquisitely beautiful", "S": ["apotheosis", "epitome", "exemplar"], "A": ["flaw", "imperfection", "worst"]}

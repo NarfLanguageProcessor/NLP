@@ -1,1 +1,1 @@
-{"index": 291188, "D": "a program broadcast  simultaneously on radio and television, or on more than one station, or in several languages, etc.", "S": ["advertisement ", "announcement ", "newscast ", "performance ", "program ", "publication ", "show ", "transmission "], "A": []}
+{"index": 291188, "D": "a program broadcast  simultaneously on radio and television, or on more than one station, or in several languages, etc.", "S": ["advertisement", "announcement", "newscast", "performance", "program", "publication", "show", "transmission"], "A": []}

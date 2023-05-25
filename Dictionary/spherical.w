@@ -1,1 +1,1 @@
-{"index": 299503, "D": "having the form of a sphere;  globular.", "S": ["rounded "], "A": []}
+{"index": 299503, "D": "having the form of a sphere;  globular.", "S": ["rounded"], "A": []}

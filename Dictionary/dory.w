@@ -1,1 +1,1 @@
-{"index": 91662, "D": "a boat with a narrow, flat bottom, high bow, and flaring sides.", "S": ["raft "], "A": []}
+{"index": 91662, "D": "a boat with a narrow, flat bottom, high bow, and flaring sides.", "S": ["raft"], "A": []}

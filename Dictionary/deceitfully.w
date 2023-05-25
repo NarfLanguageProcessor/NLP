@@ -1,1 +1,1 @@
-{"index": 78146, "D": "given to deceiving", "S": ["dishonestly ", "disloyally ", "perfidiously ", "unfaithfully ", "unscrupulously "], "A": ["faithfully ", "harmlessly ", "honestly ", "loyally ", "safely "]}
+{"index": 78146, "D": "given to deceiving", "S": ["dishonestly", "disloyally", "perfidiously", "unfaithfully", "unscrupulously"], "A": ["faithfully", "harmlessly", "honestly", "loyally", "safely"]}

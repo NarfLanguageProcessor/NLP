@@ -1,1 +1,1 @@
-{"index": 134362, "D": "(in certain crustaceans and insects) an organ or part of the proboscis adapted for sucking blood or plant juices.", "S": ["beak ", "organ ", "snoot ", "snout ", "trunk "], "A": []}
+{"index": 134362, "D": "(in certain crustaceans and insects) an organ or part of the proboscis adapted for sucking blood or plant juices.", "S": ["beak", "organ", "snoot", "snout", "trunk"], "A": []}

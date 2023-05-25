@@ -1,1 +1,1 @@
-{"index": 199971, "D": "a loose shirtlike garment reaching to the knees or lower, for wearing in bed.", "S": ["lingerie ", "pajamas "], "A": []}
+{"index": 199971, "D": "a loose shirtlike garment reaching to the knees or lower, for wearing in bed.", "S": ["lingerie", "pajamas"], "A": []}

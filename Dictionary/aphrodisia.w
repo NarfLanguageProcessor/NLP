@@ -1,1 +1,1 @@
-{"index": 16910, "D": "sexual desire.", "S": ["craving ", "hankering ", "impulse ", "yearning "], "A": ["dislike ", "hate ", "calm ", "disgust ", "hatred ", "indifference "]}
+{"index": 16910, "D": "sexual desire.", "S": ["craving", "hankering", "impulse", "yearning"], "A": ["dislike", "hate", "calm", "disgust", "hatred", "indifference"]}

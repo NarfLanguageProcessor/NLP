@@ -1,1 +1,1 @@
-{"index": 105973, "D": "vanishing; fading away; fleeting. ", "S": ["brief ", "disappearing ", "fading ", "fleeting ", "momentary ", "passing ", "short-lived ", "temporary ", "tenuous ", "vanishing "], "A": []}
+{"index": 105973, "D": "vanishing; fading away; fleeting. ", "S": ["brief", "disappearing", "fading", "fleeting", "momentary", "passing", "short-lived", "temporary", "tenuous", "vanishing"], "A": []}

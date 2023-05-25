@@ -1,1 +1,1 @@
-{"index": 198046, "D": "characterized by neglect;  disregardful; careless; negligent (often followed by of)", "S": ["inattention ", "neglect ", "negligence ", "nonchalance ", "sloppiness "], "A": ["caution "]}
+{"index": 198046, "D": "characterized by neglect;  disregardful; careless; negligent (often followed by of)", "S": ["inattention", "neglect", "negligence", "nonchalance", "sloppiness"], "A": ["caution"]}

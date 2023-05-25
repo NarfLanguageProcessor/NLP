@@ -1,1 +1,1 @@
-{"index": 265889, "D": "a law, rule, or other order prescribed by authority, especially to regulate  conduct", "S": ["customs ", "established ways ", "etiquette ", "method ", "mode ", "practice ", "rules ", "system ", "traditional action "], "A": []}
+{"index": 265889, "D": "a law, rule, or other order prescribed by authority, especially to regulate  conduct", "S": ["customs", "established ways", "etiquette", "method", "mode", "practice", "rules", "system", "traditional action"], "A": []}

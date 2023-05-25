@@ -1,1 +1,1 @@
-{"index": 216803, "D": "an outbuilding with one or more seats and a pit serving as a toilet; privy.", "S": ["bathroom ", "latrine ", "lavatory ", "outbuilding "], "A": []}
+{"index": 216803, "D": "an outbuilding with one or more seats and a pit serving as a toilet; privy.", "S": ["bathroom", "latrine", "lavatory", "outbuilding"], "A": []}

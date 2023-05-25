@@ -1,1 +1,1 @@
-{"index": 88475, "D": "to take out of the place of interment; exhume; unearth.", "S": ["detected ", "disclosed ", "exposed ", "identified ", "invented "], "A": ["hidden ", "lost "]}
+{"index": 88475, "D": "to take out of the place of interment; exhume; unearth.", "S": ["detected", "disclosed", "exposed", "identified", "invented"], "A": ["hidden", "lost"]}

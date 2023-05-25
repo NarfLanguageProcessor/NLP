@@ -1,1 +1,1 @@
-{"index": 175130, "D": "free or released from fastening or attachment", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}
+{"index": 175130, "D": "free or released from fastening or attachment", "S": ["baggy", "lax", "relaxed", "sloppy"], "A": ["strict", "tight", "hindered", "rigid", "stiff"]}

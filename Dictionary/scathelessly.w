@@ -1,1 +1,0 @@
-{"index": 279836, "D": "to attack with severe criticism.", "S": [], "A": []}

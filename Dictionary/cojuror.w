@@ -1,1 +1,1 @@
-{"index": 62597, "D": [], "S": ["actor ", "agent ", "confederate ", "contractor ", "defendant ", "litigant ", "partaker ", "participant ", "plaintiff ", "plotter ", "sharer "], "A": []}
+{"index": 62597, "D": [], "S": ["actor", "agent", "confederate", "contractor", "defendant", "litigant", "partaker", "participant", "plaintiff", "plotter", "sharer"], "A": []}

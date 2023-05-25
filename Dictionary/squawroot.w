@@ -1,1 +1,0 @@
-{"index": 301834, "D": "a fleshy, leafless plant, Conopholis americana, of the broomrape family, native to eastern North America, having a stout, yellowish, conelike stalk of lipped flowers, and growing in clusters, especially under oaks.", "S": [], "A": []}

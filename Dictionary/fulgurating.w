@@ -1,1 +1,1 @@
-{"index": 119912, "D": "(of pains) sharp and piercing.", "S": ["lambent ", "meteoric ", "uncertain "], "A": []}
+{"index": 119912, "D": "(of pains) sharp and piercing.", "S": ["lambent", "meteoric", "uncertain"], "A": []}

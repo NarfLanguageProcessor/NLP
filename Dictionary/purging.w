@@ -1,1 +1,1 @@
-{"index": 256937, "D": "having a clearing, emptying, or purifying effect", "S": ["aperient ", "aperitive ", "emetic ", "expiatory ", "laxative ", "lustral ", "lustrative ", "physic ", "purificatory "], "A": []}
+{"index": 256937, "D": "having a clearing, emptying, or purifying effect", "S": ["aperient", "aperitive", "emetic", "expiatory", "laxative", "lustral", "lustrative", "physic", "purificatory"], "A": []}

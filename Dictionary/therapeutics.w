@@ -1,1 +1,1 @@
-{"index": 321195, "D": "the branch of medicine concerned with the remedial treatment of disease.", "S": ["regimen ", "rehabilitation ", "therapy "], "A": []}
+{"index": 321195, "D": "the branch of medicine concerned with the remedial treatment of disease.", "S": ["regimen", "rehabilitation", "therapy"], "A": []}

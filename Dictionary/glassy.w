@@ -1,1 +1,1 @@
-{"index": 125974, "D": "resembling glass,  as in transparency or smoothness.", "S": ["glazed ", "icy ", "shiny ", "sleek "], "A": ["dull ", "rough "]}
+{"index": 125974, "D": "resembling glass,  as in transparency or smoothness.", "S": ["glazed", "icy", "shiny", "sleek"], "A": ["dull", "rough"]}

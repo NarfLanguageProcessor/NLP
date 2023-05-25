@@ -1,1 +1,1 @@
-{"index": 62800, "D": "variant of collo-  before a vowel.", "S": ["clamp ", "clutch ", "fasten ", "grasp "], "A": ["let go ", "loosen ", "open ", "release ", "unfasten ", "unlock ", "disbelieve ", "give ", "offer ", "receive ", "reject ", "stop "]}
+{"index": 62800, "D": "variant of collo-  before a vowel.", "S": ["clamp", "clutch", "fasten", "grasp"], "A": ["let go", "loosen", "open", "release", "unfasten", "unlock", "disbelieve", "give", "offer", "receive", "reject", "stop"]}

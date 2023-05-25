@@ -1,1 +1,1 @@
-{"index": 346028, "D": "not marked.", "S": ["clean ", "cleared ", "fair ", "fine ", "flawless ", "unblemished "], "A": []}
+{"index": 346028, "D": "not marked.", "S": ["clean", "cleared", "fair", "fine", "flawless", "unblemished"], "A": []}

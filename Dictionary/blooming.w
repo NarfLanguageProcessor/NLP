@@ -1,1 +1,1 @@
-{"index": 36525, "D": "in bloom;  flowering; blossoming.", "S": ["budding ", "flourishing "], "A": ["barren ", "declining ", "fading ", "sterile ", "unfruitful "]}
+{"index": 36525, "D": "in bloom;  flowering; blossoming.", "S": ["budding", "flourishing"], "A": ["barren", "declining", "fading", "sterile", "unfruitful"]}

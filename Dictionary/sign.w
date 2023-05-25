@@ -1,1 +1,1 @@
-{"index": 290081, "D": "a token or indication; a piece of evidence", "S": ["clue ", "flag ", "gesture ", "harbinger ", "hint ", "light ", "manifestation ", "note ", "prediction ", "proof ", "signal ", "suggestion ", "symbol ", "symptom ", "trace ", "warning ", "wave "], "A": ["obscurity "]}
+{"index": 290081, "D": "a token or indication; a piece of evidence", "S": ["clue", "flag", "gesture", "harbinger", "hint", "light", "manifestation", "note", "prediction", "proof", "signal", "suggestion", "symbol", "symptom", "trace", "warning", "wave"], "A": ["obscurity"]}

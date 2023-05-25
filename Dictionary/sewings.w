@@ -1,1 +1,1 @@
-{"index": 286806, "D": "the act or work of one who sews. ", "S": ["tailoring "], "A": []}
+{"index": 286806, "D": "the act or work of one who sews. ", "S": ["tailoring"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 179339, "D": "a person who manipulates. ", "S": ["schemer "], "A": []}

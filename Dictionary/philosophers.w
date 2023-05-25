@@ -1,1 +1,1 @@
-{"index": 233932, "D": "a person who offers views or theories on profound questions in ethics, metaphysics, logic, and other related fields.", "S": ["theorist "], "A": []}
+{"index": 233932, "D": "a person who offers views or theories on profound questions in ethics, metaphysics, logic, and other related fields.", "S": ["theorist"], "A": []}

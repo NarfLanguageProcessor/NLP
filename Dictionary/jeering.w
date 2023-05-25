@@ -1,1 +1,1 @@
-{"index": 160745, "D": "to speak or shout derisively; scoff or gibe rudely", "S": ["taunting ", "yelling "], "A": []}
+{"index": 160745, "D": "to speak or shout derisively; scoff or gibe rudely", "S": ["taunting", "yelling"], "A": []}

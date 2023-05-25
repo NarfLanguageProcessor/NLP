@@ -1,1 +1,1 @@
-{"index": 150000, "D": "incognita or incognito.", "S": ["buried ", "camouflaged ", "covered ", "planted ", "veiled "], "A": ["bare ", "clear ", "disclosed ", "exposed ", "obvious ", "open ", "plain ", "revealed ", "shown ", "told ", "uncovered "]}
+{"index": 150000, "D": "incognita or incognito.", "S": ["buried", "camouflaged", "covered", "planted", "veiled"], "A": ["bare", "clear", "disclosed", "exposed", "obvious", "open", "plain", "revealed", "shown", "told", "uncovered"]}

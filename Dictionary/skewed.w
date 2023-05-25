@@ -1,1 +1,1 @@
-{"index": 293036, "D": "distorted or biased; giving an unfair or misleading view of something", "S": ["jagged "], "A": ["straight "]}
+{"index": 293036, "D": "distorted or biased; giving an unfair or misleading view of something", "S": ["jagged"], "A": ["straight"]}

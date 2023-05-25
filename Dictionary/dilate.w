@@ -1,1 +1,1 @@
-{"index": 85691, "D": "to make wider or larger; cause to expand.", "S": ["expound "], "A": ["abbreviate ", "abridge ", "compress ", "condense ", "contract ", "curtail ", "cut ", "decrease ", "deflate ", "diminish ", "lessen ", "lower ", "narrow ", "reduce ", "shorten ", "shrink "]}
+{"index": 85691, "D": "to make wider or larger; cause to expand.", "S": ["expound"], "A": ["abbreviate", "abridge", "compress", "condense", "contract", "curtail", "cut", "decrease", "deflate", "diminish", "lessen", "lower", "narrow", "reduce", "shorten", "shrink"]}

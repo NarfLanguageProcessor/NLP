@@ -1,1 +1,1 @@
-{"index": 85786, "D": "to make (a liquid) thinner or weaker by the addition of water or the like.", "S": ["adulterated ", "cut ", "dilute ", "impaired ", "impoverished ", "light ", "reduced ", "weakened "], "A": ["strong "]}
+{"index": 85786, "D": "to make (a liquid) thinner or weaker by the addition of water or the like.", "S": ["adulterated", "cut", "dilute", "impaired", "impoverished", "light", "reduced", "weakened"], "A": ["strong"]}

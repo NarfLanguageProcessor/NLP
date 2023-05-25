@@ -1,1 +1,0 @@
-{"index": 210349, "D": "(of meaning) not clear or plain; ambiguous, vague, or uncertain", "S": [], "A": []}

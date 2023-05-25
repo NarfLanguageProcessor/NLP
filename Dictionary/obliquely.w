@@ -1,1 +1,1 @@
-{"index": 210223, "D": "in an oblique  manner or direction.", "S": ["sideways "], "A": []}
+{"index": 210223, "D": "in an oblique  manner or direction.", "S": ["sideways"], "A": []}

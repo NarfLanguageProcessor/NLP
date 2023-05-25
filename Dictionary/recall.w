@@ -1,1 +1,1 @@
-{"index": 262552, "D": "to bring back from memory; recollect; remember", "S": ["anamnesis ", "memory ", "recollection ", "reminiscence "], "A": ["forgetfulness ", "restoration "]}
+{"index": 262552, "D": "to bring back from memory; recollect; remember", "S": ["anamnesis", "memory", "recollection", "reminiscence"], "A": ["forgetfulness", "restoration"]}

@@ -1,1 +1,1 @@
-{"index": 288008, "D": "to place (something) on a shelf  or shelves.", "S": ["damaged "], "A": ["cherished "]}
+{"index": 288008, "D": "to place (something) on a shelf  or shelves.", "S": ["damaged"], "A": ["cherished"]}

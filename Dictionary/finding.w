@@ -1,1 +1,1 @@
-{"index": 112893, "D": "the act of a person or thing that finds;  discovery.", "S": ["conclusion ", "data ", "decision ", "discovery ", "recommendation "], "A": []}
+{"index": 112893, "D": "the act of a person or thing that finds;  discovery.", "S": ["conclusion", "data", "decision", "discovery", "recommendation"], "A": []}

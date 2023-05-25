@@ -1,1 +1,0 @@
-{"index": 327342, "D": "an actor especially noted for performing tragic roles.", "S": ["author ", "dramatist ", "librettist ", "scenarist ", "writer "], "A": []}

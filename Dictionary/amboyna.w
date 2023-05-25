@@ -1,0 +1,1 @@
+{"index": 10084, "D": "the mottled curly-grained wood of an Indonesian leguminous tree, Pterocarpus indicus, used in making furniture", "S": [], "A": []}

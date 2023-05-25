@@ -1,1 +1,1 @@
-{"index": 316372, "D": [], "S": ["covering ", "cushioning ", "lining ", "padding "], "A": []}
+{"index": 316372, "D": [], "S": ["covering", "cushioning", "lining", "padding"], "A": []}

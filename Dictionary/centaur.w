@@ -1,1 +1,1 @@
-{"index": 50797, "D": "one of a race of creatures having the head, trunk, and arms of a man, and the body and legs of a horse.", "S": ["behemoth ", "freak ", "giant ", "whale "], "A": ["angel ", "god "]}
+{"index": 50797, "D": "one of a race of creatures having the head, trunk, and arms of a man, and the body and legs of a horse.", "S": ["behemoth", "freak", "giant", "whale"], "A": ["angel", "god"]}

@@ -1,1 +1,1 @@
-{"index": 199595, "D": "an ornamental recess in a wall or the like, usually semicircular in plan and arched, as for a statue or other decorative object.", "S": ["alcove ", "slot "], "A": ["closure ", "entertainment ", "solid "]}
+{"index": 199595, "D": "an ornamental recess in a wall or the like, usually semicircular in plan and arched, as for a statue or other decorative object.", "S": ["alcove", "slot"], "A": ["closure", "entertainment", "solid"]}

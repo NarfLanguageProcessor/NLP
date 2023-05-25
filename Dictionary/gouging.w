@@ -1,1 +1,1 @@
-{"index": 128304, "D": "a chisel having a partly cylindrical blade with the bevel on either the concave or the convex side.", "S": ["burrow ", "claw ", "dig ", "dredge ", "excavate ", "gash ", "groove ", "scrape ", "scratch ", "shovel ", "tunnel "], "A": ["fill "]}
+{"index": 128304, "D": "a chisel having a partly cylindrical blade with the bevel on either the concave or the convex side.", "S": ["burrow", "claw", "dig", "dredge", "excavate", "gash", "groove", "scrape", "scratch", "shovel", "tunnel"], "A": ["fill"]}

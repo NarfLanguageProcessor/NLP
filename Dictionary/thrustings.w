@@ -1,1 +1,1 @@
-{"index": 322899, "D": [], "S": ["advance ", "assault ", "attack ", "drive ", "effort ", "offensive ", "thrust "], "A": ["hesitation ", "idleness ", "laziness "]}
+{"index": 322899, "D": [], "S": ["advance", "assault", "attack", "drive", "effort", "offensive", "thrust"], "A": ["hesitation", "idleness", "laziness"]}

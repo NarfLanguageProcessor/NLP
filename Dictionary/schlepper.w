@@ -1,1 +1,1 @@
-{"index": 280303, "D": "to carry; lug", "S": ["courier ", "emissary ", "go-between ", "mediator ", "prophet "], "A": ["receiver "]}
+{"index": 280303, "D": "to carry; lug", "S": ["courier", "emissary", "go-between", "mediator", "prophet"], "A": ["receiver"]}

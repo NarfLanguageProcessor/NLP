@@ -1,1 +1,1 @@
-{"index": 260882, "D": "a thin slice of bacon or ham for frying or broiling.", "S": ["cut ", "helping ", "part ", "piece ", "portion "], "A": ["whole "]}
+{"index": 260882, "D": "a thin slice of bacon or ham for frying or broiling.", "S": ["cut", "helping", "part", "piece", "portion"], "A": ["whole"]}

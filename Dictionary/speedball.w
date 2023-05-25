@@ -1,1 +1,1 @@
-{"index": 299006, "D": "a game similar to soccer with the chief difference that a player catching the ball  on the fly can pass it with the hands.", "S": ["agile ", "brisk ", "hot ", "nimble ", "quick ", "rapid ", "swift "], "A": ["clumsy ", "slow ", "dull "]}
+{"index": 299006, "D": "a game similar to soccer with the chief difference that a player catching the ball  on the fly can pass it with the hands.", "S": ["agile", "brisk", "hot", "nimble", "quick", "rapid", "swift"], "A": ["clumsy", "slow", "dull"]}

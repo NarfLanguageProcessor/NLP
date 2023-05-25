@@ -1,1 +1,1 @@
-{"index": 160088, "D": "having ragged notches, points, or teeth; zigzag", "S": ["broken ", "craggy ", "irregular ", "rugged ", "uneven "], "A": ["continuous ", "even ", "flat ", "level ", "smooth ", "mild ", "nice "]}
+{"index": 160088, "D": "having ragged notches, points, or teeth; zigzag", "S": ["broken", "craggy", "irregular", "rugged", "uneven"], "A": ["continuous", "even", "flat", "level", "smooth", "mild", "nice"]}

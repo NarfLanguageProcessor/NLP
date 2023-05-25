@@ -1,1 +1,1 @@
-{"index": 4688, "D": "proper to be suggested or recommended; desirable or wise, as a course of action", "S": ["desirable ", "prudent "], "A": ["improper ", "imprudent ", "inadvisable ", "inappropriate ", "injudicious ", "unwise "]}
+{"index": 4688, "D": "proper to be suggested or recommended; desirable or wise, as a course of action", "S": ["desirable", "prudent"], "A": ["improper", "imprudent", "inadvisable", "inappropriate", "injudicious", "unwise"]}

@@ -1,1 +1,1 @@
-{"index": 296077, "D": "a nickname.", "S": ["appellation ", "moniker "], "A": ["name "]}
+{"index": 296077, "D": "a nickname.", "S": ["appellation", "moniker"], "A": ["name"]}

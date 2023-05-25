@@ -1,1 +1,1 @@
-{"index": 324598, "D": [], "S": ["agile ", "airy ", "buoyant ", "delicate ", "fluffy ", "lightweight ", "loose ", "slender ", "slight ", "small ", "thin "], "A": ["big ", "coarse ", "fat ", "heavy ", "large ", "strong ", "thick ", "clumsy "]}
+{"index": 324598, "D": [], "S": ["agile", "airy", "buoyant", "delicate", "fluffy", "lightweight", "loose", "slender", "slight", "small", "thin"], "A": ["big", "coarse", "fat", "heavy", "large", "strong", "thick", "clumsy"]}

@@ -1,1 +1,1 @@
-{"index": 79464, "D": "the act of deforming;  distortion; disfigurement.", "S": ["deformity "], "A": ["grin ", "smile "]}
+{"index": 79464, "D": "the act of deforming;  distortion; disfigurement.", "S": ["deformity"], "A": ["grin", "smile"]}

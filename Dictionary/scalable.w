@@ -1,1 +1,1 @@
-{"index": 279359, "D": "capable of being scaled", "S": ["extensible "], "A": ["impenetrable "]}
+{"index": 279359, "D": "capable of being scaled", "S": ["extensible"], "A": ["impenetrable"]}

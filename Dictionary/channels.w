@@ -1,1 +1,1 @@
-{"index": 52520, "D": "the bed of a stream, river, or other waterway.", "S": ["charge ", "handling ", "management ", "manipulation ", "oversight ", "plan ", "policy ", "strategy ", "transaction ", "treatment "], "A": ["mismanagement ", "disorganization ", "disregard ", "ignorance ", "neglect "]}
+{"index": 52520, "D": "the bed of a stream, river, or other waterway.", "S": ["charge", "handling", "management", "manipulation", "oversight", "plan", "policy", "strategy", "transaction", "treatment"], "A": ["mismanagement", "disorganization", "disregard", "ignorance", "neglect"]}

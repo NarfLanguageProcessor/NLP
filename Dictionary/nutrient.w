@@ -1,1 +1,1 @@
-{"index": 209799, "D": "nourishing;  providing nourishment or nutriment.", "S": ["fiber ", "food ", "mineral ", "vitamin "], "A": []}
+{"index": 209799, "D": "nourishing;  providing nourishment or nutriment.", "S": ["fiber", "food", "mineral", "vitamin"], "A": []}

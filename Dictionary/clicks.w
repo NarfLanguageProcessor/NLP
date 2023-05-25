@@ -1,1 +1,1 @@
-{"index": 59901, "D": "a slight, sharp sound", "S": ["bang ", "beat ", "clack ", "snap ", "tick "], "A": []}
+{"index": 59901, "D": "a slight, sharp sound", "S": ["bang", "beat", "clack", "snap", "tick"], "A": []}

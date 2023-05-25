@@ -1,1 +1,1 @@
-{"index": 294603, "D": "simple past tense and past participle of sling1. ", "S": ["dangle ", "fling ", "heave ", "hoist ", "hurl ", "lob "], "A": ["destroy ", "finish ", "keep ", "raze ", "receive ", "stop "]}
+{"index": 294603, "D": "simple past tense and past participle of sling1. ", "S": ["dangle", "fling", "heave", "hoist", "hurl", "lob"], "A": ["destroy", "finish", "keep", "raze", "receive", "stop"]}

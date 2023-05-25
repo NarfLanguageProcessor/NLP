@@ -1,1 +1,1 @@
-{"index": 69911, "D": "a warship of the old sailing class, having a flush deck and usually one tier of guns.", "S": ["battleship ", "cutter ", "destroyer ", "frigate ", "gunboat ", "submarine "], "A": []}
+{"index": 69911, "D": "a warship of the old sailing class, having a flush deck and usually one tier of guns.", "S": ["battleship", "cutter", "destroyer", "frigate", "gunboat", "submarine"], "A": []}

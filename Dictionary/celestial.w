@@ -1,1 +1,1 @@
-{"index": 50485, "D": "pertaining to the sky or visible heaven, or to the universe beyond the earth\u2019s atmosphere, as in celestial body.", "S": ["angelic ", "divine ", "ethereal ", "immortal ", "otherworldly ", "spiritual ", "sublime ", "supernatural "], "A": ["earthly "]}
+{"index": 50485, "D": "pertaining to the sky or visible heaven, or to the universe beyond the earth\u2019s atmosphere, as in celestial body.", "S": ["angelic", "divine", "ethereal", "immortal", "otherworldly", "spiritual", "sublime", "supernatural"], "A": ["earthly"]}

@@ -1,1 +1,1 @@
-{"index": 177185, "D": "simple past tense and past participle of make1. ", "S": ["built ", "contrived ", "finished ", "formed ", "invented ", "manufactured ", "shaped "], "A": []}
+{"index": 177185, "D": "simple past tense and past participle of make1. ", "S": ["built", "contrived", "finished", "formed", "invented", "manufactured", "shaped"], "A": []}

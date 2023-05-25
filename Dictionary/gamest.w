@@ -1,1 +1,1 @@
-{"index": 121698, "D": "an amusement or pastime", "S": ["bold ", "dogged ", "gallant ", "hardy ", "heroic ", "persevering ", "spirited "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "timid "]}
+{"index": 121698, "D": "an amusement or pastime", "S": ["bold", "dogged", "gallant", "hardy", "heroic", "persevering", "spirited"], "A": ["afraid", "cowardly", "fearful", "meek", "timid"]}

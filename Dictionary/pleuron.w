@@ -1,1 +1,1 @@
-{"index": 239980, "D": "the lateral plate or plates of a thoracic segment of an insect.", "S": ["ham ", "hand ", "hip ", "loin ", "quarter ", "side ", "thigh ", "wing "], "A": []}
+{"index": 239980, "D": "the lateral plate or plates of a thoracic segment of an insect.", "S": ["ham", "hand", "hip", "loin", "quarter", "side", "thigh", "wing"], "A": []}

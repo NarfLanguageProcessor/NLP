@@ -1,1 +1,1 @@
-{"index": 144079, "D": "any nonflowering plant of the genus Equisetum, having hollow, jointed stems.", "S": ["braid ", "dreadlocks ", "haircut ", "hairdo ", "headdress ", "ponytail "], "A": []}
+{"index": 144079, "D": "any nonflowering plant of the genus Equisetum, having hollow, jointed stems.", "S": ["braid", "dreadlocks", "haircut", "hairdo", "headdress", "ponytail"], "A": []}

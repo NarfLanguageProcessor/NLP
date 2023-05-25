@@ -1,1 +1,1 @@
-{"index": 168322, "D": "a worker who cuts, polishes, and engraves precious stones.", "S": ["craggy ", "jagged ", "rough "], "A": ["even ", "smooth "]}
+{"index": 168322, "D": "a worker who cuts, polishes, and engraves precious stones.", "S": ["craggy", "jagged", "rough"], "A": ["even", "smooth"]}

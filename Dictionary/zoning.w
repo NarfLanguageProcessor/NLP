@@ -1,1 +1,1 @@
-{"index": 369706, "D": "(especially in city planning) of or relating to the division of an area into zones,  as to restrict the number and types of buildings and their uses", "S": ["banding ", "bordering ", "bounding ", "circumscribing ", "delimiting ", "girdling ", "marking "], "A": []}
+{"index": 369706, "D": "(especially in city planning) of or relating to the division of an area into zones,  as to restrict the number and types of buildings and their uses", "S": ["banding", "bordering", "bounding", "circumscribing", "delimiting", "girdling", "marking"], "A": []}

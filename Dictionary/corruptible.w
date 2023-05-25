@@ -1,1 +1,1 @@
-{"index": 69774, "D": "that can or might be corrupted. ", "S": ["corrupt ", "dishonest ", "purchasable ", "unethical ", "unprincipled ", "venal "], "A": []}
+{"index": 69774, "D": "that can or might be corrupted. ", "S": ["corrupt", "dishonest", "purchasable", "unethical", "unprincipled", "venal"], "A": []}

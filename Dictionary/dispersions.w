@@ -1,1 +1,1 @@
-{"index": 88995, "D": "an act, state, or instance of dispersing or of being dispersed.", "S": ["diffusion "], "A": []}
+{"index": 88995, "D": "an act, state, or instance of dispersing or of being dispersed.", "S": ["diffusion"], "A": []}

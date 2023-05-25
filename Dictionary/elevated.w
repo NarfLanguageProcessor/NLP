@@ -1,1 +1,1 @@
-{"index": 97489, "D": "raised up, especially above the ground or above the normal level", "S": ["exalted ", "inflated "], "A": ["depressed ", "dishonorable ", "down ", "inferior ", "insignificant ", "low ", "lowly ", "poor ", "unimportant "]}
+{"index": 97489, "D": "raised up, especially above the ground or above the normal level", "S": ["exalted", "inflated"], "A": ["depressed", "dishonorable", "down", "inferior", "insignificant", "low", "lowly", "poor", "unimportant"]}

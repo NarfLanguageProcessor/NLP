@@ -1,1 +1,1 @@
-{"index": 311083, "D": "separated or divided into parts or broken to pieces", "S": ["broken ", "cloven ", "cracked ", "crenelated ", "parted ", "perforated ", "pierced ", "rent ", "riven ", "ruptured ", "separated ", "torn "], "A": ["connected ", "fixed ", "whole "]}
+{"index": 311083, "D": "separated or divided into parts or broken to pieces", "S": ["broken", "cloven", "cracked", "crenelated", "parted", "perforated", "pierced", "rent", "riven", "ruptured", "separated", "torn"], "A": ["connected", "fixed", "whole"]}

@@ -1,1 +1,1 @@
-{"index": 295946, "D": "in a way that is warmly comfortable or cozy, sheltered, safe, etc.", "S": ["adequately ", "easily "], "A": ["inadequately ", "insufficiently ", "poorly ", "uncomfortably "]}
+{"index": 295946, "D": "in a way that is warmly comfortable or cozy, sheltered, safe, etc.", "S": ["adequately", "easily"], "A": ["inadequately", "insufficiently", "poorly", "uncomfortably"]}

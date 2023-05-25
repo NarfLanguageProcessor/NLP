@@ -1,1 +1,1 @@
-{"index": 328101, "D": "the act or process of transmitting.", "S": ["communication ", "transportation "], "A": []}
+{"index": 328101, "D": "the act or process of transmitting.", "S": ["communication", "transportation"], "A": []}

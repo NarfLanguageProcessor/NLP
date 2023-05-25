@@ -1,1 +1,1 @@
-{"index": 257019, "D": "the hard, purplish wood of any of several South American trees belonging to the genus Peltogyne, of the legume family, used for making furniture.", "S": ["badge ", "ribbon "], "A": ["criticism "]}
+{"index": 257019, "D": "the hard, purplish wood of any of several South American trees belonging to the genus Peltogyne, of the legume family, used for making furniture.", "S": ["badge", "ribbon"], "A": ["criticism"]}

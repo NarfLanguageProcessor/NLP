@@ -1,1 +1,1 @@
-{"index": 5141, "D": "a system of colloidal particles dispersed in a gas and commonly formed as smoke, fog, mist, haze, or smog", "S": ["sprayer ", "sprinkler "], "A": []}
+{"index": 5141, "D": "a system of colloidal particles dispersed in a gas and commonly formed as smoke, fog, mist, haze, or smog", "S": ["sprayer", "sprinkler"], "A": []}

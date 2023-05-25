@@ -1,1 +1,1 @@
-{"index": 67171, "D": "of or relating to consultation;  advisory.", "S": ["consulting "], "A": []}
+{"index": 67171, "D": "of or relating to consultation;  advisory.", "S": ["consulting"], "A": []}

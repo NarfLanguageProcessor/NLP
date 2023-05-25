@@ -1,1 +1,1 @@
-{"index": 118551, "D": "one of the small, brownish spots on the skin that are caused by deposition of pigment and that increase in number and darken on exposure to sunlight; lentigo.", "S": ["marbled ", "streaked "], "A": ["plain "]}
+{"index": 118551, "D": "one of the small, brownish spots on the skin that are caused by deposition of pigment and that increase in number and darken on exposure to sunlight; lentigo.", "S": ["marbled", "streaked"], "A": ["plain"]}

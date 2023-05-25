@@ -1,1 +1,1 @@
-{"index": 178401, "D": " relating to or being a man or boy.", "S": ["manhood ", "potency ", "vigor "], "A": ["weakness "]}
+{"index": 178401, "D": " relating to or being a man or boy.", "S": ["manhood", "potency", "vigor"], "A": ["weakness"]}

@@ -1,0 +1,1 @@
+{"index": 12038, "D": "the process by which igneous rock remelts into magma.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 38466, "D": [], "S": ["bear ", "dispense ", "find ", "hand ", "hand over ", "produce ", "provide ", "release ", "supply ", "turn over "], "A": ["hold ", "keep ", "receive ", "take "]}
+{"index": 38466, "D": [], "S": ["bear", "dispense", "find", "hand", "hand over", "produce", "provide", "release", "supply", "turn over"], "A": ["hold", "keep", "receive", "take"]}

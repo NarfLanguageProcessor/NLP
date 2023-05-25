@@ -1,1 +1,1 @@
-{"index": 316206, "D": "the Tans Irish informal short for the Black and Tans", "S": ["beige ", "brownish ", "drab ", "khaki "], "A": []}
+{"index": 316206, "D": "the Tans Irish informal short for the Black and Tans", "S": ["beige", "brownish", "drab", "khaki"], "A": []}

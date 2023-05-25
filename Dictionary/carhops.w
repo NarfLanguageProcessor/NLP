@@ -1,1 +1,1 @@
-{"index": 47987, "D": "a person who serves customers in their cars.  at a drive-in restaurant.", "S": ["attendant ", "butler ", "host ", "hostess ", "servant ", "steward ", "stewardess ", "waiter ", "waitress "], "A": []}
+{"index": 47987, "D": "a person who serves customers in their cars.  at a drive-in restaurant.", "S": ["attendant", "butler", "host", "hostess", "servant", "steward", "stewardess", "waiter", "waitress"], "A": []}

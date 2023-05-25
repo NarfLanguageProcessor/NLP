@@ -1,1 +1,1 @@
-{"index": 132894, "D": "plural of half. ", "S": ["fraction "], "A": []}
+{"index": 132894, "D": "plural of half. ", "S": ["fraction"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 317486, "D": "a teamster.", "S": ["competitive ", "recreational "], "A": []}
+{"index": 317486, "D": "a teamster.", "S": ["competitive", "recreational"], "A": []}

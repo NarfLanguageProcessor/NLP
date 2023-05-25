@@ -1,1 +1,1 @@
-{"index": 1499, "D": "to take or receive (something offered); receive with approval or favor", "S": ["get ", "obtain ", "take ", "welcome "], "A": ["fail ", "lose ", "misunderstand ", "reject ", "forfeit "]}
+{"index": 1499, "D": "to take or receive (something offered); receive with approval or favor", "S": ["get", "obtain", "take", "welcome"], "A": ["fail", "lose", "misunderstand", "reject", "forfeit"]}

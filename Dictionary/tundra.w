@@ -1,1 +1,1 @@
-{"index": 332381, "D": "one of the vast, nearly level, treeless plains of the Arctic regions of Europe, Asia, and North America.", "S": ["expanse ", "prairie ", "steppe ", "wasteland "], "A": []}
+{"index": 332381, "D": "one of the vast, nearly level, treeless plains of the Arctic regions of Europe, Asia, and North America.", "S": ["expanse", "prairie", "steppe", "wasteland"], "A": []}

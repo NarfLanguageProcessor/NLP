@@ -1,1 +1,1 @@
-{"index": 58094, "D": "an act, instance, or the rite of circumcising. ", "S": ["baptism ", "initiation ", "initiation rite ", "initiatory rite ", "rite de passage "], "A": []}
+{"index": 58094, "D": "an act, instance, or the rite of circumcising. ", "S": ["baptism", "initiation", "initiation rite", "initiatory rite", "rite de passage"], "A": []}

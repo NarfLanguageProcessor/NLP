@@ -1,1 +1,1 @@
-{"index": 101824, "D": "full of, feeling, or expressing envy", "S": ["jealousy ", "resentment "], "A": []}
+{"index": 101824, "D": "full of, feeling, or expressing envy", "S": ["jealousy", "resentment"], "A": []}

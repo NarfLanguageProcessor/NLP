@@ -1,1 +1,1 @@
-{"index": 114054, "D": "horizontally level", "S": ["empty ", "horizontal ", "low ", "unbroken "], "A": ["upright ", "rough ", "uneven "]}
+{"index": 114054, "D": "horizontally level", "S": ["empty", "horizontal", "low", "unbroken"], "A": ["upright", "rough", "uneven"]}

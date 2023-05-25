@@ -1,1 +1,1 @@
-{"index": 289077, "D": "a woman who appears in the chorus of a show, nightclub act, etc.", "S": ["chorine ", "chorus line ", "coryph\u00e9e "], "A": []}
+{"index": 289077, "D": "a woman who appears in the chorus of a show, nightclub act, etc.", "S": ["chorine", "chorus line", "coryph\u00e9e"], "A": []}

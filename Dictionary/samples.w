@@ -1,1 +1,1 @@
-{"index": 277594, "D": "a small part of anything or one of a number, intended to show the quality, style, or nature of the whole; specimen.", "S": ["case ", "fragment ", "pattern ", "piece ", "sampling ", "specimen "], "A": ["whole "]}
+{"index": 277594, "D": "a small part of anything or one of a number, intended to show the quality, style, or nature of the whole; specimen.", "S": ["case", "fragment", "pattern", "piece", "sampling", "specimen"], "A": ["whole"]}

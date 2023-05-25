@@ -1,1 +1,1 @@
-{"index": 17582, "D": "as far as can be known or supposed", "S": ["allegedly ", "ostensibly ", "possibly ", "probably ", "supposedly "], "A": ["improbably ", "unlikely "]}
+{"index": 17582, "D": "as far as can be known or supposed", "S": ["allegedly", "ostensibly", "possibly", "probably", "supposedly"], "A": ["improbably", "unlikely"]}

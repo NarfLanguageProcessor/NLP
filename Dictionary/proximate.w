@@ -1,1 +1,1 @@
-{"index": 254189, "D": "next; nearest; immediately before or after in order, place, occurrence, etc.", "S": ["direct ", "forthcoming ", "imminent ", "near ", "nearby ", "next "], "A": []}
+{"index": 254189, "D": "next; nearest; immediately before or after in order, place, occurrence, etc.", "S": ["direct", "forthcoming", "imminent", "near", "nearby", "next"], "A": []}

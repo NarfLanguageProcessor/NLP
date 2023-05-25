@@ -1,1 +1,1 @@
-{"index": 355936, "D": "the objective case of we,  used as a direct or indirect object", "S": ["them ", "you "], "A": []}
+{"index": 355936, "D": "the objective case of we,  used as a direct or indirect object", "S": ["them", "you"], "A": []}

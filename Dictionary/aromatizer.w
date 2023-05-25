@@ -1,0 +1,1 @@
+{"index": 20094, "D": "to make aromatic  or fragrant.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 199429, "D": "a newsworthy event or incident.", "S": ["brief ", "bulletin ", "flash ", "news bulletin ", "update "], "A": []}
+{"index": 199429, "D": "a newsworthy event or incident.", "S": ["brief", "bulletin", "flash", "news bulletin", "update"], "A": []}

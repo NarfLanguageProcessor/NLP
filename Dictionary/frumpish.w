@@ -1,1 +1,1 @@
-{"index": 119651, "D": "a person who is dowdy, drab, and unattractive.", "S": ["boring ", "cheesy ", "dowdy ", "drab ", "dull ", "frumpy ", "homely ", "old-fashioned ", "plain ", "shabby ", "stodgy ", "styleless ", "unattractive ", "unfashionable ", "unkempt ", "unstylish "], "A": []}
+{"index": 119651, "D": "a person who is dowdy, drab, and unattractive.", "S": ["boring", "cheesy", "dowdy", "drab", "dull", "frumpy", "homely", "old-fashioned", "plain", "shabby", "stodgy", "styleless", "unattractive", "unfashionable", "unkempt", "unstylish"], "A": []}

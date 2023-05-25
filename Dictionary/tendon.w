@@ -1,1 +1,1 @@
-{"index": 318784, "D": "a cord or band of dense, tough, inelastic, white, fibrous tissue, serving to connect a muscle with a bone or part; sinew.", "S": ["hamstring ", "ligament ", "sinew ", "tissue "], "A": []}
+{"index": 318784, "D": "a cord or band of dense, tough, inelastic, white, fibrous tissue, serving to connect a muscle with a bone or part; sinew.", "S": ["hamstring", "ligament", "sinew", "tissue"], "A": []}

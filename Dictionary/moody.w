@@ -1,1 +1,1 @@
-{"index": 192990, "D": "given to gloomy, depressed, or sullen moods;  ill-humored.", "S": ["cross ", "downcast ", "melancholy ", "sulky "], "A": ["cheerful ", "happy "]}
+{"index": 192990, "D": "given to gloomy, depressed, or sullen moods;  ill-humored.", "S": ["cross", "downcast", "melancholy", "sulky"], "A": ["cheerful", "happy"]}

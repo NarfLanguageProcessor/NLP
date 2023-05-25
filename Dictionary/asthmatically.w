@@ -1,0 +1,1 @@
+{"index": 22092, "D": "having or experiencing asthma. ", "S": [], "A": []}

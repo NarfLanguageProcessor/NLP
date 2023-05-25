@@ -1,1 +1,1 @@
-{"index": 44027, "D": "a taxicab. ", "S": ["carriage ", "taxi ", "taxicab "], "A": []}
+{"index": 44027, "D": "a taxicab. ", "S": ["carriage", "taxi", "taxicab"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 134192, "D": "a small, short-handled ax having the end of the head opposite the blade in the form of a hammer, made to be used with one hand.", "S": ["machete "], "A": []}
+{"index": 134192, "D": "a small, short-handled ax having the end of the head opposite the blade in the form of a hammer, made to be used with one hand.", "S": ["machete"], "A": []}

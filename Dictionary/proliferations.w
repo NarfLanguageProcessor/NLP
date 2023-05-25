@@ -1,1 +1,1 @@
-{"index": 252122, "D": "the growth or production of cells by multiplication of parts.", "S": ["generation ", "procreation ", "propagation ", "reproduction "], "A": []}
+{"index": 252122, "D": "the growth or production of cells by multiplication of parts.", "S": ["generation", "procreation", "propagation", "reproduction"], "A": []}

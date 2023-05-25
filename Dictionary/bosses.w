@@ -1,1 +1,1 @@
-{"index": 38618, "D": "a person who employs or superintends workers; manager. ", "S": ["administration ", "authority ", "board ", "executive "], "A": ["employees ", "mismanagement "]}
+{"index": 38618, "D": "a person who employs or superintends workers; manager. ", "S": ["administration", "authority", "board", "executive"], "A": ["employees", "mismanagement"]}

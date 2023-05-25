@@ -1,1 +1,1 @@
-{"index": 317019, "D": "the act or process of making a kind of knotted lace of cotton or linen thread with a shuttle.", "S": ["mesh ", "ornament "], "A": []}
+{"index": 317019, "D": "the act or process of making a kind of knotted lace of cotton or linen thread with a shuttle.", "S": ["mesh", "ornament"], "A": []}

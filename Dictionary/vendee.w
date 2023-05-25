@@ -1,1 +1,1 @@
-{"index": 357949, "D": "the person to whom a thing is sold.", "S": ["client ", "consumer ", "customer ", "patron ", "purchaser ", "shopper ", "user "], "A": ["manager ", "owner "]}
+{"index": 357949, "D": "the person to whom a thing is sold.", "S": ["client", "consumer", "customer", "patron", "purchaser", "shopper", "user"], "A": ["manager", "owner"]}

@@ -1,1 +1,1 @@
-{"index": 24566, "D": "to be of use or value to; profit; advantage", "S": ["account ", "advantage ", "applicability ", "appropriateness ", "fitness ", "service ", "usefulness "], "A": ["inappropriateness "]}
+{"index": 24566, "D": "to be of use or value to; profit; advantage", "S": ["account", "advantage", "applicability", "appropriateness", "fitness", "service", "usefulness"], "A": ["inappropriateness"]}

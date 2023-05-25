@@ -1,1 +1,1 @@
-{"index": 171869, "D": "a false statement made with deliberate intent to deceive; an intentional untruth. ", "S": ["falsity ", "hypocrisy "], "A": ["honesty ", "truth ", "frankness ", "openness ", "truthfulness "]}
+{"index": 171869, "D": "a false statement made with deliberate intent to deceive; an intentional untruth. ", "S": ["falsity", "hypocrisy"], "A": ["honesty", "truth", "frankness", "openness", "truthfulness"]}

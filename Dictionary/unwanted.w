@@ -1,1 +1,1 @@
-{"index": 354018, "D": "not desired or needed; not wanted", "S": ["rejected ", "undesirable "], "A": ["desirable ", "desired ", "wanted ", "welcome "]}
+{"index": 354018, "D": "not desired or needed; not wanted", "S": ["rejected", "undesirable"], "A": ["desirable", "desired", "wanted", "welcome"]}

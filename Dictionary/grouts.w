@@ -1,1 +1,1 @@
-{"index": 130389, "D": "sediment or grounds, as from making coffee", "S": ["deposit ", "dregs ", "leavings ", "lees ", "precipitate ", "precipitation ", "residue ", "settlings "], "A": []}
+{"index": 130389, "D": "sediment or grounds, as from making coffee", "S": ["deposit", "dregs", "leavings", "lees", "precipitate", "precipitation", "residue", "settlings"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 33743, "D": "an excessive estimate of one's importance; conceit.", "S": ["arrogant ", "conceited ", "egoistic ", "egoistical ", "egotistical ", "persnickety ", "snooty ", "stuck-up ", "vain ", "vainglorious "], "A": []}
+{"index": 33743, "D": "an excessive estimate of one's importance; conceit.", "S": ["arrogant", "conceited", "egoistic", "egoistical", "egotistical", "persnickety", "snooty", "stuck-up", "vain", "vainglorious"], "A": []}

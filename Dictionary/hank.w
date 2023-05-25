@@ -1,1 +1,1 @@
-{"index": 133376, "D": "a skein, as of thread or yarn.", "S": ["curve ", "flourish "], "A": ["line "]}
+{"index": 133376, "D": "a skein, as of thread or yarn.", "S": ["curve", "flourish"], "A": ["line"]}

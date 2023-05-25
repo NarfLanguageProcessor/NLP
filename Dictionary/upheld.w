@@ -1,1 +1,1 @@
-{"index": 354739, "D": "the simple past tense and past participle of uphold. ", "S": ["backed ", "maintained ", "sustained "], "A": ["unsupported "]}
+{"index": 354739, "D": "the simple past tense and past participle of uphold. ", "S": ["backed", "maintained", "sustained"], "A": ["unsupported"]}

@@ -1,1 +1,1 @@
-{"index": 59667, "D": "free from darkness, obscurity, or cloudiness; light", "S": ["clarity ", "distinctness ", "lucidity "], "A": []}
+{"index": 59667, "D": "free from darkness, obscurity, or cloudiness; light", "S": ["clarity", "distinctness", "lucidity"], "A": []}

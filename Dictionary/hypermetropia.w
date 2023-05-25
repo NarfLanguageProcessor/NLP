@@ -1,1 +1,1 @@
-{"index": 140277, "D": "pathol variants of hyperopia", "S": ["hyperopia "], "A": []}
+{"index": 140277, "D": "pathol variants of hyperopia", "S": ["hyperopia"], "A": []}

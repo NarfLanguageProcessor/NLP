@@ -1,1 +1,1 @@
-{"index": 228037, "D": "to strike lightly or gently with something flat, as with a paddle or the palm of the hand, usually in order to flatten, smooth, or shape", "S": ["blip ", "blow ", "pat ", "punch ", "whack "], "A": []}
+{"index": 228037, "D": "to strike lightly or gently with something flat, as with a paddle or the palm of the hand, usually in order to flatten, smooth, or shape", "S": ["blip", "blow", "pat", "punch", "whack"], "A": []}

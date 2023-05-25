@@ -1,1 +1,1 @@
-{"index": 324199, "D": "the act or skill of using a typewriter. ", "S": ["copy ", "transcribe ", "write "], "A": []}
+{"index": 324199, "D": "the act or skill of using a typewriter. ", "S": ["copy", "transcribe", "write"], "A": []}

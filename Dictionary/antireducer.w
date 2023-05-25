@@ -1,0 +1,1 @@
+{"index": 16062, "D": "a person or thing that reduces.", "S": [], "A": []}

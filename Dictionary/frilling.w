@@ -1,1 +1,1 @@
-{"index": 119056, "D": "frilled  edging.", "S": ["adorn ", "bedeck ", "brighten ", "deck ", "do up ", "dress up ", "festoon ", "fix up ", "grace ", "illuminate ", "paint ", "renovate ", "spruce up ", "trim "], "A": ["darken ", "dull ", "hurt ", "ruin ", "decrease ", "reduce "]}
+{"index": 119056, "D": "frilled  edging.", "S": ["adorn", "bedeck", "brighten", "deck", "do up", "dress up", "festoon", "fix up", "grace", "illuminate", "paint", "renovate", "spruce up", "trim"], "A": ["darken", "dull", "hurt", "ruin", "decrease", "reduce"]}

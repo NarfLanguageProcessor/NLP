@@ -1,1 +1,1 @@
-{"index": 295590, "D": "to cut with a small, quick stroke, or a succession of such strokes, with scissors or the like.", "S": ["cut ", "nip ", "slice "], "A": []}
+{"index": 295590, "D": "to cut with a small, quick stroke, or a succession of such strokes, with scissors or the like.", "S": ["cut", "nip", "slice"], "A": []}

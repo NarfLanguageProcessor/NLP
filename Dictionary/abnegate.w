@@ -1,1 +1,1 @@
-{"index": 602, "D": "to refuse or deny oneself (some rights, conveniences, etc.); reject; renounce.", "S": ["abstain ", "decline ", "forbear ", "forgo ", "refrain ", "reject "], "A": ["accept ", "continue ", "indulge ", "use "]}
+{"index": 602, "D": "to refuse or deny oneself (some rights, conveniences, etc.); reject; renounce.", "S": ["abstain", "decline", "forbear", "forgo", "refrain", "reject"], "A": ["accept", "continue", "indulge", "use"]}

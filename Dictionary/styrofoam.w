@@ -1,1 +1,1 @@
-{"index": 304816, "D": "a brand of expanded plastic made from polystyrene.", "S": ["filling ", "peanuts ", "stuffing ", "wadding "], "A": []}
+{"index": 304816, "D": "a brand of expanded plastic made from polystyrene.", "S": ["filling", "peanuts", "stuffing", "wadding"], "A": []}

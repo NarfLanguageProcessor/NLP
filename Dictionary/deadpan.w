@@ -1,1 +1,1 @@
-{"index": 77494, "D": "marked by or accomplished with a careful pretense of seriousness or calm detachment; impassive or expressionless", "S": ["impassive ", "stony "], "A": ["histrionic ", "warm "]}
+{"index": 77494, "D": "marked by or accomplished with a careful pretense of seriousness or calm detachment; impassive or expressionless", "S": ["impassive", "stony"], "A": ["histrionic", "warm"]}

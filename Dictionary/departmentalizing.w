@@ -1,1 +1,1 @@
-{"index": 81515, "D": "to divide into departments. ", "S": ["distribution "], "A": ["attachment ", "combination ", "connection ", "union "]}
+{"index": 81515, "D": "to divide into departments. ", "S": ["distribution"], "A": ["attachment", "combination", "connection", "union"]}

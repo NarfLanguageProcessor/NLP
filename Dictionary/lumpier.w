@@ -1,1 +1,1 @@
-{"index": 176138, "D": "full of lumps", "S": ["bumpy ", "chunky ", "irregular "], "A": []}
+{"index": 176138, "D": "full of lumps", "S": ["bumpy", "chunky", "irregular"], "A": []}

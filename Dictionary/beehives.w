@@ -1,1 +1,1 @@
-{"index": 30331, "D": "a habitation or dwelling-place constructed for bees,  usually either dome-shaped or box-shaped.", "S": ["hive "], "A": []}
+{"index": 30331, "D": "a habitation or dwelling-place constructed for bees,  usually either dome-shaped or box-shaped.", "S": ["hive"], "A": []}

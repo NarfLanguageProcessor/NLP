@@ -1,1 +1,1 @@
-{"index": 290135, "D": "a small seal, as on a finger ring.", "S": ["impression ", "seal ", "sign ", "stamp "], "A": []}
+{"index": 290135, "D": "a small seal, as on a finger ring.", "S": ["impression", "seal", "sign", "stamp"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 362181, "D": "a division of the United Kingdom, in SW Great Britain. 8,016 sq. mi. (20,760 sq. km).", "S": ["grain ", "mark ", "rib ", "ridge ", "streak ", "strip ", "texture ", "weal ", "weave ", "welt "], "A": []}
+{"index": 362181, "D": "a division of the United Kingdom, in SW Great Britain. 8,016 sq. mi. (20,760 sq. km).", "S": ["grain", "mark", "rib", "ridge", "streak", "strip", "texture", "weal", "weave", "welt"], "A": []}

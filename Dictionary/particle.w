@@ -1,1 +1,1 @@
-{"index": 227034, "D": "a minute portion, piece, fragment, or amount; a tiny or very small bit", "S": ["fleck ", "fragment ", "grain ", "mite ", "molecule ", "ray ", "speck "], "A": ["lot "]}
+{"index": 227034, "D": "a minute portion, piece, fragment, or amount; a tiny or very small bit", "S": ["fleck", "fragment", "grain", "mite", "molecule", "ray", "speck"], "A": ["lot"]}

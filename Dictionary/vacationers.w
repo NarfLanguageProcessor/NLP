@@ -1,1 +1,0 @@
-{"index": 356349, "D": "a period of suspension of work, study, or other activity, usually used for rest, recreation, or travel; recess or holiday", "S": ["globetrotter ", "sightseer ", "tourer ", "traveler ", "voyager ", "wayfarer "], "A": []}

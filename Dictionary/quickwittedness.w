@@ -1,1 +1,1 @@
-{"index": 258525, "D": "having a nimble, alert mind.", "S": ["cleverness ", "dexterity ", "quickness ", "sharpness ", "swiftness "], "A": ["slowing ", "slowness ", "sluggishness "]}
+{"index": 258525, "D": "having a nimble, alert mind.", "S": ["cleverness", "dexterity", "quickness", "sharpness", "swiftness"], "A": ["slowing", "slowness", "sluggishness"]}

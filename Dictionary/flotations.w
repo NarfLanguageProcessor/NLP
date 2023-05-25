@@ -1,1 +1,1 @@
-{"index": 115115, "D": "an act or state of floating. ", "S": ["backing "], "A": ["disapproval ", "discouragement ", "frustration ", "opposition ", "stop "]}
+{"index": 115115, "D": "an act or state of floating. ", "S": ["backing"], "A": ["disapproval", "discouragement", "frustration", "opposition", "stop"]}

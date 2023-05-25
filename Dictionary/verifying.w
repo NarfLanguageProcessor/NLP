@@ -1,1 +1,1 @@
-{"index": 358535, "D": "to prove the truth of, as by evidence or testimony; confirm; substantiate", "S": ["authenticating ", "checking ", "confirming ", "corroborating ", "substantiating ", "validating "], "A": []}
+{"index": 358535, "D": "to prove the truth of, as by evidence or testimony; confirm; substantiate", "S": ["authenticating", "checking", "confirming", "corroborating", "substantiating", "validating"], "A": []}

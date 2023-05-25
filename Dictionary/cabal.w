@@ -1,1 +1,1 @@
-{"index": 43844, "D": "a small group of secret plotters, as against a government or person in authority.", "S": ["conspiracy ", "intrigue ", "scheme "], "A": []}
+{"index": 43844, "D": "a small group of secret plotters, as against a government or person in authority.", "S": ["conspiracy", "intrigue", "scheme"], "A": []}

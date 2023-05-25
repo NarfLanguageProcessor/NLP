@@ -1,1 +1,1 @@
-{"index": 263453, "D": "to gather, call together, or summon again, esp for a formal meeting", "S": ["reconcile ", "rejoin "], "A": ["estrange ", "go separate ways ", "separate "]}
+{"index": 263453, "D": "to gather, call together, or summon again, esp for a formal meeting", "S": ["reconcile", "rejoin"], "A": ["estrange", "go separate ways", "separate"]}

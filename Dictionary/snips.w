@@ -1,1 +1,1 @@
-{"index": 295592, "D": "Also called", "S": ["clippers ", "nippers ", "scissors "], "A": []}
+{"index": 295592, "D": "Also called", "S": ["clippers", "nippers", "scissors"], "A": []}

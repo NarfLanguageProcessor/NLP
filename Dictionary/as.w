@@ -1,1 +1,1 @@
-{"index": 20838, "D": "to the same degree, amount, or extent; similarly; equally", "S": ["at the time that ", "during the time that ", "in the act of ", "in the process of ", "just as ", "on the point of "], "A": []}
+{"index": 20838, "D": "to the same degree, amount, or extent; similarly; equally", "S": ["at the time that", "during the time that", "in the act of", "in the process of", "just as", "on the point of"], "A": []}

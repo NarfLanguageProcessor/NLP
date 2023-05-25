@@ -1,1 +1,1 @@
-{"index": 35923, "D": "burning brightly and with great heat, force, etc.", "S": ["fiery ", "flaming ", "smoldering "], "A": []}
+{"index": 35923, "D": "burning brightly and with great heat, force, etc.", "S": ["fiery", "flaming", "smoldering"], "A": []}

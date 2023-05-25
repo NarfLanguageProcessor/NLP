@@ -1,1 +1,1 @@
-{"index": 104952, "D": "the body of moral principles or values governing or distinctive of a particular culture or group", "S": ["fairness ", "integrity ", "moral ", "morality ", "principle ", "virtue "], "A": ["corruption ", "dishonesty ", "dishonor ", "evil ", "immorality "]}
+{"index": 104952, "D": "the body of moral principles or values governing or distinctive of a particular culture or group", "S": ["fairness", "integrity", "moral", "morality", "principle", "virtue"], "A": ["corruption", "dishonesty", "dishonor", "evil", "immorality"]}

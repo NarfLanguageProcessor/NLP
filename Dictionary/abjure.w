@@ -1,1 +1,1 @@
-{"index": 521, "D": "to renounce, repudiate, or retract, especially with formal solemnity; recant", "S": ["forswear ", "recant ", "renege ", "renounce ", "retract ", "withdraw "], "A": ["allow ", "emphasize "]}
+{"index": 521, "D": "to renounce, repudiate, or retract, especially with formal solemnity; recant", "S": ["forswear", "recant", "renege", "renounce", "retract", "withdraw"], "A": ["allow", "emphasize"]}

@@ -1,1 +1,1 @@
-{"index": 810, "D": "any material or substance used for grinding, polishing, etc., as emery, pumice, or sandpaper.", "S": ["deodorant ", "detergent ", "purifier ", "soap "], "A": []}
+{"index": 810, "D": "any material or substance used for grinding, polishing, etc., as emery, pumice, or sandpaper.", "S": ["deodorant", "detergent", "purifier", "soap"], "A": []}

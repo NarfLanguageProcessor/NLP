@@ -1,1 +1,1 @@
-{"index": 79868, "D": "depressed in spirits; disheartened; low-spirited", "S": ["crestfallen ", "despondent ", "discouraged ", "disheartened ", "dispirited ", "gloomy ", "glum ", "morose "], "A": ["cheerful ", "elated ", "encouraged ", "happy ", "heartened ", "inspirited ", "above ", "upright "]}
+{"index": 79868, "D": "depressed in spirits; disheartened; low-spirited", "S": ["crestfallen", "despondent", "discouraged", "disheartened", "dispirited", "gloomy", "glum", "morose"], "A": ["cheerful", "elated", "encouraged", "happy", "heartened", "inspirited", "above", "upright"]}

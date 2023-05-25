@@ -1,1 +1,1 @@
-{"index": 106134, "D": "to have issue; result.", "S": ["befall ", "end ", "ensue ", "follow ", "happen ", "issue ", "occur ", "result ", "stop ", "terminate "], "A": ["begin ", "precede ", "start "]}
+{"index": 106134, "D": "to have issue; result.", "S": ["befall", "end", "ensue", "follow", "happen", "issue", "occur", "result", "stop", "terminate"], "A": ["begin", "precede", "start"]}

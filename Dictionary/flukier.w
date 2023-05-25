@@ -1,1 +1,1 @@
-{"index": 115337, "D": "obtained by chance rather than skill.", "S": ["accidental ", "casual ", "chancy ", "coincidental ", "contingent ", "fortuitous ", "incalculable ", "incidental ", "lucky ", "odd ", "uncertain ", "variable "], "A": ["certain ", "designed ", "planned ", "sure "]}
+{"index": 115337, "D": "obtained by chance rather than skill.", "S": ["accidental", "casual", "chancy", "coincidental", "contingent", "fortuitous", "incalculable", "incidental", "lucky", "odd", "uncertain", "variable"], "A": ["certain", "designed", "planned", "sure"]}

@@ -1,1 +1,1 @@
-{"index": 250113, "D": "the condition of being prevalent,  or widespread", "S": ["pervasiveness ", "popularity "], "A": []}
+{"index": 250113, "D": "the condition of being prevalent,  or widespread", "S": ["pervasiveness", "popularity"], "A": []}

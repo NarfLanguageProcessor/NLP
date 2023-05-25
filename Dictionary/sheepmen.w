@@ -1,1 +1,0 @@
-{"index": 287831, "D": "a person engaged in the tending or breeding of sheep,  especially the owner of a sheep  ranch.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 194653, "D": "to blast (a rock) with an explosive attached to it with a capping  of clay.", "S": ["brick ", "clay ", "house ", "tile "], "A": []}
+{"index": 194653, "D": "to blast (a rock) with an explosive attached to it with a capping  of clay.", "S": ["brick", "clay", "house", "tile"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 108889, "D": "a short tale to teach a moral lesson, often with animals or inanimate objects as characters; apologue", "S": ["cheat ", "con artist ", "perjurer ", "phony ", "storyteller "], "A": []}
+{"index": 108889, "D": "a short tale to teach a moral lesson, often with animals or inanimate objects as characters; apologue", "S": ["cheat", "con artist", "perjurer", "phony", "storyteller"], "A": []}

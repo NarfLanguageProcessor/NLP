@@ -1,1 +1,1 @@
-{"index": 200479, "D": "the egg of a parasitic insect, especially of a louse, often attached to a hair or a fiber of clothing.", "S": ["bug ", "insect "], "A": []}
+{"index": 200479, "D": "the egg of a parasitic insect, especially of a louse, often attached to a hair or a fiber of clothing.", "S": ["bug", "insect"], "A": []}

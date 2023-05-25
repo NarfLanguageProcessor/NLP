@@ -1,1 +1,1 @@
-{"index": 243130, "D": "(used as an exclamation of disdain or contempt.)", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}
+{"index": 243130, "D": "(used as an exclamation of disdain or contempt.)", "S": ["ahem", "alas", "amen", "boo", "er", "exclamation", "hello", "hooray", "hurrah", "oh", "shucks", "whoopee", "wow"], "A": []}

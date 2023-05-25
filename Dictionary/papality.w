@@ -1,1 +1,1 @@
-{"index": 225113, "D": [], "S": ["See of Rome ", "papacy ", "the Church ", "vatican "], "A": []}
+{"index": 225113, "D": [], "S": ["See of Rome", "papacy", "the Church", "vatican"], "A": []}

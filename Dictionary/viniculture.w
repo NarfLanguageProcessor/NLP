@@ -1,1 +1,1 @@
-{"index": 359921, "D": "the science or study of making wines.", "S": ["agriculture ", "cultivation ", "farming "], "A": []}
+{"index": 359921, "D": "the science or study of making wines.", "S": ["agriculture", "cultivation", "farming"], "A": []}

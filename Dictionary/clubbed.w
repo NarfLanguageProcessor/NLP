@@ -1,1 +1,1 @@
-{"index": 60621, "D": "having a thickened end, like a club", "S": ["bash ", "bludgeon ", "clobber ", "pummel ", "whack "], "A": ["lose "]}
+{"index": 60621, "D": "having a thickened end, like a club", "S": ["bash", "bludgeon", "clobber", "pummel", "whack"], "A": ["lose"]}

@@ -1,1 +1,1 @@
-{"index": 268202, "D": "to phrase  again or differently", "S": ["reword "], "A": []}
+{"index": 268202, "D": "to phrase  again or differently", "S": ["reword"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 225943, "D": "equipment, apparatus, or furnishing used in or necessary for a particular activity", "S": ["gear ", "machinery ", "regalia "], "A": []}
+{"index": 225943, "D": "equipment, apparatus, or furnishing used in or necessary for a particular activity", "S": ["gear", "machinery", "regalia"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 267899, "D": "the act or process of reorganizing;  state of being reorganized. ", "S": ["restructuring "], "A": []}
+{"index": 267899, "D": "the act or process of reorganizing;  state of being reorganized. ", "S": ["restructuring"], "A": []}

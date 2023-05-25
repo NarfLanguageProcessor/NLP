@@ -1,1 +1,1 @@
-{"index": 291057, "D": "free of deceit or guile; artless or unsophisticated.", "S": ["error ", "gaffe ", "lapse ", "miscue ", "misjudgment ", "recklessness "], "A": ["correction ", "judgment ", "seriousness ", "thoughtfulness ", "wisdom "]}
+{"index": 291057, "D": "free of deceit or guile; artless or unsophisticated.", "S": ["error", "gaffe", "lapse", "miscue", "misjudgment", "recklessness"], "A": ["correction", "judgment", "seriousness", "thoughtfulness", "wisdom"]}

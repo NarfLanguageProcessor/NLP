@@ -1,1 +1,1 @@
-{"index": 101691, "D": "a person who organizes and manages any enterprise, especially a business, usually with considerable initiative and risk.", "S": ["administrator ", "contractor ", "executive ", "manager ", "producer "], "A": ["employee "]}
+{"index": 101691, "D": "a person who organizes and manages any enterprise, especially a business, usually with considerable initiative and risk.", "S": ["administrator", "contractor", "executive", "manager", "producer"], "A": ["employee"]}

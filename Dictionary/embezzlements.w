@@ -1,1 +1,1 @@
-{"index": 98066, "D": "to appropriate fraudulently to one's own use, as money or property entrusted to one's care.", "S": ["fraud ", "larceny ", "misappropriation ", "misuse ", "theft "], "A": ["compensation ", "pay ", "reimbursement ", "return "]}
+{"index": 98066, "D": "to appropriate fraudulently to one's own use, as money or property entrusted to one's care.", "S": ["fraud", "larceny", "misappropriation", "misuse", "theft"], "A": ["compensation", "pay", "reimbursement", "return"]}

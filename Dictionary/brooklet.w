@@ -1,1 +1,1 @@
-{"index": 41518, "D": "a small brook. ", "S": ["brook ", "burn ", "crick ", "ditch ", "race ", "rill ", "river ", "rivulet ", "run ", "runnel ", "spring ", "streamlet ", "tributary ", "watercourse "], "A": []}
+{"index": 41518, "D": "a small brook. ", "S": ["brook", "burn", "crick", "ditch", "race", "rill", "river", "rivulet", "run", "runnel", "spring", "streamlet", "tributary", "watercourse"], "A": []}

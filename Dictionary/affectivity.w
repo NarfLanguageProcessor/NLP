@@ -1,1 +1,1 @@
-{"index": 5324, "D": "of, caused by, or expressing emotion or feeling; emotional.", "S": ["affection ", "emotion ", "feeling ", "sentiment "], "A": []}
+{"index": 5324, "D": "of, caused by, or expressing emotion or feeling; emotional.", "S": ["affection", "emotion", "feeling", "sentiment"], "A": []}

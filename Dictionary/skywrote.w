@@ -1,1 +1,1 @@
-{"index": 293438, "D": "to engage in skywriting.", "S": ["advertise ", "announce ", "boost ", "broadcast ", "promulgate ", "tout ", "trumpet "], "A": ["conceal ", "hide ", "keep secret "]}
+{"index": 293438, "D": "to engage in skywriting.", "S": ["advertise", "announce", "boost", "broadcast", "promulgate", "tout", "trumpet"], "A": ["conceal", "hide", "keep secret"]}

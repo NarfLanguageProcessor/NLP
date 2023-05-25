@@ -1,1 +1,1 @@
-{"index": 139817, "D": "to stimulate, excite, or agitate (usually followed by up)", "S": ["absorbed ", "accustomed ", "attached ", "devoted ", "hooked ", "inclined ", "obsessed "], "A": ["indifferent ", "unwilling "]}
+{"index": 139817, "D": "to stimulate, excite, or agitate (usually followed by up)", "S": ["absorbed", "accustomed", "attached", "devoted", "hooked", "inclined", "obsessed"], "A": ["indifferent", "unwilling"]}

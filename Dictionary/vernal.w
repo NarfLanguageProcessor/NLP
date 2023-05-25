@@ -1,1 +1,1 @@
-{"index": 358677, "D": "of or relating to spring", "S": ["fresh ", "spring ", "verdant ", "young ", "youthful "], "A": ["autumnal "]}
+{"index": 358677, "D": "of or relating to spring", "S": ["fresh", "spring", "verdant", "young", "youthful"], "A": ["autumnal"]}

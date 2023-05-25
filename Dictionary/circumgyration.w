@@ -1,1 +1,1 @@
-{"index": 58140, "D": "a revolution or circular movement.", "S": ["path ", "pattern ", "rotation ", "trajectory "], "A": []}
+{"index": 58140, "D": "a revolution or circular movement.", "S": ["path", "pattern", "rotation", "trajectory"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 262871, "D": "given or felt by each toward the other; mutual", "S": ["complementary ", "mutual "], "A": ["different ", "dissimilar ", "unequal ", "unlike "]}
+{"index": 262871, "D": "given or felt by each toward the other; mutual", "S": ["complementary", "mutual"], "A": ["different", "dissimilar", "unequal", "unlike"]}

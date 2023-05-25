@@ -1,1 +1,1 @@
-{"index": 238687, "D": "an epidemic disease that causes high mortality; pestilence.", "S": ["captivated ", "dominated ", "haunted ", "preoccupied ", "troubled "], "A": ["disenchanted "]}
+{"index": 238687, "D": "an epidemic disease that causes high mortality; pestilence.", "S": ["captivated", "dominated", "haunted", "preoccupied", "troubled"], "A": ["disenchanted"]}

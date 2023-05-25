@@ -1,1 +1,1 @@
-{"index": 298113, "D": "a person, machine, or device that scatters seed over the earth for the purpose of growth", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}
+{"index": 298113, "D": "a person, machine, or device that scatters seed over the earth for the purpose of growth", "S": ["grower", "laborer", "peasant", "producer", "rancher"], "A": []}

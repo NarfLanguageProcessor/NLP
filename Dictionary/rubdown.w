@@ -1,1 +1,1 @@
-{"index": 275138, "D": "a massage, especially after exercise or a steam bath.", "S": ["manipulation ", "stroking "], "A": []}
+{"index": 275138, "D": "a massage, especially after exercise or a steam bath.", "S": ["manipulation", "stroking"], "A": []}

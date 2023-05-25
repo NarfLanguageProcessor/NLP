@@ -1,1 +1,1 @@
-{"index": 174182, "D": "a person who tries to influence legislation on behalf of a special interest; a member of a lobby. ", "S": ["activist "], "A": []}
+{"index": 174182, "D": "a person who tries to influence legislation on behalf of a special interest; a member of a lobby. ", "S": ["activist"], "A": []}

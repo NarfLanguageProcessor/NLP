@@ -1,1 +1,1 @@
-{"index": 60456, "D": "a person or thing that closes", "S": ["ace ", "baseball player ", "reliever "], "A": []}
+{"index": 60456, "D": "a person or thing that closes", "S": ["ace", "baseball player", "reliever"], "A": []}

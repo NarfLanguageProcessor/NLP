@@ -1,1 +1,1 @@
-{"index": 134255, "D": "a shaped covering for the head, usually with a crown and brim, especially for wear outdoors.", "S": ["fedora ", "headgear ", "helmet "], "A": []}
+{"index": 134255, "D": "a shaped covering for the head, usually with a crown and brim, especially for wear outdoors.", "S": ["fedora", "headgear", "helmet"], "A": []}

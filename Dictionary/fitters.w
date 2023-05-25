@@ -1,1 +1,1 @@
-{"index": 113551, "D": "a person or thing that fits. ", "S": ["designer ", "fitter ", "modiste ", "sewer ", "tailor "], "A": []}
+{"index": 113551, "D": "a person or thing that fits. ", "S": ["designer", "fitter", "modiste", "sewer", "tailor"], "A": []}

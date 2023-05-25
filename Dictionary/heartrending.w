@@ -1,1 +1,1 @@
-{"index": 134888, "D": "causing or expressing intense grief, anguish, or distress.", "S": ["agonizing ", "distressing ", "excruciating ", "harrowing ", "heart-wrenching ", "heartbreaking ", "sad ", "touching ", "tragic "], "A": ["happy ", "pleasant ", "pleasing "]}
+{"index": 134888, "D": "causing or expressing intense grief, anguish, or distress.", "S": ["agonizing", "distressing", "excruciating", "harrowing", "heart-wrenching", "heartbreaking", "sad", "touching", "tragic"], "A": ["happy", "pleasant", "pleasing"]}

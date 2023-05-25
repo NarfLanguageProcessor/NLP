@@ -1,1 +1,1 @@
-{"index": 52903, "D": "a power of pleasing or attracting, as through personality or beauty", "S": ["smoothie "], "A": []}
+{"index": 52903, "D": "a power of pleasing or attracting, as through personality or beauty", "S": ["smoothie"], "A": []}

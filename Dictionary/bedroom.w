@@ -1,1 +1,1 @@
-{"index": 30198, "D": "a room  furnished and used for sleeping.", "S": ["chamber ", "cubicle "], "A": []}
+{"index": 30198, "D": "a room  furnished and used for sleeping.", "S": ["chamber", "cubicle"], "A": []}

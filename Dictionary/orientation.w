@@ -1,1 +1,1 @@
-{"index": 214558, "D": "the act or process of orienting.", "S": ["direction ", "location "], "A": ["disorientation ", "mix up "]}
+{"index": 214558, "D": "the act or process of orienting.", "S": ["direction", "location"], "A": ["disorientation", "mix up"]}

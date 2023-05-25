@@ -1,1 +1,1 @@
-{"index": 359995, "D": "Compare violet family. ", "S": ["lavender ", "lilac ", "plum ", "violet "], "A": []}
+{"index": 359995, "D": "Compare violet family. ", "S": ["lavender", "lilac", "plum", "violet"], "A": []}

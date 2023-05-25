@@ -1,1 +1,1 @@
-{"index": 110945, "D": "the leavings of the second distillation of Scotch malt whisky", "S": ["ruse "], "A": ["frankness ", "honesty ", "openness ", "reality ", "truth ", "truthfulness "]}
+{"index": 110945, "D": "the leavings of the second distillation of Scotch malt whisky", "S": ["ruse"], "A": ["frankness", "honesty", "openness", "reality", "truth", "truthfulness"]}

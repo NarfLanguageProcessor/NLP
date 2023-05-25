@@ -1,1 +1,1 @@
-{"index": 59658, "D": "having or showing an alert mind.", "S": ["calm ", "coolness ", "patience "], "A": []}
+{"index": 59658, "D": "having or showing an alert mind.", "S": ["calm", "coolness", "patience"], "A": []}

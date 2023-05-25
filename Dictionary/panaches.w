@@ -1,1 +1,1 @@
-{"index": 224322, "D": "a grand or flamboyant manner; verve; style; flair", "S": ["brio ", "charisma ", "dash ", "flair ", "flamboyance ", "flourish ", "style ", "swagger ", "verve ", "vigor "], "A": ["spiritlessness "]}
+{"index": 224322, "D": "a grand or flamboyant manner; verve; style; flair", "S": ["brio", "charisma", "dash", "flair", "flamboyance", "flourish", "style", "swagger", "verve", "vigor"], "A": ["spiritlessness"]}

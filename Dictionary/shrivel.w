@@ -1,1 +1,1 @@
-{"index": 289250, "D": "to contract and wrinkle, as from great heat, cold, or dryness.", "S": ["dwindle ", "shrink ", "wilt ", "wither "], "A": ["bloom ", "develop ", "enlarge ", "expand ", "grow ", "freeze ", "moisten ", "wet "]}
+{"index": 289250, "D": "to contract and wrinkle, as from great heat, cold, or dryness.", "S": ["dwindle", "shrink", "wilt", "wither"], "A": ["bloom", "develop", "enlarge", "expand", "grow", "freeze", "moisten", "wet"]}

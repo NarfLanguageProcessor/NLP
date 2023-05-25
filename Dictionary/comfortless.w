@@ -1,1 +1,1 @@
-{"index": 63808, "D": "to soothe, console, or reassure; bring cheer to", "S": ["discomforting ", "uncomforting ", "unpleasant "], "A": []}
+{"index": 63808, "D": "to soothe, console, or reassure; bring cheer to", "S": ["discomforting", "uncomforting", "unpleasant"], "A": []}

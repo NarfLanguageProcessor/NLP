@@ -1,1 +1,1 @@
-{"index": 268755, "D": "the act of repudiating. ", "S": ["abrogation ", "cancellation ", "disapproval ", "disavowal "], "A": ["approval "]}
+{"index": 268755, "D": "the act of repudiating. ", "S": ["abrogation", "cancellation", "disapproval", "disavowal"], "A": ["approval"]}

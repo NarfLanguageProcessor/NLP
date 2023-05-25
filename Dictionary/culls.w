@@ -1,1 +1,1 @@
-{"index": 74753, "D": "to select and remove from a group, especially to discard or destroy as inferior", "S": ["extract ", "glean ", "pluck ", "select ", "sift ", "winnow "], "A": ["insert ", "put in ", "reject "]}
+{"index": 74753, "D": "to select and remove from a group, especially to discard or destroy as inferior", "S": ["extract", "glean", "pluck", "select", "sift", "winnow"], "A": ["insert", "put in", "reject"]}

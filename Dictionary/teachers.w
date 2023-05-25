@@ -1,1 +1,1 @@
-{"index": 317439, "D": "a person who teaches  or instructs, especially as a profession; instructor.", "S": ["cadre ", "crew ", "faculty ", "force ", "organization ", "personnel ", "team ", "work force "], "A": ["incompetence "]}
+{"index": 317439, "D": "a person who teaches  or instructs, especially as a profession; instructor.", "S": ["cadre", "crew", "faculty", "force", "organization", "personnel", "team", "work force"], "A": ["incompetence"]}

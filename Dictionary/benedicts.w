@@ -1,1 +1,1 @@
-{"index": 31534, "D": "a newly married man, especially one who has been long a bachelor", "S": ["groom ", "helpmate ", "husband ", "mate ", "newlywed ", "spouse "], "A": ["bride "]}
+{"index": 31534, "D": "a newly married man, especially one who has been long a bachelor", "S": ["groom", "helpmate", "husband", "mate", "newlywed", "spouse"], "A": ["bride"]}

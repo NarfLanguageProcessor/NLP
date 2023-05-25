@@ -1,1 +1,1 @@
-{"index": 151133, "D": "without distinctive  characteristics.", "S": ["abstract ", "achromatic ", "bland ", "colorless ", "drab ", "expressionless ", "indeterminate ", "indistinct ", "indistinguishable ", "intermediate ", "toneless ", "undefined ", "vague ", "vanilla "], "A": []}
+{"index": 151133, "D": "without distinctive  characteristics.", "S": ["abstract", "achromatic", "bland", "colorless", "drab", "expressionless", "indeterminate", "indistinct", "indistinguishable", "intermediate", "toneless", "undefined", "vague", "vanilla"], "A": []}

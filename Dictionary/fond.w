@@ -1,1 +1,1 @@
-{"index": 116016, "D": "having a liking or affection for (usually followed by of)", "S": ["affectionate ", "enamored ", "indulgent ", "sentimental ", "sympathetic "], "A": ["cold ", "cool "]}
+{"index": 116016, "D": "having a liking or affection for (usually followed by of)", "S": ["affectionate", "enamored", "indulgent", "sentimental", "sympathetic"], "A": ["cold", "cool"]}

@@ -1,1 +1,1 @@
-{"index": 334320, "D": "to reduce in amount, degree, intensity, etc.; lessen; diminish", "S": ["firmly ", "steadily "], "A": []}
+{"index": 334320, "D": "to reduce in amount, degree, intensity, etc.; lessen; diminish", "S": ["firmly", "steadily"], "A": []}

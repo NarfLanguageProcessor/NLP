@@ -1,1 +1,1 @@
-{"index": 117037, "D": "a person who is expert in forestry. ", "S": ["forest manager ", "ranger "], "A": []}
+{"index": 117037, "D": "a person who is expert in forestry. ", "S": ["forest manager", "ranger"], "A": []}

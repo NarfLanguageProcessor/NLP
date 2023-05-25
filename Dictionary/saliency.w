@@ -1,1 +1,1 @@
-{"index": 277040, "D": "salience. ", "S": ["protuberance ", "salience "], "A": []}
+{"index": 277040, "D": "salience. ", "S": ["protuberance", "salience"], "A": []}

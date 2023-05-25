@@ -1,1 +1,1 @@
-{"index": 350069, "D": "to uproot.", "S": ["abolish ", "annihilate ", "eliminate ", "erase ", "expunge ", "exterminate ", "extinguish ", "stamp out ", "uproot ", "weed out ", "wipe out "], "A": ["bear ", "build ", "create ", "ratify ", "construct ", "keep ", "schedule ", "set up "]}
+{"index": 350069, "D": "to uproot.", "S": ["abolish", "annihilate", "eliminate", "erase", "expunge", "exterminate", "extinguish", "stamp out", "uproot", "weed out", "wipe out"], "A": ["bear", "build", "create", "ratify", "construct", "keep", "schedule", "set up"]}

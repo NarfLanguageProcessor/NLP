@@ -1,1 +1,1 @@
-{"index": 333741, "D": "a sore on the skin or a mucous membrane, accompanied by the disintegration of tissue, the formation of pus, etc.", "S": ["abscess ", "lesion "], "A": []}
+{"index": 333741, "D": "a sore on the skin or a mucous membrane, accompanied by the disintegration of tissue, the formation of pus, etc.", "S": ["abscess", "lesion"], "A": []}

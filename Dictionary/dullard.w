@@ -1,1 +1,1 @@
-{"index": 93989, "D": "a stupid, insensitive person.", "S": ["airhead ", "blockhead ", "boob ", "dimwit ", "dope ", "dork ", "dumbbell ", "dunce ", "fool ", "idiot ", "imbecile ", "lunkhead ", "nitwit ", "simpleton "], "A": ["brain ", "genius "]}
+{"index": 93989, "D": "a stupid, insensitive person.", "S": ["airhead", "blockhead", "boob", "dimwit", "dope", "dork", "dumbbell", "dunce", "fool", "idiot", "imbecile", "lunkhead", "nitwit", "simpleton"], "A": ["brain", "genius"]}

@@ -62,8 +62,8 @@ class Words:
 
         self.activity[thread] += 1
 
-        if not Words.known(self.words[index], '../Dictionary/'):
-            Words.save_json({'index': index} | Words.compose(self.words[index]), self.words[index] + '.w', 'Dictionary/')
+        try: Words.collect(self.words[index], 'Dictionary/')
+        except: Words.save_json({'index': index} | Words.compose(self.words[index]), self.words[index] + '.w', 'Dictionary/')
 
         self.activity[thread] -= 1
 
@@ -93,7 +93,7 @@ class Words:
             wordies = Words.open_array(word_list, dir)
 
             for word in wordies:
-                if Words.known(word, '../Dictionary/'):
+                if Words.known(word, 'Dictionary/'):
                     top.append(word)
 
         Words.save_array(top, 'Top.txt', dir)

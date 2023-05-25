@@ -1,1 +1,1 @@
-{"index": 363850, "D": "filling (def. 5). ", "S": ["fiber "], "A": []}
+{"index": 363850, "D": "filling (def. 5). ", "S": ["fiber"], "A": []}

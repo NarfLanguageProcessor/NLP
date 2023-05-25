@@ -1,1 +1,1 @@
-{"index": 200286, "D": "freedom from the endless cycle of personal reincarnations, with their consequent suffering, as a result of the extinction of individual passion, hatred, and delusion", "S": ["careless ", "distracted ", "inattentive ", "sloppy "], "A": ["attentive "]}
+{"index": 200286, "D": "freedom from the endless cycle of personal reincarnations, with their consequent suffering, as a result of the extinction of individual passion, hatred, and delusion", "S": ["careless", "distracted", "inattentive", "sloppy"], "A": ["attentive"]}

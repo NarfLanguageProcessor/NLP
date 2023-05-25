@@ -1,1 +1,1 @@
-{"index": 131297, "D": "consisting of or resembling gum; gummy.", "S": ["deep ", "gooey ", "heavy ", "impenetrable ", "opaque ", "stiff ", "syrupy "], "A": ["clear ", "easy ", "light ", "soft ", "trivial ", "understandable ", "flexible ", "indefinite ", "loose ", "slack "]}
+{"index": 131297, "D": "consisting of or resembling gum; gummy.", "S": ["deep", "gooey", "heavy", "impenetrable", "opaque", "stiff", "syrupy"], "A": ["clear", "easy", "light", "soft", "trivial", "understandable", "flexible", "indefinite", "loose", "slack"]}

@@ -1,1 +1,1 @@
-{"index": 293407, "D": "ninepins in which a wooden ball or disk is used to knock down the pins.", "S": ["bowls ", "candlepins ", "duckpins ", "ninepins "], "A": []}
+{"index": 293407, "D": "ninepins in which a wooden ball or disk is used to knock down the pins.", "S": ["bowls", "candlepins", "duckpins", "ninepins"], "A": []}

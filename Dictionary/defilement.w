@@ -1,1 +1,1 @@
-{"index": 79300, "D": "the act of making something foul, dirty, or unclean", "S": ["befoulment ", "contamination ", "corruption ", "debasement "], "A": ["purification "]}
+{"index": 79300, "D": "the act of making something foul, dirty, or unclean", "S": ["befoulment", "contamination", "corruption", "debasement"], "A": ["purification"]}

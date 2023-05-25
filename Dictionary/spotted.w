@@ -1,1 +1,1 @@
-{"index": 301106, "D": "marked with or characterized by a spot  or spots. ", "S": ["blotched ", "dappled ", "dotted ", "flaked ", "flecked ", "freckled ", "motley ", "sprinkled "], "A": []}
+{"index": 301106, "D": "marked with or characterized by a spot  or spots. ", "S": ["blotched", "dappled", "dotted", "flaked", "flecked", "freckled", "motley", "sprinkled"], "A": []}

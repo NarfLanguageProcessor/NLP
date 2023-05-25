@@ -1,1 +1,1 @@
-{"index": 266441, "D": "to give or provide the meaning of; explain; explicate; elucidate", "S": ["critical ", "debunking ", "demystifying ", "demythifying ", "hermeneutical ", "revisionist "], "A": []}
+{"index": 266441, "D": "to give or provide the meaning of; explain; explicate; elucidate", "S": ["critical", "debunking", "demystifying", "demythifying", "hermeneutical", "revisionist"], "A": []}

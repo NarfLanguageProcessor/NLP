@@ -1,1 +1,1 @@
-{"index": 358527, "D": "the act of verifying. ", "S": ["authentication ", "documents ", "evidence ", "facts ", "information ", "substantiation "], "A": []}
+{"index": 358527, "D": "the act of verifying. ", "S": ["authentication", "documents", "evidence", "facts", "information", "substantiation"], "A": []}

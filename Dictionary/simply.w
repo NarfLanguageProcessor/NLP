@@ -1,1 +1,1 @@
-{"index": 291075, "D": "in a simple  manner; clearly and easily.", "S": ["commonly ", "directly ", "easily ", "honestly ", "naturally ", "openly ", "quietly "], "A": ["difficultly ", "incompletely ", "indefinitely "]}
+{"index": 291075, "D": "in a simple  manner; clearly and easily.", "S": ["commonly", "directly", "easily", "honestly", "naturally", "openly", "quietly"], "A": ["difficultly", "incompletely", "indefinitely"]}

@@ -1,1 +1,1 @@
-{"index": 350539, "D": "quite unharmed", "S": ["intact ", "undamaged ", "uninjured ", "unscathed ", "untouched "], "A": ["damaged ", "harmed ", "hurt ", "injured "]}
+{"index": 350539, "D": "quite unharmed", "S": ["intact", "undamaged", "uninjured", "unscathed", "untouched"], "A": ["damaged", "harmed", "hurt", "injured"]}

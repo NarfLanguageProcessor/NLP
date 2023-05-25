@@ -1,1 +1,1 @@
-{"index": 173822, "D": "subject to litigation; actionable by a lawsuit.", "S": ["liable ", "prosecutable ", "triable "], "A": []}
+{"index": 173822, "D": "subject to litigation; actionable by a lawsuit.", "S": ["liable", "prosecutable", "triable"], "A": []}

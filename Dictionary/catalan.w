@@ -1,1 +1,1 @@
-{"index": 49236, "D": "pertaining to Catalonia,  its inhabitants, or their language.", "S": ["Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Portuguese ", "Provencal ", "Spanish ", "insular "], "A": []}
+{"index": 49236, "D": "pertaining to Catalonia,  its inhabitants, or their language.", "S": ["Continental", "French", "Indo-European language", "Italian", "Italic language", "Latin", "Portuguese", "Provencal", "Spanish", "insular"], "A": []}

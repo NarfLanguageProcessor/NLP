@@ -1,1 +1,1 @@
-{"index": 98052, "D": "an ornament or decoration.", "S": ["adornment ", "coloring ", "embroidery ", "exaggeration ", "ornamentation "], "A": ["plainness "]}
+{"index": 98052, "D": "an ornament or decoration.", "S": ["adornment", "coloring", "embroidery", "exaggeration", "ornamentation"], "A": ["plainness"]}

@@ -1,1 +1,1 @@
-{"index": 42806, "D": "bunko. ", "S": ["chicanery ", "deception ", "fraud ", "scam ", "swindle ", "trickery "], "A": ["honesty ", "truthfulness ", "frankness ", "openness ", "reality ", "truth "]}
+{"index": 42806, "D": "bunko. ", "S": ["chicanery", "deception", "fraud", "scam", "swindle", "trickery"], "A": ["honesty", "truthfulness", "frankness", "openness", "reality", "truth"]}

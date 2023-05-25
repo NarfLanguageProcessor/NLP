@@ -1,1 +1,1 @@
-{"index": 11750, "D": [], "S": ["authority ", "cartoonist ", "commentator ", "expert ", "judge ", "pundit ", "reviewer "], "A": ["amateur "]}
+{"index": 11750, "D": [], "S": ["authority", "cartoonist", "commentator", "expert", "judge", "pundit", "reviewer"], "A": ["amateur"]}

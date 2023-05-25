@@ -1,1 +1,1 @@
-{"index": 348897, "D": "not qualified;  not fit; lacking requisite qualifications", "S": ["inadequate ", "incapable ", "ineligible ", "inexperienced ", "unfit ", "unprepared ", "unskilled "], "A": ["able ", "competent ", "qualified ", "suitable "]}
+{"index": 348897, "D": "not qualified;  not fit; lacking requisite qualifications", "S": ["inadequate", "incapable", "ineligible", "inexperienced", "unfit", "unprepared", "unskilled"], "A": ["able", "competent", "qualified", "suitable"]}

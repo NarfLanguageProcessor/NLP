@@ -1,1 +1,1 @@
-{"index": 179386, "D": "resembling a human being; anthropoid.", "S": ["male ", "manly ", "masculine "], "A": ["feminine ", "unmanly "]}
+{"index": 179386, "D": "resembling a human being; anthropoid.", "S": ["male", "manly", "masculine"], "A": ["feminine", "unmanly"]}

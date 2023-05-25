@@ -1,1 +1,1 @@
-{"index": 134759, "D": "a person or thing that heals  wounds, cures illness, restores health, or otherwise makes well and whole.", "S": ["physician ", "shaman ", "therapist "], "A": []}
+{"index": 134759, "D": "a person or thing that heals  wounds, cures illness, restores health, or otherwise makes well and whole.", "S": ["physician", "shaman", "therapist"], "A": []}

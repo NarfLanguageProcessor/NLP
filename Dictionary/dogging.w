@@ -1,1 +1,1 @@
-{"index": 90911, "D": "the practice of carrying out or watching sexual activities in semi-secluded locations such as parks or car parks, often arranged by e-mail or text messages", "S": ["haunt ", "hound ", "plague ", "shadow "], "A": ["run away "]}
+{"index": 90911, "D": "the practice of carrying out or watching sexual activities in semi-secluded locations such as parks or car parks, often arranged by e-mail or text messages", "S": ["haunt", "hound", "plague", "shadow"], "A": ["run away"]}

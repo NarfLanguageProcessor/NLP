@@ -1,1 +1,1 @@
-{"index": 318481, "D": "reckless; rash.", "S": ["adventurous ", "bold ", "brash ", "daring ", "foolhardy ", "heedless ", "rash ", "reckless ", "venturesome "], "A": ["bashful ", "shy "]}
+{"index": 318481, "D": "reckless; rash.", "S": ["adventurous", "bold", "brash", "daring", "foolhardy", "heedless", "rash", "reckless", "venturesome"], "A": ["bashful", "shy"]}

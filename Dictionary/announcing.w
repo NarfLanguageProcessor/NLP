@@ -1,1 +1,1 @@
-{"index": 13613, "D": "to make known publicly or officially; proclaim; give notice of", "S": ["citing ", "copying ", "naming ", "reciting ", "stating "], "A": []}
+{"index": 13613, "D": "to make known publicly or officially; proclaim; give notice of", "S": ["citing", "copying", "naming", "reciting", "stating"], "A": []}

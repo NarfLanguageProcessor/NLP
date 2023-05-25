@@ -1,1 +1,1 @@
-{"index": 93221, "D": [], "S": ["close ", "dank ", "moist ", "mucid ", "mucous ", "muculent ", "pasty ", "slimy ", "soggy ", "sticky ", "sweating ", "sweaty ", "wet "], "A": ["dry "]}
+{"index": 93221, "D": [], "S": ["close", "dank", "moist", "mucid", "mucous", "muculent", "pasty", "slimy", "soggy", "sticky", "sweating", "sweaty", "wet"], "A": ["dry"]}

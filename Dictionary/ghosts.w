@@ -1,1 +1,1 @@
-{"index": 124589, "D": "a play (1881) by Henrik Ibsen.", "S": ["demon ", "devil ", "phantom ", "shadow ", "soul ", "specter ", "vampire ", "vision "], "A": ["angel ", "god ", "reality "]}
+{"index": 124589, "D": "a play (1881) by Henrik Ibsen.", "S": ["demon", "devil", "phantom", "shadow", "soul", "specter", "vampire", "vision"], "A": ["angel", "god", "reality"]}

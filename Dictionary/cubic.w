@@ -1,1 +1,1 @@
-{"index": 74453, "D": "having three dimensions; solid.", "S": ["cuboid ", "cuboidal "], "A": []}
+{"index": 74453, "D": "having three dimensions; solid.", "S": ["cuboid", "cuboidal"], "A": []}

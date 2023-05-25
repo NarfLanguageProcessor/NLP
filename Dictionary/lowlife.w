@@ -1,1 +1,1 @@
-{"index": 175652, "D": "a despicable person, especially a degenerate or immoral person.", "S": ["bum ", "cad ", "knave ", "miscreant ", "riffraff ", "rogue ", "skunk ", "snake ", "villain "], "A": []}
+{"index": 175652, "D": "a despicable person, especially a degenerate or immoral person.", "S": ["bum", "cad", "knave", "miscreant", "riffraff", "rogue", "skunk", "snake", "villain"], "A": []}

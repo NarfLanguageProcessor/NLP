@@ -1,1 +1,1 @@
-{"index": 292710, "D": "a leader of a Brownie Guide or Cub Scout six", "S": ["hexadic ", "hexagonal ", "semestral ", "senary ", "sextuple "], "A": []}
+{"index": 292710, "D": "a leader of a Brownie Guide or Cub Scout six", "S": ["hexadic", "hexagonal", "semestral", "senary", "sextuple"], "A": []}

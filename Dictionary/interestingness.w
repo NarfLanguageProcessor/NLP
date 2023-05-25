@@ -1,1 +1,1 @@
-{"index": 154900, "D": "engaging or exciting and holding the attention or curiosity", "S": ["allure ", "charm "], "A": ["denial ", "disavowal ", "disclaimer ", "refusal ", "retraction ", "revocation ", "ugliness "]}
+{"index": 154900, "D": "engaging or exciting and holding the attention or curiosity", "S": ["allure", "charm"], "A": ["denial", "disavowal", "disclaimer", "refusal", "retraction", "revocation", "ugliness"]}

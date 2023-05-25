@@ -1,1 +1,1 @@
-{"index": 264112, "D": "to prepare the preliminary sketch or the plans for (a work to be executed), especially to plan the form and structure of", "S": ["redecorate ", "remake ", "remodel ", "renovate ", "revamp ", "revise "], "A": []}
+{"index": 264112, "D": "to prepare the preliminary sketch or the plans for (a work to be executed), especially to plan the form and structure of", "S": ["redecorate", "remake", "remodel", "renovate", "revamp", "revise"], "A": []}

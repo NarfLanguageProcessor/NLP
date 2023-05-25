@@ -1,1 +1,1 @@
-{"index": 84893, "D": "a variant of dickey1. ", "S": ["choker "], "A": []}
+{"index": 84893, "D": "a variant of dickey1. ", "S": ["choker"], "A": []}

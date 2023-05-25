@@ -1,1 +1,1 @@
-{"index": 59379, "D": "a number of persons or things regarded as forming a group by reason of common attributes, characteristics, qualities, or traits; kind; sort", "S": ["chic ", "dashing ", "fine ", "fly ", "sharp "], "A": ["boring ", "calm ", "dull ", "old-fashioned ", "unstylish "]}
+{"index": 59379, "D": "a number of persons or things regarded as forming a group by reason of common attributes, characteristics, qualities, or traits; kind; sort", "S": ["chic", "dashing", "fine", "fly", "sharp"], "A": ["boring", "calm", "dull", "old-fashioned", "unstylish"]}

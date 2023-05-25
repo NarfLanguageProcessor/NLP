@@ -1,1 +1,0 @@
-{"index": 164844, "D": "a synthetic cytokinin, C10H9ON5, that retards senescence in plants.", "S": [], "A": []}

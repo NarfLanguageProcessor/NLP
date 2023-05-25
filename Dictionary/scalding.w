@@ -1,1 +1,1 @@
-{"index": 279392, "D": "to burn or affect painfully with or as if with hot liquid or steam.", "S": ["blazing ", "blistering ", "boiling ", "incandescent ", "scorching ", "searing ", "sizzling ", "sweltering "], "A": ["freezing ", "cold ", "cool ", "unfriendly "]}
+{"index": 279392, "D": "to burn or affect painfully with or as if with hot liquid or steam.", "S": ["blazing", "blistering", "boiling", "incandescent", "scorching", "searing", "sizzling", "sweltering"], "A": ["freezing", "cold", "cool", "unfriendly"]}

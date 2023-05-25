@@ -1,1 +1,1 @@
-{"index": 128976, "D": "to bestow or confer, especially by a formal act", "S": ["bank ", "banker "], "A": []}
+{"index": 128976, "D": "to bestow or confer, especially by a formal act", "S": ["bank", "banker"], "A": []}

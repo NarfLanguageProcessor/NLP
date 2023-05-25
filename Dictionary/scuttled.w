@@ -1,1 +1,1 @@
-{"index": 282362, "D": "a cover for this.", "S": ["abandon ", "sink ", "submerge "], "A": []}
+{"index": 282362, "D": "a cover for this.", "S": ["abandon", "sink", "submerge"], "A": []}

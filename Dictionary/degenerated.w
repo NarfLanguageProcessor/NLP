@@ -1,1 +1,1 @@
-{"index": 79566, "D": "to fall below a normal or desirable level in physical, mental, or moral qualities; deteriorate", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}
+{"index": 79566, "D": "to fall below a normal or desirable level in physical, mental, or moral qualities; deteriorate", "S": ["powdery", "soft"], "A": ["flexible", "pliable"]}

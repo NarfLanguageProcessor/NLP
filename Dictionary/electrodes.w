@@ -1,1 +1,1 @@
-{"index": 97014, "D": "a conductor, not necessarily metallic, through which a current enters or leaves a nonmetallic medium, as an electrolytic cell, arc generator, vacuum tube, or gaseous discharge tube.", "S": ["plate ", "wire "], "A": []}
+{"index": 97014, "D": "a conductor, not necessarily metallic, through which a current enters or leaves a nonmetallic medium, as an electrolytic cell, arc generator, vacuum tube, or gaseous discharge tube.", "S": ["plate", "wire"], "A": []}

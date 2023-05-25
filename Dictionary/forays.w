@@ -1,1 +1,1 @@
-{"index": 116315, "D": "a quick raid, usually for the purpose of taking plunder", "S": ["inroad ", "invasion ", "raid "], "A": ["abstention ", "idleness ", "laziness "]}
+{"index": 116315, "D": "a quick raid, usually for the purpose of taking plunder", "S": ["inroad", "invasion", "raid"], "A": ["abstention", "idleness", "laziness"]}

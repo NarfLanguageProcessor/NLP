@@ -1,1 +1,1 @@
-{"index": 217995, "D": "the plural of ovum. ", "S": ["egg ", "gamete ", "oosphere ", "seed ", "spore "], "A": []}
+{"index": 217995, "D": "the plural of ovum. ", "S": ["egg", "gamete", "oosphere", "seed", "spore"], "A": []}

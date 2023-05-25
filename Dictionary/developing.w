@@ -1,1 +1,1 @@
-{"index": 83491, "D": "undergoing development;  growing; evolving.", "S": ["changeable ", "dynamic ", "growing ", "uncertain ", "unstable "], "A": ["certain ", "stable ", "steady ", "sure "]}
+{"index": 83491, "D": "undergoing development;  growing; evolving.", "S": ["changeable", "dynamic", "growing", "uncertain", "unstable"], "A": ["certain", "stable", "steady", "sure"]}

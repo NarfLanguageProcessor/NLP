@@ -1,1 +1,0 @@
-{"index": 301329, "D": "a lock  that fastens automatically by a spring. ", "S": [], "A": []}

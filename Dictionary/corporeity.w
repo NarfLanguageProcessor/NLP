@@ -1,1 +1,1 @@
-{"index": 69547, "D": "material or physical nature or quality; materiality.", "S": ["element ", "material ", "thing "], "A": ["abstract ", "concept "]}
+{"index": 69547, "D": "material or physical nature or quality; materiality.", "S": ["element", "material", "thing"], "A": ["abstract", "concept"]}

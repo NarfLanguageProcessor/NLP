@@ -1,1 +1,1 @@
-{"index": 365659, "D": "to move to and fro.", "S": ["brandish ", "flap ", "flutter ", "fly ", "shake ", "swing ", "twirl ", "twist ", "wield "], "A": ["untwist ", "calm ", "leave alone ", "mislead ", "persist ", "remain ", "stay ", "steady ", "straighten "]}
+{"index": 365659, "D": "to move to and fro.", "S": ["brandish", "flap", "flutter", "fly", "shake", "swing", "twirl", "twist", "wield"], "A": ["untwist", "calm", "leave alone", "mislead", "persist", "remain", "stay", "steady", "straighten"]}

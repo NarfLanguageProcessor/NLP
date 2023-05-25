@@ -1,1 +1,1 @@
-{"index": 130138, "D": "a mixture of rum and water, often flavored with lemon, sugar, and spices and sometimes served hot.", "S": ["alcohol ", "drink ", "liquor ", "rum "], "A": []}
+{"index": 130138, "D": "a mixture of rum and water, often flavored with lemon, sugar, and spices and sometimes served hot.", "S": ["alcohol", "drink", "liquor", "rum"], "A": []}

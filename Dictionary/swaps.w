@@ -1,1 +1,1 @@
-{"index": 314104, "D": "to exchange, barter, or trade, as one thing for another", "S": ["bandy ", "bargain ", "barter ", "change ", "interchange ", "substitute ", "switch ", "trade ", "traffic ", "truck "], "A": ["keep ", "maintain "]}
+{"index": 314104, "D": "to exchange, barter, or trade, as one thing for another", "S": ["bandy", "bargain", "barter", "change", "interchange", "substitute", "switch", "trade", "traffic", "truck"], "A": ["keep", "maintain"]}

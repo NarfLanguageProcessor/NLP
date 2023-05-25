@@ -1,0 +1,1 @@
+{"index": 38028, "D": "a contemptuous term used to refer to a Black person.", "S": ["disco", "samba", "tango", "waltz"], "A": []}

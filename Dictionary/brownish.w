@@ -1,1 +1,1 @@
-{"index": 41647, "D": "a dark tertiary color with a yellowish or reddish hue.", "S": ["burnished ", "chestnut ", "copper ", "russet ", "rust ", "tan "], "A": []}
+{"index": 41647, "D": "a dark tertiary color with a yellowish or reddish hue.", "S": ["burnished", "chestnut", "copper", "russet", "rust", "tan"], "A": []}

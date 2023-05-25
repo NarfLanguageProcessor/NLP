@@ -1,1 +1,1 @@
-{"index": 35788, "D": "a sudden and violent gust of wind", "S": ["cannon ", "handgun ", "hardware ", "mortar ", "piece ", "pistol ", "revolver ", "rifle ", "shotgun "], "A": []}
+{"index": 35788, "D": "a sudden and violent gust of wind", "S": ["cannon", "handgun", "hardware", "mortar", "piece", "pistol", "revolver", "rifle", "shotgun"], "A": []}

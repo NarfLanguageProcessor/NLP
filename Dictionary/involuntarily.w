@@ -1,1 +1,1 @@
-{"index": 157328, "D": "not voluntary; independent of one's will; not by one's own choice", "S": ["carefully ", "cautiously ", "grudgingly ", "hesitantly ", "perforce ", "unenthusiastically ", "unwillingly ", "warily ", "willy-nilly "], "A": []}
+{"index": 157328, "D": "not voluntary; independent of one's will; not by one's own choice", "S": ["carefully", "cautiously", "grudgingly", "hesitantly", "perforce", "unenthusiastically", "unwillingly", "warily", "willy-nilly"], "A": []}

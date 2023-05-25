@@ -1,1 +1,1 @@
-{"index": 352362, "D": "temperamentally unsuited to his role", "S": ["incompatible "], "A": ["suitable "]}
+{"index": 352362, "D": "temperamentally unsuited to his role", "S": ["incompatible"], "A": ["suitable"]}

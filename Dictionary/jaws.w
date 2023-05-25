@@ -1,1 +1,1 @@
-{"index": 160668, "D": "the narrow opening of some confined place such as a gorge", "S": ["craw ", "crop ", "gullet "], "A": []}
+{"index": 160668, "D": "the narrow opening of some confined place such as a gorge", "S": ["craw", "crop", "gullet"], "A": []}

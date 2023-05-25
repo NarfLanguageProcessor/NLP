@@ -1,1 +1,0 @@
-{"index": 291339, "D": "an assembly for religious worship, especially for the celebration of the Eucharist.", "S": [], "A": []}

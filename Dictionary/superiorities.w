@@ -1,1 +1,1 @@
-{"index": 312150, "D": "the quality or condition of being superior. ", "S": ["dominance ", "excellence ", "perfection ", "preeminence ", "prestige ", "supremacy ", "upper hand "], "A": ["imperfection ", "impotence ", "incapacity ", "inferiority ", "weakness "]}
+{"index": 312150, "D": "the quality or condition of being superior. ", "S": ["dominance", "excellence", "perfection", "preeminence", "prestige", "supremacy", "upper hand"], "A": ["imperfection", "impotence", "incapacity", "inferiority", "weakness"]}

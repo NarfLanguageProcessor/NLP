@@ -1,1 +1,1 @@
-{"index": 36593, "D": "to speak pompously.", "S": ["recite "], "A": ["be quiet ", "compliment ", "praise "]}
+{"index": 36593, "D": "to speak pompously.", "S": ["recite"], "A": ["be quiet", "compliment", "praise"]}

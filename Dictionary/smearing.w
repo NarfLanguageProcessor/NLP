@@ -1,1 +1,1 @@
-{"index": 294785, "D": "to spread or daub (an oily, greasy, viscous, or wet substance) on or over something", "S": ["character assassination ", "defamation "], "A": ["approval ", "compliment ", "flattery ", "praise "]}
+{"index": 294785, "D": "to spread or daub (an oily, greasy, viscous, or wet substance) on or over something", "S": ["character assassination", "defamation"], "A": ["approval", "compliment", "flattery", "praise"]}

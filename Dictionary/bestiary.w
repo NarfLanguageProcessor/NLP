@@ -1,1 +1,1 @@
-{"index": 32586, "D": "a collection of moralized fables, especially as written in the Middle Ages, about actual or mythical animals.", "S": ["fantasy ", "fiction ", "legend ", "myth ", "parable ", "tale ", "yarn "], "A": ["nonfiction ", "truth ", "sense "]}
+{"index": 32586, "D": "a collection of moralized fables, especially as written in the Middle Ages, about actual or mythical animals.", "S": ["fantasy", "fiction", "legend", "myth", "parable", "tale", "yarn"], "A": ["nonfiction", "truth", "sense"]}

@@ -1,1 +1,1 @@
-{"index": 89589, "D": "to scatter in various directions; disperse; dispel.", "S": ["debauchee ", "degenerate ", "good-for-nothing ", "lecher ", "libertine ", "nighthawk ", "operator ", "prodigal ", "rake ", "reprobate ", "swinger ", "waster ", "wastrel "], "A": []}
+{"index": 89589, "D": "to scatter in various directions; disperse; dispel.", "S": ["debauchee", "degenerate", "good-for-nothing", "lecher", "libertine", "nighthawk", "operator", "prodigal", "rake", "reprobate", "swinger", "waster", "wastrel"], "A": []}

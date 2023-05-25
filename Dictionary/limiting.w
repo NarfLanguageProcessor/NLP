@@ -1,1 +1,1 @@
-{"index": 172406, "D": "serving to restrict or restrain; restrictive; confining.", "S": ["attached ", "enslaved ", "fastened ", "indentured ", "restraining ", "tied ", "tying "], "A": ["alterable ", "breakable ", "revocable ", "unbinding ", "unnecessary "]}
+{"index": 172406, "D": "serving to restrict or restrain; restrictive; confining.", "S": ["attached", "enslaved", "fastened", "indentured", "restraining", "tied", "tying"], "A": ["alterable", "breakable", "revocable", "unbinding", "unnecessary"]}

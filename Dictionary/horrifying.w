@@ -1,1 +1,1 @@
-{"index": 143972, "D": "causing feelings of horror in; awful; terrifying;", "S": ["appalling ", "awful ", "dreadful ", "horrible ", "horrid ", "rotten ", "terrible "], "A": ["good ", "nice ", "pleasant ", "pleasing ", "wonderful "]}
+{"index": 143972, "D": "causing feelings of horror in; awful; terrifying;", "S": ["appalling", "awful", "dreadful", "horrible", "horrid", "rotten", "terrible"], "A": ["good", "nice", "pleasant", "pleasing", "wonderful"]}

@@ -1,1 +1,1 @@
-{"index": 66739, "D": "to permit, approve, or agree; comply or yield (often followed by to or an infinitive)", "S": ["agreeable ", "biddable ", "game ", "obedient ", "ready "], "A": []}
+{"index": 66739, "D": "to permit, approve, or agree; comply or yield (often followed by to or an infinitive)", "S": ["agreeable", "biddable", "game", "obedient", "ready"], "A": []}

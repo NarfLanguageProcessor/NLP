@@ -1,1 +1,1 @@
-{"index": 190187, "D": "wrongly conceived, held, or done", "S": ["confounded ", "confused ", "deceived ", "deluded ", "duped ", "fooled ", "misguided ", "misinformed ", "misled ", "tricked "], "A": ["accurate ", "correct ", "honest ", "right ", "substantiated ", "true ", "valid "]}
+{"index": 190187, "D": "wrongly conceived, held, or done", "S": ["confounded", "confused", "deceived", "deluded", "duped", "fooled", "misguided", "misinformed", "misled", "tricked"], "A": ["accurate", "correct", "honest", "right", "substantiated", "true", "valid"]}

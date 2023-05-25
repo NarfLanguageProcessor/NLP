@@ -1,1 +1,1 @@
-{"index": 287857, "D": "transparently thin; diaphanous, as some fabrics", "S": ["steep "], "A": ["sloping ", "horizontal "]}
+{"index": 287857, "D": "transparently thin; diaphanous, as some fabrics", "S": ["steep"], "A": ["sloping", "horizontal"]}

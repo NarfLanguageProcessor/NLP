@@ -1,1 +1,1 @@
-{"index": 253874, "D": "being the original or model on which something is based or formed", "S": ["archetypal ", "quintessential "], "A": []}
+{"index": 253874, "D": "being the original or model on which something is based or formed", "S": ["archetypal", "quintessential"], "A": []}

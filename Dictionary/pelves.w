@@ -1,1 +1,1 @@
-{"index": 229441, "D": "the basinlike cavity in the lower part of the trunk of many vertebrates, formed in humans by the innominate bones, sacrum, etc.", "S": ["abdomen ", "gut ", "insides ", "tank ", "tummy "], "A": []}
+{"index": 229441, "D": "the basinlike cavity in the lower part of the trunk of many vertebrates, formed in humans by the innominate bones, sacrum, etc.", "S": ["abdomen", "gut", "insides", "tank", "tummy"], "A": []}

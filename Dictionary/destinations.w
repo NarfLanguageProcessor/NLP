@@ -1,1 +1,1 @@
-{"index": 82937, "D": "the place to which a person or thing travels or is sent", "S": ["harbor ", "haven ", "station ", "stop ", "target ", "terminal "], "A": ["beginning ", "source ", "start "]}
+{"index": 82937, "D": "the place to which a person or thing travels or is sent", "S": ["harbor", "haven", "station", "stop", "target", "terminal"], "A": ["beginning", "source", "start"]}

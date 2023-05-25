@@ -1,1 +1,1 @@
-{"index": 146596, "D": "not working or active; unemployed; doing nothing", "S": ["decrease ", "diminish ", "fail ", "fall off ", "falter ", "slacken ", "slow ", "trail ", "wane "], "A": ["advance ", "complete ", "do ", "finish ", "go ", "hasten ", "hurry ", "rise ", "run ", "rush "]}
+{"index": 146596, "D": "not working or active; unemployed; doing nothing", "S": ["decrease", "diminish", "fail", "fall off", "falter", "slacken", "slow", "trail", "wane"], "A": ["advance", "complete", "do", "finish", "go", "hasten", "hurry", "rise", "run", "rush"]}

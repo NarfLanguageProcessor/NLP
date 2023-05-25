@@ -1,1 +1,1 @@
-{"index": 198143, "D": "situated or living near; adjacent", "S": ["adjoining ", "bordering ", "nearby "], "A": ["far ", "faraway ", "separate ", "away "]}
+{"index": 198143, "D": "situated or living near; adjacent", "S": ["adjoining", "bordering", "nearby"], "A": ["far", "faraway", "separate", "away"]}

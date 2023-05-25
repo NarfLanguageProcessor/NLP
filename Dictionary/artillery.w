@@ -1,1 +1,1 @@
-{"index": 20731, "D": "mounted projectile-firing guns or missile launchers, mobile or stationary, light or heavy, as distinguished from small arms.", "S": ["battery ", "cannon ", "ordnance "], "A": []}
+{"index": 20731, "D": "mounted projectile-firing guns or missile launchers, mobile or stationary, light or heavy, as distinguished from small arms.", "S": ["battery", "cannon", "ordnance"], "A": []}

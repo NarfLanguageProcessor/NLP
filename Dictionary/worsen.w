@@ -1,1 +1,1 @@
-{"index": 367661, "D": "to make or become worse.", "S": ["aggravate ", "damage ", "decline ", "depress ", "deteriorate ", "exacerbate ", "get worse ", "impair ", "lower "], "A": ["aid ", "comfort ", "help ", "improve ", "increase ", "make happy ", "raise ", "rise ", "soothe ", "build ", "grow "]}
+{"index": 367661, "D": "to make or become worse.", "S": ["aggravate", "damage", "decline", "depress", "deteriorate", "exacerbate", "get worse", "impair", "lower"], "A": ["aid", "comfort", "help", "improve", "increase", "make happy", "raise", "rise", "soothe", "build", "grow"]}

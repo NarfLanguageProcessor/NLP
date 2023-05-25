@@ -1,1 +1,1 @@
-{"index": 45844, "D": "of or relating to fields or open country.", "S": ["arcadian ", "bucolic ", "pastoral ", "rural ", "rustic "], "A": []}
+{"index": 45844, "D": "of or relating to fields or open country.", "S": ["arcadian", "bucolic", "pastoral", "rural", "rustic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 226611, "D": "of or relating to a parliament  or any of its members.", "S": ["congressional ", "senatorial "], "A": []}
+{"index": 226611, "D": "of or relating to a parliament  or any of its members.", "S": ["congressional", "senatorial"], "A": []}

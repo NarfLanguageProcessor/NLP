@@ -1,1 +1,1 @@
-{"index": 256511, "D": "to beat or thrash with or as if with the fists.", "S": ["bash ", "batter ", "crush ", "flog ", "knock ", "lash ", "maul ", "pelt ", "punch ", "smack ", "thrash ", "trounce ", "wallop ", "whip "], "A": ["compliment ", "fail ", "lose ", "praise ", "surrender ", "tap "]}
+{"index": 256511, "D": "to beat or thrash with or as if with the fists.", "S": ["bash", "batter", "crush", "flog", "knock", "lash", "maul", "pelt", "punch", "smack", "thrash", "trounce", "wallop", "whip"], "A": ["compliment", "fail", "lose", "praise", "surrender", "tap"]}

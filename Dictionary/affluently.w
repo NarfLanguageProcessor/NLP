@@ -1,1 +1,1 @@
-{"index": 5445, "D": "having an abundance of wealth, property, or other material goods; prosperous; rich", "S": ["amply ", "generously ", "handsomely ", "lavishly ", "richly "], "A": ["meagerly ", "meanly ", "poorly "]}
+{"index": 5445, "D": "having an abundance of wealth, property, or other material goods; prosperous; rich", "S": ["amply", "generously", "handsomely", "lavishly", "richly"], "A": ["meagerly", "meanly", "poorly"]}

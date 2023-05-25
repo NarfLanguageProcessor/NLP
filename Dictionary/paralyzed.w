@@ -1,1 +1,1 @@
-{"index": 225712, "D": "to affect with paralysis. ", "S": ["crippled ", "disabled ", "helpless "], "A": ["able ", "healthy "]}
+{"index": 225712, "D": "to affect with paralysis. ", "S": ["crippled", "disabled", "helpless"], "A": ["able", "healthy"]}

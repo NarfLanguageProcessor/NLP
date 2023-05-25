@@ -1,1 +1,1 @@
-{"index": 100299, "D": "the act of engaging  or the state of being engaged;  involvement", "S": ["commitment ", "obligation ", "pact "], "A": ["breach ", "break ", "disagreement "]}
+{"index": 100299, "D": "the act of engaging  or the state of being engaged;  involvement", "S": ["commitment", "obligation", "pact"], "A": ["breach", "break", "disagreement"]}

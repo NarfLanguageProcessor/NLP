@@ -1,1 +1,1 @@
-{"index": 28893, "D": "(in some regions) a scow.", "S": ["barge ", "canoe ", "catamaran ", "craft ", "dinghy ", "gondola ", "raft ", "sailboat ", "schooner ", "ship ", "yacht "], "A": []}
+{"index": 28893, "D": "(in some regions) a scow.", "S": ["barge", "canoe", "catamaran", "craft", "dinghy", "gondola", "raft", "sailboat", "schooner", "ship", "yacht"], "A": []}

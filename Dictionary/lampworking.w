@@ -1,1 +1,0 @@
-{"index": 167841, "D": "the method or process of producing articles made of glass tubes or rods formed or shaped while softened by the flame of a lamp  or blast lamp. ", "S": [], "A": []}

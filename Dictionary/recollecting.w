@@ -1,1 +1,1 @@
-{"index": 263105, "D": "to recall to mind; recover knowledge of by memory; remember.", "S": ["celebrating ", "commemorating ", "memorializing ", "recollection ", "reliving ", "reminiscence ", "reminiscing "], "A": ["forgetting ", "overlooking "]}
+{"index": 263105, "D": "to recall to mind; recover knowledge of by memory; remember.", "S": ["celebrating", "commemorating", "memorializing", "recollection", "reliving", "reminiscence", "reminiscing"], "A": ["forgetting", "overlooking"]}

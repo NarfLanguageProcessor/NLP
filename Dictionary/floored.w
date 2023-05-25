@@ -1,1 +1,1 @@
-{"index": 114938, "D": "covered or furnished with a floor", "S": ["astonished ", "awed ", "baffled ", "befuddled ", "dazed ", "mystified ", "perplexed ", "puzzled ", "rattled ", "shocked ", "startled ", "stunned ", "surprised "], "A": ["aware ", "clear "]}
+{"index": 114938, "D": "covered or furnished with a floor", "S": ["astonished", "awed", "baffled", "befuddled", "dazed", "mystified", "perplexed", "puzzled", "rattled", "shocked", "startled", "stunned", "surprised"], "A": ["aware", "clear"]}

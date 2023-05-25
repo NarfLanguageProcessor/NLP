@@ -1,1 +1,1 @@
-{"index": 162362, "D": "resembling or suggesting a jungle. ", "S": ["dense ", "lush "], "A": ["sparse "]}
+{"index": 162362, "D": "resembling or suggesting a jungle. ", "S": ["dense", "lush"], "A": ["sparse"]}

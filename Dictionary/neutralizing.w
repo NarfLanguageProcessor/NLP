@@ -1,1 +1,1 @@
-{"index": 199315, "D": "to make neutral;  cause to undergo neutralization. ", "S": ["salty ", "soluble "], "A": []}
+{"index": 199315, "D": "to make neutral;  cause to undergo neutralization. ", "S": ["salty", "soluble"], "A": []}

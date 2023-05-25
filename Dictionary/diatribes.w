@@ -1,1 +1,1 @@
-{"index": 84622, "D": "a bitter, sharply abusive denunciation, attack, or criticism", "S": ["denunciation ", "invective ", "jeremiad ", "screed ", "tirade "], "A": ["compliment ", "praise "]}
+{"index": 84622, "D": "a bitter, sharply abusive denunciation, attack, or criticism", "S": ["denunciation", "invective", "jeremiad", "screed", "tirade"], "A": ["compliment", "praise"]}

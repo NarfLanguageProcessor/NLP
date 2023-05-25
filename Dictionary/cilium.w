@@ -1,1 +1,1 @@
-{"index": 57434, "D": "singular of cilia. ", "S": ["eyebrow ", "fiber ", "fur ", "grass ", "haircut ", "hairstyle ", "mane ", "sideburn ", "strand ", "wig ", "wool "], "A": []}
+{"index": 57434, "D": "singular of cilia. ", "S": ["eyebrow", "fiber", "fur", "grass", "haircut", "hairstyle", "mane", "sideburn", "strand", "wig", "wool"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 58646, "D": "made into a city. ", "S": ["burghal ", "civic ", "civil ", "interurban ", "intraurban ", "megalopolitan ", "municipal ", "urban "], "A": ["rural "]}
+{"index": 58646, "D": "made into a city. ", "S": ["burghal", "civic", "civil", "interurban", "intraurban", "megalopolitan", "municipal", "urban"], "A": ["rural"]}

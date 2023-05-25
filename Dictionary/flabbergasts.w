@@ -1,1 +1,1 @@
-{"index": 113662, "D": "to overcome with surprise and bewilderment; astound.", "S": ["amaze ", "astonish ", "astound ", "daze ", "disconcert ", "dumbfound ", "nonplus ", "stun "], "A": []}
+{"index": 113662, "D": "to overcome with surprise and bewilderment; astound.", "S": ["amaze", "astonish", "astound", "daze", "disconcert", "dumbfound", "nonplus", "stun"], "A": []}

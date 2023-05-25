@@ -1,1 +1,1 @@
-{"index": 160159, "D": "a person who is in charge of a jail  or section of a jail. ", "S": ["prison guard "], "A": []}
+{"index": 160159, "D": "a person who is in charge of a jail  or section of a jail. ", "S": ["prison guard"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 198859, "D": "lowest; farthest down", "S": ["basal ", "base ", "basement ", "basic ", "deepest ", "foundational ", "ground ", "last ", "lowermost ", "lowest ", "meat-and-potatoes ", "primary ", "radical ", "rock-bottom ", "underlying ", "undermost "], "A": []}
+{"index": 198859, "D": "lowest; farthest down", "S": ["basal", "base", "basement", "basic", "deepest", "foundational", "ground", "last", "lowermost", "lowest", "meat-and-potatoes", "primary", "radical", "rock-bottom", "underlying", "undermost"], "A": []}

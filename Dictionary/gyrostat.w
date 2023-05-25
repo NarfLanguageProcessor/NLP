@@ -1,1 +1,1 @@
-{"index": 125608, "D": "a modified gyroscope, consisting of a rotating wheel pivoted within a rigid case.", "S": ["gyroscope "], "A": []}
+{"index": 125608, "D": "a modified gyroscope, consisting of a rotating wheel pivoted within a rigid case.", "S": ["gyroscope"], "A": []}

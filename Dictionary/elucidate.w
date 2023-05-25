@@ -1,1 +1,1 @@
-{"index": 97811, "D": "to make lucid  or clear; throw light upon; explain", "S": ["clear up ", "decode ", "enlighten ", "exemplify ", "explicate ", "expound ", "get across ", "illuminate "], "A": ["cloud ", "complicate ", "confuse ", "obscure ", "conceal ", "hide "]}
+{"index": 97811, "D": "to make lucid  or clear; throw light upon; explain", "S": ["clear up", "decode", "enlighten", "exemplify", "explicate", "expound", "get across", "illuminate"], "A": ["cloud", "complicate", "confuse", "obscure", "conceal", "hide"]}

@@ -1,1 +1,1 @@
-{"index": 108929, "D": "any side of a building facing a public way or space and finished accordingly.", "S": ["color ", "exterior ", "front ", "veneer "], "A": ["reality ", "truth "]}
+{"index": 108929, "D": "any side of a building facing a public way or space and finished accordingly.", "S": ["color", "exterior", "front", "veneer"], "A": ["reality", "truth"]}

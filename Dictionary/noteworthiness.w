@@ -1,1 +1,1 @@
-{"index": 208892, "D": "worthy  of notice or attention; notable; remarkable", "S": ["consequence ", "influence ", "status ", "usefulness "], "A": ["insignificance ", "unimportance "]}
+{"index": 208892, "D": "worthy  of notice or attention; notable; remarkable", "S": ["consequence", "influence", "status", "usefulness"], "A": ["insignificance", "unimportance"]}

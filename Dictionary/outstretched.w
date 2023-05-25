@@ -1,1 +1,1 @@
-{"index": 217640, "D": "to stretch  forth; extend", "S": ["deep ", "expansive ", "full ", "large ", "vast "], "A": ["narrow ", "thin "]}
+{"index": 217640, "D": "to stretch  forth; extend", "S": ["deep", "expansive", "full", "large", "vast"], "A": ["narrow", "thin"]}

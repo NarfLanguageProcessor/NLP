@@ -1,1 +1,1 @@
-{"index": 83190, "D": "discouraged or restrained from acting or proceeding", "S": ["crestfallen ", "depressed ", "dismayed ", "pessimistic "], "A": ["encouraged ", "heartened "]}
+{"index": 83190, "D": "discouraged or restrained from acting or proceeding", "S": ["crestfallen", "depressed", "dismayed", "pessimistic"], "A": ["encouraged", "heartened"]}

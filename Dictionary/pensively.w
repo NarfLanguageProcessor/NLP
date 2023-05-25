@@ -1,1 +1,0 @@
-{"index": 229845, "D": "dreamily or wistfully thoughtful", "S": ["intellectually ", "psychologically "], "A": []}

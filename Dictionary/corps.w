@@ -1,1 +1,1 @@
-{"index": 69553, "D": "a military unit of ground combat forces consisting of two or more divisions and other troops.", "S": ["band ", "body ", "contingent ", "crew ", "detachment ", "division ", "squad ", "squadron ", "troop ", "troupe ", "unit "], "A": ["connection ", "whole ", "individual "]}
+{"index": 69553, "D": "a military unit of ground combat forces consisting of two or more divisions and other troops.", "S": ["band", "body", "contingent", "crew", "detachment", "division", "squad", "squadron", "troop", "troupe", "unit"], "A": ["connection", "whole", "individual"]}

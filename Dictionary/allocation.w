@@ -1,1 +1,1 @@
-{"index": 8789, "D": "the act of allocating; apportionment. ", "S": ["allotment ", "appropriation ", "quota ", "share "], "A": ["whole "]}
+{"index": 8789, "D": "the act of allocating; apportionment. ", "S": ["allotment", "appropriation", "quota", "share"], "A": ["whole"]}

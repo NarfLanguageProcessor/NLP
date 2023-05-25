@@ -1,1 +1,1 @@
-{"index": 161397, "D": "swing music or early jazz.", "S": ["conversational ", "vernacular "], "A": ["correct ", "formal ", "standard ", "stilted "]}
+{"index": 161397, "D": "swing music or early jazz.", "S": ["conversational", "vernacular"], "A": ["correct", "formal", "standard", "stilted"]}

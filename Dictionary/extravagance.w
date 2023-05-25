@@ -1,1 +1,1 @@
-{"index": 108672, "D": "excessive or unnecessary expenditure or outlay of money.", "S": ["absurdity ", "exaggeration ", "excess ", "luxury ", "squandering "], "A": ["economy ", "frugality "]}
+{"index": 108672, "D": "excessive or unnecessary expenditure or outlay of money.", "S": ["absurdity", "exaggeration", "excess", "luxury", "squandering"], "A": ["economy", "frugality"]}

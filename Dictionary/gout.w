@@ -1,1 +1,1 @@
-{"index": 128356, "D": "an acute, recurrent disease characterized by painful inflammation of the joints, chiefly those in the feet and hands, and especially in the great toe, and by an excess of uric acid in the blood.", "S": ["appetite ", "palate "], "A": []}
+{"index": 128356, "D": "an acute, recurrent disease characterized by painful inflammation of the joints, chiefly those in the feet and hands, and especially in the great toe, and by an excess of uric acid in the blood.", "S": ["appetite", "palate"], "A": []}

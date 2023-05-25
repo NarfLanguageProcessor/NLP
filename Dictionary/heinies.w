@@ -1,1 +1,1 @@
-{"index": 135386, "D": "a contemptuous term used to refer to a German, especially a German soldier in World War I or II.", "S": ["ass ", "butt ", "posterior ", "rear end "], "A": []}
+{"index": 135386, "D": "a contemptuous term used to refer to a German, especially a German soldier in World War I or II.", "S": ["ass", "butt", "posterior", "rear end"], "A": []}

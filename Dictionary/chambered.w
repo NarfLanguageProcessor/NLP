@@ -1,1 +1,1 @@
-{"index": 52257, "D": "having compartmental chambers", "S": ["gaping ", "huge ", "roomy ", "spacious ", "vast ", "yawning "], "A": ["cramped ", "little ", "narrow ", "small "]}
+{"index": 52257, "D": "having compartmental chambers", "S": ["gaping", "huge", "roomy", "spacious", "vast", "yawning"], "A": ["cramped", "little", "narrow", "small"]}

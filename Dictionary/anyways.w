@@ -1,1 +1,1 @@
-{"index": 13380, "D": "a nonstandard variant of anyway. ", "S": ["anyhow ", "ever ", "once "], "A": []}
+{"index": 13380, "D": "a nonstandard variant of anyway. ", "S": ["anyhow", "ever", "once"], "A": []}

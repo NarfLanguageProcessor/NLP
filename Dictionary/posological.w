@@ -1,1 +1,0 @@
-{"index": 243831, "D": "the branch of pharmacology dealing with the determination of dosage.", "S": [], "A": []}

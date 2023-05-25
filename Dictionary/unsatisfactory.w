@@ -1,1 +1,1 @@
-{"index": 350376, "D": "not satisfactory;  not satisfying or meeting one's demands; inadequate.", "S": ["deficient ", "disappointing ", "distressing ", "mediocre ", "regrettable ", "unacceptable ", "unsuitable "], "A": ["satisfactory ", "suitable "]}
+{"index": 350376, "D": "not satisfactory;  not satisfying or meeting one's demands; inadequate.", "S": ["deficient", "disappointing", "distressing", "mediocre", "regrettable", "unacceptable", "unsuitable"], "A": ["satisfactory", "suitable"]}

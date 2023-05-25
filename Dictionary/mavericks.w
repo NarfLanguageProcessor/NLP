@@ -1,1 +1,1 @@
-{"index": 181475, "D": "an unbranded calf, cow, or steer, especially an unbranded calf that is separated from its mother.", "S": ["bohemian ", "dissenter ", "extremist ", "malcontent ", "nonconformist ", "radical "], "A": ["conservative ", "moderate "]}
+{"index": 181475, "D": "an unbranded calf, cow, or steer, especially an unbranded calf that is separated from its mother.", "S": ["bohemian", "dissenter", "extremist", "malcontent", "nonconformist", "radical"], "A": ["conservative", "moderate"]}

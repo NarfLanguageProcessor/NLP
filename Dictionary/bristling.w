@@ -1,1 +1,1 @@
-{"index": 40976, "D": "one of the short, stiff, coarse hairs of certain animals, especially hogs, used extensively in making brushes.", "S": ["feathery ", "fluffy ", "fuzzy ", "hairy ", "leafy ", "luxuriant ", "unruly ", "wiry "], "A": ["smooth "]}
+{"index": 40976, "D": "one of the short, stiff, coarse hairs of certain animals, especially hogs, used extensively in making brushes.", "S": ["feathery", "fluffy", "fuzzy", "hairy", "leafy", "luxuriant", "unruly", "wiry"], "A": ["smooth"]}

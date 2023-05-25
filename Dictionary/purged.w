@@ -1,1 +1,1 @@
-{"index": 256932, "D": "to rid of whatever is impure or undesirable; cleanse; purify. ", "S": ["coup ", "evacuation ", "expulsion ", "extermination ", "liquidation ", "suppression "], "A": ["dirtying "]}
+{"index": 256932, "D": "to rid of whatever is impure or undesirable; cleanse; purify. ", "S": ["coup", "evacuation", "expulsion", "extermination", "liquidation", "suppression"], "A": ["dirtying"]}

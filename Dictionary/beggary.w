@@ -1,1 +1,1 @@
-{"index": 30612, "D": "a state or condition of utter poverty.", "S": ["begging ", "destitution ", "impecuniousness ", "impoverishment ", "indigence ", "mendicancy ", "mendicity ", "pauperism ", "pennilessness ", "penuriousness ", "penury ", "poorness "], "A": ["wealth "]}
+{"index": 30612, "D": "a state or condition of utter poverty.", "S": ["begging", "destitution", "impecuniousness", "impoverishment", "indigence", "mendicancy", "mendicity", "pauperism", "pennilessness", "penuriousness", "penury", "poorness"], "A": ["wealth"]}

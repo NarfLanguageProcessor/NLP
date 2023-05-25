@@ -1,1 +1,1 @@
-{"index": 69706, "D": "to make more certain; confirm", "S": ["accepted ", "approved ", "closed ", "concluded ", "confirmed ", "endorsed ", "identified "], "A": ["disapproved ", "uncertain "]}
+{"index": 69706, "D": "to make more certain; confirm", "S": ["accepted", "approved", "closed", "concluded", "confirmed", "endorsed", "identified"], "A": ["disapproved", "uncertain"]}

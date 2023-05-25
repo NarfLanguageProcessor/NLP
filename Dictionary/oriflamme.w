@@ -1,1 +1,1 @@
-{"index": 214579, "D": "the red banner of St. Denis, near Paris, carried before the early kings of France as a military ensign.", "S": ["banner ", "banneret ", "color ", "colors ", "emblem ", "ensign ", "jack ", "pennant ", "pennon ", "standard ", "streamer "], "A": []}
+{"index": 214579, "D": "the red banner of St. Denis, near Paris, carried before the early kings of France as a military ensign.", "S": ["banner", "banneret", "color", "colors", "emblem", "ensign", "jack", "pennant", "pennon", "standard", "streamer"], "A": []}

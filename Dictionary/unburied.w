@@ -1,1 +1,0 @@
-{"index": 336326, "D": "placed in the ground and covered with earth", "S": ["disclose ", "resurrect ", "unearth "], "A": ["bury "]}

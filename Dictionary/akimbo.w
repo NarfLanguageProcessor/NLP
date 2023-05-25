@@ -1,1 +1,1 @@
-{"index": 7166, "D": "with hand on hip and elbow bent outward", "S": ["jagged "], "A": ["straight "]}
+{"index": 7166, "D": "with hand on hip and elbow bent outward", "S": ["jagged"], "A": ["straight"]}

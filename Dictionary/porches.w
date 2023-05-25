@@ -1,1 +1,1 @@
-{"index": 243375, "D": "an exterior appendage to a building, forming a covered approach or vestibule to a doorway.", "S": ["balcony ", "deck ", "portico ", "stoop ", "veranda "], "A": []}
+{"index": 243375, "D": [], "S": ["balcony", "deck", "portico", "stoop", "veranda"], "A": []}

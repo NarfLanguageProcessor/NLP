@@ -1,1 +1,1 @@
-{"index": 260009, "D": "a sudden assault or attack, as upon something to be seized or suppressed", "S": ["arrest ", "assault ", "break in ", "capture ", "incursion ", "invasion ", "onslaught ", "sortie ", "surprise attack ", "sweep "], "A": ["letting go ", "release ", "retreat "]}
+{"index": 260009, "D": "a sudden assault or attack, as upon something to be seized or suppressed", "S": ["arrest", "assault", "break in", "capture", "incursion", "invasion", "onslaught", "sortie", "surprise attack", "sweep"], "A": ["letting go", "release", "retreat"]}

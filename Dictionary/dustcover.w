@@ -1,1 +1,1 @@
-{"index": 94531, "D": [], "S": ["book jacket ", "dust jacket ", "dust wrapper ", "jacket ", "wrapper "], "A": []}
+{"index": 94531, "D": [], "S": ["book jacket", "dust jacket", "dust wrapper", "jacket", "wrapper"], "A": []}

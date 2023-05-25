@@ -1,1 +1,1 @@
-{"index": 208783, "D": "French astrologer.", "S": ["astrologer ", "meteorologist ", "seer "], "A": []}
+{"index": 208783, "D": "French astrologer.", "S": ["astrologer", "meteorologist", "seer"], "A": []}

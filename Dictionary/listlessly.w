@@ -1,1 +1,1 @@
-{"index": 173532, "D": "having or showing little or no interest in anything; languid; spiritless; indifferent", "S": ["densely ", "dimly ", "lethargically ", "obtusely ", "slowly ", "sluggishly "], "A": []}
+{"index": 173532, "D": "having or showing little or no interest in anything; languid; spiritless; indifferent", "S": ["densely", "dimly", "lethargically", "obtusely", "slowly", "sluggishly"], "A": []}

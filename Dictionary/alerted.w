@@ -1,1 +1,1 @@
-{"index": 7895, "D": "fully aware and attentive; wide-awake; keen", "S": ["alarm ", "forewarn ", "inform ", "notify ", "tip off "], "A": ["conceal ", "hide "]}
+{"index": 7895, "D": "fully aware and attentive; wide-awake; keen", "S": ["alarm", "forewarn", "inform", "notify", "tip off"], "A": ["conceal", "hide"]}

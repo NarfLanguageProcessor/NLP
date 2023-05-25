@@ -1,1 +1,0 @@
-{"index": 369325, "D": "a combining form extracted from Godzilla,  occurring in compounds that describe a fearsome, extreme, overbearing, or monstrous person or thing", "S": [], "A": []}

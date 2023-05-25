@@ -1,1 +1,1 @@
-{"index": 357509, "D": "to prophesy.", "S": ["adumbrate ", "augur ", "call ", "divine ", "forecast ", "foresee ", "foretell ", "forewarn ", "portend ", "predict ", "presage ", "prognosticate "], "A": []}
+{"index": 357509, "D": "to prophesy.", "S": ["adumbrate", "augur", "call", "divine", "forecast", "foresee", "foretell", "forewarn", "portend", "predict", "presage", "prognosticate"], "A": []}

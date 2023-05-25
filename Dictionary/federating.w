@@ -1,1 +1,1 @@
-{"index": 110821, "D": "to unite in a federation. ", "S": ["align ", "confederate ", "league ", "organize ", "unite "], "A": ["divide ", "separate "]}
+{"index": 110821, "D": "to unite in a federation. ", "S": ["align", "confederate", "league", "organize", "unite"], "A": ["divide", "separate"]}

@@ -1,1 +1,1 @@
-{"index": 112193, "D": "a writer of fiction;  a novelist or short-story writer.", "S": ["author ", "storyteller ", "writer "], "A": []}
+{"index": 112193, "D": "a writer of fiction;  a novelist or short-story writer.", "S": ["author", "storyteller", "writer"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 53046, "D": [], "S": ["frame ", "undercarriage "], "A": []}
+{"index": 53046, "D": "the frame, wheels, and machinery of a motor vehicle, on which the body is supported.", "S": ["frame", "undercarriage"], "A": []}

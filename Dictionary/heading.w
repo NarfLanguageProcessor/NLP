@@ -1,1 +1,1 @@
-{"index": 134625, "D": "something that serves as a head,  top, or front.", "S": ["caption ", "description ", "descriptor ", "headline ", "label ", "legend ", "lemma ", "rubric "], "A": []}
+{"index": 134625, "D": "something that serves as a head,  top, or front.", "S": ["caption", "description", "descriptor", "headline", "label", "legend", "lemma", "rubric"], "A": []}

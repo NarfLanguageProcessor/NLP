@@ -1,1 +1,1 @@
-{"index": 23381, "D": "C to G is a perfect fifth, but C to G sharp is an augmented fifth Compare diminished (def. 2)", "S": ["expanded ", "extended ", "inflated ", "intensified ", "magnified ", "swollen "], "A": ["compressed ", "contracted ", "shrunken "]}
+{"index": 23381, "D": "C to G is a perfect fifth, but C to G sharp is an augmented fifth Compare diminished (def. 2)", "S": ["expanded", "extended", "inflated", "intensified", "magnified", "swollen"], "A": ["compressed", "contracted", "shrunken"]}

@@ -1,1 +1,1 @@
-{"index": 121926, "D": "a member of a gang  of criminals, especially a racketeer in an organized crime syndicate.", "S": ["gangland ", "mob ", "organized crime ", "syndicate "], "A": []}
+{"index": 121926, "D": "a member of a gang  of criminals, especially a racketeer in an organized crime syndicate.", "S": ["gangland", "mob", "organized crime", "syndicate"], "A": []}

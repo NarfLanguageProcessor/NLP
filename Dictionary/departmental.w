@@ -1,1 +1,1 @@
-{"index": 81505, "D": "a distinct part of anything arranged in divisions; a division of a complex whole or organized system.", "S": ["bureaucratic ", "governmental ", "legislative ", "managerial ", "organizational ", "policy-making ", "regulatory ", "supervisory "], "A": []}
+{"index": 81505, "D": "a distinct part of anything arranged in divisions; a division of a complex whole or organized system.", "S": ["bureaucratic", "governmental", "legislative", "managerial", "organizational", "policy-making", "regulatory", "supervisory"], "A": []}

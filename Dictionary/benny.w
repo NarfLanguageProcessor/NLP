@@ -1,1 +1,1 @@
-{"index": 31665, "D": "Benzedrine,  especially in tablet form.", "S": ["stimulant "], "A": []}
+{"index": 31665, "D": "Benzedrine,  especially in tablet form.", "S": ["stimulant"], "A": []}

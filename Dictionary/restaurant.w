@@ -1,1 +1,1 @@
-{"index": 269880, "D": "an establishment where meals are served to customers.", "S": ["bar ", "cafeteria ", "coffee shop ", "diner ", "dining room ", "inn ", "outlet ", "saloon "], "A": []}
+{"index": 269880, "D": "an establishment where meals are served to customers.", "S": ["bar", "cafeteria", "coffee shop", "diner", "dining room", "inn", "outlet", "saloon"], "A": []}

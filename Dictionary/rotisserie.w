@@ -1,1 +1,1 @@
-{"index": 274659, "D": "a small broiler with a motor-driven spit, for barbecuing fowl, beef, etc.", "S": ["broil ", "grill ", "sear "], "A": ["freeze "]}
+{"index": 274659, "D": "a small broiler with a motor-driven spit, for barbecuing fowl, beef, etc.", "S": ["broil", "grill", "sear"], "A": ["freeze"]}

@@ -1,1 +1,1 @@
-{"index": 64390, "D": "association as companion;  fellowship.", "S": ["camaraderie ", "togetherness "], "A": ["discord ", "divorce ", "hostility ", "separation "]}
+{"index": 64390, "D": "association as companion;  fellowship.", "S": ["camaraderie", "togetherness"], "A": ["discord", "divorce", "hostility", "separation"]}

@@ -1,1 +1,1 @@
-{"index": 289059, "D": "the laying down  of one's cards, face upward, in a card game, especially poker.", "S": ["clash ", "crisis "], "A": ["agreement ", "peacemaking "]}
+{"index": 289059, "D": "the laying down  of one's cards, face upward, in a card game, especially poker.", "S": ["clash", "crisis"], "A": ["agreement", "peacemaking"]}

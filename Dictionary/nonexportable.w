@@ -1,1 +1,0 @@
-{"index": 203840, "D": "to ship (commodities) to other countries or places for sale, exchange, etc.", "S": [], "A": []}

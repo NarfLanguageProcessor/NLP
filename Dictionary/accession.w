@@ -1,1 +1,1 @@
-{"index": 1518, "D": "the act of coming into the possession of a right, title, office, etc.", "S": ["enlargement ", "extension "], "A": ["abridgment ", "compression ", "decrease ", "reduction ", "deduction ", "drop ", "loss ", "shrinkage ", "subtraction "]}
+{"index": 1518, "D": "the act of coming into the possession of a right, title, office, etc.", "S": ["enlargement", "extension"], "A": ["abridgment", "compression", "decrease", "reduction", "deduction", "drop", "loss", "shrinkage", "subtraction"]}

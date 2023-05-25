@@ -1,1 +1,1 @@
-{"index": 199308, "D": "the act, process, or an instance of neutralizing. ", "S": ["abolition ", "abrogation ", "breakup ", "cancellation ", "deletion ", "dissolution ", "nullification ", "repeal ", "retraction ", "reversal ", "revocation "], "A": ["approval ", "confirmation ", "establishment "]}
+{"index": 199308, "D": "the act, process, or an instance of neutralizing. ", "S": ["abolition", "abrogation", "breakup", "cancellation", "deletion", "dissolution", "nullification", "repeal", "retraction", "reversal", "revocation"], "A": ["approval", "confirmation", "establishment"]}

@@ -1,1 +1,1 @@
-{"index": 275916, "D": "pity or compassion.", "S": ["grief ", "mercy ", "penitence ", "pity ", "regret ", "remorse ", "repentance ", "sadness ", "sorrow ", "sympathy ", "tenderness "], "A": ["disdain ", "happiness ", "joy ", "mercilessness ", "satisfaction "]}
+{"index": 275916, "D": "pity or compassion.", "S": ["grief", "mercy", "penitence", "pity", "regret", "remorse", "repentance", "sadness", "sorrow", "sympathy", "tenderness"], "A": ["disdain", "happiness", "joy", "mercilessness", "satisfaction"]}

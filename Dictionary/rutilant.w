@@ -1,1 +1,1 @@
-{"index": 275939, "D": "glowing or glittering with ruddy or golden light.", "S": ["embarrassed ", "rosy "], "A": ["depressed ", "sad ", "unhappy "]}
+{"index": 275939, "D": "glowing or glittering with ruddy or golden light.", "S": ["embarrassed", "rosy"], "A": ["depressed", "sad", "unhappy"]}

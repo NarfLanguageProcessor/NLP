@@ -1,1 +1,1 @@
-{"index": 257060, "D": "having, showing, or acting with a purpose,  intention, or design.", "S": ["determination ", "resolution "], "A": ["cowardice ", "flexibility ", "idleness ", "indolence ", "irresolution ", "unimportance ", "weakness "]}
+{"index": 257060, "D": "having, showing, or acting with a purpose,  intention, or design.", "S": ["determination", "resolution"], "A": ["cowardice", "flexibility", "idleness", "indolence", "irresolution", "unimportance", "weakness"]}

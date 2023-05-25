@@ -1,1 +1,1 @@
-{"index": 6217, "D": "excited; disturbed.", "S": ["desperately ", "excitedly ", "madly ", "uncontrollably ", "wildly "], "A": ["calmly "]}
+{"index": 6217, "D": "excited; disturbed.", "S": ["desperately", "excitedly", "madly", "uncontrollably", "wildly"], "A": ["calmly"]}

@@ -1,1 +1,1 @@
-{"index": 362759, "D": "justified or well-founded", "S": ["allowed ", "assured ", "certified ", "guaranteed ", "justified ", "sanctioned ", "secured "], "A": ["uncertain "]}
+{"index": 362759, "D": "justified or well-founded", "S": ["allowed", "assured", "certified", "guaranteed", "justified", "sanctioned", "secured"], "A": ["uncertain"]}

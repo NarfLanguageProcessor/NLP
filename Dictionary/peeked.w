@@ -1,1 +1,1 @@
-{"index": 229028, "D": "to look or glance quickly or furtively, especially through a small opening or from a concealed location; peep; peer.", "S": ["blink ", "glance ", "glimpse ", "have a gander ", "look ", "peer ", "snatch ", "snoop ", "spy ", "squint ", "stare ", "take a look "], "A": []}
+{"index": 229028, "D": "to look or glance quickly or furtively, especially through a small opening or from a concealed location; peep; peer.", "S": ["blink", "glance", "glimpse", "have a gander", "look", "peer", "snatch", "snoop", "spy", "squint", "stare", "take a look"], "A": []}

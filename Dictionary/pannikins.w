@@ -1,1 +1,1 @@
-{"index": 224751, "D": "a small pan or metal cup.", "S": ["bucket ", "frying pan ", "kettle ", "pot ", "saucepan ", "sheet ", "skillet "], "A": []}
+{"index": 224751, "D": "a small pan or metal cup.", "S": ["bucket", "frying pan", "kettle", "pot", "saucepan", "sheet", "skillet"], "A": []}

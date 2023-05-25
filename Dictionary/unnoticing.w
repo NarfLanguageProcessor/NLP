@@ -1,1 +1,1 @@
-{"index": 346953, "D": "an announcement or intimation of something impending; warning", "S": ["apathetic ", "bored ", "careless ", "distracted ", "distraught ", "indifferent ", "oblivious "], "A": ["caring ", "concerned ", "interested ", "mindful "]}
+{"index": 346953, "D": "an announcement or intimation of something impending; warning", "S": ["apathetic", "bored", "careless", "distracted", "distraught", "indifferent", "oblivious"], "A": ["caring", "concerned", "interested", "mindful"]}

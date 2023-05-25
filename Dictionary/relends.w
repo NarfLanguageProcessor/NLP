@@ -1,1 +1,0 @@
-{"index": 266833, "D": "to grant the use of (something) on condition that it or its equivalent will be returned.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 13371, "D": "any thing whatever; something, no matter what", "S": ["all ", "everything "], "A": []}
+{"index": 13371, "D": "any thing whatever; something, no matter what", "S": ["all", "everything"], "A": []}

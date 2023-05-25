@@ -1,1 +1,1 @@
-{"index": 157722, "D": "a written acknowledgment of a debt, especially an informal one consisting only of the letters IOU, the sum owed, and the debtor's signature.", "S": ["bill ", "chit ", "debenture ", "debt "], "A": []}
+{"index": 157722, "D": "a written acknowledgment of a debt, especially an informal one consisting only of the letters IOU, the sum owed, and the debtor's signature.", "S": ["bill", "chit", "debenture", "debt"], "A": []}

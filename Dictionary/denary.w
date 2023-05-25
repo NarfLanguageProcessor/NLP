@@ -1,1 +1,1 @@
-{"index": 80967, "D": "containing ten; tenfold.", "S": ["decimal "], "A": []}
+{"index": 80967, "D": "containing ten; tenfold.", "S": ["decimal"], "A": []}

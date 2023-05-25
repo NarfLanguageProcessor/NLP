@@ -1,1 +1,1 @@
-{"index": 240138, "D": "a slablike member beneath the base of a column or pier.", "S": ["podium "], "A": ["top "]}
+{"index": 240138, "D": "a slablike member beneath the base of a column or pier.", "S": ["podium"], "A": ["top"]}

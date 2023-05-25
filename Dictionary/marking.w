@@ -1,1 +1,1 @@
-{"index": 180181, "D": "a mark,  or a number or pattern of marks", "S": ["calling ", "characterizing ", "denominating ", "distinguishing ", "indicating ", "naming ", "noticing ", "recognizing ", "showing ", "specifying ", "terming "], "A": []}
+{"index": 180181, "D": "a mark,  or a number or pattern of marks", "S": ["calling", "characterizing", "denominating", "distinguishing", "indicating", "naming", "noticing", "recognizing", "showing", "specifying", "terming"], "A": []}

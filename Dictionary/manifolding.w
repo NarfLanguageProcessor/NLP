@@ -1,1 +1,1 @@
-{"index": 179295, "D": "of many kinds; numerous and varied", "S": ["amplification "], "A": ["decrease ", "loss ", "subtraction "]}
+{"index": 179295, "D": "of many kinds; numerous and varied", "S": ["amplification"], "A": ["decrease", "loss", "subtraction"]}

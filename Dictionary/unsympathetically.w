@@ -1,1 +1,1 @@
-{"index": 351172, "D": "characterized by, proceeding from, exhibiting, or feeling sympathy; sympathizing; compassionate", "S": ["negatively ", "skeptically "], "A": []}
+{"index": 351172, "D": "characterized by, proceeding from, exhibiting, or feeling sympathy; sympathizing; compassionate", "S": ["negatively", "skeptically"], "A": []}

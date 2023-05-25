@@ -1,1 +1,1 @@
-{"index": 100088, "D": "to invest or endow with some gift, quality, or faculty.", "S": ["award ", "dower ", "endow ", "furnish ", "grant ", "indue ", "invest ", "provide "], "A": ["take "]}
+{"index": 100088, "D": "to invest or endow with some gift, quality, or faculty.", "S": ["award", "dower", "endow", "furnish", "grant", "indue", "invest", "provide"], "A": ["take"]}

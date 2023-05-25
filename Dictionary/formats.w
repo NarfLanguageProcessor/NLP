@@ -1,1 +1,1 @@
-{"index": 117398, "D": "Compare duodecimo, folio (def. 2), octavo, quarto. ", "S": ["arrangement ", "composition ", "configuration ", "form ", "pattern ", "scheme ", "setup ", "shape ", "size "], "A": ["disorganization "]}
+{"index": 117398, "D": "Compare duodecimo, folio (def. 2), octavo, quarto. ", "S": ["arrangement", "composition", "configuration", "form", "pattern", "scheme", "setup", "shape", "size"], "A": ["disorganization"]}

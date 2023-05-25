@@ -1,1 +1,1 @@
-{"index": 213809, "D": "the branch of physical science that deals with the properties and phenomena of both visible and invisible light and with vision.", "S": ["perception "], "A": []}
+{"index": 213809, "D": "the branch of physical science that deals with the properties and phenomena of both visible and invisible light and with vision.", "S": ["perception"], "A": []}

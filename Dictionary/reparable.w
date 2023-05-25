@@ -1,1 +1,1 @@
-{"index": 268012, "D": "capable of being repaired  or remedied.", "S": ["rectifiable "], "A": []}
+{"index": 268012, "D": "capable of being repaired  or remedied.", "S": ["rectifiable"], "A": []}

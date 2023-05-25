@@ -1,1 +1,1 @@
-{"index": 218313, "D": "to bear  over or down by weight or force", "S": ["badger ", "bully ", "coerce ", "harass ", "hector ", "intimidate ", "lean on ", "oppress "], "A": ["aid ", "assist ", "help ", "leave alone "]}
+{"index": 218313, "D": "to bear  over or down by weight or force", "S": ["badger", "bully", "coerce", "harass", "hector", "intimidate", "lean on", "oppress"], "A": ["aid", "assist", "help", "leave alone"]}

@@ -1,1 +1,1 @@
-{"index": 308527, "D": "capable of being submersed. ", "S": ["U-boat "], "A": []}
+{"index": 308527, "D": "capable of being submersed. ", "S": ["U-boat"], "A": []}

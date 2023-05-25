@@ -1,1 +1,1 @@
-{"index": 109031, "D": "something that actually exists; reality; truth", "S": ["case ", "evidence ", "experience ", "law ", "matter "], "A": ["theory "]}
+{"index": 109031, "D": "something that actually exists; reality; truth", "S": ["case", "evidence", "experience", "law", "matter"], "A": ["theory"]}

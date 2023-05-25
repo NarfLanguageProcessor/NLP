@@ -1,1 +1,1 @@
-{"index": 194577, "D": "to search for and expose real or alleged corruption, scandal, or the like, especially in politics.", "S": ["barnstorm ", "lobby ", "politick ", "stump "], "A": []}
+{"index": 194577, "D": "to search for and expose real or alleged corruption, scandal, or the like, especially in politics.", "S": ["barnstorm", "lobby", "politick", "stump"], "A": []}

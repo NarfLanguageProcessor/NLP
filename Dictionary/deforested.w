@@ -1,1 +1,1 @@
-{"index": 79454, "D": "to divest or clear of forests  or trees", "S": ["austere ", "chilly ", "cold ", "desolate ", "dreary ", "grim "], "A": ["bright ", "cheerful ", "friendly ", "happy ", "hot ", "sympathetic ", "warm "]}
+{"index": 79454, "D": "to divest or clear of forests  or trees", "S": ["austere", "chilly", "cold", "desolate", "dreary", "grim"], "A": ["bright", "cheerful", "friendly", "happy", "hot", "sympathetic", "warm"]}

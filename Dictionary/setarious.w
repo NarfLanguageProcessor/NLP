@@ -1,1 +1,1 @@
-{"index": 286622, "D": [], "S": ["aristate ", "barbellate ", "chaetophorous ", "echinate ", "hispid ", "setaceous ", "setal ", "setiferous ", "setose ", "spiny "], "A": ["clean-shaven ", "smooth "]}
+{"index": 286622, "D": [], "S": ["aristate", "barbellate", "chaetophorous", "echinate", "hispid", "setaceous", "setal", "setiferous", "setose", "spiny"], "A": ["clean-shaven", "smooth"]}

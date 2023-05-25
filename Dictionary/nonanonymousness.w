@@ -1,1 +1,0 @@
-{"index": 201339, "D": "without any name acknowledged, as that of author, contributor, or the like", "S": [], "A": []}

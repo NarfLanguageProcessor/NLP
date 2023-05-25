@@ -1,0 +1,1 @@
+{"index": 3808, "D": [], "S": ["civil rights", "coordination", "equal opportunity", "fairness", "identity", "impartiality", "parity", "tolerance"], "A": ["difference", "disagreement", "dissimilarity", "unlikeness"]}

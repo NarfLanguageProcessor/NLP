@@ -1,1 +1,1 @@
-{"index": 293617, "D": "the switching of a customer's telephone or other public utility to another service provider without the customer's authorization.", "S": ["beating ", "punishing ", "slapping ", "smacking ", "thumping ", "whacking ", "whipping "], "A": []}
+{"index": 293617, "D": "the switching of a customer's telephone or other public utility to another service provider without the customer's authorization.", "S": ["beating", "punishing", "slapping", "smacking", "thumping", "whacking", "whipping"], "A": []}

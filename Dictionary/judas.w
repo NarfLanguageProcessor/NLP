@@ -1,1 +1,1 @@
-{"index": 162041, "D": "the disciple who betrayed Jesus. Mark 3", "S": ["betrayer ", "conspirator ", "deceiver ", "rat ", "turncoat ", "two-timer ", "weasel "], "A": []}
+{"index": 162041, "D": "the disciple who betrayed Jesus. Mark 3", "S": ["betrayer", "conspirator", "deceiver", "rat", "turncoat", "two-timer", "weasel"], "A": []}

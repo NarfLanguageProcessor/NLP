@@ -1,1 +1,1 @@
-{"index": 50066, "D": "a person or thing that acts, happens, or exists in such a way that some specific thing happens as a result; the producer of an effect", "S": ["at the bottom of ", "concerning the circumstances ", "initiating ", "instigating ", "responsible for "], "A": []}
+{"index": 50066, "D": "a person or thing that acts, happens, or exists in such a way that some specific thing happens as a result; the producer of an effect", "S": ["at the bottom of", "concerning the circumstances", "initiating", "instigating", "responsible for"], "A": []}

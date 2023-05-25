@@ -1,1 +1,1 @@
-{"index": 233016, "D": "a title of an ancient Egyptian king.", "S": ["emperor ", "king ", "monarch ", "ruler "], "A": ["slave ", "subject ", "underling "]}
+{"index": 233016, "D": "a title of an ancient Egyptian king.", "S": ["emperor", "king", "monarch", "ruler"], "A": ["slave", "subject", "underling"]}

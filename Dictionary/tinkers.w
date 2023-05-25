@@ -1,1 +1,1 @@
-{"index": 324028, "D": "a mender of pots, kettles, pans, etc., usually an itinerant.", "S": ["dabble ", "mess "], "A": ["break ", "destroy ", "work "]}
+{"index": 324028, "D": "a mender of pots, kettles, pans, etc., usually an itinerant.", "S": ["dabble", "mess"], "A": ["break", "destroy", "work"]}

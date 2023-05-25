@@ -1,1 +1,1 @@
-{"index": 341504, "D": "not of prime importance; not indispensable.", "S": ["inessential "], "A": []}
+{"index": 341504, "D": "not of prime importance; not indispensable.", "S": ["inessential"], "A": []}

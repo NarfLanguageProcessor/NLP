@@ -1,1 +1,1 @@
-{"index": 354586, "D": "coming  up; about to take place, appear, or be presented", "S": ["approaching ", "forthcoming ", "imminent ", "impending ", "looming "], "A": ["distant ", "later ", "remote "]}
+{"index": 354586, "D": "coming  up; about to take place, appear, or be presented", "S": ["approaching", "forthcoming", "imminent", "impending", "looming"], "A": ["distant", "later", "remote"]}

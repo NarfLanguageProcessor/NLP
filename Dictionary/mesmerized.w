@@ -1,1 +1,1 @@
-{"index": 184151, "D": "in a hypnotic or trancelike state; hypnotized", "S": ["captivated ", "enamored ", "enchanted ", "enraptured ", "entranced ", "fascinated ", "hooked ", "possessed ", "spellbound ", "transformed "], "A": ["disenchanted ", "disinterested "]}
+{"index": 184151, "D": "in a hypnotic or trancelike state; hypnotized", "S": ["captivated", "enamored", "enchanted", "enraptured", "entranced", "fascinated", "hooked", "possessed", "spellbound", "transformed"], "A": ["disenchanted", "disinterested"]}

@@ -1,1 +1,1 @@
-{"index": 269648, "D": "to have recourse for use, help, or accomplishing something, often as a final available option or resource", "S": ["camp ", "harbor ", "hideaway ", "hotel ", "inn ", "lodge ", "motel ", "park ", "retreat ", "spot "], "A": []}
+{"index": 269648, "D": "to have recourse for use, help, or accomplishing something, often as a final available option or resource", "S": ["camp", "harbor", "hideaway", "hotel", "inn", "lodge", "motel", "park", "retreat", "spot"], "A": []}

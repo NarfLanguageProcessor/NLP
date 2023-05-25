@@ -1,1 +1,1 @@
-{"index": 357167, "D": "apt or liable to vary  or change; changeable", "S": ["fickle ", "fluctuating ", "volatile "], "A": ["stable "]}
+{"index": 357167, "D": "apt or liable to vary  or change; changeable", "S": ["fickle", "fluctuating", "volatile"], "A": ["stable"]}

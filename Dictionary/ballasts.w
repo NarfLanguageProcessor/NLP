@@ -1,1 +1,1 @@
-{"index": 26933, "D": "any heavy material carried temporarily or permanently in a vessel to provide desired draft and stability.", "S": ["equilibrium "], "A": ["instability "]}
+{"index": 26933, "D": "any heavy material carried temporarily or permanently in a vessel to provide desired draft and stability.", "S": ["equilibrium"], "A": ["instability"]}

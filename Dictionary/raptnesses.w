@@ -1,1 +1,1 @@
-{"index": 260787, "D": "deeply engrossed or absorbed", "S": ["concentration "], "A": ["surrender "]}
+{"index": 260787, "D": "deeply engrossed or absorbed", "S": ["concentration"], "A": ["surrender"]}

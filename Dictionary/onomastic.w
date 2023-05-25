@@ -1,1 +1,1 @@
-{"index": 212870, "D": "of or relating to proper names.", "S": ["jargon ", "language ", "lingo ", "phrasing ", "vocabulary "], "A": ["standard "]}
+{"index": 212870, "D": "of or relating to proper names.", "S": ["jargon", "language", "lingo", "phrasing", "vocabulary"], "A": ["standard"]}

@@ -1,1 +1,1 @@
-{"index": 99696, "D": "lengthwise. ", "S": ["along ", "alongside ", "fore and aft ", "from end to end ", "from head to foot ", "from stern to stern ", "from top to bottom ", "the long way "], "A": ["horizontally "]}
+{"index": 99696, "D": "lengthwise. ", "S": ["along", "alongside", "fore and aft", "from end to end", "from head to foot", "from stern to stern", "from top to bottom", "the long way"], "A": ["horizontally"]}

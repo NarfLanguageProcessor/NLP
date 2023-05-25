@@ -1,1 +1,1 @@
-{"index": 344858, "D": "to examine, study, or inquire into systematically; search or examine into the particulars of; examine in detail.", "S": ["uncharted "], "A": ["explored "]}
+{"index": 344858, "D": "to examine, study, or inquire into systematically; search or examine into the particulars of; examine in detail.", "S": ["uncharted"], "A": ["explored"]}

@@ -1,1 +1,1 @@
-{"index": 300358, "D": "a board, guard, or screen to protect from splashing, as a dashboard of an open carriage or a guard placed over a wheel to intercept water, dirt, etc.", "S": ["bumper "], "A": []}
+{"index": 300358, "D": "a board, guard, or screen to protect from splashing, as a dashboard of an open carriage or a guard placed over a wheel to intercept water, dirt, etc.", "S": ["bumper"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3801, "D": "very skilled; proficient; expert", "S": ["artist", "authority", "connoisseur", "doctor", "genius", "guru", "professional", "scientist"], "A": ["amateur", "ignoramus", "loser", "rookie"]}

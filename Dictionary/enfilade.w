@@ -1,1 +1,1 @@
-{"index": 100214, "D": "the fire thus directed.", "S": ["blast ", "bombardment ", "fusillade ", "gunfire ", "hail ", "salvo ", "shelling ", "shower ", "storm ", "volley "], "A": []}
+{"index": 100214, "D": "the fire thus directed.", "S": ["blast", "bombardment", "fusillade", "gunfire", "hail", "salvo", "shelling", "shower", "storm", "volley"], "A": []}

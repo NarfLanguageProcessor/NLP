@@ -1,1 +1,1 @@
-{"index": 286938, "D": "consisting of six parts; sexpartite.", "S": ["hexadic ", "hexagonal ", "semestral ", "senary "], "A": []}
+{"index": 286938, "D": "consisting of six parts; sexpartite.", "S": ["hexadic", "hexagonal", "semestral", "senary"], "A": []}

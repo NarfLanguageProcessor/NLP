@@ -1,1 +1,1 @@
-{"index": 114910, "D": "an artificial light  so directed or diffused as to give a comparatively uniform illumination over a rather large given area.", "S": ["flood ", "photoflood "], "A": []}
+{"index": 114910, "D": "an artificial light  so directed or diffused as to give a comparatively uniform illumination over a rather large given area.", "S": ["flood", "photoflood"], "A": []}

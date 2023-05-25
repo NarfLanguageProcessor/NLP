@@ -1,1 +1,1 @@
-{"index": 159632, "D": "(used as an expression of disgust or repugnance)", "S": ["gunk ", "muck ", "sludge "], "A": []}
+{"index": 159632, "D": "(used as an expression of disgust or repugnance)", "S": ["gunk", "muck", "sludge"], "A": []}

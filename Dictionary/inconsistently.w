@@ -1,1 +1,1 @@
-{"index": 150270, "D": "lacking in harmony between the different parts or elements; self-contradictory", "S": ["differently ", "eccentrically ", "illogically "], "A": []}
+{"index": 150270, "D": "lacking in harmony between the different parts or elements; self-contradictory", "S": ["differently", "eccentrically", "illogically"], "A": []}

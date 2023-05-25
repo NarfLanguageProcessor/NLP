@@ -1,1 +1,1 @@
-{"index": 109089, "D": "a person, as a handyman or servant, employed to do all kinds of work around the house.", "S": ["Mr/Ms Fixit ", "general employee ", "jack of all trades ", "man/girl Friday ", "odd-job person ", "personal assistant "], "A": []}
+{"index": 109089, "D": "a person, as a handyman or servant, employed to do all kinds of work around the house.", "S": ["Mr/Ms Fixit", "general employee", "jack of all trades", "man/girl Friday", "odd-job person", "personal assistant"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 125550, "D": "gyrocompass. ", "S": ["gyroscope "], "A": []}
+{"index": 125550, "D": "gyrocompass. ", "S": ["gyroscope"], "A": []}

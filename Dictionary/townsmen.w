@@ -1,1 +1,0 @@
-{"index": 326837, "D": "a native or inhabitant of a town.", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "taxpayer ", "townswoman "], "A": ["alien ", "foreigner "]}

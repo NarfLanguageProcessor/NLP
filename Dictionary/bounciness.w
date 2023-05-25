@@ -1,1 +1,1 @@
-{"index": 38961, "D": [], "S": ["bounce ", "bound ", "buck ", "buoyancy ", "elasticity ", "flexibility ", "give ", "hop ", "leap ", "recoil ", "resilience ", "saltation ", "springiness ", "vault "], "A": []}
+{"index": 38961, "D": [], "S": ["bounce", "bound", "buck", "buoyancy", "elasticity", "flexibility", "give", "hop", "leap", "recoil", "resilience", "saltation", "springiness", "vault"], "A": []}

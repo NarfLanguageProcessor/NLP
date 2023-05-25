@@ -1,1 +1,1 @@
-{"index": 180704, "D": "backing (def. 4). ", "S": ["covering ", "screening ", "suppressing ", "veiling "], "A": ["obvious "]}
+{"index": 180704, "D": "backing (def. 4). ", "S": ["covering", "screening", "suppressing", "veiling"], "A": ["obvious"]}

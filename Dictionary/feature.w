@@ -1,1 +1,1 @@
-{"index": 110707, "D": "a prominent or conspicuous part or characteristic", "S": ["aspect ", "character ", "component ", "detail ", "element ", "factor ", "ingredient ", "item ", "quality ", "trait "], "A": ["whole "]}
+{"index": 110707, "D": "a prominent or conspicuous part or characteristic", "S": ["aspect", "character", "component", "detail", "element", "factor", "ingredient", "item", "quality", "trait"], "A": ["whole"]}

@@ -1,1 +1,1 @@
-{"index": 158157, "D": "the quality or condition of being irrational. ", "S": ["foolishness "], "A": []}
+{"index": 158157, "D": "the quality or condition of being irrational. ", "S": ["foolishness"], "A": []}

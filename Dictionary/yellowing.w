@@ -1,1 +1,1 @@
-{"index": 146815, "D": "a color like that of egg yolk, ripe lemons, etc.; the primary color between green and orange in the visible spectrum, an effect of light with a wavelength between 570 and 590 nanometers.", "S": ["chicken ", "craven ", "sneaking "], "A": ["brave ", "bold "]}
+{"index": 146815, "D": "a color like that of egg yolk, ripe lemons, etc.; the primary color between green and orange in the visible spectrum, an effect of light with a wavelength between 570 and 590 nanometers.", "S": ["chicken", "craven", "sneaking"], "A": ["brave", "bold"]}

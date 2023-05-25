@@ -1,1 +1,1 @@
-{"index": 210256, "D": "elongated, usually from the square or circular form.", "S": ["oval ", "ovoid "], "A": []}
+{"index": 210256, "D": "elongated, usually from the square or circular form.", "S": ["oval", "ovoid"], "A": []}

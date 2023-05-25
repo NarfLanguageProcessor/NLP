@@ -1,1 +1,1 @@
-{"index": 61174, "D": "a silver-white metallic element with a faint pinkish tinge, occurring in compounds whose silicates afford important blue coloring substances for ceramics. Symbol", "S": ["blue-green "], "A": []}
+{"index": 61174, "D": "a silver-white metallic element with a faint pinkish tinge, occurring in compounds whose silicates afford important blue coloring substances for ceramics. Symbol", "S": ["blue-green"], "A": []}

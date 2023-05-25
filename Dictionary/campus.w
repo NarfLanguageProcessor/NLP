@@ -1,1 +1,1 @@
-{"index": 45945, "D": "the grounds, often including the buildings, of a college, university, or school.", "S": ["dorm ", "square "], "A": []}
+{"index": 45945, "D": "the grounds, often including the buildings, of a college, university, or school.", "S": ["dorm", "square"], "A": []}

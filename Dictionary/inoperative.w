@@ -1,1 +1,1 @@
-{"index": 153198, "D": "not operative;  not in operation.", "S": ["defective ", "no-go ", "unworkable "], "A": []}
+{"index": 153198, "D": "not operative;  not in operation.", "S": ["defective", "no-go", "unworkable"], "A": []}

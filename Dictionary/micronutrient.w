@@ -1,1 +1,1 @@
-{"index": 186321, "D": "an essential nutrient,  as a trace mineral or vitamin, that is required by an organism in minute amounts.", "S": ["microelement ", "minute amount ", "trace mineral "], "A": []}
+{"index": 186321, "D": "an essential nutrient,  as a trace mineral or vitamin, that is required by an organism in minute amounts.", "S": ["microelement", "minute amount", "trace mineral"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 332703, "D": "swollen; distended; tumid.", "S": ["bloated ", "distended ", "inflated ", "puffy ", "tumescent ", "tumid "], "A": ["humble ", "modest ", "plain ", "quiet ", "reserved ", "self-effacing ", "simple "]}
+{"index": 332703, "D": "swollen; distended; tumid.", "S": ["bloated", "distended", "inflated", "puffy", "tumescent", "tumid"], "A": ["humble", "modest", "plain", "quiet", "reserved", "self-effacing", "simple"]}

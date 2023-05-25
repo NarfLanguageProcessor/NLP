@@ -1,1 +1,1 @@
-{"index": 369322, "D": "zero; nothing", "S": ["blank ", "diddly-squat ", "nada ", "naught ", "nothingness ", "nought ", "void ", "zero ", "zip ", "zippo "], "A": []}
+{"index": 369322, "D": "zero; nothing", "S": ["blank", "diddly-squat", "nada", "naught", "nothingness", "nought", "void", "zero", "zip", "zippo"], "A": []}

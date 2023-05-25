@@ -1,1 +1,1 @@
-{"index": 197654, "D": "a pitifully ineffectual, luckless, and timid person.", "S": ["cipher ", "nobody ", "nothing ", "upstart "], "A": []}
+{"index": 197654, "D": "a pitifully ineffectual, luckless, and timid person.", "S": ["cipher", "nobody", "nothing", "upstart"], "A": []}

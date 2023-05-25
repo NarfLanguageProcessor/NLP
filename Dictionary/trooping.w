@@ -1,1 +1,1 @@
-{"index": 331116, "D": "an assemblage of persons or things; company; band.", "S": ["dance ", "go down ", "skip ", "stride ", "tiptoe ", "tread ", "walk "], "A": []}
+{"index": 331116, "D": "an assemblage of persons or things; company; band.", "S": ["dance", "go down", "skip", "stride", "tiptoe", "tread", "walk"], "A": []}

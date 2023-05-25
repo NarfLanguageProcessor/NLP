@@ -1,1 +1,1 @@
-{"index": 160608, "D": "a short journey, especially one taken for pleasure.", "S": ["roving ", "winding "], "A": []}
+{"index": 160608, "D": "a short journey, especially one taken for pleasure.", "S": ["roving", "winding"], "A": []}

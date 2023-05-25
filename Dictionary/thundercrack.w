@@ -1,1 +1,1 @@
-{"index": 323013, "D": [], "S": ["detonation ", "explosion ", "roar ", "rumble "], "A": ["peace "]}
+{"index": 323013, "D": [], "S": ["detonation", "explosion", "roar", "rumble"], "A": ["peace"]}

@@ -1,1 +1,1 @@
-{"index": 149115, "D": "a mark made by pressure; a mark or figure impressed or printed on something.", "S": ["engraved ", "stamped "], "A": []}
+{"index": 149115, "D": "a mark made by pressure; a mark or figure impressed or printed on something.", "S": ["engraved", "stamped"], "A": []}

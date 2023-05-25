@@ -1,1 +1,1 @@
-{"index": 154201, "D": "not tangible; incapable of being perceived by the sense of touch, as incorporeal or immaterial things; impalpable.", "S": ["money "], "A": ["debt ", "poverty "]}
+{"index": 154201, "D": "not tangible; incapable of being perceived by the sense of touch, as incorporeal or immaterial things; impalpable.", "S": ["money"], "A": ["debt", "poverty"]}

@@ -1,1 +1,0 @@
-{"index": 201329, "D": "animated  quality; liveliness; vivacity; spirit", "S": [], "A": []}

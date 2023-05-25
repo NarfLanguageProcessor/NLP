@@ -1,0 +1,1 @@
+{"index": 24008, "D": "a telephone device that makes possible a service feature (autodial ) whereby a call is automatically made in response to a brief input signal from the user, as the pressing of a button", "S": [], "A": []}

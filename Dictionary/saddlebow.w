@@ -1,1 +1,1 @@
-{"index": 276464, "D": "the arched front part of a saddle or saddletree.", "S": ["belabor ", "club ", "cudgel ", "finial ", "handle ", "knob ", "maul ", "pound ", "pummel ", "strike ", "thwack "], "A": []}
+{"index": 276464, "D": "the arched front part of a saddle or saddletree.", "S": ["belabor", "club", "cudgel", "finial", "handle", "knob", "maul", "pound", "pummel", "strike", "thwack"], "A": []}

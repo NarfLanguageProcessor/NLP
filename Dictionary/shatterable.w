@@ -1,1 +1,1 @@
-{"index": 287600, "D": [], "S": ["brittle ", "crisp ", "flimsy ", "frail "], "A": ["firm ", "flexible ", "strong "]}
+{"index": 287600, "D": [], "S": ["brittle", "crisp", "flimsy", "frail"], "A": ["firm", "flexible", "strong"]}

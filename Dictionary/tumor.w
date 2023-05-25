@@ -1,1 +1,1 @@
-{"index": 332321, "D": "a swollen part; swelling; protuberance. ", "S": ["Cancer ", "carcinoma ", "cyst ", "lump ", "swelling "], "A": []}
+{"index": 332321, "D": "a swollen part; swelling; protuberance. ", "S": ["Cancer", "carcinoma", "cyst", "lump", "swelling"], "A": []}

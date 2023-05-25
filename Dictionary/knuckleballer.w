@@ -1,1 +1,1 @@
-{"index": 165747, "D": "a pitcher who specializes in throwing knuckleballs. ", "S": ["ace ", "baseball player ", "reliever "], "A": []}
+{"index": 165747, "D": "a pitcher who specializes in throwing knuckleballs. ", "S": ["ace", "baseball player", "reliever"], "A": []}

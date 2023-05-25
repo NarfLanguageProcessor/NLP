@@ -1,1 +1,1 @@
-{"index": 65991, "D": "being in conflict  or disagreement; not compatible", "S": ["adverse ", "antagonistic ", "clashing ", "contrary ", "incompatible ", "inconsistent ", "opposing ", "paradoxical "], "A": ["consonant ", "harmonious "]}
+{"index": 65991, "D": "being in conflict  or disagreement; not compatible", "S": ["adverse", "antagonistic", "clashing", "contrary", "incompatible", "inconsistent", "opposing", "paradoxical"], "A": ["consonant", "harmonious"]}

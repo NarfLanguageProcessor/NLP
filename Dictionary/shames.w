@@ -1,1 +1,0 @@
-{"index": 287337, "D": "a variant of shammes. ", "S": ["confusion ", "contempt ", "guilt ", "humiliation ", "irritation ", "remorse ", "scandal ", "stigma "], "A": ["approval ", "esteem ", "honor ", "meanness ", "praise ", "respect "]}

@@ -1,1 +1,1 @@
-{"index": 9878, "D": "disposed to love; amorous.", "S": ["amorousness ", "concupiscence ", "eroticism ", "erotism ", "lust ", "lustfulness ", "prurience ", "pruriency ", "sexiness "], "A": []}
+{"index": 9878, "D": "disposed to love; amorous.", "S": ["amorousness", "concupiscence", "eroticism", "erotism", "lust", "lustfulness", "prurience", "pruriency", "sexiness"], "A": []}

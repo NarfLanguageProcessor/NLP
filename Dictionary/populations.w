@@ -1,1 +1,0 @@
-{"index": 243327, "D": "the total number of people inhabiting a country, city, or any district or area.", "S": ["community ", "culture ", "people ", "populace ", "public ", "society ", "state "], "A": []}

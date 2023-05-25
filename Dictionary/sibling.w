@@ -1,1 +1,1 @@
-{"index": 289539, "D": "a brother or sister.", "S": ["brother ", "relative ", "sister "], "A": []}
+{"index": 289539, "D": "a brother or sister.", "S": ["brother", "relative", "sister"], "A": []}

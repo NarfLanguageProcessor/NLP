@@ -1,1 +1,0 @@
-{"index": 164329, "D": "Russian political leader", "S": [], "A": []}

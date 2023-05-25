@@ -1,1 +1,1 @@
-{"index": 94, "D": "to leave completely and finally; forsake utterly; desert", "S": ["abandonment ", "abolition ", "annulment ", "dissolution ", "elimination ", "repeal ", "retirement ", "reversal ", "revocation "], "A": ["enactment ", "validation ", "confirmation "]}
+{"index": 94, "D": "to leave completely and finally; forsake utterly; desert", "S": ["abandonment", "abolition", "annulment", "dissolution", "elimination", "repeal", "retirement", "reversal", "revocation"], "A": ["enactment", "validation", "confirmation"]}

@@ -1,1 +1,0 @@
-{"index": 333836, "D": "last; furthest or farthest; ending a process or series", "S": ["eventual "], "A": ["auxiliary ", "beginning ", "first ", "introductory ", "opening "]}

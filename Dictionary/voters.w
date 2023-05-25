@@ -1,1 +1,1 @@
-{"index": 361411, "D": "a person who votes. ", "S": ["county ", "district ", "electorate ", "faction ", "nation ", "precinct "], "A": []}
+{"index": 361411, "D": "a person who votes. ", "S": ["county", "district", "electorate", "faction", "nation", "precinct"], "A": []}

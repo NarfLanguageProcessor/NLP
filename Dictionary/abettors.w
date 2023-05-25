@@ -1,1 +1,1 @@
-{"index": 379, "D": "a person who abets. ", "S": ["accessory ", "accomplice ", "confederate ", "cooperator ", "helper ", "second ", "supporter "], "A": ["adversary ", "opponent "]}
+{"index": 379, "D": "a person who abets. ", "S": ["accessory", "accomplice", "confederate", "cooperator", "helper", "second", "supporter"], "A": ["adversary", "opponent"]}

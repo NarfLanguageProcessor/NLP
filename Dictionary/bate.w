@@ -1,1 +1,1 @@
-{"index": 28891, "D": "to moderate or restrain", "S": ["abate ", "check ", "curb ", "ease ", "ebb ", "lapse ", "lessen ", "moderate ", "restrain ", "slacken ", "wane "], "A": ["aid ", "assist ", "enlarge ", "extend ", "free ", "help ", "increase ", "liberate ", "raise ", "rise "]}
+{"index": 28891, "D": "to moderate or restrain", "S": ["abate", "check", "curb", "ease", "ebb", "lapse", "lessen", "moderate", "restrain", "slacken", "wane"], "A": ["aid", "assist", "enlarge", "extend", "free", "help", "increase", "liberate", "raise", "rise"]}

@@ -1,1 +1,1 @@
-{"index": 344382, "D": "not developed to full potential, as resources or the mind.", "S": ["unaltered ", "unchanged ", "undeveloped ", "unrestored "], "A": ["improved "]}
+{"index": 344382, "D": "not developed to full potential, as resources or the mind.", "S": ["unaltered", "unchanged", "undeveloped", "unrestored"], "A": ["improved"]}

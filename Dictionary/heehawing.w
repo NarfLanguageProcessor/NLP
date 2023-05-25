@@ -1,1 +1,1 @@
-{"index": 135270, "D": "the braying sound made by a donkey.", "S": ["laughter "], "A": []}
+{"index": 135270, "D": "the braying sound made by a donkey.", "S": ["laughter"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 304048, "D": "of, relating to, or noting British money", "S": ["admirable ", "excellent ", "first-rate ", "magnificent ", "marvelous ", "outstanding ", "splendid ", "stunning "], "A": ["bad ", "inferior ", "insignificant ", "ordinary ", "poor ", "regular ", "ugly ", "unworthy "]}
+{"index": 304048, "D": "of, relating to, or noting British money", "S": ["admirable", "excellent", "first-rate", "magnificent", "marvelous", "outstanding", "splendid", "stunning"], "A": ["bad", "inferior", "insignificant", "ordinary", "poor", "regular", "ugly", "unworthy"]}

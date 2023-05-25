@@ -1,1 +1,1 @@
-{"index": 114630, "D": "to draw back or shrink, as from what is dangerous, difficult, or unpleasant.", "S": ["balk ", "blanch ", "blink ", "cower ", "cringe ", "recoil "], "A": ["advance ", "face ", "forge ", "meet ", "remain ", "stay ", "stretch ", "take on "]}
+{"index": 114630, "D": "to draw back or shrink, as from what is dangerous, difficult, or unpleasant.", "S": ["balk", "blanch", "blink", "cower", "cringe", "recoil"], "A": ["advance", "face", "forge", "meet", "remain", "stay", "stretch", "take on"]}

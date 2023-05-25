@@ -1,1 +1,1 @@
-{"index": 196905, "D": "liquor, especially ale.", "S": ["downy ", "frizzy ", "furry ", "hairy ", "kinky ", "napped ", "velutinous ", "woolly "], "A": []}
+{"index": 196905, "D": "liquor, especially ale.", "S": ["downy", "frizzy", "furry", "hairy", "kinky", "napped", "velutinous", "woolly"], "A": []}

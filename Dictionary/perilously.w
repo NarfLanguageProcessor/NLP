@@ -1,1 +1,1 @@
-{"index": 231033, "D": "in a way or to a degree that is full of grave risk or peril;  dangerously", "S": ["alarmingly ", "critically ", "desperately ", "precariously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}
+{"index": 231033, "D": "in a way or to a degree that is full of grave risk or peril;  dangerously", "S": ["alarmingly", "critically", "desperately", "precariously", "recklessly", "seriously", "severely"], "A": ["lightly"]}

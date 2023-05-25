@@ -1,1 +1,1 @@
-{"index": 87988, "D": "disenthrall. ", "S": ["disillusioned ", "embittered "], "A": ["enchanted ", "encouraged "]}
+{"index": 87988, "D": "disenthrall. ", "S": ["disillusioned", "embittered"], "A": ["enchanted", "encouraged"]}

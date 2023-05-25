@@ -1,1 +1,1 @@
-{"index": 171573, "D": "to oscillate or move from side to side or between two points.", "S": ["fluctuate ", "lurch ", "seesaw ", "teeter ", "vacillate ", "waver ", "wobble "], "A": ["remain ", "stay ", "stabilize ", "steady "]}
+{"index": 171573, "D": "to oscillate or move from side to side or between two points.", "S": ["fluctuate", "lurch", "seesaw", "teeter", "vacillate", "waver", "wobble"], "A": ["remain", "stay", "stabilize", "steady"]}

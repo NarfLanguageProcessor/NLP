@@ -1,0 +1,1 @@
+{"index": 6049, "D": "the act of bringing something up to date to meet current needs.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 118676, "D": "operating in the manner of a freewheel. ", "S": ["autonomous ", "nonpartisan ", "self-reliant ", "self-sufficient ", "separate ", "sovereign "], "A": ["dependent ", "subordinate ", "subservient "]}
+{"index": 118676, "D": "operating in the manner of a freewheel. ", "S": ["autonomous", "nonpartisan", "self-reliant", "self-sufficient", "separate", "sovereign"], "A": ["dependent", "subordinate", "subservient"]}

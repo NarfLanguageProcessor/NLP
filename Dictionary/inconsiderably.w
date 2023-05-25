@@ -1,1 +1,1 @@
-{"index": 150257, "D": "small, as in value, amount, or size.", "S": ["kind of ", "lightly ", "marginally ", "somewhat "], "A": ["a lot ", "considerably ", "greatly "]}
+{"index": 150257, "D": "small, as in value, amount, or size.", "S": ["kind of", "lightly", "marginally", "somewhat"], "A": ["a lot", "considerably", "greatly"]}

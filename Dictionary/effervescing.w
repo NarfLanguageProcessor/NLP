@@ -1,1 +1,1 @@
-{"index": 96007, "D": "to give off bubbles of gas, as fermenting liquors.", "S": ["bubble ", "foam ", "froth "], "A": []}
+{"index": 96007, "D": "to give off bubbles of gas, as fermenting liquors.", "S": ["bubble", "foam", "froth"], "A": []}

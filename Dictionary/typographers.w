@@ -1,1 +1,1 @@
-{"index": 324320, "D": "a person skilled or engaged in typography. ", "S": ["compositor ", "publisher "], "A": []}
+{"index": 324320, "D": "a person skilled or engaged in typography. ", "S": ["compositor", "publisher"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 270945, "D": "to soak in water or expose to moisture, as flax or hemp, to facilitate the removal of the fiber from the woody tissue by partial rotting.", "S": ["emaciate ", "mash ", "permeate ", "saturate ", "soak ", "soften ", "steep "], "A": ["dehydrate ", "dry "]}
+{"index": 270945, "D": "to soak in water or expose to moisture, as flax or hemp, to facilitate the removal of the fiber from the woody tissue by partial rotting.", "S": ["emaciate", "mash", "permeate", "saturate", "soak", "soften", "steep"], "A": ["dehydrate", "dry"]}

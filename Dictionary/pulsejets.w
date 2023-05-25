@@ -1,1 +1,1 @@
-{"index": 256404, "D": "a jet engine  equipped with valves that continuously open to admit air, then close during combustion, giving a pulsating thrust", "S": ["fanjet ", "ramjet ", "reaction engine ", "rocket ", "rocket motor ", "turbofan ", "turbojet ", "turboprop "], "A": []}
+{"index": 256404, "D": "a jet engine  equipped with valves that continuously open to admit air, then close during combustion, giving a pulsating thrust", "S": ["fanjet", "ramjet", "reaction engine", "rocket", "rocket motor", "turbofan", "turbojet", "turboprop"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 21931, "D": [], "S": ["custom ", "manner ", "mode ", "nature ", "obsession ", "pattern ", "quirk ", "routine ", "style ", "thing ", "usage "], "A": ["disinclination ", "dislike ", "hate "]}
+{"index": 21931, "D": [], "S": ["custom", "manner", "mode", "nature", "obsession", "pattern", "quirk", "routine", "style", "thing", "usage"], "A": ["disinclination", "dislike", "hate"]}

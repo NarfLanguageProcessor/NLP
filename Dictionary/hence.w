@@ -1,1 +1,1 @@
-{"index": 136532, "D": "as an inference from this fact; for this reason; therefore", "S": ["so ", "thence ", "thus "], "A": []}
+{"index": 136532, "D": "as an inference from this fact; for this reason; therefore", "S": ["so", "thence", "thus"], "A": []}

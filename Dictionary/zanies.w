@@ -1,1 +1,0 @@
-{"index": 368831, "D": "ludicrously or whimsically comical; clownish.", "S": ["campy ", "comical ", "eccentric ", "goofy ", "kooky ", "loony ", "madcap ", "wacky "], "A": ["serious "]}

@@ -1,1 +1,0 @@
-{"index": 209326, "D": "any of a group of proteins, containing phosphorus, that occur in the nuclei of living cells", "S": [], "A": []}

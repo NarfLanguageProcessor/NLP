@@ -1,1 +1,0 @@
-{"index": 289328, "D": "something of little value (esp in the phrase not worth shucks)", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "whoopee ", "wow "], "A": []}

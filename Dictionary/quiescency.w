@@ -1,1 +1,1 @@
-{"index": 258550, "D": "quietness or stillness; inactivity or dormancy", "S": ["interruption ", "interval ", "lull "], "A": ["continuation ", "action ", "activity ", "beginning ", "go ", "persistence ", "start "]}
+{"index": 258550, "D": "quietness or stillness; inactivity or dormancy", "S": ["interruption", "interval", "lull"], "A": ["continuation", "action", "activity", "beginning", "go", "persistence", "start"]}

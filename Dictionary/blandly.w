@@ -1,1 +1,1 @@
-{"index": 35707, "D": "pleasantly gentle or agreeable", "S": ["dully ", "lifelessly ", "monotonously ", "sluggishly ", "unemotionally ", "unenthusiastically "], "A": []}
+{"index": 35707, "D": "pleasantly gentle or agreeable", "S": ["dully", "lifelessly", "monotonously", "sluggishly", "unemotionally", "unenthusiastically"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 333840, "D": "last; furthest or farthest; ending a process or series", "S": ["cap ", "ceiling ", "check ", "curb ", "deadline ", "maximum ", "restraint ", "restriction "], "A": ["freedom ", "liberation ", "minimum ", "beginning ", "center ", "commencement ", "inside ", "interior ", "middle ", "opening ", "start "]}

@@ -1,1 +1,1 @@
-{"index": 164105, "D": "a condiment consisting of pur\u00e9ed tomatoes, onions, vinegar, sugar, spices, etc.", "S": ["dressing ", "gravy ", "horseradish ", "mustard ", "pepper ", "relish ", "salsa ", "salt ", "sauce ", "seasoning ", "spice "], "A": []}
+{"index": 164105, "D": "a condiment consisting of pur\u00e9ed tomatoes, onions, vinegar, sugar, spices, etc.", "S": ["dressing", "gravy", "horseradish", "mustard", "pepper", "relish", "salsa", "salt", "sauce", "seasoning", "spice"], "A": []}

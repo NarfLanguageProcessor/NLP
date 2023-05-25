@@ -1,1 +1,1 @@
-{"index": 144076, "D": "a game in which the players try to throw horseshoes so that they encircle a stake in the ground some distance away", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}
+{"index": 144076, "D": "a game in which the players try to throw horseshoes so that they encircle a stake in the ground some distance away", "S": ["arc", "arch", "contour", "loop", "trajectory"], "A": ["line"]}

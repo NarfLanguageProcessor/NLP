@@ -1,1 +1,1 @@
-{"index": 287321, "D": "the painful feeling arising from the consciousness of something dishonorable, improper, ridiculous, etc., done by oneself or another", "S": ["embarrassed ", "humiliated "], "A": []}
+{"index": 287321, "D": "the painful feeling arising from the consciousness of something dishonorable, improper, ridiculous, etc., done by oneself or another", "S": ["embarrassed", "humiliated"], "A": []}

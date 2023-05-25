@@ -1,1 +1,1 @@
-{"index": 64686, "D": "the act of conforming, acquiescing, or yielding.", "S": ["conformity ", "consent "], "A": ["difference ", "disagreement ", "refusal ", "disobedience ", "rebellion ", "resistance "]}
+{"index": 64686, "D": "the act of conforming, acquiescing, or yielding.", "S": ["conformity", "consent"], "A": ["difference", "disagreement", "refusal", "disobedience", "rebellion", "resistance"]}

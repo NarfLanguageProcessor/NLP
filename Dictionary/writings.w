@@ -1,1 +1,1 @@
-{"index": 368072, "D": "the Writings another term for the Hagiographa", "S": ["annals "], "A": []}
+{"index": 368072, "D": "the Writings another term for the Hagiographa", "S": ["annals"], "A": []}

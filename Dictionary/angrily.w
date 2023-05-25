@@ -1,1 +1,1 @@
-{"index": 12945, "D": "in a manner born of or expressing anger or strong resentment", "S": ["bitterly ", "fiercely ", "furiously ", "heatedly ", "hotly ", "indignantly ", "madly ", "savagely ", "sharply ", "violently "], "A": ["gently ", "mildly ", "quietly "]}
+{"index": 12945, "D": "in a manner born of or expressing anger or strong resentment", "S": ["bitterly", "fiercely", "furiously", "heatedly", "hotly", "indignantly", "madly", "savagely", "sharply", "violently"], "A": ["gently", "mildly", "quietly"]}

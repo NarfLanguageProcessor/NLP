@@ -1,1 +1,1 @@
-{"index": 87781, "D": "passing aimlessly from one subject to another; digressive; rambling.", "S": ["circumlocutorily ", "diffusely ", "in a roundabout way ", "not immediately ", "periphrastically ", "secondhand "], "A": ["directly ", "immediately ", "primarily "]}
+{"index": 87781, "D": "passing aimlessly from one subject to another; digressive; rambling.", "S": ["circumlocutorily", "diffusely", "in a roundabout way", "not immediately", "periphrastically", "secondhand"], "A": ["directly", "immediately", "primarily"]}

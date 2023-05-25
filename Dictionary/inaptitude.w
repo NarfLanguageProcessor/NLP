@@ -1,1 +1,1 @@
-{"index": 149507, "D": "lack of aptitude;  unfitness.", "S": ["failure ", "impotence ", "incompetence ", "inefficiency ", "ineptitude ", "lack ", "shortcoming ", "weakness "], "A": ["strong point ", "success ", "ability ", "sufficiency "]}
+{"index": 149507, "D": "lack of aptitude;  unfitness.", "S": ["failure", "impotence", "incompetence", "inefficiency", "ineptitude", "lack", "shortcoming", "weakness"], "A": ["strong point", "success", "ability", "sufficiency"]}

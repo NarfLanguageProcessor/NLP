@@ -1,1 +1,1 @@
-{"index": 83132, "D": "any of a group of synthetic, organic, liquid or water-soluble cleaning agents that, unlike soap, are not prepared from fats and oils, are not inactivated by hard water, and have wetting-agent and emulsifying-agent properties.", "S": ["cleaner ", "solvent "], "A": []}
+{"index": 83132, "D": "any of a group of synthetic, organic, liquid or water-soluble cleaning agents that, unlike soap, are not prepared from fats and oils, are not inactivated by hard water, and have wetting-agent and emulsifying-agent properties.", "S": ["cleaner", "solvent"], "A": []}

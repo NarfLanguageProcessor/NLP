@@ -1,1 +1,1 @@
-{"index": 354969, "D": "to pull out by or as if by the roots", "S": ["annihilate ", "demolish ", "displace ", "eradicate ", "exterminate ", "overthrow ", "overturn ", "wipe out "], "A": ["bear ", "build ", "create ", "fix ", "help ", "ratify ", "remain ", "stay ", "welcome "]}
+{"index": 354969, "D": "to pull out by or as if by the roots", "S": ["annihilate", "demolish", "displace", "eradicate", "exterminate", "overthrow", "overturn", "wipe out"], "A": ["bear", "build", "create", "fix", "help", "ratify", "remain", "stay", "welcome"]}

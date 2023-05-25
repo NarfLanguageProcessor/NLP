@@ -1,1 +1,1 @@
-{"index": 20715, "D": "a clever trick or stratagem; a cunning, crafty device or expedient; wile.", "S": ["contrivance ", "gimmick "], "A": ["honesty "]}
+{"index": 20715, "D": "a clever trick or stratagem; a cunning, crafty device or expedient; wile.", "S": ["contrivance", "gimmick"], "A": ["honesty"]}

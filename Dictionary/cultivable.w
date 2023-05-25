@@ -1,1 +1,1 @@
-{"index": 74817, "D": "capable of being cultivated. ", "S": ["plowable ", "tillable "], "A": ["infertile "]}
+{"index": 74817, "D": "capable of being cultivated. ", "S": ["plowable", "tillable"], "A": ["infertile"]}

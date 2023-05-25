@@ -1,1 +1,1 @@
-{"index": 116261, "D": "the setting down of a foot, or the sound so produced; footfall; tread.", "S": ["footprint "], "A": []}
+{"index": 116261, "D": "the setting down of a foot, or the sound so produced; footfall; tread.", "S": ["footprint"], "A": []}

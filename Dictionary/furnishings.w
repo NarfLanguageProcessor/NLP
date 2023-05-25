@@ -1,1 +1,1 @@
-{"index": 120469, "D": "furniture and accessories, including carpets and curtains, with which a room, house, etc, is furnished", "S": ["equipment ", "gear "], "A": []}
+{"index": 120469, "D": "furniture and accessories, including carpets and curtains, with which a room, house, etc, is furnished", "S": ["equipment", "gear"], "A": []}

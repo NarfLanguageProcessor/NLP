@@ -1,1 +1,1 @@
-{"index": 39738, "D": "intelligent; clever; intellectual.", "S": ["brilliant "], "A": []}
+{"index": 39738, "D": "intelligent; clever; intellectual.", "S": ["brilliant"], "A": []}

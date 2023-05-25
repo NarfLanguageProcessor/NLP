@@ -1,1 +1,1 @@
-{"index": 145045, "D": "a comic, absurd, or incongruous quality causing amusement", "S": ["flexible ", "soft "], "A": ["rigid ", "stern ", "unyielding "]}
+{"index": 145045, "D": "a comic, absurd, or incongruous quality causing amusement", "S": ["flexible", "soft"], "A": ["rigid", "stern", "unyielding"]}

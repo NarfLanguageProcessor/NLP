@@ -1,1 +1,1 @@
-{"index": 34526, "D": "any science  that deals with the biological aspects of living organisms.", "S": ["anthropology ", "biological science ", "biology ", "ecology ", "environmental science ", "medicine ", "natural science ", "zoology "], "A": []}
+{"index": 34526, "D": "any science  that deals with the biological aspects of living organisms.", "S": ["anthropology", "biological science", "biology", "ecology", "environmental science", "medicine", "natural science", "zoology"], "A": []}

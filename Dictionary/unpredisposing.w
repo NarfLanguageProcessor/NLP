@@ -1,1 +1,0 @@
-{"index": 348333, "D": "to give an inclination or tendency to beforehand; make susceptible", "S": [], "A": []}

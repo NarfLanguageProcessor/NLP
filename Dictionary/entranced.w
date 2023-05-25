@@ -1,1 +1,1 @@
-{"index": 101632, "D": "filled with delight or wonder; enraptured; captivated", "S": ["captivated ", "enamored ", "enchanted ", "enraptured ", "fascinated ", "hooked ", "mesmerized ", "possessed ", "spellbound ", "transformed "], "A": ["disenchanted ", "disinterested "]}
+{"index": 101632, "D": "filled with delight or wonder; enraptured; captivated", "S": ["captivated", "enamored", "enchanted", "enraptured", "fascinated", "hooked", "mesmerized", "possessed", "spellbound", "transformed"], "A": ["disenchanted", "disinterested"]}

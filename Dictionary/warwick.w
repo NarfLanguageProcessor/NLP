@@ -1,1 +1,0 @@
-{"index": 362848, "D": "English military leader and statesman.", "S": [], "A": []}

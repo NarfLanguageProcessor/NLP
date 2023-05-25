@@ -1,1 +1,1 @@
-{"index": 87999, "D": "to deprive of title or right.", "S": ["elimination ", "exclusion "], "A": ["ability ", "aptitude ", "capability "]}
+{"index": 87999, "D": "to deprive of title or right.", "S": ["elimination", "exclusion"], "A": ["ability", "aptitude", "capability"]}

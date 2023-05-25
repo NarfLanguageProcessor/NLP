@@ -1,1 +1,1 @@
-{"index": 348898, "D": "not qualified;  not fit; lacking requisite qualifications", "S": ["categorically ", "completely ", "thoroughly "], "A": []}
+{"index": 348898, "D": "not qualified;  not fit; lacking requisite qualifications", "S": ["categorically", "completely", "thoroughly"], "A": []}

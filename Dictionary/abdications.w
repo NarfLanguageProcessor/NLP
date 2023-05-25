@@ -1,1 +1,1 @@
-{"index": 253, "D": "the act or state of abdicating;  renunciation.", "S": ["abandonment "], "A": []}
+{"index": 253, "D": "the act or state of abdicating;  renunciation.", "S": ["abandonment"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 359108, "D": "a room in or a building attached to a church, in which the vestments, and sometimes liturgical objects, are kept; sacristy.", "S": ["church ", "sanctuary ", "shrine "], "A": []}
+{"index": 359108, "D": "a room in or a building attached to a church, in which the vestments, and sometimes liturgical objects, are kept; sacristy.", "S": ["church", "sanctuary", "shrine"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 108547, "D": "involving representatives of more than one school", "S": ["farther ", "foreign ", "out "], "A": ["central ", "interior ", "middle "]}
+{"index": 108547, "D": "involving representatives of more than one school", "S": ["farther", "foreign", "out"], "A": ["central", "interior", "middle"]}

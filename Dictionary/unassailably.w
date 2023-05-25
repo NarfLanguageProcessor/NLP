@@ -1,1 +1,1 @@
-{"index": 335301, "D": "not open to attack or assault, as by military force or argument", "S": ["immutably "], "A": []}
+{"index": 335301, "D": "not open to attack or assault, as by military force or argument", "S": ["immutably"], "A": []}

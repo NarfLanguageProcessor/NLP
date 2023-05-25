@@ -1,1 +1,1 @@
-{"index": 357740, "D": "a piece of opaque or transparent material worn over the face for concealment, for protection from the elements, or to enhance the appearance.", "S": ["cloak ", "curtain ", "mask ", "shroud "], "A": []}
+{"index": 357740, "D": "a piece of opaque or transparent material worn over the face for concealment, for protection from the elements, or to enhance the appearance.", "S": ["cloak", "curtain", "mask", "shroud"], "A": []}

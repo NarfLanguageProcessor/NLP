@@ -1,1 +1,1 @@
-{"index": 135410, "D": "the position or rights of an heir;  right of inheritance; inheritance.", "S": ["ancestry ", "culture ", "custom ", "legacy ", "right ", "tradition "], "A": ["whole "]}
+{"index": 135410, "D": "the position or rights of an heir;  right of inheritance; inheritance.", "S": ["ancestry", "culture", "custom", "legacy", "right", "tradition"], "A": ["whole"]}

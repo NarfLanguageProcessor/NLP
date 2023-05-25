@@ -1,1 +1,1 @@
-{"index": 27755, "D": "having barbs. ", "S": ["biting ", "pointed ", "stinging "], "A": ["mild ", "nice "]}
+{"index": 27755, "D": "having barbs. ", "S": ["biting", "pointed", "stinging"], "A": ["mild", "nice"]}

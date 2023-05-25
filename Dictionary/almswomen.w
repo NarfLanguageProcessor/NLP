@@ -1,1 +1,1 @@
-{"index": 9172, "D": "a woman  supported by alms. ", "S": ["almsman ", "cadger ", "mendicant ", "panhandler "], "A": []}
+{"index": 9172, "D": "a woman  supported by alms. ", "S": ["almsman", "cadger", "mendicant", "panhandler"], "A": []}

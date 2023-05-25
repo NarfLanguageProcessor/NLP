@@ -1,1 +1,1 @@
-{"index": 338173, "D": "commendation or honor given for some action, quality, etc.", "S": ["nameless ", "undisclosed ", "unidentified ", "unnamed ", "unsigned "], "A": ["known ", "named "]}
+{"index": 338173, "D": "commendation or honor given for some action, quality, etc.", "S": ["nameless", "undisclosed", "unidentified", "unnamed", "unsigned"], "A": ["known", "named"]}

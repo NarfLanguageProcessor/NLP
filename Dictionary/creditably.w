@@ -1,1 +1,1 @@
-{"index": 72502, "D": "bringing or deserving credit,  honor, reputation, or esteem.", "S": ["advantageously "], "A": ["worst "]}
+{"index": 72502, "D": "bringing or deserving credit,  honor, reputation, or esteem.", "S": ["advantageously"], "A": ["worst"]}

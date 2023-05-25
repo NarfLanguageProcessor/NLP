@@ -1,1 +1,1 @@
-{"index": 335560, "D": "to cook by dry heat in an oven or on heated metal or stones.", "S": ["inexperienced "], "A": ["experienced ", "initiated ", "mature ", "sophisticated "]}
+{"index": 335560, "D": "to cook by dry heat in an oven or on heated metal or stones.", "S": ["inexperienced"], "A": ["experienced", "initiated", "mature", "sophisticated"]}

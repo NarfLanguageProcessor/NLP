@@ -1,1 +1,1 @@
-{"index": 297223, "D": "a writer of songs. ", "S": ["writer "], "A": []}
+{"index": 297223, "D": "a writer of songs. ", "S": ["writer"], "A": []}

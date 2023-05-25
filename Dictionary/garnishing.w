@@ -1,1 +1,1 @@
-{"index": 122233, "D": "to provide or supply with something ornamental; adorn; decorate", "S": ["exquisite ", "ornate ", "showy "], "A": ["plain ", "unembellished "]}
+{"index": 122233, "D": "to provide or supply with something ornamental; adorn; decorate", "S": ["exquisite", "ornate", "showy"], "A": ["plain", "unembellished"]}

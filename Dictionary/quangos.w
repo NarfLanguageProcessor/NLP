@@ -1,1 +1,1 @@
-{"index": 257911, "D": "(especially in Great Britain) a semi-public advisory and administrative body supported by the government and having most of its members appointed by the government.", "S": ["panel "], "A": []}
+{"index": 257911, "D": "(especially in Great Britain) a semi-public advisory and administrative body supported by the government and having most of its members appointed by the government.", "S": ["panel"], "A": []}

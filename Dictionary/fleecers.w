@@ -1,1 +1,1 @@
-{"index": 114358, "D": "the coat of wool that covers a sheep or a similar animal.", "S": ["con man ", "crook ", "hustler ", "swindler "], "A": []}
+{"index": 114358, "D": "the coat of wool that covers a sheep or a similar animal.", "S": ["con man", "crook", "hustler", "swindler"], "A": []}

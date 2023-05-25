@@ -1,1 +1,1 @@
-{"index": 128973, "D": "the receiver of a grant. ", "S": ["heir ", "recipient "], "A": ["giver "]}
+{"index": 128973, "D": "the receiver of a grant. ", "S": ["heir", "recipient"], "A": ["giver"]}

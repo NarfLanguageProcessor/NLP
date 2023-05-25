@@ -1,1 +1,1 @@
-{"index": 75817, "D": "cutting instruments collectively, especially knives for cutting food.", "S": ["flatware "], "A": []}
+{"index": 75817, "D": "cutting instruments collectively, especially knives for cutting food.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 354, "D": [], "S": ["depart ", "differ ", "diverge ", "vary ", "veer "], "A": ["agree ", "stay ", "straighten "]}
+{"index": 354, "D": [], "S": ["depart", "differ", "diverge", "vary", "veer"], "A": ["agree", "stay", "straighten"]}

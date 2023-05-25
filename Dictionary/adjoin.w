@@ -1,0 +1,1 @@
+{"index": 4006, "D": "to be close to or in contact with; abut on", "S": ["abut"], "A": ["disconnect", "divide", "separate"]}

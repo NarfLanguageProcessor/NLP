@@ -1,1 +1,1 @@
-{"index": 222047, "D": "to be under obligation to pay or repay", "S": ["incur "], "A": ["pay ", "resolve ", "settle "]}
+{"index": 222047, "D": "to be under obligation to pay or repay", "S": ["incur"], "A": ["pay", "resolve", "settle"]}

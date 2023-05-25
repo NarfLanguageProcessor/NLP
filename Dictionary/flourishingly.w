@@ -1,1 +1,1 @@
-{"index": 115156, "D": "growing vigorously; thriving; prosperous", "S": ["profitably ", "strongly ", "well "], "A": []}
+{"index": 115156, "D": "growing vigorously; thriving; prosperous", "S": ["profitably", "strongly", "well"], "A": []}

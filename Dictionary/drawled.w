@@ -1,1 +1,1 @@
-{"index": 92797, "D": "to say or speak in a slow manner, usually prolonging the vowels.", "S": ["chant ", "drone ", "extend ", "intone ", "nasalize ", "prolong ", "protract ", "utter "], "A": ["abbreviate ", "curtail ", "shorten "]}
+{"index": 92797, "D": "to say or speak in a slow manner, usually prolonging the vowels.", "S": ["chant", "drone", "extend", "intone", "nasalize", "prolong", "protract", "utter"], "A": ["abbreviate", "curtail", "shorten"]}

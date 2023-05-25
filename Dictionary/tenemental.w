@@ -1,1 +1,0 @@
-{"index": 318835, "D": "a run-down and often overcrowded apartment house, especially in a poor section of a large city.", "S": [], "A": []}

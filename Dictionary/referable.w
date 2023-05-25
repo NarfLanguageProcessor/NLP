@@ -1,1 +1,1 @@
-{"index": 264980, "D": "to direct for information or anything required", "S": ["attributable ", "detectable ", "identifiable "], "A": []}
+{"index": 264980, "D": "to direct for information or anything required", "S": ["attributable", "detectable", "identifiable"], "A": []}

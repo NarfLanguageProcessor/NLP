@@ -1,1 +1,1 @@
-{"index": 153604, "D": "intended to entrap or beguile", "S": ["dangerous ", "subtle "], "A": ["fair ", "honest ", "open ", "sincere "]}
+{"index": 153604, "D": "intended to entrap or beguile", "S": ["dangerous", "subtle"], "A": ["fair", "honest", "open", "sincere"]}

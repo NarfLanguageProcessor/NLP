@@ -1,1 +1,1 @@
-{"index": 154931, "D": "to come into opposition, as one thing with another, especially with the effect of hampering action or procedure (often followed by with)", "S": ["intrusive ", "meddlesome "], "A": []}
+{"index": 154931, "D": "to come into opposition, as one thing with another, especially with the effect of hampering action or procedure (often followed by with)", "S": ["intrusive", "meddlesome"], "A": []}

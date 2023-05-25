@@ -1,1 +1,1 @@
-{"index": 339911, "D": "simple past tense and past participle of understand. ", "S": ["accepted ", "appreciated ", "implied ", "inferred ", "known ", "pat ", "presumed ", "unsaid "], "A": ["expressed ", "stated "]}
+{"index": 339911, "D": "simple past tense and past participle of understand. ", "S": ["accepted", "appreciated", "implied", "inferred", "known", "pat", "presumed", "unsaid"], "A": ["expressed", "stated"]}

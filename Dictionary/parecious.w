@@ -1,1 +1,0 @@
-{"index": 226325, "D": "(of certain mosses) having the male and female reproductive organs beside or near each other.", "S": [], "A": []}

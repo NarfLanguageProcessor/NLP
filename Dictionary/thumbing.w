@@ -1,1 +1,1 @@
-{"index": 322961, "D": "the short, thick, inner digit of the human hand, next to the forefinger.", "S": ["address ", "advise ", "feel ", "greet "], "A": ["answer "]}
+{"index": 322961, "D": "the short, thick, inner digit of the human hand, next to the forefinger.", "S": ["address", "advise", "feel", "greet"], "A": ["answer"]}

@@ -1,1 +1,1 @@
-{"index": 357251, "D": "to change or alter, as in form, appearance, character, or substance", "S": ["changeable ", "changing ", "differing ", "fluctuating ", "shifting "], "A": ["fixed ", "stable "]}
+{"index": 357251, "D": "to change or alter, as in form, appearance, character, or substance", "S": ["changeable", "changing", "differing", "fluctuating", "shifting"], "A": ["fixed", "stable"]}

@@ -1,1 +1,1 @@
-{"index": 282358, "D": "scurry. ", "S": ["bustle ", "dart ", "dash ", "hurry ", "rip ", "scamper ", "scoot ", "scuttle ", "sprint ", "whisk ", "zip "], "A": ["slow ", "walk "]}
+{"index": 282358, "D": "scurry. ", "S": ["bustle", "dart", "dash", "hurry", "rip", "scamper", "scoot", "scuttle", "sprint", "whisk", "zip"], "A": ["slow", "walk"]}

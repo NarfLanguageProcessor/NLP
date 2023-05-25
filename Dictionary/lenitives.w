@@ -1,1 +1,1 @@
-{"index": 170452, "D": "softening, soothing, or mitigating, as medicines or applications.", "S": ["balm ", "cream ", "dressing ", "embrocation ", "emollient ", "lenitive ", "lotion ", "medicine ", "salve ", "unguent "], "A": []}
+{"index": 170452, "D": "softening, soothing, or mitigating, as medicines or applications.", "S": ["balm", "cream", "dressing", "embrocation", "emollient", "lenitive", "lotion", "medicine", "salve", "unguent"], "A": []}

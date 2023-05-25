@@ -1,1 +1,1 @@
-{"index": 314362, "D": "suffering oppressive heat.", "S": ["airless ", "baking ", "burning ", "humid ", "oppressive ", "scorching ", "sizzling ", "stifling ", "stuffy ", "sultry ", "torrid "], "A": ["cold ", "cool ", "dry ", "frigid "]}
+{"index": 314362, "D": "suffering oppressive heat.", "S": ["airless", "baking", "burning", "humid", "oppressive", "scorching", "sizzling", "stifling", "stuffy", "sultry", "torrid"], "A": ["cold", "cool", "dry", "frigid"]}

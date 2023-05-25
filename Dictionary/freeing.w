@@ -1,1 +1,1 @@
-{"index": 118612, "D": "enjoying personal rights or liberty, as a person who is not in slavery", "S": ["loosening "], "A": []}
+{"index": 118612, "D": "enjoying personal rights or liberty, as a person who is not in slavery", "S": ["loosening"], "A": []}

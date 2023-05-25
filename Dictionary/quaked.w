@@ -1,1 +1,0 @@
-{"index": 257828, "D": "(of persons) to shake or tremble from cold, weakness, fear, anger, or the like", "S": ["aftershock ", "convulsion ", "quaker ", "seism ", "shake ", "shock ", "temblor ", "tremor "], "A": []}

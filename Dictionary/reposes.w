@@ -1,1 +1,1 @@
-{"index": 268401, "D": "the state of resting or being at rest; sleep. ", "S": ["inactivity ", "stillness "], "A": ["action ", "awakening ", "consciousness ", "wakefulness ", "work "]}
+{"index": 268401, "D": "the state of resting or being at rest; sleep. ", "S": ["inactivity", "stillness"], "A": ["action", "awakening", "consciousness", "wakefulness", "work"]}

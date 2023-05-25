@@ -1,1 +1,1 @@
-{"index": 369850, "D": "to move quickly or suddenly with a loud humming or buzzing sound", "S": ["buzz ", "dart ", "dash ", "dive ", "flash ", "hurtle ", "rocket ", "shoot up ", "skyrocket ", "surge ", "whirl ", "whiz ", "zip "], "A": ["decelerate ", "slow ", "sew ", "walk "]}
+{"index": 369850, "D": "to move quickly or suddenly with a loud humming or buzzing sound", "S": ["buzz", "dart", "dash", "dive", "flash", "hurtle", "rocket", "shoot up", "skyrocket", "surge", "whirl", "whiz", "zip"], "A": ["decelerate", "slow", "sew", "walk"]}

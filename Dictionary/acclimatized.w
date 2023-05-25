@@ -1,1 +1,1 @@
-{"index": 1607, "D": "to acclimate. ", "S": ["addicted "], "A": ["abnormal ", "unaccustomed ", "unusual "]}
+{"index": 1607, "D": "to acclimate. ", "S": ["addicted"], "A": ["abnormal", "unaccustomed", "unusual"]}

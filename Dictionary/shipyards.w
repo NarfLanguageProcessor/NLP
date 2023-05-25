@@ -1,1 +1,1 @@
-{"index": 288423, "D": "a yard  or enclosure in which ships  are built or repaired.", "S": ["dockyard ", "graving dock "], "A": []}
+{"index": 288423, "D": "a yard  or enclosure in which ships  are built or repaired.", "S": ["dockyard", "graving dock"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 91617, "D": "stupid; inane", "S": ["dazed ", "lethargic "], "A": ["alert ", "awake ", "energized ", "lively "]}
+{"index": 91617, "D": "stupid; inane", "S": ["dazed", "lethargic"], "A": ["alert", "awake", "energized", "lively"]}

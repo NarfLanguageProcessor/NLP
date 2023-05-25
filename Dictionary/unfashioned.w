@@ -1,1 +1,1 @@
-{"index": 342022, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": ["basic ", "coarse ", "crude ", "fresh ", "natural ", "organic ", "rough ", "uncooked ", "undercooked ", "unprocessed ", "untreated "], "A": ["cooked ", "done ", "well-done "]}
+{"index": 342022, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": ["basic", "coarse", "crude", "fresh", "natural", "organic", "rough", "uncooked", "undercooked", "unprocessed", "untreated"], "A": ["cooked", "done", "well-done"]}

@@ -1,1 +1,1 @@
-{"index": 282172, "D": "a small room or section of a pantry in which food is cleaned, trimmed, and cut into cooking portions before being sent to the kitchen.", "S": ["caboose "], "A": []}
+{"index": 282172, "D": "a small room or section of a pantry in which food is cleaned, trimmed, and cut into cooking portions before being sent to the kitchen.", "S": ["caboose"], "A": []}

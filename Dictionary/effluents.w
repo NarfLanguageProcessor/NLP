@@ -1,1 +1,1 @@
-{"index": 96055, "D": "flowing out or forth.", "S": ["sewerage "], "A": []}
+{"index": 96055, "D": "flowing out or forth.", "S": ["sewerage"], "A": []}

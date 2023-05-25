@@ -1,1 +1,0 @@
-{"index": 205847, "D": "perceiving  or capable of perceiving. ", "S": [], "A": []}

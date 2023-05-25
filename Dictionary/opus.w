@@ -1,1 +1,1 @@
-{"index": 213894, "D": "a musical composition.", "S": ["magnum opus "], "A": ["destruction ", "ruin "]}
+{"index": 213894, "D": "a musical composition.", "S": ["magnum opus"], "A": ["destruction", "ruin"]}

@@ -1,1 +1,1 @@
-{"index": 353000, "D": "not tidy  or neat; slovenly; disordered", "S": ["bedraggled ", "jumbled ", "messy ", "sloppy ", "tangled "], "A": ["clean ", "neat ", "ordered ", "organized ", "tidy "]}
+{"index": 353000, "D": "not tidy  or neat; slovenly; disordered", "S": ["bedraggled", "jumbled", "messy", "sloppy", "tangled"], "A": ["clean", "neat", "ordered", "organized", "tidy"]}

@@ -1,1 +1,1 @@
-{"index": 209026, "D": "naught. ", "S": ["naught ", "nihil ", "nix ", "none ", "nothing ", "zero "], "A": ["existent ", "existing "]}
+{"index": 209026, "D": "naught. ", "S": ["naught", "nihil", "nix", "none", "nothing", "zero"], "A": ["existent", "existing"]}

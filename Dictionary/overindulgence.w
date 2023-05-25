@@ -1,1 +1,0 @@
-{"index": 219834, "D": "to indulge  to excess", "S": ["depravity ", "dissipation ", "excess ", "gluttony ", "intemperance ", "orgy ", "overeating ", "satiation ", "satiety ", "spoiling "], "A": ["virtue "]}

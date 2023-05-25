@@ -1,1 +1,1 @@
-{"index": 366489, "D": "being a wisp  or in wisps;  wisplike", "S": ["nebulous ", "slender "], "A": []}
+{"index": 366489, "D": "being a wisp  or in wisps;  wisplike", "S": ["nebulous", "slender"], "A": []}

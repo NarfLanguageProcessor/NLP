@@ -1,1 +1,1 @@
-{"index": 70519, "D": "a deep ravine or gulch, usually dry, that has been formed by running water.", "S": ["gorge ", "gully ", "ravine ", "valley "], "A": ["mountain "]}
+{"index": 70519, "D": "a deep ravine or gulch, usually dry, that has been formed by running water.", "S": ["gorge", "gully", "ravine", "valley"], "A": ["mountain"]}

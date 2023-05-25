@@ -1,1 +1,1 @@
-{"index": 360523, "D": "of or relating to life", "S": ["actually ", "approximately ", "necessarily ", "originally ", "permanently ", "quite ", "really ", "substantially ", "truly ", "typically ", "virtually "], "A": ["doubtfully "]}
+{"index": 360523, "D": "of or relating to life", "S": ["actually", "approximately", "necessarily", "originally", "permanently", "quite", "really", "substantially", "truly", "typically", "virtually"], "A": ["doubtfully"]}

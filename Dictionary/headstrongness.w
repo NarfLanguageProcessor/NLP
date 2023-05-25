@@ -1,1 +1,1 @@
-{"index": 134732, "D": "determined to have one's own way; willful; stubborn; obstinate", "S": ["doggedness ", "mulishness ", "pertinacity ", "pigheadedness ", "resolve ", "self-will ", "stubbornness ", "tenaciousness ", "tenacity ", "willfulness "], "A": ["irresolution "]}
+{"index": 134732, "D": "determined to have one's own way; willful; stubborn; obstinate", "S": ["doggedness", "mulishness", "pertinacity", "pigheadedness", "resolve", "self-will", "stubbornness", "tenaciousness", "tenacity", "willfulness"], "A": ["irresolution"]}

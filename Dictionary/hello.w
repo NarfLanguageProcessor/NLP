@@ -1,1 +1,1 @@
-{"index": 135727, "D": [], "S": ["greetings ", "hi ", "howdy ", "welcome "], "A": ["adios ", "au revoir ", "goodbye "]}
+{"index": 135727, "D": "(used to express a greeting, answer a telephone, or attract attention.)", "S": ["greetings", "hi", "howdy", "welcome"], "A": ["adios", "au revoir", "goodbye"]}

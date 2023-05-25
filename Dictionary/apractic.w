@@ -1,0 +1,1 @@
+{"index": 18057, "D": "a disorder of the nervous system, characterized by an inability to perform purposeful movements, but not accompanied by a loss of sensory function or paralysis.", "S": [], "A": []}

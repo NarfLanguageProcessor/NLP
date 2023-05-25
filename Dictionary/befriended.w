@@ -1,1 +1,1 @@
-{"index": 30539, "D": "to make friends  or become friendly with; act as a friend  to; help; aid", "S": ["abetted ", "accompanied ", "advised ", "assisted ", "backed ", "bolstered ", "encouraged ", "maintained ", "nursed ", "relieved ", "supported ", "sustained "], "A": ["discouraged "]}
+{"index": 30539, "D": "to make friends  or become friendly with; act as a friend  to; help; aid", "S": ["abetted", "accompanied", "advised", "assisted", "backed", "bolstered", "encouraged", "maintained", "nursed", "relieved", "supported", "sustained"], "A": ["discouraged"]}

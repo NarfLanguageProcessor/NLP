@@ -1,1 +1,1 @@
-{"index": 86105, "D": "to cause to make a ringing sound.", "S": ["flawed ", "impaired ", "injured ", "run-down "], "A": ["healthy "]}
+{"index": 86105, "D": "to cause to make a ringing sound.", "S": ["flawed", "impaired", "injured", "run-down"], "A": ["healthy"]}

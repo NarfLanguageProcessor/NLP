@@ -1,1 +1,1 @@
-{"index": 133865, "D": "to bring into harmony,  accord, or agreement", "S": ["accession ", "adjustment ", "compatibility ", "compliance "], "A": ["disagreement ", "antagonism ", "discord ", "dislike ", "dissension ", "hatred ", "hostility "]}
+{"index": 133865, "D": "to bring into harmony,  accord, or agreement", "S": ["accession", "adjustment", "compatibility", "compliance"], "A": ["disagreement", "antagonism", "discord", "dislike", "dissension", "hatred", "hostility"]}

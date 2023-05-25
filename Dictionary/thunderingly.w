@@ -1,1 +1,1 @@
-{"index": 323026, "D": "of, relating to, or accompanied by thunder. ", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}
+{"index": 323026, "D": "of, relating to, or accompanied by thunder. ", "S": ["aloud", "emphatically", "noisily", "powerfully", "vehemently", "vociferously"], "A": ["inaudibly", "quietly", "silently"]}

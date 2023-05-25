@@ -1,1 +1,1 @@
-{"index": 268384, "D": "an account or statement describing in detail an event, situation, or the like, usually as the result of observation, inquiry, etc.", "S": ["broadcasting ", "coverage "], "A": []}
+{"index": 268384, "D": "an account or statement describing in detail an event, situation, or the like, usually as the result of observation, inquiry, etc.", "S": ["broadcasting", "coverage"], "A": []}

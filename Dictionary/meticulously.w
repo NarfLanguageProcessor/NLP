@@ -1,1 +1,1 @@
-{"index": 185320, "D": "in a way that shows extreme care about minute details; in a precise and thorough way, sometimes to an excessive degree", "S": ["exactly ", "precisely "], "A": []}
+{"index": 185320, "D": "in a way that shows extreme care about minute details; in a precise and thorough way, sometimes to an excessive degree", "S": ["exactly", "precisely"], "A": []}

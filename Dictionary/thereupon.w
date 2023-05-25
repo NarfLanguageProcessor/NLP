@@ -1,1 +1,1 @@
-{"index": 321274, "D": "immediately following that.", "S": ["forthwith ", "immediately "], "A": []}
+{"index": 321274, "D": "immediately following that.", "S": ["forthwith", "immediately"], "A": []}

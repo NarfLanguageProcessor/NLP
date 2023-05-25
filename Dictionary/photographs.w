@@ -1,1 +1,1 @@
-{"index": 235174, "D": "a picture produced by photography. ", "S": ["image ", "likeness ", "photo ", "picture ", "portrait ", "print ", "snapshot "], "A": []}
+{"index": 235174, "D": "a picture produced by photography. ", "S": ["image", "likeness", "photo", "picture", "portrait", "print", "snapshot"], "A": []}

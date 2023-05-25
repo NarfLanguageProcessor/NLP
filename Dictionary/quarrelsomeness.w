@@ -1,1 +1,1 @@
-{"index": 258009, "D": "inclined to quarrel;  argumentative; contentious.", "S": ["belligerence ", "cantankerousness ", "combativeness ", "contentiousness ", "disputatiousness ", "litigiousness "], "A": []}
+{"index": 258009, "D": "inclined to quarrel;  argumentative; contentious.", "S": ["belligerence", "cantankerousness", "combativeness", "contentiousness", "disputatiousness", "litigiousness"], "A": []}

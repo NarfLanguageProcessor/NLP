@@ -1,1 +1,1 @@
-{"index": 335351, "D": "guaranteed; sure; certain; secure", "S": ["prim ", "reticent ", "timid ", "unassuming "], "A": ["bold ", "brave "]}
+{"index": 335351, "D": "guaranteed; sure; certain; secure", "S": ["prim", "reticent", "timid", "unassuming"], "A": ["bold", "brave"]}

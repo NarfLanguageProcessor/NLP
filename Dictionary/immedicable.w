@@ -1,1 +1,1 @@
-{"index": 147913, "D": "incurable. ", "S": ["deadly ", "fatal ", "hopeless ", "inoperable "], "A": ["healthful ", "wholesome "]}
+{"index": 147913, "D": "incurable. ", "S": ["deadly", "fatal", "hopeless", "inoperable"], "A": ["healthful", "wholesome"]}

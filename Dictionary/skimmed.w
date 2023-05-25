@@ -1,1 +1,1 @@
-{"index": 293215, "D": "to take up or remove (floating matter) from the surface of a liquid, as with a spoon or ladle", "S": ["glance ", "graze ", "shave "], "A": ["pour "]}
+{"index": 293215, "D": "to take up or remove (floating matter) from the surface of a liquid, as with a spoon or ladle", "S": ["glance", "graze", "shave"], "A": ["pour"]}

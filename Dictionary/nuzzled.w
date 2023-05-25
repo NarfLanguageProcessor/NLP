@@ -1,1 +1,0 @@
-{"index": 209848, "D": "to burrow or root with the nose, snout, etc., as an animal does", "S": ["caress "], "A": ["separate "]}

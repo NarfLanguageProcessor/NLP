@@ -1,1 +1,1 @@
-{"index": 338804, "D": "a student who performs less well in school than would be expected on the basis of abilities indicated by intelligence and aptitude tests, etc.", "S": ["disappointment "], "A": ["hard worker ", "success "]}
+{"index": 338804, "D": "a student who performs less well in school than would be expected on the basis of abilities indicated by intelligence and aptitude tests, etc.", "S": ["disappointment"], "A": ["hard worker", "success"]}

@@ -1,1 +1,1 @@
-{"index": 163671, "D": "a machine, operated by a keyboard, for coding information by punching  holes in cards or paper tape in specified patterns.", "S": ["operator ", "technician "], "A": []}
+{"index": 163671, "D": "a machine, operated by a keyboard, for coding information by punching  holes in cards or paper tape in specified patterns.", "S": ["operator", "technician"], "A": []}

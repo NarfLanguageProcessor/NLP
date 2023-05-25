@@ -1,1 +1,1 @@
-{"index": 146847, "D": "to give a quick, sharp, shrill cry, as a dog or fox.", "S": ["hoot "], "A": []}
+{"index": 146847, "D": "to give a quick, sharp, shrill cry, as a dog or fox.", "S": ["hoot"], "A": []}

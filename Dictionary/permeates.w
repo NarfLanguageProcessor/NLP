@@ -1,1 +1,1 @@
-{"index": 231591, "D": "to pass into or through every part of", "S": ["imbue ", "impregnate ", "infiltrate ", "infuse ", "invade ", "pass through ", "penetrate ", "percolate ", "pervade ", "saturate ", "seep ", "steep ", "suffuse "], "A": ["dehydrate ", "dry ", "take out "]}
+{"index": 231591, "D": "to pass into or through every part of", "S": ["imbue", "impregnate", "infiltrate", "infuse", "invade", "pass through", "penetrate", "percolate", "pervade", "saturate", "seep", "steep", "suffuse"], "A": ["dehydrate", "dry", "take out"]}

@@ -1,1 +1,1 @@
-{"index": 148430, "D": "impelling", "S": ["propulsive "], "A": ["inactive "]}
+{"index": 148430, "D": "impelling", "S": ["propulsive"], "A": ["inactive"]}

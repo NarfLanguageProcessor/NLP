@@ -1,1 +1,1 @@
-{"index": 60443, "D": [], "S": ["cheap ", "hard-fisted ", "mean ", "miserly ", "parsimonious ", "penny-pinching ", "penurious ", "pinching ", "tight ", "tightfisted "], "A": []}
+{"index": 60443, "D": [], "S": ["cheap", "hard-fisted", "mean", "miserly", "parsimonious", "penny-pinching", "penurious", "pinching", "tight", "tightfisted"], "A": []}

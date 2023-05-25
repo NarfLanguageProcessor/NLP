@@ -1,1 +1,1 @@
-{"index": 232196, "D": "a willful tendency or determination to go counter to what is expected or desired, sometimes for no apparent reason; contrariness", "S": ["bullheadedness ", "determination ", "doggedness ", "mulishness ", "obstinance ", "pertinacity ", "perverseness ", "pigheadedness ", "purpose ", "reluctance ", "tenaciousness ", "tenacity ", "willfulness "], "A": ["irresolution "]}
+{"index": 232196, "D": "a willful tendency or determination to go counter to what is expected or desired, sometimes for no apparent reason; contrariness", "S": [], "A": []}

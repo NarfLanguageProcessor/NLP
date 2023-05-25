@@ -1,1 +1,1 @@
-{"index": 169159, "D": "the platform on which a missile or launch vehicle undergoes final prelaunch checkout and countdown and from which it is launched from the surface of the earth.", "S": ["launching pad "], "A": []}
+{"index": 169159, "D": "the platform on which a missile or launch vehicle undergoes final prelaunch checkout and countdown and from which it is launched from the surface of the earth.", "S": ["launching pad"], "A": []}

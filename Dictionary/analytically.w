@@ -1,1 +1,1 @@
-{"index": 11761, "D": "pertaining to or proceeding by analysis  (opposed to synthetic).", "S": ["empirically ", "on probation ", "on trial ", "provisionally ", "temporarily "], "A": []}
+{"index": 11761, "D": "pertaining to or proceeding by analysis  (opposed to synthetic).", "S": ["empirically", "on probation", "on trial", "provisionally", "temporarily"], "A": []}

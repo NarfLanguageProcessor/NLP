@@ -1,1 +1,0 @@
-{"index": 307340, "D": "of or relating to the corpus callosum.", "S": [], "A": []}

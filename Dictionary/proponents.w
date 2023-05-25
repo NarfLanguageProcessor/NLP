@@ -1,1 +1,1 @@
-{"index": 252756, "D": "a person who puts forward a proposition or proposal.", "S": ["advocate ", "backer ", "defender ", "enthusiast ", "exponent ", "partisan ", "patron ", "protector ", "supporter "], "A": ["antagonist ", "detractor ", "enemy ", "opponent ", "opposition "]}
+{"index": 252756, "D": "a person who puts forward a proposition or proposal.", "S": ["advocate", "backer", "defender", "enthusiast", "exponent", "partisan", "patron", "protector", "supporter"], "A": ["antagonist", "detractor", "enemy", "opponent", "opposition"]}

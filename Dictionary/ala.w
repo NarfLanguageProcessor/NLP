@@ -1,1 +1,1 @@
-{"index": 7220, "D": "a wing.", "S": ["according to ", "in accord with ", "in accordance with ", "in the manner of "], "A": []}
+{"index": 7220, "D": "a wing.", "S": ["according to", "in accord with", "in accordance with", "in the manner of"], "A": []}

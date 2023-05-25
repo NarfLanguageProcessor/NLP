@@ -1,1 +1,1 @@
-{"index": 108702, "D": [], "S": ["communicable ", "communicative ", "convivial ", "extraversive ", "extroversive ", "extroverted ", "extrovertive ", "friendly ", "gregarious ", "sociable ", "social ", "unreserved "], "A": []}
+{"index": 108702, "D": [], "S": ["communicable", "communicative", "convivial", "extraversive", "extroversive", "extroverted", "extrovertive", "friendly", "gregarious", "sociable", "social", "unreserved"], "A": []}

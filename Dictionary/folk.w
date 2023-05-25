@@ -1,1 +1,1 @@
-{"index": 115918, "D": "people in general", "S": ["community ", "family ", "group ", "people ", "public "], "A": []}
+{"index": 115918, "D": "people in general", "S": ["community", "family", "group", "people", "public"], "A": []}

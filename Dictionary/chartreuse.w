@@ -1,1 +1,1 @@
-{"index": 52999, "D": "an aromatic liqueur, usually yellow or green, made by the Carthusian monks at Grenoble, France, and, at one time, at Tarragona, Spain.", "S": ["blue-green ", "olive "], "A": []}
+{"index": 52999, "D": "an aromatic liqueur, usually yellow or green, made by the Carthusian monks at Grenoble, France, and, at one time, at Tarragona, Spain.", "S": ["blue-green", "olive"], "A": []}

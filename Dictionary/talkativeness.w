@@ -1,1 +1,1 @@
-{"index": 315642, "D": "inclined to talk  a great deal", "S": ["garrulousness ", "glibness ", "grandiloquence ", "logorrhea ", "long-windedness ", "loquaciousness ", "prolixity ", "verboseness ", "verbosity ", "volubility ", "wordiness "], "A": []}
+{"index": 315642, "D": "inclined to talk  a great deal", "S": ["garrulousness", "glibness", "grandiloquence", "logorrhea", "long-windedness", "loquaciousness", "prolixity", "verboseness", "verbosity", "volubility", "wordiness"], "A": []}

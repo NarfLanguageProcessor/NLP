@@ -1,1 +1,1 @@
-{"index": 287775, "D": "shining; lustrous.", "S": ["gleaming ", "glossy ", "lustrous ", "polished ", "slick ", "sparkling "], "A": ["dull ", "matte ", "unpolished "]}
+{"index": 287775, "D": "shining; lustrous.", "S": ["gleaming", "glossy", "lustrous", "polished", "slick", "sparkling"], "A": ["dull", "matte", "unpolished"]}

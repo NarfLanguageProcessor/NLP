@@ -1,0 +1,1 @@
+{"index": 20022, "D": "(especially in tailoring and dressmaking) the armhole opening in a garment through which the hand, and then the arm, passes, and to which a sleeve may be attached.", "S": [], "A": []}

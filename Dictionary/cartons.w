@@ -1,1 +1,1 @@
-{"index": 48661, "D": "a cardboard or plastic box used typically for storage or shipping.", "S": ["container ", "crate ", "packet "], "A": []}
+{"index": 48661, "D": "a cardboard or plastic box used typically for storage or shipping.", "S": ["container", "crate", "packet"], "A": []}

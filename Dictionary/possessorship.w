@@ -1,1 +1,1 @@
-{"index": 243876, "D": "to have as belonging to one; have as property; own", "S": ["equity ", "goods ", "ownership ", "property "], "A": []}
+{"index": 243876, "D": "to have as belonging to one; have as property; own", "S": ["equity", "goods", "ownership", "property"], "A": []}

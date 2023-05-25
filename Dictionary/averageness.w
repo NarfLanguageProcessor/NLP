@@ -1,1 +1,1 @@
-{"index": 24671, "D": "a quantity, rating, or the like that represents or approximates an arithmetic mean", "S": ["normality "], "A": []}
+{"index": 24671, "D": "a quantity, rating, or the like that represents or approximates an arithmetic mean", "S": ["normality"], "A": []}

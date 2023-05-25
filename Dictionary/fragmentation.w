@@ -1,1 +1,1 @@
-{"index": 118219, "D": "the act or process of fragmenting;  state of being fragmented. ", "S": ["dissolution "], "A": []}
+{"index": 118219, "D": "the act or process of fragmenting;  state of being fragmented. ", "S": ["dissolution"], "A": []}

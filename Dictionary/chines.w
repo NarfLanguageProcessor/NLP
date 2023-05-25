@@ -1,1 +1,1 @@
-{"index": 54595, "D": "a ravine formed in rock by the action of running water.", "S": ["ridge "], "A": ["bottom ", "nadir "]}
+{"index": 54595, "D": "a ravine formed in rock by the action of running water.", "S": ["ridge"], "A": ["bottom", "nadir"]}

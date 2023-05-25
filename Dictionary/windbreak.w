@@ -1,1 +1,1 @@
-{"index": 365917, "D": "a growth of trees, a structure of boards, or the like, serving as a shelter from the wind. ", "S": ["fence ", "shrubbery "], "A": ["opening "]}
+{"index": 365917, "D": "a growth of trees, a structure of boards, or the like, serving as a shelter from the wind. ", "S": ["fence", "shrubbery"], "A": ["opening"]}

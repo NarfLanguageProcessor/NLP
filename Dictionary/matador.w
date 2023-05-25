@@ -1,1 +1,1 @@
-{"index": 181008, "D": "the principal bullfighter in a bullfight who passes the bull with a muleta and then, in many countries, kills it with a sword thrust; a torero.", "S": ["toreador ", "torero "], "A": []}
+{"index": 181008, "D": "the principal bullfighter in a bullfight who passes the bull with a muleta and then, in many countries, kills it with a sword thrust; a torero.", "S": ["toreador", "torero"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 268620, "D": "reprocessing plant", "S": ["convert "], "A": ["endanger ", "harm ", "hurt ", "lose ", "waste "]}
+{"index": 268620, "D": "reprocessing plant", "S": ["convert"], "A": ["endanger", "harm", "hurt", "lose", "waste"]}

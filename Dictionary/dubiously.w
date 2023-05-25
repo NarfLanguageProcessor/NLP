@@ -1,1 +1,1 @@
-{"index": 93693, "D": "doubtful; marked by or occasioning doubt", "S": ["doubtingly ", "indecisively ", "suspiciously "], "A": []}
+{"index": 93693, "D": "doubtful; marked by or occasioning doubt", "S": ["doubtingly", "indecisively", "suspiciously"], "A": []}

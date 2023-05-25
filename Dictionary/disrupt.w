@@ -1,1 +1,1 @@
-{"index": 89367, "D": "to cause disorder or turmoil in", "S": ["disturb ", "rattle "], "A": ["appease ", "soothe ", "calm ", "clear up ", "compose ", "enlighten ", "explain ", "help ", "order ", "organize "]}
+{"index": 89367, "D": "to cause disorder or turmoil in", "S": ["disturb", "rattle"], "A": ["appease", "soothe", "calm", "clear up", "compose", "enlighten", "explain", "help", "order", "organize"]}

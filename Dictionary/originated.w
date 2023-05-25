@@ -1,1 +1,1 @@
-{"index": 214609, "D": "to take its origin  or rise; begin; start; arise", "S": ["begun ", "commenced ", "created ", "started "], "A": []}
+{"index": 214609, "D": "to take its origin  or rise; begin; start; arise", "S": ["begun", "commenced", "created", "started"], "A": []}

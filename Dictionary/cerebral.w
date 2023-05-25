@@ -1,1 +1,1 @@
-{"index": 51380, "D": "of or relating to the cerebrum or the brain.", "S": ["analytical ", "intelligent "], "A": []}
+{"index": 51380, "D": "of or relating to the cerebrum or the brain.", "S": ["analytical", "intelligent"], "A": []}

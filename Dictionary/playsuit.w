@@ -1,1 +1,0 @@
-{"index": 238846, "D": "a sports costume for women and children, usually consisting of shorts and a shirt, worn as beachwear, for tennis, etc.", "S": [], "A": []}

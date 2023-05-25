@@ -1,1 +1,1 @@
-{"index": 152043, "D": "infinity", "S": ["endlessness ", "infiniteness ", "limitlessness "], "A": []}
+{"index": 152043, "D": "infinity", "S": ["endlessness", "infiniteness", "limitlessness"], "A": []}

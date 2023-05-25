@@ -1,1 +1,1 @@
-{"index": 262858, "D": "a set of instructions for making or preparing something, especially a food dish", "S": ["method ", "prescription ", "program ", "technique "], "A": ["ingredient "]}
+{"index": 262858, "D": "a set of instructions for making or preparing something, especially a food dish", "S": ["method", "prescription", "program", "technique"], "A": ["ingredient"]}

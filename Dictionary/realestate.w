@@ -1,1 +1,1 @@
-{"index": 261715, "D": "property, especially in land", "S": ["land "], "A": []}
+{"index": 261715, "D": "property, especially in land", "S": ["land"], "A": []}

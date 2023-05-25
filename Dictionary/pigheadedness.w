@@ -1,1 +1,1 @@
-{"index": 236388, "D": "stupidly obstinate; stubborn", "S": ["bullheadedness ", "determination ", "doggedness ", "mulishness ", "obstinance ", "pertinacity ", "perverseness ", "perversity ", "purpose ", "reluctance ", "tenaciousness ", "tenacity ", "willfulness "], "A": ["irresolution "]}
+{"index": 236388, "D": "stupidly obstinate; stubborn", "S": ["bullheadedness", "determination", "doggedness", "mulishness", "obstinance", "pertinacity", "perverseness", "perversity", "purpose", "reluctance", "tenaciousness", "tenacity", "willfulness"], "A": ["irresolution"]}

@@ -1,1 +1,1 @@
-{"index": 301365, "D": [], "S": ["bounce ", "energy ", "exuberance ", "frolicsomeness ", "life ", "nervous spirits ", "sportiveness ", "vitality ", "vivacity ", "zing "], "A": []}
+{"index": 301365, "D": [], "S": ["bounce", "energy", "exuberance", "frolicsomeness", "life", "nervous spirits", "sportiveness", "vitality", "vivacity", "zing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 843, "D": "a shortened or condensed form of a book, speech, etc., that still retains the basic contents", "S": ["shortening ", "summary "], "A": ["development ", "enlargement ", "expansion ", "extension ", "growth ", "increase "]}
+{"index": 843, "D": "a shortened or condensed form of a book, speech, etc., that still retains the basic contents", "S": ["shortening", "summary"], "A": ["development", "enlargement", "expansion", "extension", "growth", "increase"]}

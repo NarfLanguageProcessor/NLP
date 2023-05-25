@@ -1,1 +1,1 @@
-{"index": 298504, "D": "the fact or condition of being thinly scattered or distributed and not thick or dense", "S": ["dearth ", "insufficiency ", "smallness "], "A": ["sufficiency ", "abundance ", "enough ", "plenty "]}
+{"index": 298504, "D": "the fact or condition of being thinly scattered or distributed and not thick or dense", "S": ["dearth", "insufficiency", "smallness"], "A": ["sufficiency", "abundance", "enough", "plenty"]}

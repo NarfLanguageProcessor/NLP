@@ -1,1 +1,1 @@
-{"index": 95509, "D": "the outer germ layer in the embryo of a metazoan.", "S": ["fur ", "leather ", "skin ", "wool "], "A": []}
+{"index": 95509, "D": "the outer germ layer in the embryo of a metazoan.", "S": ["fur", "leather", "skin", "wool"], "A": []}

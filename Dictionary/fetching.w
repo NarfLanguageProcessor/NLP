@@ -1,1 +1,1 @@
-{"index": 111732, "D": "charming; captivating. ", "S": ["enchanting "], "A": ["repulsive "]}
+{"index": 111732, "D": "charming; captivating. ", "S": ["enchanting"], "A": ["repulsive"]}

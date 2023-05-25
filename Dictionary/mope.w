@@ -1,1 +1,1 @@
-{"index": 193210, "D": "to be sunk in dejection or listless apathy; sulk; brood.", "S": ["brood ", "sulk "], "A": ["compliment ", "despise ", "dislike ", "grow ", "hate ", "please ", "praise ", "rise ", "strengthen "]}
+{"index": 193210, "D": "to be sunk in dejection or listless apathy; sulk; brood.", "S": ["brood", "sulk"], "A": ["compliment", "despise", "dislike", "grow", "hate", "please", "praise", "rise", "strengthen"]}

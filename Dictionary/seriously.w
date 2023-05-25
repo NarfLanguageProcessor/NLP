@@ -1,1 +1,1 @@
-{"index": 286135, "D": "in a serious  manner", "S": ["actively ", "earnestly ", "passionately ", "sincerely ", "vigorously "], "A": ["casually ", "lightly ", "minor "]}
+{"index": 286135, "D": "in a serious  manner", "S": ["actively", "earnestly", "passionately", "sincerely", "vigorously"], "A": ["casually", "lightly", "minor"]}

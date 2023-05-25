@@ -1,1 +1,1 @@
-{"index": 161188, "D": "a very short time; moment", "S": ["breathing ", "burst ", "crack ", "instant ", "jiffy ", "minute ", "moment ", "outburst ", "second ", "shake ", "show ", "trice ", "twinkle ", "twinkling ", "wink "], "A": []}
+{"index": 161188, "D": "a very short time; moment", "S": ["breathing", "burst", "crack", "instant", "jiffy", "minute", "moment", "outburst", "second", "shake", "show", "trice", "twinkle", "twinkling", "wink"], "A": []}

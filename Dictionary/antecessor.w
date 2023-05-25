@@ -1,0 +1,1 @@
+{"index": 14090, "D": "a person who goes before; predecessor.", "S": ["forebear", "forefather", "founder"], "A": ["descendant"]}

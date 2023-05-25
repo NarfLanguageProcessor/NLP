@@ -1,1 +1,1 @@
-{"index": 318205, "D": "to transport (a body) by telekinesis.", "S": ["beam "], "A": []}
+{"index": 318205, "D": "to transport (a body) by telekinesis.", "S": ["beam"], "A": []}

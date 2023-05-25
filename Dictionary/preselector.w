@@ -1,1 +1,0 @@
-{"index": 249328, "D": "a preamplifier between the antenna and receiving circuit, used to improve reception.", "S": [], "A": []}

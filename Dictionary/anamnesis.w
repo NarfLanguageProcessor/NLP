@@ -1,1 +1,1 @@
-{"index": 11828, "D": "the recollection or remembrance of the past; reminiscence.", "S": ["medical history "], "A": []}
+{"index": 11828, "D": "the recollection or remembrance of the past; reminiscence.", "S": ["medical history"], "A": []}

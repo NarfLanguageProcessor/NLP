@@ -1,1 +1,1 @@
-{"index": 359564, "D": "angry, furious, or disgusted", "S": ["contend ", "strive "], "A": ["agree ", "aid ", "assist ", "help ", "support "]}
+{"index": 359564, "D": "angry, furious, or disgusted", "S": ["contend", "strive"], "A": ["agree", "aid", "assist", "help", "support"]}

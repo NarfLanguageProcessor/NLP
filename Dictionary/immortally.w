@@ -1,1 +1,1 @@
-{"index": 148090, "D": "not mortal; not liable or subject to death; undying", "S": ["always ", "endlessly ", "eternally ", "permanently "], "A": ["briefly ", "never ", "temporarily "]}
+{"index": 148090, "D": "not mortal; not liable or subject to death; undying", "S": ["always", "endlessly", "eternally", "permanently"], "A": ["briefly", "never", "temporarily"]}

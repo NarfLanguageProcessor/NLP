@@ -1,1 +1,1 @@
-{"index": 32973, "D": "completely puzzled or confused; perplexed.", "S": ["astonished ", "awed ", "baffled ", "befuddled ", "dazed ", "mystified ", "perplexed ", "puzzled ", "rattled ", "shocked ", "startled ", "stunned ", "surprised "], "A": ["aware ", "clear "]}
+{"index": 32973, "D": "completely puzzled or confused; perplexed.", "S": ["astonished", "awed", "baffled", "befuddled", "dazed", "mystified", "perplexed", "puzzled", "rattled", "shocked", "startled", "stunned", "surprised"], "A": ["aware", "clear"]}

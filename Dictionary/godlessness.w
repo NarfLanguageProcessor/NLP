@@ -1,1 +1,1 @@
-{"index": 127351, "D": "having or acknowledging no god or deity; atheistic.", "S": ["nihilism "], "A": ["belief ", "trust "]}
+{"index": 127351, "D": "having or acknowledging no god or deity; atheistic.", "S": ["nihilism"], "A": ["belief", "trust"]}

@@ -1,1 +1,1 @@
-{"index": 323781, "D": "a person or thing that times. ", "S": ["clock ", "hourglass ", "metronome ", "timepiece "], "A": []}
+{"index": 323781, "D": "a person or thing that times. ", "S": ["clock", "hourglass", "metronome", "timepiece"], "A": []}

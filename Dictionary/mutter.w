@@ -1,1 +1,1 @@
-{"index": 196311, "D": "to utter words indistinctly or in a low tone, often as if talking to oneself; murmur.", "S": ["complain ", "groan ", "growl ", "moan ", "murmur ", "snarl ", "sputter ", "whisper "], "A": []}
+{"index": 196311, "D": "to utter words indistinctly or in a low tone, often as if talking to oneself; murmur.", "S": ["complain", "groan", "growl", "moan", "murmur", "snarl", "sputter", "whisper"], "A": []}

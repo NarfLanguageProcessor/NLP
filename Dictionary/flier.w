@@ -1,1 +1,1 @@
-{"index": 114579, "D": "something that flies,  as a bird or insect.", "S": ["aviator "], "A": []}
+{"index": 114579, "D": "something that flies,  as a bird or insect.", "S": ["aviator"], "A": []}

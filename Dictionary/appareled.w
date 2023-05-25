@@ -1,1 +1,1 @@
-{"index": 17568, "D": "clothing, especially outerwear; garments; attire; raiment.", "S": ["armed ", "clothed ", "dressed ", "furnished ", "rigged ", "supplied "], "A": ["bare ", "stripped ", "unfurnished "]}
+{"index": 17568, "D": "clothing, especially outerwear; garments; attire; raiment.", "S": ["armed", "clothed", "dressed", "furnished", "rigged", "supplied"], "A": ["bare", "stripped", "unfurnished"]}

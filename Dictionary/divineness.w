@@ -1,1 +1,1 @@
-{"index": 90349, "D": "of or relating to a god, especially the Supreme Being. ", "S": ["humility ", "purity ", "righteousness ", "sanctity "], "A": ["agnosticism ", "atheism ", "sin ", "wickedness "]}
+{"index": 90349, "D": "of or relating to a god, especially the Supreme Being. ", "S": ["humility", "purity", "righteousness", "sanctity"], "A": ["agnosticism", "atheism", "sin", "wickedness"]}

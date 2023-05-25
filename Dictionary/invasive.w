@@ -1,1 +1,1 @@
-{"index": 157053, "D": "characterized by or involving invasion;  offensive", "S": ["nosy "], "A": []}
+{"index": 157053, "D": "characterized by or involving invasion;  offensive", "S": ["nosy"], "A": []}

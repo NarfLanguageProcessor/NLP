@@ -1,1 +1,1 @@
-{"index": 186, "D": "Ferhat. 1899\u20131985, Algerian nationalist leader", "S": ["administrator ", "cleric ", "director ", "patriarch ", "pontiff ", "pope ", "prelate ", "priest "], "A": []}
+{"index": 186, "D": "Ferhat. 1899\u20131985, Algerian nationalist leader", "S": ["administrator", "cleric", "director", "patriarch", "pontiff", "pope", "prelate", "priest"], "A": []}

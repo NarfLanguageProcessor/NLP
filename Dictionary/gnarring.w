@@ -1,1 +1,1 @@
-{"index": 127024, "D": "to snarl; growl.", "S": ["grunt ", "howl ", "moan ", "rumble "], "A": []}
+{"index": 127024, "D": "to snarl; growl.", "S": ["grunt", "howl", "moan", "rumble"], "A": []}

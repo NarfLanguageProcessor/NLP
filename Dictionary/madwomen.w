@@ -1,1 +1,1 @@
-{"index": 177280, "D": "a woman who is or behaves as if insane.", "S": ["dingbat ", "eccentric ", "flake ", "fool ", "kook ", "loon ", "lunatic ", "madman ", "maniac ", "nut ", "nut case ", "oddball ", "screwball ", "wacko ", "weirdo "], "A": []}
+{"index": 177280, "D": "a woman who is or behaves as if insane.", "S": ["dingbat", "eccentric", "flake", "fool", "kook", "loon", "lunatic", "madman", "maniac", "nut", "nut case", "oddball", "screwball", "wacko", "weirdo"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 333847, "D": "Compare instant (def. 11), proximo. ", "S": [], "A": []}

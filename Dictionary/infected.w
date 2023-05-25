@@ -1,1 +1,1 @@
-{"index": 151862, "D": "to affect or contaminate (a person, organ, wound, etc.) with disease-producing germs.", "S": ["altered ", "contaminated ", "decayed ", "defiled ", "distorted ", "doctored ", "falsified ", "foul ", "polluted ", "tainted "], "A": ["clean ", "pure "]}
+{"index": 151862, "D": "to affect or contaminate (a person, organ, wound, etc.) with disease-producing germs.", "S": ["altered", "contaminated", "decayed", "defiled", "distorted", "doctored", "falsified", "foul", "polluted", "tainted"], "A": ["clean", "pure"]}

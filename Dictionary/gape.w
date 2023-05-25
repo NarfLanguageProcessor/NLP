@@ -1,1 +1,1 @@
-{"index": 122012, "D": "to stare with open mouth, as in wonder.", "S": ["glare ", "gloat ", "stare "], "A": ["ignore "]}
+{"index": 122012, "D": "to stare with open mouth, as in wonder.", "S": ["glare", "gloat", "stare"], "A": ["ignore"]}

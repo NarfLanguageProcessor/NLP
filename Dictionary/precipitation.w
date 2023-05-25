@@ -1,1 +1,1 @@
-{"index": 246119, "D": "the act of precipitating; state of being precipitated.", "S": ["drizzle ", "rain ", "rainfall ", "rainstorm ", "sleet ", "snow ", "storm "], "A": ["dryness "]}
+{"index": 246119, "D": "the act of precipitating; state of being precipitated.", "S": ["drizzle", "rain", "rainfall", "rainstorm", "sleet", "snow", "storm"], "A": ["dryness"]}

@@ -1,0 +1,1 @@
+{"index": 22001, "D": "a rare element of the halogen family. Symbol", "S": [], "A": []}

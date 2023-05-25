@@ -1,1 +1,1 @@
-{"index": 31190, "D": "all that a person can tolerate", "S": ["glut ", "plethora ", "profusion "], "A": ["lack ", "need ", "want "]}
+{"index": 31190, "D": "all that a person can tolerate", "S": ["glut", "plethora", "profusion"], "A": ["lack", "need", "want"]}

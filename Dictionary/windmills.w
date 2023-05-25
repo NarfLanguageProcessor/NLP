@@ -1,1 +1,1 @@
-{"index": 365994, "D": "any of various machines for grinding, pumping, etc., driven by the force of the wind  acting upon a number of vanes or sails.", "S": ["blade ", "draft ", "leaf ", "propeller ", "vane ", "ventilator "], "A": []}
+{"index": 365994, "D": "any of various machines for grinding, pumping, etc., driven by the force of the wind  acting upon a number of vanes or sails.", "S": ["blade", "draft", "leaf", "propeller", "vane", "ventilator"], "A": []}

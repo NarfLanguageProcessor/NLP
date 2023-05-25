@@ -1,1 +1,1 @@
-{"index": 287145, "D": "rough, matted hair, wool, or the like.", "S": ["dash ", "fly ", "jog ", "race ", "rush ", "shoot ", "sprint ", "travel "], "A": ["remain ", "stay ", "walk ", "dally ", "dawdle ", "delay ", "linger ", "procrastinate ", "slow ", "wait "]}
+{"index": 287145, "D": "rough, matted hair, wool, or the like.", "S": ["dash", "fly", "jog", "race", "rush", "shoot", "sprint", "travel"], "A": ["remain", "stay", "walk", "dally", "dawdle", "delay", "linger", "procrastinate", "slow", "wait"]}

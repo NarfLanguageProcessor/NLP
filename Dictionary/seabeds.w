@@ -1,1 +1,1 @@
-{"index": 282393, "D": "seafloor. ", "S": ["bottom of the ocean ", "ocean bottom ", "ocean floor ", "sea bottom "], "A": []}
+{"index": 282393, "D": "seafloor. ", "S": ["bottom of the ocean", "ocean bottom", "ocean floor", "sea bottom"], "A": []}

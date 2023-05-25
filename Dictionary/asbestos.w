@@ -1,1 +1,1 @@
-{"index": 20876, "D": "a fibrous mineral, either amphibole or chrysotile, formerly used for making incombustible or fireproof articles.", "S": ["concrete "], "A": ["waterproof "]}
+{"index": 20876, "D": "a fibrous mineral, either amphibole or chrysotile, formerly used for making incombustible or fireproof articles.", "S": ["concrete"], "A": ["waterproof"]}

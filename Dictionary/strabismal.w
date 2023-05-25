@@ -1,1 +1,1 @@
-{"index": 305580, "D": "a disorder of vision due to a deviation from normal orientation of one or both eyes so that both cannot be directed at the same object at the same time; squint; crossed eyes.", "S": ["boss-eyed ", "squint-eyed ", "strabismic ", "strabismical ", "walleyed "], "A": []}
+{"index": 305580, "D": "a disorder of vision due to a deviation from normal orientation of one or both eyes so that both cannot be directed at the same object at the same time; squint; crossed eyes.", "S": ["boss-eyed", "squint-eyed", "strabismic", "strabismical", "walleyed"], "A": []}

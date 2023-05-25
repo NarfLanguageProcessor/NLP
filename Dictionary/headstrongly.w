@@ -1,1 +1,1 @@
-{"index": 134731, "D": "determined to have one's own way; willful; stubborn; obstinate", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}
+{"index": 134731, "D": "determined to have one's own way; willful; stubborn; obstinate", "S": ["mulishly", "obdurately"], "A": ["graciously", "obediently"]}

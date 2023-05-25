@@ -1,1 +1,1 @@
-{"index": 128558, "D": "taking place, changing, moving, etc., by small degrees or little by little", "S": ["continuous ", "creeping ", "piecemeal ", "progressive ", "slow ", "steady ", "step-by-step "], "A": ["discontinuous ", "intermittent ", "irregular "]}
+{"index": 128558, "D": "taking place, changing, moving, etc., by small degrees or little by little", "S": ["continuous", "creeping", "piecemeal", "progressive", "slow", "steady", "step-by-step"], "A": ["discontinuous", "intermittent", "irregular"]}

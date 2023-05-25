@@ -1,1 +1,1 @@
-{"index": 318498, "D": "an office worker hired, usually through an agency on a per diem basis, for a short period of time; a temporary worker.", "S": ["alternative ", "expedient ", "make-do ", "stopgap ", "substitute ", "throwaway "], "A": ["complete ", "finished ", "permanent ", "ready "]}
+{"index": 318498, "D": "an office worker hired, usually through an agency on a per diem basis, for a short period of time; a temporary worker.", "S": ["alternative", "expedient", "make-do", "stopgap", "substitute", "throwaway"], "A": ["complete", "finished", "permanent", "ready"]}

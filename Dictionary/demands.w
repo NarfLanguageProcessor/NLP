@@ -1,1 +1,1 @@
-{"index": 80359, "D": "to ask for with proper authority; claim as a right", "S": ["exigencies ", "exigency ", "necessity ", "need ", "needs ", "requirement ", "requirements ", "want "], "A": []}
+{"index": 80359, "D": "to ask for with proper authority; claim as a right", "S": ["exigencies", "exigency", "necessity", "need", "needs", "requirement", "requirements", "want"], "A": []}

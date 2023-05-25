@@ -1,1 +1,1 @@
-{"index": 30606, "D": "a person who begs  alms or lives by begging. ", "S": ["bum ", "panhandler ", "vagabond "], "A": []}
+{"index": 30606, "D": "a person who begs  alms or lives by begging. ", "S": ["bum", "panhandler", "vagabond"], "A": []}

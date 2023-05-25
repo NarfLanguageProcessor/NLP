@@ -1,1 +1,1 @@
-{"index": 267245, "D": "a retained mental impression; memory.", "S": ["collectibles "], "A": []}
+{"index": 267245, "D": "a retained mental impression; memory.", "S": ["collectibles"], "A": []}

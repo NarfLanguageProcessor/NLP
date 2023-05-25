@@ -1,1 +1,1 @@
-{"index": 74824, "D": "prepared and used for raising crops; tilled", "S": ["polished ", "refined ", "sophisticated "], "A": ["uncultured ", "unrefined ", "unsophisticated ", "ignorant ", "stupid ", "uneducated ", "uninformed "]}
+{"index": 74824, "D": "prepared and used for raising crops; tilled", "S": ["polished", "refined", "sophisticated"], "A": ["uncultured", "unrefined", "unsophisticated", "ignorant", "stupid", "uneducated", "uninformed"]}

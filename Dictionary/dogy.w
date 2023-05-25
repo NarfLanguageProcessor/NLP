@@ -1,1 +1,1 @@
-{"index": 90934, "D": "a variant of dogie. ", "S": ["herd ", "oxen "], "A": []}
+{"index": 90934, "D": "a variant of dogie. ", "S": ["herd", "oxen"], "A": []}

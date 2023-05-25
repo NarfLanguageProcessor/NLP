@@ -1,1 +1,1 @@
-{"index": 44883, "D": "a white or tinted wash for walls, ceilings, etc.", "S": ["dauber "], "A": []}
+{"index": 44883, "D": "a white or tinted wash for walls, ceilings, etc.", "S": ["dauber"], "A": []}

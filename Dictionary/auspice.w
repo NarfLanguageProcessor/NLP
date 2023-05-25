@@ -1,1 +1,1 @@
-{"index": 23681, "D": "patronage; support; sponsorship", "S": ["augury ", "foreshadowing ", "harbinger ", "portent ", "prognostication ", "sign ", "warning "], "A": []}
+{"index": 23681, "D": "patronage; support; sponsorship", "S": ["augury", "foreshadowing", "harbinger", "portent", "prognostication", "sign", "warning"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22037, "D": "a small starlike symbol (*), used in writing and printing as a reference mark or to indicate omission, doubtful matter, etc.", "S": [], "A": []}

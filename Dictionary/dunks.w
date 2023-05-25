@@ -1,1 +1,1 @@
-{"index": 94203, "D": "to dip (a doughnut, cake, etc.) into coffee, milk, or the like, before eating.", "S": ["douse ", "soak "], "A": ["dry ", "dehydrate "]}
+{"index": 94203, "D": "to dip (a doughnut, cake, etc.) into coffee, milk, or the like, before eating.", "S": ["douse", "soak"], "A": ["dry", "dehydrate"]}

@@ -1,1 +1,1 @@
-{"index": 274234, "D": "a breeding place or colony of gregarious birds or animals, as penguins and seals.", "S": ["hatchery "], "A": []}
+{"index": 274234, "D": "a breeding place or colony of gregarious birds or animals, as penguins and seals.", "S": ["hatchery"], "A": []}

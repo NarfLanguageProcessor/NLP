@@ -1,1 +1,1 @@
-{"index": 131584, "D": "jazz played in the raucous and high-spirited style of barrelhouse.", "S": ["beer belly ", "breadbasket ", "love handles ", "middle-age spread ", "paunch ", "pot belly ", "spare tire "], "A": []}
+{"index": 131584, "D": "jazz played in the raucous and high-spirited style of barrelhouse.", "S": ["beer belly", "breadbasket", "love handles", "middle-age spread", "paunch", "pot belly", "spare tire"], "A": []}

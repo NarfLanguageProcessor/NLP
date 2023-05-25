@@ -1,1 +1,1 @@
-{"index": 107601, "D": "the quality or state of expecting; expectation;  anticipatory belief or desire.", "S": ["belief ", "expectancy ", "expectation ", "hope ", "likelihood ", "probability "], "A": []}
+{"index": 107601, "D": "the quality or state of expecting; expectation;  anticipatory belief or desire.", "S": ["belief", "expectancy", "expectation", "hope", "likelihood", "probability"], "A": []}

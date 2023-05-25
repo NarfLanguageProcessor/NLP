@@ -1,1 +1,1 @@
-{"index": 361797, "D": "to carry lightly and smoothly through the air or over water", "S": ["drift ", "float "], "A": ["hold ", "keep ", "take "]}
+{"index": 361797, "D": "to carry lightly and smoothly through the air or over water", "S": ["drift", "float"], "A": ["hold", "keep", "take"]}

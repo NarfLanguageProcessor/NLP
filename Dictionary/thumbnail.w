@@ -1,1 +1,1 @@
-{"index": 322969, "D": "the nail  of the thumb. ", "S": ["brief ", "compact ", "short ", "summary "], "A": ["large ", "lengthy ", "long ", "unabridged "]}
+{"index": 322969, "D": "the nail  of the thumb. ", "S": ["brief", "compact", "short", "summary"], "A": ["large", "lengthy", "long", "unabridged"]}

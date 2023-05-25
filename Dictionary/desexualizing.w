@@ -1,1 +1,1 @@
-{"index": 82539, "D": "to render sexual;  endow with sexual characteristics.", "S": ["change ", "fix "], "A": ["breed "]}
+{"index": 82539, "D": "to render sexual;  endow with sexual characteristics.", "S": ["change", "fix"], "A": ["breed"]}

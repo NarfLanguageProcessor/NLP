@@ -1,1 +1,1 @@
-{"index": 122298, "D": "the quality of being garrulous;  talkativeness; loquacity.", "S": ["garrulousness ", "glibness ", "grandiloquence ", "logorrhea ", "long-windedness ", "loquaciousness ", "prolixity ", "talkativeness ", "verboseness ", "verbosity ", "volubility ", "wordiness "], "A": []}
+{"index": 122298, "D": "the quality of being garrulous;  talkativeness; loquacity.", "S": ["garrulousness", "glibness", "grandiloquence", "logorrhea", "long-windedness", "loquaciousness", "prolixity", "talkativeness", "verboseness", "verbosity", "volubility", "wordiness"], "A": []}

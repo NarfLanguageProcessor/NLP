@@ -1,1 +1,1 @@
-{"index": 117516, "D": "to express in precise form; state definitely or systematically", "S": ["establishment ", "formation ", "production "], "A": ["being ", "conclusion ", "end ", "finish "]}
+{"index": 117516, "D": "to express in precise form; state definitely or systematically", "S": ["establishment", "formation", "production"], "A": ["being", "conclusion", "end", "finish"]}

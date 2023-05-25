@@ -1,1 +1,1 @@
-{"index": 269870, "D": "to begin or set out, as on a journey or activity.", "S": ["proceed ", "reestablish ", "reinstate ", "renew ", "reopen ", "restore ", "resume ", "return to "], "A": ["finish ", "halt ", "stop "]}
+{"index": 269870, "D": "to begin or set out, as on a journey or activity.", "S": ["proceed", "reestablish", "reinstate", "renew", "reopen", "restore", "resume", "return to"], "A": ["finish", "halt", "stop"]}

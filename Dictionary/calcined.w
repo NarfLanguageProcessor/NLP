@@ -1,1 +1,1 @@
-{"index": 44892, "D": "to convert into calx by heating or burning.", "S": ["blaze ", "char ", "heat ", "ignite ", "incinerate ", "light ", "melt ", "scorch ", "smolder ", "torch "], "A": ["extinguish ", "freeze ", "put out "]}
+{"index": 44892, "D": "to convert into calx by heating or burning.", "S": ["blaze", "char", "heat", "ignite", "incinerate", "light", "melt", "scorch", "smolder", "torch"], "A": ["extinguish", "freeze", "put out"]}

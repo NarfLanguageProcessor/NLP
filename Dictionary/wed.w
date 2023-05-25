@@ -1,1 +1,1 @@
-{"index": 363690, "D": "to marry (another person) in a formal ceremony.", "S": ["couple ", "espouse ", "join ", "tie ", "unite "], "A": ["disconnect ", "disjoin ", "divide ", "separate "]}
+{"index": 363690, "D": "to marry (another person) in a formal ceremony.", "S": ["couple", "espouse", "join", "tie", "unite"], "A": ["disconnect", "disjoin", "divide", "separate"]}

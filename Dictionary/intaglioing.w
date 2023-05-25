@@ -1,1 +1,1 @@
-{"index": 154189, "D": "incised carving, as opposed to carving in relief.", "S": ["chisel ", "embed ", "etch ", "imprint ", "ingrain ", "inscribe "], "A": ["aid ", "dislodge ", "help ", "neglect "]}
+{"index": 154189, "D": "incised carving, as opposed to carving in relief.", "S": ["chisel", "embed", "etch", "imprint", "ingrain", "inscribe"], "A": ["aid", "dislodge", "help", "neglect"]}

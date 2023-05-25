@@ -1,1 +1,1 @@
-{"index": 270565, "D": "that retires. ", "S": ["humble ", "quiet ", "reserved ", "restrained ", "shrinking ", "withdrawing ", "withdrawn "], "A": ["bold ", "extroverted ", "friendly ", "outgoing ", "sociable "]}
+{"index": 270565, "D": "that retires. ", "S": ["humble", "quiet", "reserved", "restrained", "shrinking", "withdrawing", "withdrawn"], "A": ["bold", "extroverted", "friendly", "outgoing", "sociable"]}

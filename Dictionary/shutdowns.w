@@ -1,1 +1,1 @@
-{"index": 289399, "D": "a shutting down, as of a factory, school, or machine; a termination or suspension of operations, services, or business activity", "S": ["closedown ", "closure ", "stoppage "], "A": ["beginning ", "start "]}
+{"index": 289399, "D": "a shutting down, as of a factory, school, or machine; a termination or suspension of operations, services, or business activity", "S": ["closedown", "closure", "stoppage"], "A": ["beginning", "start"]}

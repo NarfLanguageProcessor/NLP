@@ -1,1 +1,1 @@
-{"index": 262555, "D": "to bring back from memory; recollect; remember", "S": ["recollected "], "A": []}
+{"index": 262555, "D": "to bring back from memory; recollect; remember", "S": ["recollected"], "A": []}

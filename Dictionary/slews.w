@@ -1,1 +1,1 @@
-{"index": 293993, "D": "simple past tense of slay. ", "S": ["abundance ", "aggregation ", "batch ", "bunch ", "bundle ", "multiplicity ", "plenty ", "profusion ", "ream ", "scad "], "A": ["individual ", "lack ", "debt ", "ditch ", "little ", "need ", "part ", "valley "]}
+{"index": 293993, "D": "simple past tense of slay. ", "S": ["abundance", "aggregation", "batch", "bunch", "bundle", "multiplicity", "plenty", "profusion", "ream", "scad"], "A": ["individual", "lack", "debt", "ditch", "little", "need", "part", "valley"]}

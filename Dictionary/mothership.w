@@ -1,1 +1,1 @@
-{"index": 193958, "D": "a vessel or craft that services others operating far from a home port or center.", "S": ["parenthood "], "A": []}
+{"index": 193958, "D": "a vessel or craft that services others operating far from a home port or center.", "S": ["parenthood"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 71531, "D": "a conspiracy between two or more persons to act to the detriment or injury of another", "S": ["plot ", "scheme ", "sedition ", "treason "], "A": ["faithfulness ", "honesty ", "ignorance ", "loyalty "]}
+{"index": 71531, "D": "a conspiracy between two or more persons to act to the detriment or injury of another", "S": ["plot", "scheme", "sedition", "treason"], "A": ["faithfulness", "honesty", "ignorance", "loyalty"]}

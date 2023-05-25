@@ -1,1 +1,1 @@
-{"index": 294130, "D": "to move or go in a furtive, abject manner, as from fear, cowardice, or shame.", "S": ["lurk ", "meander ", "prowl ", "sidle ", "skitter ", "skulk ", "slither ", "sneak ", "undulate "], "A": []}
+{"index": 294130, "D": "to move or go in a furtive, abject manner, as from fear, cowardice, or shame.", "S": ["lurk", "meander", "prowl", "sidle", "skitter", "skulk", "slither", "sneak", "undulate"], "A": []}

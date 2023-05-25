@@ -1,1 +1,1 @@
-{"index": 334928, "D": [], "S": ["deficient ", "faulty ", "inadequate ", "incomplete ", "meager ", "poor ", "scant ", "scarce ", "unsatisfactory "], "A": ["adequate ", "enough ", "perfect ", "satisfactory ", "strong ", "sufficient "]}
+{"index": 334928, "D": [], "S": ["deficient", "faulty", "inadequate", "incomplete", "meager", "poor", "scant", "scarce", "unsatisfactory"], "A": ["adequate", "enough", "perfect", "satisfactory", "strong", "sufficient"]}

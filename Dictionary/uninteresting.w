@@ -1,1 +1,1 @@
-{"index": 344723, "D": "lifeless and uninteresting", "S": ["depressing ", "dreary ", "humdrum ", "stale ", "tedious ", "tiresome ", "unexciting "], "A": ["exciting ", "happy "]}
+{"index": 344723, "D": "lifeless and uninteresting", "S": ["depressing", "dreary", "humdrum", "stale", "tedious", "tiresome", "unexciting"], "A": ["exciting", "happy"]}

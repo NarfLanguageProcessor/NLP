@@ -1,1 +1,1 @@
-{"index": 361402, "D": "a person who is bound by solemn religious vows, as a monk or a nun.", "S": ["aficionado ", "fanatic ", "freak ", "maniac "], "A": []}
+{"index": 361402, "D": "a person who is bound by solemn religious vows, as a monk or a nun.", "S": ["aficionado", "fanatic", "freak", "maniac"], "A": []}

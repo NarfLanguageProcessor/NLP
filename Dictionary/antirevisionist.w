@@ -1,0 +1,1 @@
+{"index": 16089, "D": "an advocate of revision,  especially of some political or religious doctrine.", "S": [], "A": []}

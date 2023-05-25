@@ -1,1 +1,1 @@
-{"index": 154099, "D": "incapable of being passed over, overcome, or surmounted", "S": ["impossible ", "insurmountable ", "overwhelming "], "A": []}
+{"index": 154099, "D": "incapable of being passed over, overcome, or surmounted", "S": ["impossible", "insurmountable", "overwhelming"], "A": []}

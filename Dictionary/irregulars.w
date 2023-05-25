@@ -1,1 +1,1 @@
-{"index": 158260, "D": "without symmetry, even shape, formal arrangement, etc.", "S": ["commando ", "mercenary ", "terrorist "], "A": []}
+{"index": 158260, "D": "without symmetry, even shape, formal arrangement, etc.", "S": ["commando", "mercenary", "terrorist"], "A": []}

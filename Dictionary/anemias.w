@@ -1,1 +1,1 @@
-{"index": 12499, "D": "a quantitative deficiency of the hemoglobin, often accompanied by a reduced number of red blood cells and causing pallor, weakness, and breathlessness.", "S": ["chlorosis ", "emptiness ", "ischemia ", "lifelessness "], "A": []}
+{"index": 12499, "D": "a quantitative deficiency of the hemoglobin, often accompanied by a reduced number of red blood cells and causing pallor, weakness, and breathlessness.", "S": ["chlorosis", "emptiness", "ischemia", "lifelessness"], "A": []}

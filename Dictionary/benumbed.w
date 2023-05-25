@@ -1,1 +1,1 @@
-{"index": 31714, "D": "to make numb; deprive of sensation", "S": ["deadened "], "A": []}
+{"index": 31714, "D": "to make numb; deprive of sensation", "S": ["deadened"], "A": []}

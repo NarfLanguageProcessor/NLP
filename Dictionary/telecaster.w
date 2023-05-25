@@ -1,1 +1,1 @@
-{"index": 317995, "D": "to broadcast  by television. ", "S": ["broadcaster ", "disc jockey ", "newscaster ", "reporter "], "A": []}
+{"index": 317995, "D": "to broadcast  by television. ", "S": ["broadcaster", "disc jockey", "newscaster", "reporter"], "A": []}

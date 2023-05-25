@@ -1,1 +1,1 @@
-{"index": 59373, "D": "a device, usually of metal, for fastening together two or more things or parts of the same thing", "S": ["bordered ", "enclosed ", "mounted ", "wrapped "], "A": []}
+{"index": 59373, "D": "a device, usually of metal, for fastening together two or more things or parts of the same thing", "S": ["bordered", "enclosed", "mounted", "wrapped"], "A": []}

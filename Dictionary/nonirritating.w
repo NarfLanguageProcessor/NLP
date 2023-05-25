@@ -1,1 +1,1 @@
-{"index": 204914, "D": "causing irritation; annoying; provoking; irritating questions.", "S": ["soft "], "A": ["bitter ", "caustic ", "severe ", "sharp ", "tasty "]}
+{"index": 204914, "D": "causing irritation; annoying; provoking; irritating questions.", "S": ["soft"], "A": ["bitter", "caustic", "severe", "sharp", "tasty"]}

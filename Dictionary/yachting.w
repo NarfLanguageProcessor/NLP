@@ -1,1 +1,1 @@
-{"index": 145485, "D": "the practice or sport of sailing or voyaging in a yacht. ", "S": ["maritime ", "navigational ", "seafaring "], "A": []}
+{"index": 145485, "D": "the practice or sport of sailing or voyaging in a yacht. ", "S": ["maritime", "navigational", "seafaring"], "A": []}

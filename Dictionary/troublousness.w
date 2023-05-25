@@ -1,1 +1,0 @@
-{"index": 331337, "D": "characterized by trouble;  unsettled", "S": [], "A": []}

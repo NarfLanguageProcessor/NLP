@@ -1,1 +1,1 @@
-{"index": 1220, "D": "a secondary or high school, especially a private one", "S": ["boarding school ", "institute ", "prep school ", "secondary school ", "seminary "], "A": []}
+{"index": 1220, "D": "a secondary or high school, especially a private one", "S": ["boarding school", "institute", "prep school", "secondary school", "seminary"], "A": []}

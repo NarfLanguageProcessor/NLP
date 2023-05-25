@@ -1,1 +1,1 @@
-{"index": 75018, "D": "a small conduit or burrow, as an underground drain or rabbit hole.", "S": ["bunny ", "hare ", "rodent "], "A": []}
+{"index": 75018, "D": "a small conduit or burrow, as an underground drain or rabbit hole.", "S": ["bunny", "hare", "rodent"], "A": []}

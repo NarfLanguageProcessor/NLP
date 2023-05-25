@@ -1,1 +1,1 @@
-{"index": 134814, "D": "a vehicle for conveying a dead person to the place of burial.", "S": ["catafalque ", "coffin ", "grave ", "pyre ", "support "], "A": []}
+{"index": 134814, "D": "a vehicle for conveying a dead person to the place of burial.", "S": ["catafalque", "coffin", "grave", "pyre", "support"], "A": []}

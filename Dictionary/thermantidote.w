@@ -1,1 +1,0 @@
-{"index": 321335, "D": [], "S": ["blade ", "draft ", "leaf ", "propeller ", "vane ", "ventilator ", "windmill "], "A": []}

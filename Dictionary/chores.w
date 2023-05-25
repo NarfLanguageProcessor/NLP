@@ -1,1 +1,1 @@
-{"index": 55783, "D": "a small or odd job; routine task.", "S": ["agenda ", "business ", "calendar ", "record ", "schedule ", "slate "], "A": []}
+{"index": 55783, "D": "a small or odd job; routine task.", "S": ["agenda", "business", "calendar", "record", "schedule", "slate"], "A": []}

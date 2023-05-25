@@ -1,1 +1,1 @@
-{"index": 87720, "D": "apart or detached from others; separate; distinct", "S": ["differentiation ", "individuality ", "particularity ", "separateness ", "singularity "], "A": []}
+{"index": 87720, "D": "apart or detached from others; separate; distinct", "S": ["differentiation", "individuality", "particularity", "separateness", "singularity"], "A": []}

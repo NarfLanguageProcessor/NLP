@@ -1,1 +1,1 @@
-{"index": 323588, "D": "the operation of covering with tiles. ", "S": ["carpet ", "carpeting ", "linoleum ", "tile ", "woodwork "], "A": []}
+{"index": 323588, "D": "the operation of covering with tiles. ", "S": ["carpet", "carpeting", "linoleum", "tile", "woodwork"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 137871, "D": "to strike forcibly with an ax, sword, or other cutting instrument; chop; hack.", "S": ["cleave "], "A": []}
+{"index": 137871, "D": "to strike forcibly with an ax, sword, or other cutting instrument; chop; hack.", "S": ["cleave"], "A": []}

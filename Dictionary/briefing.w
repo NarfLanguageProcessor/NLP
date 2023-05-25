@@ -1,1 +1,1 @@
-{"index": 40721, "D": "a short, factual oral summary of the details of a current or projected military operation given to the participants or observers.", "S": ["conference ", "discussion ", "information ", "instruction ", "meeting ", "update "], "A": []}
+{"index": 40721, "D": "a short, factual oral summary of the details of a current or projected military operation given to the participants or observers.", "S": ["conference", "discussion", "information", "instruction", "meeting", "update"], "A": []}

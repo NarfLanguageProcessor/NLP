@@ -1,1 +1,1 @@
-{"index": 155344, "D": "the act or ceremony of interring;  burial.", "S": ["burying ", "entombment ", "funeral ", "inhumation ", "sepulture "], "A": []}
+{"index": 155344, "D": "the act or ceremony of interring;  burial.", "S": ["burying", "entombment", "funeral", "inhumation", "sepulture"], "A": []}

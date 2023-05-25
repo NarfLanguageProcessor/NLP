@@ -1,1 +1,1 @@
-{"index": 24521, "D": "foreign or allied troops serving another nation; mercenaries", "S": ["ancillary "], "A": ["chief ", "important ", "necessary ", "superior "]}
+{"index": 24521, "D": "foreign or allied troops serving another nation; mercenaries", "S": ["ancillary"], "A": ["chief", "important", "necessary", "superior"]}

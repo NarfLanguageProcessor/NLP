@@ -1,1 +1,1 @@
-{"index": 80943, "D": "characterized by shyness and modesty; reserved.", "S": ["coyness ", "humbleness ", "humility ", "reserve ", "reticence ", "self-effacement ", "shyness "], "A": []}
+{"index": 80943, "D": "characterized by shyness and modesty; reserved.", "S": ["coyness", "humbleness", "humility", "reserve", "reticence", "self-effacement", "shyness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 78411, "D": "the space between such a surface and the next such surface above", "S": ["adorn ", "beautify ", "bedeck ", "clothe ", "decorate ", "embellish ", "festoon "], "A": ["disfigure ", "mar ", "spoil ", "disrobe ", "mess up "]}
+{"index": 78411, "D": "the space between such a surface and the next such surface above", "S": ["adorn", "beautify", "bedeck", "clothe", "decorate", "embellish", "festoon"], "A": ["disfigure", "mar", "spoil", "disrobe", "mess up"]}

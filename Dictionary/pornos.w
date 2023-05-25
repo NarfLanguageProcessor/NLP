@@ -1,1 +1,1 @@
-{"index": 243473, "D": "pornography; sexually explicit videos, photographs, writings, or the like, produced to elicit sexual arousal (often used attributively)", "S": ["smut "], "A": ["cleanliness ", "purity ", "sterility "]}
+{"index": 243473, "D": "pornography; sexually explicit videos, photographs, writings, or the like, produced to elicit sexual arousal (often used attributively)", "S": ["smut"], "A": ["cleanliness", "purity", "sterility"]}

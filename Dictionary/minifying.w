@@ -1,1 +1,1 @@
-{"index": 187854, "D": "to make less.", "S": ["cut back ", "decrease ", "diminish ", "downsize ", "halt ", "lessen ", "reduce ", "shorten ", "slash ", "trim "], "A": ["develop ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "raise ", "strengthen ", "amplify ", "stretch "]}
+{"index": 187854, "D": "to make less.", "S": ["cut back", "decrease", "diminish", "downsize", "halt", "lessen", "reduce", "shorten", "slash", "trim"], "A": ["develop", "enlarge", "expand", "extend", "grow", "increase", "lengthen", "raise", "strengthen", "amplify", "stretch"]}

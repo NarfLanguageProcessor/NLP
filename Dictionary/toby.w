@@ -1,1 +1,1 @@
-{"index": 324947, "D": "a mug in the form of a stout old man wearing a three-cornered hat.", "S": ["belvedere ", "bouquet ", "cheroot ", "claro ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "weed "], "A": []}
+{"index": 324947, "D": "a mug in the form of a stout old man wearing a three-cornered hat.", "S": ["belvedere", "bouquet", "cheroot", "claro", "corona", "havana", "panatela", "smoke", "stogie", "stogy", "tobacco", "weed"], "A": []}

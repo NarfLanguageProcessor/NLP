@@ -1,1 +1,1 @@
-{"index": 314644, "D": "to faint; lose consciousness.", "S": ["pass out "], "A": ["rise "]}
+{"index": 314644, "D": "to faint; lose consciousness.", "S": ["pass out"], "A": ["rise"]}

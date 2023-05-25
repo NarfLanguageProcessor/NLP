@@ -1,1 +1,1 @@
-{"index": 43242, "D": "a fire that is totally destructive of something.", "S": ["breakdown ", "collapse ", "nervous breakdown "], "A": []}
+{"index": 43242, "D": "a fire that is totally destructive of something.", "S": ["breakdown", "collapse", "nervous breakdown"], "A": []}

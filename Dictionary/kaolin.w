@@ -1,1 +1,1 @@
-{"index": 163109, "D": "a fine white clay used in the manufacture of porcelain.", "S": ["brick ", "earth ", "mud ", "terra cotta "], "A": []}
+{"index": 163109, "D": "a fine white clay used in the manufacture of porcelain.", "S": ["brick", "earth", "mud", "terra cotta"], "A": []}

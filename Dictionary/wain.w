@@ -1,1 +1,1 @@
-{"index": 362012, "D": "Charles's Wain. ", "S": ["car ", "caravan ", "carriage ", "cart ", "chariot ", "lorry ", "van "], "A": []}
+{"index": 362012, "D": "Charles's Wain. ", "S": ["car", "caravan", "carriage", "cart", "chariot", "lorry", "van"], "A": []}

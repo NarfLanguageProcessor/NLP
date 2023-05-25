@@ -1,1 +1,1 @@
-{"index": 88514, "D": "having the joints or connections separated", "S": ["confused ", "incoherent ", "jumbled ", "rambling "], "A": ["coherent ", "connected ", "contiguous ", "jointed ", "ordered ", "united "]}
+{"index": 88514, "D": "having the joints or connections separated", "S": ["confused", "incoherent", "jumbled", "rambling"], "A": ["coherent", "connected", "contiguous", "jointed", "ordered", "united"]}

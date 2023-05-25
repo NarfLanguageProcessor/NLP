@@ -1,1 +1,1 @@
-{"index": 153407, "D": "not satiable; incapable of being satisfied or appeased", "S": ["hunger ", "voracity "], "A": []}
+{"index": 153407, "D": "not satiable; incapable of being satisfied or appeased", "S": ["hunger", "voracity"], "A": []}

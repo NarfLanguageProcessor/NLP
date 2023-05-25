@@ -1,1 +1,1 @@
-{"index": 298583, "D": "a sudden, almost overwhelming, outpouring", "S": ["deluge ", "flood ", "flurry ", "outpouring ", "string ", "succession ", "torrent ", "wave "], "A": []}
+{"index": 298583, "D": "a sudden, almost overwhelming, outpouring", "S": ["deluge", "flood", "flurry", "outpouring", "string", "succession", "torrent", "wave"], "A": []}

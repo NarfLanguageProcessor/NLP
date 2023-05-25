@@ -1,1 +1,1 @@
-{"index": 36216, "D": "Also called (in Britain and other countries)", "S": ["narrow-mindedness "], "A": []}
+{"index": 36216, "D": "Also called (in Britain and other countries)", "S": ["narrow-mindedness"], "A": []}

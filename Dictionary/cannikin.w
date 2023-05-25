@@ -1,1 +1,1 @@
-{"index": 46426, "D": "a small can or drinking cup.", "S": ["bottle ", "bucket ", "canister ", "jar ", "package "], "A": []}
+{"index": 46426, "D": "a small can or drinking cup.", "S": ["bottle", "bucket", "canister", "jar", "package"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 140744, "D": "the science dealing with the induction of hypnosis. ", "S": ["fascination ", "hypnosis ", "hypnotherapy ", "mesmerism ", "suggestion "], "A": []}
+{"index": 140744, "D": "the science dealing with the induction of hypnosis. ", "S": ["fascination", "hypnosis", "hypnotherapy", "mesmerism", "suggestion"], "A": []}

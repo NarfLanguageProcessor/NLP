@@ -1,1 +1,1 @@
-{"index": 176928, "D": "the great world or universe; the universe considered as a whole (opposed to microcosm).", "S": ["cosmos ", "nature ", "totality ", "whole "], "A": ["part "]}
+{"index": 176928, "D": "the great world or universe; the universe considered as a whole (opposed to microcosm).", "S": ["cosmos", "nature", "totality", "whole"], "A": ["part"]}

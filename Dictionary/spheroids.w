@@ -1,1 +1,1 @@
-{"index": 299533, "D": "a solid geometrical figure similar in shape to a sphere,  as an ellipsoid.", "S": ["apple ", "balloon ", "drop ", "globule ", "orb ", "pellet ", "pill ", "round ", "spheroid "], "A": []}
+{"index": 299533, "D": "a solid geometrical figure similar in shape to a sphere,  as an ellipsoid.", "S": ["apple", "balloon", "drop", "globule", "orb", "pellet", "pill", "round", "spheroid"], "A": []}

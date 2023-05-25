@@ -1,1 +1,1 @@
-{"index": 229503, "D": "a punishment imposed or incurred for a violation of law or rule.", "S": ["cost ", "discipline ", "fine ", "forfeiture "], "A": ["award ", "reward ", "advantage ", "benefit ", "gain "]}
+{"index": 229503, "D": "a punishment imposed or incurred for a violation of law or rule.", "S": ["cost", "discipline", "fine", "forfeiture"], "A": ["award", "reward", "advantage", "benefit", "gain"]}

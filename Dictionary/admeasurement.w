@@ -1,1 +1,1 @@
-{"index": 4117, "D": "the process of measuring.", "S": ["allocation ", "apportionment ", "disbursement ", "dispensation ", "division ", "portion "], "A": []}
+{"index": 4117, "D": "the process of measuring.", "S": ["allocation", "apportionment", "disbursement", "dispensation", "division", "portion"], "A": []}

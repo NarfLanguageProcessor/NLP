@@ -1,1 +1,1 @@
-{"index": 362026, "D": "wood, especially oak and usually in the form of paneling, for lining interior walls.", "S": ["covering "], "A": []}
+{"index": 362026, "D": "wood, especially oak and usually in the form of paneling, for lining interior walls.", "S": ["covering"], "A": []}

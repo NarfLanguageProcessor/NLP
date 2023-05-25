@@ -1,1 +1,1 @@
-{"index": 142230, "D": "a traditional Navajo dwelling constructed of branches and tree bark and covered with mud or sod, with a doorway facing east", "S": ["canvas ", "pavilion "], "A": []}
+{"index": 142230, "D": "a traditional Navajo dwelling constructed of branches and tree bark and covered with mud or sod, with a doorway facing east", "S": ["canvas", "pavilion"], "A": []}

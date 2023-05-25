@@ -1,1 +1,1 @@
-{"index": 189963, "D": "the act or state of being represented incorrectly, improperly, falsely, or unsatisfactorily", "S": ["distortion ", "exaggeration ", "fabrication ", "falsehood ", "falsification ", "misstatement ", "untruth "], "A": ["truth "]}
+{"index": 189963, "D": "the act or state of being represented incorrectly, improperly, falsely, or unsatisfactorily", "S": ["distortion", "exaggeration", "fabrication", "falsehood", "falsification", "misstatement", "untruth"], "A": ["truth"]}

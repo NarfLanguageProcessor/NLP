@@ -1,1 +1,1 @@
-{"index": 220129, "D": "to fail to notice, perceive, or consider", "S": ["discount ", "forget ", "ignore ", "omit "], "A": ["pay attention ", "recognize ", "remember ", "get ", "praise "]}
+{"index": 220129, "D": "to fail to notice, perceive, or consider", "S": ["discount", "forget", "ignore", "omit"], "A": ["pay attention", "recognize", "remember", "get", "praise"]}

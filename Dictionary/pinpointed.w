@@ -1,1 +1,1 @@
-{"index": 237231, "D": "the point  of a pin. ", "S": ["diagnose ", "identify ", "recognize "], "A": ["overlook "]}
+{"index": 237231, "D": "the point  of a pin. ", "S": ["diagnose", "identify", "recognize"], "A": ["overlook"]}

@@ -1,1 +1,1 @@
-{"index": 230401, "D": "the mental result or product of perceiving,  as distinguished from the act of perceiving;  an impression or sensation of something perceived. ", "S": ["code ", "law ", "rule "], "A": ["bad manners "]}
+{"index": 230401, "D": "the mental result or product of perceiving,  as distinguished from the act of perceiving;  an impression or sensation of something perceived. ", "S": ["code", "law", "rule"], "A": ["bad manners"]}

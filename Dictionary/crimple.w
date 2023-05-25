@@ -1,1 +1,1 @@
-{"index": 73006, "D": "to wrinkle.", "S": ["coil ", "crease ", "crinkle ", "crisp ", "crumple ", "flow ", "frizz ", "pleat ", "ruck ", "screw ", "scrunch ", "set ", "swirl ", "undulate ", "wave ", "wrinkle "], "A": ["straighten "]}
+{"index": 73006, "D": "to wrinkle.", "S": ["coil", "crease", "crinkle", "crisp", "crumple", "flow", "frizz", "pleat", "ruck", "screw", "scrunch", "set", "swirl", "undulate", "wave", "wrinkle"], "A": ["straighten"]}

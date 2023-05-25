@@ -1,1 +1,1 @@
-{"index": 196129, "D": "a state of disorder or untidiness.", "S": ["chaos ", "confusion ", "disarrangement ", "hash ", "mess ", "mess-up ", "mix-up ", "muddle ", "shambles ", "turmoil "], "A": ["calm ", "harmony ", "order ", "organization ", "system "]}
+{"index": 196129, "D": "a state of disorder or untidiness.", "S": ["chaos", "confusion", "disarrangement", "hash", "mess", "mess-up", "mix-up", "muddle", "shambles", "turmoil"], "A": ["calm", "harmony", "order", "organization", "system"]}

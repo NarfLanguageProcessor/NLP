@@ -1,1 +1,1 @@
-{"index": 3543, "D": "an act or instance of addition", "S": ["accretion ", "computing ", "counting ", "reckoning ", "summation "], "A": ["decrease ", "deduction ", "lessening ", "loss ", "reduction ", "shrinkage ", "subtraction ", "withdrawal "]}
+{"index": 3543, "D": "an act or instance of addition", "S": ["accretion", "computing", "counting", "reckoning", "summation"], "A": ["decrease", "deduction", "lessening", "loss", "reduction", "shrinkage", "subtraction", "withdrawal"]}

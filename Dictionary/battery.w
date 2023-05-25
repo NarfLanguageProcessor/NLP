@@ -1,1 +1,1 @@
-{"index": 29113, "D": "See also cell (def. 7a). ", "S": ["array ", "batch ", "body ", "bunch ", "bundle ", "chain ", "clot ", "clump ", "cluster ", "group ", "lot ", "ring ", "sequence ", "set ", "suite "], "A": ["individual ", "one "]}
+{"index": 29113, "D": "See also cell (def. 7a). ", "S": ["array", "batch", "body", "bunch", "bundle", "chain", "clot", "clump", "cluster", "group", "lot", "ring", "sequence", "set", "suite"], "A": ["individual", "one"]}

@@ -1,1 +1,1 @@
-{"index": 70498, "D": "a large, tawny cat, Felis concolor, of North and South America", "S": ["mountain lion ", "panther "], "A": []}
+{"index": 70498, "D": "a large, tawny cat, Felis concolor, of North and South America", "S": ["mountain lion", "panther"], "A": []}

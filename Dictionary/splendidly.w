@@ -1,1 +1,1 @@
-{"index": 300430, "D": "gorgeous; magnificent; sumptuous. ", "S": ["beautifully ", "elegantly ", "gorgeously ", "grandly ", "handsomely ", "magnificently ", "remarkably ", "strikingly ", "superbly ", "wonderfully "], "A": ["poorly "]}
+{"index": 300430, "D": "gorgeous; magnificent; sumptuous. ", "S": ["beautifully", "elegantly", "gorgeously", "grandly", "handsomely", "magnificently", "remarkably", "strikingly", "superbly", "wonderfully"], "A": ["poorly"]}

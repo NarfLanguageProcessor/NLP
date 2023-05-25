@@ -1,1 +1,1 @@
-{"index": 316031, "D": "pertaining to or of the nature of a tangent;  being or moving in the direction of a tangent. ", "S": ["extraneous ", "unrelated "], "A": ["relevant "]}
+{"index": 316031, "D": "pertaining to or of the nature of a tangent;  being or moving in the direction of a tangent. ", "S": ["extraneous", "unrelated"], "A": ["relevant"]}

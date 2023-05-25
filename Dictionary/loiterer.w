@@ -1,1 +1,1 @@
-{"index": 174765, "D": "to linger aimlessly or as if aimless in or about a place", "S": ["dawdler ", "dilly-dallier ", "idler ", "lag ", "lagger ", "lingerer ", "loafer ", "lounger ", "poke ", "procrastinator ", "slowpoke ", "straggler "], "A": []}
+{"index": 174765, "D": "to linger aimlessly or as if aimless in or about a place", "S": ["dawdler", "dilly-dallier", "idler", "lag", "lagger", "lingerer", "loafer", "lounger", "poke", "procrastinator", "slowpoke", "straggler"], "A": []}

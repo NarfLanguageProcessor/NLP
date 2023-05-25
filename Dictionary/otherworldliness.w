@@ -1,1 +1,1 @@
-{"index": 215863, "D": "of, relating to, or devoted to another world, as the world of imagination or the world to come.", "S": ["incorporeality "], "A": []}
+{"index": 215863, "D": "of, relating to, or devoted to another world, as the world of imagination or the world to come.", "S": ["incorporeality"], "A": []}

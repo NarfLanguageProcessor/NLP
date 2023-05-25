@@ -1,1 +1,1 @@
-{"index": 93808, "D": "a device, person, or enterprise that proves to be a failure.", "S": ["debacle ", "flop "], "A": ["success "]}
+{"index": 93808, "D": "a device, person, or enterprise that proves to be a failure.", "S": ["debacle", "flop"], "A": ["success"]}

@@ -1,1 +1,1 @@
-{"index": 256258, "D": "a wheel, with a grooved rim for carrying a line, that turns in a frame or block and serves to change the direction of or to transmit force, as when one end of the line is pulled to raise a weight at the other end", "S": ["block ", "ring ", "wheel "], "A": []}
+{"index": 256258, "D": "a wheel, with a grooved rim for carrying a line, that turns in a frame or block and serves to change the direction of or to transmit force, as when one end of the line is pulled to raise a weight at the other end", "S": ["block", "ring", "wheel"], "A": []}

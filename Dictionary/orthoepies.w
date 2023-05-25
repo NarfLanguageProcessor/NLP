@@ -1,1 +1,1 @@
-{"index": 215021, "D": "the study of correct pronunciation.", "S": ["accent ", "diction ", "utterance "], "A": []}
+{"index": 215021, "D": "the study of correct pronunciation.", "S": ["accent", "diction", "utterance"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 11748, "D": "a variant of analyze. ", "S": ["consider ", "evaluate ", "figure out ", "inspect ", "interpret ", "investigate ", "resolve ", "scrutinize ", "spell out ", "study ", "test "], "A": ["forget ", "ignore ", "neglect "]}
+{"index": 11748, "D": "a variant of analyze. ", "S": ["consider", "evaluate", "figure out", "inspect", "interpret", "investigate", "resolve", "scrutinize", "spell out", "study", "test"], "A": ["forget", "ignore", "neglect"]}

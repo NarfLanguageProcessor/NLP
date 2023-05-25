@@ -1,1 +1,1 @@
-{"index": 367775, "D": "(an exclamation of surprise, wonder, pleasure, or the like)", "S": ["charm ", "entertain "], "A": []}
+{"index": 367775, "D": "(an exclamation of surprise, wonder, pleasure, or the like)", "S": ["charm", "entertain"], "A": []}

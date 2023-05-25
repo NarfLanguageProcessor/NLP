@@ -1,1 +1,1 @@
-{"index": 294874, "D": "to assume a facial expression indicating pleasure, favor, or amusement, but sometimes derision or scorn, characterized by an upturning of the corners of the mouth.", "S": ["beam ", "grin ", "laugh ", "smirk "], "A": ["frown ", "glower "]}
+{"index": 294874, "D": "to assume a facial expression indicating pleasure, favor, or amusement, but sometimes derision or scorn, characterized by an upturning of the corners of the mouth.", "S": ["beam", "grin", "laugh", "smirk"], "A": ["frown", "glower"]}

@@ -1,1 +1,1 @@
-{"index": 20308, "D": "(chiefly in southwest U.S.) a small steep-sided watercourse or gulch with a nearly flat floor", "S": ["brook ", "channel ", "creek ", "gorge ", "gully ", "ravine ", "stream "], "A": []}
+{"index": 20308, "D": "(chiefly in southwest U.S.) a small steep-sided watercourse or gulch with a nearly flat floor", "S": ["brook", "channel", "creek", "gorge", "gully", "ravine", "stream"], "A": []}

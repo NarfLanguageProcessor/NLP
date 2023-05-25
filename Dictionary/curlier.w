@@ -1,1 +1,1 @@
-{"index": 75353, "D": "curling  or tending to curl", "S": ["coiled ", "curled ", "fuzzy ", "kinky ", "wavy "], "A": ["straight "]}
+{"index": 75353, "D": "curling  or tending to curl", "S": ["coiled", "curled", "fuzzy", "kinky", "wavy"], "A": ["straight"]}

@@ -1,1 +1,1 @@
-{"index": 40319, "D": "a defensive work,  usually breast  high.", "S": ["bulwark ", "citadel ", "fortress ", "mainstay ", "stronghold "], "A": ["weak spot ", "weakness "]}
+{"index": 40319, "D": "a defensive work,  usually breast  high.", "S": ["bulwark", "citadel", "fortress", "mainstay", "stronghold"], "A": ["weak spot", "weakness"]}

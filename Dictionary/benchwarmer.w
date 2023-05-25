@@ -1,1 +1,1 @@
-{"index": 31485, "D": "a substitute who rarely gets to play in a game.", "S": ["back seat ", "low man on totem pole ", "reserves ", "second banana ", "second string ", "second stringer ", "second team ", "secondary role ", "understudy "], "A": []}
+{"index": 31485, "D": "a substitute who rarely gets to play in a game.", "S": ["back seat", "low man on totem pole", "reserves", "second banana", "second string", "second stringer", "second team", "secondary role", "understudy"], "A": []}

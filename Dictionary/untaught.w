@@ -1,1 +1,1 @@
-{"index": 352717, "D": "simple past tense and past participle of unteach. ", "S": ["unlearned "], "A": ["learned ", "taught "]}
+{"index": 352717, "D": "simple past tense and past participle of unteach. ", "S": ["unlearned"], "A": ["learned", "taught"]}

@@ -1,0 +1,1 @@
+{"index": 24063, "D": "self-generated. ", "S": ["mechanical", "natural"], "A": ["by hand", "manual", "stilted", "thought-out", "unnatural"]}

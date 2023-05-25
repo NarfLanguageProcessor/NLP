@@ -1,1 +1,1 @@
-{"index": 314427, "D": "to move in water by movements of the limbs, fins, tail, etc.", "S": ["bathe ", "crawl ", "dive ", "float ", "glide ", "paddle ", "submerge ", "wade "], "A": []}
+{"index": 314427, "D": "to move in water by movements of the limbs, fins, tail, etc.", "S": ["bathe", "crawl", "dive", "float", "glide", "paddle", "submerge", "wade"], "A": []}

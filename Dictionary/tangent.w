@@ -1,1 +1,1 @@
-{"index": 316028, "D": "in immediate physical contact; touching.", "S": ["contiguous ", "tangential "], "A": []}
+{"index": 316028, "D": "in immediate physical contact; touching.", "S": ["contiguous", "tangential"], "A": []}

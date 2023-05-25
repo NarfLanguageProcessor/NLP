@@ -1,1 +1,1 @@
-{"index": 118561, "D": "a male given name, form of Frederick. ", "S": ["X ", "bar ", "baz ", "corge ", "foo ", "garply ", "grault ", "plugh ", "quux ", "qux ", "thud ", "waldo ", "whatchamacallit ", "wombat ", "xyzzy "], "A": []}
+{"index": 118561, "D": "a male given name, form of Frederick. ", "S": ["X", "bar", "baz", "corge", "foo", "garply", "grault", "plugh", "quux", "qux", "thud", "waldo", "whatchamacallit", "wombat", "xyzzy"], "A": []}

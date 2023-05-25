@@ -1,1 +1,1 @@
-{"index": 30231, "D": "the framework of a bed supporting the springs and a mattress.", "S": ["bunk ", "cot ", "couch ", "crib ", "mattress "], "A": []}
+{"index": 30231, "D": "the framework of a bed supporting the springs and a mattress.", "S": ["bunk", "cot", "couch", "crib", "mattress"], "A": []}

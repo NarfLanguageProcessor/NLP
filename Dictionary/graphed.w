@@ -1,1 +1,1 @@
-{"index": 129064, "D": "a diagram representing a system of connections or interrelations among two or more things by a number of distinctive dots, lines, bars, etc.", "S": ["diagramed ", "epitomized ", "generalized ", "mapped ", "profiled ", "summarized "], "A": []}
+{"index": 129064, "D": "a diagram representing a system of connections or interrelations among two or more things by a number of distinctive dots, lines, bars, etc.", "S": ["diagramed", "epitomized", "generalized", "mapped", "profiled", "summarized"], "A": []}

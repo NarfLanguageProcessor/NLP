@@ -1,1 +1,1 @@
-{"index": 109115, "D": [], "S": ["articulate ", "coherent ", "expressive ", "fluent ", "impassioned ", "silver-tongued ", "well-expressed ", "well-spoken "], "A": []}
+{"index": 109115, "D": [], "S": ["articulate", "coherent", "expressive", "fluent", "impassioned", "silver-tongued", "well-expressed", "well-spoken"], "A": []}

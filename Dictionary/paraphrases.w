@@ -1,1 +1,1 @@
-{"index": 225966, "D": "a restatement of a text or passage giving the meaning in another form, as for clearness; rewording.", "S": ["digest ", "explanation ", "rehash ", "rendering ", "rendition ", "rephrasing ", "restatement ", "rewording ", "summary ", "version "], "A": ["quotation "]}
+{"index": 225966, "D": "a restatement of a text or passage giving the meaning in another form, as for clearness; rewording.", "S": ["digest", "explanation", "rehash", "rendering", "rendition", "rephrasing", "restatement", "rewording", "summary", "version"], "A": ["quotation"]}

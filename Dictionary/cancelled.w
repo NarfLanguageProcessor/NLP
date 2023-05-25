@@ -1,1 +1,1 @@
-{"index": 46088, "D": "to make void, as a contract or other obligation; annul", "S": ["blocked ", "interrupted "], "A": []}
+{"index": 46088, "D": "to make void, as a contract or other obligation; annul", "S": ["blocked", "interrupted"], "A": []}

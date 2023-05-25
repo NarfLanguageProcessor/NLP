@@ -1,1 +1,1 @@
-{"index": 82809, "D": "a bold, reckless criminal or outlaw, especially in the early days of the American West.", "S": ["hoodlum ", "ruffian "], "A": []}
+{"index": 82809, "D": "a bold, reckless criminal or outlaw, especially in the early days of the American West.", "S": ["hoodlum", "ruffian"], "A": []}

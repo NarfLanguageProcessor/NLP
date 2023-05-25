@@ -1,1 +1,1 @@
-{"index": 101233, "D": "of or relating to the enteron;  intestinal.", "S": ["stomachic "], "A": []}
+{"index": 101233, "D": "of or relating to the enteron;  intestinal.", "S": ["stomachic"], "A": []}

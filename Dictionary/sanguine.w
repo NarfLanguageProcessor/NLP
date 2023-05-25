@@ -1,1 +1,1 @@
-{"index": 277904, "D": "cheerfully optimistic, sometimes to the point of seeming complacent, oblivious, or naive", "S": ["buoyant ", "cheerful ", "confident ", "enthusiastic ", "hopeful ", "upbeat "], "A": ["depressed ", "down ", "gloomy ", "pessimistic ", "sad "]}
+{"index": 277904, "D": "cheerfully optimistic, sometimes to the point of seeming complacent, oblivious, or naive", "S": ["buoyant", "cheerful", "confident", "enthusiastic", "hopeful", "upbeat"], "A": ["depressed", "down", "gloomy", "pessimistic", "sad"]}

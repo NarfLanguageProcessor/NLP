@@ -1,1 +1,1 @@
-{"index": 245215, "D": "a person who is oriented toward the success or failure of a particular line of action, thought, etc.; a practical person.", "S": ["hoper ", "optimist ", "positive thinker ", "rationalist ", "realist "], "A": []}
+{"index": 245215, "D": "a person who is oriented toward the success or failure of a particular line of action, thought, etc.; a practical person.", "S": ["hoper", "optimist", "positive thinker", "rationalist", "realist"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 357029, "D": "the foremost or front division of an army, a fleet, or any group leading an advance or in position to lead an advance.", "S": ["camper ", "caravan ", "truck "], "A": []}
+{"index": 357029, "D": "the foremost or front division of an army, a fleet, or any group leading an advance or in position to lead an advance.", "S": ["camper", "caravan", "truck"], "A": []}

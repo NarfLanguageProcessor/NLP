@@ -1,1 +1,1 @@
-{"index": 71284, "D": "possessing or characterized by courage;  brave", "S": ["unassisted "], "A": ["jointly "]}
+{"index": 71284, "D": "possessing or characterized by courage;  brave", "S": ["unassisted"], "A": ["jointly"]}

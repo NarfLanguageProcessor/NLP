@@ -1,1 +1,1 @@
-{"index": 50787, "D": "an official enumeration of the population, with details as to age, sex, occupation, etc.", "S": ["enumeration ", "poll "], "A": []}
+{"index": 50787, "D": "an official enumeration of the population, with details as to age, sex, occupation, etc.", "S": ["enumeration", "poll"], "A": []}

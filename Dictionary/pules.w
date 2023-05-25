@@ -1,1 +1,1 @@
-{"index": 256214, "D": "to cry in a thin voice; whine; whimper.", "S": ["cry ", "repine ", "snivel ", "weep ", "whimper ", "whine "], "A": []}
+{"index": 256214, "D": "to cry in a thin voice; whine; whimper.", "S": ["cry", "repine", "snivel", "weep", "whimper", "whine"], "A": []}

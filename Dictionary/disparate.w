@@ -1,1 +1,1 @@
-{"index": 88865, "D": "distinct in kind; essentially different; dissimilar", "S": ["contrasting ", "discordant ", "dissimilar ", "distinct ", "divergent ", "diverse ", "various "], "A": ["agreeing ", "alike ", "like ", "same ", "similar ", "uniform "]}
+{"index": 88865, "D": "distinct in kind; essentially different; dissimilar", "S": ["contrasting", "discordant", "dissimilar", "distinct", "divergent", "diverse", "various"], "A": ["agreeing", "alike", "like", "same", "similar", "uniform"]}

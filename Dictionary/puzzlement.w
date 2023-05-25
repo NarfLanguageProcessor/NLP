@@ -1,1 +1,1 @@
-{"index": 257378, "D": "the state of being puzzled;  perplexity.", "S": ["bewilderment ", "perplexity "], "A": ["clearness ", "consciousness "]}
+{"index": 257378, "D": "the state of being puzzled;  perplexity.", "S": ["bewilderment", "perplexity"], "A": ["clearness", "consciousness"]}

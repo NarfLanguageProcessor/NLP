@@ -1,1 +1,1 @@
-{"index": 251927, "D": "a plan of action to accomplish a specified end", "S": ["bill ", "business ", "curriculum ", "plan ", "schedule "], "A": []}
+{"index": 251927, "D": "a plan of action to accomplish a specified end", "S": ["bill", "business", "curriculum", "plan", "schedule"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 104312, "D": "(in Anglo-Saxon England) a member of the lowest class; laborer.", "S": ["servant "], "A": ["master "]}
+{"index": 104312, "D": "(in Anglo-Saxon England) a member of the lowest class; laborer.", "S": ["servant"], "A": ["master"]}

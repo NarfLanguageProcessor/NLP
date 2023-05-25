@@ -1,0 +1,1 @@
+{"index": 20028, "D": "a woolen or silk fabric woven with a small, raised pattern.", "S": [], "A": []}

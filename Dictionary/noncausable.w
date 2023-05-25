@@ -1,1 +1,0 @@
-{"index": 201842, "D": "a person or thing that acts, happens, or exists in such a way that some specific thing happens as a result; the producer of an effect", "S": [], "A": []}

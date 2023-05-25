@@ -1,1 +1,1 @@
-{"index": 304372, "D": "the state or condition of being rigid or firm", "S": ["rigidity "], "A": ["ease ", "flexibility "]}
+{"index": 304372, "D": "the state or condition of being rigid or firm", "S": ["rigidity"], "A": ["ease", "flexibility"]}

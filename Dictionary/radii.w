@@ -1,1 +1,1 @@
-{"index": 259606, "D": "a plural of radius. ", "S": ["ambit ", "boundary ", "compass ", "expanse ", "extension ", "extent ", "interval ", "limit ", "orbit ", "purview ", "reach ", "semidiameter ", "space ", "span ", "spoke "], "A": []}
+{"index": 259606, "D": "a plural of radius. ", "S": ["ambit", "boundary", "compass", "expanse", "extension", "extent", "interval", "limit", "orbit", "purview", "reach", "semidiameter", "space", "span", "spoke"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 167585, "D": "softly bright or radiant", "S": ["bright ", "brilliant ", "flickering ", "glowing ", "lustrous ", "radiant ", "shinning "], "A": []}
+{"index": 167585, "D": "softly bright or radiant", "S": ["bright", "brilliant", "flickering", "glowing", "lustrous", "radiant", "shinning"], "A": []}

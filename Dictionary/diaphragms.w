@@ -1,1 +1,1 @@
-{"index": 84455, "D": "the partition separating the thoracic cavity from the abdominal cavity in mammals.", "S": ["abstinence ", "condom ", "contraceptive ", "family planning ", "pill ", "vasectomy "], "A": []}
+{"index": 84455, "D": "the partition separating the thoracic cavity from the abdominal cavity in mammals.", "S": ["abstinence", "condom", "contraceptive", "family planning", "pill", "vasectomy"], "A": []}

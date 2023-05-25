@@ -1,1 +1,1 @@
-{"index": 42058, "D": [], "S": ["boiler room ", "chop shop "], "A": []}
+{"index": 42058, "D": [], "S": ["boiler room", "chop shop"], "A": []}

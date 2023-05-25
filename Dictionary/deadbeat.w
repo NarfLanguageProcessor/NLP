@@ -1,1 +1,1 @@
-{"index": 77441, "D": "a person who deliberately avoids paying debts or neglects responsibilities.", "S": ["bum ", "debtor ", "leech ", "loafer ", "moocher ", "parasite ", "sponge "], "A": []}
+{"index": 77441, "D": "a person who deliberately avoids paying debts or neglects responsibilities.", "S": ["bum", "debtor", "leech", "loafer", "moocher", "parasite", "sponge"], "A": []}

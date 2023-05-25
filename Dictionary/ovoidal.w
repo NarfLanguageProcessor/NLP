@@ -1,1 +1,1 @@
-{"index": 221981, "D": [], "S": ["egg-shaped ", "ellipsoidal ", "elliptic ", "elliptical ", "oblong ", "ooid ", "ovaloid ", "ovate ", "oviform ", "ovoid "], "A": []}
+{"index": 221981, "D": [], "S": ["egg-shaped", "ellipsoidal", "elliptic", "elliptical", "oblong", "ooid", "ovaloid", "ovate", "oviform", "ovoid"], "A": []}

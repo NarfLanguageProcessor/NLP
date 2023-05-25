@@ -1,1 +1,1 @@
-{"index": 277854, "D": "a simple past tense of sing. ", "S": ["belt out ", "chant ", "croon ", "hum ", "intone ", "serenade ", "shout ", "wait ", "warble ", "whistle "], "A": ["be quiet ", "conceal "]}
+{"index": 277854, "D": "a simple past tense of sing. ", "S": ["belt out", "chant", "croon", "hum", "intone", "serenade", "shout", "wait", "warble", "whistle"], "A": ["be quiet", "conceal"]}

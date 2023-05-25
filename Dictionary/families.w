@@ -1,1 +1,1 @@
-{"index": 109617, "D": "the plural of family. ", "S": ["clan ", "folk ", "group ", "house ", "household ", "people ", "tribe "], "A": ["parent "]}
+{"index": 109617, "D": "the plural of family. ", "S": ["clan", "folk", "group", "house", "household", "people", "tribe"], "A": ["parent"]}

@@ -1,1 +1,1 @@
-{"index": 157138, "D": "an act or instance of reversing in position, changing to the contrary, or turning upside down, inside out, or inward.", "S": ["contradiction ", "conversion ", "opposite ", "reversal "], "A": []}
+{"index": 157138, "D": "an act or instance of reversing in position, changing to the contrary, or turning upside down, inside out, or inward.", "S": ["contradiction", "conversion", "opposite", "reversal"], "A": []}

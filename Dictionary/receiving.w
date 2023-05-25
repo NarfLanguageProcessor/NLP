@@ -1,1 +1,1 @@
-{"index": 262692, "D": [], "S": ["accepting ", "acquiring ", "collecting ", "drawing ", "earning ", "gathering ", "getting ", "inheriting ", "making "], "A": ["giving "]}
+{"index": 262692, "D": [], "S": ["accepting", "acquiring", "collecting", "drawing", "earning", "gathering", "getting", "inheriting", "making"], "A": ["giving"]}

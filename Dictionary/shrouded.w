@@ -1,1 +1,1 @@
-{"index": 289269, "D": "a cloth or sheet in which a corpse is wrapped for burial.", "S": ["buried ", "camouflaged ", "covered ", "planted ", "veiled "], "A": ["bare ", "clear ", "disclosed ", "exposed ", "obvious ", "open ", "plain ", "revealed ", "shown ", "told ", "uncovered "]}
+{"index": 289269, "D": "a cloth or sheet in which a corpse is wrapped for burial.", "S": ["buried", "camouflaged", "covered", "planted", "veiled"], "A": ["bare", "clear", "disclosed", "exposed", "obvious", "open", "plain", "revealed", "shown", "told", "uncovered"]}

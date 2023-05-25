@@ -1,1 +1,1 @@
-{"index": 115530, "D": "a seaport on Walcheren Island, in the SW Netherlands.", "S": ["embarrassed ", "flushed ", "humiliated ", "reddening "], "A": ["arrogant ", "bold ", "immodest "]}
+{"index": 115530, "D": "a seaport on Walcheren Island, in the SW Netherlands.", "S": ["embarrassed", "flushed", "humiliated", "reddening"], "A": ["arrogant", "bold", "immodest"]}

@@ -1,1 +1,1 @@
-{"index": 364161, "D": "simple past tense and past participle of weep1. ", "S": ["break down ", "complain ", "grieve ", "howl ", "moan ", "mourn ", "sob ", "wail ", "whimper "], "A": ["be happy ", "gloat ", "praise "]}
+{"index": 364161, "D": "simple past tense and past participle of weep1. ", "S": ["break down", "complain", "grieve", "howl", "moan", "mourn", "sob", "wail", "whimper"], "A": ["be happy", "gloat", "praise"]}

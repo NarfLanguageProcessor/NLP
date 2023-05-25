@@ -1,1 +1,1 @@
-{"index": 287552, "D": "to make or become sharp  or sharper. ", "S": ["abrading ", "coarse "], "A": ["fine ", "fine-grained "]}
+{"index": 287552, "D": "to make or become sharp  or sharper. ", "S": ["abrading", "coarse"], "A": ["fine", "fine-grained"]}

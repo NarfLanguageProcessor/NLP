@@ -1,1 +1,1 @@
-{"index": 311080, "D": "to separate; part; divide; sever. ", "S": ["break ", "detach ", "disconnect ", "disjoin ", "divide ", "part ", "rend ", "slice ", "split ", "uncouple ", "undo "], "A": ["agree ", "attach ", "combine ", "connect ", "couple ", "fasten ", "join ", "link ", "unite "]}
+{"index": 311080, "D": "to separate; part; divide; sever. ", "S": ["break", "detach", "disconnect", "disjoin", "divide", "part", "rend", "slice", "split", "uncouple", "undo"], "A": ["agree", "attach", "combine", "connect", "couple", "fasten", "join", "link", "unite"]}

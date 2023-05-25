@@ -1,1 +1,1 @@
-{"index": 185597, "D": "a method of engraving on copper or steel by burnishing or scraping away a uniformly roughened surface.", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}
+{"index": 185597, "D": "a method of engraving on copper or steel by burnishing or scraping away a uniformly roughened surface.", "S": ["etching", "illustration", "inscription", "lithograph", "woodcut"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 119911, "D": "to flash or dart like lightning.", "S": ["explode ", "flare ", "flash ", "flicker ", "gleam ", "glow ", "illuminate ", "radiate ", "shimmer ", "shine ", "sparkle "], "A": ["darken ", "dull "]}
+{"index": 119911, "D": "to flash or dart like lightning.", "S": ["explode", "flare", "flash", "flicker", "gleam", "glow", "illuminate", "radiate", "shimmer", "shine", "sparkle"], "A": ["darken", "dull"]}

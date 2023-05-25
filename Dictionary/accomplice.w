@@ -1,1 +1,1 @@
-{"index": 1669, "D": "a person who knowingly helps another in a crime or wrongdoing, often as a subordinate.", "S": ["aide ", "associate ", "co-conspirator ", "collaborator ", "conspirator "], "A": ["antagonist ", "enemy "]}
+{"index": 1669, "D": "a person who knowingly helps another in a crime or wrongdoing, often as a subordinate.", "S": ["aide", "associate", "co-conspirator", "collaborator", "conspirator"], "A": ["antagonist", "enemy"]}

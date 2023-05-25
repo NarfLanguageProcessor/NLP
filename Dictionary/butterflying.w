@@ -1,1 +1,1 @@
-{"index": 43687, "D": "any of numerous diurnal insects of the order Lepidoptera, characterized by clubbed antennae, a slender body, and large, broad, often conspicuously marked wings.", "S": ["brush ", "glance ", "graze ", "greet ", "salute "], "A": []}
+{"index": 43687, "D": "any of numerous diurnal insects of the order Lepidoptera, characterized by clubbed antennae, a slender body, and large, broad, often conspicuously marked wings.", "S": ["brush", "glance", "graze", "greet", "salute"], "A": []}

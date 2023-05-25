@@ -1,1 +1,1 @@
-{"index": 180893, "D": "to chew.", "S": ["biting ", "cropping ", "eating ", "feeding ", "foraging ", "gnawing ", "munching ", "nibbling ", "pasturing ", "ruminating ", "uprooting "], "A": []}
+{"index": 180893, "D": "to chew.", "S": ["biting", "cropping", "eating", "feeding", "foraging", "gnawing", "munching", "nibbling", "pasturing", "ruminating", "uprooting"], "A": []}

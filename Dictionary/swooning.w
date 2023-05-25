@@ -1,1 +1,1 @@
-{"index": 314648, "D": "to faint; lose consciousness.", "S": ["comatose ", "paralyzed ", "senseless "], "A": ["awake ", "aware ", "conscious ", "decided ", "intended ", "intentional ", "knowing "]}
+{"index": 314648, "D": "to faint; lose consciousness.", "S": ["comatose", "paralyzed", "senseless"], "A": ["awake", "aware", "conscious", "decided", "intended", "intentional", "knowing"]}

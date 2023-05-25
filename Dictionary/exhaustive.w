@@ -1,1 +1,1 @@
-{"index": 107125, "D": "exhausting  a subject, topic, etc.; comprehensive; thorough", "S": ["comprehensive ", "encyclopedic ", "extensive ", "full-scale ", "in-depth ", "intensive ", "sweeping ", "thorough "], "A": ["exclusive ", "incomplete ", "narrow ", "partial ", "superficial "]}
+{"index": 107125, "D": "exhausting  a subject, topic, etc.; comprehensive; thorough", "S": ["comprehensive", "encyclopedic", "extensive", "full-scale", "in-depth", "intensive", "sweeping", "thorough"], "A": ["exclusive", "incomplete", "narrow", "partial", "superficial"]}

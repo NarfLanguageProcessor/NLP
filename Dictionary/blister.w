@@ -1,1 +1,1 @@
-{"index": 36281, "D": "a thin vesicle on the skin, containing watery matter or serum, as from a burn or other injury.", "S": ["abscess ", "cyst ", "pimple ", "sore ", "ulcer ", "welt "], "A": []}
+{"index": 36281, "D": "a thin vesicle on the skin, containing watery matter or serum, as from a burn or other injury.", "S": ["abscess", "cyst", "pimple", "sore", "ulcer", "welt"], "A": []}

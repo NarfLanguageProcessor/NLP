@@ -1,1 +1,1 @@
-{"index": 226369, "D": "a father or a mother.", "S": ["father ", "mother "], "A": ["consequence ", "effect ", "end ", "outcome ", "outgrowth ", "result "]}
+{"index": 226369, "D": "a father or a mother.", "S": ["father", "mother"], "A": ["consequence", "effect", "end", "outcome", "outgrowth", "result"]}

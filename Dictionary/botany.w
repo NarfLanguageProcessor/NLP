@@ -1,1 +1,1 @@
-{"index": 38659, "D": "the science of plants; the branch of biology that deals with plant life.", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "pathology ", "physiology ", "phytology ", "pomology ", "taxonomy "], "A": []}
+{"index": 38659, "D": "the science of plants; the branch of biology that deals with plant life.", "S": ["anatomy", "cytology", "ecology", "genetics", "horticulture", "morphology", "pathology", "physiology", "phytology", "pomology", "taxonomy"], "A": []}

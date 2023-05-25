@@ -1,1 +1,1 @@
-{"index": 65096, "D": "an excessively favorable opinion of one's own ability, importance, wit, etc.", "S": ["arrogance "], "A": ["humility ", "modesty "]}
+{"index": 65096, "D": "an excessively favorable opinion of one's own ability, importance, wit, etc.", "S": ["arrogance"], "A": ["humility", "modesty"]}

@@ -1,1 +1,1 @@
-{"index": 291358, "D": "from then till now (often preceded by ever)", "S": ["afterward ", "ago ", "already ", "later ", "therefore "], "A": []}
+{"index": 291358, "D": "from then till now (often preceded by ever)", "S": ["afterward", "ago", "already", "later", "therefore"], "A": []}

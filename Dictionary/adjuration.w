@@ -1,0 +1,1 @@
+{"index": 4052, "D": "an earnest request; entreaty.", "S": ["application", "bid", "call", "claim", "demand", "overture", "petition", "plea", "proposal", "question", "suit"], "A": ["answer", "reply"]}

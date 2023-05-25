@@ -1,1 +1,1 @@
-{"index": 305777, "D": "to kill by squeezing the throat in order to compress the windpipe and prevent the intake of air, as with the hands or a tightly drawn cord.", "S": ["firing squad "], "A": []}
+{"index": 305777, "D": "to kill by squeezing the throat in order to compress the windpipe and prevent the intake of air, as with the hands or a tightly drawn cord.", "S": ["firing squad"], "A": []}

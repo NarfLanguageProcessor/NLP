@@ -1,1 +1,1 @@
-{"index": 282742, "D": "an act of secluding", "S": ["hiding ", "remoteness ", "solitude "], "A": ["open ", "public "]}
+{"index": 282742, "D": "an act of secluding", "S": ["hiding", "remoteness", "solitude"], "A": ["open", "public"]}

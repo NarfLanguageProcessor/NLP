@@ -1,1 +1,1 @@
-{"index": 357896, "D": "having a soft, velvety surface, as certain plants.", "S": ["featherlike ", "feathery ", "fleecy ", "fuzzy ", "light ", "plumate ", "plumose ", "pubescent ", "silky ", "soft ", "velvety ", "woolly "], "A": []}
+{"index": 357896, "D": "having a soft, velvety surface, as certain plants.", "S": ["featherlike", "feathery", "fleecy", "fuzzy", "light", "plumate", "plumose", "pubescent", "silky", "soft", "velvety", "woolly"], "A": []}

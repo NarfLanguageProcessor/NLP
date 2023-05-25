@@ -1,1 +1,1 @@
-{"index": 263499, "D": "a person who records, especially as an official duty.", "S": ["historian "], "A": []}
+{"index": 263499, "D": "a person who records, especially as an official duty.", "S": ["historian"], "A": []}

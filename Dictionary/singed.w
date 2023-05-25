@@ -1,1 +1,1 @@
-{"index": 291674, "D": "slightly or superficially burned; scorched", "S": ["charred ", "scorched "], "A": []}
+{"index": 291674, "D": "slightly or superficially burned; scorched", "S": ["charred", "scorched"], "A": []}

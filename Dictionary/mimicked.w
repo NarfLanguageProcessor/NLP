@@ -1,1 +1,1 @@
-{"index": 187600, "D": "to imitate or copy in action, speech, etc., often playfully or derisively.", "S": ["aped "], "A": []}
+{"index": 187600, "D": "to imitate or copy in action, speech, etc., often playfully or derisively.", "S": ["aped"], "A": []}

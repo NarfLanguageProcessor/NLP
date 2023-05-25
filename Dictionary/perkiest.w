@@ -1,1 +1,1 @@
-{"index": 231532, "D": "jaunty; cheerful; brisk; pert.", "S": ["bouncy ", "bright ", "bubbly ", "cheerful ", "cheery ", "jaunty ", "lively ", "sunny "], "A": ["cloudy ", "depressed ", "dull ", "gloomy ", "lethargic ", "lifeless ", "unhappy "]}
+{"index": 231532, "D": "jaunty; cheerful; brisk; pert.", "S": ["bouncy", "bright", "bubbly", "cheerful", "cheery", "jaunty", "lively", "sunny"], "A": ["cloudy", "depressed", "dull", "gloomy", "lethargic", "lifeless", "unhappy"]}

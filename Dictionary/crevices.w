@@ -1,1 +1,1 @@
-{"index": 72833, "D": "a crack forming an opening; cleft; rift; fissure.", "S": ["abyss ", "chasm ", "chink ", "cleft ", "crack ", "cranny ", "cut ", "division ", "fissure ", "fracture ", "hole ", "interstice ", "opening ", "precipice ", "rent ", "rift ", "slit ", "split "], "A": []}
+{"index": 72833, "D": "a crack forming an opening; cleft; rift; fissure.", "S": ["abyss", "chasm", "chink", "cleft", "crack", "cranny", "cut", "division", "fissure", "fracture", "hole", "interstice", "opening", "precipice", "rent", "rift", "slit", "split"], "A": []}

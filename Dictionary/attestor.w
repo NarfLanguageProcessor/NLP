@@ -1,1 +1,1 @@
-{"index": 23069, "D": "to bear witness  to; certify; declare to be correct, true, or genuine; declare the truth of, in words or writing, especially to affirm in an official capacity", "S": ["attestant ", "attestator ", "deponent ", "testifier "], "A": []}
+{"index": 23069, "D": "to bear witness  to; certify; declare to be correct, true, or genuine; declare the truth of, in words or writing, especially to affirm in an official capacity", "S": ["attestant", "attestator", "deponent", "testifier"], "A": []}

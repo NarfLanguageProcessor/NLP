@@ -1,1 +1,1 @@
-{"index": 175197, "D": "to move or run with bounding steps, as a quadruped, or with a long, easy stride, as a person.", "S": ["gallop ", "trot "], "A": []}
+{"index": 175197, "D": "to move or run with bounding steps, as a quadruped, or with a long, easy stride, as a person.", "S": ["gallop", "trot"], "A": []}

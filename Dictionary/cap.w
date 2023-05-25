@@ -1,1 +1,1 @@
-{"index": 46749, "D": "a close-fitting covering for the head, usually of soft supple material and having no visor or brim.", "S": ["beret "], "A": []}
+{"index": 46749, "D": "a close-fitting covering for the head, usually of soft supple material and having no visor or brim.", "S": ["beret"], "A": []}

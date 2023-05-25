@@ -1,1 +1,1 @@
-{"index": 327469, "D": "a member of the crew that operates a railroad train,  usually an assistant to the conductor, such as a brakeman or flagman.", "S": ["stoker "], "A": []}
+{"index": 327469, "D": "a member of the crew that operates a railroad train,  usually an assistant to the conductor, such as a brakeman or flagman.", "S": ["stoker"], "A": []}

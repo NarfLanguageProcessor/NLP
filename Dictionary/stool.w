@@ -1,1 +1,1 @@
-{"index": 305295, "D": "a single seat on legs or a pedestal and without arms or a back.", "S": ["footrest ", "footstool ", "hassock ", "ottoman "], "A": []}
+{"index": 305295, "D": "a single seat on legs or a pedestal and without arms or a back.", "S": ["footrest", "footstool", "hassock", "ottoman"], "A": []}

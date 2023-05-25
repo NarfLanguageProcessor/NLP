@@ -1,1 +1,1 @@
-{"index": 27040, "D": "a slip or sheet of paper on which a person's vote is marked.", "S": ["county ", "district ", "electorate ", "faction ", "nation ", "precinct "], "A": []}
+{"index": 27040, "D": "a slip or sheet of paper on which a person's vote is marked.", "S": ["county", "district", "electorate", "faction", "nation", "precinct"], "A": []}

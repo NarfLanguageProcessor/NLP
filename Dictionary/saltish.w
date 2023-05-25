@@ -1,1 +1,1 @@
-{"index": 277322, "D": "somewhat salty.", "S": ["briny ", "saline ", "salted ", "salty ", "slightly salty "], "A": []}
+{"index": 277322, "D": "somewhat salty.", "S": ["briny", "saline", "salted", "salty", "slightly salty"], "A": []}

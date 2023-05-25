@@ -1,1 +1,1 @@
-{"index": 94630, "D": "like a dwarf,  especially in being abnormally small; diminutive.", "S": ["dwarf ", "dwarfed ", "scrub ", "short ", "shot ", "shrimp ", "wee "], "A": ["large "]}
+{"index": 94630, "D": "like a dwarf,  especially in being abnormally small; diminutive.", "S": ["dwarf", "dwarfed", "scrub", "short", "shot", "shrimp", "wee"], "A": ["large"]}

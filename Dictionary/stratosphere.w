@@ -1,1 +1,1 @@
-{"index": 305899, "D": "the region of the upper atmosphere extending upward from the tropopause to about 30 miles (50 km) above the earth, characterized by little vertical change in temperature.", "S": ["atmosphere ", "breeze ", "wind "], "A": []}
+{"index": 305899, "D": "the region of the upper atmosphere extending upward from the tropopause to about 30 miles (50 km) above the earth, characterized by little vertical change in temperature.", "S": ["atmosphere", "breeze", "wind"], "A": []}

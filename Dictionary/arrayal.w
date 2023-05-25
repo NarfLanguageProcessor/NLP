@@ -1,1 +1,1 @@
-{"index": 20148, "D": "an act of arraying. ", "S": ["act ", "array ", "demonstration ", "example ", "exhibit ", "parade ", "presentation "], "A": ["concealment ", "hiding ", "dullness ", "modesty ", "plainness ", "simplicity "]}
+{"index": 20148, "D": "an act of arraying. ", "S": ["act", "array", "demonstration", "example", "exhibit", "parade", "presentation"], "A": ["concealment", "hiding", "dullness", "modesty", "plainness", "simplicity"]}

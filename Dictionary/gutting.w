@@ -1,1 +1,1 @@
-{"index": 131643, "D": "Compare foregut, midgut, hindgut. ", "S": ["decimate ", "empty ", "eviscerate ", "loot ", "ransack ", "ravage "], "A": ["protect "]}
+{"index": 131643, "D": "Compare foregut, midgut, hindgut. ", "S": ["decimate", "empty", "eviscerate", "loot", "ransack", "ravage"], "A": ["protect"]}

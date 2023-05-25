@@ -1,1 +1,1 @@
-{"index": 66688, "D": "to draft for military or naval service.", "S": ["compelled ", "contrived ", "enforced ", "involuntary ", "mandatory ", "unwilling "], "A": ["voluntary "]}
+{"index": 66688, "D": "to draft for military or naval service.", "S": ["compelled", "contrived", "enforced", "involuntary", "mandatory", "unwilling"], "A": ["voluntary"]}

@@ -1,1 +1,1 @@
-{"index": 152807, "D": "of, relating to, or occurring at the beginning; first", "S": ["impress ", "seal "], "A": ["mend ", "smooth "]}
+{"index": 152807, "D": "of, relating to, or occurring at the beginning; first", "S": ["impress", "seal"], "A": ["mend", "smooth"]}

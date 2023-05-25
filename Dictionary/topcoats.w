@@ -1,1 +1,0 @@
-{"index": 325834, "D": "a lightweight overcoat.", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 200027, "D": "total rejection of established laws and institutions.", "S": ["anarchy ", "atheism ", "lawlessness "], "A": ["allowance ", "approval ", "ratification "]}
+{"index": 200027, "D": "total rejection of established laws and institutions.", "S": ["anarchy", "atheism", "lawlessness"], "A": ["allowance", "approval", "ratification"]}

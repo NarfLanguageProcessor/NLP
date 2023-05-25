@@ -1,1 +1,1 @@
-{"index": 238427, "D": "the act or operation of digging a pit  or pits. ", "S": ["drilling "], "A": []}
+{"index": 238427, "D": "the act or operation of digging a pit  or pits. ", "S": ["drilling"], "A": []}

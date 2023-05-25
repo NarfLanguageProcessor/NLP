@@ -1,1 +1,1 @@
-{"index": 326638, "D": "the activity or practice of touring,  especially for pleasure.", "S": ["travel "], "A": []}
+{"index": 326638, "D": "the activity or practice of touring,  especially for pleasure.", "S": ["travel"], "A": []}

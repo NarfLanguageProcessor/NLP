@@ -1,1 +1,1 @@
-{"index": 89457, "D": "the act of disseminating,  or spreading widely", "S": ["circulation ", "diffusion ", "promulgation ", "propagation ", "publication ", "publishing "], "A": ["collection ", "gathering "]}
+{"index": 89457, "D": "the act of disseminating,  or spreading widely", "S": ["circulation", "diffusion", "promulgation", "propagation", "publication", "publishing"], "A": ["collection", "gathering"]}

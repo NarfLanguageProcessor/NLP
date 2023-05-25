@@ -1,1 +1,0 @@
-{"index": 331330, "D": "causing trouble,  annoyance, or difficulty; vexatious", "S": ["peril "], "A": ["safety "]}

@@ -1,1 +1,1 @@
-{"index": 20786, "D": "arty. ", "S": ["pretentious ", "self-conscious ", "stilted "], "A": ["natural ", "unpretentious "]}
+{"index": 20786, "D": "arty. ", "S": ["pretentious", "self-conscious", "stilted"], "A": ["natural", "unpretentious"]}

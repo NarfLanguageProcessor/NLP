@@ -1,1 +1,1 @@
-{"index": 114784, "D": "a heavy disk or wheel  rotating on a shaft so that its momentum gives almost uniform rotational speed to the shaft and to all connected machinery.", "S": ["balance "], "A": []}
+{"index": 114784, "D": "a heavy disk or wheel  rotating on a shaft so that its momentum gives almost uniform rotational speed to the shaft and to all connected machinery.", "S": ["balance"], "A": []}

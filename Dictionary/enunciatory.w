@@ -1,1 +1,1 @@
-{"index": 101767, "D": "to utter or pronounce (words, sentences, etc.), especially in an articulate or a particular manner", "S": ["demonstrative ", "descriptive ", "explanatory "], "A": []}
+{"index": 101767, "D": "to utter or pronounce (words, sentences, etc.), especially in an articulate or a particular manner", "S": ["demonstrative", "descriptive", "explanatory"], "A": []}

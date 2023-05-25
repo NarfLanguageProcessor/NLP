@@ -1,1 +1,1 @@
-{"index": 29561, "D": "to hold up; support", "S": ["carry ", "deliver ", "take "], "A": ["fail ", "hold ", "keep ", "lose ", "maintain ", "remain "]}
+{"index": 29561, "D": "to hold up; support", "S": ["carry", "deliver", "take"], "A": ["fail", "hold", "keep", "lose", "maintain", "remain"]}

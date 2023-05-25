@@ -1,1 +1,0 @@
-{"index": 251330, "D": "of or relating to the constitution  of a state, organization, etc.", "S": [], "A": []}

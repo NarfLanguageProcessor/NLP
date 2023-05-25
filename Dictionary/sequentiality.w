@@ -1,1 +1,0 @@
-{"index": 285843, "D": "characterized by regular sequence  of parts.", "S": [], "A": []}

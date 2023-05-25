@@ -1,1 +1,1 @@
-{"index": 997, "D": "the principle or the exercise of complete and unrestricted power in government.", "S": ["autocrat ", "disciplinarian "], "A": []}
+{"index": 997, "D": "the principle or the exercise of complete and unrestricted power in government.", "S": ["autocrat", "disciplinarian"], "A": []}

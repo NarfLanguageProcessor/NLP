@@ -1,1 +1,1 @@
-{"index": 122193, "D": "any article of clothing", "S": ["apparel ", "costume ", "dress ", "robe "], "A": []}
+{"index": 122193, "D": "any article of clothing", "S": ["apparel", "costume", "dress", "robe"], "A": []}

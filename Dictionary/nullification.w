@@ -1,1 +1,1 @@
-{"index": 209475, "D": "an act or instance of nullifying. ", "S": ["abolishment ", "abrogation ", "annulment ", "revocation "], "A": ["allowance ", "approval ", "beginning ", "commencement ", "construction ", "creation ", "opening ", "permission ", "start "]}
+{"index": 209475, "D": "an act or instance of nullifying. ", "S": ["abolishment", "abrogation", "annulment", "revocation"], "A": ["allowance", "approval", "beginning", "commencement", "construction", "creation", "opening", "permission", "start"]}

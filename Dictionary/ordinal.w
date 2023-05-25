@@ -1,1 +1,1 @@
-{"index": 214235, "D": "of or relating to an order, as of animals or plants.", "S": ["figure ", "statistic ", "sum ", "total "], "A": ["part "]}
+{"index": 214235, "D": "of or relating to an order, as of animals or plants.", "S": ["figure", "statistic", "sum", "total"], "A": ["part"]}

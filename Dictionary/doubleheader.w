@@ -1,1 +1,1 @@
-{"index": 91960, "D": "two games, as of basketball, between two different pairs of teams on the same day in immediate succession.", "S": ["bifold ", "binal ", "binary ", "coupled ", "double ", "duple ", "duplex ", "duplicate ", "matched ", "paired ", "twin "], "A": []}
+{"index": 91960, "D": "two games, as of basketball, between two different pairs of teams on the same day in immediate succession.", "S": ["bifold", "binal", "binary", "coupled", "double", "duple", "duplex", "duplicate", "matched", "paired", "twin"], "A": []}

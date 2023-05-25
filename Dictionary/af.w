@@ -1,1 +1,1 @@
-{"index": 5263, "D": "as fuck; to a great degree (a euphemistic initialism used as a general intensifier, without explicit vulgarity)", "S": ["audio ", "radio frequency "], "A": []}
+{"index": 5263, "D": "as fuck; to a great degree (a euphemistic initialism used as a general intensifier, without explicit vulgarity)", "S": ["audio", "radio frequency"], "A": []}

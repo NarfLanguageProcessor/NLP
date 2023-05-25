@@ -1,1 +1,1 @@
-{"index": 172220, "D": "any of various shrubs belonging to the genus Syringa, of the olive family, as S. vulgaris, having large clusters of fragrant purple or white flowers", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}
+{"index": 172220, "D": "any of various shrubs belonging to the genus Syringa, of the olive family, as S. vulgaris, having large clusters of fragrant purple or white flowers", "S": ["color", "lavender", "lilac", "mauve", "periwinkle", "plum", "violet"], "A": []}

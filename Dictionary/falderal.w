@@ -1,1 +1,1 @@
-{"index": 109449, "D": "a showy but worthless trifle", "S": ["absurdity ", "baloney ", "bunk ", "craziness ", "garbage ", "gibberish ", "gobbledygook ", "horse feathers ", "lunacy ", "nonsense ", "stupidity ", "twaddle "], "A": []}
+{"index": 109449, "D": "a showy but worthless trifle", "S": ["absurdity", "baloney", "bunk", "craziness", "garbage", "gibberish", "gobbledygook", "horse feathers", "lunacy", "nonsense", "stupidity", "twaddle"], "A": []}

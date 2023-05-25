@@ -1,1 +1,1 @@
-{"index": 105057, "D": "pertaining to or characteristic of a people, especially a group (ethnic group ) sharing a common and distinctive culture, religion, language, or the like.", "S": ["indigenous ", "national ", "traditional ", "tribal "], "A": []}
+{"index": 105057, "D": "pertaining to or characteristic of a people, especially a group (ethnic group ) sharing a common and distinctive culture, religion, language, or the like.", "S": ["indigenous", "national", "traditional", "tribal"], "A": []}

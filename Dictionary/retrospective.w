@@ -1,1 +1,1 @@
-{"index": 270906, "D": "directed to the past; contemplative of past situations, events, etc.", "S": ["reflective "], "A": []}
+{"index": 270906, "D": "directed to the past; contemplative of past situations, events, etc.", "S": ["reflective"], "A": []}

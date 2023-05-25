@@ -1,1 +1,1 @@
-{"index": 193258, "D": "the unit of time equivalent to the ordinary or normal short sound or syllable.", "S": ["feet "], "A": []}
+{"index": 193258, "D": "the unit of time equivalent to the ordinary or normal short sound or syllable.", "S": ["feet"], "A": []}

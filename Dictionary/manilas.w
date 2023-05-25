@@ -1,1 +1,1 @@
-{"index": 179307, "D": "Compare Quezon City. ", "S": ["bhang ", "cannabis ", "fiber ", "flax ", "hashish ", "jute ", "marijuana "], "A": []}
+{"index": 179307, "D": "Compare Quezon City. ", "S": ["bhang", "cannabis", "fiber", "flax", "hashish", "jute", "marijuana"], "A": []}

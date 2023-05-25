@@ -1,1 +1,1 @@
-{"index": 74603, "D": "a short, thick stick used as a weapon; club.", "S": ["nightstick ", "truncheon "], "A": []}
+{"index": 74603, "D": "a short, thick stick used as a weapon; club.", "S": ["nightstick", "truncheon"], "A": []}

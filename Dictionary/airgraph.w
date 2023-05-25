@@ -1,1 +1,1 @@
-{"index": 6913, "D": [], "S": ["aerogram ", "aerogramme ", "airmail letter "], "A": []}
+{"index": 6913, "D": [], "S": ["aerogram", "aerogramme", "airmail letter"], "A": []}

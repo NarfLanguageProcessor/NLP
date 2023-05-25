@@ -1,1 +1,1 @@
-{"index": 267395, "D": "to model  again.", "S": ["alteration ", "changeover ", "growth ", "modification ", "reconstruction ", "reorganization ", "switch ", "transformation "], "A": ["stagnation "]}
+{"index": 267395, "D": "to model  again.", "S": ["alteration", "changeover", "growth", "modification", "reconstruction", "reorganization", "switch", "transformation"], "A": ["stagnation"]}

@@ -1,1 +1,1 @@
-{"index": 301114, "D": "full of, having, or occurring in spots", "S": ["erratic ", "patchy ", "sporadic ", "uneven "], "A": ["consistent ", "continuous ", "dependable ", "regular "]}
+{"index": 301114, "D": "full of, having, or occurring in spots", "S": ["erratic", "patchy", "sporadic", "uneven"], "A": ["consistent", "continuous", "dependable", "regular"]}

@@ -1,1 +1,1 @@
-{"index": 12475, "D": "a short account of a particular incident or event, especially of an interesting or amusing nature.", "S": ["episode ", "gag ", "narration ", "narrative ", "reminiscence ", "short story ", "sketch ", "tale ", "tall tale ", "yarn "], "A": []}
+{"index": 12475, "D": "a short account of a particular incident or event, especially of an interesting or amusing nature.", "S": ["episode", "gag", "narration", "narrative", "reminiscence", "short story", "sketch", "tale", "tall tale", "yarn"], "A": []}

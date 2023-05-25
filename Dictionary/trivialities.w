@@ -1,1 +1,0 @@
-{"index": 330843, "D": "something trivial;  a trivial  matter, affair, remark, etc.", "S": ["fiddle-faddle ", "frippery ", "frivolity ", "froth ", "memorabilia ", "nonsense ", "trifle ", "trifles ", "triviality "], "A": []}

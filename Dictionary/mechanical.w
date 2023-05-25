@@ -1,1 +1,1 @@
-{"index": 181867, "D": "having to do with machinery", "S": ["automated ", "automatic "], "A": ["by hand ", "manual "]}
+{"index": 181867, "D": "having to do with machinery", "S": ["automated", "automatic"], "A": ["by hand", "manual"]}

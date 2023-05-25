@@ -1,1 +1,1 @@
-{"index": 352193, "D": "lacking a clearly defined structure or organization", "S": ["disorganized ", "unregulated "], "A": []}
+{"index": 352193, "D": "lacking a clearly defined structure or organization", "S": ["disorganized", "unregulated"], "A": []}

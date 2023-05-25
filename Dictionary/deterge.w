@@ -1,1 +1,1 @@
-{"index": 83127, "D": "to wipe or wash away; cleanse.", "S": ["bathe ", "brush ", "cleanse ", "clear up ", "disinfect ", "dredge ", "dust ", "mop ", "pick ", "pick up ", "rinse ", "scrape ", "scrub ", "soak ", "spruce up ", "sweep ", "vacuum ", "wash ", "wipe "], "A": ["dirty ", "worsen "]}
+{"index": 83127, "D": "to wipe or wash away; cleanse.", "S": ["bathe", "brush", "cleanse", "clear up", "disinfect", "dredge", "dust", "mop", "pick", "pick up", "rinse", "scrape", "scrub", "soak", "spruce up", "sweep", "vacuum", "wash", "wipe"], "A": ["dirty", "worsen"]}

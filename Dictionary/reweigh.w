@@ -1,1 +1,1 @@
-{"index": 271611, "D": [], "S": ["amend ", "reassess ", "reevaluate ", "reexamine ", "rethink ", "review ", "revise "], "A": ["spoil "]}
+{"index": 271611, "D": [], "S": ["amend", "reassess", "reevaluate", "reexamine", "rethink", "review", "revise"], "A": ["spoil"]}

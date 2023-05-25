@@ -1,1 +1,1 @@
-{"index": 262868, "D": "a person or thing that receives; receiver", "S": ["prospects ", "subscribers "], "A": []}
+{"index": 262868, "D": "a person or thing that receives; receiver", "S": ["prospects", "subscribers"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 199120, "D": "of or relating to the nervous system or neurology", "S": ["audiovisual ", "auditory ", "aural ", "neural ", "olfactory ", "sensual ", "sonic ", "tactile ", "visual "], "A": []}
+{"index": 199120, "D": "of or relating to the nervous system or neurology", "S": ["audiovisual", "auditory", "aural", "neural", "olfactory", "sensual", "sonic", "tactile", "visual"], "A": []}

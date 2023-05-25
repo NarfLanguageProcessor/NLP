@@ -1,1 +1,1 @@
-{"index": 132437, "D": "a very small space or distance", "S": ["bit ", "fraction ", "hair ", "jot "], "A": []}
+{"index": 132437, "D": "a very small space or distance", "S": ["bit", "fraction", "hair", "jot"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 99024, "D": "a glassy substance, usually opaque, applied by fusion to the surface of metal, pottery, etc., as an ornament or for protection.", "S": ["burnished ", "glassy ", "lustrous ", "shiny ", "translucent "], "A": ["dark ", "dull "]}
+{"index": 99024, "D": "a glassy substance, usually opaque, applied by fusion to the surface of metal, pottery, etc., as an ornament or for protection.", "S": ["burnished", "glassy", "lustrous", "shiny", "translucent"], "A": ["dark", "dull"]}

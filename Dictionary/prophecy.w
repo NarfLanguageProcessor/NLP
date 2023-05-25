@@ -1,1 +1,1 @@
-{"index": 252614, "D": "the foretelling or prediction of what is to come.", "S": ["apocalypse ", "prognostication ", "revelation "], "A": []}
+{"index": 252614, "D": "the foretelling or prediction of what is to come.", "S": ["apocalypse", "prognostication", "revelation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 101014, "D": "to enclose in or as in a shrine", "S": ["altar ", "chapel ", "church ", "holy place ", "mausoleum ", "sanctuary ", "temple "], "A": []}
+{"index": 101014, "D": "to enclose in or as in a shrine", "S": ["altar", "chapel", "church", "holy place", "mausoleum", "sanctuary", "temple"], "A": []}

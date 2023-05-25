@@ -1,1 +1,1 @@
-{"index": 13109, "D": "in any way whatever.", "S": ["anyway "], "A": []}
+{"index": 13109, "D": "in any way whatever.", "S": ["anyway"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 128336, "D": "Compare gourd family. ", "S": ["beaker ", "canteen ", "carafe ", "chalice ", "decanter ", "jug ", "urn ", "vial "], "A": []}
+{"index": 128336, "D": "Compare gourd family. ", "S": ["beaker", "canteen", "carafe", "chalice", "decanter", "jug", "urn", "vial"], "A": []}

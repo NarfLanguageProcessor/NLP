@@ -1,1 +1,1 @@
-{"index": 96241, "D": "having or regarding the self or the individual as the center of all things", "S": ["egocentrism ", "egomania ", "narcissism ", "self-absorption ", "self-centeredness ", "self-importance ", "self-love ", "selfishness "], "A": []}
+{"index": 96241, "D": "having or regarding the self or the individual as the center of all things", "S": ["egocentrism", "egomania", "narcissism", "self-absorption", "self-centeredness", "self-importance", "self-love", "selfishness"], "A": []}

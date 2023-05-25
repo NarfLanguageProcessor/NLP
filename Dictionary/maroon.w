@@ -1,1 +1,1 @@
-{"index": 180288, "D": "dark brownish-red.", "S": ["isolate ", "strand "], "A": ["care ", "help ", "maintain ", "rescue ", "save ", "take care "]}
+{"index": 180288, "D": "dark brownish-red.", "S": ["isolate", "strand"], "A": ["care", "help", "maintain", "rescue", "save", "take care"]}

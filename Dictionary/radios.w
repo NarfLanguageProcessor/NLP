@@ -1,1 +1,1 @@
-{"index": 259762, "D": "wireless telegraphy or telephony", "S": ["VCRs ", "camcorders ", "computers ", "stereos ", "televisions ", "transistors "], "A": []}
+{"index": 259762, "D": "wireless telegraphy or telephony", "S": ["VCRs", "camcorders", "computers", "stereos", "televisions", "transistors"], "A": []}

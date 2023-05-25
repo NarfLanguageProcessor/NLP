@@ -1,1 +1,1 @@
-{"index": 36501, "D": "eager to shed blood;  murderous", "S": ["barbarity ", "brutality ", "cruelty ", "ferociousness ", "murderousness ", "savagery ", "viciousness ", "violence ", "wildness "], "A": []}
+{"index": 36501, "D": "eager to shed blood;  murderous", "S": ["barbarity", "brutality", "cruelty", "ferociousness", "murderousness", "savagery", "viciousness", "violence", "wildness"], "A": []}

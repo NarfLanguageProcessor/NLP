@@ -1,1 +1,1 @@
-{"index": 222714, "D": "a person who believes in pacifism  or is opposed to war or to violence of any kind.", "S": ["peacemaker "], "A": []}
+{"index": 222714, "D": "a person who believes in pacifism  or is opposed to war or to violence of any kind.", "S": ["peacemaker"], "A": []}

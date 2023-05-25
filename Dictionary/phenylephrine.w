@@ -1,1 +1,0 @@
-{"index": 233344, "D": "an alpha-adrenergic stimulant, C19H13NO2, used chiefly as a nasal decongestant.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 360861, "D": "the stock of words used by or known to a particular people or group of persons", "S": ["dictionary ", "glossary ", "jargon ", "terminology "], "A": []}
+{"index": 360861, "D": "the stock of words used by or known to a particular people or group of persons", "S": ["dictionary", "glossary", "jargon", "terminology"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 250117, "D": "widespread;  of wide extent or occurrence; in general use or acceptance.", "S": ["basically ", "chiefly ", "first and foremost ", "generally ", "importantly ", "largely ", "mostly ", "notably ", "particularly ", "predominantly "], "A": []}
+{"index": 250117, "D": "widespread;  of wide extent or occurrence; in general use or acceptance.", "S": ["basically", "chiefly", "first and foremost", "generally", "importantly", "largely", "mostly", "notably", "particularly", "predominantly"], "A": []}

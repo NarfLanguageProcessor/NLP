@@ -1,1 +1,1 @@
-{"index": 335046, "D": [], "S": ["all of a sudden ", "precipitously ", "suddenly ", "unexpectedly "], "A": []}
+{"index": 335046, "D": [], "S": ["all of a sudden", "precipitously", "suddenly", "unexpectedly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 65804, "D": "united in a league, alliance, or conspiracy.", "S": ["ally ", "amalgamate ", "band ", "collaborate ", "combine ", "concur ", "confederate ", "conjoin ", "consolidate ", "cooperate ", "federate ", "unite "], "A": ["disagree ", "divide ", "part ", "separate "]}
+{"index": 65804, "D": "united in a league, alliance, or conspiracy.", "S": ["ally", "amalgamate", "band", "collaborate", "combine", "concur", "confederate", "conjoin", "consolidate", "cooperate", "federate", "unite"], "A": ["disagree", "divide", "part", "separate"]}

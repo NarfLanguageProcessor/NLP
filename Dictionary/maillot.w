@@ -1,1 +1,1 @@
-{"index": 177859, "D": "a close-fitting, one-piece bathing suit for women, simply styled and usually having a scoop neck and shoulder straps.", "S": ["bikini ", "swimsuit "], "A": []}
+{"index": 177859, "D": "a close-fitting, one-piece bathing suit for women, simply styled and usually having a scoop neck and shoulder straps.", "S": ["bikini", "swimsuit"], "A": []}

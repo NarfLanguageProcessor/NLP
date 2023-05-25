@@ -1,1 +1,1 @@
-{"index": 83997, "D": "a belief in or worship of devils.", "S": [], "A": []}
+{"index": 83997, "D": "a belief in or worship of devils.", "S": ["witchcraft"], "A": []}

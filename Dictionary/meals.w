@@ -1,1 +1,1 @@
-{"index": 181729, "D": "the food served and eaten especially at one of the customary, regular occasions for taking food during the day, as breakfast, lunch, or supper.", "S": ["grub "], "A": []}
+{"index": 181729, "D": "the food served and eaten especially at one of the customary, regular occasions for taking food during the day, as breakfast, lunch, or supper.", "S": ["grub"], "A": []}

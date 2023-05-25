@@ -1,1 +1,1 @@
-{"index": 46044, "D": "a thin piece of bread or toast or a cracker spread or topped with cheese, caviar, anchovies, or other savory food.", "S": ["starter "], "A": []}
+{"index": 46044, "D": "a thin piece of bread or toast or a cracker spread or topped with cheese, caviar, anchovies, or other savory food.", "S": ["starter"], "A": []}

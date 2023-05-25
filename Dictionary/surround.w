@@ -1,1 +1,1 @@
-{"index": 313619, "D": "to enclose on all sides; encompass", "S": ["besiege ", "circle ", "envelop ", "hem in ", "inundate ", "ring "], "A": ["free ", "allow ", "center ", "let go ", "lose ", "permit ", "release "]}
+{"index": 313619, "D": "to enclose on all sides; encompass", "S": ["besiege", "circle", "envelop", "hem in", "inundate", "ring"], "A": ["free", "allow", "center", "let go", "lose", "permit", "release"]}

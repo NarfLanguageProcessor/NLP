@@ -1,1 +1,1 @@
-{"index": 78426, "D": "material, as paper or fiberboard, treated in various ways as a waterproof covering for a deck  or roof.", "S": ["exquisite ", "ornate ", "showy "], "A": ["plain ", "unembellished "]}
+{"index": 78426, "D": "material, as paper or fiberboard, treated in various ways as a waterproof covering for a deck  or roof.", "S": ["exquisite", "ornate", "showy"], "A": ["plain", "unembellished"]}

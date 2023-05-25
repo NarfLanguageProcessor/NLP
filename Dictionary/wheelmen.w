@@ -1,1 +1,1 @@
-{"index": 364544, "D": "a helmsperson or steersperson.", "S": ["pilot "], "A": []}
+{"index": 364544, "D": "a helmsperson or steersperson.", "S": ["pilot"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 2218, "D": "to have or suffer a continuous, dull pain", "S": ["throb "], "A": ["aid ", "assist ", "assuage ", "help ", "please ", "relieve ", "soothe "]}
+{"index": 2218, "D": "to have or suffer a continuous, dull pain", "S": ["throb"], "A": ["aid", "assist", "assuage", "help", "please", "relieve", "soothe"]}

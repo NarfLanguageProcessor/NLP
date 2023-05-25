@@ -1,1 +1,1 @@
-{"index": 111887, "D": "in a way that is overexcited, restless, or uncontrolled, as if from fever", "S": ["breathlessly ", "eagerly ", "frantically ", "furiously ", "heatedly ", "madly ", "passionately ", "tensely ", "wildly "], "A": []}
+{"index": 111887, "D": "in a way that is overexcited, restless, or uncontrolled, as if from fever", "S": ["breathlessly", "eagerly", "frantically", "furiously", "heatedly", "madly", "passionately", "tensely", "wildly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 352505, "D": "not feeling amazement or wonder", "S": ["nonplussed ", "unconcerned ", "unruffled ", "unvexed ", "unworried "], "A": ["shocked ", "surprised ", "nervous ", "perturbed ", "upset ", "worried "]}
+{"index": 352505, "D": "not feeling amazement or wonder", "S": ["nonplussed", "unconcerned", "unruffled", "unvexed", "unworried"], "A": ["shocked", "surprised", "nervous", "perturbed", "upset", "worried"]}

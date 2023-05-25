@@ -1,1 +1,1 @@
-{"index": 348940, "D": "not open to doubt or question;  undisputed", "S": ["accepted ", "approved ", "confirmed ", "recognized "], "A": []}
+{"index": 348940, "D": "not open to doubt or question;  undisputed", "S": ["accepted", "approved", "confirmed", "recognized"], "A": []}

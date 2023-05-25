@@ -1,1 +1,1 @@
-{"index": 165544, "D": "an instrument for cutting, consisting essentially of a thin, sharp-edged, metal blade fitted with a handle.", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}
+{"index": 165544, "D": "an instrument for cutting, consisting essentially of a thin, sharp-edged, metal blade fitted with a handle.", "S": ["bayonet", "blade", "cutter", "dagger", "machete", "scalpel", "sickle", "skewer", "sword"], "A": []}

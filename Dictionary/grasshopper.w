@@ -1,1 +1,1 @@
-{"index": 129190, "D": "Compare locust (def. 1), long-horned grasshopper. ", "S": ["ant ", "aphid ", "bee ", "beetle ", "butterfly ", "cockroach ", "dragonfly ", "flea ", "fruit fly ", "gnat ", "ladybug ", "mite ", "mosquito ", "moth ", "pest ", "spider ", "termite ", "tick "], "A": []}
+{"index": 129190, "D": "Compare locust (def. 1), long-horned grasshopper. ", "S": ["ant", "aphid", "bee", "beetle", "butterfly", "cockroach", "dragonfly", "flea", "fruit fly", "gnat", "ladybug", "mite", "mosquito", "moth", "pest", "spider", "termite", "tick"], "A": []}

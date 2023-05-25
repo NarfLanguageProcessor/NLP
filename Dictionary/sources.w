@@ -1,1 +1,1 @@
-{"index": 297918, "D": "any thing or place from which something comes, arises, or is obtained; origin", "S": ["authority ", "cause ", "expert ", "origin "], "A": ["consequence ", "effect ", "end ", "outcome ", "outgrowth ", "result ", "completion ", "conclusion ", "ending ", "finish ", "stop "]}
+{"index": 297918, "D": "any thing or place from which something comes, arises, or is obtained; origin", "S": ["authority", "cause", "expert", "origin"], "A": ["consequence", "effect", "end", "outcome", "outgrowth", "result", "completion", "conclusion", "ending", "finish", "stop"]}

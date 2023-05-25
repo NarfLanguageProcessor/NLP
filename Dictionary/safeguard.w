@@ -1,1 +1,1 @@
-{"index": 276556, "D": "something that serves as a protection or defense or that ensures safety.", "S": ["security ", "shield "], "A": ["endangerment ", "harm ", "hurt ", "injury "]}
+{"index": 276556, "D": "something that serves as a protection or defense or that ensures safety.", "S": ["security", "shield"], "A": ["endangerment", "harm", "hurt", "injury"]}

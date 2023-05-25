@@ -1,1 +1,1 @@
-{"index": 17939, "D": "a person who works for another in order to learn a trade", "S": ["constrained ", "enslaved ", "obligated ", "restrained "], "A": ["irresolute "]}
+{"index": 17939, "D": "a person who works for another in order to learn a trade", "S": ["constrained", "enslaved", "obligated", "restrained"], "A": ["irresolute"]}

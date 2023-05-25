@@ -1,1 +1,1 @@
-{"index": 106444, "D": "an examination, as in school.", "S": ["assessment ", "examination ", "final ", "midterm ", "quiz ", "review "], "A": []}
+{"index": 106444, "D": "an examination, as in school.", "S": ["assessment", "examination", "final", "midterm", "quiz", "review"], "A": []}

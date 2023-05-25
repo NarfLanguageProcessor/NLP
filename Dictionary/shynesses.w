@@ -1,1 +1,1 @@
-{"index": 288351, "D": "bashful; retiring. ", "S": ["insecurity ", "modesty ", "reticence ", "timidity "], "A": ["boldness "]}
+{"index": 288351, "D": "bashful; retiring. ", "S": ["insecurity", "modesty", "reticence", "timidity"], "A": ["boldness"]}

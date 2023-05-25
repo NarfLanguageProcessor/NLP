@@ -1,1 +1,1 @@
-{"index": 146184, "D": "of, relating to, or characteristic of an icon. ", "S": ["archetypal ", "epochal ", "exemplary "], "A": ["atypical ", "unrecognizable "]}
+{"index": 146184, "D": "of, relating to, or characteristic of an icon. ", "S": ["archetypal", "epochal", "exemplary"], "A": ["atypical", "unrecognizable"]}

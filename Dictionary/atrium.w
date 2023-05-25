@@ -1,1 +1,1 @@
-{"index": 22865, "D": "a skylit central court in a contemporary building or house.", "S": ["chamber ", "entrance "], "A": []}
+{"index": 22865, "D": "a skylit central court in a contemporary building or house.", "S": ["chamber", "entrance"], "A": []}

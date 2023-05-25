@@ -1,1 +1,1 @@
-{"index": 153991, "D": "serving or acting as an instrument or means; useful; helpful.", "S": ["involved "], "A": ["unhelpful ", "useless "]}
+{"index": 153991, "D": "serving or acting as an instrument or means; useful; helpful.", "S": ["involved"], "A": ["unhelpful", "useless"]}

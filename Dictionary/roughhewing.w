@@ -1,1 +1,1 @@
-{"index": 274781, "D": "to hew (timber, stone, etc.) roughly or without smoothing or finishing.", "S": ["carve ", "sculpt "], "A": []}
+{"index": 274781, "D": "to hew (timber, stone, etc.) roughly or without smoothing or finishing.", "S": ["carve", "sculpt"], "A": []}

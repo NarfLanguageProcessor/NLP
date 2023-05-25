@@ -1,1 +1,1 @@
-{"index": 117367, "D": "condition or quality of being formal;  accordance with required or traditional rules, procedures, etc.; conventionality.", "S": ["procedure ", "red tape ", "rite ", "ritual "], "A": ["informality "]}
+{"index": 117367, "D": "condition or quality of being formal;  accordance with required or traditional rules, procedures, etc.; conventionality.", "S": ["procedure", "red tape", "rite", "ritual"], "A": ["informality"]}

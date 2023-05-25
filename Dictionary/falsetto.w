@@ -1,1 +1,1 @@
-{"index": 109533, "D": "an unnaturally or artificially high-pitched voice or register, especially in a man.", "S": ["strident ", "stridulate ", "stridulous "], "A": []}
+{"index": 109533, "D": "an unnaturally or artificially high-pitched voice or register, especially in a man.", "S": ["strident", "stridulate", "stridulous"], "A": []}

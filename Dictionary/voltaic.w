@@ -1,1 +1,1 @@
-{"index": 361178, "D": "noting or pertaining to electricity or electric currents, especially when produced by chemical action, as in a cell; galvanic.", "S": ["electrical ", "magnetic "], "A": ["boring ", "dull ", "unenergetic ", "unexciting "]}
+{"index": 361178, "D": "noting or pertaining to electricity or electric currents, especially when produced by chemical action, as in a cell; galvanic.", "S": ["electrical", "magnetic"], "A": ["boring", "dull", "unenergetic", "unexciting"]}

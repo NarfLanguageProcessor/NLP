@@ -1,1 +1,0 @@
-{"index": 330834, "D": "matters or things that are very unimportant, inconsequential, or nonessential; trifles; trivialities.", "S": ["memorabilia ", "minutiae "], "A": ["generality ", "importance ", "significance ", "weight "]}

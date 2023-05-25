@@ -1,1 +1,0 @@
-{"index": 180340, "D": "See Word Story at the current entry.", "S": ["merger ", "wedding "], "A": ["antagonism ", "disunion ", "divorce ", "separation "]}

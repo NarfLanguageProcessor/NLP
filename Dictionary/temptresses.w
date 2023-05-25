@@ -1,1 +1,1 @@
-{"index": 318650, "D": "a woman who tempts,  entices, or allures.", "S": ["delilah ", "enchantress ", "jezebel ", "lorelei ", "mermaid ", "seductress ", "siren ", "sorceress "], "A": []}
+{"index": 318650, "D": "a woman who tempts,  entices, or allures.", "S": ["delilah", "enchantress", "jezebel", "lorelei", "mermaid", "seductress", "siren", "sorceress"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 181866, "D": "a person who repairs and maintains machinery, motors, etc.", "S": ["repairman ", "technician "], "A": []}
+{"index": 181866, "D": "a person who repairs and maintains machinery, motors, etc.", "S": ["repairman", "technician"], "A": []}

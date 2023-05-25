@@ -1,1 +1,1 @@
-{"index": 288933, "D": "one of an English breed of red, white, or roan beef cattle, some having short horns  and some naturally hornless. ", "S": ["herd ", "oxen "], "A": []}
+{"index": 288933, "D": "one of an English breed of red, white, or roan beef cattle, some having short horns  and some naturally hornless. ", "S": ["herd", "oxen"], "A": []}

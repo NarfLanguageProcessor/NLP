@@ -1,1 +1,1 @@
-{"index": 317228, "D": "(of finery, trappings, etc.) gaudy; showy and cheap.", "S": ["sleazy ", "tacky ", "vulgar "], "A": ["nice "]}
+{"index": 317228, "D": "(of finery, trappings, etc.) gaudy; showy and cheap.", "S": ["sleazy", "tacky", "vulgar"], "A": ["nice"]}

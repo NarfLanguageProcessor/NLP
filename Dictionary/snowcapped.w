@@ -1,1 +1,1 @@
-{"index": 295799, "D": "topped with snow", "S": ["aerial ", "elevated ", "high ", "high-reaching ", "in the clouds ", "lofty ", "montane ", "mountainous ", "rangy ", "soaring ", "towering "], "A": []}
+{"index": 295799, "D": "topped with snow", "S": ["aerial", "elevated", "high", "high-reaching", "in the clouds", "lofty", "montane", "mountainous", "rangy", "soaring", "towering"], "A": []}

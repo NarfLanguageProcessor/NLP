@@ -1,1 +1,1 @@
-{"index": 9052, "D": "to attract or tempt by something flattering or desirable.", "S": ["charmer ", "enchanter ", "enticer ", "lurer ", "tempter "], "A": []}
+{"index": 9052, "D": "to attract or tempt by something flattering or desirable.", "S": ["charmer", "enchanter", "enticer", "lurer", "tempter"], "A": []}

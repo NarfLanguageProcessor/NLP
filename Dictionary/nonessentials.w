@@ -1,1 +1,1 @@
-{"index": 203640, "D": "not essential;  not necessary", "S": ["ego goods ", "frills ", "luxury articles "], "A": []}
+{"index": 203640, "D": "not essential;  not necessary", "S": ["ego goods", "frills", "luxury articles"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 209765, "D": "a crazy or eccentric person; nutjob; nut.", "S": ["maniac ", "psychopath "], "A": []}
+{"index": 209765, "D": "a crazy or eccentric person; nutjob; nut.", "S": ["maniac", "psychopath"], "A": []}

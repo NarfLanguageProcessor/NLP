@@ -1,1 +1,1 @@
-{"index": 171546, "D": "all of the instinctual energies and desires that are derived from the id. ", "S": ["lust ", "sexual desire ", "sexuality "], "A": []}
+{"index": 171546, "D": "all of the instinctual energies and desires that are derived from the id. ", "S": ["lust", "sexual desire", "sexuality"], "A": []}

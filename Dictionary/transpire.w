@@ -1,1 +1,1 @@
-{"index": 328226, "D": "to occur; happen; take place.", "S": ["arise ", "befall ", "ensue "], "A": ["cause ", "stop "]}
+{"index": 328226, "D": "to occur; happen; take place.", "S": ["arise", "befall", "ensue"], "A": ["cause", "stop"]}

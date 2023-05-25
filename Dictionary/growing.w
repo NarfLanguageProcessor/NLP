@@ -1,1 +1,1 @@
-{"index": 130418, "D": "becoming greater in quantity, size, extent, or intensity", "S": ["burgeoning ", "developing ", "expanding ", "flourishing ", "spreading ", "thriving ", "viable "], "A": ["failing ", "languishing ", "dead ", "dying ", "shrinking "]}
+{"index": 130418, "D": "becoming greater in quantity, size, extent, or intensity", "S": ["burgeoning", "developing", "expanding", "flourishing", "spreading", "thriving", "viable"], "A": ["failing", "languishing", "dead", "dying", "shrinking"]}

@@ -1,1 +1,0 @@
-{"index": 262839, "D": "to treat or process (used or waste materials) so as to make suitable for reuse", "S": [], "A": []}

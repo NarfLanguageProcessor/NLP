@@ -1,1 +1,1 @@
-{"index": 58111, "D": [], "S": ["encircle ", "rotate ", "surround ", "whirl "], "A": []}
+{"index": 58111, "D": [], "S": ["encircle", "rotate", "surround", "whirl"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 367302, "D": "any cloth of carded wool  yarn of which the fibers vary in length", "S": ["flannels ", "thermal underwear ", "thermals "], "A": []}
+{"index": 367302, "D": "any cloth of carded wool  yarn of which the fibers vary in length", "S": ["flannels", "thermal underwear", "thermals"], "A": []}

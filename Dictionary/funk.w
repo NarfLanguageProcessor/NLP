@@ -1,1 +1,1 @@
-{"index": 120283, "D": "cowering fear; state of great fright or terror.", "S": ["alarm ", "despondency ", "fright ", "gloom ", "misery ", "panic ", "trembling "], "A": ["cheer ", "confidence ", "happiness ", "joy ", "security "]}
+{"index": 120283, "D": "cowering fear; state of great fright or terror.", "S": ["alarm", "despondency", "fright", "gloom", "misery", "panic", "trembling"], "A": ["cheer", "confidence", "happiness", "joy", "security"]}

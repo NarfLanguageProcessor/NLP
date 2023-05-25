@@ -1,1 +1,1 @@
-{"index": 302373, "D": "the state or condition of stagnating,  or having stopped, as by ceasing to run or flow", "S": ["sluggishness "], "A": ["boom ", "rise "]}
+{"index": 302373, "D": "the state or condition of stagnating,  or having stopped, as by ceasing to run or flow", "S": ["sluggishness"], "A": ["boom", "rise"]}

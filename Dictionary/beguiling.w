@@ -1,1 +1,1 @@
-{"index": 30745, "D": "having the power to charm or divert the attention; intriguing", "S": ["captivating ", "charming ", "enticing ", "seductive ", "tempting "], "A": ["repulsive "]}
+{"index": 30745, "D": "having the power to charm or divert the attention; intriguing", "S": ["captivating", "charming", "enticing", "seductive", "tempting"], "A": ["repulsive"]}

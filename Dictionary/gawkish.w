@@ -1,1 +1,1 @@
-{"index": 122952, "D": "awkward; ungainly; clumsy.", "S": ["bulky ", "heavy-handed ", "inept ", "ponderous ", "ungainly ", "unwieldy "], "A": ["adroit ", "agile ", "athletic ", "clever ", "coordinated ", "couth ", "dexterous ", "expert ", "graceful "]}
+{"index": 122952, "D": "awkward; ungainly; clumsy.", "S": ["bulky", "heavy-handed", "inept", "ponderous", "ungainly", "unwieldy"], "A": ["adroit", "agile", "athletic", "clever", "coordinated", "couth", "dexterous", "expert", "graceful"]}

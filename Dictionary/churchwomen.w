@@ -1,1 +1,1 @@
-{"index": 56715, "D": "a female member, adherent, or active supporter of a church. ", "S": ["chaplain ", "cleric ", "clerical ", "divine ", "ecclesiastic ", "minister ", "parson ", "priest ", "reverend "], "A": []}
+{"index": 56715, "D": "a female member, adherent, or active supporter of a church. ", "S": ["chaplain", "cleric", "clerical", "divine", "ecclesiastic", "minister", "parson", "priest", "reverend"], "A": []}

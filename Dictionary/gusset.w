@@ -1,1 +1,1 @@
-{"index": 131545, "D": "Compare godet (def. 1), gore3 (def. 1). ", "S": ["hem ", "joint ", "pleat "], "A": ["opening "]}
+{"index": 131545, "D": "Compare godet (def. 1), gore3 (def. 1). ", "S": ["hem", "joint", "pleat"], "A": ["opening"]}

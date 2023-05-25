@@ -1,1 +1,1 @@
-{"index": 113018, "D": "to bring (something) to an end or to completion; complete", "S": ["altercation ", "bickering ", "brawl ", "clash ", "controversy ", "debate ", "disagreement ", "dispute ", "exchange ", "feud ", "quarrel ", "squabble "], "A": ["agreement ", "harmony ", "peace ", "calm "]}
+{"index": 113018, "D": "to bring (something) to an end or to completion; complete", "S": ["altercation", "bickering", "brawl", "clash", "controversy", "debate", "disagreement", "dispute", "exchange", "feud", "quarrel", "squabble"], "A": ["agreement", "harmony", "peace", "calm"]}

@@ -1,1 +1,1 @@
-{"index": 114951, "D": "occupying the entire depth of a building", "S": ["condo ", "suite ", "tenement ", "walk-up "], "A": []}
+{"index": 114951, "D": "occupying the entire depth of a building", "S": ["condo", "suite", "tenement", "walk-up"], "A": []}

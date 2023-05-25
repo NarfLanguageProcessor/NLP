@@ -1,1 +1,1 @@
-{"index": 237144, "D": "one of the primary divisions of a pinnate leaf.", "S": ["fringe ", "plume "], "A": []}
+{"index": 237144, "D": "one of the primary divisions of a pinnate leaf.", "S": ["fringe", "plume"], "A": []}

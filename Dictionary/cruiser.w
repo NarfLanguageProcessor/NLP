@@ -1,1 +1,1 @@
-{"index": 74148, "D": "a person or thing that cruises. ", "S": ["pleasure boat "], "A": []}
+{"index": 74148, "D": "a person or thing that cruises. ", "S": ["pleasure boat"], "A": []}

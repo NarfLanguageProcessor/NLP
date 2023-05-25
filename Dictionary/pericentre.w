@@ -1,1 +1,0 @@
-{"index": 230827, "D": "the point in an elliptical orbit that is nearest to the centre of mass of the system", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 354124, "D": "to undo, take apart, or separate (something woven); unravel.", "S": ["disentangle ", "free ", "loosen ", "unbraid ", "unravel ", "unsnarl ", "untangle ", "untwine ", "untwist ", "unweave ", "unwind "], "A": ["tangle ", "twist ", "wind "]}
+{"index": 354124, "D": "to undo, take apart, or separate (something woven); unravel.", "S": ["disentangle", "free", "loosen", "unbraid", "unravel", "unsnarl", "untangle", "untwine", "untwist", "unweave", "unwind"], "A": ["tangle", "twist", "wind"]}

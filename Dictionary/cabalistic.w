@@ -1,1 +1,1 @@
-{"index": 43853, "D": "of or relating to the kabbalah. ", "S": ["esoteric ", "mysterious ", "mystic ", "strange ", "supernatural "], "A": []}
+{"index": 43853, "D": "of or relating to the kabbalah. ", "S": ["esoteric", "mysterious", "mystic", "strange", "supernatural"], "A": []}

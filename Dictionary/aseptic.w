@@ -1,1 +1,1 @@
-{"index": 21091, "D": "free from the living germs of disease, fermentation, or putrefaction.", "S": ["barren ", "clean ", "lifeless ", "purifying ", "restrained ", "shrinking "], "A": []}
+{"index": 21091, "D": "free from the living germs of disease, fermentation, or putrefaction.", "S": ["barren", "clean", "lifeless", "purifying", "restrained", "shrinking"], "A": []}

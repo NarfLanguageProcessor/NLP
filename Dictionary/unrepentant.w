@@ -1,1 +1,1 @@
-{"index": 349553, "D": "not repentant or contrite", "S": ["impenitent "], "A": []}
+{"index": 349553, "D": "not repentant or contrite", "S": ["impenitent"], "A": []}

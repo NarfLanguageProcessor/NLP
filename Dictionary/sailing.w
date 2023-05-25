@@ -1,1 +1,1 @@
-{"index": 276791, "D": "the activity of a person or thing that sails. ", "S": ["addled ", "adrift ", "befuddled ", "bewildered ", "confused ", "puzzled "], "A": []}
+{"index": 276791, "D": "the activity of a person or thing that sails. ", "S": ["addled", "adrift", "befuddled", "bewildered", "confused", "puzzled"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 172727, "D": "lineal descent from an ancestor; ancestry or extraction", "S": ["clan ", "descent ", "genealogy ", "origin ", "pedigree "], "A": ["parent "]}
+{"index": 172727, "D": "lineal descent from an ancestor; ancestry or extraction", "S": ["clan", "descent", "genealogy", "origin", "pedigree"], "A": ["parent"]}

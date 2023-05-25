@@ -1,1 +1,1 @@
-{"index": 90720, "D": "infirm; feeble.", "S": ["quiver ", "shiver ", "shudder ", "stagger ", "sway ", "teeter ", "totter ", "tremble ", "wobble "], "A": ["steady "]}
+{"index": 90720, "D": "infirm; feeble.", "S": ["quiver", "shiver", "shudder", "stagger", "sway", "teeter", "totter", "tremble", "wobble"], "A": ["steady"]}

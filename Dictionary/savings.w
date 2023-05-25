@@ -1,1 +1,1 @@
-{"index": 279085, "D": "tending or serving to save;  rescuing; preserving.", "S": ["accumulation ", "hoard ", "nest egg "], "A": ["debt "]}
+{"index": 279085, "D": "tending or serving to save;  rescuing; preserving.", "S": ["accumulation", "hoard", "nest egg"], "A": ["debt"]}

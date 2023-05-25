@@ -1,1 +1,1 @@
-{"index": 359082, "D": "of, relating to, or of the nature of a vestige", "S": ["inherent ", "lurking ", "smoldering ", "suppressed ", "underlying ", "unrealized ", "veiled "], "A": ["active ", "apparent ", "clear ", "live ", "manifest ", "obvious ", "open ", "public "]}
+{"index": 359082, "D": "of, relating to, or of the nature of a vestige", "S": ["inherent", "lurking", "smoldering", "suppressed", "underlying", "unrealized", "veiled"], "A": ["active", "apparent", "clear", "live", "manifest", "obvious", "open", "public"]}

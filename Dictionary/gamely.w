@@ -1,1 +1,1 @@
-{"index": 121682, "D": "in a game  or plucky manner", "S": ["boldly ", "courageously ", "eagerly ", "enthusiastically ", "fearlessly "], "A": []}
+{"index": 121682, "D": "in a game  or plucky manner", "S": ["boldly", "courageously", "eagerly", "enthusiastically", "fearlessly"], "A": []}

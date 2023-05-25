@@ -1,1 +1,1 @@
-{"index": 230565, "D": "lasting for an indefinitely long time; enduring", "S": ["flower ", "grass ", "herb ", "seedling ", "shrub ", "tree ", "vine ", "weed "], "A": []}
+{"index": 230565, "D": "lasting for an indefinitely long time; enduring", "S": ["flower", "grass", "herb", "seedling", "shrub", "tree", "vine", "weed"], "A": []}

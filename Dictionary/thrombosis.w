@@ -1,1 +1,1 @@
-{"index": 322795, "D": "intravascular coagulation of the blood in any part of the circulatory system, as in the heart, arteries, veins, or capillaries.", "S": ["occlusion ", "seizure ", "stroke "], "A": ["consciousness "]}
+{"index": 322795, "D": "intravascular coagulation of the blood in any part of the circulatory system, as in the heart, arteries, veins, or capillaries.", "S": ["occlusion", "seizure", "stroke"], "A": ["consciousness"]}

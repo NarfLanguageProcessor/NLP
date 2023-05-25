@@ -1,1 +1,1 @@
-{"index": 189486, "D": "to interpret,  explain, or understand incorrectly.", "S": ["distort ", "err ", "falsify ", "garble ", "miscalculate ", "misread ", "misrepresent ", "misunderstand "], "A": []}
+{"index": 189486, "D": "to interpret,  explain, or understand incorrectly.", "S": ["distort", "err", "falsify", "garble", "miscalculate", "misread", "misrepresent", "misunderstand"], "A": []}

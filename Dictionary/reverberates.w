@@ -1,1 +1,1 @@
-{"index": 271203, "D": "to reecho or resound", "S": ["echo ", "resound "], "A": ["quieten "]}
+{"index": 271203, "D": "to reecho or resound", "S": ["echo", "resound"], "A": ["quieten"]}

@@ -1,1 +1,1 @@
-{"index": 359765, "D": "the tenure by which a villein held land and tenements from a lord.", "S": ["enslavement ", "serfdom ", "servitude ", "subjugation ", "yoke "], "A": ["freedom ", "independence "]}
+{"index": 359765, "D": "the tenure by which a villein held land and tenements from a lord.", "S": ["enslavement", "serfdom", "servitude", "subjugation", "yoke"], "A": ["freedom", "independence"]}

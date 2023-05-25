@@ -1,1 +1,1 @@
-{"index": 267907, "D": "to organize  again.", "S": ["reconstruct ", "reshuffle ", "restructure ", "revamp "], "A": []}
+{"index": 267907, "D": "to organize  again.", "S": ["reconstruct", "reshuffle", "restructure", "revamp"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 176416, "D": "intense sexual desire or appetite.", "S": ["adventurous ", "ambitious ", "aspiring ", "daring ", "dashing ", "diligent ", "hardworking ", "industrious ", "intrepid "], "A": ["cowardly ", "inactive ", "lazy ", "lethargic ", "meek ", "timid ", "unadventurous "]}
+{"index": 176416, "D": "intense sexual desire or appetite.", "S": ["adventurous", "ambitious", "aspiring", "daring", "dashing", "diligent", "hardworking", "industrious", "intrepid"], "A": ["cowardly", "inactive", "lazy", "lethargic", "meek", "timid", "unadventurous"]}

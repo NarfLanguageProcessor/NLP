@@ -1,1 +1,1 @@
-{"index": 274376, "D": "resembling a rope  or ropes", "S": ["hairy "], "A": []}
+{"index": 274376, "D": "resembling a rope  or ropes", "S": ["hairy"], "A": []}

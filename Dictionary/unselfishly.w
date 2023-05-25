@@ -1,1 +1,1 @@
-{"index": 350729, "D": "not selfish;  disinterested; generous; altruistic.", "S": ["altruistically ", "openhandedly "], "A": ["egotistically "]}
+{"index": 350729, "D": "not selfish;  disinterested; generous; altruistic.", "S": ["altruistically", "openhandedly"], "A": ["egotistically"]}

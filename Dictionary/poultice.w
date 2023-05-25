@@ -1,1 +1,1 @@
-{"index": 244884, "D": "a soft, moist mass of cloth, bread, meal, herbs, etc., applied hot as a medicament to the body.", "S": ["cataplasm ", "compress ", "dressing ", "fomentation ", "plaster "], "A": []}
+{"index": 244884, "D": "a soft, moist mass of cloth, bread, meal, herbs, etc., applied hot as a medicament to the body.", "S": ["cataplasm", "compress", "dressing", "fomentation", "plaster"], "A": []}

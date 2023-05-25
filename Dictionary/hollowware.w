@@ -1,1 +1,1 @@
-{"index": 142531, "D": "silver dishes, as serving dishes, having some depth (distinguished from flatware).", "S": ["cutlery ", "flatware ", "tableware "], "A": []}
+{"index": 142531, "D": "silver dishes, as serving dishes, having some depth (distinguished from flatware).", "S": ["cutlery", "flatware", "tableware"], "A": []}

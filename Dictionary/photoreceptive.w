@@ -1,1 +1,0 @@
-{"index": 235338, "D": "the physiological perception of light.", "S": [], "A": []}

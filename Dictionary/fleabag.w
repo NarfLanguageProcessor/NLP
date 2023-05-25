@@ -1,1 +1,1 @@
-{"index": 114284, "D": "a cheap, run-down hotel or rooming house.", "S": ["fleabox ", "fleahouse ", "fleatrap ", "flop joint ", "run-down boarding house ", "run-down hotel "], "A": []}
+{"index": 114284, "D": "a cheap, run-down hotel or rooming house.", "S": ["fleabox", "fleahouse", "fleatrap", "flop joint", "run-down boarding house", "run-down hotel"], "A": []}

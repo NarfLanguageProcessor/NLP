@@ -1,1 +1,1 @@
-{"index": 282578, "D": "land along the sea  or ocean.", "S": ["bank ", "coast ", "littoral ", "oceanfront ", "seaboard ", "seafront ", "seaside ", "shingle ", "shore ", "strand ", "waterfront "], "A": []}
+{"index": 282578, "D": "land along the sea  or ocean.", "S": ["bank", "coast", "littoral", "oceanfront", "seaboard", "seafront", "seaside", "shingle", "shore", "strand", "waterfront"], "A": []}

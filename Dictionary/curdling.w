@@ -1,1 +1,1 @@
-{"index": 75259, "D": "to change into curd;  coagulate; congeal.", "S": ["clotting ", "clump ", "lump "], "A": ["individual ", "one "]}
+{"index": 75259, "D": "to change into curd;  coagulate; congeal.", "S": ["clotting", "clump", "lump"], "A": ["individual", "one"]}

@@ -1,1 +1,1 @@
-{"index": 240704, "D": "a private message sent to another user of a social media service or private messaging service", "S": ["autopsy ", "critique ", "examination ", "post-mortem examination ", "review "], "A": []}
+{"index": 240704, "D": "a private message sent to another user of a social media service or private messaging service", "S": ["autopsy", "critique", "examination", "post-mortem examination", "review"], "A": []}

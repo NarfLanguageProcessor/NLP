@@ -1,1 +1,1 @@
-{"index": 160315, "D": "to produce a harsh, discordant sound, as two comparatively small, thin, or hollow pieces of metal hitting together", "S": ["cacophonous ", "clashing ", "dissonant ", "divergent ", "jarring ", "strident "], "A": ["similar "]}
+{"index": 160315, "D": "to produce a harsh, discordant sound, as two comparatively small, thin, or hollow pieces of metal hitting together", "S": ["cacophonous", "clashing", "dissonant", "divergent", "jarring", "strident"], "A": ["similar"]}

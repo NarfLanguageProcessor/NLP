@@ -1,1 +1,1 @@
-{"index": 147416, "D": "unable to read and write", "S": ["ignorant ", "uneducated "], "A": ["educated ", "intelligent "]}
+{"index": 147416, "D": "unable to read and write", "S": ["ignorant", "uneducated"], "A": ["educated", "intelligent"]}

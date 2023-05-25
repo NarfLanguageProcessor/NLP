@@ -1,1 +1,1 @@
-{"index": 9651, "D": "a crystalline solid, aluminum potassium sulfate, K2SO4\u22c5Al2(SO4)3\u22c524H2O, used in medicine as an astringent and styptic, in dyeing and tanning, and in many technical processes.", "S": ["graduate "], "A": ["undergraduate "]}
+{"index": 9651, "D": "a crystalline solid, aluminum potassium sulfate, K2SO4\u22c5Al2(SO4)3\u22c524H2O, used in medicine as an astringent and styptic, in dyeing and tanning, and in many technical processes.", "S": ["graduate"], "A": ["undergraduate"]}

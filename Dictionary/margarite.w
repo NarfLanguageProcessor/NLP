@@ -1,1 +1,1 @@
-{"index": 179976, "D": "an aggregate of small, rudimentary crystals resembling minute globules in a row", "S": ["jewel ", "nacre ", "seed "], "A": []}
+{"index": 179976, "D": "an aggregate of small, rudimentary crystals resembling minute globules in a row", "S": ["jewel", "nacre", "seed"], "A": []}

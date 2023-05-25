@@ -1,1 +1,1 @@
-{"index": 257110, "D": "an officer on a ship who handles financial accounts and various documents relating to the ship and who keeps money and valuables for passengers.", "S": ["bursar ", "cashier ", "comptroller "], "A": []}
+{"index": 257110, "D": "an officer on a ship who handles financial accounts and various documents relating to the ship and who keeps money and valuables for passengers.", "S": ["bursar", "cashier", "comptroller"], "A": []}

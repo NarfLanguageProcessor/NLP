@@ -1,1 +1,1 @@
-{"index": 17829, "D": "ornamentation, as a cutout design, that is sewn on to or otherwise applied to a piece of material.", "S": ["backing ", "binding ", "braid ", "embroidery ", "folds ", "hem ", "lining ", "overlay ", "piping ", "trim ", "tucks "], "A": []}
+{"index": 17829, "D": "ornamentation, as a cutout design, that is sewn on to or otherwise applied to a piece of material.", "S": ["backing", "binding", "braid", "embroidery", "folds", "hem", "lining", "overlay", "piping", "trim", "tucks"], "A": []}

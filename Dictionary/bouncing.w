@@ -1,1 +1,1 @@
-{"index": 38962, "D": "stout, strong, or vigorous", "S": ["bouncy ", "bulgy ", "distended ", "ebbing and flowing ", "heaving ", "puffy ", "rippling ", "rising ", "rising and falling ", "rolling ", "swelling ", "swirling ", "swollen ", "undulating ", "waving ", "wavy "], "A": []}
+{"index": 38962, "D": "stout, strong, or vigorous", "S": ["bouncy", "bulgy", "distended", "ebbing and flowing", "heaving", "puffy", "rippling", "rising", "rising and falling", "rolling", "swelling", "swirling", "swollen", "undulating", "waving", "wavy"], "A": []}

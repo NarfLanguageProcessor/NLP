@@ -1,1 +1,1 @@
-{"index": 79430, "D": "to remove the fog  or moisture from (a car window, mirror, etc.).", "S": ["absolve ", "acquit ", "clarify ", "exonerate ", "release "], "A": ["blame ", "charge ", "condemn ", "convict ", "incriminate ", "sentence ", "accuse ", "imprison "]}
+{"index": 79430, "D": "to remove the fog  or moisture from (a car window, mirror, etc.).", "S": ["absolve", "acquit", "clarify", "exonerate", "release"], "A": ["blame", "charge", "condemn", "convict", "incriminate", "sentence", "accuse", "imprison"]}

@@ -1,1 +1,1 @@
-{"index": 103015, "D": "to contain or represent in small compass; serve as a typical example of; typify", "S": ["abridged ", "canned ", "condensed ", "pocket ", "tabloid "], "A": []}
+{"index": 103015, "D": "to contain or represent in small compass; serve as a typical example of; typify", "S": ["abridged", "canned", "condensed", "pocket", "tabloid"], "A": []}

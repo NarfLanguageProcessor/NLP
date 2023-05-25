@@ -1,1 +1,1 @@
-{"index": 355157, "D": "an upheaval, as of the earth's surface.", "S": ["altitude ", "ascent ", "mountain "], "A": ["decrease ", "flat "]}
+{"index": 355157, "D": "an upheaval, as of the earth's surface.", "S": ["altitude", "ascent", "mountain"], "A": ["decrease", "flat"]}

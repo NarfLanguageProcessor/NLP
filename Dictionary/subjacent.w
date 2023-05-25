@@ -1,1 +1,1 @@
-{"index": 308268, "D": "situated or occurring underneath or below; underlying.", "S": ["lower ", "underlying "], "A": []}
+{"index": 308268, "D": "situated or occurring underneath or below; underlying.", "S": ["lower", "underlying"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 55282, "D": "a wedge or block of wood, metal, or the like, for filling in a space, holding an object steady, etc.", "S": ["chunk "], "A": ["whole "]}
+{"index": 55282, "D": "a wedge or block of wood, metal, or the like, for filling in a space, holding an object steady, etc.", "S": ["chunk"], "A": ["whole"]}

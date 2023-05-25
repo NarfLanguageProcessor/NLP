@@ -1,1 +1,1 @@
-{"index": 134139, "D": "to move or act with haste;  proceed with haste;  hurry", "S": ["darting ", "dashing ", "expediting ", "flying ", "propelling ", "racing ", "running ", "rushing ", "scurrying ", "speeding "], "A": ["crawling ", "creeping "]}
+{"index": 134139, "D": "to move or act with haste;  proceed with haste;  hurry", "S": ["darting", "dashing", "expediting", "flying", "propelling", "racing", "running", "rushing", "scurrying", "speeding"], "A": ["crawling", "creeping"]}

@@ -1,1 +1,1 @@
-{"index": 63937, "D": "started or begun", "S": ["begun ", "created ", "started "], "A": []}
+{"index": 63937, "D": "started or begun", "S": ["begun", "created", "started"], "A": []}

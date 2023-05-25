@@ -1,1 +1,1 @@
-{"index": 21580, "D": "a person who attacks.", "S": ["aggressor ", "mugger "], "A": ["ally ", "friend "]}
+{"index": 21580, "D": "a person who attacks.", "S": ["aggressor", "mugger"], "A": ["ally", "friend"]}

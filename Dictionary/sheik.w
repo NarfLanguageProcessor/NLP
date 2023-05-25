@@ -1,1 +1,1 @@
-{"index": 287892, "D": "(in Islamic countries) the patriarch of a tribe or family; chief", "S": ["amir ", "chieftain ", "governor ", "leader ", "shah "], "A": []}
+{"index": 287892, "D": "(in Islamic countries) the patriarch of a tribe or family; chief", "S": ["amir", "chieftain", "governor", "leader", "shah"], "A": []}

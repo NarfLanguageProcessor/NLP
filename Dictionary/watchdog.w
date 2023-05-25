@@ -1,1 +1,1 @@
-{"index": 363054, "D": "a dog  kept to guard property.", "S": ["curator ", "keeper ", "overseer ", "protector ", "steward ", "superintendent ", "supervisor ", "warden "], "A": []}
+{"index": 363054, "D": "a dog  kept to guard property.", "S": ["curator", "keeper", "overseer", "protector", "steward", "superintendent", "supervisor", "warden"], "A": []}

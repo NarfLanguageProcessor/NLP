@@ -1,1 +1,1 @@
-{"index": 74831, "D": "a person or thing that cultivates. ", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}
+{"index": 74831, "D": "a person or thing that cultivates. ", "S": ["grower", "laborer", "peasant", "producer", "rancher"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 121536, "D": "electricity, especially as produced by chemical action.", "S": ["heat ", "service "], "A": []}
+{"index": 121536, "D": "electricity, especially as produced by chemical action.", "S": ["heat", "service"], "A": []}

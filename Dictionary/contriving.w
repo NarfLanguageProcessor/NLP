@@ -1,1 +1,1 @@
-{"index": 67797, "D": "to plan with ingenuity; devise; invent", "S": ["canny ", "considerate ", "devious ", "manipulative ", "scheming ", "shrewd ", "wily "], "A": ["foolish ", "honest ", "open "]}
+{"index": 67797, "D": "to plan with ingenuity; devise; invent", "S": ["canny", "considerate", "devious", "manipulative", "scheming", "shrewd", "wily"], "A": ["foolish", "honest", "open"]}

@@ -1,1 +1,1 @@
-{"index": 76402, "D": "a morning star.", "S": ["Phosphor ", "Phosphorus ", "Venus ", "lucifer "], "A": ["Hesperus ", "evening star "]}
+{"index": 76402, "D": "a morning star.", "S": ["Phosphor", "Phosphorus", "Venus", "lucifer"], "A": ["Hesperus", "evening star"]}

@@ -1,1 +1,1 @@
-{"index": 226391, "D": "of, pertaining to, noting, or of the nature of a parenthesis", "S": ["departing ", "detouring ", "differing ", "discursive ", "excursive ", "parenthetical ", "rambling ", "tangential "], "A": []}
+{"index": 226391, "D": "of, pertaining to, noting, or of the nature of a parenthesis", "S": ["departing", "detouring", "differing", "discursive", "excursive", "parenthetical", "rambling", "tangential"], "A": []}

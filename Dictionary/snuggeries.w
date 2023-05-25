@@ -1,1 +1,1 @@
-{"index": 295935, "D": "a snug  place or position.", "S": ["cave ", "hotbed ", "nest ", "sanctuary "], "A": []}
+{"index": 295935, "D": "a snug  place or position.", "S": ["cave", "hotbed", "nest", "sanctuary"], "A": []}

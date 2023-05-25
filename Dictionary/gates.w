@@ -1,1 +1,1 @@
-{"index": 122739, "D": "American Revolutionary general, born in England.", "S": ["bar ", "door ", "doorway ", "exit ", "fence ", "port "], "A": []}
+{"index": 122739, "D": "American Revolutionary general, born in England.", "S": ["bar", "door", "doorway", "exit", "fence", "port"], "A": []}

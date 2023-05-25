@@ -1,1 +1,1 @@
-{"index": 233104, "D": "pertaining to pharmacy  or pharmacists.", "S": ["cure ", "medicine ", "narcotic ", "pharmaceutical ", "pill ", "poison ", "prescription ", "remedy ", "stimulant "], "A": ["disease "]}
+{"index": 233104, "D": "pertaining to pharmacy  or pharmacists.", "S": ["cure", "medicine", "narcotic", "pharmaceutical", "pill", "poison", "prescription", "remedy", "stimulant"], "A": ["disease"]}

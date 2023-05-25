@@ -1,1 +1,1 @@
-{"index": 290197, "D": "a conventional Italian term of address or title of respect for a man, either used separately or prefixed to the name. Abbreviation", "S": ["Esquire ", "man ", "monsieur ", "sir "], "A": []}
+{"index": 290197, "D": "a conventional Italian term of address or title of respect for a man, either used separately or prefixed to the name. Abbreviation", "S": ["Esquire", "man", "monsieur", "sir"], "A": []}

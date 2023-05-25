@@ -1,1 +1,1 @@
-{"index": 110870, "D": "the act of a person or thing that feeds. ", "S": ["biting ", "cropping ", "eating ", "foraging ", "gnawing ", "masticating ", "munching ", "nibbling ", "pasturing ", "ruminating ", "uprooting "], "A": []}
+{"index": 110870, "D": "the act of a person or thing that feeds. ", "S": ["biting", "cropping", "eating", "foraging", "gnawing", "masticating", "munching", "nibbling", "pasturing", "ruminating", "uprooting"], "A": []}

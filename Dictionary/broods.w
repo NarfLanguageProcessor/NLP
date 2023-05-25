@@ -1,1 +1,1 @@
-{"index": 41503, "D": "a number of young produced or hatched at one time; a family of offspring or young.", "S": ["offspring "], "A": ["parent "]}
+{"index": 41503, "D": "a number of young produced or hatched at one time; a family of offspring or young.", "S": ["offspring"], "A": ["parent"]}

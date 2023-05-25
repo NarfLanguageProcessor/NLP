@@ -1,1 +1,1 @@
-{"index": 60042, "D": "a place, as in connection with a medical school or a hospital, for the treatment of nonresident patients, sometimes at low cost or without charge.", "S": ["hospital "], "A": []}
+{"index": 60042, "D": "a place, as in connection with a medical school or a hospital, for the treatment of nonresident patients, sometimes at low cost or without charge.", "S": ["hospital"], "A": []}

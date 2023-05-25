@@ -1,1 +1,1 @@
-{"index": 60016, "D": "a person or thing that clinches. ", "S": ["closer ", "culmination ", "deathblow ", "finisher "], "A": []}
+{"index": 60016, "D": "a person or thing that clinches. ", "S": ["closer", "culmination", "deathblow", "finisher"], "A": []}

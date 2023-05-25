@@ -1,1 +1,1 @@
-{"index": 5791, "D": "after an earlier event or time; subsequently", "S": ["eventually ", "later ", "subsequently "], "A": ["earlier "]}
+{"index": 5791, "D": "after an earlier event or time; subsequently", "S": ["eventually", "later", "subsequently"], "A": ["earlier"]}

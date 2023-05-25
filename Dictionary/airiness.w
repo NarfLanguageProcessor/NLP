@@ -1,1 +1,1 @@
-{"index": 6924, "D": "openness to the air", "S": ["ethereality ", "floatability ", "levity ", "weightlessness "], "A": ["blues ", "depression ", "heaviness "]}
+{"index": 6924, "D": "openness to the air", "S": ["ethereality", "floatability", "levity", "weightlessness"], "A": ["blues", "depression", "heaviness"]}

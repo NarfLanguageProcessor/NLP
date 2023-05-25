@@ -1,1 +1,1 @@
-{"index": 115907, "D": "a leaflet, as of a compound leaf.", "S": ["frond ", "needle ", "petal ", "stalk "], "A": []}
+{"index": 115907, "D": "a leaflet, as of a compound leaf.", "S": ["frond", "needle", "petal", "stalk"], "A": []}

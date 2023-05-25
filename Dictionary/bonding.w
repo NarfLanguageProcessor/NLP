@@ -1,1 +1,1 @@
-{"index": 37812, "D": "the establishment of a pair bond. ", "S": ["bind ", "connect ", "fix ", "glue "], "A": ["let go ", "loosen ", "open ", "unfasten ", "unstick "]}
+{"index": 37812, "D": "the establishment of a pair bond. ", "S": ["bind", "connect", "fix", "glue"], "A": ["let go", "loosen", "open", "unfasten", "unstick"]}

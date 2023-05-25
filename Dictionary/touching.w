@@ -1,1 +1,1 @@
-{"index": 326578, "D": "affecting; moving; pathetic", "S": ["heartbreaking ", "pathetic ", "poignant ", "sad ", "stirring ", "stunning ", "wistful "], "A": ["cheerful ", "happy ", "hard "]}
+{"index": 326578, "D": "affecting; moving; pathetic", "S": ["heartbreaking", "pathetic", "poignant", "sad", "stirring", "stunning", "wistful"], "A": ["cheerful", "happy", "hard"]}

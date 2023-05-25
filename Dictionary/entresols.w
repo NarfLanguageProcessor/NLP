@@ -1,1 +1,1 @@
-{"index": 101701, "D": "a low floor between two higher floors, the lower one usually being a ground floor; mezzanine.", "S": ["balcony "], "A": []}
+{"index": 101701, "D": "a low floor between two higher floors, the lower one usually being a ground floor; mezzanine.", "S": ["balcony"], "A": []}

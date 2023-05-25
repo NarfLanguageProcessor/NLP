@@ -1,1 +1,1 @@
-{"index": 267243, "D": "a person who reminds another of something.", "S": ["keepsake ", "relic ", "remembrance ", "reminder ", "token ", "trophy "], "A": []}
+{"index": 267243, "D": "a person who reminds another of something.", "S": ["keepsake", "relic", "remembrance", "reminder", "token", "trophy"], "A": []}

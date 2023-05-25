@@ -1,1 +1,0 @@
-{"index": 221836, "D": "that overwhelms;  overpowering", "S": ["amazing ", "astounding ", "crushing ", "devastating ", "mind-boggling ", "staggering ", "stunning ", "vast "], "A": []}

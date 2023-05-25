@@ -1,1 +1,1 @@
-{"index": 63733, "D": "a professional entertainer who amuses by relating anecdotes, acting out comical situations, engaging in humorous repartee, etc.", "S": ["actor ", "clown ", "comic ", "entertainer ", "humorist "], "A": []}
+{"index": 63733, "D": "a professional entertainer who amuses by relating anecdotes, acting out comical situations, engaging in humorous repartee, etc.", "S": ["actor", "clown", "comic", "entertainer", "humorist"], "A": []}

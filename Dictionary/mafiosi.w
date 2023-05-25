@@ -1,1 +1,0 @@
-{"index": 177336, "D": "a member of a Mafia or of a mafia.", "S": ["bandit ", "criminal ", "crook ", "hoodlum ", "hooligan ", "mobster ", "racketeer ", "robber ", "soldier ", "thug "], "A": ["law ", "police "]}

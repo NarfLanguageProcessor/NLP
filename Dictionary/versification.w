@@ -1,1 +1,1 @@
-{"index": 358807, "D": "the act of versifying. ", "S": ["verse "], "A": ["prose "]}
+{"index": 358807, "D": "the act of versifying. ", "S": ["verse"], "A": ["prose"]}

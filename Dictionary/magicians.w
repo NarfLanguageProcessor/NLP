@@ -1,1 +1,1 @@
-{"index": 177413, "D": "an entertainer who is skilled in producing illusion by sleight of hand, deceptive devices, etc.; conjurer.", "S": ["charmer ", "genius ", "virtuoso ", "witch ", "wizard "], "A": []}
+{"index": 177413, "D": "an entertainer who is skilled in producing illusion by sleight of hand, deceptive devices, etc.; conjurer.", "S": ["charmer", "genius", "virtuoso", "witch", "wizard"], "A": []}

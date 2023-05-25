@@ -1,0 +1,1 @@
+{"index": 26023, "D": "the act or an instance of failing to keep a promise or commitment (esp in the phrase give (someone) backword)", "S": [], "A": []}

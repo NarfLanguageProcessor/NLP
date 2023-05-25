@@ -1,1 +1,1 @@
-{"index": 125702, "D": "to present voluntarily and without expecting compensation; bestow", "S": ["backer ", "benefactor ", "contributor ", "patron "], "A": ["antagonist ", "opponent ", "opposer "]}
+{"index": 125702, "D": "to present voluntarily and without expecting compensation; bestow", "S": ["backer", "benefactor", "contributor", "patron"], "A": ["antagonist", "opponent", "opposer"]}

@@ -1,1 +1,1 @@
-{"index": 178033, "D": "regal, lofty, or stately dignity; imposing character; grandeur", "S": ["greatness "], "A": []}
+{"index": 178033, "D": "regal, lofty, or stately dignity; imposing character; grandeur", "S": ["greatness"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 314350, "D": "the act of a person or thing that swells. ", "S": ["abscess ", "blister ", "bruise ", "bump ", "contusion ", "inflammation ", "injury ", "nodule ", "sore ", "tumor ", "welt "], "A": ["decrease ", "depression "]}
+{"index": 314350, "D": "the act of a person or thing that swells. ", "S": ["abscess", "blister", "bruise", "bump", "contusion", "inflammation", "injury", "nodule", "sore", "tumor", "welt"], "A": ["decrease", "depression"]}

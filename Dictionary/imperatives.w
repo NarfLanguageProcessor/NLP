@@ -1,1 +1,1 @@
-{"index": 148476, "D": "absolutely necessary or required; unavoidable", "S": ["authorization ", "command ", "decree ", "directive ", "injunction ", "instruction ", "sanction "], "A": ["breach ", "break ", "denial ", "question ", "refusal ", "request ", "veto "]}
+{"index": 148476, "D": "absolutely necessary or required; unavoidable", "S": ["authorization", "command", "decree", "directive", "injunction", "instruction", "sanction"], "A": ["breach", "break", "denial", "question", "refusal", "request", "veto"]}

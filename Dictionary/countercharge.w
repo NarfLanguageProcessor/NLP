@@ -1,1 +1,1 @@
-{"index": 70702, "D": "a charge  by an accused person against the accuser.", "S": ["rejoinder ", "reply "], "A": []}
+{"index": 70702, "D": "a charge  by an accused person against the accuser.", "S": ["rejoinder", "reply"], "A": []}

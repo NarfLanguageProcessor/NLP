@@ -1,1 +1,1 @@
-{"index": 260676, "D": "to strike, especially with a quick, smart, or light blow", "S": ["causerie ", "chat ", "chin ", "colloquy ", "confabulation ", "conference ", "deliberation ", "dialogue ", "discourse ", "discussion ", "prose ", "talk ", "ventilation ", "yarn "], "A": ["quiet ", "silence "]}
+{"index": 260676, "D": "to strike, especially with a quick, smart, or light blow", "S": ["causerie", "chat", "chin", "colloquy", "confabulation", "conference", "deliberation", "dialogue", "discourse", "discussion", "prose", "talk", "ventilation", "yarn"], "A": ["quiet", "silence"]}

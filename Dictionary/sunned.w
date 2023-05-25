@@ -1,1 +1,1 @@
-{"index": 311159, "D": "the star that is the central body of the earth's solar system, around which the planets revolve and from which they receive light and heat", "S": ["laze ", "loll ", "lounge ", "relax ", "sunbathe "], "A": ["cover ", "hide "]}
+{"index": 311159, "D": "the star that is the central body of the earth's solar system, around which the planets revolve and from which they receive light and heat", "S": ["laze", "loll", "lounge", "relax", "sunbathe"], "A": ["cover", "hide"]}

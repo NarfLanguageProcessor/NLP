@@ -1,1 +1,1 @@
-{"index": 80941, "D": "characterized by shyness and modesty; reserved.", "S": ["prim ", "reticent ", "timid ", "unassuming "], "A": ["bold ", "brave "]}
+{"index": 80941, "D": "characterized by shyness and modesty; reserved.", "S": ["prim", "reticent", "timid", "unassuming"], "A": ["bold", "brave"]}

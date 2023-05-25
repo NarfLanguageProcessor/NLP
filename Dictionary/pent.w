@@ -1,1 +1,1 @@
-{"index": 229854, "D": "a simple past tense and past participle of pen2. ", "S": ["circumscribed ", "cramped ", "imprisoned ", "restrained ", "restricted "], "A": ["healthy ", "well "]}
+{"index": 229854, "D": "a simple past tense and past participle of pen2. ", "S": ["circumscribed", "cramped", "imprisoned", "restrained", "restricted"], "A": ["healthy", "well"]}

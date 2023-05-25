@@ -1,1 +1,1 @@
-{"index": 43543, "D": "moving or acting with a great show of energy", "S": ["alive ", "effective ", "operating "], "A": ["fixed ", "inoperative ", "unmovable "]}
+{"index": 43543, "D": "moving or acting with a great show of energy", "S": ["alive", "effective", "operating"], "A": ["fixed", "inoperative", "unmovable"]}

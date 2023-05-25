@@ -1,1 +1,1 @@
-{"index": 26360, "D": "Compare batard, boule1 (def. 1). ", "S": ["bauble ", "bead ", "gem ", "gemstone ", "ornament ", "stone ", "trinket "], "A": []}
+{"index": 26360, "D": "Compare batard, boule1 (def. 1). ", "S": ["bauble", "bead", "gem", "gemstone", "ornament", "stone", "trinket"], "A": []}

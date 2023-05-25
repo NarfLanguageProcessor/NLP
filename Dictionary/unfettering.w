@@ -1,1 +1,1 @@
-{"index": 342208, "D": "to release from fetters.", "S": ["loosening "], "A": []}
+{"index": 342208, "D": "to release from fetters.", "S": ["loosening"], "A": []}

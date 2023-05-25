@@ -1,1 +1,1 @@
-{"index": 170960, "D": "cessation; pause; relief.", "S": ["lull ", "respite ", "slackening "], "A": ["continuation ", "continuity "]}
+{"index": 170960, "D": "cessation; pause; relief.", "S": ["lull", "respite", "slackening"], "A": ["continuation", "continuity"]}

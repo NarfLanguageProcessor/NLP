@@ -1,1 +1,1 @@
-{"index": 298184, "D": "containing much space,  as a house, room, or vehicle; amply large.", "S": ["amount ", "breadth ", "degree ", "duration ", "expansion ", "intensity ", "length ", "matter ", "measure ", "quantity ", "scope ", "size ", "term "], "A": ["extreme "]}
+{"index": 298184, "D": "containing much space,  as a house, room, or vehicle; amply large.", "S": ["amount", "breadth", "degree", "duration", "expansion", "intensity", "length", "matter", "measure", "quantity", "scope", "size", "term"], "A": ["extreme"]}

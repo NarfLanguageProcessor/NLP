@@ -1,1 +1,1 @@
-{"index": 71893, "D": "an art, trade, or occupation requiring special skill, especially manual skill", "S": ["arrange ", "design ", "draft ", "form ", "organize ", "plot ", "project ", "work out "], "A": ["destroy ", "disarrange ", "disorder ", "disorganize ", "neglect ", "forget ", "ignore "]}
+{"index": 71893, "D": "an art, trade, or occupation requiring special skill, especially manual skill", "S": ["arrange", "design", "draft", "form", "organize", "plot", "project", "work out"], "A": ["destroy", "disarrange", "disorder", "disorganize", "neglect", "forget", "ignore"]}

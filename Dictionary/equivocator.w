@@ -1,1 +1,1 @@
-{"index": 103444, "D": "to use ambiguous or unclear expressions, usually to avoid commitment or in order to mislead; prevaricate or hedge", "S": ["cheat ", "con artist ", "perjurer ", "phony ", "storyteller "], "A": []}
+{"index": 103444, "D": "to use ambiguous or unclear expressions, usually to avoid commitment or in order to mislead; prevaricate or hedge", "S": ["cheat", "con artist", "perjurer", "phony", "storyteller"], "A": []}

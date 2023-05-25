@@ -1,1 +1,1 @@
-{"index": 334002, "D": "an advocate of ultranationalism.", "S": ["flag-waver ", "loyalist ", "nationalist ", "partisan ", "patrioteer "], "A": ["traitor "]}
+{"index": 334002, "D": "an advocate of ultranationalism.", "S": ["flag-waver", "loyalist", "nationalist", "partisan", "patrioteer"], "A": ["traitor"]}

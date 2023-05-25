@@ -1,1 +1,1 @@
-{"index": 218645, "D": "to get the better of in a struggle or conflict; conquer; defeat", "S": ["affected ", "beaten ", "buried ", "conquered ", "defeated ", "overthrown ", "swamped ", "taken "], "A": ["indifferent ", "unbothered ", "unconcerned ", "unflappable ", "unmoved "]}
+{"index": 218645, "D": "to get the better of in a struggle or conflict; conquer; defeat", "S": ["affected", "beaten", "buried", "conquered", "defeated", "overthrown", "swamped", "taken"], "A": ["indifferent", "unbothered", "unconcerned", "unflappable", "unmoved"]}

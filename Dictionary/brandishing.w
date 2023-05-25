@@ -1,1 +1,1 @@
-{"index": 39924, "D": "to shake or wave, as a weapon; flourish", "S": ["flash ", "trot out ", "wield "], "A": ["abandon ", "conceal ", "cover ", "guard ", "hide ", "protect ", "save "]}
+{"index": 39924, "D": "to shake or wave, as a weapon; flourish", "S": ["flash", "trot out", "wield"], "A": ["abandon", "conceal", "cover", "guard", "hide", "protect", "save"]}

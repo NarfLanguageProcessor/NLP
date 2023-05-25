@@ -1,1 +1,1 @@
-{"index": 220060, "D": "excessively; too", "S": ["exceedingly ", "extremely ", "immensely ", "inordinately ", "too ", "unduly ", "very much "], "A": ["moderately "]}
+{"index": 220060, "D": "excessively; too", "S": ["exceedingly", "extremely", "immensely", "inordinately", "too", "unduly", "very much"], "A": ["moderately"]}

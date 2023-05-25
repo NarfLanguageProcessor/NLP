@@ -1,1 +1,1 @@
-{"index": 37507, "D": "type or print that has thick, heavy lines, used for emphasis, headings, etc.", "S": ["assuming ", "brazen ", "forward ", "presuming ", "smart "], "A": ["meek ", "shy ", "timid "]}
+{"index": 37507, "D": "type or print that has thick, heavy lines, used for emphasis, headings, etc.", "S": ["assuming", "brazen", "forward", "presuming", "smart"], "A": ["meek", "shy", "timid"]}

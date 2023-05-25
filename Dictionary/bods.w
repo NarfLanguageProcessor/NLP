@@ -1,1 +1,1 @@
-{"index": 37243, "D": "body", "S": ["frame ", "torso "], "A": ["head ", "mind ", "soul ", "spirit "]}
+{"index": 37243, "D": "body", "S": ["frame", "torso"], "A": ["head", "mind", "soul", "spirit"]}

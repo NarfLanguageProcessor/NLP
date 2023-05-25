@@ -1,0 +1,1 @@
+{"index": 36035, "D": "a person or thing that blends. ", "S": ["mixer"], "A": []}

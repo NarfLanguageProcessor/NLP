@@ -1,1 +1,1 @@
-{"index": 181664, "D": "the objective case of I,  used as a direct or indirect object", "S": ["her ", "him ", "hir ", "it ", "them ", "ver ", "xem ", "you ", "zir "], "A": []}
+{"index": 181664, "D": "the objective case of I,  used as a direct or indirect object", "S": ["her", "him", "hir", "it", "them", "ver", "xem", "you", "zir"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 53138, "D": "to talk rapidly in a foolish or purposeless way; jabber.", "S": ["bigmouthed ", "chatty ", "newsy ", "taletelling ", "talkative "], "A": []}
+{"index": 53138, "D": "to talk rapidly in a foolish or purposeless way; jabber.", "S": ["bigmouthed", "chatty", "newsy", "taletelling", "talkative"], "A": []}

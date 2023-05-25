@@ -1,1 +1,1 @@
-{"index": 359714, "D": "an inhabitant of a village. ", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "taxpayer ", "townswoman "], "A": ["alien ", "foreigner "]}
+{"index": 359714, "D": "an inhabitant of a village. ", "S": ["autochthon", "inhabitant", "national", "native", "resident", "taxpayer", "townswoman"], "A": ["alien", "foreigner"]}

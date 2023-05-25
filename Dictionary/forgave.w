@@ -1,1 +1,1 @@
-{"index": 117205, "D": "simple past tense of forgive. ", "S": ["absolve ", "condone ", "excuse ", "forget "], "A": ["condemn ", "accuse ", "blame ", "hold ", "increase ", "keep ", "maintain ", "sentence "]}
+{"index": 117205, "D": "simple past tense of forgive. ", "S": ["absolve", "condone", "excuse", "forget"], "A": ["condemn", "accuse", "blame", "hold", "increase", "keep", "maintain", "sentence"]}

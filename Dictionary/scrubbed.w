@@ -1,1 +1,1 @@
-{"index": 282020, "D": "stunted; scrubby.", "S": ["delayed ", "negotiated ", "postponed "], "A": ["advanced ", "forwarded ", "furthered ", "hastened ", "hurried "]}
+{"index": 282020, "D": "stunted; scrubby.", "S": ["delayed", "negotiated", "postponed"], "A": ["advanced", "forwarded", "furthered", "hastened", "hurried"]}

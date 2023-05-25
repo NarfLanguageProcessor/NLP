@@ -1,1 +1,1 @@
-{"index": 179082, "D": "the long hair growing on the back of or around the neck and neighboring parts of some animals, as the horse or lion.", "S": ["ridge "], "A": ["bottom ", "nadir "]}
+{"index": 179082, "D": "the long hair growing on the back of or around the neck and neighboring parts of some animals, as the horse or lion.", "S": ["ridge"], "A": ["bottom", "nadir"]}

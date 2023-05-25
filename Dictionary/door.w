@@ -1,1 +1,1 @@
-{"index": 91536, "D": "a movable, usually solid, barrier for opening and closing an entranceway, cupboard, cabinet, or the like, commonly turning on hinges or sliding in grooves.", "S": ["exit ", "gate "], "A": ["conclusion "]}
+{"index": 91536, "D": "a movable, usually solid, barrier for opening and closing an entranceway, cupboard, cabinet, or the like, commonly turning on hinges or sliding in grooves.", "S": ["exit", "gate"], "A": ["conclusion"]}

@@ -1,1 +1,1 @@
-{"index": 295177, "D": "a particle of soot; sooty matter.", "S": ["smudge "], "A": ["clean "]}
+{"index": 295177, "D": "a particle of soot; sooty matter.", "S": ["smudge"], "A": ["clean"]}

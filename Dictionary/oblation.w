@@ -1,1 +1,1 @@
-{"index": 210169, "D": "the offering to God of the elements of bread and wine in the Eucharist.", "S": ["gift ", "offering ", "presentation ", "sacrifice "], "A": []}
+{"index": 210169, "D": "the offering to God of the elements of bread and wine in the Eucharist.", "S": ["gift", "offering", "presentation", "sacrifice"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 180848, "D": "dominating; self-willed; imperious. ", "S": ["famously ", "magnificently ", "splendidly "], "A": ["awkwardly ", "badly ", "poorly "]}

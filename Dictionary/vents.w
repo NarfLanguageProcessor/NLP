@@ -1,1 +1,1 @@
-{"index": 358269, "D": "an opening, as in a wall, serving as an outlet for air, smoke, fumes, or the like.", "S": ["chimney ", "duct ", "flue ", "pipe ", "ventilator "], "A": ["closing ", "closure ", "solid "]}
+{"index": 358269, "D": "an opening, as in a wall, serving as an outlet for air, smoke, fumes, or the like.", "S": ["chimney", "duct", "flue", "pipe", "ventilator"], "A": ["closing", "closure", "solid"]}

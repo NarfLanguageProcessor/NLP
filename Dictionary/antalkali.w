@@ -1,0 +1,1 @@
+{"index": 14013, "D": "something that neutralizes alkalis  or counteracts alkalinity.", "S": [], "A": []}

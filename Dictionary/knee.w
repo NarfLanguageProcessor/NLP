@@ -1,1 +1,1 @@
-{"index": 165484, "D": "the joint of the leg that allows for movement between the femur and tibia and is protected by the patella; the central area of the leg between the thigh and the lower leg.", "S": ["patella "], "A": []}
+{"index": 165484, "D": "the joint of the leg that allows for movement between the femur and tibia and is protected by the patella; the central area of the leg between the thigh and the lower leg.", "S": ["patella"], "A": []}

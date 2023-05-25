@@ -1,1 +1,1 @@
-{"index": 345987, "D": "not manly;  not characteristic of or befitting a man; weak, timid, or cowardly.", "S": ["cowardliness ", "cravenness ", "dastardliness ", "faintheartedness ", "fear ", "fearfulness ", "funk ", "gutlessness ", "pusillanimity "], "A": []}
+{"index": 345987, "D": "not manly;  not characteristic of or befitting a man; weak, timid, or cowardly.", "S": ["cowardliness", "cravenness", "dastardliness", "faintheartedness", "fear", "fearfulness", "funk", "gutlessness", "pusillanimity"], "A": []}

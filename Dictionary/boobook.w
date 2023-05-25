@@ -1,0 +1,1 @@
+{"index": 38004, "D": "a small, reddish-brown spotted owl, Ninox boobook, native to Australia and New Zealand.", "S": [], "A": []}

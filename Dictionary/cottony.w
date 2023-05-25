@@ -1,1 +1,1 @@
-{"index": 70441, "D": "of or like cotton;  soft.", "S": ["delicate ", "glossy ", "luxurious ", "plush ", "satiny ", "silken ", "sleek ", "soft ", "velvety "], "A": ["dull ", "harsh ", "healthy ", "poor ", "rough ", "strong "]}
+{"index": 70441, "D": "of or like cotton;  soft.", "S": ["delicate", "glossy", "luxurious", "plush", "satiny", "silken", "sleek", "soft", "velvety"], "A": ["dull", "harsh", "healthy", "poor", "rough", "strong"]}

@@ -1,1 +1,1 @@
-{"index": 260754, "D": "to strike, especially with a quick, smart, or light blow", "S": ["babble ", "bark ", "chat ", "chatter ", "chitchat ", "confabulate ", "converse ", "discourse ", "jabber ", "palaver ", "spit ", "talk "], "A": ["be quiet ", "be silent "]}
+{"index": 260754, "D": "to strike, especially with a quick, smart, or light blow", "S": ["babble", "bark", "chat", "chatter", "chitchat", "confabulate", "converse", "discourse", "jabber", "palaver", "spit", "talk"], "A": ["be quiet", "be silent"]}

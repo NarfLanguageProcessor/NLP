@@ -1,1 +1,1 @@
-{"index": 63630, "D": "ready or inclined to fight; pugnacious", "S": ["aggressiveness "], "A": []}
+{"index": 63630, "D": "ready or inclined to fight; pugnacious", "S": ["aggressiveness"], "A": []}

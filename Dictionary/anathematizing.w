@@ -1,0 +1,1 @@
+{"index": 12058, "D": "to pronounce an anathema  against; denounce; curse.", "S": ["accurse", "anathemize", "comminate", "damn", "excommunicate", "execrate", "imprecate", "maledict"], "A": []}

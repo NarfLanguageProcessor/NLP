@@ -1,1 +1,1 @@
-{"index": 14556, "D": "the genesis  or development of the human race, especially as a subject of scientific study.", "S": ["anthropography ", "biological anthropology ", "human geography ", "somatology "], "A": []}
+{"index": 14556, "D": "the genesis  or development of the human race, especially as a subject of scientific study.", "S": ["anthropography", "biological anthropology", "human geography", "somatology"], "A": []}

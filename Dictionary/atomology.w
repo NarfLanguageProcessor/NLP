@@ -1,1 +1,1 @@
-{"index": 22769, "D": [], "S": ["particle physics ", "quantum mechanics "], "A": []}
+{"index": 22769, "D": [], "S": ["particle physics", "quantum mechanics"], "A": []}

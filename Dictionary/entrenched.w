@@ -1,1 +1,1 @@
-{"index": 101679, "D": "firmly or solidly established; placed in a position of strength", "S": ["rooted "], "A": ["changeable ", "indefinite ", "irresolute "]}
+{"index": 101679, "D": "firmly or solidly established; placed in a position of strength", "S": ["rooted"], "A": ["changeable", "indefinite", "irresolute"]}

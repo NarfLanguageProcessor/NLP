@@ -1,1 +1,1 @@
-{"index": 278395, "D": "a stone coffin, especially one bearing sculpture, inscriptions, etc., often displayed as a monument.", "S": ["bin ", "carton ", "case ", "chest ", "coffer ", "crate ", "pinto "], "A": []}
+{"index": 278395, "D": "a stone coffin, especially one bearing sculpture, inscriptions, etc., often displayed as a monument.", "S": ["bin", "carton", "case", "chest", "coffer", "crate", "pinto"], "A": []}

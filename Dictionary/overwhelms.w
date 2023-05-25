@@ -1,1 +1,0 @@
-{"index": 221839, "D": "to overcome completely in mind or feeling", "S": ["crush ", "defeat ", "deluge ", "destroy ", "engulf ", "inundate ", "overcome ", "overpower ", "overrun ", "rout ", "submerge ", "swamp "], "A": ["encourage ", "inspirit ", "lose ", "surrender ", "underwhelm ", "yield ", "fail ", "forfeit ", "uncover "]}

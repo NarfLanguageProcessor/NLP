@@ -1,1 +1,1 @@
-{"index": 104842, "D": "without beginning or end; lasting forever; always existing (opposed to temporal)", "S": ["ages and ages ", "ceaselessness ", "eternality ", "eternity ", "everlastingness ", "forever ", "infinity ", "permanence ", "perpetuation ", "perpetuity ", "timelessness "], "A": []}
+{"index": 104842, "D": "without beginning or end; lasting forever; always existing (opposed to temporal)", "S": ["ages and ages", "ceaselessness", "eternality", "eternity", "everlastingness", "forever", "infinity", "permanence", "perpetuation", "perpetuity", "timelessness"], "A": []}

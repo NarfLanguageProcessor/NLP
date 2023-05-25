@@ -1,1 +1,1 @@
-{"index": 172855, "D": "the tongue or a part like a tongue.", "S": ["spoken language ", "tongue ", "written language "], "A": []}
+{"index": 172855, "D": "the tongue or a part like a tongue.", "S": ["spoken language", "tongue", "written language"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 216307, "D": "a detached building  subordinate to a main building. ", "S": ["shed "], "A": []}
+{"index": 216307, "D": "a detached building  subordinate to a main building. ", "S": ["shed"], "A": []}

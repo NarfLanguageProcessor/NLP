@@ -1,1 +1,1 @@
-{"index": 311858, "D": "the surface, outer face, or outside of a thing.", "S": ["coating ", "facade ", "skin ", "surface "], "A": ["core ", "interior ", "middle ", "center ", "inside "]}
+{"index": 311858, "D": "the surface, outer face, or outside of a thing.", "S": ["coating", "facade", "skin", "surface"], "A": ["core", "interior", "middle", "center", "inside"]}

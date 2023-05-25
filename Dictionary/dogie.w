@@ -1,1 +1,1 @@
-{"index": 90935, "D": "a motherless calf in a cattle herd.", "S": ["castaway ", "drop ", "fetch ", "flotsam ", "foundling ", "jetsam ", "orphan ", "ragamuffin ", "stray ", "urchin "], "A": []}
+{"index": 90935, "D": "a motherless calf in a cattle herd.", "S": ["castaway", "drop", "fetch", "flotsam", "foundling", "jetsam", "orphan", "ragamuffin", "stray", "urchin"], "A": []}

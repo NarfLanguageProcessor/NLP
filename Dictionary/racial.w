@@ -1,1 +1,1 @@
-{"index": 259409, "D": "of or relating to the social construct of race", "S": ["genetic ", "national ", "tribal "], "A": []}
+{"index": 259409, "D": "of or relating to the social construct of race", "S": ["genetic", "national", "tribal"], "A": []}

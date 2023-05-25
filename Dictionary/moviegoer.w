@@ -1,1 +1,1 @@
-{"index": 194402, "D": "the practice or act of going  to see motion pictures.", "S": ["bystander ", "fan ", "observer ", "onlooker ", "sports fan ", "theatergoer ", "viewer "], "A": ["participant "]}
+{"index": 194402, "D": "the practice or act of going  to see motion pictures.", "S": ["bystander", "fan", "observer", "onlooker", "sports fan", "theatergoer", "viewer"], "A": ["participant"]}

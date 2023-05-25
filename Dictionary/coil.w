@@ -1,1 +1,1 @@
-{"index": 62458, "D": "to wind into continuous, regularly spaced rings one above the other", "S": ["braid ", "tendril "], "A": ["line "]}
+{"index": 62458, "D": "to wind into continuous, regularly spaced rings one above the other", "S": ["braid", "tendril"], "A": ["line"]}

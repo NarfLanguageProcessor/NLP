@@ -1,1 +1,1 @@
-{"index": 75491, "D": "to cut short; cut off a part of; abridge; reduce; diminish. ", "S": ["decrease ", "deflation ", "recession ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "expansion ", "opening "]}
+{"index": 75491, "D": "to cut short; cut off a part of; abridge; reduce; diminish. ", "S": ["decrease", "deflation", "recession", "reduction", "shrinkage"], "A": ["enlargement", "increase", "expansion", "opening"]}

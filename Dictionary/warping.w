@@ -1,1 +1,1 @@
-{"index": 362736, "D": "to bend or twist out of shape, especially from a straight or flat form, as timbers or flooring.", "S": ["corrupt ", "pervert "], "A": ["beautify ", "clean ", "improve ", "praise ", "purify ", "straighten ", "upgrade ", "value "]}
+{"index": 362736, "D": "to bend or twist out of shape, especially from a straight or flat form, as timbers or flooring.", "S": ["corrupt", "pervert"], "A": ["beautify", "clean", "improve", "praise", "purify", "straighten", "upgrade", "value"]}

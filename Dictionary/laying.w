@@ -1,1 +1,1 @@
-{"index": 167415, "D": "to put or place in a horizontal position or position of rest; set down", "S": ["secular "], "A": ["ordained ", "professional "]}
+{"index": 167415, "D": "to put or place in a horizontal position or position of rest; set down", "S": ["secular"], "A": ["ordained", "professional"]}

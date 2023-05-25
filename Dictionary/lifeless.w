@@ -1,1 +1,1 @@
-{"index": 171909, "D": "not endowed with life; having no life; inanimate", "S": ["bare ", "barren ", "comatose ", "inert ", "uninhabited "], "A": ["full "]}
+{"index": 171909, "D": "not endowed with life; having no life; inanimate", "S": ["bare", "barren", "comatose", "inert", "uninhabited"], "A": ["full"]}

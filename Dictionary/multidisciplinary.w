@@ -1,1 +1,1 @@
-{"index": 195064, "D": "Compare interdisciplinary, transdisciplinary. ", "S": ["integrative ", "interdisciplinary "], "A": ["firm ", "inflexible ", "single-minded ", "resolute "]}
+{"index": 195064, "D": "Compare interdisciplinary, transdisciplinary. ", "S": ["integrative", "interdisciplinary"], "A": ["firm", "inflexible", "single-minded", "resolute"]}

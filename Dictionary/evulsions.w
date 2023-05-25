@@ -1,1 +1,1 @@
-{"index": 106346, "D": "the act of plucking or pulling out; forcible extraction.", "S": ["eradication "], "A": ["addition ", "insertion ", "introduction "]}
+{"index": 106346, "D": "the act of plucking or pulling out; forcible extraction.", "S": ["eradication"], "A": ["addition", "insertion", "introduction"]}

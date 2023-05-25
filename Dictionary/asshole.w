@@ -1,1 +1,1 @@
-{"index": 21746, "D": "anus. ", "S": ["ass ", "bastard ", "jackass ", "prick "], "A": []}
+{"index": 21746, "D": "anus. ", "S": ["ass", "bastard", "jackass", "prick"], "A": []}

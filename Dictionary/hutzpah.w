@@ -1,1 +1,1 @@
-{"index": 145427, "D": "a variant spelling of chutzpah", "S": ["boldness "], "A": ["humility ", "manners ", "meekness ", "modesty ", "politeness ", "respect ", "shyness ", "timidity "]}
+{"index": 145427, "D": "a variant spelling of chutzpah", "S": ["boldness"], "A": ["humility", "manners", "meekness", "modesty", "politeness", "respect", "shyness", "timidity"]}

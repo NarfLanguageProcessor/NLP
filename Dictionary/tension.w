@@ -1,1 +1,1 @@
-{"index": 318993, "D": "the act of stretching or straining.", "S": ["pressure ", "strain ", "stress "], "A": ["calmness ", "contentedness ", "ease ", "looseness ", "peace ", "relaxation ", "slack "]}
+{"index": 318993, "D": "the act of stretching or straining.", "S": ["pressure", "strain", "stress"], "A": ["calmness", "contentedness", "ease", "looseness", "peace", "relaxation", "slack"]}

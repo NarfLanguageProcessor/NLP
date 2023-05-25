@@ -1,1 +1,1 @@
-{"index": 40257, "D": "(of a cabinet, bookcase, etc.) having a central section extending forward from those at either side.", "S": ["china closet ", "china cupboard ", "hutch "], "A": []}
+{"index": 40257, "D": "(of a cabinet, bookcase, etc.) having a central section extending forward from those at either side.", "S": ["china closet", "china cupboard", "hutch"], "A": []}

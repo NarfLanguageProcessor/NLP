@@ -1,1 +1,1 @@
-{"index": 363512, "D": "to accustom (a child or young animal) to food other than its mother's milk; cause to lose the need to suckle or turn to the mother for food.", "S": ["discourage "], "A": []}
+{"index": 363512, "D": "to accustom (a child or young animal) to food other than its mother's milk; cause to lose the need to suckle or turn to the mother for food.", "S": ["discourage"], "A": []}

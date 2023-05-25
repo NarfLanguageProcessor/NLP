@@ -1,1 +1,1 @@
-{"index": 106658, "D": "a treasury, as of a state or nation.", "S": ["fund ", "stock ", "store ", "treasury "], "A": []}
+{"index": 106658, "D": "a treasury, as of a state or nation.", "S": ["fund", "stock", "store", "treasury"], "A": []}

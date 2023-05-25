@@ -1,1 +1,1 @@
-{"index": 144616, "D": "a Mexican sandal having the upper woven of leather strips.", "S": ["moccasin ", "shoe ", "slipper "], "A": []}
+{"index": 144616, "D": "a Mexican sandal having the upper woven of leather strips.", "S": ["moccasin", "shoe", "slipper"], "A": []}

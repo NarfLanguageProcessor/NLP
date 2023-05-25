@@ -1,1 +1,1 @@
-{"index": 249875, "D": "a person who pretends,  especially for a dishonest purpose.", "S": ["actor ", "charlatan ", "deceiver ", "dissembler ", "fake ", "faker ", "fraud ", "hypocrite ", "imitator ", "impostor ", "quack ", "snob "], "A": []}
+{"index": 249875, "D": "a person who pretends,  especially for a dishonest purpose.", "S": ["actor", "charlatan", "deceiver", "dissembler", "fake", "faker", "fraud", "hypocrite", "imitator", "impostor", "quack", "snob"], "A": []}

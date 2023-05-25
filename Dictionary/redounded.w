@@ -1,1 +1,1 @@
-{"index": 264381, "D": "to have a good or bad effect or result, as to the advantage or disadvantage of a person or thing.", "S": ["react ", "recoil ", "resound ", "return ", "reverberate "], "A": []}
+{"index": 264381, "D": "to have a good or bad effect or result, as to the advantage or disadvantage of a person or thing.", "S": ["react", "recoil", "resound", "return", "reverberate"], "A": []}

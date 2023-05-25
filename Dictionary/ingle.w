@@ -1,1 +1,1 @@
-{"index": 152502, "D": "a fire burning in a hearth.", "S": ["chimney ", "furnace ", "stove "], "A": []}
+{"index": 152502, "D": "a fire burning in a hearth.", "S": ["chimney", "furnace", "stove"], "A": []}

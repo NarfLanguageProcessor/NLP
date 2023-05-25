@@ -1,1 +1,1 @@
-{"index": 348160, "D": "not popular;  disliked or ignored by the public or by persons generally.", "S": ["disapprobation ", "disapproval ", "dislike ", "displeasure ", "dissatisfaction "], "A": ["esteem ", "honor ", "love ", "regard ", "respect ", "satisfaction "]}
+{"index": 348160, "D": "not popular;  disliked or ignored by the public or by persons generally.", "S": ["disapprobation", "disapproval", "dislike", "displeasure", "dissatisfaction"], "A": ["esteem", "honor", "love", "regard", "respect", "satisfaction"]}

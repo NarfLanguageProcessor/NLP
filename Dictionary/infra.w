@@ -1,1 +1,1 @@
-{"index": 152242, "D": "below, especially when used in referring to parts of a text.", "S": ["afterward ", "again ", "next ", "subsequently ", "thereafter "], "A": ["earlier "]}
+{"index": 152242, "D": "below, especially when used in referring to parts of a text.", "S": ["afterward", "again", "next", "subsequently", "thereafter"], "A": ["earlier"]}

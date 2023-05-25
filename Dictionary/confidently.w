@@ -1,1 +1,1 @@
-{"index": 65891, "D": "having strong belief or full assurance; sure", "S": ["positively "], "A": []}
+{"index": 65891, "D": "having strong belief or full assurance; sure", "S": ["positively"], "A": []}

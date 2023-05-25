@@ -1,1 +1,1 @@
-{"index": 43015, "D": "government by many bureaus, administrators, and petty officials.", "S": ["administration ", "authority ", "civil service ", "management ", "ministry ", "red tape "], "A": []}
+{"index": 43015, "D": "government by many bureaus, administrators, and petty officials.", "S": ["administration", "authority", "civil service", "management", "ministry", "red tape"], "A": []}

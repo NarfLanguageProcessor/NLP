@@ -1,1 +1,1 @@
-{"index": 243896, "D": "opossum. ", "S": ["bandicoot ", "euro ", "kangaroo ", "koala ", "opossum ", "wallaby ", "wombat "], "A": []}
+{"index": 243896, "D": "opossum. ", "S": ["bandicoot", "euro", "kangaroo", "koala", "opossum", "wallaby", "wombat"], "A": []}

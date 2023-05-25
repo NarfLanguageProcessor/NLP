@@ -1,1 +1,1 @@
-{"index": 142092, "D": "a person who engages in a hobby,  an interest or activity pursued for pleasure or relaxation and not as one\u2019s main occupation", "S": ["connoisseur "], "A": []}
+{"index": 142092, "D": "a person who engages in a hobby,  an interest or activity pursued for pleasure or relaxation and not as one\u2019s main occupation", "S": ["connoisseur"], "A": []}

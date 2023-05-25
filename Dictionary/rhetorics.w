@@ -1,1 +1,1 @@
-{"index": 271913, "D": "(in writing or speech) the undue use of exaggeration or display; bombast.", "S": ["hyperbole ", "oratory "], "A": ["quiet "]}
+{"index": 271913, "D": "(in writing or speech) the undue use of exaggeration or display; bombast.", "S": ["hyperbole", "oratory"], "A": ["quiet"]}

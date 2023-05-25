@@ -1,1 +1,1 @@
-{"index": 368135, "D": "simple past tense and past participle of wring. ", "S": ["compressed ", "dried ", "pressed ", "twisted "], "A": []}
+{"index": 368135, "D": "simple past tense and past participle of wring. ", "S": ["compressed", "dried", "pressed", "twisted"], "A": []}

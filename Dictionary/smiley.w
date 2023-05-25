@@ -1,1 +1,1 @@
-{"index": 294880, "D": "Compare emoticon. ", "S": ["emotag ", "winkey "], "A": []}
+{"index": 294880, "D": "Compare emoticon. ", "S": ["emotag", "winkey"], "A": []}

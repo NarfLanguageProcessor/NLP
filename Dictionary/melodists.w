@@ -1,1 +1,1 @@
-{"index": 183004, "D": "a composer or a singer of melodies. ", "S": ["writer "], "A": []}
+{"index": 183004, "D": "a composer or a singer of melodies. ", "S": ["writer"], "A": []}

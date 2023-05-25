@@ -1,1 +1,1 @@
-{"index": 213278, "D": "to work, perform, or function, as a machine does", "S": ["fulfilled ", "managed ", "negotiated ", "regulated "], "A": []}
+{"index": 213278, "D": "to work, perform, or function, as a machine does", "S": ["fulfilled", "managed", "negotiated", "regulated"], "A": []}

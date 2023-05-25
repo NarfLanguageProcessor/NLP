@@ -1,1 +1,1 @@
-{"index": 9932, "D": "kenaf. ", "S": ["bhang ", "cannabis ", "fiber ", "flax ", "hashish ", "jute ", "marijuana "], "A": []}
+{"index": 9932, "D": "kenaf. ", "S": ["bhang", "cannabis", "fiber", "flax", "hashish", "jute", "marijuana"], "A": []}

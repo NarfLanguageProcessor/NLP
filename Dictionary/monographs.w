@@ -1,1 +1,1 @@
-{"index": 192362, "D": "a treatise on a particular subject, as a biographical study or study of the works of one artist.", "S": ["dissertation ", "essay ", "thesis ", "treatise "], "A": []}
+{"index": 192362, "D": "a treatise on a particular subject, as a biographical study or study of the works of one artist.", "S": ["dissertation", "essay", "thesis", "treatise"], "A": []}

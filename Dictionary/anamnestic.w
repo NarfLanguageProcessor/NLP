@@ -1,1 +1,1 @@
-{"index": 11829, "D": "of or relating to anamnesis", "S": ["memorized "], "A": ["forgetting ", "overlooking "]}
+{"index": 11829, "D": "of or relating to anamnesis", "S": ["memorized"], "A": ["forgetting", "overlooking"]}

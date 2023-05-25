@@ -1,1 +1,1 @@
-{"index": 118829, "D": "newly made or obtained", "S": ["brightness ", "inventiveness ", "novelty ", "originality ", "vigor "], "A": ["dullness "]}
+{"index": 118829, "D": "newly made or obtained", "S": ["brightness", "inventiveness", "novelty", "originality", "vigor"], "A": ["dullness"]}

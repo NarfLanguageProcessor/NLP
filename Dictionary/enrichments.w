@@ -1,1 +1,1 @@
-{"index": 100906, "D": "an act of enriching. ", "S": ["enhancement "], "A": ["injury "]}
+{"index": 100906, "D": "an act of enriching. ", "S": ["enhancement"], "A": ["injury"]}

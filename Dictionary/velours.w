@@ -1,1 +1,1 @@
-{"index": 357880, "D": "a velvetlike fabric of rayon, wool, or any of several other natural or synthetic fibers, used for outerwear and upholstery.", "S": ["nap ", "pile ", "plush ", "velour ", "velveteen "], "A": []}
+{"index": 357880, "D": "a velvetlike fabric of rayon, wool, or any of several other natural or synthetic fibers, used for outerwear and upholstery.", "S": ["nap", "pile", "plush", "velour", "velveteen"], "A": []}

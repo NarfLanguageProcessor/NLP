@@ -1,1 +1,1 @@
-{"index": 295008, "D": "a person or thing that smokes.", "S": ["stag night ", "stag party "], "A": []}
+{"index": 295008, "D": "a person or thing that smokes.", "S": ["stag night", "stag party"], "A": []}

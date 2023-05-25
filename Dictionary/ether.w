@@ -1,1 +1,1 @@
-{"index": 104895, "D": "a colorless, highly volatile, flammable liquid, C4H10O, having an aromatic odor and sweet, burning taste, derived from ethyl alcohol by the action of sulfuric acid", "S": ["cosmos ", "firmament ", "paradise ", "sky "], "A": []}
+{"index": 104895, "D": "a colorless, highly volatile, flammable liquid, C4H10O, having an aromatic odor and sweet, burning taste, derived from ethyl alcohol by the action of sulfuric acid", "S": ["cosmos", "firmament", "paradise", "sky"], "A": []}

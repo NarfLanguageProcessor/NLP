@@ -1,1 +1,1 @@
-{"index": 341427, "D": "not equalled; unparalleled or unrivalled; supreme", "S": ["solely "], "A": ["together "]}
+{"index": 341427, "D": "not equalled; unparalleled or unrivalled; supreme", "S": ["solely"], "A": ["together"]}

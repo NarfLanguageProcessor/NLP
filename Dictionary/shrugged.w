@@ -1,1 +1,1 @@
-{"index": 289299, "D": "to raise and contract (the shoulders), expressing indifference, disdain, etc.", "S": ["bounce ", "bump ", "fling ", "flop ", "hurtle ", "jolt ", "lug ", "snatch ", "thrust ", "tug ", "twitch ", "wiggle ", "wrench ", "wriggle ", "wring ", "yank "], "A": []}
+{"index": 289299, "D": "to raise and contract (the shoulders), expressing indifference, disdain, etc.", "S": ["bounce", "bump", "fling", "flop", "hurtle", "jolt", "lug", "snatch", "thrust", "tug", "twitch", "wiggle", "wrench", "wriggle", "wring", "yank"], "A": []}

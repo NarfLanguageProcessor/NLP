@@ -1,1 +1,1 @@
-{"index": 240718, "D": "the vital spirit; the soul.", "S": ["ego ", "mind ", "soul ", "spirit ", "subconscious "], "A": ["body "]}
+{"index": 240718, "D": "the vital spirit; the soul.", "S": ["ego", "mind", "soul", "spirit", "subconscious"], "A": ["body"]}

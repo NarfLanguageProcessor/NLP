@@ -1,1 +1,1 @@
-{"index": 345928, "D": "to cause to be as if never made; reduce to the original elements or condition; undo; destroy.", "S": ["ax job ", "calumniation ", "defamation ", "dismantlement ", "poison-pen letter "], "A": []}
+{"index": 345928, "D": "to cause to be as if never made; reduce to the original elements or condition; undo; destroy.", "S": ["ax job", "calumniation", "defamation", "dismantlement", "poison-pen letter"], "A": []}

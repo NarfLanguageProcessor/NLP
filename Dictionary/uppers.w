@@ -1,1 +1,1 @@
-{"index": 354872, "D": "higher, as in place, position, pitch, or in a scale", "S": ["analeptic ", "catalyst ", "drug ", "energizer ", "incentive ", "motivation ", "motive ", "restorative ", "spur ", "stimulus ", "tonic ", "upper "], "A": ["block ", "discouragement ", "hindrance "]}
+{"index": 354872, "D": "higher, as in place, position, pitch, or in a scale", "S": ["analeptic", "catalyst", "drug", "energizer", "incentive", "motivation", "motive", "restorative", "spur", "stimulus", "tonic", "upper"], "A": ["block", "discouragement", "hindrance"]}

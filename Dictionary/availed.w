@@ -1,1 +1,1 @@
-{"index": 24573, "D": "to be of use or value to; profit; advantage", "S": ["account ", "advantage ", "answer ", "benefit ", "fill ", "fulfill ", "meet ", "profit ", "satisfy ", "serve ", "suffice ", "work "], "A": ["dissatisfy ", "fail ", "miss ", "take "]}
+{"index": 24573, "D": "to be of use or value to; profit; advantage", "S": ["account", "advantage", "answer", "benefit", "fill", "fulfill", "meet", "profit", "satisfy", "serve", "suffice", "work"], "A": ["dissatisfy", "fail", "miss", "take"]}

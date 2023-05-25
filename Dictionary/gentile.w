@@ -1,1 +1,1 @@
-{"index": 123698, "D": "of or relating to any people not Jewish.", "S": ["agnostic "], "A": []}
+{"index": 123698, "D": "of or relating to any people not Jewish.", "S": ["agnostic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 190956, "D": "the quality of being mobile. ", "S": ["flexibility ", "maneuverability "], "A": []}
+{"index": 190956, "D": "the quality of being mobile. ", "S": ["flexibility", "maneuverability"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 32893, "D": "the inclination that one line or surface makes with another when not at right angles.", "S": ["skew ", "tend ", "tilt "], "A": ["lie ", "neglect ", "stay ", "straighten "]}
+{"index": 32893, "D": "the inclination that one line or surface makes with another when not at right angles.", "S": ["skew", "tend", "tilt"], "A": ["lie", "neglect", "stay", "straighten"]}

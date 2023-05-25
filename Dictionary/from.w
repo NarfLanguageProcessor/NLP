@@ -1,1 +1,1 @@
-{"index": 119298, "D": "(used to specify a starting point in spatial movement)", "S": ["against ", "in distinction to ", "out of possession of ", "taken away "], "A": []}
+{"index": 119298, "D": "(used to specify a starting point in spatial movement)", "S": ["against", "in distinction to", "out of possession of", "taken away"], "A": []}

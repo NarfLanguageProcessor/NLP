@@ -1,1 +1,1 @@
-{"index": 289251, "D": "to contract and wrinkle, as from great heat, cold, or dryness.", "S": ["arid ", "bare ", "barren ", "dehydrated ", "dusty ", "parched ", "stale ", "torrid "], "A": ["damp ", "full ", "moist ", "wet "]}
+{"index": 289251, "D": "to contract and wrinkle, as from great heat, cold, or dryness.", "S": ["arid", "bare", "barren", "dehydrated", "dusty", "parched", "stale", "torrid"], "A": ["damp", "full", "moist", "wet"]}

@@ -1,1 +1,1 @@
-{"index": 60403, "D": "the process of producing a clone. ", "S": ["duplicate ", "replicate ", "reproduce "], "A": []}
+{"index": 60403, "D": "the process of producing a clone. ", "S": ["duplicate", "replicate", "reproduce"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 193862, "D": "a person living in the backwoods; rustic.", "S": ["conservative ", "fuddy-duddy ", "geezer ", "square "], "A": []}
+{"index": 193862, "D": "a person living in the backwoods; rustic.", "S": ["conservative", "fuddy-duddy", "geezer", "square"], "A": []}

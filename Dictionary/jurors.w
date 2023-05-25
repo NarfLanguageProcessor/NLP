@@ -1,1 +1,1 @@
-{"index": 162485, "D": "one of a group of persons sworn to deliver a verdict in a case submitted to them; member of a jury.", "S": ["hearer ", "juryman ", "jurywoman ", "peer "], "A": []}
+{"index": 162485, "D": "one of a group of persons sworn to deliver a verdict in a case submitted to them; member of a jury.", "S": ["hearer", "juryman", "jurywoman", "peer"], "A": []}

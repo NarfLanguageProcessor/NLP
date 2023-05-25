@@ -1,1 +1,1 @@
-{"index": 40828, "D": "the upper edge of anything hollow; rim; brink", "S": ["filled "], "A": ["empty "]}
+{"index": 40828, "D": "the upper edge of anything hollow; rim; brink", "S": ["filled"], "A": ["empty"]}

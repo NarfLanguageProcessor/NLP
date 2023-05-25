@@ -1,1 +1,1 @@
-{"index": 29581, "D": "of or like a beast;  bestial.", "S": ["hardened "], "A": ["good ", "manageable ", "nice ", "obedient "]}
+{"index": 29581, "D": "of or like a beast;  bestial.", "S": ["hardened"], "A": ["good", "manageable", "nice", "obedient"]}

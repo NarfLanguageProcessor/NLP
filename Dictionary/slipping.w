@@ -1,1 +1,1 @@
-{"index": 294200, "D": "to move, flow, pass, or go smoothly or easily; glide; slide", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}
+{"index": 294200, "D": "to move, flow, pass, or go smoothly or easily; glide; slide", "S": ["downward"], "A": ["above", "cheerful", "cheery", "happy", "heartened", "higher"]}

@@ -1,1 +1,1 @@
-{"index": 103535, "D": "a person or thing that erects. ", "S": ["assembler ", "constructor ", "developer ", "fabricator ", "maker ", "manufacturer ", "producer "], "A": []}
+{"index": 103535, "D": "a person or thing that erects. ", "S": ["assembler", "constructor", "developer", "fabricator", "maker", "manufacturer", "producer"], "A": []}

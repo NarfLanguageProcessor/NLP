@@ -1,1 +1,1 @@
-{"index": 34724, "D": "Compare birch family. ", "S": ["chastened ", "dismissed ", "imprisoned ", "penalized "], "A": ["cleared ", "exonerated ", "released "]}
+{"index": 34724, "D": "Compare birch family. ", "S": ["chastened", "dismissed", "imprisoned", "penalized"], "A": ["cleared", "exonerated", "released"]}

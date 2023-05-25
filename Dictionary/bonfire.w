@@ -1,1 +1,1 @@
-{"index": 37878, "D": "a large fire built in the open air, for warmth, entertainment, or celebration, to burn leaves, garbage, etc., or as a signal.", "S": ["conflagration "], "A": []}
+{"index": 37878, "D": "a large fire built in the open air, for warmth, entertainment, or celebration, to burn leaves, garbage, etc., or as a signal.", "S": ["conflagration"], "A": []}

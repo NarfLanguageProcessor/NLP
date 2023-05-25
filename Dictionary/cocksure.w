@@ -1,1 +1,1 @@
-{"index": 61583, "D": "perfectly sure  or certain; completely confident in one's own mind", "S": ["arrogant ", "brash ", "certain ", "cocky ", "conceited ", "positive ", "sure ", "vain "], "A": ["diffident ", "modest "]}
+{"index": 61583, "D": "perfectly sure  or certain; completely confident in one's own mind", "S": ["arrogant", "brash", "certain", "cocky", "conceited", "positive", "sure", "vain"], "A": ["diffident", "modest"]}

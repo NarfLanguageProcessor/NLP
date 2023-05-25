@@ -1,1 +1,1 @@
-{"index": 275592, "D": "to crumple or crush into wrinkles", "S": ["feathery ", "fluffy ", "fuzzy ", "hairy ", "leafy ", "luxuriant ", "unruly ", "wiry "], "A": ["smooth "]}
+{"index": 275592, "D": "to crumple or crush into wrinkles", "S": ["feathery", "fluffy", "fuzzy", "hairy", "leafy", "luxuriant", "unruly", "wiry"], "A": ["smooth"]}

@@ -1,1 +1,1 @@
-{"index": 119351, "D": "the part of a country that borders another country; boundary; border.", "S": ["borderland ", "borderline ", "bound ", "confines ", "edge ", "limit ", "march ", "perimeter ", "verge "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 119351, "D": "the part of a country that borders another country; boundary; border.", "S": ["borderland", "borderline", "bound", "confines", "edge", "limit", "march", "perimeter", "verge"], "A": ["center", "inside", "interior", "middle"]}

@@ -1,1 +1,1 @@
-{"index": 153695, "D": "exposure to the sun's rays, especially as a process of treatment.", "S": ["solar power ", "solar radiation "], "A": []}
+{"index": 153695, "D": "exposure to the sun's rays, especially as a process of treatment.", "S": ["solar power", "solar radiation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 275319, "D": "a mere beginning, first slight appearance, or undeveloped or imperfect form of something", "S": ["ABCs ", "basics ", "beginnings ", "elements ", "essentials ", "foundation ", "guts ", "heart ", "nitty-gritty ", "principles "], "A": ["cowardice ", "fear "]}
+{"index": 275319, "D": "a mere beginning, first slight appearance, or undeveloped or imperfect form of something", "S": ["ABCs", "basics", "beginnings", "elements", "essentials", "foundation", "guts", "heart", "nitty-gritty", "principles"], "A": ["cowardice", "fear"]}

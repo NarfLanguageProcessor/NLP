@@ -1,1 +1,1 @@
-{"index": 64781, "D": "to make or form by combining things, parts, or elements", "S": ["basic ", "fundamental ", "integral "], "A": ["additional ", "extra ", "secondary "]}
+{"index": 64781, "D": "to make or form by combining things, parts, or elements", "S": ["basic", "fundamental", "integral"], "A": ["additional", "extra", "secondary"]}

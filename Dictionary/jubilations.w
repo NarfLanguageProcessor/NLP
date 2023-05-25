@@ -1,1 +1,1 @@
-{"index": 162002, "D": "a feeling of or the expression of joy or exultation", "S": ["happiness ", "joy "], "A": ["sadness ", "sorrow ", "unhappiness ", "woe "]}
+{"index": 162002, "D": "a feeling of or the expression of joy or exultation", "S": ["happiness", "joy"], "A": ["sadness", "sorrow", "unhappiness", "woe"]}

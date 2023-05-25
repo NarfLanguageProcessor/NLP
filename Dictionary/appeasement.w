@@ -1,1 +1,1 @@
-{"index": 17624, "D": "the policy of acceding to the demands of a potentially hostile nation in the hope of maintaining peace", "S": ["conciliation ", "easing ", "moderation "], "A": ["difference ", "disagreement "]}
+{"index": 17624, "D": "the policy of acceding to the demands of a potentially hostile nation in the hope of maintaining peace", "S": ["conciliation", "easing", "moderation"], "A": ["difference", "disagreement"]}

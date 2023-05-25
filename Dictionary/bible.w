@@ -1,1 +1,1 @@
-{"index": 33230, "D": "the collection of sacred writings of the Christian religion, comprising the Old and New Testaments.", "S": ["authority ", "creed ", "doctrine ", "guide ", "guidebook ", "handbook ", "manual ", "scripture ", "testament ", "text "], "A": []}
+{"index": 33230, "D": "the collection of sacred writings of the Christian religion, comprising the Old and New Testaments.", "S": ["authority", "creed", "doctrine", "guide", "guidebook", "handbook", "manual", "scripture", "testament", "text"], "A": []}

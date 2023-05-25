@@ -1,1 +1,1 @@
-{"index": 334215, "D": "of or like a shadow or shadowy apparition", "S": ["dark ", "ghostly ", "shady "], "A": ["bright ", "light "]}
+{"index": 334215, "D": "of or like a shadow or shadowy apparition", "S": ["dark", "ghostly", "shady"], "A": ["bright", "light"]}

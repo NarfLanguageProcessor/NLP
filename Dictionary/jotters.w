@@ -1,1 +1,1 @@
-{"index": 161839, "D": "a person who jots  things down.", "S": ["notebook ", "notepad ", "paper "], "A": []}
+{"index": 161839, "D": "a person who jots  things down.", "S": ["notebook", "notepad", "paper"], "A": []}

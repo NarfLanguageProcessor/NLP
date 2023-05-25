@@ -1,1 +1,1 @@
-{"index": 73789, "D": "to produce (a hybrid); hybridize. ", "S": ["hybrid ", "mongrel ", "mutt "], "A": []}
+{"index": 73789, "D": "to produce (a hybrid); hybridize. ", "S": ["hybrid", "mongrel", "mutt"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 191745, "D": "Compare absolute monarchy, limited monarchy. ", "S": ["sovereignty ", "throne "], "A": []}
+{"index": 191745, "D": "Compare absolute monarchy, limited monarchy. ", "S": ["sovereignty", "throne"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 17813, "D": "the act of putting to a special use or purpose", "S": ["function ", "operation ", "utilization "], "A": ["misuse "]}
+{"index": 17813, "D": "the act of putting to a special use or purpose", "S": ["function", "operation", "utilization"], "A": ["misuse"]}

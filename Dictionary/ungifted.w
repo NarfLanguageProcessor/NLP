@@ -1,1 +1,1 @@
-{"index": 343037, "D": "having great special talent or ability", "S": ["green ", "rookie ", "tenderfoot "], "A": ["professional "]}
+{"index": 343037, "D": "having great special talent or ability", "S": ["green", "rookie", "tenderfoot"], "A": ["professional"]}

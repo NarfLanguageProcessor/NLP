@@ -1,1 +1,1 @@
-{"index": 52788, "D": "a variety of beet, Beta vulgaris cicla, having leaves and leafstalks that are used as a vegetable.", "S": ["beta ", "borscht ", "mangold "], "A": []}
+{"index": 52788, "D": "a variety of beet, Beta vulgaris cicla, having leaves and leafstalks that are used as a vegetable.", "S": ["beta", "borscht", "mangold"], "A": []}

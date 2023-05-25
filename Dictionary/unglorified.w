@@ -1,1 +1,1 @@
-{"index": 343113, "D": "to cause to be or treat as being more splendid, excellent, etc., than would normally be considered.", "S": ["anonymous ", "overlooked ", "unnamed ", "unnoticed ", "unrecognized "], "A": ["named "]}
+{"index": 343113, "D": "to cause to be or treat as being more splendid, excellent, etc., than would normally be considered.", "S": ["anonymous", "overlooked", "unnamed", "unnoticed", "unrecognized"], "A": ["named"]}

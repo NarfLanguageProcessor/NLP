@@ -1,1 +1,1 @@
-{"index": 83519, "D": "deviant  quality or state.", "S": ["aberrance ", "aberrancy ", "aberration ", "anomaly ", "deviation ", "discrepancy ", "divergence ", "irregularity ", "unnaturalness "], "A": ["agreement ", "conformity ", "harmony ", "normality ", "regularity ", "sameness "]}
+{"index": 83519, "D": "deviant  quality or state.", "S": ["aberrance", "aberrancy", "aberration", "anomaly", "deviation", "discrepancy", "divergence", "irregularity", "unnaturalness"], "A": ["agreement", "conformity", "harmony", "normality", "regularity", "sameness"]}

@@ -1,1 +1,1 @@
-{"index": 344536, "D": "giving information;  instructive", "S": ["ambiguous ", "arcane ", "enigmatic ", "equivocal ", "incomprehensible ", "mysterious ", "strange ", "vague ", "veiled "], "A": ["certain ", "clear ", "common ", "definite ", "known ", "normal ", "obvious ", "plain ", "sure "]}
+{"index": 344536, "D": "giving information;  instructive", "S": ["ambiguous", "arcane", "enigmatic", "equivocal", "incomprehensible", "mysterious", "strange", "vague", "veiled"], "A": ["certain", "clear", "common", "definite", "known", "normal", "obvious", "plain", "sure"]}

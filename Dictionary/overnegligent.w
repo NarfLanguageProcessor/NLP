@@ -1,1 +1,0 @@
-{"index": 220336, "D": "guilty of or characterized by neglect,  as of duty", "S": [], "A": []}

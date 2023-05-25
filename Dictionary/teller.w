@@ -1,1 +1,1 @@
-{"index": 318358, "D": "a person or thing that tells,  relates, or communicates; narrator", "S": ["cashier "], "A": []}
+{"index": 318358, "D": "a person or thing that tells,  relates, or communicates; narrator", "S": ["cashier"], "A": []}

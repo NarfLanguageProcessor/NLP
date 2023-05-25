@@ -1,1 +1,1 @@
-{"index": 78197, "D": "a board or group of decemvirs.", "S": ["decade ", "decagon ", "decapod ", "decennary ", "decennium "], "A": []}
+{"index": 78197, "D": "a board or group of decemvirs.", "S": ["decade", "decagon", "decapod", "decennary", "decennium"], "A": []}

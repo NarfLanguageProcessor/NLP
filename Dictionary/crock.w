@@ -1,1 +1,1 @@
-{"index": 73567, "D": "an earthenware pot, jar, or other container.", "S": ["container ", "crockery ", "pitcher ", "pot ", "vessel "], "A": []}
+{"index": 73567, "D": "an earthenware pot, jar, or other container.", "S": ["container", "crockery", "pitcher", "pot", "vessel"], "A": []}

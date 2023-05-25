@@ -1,1 +1,1 @@
-{"index": 64070, "D": "to sympathize (usually followed by with)", "S": ["compassionate ", "condolatory ", "empathetic ", "empathic ", "sympathetic ", "sympathizing "], "A": []}
+{"index": 64070, "D": "to sympathize (usually followed by with)", "S": ["compassionate", "condolatory", "empathetic", "empathic", "sympathetic", "sympathizing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 213944, "D": "a globose, reddish-yellow, bitter or sweet, edible citrus fruit.", "S": ["apricot ", "cantaloupe ", "carrot ", "coral ", "peach ", "salmon ", "tangerine ", "titian "], "A": []}
+{"index": 213944, "D": "a globose, reddish-yellow, bitter or sweet, edible citrus fruit.", "S": ["apricot", "cantaloupe", "carrot", "coral", "peach", "salmon", "tangerine", "titian"], "A": []}

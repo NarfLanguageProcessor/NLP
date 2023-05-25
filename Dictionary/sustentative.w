@@ -1,1 +1,1 @@
-{"index": 313808, "D": "maintenance in being or activity; the sustaining of life through vital processes.", "S": ["comestible ", "dietary ", "digestible ", "nourishing ", "nutrient ", "nutritional ", "nutritious ", "nutritive ", "peptic ", "salutary ", "sustaining "], "A": []}
+{"index": 313808, "D": "maintenance in being or activity; the sustaining of life through vital processes.", "S": ["comestible", "dietary", "digestible", "nourishing", "nutrient", "nutritional", "nutritious", "nutritive", "peptic", "salutary", "sustaining"], "A": []}

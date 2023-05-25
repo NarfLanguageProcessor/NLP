@@ -1,1 +1,1 @@
-{"index": 242392, "D": "made smooth and glossy", "S": ["gleaming ", "glistening ", "glossy ", "shining ", "shiny "], "A": ["dark ", "dull "]}
+{"index": 242392, "D": "made smooth and glossy", "S": ["gleaming", "glistening", "glossy", "shining", "shiny"], "A": ["dark", "dull"]}

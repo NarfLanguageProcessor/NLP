@@ -1,1 +1,1 @@
-{"index": 340907, "D": "excessively", "S": ["disproportionately ", "extremely ", "immensely ", "improperly ", "inordinately ", "overly ", "too ", "unfairly ", "unjustifiably ", "unjustly ", "unnecessarily ", "unreasonably "], "A": ["fairly ", "honestly ", "justly "]}
+{"index": 340907, "D": "excessively", "S": ["disproportionately", "extremely", "immensely", "improperly", "inordinately", "overly", "too", "unfairly", "unjustifiably", "unjustly", "unnecessarily", "unreasonably"], "A": ["fairly", "honestly", "justly"]}

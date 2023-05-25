@@ -1,1 +1,1 @@
-{"index": 162301, "D": [], "S": ["broach ", "commence ", "engage ", "enter ", "get off ", "initiate ", "launch ", "open ", "plunge into ", "set about ", "set out ", "set to ", "start ", "take up ", "tee off "], "A": []}
+{"index": 162301, "D": [], "S": ["broach", "commence", "engage", "enter", "get off", "initiate", "launch", "open", "plunge into", "set about", "set out", "set to", "start", "take up", "tee off"], "A": []}

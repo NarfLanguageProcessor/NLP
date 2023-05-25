@@ -1,1 +1,1 @@
-{"index": 44552, "D": "partnership; league (esp in the phrases go in cahoots with, go cahoot)", "S": ["alliance ", "collusion ", "league ", "partnership "], "A": []}
+{"index": 44552, "D": "partnership; league (esp in the phrases go in cahoots with, go cahoot)", "S": ["alliance", "collusion", "league", "partnership"], "A": []}

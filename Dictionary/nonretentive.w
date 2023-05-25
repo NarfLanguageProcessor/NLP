@@ -1,1 +1,0 @@
-{"index": 206837, "D": "tending or serving to retain  something.", "S": [], "A": []}

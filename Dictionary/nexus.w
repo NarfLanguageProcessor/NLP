@@ -1,1 +1,1 @@
-{"index": 199509, "D": "a means of connection; tie; link.", "S": ["center ", "connection ", "core ", "link ", "network ", "tie ", "union "], "A": ["divorce ", "exterior ", "exteriority ", "outside "]}
+{"index": 199509, "D": "a means of connection; tie; link.", "S": ["center", "connection", "core", "link", "network", "tie", "union"], "A": ["divorce", "exterior", "exteriority", "outside"]}

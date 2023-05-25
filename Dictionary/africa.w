@@ -1,1 +1,1 @@
-{"index": 5584, "D": "a continent south of Europe and between the Atlantic and Indian Oceans. About 11,700,000 square miles (30,303,000 square kilometers).", "S": ["land of the Sahara "], "A": []}
+{"index": 5584, "D": "a continent south of Europe and between the Atlantic and Indian Oceans. About 11,700,000 square miles (30,303,000 square kilometers).", "S": ["land of the Sahara"], "A": []}

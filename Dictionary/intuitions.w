@@ -1,1 +1,1 @@
-{"index": 156905, "D": "direct perception of truth, fact, etc., independent of any reasoning process; immediate apprehension.", "S": ["hunch ", "instinct "], "A": ["knowledge ", "reason ", "reasoning "]}
+{"index": 156905, "D": "direct perception of truth, fact, etc., independent of any reasoning process; immediate apprehension.", "S": ["hunch", "instinct"], "A": ["knowledge", "reason", "reasoning"]}

@@ -1,1 +1,0 @@
-{"index": 261845, "D": "to attach, append, or add, especially to something larger or more important.", "S": [], "A": []}

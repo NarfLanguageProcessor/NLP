@@ -1,1 +1,1 @@
-{"index": 270270, "D": "a person or thing that retains.", "S": ["retinue "], "A": ["leader "]}
+{"index": 270270, "D": "a person or thing that retains.", "S": ["retinue"], "A": ["leader"]}

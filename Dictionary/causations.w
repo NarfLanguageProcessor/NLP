@@ -1,1 +1,1 @@
-{"index": 50037, "D": "the action of causing or producing.", "S": ["element ", "explanation ", "matter ", "motivation ", "motive ", "origin ", "principle ", "purpose ", "root ", "source "], "A": ["discouragement ", "effect ", "result ", "conclusion ", "finish ", "neglect ", "thoughtlessness "]}
+{"index": 50037, "D": "the action of causing or producing.", "S": ["element", "explanation", "matter", "motivation", "motive", "origin", "principle", "purpose", "root", "source"], "A": ["discouragement", "effect", "result", "conclusion", "finish", "neglect", "thoughtlessness"]}

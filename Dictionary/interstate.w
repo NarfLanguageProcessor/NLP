@@ -1,1 +1,1 @@
-{"index": 155985, "D": "connecting or involving different states", "S": ["civil ", "communal ", "domestic ", "ethnic ", "governmental ", "internal ", "nationwide ", "public ", "social "], "A": ["private "]}
+{"index": 155985, "D": "connecting or involving different states", "S": ["civil", "communal", "domestic", "ethnic", "governmental", "internal", "nationwide", "public", "social"], "A": ["private"]}

@@ -1,1 +1,1 @@
-{"index": 30955, "D": "to explain, worry about, or work at (something) repeatedly or more than is necessary", "S": ["brooding ", "laboring "], "A": []}
+{"index": 30955, "D": "to explain, worry about, or work at (something) repeatedly or more than is necessary", "S": ["brooding", "laboring"], "A": []}

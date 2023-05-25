@@ -1,1 +1,1 @@
-{"index": 111134, "D": "relating to or being a woman or girl.", "S": ["girl ", "mother "], "A": ["male ", "man "]}
+{"index": 111134, "D": "relating to or being a woman or girl.", "S": ["girl", "mother"], "A": ["male", "man"]}

@@ -1,1 +1,1 @@
-{"index": 358909, "D": "a dizzying sensation of tilting within stable surroundings or of being in tilting or spinning surroundings.", "S": ["disequilibrium ", "giddiness ", "lightheadedness ", "shakiness ", "unsteadiness "], "A": []}
+{"index": 358909, "D": "a dizzying sensation of tilting within stable surroundings or of being in tilting or spinning surroundings.", "S": ["disequilibrium", "giddiness", "lightheadedness", "shakiness", "unsteadiness"], "A": []}

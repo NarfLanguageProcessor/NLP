@@ -1,1 +1,1 @@
-{"index": 297140, "D": "sleepy; drowsy.", "S": ["oblivion ", "slumber ", "stupor ", "trance "], "A": ["consciousness ", "liveliness "]}
+{"index": 297140, "D": "sleepy; drowsy.", "S": ["oblivion", "slumber", "stupor", "trance"], "A": ["consciousness", "liveliness"]}

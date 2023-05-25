@@ -1,1 +1,0 @@
-{"index": 221338, "D": "in a way that moves constantly and at an even pace or in the same direction", "S": [], "A": []}

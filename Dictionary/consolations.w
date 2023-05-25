@@ -1,1 +1,1 @@
-{"index": 66885, "D": "the act of consoling;  comfort; solace.", "S": ["comfort ", "compassion ", "encouragement ", "pity ", "solace ", "succor ", "sympathy "], "A": ["disdain ", "indifference ", "mercilessness ", "stop "]}
+{"index": 66885, "D": "the act of consoling;  comfort; solace.", "S": ["comfort", "compassion", "encouragement", "pity", "solace", "succor", "sympathy"], "A": ["disdain", "indifference", "mercilessness", "stop"]}

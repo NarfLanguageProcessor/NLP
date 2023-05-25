@@ -1,1 +1,1 @@
-{"index": 305263, "D": "a variant of stony. ", "S": ["expressionless ", "frigid "], "A": ["friendly ", "smiling ", "soft ", "warm "]}
+{"index": 305263, "D": "a variant of stony. ", "S": ["expressionless", "frigid"], "A": ["friendly", "smiling", "soft", "warm"]}

@@ -1,1 +1,1 @@
-{"index": 43951, "D": "a small house or cottage, usually of simple design and construction", "S": ["box ", "camp ", "chalet ", "compartment ", "cottage ", "home ", "hut ", "lodge ", "room ", "shack ", "shanty ", "shed ", "shelter "], "A": []}
+{"index": 43951, "D": "a small house or cottage, usually of simple design and construction", "S": ["box", "camp", "chalet", "compartment", "cottage", "home", "hut", "lodge", "room", "shack", "shanty", "shed", "shelter"], "A": []}

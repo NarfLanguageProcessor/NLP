@@ -1,1 +1,0 @@
-{"index": 330334, "D": "a heavy hammer  raised and then let fall by means of some tripping  device, as a cam.", "S": [], "A": []}

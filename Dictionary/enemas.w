@@ -1,1 +1,1 @@
-{"index": 100114, "D": "the injection of a fluid into the rectum to cause a bowel movement.", "S": ["dose ", "needle "], "A": []}
+{"index": 100114, "D": "the injection of a fluid into the rectum to cause a bowel movement.", "S": ["dose", "needle"], "A": []}

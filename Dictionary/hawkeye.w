@@ -1,1 +1,1 @@
-{"index": 134464, "D": "a native or inhabitant of Iowa (used as a nickname).", "S": ["X-ray eye ", "keen eye ", "lidless eye ", "peeled eye ", "penetrating eye ", "sharp eye ", "sleepless eye ", "watchful eye ", "weather eye "], "A": []}
+{"index": 134464, "D": "a native or inhabitant of Iowa (used as a nickname).", "S": ["X-ray eye", "keen eye", "lidless eye", "peeled eye", "penetrating eye", "sharp eye", "sleepless eye", "watchful eye", "weather eye"], "A": []}

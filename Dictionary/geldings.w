@@ -1,1 +1,1 @@
-{"index": 123233, "D": "a castrated male animal, especially a horse.", "S": ["sterilization "], "A": []}
+{"index": 123233, "D": "a castrated male animal, especially a horse.", "S": ["sterilization"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 295639, "D": "of, relating to, or characteristic of a snob", "S": ["aloof ", "condescending ", "haughty ", "patronizing ", "pompous ", "snooty "], "A": ["friendly ", "humble "]}
+{"index": 295639, "D": "of, relating to, or characteristic of a snob", "S": ["aloof", "condescending", "haughty", "patronizing", "pompous", "snooty"], "A": ["friendly", "humble"]}

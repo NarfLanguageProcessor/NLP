@@ -1,1 +1,1 @@
-{"index": 216623, "D": "an assemblage of articles that equip a person for a particular task, role, trade, etc.", "S": ["accoutre ", "appoint ", "arm ", "drape ", "furnish ", "gear ", "prepare ", "provide ", "provision ", "stock ", "suit ", "supply ", "tog "], "A": ["refuse ", "reject ", "take "]}
+{"index": 216623, "D": "an assemblage of articles that equip a person for a particular task, role, trade, etc.", "S": ["accoutre", "appoint", "arm", "drape", "furnish", "gear", "prepare", "provide", "provision", "stock", "suit", "supply", "tog"], "A": ["refuse", "reject", "take"]}

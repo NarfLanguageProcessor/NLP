@@ -1,1 +1,0 @@
-{"index": 267827, "D": "to see, watch, perceive, or notice", "S": [], "A": []}

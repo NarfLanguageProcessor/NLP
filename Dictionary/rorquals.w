@@ -1,1 +1,1 @@
-{"index": 274413, "D": "any of several whales of the genus Balaenoptera; finback.", "S": ["mammal ", "porpoise "], "A": []}
+{"index": 274413, "D": "any of several whales of the genus Balaenoptera; finback.", "S": ["mammal", "porpoise"], "A": []}

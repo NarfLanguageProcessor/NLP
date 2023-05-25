@@ -1,1 +1,1 @@
-{"index": 341663, "D": [], "S": ["inexplicable ", "inextricable ", "inscrutable ", "insoluble "], "A": ["solvable "]}
+{"index": 341663, "D": [], "S": ["inexplicable", "inextricable", "inscrutable", "insoluble"], "A": ["solvable"]}

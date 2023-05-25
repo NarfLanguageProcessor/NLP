@@ -1,1 +1,1 @@
-{"index": 130217, "D": "moving or going about clumsily or hesitantly; stumbling.", "S": ["dark ", "unsighted "], "A": ["aware ", "seeing ", "sighted "]}
+{"index": 130217, "D": "moving or going about clumsily or hesitantly; stumbling.", "S": ["dark", "unsighted"], "A": ["aware", "seeing", "sighted"]}

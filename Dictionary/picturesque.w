@@ -1,1 +1,1 @@
-{"index": 236113, "D": "visually charming or quaint, as if resembling or suitable for a painting", "S": ["beautiful ", "charming ", "colorful ", "pleasant ", "quaint ", "scenic "], "A": ["dreary ", "offensive ", "plain ", "repulsive ", "ugly "]}
+{"index": 236113, "D": "visually charming or quaint, as if resembling or suitable for a painting", "S": ["beautiful", "charming", "colorful", "pleasant", "quaint", "scenic"], "A": ["dreary", "offensive", "plain", "repulsive", "ugly"]}

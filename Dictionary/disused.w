@@ -1,1 +1,1 @@
-{"index": 90028, "D": "a disused mine", "S": ["antiquated ", "archaic ", "out-of-date ", "outmoded "], "A": ["current ", "modern ", "new "]}
+{"index": 90028, "D": "a disused mine", "S": ["antiquated", "archaic", "out-of-date", "outmoded"], "A": ["current", "modern", "new"]}

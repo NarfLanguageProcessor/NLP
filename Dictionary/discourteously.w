@@ -1,1 +1,1 @@
-{"index": 87658, "D": "not courteous;  impolite; uncivil; rude", "S": ["bluntly ", "crudely ", "harshly "], "A": ["civilly ", "courteously ", "politely "]}
+{"index": 87658, "D": "not courteous;  impolite; uncivil; rude", "S": ["bluntly", "crudely", "harshly"], "A": ["civilly", "courteously", "politely"]}

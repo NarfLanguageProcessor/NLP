@@ -1,1 +1,1 @@
-{"index": 150981, "D": "originating in and characteristic of a particular region or country; native (often followed by to)", "S": ["domestic ", "endemic ", "homegrown ", "primitive "], "A": ["alien ", "foreign "]}
+{"index": 150981, "D": "originating in and characteristic of a particular region or country; native (often followed by to)", "S": ["domestic", "endemic", "homegrown", "primitive"], "A": ["alien", "foreign"]}

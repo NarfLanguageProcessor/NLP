@@ -1,1 +1,1 @@
-{"index": 277065, "D": "of, containing, or resembling common table salt; salty or saltlike", "S": ["briny "], "A": []}
+{"index": 277065, "D": "of, containing, or resembling common table salt; salty or saltlike", "S": ["briny"], "A": []}

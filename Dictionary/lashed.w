@@ -1,1 +1,1 @@
-{"index": 168720, "D": "having lashes  or eyelashes, especially of a specified kind or description (usually used in combination)", "S": ["braided ", "bunched ", "clustered ", "coiled ", "snarled ", "tangled "], "A": ["straight "]}
+{"index": 168720, "D": "having lashes  or eyelashes, especially of a specified kind or description (usually used in combination)", "S": ["braided", "bunched", "clustered", "coiled", "snarled", "tangled"], "A": ["straight"]}

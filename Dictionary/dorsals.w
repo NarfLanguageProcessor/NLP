@@ -1,1 +1,1 @@
-{"index": 91747, "D": "of, relating to, or situated at the back, or dorsum.", "S": ["appendage ", "flipper ", "pinna "], "A": []}
+{"index": 91747, "D": "of, relating to, or situated at the back, or dorsum.", "S": ["appendage", "flipper", "pinna"], "A": []}

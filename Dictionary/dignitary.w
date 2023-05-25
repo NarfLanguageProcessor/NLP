@@ -1,1 +1,1 @@
-{"index": 85512, "D": "a person who holds a high rank or office, as in the government or church.", "S": ["celebrity ", "luminary "], "A": ["nobody ", "nonentity "]}
+{"index": 85512, "D": "a person who holds a high rank or office, as in the government or church.", "S": ["celebrity", "luminary"], "A": ["nobody", "nonentity"]}

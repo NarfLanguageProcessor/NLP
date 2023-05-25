@@ -1,1 +1,1 @@
-{"index": 117147, "D": "simple past tense of forego1. ", "S": ["eschew ", "forfeit ", "forsake ", "refrain ", "relinquish ", "renounce ", "waive "], "A": ["complete ", "deny ", "do ", "finish ", "refuse ", "veto "]}
+{"index": 117147, "D": "simple past tense of forego1. ", "S": ["eschew", "forfeit", "forsake", "refrain", "relinquish", "renounce", "waive"], "A": ["complete", "deny", "do", "finish", "refuse", "veto"]}

@@ -1,1 +1,1 @@
-{"index": 257303, "D": [], "S": ["contaminated ", "disagreeable ", "fetid ", "moldy ", "musty ", "polluted ", "putrid ", "smelly ", "soured ", "stale ", "tainted "], "A": ["clean ", "fresh ", "new ", "perfumed ", "pure ", "sweet "]}
+{"index": 257303, "D": [], "S": ["contaminated", "disagreeable", "fetid", "moldy", "musty", "polluted", "putrid", "smelly", "soured", "stale", "tainted"], "A": ["clean", "fresh", "new", "perfumed", "pure", "sweet"]}

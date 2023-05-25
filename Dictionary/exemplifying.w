@@ -1,1 +1,1 @@
-{"index": 107023, "D": "to show or illustrate by example. ", "S": ["descriptive ", "emblematic ", "figurative ", "revealing "], "A": ["atypical ", "complicated ", "confusing ", "involved "]}
+{"index": 107023, "D": "to show or illustrate by example. ", "S": ["descriptive", "emblematic", "figurative", "revealing"], "A": ["atypical", "complicated", "confusing", "involved"]}

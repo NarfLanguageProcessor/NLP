@@ -1,1 +1,1 @@
-{"index": 78973, "D": "to form or have an opinion; judge; think", "S": ["allow ", "assume ", "believe ", "expect ", "feel ", "presume ", "suppose ", "suspect "], "A": ["disbelieve ", "disregard ", "forget ", "ignore ", "misinterpret ", "mistrust ", "misunderstand ", "neglect "]}
+{"index": 78973, "D": "to form or have an opinion; judge; think", "S": ["allow", "assume", "believe", "expect", "feel", "presume", "suppose", "suspect"], "A": ["disbelieve", "disregard", "forget", "ignore", "misinterpret", "mistrust", "misunderstand", "neglect"]}

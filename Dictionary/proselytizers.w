@@ -1,1 +1,1 @@
-{"index": 253071, "D": "to convert or attempt to convert as a proselyte;  recruit to a religion or other belief system.", "S": ["proponent "], "A": ["enemy "]}
+{"index": 253071, "D": "to convert or attempt to convert as a proselyte;  recruit to a religion or other belief system.", "S": ["proponent"], "A": ["enemy"]}

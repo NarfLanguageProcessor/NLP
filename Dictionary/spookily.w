@@ -1,1 +1,0 @@
-{"index": 300849, "D": "like or befitting a spook  or ghost; suggestive of spooks. ", "S": [], "A": []}

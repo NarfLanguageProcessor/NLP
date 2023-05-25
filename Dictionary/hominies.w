@@ -1,1 +1,1 @@
-{"index": 142946, "D": "whole or ground hulled corn from which the bran and germ have been removed by bleaching the whole kernels in a lye bath (lye hominy ) or by crushing and sifting (pearl hominy ).", "S": ["cereal ", "porridge "], "A": []}
+{"index": 142946, "D": "whole or ground hulled corn from which the bran and germ have been removed by bleaching the whole kernels in a lye bath (lye hominy ) or by crushing and sifting (pearl hominy ).", "S": ["cereal", "porridge"], "A": []}

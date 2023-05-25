@@ -1,1 +1,0 @@
-{"index": 273827, "D": "receipt of goods.", "S": [], "A": []}

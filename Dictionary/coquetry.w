@@ -1,1 +1,1 @@
-{"index": 68741, "D": "the behavior or arts of a coquette; flirtation.", "S": ["dalliance ", "flirting "], "A": []}
+{"index": 68741, "D": "the behavior or arts of a coquette; flirtation.", "S": ["dalliance", "flirting"], "A": []}

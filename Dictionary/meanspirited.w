@@ -1,1 +1,1 @@
-{"index": 181771, "D": "petty; small-minded; ungenerous", "S": ["cowardly ", "mean ", "servile ", "timid ", "weak "], "A": []}
+{"index": 181771, "D": "petty; small-minded; ungenerous", "S": ["cowardly", "mean", "servile", "timid", "weak"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 365379, "D": "having a whorl  or whorls.", "S": ["circling ", "coiled "], "A": ["straight ", "unwinding "]}
+{"index": 365379, "D": "having a whorl  or whorls.", "S": ["circling", "coiled"], "A": ["straight", "unwinding"]}

@@ -1,1 +1,1 @@
-{"index": 36672, "D": "abounding in or resembling blubber;  fat.", "S": ["greasy ", "oily "], "A": ["dry "]}
+{"index": 36672, "D": "abounding in or resembling blubber;  fat.", "S": ["greasy", "oily"], "A": ["dry"]}

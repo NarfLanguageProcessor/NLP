@@ -1,1 +1,1 @@
-{"index": 301093, "D": "free from any spot,  stain, etc.; immaculately clean", "S": ["flawless ", "gleaming ", "immaculate ", "unblemished "], "A": ["flawed ", "imperfect "]}
+{"index": 301093, "D": "free from any spot,  stain, etc.; immaculately clean", "S": ["flawless", "gleaming", "immaculate", "unblemished"], "A": ["flawed", "imperfect"]}

@@ -1,1 +1,1 @@
-{"index": 243030, "D": "a small horse of any of several breeds, usually not higher at the shoulder than 14\u00bd hands (58 inches/146 centimeters).", "S": ["cayuse ", "crib ", "glass ", "mustang ", "nag ", "pinto ", "racehorse ", "trot "], "A": []}
+{"index": 243030, "D": "a small horse of any of several breeds, usually not higher at the shoulder than 14\u00bd hands (58 inches/146 centimeters).", "S": ["cayuse", "crib", "glass", "mustang", "nag", "pinto", "racehorse", "trot"], "A": []}

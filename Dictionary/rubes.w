@@ -1,1 +1,1 @@
-{"index": 275161, "D": "an unsophisticated person from a rural area; hick.", "S": ["bumpkin ", "hick "], "A": []}
+{"index": 275161, "D": "an unsophisticated person from a rural area; hick.", "S": ["bumpkin", "hick"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 127343, "D": "the Holy Trinity of God the Father, Christ the Son, and the Holy Spirit. ", "S": ["divinity ", "idol ", "immortal "], "A": []}
+{"index": 127343, "D": "the Holy Trinity of God the Father, Christ the Son, and the Holy Spirit. ", "S": ["divinity", "idol", "immortal"], "A": []}

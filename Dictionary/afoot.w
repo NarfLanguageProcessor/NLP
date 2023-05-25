@@ -1,0 +1,1 @@
+{"index": 5557, "D": "on foot; walking", "S": ["hiking", "on foot", "walking"], "A": ["completed", "ended", "finished"]}

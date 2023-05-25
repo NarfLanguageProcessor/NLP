@@ -1,1 +1,1 @@
-{"index": 295013, "D": [], "S": ["fireplace ", "flue ", "furnace ", "hearth ", "pipe ", "stack ", "vent "], "A": []}
+{"index": 295013, "D": [], "S": ["fireplace", "flue", "furnace", "hearth", "pipe", "stack", "vent"], "A": []}

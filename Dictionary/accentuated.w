@@ -1,1 +1,1 @@
-{"index": 1463, "D": "emphasized or made particularly noticeable; prominent", "S": ["emphasize ", "highlight ", "point up ", "underline ", "underscore "], "A": ["mask "]}
+{"index": 1463, "D": "emphasized or made particularly noticeable; prominent", "S": ["emphasize", "highlight", "point up", "underline", "underscore"], "A": ["mask"]}

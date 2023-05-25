@@ -1,1 +1,1 @@
-{"index": 55314, "D": "an act or instance of choosing;  selection", "S": ["finest ", "first ", "first-rate ", "leading ", "outstanding ", "perfect ", "terrific "], "A": ["inferior ", "poor ", "least ", "minor ", "poorest ", "secondary ", "unimportant ", "worst "]}
+{"index": 55314, "D": "an act or instance of choosing;  selection", "S": ["finest", "first", "first-rate", "leading", "outstanding", "perfect", "terrific"], "A": ["inferior", "poor", "least", "minor", "poorest", "secondary", "unimportant", "worst"]}

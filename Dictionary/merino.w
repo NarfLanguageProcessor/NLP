@@ -1,1 +1,1 @@
-{"index": 183807, "D": "one of a breed of sheep, raised originally in Spain, valued for their fine wool.", "S": ["cashmere ", "fleece ", "fur ", "hair ", "mohair ", "tweed ", "yarn "], "A": []}
+{"index": 183807, "D": "one of a breed of sheep, raised originally in Spain, valued for their fine wool.", "S": ["cashmere", "fleece", "fur", "hair", "mohair", "tweed", "yarn"], "A": []}

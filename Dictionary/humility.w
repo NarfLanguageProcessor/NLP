@@ -1,1 +1,1 @@
-{"index": 145000, "D": "the quality or condition of being humble;  modest opinion or estimate of one's own importance, rank, etc.", "S": ["shyness "], "A": ["boldness ", "confidence "]}
+{"index": 145000, "D": "the quality or condition of being humble;  modest opinion or estimate of one's own importance, rank, etc.", "S": ["shyness"], "A": ["boldness", "confidence"]}

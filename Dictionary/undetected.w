@@ -1,1 +1,1 @@
-{"index": 340221, "D": "the fake bomb passed undetected", "S": ["uncharted ", "undiscovered ", "unexplored ", "unheard-of "], "A": []}
+{"index": 340221, "D": "the fake bomb passed undetected", "S": ["uncharted", "undiscovered", "unexplored", "unheard-of"], "A": []}

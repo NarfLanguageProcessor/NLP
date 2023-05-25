@@ -1,1 +1,1 @@
-{"index": 305429, "D": "an establishment where merchandise is sold, usually on a retail basis.", "S": ["bottling ", "conserving ", "keeping ", "tinning "], "A": []}
+{"index": 305429, "D": "an establishment where merchandise is sold, usually on a retail basis.", "S": ["bottling", "conserving", "keeping", "tinning"], "A": []}

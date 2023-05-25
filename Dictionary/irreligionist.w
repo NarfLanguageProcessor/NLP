@@ -1,1 +1,1 @@
-{"index": 158283, "D": "lack of religion.", "S": ["agnostic ", "doubting Thomas ", "skeptic ", "unbeliever "], "A": ["believer "]}
+{"index": 158283, "D": "lack of religion.", "S": ["agnostic", "doubting Thomas", "skeptic", "unbeliever"], "A": ["believer"]}

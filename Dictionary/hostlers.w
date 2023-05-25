@@ -1,1 +1,1 @@
-{"index": 144230, "D": "a person who takes care of horses, especially at an inn.", "S": ["equerry "], "A": []}
+{"index": 144230, "D": "a person who takes care of horses, especially at an inn.", "S": ["equerry"], "A": []}

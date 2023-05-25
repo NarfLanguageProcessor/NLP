@@ -1,1 +1,1 @@
-{"index": 296573, "D": "of, like, or befitting a soldier. ", "S": ["aggressive ", "armed ", "army ", "combatant ", "combative ", "fighting ", "martial ", "militant ", "militaristic ", "noncivilian ", "warlike ", "warmongering "], "A": []}
+{"index": 296573, "D": "of, like, or befitting a soldier. ", "S": ["aggressive", "armed", "army", "combatant", "combative", "fighting", "martial", "militant", "militaristic", "noncivilian", "warlike", "warmongering"], "A": []}

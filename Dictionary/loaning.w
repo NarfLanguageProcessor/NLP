@@ -1,1 +1,1 @@
-{"index": 174121, "D": "the act of lending; a grant of the temporary use of something", "S": ["allowance ", "credit ", "investment ", "mortgage "], "A": []}
+{"index": 174121, "D": "the act of lending; a grant of the temporary use of something", "S": ["allowance", "credit", "investment", "mortgage"], "A": []}

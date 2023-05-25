@@ -1,1 +1,1 @@
-{"index": 66241, "D": "to come together; assemble, especially in large numbers", "S": ["bunch up ", "converge ", "flock ", "gather ", "swarm ", "throng "], "A": ["disperse ", "divide ", "scatter ", "separate ", "spread ", "cancel ", "distribute "]}
+{"index": 66241, "D": "to come together; assemble, especially in large numbers", "S": ["bunch up", "converge", "flock", "gather", "swarm", "throng"], "A": ["disperse", "divide", "scatter", "separate", "spread", "cancel", "distribute"]}

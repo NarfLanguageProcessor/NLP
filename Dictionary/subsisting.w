@@ -1,1 +1,1 @@
-{"index": 309214, "D": "to exist; continue in existence.", "S": ["awake ", "conscious ", "viable "], "A": ["dead ", "deceased ", "inanimate ", "lifeless "]}
+{"index": 309214, "D": "to exist; continue in existence.", "S": ["awake", "conscious", "viable"], "A": ["dead", "deceased", "inanimate", "lifeless"]}

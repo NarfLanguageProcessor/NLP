@@ -1,1 +1,1 @@
-{"index": 116167, "D": "covering for the feet,  as shoes, boots, etc.", "S": ["boot ", "cleat ", "cowboy boot ", "loafer ", "pump ", "running shoe ", "slipper ", "sneaker ", "tennis shoe "], "A": []}
+{"index": 116167, "D": "covering for the feet,  as shoes, boots, etc.", "S": ["boot", "cleat", "cowboy boot", "loafer", "pump", "running shoe", "slipper", "sneaker", "tennis shoe"], "A": []}

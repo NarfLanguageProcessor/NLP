@@ -1,1 +1,1 @@
-{"index": 316942, "D": "having no taste  or flavor; insipid.", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}
+{"index": 316942, "D": "having no taste  or flavor; insipid.", "S": ["aloud", "emphatically", "noisily", "powerfully", "vehemently", "vociferously"], "A": ["inaudibly", "quietly", "silently"]}

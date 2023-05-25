@@ -1,0 +1,1 @@
+{"index": 22017, "D": "belonging to the Asterasceae, an alternative name for the plant family Compositae.", "S": [], "A": []}

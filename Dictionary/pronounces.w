@@ -1,1 +1,1 @@
-{"index": 252444, "D": "to enunciate or articulate (sounds, words, sentences, etc.).", "S": ["speak ", "utter "], "A": ["conceal ", "hide ", "mumble "]}
+{"index": 252444, "D": "to enunciate or articulate (sounds, words, sentences, etc.).", "S": ["speak", "utter"], "A": ["conceal", "hide", "mumble"]}

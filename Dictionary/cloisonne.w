@@ -1,1 +1,1 @@
-{"index": 60365, "D": "enamelwork in which colored areas are separated by thin metal bands fixed edgewise to the ground.", "S": ["coating ", "glaze ", "lacquer ", "stain ", "varnish "], "A": ["dullness "]}
+{"index": 60365, "D": "enamelwork in which colored areas are separated by thin metal bands fixed edgewise to the ground.", "S": ["coating", "glaze", "lacquer", "stain", "varnish"], "A": ["dullness"]}

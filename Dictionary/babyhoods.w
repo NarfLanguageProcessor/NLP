@@ -1,1 +1,1 @@
-{"index": 25513, "D": "an infant or very young child.", "S": ["childhood "], "A": ["adolescence ", "adulthood "]}
+{"index": 25513, "D": "an infant or very young child.", "S": ["childhood"], "A": ["adolescence", "adulthood"]}

@@ -1,1 +1,1 @@
-{"index": 119343, "D": "the foremost part or surface of anything.", "S": ["overlook "], "A": ["avoid ", "retreat "]}
+{"index": 119343, "D": "the foremost part or surface of anything.", "S": ["overlook"], "A": ["avoid", "retreat"]}

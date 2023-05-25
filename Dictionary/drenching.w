@@ -1,1 +1,1 @@
-{"index": 92959, "D": "to wet thoroughly; soak.", "S": ["dive ", "plunge "], "A": []}
+{"index": 92959, "D": "to wet thoroughly; soak.", "S": ["dive", "plunge"], "A": []}

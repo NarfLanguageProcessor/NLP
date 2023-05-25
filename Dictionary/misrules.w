@@ -1,1 +1,1 @@
-{"index": 189983, "D": "bad or unwise rule; misgovernment.", "S": ["anarchy ", "lawlessness "], "A": ["method ", "order ", "organization ", "system ", "tidiness "]}
+{"index": 189983, "D": "bad or unwise rule; misgovernment.", "S": ["anarchy", "lawlessness"], "A": ["method", "order", "organization", "system", "tidiness"]}

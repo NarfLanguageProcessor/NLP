@@ -1,1 +1,1 @@
-{"index": 119431, "D": "a sweet mixture, cooked or uncooked, for coating or filling cakes, cookies, and the like; icing.", "S": ["glaze "], "A": []}
+{"index": 119431, "D": "a sweet mixture, cooked or uncooked, for coating or filling cakes, cookies, and the like; icing.", "S": ["glaze"], "A": []}

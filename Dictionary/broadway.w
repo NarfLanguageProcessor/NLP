@@ -1,1 +1,1 @@
-{"index": 41096, "D": "a street in New York City, famous for its theaters, restaurants, and bright lights.", "S": ["comedy ", "farce ", "melodrama ", "play ", "production ", "scene ", "show ", "theater ", "tragedy "], "A": ["tragedy "]}
+{"index": 41096, "D": "a street in New York City, famous for its theaters, restaurants, and bright lights.", "S": ["comedy", "farce", "melodrama", "play", "production", "scene", "show", "theater", "tragedy"], "A": ["tragedy"]}

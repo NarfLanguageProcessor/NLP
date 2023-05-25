@@ -1,1 +1,1 @@
-{"index": 123096, "D": "a digital-technology expert or enthusiast (a term of pride as self-reference, but often used disparagingly by others).", "S": ["buffoon ", "freak ", "nerd ", "weirdo "], "A": []}
+{"index": 123096, "D": "a digital-technology expert or enthusiast (a term of pride as self-reference, but often used disparagingly by others).", "S": ["buffoon", "freak", "nerd", "weirdo"], "A": []}

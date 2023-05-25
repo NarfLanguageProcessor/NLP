@@ -1,1 +1,1 @@
-{"index": 13555, "D": "a person or thing that annihilates. ", "S": ["bomber "], "A": ["author ", "creator ", "restorer "]}
+{"index": 13555, "D": "a person or thing that annihilates. ", "S": ["bomber"], "A": ["author", "creator", "restorer"]}

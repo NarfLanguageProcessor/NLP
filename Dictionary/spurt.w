@@ -1,1 +1,1 @@
-{"index": 301544, "D": "to gush or issue suddenly in a stream or jet, as a liquid; spout.", "S": ["commotion ", "eruption ", "explosion ", "outburst ", "spate ", "surge "], "A": ["peace "]}
+{"index": 301544, "D": "to gush or issue suddenly in a stream or jet, as a liquid; spout.", "S": ["commotion", "eruption", "explosion", "outburst", "spate", "surge"], "A": ["peace"]}

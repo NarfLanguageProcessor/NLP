@@ -1,1 +1,1 @@
-{"index": 189298, "D": "an expanse of open or cleared ground, especially a piece of land suitable or used for pasture or tillage.", "S": ["botch ", "flub ", "mishandle ", "screw up ", "stumble "], "A": ["succeed ", "do well "]}
+{"index": 189298, "D": "an expanse of open or cleared ground, especially a piece of land suitable or used for pasture or tillage.", "S": ["botch", "flub", "mishandle", "screw up", "stumble"], "A": ["succeed", "do well"]}

@@ -1,1 +1,1 @@
-{"index": 20510, "D": "any of the smallest branches of an artery, terminating in capillaries.", "S": ["artery ", "capillary ", "vein "], "A": []}
+{"index": 20510, "D": "any of the smallest branches of an artery, terminating in capillaries.", "S": ["artery", "capillary", "vein"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 243634, "D": "a person hired to carry burdens or baggage, as at a railroad station or a hotel.", "S": ["bearer ", "bellhop ", "carrier ", "concierge ", "doorkeeper ", "gatekeeper ", "janitor ", "redcap ", "skycap ", "transporter "], "A": []}
+{"index": 243634, "D": "a person hired to carry burdens or baggage, as at a railroad station or a hotel.", "S": ["bearer", "bellhop", "carrier", "concierge", "doorkeeper", "gatekeeper", "janitor", "redcap", "skycap", "transporter"], "A": []}

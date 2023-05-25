@@ -1,1 +1,1 @@
-{"index": 319583, "D": "to fill with terror  or alarm; make greatly afraid.", "S": ["alarmed ", "awed ", "frightened ", "frozen ", "scared "], "A": ["unafraid "]}
+{"index": 319583, "D": "to fill with terror  or alarm; make greatly afraid.", "S": ["alarmed", "awed", "frightened", "frozen", "scared"], "A": ["unafraid"]}

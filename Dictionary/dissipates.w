@@ -1,1 +1,1 @@
-{"index": 89590, "D": "to scatter in various directions; disperse; dispel.", "S": ["deplete ", "use up "], "A": ["build ", "hoard ", "save ", "starve "]}
+{"index": 89590, "D": "to scatter in various directions; disperse; dispel.", "S": ["deplete", "use up"], "A": ["build", "hoard", "save", "starve"]}

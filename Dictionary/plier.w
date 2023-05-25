@@ -1,1 +1,1 @@
-{"index": 240095, "D": "small pincers with long jaws, for bending wire, holding small objects, etc. (usually used with pair of).", "S": ["forceps ", "tongs "], "A": []}
+{"index": 240095, "D": "small pincers with long jaws, for bending wire, holding small objects, etc. (usually used with pair of).", "S": ["forceps", "tongs"], "A": []}

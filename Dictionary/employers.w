@@ -1,1 +1,1 @@
-{"index": 98839, "D": "a person or business that employs  one or more people, especially for wages or salary", "S": ["administration ", "authority ", "board ", "executive "], "A": ["employees ", "mismanagement "]}
+{"index": 98839, "D": "a person or business that employs  one or more people, especially for wages or salary", "S": ["administration", "authority", "board", "executive"], "A": ["employees", "mismanagement"]}

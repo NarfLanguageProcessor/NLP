@@ -1,1 +1,1 @@
-{"index": 301178, "D": "to overstrain or wrench (the ligaments of an ankle, wrist, or other joint) so as to injure without fracture or dislocation.", "S": ["drag ", "haul ", "pick ", "pluck ", "remove ", "rip ", "stretch ", "take out ", "tear ", "tow ", "trail ", "tug ", "yank "], "A": ["push "]}
+{"index": 301178, "D": "to overstrain or wrench (the ligaments of an ankle, wrist, or other joint) so as to injure without fracture or dislocation.", "S": ["drag", "haul", "pick", "pluck", "remove", "rip", "stretch", "take out", "tear", "tow", "trail", "tug", "yank"], "A": ["push"]}

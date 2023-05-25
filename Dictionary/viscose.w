@@ -1,1 +1,1 @@
-{"index": 360354, "D": "a viscous  solution prepared by treating cellulose with caustic soda and carbon bisulfide", "S": ["adhesive ", "stiff ", "thick ", "tough "], "A": ["easy ", "loose "]}
+{"index": 360354, "D": "a viscous  solution prepared by treating cellulose with caustic soda and carbon bisulfide", "S": ["adhesive", "stiff", "thick", "tough"], "A": ["easy", "loose"]}

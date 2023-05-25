@@ -1,1 +1,1 @@
-{"index": 233033, "D": "the tube or cavity, with its surrounding membrane and muscles, that connects the mouth and nasal passages with the esophagus.", "S": ["esophagus ", "larynx "], "A": []}
+{"index": 233033, "D": "the tube or cavity, with its surrounding membrane and muscles, that connects the mouth and nasal passages with the esophagus.", "S": ["esophagus", "larynx"], "A": []}

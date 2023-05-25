@@ -1,1 +1,1 @@
-{"index": 110161, "D": "a person who fashions,  forms, or gives shape to anything.", "S": ["architect ", "author ", "engineer ", "fashion designer ", "inventor ", "maker ", "planner ", "producer "], "A": []}
+{"index": 110161, "D": "a person who fashions,  forms, or gives shape to anything.", "S": ["architect", "author", "engineer", "fashion designer", "inventor", "maker", "planner", "producer"], "A": []}

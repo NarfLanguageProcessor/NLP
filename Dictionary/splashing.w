@@ -1,1 +1,1 @@
-{"index": 300370, "D": "to wet or soil by dashing masses or particles of water, mud, or the like; spatter", "S": ["damp ", "melted ", "running ", "smooth ", "solvent ", "succulent ", "wet "], "A": ["broken ", "dry ", "intermittent "]}
+{"index": 300370, "D": "to wet or soil by dashing masses or particles of water, mud, or the like; spatter", "S": ["damp", "melted", "running", "smooth", "solvent", "succulent", "wet"], "A": ["broken", "dry", "intermittent"]}

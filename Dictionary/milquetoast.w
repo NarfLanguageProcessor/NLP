@@ -1,1 +1,1 @@
-{"index": 187517, "D": "a very timid, unassertive, spineless person, especially one who is easily dominated or intimidated", "S": ["milksop ", "mollycoddle ", "pushover "], "A": []}
+{"index": 187517, "D": "a very timid, unassertive, spineless person, especially one who is easily dominated or intimidated", "S": ["milksop", "mollycoddle", "pushover"], "A": []}

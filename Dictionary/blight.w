@@ -1,1 +1,1 @@
-{"index": 36187, "D": "a disease so characterized.", "S": ["affliction ", "canker ", "decay ", "eyesore ", "fungus ", "infestation ", "mildew ", "pest ", "scourge "], "A": ["cleanliness ", "goodness ", "purification "]}
+{"index": 36187, "D": "a disease so characterized.", "S": ["affliction", "canker", "decay", "eyesore", "fungus", "infestation", "mildew", "pest", "scourge"], "A": ["cleanliness", "goodness", "purification"]}

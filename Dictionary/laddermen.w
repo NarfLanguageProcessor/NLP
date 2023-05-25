@@ -1,1 +1,1 @@
-{"index": 167157, "D": "a firefighter who is a member of a hook-and-ladder company.", "S": ["firefighter "], "A": []}
+{"index": 167157, "D": "a firefighter who is a member of a hook-and-ladder company.", "S": ["firefighter"], "A": []}

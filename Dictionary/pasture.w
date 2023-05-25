@@ -1,1 +1,1 @@
-{"index": 227532, "D": "an area covered with grass or other plants used or suitable for the grazing of livestock; grassland.", "S": ["grass ", "grazing ", "meadow "], "A": []}
+{"index": 227532, "D": "an area covered with grass or other plants used or suitable for the grazing of livestock; grassland.", "S": ["grass", "grazing", "meadow"], "A": []}

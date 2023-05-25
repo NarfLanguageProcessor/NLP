@@ -1,1 +1,1 @@
-{"index": 65875, "D": "a close friend or associate to whom secrets are confided  or with whom private matters and problems are discussed.", "S": ["acquaintance ", "adviser ", "companion ", "crony "], "A": ["enemy ", "foe ", "stranger "]}
+{"index": 65875, "D": "a close friend or associate to whom secrets are confided  or with whom private matters and problems are discussed.", "S": ["acquaintance", "adviser", "companion", "crony"], "A": ["enemy", "foe", "stranger"]}

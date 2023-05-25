@@ -1,1 +1,1 @@
-{"index": 362130, "D": "to rouse from sleep; wake; awake; awaken.", "S": ["alert ", "arising ", "awake ", "rising ", "stirring "], "A": ["asleep "]}
+{"index": 362130, "D": "to rouse from sleep; wake; awake; awaken.", "S": ["alert", "arising", "awake", "rising", "stirring"], "A": ["asleep"]}

@@ -1,1 +1,1 @@
-{"index": 195203, "D": "a large corporation with operations and subsidiaries in several countries.", "S": ["Continental ", "global ", "multicultural "], "A": []}
+{"index": 195203, "D": "a large corporation with operations and subsidiaries in several countries.", "S": ["Continental", "global", "multicultural"], "A": []}

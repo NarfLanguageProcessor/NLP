@@ -1,1 +1,0 @@
-{"index": 226341, "D": "the root of a South American vine, Chondodendron tomentosum, used as a source of curare, a diuretic, etc.", "S": [], "A": []}

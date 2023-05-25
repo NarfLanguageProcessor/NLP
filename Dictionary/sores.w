@@ -1,1 +1,1 @@
-{"index": 297589, "D": "physically painful or sensitive, as a wound, hurt, or diseased part", "S": ["dermatitis ", "eczema ", "eruption ", "psoriasis ", "scab ", "scabies ", "scales "], "A": []}
+{"index": 297589, "D": "physically painful or sensitive, as a wound, hurt, or diseased part", "S": ["dermatitis", "eczema", "eruption", "psoriasis", "scab", "scabies", "scales"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 264105, "D": "to change the design of (something)", "S": ["redecorate ", "remake ", "remodel ", "renovate ", "revamp ", "revise "], "A": []}
+{"index": 264105, "D": "to change the design of (something)", "S": ["redecorate", "remake", "remodel", "renovate", "revamp", "revise"], "A": []}

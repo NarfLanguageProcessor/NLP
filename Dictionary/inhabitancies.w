@@ -1,1 +1,1 @@
-{"index": 152618, "D": "place of residence; habitation.", "S": ["ownership "], "A": []}
+{"index": 152618, "D": "place of residence; habitation.", "S": ["ownership"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 3393, "D": "advertisement (defs. 1, 2). ", "S": ["announcement ", "circular ", "commercial ", "endorsement ", "flyer ", "notice ", "plug ", "promotion "], "A": []}
+{"index": 3393, "D": "advertisement (defs. 1, 2). ", "S": ["announcement", "circular", "commercial", "endorsement", "flyer", "notice", "plug", "promotion"], "A": []}

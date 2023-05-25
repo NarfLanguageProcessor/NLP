@@ -1,1 +1,1 @@
-{"index": 359052, "D": "the ancient Roman goddess of the hearth, worshiped in a temple containing an altar on which a sacred fire was kept burning by the vestal virgins", "S": ["Congreve ", "Congreve match ", "fusee ", "locofoco ", "lucifer match ", "safety match ", "vesuvian "], "A": []}
+{"index": 359052, "D": "the ancient Roman goddess of the hearth, worshiped in a temple containing an altar on which a sacred fire was kept burning by the vestal virgins", "S": ["Congreve", "Congreve match", "fusee", "locofoco", "lucifer match", "safety match", "vesuvian"], "A": []}

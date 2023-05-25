@@ -1,1 +1,1 @@
-{"index": 286436, "D": "a person who serves. ", "S": ["assistant ", "attendant ", "helper ", "slave "], "A": ["master "]}
+{"index": 286436, "D": "a person who serves. ", "S": ["assistant", "attendant", "helper", "slave"], "A": ["master"]}

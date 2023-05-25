@@ -1,1 +1,1 @@
-{"index": 8701, "D": "to unite formally, as by treaty, league, marriage, or the like (usually followed by with or to)", "S": ["associate ", "colleague ", "friend ", "partner "], "A": ["antagonist ", "detractor ", "enemy ", "foe ", "opponent "]}
+{"index": 8701, "D": "to unite formally, as by treaty, league, marriage, or the like (usually followed by with or to)", "S": ["associate", "colleague", "friend", "partner"], "A": ["antagonist", "detractor", "enemy", "foe", "opponent"]}

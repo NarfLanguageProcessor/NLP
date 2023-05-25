@@ -1,1 +1,1 @@
-{"index": 74959, "D": "the act of cumulating;  accumulation.", "S": ["assemblage ", "collection ", "congeries ", "gathering ", "heap ", "mass ", "pile ", "stack ", "stockpile "], "A": []}
+{"index": 74959, "D": "the act of cumulating;  accumulation.", "S": ["assemblage", "collection", "congeries", "gathering", "heap", "mass", "pile", "stack", "stockpile"], "A": []}

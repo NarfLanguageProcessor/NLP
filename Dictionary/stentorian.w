@@ -1,1 +1,1 @@
-{"index": 303725, "D": "very loud or powerful in sound", "S": ["blaring ", "loud ", "orotund ", "resounding ", "sonorous "], "A": []}
+{"index": 303725, "D": "very loud or powerful in sound", "S": ["blaring", "loud", "orotund", "resounding", "sonorous"], "A": []}

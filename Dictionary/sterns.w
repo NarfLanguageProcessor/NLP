@@ -1,1 +1,1 @@
-{"index": 304110, "D": "firm, strict, or uncompromising", "S": ["rear ", "tail "], "A": ["front "]}
+{"index": 304110, "D": "firm, strict, or uncompromising", "S": ["rear", "tail"], "A": ["front"]}

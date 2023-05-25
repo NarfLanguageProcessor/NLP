@@ -1,1 +1,1 @@
-{"index": 226689, "D": "having or of the nature of a parody. ", "S": ["comic ", "mock ", "mocking "], "A": []}
+{"index": 226689, "D": "having or of the nature of a parody. ", "S": ["comic", "mock", "mocking"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 305344, "D": "a brief stop in the course of a journey, as to eat, sleep, or visit friends.", "S": ["breather ", "delay ", "halt ", "pause ", "stop "], "A": ["continuation ", "go ", "start "]}

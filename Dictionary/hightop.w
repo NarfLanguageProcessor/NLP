@@ -1,1 +1,1 @@
-{"index": 139307, "D": "denoting a sneaker that covers the ankle.", "S": ["cleat ", "footwear ", "shoe ", "tennis shoe "], "A": []}
+{"index": 139307, "D": "denoting a sneaker that covers the ankle.", "S": ["cleat", "footwear", "shoe", "tennis shoe"], "A": []}

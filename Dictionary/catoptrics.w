@@ -1,1 +1,1 @@
-{"index": 49813, "D": "the branch of optics dealing with the formation of images by mirrors.", "S": ["optical fiber "], "A": []}
+{"index": 49813, "D": "the branch of optics dealing with the formation of images by mirrors.", "S": ["optical fiber"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 40272, "D": "a military movement or advance all the way through and beyond an enemy's frontline defense.", "S": ["boost ", "development ", "discovery ", "finding ", "gain ", "hike ", "improvement ", "leap ", "progress "], "A": ["decline ", "decrease ", "loss "]}
+{"index": 40272, "D": "a military movement or advance all the way through and beyond an enemy's frontline defense.", "S": ["boost", "development", "discovery", "finding", "gain", "hike", "improvement", "leap", "progress"], "A": ["decline", "decrease", "loss"]}

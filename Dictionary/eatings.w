@@ -1,1 +1,1 @@
-{"index": 94970, "D": "the act of a person or thing that eats.", "S": ["chewing ", "consumption ", "dining "], "A": []}
+{"index": 94970, "D": "the act of a person or thing that eats.", "S": ["chewing", "consumption", "dining"], "A": []}

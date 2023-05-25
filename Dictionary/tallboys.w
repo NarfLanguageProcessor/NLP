@@ -1,1 +1,1 @@
-{"index": 315672, "D": "a chest-on-chest.", "S": ["Yorkshire dresser ", "bureau ", "chest ", "chiffonier ", "chifforobe ", "dresser ", "highboy ", "lowboy "], "A": []}
+{"index": 315672, "D": "a chest-on-chest.", "S": ["Yorkshire dresser", "bureau", "chest", "chiffonier", "chifforobe", "dresser", "highboy", "lowboy"], "A": []}

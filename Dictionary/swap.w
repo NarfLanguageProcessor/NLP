@@ -1,1 +1,1 @@
-{"index": 314098, "D": "to exchange, barter, or trade, as one thing for another", "S": ["substitute ", "switch ", "trade "], "A": ["keep ", "maintain "]}
+{"index": 314098, "D": "to exchange, barter, or trade, as one thing for another", "S": ["substitute", "switch", "trade"], "A": ["keep", "maintain"]}

@@ -1,1 +1,1 @@
-{"index": 151750, "D": "not extensible;  incapable of being extended or stretched.", "S": ["inductile ", "inflexible ", "rigid ", "stable ", "stiff ", "unadaptable ", "unbending ", "unyielding "], "A": ["elastic "]}
+{"index": 151750, "D": "not extensible;  incapable of being extended or stretched.", "S": ["inductile", "inflexible", "rigid", "stable", "stiff", "unadaptable", "unbending", "unyielding"], "A": ["elastic"]}

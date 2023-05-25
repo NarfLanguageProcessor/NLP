@@ -1,1 +1,1 @@
-{"index": 328515, "D": "intoxicated; drunk.", "S": ["buzzed ", "faced ", "inebriated ", "intoxicated ", "loaded ", "pickled ", "plastered ", "polluted ", "sloshed ", "smashed ", "soused ", "tanked ", "wasted "], "A": ["sober ", "straight "]}
+{"index": 328515, "D": "intoxicated; drunk.", "S": ["buzzed", "faced", "inebriated", "intoxicated", "loaded", "pickled", "plastered", "polluted", "sloshed", "smashed", "soused", "tanked", "wasted"], "A": ["sober", "straight"]}

@@ -1,1 +1,1 @@
-{"index": 328932, "D": "a long, narrow excavation in the ground, the earth from which is thrown up in front to serve as a shelter from enemy fire or attack.", "S": ["bulldoze ", "cultivate ", "rake ", "reap ", "shove ", "smash "], "A": ["hide ", "plant "]}
+{"index": 328932, "D": "a long, narrow excavation in the ground, the earth from which is thrown up in front to serve as a shelter from enemy fire or attack.", "S": ["bulldoze", "cultivate", "rake", "reap", "shove", "smash"], "A": ["hide", "plant"]}

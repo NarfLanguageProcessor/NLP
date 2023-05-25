@@ -1,1 +1,1 @@
-{"index": 230753, "D": "an amulet.", "S": ["amulet ", "fetish ", "good-luck piece ", "juju ", "lucky piece ", "madstone ", "mascot ", "phylactery ", "rabbit's foot ", "talisman ", "trinket ", "zemi "], "A": []}
+{"index": 230753, "D": "an amulet.", "S": ["amulet", "fetish", "good-luck piece", "juju", "lucky piece", "madstone", "mascot", "phylactery", "rabbit's foot", "talisman", "trinket", "zemi"], "A": []}

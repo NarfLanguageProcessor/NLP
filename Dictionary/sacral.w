@@ -1,1 +1,0 @@
-{"index": 276327, "D": "of or relating to sacred rites or observances.", "S": [], "A": []}

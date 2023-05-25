@@ -1,1 +1,1 @@
-{"index": 127602, "D": "(used as a mild exclamation expressing surprise, wonder, puzzlement, pleasure, or the like.)", "S": ["dear me ", "gee ", "goodness gracious ", "lord "], "A": []}
+{"index": 127602, "D": "(used as a mild exclamation expressing surprise, wonder, puzzlement, pleasure, or the like.)", "S": ["dear me", "gee", "goodness gracious", "lord"], "A": []}

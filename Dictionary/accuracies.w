@@ -1,1 +1,1 @@
-{"index": 1835, "D": "the condition or quality of being true, correct, or exact; freedom from error or defect; precision or exactness; correctness.", "S": ["certainty ", "efficiency ", "skill ", "truthfulness ", "veracity "], "A": ["inability "]}
+{"index": 1835, "D": "the condition or quality of being true, correct, or exact; freedom from error or defect; precision or exactness; correctness.", "S": ["certainty", "efficiency", "skill", "truthfulness", "veracity"], "A": ["inability"]}

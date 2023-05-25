@@ -1,1 +1,1 @@
-{"index": 199716, "D": "to wink.", "S": ["bat ", "flash ", "flicker ", "flutter ", "glimmer ", "glitter ", "nictitate ", "scintillate ", "shimmer ", "sparkle ", "squint ", "twinkle ", "wink "], "A": []}
+{"index": 199716, "D": "to wink.", "S": ["bat", "flash", "flicker", "flutter", "glimmer", "glitter", "nictitate", "scintillate", "shimmer", "sparkle", "squint", "twinkle", "wink"], "A": []}

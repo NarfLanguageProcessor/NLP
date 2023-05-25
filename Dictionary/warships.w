@@ -1,1 +1,1 @@
-{"index": 362809, "D": "a ship  built or armed for combat purposes.", "S": ["armada ", "flotilla ", "navy ", "squadron "], "A": []}
+{"index": 362809, "D": "a ship  built or armed for combat purposes.", "S": ["armada", "flotilla", "navy", "squadron"], "A": []}

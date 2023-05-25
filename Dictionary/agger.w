@@ -1,0 +1,1 @@
+{"index": 6041, "D": "a low tide in which the water recedes to a certain level, rises slightly, then recedes again.", "S": [], "A": []}

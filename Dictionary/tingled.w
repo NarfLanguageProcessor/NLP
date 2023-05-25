@@ -1,1 +1,1 @@
-{"index": 323990, "D": "to have a sensation of slight prickles, stings, or tremors, as from cold, a sharp blow, excitement, etc.", "S": ["creep ", "itch ", "prickle ", "shiver ", "sting ", "thrill ", "throb ", "tickle ", "twitter "], "A": []}
+{"index": 323990, "D": "to have a sensation of slight prickles, stings, or tremors, as from cold, a sharp blow, excitement, etc.", "S": ["creep", "itch", "prickle", "shiver", "sting", "thrill", "throb", "tickle", "twitter"], "A": []}

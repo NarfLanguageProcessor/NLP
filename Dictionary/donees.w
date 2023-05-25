@@ -1,1 +1,1 @@
-{"index": 91411, "D": "a person to whom a gift is made.", "S": ["heir ", "recipient "], "A": ["giver "]}
+{"index": 91411, "D": "a person to whom a gift is made.", "S": ["heir", "recipient"], "A": ["giver"]}

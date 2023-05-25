@@ -1,1 +1,1 @@
-{"index": 71058, "D": "a revolution against a government recently established by a revolution.", "S": ["backlash "], "A": ["cause ", "question "]}
+{"index": 71058, "D": "a revolution against a government recently established by a revolution.", "S": ["backlash"], "A": ["cause", "question"]}

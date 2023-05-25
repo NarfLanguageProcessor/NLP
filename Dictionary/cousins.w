@@ -1,1 +1,1 @@
-{"index": 71393, "D": "See also second cousin, removed (def. 2). ", "S": ["relative "], "A": []}
+{"index": 71393, "D": "See also second cousin, removed (def. 2). ", "S": ["relative"], "A": []}

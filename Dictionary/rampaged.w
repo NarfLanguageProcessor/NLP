@@ -1,1 +1,1 @@
-{"index": 260375, "D": "violent or excited behavior that is reckless, uncontrolled, or destructive.", "S": ["binge ", "destruction ", "disturbance ", "frenzy ", "orgy ", "spree ", "turmoil "], "A": ["calm ", "order ", "peace ", "happiness "]}
+{"index": 260375, "D": "violent or excited behavior that is reckless, uncontrolled, or destructive.", "S": ["binge", "destruction", "disturbance", "frenzy", "orgy", "spree", "turmoil"], "A": ["calm", "order", "peace", "happiness"]}

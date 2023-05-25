@@ -1,1 +1,1 @@
-{"index": 146557, "D": "of, relating to, or characteristic of an idiot. ", "S": ["crazy ", "dumb ", "foolhardy ", "foolish ", "insane ", "silly "], "A": ["balanced ", "careful ", "cautious ", "reasonable ", "sane ", "sensible ", "serious ", "smart ", "thoughtful ", "wise "]}
+{"index": 146557, "D": "of, relating to, or characteristic of an idiot. ", "S": ["crazy", "dumb", "foolhardy", "foolish", "insane", "silly"], "A": ["balanced", "careful", "cautious", "reasonable", "sane", "sensible", "serious", "smart", "thoughtful", "wise"]}

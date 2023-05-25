@@ -1,1 +1,1 @@
-{"index": 46987, "D": "a cockerel castrated to improve the flesh for use as food.", "S": ["hen ", "poultry "], "A": []}
+{"index": 46987, "D": "a cockerel castrated to improve the flesh for use as food.", "S": ["hen", "poultry"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 87553, "D": "not content;  dissatisfied; discontented. ", "S": ["disappoint ", "perturb "], "A": ["please "]}
+{"index": 87553, "D": "not content;  dissatisfied; discontented. ", "S": ["disappoint", "perturb"], "A": ["please"]}

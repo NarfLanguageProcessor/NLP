@@ -1,1 +1,1 @@
-{"index": 153764, "D": "a person who inspects. ", "S": ["auditor ", "controller ", "detective ", "investigator ", "monitor ", "police officer "], "A": []}
+{"index": 153764, "D": "a person who inspects. ", "S": ["auditor", "controller", "detective", "investigator", "monitor", "police officer"], "A": []}

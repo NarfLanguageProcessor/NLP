@@ -1,1 +1,1 @@
-{"index": 72933, "D": "to utter inarticulate sounds, especially of lamentation, grief, or suffering, usually with tears.", "S": ["howl ", "lament ", "sob "], "A": []}
+{"index": 72933, "D": "to utter inarticulate sounds, especially of lamentation, grief, or suffering, usually with tears.", "S": ["howl", "lament", "sob"], "A": []}

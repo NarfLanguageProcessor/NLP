@@ -1,1 +1,1 @@
-{"index": 124415, "D": "a movement or position of the hand, arm, body, head, or face that is expressive of an idea, opinion, emotion, etc.", "S": ["stylistic "], "A": ["natural ", "simple "]}
+{"index": 124415, "D": "a movement or position of the hand, arm, body, head, or face that is expressive of an idea, opinion, emotion, etc.", "S": ["stylistic"], "A": ["natural", "simple"]}

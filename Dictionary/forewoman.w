@@ -1,1 +1,1 @@
-{"index": 117155, "D": "a woman  in charge of a particular department or group of workers.", "S": ["foreman ", "foreperson ", "head ", "manager ", "overseer ", "superintendent ", "supervisor ", "taskmaster ", "taskmistress "], "A": ["employee ", "worker "]}
+{"index": 117155, "D": "a woman  in charge of a particular department or group of workers.", "S": ["foreman", "foreperson", "head", "manager", "overseer", "superintendent", "supervisor", "taskmaster", "taskmistress"], "A": ["employee", "worker"]}

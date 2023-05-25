@@ -1,1 +1,1 @@
-{"index": 291136, "D": "pertaining to a symptom  or symptoms.", "S": ["emblematic ", "symbolic "], "A": []}
+{"index": 291136, "D": "pertaining to a symptom  or symptoms.", "S": ["emblematic", "symbolic"], "A": []}

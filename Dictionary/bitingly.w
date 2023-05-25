@@ -1,1 +1,1 @@
-{"index": 35202, "D": "nipping; smarting; keen", "S": ["acerbically ", "acrimoniously ", "caustically ", "maliciously ", "sneeringly "], "A": []}
+{"index": 35202, "D": "nipping; smarting; keen", "S": ["acerbically", "acrimoniously", "caustically", "maliciously", "sneeringly"], "A": []}

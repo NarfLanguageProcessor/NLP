@@ -1,1 +1,1 @@
-{"index": 299630, "D": "having spikes, as a plant.", "S": ["barbed "], "A": []}
+{"index": 299630, "D": "having spikes, as a plant.", "S": ["barbed"], "A": []}

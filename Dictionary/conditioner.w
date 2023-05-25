@@ -1,1 +1,1 @@
-{"index": 65627, "D": "a person or thing that conditions. ", "S": ["adjective ", "adverb ", "transformer "], "A": []}
+{"index": 65627, "D": "a person or thing that conditions. ", "S": ["adjective", "adverb", "transformer"], "A": []}

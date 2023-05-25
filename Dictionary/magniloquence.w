@@ -1,1 +1,1 @@
-{"index": 177611, "D": "speaking or expressed in a lofty or grandiose style; pompous; bombastic; boastful.", "S": ["bombast ", "eloquence ", "grandiloquence ", "grandiosity "], "A": []}
+{"index": 177611, "D": "speaking or expressed in a lofty or grandiose style; pompous; bombastic; boastful.", "S": ["bombast", "eloquence", "grandiloquence", "grandiosity"], "A": []}

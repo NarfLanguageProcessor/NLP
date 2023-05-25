@@ -1,1 +1,1 @@
-{"index": 151710, "D": "not to be expiated; not allowing for expiation or atonement", "S": ["unforgivable ", "unjustifiable ", "untenable "], "A": ["defensible ", "excusable ", "justifiable ", "justified "]}
+{"index": 151710, "D": "not to be expiated; not allowing for expiation or atonement", "S": ["unforgivable", "unjustifiable", "untenable"], "A": ["defensible", "excusable", "justifiable", "justified"]}

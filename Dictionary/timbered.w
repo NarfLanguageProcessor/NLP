@@ -1,1 +1,1 @@
-{"index": 323699, "D": "made of or furnished with timber. ", "S": ["constructed "], "A": []}
+{"index": 323699, "D": "made of or furnished with timber. ", "S": ["constructed"], "A": []}

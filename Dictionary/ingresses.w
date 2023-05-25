@@ -1,1 +1,1 @@
-{"index": 152575, "D": "the act of going in or entering. ", "S": ["access ", "admission ", "entrance "], "A": []}
+{"index": 152575, "D": "the act of going in or entering. ", "S": ["access", "admission", "entrance"], "A": []}

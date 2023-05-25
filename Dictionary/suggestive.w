@@ -1,1 +1,1 @@
-{"index": 310256, "D": "that suggests;  referring to other thoughts, persons, etc.", "S": ["evocative ", "expressive ", "intriguing ", "redolent ", "reminiscent ", "symbolic "], "A": ["clean ", "meaningless ", "moral ", "simple "]}
+{"index": 310256, "D": "that suggests;  referring to other thoughts, persons, etc.", "S": ["evocative", "expressive", "intriguing", "redolent", "reminiscent", "symbolic"], "A": ["clean", "meaningless", "moral", "simple"]}

@@ -1,0 +1,1 @@
+{"index": 18048, "D": "energetic motion toward a point.", "S": ["brunt", "shock"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 54289, "D": "the act of producing or bringing forth children. ", "S": ["fertile ", "fruitful ", "procreant ", "procreative "], "A": ["barren ", "infertile "]}
+{"index": 54289, "D": "the act of producing or bringing forth children. ", "S": ["fertile", "fruitful", "procreant", "procreative"], "A": ["barren", "infertile"]}

@@ -1,1 +1,1 @@
-{"index": 108944, "D": "plastic surgery on the face for elevating sagging tissues and eliminating wrinkles and other signs of age; rhytidectomy.", "S": ["repair "], "A": []}
+{"index": 108944, "D": "plastic surgery on the face for elevating sagging tissues and eliminating wrinkles and other signs of age; rhytidectomy.", "S": ["repair"], "A": []}

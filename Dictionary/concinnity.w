@@ -1,1 +1,1 @@
-{"index": 65332, "D": "an instance of this.", "S": ["arrangement ", "chord ", "composition ", "melody ", "tune ", "unity "], "A": ["disagreement ", "discord ", "disharmony "]}
+{"index": 65332, "D": "an instance of this.", "S": ["arrangement", "chord", "composition", "melody", "tune", "unity"], "A": ["disagreement", "discord", "disharmony"]}

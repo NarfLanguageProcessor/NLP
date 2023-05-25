@@ -1,1 +1,1 @@
-{"index": 123629, "D": "birth; generation.", "S": ["birth "], "A": ["capture ", "confinement ", "hold ", "imprisonment ", "keeping ", "quiet ", "restraint ", "retention ", "secrecy "]}
+{"index": 123629, "D": "birth; generation.", "S": ["birth"], "A": ["capture", "confinement", "hold", "imprisonment", "keeping", "quiet", "restraint", "retention", "secrecy"]}

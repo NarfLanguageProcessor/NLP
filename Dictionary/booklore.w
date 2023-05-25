@@ -1,0 +1,1 @@
+{"index": 38091, "D": "facts and information about books, especially about authors and circumstances of publication.", "S": [], "A": []}

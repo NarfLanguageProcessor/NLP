@@ -1,1 +1,1 @@
-{"index": 263983, "D": "to buy or pay off; clear by payment", "S": ["pay off ", "reclaim ", "recoup ", "regain ", "repay ", "restore ", "win back "], "A": ["forfeit ", "lose ", "hold ", "keep "]}
+{"index": 263983, "D": "to buy or pay off; clear by payment", "S": ["pay off", "reclaim", "recoup", "regain", "repay", "restore", "win back"], "A": ["forfeit", "lose", "hold", "keep"]}

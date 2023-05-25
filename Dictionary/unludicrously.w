@@ -1,1 +1,0 @@
-{"index": 345837, "D": "causing laughter because of absurdity; provoking or deserving derision; ridiculous; laughable", "S": [], "A": []}

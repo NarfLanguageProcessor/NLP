@@ -1,1 +1,1 @@
-{"index": 109282, "D": "lacking brightness, vividness, clearness, loudness, strength, etc.", "S": ["black out ", "keel over ", "pass out ", "succumb ", "swoon "], "A": ["ascend ", "improve ", "reach ", "rise ", "strengthen ", "win "]}
+{"index": 109282, "D": "lacking brightness, vividness, clearness, loudness, strength, etc.", "S": ["black out", "keel over", "pass out", "succumb", "swoon"], "A": ["ascend", "improve", "reach", "rise", "strengthen", "win"]}

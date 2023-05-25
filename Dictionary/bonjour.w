@@ -1,1 +1,1 @@
-{"index": 37923, "D": "good day; good morning; hello.", "S": ["buenos dias ", "good morrow ", "greetings "], "A": []}
+{"index": 37923, "D": "good day; good morning; hello.", "S": ["buenos dias", "good morrow", "greetings"], "A": []}

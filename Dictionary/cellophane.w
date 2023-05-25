@@ -1,1 +1,1 @@
-{"index": 50591, "D": "a transparent, paperlike product of viscose, impervious to moisture, germs, etc., used to wrap and package food, tobacco, etc.", "S": ["gauzy ", "sheer ", "translucent "], "A": ["cloudy ", "heavy ", "opaque ", "thick "]}
+{"index": 50591, "D": "a transparent, paperlike product of viscose, impervious to moisture, germs, etc., used to wrap and package food, tobacco, etc.", "S": ["gauzy", "sheer", "translucent"], "A": ["cloudy", "heavy", "opaque", "thick"]}

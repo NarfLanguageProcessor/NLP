@@ -1,1 +1,1 @@
-{"index": 82935, "D": [], "S": ["destine ", "foredoom ", "foreshadow ", "foretell ", "prearrange ", "predestine ", "predetermine ", "preform ", "preordain ", "reserve "], "A": []}
+{"index": 82935, "D": [], "S": ["destine", "foredoom", "foreshadow", "foretell", "prearrange", "predestine", "predetermine", "preform", "preordain", "reserve"], "A": []}

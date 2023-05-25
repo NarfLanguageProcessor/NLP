@@ -1,1 +1,1 @@
-{"index": 351181, "D": "to be in sympathy  or agreement of feeling; share in a feeling (often followed by with).", "S": ["harsh ", "merciless ", "selfish ", "uncaring ", "uncompassionate ", "unfair ", "unforgiving ", "unkind ", "unmerciful "], "A": ["charitable ", "generous "]}
+{"index": 351181, "D": "to be in sympathy  or agreement of feeling; share in a feeling (often followed by with).", "S": ["harsh", "merciless", "selfish", "uncaring", "uncompassionate", "unfair", "unforgiving", "unkind", "unmerciful"], "A": ["charitable", "generous"]}

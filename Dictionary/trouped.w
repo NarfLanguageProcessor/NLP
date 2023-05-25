@@ -1,1 +1,1 @@
-{"index": 331357, "D": "a company, band, or group of singers, actors, or other performers, especially one that travels about.", "S": ["canvass "], "A": []}
+{"index": 331357, "D": "a company, band, or group of singers, actors, or other performers, especially one that travels about.", "S": ["canvass"], "A": []}

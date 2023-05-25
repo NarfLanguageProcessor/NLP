@@ -1,1 +1,1 @@
-{"index": 262790, "D": [], "S": ["change ", "convert ", "move ", "return ", "shift ", "swing ", "switch ", "transform ", "twist "], "A": ["hold ", "keep ", "persist ", "remain ", "stagnate ", "stay ", "continue ", "develop ", "grow ", "lose ", "progress ", "straighten "]}
+{"index": 262790, "D": [], "S": ["change", "convert", "move", "return", "shift", "swing", "switch", "transform", "twist"], "A": ["hold", "keep", "persist", "remain", "stagnate", "stay", "continue", "develop", "grow", "lose", "progress", "straighten"]}

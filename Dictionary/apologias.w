@@ -1,1 +1,1 @@
-{"index": 17265, "D": "an apology, as in defense or justification of a belief, idea, etc.", "S": ["apologetics ", "apology ", "defense ", "excuse ", "explanation ", "pretext "], "A": []}
+{"index": 17265, "D": "an apology, as in defense or justification of a belief, idea, etc.", "S": ["apologetics", "apology", "defense", "excuse", "explanation", "pretext"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 302699, "D": "standpatter. ", "S": ["old-line ", "ultraconservative ", "unreconstructed "], "A": ["compromising ", "conceding ", "flexible "]}
+{"index": 302699, "D": "standpatter. ", "S": ["old-line", "ultraconservative", "unreconstructed"], "A": ["compromising", "conceding", "flexible"]}

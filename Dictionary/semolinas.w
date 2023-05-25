@@ -1,1 +1,1 @@
-{"index": 285161, "D": "a granular, milled product of durum wheat, consisting almost entirely of endosperm particles, used chiefly in the making of pasta.", "S": ["cereal ", "grass "], "A": []}
+{"index": 285161, "D": "a granular, milled product of durum wheat, consisting almost entirely of endosperm particles, used chiefly in the making of pasta.", "S": ["cereal", "grass"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 316941, "D": "having no taste  or flavor; insipid.", "S": ["boring ", "distasteful ", "dull ", "uninspired "], "A": ["exciting ", "interesting "]}
+{"index": 316941, "D": "having no taste  or flavor; insipid.", "S": ["boring", "distasteful", "dull", "uninspired"], "A": ["exciting", "interesting"]}

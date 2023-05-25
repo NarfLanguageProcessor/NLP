@@ -1,1 +1,1 @@
-{"index": 89627, "D": "the act or process of resolving or dissolving  into parts or elements.", "S": ["disintegration ", "divorce ", "partition "], "A": ["connection "]}
+{"index": 89627, "D": "the act or process of resolving or dissolving  into parts or elements.", "S": ["disintegration", "divorce", "partition"], "A": ["connection"]}

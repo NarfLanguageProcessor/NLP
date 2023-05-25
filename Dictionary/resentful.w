@@ -1,1 +1,1 @@
-{"index": 269201, "D": "full of or marked by resentment. ", "S": ["belligerent ", "bitter ", "hateful ", "spiteful ", "unsympathetic "], "A": ["helping ", "kind ", "nice ", "pleasant "]}
+{"index": 269201, "D": "full of or marked by resentment. ", "S": ["belligerent", "bitter", "hateful", "spiteful", "unsympathetic"], "A": ["helping", "kind", "nice", "pleasant"]}

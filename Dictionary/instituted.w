@@ -1,1 +1,1 @@
-{"index": 153927, "D": "to set up; establish; organize", "S": ["chartered ", "completed ", "founded ", "incorporated ", "initiated ", "organized ", "ratified ", "set up ", "settled "], "A": ["incomplete ", "unfinished "]}
+{"index": 153927, "D": "to set up; establish; organize", "S": ["chartered", "completed", "founded", "incorporated", "initiated", "organized", "ratified", "set up", "settled"], "A": ["incomplete", "unfinished"]}

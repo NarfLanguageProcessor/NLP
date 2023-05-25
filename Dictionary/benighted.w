@@ -1,1 +1,1 @@
-{"index": 31619, "D": "intellectually or morally ignorant; unenlightened", "S": ["unlearned ", "untaught "], "A": ["learned "]}
+{"index": 31619, "D": "intellectually or morally ignorant; unenlightened", "S": ["unlearned", "untaught"], "A": ["learned"]}

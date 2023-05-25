@@ -1,1 +1,1 @@
-{"index": 129450, "D": "designating a city or country and its adjacent area", "S": ["boss ", "cooler ", "higher ", "larger ", "largest ", "leading ", "most ", "outstanding ", "preeminent ", "super ", "superlative ", "terrific "], "A": []}
+{"index": 129450, "D": "designating a city or country and its adjacent area", "S": ["boss", "cooler", "higher", "larger", "largest", "leading", "most", "outstanding", "preeminent", "super", "superlative", "terrific"], "A": []}

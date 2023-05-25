@@ -1,1 +1,1 @@
-{"index": 171800, "D": "a removable or hinged cover for closing the opening, usually at the top, of a pot, jar, trunk, etc.; a movable cover.", "S": ["cap ", "roof "], "A": []}
+{"index": 171800, "D": "a removable or hinged cover for closing the opening, usually at the top, of a pot, jar, trunk, etc.; a movable cover.", "S": ["cap", "roof"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 46529, "D": "a covering, usually of fabric, supported on poles or suspended above a bed, throne, exalted personage, or sacred object.", "S": ["awning ", "baldachin ", "cover ", "marquee ", "shade ", "sunshade ", "umbrella "], "A": []}
+{"index": 46529, "D": "a covering, usually of fabric, supported on poles or suspended above a bed, throne, exalted personage, or sacred object.", "S": ["awning", "baldachin", "cover", "marquee", "shade", "sunshade", "umbrella"], "A": []}

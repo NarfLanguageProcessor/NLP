@@ -1,1 +1,1 @@
-{"index": 216548, "D": "situated on or toward the outside; external; exterior", "S": ["exterior ", "outlying "], "A": ["central ", "middle "]}
+{"index": 216548, "D": "situated on or toward the outside; external; exterior", "S": ["exterior", "outlying"], "A": ["central", "middle"]}

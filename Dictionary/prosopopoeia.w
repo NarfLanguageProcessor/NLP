@@ -1,1 +1,1 @@
-{"index": 253185, "D": "personification, as of inanimate things.", "S": ["apotheosis ", "archetype ", "avatar ", "epitome ", "exemplar ", "expression ", "personification ", "realization ", "symbol "], "A": ["disorganization "]}
+{"index": 253185, "D": "personification, as of inanimate things.", "S": ["apotheosis", "archetype", "avatar", "epitome", "exemplar", "expression", "personification", "realization", "symbol"], "A": ["disorganization"]}

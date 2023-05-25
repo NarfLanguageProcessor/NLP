@@ -1,1 +1,1 @@
-{"index": 192983, "D": "to borrow (a small item or amount) without intending to return or repay it.", "S": ["bankrupt ", "cadger ", "dependent ", "down-and-out ", "guttersnipe ", "mendicant ", "pauper ", "suppliant ", "vagrant "], "A": []}
+{"index": 192983, "D": "to borrow (a small item or amount) without intending to return or repay it.", "S": ["bankrupt", "cadger", "dependent", "down-and-out", "guttersnipe", "mendicant", "pauper", "suppliant", "vagrant"], "A": []}

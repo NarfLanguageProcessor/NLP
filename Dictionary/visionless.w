@@ -1,1 +1,1 @@
-{"index": 360414, "D": "the act or power of sensing with the eyes; sight.", "S": ["dark ", "groping ", "unsighted "], "A": ["aware ", "seeing ", "sighted "]}
+{"index": 360414, "D": "the act or power of sensing with the eyes; sight.", "S": ["dark", "groping", "unsighted"], "A": ["aware", "seeing", "sighted"]}

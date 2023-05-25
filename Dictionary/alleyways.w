@@ -1,1 +1,1 @@
-{"index": 8627, "D": "an alley  or lane.", "S": ["lane ", "passageway ", "path ", "pathway ", "walk "], "A": []}
+{"index": 8627, "D": "an alley  or lane.", "S": ["lane", "passageway", "path", "pathway", "walk"], "A": []}

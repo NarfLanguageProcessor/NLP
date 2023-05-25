@@ -1,1 +1,1 @@
-{"index": 354517, "D": "the act or words of a person who upbraids;  severe reproof or censure", "S": ["insulting ", "offensive ", "rude "], "A": ["kind ", "nice ", "respectful "]}
+{"index": 354517, "D": "the act or words of a person who upbraids;  severe reproof or censure", "S": ["insulting", "offensive", "rude"], "A": ["kind", "nice", "respectful"]}

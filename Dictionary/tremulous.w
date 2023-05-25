@@ -1,1 +1,1 @@
-{"index": 328905, "D": "(of persons, the body, etc.) characterized by trembling, as from fear, nervousness, or weakness.", "S": ["palpitating ", "quavering ", "quivering ", "shaky ", "shivering ", "shivery ", "trembling ", "wobbly "], "A": ["calm ", "stable ", "steady ", "unwavering "]}
+{"index": 328905, "D": "(of persons, the body, etc.) characterized by trembling, as from fear, nervousness, or weakness.", "S": ["palpitating", "quavering", "quivering", "shaky", "shivering", "shivery", "trembling", "wobbly"], "A": ["calm", "stable", "steady", "unwavering"]}

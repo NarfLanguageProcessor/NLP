@@ -1,1 +1,1 @@
-{"index": 294023, "D": "smooth and glossy; sleek. ", "S": ["booklet ", "brochure ", "daily ", "journal ", "manual ", "newsletter ", "newspaper ", "pamphlet ", "paper ", "periodical ", "weekly "], "A": []}
+{"index": 294023, "D": "smooth and glossy; sleek. ", "S": ["booklet", "brochure", "daily", "journal", "manual", "newsletter", "newspaper", "pamphlet", "paper", "periodical", "weekly"], "A": []}

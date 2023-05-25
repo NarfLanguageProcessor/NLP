@@ -1,1 +1,1 @@
-{"index": 79309, "D": "to state or set forth the meaning of (a word, phrase, etc.)", "S": ["apparent ", "definite ", "describable ", "obvious ", "perceptible "], "A": []}
+{"index": 79309, "D": "to state or set forth the meaning of (a word, phrase, etc.)", "S": ["apparent", "definite", "describable", "obvious", "perceptible"], "A": []}

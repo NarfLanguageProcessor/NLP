@@ -1,1 +1,1 @@
-{"index": 288860, "D": "worn  or marred, as goods exposed and handled in a store.", "S": ["frayed ", "stale ", "tarnished ", "trite "], "A": []}
+{"index": 288860, "D": "worn  or marred, as goods exposed and handled in a store.", "S": ["frayed", "stale", "tarnished", "trite"], "A": []}

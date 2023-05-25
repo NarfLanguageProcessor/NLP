@@ -1,1 +1,1 @@
-{"index": 54684, "D": "a small, slender piece, as of wood, separated by chopping, cutting, or breaking.", "S": ["slice ", "wafer "], "A": ["whole "]}
+{"index": 54684, "D": "a small, slender piece, as of wood, separated by chopping, cutting, or breaking.", "S": ["slice", "wafer"], "A": ["whole"]}

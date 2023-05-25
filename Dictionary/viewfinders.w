@@ -1,1 +1,1 @@
-{"index": 359577, "D": "finder (def. 2b). ", "S": ["bombsight ", "gunsight ", "periscope ", "radar ", "sight ", "sonar "], "A": ["loser ", "owner ", "stray "]}
+{"index": 359577, "D": "finder (def. 2b). ", "S": ["bombsight", "gunsight", "periscope", "radar", "sight", "sonar"], "A": ["loser", "owner", "stray"]}

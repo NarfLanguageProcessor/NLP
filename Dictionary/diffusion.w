@@ -1,1 +1,1 @@
-{"index": 85362, "D": "act of diffusing; state of being diffused.", "S": ["dispersal ", "dispersion ", "dissemination ", "dissipation "], "A": ["collection ", "concentration "]}
+{"index": 85362, "D": "act of diffusing; state of being diffused.", "S": ["dispersal", "dispersion", "dissemination", "dissipation"], "A": ["collection", "concentration"]}

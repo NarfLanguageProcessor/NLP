@@ -1,1 +1,1 @@
-{"index": 216897, "D": "to endure or last  longer than", "S": ["hang on ", "outlive ", "survive "], "A": ["cease "]}
+{"index": 216897, "D": "to endure or last  longer than", "S": ["hang on", "outlive", "survive"], "A": ["cease"]}

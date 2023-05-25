@@ -1,1 +1,1 @@
-{"index": 153639, "D": "an indirect or covert suggestion or hint, especially of a derogatory nature", "S": ["innuendo "], "A": []}
+{"index": 153639, "D": "an indirect or covert suggestion or hint, especially of a derogatory nature", "S": ["innuendo"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 259440, "D": "a framework of bars, wires, or pegs on which articles are arranged or deposited", "S": ["guaranteed ", "settled ", "sure "], "A": ["indefinite ", "uncertain ", "unsure ", "undecided ", "vague "]}
+{"index": 259440, "D": "a framework of bars, wires, or pegs on which articles are arranged or deposited", "S": ["guaranteed", "settled", "sure"], "A": ["indefinite", "uncertain", "unsure", "undecided", "vague"]}

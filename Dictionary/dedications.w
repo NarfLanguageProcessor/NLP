@@ -1,1 +1,1 @@
-{"index": 78892, "D": "the act of dedicating. ", "S": ["adherence ", "allegiance ", "commitment ", "devotion "], "A": ["apathy ", "disloyalty ", "unfaithfulness "]}
+{"index": 78892, "D": "the act of dedicating. ", "S": ["adherence", "allegiance", "commitment", "devotion"], "A": ["apathy", "disloyalty", "unfaithfulness"]}

@@ -1,1 +1,1 @@
-{"index": 192055, "D": "of, relating to, or resembling a monk", "S": ["ecclesiastical ", "ministerial ", "monastic ", "pastoral ", "rabbinical "], "A": []}
+{"index": 192055, "D": "of, relating to, or resembling a monk", "S": ["ecclesiastical", "ministerial", "monastic", "pastoral", "rabbinical"], "A": []}

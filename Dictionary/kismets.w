@@ -1,1 +1,1 @@
-{"index": 165130, "D": "fate; destiny", "S": ["chance ", "destination ", "destiny ", "doom ", "horoscope ", "karma ", "lot ", "luck ", "portion ", "predestination ", "providence "], "A": ["whole "]}
+{"index": 165130, "D": "fate; destiny", "S": ["chance", "destination", "destiny", "doom", "horoscope", "karma", "lot", "luck", "portion", "predestination", "providence"], "A": ["whole"]}

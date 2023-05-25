@@ -1,1 +1,1 @@
-{"index": 230417, "D": "a pole or rod, usually horizontal, serving as a roost for birds.", "S": ["branch ", "lounge ", "pole ", "post ", "roost ", "seat "], "A": []}
+{"index": 230417, "D": "a pole or rod, usually horizontal, serving as a roost for birds.", "S": ["branch", "lounge", "pole", "post", "roost", "seat"], "A": []}

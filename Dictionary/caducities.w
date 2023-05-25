@@ -1,1 +1,1 @@
-{"index": 44390, "D": "the infirmity or weakness of old age; senility. ", "S": ["age ", "lapse ", "senility "], "A": []}
+{"index": 44390, "D": "the infirmity or weakness of old age; senility. ", "S": ["age", "lapse", "senility"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 279751, "D": "tiepin. ", "S": ["tie tac ", "tie tack ", "tiepin "], "A": []}
+{"index": 279751, "D": "tiepin. ", "S": ["tie tac", "tie tack", "tiepin"], "A": []}

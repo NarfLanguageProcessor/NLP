@@ -1,1 +1,1 @@
-{"index": 259181, "D": [], "S": ["contribution ", "dividend ", "division ", "interest ", "part ", "percentage ", "proportion ", "stake "], "A": ["whole ", "entirety ", "total "]}
+{"index": 259181, "D": [], "S": ["contribution", "dividend", "division", "interest", "part", "percentage", "proportion", "stake"], "A": ["whole", "entirety", "total"]}

@@ -1,1 +1,1 @@
-{"index": 191110, "D": "to make modern;  give a new or modern character or appearance to", "S": ["improve ", "rejuvenate ", "remake ", "renovate ", "restore ", "revamp ", "revive ", "update "], "A": ["damage ", "destroy ", "hurt ", "kill ", "ruin "]}
+{"index": 191110, "D": "to make modern;  give a new or modern character or appearance to", "S": ["improve", "rejuvenate", "remake", "renovate", "restore", "revamp", "revive", "update"], "A": ["damage", "destroy", "hurt", "kill", "ruin"]}

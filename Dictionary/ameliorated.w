@@ -1,1 +1,1 @@
-{"index": 10224, "D": "made better, more bearable, or more satisfactory; improved", "S": ["enhanced ", "revised ", "upgraded "], "A": ["damaged ", "injured ", "worsened "]}
+{"index": 10224, "D": "made better, more bearable, or more satisfactory; improved", "S": ["enhanced", "revised", "upgraded"], "A": ["damaged", "injured", "worsened"]}

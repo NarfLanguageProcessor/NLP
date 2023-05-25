@@ -1,1 +1,1 @@
-{"index": 87528, "D": "disjointed; broken. ", "S": ["detachment ", "disconnection ", "disjointedness ", "disjuncture ", "disunion ", "division ", "divorce ", "parting ", "severance ", "split "], "A": ["connection ", "juncture ", "marriage "]}
+{"index": 87528, "D": "disjointed; broken. ", "S": ["detachment", "disconnection", "disjointedness", "disjuncture", "disunion", "division", "divorce", "parting", "severance", "split"], "A": ["connection", "juncture", "marriage"]}

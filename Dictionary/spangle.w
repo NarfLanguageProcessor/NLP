@@ -1,1 +1,0 @@
-{"index": 298326, "D": "a small, thin, often circular piece of glittering metal or other material, used especially for decorating garments.", "S": ["adorn ", "coruscate ", "decorate ", "flash ", "gleam ", "glimmer ", "glisten ", "glitter ", "ornament ", "sequin ", "sparkle ", "sprinkle ", "star ", "trim ", "twinkle "], "A": ["dull "]}

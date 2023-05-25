@@ -1,1 +1,1 @@
-{"index": 30990, "D": "coming or being after the customary, useful, or expected time", "S": ["delayed ", "long-delayed ", "overdue ", "tardy "], "A": ["early "]}
+{"index": 30990, "D": "coming or being after the customary, useful, or expected time", "S": ["delayed", "long-delayed", "overdue", "tardy"], "A": ["early"]}

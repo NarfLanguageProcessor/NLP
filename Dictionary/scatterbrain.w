@@ -1,1 +1,1 @@
-{"index": 279869, "D": "a person incapable of serious, connected thought.", "S": ["clodpoll "], "A": ["brain ", "genius "]}
+{"index": 279869, "D": "a person incapable of serious, connected thought.", "S": ["clodpoll"], "A": ["brain", "genius"]}

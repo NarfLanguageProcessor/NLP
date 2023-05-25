@@ -1,1 +1,1 @@
-{"index": 34180, "D": "the act of fastening, securing, uniting, or the like.", "S": ["conclusive ", "irrevocable ", "mandatory ", "required "], "A": ["optional ", "inessential ", "secondary "]}
+{"index": 34180, "D": "the act of fastening, securing, uniting, or the like.", "S": ["conclusive", "irrevocable", "mandatory", "required"], "A": ["optional", "inessential", "secondary"]}

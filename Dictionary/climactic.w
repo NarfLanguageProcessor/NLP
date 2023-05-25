@@ -1,1 +1,1 @@
-{"index": 59957, "D": "pertaining to or coming to a climax", "S": ["crowning ", "decisive "], "A": []}
+{"index": 59957, "D": "pertaining to or coming to a climax", "S": ["crowning", "decisive"], "A": []}

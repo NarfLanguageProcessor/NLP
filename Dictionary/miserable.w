@@ -1,1 +1,1 @@
-{"index": 189232, "D": "wretchedly unhappy, uneasy, or uncomfortable", "S": ["gloomy ", "pathetic ", "sad ", "tragic ", "unhappy ", "wretched "], "A": ["cheerful ", "happy ", "joyful "]}
+{"index": 189232, "D": "wretchedly unhappy, uneasy, or uncomfortable", "S": ["gloomy", "pathetic", "sad", "tragic", "unhappy", "wretched"], "A": ["cheerful", "happy", "joyful"]}

@@ -1,1 +1,1 @@
-{"index": 255991, "D": "mischievous; impish.", "S": ["devilish ", "mischievous ", "naughty ", "pixyish ", "playful ", "prankish ", "whimsical "], "A": []}
+{"index": 255991, "D": "mischievous; impish.", "S": ["devilish", "mischievous", "naughty", "pixyish", "playful", "prankish", "whimsical"], "A": []}

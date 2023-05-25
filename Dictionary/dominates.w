@@ -1,1 +1,1 @@
-{"index": 91310, "D": "to rule over; govern; control. ", "S": ["command ", "control ", "dictate ", "influence ", "lead ", "manage ", "monopolize ", "overshadow ", "prevail ", "run "], "A": ["follow ", "lose ", "obey ", "mismanage ", "neglect ", "submit "]}
+{"index": 91310, "D": "to rule over; govern; control. ", "S": ["command", "control", "dictate", "influence", "lead", "manage", "monopolize", "overshadow", "prevail", "run"], "A": ["follow", "lose", "obey", "mismanage", "neglect", "submit"]}

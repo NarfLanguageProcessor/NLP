@@ -1,1 +1,0 @@
-{"index": 191346, "D": "moderately or slightly wet; damp. ", "S": [], "A": []}

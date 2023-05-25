@@ -1,1 +1,0 @@
-{"index": 168837, "D": "to increase the developability of (the latent image on a film or plate) after exposure.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 302963, "D": "being a price, amount, player lineup, etc., fixed at the beginning", "S": ["opening ", "origin ", "outset "], "A": ["conclusion ", "end "]}
+{"index": 302963, "D": "being a price, amount, player lineup, etc., fixed at the beginning", "S": ["opening", "origin", "outset"], "A": ["conclusion", "end"]}

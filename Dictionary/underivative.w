@@ -1,1 +1,1 @@
-{"index": 339356, "D": "derived. ", "S": ["authentic ", "initial "], "A": ["last "]}
+{"index": 339356, "D": "derived. ", "S": ["authentic", "initial"], "A": ["last"]}

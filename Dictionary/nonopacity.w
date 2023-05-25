@@ -1,1 +1,1 @@
-{"index": 205615, "D": [], "S": [], "A": []}
+{"index": 205615, "D": "the state or quality of being opaque. ", "S": [], "A": []}

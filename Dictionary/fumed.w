@@ -1,1 +1,1 @@
-{"index": 120054, "D": "darkened or colored by exposure to ammonia fumes,  as oak and other wood.", "S": ["bristle ", "chafe ", "rave ", "seethe "], "A": ["be happy "]}
+{"index": 120054, "D": "darkened or colored by exposure to ammonia fumes,  as oak and other wood.", "S": ["bristle", "chafe", "rave", "seethe"], "A": ["be happy"]}

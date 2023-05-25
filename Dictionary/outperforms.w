@@ -1,1 +1,1 @@
-{"index": 217068, "D": "to surpass in excellence of performance; do better than", "S": ["exceed ", "outrun ", "surpass "], "A": ["fail ", "fall behind ", "lose "]}
+{"index": 217068, "D": "to surpass in excellence of performance; do better than", "S": ["exceed", "outrun", "surpass"], "A": ["fail", "fall behind", "lose"]}

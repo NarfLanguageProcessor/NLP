@@ -1,1 +1,1 @@
-{"index": 270185, "D": "rising or tending to rise again; reviving; renascent. ", "S": ["revived "], "A": ["dormant ", "latent "]}
+{"index": 270185, "D": "rising or tending to rise again; reviving; renascent. ", "S": ["revived"], "A": ["dormant", "latent"]}

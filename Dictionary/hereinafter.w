@@ -1,1 +1,1 @@
-{"index": 137047, "D": "afterward in this document, statement, etc.", "S": ["so ", "thence ", "thus "], "A": []}
+{"index": 137047, "D": "afterward in this document, statement, etc.", "S": ["so", "thence", "thus"], "A": []}

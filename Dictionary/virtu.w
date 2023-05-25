@@ -1,1 +1,1 @@
-{"index": 360237, "D": "excellence or merit in objects of art, curios, and the like.", "S": ["knickknacks "], "A": []}
+{"index": 360237, "D": "excellence or merit in objects of art, curios, and the like.", "S": ["knickknacks"], "A": []}

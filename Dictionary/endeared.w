@@ -1,1 +1,1 @@
-{"index": 99616, "D": "to make dear,  esteemed, or beloved", "S": ["admired ", "cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "revered ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}
+{"index": 99616, "D": "to make dear,  esteemed, or beloved", "S": ["admired", "cherished", "dear", "esteemed", "favorite", "hallowed", "loved", "popular", "prized", "respected", "revered", "treasured", "venerated", "well-liked"], "A": ["disliked"]}

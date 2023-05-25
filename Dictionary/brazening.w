@@ -1,1 +1,1 @@
-{"index": 40156, "D": "shameless or impudent", "S": ["bulldoze ", "gloat ", "hector ", "swagger ", "yap "], "A": ["be quiet ", "deprecate "]}
+{"index": 40156, "D": "shameless or impudent", "S": ["bulldoze", "gloat", "hector", "swagger", "yap"], "A": ["be quiet", "deprecate"]}

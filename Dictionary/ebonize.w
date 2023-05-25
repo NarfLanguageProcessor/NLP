@@ -1,1 +1,1 @@
-{"index": 95027, "D": "to stain or finish black in imitation of ebony. ", "S": ["blot ", "smudge "], "A": ["bleach ", "compliment ", "enhance ", "lighten ", "praise ", "whiten "]}
+{"index": 95027, "D": "to stain or finish black in imitation of ebony. ", "S": ["blot", "smudge"], "A": ["bleach", "compliment", "enhance", "lighten", "praise", "whiten"]}

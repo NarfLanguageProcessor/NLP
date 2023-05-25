@@ -1,1 +1,1 @@
-{"index": 135281, "D": "the back part of the human foot, below and behind the ankle.", "S": ["attend ", "obey "], "A": []}
+{"index": 135281, "D": "the back part of the human foot, below and behind the ankle.", "S": ["attend", "obey"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 27235, "D": "Compare banana family. ", "S": ["actor ", "clown ", "comic ", "entertainer ", "humorist "], "A": []}
+{"index": 27235, "D": "Compare banana family. ", "S": ["actor", "clown", "comic", "entertainer", "humorist"], "A": []}

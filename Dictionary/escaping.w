@@ -1,1 +1,1 @@
-{"index": 104141, "D": "to slip or get away, as from confinement or restraint; gain or regain liberty", "S": ["elusive ", "wanted "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "permanent "]}
+{"index": 104141, "D": "to slip or get away, as from confinement or restraint; gain or regain liberty", "S": ["elusive", "wanted"], "A": ["enduring", "lasting", "lengthy", "long", "permanent"]}

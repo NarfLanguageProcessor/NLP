@@ -1,1 +1,1 @@
-{"index": 316971, "D": "a dialectal variant of potato. ", "S": ["single "], "A": []}
+{"index": 316971, "D": "a dialectal variant of potato. ", "S": ["single"], "A": []}

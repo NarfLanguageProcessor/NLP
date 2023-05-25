@@ -1,1 +1,1 @@
-{"index": 80115, "D": "to fix or mark the limits or boundaries of; demarcate", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}
+{"index": 80115, "D": "to fix or mark the limits or boundaries of; demarcate", "S": ["belted", "bordered", "surrounded"], "A": ["free", "loose", "unbounded", "unconfined", "unlimited"]}

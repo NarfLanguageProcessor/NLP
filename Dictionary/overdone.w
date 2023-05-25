@@ -1,1 +1,1 @@
-{"index": 219050, "D": "past participle of overdo. ", "S": ["burned ", "charred ", "scorched "], "A": []}
+{"index": 219050, "D": "past participle of overdo. ", "S": ["burned", "charred", "scorched"], "A": []}

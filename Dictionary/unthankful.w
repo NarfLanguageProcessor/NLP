@@ -1,1 +1,1 @@
-{"index": 352872, "D": "not thankful;  ungrateful.", "S": ["ungrateful "], "A": []}
+{"index": 352872, "D": "not thankful;  ungrateful.", "S": ["ungrateful"], "A": []}

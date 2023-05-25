@@ -1,1 +1,1 @@
-{"index": 272024, "D": "an artificial gem of paste, often cut to resemble a diamond.", "S": ["gem ", "jewel "], "A": []}
+{"index": 272024, "D": "an artificial gem of paste, often cut to resemble a diamond.", "S": ["gem", "jewel"], "A": []}

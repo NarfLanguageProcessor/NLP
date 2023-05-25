@@ -1,1 +1,1 @@
-{"index": 263732, "D": "a member of the clergy in charge of a parish in the Protestant Episcopal Church.", "S": ["clergyman ", "cleric ", "headmaster ", "pastor ", "priest "], "A": []}
+{"index": 263732, "D": "a member of the clergy in charge of a parish in the Protestant Episcopal Church.", "S": ["clergyman", "cleric", "headmaster", "pastor", "priest"], "A": []}

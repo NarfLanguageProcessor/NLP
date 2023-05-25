@@ -1,1 +1,1 @@
-{"index": 95275, "D": "resembling an echo.", "S": ["imitative ", "onomatopoeic ", "onomatopoeical ", "onomatopoetic "], "A": []}
+{"index": 95275, "D": "resembling an echo.", "S": ["imitative", "onomatopoeic", "onomatopoeical", "onomatopoetic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 21833, "D": "to give support or aid to; help", "S": ["approved ", "endorsed ", "favored "], "A": ["disapproved "]}
+{"index": 21833, "D": "to give support or aid to; help", "S": ["approved", "endorsed", "favored"], "A": ["disapproved"]}

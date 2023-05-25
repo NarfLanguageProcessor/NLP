@@ -1,1 +1,1 @@
-{"index": 161005, "D": "a person who is given to witticisms, jokes, and pranks.", "S": ["clown ", "jokester "], "A": []}
+{"index": 161005, "D": "a person who is given to witticisms, jokes, and pranks.", "S": ["clown", "jokester"], "A": []}

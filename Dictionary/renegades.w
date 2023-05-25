@@ -1,1 +1,1 @@
-{"index": 267599, "D": "a person who deserts a party or cause for another.", "S": ["defector ", "deserter ", "dissident ", "heretic ", "insurgent ", "mutineer ", "traitor "], "A": ["adherent ", "follower "]}
+{"index": 267599, "D": "a person who deserts a party or cause for another.", "S": ["defector", "deserter", "dissident", "heretic", "insurgent", "mutineer", "traitor"], "A": ["adherent", "follower"]}

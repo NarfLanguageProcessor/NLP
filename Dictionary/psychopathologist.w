@@ -1,1 +1,1 @@
-{"index": 255441, "D": "the science or study of mental disorders.", "S": ["psychotherapist ", "therapist "], "A": []}
+{"index": 255441, "D": "the science or study of mental disorders.", "S": ["psychotherapist", "therapist"], "A": []}

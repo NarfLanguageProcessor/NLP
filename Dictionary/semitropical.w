@@ -1,1 +1,1 @@
-{"index": 285101, "D": "subtropical. ", "S": ["extreme ", "flourishing ", "grown ", "lavish ", "lush ", "overgrown ", "rich ", "wild "], "A": ["mild ", "moderate "]}
+{"index": 285101, "D": "subtropical. ", "S": ["extreme", "flourishing", "grown", "lavish", "lush", "overgrown", "rich", "wild"], "A": ["mild", "moderate"]}

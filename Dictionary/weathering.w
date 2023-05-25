@@ -1,1 +1,1 @@
-{"index": 363610, "D": "wash (def. 44). ", "S": ["depletion ", "depreciation ", "erosion "], "A": []}
+{"index": 363610, "D": "wash (def. 44). ", "S": ["depletion", "depreciation", "erosion"], "A": []}

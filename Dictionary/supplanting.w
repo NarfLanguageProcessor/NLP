@@ -1,1 +1,1 @@
-{"index": 312954, "D": "to take the place of (another), as through force, scheming, strategy, or the like.", "S": ["deracination ", "move ", "movement ", "rearrangement ", "shift "], "A": ["inaction ", "inactivity ", "stagnation "]}
+{"index": 312954, "D": "to take the place of (another), as through force, scheming, strategy, or the like.", "S": ["deracination", "move", "movement", "rearrangement", "shift"], "A": ["inaction", "inactivity", "stagnation"]}

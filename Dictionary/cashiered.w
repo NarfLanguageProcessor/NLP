@@ -1,1 +1,1 @@
-{"index": 48878, "D": "an employee, as in a market or department store, who collects payments for customer purchases.", "S": ["accountant ", "clerk ", "teller "], "A": []}
+{"index": 48878, "D": "an employee, as in a market or department store, who collects payments for customer purchases.", "S": ["accountant", "clerk", "teller"], "A": []}

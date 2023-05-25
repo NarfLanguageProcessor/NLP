@@ -1,1 +1,1 @@
-{"index": 36215, "D": "a person or thing that blinds. ", "S": ["blindfold ", "bluff ", "flab ", "hood ", "shade "], "A": []}
+{"index": 36215, "D": "a person or thing that blinds. ", "S": ["blindfold", "bluff", "flab", "hood", "shade"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 179505, "D": "a male servant,  especially a valet.", "S": ["man ", "steward ", "valet "], "A": ["boss ", "master "]}
+{"index": 179505, "D": "a male servant,  especially a valet.", "S": ["man", "steward", "valet"], "A": ["boss", "master"]}

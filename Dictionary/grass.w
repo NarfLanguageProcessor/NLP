@@ -1,1 +1,1 @@
-{"index": 129170, "D": "Compare grass family. ", "S": ["barley ", "hay ", "meadow ", "pasture ", "sod ", "turf "], "A": []}
+{"index": 129170, "D": "Compare grass family. ", "S": ["barley", "hay", "meadow", "pasture", "sod", "turf"], "A": []}

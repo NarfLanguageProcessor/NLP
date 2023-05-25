@@ -1,1 +1,1 @@
-{"index": 107723, "D": "pertaining to, derived from, or founded on experiment", "S": ["empirical ", "preliminary ", "unproved "], "A": ["proven ", "tested ", "tried "]}
+{"index": 107723, "D": "pertaining to, derived from, or founded on experiment", "S": ["empirical", "preliminary", "unproved"], "A": ["proven", "tested", "tried"]}

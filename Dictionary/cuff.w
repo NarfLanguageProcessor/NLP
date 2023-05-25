@@ -1,1 +1,1 @@
-{"index": 74633, "D": "a fold or band serving as a trimming or finish for the bottom of a sleeve.", "S": ["belt ", "sock "], "A": ["praise "]}
+{"index": 74633, "D": "a fold or band serving as a trimming or finish for the bottom of a sleeve.", "S": ["belt", "sock"], "A": ["praise"]}

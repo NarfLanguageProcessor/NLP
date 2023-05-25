@@ -1,1 +1,1 @@
-{"index": 168897, "D": "most recent; current", "S": ["enthusiasm ", "furor ", "mania ", "passion "], "A": []}
+{"index": 168897, "D": "most recent; current", "S": ["enthusiasm", "furor", "mania", "passion"], "A": []}

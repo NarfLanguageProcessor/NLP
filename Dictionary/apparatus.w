@@ -1,1 +1,1 @@
-{"index": 17565, "D": "a group or combination of instruments, machinery, tools, materials, etc., having a particular function or intended for a specific use", "S": ["appliance ", "device ", "gear ", "gizmo ", "machine ", "machinery ", "means ", "mechanism "], "A": []}
+{"index": 17565, "D": "a group or combination of instruments, machinery, tools, materials, etc., having a particular function or intended for a specific use", "S": ["appliance", "device", "gear", "gizmo", "machine", "machinery", "means", "mechanism"], "A": []}

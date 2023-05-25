@@ -1,1 +1,1 @@
-{"index": 176197, "D": "a period set aside for eating lunch  or the period of an hour or so, beginning roughly at noon, during which lunch  is commonly eaten.", "S": ["noon ", "noontide "], "A": ["midnight "]}
+{"index": 176197, "D": "a period set aside for eating lunch  or the period of an hour or so, beginning roughly at noon, during which lunch  is commonly eaten.", "S": ["noon", "noontide"], "A": ["midnight"]}

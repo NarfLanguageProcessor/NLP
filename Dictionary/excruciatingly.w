@@ -1,1 +1,1 @@
-{"index": 106857, "D": "extremely painful; causing intense suffering; unbearably distressing; torturing", "S": ["agonizingly ", "awkwardly ", "disturbingly ", "restlessly ", "uneasily "], "A": []}
+{"index": 106857, "D": "extremely painful; causing intense suffering; unbearably distressing; torturing", "S": ["agonizingly", "awkwardly", "disturbingly", "restlessly", "uneasily"], "A": []}

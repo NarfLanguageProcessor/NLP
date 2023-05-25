@@ -1,1 +1,1 @@
-{"index": 50208, "D": "any of several short-tailed or tailless South American rodents of the family Caviidae, as the guinea pig, capybara, or agouti.", "S": ["rodent "], "A": []}
+{"index": 50208, "D": "any of several short-tailed or tailless South American rodents of the family Caviidae, as the guinea pig, capybara, or agouti.", "S": ["rodent"], "A": []}

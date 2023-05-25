@@ -1,1 +1,1 @@
-{"index": 40413, "D": "abounding in breezes;  windy.", "S": ["airy ", "blustery ", "gusty ", "stormy "], "A": ["calm "]}
+{"index": 40413, "D": "abounding in breezes;  windy.", "S": ["airy", "blustery", "gusty", "stormy"], "A": ["calm"]}

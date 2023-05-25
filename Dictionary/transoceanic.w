@@ -1,1 +1,1 @@
-{"index": 328171, "D": "extending across or traversing the ocean", "S": ["alien ", "different ", "external ", "offshore ", "overseas ", "unfamiliar "], "A": ["characteristic ", "familiar ", "known ", "local ", "national ", "native ", "regular ", "relevant "]}
+{"index": 328171, "D": "extending across or traversing the ocean", "S": ["alien", "different", "external", "offshore", "overseas", "unfamiliar"], "A": ["characteristic", "familiar", "known", "local", "national", "native", "regular", "relevant"]}

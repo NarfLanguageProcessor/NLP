@@ -1,1 +1,1 @@
-{"index": 306879, "D": "a person or thing that stumps. ", "S": ["applicant ", "aspirant ", "bidder ", "competitor ", "contender ", "contestant ", "nominee ", "successor "], "A": []}
+{"index": 306879, "D": "a person or thing that stumps. ", "S": ["applicant", "aspirant", "bidder", "competitor", "contender", "contestant", "nominee", "successor"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 12976, "D": "excruciating or acute distress, suffering, or pain", "S": ["agonizing ", "excruciating ", "harrowing ", "suffering ", "torturing "], "A": ["pleasant ", "pleasing "]}
+{"index": 12976, "D": "excruciating or acute distress, suffering, or pain", "S": ["agonizing", "excruciating", "harrowing", "suffering", "torturing"], "A": ["pleasant", "pleasing"]}

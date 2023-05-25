@@ -1,1 +1,1 @@
-{"index": 109927, "D": "goodbye;  may you fare well", "S": ["adieu ", "bon voyage ", "goodbye "], "A": ["hello "]}
+{"index": 109927, "D": "goodbye;  may you fare well", "S": ["adieu", "bon voyage", "goodbye"], "A": ["hello"]}

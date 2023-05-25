@@ -1,1 +1,0 @@
-{"index": 192837, "D": "a nonhuman creature so ugly or monstrous as to frighten people.", "S": [], "A": []}

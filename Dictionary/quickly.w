@@ -1,1 +1,1 @@
-{"index": 258506, "D": "with speed; rapidly;  very soon.", "S": ["expeditiously ", "hastily ", "hurriedly ", "immediately ", "instantaneously ", "instantly ", "promptly ", "rapidly ", "speedily ", "swiftly "], "A": ["eventually ", "later ", "slowly "]}
+{"index": 258506, "D": "with speed; rapidly;  very soon.", "S": ["expeditiously", "hastily", "hurriedly", "immediately", "instantaneously", "instantly", "promptly", "rapidly", "speedily", "swiftly"], "A": ["eventually", "later", "slowly"]}

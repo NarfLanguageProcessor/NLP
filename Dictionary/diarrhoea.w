@@ -1,1 +1,1 @@
-{"index": 84503, "D": "frequent and copious discharge of abnormally liquid faeces", "S": ["Montezuma's revenge ", "backdoor trots ", "diarrhea ", "dysentery ", "flux ", "loose stool ", "runs ", "summer complaint ", "tourista ", "trots ", "turistas "], "A": []}
+{"index": 84503, "D": "frequent and copious discharge of abnormally liquid faeces", "S": ["Montezuma's revenge", "backdoor trots", "diarrhea", "dysentery", "flux", "loose stool", "runs", "summer complaint", "tourista", "trots", "turistas"], "A": []}

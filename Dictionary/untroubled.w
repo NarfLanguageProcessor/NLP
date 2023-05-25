@@ -1,1 +1,1 @@
-{"index": 353390, "D": "without trouble, discomfort, or disturbance", "S": ["placid ", "unconcerned ", "unperturbed ", "unruffled "], "A": ["anxious ", "disturbed ", "troubled ", "unnerved "]}
+{"index": 353390, "D": "without trouble, discomfort, or disturbance", "S": ["placid", "unconcerned", "unperturbed", "unruffled"], "A": ["anxious", "disturbed", "troubled", "unnerved"]}

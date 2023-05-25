@@ -1,1 +1,1 @@
-{"index": 273178, "D": "a quick, sharp return in speech or action; counterstroke", "S": ["acknowledge ", "answer ", "come back ", "counter ", "react ", "respond ", "retort "], "A": ["question ", "request "]}
+{"index": 273178, "D": "a quick, sharp return in speech or action; counterstroke", "S": ["acknowledge", "answer", "come back", "counter", "react", "respond", "retort"], "A": ["question", "request"]}

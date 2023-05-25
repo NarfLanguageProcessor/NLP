@@ -1,1 +1,1 @@
-{"index": 40262, "D": "reckless or dangerous, especially because of excessive speed; hazardous", "S": ["headlong ", "rapid "], "A": []}
+{"index": 40262, "D": "reckless or dangerous, especially because of excessive speed; hazardous", "S": ["headlong", "rapid"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4900, "D": "the past tense and past participle of  aerate", "S": ["stirred", "whipped"], "A": []}

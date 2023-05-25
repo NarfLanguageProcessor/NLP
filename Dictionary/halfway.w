@@ -1,1 +1,1 @@
-{"index": 132626, "D": "to half the distance; to midpoint", "S": ["incomplete ", "partially "], "A": ["completely ", "totally ", "wholly "]}
+{"index": 132626, "D": "to half the distance; to midpoint", "S": ["incomplete", "partially"], "A": ["completely", "totally", "wholly"]}

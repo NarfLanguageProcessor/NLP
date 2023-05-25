@@ -1,1 +1,1 @@
-{"index": 70140, "D": "to treat as a pet; pamper; coddle. ", "S": ["caress ", "cuddle ", "fondle ", "lamb ", "love ", "pamper ", "pet ", "spoil "], "A": ["ignore ", "neglect "]}
+{"index": 70140, "D": "to treat as a pet; pamper; coddle. ", "S": ["caress", "cuddle", "fondle", "lamb", "love", "pamper", "pet", "spoil"], "A": ["ignore", "neglect"]}

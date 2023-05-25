@@ -1,1 +1,1 @@
-{"index": 300059, "D": "a tall, acutely pointed pyramidal roof or rooflike construction upon a tower, roof, etc.", "S": ["steeple "], "A": ["base ", "bottom ", "nadir "]}
+{"index": 300059, "D": "a tall, acutely pointed pyramidal roof or rooflike construction upon a tower, roof, etc.", "S": ["steeple"], "A": ["base", "bottom", "nadir"]}

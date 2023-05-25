@@ -1,1 +1,1 @@
-{"index": 127356, "D": "like or befitting God  or a god; divine.", "S": ["celestial ", "holy ", "supernatural "], "A": []}
+{"index": 127356, "D": "like or befitting God  or a god; divine.", "S": ["celestial", "holy", "supernatural"], "A": []}

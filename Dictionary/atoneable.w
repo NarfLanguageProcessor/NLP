@@ -1,1 +1,1 @@
-{"index": 22779, "D": "to make amends or reparation, as for an offense or a crime, or for an offender (usually followed by for)", "S": ["expiative ", "propitiatory "], "A": []}
+{"index": 22779, "D": "to make amends or reparation, as for an offense or a crime, or for an offender (usually followed by for)", "S": ["expiative", "propitiatory"], "A": []}

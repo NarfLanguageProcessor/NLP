@@ -1,1 +1,1 @@
-{"index": 9341, "D": "the letters of a language in their customary order.", "S": ["ABCs ", "characters ", "elements ", "fundamentals ", "hieroglyphs ", "ideograph ", "morphemes ", "phonemes ", "pictograph ", "rune ", "signs ", "syllabary ", "symbols "], "A": []}
+{"index": 9341, "D": "the letters of a language in their customary order.", "S": ["ABCs", "characters", "elements", "fundamentals", "hieroglyphs", "ideograph", "morphemes", "phonemes", "pictograph", "rune", "signs", "syllabary", "symbols"], "A": []}

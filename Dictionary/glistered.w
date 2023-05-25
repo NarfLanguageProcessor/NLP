@@ -1,1 +1,1 @@
-{"index": 126427, "D": "to glisten; glitter.", "S": ["glimmer ", "glint ", "glisten ", "glitter ", "glow ", "radiate ", "shimmer ", "shine ", "twinkle "], "A": ["dull "]}
+{"index": 126427, "D": "to glisten; glitter.", "S": ["glimmer", "glint", "glisten", "glitter", "glow", "radiate", "shimmer", "shine", "twinkle"], "A": ["dull"]}

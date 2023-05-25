@@ -1,1 +1,1 @@
-{"index": 58000, "D": "roundabout; not direct", "S": ["devious ", "labyrinthine ", "meandering ", "rambling ", "tortuous "], "A": ["direct ", "straight ", "straightforward "]}
+{"index": 58000, "D": "roundabout; not direct", "S": ["devious", "labyrinthine", "meandering", "rambling", "tortuous"], "A": ["direct", "straight", "straightforward"]}

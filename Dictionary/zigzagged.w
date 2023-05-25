@@ -1,1 +1,1 @@
-{"index": 369305, "D": "a line, course, or progression characterized by sharp turns first to one side and then to the other.", "S": ["asymmetrical ", "craggy ", "elliptical ", "jagged ", "lumpy ", "unbalanced "], "A": ["even ", "smooth ", "normal ", "regular "]}
+{"index": 369305, "D": "a line, course, or progression characterized by sharp turns first to one side and then to the other.", "S": ["asymmetrical", "craggy", "elliptical", "jagged", "lumpy", "unbalanced"], "A": ["even", "smooth", "normal", "regular"]}

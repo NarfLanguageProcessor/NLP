@@ -1,1 +1,1 @@
-{"index": 178429, "D": "faultily or anomalously formed.", "S": ["abnormal ", "contorted ", "crooked ", "deformed ", "grotesque ", "irregular ", "misshapen ", "twisted ", "warped "], "A": ["perfect ", "regular ", "shapely ", "undistorted "]}
+{"index": 178429, "D": "faultily or anomalously formed.", "S": ["abnormal", "contorted", "crooked", "deformed", "grotesque", "irregular", "misshapen", "twisted", "warped"], "A": ["perfect", "regular", "shapely", "undistorted"]}

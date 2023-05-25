@@ -1,1 +1,1 @@
-{"index": 18333, "D": "capable of producing crops; suitable for farming; suited to the plow and for tillage", "S": ["cultivable ", "plowable ", "tillable "], "A": ["infertile "]}
+{"index": 18333, "D": "capable of producing crops; suitable for farming; suited to the plow and for tillage", "S": ["cultivable", "plowable", "tillable"], "A": ["infertile"]}

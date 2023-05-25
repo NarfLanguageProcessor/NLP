@@ -1,1 +1,1 @@
-{"index": 304382, "D": "suffocating; oppressively close", "S": ["fetid ", "humid ", "muggy ", "stuffy ", "suffocating ", "sultry "], "A": ["dry ", "loose ", "slight ", "unfriendly "]}
+{"index": 304382, "D": "suffocating; oppressively close", "S": ["fetid", "humid", "muggy", "stuffy", "suffocating", "sultry"], "A": ["dry", "loose", "slight", "unfriendly"]}

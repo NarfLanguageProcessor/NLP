@@ -1,1 +1,1 @@
-{"index": 351237, "D": "not capable of sinking or being sunk", "S": ["bouncy ", "resilient "], "A": ["depressed ", "down ", "heavy ", "heavy-hearted ", "weighted "]}
+{"index": 351237, "D": "not capable of sinking or being sunk", "S": ["bouncy", "resilient"], "A": ["depressed", "down", "heavy", "heavy-hearted", "weighted"]}

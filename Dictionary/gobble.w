@@ -1,1 +1,1 @@
-{"index": 127246, "D": "to swallow or eat hastily or hungrily in large pieces; gulp.", "S": ["devour ", "gulp ", "guzzle ", "swallow "], "A": ["nibble "]}
+{"index": 127246, "D": "to swallow or eat hastily or hungrily in large pieces; gulp.", "S": ["devour", "gulp", "guzzle", "swallow"], "A": ["nibble"]}

@@ -1,1 +1,0 @@
-{"index": 367826, "D": "to enclose in something wound or folded about (often followed by up)", "S": ["blanket ", "cloak ", "coat ", "fur ", "jacket ", "shawl ", "stole "], "A": []}

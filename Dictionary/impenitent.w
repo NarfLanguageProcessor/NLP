@@ -1,1 +1,1 @@
-{"index": 148455, "D": "not feeling regret about one's sin or sins; obdurate.", "S": ["hardened ", "obdurate ", "remorseless ", "uncontrite "], "A": []}
+{"index": 148455, "D": "not feeling regret about one's sin or sins; obdurate.", "S": ["hardened", "obdurate", "remorseless", "uncontrite"], "A": []}

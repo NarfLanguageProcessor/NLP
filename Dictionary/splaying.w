@@ -1,1 +1,1 @@
-{"index": 300310, "D": "to spread out, expand, or extend.", "S": ["skew ", "tilt "], "A": ["rise ", "straighten "]}
+{"index": 300310, "D": "to spread out, expand, or extend.", "S": ["skew", "tilt"], "A": ["rise", "straighten"]}

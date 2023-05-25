@@ -1,1 +1,1 @@
-{"index": 211160, "D": "an eye.", "S": ["blinder ", "eyeball ", "headlight ", "lamp ", "ocular ", "optic ", "peeper ", "pie "], "A": []}
+{"index": 211160, "D": "an eye.", "S": ["blinder", "eyeball", "headlight", "lamp", "ocular", "optic", "peeper", "pie"], "A": []}

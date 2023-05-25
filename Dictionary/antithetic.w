@@ -1,1 +1,1 @@
-{"index": 16326, "D": "of the nature of or involving antithesis. ", "S": ["antithetical ", "conflicting ", "contrary ", "incompatible ", "inconsistent ", "paradoxical "], "A": ["consonant ", "harmonious ", "equal ", "same ", "similar "]}
+{"index": 16326, "D": "of the nature of or involving antithesis. ", "S": ["antithetical", "conflicting", "contrary", "incompatible", "inconsistent", "paradoxical"], "A": ["consonant", "harmonious", "equal", "same", "similar"]}

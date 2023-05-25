@@ -1,1 +1,1 @@
-{"index": 155662, "D": "the act or process of interpolating or the state of being interpolated.", "S": ["departure ", "digression ", "interposition ", "parenthesis ", "tangent ", "throwaway "], "A": []}
+{"index": 155662, "D": "the act or process of interpolating or the state of being interpolated.", "S": ["departure", "digression", "interposition", "parenthesis", "tangent", "throwaway"], "A": []}

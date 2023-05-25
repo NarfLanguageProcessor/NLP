@@ -1,1 +1,1 @@
-{"index": 350678, "D": "to perceive with the eyes; look at.", "S": ["imperceptible ", "microscopic ", "unseen "], "A": ["detectable ", "obvious ", "seen ", "visible "]}
+{"index": 350678, "D": "to perceive with the eyes; look at.", "S": ["imperceptible", "microscopic", "unseen"], "A": ["detectable", "obvious", "seen", "visible"]}

@@ -1,1 +1,1 @@
-{"index": 31602, "D": "desire to do good to others; goodwill; charitableness", "S": ["civil service "], "A": []}
+{"index": 31602, "D": "desire to do good to others; goodwill; charitableness", "S": ["civil service"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 354395, "D": "to remove or open the wrapping of.", "S": ["uncrated ", "unpacked "], "A": ["loaded "]}
+{"index": 354395, "D": "to remove or open the wrapping of.", "S": ["uncrated", "unpacked"], "A": ["loaded"]}

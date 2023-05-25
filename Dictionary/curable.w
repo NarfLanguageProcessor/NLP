@@ -1,1 +1,1 @@
-{"index": 75161, "D": "capable of being cured. ", "S": ["correctable "], "A": ["incurable "]}
+{"index": 75161, "D": "capable of being cured. ", "S": ["correctable"], "A": ["incurable"]}

@@ -1,1 +1,1 @@
-{"index": 144064, "D": "a foot-pound-second unit of power,  equivalent to 550 foot-pounds per second, or 745.7 watts.", "S": ["dynamism ", "electricity ", "heat ", "potential ", "service ", "strength "], "A": ["lack ", "peace ", "question "]}
+{"index": 144064, "D": "a foot-pound-second unit of power,  equivalent to 550 foot-pounds per second, or 745.7 watts.", "S": ["dynamism", "electricity", "heat", "potential", "service", "strength"], "A": ["lack", "peace", "question"]}

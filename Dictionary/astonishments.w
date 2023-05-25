@@ -1,1 +1,1 @@
-{"index": 22150, "D": "overpowering wonder or surprise; amazement", "S": ["amazement ", "awe ", "bewilderment ", "confusion ", "consternation ", "wonderment "], "A": ["calm ", "calmness ", "composure ", "coolness ", "expectation "]}
+{"index": 22150, "D": "overpowering wonder or surprise; amazement", "S": ["amazement", "awe", "bewilderment", "confusion", "consternation", "wonderment"], "A": ["calm", "calmness", "composure", "coolness", "expectation"]}

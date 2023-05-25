@@ -1,1 +1,1 @@
-{"index": 267388, "D": "to model  again.", "S": ["fix up ", "modernize ", "overhaul ", "rebuild ", "recondition ", "redesign ", "refurbish ", "rehabilitate ", "remake ", "renovate ", "restore ", "revamp ", "upgrade "], "A": ["destroy ", "hurt ", "ruin ", "break "]}
+{"index": 267388, "D": "to model  again.", "S": ["fix up", "modernize", "overhaul", "rebuild", "recondition", "redesign", "refurbish", "rehabilitate", "remake", "renovate", "restore", "revamp", "upgrade"], "A": ["destroy", "hurt", "ruin", "break"]}

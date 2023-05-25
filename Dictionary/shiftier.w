@@ -1,1 +1,1 @@
-{"index": 288221, "D": "resourceful; fertile in expedients.", "S": ["cagey ", "crafty ", "shrewd ", "slippery ", "sneaky ", "tricky ", "wily "], "A": ["aboveboard ", "frank ", "honest ", "naive "]}
+{"index": 288221, "D": "resourceful; fertile in expedients.", "S": ["cagey", "crafty", "shrewd", "slippery", "sneaky", "tricky", "wily"], "A": ["aboveboard", "frank", "honest", "naive"]}

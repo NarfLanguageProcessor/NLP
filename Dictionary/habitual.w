@@ -1,1 +1,1 @@
-{"index": 131799, "D": "of the nature of a habit;  fixed by or resulting from habit", "S": ["addicted ", "chronic ", "hardened ", "inveterate ", "perpetual ", "repeated "], "A": ["temporary "]}
+{"index": 131799, "D": "of the nature of a habit;  fixed by or resulting from habit", "S": ["addicted", "chronic", "hardened", "inveterate", "perpetual", "repeated"], "A": ["temporary"]}

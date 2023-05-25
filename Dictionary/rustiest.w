@@ -1,1 +1,1 @@
-{"index": 275885, "D": "covered with or affected by rust. ", "S": ["decayed ", "oxidized ", "rust-covered ", "rusted "], "A": ["experienced ", "practiced ", "talented "]}
+{"index": 275885, "D": "covered with or affected by rust. ", "S": ["decayed", "oxidized", "rust-covered", "rusted"], "A": ["experienced", "practiced", "talented"]}

@@ -1,1 +1,1 @@
-{"index": 17461, "D": "the sign ('), as used", "S": ["detour ", "footnote "], "A": ["accord ", "agreement ", "sameness ", "similarity "]}
+{"index": 17461, "D": "the sign ('), as used", "S": ["detour", "footnote"], "A": ["accord", "agreement", "sameness", "similarity"]}

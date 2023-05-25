@@ -1,1 +1,1 @@
-{"index": 140023, "D": [], "S": ["grumble ", "quibble "], "A": ["approve ", "compliment ", "laud ", "praise ", "sanction "]}
+{"index": 140023, "D": [], "S": ["grumble", "quibble"], "A": ["approve", "compliment", "laud", "praise", "sanction"]}

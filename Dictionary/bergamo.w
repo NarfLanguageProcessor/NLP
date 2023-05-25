@@ -1,0 +1,1 @@
+{"index": 32043, "D": "a Turkish rug characterized by a long pile, floral or geometric patterns, and red-orange hues.", "S": [], "A": []}

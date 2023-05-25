@@ -1,0 +1,1 @@
+{"index": 14064, "D": "Compare giant anteater, silky anteater, tamandua. ", "S": ["edentate", "farrow"], "A": []}

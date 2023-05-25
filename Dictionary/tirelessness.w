@@ -1,1 +1,1 @@
-{"index": 324491, "D": "never seeming to tire; not slackening", "S": ["activity ", "energy ", "enterprise ", "labor "], "A": ["idleness ", "inactivity ", "indolence ", "laziness ", "apathy ", "disregard ", "hesitation ", "ignorance ", "indifference ", "lethargy ", "neglect ", "negligence "]}
+{"index": 324491, "D": "never seeming to tire; not slackening", "S": ["activity", "energy", "enterprise", "labor"], "A": ["idleness", "inactivity", "indolence", "laziness", "apathy", "disregard", "hesitation", "ignorance", "indifference", "lethargy", "neglect", "negligence"]}

@@ -1,1 +1,1 @@
-{"index": 89681, "D": "a staff with a cleft end for holding wool, flax, etc., from which the thread is drawn in spinning by hand.", "S": ["female "], "A": []}
+{"index": 89681, "D": "a staff with a cleft end for holding wool, flax, etc., from which the thread is drawn in spinning by hand.", "S": ["female"], "A": []}

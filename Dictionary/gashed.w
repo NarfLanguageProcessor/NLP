@@ -1,1 +1,1 @@
-{"index": 122356, "D": "a long, deep wound or cut; slash. ", "S": ["broken ", "cracked ", "damaged ", "divided ", "mangled ", "ripped ", "ruptured ", "severed "], "A": ["OK ", "fixed ", "unbroken ", "working "]}
+{"index": 122356, "D": "a long, deep wound or cut; slash. ", "S": ["broken", "cracked", "damaged", "divided", "mangled", "ripped", "ruptured", "severed"], "A": ["OK", "fixed", "unbroken", "working"]}

@@ -1,1 +1,0 @@
-{"index": 346327, "D": "Compare macroscopic. ", "S": [], "A": []}

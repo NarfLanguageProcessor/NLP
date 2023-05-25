@@ -1,1 +1,1 @@
-{"index": 89124, "D": "to divert or amuse (oneself).", "S": ["brandish ", "demonstrate ", "flash ", "prance ", "strut ", "swagger ", "trot out "], "A": ["conceal ", "hide ", "be quiet ", "cover ", "deprecate ", "secrete ", "suppress ", "withhold "]}
+{"index": 89124, "D": "to divert or amuse (oneself).", "S": ["brandish", "demonstrate", "flash", "prance", "strut", "swagger", "trot out"], "A": ["conceal", "hide", "be quiet", "cover", "deprecate", "secrete", "suppress", "withhold"]}

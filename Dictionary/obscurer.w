@@ -1,1 +1,0 @@
-{"index": 210346, "D": "(of meaning) not clear or plain; ambiguous, vague, or uncertain", "S": ["thought police "], "A": []}

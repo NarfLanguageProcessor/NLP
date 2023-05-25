@@ -1,1 +1,1 @@
-{"index": 271654, "D": "to put into other words", "S": ["paraphrase "], "A": []}
+{"index": 271654, "D": "to put into other words", "S": ["paraphrase"], "A": []}

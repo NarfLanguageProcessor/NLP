@@ -1,1 +1,1 @@
-{"index": 267210, "D": "affording remedy;  tending to remedy  something.", "S": ["corrective ", "therapeutic "], "A": ["harmful ", "hurtful ", "injurious "]}
+{"index": 267210, "D": "affording remedy;  tending to remedy  something.", "S": ["corrective", "therapeutic"], "A": ["harmful", "hurtful", "injurious"]}

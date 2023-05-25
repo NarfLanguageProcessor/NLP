@@ -1,1 +1,1 @@
-{"index": 119882, "D": "the act or state of fulfilling", "S": ["achievement ", "attainment ", "contentment ", "gratification ", "perfection ", "realization "], "A": ["dissatisfaction ", "failure ", "forfeit "]}
+{"index": 119882, "D": "the act or state of fulfilling", "S": ["achievement", "attainment", "contentment", "gratification", "perfection", "realization"], "A": ["dissatisfaction", "failure", "forfeit"]}

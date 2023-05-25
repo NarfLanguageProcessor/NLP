@@ -1,1 +1,1 @@
-{"index": 43136, "D": "to put in the ground and cover with earth", "S": ["deposit ", "entomb ", "plant "], "A": ["dig out ", "disinter ", "exhume ", "resurrect "]}
+{"index": 43136, "D": "to put in the ground and cover with earth", "S": ["deposit", "entomb", "plant"], "A": ["dig out", "disinter", "exhume", "resurrect"]}

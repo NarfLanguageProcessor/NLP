@@ -1,1 +1,1 @@
-{"index": 52424, "D": [], "S": ["difficultly ", "hazardously ", "riskily ", "unsafely "], "A": ["faithfully ", "harmlessly ", "honestly ", "loyally ", "safely "]}
+{"index": 52424, "D": [], "S": ["difficultly", "hazardously", "riskily", "unsafely"], "A": ["faithfully", "harmlessly", "honestly", "loyally", "safely"]}

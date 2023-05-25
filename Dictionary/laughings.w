@@ -1,1 +1,1 @@
-{"index": 169132, "D": "that laughs  or is given to laughter", "S": ["humorous "], "A": ["boring ", "tiring "]}
+{"index": 169132, "D": "that laughs  or is given to laughter", "S": ["humorous"], "A": ["boring", "tiring"]}

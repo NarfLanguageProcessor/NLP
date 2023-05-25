@@ -1,1 +1,1 @@
-{"index": 149291, "D": "the act of imputing. ", "S": ["accusation ", "allegation ", "attribution ", "incrimination ", "insinuation "], "A": []}
+{"index": 149291, "D": "the act of imputing. ", "S": ["accusation", "allegation", "attribution", "incrimination", "insinuation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 181512, "D": "a jaw or jawbone, especially the upper.", "S": ["bone ", "mouth "], "A": []}
+{"index": 181512, "D": "a jaw or jawbone, especially the upper.", "S": ["bone", "mouth"], "A": []}

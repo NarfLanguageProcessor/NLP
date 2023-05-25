@@ -1,1 +1,1 @@
-{"index": 17962, "D": "appraise. ", "S": ["advise ", "brief ", "inform ", "notify "], "A": ["conceal ", "hide ", "secret "]}
+{"index": 17962, "D": "appraise. ", "S": ["advise", "brief", "inform", "notify"], "A": ["conceal", "hide", "secret"]}

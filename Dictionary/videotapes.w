@@ -1,1 +1,1 @@
-{"index": 359523, "D": "magnetic tape  on which the electronic impulses produced by the video  and audio portions of a television program, motion picture, etc., are recorded (distinguished from audiotape).", "S": ["cinema ", "feature film ", "flick ", "talkie "], "A": []}
+{"index": 359523, "D": "magnetic tape  on which the electronic impulses produced by the video  and audio portions of a television program, motion picture, etc., are recorded (distinguished from audiotape).", "S": ["cinema", "feature film", "flick", "talkie"], "A": []}

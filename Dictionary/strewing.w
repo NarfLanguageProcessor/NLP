@@ -1,1 +1,1 @@
-{"index": 306168, "D": "to let fall in separate pieces or particles over a surface; scatter or sprinkle", "S": ["scatter ", "sprinkle "], "A": ["collect ", "gather "]}
+{"index": 306168, "D": "to let fall in separate pieces or particles over a surface; scatter or sprinkle", "S": ["scatter", "sprinkle"], "A": ["collect", "gather"]}

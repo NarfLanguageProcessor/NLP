@@ -1,1 +1,1 @@
-{"index": 338490, "D": "to make out the meaning of (poor or partially obliterated writing, etc.)", "S": ["cryptic ", "incomprehensible ", "indecipherable ", "unclear ", "unintelligible ", "unreadable "], "A": ["clear ", "legible ", "readable "]}
+{"index": 338490, "D": "to make out the meaning of (poor or partially obliterated writing, etc.)", "S": ["cryptic", "incomprehensible", "indecipherable", "unclear", "unintelligible", "unreadable"], "A": ["clear", "legible", "readable"]}

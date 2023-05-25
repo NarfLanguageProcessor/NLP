@@ -1,1 +1,1 @@
-{"index": 272771, "D": "an opening made by splitting, cleaving, etc.; fissure; cleft; chink.", "S": ["breach ", "fissure ", "flaw ", "gap ", "split "], "A": ["closure ", "closing ", "continuation ", "solid "]}
+{"index": 272771, "D": "an opening made by splitting, cleaving, etc.; fissure; cleft; chink.", "S": ["breach", "fissure", "flaw", "gap", "split"], "A": ["closure", "closing", "continuation", "solid"]}

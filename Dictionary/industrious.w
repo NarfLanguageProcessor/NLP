@@ -1,1 +1,1 @@
-{"index": 151429, "D": "working energetically and devotedly; hardworking; diligent", "S": ["conscientious ", "diligent ", "energetic ", "productive "], "A": ["inactive ", "lazy ", "lethargic "]}
+{"index": 151429, "D": "working energetically and devotedly; hardworking; diligent", "S": ["conscientious", "diligent", "energetic", "productive"], "A": ["inactive", "lazy", "lethargic"]}

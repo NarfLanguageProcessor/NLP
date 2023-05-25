@@ -1,1 +1,1 @@
-{"index": 306291, "D": "set with stiff bristles of hairs; hispid.", "S": ["striate "], "A": []}
+{"index": 306291, "D": "set with stiff bristles of hairs; hispid.", "S": ["striate"], "A": []}

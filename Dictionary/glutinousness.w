@@ -1,1 +1,1 @@
-{"index": 126976, "D": "of the nature of glue; gluey; viscid; sticky.", "S": ["adhesiveness ", "thickness ", "viscidity "], "A": []}
+{"index": 126976, "D": "of the nature of glue; gluey; viscid; sticky.", "S": ["adhesiveness", "thickness", "viscidity"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 108197, "D": "on the spur of the moment; without premeditation or preparation; offhand", "S": ["extemporaneous ", "impromptu "], "A": []}
+{"index": 108197, "D": "on the spur of the moment; without premeditation or preparation; offhand", "S": ["extemporaneous", "impromptu"], "A": []}

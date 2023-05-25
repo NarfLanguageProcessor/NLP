@@ -1,1 +1,1 @@
-{"index": 0, "D": "the annual rate of interest that a bank or other creditor charges for lending money to a borrower, or the annual rate of return on an investment, such as a bank CD (certificate of deposit).", "S": [], "A": []}
+{"index": 18056, "D": "the annual rate of interest that a bank or other creditor charges for lending money to a borrower, or the annual rate of return on an investment, such as a bank CD (certificate of deposit).", "S": [], "A": []}

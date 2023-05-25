@@ -1,1 +1,1 @@
-{"index": 189308, "D": "to fit  badly.", "S": ["bohemian ", "dissenter ", "dropout ", "eccentric ", "freak ", "oddball ", "outsider ", "weirdo "], "A": []}
+{"index": 189308, "D": "to fit  badly.", "S": ["bohemian", "dissenter", "dropout", "eccentric", "freak", "oddball", "outsider", "weirdo"], "A": []}

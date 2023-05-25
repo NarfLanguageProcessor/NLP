@@ -1,1 +1,1 @@
-{"index": 155682, "D": "to place between; cause to intervene", "S": ["transitional "], "A": ["abnormal ", "biased ", "exceptional ", "exterior ", "extraordinary ", "extreme ", "noble ", "outside ", "partial ", "peripheral ", "prejudiced ", "unreasonable ", "unusual "]}
+{"index": 155682, "D": "to place between; cause to intervene", "S": ["transitional"], "A": ["abnormal", "biased", "exceptional", "exterior", "extraordinary", "extreme", "noble", "outside", "partial", "peripheral", "prejudiced", "unreasonable", "unusual"]}

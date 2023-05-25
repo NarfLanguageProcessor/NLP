@@ -1,1 +1,1 @@
-{"index": 161051, "D": "goods cast overboard deliberately, as to lighten a vessel or improve its stability in an emergency, which sink where jettisoned or are washed ashore.", "S": ["cargo ", "junk ", "wreckage "], "A": []}
+{"index": 161051, "D": "goods cast overboard deliberately, as to lighten a vessel or improve its stability in an emergency, which sink where jettisoned or are washed ashore.", "S": ["cargo", "junk", "wreckage"], "A": []}

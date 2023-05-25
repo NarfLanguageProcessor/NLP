@@ -1,1 +1,1 @@
-{"index": 20278, "D": "to come to a certain point in the course of travel; reach one's destination", "S": ["booming ", "burgeoning ", "developing ", "flourishing ", "growing ", "healthy ", "prosperous ", "robust ", "wealthy "], "A": ["failing ", "infirm ", "poor ", "unhealthy "]}
+{"index": 20278, "D": "to come to a certain point in the course of travel; reach one's destination", "S": ["booming", "burgeoning", "developing", "flourishing", "growing", "healthy", "prosperous", "robust", "wealthy"], "A": ["failing", "infirm", "poor", "unhealthy"]}

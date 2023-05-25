@@ -1,1 +1,1 @@
-{"index": 72330, "D": [], "S": ["channel ", "hole ", "mine ", "pit ", "shaft ", "subway ", "underpass "], "A": []}
+{"index": 72330, "D": [], "S": ["channel", "hole", "mine", "pit", "shaft", "subway", "underpass"], "A": []}

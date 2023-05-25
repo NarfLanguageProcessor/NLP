@@ -1,1 +1,1 @@
-{"index": 74763, "D": "to reach the highest point, summit, or highest development (usually followed by in).", "S": ["cap ", "climax ", "conclude ", "end up ", "round off ", "terminate ", "wind up "], "A": ["begin ", "commence ", "open ", "start ", "bear ", "create "]}
+{"index": 74763, "D": "to reach the highest point, summit, or highest development (usually followed by in).", "S": ["cap", "climax", "conclude", "end up", "round off", "terminate", "wind up"], "A": ["begin", "commence", "open", "start", "bear", "create"]}

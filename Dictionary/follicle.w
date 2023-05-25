@@ -1,1 +1,1 @@
-{"index": 115969, "D": "one of the small ovarian sacs containing an immature ovum; Graafian follicle. ", "S": ["bacterium ", "egg ", "germ ", "unit "], "A": []}
+{"index": 115969, "D": "one of the small ovarian sacs containing an immature ovum; Graafian follicle. ", "S": ["bacterium", "egg", "germ", "unit"], "A": []}

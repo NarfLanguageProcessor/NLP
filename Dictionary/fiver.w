@@ -1,1 +1,1 @@
-{"index": 113583, "D": "a five-dollar bill.", "S": ["quintuple "], "A": []}
+{"index": 113583, "D": "a five-dollar bill.", "S": ["quintuple"], "A": []}

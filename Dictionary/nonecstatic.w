@@ -1,1 +1,0 @@
-{"index": 203348, "D": "of, relating to, or characterized by ecstasy  or a state of sudden, intense, overpowering emotion", "S": [], "A": []}

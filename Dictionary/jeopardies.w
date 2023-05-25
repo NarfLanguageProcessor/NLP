@@ -1,1 +1,1 @@
-{"index": 160879, "D": "hazard or risk of or exposure to loss, harm, death, or injury", "S": ["compromise ", "defy ", "endanger ", "imperil ", "jeopardize "], "A": ["guard ", "protect ", "save ", "avoid ", "be careful ", "design ", "dodge ", "hide ", "neglect ", "plan ", "retreat ", "run away "]}
+{"index": 160879, "D": "hazard or risk of or exposure to loss, harm, death, or injury", "S": ["compromise", "defy", "endanger", "imperil", "jeopardize"], "A": ["guard", "protect", "save", "avoid", "be careful", "design", "dodge", "hide", "neglect", "plan", "retreat", "run away"]}

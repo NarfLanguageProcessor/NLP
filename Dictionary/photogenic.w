@@ -1,1 +1,1 @@
-{"index": 235139, "D": "forming an attractive subject for photography or having features that look well in a photograph", "S": ["attractive "], "A": ["unattractive ", "ugly ", "unsightly "]}
+{"index": 235139, "D": "forming an attractive subject for photography or having features that look well in a photograph", "S": ["attractive"], "A": ["unattractive", "ugly", "unsightly"]}

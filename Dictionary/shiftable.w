@@ -1,1 +1,1 @@
-{"index": 288213, "D": "able or designed to be shifted,  changed, or removed", "S": ["ambulatory ", "mobile ", "motile ", "portable "], "A": ["fixed ", "immovable ", "permanent ", "unmovable "]}
+{"index": 288213, "D": "able or designed to be shifted,  changed, or removed", "S": ["ambulatory", "mobile", "motile", "portable"], "A": ["fixed", "immovable", "permanent", "unmovable"]}

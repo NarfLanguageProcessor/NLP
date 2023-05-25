@@ -1,1 +1,1 @@
-{"index": 250071, "D": "a crisp, dry biscuit, usually in the form of a knot or stick, salted on the outside.", "S": ["biscuit ", "cookie ", "pretzel "], "A": []}
+{"index": 250071, "D": "a crisp, dry biscuit, usually in the form of a knot or stick, salted on the outside.", "S": ["biscuit", "cookie", "pretzel"], "A": []}

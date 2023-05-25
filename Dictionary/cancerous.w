@@ -1,1 +1,1 @@
-{"index": 46111, "D": "any disease characterized by such growths.", "S": ["carcinogenic "], "A": []}
+{"index": 46111, "D": "any disease characterized by such growths.", "S": ["carcinogenic"], "A": []}

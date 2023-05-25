@@ -1,1 +1,1 @@
-{"index": 251948, "D": "favoring or advocating progress,  change, improvement, or reform, as opposed to wishing to maintain things as they are, especially in political matters", "S": ["left-winger ", "leftist ", "liberal ", "progressive ", "radical "], "A": ["conservative ", "right wing "]}
+{"index": 251948, "D": "favoring or advocating progress,  change, improvement, or reform, as opposed to wishing to maintain things as they are, especially in political matters", "S": ["left-winger", "leftist", "liberal", "progressive", "radical"], "A": ["conservative", "right wing"]}

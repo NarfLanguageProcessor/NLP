@@ -1,1 +1,1 @@
-{"index": 260038, "D": "good-humored ridicule; banter.", "S": ["badinage ", "fun ", "ribbing ", "ridicule ", "teasing "], "A": []}
+{"index": 260038, "D": "good-humored ridicule; banter.", "S": ["badinage", "fun", "ribbing", "ridicule", "teasing"], "A": []}

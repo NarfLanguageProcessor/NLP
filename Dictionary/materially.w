@@ -1,1 +1,1 @@
-{"index": 181117, "D": "to an important degree; considerably", "S": ["palpably ", "physically ", "substantially "], "A": ["slightly ", "unsubstantially "]}
+{"index": 181117, "D": "to an important degree; considerably", "S": ["palpably", "physically", "substantially"], "A": ["slightly", "unsubstantially"]}

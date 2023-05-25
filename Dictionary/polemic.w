@@ -1,1 +1,1 @@
-{"index": 241543, "D": "a controversial argument, as one against some opinion, doctrine, etc.", "S": ["belligerent ", "contrary ", "eristic "], "A": []}
+{"index": 241543, "D": "a controversial argument, as one against some opinion, doctrine, etc.", "S": ["belligerent", "contrary", "eristic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 53276, "D": "cheapie. ", "S": ["competitive ", "economical ", "low-cost ", "low-priced ", "reasonable "], "A": ["expensive ", "unreasonable "]}
+{"index": 53276, "D": "cheapie. ", "S": ["competitive", "economical", "low-cost", "low-priced", "reasonable"], "A": ["expensive", "unreasonable"]}

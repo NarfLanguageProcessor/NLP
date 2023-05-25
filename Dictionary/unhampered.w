@@ -1,1 +1,1 @@
-{"index": 343465, "D": "allowed to move or progress freely", "S": ["free ", "stark "], "A": ["filled ", "full "]}
+{"index": 343465, "D": "allowed to move or progress freely", "S": ["free", "stark"], "A": ["filled", "full"]}

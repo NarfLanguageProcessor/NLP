@@ -1,1 +1,1 @@
-{"index": 47700, "D": "a thin, stiff pasteboard, used for signs, boxes, etc.", "S": ["disposable "], "A": ["thick "]}
+{"index": 47700, "D": "a thin, stiff pasteboard, used for signs, boxes, etc.", "S": ["disposable"], "A": ["thick"]}

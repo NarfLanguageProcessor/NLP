@@ -1,1 +1,0 @@
-{"index": 199833, "D": "the earth's core, thought to be composed of nickel and iron", "S": [], "A": []}

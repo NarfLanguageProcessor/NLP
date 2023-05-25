@@ -1,1 +1,1 @@
-{"index": 106056, "D": "an act or instance of escaping, avoiding, or shirking something", "S": ["dodging "], "A": ["directness ", "frankness ", "honesty ", "openness ", "reality ", "truth "]}
+{"index": 106056, "D": "an act or instance of escaping, avoiding, or shirking something", "S": ["dodging"], "A": ["directness", "frankness", "honesty", "openness", "reality", "truth"]}

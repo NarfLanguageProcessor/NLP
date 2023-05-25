@@ -1,1 +1,1 @@
-{"index": 345985, "D": [], "S": ["unmanful "], "A": ["manlike ", "manly ", "strong "]}
+{"index": 345985, "D": [], "S": ["unmanful"], "A": ["manlike", "manly", "strong"]}

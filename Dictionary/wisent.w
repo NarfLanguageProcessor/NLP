@@ -1,1 +1,1 @@
-{"index": 366445, "D": "bison (def. 2). ", "S": ["American bison ", "American buffalo "], "A": []}
+{"index": 366445, "D": "bison (def. 2). ", "S": ["American bison", "American buffalo"], "A": []}

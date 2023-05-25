@@ -1,1 +1,1 @@
-{"index": 221604, "D": "working time  before or after one's regularly scheduled working hours; extra working time.", "S": ["extra "], "A": []}
+{"index": 221604, "D": "working time  before or after one's regularly scheduled working hours; extra working time.", "S": ["extra"], "A": []}

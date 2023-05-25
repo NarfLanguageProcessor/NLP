@@ -1,1 +1,1 @@
-{"index": 110556, "D": "facsimile (def. 2). ", "S": ["copy ", "transmission "], "A": ["original "]}
+{"index": 110556, "D": "facsimile (def. 2). ", "S": ["copy", "transmission"], "A": ["original"]}

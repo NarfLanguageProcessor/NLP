@@ -1,1 +1,1 @@
-{"index": 9491, "D": "the act or process of alternating  or the state of being alternated. ", "S": ["interchange ", "rotation ", "shift ", "transposition ", "variation "], "A": []}
+{"index": 9491, "D": "the act or process of alternating  or the state of being alternated. ", "S": ["interchange", "rotation", "shift", "transposition", "variation"], "A": []}

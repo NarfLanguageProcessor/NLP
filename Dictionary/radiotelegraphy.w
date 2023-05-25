@@ -1,1 +1,1 @@
-{"index": 259788, "D": "the constructing or operating of radiotelegraphs. Abbreviation", "S": ["transmission ", "wireless "], "A": []}
+{"index": 259788, "D": "the constructing or operating of radiotelegraphs. Abbreviation", "S": ["transmission", "wireless"], "A": []}

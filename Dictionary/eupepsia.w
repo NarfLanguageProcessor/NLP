@@ -1,1 +1,1 @@
-{"index": 105591, "D": "good digestion (opposed to dyspepsia).", "S": ["absorption ", "metabolism "], "A": []}
+{"index": 105591, "D": "good digestion (opposed to dyspepsia).", "S": ["absorption", "metabolism"], "A": []}

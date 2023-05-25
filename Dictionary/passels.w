@@ -1,1 +1,1 @@
-{"index": 227294, "D": "a group or lot of indeterminate number", "S": ["ream ", "scad "], "A": ["debt ", "ditch ", "individual ", "lack ", "little ", "need ", "one ", "part ", "valley ", "want "]}
+{"index": 227294, "D": "a group or lot of indeterminate number", "S": ["ream", "scad"], "A": ["debt", "ditch", "individual", "lack", "little", "need", "one", "part", "valley", "want"]}

@@ -1,1 +1,1 @@
-{"index": 17623, "D": "to bring to a state of peace, quiet, ease, calm, or contentment; pacify; soothe", "S": ["comfortable ", "contented ", "fulfilled ", "gratified ", "happy ", "pleased ", "satisfied ", "willing "], "A": ["discontented ", "unhappy ", "unsatisfied ", "upset ", "not happy "]}
+{"index": 17623, "D": "to bring to a state of peace, quiet, ease, calm, or contentment; pacify; soothe", "S": ["comfortable", "contented", "fulfilled", "gratified", "happy", "pleased", "satisfied", "willing"], "A": ["discontented", "unhappy", "unsatisfied", "upset", "not happy"]}

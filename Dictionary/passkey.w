@@ -1,1 +1,1 @@
-{"index": 227369, "D": "master key. ", "S": ["latchkey ", "opener ", "screw ", "skeleton "], "A": ["lock ", "question "]}
+{"index": 227369, "D": "master key. ", "S": ["latchkey", "opener", "screw", "skeleton"], "A": ["lock", "question"]}

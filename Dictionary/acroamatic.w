@@ -1,1 +1,1 @@
-{"index": 2864, "D": [], "S": ["abstruse ", "arcane ", "mystical "], "A": ["common ", "familiar ", "known ", "obvious ", "public "]}
+{"index": 2864, "D": [], "S": ["abstruse", "arcane", "mystical"], "A": ["common", "familiar", "known", "obvious", "public"]}

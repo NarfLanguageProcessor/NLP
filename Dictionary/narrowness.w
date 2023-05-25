@@ -1,1 +1,1 @@
-{"index": 197067, "D": "of little breadth or width; not broad or wide; not as wide as usual or expected", "S": ["barrier ", "confinement ", "impediment ", "restriction ", "slimness ", "thinness "], "A": ["freedom "]}
+{"index": 197067, "D": "of little breadth or width; not broad or wide; not as wide as usual or expected", "S": ["barrier", "confinement", "impediment", "restriction", "slimness", "thinness"], "A": ["freedom"]}

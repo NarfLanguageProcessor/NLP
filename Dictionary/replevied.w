@@ -1,1 +1,1 @@
-{"index": 268292, "D": "to recover possession of by replevin.", "S": ["get back ", "reclaim ", "recoup ", "regain ", "repair ", "rescue ", "restore ", "resume ", "retrieve ", "salvage "], "A": ["break ", "damage ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "lose "]}
+{"index": 268292, "D": "to recover possession of by replevin.", "S": ["get back", "reclaim", "recoup", "regain", "repair", "rescue", "restore", "resume", "retrieve", "salvage"], "A": ["break", "damage", "destroy", "forfeit", "harm", "hurt", "injure", "lose"]}

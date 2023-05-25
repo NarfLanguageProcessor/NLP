@@ -1,1 +1,1 @@
-{"index": 28335, "D": "not producing or incapable of producing offspring; sterile", "S": ["arid ", "desolate ", "empty ", "impoverished ", "infertile ", "parched ", "sterile "], "A": ["damp ", "fruitful ", "full ", "moist ", "productive ", "wet ", "cultivated "]}
+{"index": 28335, "D": "not producing or incapable of producing offspring; sterile", "S": ["arid", "desolate", "empty", "impoverished", "infertile", "parched", "sterile"], "A": ["damp", "fruitful", "full", "moist", "productive", "wet", "cultivated"]}

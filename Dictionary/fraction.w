@@ -1,1 +1,1 @@
-{"index": 118145, "D": "a ratio of algebraic quantities similarly expressed.", "S": ["chunk ", "half ", "portion "], "A": ["whole "]}
+{"index": 118145, "D": "a ratio of algebraic quantities similarly expressed.", "S": ["chunk", "half", "portion"], "A": ["whole"]}

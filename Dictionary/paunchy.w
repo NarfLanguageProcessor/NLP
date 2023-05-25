@@ -1,1 +1,1 @@
-{"index": 228122, "D": "having a large and protruding belly; potbellied", "S": ["big ", "bulging ", "bulky ", "chunky ", "heavy ", "hefty ", "inflated ", "large ", "meaty ", "obese ", "plump ", "well-fed "], "A": ["skinny ", "slight ", "thin "]}
+{"index": 228122, "D": "having a large and protruding belly; potbellied", "S": ["big", "bulging", "bulky", "chunky", "heavy", "hefty", "inflated", "large", "meaty", "obese", "plump", "well-fed"], "A": ["skinny", "slight", "thin"]}

@@ -1,1 +1,1 @@
-{"index": 86176, "D": "a loud, confused noise; a continued loud or tumultuous sound; noisy clamor.", "S": ["din ", "drive ", "drub ", "drum ", "grave ", "hammer ", "stamp "], "A": ["give up "]}
+{"index": 86176, "D": "a loud, confused noise; a continued loud or tumultuous sound; noisy clamor.", "S": ["din", "drive", "drub", "drum", "grave", "hammer", "stamp"], "A": ["give up"]}

@@ -1,1 +1,1 @@
-{"index": 33679, "D": "to divide or fork  into two branches.", "S": ["complication ", "consequence ", "upshot "], "A": ["cause ", "origin ", "source ", "juncture ", "union ", "unity ", "whole "]}
+{"index": 33679, "D": "to divide or fork  into two branches.", "S": ["complication", "consequence", "upshot"], "A": ["cause", "origin", "source", "juncture", "union", "unity", "whole"]}

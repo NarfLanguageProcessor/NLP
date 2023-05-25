@@ -1,1 +1,1 @@
-{"index": 274882, "D": "a number of persons gathered together for conference, discussion of some subject, etc., and often seated at a round table.", "S": ["brainstorming ", "buzz session ", "conference ", "council ", "discussion group ", "forum ", "panel "], "A": []}
+{"index": 274882, "D": "a number of persons gathered together for conference, discussion of some subject, etc., and often seated at a round table.", "S": ["brainstorming", "buzz session", "conference", "council", "discussion group", "forum", "panel"], "A": []}

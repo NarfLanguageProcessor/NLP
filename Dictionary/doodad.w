@@ -1,1 +1,1 @@
-{"index": 91484, "D": "a decorative embellishment; trinket; bauble", "S": ["contraption ", "contrivance ", "doohickey ", "gismo ", "object ", "thing ", "thingamabob ", "thingamajig ", "whatchamacallit ", "widget "], "A": []}
+{"index": 91484, "D": "a decorative embellishment; trinket; bauble", "S": ["contraption", "contrivance", "doohickey", "gismo", "object", "thing", "thingamabob", "thingamajig", "whatchamacallit", "widget"], "A": []}

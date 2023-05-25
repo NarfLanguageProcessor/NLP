@@ -1,1 +1,1 @@
-{"index": 148112, "D": "(in most foreign legal systems) real property", "S": ["land "], "A": []}
+{"index": 148112, "D": "(in most foreign legal systems) real property", "S": ["land"], "A": []}

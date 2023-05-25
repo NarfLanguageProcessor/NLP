@@ -1,1 +1,1 @@
-{"index": 285820, "D": "following with smooth or logical regularity.", "S": ["compliant ", "following ", "obedient ", "servile ", "subservient "], "A": []}
+{"index": 285820, "D": "following with smooth or logical regularity.", "S": ["compliant", "following", "obedient", "servile", "subservient"], "A": []}

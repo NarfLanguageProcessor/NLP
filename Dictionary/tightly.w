@@ -1,1 +1,1 @@
-{"index": 323474, "D": "firmly or closely fixed in place; not easily moved; secure", "S": ["hard ", "tight "], "A": ["loosely "]}
+{"index": 323474, "D": "firmly or closely fixed in place; not easily moved; secure", "S": ["hard", "tight"], "A": ["loosely"]}

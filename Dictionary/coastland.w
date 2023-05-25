@@ -1,1 +1,1 @@
-{"index": 61098, "D": "land  along a coast;  seacoast.", "S": ["bank ", "beach ", "border ", "coast ", "riverbank ", "sand ", "seaboard ", "seashore ", "waterfront "], "A": ["center ", "interior ", "middle "]}
+{"index": 61098, "D": "land  along a coast;  seacoast.", "S": ["bank", "beach", "border", "coast", "riverbank", "sand", "seaboard", "seashore", "waterfront"], "A": ["center", "interior", "middle"]}

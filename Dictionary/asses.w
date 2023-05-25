@@ -1,1 +1,1 @@
-{"index": 21712, "D": "plural of ass1. ", "S": ["idiot "], "A": ["brain ", "genius "]}
+{"index": 21712, "D": "plural of ass1. ", "S": ["idiot"], "A": ["brain", "genius"]}

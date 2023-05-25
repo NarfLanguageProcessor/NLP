@@ -1,1 +1,1 @@
-{"index": 309542, "D": "in a way that is so fine or delicate as to be difficult to perceive", "S": ["beautifully ", "cautiously ", "deftly ", "elegantly ", "exquisitely ", "finely ", "gracefully ", "lightly ", "sensitively ", "skillfully ", "softly ", "tactfully "], "A": ["strongly "]}
+{"index": 309542, "D": "in a way that is so fine or delicate as to be difficult to perceive", "S": ["beautifully", "cautiously", "deftly", "elegantly", "exquisitely", "finely", "gracefully", "lightly", "sensitively", "skillfully", "softly", "tactfully"], "A": ["strongly"]}

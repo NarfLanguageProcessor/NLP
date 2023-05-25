@@ -1,1 +1,1 @@
-{"index": 230137, "D": "Compare umbra (def. 3b). ", "S": ["concealment ", "decline ", "diminution ", "dimming ", "extinction ", "obliteration ", "occultation ", "shading ", "shroud ", "veil "], "A": ["increase "]}
+{"index": 230137, "D": "Compare umbra (def. 3b). ", "S": ["concealment", "decline", "diminution", "dimming", "extinction", "obliteration", "occultation", "shading", "shroud", "veil"], "A": ["increase"]}

@@ -1,1 +1,0 @@
-{"index": 206338, "D": "belonging or peculiar to some particular province;  local", "S": [], "A": []}

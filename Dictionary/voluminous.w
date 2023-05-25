@@ -1,1 +1,1 @@
-{"index": 361231, "D": "forming, filling, or writing a large volume  or many volumes", "S": ["ample ", "billowing ", "comprehensive ", "copious ", "extensive ", "numerous "], "A": ["lacking ", "meager "]}
+{"index": 361231, "D": "forming, filling, or writing a large volume  or many volumes", "S": ["ample", "billowing", "comprehensive", "copious", "extensive", "numerous"], "A": ["lacking", "meager"]}

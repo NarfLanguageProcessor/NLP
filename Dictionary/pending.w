@@ -1,1 +1,1 @@
-{"index": 229563, "D": "while awaiting; until", "S": ["imminent ", "impending ", "undecided "], "A": ["distant ", "later "]}
+{"index": 229563, "D": "while awaiting; until", "S": ["imminent", "impending", "undecided"], "A": ["distant", "later"]}

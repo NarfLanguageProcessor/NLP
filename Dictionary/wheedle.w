@@ -1,1 +1,1 @@
-{"index": 364500, "D": "to endeavor to influence (a person) by smooth, flattering, or beguiling words or acts", "S": ["cajole ", "finagle "], "A": ["dissuade "]}
+{"index": 364500, "D": "to endeavor to influence (a person) by smooth, flattering, or beguiling words or acts", "S": ["cajole", "finagle"], "A": ["dissuade"]}

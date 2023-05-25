@@ -1,1 +1,1 @@
-{"index": 185129, "D": [], "S": ["bolide ", "comet ", "falling star ", "fireball ", "meteoroid "], "A": []}
+{"index": 185129, "D": [], "S": ["bolide", "comet", "falling star", "fireball", "meteoroid"], "A": []}

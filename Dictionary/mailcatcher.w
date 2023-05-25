@@ -1,1 +1,0 @@
-{"index": 177842, "D": "a device on a mail car  that, while the train is moving, picks up mailbags suspended beside the track.", "S": [], "A": []}

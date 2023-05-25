@@ -1,1 +1,1 @@
-{"index": 190969, "D": "political control by a mob. ", "S": ["anarchy ", "disarray ", "discord ", "disorder ", "lawlessness ", "pandemonium ", "tumult ", "turmoil "], "A": ["arrangement ", "calm ", "harmony ", "order ", "orderliness ", "organization ", "peace ", "neatness ", "tidiness "]}
+{"index": 190969, "D": "political control by a mob. ", "S": ["anarchy", "disarray", "discord", "disorder", "lawlessness", "pandemonium", "tumult", "turmoil"], "A": ["arrangement", "calm", "harmony", "order", "orderliness", "organization", "peace", "neatness", "tidiness"]}

@@ -1,1 +1,1 @@
-{"index": 119891, "D": "shining brightly; dazzling; resplendent", "S": ["bright ", "brilliant ", "flashing ", "luminous ", "radiant ", "shining "], "A": []}
+{"index": 119891, "D": "shining brightly; dazzling; resplendent", "S": ["bright", "brilliant", "flashing", "luminous", "radiant", "shining"], "A": []}

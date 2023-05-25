@@ -1,1 +1,1 @@
-{"index": 84092, "D": "of or consisting of a dyad; being a group of two.", "S": ["amphibian ", "binary ", "diploid "], "A": []}
+{"index": 84092, "D": "of or consisting of a dyad; being a group of two.", "S": ["amphibian", "binary", "diploid"], "A": []}

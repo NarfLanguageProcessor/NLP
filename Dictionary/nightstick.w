@@ -1,1 +1,1 @@
-{"index": 199977, "D": "a special club carried by a policeman; billy.", "S": ["cudgel ", "mace ", "rod ", "truncheon ", "wand "], "A": []}
+{"index": 199977, "D": "a special club carried by a policeman; billy.", "S": ["cudgel", "mace", "rod", "truncheon", "wand"], "A": []}

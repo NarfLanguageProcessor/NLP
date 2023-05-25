@@ -1,1 +1,1 @@
-{"index": 112355, "D": "diabolically cruel and wicked.", "S": ["barbarity ", "horror "], "A": ["good behavior ", "kindness ", "pleasantness ", "pleasantry "]}
+{"index": 112355, "D": "diabolically cruel and wicked.", "S": ["barbarity", "horror"], "A": ["good behavior", "kindness", "pleasantness", "pleasantry"]}

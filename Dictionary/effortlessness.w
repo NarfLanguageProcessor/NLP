@@ -1,1 +1,1 @@
-{"index": 96085, "D": "requiring or involving no effort;  displaying no signs of effort;  easy", "S": ["cinch ", "easiness ", "facility ", "naturalness "], "A": []}
+{"index": 96085, "D": "requiring or involving no effort;  displaying no signs of effort;  easy", "S": ["cinch", "easiness", "facility", "naturalness"], "A": []}

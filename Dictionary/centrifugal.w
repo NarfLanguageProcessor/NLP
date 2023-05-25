@@ -1,1 +1,1 @@
-{"index": 50977, "D": "moving or directed outward from the center (opposed to centripetal).", "S": ["deviating ", "diffusive ", "divergent ", "diverging ", "eccentric ", "efferent ", "outward ", "radial ", "spiral ", "spreading "], "A": ["centripetal "]}
+{"index": 50977, "D": "moving or directed outward from the center (opposed to centripetal).", "S": ["deviating", "diffusive", "divergent", "diverging", "eccentric", "efferent", "outward", "radial", "spiral", "spreading"], "A": ["centripetal"]}

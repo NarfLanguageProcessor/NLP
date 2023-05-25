@@ -1,1 +1,1 @@
-{"index": 161008, "D": "a joke or witty remark; witticism.", "S": ["clowning ", "humor ", "joking "], "A": []}
+{"index": 161008, "D": "a joke or witty remark; witticism.", "S": ["clowning", "humor", "joking"], "A": []}

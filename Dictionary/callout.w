@@ -1,1 +1,1 @@
-{"index": 45355, "D": "an act or instance of calling out, or speaking in a loud voice.", "S": ["exclaim "], "A": ["be quiet ", "conceal ", "hide ", "secrete "]}
+{"index": 45355, "D": "an act or instance of calling out, or speaking in a loud voice.", "S": ["exclaim"], "A": ["be quiet", "conceal", "hide", "secrete"]}

@@ -1,1 +1,1 @@
-{"index": 210624, "D": "easily seen, recognized, or understood; open to view or knowledge; evident", "S": ["accuracy ", "brightness ", "certainty ", "directness ", "lucidity ", "precision ", "purity ", "simplicity ", "transparency "], "A": ["inaccuracy ", "unintelligibility "]}
+{"index": 210624, "D": "easily seen, recognized, or understood; open to view or knowledge; evident", "S": ["accuracy", "brightness", "certainty", "directness", "lucidity", "precision", "purity", "simplicity", "transparency"], "A": ["inaccuracy", "unintelligibility"]}

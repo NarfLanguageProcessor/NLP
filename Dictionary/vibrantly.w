@@ -1,1 +1,1 @@
-{"index": 359288, "D": "moving to and fro rapidly; vibrating. ", "S": ["actively ", "boldly ", "eagerly ", "earnestly ", "firmly ", "forcefully ", "healthily ", "passionately ", "quickly ", "resolutely ", "robustly ", "sincerely ", "strenuously ", "wholeheartedly ", "zealously "], "A": []}
+{"index": 359288, "D": "moving to and fro rapidly; vibrating. ", "S": ["actively", "boldly", "eagerly", "earnestly", "firmly", "forcefully", "healthily", "passionately", "quickly", "resolutely", "robustly", "sincerely", "strenuously", "wholeheartedly", "zealously"], "A": []}

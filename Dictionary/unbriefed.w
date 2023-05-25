@@ -1,1 +1,1 @@
-{"index": 336205, "D": "lasting or taking a short time; of short duration", "S": ["ignorant ", "unacquainted ", "unaware ", "uneducated ", "unfamiliar "], "A": ["educated ", "intelligent "]}
+{"index": 336205, "D": "lasting or taking a short time; of short duration", "S": ["ignorant", "unacquainted", "unaware", "uneducated", "unfamiliar"], "A": ["educated", "intelligent"]}

@@ -1,1 +1,1 @@
-{"index": 177468, "D": "the quality of being magnanimous. ", "S": ["chivalry ", "philanthropy "], "A": ["meanness ", "selfishness "]}
+{"index": 177468, "D": "the quality of being magnanimous. ", "S": ["chivalry", "philanthropy"], "A": ["meanness", "selfishness"]}

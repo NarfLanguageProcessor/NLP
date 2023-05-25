@@ -1,1 +1,1 @@
-{"index": 311127, "D": "burning glass. ", "S": ["specs "], "A": []}
+{"index": 311127, "D": "burning glass. ", "S": ["specs"], "A": []}

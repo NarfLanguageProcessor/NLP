@@ -1,1 +1,1 @@
-{"index": 250221, "D": "foresight, foreknowledge, or prescience.", "S": ["apprehension ", "awareness "], "A": ["hindsight ", "ignorance ", "thoughtlessness "]}
+{"index": 250221, "D": "foresight, foreknowledge, or prescience.", "S": ["apprehension", "awareness"], "A": ["hindsight", "ignorance", "thoughtlessness"]}

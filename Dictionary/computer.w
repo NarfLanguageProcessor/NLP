@@ -1,1 +1,1 @@
-{"index": 64982, "D": "Compare analog computer, digital computer. ", "S": ["CPU ", "PC ", "abacus ", "analog ", "brain ", "calculator ", "clone ", "laptop ", "mac ", "mainframe ", "microcomputer ", "mini ", "minicomputer "], "A": []}
+{"index": 64982, "D": "Compare analog computer, digital computer. ", "S": ["CPU", "PC", "abacus", "analog", "brain", "calculator", "clone", "laptop", "mac", "mainframe", "microcomputer", "mini", "minicomputer"], "A": []}

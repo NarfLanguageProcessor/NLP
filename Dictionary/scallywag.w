@@ -1,1 +1,1 @@
-{"index": 279455, "D": "a variant of scalawag. ", "S": ["bastard ", "blackguard ", "fraud ", "heel ", "lowlife ", "miscreant ", "rapscallion ", "reprobate ", "rogue ", "scamp ", "scoundrel ", "swindler ", "villain "], "A": []}
+{"index": 279455, "D": "a variant of scalawag. ", "S": ["bastard", "blackguard", "fraud", "heel", "lowlife", "miscreant", "rapscallion", "reprobate", "rogue", "scamp", "scoundrel", "swindler", "villain"], "A": []}

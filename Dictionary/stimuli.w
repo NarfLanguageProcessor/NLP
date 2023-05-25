@@ -1,1 +1,1 @@
-{"index": 304647, "D": "the plural of stimulus. ", "S": ["catalyst ", "encouragement ", "fillip ", "impetus ", "incentive ", "motivation ", "stimulant ", "stimulation "], "A": ["block ", "discouragement ", "hindrance ", "deterrent "]}
+{"index": 304647, "D": "the plural of stimulus. ", "S": ["catalyst", "encouragement", "fillip", "impetus", "incentive", "motivation", "stimulant", "stimulation"], "A": ["block", "discouragement", "hindrance", "deterrent"]}

@@ -1,1 +1,1 @@
-{"index": 88306, "D": "lack or loss of honor;  disgraceful or dishonest character or conduct.", "S": ["disgrace ", "opprobrium ", "reproach "], "A": ["honor ", "respect ", "approval ", "commendation ", "compliment ", "dignity ", "esteem ", "happiness ", "praise ", "regard "]}
+{"index": 88306, "D": "lack or loss of honor;  disgraceful or dishonest character or conduct.", "S": ["disgrace", "opprobrium", "reproach"], "A": ["honor", "respect", "approval", "commendation", "compliment", "dignity", "esteem", "happiness", "praise", "regard"]}

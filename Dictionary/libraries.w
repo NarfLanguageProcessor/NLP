@@ -1,1 +1,1 @@
-{"index": 171566, "D": "a place set apart to contain books, periodicals, and other material for reading, viewing, listening, study, or reference, as a room, set of rooms, or building where books may be read or borrowed.", "S": ["athenaeum ", "atheneum ", "bibliotheca ", "study "], "A": []}
+{"index": 171566, "D": "a place set apart to contain books, periodicals, and other material for reading, viewing, listening, study, or reference, as a room, set of rooms, or building where books may be read or borrowed.", "S": ["athenaeum", "atheneum", "bibliotheca", "study"], "A": []}

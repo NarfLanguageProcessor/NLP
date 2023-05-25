@@ -1,0 +1,1 @@
+{"index": 26028, "D": "a variant spelling of baklava", "S": [], "A": []}

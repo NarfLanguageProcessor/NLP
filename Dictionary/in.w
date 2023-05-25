@@ -1,1 +1,1 @@
-{"index": 149313, "D": "(used to indicate inclusion within space, a place, or limits)", "S": ["chic ", "chichi ", "contemporary ", "current ", "fly ", "latest ", "mod ", "modern ", "now ", "smart ", "swank ", "trig "], "A": ["antiquated ", "dull ", "old ", "old-fashioned ", "unfashionable "]}
+{"index": 149313, "D": "(used to indicate inclusion within space, a place, or limits)", "S": ["chic", "chichi", "contemporary", "current", "fly", "latest", "mod", "modern", "now", "smart", "swank", "trig"], "A": ["antiquated", "dull", "old", "old-fashioned", "unfashionable"]}

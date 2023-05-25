@@ -1,1 +1,0 @@
-{"index": 277339, "D": "the form of potassium nitrate, KNO3, that occurs naturally, used in the manufacture of fireworks, fluxes, gunpowder, etc.; niter.", "S": ["vinegar "], "A": []}

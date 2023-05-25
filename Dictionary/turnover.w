@@ -1,1 +1,1 @@
-{"index": 332851, "D": "an act or result of turning over; upset.", "S": ["departure ", "mass exodus "], "A": []}
+{"index": 332851, "D": "an act or result of turning over; upset.", "S": ["departure", "mass exodus"], "A": []}

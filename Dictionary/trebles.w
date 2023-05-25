@@ -1,1 +1,1 @@
-{"index": 328739, "D": "threefold; triple.", "S": ["singer "], "A": []}
+{"index": 328739, "D": "threefold; triple.", "S": ["singer"], "A": []}

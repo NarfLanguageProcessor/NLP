@@ -1,1 +1,1 @@
-{"index": 65140, "D": "having a common center, as circles or spheres.", "S": ["coextensive ", "coordinated ", "parallel ", "side-by-side "], "A": ["off-center "]}
+{"index": 65140, "D": "having a common center, as circles or spheres.", "S": ["coextensive", "coordinated", "parallel", "side-by-side"], "A": ["off-center"]}

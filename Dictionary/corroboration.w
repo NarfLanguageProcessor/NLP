@@ -1,1 +1,1 @@
-{"index": 69709, "D": "the act of corroborating. ", "S": ["affirmation ", "validation ", "verification "], "A": []}
+{"index": 69709, "D": "the act of corroborating. ", "S": ["affirmation", "validation", "verification"], "A": []}

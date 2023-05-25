@@ -1,1 +1,1 @@
-{"index": 46565, "D": "disagreeable to deal with; contentious; peevish", "S": ["cranky ", "dour ", "grouchy ", "grumpy ", "irascible ", "prickly ", "quarrelsome ", "testy "], "A": ["cheerful ", "easygoing ", "happy ", "pleasant "]}
+{"index": 46565, "D": "disagreeable to deal with; contentious; peevish", "S": ["cranky", "dour", "grouchy", "grumpy", "irascible", "prickly", "quarrelsome", "testy"], "A": ["cheerful", "easygoing", "happy", "pleasant"]}

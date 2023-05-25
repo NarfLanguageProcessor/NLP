@@ -1,1 +1,1 @@
-{"index": 188078, "D": "a pert, impudent, or flirtatious girl.", "S": ["coquette ", "flirt ", "hussy ", "jade ", "slut ", "woman "], "A": []}
+{"index": 188078, "D": "a pert, impudent, or flirtatious girl.", "S": ["coquette", "flirt", "hussy", "jade", "slut", "woman"], "A": []}

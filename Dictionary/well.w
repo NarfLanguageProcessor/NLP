@@ -1,1 +1,1 @@
-{"index": 364007, "D": "in a good or satisfactory manner", "S": ["strong ", "together "], "A": ["inappropriate ", "incomplete ", "infirm ", "little ", "poor ", "rough ", "sick ", "small ", "unfit ", "unhealthy ", "unsuitable ", "unsuited ", "weak "]}
+{"index": 364007, "D": "in a good or satisfactory manner", "S": ["strong", "together"], "A": ["inappropriate", "incomplete", "infirm", "little", "poor", "rough", "sick", "small", "unfit", "unhealthy", "unsuitable", "unsuited", "weak"]}

@@ -1,1 +1,1 @@
-{"index": 115770, "D": "thick with or having much fog; misty", "S": ["darkness ", "fog ", "gloom ", "mist ", "puff ", "smog ", "smoke ", "steam ", "vapor ", "veil "], "A": ["brightness ", "cognizance ", "light ", "understanding "]}
+{"index": 115770, "D": "thick with or having much fog; misty", "S": ["darkness", "fog", "gloom", "mist", "puff", "smog", "smoke", "steam", "vapor", "veil"], "A": ["brightness", "cognizance", "light", "understanding"]}

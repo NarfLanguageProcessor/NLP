@@ -1,1 +1,1 @@
-{"index": 144291, "D": "an artificially heated greenhouse for the cultivation of tender plants.", "S": ["back yard ", "bed ", "field ", "greenhouse ", "nursery ", "patio ", "terrace "], "A": []}
+{"index": 144291, "D": "an artificially heated greenhouse for the cultivation of tender plants.", "S": ["back yard", "bed", "field", "greenhouse", "nursery", "patio", "terrace"], "A": []}

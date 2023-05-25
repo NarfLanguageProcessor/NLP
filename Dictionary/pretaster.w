@@ -1,1 +1,0 @@
-{"index": 249841, "D": "a person who tastes,  especially one skilled in distinguishing the qualities of liquors, tea, etc., by the taste. ", "S": [], "A": []}

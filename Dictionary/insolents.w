@@ -1,1 +1,1 @@
-{"index": 153702, "D": "boldly rude or disrespectful; contemptuously impertinent; insulting", "S": ["oppressor ", "rascal "], "A": []}
+{"index": 153702, "D": "boldly rude or disrespectful; contemptuously impertinent; insulting", "S": ["oppressor", "rascal"], "A": []}

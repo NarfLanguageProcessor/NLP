@@ -1,1 +1,1 @@
-{"index": 260097, "D": "a volcanic peak in W Washington, in the Cascade Range. 14,408 feet (4,392 meters).", "S": ["drizzly ", "stormy ", "wet "], "A": ["dry "]}
+{"index": 260097, "D": "a volcanic peak in W Washington, in the Cascade Range. 14,408 feet (4,392 meters).", "S": ["drizzly", "stormy", "wet"], "A": ["dry"]}

@@ -1,1 +1,1 @@
-{"index": 232040, "D": "to secrete a salty, watery fluid from the sweat glands of the skin, especially when very warm as a result of strenuous exertion; sweat.", "S": ["secrete "], "A": ["dry "]}
+{"index": 232040, "D": "to secrete a salty, watery fluid from the sweat glands of the skin, especially when very warm as a result of strenuous exertion; sweat.", "S": ["secrete"], "A": ["dry"]}

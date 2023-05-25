@@ -1,0 +1,1 @@
+{"index": 12010, "D": "a representation, in Byzantine art, of Christ harrowing hell.", "S": [], "A": []}

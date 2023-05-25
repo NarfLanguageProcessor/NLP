@@ -1,1 +1,1 @@
-{"index": 208553, "D": "to make normal", "S": ["balancing ", "controlling ", "determining ", "directing ", "regularizing ", "regulating ", "shifting "], "A": []}
+{"index": 208553, "D": "to make normal", "S": ["balancing", "controlling", "determining", "directing", "regularizing", "regulating", "shifting"], "A": []}

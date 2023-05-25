@@ -1,1 +1,1 @@
-{"index": 317630, "D": "technical", "S": ["borstal institution ", "industrial school ", "reform school ", "reformatory ", "remand school ", "training camp ", "training college ", "training ground ", "training ship "], "A": []}
+{"index": 317630, "D": "technical", "S": ["borstal institution", "industrial school", "reform school", "reformatory", "remand school", "training camp", "training college", "training ground", "training ship"], "A": []}

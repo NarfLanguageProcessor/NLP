@@ -1,1 +1,1 @@
-{"index": 218806, "D": "a state of being filled with more people or things than is desirable; congestion", "S": ["bottleneck ", "overpopulation ", "traffic jam "], "A": ["flood ", "flow ", "opening "]}
+{"index": 218806, "D": "a state of being filled with more people or things than is desirable; congestion", "S": ["bottleneck", "overpopulation", "traffic jam"], "A": ["flood", "flow", "opening"]}

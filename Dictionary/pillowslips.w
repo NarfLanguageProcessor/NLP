@@ -1,1 +1,1 @@
-{"index": 236720, "D": "a removable sacklike covering, usually of cotton, drawn over a pillow. ", "S": ["bedding ", "pillowcase "], "A": []}
+{"index": 236720, "D": "a removable sacklike covering, usually of cotton, drawn over a pillow. ", "S": ["bedding", "pillowcase"], "A": []}

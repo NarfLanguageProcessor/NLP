@@ -1,1 +1,1 @@
-{"index": 353611, "D": "not communicable by utterance; unspeakable; beyond expression", "S": ["ineffably "], "A": []}
+{"index": 353611, "D": "not communicable by utterance; unspeakable; beyond expression", "S": ["ineffably"], "A": []}

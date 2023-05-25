@@ -1,1 +1,0 @@
-{"index": 361829, "D": [], "S": ["compensation ", "earnings ", "hire ", "income ", "pay ", "salary "], "A": ["bills ", "debt "]}

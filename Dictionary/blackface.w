@@ -1,1 +1,1 @@
-{"index": 35486, "D": "imitation of Black skin tone, speech, traditional dress, etc., by a person who is not Black", "S": ["clown white ", "greasepaint ", "makeup "], "A": []}
+{"index": 35486, "D": "imitation of Black skin tone, speech, traditional dress, etc., by a person who is not Black", "S": ["clown white", "greasepaint", "makeup"], "A": []}

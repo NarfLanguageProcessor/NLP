@@ -1,1 +1,1 @@
-{"index": 96912, "D": "electric. ", "S": ["automatic ", "computerized ", "electronic ", "mechanical ", "mechanized ", "robotic "], "A": ["by hand ", "manual "]}
+{"index": 96912, "D": "electric. ", "S": ["automatic", "computerized", "electronic", "mechanical", "mechanized", "robotic"], "A": ["by hand", "manual"]}

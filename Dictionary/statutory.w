@@ -1,1 +1,1 @@
-{"index": 303162, "D": "of, relating to, or of the nature of a statute. ", "S": ["lawful ", "legal "], "A": ["illegal ", "illegitimate ", "illicit ", "unlawful "]}
+{"index": 303162, "D": "of, relating to, or of the nature of a statute. ", "S": ["lawful", "legal"], "A": ["illegal", "illegitimate", "illicit", "unlawful"]}

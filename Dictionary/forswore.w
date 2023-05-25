@@ -1,1 +1,1 @@
-{"index": 117621, "D": "to reject or renounce under oath", "S": ["forgo ", "forsake ", "recant ", "renounce ", "repudiate ", "swear off "], "A": ["approve ", "accept ", "acknowledge ", "admit ", "allow ", "claim ", "corroborate "]}
+{"index": 117621, "D": "to reject or renounce under oath", "S": ["forgo", "forsake", "recant", "renounce", "repudiate", "swear off"], "A": ["approve", "accept", "acknowledge", "admit", "allow", "claim", "corroborate"]}

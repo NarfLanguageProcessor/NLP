@@ -1,1 +1,1 @@
-{"index": 118645, "D": "a port or special section of a port where goods may be unloaded, stored, and shipped without payment of customs duties.", "S": ["Common Market ", "competitive market ", "free enterprise ", "free market ", "free trade ", "free trade zone ", "open trade "], "A": []}
+{"index": 118645, "D": "a port or special section of a port where goods may be unloaded, stored, and shipped without payment of customs duties.", "S": ["Common Market", "competitive market", "free enterprise", "free market", "free trade", "free trade zone", "open trade"], "A": []}

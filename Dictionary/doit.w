@@ -1,1 +1,1 @@
-{"index": 91034, "D": "an old small copper coin of the Netherlands and Dutch colonies, first issued in the 17th century.", "S": ["bed ", "breed ", "cohabit ", "conjugate ", "couple ", "fornicate ", "lay ", "mate ", "unite "], "A": ["divide ", "separate "]}
+{"index": 91034, "D": "an old small copper coin of the Netherlands and Dutch colonies, first issued in the 17th century.", "S": ["bed", "breed", "cohabit", "conjugate", "couple", "fornicate", "lay", "mate", "unite"], "A": ["divide", "separate"]}

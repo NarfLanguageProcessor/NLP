@@ -1,1 +1,1 @@
-{"index": 154006, "D": "a mechanical tool or implement, especially one used for delicate or precision work", "S": ["orchestrate "], "A": ["confuse ", "derange ", "disarrange ", "disorder ", "disorganize ", "disperse ", "disturb ", "mix up ", "scatter "]}
+{"index": 154006, "D": "a mechanical tool or implement, especially one used for delicate or precision work", "S": ["orchestrate"], "A": ["confuse", "derange", "disarrange", "disorder", "disorganize", "disperse", "disturb", "mix up", "scatter"]}

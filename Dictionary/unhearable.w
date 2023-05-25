@@ -1,1 +1,1 @@
-{"index": 343603, "D": "to perceive by the ear", "S": ["hushed ", "imperceptible ", "muffled "], "A": []}
+{"index": 343603, "D": "to perceive by the ear", "S": ["hushed", "imperceptible", "muffled"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 156315, "D": "the act of inducing fear or awe", "S": ["coercion "], "A": []}
+{"index": 156315, "D": "the act of inducing fear or awe", "S": ["coercion"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 224354, "D": "a long, slender cigar, usually with straight sides and tapering to a point at the closed end.", "S": ["belvedere ", "bouquet ", "cheroot ", "claro ", "corona ", "havana ", "panatela ", "smoke ", "stogie ", "stogy ", "tobacco ", "toby ", "weed "], "A": []}
+{"index": 224354, "D": "a long, slender cigar, usually with straight sides and tapering to a point at the closed end.", "S": ["belvedere", "bouquet", "cheroot", "claro", "corona", "havana", "panatela", "smoke", "stogie", "stogy", "tobacco", "toby", "weed"], "A": []}

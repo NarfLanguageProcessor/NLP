@@ -1,1 +1,1 @@
-{"index": 75060, "D": "a small cake, the size of an individual portion, baked in a cup-shaped mold.", "S": ["tomato "], "A": []}
+{"index": 75060, "D": "a small cake, the size of an individual portion, baked in a cup-shaped mold.", "S": ["tomato"], "A": []}

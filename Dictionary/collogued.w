@@ -1,1 +1,1 @@
-{"index": 63091, "D": "to confer secretly.", "S": ["advise ", "argue ", "brainstorm ", "consult ", "huddle ", "negotiate ", "speak "], "A": ["keep quiet ", "be quiet ", "refuse "]}
+{"index": 63091, "D": "to confer secretly.", "S": ["advise", "argue", "brainstorm", "consult", "huddle", "negotiate", "speak"], "A": ["keep quiet", "be quiet", "refuse"]}

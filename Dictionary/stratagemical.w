@@ -1,1 +1,0 @@
-{"index": 305827, "D": "a plan, scheme, or trick for surprising or deceiving an enemy.", "S": [], "A": []}

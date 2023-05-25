@@ -1,1 +1,1 @@
-{"index": 159509, "D": "to state by items;  give the particulars of; list the individual units or parts of", "S": ["detailed ", "enumerated ", "particularized "], "A": []}
+{"index": 159509, "D": "to state by items;  give the particulars of; list the individual units or parts of", "S": ["detailed", "enumerated", "particularized"], "A": []}

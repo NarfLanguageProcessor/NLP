@@ -1,1 +1,1 @@
-{"index": 79134, "D": "a person who surrenders easily or is subject to defeatism. ", "S": ["negative "], "A": []}
+{"index": 79134, "D": "a person who surrenders easily or is subject to defeatism. ", "S": ["negative"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 336356, "D": "to free (buttons) from buttonholes; unfasten or undo.", "S": ["loose ", "open ", "undo "], "A": ["close "]}
+{"index": 336356, "D": "to free (buttons) from buttonholes; unfasten or undo.", "S": ["loose", "open", "undo"], "A": ["close"]}

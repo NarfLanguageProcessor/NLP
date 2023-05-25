@@ -1,1 +1,1 @@
-{"index": 107690, "D": "the act of expending  something, especially funds; disbursement; consumption.", "S": ["amount ", "consumption ", "cost ", "disbursement ", "expense ", "figure ", "investment ", "outlay ", "output ", "price ", "rate ", "spending ", "value "], "A": ["savings "]}
+{"index": 107690, "D": "the act of expending  something, especially funds; disbursement; consumption.", "S": ["amount", "consumption", "cost", "disbursement", "expense", "figure", "investment", "outlay", "output", "price", "rate", "spending", "value"], "A": ["savings"]}

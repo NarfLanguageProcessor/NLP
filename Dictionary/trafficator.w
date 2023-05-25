@@ -1,1 +1,1 @@
-{"index": 327320, "D": "a directional signal on a vehicle for indicating which way it is going to turn.", "S": ["blinker ", "directional signal ", "indicator ", "signal light "], "A": []}
+{"index": 327320, "D": "a directional signal on a vehicle for indicating which way it is going to turn.", "S": ["blinker", "directional signal", "indicator", "signal light"], "A": []}

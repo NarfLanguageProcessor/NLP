@@ -1,1 +1,1 @@
-{"index": 198071, "D": "capable of being negotiated", "S": ["debatable ", "transferable "], "A": []}
+{"index": 198071, "D": "capable of being negotiated", "S": ["debatable", "transferable"], "A": []}

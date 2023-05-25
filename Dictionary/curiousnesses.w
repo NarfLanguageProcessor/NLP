@@ -1,1 +1,1 @@
-{"index": 75331, "D": "eager to learn or know; inquisitive.", "S": ["inquiry ", "inquisitiveness ", "interest ", "nosiness "], "A": []}
+{"index": 75331, "D": "eager to learn or know; inquisitive.", "S": ["inquiry", "inquisitiveness", "interest", "nosiness"], "A": []}

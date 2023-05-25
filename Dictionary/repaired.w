@@ -1,1 +1,1 @@
-{"index": 267988, "D": "to restore to a good or sound condition after decay or damage; mend", "S": ["corrected ", "fixed ", "fixed-up ", "refurbished ", "remodeled ", "renovated "], "A": ["broken ", "damaged ", "torn ", "worn "]}
+{"index": 267988, "D": "to restore to a good or sound condition after decay or damage; mend", "S": ["corrected", "fixed", "fixed-up", "refurbished", "remodeled", "renovated"], "A": ["broken", "damaged", "torn", "worn"]}

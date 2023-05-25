@@ -1,1 +1,1 @@
-{"index": 270268, "D": "not lost, destroyed, released, sold, or given away; kept", "S": ["maintained ", "received ", "saved "], "A": ["extroverted ", "lost ", "outgoing "]}
+{"index": 270268, "D": "not lost, destroyed, released, sold, or given away; kept", "S": ["maintained", "received", "saved"], "A": ["extroverted", "lost", "outgoing"]}

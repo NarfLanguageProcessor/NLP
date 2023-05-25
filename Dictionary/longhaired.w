@@ -1,1 +1,1 @@
-{"index": 174922, "D": "an intellectual.", "S": ["furry "], "A": ["shaven ", "smooth "]}
+{"index": 174922, "D": "an intellectual.", "S": ["furry"], "A": ["shaven", "smooth"]}

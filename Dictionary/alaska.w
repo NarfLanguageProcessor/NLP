@@ -1,1 +1,1 @@
-{"index": 7353, "D": "a state of the United States in northwestern North America. 586,400 sq. mi. (1,519,000 sq. km). Capital", "S": ["America's Icebox ", "Seward's Folly ", "the 49th state ", "the Klondike ", "the Last Frontier ", "the frozen North "], "A": []}
+{"index": 7353, "D": "a state of the United States in northwestern North America. 586,400 sq. mi. (1,519,000 sq. km). Capital", "S": ["America's Icebox", "Seward's Folly", "the 49th state", "the Klondike", "the Last Frontier", "the frozen North"], "A": []}

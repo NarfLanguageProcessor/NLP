@@ -1,1 +1,1 @@
-{"index": 129354, "D": "the fat and juices that drip from cooking meat, often thickened, seasoned, flavored, etc., and used as a sauce for meat, potatoes, rice, etc.", "S": ["benefit ", "dividend ", "extra ", "gratuity ", "guerdon ", "pay dirt ", "perk ", "windfall "], "A": []}
+{"index": 129354, "D": "the fat and juices that drip from cooking meat, often thickened, seasoned, flavored, etc., and used as a sauce for meat, potatoes, rice, etc.", "S": ["benefit", "dividend", "extra", "gratuity", "guerdon", "pay dirt", "perk", "windfall"], "A": []}

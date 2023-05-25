@@ -1,1 +1,1 @@
-{"index": 200487, "D": [], "S": ["foolish ", "gratuitous ", "senseless ", "silly ", "thoughtless "], "A": ["reasonable ", "sensible ", "serious ", "thoughtful ", "wise ", "attentive ", "mindful "]}
+{"index": 200487, "D": [], "S": ["foolish", "gratuitous", "senseless", "silly", "thoughtless"], "A": ["reasonable", "sensible", "serious", "thoughtful", "wise", "attentive", "mindful"]}

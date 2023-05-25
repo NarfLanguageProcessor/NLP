@@ -1,1 +1,1 @@
-{"index": 87525, "D": "to sever or interrupt the connection of or between; detach", "S": ["cut off ", "detach ", "disengage ", "sever "], "A": ["attach ", "combine ", "connect ", "join ", "unite "]}
+{"index": 87525, "D": "to sever or interrupt the connection of or between; detach", "S": ["cut off", "detach", "disengage", "sever"], "A": ["attach", "combine", "connect", "join", "unite"]}

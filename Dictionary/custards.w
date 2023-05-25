@@ -1,1 +1,1 @@
-{"index": 75688, "D": "a dessert made of eggs, sugar, and milk, either baked, boiled, or frozen.", "S": ["junket ", "tapioca "], "A": []}
+{"index": 75688, "D": "a dessert made of eggs, sugar, and milk, either baked, boiled, or frozen.", "S": ["junket", "tapioca"], "A": []}

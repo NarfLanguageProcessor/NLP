@@ -1,1 +1,1 @@
-{"index": 207970, "D": "to convey or remove from one place, person, etc., to another", "S": ["basic ", "entailed ", "inbred ", "inviolable ", "natural ", "nonnegotiable ", "sacrosanct ", "unassailable ", "untransferable "], "A": ["acquired ", "changeable ", "impermanent ", "transitory "]}
+{"index": 207970, "D": "to convey or remove from one place, person, etc., to another", "S": ["basic", "entailed", "inbred", "inviolable", "natural", "nonnegotiable", "sacrosanct", "unassailable", "untransferable"], "A": ["acquired", "changeable", "impermanent", "transitory"]}

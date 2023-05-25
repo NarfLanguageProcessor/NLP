@@ -1,1 +1,1 @@
-{"index": 118809, "D": "to make fresh;  refresh, revive, or renew", "S": ["cleanse ", "enliven ", "invigorate ", "refresh ", "sweeten "], "A": ["bore ", "dull ", "enervate ", "destroy ", "suppress "]}
+{"index": 118809, "D": "to make fresh;  refresh, revive, or renew", "S": ["cleanse", "enliven", "invigorate", "refresh", "sweeten"], "A": ["bore", "dull", "enervate", "destroy", "suppress"]}

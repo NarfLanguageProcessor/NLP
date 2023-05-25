@@ -1,1 +1,1 @@
-{"index": 210350, "D": "(of meaning) not clear or plain; ambiguous, vague, or uncertain", "S": ["bewilderment ", "disorientation ", "distraction ", "embarrassment ", "turbulence ", "turmoil "], "A": ["calm ", "peace ", "calmness ", "happiness "]}
+{"index": 210350, "D": "(of meaning) not clear or plain; ambiguous, vague, or uncertain", "S": ["bewilderment", "disorientation", "distraction", "embarrassment", "turbulence", "turmoil"], "A": ["calm", "peace", "calmness", "happiness"]}

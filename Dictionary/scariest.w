@@ -1,1 +1,1 @@
-{"index": 279760, "D": "causing fright or alarm.", "S": ["alarming ", "chilling ", "creepy ", "eerie ", "hairy ", "horrifying ", "intimidating ", "shocking ", "spooky "], "A": ["normal "]}
+{"index": 279760, "D": "causing fright or alarm.", "S": ["alarming", "chilling", "creepy", "eerie", "hairy", "horrifying", "intimidating", "shocking", "spooky"], "A": ["normal"]}

@@ -1,1 +1,1 @@
-{"index": 89765, "D": "arranged alternately in two vertical rows on opposite sides of an axis, as leaves.", "S": ["amphibian ", "binary ", "diploid "], "A": []}
+{"index": 89765, "D": "arranged alternately in two vertical rows on opposite sides of an axis, as leaves.", "S": ["amphibian", "binary", "diploid"], "A": []}

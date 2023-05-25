@@ -1,1 +1,1 @@
-{"index": 142922, "D": "of or relating to preaching or to homilies. ", "S": ["admonitory ", "didactic ", "disciplinary ", "disquisitional ", "doctrinal ", "edifying ", "expository ", "instructional ", "instructive ", "moralizing ", "preaching ", "sermonic ", "sermonizing ", "teaching "], "A": []}
+{"index": 142922, "D": "of or relating to preaching or to homilies. ", "S": ["admonitory", "didactic", "disciplinary", "disquisitional", "doctrinal", "edifying", "expository", "instructional", "instructive", "moralizing", "preaching", "sermonic", "sermonizing", "teaching"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 147511, "D": "a conjurer or magician who creates illusions,  as by sleight of hand.", "S": ["charmer ", "genius ", "virtuoso ", "witch ", "wizard "], "A": []}
+{"index": 147511, "D": "a conjurer or magician who creates illusions,  as by sleight of hand.", "S": ["charmer", "genius", "virtuoso", "witch", "wizard"], "A": []}

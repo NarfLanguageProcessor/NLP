@@ -1,1 +1,1 @@
-{"index": 81888, "D": "marked by deprivation;  lacking the necessities of life, as adequate food and shelter", "S": ["destitute ", "disadvantaged ", "dispossessed ", "needy ", "underprivileged "], "A": ["privileged ", "prosperous ", "rich ", "wealthy "]}
+{"index": 81888, "D": "marked by deprivation;  lacking the necessities of life, as adequate food and shelter", "S": ["destitute", "disadvantaged", "dispossessed", "needy", "underprivileged"], "A": ["privileged", "prosperous", "rich", "wealthy"]}

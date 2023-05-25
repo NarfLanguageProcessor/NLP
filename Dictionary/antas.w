@@ -1,0 +1,1 @@
+{"index": 14051, "D": "a rectangular pier or pilaster formed by thickening the end of a masonry wall, and in a classical temple marking one boundary of the portico.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 63889, "D": "a command  or mandate.", "S": ["edict ", "precept "], "A": []}
+{"index": 63889, "D": "a command  or mandate.", "S": ["edict", "precept"], "A": []}

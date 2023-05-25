@@ -1,1 +1,1 @@
-{"index": 238713, "D": "a program or announcement of a play. ", "S": ["agenda ", "card ", "program "], "A": []}
+{"index": 238713, "D": "a program or announcement of a play. ", "S": ["agenda", "card", "program"], "A": []}

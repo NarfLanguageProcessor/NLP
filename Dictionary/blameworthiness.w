@@ -1,1 +1,1 @@
-{"index": 35666, "D": "deserving blame;  blameful", "S": ["liability "], "A": []}
+{"index": 35666, "D": "deserving blame;  blameful", "S": ["liability"], "A": []}

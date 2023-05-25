@@ -1,1 +1,1 @@
-{"index": 29158, "D": "a battleship.", "S": ["floating fortress "], "A": []}
+{"index": 29158, "D": "a battleship.", "S": ["floating fortress"], "A": []}

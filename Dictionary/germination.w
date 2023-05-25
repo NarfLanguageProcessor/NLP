@@ -1,1 +1,1 @@
-{"index": 124250, "D": "The beginning of growth, as of a seed, spore, or bud. The germination of most seeds and spores occurs in response to warmth and water.", "S": ["fertilization ", "origin "], "A": ["conclusion ", "end ", "ending ", "finish "]}
+{"index": 124250, "D": "The beginning of growth, as of a seed, spore, or bud. The germination of most seeds and spores occurs in response to warmth and water.", "S": ["fertilization", "origin"], "A": ["conclusion", "end", "ending", "finish"]}

@@ -1,1 +1,1 @@
-{"index": 201961, "D": "a person who is not on active duty with a military, naval, police, or fire fighting organization.", "S": ["bellicose "], "A": []}
+{"index": 201961, "D": "a person who is not on active duty with a military, naval, police, or fire fighting organization.", "S": ["bellicose"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 223205, "D": "a secret or private payment in return for the promotion of a product, service, etc., through the abuse of one's position, influence, or facilities.", "S": ["bribery ", "graft ", "payoff "], "A": []}
+{"index": 223205, "D": "a secret or private payment in return for the promotion of a product, service, etc., through the abuse of one's position, influence, or facilities.", "S": ["bribery", "graft", "payoff"], "A": []}

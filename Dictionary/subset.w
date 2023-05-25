@@ -1,1 +1,1 @@
-{"index": 309143, "D": "a set  that is a part of a larger set. ", "S": ["subdivision "], "A": ["whole "]}
+{"index": 309143, "D": "a set  that is a part of a larger set. ", "S": ["subdivision"], "A": ["whole"]}

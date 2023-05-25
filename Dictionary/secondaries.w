@@ -1,1 +1,1 @@
-{"index": 282756, "D": "next after the first in order, place, time, etc.", "S": ["backup ", "bench ", "bench jockey ", "benchwarmer ", "jack-of-all-trades ", "replacement ", "second string ", "secondary ", "sub ", "substitute ", "succedaneum "], "A": []}
+{"index": 282756, "D": "next after the first in order, place, time, etc.", "S": ["backup", "bench", "bench jockey", "benchwarmer", "jack-of-all-trades", "replacement", "second string", "secondary", "sub", "substitute", "succedaneum"], "A": []}

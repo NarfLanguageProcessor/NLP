@@ -1,1 +1,1 @@
-{"index": 306401, "D": "to exert oneself vigorously; try hard", "S": ["aim ", "endeavor ", "go all out ", "seek ", "tackle "], "A": ["neglect ", "agree ", "discourage ", "dissuade ", "idle ", "laze ", "make peace ", "relax ", "repress ", "rest ", "surrender ", "yield "]}
+{"index": 306401, "D": "to exert oneself vigorously; try hard", "S": ["aim", "endeavor", "go all out", "seek", "tackle"], "A": ["neglect", "agree", "discourage", "dissuade", "idle", "laze", "make peace", "relax", "repress", "rest", "surrender", "yield"]}

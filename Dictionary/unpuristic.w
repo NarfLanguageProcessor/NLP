@@ -1,1 +1,0 @@
-{"index": 348849, "D": "a person who advocates the strictest application of the principles or standards in any field, or who insists on purity  in language, style, etc.", "S": [], "A": []}

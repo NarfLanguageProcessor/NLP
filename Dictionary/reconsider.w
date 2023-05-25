@@ -1,1 +1,1 @@
-{"index": 263376, "D": "to consider  again, especially with a view to change of decision or action", "S": ["amend ", "reassess ", "reevaluate ", "reexamine ", "rethink ", "review ", "revise "], "A": ["spoil "]}
+{"index": 263376, "D": "to consider  again, especially with a view to change of decision or action", "S": ["amend", "reassess", "reevaluate", "reexamine", "rethink", "review", "revise"], "A": ["spoil"]}

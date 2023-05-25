@@ -1,1 +1,1 @@
-{"index": 343734, "D": "he could proceed unhindered", "S": ["straight "], "A": ["incomplete ", "indirect ", "stopping ", "unfinished "]}
+{"index": 343734, "D": "he could proceed unhindered", "S": ["straight"], "A": ["incomplete", "indirect", "stopping", "unfinished"]}

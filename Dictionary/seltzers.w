@@ -1,1 +1,1 @@
-{"index": 283600, "D": "a naturally effervescent mineral water containing common salt and small quantities of sodium, calcium, and magnesium carbonates.", "S": ["carbonated water ", "seltzer water ", "sparkling water "], "A": []}
+{"index": 283600, "D": "a naturally effervescent mineral water containing common salt and small quantities of sodium, calcium, and magnesium carbonates.", "S": ["carbonated water", "seltzer water", "sparkling water"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 267236, "D": "to recall to the mind by an act or effort of memory; think of again", "S": ["evoked "], "A": ["forgotten ", "lost ", "overlooked "]}
+{"index": 267236, "D": "to recall to the mind by an act or effort of memory; think of again", "S": ["evoked"], "A": ["forgotten", "lost", "overlooked"]}

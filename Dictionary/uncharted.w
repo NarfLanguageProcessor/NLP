@@ -1,1 +1,1 @@
-{"index": 336760, "D": "not shown or located on a map; unexplored; unknown, as a place or region", "S": ["far-off ", "faraway ", "remote ", "undiscovered ", "unexplored "], "A": ["close ", "near "]}
+{"index": 336760, "D": "not shown or located on a map; unexplored; unknown, as a place or region", "S": ["far-off", "faraway", "remote", "undiscovered", "unexplored"], "A": ["close", "near"]}

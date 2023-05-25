@@ -1,1 +1,1 @@
-{"index": 309067, "D": "a person, company, etc., that subscribes,  as to a publication or concert series.", "S": ["donor "], "A": ["antagonist ", "opponent ", "opposer "]}
+{"index": 309067, "D": "a person, company, etc., that subscribes,  as to a publication or concert series.", "S": ["donor"], "A": ["antagonist", "opponent", "opposer"]}

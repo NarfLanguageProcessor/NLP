@@ -1,1 +1,1 @@
-{"index": 334647, "D": "a bare unadorned style", "S": ["austere "], "A": []}
+{"index": 334647, "D": "a bare unadorned style", "S": ["austere"], "A": []}

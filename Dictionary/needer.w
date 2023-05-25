@@ -1,1 +1,1 @@
-{"index": 197912, "D": "a requirement, necessary duty, or obligation", "S": ["abstain ", "be deprived of ", "do without ", "fall short ", "go short ", "lack ", "need ", "want "], "A": ["earn ", "get ", "indulge ", "take ", "use "]}
+{"index": 197912, "D": "a requirement, necessary duty, or obligation", "S": ["abstain", "be deprived of", "do without", "fall short", "go short", "lack", "need", "want"], "A": ["earn", "get", "indulge", "take", "use"]}

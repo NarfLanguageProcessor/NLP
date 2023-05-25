@@ -1,1 +1,1 @@
-{"index": 171423, "D": "a pouring out of wine or other liquid in honor of a deity.", "S": ["drink ", "gift ", "offering ", "sacrifice "], "A": []}
+{"index": 171423, "D": "a pouring out of wine or other liquid in honor of a deity.", "S": ["drink", "gift", "offering", "sacrifice"], "A": []}

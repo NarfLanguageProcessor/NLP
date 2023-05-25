@@ -1,1 +1,0 @@
-{"index": 336827, "D": "having the qualities of chivalry,  as courage, courtesy, and loyalty.", "S": ["crude ", "impolite ", "inconsiderate ", "indecent ", "insensitive ", "loutish ", "rough ", "uncivil ", "ungentlemanlike ", "unrefined ", "vulgar "], "A": ["gentlemanly ", "polite ", "refined "]}

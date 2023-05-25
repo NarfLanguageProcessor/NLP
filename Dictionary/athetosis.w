@@ -1,1 +1,1 @@
-{"index": 22582, "D": "a condition, chiefly in children, of slow, involuntary, wormlike movements of the fingers, toes, hands, and feet, usually resulting from a brain lesion.", "S": ["Bell's palsy ", "palsy ", "spastic paralysis "], "A": []}
+{"index": 22582, "D": "a condition, chiefly in children, of slow, involuntary, wormlike movements of the fingers, toes, hands, and feet, usually resulting from a brain lesion.", "S": ["Bell's palsy", "palsy", "spastic paralysis"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 113969, "D": [], "S": ["battercake ", "griddlecake ", "hotcake ", "johnnycake "], "A": []}
+{"index": 113969, "D": [], "S": ["battercake", "griddlecake", "hotcake", "johnnycake"], "A": []}

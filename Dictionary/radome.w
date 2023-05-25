@@ -1,1 +1,0 @@
-{"index": 259842, "D": "a dome-shaped device used to house a radar antenna.", "S": [], "A": []}

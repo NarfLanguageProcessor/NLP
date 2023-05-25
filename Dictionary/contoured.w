@@ -1,1 +1,1 @@
-{"index": 67537, "D": "the outline of a figure or body; the edge or line that defines or bounds a shape or object.", "S": ["formed ", "modeled ", "molded "], "A": []}
+{"index": 67537, "D": "the outline of a figure or body; the edge or line that defines or bounds a shape or object.", "S": ["formed", "modeled", "molded"], "A": []}

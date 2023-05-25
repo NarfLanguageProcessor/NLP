@@ -1,1 +1,1 @@
-{"index": 150926, "D": [], "S": ["clue ", "confirmation ", "data ", "deposition ", "documentation ", "indication ", "information ", "sign ", "testimony ", "witness "], "A": ["concealment ", "denial ", "hiding "]}
+{"index": 150926, "D": [], "S": ["clue", "confirmation", "data", "deposition", "documentation", "indication", "information", "sign", "testimony", "witness"], "A": ["concealment", "denial", "hiding"]}

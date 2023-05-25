@@ -1,1 +1,1 @@
-{"index": 95753, "D": "a building, especially one of large size or imposing appearance.", "S": ["monument ", "skyscraper "], "A": []}
+{"index": 95753, "D": "a building, especially one of large size or imposing appearance.", "S": ["monument", "skyscraper"], "A": []}

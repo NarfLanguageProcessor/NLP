@@ -1,1 +1,0 @@
-{"index": 235842, "D": "a very small Argentine armadillo, Chlamyphorus truncatus, with white silky hair and pale pink plates on the head and back", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 331419, "D": "any of various tools having a flat blade with a handle, used for depositing and working mortar, plaster, etc.", "S": ["scoop "], "A": []}
+{"index": 331419, "D": "any of various tools having a flat blade with a handle, used for depositing and working mortar, plaster, etc.", "S": ["scoop"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 29554, "D": "like a bear; rough, burly, or clumsy.", "S": ["bearish market ", "declining market "], "A": []}
+{"index": 29554, "D": "like a bear; rough, burly, or clumsy.", "S": ["bearish market", "declining market"], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24024, "D": "a type of heterodyne circuit containing a vacuum tube or transistor that acts simultaneously as a detector and oscillator.", "S": [], "A": []}

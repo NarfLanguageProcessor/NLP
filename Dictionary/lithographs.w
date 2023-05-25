@@ -1,1 +1,1 @@
-{"index": 173707, "D": "a print produced by lithography. ", "S": ["etching ", "illustration ", "inscription ", "woodcut "], "A": []}
+{"index": 173707, "D": "a print produced by lithography. ", "S": ["etching", "illustration", "inscription", "woodcut"], "A": []}

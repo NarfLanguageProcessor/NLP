@@ -1,1 +1,1 @@
-{"index": 222578, "D": "pacesetter. ", "S": ["favorite ", "shoo-in "], "A": []}
+{"index": 222578, "D": "pacesetter. ", "S": ["favorite", "shoo-in"], "A": []}

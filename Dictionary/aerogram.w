@@ -1,1 +1,1 @@
-{"index": 5023, "D": "a radiogram.", "S": ["aerogramme ", "airgraph ", "airmail letter "], "A": []}
+{"index": 5023, "D": "a radiogram.", "S": ["aerogramme", "airgraph", "airmail letter"], "A": []}

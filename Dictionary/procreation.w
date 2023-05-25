@@ -1,1 +1,1 @@
-{"index": 251371, "D": "the act or process of begetting offspring", "S": ["propagation "], "A": []}
+{"index": 251371, "D": "the act or process of begetting offspring", "S": ["propagation"], "A": []}

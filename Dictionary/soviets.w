@@ -1,1 +1,1 @@
-{"index": 298077, "D": "the people or government of the former Soviet Union", "S": ["assembly ", "chamber of deputies ", "congress ", "diet ", "general assembly ", "house of assembly ", "legislative assembly ", "parliament "], "A": []}
+{"index": 298077, "D": "the people or government of the former Soviet Union", "S": ["assembly", "chamber of deputies", "congress", "diet", "general assembly", "house of assembly", "legislative assembly", "parliament"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 67337, "D": "living or occurring during the same period of time; contemporary. ", "S": ["harmony ", "peace "], "A": ["disagreement ", "fighting ", "difference ", "refusal "]}
+{"index": 67337, "D": "living or occurring during the same period of time; contemporary. ", "S": ["harmony", "peace"], "A": ["disagreement", "fighting", "difference", "refusal"]}

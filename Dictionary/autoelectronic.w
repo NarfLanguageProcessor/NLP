@@ -1,0 +1,1 @@
+{"index": 24040, "D": [], "S": ["computerized"], "A": []}

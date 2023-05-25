@@ -1,1 +1,1 @@
-{"index": 352376, "D": "not soiled, untarnished", "S": ["unblemished "], "A": ["sullied ", "tarnished "]}
+{"index": 352376, "D": "not soiled, untarnished", "S": ["unblemished"], "A": ["sullied", "tarnished"]}

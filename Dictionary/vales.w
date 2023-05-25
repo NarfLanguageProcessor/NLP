@@ -1,1 +1,1 @@
-{"index": 356681, "D": "a valley. ", "S": ["adieu ", "dale ", "dell ", "dingle ", "farewell ", "glen "], "A": []}
+{"index": 356681, "D": "a valley. ", "S": ["adieu", "dale", "dell", "dingle", "farewell", "glen"], "A": []}

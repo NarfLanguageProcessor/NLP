@@ -1,1 +1,1 @@
-{"index": 249927, "D": "to let pass without notice; disregard.", "S": ["void "], "A": ["fullness ", "solid "]}
+{"index": 249927, "D": "to let pass without notice; disregard.", "S": ["void"], "A": ["fullness", "solid"]}

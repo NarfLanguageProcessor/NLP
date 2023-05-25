@@ -1,1 +1,1 @@
-{"index": 69287, "D": "a valved wind instrument of the trumpet family.", "S": ["horn ", "trumpet "], "A": []}
+{"index": 69287, "D": "a valved wind instrument of the trumpet family.", "S": ["horn", "trumpet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 363383, "D": "curving alternately in opposite directions; undulating", "S": ["fluctuation ", "roll ", "sway "], "A": []}
+{"index": 363383, "D": "curving alternately in opposite directions; undulating", "S": ["fluctuation", "roll", "sway"], "A": []}

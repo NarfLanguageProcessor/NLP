@@ -1,1 +1,1 @@
-{"index": 251102, "D": "the trunk of an elephant.", "S": ["beak ", "organ ", "snoot ", "snout ", "trunk "], "A": []}
+{"index": 251102, "D": "the trunk of an elephant.", "S": ["beak", "organ", "snoot", "snout", "trunk"], "A": []}

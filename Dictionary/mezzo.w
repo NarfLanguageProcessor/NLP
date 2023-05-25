@@ -1,1 +1,1 @@
-{"index": 185592, "D": "middle; medium; half.", "S": ["intermediate "], "A": ["exterior ", "extreme ", "outside "]}
+{"index": 185592, "D": "middle; medium; half.", "S": ["intermediate"], "A": ["exterior", "extreme", "outside"]}

@@ -1,1 +1,1 @@
-{"index": 63603, "D": "a state of prolonged unconsciousness, including a lack of response to stimuli, from which it is impossible to rouse a person.", "S": ["oblivion ", "slumber ", "stupor ", "trance "], "A": ["consciousness ", "liveliness "]}
+{"index": 63603, "D": "a state of prolonged unconsciousness, including a lack of response to stimuli, from which it is impossible to rouse a person.", "S": ["oblivion", "slumber", "stupor", "trance"], "A": ["consciousness", "liveliness"]}

@@ -1,1 +1,1 @@
-{"index": 354807, "D": "improved, as in mood or spirit.", "S": ["raised "], "A": ["dwarfed ", "little ", "low ", "short ", "small "]}
+{"index": 354807, "D": "improved, as in mood or spirit.", "S": ["raised"], "A": ["dwarfed", "little", "low", "short", "small"]}

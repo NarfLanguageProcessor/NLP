@@ -1,1 +1,1 @@
-{"index": 286690, "D": "a person or thing that settles. ", "S": ["colonist ", "immigrant ", "pilgrim "], "A": []}
+{"index": 286690, "D": "a person or thing that settles. ", "S": ["colonist", "immigrant", "pilgrim"], "A": []}

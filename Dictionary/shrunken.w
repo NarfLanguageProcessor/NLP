@@ -1,1 +1,1 @@
-{"index": 289304, "D": "a past participle of shrink. ", "S": ["contracted ", "diminished ", "dry ", "dwindled ", "shriveled ", "wilted ", "withered ", "wrinkled "], "A": []}
+{"index": 289304, "D": "a past participle of shrink. ", "S": ["contracted", "diminished", "dry", "dwindled", "shriveled", "wilted", "withered", "wrinkled"], "A": []}

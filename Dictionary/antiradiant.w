@@ -1,0 +1,1 @@
+{"index": 16032, "D": "emitting rays of light; shining; bright", "S": [], "A": []}

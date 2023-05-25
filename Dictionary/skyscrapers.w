@@ -1,1 +1,1 @@
-{"index": 293374, "D": "a relatively tall building of many stories, especially one for office or commercial use.", "S": ["high-rise "], "A": []}
+{"index": 293374, "D": "a relatively tall building of many stories, especially one for office or commercial use.", "S": ["high-rise"], "A": []}

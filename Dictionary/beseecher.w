@@ -1,1 +1,1 @@
-{"index": 32289, "D": "to implore urgently", "S": ["beggar ", "petitioner ", "seeker ", "solicitor ", "suitor "], "A": []}
+{"index": 32289, "D": "to implore urgently", "S": ["beggar", "petitioner", "seeker", "solicitor", "suitor"], "A": []}

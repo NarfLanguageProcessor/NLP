@@ -1,1 +1,1 @@
-{"index": 35959, "D": "bare, desolate, and often windswept", "S": ["austere ", "chilly ", "cold ", "desolate ", "dreary ", "grim "], "A": ["bright ", "cheerful ", "friendly ", "happy ", "hot ", "sympathetic ", "warm "]}
+{"index": 35959, "D": "bare, desolate, and often windswept", "S": ["austere", "chilly", "cold", "desolate", "dreary", "grim"], "A": ["bright", "cheerful", "friendly", "happy", "hot", "sympathetic", "warm"]}

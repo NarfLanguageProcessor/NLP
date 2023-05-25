@@ -1,1 +1,1 @@
-{"index": 171812, "D": [], "S": ["chant ", "ditty ", "oratorio ", "paean ", "psalm "], "A": []}
+{"index": 171812, "D": [], "S": ["chant", "ditty", "oratorio", "paean", "psalm"], "A": []}

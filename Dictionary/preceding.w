@@ -1,1 +1,1 @@
-{"index": 245984, "D": "that precedes;  previous", "S": ["introductory ", "previous ", "prior "], "A": ["later ", "back ", "inferior ", "last ", "unimportant "]}
+{"index": 245984, "D": "that precedes;  previous", "S": ["introductory", "previous", "prior"], "A": ["later", "back", "inferior", "last", "unimportant"]}

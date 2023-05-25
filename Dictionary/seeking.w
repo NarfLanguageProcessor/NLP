@@ -1,1 +1,1 @@
-{"index": 283118, "D": "to go in search or quest of", "S": ["searching "], "A": []}
+{"index": 283118, "D": "to go in search or quest of", "S": ["searching"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 294471, "D": "a person who makes slow  progress.", "S": ["dawdler ", "idler ", "plodder ", "procrastinator ", "slug ", "sluggard ", "snail ", "straggler "], "A": []}
+{"index": 294471, "D": "a person who makes slow  progress.", "S": ["dawdler", "idler", "plodder", "procrastinator", "slug", "sluggard", "snail", "straggler"], "A": []}

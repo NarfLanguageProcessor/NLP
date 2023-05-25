@@ -1,1 +1,1 @@
-{"index": 294629, "D": "partly melted snow.", "S": ["mud "], "A": []}
+{"index": 294629, "D": "partly melted snow.", "S": ["mud"], "A": []}

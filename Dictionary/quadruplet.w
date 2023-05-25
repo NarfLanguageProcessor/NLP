@@ -1,1 +1,1 @@
-{"index": 257732, "D": "any group or combination of four.", "S": ["quadrivium ", "quadrumvirate ", "quadruple ", "quadruplets ", "quartet ", "quartette ", "quaternary ", "quaternion ", "quaternity ", "tetrad ", "tetralogy "], "A": []}
+{"index": 257732, "D": "any group or combination of four.", "S": ["quadrivium", "quadrumvirate", "quadruple", "quadruplets", "quartet", "quartette", "quaternary", "quaternion", "quaternity", "tetrad", "tetralogy"], "A": []}

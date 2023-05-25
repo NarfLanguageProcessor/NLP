@@ -1,1 +1,1 @@
-{"index": 308286, "D": "that which forms a basic matter of thought, discussion, investigation, etc.", "S": ["exact ", "expose ", "levy ", "wreak "], "A": ["hold ", "keep ", "take ", "withhold "]}
+{"index": 308286, "D": "that which forms a basic matter of thought, discussion, investigation, etc.", "S": ["exact", "expose", "levy", "wreak"], "A": ["hold", "keep", "take", "withhold"]}

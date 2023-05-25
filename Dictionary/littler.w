@@ -1,1 +1,1 @@
-{"index": 173881, "D": "not standard the comparative of little", "S": ["insufficient ", "limited ", "meager ", "scant ", "slight "], "A": ["adequate ", "big ", "fat ", "large ", "sufficient ", "giant ", "huge ", "lengthy ", "long ", "older ", "substantial ", "tall "]}
+{"index": 173881, "D": "not standard the comparative of little", "S": ["insufficient", "limited", "meager", "scant", "slight"], "A": ["adequate", "big", "fat", "large", "sufficient", "giant", "huge", "lengthy", "long", "older", "substantial", "tall"]}

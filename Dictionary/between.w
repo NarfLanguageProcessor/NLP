@@ -1,1 +1,1 @@
-{"index": 32867, "D": "in the space separating (two points, objects, etc.)", "S": ["betwixt "], "A": []}
+{"index": 32867, "D": "in the space separating (two points, objects, etc.)", "S": ["betwixt"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 171832, "D": "the legal claim of one person upon the property of another person to secure the payment of a debt or the satisfaction of an obligation.", "S": [], "A": []}

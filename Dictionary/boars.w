@@ -1,1 +1,1 @@
-{"index": 36959, "D": "the uncastrated male swine.", "S": ["pig ", "piglet ", "swine "], "A": []}
+{"index": 36959, "D": "the uncastrated male swine.", "S": ["pig", "piglet", "swine"], "A": []}

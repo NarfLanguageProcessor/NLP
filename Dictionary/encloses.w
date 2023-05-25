@@ -1,1 +1,1 @@
-{"index": 99410, "D": "to shut or hem in; close in on all sides", "S": ["block off ", "encase ", "encircle ", "encompass ", "hem in ", "insert ", "wrap "], "A": ["exclude ", "face ", "free ", "let go ", "liberate ", "meet ", "reject ", "release ", "reveal ", "set free "]}
+{"index": 99410, "D": "to shut or hem in; close in on all sides", "S": ["block off", "encase", "encircle", "encompass", "hem in", "insert", "wrap"], "A": ["exclude", "face", "free", "let go", "liberate", "meet", "reject", "release", "reveal", "set free"]}

@@ -1,1 +1,1 @@
-{"index": 129595, "D": "a person charged with the care and maintenance of a golf course.", "S": ["grower ", "horticulturist "], "A": []}
+{"index": 129595, "D": "a person charged with the care and maintenance of a golf course.", "S": ["grower", "horticulturist"], "A": []}

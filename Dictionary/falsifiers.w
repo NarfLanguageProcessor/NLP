@@ -1,1 +1,1 @@
-{"index": 109548, "D": "to make false  or incorrect, especially so as to deceive", "S": ["fabricator ", "fabulist ", "fibber ", "prevaricator ", "storyteller "], "A": []}
+{"index": 109548, "D": "to make false  or incorrect, especially so as to deceive", "S": ["fabricator", "fabulist", "fibber", "prevaricator", "storyteller"], "A": []}

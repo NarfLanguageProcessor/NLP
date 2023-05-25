@@ -1,1 +1,1 @@
-{"index": 275429, "D": "having wrinkles; wrinkled; ridged.", "S": ["bend ", "bulge ", "cockle ", "corrugation ", "furrow ", "groove ", "line ", "overlap ", "pleat ", "plica ", "pucker ", "ridge ", "ruck ", "tuck "], "A": []}
+{"index": 275429, "D": "having wrinkles; wrinkled; ridged.", "S": ["bend", "bulge", "cockle", "corrugation", "furrow", "groove", "line", "overlap", "pleat", "plica", "pucker", "ridge", "ruck", "tuck"], "A": []}

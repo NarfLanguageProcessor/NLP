@@ -1,1 +1,1 @@
-{"index": 120284, "D": "rotten; moldy.", "S": ["stink "], "A": []}
+{"index": 120284, "D": "rotten; moldy.", "S": ["stink"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 119213, "D": "to form into small, crisp curls; frizz.", "S": ["browned ", "sauteed "], "A": []}
+{"index": 119213, "D": "to form into small, crisp curls; frizz.", "S": ["browned", "sauteed"], "A": []}

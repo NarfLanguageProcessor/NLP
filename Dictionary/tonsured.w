@@ -1,1 +1,1 @@
-{"index": 325673, "D": "the act of cutting the hair or shaving the head.", "S": ["bald ", "clean-shaven "], "A": ["furry ", "hairy ", "hirsute "]}
+{"index": 325673, "D": "the act of cutting the hair or shaving the head.", "S": ["bald", "clean-shaven"], "A": ["furry", "hairy", "hirsute"]}

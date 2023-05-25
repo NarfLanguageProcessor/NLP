@@ -1,1 +1,1 @@
-{"index": 110032, "D": "a blacksmith.", "S": ["anvil ", "horseshoer ", "plover ", "smithy "], "A": []}
+{"index": 110032, "D": "a blacksmith.", "S": ["anvil", "horseshoer", "plover", "smithy"], "A": []}

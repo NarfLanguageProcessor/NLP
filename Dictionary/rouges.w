@@ -1,1 +1,1 @@
-{"index": 274751, "D": "any of various red cosmetics for coloring the cheeks or lips.", "S": ["cosmetic ", "dye ", "makeup ", "paint ", "red "], "A": []}
+{"index": 274751, "D": "any of various red cosmetics for coloring the cheeks or lips.", "S": ["cosmetic", "dye", "makeup", "paint", "red"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 238959, "D": "resounding loudly, especially with a plaintive sound, as a bell.", "S": ["fullness ", "sonority ", "vibration "], "A": []}
+{"index": 238959, "D": "resounding loudly, especially with a plaintive sound, as a bell.", "S": ["fullness", "sonority", "vibration"], "A": []}

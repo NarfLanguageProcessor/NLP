@@ -1,1 +1,1 @@
-{"index": 191015, "D": "showing ridicule, contempt, or derision", "S": ["derisive ", "sarcastic "], "A": []}
+{"index": 191015, "D": "showing ridicule, contempt, or derision", "S": ["derisive", "sarcastic"], "A": []}

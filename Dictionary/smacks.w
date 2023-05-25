@@ -1,1 +1,1 @@
-{"index": 294670, "D": "a taste or flavor, especially a slight flavor distinctive or suggestive of something", "S": ["bang ", "squarely "], "A": ["indirectly "]}
+{"index": 294670, "D": "a taste or flavor, especially a slight flavor distinctive or suggestive of something", "S": ["bang", "squarely"], "A": ["indirectly"]}

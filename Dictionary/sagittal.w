@@ -1,1 +1,1 @@
-{"index": 276686, "D": "(in direction or location) from front to back in the median plane or in a plane parallel to the median.", "S": ["barbed ", "sharp "], "A": ["blunt ", "dull "]}
+{"index": 276686, "D": "(in direction or location) from front to back in the median plane or in a plane parallel to the median.", "S": ["barbed", "sharp"], "A": ["blunt", "dull"]}

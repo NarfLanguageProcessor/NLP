@@ -1,1 +1,1 @@
-{"index": 53339, "D": "a game for two players using a checkerboard and 12 checkers each. The object is to jump over and capture the opponent's pieces", "S": ["appraiser ", "auditor ", "inspector ", "investigator "], "A": []}
+{"index": 53339, "D": "a game for two players using a checkerboard and 12 checkers each. The object is to jump over and capture the opponent's pieces", "S": ["appraiser", "auditor", "inspector", "investigator"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 175743, "D": "a substance, as oil or grease, for lessening friction, especially in the working parts of a mechanism.", "S": ["coating "], "A": []}
+{"index": 175743, "D": "a substance, as oil or grease, for lessening friction, especially in the working parts of a mechanism.", "S": ["coating"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 321902, "D": "rational; reasoning", "S": ["reasoning "], "A": ["brainless ", "dumb ", "irrational ", "stupid ", "unintelligent ", "vacuous "]}
+{"index": 321902, "D": "rational; reasoning", "S": ["reasoning"], "A": ["brainless", "dumb", "irrational", "stupid", "unintelligent", "vacuous"]}

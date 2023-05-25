@@ -1,1 +1,1 @@
-{"index": 165684, "D": "an interlacing, twining, looping, etc., of a cord, rope, or the like, drawn tight into a knob or lump, for fastening, binding, or connecting two cords together or a cord to something else.", "S": ["screw ", "tangle "], "A": []}
+{"index": 165684, "D": "an interlacing, twining, looping, etc., of a cord, rope, or the like, drawn tight into a knob or lump, for fastening, binding, or connecting two cords together or a cord to something else.", "S": ["screw", "tangle"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 294783, "D": "showing smears; smeared. ", "S": ["buttery ", "creamy ", "oiled ", "slippery ", "waxy "], "A": ["dry ", "hateful "]}
+{"index": 294783, "D": "showing smears; smeared. ", "S": ["buttery", "creamy", "oiled", "slippery", "waxy"], "A": ["dry", "hateful"]}

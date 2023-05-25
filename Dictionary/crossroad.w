@@ -1,1 +1,1 @@
-{"index": 73866, "D": "a road that crosses another road, or one that runs transversely to main roads.", "S": ["intersection "], "A": []}
+{"index": 73866, "D": "a road that crosses another road, or one that runs transversely to main roads.", "S": ["intersection"], "A": []}

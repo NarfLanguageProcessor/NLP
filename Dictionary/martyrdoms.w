@@ -1,1 +1,1 @@
-{"index": 180531, "D": "the condition, sufferings, or death of a martyr. ", "S": ["persecution "], "A": ["comfort ", "contentment ", "happiness ", "health ", "joy ", "pleasure ", "relief "]}
+{"index": 180531, "D": "the condition, sufferings, or death of a martyr. ", "S": ["persecution"], "A": ["comfort", "contentment", "happiness", "health", "joy", "pleasure", "relief"]}

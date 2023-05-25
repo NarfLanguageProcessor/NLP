@@ -1,1 +1,1 @@
-{"index": 258899, "D": "the pure and concentrated essence of a substance.", "S": ["apotheosis "], "A": ["exteriority ", "outside "]}
+{"index": 258899, "D": "the pure and concentrated essence of a substance.", "S": ["apotheosis"], "A": ["exteriority", "outside"]}

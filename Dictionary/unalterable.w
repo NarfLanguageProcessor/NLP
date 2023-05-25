@@ -1,1 +1,1 @@
-{"index": 334860, "D": "not capable of being altered, changed, or modified.", "S": ["inalterable "], "A": ["alterable "]}
+{"index": 334860, "D": "not capable of being altered, changed, or modified.", "S": ["inalterable"], "A": ["alterable"]}

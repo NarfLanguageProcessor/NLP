@@ -1,1 +1,1 @@
-{"index": 233965, "D": "to speculate or theorize, usually in a superficial or imprecise manner.", "S": ["contemplate ", "deliberate ", "examine ", "theorize ", "think ", "weigh "], "A": ["disregard ", "forget ", "ignore ", "neglect "]}
+{"index": 233965, "D": "to speculate or theorize, usually in a superficial or imprecise manner.", "S": ["contemplate", "deliberate", "examine", "theorize", "think", "weigh"], "A": ["disregard", "forget", "ignore", "neglect"]}

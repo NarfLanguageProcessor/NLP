@@ -1,1 +1,1 @@
-{"index": 275665, "D": "a cask for wine, beer, etc", "S": ["bourn ", "brook ", "channel ", "creek ", "rill ", "river ", "runnel ", "stream ", "streamlet "], "A": []}
+{"index": 275665, "D": "a cask for wine, beer, etc", "S": ["bourn", "brook", "channel", "creek", "rill", "river", "runnel", "stream", "streamlet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 63004, "D": "a ship for carrying coal.", "S": ["prospector "], "A": []}
+{"index": 63004, "D": "a ship for carrying coal.", "S": ["prospector"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 24729, "D": "of or relating to birds.", "S": ["aerial ", "floating ", "soaring "], "A": []}
+{"index": 24729, "D": "of or relating to birds.", "S": ["aerial", "floating", "soaring"], "A": []}

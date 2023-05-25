@@ -1,1 +1,1 @@
-{"index": 256093, "D": "undue or exaggerated praise.", "S": ["hype ", "praise ", "publicity "], "A": []}
+{"index": 256093, "D": "undue or exaggerated praise.", "S": ["hype", "praise", "publicity"], "A": []}

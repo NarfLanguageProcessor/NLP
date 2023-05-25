@@ -1,1 +1,1 @@
-{"index": 363067, "D": "vigilant or alert; closely observant", "S": ["attentive ", "careful ", "cautious ", "observant ", "suspicious ", "vigilant ", "wary "], "A": ["careless ", "heedless ", "inattentive ", "incautious ", "indiscreet ", "rash ", "thoughtless ", "uncareful ", "unobservant "]}
+{"index": 363067, "D": "vigilant or alert; closely observant", "S": ["attentive", "careful", "cautious", "observant", "suspicious", "vigilant", "wary"], "A": ["careless", "heedless", "inattentive", "incautious", "indiscreet", "rash", "thoughtless", "uncareful", "unobservant"]}

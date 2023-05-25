@@ -1,1 +1,1 @@
-{"index": 87166, "D": "the inability or refusal to believe or to accept something as true.", "S": ["distrust ", "incredulity ", "mistrust "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust ", "ratification "]}
+{"index": 87166, "D": "the inability or refusal to believe or to accept something as true.", "S": ["distrust", "incredulity", "mistrust"], "A": ["belief", "certainty", "confidence", "faith", "trust", "ratification"]}

@@ -1,1 +1,1 @@
-{"index": 365253, "D": "the act of a person who whittles. ", "S": ["diminish ", "erode ", "lessen ", "pare ", "shave ", "trim "], "A": ["develop ", "enlarge ", "extend ", "increase ", "destroy ", "neglect "]}
+{"index": 365253, "D": "the act of a person who whittles. ", "S": ["diminish", "erode", "lessen", "pare", "shave", "trim"], "A": ["develop", "enlarge", "extend", "increase", "destroy", "neglect"]}

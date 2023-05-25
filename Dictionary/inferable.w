@@ -1,1 +1,1 @@
-{"index": 151909, "D": "to derive by reasoning; conclude or judge from premises or evidence", "S": ["ensuing ", "indirect ", "subsequent "], "A": ["beginning ", "causal ", "commencing ", "originating ", "preparatory ", "starting "]}
+{"index": 151909, "D": "to derive by reasoning; conclude or judge from premises or evidence", "S": ["ensuing", "indirect", "subsequent"], "A": ["beginning", "causal", "commencing", "originating", "preparatory", "starting"]}

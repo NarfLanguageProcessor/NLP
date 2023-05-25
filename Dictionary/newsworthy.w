@@ -1,1 +1,1 @@
-{"index": 199489, "D": "of sufficient interest to the public or a special audience to warrant press attention or coverage.", "S": ["consequential ", "front-page ", "meaningful ", "momentous ", "relevant "], "A": ["insignificant ", "unimportant "]}
+{"index": 199489, "D": "of sufficient interest to the public or a special audience to warrant press attention or coverage.", "S": ["consequential", "front-page", "meaningful", "momentous", "relevant"], "A": ["insignificant", "unimportant"]}

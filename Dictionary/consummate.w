@@ -1,1 +1,1 @@
-{"index": 67203, "D": "to bring to a state of perfection; fulfill.", "S": ["accomplished ", "gifted ", "polished ", "skilled ", "superb ", "superlative ", "talented "], "A": ["inept ", "poor ", "imperfect ", "incomplete ", "unfinished "]}
+{"index": 67203, "D": "to bring to a state of perfection; fulfill.", "S": ["accomplished", "gifted", "polished", "skilled", "superb", "superlative", "talented"], "A": ["inept", "poor", "imperfect", "incomplete", "unfinished"]}

@@ -1,1 +1,1 @@
-{"index": 115070, "D": "the study of the distribution, number, types, and relationships of plant species in an area or areas.", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "pathology ", "physiology ", "phytology ", "pomology ", "taxonomy "], "A": []}
+{"index": 115070, "D": "the study of the distribution, number, types, and relationships of plant species in an area or areas.", "S": ["anatomy", "cytology", "ecology", "genetics", "horticulture", "morphology", "pathology", "physiology", "phytology", "pomology", "taxonomy"], "A": []}

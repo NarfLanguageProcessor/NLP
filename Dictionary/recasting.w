@@ -1,1 +1,1 @@
-{"index": 262642, "D": "to cast  again or anew.", "S": ["adapt ", "adjust ", "correct ", "customize ", "repair ", "reshape ", "revise ", "rework ", "tweak ", "vary "], "A": ["disarrange ", "disorder ", "remain ", "spoil ", "stay ", "unfit ", "hurt "]}
+{"index": 262642, "D": "to cast  again or anew.", "S": ["adapt", "adjust", "correct", "customize", "repair", "reshape", "revise", "rework", "tweak", "vary"], "A": ["disarrange", "disorder", "remain", "spoil", "stay", "unfit", "hurt"]}

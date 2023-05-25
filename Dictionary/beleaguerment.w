@@ -1,1 +1,1 @@
-{"index": 31021, "D": [], "S": ["besiegement ", "besieging ", "blockade ", "bombardment "], "A": []}
+{"index": 31021, "D": [], "S": ["besiegement", "besieging", "blockade", "bombardment"], "A": []}

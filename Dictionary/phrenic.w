@@ -1,1 +1,1 @@
-{"index": 235541, "D": "of or relating to the diaphragm.", "S": ["cerebral ", "creative ", "highbrow ", "mental ", "psychological ", "rational ", "scholarly ", "thoughtful "], "A": ["body ", "physical "]}
+{"index": 235541, "D": "of or relating to the diaphragm.", "S": ["cerebral", "creative", "highbrow", "mental", "psychological", "rational", "scholarly", "thoughtful"], "A": ["body", "physical"]}

@@ -1,1 +1,1 @@
-{"index": 161238, "D": "(of a lover or spouse) rejected or cast aside, especially abruptly or heartlessly", "S": ["neglected "], "A": ["cherished "]}
+{"index": 161238, "D": "(of a lover or spouse) rejected or cast aside, especially abruptly or heartlessly", "S": ["neglected"], "A": ["cherished"]}

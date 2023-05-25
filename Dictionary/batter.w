@@ -1,1 +1,1 @@
-{"index": 29106, "D": "to beat persistently or hard; pound repeatedly.", "S": ["dough "], "A": ["ingredient "]}
+{"index": 29106, "D": "to beat persistently or hard; pound repeatedly.", "S": ["dough"], "A": ["ingredient"]}

@@ -1,1 +1,1 @@
-{"index": 348000, "D": "an unplanned baby", "S": ["accidental ", "haphazard ", "impromptu ", "random ", "spontaneous ", "unexpected ", "unintended ", "unintentional "], "A": ["deliberate ", "designed ", "intended ", "intentional ", "methodical ", "planned ", "premeditated ", "systematic "]}
+{"index": 348000, "D": "an unplanned baby", "S": ["accidental", "haphazard", "impromptu", "random", "spontaneous", "unexpected", "unintended", "unintentional"], "A": ["deliberate", "designed", "intended", "intentional", "methodical", "planned", "premeditated", "systematic"]}

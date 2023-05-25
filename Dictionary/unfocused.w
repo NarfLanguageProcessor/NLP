@@ -1,1 +1,1 @@
-{"index": 342448, "D": "not brought into focus; lacking proper focus", "S": ["blurred ", "dim ", "distorted ", "faint ", "foggy ", "hazy ", "misty ", "murky ", "obscure ", "unclear ", "vague "], "A": ["bright ", "clear ", "definite ", "distinct "]}
+{"index": 342448, "D": "not brought into focus; lacking proper focus", "S": ["blurred", "dim", "distorted", "faint", "foggy", "hazy", "misty", "murky", "obscure", "unclear", "vague"], "A": ["bright", "clear", "definite", "distinct"]}

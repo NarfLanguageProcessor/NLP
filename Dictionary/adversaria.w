@@ -1,1 +1,1 @@
-{"index": 4640, "D": [], "S": ["diary ", "journal ", "memo book ", "memorandum book "], "A": []}
+{"index": 4640, "D": [], "S": ["diary", "journal", "memo book", "memorandum book"], "A": []}

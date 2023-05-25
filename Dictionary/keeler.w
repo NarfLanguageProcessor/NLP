@@ -1,1 +1,1 @@
-{"index": 163548, "D": "U.S. baseball player.", "S": ["bucket "], "A": []}
+{"index": 163548, "D": "U.S. baseball player.", "S": ["bucket"], "A": []}

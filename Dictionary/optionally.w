@@ -1,1 +1,0 @@
-{"index": 213849, "D": "left to one's choice; not required or mandatory", "S": ["avoidably ", "unessentially ", "uselessly "], "A": ["indispensably ", "necessarily "]}

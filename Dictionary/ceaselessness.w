@@ -1,1 +1,1 @@
-{"index": 50306, "D": "without stop or pause; unending; incessant.", "S": ["continuousness ", "eternity ", "everlastingness ", "incessantness ", "perpetuity "], "A": []}
+{"index": 50306, "D": "without stop or pause; unending; incessant.", "S": ["continuousness", "eternity", "everlastingness", "incessantness", "perpetuity"], "A": []}

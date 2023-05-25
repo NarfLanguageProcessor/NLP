@@ -1,1 +1,1 @@
-{"index": 90099, "D": "a trembling; vibration.", "S": ["agitation ", "babble ", "confusion ", "flap ", "fluster ", "panic ", "tizzy "], "A": ["calm ", "peace ", "sense "]}
+{"index": 90099, "D": "a trembling; vibration.", "S": ["agitation", "babble", "confusion", "flap", "fluster", "panic", "tizzy"], "A": ["calm", "peace", "sense"]}

@@ -1,1 +1,1 @@
-{"index": 93022, "D": "to fall or flow in drops or small quantities; trickle.", "S": ["drizzle ", "ooze ", "squirt "], "A": ["pour "]}
+{"index": 93022, "D": "to fall or flow in drops or small quantities; trickle.", "S": ["drizzle", "ooze", "squirt"], "A": ["pour"]}

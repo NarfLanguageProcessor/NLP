@@ -1,1 +1,1 @@
-{"index": 290591, "D": "the forest trees of a particular area.", "S": ["bosk ", "coppice ", "copse ", "thicket ", "woodland "], "A": []}
+{"index": 290591, "D": "the forest trees of a particular area.", "S": ["bosk", "coppice", "copse", "thicket", "woodland"], "A": []}

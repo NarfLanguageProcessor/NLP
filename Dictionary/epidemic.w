@@ -1,1 +1,1 @@
-{"index": 102347, "D": "Compare pandemic (def. 1). ", "S": ["contagious ", "endemic ", "infectious "], "A": ["limited "]}
+{"index": 102347, "D": "Compare pandemic (def. 1). ", "S": ["contagious", "endemic", "infectious"], "A": ["limited"]}

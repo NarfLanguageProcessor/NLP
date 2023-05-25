@@ -1,1 +1,1 @@
-{"index": 367270, "D": "a worker  in wood,  as a carpenter, joiner, or cabinetmaker.", "S": ["artisan ", "builder ", "cabinetmaker ", "laborer ", "worker "], "A": []}
+{"index": 367270, "D": "a worker  in wood,  as a carpenter, joiner, or cabinetmaker.", "S": ["artisan", "builder", "cabinetmaker", "laborer", "worker"], "A": []}

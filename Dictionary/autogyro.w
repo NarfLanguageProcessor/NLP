@@ -1,0 +1,1 @@
+{"index": 24072, "D": "an aircraft with an unpowered, horizontally rotating propeller on a shaft above the fuselage that provides lift for the machine, with forward propulsion being provided by a conventional propeller", "S": [], "A": []}

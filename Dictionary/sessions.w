@@ -1,1 +1,1 @@
-{"index": 286589, "D": "U.S. composer.", "S": ["conference ", "discussion ", "hearing ", "period ", "term "], "A": []}
+{"index": 286589, "D": "U.S. composer.", "S": ["conference", "discussion", "hearing", "period", "term"], "A": []}

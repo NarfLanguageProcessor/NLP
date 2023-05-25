@@ -1,1 +1,1 @@
-{"index": 227611, "D": "the flat, movable bone at the front of the knee; kneecap.", "S": ["popliteal "], "A": []}
+{"index": 227611, "D": "the flat, movable bone at the front of the knee; kneecap.", "S": ["popliteal"], "A": []}

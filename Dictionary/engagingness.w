@@ -1,1 +1,1 @@
-{"index": 100306, "D": "winning; attractive; pleasing", "S": ["allure ", "charm "], "A": ["denial ", "disavowal ", "disclaimer ", "refusal ", "retraction ", "revocation ", "ugliness "]}
+{"index": 100306, "D": "winning; attractive; pleasing", "S": ["allure", "charm"], "A": ["denial", "disavowal", "disclaimer", "refusal", "retraction", "revocation", "ugliness"]}

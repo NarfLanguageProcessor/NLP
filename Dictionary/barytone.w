@@ -1,0 +1,1 @@
+{"index": 28034, "D": "having the last syllable unaccented.", "S": [], "A": []}

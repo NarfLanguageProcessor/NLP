@@ -1,1 +1,1 @@
-{"index": 224927, "D": "a person who embraces pantheism,  the doctrine that God is the ultimate transcendent, spiritual, impersonal reality of which the material universe and human beings are only manifestations", "S": ["agnostic ", "atheist "], "A": ["believer "]}
+{"index": 224927, "D": "a person who embraces pantheism,  the doctrine that God is the ultimate transcendent, spiritual, impersonal reality of which the material universe and human beings are only manifestations", "S": ["agnostic", "atheist"], "A": ["believer"]}

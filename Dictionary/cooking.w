@@ -1,1 +1,1 @@
-{"index": 68239, "D": "the act of a person or thing that cooks. ", "S": ["baking ", "boiling ", "brewing ", "broiling ", "browning ", "grilling ", "heating ", "roasting ", "simmering ", "sizzling ", "steaming ", "stewing "], "A": []}
+{"index": 68239, "D": "the act of a person or thing that cooks. ", "S": ["baking", "boiling", "brewing", "broiling", "browning", "grilling", "heating", "roasting", "simmering", "sizzling", "steaming", "stewing"], "A": []}

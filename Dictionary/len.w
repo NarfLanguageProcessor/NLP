@@ -1,1 +1,1 @@
-{"index": 170379, "D": "a male given name, form of Leonard. ", "S": ["glass "], "A": []}
+{"index": 170379, "D": "a male given name, form of Leonard. ", "S": ["glass"], "A": []}

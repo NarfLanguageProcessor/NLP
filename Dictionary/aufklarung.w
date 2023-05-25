@@ -1,1 +1,1 @@
-{"index": 23351, "D": "enlightenment. ", "S": ["clarification ", "enlightenment ", "explanation ", "illumination ", "knowledge "], "A": []}
+{"index": 23351, "D": "enlightenment. ", "S": ["clarification", "enlightenment", "explanation", "illumination", "knowledge"], "A": []}

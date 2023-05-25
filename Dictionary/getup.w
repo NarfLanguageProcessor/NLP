@@ -1,1 +1,1 @@
-{"index": 124453, "D": "costume; outfit", "S": ["attire ", "costume ", "duds ", "frock ", "garb ", "gown ", "smock "], "A": []}
+{"index": 124453, "D": "costume; outfit", "S": ["attire", "costume", "duds", "frock", "garb", "gown", "smock"], "A": []}

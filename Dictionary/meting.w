@@ -1,1 +1,0 @@
-{"index": 185326, "D": "to distribute or apportion by measure; allot; dole (usually followed by out)", "S": ["deal ", "divide ", "dole ", "give ", "lot ", "measure ", "parcel ", "portion ", "ration ", "share "], "A": ["collect ", "combine ", "gather ", "hold ", "join ", "keep "]}

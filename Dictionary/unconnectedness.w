@@ -1,1 +1,1 @@
-{"index": 337657, "D": "not connected;  not joined together or attached", "S": ["foul-up ", "mix up "], "A": ["arrangement ", "calm ", "harmony ", "method ", "order ", "orderliness ", "organization ", "system "]}
+{"index": 337657, "D": "not connected;  not joined together or attached", "S": ["foul-up", "mix up"], "A": ["arrangement", "calm", "harmony", "method", "order", "orderliness", "organization", "system"]}

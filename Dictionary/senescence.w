@@ -1,1 +1,1 @@
-{"index": 285257, "D": [], "S": ["agedness ", "decrepitude ", "fatuity ", "imbecility ", "infirmity ", "senility ", "weakness ", "year "], "A": ["strength "]}
+{"index": 285257, "D": [], "S": ["agedness", "decrepitude", "fatuity", "imbecility", "infirmity", "senility", "weakness", "year"], "A": ["strength"]}

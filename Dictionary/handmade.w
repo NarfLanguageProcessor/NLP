@@ -1,1 +1,1 @@
-{"index": 133230, "D": "made  by hand,  rather than by machine", "S": ["homemade "], "A": ["factory-made ", "machine-made ", "manufactured "]}
+{"index": 133230, "D": "made  by hand,  rather than by machine", "S": ["homemade"], "A": ["factory-made", "machine-made", "manufactured"]}

@@ -1,1 +1,1 @@
-{"index": 145192, "D": "the act of a person, animal, or thing that hunts.", "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}
+{"index": 145192, "D": "the act of a person, animal, or thing that hunts.", "S": ["angling", "fishery", "fishing", "shooting"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 133270, "D": "a telephone having a mouthpiece and earpiece mounted at opposite ends of a handle.", "S": ["bug ", "headphone ", "radio ", "telephone ", "television "], "A": ["donor ", "giver "]}
+{"index": 133270, "D": "a telephone having a mouthpiece and earpiece mounted at opposite ends of a handle.", "S": ["bug", "headphone", "radio", "telephone", "television"], "A": ["donor", "giver"]}

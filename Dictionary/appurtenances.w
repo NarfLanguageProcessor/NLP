@@ -1,0 +1,1 @@
+{"index": 18054, "D": "something associated with, accompanying, or belonging to another thing; accessory", "S": ["accouterments", "assets", "chattels", "effects", "gear", "goods", "paraphernalia", "property", "stuff", "things"], "A": []}

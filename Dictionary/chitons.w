@@ -1,1 +1,1 @@
-{"index": 54911, "D": "a mollusk of the class Amphineura, having a mantle covered with calcareous plates, found adhering to rocks.", "S": ["abalone ", "clam ", "snail "], "A": []}
+{"index": 54911, "D": "a mollusk of the class Amphineura, having a mantle covered with calcareous plates, found adhering to rocks.", "S": ["abalone", "clam", "snail"], "A": []}

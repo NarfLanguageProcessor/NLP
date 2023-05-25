@@ -1,1 +1,0 @@
-{"index": 192330, "D": "the practice or condition of having only one wife at a time.", "S": [], "A": []}

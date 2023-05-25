@@ -1,1 +1,1 @@
-{"index": 296432, "D": "an evening party or social gathering, especially one held for a particular purpose", "S": ["banquet ", "barbecue ", "bash ", "feast ", "festivity ", "gala ", "luncheon ", "reception ", "shindig "], "A": ["chore ", "task ", "work "]}
+{"index": 296432, "D": "an evening party or social gathering, especially one held for a particular purpose", "S": ["banquet", "barbecue", "bash", "feast", "festivity", "gala", "luncheon", "reception", "shindig"], "A": ["chore", "task", "work"]}

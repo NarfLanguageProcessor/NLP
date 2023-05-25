@@ -1,1 +1,1 @@
-{"index": 274113, "D": "a person or thing that romps.", "S": ["knickers ", "slacks "], "A": []}
+{"index": 274113, "D": "a person or thing that romps.", "S": ["knickers", "slacks"], "A": []}

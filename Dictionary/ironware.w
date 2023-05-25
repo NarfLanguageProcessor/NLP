@@ -1,1 +1,1 @@
-{"index": 158110, "D": "articles of iron,  as pots, kettles, or tools; hardware.", "S": ["housewares ", "plumbing "], "A": []}
+{"index": 158110, "D": "articles of iron,  as pots, kettles, or tools; hardware.", "S": ["housewares", "plumbing"], "A": []}

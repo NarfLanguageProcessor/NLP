@@ -1,1 +1,1 @@
-{"index": 192356, "D": [], "S": ["argument ", "essay ", "memoir ", "monograph ", "treatise "], "A": ["certainty ", "fact ", "proof ", "reality "]}
+{"index": 192356, "D": [], "S": ["argument", "essay", "memoir", "monograph", "treatise"], "A": ["certainty", "fact", "proof", "reality"]}

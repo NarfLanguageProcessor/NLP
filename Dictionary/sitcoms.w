@@ -1,1 +1,1 @@
-{"index": 292614, "D": "situation comedy. ", "S": ["farce ", "fun ", "humor ", "satire "], "A": ["sadness ", "tragedy ", "seriousness "]}
+{"index": 292614, "D": "situation comedy. ", "S": ["farce", "fun", "humor", "satire"], "A": ["sadness", "tragedy", "seriousness"]}

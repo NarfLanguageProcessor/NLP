@@ -1,1 +1,1 @@
-{"index": 86754, "D": "causing or involving great fear or suffering; dreadful; terrible", "S": ["acute ", "critical ", "desperate ", "drastic ", "extreme "], "A": ["calm ", "mild ", "unimportant "]}
+{"index": 86754, "D": "causing or involving great fear or suffering; dreadful; terrible", "S": ["acute", "critical", "desperate", "drastic", "extreme"], "A": ["calm", "mild", "unimportant"]}

@@ -1,1 +1,1 @@
-{"index": 272577, "D": "likely to fall or collapse; shaky", "S": ["broken ", "decrepit ", "derelict ", "dilapidated ", "flimsy ", "ramshackle ", "shaky ", "wobbly "], "A": ["firm ", "stable ", "steady "]}
+{"index": 272577, "D": "likely to fall or collapse; shaky", "S": ["broken", "decrepit", "derelict", "dilapidated", "flimsy", "ramshackle", "shaky", "wobbly"], "A": ["firm", "stable", "steady"]}

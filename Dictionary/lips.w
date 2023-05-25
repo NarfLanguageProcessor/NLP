@@ -1,1 +1,1 @@
-{"index": 173258, "D": "either of the two fleshy parts or folds forming the margins of the mouth and functioning in speech.", "S": ["box ", "cavity ", "door ", "entrance ", "gate ", "rim "], "A": []}
+{"index": 173258, "D": "either of the two fleshy parts or folds forming the margins of the mouth and functioning in speech.", "S": ["box", "cavity", "door", "entrance", "gate", "rim"], "A": []}

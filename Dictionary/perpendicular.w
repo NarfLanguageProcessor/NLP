@@ -1,1 +1,1 @@
-{"index": 231767, "D": "vertical; straight up and down; upright.", "S": ["crosswise "], "A": []}
+{"index": 231767, "D": "vertical; straight up and down; upright.", "S": ["crosswise"], "A": []}

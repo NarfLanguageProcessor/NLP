@@ -1,1 +1,1 @@
-{"index": 75126, "D": "containing or yielding copper.", "S": ["cupreous ", "cuprous "], "A": []}
+{"index": 75126, "D": "containing or yielding copper.", "S": ["cupreous", "cuprous"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 53042, "D": "a gliding step in which one foot is kept in advance of the other.", "S": ["frame ", "undercarriage "], "A": []}
+{"index": 53042, "D": "a gliding step in which one foot is kept in advance of the other.", "S": ["frame", "undercarriage"], "A": []}

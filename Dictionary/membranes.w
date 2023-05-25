@@ -1,1 +1,1 @@
-{"index": 183132, "D": "a thin, pliable sheet or layer of animal or vegetable tissue, serving to line an organ, connect parts, etc.", "S": ["sheath ", "sheet "], "A": []}
+{"index": 183132, "D": "a thin, pliable sheet or layer of animal or vegetable tissue, serving to line an organ, connect parts, etc.", "S": ["sheath", "sheet"], "A": []}

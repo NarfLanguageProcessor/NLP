@@ -1,1 +1,1 @@
-{"index": 276574, "D": "secure from liability to harm, injury, danger, or risk", "S": ["intact ", "protected ", "secure "], "A": ["insecure ", "unprotected "]}
+{"index": 276574, "D": "secure from liability to harm, injury, danger, or risk", "S": ["intact", "protected", "secure"], "A": ["insecure", "unprotected"]}

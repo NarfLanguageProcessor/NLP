@@ -1,1 +1,1 @@
-{"index": 179404, "D": "having manners  as specified (usually used in combination)", "S": ["pretentious ", "self-conscious ", "stilted "], "A": ["natural ", "unpretentious "]}
+{"index": 179404, "D": "having manners  as specified (usually used in combination)", "S": ["pretentious", "self-conscious", "stilted"], "A": ["natural", "unpretentious"]}

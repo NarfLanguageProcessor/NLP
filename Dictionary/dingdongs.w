@@ -1,1 +1,1 @@
-{"index": 86103, "D": [], "S": ["ass ", "blockhead ", "dolt ", "dummy ", "dunce ", "half-wit ", "idiot ", "ignoramus ", "imbecile ", "jackass ", "lunkhead ", "moron ", "nincompoop ", "ninny ", "nitwit ", "numskull ", "oaf ", "simpleton "], "A": ["brain ", "genius "]}
+{"index": 86103, "D": [], "S": ["ass", "blockhead", "dolt", "dummy", "dunce", "half-wit", "idiot", "ignoramus", "imbecile", "jackass", "lunkhead", "moron", "nincompoop", "ninny", "nitwit", "numskull", "oaf", "simpleton"], "A": ["brain", "genius"]}

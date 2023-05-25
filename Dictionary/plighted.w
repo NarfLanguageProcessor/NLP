@@ -1,1 +1,1 @@
-{"index": 240102, "D": "a condition, state, or situation, especially an unfavorable or unfortunate one", "S": ["affianced ", "betrothed ", "bound ", "committed ", "contracted ", "hooked ", "intended ", "matched ", "pinned ", "pledged ", "ringed ", "steady "], "A": []}
+{"index": 240102, "D": "a condition, state, or situation, especially an unfavorable or unfortunate one", "S": ["affianced", "betrothed", "bound", "committed", "contracted", "hooked", "intended", "matched", "pinned", "pledged", "ringed", "steady"], "A": []}

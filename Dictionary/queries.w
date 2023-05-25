@@ -1,1 +1,1 @@
-{"index": 258371, "D": "the plural of query. ", "S": ["inquiry ", "objection ", "question ", "questioning ", "reservation ", "skepticism "], "A": ["agreement ", "answer ", "reply ", "belief ", "certainty ", "confidence ", "faith ", "trust "]}
+{"index": 258371, "D": "the plural of query. ", "S": ["inquiry", "objection", "question", "questioning", "reservation", "skepticism"], "A": ["agreement", "answer", "reply", "belief", "certainty", "confidence", "faith", "trust"]}

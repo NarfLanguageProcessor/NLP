@@ -1,1 +1,1 @@
-{"index": 292525, "D": "in a focused, consistent, and methodical way", "S": ["consistently ", "methodically ", "regularly "], "A": []}
+{"index": 292525, "D": "in a focused, consistent, and methodical way", "S": ["consistently", "methodically", "regularly"], "A": []}

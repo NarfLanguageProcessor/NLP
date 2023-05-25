@@ -1,1 +1,1 @@
-{"index": 50255, "D": "to prance or caper about.", "S": ["fool around ", "gambol ", "romp "], "A": []}
+{"index": 50255, "D": "to prance or caper about.", "S": ["fool around", "gambol", "romp"], "A": []}

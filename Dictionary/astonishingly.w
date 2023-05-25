@@ -1,1 +1,1 @@
-{"index": 22147, "D": "causing astonishment  or surprise; amazing", "S": ["especially ", "fabulously ", "strangely ", "uncommonly "], "A": ["commonly ", "normally ", "usually "]}
+{"index": 22147, "D": "causing astonishment  or surprise; amazing", "S": ["especially", "fabulously", "strangely", "uncommonly"], "A": ["commonly", "normally", "usually"]}

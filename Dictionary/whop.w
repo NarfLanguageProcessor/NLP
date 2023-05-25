@@ -1,1 +1,0 @@
-{"index": 365346, "D": "to strike forcibly.", "S": ["bump "], "A": ["tap "]}

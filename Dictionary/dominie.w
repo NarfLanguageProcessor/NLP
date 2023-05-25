@@ -1,1 +1,1 @@
-{"index": 91340, "D": "a schoolmaster.", "S": ["assistant ", "clergyman ", "cleric ", "minister ", "pastor ", "priest "], "A": []}
+{"index": 91340, "D": "a schoolmaster.", "S": ["assistant", "clergyman", "cleric", "minister", "pastor", "priest"], "A": []}

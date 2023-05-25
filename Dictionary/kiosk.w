@@ -1,1 +1,1 @@
-{"index": 165012, "D": "a small structure having one or more sides open, used as a newsstand, refreshment stand, bandstand, etc.", "S": ["booth ", "newsstand ", "stall "], "A": []}
+{"index": 165012, "D": "a small structure having one or more sides open, used as a newsstand, refreshment stand, bandstand, etc.", "S": ["booth", "newsstand", "stall"], "A": []}

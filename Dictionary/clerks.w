@@ -1,1 +1,1 @@
-{"index": 59843, "D": "a person employed, as in an office, to keep records, file, type, or perform other general office tasks.", "S": ["agent ", "auditor ", "bookkeeper ", "cashier ", "employee ", "operator ", "receptionist ", "salesperson ", "secretary ", "teller ", "worker "], "A": []}
+{"index": 59843, "D": "a person employed, as in an office, to keep records, file, type, or perform other general office tasks.", "S": ["agent", "auditor", "bookkeeper", "cashier", "employee", "operator", "receptionist", "salesperson", "secretary", "teller", "worker"], "A": []}

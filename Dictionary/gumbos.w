@@ -1,1 +1,1 @@
-{"index": 131256, "D": "a stew or thick soup, usually made with chicken or seafood, greens, and okra  or sometimes fil\u00e9 as a thickener.", "S": ["bouillon ", "chowder ", "porridge ", "puree "], "A": []}
+{"index": 131256, "D": "a stew or thick soup, usually made with chicken or seafood, greens, and okra  or sometimes fil\u00e9 as a thickener.", "S": ["bouillon", "chowder", "porridge", "puree"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 269368, "D": "to dwell permanently or for a considerable time", "S": ["dweller ", "inhabitant ", "occupant "], "A": ["alien ", "foreigner ", "immigrant "]}
+{"index": 269368, "D": "to dwell permanently or for a considerable time", "S": ["dweller", "inhabitant", "occupant"], "A": ["alien", "foreigner", "immigrant"]}

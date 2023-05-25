@@ -1,1 +1,1 @@
-{"index": 92259, "D": "of the nature of or resembling down;  fluffy; soft.", "S": ["bristliness ", "fluffiness ", "hirsuteness ", "pilosity ", "pubescence "], "A": []}
+{"index": 92259, "D": "of the nature of or resembling down;  fluffy; soft.", "S": ["bristliness", "fluffiness", "hirsuteness", "pilosity", "pubescence"], "A": []}

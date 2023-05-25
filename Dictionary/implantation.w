@@ -1,1 +1,1 @@
-{"index": 148733, "D": "the act of implanting.", "S": ["attitude ", "axiom ", "belief ", "concept ", "creed ", "dogma ", "precept ", "proposition ", "regulation ", "rule ", "statement ", "teaching ", "tenet ", "tradition "], "A": ["ambiguity "]}
+{"index": 148733, "D": "the act of implanting.", "S": ["attitude", "axiom", "belief", "concept", "creed", "dogma", "precept", "proposition", "regulation", "rule", "statement", "teaching", "tenet", "tradition"], "A": ["ambiguity"]}

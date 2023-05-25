@@ -1,1 +1,1 @@
-{"index": 83242, "D": "to explode with suddenness and violence.", "S": ["blast ", "blow up ", "burst ", "explode "], "A": ["dismantle "]}
+{"index": 83242, "D": "to explode with suddenness and violence.", "S": ["blast", "blow up", "burst", "explode"], "A": ["dismantle"]}

@@ -1,1 +1,1 @@
-{"index": 19214, "D": "of, relating to, or located at or near the North Pole", "S": ["chill ", "chilly ", "cool ", "freezing "], "A": ["friendly ", "hot ", "responsive ", "sympathetic ", "warm "]}
+{"index": 19214, "D": "of, relating to, or located at or near the North Pole", "S": ["chill", "chilly", "cool", "freezing"], "A": ["friendly", "hot", "responsive", "sympathetic", "warm"]}

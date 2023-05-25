@@ -1,1 +1,1 @@
-{"index": 309172, "D": "serving to assist or supplement; auxiliary; supplementary.", "S": ["distraction ", "diversion ", "hobby ", "moonlighting ", "recreation ", "subsidiary "], "A": ["profession ", "vocation ", "work "]}
+{"index": 309172, "D": "serving to assist or supplement; auxiliary; supplementary.", "S": ["distraction", "diversion", "hobby", "moonlighting", "recreation", "subsidiary"], "A": ["profession", "vocation", "work"]}

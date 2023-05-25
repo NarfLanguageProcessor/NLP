@@ -1,1 +1,0 @@
-{"index": 332338, "D": "of, pertaining to, resembling, or characterized by a tumulus or tumuli.", "S": [], "A": []}

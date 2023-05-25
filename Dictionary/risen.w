@@ -1,1 +1,1 @@
-{"index": 273228, "D": "the past participle of rise", "S": ["climb ", "grow ", "lift ", "move up ", "push up ", "rocket ", "soar ", "surge "], "A": ["descend ", "calm ", "drop ", "fall ", "lull ", "sleep "]}
+{"index": 273228, "D": "the past participle of rise", "S": ["climb", "grow", "lift", "move up", "push up", "rocket", "soar", "surge"], "A": ["descend", "calm", "drop", "fall", "lull", "sleep"]}

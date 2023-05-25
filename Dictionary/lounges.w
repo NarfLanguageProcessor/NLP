@@ -1,1 +1,1 @@
-{"index": 175467, "D": "to pass time idly and indolently.", "S": ["bar ", "lobby ", "parlor ", "pub ", "saloon "], "A": []}
+{"index": 175467, "D": "to pass time idly and indolently.", "S": ["bar", "lobby", "parlor", "pub", "saloon"], "A": []}

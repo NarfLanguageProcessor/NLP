@@ -1,1 +1,1 @@
-{"index": 348563, "D": [], "S": ["amateurish ", "coarse ", "harsh ", "homemade ", "makeshift ", "primitive ", "raw ", "rude ", "rudimentary ", "simple ", "unprocessed "], "A": ["refined ", "smooth ", "sophisticated ", "polished "]}
+{"index": 348563, "D": [], "S": ["amateurish", "coarse", "harsh", "homemade", "makeshift", "primitive", "raw", "rude", "rudimentary", "simple", "unprocessed"], "A": ["refined", "smooth", "sophisticated", "polished"]}

@@ -1,1 +1,1 @@
-{"index": 360259, "D": "a person who has special knowledge or skill in a field.", "S": ["magician ", "musician ", "prodigy "], "A": ["amateur ", "ignoramus ", "imbecile ", "rookie "]}
+{"index": 360259, "D": "a person who has special knowledge or skill in a field.", "S": ["magician", "musician", "prodigy"], "A": ["amateur", "ignoramus", "imbecile", "rookie"]}

@@ -1,1 +1,1 @@
-{"index": 304051, "D": "of, relating to, or noting British money", "S": ["cash ", "hard cash ", "money ", "ready cash ", "sterling "], "A": []}
+{"index": 304051, "D": "of, relating to, or noting British money", "S": ["cash", "hard cash", "money", "ready cash", "sterling"], "A": []}

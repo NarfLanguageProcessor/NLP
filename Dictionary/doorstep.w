@@ -1,1 +1,1 @@
-{"index": 91578, "D": "a step  or one of a series of steps  leading from the ground to a door. ", "S": ["stair "], "A": []}
+{"index": 91578, "D": "a step  or one of a series of steps  leading from the ground to a door. ", "S": ["stair"], "A": []}

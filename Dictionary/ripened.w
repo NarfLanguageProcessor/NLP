@@ -1,1 +1,1 @@
-{"index": 273151, "D": "to make or become ripe. ", "S": ["developed ", "grown ", "grown-up ", "of age ", "ripe "], "A": ["adolescent ", "infant "]}
+{"index": 273151, "D": "to make or become ripe. ", "S": ["developed", "grown", "grown-up", "of age", "ripe"], "A": ["adolescent", "infant"]}

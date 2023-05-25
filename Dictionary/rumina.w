@@ -1,1 +1,1 @@
-{"index": 275529, "D": "the first stomach of ruminating  animals, lying next to the reticulum.", "S": ["bolus ", "chew ", "food ", "quid "], "A": []}
+{"index": 275529, "D": "the first stomach of ruminating  animals, lying next to the reticulum.", "S": ["bolus", "chew", "food", "quid"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 75269, "D": "a means of healing or restoring to health; remedy.", "S": ["physician ", "shaman ", "therapist "], "A": []}
+{"index": 75269, "D": "a means of healing or restoring to health; remedy.", "S": ["physician", "shaman", "therapist"], "A": []}

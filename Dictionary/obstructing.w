@@ -1,1 +1,1 @@
-{"index": 210498, "D": "to block or close up with an obstacle; make difficult to pass", "S": ["in the way ", "obstruent "], "A": []}
+{"index": 210498, "D": "to block or close up with an obstacle; make difficult to pass", "S": ["in the way", "obstruent"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 302287, "D": "Staffordshire", "S": ["cadre ", "crew ", "faculty ", "force ", "organization ", "personnel ", "team ", "work force "], "A": ["incompetence "]}
+{"index": 302287, "D": "Staffordshire", "S": ["cadre", "crew", "faculty", "force", "organization", "personnel", "team", "work force"], "A": ["incompetence"]}

@@ -1,1 +1,1 @@
-{"index": 54667, "D": "to chat idly; gossip.", "S": ["chin fest ", "confab ", "gabfest ", "rap session ", "talk fest "], "A": []}
+{"index": 54667, "D": "to chat idly; gossip.", "S": ["chin fest", "confab", "gabfest", "rap session", "talk fest"], "A": []}

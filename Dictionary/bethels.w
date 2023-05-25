@@ -1,1 +1,1 @@
-{"index": 32724, "D": "a sacred area or sanctuary. Genesis 28", "S": ["church ", "sanctuary ", "shrine "], "A": []}
+{"index": 32724, "D": "a sacred area or sanctuary. Genesis 28", "S": ["church", "sanctuary", "shrine"], "A": []}

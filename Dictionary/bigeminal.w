@@ -1,1 +1,1 @@
-{"index": 33711, "D": [], "S": ["amphibian ", "binary ", "diploid "], "A": []}
+{"index": 33711, "D": [], "S": ["amphibian", "binary", "diploid"], "A": []}

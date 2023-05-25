@@ -1,1 +1,1 @@
-{"index": 178691, "D": "to treat or handle badly, cruelly, or roughly; abuse", "S": ["victimize "], "A": ["aid ", "assist ", "benefit ", "fix ", "help ", "improve ", "mend "]}
+{"index": 178691, "D": "to treat or handle badly, cruelly, or roughly; abuse", "S": ["victimize"], "A": ["aid", "assist", "benefit", "fix", "help", "improve", "mend"]}

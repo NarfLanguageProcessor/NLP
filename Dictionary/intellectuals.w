@@ -1,1 +1,1 @@
-{"index": 154288, "D": "appealing to or engaging the intellect", "S": ["academic ", "academician ", "doctor ", "intelligentsia ", "philosopher ", "pundit ", "scholar ", "thinker "], "A": ["imbecile "]}
+{"index": 154288, "D": "appealing to or engaging the intellect", "S": ["academic", "academician", "doctor", "intelligentsia", "philosopher", "pundit", "scholar", "thinker"], "A": ["imbecile"]}

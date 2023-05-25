@@ -1,1 +1,1 @@
-{"index": 305434, "D": "a person who tells or writes stories or anecdotes.", "S": ["chronicler ", "narrator ", "poet ", "raconteur "], "A": []}
+{"index": 305434, "D": "a person who tells or writes stories or anecdotes.", "S": ["chronicler", "narrator", "poet", "raconteur"], "A": []}

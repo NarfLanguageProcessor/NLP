@@ -1,1 +1,1 @@
-{"index": 114370, "D": "the coat of wool that covers a sheep or a similar animal.", "S": ["cheat ", "defraud ", "gouge ", "overcharge ", "swindle "], "A": ["give ", "offer "]}
+{"index": 114370, "D": "the coat of wool that covers a sheep or a similar animal.", "S": ["cheat", "defraud", "gouge", "overcharge", "swindle"], "A": ["give", "offer"]}

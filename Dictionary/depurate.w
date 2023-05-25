@@ -1,1 +1,1 @@
-{"index": 81925, "D": "to make or become free from impurities.", "S": ["clean ", "cleanse ", "distill ", "filter ", "rarefy ", "refine "], "A": ["dirty ", "pollute ", "soil "]}
+{"index": 81925, "D": "to make or become free from impurities.", "S": ["clean", "cleanse", "distill", "filter", "rarefy", "refine"], "A": ["dirty", "pollute", "soil"]}

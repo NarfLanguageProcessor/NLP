@@ -1,1 +1,1 @@
-{"index": 266784, "D": "of, relating to, or causing a relaxation. ", "S": ["downer ", "intoxicant ", "tranquilizer "], "A": []}
+{"index": 266784, "D": "of, relating to, or causing a relaxation. ", "S": ["downer", "intoxicant", "tranquilizer"], "A": []}

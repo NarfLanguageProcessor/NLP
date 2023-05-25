@@ -1,1 +1,1 @@
-{"index": 248687, "D": "to ordain  beforehand; foreordain.", "S": ["foretell ", "predetermine "], "A": []}
+{"index": 248687, "D": "to ordain  beforehand; foreordain.", "S": ["foretell", "predetermine"], "A": []}

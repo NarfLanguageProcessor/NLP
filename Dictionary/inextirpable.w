@@ -1,1 +1,1 @@
-{"index": 151763, "D": "incapable of being extirpated", "S": ["enduring ", "lasting ", "memorable ", "stirring ", "unforgettable "], "A": ["destructible ", "impermanent "]}
+{"index": 151763, "D": "incapable of being extirpated", "S": ["enduring", "lasting", "memorable", "stirring", "unforgettable"], "A": ["destructible", "impermanent"]}

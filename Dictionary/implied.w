@@ -1,1 +1,1 @@
-{"index": 148800, "D": "involved, indicated, or suggested without being directly or explicitly stated; tacitly understood", "S": ["hidden ", "implicit ", "indirect ", "latent ", "lurking ", "tacit ", "unspoken "], "A": ["explicit ", "open "]}
+{"index": 148800, "D": "involved, indicated, or suggested without being directly or explicitly stated; tacitly understood", "S": ["hidden", "implicit", "indirect", "latent", "lurking", "tacit", "unspoken"], "A": ["explicit", "open"]}

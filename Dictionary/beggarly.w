@@ -1,1 +1,1 @@
-{"index": 30616, "D": "like or befitting a beggar. ", "S": ["abject ", "broke ", "destitute ", "down-and-out ", "inadequate ", "low ", "meager ", "mean ", "poverty-stricken "], "A": ["luxurious ", "rich ", "wealthy "]}
+{"index": 30616, "D": "like or befitting a beggar. ", "S": ["abject", "broke", "destitute", "down-and-out", "inadequate", "low", "meager", "mean", "poverty-stricken"], "A": ["luxurious", "rich", "wealthy"]}

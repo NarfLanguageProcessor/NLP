@@ -1,1 +1,1 @@
-{"index": 309297, "D": "by an ample or considerable amount; quite a lot", "S": ["considerably ", "essentially ", "extensively ", "heavily ", "largely ", "materially ", "really "], "A": ["slightly "]}
+{"index": 309297, "D": "by an ample or considerable amount; quite a lot", "S": ["considerably", "essentially", "extensively", "heavily", "largely", "materially", "really"], "A": ["slightly"]}

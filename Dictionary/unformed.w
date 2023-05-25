@@ -1,1 +1,1 @@
-{"index": 342587, "D": "not definitely shaped; shapeless or formless.", "S": ["amorphous ", "formless ", "shapeless ", "unshaped ", "unstructured "], "A": ["complete ", "developed ", "distinct ", "formed ", "grown ", "mature ", "shaped ", "structured "]}
+{"index": 342587, "D": "not definitely shaped; shapeless or formless.", "S": ["amorphous", "formless", "shapeless", "unshaped", "unstructured"], "A": ["complete", "developed", "distinct", "formed", "grown", "mature", "shaped", "structured"]}

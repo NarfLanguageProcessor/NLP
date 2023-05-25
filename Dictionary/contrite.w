@@ -1,1 +1,1 @@
-{"index": 67781, "D": "caused by or showing sincere remorse.", "S": ["apologetic ", "humble ", "remorseful ", "repentant ", "sorry "], "A": ["hurtful ", "indifferent ", "mean ", "unrepentant "]}
+{"index": 67781, "D": "caused by or showing sincere remorse.", "S": ["apologetic", "humble", "remorseful", "repentant", "sorry"], "A": ["hurtful", "indifferent", "mean", "unrepentant"]}

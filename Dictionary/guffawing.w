@@ -1,1 +1,1 @@
-{"index": 130980, "D": "a loud, unrestrained burst of laughter.", "S": ["amusement ", "chuckle ", "giggle ", "glee ", "guffaw ", "hilarity ", "laugh ", "mirth ", "roar ", "shout ", "shriek ", "snicker "], "A": ["crying ", "sadness ", "unhappiness "]}
+{"index": 130980, "D": "a loud, unrestrained burst of laughter.", "S": ["amusement", "chuckle", "giggle", "glee", "guffaw", "hilarity", "laugh", "mirth", "roar", "shout", "shriek", "snicker"], "A": ["crying", "sadness", "unhappiness"]}

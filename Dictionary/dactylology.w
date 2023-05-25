@@ -1,1 +1,1 @@
-{"index": 76062, "D": "the technique of communicating by signs made with the fingers, especially in the manual alphabets used by the Deaf.", "S": ["American Sign Language ", "deaf-and-dumb alphabet ", "finger alphabet "], "A": []}
+{"index": 76062, "D": "the technique of communicating by signs made with the fingers, especially in the manual alphabets used by the Deaf.", "S": ["American Sign Language", "deaf-and-dumb alphabet", "finger alphabet"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 356734, "D": "sound; just; well-founded", "S": ["plausibility "], "A": []}
+{"index": 356734, "D": "sound; just; well-founded", "S": ["plausibility"], "A": []}

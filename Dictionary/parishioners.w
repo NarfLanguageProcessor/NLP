@@ -1,1 +1,1 @@
-{"index": 226529, "D": "one of the community or inhabitants of a parish.", "S": ["audience ", "crowd ", "flock ", "gathering ", "parish ", "throng "], "A": ["division ", "separation "]}
+{"index": 226529, "D": "one of the community or inhabitants of a parish.", "S": ["audience", "crowd", "flock", "gathering", "parish", "throng"], "A": ["division", "separation"]}

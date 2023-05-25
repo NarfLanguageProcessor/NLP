@@ -1,1 +1,0 @@
-{"index": 301344, "D": "to scatter (a liquid, powder, etc.) in drops or particles", "S": ["dispersed ", "distributed "], "A": ["connected ", "together ", "united "]}

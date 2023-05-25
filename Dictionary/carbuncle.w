@@ -1,1 +1,1 @@
-{"index": 47584, "D": "a painful circumscribed inflammation of the subcutaneous tissue, resulting in suppuration and sloughing, and having a tendency to spread somewhat like a boil, but more serious in its effects.", "S": ["boil ", "pimple ", "sore "], "A": []}
+{"index": 47584, "D": "a painful circumscribed inflammation of the subcutaneous tissue, resulting in suppuration and sloughing, and having a tendency to spread somewhat like a boil, but more serious in its effects.", "S": ["boil", "pimple", "sore"], "A": []}

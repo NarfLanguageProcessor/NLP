@@ -1,1 +1,1 @@
-{"index": 78978, "D": "to place less emphasis  upon; reduce in importance, size, scope, etc.", "S": ["minimize ", "understate "], "A": ["overestimate "]}
+{"index": 78978, "D": "to place less emphasis  upon; reduce in importance, size, scope, etc.", "S": ["minimize", "understate"], "A": ["overestimate"]}

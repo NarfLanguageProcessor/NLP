@@ -1,1 +1,1 @@
-{"index": 306386, "D": "a person who strips. ", "S": ["bump-and-grinder ", "burlesque queen ", "ecdysiast ", "exotic dancer ", "lap dancer ", "peeler ", "striptease artist ", "striptease dancer ", "stripteaser ", "stripteuse "], "A": []}
+{"index": 306386, "D": "a person who strips. ", "S": ["bump-and-grinder", "burlesque queen", "ecdysiast", "exotic dancer", "lap dancer", "peeler", "striptease artist", "striptease dancer", "stripteaser", "stripteuse"], "A": []}

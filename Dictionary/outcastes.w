@@ -1,1 +1,0 @@
-{"index": 216343, "D": "(in India) a person who has left or been expelled from their caste. ", "S": [], "A": []}

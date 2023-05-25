@@ -1,1 +1,1 @@
-{"index": 194068, "D": "traveling in a car, especially when considered as a recreation.", "S": ["cruise ", "drift ", "drive ", "float ", "go ", "go with ", "guide ", "move ", "sit ", "travel "], "A": ["discourage ", "dissuade ", "remain ", "stay ", "stop ", "mismanage ", "neglect "]}
+{"index": 194068, "D": "traveling in a car, especially when considered as a recreation.", "S": ["cruise", "drift", "drive", "float", "go", "go with", "guide", "move", "sit", "travel"], "A": ["discourage", "dissuade", "remain", "stay", "stop", "mismanage", "neglect"]}

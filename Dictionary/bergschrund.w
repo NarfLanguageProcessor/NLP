@@ -1,0 +1,1 @@
+{"index": 32066, "D": "a crevasse, or series of crevasses, at the upper end of a mountain glacier.", "S": [], "A": []}

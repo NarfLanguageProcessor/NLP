@@ -1,1 +1,1 @@
-{"index": 282927, "D": "free from or not exposed to danger or harm; safe.", "S": ["accessible ", "attainable ", "gettable ", "obtainable ", "procurable ", "to be had "], "A": []}
+{"index": 282927, "D": "free from or not exposed to danger or harm; safe.", "S": ["accessible", "attainable", "gettable", "obtainable", "procurable", "to be had"], "A": []}

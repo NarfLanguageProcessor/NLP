@@ -1,1 +1,1 @@
-{"index": 38263, "D": "a person who makes or sells liquor or other goods illegally", "S": ["moonshiner ", "rumrunner "], "A": []}
+{"index": 38263, "D": "a person who makes or sells liquor or other goods illegally", "S": ["moonshiner", "rumrunner"], "A": []}

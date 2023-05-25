@@ -1,1 +1,1 @@
-{"index": 363801, "D": "a person who weeps. ", "S": ["pallbearer "], "A": []}
+{"index": 363801, "D": "a person who weeps. ", "S": ["pallbearer"], "A": []}

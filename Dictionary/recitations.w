@@ -1,1 +1,1 @@
-{"index": 262917, "D": "an act of reciting. ", "S": ["monologue ", "narration ", "oration ", "recital ", "recounting ", "rendering "], "A": ["denial ", "quiet ", "refusal ", "silence ", "whole "]}
+{"index": 262917, "D": "an act of reciting. ", "S": ["monologue", "narration", "oration", "recital", "recounting", "rendering"], "A": ["denial", "quiet", "refusal", "silence", "whole"]}

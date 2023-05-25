@@ -1,1 +1,1 @@
-{"index": 48709, "D": "to cut (a solid material) so as to form something", "S": ["chiseled ", "engraved ", "sculpted ", "sculptured "], "A": []}
+{"index": 48709, "D": "to cut (a solid material) so as to form something", "S": ["chiseled", "engraved", "sculpted", "sculptured"], "A": []}

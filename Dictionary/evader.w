@@ -1,1 +1,1 @@
-{"index": 105942, "D": "to escape from by trickery or cleverness", "S": ["debtor ", "defaulter ", "felon ", "hoodlum ", "juvenile delinquent ", "lawbreaker ", "offender ", "wrongdoer "], "A": []}
+{"index": 105942, "D": "to escape from by trickery or cleverness", "S": ["debtor", "defaulter", "felon", "hoodlum", "juvenile delinquent", "lawbreaker", "offender", "wrongdoer"], "A": []}

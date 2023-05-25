@@ -1,1 +1,1 @@
-{"index": 27784, "D": "a person whose occupation it is to cut and dress the hair of customers, especially men, and to shave or trim the beard.", "S": ["beautician ", "coiffeur ", "coiffeuse ", "cosmetologist ", "hairdresser ", "shaver "], "A": []}
+{"index": 27784, "D": "a person whose occupation it is to cut and dress the hair of customers, especially men, and to shave or trim the beard.", "S": ["beautician", "coiffeur", "coiffeuse", "cosmetologist", "hairdresser", "shaver"], "A": []}

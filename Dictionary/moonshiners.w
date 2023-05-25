@@ -1,1 +1,1 @@
-{"index": 193104, "D": "a person who distills or sells liquor, especially corn liquor, illegally.", "S": ["rumrunner "], "A": []}
+{"index": 193104, "D": "a person who distills or sells liquor, especially corn liquor, illegally.", "S": ["rumrunner"], "A": []}

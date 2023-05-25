@@ -1,1 +1,1 @@
-{"index": 92868, "D": "a succession of images, thoughts, or emotions passing through the mind during sleep.", "S": ["daydreaming "], "A": []}
+{"index": 92868, "D": "a succession of images, thoughts, or emotions passing through the mind during sleep.", "S": ["daydreaming"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 258423, "D": "a sentence in an interrogative form, addressed to someone in order to get information in reply.", "S": ["debated "], "A": []}
+{"index": 258423, "D": "a sentence in an interrogative form, addressed to someone in order to get information in reply.", "S": ["debated"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 150973, "D": "seriously impoverished condition; poverty. ", "S": ["destitution ", "penury "], "A": ["wealth "]}
+{"index": 150973, "D": "seriously impoverished condition; poverty. ", "S": ["destitution", "penury"], "A": ["wealth"]}

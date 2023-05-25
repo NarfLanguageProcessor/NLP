@@ -1,1 +1,1 @@
-{"index": 268389, "D": "an account or statement describing in detail an event, situation, or the like, usually as the result of observation, inquiry, etc.", "S": ["writing "], "A": ["difference ", "disagreement "]}
+{"index": 268389, "D": "an account or statement describing in detail an event, situation, or the like, usually as the result of observation, inquiry, etc.", "S": ["writing"], "A": ["difference", "disagreement"]}

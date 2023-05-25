@@ -1,1 +1,1 @@
-{"index": 176401, "D": "the state or quality of shining by reflecting light; glitter, sparkle, sheen, or gloss", "S": ["listless ", "sickly "], "A": ["flushed ", "strong "]}
+{"index": 176401, "D": "the state or quality of shining by reflecting light; glitter, sparkle, sheen, or gloss", "S": ["listless", "sickly"], "A": ["flushed", "strong"]}

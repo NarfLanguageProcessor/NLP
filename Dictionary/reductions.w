@@ -1,1 +1,1 @@
-{"index": 264487, "D": "the act of reducing  or the state of being reduced.", "S": ["contraction ", "cut ", "cutback ", "devaluation ", "discount ", "rebate "], "A": ["increase "]}
+{"index": 264487, "D": "the act of reducing  or the state of being reduced.", "S": ["contraction", "cut", "cutback", "devaluation", "discount", "rebate"], "A": ["increase"]}

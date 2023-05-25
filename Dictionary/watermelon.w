@@ -1,1 +1,1 @@
-{"index": 363208, "D": "the large, roundish or elongated fruit of a trailing vine, Citrullus lanata, of the gourd family, having a hard, green rind and a sweet, juicy, usually pink or red pulp.", "S": ["moleskin ", "oval ", "peanut ", "pigskin ", "pineapple ", "porker ", "sphere "], "A": []}
+{"index": 363208, "D": "the large, roundish or elongated fruit of a trailing vine, Citrullus lanata, of the gourd family, having a hard, green rind and a sweet, juicy, usually pink or red pulp.", "S": ["moleskin", "oval", "peanut", "pigskin", "pineapple", "porker", "sphere"], "A": []}

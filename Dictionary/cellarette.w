@@ -1,1 +1,1 @@
-{"index": 50558, "D": "a compartment, cabinet, or stand fitted for wine bottles.", "S": ["cupboard "], "A": []}
+{"index": 50558, "D": "a compartment, cabinet, or stand fitted for wine bottles.", "S": ["cupboard"], "A": []}

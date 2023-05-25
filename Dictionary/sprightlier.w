@@ -1,1 +1,1 @@
-{"index": 301277, "D": "animated or vivacious; lively.", "S": ["agile ", "bouncy ", "cheerful ", "chirpy ", "energetic ", "jaunty ", "lively ", "peppy ", "playful ", "spry ", "zippy "], "A": ["apathetic ", "depressed ", "inactive ", "lethargic ", "lifeless ", "serious ", "tired "]}
+{"index": 301277, "D": "animated or vivacious; lively.", "S": ["agile", "bouncy", "cheerful", "chirpy", "energetic", "jaunty", "lively", "peppy", "playful", "spry", "zippy"], "A": ["apathetic", "depressed", "inactive", "lethargic", "lifeless", "serious", "tired"]}

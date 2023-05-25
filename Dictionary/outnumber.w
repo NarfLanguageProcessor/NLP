@@ -1,1 +1,1 @@
-{"index": 217027, "D": "to exceed in number. ", "S": ["exceed "], "A": []}
+{"index": 217027, "D": "to exceed in number. ", "S": ["exceed"], "A": []}

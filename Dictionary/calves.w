@@ -1,1 +1,1 @@
-{"index": 45515, "D": "plural of calf1. ", "S": ["herd ", "oxen "], "A": []}
+{"index": 45515, "D": "plural of calf1. ", "S": ["herd", "oxen"], "A": []}

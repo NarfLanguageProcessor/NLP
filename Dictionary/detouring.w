@@ -1,1 +1,1 @@
-{"index": 83256, "D": "a roundabout or circuitous way or course, especially one used temporarily when the main route is closed.", "S": ["circuitous ", "misleading "], "A": ["artless ", "direct ", "frank ", "honest ", "open ", "straight ", "straightforward ", "trustworthy ", "truthful "]}
+{"index": 83256, "D": "a roundabout or circuitous way or course, especially one used temporarily when the main route is closed.", "S": ["circuitous", "misleading"], "A": ["artless", "direct", "frank", "honest", "open", "straight", "straightforward", "trustworthy", "truthful"]}

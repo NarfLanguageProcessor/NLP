@@ -1,1 +1,1 @@
-{"index": 112945, "D": "the breadth  of a finger", "S": ["square "], "A": []}
+{"index": 112945, "D": "the breadth  of a finger", "S": ["square"], "A": []}

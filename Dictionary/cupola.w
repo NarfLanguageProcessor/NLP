@@ -1,1 +1,1 @@
-{"index": 75094, "D": "a dome, especially one covering a circular or polygonal area.", "S": ["belfry ", "lantern ", "vault "], "A": []}
+{"index": 75094, "D": "a dome, especially one covering a circular or polygonal area.", "S": ["belfry", "lantern", "vault"], "A": []}

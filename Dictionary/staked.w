@@ -1,1 +1,1 @@
-{"index": 302461, "D": "a stick or post pointed at one end for driving into the ground as a boundary mark, part of a fence, support for a plant, etc.", "S": ["pale ", "paling ", "picket ", "post ", "rod ", "spike ", "stave ", "stick "], "A": ["whole "]}
+{"index": 302461, "D": "a stick or post pointed at one end for driving into the ground as a boundary mark, part of a fence, support for a plant, etc.", "S": ["pale", "paling", "picket", "post", "rod", "spike", "stave", "stick"], "A": ["whole"]}

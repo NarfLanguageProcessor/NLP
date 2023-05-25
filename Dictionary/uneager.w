@@ -1,1 +1,1 @@
-{"index": 340946, "D": [], "S": ["hesitant ", "loath ", "reluctant ", "sorry ", "unhappy ", "unwilling "], "A": ["glad ", "happy ", "ready ", "willing "]}
+{"index": 340946, "D": [], "S": ["hesitant", "loath", "reluctant", "sorry", "unhappy", "unwilling"], "A": ["glad", "happy", "ready", "willing"]}

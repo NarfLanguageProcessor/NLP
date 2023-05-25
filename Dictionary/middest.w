@@ -1,1 +1,1 @@
-{"index": 186685, "D": "being at or near the middle point of", "S": ["central ", "halfway ", "intermediate ", "medial ", "middle "], "A": []}
+{"index": 186685, "D": "being at or near the middle point of", "S": ["central", "halfway", "intermediate", "medial", "middle"], "A": []}

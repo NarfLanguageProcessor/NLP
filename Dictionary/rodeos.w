@@ -1,1 +1,1 @@
-{"index": 273754, "D": "a public exhibition of cowboy skills, as bronco riding and calf roping.", "S": ["festival "], "A": []}
+{"index": 273754, "D": "a public exhibition of cowboy skills, as bronco riding and calf roping.", "S": ["festival"], "A": []}

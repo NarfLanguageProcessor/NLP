@@ -1,1 +1,1 @@
-{"index": 161260, "D": "a short crowbar.", "S": ["crowbar ", "force ", "lever ", "open ", "pry "], "A": ["close "]}
+{"index": 161260, "D": "a short crowbar.", "S": ["crowbar", "force", "lever", "open", "pry"], "A": ["close"]}

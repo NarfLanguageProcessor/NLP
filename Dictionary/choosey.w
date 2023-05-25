@@ -1,1 +1,1 @@
-{"index": 55664, "D": [], "S": ["choosy ", "critical ", "fastidious ", "finicking ", "fussy ", "meticulous ", "niggling ", "nitpicking ", "overparticular ", "particular ", "persnickety ", "picky "], "A": []}
+{"index": 55664, "D": [], "S": ["choosy", "critical", "fastidious", "finicking", "fussy", "meticulous", "niggling", "nitpicking", "overparticular", "particular", "persnickety", "picky"], "A": []}

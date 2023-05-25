@@ -1,1 +1,1 @@
-{"index": 78445, "D": "the act or art of declaiming. ", "S": ["address ", "lecture ", "oration ", "speech ", "tirade "], "A": []}
+{"index": 78445, "D": "the act or art of declaiming. ", "S": ["address", "lecture", "oration", "speech", "tirade"], "A": []}

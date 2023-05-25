@@ -1,1 +1,1 @@
-{"index": 238213, "D": "with a quick succession of beats or taps", "S": ["chatter "], "A": ["quiet ", "silence "]}
+{"index": 238213, "D": "with a quick succession of beats or taps", "S": ["chatter"], "A": ["quiet", "silence"]}

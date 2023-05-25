@@ -1,1 +1,1 @@
-{"index": 362953, "D": "resembling a wasp;  waspish.", "S": ["cantankerous ", "crusty ", "grouchy ", "grumpy ", "ornery "], "A": ["happy ", "nice ", "pleasant "]}
+{"index": 362953, "D": "resembling a wasp;  waspish.", "S": ["cantankerous", "crusty", "grouchy", "grumpy", "ornery"], "A": ["happy", "nice", "pleasant"]}

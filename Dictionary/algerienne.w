@@ -1,0 +1,1 @@
+{"index": 8070, "D": "a brightly striped woolen fabric used for tents, awnings, curtains, etc.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 249749, "D": "to take for granted, assume, or suppose", "S": ["assume ", "count on ", "guess ", "infer ", "pretend ", "suppose ", "surmise "], "A": ["calculate ", "disbelieve ", "doubt ", "measure ", "disregard ", "distrust ", "forget ", "ignore ", "neglect "]}
+{"index": 249749, "D": "to take for granted, assume, or suppose", "S": ["assume", "count on", "guess", "infer", "pretend", "suppose", "surmise"], "A": ["calculate", "disbelieve", "doubt", "measure", "disregard", "distrust", "forget", "ignore", "neglect"]}

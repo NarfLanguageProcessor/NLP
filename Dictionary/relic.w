@@ -1,1 +1,1 @@
-{"index": 266885, "D": "a surviving memorial of something past.", "S": ["antique ", "antiquity ", "artifact ", "curio ", "evidence ", "fragment ", "keepsake ", "memento ", "monument ", "remains ", "remnant ", "souvenir "], "A": ["whole ", "lot "]}
+{"index": 266885, "D": "a surviving memorial of something past.", "S": ["antique", "antiquity", "artifact", "curio", "evidence", "fragment", "keepsake", "memento", "monument", "remains", "remnant", "souvenir"], "A": ["whole", "lot"]}

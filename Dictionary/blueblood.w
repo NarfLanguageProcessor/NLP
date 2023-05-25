@@ -1,1 +1,1 @@
-{"index": 36709, "D": [], "S": ["noble "], "A": ["commoner ", "plebian ", "proletariat "]}
+{"index": 36709, "D": [], "S": ["noble"], "A": ["commoner", "plebian", "proletariat"]}

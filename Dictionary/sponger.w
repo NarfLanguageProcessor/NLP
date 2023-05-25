@@ -1,1 +1,1 @@
-{"index": 300753, "D": "a person or thing that sponges. ", "S": ["bum ", "freeloader ", "mendicant ", "mooch ", "moocher ", "scrounger ", "sponge "], "A": []}
+{"index": 300753, "D": "a person or thing that sponges. ", "S": ["bum", "freeloader", "mendicant", "mooch", "moocher", "scrounger", "sponge"], "A": []}

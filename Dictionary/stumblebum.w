@@ -1,1 +1,1 @@
-{"index": 306857, "D": "a clumsy, second-rate prizefighter.", "S": ["bungler ", "butterfingers ", "dolt ", "dullard ", "lummox ", "oaf "], "A": []}
+{"index": 306857, "D": "a clumsy, second-rate prizefighter.", "S": ["bungler", "butterfingers", "dolt", "dullard", "lummox", "oaf"], "A": []}

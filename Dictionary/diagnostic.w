@@ -1,1 +1,1 @@
-{"index": 84134, "D": "of, relating to, or used in diagnosis. ", "S": ["characteristic ", "distinguishing ", "indicative ", "symptomatic "], "A": []}
+{"index": 84134, "D": "of, relating to, or used in diagnosis. ", "S": ["characteristic", "distinguishing", "indicative", "symptomatic"], "A": []}

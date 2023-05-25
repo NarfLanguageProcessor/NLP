@@ -1,1 +1,1 @@
-{"index": 87526, "D": "disjointed; broken. ", "S": ["detached ", "muddled ", "separated ", "uncoordinated "], "A": ["attached ", "connected ", "united ", "ordered "]}
+{"index": 87526, "D": "disjointed; broken. ", "S": ["detached", "muddled", "separated", "uncoordinated"], "A": ["attached", "connected", "united", "ordered"]}

@@ -1,1 +1,1 @@
-{"index": 187891, "D": "to reduce to the smallest possible amount or degree.", "S": ["criticism ", "denigration ", "deprecation ", "depreciation ", "derogation ", "detraction ", "disparagement ", "smear "], "A": ["approval ", "compliment ", "flattery ", "praise "]}
+{"index": 187891, "D": "to reduce to the smallest possible amount or degree.", "S": ["criticism", "denigration", "deprecation", "depreciation", "derogation", "detraction", "disparagement", "smear"], "A": ["approval", "compliment", "flattery", "praise"]}

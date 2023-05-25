@@ -1,1 +1,1 @@
-{"index": 81975, "D": "to pull up by the roots; uproot; extirpate; eradicate.", "S": ["move ", "movement ", "rearrangement ", "shift ", "supplanting "], "A": ["inaction ", "inactivity ", "stagnation "]}
+{"index": 81975, "D": "to pull up by the roots; uproot; extirpate; eradicate.", "S": ["move", "movement", "rearrangement", "shift", "supplanting"], "A": ["inaction", "inactivity", "stagnation"]}

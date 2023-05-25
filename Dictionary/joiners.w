@@ -1,1 +1,1 @@
-{"index": 161610, "D": "a person or thing that joins. ", "S": ["accomplice ", "ally ", "assistant ", "buddy ", "co-worker ", "cohort ", "collaborator ", "companion ", "comrade ", "crony ", "fellow ", "friend ", "partner "], "A": ["enemy ", "foe ", "opponent "]}
+{"index": 161610, "D": "a person or thing that joins. ", "S": ["accomplice", "ally", "assistant", "buddy", "co-worker", "cohort", "collaborator", "companion", "comrade", "crony", "fellow", "friend", "partner"], "A": ["enemy", "foe", "opponent"]}

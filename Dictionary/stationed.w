@@ -1,1 +1,1 @@
-{"index": 303092, "D": "a place or position in which a person or thing is normally located.", "S": ["established ", "occupying ", "placed ", "planted ", "positioned ", "situated "], "A": []}
+{"index": 303092, "D": "a place or position in which a person or thing is normally located.", "S": ["established", "occupying", "placed", "planted", "positioned", "situated"], "A": []}

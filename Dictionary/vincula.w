@@ -1,1 +1,0 @@
-{"index": 359828, "D": "a bond signifying union or unity; tie.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 300385, "D": "to splash and scatter upon impact", "S": ["bespatter ", "douse ", "drench ", "drown ", "moisten ", "plunge ", "shower ", "slosh ", "soak ", "sop ", "spatter ", "spray ", "sprinkle ", "squirt ", "wet "], "A": ["collect ", "dehydrate ", "dry ", "gather "]}
+{"index": 300385, "D": "to splash and scatter upon impact", "S": ["bespatter", "douse", "drench", "drown", "moisten", "plunge", "shower", "slosh", "soak", "sop", "spatter", "spray", "sprinkle", "squirt", "wet"], "A": ["collect", "dehydrate", "dry", "gather"]}

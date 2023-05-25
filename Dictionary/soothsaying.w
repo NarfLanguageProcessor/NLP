@@ -1,1 +1,1 @@
-{"index": 297383, "D": "the practice or art of foretelling events.", "S": ["apocalypse ", "augury ", "cast ", "divination ", "forecast ", "foretelling ", "oracle ", "presage ", "prevision ", "prognosis ", "prognostication ", "revelation ", "vaticination ", "vision "], "A": []}
+{"index": 297383, "D": "the practice or art of foretelling events.", "S": ["apocalypse", "augury", "cast", "divination", "forecast", "foretelling", "oracle", "presage", "prevision", "prognosis", "prognostication", "revelation", "vaticination", "vision"], "A": []}

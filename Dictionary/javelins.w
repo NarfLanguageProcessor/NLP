@@ -1,1 +1,1 @@
-{"index": 160631, "D": "a light spear, usually thrown by hand.", "S": ["dart ", "harpoon ", "lance ", "weapon "], "A": []}
+{"index": 160631, "D": "a light spear, usually thrown by hand.", "S": ["dart", "harpoon", "lance", "weapon"], "A": []}

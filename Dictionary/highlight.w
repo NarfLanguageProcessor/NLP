@@ -1,1 +1,1 @@
-{"index": 139280, "D": "to emphasize or make prominent", "S": ["climax ", "feature ", "focal point "], "A": []}
+{"index": 139280, "D": "to emphasize or make prominent", "S": ["climax", "feature", "focal point"], "A": []}

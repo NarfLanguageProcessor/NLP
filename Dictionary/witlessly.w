@@ -1,1 +1,1 @@
-{"index": 366692, "D": "lacking wit or intelligence; stupid; foolish.", "S": ["madly ", "wildly "], "A": []}
+{"index": 366692, "D": "lacking wit or intelligence; stupid; foolish.", "S": ["madly", "wildly"], "A": []}

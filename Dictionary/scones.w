@@ -1,1 +1,1 @@
-{"index": 281160, "D": "a small, light, biscuitlike quick bread made of oatmeal, wheat flour, barley meal, or the like.", "S": ["bread ", "doughnut ", "muffin ", "pastry "], "A": []}
+{"index": 281160, "D": "a small, light, biscuitlike quick bread made of oatmeal, wheat flour, barley meal, or the like.", "S": ["bread", "doughnut", "muffin", "pastry"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 227443, "D": "a literary, musical, or artistic piece consisting wholly or chiefly of motifs or techniques borrowed from one or more sources.", "S": ["collage ", "compilation ", "hodgepodge ", "reproduction "], "A": ["original "]}
+{"index": 227443, "D": "a literary, musical, or artistic piece consisting wholly or chiefly of motifs or techniques borrowed from one or more sources.", "S": ["collage", "compilation", "hodgepodge", "reproduction"], "A": ["original"]}

@@ -1,1 +1,1 @@
-{"index": 1898, "D": "Compare deadly sins. ", "S": ["inactivity ", "inertia ", "passivity ", "stagnation "], "A": ["busyness ", "energy ", "happiness ", "liveliness ", "vigor "]}
+{"index": 1898, "D": "Compare deadly sins. ", "S": ["inactivity", "inertia", "passivity", "stagnation"], "A": ["busyness", "energy", "happiness", "liveliness", "vigor"]}

@@ -1,1 +1,1 @@
-{"index": 345992, "D": "not mannerly;  impolite; discourteous; coarse.", "S": ["boorish ", "coarse ", "crude ", "discourteous ", "impolite ", "rude ", "uncivil ", "uncouth ", "ungracious "], "A": ["mannerly ", "polite "]}
+{"index": 345992, "D": "not mannerly;  impolite; discourteous; coarse.", "S": ["boorish", "coarse", "crude", "discourteous", "impolite", "rude", "uncivil", "uncouth", "ungracious"], "A": ["mannerly", "polite"]}

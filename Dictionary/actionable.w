@@ -1,1 +1,1 @@
-{"index": 3230, "D": "furnishing ground for a lawsuit.", "S": ["prosecutable ", "triable ", "unjust "], "A": []}
+{"index": 3230, "D": "furnishing ground for a lawsuit.", "S": ["prosecutable", "triable", "unjust"], "A": []}

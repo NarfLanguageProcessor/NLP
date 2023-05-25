@@ -1,1 +1,1 @@
-{"index": 82856, "D": "to strip of possessions, things of value, etc.; rob; plunder; pillage.", "S": ["denude ", "depopulate "], "A": ["build ", "clothe ", "construct ", "cover ", "create ", "give ", "guard ", "help ", "improve ", "offer ", "protect ", "receive ", "save "]}
+{"index": 82856, "D": "to strip of possessions, things of value, etc.; rob; plunder; pillage.", "S": ["denude", "depopulate"], "A": ["build", "clothe", "construct", "cover", "create", "give", "guard", "help", "improve", "offer", "protect", "receive", "save"]}

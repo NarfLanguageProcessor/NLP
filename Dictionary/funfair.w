@@ -1,1 +1,1 @@
-{"index": 120213, "D": "an amusement park.", "S": ["theme park "], "A": []}
+{"index": 120213, "D": "an amusement park.", "S": ["theme park"], "A": []}

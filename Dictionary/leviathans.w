@@ -1,1 +1,1 @@
-{"index": 171232, "D": "a sea monster.", "S": ["demon ", "devil "], "A": []}
+{"index": 171232, "D": "a sea monster.", "S": ["demon", "devil"], "A": []}

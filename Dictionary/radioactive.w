@@ -1,1 +1,1 @@
-{"index": 259613, "D": "of, relating to, exhibiting, or caused by radioactivity", "S": ["contaminated ", "dangerous ", "hot "], "A": []}
+{"index": 259613, "D": "of, relating to, exhibiting, or caused by radioactivity", "S": ["contaminated", "dangerous", "hot"], "A": []}

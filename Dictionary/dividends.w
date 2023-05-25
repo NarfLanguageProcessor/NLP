@@ -1,1 +1,1 @@
-{"index": 90325, "D": "a number that is to be divided by a divisor.", "S": ["cash ", "compensation ", "earnings ", "interest ", "livelihood ", "pay ", "proceeds ", "profit ", "revenue ", "royalty ", "salary ", "wage "], "A": ["debt ", "loss "]}
+{"index": 90325, "D": "a number that is to be divided by a divisor.", "S": ["cash", "compensation", "earnings", "interest", "livelihood", "pay", "proceeds", "profit", "revenue", "royalty", "salary", "wage"], "A": ["debt", "loss"]}

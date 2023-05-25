@@ -1,1 +1,1 @@
-{"index": 180802, "D": "a compact portion of a mountain range, containing one or more summits.", "S": ["sierra "], "A": []}
+{"index": 180802, "D": "a compact portion of a mountain range, containing one or more summits.", "S": ["sierra"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 318308, "D": " the transmission of programming, in the form of still or moving images, via radio waves, cable wires, satellite, or wireless network to a receiver or other screen.", "S": ["TV set ", "audio ", "box ", "station ", "video "], "A": []}
+{"index": 318308, "D": " the transmission of programming, in the form of still or moving images, via radio waves, cable wires, satellite, or wireless network to a receiver or other screen.", "S": ["TV set", "audio", "box", "station", "video"], "A": []}

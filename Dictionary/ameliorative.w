@@ -1,1 +1,1 @@
-{"index": 10230, "D": "making or intended to make something better, more bearable, or more satisfactory", "S": ["beneficial ", "curative ", "remedial ", "salutary "], "A": ["harmful ", "hurting ", "injurious "]}
+{"index": 10230, "D": "making or intended to make something better, more bearable, or more satisfactory", "S": ["beneficial", "curative", "remedial", "salutary"], "A": ["harmful", "hurting", "injurious"]}

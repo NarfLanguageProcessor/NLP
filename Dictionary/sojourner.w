@@ -1,1 +1,1 @@
-{"index": 296441, "D": "the true  or actual state of a matter", "S": ["caller ", "client ", "companion ", "customer ", "inmate ", "patron ", "recipient ", "tenant ", "vacationer ", "visitor "], "A": ["enemy ", "manager ", "opponent ", "owner "]}
+{"index": 296441, "D": "the true  or actual state of a matter", "S": ["caller", "client", "companion", "customer", "inmate", "patron", "recipient", "tenant", "vacationer", "visitor"], "A": ["enemy", "manager", "opponent", "owner"]}

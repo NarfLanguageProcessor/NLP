@@ -1,1 +1,1 @@
-{"index": 298173, "D": "dazed, out of touch with reality, or easily confused; spaced-out", "S": ["eccentric ", "spaced out "], "A": []}
+{"index": 298173, "D": "dazed, out of touch with reality, or easily confused; spaced-out", "S": ["eccentric", "spaced out"], "A": []}

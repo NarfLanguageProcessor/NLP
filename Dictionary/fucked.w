@@ -1,1 +1,1 @@
-{"index": 119743, "D": "in an extremely unpleasant and usually hopeless position or situation", "S": ["lay ", "screw ", "shag "], "A": ["abstain "]}
+{"index": 119743, "D": "in an extremely unpleasant and usually hopeless position or situation", "S": ["lay", "screw", "shag"], "A": ["abstain"]}

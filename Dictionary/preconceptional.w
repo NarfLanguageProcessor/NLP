@@ -1,1 +1,0 @@
-{"index": 246340, "D": "a conception  or opinion formed beforehand.", "S": [], "A": []}

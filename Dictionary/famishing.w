@@ -1,1 +1,1 @@
-{"index": 109632, "D": "to suffer or cause to suffer extreme hunger; starve.", "S": ["eager ", "greedy ", "keen ", "ravenous ", "starved "], "A": ["full ", "unenthusiastic "]}
+{"index": 109632, "D": "to suffer or cause to suffer extreme hunger; starve.", "S": ["eager", "greedy", "keen", "ravenous", "starved"], "A": ["full", "unenthusiastic"]}

@@ -1,1 +1,1 @@
-{"index": 218184, "D": "from one extreme limit of a thing to the other", "S": ["comprehensive ", "global ", "long-term "], "A": ["incomplete "]}
+{"index": 218184, "D": "from one extreme limit of a thing to the other", "S": ["comprehensive", "global", "long-term"], "A": ["incomplete"]}

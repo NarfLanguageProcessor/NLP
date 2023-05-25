@@ -1,1 +1,1 @@
-{"index": 250810, "D": "having its original purity; uncorrupted or unsullied.", "S": ["immaculate ", "intact ", "natural ", "snowy ", "spotless ", "sterile ", "untouched "], "A": ["affected ", "dirty "]}
+{"index": 250810, "D": "having its original purity; uncorrupted or unsullied.", "S": ["immaculate", "intact", "natural", "snowy", "spotless", "sterile", "untouched"], "A": ["affected", "dirty"]}

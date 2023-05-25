@@ -1,1 +1,1 @@
-{"index": 71980, "D": "to fill (something) by force with more than it can easily hold.", "S": ["filled "], "A": ["empty "]}
+{"index": 71980, "D": "to fill (something) by force with more than it can easily hold.", "S": ["filled"], "A": ["empty"]}

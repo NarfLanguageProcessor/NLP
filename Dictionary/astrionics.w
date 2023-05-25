@@ -1,1 +1,1 @@
-{"index": 22221, "D": "the science dealing with the application of electronics  to astronautics.", "S": ["aerospace science ", "aerospace technology ", "planetary science ", "rocket science ", "space engineering ", "space research ", "space technology "], "A": []}
+{"index": 22221, "D": "the science dealing with the application of electronics  to astronautics.", "S": ["aerospace science", "aerospace technology", "planetary science", "rocket science", "space engineering", "space research", "space technology"], "A": []}

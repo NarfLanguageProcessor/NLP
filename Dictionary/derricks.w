@@ -1,1 +1,1 @@
-{"index": 82324, "D": "a jib crane having a boom hinged near the base of the mast so as to rotate about the mast, for moving a load toward or away from the mast by raising or lowering the boom.", "S": ["hoist ", "lift ", "machine ", "rig "], "A": []}
+{"index": 82324, "D": "a jib crane having a boom hinged near the base of the mast so as to rotate about the mast, for moving a load toward or away from the mast by raising or lowering the boom.", "S": ["hoist", "lift", "machine", "rig"], "A": []}

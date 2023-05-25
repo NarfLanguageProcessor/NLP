@@ -1,1 +1,1 @@
-{"index": 94333, "D": "a person who is easily deceived or fooled; gull. ", "S": ["patsy ", "sitting duck "], "A": ["cognizant "]}
+{"index": 94333, "D": "a person who is easily deceived or fooled; gull. ", "S": ["patsy", "sitting duck"], "A": ["cognizant"]}

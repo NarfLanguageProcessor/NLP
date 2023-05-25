@@ -1,1 +1,0 @@
-{"index": 302832, "D": "a short piece of wire bent so as to bind together papers, sections of a book, or the like, by driving the ends through the sheets and clinching them on the other side.", "S": ["predominant "], "A": ["auxiliary ", "extra ", "inessential ", "insignificant ", "minor ", "nonessential ", "secondary ", "subordinate ", "trivial ", "unimportant ", "unnecessary "]}

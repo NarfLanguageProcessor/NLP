@@ -1,1 +1,1 @@
-{"index": 11439, "D": "pleasantly entertaining or diverting", "S": ["jokingly "], "A": []}
+{"index": 11439, "D": "pleasantly entertaining or diverting", "S": ["jokingly"], "A": []}

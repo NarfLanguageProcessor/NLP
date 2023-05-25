@@ -1,1 +1,1 @@
-{"index": 369013, "D": "the spirit of the time; the general trend of thought, feeling, or tastes characteristic of a particular period of time", "S": ["climate ", "outlook ", "spirit ", "trend "], "A": []}
+{"index": 369013, "D": "the spirit of the time; the general trend of thought, feeling, or tastes characteristic of a particular period of time", "S": ["climate", "outlook", "spirit", "trend"], "A": []}

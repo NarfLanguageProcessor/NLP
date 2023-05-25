@@ -1,1 +1,1 @@
-{"index": 106161, "D": "of or relating to every day; daily", "S": ["commonplace ", "frequent ", "mundane ", "normal ", "ordinary ", "prosaic ", "usual ", "workaday "], "A": ["abnormal ", "extraordinary ", "infrequent ", "irregular ", "rare ", "uncommon ", "unusual "]}
+{"index": 106161, "D": "of or relating to every day; daily", "S": ["commonplace", "frequent", "mundane", "normal", "ordinary", "prosaic", "usual", "workaday"], "A": ["abnormal", "extraordinary", "infrequent", "irregular", "rare", "uncommon", "unusual"]}

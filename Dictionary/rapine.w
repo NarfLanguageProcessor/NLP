@@ -1,1 +1,1 @@
-{"index": 260741, "D": "the violent seizure and carrying off of another's property; plunder.", "S": ["plunder "], "A": []}
+{"index": 260741, "D": "the violent seizure and carrying off of another's property; plunder.", "S": ["plunder"], "A": []}

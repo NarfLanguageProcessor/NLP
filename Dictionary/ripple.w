@@ -1,1 +1,1 @@
-{"index": 273192, "D": "(of a liquid surface) to form small waves or undulations, as water agitated by a breeze.", "S": ["billow ", "breaker ", "crest ", "curl ", "fold ", "furrow ", "line ", "rippling ", "rush ", "surge ", "swell ", "tide ", "undulation ", "whitecap "], "A": []}
+{"index": 273192, "D": "(of a liquid surface) to form small waves or undulations, as water agitated by a breeze.", "S": ["billow", "breaker", "crest", "curl", "fold", "furrow", "line", "rippling", "rush", "surge", "swell", "tide", "undulation", "whitecap"], "A": []}

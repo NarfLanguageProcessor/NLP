@@ -1,1 +1,1 @@
-{"index": 306669, "D": "to play on (a stringed musical instrument) by running the fingers lightly across the strings.", "S": ["pick ", "pluck ", "plunk "], "A": []}
+{"index": 306669, "D": "to play on (a stringed musical instrument) by running the fingers lightly across the strings.", "S": ["pick", "pluck", "plunk"], "A": []}

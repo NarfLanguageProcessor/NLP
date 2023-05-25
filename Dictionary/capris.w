@@ -1,1 +1,1 @@
-{"index": 47107, "D": "an island in W Italy, in the Bay of Naples", "S": ["Capri pants ", "breeches ", "calf-length slacks ", "cropped pants ", "jodhpurs ", "knickers ", "leggings ", "pegged pants "], "A": []}
+{"index": 47107, "D": "an island in W Italy, in the Bay of Naples", "S": ["Capri pants", "breeches", "calf-length slacks", "cropped pants", "jodhpurs", "knickers", "leggings", "pegged pants"], "A": []}

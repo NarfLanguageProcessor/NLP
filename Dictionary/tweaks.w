@@ -1,1 +1,1 @@
-{"index": 333217, "D": "to pinch and pull with a jerk and twist", "S": ["tease ", "twist "], "A": []}
+{"index": 333217, "D": "to pinch and pull with a jerk and twist", "S": ["tease", "twist"], "A": []}

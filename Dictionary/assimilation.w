@@ -1,1 +1,1 @@
-{"index": 21796, "D": "the act or process of assimilating,  or of absorbing information, experiences, etc.", "S": ["anabolism ", "catabolism ", "consumption ", "digestion ", "ingestion ", "inhalation ", "metabolism "], "A": []}
+{"index": 21796, "D": "the act or process of assimilating,  or of absorbing information, experiences, etc.", "S": ["anabolism", "catabolism", "consumption", "digestion", "ingestion", "inhalation", "metabolism"], "A": []}

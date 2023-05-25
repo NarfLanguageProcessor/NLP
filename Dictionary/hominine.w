@@ -1,1 +1,1 @@
-{"index": 142949, "D": "a member of the subfamily Homininae, which includes gorillas, chimpanzees, and humans and their extinct relatives.", "S": ["animal ", "anthropoid ", "biped ", "hominid ", "humanoid ", "mortal "], "A": []}
+{"index": 142949, "D": "a member of the subfamily Homininae, which includes gorillas, chimpanzees, and humans and their extinct relatives.", "S": ["animal", "anthropoid", "biped", "hominid", "humanoid", "mortal"], "A": []}

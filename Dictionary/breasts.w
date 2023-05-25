@@ -1,1 +1,1 @@
-{"index": 40310, "D": "(in bipeds) the outer, front part of the thorax, or the front part of the body from the neck to the abdomen; chest.", "S": ["bosom ", "chest ", "nipple "], "A": []}
+{"index": 40310, "D": "(in bipeds) the outer, front part of the thorax, or the front part of the body from the neck to the abdomen; chest.", "S": ["bosom", "chest", "nipple"], "A": []}

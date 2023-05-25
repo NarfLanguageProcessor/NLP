@@ -1,1 +1,1 @@
-{"index": 134221, "D": "arousing hate  or deserving to be hated", "S": ["antipathy ", "aversion ", "dislike ", "distaste ", "hatred ", "loathing ", "repulsion ", "revulsion "], "A": ["approval ", "liking ", "love ", "loving "]}
+{"index": 134221, "D": "arousing hate  or deserving to be hated", "S": ["antipathy", "aversion", "dislike", "distaste", "hatred", "loathing", "repulsion", "revulsion"], "A": ["approval", "liking", "love", "loving"]}

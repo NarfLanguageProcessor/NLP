@@ -1,1 +1,0 @@
-{"index": 180347, "D": "united in wedlock; wedded", "S": [], "A": []}

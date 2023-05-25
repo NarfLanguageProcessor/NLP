@@ -1,1 +1,1 @@
-{"index": 20304, "D": "to claim unwarrantably or presumptuously; assume or appropriate to oneself without right", "S": ["appropriation ", "confiscation ", "encroachment ", "preemption ", "seizure "], "A": []}
+{"index": 20304, "D": "to claim unwarrantably or presumptuously; assume or appropriate to oneself without right", "S": ["appropriation", "confiscation", "encroachment", "preemption", "seizure"], "A": []}

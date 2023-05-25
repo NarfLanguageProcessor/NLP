@@ -1,1 +1,0 @@
-{"index": 260346, "D": "a person or thing that rams. ", "S": [], "A": []}

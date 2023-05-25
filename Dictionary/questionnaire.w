@@ -1,1 +1,1 @@
-{"index": 258435, "D": "a list of questions, usually printed, submitted for replies that can be analyzed for usable information", "S": ["application ", "census ", "sampling ", "survey "], "A": []}
+{"index": 258435, "D": "a list of questions, usually printed, submitted for replies that can be analyzed for usable information", "S": ["application", "census", "sampling", "survey"], "A": []}

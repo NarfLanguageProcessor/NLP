@@ -1,1 +1,1 @@
-{"index": 363529, "D": "any instrument or device for use in attack or defense in combat, fighting, or war, as a sword, rifle, or cannon.", "S": ["accoutrements ", "armaments ", "artillery ", "equipment ", "firearms ", "guns ", "munitions ", "ordnance ", "panoply "], "A": []}
+{"index": 363529, "D": "any instrument or device for use in attack or defense in combat, fighting, or war, as a sword, rifle, or cannon.", "S": ["accoutrements", "armaments", "artillery", "equipment", "firearms", "guns", "munitions", "ordnance", "panoply"], "A": []}

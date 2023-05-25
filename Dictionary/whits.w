@@ -1,1 +1,1 @@
-{"index": 365236, "D": "a particle; bit; jot  (used especially in negative phrases)", "S": ["iota "], "A": ["lot ", "whole "]}
+{"index": 365236, "D": "a particle; bit; jot  (used especially in negative phrases)", "S": ["iota"], "A": ["lot", "whole"]}

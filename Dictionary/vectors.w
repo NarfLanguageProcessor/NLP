@@ -1,1 +1,1 @@
-{"index": 357628, "D": "any generalization of the above quantities.", "S": ["aim ", "angle ", "bearing ", "course ", "direction ", "line ", "point ", "route ", "track ", "trajectory ", "way "], "A": []}
+{"index": 357628, "D": "any generalization of the above quantities.", "S": ["aim", "angle", "bearing", "course", "direction", "line", "point", "route", "track", "trajectory", "way"], "A": []}

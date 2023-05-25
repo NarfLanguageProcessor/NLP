@@ -1,1 +1,1 @@
-{"index": 83082, "D": "a person held in custody, especially for a political offense or for questioning.", "S": ["hostage ", "prisoner ", "prisoner of war ", "slave "], "A": ["independent "]}
+{"index": 83082, "D": "a person held in custody, especially for a political offense or for questioning.", "S": ["hostage", "prisoner", "prisoner of war", "slave"], "A": ["independent"]}

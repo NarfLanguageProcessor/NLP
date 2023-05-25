@@ -1,1 +1,1 @@
-{"index": 208423, "D": "a narrow strip of unleavened egg dough that has been rolled thin and dried, boiled, and served alone or in soups, casseroles, etc.; a ribbon-shaped pasta.", "S": ["coconut "], "A": []}
+{"index": 208423, "D": "a narrow strip of unleavened egg dough that has been rolled thin and dried, boiled, and served alone or in soups, casseroles, etc.; a ribbon-shaped pasta.", "S": ["coconut"], "A": []}

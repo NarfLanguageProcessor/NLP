@@ -1,1 +1,1 @@
-{"index": 196050, "D": "a heavy, large-caliber smoothbore gun for infantry soldiers, introduced in the 16th century", "S": ["carbine ", "rifle "], "A": []}
+{"index": 196050, "D": "a heavy, large-caliber smoothbore gun for infantry soldiers, introduced in the 16th century", "S": ["carbine", "rifle"], "A": []}

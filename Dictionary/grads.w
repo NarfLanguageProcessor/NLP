@@ -1,1 +1,1 @@
-{"index": 128557, "D": "a graduate.", "S": ["alum ", "alumna ", "alumnus ", "doctor ", "recipient "], "A": ["undergraduate "]}
+{"index": 128557, "D": "a graduate.", "S": ["alum", "alumna", "alumnus", "doctor", "recipient"], "A": ["undergraduate"]}

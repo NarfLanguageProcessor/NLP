@@ -1,1 +1,1 @@
-{"index": 285789, "D": "sevenfold; consisting of seven parts.", "S": ["septenary "], "A": []}
+{"index": 285789, "D": "sevenfold; consisting of seven parts.", "S": ["septenary"], "A": []}

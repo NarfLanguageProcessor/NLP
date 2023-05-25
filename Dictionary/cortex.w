@@ -1,1 +1,1 @@
-{"index": 69835, "D": "the cerebral cortex. ", "S": ["bark ", "layer ", "peridium ", "rind "], "A": []}
+{"index": 69835, "D": "the cerebral cortex. ", "S": ["bark", "layer", "peridium", "rind"], "A": []}

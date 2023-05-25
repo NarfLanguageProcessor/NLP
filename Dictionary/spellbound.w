@@ -1,1 +1,1 @@
-{"index": 299095, "D": "bound by or as if by a spell;  enchanted, entranced, or fascinated", "S": ["amazed ", "bemused ", "breathless ", "captivated ", "enthralled ", "rapt "], "A": ["disenchanted ", "disinterested "]}
+{"index": 299095, "D": "bound by or as if by a spell;  enchanted, entranced, or fascinated", "S": ["amazed", "bemused", "breathless", "captivated", "enthralled", "rapt"], "A": ["disenchanted", "disinterested"]}

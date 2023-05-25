@@ -1,1 +1,0 @@
-{"index": 356849, "D": "furnished with or opening by a valve or valves.", "S": [], "A": []}

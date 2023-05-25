@@ -1,1 +1,1 @@
-{"index": 81103, "D": "an assertion that something said, believed, alleged, etc., is false", "S": ["disapproval ", "rebuttal ", "rejection ", "repudiation ", "retraction ", "veto "], "A": ["allowance ", "approval ", "confirmation ", "ratification ", "sanction ", "agreement ", "permission "]}
+{"index": 81103, "D": "an assertion that something said, believed, alleged, etc., is false", "S": ["disapproval", "rebuttal", "rejection", "repudiation", "retraction", "veto"], "A": ["allowance", "approval", "confirmation", "ratification", "sanction", "agreement", "permission"]}

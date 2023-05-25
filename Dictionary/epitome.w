@@ -1,1 +1,1 @@
-{"index": 103002, "D": "a person or thing that is typical of or possesses to a high degree the features of a whole class", "S": ["apotheosis ", "embodiment ", "essence ", "exemplar ", "personification "], "A": ["addition ", "enlargement ", "expansion ", "extension ", "increase "]}
+{"index": 103002, "D": "a person or thing that is typical of or possesses to a high degree the features of a whole class", "S": ["apotheosis", "embodiment", "essence", "exemplar", "personification"], "A": ["addition", "enlargement", "expansion", "extension", "increase"]}

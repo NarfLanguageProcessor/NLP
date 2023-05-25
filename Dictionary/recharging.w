@@ -1,1 +1,1 @@
-{"index": 262799, "D": "to charge again with electricity.", "S": ["renovation ", "reopening ", "replenishment ", "restoration ", "revitalization "], "A": []}
+{"index": 262799, "D": "to charge again with electricity.", "S": ["renovation", "reopening", "replenishment", "restoration", "revitalization"], "A": []}

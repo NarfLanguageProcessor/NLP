@@ -1,1 +1,1 @@
-{"index": 94265, "D": "duodecimal. ", "S": ["duodecimal ", "twelfth "], "A": []}
+{"index": 94265, "D": "duodecimal. ", "S": ["duodecimal", "twelfth"], "A": []}

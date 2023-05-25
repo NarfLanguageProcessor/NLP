@@ -1,1 +1,1 @@
-{"index": 153557, "D": "to put or place in", "S": ["embed ", "enter ", "fill in ", "imbed ", "implant ", "include ", "inject ", "introduce ", "stick "], "A": ["erase ", "forget ", "dislodge ", "displace ", "halt ", "leave alone ", "remove "]}
+{"index": 153557, "D": "to put or place in", "S": ["embed", "enter", "fill in", "imbed", "implant", "include", "inject", "introduce", "stick"], "A": ["erase", "forget", "dislodge", "displace", "halt", "leave alone", "remove"]}

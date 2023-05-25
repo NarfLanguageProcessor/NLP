@@ -1,1 +1,1 @@
-{"index": 17995, "D": [], "S": ["closeness "], "A": ["distance ", "remoteness "]}
+{"index": 17995, "D": [], "S": ["closeness"], "A": ["distance", "remoteness"]}

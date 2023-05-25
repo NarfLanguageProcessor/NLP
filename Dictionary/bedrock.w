@@ -1,1 +1,1 @@
-{"index": 30194, "D": "unbroken solid rock,  overlaid in most places by soil or rock  fragments.", "S": ["base ", "bottom ", "ground ", "substratum "], "A": ["top "]}
+{"index": 30194, "D": "unbroken solid rock,  overlaid in most places by soil or rock  fragments.", "S": ["base", "bottom", "ground", "substratum"], "A": ["top"]}

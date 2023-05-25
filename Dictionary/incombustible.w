@@ -1,1 +1,1 @@
-{"index": 150040, "D": "not combustible; incapable of being burned; fireproof.", "S": ["concrete "], "A": ["waterproof "]}
+{"index": 150040, "D": "not combustible; incapable of being burned; fireproof.", "S": ["concrete"], "A": ["waterproof"]}

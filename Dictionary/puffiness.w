@@ -1,1 +1,1 @@
-{"index": 256100, "D": "gusty1. ", "S": ["boom ", "expansion ", "hike ", "rise "], "A": ["abridgment ", "compression ", "decrease ", "reduction "]}
+{"index": 256100, "D": "gusty1. ", "S": ["boom", "expansion", "hike", "rise"], "A": ["abridgment", "compression", "decrease", "reduction"]}

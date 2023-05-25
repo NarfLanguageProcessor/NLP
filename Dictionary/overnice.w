@@ -1,1 +1,1 @@
-{"index": 220350, "D": "too fastidious, precise, etc", "S": ["choosy ", "discriminating ", "exacting ", "finicky ", "fussy ", "squeamish "], "A": ["uncritical ", "undemanding ", "unfussy "]}
+{"index": 220350, "D": "too fastidious, precise, etc", "S": ["choosy", "discriminating", "exacting", "finicky", "fussy", "squeamish"], "A": ["uncritical", "undemanding", "unfussy"]}

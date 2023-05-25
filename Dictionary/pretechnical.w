@@ -1,1 +1,0 @@
-{"index": 249849, "D": "belonging or pertaining to an art, science, or the like", "S": [], "A": []}

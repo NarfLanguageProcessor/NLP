@@ -1,1 +1,1 @@
-{"index": 313620, "D": "(of troops, a fort or town, etc.) encircled or hemmed in by enemies on all sides so as to cut off communication or retreat", "S": ["ringed "], "A": ["agape ", "free "]}
+{"index": 313620, "D": "(of troops, a fort or town, etc.) encircled or hemmed in by enemies on all sides so as to cut off communication or retreat", "S": ["ringed"], "A": ["agape", "free"]}

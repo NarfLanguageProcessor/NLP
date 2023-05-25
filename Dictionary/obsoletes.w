@@ -1,1 +1,1 @@
-{"index": 210446, "D": "no longer in general use; fallen into disuse", "S": ["retire ", "superannuate "], "A": []}
+{"index": 210446, "D": "no longer in general use; fallen into disuse", "S": ["retire", "superannuate"], "A": []}

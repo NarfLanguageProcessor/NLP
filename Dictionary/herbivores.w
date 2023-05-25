@@ -1,1 +1,1 @@
-{"index": 136936, "D": "a herbivorous  animal.", "S": ["fruitarian ", "vegan ", "vegetarian "], "A": ["carnivore ", "omnivore "]}
+{"index": 136936, "D": "a herbivorous  animal.", "S": ["fruitarian", "vegan", "vegetarian"], "A": ["carnivore", "omnivore"]}

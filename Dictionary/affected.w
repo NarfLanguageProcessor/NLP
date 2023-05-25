@@ -1,1 +1,1 @@
-{"index": 5303, "D": "acted upon; influenced.", "S": ["afflicted ", "concerned ", "damaged ", "distressed ", "impressed ", "overwhelmed ", "stirred ", "touched ", "troubled "], "A": ["calm ", "collected ", "happy ", "sane ", "untroubled ", "hard "]}
+{"index": 5303, "D": "acted upon; influenced.", "S": ["afflicted", "concerned", "damaged", "distressed", "impressed", "overwhelmed", "stirred", "touched", "troubled"], "A": ["calm", "collected", "happy", "sane", "untroubled", "hard"]}

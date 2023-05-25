@@ -1,1 +1,1 @@
-{"index": 282007, "D": "to borrow (a small amount or item) with no intention of repaying or returning it", "S": ["bum ", "freeload ", "hunt ", "sponge ", "wheedle "], "A": ["give ", "offer "]}
+{"index": 282007, "D": "to borrow (a small amount or item) with no intention of repaying or returning it", "S": ["bum", "freeload", "hunt", "sponge", "wheedle"], "A": ["give", "offer"]}

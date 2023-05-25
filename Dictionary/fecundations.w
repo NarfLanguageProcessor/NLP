@@ -1,1 +1,1 @@
-{"index": 110779, "D": "to make prolific or fruitful.", "S": ["breeding ", "implantation ", "pollination ", "procreation ", "propagation "], "A": []}
+{"index": 110779, "D": "to make prolific or fruitful.", "S": ["breeding", "implantation", "pollination", "procreation", "propagation"], "A": []}

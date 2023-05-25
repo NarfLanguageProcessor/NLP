@@ -1,1 +1,1 @@
-{"index": 327892, "D": "causing a radical and typically positive change in outlook, character, form, or condition", "S": ["life-changing ", "transformational "], "A": ["uneventful "]}
+{"index": 327892, "D": "causing a radical and typically positive change in outlook, character, form, or condition", "S": ["life-changing", "transformational"], "A": ["uneventful"]}

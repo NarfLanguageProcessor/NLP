@@ -1,1 +1,1 @@
-{"index": 297871, "D": "freedom from injury, damage, defect, disease, etc.; health or good condition", "S": ["correctness ", "durability ", "integrity ", "solidity ", "solvency "], "A": ["unhealthiness ", "unsoundness "]}
+{"index": 297871, "D": "freedom from injury, damage, defect, disease, etc.; health or good condition", "S": ["correctness", "durability", "integrity", "solidity", "solvency"], "A": ["unhealthiness", "unsoundness"]}

@@ -1,1 +1,1 @@
-{"index": 234059, "D": "relating to the body or its appearance", "S": ["palpably ", "substantially "], "A": ["slightly ", "unsubstantially "]}
+{"index": 234059, "D": "relating to the body or its appearance", "S": ["palpably", "substantially"], "A": ["slightly", "unsubstantially"]}

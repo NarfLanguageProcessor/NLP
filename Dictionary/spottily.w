@@ -1,1 +1,1 @@
-{"index": 301115, "D": "full of, having, or occurring in spots", "S": ["unequally "], "A": ["equally ", "evenly "]}
+{"index": 301115, "D": "full of, having, or occurring in spots", "S": ["unequally"], "A": ["equally", "evenly"]}

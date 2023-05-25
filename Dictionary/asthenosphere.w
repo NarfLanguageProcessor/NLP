@@ -1,0 +1,1 @@
+{"index": 22087, "D": "the region below the lithosphere,  variously estimated as being from fifty to several hundred miles (eighty-five to several hundred kilometers) thick, in which the rock is less rigid than that above and below but rigid enough to transmit transverse seismic waves.", "S": [], "A": []}

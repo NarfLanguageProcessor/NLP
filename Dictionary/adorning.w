@@ -1,0 +1,1 @@
+{"index": 4350, "D": "to decorate or add beauty to, as by ornaments", "S": ["artistic", "developmental"], "A": []}

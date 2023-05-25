@@ -1,1 +1,0 @@
-{"index": 363829, "D": "any of numerous beetles of the family Curculionidae, which have the head prolonged into a snout and which are destructive to nuts, grain, fruit, etc.", "S": [], "A": []}

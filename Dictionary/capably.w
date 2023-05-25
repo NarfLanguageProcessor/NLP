@@ -1,1 +1,1 @@
-{"index": 46757, "D": "having power and ability; efficient; competent", "S": ["adroitly ", "competently "], "A": []}
+{"index": 46757, "D": "having power and ability; efficient; competent", "S": ["adroitly", "competently"], "A": []}

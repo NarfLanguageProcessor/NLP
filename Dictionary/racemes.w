@@ -1,1 +1,0 @@
-{"index": 259328, "D": "a simple indeterminate inflorescence in which the flowers are borne on short pedicels lying along a common axis, as in the lily of the valley.", "S": ["conoid ", "pyramid ", "raceme ", "strobile "], "A": []}

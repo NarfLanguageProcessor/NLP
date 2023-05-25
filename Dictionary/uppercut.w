@@ -1,1 +1,1 @@
-{"index": 354862, "D": "a swinging blow directed upward, as to an adversary's chin.", "S": ["bump ", "concussion ", "impact ", "jab ", "jolt ", "kick ", "punch ", "shock ", "slap ", "stroke "], "A": []}
+{"index": 354862, "D": "a swinging blow directed upward, as to an adversary's chin.", "S": ["bump", "concussion", "impact", "jab", "jolt", "kick", "punch", "shock", "slap", "stroke"], "A": []}

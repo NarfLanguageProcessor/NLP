@@ -1,1 +1,1 @@
-{"index": 133319, "D": "writing done with a pen or pencil in the hand; script.", "S": ["calligraphy ", "longhand ", "manuscript ", "scrawl ", "script ", "writing "], "A": []}
+{"index": 133319, "D": "writing done with a pen or pencil in the hand; script.", "S": ["calligraphy", "longhand", "manuscript", "scrawl", "script", "writing"], "A": []}

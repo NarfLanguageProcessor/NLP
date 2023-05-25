@@ -1,1 +1,1 @@
-{"index": 295926, "D": "to draw air into the nose for the purpose of smelling something; snuff. ", "S": ["bark ", "growl ", "grunt ", "mumble ", "mutter "], "A": ["fix "]}
+{"index": 295926, "D": "to draw air into the nose for the purpose of smelling something; snuff. ", "S": ["bark", "growl", "grunt", "mumble", "mutter"], "A": ["fix"]}

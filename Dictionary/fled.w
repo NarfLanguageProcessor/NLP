@@ -1,1 +1,1 @@
-{"index": 114338, "D": "simple past tense and past participle of flee. ", "S": ["escaped "], "A": []}
+{"index": 114338, "D": "simple past tense and past participle of flee. ", "S": ["escaped"], "A": []}

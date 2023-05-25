@@ -1,1 +1,1 @@
-{"index": 62804, "D": "to work, one with another; cooperate, as on a literary work", "S": ["collude ", "conspire ", "cooperate ", "hook up ", "participate "], "A": ["disagree ", "divorce ", "part "]}
+{"index": 62804, "D": "to work, one with another; cooperate, as on a literary work", "S": ["collude", "conspire", "cooperate", "hook up", "participate"], "A": ["disagree", "divorce", "part"]}

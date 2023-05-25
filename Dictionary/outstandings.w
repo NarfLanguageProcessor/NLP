@@ -1,1 +1,1 @@
-{"index": 217593, "D": [], "S": ["arrears ", "bill ", "capital ", "commitment ", "credit ", "damage ", "deficit ", "due ", "indebtedness ", "liability ", "mortgage ", "obligation ", "price tag ", "receipt "], "A": ["irresponsibility "]}
+{"index": 217593, "D": [], "S": ["arrears", "bill", "capital", "commitment", "credit", "damage", "deficit", "due", "indebtedness", "liability", "mortgage", "obligation", "price tag", "receipt"], "A": ["irresponsibility"]}

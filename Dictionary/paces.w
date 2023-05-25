@@ -1,1 +1,1 @@
-{"index": 222582, "D": "a rate of movement, especially in stepping, walking, etc.", "S": ["clip ", "measure ", "step "], "A": []}
+{"index": 222582, "D": "a rate of movement, especially in stepping, walking, etc.", "S": ["clip", "measure", "step"], "A": []}

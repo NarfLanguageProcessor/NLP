@@ -1,1 +1,1 @@
-{"index": 154158, "D": "not susceptible;  incapable of being influenced or affected (usually followed by of or to)", "S": ["unsusceptible "], "A": []}
+{"index": 154158, "D": "not susceptible;  incapable of being influenced or affected (usually followed by of or to)", "S": ["unsusceptible"], "A": []}

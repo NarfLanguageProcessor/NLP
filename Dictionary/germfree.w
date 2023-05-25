@@ -1,1 +1,1 @@
-{"index": 124226, "D": "free  of germs;  sterile", "S": ["hygienic ", "sterile "], "A": ["dirty "]}
+{"index": 124226, "D": "free  of germs;  sterile", "S": ["hygienic", "sterile"], "A": ["dirty"]}

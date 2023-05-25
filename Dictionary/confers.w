@@ -1,1 +1,1 @@
-{"index": 65832, "D": "to consult together; compare opinions; carry on a discussion or deliberation.", "S": ["advise ", "argue ", "brainstorm ", "consult ", "huddle ", "negotiate ", "speak "], "A": ["keep quiet ", "be quiet ", "refuse "]}
+{"index": 65832, "D": "to consult together; compare opinions; carry on a discussion or deliberation.", "S": ["advise", "argue", "brainstorm", "consult", "huddle", "negotiate", "speak"], "A": ["keep quiet", "be quiet", "refuse"]}

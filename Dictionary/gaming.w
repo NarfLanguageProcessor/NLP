@@ -1,1 +1,1 @@
-{"index": 121739, "D": "gambling. ", "S": ["action "], "A": []}
+{"index": 121739, "D": "gambling. ", "S": ["action"], "A": []}

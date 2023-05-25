@@ -1,1 +1,1 @@
-{"index": 197286, "D": "being the place or environment in which a person was born or a thing came into being", "S": ["community ", "culture ", "people ", "populace ", "public ", "society ", "state "], "A": []}
+{"index": 197286, "D": "being the place or environment in which a person was born or a thing came into being", "S": ["community", "culture", "people", "populace", "public", "society", "state"], "A": []}

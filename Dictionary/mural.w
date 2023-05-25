@@ -1,1 +1,1 @@
-{"index": 195652, "D": "a large picture painted or affixed directly on a wall or ceiling.", "S": ["painting ", "photograph ", "scene ", "scenery ", "view "], "A": []}
+{"index": 195652, "D": "a large picture painted or affixed directly on a wall or ceiling.", "S": ["painting", "photograph", "scene", "scenery", "view"], "A": []}

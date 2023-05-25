@@ -1,1 +1,1 @@
-{"index": 166925, "D": "the act of a person or thing that laces.", "S": ["whipping "], "A": ["accomplishment ", "achievement ", "boon ", "building ", "construction ", "creation ", "forfeit ", "good fortune ", "loss ", "rise ", "success ", "surrender ", "victory ", "win ", "yielding "]}
+{"index": 166925, "D": "the act of a person or thing that laces.", "S": ["whipping"], "A": ["accomplishment", "achievement", "boon", "building", "construction", "creation", "forfeit", "good fortune", "loss", "rise", "success", "surrender", "victory", "win", "yielding"]}

@@ -1,1 +1,1 @@
-{"index": 86571, "D": "a document given by an educational institution conferring a degree on a person or certifying that the person has satisfactorily completed a course of study.", "S": ["credentials ", "degree ", "recognition ", "voucher ", "warrant "], "A": []}
+{"index": 86571, "D": "a document given by an educational institution conferring a degree on a person or certifying that the person has satisfactorily completed a course of study.", "S": ["credentials", "degree", "recognition", "voucher", "warrant"], "A": []}

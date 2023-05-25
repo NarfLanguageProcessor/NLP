@@ -1,1 +1,1 @@
-{"index": 288223, "D": "resourceful; fertile in expedients.", "S": ["shrewdly "], "A": []}
+{"index": 288223, "D": "resourceful; fertile in expedients.", "S": ["shrewdly"], "A": []}

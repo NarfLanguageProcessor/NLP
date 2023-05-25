@@ -1,1 +1,1 @@
-{"index": 49557, "D": "a chain or connected series, especially of extracts from the writings of the fathers of the Christian church.", "S": ["conglomerate ", "group ", "string "], "A": ["interruption "]}
+{"index": 49557, "D": "a chain or connected series, especially of extracts from the writings of the fathers of the Christian church.", "S": ["conglomerate", "group", "string"], "A": ["interruption"]}

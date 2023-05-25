@@ -1,1 +1,1 @@
-{"index": 336798, "D": "to hold or treat as dear; feel love for", "S": ["deserted ", "desolate ", "destitute ", "empty ", "homeless ", "isolated ", "lonesome ", "reclusive ", "solitary "], "A": ["populated ", "sociable "]}
+{"index": 336798, "D": "to hold or treat as dear; feel love for", "S": ["deserted", "desolate", "destitute", "empty", "homeless", "isolated", "lonesome", "reclusive", "solitary"], "A": ["populated", "sociable"]}

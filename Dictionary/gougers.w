@@ -1,1 +1,1 @@
-{"index": 128302, "D": "a chisel having a partly cylindrical blade with the bevel on either the concave or the convex side.", "S": ["charlatan ", "cheater ", "con artist ", "counterfeiter ", "crook ", "forger ", "rascal ", "thief "], "A": ["philanthropist "]}
+{"index": 128302, "D": "a chisel having a partly cylindrical blade with the bevel on either the concave or the convex side.", "S": ["charlatan", "cheater", "con artist", "counterfeiter", "crook", "forger", "rascal", "thief"], "A": ["philanthropist"]}

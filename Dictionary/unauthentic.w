@@ -1,1 +1,1 @@
-{"index": 335439, "D": "not false or copied; genuine; real", "S": ["bogus ", "false ", "phony ", "specious "], "A": ["genuine ", "real ", "true ", "valid "]}
+{"index": 335439, "D": "not false or copied; genuine; real", "S": ["bogus", "false", "phony", "specious"], "A": ["genuine", "real", "true", "valid"]}

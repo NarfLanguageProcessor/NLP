@@ -1,0 +1,1 @@
+{"index": 34045, "D": "characterized by or full of billows;  surging", "S": ["bouncing", "bouncy", "bulgy", "distended", "ebbing and flowing", "heaving", "puffy", "rippling", "rising", "rising and falling", "rolling", "swelling", "swirling", "swollen", "undulating", "waving", "wavy"], "A": []}

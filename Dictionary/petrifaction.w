@@ -1,1 +1,1 @@
-{"index": 232469, "D": "the act or process of petrifying;  the state of being petrified.", "S": ["relic ", "skeleton ", "specimen ", "trace "], "A": []}
+{"index": 232469, "D": "the act or process of petrifying;  the state of being petrified.", "S": ["relic", "skeleton", "specimen", "trace"], "A": []}

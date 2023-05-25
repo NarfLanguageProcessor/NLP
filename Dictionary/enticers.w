@@ -1,1 +1,1 @@
-{"index": 101437, "D": [], "S": ["allurer ", "charmer ", "coaxer ", "lurer ", "persuader ", "siren ", "tempter ", "wheedler "], "A": []}
+{"index": 101437, "D": [], "S": ["allurer", "charmer", "coaxer", "lurer", "persuader", "siren", "tempter", "wheedler"], "A": []}

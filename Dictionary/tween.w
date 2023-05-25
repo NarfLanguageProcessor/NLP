@@ -1,1 +1,1 @@
-{"index": 333234, "D": "contraction of between.", "S": ["betwixt "], "A": []}
+{"index": 333234, "D": "contraction of between.", "S": ["betwixt"], "A": []}

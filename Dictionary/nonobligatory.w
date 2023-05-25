@@ -1,1 +1,1 @@
-{"index": 205546, "D": "required as a matter of obligation; mandatory", "S": ["unrestricted "], "A": []}
+{"index": 205546, "D": "required as a matter of obligation; mandatory", "S": ["unrestricted"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 359188, "D": "the act of vexing. ", "S": ["aggravation ", "agitation ", "annoyance ", "bother ", "chagrin ", "disquiet "], "A": ["delight ", "happiness ", "joy ", "pleasure "]}
+{"index": 359188, "D": "the act of vexing. ", "S": ["aggravation", "agitation", "annoyance", "bother", "chagrin", "disquiet"], "A": ["delight", "happiness", "joy", "pleasure"]}

@@ -1,1 +1,1 @@
-{"index": 331677, "D": "a person, usually one of a body of persons, appointed to administer the affairs of a company, institution, etc.", "S": ["cabinet ", "committee ", "jury ", "panel "], "A": ["individual ", "one "]}
+{"index": 331677, "D": "a person, usually one of a body of persons, appointed to administer the affairs of a company, institution, etc.", "S": ["cabinet", "committee", "jury", "panel"], "A": ["individual", "one"]}

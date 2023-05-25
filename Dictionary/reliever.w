@@ -1,1 +1,1 @@
-{"index": 266915, "D": "a person or thing that relieves. ", "S": ["backup "], "A": ["adversary ", "antagonist ", "blockage ", "boss ", "chief ", "detractor ", "enemy ", "foe ", "hindrance ", "injury ", "leader ", "manager ", "master ", "obstruction ", "opponent ", "opposer ", "superior "]}
+{"index": 266915, "D": "a person or thing that relieves. ", "S": ["backup"], "A": ["adversary", "antagonist", "blockage", "boss", "chief", "detractor", "enemy", "foe", "hindrance", "injury", "leader", "manager", "master", "obstruction", "opponent", "opposer", "superior"]}

@@ -1,1 +1,1 @@
-{"index": 154286, "D": "appealing to or engaging the intellect", "S": ["brilliantly ", "judiciously ", "logically ", "prudently ", "rationally ", "reasonably ", "sensibly ", "shrewdly ", "skillfully ", "wisely "], "A": ["badly ", "foolishly ", "stupidly ", "unintelligently "]}
+{"index": 154286, "D": "appealing to or engaging the intellect", "S": ["brilliantly", "judiciously", "logically", "prudently", "rationally", "reasonably", "sensibly", "shrewdly", "skillfully", "wisely"], "A": ["badly", "foolishly", "stupidly", "unintelligently"]}

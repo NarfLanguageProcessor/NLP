@@ -1,1 +1,1 @@
-{"index": 16682, "D": "having or showing little or no emotion", "S": ["callous ", "indifferent ", "laid-back ", "passive ", "stoic ", "uninterested "], "A": ["caring ", "compassionate ", "concerned ", "feeling ", "interested ", "sympathetic "]}
+{"index": 16682, "D": "having or showing little or no emotion", "S": ["callous", "indifferent", "laid-back", "passive", "stoic", "uninterested"], "A": ["caring", "compassionate", "concerned", "feeling", "interested", "sympathetic"]}

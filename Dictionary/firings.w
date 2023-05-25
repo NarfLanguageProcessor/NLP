@@ -1,1 +1,1 @@
-{"index": 113240, "D": "the act of a person or thing that fires. ", "S": ["torching "], "A": []}
+{"index": 113240, "D": "the act of a person or thing that fires. ", "S": ["torching"], "A": []}

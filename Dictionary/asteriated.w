@@ -1,0 +1,1 @@
+{"index": 22025, "D": "exhibiting asterism.", "S": [], "A": []}

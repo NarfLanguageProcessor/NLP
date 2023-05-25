@@ -1,1 +1,1 @@
-{"index": 29589, "D": "any nonhuman animal, especially a large, four-footed mammal.", "S": ["herd ", "oxen "], "A": []}
+{"index": 29589, "D": "any nonhuman animal, especially a large, four-footed mammal.", "S": ["herd", "oxen"], "A": []}

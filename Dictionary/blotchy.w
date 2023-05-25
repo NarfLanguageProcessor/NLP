@@ -1,1 +1,1 @@
-{"index": 36556, "D": "having blotches", "S": ["mottled ", "spotted "], "A": []}
+{"index": 36556, "D": "having blotches", "S": ["mottled", "spotted"], "A": []}

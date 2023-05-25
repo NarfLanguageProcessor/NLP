@@ -1,1 +1,1 @@
-{"index": 120206, "D": [], "S": ["burial ", "cremation "], "A": ["baptism ", "christening "]}
+{"index": 120206, "D": [], "S": ["burial", "cremation"], "A": ["baptism", "christening"]}

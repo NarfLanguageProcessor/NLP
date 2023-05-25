@@ -1,1 +1,1 @@
-{"index": 173586, "D": "able to read and write.", "S": ["cultured ", "educated ", "knowledgeable "], "A": ["ignorant ", "inexperienced ", "stupid ", "uneducated ", "unsophisticated "]}
+{"index": 173586, "D": "able to read and write.", "S": ["cultured", "educated", "knowledgeable"], "A": ["ignorant", "inexperienced", "stupid", "uneducated", "unsophisticated"]}

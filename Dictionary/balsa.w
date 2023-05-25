@@ -1,1 +1,1 @@
-{"index": 27119, "D": "a tropical American tree, Ochroma pyramidale (lagopus), of the bombax family, yielding an exceedingly light wood used for life preservers, rafts, toy airplanes, etc.", "S": ["barge ", "boat ", "life raft ", "lifeboat "], "A": []}
+{"index": 27119, "D": "a tropical American tree, Ochroma pyramidale (lagopus), of the bombax family, yielding an exceedingly light wood used for life preservers, rafts, toy airplanes, etc.", "S": ["barge", "boat", "life raft", "lifeboat"], "A": []}

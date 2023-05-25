@@ -1,1 +1,1 @@
-{"index": 198023, "D": "expressing or containing negation or denial", "S": ["denial ", "disavowal ", "nay ", "refusal ", "refutation "], "A": ["approval "]}
+{"index": 198023, "D": "expressing or containing negation or denial", "S": ["denial", "disavowal", "nay", "refusal", "refutation"], "A": ["approval"]}

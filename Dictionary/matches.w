@@ -1,1 +1,1 @@
-{"index": 181050, "D": "a slender piece of wood, cardboard, or other flammable material tipped with a chemical substance that produces fire when rubbed on a rough or chemically prepared surface.", "S": ["bout ", "contest ", "event ", "game ", "race ", "test ", "trial "], "A": ["peace "]}
+{"index": 181050, "D": "a slender piece of wood, cardboard, or other flammable material tipped with a chemical substance that produces fire when rubbed on a rough or chemically prepared surface.", "S": ["bout", "contest", "event", "game", "race", "test", "trial"], "A": ["peace"]}

@@ -1,1 +1,1 @@
-{"index": 106844, "D": "to separate and eliminate from an organic body; separate and expel from the blood or tissues, as waste or harmful matter.", "S": ["secrete "], "A": ["accept ", "allow ", "keep ", "permit ", "sanction ", "take ", "take in ", "welcome "]}
+{"index": 106844, "D": "to separate and eliminate from an organic body; separate and expel from the blood or tissues, as waste or harmful matter.", "S": ["secrete"], "A": ["accept", "allow", "keep", "permit", "sanction", "take", "take in", "welcome"]}

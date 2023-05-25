@@ -1,1 +1,1 @@
-{"index": 197352, "D": "existing in or formed by nature (opposed to artificial)", "S": ["character ", "sign ", "tone "], "A": ["heedlessness ", "ignorance ", "neglect "]}
+{"index": 197352, "D": "existing in or formed by nature (opposed to artificial)", "S": ["character", "sign", "tone"], "A": ["heedlessness", "ignorance", "neglect"]}

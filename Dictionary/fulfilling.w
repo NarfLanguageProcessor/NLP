@@ -1,1 +1,1 @@
-{"index": 119880, "D": "satisfying or rewarding, especially by meeting the emotional need for meaning, challenge, growth, success, etc.", "S": ["effective ", "efficacious "], "A": ["incapable ", "unproductive ", "useless "]}
+{"index": 119880, "D": "satisfying or rewarding, especially by meeting the emotional need for meaning, challenge, growth, success, etc.", "S": ["effective", "efficacious"], "A": ["incapable", "unproductive", "useless"]}

@@ -1,1 +1,1 @@
-{"index": 246101, "D": "a cliff with a vertical, nearly vertical, or overhanging face.", "S": ["bluff ", "cliff ", "crag "], "A": []}
+{"index": 246101, "D": "a cliff with a vertical, nearly vertical, or overhanging face.", "S": ["bluff", "cliff", "crag"], "A": []}

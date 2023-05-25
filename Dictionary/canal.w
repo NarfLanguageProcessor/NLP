@@ -1,1 +1,1 @@
-{"index": 45998, "D": "an artificial waterway for navigation, irrigation, etc.", "S": ["aqueduct ", "bottleneck ", "channel ", "conduit ", "course ", "cove ", "ditch ", "duct ", "estuary ", "firth ", "trench ", "water ", "watercourse "], "A": []}
+{"index": 45998, "D": "an artificial waterway for navigation, irrigation, etc.", "S": ["aqueduct", "bottleneck", "channel", "conduit", "course", "cove", "ditch", "duct", "estuary", "firth", "trench", "water", "watercourse"], "A": []}

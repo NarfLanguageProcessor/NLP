@@ -1,1 +1,1 @@
-{"index": 181154, "D": "of, relating to, or of the nature of mathematics", "S": ["analytical ", "numerical ", "scientific "], "A": []}
+{"index": 181154, "D": "of, relating to, or of the nature of mathematics", "S": ["analytical", "numerical", "scientific"], "A": []}

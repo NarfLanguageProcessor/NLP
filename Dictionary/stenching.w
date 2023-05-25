@@ -1,1 +1,1 @@
-{"index": 303630, "D": [], "S": ["emit ", "fume ", "smell ", "smoke ", "steam ", "stench ", "stink "], "A": []}
+{"index": 303630, "D": [], "S": ["emit", "fume", "smell", "smoke", "steam", "stench", "stink"], "A": []}

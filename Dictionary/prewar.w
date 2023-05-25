@@ -1,1 +1,1 @@
-{"index": 250255, "D": "before the war", "S": ["pre-Civil War ", "prior to the war "], "A": []}
+{"index": 250255, "D": "before the war", "S": ["pre-Civil War", "prior to the war"], "A": []}

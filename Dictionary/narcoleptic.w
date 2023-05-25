@@ -1,1 +1,1 @@
-{"index": 196952, "D": "a condition characterized by frequent and uncontrollable periods of deep sleep.", "S": ["annoyed ", "bored ", "distressed ", "drained ", "exasperated ", "fatigued ", "irritated ", "overworked ", "sleepy ", "stale "], "A": ["energized ", "lively ", "fresh ", "saved "]}
+{"index": 196952, "D": "a condition characterized by frequent and uncontrollable periods of deep sleep.", "S": ["annoyed", "bored", "distressed", "drained", "exasperated", "fatigued", "irritated", "overworked", "sleepy", "stale"], "A": ["energized", "lively", "fresh", "saved"]}

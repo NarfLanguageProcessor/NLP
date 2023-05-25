@@ -1,1 +1,1 @@
-{"index": 192417, "D": "(no longer in technical use) a psychosis characterized by thoughts confined to one idea or group of ideas.", "S": ["enthusiasm ", "fever ", "furor ", "mania ", "passion ", "rage ", "trend "], "A": []}
+{"index": 192417, "D": "(no longer in technical use) a psychosis characterized by thoughts confined to one idea or group of ideas.", "S": ["enthusiasm", "fever", "furor", "mania", "passion", "rage", "trend"], "A": []}

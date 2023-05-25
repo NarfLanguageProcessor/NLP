@@ -1,1 +1,1 @@
-{"index": 53093, "D": "the mistress of a castle.", "S": ["girlfriend ", "paramour ", "sweetheart "], "A": []}
+{"index": 53093, "D": "the mistress of a castle.", "S": ["girlfriend", "paramour", "sweetheart"], "A": []}

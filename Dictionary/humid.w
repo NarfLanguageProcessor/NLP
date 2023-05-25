@@ -1,1 +1,1 @@
-{"index": 144962, "D": "containing a high amount of water or water vapor; noticeably moist", "S": ["dank ", "moist ", "muggy ", "oppressive ", "soggy ", "steamy ", "sticky ", "stifling ", "stuffy ", "sultry ", "sweltering ", "wet "], "A": ["cold ", "cool ", "dehydrated ", "dry "]}
+{"index": 144962, "D": "containing a high amount of water or water vapor; noticeably moist", "S": ["dank", "moist", "muggy", "oppressive", "soggy", "steamy", "sticky", "stifling", "stuffy", "sultry", "sweltering", "wet"], "A": ["cold", "cool", "dehydrated", "dry"]}

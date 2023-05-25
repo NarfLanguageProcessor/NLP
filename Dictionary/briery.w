@@ -1,1 +1,1 @@
-{"index": 40732, "D": "a prickly plant or shrub, especially the sweetbrier  or a greenbrier. ", "S": ["barbed ", "bristling ", "echinated ", "prickly ", "pricky ", "spiked ", "spiky ", "spiny ", "thistly "], "A": []}
+{"index": 40732, "D": "a prickly plant or shrub, especially the sweetbrier  or a greenbrier. ", "S": ["barbed", "bristling", "echinated", "prickly", "pricky", "spiked", "spiky", "spiny", "thistly"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 106166, "D": "a 15th-century English morality play.", "S": ["anybody ", "everybody ", "people "], "A": ["no one ", "nobody "]}
+{"index": 106166, "D": "a 15th-century English morality play.", "S": ["anybody", "everybody", "people"], "A": ["no one", "nobody"]}

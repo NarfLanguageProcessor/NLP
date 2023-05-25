@@ -1,1 +1,1 @@
-{"index": 143691, "D": "the act of one who hopes", "S": ["anticipating ", "assuming ", "expecting ", "trusting ", "wishing "], "A": []}
+{"index": 143691, "D": "the act of one who hopes", "S": ["anticipating", "assuming", "expecting", "trusting", "wishing"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 313540, "D": "something that remains above what is used or needed.", "S": ["excess ", "leftover ", "unused "], "A": ["essential ", "lacking ", "necessary ", "needing ", "wanting "]}
+{"index": 313540, "D": "something that remains above what is used or needed.", "S": ["excess", "leftover", "unused"], "A": ["essential", "lacking", "necessary", "needing", "wanting"]}

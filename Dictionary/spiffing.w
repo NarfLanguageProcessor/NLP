@@ -1,1 +1,1 @@
-{"index": 299738, "D": "excellent; splendid", "S": ["groom ", "preen ", "prepare ", "slick ", "spruce ", "titivate "], "A": ["ignore "]}
+{"index": 299738, "D": "excellent; splendid", "S": ["groom", "preen", "prepare", "slick", "spruce", "titivate"], "A": ["ignore"]}

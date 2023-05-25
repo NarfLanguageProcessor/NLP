@@ -1,0 +1,1 @@
+{"index": 20075, "D": [], "S": ["aromatic", "delicious", "perfumed", "savory", "spicy", "sweet"], "A": ["bland", "distasteful", "tasteless", "unpleasant", "unsavory"]}

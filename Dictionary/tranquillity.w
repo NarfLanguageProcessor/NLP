@@ -1,1 +1,1 @@
-{"index": 327653, "D": "a state of calm or quietude", "S": ["calm ", "calmness ", "serenity ", "tranquility "], "A": ["agitation ", "disturbance ", "turbulence ", "violence ", "clamor ", "noise "]}
+{"index": 327653, "D": "a state of calm or quietude", "S": ["calm", "calmness", "serenity", "tranquility"], "A": ["agitation", "disturbance", "turbulence", "violence", "clamor", "noise"]}

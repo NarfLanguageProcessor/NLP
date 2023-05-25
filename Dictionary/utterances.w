@@ -1,1 +1,1 @@
-{"index": 356240, "D": "an act of uttering;  vocal expression.", "S": ["assertion ", "pronouncement "], "A": ["listening ", "question ", "quiet ", "request ", "silence "]}
+{"index": 356240, "D": "an act of uttering;  vocal expression.", "S": ["assertion", "pronouncement"], "A": ["listening", "question", "quiet", "request", "silence"]}

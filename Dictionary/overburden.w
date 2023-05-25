@@ -1,1 +1,1 @@
-{"index": 218468, "D": "to load with too great a burden;  overload", "S": ["encumber ", "oppress ", "overwhelm "], "A": ["aid ", "help "]}
+{"index": 218468, "D": "to load with too great a burden;  overload", "S": ["encumber", "oppress", "overwhelm"], "A": ["aid", "help"]}

@@ -1,1 +1,1 @@
-{"index": 89692, "D": "the extent or amount of space between two things, points, lines, etc.", "S": ["outdo ", "outpace ", "outrun ", "outstrip ", "pass "], "A": ["fail ", "lose "]}
+{"index": 89692, "D": "the extent or amount of space between two things, points, lines, etc.", "S": ["outdo", "outpace", "outrun", "outstrip", "pass"], "A": ["fail", "lose"]}

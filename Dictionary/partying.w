@@ -1,1 +1,1 @@
-{"index": 227065, "D": "a social gathering, as of invited guests at a private home, for conversation, refreshments, entertainment, etc.", "S": ["amuse ", "entertain "], "A": ["bore ", "tire ", "anger ", "annoy ", "depress ", "disappoint ", "disturb ", "frustrate ", "pain ", "refuse ", "upset "]}
+{"index": 227065, "D": "a social gathering, as of invited guests at a private home, for conversation, refreshments, entertainment, etc.", "S": ["amuse", "entertain"], "A": ["bore", "tire", "anger", "annoy", "depress", "disappoint", "disturb", "frustrate", "pain", "refuse", "upset"]}

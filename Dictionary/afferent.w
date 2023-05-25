@@ -1,1 +1,1 @@
-{"index": 5342, "D": "bringing to or leading toward an organ or part, as a nerve or arteriole (opposed to efferent).", "S": ["audiovisual ", "auditory ", "aural ", "neural ", "neurological ", "olfactory ", "sensual ", "sonic ", "tactile ", "visual "], "A": []}
+{"index": 5342, "D": "bringing to or leading toward an organ or part, as a nerve or arteriole (opposed to efferent).", "S": ["audiovisual", "auditory", "aural", "neural", "neurological", "olfactory", "sensual", "sonic", "tactile", "visual"], "A": []}

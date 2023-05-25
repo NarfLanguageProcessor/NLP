@@ -1,1 +1,1 @@
-{"index": 80770, "D": "an act or instance of demolishing. ", "S": ["annihilation ", "explosion "], "A": ["building ", "construction ", "fixing ", "production ", "repair "]}
+{"index": 80770, "D": "an act or instance of demolishing. ", "S": ["annihilation", "explosion"], "A": ["building", "construction", "fixing", "production", "repair"]}

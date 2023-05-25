@@ -1,1 +1,1 @@
-{"index": 76776, "D": "damn (used euphemistically).", "S": ["dang ", "doggone "], "A": []}
+{"index": 76776, "D": "damn (used euphemistically).", "S": ["dang", "doggone"], "A": []}

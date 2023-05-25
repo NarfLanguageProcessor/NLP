@@ -1,1 +1,1 @@
-{"index": 191651, "D": "force or speed of movement; impetus, as of a physical object or course of events", "S": ["energy ", "power ", "strength "], "A": ["lethargy ", "weakness "]}
+{"index": 191651, "D": "force or speed of movement; impetus, as of a physical object or course of events", "S": ["energy", "power", "strength"], "A": ["lethargy", "weakness"]}

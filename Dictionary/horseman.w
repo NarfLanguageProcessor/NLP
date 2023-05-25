@@ -1,1 +1,1 @@
-{"index": 144050, "D": "a person who is skilled in riding a horse.", "S": ["broncobuster ", "buckaroo ", "cavalryman ", "cowboy ", "dragoon ", "equerry ", "equestrian ", "gaucho ", "jockey ", "postilion ", "pricker ", "roughrider "], "A": []}
+{"index": 144050, "D": "a person who is skilled in riding a horse.", "S": ["broncobuster", "buckaroo", "cavalryman", "cowboy", "dragoon", "equerry", "equestrian", "gaucho", "jockey", "postilion", "pricker", "roughrider"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 257927, "D": "to determine, indicate, or express the quantity  of.", "S": ["amount ", "analysis ", "appraisal ", "assessment ", "density ", "dimension ", "evaluation ", "frequency ", "height ", "measure ", "size ", "survey ", "weight "], "A": ["ignorance ", "unimportance "]}
+{"index": 257927, "D": "to determine, indicate, or express the quantity  of.", "S": ["amount", "analysis", "appraisal", "assessment", "density", "dimension", "evaluation", "frequency", "height", "measure", "size", "survey", "weight"], "A": ["ignorance", "unimportance"]}

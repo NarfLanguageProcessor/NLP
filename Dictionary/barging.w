@@ -1,1 +1,1 @@
-{"index": 27975, "D": "a capacious, flat-bottomed vessel, usually intended to be pushed or towed, for transporting freight or passengers; lighter.", "S": ["bounce ", "bound ", "dive ", "drop ", "fall ", "hop ", "plummet ", "skip ", "surge ", "take ", "top ", "vault "], "A": ["lose ", "retreat "]}
+{"index": 27975, "D": "a capacious, flat-bottomed vessel, usually intended to be pushed or towed, for transporting freight or passengers; lighter.", "S": ["bounce", "bound", "dive", "drop", "fall", "hop", "plummet", "skip", "surge", "take", "top", "vault"], "A": ["lose", "retreat"]}

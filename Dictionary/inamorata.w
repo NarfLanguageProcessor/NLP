@@ -1,1 +1,1 @@
-{"index": 149431, "D": "a woman who loves or is loved; female sweetheart or lover.", "S": ["ladylove ", "mistress ", "paramour ", "sweetheart ", "woman "], "A": []}
+{"index": 149431, "D": "a woman who loves or is loved; female sweetheart or lover.", "S": ["ladylove", "mistress", "paramour", "sweetheart", "woman"], "A": []}

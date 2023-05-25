@@ -1,1 +1,0 @@
-{"index": 173337, "D": "a distilled or spirituous beverage, as brandy or whiskey, as distinguished from a fermented beverage, as wine or beer.", "S": ["booze ", "grog ", "imbibe ", "liquor "], "A": []}

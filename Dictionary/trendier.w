@@ -1,1 +1,1 @@
-{"index": 328944, "D": "of, in, or pertaining to the latest trend  or style.", "S": ["contemporary ", "fashionable ", "popular ", "stylish ", "swank "], "A": ["old-fashioned ", "unfashionable ", "unpopular "]}
+{"index": 328944, "D": "of, in, or pertaining to the latest trend  or style.", "S": ["contemporary", "fashionable", "popular", "stylish", "swank"], "A": ["old-fashioned", "unfashionable", "unpopular"]}

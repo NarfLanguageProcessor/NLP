@@ -1,1 +1,1 @@
-{"index": 94950, "D": "toward the east.", "S": ["east ", "easterly ", "on the east side of "], "A": []}
+{"index": 94950, "D": "toward the east.", "S": ["east", "easterly", "on the east side of"], "A": []}

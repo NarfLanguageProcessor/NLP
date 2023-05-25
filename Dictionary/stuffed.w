@@ -1,1 +1,1 @@
-{"index": 306820, "D": "filled with something, esp (of poultry and other food) filled with stuffing", "S": ["filled ", "jammed ", "loaded ", "packed "], "A": ["empty "]}
+{"index": 306820, "D": "filled with something, esp (of poultry and other food) filled with stuffing", "S": ["filled", "jammed", "loaded", "packed"], "A": ["empty"]}

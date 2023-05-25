@@ -1,1 +1,1 @@
-{"index": 146397, "D": "the use of ideograms.", "S": ["cuneal writing ", "cuneiform ", "curiology ", "hieroglyphics ", "phonographic writing ", "runes ", "script ", "symbolical writing ", "symbology "], "A": []}
+{"index": 146397, "D": "the use of ideograms.", "S": ["cuneal writing", "cuneiform", "curiology", "hieroglyphics", "phonographic writing", "runes", "script", "symbolical writing", "symbology"], "A": []}

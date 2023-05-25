@@ -1,1 +1,1 @@
-{"index": 2423, "D": "to make or become acid;  convert into an acid. ", "S": ["embitter ", "exacerbate ", "spoil "], "A": ["calm ", "comfort ", "help "]}
+{"index": 2423, "D": "to make or become acid;  convert into an acid. ", "S": ["embitter", "exacerbate", "spoil"], "A": ["calm", "comfort", "help"]}

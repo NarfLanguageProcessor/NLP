@@ -1,1 +1,1 @@
-{"index": 59805, "D": "a member of the clergy.", "S": ["chaplain ", "clergyman ", "minister ", "priest ", "rabbi "], "A": []}
+{"index": 59805, "D": "a member of the clergy.", "S": ["chaplain", "clergyman", "minister", "priest", "rabbi"], "A": []}

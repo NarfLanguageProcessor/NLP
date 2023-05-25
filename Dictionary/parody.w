@@ -1,1 +1,1 @@
-{"index": 226686, "D": "a humorous or satirical imitation of a serious piece of literature or writing", "S": ["burlesque ", "caricature ", "cartoon ", "farce ", "irony ", "joke ", "satire ", "skit ", "travesty "], "A": ["flattery ", "praise "]}
+{"index": 226686, "D": "a humorous or satirical imitation of a serious piece of literature or writing", "S": ["burlesque", "caricature", "cartoon", "farce", "irony", "joke", "satire", "skit", "travesty"], "A": ["flattery", "praise"]}

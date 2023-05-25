@@ -1,1 +1,1 @@
-{"index": 141899, "D": "a historian, especially one appointed to write an official history of a group, period, or institution.", "S": ["historian "], "A": []}
+{"index": 141899, "D": "a historian, especially one appointed to write an official history of a group, period, or institution.", "S": ["historian"], "A": []}

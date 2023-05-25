@@ -1,1 +1,1 @@
-{"index": 287728, "D": "a case or covering for the blade of a sword, dagger, or the like.", "S": ["covering "], "A": []}
+{"index": 287728, "D": "a case or covering for the blade of a sword, dagger, or the like.", "S": ["covering"], "A": []}

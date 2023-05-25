@@ -1,1 +1,1 @@
-{"index": 305643, "D": "to deviate from the direct course, leave the proper place, or go beyond the proper limits, especially without a fixed course or purpose", "S": ["lost ", "roaming ", "wandering "], "A": []}
+{"index": 305643, "D": "to deviate from the direct course, leave the proper place, or go beyond the proper limits, especially without a fixed course or purpose", "S": ["lost", "roaming", "wandering"], "A": []}

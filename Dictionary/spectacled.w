@@ -1,1 +1,0 @@
-{"index": 298846, "D": "wearing spectacles. ", "S": [], "A": []}

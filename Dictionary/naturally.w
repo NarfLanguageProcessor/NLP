@@ -1,1 +1,1 @@
-{"index": 197350, "D": "in a natural  or normal manner.", "S": ["commonly ", "consistently ", "easily ", "generally ", "instinctively ", "normally ", "simply ", "spontaneously ", "typically ", "uniformly ", "usually "], "A": ["difficultly ", "unusually "]}
+{"index": 197350, "D": "in a natural  or normal manner.", "S": ["commonly", "consistently", "easily", "generally", "instinctively", "normally", "simply", "spontaneously", "typically", "uniformly", "usually"], "A": ["difficultly", "unusually"]}

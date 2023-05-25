@@ -1,1 +1,1 @@
-{"index": 118025, "D": "next after the third; being the ordinal number for four.", "S": ["one-fourth ", "part ", "portion ", "term "], "A": ["whole "]}
+{"index": 118025, "D": "next after the third; being the ordinal number for four.", "S": ["one-fourth", "part", "portion", "term"], "A": ["whole"]}

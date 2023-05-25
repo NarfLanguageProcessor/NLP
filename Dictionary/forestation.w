@@ -1,1 +1,1 @@
-{"index": 117030, "D": "the planting of forests. ", "S": ["afforestation "], "A": []}
+{"index": 117030, "D": "the planting of forests. ", "S": ["afforestation"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 85347, "D": "to pour out and spread, as a fluid.", "S": ["dispersed ", "distributed ", "sprinkled "], "A": ["connected ", "together ", "united "]}
+{"index": 85347, "D": "to pour out and spread, as a fluid.", "S": ["dispersed", "distributed", "sprinkled"], "A": ["connected", "together", "united"]}

@@ -1,1 +1,1 @@
-{"index": 312971, "D": "something added to complete a thing, supply a deficiency, or reinforce or extend a whole.", "S": ["elaboration "], "A": ["abridgment ", "compression ", "decrease ", "lessening ", "reduction ", "shrinkage "]}
+{"index": 312971, "D": "something added to complete a thing, supply a deficiency, or reinforce or extend a whole.", "S": ["elaboration"], "A": ["abridgment", "compression", "decrease", "lessening", "reduction", "shrinkage"]}

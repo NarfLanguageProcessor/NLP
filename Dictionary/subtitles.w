@@ -1,1 +1,1 @@
-{"index": 309532, "D": "a secondary or subordinate title of a literary work, usually of explanatory character.", "S": ["inscription "], "A": []}
+{"index": 309532, "D": "a secondary or subordinate title of a literary work, usually of explanatory character.", "S": ["inscription"], "A": []}

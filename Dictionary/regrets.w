@@ -1,1 +1,1 @@
-{"index": 265822, "D": "to feel sorrow or remorse for (an act, fault, disappointment, etc.)", "S": ["decline ", "rejection ", "turndown "], "A": []}
+{"index": 265822, "D": "to feel sorrow or remorse for (an act, fault, disappointment, etc.)", "S": ["decline", "rejection", "turndown"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 303746, "D": "a dance  in which the steps  are the most important characteristic, specifically a solo dance  with intricate, vigorous steps,  often performed with the hands kept in the pockets.", "S": ["clog dance ", "toe dance "], "A": []}
+{"index": 303746, "D": "a dance  in which the steps  are the most important characteristic, specifically a solo dance  with intricate, vigorous steps,  often performed with the hands kept in the pockets.", "S": ["clog dance", "toe dance"], "A": []}

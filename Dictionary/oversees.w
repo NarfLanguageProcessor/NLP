@@ -1,1 +1,1 @@
-{"index": 221031, "D": "to direct (work or workers); supervise; manage", "S": ["command ", "inspect "], "A": ["follow ", "ignore ", "neglect "]}
+{"index": 221031, "D": "to direct (work or workers); supervise; manage", "S": ["command", "inspect"], "A": ["follow", "ignore", "neglect"]}

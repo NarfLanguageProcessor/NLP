@@ -1,1 +1,1 @@
-{"index": 110272, "D": "one's native country.", "S": ["motherland "], "A": []}
+{"index": 110272, "D": "one's native country.", "S": ["motherland"], "A": []}

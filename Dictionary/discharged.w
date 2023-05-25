@@ -1,1 +1,1 @@
-{"index": 87300, "D": "released, sent away, or allowed to leave", "S": ["fired ", "freed ", "laid-off ", "released ", "sacked "], "A": []}
+{"index": 87300, "D": "released, sent away, or allowed to leave", "S": ["fired", "freed", "laid-off", "released", "sacked"], "A": []}

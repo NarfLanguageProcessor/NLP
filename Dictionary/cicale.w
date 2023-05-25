@@ -1,1 +1,1 @@
-{"index": 56999, "D": "cicada. ", "S": ["cicada ", "dog-day cicada ", "periodical cicada "], "A": []}
+{"index": 56999, "D": "cicada. ", "S": ["cicada", "dog-day cicada", "periodical cicada"], "A": []}

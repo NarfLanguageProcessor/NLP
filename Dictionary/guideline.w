@@ -1,1 +1,1 @@
-{"index": 131025, "D": "any guide  or indication of a future course of action", "S": ["code ", "ground rule ", "guidance ", "instruction ", "protocol ", "rule "], "A": []}
+{"index": 131025, "D": "any guide  or indication of a future course of action", "S": ["code", "ground rule", "guidance", "instruction", "protocol", "rule"], "A": []}

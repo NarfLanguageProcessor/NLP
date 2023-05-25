@@ -1,1 +1,1 @@
-{"index": 294253, "D": "to cut apart or open along a line; make a long cut, fissure, or opening in.", "S": ["aperture ", "cleavage ", "crevice ", "fissure ", "incision "], "A": ["closing ", "closure ", "solid "]}
+{"index": 294253, "D": "to cut apart or open along a line; make a long cut, fissure, or opening in.", "S": ["aperture", "cleavage", "crevice", "fissure", "incision"], "A": ["closing", "closure", "solid"]}

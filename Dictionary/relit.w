@@ -1,1 +1,1 @@
-{"index": 267006, "D": [], "S": ["renew ", "revitalize ", "revive "], "A": ["kill "]}
+{"index": 267006, "D": [], "S": ["renew", "revitalize", "revive"], "A": ["kill"]}

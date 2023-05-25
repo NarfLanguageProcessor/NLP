@@ -1,1 +1,1 @@
-{"index": 295855, "D": "Compare ice crystals, snow grains, snow pellets. ", "S": ["blizzard "], "A": []}
+{"index": 295855, "D": "Compare ice crystals, snow grains, snow pellets. ", "S": ["blizzard"], "A": []}

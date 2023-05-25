@@ -1,1 +1,1 @@
-{"index": 347813, "D": "unperturbed by the prospect of a fight", "S": ["composed ", "placid ", "undisturbed "], "A": ["agitated ", "excited "]}
+{"index": 347813, "D": "unperturbed by the prospect of a fight", "S": ["composed", "placid", "undisturbed"], "A": ["agitated", "excited"]}

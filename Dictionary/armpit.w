@@ -1,0 +1,1 @@
+{"index": 20015, "D": "the hollow under the arm  at the shoulder; axilla. ", "S": ["axilla"], "A": []}

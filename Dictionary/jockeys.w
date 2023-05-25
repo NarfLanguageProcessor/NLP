@@ -1,1 +1,1 @@
-{"index": 161473, "D": "a person who rides horses professionally in races.", "S": ["bikini ", "bra ", "corset ", "lingerie ", "shorts ", "undergarment ", "underpants ", "undershirt "], "A": []}
+{"index": 161473, "D": "a person who rides horses professionally in races.", "S": ["bikini", "bra", "corset", "lingerie", "shorts", "undergarment", "underpants", "undershirt"], "A": []}

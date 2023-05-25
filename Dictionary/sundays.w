@@ -1,1 +1,1 @@
-{"index": 311072, "D": "on Sundays.", "S": ["day off ", "rest day "], "A": []}
+{"index": 311072, "D": "on Sundays.", "S": ["day off", "rest day"], "A": []}

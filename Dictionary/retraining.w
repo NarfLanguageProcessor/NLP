@@ -1,1 +1,1 @@
-{"index": 270654, "D": "to train  again, especially for a different vocation or different tasks.", "S": ["aversion therapy ", "behavioral therapy ", "conditioning ", "counseling ", "reinforcement ", "reward system ", "therapy "], "A": []}
+{"index": 270654, "D": "to train  again, especially for a different vocation or different tasks.", "S": ["aversion therapy", "behavioral therapy", "conditioning", "counseling", "reinforcement", "reward system", "therapy"], "A": []}

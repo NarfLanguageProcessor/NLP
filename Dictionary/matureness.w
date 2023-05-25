@@ -1,1 +1,1 @@
-{"index": 181358, "D": "complete in natural growth or development, as plant and animal forms", "S": ["voting age "], "A": []}
+{"index": 181358, "D": "complete in natural growth or development, as plant and animal forms", "S": ["voting age"], "A": []}

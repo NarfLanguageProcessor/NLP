@@ -1,1 +1,1 @@
-{"index": 239239, "D": "a brand name for a synthetic material used as a substitute for clay or wax in modeling.", "S": ["clay ", "sculptor's wax "], "A": []}
+{"index": 239239, "D": "a brand name for a synthetic material used as a substitute for clay or wax in modeling.", "S": ["clay", "sculptor's wax"], "A": []}

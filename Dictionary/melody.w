@@ -1,1 +1,1 @@
-{"index": 182978, "D": "musical sounds in agreeable succession or arrangement.", "S": ["chant ", "lyric ", "music ", "refrain ", "theme "], "A": ["discord "]}
+{"index": 182978, "D": "musical sounds in agreeable succession or arrangement.", "S": ["chant", "lyric", "music", "refrain", "theme"], "A": ["discord"]}

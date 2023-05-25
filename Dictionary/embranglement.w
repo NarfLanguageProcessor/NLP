@@ -1,1 +1,1 @@
-{"index": 98262, "D": "to embroil.", "S": ["confusion ", "ensnarement ", "entanglement ", "imbroglio ", "involvement ", "trouble "], "A": []}
+{"index": 98262, "D": "to embroil.", "S": ["confusion", "ensnarement", "entanglement", "imbroglio", "involvement", "trouble"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 25981, "D": "rude or disrespectful replies to the requests or directives of an authority figure; sass", "S": ["lip ", "sass "], "A": []}
+{"index": 25981, "D": "rude or disrespectful replies to the requests or directives of an authority figure; sass", "S": ["lip", "sass"], "A": []}

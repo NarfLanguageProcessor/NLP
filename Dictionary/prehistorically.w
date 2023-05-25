@@ -1,1 +1,0 @@
-{"index": 247829, "D": "of or relating to the time or a period prior to recorded history", "S": [], "A": []}

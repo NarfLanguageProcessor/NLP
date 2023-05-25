@@ -1,1 +1,1 @@
-{"index": 21896, "D": "resemblance of sounds.", "S": ["melodic ", "musical ", "tuneful "], "A": ["discordant "]}
+{"index": 21896, "D": "resemblance of sounds.", "S": ["melodic", "musical", "tuneful"], "A": ["discordant"]}

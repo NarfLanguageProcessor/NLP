@@ -1,1 +1,1 @@
-{"index": 168723, "D": "the flexible part of a whip; the section of cord or the like forming the extremity of a whip.", "S": ["batter ", "buffet ", "chastise ", "knock ", "pummel ", "smack "], "A": ["compliment ", "lose "]}
+{"index": 168723, "D": "the flexible part of a whip; the section of cord or the like forming the extremity of a whip.", "S": ["batter", "buffet", "chastise", "knock", "pummel", "smack"], "A": ["compliment", "lose"]}

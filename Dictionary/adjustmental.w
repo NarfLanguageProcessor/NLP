@@ -1,0 +1,1 @@
+{"index": 4075, "D": "the act of adjusting;  adaptation to a particular condition, position, or purpose.", "S": [], "A": []}

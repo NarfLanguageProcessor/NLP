@@ -1,1 +1,1 @@
-{"index": 187198, "D": "a person imbued with militarism. ", "S": ["belligerent ", "chauvinist ", "jingo ", "jingoist ", "warmonger "], "A": ["Dove "]}
+{"index": 187198, "D": "a person imbued with militarism. ", "S": ["belligerent", "chauvinist", "jingo", "jingoist", "warmonger"], "A": ["Dove"]}

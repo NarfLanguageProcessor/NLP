@@ -1,1 +1,0 @@
-{"index": 237336, "D": "a city in and the capital of North Korea, in the SW part.", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 82549, "D": "to dry thoroughly; dry up.", "S": ["dehydrate ", "deplete ", "devitalize ", "divest ", "drain ", "dry ", "evaporate ", "exsiccate ", "parch ", "sear ", "shrivel ", "wither "], "A": ["dampen ", "expand ", "fill ", "grow ", "moisten ", "soak ", "wet "]}
+{"index": 82549, "D": "to dry thoroughly; dry up.", "S": ["dehydrate", "deplete", "devitalize", "divest", "drain", "dry", "evaporate", "exsiccate", "parch", "sear", "shrivel", "wither"], "A": ["dampen", "expand", "fill", "grow", "moisten", "soak", "wet"]}

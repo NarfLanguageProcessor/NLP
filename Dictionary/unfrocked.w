@@ -1,1 +1,1 @@
-{"index": 342754, "D": "defrock. ", "S": ["demote ", "dethrone ", "dismiss ", "impeach ", "overthrow ", "unseat "], "A": ["allow ", "obey ", "promote ", "upgrade "]}
+{"index": 342754, "D": "defrock. ", "S": ["demote", "dethrone", "dismiss", "impeach", "overthrow", "unseat"], "A": ["allow", "obey", "promote", "upgrade"]}

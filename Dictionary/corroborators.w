@@ -1,1 +1,1 @@
-{"index": 69716, "D": "to make more certain; confirm", "S": ["attestant ", "attestator ", "attestor ", "deponent ", "testifier "], "A": []}
+{"index": 69716, "D": "to make more certain; confirm", "S": ["attestant", "attestator", "attestor", "deponent", "testifier"], "A": []}

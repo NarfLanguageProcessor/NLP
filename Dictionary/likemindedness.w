@@ -1,1 +1,1 @@
-{"index": 172187, "D": "having a similar or identical opinion, disposition, etc.", "S": ["rapport ", "unity "], "A": ["disagreement ", "discord ", "dislike ", "hatred ", "incompatibility "]}
+{"index": 172187, "D": "having a similar or identical opinion, disposition, etc.", "S": ["rapport", "unity"], "A": ["disagreement", "discord", "dislike", "hatred", "incompatibility"]}

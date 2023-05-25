@@ -1,1 +1,1 @@
-{"index": 58997, "D": "the act or process of bonding one metal to another, usually to protect the inner metal from corrosion.", "S": ["covering "], "A": []}
+{"index": 58997, "D": "the act or process of bonding one metal to another, usually to protect the inner metal from corrosion.", "S": ["covering"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 92872, "D": "a pleasant, lovely land  that exists only in dreams  or the imagination; the region of reverie.", "S": ["Shangri-la ", "slumber ", "utopia "], "A": ["real world ", "wakefulness "]}
+{"index": 92872, "D": "a pleasant, lovely land  that exists only in dreams  or the imagination; the region of reverie.", "S": ["Shangri-la", "slumber", "utopia"], "A": ["real world", "wakefulness"]}

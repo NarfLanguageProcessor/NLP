@@ -1,1 +1,1 @@
-{"index": 175565, "D": "the act of courting or wooing.", "S": ["intercourse ", "kissing ", "mating ", "sexual intercourse "], "A": []}
+{"index": 175565, "D": "the act of courting or wooing.", "S": ["intercourse", "kissing", "mating", "sexual intercourse"], "A": []}

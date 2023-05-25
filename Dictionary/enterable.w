@@ -1,1 +1,1 @@
-{"index": 101213, "D": "to come or go in", "S": ["absorptive ", "accessible ", "passable ", "pervious ", "porose ", "porous ", "spongelike ", "spongy "], "A": []}
+{"index": 101213, "D": "to come or go in", "S": ["absorptive", "accessible", "passable", "pervious", "porose", "porous", "spongelike", "spongy"], "A": []}

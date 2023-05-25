@@ -1,1 +1,1 @@
-{"index": 128983, "D": "a person or organization that makes a grant. ", "S": ["donor ", "giver ", "patron "], "A": []}
+{"index": 128983, "D": "a person or organization that makes a grant. ", "S": ["donor", "giver", "patron"], "A": []}

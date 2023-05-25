@@ -1,1 +1,1 @@
-{"index": 16796, "D": "pertaining to or affected with aphasia. ", "S": ["silent ", "speechless "], "A": ["communicative "]}
+{"index": 16796, "D": "pertaining to or affected with aphasia. ", "S": ["silent", "speechless"], "A": ["communicative"]}

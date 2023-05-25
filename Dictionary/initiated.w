@@ -1,1 +1,1 @@
-{"index": 152816, "D": "already having some knowledge of or experience in a particular art or subject", "S": ["proposed "], "A": []}
+{"index": 152816, "D": "already having some knowledge of or experience in a particular art or subject", "S": ["proposed"], "A": []}

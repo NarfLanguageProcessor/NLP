@@ -1,1 +1,0 @@
-{"index": 295349, "D": "apt to snarl;  easily irritated.", "S": ["atrabilious ", "cantankerous ", "splenetic ", "surly ", "waspish "], "A": ["affable ", "good-humored "]}

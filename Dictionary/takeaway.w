@@ -1,1 +1,1 @@
-{"index": 315490, "D": "something taken back or away, especially an employee benefit that is eliminated or substantially reduced by the terms of a union contract.", "S": ["outcome ", "result ", "upshot "], "A": []}
+{"index": 315490, "D": "something taken back or away, especially an employee benefit that is eliminated or substantially reduced by the terms of a union contract.", "S": ["outcome", "result", "upshot"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 249339, "D": "the state or fact of being present,  as with others or in a place.", "S": ["existence "], "A": ["absence ", "agitation ", "confusion ", "distance ", "distress ", "reality ", "upset "]}

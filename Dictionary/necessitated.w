@@ -1,1 +1,1 @@
-{"index": 197721, "D": "to make necessary or unavoidable", "S": ["constrained ", "enslaved ", "obligated ", "restrained "], "A": ["irresolute "]}
+{"index": 197721, "D": "to make necessary or unavoidable", "S": ["constrained", "enslaved", "obligated", "restrained"], "A": ["irresolute"]}

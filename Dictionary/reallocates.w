@@ -1,1 +1,1 @@
-{"index": 261770, "D": "to set apart for a particular purpose; assign or allot", "S": ["allot ", "distribute ", "divide "], "A": ["collect ", "gather ", "hold ", "keep ", "maintain ", "retain "]}
+{"index": 261770, "D": "to set apart for a particular purpose; assign or allot", "S": ["allot", "distribute", "divide"], "A": ["collect", "gather", "hold", "keep", "maintain", "retain"]}

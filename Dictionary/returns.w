@@ -1,1 +1,1 @@
-{"index": 270981, "D": "to go or come back, as to a former place, position, or state", "S": ["allowance ", "bonus ", "coupon ", "gain ", "premium ", "proceeds ", "remittance ", "reward ", "surplus "], "A": ["loss "]}
+{"index": 270981, "D": "to go or come back, as to a former place, position, or state", "S": ["allowance", "bonus", "coupon", "gain", "premium", "proceeds", "remittance", "reward", "surplus"], "A": ["loss"]}

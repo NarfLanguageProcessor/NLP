@@ -1,1 +1,1 @@
-{"index": 129085, "D": "a very common mineral, soft native carbon, occurring in black to dark-gray foliated masses, with metallic luster and greasy feel", "S": ["soot "], "A": ["original "]}
+{"index": 129085, "D": "a very common mineral, soft native carbon, occurring in black to dark-gray foliated masses, with metallic luster and greasy feel", "S": ["soot"], "A": ["original"]}

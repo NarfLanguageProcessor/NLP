@@ -1,1 +1,1 @@
-{"index": 360419, "D": "to go to and stay with (a person or family) or at (a place) for a short time for reasons of sociability, politeness, business, curiosity, etc.", "S": ["appointment ", "call ", "holiday ", "interview ", "stay ", "stop ", "stopover ", "talk ", "vacation "], "A": ["go "]}
+{"index": 360419, "D": "to go to and stay with (a person or family) or at (a place) for a short time for reasons of sociability, politeness, business, curiosity, etc.", "S": ["appointment", "call", "holiday", "interview", "stay", "stop", "stopover", "talk", "vacation"], "A": ["go"]}

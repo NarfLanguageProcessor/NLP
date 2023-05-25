@@ -1,1 +1,1 @@
-{"index": 91018, "D": "the senior member, as in age, rank, or experience, of a group, class, profession, etc.", "S": ["forerunner ", "guide ", "lead ", "sheep "], "A": []}
+{"index": 91018, "D": "the senior member, as in age, rank, or experience, of a group, class, profession, etc.", "S": ["forerunner", "guide", "lead", "sheep"], "A": []}

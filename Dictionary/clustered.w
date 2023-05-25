@@ -1,1 +1,1 @@
-{"index": 60737, "D": "a number of things of the same kind, growing or held together; a bunch", "S": ["amassed ", "assorted ", "blended ", "massed ", "melded ", "mixed ", "motley ", "varied ", "variegated "], "A": ["like ", "same ", "similar ", "unvaried "]}
+{"index": 60737, "D": "a number of things of the same kind, growing or held together; a bunch", "S": ["amassed", "assorted", "blended", "massed", "melded", "mixed", "motley", "varied", "variegated"], "A": ["like", "same", "similar", "unvaried"]}

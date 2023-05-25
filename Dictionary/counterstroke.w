@@ -1,1 +1,1 @@
-{"index": 71124, "D": "a stroke  or blow given in return.", "S": ["retaliation ", "retribution ", "vengeance "], "A": ["forgiveness ", "pardon "]}
+{"index": 71124, "D": "a stroke  or blow given in return.", "S": ["retaliation", "retribution", "vengeance"], "A": ["forgiveness", "pardon"]}

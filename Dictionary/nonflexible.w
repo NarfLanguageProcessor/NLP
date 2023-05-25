@@ -1,1 +1,1 @@
-{"index": 204092, "D": "capable of being bent, usually without breaking; easily bent", "S": ["rigid "], "A": ["bendable ", "elastic ", "flexible ", "pliable ", "pliant ", "reasonable ", "resilient ", "soft ", "willing ", "yielding "]}
+{"index": 204092, "D": "capable of being bent, usually without breaking; easily bent", "S": ["rigid"], "A": ["bendable", "elastic", "flexible", "pliable", "pliant", "reasonable", "resilient", "soft", "willing", "yielding"]}

@@ -1,1 +1,1 @@
-{"index": 193981, "D": "the ability to move spontaneously, or the rate or degree of such movement", "S": ["awareness ", "excitement ", "feel ", "pain ", "perception ", "pleasure ", "reaction ", "sense ", "sensitivity "], "A": ["insensitivity "]}
+{"index": 193981, "D": "the ability to move spontaneously, or the rate or degree of such movement", "S": ["awareness", "excitement", "feel", "pain", "perception", "pleasure", "reaction", "sense", "sensitivity"], "A": ["insensitivity"]}

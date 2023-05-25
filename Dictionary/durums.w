@@ -1,1 +1,1 @@
-{"index": 94493, "D": "a wheat, Triticum turgidum, the grain of which yields flour used in making pasta.", "S": ["cereal ", "grass "], "A": []}
+{"index": 94493, "D": "a wheat, Triticum turgidum, the grain of which yields flour used in making pasta.", "S": ["cereal", "grass"], "A": []}

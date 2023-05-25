@@ -1,1 +1,1 @@
-{"index": 109027, "D": "an exact copy, as of a book, painting, or manuscript.", "S": ["carbon copy ", "likeness ", "photocopy ", "replica "], "A": ["original "]}
+{"index": 109027, "D": "an exact copy, as of a book, painting, or manuscript.", "S": ["carbon copy", "likeness", "photocopy", "replica"], "A": ["original"]}

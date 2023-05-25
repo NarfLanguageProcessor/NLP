@@ -1,1 +1,1 @@
-{"index": 162332, "D": "a point of time, especially one made critical or important by a concurrence of circumstances", "S": ["crossroad "], "A": ["advantage ", "blessing ", "calm ", "certainty ", "good fortune ", "peace ", "solution "]}
+{"index": 162332, "D": "a point of time, especially one made critical or important by a concurrence of circumstances", "S": ["crossroad"], "A": ["advantage", "blessing", "calm", "certainty", "good fortune", "peace", "solution"]}

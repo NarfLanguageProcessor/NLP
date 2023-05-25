@@ -1,1 +1,1 @@
-{"index": 359883, "D": [], "S": ["acerbity ", "acidity ", "acridity ", "astringency ", "brackishness ", "brininess ", "piquancy ", "pungency ", "sharpness ", "tartness "], "A": ["contentment ", "geniality ", "happiness ", "sweetness "]}
+{"index": 359883, "D": [], "S": ["acerbity", "acidity", "acridity", "astringency", "brackishness", "brininess", "piquancy", "pungency", "sharpness", "tartness"], "A": ["contentment", "geniality", "happiness", "sweetness"]}

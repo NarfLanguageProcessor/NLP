@@ -1,1 +1,1 @@
-{"index": 300923, "D": "every now and then; at irregular intervals in time", "S": ["intermittently ", "now and then ", "occasionally ", "rarely ", "seldom ", "sparingly "], "A": ["frequently ", "regularly ", "usually "]}
+{"index": 300923, "D": "every now and then; at irregular intervals in time", "S": ["intermittently", "now and then", "occasionally", "rarely", "seldom", "sparingly"], "A": ["frequently", "regularly", "usually"]}

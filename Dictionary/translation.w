@@ -1,1 +1,1 @@
-{"index": 328024, "D": "the rendering of something into another language or into one's own from another language.", "S": ["adaptation ", "explanation ", "reading ", "rendering ", "rendition ", "transcription ", "version "], "A": []}
+{"index": 328024, "D": "the rendering of something into another language or into one's own from another language.", "S": ["adaptation", "explanation", "reading", "rendering", "rendition", "transcription", "version"], "A": []}

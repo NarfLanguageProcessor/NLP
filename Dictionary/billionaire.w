@@ -1,0 +1,1 @@
+{"index": 34029, "D": "a person who has assets worth a billion or more dollars, euros, etc.", "S": [], "A": []}

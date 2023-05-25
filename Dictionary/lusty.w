@@ -1,1 +1,1 @@
-{"index": 176408, "D": "full of or characterized by healthy vigor.", "S": ["hearty ", "robust "], "A": ["unhealthy ", "weak "]}
+{"index": 176408, "D": "full of or characterized by healthy vigor.", "S": ["hearty", "robust"], "A": ["unhealthy", "weak"]}

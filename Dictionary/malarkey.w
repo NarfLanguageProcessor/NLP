@@ -1,1 +1,1 @@
-{"index": 178289, "D": "speech or writing designed to obscure, mislead, or impress; bunkum", "S": ["balderdash ", "drivel ", "foolishness ", "hogwash ", "nonsense "], "A": ["sense ", "truth "]}
+{"index": 178289, "D": "speech or writing designed to obscure, mislead, or impress; bunkum", "S": ["balderdash", "drivel", "foolishness", "hogwash", "nonsense"], "A": ["sense", "truth"]}

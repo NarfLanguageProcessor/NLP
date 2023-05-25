@@ -1,1 +1,1 @@
-{"index": 221529, "D": "to tax  too heavily.", "S": ["misuse ", "squander "], "A": ["hoard ", "save "]}
+{"index": 221529, "D": "to tax  too heavily.", "S": ["misuse", "squander"], "A": ["hoard", "save"]}

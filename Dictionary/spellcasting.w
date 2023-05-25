@@ -1,1 +1,1 @@
-{"index": 299096, "D": [], "S": ["abracadabra ", "black hocus-pocus ", "black magic ", "magic ", "necromancy ", "occultism ", "sorcery ", "voodoo ", "witchcraft ", "witchery ", "wizardry "], "A": []}
+{"index": 299096, "D": [], "S": ["abracadabra", "black hocus-pocus", "black magic", "magic", "necromancy", "occultism", "sorcery", "voodoo", "witchcraft", "witchery", "wizardry"], "A": []}

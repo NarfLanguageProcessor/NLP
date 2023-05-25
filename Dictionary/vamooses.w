@@ -1,1 +1,1 @@
-{"index": 356881, "D": "to leave hurriedly or quickly; decamp.", "S": ["decamp ", "depart ", "hightail ", "leave ", "scat ", "scoot ", "scram ", "skedaddle "], "A": ["come ", "continue ", "wait "]}
+{"index": 356881, "D": "to leave hurriedly or quickly; decamp.", "S": ["decamp", "depart", "hightail", "leave", "scat", "scoot", "scram", "skedaddle"], "A": ["come", "continue", "wait"]}

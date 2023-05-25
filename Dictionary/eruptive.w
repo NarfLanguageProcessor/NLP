@@ -1,1 +1,1 @@
-{"index": 104066, "D": "bursting forth, or tending to burst forth.", "S": ["fiery ", "frenzied ", "hazardous ", "meteoric ", "stormy ", "tense ", "touchy ", "ugly ", "uncontrollable ", "unstable ", "violent "], "A": ["calm ", "controlled ", "gentle ", "laid-back ", "mild ", "moderate ", "safe "]}
+{"index": 104066, "D": "bursting forth, or tending to burst forth.", "S": ["fiery", "frenzied", "hazardous", "meteoric", "stormy", "tense", "touchy", "ugly", "uncontrollable", "unstable", "violent"], "A": ["calm", "controlled", "gentle", "laid-back", "mild", "moderate", "safe"]}

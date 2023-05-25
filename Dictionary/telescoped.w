@@ -1,1 +1,1 @@
-{"index": 318223, "D": "Compare radio telescope. ", "S": ["fixed ", "full-bodied ", "potent ", "rich ", "robust "], "A": ["weak ", "incomplete ", "unfinished "]}
+{"index": 318223, "D": "Compare radio telescope. ", "S": ["fixed", "full-bodied", "potent", "rich", "robust"], "A": ["weak", "incomplete", "unfinished"]}

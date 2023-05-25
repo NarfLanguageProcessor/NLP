@@ -1,1 +1,1 @@
-{"index": 118792, "D": "happening or occurring at short intervals", "S": ["density ", "number ", "prevalence ", "recurrence ", "regularity ", "repetition "], "A": ["infrequency ", "irregularity ", "uncommonness "]}
+{"index": 118792, "D": "happening or occurring at short intervals", "S": ["density", "number", "prevalence", "recurrence", "regularity", "repetition"], "A": ["infrequency", "irregularity", "uncommonness"]}

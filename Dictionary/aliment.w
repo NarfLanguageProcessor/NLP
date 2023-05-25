@@ -1,1 +1,1 @@
-{"index": 8283, "D": "that which nourishes; nutriment; food.", "S": ["comestible ", "eats ", "edible ", "fare ", "foodstuff ", "nourishment ", "nurture ", "nutriment ", "nutrition ", "pabulum ", "provender ", "provision ", "sustenance ", "victuals "], "A": ["deprivation ", "starvation "]}
+{"index": 8283, "D": "that which nourishes; nutriment; food.", "S": ["comestible", "eats", "edible", "fare", "foodstuff", "nourishment", "nurture", "nutriment", "nutrition", "pabulum", "provender", "provision", "sustenance", "victuals"], "A": ["deprivation", "starvation"]}

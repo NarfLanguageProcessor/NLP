@@ -1,1 +1,1 @@
-{"index": 60295, "D": "a lump or mass, especially of earth or clay.", "S": ["clodpoll "], "A": ["brain ", "genius "]}
+{"index": 60295, "D": "a lump or mass, especially of earth or clay.", "S": ["clodpoll"], "A": ["brain", "genius"]}

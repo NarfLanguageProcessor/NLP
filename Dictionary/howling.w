@@ -1,1 +1,1 @@
-{"index": 144578, "D": "producing or uttering a howling noise", "S": ["gusty ", "turbulent ", "windy "], "A": ["calm "]}
+{"index": 144578, "D": "producing or uttering a howling noise", "S": ["gusty", "turbulent", "windy"], "A": ["calm"]}

@@ -1,1 +1,1 @@
-{"index": 263677, "D": "to make, put, or set right; remedy; correct", "S": ["amend ", "fix ", "improve ", "redress ", "remedy ", "straighten out "], "A": ["corrupt ", "harm ", "hurt ", "injure ", "worsen ", "break ", "destroy ", "ruin ", "upset "]}
+{"index": 263677, "D": "to make, put, or set right; remedy; correct", "S": ["amend", "fix", "improve", "redress", "remedy", "straighten out"], "A": ["corrupt", "harm", "hurt", "injure", "worsen", "break", "destroy", "ruin", "upset"]}

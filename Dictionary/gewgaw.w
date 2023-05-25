@@ -1,1 +1,1 @@
-{"index": 124460, "D": "something gaudy and useless; trinket; bauble.", "S": ["bauble ", "trifle ", "trinket "], "A": []}
+{"index": 124460, "D": "something gaudy and useless; trinket; bauble.", "S": ["bauble", "trifle", "trinket"], "A": []}

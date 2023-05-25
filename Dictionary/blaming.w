@@ -1,1 +1,1 @@
-{"index": 35667, "D": "to hold responsible; find fault with; censure", "S": ["attribute ", "charge ", "chide ", "condemn ", "criticize ", "denounce ", "indict "], "A": ["absolve ", "acquit ", "approve ", "compliment ", "exonerate ", "free ", "laud ", "praise ", "endorse ", "flatter ", "sanction "]}
+{"index": 35667, "D": "to hold responsible; find fault with; censure", "S": ["attribute", "charge", "chide", "condemn", "criticize", "denounce", "indict"], "A": ["absolve", "acquit", "approve", "compliment", "exonerate", "free", "laud", "praise", "endorse", "flatter", "sanction"]}

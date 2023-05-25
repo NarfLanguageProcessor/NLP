@@ -1,1 +1,1 @@
-{"index": 98641, "D": "to show or pretend emotion", "S": ["affection ", "appetite ", "ardor ", "craving ", "desire ", "excitement ", "fondness ", "lust "], "A": ["antipathy ", "aversion ", "disgust ", "dislike ", "distaste ", "hate ", "hatred ", "indifference ", "loathing ", "repulsion "]}
+{"index": 98641, "D": "to show or pretend emotion", "S": ["affection", "appetite", "ardor", "craving", "desire", "excitement", "fondness", "lust"], "A": ["antipathy", "aversion", "disgust", "dislike", "distaste", "hate", "hatred", "indifference", "loathing", "repulsion"]}

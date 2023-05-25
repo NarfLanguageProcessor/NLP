@@ -1,1 +1,0 @@
-{"index": 315344, "D": "having a tail. ", "S": ["chased ", "dogged ", "followed ", "hounded ", "outlawed ", "stalked ", "tracked ", "trailed ", "wanted "], "A": []}

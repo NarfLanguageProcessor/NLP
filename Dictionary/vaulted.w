@@ -1,1 +1,1 @@
-{"index": 357543, "D": "constructed or covered with a vault,  as a building or chamber.", "S": ["arched "], "A": []}
+{"index": 357543, "D": "constructed or covered with a vault,  as a building or chamber.", "S": ["arched"], "A": []}

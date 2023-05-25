@@ -1,1 +1,1 @@
-{"index": 46377, "D": "a plant of the genus Cannabis, most notably hemp, C. sativa", "S": ["bhang ", "hashish ", "hemp ", "pot ", "tea "], "A": []}
+{"index": 46377, "D": "a plant of the genus Cannabis, most notably hemp, C. sativa", "S": ["bhang", "hashish", "hemp", "pot", "tea"], "A": []}

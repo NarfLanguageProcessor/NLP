@@ -1,1 +1,1 @@
-{"index": 182035, "D": "action in mediating  between parties, as to effect an agreement or reconciliation.", "S": ["arbitration ", "conciliation ", "intervention ", "negotiation ", "reconciliation "], "A": ["argument ", "contention ", "disagreement ", "fight "]}
+{"index": 182035, "D": "action in mediating  between parties, as to effect an agreement or reconciliation.", "S": ["arbitration", "conciliation", "intervention", "negotiation", "reconciliation"], "A": ["argument", "contention", "disagreement", "fight"]}

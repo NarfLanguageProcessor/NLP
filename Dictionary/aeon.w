@@ -1,0 +1,1 @@
+{"index": 4874, "D": "(in Gnosticism) one of a class of powers or beings conceived as emanating from the Supreme Being  and performing various functions in the operations of the universe.", "S": ["century", "date", "day", "era", "generation", "life", "millennium"], "A": ["continuation"]}

@@ -1,1 +1,1 @@
-{"index": 200295, "D": "not yet final or absolute (used, especially in law, to indicate that a judgment or decree will become final on a particular date unless set aside or invalidated by certain specified contingencies)", "S": ["except ", "saving "], "A": []}
+{"index": 200295, "D": "not yet final or absolute (used, especially in law, to indicate that a judgment or decree will become final on a particular date unless set aside or invalidated by certain specified contingencies)", "S": ["except", "saving"], "A": []}

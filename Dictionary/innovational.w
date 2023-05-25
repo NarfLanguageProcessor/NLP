@@ -1,1 +1,1 @@
-{"index": 153088, "D": "something new or different introduced", "S": ["gifted ", "ingenious ", "innovative ", "inventive ", "original ", "productive ", "prolific ", "visionary "], "A": ["fruitless ", "impotent ", "inept ", "old ", "uncreative ", "unfruitful ", "unproductive "]}
+{"index": 153088, "D": "something new or different introduced", "S": ["gifted", "ingenious", "innovative", "inventive", "original", "productive", "prolific", "visionary"], "A": ["fruitless", "impotent", "inept", "old", "uncreative", "unfruitful", "unproductive"]}

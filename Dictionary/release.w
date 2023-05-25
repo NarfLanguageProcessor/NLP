@@ -1,1 +1,1 @@
-{"index": 266810, "D": "to free from confinement, bondage, obligation, pain, etc.; let go", "S": ["clemency ", "discharge "], "A": ["imprisonment ", "incarceration ", "restraint "]}
+{"index": 266810, "D": "to free from confinement, bondage, obligation, pain, etc.; let go", "S": ["clemency", "discharge"], "A": ["imprisonment", "incarceration", "restraint"]}

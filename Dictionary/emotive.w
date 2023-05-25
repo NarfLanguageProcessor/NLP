@@ -1,1 +1,1 @@
-{"index": 98668, "D": "characterized by or pertaining to emotion", "S": ["affectional ", "affective ", "heartwarming ", "moving ", "stirring ", "touching "], "A": []}
+{"index": 98668, "D": "characterized by or pertaining to emotion", "S": ["affectional", "affective", "heartwarming", "moving", "stirring", "touching"], "A": []}

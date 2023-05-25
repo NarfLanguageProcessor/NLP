@@ -1,1 +1,1 @@
-{"index": 2705, "D": "the branch of physics that deals with sound and sound waves.", "S": ["echo ", "noise ", "sound "], "A": ["silence "]}
+{"index": 2705, "D": "the branch of physics that deals with sound and sound waves.", "S": ["echo", "noise", "sound"], "A": ["silence"]}

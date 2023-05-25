@@ -1,1 +1,1 @@
-{"index": 305350, "D": "an act or instance of stopping;  cessation of activity", "S": ["blockage ", "closure ", "cutoff ", "interruption ", "layoff ", "lockout ", "shutdown ", "walkout "], "A": ["advance ", "aid ", "assistance ", "continuation ", "encouragement ", "help ", "promotion "]}
+{"index": 305350, "D": "an act or instance of stopping;  cessation of activity", "S": ["blockage", "closure", "cutoff", "interruption", "layoff", "lockout", "shutdown", "walkout"], "A": ["advance", "aid", "assistance", "continuation", "encouragement", "help", "promotion"]}

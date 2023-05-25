@@ -1,1 +1,1 @@
-{"index": 338458, "D": "to free from deception, fallacy, or mistake.", "S": ["disillusioned ", "embittered "], "A": ["enchanted ", "encouraged "]}
+{"index": 338458, "D": "to free from deception, fallacy, or mistake.", "S": ["disillusioned", "embittered"], "A": ["enchanted", "encouraged"]}

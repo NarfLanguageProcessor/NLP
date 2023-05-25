@@ -1,1 +1,1 @@
-{"index": 92602, "D": "an automobile designed and built specifically for drag racing,  especially on a \u00bc-mi. (402-meter) or \u215b-mi. (201-meter) drag strip. ", "S": ["hotrod "], "A": []}
+{"index": 92602, "D": "an automobile designed and built specifically for drag racing,  especially on a \u00bc-mi. (402-meter) or \u215b-mi. (201-meter) drag strip. ", "S": ["hotrod"], "A": []}

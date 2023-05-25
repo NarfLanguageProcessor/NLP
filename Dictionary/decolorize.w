@@ -1,1 +1,1 @@
-{"index": 78583, "D": "decolor. ", "S": ["lighten "], "A": ["blacken ", "darken ", "yellow "]}
+{"index": 78583, "D": "decolor. ", "S": ["lighten"], "A": ["blacken", "darken", "yellow"]}

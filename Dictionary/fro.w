@@ -1,1 +1,1 @@
-{"index": 119221, "D": "from; back.", "S": ["curly hair "], "A": []}
+{"index": 119221, "D": "from; back.", "S": ["curly hair"], "A": []}

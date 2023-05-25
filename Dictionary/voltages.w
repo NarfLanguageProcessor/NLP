@@ -1,1 +1,1 @@
-{"index": 361176, "D": "electromotive force or potential difference expressed in volts. ", "S": ["heat ", "service "], "A": []}
+{"index": 361176, "D": "electromotive force or potential difference expressed in volts. ", "S": ["heat", "service"], "A": []}

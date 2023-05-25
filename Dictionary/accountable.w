@@ -1,1 +1,1 @@
-{"index": 1722, "D": "subject to the obligation to report, explain, or justify something; responsible; answerable.", "S": ["answerable ", "culpable ", "liable ", "obliged "], "A": ["unaccountable "]}
+{"index": 1722, "D": "subject to the obligation to report, explain, or justify something; responsible; answerable.", "S": ["answerable", "culpable", "liable", "obliged"], "A": ["unaccountable"]}

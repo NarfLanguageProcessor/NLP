@@ -1,1 +1,1 @@
-{"index": 293275, "D": "the external covering or integument of an animal body, especially when soft and flexible.", "S": ["graze ", "pare ", "scrape ", "shave ", "trim "], "A": ["cover "]}
+{"index": 293275, "D": "the external covering or integument of an animal body, especially when soft and flexible.", "S": ["graze", "pare", "scrape", "shave", "trim"], "A": ["cover"]}

@@ -1,1 +1,1 @@
-{"index": 330388, "D": "threefold; consisting of three parts", "S": ["leash ", "set of three ", "ternion ", "threesome ", "trey ", "triad ", "triangle ", "trilogy ", "trine ", "trinity ", "triplet ", "triplicate ", "triptych ", "triumvirate ", "triune ", "troika "], "A": []}
+{"index": 330388, "D": "threefold; consisting of three parts", "S": ["leash", "set of three", "ternion", "threesome", "trey", "triad", "triangle", "trilogy", "trine", "trinity", "triplet", "triplicate", "triptych", "triumvirate", "triune", "troika"], "A": []}

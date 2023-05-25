@@ -1,1 +1,1 @@
-{"index": 99260, "D": "charming; captivating", "S": ["alluring ", "beguiling ", "captivating ", "charming ", "endearing ", "intriguing ", "lovely ", "pleasant ", "ravishing ", "winsome "], "A": ["disagreeable ", "boring "]}
+{"index": 99260, "D": "charming; captivating", "S": ["alluring", "beguiling", "captivating", "charming", "endearing", "intriguing", "lovely", "pleasant", "ravishing", "winsome"], "A": ["disagreeable", "boring"]}

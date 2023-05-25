@@ -1,1 +1,1 @@
-{"index": 290961, "D": "to be in sympathy  or agreement of feeling; share in a feeling (often followed by with).", "S": ["compassionate ", "condolatory ", "empathetic ", "empathic ", "sympathetic "], "A": []}
+{"index": 290961, "D": "to be in sympathy  or agreement of feeling; share in a feeling (often followed by with).", "S": ["compassionate", "condolatory", "empathetic", "empathic", "sympathetic"], "A": []}

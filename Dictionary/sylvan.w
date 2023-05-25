@@ -1,1 +1,1 @@
-{"index": 290597, "D": "of, relating to, or inhabiting the woods.", "S": ["rustic "], "A": []}
+{"index": 290597, "D": "of, relating to, or inhabiting the woods.", "S": ["rustic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 200092, "D": "quick and light in movement; moving with ease; agile; active; rapid", "S": ["agility ", "dexterity "], "A": ["clumsiness "]}
+{"index": 200092, "D": "quick and light in movement; moving with ease; agile; active; rapid", "S": ["agility", "dexterity"], "A": ["clumsiness"]}

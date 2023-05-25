@@ -1,1 +1,1 @@
-{"index": 89614, "D": "an act or instance of dissociating.", "S": ["break ", "disconnection ", "disengagement ", "disjunction ", "disunion ", "division ", "divorce ", "isolation ", "segregation ", "severance "], "A": ["juncture "]}
+{"index": 89614, "D": "an act or instance of dissociating.", "S": ["break", "disconnection", "disengagement", "disjunction", "disunion", "division", "divorce", "isolation", "segregation", "severance"], "A": ["juncture"]}

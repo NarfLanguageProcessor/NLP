@@ -1,1 +1,1 @@
-{"index": 105960, "D": "to determine or set the value  or amount of; appraise", "S": ["analyzing ", "criticizing ", "critiquing ", "examining ", "investigating ", "judging ", "outlining ", "studying ", "summarizing ", "surveying "], "A": []}
+{"index": 105960, "D": "to determine or set the value  or amount of; appraise", "S": ["analyzing", "criticizing", "critiquing", "examining", "investigating", "judging", "outlining", "studying", "summarizing", "surveying"], "A": []}

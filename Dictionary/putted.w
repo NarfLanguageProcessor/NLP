@@ -1,1 +1,0 @@
-{"index": 257335, "D": "to strike (a gollf ball) gently so as to make it roll along the green into the hole.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22047, "D": "in a position behind a specified vessel or aircraft", "S": ["abaft", "aft"], "A": ["forward"]}

@@ -1,1 +1,1 @@
-{"index": 24215, "D": "a type of self-service restaurant in which customers obtain food from small compartments by depositing the required number of coins in slots so that the doors can be opened.", "S": ["bistro ", "booth ", "coffee shop ", "saloon "], "A": []}
+{"index": 24215, "D": "a type of self-service restaurant in which customers obtain food from small compartments by depositing the required number of coins in slots so that the doors can be opened.", "S": ["bistro", "booth", "coffee shop", "saloon"], "A": []}

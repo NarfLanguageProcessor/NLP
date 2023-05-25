@@ -1,1 +1,1 @@
-{"index": 274114, "D": "a one-piece baby garment consisting of trousers and a bib with straps", "S": ["knickers ", "slacks "], "A": []}
+{"index": 274114, "D": "a one-piece baby garment consisting of trousers and a bib with straps", "S": ["knickers", "slacks"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 348130, "D": "made smooth and glossy", "S": ["unfinished "], "A": ["civilized ", "polished ", "refined ", "shiny ", "smooth ", "sophisticated "]}
+{"index": 348130, "D": "made smooth and glossy", "S": ["unfinished"], "A": ["civilized", "polished", "refined", "shiny", "smooth", "sophisticated"]}

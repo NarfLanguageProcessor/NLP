@@ -1,1 +1,1 @@
-{"index": 245284, "D": "perambulator. ", "S": ["baby buggy ", "carriage ", "perambulator ", "pushchair ", "stroller "], "A": []}
+{"index": 245284, "D": "perambulator. ", "S": ["baby buggy", "carriage", "perambulator", "pushchair", "stroller"], "A": []}

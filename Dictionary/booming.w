@@ -1,1 +1,1 @@
-{"index": 38167, "D": "to make a deep, prolonged, resonant sound.", "S": ["growing ", "profitable ", "prosperous ", "roaring ", "thriving "], "A": ["disadvantageous ", "failing ", "losing "]}
+{"index": 38167, "D": "to make a deep, prolonged, resonant sound.", "S": ["growing", "profitable", "prosperous", "roaring", "thriving"], "A": ["disadvantageous", "failing", "losing"]}

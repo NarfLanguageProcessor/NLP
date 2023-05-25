@@ -1,1 +1,0 @@
-{"index": 261325, "D": "untanned skin of cattle or other animals.", "S": [], "A": []}

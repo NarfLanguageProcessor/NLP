@@ -1,1 +1,1 @@
-{"index": 47464, "D": [], "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}
+{"index": 47464, "D": [], "S": ["cellulose", "glucose", "lactose", "starch", "sugar"], "A": []}

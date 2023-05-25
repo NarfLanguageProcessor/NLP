@@ -1,1 +1,1 @@
-{"index": 236891, "D": "a child's apron, usually large enough to cover the dress and sometimes trimmed with flounces.", "S": ["smock "], "A": []}
+{"index": 236891, "D": "a child's apron, usually large enough to cover the dress and sometimes trimmed with flounces.", "S": ["smock"], "A": []}

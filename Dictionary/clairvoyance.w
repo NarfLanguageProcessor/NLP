@@ -1,1 +1,1 @@
-{"index": 59099, "D": "Compare clairaudience, clairsentience. ", "S": ["ESP ", "acumen ", "discernment ", "feeling ", "foreknowledge ", "insight ", "omen ", "penetration ", "perception ", "precognition ", "premonition ", "psyche ", "telepathy "], "A": ["ignorance ", "stupidity "]}
+{"index": 59099, "D": "Compare clairaudience, clairsentience. ", "S": ["ESP", "acumen", "discernment", "feeling", "foreknowledge", "insight", "omen", "penetration", "perception", "precognition", "premonition", "psyche", "telepathy"], "A": ["ignorance", "stupidity"]}

@@ -1,1 +1,0 @@
-{"index": 198829, "D": "to lie close and snug, like a bird in a nest; snuggle or cuddle.", "S": ["bundle ", "burrow ", "cuddle ", "huddle ", "nuzzle ", "snug ", "snuggle "], "A": ["separate "]}

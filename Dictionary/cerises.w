@@ -1,1 +1,1 @@
-{"index": 51509, "D": "moderate to deep red.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}
+{"index": 51509, "D": "moderate to deep red.", "S": ["cardinal", "coral", "crimson", "flaming", "glowing", "maroon", "rose", "wine"], "A": []}

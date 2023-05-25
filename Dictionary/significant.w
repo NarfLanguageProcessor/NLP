@@ -1,1 +1,1 @@
-{"index": 290153, "D": "important and deserving of attention; of consequence", "S": ["compelling ", "important ", "momentous ", "powerful ", "serious ", "symbolic "], "A": ["insignificant ", "trivial ", "unimportant "]}
+{"index": 290153, "D": "important and deserving of attention; of consequence", "S": ["compelling", "important", "momentous", "powerful", "serious", "symbolic"], "A": ["insignificant", "trivial", "unimportant"]}

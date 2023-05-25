@@ -1,1 +1,1 @@
-{"index": 103519, "D": "upright in position or posture", "S": ["cocked ", "elevated ", "firm ", "perpendicular ", "raised ", "standing ", "upright ", "vertical "], "A": ["lowered ", "prone "]}
+{"index": 103519, "D": "upright in position or posture", "S": ["cocked", "elevated", "firm", "perpendicular", "raised", "standing", "upright", "vertical"], "A": ["lowered", "prone"]}

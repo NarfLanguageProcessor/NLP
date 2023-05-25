@@ -1,1 +1,1 @@
-{"index": 181809, "D": "a unit or standard of measurement", "S": ["assessor ", "cartographer "], "A": []}
+{"index": 181809, "D": "a unit or standard of measurement", "S": ["assessor", "cartographer"], "A": []}

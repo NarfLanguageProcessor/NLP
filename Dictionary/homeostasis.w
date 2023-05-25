@@ -1,1 +1,1 @@
-{"index": 142842, "D": "Compare allostasis. ", "S": ["equilibrium "], "A": ["imbalance ", "instability ", "unevenness "]}
+{"index": 142842, "D": "Compare allostasis. ", "S": ["equilibrium"], "A": ["imbalance", "instability", "unevenness"]}

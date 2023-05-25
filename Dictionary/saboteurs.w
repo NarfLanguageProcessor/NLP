@@ -1,1 +1,1 @@
-{"index": 276104, "D": "a person who commits or practices sabotage.", "S": ["Trojan horse ", "collaborators ", "collaborators of enemy ", "infiltrators ", "subversives ", "underground "], "A": []}
+{"index": 276104, "D": "a person who commits or practices sabotage.", "S": ["Trojan horse", "collaborators", "collaborators of enemy", "infiltrators", "subversives", "underground"], "A": []}

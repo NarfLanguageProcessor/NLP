@@ -1,1 +1,1 @@
-{"index": 165608, "D": "full of or covered with knobs", "S": ["bumpy ", "knurled ", "lumpy "], "A": []}
+{"index": 165608, "D": "full of or covered with knobs", "S": ["bumpy", "knurled", "lumpy"], "A": []}

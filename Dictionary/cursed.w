@@ -1,1 +1,1 @@
-{"index": 75449, "D": "under a curse;  damned.", "S": ["accursed ", "bedeviled ", "blasted ", "blighted ", "confounded ", "excommunicate ", "foredoomed ", "voodooed "], "A": ["blessed "]}
+{"index": 75449, "D": "under a curse;  damned.", "S": ["accursed", "bedeviled", "blasted", "blighted", "confounded", "excommunicate", "foredoomed", "voodooed"], "A": ["blessed"]}

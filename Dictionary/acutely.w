@@ -1,1 +1,1 @@
-{"index": 3376, "D": "having a sharp, severe, or intense effect", "S": ["keenly ", "severely "], "A": []}
+{"index": 3376, "D": "having a sharp, severe, or intense effect", "S": ["keenly", "severely"], "A": []}

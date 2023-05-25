@@ -1,1 +1,1 @@
-{"index": 43004, "D": "oppressively heavy; onerous.", "S": ["difficultly ", "exhaustingly ", "heavily ", "laboriously ", "onerously ", "troublesomely "], "A": []}
+{"index": 43004, "D": "oppressively heavy; onerous.", "S": ["difficultly", "exhaustingly", "heavily", "laboriously", "onerously", "troublesomely"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 36968, "D": "to speak with exaggeration and excessive pride, especially about oneself.", "S": ["bluster "], "A": ["humility ", "modesty "]}
+{"index": 36968, "D": "to speak with exaggeration and excessive pride, especially about oneself.", "S": ["bluster"], "A": ["humility", "modesty"]}

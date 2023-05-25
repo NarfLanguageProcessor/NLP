@@ -1,1 +1,1 @@
-{"index": 32298, "D": "to be fit for or worthy of; become", "S": ["agree ", "become ", "behoove ", "benefit ", "correspond ", "do ", "go ", "match ", "serve ", "suit "], "A": ["differ ", "disagree ", "refuse "]}
+{"index": 32298, "D": "to be fit for or worthy of; become", "S": ["agree", "become", "behoove", "benefit", "correspond", "do", "go", "match", "serve", "suit"], "A": ["differ", "disagree", "refuse"]}

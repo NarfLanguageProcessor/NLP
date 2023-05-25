@@ -1,1 +1,1 @@
-{"index": 176612, "D": "fellow; bud (a familiar term of address to a man or boy whose name is not known to the speaker).", "S": ["CPU ", "PC ", "abacus ", "analog ", "brain ", "calculator ", "clone ", "laptop ", "mainframe ", "microcomputer ", "mini ", "minicomputer "], "A": []}
+{"index": 176612, "D": "fellow; bud (a familiar term of address to a man or boy whose name is not known to the speaker).", "S": ["CPU", "PC", "abacus", "analog", "brain", "calculator", "clone", "laptop", "mainframe", "microcomputer", "mini", "minicomputer"], "A": []}

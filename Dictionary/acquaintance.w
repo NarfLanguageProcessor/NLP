@@ -1,1 +1,1 @@
-{"index": 2709, "D": "a person known to one, but usually not a close friend.", "S": ["associate ", "colleague ", "companion ", "friend ", "neighbor "], "A": ["antagonist ", "detractor ", "enemy ", "foe ", "opponent ", "stranger "]}
+{"index": 2709, "D": "a person known to one, but usually not a close friend.", "S": ["associate", "colleague", "companion", "friend", "neighbor"], "A": ["antagonist", "detractor", "enemy", "foe", "opponent", "stranger"]}

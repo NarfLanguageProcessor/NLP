@@ -1,0 +1,1 @@
+{"index": 6021, "D": "pertaining to, or productive of, a form that indicates an agent  or agency.", "S": [], "A": []}

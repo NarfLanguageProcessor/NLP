@@ -1,1 +1,1 @@
-{"index": 365470, "D": "(in Nevada, Arizona, etc.) an American Indian hut made of brushwood or covered with mats.", "S": ["dwelling ", "home ", "lodge ", "shelter ", "tent ", "tepee "], "A": []}
+{"index": 365470, "D": "(in Nevada, Arizona, etc.) an American Indian hut made of brushwood or covered with mats.", "S": ["dwelling", "home", "lodge", "shelter", "tent", "tepee"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 113640, "D": "to make a hissing or sputtering sound; effervesce.", "S": ["barmy ", "bubbling ", "fermenting ", "fizzy ", "foaming ", "foamy ", "soapy ", "spumescent ", "spumous ", "spumy ", "sudsy ", "with a head on ", "yeasty "], "A": ["flat "]}
+{"index": 113640, "D": "to make a hissing or sputtering sound; effervesce.", "S": ["barmy", "bubbling", "fermenting", "fizzy", "foaming", "foamy", "soapy", "spumescent", "spumous", "spumy", "sudsy", "with a head on", "yeasty"], "A": ["flat"]}

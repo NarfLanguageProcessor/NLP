@@ -1,1 +1,1 @@
-{"index": 286678, "D": "the act of a person or thing that sets.", "S": ["ambience ", "backdrop ", "context ", "environment ", "framework ", "locale ", "location ", "site ", "surroundings "], "A": ["brightness ", "light "]}
+{"index": 286678, "D": "the act of a person or thing that sets.", "S": ["ambience", "backdrop", "context", "environment", "framework", "locale", "location", "site", "surroundings"], "A": ["brightness", "light"]}

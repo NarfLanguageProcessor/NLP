@@ -1,1 +1,1 @@
-{"index": 308275, "D": "under the control or rule of another person, government, country, etc.", "S": ["exact ", "expose ", "levy ", "wreak "], "A": ["hold ", "keep ", "take ", "withhold "]}
+{"index": 308275, "D": "under the control or rule of another person, government, country, etc.", "S": ["exact", "expose", "levy", "wreak"], "A": ["hold", "keep", "take", "withhold"]}

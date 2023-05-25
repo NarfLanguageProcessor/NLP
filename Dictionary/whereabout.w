@@ -1,1 +1,1 @@
-{"index": 364651, "D": "whereabouts. ", "S": ["place ", "site ", "spot "], "A": []}
+{"index": 364651, "D": "whereabouts. ", "S": ["place", "site", "spot"], "A": []}

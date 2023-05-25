@@ -1,1 +1,1 @@
-{"index": 88244, "D": "having one\u2019s hope, courage, or spirits depressed; discouraged or demoralized", "S": ["anxious ", "apprehensive ", "frightened ", "nervous ", "scared ", "shocked ", "suspicious ", "timid "], "A": ["brave ", "calm ", "happy ", "unafraid ", "unworried "]}
+{"index": 88244, "D": "having one\u2019s hope, courage, or spirits depressed; discouraged or demoralized", "S": ["anxious", "apprehensive", "frightened", "nervous", "scared", "shocked", "suspicious", "timid"], "A": ["brave", "calm", "happy", "unafraid", "unworried"]}

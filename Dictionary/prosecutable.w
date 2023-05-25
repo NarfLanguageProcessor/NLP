@@ -1,1 +1,1 @@
-{"index": 253032, "D": "to conduct criminal proceedings in court against.", "S": ["actionable ", "appealable ", "contestable ", "disputable ", "triable "], "A": []}
+{"index": 253032, "D": "to conduct criminal proceedings in court against.", "S": ["actionable", "appealable", "contestable", "disputable", "triable"], "A": []}

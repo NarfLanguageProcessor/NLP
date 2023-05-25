@@ -1,1 +1,1 @@
-{"index": 285496, "D": "to indulge in sentiment. ", "S": ["glamorize ", "idealize ", "romanticize "], "A": []}
+{"index": 285496, "D": "to indulge in sentiment. ", "S": ["glamorize", "idealize", "romanticize"], "A": []}

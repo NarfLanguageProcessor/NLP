@@ -1,1 +1,1 @@
-{"index": 302760, "D": "an arrangement of a certain number of lines, usually four or more, sometimes having a fixed length, meter, or rhyme scheme, forming a division of a poem.", "S": ["verse "], "A": []}
+{"index": 302760, "D": "an arrangement of a certain number of lines, usually four or more, sometimes having a fixed length, meter, or rhyme scheme, forming a division of a poem.", "S": ["verse"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 179100, "D": "a planned and regulated movement or evolution of troops, warships, etc.", "S": ["flexibility "], "A": []}
+{"index": 179100, "D": "a planned and regulated movement or evolution of troops, warships, etc.", "S": ["flexibility"], "A": []}

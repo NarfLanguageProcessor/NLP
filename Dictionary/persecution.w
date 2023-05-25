@@ -1,1 +1,1 @@
-{"index": 231877, "D": "the act of persecuting. ", "S": ["expulsion ", "ill-treatment ", "imprisonment ", "killing ", "maltreatment ", "massacre ", "mistreatment ", "murder ", "oppression ", "torture "], "A": ["happiness ", "joy "]}
+{"index": 231877, "D": "the act of persecuting. ", "S": ["expulsion", "ill-treatment", "imprisonment", "killing", "maltreatment", "massacre", "mistreatment", "murder", "oppression", "torture"], "A": ["happiness", "joy"]}

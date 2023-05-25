@@ -1,1 +1,1 @@
-{"index": 23022, "D": "to be present at", "S": ["show up ", "visit "], "A": ["hide "]}
+{"index": 23022, "D": "to be present at", "S": ["show up", "visit"], "A": ["hide"]}

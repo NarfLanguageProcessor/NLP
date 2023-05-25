@@ -1,1 +1,1 @@
-{"index": 94896, "D": "a right held by one property owner to make use of the land of another for a limited purpose, as right of passage.", "S": ["access ", "passage "], "A": []}
+{"index": 94896, "D": "a right held by one property owner to make use of the land of another for a limited purpose, as right of passage.", "S": ["access", "passage"], "A": []}

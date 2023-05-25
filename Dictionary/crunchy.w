@@ -1,1 +1,1 @@
-{"index": 74223, "D": "crisp; brittle.", "S": ["chewy ", "crackling ", "crisp ", "crispy ", "crumbly ", "crusty "], "A": []}
+{"index": 74223, "D": "crisp; brittle.", "S": ["chewy", "crackling", "crisp", "crispy", "crumbly", "crusty"], "A": []}

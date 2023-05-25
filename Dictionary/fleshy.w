@@ -1,1 +1,1 @@
-{"index": 114438, "D": "having much flesh;  plump; fat.", "S": ["beefy ", "corpulent ", "meaty ", "plump ", "pudgy ", "stout "], "A": ["skinny ", "slight ", "thin ", "weak "]}
+{"index": 114438, "D": "having much flesh;  plump; fat.", "S": ["beefy", "corpulent", "meaty", "plump", "pudgy", "stout"], "A": ["skinny", "slight", "thin", "weak"]}

@@ -1,1 +1,1 @@
-{"index": 183654, "D": "the manufactured goods bought and sold in any business.", "S": ["commodity ", "material ", "product ", "stock ", "stuff "], "A": []}
+{"index": 183654, "D": "the manufactured goods bought and sold in any business.", "S": ["commodity", "material", "product", "stock", "stuff"], "A": []}

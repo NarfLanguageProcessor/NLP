@@ -1,1 +1,1 @@
-{"index": 195037, "D": "of several or many colors.", "S": ["checkered ", "mottled "], "A": ["monochrome "]}
+{"index": 195037, "D": "of several or many colors.", "S": ["checkered", "mottled"], "A": ["monochrome"]}

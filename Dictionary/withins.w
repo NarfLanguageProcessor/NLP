@@ -1,1 +1,1 @@
-{"index": 366650, "D": "in or into the interior or inner part; inside.", "S": ["belly ", "bosom ", "contents ", "heart ", "heartland ", "innards ", "inside ", "lining ", "marrow ", "midst ", "pith ", "pulp ", "soul ", "substance ", "viscera "], "A": ["exterior ", "exteriority ", "outside "]}
+{"index": 366650, "D": "in or into the interior or inner part; inside.", "S": ["belly", "bosom", "contents", "heart", "heartland", "innards", "inside", "lining", "marrow", "midst", "pith", "pulp", "soul", "substance", "viscera"], "A": ["exterior", "exteriority", "outside"]}

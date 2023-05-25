@@ -1,1 +1,1 @@
-{"index": 155789, "D": "reciprocal relation. ", "S": ["correlation ", "interconnection ", "interdependence "], "A": ["antagonism ", "dissimilarity ", "disunion ", "opposition ", "separation "]}
+{"index": 155789, "D": "reciprocal relation. ", "S": ["correlation", "interconnection", "interdependence"], "A": ["antagonism", "dissimilarity", "disunion", "opposition", "separation"]}

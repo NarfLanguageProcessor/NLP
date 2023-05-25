@@ -1,1 +1,1 @@
-{"index": 63726, "D": "a return to a former higher rank, popularity, position, prosperity, etc.", "S": ["improvement ", "rebound ", "resurgence ", "return ", "revival ", "victory ", "winning "], "A": ["failure "]}
+{"index": 63726, "D": "a return to a former higher rank, popularity, position, prosperity, etc.", "S": ["improvement", "rebound", "resurgence", "return", "revival", "victory", "winning"], "A": ["failure"]}

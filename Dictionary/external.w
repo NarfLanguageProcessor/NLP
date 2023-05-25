@@ -1,1 +1,1 @@
-{"index": 108296, "D": "of or relating to the outside or outer part; outer", "S": ["extraneous ", "foreign "], "A": ["national ", "native ", "relevant ", "central ", "interior ", "middle "]}
+{"index": 108296, "D": "of or relating to the outside or outer part; outer", "S": ["extraneous", "foreign"], "A": ["national", "native", "relevant", "central", "interior", "middle"]}

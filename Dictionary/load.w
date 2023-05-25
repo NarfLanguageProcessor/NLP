@@ -1,1 +1,1 @@
-{"index": 174069, "D": "anything put in or on something for conveyance or transportation; freight; cargo", "S": ["amount ", "bundle ", "capacity ", "consignment ", "goods ", "haul ", "payload ", "shipment ", "weight "], "A": ["whole "]}
+{"index": 174069, "D": "anything put in or on something for conveyance or transportation; freight; cargo", "S": ["amount", "bundle", "capacity", "consignment", "goods", "haul", "payload", "shipment", "weight"], "A": ["whole"]}

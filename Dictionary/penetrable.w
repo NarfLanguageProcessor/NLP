@@ -1,1 +1,1 @@
-{"index": 229601, "D": "capable of being penetrated. ", "S": ["accessible ", "open ", "passable ", "pervious ", "porous ", "receptive ", "susceptible "], "A": []}
+{"index": 229601, "D": "capable of being penetrated. ", "S": ["accessible", "open", "passable", "pervious", "porous", "receptive", "susceptible"], "A": []}

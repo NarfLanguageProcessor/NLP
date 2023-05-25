@@ -1,1 +1,1 @@
-{"index": 63792, "D": "a candy containing a nut or piece of fruit.", "S": ["bonbons ", "candy ", "confection ", "confectionery ", "dessert ", "pastries ", "pie ", "preserves ", "pudding ", "sweetmeats "], "A": []}
+{"index": 63792, "D": "a candy containing a nut or piece of fruit.", "S": ["bonbons", "candy", "confection", "confectionery", "dessert", "pastries", "pie", "preserves", "pudding", "sweetmeats"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 183559, "D": "the medial plate of the labium in insects.", "S": ["button ", "jaw ", "jawbone ", "mandible ", "point "], "A": []}
+{"index": 183559, "D": "the medial plate of the labium in insects.", "S": ["button", "jaw", "jawbone", "mandible", "point"], "A": []}

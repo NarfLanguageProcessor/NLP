@@ -1,1 +1,1 @@
-{"index": 149860, "D": "to burn or reduce to ashes; cremate.", "S": ["pyre "], "A": []}
+{"index": 149860, "D": "to burn or reduce to ashes; cremate.", "S": ["pyre"], "A": []}

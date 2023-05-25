@@ -1,1 +1,1 @@
-{"index": 336714, "D": "liable to change  or to be changed;  variable.", "S": ["immutably ", "unassailably "], "A": []}
+{"index": 336714, "D": "liable to change  or to be changed;  variable.", "S": ["immutably", "unassailably"], "A": []}

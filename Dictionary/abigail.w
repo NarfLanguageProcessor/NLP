@@ -1,1 +1,1 @@
-{"index": 434, "D": "a lady's maid.", "S": ["soubrette "], "A": []}
+{"index": 434, "D": "a lady's maid.", "S": ["soubrette"], "A": []}

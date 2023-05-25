@@ -1,1 +1,1 @@
-{"index": 322593, "D": "tending or intended to menace", "S": ["aggressive ", "alarming ", "cautionary ", "dangerous ", "dire ", "sinister ", "ugly "], "A": ["good ", "kind ", "nice ", "safe ", "away ", "distant ", "far ", "remote "]}
+{"index": 322593, "D": "tending or intended to menace", "S": ["aggressive", "alarming", "cautionary", "dangerous", "dire", "sinister", "ugly"], "A": ["good", "kind", "nice", "safe", "away", "distant", "far", "remote"]}

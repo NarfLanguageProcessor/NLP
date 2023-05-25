@@ -1,1 +1,1 @@
-{"index": 199909, "D": "the period of darkness between sunset and sunrise.", "S": ["midnight "], "A": ["day ", "daybreak ", "daylight ", "daytime ", "light ", "morning "]}
+{"index": 199909, "D": "the period of darkness between sunset and sunrise.", "S": ["midnight"], "A": ["day", "daybreak", "daylight", "daytime", "light", "morning"]}

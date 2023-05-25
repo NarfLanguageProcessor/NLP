@@ -1,1 +1,1 @@
-{"index": 113720, "D": "to whip; scourge; flog; lash.", "S": ["beat ", "belt ", "flay ", "flog ", "hit ", "lash ", "spank ", "tan ", "thrash "], "A": ["lose "]}
+{"index": 113720, "D": "to whip; scourge; flog; lash.", "S": ["beat", "belt", "flay", "flog", "hit", "lash", "spank", "tan", "thrash"], "A": ["lose"]}

@@ -1,1 +1,1 @@
-{"index": 192395, "D": "the act or habit of soliloquizing.", "S": ["discourse ", "monologue "], "A": ["dialogue "]}
+{"index": 192395, "D": "the act or habit of soliloquizing.", "S": ["discourse", "monologue"], "A": ["dialogue"]}

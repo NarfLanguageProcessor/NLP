@@ -1,1 +1,1 @@
-{"index": 284620, "D": "of or relating to signs.", "S": ["parole ", "pragmatics ", "semantics ", "symbolism "], "A": []}
+{"index": 284620, "D": "of or relating to signs.", "S": ["parole", "pragmatics", "semantics", "symbolism"], "A": []}

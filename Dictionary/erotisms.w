@@ -1,1 +1,1 @@
-{"index": 103939, "D": "the sexual or erotic  quality or character of something.", "S": ["amativeness ", "amorousness ", "arousal ", "concupiscence ", "eroticism ", "lust ", "lustfulness ", "passion ", "prurience ", "pruriency ", "titillation "], "A": []}
+{"index": 103939, "D": "the sexual or erotic  quality or character of something.", "S": ["amativeness", "amorousness", "arousal", "concupiscence", "eroticism", "lust", "lustfulness", "passion", "prurience", "pruriency", "titillation"], "A": []}

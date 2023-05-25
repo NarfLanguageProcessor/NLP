@@ -1,1 +1,1 @@
-{"index": 268312, "D": "folded;  bent back on itself.", "S": ["clone ", "depict ", "duplicate ", "imitate ", "mirror ", "reflect ", "repeat ", "reproduce ", "simulate "], "A": []}
+{"index": 268312, "D": "folded;  bent back on itself.", "S": ["clone", "depict", "duplicate", "imitate", "mirror", "reflect", "repeat", "reproduce", "simulate"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 165342, "D": "any of the five hindrances to enlightenment, which are ignorance or avidya, egocentricity, attachments, aversions, and the instinctive will to live.", "S": [], "A": []}

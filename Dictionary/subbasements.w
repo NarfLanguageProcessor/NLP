@@ -1,1 +1,1 @@
-{"index": 307296, "D": "a basement  or one of a series of basements  below the main basement  of a building.", "S": ["apartment ", "basement ", "vault "], "A": ["attic "]}
+{"index": 307296, "D": "a basement  or one of a series of basements  below the main basement  of a building.", "S": ["apartment", "basement", "vault"], "A": ["attic"]}

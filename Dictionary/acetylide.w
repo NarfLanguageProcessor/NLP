@@ -1,0 +1,1 @@
+{"index": 2081, "D": "any compound derived from acetylene by the replacement of one or both of its hydrogen atoms by a metal, as silver acetylide, Ag2Cl2.", "S": [], "A": []}

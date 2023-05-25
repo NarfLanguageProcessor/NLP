@@ -1,1 +1,0 @@
-{"index": 207832, "D": "of the nature of or made or done as a trial, experiment, or attempt; experimental", "S": [], "A": []}

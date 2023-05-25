@@ -1,1 +1,1 @@
-{"index": 31152, "D": "literature regarded as a fine art, especially as having a purely aesthetic function.", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}
+{"index": 31152, "D": "literature regarded as a fine art, especially as having a purely aesthetic function.", "S": ["classic", "humanistic"], "A": ["complicated", "modern"]}

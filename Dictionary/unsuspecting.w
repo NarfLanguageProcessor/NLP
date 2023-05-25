@@ -1,1 +1,1 @@
-{"index": 352533, "D": "disposed to trust; not suspicious; trusting", "S": ["innocent "], "A": ["conscious ", "expecting ", "knowing ", "realizing ", "suspecting "]}
+{"index": 352533, "D": "disposed to trust; not suspicious; trusting", "S": ["innocent"], "A": ["conscious", "expecting", "knowing", "realizing", "suspecting"]}

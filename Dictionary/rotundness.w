@@ -1,1 +1,1 @@
-{"index": 274723, "D": "the condition or quality of roundness or plumpness, as of an object or person.", "S": ["bulk ", "chubbiness ", "fatness ", "overweight ", "paunchiness ", "plumpness ", "stoutness "], "A": []}
+{"index": 274723, "D": "the condition or quality of roundness or plumpness, as of an object or person.", "S": ["bulk", "chubbiness", "fatness", "overweight", "paunchiness", "plumpness", "stoutness"], "A": []}

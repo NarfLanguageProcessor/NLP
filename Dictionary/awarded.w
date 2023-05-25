@@ -1,1 +1,1 @@
-{"index": 24962, "D": "to give as due or merited; assign or bestow", "S": ["allocate ", "allot ", "assign ", "bestow ", "confer ", "distribute ", "donate ", "grant ", "hand out ", "present ", "reward "], "A": ["keep ", "refuse ", "take ", "withhold ", "disagree "]}
+{"index": 24962, "D": "to give as due or merited; assign or bestow", "S": ["allocate", "allot", "assign", "bestow", "confer", "distribute", "donate", "grant", "hand out", "present", "reward"], "A": ["keep", "refuse", "take", "withhold", "disagree"]}

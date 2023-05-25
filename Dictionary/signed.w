@@ -1,1 +1,1 @@
-{"index": 290131, "D": "a token or indication; a piece of evidence", "S": ["endorsed ", "registered ", "witnessed ", "written "], "A": []}
+{"index": 290131, "D": "a token or indication; a piece of evidence", "S": ["endorsed", "registered", "witnessed", "written"], "A": []}

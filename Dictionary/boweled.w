@@ -1,1 +1,1 @@
-{"index": 39153, "D": "a part of the intestine.", "S": ["decimate ", "empty ", "eviscerate ", "loot ", "ransack ", "ravage "], "A": ["protect "]}
+{"index": 39153, "D": "a part of the intestine.", "S": ["decimate", "empty", "eviscerate", "loot", "ransack", "ravage"], "A": ["protect"]}

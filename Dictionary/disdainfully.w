@@ -1,1 +1,1 @@
-{"index": 87814, "D": "in a way that shows contempt or scorn", "S": ["skeptically ", "suspiciously "], "A": []}
+{"index": 87814, "D": "in a way that shows contempt or scorn", "S": ["skeptically", "suspiciously"], "A": []}

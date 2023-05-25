@@ -1,1 +1,1 @@
-{"index": 191550, "D": "to soften in feeling or temper, as a person; pacify; appease. ", "S": ["delicately ", "indifferently ", "lightly ", "moderately ", "quietly "], "A": ["harshly ", "roughly ", "violently "]}
+{"index": 191550, "D": "to soften in feeling or temper, as a person; pacify; appease. ", "S": ["delicately", "indifferently", "lightly", "moderately", "quietly"], "A": ["harshly", "roughly", "violently"]}

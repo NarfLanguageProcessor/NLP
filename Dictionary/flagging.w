@@ -1,1 +1,1 @@
-{"index": 113754, "D": "becoming smaller or weaker; dwindling. ", "S": ["dwindling ", "fading ", "listless ", "sagging ", "slumping ", "waning ", "weakening "], "A": ["energized ", "refreshed "]}
+{"index": 113754, "D": "becoming smaller or weaker; dwindling. ", "S": ["dwindling", "fading", "listless", "sagging", "slumping", "waning", "weakening"], "A": ["energized", "refreshed"]}

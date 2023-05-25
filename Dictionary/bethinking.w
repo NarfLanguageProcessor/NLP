@@ -1,1 +1,1 @@
-{"index": 32731, "D": "to think; consider (used reflexively)", "S": ["deliberate ", "devise ", "mind ", "recall ", "recollect ", "reflect ", "remember ", "reminisce "], "A": ["disregard ", "forget ", "ignore "]}
+{"index": 32731, "D": "to think; consider (used reflexively)", "S": ["deliberate", "devise", "mind", "recall", "recollect", "reflect", "remember", "reminisce"], "A": ["disregard", "forget", "ignore"]}

@@ -1,1 +1,1 @@
-{"index": 41062, "D": "to become or make broad. ", "S": ["advancing ", "enlightening ", "enriching ", "expanding ", "improving ", "refining "], "A": []}
+{"index": 41062, "D": "to become or make broad. ", "S": ["advancing", "enlightening", "enriching", "expanding", "improving", "refining"], "A": []}

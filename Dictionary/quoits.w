@@ -1,1 +1,1 @@
-{"index": 259125, "D": "a game in which quoits are tossed at a stake in the ground in attempts to encircle it", "S": ["disc ", "plate ", "platter "], "A": []}
+{"index": 259125, "D": "a game in which quoits are tossed at a stake in the ground in attempts to encircle it", "S": ["disc", "plate", "platter"], "A": []}

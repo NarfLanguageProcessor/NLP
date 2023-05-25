@@ -1,1 +1,1 @@
-{"index": 101392, "D": "captivated or charmed", "S": ["aware ", "conscientious ", "interested ", "observant ", "vigilant ", "watchful "], "A": ["careless ", "inattentive ", "negligent ", "unaware "]}
+{"index": 101392, "D": "captivated or charmed", "S": ["aware", "conscientious", "interested", "observant", "vigilant", "watchful"], "A": ["careless", "inattentive", "negligent", "unaware"]}

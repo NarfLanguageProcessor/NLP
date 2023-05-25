@@ -1,1 +1,1 @@
-{"index": 251824, "D": "abundance; abundant quantity.", "S": ["glut ", "outpouring "], "A": ["economy ", "lack ", "moderation ", "need ", "poorness ", "poverty ", "scarcity ", "want "]}
+{"index": 251824, "D": "abundance; abundant quantity.", "S": ["glut", "outpouring"], "A": ["economy", "lack", "moderation", "need", "poorness", "poverty", "scarcity", "want"]}

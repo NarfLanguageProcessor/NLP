@@ -1,1 +1,1 @@
-{"index": 332392, "D": "full of melody; melodious", "S": ["arrangement ", "chord ", "composition ", "melody ", "tune ", "unity "], "A": ["disagreement ", "discord ", "disharmony "]}
+{"index": 332392, "D": "full of melody; melodious", "S": ["arrangement", "chord", "composition", "melody", "tune", "unity"], "A": ["disagreement", "discord", "disharmony"]}

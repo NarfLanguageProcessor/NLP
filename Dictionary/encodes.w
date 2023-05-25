@@ -1,1 +1,1 @@
-{"index": 99422, "D": "to convert (a message, information, etc.) into code. ", "S": ["cipher ", "conceal "], "A": []}
+{"index": 99422, "D": "to convert (a message, information, etc.) into code. ", "S": ["cipher", "conceal"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 255433, "D": "of, relating to, or affected with psychopathy. ", "S": ["certifiable ", "crazed ", "crazy ", "demented ", "deranged ", "insane ", "mental ", "unbalanced "], "A": []}
+{"index": 255433, "D": "of, relating to, or affected with psychopathy. ", "S": ["certifiable", "crazed", "crazy", "demented", "deranged", "insane", "mental", "unbalanced"], "A": []}

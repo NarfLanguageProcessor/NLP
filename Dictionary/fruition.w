@@ -1,1 +1,1 @@
-{"index": 119615, "D": "attainment of anything desired; realization; accomplishment", "S": ["materialization "], "A": ["disappointment ", "dissatisfaction ", "failure ", "frustration ", "imperfection ", "loss ", "need ", "sorrow ", "unfulfillment ", "unhappiness ", "want "]}
+{"index": 119615, "D": "attainment of anything desired; realization; accomplishment", "S": ["materialization"], "A": ["disappointment", "dissatisfaction", "failure", "frustration", "imperfection", "loss", "need", "sorrow", "unfulfillment", "unhappiness", "want"]}

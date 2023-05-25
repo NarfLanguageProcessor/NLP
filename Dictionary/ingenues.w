@@ -1,1 +1,1 @@
-{"index": 152478, "D": "an artless, innocent, unworldly girl or young woman", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}
+{"index": 152478, "D": "an artless, innocent, unworldly girl or young woman", "S": ["artist", "character", "clown", "comedian", "entertainer", "performer", "player", "star", "villain"], "A": ["audience", "fan"]}

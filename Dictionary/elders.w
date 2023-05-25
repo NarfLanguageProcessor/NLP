@@ -1,1 +1,1 @@
-{"index": 96838, "D": "of greater age; older. ", "S": ["patriarch ", "senior ", "senior citizen ", "veteran "], "A": ["junior ", "minor ", "youngster ", "youth "]}
+{"index": 96838, "D": "of greater age; older. ", "S": ["patriarch", "senior", "senior citizen", "veteran"], "A": ["junior", "minor", "youngster", "youth"]}

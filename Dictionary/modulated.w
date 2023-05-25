@@ -1,1 +1,1 @@
-{"index": 191179, "D": "to regulate by or adjust to a certain measure or proportion; soften; tone down.", "S": ["choral ", "lyric ", "oral ", "singing ", "sung ", "voiced ", "vowel "], "A": []}
+{"index": 191179, "D": "to regulate by or adjust to a certain measure or proportion; soften; tone down.", "S": ["choral", "lyric", "oral", "singing", "sung", "voiced", "vowel"], "A": []}

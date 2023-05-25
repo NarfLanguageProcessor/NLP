@@ -1,1 +1,1 @@
-{"index": 287943, "D": "an utter defeat", "S": ["defeat ", "drubbing ", "slaughter ", "whipping "], "A": ["triumph ", "victory ", "win "]}
+{"index": 287943, "D": "an utter defeat", "S": ["defeat", "drubbing", "slaughter", "whipping"], "A": ["triumph", "victory", "win"]}

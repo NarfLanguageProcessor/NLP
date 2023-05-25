@@ -1,1 +1,1 @@
-{"index": 130545, "D": "to murmur or mutter in discontent; complain sullenly", "S": ["carp ", "fuss ", "gripe ", "groan ", "moan ", "squawk "], "A": ["compliment ", "praise "]}
+{"index": 130545, "D": "to murmur or mutter in discontent; complain sullenly", "S": ["carp", "fuss", "gripe", "groan", "moan", "squawk"], "A": ["compliment", "praise"]}

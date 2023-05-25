@@ -1,1 +1,1 @@
-{"index": 9427, "D": "high. ", "S": ["Ctrl ", "F key "], "A": []}
+{"index": 9427, "D": "high. ", "S": ["Ctrl", "F key"], "A": []}

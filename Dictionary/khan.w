@@ -1,1 +1,1 @@
-{"index": 164240, "D": "(in the Altaic group of languages) a title held by hereditary rulers or tribal chiefs.", "S": ["hostelry ", "hotel ", "inn ", "lodge "], "A": []}
+{"index": 164240, "D": "(in the Altaic group of languages) a title held by hereditary rulers or tribal chiefs.", "S": ["hostelry", "hotel", "inn", "lodge"], "A": []}

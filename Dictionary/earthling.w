@@ -1,1 +1,1 @@
-{"index": 94835, "D": "an inhabitant of earth;  mortal.", "S": ["humankind ", "man ", "person ", "tellurian ", "woman "], "A": []}
+{"index": 94835, "D": "an inhabitant of earth;  mortal.", "S": ["humankind", "man", "person", "tellurian", "woman"], "A": []}

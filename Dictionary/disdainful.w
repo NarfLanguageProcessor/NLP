@@ -1,1 +1,1 @@
-{"index": 87813, "D": "full of or showing disdain; scornful. ", "S": ["aloof ", "arrogant ", "averse ", "contemptuous ", "derisive ", "haughty ", "unsympathetic "], "A": ["humble ", "meek ", "shy ", "sympathetic "]}
+{"index": 87813, "D": "full of or showing disdain; scornful. ", "S": ["aloof", "arrogant", "averse", "contemptuous", "derisive", "haughty", "unsympathetic"], "A": ["humble", "meek", "shy", "sympathetic"]}

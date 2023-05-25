@@ -1,1 +1,1 @@
-{"index": 8288, "D": "nourishment; nutrition. ", "S": ["bread ", "food ", "livelihood ", "maintenance ", "nutriment ", "nutrition ", "subsistence ", "support ", "sustenance "], "A": []}
+{"index": 8288, "D": "nourishment; nutrition. ", "S": ["bread", "food", "livelihood", "maintenance", "nutriment", "nutrition", "subsistence", "support", "sustenance"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 293001, "D": "a small, rocky island.", "S": ["atoll ", "beach ", "coral reef ", "shoal "], "A": []}
+{"index": 293001, "D": "a small, rocky island.", "S": ["atoll", "beach", "coral reef", "shoal"], "A": []}

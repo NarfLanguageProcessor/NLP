@@ -1,1 +1,1 @@
-{"index": 185918, "D": "a microorganism, especially a pathogenic bacterium.", "S": ["infinitesimal ", "insignificant ", "microscopic ", "minimal ", "minuscule ", "precise ", "tiny "], "A": ["big ", "huge ", "large ", "significant ", "substantial ", "giant "]}
+{"index": 185918, "D": "a microorganism, especially a pathogenic bacterium.", "S": ["infinitesimal", "insignificant", "microscopic", "minimal", "minuscule", "precise", "tiny"], "A": ["big", "huge", "large", "significant", "substantial", "giant"]}

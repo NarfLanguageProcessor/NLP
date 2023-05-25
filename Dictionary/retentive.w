@@ -1,1 +1,1 @@
-{"index": 270372, "D": "tending or serving to retain  something.", "S": ["absorptive ", "dry ", "imbibing "], "A": ["impermeable "]}
+{"index": 270372, "D": "tending or serving to retain  something.", "S": ["absorptive", "dry", "imbibing"], "A": ["impermeable"]}

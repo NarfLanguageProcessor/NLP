@@ -1,1 +1,1 @@
-{"index": 110927, "D": "pretended; sham; counterfeit", "S": ["affected ", "assumed ", "counterfeit ", "fabricated ", "fake ", "faked ", "imagined ", "pretended ", "sham ", "simulated "], "A": ["genuine ", "real ", "true "]}
+{"index": 110927, "D": "pretended; sham; counterfeit", "S": ["affected", "assumed", "counterfeit", "fabricated", "fake", "faked", "imagined", "pretended", "sham", "simulated"], "A": ["genuine", "real", "true"]}

@@ -1,1 +1,1 @@
-{"index": 18703, "D": "something archaic, as a word or expression.", "S": ["age ", "ancientness ", "archaicism ", "hoariness ", "venerableness "], "A": ["convention ", "modernity ", "newness ", "now "]}
+{"index": 18703, "D": "something archaic, as a word or expression.", "S": ["age", "ancientness", "archaicism", "hoariness", "venerableness"], "A": ["convention", "modernity", "newness", "now"]}

@@ -1,1 +1,0 @@
-{"index": 180328, "D": "a grass, Ammophila arenaria, having matted, creeping rhizomes, grown on sandy shores of Europe, North America, and Australia to bind the sand.", "S": [], "A": []}

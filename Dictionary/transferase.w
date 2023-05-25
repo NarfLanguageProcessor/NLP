@@ -1,1 +1,0 @@
-{"index": 327838, "D": "any of the class of enzymes, as the transaminases that catalyze the transfer  of an organic group from one compound to another.", "S": [], "A": []}

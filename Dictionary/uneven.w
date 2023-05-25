@@ -1,1 +1,1 @@
-{"index": 341569, "D": "not level or flat; rough; rugged", "S": ["bumpy ", "irregular ", "odd ", "patchy ", "rough ", "spotty ", "unbalanced ", "unequal ", "unsteady "], "A": ["balanced ", "even ", "level ", "matched ", "regular ", "similar ", "smooth ", "stable "]}
+{"index": 341569, "D": "not level or flat; rough; rugged", "S": ["bumpy", "irregular", "odd", "patchy", "rough", "spotty", "unbalanced", "unequal", "unsteady"], "A": ["balanced", "even", "level", "matched", "regular", "similar", "smooth", "stable"]}

@@ -1,1 +1,1 @@
-{"index": 28754, "D": "low in pitch; of the lowest pitch or range", "S": ["deep "], "A": []}
+{"index": 28754, "D": "low in pitch; of the lowest pitch or range", "S": ["deep"], "A": []}

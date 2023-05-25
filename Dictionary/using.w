@@ -1,1 +1,1 @@
-{"index": 355998, "D": "to employ for some purpose; put into service; make use of", "S": ["accepting ", "adopting ", "applying ", "employing ", "practicing ", "proving ", "testing ", "working "], "A": []}
+{"index": 355998, "D": "to employ for some purpose; put into service; make use of", "S": ["accepting", "adopting", "applying", "employing", "practicing", "proving", "testing", "working"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 32462, "D": "a simple past tense and past participle of beseech. ", "S": ["implore "], "A": ["answer ", "command ", "refuse ", "reply "]}
+{"index": 32462, "D": "a simple past tense and past participle of beseech. ", "S": ["implore"], "A": ["answer", "command", "refuse", "reply"]}

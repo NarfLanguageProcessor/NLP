@@ -1,1 +1,1 @@
-{"index": 95710, "D": "a person who puts an edge,  especially a finishing edge,  on a garment, surface, lens, etc.", "S": ["Weed Eater\u2122 ", "weed cutter "], "A": []}
+{"index": 95710, "D": "a person who puts an edge,  especially a finishing edge,  on a garment, surface, lens, etc.", "S": ["Weed Eater\u2122", "weed cutter"], "A": []}

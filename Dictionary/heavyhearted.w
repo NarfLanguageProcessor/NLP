@@ -1,1 +1,1 @@
-{"index": 135023, "D": "sorrowful; melancholy; dejected.", "S": ["dejected ", "depressed ", "despondent ", "doleful ", "melancholy ", "sad ", "unhappy "], "A": ["cheerful ", "lighthearted "]}
+{"index": 135023, "D": "sorrowful; melancholy; dejected.", "S": ["dejected", "depressed", "despondent", "doleful", "melancholy", "sad", "unhappy"], "A": ["cheerful", "lighthearted"]}

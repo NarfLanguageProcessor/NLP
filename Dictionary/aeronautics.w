@@ -1,1 +1,1 @@
-{"index": 5076, "D": "the science or art of flight.", "S": ["aviation "], "A": []}
+{"index": 5076, "D": "the science or art of flight.", "S": ["aviation"], "A": []}

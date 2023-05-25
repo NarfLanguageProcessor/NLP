@@ -1,1 +1,1 @@
-{"index": 57004, "D": "new tissue that forms over a wound and later contracts into a scar.", "S": ["blister ", "crater ", "defect ", "discoloration ", "disfigurement ", "flaw ", "scab ", "wound "], "A": ["perfection ", "strength "]}
+{"index": 57004, "D": "new tissue that forms over a wound and later contracts into a scar.", "S": ["blister", "crater", "defect", "discoloration", "disfigurement", "flaw", "scab", "wound"], "A": ["perfection", "strength"]}

@@ -1,1 +1,1 @@
-{"index": 56624, "D": "a close or intimate companion", "S": ["buddy ", "comrade ", "crony ", "playmate "], "A": ["enemy ", "foe ", "opponent ", "stranger "]}
+{"index": 56624, "D": "a close or intimate companion", "S": ["buddy", "comrade", "crony", "playmate"], "A": ["enemy", "foe", "opponent", "stranger"]}

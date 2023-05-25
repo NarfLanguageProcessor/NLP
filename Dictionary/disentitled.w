@@ -1,1 +1,1 @@
-{"index": 87998, "D": "to deprive of title or right.", "S": ["bar ", "exclude ", "invalidate ", "preclude ", "prohibit ", "rule out ", "suspend "], "A": ["add ", "allow ", "include ", "permit ", "aid ", "assist ", "help ", "mobilize "]}
+{"index": 87998, "D": "to deprive of title or right.", "S": ["bar", "exclude", "invalidate", "preclude", "prohibit", "rule out", "suspend"], "A": ["add", "allow", "include", "permit", "aid", "assist", "help", "mobilize"]}

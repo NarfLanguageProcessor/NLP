@@ -1,1 +1,1 @@
-{"index": 274787, "D": "rough,  disorderly playing, especially indoors.", "S": ["horseplay ", "rowdiness "], "A": []}
+{"index": 274787, "D": "rough,  disorderly playing, especially indoors.", "S": ["horseplay", "rowdiness"], "A": []}

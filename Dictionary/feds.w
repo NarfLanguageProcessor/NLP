@@ -1,1 +1,1 @@
-{"index": 110836, "D": "simple past tense and past participle of feed. ", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}
+{"index": 110836, "D": "simple past tense and past participle of feed. ", "S": ["board", "bureau", "cabinet", "committee", "department", "executive", "legislature", "management", "ministry", "presidency"], "A": []}

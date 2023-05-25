@@ -1,1 +1,1 @@
-{"index": 12333, "D": "one of a pair of metal stands, usually of iron or brass, for holding logs in a fireplace.", "S": ["dog ", "firedog "], "A": []}
+{"index": 12333, "D": "one of a pair of metal stands, usually of iron or brass, for holding logs in a fireplace.", "S": ["dog", "firedog"], "A": []}

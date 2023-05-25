@@ -1,1 +1,1 @@
-{"index": 43722, "D": "an isolated hill or mountain rising abruptly above the surrounding land.", "S": ["bluff ", "cliff ", "dune ", "highland ", "hillside ", "hilltop ", "ridge ", "slope "], "A": ["bottom ", "decline ", "depression ", "nadir "]}
+{"index": 43722, "D": "an isolated hill or mountain rising abruptly above the surrounding land.", "S": ["bluff", "cliff", "dune", "highland", "hillside", "hilltop", "ridge", "slope"], "A": ["bottom", "decline", "depression", "nadir"]}

@@ -1,1 +1,1 @@
-{"index": 43485, "D": "the quality or condition of being busy. ", "S": ["effort ", "industry ", "study "], "A": ["idleness ", "laziness ", "apathy ", "disregard ", "ignorance ", "indifference ", "lethargy ", "neglect ", "negligence "]}
+{"index": 43485, "D": "the quality or condition of being busy. ", "S": ["effort", "industry", "study"], "A": ["idleness", "laziness", "apathy", "disregard", "ignorance", "indifference", "lethargy", "neglect", "negligence"]}

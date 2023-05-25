@@ -1,1 +1,1 @@
-{"index": 205141, "D": "authoritatively ordered; obligatory; compulsory", "S": ["unrestricted "], "A": []}
+{"index": 205141, "D": "authoritatively ordered; obligatory; compulsory", "S": ["unrestricted"], "A": []}

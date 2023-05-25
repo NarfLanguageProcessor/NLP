@@ -1,1 +1,1 @@
-{"index": 358287, "D": "the statement naming the place and person before whom an affidavit was sworn.", "S": ["locale ", "place ", "setting ", "site "], "A": []}
+{"index": 358287, "D": "the statement naming the place and person before whom an affidavit was sworn.", "S": ["locale", "place", "setting", "site"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 273963, "D": "roulade (def. 2). ", "S": ["bratwurst "], "A": []}
+{"index": 273963, "D": "roulade (def. 2). ", "S": [], "A": []}

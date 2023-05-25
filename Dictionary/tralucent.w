@@ -1,1 +1,1 @@
-{"index": 327528, "D": [], "S": ["apparent "], "A": ["clouded ", "smudged ", "uncertain ", "unclear "]}
+{"index": 327528, "D": [], "S": ["apparent"], "A": ["clouded", "smudged", "uncertain", "unclear"]}

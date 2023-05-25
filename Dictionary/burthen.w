@@ -1,1 +1,1 @@
-{"index": 43346, "D": "an archaic variant of burden1. ", "S": ["albatross "], "A": []}
+{"index": 43346, "D": "an archaic variant of burden1. ", "S": ["albatross"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 368092, "D": "treated unfairly or unjustly", "S": ["disturbed ", "grieving ", "oppressed ", "persecuted "], "A": ["comforted "]}
+{"index": 368092, "D": "treated unfairly or unjustly", "S": ["disturbed", "grieving", "oppressed", "persecuted"], "A": ["comforted"]}

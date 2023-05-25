@@ -1,1 +1,1 @@
-{"index": 48519, "D": "a person or thing that carries.", "S": ["shipper "], "A": ["receiver "]}
+{"index": 48519, "D": "a person or thing that carries.", "S": ["shipper"], "A": ["receiver"]}

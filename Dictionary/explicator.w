@@ -1,1 +1,1 @@
-{"index": 107855, "D": "to make plain or clear; explain; interpret.", "S": ["artist ", "commentator ", "editor ", "exponent ", "linguist ", "philosopher ", "scholar ", "writer "], "A": []}
+{"index": 107855, "D": "to make plain or clear; explain; interpret.", "S": ["artist", "commentator", "editor", "exponent", "linguist", "philosopher", "scholar", "writer"], "A": []}

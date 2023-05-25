@@ -1,1 +1,1 @@
-{"index": 104786, "D": "a simple past tense of eat. ", "S": ["E.T. ", "Martian ", "alien ", "extraterrestrial ", "extraterrestrial visitor ", "little green man ", "man from Mars ", "visitor from another planet "], "A": []}
+{"index": 104786, "D": "a simple past tense of eat. ", "S": ["E.T.", "Martian", "alien", "extraterrestrial", "extraterrestrial visitor", "little green man", "man from Mars", "visitor from another planet"], "A": []}

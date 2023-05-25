@@ -1,1 +1,0 @@
-{"index": 302831, "D": "staphylococcus. ", "S": [], "A": []}

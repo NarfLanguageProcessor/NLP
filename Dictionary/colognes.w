@@ -1,1 +1,1 @@
-{"index": 63198, "D": "a mildly perfumed toilet water; eau de Cologne.", "S": ["fragrance ", "perfume ", "scent "], "A": ["odor ", "stench ", "stink "]}
+{"index": 63198, "D": "a mildly perfumed toilet water; eau de Cologne.", "S": ["fragrance", "perfume", "scent"], "A": ["odor", "stench", "stink"]}

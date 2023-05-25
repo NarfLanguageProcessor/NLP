@@ -1,1 +1,1 @@
-{"index": 279015, "D": "cooked or browned in a pan containing a small quantity of butter, oil, or other fat.", "S": ["frizz ", "frizzle ", "fry ", "griddle ", "pan ", "sear "], "A": []}
+{"index": 279015, "D": "cooked or browned in a pan containing a small quantity of butter, oil, or other fat.", "S": ["frizz", "frizzle", "fry", "griddle", "pan", "sear"], "A": []}

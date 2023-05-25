@@ -1,1 +1,1 @@
-{"index": 260173, "D": "inclining from the vertical or from the horizontal", "S": ["comb ", "scour ", "scrape "], "A": ["disperse ", "distribute ", "divide ", "plant ", "scatter "]}
+{"index": 260173, "D": "inclining from the vertical or from the horizontal", "S": ["comb", "scour", "scrape"], "A": ["disperse", "distribute", "divide", "plant", "scatter"]}

@@ -1,1 +1,1 @@
-{"index": 114655, "D": "composed of, containing, or resembling flint,  especially in hardness.", "S": ["steely ", "stony "], "A": []}
+{"index": 114655, "D": "composed of, containing, or resembling flint,  especially in hardness.", "S": ["steely", "stony"], "A": []}

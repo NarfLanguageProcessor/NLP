@@ -1,1 +1,1 @@
-{"index": 215891, "D": "being at leisure; idle; indolent. ", "S": ["apathy ", "inertia ", "lethargy ", "negligence ", "sloth ", "weariness "], "A": ["activity ", "life ", "liveliness ", "action "]}
+{"index": 215891, "D": "being at leisure; idle; indolent. ", "S": ["apathy", "inertia", "lethargy", "negligence", "sloth", "weariness"], "A": ["activity", "life", "liveliness", "action"]}

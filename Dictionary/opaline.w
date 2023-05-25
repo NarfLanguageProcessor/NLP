@@ -1,1 +1,1 @@
-{"index": 213188, "D": "of or like opal;  opalescent.", "S": ["lustrous ", "pearly ", "shimmering "], "A": []}
+{"index": 213188, "D": "of or like opal;  opalescent.", "S": ["lustrous", "pearly", "shimmering"], "A": []}

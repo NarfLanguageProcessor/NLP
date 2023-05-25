@@ -1,1 +1,1 @@
-{"index": 98038, "D": "the mapping of one set into another.", "S": ["bury ", "enclose ", "fix ", "ingrain ", "inlay ", "insert ", "install ", "lodge "], "A": ["ascend ", "rise "]}
+{"index": 98038, "D": "the mapping of one set into another.", "S": ["bury", "enclose", "fix", "ingrain", "inlay", "insert", "install", "lodge"], "A": ["ascend", "rise"]}

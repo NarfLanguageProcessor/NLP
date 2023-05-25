@@ -1,1 +1,0 @@
-{"index": 282330, "D": "having scutes.", "S": [], "A": []}

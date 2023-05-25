@@ -1,1 +1,1 @@
-{"index": 194468, "D": [], "S": ["MPB ", "alopecia ", "baldness ", "hair loss ", "male pattern hair loss "], "A": []}
+{"index": 194468, "D": [], "S": ["MPB", "alopecia", "baldness", "hair loss", "male pattern hair loss"], "A": []}

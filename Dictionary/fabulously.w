@@ -1,1 +1,1 @@
-{"index": 108924, "D": "exceptionally good or unusual; wonderful; superb", "S": ["especially ", "strangely ", "uncommonly "], "A": ["commonly ", "normally ", "usually "]}
+{"index": 108924, "D": "exceptionally good or unusual; wonderful; superb", "S": ["especially", "strangely", "uncommonly"], "A": ["commonly", "normally", "usually"]}

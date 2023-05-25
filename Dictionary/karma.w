@@ -1,1 +1,1 @@
-{"index": 163238, "D": "Compare bhakti (def. 1), jnana. ", "S": ["atmosphere ", "aura ", "fate ", "feeling ", "kismet ", "power ", "vibrations "], "A": []}
+{"index": 163238, "D": "Compare bhakti (def. 1), jnana. ", "S": ["atmosphere", "aura", "fate", "feeling", "kismet", "power", "vibrations"], "A": []}

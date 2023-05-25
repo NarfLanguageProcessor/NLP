@@ -1,1 +1,1 @@
-{"index": 122755, "D": "to bring together into one group, collection, or place", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}
+{"index": 122755, "D": "to bring together into one group, collection, or place", "S": ["accumulated", "collected", "concentrated", "huddled", "massed", "reunited"], "A": ["separated"]}

@@ -1,1 +1,0 @@
-{"index": 200344, "D": "a salt or ester of nitric acid,  or any compound containing the univalent group \u2013ONO2 or NO3.", "S": [], "A": []}

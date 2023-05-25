@@ -1,1 +1,1 @@
-{"index": 297373, "D": "that soothes", "S": ["delicately ", "indifferently ", "lightly ", "moderately ", "quietly "], "A": ["harshly ", "roughly ", "violently "]}
+{"index": 297373, "D": "that soothes", "S": ["delicately", "indifferently", "lightly", "moderately", "quietly"], "A": ["harshly", "roughly", "violently"]}

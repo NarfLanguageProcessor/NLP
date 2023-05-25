@@ -1,1 +1,1 @@
-{"index": 265598, "D": "a person who exercises the ruling power in a kingdom during the minority, absence, or disability of the sovereign.", "S": ["ruler "], "A": []}
+{"index": 265598, "D": "a person who exercises the ruling power in a kingdom during the minority, absence, or disability of the sovereign.", "S": ["ruler"], "A": []}

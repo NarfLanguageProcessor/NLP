@@ -1,1 +1,1 @@
-{"index": 321736, "D": "to take by theft; steal.", "S": ["filch ", "hook ", "loot ", "pilfer ", "rob ", "swipe "], "A": ["give ", "receive "]}
+{"index": 321736, "D": "to take by theft; steal.", "S": ["filch", "hook", "loot", "pilfer", "rob", "swipe"], "A": ["give", "receive"]}

@@ -1,1 +1,1 @@
-{"index": 237405, "D": "any fantastic notion, hope, or story", "S": ["contemplate ", "figure out ", "guess ", "hypothesize ", "read ", "reflect ", "ruminate ", "surmise ", "weigh ", "wonder "], "A": ["disregard ", "ignore ", "neglect ", "dismiss ", "forget ", "know "]}
+{"index": 237405, "D": "any fantastic notion, hope, or story", "S": ["contemplate", "figure out", "guess", "hypothesize", "read", "reflect", "ruminate", "surmise", "weigh", "wonder"], "A": ["disregard", "ignore", "neglect", "dismiss", "forget", "know"]}

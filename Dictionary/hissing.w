@@ -1,1 +1,1 @@
-{"index": 141705, "D": "the act of emitting a hiss. ", "S": ["calling ", "warbling "], "A": []}
+{"index": 141705, "D": "the act of emitting a hiss. ", "S": ["calling", "warbling"], "A": []}

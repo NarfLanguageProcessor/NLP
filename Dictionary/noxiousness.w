@@ -1,1 +1,1 @@
-{"index": 209234, "D": "harmful or injurious to health or physical well-being", "S": ["pollution "], "A": ["development ", "growth "]}
+{"index": 209234, "D": "harmful or injurious to health or physical well-being", "S": ["pollution"], "A": ["development", "growth"]}

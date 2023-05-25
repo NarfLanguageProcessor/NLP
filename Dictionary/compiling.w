@@ -1,1 +1,1 @@
-{"index": 64572, "D": "to put together (documents, selections, or other materials) in one book or work.", "S": ["assortment ", "collection "], "A": []}
+{"index": 64572, "D": "to put together (documents, selections, or other materials) in one book or work.", "S": ["assortment", "collection"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 174576, "D": "(in a theater) the front section of the lowest balcony, separated from the back section by an aisle or railing or both.", "S": ["baignoire ", "box ", "grandstand box "], "A": []}
+{"index": 174576, "D": "(in a theater) the front section of the lowest balcony, separated from the back section by an aisle or railing or both.", "S": ["baignoire", "box", "grandstand box"], "A": []}

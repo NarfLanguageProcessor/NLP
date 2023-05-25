@@ -1,1 +1,1 @@
-{"index": 127910, "D": "an expression of farewell used in parting at nighttime or when going to sleep.", "S": ["bon nuit ", "buenas noches "], "A": []}
+{"index": 127910, "D": "an expression of farewell used in parting at nighttime or when going to sleep.", "S": ["bon nuit", "buenas noches"], "A": []}

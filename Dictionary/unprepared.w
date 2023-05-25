@@ -1,1 +1,1 @@
-{"index": 348380, "D": "having made inadequate preparations", "S": ["unaware ", "vulnerable "], "A": []}
+{"index": 348380, "D": "having made inadequate preparations", "S": ["unaware", "vulnerable"], "A": []}

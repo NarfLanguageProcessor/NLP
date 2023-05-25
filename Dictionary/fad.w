@@ -1,1 +1,1 @@
-{"index": 109117, "D": "a temporary fashion, notion, manner of conduct, etc., especially one followed enthusiastically by a group.", "S": ["hobby ", "innovation ", "mania ", "passion ", "trend "], "A": ["tradition "]}
+{"index": 109117, "D": "a temporary fashion, notion, manner of conduct, etc., especially one followed enthusiastically by a group.", "S": ["hobby", "innovation", "mania", "passion", "trend"], "A": ["tradition"]}

@@ -1,1 +1,1 @@
-{"index": 78484, "D": "a class of such words having similar sets of inflected forms", "S": ["decadence ", "decadency ", "decay ", "declination ", "decline ", "degeneracy ", "degeneration ", "worsening "], "A": ["development ", "improvement ", "morality "]}
+{"index": 78484, "D": "a class of such words having similar sets of inflected forms", "S": ["decadence", "decadency", "decay", "declination", "decline", "degeneracy", "degeneration", "worsening"], "A": ["development", "improvement", "morality"]}

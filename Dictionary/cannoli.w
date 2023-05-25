@@ -1,1 +1,1 @@
-{"index": 46434, "D": "tubular pastry shells stuffed with a sweetened filling of whipped ricotta and often containing nuts, citron, or bits of chocolate.", "S": ["chou ", "cream horn ", "croquembouche ", "profiterole ", "puff "], "A": []}
+{"index": 46434, "D": "tubular pastry shells stuffed with a sweetened filling of whipped ricotta and often containing nuts, citron, or bits of chocolate.", "S": ["chou", "cream horn", "croquembouche", "profiterole", "puff"], "A": []}

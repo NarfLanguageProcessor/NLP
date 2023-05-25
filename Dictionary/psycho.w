@@ -1,1 +1,1 @@
-{"index": 255292, "D": "a psychopathic or psychotic person.", "S": ["crazy ", "loony ", "nuts ", "psychoneurotic ", "psychotic "], "A": []}
+{"index": 255292, "D": "a psychopathic or psychotic person.", "S": ["crazy", "loony", "nuts", "psychoneurotic", "psychotic"], "A": []}

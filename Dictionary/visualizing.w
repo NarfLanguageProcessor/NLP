@@ -1,1 +1,1 @@
-{"index": 360485, "D": "to recall or form mental images or pictures.", "S": ["anticipate ", "dream up ", "envision "], "A": ["disbelieve ", "disregard ", "ignore ", "neglect "]}
+{"index": 360485, "D": "to recall or form mental images or pictures.", "S": ["anticipate", "dream up", "envision"], "A": ["disbelieve", "disregard", "ignore", "neglect"]}

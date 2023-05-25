@@ -1,1 +1,1 @@
-{"index": 143447, "D": "doing or conferring honor. ", "S": ["appellation ", "appellative ", "brand ", "cognomen ", "denomination ", "designation ", "epithet ", "handle ", "label ", "moniker ", "pseudonym ", "sobriquet ", "style ", "tab ", "tag ", "term "], "A": []}
+{"index": 143447, "D": "doing or conferring honor. ", "S": ["appellation", "appellative", "brand", "cognomen", "denomination", "designation", "epithet", "handle", "label", "moniker", "pseudonym", "sobriquet", "style", "tab", "tag", "term"], "A": []}

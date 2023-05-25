@@ -1,1 +1,1 @@
-{"index": 60705, "D": "simple past tense and past participle of cling1. ", "S": ["held ", "hewed "], "A": []}
+{"index": 60705, "D": "simple past tense and past participle of cling1. ", "S": ["held", "hewed"], "A": []}

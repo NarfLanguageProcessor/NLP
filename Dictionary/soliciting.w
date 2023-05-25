@@ -1,1 +1,1 @@
-{"index": 296700, "D": "the act of requesting something, especially money", "S": ["approaching ", "asking ", "canvassing ", "inviting ", "petitioning ", "requesting ", "seeking "], "A": []}
+{"index": 296700, "D": "the act of requesting something, especially money", "S": ["approaching", "asking", "canvassing", "inviting", "petitioning", "requesting", "seeking"], "A": []}

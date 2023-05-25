@@ -1,1 +1,1 @@
-{"index": 320, "D": "temporarily inactive, stopped, or suspended.", "S": ["dormant ", "inactive ", "inoperative ", "quiescent ", "sleeping ", "suspended "], "A": []}
+{"index": 320, "D": "temporarily inactive, stopped, or suspended.", "S": ["dormant", "inactive", "inoperative", "quiescent", "sleeping", "suspended"], "A": []}

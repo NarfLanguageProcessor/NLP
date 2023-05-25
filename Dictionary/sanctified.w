@@ -1,1 +1,1 @@
-{"index": 277658, "D": "made holy; consecrated", "S": ["anointed ", "blessed ", "consecrated ", "divine ", "hallowed "], "A": []}
+{"index": 277658, "D": "made holy; consecrated", "S": ["anointed", "blessed", "consecrated", "divine", "hallowed"], "A": []}

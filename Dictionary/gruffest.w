@@ -1,1 +1,1 @@
-{"index": 130520, "D": "low and harsh; hoarse", "S": ["blunt ", "boisterous ", "brusque ", "crusty ", "dour ", "grumpy ", "nasty ", "offhand ", "surly "], "A": ["cheerful ", "happy ", "kind ", "nice ", "pleasant ", "polite ", "tactful "]}
+{"index": 130520, "D": "low and harsh; hoarse", "S": ["blunt", "boisterous", "brusque", "crusty", "dour", "grumpy", "nasty", "offhand", "surly"], "A": ["cheerful", "happy", "kind", "nice", "pleasant", "polite", "tactful"]}

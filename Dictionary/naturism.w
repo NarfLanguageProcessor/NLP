@@ -1,1 +1,1 @@
-{"index": 197365, "D": "another name for nudism", "S": ["Druidism ", "plant worship ", "primitive religion ", "tree worship "], "A": []}
+{"index": 197365, "D": "another name for nudism", "S": ["Druidism", "plant worship", "primitive religion", "tree worship"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 349083, "D": "to get to or get as far as in moving, going, traveling, etc.", "S": ["distant ", "elusive ", "faraway ", "impassable ", "impervious ", "insurmountable ", "unattainable ", "unavailable "], "A": ["close ", "near ", "open "]}
+{"index": 349083, "D": "to get to or get as far as in moving, going, traveling, etc.", "S": ["distant", "elusive", "faraway", "impassable", "impervious", "insurmountable", "unattainable", "unavailable"], "A": ["close", "near", "open"]}

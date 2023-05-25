@@ -1,1 +1,1 @@
-{"index": 130275, "D": "seedy; wretched; dirty.", "S": ["miserable ", "rotten ", "second-rate ", "shabby "], "A": ["good ", "nice ", "superior "]}
+{"index": 130275, "D": "seedy; wretched; dirty.", "S": ["miserable", "rotten", "second-rate", "shabby"], "A": ["good", "nice", "superior"]}

@@ -1,1 +1,1 @@
-{"index": 181740, "D": "taking a winding or indirect course", "S": ["roaming ", "traveling ", "wandering "], "A": []}
+{"index": 181740, "D": "taking a winding or indirect course", "S": ["roaming", "traveling", "wandering"], "A": []}

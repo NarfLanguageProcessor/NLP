@@ -1,1 +1,1 @@
-{"index": 72123, "D": "ill-tempered; grouchy; cross", "S": ["animosity ", "antagonism ", "belligerence ", "bitterness ", "ill feeling ", "ill will ", "rancor "], "A": ["good will ", "love ", "benevolence ", "kindness ", "liking ", "mildness ", "sympathy "]}
+{"index": 72123, "D": "ill-tempered; grouchy; cross", "S": ["animosity", "antagonism", "belligerence", "bitterness", "ill feeling", "ill will", "rancor"], "A": ["good will", "love", "benevolence", "kindness", "liking", "mildness", "sympathy"]}

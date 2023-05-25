@@ -1,1 +1,1 @@
-{"index": 28691, "D": "the bottom or base  of anything; the part on which something stands or rests.", "S": ["base ", "footing ", "ground ", "support "], "A": ["top "]}
+{"index": 28691, "D": "the bottom or base  of anything; the part on which something stands or rests.", "S": ["base", "footing", "ground", "support"], "A": ["top"]}

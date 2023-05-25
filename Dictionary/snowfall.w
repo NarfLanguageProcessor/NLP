@@ -1,1 +1,1 @@
-{"index": 295810, "D": "a fall  of snow. ", "S": ["gale ", "precipitation ", "squall "], "A": []}
+{"index": 295810, "D": "a fall  of snow. ", "S": ["gale", "precipitation", "squall"], "A": []}

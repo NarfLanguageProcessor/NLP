@@ -1,1 +1,1 @@
-{"index": 150667, "D": [], "S": ["damage ", "inconvenience ", "involvement ", "loan ", "mortgage ", "obligation ", "responsibility "], "A": ["advantage ", "benefit ", "profit ", "aid ", "assistance ", "blessing ", "certainty ", "help "]}
+{"index": 150667, "D": [], "S": ["damage", "inconvenience", "involvement", "loan", "mortgage", "obligation", "responsibility"], "A": ["advantage", "benefit", "profit", "aid", "assistance", "blessing", "certainty", "help"]}

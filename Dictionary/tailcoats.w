@@ -1,1 +1,0 @@
-{"index": 315343, "D": "a man's fitted coat, cut away over the hips and descending in a pair of tapering skirts behind, usually black and worn as part of full evening dress.", "S": [], "A": []}

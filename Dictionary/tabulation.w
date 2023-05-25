@@ -1,1 +1,1 @@
-{"index": 314941, "D": "to put or arrange in a tabular, systematic, or condensed form; formulate tabularly.", "S": ["summary "], "A": []}
+{"index": 314941, "D": "to put or arrange in a tabular, systematic, or condensed form; formulate tabularly.", "S": ["summary"], "A": []}

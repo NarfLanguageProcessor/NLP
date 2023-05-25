@@ -1,1 +1,1 @@
-{"index": 256676, "D": "to subject to pain, loss, confinement, death, etc., as a penalty for some offense, transgression, or fault", "S": ["chastened ", "dismissed ", "imprisoned ", "penalized "], "A": ["cleared ", "exonerated ", "released "]}
+{"index": 256676, "D": "to subject to pain, loss, confinement, death, etc., as a penalty for some offense, transgression, or fault", "S": ["chastened", "dismissed", "imprisoned", "penalized"], "A": ["cleared", "exonerated", "released"]}

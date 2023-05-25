@@ -1,1 +1,0 @@
-{"index": 192332, "D": "(of a fruit) developing from a single pistil.", "S": [], "A": []}

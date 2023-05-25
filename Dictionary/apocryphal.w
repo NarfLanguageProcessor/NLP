@@ -1,1 +1,1 @@
-{"index": 17147, "D": "of doubtful authorship or authenticity.", "S": ["fictitious ", "inaccurate ", "mythical ", "unsubstantiated ", "untrue "], "A": ["true "]}
+{"index": 17147, "D": "of doubtful authorship or authenticity.", "S": ["fictitious", "inaccurate", "mythical", "unsubstantiated", "untrue"], "A": ["true"]}

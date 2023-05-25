@@ -1,1 +1,1 @@
-{"index": 148084, "D": "to bestow unending fame upon; perpetuate.", "S": ["deification ", "elevation ", "idolization "], "A": []}
+{"index": 148084, "D": "to bestow unending fame upon; perpetuate.", "S": ["deification", "elevation", "idolization"], "A": []}

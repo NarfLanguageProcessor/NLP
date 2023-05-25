@@ -1,1 +1,1 @@
-{"index": 10287, "D": "to punish by imposing a fine not fixed by statute.", "S": ["fine ", "punish "], "A": ["award ", "reward "]}
+{"index": 10287, "D": "to punish by imposing a fine not fixed by statute.", "S": ["fine", "punish"], "A": ["award", "reward"]}

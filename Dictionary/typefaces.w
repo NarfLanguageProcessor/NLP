@@ -1,1 +1,1 @@
-{"index": 324173, "D": "face (defs. 21b, c). ", "S": ["font "], "A": []}
+{"index": 324173, "D": "face (defs. 21b, c). ", "S": ["font"], "A": []}

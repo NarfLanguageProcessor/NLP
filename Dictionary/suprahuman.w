@@ -1,1 +1,1 @@
-{"index": 313153, "D": [], "S": ["abstract ", "abstruse ", "esoteric ", "mystical ", "philosophical ", "spiritual ", "supernatural ", "theoretical "], "A": ["concrete ", "factual ", "obvious ", "physical ", "real "]}
+{"index": 313153, "D": [], "S": ["abstract", "abstruse", "esoteric", "mystical", "philosophical", "spiritual", "supernatural", "theoretical"], "A": ["concrete", "factual", "obvious", "physical", "real"]}

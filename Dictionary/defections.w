@@ -1,1 +1,1 @@
-{"index": 79155, "D": "desertion from allegiance, loyalty, duty, or the like; apostasy", "S": ["desertion ", "divorce ", "failure ", "rejection ", "revolt ", "withdrawal "], "A": ["enough ", "faithfulness ", "harmony ", "loyalty ", "plenty "]}
+{"index": 79155, "D": "desertion from allegiance, loyalty, duty, or the like; apostasy", "S": ["desertion", "divorce", "failure", "rejection", "revolt", "withdrawal"], "A": ["enough", "faithfulness", "harmony", "loyalty", "plenty"]}

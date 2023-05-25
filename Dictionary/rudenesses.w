@@ -1,1 +1,1 @@
-{"index": 275299, "D": "discourteous or impolite, especially in a deliberate way", "S": ["disrespect "], "A": ["carefulness ", "caution ", "courtesy ", "fear ", "humility ", "kindness ", "manners ", "meekness ", "modesty ", "politeness ", "respect ", "shyness ", "timidity "]}
+{"index": 275299, "D": "discourteous or impolite, especially in a deliberate way", "S": ["disrespect"], "A": ["carefulness", "caution", "courtesy", "fear", "humility", "kindness", "manners", "meekness", "modesty", "politeness", "respect", "shyness", "timidity"]}

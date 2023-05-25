@@ -1,1 +1,1 @@
-{"index": 305311, "D": "to bend the head and shoulders, or the body generally, forward and downward from an erect position", "S": ["arrogant ", "pretentious ", "snobbish "], "A": ["humble "]}
+{"index": 305311, "D": "to bend the head and shoulders, or the body generally, forward and downward from an erect position", "S": ["arrogant", "pretentious", "snobbish"], "A": ["humble"]}

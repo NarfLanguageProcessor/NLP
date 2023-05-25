@@ -1,1 +1,1 @@
-{"index": 107609, "D": "to look forward to; regard as likely to happen; anticipate the occurrence or the coming of", "S": ["normal "], "A": []}
+{"index": 107609, "D": "to look forward to; regard as likely to happen; anticipate the occurrence or the coming of", "S": ["normal"], "A": []}

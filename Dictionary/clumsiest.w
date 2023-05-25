@@ -1,1 +1,1 @@
-{"index": 60701, "D": "awkward in movement or action; without skill or grace", "S": ["bulky ", "heavy-handed ", "inept ", "ponderous ", "ungainly ", "unwieldy "], "A": ["adroit ", "agile ", "athletic ", "clever ", "coordinated ", "couth ", "dexterous ", "expert ", "graceful "]}
+{"index": 60701, "D": "awkward in movement or action; without skill or grace", "S": ["bulky", "heavy-handed", "inept", "ponderous", "ungainly", "unwieldy"], "A": ["adroit", "agile", "athletic", "clever", "coordinated", "couth", "dexterous", "expert", "graceful"]}

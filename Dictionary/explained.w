@@ -1,1 +1,1 @@
-{"index": 107806, "D": "to make plain or clear; render understandable or intelligible", "S": ["interpreted ", "related ", "told "], "A": []}
+{"index": 107806, "D": "to make plain or clear; render understandable or intelligible", "S": ["interpreted", "related", "told"], "A": []}

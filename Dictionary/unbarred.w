@@ -1,1 +1,1 @@
-{"index": 335618, "D": "not provided or fastened with a bar or bars", "S": ["accessible ", "clear ", "free ", "susceptible ", "wide "], "A": ["hindered ", "limited ", "restricted ", "concealed "]}
+{"index": 335618, "D": "not provided or fastened with a bar or bars", "S": ["accessible", "clear", "free", "susceptible", "wide"], "A": ["hindered", "limited", "restricted", "concealed"]}

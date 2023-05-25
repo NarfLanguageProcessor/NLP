@@ -1,1 +1,1 @@
-{"index": 144593, "D": "human resources. ", "S": ["forces ", "personnel ", "staff "], "A": []}
+{"index": 144593, "D": "human resources. ", "S": ["forces", "personnel", "staff"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 97443, "D": "See also white elephant (def. 3). ", "S": ["boar "], "A": []}
+{"index": 97443, "D": "See also white elephant (def. 3). ", "S": ["boar"], "A": []}

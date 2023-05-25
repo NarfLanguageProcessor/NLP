@@ -1,1 +1,1 @@
-{"index": 63115, "D": "a colloquial  expression.", "S": ["expression ", "informality "], "A": []}
+{"index": 63115, "D": "a colloquial  expression.", "S": ["expression", "informality"], "A": []}

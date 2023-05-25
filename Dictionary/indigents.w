@@ -1,1 +1,1 @@
-{"index": 150987, "D": "lacking food, clothing, and other necessities of life because of poverty; needy; poor; impoverished.", "S": ["supplicant "], "A": ["rich ", "wealthy "]}
+{"index": 150987, "D": "lacking food, clothing, and other necessities of life because of poverty; needy; poor; impoverished.", "S": ["supplicant"], "A": ["rich", "wealthy"]}

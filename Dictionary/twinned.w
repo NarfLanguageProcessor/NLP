@@ -1,1 +1,1 @@
-{"index": 333398, "D": "born two at one birth.", "S": ["combine ", "marry ", "mate "], "A": ["disconnect ", "disjoin ", "divide ", "separate "]}
+{"index": 333398, "D": "born two at one birth.", "S": ["combine", "marry", "mate"], "A": ["disconnect", "disjoin", "divide", "separate"]}

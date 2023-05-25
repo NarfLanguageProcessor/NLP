@@ -1,1 +1,1 @@
-{"index": 147908, "D": "without lapse of time; without delay; instantly;  at once", "S": ["directly ", "forthwith ", "instantly ", "promptly ", "rapidly ", "shortly ", "soon ", "urgently "], "A": ["later "]}
+{"index": 147908, "D": "without lapse of time; without delay; instantly;  at once", "S": ["directly", "forthwith", "instantly", "promptly", "rapidly", "shortly", "soon", "urgently"], "A": ["later"]}

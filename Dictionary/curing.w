@@ -1,1 +1,1 @@
-{"index": 75310, "D": "a means of healing or restoring to health; remedy.", "S": ["healing "], "A": []}
+{"index": 75310, "D": "a means of healing or restoring to health; remedy.", "S": ["healing"], "A": []}

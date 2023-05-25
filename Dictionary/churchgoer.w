@@ -1,1 +1,1 @@
-{"index": 56673, "D": "a person who goes  to church,  especially habitually.", "S": ["devotee "], "A": []}
+{"index": 56673, "D": "a person who goes  to church,  especially habitually.", "S": ["devotee"], "A": []}

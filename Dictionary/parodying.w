@@ -1,1 +1,1 @@
-{"index": 226693, "D": "a humorous or satirical imitation of a serious piece of literature or writing", "S": ["biting ", "caustic ", "incisive ", "mordant ", "sarcastic ", "sardonic ", "satiric "], "A": ["calm ", "kind ", "mild ", "nice "]}
+{"index": 226693, "D": "a humorous or satirical imitation of a serious piece of literature or writing", "S": ["biting", "caustic", "incisive", "mordant", "sarcastic", "sardonic", "satiric"], "A": ["calm", "kind", "mild", "nice"]}

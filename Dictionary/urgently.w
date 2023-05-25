@@ -1,1 +1,1 @@
-{"index": 355616, "D": "in a way that requires immediate action or attention", "S": ["crucially "], "A": []}
+{"index": 355616, "D": "in a way that requires immediate action or attention", "S": ["crucially"], "A": []}

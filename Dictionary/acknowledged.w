@@ -1,1 +1,1 @@
-{"index": 2559, "D": "widely recognized; generally accepted", "S": ["accepted ", "approved ", "confirmed ", "recognized ", "unquestioned "], "A": []}
+{"index": 2559, "D": "widely recognized; generally accepted", "S": ["accepted", "approved", "confirmed", "recognized", "unquestioned"], "A": []}

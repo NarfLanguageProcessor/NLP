@@ -1,1 +1,0 @@
-{"index": 346848, "D": "to deprive of courage, strength, determination, or confidence; upset", "S": ["weakened "], "A": []}

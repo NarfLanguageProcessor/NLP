@@ -1,1 +1,1 @@
-{"index": 244165, "D": "of, pertaining to, characteristic of, or consisting of post-graduates", "S": ["alum ", "graduate "], "A": ["undergraduate "]}
+{"index": 244165, "D": "of, pertaining to, characteristic of, or consisting of post-graduates", "S": ["alum", "graduate"], "A": ["undergraduate"]}

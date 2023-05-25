@@ -1,1 +1,1 @@
-{"index": 65787, "D": "candy or other confections  collectively.", "S": ["bakery "], "A": []}
+{"index": 65787, "D": "candy or other confections  collectively.", "S": ["bakery"], "A": []}

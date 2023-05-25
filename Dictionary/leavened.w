@@ -1,1 +1,1 @@
-{"index": 169752, "D": "a substance, as yeast or baking powder, that causes fermentation and expansion of dough or batter.", "S": ["lighten "], "A": []}
+{"index": 169752, "D": "a substance, as yeast or baking powder, that causes fermentation and expansion of dough or batter.", "S": ["lighten"], "A": []}

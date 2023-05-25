@@ -1,1 +1,1 @@
-{"index": 83058, "D": "not attached; separated", "S": ["equitably ", "justly ", "soberly ", "squarely "], "A": ["emotionally ", "subjectively "]}
+{"index": 83058, "D": "not attached; separated", "S": ["equitably", "justly", "soberly", "squarely"], "A": ["emotionally", "subjectively"]}

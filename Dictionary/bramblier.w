@@ -1,1 +1,1 @@
-{"index": 39823, "D": "having or resembling brambles. ", "S": ["complicated ", "knotty ", "nettlesome ", "ticklish ", "tricky "], "A": ["easy ", "simple ", "uncomplicated "]}
+{"index": 39823, "D": "having or resembling brambles. ", "S": ["complicated", "knotty", "nettlesome", "ticklish", "tricky"], "A": ["easy", "simple", "uncomplicated"]}

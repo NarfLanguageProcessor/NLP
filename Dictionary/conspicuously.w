@@ -1,1 +1,1 @@
-{"index": 66971, "D": "in a way that is obvious or easily seen, or that attracts notice, often intentionally", "S": ["clearly ", "evidently ", "officially ", "plainly "], "A": ["vaguely "]}
+{"index": 66971, "D": "in a way that is obvious or easily seen, or that attracts notice, often intentionally", "S": ["clearly", "evidently", "officially", "plainly"], "A": ["vaguely"]}

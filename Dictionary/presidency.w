@@ -1,1 +1,1 @@
-{"index": 249448, "D": "the office, function, or term of office of a president.", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry "], "A": []}
+{"index": 249448, "D": "the office, function, or term of office of a president.", "S": ["board", "bureau", "cabinet", "committee", "department", "executive", "legislature", "management", "ministry"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 252849, "D": "the owner of a business establishment, a hotel, etc.", "S": ["buying ", "claim ", "control ", "cut ", "deed ", "dominion ", "end ", "hand ", "holding ", "occupancy ", "partnership ", "piece ", "possession ", "property ", "purchase ", "purchasing ", "residence ", "slice ", "takeover ", "tenancy ", "tenure ", "title ", "use "], "A": ["whole "]}

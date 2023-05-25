@@ -1,1 +1,1 @@
-{"index": 115354, "D": "oatmeal or flour boiled with water until thick.", "S": ["bosh ", "bull ", "bunk ", "claptrap ", "crock ", "drivel ", "fudge ", "fustian ", "jargon ", "malarkey ", "moonshine ", "poppycock ", "rigmarole ", "rot ", "trash ", "tripe ", "twaddle "], "A": ["sense ", "truth "]}
+{"index": 115354, "D": "oatmeal or flour boiled with water until thick.", "S": ["bosh", "bull", "bunk", "claptrap", "crock", "drivel", "fudge", "fustian", "jargon", "malarkey", "moonshine", "poppycock", "rigmarole", "rot", "trash", "tripe", "twaddle"], "A": ["sense", "truth"]}

@@ -1,1 +1,1 @@
-{"index": 283049, "D": "diligent in application or attention; persevering; assiduous.", "S": ["active ", "busy ", "determined ", "diligent ", "hard-working ", "industrious ", "laborious ", "persevering ", "plugging ", "tireless "], "A": []}
+{"index": 283049, "D": "diligent in application or attention; persevering; assiduous.", "S": ["active", "busy", "determined", "diligent", "hard-working", "industrious", "laborious", "persevering", "plugging", "tireless"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 273601, "D": "to turn (someone) into a robot. ", "S": ["automation "], "A": []}
+{"index": 273601, "D": "to turn (someone) into a robot. ", "S": ["automation"], "A": []}

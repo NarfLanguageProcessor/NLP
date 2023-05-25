@@ -1,1 +1,0 @@
-{"index": 333347, "D": "either of two children or animals brought forth at a birth.", "S": ["dual "], "A": ["different ", "dissimilar ", "mismatched ", "separate ", "single ", "unequal ", "unlike "]}

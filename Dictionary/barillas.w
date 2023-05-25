@@ -1,0 +1,1 @@
+{"index": 28004, "D": "either of two European saltworts, Salsola kali or S. soda, whose ashes yield an impure carbonate of soda.", "S": [], "A": []}

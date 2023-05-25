@@ -1,1 +1,1 @@
-{"index": 66150, "D": "a person or thing of the same kind or class as another.", "S": ["analog ", "analogue ", "congenator ", "correspondent ", "counterpart ", "match ", "relative "], "A": []}
+{"index": 66150, "D": "a person or thing of the same kind or class as another.", "S": ["analog", "analogue", "congenator", "correspondent", "counterpart", "match", "relative"], "A": []}

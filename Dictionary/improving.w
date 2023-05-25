@@ -1,1 +1,1 @@
-{"index": 149195, "D": "to bring into a more desirable or excellent condition", "S": ["developing "], "A": []}
+{"index": 149195, "D": "to bring into a more desirable or excellent condition", "S": ["developing"], "A": []}

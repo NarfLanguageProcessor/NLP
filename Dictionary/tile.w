@@ -1,1 +1,1 @@
-{"index": 323553, "D": "a thin slab or bent piece of baked clay, sometimes painted or glazed, used for various purposes, as to form one of the units of a roof covering, floor, or revetment.", "S": ["brick ", "plate ", "shingle "], "A": []}
+{"index": 323553, "D": "a thin slab or bent piece of baked clay, sometimes painted or glazed, used for various purposes, as to form one of the units of a roof covering, floor, or revetment.", "S": ["brick", "plate", "shingle"], "A": []}

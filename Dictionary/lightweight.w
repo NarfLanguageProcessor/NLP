@@ -1,1 +1,1 @@
-{"index": 172082, "D": "light  in weight. ", "S": ["featherweight ", "incompetent ", "petty ", "slight ", "trifling "], "A": ["important ", "significant ", "useful "]}
+{"index": 172082, "D": "light  in weight. ", "S": ["featherweight", "incompetent", "petty", "slight", "trifling"], "A": ["important", "significant", "useful"]}

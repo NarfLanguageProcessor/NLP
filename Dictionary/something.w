@@ -1,1 +1,1 @@
-{"index": 297061, "D": "some thing; a certain undetermined or unspecified thing", "S": ["object ", "thing "], "A": ["nothing "]}
+{"index": 297061, "D": "some thing; a certain undetermined or unspecified thing", "S": ["object", "thing"], "A": ["nothing"]}

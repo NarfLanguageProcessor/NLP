@@ -1,1 +1,1 @@
-{"index": 276663, "D": "a box or case made of refractory baked clay in which the finer ceramic wares are enclosed and protected while baking.", "S": ["oversize "], "A": []}
+{"index": 276663, "D": "a box or case made of refractory baked clay in which the finer ceramic wares are enclosed and protected while baking.", "S": ["oversize"], "A": []}

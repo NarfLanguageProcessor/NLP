@@ -1,1 +1,1 @@
-{"index": 69362, "D": "a tall cereal plant, Zea mays, cultivated in many varieties, having a jointed, solid stem and bearing the grain, seeds, or kernels on large ears.", "S": ["platitude "], "A": ["coinage ", "nuance "]}
+{"index": 69362, "D": "a tall cereal plant, Zea mays, cultivated in many varieties, having a jointed, solid stem and bearing the grain, seeds, or kernels on large ears.", "S": ["platitude"], "A": ["coinage", "nuance"]}

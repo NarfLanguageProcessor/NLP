@@ -1,0 +1,1 @@
+{"index": 10852, "D": "a colorless, crystalline barbiturate, C11H18N2O3, used chiefly as a sedative.", "S": [], "A": []}

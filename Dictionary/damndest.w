@@ -1,1 +1,1 @@
-{"index": 76577, "D": "condemned or doomed, especially to eternal punishment", "S": ["darned ", "lousy "], "A": ["good ", "nice "]}
+{"index": 76577, "D": "condemned or doomed, especially to eternal punishment", "S": ["darned", "lousy"], "A": ["good", "nice"]}

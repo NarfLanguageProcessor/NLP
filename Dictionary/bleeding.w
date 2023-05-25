@@ -1,0 +1,1 @@
+{"index": 36000, "D": "the act, fact, or process of losing blood or having blood flow.", "S": ["benevolent", "charitable", "humane", "merciful", "sympathetic", "warm", "warmhearted"], "A": ["cold", "cool", "cruel", "inhumane", "malevolent", "mean", "merciless", "uncaring", "unfeeling", "unfriendly", "unkind", "unsympathetic", "intolerant"]}

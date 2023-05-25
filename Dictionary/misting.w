@@ -1,1 +1,1 @@
-{"index": 190304, "D": "the act or an instance of having an artificial suntan applied to the skin by a fine spray of liquid", "S": ["cloud ", "dew ", "drizzle ", "fog ", "moisture ", "rain ", "smog ", "steam "], "A": ["dryness "]}
+{"index": 190304, "D": "the act or an instance of having an artificial suntan applied to the skin by a fine spray of liquid", "S": ["cloud", "dew", "drizzle", "fog", "moisture", "rain", "smog", "steam"], "A": ["dryness"]}

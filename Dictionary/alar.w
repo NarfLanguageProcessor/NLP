@@ -1,1 +1,1 @@
-{"index": 7325, "D": "pertaining to or having wings; alary.", "S": ["feathered "], "A": ["lowly ", "slow "]}
+{"index": 7325, "D": "pertaining to or having wings; alary.", "S": ["feathered"], "A": ["lowly", "slow"]}

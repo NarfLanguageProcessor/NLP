@@ -1,1 +1,1 @@
-{"index": 36552, "D": "a spot or stain, especially of ink on paper.", "S": ["blemish ", "blotch ", "smudge ", "speck "], "A": ["advantage ", "benefit ", "blessing ", "cleanliness ", "honor ", "perfection ", "respect ", "strength "]}
+{"index": 36552, "D": "a spot or stain, especially of ink on paper.", "S": ["blemish", "blotch", "smudge", "speck"], "A": ["advantage", "benefit", "blessing", "cleanliness", "honor", "perfection", "respect", "strength"]}

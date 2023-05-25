@@ -1,1 +1,1 @@
-{"index": 13234, "D": "any longer.", "S": ["today "], "A": ["eventually ", "later "]}
+{"index": 13234, "D": "any longer.", "S": ["today"], "A": ["eventually", "later"]}

@@ -1,1 +1,1 @@
-{"index": 332384, "D": "a succession of musical sounds forming an air or melody, with or without the harmony accompanying it.", "S": ["composition ", "ditty ", "jingle ", "piece ", "theme "], "A": ["silence "]}
+{"index": 332384, "D": "a succession of musical sounds forming an air or melody, with or without the harmony accompanying it.", "S": ["composition", "ditty", "jingle", "piece", "theme"], "A": ["silence"]}

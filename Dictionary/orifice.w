@@ -1,1 +1,1 @@
-{"index": 214575, "D": "an opening or aperture, as of a tube or pipe; a mouthlike opening or hole; mouth; vent.", "S": ["aperture ", "cavity ", "crack ", "hole ", "mouth ", "outlet ", "slit ", "spout ", "vent ", "window "], "A": ["closure "]}
+{"index": 214575, "D": "an opening or aperture, as of a tube or pipe; a mouthlike opening or hole; mouth; vent.", "S": ["aperture", "cavity", "crack", "hole", "mouth", "outlet", "slit", "spout", "vent", "window"], "A": ["closure"]}

@@ -1,1 +1,1 @@
-{"index": 275905, "D": "a furrow or track in the ground, especially one made by the passage of a vehicle or vehicles.", "S": ["furrow ", "gouge ", "hollow ", "pothole ", "rabbet ", "score ", "track ", "trench ", "trough "], "A": ["break ", "closing ", "difference "]}
+{"index": 275905, "D": "a furrow or track in the ground, especially one made by the passage of a vehicle or vehicles.", "S": ["furrow", "gouge", "hollow", "pothole", "rabbet", "score", "track", "trench", "trough"], "A": ["break", "closing", "difference"]}

@@ -1,1 +1,1 @@
-{"index": 275897, "D": "to make a succession of slight, soft sounds, as of parts rubbing gently one on another, as leaves, silks, or papers.", "S": ["stirring ", "swishing ", "whispering "], "A": []}
+{"index": 275897, "D": "to make a succession of slight, soft sounds, as of parts rubbing gently one on another, as leaves, silks, or papers.", "S": ["stirring", "swishing", "whispering"], "A": []}

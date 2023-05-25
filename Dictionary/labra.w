@@ -1,1 +1,1 @@
-{"index": 166786, "D": "the plural of labrum", "S": ["rim "], "A": ["center ", "interior ", "middle "]}
+{"index": 166786, "D": "the plural of labrum", "S": ["rim"], "A": ["center", "interior", "middle"]}

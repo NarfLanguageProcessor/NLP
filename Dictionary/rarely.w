@@ -1,1 +1,1 @@
-{"index": 260824, "D": "on rare  occasions; infrequently; seldom", "S": ["barely ", "hardly ", "infrequently ", "seldom "], "A": ["frequently ", "regularly "]}
+{"index": 260824, "D": "on rare  occasions; infrequently; seldom", "S": ["barely", "hardly", "infrequently", "seldom"], "A": ["frequently", "regularly"]}

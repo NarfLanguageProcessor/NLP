@@ -1,1 +1,1 @@
-{"index": 77345, "D": "the first appearance of daylight in the morning", "S": ["dawning ", "daybreak ", "daylight ", "morning "], "A": ["darkness ", "sunset "]}
+{"index": 77345, "D": "the first appearance of daylight in the morning", "S": ["dawning", "daybreak", "daylight", "morning"], "A": ["darkness", "sunset"]}

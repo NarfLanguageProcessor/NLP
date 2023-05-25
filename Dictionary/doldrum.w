@@ -1,1 +1,1 @@
-{"index": 91065, "D": [], "S": ["gloom ", "malaise ", "slump ", "stagnation ", "stupor "], "A": ["concern ", "excitement ", "feeling ", "happiness ", "interest ", "liveliness ", "sympathy "]}
+{"index": 91065, "D": [], "S": ["gloom", "malaise", "slump", "stagnation", "stupor"], "A": ["concern", "excitement", "feeling", "happiness", "interest", "liveliness", "sympathy"]}

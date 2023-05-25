@@ -1,1 +1,1 @@
-{"index": 120050, "D": "to feel or grope about clumsily", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}
+{"index": 120050, "D": "to feel or grope about clumsily", "S": ["clumsily", "stiffly"], "A": ["adroitly", "gracefully", "skillfully"]}

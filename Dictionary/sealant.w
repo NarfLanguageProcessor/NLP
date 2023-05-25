@@ -1,1 +1,1 @@
-{"index": 282455, "D": "a substance used for sealing,  as sealing wax  or adhesives.", "S": ["adhesive ", "mud ", "plaster ", "sand "], "A": []}
+{"index": 282455, "D": "a substance used for sealing,  as sealing wax  or adhesives.", "S": ["adhesive", "mud", "plaster", "sand"], "A": []}

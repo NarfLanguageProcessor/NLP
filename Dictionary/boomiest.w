@@ -1,1 +1,1 @@
-{"index": 38165, "D": "excessively resonant", "S": ["booming ", "growing ", "profitable ", "prospering ", "prosperous ", "roaring ", "successful ", "thriving "], "A": []}
+{"index": 38165, "D": "excessively resonant", "S": ["booming", "growing", "profitable", "prospering", "prosperous", "roaring", "successful", "thriving"], "A": []}

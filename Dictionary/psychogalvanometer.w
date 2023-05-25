@@ -1,1 +1,0 @@
-{"index": 255341, "D": "a type of galvanometer  for detecting and measuring psychogalvanic currents.", "S": ["polygraph ", "polygraph machine ", "psychogalvanic skin response "], "A": []}

@@ -1,1 +1,1 @@
-{"index": 274569, "D": "a list of persons or groups, as of military personnel or units with their turns or periods of duty.", "S": ["agenda ", "inventory ", "record ", "schedule ", "table "], "A": []}
+{"index": 274569, "D": "a list of persons or groups, as of military personnel or units with their turns or periods of duty.", "S": ["agenda", "inventory", "record", "schedule", "table"], "A": []}

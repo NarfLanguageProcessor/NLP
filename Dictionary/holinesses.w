@@ -1,1 +1,1 @@
-{"index": 142452, "D": "the quality or state of being holy;  sanctity.", "S": ["humility ", "purity ", "righteousness ", "sanctity "], "A": ["agnosticism ", "atheism ", "sin ", "wickedness "]}
+{"index": 142452, "D": "the quality or state of being holy;  sanctity.", "S": ["humility", "purity", "righteousness", "sanctity"], "A": ["agnosticism", "atheism", "sin", "wickedness"]}

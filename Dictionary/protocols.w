@@ -1,1 +1,1 @@
-{"index": 253643, "D": [], "S": ["agreement ", "code ", "contract ", "covenant ", "custom ", "obligation ", "pact "], "A": ["disagreement ", "bad manners ", "impoliteness ", "rudeness "]}
+{"index": 253643, "D": [], "S": ["agreement", "code", "contract", "covenant", "custom", "obligation", "pact"], "A": ["disagreement", "bad manners", "impoliteness", "rudeness"]}

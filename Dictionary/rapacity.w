@@ -1,1 +1,1 @@
-{"index": 260682, "D": "the quality of being rapacious, or given to seizing things for plunder", "S": ["stealing ", "theft ", "thievery ", "thieving "], "A": ["generosity "]}
+{"index": 260682, "D": "the quality of being rapacious, or given to seizing things for plunder", "S": ["stealing", "theft", "thievery", "thieving"], "A": ["generosity"]}

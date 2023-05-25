@@ -1,1 +1,1 @@
-{"index": 156326, "D": "(in a communion service) the act of steeping the bread or wafer in the wine in order to enable the communicant to receive the two elements conjointly.", "S": ["complexion ", "shading "], "A": []}
+{"index": 156326, "D": "(in a communion service) the act of steeping the bread or wafer in the wine in order to enable the communicant to receive the two elements conjointly.", "S": ["complexion", "shading"], "A": []}

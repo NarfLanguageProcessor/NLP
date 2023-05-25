@@ -1,1 +1,1 @@
-{"index": 292994, "D": [], "S": ["distrust ", "hesitate ", "impugn ", "suspect "], "A": ["trust ", "agree ", "answer ", "believe ", "go along ", "remain ", "stay "]}
+{"index": 292994, "D": [], "S": ["distrust", "hesitate", "impugn", "suspect"], "A": ["trust", "agree", "answer", "believe", "go along", "remain", "stay"]}

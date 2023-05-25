@@ -1,1 +1,1 @@
-{"index": 79326, "D": "clearly defined  or determined; not vague or general; fixed; precise; exact", "S": ["certainty ", "efficiency ", "skill ", "truthfulness ", "veracity "], "A": ["inability "]}
+{"index": 79326, "D": "clearly defined  or determined; not vague or general; fixed; precise; exact", "S": ["certainty", "efficiency", "skill", "truthfulness", "veracity"], "A": ["inability"]}

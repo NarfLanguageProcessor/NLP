@@ -1,1 +1,1 @@
-{"index": 53458, "D": "a shout of encouragement, approval, congratulation, etc.", "S": ["comforting ", "heartening ", "hopeful ", "promising "], "A": ["hopeless ", "unpromising "]}
+{"index": 53458, "D": "a shout of encouragement, approval, congratulation, etc.", "S": ["comforting", "heartening", "hopeful", "promising"], "A": ["hopeless", "unpromising"]}

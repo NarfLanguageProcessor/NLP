@@ -1,1 +1,1 @@
-{"index": 323251, "D": "sensitive to tickling. ", "S": ["discomfort "], "A": ["advantage ", "contentment ", "peace "]}
+{"index": 323251, "D": "sensitive to tickling. ", "S": ["discomfort"], "A": ["advantage", "contentment", "peace"]}

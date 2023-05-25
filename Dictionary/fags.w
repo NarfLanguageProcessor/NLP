@@ -1,1 +1,1 @@
-{"index": 109227, "D": "a contemptuous term used to refer to a gay man.", "S": ["smoke ", "tobacco "], "A": []}
+{"index": 109227, "D": "a contemptuous term used to refer to a gay man.", "S": ["smoke", "tobacco"], "A": []}

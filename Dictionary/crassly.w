@@ -1,1 +1,1 @@
-{"index": 72233, "D": "without refinement, delicacy, or sensitivity; gross; obtuse; stupid", "S": ["bluntly ", "clearly "], "A": []}
+{"index": 72233, "D": "without refinement, delicacy, or sensitivity; gross; obtuse; stupid", "S": ["bluntly", "clearly"], "A": []}

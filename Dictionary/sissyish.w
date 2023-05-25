@@ -1,1 +1,1 @@
-{"index": 292502, "D": "an effeminate boy or man.", "S": ["epicene ", "feminine ", "sissified ", "unmanly ", "womanish ", "womanlike ", "womanly "], "A": []}
+{"index": 292502, "D": "an effeminate boy or man.", "S": ["epicene", "feminine", "sissified", "unmanly", "womanish", "womanlike", "womanly"], "A": []}

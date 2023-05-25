@@ -1,1 +1,1 @@
-{"index": 287596, "D": "taboo a past tense and past participle of shit taboo", "S": ["crap ", "poop "], "A": []}
+{"index": 287596, "D": "taboo a past tense and past participle of shit taboo", "S": ["crap", "poop"], "A": []}

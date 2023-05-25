@@ -1,1 +1,1 @@
-{"index": 220606, "D": "to praise excessively or unduly.", "S": ["exaggerate ", "magnify ", "overestimate ", "oversell ", "overvalue "], "A": ["play down "]}
+{"index": 220606, "D": "to praise excessively or unduly.", "S": ["exaggerate", "magnify", "overestimate", "oversell", "overvalue"], "A": ["play down"]}

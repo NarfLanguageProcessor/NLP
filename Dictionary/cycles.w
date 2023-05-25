@@ -1,1 +1,1 @@
-{"index": 57098, "D": "any complete round or series of occurrences that repeats or is repeated.", "S": ["circadian rhythm "], "A": []}
+{"index": 57098, "D": "any complete round or series of occurrences that repeats or is repeated.", "S": ["circadian rhythm"], "A": []}

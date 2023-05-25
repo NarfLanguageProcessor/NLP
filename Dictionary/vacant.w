@@ -1,1 +1,0 @@
-{"index": 356332, "D": "having no contents; empty; void", "S": ["bare ", "deserted ", "idle ", "unemployed ", "unfilled ", "uninhabited ", "unused "], "A": ["busy ", "employed ", "full ", "populated ", "used "]}

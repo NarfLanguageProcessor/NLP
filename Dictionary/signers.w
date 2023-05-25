@@ -1,1 +1,1 @@
-{"index": 290134, "D": "a person who signs. ", "S": ["endorser ", "signatory "], "A": []}
+{"index": 290134, "D": "a person who signs. ", "S": ["endorser", "signatory"], "A": []}

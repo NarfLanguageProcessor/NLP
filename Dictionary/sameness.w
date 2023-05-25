@@ -1,1 +1,1 @@
-{"index": 277529, "D": "the state or quality of being the same;  identity; uniformity.", "S": ["monotony ", "predictability ", "repetition ", "uniformity "], "A": ["difference ", "dissimilarity ", "imbalance ", "inequality "]}
+{"index": 277529, "D": "the state or quality of being the same;  identity; uniformity.", "S": ["monotony", "predictability", "repetition", "uniformity"], "A": ["difference", "dissimilarity", "imbalance", "inequality"]}

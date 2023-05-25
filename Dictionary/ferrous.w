@@ -1,1 +1,1 @@
-{"index": 111565, "D": "of or containing iron, especially in the bivalent state.", "S": ["rigid ", "steely "], "A": ["flexible ", "loose ", "moving ", "pliant ", "slight ", "soft ", "supple ", "yielding "]}
+{"index": 111565, "D": "of or containing iron, especially in the bivalent state.", "S": ["rigid", "steely"], "A": ["flexible", "loose", "moving", "pliant", "slight", "soft", "supple", "yielding"]}

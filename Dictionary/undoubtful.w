@@ -1,1 +1,1 @@
-{"index": 340784, "D": "of uncertain outcome or result.", "S": ["convinced ", "positive ", "sure "], "A": ["doubtful ", "uncertain ", "unsure "]}
+{"index": 340784, "D": "of uncertain outcome or result.", "S": ["convinced", "positive", "sure"], "A": ["doubtful", "uncertain", "unsure"]}

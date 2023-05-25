@@ -1,1 +1,1 @@
-{"index": 292574, "D": "the state of being a sister. ", "S": ["friendship ", "sodality ", "sorority ", "unity "], "A": ["brotherhood "]}
+{"index": 292574, "D": "the state of being a sister. ", "S": ["friendship", "sodality", "sorority", "unity"], "A": ["brotherhood"]}

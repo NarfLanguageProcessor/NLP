@@ -1,1 +1,1 @@
-{"index": 144650, "D": "excessive pride or self-confidence; arrogance.", "S": ["arrogant ", "brash ", "confident ", "overconfident ", "presumptuous ", "self-confident "], "A": ["cautious ", "humble ", "meek ", "unsure "]}
+{"index": 144650, "D": "excessive pride or self-confidence; arrogance.", "S": ["arrogant", "brash", "confident", "overconfident", "presumptuous", "self-confident"], "A": ["cautious", "humble", "meek", "unsure"]}

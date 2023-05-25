@@ -1,1 +1,1 @@
-{"index": 5798, "D": "a concluding section, commentary, etc., as of a book, treatise, or the like; closing statement.", "S": ["addendum ", "appendix ", "end matter ", "epilogue ", "index ", "supplement "], "A": ["front matter ", "preliminaries "]}
+{"index": 5798, "D": "a concluding section, commentary, etc., as of a book, treatise, or the like; closing statement.", "S": ["addendum", "appendix", "end matter", "epilogue", "index", "supplement"], "A": ["front matter", "preliminaries"]}

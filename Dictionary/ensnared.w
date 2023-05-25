@@ -1,1 +1,1 @@
-{"index": 101069, "D": "to capture in, or involve as in, a snare", "S": ["caged ", "enslaved ", "imprisoned ", "incommunicado "], "A": ["disillusioned ", "free ", "independent ", "loose ", "uninterested "]}
+{"index": 101069, "D": "to capture in, or involve as in, a snare", "S": ["caged", "enslaved", "imprisoned", "incommunicado"], "A": ["disillusioned", "free", "independent", "loose", "uninterested"]}

@@ -1,1 +1,1 @@
-{"index": 95549, "D": "occurring in an abnormal position or place; displaced.", "S": ["deranged ", "luxated ", "removed ", "uprooted "], "A": ["reinstated "]}
+{"index": 95549, "D": "occurring in an abnormal position or place; displaced.", "S": ["deranged", "luxated", "removed", "uprooted"], "A": ["reinstated"]}

@@ -1,1 +1,1 @@
-{"index": 25418, "D": "an aspect of the soul, represented as a human-headed bird.", "S": ["BS ", "Bachelor of Arts ", "Bachelor of Science ", "baccalaureate "], "A": []}
+{"index": 25418, "D": "an aspect of the soul, represented as a human-headed bird.", "S": ["BS", "Bachelor of Arts", "Bachelor of Science", "baccalaureate"], "A": []}

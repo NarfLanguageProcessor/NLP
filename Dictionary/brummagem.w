@@ -1,1 +1,1 @@
-{"index": 41754, "D": "showy but inferior and worthless.", "S": ["tinsel "], "A": []}
+{"index": 41754, "D": "showy but inferior and worthless.", "S": ["tinsel"], "A": []}

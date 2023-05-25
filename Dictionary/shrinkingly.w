@@ -1,1 +1,1 @@
-{"index": 289241, "D": "to draw back, as in retreat or avoidance", "S": ["nervously ", "timidly "], "A": []}
+{"index": 289241, "D": "to draw back, as in retreat or avoidance", "S": ["nervously", "timidly"], "A": []}

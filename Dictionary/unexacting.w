@@ -1,1 +1,1 @@
-{"index": 341603, "D": "rigid or severe in demands or requirements", "S": ["comfortable ", "effortless ", "peaceful ", "pleasant ", "quiet ", "secure ", "slow ", "smooth ", "soft ", "successful "], "A": ["clamorous ", "loud ", "noisy "]}
+{"index": 341603, "D": "rigid or severe in demands or requirements", "S": ["comfortable", "effortless", "peaceful", "pleasant", "quiet", "secure", "slow", "smooth", "soft", "successful"], "A": ["clamorous", "loud", "noisy"]}

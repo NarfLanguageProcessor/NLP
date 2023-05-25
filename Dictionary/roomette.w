@@ -1,1 +1,1 @@
-{"index": 274252, "D": "a small private compartment in the sleeping car of a train, usually for one person, containing its own washroom facilities and a bed that folds against the wall when not in use.", "S": ["Pullman car ", "sleeper ", "sleeper car ", "wagon-lit "], "A": []}
+{"index": 274252, "D": "a small private compartment in the sleeping car of a train, usually for one person, containing its own washroom facilities and a bed that folds against the wall when not in use.", "S": ["Pullman car", "sleeper", "sleeper car", "wagon-lit"], "A": []}

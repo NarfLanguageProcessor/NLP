@@ -1,1 +1,1 @@
-{"index": 248319, "D": "occurring, coming, or done too soon", "S": ["alacrity ", "urgency "], "A": ["calm ", "slowing ", "slowness "]}
+{"index": 248319, "D": "occurring, coming, or done too soon", "S": ["alacrity", "urgency"], "A": ["calm", "slowing", "slowness"]}

@@ -1,1 +1,0 @@
-{"index": 236847, "D": "petty; insignificant; trivial.", "S": [], "A": []}

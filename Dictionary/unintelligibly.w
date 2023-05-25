@@ -1,1 +1,1 @@
-{"index": 344701, "D": "not intelligible;  not capable of being understood.", "S": ["indistinctly ", "obscurely "], "A": []}
+{"index": 344701, "D": "not intelligible;  not capable of being understood.", "S": ["indistinctly", "obscurely"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 177605, "D": "to increase the apparent size of, as a lens does.", "S": ["expanded ", "extended ", "inflated ", "intensified ", "swollen "], "A": ["compressed ", "contracted ", "shrunken "]}
+{"index": 177605, "D": "to increase the apparent size of, as a lens does.", "S": ["expanded", "extended", "inflated", "intensified", "swollen"], "A": ["compressed", "contracted", "shrunken"]}

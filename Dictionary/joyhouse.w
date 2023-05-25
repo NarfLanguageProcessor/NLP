@@ -1,1 +1,1 @@
-{"index": 161592, "D": [], "S": ["bawdyhouse ", "bordello ", "brothel ", "cathouse ", "den of vice ", "house of ill fame ", "massage parlor ", "whorehouse "], "A": []}
+{"index": 161592, "D": [], "S": ["bawdyhouse", "bordello", "brothel", "cathouse", "den of vice", "house of ill fame", "massage parlor", "whorehouse"], "A": []}

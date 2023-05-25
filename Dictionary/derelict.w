@@ -1,1 +1,1 @@
-{"index": 82047, "D": "left or deserted, as by the owner or guardian; abandoned", "S": ["delinquent ", "slack "], "A": ["careful ", "caring ", "improved ", "populated "]}
+{"index": 82047, "D": "left or deserted, as by the owner or guardian; abandoned", "S": ["delinquent", "slack"], "A": ["careful", "caring", "improved", "populated"]}

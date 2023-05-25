@@ -1,1 +1,1 @@
-{"index": 300548, "D": "a small, thin, sharp piece of wood, bone, or the like, split or broken off from the main body.", "S": ["sliver "], "A": ["whole "]}
+{"index": 300548, "D": "a small, thin, sharp piece of wood, bone, or the like, split or broken off from the main body.", "S": ["sliver"], "A": ["whole"]}

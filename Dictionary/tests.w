@@ -1,1 +1,0 @@
-{"index": 319840, "D": "the means by which the presence, quality, or genuineness of anything is determined; a means of trial.", "S": ["analysis ", "approval ", "assessment ", "attempt ", "check ", "evaluation ", "experiment ", "final ", "inquiry ", "inspection ", "investigation ", "search ", "standard ", "trial "], "A": ["conclusion "]}

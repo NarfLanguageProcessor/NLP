@@ -1,1 +1,1 @@
-{"index": 162193, "D": "full of juice;  succulent", "S": ["luscious ", "succulent ", "syrupy "], "A": ["dry "]}
+{"index": 162193, "D": "full of juice;  succulent", "S": ["luscious", "succulent", "syrupy"], "A": ["dry"]}

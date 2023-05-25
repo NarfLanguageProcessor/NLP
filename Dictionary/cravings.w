@@ -1,1 +1,1 @@
-{"index": 72301, "D": "great or eager desire; yearning.", "S": ["appetite ", "hankering ", "hunger ", "itch ", "longing ", "lust ", "passion ", "thirst ", "yearning "], "A": ["disgust ", "dislike ", "hate ", "hatred ", "indifference "]}
+{"index": 72301, "D": "great or eager desire; yearning.", "S": ["appetite", "hankering", "hunger", "itch", "longing", "lust", "passion", "thirst", "yearning"], "A": ["disgust", "dislike", "hate", "hatred", "indifference"]}

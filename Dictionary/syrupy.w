@@ -1,1 +1,1 @@
-{"index": 292448, "D": "having the appearance or quality of syrup;  thick or sweet", "S": ["gooey ", "saccharine ", "sappy ", "sentimental ", "sugary "], "A": []}
+{"index": 292448, "D": "having the appearance or quality of syrup;  thick or sweet", "S": ["gooey", "saccharine", "sappy", "sentimental", "sugary"], "A": []}

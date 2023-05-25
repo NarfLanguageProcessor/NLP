@@ -1,1 +1,1 @@
-{"index": 98926, "D": "emergency medical service.", "S": ["rescue ", "transport "], "A": []}
+{"index": 98926, "D": "emergency medical service.", "S": ["rescue", "transport"], "A": []}

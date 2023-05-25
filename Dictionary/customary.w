@@ -1,1 +1,1 @@
-{"index": 75707, "D": "according to or depending on custom;  usual; habitual.", "S": ["accepted ", "traditional "], "A": ["abnormal ", "different ", "irregular ", "occasional ", "rare ", "sometime ", "unusual "]}
+{"index": 75707, "D": "according to or depending on custom;  usual; habitual.", "S": ["accepted", "traditional"], "A": ["abnormal", "different", "irregular", "occasional", "rare", "sometime", "unusual"]}

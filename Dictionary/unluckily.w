@@ -1,1 +1,0 @@
-{"index": 345832, "D": "(of a person) not lucky;  lacking good fortune; ill-fated.", "S": ["sadly "], "A": ["blithely ", "happily ", "luckily ", "merrily "]}

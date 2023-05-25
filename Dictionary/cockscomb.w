@@ -1,1 +1,1 @@
-{"index": 61566, "D": "the comb  or caruncle of a cock. ", "S": ["ridge "], "A": ["bottom ", "nadir "]}
+{"index": 61566, "D": "the comb  or caruncle of a cock. ", "S": ["ridge"], "A": ["bottom", "nadir"]}

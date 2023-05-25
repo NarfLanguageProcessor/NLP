@@ -1,1 +1,1 @@
-{"index": 258195, "D": "to shake tremulously; quiver or tremble", "S": ["falter ", "note ", "oscillate ", "quake ", "quiver ", "shake ", "shiver ", "shudder ", "tremble ", "tremor ", "trill ", "vacillate ", "vibrate ", "waver ", "wobble "], "A": ["calm ", "remain ", "stay ", "steady "]}
+{"index": 258195, "D": "to shake tremulously; quiver or tremble", "S": ["falter", "note", "oscillate", "quake", "quiver", "shake", "shiver", "shudder", "tremble", "tremor", "trill", "vacillate", "vibrate", "waver", "wobble"], "A": ["calm", "remain", "stay", "steady"]}

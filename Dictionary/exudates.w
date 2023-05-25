@@ -1,1 +1,1 @@
-{"index": 108798, "D": "a substance exuded; exudation. ", "S": ["address ", "diffusion ", "discharge ", "effluence ", "effluvium ", "efflux ", "emanation ", "emission ", "gush ", "ooze ", "outflow ", "shedding ", "stream ", "verbosity ", "wordiness "], "A": []}
+{"index": 108798, "D": "a substance exuded; exudation. ", "S": ["address", "diffusion", "discharge", "effluence", "effluvium", "efflux", "emanation", "emission", "gush", "ooze", "outflow", "shedding", "stream", "verbosity", "wordiness"], "A": []}

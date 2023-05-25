@@ -1,1 +1,1 @@
-{"index": 138697, "D": "of or relating to hydrographics", "S": ["aquatic ", "coastal ", "deep-sea ", "maritime ", "naval ", "saltwater ", "seagoing "], "A": []}
+{"index": 138697, "D": "of or relating to hydrographics", "S": ["aquatic", "coastal", "deep-sea", "maritime", "naval", "saltwater", "seagoing"], "A": []}

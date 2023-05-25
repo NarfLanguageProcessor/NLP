@@ -1,1 +1,1 @@
-{"index": 258931, "D": "fivefold; consisting of five parts.", "S": ["pentagonal ", "pentamerous ", "quinary ", "quinate ", "quinquennial "], "A": []}
+{"index": 258931, "D": "fivefold; consisting of five parts.", "S": ["pentagonal", "pentamerous", "quinary", "quinate", "quinquennial"], "A": []}

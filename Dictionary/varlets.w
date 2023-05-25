@@ -1,1 +1,1 @@
-{"index": 357304, "D": "a knavish person; rascal.", "S": ["knave ", "miscreant ", "rascal ", "rogue ", "scalawag ", "villain ", "wretch "], "A": []}
+{"index": 357304, "D": "a knavish person; rascal.", "S": ["knave", "miscreant", "rascal", "rogue", "scalawag", "villain", "wretch"], "A": []}

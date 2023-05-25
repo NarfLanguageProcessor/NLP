@@ -1,1 +1,1 @@
-{"index": 194263, "D": "feeling or expressing sorrow or grief; sorrowful; sad.", "S": ["anguished ", "forlorn ", "sad "], "A": ["cheerful ", "happy ", "joyful "]}
+{"index": 194263, "D": "feeling or expressing sorrow or grief; sorrowful; sad.", "S": ["anguished", "forlorn", "sad"], "A": ["cheerful", "happy", "joyful"]}

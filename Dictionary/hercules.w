@@ -1,1 +1,1 @@
-{"index": 136967, "D": "Compare labors of Hercules. ", "S": ["Gargantua ", "Samson ", "behemoth ", "cyclops ", "giant ", "goliath ", "leviathan ", "mammoth ", "titan "], "A": []}
+{"index": 136967, "D": "Compare labors of Hercules. ", "S": ["Gargantua", "Samson", "behemoth", "cyclops", "giant", "goliath", "leviathan", "mammoth", "titan"], "A": []}

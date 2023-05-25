@@ -1,1 +1,1 @@
-{"index": 37316, "D": "a hobgoblin; evil spirit.", "S": ["alarm ", "bogey ", "bogeyman ", "bugbear ", "fright ", "goblin ", "hobgoblin ", "ogre ", "scare ", "scarecrow ", "specter "], "A": ["calmness "]}
+{"index": 37316, "D": "a hobgoblin; evil spirit.", "S": ["alarm", "bogey", "bogeyman", "bugbear", "fright", "goblin", "hobgoblin", "ogre", "scare", "scarecrow", "specter"], "A": ["calmness"]}

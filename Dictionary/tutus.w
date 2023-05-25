@@ -1,1 +1,1 @@
-{"index": 333120, "D": "a short, full skirt, usually made of several layers of tarlatan or tulle, worn by ballerinas.", "S": ["dress ", "kilt ", "petticoat ", "sarong "], "A": ["center ", "inside ", "interior ", "middle "]}
+{"index": 333120, "D": "a short, full skirt, usually made of several layers of tarlatan or tulle, worn by ballerinas.", "S": ["dress", "kilt", "petticoat", "sarong"], "A": ["center", "inside", "interior", "middle"]}

@@ -1,1 +1,1 @@
-{"index": 353379, "D": "not trod;  not traversed", "S": ["impenetrable ", "insurmountable "], "A": ["open ", "passable ", "traveled "]}
+{"index": 353379, "D": "not trod;  not traversed", "S": ["impenetrable", "insurmountable"], "A": ["open", "passable", "traveled"]}

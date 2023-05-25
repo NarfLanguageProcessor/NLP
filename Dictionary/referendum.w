@@ -1,1 +1,1 @@
-{"index": 264998, "D": "Compare initiative (def. 4a). ", "S": ["election ", "poll ", "vote "], "A": []}
+{"index": 264998, "D": "Compare initiative (def. 4a). ", "S": ["election", "poll", "vote"], "A": []}

@@ -1,1 +1,0 @@
-{"index": 325844, "D": "(in India) a lightweight helmet or sun hat made from the pith of the sola plant.", "S": [], "A": []}

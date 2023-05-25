@@ -1,1 +1,1 @@
-{"index": 44982, "D": "a variant spelling of cauldron", "S": ["cauldron "], "A": []}
+{"index": 44982, "D": "a variant spelling of cauldron", "S": ["cauldron"], "A": []}

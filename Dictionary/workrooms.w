@@ -1,1 +1,1 @@
-{"index": 367536, "D": "a room  in which work  is carried on.", "S": ["branch ", "cooperative ", "firm ", "industry ", "laboratory ", "mill ", "shop ", "workshop "], "A": []}
+{"index": 367536, "D": "a room  in which work  is carried on.", "S": ["branch", "cooperative", "firm", "industry", "laboratory", "mill", "shop", "workshop"], "A": []}

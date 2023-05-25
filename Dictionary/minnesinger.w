@@ -1,1 +1,1 @@
-{"index": 187972, "D": "one of a class of German lyric poets and singers of the 12th, 13th, and 14th centuries.", "S": ["troubadour "], "A": []}
+{"index": 187972, "D": "one of a class of German lyric poets and singers of the 12th, 13th, and 14th centuries.", "S": ["troubadour"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 16161, "D": "pertaining to or affecting antisepsis. ", "S": ["hygienic ", "sterile "], "A": ["dirty "]}
+{"index": 16161, "D": "pertaining to or affecting antisepsis. ", "S": ["hygienic", "sterile"], "A": ["dirty"]}

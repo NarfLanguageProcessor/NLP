@@ -1,1 +1,1 @@
-{"index": 23659, "D": "to examine by auscultation. ", "S": ["attend ", "get ", "listen ", "overhear ", "pick up ", "read "], "A": ["ignore ", "lose ", "misunderstand "]}
+{"index": 23659, "D": "to examine by auscultation. ", "S": ["attend", "get", "listen", "overhear", "pick up", "read"], "A": ["ignore", "lose", "misunderstand"]}

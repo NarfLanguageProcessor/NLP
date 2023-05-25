@@ -1,1 +1,1 @@
-{"index": 271495, "D": "rolled backward or downward; rolled backward at the tip or margin, as a leaf.", "S": ["carouse ", "cut loose ", "debauch ", "insurge ", "insurrect ", "live hard ", "mutiny ", "riot ", "run amok "], "A": []}
+{"index": 271495, "D": "rolled backward or downward; rolled backward at the tip or margin, as a leaf.", "S": ["carouse", "cut loose", "debauch", "insurge", "insurrect", "live hard", "mutiny", "riot", "run amok"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 172188, "D": "to represent as similar or like; compare", "S": ["equate ", "relate "], "A": ["differ ", "disconnect ", "disproportion ", "imbalance ", "separate "]}
+{"index": 172188, "D": "to represent as similar or like; compare", "S": ["equate", "relate"], "A": ["differ", "disconnect", "disproportion", "imbalance", "separate"]}

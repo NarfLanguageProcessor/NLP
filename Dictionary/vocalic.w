@@ -1,1 +1,1 @@
-{"index": 360868, "D": "of, relating to, or resembling a vowel. ", "S": ["choral ", "lyric ", "oral ", "singing ", "sung ", "voiced ", "vowel "], "A": []}
+{"index": 360868, "D": "of, relating to, or resembling a vowel. ", "S": ["choral", "lyric", "oral", "singing", "sung", "voiced", "vowel"], "A": []}

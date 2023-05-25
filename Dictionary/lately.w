@@ -1,1 +1,1 @@
-{"index": 168822, "D": "of late;  recently; not long since", "S": ["latterly "], "A": ["in the past ", "old "]}
+{"index": 168822, "D": "of late;  recently; not long since", "S": ["latterly"], "A": ["in the past", "old"]}

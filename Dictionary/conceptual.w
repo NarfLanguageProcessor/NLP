@@ -1,1 +1,1 @@
-{"index": 65162, "D": "pertaining to concepts  or to the forming of concepts.", "S": ["theoretical ", "visionary "], "A": ["real "]}
+{"index": 65162, "D": "pertaining to concepts  or to the forming of concepts.", "S": ["theoretical", "visionary"], "A": ["real"]}

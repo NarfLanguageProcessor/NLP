@@ -1,1 +1,1 @@
-{"index": 134684, "D": "a center of operations, as of the police or a business, from which orders are issued; the chief administrative office of an organization", "S": ["command post ", "main office ", "nerve center "], "A": []}
+{"index": 134684, "D": "a center of operations, as of the police or a business, from which orders are issued; the chief administrative office of an organization", "S": ["command post", "main office", "nerve center"], "A": []}

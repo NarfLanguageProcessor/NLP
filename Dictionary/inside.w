@@ -1,1 +1,1 @@
-{"index": 153595, "D": "on the inner side  or part of; within", "S": ["indoors "], "A": ["exterior ", "external ", "known ", "outer ", "outside ", "public "]}
+{"index": 153595, "D": "on the inner side  or part of; within", "S": ["indoors"], "A": ["exterior", "external", "known", "outer", "outside", "public"]}

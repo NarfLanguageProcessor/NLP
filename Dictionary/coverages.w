@@ -1,1 +1,1 @@
-{"index": 71480, "D": "protection provided against risks or a risk, often as specified", "S": ["analysis ", "insurance ", "report "], "A": []}
+{"index": 71480, "D": "protection provided against risks or a risk, often as specified", "S": ["analysis", "insurance", "report"], "A": []}

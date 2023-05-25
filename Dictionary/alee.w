@@ -1,1 +1,1 @@
-{"index": 7837, "D": "upon or toward the lee side of a vessel; away from the wind (opposed to aweather).", "S": ["away ", "first ", "forward ", "onward ", "out "], "A": []}
+{"index": 7837, "D": "upon or toward the lee side of a vessel; away from the wind (opposed to aweather).", "S": ["away", "first", "forward", "onward", "out"], "A": []}

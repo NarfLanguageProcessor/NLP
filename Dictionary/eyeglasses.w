@@ -1,1 +1,1 @@
-{"index": 96387, "D": "mainly US another word for spectacles", "S": ["specs ", "sunglasses "], "A": []}
+{"index": 96387, "D": "mainly US another word for spectacles", "S": ["specs", "sunglasses"], "A": []}

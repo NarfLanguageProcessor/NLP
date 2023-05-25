@@ -1,1 +1,0 @@
-{"index": 299843, "D": "of, relating to, or belonging to a spine  or thornlike structure, especially to the backbone.", "S": [], "A": []}

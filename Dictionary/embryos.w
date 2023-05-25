@@ -1,1 +1,1 @@
-{"index": 98327, "D": "Compare fetus. ", "S": ["egg ", "nucleus ", "organism "], "A": []}
+{"index": 98327, "D": "Compare fetus. ", "S": ["egg", "nucleus", "organism"], "A": []}

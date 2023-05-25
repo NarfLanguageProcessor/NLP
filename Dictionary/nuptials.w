@@ -1,1 +1,1 @@
-{"index": 209691, "D": "a marriage ceremony; wedding", "S": ["bridal ", "espousal ", "marriage ", "matrimony ", "wedding "], "A": ["divorce "]}
+{"index": 209691, "D": "a marriage ceremony; wedding", "S": ["bridal", "espousal", "marriage", "matrimony", "wedding"], "A": ["divorce"]}

@@ -1,1 +1,1 @@
-{"index": 226596, "D": "a discussion or conference.", "S": ["confab ", "conference ", "consult ", "conversation ", "debate ", "discussion ", "huddle ", "palaver ", "talk "], "A": ["quiet ", "silence "]}
+{"index": 226596, "D": "a discussion or conference.", "S": ["confab", "conference", "consult", "conversation", "debate", "discussion", "huddle", "palaver", "talk"], "A": ["quiet", "silence"]}

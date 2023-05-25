@@ -1,1 +1,1 @@
-{"index": 49197, "D": "any violent upheaval, especially one of a social or political nature.", "S": ["calamity ", "catastrophe ", "convulsion ", "debacle ", "deluge ", "upheaval "], "A": ["blessing ", "boon ", "good fortune ", "good luck ", "happiness ", "miracle ", "wonder ", "success "]}
+{"index": 49197, "D": "any violent upheaval, especially one of a social or political nature.", "S": ["calamity", "catastrophe", "convulsion", "debacle", "deluge", "upheaval"], "A": ["blessing", "boon", "good fortune", "good luck", "happiness", "miracle", "wonder", "success"]}

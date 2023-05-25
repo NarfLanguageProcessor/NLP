@@ -1,1 +1,1 @@
-{"index": 226198, "D": "of or relating to a paratrooper  or a parachute unit", "S": ["Green Berets ", "commandos ", "elite troops ", "guerrilla troops ", "rangers ", "rapid deployment force ", "shock troops ", "storm troops "], "A": []}
+{"index": 226198, "D": "of or relating to a paratrooper  or a parachute unit", "S": ["Green Berets", "commandos", "elite troops", "guerrilla troops", "rangers", "rapid deployment force", "shock troops", "storm troops"], "A": []}

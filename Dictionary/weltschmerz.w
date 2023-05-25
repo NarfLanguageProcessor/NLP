@@ -1,1 +1,1 @@
-{"index": 364109, "D": "sorrow that one feels and accepts as one's necessary portion in life; sentimental pessimism.", "S": ["agony ", "apprehension ", "dread ", "misgiving ", "nervousness ", "uneasiness "], "A": ["calmness ", "confidence ", "happiness "]}
+{"index": 364109, "D": "sorrow that one feels and accepts as one's necessary portion in life; sentimental pessimism.", "S": ["agony", "apprehension", "dread", "misgiving", "nervousness", "uneasiness"], "A": ["calmness", "confidence", "happiness"]}

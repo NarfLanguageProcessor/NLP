@@ -1,1 +1,1 @@
-{"index": 340898, "D": "having a sinuous or wavelike shape or motion", "S": ["rolling "], "A": []}
+{"index": 340898, "D": "having a sinuous or wavelike shape or motion", "S": ["rolling"], "A": []}

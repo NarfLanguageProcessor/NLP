@@ -1,1 +1,1 @@
-{"index": 80, "D": "a large mollusk of the genus Haliotis, having a bowllike shell bearing a row of respiratory holes, the flesh of which is used for food and the shell for ornament and as a source of mother-of-pearl.", "S": ["mollusk "], "A": []}
+{"index": 80, "D": "a large mollusk of the genus Haliotis, having a bowllike shell bearing a row of respiratory holes, the flesh of which is used for food and the shell for ornament and as a source of mother-of-pearl.", "S": ["mollusk"], "A": []}

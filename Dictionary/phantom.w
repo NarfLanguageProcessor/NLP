@@ -1,1 +1,1 @@
-{"index": 232998, "D": "an apparition or specter.", "S": ["hallucination "], "A": ["actuality ", "being ", "brightness ", "certainty ", "fact ", "light ", "reality ", "truth "]}
+{"index": 232998, "D": "an apparition or specter.", "S": ["hallucination"], "A": ["actuality", "being", "brightness", "certainty", "fact", "light", "reality", "truth"]}

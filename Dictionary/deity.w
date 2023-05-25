@@ -1,1 +1,1 @@
-{"index": 79860, "D": "a god or goddess.", "S": ["divinity ", "idol ", "immortal "], "A": []}
+{"index": 79860, "D": "a god or goddess.", "S": ["divinity", "idol", "immortal"], "A": []}

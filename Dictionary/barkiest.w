@@ -1,0 +1,1 @@
+{"index": 28068, "D": "consisting of, containing, or covered with bark. ", "S": [], "A": []}

@@ -1,1 +1,1 @@
-{"index": 335237, "D": "to place in proper, desired, or convenient order; adjust properly", "S": ["untidy "], "A": []}
+{"index": 335237, "D": "to place in proper, desired, or convenient order; adjust properly", "S": ["untidy"], "A": []}

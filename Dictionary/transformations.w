@@ -1,1 +1,1 @@
-{"index": 327891, "D": "the act or process of transforming.", "S": ["conversion ", "metamorphosis ", "renewal ", "revolution ", "shift "], "A": ["stagnation "]}
+{"index": 327891, "D": "the act or process of transforming.", "S": ["conversion", "metamorphosis", "renewal", "revolution", "shift"], "A": ["stagnation"]}

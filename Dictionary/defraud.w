@@ -1,1 +1,1 @@
-{"index": 79491, "D": "to deprive of a right, money, or property by fraud", "S": ["circumvent ", "con ", "deceive ", "dupe ", "embezzle ", "fleece ", "rob ", "swindle ", "victimize "], "A": ["aid ", "assist ", "give ", "help ", "offer ", "fail ", "lose ", "receive ", "refuse "]}
+{"index": 79491, "D": "to deprive of a right, money, or property by fraud", "S": ["circumvent", "con", "deceive", "dupe", "embezzle", "fleece", "rob", "swindle", "victimize"], "A": ["aid", "assist", "give", "help", "offer", "fail", "lose", "receive", "refuse"]}

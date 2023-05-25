@@ -1,1 +1,1 @@
-{"index": 65527, "D": "pronounced guilty; sentenced to punishment, especially capital punishment", "S": ["convicted "], "A": []}
+{"index": 65527, "D": "pronounced guilty; sentenced to punishment, especially capital punishment", "S": ["convicted"], "A": []}

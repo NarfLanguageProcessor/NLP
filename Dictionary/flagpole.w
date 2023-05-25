@@ -1,1 +1,1 @@
-{"index": 113776, "D": "a staff or pole  on which a flag  is or can be displayed.", "S": ["beam ", "leg ", "mast ", "rod ", "stick "], "A": []}
+{"index": 113776, "D": "a staff or pole  on which a flag  is or can be displayed.", "S": ["beam", "leg", "mast", "rod", "stick"], "A": []}

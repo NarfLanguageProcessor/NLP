@@ -1,1 +1,1 @@
-{"index": 31977, "D": "the act or habit of scolding, rebuking, or harshly criticizing another", "S": ["carping "], "A": ["praising "]}
+{"index": 31977, "D": "the act or habit of scolding, rebuking, or harshly criticizing another", "S": ["carping"], "A": ["praising"]}

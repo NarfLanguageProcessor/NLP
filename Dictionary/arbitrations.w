@@ -1,1 +1,1 @@
-{"index": 18532, "D": "the hearing and determining of a dispute or the settling of differences between parties by a person or persons chosen or agreed to by them", "S": ["adjudication ", "compromise ", "mediation "], "A": ["disagreement ", "indecision "]}
+{"index": 18532, "D": "the hearing and determining of a dispute or the settling of differences between parties by a person or persons chosen or agreed to by them", "S": ["adjudication", "compromise", "mediation"], "A": ["disagreement", "indecision"]}

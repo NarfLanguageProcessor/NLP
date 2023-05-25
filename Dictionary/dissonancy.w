@@ -1,1 +1,1 @@
-{"index": 89647, "D": "dissonance. ", "S": ["dissension ", "friction "], "A": ["agreement ", "peace ", "accord "]}
+{"index": 89647, "D": "dissonance. ", "S": ["dissension", "friction"], "A": ["agreement", "peace", "accord"]}

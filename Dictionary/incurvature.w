@@ -1,1 +1,1 @@
-{"index": 150618, "D": "curved, especially inward.", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}
+{"index": 150618, "D": "curved, especially inward.", "S": ["arc", "arch", "contour", "loop", "trajectory"], "A": ["line"]}

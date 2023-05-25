@@ -1,1 +1,1 @@
-{"index": 189069, "D": "to assign or affix a wrong date  to.", "S": ["antecede ", "backdate ", "come first ", "go before ", "misdate ", "precede ", "predate "], "A": ["come after ", "follow ", "go after ", "postdate "]}
+{"index": 189069, "D": "to assign or affix a wrong date  to.", "S": ["antecede", "backdate", "come first", "go before", "misdate", "precede", "predate"], "A": ["come after", "follow", "go after", "postdate"]}

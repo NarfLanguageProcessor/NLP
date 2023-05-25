@@ -1,1 +1,1 @@
-{"index": 225272, "D": "the Roman Catholic Church.", "S": ["Catholicism ", "Catholicity ", "Church of Rome ", "Romanism ", "papistry ", "popery "], "A": []}
+{"index": 225272, "D": "the Roman Catholic Church.", "S": ["Catholicism", "Catholicity", "Church of Rome", "Romanism", "papistry", "popery"], "A": []}

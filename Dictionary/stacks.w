@@ -1,1 +1,1 @@
-{"index": 302237, "D": "a more or less orderly pile or heap", "S": ["abundance ", "bunch ", "collection ", "crowd ", "group ", "load ", "much ", "number ", "plenty ", "set "], "A": ["little ", "one "]}
+{"index": 302237, "D": "a more or less orderly pile or heap", "S": ["abundance", "bunch", "collection", "crowd", "group", "load", "much", "number", "plenty", "set"], "A": ["little", "one"]}

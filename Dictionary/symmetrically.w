@@ -1,1 +1,1 @@
-{"index": 290874, "D": "characterized by or exhibiting symmetry; well-proportioned, as a body or whole; regular in form or arrangement of corresponding parts.", "S": ["equitably ", "fairly ", "justly ", "uniformly "], "A": ["unfairly ", "unjustly "]}
+{"index": 290874, "D": "characterized by or exhibiting symmetry; well-proportioned, as a body or whole; regular in form or arrangement of corresponding parts.", "S": ["equitably", "fairly", "justly", "uniformly"], "A": ["unfairly", "unjustly"]}

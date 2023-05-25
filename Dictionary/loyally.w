@@ -1,1 +1,1 @@
-{"index": 174741, "D": "faithful to one's sovereign, government, or state", "S": ["conscientiously ", "earnestly ", "firmly ", "resolutely ", "sincerely ", "staunchly ", "steadfastly "], "A": []}
+{"index": 174741, "D": "faithful to one's sovereign, government, or state", "S": ["conscientiously", "earnestly", "firmly", "resolutely", "sincerely", "staunchly", "steadfastly"], "A": []}

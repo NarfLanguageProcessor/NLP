@@ -1,1 +1,1 @@
-{"index": 153786, "D": "an inspiring or animating action or influence", "S": ["encouragement ", "enthusiasm ", "genius ", "incentive ", "influence ", "insight ", "motivation ", "revelation ", "vision "], "A": ["discouragement ", "depression ", "hindrance ", "reality ", "truth "]}
+{"index": 153786, "D": "an inspiring or animating action or influence", "S": ["encouragement", "enthusiasm", "genius", "incentive", "influence", "insight", "motivation", "revelation", "vision"], "A": ["discouragement", "depression", "hindrance", "reality", "truth"]}

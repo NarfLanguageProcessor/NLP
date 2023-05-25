@@ -1,1 +1,1 @@
-{"index": 304962, "D": "a person who raises livestock.", "S": ["bronco "], "A": []}
+{"index": 304962, "D": "a person who raises livestock.", "S": ["bronco"], "A": []}

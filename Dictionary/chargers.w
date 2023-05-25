@@ -1,1 +1,1 @@
-{"index": 52813, "D": "a person or thing that charges. ", "S": ["disc ", "dish ", "disk ", "tray "], "A": []}
+{"index": 52813, "D": "a person or thing that charges. ", "S": ["disc", "dish", "disk", "tray"], "A": []}

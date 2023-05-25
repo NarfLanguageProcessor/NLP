@@ -1,1 +1,1 @@
-{"index": 84137, "D": "to diagnose.", "S": ["analyze ", "determine ", "investigate ", "pinpoint ", "pronounce ", "recognize "], "A": ["miss ", "overlook "]}
+{"index": 84137, "D": "to diagnose.", "S": ["analyze", "determine", "investigate", "pinpoint", "pronounce", "recognize"], "A": ["miss", "overlook"]}

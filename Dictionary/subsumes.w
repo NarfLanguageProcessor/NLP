@@ -1,1 +1,1 @@
-{"index": 309396, "D": "to consider or include (an idea, term, proposition, etc.) as part of a more comprehensive one.", "S": ["classify ", "contain ", "incorporate ", "involve "], "A": ["exclude "]}
+{"index": 309396, "D": "to consider or include (an idea, term, proposition, etc.) as part of a more comprehensive one.", "S": ["classify", "contain", "incorporate", "involve"], "A": ["exclude"]}

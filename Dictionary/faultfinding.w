@@ -1,1 +1,1 @@
-{"index": 110405, "D": "the act of pointing out faults,  especially faults  of a petty nature; carping.", "S": ["berating ", "carping "], "A": ["praising "]}
+{"index": 110405, "D": "the act of pointing out faults,  especially faults  of a petty nature; carping.", "S": ["berating", "carping"], "A": ["praising"]}

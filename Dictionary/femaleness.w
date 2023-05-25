@@ -1,1 +1,1 @@
-{"index": 111133, "D": "relating to or being a woman or girl.", "S": ["feminineness ", "girlishness ", "womanliness "], "A": []}
+{"index": 111133, "D": "relating to or being a woman or girl.", "S": ["feminineness", "girlishness", "womanliness"], "A": []}

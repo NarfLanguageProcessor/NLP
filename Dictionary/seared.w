@@ -1,1 +1,1 @@
-{"index": 282556, "D": "to burn or char the surface of", "S": ["arid ", "parched ", "scorched ", "sunbaked "], "A": ["damp ", "moist ", "wet "]}
+{"index": 282556, "D": "to burn or char the surface of", "S": ["arid", "parched", "scorched", "sunbaked"], "A": ["damp", "moist", "wet"]}

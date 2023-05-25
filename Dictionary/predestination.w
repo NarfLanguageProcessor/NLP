@@ -1,1 +1,0 @@
-{"index": 246847, "D": "an act of predestinating or predestining.", "S": ["fate ", "foreordination ", "fortune ", "inevitability ", "karma ", "kismet ", "ordinance ", "portion ", "predetermination "], "A": []}

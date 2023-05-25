@@ -1,1 +1,1 @@
-{"index": 253900, "D": "a major grouping or superphylum of the kingdom Protista, comprising the protozoans. ", "S": ["ameba ", "amoeba ", "cell ", "ciliate ", "euglena ", "flagellate ", "organism ", "paramecium ", "plasmodium ", "sporozoan ", "stentor "], "A": []}
+{"index": 253900, "D": "a major grouping or superphylum of the kingdom Protista, comprising the protozoans. ", "S": ["ameba", "amoeba", "cell", "ciliate", "euglena", "flagellate", "organism", "paramecium", "plasmodium", "sporozoan", "stentor"], "A": []}

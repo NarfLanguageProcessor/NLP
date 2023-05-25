@@ -1,1 +1,0 @@
-{"index": 206330, "D": "to establish the truth or genuineness of, as by evidence or argument", "S": [], "A": []}

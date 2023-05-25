@@ -1,1 +1,1 @@
-{"index": 1878, "D": "customary; usual; habitual", "S": ["addicted "], "A": ["abnormal ", "unaccustomed ", "unusual "]}
+{"index": 1878, "D": "customary; usual; habitual", "S": ["addicted"], "A": ["abnormal", "unaccustomed", "unusual"]}

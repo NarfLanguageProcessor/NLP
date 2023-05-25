@@ -1,1 +1,1 @@
-{"index": 60759, "D": "to fill or litter with things in a disorderly manner", "S": ["confusion "], "A": ["order ", "organization ", "singularity ", "system "]}
+{"index": 60759, "D": "to fill or litter with things in a disorderly manner", "S": ["confusion"], "A": ["order", "organization", "singularity", "system"]}

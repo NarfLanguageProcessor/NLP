@@ -1,1 +1,1 @@
-{"index": 99932, "D": "to approve, support, or sustain", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}
+{"index": 99932, "D": "to approve, support, or sustain", "S": ["affirmatory", "approving", "positive", "supporting"], "A": ["dissenting", "negative"]}

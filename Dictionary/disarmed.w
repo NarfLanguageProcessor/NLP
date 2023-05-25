@@ -1,1 +1,1 @@
-{"index": 87070, "D": "to deprive of a weapon or weapons.", "S": ["handicapped ", "infirm ", "paralyzed ", "weakened ", "wounded "], "A": ["healthy "]}
+{"index": 87070, "D": "to deprive of a weapon or weapons.", "S": ["handicapped", "infirm", "paralyzed", "weakened", "wounded"], "A": ["healthy"]}

@@ -1,1 +1,1 @@
-{"index": 251974, "D": "prohibitive. ", "S": ["antagonistic ", "confining ", "opposed ", "prohibitive "], "A": []}
+{"index": 251974, "D": "prohibitive. ", "S": ["antagonistic", "confining", "opposed", "prohibitive"], "A": []}

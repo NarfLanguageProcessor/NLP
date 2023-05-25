@@ -1,1 +1,1 @@
-{"index": 345574, "D": "legally responsible", "S": ["exempt ", "resistant ", "unaffected "], "A": ["hindered "]}
+{"index": 345574, "D": "legally responsible", "S": ["exempt", "resistant", "unaffected"], "A": ["hindered"]}

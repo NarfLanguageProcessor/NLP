@@ -1,1 +1,1 @@
-{"index": 302447, "D": "the vertical shaft or opening containing a stairway.", "S": ["staircase "], "A": []}
+{"index": 302447, "D": "the vertical shaft or opening containing a stairway.", "S": ["staircase"], "A": []}

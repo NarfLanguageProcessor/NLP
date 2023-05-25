@@ -1,0 +1,1 @@
+{"index": 8035, "D": "any of certain mesquites, especially Prosopis juliflora, having pinnate leaves and yellowish flowers.", "S": [], "A": []}

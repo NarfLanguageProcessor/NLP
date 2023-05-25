@@ -1,1 +1,1 @@
-{"index": 132493, "D": "the pilgrimage to Mecca, which every adult Muslim is supposed to make at least once in their lifetime", "S": ["adventurer ", "commuter ", "hiker ", "migrant ", "passenger ", "pilgrim ", "sailor ", "tourist "], "A": []}
+{"index": 132493, "D": "the pilgrimage to Mecca, which every adult Muslim is supposed to make at least once in their lifetime", "S": ["adventurer", "commuter", "hiker", "migrant", "passenger", "pilgrim", "sailor", "tourist"], "A": []}

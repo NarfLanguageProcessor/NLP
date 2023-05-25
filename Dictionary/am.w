@@ -1,1 +1,1 @@
-{"index": 9715, "D": "1st person singular present indicative of be. ", "S": ["Artium Magister ", "ma ", "master "], "A": []}
+{"index": 9715, "D": "1st person singular present indicative of be. ", "S": ["Artium Magister", "ma", "master"], "A": []}

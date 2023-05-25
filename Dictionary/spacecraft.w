@@ -1,1 +1,1 @@
-{"index": 298145, "D": "a vehicle designed for travel or operation in space  beyond the earth's atmosphere or in orbit around the earth.", "S": ["rocket ", "shuttle ", "space capsule ", "space probe "], "A": []}
+{"index": 298145, "D": "a vehicle designed for travel or operation in space  beyond the earth's atmosphere or in orbit around the earth.", "S": ["rocket", "shuttle", "space capsule", "space probe"], "A": []}

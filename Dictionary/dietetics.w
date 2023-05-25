@@ -1,1 +1,1 @@
-{"index": 85217, "D": "the scientific study and regulation of food intake and preparation", "S": ["nourishment "], "A": ["deprivation ", "starvation "]}
+{"index": 85217, "D": "the scientific study and regulation of food intake and preparation", "S": ["nourishment"], "A": ["deprivation", "starvation"]}

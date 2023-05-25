@@ -1,1 +1,1 @@
-{"index": 74210, "D": "rumpled; wrinkled; crushed.", "S": ["channelled ", "creased ", "crinkled ", "flexed ", "fluted ", "folded ", "furrowed ", "puckered ", "roughened ", "rumpled ", "wrinkled "], "A": ["flat ", "smooth "]}
+{"index": 74210, "D": "rumpled; wrinkled; crushed.", "S": ["channelled", "creased", "crinkled", "flexed", "fluted", "folded", "furrowed", "puckered", "roughened", "rumpled", "wrinkled"], "A": ["flat", "smooth"]}

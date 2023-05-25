@@ -1,1 +1,1 @@
-{"index": 260572, "D": "the extent to which or the limits between which variation is possible", "S": ["feeding ", "pasturing "], "A": []}
+{"index": 260572, "D": "the extent to which or the limits between which variation is possible", "S": ["feeding", "pasturing"], "A": []}

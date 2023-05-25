@@ -1,1 +1,1 @@
-{"index": 62198, "D": "a gear tooth, formerly especially one of hardwood or metal, fitted into a slot in a gearwheel of less durable material.", "S": ["prong "], "A": []}
+{"index": 62198, "D": "a gear tooth, formerly especially one of hardwood or metal, fitted into a slot in a gearwheel of less durable material.", "S": ["prong"], "A": []}

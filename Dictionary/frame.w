@@ -1,1 +1,1 @@
-{"index": 118288, "D": "a border or case for enclosing a picture, mirror, etc.", "S": ["body ", "cage ", "fabric ", "framework ", "physique ", "scaffolding ", "structure "], "A": ["center ", "disorganization ", "inside ", "interior ", "middle "]}
+{"index": 118288, "D": "a border or case for enclosing a picture, mirror, etc.", "S": ["body", "cage", "fabric", "framework", "physique", "scaffolding", "structure"], "A": ["center", "disorganization", "inside", "interior", "middle"]}

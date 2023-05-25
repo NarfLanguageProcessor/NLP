@@ -1,0 +1,1 @@
+{"index": 32010, "D": "(of a person) greatly saddened at being deprived by death of a loved one.", "S": ["beggared", "cut off", "deprived", "destitute", "devoid", "dispossessed", "divested", "fleeced", "impoverished", "left without", "minus", "naked", "parted from", "robbed", "shorn", "stripped", "wanting", "without"], "A": ["full", "happy"]}

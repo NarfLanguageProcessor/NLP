@@ -1,1 +1,1 @@
-{"index": 30763, "D": "as a representative of or a proxy for", "S": ["favor ", "side "], "A": ["blockage ", "disadvantage ", "disapproval ", "discouragement ", "handicap ", "harm ", "hindrance ", "hurt ", "impediment ", "injury ", "loss ", "obstruction ", "stop ", "stoppage "]}
+{"index": 30763, "D": "as a representative of or a proxy for", "S": ["favor", "side"], "A": ["blockage", "disadvantage", "disapproval", "discouragement", "handicap", "harm", "hindrance", "hurt", "impediment", "injury", "loss", "obstruction", "stop", "stoppage"]}

@@ -1,1 +1,1 @@
-{"index": 331659, "D": "to tie, bind, or fasten.", "S": ["bracket ", "prop ", "reinforcement ", "support ", "supporter ", "trussing "], "A": []}
+{"index": 331659, "D": "to tie, bind, or fasten.", "S": ["bracket", "prop", "reinforcement", "support", "supporter", "trussing"], "A": []}

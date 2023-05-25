@@ -1,1 +1,1 @@
-{"index": 172802, "D": "either of two officials who assist the referee by watching for icing, offside, and substitution violations and fouls and by conducting face-offs.", "S": ["juicer ", "lineman ", "wireman "], "A": []}
+{"index": 172802, "D": "either of two officials who assist the referee by watching for icing, offside, and substitution violations and fouls and by conducting face-offs.", "S": ["juicer", "lineman", "wireman"], "A": []}

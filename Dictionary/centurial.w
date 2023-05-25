@@ -1,1 +1,1 @@
-{"index": 51067, "D": "pertaining to a century.", "S": ["centenary ", "centennial "], "A": []}
+{"index": 51067, "D": "pertaining to a century.", "S": ["centenary", "centennial"], "A": []}

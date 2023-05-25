@@ -1,1 +1,1 @@
-{"index": 253197, "D": "of or in the future", "S": ["eventual ", "expected ", "proposed ", "soon-to-be "], "A": ["agreed ", "concurred "]}
+{"index": 253197, "D": "of or in the future", "S": ["eventual", "expected", "proposed", "soon-to-be"], "A": ["agreed", "concurred"]}

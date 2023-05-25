@@ -1,1 +1,1 @@
-{"index": 229541, "D": [], "S": ["calligraphy ", "longhand ", "manuscript ", "scrawl ", "script ", "writing "], "A": []}
+{"index": 229541, "D": [], "S": ["calligraphy", "longhand", "manuscript", "scrawl", "script", "writing"], "A": []}

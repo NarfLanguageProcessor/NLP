@@ -1,1 +1,1 @@
-{"index": 187066, "D": "a title of the emperor of Japan.", "S": ["emperor ", "monarch ", "sultan "], "A": []}
+{"index": 187066, "D": "a title of the emperor of Japan.", "S": ["emperor", "monarch", "sultan"], "A": []}

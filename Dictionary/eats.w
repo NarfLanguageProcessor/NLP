@@ -1,1 +1,1 @@
-{"index": 94971, "D": "articles of food; provisions", "S": ["grub "], "A": []}
+{"index": 94971, "D": "articles of food; provisions", "S": ["grub"], "A": []}

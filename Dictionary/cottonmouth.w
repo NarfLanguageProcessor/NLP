@@ -1,1 +1,1 @@
-{"index": 70447, "D": "a venomous snake, Agkistrodon (Ancistrodon) piscivorus, of swamps in southeastern U.S., that grows to about 4 feet (1.2 meters).", "S": ["arid ", "scorched ", "thirsty ", "withered "], "A": ["moist ", "wet "]}
+{"index": 70447, "D": "a venomous snake, Agkistrodon (Ancistrodon) piscivorus, of swamps in southeastern U.S., that grows to about 4 feet (1.2 meters).", "S": ["arid", "scorched", "thirsty", "withered"], "A": ["moist", "wet"]}

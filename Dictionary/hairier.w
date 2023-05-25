@@ -1,1 +1,1 @@
-{"index": 132414, "D": "covered with hair; having much hair.", "S": ["furry ", "fuzzy ", "shaggy ", "unshaven ", "woolly "], "A": ["smooth "]}
+{"index": 132414, "D": "covered with hair; having much hair.", "S": ["furry", "fuzzy", "shaggy", "unshaven", "woolly"], "A": ["smooth"]}

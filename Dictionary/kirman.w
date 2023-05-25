@@ -1,1 +1,1 @@
-{"index": 165083, "D": "a Persian rug marked by ornate flowing designs and light, muted colors.", "S": ["Heriz rug ", "Kashan rug ", "Persian rug ", "Tabriz ", "oriental rug "], "A": []}
+{"index": 165083, "D": "a Persian rug marked by ornate flowing designs and light, muted colors.", "S": ["Heriz rug", "Kashan rug", "Persian rug", "Tabriz", "oriental rug"], "A": []}

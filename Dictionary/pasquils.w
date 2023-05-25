@@ -1,1 +1,1 @@
-{"index": 227241, "D": "a pasquinade.", "S": ["burlesque ", "caricature ", "invective ", "pasquinade ", "pastiche ", "ridicule ", "roast ", "skit ", "squib ", "takedown ", "takeoff "], "A": ["flattery ", "praise "]}
+{"index": 227241, "D": "a pasquinade.", "S": ["burlesque", "caricature", "invective", "pasquinade", "pastiche", "ridicule", "roast", "skit", "squib", "takedown", "takeoff"], "A": ["flattery", "praise"]}

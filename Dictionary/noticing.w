@@ -1,1 +1,1 @@
-{"index": 208928, "D": "an announcement or intimation of something impending; warning", "S": ["heeding ", "observing ", "regarding ", "seeing "], "A": []}
+{"index": 208928, "D": "an announcement or intimation of something impending; warning", "S": ["heeding", "observing", "regarding", "seeing"], "A": []}

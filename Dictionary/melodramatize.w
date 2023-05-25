@@ -1,1 +1,1 @@
-{"index": 183026, "D": "to make melodramatic.", "S": ["amplify ", "exaggerate ", "overstate "], "A": ["reduce ", "abandon ", "fail ", "halt ", "ignore ", "neglect ", "prevent ", "refrain ", "refuse ", "stop ", "veto "]}
+{"index": 183026, "D": "to make melodramatic.", "S": ["amplify", "exaggerate", "overstate"], "A": ["reduce", "abandon", "fail", "halt", "ignore", "neglect", "prevent", "refrain", "refuse", "stop", "veto"]}

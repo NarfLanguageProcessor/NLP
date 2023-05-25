@@ -1,1 +1,1 @@
-{"index": 26867, "D": "to stop, as at an obstacle, and refuse to proceed or to do something specified (usually followed by at)", "S": ["flinch ", "hesitate ", "recoil ", "refuse ", "resist ", "turn down "], "A": ["OK ", "accept ", "face ", "meet "]}
+{"index": 26867, "D": "to stop, as at an obstacle, and refuse to proceed or to do something specified (usually followed by at)", "S": ["flinch", "hesitate", "recoil", "refuse", "resist", "turn down"], "A": ["OK", "accept", "face", "meet"]}

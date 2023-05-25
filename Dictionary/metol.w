@@ -1,1 +1,0 @@
-{"index": 185336, "D": "a brand name for a colorless, water-soluble salt, C14H20N2O6S, used chiefly as a photographic developer.", "S": [], "A": []}

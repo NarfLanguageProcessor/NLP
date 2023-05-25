@@ -1,1 +1,1 @@
-{"index": 310141, "D": "to kill by preventing the access of air to the blood through the lungs or analogous organs, as gills; strangle. ", "S": ["asphyxiate ", "drown ", "smother ", "stifle ", "strangle "], "A": ["free ", "let go ", "loose "]}
+{"index": 310141, "D": "to kill by preventing the access of air to the blood through the lungs or analogous organs, as gills; strangle. ", "S": ["asphyxiate", "drown", "smother", "stifle", "strangle"], "A": ["free", "let go", "loose"]}

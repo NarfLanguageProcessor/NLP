@@ -1,1 +1,1 @@
-{"index": 94299, "D": "a conversation between two persons; dialogue.", "S": ["communication ", "conference ", "conversation ", "dialog ", "discourse ", "discussion ", "exchange "], "A": ["quiet ", "silence "]}
+{"index": 94299, "D": "a conversation between two persons; dialogue.", "S": ["communication", "conference", "conversation", "dialog", "discourse", "discussion", "exchange"], "A": ["quiet", "silence"]}

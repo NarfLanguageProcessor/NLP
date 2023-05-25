@@ -1,1 +1,1 @@
-{"index": 90963, "D": "to make dogmatic  assertions; speak or write dogmatically. ", "S": ["miscalculate ", "misconstrue ", "misunderstand ", "overestimate ", "overrate ", "underestimate "], "A": ["get ", "perceive ", "understand ", "comprehend ", "disbelieve "]}
+{"index": 90963, "D": "to make dogmatic  assertions; speak or write dogmatically. ", "S": ["miscalculate", "misconstrue", "misunderstand", "overestimate", "overrate", "underestimate"], "A": ["get", "perceive", "understand", "comprehend", "disbelieve"]}

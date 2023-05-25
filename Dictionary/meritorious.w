@@ -1,1 +1,0 @@
-{"index": 183848, "D": "deserving praise, reward, esteem, etc.; praiseworthy", "S": ["exemplary ", "praiseworthy "], "A": ["corrupt ", "dishonorable ", "immoral ", "improper ", "unworthy ", "wrong "]}

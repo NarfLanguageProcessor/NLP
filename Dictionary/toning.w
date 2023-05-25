@@ -1,1 +1,1 @@
-{"index": 325594, "D": "any sound considered with reference to its quality, pitch, strength, source, etc.", "S": ["inflect "], "A": ["leave alone "]}
+{"index": 325594, "D": "any sound considered with reference to its quality, pitch, strength, source, etc.", "S": ["inflect"], "A": ["leave alone"]}

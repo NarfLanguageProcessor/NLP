@@ -1,1 +1,1 @@
-{"index": 93204, "D": "a person or thing that drives.", "S": ["chauffeur ", "jockey ", "motorist ", "operator ", "trainer "], "A": ["passenger "]}
+{"index": 93204, "D": "a person or thing that drives.", "S": ["chauffeur", "jockey", "motorist", "operator", "trainer"], "A": ["passenger"]}

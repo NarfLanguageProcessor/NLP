@@ -1,1 +1,1 @@
-{"index": 73553, "D": "needlework done with a needle having a small hook at one end for drawing the thread or yarn through intertwined loops.", "S": ["brocade ", "decoration ", "lace ", "needlepoint ", "quilting ", "tapestry "], "A": []}
+{"index": 73553, "D": "needlework done with a needle having a small hook at one end for drawing the thread or yarn through intertwined loops.", "S": ["brocade", "decoration", "lace", "needlepoint", "quilting", "tapestry"], "A": []}

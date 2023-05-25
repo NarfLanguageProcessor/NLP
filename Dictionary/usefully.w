@@ -1,1 +1,1 @@
-{"index": 355964, "D": "being of use  or service; serving some purpose; advantageous, helpful, or of good effect", "S": ["approvingly ", "cordially ", "enthusiastically ", "fairly ", "generously ", "positively "], "A": ["unfavorably ", "unfriendly "]}
+{"index": 355964, "D": "being of use  or service; serving some purpose; advantageous, helpful, or of good effect", "S": ["approvingly", "cordially", "enthusiastically", "fairly", "generously", "positively"], "A": ["unfavorably", "unfriendly"]}

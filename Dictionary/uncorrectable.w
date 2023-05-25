@@ -1,1 +1,1 @@
-{"index": 338010, "D": [], "S": ["hopeless ", "irremediable ", "irreparable ", "terminal ", "unfixable "], "A": []}
+{"index": 338010, "D": [], "S": ["hopeless", "irremediable", "irreparable", "terminal", "unfixable"], "A": []}

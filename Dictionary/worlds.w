@@ -1,1 +1,1 @@
-{"index": 367585, "D": "the earth or globe, considered as a planet.", "S": ["earth ", "nature "], "A": []}
+{"index": 367585, "D": "the earth or globe, considered as a planet.", "S": ["earth", "nature"], "A": []}

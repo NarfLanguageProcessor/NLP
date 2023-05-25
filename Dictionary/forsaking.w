@@ -1,1 +1,1 @@
-{"index": 117586, "D": "to quit or leave entirely; abandon; desert", "S": ["desertion ", "divorce ", "failure ", "rejection ", "revolt ", "withdrawal "], "A": ["enough ", "faithfulness ", "harmony ", "loyalty ", "plenty "]}
+{"index": 117586, "D": "to quit or leave entirely; abandon; desert", "S": ["desertion", "divorce", "failure", "rejection", "revolt", "withdrawal"], "A": ["enough", "faithfulness", "harmony", "loyalty", "plenty"]}

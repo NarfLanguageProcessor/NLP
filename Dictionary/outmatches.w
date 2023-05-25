@@ -1,1 +1,1 @@
-{"index": 217000, "D": "to be superior to; surpass; outdo", "S": ["outdistance ", "outrank ", "outshine ", "overstep "], "A": ["fail ", "fall behind ", "lose ", "surrender "]}
+{"index": 217000, "D": "to be superior to; surpass; outdo", "S": ["outdistance", "outrank", "outshine", "overstep"], "A": ["fail", "fall behind", "lose", "surrender"]}

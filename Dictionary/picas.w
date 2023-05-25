@@ -1,1 +1,1 @@
-{"index": 235811, "D": "a 12-point type of a size between small pica and English.", "S": ["anorexia nervosa ", "bingeing ", "bulimarexia ", "bulimia ", "compulsive eating ", "hypheragia ", "psychological disorder ", "purging "], "A": []}
+{"index": 235811, "D": "a 12-point type of a size between small pica and English.", "S": ["anorexia nervosa", "bingeing", "bulimarexia", "bulimia", "compulsive eating", "hypheragia", "psychological disorder", "purging"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 351, "D": "departing from the right, normal, or usual course.", "S": ["abnormal "], "A": ["normal ", "regular ", "usual "]}
+{"index": 351, "D": "departing from the right, normal, or usual course.", "S": ["abnormal"], "A": ["normal", "regular", "usual"]}

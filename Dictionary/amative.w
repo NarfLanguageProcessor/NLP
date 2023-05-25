@@ -1,1 +1,1 @@
-{"index": 9876, "D": "disposed to love; amorous.", "S": ["amatory ", "amorous ", "anacreontic ", "ardent ", "brotherly ", "doting ", "enamored ", "erotic ", "fervent ", "fervid ", "impassioned ", "indulgent ", "loving ", "overindulgent ", "sisterly ", "tender ", "warm "], "A": ["platonic "]}
+{"index": 9876, "D": "disposed to love; amorous.", "S": ["amatory", "amorous", "anacreontic", "ardent", "brotherly", "doting", "enamored", "erotic", "fervent", "fervid", "impassioned", "indulgent", "loving", "overindulgent", "sisterly", "tender", "warm"], "A": ["platonic"]}

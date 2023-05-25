@@ -1,1 +1,1 @@
-{"index": 269179, "D": "to be like or similar to.", "S": ["feature ", "mirror ", "parallel ", "simulate "], "A": ["contradict ", "contrast ", "deviate ", "differ ", "disagree "]}
+{"index": 269179, "D": "to be like or similar to.", "S": ["feature", "mirror", "parallel", "simulate"], "A": ["contradict", "contrast", "deviate", "differ", "disagree"]}

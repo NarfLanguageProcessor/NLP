@@ -1,1 +1,0 @@
-{"index": 203829, "D": "explanatory; interpretive.", "S": [], "A": []}

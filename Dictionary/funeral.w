@@ -1,1 +1,1 @@
-{"index": 120200, "D": "the ceremonies for a dead person prior to burial or cremation; obsequies.", "S": ["burial ", "cremation "], "A": ["baptism ", "christening "]}
+{"index": 120200, "D": "the ceremonies for a dead person prior to burial or cremation; obsequies.", "S": ["burial", "cremation"], "A": ["baptism", "christening"]}

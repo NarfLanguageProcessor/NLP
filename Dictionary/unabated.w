@@ -1,1 +1,1 @@
-{"index": 334317, "D": "with undiminished force, power, or vigor.", "S": ["incessant ", "nonstop ", "persistent ", "punishing ", "sustained ", "tenacious ", "unflagging ", "unrelenting ", "unremitting ", "unstoppable "], "A": ["intermittent ", "relenting ", "surrendering ", "yielding "]}
+{"index": 334317, "D": "with undiminished force, power, or vigor.", "S": ["incessant", "nonstop", "persistent", "punishing", "sustained", "tenacious", "unflagging", "unrelenting", "unremitting", "unstoppable"], "A": ["intermittent", "relenting", "surrendering", "yielding"]}

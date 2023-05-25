@@ -1,1 +1,1 @@
-{"index": 149859, "D": "to burn or reduce to ashes; cremate.", "S": ["consume ", "cremate ", "ignite ", "scorch ", "torch "], "A": ["extinguish ", "put out ", "quench ", "wet "]}
+{"index": 149859, "D": "to burn or reduce to ashes; cremate.", "S": ["consume", "cremate", "ignite", "scorch", "torch"], "A": ["extinguish", "put out", "quench", "wet"]}

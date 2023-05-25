@@ -1,1 +1,1 @@
-{"index": 194361, "D": "a piece  placed at or forming the mouth,  as of a receptacle or tube.", "S": ["agent ", "delegate ", "representative ", "speaker ", "spokesman ", "spokeswoman "], "A": []}
+{"index": 194361, "D": "a piece  placed at or forming the mouth,  as of a receptacle or tube.", "S": ["agent", "delegate", "representative", "speaker", "spokesman", "spokeswoman"], "A": []}

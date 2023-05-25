@@ -1,1 +1,1 @@
-{"index": 325645, "D": "tons of money; I have tons of shoes", "S": ["oodles "], "A": ["little "]}
+{"index": 325645, "D": "tons of money; I have tons of shoes", "S": ["oodles"], "A": ["little"]}

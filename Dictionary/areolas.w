@@ -1,1 +1,1 @@
-{"index": 19379, "D": "a ring of color, as around the human nipple.", "S": ["halo ", "stoma "], "A": []}
+{"index": 19379, "D": "a ring of color, as around the human nipple.", "S": ["halo", "stoma"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 259431, "D": "a person who believes in racism,  the doctrine that one's own racial group is superior or that a particular racial group is inferior to the others.", "S": ["fanatic "], "A": []}
+{"index": 259431, "D": "a person who believes in racism,  the doctrine that one's own racial group is superior or that a particular racial group is inferior to the others.", "S": ["fanatic"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 48505, "D": "a wheeled vehicle for conveying persons, as one drawn by horses and designed for comfort and elegance.", "S": ["freight "], "A": []}
+{"index": 48505, "D": "a wheeled vehicle for conveying persons, as one drawn by horses and designed for comfort and elegance.", "S": ["freight"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 55914, "D": "a cabbage-shaped decoration, as a rosette or knot on a woman's dress, hat, etc.", "S": ["cannoli ", "cream horn ", "croquembouche ", "profiterole ", "puff "], "A": []}
+{"index": 55914, "D": "a cabbage-shaped decoration, as a rosette or knot on a woman's dress, hat, etc.", "S": ["cannoli", "cream horn", "croquembouche", "profiterole", "puff"], "A": []}

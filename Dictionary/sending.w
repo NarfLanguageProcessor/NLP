@@ -1,1 +1,1 @@
-{"index": 285235, "D": "to cause, permit, or enable to go", "S": ["mailing "], "A": []}
+{"index": 285235, "D": "to cause, permit, or enable to go", "S": ["mailing"], "A": []}

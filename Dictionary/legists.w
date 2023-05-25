@@ -1,1 +1,1 @@
-{"index": 170139, "D": "an expert in law, especially ancient law.", "S": ["advocate ", "counselor "], "A": []}
+{"index": 170139, "D": "an expert in law, especially ancient law.", "S": ["advocate", "counselor"], "A": []}

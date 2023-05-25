@@ -1,1 +1,1 @@
-{"index": 68222, "D": "a book  containing recipes and instructions for cooking. ", "S": ["guide ", "guidebook ", "handbook ", "reference book ", "text ", "textbook ", "workbook "], "A": []}
+{"index": 68222, "D": "a book  containing recipes and instructions for cooking. ", "S": ["guide", "guidebook", "handbook", "reference book", "text", "textbook", "workbook"], "A": []}

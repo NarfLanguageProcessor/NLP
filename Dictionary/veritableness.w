@@ -1,1 +1,1 @@
-{"index": 358554, "D": "being truly or very much so", "S": ["accuracy ", "correctness ", "credibility ", "legitimacy ", "purity ", "reliability ", "trustworthiness ", "truthfulness ", "validity "], "A": ["inaccuracy "]}
+{"index": 358554, "D": "being truly or very much so", "S": ["accuracy", "correctness", "credibility", "legitimacy", "purity", "reliability", "trustworthiness", "truthfulness", "validity"], "A": ["inaccuracy"]}

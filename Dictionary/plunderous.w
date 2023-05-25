@@ -1,1 +1,1 @@
-{"index": 240513, "D": "to rob of goods or valuables by open force, as in war, hostile raids, brigandage, etc.", "S": ["crooked ", "rapacious "], "A": []}
+{"index": 240513, "D": "to rob of goods or valuables by open force, as in war, hostile raids, brigandage, etc.", "S": ["crooked", "rapacious"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 195748, "D": "a low, continuous sound, as of a brook, the wind, or trees, or of low, indistinct voices.", "S": ["buzz ", "hum ", "muttering ", "rumble ", "whisper "], "A": ["quiet "]}
+{"index": 195748, "D": "a low, continuous sound, as of a brook, the wind, or trees, or of low, indistinct voices.", "S": ["buzz", "hum", "muttering", "rumble", "whisper"], "A": ["quiet"]}

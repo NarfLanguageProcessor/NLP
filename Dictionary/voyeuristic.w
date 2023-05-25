@@ -1,1 +1,1 @@
-{"index": 361012, "D": "of, relating to, or characteristic of a voyeur  or of voyeurism. ", "S": ["curious ", "inquisitive ", "inquisitorial "], "A": []}
+{"index": 361012, "D": "of, relating to, or characteristic of a voyeur  or of voyeurism. ", "S": ["curious", "inquisitive", "inquisitorial"], "A": []}

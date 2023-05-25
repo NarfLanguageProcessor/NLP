@@ -1,1 +1,1 @@
-{"index": 50203, "D": "a hollow in the earth, especially one opening more or less horizontally into a hill, mountain, etc.", "S": ["cavern ", "grotto "], "A": []}
+{"index": 50203, "D": "a hollow in the earth, especially one opening more or less horizontally into a hill, mountain, etc.", "S": ["cavern", "grotto"], "A": []}

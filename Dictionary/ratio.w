@@ -1,1 +1,1 @@
-{"index": 261043, "D": "the relation between two similar magnitudes with respect to the number of times the first contains the second", "S": ["proportion ", "quota ", "rate ", "scale "], "A": ["difference "]}
+{"index": 261043, "D": "the relation between two similar magnitudes with respect to the number of times the first contains the second", "S": ["proportion", "quota", "rate", "scale"], "A": ["difference"]}

@@ -1,1 +1,1 @@
-{"index": 279402, "D": "noting armor having imbricated metal plates sewn to a flexible backing.", "S": ["extent ", "proportion ", "range ", "rate ", "ratio ", "scope ", "system "], "A": ["part ", "whole ", "disorder ", "disorganization "]}
+{"index": 279402, "D": "noting armor having imbricated metal plates sewn to a flexible backing.", "S": ["extent", "proportion", "range", "rate", "ratio", "scope", "system"], "A": ["part", "whole", "disorder", "disorganization"]}

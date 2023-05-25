@@ -1,1 +1,1 @@
-{"index": 162201, "D": "a method developed in Japan of defending oneself without the use of weapons by using the strength and weight of an adversary to disable him.", "S": ["judo ", "karate ", "wrestling "], "A": []}
+{"index": 162201, "D": "a method developed in Japan of defending oneself without the use of weapons by using the strength and weight of an adversary to disable him.", "S": ["judo", "karate", "wrestling"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 337888, "D": [], "S": ["breathlessly ", "eagerly ", "frantically ", "furiously ", "heatedly ", "madly ", "passionately ", "tensely ", "wildly "], "A": []}
+{"index": 337888, "D": [], "S": ["breathlessly", "eagerly", "frantically", "furiously", "heatedly", "madly", "passionately", "tensely", "wildly"], "A": []}

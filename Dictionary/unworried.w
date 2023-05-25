@@ -1,1 +1,1 @@
-{"index": 354370, "D": "not anxious or uneasy", "S": ["comfortable ", "effortless ", "peaceful ", "pleasant ", "quiet ", "secure ", "slow ", "smooth ", "soft ", "successful "], "A": ["clamorous ", "loud ", "noisy "]}
+{"index": 354370, "D": "not anxious or uneasy", "S": ["comfortable", "effortless", "peaceful", "pleasant", "quiet", "secure", "slow", "smooth", "soft", "successful"], "A": ["clamorous", "loud", "noisy"]}

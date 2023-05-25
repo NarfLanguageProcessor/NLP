@@ -1,1 +1,1 @@
-{"index": 155602, "D": "to penetrate  thoroughly; permeate.", "S": ["concentration "], "A": []}
+{"index": 155602, "D": "to penetrate  thoroughly; permeate.", "S": ["concentration"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 340890, "D": "undulating;  wavelike in motion or pattern", "S": ["hilly ", "undulating "], "A": []}
+{"index": 340890, "D": "undulating;  wavelike in motion or pattern", "S": ["hilly", "undulating"], "A": []}

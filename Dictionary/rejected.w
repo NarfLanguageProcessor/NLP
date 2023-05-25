@@ -1,1 +1,1 @@
-{"index": 266586, "D": "to refuse to have, take, recognize, etc.", "S": ["dropped ", "jilted "], "A": ["cherished "]}
+{"index": 266586, "D": "to refuse to have, take, recognize, etc.", "S": ["dropped", "jilted"], "A": ["cherished"]}

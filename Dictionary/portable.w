@@ -1,1 +1,1 @@
-{"index": 243572, "D": "capable of being transported or conveyed", "S": ["compact ", "convenient ", "handy ", "lightweight "], "A": ["awkward ", "big ", "inconvenient ", "unhandy "]}
+{"index": 243572, "D": "capable of being transported or conveyed", "S": ["compact", "convenient", "handy", "lightweight"], "A": ["awkward", "big", "inconvenient", "unhandy"]}

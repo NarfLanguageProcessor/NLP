@@ -1,1 +1,1 @@
-{"index": 106249, "D": "morally wrong or bad; immoral; wicked", "S": ["depravity ", "iniquity ", "turpitude "], "A": ["good ", "virtue "]}
+{"index": 106249, "D": "morally wrong or bad; immoral; wicked", "S": ["depravity", "iniquity", "turpitude"], "A": ["good", "virtue"]}

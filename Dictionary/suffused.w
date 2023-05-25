@@ -1,1 +1,1 @@
-{"index": 310185, "D": "to overspread with or as with a liquid, color, etc.", "S": ["emotional ", "fraught ", "intense "], "A": ["empty "]}
+{"index": 310185, "D": "to overspread with or as with a liquid, color, etc.", "S": ["emotional", "fraught", "intense"], "A": ["empty"]}

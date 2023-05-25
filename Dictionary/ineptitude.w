@@ -1,1 +1,1 @@
-{"index": 151540, "D": "quality or condition of being inept.", "S": ["awkwardness ", "inability ", "incompetence ", "ineptness "], "A": ["skill "]}
+{"index": 151540, "D": "quality or condition of being inept.", "S": ["awkwardness", "inability", "incompetence", "ineptness"], "A": ["skill"]}

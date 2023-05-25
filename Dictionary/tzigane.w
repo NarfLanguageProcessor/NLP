@@ -1,1 +1,1 @@
-{"index": 333540, "D": "of, consisting of, or pertaining to the Roma", "S": ["bohemian ", "nomad ", "roamer ", "sharper ", "vagrant "], "A": []}
+{"index": 333540, "D": "of, consisting of, or pertaining to the Roma", "S": ["bohemian", "nomad", "roamer", "sharper", "vagrant"], "A": []}

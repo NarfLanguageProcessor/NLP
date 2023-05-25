@@ -1,1 +1,1 @@
-{"index": 71890, "D": "framework for supporting a coved or vaulted ceiling.", "S": ["lull ", "nestle ", "nourish ", "nurse ", "rock ", "support ", "tend "], "A": ["abandon ", "ignore ", "neglect "]}
+{"index": 71890, "D": "framework for supporting a coved or vaulted ceiling.", "S": ["lull", "nestle", "nourish", "nurse", "rock", "support", "tend"], "A": ["abandon", "ignore", "neglect"]}

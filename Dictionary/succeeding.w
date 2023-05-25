@@ -1,1 +1,1 @@
-{"index": 309799, "D": "being that which follows; subsequent; ensuing", "S": ["consecutively ", "following ", "in order ", "in sequence ", "one after another ", "orderly ", "sequential ", "successively "], "A": ["out of turn "]}
+{"index": 309799, "D": "being that which follows; subsequent; ensuing", "S": ["consecutively", "following", "in order", "in sequence", "one after another", "orderly", "sequential", "successively"], "A": ["out of turn"]}

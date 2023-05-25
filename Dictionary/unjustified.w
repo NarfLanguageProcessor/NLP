@@ -1,1 +1,1 @@
-{"index": 345260, "D": "an entirely unjustified attack", "S": ["gratuitous ", "insulting ", "needless ", "unwarranted "], "A": ["needed ", "reasonable ", "warranted "]}
+{"index": 345260, "D": "an entirely unjustified attack", "S": ["gratuitous", "insulting", "needless", "unwarranted"], "A": ["needed", "reasonable", "warranted"]}

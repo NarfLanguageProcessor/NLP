@@ -1,1 +1,1 @@
-{"index": 151326, "D": "a person inducted  into military service.", "S": ["draftee "], "A": []}
+{"index": 151326, "D": "a person inducted  into military service.", "S": ["draftee"], "A": []}

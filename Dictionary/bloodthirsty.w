@@ -1,1 +1,1 @@
-{"index": 36497, "D": "eager to shed blood;  murderous", "S": ["homicidal ", "ruthless "], "A": []}
+{"index": 36497, "D": "eager to shed blood;  murderous", "S": ["homicidal", "ruthless"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 210502, "D": "a person who deliberately delays or prevents progress.", "S": ["activist ", "conscientious objector ", "demonstrator ", "dissenter ", "objector ", "protester ", "rebel ", "revolutionary ", "separatist "], "A": []}
+{"index": 210502, "D": "a person who deliberately delays or prevents progress.", "S": ["activist", "conscientious objector", "demonstrator", "dissenter", "objector", "protester", "rebel", "revolutionary", "separatist"], "A": []}

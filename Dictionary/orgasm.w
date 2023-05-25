@@ -1,1 +1,1 @@
-{"index": 214486, "D": "the physical and emotional sensation experienced at the peak of sexual excitation, usually resulting from stimulation of the sexual organ and usually accompanied in the male by ejaculation.", "S": ["ejaculation ", "frenzy ", "peak ", "spasm "], "A": []}
+{"index": 214486, "D": "the physical and emotional sensation experienced at the peak of sexual excitation, usually resulting from stimulation of the sexual organ and usually accompanied in the male by ejaculation.", "S": ["ejaculation", "frenzy", "peak", "spasm"], "A": []}

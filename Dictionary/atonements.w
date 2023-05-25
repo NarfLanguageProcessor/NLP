@@ -1,1 +1,1 @@
-{"index": 22782, "D": "satisfaction or reparation for a wrong or injury; amends.", "S": ["penance ", "redemption ", "reparation "], "A": ["dissatisfaction "]}
+{"index": 22782, "D": "satisfaction or reparation for a wrong or injury; amends.", "S": ["penance", "redemption", "reparation"], "A": ["dissatisfaction"]}

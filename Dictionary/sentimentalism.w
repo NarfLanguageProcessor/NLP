@@ -1,1 +1,1 @@
-{"index": 285489, "D": "sentimental  tendency or character; predominance of sentiment over reason.", "S": ["bathos ", "mawkishness ", "melodrama ", "mushiness ", "nostalgia ", "reminiscence ", "sentiment ", "triteness "], "A": []}
+{"index": 285489, "D": "sentimental  tendency or character; predominance of sentiment over reason.", "S": ["bathos", "mawkishness", "melodrama", "mushiness", "nostalgia", "reminiscence", "sentiment", "triteness"], "A": []}

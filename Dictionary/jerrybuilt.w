@@ -1,1 +1,1 @@
-{"index": 160963, "D": "to build cheaply and flimsily.", "S": ["cheap ", "defective ", "insubstantial ", "jerry-rigged ", "junky ", "makeshift ", "ramshackle ", "rickety ", "shoddy ", "slipshod ", "unsound ", "unsubstantial "], "A": []}
+{"index": 160963, "D": "to build cheaply and flimsily.", "S": ["cheap", "defective", "insubstantial", "jerry-rigged", "junky", "makeshift", "ramshackle", "rickety", "shoddy", "slipshod", "unsound", "unsubstantial"], "A": []}

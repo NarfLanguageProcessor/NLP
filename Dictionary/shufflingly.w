@@ -1,1 +1,0 @@
-{"index": 289349, "D": "moving in a dragging or clumsy manner.", "S": [], "A": []}

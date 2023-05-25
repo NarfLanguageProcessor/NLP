@@ -1,1 +1,1 @@
-{"index": 278461, "D": "characterized by bitter or scornful derision; mocking;  sneering; cynical; a sardonic grin.", "S": ["humor ", "paradox ", "satire ", "twist ", "wit "], "A": ["seriousness ", "approval ", "compliment ", "flattery ", "praise ", "respect "]}
+{"index": 278461, "D": "characterized by bitter or scornful derision; mocking;  sneering; cynical; a sardonic grin.", "S": ["humor", "paradox", "satire", "twist", "wit"], "A": ["seriousness", "approval", "compliment", "flattery", "praise", "respect"]}

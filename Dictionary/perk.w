@@ -1,1 +1,1 @@
-{"index": 231528, "D": "to become lively, cheerful, or vigorous, as after depression or sickness (usually followed by up)", "S": ["advantage ", "bonus ", "dividend ", "extra ", "fringe benefit ", "gratuity ", "perquisite "], "A": ["loss "]}
+{"index": 231528, "D": "to become lively, cheerful, or vigorous, as after depression or sickness (usually followed by up)", "S": ["advantage", "bonus", "dividend", "extra", "fringe benefit", "gratuity", "perquisite"], "A": ["loss"]}

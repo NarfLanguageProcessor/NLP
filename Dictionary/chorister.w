@@ -1,1 +1,1 @@
-{"index": 55844, "D": "a singer in a choir. ", "S": ["artist ", "crooner ", "diva ", "musician ", "soloist ", "vocalist ", "voice "], "A": []}
+{"index": 55844, "D": "a singer in a choir. ", "S": ["artist", "crooner", "diva", "musician", "soloist", "vocalist", "voice"], "A": []}

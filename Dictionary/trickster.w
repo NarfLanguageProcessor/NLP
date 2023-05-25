@@ -1,1 +1,1 @@
-{"index": 329571, "D": "a deceiver; cheat; fraud.", "S": ["con artist "], "A": []}
+{"index": 329571, "D": "a deceiver; cheat; fraud.", "S": ["con artist"], "A": []}

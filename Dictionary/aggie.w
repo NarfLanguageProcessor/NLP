@@ -1,0 +1,1 @@
+{"index": 6047, "D": "agate (def. 2). ", "S": ["agrarian", "horticultural", "rural"], "A": []}

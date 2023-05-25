@@ -1,1 +1,1 @@
-{"index": 205552, "D": "absence or lack of observance. ", "S": ["contravention ", "dereliction ", "disregard ", "infraction ", "infringement ", "neglect ", "noncompliance ", "offense ", "transgression ", "violation "], "A": ["obedience ", "observance ", "regard ", "respect "]}
+{"index": 205552, "D": "absence or lack of observance. ", "S": ["contravention", "dereliction", "disregard", "infraction", "infringement", "neglect", "noncompliance", "offense", "transgression", "violation"], "A": ["obedience", "observance", "regard", "respect"]}

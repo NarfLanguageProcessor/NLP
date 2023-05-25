@@ -1,1 +1,1 @@
-{"index": 290177, "D": "a specific set of manual signs used to communicate with deaf people", "S": ["lettering "], "A": []}
+{"index": 290177, "D": "a specific set of manual signs used to communicate with deaf people", "S": ["lettering"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 331721, "D": "telling the truth,  especially habitually", "S": ["accuracy ", "frankness ", "integrity ", "probity ", "sincerity ", "veracity "], "A": ["dishonesty ", "falsehood "]}
+{"index": 331721, "D": "telling the truth,  especially habitually", "S": ["accuracy", "frankness", "integrity", "probity", "sincerity", "veracity"], "A": ["dishonesty", "falsehood"]}

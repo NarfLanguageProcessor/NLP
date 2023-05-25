@@ -1,1 +1,1 @@
-{"index": 128345, "D": "to enjoy fine food and drink, especially often and in lavish quantity.", "S": ["binge ", "feast ", "gluttonize ", "gorge ", "overindulge ", "pig ", "scarf ", "surfeit "], "A": ["abstain ", "fast "]}
+{"index": 128345, "D": "to enjoy fine food and drink, especially often and in lavish quantity.", "S": ["binge", "feast", "gluttonize", "gorge", "overindulge", "pig", "scarf", "surfeit"], "A": ["abstain", "fast"]}

@@ -1,1 +1,1 @@
-{"index": 70706, "D": "a check  that opposes or restrains.", "S": ["abort ", "annul ", "repeal ", "rescind ", "revoke ", "rule out "], "A": ["approve ", "keep ", "validate ", "aid ", "allow ", "assist ", "emphasize ", "encourage ", "help ", "permit ", "ratify ", "sanction ", "support "]}
+{"index": 70706, "D": "a check  that opposes or restrains.", "S": ["abort", "annul", "repeal", "rescind", "revoke", "rule out"], "A": ["approve", "keep", "validate", "aid", "allow", "assist", "emphasize", "encourage", "help", "permit", "ratify", "sanction", "support"]}

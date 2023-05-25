@@ -1,1 +1,1 @@
-{"index": 85796, "D": "to make (a liquid) thinner or weaker by the addition of water or the like.", "S": ["adulterate ", "alter ", "decrease ", "diminish ", "lessen ", "mitigate ", "modify ", "reduce ", "temper ", "water down "], "A": ["aggravate ", "develop ", "strengthen "]}
+{"index": 85796, "D": "to make (a liquid) thinner or weaker by the addition of water or the like.", "S": ["adulterate", "alter", "decrease", "diminish", "lessen", "mitigate", "modify", "reduce", "temper", "water down"], "A": ["aggravate", "develop", "strengthen"]}

@@ -1,1 +1,1 @@
-{"index": 252950, "D": "(in Britain and other parliamentary jurisdictions) the act of proroguing,  or discontinuing, a session of Parliament or other legislature", "S": ["deferment ", "deferral ", "interruption ", "postponement ", "recess "], "A": ["continuation ", "persistence "]}
+{"index": 252950, "D": "(in Britain and other parliamentary jurisdictions) the act of proroguing,  or discontinuing, a session of Parliament or other legislature", "S": ["deferment", "deferral", "interruption", "postponement", "recess"], "A": ["continuation", "persistence"]}

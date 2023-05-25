@@ -1,1 +1,1 @@
-{"index": 110000, "D": "a farm  together with its buildings.", "S": ["acreage ", "estate ", "field ", "garden ", "grassland ", "homestead ", "lawn ", "meadow ", "nursery ", "orchard ", "pasture ", "plantation ", "ranch "], "A": []}
+{"index": 110000, "D": "a farm  together with its buildings.", "S": ["acreage", "estate", "field", "garden", "grassland", "homestead", "lawn", "meadow", "nursery", "orchard", "pasture", "plantation", "ranch"], "A": []}

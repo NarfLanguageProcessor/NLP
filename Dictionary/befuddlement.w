@@ -1,1 +1,1 @@
-{"index": 30557, "D": "to confuse, as with glib statements or arguments", "S": ["bafflement ", "bewilderment ", "confusion ", "discombobulation ", "fog ", "obfuscation ", "perplexity ", "puzzlement ", "stupefaction ", "stupor "], "A": []}
+{"index": 30557, "D": "to confuse, as with glib statements or arguments", "S": ["bafflement", "bewilderment", "confusion", "discombobulation", "fog", "obfuscation", "perplexity", "puzzlement", "stupefaction", "stupor"], "A": []}

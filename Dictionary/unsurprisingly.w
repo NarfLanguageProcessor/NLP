@@ -1,1 +1,1 @@
-{"index": 352508, "D": "in a way that causes a feeling of wonder or astonishment", "S": ["placidly ", "serenely ", "tranquilly "], "A": ["shockingly ", "surprisingly ", "nervously "]}
+{"index": 352508, "D": "in a way that causes a feeling of wonder or astonishment", "S": ["placidly", "serenely", "tranquilly"], "A": ["shockingly", "surprisingly", "nervously"]}

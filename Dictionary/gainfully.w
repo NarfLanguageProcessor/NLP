@@ -1,1 +1,1 @@
-{"index": 121022, "D": "profitable; lucrative", "S": ["at a profit ", "making money ", "profitable ", "profitably ", "realizing net profit "], "A": ["in the red "]}
+{"index": 121022, "D": "profitable; lucrative", "S": ["at a profit", "making money", "profitable", "profitably", "realizing net profit"], "A": ["in the red"]}

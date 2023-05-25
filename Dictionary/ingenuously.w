@@ -1,1 +1,1 @@
-{"index": 152482, "D": "free from reserve, restraint, or dissimulation; candid; sincere. ", "S": ["foolishly ", "stupidly "], "A": []}
+{"index": 152482, "D": "free from reserve, restraint, or dissimulation; candid; sincere. ", "S": ["foolishly", "stupidly"], "A": []}

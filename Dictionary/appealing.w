@@ -1,1 +1,1 @@
-{"index": 17606, "D": "evoking or attracting interest, desire, curiosity, sympathy, or the like; attractive.", "S": ["engaging ", "tempting "], "A": ["repulsive "]}
+{"index": 17606, "D": "evoking or attracting interest, desire, curiosity, sympathy, or the like; attractive.", "S": ["engaging", "tempting"], "A": ["repulsive"]}

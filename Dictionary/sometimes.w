@@ -1,1 +1,1 @@
-{"index": 297064, "D": "on some occasions; at times; now and then.", "S": ["consistently ", "constantly ", "frequently ", "occasionally "], "A": ["never "]}
+{"index": 297064, "D": "on some occasions; at times; now and then.", "S": ["consistently", "constantly", "frequently", "occasionally"], "A": ["never"]}

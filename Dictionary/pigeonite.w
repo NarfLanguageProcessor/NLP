@@ -1,1 +1,0 @@
-{"index": 236349, "D": "a monoclinic variety of pyroxene consisting mainly of a mixture of (MgFe)SiO3 and CaMg(SiO3)2.", "S": [], "A": []}

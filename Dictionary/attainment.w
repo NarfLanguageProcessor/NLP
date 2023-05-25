@@ -1,1 +1,1 @@
-{"index": 22960, "D": "an act of attaining. ", "S": ["fulfillment ", "realization "], "A": ["failure ", "forfeit ", "loss ", "miss ", "surrender "]}
+{"index": 22960, "D": "an act of attaining. ", "S": ["fulfillment", "realization"], "A": ["failure", "forfeit", "loss", "miss", "surrender"]}

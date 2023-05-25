@@ -1,1 +1,1 @@
-{"index": 89033, "D": "tending to lower the spirit or enthusiasm; depressing; discouraging", "S": ["crushing ", "discouraging ", "disheartening ", "dismal "], "A": []}
+{"index": 89033, "D": "tending to lower the spirit or enthusiasm; depressing; discouraging", "S": ["crushing", "discouraging", "disheartening", "dismal"], "A": []}

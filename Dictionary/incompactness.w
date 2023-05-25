@@ -1,1 +1,1 @@
-{"index": 150090, "D": "not compact;  loose.", "S": ["delicacy ", "emaciation ", "fineness ", "gauntness ", "inadequacy ", "meagerness ", "rarity ", "scantiness ", "shallowness ", "slimness ", "spareness ", "sparseness ", "tenuity "], "A": ["avoirdupois ", "fatness ", "solidity ", "thickness "]}
+{"index": 150090, "D": "not compact;  loose.", "S": ["delicacy", "emaciation", "fineness", "gauntness", "inadequacy", "meagerness", "rarity", "scantiness", "shallowness", "slimness", "spareness", "sparseness", "tenuity"], "A": ["avoirdupois", "fatness", "solidity", "thickness"]}

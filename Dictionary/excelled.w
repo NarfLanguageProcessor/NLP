@@ -1,1 +1,1 @@
-{"index": 106579, "D": "to surpass others or be superior in some respect or area; do extremely well", "S": ["come through ", "outdo ", "shine ", "transcend "], "A": ["fail ", "lose ", "fall behind ", "surrender "]}
+{"index": 106579, "D": "to surpass others or be superior in some respect or area; do extremely well", "S": [], "A": []}

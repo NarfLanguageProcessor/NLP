@@ -1,1 +1,1 @@
-{"index": 64569, "D": "a person who compiles. ", "S": ["connoisseur ", "hobbyist "], "A": []}
+{"index": 64569, "D": "a person who compiles. ", "S": ["connoisseur", "hobbyist"], "A": []}

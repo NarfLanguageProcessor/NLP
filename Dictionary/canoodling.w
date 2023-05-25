@@ -1,1 +1,1 @@
-{"index": 46524, "D": "to caress, fondle, or pet amorously.", "S": ["caressing ", "cuddling ", "embracing ", "fondling ", "lovemaking ", "parking ", "petting ", "smooching "], "A": []}
+{"index": 46524, "D": "to caress, fondle, or pet amorously.", "S": ["caressing", "cuddling", "embracing", "fondling", "lovemaking", "parking", "petting", "smooching"], "A": []}

@@ -1,1 +1,1 @@
-{"index": 94647, "D": "to live or stay as a permanent resident; reside. ", "S": ["bide ", "exist ", "hole up ", "inhabit ", "reside ", "squat "], "A": ["move ", "advance ", "depart ", "go ", "leave "]}
+{"index": 94647, "D": "to live or stay as a permanent resident; reside. ", "S": ["bide", "exist", "hole up", "inhabit", "reside", "squat"], "A": ["move", "advance", "depart", "go", "leave"]}
